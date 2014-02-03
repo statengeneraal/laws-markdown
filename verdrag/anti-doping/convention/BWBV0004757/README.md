@@ -4,13 +4,13 @@
 
 ####Anti-doping Convention
 
-Preamble The member States of the Council of Europe, the other States party to the European Cultural Convention, and other States, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members for the purpose of safeguarding and realising the ideals and principles which are their common heritage and of facilitating their economic and social progress; Conscious that sport should play an important role in the protection of health, in moral and physical education and in promoting international understanding; Concerned by the growing use of doping agents and methods by sportsmen and sportswomen throughout sport and the consequences thereof for the health of participants and the future of sport; Mindful that this problem puts at risk the ethical principles and educational values embodied in the Olympic Charter, in the International Charter for Sport and Physical Education of Unesco and in Resolution (76) 41. of the Committee of Ministers of the Council of Europe, known as the “European Sport for All Charter”; Bearing in mind the anti-doping regulations, policies and declarations adopted by the international sports organisations; Aware that public authorities and the voluntary sports organisations have complementary responsibilities to combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them; Recognising that these authorities and organisations must work together for these purposes at all appropriate levels; Recalling the resolutions on doping adopted by the Conference of European Ministers responsible for Sport; and in particular Resolution No: 1 adopted at the 6th Conference in Reykjavik in 1989; Recalling that the Committee of Ministers of the Council of Europe has already adopted Resolution (67) 12 on the doping of athletes, Recommendation No. R (79) 8 on doping in sport, Recommendation No. R (84) 19 on the “European Anti-Doping Charter for sport”, and Recommendation No. R (88) 12 on the institution of doping controls without warning outside competitions; Recalling Recommendation No. 5 on doping adopted by the 2nd International Conference of Ministers and Senior Officials responsible for Sport and Physical Education organised by Unesco at Moscow (1988); Determined however to take further and stronger co-operative action aimed at the reduction and eventual elimination of doping in sport using as a basis the ethical values and practical measures contained in those instruments,   Have agreed as follows:    
+Preamble The member States of the Council of Europe, the other States party to the European Cultural Convention, and other States, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members for the purpose of safeguarding and realising the ideals and principles which are their common heritage and of facilitating their economic and social progress; Conscious that sport should play an important role in the protection of health, in moral and physical education and in promoting international understanding; Concerned by the growing use of doping agents and methods by sportsmen and sportswomen throughout sport and the consequences thereof for the health of participants and the future of sport; Mindful that this problem puts at risk the ethical principles and educational values embodied in the Olympic Charter, in the International Charter for Sport and Physical Education of Unesco and in Resolution (76) 41. of the Committee of Ministers of the Council of Europe, known as the “European Sport for All Charter”; Bearing in mind the anti-doping regulations, policies and declarations adopted by the international sports organisations; Aware that public authorities and the voluntary sports organisations have complementary responsibilities to combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them; Recognising that these authorities and organisations must work together for these purposes at all appropriate levels; Recalling the resolutions on doping adopted by the Conference of European Ministers responsible for Sport; and in particular Resolution No: 1 adopted at the 6th Conference in Reykjavik in 1989; Recalling that the Committee of Ministers of the Council of Europe has already adopted Resolution (67) 12 on the doping of athletes, Recommendation No. R (79) 8 on doping in sport, Recommendation No. R (84) 19 on the “European Anti-Doping Charter for sport”, and Recommendation No. R (88) 12 on the institution of doping controls without warning outside competitions; Recalling Recommendation No. 5 on doping adopted by the 2nd International Conference of Ministers and Senior Officials responsible for Sport and Physical Education organised by Unesco at Moscow (1988); Determined however to take further and stronger co-operative action aimed at the reduction and eventual elimination of doping in sport using as a basis the ethical values and practical measures contained in those instruments,  Have agreed as follows:  
 
 ### Article  1  
 
 ####Aim of the Convention
 
-The Parties, with a view to the reduction and eventual elimination of doping in sport, undertake, within the limits of their respective constitutional provisions, to take the steps necessary to apply the provisions of this Convention.  
+The Parties, with a view to the reduction and eventual elimination of doping in sport, undertake, within the limits of their respective constitutional provisions, to take the steps necessary to apply the provisions of this Convention. 
 
 ### Article  2  
 
@@ -23,14 +23,14 @@ a. “doping in sport” means the administration to sportsmen or sportswomen, o
 b. “pharmacological classes of doping agents or doping methods” means, subject to paragraph 2 below, those classes of doping agents or doping methods banned by the relevant international sports organisations and appearing in lists that have been approved by the Monitoring Group under the terms of Article 11.1.b;  
 
 c. “sportsmen and sportswomen” means those persons who participate regularly in organised sports activities.     
-2.  Until such time as a list of banned pharmacological classes of doping agents and doping methods is approved by the Monitoring Group under the terms of Article 11.1.b, the reference list-in the appendix to this Convention shall apply.   
+2.  Until such time as a list of banned pharmacological classes of doping agents and doping methods is approved by the Monitoring Group under the terms of Article 11.1.b, the reference list-in the appendix to this Convention shall apply.  
 
 ### Article  3  
 
 ####Domestic co-ordination
 
 1.  The Parties shall co-ordinate the policies and actions of their government departments and other public agencies concerned with combating doping in sport.   
-2.  They shall ensure that there is practical application of this Convention, and in particular that the requirements under Article 7 are met, by entrusting, where appropriate, the implementation of some of the provisions of this Convention to a designated governmental or non-governmental sports authority or to a sports oranisation.   
+2.  They shall ensure that there is practical application of this Convention, and in particular that the requirements under Article 7 are met, by entrusting, where appropriate, the implementation of some of the provisions of this Convention to a designated governmental or non-governmental sports authority or to a sports oranisation.  
 
 ### Article  4  
 
@@ -47,7 +47,7 @@ b. take appropriate steps to withhold the grant of subsidies from public funds, 
 c. encourage and, where appropriate, facilitate the carrying out by their sports organisations of the doping controls required by the competent international sports organisations whether during or outside competitions; and  
 
 d. encourage and facilitate the negotiation by sports organisations of agreements permitting their members to be tested by duly authorised doping control teams in other countries.     
-4.  Parties reserve the right to adopt anti-doping regulations and to organise doping controls on their own initiative and on their own responsibility, provided that they are compatible with the relevant principles of this Convention.   
+4.  Parties reserve the right to adopt anti-doping regulations and to organise doping controls on their own initiative and on their own responsibility, provided that they are compatible with the relevant principles of this Convention.  
 
 ### Article  5  
 
@@ -64,14 +64,14 @@ a. take appropriate action to employ and retain, train and retrain qualified sta
 
 b. undertake appropriate programmes of research and development into doping agents and methods used, or thought to be used, for the purposes of doping in sport and into analytical biochemistry and pharmacology with a view to obtaining a better understanding of the effects of various substances upon the human body and their consequences for athletic performance;  
 
-c. publish and circulate promptly new data from their research.     
+c. publish and circulate promptly new data from their research.    
 
 ### Article  6  
 
 ####Education
 
 1.  The Parties undertake to devise and implement, where appropriate in co-operation with the sports organisations concerned and the mass media, educational programmes and information campaigns emphasising the dangers to health inherent in doping and its harm to the ethical values of sport. Such programmes and campaigns shall be directed at both young people in schools and sports clubs and their parents and at adult sportsmen and sportswomen, sports officials, coaches and trainers. For those involved in medicine, such educational programmes will emphasise respect for medical ethics.   
-2.  The Parties undertake the encourage and promote research, in co-operation with the regional, national and international sports organisations concerned, into ways and means of devising scientifically-based physiological and psychological training programmes that respect the integrity of the human person.   
+2.  The Parties undertake the encourage and promote research, in co-operation with the regional, national and international sports organisations concerned, into ways and means of devising scientifically-based physiological and psychological training programmes that respect the integrity of the human person.  
 
 ### Article  7  
 
@@ -82,7 +82,7 @@ c. publish and circulate promptly new data from their research.
 
 a. anti-doping regulations on the basis of the regulations agreed by the relevant international sports organisations;  
 
-b. lists of banned pharmacological classes of doping agents and banned doping methods on the basis of the lists agreed by the relevant international sports organisations;  
+b.  lists of banned pharmacological classes of doping agents and banned doping methods on the basis of the lists agreed by the relevant international sports organisations;  
 
 c. doping control procedures;  
 
@@ -92,7 +92,7 @@ d. disciplinary procedures, applying agreed international principles of natural 
 
 (ii) the right of such persons to a fair hearing and to be assisted or represented;  
 
-(iii) clear and enforceable provisions for appealing against an judgment made;    
+(iii)  clear and enforceable provisions for appealing against an judgment made;    
 
 e. procedures for the imposition of effective penalties for officials, doctors, veterinary doctors, coaches, physiotherapists and other officials or accessories associated with infringements of the antidoping regulations by sportsmen and sportswomen;  
 
@@ -109,7 +109,7 @@ d. to promote active participation by sportsmen and sportswomen themselves in th
 
 e. to make full and efficient use of the facilities available for doping analysis at the laboratories provided for by Article 5, both during and outside sports competitions;  
 
-f. to study scientific training methods and to devise guidelines to protect sportsmen and sportswomen of all ages, appropriate for each sport.     
+f. to study scientific training methods and to devise guidelines to protect sportsmen and sportswomen of all ages, appropriate for each sport.    
 
 ### Article  8  
 
@@ -123,13 +123,13 @@ a. to encourage their sports organisations to operate in a manner that promotes 
 b. to promote co-operation between the staffs of their doping control laboratories established or operating in pursuance of Article 5; and  
 
 c. to initiate bilateral and multilateral co-operation between their appropriate agencies; authorities and organisations in order to achieve, at the international level as well, the purposes set out in Article 4.1.     
-3.  The Parties with laboratories established or operating in pursuance of Article 5 undertake to assist other Parties to enable them to acquire the experience, skills and techniques necessary to establish their own laboratories.   
+3.  The Parties with laboratories established or operating in pursuance of Article 5 undertake to assist other Parties to enable them to acquire the experience, skills and techniques necessary to establish their own laboratories.  
 
 ### Article  9  
 
 ####Provision of information
 
-Each Party shall forward to the Secretary General of the Council of Europe, in one of the official languages of the Council of Europe, all relevant information concerning legislative and other measures taken by it for the purpose of complying with the terms of this Convention.  
+Each Party shall forward to the Secretary General of the Council of Europe, in one of the official languages of the Council of Europe, all relevant information concerning legislative and other measures taken by it for the purpose of complying with the terms of this Convention. 
 
 ### Article  10  
 
@@ -142,7 +142,7 @@ Each Party shall forward to the Secretary General of the Council of Europe, in o
 5.  The Monitoring Group shall be convened by the Secretary General. Its first meeting shall be held as soon as reasonably practicable, and in any case within one year after the date of the entry into force of the Convention. It shall subsequently meet whenever necessary, on the initiative of the Secretary General or a Party.   
 6.  A majority of the Parties shall constitute a quorum for holding a meeting of the Monitoring Group.   
 7.  The Monitoring Group shall meet in private.   
-8.  Subject to the provisions of this Convention, the Monitoring Group shall draw up and adopt by consensus its own Rules of Procedure.   
+8.  Subject to the provisions of this Convention, the Monitoring Group shall draw up and adopt by consensus its own Rules of Procedure.  
 
 ### Article  11  
 
@@ -161,22 +161,22 @@ e. recommend the appropriate measures to keep relevant international organisatio
 f. make recommendations to the Committee of Ministers concerning non-member States of the Council of Europe to be invited to accede to this Convention;  
 
 g. make any proposal for improving the effectiveness of this Convention.     
-2.  In order to discharge its functions, the Monitoring Group may, on its own initiative, arrange for meetings of groups of experts.   
+2.  In order to discharge its functions, the Monitoring Group may, on its own initiative, arrange for meetings of groups of experts.  
 
 ### Article  12  
 
-After each meeting, the Monitoring Group shall forward to the Committee of Ministers of the Council of Europe a report on its work and on the functioning of the Convention.  
+After each meeting, the Monitoring Group shall forward to the Committee of Ministers of the Council of Europe a report on its work and on the functioning of the Convention. 
 
 ### Article  13  
 
 ####Amendments to the Articles of the Convention
 
-1.  Amendments to the Articles of this Convention may be proposed by a Party, the Committee of Ministers of the Council of Europe or the Monitoring Group.   
+1.   Amendments to the Articles of this Convention may be proposed by a Party, the Committee of Ministers of the Council of Europe or the Monitoring Group.   
 2.  Any proposal for amendment shall be communicated by the Secretary General of the Council of Europe to the States mentioned in Article 14 and to every State which has acceded to or has been invited to accede to this Convention in accordance with the provisions of Article 16.   
 3.  Any amendment proposed by a Party or the Committee of Ministers shall be communicated to the Monitoring Group at least two months before the meeting at which it is to be considered. The Monitoring Group shall submit to the Committee of Ministers its opinion on the proposed amendment, where appropriate after consultation with the relevant sports organisations.   
 4.  The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the Monitoring Group and may adopt the amendment.   
 5.  The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 4 of this Article shall be forwarded to the Parties for acceptance.   
-6.  Any amendment adopted in accordance with paragraph 4 of this Article shall come into force on the first day of the month following the expiration of a period of one month after all Parties have informed the Secretary General of their acceptance thereof.   
+6.  Any amendment adopted in accordance with paragraph 4 of this Article shall come into force on the first day of the month following the expiration of a period of one month after all Parties have informed the Secretary General of their acceptance thereof.  
 
 ####Final clauses
 
@@ -187,28 +187,28 @@ After each meeting, the Monitoring Group shall forward to the Committee of Minis
 a. signature without reservation as to ratification, acceptance or approval, or  
 
 b. signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.     
-2.  Instruments of ratification, acceptance or approval shall be desposited with the Secretary General of the Council of Europe.   
+2.  Instruments of ratification, acceptance or approval shall be desposited with the Secretary General of the Council of Europe.  
 
 ### Article  15  
 
 1.  The Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date on which five States, including at least four member States of the Council of Europe, have expressed their consent to be bound by the Convention in accordance with the provisions of Article 14.   
-2.  In respect of any signatory State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of signature or of the deposit of the instrument of ratification, acceptance or approval.   
+2.  In respect of any signatory State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of signature or of the deposit of the instrument of ratification, acceptance or approval.  
 
 ### Article  16  
 
 1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties; may invite to accede to the Convention any non-member State by a decision, taken by the majority provided for in [Article 20.d of the Statue of the Council of Europe](../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) and by the unanimous vote of the representatives of the Contracting States-entitled to sit on the Committee.   
-2.  In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.   
+2.  In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.  
 
 ### Article  17  
 
 1.  Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.   
 2.  Any State may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of receipt of such declaration by the Secretary General.   
-3.  Any declaration made under the two preceding paragraphs may, in respect of any territory mentioned in such declaration, be withdrawn by a notification addressed to the Secretary General. Such withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.   
+3.  Any declaration made under the two preceding paragraphs may, in respect of any territory mentioned in such declaration, be withdrawn by a notification addressed to the Secretary General. Such withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.  
 
 ### Article  18  
 
 1.  Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.   
-2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.   
+2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.  
 
 ### Article  19  
 
@@ -230,7 +230,7 @@ g. any declaration made under the provisions of Article 17;
 
 h. any notification made under the provisions of Article 18 and the date on which the denunciation takes effect;  
 
-i. any other act, notification or communication relating to this Convention.    
+i. any other act, notification or communication relating to this Convention.   
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention. DONE at Strasbourg, this 16th day of November 1989, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the other States party to the European Cultural Convention, to the non-member States which have participated in the elaboration of this Convention and to any State invited to accede to it.  
 
@@ -238,21 +238,21 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed t
 
 Date of entry into force: 1 January 2014  
 
-In accordance with Article 4.2.2 of the World Anti-Doping Code, all Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2, S4.4, S4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.  
+In accordance with Article 4.2.2 of the World Anti-Doping Code, all Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2, S4.4, S4.5, S6.a, and *Prohibited Methods* M1, M2 and M3.
 
-####Substances and methods prohibited at all times
+####Substances and methods prohibited at all times 
 
-(in- and out-of-competition)  
+(in- and out-of-competition) 
 
 ####Prohibited substances
 
-### S0  
+### S0 
 
 ####Non-approved substances
 
-Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is prohibited at all times.  
+Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is prohibited at all times. 
 
-### S1  
+### S1 
 
 ####Anabolic agents
 
@@ -260,13 +260,13 @@ Anabolic agents are prohibited.
 
 1. Anabolic Androgenic Steroids (AAS) 
 
-a). Exogenous AAS, including: <sup> 1)  For purposes of this section: “Exogenous” refers to a substance which is not ordinarily produced by the body naturally.  </sup> 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α- androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3β,17β-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19-norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4- hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β- hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α- androstane); quinbolone; stanozolol; stenbolone; 1-testosterone (17β- hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).  
+a).Exogenous<sup> 1) For purposes of this section: “Exogenous” refers to a substance which is not ordinarily produced by the body naturally. </sup> AAS, including: 1-androstenediol (5α-androst-1-ene-3β,17β-diol); 1-androstenedione (5α- androst-1-ene-3,17-dione); bolandiol (estr-4-ene-3β,17β-diol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol; danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol); dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol); drostanolone; ethylestrenol (19-norpregna-4-en-17α-ol); fluoxymesterone; formebolone; furazabol (17α-methyl[1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol); gestrinone; 4- hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one); mestanolone; mesterolone; metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one); metenolone; methandriol; methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one); methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone (methyltrienolone, 17β- hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione (estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone; oxymetholone; prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α- androstane); quinbolone; stanozolol; stenbolone; 1-testosterone (17β- hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (17-hydroxyestr-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one); trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and other substances with a similar chemical structure or similar biological effect(s).
 
-b) Endogenous AAS when administered exogenously: <sup> 2)  For purposes of this section: “Endogenous” refers to a substance which is ordinarily produced by the body naturally.  </sup> androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.    
+b)Endogenous<sup> 2) For purposes of this section: “Endogenous” refers to a substance which is ordinarily produced by the body naturally. </sup> AAS when administered exogenously:androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one); testosterone; and their metabolites and isomers, including but not limited to: 5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol; androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol; androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; etiocholanolone; 3α-hydroxy-5α-androstan-17-one; 3β-hydroxy-5α-androstan-17-one; 7α-hydroxy-DHEA; 7β-hydroxy-DHEA; 7-keto-DHEA; 19-norandrosterone; 19-noretiocholanolone.  
 
-2. Other Anabolic Agents, including but not limited to: Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.    
+2. Other Anabolic Agents, including but not limited to: Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.   
 
-### S2  
+### S2 
 
 ####Peptide hormones, growth factors and related substances
 
@@ -278,15 +278,15 @@ The following substances, and other substances with similar chemical structure o
 
 3. Corticotrophins and their releasing factors;  
 
-4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1). In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching;   and other substances with a similar chemical structure or similar biological effect(s).  
+4. Growth Hormone (GH) and its releasing factors and Insulin-like Growth Factor-1 (IGF-1). In addition, the following growth factors are prohibited Fibroblast Growth Factors (FGFs), Hepatocyte Growth Factor (HGF), Mechano Growth Factors (MGFs), Platelet-Derived Growth Factor (PDGF), Vascular-Endothelial Growth Factor (VEGF) as well as any other growth factor affecting muscle, tendon or ligament protein synthesis/degradation, vascularisation, energy utilisation, regenerative capacity or fibre type switching;   and other substances with a similar chemical structure or similar biological effect(s).
 
-### S3  
+### S3 
 
 ####Beta-2 agonists
 
-All beta-2 agonists, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers’ recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered an *Adverse Analytical Finding* unless the *Athlete* proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above.  
+All beta-2 agonists, including all optical isomers (e.g. *d- *and *l-*) where relevant, are prohibited except inhaled salbutamol (maximum 1600 micrograms over 24 hours), inhaled formoterol (maximum delivered dose 54 micrograms over 24 hours) and salmeterol when taken by inhalation in accordance with the manufacturers’ recommended therapeutic regime. The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is presumed not to be an intended therapeutic use of the substance and will be considered an *Adverse Analytical Finding* unless the *Athlete* proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of the use of the therapeutic inhaled dose up to the maximum indicated above. 
 
-### S4  
+### S4 
 
 ####Hormone and metabolic modulators
 
@@ -304,17 +304,17 @@ The following are prohibited:
 
 a) Insulins  
 
-b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK) axis agonists (e.g. AICAR)      
+b) Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516), PPARδ-AMP-activated protein kinase (AMPK)  axis agonists (e.g. AICAR)    
 
-### S5  
+### S5 
 
 ####Diuretics and other masking agents
 
-Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol), probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlortalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide), triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except for drospirenone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and O *ut-of-Competition,* as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjunction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent.  
+Masking agents are prohibited. They include: Diuretics, desmopressin, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol), probenecid; and other substances with similar biological effect(s). Local administration of felypressin in dental anaesthesia is not prohibited. Diuretics include: Acetazolamide, amiloride, bumetanide, canrenone, chlortalidone, etacrynic acid, furosemide, indapamide, metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide), triamterene, vaptans (e.g. tolvaptan); and other substances with a similar chemical structure or similar biological effect(s) (except for drospirenone, pamabrom and topical dorzolamide and brinzolamide, which are not prohibited). The use *In-* and O*ut-of-Competition,* as applicable, of any quantity of a substance subject to threshold limits (i.e. formoterol, salbutamol, cathine, ephedrine, methylephedrine and pseudoephedrine) in conjunction with a diuretic or other masking agent requires the deliverance of a specific Therapeutic Use Exemption for that substance in addition to the one granted for the diuretic or other masking agent.
 
 ####Prohibited Methods
 
-### M1  
+### M1 
 
 ####Manipulation of blood and blood components
 
@@ -324,9 +324,9 @@ The following are prohibited:
 
 2. Artificially enhancing the uptake, transport or delivery of oxygen, including, but not limited to, perfluorochemicals, efaproxiral (RSR13) and modified haemoglobin products (e.g. haemoglobin-based blood substitutes, microencapsulated haemoglobin products), excluding supplemental oxygen.  
 
-3. Any form of intravascular manipulation of the blood or blood components by physical or chemical means.    
+3. Any form of intravascular manipulation of the blood or blood components by physical or chemical means.   
 
-### M2  
+### M2 
 
 ####Chemical and physical manipulation
 
@@ -334,9 +334,9 @@ The following are prohibited:
 
 1. *Tampering,* or attempting to tamper, in order to alter the integrity and validity of *Samples* collected during *Doping Controls*. These include but are not limited to urine substitution and/or adulteration (e.g. proteases).  
 
-2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period except for those legitimately received in the course of hospital admissions or clinical investigations.    
+2. Intravenous infusions and/or injections of more than 50 mL per 6 hours period except for those legitimately received in the course of hospital admissions or clinical investigations.   
 
-### M3  
+### M3 
 
 ####Gene doping
 
@@ -344,7 +344,7 @@ The following, with the potential to enhance sport performance, are prohibited:
 
 1. The transfer of polymers of nucleic acids or nucleic acid analogues;  
 
-2. The use of normal or genetically modified cells.    
+2. The use of normal or genetically modified cells.   
 
 ####Substances and methods prohibited in-competition
 
@@ -352,37 +352,37 @@ In addition to the categories S0 to S5 and M1 to M3 defined above, the following
 
 ####Prohibited substances
 
-### S6  
+### S6 
 
 ####Stimulants
 
-All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program . <sup> 3)  The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine) are not considered as *Prohibited Substances*.  </sup> Stimulants include: 
+All stimulants, including all optical isomers (e.g. *d-* and *l-*) where relevant, are prohibited, except imidazole derivatives for topical use and those stimulants included in the 2014 Monitoring Program<sup> 3) The following substances included in the 2014 Monitoring Program (bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine) are not considered as *Prohibited Substances*. </sup>. Stimulants include: 
 
-a) Non-Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d* -); p-methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
+a) Non-Specified Stimulants: Adrafinil; amfepramone; amfetamine; amfetaminil; amiphenazole; benfluorex; benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; fencamine; fenetylline; fenfluramine; fenproporex; fonturacetam [4-phenylpiracetam (carphedon)]; furfenorex; mefenorex; mephentermine; mesocarb; metamfetamine(*d*-); p-methylamphetamine; modafinil; norfenfluramine; phendimetrazine; phenmetrazine; phentermine; prenylamine; prolintane. A stimulant not expressly listed in this section is a Specified Substance.  
 
-b) Specified Stimulants (examples): Benzfetamine; cathine ; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine ; epinephrine (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroxyamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine ; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine ; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s). <sup> 4)  Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter.  </sup> <sup> 5)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 6)  Local administration (e.g. nasal, ophthalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited.  </sup> <sup> 7)  Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter.  </sup> <sup> 8)  Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter.  </sup>    
+b) Specified Stimulants (examples): Benzfetamine; cathine<sup> 4) Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter. </sup>; cathinone and its analogues (e.g. mephedrone, methedrone, α-pyrrolidinovalerophenone); dimethylamphetamine; ephedrine<sup> 5) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; epinephrine<sup> 6) Local administration (e.g. nasal, ophthalmologic) of epinephrine (adrenaline) or co-administration with local anaesthetic agents is not prohibited. </sup> (adrenaline); etamivan; etilamfetamine; etilefrine; famprofazone; fenbutrazate; fencamfamin; heptaminol; hydroxyamfetamine (parahydroxyamphetamine); isometheptene; levmetamfetamine; meclofenoxate; methylenedioxymethamphetamine; methylephedrine<sup> 7) Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10 micrograms per milliliter. </sup>; methylhexaneamine (dimethylpentylamine); methylphenidate; nikethamide; norfenefrine; octopamine; oxilofrine (methylsynephrine); pemoline; pentetrazol; phenpromethamine; propylhexedrine; pseudoephedrine<sup> 8) Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter. </sup>; selegiline; sibutramine; strychnine; tenamfetamine (methylenedioxyamphetamine); trimetazidine; tuaminoheptane; and other substances with a similar chemical structure or similar biological effect(s).   
 
-### S7  
+### S7 
 
 ####Narcotics
 
-The following are prohibited: Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, oxycodone, oxymorphone, pentazocine, pethidine.  
+The following are prohibited: Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, oxycodone, oxymorphone, pentazocine, pethidine. 
 
-### S8  
+### S8 
 
 ####Cannabinoids
 
-Natural (e.g. cannabis, hashish, marijuana) or synthetic delta 9-tetrahydrocannabinol (THC) and cannabimimetics (e.g. “Spice”, JWH018, JWH073, HU-210) are prohibited.  
+Natural (e.g. cannabis, hashish, marijuana) or synthetic delta 9-tetrahydrocannabinol (THC) and cannabimimetics (e.g. “Spice”, JWH018, JWH073, HU-210) are prohibited. 
 
-### S9  
+### S9 
 
 ####Glucocorticosteroids
 
-All glucocorticosteroids are prohibited when administered by oral, intravenous, intramuscular or rectal routes.  
+All glucocorticosteroids are prohibited when administered by oral, intravenous, intramuscular or rectal routes. 
 
 ####Substances prohibited in particular sports
 
-### P1  
+### P1 
 
 ####Alcohol
 
@@ -398,9 +398,9 @@ Alcohol (ethanol) is prohibited *In-Competition* only, in the following sports. 
 
 – Motorcycling (FIM)  
 
-– Powerboating (UIM)    
+– Powerboating (UIM)   
 
-### P2  
+### P2 
 
 ####Beta-blockers
 
@@ -418,7 +418,7 @@ Unless otherwise specified, beta-blockers are prohibited *In-Competition* only, 
 
 – Shooting (ISSF, IPC) (also prohibited *Out-of-Competition*)  
 
-– Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol.  
+– Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air   Beta-blockers include, but are not limited to, the following: Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol. 
 
 ####Overeenkomst ter bestrijding van doping
 
@@ -428,7 +428,7 @@ Preambule De lidstaten van de Raad van Europa, de andere Staten die partij zijn 
 
 ####Doel van de Overeenkomst
 
-De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteindelijke uitbanning van doping in de sport, binnen de grenzen van hun onderscheiden constitutionele bepalingen, de noodzakelijke stappen te nemen om de bepalingen van deze Overeenkomst toe te passen.  
+De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteindelijke uitbanning van doping in de sport, binnen de grenzen van hun onderscheiden constitutionele bepalingen, de noodzakelijke stappen te nemen om de bepalingen van deze Overeenkomst toe te passen. 
 
 ### Artikel  2  
 
@@ -441,14 +441,14 @@ a. „doping in de sport”: de toediening aan sportmensen, of het gebruik door 
 b. „farmacologische groepen van dopingmiddelen of dopingmethoden”: behoudens het tweede lid hieronder, de groepen van dopingmiddelen of dopingmethoden die door de bevoegde internationale sportorganisaties zijn verboden en die voorkomen op de lijsten die zijn goedgekeurd door de Commissie van Toezicht overeenkomstig het bepaalde in artikel 11, eerste lid, letter b;  
 
 c. „sportmensen”: personen die regelmatig deelnemen aan georganiseerde sportactiviteiten.     
-2.  Totdat een lijst van verboden farmacologische groepen van dopingmiddelen en dopingmethoden door de Commissie van Toezicht is goedgekeurd overeenkomstig het bepaalde in artikel 11, eerste lid, letter b, is de lijst in het aanhangsel bij deze Overeenkomst van toepassing.   
+2.  Totdat een lijst van verboden farmacologische groepen van dopingmiddelen en dopingmethoden door de Commissie van Toezicht is goedgekeurd overeenkomstig het bepaalde in artikel 11, eerste lid, letter b, is de lijst in het aanhangsel bij deze Overeenkomst van toepassing.  
 
 ### Artikel  3  
 
 ####Coördinatie op binnenlands niveau
 
 1.  De Partijen coördineren de beleidslijnen en maatregelen van hun overheidsdiensten, en andere openbare organen die betrokken zijn bij de bestrijding van doping in de sport.   
-2.  Zij dragen er zorg voor dat deze Overeenkomst in de praktijk wordt toegepast, en met name dat aan de vereisten, krachtens artikel 7 wordt voldaan, door de uitvoering van een aantal bepalingen van deze Overeenkomst, wanneer er aanleiding toe is, op te dragen aan een aangewezen gouvernementele of niet-gouvernementele sportautoriteit of sportorganisatie.   
+2.  Zij dragen er zorg voor dat deze Overeenkomst in de praktijk wordt toegepast, en met name dat aan de vereisten, krachtens artikel 7 wordt voldaan, door de uitvoering van een aantal bepalingen van deze Overeenkomst, wanneer er aanleiding toe is, op te dragen aan een aangewezen gouvernementele of niet-gouvernementele sportautoriteit of sportorganisatie.  
 
 ### Artikel  4  
 
@@ -465,7 +465,7 @@ b. passende stappen te ondernemen om de toekenning van bijdragen of subsidies ui
 c. de uitvoering door hun sportorganisaties van door de bevoegde internationale sportorganisaties vereiste dopingcontroles aan te moedigen en in voorkomende gevallen te vergemakkelijken, ongeacht of deze controles tijdens of buiten wedstrijden plaatsvinden;  
 
 d. het sluiten van overeenkomsten door sportorganisaties waarbij wordt toegestaan dat hun leden in andere landen worden getest door daartoe bevoegde teams voor dopingcontrole aan te moedigen en te vergemakkelijken.     
-4.  De Partijen behouden zich het recht voor regelingen ter bestrijding van doping aan te nemen en op eigen initiatief en voor eigen verantwoordelijkheid dopingcontroles te houden, mits deze verenigbaar zijn met de desbetreffende beginselen van deze Overeenkomst.   
+4.  De Partijen behouden zich het recht voor regelingen ter bestrijding van doping aan te nemen en op eigen initiatief en voor eigen verantwoordelijkheid dopingcontroles te houden, mits deze verenigbaar zijn met de desbetreffende beginselen van deze Overeenkomst.  
 
 ### Artikel  5  
 
@@ -482,14 +482,14 @@ a. passende maatregelen te nemen om bekwaam personeel in dienst te nemen en te b
 
 b. passende programma's uit te voeren voor onderzoek en ontwikkeling betreffende dopingmiddelen en dopingmethoden die worden gebruikt of vermoedelijk worden gebruikt voor doping in de sport, en betreffende analytische biochemie en farmacologie, ten einde een beter inzicht te verkrijgen in de effecten van de verschillende stoffen op het menselijk lichaam en de gevolgen ervan voor sportprestaties;  
 
-c. nieuwe gegevens uit hun onderzoeken snel te publiceren en te verspreiden.     
+c. nieuwe gegevens uit hun onderzoeken snel te publiceren en te verspreiden.    
 
 ### Artikel  6  
 
 ####Onderwijs
 
 1.  De Partijen verbinden zich ertoe voorlichtingsprogramma's en informatiecampagnes te ontwerpen en uit te voeren, wanneer er aanleiding toe is in samenwerking met de betrokken sportorganisaties en de massamedia, waarin de nadruk wordt gelegd op de gevaren voor de gezondheid inherent aan doping en op de schade die doping toebrengt aan de ethische waarden in de sport. Die programma's en campagnes worden gericht op zowel jongeren op scholen en bij sportverenigingen als hun ouders, alsmede op volwassen sportmensen, sportfunctionarissen, coaches en trainers. Voor degenen die werkzaam zijn op medisch gebied, zal in deze onderwijsprogramma's de nadruk worden gelegd op de medische ethiek.   
-2.  De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van de individu wordt geëerbiedigd.   
+2.  De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van de individu wordt geëerbiedigd.  
 
 ### Artikel  7  
 
@@ -527,7 +527,7 @@ d. actieve deelneming van sportmensen zelf aan de bestrijding van doping door in
 
 e. volledig en doelmatig gebruik te maken van de beschikbare faciliteiten voor dopinganalyse in de in artikel 5 voorziene laboratoria, zowel tijdens als buiten sportwedstrijden;  
 
-f. wetenschappelijke trainingsmethoden te bestuderen en richtlijnen te ontwerpen om sportmensen van alle leeftijden te beschermen, aangepast aan de desbetreffende sport.     
+f. wetenschappelijke trainingsmethoden te bestuderen en richtlijnen te ontwerpen om sportmensen van alle leeftijden te beschermen, aangepast aan de desbetreffende sport.    
 
 ### Artikel  8  
 
@@ -541,13 +541,13 @@ a. hun sportorganisaties aan te moedigen door hun werkwijze de toepassing van de
 b. de samenwerking tussen de medewerkers van de overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria voor dopingcontrole te bevorderen; en  
 
 c. bilaterale en multilaterale samenwerking tussen hun bevoegde organen, autoriteiten en organisaties op gang te brengen ten einde de in artikel 4, eerste lid, omschreven doelstellingen ook op internationaal niveau te verwezenlijken.     
-3.  De Partijen die beschikken over overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria, verbinden zich ertoe andere Partijen te ondersteunen ten einde hen in staat te stellen de nodige ervaring, vaardigheden en technieken te verwerven om hun eigen laboratoria op te richten.   
+3.  De Partijen die beschikken over overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria, verbinden zich ertoe andere Partijen te ondersteunen ten einde hen in staat te stellen de nodige ervaring, vaardigheden en technieken te verwerven om hun eigen laboratoria op te richten.  
 
 ### Artikel  9  
 
 ####Verstrekking van informatie
 
-Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de officiële talen van de Raad van Europa alle relevante informatie betreffende wettelijke en andere maatregelen die zij heeft genomen ten einde aan de voorwaarden van deze Overeenkomst te voldoen.  
+Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de officiële talen van de Raad van Europa alle relevante informatie betreffende wettelijke en andere maatregelen die zij heeft genomen ten einde aan de voorwaarden van deze Overeenkomst te voldoen. 
 
 ### Artikel  10  
 
@@ -560,7 +560,7 @@ Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de
 5.  De Commissie van Toezicht wordt bijeengeroepen door de Secretaris-Generaal. Haar eerste bijeenkomst wordt gehouden zo spoedig als redelijkerwijs mogelijk is, en in ieder geval binnen één jaar na de datum van inwerkingtreding van de Overeenkomst. De Commissie van Toezicht komt daarna bijeen wanneer dit noodzakelijk blijkt, op initiatief van de Secretaris-Generaal of van een Partij.   
 6.  De meerderheid van de Partijen vormt het vereiste quorum voor het houden van een bijeenkomst van de Commissie van Toezicht.   
 7.  De bijeenkomsten van de Commissie van Toezicht zijn niet openbaar.   
-8.  Behoudens de bepalingen van deze Overeenkomst stelt de Commissie van Toezicht haar eigen procedureregels op en neemt deze bij consensus aan.   
+8.  Behoudens de bepalingen van deze Overeenkomst stelt de Commissie van Toezicht haar eigen procedureregels op en neemt deze bij consensus aan.  
 
 ### Artikel  11  
 
@@ -579,11 +579,11 @@ e. passende maatregelen aanbevelen om de betrokken internationale organisaties e
 f. aanbevelingen aan het Comité van Ministers doen betreffende het uitnodigen van niet-lidstaten van de Raad van Europa om tot deze Overeenkomst toe te treden;  
 
 g. voorstellen doen ter vergroting van de doeltreffendheid van deze Overeenkomst.     
-2.  Voor de uitvoering van haar taken kan de Commissie van Toezicht op eigen initiatief bijeenkomsten van groepen deskundigen beleggen.   
+2.  Voor de uitvoering van haar taken kan de Commissie van Toezicht op eigen initiatief bijeenkomsten van groepen deskundigen beleggen.  
 
 ### Artikel  12  
 
-Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers van de Raad van Europa een verslag van haar werk en van de werking van de Overeenkomst.  
+Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers van de Raad van Europa een verslag van haar werk en van de werking van de Overeenkomst. 
 
 ### Artikel  13  
 
@@ -594,7 +594,7 @@ Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers v
 3.  Iedere door een Partij of door het Comité van Ministers voorgestelde wijziging wordt uiterlijk twee maanden vóór de bijeenkomst waarop deze moet worden bezien, toegezonden aan de Commissie van Toezicht. De Commissie van Toezicht stelt het Comité van Ministers in kennis van haar mening inzake de voorgestelde wijziging, wanneer er aanleiding toe is in overleg met de bevoegde sportorganisaties.   
 4.  Het Comité van Ministers bestudeert de voorgestelde wijziging en de mening van de Commissie van Toezicht en kan de wijziging aannemen.   
 5.  De tekst van een door het Comité van Ministers in overeenstemming met het vierde lid van dit artikel aangenomen wijziging wordt aan de Partijen toegezonden voor aanvaarding.   
-6.  Iedere in overeenstemming met het vierde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand nadat alle Partijen de Secretaris-Generaal in kennis hebben gesteld van hun aanvaarding daarvan.   
+6.  Iedere in overeenstemming met het vierde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand nadat alle Partijen de Secretaris-Generaal in kennis hebben gesteld van hun aanvaarding daarvan.  
 
 ####SLOTBEPALINGEN
 
@@ -605,28 +605,28 @@ Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers v
 a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of  
 
 b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.     
-2.  De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.   
+2.  De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.  
 
 ### Artikel  15  
 
 l.  Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop vijf Staten, waaronder ten minste vier lidstaten van de Raad van Europa, hun instemming door deze Overeenkomst te worden gebonden tot uitdrukking hebben gebracht overeenkomstig de bepalingen van artikel 14.   
-2.  Ten aanzien van iedere ondertekenende Staat die later zijn instemming door deze Overeenkomst te worden gebonden tot uitdrukking heeft gebracht, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ondertekening of van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.   
+2.  Ten aanzien van iedere ondertekenende Staat die later zijn instemming door deze Overeenkomst te worden gebonden tot uitdrukking heeft gebracht, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ondertekening of van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.  
 
 ### Artikel  16  
 
 1.  Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot de Overeenkomst, zulks bij een besluit genomen met de meerderheid, voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) en met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die het recht hebben in het Comité van Ministers zitting te hebben.   
-2.  Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.   
+2.  Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.  
 
 ### Artikel  17  
 
-1.  Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, aangeven op welk grondgebied of welke grondgebieden deze Overeenkomst van toepassing zal zijn.   
+1.   Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, aangeven op welk grondgebied of welke grondgebieden deze Overeenkomst van toepassing zal zijn.   
 2.  Iedere Staat kan te allen tijde daarna door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring de toepasselijkheid van deze Overeenkomst uitbreiden tot ieder ander in de verklaring genoemd grondgebied. De Overeenkomst treedt ten aanzien van dit grondgebied in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ontvangst van de verklaring door de Secretaris-Generaal.   
-3.  Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied; worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
+3.  Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied; worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.  
 
 ### Artikel  18  
 
 1.  Iedere Partij kan deze Overeenkomst te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.   
-2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
+2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.  
 
 ### Artikel  19  
 
@@ -648,7 +648,7 @@ g. iedere overeenkomstig het bepaalde in artikel 17 afgelegde verklaring;
 
 h. iedere overeenkomstig het bepaalde in artikel 18 gedane kennisgeving, alsmede de datum waarop de opzegging van kracht wordt;  
 
-i. iedere andere handeling, kennisgeving of mededeling betrekking hebbend, op deze Overeenkomst.    
+i. iedere andere handeling, kennisgeving of mededeling betrekking hebbend, op deze Overeenkomst.   
 
 TEN BLIJKE WAARVAN de ondergetekenden, zijnde daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN TE Straatsburg, op 16 november 1989, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek, in een enkel exemplaar, dat zal worden nedergelegd in het archief van de Raad van Europa. De Secretaris-Generaal van de Raad van Europa doet hiervan voor eensluidend gewaarmerkte afschriften toekomen aan iedere lidstaat van de Raad van Europa, aan de andere Staten die Partij zijn bij het Europees Cultureel Verdrag, aan de niet-lidstaten die hebben deelgenomen aan het opstellen van deze Overeenkomst en aan iedere Staat die is uitgenodigd ertoe toe te treden.  
 
