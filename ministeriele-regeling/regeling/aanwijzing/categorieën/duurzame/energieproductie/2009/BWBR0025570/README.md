@@ -13,19 +13,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *minister:* de Minister van Economische Zaken;  
+–  *minister:* de Minister van Economische Zaken;  
 
-– *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-– *algemene uitvoeringsregeling:* de Algemene uitvoeringsregeling stimulering duurzame energieproductie;  
+–  *algemene uitvoeringsregeling:* de Algemene uitvoeringsregeling stimulering duurzame energieproductie;  
 
-– *gewogen maandelijks rendement:* het rendement, bedoeld in [artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md);  
+–  *gewogen maandelijks rendement:* het rendement, bedoeld in [artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md);  
 
-– *NTA 8003:* 2008: de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;  
+–  *NTA 8003:* 2008: de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;  
 
-– *overige vergisting:* de biologische afbraakreacties van biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van de nummers 410, 420, 430, 500, 550 tot en met 559, 587, 592, 600, 610 en 620;  
+–  *overige vergisting:* de biologische afbraakreacties van biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van de nummers 410, 420, 430, 500, 550 tot en met 559, 587, 592, 600, 610 en 620;  
 
-– *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding:* een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd uit de warmte die uitsluitend of in hoofdzaak is geproduceerd door: 
+–  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding:* een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd uit de warmte die uitsluitend of in hoofdzaak is geproduceerd door: 
 
 1° de verbranding van afvalstoffen,  
 
@@ -33,25 +33,25 @@ In deze regeling wordt verstaan onder:
 
 3° de verbranding van producten die voortkomen uit thermische behandeling van afvalstoffen;    
 
-– *productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd: 
+–  *productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd: 
 
 1° uit gas dat vrijkomt tengevolge van biologische afbraakreacties uit gestorte afvalstoffen, of  
 
 2° uit gas dat vrijkomt tengevolge van biologische afbraakreacties bij de zuivering van huishoudelijk afvalwater, bedrijfsafvalwater en afvloeiend hemelwater;    
 
-– *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht:* een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt;  
+–  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht:* een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt;  
 
-– *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in [artikel 1, onderdeel o, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in [artikel 1, onderdeel o, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-– *productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbaar gas wordt geproduceerd: 
+–  *productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbaar gas wordt geproduceerd: 
 
 1° uit gas dat vrijkomt tengevolge van biologische afbraakreacties uit gestorte afvalstoffen, of  
 
 2° uit gas dat vrijkomt tengevolge van biologische afbraakreacties bij de zuivering van huishoudelijk afvalwater, bedrijfsafvalwater en afvloeiend hemelwater;    
 
-– *valhoogte:* het verschil in waterpeil voor en achter de installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht waarbij het maximaal elektrisch ontwerpvermogen van de turbine of de generator wordt gerealiseerd;  
+–  *valhoogte:* het verschil in waterpeil voor en achter de installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht waarbij het maximaal elektrisch ontwerpvermogen van de turbine of de generator wordt gerealiseerd;  
 
-– *thermische conversie van vaste of vloeibare biomassa:* de omzetting van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 500, 550 tot en met 559, 587 en 592 van de NTA 8003: 2008, door middel van: 
+–  *thermische conversie van vaste of vloeibare biomassa:* de omzetting van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 500, 550 tot en met 559, 587 en 592 van de NTA 8003: 2008, door middel van: 
 
 1° verbranding,  
 
@@ -59,11 +59,11 @@ In deze regeling wordt verstaan onder:
 
 3° de verbranding van producten die voortkomen uit thermische behandeling;    
 
-– *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Meststoffenbeschikking 1977, bijlage I, hoofdstuk III, typeaanduiding ‘co-vergiste mest’](../../../../../../../../ministeriele-regeling/meststoffenbeschikking/1977/BWBR0003122/README.md) zoals deze luidde op 31 december 2007;  
+–  *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Meststoffenbeschikking 1977, bijlage I, hoofdstuk III, typeaanduiding ‘co-vergiste mest’](../../../../../../../../ministeriele-regeling/meststoffenbeschikking/1977/BWBR0003122/README.md) zoals deze luidde op 31 december 2007;  
 
-– *vergisting van groente-, fruit- en tuinafval:* de biologische afbraakreacties van biomassa als bedoeld in de nummers 251, 252, 253, 254, 600, 610, 620 van de NTA 8003:2008;  
+–  *vergisting van groente-, fruit- en tuinafval:* de biologische afbraakreacties van biomassa als bedoeld in de nummers 251, 252, 253, 254, 600, 610, 620 van de NTA 8003:2008;  
 
-– *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in [artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit.    
+–  *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in [artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit.   
 
 ### §  2  
 
@@ -77,29 +77,29 @@ In deze regeling wordt verstaan onder:
 
 1.  De minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land.   
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 1.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 1.  
 
 ### Artikel  3  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in artikel 2, tweede lid, bedraagt € 1.512.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  4  
 
 1.  Subsidie als bedoeld in artikel 2, eerste lid, wordt voor een periode van 15 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  5  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land bedraagt 1760 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land bedraagt 1760 uren per jaar. 
 
 ### Artikel  6  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,118 per kWh.  
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,118 per kWh. 
 
 ### Artikel  7  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,049 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,049 per kWh. 
 
 ### §  2.1a  
 
@@ -127,7 +127,7 @@ c. de milieu-effectrapportage, bedoeld in [hoofdstuk 7 van de Wet milieubeheer]
 d. de voor de productie-installatie vereiste vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet beheer rijkswaterstaatswerken](../../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en de [Wet op de Ruimtelijke ordening](../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn aangevraagd.     
 3.  Productie-installaties als bedoeld in het eerste en tweede lid, worden aangewezen als productie-installaties als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 4.  Aanvragen om subsidie als bedoeld in het eerste en tweede lid, worden ontvangen in de periode van de datum van inwerkingtreding van dit artikel tot 29 januari 2010, 17:00 uur.   
-5.  Een aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 6.   
+5.  Een aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 6.  
 
 ### Artikel  7b  
 
@@ -136,12 +136,12 @@ d. de voor de productie-installatie vereiste vergunningen op grond van de [Wonin
 a. artikel 7a, eerste lid: € 741.000.000,–;  
 
 b. artikel 7a, tweede lid: € 546.000.000,–.     
-2.  De minister verdeelt de bedragen, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt de bedragen, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  7c  
 
 1.  Subsidie als bedoeld in artikel 7a, eerste en tweede lid, wordt voor een periode van 15 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie als bedoeld in artikel 7a, eerste en tweede lid, binnen 6 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie als bedoeld in artikel 7a, eerste en tweede lid, binnen 6 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  7d  
 
@@ -149,7 +149,7 @@ Het maximaal aantal vollasturen voor productie-installaties bedraagt voor produc
 
 a. artikel 7a, eerste lid: 2476;  
 
-b. artikel 7a, tweede lid: 2494.    
+b. artikel 7a, tweede lid: 2494.   
 
 ### Artikel  7e  
 
@@ -157,7 +157,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../.
 
 a. artikel 7a, eerste lid: € 0,120 per kWh;  
 
-b. artikel 7a, tweede lid: € 0,151 per kWh.    
+b. artikel 7a, tweede lid: € 0,151 per kWh.   
 
 ### Artikel  7f  
 
@@ -165,7 +165,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../.
 
 a. artikel 7a, eerste lid: € 0,050 per kWh;  
 
-b. artikel 7a, tweede lid: € 0,050 per kWh.    
+b. artikel 7a, tweede lid: € 0,050 per kWh.   
 
 ### §  2.2  
 
@@ -182,11 +182,11 @@ b. groter dan 15 kWp en kleiner dan of gelijk aan 100 kWp, welke zijn geplaatst 
 3.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
 4.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 2.   
 5.  Een gebundelde aanvraag om subsidie als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende bijlage 3.   
-6.  Een aanvraag om subsidie als bedoeld in het vierde lid en vijfde lid, wordt geacht een aanvraag tot het verstrekken van een voorschot te zijn, tenzij de aanvrager te kennen geeft een aparte aanvraag tot het verstrekken van een voorschot te willen indienen of aangeeft geen voorschot te willen ontvangen.   
+6.  Een aanvraag om subsidie als bedoeld in het vierde lid en vijfde lid, wordt geacht een aanvraag tot het verstrekken van een voorschot te zijn, tenzij de aanvrager te kennen geeft een aparte aanvraag tot het verstrekken van een voorschot te willen indienen of aangeeft geen voorschot te willen ontvangen.  
 
 ### Artikel  9  
 
-Voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, is de rapportageverplichting, bedoeld in artikel 3, tweede lid, van de algemene uitvoeringsregeling niet van toepassing.  
+Voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, is de rapportageverplichting, bedoeld in artikel 3, tweede lid, van de algemene uitvoeringsregeling niet van toepassing. 
 
 ### Artikel  10  
 
@@ -195,17 +195,17 @@ Voor subsidie als bedoeld in artikel 8, eerste lid, onderdeel a, is de rapportag
 a. artikel 8, eerste lid, onderdeel a: € 86.500.000,–;  
 
 b. artikel 8, eerste lid, onderdeel b: € 56.500.000,–.     
-2.  De minister verdeelt de bedragen, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt de bedragen, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  11  
 
 1.  Subsidie als bedoeld in artikel 8, eerste lid, wordt voor een periode van 15 jaar verstrekt.   
 2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen binnen 18 maanden na de datum van de beschikking tot subsidieverlening in gebruik.   
-3.  Deze periode kan in uitzonderlijke gevallen eenmaal met een periode van een jaar worden verlengd.   
+3.  Deze periode kan in uitzonderlijke gevallen eenmaal met een periode van een jaar worden verlengd.  
 
 ### Artikel  12  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen bedraagt 850 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen bedraagt 850 uren per jaar. 
 
 ### Artikel  13  
 
@@ -213,7 +213,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../..
 
 a. artikel 8, eerste lid, onderdeel a: € 0,526 per kWh;  
 
-b. artikel 8, eerste lid, onderdeel b: € 0,459 per kWh.    
+b. artikel 8, eerste lid, onderdeel b: € 0,459 per kWh.   
 
 ### Artikel  14  
 
@@ -221,7 +221,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 a. artikel 8, eerste lid, onderdeel a: € 0,202 per kWh;  
 
-b. artikel 8, eerste lid, onderdeel b: € 0,053 per kWh.    
+b. artikel 8, eerste lid, onderdeel b: € 0,053 per kWh.   
 
 ### §  2.3  
 
@@ -231,25 +231,25 @@ b. artikel 8, eerste lid, onderdeel b: € 0,053 per kWh.
 
 1.  De minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding.   
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  16  
 
-Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
+Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing. 
 
 ### Artikel  17  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in artikel 15, tweede lid, bedraagt € 158.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  18  
 
 1.  Subsidie als bedoeld in artikel 15, eerste lid, wordt voor een periode van 15 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  19  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding bedraagt 3840 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding bedraagt 3840 uren per jaar. 
 
 ### Artikel  20  
 
@@ -270,7 +270,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../..
 
 ### Artikel  21  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,092 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,092 per kWh. 
 
 ### §  2.4  
 
@@ -280,33 +280,33 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 1.  De minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties.   
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  23  
 
-Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
+Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing. 
 
 ### Artikel  24  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in artikel 22, tweede lid, bedoelde periode, bedraagt € 7.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  25  
 
 1.  Subsidie als bedoeld in artikel 24, eerste lid, wordt voor een periode van 12 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  26  
 
-Het maximaal aantal vollasturen voor een productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar.  
+Het maximaal aantal vollasturen voor een productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar. 
 
 ### Artikel  27  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,059 per kWh.  
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,059 per kWh. 
 
 ### Artikel  28  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,044 per kWh. 
 
 ### §  2.5  
 
@@ -324,21 +324,21 @@ c. verbranding van het biogas uit overige vergisting;
 
 d. inzet van warmte verkregen uit thermische conversie van vaste of vloeibare biomassa met een nominaal elektrisch vermogen groter dan 10 MW en kleiner dan of gelijk aan 50 MW.     
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  30  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in artikel 29, tweede lid, bedoelde periode, bedraagt € 625.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  31  
 
 1.  Subsidie als bedoeld in artikel 29, eerste lid, wordt voor een periode van 12 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit bedoeld in artikel 30, eerste lid, binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit bedoeld in artikel 30, eerste lid, binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  32  
 
-Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artikel 29, eerste lid, bedraagt 8000 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artikel 29, eerste lid, bedraagt 8000 uren per jaar. 
 
 ### Artikel  33  
 
@@ -395,7 +395,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 
 ### Artikel  34  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh. 
 
 ### §  2.6  
 
@@ -409,7 +409,7 @@ a. een valhoogte kleiner dan 5 meter;
 
 b. een valhoogte gelijk aan of groter dan 5 meter.     
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 5.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 5.  
 
 ### Artikel  36  
 
@@ -418,12 +418,12 @@ b. een valhoogte gelijk aan of groter dan 5 meter.
 a. artikel 35, eerste lid, onderdeel a: € 60.000.000,–;  
 
 b. artikel 35, eerste lid, onderdeel b: € 15.000.000,–.     
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  37  
 
 1.  Subsidie als bedoeld in artikel 35, eerste lid, wordt voor een periode van 15 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  38  
 
@@ -431,7 +431,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 1. artikel 35, eerste lid, onderdeel a, bedraagt 3800 uren per jaar;  
 
-2. artikel 35, eerste lid, onderdeel b, bedraagt 4800 uren per jaar.    
+2. artikel 35, eerste lid, onderdeel b, bedraagt 4800 uren per jaar.   
 
 ### Artikel  39  
 
@@ -439,11 +439,11 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../..
 
 a. artikel 35, eerste lid, onderdeel a: € 0,125 per kWh;  
 
-b. artikel 35, eerste lid, onderdeel b: € 0,073 per kWh.    
+b. artikel 35, eerste lid, onderdeel b: € 0,073 per kWh.   
 
 ### Artikel  40  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh.  
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh. 
 
 ### §  2.7  
 
@@ -465,7 +465,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, on
 
 a. € 0,080 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### Artikel  42  
 
@@ -473,7 +473,7 @@ b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste li
 
 a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  43  
 
@@ -481,7 +481,7 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, on
 
 a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  43a  
 
@@ -489,7 +489,7 @@ De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel
 
 a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### §  3  
 
@@ -503,33 +503,33 @@ b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste li
 
 1.  De minister verstrekt op aanvraag subsidie aan producenten van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties.   
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  45  
 
-Voor subsidie als bedoeld in artikel 44, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing.  
+Voor subsidie als bedoeld in artikel 44, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de algemene uitvoeringsregeling niet van toepassing. 
 
 ### Artikel  46  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in artikel 44, tweede lid, bedoelde periode, bedraagt € 15.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  47  
 
 1.  Subsidie als bedoeld in artikel 44, eerste lid, wordt voor een periode van 12 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  48  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar. 
 
 ### Artikel  49  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,218 per Nm <sup>3</sup>.  
+Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,218 per Nm<sup>3</sup>. 
 
 ### Artikel  50  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
 
 ### §  3.2  
 
@@ -545,33 +545,33 @@ b. biogas uit vergisting en co-vergisting van dierlijke mest;
 
 c. biogas uit overige vergisting.     
 2.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
-3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.   
+3.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 4.  
 
 ### Artikel  52  
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in artikel 51, tweede lid, bedoelde periode, bedraagt € 243.000.000,–.   
-2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.   
+2.  De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  53  
 
 1.  Subsidie als bedoeld in artikel 51, eerste lid, wordt voor een periode van 12 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas bedoeld in artikel 51, eerste lid, binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas bedoeld in artikel 51, eerste lid, binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.  
 
 ### Artikel  54  
 
-Het maximaal aantal vollasturen voor productie-installaties bedoeld in artikel 51, eerste lid, bedraagt 8000 uren per jaar.  
+Het maximaal aantal vollasturen voor productie-installaties bedoeld in artikel 51, eerste lid, bedraagt 8000 uren per jaar. 
 
 ### Artikel  55  
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), bedraagt voor subsidie als bedoeld in: 
 
-a. artikel 51, eerste lid, onderdeel a: € 0,465 per Nm <sup>3</sup>;  
+a. artikel 51, eerste lid, onderdeel a: € 0,465 per Nm<sup>3</sup>;  
 
-b. artikel 51, eerste lid, onderdelen b en c: € 0,583 per Nm <sup>3</sup>.    
+b. artikel 51, eerste lid, onderdelen b en c: € 0,583 per Nm<sup>3</sup>.   
 
 ### Artikel  56  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 51, eerste lid, bedraagt € 0,147 per Nm <sup>3</sup>.  
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 51, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
 
 ### §  3.3  
 
@@ -581,17 +581,17 @@ De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../.
 
 De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 51, eerste lid, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,221 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,221 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### §  4  
 
 ####Wijziging andere regelingen
 
-### Artikel  58  
+###Artikel  58 
 
-Wijzigt de Regeling aanwijzing categorieën duurzame energieproductie 2008.   
+Wijzigt de Regeling aanwijzing categorieën duurzame energieproductie 2008.
 
 ### §  5  
 
@@ -599,11 +599,11 @@ Wijzigt de Regeling aanwijzing categorieën duurzame energieproductie 2008.
 
 ### Artikel  59  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Artikel 58 werkt terug tot 1 april 2008.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Artikel 58 werkt terug tot 1 april 2008. 
 
 ### Artikel  60  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2009.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.   
 
 Den Haag 
@@ -611,29 +611,29 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven  
+M.J.A. van der Hoeven    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij SenterNovem te Zwolle.  
+Ligt ter inzage bij SenterNovem te Zwolle.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij SenterNovem te Zwolle.  
+Ligt ter inzage bij SenterNovem te Zwolle.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Ligt ter inzage bij SenterNovem te Zwolle.  
+Ligt ter inzage bij SenterNovem te Zwolle.
 
-### Bijlage  4  
+###Bijlage 4 
 
-Ligt ter inzage bij SenterNovem te Zwolle.  
+Ligt ter inzage bij SenterNovem te Zwolle.
 
-### Bijlage  5  
+###Bijlage 5 
 
-Ligt ter inzage bij SenterNovem te Zwolle.  
+Ligt ter inzage bij SenterNovem te Zwolle.
 
-### Bijlage  6  
+### Bijlage 6 
 
 ####behorende bij artikel 7a, vijfde lid , van de Regeling aanwijzing categorieën duurzame energieproductie 2009
 

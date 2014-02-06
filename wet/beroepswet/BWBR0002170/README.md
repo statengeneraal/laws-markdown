@@ -1,21 +1,21 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 2 februari 1955, houdende nieuwe regeling van de organisatie en procedure van de Centrale Raad van Beroep en de raden van beroep
+##Wet van 2 februari 1955, houdende nieuwe regeling van de organisatie en procedure van de Centrale Raad van Beroep en de raden van beroep 
 
-Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.
+Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de organisatie en procedure van de Centrale Raad van Beroep en de raden van beroep opnieuw te regelen;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de organisatie en procedure van de Centrale Raad van Beroep en de raden van beroep opnieuw te regelen; 
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 
 ### Titel  I  
 
-####De Centrale Raad van Beroep
+####De Centrale Raad van Beroep 
 
-### Artikel  1  
+###Artikel 1 
 
-Er is een Centrale Raad van Beroep, gevestigd te Utrecht.  
+Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ a. senior raadsheren;
 
 b. raadsheren;  
 
-c. raadsheren-plaatsvervangers.     
+c. raadsheren-plaatsvervangers.    
 
 ### Artikel  3  
 
@@ -48,11 +48,11 @@ e. de griffie alle werkdagen gedurende ten minste zes uren per dag is geopend;
 
 f. de voorzitter en het andere rechterlijk lid tevens staatsraad of staatsraad in buitengewone dienst kunnen zijn;  
 
-g. de voorzitter en het andere rechterlijk lid van het bestuur niet tevens lid kunnen zijn van het bestuur van een rechtbank, het bestuur van een gerechtshof of het bestuur van het College van Beroep voor het bedrijfsleven, behoudens in het geval van tijdelijke waarneming, en het niet-rechterlijk lid van het bestuur, naast het geval van tijdelijke waarneming, slechts in bijzondere gevallen tevens lid kan zijn van het bestuur van één rechtbank, het bestuur van één gerechtshof of het bestuur van het College van Beroep voor het bedrijfsleven.    
+g. de voorzitter en het andere rechterlijk lid van het bestuur niet tevens lid kunnen zijn van het bestuur van een rechtbank, het bestuur van een gerechtshof of het bestuur van het College van Beroep voor het bedrijfsleven, behoudens in het geval van tijdelijke waarneming, en het niet-rechterlijk lid van het bestuur, naast het geval van tijdelijke waarneming, slechts in bijzondere gevallen tevens lid kan zijn van het bestuur van één rechtbank, het bestuur van één gerechtshof of het bestuur van het College van Beroep voor het bedrijfsleven.   
 
 ### Artikel  3a  
 
-De Centrale Raad van Beroep vormt en bezet op voorstel van de president grote kamers. Deze bestaan uit vijf leden, van wie een als voorzitter optreedt.  
+De Centrale Raad van Beroep vormt en bezet op voorstel van de president grote kamers. Deze bestaan uit vijf leden, van wie een als voorzitter optreedt. 
 
 ### Artikel  4  
 
@@ -80,42 +80,42 @@ b. zij voor de overeenkomstige toepassing van de [artikelen 6](../../../wet/wet/
 c. het bestuur de werkzaamheden van de senior-gerechtsauditeurs en gerechtsauditeurs verdeelt; en  
 
 d. zij voor de overeenkomstige toepassing van [artikel 13](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) worden gelijkgesteld met rechterlijke ambtenaren van wie de eerste benoeming een ambt bij een gerechtshof of rechtbank betreft.     
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde ten aanzien van de in het eerste en tweede lid genoemde leden met rechtspraak belast, senior-gerechtsauditeurs en gerechtsauditeurs.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde ten aanzien van de in het eerste en tweede lid genoemde leden met rechtspraak belast, senior-gerechtsauditeurs en gerechtsauditeurs.  
 
 ### Artikel  5  
 
-Bij algemene maatregel van bestuur kunnen regels worden gesteld over de werkwijze van de Centrale Raad van Beroep.  
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over de werkwijze van de Centrale Raad van Beroep. 
 
-### Artikel  6  
+###Artikel 6 
 
-De rechtbanken en de presidenten geven inlichtingen wanneer die door de president van de Centrale Raad van Beroep voor de behandeling van een zaak noodzakelijk worden geacht.  
+De rechtbanken en de presidenten geven inlichtingen wanneer die door de president van de Centrale Raad van Beroep voor de behandeling van een zaak noodzakelijk worden geacht.
 
 ### Titel  II  
 
 ####Slotbepalingen
 
-Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
-Gegeven ten Paleize Soestdijk 
-2 Februari 1955  
-JULIANA.  
+Gegeven ten Paleize Soestdijk  
+2 Februari 1955   
+JULIANA.   
 
-De Minister van Justitie, 
-L. A. DONKER.   
-
-De Staatssecretaris van Sociale Zaken, 
-A. A. VAN RHIJN.   
-
-De Minister van Binnenlandse Zaken, 
-BEEL.   
-
-De Minister van Oorlog en van Marine, 
-C. STAF.   
-
-De Minister van Maatschappelijk Werk, 
-F. J. VAN THIEL.   
-
-de achttiende Februari 1955. 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 L. A. DONKER.    
+
+De Staatssecretaris van Sociale Zaken,  
+A. A. VAN RHIJN.    
+
+De Minister van Binnenlandse Zaken,  
+BEEL.    
+
+De Minister van Oorlog en van Marine,  
+C. STAF.    
+
+De Minister van Maatschappelijk Werk,  
+F. J. VAN THIEL.    
+
+de achttiende Februari 1955.  
+
+De Minister van Justitie,  
+L. A. DONKER.     
