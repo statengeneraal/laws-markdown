@@ -421,7 +421,7 @@ Er is een Comité van Toezicht ILG.
 
 ### Artikel  28e  
 
-1.  Als leden van het comité worden benoemd voor de periode van 1 september 2013 tot en met 31 december 2013: 
+1.  Als leden van het comité worden benoemd voor de periode van 1 september 2013 tot en met 31 mei 2014: 
 
 – de heer W. Veldman RA, tevens voorzitter;  
 
