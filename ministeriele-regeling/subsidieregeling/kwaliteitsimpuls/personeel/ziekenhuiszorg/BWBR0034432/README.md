@@ -10,15 +10,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;  
+b.  *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;  
 
-c. *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;  
+c.  *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;  
 
-d. *organisatorisch verband:* organisatorisch verband voor medisch specialistische zorg, bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](../../../../../../AMvB/uitvoeringsbesluit/wtzi/BWBR0018983/README.md) of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;  
+d.  *organisatorisch verband:* organisatorisch verband voor medisch specialistische zorg, bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](../../../../../../AMvB/uitvoeringsbesluit/wtzi/BWBR0018983/README.md) of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;  
 
-e. *Zvw-omzet:* som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband behaald met het verlenen van zorg in het kader van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in het tweede jaar voorafgaand aan het subsidiejaar: 
+e.  *Zvw-omzet:*som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in het tweede jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar: 
 
 1°. wettelijk budget voor aanvaardbare kosten Zvw-zorg;  
 
@@ -30,15 +30,15 @@ e. *Zvw-omzet:* som van de volgende onderdelen van de bedrijfsopbrengsten van he
 
 5°. opbrengst uit hoofde van te verrekenen transitiebedrag medisch specialistische zorg;    
 
-f. *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;  
+f.  *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;  
 
-g. *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+g.  *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-h. *accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+h.  *accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-i. *strategisch opleidingsplan:* een met het personeel of een personeelsvertegenwoordiging afgestemd actueel strategisch opleidingsplan van het organisatorisch verband met een planperiode van minimaal 4 jaar, waaronder het subsidiejaar, met betrekking tot ten minste de gewenste omvang van het personeel naar kwalificatieniveau en kwalificatierichting en de daartoe benodigde opleidingsinspanningen om dat te realiseren;  
+i.  *strategisch opleidingsplan:* een met het personeel of een personeelsvertegenwoordiging afgestemd actueel strategisch opleidingsplan van het organisatorisch verband met een planperiode van minimaal 4 jaar, waaronder het subsidiejaar, met betrekking tot ten minste de gewenste omvang van het personeel naar kwalificatieniveau en kwalificatierichting en de daartoe benodigde opleidingsinspanningen om dat te realiseren;  
 
-j. *opleidingsfaciliteiten:* voorzieningen die specifiek opgezet zijn en gebruikt worden voor het opleiden van personeel.    
+j.  *opleidingsfaciliteiten:* voorzieningen die specifiek opgezet zijn en gebruikt worden voor het opleiden van personeel.   
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ b. opleidingen waarvoor de minister op grond van de [Subsidieregeling stageplaat
 
 c. opleidingen waarvoor de minister op grond van de [Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant](../../../../../../ministeriele-regeling/subsidieregeling/opleiding/tot/advanced/nurse/practitioner/en/opleiding/etc/BWBR0020517/README.md) een subsidie kan verstrekken;  
 
-d. andere opleidingen waarvoor de instelling een subsidie of een andere financiële bijdrage van een ander bestuursorgaan ontvangt of kan ontvangen.     
+d. andere opleidingen waarvoor de instelling een subsidie of een andere financiële bijdrage van een ander bestuursorgaan ontvangt of kan ontvangen.    
 
 ### Artikel  3  
 
@@ -73,7 +73,7 @@ B: de som van de Zvw-omzet van alle organisatorisch verbanden ten behoeve waarva
 
 C: het uit hoofde van het subsidieplafond beschikbare bedrag;  
 
-D: het maximum bedrag van de subsidie voor het organisatorische verband.     
+D: het maximum bedrag van de subsidie voor het organisatorische verband.    
 
 ### Artikel  4  
 
@@ -83,8 +83,8 @@ D: het maximum bedrag van de subsidie voor het organisatorische verband.
 
 a. het strategisch opleidingsplan, tenzij de minister uit hoofde van eerder verstrekte subsidies op grond van deze regeling reeds over de actuele versie beschikt;  
 
-b. de jaarrekening over het tweede jaar voorafgaand aan het subsidiejaar, voorzien van de bijbehorende accountantsverklaring.     
-4.  Indien de opgave, bedoeld in het tweede lid, afwijkt van de jaarrekening, bedoeld in het derde lid geeft de subsidieaanvrager een toelichting op de afwijking.   
+b. de jaarrekening over het tweede jaar voorafgaand aan het subsidiejaar, voorzien van de bijbehorende controleverklaring van een accountant.     
+4.  Indien de opgave, bedoeld in het tweede lid, afwijkt van de gegevens zoals vermeld in de jaarrekening, bedoeld in het derde lid geeft de subsidieaanvrager een toelichting op de afwijking.   
 5.  Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.   
 6.  De aanvraag wordt ondertekend door een persoon die bevoegd is de instelling te vertegenwoordigen.   
 7.  De aanvraag wordt uiterlijk 1 oktober in het jaar voorafgaand aan het subsidiejaar ontvangen.   
@@ -94,14 +94,14 @@ b. de jaarrekening over het tweede jaar voorafgaand aan het subsidiejaar, voorzi
 a. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;  
 
 b. een verslag over de financiële positie van de aanvrager op het moment van de aanvraag.     
-10.  Indien de subsidieaanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de versterkte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de subsidieaanvrager in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld.   
+10.  Indien de subsidieaanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de versterkte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de subsidieaanvrager in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld.  
 
 ### Artikel  5  
 
 1.  De minister besluit binnen dertien weken na de in artikel 4, zevende lid, bedoelde termijn over de vaststelling van de subsidie.   
 2.  Het besluit tot vaststelling van de subsidie vermeldt het bedrag van de subsidie.   
 3.  De minister kan de subsidievaststelling wijzigen in verband met de ontwikkeling in de arbeidsvoorwaarden.   
-4.  De betaling van de subsidie wordt gelijkmatig verdeeld over het aantal kwartalen waarvoor de subsidie wordt verstrekt. Indien toepassing is gegeven aan het derde lid wordt de betaling van het resterende subsidiebedrag gelijkmatig verdeeld over de resterende kwartalen.   
+4.  De betaling van de subsidie wordt gelijkmatig verdeeld over het aantal kwartalen waarvoor de subsidie wordt verstrekt. Indien toepassing is gegeven aan het derde lid wordt de betaling van het resterende subsidiebedrag gelijkmatig verdeeld over de resterende kwartalen.  
 
 ### Artikel  6  
 
@@ -114,12 +114,12 @@ b. de aanvrager niet of niet geheel zal voldoen aan de aan de subsidie verbonden
 
 a. in het kader van de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid, of  
 
-b. failliet is verklaard of aan hem surséance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.     
+b. failliet is verklaard of aan hem surséance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.    
 
 ### Artikel  7  
 
 1.  De instelling besteedt de subsidie uitsluitend aan activiteiten die passen binnen het strategisch opleidingsplan.   
-2.  De instelling besteedt de subsidie niet aan activiteiten ten behoeve van de opleidingen, bedoeld in artikel 2, zesde lid.   
+2.  De instelling besteedt de subsidie niet aan activiteiten ten behoeve van de opleidingen, bedoeld in artikel 2, zesde lid.  
 
 ### Artikel  8  
 
@@ -128,7 +128,7 @@ b. failliet is verklaard of aan hem surséance van betaling is verleend of ten a
 a. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of  
 
 b. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.     
-2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.   
+2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.  
 
 ### Artikel  9  
 
@@ -136,28 +136,28 @@ De instelling werkt, onder meer door het verschaffen van de daartoe benodigde in
 
 a. die van belang zijn voor het nemen van een besluit over het verstrekken van de subsidie of  
 
-b. voor de ontwikkeling van het beleid van de minister.    
+b. voor de ontwikkeling van het beleid van de minister.   
 
 ### Artikel  10  
 
-De minister kan bij de verstrekking van de subsidie verplichtingen opleggen als bedoeld in de [artikelen 4:38](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:39 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De minister kan bij de verstrekking van de subsidie verplichtingen opleggen als bedoeld in de [artikelen 4:38](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:39 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  11  
 
 1.  In afwijking van artikel 2, derde lid, wordt de subsidie ten behoeve van het jaar 2014 tevens verstrekt voor het opstellen van het strategisch opleidingsplan.   
 2.  In afwijking van artikel 4, derde lid, onder a, ontvangt de minister uiterlijk 1 oktober 2014 het strategisch opleidingsplan van de ontvanger van een subsidie ten behoeve van het jaar 2014.   
 3.  In afwijking van artikel 4, zevende lid, wordt de aanvraag van de subsidie ten behoeve van het jaar 2014 uiterlijk 15 februari 2014 ontvangen.   
-4.  In afwijking van artikel 5, eerste lid, besluit de minister over aanvragen voor het jaar 2014 binnen zes weken na de in het derde lid bedoelde termijn over de vaststelling van de subsidie.   
+4.  In afwijking van artikel 5, eerste lid, besluit de minister over aanvragen voor het jaar 2014 binnen tien weken na de in het derde lid bedoelde termijn over de vaststelling van de subsidie.  
 
 ### Artikel  12  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014 en vervalt met ingang van 31 december 2017.  
+Deze regeling treedt in werking met ingang van 1 januari 2014 en vervalt met ingang van 31 december 2017. 
 
 ### Artikel  13  
 
-Deze regeling wordt aangehaald als: Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg.  
+Deze regeling wordt aangehaald als: Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers.   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers.     

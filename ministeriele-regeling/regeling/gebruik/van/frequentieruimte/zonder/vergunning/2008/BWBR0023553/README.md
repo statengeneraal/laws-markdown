@@ -3,16 +3,16 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 26 februari 2008, nr. WJZ/8021460, houdende nieuwe regels voor het gebruik van frequentieruimte zonder vergunning en tot wijziging van de Examenregeling frequentiegebruik (Regeling gebruik van frequentieruimte zonder vergunning 2008)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op [artikel 3.4, eerste lid, onderdeel a, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), alsmede de [artikelen 11, eerste en tweede lid](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), [12](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), [18](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), [20, eerste en derde lid](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), en [20a, tweede, vierde en vijfde lid, van het Frequentiebesluit](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md);
+Gelet op artikel 3.4, eerste lid, onderdeel a, van de Telecommunicatiewet, alsmede de artikelen 11, eerste en tweede lid, 12, 18, 20, eerste en derde lid, en 20a, tweede, vierde en vijfde lid, van het Frequentiebesluit;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Frequentiebesluit 2013](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md);  
+a. besluit: Frequentiebesluit 2013;  
 
-b. frequentieplan: het in [artikel 3.1 van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde frequentieplan;  
+b. frequentieplan: het in artikel 3.1 van de wet bedoelde frequentieplan;  
 
 c. Radioreglement: Radioreglement 1979 met bijlagen, behorende bij de op 22 december 1989 te Nice tot stand gekomen Internationale Constitutie en Conventie van de Internationale Telecommunicatie Unie (Trb. 2001, 159);  
 
@@ -50,7 +50,7 @@ s. zeemijl: 1852 meter.
 
 ### Artikel  2  
 
-1.  Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 2 van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radiozendapparaten.   
+1.  Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in artikel 2 van het besluit indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radiozendapparaten.   
 2.  Als categorieën radiozendapparaten worden aangewezen: 
 
 a. apparaten, niet zijnde apparaten als bedoeld in categorie 22 van bijlage 8, die bestemd zijn voor aansluiting op een mobiel openbaar telecommunicatienetwerk, indien voor het gebruik van de door het netwerk gebruikte frequentieruimte een vergunning is verleend;  
@@ -82,11 +82,11 @@ m. de in bijlage 8 bedoelde categorieën radiozendapparaten, mits gebruikt in de
 n. radiozendapparaten die gebruik maken van ultrawidebandtechnologie, mits de in bijlage 9 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;  
 
 o. radiozendapparaten die onderdeel uitmaken van een mobiel elektronisch communicatienetwerk, mits gebruikt overeenkomstig het bepaalde in bijlage 8A en radiozendapparaten die bestemd zijn voor aansluiting op dat netwerk, mits die gebruikmaken van de frequentieband van 1780 tot en met 1785 MHz.     
-3.  De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op apparaten die voldoen aan het bij of krachtens het [Besluit](../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) randapparaten en radioapparaten 2007 bepaalde.   
+3.  De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op apparaten die voldoen aan het bij of krachtens het Besluit randapparaten en radioapparaten 2007 bepaalde.   
 
 ### Artikel  3  
 
-De artikelen 4 tot en met 11 en 13 hebben betrekking op gebruik van frequentieruimte zonder vergunning als bedoeld in [artikel 3 van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), met uitzondering van maritiemmobiele communicatie vanaf het land.  
+De artikelen 4 tot en met 11 en 13 hebben betrekking op gebruik van frequentieruimte zonder vergunning als bedoeld in artikel 3 van het besluit, met uitzondering van maritiemmobiele communicatie vanaf het land.  
 
 ### Artikel  4  
 
@@ -100,13 +100,13 @@ c. een stichting die zich blijkens de statutaire doelstelling richt op het doen 
 
 ### Artikel  5  
 
-1.  Degene die een radiozendapparaat bedient ten behoeve van maritiemmobiele communicatie beschikt over een certificaat van bediening als bedoeld in [artikel 12 van de Examenregeling frequentiegebruik 2008](../../../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/2008/BWBR0024285/README.md), dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 11, en heeft een leeftijd van ten minste zestien jaren.   
-2.  De radiozendamateur die een radiozendapparaat bedient, heeft met goed gevolg een examen als bedoeld in [artikel 7 van de Examenregeling frequentiegebruik 2008](../../../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/2008/BWBR0024285/README.md) afgelegd, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 10, en heeft een leeftijd van ten minste veertien jaren voor het geval van volledige toegang tot de frequentieruimte, in bijlage 10 aangeduid als registratie F, en een leeftijd van ten minste twaalf jaren voor het geval van beperkte toegang tot de frequentieruimte, in bijlage 10 aangeduid als registratie N.   
+1.  Degene die een radiozendapparaat bedient ten behoeve van maritiemmobiele communicatie beschikt over een certificaat van bediening als bedoeld in artikel 12 van de Examenregeling frequentiegebruik 2008, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 11, en heeft een leeftijd van ten minste zestien jaren.   
+2.  De radiozendamateur die een radiozendapparaat bedient, heeft met goed gevolg een examen als bedoeld in artikel 7 van de Examenregeling frequentiegebruik 2008 afgelegd, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 10, en heeft een leeftijd van ten minste veertien jaren voor het geval van volledige toegang tot de frequentieruimte, in bijlage 10 aangeduid als registratie F, en een leeftijd van ten minste twaalf jaren voor het geval van beperkte toegang tot de frequentieruimte, in bijlage 10 aangeduid als registratie N.   
 3.  In afwijking van het eerste en het tweede lid kan een persoon die niet voldoet aan de desbetreffende voorwaarde een radiozendapparaat bedienen indien de bediening plaatsvindt in directe aanwezigheid en onder verantwoordelijkheid van een persoon die wel aan deze voorwaarde voldoet.   
 
 ### Artikel  6  
 
-1.  De melding, bedoeld in [artikel 5, eerste lid, van het besluit](../../../../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), wordt gedaan bij Agentschap Telecom, met gebruikmaking van een daartoe strekkend formulier.   
+1.  De melding, bedoeld in artikel 5, eerste lid, van het besluit, wordt gedaan bij Agentschap Telecom, met gebruikmaking van een daartoe strekkend formulier.   
 2.  Bij de melding worden in elk geval de volgende gegevens en bescheiden verstrekt: 
 
 a. persoonsgegevens omtrent de gebruiker;  
@@ -225,7 +225,7 @@ c. de onderwijsinstelling een radiozendamateur die voldoet aan het in artikel 5,
 
 ### Artikel  12  
 
-De [Regeling gebruik van frequentieruimte zonder vergunning](../../../../../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/BWBR0015732/README.md) wordt ingetrokken.  
+De Regeling gebruik van frequentieruimte zonder vergunning wordt ingetrokken.  
 
 ### Artikel  13  
 
@@ -238,7 +238,7 @@ Wijzigt de Examenregeling frequentiegebruik.
 
 ### Artikel  16  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel V van de Verzamelwet vereenvoudiging vergunningen](../../../../../../../../../wet/verzamelwet/vereenvoudiging/vergunningen/BWBR0023549/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop artikel V van de Verzamelwet vereenvoudiging vergunningen in werking treedt.  
 
 ### Artikel  17  
 
@@ -261,7 +261,7 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9)  Koordloze telefoons 
 
 |--- | Werkfrequentie (MHz)  |--- | Vermogen  | Kanaalbreedte  | Modulatie  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | Vast gedeelte  | Draagbaar gedeelte  | Kanaal  nr.  | --- | --- | --- |
 | --- | 31,0375  | 39,9375  | 1  | 10 mW e.r.p.  | 25 kHz  | Fase of frequentie-modulatie (F3E en G3E)  |
 | --- | 31,0625  | 39,9625  | 2  | --- | --- |
@@ -295,7 +295,7 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9)  CB-apparatuur 
 
 |--- | Werkfrequentie  (MHz)  | Kanaal  nr.  | Vermogen  | Kanaalbreedte  | Modulatie  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 26,965  26,975  26,985  27,005  27,015  27,025  27,035  27,055  27,065  27,075  27,085  27,105  27,115  27,125  27,135  27,155  27,165  27,175  27,185  27,205  27,215  27,225  27,235  27,245  27,255  27,265  27,275  27,285  27,295  27,305  27,315  27,325  27,335  27,345  27,355  27,365  27,375  27,385  27,395  27,405  | 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  24  25  23  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  | 4 W Peak  Envelope Power (DSB: 1 Watt  carrier power)  | 10 kHz  | FM, DSB, SSB (F3E of G3E, A3E en J3E)  |
 
 ### Bijlage  3  
@@ -305,7 +305,7 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9) Apparatuur die onderdeel is van een besloten digitaal netwerk ten behoeve van trunking Indien de radiozendapparaten behoren tot een digitaal radionetwerk met dynamische frequentietoewijzing ten behoeve waarvan een vergunning is verleend voor het gebruik van frequentieruimte is het toegestaan om voor directe communicatie tussen de radiozendapparaten onderling gebruik te maken van:  
 
 |--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 445,2 – 445,3 MHz  | 1 W e.r.p.  | 25 kHz  | --- |
 
 ### Bijlage  4  
@@ -315,7 +315,7 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9)  PMR 446-apparatuur' 
 
 |--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 446,0 – 446,2 MHz  | 500 mW e.r.p.  | 6,25 of 12,5 kHz  | –  |
 
 ### Bijlage  5  
@@ -325,18 +325,18 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9)  Randapparaten, zijnde satellietgrondstations 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 14,00–14,25 GHz  | 60 dBW e.i.r.p. <sup>1</sup>  | –  | –  |
 | B  | 14,25–14,50 GHz <sup>2, 3</sup>  | 50 dBW e.i.r.p. <sup>4</sup>  | –  | –  |
 | C  | 29,50–30,00 GHz  | 60 dBW e.i.r.p. <sup>1</sup>  | –  | –  |
 
-<sup>1</sup> Voor het gebruik van satellietgrondstations gelden de volgende reducties in vermogen in relatie met de afstand tot de begrenzing van een luchthaven als bedoeld in [artikel 1.1 van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md):  
+<sup>1</sup> Voor het gebruik van satellietgrondstations gelden de volgende reducties in vermogen in relatie met de afstand tot de begrenzing van een luchthaven als bedoeld in artikel 1.1 van de Wet luchtvaart:  
 
 | Vermogen  | < 34 dBW e.i.r.p  | Tot 50 dBW e.i.r.p.  | Tot 55,3 dBW e.i.r.p.  | Tot 57 dBW e.i.r.p.  | Tot 60 dBW e.i.r.p.  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Minimum afstand tot de luchthaven  | Geen beperking  | 500 meter  | 1800 meter  | 2300 meter  | 3500 meter  |
 
-<sup>2</sup> De randapparaten mogen uitsluitend gebruikt worden op een afstand van ten minste 500 meter buiten de begrenzing van een luchthaven als bedoeld in [artikel 1.1 van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). <sup>3</sup> Voor randapparaten aan boord van vliegtuigen geldt: 
+<sup>2</sup> De randapparaten mogen uitsluitend gebruikt worden op een afstand van ten minste 500 meter buiten de begrenzing van een luchthaven als bedoeld in artikel 1.1 van de Wet luchtvaart. <sup>3</sup> Voor randapparaten aan boord van vliegtuigen geldt: 
 
 – dat het gebruik niet is toegestaan tijdens opstijgen, landen en taxiën van het vliegtuig;  
 
@@ -349,7 +349,7 @@ F.Heemskerk
 (zie voor opmerkingen voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 9)  Randapparaten voor mobiele communicatie via ionisatiesporen van meteoren 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 39,00 – 39,20 MHz  | 50 W e.r.p.  | 25 kHz  | – <sup>1</sup>  |
 
 <sup>1</sup> Een maximale uitzendtijd van 100 milliseconden en een minimale wachttijd van 10 seconden met een totaal van 24 uitzendingen per 24 uur. 
@@ -361,7 +361,7 @@ F.Heemskerk
 Mobiel elektronisch communicatienetwerk aan boord van vliegtuigen (basisstations) 
 
 |--- | Frequentieband  | Vermogen  | Duty-cycle  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | A  | 1805–1880 MHz  | –  | –  |
 | B  | 1710–1785 MHz  | –  | –  |
 
@@ -372,7 +372,7 @@ Mobiel elektronisch communicatienetwerk aan boord van vliegtuigen (basisstations
 Radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen  
 
 |--- | Frequentieband  | Vermogen  | Additionele voorschriften  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Randapparaten:  |
 | A  | 880–915 MHz  | 5 dBm  |  *Voorschriften voor toegang tot en bezetting van het kanaal:*   Om interferentie te onderdrukken moeten technieken worden gebruikt die ten minste evengoed presteren als de volgende onderdrukkingsfactoren gebaseerd op gsm-normen:  – tussen twee en drie zeemijlen van de basislijn, de gevoeligheid van de ontvangstapparatuur en de drempel voor het verbre+7+7ken van de verbinding (ACCMIN <sup>(1)</sup> en min RXLEV <sup>(2)</sup> -niveau) van het randapparaat dat gebruikt wordt aan boord van het vaartuig moet gelijk zijn aan of hoger dan – 70 dBm/200 kHz en tussen drie en twaalf zeemijl van de basislijn gelijk aan of hoger dan – 75 dBm/200 kHz;  – in de uplink-richting van het Mobiele Communicatie aan boord van Vaartuigen (MCV)-systeem moet onderbroken zending <sup>(3)</sup> geactiveerd zijn;  – de timing advance <sup>(4)</sup> -waarde van het basisstation aan boord van vaartuigen moet op de minimale waarde zijn ingesteld.  (1) ACCMIN (RX_LEV_ACCESS_MIN); zoals beschreven in gsm-norm ETSI TS 144 018.  (2) RXLEV (RXLEV-FULL-SERVING-CELL); zoals beschreven in gsm-norm ETSI TS 148 008.  (3) Onderbroken zending of DTX; zoals beschreven in gsm-norm ETSI TS 148 008.  (4) Timing advance; zoals beschreven in gsm-norm ETSI TS 144 018.  |
 | B  | 1710–1785 MHz  | 0 dBm  |
@@ -393,50 +393,51 @@ Radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aanslui
 Radiozendapparaten bestemd voor telemetrie, telecommand, alarmering, data in het algemeen, en andere soortgelijke toepassingen 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 6765–6795 kHz  | 42 dBµA/m op 10 m afstand  | –  | –  |
 | B  | 13,553–13,567 MHz  | 42 dBµA/m op 10 m afstand  | –  | –  |
-| C  | 26,957–27,283 MHz  | 42 dBµA/m op 10 m afstand of 10 mW e.r.p.  | –  | –  |
+| C  | 26,957–27,283 MHz  | 42 dBµA/m op 10 m afstand of 10 mWe.r.p.  | –  | –  |
 | D  | 40,660–40,700 MHz  | 10 mW e.r.p.  | –  | –  |
 | E  | 433,050–434,790 MHz  | 10 mW e.r.p.  | –  | < 10%  |
-| e1  | 433,050–434,790 MHz  | 1 mW e.r.p. ¹  | –  | –  |
-| e2  | 434,040–434,790 MHz  | 10 mW e.r.p.  | 25 kHz  | –  |
+| E1  | 433,050–434,790 MHz  | 1 mW e.r.p. ¹  | –  | –  |
+| E2  | 434,040–434,790 MHz  | 10 mW e.r.p.  | 25 kHz  | –  |
 | F  | 863,000–865,000 MHz  | 25 mW e.r.p  | –  | < 0,1% ²  |
 | G  | 865,000–868,600 MHz  | 25 mW e.r.p.  | –  | < 1,0% ²  |
 | H  | 868,700–869,200 MHz  | 25 mW e.r.p.  | –  | < 0,1% ²  |
 | I  | 869,300–869,400 MHz  | 10 mW e.r.p.  | 25 kHz  | –  |
-| K1  | 869,400–869,650 MHz  | 500 mW e.r.p.  | 25 kHz ³  | < 10 % ²  |
+| K1  | 869,400–869,650 MHz  | 500 mW e.r.p.  | 25 kHz ³  | < 10% ²  |
 | K2  | 869,400–869,650 MHz  | 25 mW e.r.p.  | –  | < 0,1% ²  |
 | L1  | 869,700–870,000 MHz  | 5 mW e.r.p.  | –  | –  |
-| L 2  | 869,700–870,000 MHz  | 25 mW e.r.p.  | –  | < 1,0% ²  |
+| L2  | 869,700–870,000 MHz  | 25 mW e.r.p.  | –  | < 1,0% ²  |
 | M  | 2400–2483,5 MHz  | 10 mW e.i.r.p.  | –  | –  |
 | N  | 5725–5875 MHz  | 25 mW e.i.r.p.  | –  | –  |
 | O  | 24,00–24,25 GHz  | 100 mW e.i.r.p.  | –  | –  |
-| P  | 61,0–61,5 GHz  | 100 mW e.i.r.p.  | –  | –  |
-| Q  | 122–123 GHz  | 100 mW e.i.r.p.  | –  | –  |
-| R  | 244-246 GHz  | 100 mW e.i.r.p.  | –  | –  |
+| P  | 57 – 64 GHz  | 100 mW e.i.r.p. <sup>4</sup>  | –  | –  |
+| Q  | 61,0–61,5 GHz  | 100 mW e.i.r.p.  | –  | –  |
+| R  | 122–123 GHz  | 100 mW e.i.r.p.  | –  | –  |
+| S  | 244–246 GHz  | 100 mW e.i.r.p.  | –  | –  |
 
-<sup>1</sup> Voor breedband kanalen is de vermogensdichtheid begrensd op –13 dBm/10 kHz. <sup>2</sup> In plaats van de duty-cycle mag er ook gebruik worden gemaakt van technieken om toegang te krijgen tot spectrum en interferentie te onderdrukken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit. <sup>3</sup> De gehele frequentieband mag eveneens worden gebruikt als 1 enkel kanaal voor dataoverdracht met hoge transmissiesnelheid.  
+<sup>1</sup> Voor breedband kanalen is de vermogensdichtheid begrensd op –13 dBm/10 kHz. <sup>2</sup> In plaats van de duty-cycle mag er ook gebruik worden gemaakt van technieken om toegang te krijgen tot spectrum en interferentie te onderdrukken met een vermogen dat tenminste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit. <sup>3</sup> De gehele frequentieband mag eveneens worden gebruikt als één enkel kanaal voor dataoverdracht met hoge transmissiesnelheid. <sup>4</sup> Een maximum zendvermogen van 10 dBm en een maximum e.i.r.p. spectrum vermogensdichtheid van 13 dBm/MHz. 
 
 #### *Categorie 2* 
 
 Radiozendapparaten bestemd voor spoorweg gerelateerde toepassingen (Automatic Vehicle Identification (AVI)) 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
-| A  | 2446–2454 MHz <sup>1</sup>  | 500 mW e.i.r.p.  | – <sup>2</sup>  | –  |
-| B  | 27,095 MHz  | 42 dBµA/m op 10 m afstand  | –  | –  |
-| C  | 984–7484 kHz  | 9 dBµA/m op 10 m afstand  | –  | < 1%  |
-| D  | 7,3–23,0 MHz <sup>3</sup>  | –7 dBµA/m op 10 m afstand  | –  | –  |
+|---|---|---|---|---|
+| A  | 27,090 – 27,100 MHz  | 42 dBµA/m op 10 m afstand  | –  | –  |
+| B  | 984 – 7484 kHz  | 9 dBµA/m op 10 m afstand  | –  | –  |
+| C  | 7,3 – 23,0 MHz <sup>1</sup>  | –7 dBµA/m op 10 m afstand  | –  | –  |
+| D  | 76 – 77 GHz <sup>2</sup>  | 55 dBm peak e.i.r.p. <sup>3</sup>  | –  | –  |
 
-<sup>1</sup> Uitzendingen mogen alleen plaatsvinden ter identificatie van een trein. <sup>2</sup> 5 kanalen, elk van 1,5 MHz breed, in de frequentieband 2446–2454 MHz. <sup>3</sup> Maximum veldsterkte gespecificeerd in een bandbreedte van 10 kHz, gemiddeld over elke 200 meter van de lus. Zenden is alleen toegestaan als een trein binnen bereik is.  
+<sup>1</sup> Maximum veldsterkte gespecificeerd in een bandbreedte van 10 kHz, gemiddeld over elke 200 meter van de lus. Zenden is alleen toegestaan als een trein binnen bereik is. <sup>2</sup> Obstructie/voertuig detectie via een radar sensor bij spoorwegovergangen. <sup>3</sup> Het gemiddelde vermogen mag maximaal 100 W (50 dBm) e.i.r.p. bedragen en voor een pulserende radar mag het gemiddelde vermogen maximaal 223 mW (23,5 dBm) bedragen. 
 
 #### *Categorie 3* 
 
 Radiozendapparaten bestemd voor breedband datasystemen 
 
 |--- | Frequentieband  | Maximaal vermogen  | Aanvullende parameters, onderdrukkingsvoorschriften of gebruiksbeperkingen  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | A  | 2400–2483,5 MHz  | 100 mW e.i.r.p ¹  | Verplicht zijn technieken om toegang te krijgen tot spectrum en om interferentie te onderdrukken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit.  |
 | B  | 57,0–66,0 GHz  | 40 dBm e.i.r.p. en 13 dBm/MHz e.i.r.p. dichtheid.  | Vaste installaties buitenshuis worden uitgesloten.  |
 
@@ -447,7 +448,7 @@ Radiozendapparaten bestemd voor breedband datasystemen
 Radiozendapparaten bestemd voor breedband toegangssystemen (data) inclusief Local Area Netwerken, RLANs 
 
 |--- | Frequentieband  | Vermogen  | Vermogensdichtheid  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 5150 – 5250 MHz <sup>1</sup>  | 200 mW e.i.r.p. <sup>2</sup>  | 10 mW/MHz  | –  | –  |
 | B  | 5250 – 5350 MHz <sup>3,</sup>   <sup>4</sup>    | 200 mW e.i.r.p. <sup>5</sup>  | 10 mW/MHz  | –  | –  |
 | C  | 5470 – 5725 MHz <sup>6</sup>  | 1 W e.i.r.p. <sup>7</sup>  | 50 mW/Mhz  | –  | –  |
@@ -460,7 +461,7 @@ Radiozendapparaten bestemd voor breedband toegangssystemen (data) inclusief Loca
 Radiozendapparaten bestemd voor wegtransport en verkeerstelematica 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 63-64 GHz ¹  | 40 dBm e.i.r.p.  | –  | –  |
 | B  | 76-77 GHz ²  | 315 W (55 dBm) e.i.r.p. piek vermogen ²  | –  | –  |
 
@@ -471,7 +472,7 @@ Radiozendapparaten bestemd voor wegtransport en verkeerstelematica
 Radiozendapparaten bestemd voor bewegingsdetectie en signalering 
 
 |--- | Frequentieband  | Vermogen  | Aanvullende parameters of onderdrukkingsvoorschriften  | Overige gebruiks-beperkingen  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 2400–2483,5 MHz  | 25 mW e.i.r.p.  | –  | –  |
 | B  | 9200–9500 MHz  | 25 mW e.i.r.p.  | –  | –  |
 | C  | 9500–9975 MHz  | 25 mW e.i.r.p.  | –  | –  |
@@ -485,7 +486,7 @@ Radiozendapparaten bestemd voor bewegingsdetectie en signalering
 Radiozendapparaten bestemd voor alarmering  Alarmering voor beveiliging en veiligheid 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 868,60–868,70 MHz  | 10 mW e.r.p.  | 25 kHz <sup>1</sup>  | < 1,0%  |
 | B  | 869,25–869,30 MHz  | 10 mW e.r.p.  | 25 kHz  | < 0,1%  |
 | C  | 869,30–869,40 MHz  | 10 mW e.r.p.  | 25 kHz  | < 1,0%  |
@@ -494,7 +495,7 @@ Radiozendapparaten bestemd voor alarmering  Alarmering voor beveiliging en veili
 Sociale Alarmering 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | E  | 869,20–868,25 MHz  | 10 mW e.r.p.  | 25 kHz  | < 0,1%  |
 | F  | 169,4750–169,4875 MHz  | 500 mW e.r.p.  | 12,5 kHz  | –  |
 | G  | 169,5875–169,6000 MHz  | 500 mW e.r.p.  | 12,5 kHz  | –  |
@@ -504,23 +505,24 @@ Sociale Alarmering
 Radiozendapparaten bestemd voor actieve medische implantaten met een extreem laag vermogen 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 401–402 MHz  | 25 µW e.r.p.  | 25 kHz <sup>1</sup>  | – <sup>2</sup>  |
 | B  | 402–405 MHz  | 25 µW e.r.p.  | 25 kHz <sup>3</sup>  | –  |
-| C  | 405–406 MHz  | 25 µW e.r.p.  | 25 kHz <sup>1</sup>  | – <sup>2</sup>  |
+| C  | 405–406 MHz  | 25 µW e.r.p.  | 25 kHz <sup>1</sup>  | - <sup>2</sup>  |
 | D  | 9–315 kHz  | 30 dBµA/m op 10 m afstand  | –  | < 10%  |
 | E  | 315–600 kHz <sup>4</sup>  | –5 dBµA/m op 10 m afstand  | –  | < 10%  |
 | F  | 12,5–20 MHz <sup>4</sup>  | –7 dBµA/m op 10 m afstand  | –  | < 10%  |
 | G  | 30,0–37,5 MHz <sup>5</sup>  | 1 mW e.r.p.  | –  | < 10%  |
+| H  | 2483,5 – 2500 MHz <sup>6,7,8</sup>  | 10 dBm e.i.r.p.  | 1 MHz <sup>9</sup>  | – <sup>10</sup>  |
 
-<sup>1</sup> Individuele zenders kunnen aangrenzende kanalen combineren voor meer bandbreedte tot ten hoogste 100 kHz. <sup>2</sup> Technieken om toegang te krijgen tot spectrum en om interferentie te onderdrukken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91) zijn verplicht. Eventueel kan ook een maximale duty cycle van 0,1% worden gebruikt. <sup>3</sup> Individuele zenders kunnen aangrenzende kanalen combineren voor meer bandbreedte tot ten hoogste 300 kHz. Andere technieken om toegang te krijgen tot spectrum of om interferentie te onderdrukken, met inbegrip van bandbreedtes van meer dan 300kHz, kunnen worden gebruikt mits zij een vermogen hebben dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91) zodat deze verenigbaar zijn met andere gebruikers en met name met meteorologische radiosondes <sup>4</sup> Deze frequentieband is alleen bestemd voor dier-implantaten. <sup>5</sup> Deze frequentieband is bestemd voor medische implantaten om de bloeddruk te meten.  
+<sup>1</sup> Individuele zenders kunnen aangrenzende kanalen combineren voor meer bandbreedte tot ten hoogste 100 kHz. <sup>2</sup> Technieken om toegang te krijgen tot spectrum en om interferentie te onderdrukken met een vermogen dat tenminste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91) zijn verplicht. Eventueel kan ook een maximale dutycycle van 0,1% worden gebruikt. <sup>3</sup> Individuele zenders kunnen aangrenzende kanalen combineren voor meer bandbreedte tot ten hoogste 300 kHz. Andere technieken om toegang te krijgen tot spectrum of om interferentie te onderdrukken, met inbegrip van bandbreedtes van meer dan 300kHz, kunnen worden gebruikt mits zij een vermogen hebben dat tenminste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91) zodat deze verenigbaar zijn met andere gebruikers en met name met meteorologische radiosondes. <sup>4</sup> Deze frequentieband is alleen bestemd voor dier-implantaten. <sup>5</sup> Deze frequentieband is bestemd voor medische implantaten om de bloeddruk te meten. <sup>6</sup> Deze gebruiksbepalingen zijn van toepassing op het radio gedeelte van het actieve medische implantaat. <sup>7</sup> Alleen voor laag vermogen actieve medische implantaten en bijbehorende randapparatuur. <sup>8</sup> Periferie apparatuur mag alleen binnen worden gebruikt. <sup>9</sup> De hele frequentieband mag ook dynamisch worden gebruik als één kanaal voor hoge snelheid data transmissie. <sup>10</sup> Technieken om toegang te krijgen tot spectrum en om interferentie te onderdrukken met een vermogen dat tenminste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91) zijn verplicht. Eventueel kan ook een maximale dutycycle van 10% worden gebruikt. 
 
 #### *Categorie 9* 
 
 Radiozendapparaten bestemd voor draadloze audio-overdracht 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 863–865 MHz  | 10 mW e.r.p.  | –  | –  |
 | B  | 87,5–108 MHz  | 50 nW e.r.p.  | 200 kHz  | –  |
 
@@ -529,7 +531,7 @@ Radiozendapparaten bestemd voor draadloze audio-overdracht
 Radiozendapparaten bestemd voor oproepsystemen 
 
 |--- | Werkfrequentie (MHz)  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 26,500  | 500 mW e.r.p.  | 25 kHz  | –  |
 | --- | 26,600  | --- | --- | --- |
 | --- | 26,700  | --- | --- | --- |
@@ -541,17 +543,18 @@ Radiozendapparaten bestemd voor oproepsystemen
 Radiozendapparaten bestemd voor laagvermogen draadloze audioverbindingen 
 
 |--- | Frequentieband (MHz)  | Vermogen  | Kanaalbreedte  | Duty-cycle  | Modulatie  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 36,600 – 36,800  37,000 – 37,200  37,480 – 37,600 <sup>1</sup>  37,800 – 38,000  38,200 – 38,400  38,600 – 38,800  | 10 mW e.r.p.  | 200 kHz  | –  | Fase- of frequentie modulatie of amplitude modulatie met constante draaggolf.  |
 | B  | 863 – 865  | 10 mW e.r.p.  | –  | –  | –  |
 | C  | 195 – 202  | 50 mW e.r.p.  | 200 kHz  | –  | FM <sup>2</sup>  |
-| D  | 470 – 557  614–637  638 – 701  702 – 862  | 50 mW e.r.p.  | 200kHz  | –  | FM <sup>2</sup>  |
+| D  | 470 – 556  558 – 564  566 – 572  574 – 580  582 – 588  590 – 596  598 – 604  614 – 791  791 – 823 <sup>3</sup>  823 – 832  832 – 862 <sup>3</sup>  | 50 mW e.r.p.  | 200kHz  | –  | FM <sup>2</sup>  |
 | E  | 1785 – 1800  | 50 mW e.r.p.  | 600 kHz  | –  | –  |
 
-<sup>1</sup> Voor deze frequentieband geldt een maximale kanaalbreedte van 50 kHz. <sup>2</sup> Frequentie Modulatie (FM) of een vergelijkbare modulatietechniek met een constante draaggolf zoals Gaussian Filtered Minimum Shift Keying (GMSK) of Generalized Tamed Frequency Modulation (GTFM).  Microfonen voor hulpbehoevende 
+<sup>1</sup> Voor deze frequentieband geldt een maximale kanaalbreedte van 50 kHz. <sup>2</sup> Frequentie Modulatie (FM) of een vergelijkbare modulatietechniek met een constante draaggolf zoals GaussianFiltered Minimum Shift Keying (GMSK) of GeneralizedTamedFrequencyModulation (GTFM). <sup>3</sup> Gebruik is toegestaan tot 1 januari 2016. 
+Microfoons voor hulpbehoevende 
 
-|    | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
+|---|---|---|---|---|
 | F  | 173,05–175,05 MHz  | 2 mW e.r.p.  | 50 kHz  | –  |
 | G  | 169,4000–169,4750 MHz  | 500 mW e.r.p.  | Max. 50 kHz  | –  |
 | H  | 169,4875–169,5875 MHz  | 500 mW e.r.p.  | Max. 50 kHz  | –  |
@@ -561,7 +564,7 @@ Radiozendapparaten bestemd voor laagvermogen draadloze audioverbindingen
 Radiozendapparaten bestemd voor modelbesturing 
 
 |--- | Werkfrequentie (MHz)  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 26,995  27,045  27,095  27,145  27,195  | 100 mW e.r.p.  | 10 kHz  | –  |
 | B  | 40,665  40,675  40,685  40,695  | 100 mW e.r.p.  | 10 kHz  | --- |
 | C  | 30,085  30,095  30,105  30,115  30,185  30,195  | 100 mW e.r.p.  | 10 kHz  | --- |
@@ -577,7 +580,7 @@ Radiozendapparaten bestemd voor modelbesturing
 Radiozendapparaten bestemd voor inductieve systemen 
 
 |--- | Frequentieband  | Vermogen  | Antenne  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 9–90 kHz  | 72 dBµA/m op 10 m afstand <sup>1</sup>  | –  | –  | –  |
 | B  | 90–119 kHz  | 42 dBµA/m op 10 m afstand <sup>1</sup>  | –  | –  | –  |
 | C  | 119–135 kHz  | 66 dBµA/m op 10 m afstand <sup>1</sup>  | –  | –  | –  |
@@ -601,7 +604,7 @@ Radiozendapparaten bestemd voor inductieve systemen
 <sup>1</sup> Het vermogen moet worden gereduceerd tot 42 dBµA/m op 10 meter afstand van het radiozendapparaat op de volgende frequenties:  
 
 | --- |
-|:---|
+|---|
 | Frequentie  |
 | 60 kHz +/- 250 Hz  |
 | 77,5 kHz +/- 250 Hz  |
@@ -614,7 +617,7 @@ Radiozendapparaten bestemd voor inductieve systemen
 Radiozendapparaten bestemd voor identificatie toepassingen (RFID) 
 
 |--- | Frequentieband  | Vermogen  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 2446 – 2454 MHz  | 500 mW e.i.r.p.  | –  | –  |
 | B  | 2446 – 2454 MHz  | 4 W e.i.r.p. <sup>1</sup>  | –  | < 15 % <sup>2</sup>  |
 | C  | 865 – 865,6 MHz  | 100 mW e.r.p.  | 200 kHz  | –  |
@@ -628,7 +631,7 @@ Radiozendapparaten bestemd voor identificatie toepassingen (RFID)
 Radiozendapparaten bestemd voor het opsporen van lawineslachtoffers 
 
 |--- | Frequentieband  | Vermogen  | Antenne  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 457 kHz  | 7 dBµA/m op  10 m afstand  | –  | –  | –  |
 
 #### *Categorie 16* 
@@ -636,7 +639,7 @@ Radiozendapparaten bestemd voor het opsporen van lawineslachtoffers
 Radiozendapparaten bestemd voor vaste verbindingen 
 
 |--- | Frequentieband  | Vermogen  | Antenne  | Kanaalraster  | Duty-cycle  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | A  | 57,2 – 58,2 GHz  | 15 dBW e.i.r.p.  | –  | –  | –  |
 
 #### *Categorie 17* 
@@ -644,7 +647,7 @@ Radiozendapparaten bestemd voor vaste verbindingen
 Radiozendapparaten bestemd voor kortbereikradarapparatuur voor motorvoertuigen 
 
 |--- | Frequentieband  | Vermogen  | Vermogensdichtheid <sup>1</sup>  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 77–81 GHz  | 55 dBm e.i.r.p. piekvermogen  | –3 dBm/MHz e.i.r.p. <sup>2</sup>  | –  |
 | B  | 21,65–22 GHz <sup>3</sup>  | –  | –61,3 dBm/MHz e.i.r.p. <sup>4</sup>  | –  |
 | C  | 22–24,05 GHz <sup>3</sup>  | –  | –41,3 dBm/MHz e.i.r.p. <sup>4</sup><sup>5</sup>  | –  |
@@ -658,7 +661,7 @@ Radiozendapparaten bestemd voor kortbereikradarapparatuur voor motorvoertuigen
 Radiozendapparaten bestemd voor toezicht, meting en besturing van nutssystemen 
 
 |--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 169,4000 – 169,4750 MHz  | 500 mW e.r.p.  | 12,5 kHz  | < 10 %  |
 
 #### *Categorie 19* 
@@ -666,7 +669,7 @@ Radiozendapparaten bestemd voor toezicht, meting en besturing van nutssystemen
 Radiozendapparaten bestemd voor opsporing- en goederenvolgsystemen 
 
 |--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 169,4000 – 169,4750 MHz  | 500 mW e.r.p.  | 12,5 kHz  | < 1 %  |
 
 #### *Categorie 20* 
@@ -674,7 +677,7 @@ Radiozendapparaten bestemd voor opsporing- en goederenvolgsystemen
 Maritiemmobiele radar, RTE (Radar Target Enhancer) en SART (Search And rescue Radar Transponder) 
 
 |--- | Frequentieband  | Vermogen  |
-|:---|:---|:---|
+|---|---|---|
 | Radar (S-band)  | 2920 – 3266 MHz  | 5 kW e.i.r.p.  |
 | Radar (X-band)  | 9,3 – 9,5 GHz  | 5 kW e.i.r.p.  |
 | RTE (X-band)  | 9,3 – 9,5 GHZ  | 10 Watt e.i.r.p.  |
@@ -685,7 +688,7 @@ Maritiemmobiele radar, RTE (Radar Target Enhancer) en SART (Search And rescue Ra
 Radiozendapparaten bestemd voor veiligheidsgerelateerde toepassingen van intelligente vervoerssystemen (ITS)  
 
 |--- | Frequentieband  | Maximale totale zendvermogen (gemiddelde e.i.r.p.)  | Maximale spectrale vermogensdichtheid (gemiddelde e.i.r.p.)  |--- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 5875–5905 MHz <sup>1</sup>  | 33 dBm  | 23 dBm/MHz  | –  |
 
 <sup>1</sup> Technieken om interferentie te onderdrukken, die ten minste gelijkwaardig presteren als de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit, gewijzigd 29 september 2003 (PbEU L 284), zijn verplicht. Hiervoor is een transmitter power control (TPC) nodig met een bereik van ten minste 30 dB.  
@@ -695,7 +698,7 @@ Radiozendapparaten bestemd voor veiligheidsgerelateerde toepassingen van intelli
 Grenswaarden voor het vermogen van eindstations in de frequentieband 2500–2690 MHz 
 
 |--- | Frequentie-band  | Maximaal gemiddeld vermogen (met inbegrip van het ATPC-bereik (bereik voor automatische regeling van het zendvermogen))  | Aanvullende parameters, onderdrukkingsvoorschriften en gebruiksvoorschriften  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | A  | 2500–2690 MHz  | Totaal uitgestraald vermogen (TRP)  | 31 dBm/5 MHz <sup>1</sup>  | 1. Apparatuur dient bestemd te zijn voor aansluiting op een elektronische communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500–2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend.  2. Apparatuur die wordt gebruikt in deze band kan ook gebruikmaken van andere e.i.r.p.-grenswaarden (equivalent isotroop uitgestraald vermogen) dan die welke hier naast zijn vermeld, mits geschikte onderdrukkingstechnieken worden toegepast in overeenstemming met richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit die ten minste een gelijkwaardig niveau van bescherming bieden als wordt geboden door deze technische parameters.  |
 | E.i.r.p.  | 35 dBm/5 MHz <sup>1</sup>  |
 
@@ -708,10 +711,11 @@ Grenswaarden voor het vermogen van eindstations in de frequentieband 2500–2690
 Mobiel elektronisch communicatienetwerk met laag vermogen 
 
 |--- | Frequentieband  | Vermogen  | Kanaalbreedte  | Duty-Cycle  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | A  | 1875–1879,9 MHz <sup>1</sup>  | 200 mW e.r.p.  | 200 kHz  | –  |
+| B  | 1875 – 1879,8 MHz  | 50 mW/MHz <sup>3</sup> e.r.p.  | ≤ 4,5 MHz <sup>2</sup>  | –  |
 
-<sup>1</sup> De maximale veldsterkte op de Nederlandse grens mag op een hoogte van 3 meter niet meer bedragen dan 25 dBµV/m. 
+<sup>1</sup> De maximale veldsterkte op de Nederlandse grens mag op een hoogte van 3 meter niet meer bedragen dan 25 dBµV/m. <sup>2</sup> Gecentreerd op 1877,5 MHz. <sup>3</sup> De ongewenste emissions’ (Out-of-Band’ en ‘spurious emissions’) van de LTE-picocel hebben maximaal het niveau dat in Tabel 6.6.3.2.2-1 van ETSI TR 136 931 V10.0.0 is aangegeven. 
 
 ### Bijlage  9  
 
@@ -730,7 +734,7 @@ De apparatuur voldoet aan de vermelde voorwaarden in de tabel en wordt binnenshu
 ####Maximale gemiddelde e.i.r.p.-dichtheid
 
 | Frequentiebereik (GHz)  | Maximale gemiddelde e.i.r.p.-dichtheid (dBm/MHz)  | Maximale piek-e.i.r.p.-dichtheid (dBm/50MHz)  |
-|:---|:---|:---|
+|---|---|---|
 | Lager dan 1,6  | – 90,0  | – 50,0  |
 | --- | --- | --- |
 | 1,6 tot 2,7  | – 85,0  | – 45,0  |
@@ -792,7 +796,7 @@ Signalen die in de omgeving worden uitgestraald en de in onderstaande tabel verm
 <sup> 3  Een sensor waarmee storingen in een veld kunnen worden gedetecteerd en die tot doel heeft voorwerpen op te sporen in een gebouwenstructuur of waarmee de fysische kenmerken van een bouwmateriaal kunnen worden bepaald.  </sup>   
 
 | Frequentiebereik (MHz)  | Maximale gemiddelde e.i.r.p.-dichtheid (dBm/MHz)  | Maximale piek-e.i.r.p.-dichtheid (dBm/50MHz)  |
-|:---|:---|:---|
+|---|---|---|
 | Lager dan 1730  | – 85  | – 45  |
 | 1730 tot 2200  | – 65  | – 25  |
 | 2200 tot 2500  | – 50  | – 10  |
@@ -812,7 +816,7 @@ BMA-apparatuur die gebruik maakt van mitigatietechnieken die een niveau bereiken
 ####Tankniveau-sondering radar <sup>1</sup>
 
 | Frequentiebereik (MHz)  | Maximaal vermogen  |
-|:---|:---|
+|---|---|
 | 4,5–7,0 GHz  | 24 dBm e.i.r.p. <sup>1</sup>  |
 | 8,5–10,6 GHz  | 30 dBm e.i.r.p. <sup>1</sup>  |
 | 24,05–27,0 GHz  | 43 dBm e.i.r.p.30 dBm e.i.r.p. <sup>1</sup>  |
@@ -828,7 +832,7 @@ BMA-apparatuur die gebruik maakt van mitigatietechnieken die een niveau bereiken
 Het uitgestraalde vermogen is gelijk aan het in de lucht uitgestraalde vermogen als gevolg van de door de apparatuur uitgezonden signalen die niet werden geabsorbeerd door het bestudeerde materiaal.  
 
 | Frequentieband  | Maximale gemiddelde e.i.r.p.-dichtheid  |
-|:---|:---|
+|---|---|
 | Onder 230 MHz  | – 65,0 dBm/MHz  |
 | 230 tot 1 000 MHz  | – 60,0 dBm/MHz  |
 | 1 000 tot 1 600 MHz  | – 65,0 dBm/MHz  |
@@ -842,6 +846,33 @@ Het uitgestraalde vermogen is gelijk aan het in de lucht uitgestraalde vermogen 
 – Bodemradar (GPR) beeldvormend systeem. Een veldverstoringsensor die is ontworpen om alleen te werken wanneer ze in contact is met, of binnen een meter van de grond, voor de opsporing van of het verkrijgen van de beelden van begraven voorwerpen of het bepalen van de fysische eigenschappen in de grond. De energie van de GPR is met opzet naar beneden in de grond gericht voor dit doel.  
 
 – Muur indringende radar (WPR) beeldvormend systeem. Een veld verstoring sensor die is ontworpen om de locatie van objecten binnen een ‘muur’ op te sporen of om de fysieke eigenschappen te bepalen binnen de ‘muur’. De ‘muur’ is een betonnen structuur, de zijkant van een brug, de muur van een mijn of een andere fysieke structuur die massief en dik genoeg is om het grootste deel van het signaal dat door de radar wordt uitgezonden te absorberen.   <sup>2</sup> Er geldt een aanvullende beperking van de maximale gemiddelde e.i.r.p.-dichtheid van –75dBm/kHz in geval er sprake is van spectraallijnen in de frequentiebanden tussen 1164 en 1215 MHz en tussen 1559 en 1610 MHz.  
+
+### 2.4  
+
+####Industriële niveau meetradar (Level Probing Radar: LPR)
+
+Tabel 1 
+
+|--- | A  | B  | C  | D  | Frequentieband  | Maximum gemiddelde e.i.r.p. spectrum dichtheid (dBm/MHz) <sup>1, 5</sup>  | Maximum piek e.i.r.p. (dBm gemeten in 50 MHz) <sup>2, 5</sup>  | Maximum antenne opening (graden) <sup>3</sup>  | Maximum gemiddelde e.i.r.p. spectrum dichtheid op een halve-bol (dBm/MHz) <sup>4, 5</sup>  |
+|---|---|---|---|---|---|---|---|---|---|
+| 6,0 – 8,5 GHz  | –33  | 7  | 12  | –55  |
+| 24,05 – 26,5 GHz  | –14  | 26  | 12  | –41,3  |
+| 57 – 64 GHz  | –2  | 35  | 8  | –41,3  |
+| 75 – 85 GHz  | –3  | 34  | 8  | –41,3  |
+
+<sup>1</sup> De technische specificaties in dit onderdeel moeten onder alle omstandigheden worden gerealiseerd. Dit betekent in het bijzonder dat LPR apparatuur alleen mag worden gebruikt met een door de fabrikant aangegeven antenne, die overeenstemt met de specificaties voor de maximum openingshoek van de hoofdstraalrichting zoals gespecificeerd in tabel 1 (kolom C). <sup>2</sup> Uitzendingen van LPR apparatuur moet overeenstemmen met de gemiddelde e.i.r.p. spectrum dichtheid en piek e.i.r.p. niveaus, zoals gespecificeerd in de tabel 1 (kolom A, B en D). <sup>3</sup> De LPR antennes moeten zodanig zijn geïnstalleerd dat onder alle gebruiksomstandigheden een stabiele neerwaartse oriëntatie is gewaarborgd. <sup>4</sup> LPR apparaten die vergunningvrij gebruikt mogen worden moeten zijn voorzien van een technische voorziening om de uitstraling in alle richtingen te beperken ongeacht de hoogte van de installatie of het reflecterende materiaal onder de LPR installatie. Een praktische technische oplossing om dit te bereiken is Automatische Vermogens Controle (Automatic Power Control – APC) met een dynamisch bereik van tenminste 20 dB of een vergelijkbare mitigatie techniek. <sup>5</sup> Voor de Radio Astronomie locatie Westerbork (52º55’01”N – 06º36’15” O) gelden de volgende extra beschermingseisen: A. Van 0 tot 4 km rondom Westerbork is de installatie van LPR apparatuur verboden. B. Van 4 tot 40 km rondom Westerbork is de antennehoogte van de LPR apparatuur beperkt tot 15 meter. 
+Tabel 2: Limieten van ongewenste straling in de band 6,0 – 8,5 GHz. 
+
+| Frequentieband  | Max. gemiddelde e.i.r.p. spectrum dichtheid limiet. (dBm/MHz) <sup>1</sup>  | Max. gemiddelde e.i.r.p. spectrale dichtheid limiet in een halve bol (dBm/MHz) <sup>4</sup>  |
+|---|---|---|
+| Onder 1.73 GHz  | –63  | –85  |
+| 1.73–2.7 GHz  | –58  | –80  |
+| 2.7–5 GHz  | –48  | –70  |
+| 5–6 GHz  | –43  | –65  |
+| 8.5–10.6 GHz  | –43  | –65  |
+| Boven 10.6 GHz  | –63  | –85  |
+
+<sup>1</sup> Gemiddelde e.i.r.p. spectrum dichtheid in de hoofdlob van de LPR antenne is het gemiddelde vermogen per eenheid bandbreedte die wordt uitgestraald in de richting van het maximum niveau. <sup>2</sup> Piek e.i.r.p. in de hoofdlob is het vermogen binnen 50 MHz bandbreedte van de frequentie waarop het hoogste gemiddelde vermogen wordt uitgestraald. Als de bandbreedte wordt gemeten in x MHz, moet dit vermogen naar rato worden omgerekend met een factor 20log(50/x) dB. <sup>3</sup> Gedefinieerd bij de –3 dB punten ten opzicht van de maximum antennewinst. De LPR antennewinst in elevatie hoeken boven 60 graden van de richting van de hoofdlob moeten voldoen aan een maximum waarde van –10 dBi. <sup>4</sup> De maximale gemiddelde e.i.r.p. spectrale dichtheid beperkingen op halve bol rond LPR installatie is gebaseerd op zowel de LPR-antenne zij-lob emissies en eventuele reflecties van het gemeten materiaal / voorwerp. De naleving van deze limieten wordt aangenomen in het geval LPR apparaten voldoen aan gemeten maximale gemiddelde e.i.r.p. spectrale dichtheid en de maximale piek e.i.r.p. grenzen in de hoofd-lob (tabel 1, kolommen A en B) en gebruik van de voorgeschreven antenne (zie voetnoot 3). <sup>5</sup> De door de LPR uitgezonden ongewenste straling is gelimiteerd tot de waardes in tabel 2 voor LPR apparatuur die werkt in de band 6,0 – 8,5 GHz. Voor LPR die in ander banden werken gelden de limieten voor ongewenste straling die tenminste 20 dB minder zijn dan de in-band limieten die zijn gespecificeerd in tabel 1. Voor LPR die in de band 24,05 – 26,5 GHz werkt, zijn de ongewenste uitzendingen in de band 23,6 – 24,0 GHz ‘passieve band’ tenminste 30 dB minder dan de in-band limiet die is gespecificeerd in tabel 1. 
 
 ### Aanhangsel  
 
@@ -864,7 +895,7 @@ Opmerkingen bij de tabellen
 De duty-cycle is gedefinieerd als de verhouding, uitgedrukt in een percentage, tussen de maximale uitzendtijd op 1 of meer frequenties relatief ten opzichte van een periode van 1 uur. Indien erg geen duty-cycle is genoemd dan is iedere duty-cycle mogelijk.  
 
 | Duty-cycle  | Maximum uitzendtijd  (in seconden)  | Minimum tijd dat er niet uitgezonden wordt  (in seconden)  | Uitleg: Voor het overgrote deel van de toepassingen is de ‘aan’ periode korter dan de ‘uit’ periode. Vaak duurt een enkele uitzending slechts enkele milliseconden.  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | < 0,1%  | 0,72  | 0,72  | Bijvoorbeeld: 5 uitzendingen van 0,72 seconden binnen het uur  |
 | < 1,0%  | 3,6  | 1,8  | Bijvoorbeeld: 10 uitzendingen van 3,6 seconden binnen het uur  |
 | < 10%  | 36  | 3,6  | Bijvoorbeeld: 10 uitzendingen van 36 seconden binnen het uur  |
@@ -878,7 +909,7 @@ Deze bijlagen behoren bij artikelen 5 en 8
 ####Beperkingen en voorschriften als bedoeld in artikel 8, onder a , en examenvereiste als bedoeld in artikel 5, tweede lid 
 
 | Categorie registratie <sup>1</sup>  | Toegestane zendvermogen in watt (PEP) <sup>2</sup>  | Frequentiebanden in MHz  | Bijzondere bepalingen <sup>3</sup>  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | F  | 400  | 0,1357  | –  | 0,1378  | Alleen de klasse A1A  |
 | 100  | 0,472  | –  | 0,479  | Vanaf 1 januari 2013. Alleen A1A, F1A, G1A, J2A; contesten zijn niet toegestaan.  |
 | 100  | 0,501  | –  | 0,505  | Tot 1 januari 2013. Alleen A1A, F1A, G1A, J2A; contesten zijn niet toegestaan.  |
@@ -926,14 +957,14 @@ Deze bijlagen behoren bij artikelen 5 en 8
 | 25  | 430,0  | –  | 436,0  | --- |
 | 25  | 436,0  | –  | 440,0  | --- |
 
-<sup>1</sup> Ingevolge [artikel 14, eerste lid, van de Examenregeling frequentiegebruik](../../../../../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) worden de examens voor radiozendamateurs onderscheiden in twee categorieën, radiotechniek en voorschriften I, en radiotechniek en voorschriften II. Het met een goed gevolg afgelegd hebben van examen I is vereist voor volledige toegang van de voor radiozendamateurs beschikbare frequentieruimte. Radiozendamateurs die examen II met goed gevolg hebben afgelegd kunnen slechts frequentieruimte gebruiken onder de in de tabel vermelde beperkingen. Een registratie met volledige toegang wordt aangemerkt als F (full), terwijl een registratie met beperkte toegang wordt aangemerkt als N (novice). Degene aan wie in het verleden een zogenaamde A- of C-vergunning was verleend, had dezelfde rechten als vergunninghouders van de categorie F en zal derhalve thans, bij de omzetting van vergunningen in registraties, een F-registratie verkrijgen. <sup>2</sup> zendvermogen: het door de direct met de antenne-inrichting te koppelen trap van het radiozendapparaat afgegeven gemiddeld vermogen, gerekend over één periode van de hoogfrequente uitgangswissel-spanning tijdens het maximum van de omhullende (Peak Envelope Power); <sup>3</sup> De gebruiker van een zelfgebouwd radiozendapparaat voorkomt dat een vermogen wordt geproduceerd dat de onderstaande limieten overschrijdt voor de onderdrukking van ongewenste hoogfrequente uitstralingen.  
+<sup>1</sup> Ingevolge artikel 14, eerste lid, van de Examenregeling frequentiegebruik worden de examens voor radiozendamateurs onderscheiden in twee categorieën, radiotechniek en voorschriften I, en radiotechniek en voorschriften II. Het met een goed gevolg afgelegd hebben van examen I is vereist voor volledige toegang van de voor radiozendamateurs beschikbare frequentieruimte. Radiozendamateurs die examen II met goed gevolg hebben afgelegd kunnen slechts frequentieruimte gebruiken onder de in de tabel vermelde beperkingen. Een registratie met volledige toegang wordt aangemerkt als F (full), terwijl een registratie met beperkte toegang wordt aangemerkt als N (novice). Degene aan wie in het verleden een zogenaamde A- of C-vergunning was verleend, had dezelfde rechten als vergunninghouders van de categorie F en zal derhalve thans, bij de omzetting van vergunningen in registraties, een F-registratie verkrijgen. <sup>2</sup> zendvermogen: het door de direct met de antenne-inrichting te koppelen trap van het radiozendapparaat afgegeven gemiddeld vermogen, gerekend over één periode van de hoogfrequente uitgangswissel-spanning tijdens het maximum van de omhullende (Peak Envelope Power); <sup>3</sup> De gebruiker van een zelfgebouwd radiozendapparaat voorkomt dat een vermogen wordt geproduceerd dat de onderstaande limieten overschrijdt voor de onderdrukking van ongewenste hoogfrequente uitstralingen.  
 
 ####Limieten zelfgebouwde amateurapparatuur
 
 Tabel 1: Antenne-uitgangslimieten in zendmode 
 
 | Frequentieband  | Limieten (de hoogste waarde is van toepassing)  | Opmerkingen  |
-|:---|:---|:---|
+|---|---|---|
 | 0,15 MHz tot 1,7 MHz  | –36 dBm of –60 dBc  | --- |
 | 1,7 MHz tot 35 MHz  | –36 dBm of –40 dBc  | --- |
 | 35 MHz tot 50 MHz  | –40 tot –60 dBc of –36dBm De hoogste waarde is van toepassing  | (opmerking 1)  |
@@ -943,7 +974,7 @@ Tabel 1: Antenne-uitgangslimieten in zendmode
 Opmerking 1: De limiet in dBc neemt lineair af met de logaritme van de frequentie in het bereik van 35 MHz tot 50 MHz. Voor de limieten aangegeven in dBc geldt dat het referentieniveau het maximale RF-outputsignaal in PEP van de zender is, gemeten aan de antenne-uitgang.  Tabel 2: Antenne-uitgangslimieten in ontvangst- of zendstandbymode 
 
 | Frequentieband  | Limieten (de hoogste waarde is van toepassing)  | Opmerkingen  |
-|:---|:---|:---|
+|---|---|---|
 | 0,15 MHz tot 1 000 MHz  | –57 dBm  | --- |
 | 1 000 MHz tot 40 GHz  | –47 dBm  | --- |
 
@@ -966,7 +997,7 @@ Beperkingen en voorschriften als bedoeld in artikel 8, onder b, en examenvereist
 Gebruik in de MF/HF-band is alleen toegestaan buiten het werkingsgebied van de Regionale Regeling, in de volgende frequentiebanden.  
 
 | Frequentie  band  | Frequentie schip (kHz)  | Frequentie kuststation  (kHz)  | Opmerkingen  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | VHF  | kanaal 70  | kanaal 70  | Internationaal Noodkanaal DSC  |
 | --- | kanaal 16  | kanaal 16  | Radiotelefonie Noodkanaal  |
 | --- | kanaal 67  | kanaal 67  | SAR kanaal (on-scene)  |
@@ -1020,7 +1051,7 @@ Gebruik in de MF/HF-band is alleen toegestaan buiten het werkingsgebied van de R
 1.1.1 Voor het internationale verkeer bestaan de volgende mogelijkheden. 1.1.2  
 
 | Frequentieband  (kHz)  | ITU-regio  | Klasse van  uitzending  | Stations waarmee kan worden gewerkt  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 2045  | 1  | J3E  | Buitenlandse kuststations  |
 | 2048  | 1  | J3E  | Buitenlandse schepen en buitenlandse kuststations  |
 | 2051  | 1  | J3E  | Buitenlandse kuststations  |
@@ -1036,7 +1067,7 @@ Gebruik in de MF/HF-band is alleen toegestaan buiten het werkingsgebied van de R
 Hiervoor mogen uitsluitend de volgende frequenties in de korte golf en de middengolf worden gebruikt. De genoemde frequenties zijn de draaggolf-frequenties in kHz. Gebruik in de MF/HF-band is alleen toegestaan buiten het werkingsgebied van de Regionale Regeling  2 MHz band 
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 2263  | 2266  | 2269  | 2272  | 2275  |
 | 2278  | 2281  | 2284  | 2287  | 2290  |
 | 2293  | 2296  | 2299  | 2302  | 2305  |
@@ -1057,14 +1088,14 @@ Hiervoor mogen uitsluitend de volgende frequenties in de korte golf en de midden
 3 MHz band 
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 3340  | 3343  | 3346  | 3349  | 3352  |
 | 3355  | 3358  | 3361  | 3364  | 3367  |
 | 3370  | 3373  | 3376  | 3379  | 3382  |
 | 3385  | 3388  | 3391  | 3394  | 3397  |
 
 | 4 MHz  band  | 6 MHz  band  | 8 MHz  band  | 12 MHz  band  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 4146  | 6224  | 8294  | 12353  |
 | 4149  | 6227  | 8297  | 12356  |
 | --- | 6230  | --- | 12359  |
@@ -1072,7 +1103,7 @@ Hiervoor mogen uitsluitend de volgende frequenties in de korte golf en de midden
 | --- | --- | --- | 12365  |
 
 | 16 MHz  band  | 18/19 MHz  band  | 22 MHz  band  | 25/26 MHz  band  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 16528  | 18825  | 22159  | 25100  |
 | 16531  | 18828  | 22162  | 25103  |
 | 16534  | 18831  | 22165  | 25106  |
@@ -1086,7 +1117,7 @@ Hiervoor mogen uitsluitend de volgende frequenties in de korte golf en de midden
 Overzicht van VHF kanalen/frequenties die beschikbaar zijn voor maritiemmobiele communicatie, met vermelding van de toegestane toepassingen (frequenties in MHz):  
 
 | Kanaal  nummer  | Schip  | Wal  | Toepassing in het werkingsgebied van de regionale regeling (Nederlandse binnenwateren)  (4, 5, 6)  | Toepassing buiten het werkingsgebied van de regionale regeling (op zee) (12)  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 60  | 156,025  | 160,625  | Verkeersbegeleiding  | Havenoperaties Scheepsbeweging Openbare correspondentie  |
 | 01  | 156,050  | 160,650  | Verkeersbegeleiding  | Openbare correspondentie  |
 | 61  | 156,075  | 160,675  | Verkeersbegeleiding  | Havenoperaties Scheepsbeweging Openbare correspondentie  |
@@ -1191,7 +1222,7 @@ b. vissersschepen die (beroepsmatig) sportvisserij bedrijven, uitsluitend gebrui
 Overzicht van UHF kanalen/frequenties die beschikbaar zijn voor maritiemmobiele communicatie, met vermelding van de toegestane toepassingen (frequenties in MHz):  
 
 | kanaal  nummer  | zendfrequentie  | on-board  communicatie  | soc.verkeer  (a)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | 457,525  | x  | --- |
 | 2  | 457,5375  | x  | x  |
 | 3  | 457,550  | x  | --- |
@@ -1212,7 +1243,7 @@ Noot UHF a) sociaal verkeer alleen in Nederland
 #### *4. Frequentiegebruik mobiele satellietverbindingen* 
 
 | Toepassing  | Frequentie  | Vermogen  |
-|:---|:---|:---|
+|---|---|---|
 | EPIRB (homing ten behoeve van uitpeilen)  | 121,500 MHz  | 200 mW  |
 | EPIRB (alarmering)  | 406,000 – 406,100 MHz  | 5 W e.r.p.  |
 | INMARSAT A, B, C, F, M en Mini M  | 1626,500 – 1645,500 MHz  | 0 dBW e.r.p.  |
@@ -1222,7 +1253,7 @@ Noot UHF a) sociaal verkeer alleen in Nederland
 Dit overzicht bevat alle apparatuur die onder de noemer ‘scheepsstation’ vergunningvrij met melding kan worden gebruikt.  
 
 |--- | Basiscertificaat of  | MARCOM B of  | MARCOM A  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Marifoon Binnenvaart  | X  | X  | X  |
 | Marifoon Zeevaart  | --- | X  | X  |
 | Combi-marifoon  | --- | X  | X  |

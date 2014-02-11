@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de wet:* de [Wet publieke gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+a.  *de wet:* de [Wet publieke gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
 
-b. *basistakenpakket jeugdgezondheidszorg:* de in [artikel 5, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) genoemde werkzaamheden;  
+b.  *basistakenpakket jeugdgezondheidszorg:* de in [artikel 5, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) genoemde werkzaamheden;  
 
-c. *de KNMG:* de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst.    
+c.  *de KNMG:* de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst.   
 
 ### Hoofdstuk  II  
 
@@ -51,7 +51,7 @@ b. het adviseren van de onder a bedoelde instellingen over de mogelijkheden op h
 
 c. het signaleren van ongewenste situaties,  
 
-d. het beantwoorden van vragen uit de bevolking en het geven van voorlichting.     
+d. het beantwoorden van vragen uit de bevolking en het geven van voorlichting.    
 
 ### Hoofdstuk  III  
 
@@ -61,7 +61,7 @@ d. het beantwoorden van vragen uit de bevolking en het geven van voorlichting.
 
 1.  Het basistakenpakket jeugdgezondheidszorg bestaat uit een uniform deel en een maatwerk deel.   
 2.  Het uniform deel van het basistakenpakket omvat de in de artikelen 4, 5 en 6 van dit besluit beschreven werkzaamheden en wordt aan alle jeugdigen aangeboden.   
-3.  Het maatwerk deel van het basistakenpakket omvat de in de artikelen 7, 8 en 9 van dit besluit beschreven werkzaamheden en wordt afgestemd op de specifieke zorgbehoeften van de jeugdigen alsmede op lokale of regionale demografische en epidemiologische gegevenheden.   
+3.  Het maatwerk deel van het basistakenpakket omvat de in de artikelen 7, 8 en 9 van dit besluit beschreven werkzaamheden en wordt afgestemd op de specifieke zorgbehoeften van de jeugdigen alsmede op lokale of regionale demografische en epidemiologische gegevenheden.  
 
 ### Artikel  4  
 
@@ -85,7 +85,7 @@ h. het beoordelen van het sociaal milieu van de jeugdige,
 
 i. het beoordelen van het fysieke milieu rondom de jeugdige,  
 
-j. het in kaart brengen van het zorgsysteem rondom de jeugdige.    
+j. het in kaart brengen van het zorgsysteem rondom de jeugdige.   
 
 ### Artikel  5  
 
@@ -97,7 +97,7 @@ b. het schatten van de behoefte aan advies en voorlichting van de jeugdige en va
 
 c. het inventariseren van de zorg die de jeugdige al ontvangt,  
 
-d. het nagaan of de jeugdige tot een of meer risicogroepen behoort.    
+d. het nagaan of de jeugdige tot een of meer risicogroepen behoort.   
 
 ### Artikel  6  
 
@@ -115,7 +115,7 @@ e. het nagaan of bij de jeugdige sprake is van perceptief gehoorverlies,
 
 f. het zonodig aanbieden van vaccinatie tegen hepatitis B,  
 
-g. het zonodig aanbieden van vaccinatie tegen tuberculose.    
+g. het zonodig aanbieden van vaccinatie tegen tuberculose.   
 
 ### Artikel  7  
 
@@ -123,7 +123,7 @@ De in [artikel 5, tweede lid, aanhef en onder b, van de wet](../../../../../wet/
 
 a. het ramen welke zorgverlening op maat nodig is,  
 
-b. het ramen welke risicogroep gerichte zorg nodig is.    
+b. het ramen welke risicogroep gerichte zorg nodig is.   
 
 ### Artikel  8  
 
@@ -131,7 +131,7 @@ De in [artikel 5, tweede lid, aanhef en onder d, van de wet](../../../../../wet/
 
 a. het geven van individugerichte voorlichting, advies, instructie en begeleiding,  
 
-b. het geven van groepsgerichte voorlichting, advies, instructie en begeleiding.    
+b. het geven van groepsgerichte voorlichting, advies, instructie en begeleiding.   
 
 ### Artikel  9  
 
@@ -143,11 +143,11 @@ b. het formuleren welke maatregelen, afgestemd op de groep gezinnen waartoe het 
 
 c. het formuleren welke individuele maatregelen, afgestemd op buurt of school van de jeugdige, nodig zijn,  
 
-d. het formuleren welke maatregelen, afgestemd op de groep buurten of scholen waartoe de buurt of school van de jeugdige behoort, nodig zijn.    
+d. het formuleren welke maatregelen, afgestemd op de groep buurten of scholen waartoe de buurt of school van de jeugdige behoort, nodig zijn.   
 
 ### Artikel  10  
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), hanteert het college voor de uitvoering dezelfde eisen als in artikel 17, tweede lid, van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.  
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), hanteert het college voor de uitvoering dezelfde eisen als in artikel 17, tweede lid, van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld. 
 
 ### Hoofdstuk  IV  
 
@@ -173,11 +173,11 @@ g. de algemene voorbereiding op maatregelen ter bestrijding van een epidemie van
 
 h. het aanbieden van vaccinaties aan risicogroepen,  
 
-i. de deelname aan toegepast wetenschappelijk onderzoek.    
+i. de deelname aan toegepast wetenschappelijk onderzoek.   
 
 ### Artikel  12  
 
-De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucellose, gele koorts, hantavirusinfectie, heamophilus influenza infectie, pneumokokkenziekte, legionellose, leptospirose, listeriose, malaria, meningokokkenziekte, mrsa-infectie, psittacose, q-koorts, tetanus, trichinose, west-nile virusinfectie, ziekte van creutzfeldt-jakob.  
+De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucellose, gele koorts, hantavirusinfectie, heamophilus influenza infectie, pneumokokkenziekte, legionellose, leptospirose, listeriose, malaria, meningokokkenziekte, mrsa-infectie, psittacose, q-koorts, tetanus, trichinose, west-nile virusinfectie, ziekte van creutzfeldt-jakob. 
 
 ### Artikel  13  
 
@@ -196,7 +196,7 @@ e. hoe de voorlichting aan personeel, reizigers en overig publiek plaatsvindt,
 
 f. hoe wordt voorzien in de bestrijding van een besmetting, waaronder vectorbestrijding, in de haven of luchthaven en van schepen en luchtvaartuigen,  
 
-g. hoe over het onder a tot en met f gestelde wordt samengewerkt met betrokken diensten en organisaties.     
+g. hoe over het onder a tot en met f gestelde wordt samengewerkt met betrokken diensten en organisaties.    
 
 ### Artikel  14  
 
@@ -204,7 +204,7 @@ Een krachtens [artikel 48 van de wet](../../../../../wet/wet/publieke/gezondheid
 
 a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in artikel 13 van dit besluit,  
 
-b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.    
+b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.   
 
 ### Artikel  15  
 
@@ -214,7 +214,7 @@ b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, a
 a. de kosten waarvoor de gemeente uit andere hoofde een bijdrage heeft verkregen of kan verkrijgen,  
 
 b. de kosten die een gemeente in rekening brengt of kan brengen.     
-3.  Geen bijdrage wordt toegekend, indien de kosten, bedoeld in het tweede lid, € 45.000 of minder bedragen.   
+3.  Geen bijdrage wordt toegekend, indien de kosten, bedoeld in het tweede lid, € 45.000 of minder bedragen.  
 
 ### Artikel  16  
 
@@ -227,7 +227,7 @@ b. de kosten die een gemeente in rekening brengt of kan brengen.
 
 a. op grond van feiten of omstandigheden waarvan Onze Minister bij de vaststelling van de bijdrage redelijkerwijze niet op de hoogte kon zijn en op grond waarvan de bijdrage lager zou zijn vastgesteld, of  
 
-b. indien de vaststelling van de bijdrage onjuist was en de ontvanger dit wist of behoorde te weten.     
+b. indien de vaststelling van de bijdrage onjuist was en de ontvanger dit wist of behoorde te weten.    
 
 ### Hoofdstuk  V  
 
@@ -255,7 +255,7 @@ a. de sociaal geneeskundige, belast met de infectieziektebestrijding, is ingesch
 
 b. de sociaal geneeskundige, belast met de bestrijding van tuberculose, is ingeschreven als arts tuberculosebestrijding in het Register van Artsen Maatschappij en Gezondheid van de KNMG en opgeleid in de tuberculosebestrijding, dan wel ingeschreven als longarts in het desbetreffende specialistenregister van de KNMG,  
 
-c. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleegkundige en in het bezit van het diploma HBO-V.     
+c. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleegkundige en in het bezit van het diploma HBO-V.    
 
 ### Hoofdstuk  VI  
 
@@ -263,27 +263,27 @@ c. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleeg
 
 ### Artikel  18  
 
-Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.   
+Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz. 
 
 ### Artikel  19  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  20  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal. 
 
 ### Artikel  21  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  22  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  23  
 
-Dit besluit wordt aangehaald als: Besluit publieke gezondheid.  
+Dit besluit wordt aangehaald als: Besluit publieke gezondheid. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
