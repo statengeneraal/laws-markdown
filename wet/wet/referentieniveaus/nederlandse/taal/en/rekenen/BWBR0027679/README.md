@@ -25,7 +25,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *referentieniveau Nederlandse taal:* niveau van beheersing van de Nederlandse taal, uitgedrukt in kennis, inzicht en vaardigheden die van belang zijn voor de doorstroming naar het vervolgonderwijs en het maatschappelijk en in voorkomende gevallen beroepsmatig functioneren, waarmee de beheersing van de Nederlandse taal door leerlingen aan het einde van een onderwijssoort kan worden vergeleken, en  
 
-*referentieniveau rekenen:* niveau van beheersing van het rekenen, uitgedrukt in kennis, inzicht en vaardigheden die van belang zijn voor de doorstroming naar het vervolgonderwijs en het maatschappelijk en in voorkomende gevallen beroepsmatig functioneren, waarmee de beheersing van het rekenen door leerlingen aan het einde van een onderwijssoort kan worden vergeleken.    
+*referentieniveau rekenen:* niveau van beheersing van het rekenen, uitgedrukt in kennis, inzicht en vaardigheden die van belang zijn voor de doorstroming naar het vervolgonderwijs en het maatschappelijk en in voorkomende gevallen beroepsmatig functioneren, waarmee de beheersing van het rekenen door leerlingen aan het einde van een onderwijssoort kan worden vergeleken.   
 
 ### Artikel  2  
 
@@ -42,42 +42,42 @@ c. de schoolsoorten, bedoeld in [artikel 5, onderdelen a tot en met d, van de We
 
 d. de soorten opleidingen, bedoeld in [artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-e. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat daarvoor twee referentieniveaus Nederlandse taal en twee referentieniveaus rekenen worden vastgesteld, en  
+e. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat daarvoor twee referentieniveaus Nederlandse taal en twee referentieniveaus rekenen worden vastgesteld, en 
 
-f. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md).     
-3.  Referentieniveaus Nederlandse taal kunnen worden vastgesteld voor de opleidingen Nederlands als tweede taal, bedoeld in [artikel 7.3.1, eerste lid, onder c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat voor elke opleiding verschillende referentieniveaus kunnen worden vastgesteld.   
+f. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md).    
+3.  Referentieniveaus Nederlandse taal kunnen worden vastgesteld voor de opleidingen Nederlands als tweede taal, bedoeld in [artikel 7.3.1, eerste lid, onder c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat voor elke opleiding verschillende referentieniveaus kunnen worden vastgesteld. 
 
 ### Artikel  3  
 
 ####Wijziging van de [Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md)
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.
 
 ### Artikel  4  
 
 ####Wijziging van de [Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md)
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.
 
 ### Artikel  5  
 
 ####Wijziging van de [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  6  
 
 ####Wijziging van de [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs.
 
 ### Artikel  7  
 
 ####Wijziging van de [Leerplichtwet 1969](../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Leerplichtwet 1969.   
+Wijzigt de Leerplichtwet 1969.
 
 ### Artikel  8  
 
@@ -87,21 +87,21 @@ Wijzigt de Leerplichtwet 1969.
 2.  Het eerste lid is van overeenkomstige toepassing op de eindtermen die na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, worden vastgesteld voor beroepsopleidingen met de verzorging waarvan instellingen een aanvang maken na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, voor zover het voorstel van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in [artikel 7.2.4, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is gedaan voor het tijdstip van inwerkingtreding van artikel 6, onderdeel A.   
 3.  De deelkwalificatie Nederlandse taal en rekenen, bedoeld in het eerste lid, treedt in de plaats van de eisen aan de beheersing van de Nederlandse taal en het rekenen die elders in de desbetreffende eindtermen zijn opgenomen, tenzij het betreft eisen die specifiek met het oog op de beroepsuitoefening zijn gesteld.   
 4.  Indien de algemene maatregel van bestuur, bedoeld in [artikel 7.4.3a, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), later in werking treedt dan dit artikel, wordt bij ministeriële regeling bepaald hoe de door een deelnemer behaalde resultaten bij de deelkwalificatie Nederlandse taal en rekenen meetellen voor het met gunstig gevolg afleggen van het examen van de beroepsopleiding, indien nodig in afwijking van [artikel 7.4.2, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-5.  Het bevoegd gezag stelt deelnemers die voor de inwerkingtreding van artikel 6, onderdeel A, zijn gestart met een meerjarige beroepsopleiding in de gelegenheid hun opleiding binnen een redelijke tijd te voltooien onder de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde voorschriften. Deze deelnemers ontvangen na het met goed gevolg voltooien van de opleiding een diploma overeenkomstig de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, geldende voorschriften.   
+5.  Het bevoegd gezag stelt deelnemers die voor de inwerkingtreding van artikel 6, onderdeel A, zijn gestart met een meerjarige beroepsopleiding in de gelegenheid hun opleiding binnen een redelijke tijd te voltooien onder de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, bij of krachtens de [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde voorschriften. Deze deelnemers ontvangen na het met goed gevolg voltooien van de opleiding een diploma overeenkomstig de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, geldende voorschriften.  
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan alsmede voor de verschillende onderwijssectoren, schoolsoorten, leerwegen of onderdelen van leerwegen binnen het voortgezet onderwijs of soorten beroepsopleidingen verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan alsmede voor de verschillende onderwijssectoren, schoolsoorten, leerwegen of onderdelen van leerwegen binnen het voortgezet onderwijs of soorten beroepsopleidingen verschillend kan worden vastgesteld. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Deze wet wordt aangehaald als: Wet referentieniveaus Nederlandse taal en rekenen.  
+Deze wet wordt aangehaald als: Wet referentieniveaus Nederlandse taal en rekenen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 29 april 2010  
@@ -118,5 +118,5 @@ G. Verburg
 
 de *achtentwintigste* mei 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

@@ -30,11 +30,7 @@ g. module hypothecair krediet: de eindtermen en toetstermen in bijlage 7;
 
 h. module pensioenverzekeringen: de eindtermen en toetstermen in bijlage 8;  
 
-i. module volmacht algemeen: de eindtermen en toetstermen in bijlage 9;  
-
-j. module volmacht schade extra: de eindtermen en toetstermen in bijlage 10;  
-
-k. module volmacht overig: de eindtermen en toetstermen in bijlage 11.    
+i. module zorgverzekeringen: de eindtermen en toetstermen in bijlage 9.    
 
 ### Artikel  3  
 
@@ -68,6 +64,21 @@ J.R.V.A.Dijsselbloem
 ### Bijlage  1  
 
 ####Eind en toetstermen module basis
+
+####Algemene vaardigheden
+
+###Professioneel gedrag
+
+###Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 4a*   De persoon beschikt over het vermogen om dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken:  • dilemma’s inzake serviceverlening en kosten van serviceverlening;  • dilemma’s inzake bevoegdheden en afhandeling van klantvragen;  • dilemma’s inzake situaties (specifiek voor financiële dienstverlening) die wettelijk niet zijn toegestaan;  • dilemma’s inzake situaties (specifiek voor financiële dienstverlening) die maatschappelijk niet wenselijk zijn.  |
+| 4a.1 De vraag van de klant afhandelen.  | De kandidaat neemt verantwoordelijkheid om de vraag van de klant zo goed als mogelijk af te handelen.  | Gaat empathisch en strategisch om met emoties van de klant.  Communiceert schriftelijk en op een correcte wijze met de klant.  Wijst op de inhoud van de algemene voorwaarden en regels uit de overeenkomst.  |
+| 4a.2 Doorverwijzen naar anderen.  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door andere partijen.  | --- |
+| 4a.3 Handelen in geval van een situatie die wettelijk niet is toegestaan.  | Is alert op fraude en dergelijke.  | Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
+| 4a.4 Handelen in een situatie die maatschappelijk gezien niet wenselijk is.  | Handelt in het belang van de klant, stelt de klant centraal.  Is in zijn handelen transparant.  | Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
+| 4a.5 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om.  | Werkt volgens de voorschriften en procedures.  |
 
 ### Taak  1  
 
@@ -232,11 +243,12 @@ Kennis
 | 1f.30  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de klant bij het beheer en de uitvoering tijdens de looptijd van een financieel product. Hij kan daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | K  |
 | 1f.31  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de klant bij het beëindigen van een financieel product.  | K  |
 | 1f.32  | De kandidaat kan de drie verschillende vormen van effectendienstverlening benoemen: execution only, beleggingsadvisering en vermogensbeheer.  | K  |
-| 1f.33  | De kandidaat kan een korte omschrijving geven van de zes kwaliteitseisen die gesteld worden aan de financiële dienstverlener: betrouwbaarheid, deskundigheid, financiële zekerheid, adequate en integere bedrijfsvoering, zorgplicht en transparantie.  | K  |
+| 1f.33  | De kandidaat kan een korte omschrijving geven van de zes kwaliteitseisen die gesteld worden aan de financiële dienstverlener: betrouwbaarheid, geschiktheid, financiële zekerheid, adequate en integere bedrijfsvoering, zorgplicht en transparantie.  | K  |
 | 1f.34  | De kandidaat kan de fasen van het adviestraject (inventarisatie, risicoanalyse, advies, beheer en mutatie en nazorg en schadebehandeling) benoemen.  | K  |
 | 1f.35  | De kandidaat kan omschrijven voor welke financiële dienstverlener de beroepsaansprakelijkheidsverzekering verplicht is.  | K  |
 | 1f.36  | De kandidaat kan de verschillende soorten bemiddelaars (verbonden bemiddelaar, gebonden bemiddelaar, ongebonden bemiddelaar) beschrijven.  | K  |
 | 1f.37  | De kandidaat kan beschrijven hoe een ongebonden bemiddelaar werkt op basis van een objectieve en op basis van een selectieve analyse.  | K  |
+| 1f.38  | De kandidaat kan noemen welke financiële dienstverleners ‘van rechtswege een vergunning krijgen’, en welke financiële dienstverleners een vergunning moeten aanvragen.  | K  |
 |  *Eindterm 1g*   De persoon baseert de informatieverstrekking in de eerste lijn van de financiële dienstverlening op kennis van relevante en actuele wet- en regelgeving in de verzekeringssector.  |
 | 1g.1  | De kandidaat kan omschrijven op welke manier een geldige verzekeringsovereenkomst tot stand komt.  | K  |
 | 1g.2  | De kandidaat kan omschrijven hoe via de diverse distributiekanalen een verzekeringsovereenkomst tot stand komt.  | K  |
@@ -281,19 +293,6 @@ Competenties
 |  *Eindterm 3d*   De persoon demonstreert en/of bewijst dat hij relaties kan beheren en/of aangaan met betrekking tot het verlenen van financiële diensten, rekening houdend met zeer wisselende klantbehoeften, klantsituaties, wettelijke en organisatorische bevoegdheden.  |
 | 3d.1 Klant- en/of product-gegevens beheren en muteren.  | Gegevens met betrekking tot financieren en verzekeren.  | Houdt rekening met de klantbehoefte en -situatie.  Houdt rekening met wettelijke en organisatorische bevoegdheden. Verwijst tijdig door naar juiste persoon of afdeling ingeval werkzaamheden buiten bevoegdheden of vakbekwaamheid liggen.  Stelt risicoprofiel op of bij.  Is klantvriendelijkheid, resultaatgericht en professioneel.  Vraagt door om situaties helder te krijgen.  Onderkent fraudesignalen.  | Overschat ik mij zelf niet? Verwijs ik niet te gemakkelijk door?  |
 | 3d.2 Klanten actief informeren gedurende de relatie.  | Verandering in de persoonlijke levenssfeer, zoals overlijden of echtscheiding.  | Adviseert correct inzake beschikking over rekeningen en afhandeling van aanspraken. Verwijst de klant, indien nodig, naar de juiste persoon of afdeling door.  Houdt rekening met de emotie van de klant. Hanteert heftige emotie met empathie en strategie.  Onderkent juridische en fiscale context.  Plant de juiste acties.  Vraagt naleving van geplande acties  | Hoe reageerde ik op emoties? Heb ik begrip voor verschillende culturele gewoonten van de klanten  Heb ik gehandeld binnen mijn bevoegdheden?  |
-
-####Professioneel gedrag
-
-Vaardigheden 
-
-| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
-|:---|:---|:---|
-|  *Eindterm 4a*   De persoon beschikt over het vermogen om dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken:  • dilemma’s inzake serviceverlening en kosten van serviceverlening;  • dilemma’s inzake bevoegdheden en afhandeling van klantvragen;  • dilemma’s inzake situaties (specifiek voor financiële dienstverlening) die wettelijk niet zijn toegestaan;  • dilemma’s inzake situaties (specifiek voor financiële dienstverlening) die maatschappelijk niet wenselijk zijn.  |
-| 4a.1 De vraag van de klant afhandelen.  | De kandidaat neemt verantwoordelijkheid om de vraag van de klant zo goed als mogelijk af te handelen.  | Gaat empathisch en strategisch om met emoties van de klant.  Communiceert schriftelijk en op een correcte wijze met de klant.  Wijst op de inhoud van de algemene voorwaarden en regels uit de overeenkomst.  |
-| 4a.2 Doorverwijzen naar anderen.  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door andere partijen.  | --- |
-| 4a.3 Handelen in geval van een situatie die wettelijk niet is toegestaan.  | Is alert op fraude en dergelijke.  | Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
-| 4a.4 Handelen in een situatie die maatschappelijk gezien niet wenselijk is.  | Handelt in het belang van de klant, stelt de klant centraal.  Is in zijn handelen transparant.  | Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
-| 4a.5 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om.  | Werkt volgens de voorschriften en procedures.  |
 
 ### Bijlage  2  
 
@@ -559,7 +558,7 @@ Vaardigheden
 |:---|:---|:---|
 |  *Eindterm 4a*   De persoon beschikt over het vermogen om de volgende dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken, alsmede de keuzes af te wegen en te verantwoorden:  • fraudesignalen onderkennen en daarop handelen;  • integer omgaan met de klantgegevens;  • doorverwijzen.  |
 | 4a.1 Fraudesignalen onderkennen en daarop handelen.  | De kandidaat beoordeelt documenten op echtheid.  De kandidaat geeft op adequate wijze opvolging aan een fraudesignaal.  | Bijvoorbeeld: het dilemma van financiële dienstverlener die inventariseert, en bemerkt dat de aanvraag niet strookt met de waarheid.  |
-| 4a.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om.  Respecteert privacy en patiëntenrechten (o.a. WBGO, WMK, WBP).  | Waarborgt dat interne automatisering goed beveiligd en reproduceerbaar is in geval van calamiteiten. Borgt dat gebruikers systeem middels een rollen en rechtensysteem alleen die gegevens kunnen raadplegen die passen bij de functie.  |
+| 4a.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om.  Respecteert privacy en patiëntenrechten (o.a. WGBO, WMK, WBP).  | Waarborgt dat interne automatisering goed beveiligd en reproduceerbaar is in geval van calamiteiten. Borgt dat gebruikers systeem middels een rollen en rechtensysteem alleen die gegevens kunnen raadplegen die passen bij de functie.  |
 | 4a.3 Doorverwijzen naar anderen.  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door collega’s of derden.  | --- |
 
 ### Taak  1  
@@ -579,7 +578,7 @@ Vaardigheden
 | Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
 |:---|:---|:---|
 |  *Eindterm 2b*   De persoon beschikt over het vermogen om de benodigde informatie met betrekking tot de inventarisatie te verzamelen.  |
-| 2b.1 Gegevens verzamelen.  | Kandidaat bevraagt de klant gestructureerd en onbevooroordeeld.  Alle relevante gegevens voor het klantprofiel worden verzameld. Als gegevens ontbreken of onduidelijk zijn, vraagt de kandidaat door.  Kandidaat controleert of hij de juiste persoon voor zich heeft en of de klant beschikkingsbevoegd en/of handelingsbekwaam is.  Kandidaat kan de klant begrijpelijk uitleggen waarom de gegevens nodig zijn.  | Kandidaat gaat integer met de klantgegevens om.  |
+| 2b.1 Gegevens verzamelen.  | Kandidaat bevraagt de klant gestructureerd en onbevooroordeeld.  Alle relevante gegevens voor het klantbeeld worden verzameld. Als gegevens ontbreken of onduidelijk zijn, vraagt de kandidaat door.  Kandidaat controleert of hij de juiste persoon voor zich heeft en of de klant beschikkingsbevoegd en/of handelingsbekwaam is.  Kandidaat kan de klant begrijpelijk uitleggen waarom de gegevens nodig zijn.  | Kandidaat gaat integer met de klantgegevens om.  |
 | 2b.2 De genomen preventiemaatregelen inventariseren.  | Kandidaat inventariseert alle genomen preventiemaatregelen. De kandidaat legt uit, indien nodig, in welke omstandigheden preventieve maatregelen wenselijk, effectief of zelfs verplicht zijn. De kandidaat overtuigt de klant van de voordelen van preventie.  | De klant begrijpt de omstandigheden of de preventiemaatregelen niet.  |
 | 2b.3 De gegevens controleren en invoeren.  | De kandidaat controleert de van de klant verkregen informatie op juistheid, volledigheid en tegenstrijdigheden.  De kandidaat gebruikt de juiste ICT toepassing en controleert zoveel mogelijk het systeemantwoord op bijzondere, opvallende en/of afwijkende uitkomsten.  De kandidaat heeft uiteindelijk goed inzicht in de gestelde wensen, eisen en prioriteiten en alle benodigde gegevens voor het geven van een juist en passend advies.  | --- |
 
@@ -587,9 +586,9 @@ Competenties
 
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
-|  *Eindterm 3a*   De persoon demonstreert en/of bewijst dat hij de gegevens voor het klantprofiel kan inventariseren en het klantprofiel correct kan opstellen.  |
-| 3a.1 De gegevens voor het klantprofiel inventariseren.  | Klantgesprek.  | De gegevens zijn administratief volledig en in één keer goed.  De genomen preventiemaatregelen zijn goed geïnventariseerd.  Het schadeverleden van de klant is goed uitgewerkt, zodat een adequaat schadebeeld ontstaat.  De kandidaat vraagt door in bijzondere situaties en wanneer klantgegevens onvolledig of mogelijk onjuist zijn, zodat hij/zij een passende dekking kan adviseren. Bijvoorbeeld voor niet-ingezetene of Nederlander die langdurig in buitenland woont en/of werkt.  De kandidaat vraagt in het geval van verkeersobjecten door naar de specifieke kenmerken.  | Vermeldt de klant alle zaken of laat hij informatie achter, omdat hij bang is dat die leidt tot afwijkende voorwaarden of afwijzing?  Wat doe ik als de opgave of aanvraag niet strookt met de waarheid?  Wat doe ik als de klant nonchalant of onwillig is?  |
-| 3a.2 Het klantprofiel opstellen.  | --- | De kandidaat vraagt door als verschafte informatie tegenstrijdig of onvolledig is en de inventarisatie geen goed beeld oplevert.  Het klantprofiel is volledig (doelstelling, financiële positie, risicobereidheid, kennis) voor zover relevant voor het opstellen van een passend advies m.b.t. particuliere schadeverzekeringen.  Klant kan zich herkennen in het klantprofiel.  | Levert de informatie een consistent beeld van het risico op?  Kan hij de uitkomsten van de inventarisatie verantwoorden.  |
+|  *Eindterm 3a*   De persoon demonstreert en/of bewijst dat hij de gegevens voor het klantbeeld kan inventariseren en het klantbeeld correct kan opstellen.  |
+| 3a.1 De gegevens voor het klantbeeld inventariseren.  | Klantgesprek.  | De gegevens zijn administratief volledig en in één keer goed.  De genomen preventiemaatregelen zijn goed geïnventariseerd.  Het schadeverleden van de klant is goed uitgewerkt, zodat een adequaat schadebeeld ontstaat.  De kandidaat vraagt door in bijzondere situaties en wanneer klantgegevens onvolledig of mogelijk onjuist zijn, zodat hij/zij een passende dekking kan adviseren. Bijvoorbeeld voor niet-ingezetene of Nederlander die langdurig in buitenland woont en/of werkt.  De kandidaat vraagt in het geval van verkeersobjecten door naar de specifieke kenmerken.  | Vermeldt de klant alle zaken of laat hij informatie achter, omdat hij bang is dat die leidt tot afwijkende voorwaarden of afwijzing?  Wat doe ik als de opgave of aanvraag niet strookt met de waarheid?  Wat doe ik als de klant nonchalant of onwillig is?  |
+| 3a.2 Het klantbeeld opstellen.  | --- | De kandidaat vraagt door als verschafte informatie tegenstrijdig of onvolledig is en de inventarisatie geen goed beeld oplevert.  Het klantbeeld is volledig (doelstelling, financiële positie, risicobereidheid, kennis) voor zover relevant voor het opstellen van een passend advies m.b.t. particuliere schadeverzekeringen.  Klant kan zich herkennen in het klantbeeld.  | Levert de informatie een consistent beeld van het risico op?  Kan hij de uitkomsten van de inventarisatie verantwoorden.  |
 
 ### Taak  2  
 
@@ -623,7 +622,7 @@ Kennis
 | 1c.13  | De kandidaat kan de namen noemen van de in het verzekeringsbedrijf gebruikelijke (verplichte) verzekeringsvormen die ziektekostenrisico’s (deels) afdekken.  | K  |
 | 1c.14  | De kandidaat kan kort het belang voor de klant van de aanvullende zorgverzekering benoemen.  | B  |
 | 1c.15  | De kandidaat kan in een specifieke situatie afwijkende risico’s en/of risicoverzwarende factoren voor de aanvullende zorgverzekering benoemen.  | B  |
-| 1c.16  | De kandidaat kan het verschil uitleggen tussen een natura- en een restitutiepolis.  | B  |
+| 1c.16  | De kandidaat kan het verschil uitleggen tussen een natura-, een restitutie- en een combinatiepolis.  | B  |
 | 1c.17  | De kandidaat kan uitleggen wat het belang is van de eventuele gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico voor een aanvullende zorgverzekering.  | B  |
 |  *RUBRIEK C2 ONGEVALLEN*   | --- |
 | 1c.18  | De kandidaat kan de verschijningsvormen van de ongevallenverzekering en de dekkingsrubrieken omschrijven.  | K  |
@@ -682,9 +681,9 @@ Kennis
 | 1d.15  | De kandidaat kan de meeste gangbare begrippen uit rechtsbijstandverzekeringen aan de klant uitleggen, zoals borg, zekerheidsstelling en onvermogenheiddekking.  | B  |
 |  *RUBRIEK C ZORG- EN ONGEVALLEN*   | --- |
 |  *ONDERDEEL C1 ZORG*   | --- |
-| 1d.16  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie op een basis- of aanvullende zorgverzekering bestaat.  | B  |
+| 1d.16  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie op een zorgverzekering of aanvullende ziektekostenverzekering bestaat.  | B  |
 | 1d.17  | De kandidaat kan de verzekeringsmogelijkheden uitleggen met betrekking tot Nederlanders die wonen en werken in het buitenland en buitenlanders die wonen en werken in Nederland (expatriates, kenniswerkers, immigranten, asielzoekers).  | B  |
-| 1d.18  | De kandidaat kan uitleggen welke zaken of belangen van de klant onder de dekking van zorgverzekeringen kunnen worden geschaard, inclusief alle aanvullende dekkingen, zoals onverzekerbare zorg uit AWBZ, bepaalde verstrekkingen via de WMO, eenvoudige extracties door kaakchirurg alleen vergoeding indien kind tot 18 jaar etc.  | B  |
+| 1d.18  | De kandidaat kan uitleggen welke zaken of belangen van de klant onder de dekking van zorgverzekeringen en aanvullende ziektekostenverzekeringen kunnen worden geschaard.  | B  |
 |  *RUBRIEK C2 ONGEVALLENVERZEKERINGEN*   | --- |
 | 1d.19  | De kandidaat kan aangeven wat de gevolgen zijn als een verzekering voldoet aan de definitie van een persoonsverzekering.  | B  |
 | 1d.20  | De kandidaat kan het begrip ongeval volgens polisvoorwaarden definiëren en voorbeelden geven van ongevallen.  | K  |
@@ -694,7 +693,7 @@ Kennis
 | 1e.1  | De kandidaat kan het volledige acceptatieproces beschrijven, inclusief de mogelijkheden van voorlopige dekking.  | K  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL 1 ZORG*   | --- |
-| 1e.2  | De kandidaat kan de gevolgen van het politieke besluitvormingsproces voor de dekking en het eigen risico van het basispakket aangeven.  | B  |
+| 1e.2  | De kandidaat kan de gevolgen van het politieke besluitvormingsproces voor de dekking en het verplicht eigen risico van de zorgverzekering aangeven.  | B  |
 | 1e.3  | De kandidaat kan het volledige acceptatieproces en de polisdekking uitleggen.  | B  |
 |  *Eindterm 1f*   De persoon baseert zijn advies met betrekking tot  • materiële schadeverzekeringen voor particulieren  • vermogensbeschermende schadeverzekeringen voor particulieren; en  • zorg- en ongevallenverzekeringen voor particulieren  op grondige en actuele kennis van relevante wetgeving en jurisprudentie inzake schadeverzekeringen.  |
 |  *RUBRIEK A MATERIËLE BEZITSVERZEKERINGEN*   |
@@ -709,8 +708,8 @@ Kennis
 | 1f.6  | De kandidaat kan de relevante wetsartikelen uit het BW uitleggen.  | B  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERING*   |
 |  *ONDERDEEL C1 ZORG*   |
-| 1f.7  | De kandidaat kan op hoofdlijnen aangeven welke samenhang er is tussen de verzekering van zorgrisico’s van de klant, de Zorgverzekeringswet, de AWBZ, de WMO en de (aanvullende) zorgverzekeringen.  | B  |
-| 1f.8  | De kandidaat kan omschrijven wie de verzekerden zijn, welke (premiebetalings-)plichten zij hebben en welke dekking van de zorgrisico’s voortvloeit uit de Zorgverzekeringswet.  | K  |
+| 1f.7  | De kandidaat kan op hoofdlijnen aangeven welke samenhang er is tussen de verzekering van zorgrisico’s van de klant, bij de Zorgverzekeringswet, de AWBZ en de (aanvullende) ziektekostenverzekeringen.  | B  |
+| 1f.8  | De kandidaat kan omschrijven wie de verzekerden en de verzekeringsnemer zijn inclusief individuele verzekeringsplicht, welke (premiebetalings-)plichten zij hebben en welke dekking van de zorgrisico’s voortvloeit uit de Zorgverzekeringswet.  | K  |
 
 Vaardigheden 
 
@@ -727,9 +726,10 @@ Vaardigheden
 | 2e.8 Beoordelen of de nieuwwaarde- en dagwaarderegeling, verzekeraarshulpdienst, de schadeherstelregeling en overige dekkingen op de motorrijtuigverzekering van toepassing zijn.  | De kandidaat biedt transparantie voor de klant.  | Schadesturing door verzekeraars, verlaagd eigen risico, gratis vervangende auto voor duur van reparatie.  |
 | 2e.9 Op basis van voorbeelden uitleggen wat de voordelen en mogelijke gevolgen zijn van het verzekeren van meer risico’s op één polis.  | De klant kan de juiste beslissing nemen: combineren of juist afzonderlijk verzekeren.  De kandidaat kan beargumenteren waarom een risico juist op een afzonderlijke polis verzekerd moet worden.  | Dit is specifiek aan de orde bij bezits- en verkeersverzekeringen.  |
 | 2e.10 Het belang aantonen van aansprakelijkheidsverzekering (inclusief eventuele jagersdekking) en rechtsbijstandverzekering in de specifieke situatie van de klant.  | De voorbeelden en argumenten sluiten aan op achtergrond van de klant.  | Jagersrisico, let op naturadekking bij rechtsbijstand, conflicten- en geschillenregeling rechtsbijstand, inloop- en uitlooprisico, carenztijd, smeulende conflicten.  |
-| 2e.11 De polisdekking van de basis en aanvullende zorgverzekeringen toelichten.  | Geeft op basis van de door de klant verstrekte informatie een passend advies voor het verzekeren van een basis en aanvullend zorgverzekering.  Acceptatieplicht bij basispakket.  | Gezondheidswaarborgen, verplicht basispakket, marginale provisie voor distributiekanaal, collectieve markt, declaratiestromen, verplicht en vrijwillig eigen risico.  |
-| 2e.12 Berekenen wat de consequenties zijn van het niet verzekerd zijn en het niet betalen van de premie voor de Zvw  | De kandidaat rekent de premie en de extra premie correct uit, zodat direct inzichtelijk is wat de extra kosten zijn bij het niet betalen van de zorgverzekeringspremie.  | --- |
-| 2e.13 Beoordelen welke maatregelen het meest zinvol zijn om het welzijn en de gezondheid van de klant te bevorderen.  | De kandidaat hanteert de meest passende maatregelen om het welzijn en de gezondheid van de klant te bevorderen.  Grenzen kennen, geen vooroordelen en vooringenomenheid en correcte bejegening klant, privacy respecteren.  | Aan de hand van een gegeven overzicht met mogelijke maatregelen.  Oppassen met gezondheidswaarborgen bij oversluiten aanvullend pakket.  |
+| 2e.11 De polisdekking van de zorgverzekering en (aanvullende) ziektekostenverzekeringen toelichten.  | Geeft op basis van de door de klant verstrekte informatie een passend advies voor het verzekeren van een zorgverzekering- en/of (aanvullende) ziektekostenverzekering.  | Gezondheidswaarborgen, verplicht basispakket, marginale provisie voor distributiekanaal, collectieve markt, declaratiestromen, verplicht en vrijwillig eigen risico.  |
+| 2e.12 Berekenen wat de consequenties zijn van het niet verzekerd zijn en het niet betalen van de premie voor de Zorgverzekeringswet.  | De kandidaat rekent de premie en de extra premie correct uit, zodat direct inzichtelijk is wat de extra kosten zijn bij het niet betalen van de zorgverzekerings- en ziektekostenpremie.  | --- |
+| 2e.13 
+Vervallen.  | --- | --- |
 | 2e.14 Voor niet of moeilijk verzekerbare arbeidsongeschiktheidsrisico’s een passende oplossing adviseren in de vorm van een ongevallenverzekering.  | Klant baseert behoefte op advies inkomensadviseur. Kandidaat werkt goed samen met inkomensadviseur.  De oplossing is passend.  | Ingeval de klant onverzekerbaar is voor arbeidsongeschiktheidsrisico’s, de AOV te duur vindt, of een te zwaar medisch risico vormt.  In sommige gevallen is de klant doorverwezen door de inkomensadviseur.  |
 | 2e.15 Voorbeelden schetsen van risico’s die samenhangen met ongevalsgevolgen.  | De voorbeelden en argumenten sluiten aan op achtergrond van de klant.  | Sommenverzekering, meer dekkingsmogelijkheden, meer polissen die zelfde risico dekken, werking Gliedertax, gezondheidswaarborgen.  |
 | 2e.16 Bij een ongevallenverzekering de meest gangbare (dekkingsbeperkende) clausules en uitsluitingen toepassen alsmede fiscale gevolgen uitleggen.  | De kandidaat is alert op afwijkende risico’s.  De oplossing is passend en afgestemd op de situatie van de klant.  | Bijzonder beroep, extreme sporten, alcoholgebruik, opzet, bestaande gebreken, fiscale behandeling premie en uitkering.  |
@@ -778,7 +778,7 @@ Competenties
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
 |  *Eindterm 3d*   De persoon demonstreert en bewijst dat hij het beheertraject met betrekking tot particuliere schadeverzekeringen van diverse omvang en complexiteit zelfstandig, succesvol en correct kan uitvoeren.  |
-| 3d.1 Een verzekering beheren  | Gedurende de looptijd van de verzekering. Soms zal er in het pakket geen wijziging nodig zijn, andere keren wel.  Wijzigingen in risico’s in levensloop van de klant, wijzigingen in de objecten, geldigheid deskundigen-taxaties.  | Gebruik en blocbepaling door verzekeraar, premie aanpassing, eendimensionaal overstappen (alleen premie als ijkpunt).  De kandidaat voldoet aan de eisen m.b.t. zorgplicht in de Wft.  Kandidaat is proactief.  De kandidaat controleert de polis en eventuele overige bescheiden van een schadeverzekering of de gevolgen van een verandering van de situatie gedurende de looptijd, verandering van activiteiten of verandering van dekking juist verwerkt zijn.  De kandidaat gebruikt de juiste uitgangspunten en kan beoordelen of de gewijzigde gegevens in de polis en eventuele overige bescheiden van de verzekering juist zijn.  De klant heeft altijd de juiste dekking, betaalt de juiste premie en ontvangt bij schade een uitkering gebaseerd op de juiste gegevens.  De polis is (nog steeds) akkoord.  | Is de dekking in de specifieke situatie van klant juist?  Juiste inschatting van het belang van de verzekering voor klant.  Zijn er betere alternatieven voor klant?  Doet het voorstel recht aan de situatie van de klant?  Reflectie over de juiste manier van actueel houden van de verzekering.  Weegt de inspanning op tegen het belang van de wijziging?  |
+| 3d.1 Een verzekering beheren  | Gedurende de looptijd van de verzekering. Soms zal er in het pakket geen wijziging nodig zijn, andere keren wel.  Wijzigingen in risico’s in levensloop van de klant, wijzigingen in de objecten, geldigheid deskundigen-taxaties.  | Gebruik en blocbepaling door verzekeraar, premie aanpassing, eendimensionaal overstappen (alleen premie als ijkpunt).  De kandidaat voldoet aan de eisen m.b.t. zorgplicht.  Kandidaat is proactief.  De kandidaat controleert de polis en eventuele overige bescheiden van een schadeverzekering of de gevolgen van een verandering van de situatie gedurende de looptijd, verandering van activiteiten of verandering van dekking juist verwerkt zijn.  De kandidaat gebruikt de juiste uitgangspunten en kan beoordelen of de gewijzigde gegevens in de polis en eventuele overige bescheiden van de verzekering juist zijn.  De klant heeft altijd de juiste dekking, betaalt de juiste premie en ontvangt bij schade een uitkering gebaseerd op de juiste gegevens.  De polis is (nog steeds) akkoord.  | Is de dekking in de specifieke situatie van klant juist?  Juiste inschatting van het belang van de verzekering voor klant.  Zijn er betere alternatieven voor klant?  Doet het voorstel recht aan de situatie van de klant?  Reflectie over de juiste manier van actueel houden van de verzekering.  Weegt de inspanning op tegen het belang van de wijziging?  |
 | 3d.2 Een verzekering actueel houden.  | Veranderingen in situatie van klant kunnen tot een andere situatie leiden die andere eisen aan verzekering stelt.  Onbekendheid/onwetendheid bij klant.  Aanpassing wetgeving met directe gevolgen voor verzekering. Aanpassing als gevolg van een wijziging in de situatie van de klant.  | De kandidaat gebruikt de juiste uitgangspunten en kan beoordelen of de gewijzigde gegevens in de polis en eventuele overige bescheiden van de verzekering juist zijn.  De klant heeft altijd de juiste dekking, betaalt de juiste premie en ontvangt bij schade een uitkering gebaseerd op de juiste gegevens.  | Zijn de wijzigingen belangrijk genoeg om een aanpassing van de verzekering te rechtvaardigen?  Zou de klant zonder de doorgegeven wijziging niet goed verzekerd meer zijn?  |
 | 3d.3 Een verzekering aanpassen.  | Verandering van de situatie gedurende de looptijd, verandering van activiteiten of verandering van dekking.  | De kandidaat past de verzekering op de juiste manier aan, zodat deze aansluit op de nieuwe situatie.  De kandidaat kan voor de specifieke situatie van de klant motiveren of en wanneer het oversluiten of beëindigen van een schadeverzekering zinvol is.  Klant heeft de juiste verzekering tegen de juiste premie.  | Schetsen gevolgen van uitloop oude polis en inloop bij nieuwe polis.  Schetsen gevolgen van en-blocwijziging met beperking van de dekking.  Schetsen effecten van het doorvoeren van wijziging vanwege aangepaste wet- en regelgeving.  |
 | 3d.4 De klant informeren over de wijzigingen.  | Klantgesprek.  Voor een bestaande schadeverzekering.  | Klant krijgt tijdig en duidelijk te horen wat het gevolg van een wijziging voor zijn verzekering is.  De klant begrijpt het belang van een voorgestelde wijziging van de verzekering.  | Heb ik de gevolgen van verandering van de situatie gedurende de looptijd, verandering van activiteiten of verandering van dekking goed geschetst?  |
@@ -824,17 +824,18 @@ Kennis
 |  *ONDERDEEL B1 AANSPRAKELIJKHEID*   | --- |
 | 1h.25  | De kandidaat kan bij een vordering op een aansprakelijkheidsverzekering uitleggen welke (vorderingsgerechtigde) instanties een rol kunnen spelen bij de afwikkeling.  | B  |
 | 1h.26  | De kandidaat kan aan de verzekerde op een aansprakelijkheidsverzekering uitleggen welke mogelijke vorderingen een of meer benadeelden hebben op grond van het algemene aansprakelijkheid- en schadevergoedingsrecht.  | B  |
-| 1h.27  | De kandidaat kan aan de klant de gevolgen van onder- of oververzekering uitleggen bij aansprakelijkheidsverzekeringen.  | B  |
+| 1h.27  | De kandidaat kan aan de klant de gevolgen van samenloop uitleggen bij aansprakelijkheidsverzekeringen.  | B  |
 | 1h.28  | De kandidaat kan onderscheiden of er bij een eenvoudige vordering sprake is van persoonlijke, kwalitatieve of contractuele aansprakelijkheid van een van de verzekerden op een aansprakelijkheidsverzekering.  | B  |
 |  *ONDERDEEL B2 RECHTSBIJSTAND*   | --- |
 | 1h.29  | De kandidaat kan bij een verschil van inzicht of een conflictsituatie onder de rechtsbijstandverzekering aan de klant uitleggen op welke wijze de in het verzekeringsbedrijf meest gebruikelijke polisvoorwaarden dit regelen en wat diens mogelijkheden zijn, rekening houdend met de voorwaarden, en gedrags- en kwaliteitscodes.  | B  |
 | 1h.30  | De kandidaat kan uitleggen waarom een rechtsbijstandsverzekeraar in bepaalde gevallen geen rechtsbijstand verleent, maar de vordering rechtstreeks met de klant regelt.  | B  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL C1 ZORG*   | --- |
-| 1h.31  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de basis- of aanvullende zorgverzekering.  | B  |
-| 1h.32  | De kandidaat kan omschrijven in welke gevallen een verzekeraar bereid zal zijn de kosten van vaccinaties en andere preventieve behandelingen voor zijn rekening te nemen.  | B  |
-| 1h.33  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding op een Zorgverzekeringswet en basis- of aanvullende zorgverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | B  |
-| 1h.34  | De kandidaat kan voor een Zorgverzekeringswet- of aanvullende zorgverzekering uitleggen op welke wijze de afwikkeling van de zorgnota’s en -vergoedingen plaatsvindt.  | B  |
+| 1h.31  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de zorgverzekering of (aanvullende) ziektekostenverzekering.  | B  |
+| 1h.32  |  
+Vervallen.   | B  |
+| 1h.33  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding op een zorgverzekering of (aanvullende) ziektekostenverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdrage en eigen risico.  | B  |
+| 1h.34  | De kandidaat kan voor een zorgverzekering of (aanvullende) ziektekostenverzekering uitleggen op welke wijze de afwikkeling van de zorgnota’s en -vergoedingen plaatsvindt.  | B  |
 
 Vaaridigheden 
 
@@ -857,10 +858,10 @@ Competenties
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
 |  *Eindterm 3e*   De persoon demonstreert en bewijst dat hij het schadebehandelingstraject met betrekking tot particuliere schadeverzekeringen zelfstandig, succesvol en correct kan uitvoeren, ook in gevallen van belangentegenstellingen.  |
-| 3e.1 De klant begeleiden bij het schadeproces.  | Ingeval van schade.  Vaak is er geen ervaring en is het belang van de uitkering groot.  | • Klant is goed geïnformeerd, onder andere over hoe de schadebehandelings-procedure werkt en de mate van dekking.  • De kandidaat legt de mogelijke maatregelen uit ter beperking van de schade (bereddingsplicht volgens BW, water weg (laten) pompen, luchten en heaters plaatsen bij waterschade, reconditioneringsbedrijf inschakelen, inboedelrestanten elders opslaan, noodglas laten aanbrengen etc.).  • De juiste stukken zijn op het juiste moment bij de juiste mensen.  • Kandidaat ziet toe dat de juiste deskundigen op het juiste moment worden ingeschakeld. De klant weet welke mogelijkheden er voor hem zijn bij de schadebepaling.  • Klant krijgt het juiste inzicht in de wijze waarop wordt bepaald of er recht op een uitkering is.  • Kandidaat handelt op de juiste wijze als verzekeraar beroep doet op de kleine lettertjes, of op de sociale wetten voor bonus malus, subsidies e.d. of regresrecht.  • Kandidaat handelt op de juiste wijze in geval van niet meewerken.  | Begrijpt de klant de werkwijze?  Wordt de klant op een goede manier op de hoogte gehouden van de voortgang van het schadeproces?  Heeft klant het gevoel dat verzekeraar voldoende recht doet aan zijn situatie en dat ik aan zijn kant sta?  Betaalt klant niet te veel zelf?  Gedrags- en kwaliteitscodes geven raamwerk met mijlpalen in het proces.  Begrijpt klant de rol van de verschillende deskundigen?  Begrijpt klant de mogelijkheden om bij onenigheid over oordeel van een deskundige actie te ondernemen?  Wordt de uitkering tijdig en juist gedaan?  |
+| 3e.1 De klant begeleiden bij het schadeproces.  | Ingeval van schade. Vaak is er geen ervaring en is het belang van de uitkering groot.  | • Klant is goed geïnformeerd, onder andere over hoe de schadebehandelingsprocedure werkt en de mate van dekking.  • De kandidaat legt de mogelijke maatregelen uit ter beperking van de schade (bereddingsplicht volgens BW, water weg (laten) pompen, luchten en heaters plaatsen bij waterschade, reconditioneringsbedrijf inschakelen, inboedelrestanten elders opslaan, noodglas laten aanbrengen etc.).  • De juiste stukken zijn op het juiste moment bij de juiste mensen.  • Kandidaat ziet toe dat de juiste deskundigen op het juiste moment worden ingeschakeld. De klant weet welke mogelijkheden er voor hem zijn bij de schadebepaling.  • Klant krijgt het juiste inzicht in de wijze waarop wordt bepaald of er recht op een uitkering is.  • Kandidaat handelt op de juiste wijze als de verzekeraar beroep doet op de polisvoorwaarden of op wet- en regelgeving voor bonus malus, subsidies e.d. of regresrecht.  • Kandidaat handelt op de juiste wijze in geval van niet meewerken.  | Begrijpt de klant de werkwijze?  Wordt de klant op een goede manier op de hoogte gehouden van de voortgang van het schadeproces?  Heeft klant het gevoel dat verzekeraar voldoende recht doet aan zijn situatie en dat ik aan zijn kant sta?  Betaalt klant niet te veel zelf?  Gedrags- en kwaliteitscodes geven raamwerk met mijlpalen in het proces.  Begrijpt klant de rol van de verschillende deskundigen?  Begrijpt klant de mogelijkheden om bij onenigheid over oordeel van een deskundige actie te ondernemen?  Wordt de uitkering tijdig en juist gedaan?  |
 | 3e.2 Beoordelen of een schade onder de gesloten schadeverzekering valt.  | Ingeval van schade.  | • Kandidaat beoordeelt met behulp van de daarvoor benodigde gegevens op juiste wijze of:  – er dekking is voor een schade door aard en gebrek;  – of er sprake is van over- of onderverzekering;  – dekking of een dekkingsbeperking of uitsluiting van toepassing is;  – de schade (inclusief kosten) gedekt is;  – er sprake is van samenloop en wat de gevolgen daarvan zijn.  • De kandidaat bepaalt of de gegeven schade (inclusief kosten) gedekt is onder de schadeverzekering.  | Heb ik inzicht in het beleid van verzekeraars?  Onderken ik de Regresmogelijk-heden?  |
 | 3e.3 Beoordelen of een schade geclaimd kan worden onder de eigen polis en/of dat een verhaalsactie ingezet kan of moet worden.  | Ingeval van schade bij verkeersverzekeringen.  | • Kandidaat beoordeelt in geval van motorrijtuigenverzekeringen:  – of de klant als (on)gemotoriseerde weggebruiker aansprakelijk kan worden gesteld voor schade van een (on)gemotoriseerde medeweggebruiker;  – in hoeverre en hoe de klant zijn schade kan verhalen op de tegenpartij of het Waarborgfonds Motorverkeer;  – of er al dan niet sprake is van aansprakelijkheid van de klant of de tegenpartij op grond van artikel 185 WVW en/of het Burgerlijk Wetboek en/of de jurisprudentie.  • De kandidaat kan tegenover de verzekeraar verdedigen dat zijn klant in aanmerking komt voor toepassing van de regeling Schuldloze derde.  | Begrijpt de klant de werking van art. 185 WVW?  Ken ik de aansprakelijkheidsregeling krachtens het BW en de rol van het Waarborgfonds?  Ken ik de meest gebruikte bedrijfsregelingen met betrekking tot autoschades?  |
-| 3e.4 Op basis van een voorbeeld aantonen op welke wijze de vergoeding van een zorgverzekering is samen-gesteld.  | Eenvoudige schade op een Zorgverzekeringswet basis- of aanvullende zorgverzekering.  | • Aan de hand van alle benodigde gegevens.  • Houdt rekening met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | --- |
+| 3e.4 Op basis van een voorbeeld aantonen op welke wijze de vergoeding van een zorgverzekering is samengesteld.  | Eenvoudige schade op een zorgverzekering of (aanvullende) ziektekostenverzekering  | • Aan de hand van alle benodigde gegevens.  • Houdt rekening met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | --- |
 
 ### Bijlage  4  
 
@@ -887,8 +888,6 @@ Onder materiële schadeverzekeringen(rubriek A) worden de volgende zakelijke sch
 * Reis en annulering  
 
 * Machinebreuk  
-
-* Krediet  
 
 * Hagelschade en (brede)weer  
 
@@ -952,9 +951,9 @@ Onder materiële schadeverzekeringen(rubriek A) worden de volgende zakelijke sch
 
 * (Exploitatie-)kosten  
 
-* Krediet  
+* Reconstructie/extra kosten    
 
-* Reconstructie/extra kosten     Onder zorg- en ongevallenverzekeringen (rubriek C) dienen de volgende zakelijke schadeverzekeringen te worden verstaan: 
+4. Krediet   Onder zorg- en ongevallenverzekeringen (rubriek C) dienen de volgende zakelijke schadeverzekeringen te worden verstaan: 
 
 1. Zorg 
 
@@ -997,7 +996,7 @@ Vaardigheden
 |:---|:---|:---|
 |  *Eindterm 4a*   De persoon beschikt over het vermogen om de volgende dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken, alsmede de keuzes af te wegen en te verantwoorden:  • fraudesignalen onderkennen en daarop handelen;  • integer omgaan met de klantgegevens;  • doorverwijzen.  |
 | 4a.1 Fraudesignalen onderkennen en daarop handelen.  | De kandidaat geeft op adequate wijze opvolging aan een fraudesignaal.  | Bijvoorbeeld het dilemma van een financiële dienstverlener die bemiddelt en bemerkt dat de aanvraag niet strookt met de waarheid.  |
-| 4a.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om. Respecteert privacy en patiëntenrechten (o.m. WBGO, WMK, WBP).  | Waarborgt dat interne automatisering goed beveiligd en reproduceerbaar is in geval van calamiteiten. Borgt dat gebruikers systeem middels een rollen- en rechtensysteem alleen die gegevens kunnen raadplegen die passen bij de functie.  |
+| 4a.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om. Respecteert privacy en patiëntenrechten (o.m. WGBO, WMK, WBP).  | Waarborgt dat interne automatisering goed beveiligd en reproduceerbaar is in geval van calamiteiten. Borgt dat gebruikers systeem middels een rollen- en rechtensysteem alleen die gegevens kunnen raadplegen die passen bij de functie.  |
 | 4a.3 Doorverwijzen naar anderen.  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door collega’s of derden.  | --- |
 
 ### Taak  1  
@@ -1018,7 +1017,7 @@ Vaardigheden
 | Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
 |:---|:---|:---|
 |  *Eindterm 2b*   De persoon beschikt over het vermogen om de benodigde informatie met betrekking tot de inventarisatie te verzamelen.  |
-| 2b.1 Gegevens verzamelen.  | Kandidaat bevraagt de klant gestructureerd en onbevooroordeeld.  Alle relevante gegevens voor het klantprofiel worden verzameld. Als gegevens ontbreken of onduidelijk zijn, vraagt de kandidaat door.  Kandidaat controleert of hij de juiste persoon voor zich heeft en of de klant beschikkingsbevoegd en/of handelingsbekwaam is.  Kandidaat kan de klant begrijpelijk uitleggen waarom de gegevens nodig zijn.  | Kandidaat gaat integer met de klantgegevens om.  |
+| 2b.1 Gegevens verzamelen.  | Kandidaat bevraagt de klant gestructureerd en onbevooroordeeld.  Alle relevante gegevens voor het klantbeeld worden verzameld. Als gegevens ontbreken of onduidelijk zijn, vraagt de kandidaat door.  Kandidaat controleert of hij de juiste persoon voor zich heeft en of de klant beschikkingsbevoegd en/of handelingsbekwaam is.  Kandidaat kan de klant begrijpelijk uitleggen waarom de gegevens nodig zijn.  | Kandidaat gaat integer met de klantgegevens om.  |
 | 2b.2 De genomen preventiemaatregelen inventariseren.  | Kandidaat inventariseert alle genomen preventiemaatregelen.  De kandidaat legt, indien nodig, uit in welke omstandigheden preventieve maatregelen wenselijk, effectief of zelfs verplicht zijn.  De kandidaat overtuigt de klant van de voordelen van preventie.  | De klant begrijpt de omstandigheden of de preventiemaatregelen niet.  |
 | 2b.3 De gegevens controleren en in voeren.  | De kandidaat controleert de van de klant verkregen informatie op juistheid, volledigheid en tegenstrijdigheden.  De kandidaat gebruikt de juiste ICT toepassing en controleert zoveel mogelijk het systeemantwoord op bijzondere, opvallende en/of afwijkende uitkomsten.  De kandidaat heeft uiteindelijk goed inzicht in de gestelde wensen, eisen en prioriteiten en alle benodigde gegevens voor het geven van een juist en passend advies.  | --- |
 
@@ -1026,9 +1025,9 @@ Competenties
 
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
-|  *Eindterm 3a*   De persoon demonstreert en/of bewijst dat hij de gegevens voor het klantprofiel kan inventariseren en het klantprofiel correct kan opstellen.  |
-| 3a.1 Gegevens voor het klantprofiel inventariseren.  | Klantgesprek.  | De gegevens van de belangen, bezittingen en doelstellingen van de klant inventariseren.  De genomen preventiemaatregelen zijn goed geïnventariseerd.  Het schadeverleden van de klant is goed uitgewerkt, zodat een adequaat schadebeeld ontstaat.  De kandidaat vraagt door in bijzondere situaties en/of als klantgegevens onvolledig of mogelijk onjuist zijn, zodat hij/zij een passende dekking kan adviseren. Bijvoorbeeld voor niet-ingezetene of Nederlander die langdurig in buitenland woont en/of werkt.  In het geval van verkeersobjecten vraagt de kandidaat door naar de specifieke kenmerken.  Het aanvraagformulier is correct en naar waarheid ingevuld.  | Vermeldt de klant alle zaken of laat hij informatie achterwege uit vrees voor afwijkende voorwaarden of afwijzing?  Wat doe ik als de opgegeven situatie niet strookt met de waarheid?  Wat doe ik als de klant nonchalant of onwillig is?  Wat voor soort wagenpark heeft de klant? Oldtimers, snelle personenauto’s, taxi’s rouw/trouwvervoer, koeriers, vrachtwagens, bestelauto’s.  |
-| 3a.2 Het klantprofiel opstellen.  | --- | De kandidaat vraagt door als verschafte informatie tegenstrijdig of onvolledig is en de inventarisatie geen goed beeld oplevert.  Het klantprofiel is volledig (doelstelling, financiële positie, risicobereidheid, kennis) voorzover relevant voor het opstellen van een passend advies m.b.t. zakelijke schadeverzekeringen.  Klant kan zich herkennen in het klantprofiel.  | Levert de informatie een consistent beeld van het risico op?  Kan de uitkomsten van de inventarisatie verantwoorden.  |
+|  *Eindterm 3a*   De persoon demonstreert en/of bewijst dat hij de gegevens voor het klantbeeld kan inventariseren en het klantbeeld correct kan opstellen.  |
+| 3a.1 Gegevens voor het klantbeeld inventariseren.  | Klantgesprek.  | De gegevens van de belangen, bezittingen en doelstellingen van de klant inventariseren.  De genomen preventiemaatregelen zijn goed geïnventariseerd.  Het schadeverleden van de klant is goed uitgewerkt, zodat een adequaat schadebeeld ontstaat.  De kandidaat vraagt door in bijzondere situaties en/of als klantgegevens onvolledig of mogelijk onjuist zijn, zodat hij/zij een passende dekking kan adviseren. Bijvoorbeeld voor niet-ingezetene of Nederlander die langdurig in buitenland woont en/of werkt.  In het geval van verkeersobjecten vraagt de kandidaat door naar de specifieke kenmerken.  Het aanvraagformulier is correct en naar waarheid ingevuld.  | Vermeldt de klant alle zaken of laat hij informatie achterwege uit vrees voor afwijkende voorwaarden of afwijzing?  Wat doe ik als de opgegeven situatie niet strookt met de waarheid?  Wat doe ik als de klant nonchalant of onwillig is?  Wat voor soort wagenpark heeft de klant? Oldtimers, snelle personenauto’s, taxi’s rouw/trouwvervoer, koeriers, vrachtwagens, bestelauto’s.  |
+| 3a.2 Het klantbeeld opstellen.  | --- | De kandidaat vraagt door als verschafte informatie tegenstrijdig of onvolledig is en de inventarisatie geen goed beeld oplevert.  Het klantbeeld is volledig (doelstelling, financiële positie, risicobereidheid, kennis) voorzover relevant voor het opstellen van een passend advies m.b.t. zakelijke schadeverzekeringen.  Klant kan zich herkennen in het klantbeeld.  | Levert de informatie een consistent beeld van het risico op?  Kan de uitkomsten van de inventarisatie verantwoorden.  |
 
 ### Taak  2  
 
@@ -1066,10 +1065,10 @@ Kennis
 | 1c.19  | De kandidaat kan het principe van de claims-madepolis uitleggen aan de klant aan de hand van relevante voorbeelden.  | B  |
 |  *RUBRIEK C ZORG- & ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL C1 ZORG*   | --- |
-| 1c.20  | De kandidaat kan de namen noemen van de in het verzekeringsbedrijf gebruikelijke (verplichte) verzekeringsvormen die ziektekostenrisico’s (deels) afdekken.  | K  |
-| 1c.21  | De kandidaat kan kort het belang voor de klant van de (collectieve) aanvullende zorgverzekering benoemen.  | K  |
-| 1c.22  | De kandidaat kan in een specifieke situatie afwijkende risico’s en/of risicoverzwarende factoren voor de (aanvullende) zorgverzekering benoemen.  | K  |
-| 1c.23  | De kandidaat kan uitleggen wat het belang is van de eventuele gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico voor een aanvullende zorgverzekering.  | B  |
+| 1c.20  | De kandidaat kan de namen noemen van de in het verzekeringsbedrijf gebruikelijke (verplichte) zorgverzekeringen en (aanvullende) ziektekostenverzekeringen die ziektekostenrisico’s (deels) afdekken.  | K  |
+| 1c.21  | De kandidaat kan kort het belang voor de klant van de (collectieve) aanvullende ziektekostenverzekering benoemen.  | K  |
+| 1c.22  | De kandidaat kan in een specifieke situatie afwijkende risico’s en/of risicoverzwarende factoren voor de (aanvullende) ziektekostenverzekering benoemen.  | K  |
+| 1c.23  | De kandidaat kan uitleggen wat het belang is van de eventuele gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico voor een aanvullende ziektekostenverzekering.  | B  |
 |  *ONDERDEEL C2 ONGEVALLEN*   | --- |
 | 1c.24  | De kandidaat kan de (verhoogde) ongevallen risico’s binnen het bedrijf of binnen bepaalde werknemersgroepen benoemen.  | K  |
 |  *Eindterm 1d*   De persoon baseert de risicoanalyse met betrekking tot  • materiële schadeverzekeringen voor de zakelijke klant;  • vermogensbeschermende schadeverzekeringen voor de zakelijke klant;  • zorg- en ongevallenverzekeringen voor de zakelijke klant;  op kennis van een aantal bedrijfseconomische en organisatorische informatiebronnen (balansanalyse, analyse resultatenrekening).  |
@@ -1083,7 +1082,7 @@ Vaardigheden
 | 2c.1 Beoordelen welke risico’s moeten worden afgedekt door een verzekeringsoplossing.  | De analyse is volledig en uitputtend.  | Op basis van de risicobereidheid van de klant maakt de adviseur een keuze uit verschillende risicomitigerende oplossingen (volledig verzekeren, deels verzekeren met eigen risico, risico zelf dragen, risicoreductie door preventieve maatregelen.  |
 | 2c.2 Beoordelen welke zaken of belangen van de klant onder de dekking van materiële verzekeringen kunnen worden geschaard, inclusief alle aanvullende dekkingen.  | Juiste benoeming van de diverse (verzekerbare) belangen, zoals eigenaarsbelangen, huurdersbelang, belang derden, en vruchtgebruiker.  De kandidaat kan de mogelijke gevolgen schetsen van een afwijkend risico en/of risicoverzwarende factor voor het acceptatietraject.  | --- |
 | 2c.3 Het verzekerd belang bepalen waarbij gebruik wordt gemaakt van de informatie uit het jaarverslag, bestaande uit balans, resultatenrekening en toelichting.  | Kandidaat gebruikt de noodzakelijke gegevens uit de balans en de resultatenrekening.  Kandidaat vraagt door als gegevens niet compleet of onjuist zijn.  | Balansen kunnen complex zijn, meerdere vennootschappen omvatten, zijn al dan niet geconsolideerd.  |
-| 2c.4 Beoordelen welke risico’s moeten worden afgedekt door een (collectieve) zorg- en ongevallenverzekering, inclusief alle aanvullende dekkingen.  | De kandidaat benoemt de juiste risico’s.  De klant begrijpt op basis van uitleg kandidaat waarom een bepaalde verstrekking wel of juist niet onder de (aanvullende) zorgverzekering valt.  | O.m. onverzekerbare zorg uit AWBZ, bepaalde verstrekkingen via de WMO.  |
+| 2c.4 Beoordelen welke risico’s moeten worden afgedekt door een (collectieve) zorgverzekering, ziektekostenverzekering en ongevallenverzekering, inclusief alle aanvullende dekkingen.  | De kandidaat benoemt de juiste risico’s.  De klant begrijpt op basis van uitleg kandidaat waarom een bepaalde verstrekking wel of juist niet onder de zorgverzekering, (aanvullende) ziektekostenverzekering of ongevallenverzekering valt.  | --- |
 | 2c.5 Beoordelen welke zaken of belangen van de klant onder de dekking van aansprakelijkheid- en rechtsbijstandverzekeringen kunnen worden geschaard, inclusief alle subdekkingen.  | De kandidaat kan onderscheid maken in risico’s die betrekking hebben op zaken of belangen die kunnen worden afgedekt door een aansprakelijkheid- of rechtsbijstandverzekering.  | --- |
 | 2c.6 Beoordelen welke vervoercondities van toepassing zijn en in hoeverre de vervoerder aansprakelijk is.  | De kandidaat bepaalt van in- en uitgaande goederenstromen op correcte wijze voor wiens rekening en risico de goederen vervoerd worden en welke vervoerscondities van toepassing zijn.  | Mogelijke vervoerscondities: verpakkingswijze, middelen van vervoer, geconditioneerd vervoer, maximum per gelegenheid, vervoersomzet, retourzendingen.  |
 | 2c.7 Beoordelen welke zaken of belangen van de klant onder de dekking van bedrijfsschadeverzekeringen kunnen worden geschaard, inclusief alle aanvullende dekkingen.  | De kandidaat benoemt de juiste risico’s.  De klant begrijpt op basis van uitleg kandidaat waarom een bepaalde verstrekking wel of juist niet onder de (aanvullende) bedrijfsschadeverzekering valt.  | Bedrijfsschadeverzekering (en) noodzakelijk voor de continuïteit van het bedrijf.  |
@@ -1096,7 +1095,7 @@ Competenties
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
 |  *Eindterm 3b*   De persoon demonstreert en/of bewijst dat hij het analyse traject met betrekking tot zakelijke schadeverzekeringen correct kan uitvoeren.  |
-| 3b.1.3 Risicoanalyse opstellen.  | Op basis van de volledige inventarisatie.  | Risicoanalyse is correct.  De risicoanalyse doet recht aan de uitgangspunten en doelstellingen van de klant, en de klant herkent zich erin.  | Begrijpt klant de analyse?  Herkent klant de analyse?  Hoe word je daarvan overtuigd?  |
+| 3b.1 Risicoanalyse opstellen.  | Op basis van de volledige inventarisatie.  | Risicoanalyse is correct.  De risicoanalyse doet recht aan de uitgangspunten en doelstellingen van de klant, en de klant herkent zich erin.  | Begrijpt klant de analyse?  Herkent klant de analyse?  Hoe word je daarvan overtuigd?  |
 
 ### Taak  3  
 
@@ -1141,7 +1140,7 @@ Kennis
 | 1e.25  | De kandidaat kan opsommen welke factoren van belang zijn bij het sluiten van een brandbedrijfsschade- en extra-kostenverzekering.  | K  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL C 1 ZORG*   |  *K*   |
-| 1e.26  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie op een (collectieve) basis- of aanvullende zorgverzekering bestaat.  | B  |
+| 1e.26  | De kandidaat kan aan de klant uitleggen uit welke standaardcomponenten de premie op een (collectieve) zorgverzekering of (aanvullende) ziektekostenverzekering bestaat.  | B  |
 | 1e.27  | De kandidaat kan de collectieve verzekeringsmogelijkheden uitleggen van werknemers die wonen en werken in het buitenland en van buitenlandse werknemers die wonen en werken in Nederland (expatriates, kenniswerkers, woonland, werkland).  | B  |
 |  *ONDERDEEL C2 ONGEVALLEN*   | --- |
 | 1e.28  | De kandidaat kan opnoemen welk maximum te verzekeren bedrag ongevallenverzekeraars in de regel hanteren.  | K  |
@@ -1150,7 +1149,7 @@ Kennis
 | 1f.1  | De kandidaat kan het volledige acceptatieproces beschrijven inclusief de mogelijkheden van voorlopige dekking.  | K  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL C1 ZORG*   | --- |
-| 1f.2  | De kandidaat kan de gevolgen van het politieke besluitvormingsproces voor de dekking en het eigen risico van het basispakket aangeven.  | B  |
+| 1f.2  | De kandidaat kan de gevolgen van het politieke besluitvormingsproces voor de dekking en het verplicht eigen risico van de zorgverzekering aangeven.  | B  |
 | 1f.3  | De kandidaat kan het volledige acceptatieproces en de polisdekking uitleggen.  | B  |
 |  *Eindterm 1g*   De persoon baseert zijn advies met betrekking tot  • materiële schadeverzekeringen voor de zakelijke klant;  • vermogensbeschermende schadeverzekeringen voor de zakelijke klant;  • zorg- en ongevallenverzekeringen voor de zakelijke klant;  op grondige en actuele kennis van relevante wetgeving en jurisprudentie inzake zakelijke schadeverzekeringen.  |
 |  *CATEGORIE A MATERIËLE BEZITSVERZEKERINGEN*   |
@@ -1160,11 +1159,13 @@ Kennis
 |  *CATEGORIE B VERMOGENSBESCHERMENDE SCHADEVERZEKERINGEN*   |
 |  *ONDERDEEL B1 AANSPRAKELIJKHEID*   |
 | 1g.3  | De kandidaat kan de relevante wetsartikelen in het BW uitleggen.  | B  |
-| 1g.4  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de basis- of de aanvullende zorgverzekering.  | B  |
+| 1g.4  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de zorgverzekering of (aanvullende) ziektekostenverzekering.  | B  |
 |  *CATEGORIE C ZORG- EN ONGEVALLEN*   |
 |  *ONDERDEEL C1 ZORG*   |
-| 1g.4  | De kandidaat kan op hoofdlijnen voor de verzekering van de zorgrisico’s van de klant aangeven welke samenhang er is tussen de Zorgverzekeringswet, AWBZ, WMO en (aanvullende) zorgverzekeringen.  | B  |
-| 1g.5  | De kandidaat kan omschrijven wie verzekerden zijn, welke (premiebetalings-)plichten zij hebben en welke dekking van de zorgrisico’s voortvloeit uit de Zorgverzekeringswet.  | K  |
+| 1g.4  |  
+Vervallen.   | --- |
+| 1g.5  | De kandidaat kan op hoofdlijnen voor de verzekering van de zorgrisico’s van de klant aangeven welke samenhang er is tussen de Zorgverzekeringswet, AWBZ en (aanvullende) ziektekostenverzekeringen.  | B  |
+| 1g.6  | De kandidaat kan omschrijven wie verzekerden en verzekeringsnemer zijn inclusief individuele verzekeringsplicht, welke (premiebetalings-)plichten zij hebben en welke dekking van de zorgrisico’s voortvloeit uit de Zorgverzekeringswet.  | K  |
 
 Vaardigheden 
 
@@ -1181,8 +1182,8 @@ Vaardigheden
 | 2e.8 Beoordelen of de nieuwwaarde- en dagwaarderegeling, verzekeraarshulpdienst, de schadeherstelregeling en overige dekkingen op de motorrijtuigverzekering van toepassing zijn.  | De kandidaat kan transparantie bieden voor de klant.  | Schadesturing door verzekeraars, verlaagd eigen risico, gratis vervangende auto voor duur reparatie.  |
 | 2e.9 Op basis van voorbeelden uitleggen wat de voordelen en mogelijke gevolgen zijn van het verzekeren van meer risico’s op één polis.  | De klant kan de juiste beslissing nemen: combineren of juist afzonderlijk verzekeren.  De kandidaat kan beargumenteren waarom een risico juist op een afzonderlijke polis verzekerd moet worden.  | --- |
 | 2e.10 Het belang aantonen van aansprakelijkheidsverzekering en rechtsbijstandverzekering in de specifieke situatie van de klant.  | De voorbeelden en argumenten sluiten aan op achtergrond van de klant.  | Let op naturadekking bij rechtsbijstand, conflicten- en geschillenregeling rechtsbijstand, inloop- en uitlooprisico, carenztijd, smeulende conflicten.  |
-| 2e.11 De polisdekking van de (collectieve) basis en aanvullende zorgverzekeringen toelichten.  | Geeft op basis van de door de klant verstrekte informatie een passend advies voor het verzekeren van een basis en aanvullend zorgverzekering.  Acceptatieplicht bij basispakket.  | Gezondheidswaarborgen, verplicht basispakket, marginale provisie voor distributiekanaal, collectieve markt, declaratiestromen, verplicht en vrijwillig eigen risico.  |
-| 2e.12 Beoordelen welke maatregelen het meest zinvol zijn om het welzijn en de gezondheid van de medewerkers te bevorderen.  | De kandidaat kan op basis van een zorgkosten- analyse verzuim- en ongevalgegevens passende beheersingsmaatregelen te beoordelen voor te stellen  | Aan de hand van een gegeven overzicht met mogelijke maatregelen.  Oppassen met gezondheidswaarborgen bij oversluiten aanvullend pakket.  Grenzen kennen, geen vooroordelen en vooringenomenheid en correcte bejegening klant, privacy respecteren.  |
+| 2e.11 De polisdekking van de (collectieve) zorgverzekering en (aanvullende) ziektekostenverzekering toelichten.  | Geeft op basis van de door de klant verstrekte informatie een passend advies voor het verzekeren van een zorgverzekering en (aanvullende) ziektekostenverzekering.  | Gezondheidswaarborgen, verplicht basispakket, marginale provisie voor distributiekanaal, collectieve markt, declaratiestromen, verplicht en vrijwillig eigen risico.  |
+| 2e.12 Beoordelen welke maatregelen het meest zinvol zijn om het welzijn en de gezondheid van de medewerkers te bevorderen.  | De kandidaat kan op basis van een zorgkosten- analyse verzuim- en ongevalgegevens passende beheersingsmaatregelen voorstellen.  | Aan de hand van een gegeven overzicht met mogelijke maatregelen.  Oppassen met gezondheidswaarborgen bij oversluiten aanvullend pakket.  Grenzen kennen, geen vooroordelen en vooringenomenheid en correcte bejegening klant, privacy respecteren.  |
 | 2e.13 Voor niet of moeilijk verzekerbare arbeidsongeschiktheids-risico’s een passende oplossing adviseren in de vorm van een ongevallenverzekering.  | Klant baseert behoefte op advies Inkomensadviseur. Kandidaat werkt goed samen met inkomensadviseur.  De oplossing is passend.  | Ingeval de klant onverzekerbaar is voor arbeidsongeschiktheidsrisico’s, de klant vindt de AOV te duur of de klant vormt een te zwaar medisch risico.  In sommige gevallen is de klant doorverwezen door de inkomensadviseur.  Toelichting: termijnen voor vrijwillige voorzetting UWV en de Vangnet AOV zijn verlopen in combinatie met slechte gezondheid  |
 | 2e.14 Voorbeelden schetsen van risico’s die samenhangen met ongevalsgevolgen.  | De voorbeelden en argumenten sluiten aan op achtergrond van de klant.  | Sommenverzekering, meer dekkingsmogelijkheden, meerpolissen die hetzelfde risico dekken, werking Gliedertax, gezondheidswaarborgen  |
 | 2e.15 Bij een ongevallenverzekering de meest gangbare (dekkingsbeperkende) clausules en uitsluitingen toepassen alsmede de fiscale gevolgen uitleggen.  | De kandidaat is alert op afwijkende risico’s  De oplossing is passend en afgestemd op de situatie van de klant.  | Bijzonder beroep, extreme sporten, alcoholgebruik, opzet, bestaande gebreken, fiscale behandeling premie en uitkering.  |
@@ -1286,10 +1287,10 @@ Kennis
 | 1i.26  | De kandidaat kan uitleggen welke kosten een verzekeraar naast de schade voor zijn rekening bij bedrijfsschade neemt en in welke gevallen tot welk bedrag.  | B  |
 |  *CATEGORIE C ZORG- EN ONGEVALLENVERZEKERINGEN*   | --- |
 |  *ONDERDEEL C1 ZORG*   | --- |
-| 1i.27  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de basis- of aanvullende zorgverzekering.  | B  |
+| 1i.27  | De kandidaat kan uitleggen op welke wijze de reisverzekering aansluit op de zorgverzekering of (aanvullende) ziektekostenverzekering.  | B  |
 | 1i.28  | De kandidaat kan omschrijven in welke gevallen een verzekeraar bereid zal zijn de kosten van vaccinaties en andere preventieve behandelingen voor zijn rekening te nemen.  | B  |
-| 1i.29  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding onder een Zorgverzekeringswet en basis- of aanvullende zorgverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | B  |
-| 1i.30  | De kandidaat kan voor een Zvw- of aanvullende zorgverzekering uitleggen op welke wijze de afwikkeling van zorgnota’s en -vergoedingen plaatsvindt.  | B  |
+| 1i.29  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding onder een zorgverzekering of (aanvullende) ziektekostenverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | B  |
+| 1i.30  | De kandidaat kan voor een zorgverzekering of (aanvullende) ziektekostenverzekering uitleggen op welke wijze de afwikkeling van zorgnota’s en -vergoedingen plaatsvindt.  | B  |
 
 Vaardigheden 
 
@@ -1311,7 +1312,7 @@ Competenties
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
 |  *Eindterm 3e*   De persoon demonstreert en/of bewijst dat hij het schadebehandelingstraject met betrekking tot zakelijke schadeverzekeringen zelfstandig, succesvol en correct uit kan voeren, ook in gevallen van belangentegenstellingen.  |
-| 3e.1 De klant begeleiden bij het schadeproces.  | Ingeval van schade.  Vaak is er geen ervaring en is het belang van de uitkering groot.  | Klant is goed geïnformeerd, onder andere over hoe de schadebehandelings-procedure werkt en de mate van dekking.  De kandidaat legt de mogelijke maatregelen uit ter beperking van de schade (Bereddingsplicht volgens BW, water weg (laten) pompen, luchten en heaters plaatsen bij waterschade, reconditioneringsbedrijf inschakelen, inboedelrestanten elders opslaan, noodglas laten aanbrengen etc.).  De juiste stukken zijn op het juiste moment bij de juiste mensen.  Kandidaat ziet toe dat de juiste deskundigen op het juiste moment worden ingeschakeld. De klant weet welke mogelijkheden er voor hem zijn bij de schadebepaling.  Klant krijgt het juiste inzicht in de wijze waarop wordt bepaald of er recht op een uitkering is.  Kandidaat handelt op de juiste wijze als verzekeraar beroep doet op de kleine lettertjes, of op de sociale wetten voor no-claimpolis, subsidies e.d. of regresrecht.  Kandidaat handelt op de juiste wijze in geval van niet meewerken.  | Begrijpt de klant de werkwijze?  Houd ik de klant op een goede manier op de hoogte gehouden van de voortgang van het schadeproces?  Heeft klant het gevoel dat verzekeraar voldoende recht doet aan zijn situatie en dat ik aan zijn kant sta?  Betaalt klant niet te veel zelf?  Gedrags- en kwaliteitscodes geven raamwerk met mijlpalen in het proces.  Begrijpt klant de rol van de verschillende deskundigen?  Begrijpt klant de mogelijkheden om bij onenigheid over oordeel van een deskundige actie te ondernemen?  Wordt de uitkering tijdig en juist gedaan?  |
+| 3e.1 De klant begeleiden bij het schadeproces.  | Ingeval van schade.  Vaak is er geen ervaring en is het belang van de uitkering groot.  | Klant is goed geïnformeerd, onder andere over hoe de schadebehandelingsprocedure werkt en de mate van dekking.  De kandidaat legt de mogelijke maatregelen uit ter beperking van de schade (bereddingsplicht volgens BW, water weg (laten) pompen, luchten en heaters plaatsen bij waterschade, reconditioneringsbedrijf inschakelen, inboedelrestanten elders opslaan, noodglas laten aanbrengen etc.).  De juiste stukken zijn op het juiste moment bij de juiste mensen.  Kandidaat ziet toe dat de juiste deskundigen op het juiste moment worden ingeschakeld. De klant weet welke mogelijkheden er voor hem zijn bij de schadebepaling.  Klant krijgt het juiste inzicht in de wijze waarop wordt bepaald of er recht op een uitkering is.  Kandidaat handelt op de juiste wijze als verzekeraar beroep doet op de polisvoorwaarden of op wet- en regelgeving voor no-claimpolis, subsidies e.d. of regresrecht.  Kandidaat handelt op de juiste wijze in geval van niet meewerken.  | Begrijpt de klant de werkwijze?  Houd ik de klant op een goede manier op de hoogte gehouden van de voortgang van het schadeproces?  Heeft klant het gevoel dat verzekeraar voldoende recht doet aan zijn situatie en dat ik aan zijn kant sta?  Betaalt klant niet te veel zelf?  Gedrags- en kwaliteitscodes geven raamwerk met mijlpalen in het proces.  Begrijpt klant de rol van de verschillende deskundigen?  Begrijpt klant de mogelijkheden om bij onenigheid over oordeel van een deskundige actie te ondernemen?  Wordt de uitkering tijdig en juist gedaan?  |
 | 3e.2 Een schade beoordelen op de afgesloten verzekering-(en).  | Ingeval van schade.  | Kandidaat beoordeelt met behulp van de daarvoor benodigde gegevens op juiste wijze of  • er dekking is voor een schade door eigen gebrek.  • of er sprake is van over- of onderverzekering.  • dekking of een dekkingsbeperking of uitsluiting van toepassing is.  • de schade (inclusief kosten) gedekt is.  • er sprake is van samenloop en wat de gevolgen daarvan zijn  De kandidaat bepaalt of de gegeven schade (inclusief kosten) gedekt is op de schadeverzekering.  | Heb ik inzicht in het beleid van verzekeraars?  Onderken ik de Regresmogelijkheden?  Onderken ik het effect van bestaande ziektes?  Herken ik het in- en uitlooprisico.  Ken ik de uitsluitingen in het acceptatieproces en kan ik een heldere koppeling maken met het acceptatieproces?  |
 | 3e.3 Van een schade beoordelen of de schade op de afgesloten motorrijtuigenverzekeringen geclaimd kan of moet worden en of verhaal op derden mogelijk is.  | Ingeval van schade bij verkeers-verzekeringen.  | Kandidaat beoordeelt in geval van motorrijtuigenverzekeringen:  • of de klant als (on)gemotoriseerde weggebruiker aansprakelijk kan worden gesteld voor schade van een (on)gemotoriseerde medeweggebruiker.  • in hoeverre en hoe de klant zijn schade kan verhalen op de tegenpartij of het Waarborgfonds Motorverkeer.  • of er al dan niet sprake is van aansprakelijkheid van de klant of de tegenpartij op grond van artikel 185 WVW en/of het Burgerlijk Wetboek en/of de jurisprudentie.  De kandidaat kan tegenover de verzekeraar verdedigen dat zijn klant in aanmerking komt voor toepassing van de regeling Schuldloze derde.  | Begrijpt de klant de werking van art. 185 WVW?  Ken ik de aansprakelijkheidsregeling krachtens het BW en de rol van het Waarborgfonds.  Ken ik de meest gebruikte bedrijfsregelingen met betrekking tot autoschades?  |
 
@@ -1609,7 +1610,7 @@ Kennis
 | 1p.4  | De kandidaat kan de situaties benoemen waarin hij zijn klant moet vragen naar de veranderingen die van invloed zijn op het profiel.  | K  |
 | 1p.5  | De kandidaat kan uitleggen wat het effect is van een wijziging in het profiel van de klant op het risicoprofiel van de klant.  | B  |
 | 1p.6  | De kandidaat kan uitleggen wat de klant moet doen wanneer er sprake is van een wijziging in zijn financiële situatie.  | B  |
-| 1p.7  | De kandidaat kan de provisie- en vergoedingsregels uitleggen aan de klant.  | B  |
+| 1p.7  | De kandidaat kan de provisie- en vergoedingsregels en de fiscale gevolgen daarvan uitleggen aan de klant.  | B  |
 
 Vaardigheden 
 
@@ -1678,7 +1679,7 @@ Vaardigheden
 |:---|:---|:---|
 |  *Eindterm 4b*   De persoon beschikt over het vermogen om de volgende dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken, alsmede de keuzes af te wegen en te verantwoorden:  • fraudesignalen onderkennen en daarop handelen;  • integer omgaan met de klantgegevens;  • doorverwijzen;  • verschillende belangen in kaart brengen.  |
 | 4b.1 Fraudesignalen onderkennen en daarop handelen.  | Beoordeelt documenten op echtheid.  De kandidaat kan de acties omschrijven die vereist zijn bij het constateren van fraude. Geeft op adequate wijze opvolging aan een fraudesignaal.  | Bijvoorbeeld het dilemma van een financiële dienstverlener die bemiddelt en bemerkt dat de aanvraag niet strookt met de waarheid.  |
-| 4b.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om. Respecteert privacy en patiëntenrechten (o.m. WBGO, WMK, WBP).  | --- |
+| 4b.2 Integer omgaan met de klantgegevens.  | De kandidaat gaat integer met de klantgegevens om. Respecteert privacy en patiëntenrechten (o.m. WGBO, WMK, WBP).  | --- |
 | 4b.3 Doorverwijzen naar anderen.  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen, en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door collega’s of derden.  | --- |
 | 4b.4 Eventuele dilemma’s op het gebied van integer handelen signaleren.  | Benoemt welke belangen van welke partijen betrokken zijn bij die dilemma’s.  Benoemt hoe wordt omgegaan met een gerezen dilemma.  | Bijvoorbeeld:  Inlooprisico bij WGA eigen risicodragen. De premielasten bij aanvang kunnen hoger zijn van via de verzekering bij UWV, op termijn lager.  Het premieverschil tussen UWV en privaat verzekeren, is gering, de re-integratieuitvoering en langetermijnrisico’s zijn heel verschillend.  De klant wil zijn risico op arbeidsongeschiktheid alleen verzekeren op basis van een vooraf vastgesteld budget.  Advisering van een onderneming waarvan de directie en OR verdeeld zijn over te kiezen inkomensverzekering.  |
 | 4b.5 Verschillende belangen in kaart brengen  | De kandidaat brengt de belangen van de klant en de financiële instellingen bij de te maken keuzes duidelijk in kaart.  De kandidaat kan het belang en de positie van bijvoorbeeld klant en aanbieder onderscheiden en analyseert de mogelijke dilemma’s die kunnen ontstaan.  De kandidaat kan ook met de verschillende actoren over de dilemma’s mondeling en schriftelijk communiceren.  De kandidaat houdt rekening met de belangen van de klant.  | Bij het ontwerp van het inkomensadvies.  |
@@ -1742,7 +1743,7 @@ Competenties
 |:---|:---|:---|:---|
 |  *Eindterm 3b*   De persoon demonstreert en/of bewijst dat hij voor de drie doelgroepen:  • de werkgever en diens werknemers;  • de ondernemer;  • de particulier;  het analysetraject met betrekking tot (collectieve) inkomensverzekeringen correct uit kan voeren.  |
 | 3b.1 De benodigde gegevens analyseren, rekening houdend met de behoeften en doelstellingen van de klant.  | Bij diverse ondernemingen in diverse sectoren met diverse partijen.  | Analyseert doelstellingen, kennis en ervaring van de klant met betrekking tot het financiële risico van ziekte, arbeidsongeschiktheid en werkloosheid.  Het advies kan op basis van consistente, goed onderbouwde en verifieerbare informatie uit betrouwbare bronnen opgesteld worden.  Gebruikt de juiste bronnen, zoals IB-aangiftes, enkelvoudige en geconsolideerde jaarrekeningen, V&W-rekening, begroting, balans, eigen vermogen en privévermogen.  Selecteert de juiste cijfermatige informatie, brengt zonodig ordening aan in de gegevens.  Handelt juist in geval van onvolledige of onjuiste informatie, zoals geen verzuimoverzicht, WGA-beschikking, of accountantsverklaring inkomen, als geen gegevens bekend zijn van de van toepassing zijnde CAO of pensioenregeling waarin staat welke verplichtingen de werkgever richting de werknemer heeft. Of als informatie lastig te verkrijgen is.  Schakelt in complexere gevallen een expert in.  Stuurt niet te vroeg naar standaardoplossing, vraagt zo nodig door.  | Reflecteert op manier waarop informatie wordt verkregen.  Heb ik begrip gekregen van de klant?  Kan en mag ik dit doen, moet ik iemand anders inschakelen?  Begrijpt de klant mij goed, moet ik nog onderwerpen toelichten?  Kan ik uitleggen binnen welke context de verzekering moet worden geplaatst en wat de invloed van de context op de verzekering is?  Bij knelpunten: wat is mijn eigen rol en het belang van partijen?  Hoe heb ik mij ervan overtuigd dat de klant de juiste risicoperceptie heeft van zijn situatie?  |
-| 3b2 De gegevens interpreteren en verwerken.  | --- | Is alert op tegenstrijdigheden.  De inventarisatie levert een goed beeld op.  Vraagt door als gegevens incompleet zijn, of geeft aan dat inventarisatie niet compleet is.  | Trek ik de juiste conclusie uit de informatie?  Levert de informatie een consistent beeld van het risico op?  |
+| 3b.2 De gegevens interpreteren en verwerken.  | --- | Is alert op tegenstrijdigheden.  De inventarisatie levert een goed beeld op.  Vraagt door als gegevens incompleet zijn, of geeft aan dat inventarisatie niet compleet is.  | Trek ik de juiste conclusie uit de informatie?  Levert de informatie een consistent beeld van het risico op?  |
 | 3b.3 Risicoanalyse opstellen.  | Zoals wisselend personeelsbestand, variabel inkomen, groei of krimp, werknemer wisselt van werkgever of krijgt nieuwe hypotheek. Kan de particulier geregelde inkomensverzekering worden aangepast?  | De risicoanalyse is correct en doet recht aan de situatie van de klant. De klant herkent zich in de analyse.  De kandidaat raakt niet van slag als er te veel veranderingen en onzekerheden zijn.  De kandidaat maakt bespreekbaar of de gesloten inkomensverzekeringen en/of bedrijfsmatig gesloten aansprakelijkheidsverzekering voldoen aan het adequaat afdekken van deze financiële risico’s.  | Hoe ben ik ervan overtuigd dat de klant de analyse begrijpt en herkent?  |
 | 3b.4 De belangen van de verschillende actoren in kaart brengen.  | Bij actoren valt te denken aan: aanbieders, adviseurs, bemiddelaars, diverse types werkgevers, diverse type werknemers.  | Kan uitleggen welke belangen de verschillende actoren hebben, kan tegengestelde belangen benoemen en aangeven hoe beide belangen het best gediend zijn.  Analyseert de mogelijke dilemma’s die kunnen ontstaan, omdat er sprake kan zijn van tegengestelde belangen van de actoren.  Weegt de belangen van de verschillende actoren af bij de te maken keuzes tijdens de totstandkoming van het advies.  Kan gemaakte keuzes verantwoorden.  Communiceert deze dilemma’s zowel mondeling als schriftelijk met de verschillende actoren.  | --- |
 | 3b.5 Belanghebbenden informeren.  | Verzekeringnemer en verzekerde.  | Informeert de verschillende belanghebbenden bij de inkomensverzekering inhoudelijk juist en op een correcte wijze.  Neemt zo nodig weerstanden weg die bestaan op grond van vooroordelen, onderschatting en onbekendheid van de materie.  Hanteert emoties empatisch en strategisch.  | --- |
@@ -1976,7 +1977,7 @@ Vaardigheden
 | 2a.1 Gestructureerd interviewen.  | De kandidaat werkt gestructureerd en is onbevooroordeeld. Interviewtechniek en vraagpunten van het onderzoek zijn goed uitgewerkt en worden goed uitgevoerd. De kandidaat stelt juiste en relevante vragen. De interviewtechniek is gebaseerd op de onderdelen: luisteren, doorvragen, confronteren en inleven in de klant. Kandidaat leeft zich in.  | Het niveau van kennis en begrip van gesprekspartner varieert.  Kandidaat interviewt klant in verschillende levensfasen en met betrekking tot verschillende gebeurtenissen.  |
 | 2a.2 Mondeling communiceren.  | De relevante informatie en de persoonlijke toelichting zijn correct, duidelijk en niet-misleidend, en afgestemd op het begripsniveau van de klant.  | Het niveau van kennis en begrip van gesprekspartner varieert.  |
 | 2a.3 De documenten uitleggen.  | De relevante informatie is correct, duidelijk en niet-misleidend, en afgestemd op het begripsniveau van de klant.  | Bijvoorbeeld het dienstverleningsdocument, de opdrachtbevestiging, de algemene voorwaarden, de incassomachtiging, de betalingsopdracht en de aanvraagformulieren.  |
-| 2a.4 Schriftelijk communiceren opstellen.  | De relevante informatie is correct, duidelijk en niet-misleidend, en afgestemd op het begripsniveau van de klant.  | --- |
+| 2a.4 Schriftelijk communiceren.  | De relevante informatie is correct, duidelijk en niet-misleidend, en afgestemd op het begripsniveau van de klant.  | --- |
 | 2a.5 Formulieren en offertes invullen, aanvragen en controleren.  | De kandidaat werkt gestructureerd en is alert op fouten.  | Betreft alleen formulieren en offertes die samenhangen met het hypotheekadvies.  |
 |  *Eindterm 2b*   De persoon beschikt over het vermogen om ICT-toepassingen te gebruiken.  |
 | 2b.1 Vragenlijsten en ICT-toepassingen, waaronder rekenmodellen toepassen.  | De kandidaat voert de gegevens die hij van de klant heeft gekregen op de juiste manier in.  De kandidaat gebruikt de juiste ICT-toepassing en controleert zoveel mogelijk het systeemantwoord op bijzondere, opvallende en/of afwijkende uitkomsten. Is alert op invoerfouten en onlogische uitkomsten.  | ICT-programma’s die ondersteunen bij de verwerking van gegevens om te komen tot een passend advies.  Het kunnen herkennen van foute, onjuiste uitkomsten, zodat niet per definitie het systeemantwoord in alle gevallen leidend is. Zelf nadenken blijft ook ingeval van een ICT-toepassing een verantwoordelijkheid van de kandidaat.  |
@@ -2085,7 +2086,7 @@ Competenties
 | Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
 |:---|:---|:---|:---|
 |  *Eindterm 3c*   De persoon demonstreert en/of bewijst dat hij de klant kan adviseren met betrekking tot de financiering van de objecten door middel van een hypotheekconstructie of op ander wijze, en het bemiddelingstraject tot stand kan laten komen.  |
-| c.1 Een passende hypotheekconstructie opstellen.  | Uit het totale aanbod van de verschillende aflossings- en rentevormen.  | Het advies van de kandidaat is concreet, klantspecifiek en reproduceerbaar en inclusief aflossingsconstructie mede gebaseerd op het restschuldrisico, renteconstructie en de daarbij behorende woonlastenbeschermer(s) of vergelijkbare en alternatieve oplossingsrichtingen.  De kandidaat houdt rekening met de gegevens uit de analysefase en het klantprofiel. Alle gegevens, informatie, documenten en bestaande producten zijn op een juiste wijze vertaald.  Bij de betaalbaarheid houdt de kandidaat ook rekening gehouden met de volgende situaties: overlijden, werkeloosheid en arbeidsongeschiktheid van (één van de) aanvrager(s) en het langlevenscenario (pensionering).  De kandidaat zoekt naar oplossing om financiering mogelijk te maken, wijst op sparen, aanpassing bestedingspatronen en dergelijke.  De kandidaat houdt rekening met alle relevante fiscale regelgeving rondom de geldlening (zoals hypotheekrenteaftrek, tussentijdse aflossing).  De kandidaat houdt rekening met het relevante juridische kader waarin de aanvrager(s) zich bevind(t)(en).  De kandidaat neemt relevante bestaande producten en overeenkomsten mee in het advies.  De kandidaat laat aan de klant de consequenties zien van de verschillende rentetypes en aflossingsvormen.  De kandidaat geeft bij langlopende producten, zoals een KEW of BEW, inzicht in de financiële en fiscale gevolgen van voortijdige beëindiging of wijziging van het product bij onder meer gewijzigde doelstellingen.  De kandidaat brengt de afweging met of zonder NHG in kaart.  | --- |
+| 3c.1 Een passende hypotheekconstructie opstellen.  | Uit het totale aanbod van de verschillende aflossings- en rentevormen.  | Het advies van de kandidaat is concreet, klantspecifiek en reproduceerbaar en inclusief aflossingsconstructie mede gebaseerd op het restschuldrisico, renteconstructie en de daarbij behorende woonlastenbeschermer(s) of vergelijkbare en alternatieve oplossingsrichtingen.  De kandidaat houdt rekening met de gegevens uit de analysefase en het klantprofiel. Alle gegevens, informatie, documenten en bestaande producten zijn op een juiste wijze vertaald.  Bij de betaalbaarheid houdt de kandidaat ook rekening gehouden met de volgende situaties: overlijden, werkeloosheid en arbeidsongeschiktheid van (één van de) aanvrager(s) en het langlevenscenario (pensionering).  De kandidaat zoekt naar oplossing om financiering mogelijk te maken, wijst op sparen, aanpassing bestedingspatronen en dergelijke.  De kandidaat houdt rekening met alle relevante fiscale regelgeving rondom de geldlening (zoals hypotheekrenteaftrek, tussentijdse aflossing).  De kandidaat houdt rekening met het relevante juridische kader waarin de aanvrager(s) zich bevind(t)(en).  De kandidaat neemt relevante bestaande producten en overeenkomsten mee in het advies.  De kandidaat laat aan de klant de consequenties zien van de verschillende rentetypes en aflossingsvormen.  De kandidaat geeft bij langlopende producten, zoals een KEW of BEW, inzicht in de financiële en fiscale gevolgen van voortijdige beëindiging of wijziging van het product bij onder meer gewijzigde doelstellingen.  De kandidaat brengt de afweging met of zonder NHG in kaart.  | --- |
 | 3c.2 Het advies onderbouwen.  | Klantgesprek.  | De kandidaat informeert de klant over de relevante financiële, fiscale en juridische implicaties van het aangaan van de hypotheek en daarbij behorende producten.  De kandidaat houdt rekening met de regelgeving conform Gedragscode Hypothecaire Financieringen en zorgt, waar nodig, voor een kwalitatieve en kwantitatieve onderbouwing (*explain* situaties).  Onderbouwing van de kandidaat is klantspecifiek en sluit aan bij de kennis en begrip van de klant.  Kandidaat kan de betaalbaarheid goed motiveren.  De kandidaat geeft in geval van een oversluitadvies een cijfermatige vergelijking van de oude en de nieuwe hypotheek, de (financiële) gevolgen van het oversluiten en de terugverdientijd en legt dit schriftelijk vast.  | Evalueert tijdens het gesprek op effect knelpunten en acceptatie.  Neemt eigen verantwoordelijkheid door klant te wijzen op risico’s en gevolgen van gemaakte keuzes.  |
 | 3c.3 In geval van afwijkend advies tijdig waarschuwen.  | Afwijkend advies.  | Als de adviseur die keuze niet verstandig acht, dan wijst hij de klant op de consequenties die dat met zich mee brengt.  Wanneer de klant toch wil afwijken van het advies, waarschuwt de adviseur de klant voor de financiële gevolgen ervan.  | Gebruik maken van de vaardigheden die horen bij een slechtnieuwsgesprek: korte introductie, slecht nieuws meedelen, opvangen emoties, argumenten toelichten, en hoe verder.  |
 | 3c.4 Onderbouwen afwijkend advies.  | Klantgesprek.  | De kandidaat legt afwijkingen van het advies vast en maakt de consequenties hiervan (cijfermatig) inzichtelijk.  De kandidaat onderbouwt en overtuigt de klant van de (financiële) consequenties en gevolgen van de voorgenomen beslissing die afwijkt van de oorspronkelijke doelstellingen van de klant.  | Blijft bewust van zijn adviesrol en neemt zo nodig eigen verantwoordelijkheid.  |
@@ -2407,181 +2408,286 @@ Competenties
 
 ### Bijlage  9  
 
-####Eindtermen en toetstermen module volmacht algemeen
+####Eind en toetstermen module zorgverzekeringen
 
-### Taak  1  
-
-####Risicomanagement
-
-Vaardigheden 
-
-| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid.  |
-|:---|:---|:---|
-|  *Eindterm 2a*   De persoon beschikt over het vermogen om (integriteit-)risico’s te beoordelen, alsmede aan te tonen op welke wijze deze risico’s tot een aanvaardbaar niveau kunnen worden teruggebracht.  |
-| 2a.1 Risico’s signaleren en kwalificeren.  | Voert als gevolmachtigde agent het proces van risicomanagement fasegewijs uit, waarbij rekening wordt gehouden met:  – oriëntatie inzake het risicobewustzijn en risicobereidheid;  – doelstellingen en achtergronden van een betreffende organisatie;  – inventariseren en analyseren van de risico’s die de doelstellingen van een organisatie kunnen bedreigen;  – beoordelen van de vervaardigde risicoanalyse.  Heeft als gevolmachtigde agent een goed inzicht in de risico’s van een organisatie. De kandidaat vormt en eigen oordeel op basis van een uitgevoerde risico-inventarisatie en risicoanalyse.  De kandidaat bepaalt welke risico’s de risicobereidheid van de organisatie te boven gaan en welke risicomitigerende oplossingen moeten worden getroffen.  | --- |
-| 2a.2 Risicomitigerende oplossingen bepalen.  | Geeft duidelijk aan welke oplossingen voor een organisatie mogelijk zijn.  Met de voorgestelde oplossingen kunnen de gesignaleerde risico’s op adequate wijze beheerst worden. De risico’s vallen na de implementatie van de oplossingen binnen de grenzen van de risicobereidheid van de organisatie.  | Een gevolmachtigde agent heeft binnen de administratieve organisatie de taak om de te lopen risico’s op adequate wijze te beheersen door een combinatie te hanteren van de volgende mitigerende oplossingen:  • het vermijden van risico’s;  • het reduceren van risico’s;  • het overdragen van risico’s;  • het accepteren van risico’s.  |
-| 2a.3 De gesignaleerde risico’s en de risicomitigerende oplossingen rapporteren.  | Zorgt voor een constructieve vastlegging van de risico’s en risicomitigerende oplossingen, zodat deze binnen de organisatie gecommuniceerd en geïmplementeerd kunnen worden.  Bij dit proces wordt rekening gehouden met relevante wet- en regelgeving en de verschillende regelingen, protocollen die er zijn gemaakt.  | Heeft betrekking op alle aspecten binnen het volmachtbedrijf.  |
-| 2a.4 Een voorstel ten aanzien van de gesignaleerde risico’s en beheersingsmaatregelen doen.  | Doet een voorstel aan de verschillende belanghebbenden bij de risicobeoordeling om een passende oplossing te kiezen die leidt tot een goede risicobeheersing.  Het voorstel is passend binnen de organisatie.  | Heeft binnen de administratieve organisatie als gevolmachtigde agent de taak om de te lopen risico’s op adequate wijze te beheersen door een combinatie te hanteren van de volgende mitigerende oplossingen:  • het vermijden van risico’s;  • het reduceren van risico’s;  • het overdragen van risico’s;  • het accepteren van risico’s;  • implementatie van de risicomitigerende oplossingen;  • communicatie van de risicomitigerende oplossingen;  • monitoren van de risicomitigerende oplossingen.  |
-
-### Taak  2  
-
-####Administratieve organisatie en interne beheersing (ao/ib) w.o. rapportage en uitwisseling van digitale databestanden
-
-Kennis 
+####Kennis
 
 | Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
 |:---|:---|:---|
-|  *Eindterm 1a*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op globale kennis van de belastingwetgeving.  |
-| 1a.1  | De kandidaat kan de algemene aspecten benoemen die betrekking hebben op het belastingstelsel.  | K  |
-| 1a.2  | De kandidaat kan benoemen wie op grond van de te heffen inkomstenbelasting, belastingplichtig zijn.  | K  |
-| 1a.3  | De kandidaat kan opsommen over welke bestanddelen van het fiscale inkomen inkomstenbelasting moeten worden betaald.  | K  |
-| 1a.4  | De kandidaat kan de bestanddelen opnoemen, die onder het belastbaar inkomen uit werk en woning vallen.  | K  |
-| 1a.5  | De kandidaat kan een definitie geven van het begrip partner.  | K  |
-| 1a.6  | De kandidaat kan beschrijven hoe de belastingheffing van het belastbaar inkomen plaatsvindt bij kinderen, uit eigen woning, uit aanmerkelijk belang en uit sparen en beleggen.  | K  |
-| 1a.7  | De kandidaat kan beschrijven op welke wijze het te betalen belastingbedrag uit werk en woning moet worden berekend.  | K  |
-| 1a.8  | De kandidaat kan definiëren wat er onder heffingskorting wordt verstaan.  | K  |
-| 1a.9  | De kandidaat kan onderscheid maken tussen de algemene heffingskorting en andere aanvullende kortingen.  | B  |
-| 1a.10  | De kandidaat kan in eigen woorden vertellen wat wordt verstaan onder inkomen uit aanmerkelijk belang.  | B  |
-| 1a.11  | De kandidaat kan enkele voorbeelden van inkomen uit aanmerkelijk belang noemen.  | K  |
-| 1a.12  | De kandidaat kan opsommen op welke wijze de inkomsten uit diverse vormen van sparen en beleggen worden belast.  | K  |
-| 1a.13  | De kandidaat kan de bezittingen en schulden opsommen die zijn vrijgesteld van de vermogensrendementsheffing.  | K  |
-| 1a.14  | De kandidaat kan de onderdelen noemen die onder de Successiewet vallen.  | K  |
-| 1a.15  | De kandidaat kan de globale werking van de onderdelen van de Successiewet beschrijven.  | K  |
-| 1a.16  | De kandidaat kan de globale werking van de vennootschapsbelasting beschrijven.  | K  |
-| 1a.17  | De kandidaat kan de verschillende bestanddelen benoemen die onder de te heffen vennootschapsbelasting vallen.  | K  |
-| 1a.18  | De kandidaat kan een definitie geven van het begrip ‘omzetbelasting’.  | K  |
-| 1a.19  | De kandidaat kan opsommen wie omzetbelastingplichtig zijn.  | K  |
-| 1a.20  | De kandidaat kan de verschillende onderdelen benoemen die nodig zijn om de te betalen omzetbelasting te berekenen.  | K  |
-| 1a.21  | De kandidaat kan opnoemen welke belastingsoorten vallen onder de Wet op belastingen van rechtsverkeer.  | K  |
-| 1a.22  | De kandidaat kan uitleggen wanneer assurantiebelasting over te betalen verzekeringspremies moet worden geheven.  | B  |
-| 1a.23  | De kandidaat kan uitleggen wat de maatstaf van heffing is.  | B  |
-| 1a.24  | De kandidaat kan opsommen in welke situatie sprake is van vrijstelling van assurantiebelasting.  | K  |
-| 1a.25  | De kandidaat kan uitleggen op welke wijze assurantiebelasting wordt geheven.  | B  |
-| 1a.26  | De kandidaat kan globaal beschrijven welke invloed internetgebruik heeft op het assurantiebemiddelingsbedrijf, de aanbieders en op het consumentengedrag.  | K  |
-|  *Eindterm 1b*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van bedrijfsorganisaties, belangenverenigingen en samenwerkingsverbanden.  |
-| 1b.1  | De kandidaat kan een opsomming geven van de verschillende samenwerkingsvormen in de financiële dienstverlening.  | K  |
-| 1b.2  | De kandidaat kan in eigen woorden globaal vertellen wat de werkwijze van de verschillende samenwerkingsvormen is.  | B  |
-| 1b.3  | De kandidaat kan een opsomming geven van de organisaties die actief zijn om de belangen van adviseurs, bemiddelaars en gevolmachtigde agenten in Nederland te behartigen.  | K  |
-| 1b.4  | De kandidaat kan een opsomming geven van de overige organisaties die het resultaat zijn van de samenwerking van verschillende organisaties.  | K  |
-| 1b.5  | De kandidaat kan een samenvatting geven van economische ontwikkelingen op zowel nationaal- als internationaal niveau kan uitleggen welke invloed deze ontwikkelingen op de financiële dienstverlening hebben.  | B  |
-| 1b.6  | De kandidaat kan omschrijven hoe de distributie van verzekeringen op zowel nationaal- als internationaal niveau plaatsvindt.  | K  |
-|  *Eindterm 1c*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van het wettelijk toezicht en eventuele zelfregulering.  |
-| 1c.1  | De kandidaat kan omschrijven op welke wijze het wettelijk toezicht op het verzekeringsbedrijf is geregeld.  | K  |
-| 1c.2  | De kandidaat kan een omschrijving geven van de gedragsregels en overige regelingen, die op het assurantiebemiddelingsbedrijf en op het volmachtbedrijf van toepassing zijn.  | K  |
-| 1c.3  | De kandidaat kan een opsomming geven van de wet- en regelgeving die van toepassing is op het assurantiebemiddelingsbedrijf en op het volmachtbedrijf.  | K  |
-| 1c.4  | De kandidaat kan de gedragscodes, convenanten en overige bedrijfsregelingen waaraan aanbieders, gevolmachtigde agenten, adviseurs en bemiddelaars moeten voldoen omschrijven.  | K  |
-|  *Eindterm 1d*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van de rechtspositie van de adviseur en bemiddelaar.  |
-| 1d.1  | De kandidaat kan het verschil aangeven tussen de verschillende soorten adviseurs en bemiddelaars.  | K  |
-| 1d.2  | De kandidaat kan omschrijven met welke aspecten een adviseur en bemiddelaar in de praktijk te maken heeft.  | K  |
-| 1d.3  | De kandidaat kan in eigen woorden vertellen wat de doelstelling en reikwijdte van de Wet op het financieel toezicht is.  | B  |
-| 1d.4  | De kandidaat kan de regels noemen die het deel Gedragstoezicht van de Wet op het financieel toezicht aan financiële dienstverleners stelt.  | K  |
-| 1d.5  | De kandidaat kan uitleggen hoe de aansprakelijkheid van de bemiddelaar en gevolmachtigde agent is geregeld.  | B  |
-| 1d.6  | De kandidaat kan de verplichtingen noemen waaraan de bemiddelaar en gevolmachtigde agent op het gebied van aansprakelijkheid moeten voldoen.  | K  |
-| 1d.7  | De kandidaat kan uitleggen welke verantwoordelijkheid de klant heeft.  | B  |
-| 1d.8  | De kandidaat kan uitleggen op welke wijze een integere en beheerste bedrijfsvoering door een financiële dienstverlener kan worden toegepast.  | B  |
-| 1d.9  | De kandidaat kan voorbeelden geven van organisaties in de financiële dienstverlening, die niet als adviseur, bemiddelaar of gevolmachtigde agent actief zijn.  | K  |
-| 1d.10  | De kandidaat kan het juridische begrip ‘volmacht’ omschrijven  | K  |
-| 1d.11  | De kandidaat kan de onderwerpen benoemen die verband houden met het begrip ‘volmacht’.  | K  |
-| 1d.12  | De kandidaat kan de gevolgen benoemen die de het Gedragsdeel van de Wft heeft voor klanten, financiële dienstverleners, aanbieders en toezichthouders.  | K  |
-|  *Eindterm 1e*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van de verschillende rechtsvormen en globale kennis van de juridische en fiscale consequenties daarvan.  |
-| 1e.1  | De kandidaat kan een omschrijving geven van de verschillende rechtsvormen waarin een onderneming kan worden uitgeoefend.  | K  |
-| 1e.2  | De kandidaat kan uitleggen hoe de aansprakelijkheid van de bestuurders van de verschillende rechtsvormen is geregeld.  | B  |
-| 1e.3  | De kandidaat kan de belangrijkste fiscale consequenties van de verschillende rechtsvormen benoemen.  | K  |
-|  *Eindterm 1f*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van het stelsel van sociale zekerheid.  |
-| 1f.1  | De kandidaat kan uitleggen wat het doel van de sociale zekerheidsregelingen is.  | B  |
-| 1f.2  | De kandidaat kan het stelsel van sociale zekerheid onderverdelen in sociale verzekeringen en sociale voorzieningen en kan de verschillende soorten dekking en voorzieningen benoemen.  | K  |
-| 1f.3  | De kandidaat kan de verschillende uitkeringsregelingen bij arbeidsongeschiktheid omschrijven.  | K  |
-| 1f.4  | De kandidaat kan de verschillende voorzieningen op het gebied van leven, werk, wonen en vervoer omschrijven.  | K  |
-| 1f.5  | De kandidaat kan een opsomming geven van de regelingen waarop derving van inkomen kan worden verzekerd.  | K  |
-| 1f.6  | De kandidaat kan omschrijven waarop het zorgstelsel is gebaseerd.  | K  |
-| 1f.7  | De kandidaat kan de verschillende onderdelen opsommen die samen het basispakket van de Zorgverzekeringswet vormen  | K  |
-| 1f.8  | De kandidaat kan de verzekerde rubrieken opsommen die onderdeel uitmaken van de Algemene wet bijzondere ziektekosten (Awbz).  | K  |
-| 1f.9  | De kandidaat kan uitleggen op welke wijze de Algemene ouderdomswet en de Algemene nabestaandenwet functioneren.  | B  |
-| 1f.10  | De kandidaat kan de werking en de doelstelling van de Arbodiensten omschrijven.  | K  |
-|  *Eindterm 1g*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van het verbintenissenrecht.  |
-| 1g.1  | De kandidaat kan het begrip ‘verbintenis’ omschrijven.  | K  |
-| 1g.2  | De kandidaat kan het verband tussen het begrip ‘verbintenis’ en het verbintenissenrecht aangeven.  | K  |
-| 1g.3  | De kandidaat kan met behulp van voorbeelden uitleggen hoe verbintenissen ontstaan.  | B  |
-| 1g.4  | De kandidaat kan omschrijven wat er onder een overeenkomst wordt verstaan.  | K  |
-| 1g.5  | De kandidaat kan met behulp van voorbeelden uitleggen aan welke voorwaarden moet zijn voldaan om van een overeenkomst te kunnen spreken.  | B  |
-| 1g.6  | De kandidaat kan beschrijven welke rechtshandelingen moeten worden verricht, die nodig zijn om een verzekeringsovereenkomst tot stand te brengen.  | K  |
-| 1g.7  | De kandidaat kan uitleggen wanneer een verzekering aanvangt.  | B  |
-| 1g.8  | De kandidaat kan in eigen woorden het kenmerkende verschil aangeven tussen het formele begin en het materiële begin van een verzekering.  | B  |
-|  *Eindterm 1h*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op kennis van het algemeen burgerlijk recht en de wijze waarop een civiele procedure en een strafproces verlopen.  |
-| 1h.1  | De kandidaat kan een definitie geven van het begrip ‘recht’.  | K  |
-| 1h.2  | De kandidaat kan aangeven welke rechtsbronnen worden gehanteerd en uitleggen op welke verschillende manieren het recht kan worden toegepast.  | B  |
-| 1h.3  | De kandidaat kan beschrijven hoe de rechterlijke organisatie is opgebouwd.  | K  |
-| 1h.4  | De kandidaat kan uitleggen wanneer hoger beroep mogelijk is of wanneer cassatie kan worden ingesteld.  | B  |
-| 1h.5  | De kandidaat kan onderscheid maken tussen een ‘civiel proces’ en een ‘strafzaak’.  | B  |
-| 1h.6  | De kandidaat kan in eigen woorden de verschillende stappen tijdens een proces van de rechtsgang omschrijven.  | K  |
-| 1h.7  | De kandidaat kan uitleggen op welke andere manieren, een geschil kan worden beslecht.  | B  |
-| 1h.8  | De kandidaat kan het verschil aangeven tussen een faillissement en een surseance van betaling.  | B  |
-| 1h.9  | De kandidaat kan de te volgen procedure bij een faillissement omschrijven.  | K  |
-| 1h.10  | De kandidaat kan de te volgen procedure bij een surseance van betaling omschrijven.  | K  |
-| 1h.11  | De kandidaat kan omschrijven tot welk recht het aansprakelijkheidsrecht behoort.  | K  |
-| 1h.12  | De kandidaat kan het verschil aangeven tussen de verschillende soorten aansprakelijkheid.  | B  |
+|  *Eindterm 1a*   De persoon baseert zijn werkzaamheden met betrekking tot zorg- en ziektekostenverzekeringen op actuele kennis van het verzekeringsrecht en de van toepassing zijnde wet- en regelgeving, richtlijnen, gedragscodes en convenanten.  |
+| 1a.1  | De kandidaat kan de indeling van het gezondheidszorgstelsel in Nederland beschrijven  | K  |
+| 1a.2  | De kandidaat kan omschrijven wat de gevolgen zijn van het niet tijdig betalen van de eerste premie en de vervolgpremie van een zorg- en ziektekostenverzekering.  | B  |
+| 1a.3  | De kandidaat kan de rol van het CVZ, de SKGZ, de NZa en het CBP beschrijven.  | K  |
+| 1a.4  | De kandidaat kan uitleggen welke feiten op grond van de mededelingsplicht bij een aanvraag van een zorg- en ziektekostenverzekering meegedeeld moeten worden en wat de gevolgen zijn van het niet mededelen van deze feiten.  | B  |
+| 1a.5  | De kandidaat kan benoemen in welke gevallen een zorg- en ziektekostenverzekering opzegbaar is en welke opzegtermijn er in een bepaald geval in acht dient te worden genomen.  | K  |
+| 1a.6  | De kandidaat kan de meest voorkomende relevante wet- en regelgeving en richtlijnen opsommen, o.m. Zorgverzekeringswet, Besluit Zorgverzekering, Regeling Zorgverzekering.  | K  |
+| 1a.7  | De kandidaat kan de meest voorkomende relevante gedragscodes opsommen, o.m. Gedragscode verwerking persoonsgegevens zorgverzekeraars, de gedragscode goed zorgverzekeraarschap.  | K  |
+| 1a.8  | De kandidaat kan de meest voorkomende relevante convenanten opsommen, o.m. Convenant samenloop reis- en zorgverzekering, convenant regres zorgverzekeraars aansprakelijkheidsverzekeraars  | K  |
+| 1a.9  | De kandidaat kan het traject van de verschillende interne en externe klachtenprocedures beschrijven.  | K  |
+| 1a.10  | De kandidaat kan de volgende informatiebronnen noemen die gericht zijn op de belangen van de klant: overheid (AFM), markt (Nibud, Consumentenbond) en de diverse brancheorganisaties.  | K  |
+| 1a.11  | De kandidaat kan de klachten- en geschilleninstellingen, Klachten instituut financiële dienstverlening (Kifid), Stichting Geschillen en Klachten Zorgverzekeringen (SGKZ) en tuchtraad noemen en kort beschrijven op welke gebieden zij werkzaam zijn.  | K  |
+| 1a.12  | De kandidaat kan beschrijven welke beroepsmogelijkheden bestaan bij sancties van De Nederlandsche Bank (DNB) en de Autoriteit Financiële Markten (AFM), uitspraken klachteninstituten en rechterlijke uitspraken.  | K  |
 
-Vaardigheden 
-
-| Vaardigheid  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
-|:---|:---|:---|
-|  *Eindterm 2b*   De persoon beschikt over het vermogen om het algemene verzekeringsrecht toe te passen.  |
-| 2b.1 Aan de hand van praktijksituaties illustreren wat de basisbeginselen en uitgangspunten van assurantie of verzekeren in het algemeen zijn.  | Schetst een helder beeld van de basisbeginselen en uitgangspunten van het verzekeringsvak in het algemeen.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2b.2 Aan de hand van gegeven praktijksituaties onderbouwen wat de juridische achtergrond van een volmacht inhoudt.  | Legt in duidelijke en begrijpelijke taal uit wat de juridische achtergrond van de gevolmachtigde agent is.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2b.3 Aan de hand van een voorbeeld beoordelen of sprake is van een opdracht of overeenkomst in de zin van titel 7 van het BW. (artikel 400 t/m 445).  | Heeft het inzicht om op basis van een praktijksituatie te kunnen beoordelen of sprake is van een opdracht of overeenkomst.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2b.4 Aan de hand van praktijksituaties aantonen dat aan de eisen van het Gedragstoezicht van de Wft wordt voldaan.  | Is in staat om mondeling of schriftelijk op begrijpelijke wijze uit te leggen of een financieel dienstverlener in een specifieke situatie handelt conform de eisen die het Gedragstoezicht in het kader van de Wft stelt.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2b.5 Aan de hand van praktijksituaties aantonen, dat wordt voldaan aan de eisen die het verzekeringsrecht stelt.  | Is in staat om mondeling of schriftelijk op begrijpelijke wijze uit te leggen of een financieel dienstverlener in een specifieke situatie handelt conform de eisen die het verzekeringsrecht stelt.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-|  *Eindterm 2c*   De persoon beschikt over het vermogen om de relevante wet- en regelgeving juist te interpreteren en uit te leggen.  |
-| 2c.1 In een praktijksituatie aantonen aan welke wet- en regelgeving moet worden voldaan.  | Is in staat om mondeling of schriftelijk op begrijpelijke wijze uit te leggen of een financieel dienstverlener in een specifieke situatie handelt conform de eisen die het verzekeringsrecht stelt.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV en afspraken die er binnen het Platformoverleg Volmacht Verbond/NVGA zijn gemaakt  |
-| 2c.2 Kan aan de hand van voorbeelden aantonen dat de administratieve organisatie en interne beheersing aan wet- en regelgeving voldoet.  | Heeft een goed inzicht in de administratieve organisatie en interne beheersing en kan aantonen dat de organisatie aan de eisen van wet- en regelgeving voldoet.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV en afspraken die er binnen het Platformoverleg Volmacht Verbond/NVGA zijn gemaakt.  |
-
-### Taak  3  
-
-####(klant)acceptatie, verzekeringstechnisch beheer en administratie, w.o. premie-incasso
-
-Kennis 
-
-| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
-|:---|:---|:---|
-|  *Eindterm 1i*   De persoon baseert zijn werkzaamheden als Gevolmachtigde Agent op grondige kennis van algemene verzekeringstechniek en algemene polisbepalingen.  |
-| 1i.1  | De kandidaat kan de definitie van verzekeren geven, zoals in artikel 7.17.1.1 staat vermeld.  | K  |
-| 1i.2  | De kandidaat kan omschrijven wat het kernpunt van verzekeren is.  | K  |
-| 1i.3  | De kandidaat kan een globale opsomming geven van de geschiedenis van het onderwerp ‘verzekeren’.  | K  |
-| 1i.4  | De kandidaat kan voorbeelden geven van risico’s die de mens loopt.  | K  |
-| 1i.5  | De kandidaat kan opsommen welke risico’s moeten worden verzekerd en welke risico’s onverzekerbaar zijn.  | K  |
-| 1i.6  | De kandidaat kan beschrijven op welke wijze risico’s beperkt of voorkomen kunnen worden.  | K  |
-| 1i.7  | De kandidaat kan de algemene aspecten van de verzekeringsovereenkomst omschrijven.  | K  |
-| 1i.8  | De kandidaat kan de partijen in de bedrijfskolom opnoemen.  | K  |
-| 1i.9  | De kandidaat kan omschrijven wat de rol en positie van elke afzonderlijke partij in de bedrijfskolom is.  | K  |
-| 1i.10  | De kandidaat kan beschrijven welke invloed de partijen in de bedrijfskolom op elkaar hebben.  | K  |
-| 1i.11  | De kandidaat kan het belang van het verzekeringsbedrijf in de economie omschrijven.  | K  |
-| 1i.12  | De kandidaat kan de groepsgewijze indeling van verzekeringsvormen in branches beschrijven.  | K  |
-| 1i.13  | De kandidaat kan een voorbeeld geven van individuele verzekeringsvormen die onder een bepaalde branche vallen.  | K  |
-| 1i.14  | De kandidaat kan omschrijven aan welke eisen een polis moet voldoen en welke soorten polissen er bestaan.  | K  |
-| 1i.15  | De kandidaat kan de verschillende soorten polissen opsommen en aangeven hoe de polisindeling, algemene voorwaarden, verzekeringsvoorwaarden en clausules zijn.  | K  |
-| 1i.16  | De kandidaat kan de componenten omschrijven die bij het tot stand komen van de premie van een verzekering een rol spelen.  | K  |
-| 1i.17  | De kandidaat kan beschrijven op welke wijze de premiebetaling in de polisvoorwaarden is vastgelegd.  | K  |
-| 1i.18  | De kandidaat kan omschrijven wat de begrippen ‘verzekeringnemer’, ‘verzekerde’ en ‘begunstigde’ inhouden.  | K  |
-| 1i.19  | De kandidaat kan omschrijven welke andere gerechtigden belang kunnen hebben bij een verzekeringsovereenkomst.  | K  |
-| 1i.20  | De kandidaat kan omschrijven wat er verzekerd is en het verschil aangeven tussen het verzekerde belang en wiens belang is verzekerd.  | K  |
-| 1i.21  | De kandidaat kan risico’s in een aantal categorieën onderverdelen en kan risico’s opsommen die kunnen worden verzekerd.  | K  |
-| 1i.22  | De kandidaat kan de functies van het verzekerd bedrag omschrijven.  | K  |
-| 1i.23  | De kandidaat kan de functie omschrijven van het verzekerde bedrag bij een sommenverzekering.  | K  |
-| 1i.24  | De kandidaat kan de functie omschrijven van het verzekerde bedrag bij een schadeverzekering.  | K  |
-| 1i.25  | De kandidaat kan uitleggen wat er bij wanbetaling gebeurt en wanneer premierestitutie mogelijk is.  | B  |
-| 1i.26  | De kandidaat kan de verschillende soorten kosten bij schade omschrijven.  | K  |
-
-Vaardigheden 
+####Vaardigheden
 
 | Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
 |:---|:---|:---|
-|  *Eindterm 2d*   De persoon beschikt over het vermogen om algemene verzekeringstechniek en algemene polisbepalingen toe te passen.  |
-| 2d.1 Aan de hand van een praktijksituatie de juridische achtergrond van de premiebetaling, zoals deze in de polisvoorwaarden is geregeld, beargumenteren.  | Legt op een heldere wijze uit hoe de juridische werking van de premiebetaling in de polisvoorwaarden is geregeld.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2d.2 Bij het schadebehandelings-proces, de verplichtingen bij schade, de bewijslast en de wijze waarop de schade wordt vastgesteld beargumenteren.  | Geeft duidelijke uitleg aan belanghebbende hoe het proces van schadebehandeling plaatsvindt en welke rechten en plichten alle betrokken partijen bij dit proces hebben.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2d.3 Berekenen welk bedrag moet worden uitgekeerd.  | Houdt rekening met specifieke factoren als onderverzekering, eigen risico en wie uitkeringsgerechtigd is.  Maakt foutloze berekeningen en kan de berekeningsmethode verklaren.  Legt de principes achter de berekeningen uit en geeft aan in welke situatie er mogelijk sprake is van onderverzekering. Kan op eenvoudige wijze de werking van eigen risico bij schade uitleggen. Heeft overzicht welke actoren mogelijk in aanmerking kunnen komen voor een toe te kennen schade-uitkering.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2d.4 Beoordelen wanneer de verzekeraar het recht van subrogatie en cessie kan toepassen.  | Heeft inzicht om in een praktijksituatie te kunnen bepalen of een verzekeraar een verrichte schade-uitkering kan verhalen op een andere partij of in de rechten kan treden van een andere partij.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2d.5 Beoordelen wat de duur van de verzekering is en/of na het verlopen van de duur van de verzekeringstermijn, de dekking daadwerkelijk ten einde is.  | Heeft het inzicht om in een praktijksituatie de contractduur van een verzekering te kunnen bepalen en is in staat om op basis van juridische aspecten de verlenging of beëindiging van verzekeringscontracten op een heldere wijze uit te leggen.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
-| 2d.6 De jaarrekening beoordelen bij acceptatie van een verzekering.  | Heeft het inzicht om op basis van de jaarrekening de acceptatie van een verzekering te kunnen beoordelen.  | Hierbij wordt rekening gehouden met wet- en regelgeving, inhoud van de VSV.  |
+|  *Eindterm 2a*   De persoon beschikt over het vermogen om mondeling en schriftelijk te communiceren.  |
+| 2a.1 Gestructureerd interviewen  | De kandidaat werkt gestructureerd en is onbevooroordeeld.  Interviewtechniek en vraagpunten van het onderzoek zijn goed uitgewerkt en worden goed uitgevoerd. De kandidaat stelt de juiste en relevante vragen. Gebruikt een gevarieerde vraagtechniek. De interviewtechniek is gebaseerd op de onderdelen: luisteren, doorvragen, confronteren en inleven in de klant.  De kandidaat leidt het gesprek.  | Het niveau van kennis en begrip van gesprekspartner varieert.  Kandidaat interviewt klant in verschillende levensfasen en met betrekking tot verschillende gebeurtenissen.  |
+| 2a.2 Mondeling  communiceren  | De kandidaat is zakelijk, klantvriendelijk, effectief, onbevooroordeeld en respectvol.  De relevante informatie en de persoonlijke toelichting zijn correct, duidelijk en niet-misleidend en afgestemd op het begripsniveau van de klant. Houdt rekening met sociaaleconomische en sociaal-culturele kenmerken van de klant.  Hanteert heftige klantemoties met empathie en strategie.  | Het niveau van kennis en begrip van gesprekspartner varieert.  |
+| 2a.3 Formulieren en offertes invullen, aanvragen, controleren en indienen  | De kandidaat werkt gestructureerd en is alert op fouten. De aanvraag wordt op de correcte wijze ingediend  | --- |
+| 2a.4 De documenten zoals formulieren en offertes uitleggen  | De informatie is correct, duidelijk en afgestemd op het begripsniveau van de klant.  | --- |
+| 2a.5 Schriftelijk communiceren  | De informatie is correct, duidelijk en niet-misleidend en afgestemd op het begripsniveau van de klant. Document kent een heldere structuur en goede opbouw.  | Het niveau van kennis en begrip van gesprekspartner varieert.  Demonstreert hoe hij de communicatie aanpast naar de verschillende belanghebbenden  |
+| 2a.6 Klachten behandelen  | Neemt de klacht aan. Luistert inlevend naar de klant, reflecteert op emoties van klant, zegt niets toe. Kan (onsamenhangende) informatie van de klant samenvatten en ordenen.  Handelt volgens de klachtenprocedure.  Baseert zijn handelen op kennis van de organisatie, de financiële dienst en het product.  Neemt verantwoordelijkheid voor de behandeling van de klacht. Handelt zo mogelijk de klacht zelf af, verwijst anders door naar de juiste persoon of afdeling.  | --- |
+|  *Eindterm 2b*   De persoon beschikt over het vermogen om leads te genereren.  |
+| 2b.1 Contact met (potentiële) klanten leggen  | Proactief, is alert om (mogelijke) klanten te werven.  Onderkent de behoefte van de klant, zodat het goed vertaald kan worden in een passend advies.  Verwijst door als dat nodig is.  | Behoefte en belang eindklant moet centraal gesteld worden bij dit proces.  |
+
+####Professioneel gedrag
+
+| Vaardigheid (V)  De kandidaat kan  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 4a*   De persoon beschikt over het vermogen om de volgende dilemma’s op het gebied van integer handelen in de uitoefening van zijn beroep te analyseren en bespreekbaar te maken, alsmede de keuzes af te wegen en te verantwoorden:  • serviceverlening vs kosten van serviceverlening;  • handelen in geval van een situatie die wettelijk niet is toegestaan;  • handelen in geval van een situatie die maatschappelijk niet wenselijk is;  • bevoegdheden en afhandeling van klantvragen.  |
+| 4a.1 Handelen in geval van een situatie die wettelijk niet is toegestaan  | Kandidaat is alert op fraude en dergelijke.  De kandidaat beoordeelt documenten op echtheid en herkent fraude-indicatoren.  De kandidaat geeft op adequate wijze opvolging aan een fraudesignaal.  | Bijvoorbeeld: het dilemma van financiële dienstverlener die inventariseert, en bemerkt dat de aanvraag niet strookt met de waarheid.  Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
+| 4a.2 Handelen in een situatie die maatschappelijk gezien niet wenselijk is  | Handelt in het belang van de klant, stelt de klant centraal.  Is in zijn handelen transparant.  | Beoordeelt in voorkomende gevallen moraliteit, financiële soliditeit en juridische aspecten van de klant.  |
+| 4a.3 Integer omgaan met de klantgegevens  | De kandidaat gaat integer met de klantgegevens om.  Respecteert privacy en patiëntenrechten (o.a. Zvw, Wbp).  | Werkt volgens de voorschriften en procedures.  Waarborgt dat interne automatisering goed beveiligd en reproduceerbaar is in geval van calamiteiten. Borgt dat gebruikers systeem middels een rollen en rechtensysteem alleen die gegevens kunnen raadplegen die passen bij de functie  |
+| 4a.4 Doorverwijzen naar anderen  | De kandidaat onderkent tijdig tekortkomingen bij zichzelf op het gebied van deskundigheid.  De kandidaat kent de grenzen van zijn kennen en kunnen en verwijst door als bepaalde vraagstukken beter beantwoord kunnen worden door collega’s of derden.  Wijst de klant, indien nodig, door naar de juiste persoon of afdeling, laat de klant niet ‘zwemmen’.  | Weet ik wat ik moet doen, of moet ik hulp vragen?  Heb ik gehandeld binnen mijn bevoegdheden? Heb ik alles gedaan om de klant in contact te brengen met de juiste persoon of afdeling?  |
+| 4a.5 De vraag van de klant afhandelen  | De kandidaat neemt verantwoordelijkheid om de vraag van de interne of externe klant zo goed als mogelijk af te handelen.  Is klantvriendelijk en resultaatgericht.  Vraagt naleving van geplande acties.  | Gaat empathisch en strategisch om met emoties van de klant.  Communiceert schriftelijk en op een correcte wijze met de klant.  Wijst op de inhoud van de algemene voorwaarden en regels uit de overeenkomst.  |
+
+### Taak  1  
+
+####Inventariseren van de gegevens van de klant
+
+####Kennis
+
+| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
+|:---|:---|:---|
+|  *Eindterm 1b*   De persoon baseert zijn inventarisatie met betrekking tot zorg- en ziektekostenverzekeringen op actuele kennis van de relevante wet- en regelgeving.  |
+| 1b.1  | De kandidaat kan de relevante wettelijke regels inzake verzekeringsplicht, handelingsbekwaamheid, toestemmingsvereiste en onderbewindstelling uitleggen.  | B  |
+| 1b.2  | De kandidaat kan de relevante wettelijke regels met betrekking tot de hoedanigheid van verzekerde en verzekeringnemer uitleggen.  | B  |
+| 1b.3  | De kandidaat kan de relevante regels met betrekking tot de hoedanigheid van contractant bij verschillende vormen van collectief ziektekostencontract uitleggen, zoals mantelcontract, faciliteitencontract en werkgever in hoedanigheid van verzekeringnemer.  | B  |
+
+####Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 2c*   De persoon beschikt over het vermogen om de benodigde informatie met betrekking tot de inventarisatie te verzamelen.  |
+| 2c.1 Gegevens verzamelen  | Kandidaat bevraagt de klant gestructureerd en onbevooroordeeld.  Alle relevante gegevens van de klant worden verzameld. Als gegevens ontbreken of onduidelijk zijn, vraagt de kandidaat door.  Administreert de klantgegevens nauwkeurig.  Werkt volgens de procedure(s), telefoonregels en bedrijfsvoorschriften.  Kent de kenmerken van een product op basis van de omschrijving op het formulier of op het invulscherm.  Vraagt, indien nodig, toelichting bij weinig voorkomende handelingen of wijzigingen in productadministratie.  | Kandidaat gaat integer met de klantgegevens om.  |
+| 2c.2 Identiteit klant controleren  | Kandidaat controleert of hij de juiste persoon voor zich heeft en of de klant beschikkingsbevoegd en/of handelingsbekwaam is.  Kandidaat kan de klant begrijpelijk uitleggen waarom de gegevens nodig zijn.  Is alert dat juiste document(en) getoond worden, onderkent vervalsingen.  Raadpleegt, indien nodig, databestanden voor identiteitsverificatie.  Signaleert mogelijke onjuistheden en meldt dit volgens de procedure.  Bepaalt, in geval van stichting of vennootschap, vanuit KvK-informatie en/of statuten of de persoon tekenbevoegd is.  | Diverse manieren en documenten kunnen van toepassing zijn.  |
+| 2c.3 de gegevens controleren en invoeren  | De kandidaat controleert de van de klant verkregen informatie op juistheid, volledigheid en tegenstrijdigheden.  De kandidaat gebruikt de juiste ICT toepassing en controleert zoveel mogelijk het systeemantwoord op bijzondere, opvallende en/of afwijkende uitkomsten.  De kandidaat heeft uiteindelijk goed inzicht in de gestelde wensen, eisen en prioriteiten en alle benodigde gegevens voor het geven van een juist en passend advies aan de klant  | --- |
+
+####Competenties
+
+| Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
+|:---|:---|:---|:---|
+|  *Eindterm 3a*   De persoon demonstreert en/of bewijst dat hij de gegevens van de klant kan inventariseren en correct kan opstellen.  |
+| 3a.1 De gegevens van de klant inventariseren  | Klantgesprek  | De gegevens zijn administratief volledig en in één keer goed.  Het klantbeeld is goed uitgewerkt, de klantbehoefte is goed samengevat.  De kandidaat vraagt door in bijzondere situaties en wanneer klantgegevens onvolledig of mogelijk onjuist zijn, zodat hij/zij een passende advies kan geven. Bijvoorbeeld voor niet-ingezetene of Nederlander die langdurig in buitenland woont en/of werkt.  Plant de (juridisch) juiste actie(s).  | Is de eerste indruk goed? Voelt de klant zich welkom bij de organisatie?  Vermeldt de klant alle zaken of laat hij informatie achter, omdat hij bang is dat die leidt tot afwijkende voorwaarden of afwijzing?  Wat doe ik als de opgave of aanvraag niet strookt met de waarheid?  Wat doe ik als de klant nonchalant of onwillig is?  Ben ik oplettend, zorgvuldig en nauwkeurig?  |
+
+### Taak  2  
+
+####Het opstellen van een Risicoanalyse ten behoeve van het advies
+
+####Kennis
+
+| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
+|:---|:---|:---|
+|  *Eindterm 1c*   De persoon baseert de risicoanalyse op kennis van de persoonlijke risico’s van de klant en mogelijke (verzekerings-)oplossingen.  |
+| 1c.1  | De kandidaat kan voorbeelden noemen van risico’s die verbonden zijn aan de gezondheid en kan opsommen welke verzekeringen daarbij gesloten kunnen of moeten worden.  | K  |
+| 1c.2  | De kandidaat kan de werknemersverzekeringen noemen en kan opsommen voor wie deze werknemersverzekeringen gelden.  | K  |
+| 1c.3  | De kandidaat kan de volksverzekeringen opnoemen en voor wie deze volksverzekeringen gelden.  | K  |
+| 1c.4  | De kandidaat kan de risico’s opnoemen die afgedekt zijn door sociale verzekeringen.  | K  |
+| 1c.5  | De kandidaat kan de mogelijkheden van gemoedsbezwaarden omschrijven.  | K  |
+| 1c.6  | De kandidaat kan uitleggen uit welke bestanddelen (inclusief kosten en eventuele assurantiebelasting) de door de klant te betalen premie voor een schadeverzekering bestaat.  | B  |
+| 1c.7  | De kandidaat kan de diverse wettelijke regelingen inzake de vergoeding van medische kosten omschrijven.  | K  |
+| 1c.8  | De kandidaat kan de meest voorkomende mogelijkheden voor het verzekeren van de medische kosten omschrijven.  | K  |
+|  *Eindterm 1d*   De persoon baseert de risicoanalyse op actuele kennis van zorg- en ziektekostenverzekeringen.  |
+| 1d.1  | De kandidaat kan uitleggen welke zaken of belangen van de klant onder de dekking van zorg- en ziektekostenverzekeringen kunnen worden geschaard.  | B  |
+| 1d.2  | De kandidaat kan het belang kort uitleggen van de dekking en de eventuele verschillen daartussen van de meest gebruikelijke verzekeringen voor de specifieke situatie van de klant.  | B  |
+| 1d.3  | De kandidaat kan de namen noemen van de in het verzekeringsbedrijf gebruikelijke (verplichte) verzekeringsvormen en -producten die zorg- en ziektekostenrisico’s (deels) afdekken.  | K  |
+| 1d.4  | De kandidaat kan kort het belang voor de klant van de aanvullende ziektekostenverzekering benoemen.  | B  |
+| 1d.5  | De kandidaat kan in een specifieke situatie afwijkende risico’s en/of risicoverzwarende factoren voor de aanvullende ziektekostenverzekering benoemen.  | B  |
+| 1d.6  | De kandidaat kan het verschil uitleggen tussen zorgverzekeringsvarianten natura-, restitutie- en combinatiepolis.  | B  |
+| 1d.7  | De kandidaat kan uitleggen wat het belang is van de eventuele gegevens die worden opgevraagd voor de beoordeling van het ter verzekering aangeboden risico voor een aanvullende ziektekostenverzekering.  | B  |
+| 1d.8  | De kandidaat kan de begrippen eigen betaling: verplicht en vrijwillig eigen risico en eigen bijdrage omschrijven.  | K  |
+
+####Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 2d*   De persoon beschikt over het vermogen om de risico’s te analyseren en te beoordelen.  |
+| 2d.1 Beoordelen welke risico’s kunnen worden afgedekt door een verzekeringsoplossing  | De analyse is volledig en uitputtend.  | Op basis van de risicobereidheid van de klant maakt de adviseur een keuze uit verschillende risicomitigerende oplossingen (volledig verzekeren, deels verzekeren met eigen risico, risico zelf dragen)  |
+
+####Competenties
+
+| Competentie (C)  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
+|:---|:---|:---|:---|
+|  *Eindterm 3b*   De persoon demonstreert en/of bewijst dat hij het analysetraject met betrekking tot zorg- en ziektekostenverzekering correct kan uitvoeren.  |
+| 3b.1 Risico-analyse opstellen.  | Op basis van een volledige inventarisatie.  | Risicoanalyse is correct.  De risicoanalyse doet recht aan de uitgangspunten en doelstellingen van de klant en de klant herkent zich erin.  | Begrijpt klant de analyse?  Herkent klant de analyse?  Hoe word je daarvan overtuigd?  |
+
+### Taak  3  
+
+####Adviseren (en eventueel bemiddelen) van een passende oplossing
+
+####Kennis
+
+| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
+|:---|:---|:---|
+|  *Eindterm 1e*   De persoon baseert zijn advies met betrekking tot zorg- en ziektekostenverzekering op kennis van elementaire relevante verzekeringsbegrippen.  |
+| 1e.1  | De kandidaat kan de wet van de grote aantallen uitleggen.  | B  |
+| 1e.2  | De kandidaat kan uitleggen waarom verzekeraars rekening houden met het gemiddelde schadebedrag per verzekerde.  | B  |
+| 1e.3  | De kandidaat kan uitleggen waarom en op welke wijze verzekeraars risico’s spreiden.  | B  |
+|  *Eindterm 1f*   De persoon baseert zijn advies met betrekking tot zorg- en ziektekostenverzekering op kennis van de ordening van en het toezicht op de financiële markt.  |
+| 1f.1  | De kandidaat kan het begrip ‘rechtstreekse verkoop’ omschrijven en daarbij aangeven welke advies- en distributiekosten worden gemaakt.  | B  |
+| 1f.2  | De kandidaat kan de werkwijze van verkoop via bemiddeling uitleggen, daarbij aangeven welke kosten daarvoor gemaakt worden, en welke beloning daarvoor ontvangen wordt.  | B  |
+| 1f.3  | De kandidaat kan voorbeelden noemen van onafhankelijke distributiekanalen (bemiddeling).  | K  |
+| 1f.4  | De kandidaat kan uitleggen in welk geval gekozen wordt voor rechtstreekse verkoop of verkoop via bemiddeling.  | B  |
+| 1f.5  | De kandidaat kan de wettelijke vormen van toezicht op de financiële markten noemen en op hoofdlijnen omschrijven (prudentieel, systeem en gedrag)  | K  |
+| 1f.6  | De kandidaat kan het doel van prudentieel en gedragstoezicht uitleggen.  | B  |
+| 1f.7  | De kandidaat kan noemen wie het toezicht in het kader van de Wft uitoefent.  | K  |
+| 1f.8  | De kandidaat kan omschrijven wat de eigen verantwoordelijkheid van de klant volgens de Wft inhoudt.  | K  |
+| 1f.9  | De kandidaat kan de drie plichten van de aanbieder ten opzichte van een bemiddelaar opnoemen: het controleren van de Wft-vergunning van de bemiddelaar, de bemiddelaar van adequate informatie voorzien, en de meldplicht aan de AFM inzake belangrijke of stelselmatige misstanden bij een bemiddelaar.  | K  |
+| 1f.10  | De kandidaat kan noemen welke plicht de bemiddelaar heeft naar de aanbieder van de financiële dienst (het controleren van de Wft-vergunning van de aanbieder).  | K  |
+| 1f.11  | De kandidaat kan het belang van een vergunning voor de financiële dienstverlener beschrijven.  | K  |
+| 1f.12  | De kandidaat kan de verschillende distributievormen in de verzekeringsbranche noemen met daarbij de voor de klant belangrijkste voor- en nadelen van elke distributievorm.  | K  |
+| 1f.13  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de klant bij het tot stand brengen van de overeenkomst van een financieel product. Hij kan daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | K  |
+| 1f.14  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de klant bij het beheer en de uitvoering tijdens de looptijd van een financieel product. Hij kan daarbij aangeven welke kosten daarvoor gemaakt worden en welke beloning daarvoor ontvangen wordt.  | K  |
+| 1f.15  | De kandidaat kan de werkzaamheden beschrijven die de bemiddelaar verricht voor de klant bij het beëindigen van een financieel product.  | K  |
+| 1f.16  | De kandidaat kan een korte omschrijving geven van de zes kwaliteitseisen die gesteld worden aan de financiële dienstverlener: betrouwbaarheid, deskundigheid, financiële zekerheid, adequate en integere bedrijfsvoering, zorgplicht en transparantie.  | K  |
+| 1f.17  | De kandidaat kan de verschillende soorten bemiddelaars (verbonden bemiddelaar, gebonden bemiddelaar, ongebonden bemiddelaar) beschrijven.  | K  |
+| 1f.18  | De kandidaat kan beschrijven hoe een ongebonden bemiddelaar werkt op basis van een objectieve en op basis van een selectieve analyse.  | K  |
+|  *Eindterm 1g*   De persoon baseert zijn advies met betrekking tot zorg- en ziektekostenverzekering op grondige en actuele kennis van de zorg- en ziektekostenproducten.  |
+| 1g.1  | De kandidaat kan voor eenvoudige schadegevallen de dekking op een verzekering omschrijven.  | K  |
+| 1g.2  | De kandidaat kan in een casus uitleggen wanneer de dekking geheel of gedeeltelijk ontbreekt, een uitsluiting, of eigen risico of een eigen bijdrage van toepassing is op een verzekering, en kan de mogelijke gevolgen voor de schadeafwikkeling aangeven.  | B  |
+| 1g.3  | De kandidaat kan voorbeelden noemen van dezelfde dekkingen (eigenlijke en oneigenlijke samenloop) bij verschillende verzekeringen in het kader van samenloop  | K  |
+| 1g.4  | De kandidaat kan aan de klant het begrip inkomensafhankelijke bijdrage voor de zorgverzekering uitleggen  | B  |
+| 1g.5  | De kandidaat kan aan de klant de opbouw van de premie op een zorg- en ziektekostenverzekering uitleggen.  | B  |
+| 1g.6  | De kandidaat kan het begrip zorgtoeslag uitleggen.  | B  |
+| 1g.7  | De kandidaat kan de verzekeringsmogelijkheden uitleggen met betrekking tot Nederlanders die wonen en werken in het buitenland en buitenlanders die wonen en werken in Nederland (onder andere expatriates, kenniswerkers, immigranten, seizoenarbeiders, asielzoekers, en Nederlanders die tijdelijk in het buitenland verblijven en buitenlanders die tijdelijk in Nederland verblijven (verdragsgerechtigden).  | B  |
+|  *Eindterm 1h*   De persoon baseert zijn advies met betrekking tot zorg- en ziektekostenverzekering op grondige en actuele kennis m.b.t. de acceptatie processen bij zorg- en ziektekosten  |
+| 1h.1  | De kandidaat kan uitleggen van welke onderdelen van de zorg- en ziektekostenverzekering door de politieke besluitvorming worden beïnvloed.  | B  |
+| 1h.2  | De kandidaat kan het volledige acceptatieproces uitleggen.  | B  |
+|  *Eindterm 1i*   De persoon baseert zijn advies met betrekking tot zorg- en ziektekostenverzekeringen op grondige en actuele kennis van relevante wetgeving en jurisprudentie  |
+| 1i.1  | De kandidaat kan op hoofdlijnen aangeven welke samenhang er is tussen de verzekering van zorgrisico’s van de klant, de Zorgverzekeringswet, de AWBZ, de Wmo en de (aanvullende) ziektekostenverzekering.  | B  |
+| 1i.2  | De kandidaat kan omschrijven wie de verzekerden en verzekeringnemer zijn inclusief individuele verzekeringsplicht en welke (premiebetalings-)plichten zij hebben en welke dekking van de zorgrisico’s voortvloeit uit de Zorgverzekeringswet.  | K  |
+| 1i.3  | De kandidaat kan omschrijven wat de zorgplicht in het kader van de Zorgverzekeringswet inhoudt.  | K  |
+| 1i.4  | De kandidaat kan het begrip zorgbemiddeling uitleggen.  | B  |
+| 1i.5  | De kandidaat kan omschrijven op welke manier een geldige verzekeringsovereenkomst tot stand komt.  | K  |
+| 1i.6  | De kandidaat kan omschrijven hoe via de diverse distributiekanalen een verzekeringsovereenkomst tot stand komt.  | K  |
+| 1i.7  | De kandidaat kan op hoofdlijnen de acceptatieprocedure bij een verzekeraar omschrijven.  | K  |
+| 1i.8  | De kandidaat kan de drie functies van het aanvraagformulier noemen.  | K  |
+| 1i.9  | De kandidaat kan omschrijven wat een verzekeringnemer, de verzekerde, premiebetaler en de begunstigde is.  | K  |
+| 1i.10  | De kandidaat kan de werking van het mededelingsplicht-artikel beschrijven en de mogelijke gevolgen daarvan.  | K  |
+| 1i.11  | De kandidaat kan het indemniteitsbeginsel beschrijven.  | K  |
+| 1i.12  | De kandidaat kan de begrippen ‘onderverzekering’, ‘oververzekering’ en ‘dubbele verzekering’ beschrijven.  | K  |
+
+####Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 2e*   De persoon beschikt over het vermogen om advisering te plannen, te sturen rekening houdend met het verschil tussen de zorgverzekering en de ziektekosten verzekeringen tot een succes te brengen, waaronder:  • de premie te berekenen;  • de meest geschikte verzekeringsvormen en -voorwaarden te selecteren;  • de geselecteerde verzekeringsvormen, voorwaarden, premies en risico’s te vergelijken;  • de mogelijke risico’s en verzekeringsvormen en/of -dekkingen, uitsluitingen en beperkingen te verduidelijken;  • het adviestraject adequaat vast te leggen in het dossier.  |
+| 2e.1 Informatie gebruiken die in de bedrijfstak beschikbaar is ter zake van protocollen, convenanten, bedrijfsregelingen en gedragscodes.  | De kandidaat gebruikt de informatie op de juiste wijze.  | --- |
+| 2e.2 De premies van verzekeringen berekenen.  | De kandidaat gebruikt de juiste gegevens. De kandidaat kan aangeven dat uit welke premies de verzekering bestaat. De berekening is correct.  Kandidaat gebruikt zo nodig een rekenmachine, tabellen, etc.  | Gebruikt ICT-toepassingen als vergelijkingssoftware.  Kandidaat moet kunnen rekenen met financiële gevolgen van tussentijdse wijzigingen.  |
+| 2e.3 De acceptatiebeslissing (inclusief premievoorstel en eventuele beperkende voorwaarden) beoordelen  | De kandidaat beoordeelt of offerte aansluit op zijn (eerdere) inschatting van het ter verzekering aangeboden risico en kan de eventuele verschillen verklaren.  | --- |
+| 2e.4 De verzekeringsvormen selecteren die voor de klant onacceptabele risico’s (deels) kunnen afdekken.  | De kandidaat selecteert de verzekeringsvormen op grond van de risico’s die zijn geïnventariseerd.  De kandidaat vertaalt de risico’s naar mogelijke verzekeringsvormen die de risico’s (deels) mitigeren.  | Aan de (eind-)klant moet een passende verzekeringsoplossing worden geboden  |
+| 2e.5 Risicogebeurtenissen beoordelen die niet onder de dekking van een verzekering vallen en een maatwerkoplossing voor de (eind)klant vereisen.  | De kandidaat biedt de passende dekking aan en bepaalt welke uitzonderingen op welke wijze alsnog onder de dekking gebracht kunnen worden.  | --- |
+| 2e.6 Inschatten welke van de geselecteerde verzekeringsvoorwaarden het beste aansluiten op de specifieke verzekeringsbehoefte en -wensen van de klant.  | De dekking is passend in de specifieke situatie van de klant.  Maakt voor afwijkende risico’s al dan niet in overleg met maatschappij een passende offerte met maatwerkclausules en/of eigen risico’s en/of uitsluitingen (normaliseert risico’s).  | Spanningsveld tussen beste dekking en hoge premie versus beschikbaar budget van klant.  |
+| 2e.7 De polisdekking van de zorg- en ziektekostenverzekering toelichten.  | Geeft op basis van de door de klant verstrekte informatie een passend advies voor het verzekeren van een zorg- en/of ziektekostenverzekering.  | Gezondheidswaarborgen, verplicht basispakket, marginale provisie voor distributiekanaal, collectieve markt, declaratiestromen, verplicht en vrijwillig eigen risico.  |
+| 2e.8 Berekenen wat de consequenties zijn van het niet verzekerd zijn en het niet betalen van de premie (inclusief wanbetalerstraject en bronheffing voor de zorgverzekering)  | De kandidaat rekent de premie en de extra premie correct uit, zodat direct inzichtelijk is wat de extra kosten zijn bij het niet betalen van de zorgverzekering- en ziektekostenpremie.  Kandidaat gebruikt zo nodig een rekenmachine, tabellen, etc.  De kandidaat kan uitleggen wat de gevolgen zijn als de klant de premie niet betaalt.  | --- |
+| 2e.9 Het adviestraject op de juiste wijze vastleggen in het klantdossier.  | Dossier bevat de juiste gegevens en deze zijn op een makkelijke manier terug te vinden.  Te beoordelen is of de advisering op een juiste manier heeft plaatsgevonden.  De gegeven adviezen aan klanten zijn traceerbaar en reconstrueerbaar. Het ingevulde risicoprofiel is volledig.  | In verband met de zorgplicht is een goede vastlegging en archivering van belang. Ook in het kader van het toezicht is het van belang dat het dossier compleet en goed reconstrueerbaar is.  De Wet Bescherming Persoonsgegevens moet daarbij in acht worden genomen.  Dossiers betreffen een groot aantal product- en dienstencombinaties,  zowel fysiek als in elektronische systemen.  |
+
+####Competenties
+
+| Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
+|:---|:---|:---|:---|
+|  *Eindterm 3c*   De persoon demonstreert en/of bewijst dat hij de klant zelfstandig, succesvol en correct kan adviseren inzake zorg- en ziektekostenverzekeringen, waarbij het belang van de klant centraal wordt gesteld.  |
+| 3c.1 Een advies opstellen.  | Niet altijd kan een standaardoplossing worden geboden.  | De kandidaat formuleert zijn advies en motiveert dit.  Advies is op basis van de risicoanalyse en verzekeringsoplossingen.  Kandidaat maakt, indien nodig, een juiste cijfermatige analyse, bijvoorbeeld bij het bepalen van de hoogte van verzekerd bedrag, of vrijwillig eigen risico’s, eigen bijdrage(n).  Advies is passend en conform de polisvoorwaarden. De verzekeringen dekken de risico(’s) adequaat af en sluiten bij elkaar aan.  | --- |
+| 3c.2 Alternatieve verzekeringsoplossingen uitwerken bij afwijzing voor een ziektekostenverzekering  | bij afwijzing van het aangeboden risico door verzekeraars dan wel bij een mindere dekking dan gevraagd.  | Het alternatief dekt de risico’s voldoende af.  | --- |
+| 3c.3 Het advies presenteren.  | Klantgesprek.  Verschillend begripsniveau van klanten.  | De kandidaat bespreekt het advies en de motivering met de klant.  De kandidaat legt de offerte en eventuele afwijkende voorwaarden en/of premies duidelijk uit.  De kandidaat geeft passende voorbeelden bij voorwaarden van de gekozen verzekering(en). Het belang van de geadviseerde verzekeringen wordt de klant duidelijk.  Klant wordt overtuigd van de juistheid van de gekozen verzekering(en) en accepteert gepresenteerde oplossing.  De kandidaat beantwoordt eventuele vragen van de klant. Geeft correcte en duidelijke uitleg.  | Begrijpt de klant mij?  Volg ik niet uitsluitend de wens van de klant, maar geef ik daadwerkelijk advies op basis van mijn eigen inzicht en kunnen?  Heeft de klant nu goed inzicht in de financiële implicaties?  |
+
+### Taak  4  
+
+####Begeleiden bij het beheer van de zorg- en/of ziektekostenverzekering(en) c.q. de zorgcollectiviteit
+
+####Kennis
+
+| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
+|:---|:---|:---|
+|  *Eindterm 1j*   De persoon baseert zijn begeleiding bij het wijzigen van zorg- en ziektekostenverzekeringen op grondige en actuele kennis van de processen daarvan.  |
+| 1j.1  | De kandidaat kan de meest voorkomende wijzigingen opsommen, waaronder detentie, verblijf in het buitenland, veranderingen in gezinssamenstelling, gemoedsbezwaren.  | K  |
+| 1j.2  | De kandidaat kan de consequenties van de wijzigingen uitleggen.  | B  |
+| 1j.3  | De kandidaat kan het belang van tijdige melding van wijzigingen beschrijven.  | B  |
+|  *Eindterm 1k*   De persoon baseert zijn begeleiding bij het beëindigen met betrekking tot zorg- en ziektekostenverzekeringen op grondige en actuele kennis van relevante wetgeving en jurisprudentie  |
+| 1k.1  | De kandidaat kan de opzeggingsgronden met betrekking tot de Zvw van de zorgverzekeraar en de verzekeringnemer benoemen.  | K  |
+| 1k.2  | De kandidaat kan omschrijven wat de gevolgen zijn voor de verzekerde als er een premieschuld ontstaat.  | K  |
+| 1k.3  | De kandidaat kan de opzeggingsgronden van de verzekeringnemer en de zorgverzekeraar voor de ziektekostenverzekeringen benoemen.  | K  |
+| 1k.4  | De kandidaat kan de verzekeringnemer en de verzekerde de verplichtingen en mogelijkheden rondom een opzegging uitleggen  | B  |
+| 1k.5  | De kandidaat kan het begrip ‘onopzegbare polis’ beschrijven.  | K  |
+| 1k.6  | De kandidaat kan de situaties noemen, waarin een onopzegbare polis toch door de verzekeraar opgezegd kan worden.  | K  |
+| 1k.7  | De kandidaat kan opnoemen in welk geval een verzekering opzegbaar is door de verzekeraar.  | K  |
+| 1k.8  | De kandidaat kan opnoemen in welk geval een verzekering opzegbaar is door de verzekeringnemer.  | K  |
+| 1k.9  | De kandidaat kan opnoemen in welk geval een verzekeringnemer recht heeft op terugbetaling van de premie.  | K  |
+
+####Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 2f*   De persoon beschikt over het vermogen om overeenkomsten te wijzigen en te beëindigen door:  – De juiste gegevens en documenten voor het beëindigen van de zorg- en ziektekostenverzekering te verzenden aan de verzekeraar en deze na ontvangst en verwerking op juistheid te controleren en vast te leggen;  – De klant tijdig te informeren over de beslissingen van verzekeraars en deze als overige informatie vast te leggen;  – Het beëindigingstraject op adequate wijze vast te leggen in het klantdossier.  |
+| 2f.1 Gegevens uitwisselen met de verzekeraar  | De kandidaat verstuurt de juiste gegevens en documenten.  De juiste stukken zijn op het juiste moment bij de juiste mensen.  Kandidaat schat goed in dat een mutatie voldoende is  | --- |
+| 2f.2 Informatie m.b.t beëindigingtraject in het klantdossier vastleggen.  | Kandidaat slaat alle relevante informatie die wordt gebruikt in het beëindigingproces op een goede manier in het dossier op.  Klant kan adviseur inzicht vragen in het dossier, zodat hij kan nakijken hoe het beëindigingproces is verlopen.  | Het beëindigingsproces moet reproduceerbaar zijn en daar is dit dossier voor nodig. Kandidaat moet kunnen uitleggen hoe tot bepaalde stappen is gekomen.  |
+
+####Competenties
+
+| Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
+|:---|:---|:---|:---|
+|  *Eindterm 3d*   De persoon demonstreert en/of bewijst dat hij wijziging- en beëindigingsmomenten zelfstandig kan herkennen en draagt zorg dat de wijziging of beëindiging correct wordt afgehandeld.  |
+| 3d.1 verzekering wijzigen.  | Gedurende de looptijd van de verzekering.  | De kandidaat beoordeelt of mutatie op de juiste gronden gebeurt.  Kandidaat gebruikt de juiste informatie die van de klant wordt ontvangen, zodat klant altijd de juiste dekking heeft.  Klant krijgt tijdig en duidelijk te horen wat het gevolg van een wijziging voor zijn verzekering is.  De klant begrijpt het belang van een voorgestelde wijziging van de verzekering.  Kandidaat controleert of de gewijzigde gegevens in de polis en eventuele overige bescheiden van de verzekering juist zijn.  De klant heeft altijd de juiste dekking, betaalt de juiste premie en ontvangt bij schade een uitkering gebaseerd op de juiste gegevens.  | Zijn de wijzigingen belangrijk genoeg om een aanpassing van de verzekering te rechtvaardigen?  Is dit de beste oplossing voor deze specifieke klant?  |
+| 3d.2 Verzekering beëindigen  | --- | De kandidaat beoordeelt of beëindiging op de juiste gronden gebeurt.  Beëindiging is correct afgehandeld.  | Is de klant nog voldoende verzekerd?  |
+|  *Eindterm 3e*    *De persoon demonstreert en/of bewijst dat hij relaties kan beheren en/of aangaan, rekening houdend met zeer wisselende klantbehoeften, klantsituaties, wettelijke en organisatorische bevoegdheden.*   |
+| 3e.1  Klant- en/of productgegevens beheren en muteren  | Gegevens met betrekking tot financieren en verzekeren  | Houdt rekening met de klantbehoefte en -situatie.  Houdt rekening met wettelijke en organisatorische bevoegdheden. Verwijst tijdig door naar juiste persoon of afdeling ingeval werkzaamheden buiten bevoegdheden of vakbekwaamheid liggen.  Stelt risicoprofiel op of bij.  Is klantvriendelijkheid, resultaatgericht en professioneel.  Vraagt door om situaties helder te krijgen.  Onderkent fraudesignalen.  | Overschat ik mij zelf niet? Verwijs ik niet te gemakkelijk door?  |
+| 3e.2  Klanten actief informeren gedurende de relatie  | Verandering in de persoonlijke levenssfeer, zoals overlijden of echtscheiding  | Adviseert correct inzake beschikking over rekeningen en afhandeling van aanspraken. Verwijst de klant, indien nodig, naar de juiste persoon of afdeling door.  Houdt rekening met de emotie van de klant. Hanteert heftige emotie met empathie en strategie.  Onderkent juridische en fiscale context.  Plant de juiste acties.  Vraagt naleving van geplande acties  | Hoe reageerde ik op emoties? Heb ik begrip voor verschillende culturele gewoonten van de klanten?  Heb ik gehandeld binnen mijn bevoegdheden?  |
+
+### Taak  5  
+
+####Begeleiden bij de schadebehandeling/claim
+
+####Kennis
+
+| Nummer toetsterm  | Omschrijving toetsterm  | Kennisniveau  |
+|:---|:---|:---|
+|  *Eindterm 1l*   De persoon baseert zijn begeleiding bij de schadebehandeling/claim op grondige en actuele kennis over zorg- en ziektekosten.  |
+| 1l.1  | De kandidaat kan voor een schade onder een zorg- en ziektekostenverzekering aangeven of een dekkingsbeperking of -uitsluiting van toepassing is.  | B  |
+| 1l.2  | De kandidaat kan bij samenloop aan de klant uitleggen bij welke (soort) verzekeraar de schade het beste geclaimd kan worden.  | B  |
+| 1l.3  | De kandidaat kan uitleggen wat het belang is van de gegevens die worden opgevraagd voor de schademelding onder een zorg- en ziektekostenverzekering.  | B  |
+| 1l.4  | De kandidaat kan de hoogte en samenstelling verklaren van een uitkering onder een zorg- en ziektekostenverzekering.  | B  |
+| 1l.5  | De kandidaat kan de benodigde gegevens selecteren voor het melden van een schade onder een zorg- of ziektekostenverzekering en het belang daarvan aangeven.  | B  |
+| 1l.6  | De kandidaat kan uitleggen wat de gevolgen kunnen zijn voor de (hoogte van de) uitkering onder een zorg- en ziektekostenverzekering als er nog openstaande premies of een openstaand eigen risico zijn.  | B  |
+| 1l.7  | De kandidaat kan omschrijven wat de rechten en de plichten van een verzekerde en verkeringsnemer en verzekeraar zijn bij schade onder een zorg- en ziektekostenverzekering.  | B  |
+| 1l.8  | De kandidaat kan omschrijven wat de gevolgen kunnen zijn van het niet tijdig melden van een schade.  | B  |
+| 1l.9  | De kandidaat kan de procedure omschrijven ingeval er bij een schadegeval mogelijk sprake is van een aansprakelijke derde (regres).  | K  |
+| 1l.10  | De kandidaat kan het begrip verdragsaanspraken omschrijven.  | K  |
+| 1l.11  | De kandidaat kan uitleggen op welke wijze de reisverzekering al dan niet aansluit op de zorg- en/of ziektekostenverzekering.  | B  |
+| 1l.12  | De kandidaat kan met behulp van alle benodigde gegevens beoordelen of de door de verzekeraar vastgestelde vergoeding op een zorg- en ziektekostenverzekering juist is, rekening houdend met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | B  |
+| 1l.13  | De kandidaat kan voor een zorg- en ziektekostenverzekering uitleggen op welke wijze de afwikkeling van de zorgnota’s en -vergoedingen plaatsvindt, waarbij het onderscheid tussen natura- en restitutievergoedingen kan worden toegelicht.  | B  |
+
+####Vaardigheden
+
+| Vaardigheid (V)  De kandidaat kan:  | Norm/Resultaat/Prestatie-indicator  | Toelichting op vaktechnische of communicatieve aspecten van de vaardigheid of omstandigheden rond de vaardigheid  |
+|:---|:---|:---|
+|  *Eindterm 2g*   De persoon beschikt over het vermogen om een mogelijke aanspraak/vordering met betrekking tot zorg- en ziektekostenzekeringen te behandelen door:  • in overleg met de klant op correcte wijze een melding te doen;  • een melding op juistheid te controleren en op correcte wijze de melding en overige informatie te verzenden aan de verzekeraar;  • een door de verzekeraar ingenomen standpunt te beoordelen;  • de klant te informeren over de mogelijke aanspraak op vergoeding en de benodigde gegevens te verwerken;  • indien nodig een deskundige in te schakelen;  • eventuele gedekte en niet-gedekte aanspraken uit te leggen/toe te lichten aan de klant;  • de klant hierover te adviseren en diens belangen te bewaken.  |
+| 2g.1 De gegevens die nodig zijn om de schadebehandeling te interpreteren en te verwerken.  | De kandidaat gebruikt de juiste gegevens.  Beoordeelt of de declaratieformulieren op een zorg- en ziektekostenverzekering juist zijn ingevuld. Vergelijkt de gegevens met de informatie in het klantendossier.  Controleert of alle voor de schadebehandeling vereiste gegevens inclusief overige vereiste bescheiden aanwezig zijn om te worden verzonden aan de verzekeraar.  | Informatie kan voor meerdere uitleg vatbaar of tegenstrijdig zijn.  Er kunnen specifiek eisen aan de informatie worden gesteld.  Er kunnen specifieke eisen worden gesteld aan de wijze en het tijdstip van aanlevering van gegevens (incl. mogelijkheid tot machtiging).  |
+| 2g.2 De juistheid van het standpunt van de verzekeraar beoordelen en de mogelijke hoogte en samenstelling van de schade-afhandeling  | De kandidaat kan voor een zorg- en ziektekostenverzekering beargumenteren waarom en/of op welke punten de door de verzekeraar vastgestelde uitkering afwijkt van zijn eigen inschatting.  | Voor een eenvoudige schade. Een adviseur moet snel duidelijkheid kunnen geven, ook verzekeraars maken fouten.  Laten blijken van de toegevoegde waarde van de adviseur.  |
+| 2g.3 Met behulp van een oplossing het belang van aanlevering van de benodigde gegevens voor de declaratie onder een zorg- en ziektekostenverzekering aantonen.  | Klant begrijpt welke gegevens nodig zijn om de hoogte van een uitkering te kunnen bepalen en weet wanneer en op welke wijze gegevens moeten worden aangeleverd.  | --- |
+| 2g.4 Aantonen op welke wijze de vergoeding van een zorg- en ziektekostenverzekering plaatsvindt.  | Houdt rekening met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | --- |
+|  *Eindterm 2h*   De persoon beschikt over het vermogen om bij een mogelijke aanspraak/vordering het schadetraject vast te leggen in het dossier  |
+| 2h.1 Informatie in het klantdossier opslaan.  | Kandidaat slaat alle relevante informatie die wordt gebruikt in het schadebehandelingsproces op een goede manier in het dossier op.  Klant kan adviseur inzicht vragen in het dossier, zodat hij kan nakijken hoe het schadeproces is verlopen.  | Het schadeproces moet reproduceerbaar zijn en daar is dit dossier voor nodig. Kandidaat moet kunnen uitleggen hoe tot bepaalde stappen is gekomen.  |
+
+####Competenties
+
+| Competentie (C)  De kandidaat kan:  | Context  | Kritische kenmerken van de situatie  | Waardering door de kandidaat  |
+|:---|:---|:---|:---|
+|  *Eindterm 3f*   De persoon demonstreert en bewijst dat hij het schadebehandelingstraject met betrekking tot zorgverzekeringen zelfstandig, succesvol en correct kan uitvoeren, ook in gevallen van belangentegenstellingen.  |
+| 3f.1 De klant begeleiden bij het schadeproces.  | Ingeval van schade.  Vaak is er geen ervaring en is het belang van de uitkering groot.  | Klant is goed geïnformeerd, onder andere over hoe de schadebehandelingsprocedure werkt en de mate van dekking.  De juiste stukken zijn op het juiste moment bij de juiste mensen.  Klant krijgt het juiste inzicht in de wijze waarop wordt bepaald of er recht op een uitkering is.  Kandidaat handelt op de juiste wijze als verzekeraar beroep doet op polisvoorwaarden, of op wet- of regelgeving, of regresrecht.  Kandidaat handelt op de juiste wijze in geval van niet meewerken.  | Begrijpt de klant de werkwijze?  Wordt de klant op een goede manier op de hoogte gehouden van de voortgang van het schadeproces?  Heeft klant het gevoel dat verzekeraar voldoende recht doet aan zijn situatie en dat ik aan zijn kant sta?  Betaalt klant niet te veel zelf?  Gedrags- en kwaliteitscodes geven raamwerk met mijlpalen in het proces.  Begrijpt klant de mogelijkheden om bij onenigheid over oordeel van een deskundige actie te ondernemen?  Wordt de uitkering tijdig en juist gedaan?  |
+| 3f.2 Beoordelen of een schade onder de afgesloten zorg- en ziektekostenverzekering  (en) valt.  | Ingeval van schade.  | Kandidaat beoordeelt met behulp van de daarvoor benodigde gegevens op juiste wijze of  • dekking of een dekkingsbeperking of uitsluiting van toepassing is;  • de schade gedekt is;  • er sprake is van samenloop en wat de gevolgen daarvan zijn.  De kandidaat bepaalt of de gegeven schade gedekt is onder de zorg- of ziektekostenverzekering.  | Heb ik inzicht in het beleid van verzekeraars?  Onderken ik de Regresmogelijkheden?  |
+| 3f.3 Op basis van een voorbeeld aantonen op welke wijze de vergoeding van een zorg- en ziektekosten verzekering is samengesteld.  | Eenvoudige schade op een zorg- en ziektekostenverzekering  | • Aan de hand van alle benodigde gegevens.  • Houdt rekening met eventuele dekkingsbeperkingen, eigen bijdragen en eigen risico’s.  | --- |
 
 ### Bijlage  10  
 
