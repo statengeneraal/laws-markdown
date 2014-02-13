@@ -491,7 +491,7 @@ b. waarmee hernieuwbaar gas wordt geproduceerd uitsluitend door middel van vergi
 ### Artikel  42  
 
 1.  Subsidie als bedoeld in artikel 41, eerste lid, wordt voor een periode van 12 jaar, die niet eerder ingaat dan nadat de aanvraag om subsidie is gedaan, verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie, bedoeld in artikel 41, eerste lid, binnen 18 maanden na de datum van inwerkingtreding van de beschikking tot subsidieverlening opnieuw in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie, bedoeld in artikel 41, eerste lid, binnen 3 jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening opnieuw in gebruik.   
 
 ### §  4.4  
 
@@ -828,7 +828,7 @@ c. voor de productie van hernieuwbare elektriciteit en hernieuwbare warmte door 
 ### Artikel  77  
 
 1.  Subsidie als bedoeld in artikel 76, eerste lid, wordt voor een periode van 12 jaar, die niet eerder ingaat dan nadat de aanvraag om subsidie is gedaan, verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie, bedoeld in artikel 76, eerste lid, binnen 18 maanden na de datum van inwerkingtreding van de beschikking tot subsidieverlening opnieuw in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie, bedoeld in artikel 76, eerste lid, binnen 3 jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening opnieuw in gebruik.   
 
 ### §  5.10  
 

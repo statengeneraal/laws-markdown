@@ -2443,11 +2443,7 @@ Geen bijzonderheden.
 
 ####Besluitmoratorium
 
-Ten aanzien van Congo DRC geldt een besluit in de zin van artikel 43, aanhef en onder a, Vw voor vreemdelingen behorende tot de bevolkingsgroep Tutsi uit de gebieden in het oosten van Congo DRC: 
-
-* de provincies Noord- en Zuid-Kivu;  
-
-* de regio’s Haut- en Bas-Uélé.      
+Er geldt voor Congo DRC geen besluit in de zin van artikel 43, aanhef en onder a, Vw.    
 ### 10.2  
 
 ####Artikel 1F Vluchtelingenverdrag
@@ -2479,7 +2475,7 @@ In Congo DRC is uitsluitend sprake van een uitzonderlijke situatie in de zin van
 
 * de provincies Noord- en Zuid-Kivu;  
 
-* de regio’s Haut- en Bas-Uélé.   Voor vreemdelingen van Congolese nationaliteit, afkomstig uit de provincies Noord- en Zuid Kivu en regio’s Haut-en Bas Uélé, is een vestigingsalternatief aanwezig in Kinshasa, indien de vrees een gevolg is van de uitzonderlijke situatie als bedoeld in artikel 15c van de richtlijn 2004/83/EG (zie verder paragraaf C7/10.5.2 Vc). Voor vreemdelingen uit deze gebieden en behorende tot de bevolkingsgroep Tutsi kan niet worden vastgesteld of er een vestigingsalternatief is in de DRC (zie boven paragraaf C7/10.1 Vc).    
+* de regio’s Haut- en Bas-Uélé.   Voor vreemdelingen van Congolese nationaliteit, afkomstig uit de provincies Noord- en Zuid-Kivu en de regio’s Haut-en Bas Uélé, is een vestigingsalternatief aanwezig in Kinshasa, indien de vrees een gevolg is van de uitzonderlijke situatie als bedoeld in artikel 15c van de richtlijn 2004/83/EG (zie verder paragraaf C7/10.5.2 Vc).    
 ### 10.4.2  
 
 ####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
@@ -2500,14 +2496,14 @@ De IND heeft met betrekking tot DRC geen kwetsbare minderheidsgroepen aangewezen
 
 De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties: 
 
-* homoseksuelen;  
+* homoseksuelen, lesbiënnes, biseksuelen en transseksuelen (LHBT);  
 
 * vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging.      
 ### 10.5.2  
 
 ####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
-De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, indien de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees voor vervolging heeft. De IND neemt voor Congo DRC een vestigingsalternatief aan in Kinshasa voor de vreemdeling afkomstig uit een gebied waarvan in paragraaf C7/10.4.1 is vermeld dat sprake is van een uitzonderlijke situatie, indien de vrees van de vreemdeling niet gebaseerd is op de vreemdeling zelf betreffende omstandigheden, maar alleen een gevolg is van de uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc. De IND kan niet vaststellen of er voor vreemdelingen uit de provincies Noord- en Zuid-Kivu en de regio’s Haut- en Bas-Uélé en die behoren tot de bevolkingsgroep Tutsi een vestigingsalternatief in de DRC aanwezig is (zie boven paragraaf C7/10.1 Vc).     
+De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, indien de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees voor vervolging heeft. De IND neemt voor Congo DRC een vestigingsalternatief aan in Kinshasa voor de vreemdeling afkomstig uit een gebied waarvan in paragraaf C7/10.4.1 is vermeld dat sprake is van een uitzonderlijke situatie, indien de vrees van de vreemdeling niet gebaseerd is op de vreemdeling zelf betreffende omstandigheden, maar alleen een gevolg is van de uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc.     
 ### 10.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
@@ -2517,7 +2513,7 @@ In Congo DRC is adequate opvang in de zin van paragraaf B8/6 Vc.
 
 ####Vertrekmoratorium
 
-Ten aanzien van Congo DRC geldt een besluit in de zin van artikel 45, vierde lid, Vw voor vreemdelingen behorende tot de bevolkingsgroep Tutsi uit de gebieden in het oosten van Congo DRC:     
+Er geldt voor Congo DRC geen besluit in de zin van artikel 45, vierde lid, Vw.     
 ### 11  
 
 ####Het asielbeleid ten aanzien van Eritrea

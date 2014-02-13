@@ -3,7 +3,7 @@
 ##Uitvoeringsregeling Invorderingswet 1990
 
 De staatssecretaris van Financiën,  
-Gelet op de artikelen 5, 31, 35, vijfde lid, 43, 53, derde lid, en 62, eerste lid, van de Invorderingswet 1990 (Stb. 221), alsmede artikel 26 van de Invorderingswet 1990 j° artikel 300 van de gemeentewet (Stb. 1931, 89), artikel 29 van de Bevoegdhedenwet waterschappen (Stb. 1978, 285), artikel 13, veertiende lid, onderdeel a, van de Meststoffenwet (Stb. 1986, 598), artikel 61s, derde lid, onderdeel a, van de Wet algemene bepalingen milieuhygiëne (Stb. 1988, 133) en artikel 23, vierde lid, onderdeel a, van het Uitvoeringsbesluit verontreiniging rijkswateren (Stb. 1985, 377),
+Gelet op de [artikelen 5](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35, vijfde lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [43](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [53, derde lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [62, eerste lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) (Stb. 221), alsmede [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) j° [artikel 300 van de gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) (Stb. 1931, 89), artikel 29 van de Bevoegdhedenwet waterschappen (Stb. 1978, 285), [artikel 13, veertiende lid, onderdeel a, van de Meststoffenwet](../../../../../wet/meststoffenwet/BWBR0004054/README.md) (Stb. 1986, 598), artikel 61s, derde lid, onderdeel a, van de Wet algemene bepalingen milieuhygiëne (Stb. 1988, 133) en [artikel 23, vierde lid, onderdeel a, van het Uitvoeringsbesluit verontreiniging rijkswateren](../../../../../AMvB/uitvoeringsbesluit/verontreiniging/rijkswateren/BWBR0002729/README.md) (Stb. 1985, 377),
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -11,12 +11,12 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de artikelen 7a, 18, 19, 22bis, 25, 25a, 26, 31, 35, 42c, 44a, 44b, 53, 70b en 70ba van de Invorderingswet 1990 alsmede aan artikel 232e van de Provinciewet, artikel 255 van de Gemeentewet, artikel 144 van de Waterschapswet, artikel 8a.40 van de Wet luchtvaart en artikel 93a van de Gezondheids- en welzijnswet voor dieren in samenhang met artikel 26 van de Invorderingswet 1990.   
-2.  Deze regeling verstaat hierna onder wet: de Invorderingswet 1990.   
+1.  Deze regeling geeft uitvoering aan de artikelen [7a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [18](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [19](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [22bis](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [26](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [42c](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [53](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [70b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [70ba van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede aan [artikel 232e van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 255 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 144 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 8a.40 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 93a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+2.  Deze regeling verstaat hierna onder wet: de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 
 ### Artikel  1a  
 
-Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake een in deze regeling als voor bezwaar vatbaar aangeduide beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing, met dien verstande dat voor ‘inspecteur’ wordt gelezen ‘ontvanger’.  
+Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake een in deze regeling als voor bezwaar vatbaar aangeduide beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing, met dien verstande dat voor ‘inspecteur’ wordt gelezen ‘ontvanger’.  
 
 ### Artikel  1b  
 
@@ -34,7 +34,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ### Artikel  1cbis  
 
-Het bedrag, bedoeld in artikel 18, vijfde lid, van de wet, wordt gesteld op € 1500.  
+Het bedrag, bedoeld in [artikel 18, vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), wordt gesteld op € 1500.  
 
 ### Hoofdstuk  IA  
 
@@ -48,11 +48,11 @@ Het bedrag, bedoeld in artikel 18, vijfde lid, van de wet, wordt gesteld op €�
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. *overheidsvordering:* vordering als bedoeld in artikel 19, vierde lid, van de wet;  
+a. *overheidsvordering:* vordering als bedoeld in [artikel 19, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
 
 b. *Onze Minister:* Onze Minister van Financiën;  
 
-c. *bank:* bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
+c. *bank:* bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 d. *betaalrekening:* rekening bestemd voor het betalingsverkeer en ten aanzien waarvan opdrachten tot automatische incasso kunnen worden gedaan;  
 
@@ -68,7 +68,7 @@ g. *bestedingsruimte:* saldo op een rekening vermeerderd met het maximale debets
 
 ### Artikel  1cb  
 
-Onze Minister sluit een overeenkomst inzake de overheidsvordering met de bank waar de rekening wordt gehouden waarop de bedragen ingevorderd op grond van artikel 19, vierde lid, van de wet worden overgemaakt. De overeenkomst bevat in ieder geval de bepalingen die zijn opgenomen in de bijlage bij deze regeling.  
+Onze Minister sluit een overeenkomst inzake de overheidsvordering met de bank waar de rekening wordt gehouden waarop de bedragen ingevorderd op grond van [artikel 19, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden overgemaakt. De overeenkomst bevat in ieder geval de bepalingen die zijn opgenomen in de bijlage bij deze regeling.  
 
 ### Afdeling  3  
 
@@ -80,7 +80,7 @@ De overheidsvordering wordt gedaan op een betaalrekening die op naam of mede op 
 
 ### Artikel  1cd  
 
-De beschikking, bedoeld in artikel 19, vijfde lid, van de wet, wordt elektronisch bekend gemaakt aan de bank, waar de belastingschuldige een betaalrekening houdt. De overheidsvordering wordt uitsluitend uitgevoerd volgens de Nederlandse systematiek van automatische incasso.  
+De beschikking, bedoeld in [artikel 19, vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), wordt elektronisch bekend gemaakt aan de bank, waar de belastingschuldige een betaalrekening houdt. De overheidsvordering wordt uitsluitend uitgevoerd volgens de Nederlandse systematiek van automatische incasso.  
 
 ### Artikel  1ce  
 
@@ -112,11 +112,11 @@ De ontvanger informeert de belastingschuldige schriftelijk over de op zijn betaa
 
 ### Artikel  1ci  
 
-De mededeling, bedoeld in artikel 22bis, tweede lid, van de wet, geschiedt door het invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het per post aan de ontvanger toezenden van het ingevulde modelformulier.  
+De mededeling, bedoeld in [artikel 22bis, tweede lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), geschiedt door het invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het per post aan de ontvanger toezenden van het ingevulde modelformulier.  
 
 ### Artikel  1cj  
 
-De drempel, bedoeld in artikel 22bis, zeventiende lid, van de wet, bedraagt € 10 000.  
+De drempel, bedoeld in [artikel 22bis, zeventiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bedraagt € 10 000.  
 
 ### Hoofdstuk  IB  
 
@@ -128,9 +128,9 @@ De drempel, bedoeld in artikel 22bis, zeventiende lid, van de wet, bedraagt €�
 
 ### Artikel  1d  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in artikel 25, vierde lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vierde lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
 2.  Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn 12 maanden zijn verstreken, dan wel, ingeval de uitsteltermijn is verlengd, die verlengde termijn is verstreken.   
-3.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, vierde lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+3.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, vierde lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Afdeling  2  
 
@@ -138,21 +138,21 @@ De drempel, bedoeld in artikel 22bis, zeventiende lid, van de wet, bedraagt €�
 
 ### Artikel  1e  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in artikel 25, vijfde lid, eerste volzin, van de wet, mits voldoende zekerheid is gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits voldoende zekerheid is gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden.   
 2.  Voor het verlenen van uitstel van betaling als bedoeld in het eerste lid is geen schriftelijk verzoek nodig en blijft zekerheidstelling achterwege voorzover de verschuldigde belasting betrekking heeft op: 
 
-a. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in artikel 1.7 van de Wet inkomstenbelasting 2001 die zijn ondergebracht bij een in Nederland gevestigde verzekeraar die bevoegd is het directe verzekeringsbedrijf, bedoeld in de Wet op het financieel toezicht, uit te oefenen en die de lijfrente of pensioenverplichting rekent tot het binnenlandse ondernemingsvermogen, dan wel zijn ondergebracht bij een in Nederland gevestigd lichaam dat ingevolge artikel 5, eerste lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969 is vrijgesteld van de vennootschapsbelasting;  
+a. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) die zijn ondergebracht bij een in Nederland gevestigde verzekeraar die bevoegd is het directe verzekeringsbedrijf, bedoeld in de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), uit te oefenen en die de lijfrente of pensioenverplichting rekent tot het binnenlandse ondernemingsvermogen, dan wel zijn ondergebracht bij een in Nederland gevestigd lichaam dat ingevolge [artikel 5, eerste lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) is vrijgesteld van de vennootschapsbelasting;  
 
-b. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in artikel 1.7 van de Wet inkomstenbelasting 2001 die zijn ondergebracht bij een verzekeraar die is gevestigd in een andere lidstaat van de Europese Unie, in Noorwegen, in IJsland of in Liechtenstein en die in die staat bevoegd is tot het uitoefenen van het directe verzekeringsbedrijf*.*     
+b. aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) die zijn ondergebracht bij een verzekeraar die is gevestigd in een andere lidstaat van de Europese Unie, in Noorwegen, in IJsland of in Liechtenstein en die in die staat bevoegd is tot het uitoefenen van het directe verzekeringsbedrijf*.*     
 3.  Het uitstel eindigt uiterlijk op de eerste dag van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft.   
-4.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, vijfde lid, vierde volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
-5.  De ontvanger beëindigt het uitstel voorzover zich met betrekking tot aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in artikel 1.7 van de Wet inkomstenbelasting 2001 waarop de verschuldigde belasting, bedoeld in artikel 25, vijfde lid, eerste volzin, van de wet betrekking heeft, een omstandigheid voordoet als bedoeld in artikel 25, vijfde lid, vierde volzin, van de wet.   
+4.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+5.  De ontvanger beëindigt het uitstel voorzover zich met betrekking tot aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waarop de verschuldigde belasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) betrekking heeft, een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 
 ### Artikel  1f  
 
-1.  Indien de ontvanger het op de voet van artikel 1e verleende uitstel van betaling beëindigt omdat zich een in artikel 26, derde lid, van de wet bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als in genoemd derde lid bedoeld.   
+1.  Indien de ontvanger het op de voet van artikel 1e verleende uitstel van betaling beëindigt omdat zich een in [artikel 26, derde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als in genoemd derde lid bedoeld.   
 2.  In de gevallen waarin op de voet van artikel 1e, derde lid, het uitstel van betaling is geëindigd, verleent de ontvanger de belastingschuldige op diens schriftelijk verzoek kwijtschelding van belasting tot een bedrag gelijk aan het dan nog openstaande bedrag.   
-3.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in artikel 26, derde lid, eerste volzin, onderdeel a, van de wet geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in artikel 25, vijfde lid, vierde volzin, van de wet, in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
+3.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in [artikel 26, derde lid, eerste volzin, onderdeel a, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Afdeling  3  
 
@@ -166,55 +166,55 @@ Vervallen per 01-01-2014
 
 ### Artikel  2  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in artikel 25, achtste lid, eerste volzin, van de wet, mits voldoende zekerheid is gesteld en is ingestemd met door de ontvanger gestelde voorwaarden. Het schriftelijk verzoek en de zekerheidstelling blijven achterwege: 
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, achtste lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits voldoende zekerheid is gesteld en is ingestemd met door de ontvanger gestelde voorwaarden. Het schriftelijk verzoek en de zekerheidstelling blijven achterwege: 
 
 a. in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie;  
 
-b. in geval van geconserveerd inkomen als bedoeld in artikel 2.8, vierde, vijfde, zesde of zevende lid, van de Wet inkomstenbelasting 2001, waarbij de verkrijger van de aandelen of winstbewijzen een natuurlijk persoon is die woont in een andere lidstaat van de Europese Unie;  
+b. in geval van geconserveerd inkomen als bedoeld in [artikel 2.8, vierde, vijfde, zesde of zevende lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), waarbij de verkrijger van de aandelen of winstbewijzen een natuurlijk persoon is die woont in een andere lidstaat van de Europese Unie;  
 
-c. ingeval de belastingschuldige woont in een andere lidstaat van de Europese Unie en de inkomstenbelasting is verschuldigd door de toepassing van artikel 7.5, vierde, vijfde, onderscheidenlijk zevende lid, van de Wet inkomstenbelasting 2001 waarbij de verwervende of verkrijgende vennootschap in een andere lidstaat van de Europese Unie is gevestigd, onderscheidenlijk de verplaatsing van de werkelijke leiding geschiedt naar een andere lidstaat van de Europese Unie.     
-2.  In afwijking in zoverre van het eerste lid wordt voor belastingaanslagen opgelegd met toepassing van artikel 2.8, zevende lid, van de Wet inkomstenbelasting 2001 uitstel van betaling verleend op schriftelijk verzoek van de belastingschuldige en de verkrijger gezamenlijk.   
+c. ingeval de belastingschuldige woont in een andere lidstaat van de Europese Unie en de inkomstenbelasting is verschuldigd door de toepassing van [artikel 7.5, vierde, vijfde, onderscheidenlijk zevende lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) waarbij de verwervende of verkrijgende vennootschap in een andere lidstaat van de Europese Unie is gevestigd, onderscheidenlijk de verplaatsing van de werkelijke leiding geschiedt naar een andere lidstaat van de Europese Unie.     
+2.  In afwijking in zoverre van het eerste lid wordt voor belastingaanslagen opgelegd met toepassing van [artikel 2.8, zevende lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) uitstel van betaling verleend op schriftelijk verzoek van de belastingschuldige en de verkrijger gezamenlijk.   
 3.  Het uitstel eindigt uiterlijk op de eerste dag van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft.   
-4.  Ingeval aandelen of winstbewijzen waarvan de waarde ten grondslag ligt aan de in het eerste lid bedoelde belasting worden vervreemd in de zin van artikel 4.12 of 4.16, eerste lid, onderdelen a tot en met g en i, en tweede tot en met vierde lid, van de Wet inkomstenbelasting 2001, beëindigt de ontvanger het uitstel voor zover dit aan deze aandelen of winstbewijzen kan worden toegerekend. In geval van een teruggaaf van wat op aandelen of bewijzen van deelgerechtigdheid in een fonds voor gemene rekening is gestort dan wel van wat door houders van winstbewijzen is gestort of ingelegd, beëindigt de ontvanger het uitstel voor zover dit aan deze teruggaaf kan worden toegerekend. Het uitstel wordt voorts door de ontvanger beëindigd in een situatie als bedoeld in artikel 25, achtste lid, onderdeel b, van de wet.   
-5.  Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in het kader van een aandelenfusie als bedoeld in artikel 3.55 van de Wet inkomstenbelasting 2001, een splitsing als bedoeld in artikel 3.56 van die wet of een fusie als bedoeld in artikel 3.57 van die wet, het uitstel worden voortgezet, in welk geval de aandelen in of de winstbewijzen van de verkrijgende vennootschap voortaan worden geacht aan het verleende uitstel ten grondslag te liggen.   
-6.  Op schriftelijk verzoek van de belanghebbende kan in geval van een vervreemding in de zin van artikel 4.16, eerste lid, onderdelen e of f, van de Wet inkomstenbelasting 2001 of wegens een verdeling van een nalatenschap of een huwelijksgemeenschap binnen twee jaren na het overlijden van de erflater onderscheidenlijk na de ontbinding van de huwelijksgemeenschap het uitstel worden voortgezet. Ingeval de belastingaanslag inkomstenbelasting betreft ter zake van geconserveerd inkomen door de toepassing van artikel 4.16, eerste lid, onderdeel h, van de Wet inkomstenbelasting 2001 kan het uitstel van betaling echter niet worden voortgezet voor zover het uitstel kan worden toegerekend aan het vervreemdingsvoordeel dat ingevolge artikel 4.17a van de Wet inkomstenbelasting 2001 in aanmerking zou zijn genomen wanneer zowel de belastingschuldige als de verkrijger in Nederland zouden hebben gewoond ten tijde van de overgang.   
-7.  Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in de zin van artikel 4.16, eerste lid, onderdeel g, van de Wet inkomstenbelasting 2001 het uitstel worden voortgezet voor het gedeelte dat betrekking heeft op de nog tot het vermogen van de belastingschuldige behorende aandelen of winstbewijzen.   
-8.  Ingeval aandelen of winstbewijzen die aan het uitstel ten grondslag liggen worden geschonken kan op gezamenlijk schriftelijk verzoek van de belastingschuldige en de verkrijger van die aandelen of winstbewijzen, het uitstel van betaling worden voortgezet voor het gedeelte dat betrekking heeft op die aandelen of winstbewijzen, mits de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de schenking in dienstbetrekking is van de vennootschap waarop de aandelen of winstbewijzen direct of indirect betrekking hebben. Ingeval de belastingaanslag inkomstenbelasting betreft ter zake van geconserveerd inkomen door de toepassing van artikel 4.16, eerste lid, onderdeel h, van de Wet inkomstenbelasting 2001 kan het uitstel van betaling echter niet worden voortgezet voor zover het uitstel kan worden toegerekend aan het vervreemdingsvoordeel dat ingevolge artikel 4.17c van de Wet inkomstenbelasting 2001 in aanmerking zou zijn genomen wanneer zowel de belastingschuldige als de verkrijger in Nederland zou hebben gewoond ten tijde van de schenking.   
-9.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, achtste lid, onderdelen a, b of c, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+4.  Ingeval aandelen of winstbewijzen waarvan de waarde ten grondslag ligt aan de in het eerste lid bedoelde belasting worden vervreemd in de zin van [artikel 4.12](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of [4.16, eerste lid, onderdelen a tot en met g en i, en tweede tot en met vierde lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), beëindigt de ontvanger het uitstel voor zover dit aan deze aandelen of winstbewijzen kan worden toegerekend. In geval van een teruggaaf van wat op aandelen of bewijzen van deelgerechtigdheid in een fonds voor gemene rekening is gestort dan wel van wat door houders van winstbewijzen is gestort of ingelegd, beëindigt de ontvanger het uitstel voor zover dit aan deze teruggaaf kan worden toegerekend. Het uitstel wordt voorts door de ontvanger beëindigd in een situatie als bedoeld in [artikel 25, achtste lid, onderdeel b, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+5.  Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), een splitsing als bedoeld in [artikel 3.56 van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of een fusie als bedoeld in [artikel 3.57 van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), het uitstel worden voortgezet, in welk geval de aandelen in of de winstbewijzen van de verkrijgende vennootschap voortaan worden geacht aan het verleende uitstel ten grondslag te liggen.   
+6.  Op schriftelijk verzoek van de belanghebbende kan in geval van een vervreemding in de zin van [artikel 4.16, eerste lid, onderdelen e of f, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of wegens een verdeling van een nalatenschap of een huwelijksgemeenschap binnen twee jaren na het overlijden van de erflater onderscheidenlijk na de ontbinding van de huwelijksgemeenschap het uitstel worden voortgezet. Ingeval de belastingaanslag inkomstenbelasting betreft ter zake van geconserveerd inkomen door de toepassing van artikel 4.16, eerste lid, onderdeel h, van de Wet inkomstenbelasting 2001 kan het uitstel van betaling echter niet worden voortgezet voor zover het uitstel kan worden toegerekend aan het vervreemdingsvoordeel dat ingevolge [artikel 4.17a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking zou zijn genomen wanneer zowel de belastingschuldige als de verkrijger in Nederland zouden hebben gewoond ten tijde van de overgang.   
+7.  Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in de zin van [artikel 4.16, eerste lid, onderdeel g, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) het uitstel worden voortgezet voor het gedeelte dat betrekking heeft op de nog tot het vermogen van de belastingschuldige behorende aandelen of winstbewijzen.   
+8.  Ingeval aandelen of winstbewijzen die aan het uitstel ten grondslag liggen worden geschonken kan op gezamenlijk schriftelijk verzoek van de belastingschuldige en de verkrijger van die aandelen of winstbewijzen, het uitstel van betaling worden voortgezet voor het gedeelte dat betrekking heeft op die aandelen of winstbewijzen, mits de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de schenking in dienstbetrekking is van de vennootschap waarop de aandelen of winstbewijzen direct of indirect betrekking hebben. Ingeval de belastingaanslag inkomstenbelasting betreft ter zake van geconserveerd inkomen door de toepassing van [artikel 4.16, eerste lid, onderdeel h, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) kan het uitstel van betaling echter niet worden voortgezet voor zover het uitstel kan worden toegerekend aan het vervreemdingsvoordeel dat ingevolge [artikel 4.17c van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in aanmerking zou zijn genomen wanneer zowel de belastingschuldige als de verkrijger in Nederland zou hebben gewoond ten tijde van de schenking.   
+9.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, achtste lid, onderdelen a, b of c, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 10.  Voor de toepassing van dit artikel wordt onder een lidstaat van de Europese Unie mede verstaan: Noorwegen, IJsland en Liechtenstein.   
 
 ### Artikel  3  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in artikel 25, negende lid, van de wet en tot een omvang als bij dat artikel alsmede krachtens dat artikel in de navolgende leden is bepaald, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
-2.  Het uitstel wordt verleend voor het bedrag aan belasting dat kan worden toegerekend aan het voordeel wegens de vervreemding, bedoeld in artikel 25, negende lid, van de wet, mits dat bedrag € 2269 te boven gaat.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, negende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en tot een omvang als bij [dat artikel](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede krachtens dat artikel in de navolgende leden is bepaald, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+2.  Het uitstel wordt verleend voor het bedrag aan belasting dat kan worden toegerekend aan het voordeel wegens de vervreemding, bedoeld in [artikel 25, negende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits dat bedrag € 2269 te boven gaat.   
 3.  Het uitstel houdt in dat de verschuldigde belasting kan worden voldaan in tien gelijke jaarlijkse termijnen, waarvan de eerste termijn zes weken na de dagtekening van het aanslagbiljet vervalt en elk van de volgende termijnen telkens een jaar later.   
 4.  De ontvanger vermindert het bedrag waarvoor uitstel van betaling is verleend: 
 
 a. ingeval in een kalenderjaar aflossingen op de schuldig gebleven tegenprestatie plaatsvinden welke gezamenlijk uitgaan boven het dubbele van de belasting die in dat jaar op de voet van het derde lid moet worden voldaan: voor de helft van hetgeen er boven uitgaat;  
 
-b. ingeval aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen worden vervreemd in de zin van artikel 25, tiende lid, van de wet: voor zover het uitstel aan deze aandelen of winstbewijzen kan worden toegerekend;  
+b. ingeval aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen worden vervreemd in de zin van [artikel 25, tiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md): voor zover het uitstel aan deze aandelen of winstbewijzen kan worden toegerekend;  
 
-c. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen reguliere voordelen - als bedoeld in de Wet inkomstenbelasting 2001 - worden genoten welke uitgaan boven het dubbele van de belasting die in dat jaar op de voet van het derde lid moet worden voldaan: voor de helft van hetgeen er boven uitgaat.     
+c. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen reguliere voordelen - als bedoeld in de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) - worden genoten welke uitgaan boven het dubbele van de belasting die in dat jaar op de voet van het derde lid moet worden voldaan: voor de helft van hetgeen er boven uitgaat.     
 5.  Voor zover een vervreemdingsvoordeel of een regulier voordeel binnen zes maanden wordt aangewend voor een aflossing op de schuldig gebleven tegenprestatie, wordt alleen de aflossing in aanmerking genomen voor de toepassing van het vierde lid.   
 6.  Ingeval zich een omstandigheid voordoet als bedoeld in het vierde lid stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
-7.  Voor de toepassing van artikel 25, negende lid, van de wet worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.   
+7.  Voor de toepassing van [artikel 25, negende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.   
 
 ### Artikel  3a  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in artikel 25, elfde lid, van de wet en tot een omvang als bij dat artikel alsmede krachtens dat artikel in de navolgende leden is bepaald.   
-2.  Het uitstel wordt verleend voor het bedrag aan inkomstenbelasting, bedoeld in artikel 25, elfde lid, eerste volzin, mits dat bedrag € 2269 te boven gaat.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, elfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en tot een omvang als bij dat artikel alsmede krachtens dat artikel in de navolgende leden is bepaald.   
+2.  Het uitstel wordt verleend voor het bedrag aan inkomstenbelasting, bedoeld in [artikel 25, elfde lid, eerste volzin](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits dat bedrag € 2269 te boven gaat.   
 3.  Het uitstel houdt in dat de verschuldigde belasting kan worden voldaan in tien gelijke jaarlijkse termijnen waarvan de eerste termijn zes weken na de dagtekening van het aanslagbiljet vervalt en elk van de volgende termijnen telkens een jaar later.   
 4.  De ontvanger vermindert het bedrag waarvoor uitstel van betaling is verleend: 
 
-a. ingeval aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen worden vervreemd in de zin van artikel 25, tiende lid, van de wet: voor zover het uitstel aan deze aandelen of winstbewijzen kan worden toegerekend;  
+a. ingeval aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen worden vervreemd in de zin van [artikel 25, tiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md): voor zover het uitstel aan deze aandelen of winstbewijzen kan worden toegerekend;  
 
-b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen reguliere voordelen als bedoeld in de Wet inkomstenbelasting 2001 worden genoten welke uitgaan boven het dubbele van de belasting die in dat jaar op de voet van het derde lid moet worden voldaan: voor de helft van hetgeen er boven uitgaat.     
+b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het uitstel ten grondslag liggen reguliere voordelen als bedoeld in de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden genoten welke uitgaan boven het dubbele van de belasting die in dat jaar op de voet van het derde lid moet worden voldaan: voor de helft van hetgeen er boven uitgaat.     
 5.  Ingeval zich een omstandigheid voordoet als bedoeld in het vierde lid stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Artikel  4  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek kwijtschelding van de door hem verschuldigde inkomstenbelasting in de gevallen als bedoeld in artikel 26, tweede, vierde of vijfde lid, van de wet en tot een omvang als in die leden bedoeld, met dien verstande dat het bedrag van de kwijtschelding in totaal niet meer kan bedragen dan het bedrag van de belasting waarvoor ter zake van het aandeel of winstbewijs uitstel van betaling is verleend.   
-2.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in artikel 26, vijfde lid, eerste volzin, onderdeel c, van de wet geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in artikel 25, achtste lid, onderdeel a, van de wet, in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek kwijtschelding van de door hem verschuldigde inkomstenbelasting in de gevallen als bedoeld in [artikel 26, tweede, vierde of vijfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en tot een omvang als in die leden bedoeld, met dien verstande dat het bedrag van de kwijtschelding in totaal niet meer kan bedragen dan het bedrag van de belasting waarvoor ter zake van het aandeel of winstbewijs uitstel van betaling is verleend.   
+2.  In afwijking van het eerste lid is voor kwijtschelding als bedoeld in [artikel 26, vijfde lid, eerste volzin, onderdeel c, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid voordoet als bedoeld in [artikel 25, achtste lid, onderdeel a, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Afdeling  5  
 
@@ -222,10 +222,10 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  4a  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in artikel 25, veertiende lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in [artikel 25, veertiende lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
 2.  Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tien jaar zijn verstreken.   
-3.  In geval van een vervreemding waarbij de koper de overdrachtsprijs schuldig is gebleven als bedoeld in artikel 25, veertiende lid, eerste volzin, onderdeel b, van de wet en er een aflossing plaatsvindt, vermindert de ontvanger het bedrag waarvoor uitstel van betaling is verleend met de helft van die aflossing.   
-4.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, veertiende lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+3.  In geval van een vervreemding waarbij de koper de overdrachtsprijs schuldig is gebleven als bedoeld in [artikel 25, veertiende lid, eerste volzin, onderdeel b, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en er een aflossing plaatsvindt, vermindert de ontvanger het bedrag waarvoor uitstel van betaling is verleend met de helft van die aflossing.   
+4.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, veertiende lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Afdeling  6  
 
@@ -233,9 +233,9 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  5  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen inkomstenbelasting als bedoeld in artikel 25, zestiende lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen inkomstenbelasting als bedoeld in [artikel 25, zestiende lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
 2.  Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tien jaar zijn verstreken.   
-3.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, zestiende lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+3.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, zestiende lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Afdeling  7  
 
@@ -243,7 +243,7 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  5a  
 
-1.  De ontvanger verleent de erfgenamen van de belastingschuldige op hun schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in artikel 25, zeventiende lid, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+1.  De ontvanger verleent de erfgenamen van de belastingschuldige op hun schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, zeventiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
 2.  Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tien jaar zijn verstreken.   
 
 ### Afdeling  8  
@@ -252,8 +252,8 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  5b  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting in de gevallen bedoeld in artikel 25, achttiende lid, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden en een afschrift is overgelegd van de overeenkomst waarbij de onderneming of een gedeelte van de onderneming is overgedragen aan de natuurlijk persoon die de overdrachtsprijs geheel of gedeeltelijk schuldig is gebleven. Uit deze overeenkomst moet blijken welk deel van de overdrachtsprijs schuldig is gebleven, wat de duur van de overeengekomen aflossingsperiode is en in welke termijnen de overdrachtsprijs wordt voldaan.   
-2.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, negentiende lid, tweede volzin, onderdelen a of b, of derde volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting in de gevallen bedoeld in [artikel 25, achttiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden en een afschrift is overgelegd van de overeenkomst waarbij de onderneming of een gedeelte van de onderneming is overgedragen aan de natuurlijk persoon die de overdrachtsprijs geheel of gedeeltelijk schuldig is gebleven. Uit deze overeenkomst moet blijken welk deel van de overdrachtsprijs schuldig is gebleven, wat de duur van de overeengekomen aflossingsperiode is en in welke termijnen de overdrachtsprijs wordt voldaan.   
+2.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, negentiende lid, tweede volzin, onderdelen a of b, of derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 3.  Ingeval de overdrachtsprijs geheel of gedeeltelijk versneld wordt afgelost, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis alsmede van het nog niet ontvangen deel van de overdrachtsprijs.   
 
 ### Hoofdstuk  IC  
@@ -266,24 +266,24 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  6a  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de schenk- of erfbelasting, bedoeld in artikel 25, twaalfde lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
-2.  De termijn van tien jaar, genoemd in artikel 25, twaalfde lid, van de wet, vangt aan op de dag na het einde van het kalenderjaar waarin de verkrijging heeft plaatsgevonden.   
-3.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, twaalfde lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de schenk- of erfbelasting, bedoeld in [artikel 25, twaalfde lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+2.  De termijn van tien jaar, genoemd in [artikel 25, twaalfde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), vangt aan op de dag na het einde van het kalenderjaar waarin de verkrijging heeft plaatsgevonden.   
+3.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, twaalfde lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Artikel  6b  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen schenk- of erfbelasting als bedoeld in artikel 25, dertiende lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
-2.  De termijn van tien jaar, genoemd in artikel 25, dertiende lid, van de wet, vangt aan op de dag na het einde van het kalenderjaar waarin de verkrijging heeft plaatsgevonden.   
-3.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, dertiende lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen schenk- of erfbelasting als bedoeld in [artikel 25, dertiende lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+2.  De termijn van tien jaar, genoemd in [artikel 25, dertiende lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), vangt aan op de dag na het einde van het kalenderjaar waarin de verkrijging heeft plaatsgevonden.   
+3.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, dertiende lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Afdeling  2  
 
-####Uitstel van betaling van erfbelasting ter zake van de verkrijging van de blote eigendom van een woning, bedoeld in artikel 35 g van de Succesiewet 1956
+####Uitstel van betaling van erfbelasting ter zake van de verkrijging van de blote eigendom van een woning, bedoeld in [artikel 35 g van de Succesiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md)
 
 ### Artikel  6c  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de erfbelasting, bedoeld in artikel 25, twintigste lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
-2.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, twintigste lid, derde volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de erfbelasting, bedoeld in [artikel 25, twintigste lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.   
+2.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, twintigste lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Hoofdstuk  ID  
 
@@ -291,10 +291,10 @@ b. ingeval in een kalenderjaar uit de aandelen of winstbewijzen welke aan het ui
 
 ### Artikel  6d  
 
-1.  De ontvanger verleent de belastingschuldige die een schriftelijk verzoek doet als bedoeld in artikel 25a, vierde lid, van de wet, uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen vennootschapsbelasting of inkomstenbelasting als bedoeld in artikel 25a, eerste lid, van de wet. Het uitstel wordt verleend onder de voorwaarde dat bij het verzoek om uitstel van betaling aan de hand van schriftelijke bescheiden het bedrag aannemelijk wordt gemaakt van de voordelen, bedoeld in artikel 25a, eerste lid, van de wet.   
-2.  Gedurende de looptijd van het uitstel dient de belastingschuldige jaarlijks aan de hand van schriftelijke bescheiden aannemelijk te maken dat de voordelen, bedoeld in artikel 25a, eerste lid, van de wet, in dat jaar niet in aanmerking zouden zijn genomen indien hij belastingplichtig in Nederland zou zijn gebleven.   
-3.  Het tweede lid is niet van toepassing indien de belastingschuldige een verzoek doet als bedoeld in artikel 25a, derde lid, van de wet.   
-4.  Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25a, tweede lid, onderdeel a, van de wet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige die een schriftelijk verzoek doet als bedoeld in [artikel 25a, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen vennootschapsbelasting of inkomstenbelasting als bedoeld in artikel 25a, eerste lid, van de wet. Het uitstel wordt verleend onder de voorwaarde dat bij het verzoek om uitstel van betaling aan de hand van schriftelijke bescheiden het bedrag aannemelijk wordt gemaakt van de voordelen, bedoeld in artikel 25a, eerste lid, van de wet.   
+2.  Gedurende de looptijd van het uitstel dient de belastingschuldige jaarlijks aan de hand van schriftelijke bescheiden aannemelijk te maken dat de voordelen, bedoeld in [artikel 25a, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), in dat jaar niet in aanmerking zouden zijn genomen indien hij belastingplichtig in Nederland zou zijn gebleven.   
+3.  Het tweede lid is niet van toepassing indien de belastingschuldige een verzoek doet als bedoeld in [artikel 25a, derde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+4.  Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25a, tweede lid, onderdeel a, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Hoofdstuk  II  
 
@@ -317,16 +317,16 @@ a. voor zover het feit dat een belastingaanslag niet kan worden voldaan aan de b
 
 b. indien de belastingschuldige heeft nagelaten de vereiste aangifte in te dienen;  
 
-c. indien de belastingschuldige in surseance van betaling of in staat van faillissement verkeert, tenzij sprake is van een akkoord als bedoeld in de artikelen 138, en 252 van de Faillissementswet;  
+c. indien de belastingschuldige in surseance van betaling of in staat van faillissement verkeert, tenzij sprake is van een akkoord als bedoeld in de [artikelen 138](../../../../../wet/faillissementswet/BWBR0001860/README.md), en [252 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md);  
 
-d. indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, tenzij sprake is van een akkoord als bedoeld in artikel 329 van de Faillissementswet, dan wel van een belastingaanslag voor zover die materieel verschuldigd is geworden op een tijdstip of over een tijdvak dat is gelegen na de uitspraak waarbij de schuldsaneringsregeling van toepassing is verklaard en niet kan worden aangemerkt als boedelschuld;  
+d. indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, tenzij sprake is van een akkoord als bedoeld in [artikel 329 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md), dan wel van een belastingaanslag voor zover die materieel verschuldigd is geworden op een tijdstip of over een tijdvak dat is gelegen na de uitspraak waarbij de schuldsaneringsregeling van toepassing is verklaard en niet kan worden aangemerkt als boedelschuld;  
 
 e. indien de belastingschuldige een bedrijf of zelfstandig een beroep uitoefent en ook na totstandkoming van een akkoord, bedoeld in artikel 21, geen reële vooruitzichten zouden bestaan voor de voortzetting van het bedrijf of beroep;  
 
 f. voor een voorlopige aanslag die nog niet is gevolgd door de aanslag;  
 
 g. indien niet aan eventueel door de ontvanger gestelde voorwaarden is voldaan.     
-2.  Geen kwijtschelding wordt verleend voor belastingaanslagen motorrijtuigenbelasting, voor belastingaanslagen belasting van personenauto’s en motorrijwielen, voor belastingaanslagen belasting zware motorrijtuigen, voor belastingaanslagen welke zijn opgelegd wegens verschuldigde rente ingevolge de Ruilverkavelingswet 1954, de Reconstructiewet Midden-Delfland of de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën, alsmede voor belastingaanslagen welke zijn opgelegd wegens verschuldigde kosten ingevolge de Wet inrichting landelijk gebied of de Reconstructiewet concentratiegebieden.   
+2.  Geen kwijtschelding wordt verleend voor belastingaanslagen motorrijtuigenbelasting, voor belastingaanslagen belasting van personenauto’s en motorrijwielen, voor belastingaanslagen belasting zware motorrijtuigen, voor belastingaanslagen welke zijn opgelegd wegens verschuldigde rente ingevolge de Ruilverkavelingswet 1954, de [Reconstructiewet Midden-Delfland](../../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md) of de [Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), alsmede voor belastingaanslagen welke zijn opgelegd wegens verschuldigde kosten ingevolge de [Wet inrichting landelijk gebied](../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) of de [Reconstructiewet concentratiegebieden](../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).   
 
 ### Artikel  9  
 
@@ -355,7 +355,7 @@ b. het openstaande bedrag van de belastingaanslag dat resteert nadat:
 
 ### Artikel  12  
 
-1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand, verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
+1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
 2.  Onder bezittingen wordt niet begrepen: 
 
 a. de inboedel voor zover de waarde hiervan niet meer bedraagt dan € 2269;  
@@ -366,7 +366,7 @@ c. een auto die op het moment van het verzoek een waarde heeft van € 2269 of m
 
 d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge artikel 16 in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in artikel 15, eerste lid, onderdelen b en c, niet te boven gaat, met dien verstande dat geen rekening wordt gehouden met de in die onderdelen bedoelde vermindering met ontvangen huurtoeslag of woonkostentoeslag, onderscheidenlijk zorgtoeslag;  
 
-e. het bedrag op een bank- of girorekening dat in het kader van de Wet studiefinanciering 2000 of de Wet tegemoetkoming onderwijsbijdrage en schoolkosten is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of artikel 14a van de Zorgverzekeringswet;  
+e. het bedrag op een bank- of girorekening dat in het kader van de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) of de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [artikel 14a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
 f. een bedrag van € 2269 aan financiële middelen per persoon voor personen die op 31 december 1999 de leeftijd van 65 jaar hebben bereikt;  
 
@@ -377,69 +377,69 @@ g. de ingevolge een levensloopregeling opgebouwde voorziening.
 ### Artikel  13  
 
 1.  Onder betalingscapaciteit, bedoeld in artikel 11, wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.   
-2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand.   
+2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  14  
 
 1.  Onder het netto-besteedbare inkomen, bedoeld in artikel 13, wordt verstaan het met de in artikel 15, eerste lid, vermelde uitgaven verminderde gezamenlijke bedrag van: 
 
-a. de aan inhouding van loonbelasting/premie voor de volksverzekeringen onderworpen inkomsten verminderd met de wettelijke inhoudingen, zonder rekening te houden met de daarbij eventueel in mindering gebrachte jonggehandicaptenkorting, bedoeld in hoofdstuk 8 van de Wet inkomstenbelasting 2001, en de ingehouden pensioenpremies, bijdragen ingevolge een levensloopregeling en premies ziektekostenverzekering;  
+a. de aan inhouding van loonbelasting/premie voor de volksverzekeringen onderworpen inkomsten verminderd met de wettelijke inhoudingen, zonder rekening te houden met de daarbij eventueel in mindering gebrachte jonggehandicaptenkorting, bedoeld in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de ingehouden pensioenpremies, bijdragen ingevolge een levensloopregeling en premies ziektekostenverzekering;  
 
-b. uitkeringen voor levensonderhoud ingevolge de artikelen 157, 158 of 404 van Boek 1 van het Burgerlijk Wetboek;  
+b. uitkeringen voor levensonderhoud ingevolge de [artikelen 157](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [158](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [404 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
 
 c. overige inkomsten met uitzondering van: 
 
-1°. de uitkeringen ingevolge de Algemene Kinderbijslagwet;  
+1°. de uitkeringen ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
 
-2°. de uitkeringen ingevolge een regeling voor persoonsgebonden budget, welke regeling is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of artikel 14a van de Zorgverzekeringswet;  
+2°. de uitkeringen ingevolge een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [artikel 14a van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-3°. de kinderopvangtoeslag, bedoeld in hoofdstuk 1, afdeling 2, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, en de tegemoetkomingen ingevolge de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
+3°. de kinderopvangtoeslag, bedoeld in [hoofdstuk 1, afdeling 2, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en de tegemoetkomingen ingevolge de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
 
-4°. de premie, bedoeld in artikel 31, tweede lid, onderdeel j, van de Wet werk en bijstand, alsmede een daarmee naar aard, strekking en omvang overeenkomende premie;  
+4°. de premie, bedoeld in [artikel 31, tweede lid, onderdeel j, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), alsmede een daarmee naar aard, strekking en omvang overeenkomende premie;  
 
-5°. de langdurigheidstoeslag, bedoeld in artikel 36 van de Wet werk en bijstand;  
+5°. de langdurigheidstoeslag, bedoeld in [artikel 36 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-6°. de vergoeding voor de verzorging en opvoeding van een pleegkind in het kader van de Wet op de jeugdzorg;  
+6°. de vergoeding voor de verzorging en opvoeding van een pleegkind in het kader van de [Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
-7°. het kindgebonden budget, bedoeld in de Wet op het kindgebonden budget;  
+7°. het kindgebonden budget, bedoeld in de [Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md);  
 
-8°. de huurtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de huurtoeslag, de krachtens de Wet werk en bijstand ontvangen woonkostentoeslag en de zorgtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de zorgtoeslag;  
+8°. de huurtoeslag, bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), de krachtens de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangen woonkostentoeslag en de zorgtoeslag, bedoeld in [artikel 1, onderdeel e, van de Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md);  
 
-9°. de inkomsten uit arbeid, bedoeld in artikel 31, tweede lid, onderdelen n en r, van de Wet werk en bijstand;  
+9°. de inkomsten uit arbeid, bedoeld in [artikel 31, tweede lid, onderdelen n en r, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-10°. een kostenvergoeding voor het verrichten van vrijwilligerswerk tot ten hoogste de bedragen, genoemd in artikel 2, zesde lid, van de Wet op de loonbelasting 1964.       
-2.  Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen, daaronder begrepen de aanspraak op een zodanige teruggaaf.   
+10°. een kostenvergoeding voor het verrichten van vrijwilligerswerk tot ten hoogste de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).       
+2.  Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), daaronder begrepen de aanspraak op een zodanige teruggaaf.   
 
 ### Artikel  15  
 
 1.  Als uitgaven als bedoeld in artikel 14, eerste lid, worden in aanmerking genomen: 
 
-a. betalingen op belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid, en betalingen op terugvorderingen van tegemoetkomingen als bedoeld in artikel 2, eerste lid, aanhef en onderdeel h, van de Algemene wet inkomensafhankelijke regelingen;  
+a. betalingen op belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid, en betalingen op terugvorderingen van tegemoetkomingen als bedoeld in [artikel 2, eerste lid, aanhef en onderdeel h, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);  
 
-b. het bedrag van de voor rekening van de belastingschuldige komende netto-woonlasten tot maximaal het bedrag, genoemd in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag, voorzover dit meer is dan het bedrag, genoemd in artikel 17, tweede lid, van die wet. Onder netto-woonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in artikel 5, eerste lid, van genoemde wet, dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voorzover deze hem voor gebruik ter beschikking staat, verminderd met de ontvangen huurtoeslag, bedoeld in artikel 1, onderdeel e, van genoemde wet of met de ontvangen woonkostentoeslag;  
+b. het bedrag van de voor rekening van de belastingschuldige komende netto-woonlasten tot maximaal het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), voorzover dit meer is dan het bedrag, genoemd in [artikel 17, tweede lid, van die wet](../../../../../wet/huursubsidiewet/BWBR0008659/README.md). Onder netto-woonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in [artikel 5, eerste lid, van genoemde wet](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voorzover deze hem voor gebruik ter beschikking staat, verminderd met de ontvangen huurtoeslag, bedoeld in [artikel 1, onderdeel e, van genoemde wet](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) of met de ontvangen woonkostentoeslag;  
 
-c. de niet door de werkgever ingehouden premies ziektekostenverzekering, de premie voor een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet en de premie, bedoeld in artikel 17 van de Algemene Wet Bijzondere Ziektekosten, verminderd met de normpremie, bedoeld in artikel 2 van de Wet op de zorgtoeslag, voor zover reeds begrepen in de bijstandsnorm zoals die voor de belastingschuldige geldt ingevolge artikel 475d, eerste, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering, en met de krachtens de Wet op de zorgtoeslag ontvangen zorgtoeslag;  
+c. de niet door de werkgever ingehouden premies ziektekostenverzekering, de premie voor een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de premie, bedoeld in [artikel 17 van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), verminderd met de normpremie, bedoeld in [artikel 2 van de Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), voor zover reeds begrepen in de bijstandsnorm zoals die voor de belastingschuldige geldt ingevolge [artikel 475d, eerste, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en met de krachtens de [Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) ontvangen zorgtoeslag;  
 
-d. betaalde uitkeringen voor levensonderhoud ingevolge de artikelen 157, 158 of 404 van Boek 1 van het Burgerlijk Wetboek;  
+d. betaalde uitkeringen voor levensonderhoud ingevolge de [artikelen 157](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [158](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of [404 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
 
 e. aflossingen op leningen voor zover die zijn aangewend voor de betaling van belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid;  
 
 f. de met het houden van kostgangers verbonden kosten tot een totaal van € 10,25 per dag. Bij de bepaling van het aantal dagen wordt een volle maand op 30 dagen gesteld.     
-2.  Onder betalingen op belastingschulden wordt mede begrepen een betaling ter zake van premie voor de volksverzekeringen en ter zake van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet.   
+2.  Onder betalingen op belastingschulden wordt mede begrepen een betaling ter zake van premie voor de volksverzekeringen en ter zake van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 
 ### Artikel  16  
 
 1.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen voor belastingschuldigen die worden aangemerkt als: 
 
-a. echtgenoten als bedoeld in artikel 3 van de Wet werk en bijstand: 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van de Wet werk en bijstand nadat deze is verminderd met het bedrag, genoemd in artikel 26 van die wet, en ten hoogste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van die wet;  
+a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) nadat deze is verminderd met het bedrag, genoemd in [artikel 26 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van die wet;  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand: 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand, en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in artikel 25 van die wet.     
+b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md): 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in [artikel 25 van die wet](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
 2.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van het eerste lid, voor belastingschuldigen die worden aangemerkt als: 
 
-a. echtgenoten als bedoeld in artikel 3 van de Wet werk en bijstand die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot als bedoeld in artikel 3 van de Wet werk en bijstand 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand, verhoogd met € 26,56, onderscheidenlijk € 13,28;  
+a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot als bedoeld in artikel 3 van de Wet werk en bijstand 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 26,56, onderscheidenlijk € 13,28;  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand, verhoogd met € 13,28.     
-3.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in artikel 23 van de Wet werk en bijstand.   
+b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verhoogd met € 13,28.     
+3.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in [artikel 23 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 
 ### Artikel  18  
 
@@ -453,11 +453,11 @@ c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopi
 
 ### Artikel  19  
 
-Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand, wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.  
+Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.  
 
 ### Artikel  19a  
 
-1.  Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig artikel 329 van de Faillissementswet een akkoord aanbiedt, verleent de ontvanger, de artikelen 8, eerste lid, onderdelen a, b, e, f en g, en tweede lid, en 10 tot en met 19 buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits: 
+1.  Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig [artikel 329 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) een akkoord aanbiedt, verleent de ontvanger, de artikelen 8, eerste lid, onderdelen a, b, e, f en g, en tweede lid, en 10 tot en met 19 buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits: 
 
 1°. het te ontvangen deel van de belastingschuld of belastingschulden ten minste het dubbele percentage bedraagt van hetgeen aan concurrente schuldeisers op hun vorderingen zal worden uitgekeerd en van ten minste dezelfde omvang is als kan worden verkregen indien de schuldsaneringsregeling zou worden voortgezet;  
 
@@ -472,7 +472,7 @@ Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in artikel 3
 
 ### Artikel  20  
 
-Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, van vennootschapsbelasting, van loonbelasting verschuldigd door werkgevers, van omzetbelasting, dividendbelasting, kansspelbelasting, accijnzen, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, van de in artikel 1 van de Wet belastingen op milieugrondslag genoemde belastingen en van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door rechtspersonen.  
+Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, van vennootschapsbelasting, van loonbelasting verschuldigd door werkgevers, van omzetbelasting, dividendbelasting, kansspelbelasting, accijnzen, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, van de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen en van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door rechtspersonen.  
 
 ### Artikel  21  
 
@@ -540,17 +540,17 @@ Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld
 
 Deze afdeling heeft betrekking op: 
 
-a. provinciale belastingen als bedoeld in hoofdstuk XV, paragraaf 2, van de Provinciewet alsmede belastingen waarvan de heffing krachtens andere wetten door de provincie geschiedt;  
+a. provinciale belastingen als bedoeld in [hoofdstuk XV, paragraaf 2, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) alsmede belastingen waarvan de heffing krachtens andere wetten door de provincie geschiedt;  
 
-b. gemeentelijke belastingen als bedoeld in hoofdstuk XV, paragraaf 2 en 3, van de Gemeentewet alsmede belastingen waarvan de heffing krachtens andere wetten door de gemeente geschiedt;  
+b. gemeentelijke belastingen als bedoeld in [hoofdstuk XV, paragraaf 2](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [3, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) alsmede belastingen waarvan de heffing krachtens andere wetten door de gemeente geschiedt;  
 
-c. waterschapsbelastingen als bedoeld in hoofdstuk XVI van de Waterschapswet alsmede belastingen waarvan de heffing krachtens bijzondere wetten door het waterschap geschiedt;  
+c. waterschapsbelastingen als bedoeld in [hoofdstuk XVI van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) alsmede belastingen waarvan de heffing krachtens bijzondere wetten door het waterschap geschiedt;  
 
-d. de geluidsheffing burgerluchtvaart ingevolge artikel 8a.38 van de Wet luchtvaart;  
+d. de geluidsheffing burgerluchtvaart ingevolge [artikel 8a.38 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-e. de heffing ingevolge artikel 91a van de Gezondheids- en welzijnswet voor dieren, alsmede bij algemene maatregel van bestuur ingevolge artikel 91h of artikel 92 van die wet ingevoerde heffingen;  
+e. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [artikel 92 van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) ingevoerde heffingen;  
 
-f. de verontreinigingsheffing ingevolge artikel 7.2, eerste lid, van de Waterwet;   alsmede op de daarmee samenhangende bestuurlijke boeten.  
+f. de verontreinigingsheffing ingevolge [artikel 7.2, eerste lid, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md);   alsmede op de daarmee samenhangende bestuurlijke boeten.  
 
 ### Artikel  28  
 
@@ -571,8 +571,8 @@ c. waterschapsbelastingen gelezen: het dagelijks bestuur;
 
 d. de geluidsheffing burgerluchtvaart gelezen: de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;  
 
-e. de heffing ingevolge artikel 91a van de Gezondheids- en welzijnswet voor dieren, alsmede bij algemene maatregel van bestuur ingevolge artikel 91h of artikel 92 van die wet ingevoerde heffingen gelezen: de directeur Financieel Economische Zaken van het Ministerie van Economische Zaken.     
-3.  Indien door de provinciale staten, de gemeenteraad of het algemeen bestuur van het waterschap daartoe is besloten, worden met betrekking tot een verzoek om kwijtschelding van de in artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, bedoelde belastingen en heffingen in afwijking van het eerste lid, onderdelen a en b, als uitgaven als bedoeld in artikel 15, eerste lid, mede in aanmerking genomen de overeenkomstig artikel 1.7, eerste en tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen bepaalde kosten van kinderopvang verminderd met de kinderopvangtoeslag of met de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in de te betalen kosten van kinderopvang, bedoeld in hoofdstuk 1, afdeling 2, van die wet.   
+e. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [artikel 92 van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) ingevoerde heffingen gelezen: de directeur Financieel Economische Zaken van het Ministerie van Economische Zaken.     
+3.  Indien door de provinciale staten, de gemeenteraad of het algemeen bestuur van het waterschap daartoe is besloten, worden met betrekking tot een verzoek om kwijtschelding van de in artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, bedoelde belastingen en heffingen in afwijking van het eerste lid, onderdelen a en b, als uitgaven als bedoeld in artikel 15, eerste lid, mede in aanmerking genomen de overeenkomstig [artikel 1.7, eerste en tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) bepaalde kosten van kinderopvang verminderd met de kinderopvangtoeslag of met de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in de te betalen kosten van kinderopvang, bedoeld in [hoofdstuk 1, afdeling 2, van die wet](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
 
 ### Artikel  28a  
 
@@ -615,9 +615,9 @@ De in rekening te brengen invorderingsrente wordt berekend over iedere betaling 
 
 ### Artikel  30  
 
-1.  Voor de berekening van de in rekening te brengen invorderingsrente over een betaald bedrag wordt gebruik gemaakt van de volgende formule:   ![]()
+1.  Voor de berekening van de in rekening te brengen invorderingsrente over een betaald bedrag wordt gebruik gemaakt van de volgende formule:   ![123954](http://wetten.overheid.nl/Illustration/123954)
 = invorderingsrente   
-2.  Indien het bedrag van de betaling moet worden gesplitst in hoofdsom en invorderingsrente, wordt gebruik gemaakt van de volgende formules:   ![]()
+2.  Indien het bedrag van de betaling moet worden gesplitst in hoofdsom en invorderingsrente, wordt gebruik gemaakt van de volgende formules:   ![123955](http://wetten.overheid.nl/Illustration/123955)
 = hoofdsom betaling - hoofdsom = invorderingsrente.   
 3.  In de formules wordt met A het aantal dagen aangegeven waarover invorderingsrente is verschuldigd en met P de onderscheiden rentepercentages welke over de verschillende periodes zijn verschuldigd.   
 4.  Het bedrag van de betaling wordt naar beneden afgerond op gehele euro’s.   
@@ -649,7 +649,7 @@ Bij uitstel van betaling voor een periode van drie jaren of langer kan de ontvan
 
 ### Artikel  40a  
 
-Als goederen als bedoeld in artikel 42c van de wet worden de volgende goederen aangewezen, de toebehoren en onderdelen van die goederen daaronder begrepen: 
+Als goederen als bedoeld in [artikel 42c van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden de volgende goederen aangewezen, de toebehoren en onderdelen van die goederen daaronder begrepen: 
 
 a. telecommunicatie- en computerapparatuur en -programmatuur;  
 
@@ -659,14 +659,14 @@ c. landvoertuigen die zijn uitgerust met een motor van meer dan 48 cc cilinderin
 
 ### Artikel  40b  
 
-1.  Ingeval een lijfrenteverplichting in een situatie als bedoeld in artikel 3.133, tweede lid, onderdeel h, van de Wet inkomstenbelasting 2001 overgaat of, beoordeeld aan het einde van het kalenderjaar, is overgegaan op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van artikel 44a, eerste lid, van de wet aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in dat artikel bedoelde inkomstenbelasting en revisierente.   
-2.  De ontvanger geeft de in het eerste lid bedoelde verklaring af op schriftelijk verzoek van de verzekeraar die op grond van artikel 44a, eerste lid, van de wet aansprakelijk is, mits het niet in Nederland gevestigde pensioenfonds of lichaam waarop de lijfrenteverplichting is overgegaan zich bij overeenkomst garant stelt voor de voldoening van de in artikel 44a, eerste lid, van de wet bedoelde inkomstenbelasting en revisierente.   
+1.  Ingeval een lijfrenteverplichting in een situatie als bedoeld in [artikel 3.133, tweede lid, onderdeel h, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) overgaat of, beoordeeld aan het einde van het kalenderjaar, is overgegaan op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van [artikel 44a, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in dat artikel bedoelde inkomstenbelasting en revisierente.   
+2.  De ontvanger geeft de in het eerste lid bedoelde verklaring af op schriftelijk verzoek van de verzekeraar die op grond van [artikel 44a, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aansprakelijk is, mits het niet in Nederland gevestigde pensioenfonds of lichaam waarop de lijfrenteverplichting is overgegaan zich bij overeenkomst garant stelt voor de voldoening van de in [artikel 44a, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde inkomstenbelasting en revisierente.   
 3.  De vorige leden zijn van overeenkomstige toepassing indien de verzekeringnemer of de gerechtigde voldoende zekerheid heeft gesteld.   
 
 ### Artikel  40c  
 
-1.  Ingeval een verplichting ingevolge een pensioenregeling in een situatie als bedoeld in artikel 19b, zesde lid, van de Wet op de loonbelasting 1964 overgaat op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van artikel 44b, eerste lid, van de wet aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in dat artikel bedoelde loon- en inkomstenbelasting alsmede revisierente.   
-2.  De ontvanger geeft de in het eerste lid bedoelde verklaring af op schriftelijk verzoek van de verzekeraar die op grond van artikel 44b, eerste lid, van de wet aansprakelijk is, mits het niet in Nederland gevestigde pensioenfonds of lichaam waarop de pensioenverplichting is overgegaan zich bij overeenkomst garant stelt voor de voldoening van de in artikel 44b, eerste lid, van de wet bedoelde loon- en inkomstenbelasting alsmede revisierente.   
+1.  Ingeval een verplichting ingevolge een pensioenregeling in een situatie als bedoeld in [artikel 19b, zesde lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) overgaat op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van [artikel 44b, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in [dat artikel](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde loon- en inkomstenbelasting alsmede revisierente.   
+2.  De ontvanger geeft de in het eerste lid bedoelde verklaring af op schriftelijk verzoek van de verzekeraar die op grond van [artikel 44b, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aansprakelijk is, mits het niet in Nederland gevestigde pensioenfonds of lichaam waarop de pensioenverplichting is overgegaan zich bij overeenkomst garant stelt voor de voldoening van de in [artikel 44b, eerste lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde loon- en inkomstenbelasting alsmede revisierente.   
 3.  De vorige leden zijn van overeenkomstige toepassing indien de verzekeringnemer of de gerechtigde voldoende zekerheid heeft gesteld.   
 
 ### Hoofdstuk  IVA  
@@ -675,16 +675,22 @@ c. landvoertuigen die zijn uitgerust met een motor van meer dan 48 cc cilinderin
 
 ### Artikel  40ca  
 
-1.  Als gevallen als bedoeld in artikel 7a, vierde lid, van de wet worden aangewezen uitbetalingen van inkomstenbelasting en omzetbelasting door de ontvanger op een bankrekening: 
+1.  Als gevallen als bedoeld in [artikel 7a, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden aangewezen uitbetalingen van inkomstenbelasting en omzetbelasting door de ontvanger op een bankrekening: 
 
 a. van een lid van de Nederlandse Vereniging voor Volkskrediet voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer;  
 
 b. van een gemeente op grond van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer van de Nederlandse Vereniging voor Volkskrediet of overeenkomsten met dezelfde strekking;  
 
-c. van een derde indien een belastingschuldige niet beschikt over een bankrekening die op zijn naam staat, deze naar het oordeel van de ontvanger niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en deze om uitbetaling op een bankrekening van een derde verzoekt.     
-2.  Bij gevallen als bedoeld in artikel 25, derde lid, van de Algemene wet inkomensafhankelijke regelingen is artikel 7a, eerste lid, tweede volzin, van de wet niet van toepassing.   
-3.  Indien op grond van artikel 7a, vierde lid, van de wet de uitbetaling plaatsvindt op een andere bankrekening dan die van de belastingschuldige, vindt het gegevensverkeer met betrekking tot die uitbetaling tussen de Belastingdienst en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belastingschuldige.   
-4.  Bij toepassing van het eerste lid, onderdelen a en b, wijst het aldaar bedoelde lid of de aldaar bedoelde gemeente aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belastingschuldige en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het eerste lid, onderdelen a en b, bedoelde overeenkomst.   
+c. van een derde die: 
+
+1°. een subsidiebeschikking heeft ontvangen van een gemeente dan wel een contract heeft met een zorgkantoor voor het leveren van zorg in natura ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); en  
+
+2°. voldoet aan de norm NEN-ISO 9001;   voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer of overeenkomsten met dezelfde strekking;  
+
+d. van een derde indien een belastingschuldige niet beschikt over een bankrekening die op zijn naam staat, deze naar het oordeel van de ontvanger niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en deze om uitbetaling op een bankrekening van een derde verzoekt.     
+2.  Bij gevallen als bedoeld in [artikel 25, derde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) is [artikel 7a, eerste lid, tweede volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) niet van toepassing.   
+3.  Indien op grond van [artikel 7a, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) de uitbetaling plaatsvindt op een andere bankrekening dan die van de belastingschuldige, vindt het gegevensverkeer met betrekking tot die uitbetaling tussen de Belastingdienst en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belastingschuldige.   
+4.  Bij toepassing van het eerste lid, onderdelen a tot en met c, wijst het aldaar bedoelde lid, de aldaar bedoelde gemeente of de aldaar bedoelde derde aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belastingschuldige en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het eerste lid, onderdelen a tot en met c, bedoelde overeenkomst.   
 
 ### Hoofdstuk  V  
 
@@ -692,15 +698,15 @@ c. van een derde indien een belastingschuldige niet beschikt over een bankrekeni
 
 ### Artikel  40d  
 
-Op natuurlijke personen die een uitkering genieten ingevolge de Wet werk en inkomen kunstenaars, zoals deze op 31 december 2011 luidde, blijven de artikelen 10, tweede lid, 14, derde en vierde lid, en 28, eerste lid, onderdeel d, zoals die artikelen luidden op 30 juni 2013, van toepassing.  
+Op natuurlijke personen die een uitkering genieten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze op 31 december 2011 luidde, blijven de [artikelen 10, tweede lid](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), [14, derde en vierde lid](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), en [28, eerste lid, onderdeel d](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals die artikelen luidden op 30 juni 2013, van toepassing.  
 
 ### Artikel  40e  
 
-Indien bij de Belastingdienst op 1 december 2013 geen bankrekening op naam van de belastingschuldige bekend is, wordt tot en met 30 juni 2014 als geval als bedoeld in artikel 7a, vierde lid, van de wet aangewezen de uitbetaling van inkomstenbelasting en omzetbelasting door de ontvanger op de bankrekening die vóór 1 december 2013 door de ontvanger werd gebruikt voor de uitbetaling van inkomstenbelasting en omzetbelasting aan de belastingschuldige.  
+Indien bij de Belastingdienst op 1 december 2013 geen bankrekening op naam van de belastingschuldige bekend is, wordt tot en met 30 juni 2014 als geval als bedoeld in [artikel 7a, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aangewezen de uitbetaling van inkomstenbelasting en omzetbelasting door de ontvanger op de bankrekening die vóór 1 december 2013 door de ontvanger werd gebruikt voor de uitbetaling van inkomstenbelasting en omzetbelasting aan de belastingschuldige.  
 
 ### Artikel  40f  
 
-Tot en met 31 december 2015 worden als gevallen als bedoeld in artikel 7a, vierde lid, van de wet aangewezen uitbetalingen van omzetbelasting door de ontvanger op een bankrekening van een derde naar aanleiding van teruggaafverzoeken als bedoeld in artikel 31, vierde lid, van de Wet op de omzetbelasting 1968 en hoofdstuk VI, afdeling 2, van die wet voor zover die verzoeken: 
+Tot en met 31 december 2015 worden als gevallen als bedoeld in [artikel 7a, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) aangewezen uitbetalingen van omzetbelasting door de ontvanger op een bankrekening van een derde naar aanleiding van teruggaafverzoeken als bedoeld in [artikel 31, vierde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [hoofdstuk VI, afdeling 2, van die wet](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) voor zover die verzoeken: 
 
 a. zien op tijdvakken die zijn geëindigd vóór 1 januari 2015; en  
 
@@ -708,14 +714,14 @@ b. zijn ingediend vóór 30 september 2015.
 
 ### Artikel  40g  
 
-1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in artikel 70b, eerste lid, eerste volzin, van de wet, mits voldoende zekerheid wordt gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden. Het schriftelijke verzoek en de zekerheidstelling blijven achterwege in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie, Noorwegen, IJsland of Liechtenstein.   
-2.  De ontvanger beëindigt het uitstel indien zich een omstandigheid voordoet als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet.   
-3.  Ingeval zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet voordoet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
+1.  De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 70b, eerste lid, eerste volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), mits voldoende zekerheid wordt gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden. Het schriftelijke verzoek en de zekerheidstelling blijven achterwege in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie, Noorwegen, IJsland of Liechtenstein.   
+2.  De ontvanger beëindigt het uitstel indien zich een omstandigheid voordoet als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+3.  Ingeval zich een omstandigheid als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voordoet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.   
 
 ### Artikel  40h  
 
-1.  Indien de ontvanger het op de voet van artikel 40g verleende uitstel van betaling beëindigt omdat zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als bedoeld in artikel 70ba van de wet.   
-2.  In afwijking van het eerste lid is voor het verlenen van kwijtschelding geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet voordoet, in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
+1.  Indien de ontvanger het op de voet van artikel 40g verleende uitstel van betaling beëindigt omdat zich een omstandigheid als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als bedoeld in [artikel 70ba van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+2.  In afwijking van het eerste lid is voor het verlenen van kwijtschelding geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voordoet, in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.   
 
 ### Artikel  41  
 
@@ -739,7 +745,7 @@ Overeenkomst inzake de overheidsvordering De ondergetekenden:
 
 – Onze Minister, voor wie optreedt (naam).   Zijn overeengekomen als volgt: 
 
-1. Onze Minister opent hierbij een rekening bij de bank onder nummer (nummer) waarop de bedragen ingevorderd op grond van artikel 19, vierde lid, van de wet worden overgemaakt.  
+1. Onze Minister opent hierbij een rekening bij de bank onder nummer (nummer) waarop de bedragen ingevorderd op grond van [artikel 19, vierde lid, van de wet](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) worden overgemaakt.  
 
 2. De gegevens op grond waarvan overheidsvorderingen worden gedaan worden in digitale vorm en overeenkomstig de Nederlandse systematiek van automatische incasso geleverd aan de bank.  
 
@@ -749,4 +755,4 @@ Overeenkomst inzake de overheidsvordering De ondergetekenden:
 
 5. De bank informeert Onze Minister over de op de rekening betrekking hebbende gegevens.  
 
-6. De bepalingen in deze overeenkomst strekken mede ten behoeve van de bank waar de belastingschuldige een betaalrekening houdt en indien op die betaalrekening een overheidsvordering is uitgevoerd, en hebben dienovereenkomstig te gelden als een onherroepelijk derdenbeding als bedoeld in artikel 253 en verder van Boek 6 van het Burgerlijk Wetboek.   Aldus overeengekomen en getekend, te (plaats) op (datum) Onze Minister, voor deze: De bank, 
+6. De bepalingen in deze overeenkomst strekken mede ten behoeve van de bank waar de belastingschuldige een betaalrekening houdt en indien op die betaalrekening een overheidsvordering is uitgevoerd, en hebben dienovereenkomstig te gelden als een onherroepelijk derdenbeding als bedoeld in [artikel 253](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en verder van Boek 6 van het Burgerlijk Wetboek.   Aldus overeengekomen en getekend, te (plaats) op (datum) Onze Minister, voor deze: De bank, 

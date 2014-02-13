@@ -103,21 +103,22 @@ d. uiterlijk op de derde werkdag na de dag van ontvangst van het bericht, bedoel
 
 ### Artikel  10  
 
-1.  De chauffeurskaart en de chauffeurskaart onder beperkingen worden ingetrokken in de gevallen bedoeld in artikel 8, tweede lid.   
+1.  De chauffeurskaart en de chauffeurskaart onder beperkingen worden ingetrokken: 
+
+a. in de gevallen, bedoeld in artikel 8, tweede lid;  
+
+b. indien niet langer wordt voldaan aan de eisen op grond waarvan deze werden verstrekt;  
+
+c. indien na verstrekking blijkt dat de kaart is verkregen op grond van onjuiste gegevens;  
+
+d. indien de bestuurder niet of niet tijdig ingevolge artikel 82, zesde lid, van het Besluit een nieuwe geneeskundige verklaring of een nieuwe verklaring omtrent het gedrag overlegt als bedoeld in artikel 82, eerste lid, onder b, onderscheidenlijk c van het Besluit;  
+
+e. indien de kaart door een andere persoon dan de houder wordt gebruikt; of  
+
+f. indien is gehandeld in strijd met het bij artikel 4, onder a en b, dan wel het bij of krachtens het Besluit bepaalde omtrent de chauffeurskaart.     
 2.  De chauffeurskaart onder beperkingen wordt ingetrokken indien aan de houder een chauffeurskaart is verstrekt.   
-3.  De chauffeurskaart en de chauffeurskaart onder beperkingen kunnen worden ingetrokken: 
-
-a. indien niet langer wordt voldaan aan de eisen op grond waarvan deze werden verstrekt;  
-
-b. indien na verstrekking blijkt dat de kaart is verkregen op grond van onjuiste gegevens;  
-
-c. indien de bestuurder niet of niet tijdig een nieuwe geneeskundige verklaring of een nieuwe verklaring omtrent het gedrag overlegt als bedoeld in artikel 82, zesde lid, van het Besluit;  
-
-d. indien de kaart door een andere persoon dan de houder wordt gebruikt of  
-
-e. indien is gehandeld in strijd met het bij artikel 4, onder a en b, dan wel het bij of krachtens het Besluit bepaalde omtrent de chauffeurskaart.     
-4.  Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het derde lid.   
-5.  Ingeval van intrekking of schorsing levert de houder van de chauffeurskaart deze onmiddellijk in bij de minister.   
+3.  Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het eerste lid, onder b, d, e of f.   
+4.  Ingeval van intrekking of schorsing levert de houder van de chauffeurskaart deze onmiddellijk in bij de minister.   
 
 ### Hoofdstuk  3  
 
