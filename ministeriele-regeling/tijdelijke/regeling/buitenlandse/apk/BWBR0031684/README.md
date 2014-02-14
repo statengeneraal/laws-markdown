@@ -10,14 +10,14 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*[Besluit Voertuigen](../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md).    
+*besluit:* [Besluit Voertuigen](../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md).   
 
 ### Artikel  2  
 
 1.  Er is bij de buitenlandse keuringsinstantie een voorziening aanwezig, geschikt voor het gebruik van datacommunicatie. Deze voorziening bestaat uit een computer of terminal met een modem, geschikt voor de toegangsstructuur van netwerken van de Dienst Wegverkeer. Tevens is een voorziening aanwezig geschikt voor aansluiting op de datacommunicatie ten behoeve van het afdrukken van keuringsrapporten.   
 2.  Ten behoeve van het afmelden van een voertuig als bedoeld in artikel 53d van het besluit door middel van datacommunicatie, verstrekt de Dienst Wegverkeer aan de buitenlandse keuringsinstantie een of meerdere op naam gestelde bevoegdheidspassen met pincode.   
 3.  De buitenlandse keuringsinstantie draagt er zorg voor dat de door de Dienst wegverkeer aan hem ten behoeve van datacommunicatie verstrekte bevoegdheidspassen en pincodes niet toegankelijk zijn voor onbevoegden.   
-4.  De keuring wordt uitgevoerd door het door de buitenlandse keuringsinstantie aangewezen personeel.   
+4.  De keuring wordt uitgevoerd door het door de buitenlandse keuringsinstantie aangewezen personeel.  
 
 ### Artikel  3  
 
@@ -35,11 +35,11 @@ a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste co
 
 b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister;  
 
-c. blijkens het kentekenregister de beperkte geldigheidsduur van de tenaamstelling verstreken is, waardoor de tenaamstelling is vervallen.     
+c. blijkens het kentekenregister de beperkte geldigheidsduur van de tenaamstelling verstreken is, waardoor de tenaamstelling is vervallen.    
 
 ### Artikel  4  
 
-Het resultaat van een keuring wordt door de buitenlandse keuringsinstantie schriftelijk vastgelegd op het keuringsrapport, waarvan het model door de Dienst Wegverkeer bekend is gemaakt in de Staatscourant.  
+Het resultaat van een keuring wordt door de buitenlandse keuringsinstantie schriftelijk vastgelegd op het keuringsrapport, waarvan het model door de Dienst Wegverkeer bekend is gemaakt in de Staatscourant. 
 
 ### Artikel  5  
 
@@ -60,7 +60,7 @@ f. indien het voertuig is afgekeurd, de afkeurpunten.
 
 1°. de transactiecode en het tijdstip van de afmelding;  
 
-2°. indien het voertuig is goedgekeurd: tevens een nieuwe vervaldatum.     
+2°. indien het voertuig is goedgekeurd: tevens een nieuwe vervaldatum.    
 
 ### Artikel  6  
 
@@ -80,17 +80,17 @@ f. indien het voertuig is goedgekeurd: de door de Dienst Wegverkeer bij de afmel
 
 g. de naam en de adresgegevens van de buitenlandse keuringsinstantie.     
 2.  Alvorens het keuringsrapport wordt ondertekend en afgegeven aan de aanvrager, wordt door de buitenlandse keuringsinstantie nagegaan of het rapport volledig is ingevuld.   
-3.  Door een buitenlandse keuringsinstantie worden per bevoegdheidspas niet meer dan vier voertuigen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg, per zestig minuten afgemeld.   
+3.  Door een buitenlandse keuringsinstantie worden per bevoegdheidspas niet meer dan vier voertuigen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg, per zestig minuten afgemeld.  
 
 ### Artikel  7  
 
-Deze regeling treedt in werking op het tijdstip waarop het Besluit houdende wijziging van het Besluit Voertuigen in verband met tijdelijke regels ten behoeve van een experiment met het accepteren van in andere lidstaten van de Europese Unie uitgevoerde algemene periodieke keuringen in werking treedt en vervalt zes jaar na het tijdstip van inwerkingtreding.  
+Deze regeling treedt in werking op het tijdstip waarop het Besluit houdende wijziging van het Besluit Voertuigen in verband met tijdelijke regels ten behoeve van een experiment met het accepteren van in andere lidstaten van de Europese Unie uitgevoerde algemene periodieke keuringen in werking treedt en vervalt zes jaar na het tijdstip van inwerkingtreding. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling buitenlandse APK.  
+Deze regeling wordt aangehaald als: Tijdelijke regeling buitenlandse APK. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

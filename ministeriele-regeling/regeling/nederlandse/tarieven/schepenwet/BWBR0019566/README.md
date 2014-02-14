@@ -19,11 +19,11 @@ b. onderzoek hernieuwing certificaat: onderzoek verricht voor de hernieuwde afgi
 
 c. onderzoek overname met langlopende certificaten: onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die zijn voorzien van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de Nederlandse vlag;  
 
-d. onderzoek overname zonder langlopende certificaten: onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die niet voorzien zijn van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de Nederlandse vlag.    
+d. onderzoek overname zonder langlopende certificaten: onderzoek verricht voor de afgifte van certificaten voor geklasseerde schepen die niet voorzien zijn van certificaten met de maximaal toelaatbare geldigheidsduur van de vorige vlaggenstaat en die overgaan naar de Nederlandse vlag.   
 
 ### Artikel  2  
 
-De tarieven, bedoeld in deze regeling zijn verschuldigd voor het verrichten van werkzaamheden door ambtenaren van de Inspectie Verkeer en Waterstaat in Nederland.  
+De tarieven, bedoeld in deze regeling zijn verschuldigd voor het verrichten van werkzaamheden door ambtenaren van de Inspectie Verkeer en Waterstaat in Nederland. 
 
 ### §  2  
 
@@ -32,25 +32,25 @@ De tarieven, bedoeld in deze regeling zijn verschuldigd voor het verrichten van 
 ### Artikel  3  
 
 1.  Voor de afgifte, verlenging of vernieuwing van een certificaat, verklaring, vergunning of document als bedoeld in deze paragraaf, is een tarief verschuldigd van € 227.   
-2.  voor de afgifte van een duplicaat of gewaarmerkt afschrift van een certificaat, verklaring, ontheffing, vergunning of document als bedoeld in deze paragraaf is een tarief verschuldigd van € 155.   
+2.  voor de afgifte van een duplicaat of gewaarmerkt afschrift van een certificaat, verklaring, ontheffing, vergunning of document als bedoeld in deze paragraaf is een tarief verschuldigd van € 155.  
 
 ### Artikel  4  
 
 1.  Voor het onderzoek van schepen nodig voor de afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in de tabellen in bijlage 1.   
-2.  Indien een scheepstype niet is opgenomen in bijlage 1, wordt voor het onderzoek nodig voor de afgifte van een certificaat of een verklaring door de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.   
-3.  Indien een scheepstype niet is opgenomen in bijlage 1 wordt door het Hoofd van de Scheepvaartinspectie het tarief gebaseerd op het tarief van het scheepstype dat daarmee het meest overeenkomt.   
+2.  Indien een scheepstype niet is opgenomen in bijlage 1, wordt voor het onderzoek nodig voor de afgifte van een certificaat of een verklaring door de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.  
+3.  Indien een scheepstype niet is opgenomen in bijlage 1 wordt door het Hoofd van de Scheepvaartinspectie het tarief gebaseerd op het tarief van het scheepstype dat daarmee het meest overeenkomt.  
 
 ### Artikel  5  
 
-Voor het onderzoek aan boord nodig voor een tussentijdse aanpassing of een verlenging van een certificaat, verklaring, vergunning of document als bedoeld deze paragraaf, is een tarief verschuldigd van € 430.  
+Voor het onderzoek aan boord nodig voor een tussentijdse aanpassing of een verlenging van een certificaat, verklaring, vergunning of document als bedoeld deze paragraaf, is een tarief verschuldigd van € 430. 
 
 ### Artikel  7  
 
-Voor het onderzoek van de romp aan de buitenzijde van niet-geklasseerde schepen nodig voor het viseren van het certificaat van deugdelijkheid of het veiligheidscertificaat, volgens het geharmoniseerde systeem van onderzoek en certificering, is een tarief verschuldigd van € 822.  
+Voor het onderzoek van de romp aan de buitenzijde van niet-geklasseerde schepen nodig voor het viseren van het certificaat van deugdelijkheid of het veiligheidscertificaat, volgens het geharmoniseerde systeem van onderzoek en certificering, is een tarief verschuldigd van € 822. 
 
 ### Artikel  8  
 
-Voor onderzoek van schepen nodig voor de afgifte van een vergunning als bedoeld in [artikel 2bis, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) is een tarief van € 604 verschuldigd.  
+Voor onderzoek van schepen nodig voor de afgifte van een vergunning als bedoeld in [artikel 2bis, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) is een tarief van € 604 verschuldigd. 
 
 ### Artikel  12  
 
@@ -59,20 +59,20 @@ Voor onderzoek van schepen nodig voor de afgifte van een vergunning als bedoeld 
 a. voor het onderzoek door de Inspecteur-Generaal Leefomgeving en Transport ten behoeve van een document van nationale typegoedkeuring van uitrustingsstukken als bedoeld in [hoofdstuk drie, paragraaf 3, van de Regeling veiligheid zeeschepen](../../../../../../ministeriele-regeling/regeling/veiligheid/zeeschepen/BWBR0017728/README.md).  
 
 b. voor het onderzoek verbonden aan de productietest van uitrustingsstukken of onderdelen daarvan.     
-2.  Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte het tarief verschuldigd van € 229.   
+2.  Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte het tarief verschuldigd van € 229.  
 
 ### Artikel  13  
 
-Voor het behandelen van een verzoek tot samenlading van gevaarlijke stoffen in één laadeenheid is een tarief verschuldigd van € 98.  
+Voor het behandelen van een verzoek tot samenlading van gevaarlijke stoffen in één laadeenheid is een tarief verschuldigd van € 98. 
 
 ### Artikel  14  
 
-Voor het behandelen van een verzoek tot goedkeuring op grond van de International Maritime Dangerous Goods Code is een vergoeding verschuldigd van € 456.  
+Voor het behandelen van een verzoek tot goedkeuring op grond van de International Maritime Dangerous Goods Code is een vergoeding verschuldigd van € 456. 
 
 ### Artikel  14a  
 
 1.  Voor de kosten van werkzaamheden met betrekking tot schepen van een vreemde nationaliteit waarmee vanuit een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba een reis zal worden ondernomen, en die niet ingevolge de [artikelen 2](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) of [2bis van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) onder de bepalingen van de [Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) vallen, verricht door ambtenaren van de Inspectie Leefomgeving en Transport in het kader van de aanhouding, bedoeld in de [artikelen 16, tweede lid](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), en [69, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), kan een tarief gevorderd worden van USD 2045.   
-2.  Het in het eerste lid bedoelde tarief wordt vermeerderd met USD 162 per keer dat ambtenaren van de Inspectie Leefomgeving en Transport over water hebben moeten afreizen naar het schip dat onderwerp van een onderzoek was dat geleid heeft tot de aanhouding, dan wel de opheffing van de aanhouding van dat schip.   
+2.  Het in het eerste lid bedoelde tarief wordt vermeerderd met USD 162 per keer dat ambtenaren van de Inspectie Leefomgeving en Transport over water hebben moeten afreizen naar het schip dat onderwerp van een onderzoek was dat geleid heeft tot de aanhouding, dan wel de opheffing van de aanhouding van dat schip.  
 
 ### §  3  
 
@@ -98,7 +98,7 @@ g. certificaten: de onder b tot en met f genoemde certificaten;
 
 h. eerste onderzoek: onderzoek als bedoeld in [artikel 1.12, eerste lid, Vissersvaartuigenbesluit 2002](../../../../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md);  
 
-i. periodiek onderzoek: onderzoek als bedoeld in [artikel 1.12. tweede lid en vierde lid, van het Vissersvaartuigenbesluit 2002](../../../../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md), dan wel het periodieke of tussentijdse onderzoek als bedoeld in [artikel 12 van het Vissersvaartuigenbesluit](../../../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) dat is voorgeschreven voor vissersvaartuigen met een lengte tot 24 meter.    
+i. periodiek onderzoek: onderzoek als bedoeld in [artikel 1.12. tweede lid en vierde lid, van het Vissersvaartuigenbesluit 2002](../../../../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md), dan wel het periodieke of tussentijdse onderzoek als bedoeld in [artikel 12 van het Vissersvaartuigenbesluit](../../../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) dat is voorgeschreven voor vissersvaartuigen met een lengte tot 24 meter.  
 
 ### Artikel  16  
 
@@ -123,18 +123,18 @@ a. voor vaartuigen met een lengte tot 24 meter € 2.468;
 b. voor vaartuigen met een lengte vanaf 24 meter € 2.732.     
 4.  Bij tussentijdse verkoop van een vissersvaartuig vindt geen verrekening van het tarief met de koper of verkoper plaats.   
 5.  Indien een inspectie aan boord van het schip niet kan plaatsvinden op de afgesproken tijd en plaats, doordat het schip of de eigenaar van het schip of zijn vertegenwoordiger niet aanwezig is, is voor de wachttijd van degene die inspecteert een tarief verschuldigd van € 142 per uur. Indien de inspectie geheel vervalt wordt een tarief van € 285 in rekening gebracht.   
-6.  Indien tijdens een herinspectie aan boord van een schip blijkt dat eerder geconstateerde onvolkomenheden niet in orde zijn gebracht, wordt voor de volgende inspectie een tarief van € 285 in rekening gebracht.   
+6.  Indien tijdens een herinspectie aan boord van een schip blijkt dat eerder geconstateerde onvolkomenheden niet in orde zijn gebracht, wordt voor de volgende inspectie een tarief van € 285 in rekening gebracht.  
 
 ### Artikel  18  
 
 1.  Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de afgifte van een vergunning, als bedoeld in [artikel 2bis, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), is een tarief verschuldigd van € 822.   
-2.  Het tarief, bedoeld in het eerste lid, is niet verschuldigd indien het een vergunning betreft uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Nederland, met de bedoeling het vaartuig gereed te maken voor het verkrijgen van een certificaat van overeenstemming, een certificaat van vrijstelling of een certificaat van deugdelijkheid.   
+2.  Het tarief, bedoeld in het eerste lid, is niet verschuldigd indien het een vergunning betreft uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Nederland, met de bedoeling het vaartuig gereed te maken voor het verkrijgen van een certificaat van overeenstemming, een certificaat van vrijstelling of een certificaat van deugdelijkheid.  
 
 ### §  4  
 
 ####Tarief onderzoek radio-installatie
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### §  5  
 
@@ -142,22 +142,22 @@ Vervallen per 01-01-2014
 
 ### Artikel  21  
 
-Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, verklaring of document als bedoeld in deze regeling, buiten toedoen van de ambtenaren van de Scheepvaartinspectie niet volledig is uitgevoerd en niet leidt tot de afgifte van dat document, is een tarief verschuldigd van € 142 per manuur.  
+Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, verklaring of document als bedoeld in deze regeling, buiten toedoen van de ambtenaren van de Scheepvaartinspectie niet volledig is uitgevoerd en niet leidt tot de afgifte van dat document, is een tarief verschuldigd van € 142 per manuur. 
 
 ### Artikel  22  
 
-1.  Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van € 73 per manuur.   
-2.  Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken in het buitenland buiten de daar ter plaatse geldende werktijden.   
+1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van € 73 per manuur. 
+2. Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken in het buitenland buiten de daar ter plaatse geldende werktijden. 
 
 ### Artikel  23  
 
 1.  Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk in het buitenland wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, opgenomen in bijlage 2, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van € 1.195.   
-2.  De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken in het buitenland komen voor rekening van de opdrachtgever. Deze kosten worden afzonderlijk in rekening gebracht.   
+2.  De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken in het buitenland komen voor rekening van de opdrachtgever. Deze kosten worden afzonderlijk in rekening gebracht.  
 
 ### Artikel  24  
 
 1.  Voor de werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en waarvoor niet op grond van een van de overige artikelen van deze regeling een tarief is vastgesteld, is een tarief verschuldigd van € 142 per manuur.   
-2.  Het tarief, bedoeld in het eerste lid, is exclusief de kosten voor de afgifte van een certificaat, verklaring, vergunning of document als bedoeld in deze regeling.   
+2.  Het tarief, bedoeld in het eerste lid, is exclusief de kosten voor de afgifte van een certificaat, verklaring, vergunning of document als bedoeld in deze regeling.  
 
 ### §  6  
 
@@ -165,20 +165,20 @@ Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, ver
 
 ### Artikel  25  
 
-De [Regeling Nederlandse tarieven ingevolge de Schepenwet](../../../../../../ministeriele-regeling/regeling/nederlandse/tarieven/ingevolge/de/schepenwet/BWBR0017742/README.md) wordt ingetrokken.  
+De [Regeling Nederlandse tarieven ingevolge de Schepenwet](../../../../../../ministeriele-regeling/regeling/nederlandse/tarieven/ingevolge/de/schepenwet/BWBR0017742/README.md) wordt ingetrokken. 
 
 ### Artikel  26  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  27  
 
-Deze regeling wordt aangehaald als: Regeling Nederlandse tarieven Schepenwet.  
+Deze regeling wordt aangehaald als: Regeling Nederlandse tarieven Schepenwet. 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs  
+Minister van Verkeer en Waterstaat,
+K.M.H. Peijs    
 
 ### Bijlage  1  
 
@@ -216,9 +216,9 @@ Tarief onderzoek van niet-geklasseerde schepen en aannemersmateriaal
 | Hernieuwde afgifte  | € 4.260  |
 | Viseren certificaten  | € 1.300  |
 
-### Bijlage  2  
+### Bijlage 2 
 
-####, bedoeld in artikel 23, eerste lid 
+#### , bedoeld in artikel 23, eerste lid 
 
 Onderzoekstermijnen als bedoeld in artikel 23, eerste lid.  
 
@@ -239,7 +239,7 @@ Onderzoekstermijnen als bedoeld in artikel 23, eerste lid.
 | --- | 500–2000 GT  | 6  |
 | --- | > 2000 GT  | 7  |
 | Sleepboot  | < 24 meter  | 8  |
-| --- | > 24 meter  | 11  |
+| --- | > 24 meter   | 11  |
 | Personentender  | < 24 meter  | 8  |
 | --- | > 24 meter  | 12  |
 | Patrouille-, peil- en meetvaartuig  | < 24 meter  | 7  |
@@ -306,14 +306,14 @@ Onderzoekstermijnen als bedoeld in artikel 23, eerste lid.
 | --- | > 24 meter  | 9  |
 | --- | --- | --- |
 | f. Viseren certificaten SI schepen  | --- | --- |
-| Vrachtschip  | < 500 GT  | 1  |
+| Vrachtschip   | < 500 GT  | 1  |
 | --- | > 500 GT  | 2  |
 | Aannemersmateriaal met voortstuwing  | –  | 2  |
 | Aannemersmateriaal zonder voortstuwing  | –  | 1  |
 | Aannemersmateriaal zonder voortstuwing, inclusief bemand werken  | –  | 1  |
 | Supply- en supportschip  | < 500 GT  | 1  |
 | --- | > 500 GT  | 2  |
-| Sleepboot  | < 24 meter  | 1  |
+| Sleepboot  | < 24 meter   | 1  |
 | --- | > 24 meter  | 2  |
 | Personentender  | –  | 1  |
 | Patrouille-, peil- en meetvaartuig  | –  | 1  |

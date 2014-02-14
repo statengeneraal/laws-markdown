@@ -6,19 +6,19 @@ Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:
 
 ### Artikel  1  
 
-Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het beoordelen van werkzoekenden voor het volgen van een scholing het protocol als weergegeven in de bijlage bij dit besluit.  
+Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het beoordelen van werkzoekenden voor het volgen van een scholing het protocol als weergegeven in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
-De [Beleidsregels Protocol Scholing 2012](../../../../../../zbo/beleidsregels/protocol/scholing/2012/BWBR0032081/README.md), gepubliceerd in de *Staatscourant* van 12 oktober 2012, nummer 20675 worden ingetrokken.  
+De [Beleidsregels Protocol Scholing 2012](../../../../../../zbo/beleidsregels/protocol/scholing/2012/BWBR0032081/README.md), gepubliceerd in de *Staatscourant* van 12 oktober 2012, nummer 20675 worden ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Beleidsregels Protocol Scholing 2014  
+Dit besluit wordt aangehaald als: Beleidsregels Protocol Scholing 2014 
 Dit besluit wordt met de toelichting en de bijlage in de Staatscourant geplaatst.   
 
 Amsterdam 
@@ -35,13 +35,13 @@ Voorzitter Raad van bestuur UWV
 
 ####Definitie van scholing
 
-Voor het Protocol wordt de volgende definitie van scholing gehanteerd:  *‘Opleiding of scholing is het systematisch verwerven van arbeidsmarktrelevante kennis en/of vaardigheden voor de uitoefening, het behoud of het verkrijgen van een taak, functie of (zelfstandig) beroep onder begeleiding van daartoe aangestelde docenten. Het dient zowel voor het uitoefenen als het verkrijgen van één of meerdere (deel)kwalificatie(s) voor een taak, functie of beroep’.*  In dit Protocol worden onder het begrip scholing alle kwalificerende instrumenten begrepen, die een werkzoekende dient te volgen om zijn (toekomstige) functie uit te kunnen oefenen.  
+Voor het Protocol wordt de volgende definitie van scholing gehanteerd:  *‘Opleiding of scholing is het systematisch verwerven van arbeidsmarktrelevante kennis en/of vaardigheden voor de uitoefening, het behoud of het verkrijgen van een taak, functie of (zelfstandig) beroep onder begeleiding van daartoe aangestelde docenten. Het dient zowel voor het uitoefenen als het verkrijgen van één of meerdere (deel)kwalificatie(s) voor een taak, functie of beroep’.*  In dit Protocol worden onder het begrip scholing alle kwalificerende instrumenten begrepen, die een werkzoekende dient te volgen om zijn (toekomstige) functie uit te kunnen oefenen. 
 
 ### 2  
 
 ####Doelgroep Protocol
 
-UWV past het Protocol Scholing toe als de vraag zich voordoet of inzet van scholing voor een werkzoekende in het kader van zijn re-integratie – en daarmee werkhervatting – noodzakelijk is aangewezen. Dit geldt als algemeen uitgangspunt. Het Protocol Scholing is daarom altijd van toepassing op *alle* werkzoekenden met een AG-, ZW- of een WW-uitkering die scholing willen gaan volgen.  
+UWV past het Protocol Scholing toe als de vraag zich voordoet of inzet van scholing voor een werkzoekende in het kader van zijn re-integratie – en daarmee werkhervatting – noodzakelijk is aangewezen. Dit geldt als algemeen uitgangspunt. Het Protocol Scholing is daarom altijd van toepassing op *alle* werkzoekenden met een AG-, ZW- of een WW-uitkering die scholing willen gaan volgen. 
 
 ### 3  
 
@@ -53,7 +53,7 @@ A. Het bepalen van de arbeidsmarktrelevantie van de scholing. De stappen die hie
 
 B. Het toetsen van de scholing op basis van de regelgeving komt in paragraaf 5 aan de orde. Daarin wordt de scholing getoetst aan het wettelijk kader en het UWV-beleid.  
 
-C. Het beoordelen van de schoolbaarheid van de werkzoekende met een AG- of ZW-uitkering. Dit gebeurt in paragraaf 6. In deze paragraaf zijn de indicatoren opgenomen hoe wordt bepaald of de voorgenomen scholing haalbaar is voor de werkzoekende met een AG- of ZW-uitkering. UWV toetst de schoolbaarheid van een werkzoekende met een WW-uitkering niet. Ook niet in het geval het om een werkzoekende gaat met een WW-uitkering van 55 jaar en ouder.   Alleen als aan alle drie genoemde indicatoren is voldoen, kan gesteld worden dat de scholing noodzakelijk. De uitkomst van de beoordeling op de indicatoren kan zijn dat de scholing óf noodzakelijk is óf niet noodzakelijk. Is de scholing noodzakelijk dan kan een werkzoekende de scholing volgen en hoeft zich, gedurende de looptijd van de scholing, niet beschikbaar te stellen voor de arbeidsmarkt. Is de scholing niet noodzakelijk, dan geldt deze vrijstelling niet.  
+C. Het beoordelen van de schoolbaarheid van de werkzoekende met een AG- of ZW-uitkering. Dit gebeurt in paragraaf 6. In deze paragraaf zijn de indicatoren opgenomen hoe wordt bepaald of de voorgenomen scholing haalbaar is voor de werkzoekende met een AG- of ZW-uitkering. UWV toetst de schoolbaarheid van een werkzoekende met een WW-uitkering niet. Ook niet in het geval het om een werkzoekende gaat met een WW-uitkering van 55 jaar en ouder.   Alleen als aan alle drie genoemde indicatoren is voldoen, kan gesteld worden dat de scholing noodzakelijk. De uitkomst van de beoordeling op de indicatoren kan zijn dat de scholing óf noodzakelijk is óf niet noodzakelijk. Is de scholing noodzakelijk dan kan een werkzoekende de scholing volgen en hoeft zich, gedurende de looptijd van de scholing, niet beschikbaar te stellen voor de arbeidsmarkt. Is de scholing niet noodzakelijk, dan geldt deze vrijstelling niet. 
 
 ### 4  
 
@@ -78,13 +78,13 @@ Voor WW-gerechtigden, die van een werkgever een baan in het vooruitzicht hebben 
 * voor dezelfde duur als de scholing, met een ondergrens van zes maanden.   
 ### *Scholingsvoucher voor werkzoekenden met WW-uitkering van 55 jaar en ouder* 
 
-Binnen de doelgroep WW-gerechtigden nemen de werkzoekende van 55 jaar en ouder een aparte plaats in. Als UWV aan hen – of aan hun toekomstige werkgever – een scholingsvoucher heeft toegekend op basis van de [Regeling scholing en plaatsing oudere werklozen](../../../../../../ministeriele-regeling/regeling/subsidie/scholing/en/plaatsing/oudere/werklozen/BWBR0033947/README.md) – dan is de scholing arbeidsmarktrelevant.  
+Binnen de doelgroep WW-gerechtigden nemen de werkzoekende van 55 jaar en ouder een aparte plaats in. Als UWV aan hen – of aan hun toekomstige werkgever – een scholingsvoucher heeft toegekend op basis van de [Regeling scholing en plaatsing oudere werklozen](../../../../../../ministeriele-regeling/regeling/subsidie/scholing/en/plaatsing/oudere/werklozen/BWBR0033947/README.md) – dan is de scholing arbeidsmarktrelevant. 
 
 ### 4.1.2  
 
 ####Arbeidsmarktrelevantie moet worden aangetoond
 
-WW-gerechtigden die niet aan de in paragraaf 4.1.1. genoemde criteria voldoen moeten zelf de arbeidsmarktrelevantie van hun voorgenomen scholing aan kunnen tonen. Hij maakt inzichtelijk tot welk beroep of functie de scholing opleidt en welke vacatures hij kan vervullen. Kan hij de arbeidsmarktrelevantie niet aantonen, dan staat deze niet vast, waarmee de noodzaak tot het volgen van een scholing evenmin is vastgesteld. Alleen indien er scholing conform de voorgaande stappen arbeidsmarktrelevant is, volgt onderdeel B van het Protocol: de toets van de scholing. Als een scholing op grond van voorafgaande stappen niet arbeidsmarktrelevant is, staat het de werkzoekende vrij om toch de scholing te volgen, alleen volgt er dan geen vrijstelling van de sollicitatieverplichtingen. De werkzoekende dient zich derhalve beschikbaar te stellen voor de arbeidsmarkt. Er is geen sprake van de noodzaak tot het volgen van een scholing. Van de werkzoekende wordt verwacht dat hij voorrang geeft aan werkhervatting boven het kunnen blijven volgen van de scholing.  
+WW-gerechtigden die niet aan de in paragraaf 4.1.1. genoemde criteria voldoen moeten zelf de arbeidsmarktrelevantie van hun voorgenomen scholing aan kunnen tonen. Hij maakt inzichtelijk tot welk beroep of functie de scholing opleidt en welke vacatures hij kan vervullen. Kan hij de arbeidsmarktrelevantie niet aantonen, dan staat deze niet vast, waarmee de noodzaak tot het volgen van een scholing evenmin is vastgesteld. Alleen indien er scholing conform de voorgaande stappen arbeidsmarktrelevant is, volgt onderdeel B van het Protocol: de toets van de scholing. Als een scholing op grond van voorafgaande stappen niet arbeidsmarktrelevant is, staat het de werkzoekende vrij om toch de scholing te volgen, alleen volgt er dan geen vrijstelling van de sollicitatieverplichtingen. De werkzoekende dient zich derhalve beschikbaar te stellen voor de arbeidsmarkt. Er is geen sprake van de noodzaak tot het volgen van een scholing. Van de werkzoekende wordt verwacht dat hij voorrang geeft aan werkhervatting boven het kunnen blijven volgen van de scholing. 
 
 ### 4.2  
 
@@ -114,7 +114,7 @@ Indien er geen concrete vacature bij een werkgever in zicht is, kan scholing aan
 
 ####Onderdeel B: Toets scholing aan wet- en regelgeving
 
-In dit onderdeel van het Protocol wordt vastgesteld of de scholing voldoet aan de regelgeving. De scholing die UWV inzet ten behoeve van haar werkzoekenden moet aan de onderstaande voorwaarden voldoen : <sup> 1  Zie scholingsregeling WW (artikel 76).  </sup> 
+In dit onderdeel van het Protocol wordt vastgesteld of de scholing voldoet aan de regelgeving. De scholing die UWV inzet ten behoeve van haar werkzoekenden moet aan de onderstaande voorwaarden voldoen<sup> 1 Zie scholingsregeling WW (artikel 76). </sup>: 
 
 – De scholing moet bestaan uit het systematisch verwerven van kennis dan wel vaardigheden volgens een vooraf vastgesteld programma, waarbij de verworven kennis en vaardigheden worden getoetst;  
 
@@ -124,9 +124,9 @@ In dit onderdeel van het Protocol wordt vastgesteld of de scholing voldoet aan d
 
 |
 |
-|  *Uitkomst*   *Voor WW-gerechtigden*:  – De arbeidsmarktrelevantie staat op basis van het paragraaf 4 vermelde vast én  – De scholing voldoet aan de vereisten in paragraaf 5  dan is er sprake van een noodzakelijke scholing. Paragraaf 6 is niet van toepassing.  Voldoet de scholing niet aan de wettelijke vereisten, dan is er géén sprake van een noodzakelijke scholing.  |
+|  *Uitkomst*    *Voor WW-gerechtigden*:  – De arbeidsmarktrelevantie staat op basis van het paragraaf 4 vermelde vast én  – De scholing voldoet aan de vereisten in paragraaf 5  dan is er sprake van een noodzakelijke scholing. Paragraaf 6 is niet van toepassing.  Voldoet de scholing niet aan de wettelijke vereisten, dan is er géén sprake van een noodzakelijke scholing.  |
 | --- |
-| *Voor ZW- en AG-gerechtigden*:  – De arbeidsmarktrelevantie staat op basis van het in paragraaf 4 vermelde vast én  – De scholing voldoet aan de vereisten in paragraaf 5  dan moet conform paragraaf 6 de schoolbaarheid van de werkzoekende worden vastgesteld. Voldoet de scholing niet aan de wettelijke vereisten, dan is er géén sprake van een noodzakelijke scholing.  |
+|  *Voor ZW- en AG-gerechtigden*:  – De arbeidsmarktrelevantie staat op basis van het in paragraaf 4 vermelde vast én  – De scholing voldoet aan de vereisten in paragraaf 5  dan moet conform paragraaf 6 de schoolbaarheid van de werkzoekende worden vastgesteld. Voldoet de scholing niet aan de wettelijke vereisten, dan is er géén sprake van een noodzakelijke scholing.  |
 
 ### 6  
 
@@ -150,13 +150,13 @@ Indien is vastgesteld dat de scholing arbeidsmarkt relevant is én voldoet aan h
 
 ####Motivatie
 
-Motivatie is erg belangrijk voor het welslagen van een scholing. Indien de werkzoekende niet gemotiveerd is voor het volgen van scholing, heeft scholing geen zin. Er zal dan eerst aandacht moeten zijn voor de motivatie. Overigens speelt dit aspect natuurlijk ook al aan het begin van de re-integratieactiviteiten.  
+Motivatie is erg belangrijk voor het welslagen van een scholing. Indien de werkzoekende niet gemotiveerd is voor het volgen van scholing, heeft scholing geen zin. Er zal dan eerst aandacht moeten zijn voor de motivatie. Overigens speelt dit aspect natuurlijk ook al aan het begin van de re-integratieactiviteiten. 
 
 ### Indicator  2  
 
 ####Cognitieve vaardigheden
 
-Vastgesteld moet worden of de scholing aansluit bij de cognitieve vaardigheden van de werkzoekende. Hierbij moet ook gecheckt worden of voldaan wordt aan de formele instroomeisen van de scholing. Op basis van de capaciteiten van de werkzoekende kan gekozen worden voor theoretisch of meer praktijkgericht onderwijs. Indien er onzekerheid bestaat over de cognitieve vaardigheden, kan hiervoor extern advies (Assesment Noodzaak Scholing) worden ingezet. Bij het vaststellen van de cognitieve vaardigheden wordt ook gekeken worden naar de scholingen, die de werkzoekende in het recente verleden heeft gevolgd. Het niet afronden van scholingen is mogelijk een signaal voor belemmeringen in de persoonlijke situatie, die het risico op uitval vergroten. Deze belemmeringen zijn nader uitgewerkt onder indicator 3.  
+Vastgesteld moet worden of de scholing aansluit bij de cognitieve vaardigheden van de werkzoekende. Hierbij moet ook gecheckt worden of voldaan wordt aan de formele instroomeisen van de scholing. Op basis van de capaciteiten van de werkzoekende kan gekozen worden voor theoretisch of meer praktijkgericht onderwijs. Indien er onzekerheid bestaat over de cognitieve vaardigheden, kan hiervoor extern advies (Assesment Noodzaak Scholing) worden ingezet. Bij het vaststellen van de cognitieve vaardigheden wordt ook gekeken worden naar de scholingen, die de werkzoekende in het recente verleden heeft gevolgd. Het niet afronden van scholingen is mogelijk een signaal voor belemmeringen in de persoonlijke situatie, die het risico op uitval vergroten. Deze belemmeringen zijn nader uitgewerkt onder indicator 3. 
 
 ### Indicator  3  
 
@@ -164,13 +164,13 @@ Vastgesteld moet worden of de scholing aansluit bij de cognitieve vaardigheden v
 
 De persoonlijke belemmeringen, die hieronder worden onderscheiden, zijn ontleend aan het Protocol Zeer Moeilijk Plaatsbaar (ZMP). De belemmeringen, die gelden voor ZMP, waardoor de werkzoekenden moeilijk plaatsbaar zijn op de arbeidsmarkt, vormen vaak ook belemmeringen om succesvol een scholing te volgen. Het benoemen van de belemmeringen in het kader van schoolbaarheid heeft echter een andere functie: wanneer een belemmering wordt geconstateerd, moet bekeken worden of door middel van aanpassingen in de inrichting van de scholing, scholing toch tot de mogelijkheden behoort. Het gaat hierbij o.a. onder meer om de volgende mogelijke aanpassingen: 
 
-– Aanpassingen in het aantal dagdelen of duur van het traject . <sup> 2  Sommige werkzoekenden hebben een medische duurbeperking ten aanzien van arbeid. Dit hoeft echter niet te betekenen, dat ook slechts voor een aantal dagen per week scholing gevolgd kan worden. In overleg tussen de arbeidsdeskundige, de verzekeringsarts van UWV en de werkzoekende kan een oplossing worden gezocht.  </sup>  
+– Aanpassingen in het aantal dagdelen of duur van het traject<sup> 2 Sommige werkzoekenden hebben een medische duurbeperking ten aanzien van arbeid. Dit hoeft echter niet te betekenen, dat ook slechts voor een aantal dagen per week scholing gevolgd kan worden. In overleg tussen de arbeidsdeskundige, de verzekeringsarts van UWV en de werkzoekende kan een oplossing worden gezocht. </sup>.  
 
 – Aanpassingen in de wijze waarop onderwijs wordt gegeven.  
 
 – Extra begeleiding gedurende de scholing.  
 
-– Psychische begeleiding.   In complexe gevallen heeft UWV de optie om extern advies in te zetten, om de schoolbaarheid vast te stellen voor werkzoekenden met een AG- of ZW-uitkering.  
+– Psychische begeleiding.   In complexe gevallen heeft UWV de optie om extern advies in te zetten, om de schoolbaarheid vast te stellen voor werkzoekenden met een AG- of ZW-uitkering. 
 
 ### a  
 
@@ -182,7 +182,7 @@ De persoonlijke belemmeringen, die hieronder worden onderscheiden, zijn ontleend
 
 – Aanwezigheid van een negatieve prognose voor de ontwikkeling van de medische aandoening, waarmee rekening dient te worden gehouden.  
 
-– Aanwezigheid van een ernstige verslavingsproblematiek. Met deze problematiek moet mogelijk voorafgaand of tijdens de scholing rekening worden gehouden.    
+– Aanwezigheid van een ernstige verslavingsproblematiek. Met deze problematiek moet mogelijk voorafgaand of tijdens de scholing rekening worden gehouden.   
 
 ### b  
 
@@ -194,13 +194,13 @@ Binnen de uitkeringssituatie heeft de werkzoekende zijn eigen zinvolle bezighede
 
 – mantelzorg;  
 
-– vrijwilligerswerk.   Om succesvol deel te kunnen nemen aan scholing zal de werkzoekende bereid moeten zijn om tijd vrij te maken, zodat de scholing gevolgd kan worden en huiswerk gemaakt kan worden. Eventueel kan extra begeleiding worden ingezet.  
+– vrijwilligerswerk.   Om succesvol deel te kunnen nemen aan scholing zal de werkzoekende bereid moeten zijn om tijd vrij te maken, zodat de scholing gevolgd kan worden en huiswerk gemaakt kan worden. Eventueel kan extra begeleiding worden ingezet. 
 
 ### c  
 
 ####Schuldenproblematiek
 
-Het gaat hier om werkzoekenden, die te maken hebben met een dusdanige schuldenproblematiek, dat zij moeilijkheden ondervinden om zich te concentreren op en/of te motiveren voor het volgen van een scholing. De werkzoekende zal eerst of gelijktijdig een schuldsaneringtraject moeten volgen, wil scholing succesvol kunnen zijn.  
+Het gaat hier om werkzoekenden, die te maken hebben met een dusdanige schuldenproblematiek, dat zij moeilijkheden ondervinden om zich te concentreren op en/of te motiveren voor het volgen van een scholing. De werkzoekende zal eerst of gelijktijdig een schuldsaneringtraject moeten volgen, wil scholing succesvol kunnen zijn. 
 
 ### d  
 
@@ -210,7 +210,7 @@ Het gaat hier om werkzoekenden, die te maken hebben met een dusdanige schuldenpr
 
 – Een thuissituatie, die het succesvol volgen van een scholing belemmert. Bijvoorbeeld de aanwezigheid van kleine kinderen of inwonende familieleden.  
 
-– De belemmeringen kunnen mogelijk verholpen worden door extra begeleiding tijdens de scholing.    
+– De belemmeringen kunnen mogelijk verholpen worden door extra begeleiding tijdens de scholing.   
 
 ### e  
 
@@ -242,5 +242,5 @@ Het gaat hier om werkzoekenden, die te maken hebben met een dusdanige schuldenpr
 
 ####Vaststellen schoolbaarheid werkzoekende
 
-(alleen voor een werkzoekende met een AG-ZW uitkering, voor werkzoekenden met een WW-uitkering wordt de schoolbaarheid vastgesteld door de instantie die de scholing inzet)   ![253157](http://wetten.overheid.nl/Illustration/253157)
+(alleen voor een werkzoekende met een AG-ZW uitkering, voor werkzoekenden met een WW-uitkering wordt de schoolbaarheid vastgesteld door de instantie die de scholing inzet)  ![253157](http://wetten.overheid.nl/Illustration/253157)
 

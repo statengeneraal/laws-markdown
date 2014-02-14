@@ -11,17 +11,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de jeugdzorg.   
+Wijzigt de Wet op de jeugdzorg. 
 
 ### Artikel  II  
 
-Onze Minister voor Jeugd en Gezin zendt binnen vier jaar na de inwerkingtreding van het in artikel I, onderdeel B, opgenomen [Hoofdstuk IA, paragraaf 4, van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat hoofdstuk in de praktijk. Onverminderd het bepaalde in de eerste volzin zendt Onze Minister voor Jeugd en Gezin binnen twee jaar na de inwerkingtreding aan de Staten-Generaal een verslag over het gebruik van de verwijsindex door meldingsbevoegden als bedoeld in [artikel 2b van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van het in artikel I, onderdeel B, opgenomen [Hoofdstuk IA, paragraaf 4, van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat hoofdstuk in de praktijk. Onverminderd het bepaalde in de eerste volzin zendt Onze Minister van Volksgezondheid, Welzijn en Sport binnen twee jaar na de inwerkingtreding aan de Staten-Generaal een verslag over het gebruik van de verwijsindex door meldingsbevoegden als bedoeld in [artikel 2b van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
 
 ### Artikel  III  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 4 februari 2010  
