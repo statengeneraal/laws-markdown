@@ -234,7 +234,7 @@ b. verzekeraars als bedoeld in artikel 1:1 van de Wet op het financieel toezicht
 
 c. scholen voor zover dat met het oog op de speciale begeleiding van leerlingen of het treffen van bijzondere voorzieningen in verband met hun gezondheidstoestand noodzakelijk is;  
 
-d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg en de rechtspersoon, bedoeld in artikel 254, tweede lid, of artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
+d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg en de rechtspersoon, bedoeld in artikel 254, tweede lid, of artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
 
 e. Onze Minister voor zover dat in verband met de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen noodzakelijk is of  
 

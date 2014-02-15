@@ -214,7 +214,7 @@ c. zorg te dragen voor de behandeling van klaagschriften ingevolge hoofdstuk XII
 
 d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.     
 3.  Indien het advies of de inlichtingen een particuliere inrichting betreffen en zijn bestemd voor Onze Minister of de Raad, voegt de commissie de desbetreffende opmerkingen van het betrokken bestuur daarbij, tenzij naar het oordeel van Onze Minister, de Raad of de commissie bijzondere spoed geboden is dan wel het bestuur zijn opmerkingen naar het oordeel van de commissie niet binnen een redelijke termijn op schrift heeft gesteld.   
-4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in artikel 1, onder z van de Wet op de jeugdzorg.   
+4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld over de bevoegdheden, de samenstelling en de werkwijze van de commissie, de benoeming en het ontslag van haar leden alsmede over de werkzaamheden van de maandcommissaris.   
 
 ### Artikel  7a  

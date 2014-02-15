@@ -3,7 +3,7 @@
 ##Regeling tegemoetkoming onderwijsbijdrage en schoolkosten
 
 De minister van onderwijs, cultuur en wetenschappen,  
-Gelet op de artikelen: 1.3, derde lid, 3.10, tweede lid, onderdeel b, 4.12, tweede lid, 5.6, eerste lid, 7.3, vierde lid, 8.1, eerste lid, 9.2, vierde lid, 9.4, eerste lid en 10.9, derde, vierde, zevende en achtste lid, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten,
+Gelet op de artikelen: [1.3, derde lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [3.10, tweede lid, onderdeel b](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [4.12, tweede lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [5.6, eerste lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [7.3, vierde lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [8.1, eerste lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [9.2, vierde lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [9.4, eerste lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) en [10.9, derde, vierde, zevende en achtste lid, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md),
 Besluit     
 ### Hoofdstuk  1  
 
@@ -13,9 +13,9 @@ Besluit
 
 In deze regeling wordt verstaan onder: 
 
-*wet:*Wet tegemoetkoming onderwijsbijdrage en schoolkosten,  
+*wet:*[Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md),  
 
-*besluit:*Besluit tegemoetkoming onderwijsbijdrage en schoolkosten,  
+*besluit:*[Besluit tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md),  
 
 *Minister:* Minister van Onderwijs, Cultuur en Wetenschap.    
 
@@ -25,23 +25,23 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2.1  Formulieren  
 
-Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming en van de hoogte daarvan, worden door de aanvrager, bedoeld in artikel 1.3 van de wet, of diens partner uitsluitend verstrekt door invulling en inlevering van daartoe bestemde door de Minister te verstrekken formulieren.  
+Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming en van de hoogte daarvan, worden door de aanvrager, bedoeld in [artikel 1.3 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), of diens partner uitsluitend verstrekt door invulling en inlevering van daartoe bestemde door de Minister te verstrekken formulieren.  
 
 ### Artikel  2.2  Verstrekking gegevens  
 
-1.  Indien het betreft een aanvraag van een tegemoetkoming op grond van hoofdstuk 3 of hoofdstuk 5 van de wet, doen de aanvrager en diens partner opgave van het sociaal-fiscaalnummer waaronder zij bij de rijksbelastingdienst zijn geregistreerd.   
-2.  Indien het betreft een aanvraag van een tegemoetkoming op grond van hoofdstuk 4 van de wet, doen de leerling, alsmede de TOS-ouder en diens partner, opgave van het sociaal-fiscaalnummer waaronder zij bij de rijksbelastingdienst zijn geregistreerd.   
-3.  Indien het betreft een aanvraag door een minderjarige zonder wettelijke vertegenwoordiger of door een gehuwde jonger dan 18 jaren, wordt bij de aanvraag een kopie van het uittreksel uit de gemeentelijke basisadministratie persoonsgegevens meegezonden.   
-4.  Indien het betreft een aanvraag door een deelnemer vavo of een scholier, van wie de tegemoetkoming op grond van afwezigheid, bedoeld in artikel 4.12 van de wet, geheel uit lening bestaat, en die opnieuw aanspraak maakt op tegemoetkoming in de vorm van een gift, wordt bij de aanvraag een verklaring meegezonden waarin het bestuur van de onderwijsinstelling meedeelt met ingang van welke datum de deelnemer vavo of de scholier weer aan het onderwijs is gaan deelnemen.   
+1.  Indien het betreft een aanvraag van een tegemoetkoming op grond van [hoofdstuk 3](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of [hoofdstuk 5 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), doen de aanvrager en diens partner opgave van hun burgerservicenummer.   
+2.  Indien het betreft een aanvraag van een tegemoetkoming op grond van [hoofdstuk 4 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), doen de leerling, alsmede de TOS-ouder en diens partner, opgave van hun burgerservicenummer.   
+3.  Indien het betreft een aanvraag door een minderjarige zonder wettelijke vertegenwoordiger of door een gehuwde jonger dan 18 jaren, wordt bij de aanvraag een afschrift uit de basisregistratie personen meegezonden.   
+4.  Indien het betreft een aanvraag door een deelnemer vavo of een scholier, van wie de tegemoetkoming op grond van afwezigheid, bedoeld in [artikel 4.12 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), geheel uit lening bestaat, en die opnieuw aanspraak maakt op tegemoetkoming in de vorm van een gift, wordt bij de aanvraag een verklaring meegezonden waarin het bestuur van de onderwijsinstelling meedeelt met ingang van welke datum de deelnemer vavo of de scholier weer aan het onderwijs is gaan deelnemen.   
 
 ### Artikel  2.3  Data toekenningsperiode  
 
-1.  De datum, bedoeld in artikel 3.10, tweede lid, onderdeel c, van de wet is 1 januari van het schooljaar.   
-2.  Het tijdstip, bedoeld in artikel 10.9, derde, vierde, zevende en achtste lid, van de wet, is telkens 1 januari van het schooljaar.   
+1.  De datum, bedoeld in [artikel 3.10, tweede lid, onderdeel c, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) is 1 januari van het schooljaar.   
+2.  Het tijdstip, bedoeld in [artikel 10.9, derde, vierde, zevende en achtste lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), is telkens 1 januari van het schooljaar.   
 
 ### Artikel  2.4  Langdurige afwezigheid in het vavo  
 
-Artikel 4.12, eerste lid, van de wet is van overeenkomstige toepassing op een deelnemer vavo die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.  
+[Artikel 4.12, eerste lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) is van overeenkomstige toepassing op een deelnemer vavo die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.  
 
 ### Hoofdstuk  3  
 
@@ -49,7 +49,7 @@ Artikel 4.12, eerste lid, van de wet is van overeenkomstige toepassing op een de
 
 ### Artikel  3.1  Verrekening na herziening  
 
-1.  Indien uit een beschikking tot herziening, bedoeld in artikel 7.1, eerste lid, van de wet blijkt dat teveel tegemoetkoming is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.   
+1.  Indien uit een beschikking tot herziening, bedoeld in [artikel 7.1, eerste lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) blijkt dat teveel tegemoetkoming is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.   
 2.  Eerst wordt het teveel uitbetaalde bedrag zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de beschikking, bedoeld in het eerste lid, aan de aanvrager zouden moeten worden gedaan.   
 3.  Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in hoofdstuk 4. Wanneer die betalingen hoger zijn dan € 59,81 naar de maatstaf van 1 januari 2014, geschiedt de verrekening met dat bedrag.   
 4.  Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over de reeds op het tijdstip van afgifte van die beschikking verstreken betalingsperiode betaalbaar zouden worden gesteld indien geen sprake zou zijn van verrekening als bedoeld in het tweede lid.   
@@ -64,7 +64,7 @@ Artikel 4.12, eerste lid, van de wet is van overeenkomstige toepassing op een de
 
 ### Artikel  3.3  Aanpassing  
 
-Aanpassing van het bedrag, bedoeld in artikel 3.1, derde lid, geschiedt met de procentuele wijziging, bedoeld in artikel 5, tweede lid, van het besluit.  
+Aanpassing van het bedrag, bedoeld in artikel 3.1, derde lid, geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](../../../../../../../AMvB/besluit/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012645/README.md), van het besluit.  
 
 ### Hoofdstuk  4  
 
@@ -72,17 +72,17 @@ Aanpassing van het bedrag, bedoeld in artikel 3.1, derde lid, geschiedt met de p
 
 ### Artikel  4.1  Verrekening met onderwijsbijdrage  
 
-De tegemoetkoming, bedoeld in de hoofdstukken 3 en 4 van de wet, met uitzondering van de basistoelage, bedoeld in artikel 4.3 van de wet, wordt verrekend met de aan de Minister verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de Minister is betaald, wordt het bedrag door de Minister terugbetaald binnen 8 weken na het besluit, bedoeld in artikel 3.8, derde lid, dan wel artikel 4.8, tweede lid, van de wet.  
+De tegemoetkoming, bedoeld in de [hoofdstukken 3](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) en [4 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), met uitzondering van de basistoelage, bedoeld in [artikel 4.3 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), wordt verrekend met de aan de Minister verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de Minister is betaald, wordt het bedrag door de Minister terugbetaald binnen 8 weken na het besluit, bedoeld in [artikel 3.8, derde lid](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), dan wel [artikel 4.8, tweede lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).  
 
 ### Artikel  4.2  Tijdstip van uitbetaling  
 
-1.  Indien op een aanvraag om tegemoetkoming op grond van hoofdstuk 3 van de wet voor 1 januari van het schooljaar een besluit is genomen, wordt de helft van de tegemoetkoming in de schoolkosten, uitbetaald binnen 4 weken na het besluit, bedoeld in artikel 3.8, derde lid, van de wet, en wordt het resterende deel van de tegemoetkoming in de schoolkosten uitbetaald in de maand februari van het schooljaar.   
-2.  Indien op een aanvraag om tegemoetkoming op grond van in hoofdstuk 3 van de wet na 31 december van het schooljaar een besluit is genomen, wordt de tegemoetkoming uitbetaald binnen 4 weken na het besluit, bedoeld in artikel 3.8, derde lid, van de wet.   
-3.  De overbruggingstegemoetkoming, bedoeld in de artikelen 3.6 en 3.7 van de wet, wordt uitbetaald binnen 4 weken na het besluit, bedoeld in artikel 3.8, derde lid, van de wet.   
-4.  De tegemoetkoming, bedoeld in hoofdstuk 4 van de wet, wordt uitbetaald tussen de twintigste en de dertigste dag van elke maand.   
-5.  De tegemoetkoming, bedoeld in hoofdstuk 5 van de wet, wordt uitbetaald binnen 4 weken na het besluit, bedoeld in artikel 5.5, derde lid, van de wet.   
-6.  De tegemoetkoming, bedoeld in hoofdstuk 10 van de wet, wordt uitbetaald binnen 4 weken na het besluit, bedoeld in artikel 10.8, derde lid, van de wet.   
-7.  In afwijking van het eerste lid wordt de tegemoetkoming, bedoeld in artikel 3.5, eerste lid, van de WTOS, voor het schooljaar 2008–2009, voor wat betreft een leerling in de onderbouw van het volledig op grond van de WVO bekostigd onderwijs en een leerling in het volledig op grond van de WEB bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum en een leerling in de bovenbouw van het volledig op grond van de WVO bekostigd onderwijs, binnen vier weken na het besluit, bedoeld in artikel 3.8, derde lid, van de WTOS uitbetaald.   
+1.  Indien op een aanvraag om tegemoetkoming op grond van [hoofdstuk 3 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) voor 1 januari van het schooljaar een besluit is genomen, wordt de helft van de tegemoetkoming in de schoolkosten, uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), en wordt het resterende deel van de tegemoetkoming in de schoolkosten uitbetaald in de maand februari van het schooljaar.   
+2.  Indien op een aanvraag om tegemoetkoming op grond van in [hoofdstuk 3 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) na 31 december van het schooljaar een besluit is genomen, wordt de tegemoetkoming uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).   
+3.  De overbruggingstegemoetkoming, bedoeld in de [artikelen 3.6](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) en [3.7 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).   
+4.  De tegemoetkoming, bedoeld in [hoofdstuk 4 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), wordt uitbetaald tussen de twintigste en de dertigste dag van elke maand.   
+5.  De tegemoetkoming, bedoeld in [hoofdstuk 5 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 5.5, derde lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).   
+6.  De tegemoetkoming, bedoeld in [hoofdstuk 10 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), wordt uitbetaald binnen 4 weken na het besluit, bedoeld in [artikel 10.8, derde lid, van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md).   
+7.  In afwijking van het eerste lid wordt de tegemoetkoming, bedoeld in [artikel 3.5, eerste lid, van de WTOS](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), voor het schooljaar 2008–2009, voor wat betreft een leerling in de onderbouw van het volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs en een leerling in het volledig op grond van de [WEB](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum en een leerling in de bovenbouw van het volledig op grond van de [WVO](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bekostigd onderwijs, binnen vier weken na het besluit, bedoeld in [artikel 3.8, derde lid, van de WTOS](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) uitbetaald.   
 
 ### Artikel  4.3  Wijze van uitbetaling  
 
@@ -94,7 +94,7 @@ De tegemoetkoming wordt uitbetaald door bijschrijving op de bank- of postbankrek
 
 ### Artikel  5.1  Verstrekken van inlichtingen  
 
-Inlichtingen, bedoeld in artikel 9.4 van de wet, worden uitsluitend verstrekt door middel van daartoe bestemde formulieren.  
+Inlichtingen, bedoeld in [artikel 9.4 van de wet](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), worden uitsluitend verstrekt door middel van daartoe bestemde formulieren.  
 
 ### Hoofdstuk  6  
 

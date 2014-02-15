@@ -65,6 +65,7 @@ b. in de inrichting te houden bijeenkomsten van persoonlijke aard, zoals bruilof
 c. in de inrichting te houden bijeenkomsten die gericht zijn op personen die niet of niet rechtstreeks bij de activiteiten van de betreffende rechtspersoon betrokken zijn.     
 4.  De burgemeester kan met het oog op bijzondere gelegenheden van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen ontheffing verlenen van de bij of krachtens dit artikel gestelde regels.   
 5.  De ontheffing, of een afschrift daarvan, is in de inrichting aanwezig.   
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een ontheffing als bedoeld in het vierde lid.   
 
 ### Artikel  6  
 
@@ -415,8 +416,8 @@ b. niet in enig opzicht van slecht levensgedrag is.   De naam van deze persoon s
 2.  Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.   
 3.  Ten aanzien van een ontheffing is artikel 31, eerste lid, onder a en c, van overeenkomstige toepassing.   
 4.  De ontheffing, of een afschrift daarvan, is ter plaatse aanwezig.   
-5.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste lid.   
-5.  Een burgemeester kan naar aanleiding van een aanvraag voor ontheffingen als bedoeld in dit artikel, voor jaarlijks terugkerende identieke bijzondere gelegenheden van zeer tijdelijke aard, besluiten één ontheffing te verlenen, mits de verstrekking van zwak-alcoholhoudende drank telkenmale geschiedt onder onmiddellijke leiding van dezelfde persoon.   
+5.  Een burgemeester kan naar aanleiding van een aanvraag voor ontheffingen als bedoeld in dit artikel, voor jaarlijks terugkerende identieke bijzondere gelegenheden van zeer tijdelijke aard, besluiten één ontheffing te verlenen, mits de verstrekking van zwak-alcoholhoudende drank telkenmale geschiedt onder onmiddellijke leiding van dezelfde persoon.   
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een ontheffing als bedoeld in dit artikel.   
 
 ### §  6  
 
@@ -449,11 +450,11 @@ Voor zover in deze wet niet anders is bepaald, kunnen ten aanzien van de onderwe
 a. in geheel Nederland: de bij besluit van Onze Minister aangewezen ambtenaren.  
 
 b. in een gemeente: de door de burgemeester van die gemeente aangewezen ambtenaren.     
-2.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties: 
+2.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie: 
 
 a. wordt de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in het eerste lid bedoelde categorieën geregeld;  
 
-b. kunnen eisen omtrent de opleiding van die ambtenaren worden gesteld.     
+b. kunnen aanstellings- en opleidingseisen voor die ambtenaren worden gesteld.     
 
 ### Artikel  42  
 
@@ -556,6 +557,10 @@ Artikel 47 is van overeenkomstige toepassing voor degene, die op 1 november 1967
 a. met gebruikmaking van een op hem krachtens artikel 29, eerste lid, van de Drankwet (Stb. 1931, 476) overgeschreven vergunning of verlof A van een persoon, die dat bedrijf feitelijk uitoefende op 30 september 1967, of  
 
 b. als rechtverkrijgende van een persoon als onder a bedoeld diens bedrijf voortzettend krachtens de wet van 14 april 1960 (Stb. 155).    
+
+### Artikel  48a  
+
+Op besluiten van Onze Minister die genomen zijn vòòr 1 januari 2013 blijft het recht zoals dat gold tot die datum van toepassing.  
 
 ### Artikel  49  
 

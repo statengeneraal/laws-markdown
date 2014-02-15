@@ -980,7 +980,7 @@ De zorgautoriteit maakt openbaar op welke wijze zij van plan is uitvoering te ge
 
 ### Artikel  76  
 
-1.  De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de artikelen 23, 25, tweede lid, 27, 34, 35 tot en met 45, 48, 49, 49a, 49c, derde lid, 49d, tweede lid, 61, 62 en 68 een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.   
+1.  De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de artikelen 23, 25, tweede lid, 27, 31, 34, 35 tot en met 45, 48, 49, 49a, 49c, derde lid, 49d, tweede lid, 61, 62 en 68 een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.   
 2.  Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van artikel 35, zevende lid, of artikel 37, eerste lid, aanhef en onder d, kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.   
 
 ### Artikel  77  
@@ -1066,7 +1066,7 @@ De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de artikel
 
 ### Artikel  84  
 
-De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten een last onder dwangsom opleggen ter zake van overtreding van de voorschriften, gesteld bij of krachtens die wet.  
+De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten een last onder dwangsom opleggen ter zake van overtreding van de voorschriften, gesteld bij of krachtens die wet of de Wet financiering sociale verzekeringen.  
 
 ### Artikel  84a   
 Treedt in werking op een nader te bepalen tijdstip   

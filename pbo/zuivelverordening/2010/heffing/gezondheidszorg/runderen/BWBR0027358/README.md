@@ -18,12 +18,12 @@ In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2003
 
 ### Artikel  2  
 
-1.  Melkveehouders zijn ten behoeve van de uitgaven van het productschap voor de gezondheidszorg voor runderen en het fonds dierziektebestrijding runderen PZ-PVV aan het productschap een heffing verschuldigd over de op hun bedrijf gewonnen en door hen aan een ontvanger van melk geleverde hoeveelheden melk van € 0,03 per 100 kg melk. Met ingang van 1 januari 2013 bedraagt de heffing € 0,02 per 100 kg melk.   
+1.  Melkveehouders zijn ten behoeve van de uitgaven van het productschap voor de gezondheidszorg voor runderen en het fonds dierziektebestrijding runderen PZ-PVV aan het productschap een heffing verschuldigd over de op hun bedrijf gewonnen en door hen aan een ontvanger van melk geleverde hoeveelheden melk van € 0,03 per 100 kg melk. Met ingang van 1 januari 2013 bedraagt de heffing € 0,02 per 100 kg melk en met ingang van 1 januari 2014 € 0,00 per 100 kg melk.   
 2.  De oplegging en inning van de in lid 1 bedoelde heffing kunnen worden gemandateerd aan de ontvangers van de melk.   
 
 ### Artikel  3  
 
-Ondernemers van zuivelfabrieken en boerderijzuivelbereiders zijn over de hoeveelheden melk die op hun bedrijf zijn gewonnen en verwerkt in door hen geproduceerde en afgeleverde hoeveelheden boter, consumptiemelk, consumptiermelkproducten, kaas of andere producten ten behoeve van de uitgaven van het productschap voor de gezondheidszorg voor runderen en het fonds dierziektebestrijding runderen PZ-PVV aan het productschap een heffing verschuldigd van € 0,03 per 100 kg melk. Met ingang van 1 april 2013 bedraagt de heffing € 0,02 per 100 kg melk.  
+Ondernemers van zuivelfabrieken en boerderijzuivelbereiders zijn over de hoeveelheden melk die op hun bedrijf zijn gewonnen en verwerkt in door hen geproduceerde en afgeleverde hoeveelheden boter, consumptiemelk, consumptiermelkproducten, kaas of andere producten ten behoeve van de uitgaven van het productschap voor de gezondheidszorg voor runderen en het fonds dierziektebestrijding runderen PZ-PVV aan het productschap een heffing verschuldigd van € 0,03 per 100 kg melk. Met ingang van 1 april 2013 bedraagt de heffing € 0,02 per 100 kg melk en met ingang van 1 april 2014 € 0,00 per 100 kg melk.  
 
 ### Artikel  4  
 

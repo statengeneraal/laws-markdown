@@ -56,7 +56,7 @@ q. Zorgverzekeringsfonds: het fonds, genoemd in artikel 39;
 
 r. eerste richtlijn schadeverzekering: richtlijn nr. 73/239/EEG van de Raad van de Europese Gemeenschappen van 24 juli 1973 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche en de uitoefening daarvan (PbEG L 228);  
 
-s. generieke verevening: bijstelling van het deelbedrag op basis van het verschil per zorgverzekeraar tussen de kosten en het deelbedrag in relatie met de verschillen tussen de kosten en het deelbedrag bij andere zorgverzekeraars, per onderscheiden categorie van prestaties;  
+s.  vervallen;   
 
 t. loontijdvak: het loontijdvak, bedoeld in artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964;  
 
@@ -311,7 +311,7 @@ c. het in aanmerking te nemen inkomen en de in aanmerking te nemen partner, waar
 3.  De vraag of een jeugdige als bedoeld in de Wet op de jeugdzorg wegens een psychiatrische aandoening behoefte heeft aan een bepaalde vorm van zorg of een andere dienst, wordt met overeenkomstige toepassing van de bij en krachtens artikel 9b, vierde en vijfde lid, van de Algemene Wet Bijzondere Ziektekosten gestelde regels, beantwoord door een stichting als bedoeld in de Wet op de jeugdzorg respectievelijk een arts of andere behandelaar van de jeugdige.   
 4.  In de regels, bedoeld in het derde lid, kunnen voor de in dat lid bedoelde indicatie afzonderlijke regels worden gesteld en kunnen vormen van zorg of andere diensten worden aangewezen waarvoor het derde lid niet geldt.   
 5.  Op een stichting als bedoeld in het derde lid, is, met uitzondering van de bewaartermijn als omschreven in artikel 86, eerste lid, het bepaalde bij of krachtens de artikelen 4, tweede tot en met vijfde lid, en 86 van overeenkomstige toepassing met betrekking tot de indicatie, bedoeld in het derde lid.   
-6.  Voor zover een verzekerde ingevolge zijn zorgverzekering toestemming behoeft van de zorgverzekeraar dan wel een verwijzing of een recept van een deskundige is vereist voor het verkrijgen van de verzekerde prestaties, en de verzekerde in het bezit is van deze toestemming, deze verwijzing of dit recept, geldt die toestemming, die verwijzing of dat recept als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor de toestemming is verleend of de verwijzing of het recept geldig is, en verlangt een nieuwe zorgverzekeraar niet nogmaals dat toestemming wordt gevraagd of dat een verwijzing of recept wordt overgelegd.   
+6.  Voor zover een verzekerde ingevolge zijn zorgverzekering toestemming behoeft van de zorgverzekeraar dan wel een verwijzing of een recept van een deskundige is vereist voor het verkrijgen van de verzekerde prestaties, en de verzekerde in het bezit is van deze toestemming, deze verwijzing of dit recept, geldt die toestemming, die verwijzing of dat recept als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor de toestemming is verleend of de verwijzing of het recept geldig is, en verlangt een nieuwe verzekeraar niet dat nogmaals toestemming wordt gevraagd of dat een verwijzing of recept wordt overgelegd.   
 
 ### Artikel  15  
 
@@ -566,34 +566,41 @@ c. sluiten iedere verplichting van de verzekeringnemers, verzekerden, gewezen ve
 
 ### Artikel  32  
 
-1.  Het College zorgverzekeringen kent een zorgverzekeraar die voldaan heeft aan zijn verplichtingen, bedoeld in artikel 25, voor ieder kalenderjaar waarin hij zorgverzekeringen aanbiedt en uitvoert een bijdrage toe.   
-2.  Bij algemene maatregel van bestuur worden regels omtrent de berekening van de bijdragen gesteld.   
-3.  De regels, bedoeld in het tweede lid, bepalen ten minste dat de hoogte van de bijdrage wordt berekend op basis van bij die maatregel te bepalen, voor alle zorgverzekeraars gelijke criteria, waaronder in ieder geval het aantal verzekerden bij een zorgverzekeraar en een aantal verzekerdenkenmerken.   
+1.  Het College zorgverzekeringen kent een zorgverzekeraar die voldaan heeft aan zijn verplichtingen, bedoeld in artikel 25, voor ieder kalenderjaar waarin hij zorgverzekeringen aanbiedt en uitvoert een vereveningsbijdrage toe.   
+2.  Bij algemene maatregel van bestuur worden regels omtrent de berekening van de vereveningsbijdragen gesteld.   
+3.  De regels, bedoeld in het tweede lid, bepalen ten minste dat de hoogte van de vereveningsbijdrage wordt berekend op basis van bij die maatregel te bepalen, voor alle zorgverzekeraars gelijke criteria, waaronder in ieder geval het aantal verzekerden bij een zorgverzekeraar en een aantal verzekerdenkenmerken.   
 4.  Bij ministeriële regeling: 
 
 a. wordt voor 1 oktober van ieder jaar bepaald welk bedrag in totaal voor het daaropvolgende kalenderjaar aan de zorgverzekeraars kan worden toegekend;  
 
-b. kan worden bepaald dat in aanvulling op de criteria, bedoeld in het derde lid, voor de berekening van de hoogte van de bijdragen eenmalig rekening wordt gehouden met een bij die regeling te bepalen, voor alle zorgverzekeraars gelijk criterium;  
+b. kan worden bepaald dat in aanvulling op de criteria, bedoeld in het derde lid, voor de berekening van de hoogte van de vereveningsbijdragen eenmalig rekening wordt gehouden met een bij die regeling te bepalen, voor alle zorgverzekeraars gelijk criterium;  
 
 c. wordt statistisch onderbouwd aan elk criterium als bedoeld in het derde lid of aan een criterium als bedoeld in onderdeel b een bijdrage gekoppeld;  
 
-d. worden nadere regels omtrent de berekening van de bijdragen gesteld en wordt geregeld hoe de op grond van het eerste lid toegekende bijdragen door het College zorgverzekeringen worden betaald.     
+d. worden nadere regels omtrent de berekening van de vereveningsbijdragen gesteld en wordt geregeld hoe de op grond van het eerste lid toegekende vereveningsbijdragen door het College zorgverzekeringen worden betaald.     
 5.  Het College zorgverzekeringen stelt jaarlijks voor 15 oktober beleidsregels vast waarin wordt aangegeven op welke wijze toepassing wordt gegeven aan de in het vierde lid bedoelde regels.   
-6.  De toekenning, bedoeld in het eerste lid, geschiedt voor 1 november van het jaar voorafgaande aan het jaar waarvoor de bijdrage wordt gegeven.   
+6.  De toekenning, bedoeld in het eerste lid, geschiedt voor 1 november van het jaar voorafgaande aan het jaar waarvoor de vereveningsbijdrage wordt gegeven.   
 7.  De beleidsregels, bedoeld in het vijfde lid, behoeven de goedkeuring van Onze Minister.   
 
 ### Artikel  33  
 
-1.  Bij ministeriële regeling kunnen, ingeval van een kernexplosie of natuurramp, of andere buitengewone gebeurtenissen die niet tot het normale bedrijfsrisico van zorgverzekeraars kunnen worden gerekend, na aanvang van het kalenderjaar middelen voor bijdragen aan een of meer zorgverzekeraars beschikbaar worden gesteld.   
-2.  Het College zorgverzekeringen kent de bijdragen aan de bij de ministeriële regeling aangewezen zorgverzekeraars toe.   
-3.  Bij ministeriële regeling worden regels omtrent de berekening van de bijdragen gesteld en wordt geregeld hoe de toegekende bijdragen door het College zorgverzekeringen worden betaald.   
-4.  Artikel 32, vijfde en zevende lid, zijn, met uitzondering van de in het vijfde lid genoemde datum, van overeenkomstige toepassing.   
+1.  In dit artikel wordt verstaan onder: 
+
+a. *catastrofe:* een natuurramp, een pandemie, een kernexplosie of een bij ministeriële regeling aan te wijzen andere buitengewone gebeurtenis;  
+
+b. *catastrofejaar:* het kalenderjaar waarin een catastrofe optreedt;  
+
+c. *gemiddelde vereveningsbijdrage:* de toegekende vereveningsbijdrage per verzekerde, die wordt berekend door de som van de op grond van artikel 32 met betrekking tot het catastrofejaar aan alle zorgverzekeraars toegekende vereveningsbijdragen te delen door het op het moment van toekenning van die bijdragen verwachte totaalaantal verzekerden in dat jaar.     
+2.  Indien de kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van een catastrofe naar verwachting van het College zorgverzekeringen in het catastrofejaar en het daaropvolgende kalenderjaar tezamen, voor een zorgverzekeraar hoger zullen zijn dan 4% van het product van de gemiddelde vereveningsbijdrage en het op het moment van de toekenning van de vereveningsbijdrage over het catastrofejaar verwachte aantal verzekerden bij die verzekeraar, kent het College zorgverzekeringen de verzekeraar die daar om verzoekt naast de hem voor het catastrofejaar toegekende vereveningsbijdrage een extra bijdrage toe.   
+3.  Een zorgverzekeraar aan wie een extra bijdrage als bedoeld in het tweede lid is toegekend, houdt een afzonderlijke administratie bij van de in het catastrofejaar en het daaropvolgende kalenderjaar ten gevolge van de catastrofe optredende kosten van verzekerde zorg en andere diensten.   
+4.  Bij ministeriële regeling worden regels gesteld omtrent de berekening van de bijdragen en kunnen regels worden gesteld over de administratie, bedoeld in het derde lid, en de wijze waarop de toegekende bijdragen door het College zorgverzekeringen worden betaald.   
+5.  Artikel 32, vijfde en zevende lid, zijn, met uitzondering van de in dat vijfde lid opgenomen verplichting de beleidsregels jaarlijks voor 15 oktober vast te stellen, van overeenkomstige toepassing.   
 
 ### Artikel  34  
 
-1.  Uiterlijk in het tweede jaar volgende op het kalenderjaar waarvoor de bijdragen, bedoeld in artikel 32 en 33, zijn toegekend, stelt het College zorgverzekeringen de bijdrage vast.   
-2.  De vaststelling van een bijdrage als bedoeld in artikel 32, houdt in ieder geval in een herberekening van de bijdrage op basis van het werkelijke aantal verzekerden dat de zorgverzekeraar in het desbetreffende jaar had en de werkelijke verdeling van de verzekerdenkenmerken als bedoeld in artikel 32, derde lid, over die verzekerden, voor zover de daartoe benodigde gegevens tijdig bij het College zorgverzekeringen zijn aangeleverd.   
-3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels omtrent de berekening van de bijdragen gesteld, met dien verstande dat generieke verevening slechts tot en met 31 december 2010 mogelijk is.   
+1.  Uiterlijk op 1 april van het vierde jaar volgende op het kalenderjaar waarvoor de bijdragen, bedoeld in artikel 32 en 33, zijn toegekend, stelt het College zorgverzekeringen de bijdragen vast.   
+2.  De vaststelling van een vereveningsbijdrage als bedoeld in artikel 32, houdt in ieder geval in een herberekening van de vereveningsbijdrage op basis van het werkelijke aantal verzekerden dat de zorgverzekeraar in het desbetreffende jaar had en de werkelijke verdeling van de verzekerdenkenmerken als bedoeld in artikel 32, derde lid, over die verzekerden, voor zover de daartoe benodigde gegevens tijdig bij het College zorgverzekeringen zijn aangeleverd.   
+3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels omtrent de berekening van de bijdragen gesteld.   
 4.  Het College zorgverzekeringen stelt beleidsregels op waarin wordt aangegeven op welke wijze toepassing wordt gegeven aan de in het derde lid bedoelde regels en op welke wijze een vergoeding voor rentekosten wordt verleend respectievelijk in rekening wordt gebracht.   
 5.  Indien de vastgestelde bijdrage hoger is dan de toegekende bijdrage betaalt het College zorgverzekeringen de zorgverzekeraar of diens rechtsopvolger het verschil, vermeerderd met de rentekosten, en indien de vastgestelde bijdrage lager is dan de toegekende bijdrage vordert het College zorgverzekeringen het verschil, vermeerderd met de rentekosten, van de zorgverzekeraar of diens rechtsopvolger terug.   
 6.  Het College zorgverzekeringen is bevoegd het bedrag dat na toepassing van het eerste en vijfde lid aan de zorgverzekeraar dient te worden betaald respectievelijk van de zorgverzekeraar dient te worden teruggevorderd, te verrekenen met een toekenning van een bijdrage als bedoeld in artikel 32 of 33 over een later jaar.   
@@ -672,7 +679,7 @@ b. de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachte
 1.  Er is een Zorgverzekeringsfonds.   
 2.  Ten gunste van het Zorgverzekeringsfonds komen: 
 
-a. de inkomensafhankelijke bijdragen, bedoeld in paragraaf 5.2, alsmede de daarmee verband houdende bestuurlijke boeten en renten;  
+a. de inkomensafhankelijke bijdragen, bedoeld in paragraaf 5.2 en de bijdragevervangende belasting, bedoeld in artikel 57, tweede lid;  
 
 b. de rijksbijdrage, bedoeld in artikel 54;  
 
@@ -703,7 +710,7 @@ k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van ar
 
 a. de bijdragen, bedoeld in de artikelen 32, 33, 34 en 34a;  
 
-b. subsidies als bedoeld in artikel 68, inclusief vergoedingen als bedoeld in het tweede lid van dat artikel;  
+b.  vervallen;   
 
 c. door het College zorgverzekeringen voldane vorderingen als bedoeld in artikel 31, eerste lid;  
 
@@ -868,7 +875,7 @@ Indien de situatie, bedoeld in artikel 31, eerste lid, zich heeft voorgedaan, ve
 
 ### Artikel  57  
 
-1.  Van de persoon die op grond van artikel 2, tweede lid, onderdeel b, niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid, dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.   
+1.  Van de persoon die op grond van artikel 2, tweede lid, onderdeel b, niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de in artikel 43, tweede lid, bedoelde inkomensafhankelijke bijdrage dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.   
 2.  In afwijking in zoverre van artikel 43 wordt van de persoon aan wie met toepassing van artikel 64 van de Wet financiering sociale verzekeringen een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de Algemene Wet Bijzondere Ziektekosten, geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.   
 3.  De heffing van de bijdragevervangende belasting vindt plaats met overeenkomstige toepassing van artikel 49, tweede, derde en vierde lid.   
 4.  De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in artikel 70, eerste dan wel tweede lid.   
@@ -940,32 +947,25 @@ a. van en tussen de zorgverzekering en de algemene verzekering bijzondere ziekte
 
 b. van deze verzekeringen met de uitvoering van het beleid op andere terreinen van de volksgezondheid en op andere terreinen van sociale zekerheid.    
 
-### Artikel  68  
-
-1.  Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen overeenkomstig in die regeling gestelde regels tijdelijk subsidies verstrekt voor zorg of andere diensten, ten aanzien waarvan het voornemen bestaat deze te doen opnemen in de te verzekeren prestaties.   
-2.  In een regeling als bedoeld in het eerste lid kan worden bepaald dat zorgverzekeraars het College zorgverzekeringen bijstand verlenen bij de verstrekking van subsidies behorende tot een in die regeling genoemde categorie, en welke vergoeding zij daarvoor ontvangen.   
-3.  Onze Minister kan jaarlijks voor een categorie van subsidies het subsidieplafond voor het komende jaar bekendmaken.   
-4.  In een regeling als bedoeld in het eerste lid kan aan het College zorgverzekeringen worden opgedragen nadere regels te stellen.   
-5.  Nadere regels als bedoeld in het vierde lid behoeven de goedkeuring van Onze Minister.   
-6.  Goedkeuring kan slechts worden onthouden wegens strijd met het recht of het belang van de volksgezondheid.   
-
 ### Artikel  69  
 
 1.  In het buitenland wonende personen die met toepassing van een Verordening van de Raad van de Europese Gemeenschappen dan wel toepassing van zodanige verordening krachtens de overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid in geval van behoefte aan zorg recht hebben op zorg of vergoeding van de kosten daarvan, zoals voorzien in de wetgeving over de verzekering voor zorg van hun woonland, melden zich, tenzij zij op grond van deze wet verzekeringsplichtig zijn, bij het College zorgverzekeringen aan.   
-2.  De in het eerste lid bedoelde personen zijn een bij ministeriële regeling te bepalen bijdrage verschuldigd, die voor een bij die regeling te bepalen gedeelte, voor de toepassing van de Wet op de zorgtoeslag als premie voor een zorgverzekering wordt beschouwd.   
+2.  De in het eerste, twaalfde en dertiende lid bedoelde personen zijn een bij ministeriële regeling te bepalen bijdrage verschuldigd, die voor een bij die regeling te bepalen gedeelte, voor de toepassing van de Wet op de zorgtoeslag als premie voor een zorgverzekering wordt beschouwd.   
 3.  Voor zover een pensioen- of renteverstrekkend orgaan aan een in het eerste lid bedoelde persoon loon als bedoeld in artikel 42 verstrekt, is dat orgaan een bij ministeriële regeling te bepalen bijdrage verschuldigd.   
-4.  Het College zorgverzekeringen is belast met de administratie, voortvloeiend uit het eerste lid en de daar genoemde internationale regels, alsmede met het nemen van beschikkingen over de heffing en de inning van de bijdragen, bedoeld in het tweede en derde lid.   
+4.  Het College zorgverzekeringen is belast met de administratie voortvloeiend uit het eerste, twaalfde en dertiende lid en de daar genoemde internationale regels, alsmede met het nemen van beschikkingen over de heffing en de inning van de bijdragen, bedoeld in het tweede en derde lid.   
 5.  Indien tegen een door het College zorgverzekeringen op grond van dit artikel genomen beschikking bezwaar wordt gemaakt, beslist dat college, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.   
 6.  Het College zorgverzekeringen gebruikt voor de uitvoering van dit artikel het burgerservicenummer van de in het eerste lid bedoelde personen.   
 7.  Bij ministeriële regeling: 
 
-a. kan worden bepaald dat organen die pensioen of rente verschuldigd zijn of werkgevers in opdracht van het College zorgverzekeringen werkzaamheden verrichten ter voorbereiding of uitvoering van beschikkingen als bedoeld in het vierde lid, waarbij kan worden bepaald dat die organen of werkgevers de bijdragen, bedoeld in het tweede lid, inhouden op het pensioen, op de rente of op het loon van een grensarbeider wier gezinsleden onder dit artikel vallen;  
+a. kan worden bepaald dat organen die pensioen of rente verschuldigd zijn of werkgevers in opdracht van het College zorgverzekeringen werkzaamheden verrichten ter voorbereiding of uitvoering van beschikkingen als bedoeld in het vierde lid, waarbij kan worden bepaald dat die organen of werkgevers de bijdragen die de personen, bedoeld in het eerste lid, verschuldigd zijn, inhouden op een pensioen of een rente dan wel, indien het eerste lid van toepassing is op gezinsleden van een verzekeringsplichtige, op het loon, het pensioen of de rente van die verzekeringsplichtige;  
 
 b. kunnen regels worden gesteld over de wijze waarop het College zorgverzekeringen zijn taak, bedoeld in het vierde lid, uitoefent of de organen of werkgevers, bedoeld in onderdeel a, de in dat onderdeel bedoelde werkzaamheden uitvoeren.     
 8.  Artikel 18f, derde lid, is van overeenkomstige toepassing.   
 9.  Indien de melding, bedoeld in het eerste lid, niet is geschied binnen vier maanden nadat het recht, bedoeld in het eerste lid, is ontstaan, legt het College zorgverzekeringen degene die de melding had moeten doen een bestuurlijke boete op ter hoogte van driemaal de tot een maandbedrag herleide standaardpremie, bedoeld in de Wet op de zorgtoeslag.   
 10.  Het College zorgverzekeringen kan de bijdrage, bedoeld in het tweede of derde lid, of een boete als bedoeld in het negende lid bij dwangbevel invorderen.   
 11.  Artikel 5:53, tweede en derde lid, van de Algemene wet bestuursrecht geldt niet voor de oplegging van de boete, bedoeld in het negende lid.   
+12.  Voor de toepassing van Verordening (EG) Nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004, betreffende de coördinatie van socialezekerheidsstelsels (Pb EU 2004, L 166) wordt de in het eerste lid bedoelde persoon die op de laatste dag van de maand voorafgaande aan die waarin hij de 65-jarige leeftijd bereikt een pensioen of uitkering ontvangt dat op grond van bijlage XI bij die verordening is gelijkgesteld met op grond van de Nederlandse wetgeving verschuldigde pensioenen, tot aan de pensioengerechtigde leeftijd als bedoeld in artikel 7a van de Algemene Ouderdomswet aangemerkt als een aanvrager van een pensioen.   
+13.  Voor de toepassing van een in het eerste lid bedoeld verdrag wordt de in het eerste lid bedoelde persoon die op de laatste dag van de maand voorafgaande aan die waarin hij de 65-jarige leeftijd bereikt een pensioen of uitkering ontvangt dat op grond van het verdrag is gelijkgesteld met op grond van de Nederlandse wetgeving verschuldigde pensioenen, tot aan de pensioengerechtigde leeftijd als bedoeld in artikel 7a van de Algemene Ouderdomswet aangemerkt als een rechthebbende op een pensioen.   
 
 ### Artikel  70  
 
@@ -984,8 +984,7 @@ b. uitkeringen als bedoeld in artikel 39, tweede lid, onderdeel d.
 9.  Het College zorgverzekeringen zorgt per gemoedsbezwaarde of huishouding, bedoeld in het tweede lid, voor een ordentelijke administratie van de stortingen op en de uitkeringen ten laste van de rekening.   
 10.  Bij ministeriële regeling kunnen ter zake van het bepaalde in het eerste tot en met negende lid nadere regels en uitvoeringsregels worden gegeven.   
 11.  Het College zorgverzekeringen is bevoegd de werkzaamheden, bedoeld bij of krachtens het eerste tot en met tiende lid, onder vergoeding van de daarmee gepaard gaande kosten, uit te besteden aan een of meer zorgverzekeraars.   
-12.   vervallen door vernummering.    
-13.  Het College zorgverzekeringen gebruikt voor de uitvoering van dit artikel het burgerservicenummer van de gemoedsbezwaarde.   
+12.  Het College zorgverzekeringen gebruikt voor de uitvoering van dit artikel het burgerservicenummer van de gemoedsbezwaarde.   
 
 ### Paragraaf  6.3  
 
@@ -1012,17 +1011,36 @@ b. uitkeringen als bedoeld in artikel 39, tweede lid, onderdeel d.
 3.  Het in artikel 18 van de Kaderwet zelfstandige bestuursorganen bedoelde jaarverslag van het College zorgverzekeringen heeft wat betreft de uitvoering van artikel 122a uitsluitend betrekking op de bedrijfsvoering ter zake.   
 4.  Onverminderd artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het College zorgverzekeringen voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.   
 
+### Artikel  73a  
+
+1.  Het College zorgverzekeringen zendt jaarlijks voor 15 april aan Onze Minister: 
+
+a. een zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek ingericht financieel verslag uitvoeringstaken over het afgelopen kalenderjaar, met een financiële verantwoording over bij ministeriële regeling aan te wijzen, op die uitvoeringstaken betrekking hebbende geldstromen, alsmede het verslag van bevindingen, waarin per geldstroom de bevindingen worden aangegeven;  
+
+b. een verantwoording over de vaststelling van de bijdrage, bedoeld in artikel 34, verstrekt ten behoeve van het vierde kalenderjaar voorafgaande aan het jaar waarin de verantwoording wordt afgelegd, alsmede een assurance report.     
+2.  Het financieel verslag uitvoeringstaken gaat vergezeld van een verklaring omtrent de getrouwheid.   
+3.  Het verslag van bevindingen en het assurance report geven aan of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
+4.  De verklaring omtrent getrouwheid, het verslag van bevindingen en het assurance report worden opgesteld door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.   
+
 ### Artikel  74  
 
-1.  Het College zorgverzekeringen zendt jaarlijks voor 15 maart aan Onze Minister met betrekking tot het Zorgverzekeringsfonds een jaarrekening over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.   
-2.  Het College zorgverzekeringen legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over de baten en lasten van het Zorgverzekeringsfonds en de toestand van dat fonds per 31 december, alsmede over de rechtmatigheid en doelmatigheid van het beheer van dat fonds in het afgelopen kalenderjaar.   
+1.  Het College zorgverzekeringen zendt jaarlijks voor 31 december aan Onze Minister met betrekking tot het Zorgverzekeringsfonds een jaarrekening over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.   
+2.  Het College zorgverzekeringen legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over: 
+
+a. de baten en lasten van het Zorgverzekeringsfonds,  
+
+b. de geldstromen, bedoeld in artikel 73a eerste lid, onderdeel a,  
+
+c. de rechtmatigheid en doelmatigheid van het beheer van het Zorgverzekeringsfonds,  
+
+d. de toestand van het Zorgverzekeringsfonds per 31 december van het voorafgaande kalenderjaar.     
 3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.   
 4.  De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen van het Zorgverzekeringsfonds.   
 5.  De accountant voegt bij de verklaring een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
 
 ### Artikel  75  
 
-1.  Het werkprogramma, bedoeld in artikel 71, de jaarrekeningen, bedoeld in de artikelen 74 en 122a, tiende lid, en de begroting, bedoeld in artikel 122a, zevende lid, behoeven de goedkeuring van Onze Minister.   
+1.  Het werkprogramma, bedoeld in artikel 71, het financieel verslag uitvoeringstaken en de verantwoordingen, bedoeld in artikel 73a, eerste lid, onderdelen a en b, de jaarrekening, bedoeld in artikel 74, en de begroting, bedoeld in artikel 122a, zevende lid, behoeven de goedkeuring van Onze Minister.   
 2.  In afwijking van het eerste lid en van artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen, behoeven wijzigingen in een goedgekeurde begroting geen goedkeuring van Onze Minister, mits: 
 
 a. de totale omvang van de begroting geen wijziging ondergaat, en  
@@ -1034,18 +1052,24 @@ a. de inhoud en de inrichting van het werkprogramma, bedoeld in artikel 71;
 
 b. de inhoud en de inrichting van de begrotingen, bedoeld in artikel 122a, zevende lid, alsmede in artikel 26 van de Kaderwet zelfstandige bestuursorganen;  
 
-c. de inhoud en de inrichting van de jaarrekeningen, bedoeld in de artikelen 74 en 122a, tiende lid, alsmede in artikel 34 van de Kaderwet zelfstandige bestuursorganen;  
+c. de inhoud en inrichting van het financieel verslag uitvoeringstaken en van de verantwoording, bedoeld in artikel 73a, eerste lid, onderdeel a;  
 
-d. de inhoud en de inrichting van de jaarverslagen, bedoeld in de artikelen 74 en 122a, elfde lid, alsmede in artikel 18 van de Kaderwet zelfstandige bestuursorganen;  
+d. de inhoud en inrichting van de verantwoording, bedoeld in artikel 73a, eerste lid, onderdeel b, en van het in dat onderdeel bedoelde assurance report;  
 
-e. de accountantscontrole van de jaarrekeningen van het College zorgverzekeringen;  
+e. de inhoud en inrichting van de jaarrekening, bedoeld in artikel 74, alsmede in artikel 34 van de Kaderwet zelfstandige bestuursorganen;  
 
-f. de omvang van de egalisatiereserve, bedoeld in artikel 33 van de Kaderwet zelfstandige bestuursorganen.     
+f. de accountantscontrole van het financieel verslag uitvoeringstaken, bedoeld in artikel 73a, eerste lid, onderdeel a, en van de jaarrekeningen, bedoeld in artikel 74 en artikel 34 van de Kaderwet zelfstandige bestuursorganen, en van de verantwoordingen, bedoeld in artikel 73a, eerste lid, onderdeel a, van het College zorgverzekeringen;  
+
+g. de bij het financieel verslag uitvoeringstaken, bedoeld in artikel 73a, eerste lid, onderdeel a, en de jaarrekeningen, bedoeld in artikel 74 en artikel 34 van de Kaderwet zelfstandige bestuursorganen, behorende verslagen van bevindingen alsmede het assurance report, bedoeld in artikel 73a, eerste lid, onderdeel b;  
+
+h. de inhoud en de inrichting van de jaarverslagen, bedoeld in artikel 122a, tiende lid, alsmede in artikel 18 van de Kaderwet zelfstandige bestuursorganen;  
+
+i. de omvang van de egalisatiereserve, bedoeld in artikel 33 van de Kaderwet zelfstandige bestuursorganen.     
 4.  Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 72, wordt vastgesteld.   
 
 ### Artikel  76  
 
-Na de goedkeuring, bedoeld in artikel 75, eerste lid, en de goedkeuring, bedoeld in de artikelen 29, eerste lid, en 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, stelt het College zorgverzekeringen de in artikel 75, derde lid, onder a, b, c, en d, genoemde stukken algemeen verkrijgbaar.  
+Na de goedkeuring, bedoeld in artikel 75, eerste lid, en de goedkeuring, bedoeld in de artikelen 29, eerste lid, en 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, stelt het College zorgverzekeringen de in artikel 75, derde lid, onder a, b, c, e en h, genoemde stukken algemeen verkrijgbaar.  
 
 ### Hoofdstuk  7  
 
@@ -1104,7 +1128,7 @@ e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worde
 3.  Onze Minister is bevoegd zorgverzekeraars en zorgaanbieders, ter handhaving van het bepaalde bij of krachtens het eerste lid, een aanwijzing te geven betreffende de verstrekking van gegevens die het CAK voor de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 11a en van de uitkeringen, bedoeld in artikel 118a, eerste lid, nodig heeft.   
 4.  Indien een zorgverzekeraar of een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het derde lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.   
 5.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 88, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
-6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.   
+6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het CAK, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.   
 7.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan de zorgverzekeraars.   
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste of tweede lid.   
 
@@ -1237,10 +1261,9 @@ b. 80% van de kosten in de overige gevallen, voor zover deze kosten niet op gron
 7.  Het College zorgverzekeringen zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van de kosten van de bijdragen, bedoeld in het eerste lid, voor het volgende kalenderjaar. Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, doet het College zorgverzekeringen daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.   
 8.  Het voor de bijdragen in een kalenderjaar beschikbare bedrag wordt voor 1 december van het daaraan voorafgaande jaar door Onze Minister vastgesteld.   
 9.  Het bedrag, bedoeld in het achtste lid, wordt gedekt uit ’s Rijks kas en wordt door het College zorgverzekeringen afzonderlijk beheerd en geadministreerd.   
-10.  Het College zorgverzekeringen zendt jaarlijks voor 15 maart aan Onze Minister een jaarrekening waarin het rekening en verantwoording aflegt over de verstrekte bijdragen, bedoeld in het eerste lid, in het afgelopen kalenderjaar.   
-11.  De jaarrekening, bedoeld in het tiende lid, wordt zoveel mogelijk ingericht met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek en gaat vergezeld van een jaarverslag omtrent het door het College zorgverzekeringen gevoerde beleid bij het verstrekken van de in het eerste lid bedoelde bijdragen, de doeltreffendheid van dat beleid en de uitvoering van het werkprogramma ter zake in het afgelopen kalenderjaar.   
-12.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met vijfde lid, 74, derde, vierde en vijfde lid, en 75, vierde lid, zijn van overeenkomstige toepassing.   
-13.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
+10.  Tegelijk met het financieel verslag uitvoeringstaken, bedoeld in artikel 73a, eerste lid, onderdeel a, zendt het College zorgverzekeringen Onze Minister een jaarverslag omtrent het door hem gevoerde beleid bij het verstrekken van de in het eerste lid bedoelde bijdragen, de doeltreffendheid van dat beleid en de uitvoering van het werkprogramma ter zake in het afgelopen kalenderjaar.   
+11.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met vijfde lid, en 75, vierde lid, zijn van overeenkomstige toepassing.   
+12.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
 
 ### Hoofdstuk  10  
 

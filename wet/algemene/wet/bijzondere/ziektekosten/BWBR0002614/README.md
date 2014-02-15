@@ -28,7 +28,7 @@ e. instelling:
 
 1°. een instelling in de zin van de Wet toelating zorginstellingen;  
 
-2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij en krachtens artikel 6;    
+2°. een organisatorisch verband dat gevestigd is buiten het grondgebied van het Europese deel van Nederland en overeenkomstig de daar geldende wetgeving rechtmatig gezondheidszorg verstrekt als bedoeld bij of krachtens artikel 6;    
 
 f. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -44,7 +44,7 @@ k. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonde
 
 l. vreemdeling: een vreemdeling als bedoeld in de Vreemdelingenwet 2000;  
 
-m. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland;  
+ll. continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland;  
 
 m. burgerservicenummer: het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
 
@@ -172,21 +172,21 @@ De Sociale Verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 1.  Aanspraak op zorg, aangewezen ingevolge artikel 9a, eerste lid, bestaat slechts indien en gedurende de periode waarvoor het bevoegde indicatieorgaan op een door de verzekerde ingediende aanvraag heeft besloten dat deze naar aard, inhoud en omvang op die zorg is aangewezen. De verzekerde vermeldt bij de aanvraag zijn burgerservicenummer.   
 2.  In afwijking van het eerste lid worden er bij algemene maatregel van bestuur regels gesteld voor gevallen waarin het besluit niet afgewacht kan worden.   
 3.  De aanspraak op andere vormen van zorg dan die zijn aangewezen ingevolge artikel 9a, eerste lid, kan slechts tot gelding worden gebracht voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, daarop naar aard, inhoud en omvang redelijkerwijs is aangewezen. Bij of krachtens algemene maatregel van bestuur kan worden geregeld door wie en op welke wijze wordt beoordeeld of de verzekerde aangewezen is op een bepaalde vorm van zorg. Deze regels zijn zodanig dat wordt gewaarborgd dat de beoordeling onafhankelijk geschiedt.   
-4.  In afwijking van het eerste tot en met derde lid hebben cliënten als bedoeld in artikel 1, onder d, van de Wet op de jeugdzorg slechts aanspraak op zorg aangewezen krachtens artikel 5, tweede lid, onder b en c, van die wet, indien de stichting die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. De regels gesteld krachtens artikel 3, vijfde lid, van de Wet op de jeugdzorg zijn van toepassing.   
-5.  Het vierde lid is niet van toepassing ten aanzien van zorg als bedoeld in artikel 5, tweede lid, onder b, van de Wet op de jeugdzorg, met betrekking tot een jeugdige van wie een beroepsbeoefenaar, behorende tot een bij of krachtens algemene maatregel van bestuur aangewezen beroepsgroep of een daarmee in die maatregel gelijkgestelde behandelaar, een redelijk vermoeden heeft dat bij de jeugdige sprake is van een bij of krachtens die maatregel aangewezen psychische stoornis van een bij die maatregel aan te geven ernst en tevens het vermoeden heeft dat de jeugdige, zijn ouders, stiefouders of anderen die de jeugdige als behorende tot hun gezin verzorgen en opvoeden, niet zijn aangewezen op jeugdzorg waarop aanspraak bestaat op grond van de Wet op de jeugdzorg of de Beginselenwet justitiële jeugdinrichtingen. Bij de maatregel, bedoeld in de eerste volzin, worden tevens regels gesteld omtrent de informatie die de beroepsbeoefenaar in een geval als bedoeld in die volzin verstrekt aan de betrokken stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg.   
+4.  In afwijking van het eerste tot en met derde lid hebben cliënten als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg slechts aanspraak op zorg aangewezen krachtens artikel 5, tweede lid, onder b en c, van die wet, indien de stichting die werkzaam is in de provincie waar de betrokken jeugdige duurzaam verblijft een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. De regels gesteld krachtens artikel 3, vijfde lid, van de Wet op de jeugdzorg zijn van toepassing.   
+5.  Het vierde lid is niet van toepassing ten aanzien van zorg als bedoeld in artikel 5, tweede lid, onder b, van de Wet op de jeugdzorg, met betrekking tot een jeugdige van wie een beroepsbeoefenaar, behorende tot een bij of krachtens algemene maatregel van bestuur aangewezen beroepsgroep of een daarmee in die maatregel gelijkgestelde behandelaar, een redelijk vermoeden heeft dat bij de jeugdige sprake is van een bij of krachtens die maatregel aangewezen psychische stoornis van een bij die maatregel aan te geven ernst en tevens het vermoeden heeft dat de jeugdige, zijn ouders, stiefouders of anderen die de jeugdige als behorende tot hun gezin verzorgen en opvoeden, niet zijn aangewezen op jeugdzorg waarop aanspraak bestaat op grond van de Wet op de jeugdzorg of de Beginselenwet justitiële jeugdinrichtingen. Bij de maatregel, bedoeld in de eerste volzin, worden tevens regels gesteld omtrent de informatie die de beroepsbeoefenaar in een geval als bedoeld in die volzin verstrekt aan de betrokken stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
 6.  Op het indicatieorgaan, bedoeld in het eerste lid, en de stichting, bedoeld in het vierde lid, is, met uitzondering van de bewaartermijn als omschreven in artikel 52, eerste lid, het bepaalde bij of krachtens de artikelen 9bis, tweede tot en met vijfde lid, en 52 van overeenkomstige toepassing met betrekking tot het nemen van onderscheidenlijk het besluit, bedoeld in het eerste lid, en het besluit, bedoeld in het vierde lid.   
 
 ### Artikel  10  
 
 1.  De verzekerde die zijn aanspraak op zorg tot gelding wil brengen, wendt zich daartoe tot een zorgaanbieder naar eigen keuze, met wie de zorgverzekeraar waarbij hij is ingeschreven tot dat doel een overeenkomst als bedoeld in artikel 15 heeft gesloten. Een aanspraak als bedoeld in de vorige volzin kan uitsluitend tot gelding worden gebracht bij een zorgaanbieder die is gevestigd binnen het grondgebied van het Europese deel van Nederland, de staten behorende tot de Europese Unie, de Europese Economische Ruimte of van Zwitserland en die de zorg waarop aanspraak bestaat levert binnen het desbetreffende grondgebied.   
-2.  Een verzekerde heeft buiten het grondgebied van het Europese deel van Nederland, maar binnen het grondgebied van de staten behorende tot de Europese Unie, de Europese Economische Ruimte en Zwitserland, ook aanspraken op zorg als bedoeld bij en krachtens artikel 6 van deze wet, niet zijnde zorg met verblijf in een instelling, indien deze wordt verleend door een zorgaanbieder met wie een zorgverzekeraar geen overeenkomst heeft gesloten.   
+2.  Een verzekerde heeft buiten het grondgebied van het Europese deel van Nederland, maar binnen het grondgebied van de staten behorende tot de Europese Unie, de Europese Economische Ruimte en Zwitserland, ook aanspraken op zorg als bedoeld bij of krachtens artikel 6, niet zijnde zorg met verblijf in een instelling, indien deze wordt verleend door een zorgaanbieder met wie een zorgverzekeraar geen overeenkomst heeft gesloten.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald: 
 
-a. in welke gevallen en onder welke voorwaarden een verzekerde die een aanspraak op zorg als bedoeld bij en krachtens artikel 6 van deze wet, tot gelding wil brengen, zich voor deze zorg kan wenden tot een zorgaanbieder met wie de zorgverzekeraar geen overeenkomst heeft gesloten;  
+a. in welke gevallen en onder welke voorwaarden een verzekerde die een aanspraak op zorg als bedoeld bij of krachtens artikel 6, tot gelding wil brengen, zich voor deze zorg kan wenden tot een zorgaanbieder met wie de zorgverzekeraar geen overeenkomst heeft gesloten;  
 
-b. in welke gevallen en onder welke voorwaarden zorg als bedoeld bij en krachtens artikel 6 van deze wet, buiten het grondgebied van het Europese deel van Nederland, de staten behorende tot de Europese Unie, de Europese Economische Ruimte en Zwitserland kan worden verleend;  
+b. in welke gevallen en onder welke voorwaarden zorg als bedoeld bij of krachtens artikel 6, buiten het grondgebied van het Europese deel van Nederland, de staten behorende tot de Europese Unie, de Europese Economische Ruimte en Zwitserland kan worden verleend;  
 
-c. in welke gevallen en onder welke voorwaarden de verzekerde in plaats van aanspraak op zorg als bedoeld bij en krachtens artikel 6 van deze wet, aanspraak heeft op gehele of gedeeltelijke vergoeding van de voor deze zorg gemaakte kosten;  
+c. in welke gevallen en onder welke voorwaarden de verzekerde in plaats van aanspraak op zorg als bedoeld bij of krachtens artikel 6, aanspraak heeft op gehele of gedeeltelijke vergoeding van de voor deze zorg gemaakte kosten;  
 
 d. door wie in welke gevallen en onder welke voorwaarden werkzaamheden die zijn opgedragen aan het indicatieorgaan bedoeld bij en krachtens de artikelen 9a en 9b, in plaats van door dat orgaan kunnen worden verricht.   De voordracht voor een krachtens de eerste volzin, aanhef en onderdeel b vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 4.  In de overeenkomsten, bedoeld in het eerste lid, kan worden bepaald dat verzekerden, om hun aanspraak op zorg tot gelding te brengen, door de zorgverzekeraar ingeschreven moeten zijn op naam van een zorgaanbieder als bedoeld in het eerste lid. Tevens kunnen daarin bepalingen worden opgenomen ter beperking van het aantal ten name van een zorgaanbieder in te schrijven verzekerden. De zorgverzekeraar kan schriftelijk vaststellen dat het aantal overschrijvingen van een verzekerde in een bepaald tijdvak aan een maximum is gebonden en dat overschrijvingen slechts kunnen plaatsvinden op daarbij aangegeven tijdstippen.   
@@ -315,7 +315,7 @@ De zorgverzekeraar voert ter zake van de uitvoering van deze wet een van zijn ov
 
 ### Artikel  36  
 
-1.  Een zorgverzekeraar zendt voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Daarin wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen.   
+1.  Een zorgverzekeraar en het CAK zenden elk voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Daarin wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen.   
 2.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, alsmede van een verslag van zijn bevindingen over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer.   
 3.  Bij ministeriële regeling kunnen nadere voorschriften worden gesteld omtrent de inhoud van het financieel verslag.   
 4.  De zorgautoriteit zendt het College zorgverzekering onverwijld een exemplaar van de in het eerste en tweede lid bedoelde stukken.   
@@ -323,17 +323,17 @@ De zorgverzekeraar voert ter zake van de uitvoering van deze wet een van zijn ov
 
 ### Artikel  37  
 
-1.  De zorgverzekeraar zendt voor 1 juli aan de zorgautoriteit in tweevoud een uitvoeringsverslag waarin hij: 
+1.  De zorgverzekeraar en het CAK zenden elk voor 1 juli aan de zorgautoriteit in tweevoud een uitvoeringsverslag waarin zij: 
 
-a. rapporteert over de uitvoering van deze wet in het voorafgaande kalenderjaar, en  
+a. rapporteren over de uitvoering van deze wet in het voorafgaande kalenderjaar, en  
 
-b. een overzicht geeft van zijn voornemens met betrekking tot de uitvoering van deze wet in het lopende kalenderjaar en het daaropvolgende kalenderjaar.     
+b. een overzicht geven van hun voornemens met betrekking tot de uitvoering van deze wet in het lopende kalenderjaar en het daaropvolgende kalenderjaar.     
 2.  Bij ministeriële regeling kunnen nadere voorschriften worden gesteld omtrent de inhoud van het uitvoeringsverslag. De voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de regeling aan te wijzen gedragscode.   
-3.  De zorgverzekeraar voegt bij het uitvoeringsverslag twee exemplaren van een verslag met bevindingen van een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek over de vraag of: 
+3.  De zorgverzekeraar en het CAK voegen elk bij het uitvoeringsverslag twee exemplaren van een verslag met bevindingen van een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek over de vraag of: 
 
 a. het uitvoeringsverslag overeenkomstig de daarvoor geldende regels is opgesteld;  
 
-b. de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachtens deze wet in het voorafgaande kalenderjaar op de zorgverzekeraar rustten.     
+b. de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachtens deze wet in het voorafgaande kalenderjaar op de zorgverzekeraar en het CAK rustten.     
 4.  Artikel 36, vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  39  
@@ -354,8 +354,8 @@ b. de uitvoering is geschied overeenkomstig de verplichtingen die bij of krachte
 
 ### Artikel  41  
 
-1.  Het College zorgverzekeringen bevordert de rechtmatige en doelmatige uitvoering van deze wet door de zorgverzekeraars, door het CAK en door de rechtspersonen, bedoeld in artikel 40.   
-2.  Het College zorgverzekeringen kan met het oog op de rechtmatige en doelmatige uitvoering van deze wet beleidsregels stellen voor de zorgverzekeraars, voor het CAK en voor de rechtspersonen, bedoeld in artikel 40.   
+1.  Het College zorgverzekeringen bevordert de rechtmatige en doelmatige uitvoering van deze wet door de zorgverzekeraars, het CAK, door het CAK en door de rechtspersonen, bedoeld in artikel 40.   
+2.  Het College zorgverzekeringen kan met het oog op de rechtmatige en doelmatige uitvoering van deze wet beleidsregels stellen voor de zorgverzekeraars, het CAK, voor het CAK en voor de rechtspersonen, bedoeld in artikel 40.   
 
 ### Artikel  42  
 
@@ -381,23 +381,42 @@ c. subsidies verstrekt voor zwangerschapsafbrekingen in de zin van de Wet afbrek
 5.  Nadere regels als bedoeld in het vierde lid behoeven de goedkeuring van Onze Minister.   
 6.  Goedkeuring kan slechts worden onthouden wegens strijd met het recht of het belang van de volksgezondheid.   
 
+### Artikel  44a  
+
+1.  Het College zorgverzekeringen zendt jaarlijks voor 15 april aan Onze Minister een zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek ingericht financieel verslag uitvoeringstaken over het afgelopen kalenderjaar, met een financiële verantwoording over bij ministeriële regeling aan te wijzen, op die uitvoeringstaken betrekking hebbende geldstromen, alsmede het verslag van bevindingen, waarin per geldstroom de bevindingen worden aangegeven.   
+2.  Het financieel verslag uitvoeringstaken gaat vergezeld van een verklaring omtrent de getrouwheid.   
+3.  Het verslag van bevindingen geeft aan of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
+4.  De verklaring omtrent getrouwheid en het verslag van bevindingen worden opgesteld door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.   
+
 ### Artikel  45  
 
-1.  Het College zorgverzekeringen zendt jaarlijks voor 15 maart aan Onze Minister met betrekking tot het Algemeen Fonds Bijzondere Ziektekosten een jaarrekening over het voorafgaande kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.   
-2.  Het College zorgverzekeringen legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over de baten en lasten van het Algemeen Fonds Bijzondere Ziektekosten en de toestand van dat fonds per 31 december, alsmede over de rechtmatigheid en doelmatigheid van het beheer van dat fonds in het afgelopen kalenderjaar.   
+1.  Het College zorgverzekeringen zendt jaarlijks voor 31 december aan Onze Minister met betrekking tot het Algemeen Fonds Bijzondere Ziektekosten een jaarrekening over het voorafgaande kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.   
+2.  Het College zorgverzekeringen legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over: 
+
+a. de baten en lasten van het Algemeen Fonds Bijzondere Ziektekosten,  
+
+b. de geldstromen, bedoeld in artikel 44a, eerste lid,  
+
+c. de rechtmatigheid en doelmatigheid van het beheer van het Algemeen Fonds Bijzondere Ziektekosten,  
+
+d. de toestand van het Algemeen Fonds Bijzondere Ziektekosten per 31 december van het voorafgaande kalenderjaar.     
 3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.   
-4.  De verklaring, bedoeld in het vierde lid, heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen van het Algemeen Fonds Bijzondere Ziektekosten.   
-5.  De accountant voegt bij de verklaring, bedoeld in het vierde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
+4.  De verklaring, bedoeld in het derde lid, heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen van het Algemeen Fonds Bijzondere Ziektekosten.   
+5.  De accountant voegt bij de verklaring, bedoeld in het derde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
 
 ### Artikel  46  
 
-1.  De jaarrekening, bedoeld in artikel 45, behoeft de goedkeuring van Onze Minister.   
+1.  Het financieel verslag uitvoeringstaken, bedoeld in artikel 44a, en de jaarrekening, bedoeld in artikel 45, behoeven de goedkeuring van Onze Minister.   
 2.  Bij ministeriële regeling kunnen regels gesteld worden over de inhoud en de inrichting van: 
 
-a. de jaarrekening, bedoeld in artikel 45, eerste lid;  
+a. het financieel verslag uitvoeringstaken, bedoeld in artikel 44a;  
 
-b. de verklaringen, bedoeld in artikel 45, derde lid, de verslagen van bevindingen, bedoeld in artikel 45, vijfde lid, alsmede het aan die verklaringen en bevindingen ten grondslag liggende onderzoek.     
-3.  Na de goedkeuring, bedoeld in het eerste lid, stelt het College zorgverzekeringen de jaarrekening van het Algemeen Fonds Bijzondere Ziektekosten algemeen verkrijgbaar.   
+b. de jaarrekening, bedoeld in artikel 45;  
+
+c. de accountantscontrole van het financieel verslag uitvoeringstaken, bedoeld in artikel 44a, en van de jaarrekening, bedoeld in artikel 45;  
+
+d. de bij het financieel verslag uitvoeringstaken, bedoeld in artikel 44a, en de jaarrekening, bedoeld in artikel 45, behorende verslagen van bevindingen.     
+3.  Na de goedkeuring, bedoeld in het eerste lid, stelt het College zorgverzekeringen het financieel verslag uitvoeringstaken, bedoeld in artikel 44a, en de jaarrekening van het Algemeen Fonds Bijzondere Ziektekosten algemeen verkrijgbaar.   
 
 ### Artikel  47  
 
@@ -541,18 +560,18 @@ e. in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden
 ### Artikel  55  
 
 1.  De in artikel 54, eerste lid, bedoelde zorgverzekeraars, instanties en personen zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
-2.  Een zorgverzekeraar verleent op verzoek van het College zorgverzekeringen dan wel van de zorgautoriteit aan door het desbetreffende college aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende college dit nodig acht voor de uitoefening van zijn taak.   
+2.  Een zorgverzekeraar en het CAK verlenen op verzoek van het College zorgverzekeringen dan wel van de zorgautoriteit aan door het desbetreffende college aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende college dit nodig acht voor de uitoefening van zijn taak.   
 3.  Onze Minister is bevoegd zorgverzekeraars en zorgaanbieders, ter handhaving van het bepaalde bij of krachtens het eerste lid, een aanwijzing te geven betreffende de verstrekking van gegevens die het CAK voor de uitvoering van zijn taak, bedoeld in artikel 49, aanhef en onderdeel a, nodig heeft.   
 4.  Indien een zorgverzekeraar of een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het derde lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.   
 5.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 54, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
-6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende college.   
+6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het CAK, aan het College zorgverzekeringen of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende college.   
 7.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste of tweede lid.   
 
 ### Artikel  56  
 
-1.  De zorgautoriteit, onderscheidenlijk het College zorgverzekeringen, kan na overleg met het College zorgverzekeringen, onderscheidenlijk de zorgautoriteit, bij regeling bepalen welke gegevens en inlichtingen regelmatig door de zorgverzekeraars moeten worden verstrekt.   
+1.  De zorgautoriteit, onderscheidenlijk het College zorgverzekeringen, kan na overleg met het College zorgverzekeringen, onderscheidenlijk de zorgautoriteit, bij regeling bepalen welke gegevens en inlichtingen regelmatig door de zorgverzekeraars en het CAK moeten worden verstrekt.   
 2.  De regels kunnen mede omvatten het tijdstip en de wijze waarop de gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek de juistheid van de verstrekte gegevens en inlichtingen bevestigt.   
-3.  Bij ministeriële regeling kan worden bepaald welke statistische gegevens de zorgverzekeraars verzamelen betreffende vormen van zorg.   
+3.  Bij ministeriële regeling kan worden bepaald welke statistische gegevens de zorgverzekeraars en het CAK verzamelen betreffende vormen van zorg.   
 
 ### Artikel  57  
 

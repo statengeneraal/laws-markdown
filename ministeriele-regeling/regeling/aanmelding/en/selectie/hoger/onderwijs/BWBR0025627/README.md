@@ -67,7 +67,7 @@ c. een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende da
 ####Formulier
 
 1.  De in [artikel 7.37, vierde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de in de wet bedoelde aanmelding geschiedt digitaal via een door de Minister gevalideerd medium. De daarbij te verstrekken gegevens hebben in elk geval betrekking op de naam, de geboortedatum en -plaats, het adres en de nationaliteit van de gegadigde.   
-2.  De Minister verifieert de persoonsgegevens van de gegadigde die overeenkomstig het eerste lid dienen te worden vermeld, aan de hand van de over de gegadigde in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.   
+2.  De Minister verifieert de persoonsgegevens van de gegadigde die overeenkomstig het eerste lid dienen te worden vermeld, aan de hand van de over de gegadigde in de basisregistratie personen opgenomen gegevens.   
 3.  Indien de gegadigde buiten Nederland woonachtig is, gaat het formulier vergezeld van een fotokopie van de persoonsgegevens uit het paspoort of uit het rijbewijs, een uittreksel uit het bevolkingsregister dan wel een uittreksel uit of een fotokopie van de geboorteakte.   
 
 ### Artikel  3  

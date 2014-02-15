@@ -24,8 +24,6 @@ bureau jeugdzorg: een bureau als bedoeld in artikel 4;
 
 cliënt: jeugdige, zijn ouders of stiefouders of anderen die een jeugdige als behorend tot hun gezin verzorgen en opvoeden, met uitzondering van pleegouders;  
 
-eigen bijdrage: de bijdrage, bedoeld in artikel 70;  
-
 experiment: het ontwikkelen en in de praktijk beproeven van nieuwe en het verbeteren van bestaande methoden, werkvormen of hulpmiddelen ten behoeve van het functioneren van bureaus jeugdzorg en van jeugdzorg waarop ingevolge deze wet aanspraak bestaat;  
 
 huiselijk geweld: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning;  
@@ -52,7 +50,7 @@ Landelijk Bureau Inning Onderhoudsbijdragen: het bureau, genoemd in artikel 2, e
 
 machtiging: een machtiging als bedoeld in artikel 29b, eerste lid;  
 
-Onze Ministers: Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie tezamen;  
+Onze Ministers: Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Veiligheid en Justitie tezamen;  
 
 ouderbijdrage: de bijdrage, bedoeld in artikel 69;  
 
@@ -280,10 +278,10 @@ c. zo spoedig mogelijk na het overlijden van de jeugdige.
 
 ### Artikel  3  
 
-1.  Cliënten, behoudens niet rechtmatig in Nederland verblijvende vreemdelingen, hebben aanspraak op jeugdzorg. Bij of krachtens algemene maatregel van bestuur worden aard, inhoud en omvang van de jeugdzorg waarop aanspraak bestaat, geregeld. Ingevolge deze wet bestaat geen aanspraak op jeugdzorg waarop ingevolge de Beginselenwet justitiële jeugdinrichtingen aanspraak bestaat. Onder vreemdeling wordt in dit artikel verstaan hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000.   
+1.  Cliënten, behoudens niet rechtmatig in Nederland verblijvende vreemdelingen, hebben aanspraak op jeugdzorg. Bij of krachtens algemene maatregel van bestuur worden aard en inhoud van de jeugdzorg waarop aanspraak bestaat, geregeld. Ingevolge deze wet bestaat geen aanspraak op jeugdzorg waarop ingevolge de Beginselenwet justitiële jeugdinrichtingen aanspraak bestaat. Onder vreemdeling wordt in dit artikel verstaan hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000.   
 2.  Gedeputeerde staten van de provincie waarin de jeugdige voorafgaand aan de aanvang van de jeugdzorg, duurzaam verblijft, dragen ervoor zorg dat cliënten hun aanspraak op jeugdzorg als bedoeld in het eerste lid, tot gelding kunnen brengen.   
-3.  Een cliënt heeft slechts aanspraak op jeugdzorg ingevolge deze wet als de stichting die werkzaam is in de provincie waar de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. Met een zodanig besluit wordt gelijk gesteld een beslissing van de rechter als bedoeld in artikel 261, vierde lid, van Boek 1 van het Burgerlijk Wetboek, alsmede een beslissing van Onze Minister van Justitie in het kader van artikel 77s, vijfde lid, van het Wetboek van Strafrecht, voor zover hij de veroordeelde elders doet opnemen, een beslissing van de rechter als bedoeld in artikel 77wa, tweede lid, van het Wetboek van Strafrecht, en een beslissing van de selectiefunctionaris, bedoeld in artikel 12, derde lid, van de Beginselenwet justitiële jeugdinrichtingen, bij welke beslissing jeugdzorg waarop ingevolge deze wet aanspraak bestaat, wordt opgelegd of als voorwaarde wordt gesteld.   
-4.  Indien het besluit van de stichting strekt tot uithuisplaatsing in het kader van een ondertoezichtstelling als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek, treedt het niet in werking dan nadat de in dat artikel bedoelde machtiging van de kinderrechter is verkregen. Indien de machtiging niet wordt verleend, vervalt het besluit. Indien de duur van de machtiging korter is dan de termijn, bedoeld in artikel 6, eerste lid, onder c, wordt die termijn gelijk aan de duur van de machtiging.   
+3.  Een cliënt heeft slechts aanspraak op jeugdzorg ingevolge deze wet als de stichting die werkzaam is in de provincie waar de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat die cliënt op die zorg is aangewezen. Met een zodanig besluit wordt gelijk gesteld een beslissing van de rechter als bedoeld in artikel 261, vierde lid, van Boek 1 van het Burgerlijk Wetboek, alsmede een beslissing van Onze Minister van Veiligheid en Justitie in het kader van artikel 77s, vijfde lid, van het Wetboek van Strafrecht, voor zover hij de veroordeelde elders doet opnemen, een beslissing van de rechter als bedoeld in artikel 77wa, eerste lid, van het Wetboek van Strafrecht, en een beslissing van de selectiefunctionaris, bedoeld in artikel 12, derde lid, van de Beginselenwet justitiële jeugdinrichtingen, bij welke beslissing jeugdzorg waarop ingevolge deze wet aanspraak bestaat, wordt opgelegd of als voorwaarde wordt gesteld.   
+4.  Indien het besluit van de stichting strekt tot uithuisplaatsing in het kader van een ondertoezichtstelling als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek, treedt het niet in werking dan nadat de in dat artikel bedoelde machtiging van de kinderrechter is verkregen. Indien de machtiging niet wordt verleend, vervalt het besluit.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit, bedoeld in het derde lid, niet afgewacht kan worden. Daarbij kan worden afgeweken van het derde lid.   
 6.  Een cliënt kan zijn aanspraak op jeugdzorg ingevolge deze wet uitsluitend tot gelding brengen bij een zorgaanbieder die tot dat doel van de provincie subsidie ontvangt.   
 7.  In afwijking van het zesde lid kan een cliënt zijn aanspraak op jeugdzorg ingevolge deze wet tot gelding brengen bij een zorgaanbieder, die tot dat doel door een andere provincie dan die jegens welke de cliënt aanspraak heeft, wordt gesubsidieerd, indien de cliënt op jeugdzorg is aangewezen die slechts kan worden geboden door een zorgaanbieder wiens aanbod gericht is op jeugdzorg die zodanig gespecialiseerd is of vanuit een zodanige levensbeschouwelijke achtergrond wordt geboden, dat gezien de omvang van de doelgroep niet verwacht mag worden dat iedere provincie subsidie verstrekt voor deze zorg. Gedeputeerde staten van een provincie die geen zorgaanbieder als bedoeld in de eerste volzin subsidie verstrekken, voldoen aan de verplichting van het tweede lid door het aangaan van een schriftelijke overeenkomst met de provincie die aan die zorgaanbieders subsidie verstrekt. Deze overeenkomst legt in ieder geval vast op welke wijze de kosten worden verrekend.   
@@ -331,18 +329,15 @@ a. een beschrijving van de problemen of dreigende problemen van de cliënt, de e
 
 b. een beschrijving van de in verband daarmee benodigde zorg en het met die zorg beoogde doel;  
 
-c. de termijn gedurende welke de aanspraak geldt nadat de in het besluit voorziene zorg is aangevangen;  
+c. de termijn waarbinnen de aanspraak tot gelding moet zijn gebracht;  
 
-d. de termijn waarbinnen de aanspraak tot gelding moet zijn gebracht;  
-
-e. een advies wie de zorg kan of kunnen verlenen.     
+d. een advies wie de zorg kan of kunnen verlenen.     
 2.  In het besluit geeft de stichting aan of coördinatie van de zorg noodzakelijk is en zo ja, wie deze coördinatie het beste kan uitvoeren.   
-3.  Door het verstrijken van de termijn, bedoeld in het eerste lid, onder c, of indien een aanspraak niet binnen de termijn, bedoeld in het eerste lid, onder d, tot gelding is gebracht, vervalt de aanspraak.   
-4.  De aanspraak vervalt voorts indien de stichting een besluit neemt, waarbij wordt vastgesteld dat een cliënt niet langer is aangewezen op zorg als bedoeld in artikel 5, tweede lid.   
-5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud van het besluit, bedoeld in het eerste lid, en kunnen regels worden gesteld omtrent de wijze van totstandkoming daarvan, alsmede omtrent het vierde lid.   
+3.  Indien in een besluit dat strekt tot de vaststelling dat een cliënt is aangewezen op jeugdzorg in de zin van artikel 5, tweede lid, onder a, bepalingen over de duur en de omvang van de geïndiceerde jeugdzorg worden opgenomen, hebben deze bepalingen geen gevolgen voor de aanspraak op jeugdzorg.   
+4.  Indien een besluit strekt tot de vaststelling dat een cliënt is aangewezen op zorg als bedoeld in artikel 5, tweede lid, onder b, wordt daarin opgenomen de termijn gedurende welke de aanspraak geldt nadat de in het besluit voorziene zorg is aangevangen.   
+5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud van het besluit, bedoeld in het eerste lid, en kunnen regels worden gesteld omtrent de wijze van totstandkoming daarvan.   
 
-### Artikel  6a   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  6a  
 
 1.  De aanspraak op zorg, bedoeld in artikel 5, tweede lid, vervalt, indien: 
 
@@ -414,7 +409,7 @@ h. het volgen van de verleende zorg als bedoeld in artikel 5, tweede lid, en het
 i. het adviseren van de cliënt omtrent zorg die na beëindiging van de zorg, bedoeld in artikel 5, tweede lid, nodig is en het bijstaan van de cliënt bij het verkrijgen van deze zorg;  
 
 j. het in gevallen als bedoeld in artikel 8, eerste lid, bijstaan van een cliënt bij het verkrijgen van zorg, zo nodig motiveren van een cliënt tot het gebruik maken van zorg, en volgen van deze zorg.     
-2.  De stichting neemt bij de uitoefening van de in het eerste lid, onder c, bedoelde taken de aanwijzingen van de raad voor de kinderbescherming in acht. Bij de uitoefening van de in het eerste lid, onder d, bedoelde taken neemt de stichting de aanwijzingen van Onze Minister van Justitie, van de selectiefunctionaris, bedoeld in artikel 1, onder aa, van de Beginselenwet justitiële jeugdinrichtingen, dan wel van de directeur, bedoeld in artikel 1, onder i, van die wet, in acht.   
+2.  De stichting neemt bij de uitoefening van de in het eerste lid, onder c, bedoelde taken de aanwijzingen van de raad voor de kinderbescherming in acht. Bij de uitoefening van de in het eerste lid, onder d, bedoelde taken neemt de stichting de aanwijzingen van Onze Minister van Veiligheid en Justitie, van de selectiefunctionaris, bedoeld in artikel 1, onder aa, van de Beginselenwet justitiële jeugdinrichtingen, dan wel van de directeur, bedoeld in artikel 1, onder i, van die wet, in acht.   
 3.  De stichting heeft binnen de door de provincie bij de subsidiëring gestelde grenzen voorts tot taak: 
 
 a. het advies geven aan en, het bijdragen aan de deskundigheidsbevordering van en het onderhouden van contacten met algemene voorzieningen voor jeugdigen, waaronder in elk geval het onderwijs, ter versterking van deze algemene voorzieningen en ter bevordering van vroegtijdige signalering van problemen bij jeugdigen die tot zorg als bedoeld in artikel 5, tweede lid, zouden kunnen leiden;  
@@ -522,7 +517,7 @@ Een zorgaanbieder bij wie een cliënt zijn aanspraak op jeugdzorg tot gelding ka
 
 ### Artikel  20  
 
-Een zorgaanbieder en een aanbieder van jeugdzorg als bedoeld in artikel 5, tweede lid, onder b en c, doen aan de stichting die heeft vastgesteld dat een cliënt is aangewezen op zorg, mededeling van de aanvang en de beëindiging van de zorg. Zij houden de stichting op de hoogte van de voortgang van de zorg, verschaffen de stichting de gegevens die nodig zijn voor de evaluatie van de zorg en werken mee aan deze evaluatie.  
+Een zorgaanbieder en een aanbieder van andere zorg doen aan de stichting die heeft vastgesteld dat een cliënt is aangewezen op zorg, mededeling van de aanvang en de beëindiging van de zorg. Zij houden de stichting op de hoogte van de voortgang van de zorg, verschaffen de stichting de gegevens die nodig zijn voor de evaluatie van de zorg en werken mee aan deze evaluatie.  
 
 ### Artikel  21  
 
@@ -543,7 +538,7 @@ De artikelen 16 en 17 zijn van overeenkomstige toepassing ten aanzien van de nal
 2.  Tot verantwoorde zorg behoort in ieder geval dat de zorg die wordt verleend, is gebaseerd op een hulpverleningsplan dat is afgeleid van het besluit, bedoeld in artikel 6, eerste lid.   
 3.  Een zorgaanbieder en een aanbieder van andere zorg plegen, in verband met het tweede lid, overleg met de stichting omtrent de inhoud van het hulpverleningsplan. Indien aan een cliënt door meer dan één zorgaanbieder of aanbieder van andere zorg zorg wordt geboden, werken zij zodanig samen dat aan de cliënt samenhangende zorg wordt geboden en plegen zij gezamenlijk over het hulpverleningsplan overleg met de stichting. Tijdens het overleg wordt vastgesteld welke zorgaanbieder of aanbieder van andere zorg belast is met de coördinatie van de totstandkoming van het hulpverleningsplan en de uitvoering daarvan. In het hulpverleningsplan wordt opgenomen welke aanbieder belast is met de coördinatie van de zorg.   
 4.  Voor zover het betreft cliënten ten aanzien van wie de stichting een van de taken, bedoeld in artikel 10, eerste lid, onder a, b, c of d, uitoefent, is het overleg er tevens op gericht het hulpverleningsplan en het plan, bedoeld in artikel 13, derde lid, op elkaar te doen aansluiten.   
-5.  Het hulpverleningsplan wordt niet dan na overleg met de cliënt vastgesteld. Het behoeft diens instemming, tenzij het zorg betreft waartoe een maatregel van kinderbescherming verplicht, of onderdelen van het hulpverleningsplan als bedoeld in de artikelen 29o tot en met 29r. Een zorgaanbieder die pleegzorg biedt, pleegt over het hulpverleningsplan tevens overleg met de betrokken pleegouder. Het behoeft diens instemming, voor zover het betreft de omschrijving daarin van zijn rol in het hulpverleningsproces en van de wijze waarop de begeleiding door de zorgaanbieder die pleegzorg biedt wordt vorm gegeven. Het hulpverleningsplan wordt vastgesteld vóór de aanvang van de zorg, doch uiterlijk binnen zes weken na de dag waarop is komen vast te staan welke aanbieder of zorgaanbieders de zorg waarop de cliënt is aangewezen, zal verlenen.   
+5.  Het hulpverleningsplan wordt niet dan na overleg met de cliënt vastgesteld. Het behoeft diens instemming, tenzij het zorg betreft waartoe een maatregel van kinderbescherming verplicht, of onderdelen van het hulpverleningsplan als bedoeld in de artikelen 29o tot en met 29r en 29ta. Een zorgaanbieder die pleegzorg biedt, pleegt over het hulpverleningsplan tevens overleg met de betrokken pleegouder. Het behoeft diens instemming, voor zover het betreft de omschrijving daarin van zijn rol in het hulpverleningsproces en van de wijze waarop de begeleiding door de zorgaanbieder die pleegzorg biedt wordt vorm gegeven. Het hulpverleningsplan wordt vastgesteld vóór de aanvang van de zorg, doch uiterlijk binnen zes weken na de dag waarop is komen vast te staan welke aanbieder of zorgaanbieders de zorg waarop de cliënt is aangewezen, zal verlenen.   
 6.  Indien de cliënt minderjarig is, is in plaats van diens instemming, de instemming van zijn wettelijke vertegenwoordiger vereist, indien hij: 
 
 a. jonger is dan twaalf jaren, of  
@@ -723,8 +718,8 @@ e. de raad voor de kinderbescherming.
 
 1.  De beschikking van de rechter is bij voorraad uitvoerbaar.   
 2.  Bij opneming van de jeugdige in een accommodatie wordt de machtiging overgelegd.   
-3.  De kinderrechter bepaalt de geldigheidsduur van de machtiging op ten hoogste de termijn gedurende welke de jeugdige aanspraak heeft op het verblijf. Op verzoek van een van de instanties, genoemd in artikel 29d, eerste lid, kan hij de duur verlengen met inachtneming van de eerste volzin.   
-4.  De machtiging vervalt indien de aanspraak is vervallen omdat de stichting toepassing heeft gegeven aan artikel 6, vierde lid.   
+3.  De kinderrechter bepaalt de geldigheidsduur van de machtiging op ten hoogste één jaar.   
+4.  De machtiging vervalt indien de aanspraak is vervallen omdat de stichting toepassing heeft gegeven aan artikel 6a, eerste lid, onder c.   
 5.  De voorlopige machtiging geldt tot het tijdstip waarop een beslissing op een verzoek om een machtiging is genomen, doch ten hoogste vier weken.   
 6.  De tenuitvoerlegging van de machtiging kan door de zorgaanbieder worden geschorst, indien de tenuitvoerlegging naar het oordeel van de zorgaanbieder niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft zal onttrekken of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft zal onttrekken of daaraan door anderen wordt onttrokken.   
 7.  De betrokken stichting doet aan de raad voor de kinderbescherming mededeling van het vervallen van de machtiging op grond van het vierde lid, alsmede van het besluit geen nieuwe machtiging aan te vragen na afloop van de geldigheidsduur van een machtiging. De zorgaanbieder doet aan de stichting en de raad voor de kinderbescherming mededeling van een besluit tot schorsing en intrekking, als bedoeld in het zesde lid.   
@@ -858,7 +853,7 @@ c. tijdelijke plaatsing in een afzonderlijke en af te sluiten ruimte in het verv
 
 ### Artikel  29w  
 
-1.  Een jeugdige of degene die het gezag over hem heeft kan binnen redelijke termijn tegen een beslissing als bedoeld in de artikelen 29h, zesde lid, tweede volzin, 29o, derde lid, 29p, tweede lid, 29q, derde lid, en 29r, derde en vierde lid, de toepassing van artikel 29t, of een beslissing aangaande verlof als bedoeld in artikel 29v een schriftelijke klacht indienen bij de klachtencommissie, bedoeld in artikel 68.   
+1.  Een jeugdige of degene die het gezag over hem heeft kan binnen redelijke termijn tegen een beslissing als bedoeld in de artikelen 29h, zesde lid, tweede volzin, 29o, derde lid, 29p, tweede lid, 29q, derde lid, en 29r, derde en vierde lid, de toepassing van de artikelen 29t en 29ta, eerste lid, of een beslissing aangaande verlof als bedoeld in artikel 29v een schriftelijke klacht indienen bij de klachtencommissie, bedoeld in artikel 68.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de samenstelling van de klachtencommissie bij de behandeling van klachten als bedoeld in het eerste lid en de wijze waarop deze klachten worden behandeld.   
 3.  De klachtencommissie neemt zo spoedig mogelijk, doch in ieder geval binnen vier weken, te rekenen vanaf de datum waarop de klacht is ontvangen, een beslissing op de klacht.   
 4.  De beslissing van de commissie strekt tot: 
@@ -902,7 +897,7 @@ b. de colleges van burgemeester en wethouders, teneinde afspraken te maken over 
 
 c. de in de provincie werkzame zorgverzekeraars, teneinde afspraken te maken over de zorg waarin door de provincie, respectievelijk de zorgverzekeraars zal worden voorzien;  
 
-d. Onze Minister van Justitie, teneinde afspraken te maken over de capaciteit van inrichtingen als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen ten behoeve van aldaar op grond van de artikelen 261 of  305, derde lid, van Boek 1 van het Burgerlijk Wetboek te plaatsen minderjarigen.     
+d. Onze Minister van Veiligheid en Justitie, teneinde afspraken te maken over de capaciteit van inrichtingen als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen ten behoeve van aldaar op grond van de artikelen 261 of  305, derde lid, van Boek 1 van het Burgerlijk Wetboek te plaatsen minderjarigen.     
 3.  Gedeputeerde staten stellen de betrokken cliëntenorganisaties en pleegouderorganisaties in de gelegenheid te reageren op het ontwerp van het provinciale beleidskader.   
 
 ### Artikel  31  
@@ -911,7 +906,7 @@ d. Onze Minister van Justitie, teneinde afspraken te maken over de capaciteit va
 2.  Het provinciale beleidskader is in overeenstemming met het landelijk beleidskader.   
 3.  Het provinciale beleidskader bevat de hoofdlijnen van het beleid ten aanzien van de stichting en de jeugdzorg waarop ingevolge deze wet aanspraak bestaat alsmede een financieel kader voor dat beleid.   
 4.  Uitgangspunt bij de vaststelling van het provinciale beleidskader is dat het aanbod van jeugdzorg waarop ingevolge deze wet aanspraak bestaat, aansluit bij de behoefte van cliënten en bij het uitgangspunt dat jeugdzorg in het algemeen het meest doelmatig en het meest doeltreffend plaatsvindt in de minst ingrijpende vorm, zo dicht mogelijk bij de plaats waar de cliënt duurzaam verblijft en gedurende een zo kort mogelijke periode.   
-5.  Ten behoeve van de samenhang binnen de jeugdzorg bevat het provinciale beleidskader voorts een overzicht van de wijze waarop de zorgverzekeraars, de gemeenten en Onze Minister van Justitie voornemens zijn te voorzien in de behoefte aan jeugdzorg, niet zijnde jeugdzorg waarop ingevolge deze wet aanspraak bestaat.   
+5.  Ten behoeve van de samenhang binnen de jeugdzorg bevat het provinciale beleidskader voorts een overzicht van de wijze waarop de zorgverzekeraars, de gemeenten en Onze Minister van Veiligheid en Justitie voornemens zijn te voorzien in de behoefte aan jeugdzorg, niet zijnde jeugdzorg waarop ingevolge deze wet aanspraak bestaat.   
 6.  Provinciale staten bezien jaarlijks in hoeverre het provinciale beleidskader bijstelling behoeft en zij stellen het in ieder geval bij naar aanleiding van een wijziging van het landelijk beleidskader.   
 7.  Afschrift van het provinciale beleidskader wordt zo spoedig mogelijk na vaststelling gezonden aan Onze Ministers.   
 8.  Onze Ministers kunnen regels stellen omtrent de inrichting van het provinciale beleidskader.   
@@ -946,7 +941,7 @@ a. de gemeenten voornemens zijn te voorzien in de behoefte aan jeugdzorg, niet z
 
 b. de zorgverzekeraars voornemens zijn te voorzien in de behoefte aan zorg als bedoeld in artikel 5, tweede lid, onder b en c;  
 
-c. Onze Minister van Justitie voornemens is te voorzien in de behoefte aan jeugdzorg als bedoeld in artikel 5, tweede lid, onder d.     
+c. Onze Minister van Veiligheid en Justitie voornemens is te voorzien in de behoefte aan jeugdzorg als bedoeld in artikel 5, tweede lid, onder d.     
 4.  Bij de vaststelling van het landelijke beleidskader wordt rekening gehouden met het door de provinciebesturen in de voorafgaande jaren gevoerde beleid, zoals dit blijkt uit de uitvoeringsprogramma's.   
 5.  Het landelijke beleidskader wordt gezonden aan de provinciebesturen en aan de beide Kamers der Staten-Generaal.   
 6.  Jaarlijks bezien Onze Ministers in hoeverre het landelijke beleidskader bijstelling behoeft. Onze Ministers kunnen het landelijke beleidskader aanpassen zodra daartoe aanleiding bestaat.   
@@ -995,8 +990,8 @@ b. een uitkering ten behoeve van de door zorgaanbieders verleende jeugdzorg waar
 1.  Onze Ministers kunnen aan een provincie of een privaatrechtelijke rechtspersoon subsidie verstrekken ten behoeve van de uitvoering van een experiment of van de steunfunctie, dan wel ten behoeve van het stimuleren van nieuw beleid.   
 2.  De subsidie wordt verstrekt voor een bij de verlening aan te geven periode van ten hoogste vier jaar.   
 3.  Onze Ministers kunnen met betrekking tot deze subsidie een subsidieplafond vaststellen. Daarbij wordt voorzien in de wijze van verdeling.   
-4.  Onze Minister van Justitie kan aan een rechtspersoon als bedoeld in artikel 254, tweede lid, en aan een rechtspersoon als bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, subsidie verstrekken ten behoeve van de kosten van de uitoefening van de in die bepalingen en in artikel 241, zevende lid, van Boek 1 van het Burgerlijk Wetboek bedoelde taken, bijzondere door Onze Minister van Justitie aan te geven kosten daaronder begrepen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het verlenen van deze subsidie. Deze regels kunnen betrekking hebben op de onderwerpen genoemd in artikel 39, eerste lid.   
-5.  Op een rechtspersoon als bedoeld in het vierde lid zijn de artikelen 13 tot en met 16 en de hoofdstukken VII, VIII, IX, X en XII van overeenkomstige toepassing. Waar in deze bepalingen wordt gesproken van gedeputeerde staten wordt daarvoor gelezen Onze Minister van Justitie.   
+4.  Onze Minister van Veiligheid en Justitie kan aan een rechtspersoon als bedoeld in artikel 254, tweede lid, en aan een rechtspersoon als bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, subsidie verstrekken ten behoeve van de kosten van de uitoefening van de in die bepalingen en in artikel 241, zevende lid, van Boek 1 van het Burgerlijk Wetboek bedoelde taken, bijzondere door Onze Minister van Veiligheid en Justitie aan te geven kosten daaronder begrepen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het verlenen van deze subsidie. Deze regels kunnen betrekking hebben op de onderwerpen genoemd in artikel 39, eerste lid.   
+5.  Op een rechtspersoon als bedoeld in het vierde lid zijn de artikelen 13 tot en met 16 en de hoofdstukken VII, VIII, IX, X en XII van overeenkomstige toepassing. Waar in deze bepalingen wordt gesproken van gedeputeerde staten wordt daarvoor gelezen Onze Minister van Veiligheid en Justitie.   
 
 ### Artikel  39  
 
@@ -1060,7 +1055,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de stichtingen, de zor
 ### Artikel  44  
 
 1.  De stichtingen verstrekken ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens aan gedeputeerde staten van de betrokken provincie en de betrokken zorgverzekeraars.   
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat de raad voor de kinderbescherming en de justitiële jeugdinrichtingen, bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen, ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens verstrekken aan Onze Minister van Justitie of de provincies. Bij die maatregel kan worden geregeld dat zorgaanbieders gegevens verstrekken aan gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, tweede lid, en aanbieders van andere zorg aan de betrokken zorgverzekeraars ten behoeve van de verwerking bedoeld in artikel 42, derde lid.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat de raad voor de kinderbescherming en de justitiële jeugdinrichtingen, bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen, ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens verstrekken aan Onze Minister van Veiligheid en Justitie of de provincies. Bij die maatregel kan worden geregeld dat zorgaanbieders gegevens verstrekken aan gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, tweede lid, en aanbieders van andere zorg aan de betrokken zorgverzekeraars ten behoeve van de verwerking bedoeld in artikel 42, derde lid.   
 3.  Gedeputeerde staten verstrekken gegevens aan Onze Ministers ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat de zorgverzekeraars gegevens verstrekken aan Onze Ministers of gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, eerste of tweede lid.   
 5.  Onze Ministers verstrekken de gegevens aan de provincies en de betrokken zorgverzekeraars ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
@@ -1102,17 +1097,17 @@ c. de doelmatigheid en de doeltreffendheid van het aanbod aan jeugdzorg als bedo
 
 a. het verrichten van onderzoeken naar de kwaliteit in algemene zin van de bureaus jeugdzorg en de jeugdzorg, waarop ingevolge deze wet aanspraak bestaat, van de inrichtingen, bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen en van de raad voor de kinderbescherming, alsmede waar nodig, het aangeven en bevorderen van middelen tot verbetering daarvan;  
 
-b. het toezicht op de naleving van de wet en de daarop berustende bepalingen ten aanzien van de stichtingen, zorgaanbieders en vervoerders als bedoeld in artikel 29ta, derde lid, met uitzondering van artikel 70 en het toezicht op de rechtmatige en doelmatige besteding van subsidies;  
+b. het toezicht op de naleving van de wet en de daarop berustende bepalingen ten aanzien van de stichtingen, zorgaanbieders en vervoerders als bedoeld in artikel 29ta, derde lid, met uitzondering van het toezicht op de rechtmatige en doelmatige besteding van subsidies;  
 
 c. het toezicht op de naleving van het bij of krachtens de Beginselenwet justitiële jeugdinrichtingen bepaalde omtrent de kwaliteit van de justitiële jeugdinrichtingen;  
 
 d. het toezicht op de naleving van artikel 9 van de Wet Centraal Orgaan opvang asielzoekers, voor zover het betreft minderjarigen die onder toezicht staan van de rechtspersoon, bedoeld in artikel 254, tweede lid, of die onder voogdij staan van de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek.     
 2.  Met de taken, bedoeld in het eerste lid, zijn belast de ambtenaren van de inspectie.   
 3.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in artikel 5:18 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, belast met de taak bedoeld in het eerste lid, onder a.   
-4.  De ambtenaren van de inspectie nemen bij de vervulling van de taak, bedoeld in het eerste lid, onder a, de instructies van Onze Ministers en bij de vervulling van de taak, bedoeld in het eerste lid, onder b, de instructies van gedeputeerde staten van de betrokken provincie in acht. Bij de vervulling van de taken, bedoeld in het eerste lid, onder c en d, nemen zij de instructies van Onze Minister van Justitie in acht.   
-5.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder a, uit eigen beweging of indien het onderzoeken betreft met betrekking tot de bureaus jeugdzorg en de jeugdzorg waarop ingevolge deze wet aanspraak bestaat, op verzoek van Onze Ministers en met betrekking tot de inrichtingen, bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen en de raad voor de kinderbescherming, op verzoek van Onze Minister van Justitie. Onderzoeken in verband met de taak, bedoeld in het eerste lid, onder d, worden uit eigen beweging verricht of op verzoek van Onze Minister van Justitie.   
+4.  De ambtenaren van de inspectie nemen bij de vervulling van de taak, bedoeld in het eerste lid, onder a, de instructies van Onze Ministers en bij de vervulling van de taak, bedoeld in het eerste lid, onder b, de instructies van gedeputeerde staten van de betrokken provincie in acht. Bij de vervulling van de taken, bedoeld in het eerste lid, onder c en d, nemen zij de instructies van Onze Minister van Veiligheid en Justitie in acht.   
+5.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder a, uit eigen beweging of indien het onderzoeken betreft met betrekking tot de bureaus jeugdzorg en de jeugdzorg waarop ingevolge deze wet aanspraak bestaat, op verzoek van Onze Ministers en met betrekking tot de inrichtingen, bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen en de raad voor de kinderbescherming, op verzoek van Onze Minister van Veiligheid en Justitie. Onderzoeken in verband met de taak, bedoeld in het eerste lid, onder d, worden uit eigen beweging verricht of op verzoek van Onze Minister van Veiligheid en Justitie.   
 6.  De inspectie verricht onderzoeken als bedoeld in het eerste lid onder b uit eigen beweging of op verzoek van gedeputeerde staten van de betrokken provincie.   
-7.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder c, uit eigen beweging of op verzoek van Onze Minister van Justitie.   
+7.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder c, uit eigen beweging of op verzoek van Onze Minister van Veiligheid en Justitie.   
 8.  De inspectie brengt van haar bevindingen verslag uit aan degene bij wie het onderzoek is uitgevoerd en kan daarbij voorstellen doen tot verbetering van de kwaliteit. De inspectie stelt het betrokken overheidsorgaan schriftelijk op de hoogte van haar bevindingen.   
 9.  De inspectie stelt gedeputeerde staten van haar bevindingen ten aanzien van bureaus jeugdzorg en zorgaanbieders op de hoogte indien zij van oordeel is, dat toepassing moet worden gegeven aan artikel 16, eerste of zevende lid.   
 10.  De inspectie stelt jaarlijks een verslag op van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdzorg nodig acht. Het verslag wordt gezonden aan de provinciebesturen, Onze Ministers en de Tweede Kamer der Staten-Generaal.   
@@ -1257,7 +1252,7 @@ n. wijziging van een werkplan, voor zover het aangelegenheden betreft die niet r
 
 o. het belasten van personen met de leiding van een onderdeel van het zorgaanbod, waarin gedurende het etmaal zorg wordt verleend aan jeugdigen die in de regel in de zorgeenheid verblijven.     
 2.  Het advies wordt op een zodanig tijdstip gevraagd dat het wezenlijk van invloed kan zijn op het te nemen besluit.   
-3.  De cliëntenraad is bevoegd de zorgaanbieder ook ongevraagd te adviseren inzake de in het eerste lid genoemde en andere onderwerpen, die voor de cliënten van belang zijn.   
+3.  De cliëntenraad is bevoegd de stichting of de zorgaanbieder ook ongevraagd te adviseren inzake de in het eerste lid genoemde en andere onderwerpen, die voor de cliënten van belang zijn.   
 4.  Ingeval een zorgaanbieder meer dan een cliëntenraad heeft ingesteld en bovendien één cliëntenraad die alle door hem in stand gehouden zorgeenheden omvat, bevat de regeling, bedoeld in artikel 58, tweede lid, tevens een voorziening waardoor de in dit hoofdstuk bedoelde verplichtingen en bevoegdheden slechts behoeven te worden nagekomen jegens en kunnen worden uitgeoefend door één cliëntenraad.   
 
 ### Artikel  60  
@@ -1277,7 +1272,7 @@ o. het belasten van personen met de leiding van een onderdeel van het zorgaanbod
 
 ### Artikel  63  
 
-1.  De zorgaanbieders, indien deze een rechtspersoon is als bedoeld in artikel 3 van boek 2 van het Burgerlijk Wetboek, voorzien in de statuten in een regeling die waarborgt dat de cliënten invloed kunnen uitoefenen op de samenstelling van het bestuur. De regeling houdt ten minste in dat één bestuurslid wordt benoemd op bindende voordracht van de cliëntenraad of cliëntenraden, tenzij deze van de mogelijkheid een voordracht te doen geen gebruik heeft onderscheidenlijk hebben gemaakt.   
+1.  De stichtingen en de zorgaanbieders die rechtspersoon zijn als bedoeld in artikel 3 van boek 2 van het Burgerlijk Wetboek, voorzien in de statuten in een regeling die waarborgt dat de cliënten invloed kunnen uitoefenen op de samenstelling van het bestuur. De regeling houdt ten minste in dat één bestuurslid wordt benoemd op bindende voordracht van de cliëntenraad of cliëntenraden, tenzij deze van de mogelijkheid een voordracht te doen geen gebruik heeft onderscheidenlijk hebben gemaakt.   
 2.  Het eerste lid is niet van toepassing als het bestuur bestaat uit één of meer personen die deze functie uitoefent onderscheidenlijk uitoefenen op grond van een arbeidsrelatie waaraan een geldelijke beloning is verbonden. In dat geval is het eerste lid van overeenkomstige toepassing op de samenstelling van het orgaan dat belast is met het toezicht op of de goedkeuring van besluiten van het bestuur.   
 
 ### Artikel  64  
@@ -1440,11 +1435,6 @@ De artikelen 67 en 68 zijn van overeenkomstige toepassing op zorgaanbieders die 
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de hoogte van de bijdrage, die naar de leeftijd van de jeugdige en de aard van de zorg kan verschillen.   
 3.  Indien ten aanzien van een jeugdige meer dan één persoon de ouderbijdrage verschuldigd is, is ieder der bijdrageplichtigen de ouderbijdrage verschuldigd met dien verstande dat, indien de een heeft betaald, de ander is bevrijd.   
 
-### Artikel  70  
-
-1.  Een jeugdige aan wie jeugdzorg wordt geboden als bedoeld in artikel 69, eerste lid, is aan de zorgaanbieder een bijdrage verschuldigd in de kosten van de zorg.   
-2.  De eigen bijdrage wordt vastgesteld naar het inkomen van de jeugdige. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het inkomen dat bij de vaststelling van de bijdrage in aanmerking wordt genomen en omtrent de hoogte van de bijdrage.   
-
 ### Artikel  71  
 
 1.  Geen ouderbijdrage is verschuldigd indien: 
@@ -1453,11 +1443,7 @@ a. de jeugdige met het oog op adoptie niet meer door zijn ouders wordt verzorgd 
 
 b. de ouders van het gezag over de jeugdige zijn ontheven of ontzet;  
 
-c. het verblijf en de verzorging worden geboden in een acute noodsituatie, zulks voor de duur van ten hoogste zes weken;  
-
-d. aan een minderjarige jeugdige nog jeugdzorg wordt geboden als bedoeld in artikel 69 na schriftelijk aan het Landelijk Bureau Inning Onderhoudsbijdragen kenbaar gemaakt bezwaar door degene die het ouderlijk gezag of de voogdij uitoefent, tenzij het een jeugdige betreft ten aanzien van wie een maatregel van kinderbescherming is getroffen die tot verlening van zodanige zorg strekt of die deze noodzakelijk maakt;  
-
-e. het bij de algemene maatregel van bestuur, bedoeld in artikel 70, tweede lid, te bepalen inkomen van de jeugdige een bij algemene maatregel van bestuur vast te stellen bedrag te boven gaat.     
+c. het verblijf en de verzorging worden geboden in een acute noodsituatie, zulks voor de duur van ten hoogste zes weken.     
 2.  Geen ouderbijdrage is verschuldigd door de ouder of stiefouder ten aanzien van wie de rechter op de voet van de artikelen 406 en 407 van Boek 1 van het Burgerlijk Wetboek of van artikel 822, eerste lid, onder c, van het Wetboek van Burgerlijke Rechtsvordering een bedrag heeft bepaald dat hij periodiek moet betalen ter voorziening in de kosten van verzorging en opvoeding van zijn kind of stiefkind.   
 
 ### Artikel  72  
@@ -1466,8 +1452,7 @@ Indien bijdrageplichtige ouders of stiefouders gescheiden wonen en er geen bedra
 
 ### Artikel  73  
 
-1.  De ouderbijdrage wordt vastgesteld en geïnd door het Landelijk Bureau Inning Onderhoudsbijdragen.   
-2.  De eigen bijdrage wordt vastgesteld door de betrokken zorgaanbieder. Deze is tevens met de inning belast.   
+De ouderbijdrage wordt vastgesteld en geïnd door het Landelijk Bureau Inning Onderhoudsbijdragen.  
 
 ### Artikel  73a  
 
@@ -1476,23 +1461,7 @@ Het Landelijk Bureau Inning Onderhoudsbijdragen kan in bij algemene maatregel va
 ### Artikel  74  
 
 1.  De bijdrageplichtige, bedoeld in artikel 69, eerste lid, is verplicht aan het Landelijk Bureau Inning Onderhoudsbijdragen desgevraagd alle inlichtingen te geven die nodig zijn voor de vaststelling en inning van de ouderbijdrage.   
-2.  De jeugdige, die ingevolge artikel 70, eerste lid, een eigen bijdrage verschuldigd is, is verplicht aan de zorgaanbieder die belast is met de vaststelling en de inning van de eigen bijdrage alle inlichtingen te geven die deze daartoe nodig heeft.   
-3.  De inlichtingen moeten, indien dit wordt verzocht, schriftelijk worden verstrekt binnen een door degene die belast is met de vaststelling en de inning van de bijdrage schriftelijk te stellen, redelijke termijn.   
-4.  Een zorgaanbieder doet, als zich een geval als bedoeld in artikel 71, eerste lid, onder e, voordoet, daarvan mededeling aan degene die belast is met de vaststelling van de ouderbijdrage.   
-
-### Artikel  75  
-
-Degene die belast is met de vaststelling van de eigen bijdrage deelt de bijdrageplichtige schriftelijk mede welke eigen bijdrage is verschuldigd en binnen welke termijn het verschuldigde bedrag telkens moet worden voldaan.  
-
-### Artikel  76  
-
-1.  Indien de eigen bijdrage voor het geheel of voor een deel niet tijdig is betaald, kan degene die belast is met de inning, van een bijdrageplichtige de verschuldigde bedragen, vermeerderd met de aan de invordering verbonden kosten van aanmaning, betekening en executie, invorderen.   
-2.  Geen invordering geschiedt dan nadat de bijdrageplichtige schriftelijk is aangemaand om alsnog binnen veertien dagen na dagtekening van de aanmaning te betalen, onder kennisgeving dat de bijdrageplichtige anders door de middelen bij wet bepaald tot betaling zal worden gedwongen.   
-3.  Indien de bijdrageplichtige na de aanmaning in gebreke blijft, kan de invordering geschieden bij een door het Landelijk Bureau Inning Onderhoudsbijdragen uit te vaardigen dwangbevel, dat meebrengt het recht de roerende en onroerende goederen van de bijdrageplichtige zonder vonnis aan te tasten.   
-4.  De betekening van het dwangbevel geschiedt overeenkomstig de regels van het Wetboek van Burgerlijke Rechtsvordering met betrekking tot de betekening van dagvaardingen.   
-5.  Het dwangbevel wordt ten uitvoer gelegd overeenkomstig de regels van het Wetboek van Burgerlijke Rechtsvordering met betrekking tot de tenuitvoerlegging van vonnissen en authentieke akten.   
-6.  De bijdrageplichtige kan tegen de tenuitvoerlegging van een dwangbevel in verzet komen bij de rechtbank. Het verzet vangt aan met een dagvaarding door de bijdrageplichtige als eiser aan degene die het dwangbevel heeft uitgevaardigd als gedaagde. Het verzet schorst de tenuitvoerlegging van het dwangbevel voor zover deze door het verzet wordt bestreden. Het verzet kan niet zijn gegrond op de stelling dat de mededeling bedoeld in artikel 75 of de aanmaning niet is ontvangen. Bovendien kan het verzet niet zijn gegrond op de stelling dat de bijdrage ten onrechte of tot een te hoog bedrag is vastgesteld.   
-7.  Voor de toepassing van deze wet kan degene die belast is met de inning executoriaal beslag onder derden leggen door van het dwangbevel in afschrift mededeling te doen aan de derde beslagene. Artikel 479 g van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
+2.  De inlichtingen moeten, indien dit wordt verzocht, schriftelijk worden verstrekt binnen een door degene die belast is met de vaststelling en de inning van de bijdrage schriftelijk te stellen, redelijke termijn.   
 
 ### Hoofdstuk  XIV  
 
@@ -1602,7 +1571,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 1.  Elke voogdij en voorlopige voogdij, opgedragen aan een rechtspersoon die op grond van artikel 60, eerste lid, onder a, van de Wet op de jeugdhulpverlening aanvaard is als voogdij-instelling en die op het tijdstip van inwerkingtreding van deze wet als de in artikel 4, eerste lid, bedoelde stichting wordt aangemerkt, berust met ingang van dat tijdstip bij die stichting. Een voogdij en een voorlopige voogdij, opgedragen aan een andere rechtspersoon dan die bedoeld in de eerste volzin, gaat van rechtswege over op de stichting in de provincie waar de minderjarige woonplaats heeft. Overgang van de voogdijen en de voorlopige voogdijen geschiedt niet met betrekking tot die welke de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek op het tijdstip van inwerkingtreding van deze wet uitoefent.   
 2.  Het eerste lid, eerste en tweede volzin, is van overeenkomstige toepassing met betrekking tot de taken van gezinsvoogdij-instellingen, genoemd in artikel 257 van Boek 1 van het Burgerlijk Wetboek, het uitoefenen van het voorlopig toezicht, bedoeld in artikel 255 van Boek 1 van het Burgerlijk Wetboek alsmede de bevoegdheden en taken van gezinsvoogdij-instellingen genoemd in de artikelen 77f, eerste lid, 77j, vijfde lid, 77aa, tweede en derde lid, van het Wetboek van Strafrecht, en in de maatregel krachtens artikel 77ff, tweede lid, van het Wetboek van Strafrecht of in artikel 493, eerste lid, van het Wetboek van Strafvordering, een en ander zoals die bepalingen tot het tijdstip van inwerkingtreding van deze wet luidden. Overgang met betrekking tot de taken, genoemd in artikel 257 van Boek 1 van het Burgerlijk Wetboek, en het uitoefenen van het voorlopig toezicht, bedoeld in artikel 255 van Boek 1 van het Burgerlijk Wetboek, geschiedt niet voor wat betreft de gezinsvoogdijen die de rechtspersoon, bedoeld in artikel 254, tweede lid, van Boek 1 van het Burgerlijk Wetboek op het tijdstip van inwerkingtreding van deze wet uitoefent.   
-3.  In afwijking van het eerste en tweede lid, kan de kinderrechter op verzoek van bloed- en aanverwanten van de minderjarige, van de raad voor de kinderbescherming, van belanghebbenden of ambtshalve, de voogdij opdragen aan de stichting, bedoeld in artikel 1, onder f, die werkzaam is in de provincie waar de minderjarige verblijft ten tijde van de inwerkingtreding van deze wet, alsmede een minderjarige onder toezicht stellen van een zodanige stichting.   
+3.  In afwijking van het eerste en tweede lid, kan de kinderrechter op verzoek van bloed- en aanverwanten van de minderjarige, van de raad voor de kinderbescherming, van belanghebbenden of ambtshalve, de voogdij opdragen aan de stichting, bedoeld in artikel 1, eerste lid, die werkzaam is in de provincie waar de minderjarige verblijft ten tijde van de inwerkingtreding van deze wet, alsmede een minderjarige onder toezicht stellen van een zodanige stichting.   
 4.  Een verzoek als bedoeld in het derde lid kan tot zes maanden na de inwerkingtreding van deze wet worden gedaan.   
 
 ### Artikel  103  

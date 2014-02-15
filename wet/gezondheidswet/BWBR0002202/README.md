@@ -123,26 +123,24 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een hoofdinspecteur
 ### Artikel  38  
 
 1.  De artikelen 36, eerste, tweede en vierde lid, en 37 zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
-2.  Het Staatstoezicht op de Volksgezondheid is in de openbare lichamen Bonaire, Sint Eustatius en Saba uitsluitend bevoegd tot de uitoefening van de in artikel 36, eerste en tweede lid, genoemde taken, voor zover het gaat om de voorschriften bij of krachtens de: 
+2.  Het Staatstoezicht op de Volksgezondheid is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd tot de uitoefening van de in artikel 36, eerste en tweede lid, genoemde taken, voor zover het gaat om de voorschriften bij of krachtens de: 
 
 a. Wet toezicht op krankzinnigen BES;  
 
-b. Wet beperking tabaksgebruik BES;  
+b. [Wet beperking tabaksgebruik BES](../../../wet-BES/wet/beperking/tabaksgebruik/bes/BWBR0028544/README.md);  
 
-c. Warenwet BES;  
+c. [Warenwet BES](../../../wet-BES/warenwet/bes/BWBR0028619/README.md);  
 
-d. Opiumwet 1960 BES;  
+d. [Opiumwet 1960 BES](../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md);  
 
-e. Wet op de geneesmiddelenvoorziening BES;  
+e. [Wet op de geneesmiddelenvoorziening BES](../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md);  
 
-f. Wet organisatie bloedvoorziening BES;  
+f. [Wet organisatie bloedvoorziening BES](../../../wet-BES/wet/organisatie/bloedvoorziening/bes/BWBR0028454/README.md);  
 
-g. Wet zorginstellingen BES;  
+g. [Wet zorginstellingen BES](../../../wet-BES/wet/zorginstellingen/bes/BWBR0028734/README.md);  
 
-h. Wet afbreking zwangerschap;  
-
-i. Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.     
-3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de Hoofdstukken 3, 4 en 5 van de Wet Inspectie voor de Volksgezondheid BES, zoals die luidde op 1 januari 2011.   
+h. Vergunningwet BES.     
+3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de [Hoofdstukken 3](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md), [4](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md) en [5 van de Wet Inspectie Biociden BES](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md).   
 
 ### §  3  
 

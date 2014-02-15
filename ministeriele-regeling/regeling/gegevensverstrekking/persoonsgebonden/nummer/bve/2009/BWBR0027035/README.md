@@ -167,7 +167,7 @@ E. De specificatie van de inschrijvings- en examengegevens van deelnemers aan op
 | --- | V  | Vrouwelijk  |
 | --- | O  | Onbekend  |
 
-*Postcode van de woonplaats:*  TPG postcodetabel.  *Land:*  Als referentietabel dient de landentabel zoals gehanteerd door de Gemeentelijk basisadministratie (GBA) te worden gehanteerd. De tabel zal door de DUO beschikbaar worden gesteld via www.ocwduo.nl onder ‘zakelijk’.  
+*Postcode van de woonplaats:*  TPG postcodetabel.  *Land:*  Als referentietabel dient de landentabel zoals gehanteerd door de basisregistratie personen te worden gehanteerd. De tabel zal door de DUO beschikbaar worden gesteld via www.ocwduo.nl onder ‘zakelijk’.  
 
 ### C  
 

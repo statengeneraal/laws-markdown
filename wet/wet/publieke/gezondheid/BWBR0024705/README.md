@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, ter implementatie van de herziene Internationale Gezondheidsregeling en om beter voorbereid te zijn op infectieziektecrises, wenselijk is voor de infectieziektebestrijding regels te stellen betreffende de organisatie ervan en de informatieverplichtingen en de bevoegdheden tot optreden uit te breiden; dat het wenselijk is om deze regels samen met de bestaande bepalingen onder te brengen in één wet opdat een samenhangend geheel ontstaat; dat daarom de Wet collectieve preventie volksgezondheid, de Infectieziektenwet en de Quarantainewet kunnen worden ingetrokken en worden vervangen door een wet voor de publieke gezondheid; dat het daarnaast wenselijk is om in deze wet een bepaling op te nemen omtrent een verplichte digitale gegevensopslag bij de uitvoering van de jeugdgezondheidszorg;
+Alzo Wij in overweging genomen hebben, dat het, ter implementatie van de herziene Internationale Gezondheidsregeling en om beter voorbereid te zijn op infectieziektecrises, wenselijk is voor de infectieziektebestrijding regels te stellen betreffende de organisatie ervan en de informatieverplichtingen en de bevoegdheden tot optreden uit te breiden; dat het wenselijk is om deze regels samen met de bestaande bepalingen onder te brengen in één wet opdat een samenhangend geheel ontstaat; dat daarom de [Wet collectieve preventie volksgezondheid](../../../../../wet/wet/collectieve/preventie/volksgezondheid/BWBR0004760/README.md), de [Infectieziektenwet](../../../../../wet/infectieziektenwet/BWBR0009684/README.md) en de [Quarantainewet](../../../../../wet/quarantainewet/BWBR0002343/README.md) kunnen worden ingetrokken en worden vervangen door een wet voor de publieke gezondheid; dat het daarnaast wenselijk is om in deze wet een bepaling op te nemen omtrent een verplichte digitale gegevensopslag bij de uitvoering van de jeugdgezondheidszorg;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -46,7 +46,7 @@ m. *infectie:* het binnendringen en de ontwikkeling of vermenigvuldiging van een
 
 n. *vector:* een insect of ander dier dat normaliter een infectueus agens met zich meevoert waardoor een volksgezondheidsrisico kan ontstaan, dan wel een plant of substantie waarin een infectueus agens normaliter leeft waardoor een volksgezondheidsrisico kan ontstaan;  
 
-o. *lijk;* een lijk in de zin van artikel 2, eerste lid, onder a, van de Wet op de lijkbezorging;  
+o. *lijk;* een lijk in de zin van [artikel 2, eerste lid, onder a, van de Wet op de lijkbezorging](../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);  
 
 p. *haven:* haven, inclusief de ankergebieden, ligplaatsen, kaden, steigers en, voor wat betreft zeehavens, aanvaarroutes vanuit zee, alsmede alle zich in de nabijheid daarvan bevindende bedrijven, opslagplaatsen en overige terreinen en gebouwen, die op grond van hun ligging, bestemming of gebruik moeten worden geacht daartoe te behoren;  
 
@@ -58,13 +58,13 @@ q. *luchthaven:* een terrein geheel of gedeeltelijk bestemd voor het opstijgen e
 
 3°. bedrijfsmatige activiteiten die samenhangen met de afwikkeling van het in de aanhef en onder 1° bedoelde luchtverkeer;    
 
-r. *burgerexploitant:* burgerexploitant als bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart;  
+r. *burgerexploitant:* burgerexploitant als bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
 s. *gebouw:* elk bouwwerk dat een overdekte geheel of gedeeltelijk met wanden omsloten ruimte vormt, met uitzondering van bouwwerken ten behoeve van het belijden van godsdienst of levensovertuiging;  
 
 t. *vervoermiddel:* luchtvaartuig, schip, trein of wegvoertuig;  
 
-u. *goed:* tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken in de zin van artikel 2, eerste lid, onder a, van de Wet op de lijkbezorging;  
+u. *goed:* tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken in de zin van [artikel 2, eerste lid, onder a, van de Wet op de lijkbezorging](../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);  
 
 v. *waar:* eetwaar, waaronder tevens begrepen een kauwpreparaat, drinkwaar alsmede een andere roerende zaak, voor zover gebruikt in de sfeer van de particuliere huishouding of van een krachtens de Warenwet daarmee gelijkgestelde andere huishouding;  
 
@@ -72,13 +72,13 @@ w. *vervoersexploitant:* een natuurlijke of rechtspersoon die verantwoordelijk i
 
 x. *laboratorium:* een laboratorium waar van het menselijk lichaam afgescheiden of afgenomen stoffen worden onderzocht ten behoeve van de diagnostiek van infectieziekten;  
 
-y. *samenwerkingsverband van registerloodsen:* het voor de desbetreffende scheepvaartweg, bedoeld in artikel 10, eerste lid, van de Scheepvaartverkeerswet, aangewezen samenwerkingsverband van registerloodsen, waarin krachtens artikel 15, eerste lid, onderdeel b, onder 2, van de Loodsenwet, is voorzien;  
+y. *samenwerkingsverband van registerloodsen:* het voor de desbetreffende scheepvaartweg, bedoeld in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), aangewezen samenwerkingsverband van registerloodsen, waarin krachtens [artikel 15, eerste lid, onderdeel b, onder 2, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), is voorzien;  
 
-z. *burgerservicenummer:* het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
+z. *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
 
-aa. *RIVM:* het met de infectieziektebestrijding belaste onderdeel van het Rijksinstituut voor volksgezondheid en milieu van het Ministerie van Volksgezondheid, Welzijn en Sport, bedoeld in artikel 1, onderdeel b, van de Wet op het RIVM;  
+aa. *RIVM:* het met de infectieziektebestrijding belaste onderdeel van het Rijksinstituut voor volksgezondheid en milieu van het Ministerie van Volksgezondheid, Welzijn en Sport, bedoeld in [artikel 1, onderdeel b, van de Wet op het RIVM](../../../../../wet/wet/op/het/rivm/BWBR0008289/README.md);  
 
-ab. *voorzitter van de veiligheidsregio:* de voorzitter van het bestuur van de veiligheidsregio, bedoeld in artikel 11, tweede lid, van de Wet veiligheidsregio’s.    
+ab. *voorzitter van de veiligheidsregio:* de voorzitter van het bestuur van de veiligheidsregio, bedoeld in [artikel 11, tweede lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).    
 
 ### Hoofdstuk  II  
 
@@ -137,7 +137,7 @@ c. de vroegtijdige opsporing en preventie van specifieke stoornissen, met uitzon
 d. het geven van voorlichting, advies, instructie en begeleiding,  
 
 e. het formuleren van maatregelen ter beïnvloeding van gezondheidsbedreigingen.     
-3.  Het college van burgemeester en wethouders draagt er zorg voor dat bij uitvoering van de in het eerste lid bedoelde taak, voor zover het gaat om vastleggen van patiëntgegevens als bedoeld in artikel 7:454 van het Burgerlijk Wetboek, gebruik wordt gemaakt van digitale gegevensopslag. Bij regeling van de Minister voor Jeugd en Gezin kunnen eisen worden gesteld aan de daarbij te gebruiken software.   
+3.  Het college van burgemeester en wethouders draagt er zorg voor dat bij uitvoering van de in het eerste lid bedoelde taak, voor zover het gaat om vastleggen van patiëntgegevens als bedoeld in [artikel 7:454 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), gebruik wordt gemaakt van digitale gegevensopslag. Bij regeling van de Minister van Volksgezondheid, Welzijn en Sport kunnen eisen worden gesteld aan de daarbij te gebruiken software.   
 4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkzaamheden, bedoeld in het tweede lid.   
 
 ### §  3  
@@ -182,7 +182,7 @@ c. bron- en contactopsporing bij meldingen als bedoeld in de artikelen 21, 22, 2
 
 1.  In de situatie, bedoeld in artikel 6, vierde lid, geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
 2.  In afwijking van artikel 6, derde lid, geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
-3.  Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de artikelen 51, 54 en 55, alsook om de maatregelen, bedoeld in artikel 22a van de Wet op de lijkbezorging, toe te passen.   
+3.  Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de artikelen 51, 54 en 55, alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), toe te passen.   
 4.  Voordat toepassing wordt gegeven aan het eerste, tweede of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Infrastructuur en Milieu en de veiligheidsregio’s of gemeenten die het aangaat, worden betrokken.   
 5.  Zodra toepassing wordt gegeven aan het eerste of tweede lid, informeert Onze Minister Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie.   
 6.  Indien toepassing wordt gegeven aan het eerste, tweede of derde lid, verstrekt de voorzitter van de veiligheidsregio of de burgemeester aan Onze Minister, indien deze daarom verzoekt, de gegevens die Onze Minister nodig heeft ter uitoefening van die taak.   
@@ -194,8 +194,8 @@ c. bron- en contactopsporing bij meldingen als bedoeld in de artikelen 21, 22, 2
 a. infectieziekten behorende tot groep A, of  
 
 b. een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volksgezondheid bestaat.     
-2.  Het bestuur van de veiligheidsregio beschrijft in het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, de organisatie, de taken en bevoegdheden in het kader van de bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat.   
-3.  Het deel van het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, dat betrekking heeft op bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat, wordt vastgesteld in overeenstemming met het algemeen bestuur van de gemeentelijke gezondheidsdienst.   
+2.  Het bestuur van de veiligheidsregio beschrijft in het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), de organisatie, de taken en bevoegdheden in het kader van de bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat.   
+3.  Het deel van het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), dat betrekking heeft op bestrijding van en de voorbereiding op de bestrijding van een epidemie van een infectieziekte behorend tot groep A, alsmede de voorbereiding op de bestrijding van een nieuw subtype humaan influenzavirus waarbij ernstig gevaar voor de volksgezondheid bestaat, wordt vastgesteld in overeenstemming met het algemeen bestuur van de gemeentelijke gezondheidsdienst.   
 
 ### Artikel  9  
 
@@ -238,11 +238,11 @@ d. hoe het college van burgemeester en wethouders uitvoering geeft aan de in art
 
 ### Artikel  14  
 
-1.  Ter uitvoering van bij of krachtens deze wet opgedragen taken dragen de colleges van burgemeester en wethouders van gemeenten die behoren tot een regio als bedoeld in de Wet veiligheidsregio’s, via het treffen van een gemeenschappelijke regeling zorg voor de instelling en instandhouding van een regionale gezondheidsdienst in die regio.   
+1.  Ter uitvoering van bij of krachtens deze wet opgedragen taken dragen de colleges van burgemeester en wethouders van gemeenten die behoren tot een regio als bedoeld in de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), via het treffen van een gemeenschappelijke regeling zorg voor de instelling en instandhouding van een regionale gezondheidsdienst in die regio.   
 2.  Bij de regeling, bedoeld in het eerste lid, wordt een openbaar lichaam ingesteld met de aanduiding: gemeentelijke gezondheidsdienst.   
 3.  De gemeentelijke gezondheidsdienst staat onder leiding van een directeur publieke gezondheid, die wordt benoemd door het algemeen bestuur van de gemeentelijke gezondheidsdienst in overeenstemming met het bestuur van de veiligheidsregio.   
 4.  Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in de artikelen 2, tweede lid, onder h, en 5, tweede lid, onder a tot en met d, over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.   
-5.  In afwijking van het eerste lid kan een regionale gezondheidsdienst worden ingesteld en in stand gehouden door de colleges van burgemeester en wethouders van de gemeenten in twee of meer regio’s als bedoeld in de Wet veiligheidsregio’s. In dat geval geschiedt de benoeming, bedoeld in het derde lid, in overeenstemming met de besturen van de betrokken veiligheidsregio’s, en draagt het algemeen bestuur van de gemeentelijke gezondheidsdienst ervoor zorg dat in elk der regio’s adequaat wordt voorzien in de operationele leiding van de geneeskundige hulpverlening, bedoeld in artikel 32, tweede lid, van de Wet veiligheidsregio’s.   
+5.  In afwijking van het eerste lid kan een regionale gezondheidsdienst worden ingesteld en in stand gehouden door de colleges van burgemeester en wethouders van de gemeenten in twee of meer regio’s als bedoeld in de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md). In dat geval geschiedt de benoeming, bedoeld in het derde lid, in overeenstemming met de besturen van de betrokken veiligheidsregio’s, en draagt het algemeen bestuur van de gemeentelijke gezondheidsdienst ervoor zorg dat in elk der regio’s adequaat wordt voorzien in de operationele leiding van de geneeskundige hulpverlening, bedoeld in [artikel 32, tweede lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
 
 ### Artikel  15  
 
@@ -262,8 +262,8 @@ e. gedragswetenschappen.
 ### Artikel  15a  
 
 1.  Het college van burgemeester en wethouders draagt er zorg voor dat de gemeentelijke gezondheidsdienst voor zijn medewerkers een meldcode vaststelt waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 4.  Het college van burgemeester en wethouders draagt er zorg voor dat de gemeentelijke gezondheidsdienst de kennis en het gebruik van de meldcode bevordert.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -297,7 +297,7 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 2.  Indien het belang van de volksgezondheid dat vordert, kan, in overeenstemming met het gevoelen van de ministerraad, bij regeling van Onze Minister een infectieziekte behorend tot groep B1 worden aangemerkt als behorend tot groep A, een infectieziekte behorend tot groep B2 worden aangemerkt als behorend tot groep A of B1, of een infectieziekte behorend tot groep C worden aangemerkt als behorend tot groep A, B1 of B2.   
 3.  In de regeling, bedoeld in het eerste of tweede lid, wordt bepaald welke bepalingen van deze wet, die gelden voor de infectieziekten behorende tot de desbetreffende groep, in dat geval van toepassing zijn.   
 4.  Na het tot stand komen van een krachtens het eerste of tweede lid vastgestelde regeling wordt binnen acht weken een voorstel van wet tot incorporatie van die regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel van wet wordt ingetrokken of door een der Kamers der Staten-Generaal wordt verworpen, wordt de regeling onverwijld ingetrokken.   
-5.  Indien naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat een op grond van het eerste of tweede lid vastgestelde regeling onmiddellijk na bekendmaking in werking treedt. In dat geval kan Onze Minister deze regeling, in afwijking van artikel 4, eerste lid, onder a, van de Bekendmakingswet, op andere dan de daar genoemde wijze bekend maken.   
+5.  Indien naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat een op grond van het eerste of tweede lid vastgestelde regeling onmiddellijk na bekendmaking in werking treedt. In dat geval kan Onze Minister deze regeling, in afwijking van [artikel 4, eerste lid, onder a, van de Bekendmakingswet](../../../../../wet/bekendmakingswet/BWBR0004287/README.md), op andere dan de daar genoemde wijze bekend maken.   
 
 ### §  2  
 
@@ -513,18 +513,18 @@ De burgemeester dan wel de voorzitter van de veiligheidsregio draagt de tenuitvo
 
 ### Artikel  43  
 
-1.  Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in artikel 31, eerste of tweede lid tot onderzoek als bedoeld in artikel 31, derde of vierde lid, of tot onderwerping aan een maatregel van quarantaine als bedoeld in artikel 35 is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering, of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in artikel 40, eerste lid, doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester dan wel de voorzitter van de veiligheidsregio onrechtmatig was.   
-2.  Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
+1.  Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in artikel 31, eerste of tweede lid tot onderzoek als bedoeld in artikel 31, derde of vierde lid, of tot onderwerping aan een maatregel van quarantaine als bedoeld in artikel 35 is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in artikel 40, eerste lid, doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester dan wel de voorzitter van de veiligheidsregio onrechtmatig was.   
+2.  Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  44  
 
 1.  Indien degene ten aanzien van wie een beschikking is genomen tot opneming ter isolatie als bedoeld in artikel 31, eerste of tweede lid tot onderzoek als bedoeld in artikel 31, derde of vierde lid, of tot onderwerping aan een maatregel van quarantaine als bedoeld in artikel 35, nadeel heeft geleden doordat de rechter of de officier van justitie een van de bepalingen uit deze paragraaf niet in acht heeft genomen, kent de rechter deze op diens verzoek een naar billijkheid vast te stellen schadevergoeding toe ten laste van de Staat.   
-2.  Het verzoek kan worden ingediend als een zelfstandig verzoek bij het verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering, of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van betrokkene, dan wel bij een afzonderlijk verzoekschrift, binnen drie maanden te rekenen vanaf de dag waarop betrokkene redelijkerwijs bekend kon zijn met de schending van het voorschrift waarop zijn verzoek betrekking heeft.   
-3.  Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
+2.  Het verzoek kan worden ingediend als een zelfstandig verzoek bij het verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van betrokkene, dan wel bij een afzonderlijk verzoekschrift, binnen drie maanden te rekenen vanaf de dag waarop betrokkene redelijkerwijs bekend kon zijn met de schending van het voorschrift waarop zijn verzoek betrekking heeft.   
+3.  Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  45  
 
-De Algemene termijnenwet is van toepassing op de termijnen gesteld in de artikelen 39, tweede lid, 40, eerste lid, en 41, vijfde lid.  
+De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is van toepassing op de termijnen gesteld in de artikelen 39, tweede lid, 40, eerste lid, en 41, vijfde lid.  
 
 ### Artikel  46  
 
@@ -660,7 +660,7 @@ a. de exploitant van een burgerhaven of burgerluchthaven en de burgerexploitant 
 
 b. de vervoersexploitant de kosten van de maatregelen die door de burgemeester krachtens artikel 55 zijn opgedragen.     
 4.  De in artikel 47, derde lid, onder c, bedoelde waren worden voor vernietiging door de burgemeester gewaardeerd. Het college van burgemeester en wethouders keert aan de eigenaar als schadeloosstelling het bedrag uit waarop de goederen zijn gewaardeerd.   
-5.  Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de artikelen 31, 35, 38 en 47, te verhalen op de persoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De artikelen 5.25 en 5.26 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
+5.  Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de artikelen 31, 35, 38 en 47, te verhalen op de persoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De [artikelen 5.25](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.26 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
 6.  Onze Minister kan aan de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant een naar billijkheid te bepalen vergoeding toekennen terzake van buitengewone kosten die door de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant worden gemaakt vanwege de naleving van de maatregelen die krachtens de artikelen 54 of  55 in samenhang met artikel 7, derde lid, zijn opgedragen.   
 
 ### Artikel  61  
@@ -744,27 +744,27 @@ e. *«gemeentelijke gezondheidsdienst»:* de in artikel 68c, eerste lid, bedoeld
 
 f. *«nota gemeentelijk gezondheidsbeleid»:* nota gezondheidsbeleid;  
 
-g. *«samenwerkingsverband van registerloodsen»:* een loods als bedoeld in artikel 1, eerste lid, onder a, van de Loodsenwet 2001 BES;  
+g. *«samenwerkingsverband van registerloodsen»:* een loods als bedoeld in [artikel 1, eerste lid, onder a, van de Loodsenwet 2001 BES](../../../../../wet-BES/loodsenwet/2001/bes/BWBR0028220/README.md);  
 
-h. *«lijk»:* een lijk als bedoeld in de Begrafeniswet BES;  
+h. *«lijk»:* een lijk als bedoeld in de [Begrafeniswet BES](../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md);  
 
-i. *«goed»:* tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken als bedoeld in de Begrafeniswet BES;  
+i. *«goed»:* tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken als bedoeld in de [Begrafeniswet BES](../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md);  
 
-j. *«waar»:* waar alsmede eet- en drinkwaar als bedoeld in artikel 1, onderdelen b en c, van de Warenwet BES;  
+j. *«waar»:* waar alsmede eet- en drinkwaar als bedoeld in [artikel 1, onderdelen b en c, van de Warenwet BES](../../../../../wet-BES/warenwet/bes/BWBR0028619/README.md);  
 
 k. *«last onder bestuursdwang»:* bestuursdwang als bedoeld in artikel 58j, eerste lid;  
 
-l. *«burgerservicenummer»:* het nummer van een geldig identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES;  
+l. *«burgerservicenummer»:* het nummer van een geldig identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md);  
 
-m. *«ziekenhuis»:* zorginstelling als bedoeld in artikel 1, onder k, van de Wet zorginstellingen BES;  
+m. *«ziekenhuis»:* zorginstelling als bedoeld in [artikel 1, onder k, van de Wet zorginstellingen BES](../../../../../wet-BES/wet/zorginstellingen/bes/BWBR0028734/README.md);  
 
-n. *«verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering»:* een verweerschrift als bedoeld in artikel 429h, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES;  
+n. *«verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering»:* een verweerschrift als bedoeld in [artikel 429h, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md);  
 
-o. *«crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s»:* rampen- en crisisplan, bedoeld in artikel 44 van de Veiligheidswet BES.    
+o. *«crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s»:* rampen- en crisisplan, bedoeld in [artikel 44 van de Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md).    
 
 ### Artikel  68b  
 
-De artikelen 8, derde lid, 14 tot en met 17, 64 en 65 zijn niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+De artikelen 8, derde lid, 14 tot en met 17, alsmede 64 zijn niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. Artikel 65 is wat betreft de ambtenaren van het Staatstoezicht op de volksgezondheid niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  68c  
 
@@ -800,8 +800,8 @@ c. de betaling en de terugvordering van de uitkering.
 
 ### Artikel  68h  
 
-1.  Wat betreft het bij of krachtens deze wet voor de openbare lichamen Bonaire, Sint Eustatius en Saba bepaalde zijn de ambtenaren van het Staatstoezicht op de Volksgezondheid belast met het uitoefenen van de in artikel 36, eerste en tweede lid, van de Gezondheidswet genoemde taken. Artikel 36, derde lid, van de Gezondheidswet is niet van toepassing.   
-2.  Met de opsporing van de bij of krachtens deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba strafbare gestelde feiten zijn, onverminderd artikel 184 van het Wetboek van Strafvordering BES, belast de ambtenaren van het Staatstoezicht op de Volksgezondheid.   
+1.  Wat betreft het bij of krachtens deze wet voor de openbare lichamen Bonaire, Sint Eustatius en Saba bepaalde zijn de ambtenaren van het Staatstoezicht op de Volksgezondheid belast met het uitoefenen van de in [artikel 36, eerste en tweede lid, van de Gezondheidswet](../../../../../wet/gezondheidswet/BWBR0002202/README.md) genoemde taken. Artikel 36, derde lid, van de Gezondheidswet is niet van toepassing.   
+2.  Met de opsporing van de bij of krachtens deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba strafbare gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de ambtenaren van het Staatstoezicht op de Volksgezondheid.   
 
 ### Artikel  68i  
 
@@ -809,7 +809,7 @@ Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eusta
 
 ### Artikel  68j  
 
-1.  Bestuursdwang omvat het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of verrichten van hetgeen in strijd met de desbetreffende bepalingen van deze landsverordening is of wordt gedaan, gehouden of nagelaten.   
+1.  Bestuursdwang omvat het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of verrichten van hetgeen in strijd met de desbetreffende bepalingen van deze wet is of wordt gedaan, gehouden of nagelaten.   
 2.  Een beslissing tot het toepassen van bestuursdwang wordt op schrift gesteld en geldt als een beschikking. De beschikking vermeldt welk voorschrift is overtreden.   
 3.  De beschikking wordt bekendgemaakt aan de overtreder en andere belanghebbenden.   
 4.  In de beschikking wordt een termijn gesteld waarbinnen de overtreder en eventuele andere rechthebbenden de tenuitvoerlegging van bestuursdwang kunnen voorkomen door zelf de in de beschikking vermelde maatregelen te treffen. Geen termijn behoeft te worden gegund indien de vereiste spoed zich daartegen verzet.   
@@ -823,10 +823,10 @@ Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eusta
 4.  Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in artikel 68j, vierde lid, is verstreken.   
 5.  De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.   
 6.  Bij dwangbevel kan van de overtreder de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, worden ingevorderd.   
-7.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Wetboek van Burgerlijke Rechtsvordering BES.   
+7.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
 8.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van het openbaar lichaam.   
 9.  Het verzet schorst de tenuitvoerlegging. Op verzoek van het openbaar lichaam kan het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba de schorsing van de tenuitvoerlegging opheffen.   
-10.  De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in artikel 284 van het Burgerlijk Wetboek BES, uit de opbrengst van de zaak betaald.   
+10.  De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [artikel 284 van het Burgerlijk Wetboek BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), uit de opbrengst van de zaak betaald.   
 
 ### Artikel  68l  
 
@@ -862,7 +862,7 @@ Wijzigt de Wet op de lijkbezorging.
 
 ### Artikel  74  
 
-De Wet collectieve preventie volksgezondheid, de Infectieziektenwet en de Quarantainewet worden ingetrokken.  
+De [Wet collectieve preventie volksgezondheid](../../../../../wet/wet/collectieve/preventie/volksgezondheid/BWBR0004760/README.md), de [Infectieziektenwet](../../../../../wet/infectieziektenwet/BWBR0009684/README.md) en de [Quarantainewet](../../../../../wet/quarantainewet/BWBR0002343/README.md) worden ingetrokken.  
 
 ### Artikel  75  
 

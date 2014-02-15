@@ -42,7 +42,9 @@ l. [Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md):
 
 m. Algemene Kas: de Algemene Kas, bedoeld in [artikel 1q van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md);  
 
-n. ziekenfonds: de rechtspersoon die onmiddellijk voor de inwerkingtreding van deze wet krachtens [artikel 34 van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) was toegelaten om als ziekenfonds werkzaam te zijn.    
+n. ziekenfonds: de rechtspersoon die onmiddellijk voor de inwerkingtreding van deze wet krachtens [artikel 34 van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) was toegelaten om als ziekenfonds werkzaam te zijn;  
+
+o. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -91,6 +93,17 @@ b. een financieel verslag over de afwikkeling van de uitvoering van de [Ziekenfo
 2.  Voor 1 juli 2009 verricht het College zorgverzekeringen de nadere vaststelling, bedoeld in [artikel 19, vijfde lid, van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) met betrekking tot de jaren voor de intrekking van de [Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) waarvoor zulks nog niet is geschied.   
 3.  Voor zover na het tijdstip, bedoeld in het eerste lid, onherroepelijk wordt vastgesteld dat een ziekenfonds als uitvoerder van de [Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) gehouden is tot betaling van een voor 1 januari 2008 tegen het ziekenfonds ingestelde vordering, dan wel na het tijdstip, bedoeld in het eerste lid, betaling ontvangt terzake van een door het ziekenfonds ingestelde vordering, komt het betaalde, onderscheidenlijk ontvangen, bedrag ten laste, onderscheidenlijk ten gunste, van het ziekenfonds of zijn rechtsopvolger onder algemene titel.   
 
+### Artikel  2.1.7a  
+
+1.  In afwijking van artikel 2.1.7, tweede lid, verricht het College zorgverzekeringen binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 een nieuwe nadere vaststelling als bedoeld in [artikel 19, vijfde lid, van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md).   
+2.  De gegevens die gebruikt worden voor de nieuwe nadere vaststelling, bedoeld in het eerste lid, zijn gelijk aan de gegevens die zijn gebruikt voor de nadere vaststelling, bedoeld in artikel 2.1.7, tweede lid, met dien verstande dat voor de nieuwe nadere vaststelling rekening wordt gehouden met na 1 juli 2009 over de jaren 2002 tot en met 2005 door de zorgautoriteit per ziekenfonds berekende verschillen tussen opbrengsten en budgetten van ziekenhuizen.   
+3.  De nieuwe nadere vaststelling, bedoeld in het eerste lid, geschiedt op basis van de regelgeving zoals deze met betrekking tot het jaar 2005 gold, met dien verstande dat uit de nieuwe nadere vaststelling voortvloeiende financiële verplichtingen direct met 's Rijks schatkist worden verrekend.   
+
+### Artikel  2.1.7b  
+
+1.  Het College zorgverzekeringen merkt na 1 juli 2009 bekend geworden, over de jaren 2002 tot en met 2005 door zorgautoriteit berekende verschillen tussen opbrengsten en budgetten van dialysecentra, van radiotherapeutische centra, van centra voor erfelijkheidsonderzoek en van epilepsiecentra aan als kosten van het macro-deelbedrag vaste kosten van ziekenhuisverpleging, waarna het college deze bedragen uiterlijk 1 januari 2013 verrekent.   
+2.  Indien de in artikel 2.1.9, derde lid, bedoelde situatie optreedt, ziet de in dat lid geregelde, onmiddellijk opeisbare vordering jegens het ziekenfonds of zijn rechtsopvolger onder algemene titel, mede op de op grond van het eerste lid verrekende bedragen.   
+
 ### Artikel  2.1.8  
 
 Onverminderd [artikel 1x1 van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) rapporteert de zorgautoriteit voor 1 januari 2010 aan Onze Minister en aan het College zorgverzekeringen per ziekenfonds over de rechtmatigheid van de uitvoering van de afwikkeling van de [Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md). Daarbij wordt per ziekenfonds een verklaring gegeven over de rechtmatigheid van de in de financiële verantwoording over de afwikkeling door het ziekenfonds opgenomen posten. Indien de zorgautoriteit uitgaven of besparingen op beheerskosten van een ziekenfonds als niet verantwoord heeft aangemerkt, vermeldt het dat in zijn verklaring.  
@@ -135,6 +148,17 @@ De [Wet op de toegang tot ziektekostenverzekeringen 1998](../../../../../../wet/
 5.  Indien op enig tijdstip niet langer uitkeringen worden en zullen worden gedaan ten laste van de in het tweede lid bedoelde voorziening die is opgebouwd ten behoeve van de wachtgeldregeling van het personeel, geeft de met de uitvoering van de wachtgeldregeling belaste rechtspersoon Onze Minister daarvan kennis. Die rechtspersoon verstrekt, ook zonder dat de in de vorige zin bedoelde kennisgeving is gedaan, Onze Minister op een daartoe strekkend verzoek de gegevens met betrekking tot de voorziening, die in verband met het bepaalde in het zesde lid van belang zijn.   
 6.  Op vordering van Onze Minister stort de in het vijfde lid bedoelde rechtspersoon het resterende deel van de in het tweede en vijfde lid bedoelde voorziening in ’s Rijks schatkist.   
 7.  Bij ministeriële regeling van Onze Minister kunnen zonodig regels worden gesteld die voor een goede afwikkeling van de [Wet op de toegang tot ziektekostenverzekeringen 1998](../../../../../../wet/wet/op/de/toegang/tot/ziektekostenverzekeringen/1998/BWBR0009750/README.md) noodzakelijk zijn.   
+
+### Artikel  2.2.2a  
+
+1.  In dit artikel wordt onder «de [Wet op de toegang tot ziektekostenverzekeringen 1998](../../../../../../wet/wet/op/de/toegang/tot/ziektekostenverzekeringen/1998/BWBR0009750/README.md) » verstaan: de Wet op de toegang tot ziektekostenverzekeringen 1998 zoals deze op 31 december 2005 luidde.   
+2.  In aanvulling op en zonodig in afwijking van eerdere beschikkingen dienaangaande, stelt het College zorgverzekeringen binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 nieuwe verrekeningsbeschikkingen als bedoeld in [artikel 8 van de Wet op de toegang tot ziektekostenverzekeringen 1998](../../../../../../wet/wet/op/de/toegang/tot/ziektekostenverzekeringen/1998/BWBR0009750/README.md) vast.   
+3.  De gegevens die gebruikt worden voor de nieuwe beschikkingen, bedoeld in het tweede lid, zijn gelijk aan de gegevens die zijn gebruikt voor de eerdere verrekeningsbeschikkingen met betrekking tot het jaar 2005, met dien verstande dat voor de nieuwe verrekeningsbeschikkingen rekening wordt gehouden met na 1 juli 2009 over de jaren 2002 tot en met 2005 door de zorgautoriteit berekende verschillen tussen opbrengsten en budgetten van ziekenhuizen.   
+4.  De nieuwe verrekeningsbeschikkingen, bedoeld in het tweede lid, worden opgesteld op basis van de regelgeving zoals deze met betrekking tot het jaar 2005 gold, met dien verstande dat uit de nieuwe nadere vaststelling voortvloeiende financiële verplichtingen direct met 's Rijks schatkist worden verrekend.   
+
+### Artikel  2.2.2b  
+
+Artikel 2.1.7b is van overeenkomstige toepassing.  
 
 ### Artikel  2.2.3  
 

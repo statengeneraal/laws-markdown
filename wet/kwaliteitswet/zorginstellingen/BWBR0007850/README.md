@@ -18,9 +18,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. zorg: 
 
-1°. zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten;  
+1°. zorg als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-2°. hulp waarbij handelingen worden verricht als bedoeld in artikel 36 van de Wet op de beroepen in de individuele gezondheidszorg, die niet vallen onder zorg als bedoeld onder 1°;   een en ander met uitzondering van bij algemene maatregel van bestuur aangewezen zorg;  
+2°. hulp waarbij handelingen worden verricht als bedoeld in [artikel 36 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), die niet vallen onder zorg als bedoeld onder 1°;   een en ander met uitzondering van bij algemene maatregel van bestuur aangewezen zorg;  
 
 b. instelling: het organisatorisch verband dat strekt tot de verlening van zorg;  
 
@@ -50,8 +50,8 @@ De zorgaanbieder organiseert de zorgverlening op zodanige wijze, voorziet de ins
 ### Artikel  3a  
 
 1.  De zorgaanbieder stelt voor zijn medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 4.  De zorgaanbieder bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
@@ -83,7 +83,7 @@ b. seksueel misbruik waarbij een patiënt of cliënt dan wel hulpverlener van de
 
 a. instellingen waarin zorg wordt verleend als bedoeld in artikel 1, eerste lid, onder a, 2°, en  
 
-b. verpleeghuizen en verzorgingshuizen,   een en ander voor zover zij niet zijn toegelaten ingevolge de Wet toelating zorginstellingen.   
+b. verpleeghuizen en verzorgingshuizen,   een en ander voor zover zij niet zijn toegelaten ingevolge de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).   
 2.  Een zorgaanbieder die een instelling exploiteert als bedoeld in het eerste lid, dient zich als zodanig te hebben gemeld bij Onze Minister voor inschrijving in het register. Onze Minister stelt regels over de wijze van melding.   
 
 ### Artikel  5  
@@ -112,7 +112,7 @@ c. welk gevolg hij heeft gegeven aan klachten en meldingen over de kwaliteit van
 
 1.  Met het toezicht op de naleving van de bij of krachtens de artikelen 2, 3, 3a, 4, 4a, 4b, tweede lid, en 5 gestelde eisen en een krachtens artikel 8 gegeven aanwijzing of bevel zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.   
 2.  De met het toezicht belaste ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover de woning deel uitmaakt van een instelling.   
-3.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.   
+3.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.   
 
 ### Hoofdstuk  IV  
 
@@ -125,14 +125,14 @@ c. welk gevolg hij heeft gegeven aan klachten en meldingen over de kwaliteit van
 3.  De aanwijzing bevat de termijn waarbinnen de zorgaanbieder eraan moet voldoen.   
 4.  Indien het nemen van maatregelen in verband met gevaar voor de veiligheid of de gezondheid redelijkerwijs geen uitstel kan lijden, kan de ingevolge artikel 7 met het toezicht belaste ambtenaar een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door Onze Minister kan worden verlengd.   
 5.  De zorgaanbieder is verplicht binnen de daarbij gestelde termijn aan de aanwijzing onderscheidenlijk onmiddellijk aan het bevel te voldoen.   
-6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend.   
+6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een ambtenaar van het Staatstoezicht op de volksgezondheid.   
 
 ### Artikel  8a  
 
 1.  Indien Onze Minister van oordeel is dat de organisatiestructuur van de zorgaanbieder in ernstige mate afbreuk doet aan het verlenen van verantwoorde zorg als bedoeld in artikel 2, kan hij de aanwijzing, bedoeld in artikel 8, eerste lid, in de vorm van een structurele maatregel aan de zorgaanbieder opleggen ten einde voortgaande inbreuk op de kwaliteit van de zorgverlening te voorkomen.   
 2.  Onze Minister geeft een aanwijzing als bedoeld in het eerste lid, niet: 
 
-a. dan nadat op diens verzoek over de bedrijfskundige gevolgen van de voorgenomen aanwijzing voor de desbetreffende zorgaanbieder een rapport als bedoeld in artikel 21, eerste lid, van de Wet marktordening gezondheidszorg is uitgebracht door de in dat artikel bedoelde zorgautoriteit, en  
+a. dan nadat op diens verzoek over de bedrijfskundige gevolgen van de voorgenomen aanwijzing voor de desbetreffende zorgaanbieder een rapport als bedoeld in [artikel 21, eerste lid, van de Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) is uitgebracht door de in dat artikel bedoelde zorgautoriteit, en  
 
 b. indien het doel om voortgaande inbreuk op de kwaliteit van zorgverlening te voorkomen middels een even effectieve, voor de desbetreffende zorgaanbieder minder belastende maatregel kan worden bereikt.     
 

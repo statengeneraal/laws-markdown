@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 september 2007, nr: PO/B&B/2007 29983, houdende regels omtrent structurele gegevenslevering in het primair onderwijs (Regeling structurele gegevenslevering WPO/WEC)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op artikel 178a, derde lid, van de Wet op het primair onderwijs, artikel 164a, derde lid, van de Wet op de expertisecentra, artikel 11a, tweede lid, van het Besluit bekostiging WPO, artikel 10b, tweede lid, van het Besluit bekostiging WEC en artikel 4 van het Besluit informatievoorziening WPO/WEC;
+Gelet op [artikel 178a, derde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 164a, derde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 11a, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [artikel 10b, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [artikel 4 van het Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -14,19 +14,19 @@ In deze regeling wordt verstaan onder:
 
 a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *WEC:*Wet op de expertisecentra;  
+b. *WEC:*[Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-c. *WPO:*Wet op het primair onderwijs;  
+c. *WPO:*[Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-d. *bevoegd gezag:* het bevoegd gezag bedoeld in artikel 1 van de WPO dan wel artikel 1 van de WEC.    
+d. *bevoegd gezag:* het bevoegd gezag bedoeld in [artikel 1 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 1 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md).    
 
 ### Artikel  2  
 
 ####Verstrekking
 
-1.  Het bevoegd gezag verstrekt de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in artikel 178a, tweede lid, van de WPO en in artikel 164a, tweede lid, van de WEC, overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 1 bij deze regeling aan de minister.   
+1.  Het bevoegd gezag verstrekt de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in [artikel 178a, tweede lid, van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) en in [artikel 164a, tweede lid, van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 1 bij deze regeling aan de minister.   
 2.  Het bevoegd gezag verstrekt de organisatiegegevens, genoemd in bijlage 2 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 2 bij deze regeling, aan de minister.   
-3.  Het bevoegd gezag, het bestuur van een regionaal expertisecentrum als bedoeld in artikel 28b van de WEC en het bestuur van een centrale dienst als bedoeld in artikel 68 van de WPO, voor zover deze dienst personeelsbekostiging voor zorgvoorzieningen ontvangt als bedoeld in artikel 132 van genoemde wet verstrekt de financiële gegevens, genoemd in bijlage 3 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 3 bij deze regeling, aan de minister.   
+3.  Het bevoegd gezag, het bestuur van een regionaal expertisecentrum als bedoeld in [artikel 28b van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) en het bestuur van een centrale dienst als bedoeld in [artikel 68 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md), voor zover deze dienst personeelsbekostiging voor zorgvoorzieningen ontvangt als bedoeld in [artikel 132 van genoemde wet](../../../../../../wet/wbo/BWBR0003420/README.md) verstrekt de financiële gegevens, genoemd in bijlage 3 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 3 bij deze regeling, aan de minister.   
 4.  Het bevoegd gezag verstrekt de personele gegevens, genoemd in bijlage 4 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 4 bij deze regeling, aan de minister.   
 
 ### Artikel  3  
@@ -40,14 +40,14 @@ d. *bevoegd gezag:* het bevoegd gezag bedoeld in artikel 1 van de WPO dan wel ar
 
 ####Data en termijnen voor verstrekking
 
-1.  Het bevoegd gezag verstrekt de leerlinggegevens betreffende een inschrijving evenals de eventuele wijziging en toevoeging van leerlinggegevens met het persoonsgebonden nummer van de desbetreffende leerling binnen 14 dagen nadat deze in de administratie van de school zijn verwerkt, als bedoeld in artikel 40b, vijfde lid van de WPO of artikel 42a, vijfde lid, van de WEC. In afwijking van de eerste volzin verstrekt het bevoegd gezag de datum van in- of uitschrijving, bedoeld in artikel 178a, tweede lid, onderdeel b, van de WPO of artikel 164a, tweede lid, onderdeel b, van de WEC, met het persoonsgebonden nummer van de desbetreffende leerling binnen 7 dagen nadat deze in de administratie van de school is verwerkt als bedoeld in artikel 40b, vijfde lid, van de WPO of artikel 42a, vijfde lid, van de WEC.   
+1.  Het bevoegd gezag verstrekt de leerlinggegevens betreffende een inschrijving evenals de eventuele wijziging en toevoeging van leerlinggegevens met het persoonsgebonden nummer van de desbetreffende leerling binnen 14 dagen nadat deze in de administratie van de school zijn verwerkt, als bedoeld in [artikel 40b, vijfde lid van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 42a, vijfde lid, van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md). In afwijking van de eerste volzin verstrekt het bevoegd gezag de datum van in- of uitschrijving, bedoeld in [artikel 178a, tweede lid, onderdeel b, van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 164a, tweede lid, onderdeel b, van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md), met het persoonsgebonden nummer van de desbetreffende leerling binnen 7 dagen nadat deze in de administratie van de school is verwerkt als bedoeld in artikel 40b, vijfde lid, van de WPO of artikel 42a, vijfde lid, van de WEC.   
 2.  Het bevoegd gezag verstrekt jaarlijks voor genoemde datum de volgende gegevens: 
 
 a. 16 maart; de personele gegevens, genoemd in bijlage 4 bij deze regeling, over het voorafgaande kalenderjaar;  
 
 b. 1 juli; de financiële gegevens, genoemd in bijlage 3 bij deze regeling, over het voorafgaande kalenderjaar;  
 
-c. 1 december; de personele gegevens genoemd in artikel 11a van het Besluit bekostiging WPO of artikel 10b van het Besluit bekostiging WEC.     
+c. 1 december; de personele gegevens genoemd in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) of [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md).     
 3.  Het bevoegd gezag verstrekt maandelijks de volgende gegevens: 
 
 a. de personele gegevens over de verslagmaand bedoeld in onderdeel 3 van bijlage 4 bij deze regeling;  
@@ -65,7 +65,7 @@ In geval van een steekproefsgewijze controle door of namens de minister geeft he
 
 ####Terugkoppeling inschrijvingsgegevens
 
-Binnen 7 dagen na de verstrekking, bedoeld in artikel 4, eerste lid, meldt de minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de gemeentelijke basisadministratie persoonsgegevens, bedoeld in artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht, aan het bevoegd gezag.  
+Binnen 7 dagen na de verstrekking, bedoeld in artikel 4, eerste lid, meldt de minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), aan het bevoegd gezag.  
 
 ### Artikel  6  
 
@@ -96,13 +96,13 @@ S.A.M.Dijksma
 
 ####Algemeen
 
-Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een Programma van Eisen (PvE). Dit PvE gaat over de aanlevering van de organisatiegegevens.  
+Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van de organisatiegegevens.  
 
 ### 1.2  
 
 ####Wettelijke basis voor de levering
 
-Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het Besluit informatievoorziening WPO/WEC zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
+Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
 
 ### 1.3  
 
@@ -139,7 +139,7 @@ BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegeven
 Onderscheiden worden de volgende gegevens:  Bevoegd gezag: Vestigingsadres 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 1.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 2  | Adres  | Adres  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
 | 3  | Postcode  | Postcode  | De postcode behorende bij het adres  |
@@ -149,7 +149,7 @@ Onderscheiden worden de volgende gegevens:  Bevoegd gezag: Vestigingsadres
 Bevoegd gezag: Correspondentieadres 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 6  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 7  | Adres  | Adres  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
 | 8  | Postcode  | Postcode  | De postcode behorende bij het adres  |
@@ -159,7 +159,7 @@ Bevoegd gezag: Correspondentieadres
 Bevoegd gezag: Overige communicatiegegevens (niet verplicht) 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 11  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 12  | Telefoonnummer  | Telefoon-nummer  | Het telefoonnummer waaronder het bevoegd gezag bereikbaar is  |
 | 13  | Fax  | Faxnummer  | Het faxnummer waaronder het bevoegd gezag bereikbaar is  |
@@ -170,7 +170,7 @@ Bevoegd gezag: Overige communicatiegegevens (niet verplicht)
 School: Correspondentieadres 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 17  | Organisatienummer school  | BRINnummer  | Het door de minister toegekende nummer van de school  |
 | 18  | Adres  | Adres  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
 | 19  | Postcode  | Postcode  | De postcode behorende bij het adres  |
@@ -180,7 +180,7 @@ School: Correspondentieadres
 School: Overige communicatiegegevens (niet verplicht) 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 22  | Organisatienummer school  | BRINnummer  | Het door de minister toegekende nummer van de school  |
 | 23  | Telefoonnummer  | Telefoon-nummer  | Het telefoonnummer waaronder de school bereikbaar is  |
 | 24  | Fax  | Faxnummer  | Het faxnummer waaronder de school bereikbaar is  |
@@ -191,7 +191,7 @@ School: Overige communicatiegegevens (niet verplicht)
 Vestiging: Correspondentieadres 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 28  | Organisatienummer vestiging  | BRINvestiging  | Het door de minister toegekende nummer van de vestiging  |
 | 29  | Adres  | Adres  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
 | 30  | Postcode  | Postcode  | De postcode behorende bij het adres  |
@@ -201,7 +201,7 @@ Vestiging: Correspondentieadres
 Vestiging: Overige communicatiegegevens (niet verplicht) 
 
 | Nr  | Omschrijving  | Domein  | Definitie/Toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 33  | Organisatienummer vestiging  | BRINvestiging  | Het door de minister toegekende nummer van de vestiging  |
 | 34  | Telefoonnummer  | Telefoon-nummer  | Het telefoonnummer waaronder de vestiging bereikbaar is  |
 | 35  | Fax  | Faxnummer  | Het faxnummer waaronder de vestiging bereikbaar is  |
@@ -273,7 +273,7 @@ In dit PvE wordt beschreven welke financiële gegevens een bevoegd gezag één m
 
 ####Elektronische aanlevering van gegevens
 
-Het bevoegd gezag moet eenmaal per jaar de jaarrekening aanleveren conform de ‘ Regeling jaarverslaggeving onderwijs ’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’. De jaarrekening wordt op papier (voorzien van accountantsverklaring) én elektronisch ingestuurd. Dit kan door gebruik te maken van het Elektronisch Financieel Jaarverslag (EFJ) voor de jaarrekening en voor het jaarverslag in PDF (zie de toelichting bij de regeling). Indien een bevoegd gezag geen gebruik maakt van EFJ, moet het bevoegd gezag behalve een papieren én een elektronische versie van de jaarrekening, een extra (elektronische) levering doen met betrekking tot de in dit PvE genoemde financiële gegevens. De naam van het op te leveren bestand met de financiële gegevens van het bevoegd gezag op bestuursniveau is: fgXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein). Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.1 is vermeld. De naam van het op te leveren bestand met de financiële gegevens op schoolniveau is: fkXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein) Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.2 is vermeld. De bestanden bevatten de waarden conform de onderstaande definities, gescheiden door puntkomma’s waarbij de regels gescheiden zijn door het nieuwe regelteken). Deze indeling komt overeen met de indeling van bijvoorbeeld MS-Excel. Kies in Excel in het menu ‘Bestand’ de optie ‘opslaan als’ en dan voor ‘opslaan als:’ ‘CSV (MS-DOS) (*.csv)’. CSV staat voor Comma Separated Values.  
+Het bevoegd gezag moet eenmaal per jaar de jaarrekening aanleveren conform de ‘ [Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md) ’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’. De jaarrekening wordt op papier (voorzien van accountantsverklaring) én elektronisch ingestuurd. Dit kan door gebruik te maken van het Elektronisch Financieel Jaarverslag (EFJ) voor de jaarrekening en voor het jaarverslag in PDF (zie de toelichting bij de regeling). Indien een bevoegd gezag geen gebruik maakt van EFJ, moet het bevoegd gezag behalve een papieren én een elektronische versie van de jaarrekening, een extra (elektronische) levering doen met betrekking tot de in dit PvE genoemde financiële gegevens. De naam van het op te leveren bestand met de financiële gegevens van het bevoegd gezag op bestuursniveau is: fgXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein). Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.1 is vermeld. De naam van het op te leveren bestand met de financiële gegevens op schoolniveau is: fkXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein) Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.2 is vermeld. De bestanden bevatten de waarden conform de onderstaande definities, gescheiden door puntkomma’s waarbij de regels gescheiden zijn door het nieuwe regelteken). Deze indeling komt overeen met de indeling van bijvoorbeeld MS-Excel. Kies in Excel in het menu ‘Bestand’ de optie ‘opslaan als’ en dan voor ‘opslaan als:’ ‘CSV (MS-DOS) (*.csv)’. CSV staat voor Comma Separated Values.  
 
 ### 2.3  
 
@@ -288,7 +288,7 @@ Onderscheid wordt gemaakt naar gegevens per bevoegd gezag (paragraaf 2.3.1) en g
 Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden de gegevens uit de onderstaande tabel automatisch via EFJ aangeleverd. Het bevoegd gezag hoeft dan voor deze paragraaf geen aparte actie te ondernemen. Maakt het bevoegd gezag geen gebruik van EFJ dan volgt aanlevering zoals aangegeven in paragraaf 2.2.  
 
 | --- | --- | --- | --- | --- |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Nr  | Naam  | Domein  | Definitie/toelichting  | opgenomen in de jaarrekening in onderstaand onderdeel van de balans of exploitatierekening  |
 | 1  | Organisatienummer bevoegd gezag  | bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  | --- |
 | 2  | Jaar  | jaar  | Het kalenderjaar waar het financiële gegeven betrekking op heeft  | --- |
@@ -530,7 +530,7 @@ Alle posten dienen conform de specificaties zoals aangegeven in de ‘Regeling J
 Indien er sprake is van bovenschoolse baten en lastendienst dient het organisatienummer van de school (het BRINnummer) niet te worden ingevuld. Daar waar bij de gegevenslevering conform het PvE personele gegevens bij de arbeidsrelatie op het kenmerk ‘bovenschoolse functie’ ‘ja’ is ingevuld, moet dit onderdeel toegerekend worden aan ‘bovenschools’ en dus niet meer aan een of meerdere onder het bevoegd gezag vallende scholen c.q. BRINnummers.  
 
 | --- | --- | --- | --- |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Nr  | Naam  | Domein  | Definitie/toelichting  |
 | 1  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag.  |
 | 2  | Jaar  | jaar  | Het kalenderjaar waar het financiële gegeven betrekking op heeft.  |
@@ -587,13 +587,13 @@ De aanlevering geschiedt elektronisch. Maakt u gebruik van EFJ, dan voldoet u aa
 
 ####Algemeen
 
-Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een Programma van Eisen (PvE). Dit PvE gaat over de aanlevering van personele gegevens.  
+Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van personele gegevens.  
 
 ### 1.2  
 
 ####Wettelijke basis voor de levering
 
-Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het Besluit informatievoorziening WPO/WEC zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
+Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
 
 ### 1.3  
 
@@ -641,7 +641,7 @@ De personele gegevens hebben betrekking op:
 
 – de gewogen gemiddelde leeftijd (GGL);  
 
-– de implementatie van de wet Werk en inkomen naar arbeidsvermogen (WIA);  
+– de implementatie van de wet [Werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) (WIA);  
 
 – de verrekening van loonvervangende uitkeringen en toelagen die door of voor het personeel van uitkeringsinstanties worden ontvangen.   Onderscheid wordt gemaakt tussen: 
 
@@ -665,7 +665,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 ####Onderdeel ‘Persoon’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 1  | Personeelsnummer  | P-nummer  | Uniek nummer van een persoon binnen een salarisadministratie. In combinatie met ‘code salarisadministratie’ moet het personeelsnummer een persoon in de basisregistratie uniek registreren  |
 | 2  | Code salarisadministratie  | Code salarisadministratie  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen  |
 | 3  | Peilmaand  | Jaar_mnd  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
@@ -678,7 +678,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 ####Onderdeel ‘Arbeidsrelatie’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 7  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
 | 8  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 9  | Peilmaand  | Jaar_mnd  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
@@ -689,14 +689,14 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 | 14  | Volgnummer  | Getal  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
 | 15  | Begindatum arbeidsrelatie  | Datum  | De begindatum van de arbeidsrelatie  |
 | 16  | Mutatiedatum arbeidsrelatie  | Datum  | Datum waarop een verandering is opgetreden in een bestaande arbeidsrelatie. Moet worden gebruikt in het jaarbestand als de verandering niet leidt tot een beëindiging van deze arbeidsrelatie en het begin van een nieuwe  |
-| 17  | Aard arbeidsrelatie  | Code arbeidsrelatie  | De aanduiding of de aanstelling of benoeming voor bepaalde duur of van onbepaalde duur is, zoals bedoeld in artikel 53 van de WPO en artikel 56 van de WEC  |
+| 17  | Aard arbeidsrelatie  | Code arbeidsrelatie  | De aanduiding of de aanstelling of benoeming voor bepaalde duur of van onbepaalde duur is, zoals bedoeld in [artikel 53 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 56 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md)  |
 | 18  | Einddatum arbeidsrelatie  | Datum  | De einddatum van de arbeidsrelatie  |
 | 19  | Betrekkingsomvang  | Getal met decimalen  | De omvang van de arbeidsrelatie uitgedrukt in voltijds equivalenten (fte), met een nauwkeurigheid van vier decimalen, waarbij één fte gelijk is aan de omvang van een normbetrekking  |
 | 20  | BAPO-omvang  | Getal met decimalen  | Het deel van de betrekkingsomvang van de arbeidsrelatie dat bestemd is voor de Bevordering Arbeidsparticipatie Ouderen, uitgedrukt in voltijdsequivalenten (fte) met een nauwkeurigheid van vier decimalen  |
-| 21  | Functieschaal  | Salarisschaal  | Aanduiding van de schaal genoemd in een van de categorieën vermeld in bijlage 1 bij het Kaderbesluit rechtspositie PO waarvoor de betrokkene feitelijk is benoemd  |
+| 21  | Functieschaal  | Salarisschaal  | Aanduiding van de schaal genoemd in een van de categorieën vermeld in [bijlage 1 bij het Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md) waarvoor de betrokkene feitelijk is benoemd  |
 | 22  | Brutosalaris bij normbetrekking  | Bedrag  | Het salarisbedrag dat geldt bij een betrekkingsomvang van 1 fte (de omvang van een normbetrekking) voor de persoonlijke salarisschaal en salarisnummer, zoals vermeld in bijlage 1 van het Kaderbesluit rechtspositie PO  |
 | 23  | Salarisschaal  | Salarisschaal  | De persoonlijke salarisschaal (functie- of garantieschaal) zoals vermeld in bijlage 1 bij het Kaderbesluit rechtspositie PO. Is in combinatie met het salarisnummer de grondslag voor de vaststelling van het brutosalaris bij normbetrekking  |
-| 24  | Salarisnummer  | Salarisnummer  | Het salarisnummer behorende bij de persoonlijke salarisschaal, zoals vermeld in het kaderbesluit rechtspositie PO. Is in combinatie met de salarisschaal de grondslag voor de berekening van het brutoloon  |
+| 24  | Salarisnummer  | Salarisnummer  | Het salarisnummer behorende bij de persoonlijke salarisschaal, zoals vermeld in het [kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md). Is in combinatie met de salarisschaal de grondslag voor de berekening van het brutoloon  |
 | 25  | Eindenummer  | Salarisnummer  | Het nummer van de salarisschaal dat maximaal bereikt kan worden bij de betrokken instelling  |
 | 26  | Functiecategorie  | Functiecategorie  | De toedeling van de functie in een van de in paragraaf 2.4 onderscheiden categorieën  |
 | 27  | Zijinstroom  | Ja_nee  | De aanduiding of het de arbeidsrelatie is van onderwijsgevend personeel dat een traject volgt tot het behalen van een bevoegdheid en dat voldoet aan de volgende voorwaarden:  a betrokkene heeft een andere HO-opleiding afgerond én  b betrokkene is bezig met een maatwerktraject werken-leren op basis van een met de school en de lerarenopleiding scholings- en begeleidingsovereenkomst én  c betrokkene is niet collegegeldplichtig en staat niet ingeschreven bij een lerarenopleiding én  d betrokkene zal na twee jaar (bij verlenging na maximaal vier jaar) een bekwaamheidsonderzoek afleggen bij een bekostigde lerarenopleiding die bij een positief resultaat een getuigschrift zal afgeven.  |
@@ -707,7 +707,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 ####Onderdeel ‘Loon, toelagen en kortingen’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 29  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
 | 30  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 31  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
@@ -724,7 +724,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 ####Onderdeel ‘Verlofgegevens (waaronder ziekteverlof)’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 39  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
 | 40  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 41  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
@@ -741,13 +741,13 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 ####Onderdeel ‘GGL’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 49  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
 | 50  | Organisatienummer school  | BRINnummer  | Het door de minister toegekende nummer van de school waaraan de functie is verbonden  |
 | 51  | Extractiedatum  | Datum  | Datum waarop de basisgegevens die voor de berekening van de GGL zijn gebruikt, uit de database zijn gehaald  |
 | 52  | Productensom  | Getal met 4 decimalen  | De som van de producten op 1 oktober: leeftijd x betrekkingsomvang van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 54, met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
 | 53  | Som betrekkingsomvangen  | Getal met 4 decimalen  | De som van de betrekkingsomvangen op 1 oktober van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 56 met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
-| 54  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | 1 De gewogen gemiddelde leeftijd op 1 oktober van het lopende schooljaar, bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.  2 Onder leraar als bedoeld onder punt 1 wordt verstaan elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in artikel 151 van Rechtspositiebesluit WPO/WEC, zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in artikel 191, onderdeel a, van dat besluit en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in artikel 183 van de WPO of artikel 169 van de WEC bedoelde rechtspersoon.  3 Indien voor de mededeling van de gewogen gemiddelde leeftijd bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  |
+| 54  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | 1 De gewogen gemiddelde leeftijd op 1 oktober van het lopende schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.  2 Onder leraar als bedoeld onder punt 1 wordt verstaan elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in [artikel 151 van Rechtspositiebesluit WPO/WEC](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in [artikel 191, onderdeel a](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), van dat besluit en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in [artikel 183 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 169 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) bedoelde rechtspersoon.  3 Indien voor de mededeling van de gewogen gemiddelde leeftijd bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  |
 
 ### 2.3.6  
 
@@ -758,9 +758,9 @@ Vervallen
 ####Onderdeel ‘WIA’
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 61  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
-| 62  | Peiljaar  | Jaar  | Kalenderjaar waarop de gegevens over de WIA betrekking hebben  |
+| 62  | Peiljaar  | Jaar  | Kalenderjaar waarop de gegevens over de [WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betrekking hebben  |
 | 63  | Aantal personen 1 tot 35% arbeidsongeschikt  | Getal  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard  |
 | 64  | Behoud 35min  | Getal  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij het bevoegd gezag in dienst is gebleven in de oude functie of in een andere functie  |
 | 65  | Uitplaatsing 35min  | Getal  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij een andere werkgever in dienst is getreden  |
@@ -786,10 +786,10 @@ Het identificerende nummer van een instelling volgens de Basisregistratie Instel
 Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee hoofdletters. Formaat: A4 
 ### *Code arbeidsrelatie* 
 
-De aanduiding of de aanstelling of benoeming in vaste dienst of tijdelijke dienst is, zoals bedoeld in artikel 53 van de WPO en artikel 56 van de WEC. Daarnaast wordt de tewerkstelling zonder aanstelling onderscheiden.  
+De aanduiding of de aanstelling of benoeming in vaste dienst of tijdelijke dienst is, zoals bedoeld in [artikel 53 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 56 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md). Daarnaast wordt de tewerkstelling zonder aanstelling onderscheiden.  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 1  | benoeming in vaste dienst. Hieronder vallen ook de benoemingen in vaste dienst waarbij een bepaalde proeftijd is afgesproken  |
 | 2  | benoeming in tijdelijke dienst, exclusief benoemingen in verband met vervanging. Hieronder vallen onder andere de benoemingen in tijdelijke dienst bij een eerste dienstverband die vooruitzicht hebben op een benoeming in vaste dienst  |
 | 3  | benoeming in tijdelijke dienst, in verband met vervanging  |
@@ -799,10 +799,10 @@ Formaat: N2
 ### *Code bron* 
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 1  | Lumpsum PO, schoolbudget en/of andere door OCenW verstrekte budgetten zoals voor LGF, cumi et cetera  |
-| 2  | Vergoedingen door Vervangingsfonds op grond van WPO, artikel 183 en WEC, artikel 169  |
-| 3  | Loonkostensubsidie, verstrekt op grond van een regeling om de arbeidsparticipatie van langdurig werklozen, arbeidsgehandicapten en dergelijke te bevorderen, bijvoorbeeld op grond van de Wet Werk en Bijstand  |
+| 2  | Vergoedingen door Vervangingsfonds op grond van [WPO, artikel 183](../../../../../../wet/wbo/BWBR0003420/README.md) en [WEC, artikel 169](../../../../../../wet/isovso/BWBR0003549/README.md)  |
+| 3  | Loonkostensubsidie, verstrekt op grond van een regeling om de arbeidsparticipatie van langdurig werklozen, arbeidsgehandicapten en dergelijke te bevorderen, bijvoorbeeld op grond van de [Wet Werk en Bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)  |
 | 4  | Overige middelen waaronder vergoedingen door het Risicofonds  |
 
 Formaat: N2 
@@ -811,7 +811,7 @@ Formaat: N2
 Aanduiding van de (salaris)administratie waaruit de gegevens afkomstig zijn.  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 01  | ADP  |
 | 02  | Raet ECS  |
 | 03  | Centric  |
@@ -831,7 +831,7 @@ Aanduiding van een bepaalde dag, bestaande uit een reeks van 8 cijfers in de vor
 De toedeling van de functie aan een van de volgende categorieën:  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 1  | Bestuurslid, lid college van bestuur  |
 | 2  | (Bovenschoolse) directeur  |
 | 3  | Adjunct- of waarnemend directeur  |
@@ -859,7 +859,7 @@ Management (directie en bestuur): de leidinggevenden die integraal (eind)verantw
 De sekse van een persoon zoals vastgelegd bij de burgerlijke stand.  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | M  | Man  |
 | V  | Vrouw  |
 | O  | Onbekend  |
@@ -876,7 +876,7 @@ Aanduiding van een hoeveelheid. Reeks cijfers met een komma gevolgd door twee of
 Aanduiding of iets wel of niet het geval is.  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | J  | Ja  |
 | N  | Nee  |
 
@@ -892,14 +892,14 @@ Aanduiding van het jaar en de maand waarop een bepaald gegeven betrekking heeft 
 Nummer van maximaal 20 cijfers. Het personeelsnummer dient een persoon uniek te identificeren binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren. Formaat: N20 
 ### *Salarisnummer* 
 
-Deel van de beloningssystematiek zoals vermeld in het Kaderbesluit rechtspositie PO. Waarden 01 tot en met 20. Formaat: N2 
+Deel van de beloningssystematiek zoals vermeld in het [Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md). Waarden 01 tot en met 20. Formaat: N2 
 ### *Salarisschaal* 
 
 Deel van de beloningssystematiek zoals vermeld in het Kaderbesluit rechtspositie PO. Waarden 01 tot en met 18, LA, LB, LC, LD, LE AA, AB, AC, AD, AE DA, DB, DC, DD LIOA, LIOB ID1, ID2, ID3. Formaat: A4 
 ### *Soort loon, toelage of korting* 
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 100  | Brutoloon (zie toelichting)  |
 | 200  | Vakantie-uitkering  |
 | 410  | Bindingstoelage  |
@@ -945,13 +945,13 @@ Deel van de beloningssystematiek zoals vermeld in het Kaderbesluit rechtspositie
 
 ### *Toelichting brutoloon* 
 
-Brutoloon: het persoonlijk salarisbedrag zoals vermeld in het Kaderbesluit rechtspositie PO, berekend op basis van de feitelijke betrekkingsomvang en de aanstellingsperiode in de peilmaand Toelichting bij soort loon, toelage of korting: In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zaken opgesomd dat deel uitmaakt van het bruto-nettosysteem (werknemerskant) en de werkgeverslasten. Een aantal toelagen wordt specifiek genoemd, zoals de toelage arbeidsmarkt en de functioneringstoelage. Deze toelagen dienen expliciet met de daarvoor geldende code te worden opgegeven. Naast deze specifieke toelagen bestaan ook andere toelagen, zoals de toelage onregelmatige dienst en de toelage onkostenvergoeding. Al deze toelagen kunnen worden ondergebracht bij: bruto toelagen overig of netto toelagen overig, al naargelang deze als een bruto- dan wel nettobedrag worden toegekend. Formaat: N4 
+Brutoloon: het persoonlijk salarisbedrag zoals vermeld in het [Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md), berekend op basis van de feitelijke betrekkingsomvang en de aanstellingsperiode in de peilmaand Toelichting bij soort loon, toelage of korting: In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zaken opgesomd dat deel uitmaakt van het bruto-nettosysteem (werknemerskant) en de werkgeverslasten. Een aantal toelagen wordt specifiek genoemd, zoals de toelage arbeidsmarkt en de functioneringstoelage. Deze toelagen dienen expliciet met de daarvoor geldende code te worden opgegeven. Naast deze specifieke toelagen bestaan ook andere toelagen, zoals de toelage onregelmatige dienst en de toelage onkostenvergoeding. Al deze toelagen kunnen worden ondergebracht bij: bruto toelagen overig of netto toelagen overig, al naargelang deze als een bruto- dan wel nettobedrag worden toegekend. Formaat: N4 
 ### *Soort verlof* 
 
 Aanduiding van de reden of doel van het verlof  
 
 | Code  | betekenis  |
-|---|---|
+|:---|:---|
 | 01  | Onbetaald ouderschapsverlof  |
 | 02  | Betaald ouderschapsverlof  |
 | 03  | Ziekteverlof  |
@@ -1127,7 +1127,7 @@ De aanlevering van de gegevens in de genoemde onderdelen geschiedt elektronisch.
 Per persoon per salarisadministratie wordt één regel geleverd.  
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 1.  | Personeelsnummer  | P-nummer  | N20  |
 | 2.  | Code salarisadministratie  | Code salarisadministratie  | N6  |
 | 3.  | Peilmaand  | Jaar_mnd  | N6 (JJJJMM)  |
@@ -1142,7 +1142,7 @@ Per persoon per salarisadministratie wordt één regel geleverd.
 In de bestanden per peilmaand wordt per arbeidsrelatie één regel geleverd. In het jaarbestand worden per arbeidsrelatie één regel geleverd, die de situatie op 1 januari weergeeft plus evenveel records als er mutaties in deze arbeidsrelatie zijn geweest. Bij arbeidsrelaties die in de loop van een kalenderjaar tot stand komen, beschrijft het eerste record in het jaarbestand de situatie op de kalenderdatum waarop de arbeidsrelatie tot stand komt. Mutaties in die arbeidsrelaties worden vervolgens op dezelfde manier verwerkt als bij de arbeidsrelaties die op 1 januari bestaan.  
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 7.  | Personeelsnummer  | P-nummer  | N20  |
 | 8.  | Code salarisadministratie  | Code salarisadministratie  | N6  |
 | 9.  | Peilmaand  | Jaar_mnd  | N6 (JJJJMM)  |
@@ -1173,7 +1173,7 @@ In de bestanden per peilmaand wordt per arbeidsrelatie één regel geleverd. In 
 Per arbeidsrelatie wordt voor elke financiële categorie die in paragraaf 2.3.3 is onderscheiden, één regel geleverd indien in die categorie een betaling of inhouding is verricht. Bedragen in de categorieën ‘kortingen’ worden niet voorafgegaan door een min-teken. Bedragen van correcties op eerdere betalingen of inhoudingen, die niet als een maand terugwerkende kracht mutatie in de gegevens over de peilmaand zijn verwerkt, worden geleverd met een plus- of min-teken, al naargelang het bedrag in de levering moet worden opgeteld dan wel worden afgetrokken van het voor de peilmaand eerder geleverde bedrag.  
 
 | Nr  | Veld  | Domein  |--- |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 29.  | Personeelsnummer  | P-nummer  | N20  |
 | 30.  | Code salarisadministratie  | Code salarisadministratie  | N6  |
 | 31.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
@@ -1192,7 +1192,7 @@ Per arbeidsrelatie wordt voor elke financiële categorie die in paragraaf 2.3.3 
 Per arbeidsrelatie wordt per verlofperiode één regel geleverd. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode en wordt dus een nieuwe regel geleverd.  
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 39.  | Personeelsnummer  | P-nummer  | N20  |
 | 40.  | Code salarisadministratie  | Code salarisadministratie  | N6  |
 | 41.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
@@ -1219,7 +1219,7 @@ De aanlevering van de GGL geschiedt elektronisch door aanlevering van een bestan
 – alle velden bevatten een waarde.    
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 49.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
 | 50.  | Organisatienummer school  | BRINnummer  | A4  |
 | 51.  | Extractiedatum  | Datum  | N8  |
@@ -1238,7 +1238,7 @@ A door middel van het door DUO ontwikkelde digitale formulier dat vanaf de site 
 B door aanlevering van een bestand in CSV-formaat met als scheidingsteken de puntkomma en de volgende veldspecificaties:    
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 55.  | Organisatienummer school  | BRINnummer  | A4  |
 | 56.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
 | 57.  | Organisatienummer administratiekantoor  | AKnummer  | N3  |
@@ -1253,7 +1253,7 @@ B door aanlevering van een bestand in CSV-formaat met als scheidingsteken de pun
 De aanlevering van de gegevens WIA geschiedt elektronisch door middel van het door DUO hiervoor te ontwikkelen digitaal formulier, dat vanaf de site www.ocwduo.nl zal kunnen worden gedownload.  
 
 | Nr  | Veld  | Domein  | Type  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 61.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
 | 62.  | Peiljaar  | Jaar  | N4  |
 | 63.  | Aantal personen 1 tot 35% arbeidsongeschikt  | Getal  | N5  |
@@ -1286,21 +1286,21 @@ Voor iedere leerling:
 
 − een volledig ingevuld en door de ouder(s) of verzorger(s) ondertekend inschrijfformulier.   Indien van toepassing: 
 
-− een bewijs van uitschrijving van de vorige school als bedoeld in artikel 7, eerste lid, onderdeel a, van het Besluit bekostiging WPO, respectievelijk artikel 6, eerste lid, onderdeel a, van het Besluit bekostiging WEC;  
+− een bewijs van uitschrijving van de vorige school als bedoeld in [artikel 7, eerste lid, onderdeel a, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), respectievelijk [artikel 6, eerste lid, onderdeel a, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-− een verklaring als bedoeld in artikel 7, eerste lid onder b, van het Besluit bekostiging WPO respectievelijk artikel 6, eerste lid, onderdeel b of c, van het Besluit bekostiging WEC met betrekking tot het in de periode van 6 maanden voorafgaand aan de inschrijving niet eerder op een andere school, of een school of instelling voor ander onderwijs ingeschreven staan van de leerling. Een aparte verklaring is niet nodig wanneer de betreffende gegevens zijn opgenomen op het inschrijfformulier;  
+− een verklaring als bedoeld in [artikel 7, eerste lid onder b, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk [artikel 6, eerste lid, onderdeel b of c, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) met betrekking tot het in de periode van 6 maanden voorafgaand aan de inschrijving niet eerder op een andere school, of een school of instelling voor ander onderwijs ingeschreven staan van de leerling. Een aparte verklaring is niet nodig wanneer de betreffende gegevens zijn opgenomen op het inschrijfformulier;  
 
-− een kopie van het bericht van inschrijving, bedoeld in artikel 7, derde lid, van het Besluit bekostiging WPO respectievelijk artikel 6, derde lid, van het Besluit bekostiging WEC, zoals gezonden aan de vorige school;  
+− een kopie van het bericht van inschrijving, bedoeld in [artikel 7, derde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk [artikel 6, derde lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals gezonden aan de vorige school;  
 
-− een volledig ingevulde en door de ouder(s) of verzorger(s) ondertekende ouderverklaring waaruit duidelijk het opleidingsniveau van de ouder(s) of verzorger(s) blijkt. Op basis van deze opleidingsgegevens stelt de school het leerlinggewicht, bedoeld in artikel 27, eerste lid, van het Besluit bekostiging WPO vast. Een aparte ouderverklaring is niet nodig wanneer de betreffende opleidingsgegevens zijn opgenomen op het inschrijfformulier.   Voorbeelden van een inschrijfformulier en een ouderverklaring zijn beschikbaar op de website van DUO.  
+− een volledig ingevulde en door de ouder(s) of verzorger(s) ondertekende ouderverklaring waaruit duidelijk het opleidingsniveau van de ouder(s) of verzorger(s) blijkt. Op basis van deze opleidingsgegevens stelt de school het leerlinggewicht, bedoeld in [artikel 27, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vast. Een aparte ouderverklaring is niet nodig wanneer de betreffende opleidingsgegevens zijn opgenomen op het inschrijfformulier.   Voorbeelden van een inschrijfformulier en een ouderverklaring zijn beschikbaar op de website van DUO.  
 
 ### 2  
 
 ####Uitschrijving
 
-− Een kopie van het bewijs van uitschrijving, bedoeld in artikel 8, eerste lid, van het Besluit bekostiging WPO en artikel 7, eerste lid, van het Besluit bekostiging WEC;  
+− Een kopie van het bewijs van uitschrijving, bedoeld in [artikel 8, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, eerste lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-− indien van toepassing het bericht van inschrijving, bedoeld in artikel 8, tweede lid, van het Besluit bekostiging WPO en artikel 7, tweede lid, van het Besluit bekostiging WEC, zoals ontvangen van de volgende school.    
+− indien van toepassing het bericht van inschrijving, bedoeld in [artikel 8, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals ontvangen van de volgende school.    
 
 ### 3  
 
@@ -1322,5 +1322,5 @@ Voor iedere leerling:
 
 ####Bewaartermijn:
 
-Voor alle genoemde basisdocumenten geldt een bewaartermijn van vijf jaar na de datum van uitschrijving van de leerling. De documenten mogen eventueel ook in gedigitaliseerde vorm worden opgeslagen. De documenten worden binnen 8 weken na het verstrijken van de bewaartermijn vernietigd (artikel 9 Besluit bekostiging WPO; artikel 8 Besluit bekostiging WEC).  
+Voor alle genoemde basisdocumenten geldt een bewaartermijn van vijf jaar na de datum van uitschrijving van de leerling. De documenten mogen eventueel ook in gedigitaliseerde vorm worden opgeslagen. De documenten worden binnen 8 weken na het verstrijken van de bewaartermijn vernietigd ([artikel 9 Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md); [artikel 8 Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md)).  
 

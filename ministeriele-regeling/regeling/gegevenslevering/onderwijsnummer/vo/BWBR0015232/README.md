@@ -5,7 +5,7 @@
 De minister van onderwijs, cultuur en wetenschappen,  
 Gelet op:
 
-• artikel 103b, derde lid, van de Wet op het voortgezet onderwijs,
+• [artikel 103b, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),
 Besluit:    
 
 ### Artikel  1  
@@ -14,29 +14,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Accountantsverklaring: de verklaring als bedoeld in artikel 14a, tweede lid onder c, van het Bekostigingsbesluit W.V.O.;  
+a. Accountantsverklaring: de verklaring als bedoeld in [artikel 14a, tweede lid onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md);  
 
-b. basisregister onderwijs: basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
+b. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-c. bevoegd gezag: het bevoegd gezag bedoeld in artikel 1 van de wet en wat betreft het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in artikel 1.3.3. van de Wet educatie en beroepsonderwijs het bevoegd gezag bedoeld in artikel 1.1.1., onderdeel w, van de Wet educatie en beroepsonderwijs;  
+c. bevoegd gezag: het bevoegd gezag bedoeld in [artikel 1 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en wat betreft het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) het bevoegd gezag bedoeld in [artikel 1.1.1., onderdeel w, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 d. BRIN: Basis Registratie Instellingen;  
 
-e. combinatiecijfer: het gemiddelde van de eindcijfers van de onderdelen die op grond van het artikel 49, zesde lid, eindexamenbesluit VO respectievelijk artikel 26, derde lid, Staatsexamenbesluit VO zijn bepaald, dat wordt aangemerkt als het eindcijfer van één vak;  
+e. combinatiecijfer: het gemiddelde van de eindcijfers van de onderdelen die op grond van het [artikel 49, zesde lid, eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) respectievelijk [artikel 26, derde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) zijn bepaald, dat wordt aangemerkt als het eindcijfer van één vak;  
 
 f. de Minister: de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
 g. deeleindexamen: een examen in één of meer van de voor het eindexamen voorgeschreven vakken;  
 
-h. Eindexamenbesluit: Eindexamenbesluit VO;  
+h. Eindexamenbesluit: [Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
 i. eindexamen: een examen in het geheel van de voor het desbetreffende eindexamen voorgeschreven vakken;  
 
-j. examengegevens: de nadere specificatie van de in artikel 103b, tweede lid onder a, c, d, f, g en i van de wet genoemde gegevens van een bij de school ingeschreven leerling die deelneemt aan een examen;  
+j. examengegevens: de nadere specificatie van de in [artikel 103b, tweede lid onder a, c, d, f, g en i van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) genoemde gegevens van een bij de school ingeschreven leerling die deelneemt aan een examen;  
 
-k. inschrijvingsgegevens: de nadere specificatie van de in artikel 103b, tweede lid onder a, b, c, d, e, h en i van de wet bedoelde gegevens van een bij de school ingeschreven leerling, met uitzondering van de voor onderdeel h vermelde specificatie, voor wat betreft het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in artikel 1.3.3. van de Wet educatie en beroepsonderwijs.  
+k. inschrijvingsgegevens: de nadere specificatie van de in [artikel 103b, tweede lid onder a, b, c, d, e, h en i van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde gegevens van een bij de school ingeschreven leerling, met uitzondering van de voor onderdeel h vermelde specificatie, voor wat betreft het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
-l. schooljaar: het schooljaar bedoeld in artikel 1 van het Bekostigingsbesluit W.V.O.;  
+l. schooljaar: het schooljaar bedoeld in [artikel 1 van het Bekostigingsbesluit W.V.O.](../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md);  
 
 m. Inspectie: Inspectie van het Onderwijs;  
 
@@ -48,25 +48,25 @@ n. profiel-examendeel: één van de volgende examen onderdelen waaruit het profi
 
 3. vrij deel;    
 
-o. persoonsgebonden nummer: het persoonsgebonden nummer bedoeld in artikel 1 van de wet;  
+o. persoonsgebonden nummer: het persoonsgebonden nummer bedoeld in [artikel 1 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-p. school: een school die is aangewezen op grond van artikel 56 van de wet alsmede een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs bedoeld in de wet, waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in artikel 1.3.3. van de Wet educatie en beroepsonderwijs;  
+p. school: een school die is aangewezen op grond van [artikel 56 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) alsmede een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs bedoeld in [de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-q. teldatum: de datum van 1 oktober van enig jaar, bedoeld in artikel 8, tweede lid, van het Bekostigingsbesluit W.V.O;  
+q. teldatum: de datum van 1 oktober van enig jaar, bedoeld in [artikel 8, tweede lid, van het Bekostigingsbesluit W.V.O](../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md);  
 
-r. vakken: de vakken, bedoeld in artikel 1 van het eindexamenbesluit VO, alsmede de onderdelen waarvoor het eindcijfer medebepalend is voor het combinatiecijfer;  
+r. vakken: de vakken, bedoeld in [artikel 1 van het eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), alsmede de onderdelen waarvoor het eindcijfer medebepalend is voor het combinatiecijfer;  
 
 s. volledigheidsverklaring: de verklaring van het bevoegd gezag aan de Minister waarmee wordt verklaard dat de geregistreerde gegevens in het basisregister onderwijs betrekking hebbende op de teldatum overeenkomstig de gestelde wettelijke eisen zo volledig en juist mogelijk zijn;  
 
-t. werkstuk: het profielwerkstuk of sectorwerkstuk bedoeld in artikel 4 van het Eindexamenbesluit VO;  
+t. werkstuk: het profielwerkstuk of sectorwerkstuk bedoeld in [artikel 4 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
-u. Wet: de Wet op het voortgezet onderwijs.    
+u. Wet: de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
 
 ### Artikel  1a  
 
 ####Reikwijdte
 
-Deze regeling berust op de artikelen 58, achtste lid, en 103b, derde lid, van de wet.  
+Deze regeling berust op de [artikelen 58, achtste lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [103b, derde lid, van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
 
 ### Artikel  2  
 
@@ -78,19 +78,19 @@ a. postcode van de woonplaats van de leerling: de officiële Nederlandse TPG cod
 
 b. datum van in- en uitschrijving: datum van de daadwerkelijke aanvang en datum beëindiging van het volgen van het onderwijs op de school;  
 
-c. soort onderwijs: het in artikel 5 van de wet onderscheiden soort van voortgezet onderwijs dat een leerling volgt;  
+c. soort onderwijs: het in [artikel 5 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheiden soort van voortgezet onderwijs dat een leerling volgt;  
 
-d. leerweg: de theoretische leerweg, bedoeld in artikel 10 van de wet, de beroepsgerichte leerwegen, bedoeld in artikel 10b van de wet, dan wel de gemengde leerweg, bedoeld in artikel 10d van de wet, waaronder tevens begrepen het leerwegondersteunend onderwijs, bedoeld in artikel 10e van de wet;  
+d. leerweg: de theoretische leerweg, bedoeld in [artikel 10 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de beroepsgerichte leerwegen, bedoeld in [artikel 10b van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel de gemengde leerweg, bedoeld in [artikel 10d van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder tevens begrepen het leerwegondersteunend onderwijs, bedoeld in [artikel 10e van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-e. sector: de sector, bedoeld in de artikelen 10, derde lid, 10b, derde lid en 10d, derde lid van de wet;  
+e. sector: de sector, bedoeld in de [artikelen 10, derde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b, derde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d, derde lid van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-f. afdeling: de afdeling, bedoeld in artikel 10c van de wet;  
+f. afdeling: de afdeling, bedoeld in [artikel 10c van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-g. profiel: het profiel, bedoeld in artikel 12 van de wet;  
+g. profiel: het profiel, bedoeld in [artikel 12 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
 h. leerjaar: het leerjaar waarin de leerling op de teldatum onderwijs volgt, dan wel wat betreft het praktijkonderwijs het aantal jaren dat de leerling is ingeschreven in het praktijkonderwijs en/of het speciaal voortgezet onderwijs voor moeilijk lerende kinderen;  
 
-i. Nieuwkomer VO: de leerling die vreemdeling is als bedoeld in artikel 1, onder m, van de Vreemdelingenwet 2000 en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
+i. Nieuwkomer VO: de leerling die vreemdeling is als bedoeld in [artikel 1, onder m, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
 
 j. verblijfsduur: de verblijfsduur in Nederland van de Nieuwkomer VO op de teldatum korter dan één jaar en van één tot twee jaar;  
 
@@ -106,27 +106,27 @@ De examengegevens, worden in bijlage 2 gespecificeerd en als volgt nader gedefin
 
 a. postcode van de woonplaats van de leerling: de officiële Nederlandse TPG codering, bestaande uit een numerieke woonplaatscode en een alfabetische lettercode;  
 
-b. soort onderwijs: het in artikel 5 van de wet onderscheiden soort van voortgezet onderwijs dat een leerling volgt;  
+b. soort onderwijs: het in [artikel 5 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheiden soort van voortgezet onderwijs dat een leerling volgt;  
 
-c. leerweg: de theoretische leerweg, bedoeld in artikel 10 van de wet, de beroepsgerichte leerwegen, bedoeld in artikel 10b van de wet, dan wel de gemengde leerweg, bedoeld in artikel 10d van de wet, waaronder tevens begrepen het leerwegondersteunend onderwijs bedoeld in artikel 10e van de wet;  
+c. leerweg: de theoretische leerweg, bedoeld in [artikel 10 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de beroepsgerichte leerwegen, bedoeld in [artikel 10b van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), dan wel de gemengde leerweg, bedoeld in [artikel 10d van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder tevens begrepen het leerwegondersteunend onderwijs bedoeld in [artikel 10e van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-d. sector: de sector, bedoeld in de artikelen 10, derde lid, 10b, derde lid en 10d, derde lid van de wet;  
+d. sector: de sector, bedoeld in de [artikelen 10, derde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b, derde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d, derde lid van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-e. afdeling: de afdeling, bedoeld in artikel 10c van de wet;  
+e. afdeling: de afdeling, bedoeld in [artikel 10c van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-f. profiel: het profiel, bedoeld in artikel 12 van de wet;  
+f. profiel: het profiel, bedoeld in [artikel 12 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
 g. examenjaar: het jaar waarin de uitslag van het examen wordt bepaald;  
 
 h. vakken waarin examen is afgelegd: de vakken, conform de vakkentabel, waarin examen is afgelegd inclusief de naam van het werkstuk, de vakken of het thema waarop het werkstuk van toepassing is, de aanduiding ‘diplomavak’, het profiel-examendeel waartoe het vak gerekend wordt en de aanduiding die aangeeft of het vak een onderdeel is waarvoor het cijfer medebepalend is voor het combinatiecijfer;  
 
-i. de cijfers van het schoolexamen: de beoordeling per onderdeel van het schoolexamen genoemd in artikel 35 van het eindexamenbesluit;  
+i. de cijfers van het schoolexamen: de beoordeling per onderdeel van het schoolexamen genoemd in [artikel 35 van het eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
-j. de cijfers van het centraal examen: de conform artikel 42, tweede lid, van het eindexamenbesluit vastgestelde beoordeling per vak waarin centraal examen is afgelegd uitgesplitst per tijdvak;  
+j. de cijfers van het centraal examen: de conform [artikel 42, tweede lid, van het eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) vastgestelde beoordeling per vak waarin centraal examen is afgelegd uitgesplitst per tijdvak;  
 
-k. de eindcijfers: de beoordeling per vak conform artikel 47 van het eindexamenbesluit alsmede het combinatiecijfer;  
+k. de eindcijfers: de beoordeling per vak conform [artikel 47 van het eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) alsmede het combinatiecijfer;  
 
-l. de uitslag van het eindexamen: de uitslag vastgesteld conform artikel 48 van het eindexamenbesluit;  
+l. de uitslag van het eindexamen: de uitslag vastgesteld conform [artikel 48 van het eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
 l. registratienummer: het nummer van de school volgens BRIN, waarop de leerling op de teldatum is ingeschreven;  
 
@@ -147,7 +147,7 @@ m. nevenvestiging: het bij een registratienummer van een school behorende volgnu
 1.  Het bevoegd gezag draagt er zorg voor dat alle op de teldatum betrekking hebbende inschrijvingsgegevens tezamen met de volledigheidsverklaring uiterlijk op 15 oktober van het schooljaar aan de Minister zijn gemeld.   
 2.  In afwijking van het eerste lid, draagt het bevoegd gezag er zorg voor dat het inschrijvingsgegeven ‘datum van in- en uitschrijving’, bedoeld in artikel 2, onderdeel b, van de regeling, binnen 7 dagen aan de minister is gemeld.   
 3.  Vanaf 1 juni volgend op de teldatum kunnen geen wijzigingen van de inschrijvingsgegevens worden aangeleverd die betrekking hebben op de teldatum, zonder een verklaring van een accountant omtrent de juistheid van de gegevens. Het bevoegd gezag van een school kan ervoor kiezen vanaf een eerdere datum, tussen de teldatum en 1 juni volgend op de teldatum, geen wijzigingen van de inschrijvingsgegevens aan te leveren die betrekking hebben op de teldatum, zonder een verklaring van een accountant omtrent de juistheid van de gegevens.   
-4.  Het tweede lid is niet van toepassing op scholen die zijn aangewezen op grond van artikel 56 van de wet.   
+4.  Het tweede lid is niet van toepassing op scholen die zijn aangewezen op grond van [artikel 56 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Artikel  6  
 
@@ -161,10 +161,10 @@ m. nevenvestiging: het bij een registratienummer van een school behorende volgnu
 
 ####Terugmelding inschrijvingsgegevens
 
-1.  Binnen één week na de melding van de inschrijvingsgegevens door het bevoegd gezag, meldt de Minister de geverifieerde inschrijvingsgegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de gemeentelijke basisadministratie, bedoeld in artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht, aan het bevoegd gezag.   
+1.  Binnen één week na de melding van de inschrijvingsgegevens door het bevoegd gezag, meldt de Minister de geverifieerde inschrijvingsgegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), aan het bevoegd gezag.   
 2.  Op 15 november, of 29 november, of 13 december dan wel op 4 januari volgend op de teldatum meldt de Minister aan het bevoegd gezag de in het basisregister onderwijs opgenomen inschrijvingsgegevens van de leerlingen betrekking hebbend op de teldatum en de gegevens betrekking hebbende op het jaar voorafgaande aan de teldatum, waarvoor het bevoegd gezag een volledigheidsverklaring heeft aangeleverd.   
 3.  Op 21 juli dan wel op 5 oktober in het jaar volgend op het jaar van de teldatum, meldt de Minister aan het bevoegd gezag de in het basisregister onderwijs opgenomen inschrijvingsgegevens, betrekking hebbend op de teldatum, waarvan een accountantsverklaring is ontvangen.   
-4.  Het derde lid is niet van toepassing op scholen die zijn aangewezen op grond van artikel 56 van de wet.   
+4.  Het derde lid is niet van toepassing op scholen die zijn aangewezen op grond van [artikel 56 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Artikel  8  
 
@@ -173,7 +173,7 @@ m. nevenvestiging: het bij een registratienummer van een school behorende volgnu
 1.  De Minister meldt de geverifieerde examengegevens, inclusief de uitkomsten van de controles bedoeld in artikel 7, eerste lid, per omgaande aan het bevoegd gezag.   
 2.  Op 15 november, of 29 november, of 13 december dan wel op 4 januari volgend op de teldatum meldt de Minister aan het bevoegd gezag de in het basisregister onderwijs opgenomen examengegevens betrekking hebbende op het voorafgaande schooljaar.   
 3.  Op 21 juli meldt de Minister aan het bevoegd gezag de in het basisregister opgenomen examengegevens betrekking hebbende op het schooljaar voorafgaand aan de teldatum, waarvan een accountantsverklaring voor de inschrijvingsgegevens is ontvangen.   
-4.  Het derde lid is niet van toepassing op scholen die zijn aangewezen op grond van artikel 56 van de wet.   
+4.  Het derde lid is niet van toepassing op scholen die zijn aangewezen op grond van [artikel 56 van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Artikel  9  
 
@@ -206,10 +206,10 @@ M.J.A. van derHoeven
 
 ### Bijlage  1  
 
-####Specificatie inschrijvingsgegevens artikel 103b, tweede lid, van de wet
+####Specificatie inschrijvingsgegevens [artikel 103b, tweede lid, van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
 | Gegeven  | Definitie  | Formaat  | Lengte  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 1. Persoonsgebonden nummer  | Het persoonsgebonden nummer als bedoeld in artikel 1 van de wet  | Numeriek  | 9  |
 | 2. Postcode van de woonplaats van de leerling  | De officiële Nederlandse TPG codering, bestaande uit een numerieke woonplaatscode en een alfabetische lettercode  | Alfanumeriek  | 6  |
 | 3. Registratienummer  | Het nummer van de school volgens de Basisregistratie Instellingen (Brin)  | Alfanumeriek  | 4  |
@@ -224,10 +224,10 @@ M.J.A. van derHoeven
 
 ### Bijlage  2  
 
-####Specificatie examengegevens artikel 103b, tweede lid, van de wet
+####Specificatie examengegevens [artikel 103b, tweede lid, van de wet](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
 | Gegeven  | Definitie  | Formaat  | Lengte  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 1. Persoonsgebonden nummer  | Het persoonsgebonden nummer als bedoeld in artikel 1 van de wet  | Numeriek  | 9  |
 | 2. Postcode van de woonplaats van de leerling  | De officiële Nederlandse TPG codering, bestaande uit een numerieke woonplaatscode en een alfabetische lettercode  | Alfanumeriek  | 6  |
 | 3. Registratienummer  | Het nummer van de school volgens de Basisregistratie Instellingen (BRIN)  | Alfanumeriek  | 4  |

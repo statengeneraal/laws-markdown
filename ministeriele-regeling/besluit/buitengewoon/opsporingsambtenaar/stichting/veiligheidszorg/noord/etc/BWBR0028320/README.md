@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Justitie van 15 september 2010, nr. 5667854/Justis/10, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Veiligheidszorg Groningen
+##Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 september 2010, nr. 5667854/Justis/10, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Veiligheidszorg Noord
 
 De Minister van Justitie,  
 Gelezen het verzoek van de Directeur van de Stichtng Veiligheidszorg Groningen van12 augustus 2010 en de daaropvolgende adviezen van de hoofdofficier van justitie te Groningen en de korpschef van de regiopolitie Groningen;
@@ -38,9 +38,9 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 ### Artikel  6  
 
-1.  De Directeur van de Stichting Veiligheidszorg Groningen brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De Directeur van de Stichting Veiligheidszorg Noord brengt jaarlijks, voor 1 april, verslag uit over: 
 
-a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functies;  
+a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functies;  
 
 b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;  
 
@@ -53,7 +53,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Stichting Veiligheidszorg Groningen 2010.  
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Stichting Veiligheidszorg Noord 2010.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

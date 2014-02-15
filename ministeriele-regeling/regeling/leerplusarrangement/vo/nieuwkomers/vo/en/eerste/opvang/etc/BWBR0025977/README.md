@@ -23,7 +23,7 @@ b. *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld
 
 c. *vestiging:* een onderdeel van een school dat conform beschikking van de minister als zodanig mag worden aangeduid en waarvoor toestemming bestaat om voor de bekostiging leerlingen op te tellen.  
 
-d. *GBA:* de gemeentelijke basisadministratie, bedoeld in artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens;  
+d. *BRP:* basisregistratie personen;  
 
 e. *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
@@ -102,7 +102,7 @@ f. minimaal 50% apc-leerlingen in gedeelde onderbouw zonder vmbo.
 2.  Voor de toepassing van het eerste lid wordt uitgegaan van de in bijlage 3 opgenomen elementcodes die aangeven aan welke onderdelen van het eerste lid de leerlingen worden toegerekend.   
 3.  In de cyclus, bedoeld in het eerste lid, worden de twee achtereenvolgende teldata slechts éénmaal bij de vaststelling van de drempel gehanteerd.   
 4.  De drempel, bedoeld in het eerste lid, wordt procentueel bepaald door per onderdeel van het eerste lid het aantal apc-leerlingen van de vestiging per onderwijssoort te delen door het totaal aantal leerlingen van de vestiging per onderwijssoort en rekenkundig af te ronden op een geheel getal.   
-5.  Bij de bepaling van het aantal apc-leerlingen wordt de postcode uit de GBA, zoals geregistreerd in het basisregister onderwijs, als uitgangspunt genomen. In het geval de postcode niet in de GBA is opgenomen, wordt de postcode gehanteerd die door het bevoegd gezag van de school aan de minister is aangeleverd.   
+5.  Bij de bepaling van het aantal apc-leerlingen wordt de postcode uit de BRP, zoals geregistreerd in het basisregister onderwijs, als uitgangspunt genomen. In het geval de postcode niet in de BRP is opgenomen, wordt de postcode gehanteerd die door het bevoegd gezag van de school aan de minister is aangeleverd.   
 
 ### Artikel  5  
 
@@ -167,7 +167,7 @@ b. in geval van Nieuwkomers VO op de teldatum van één tot twee jaar in Nederla
 
 ####Gegevenslevering
 
-Bij de bepaling van het aantal Nieuwkomers VO gelden de gegevens uit de GBA, zoals geregistreerd in het basisregister onderwijs, als uitgangspunt. In het geval de registratie in de GBA ontbreekt of afwijkt van de door het bevoegd gezag van de school aan de minister aangeleverde gegevens, kan het bevoegd gezag van de school voor het aantonen van de juistheid van de door zijn verstrekte gegevens gebruikmaken van één of meer van de documenten als vermeld in de bijlage 1 bij deze regeling.  
+Bij de bepaling van het aantal Nieuwkomers VO gelden de gegevens uit de BRP, zoals geregistreerd in het basisregister onderwijs, als uitgangspunt. In het geval de registratie in de BRP ontbreekt of afwijkt van de door het bevoegd gezag van de school aan de minister aangeleverde gegevens, kan het bevoegd gezag van de school voor het aantonen van de juistheid van de door zijn verstrekte gegevens gebruikmaken van één of meer van de documenten als vermeld in de bijlage 1 bij deze regeling.  
 
 ### Paragraaf  4  
 
@@ -322,7 +322,7 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####bij artikel 10 
 
-Bij de gegevenslevering voor de aanvullende bekostiging voor Nieuwkomers VO dienen de gegevens van de GBA als uitgangspunt. In het geval het bevoegd gezag van de school ervoor kiest af te wijken van de gegevens nationaliteit en/of verblijfsduur uit de GBA registratie (omdat gegevens ontbreken of volgens het bevoegd gezag van de school anders zijn), dient, voor het aantonen van de juistheid van de door het bevoegd gezag verstrekte gegevens, een kopie van één of meer documenten uit onderstaande limitatieve lijst in de administratie van de school aanwezig te zijn. 
+Bij de gegevenslevering voor de aanvullende bekostiging voor Nieuwkomers VO dienen de gegevens van de BRP als uitgangspunt. In het geval het bevoegd gezag van de school ervoor kiest af te wijken van de gegevens nationaliteit en/of verblijfsduur uit de BRP-registratie (omdat gegevens ontbreken of volgens het bevoegd gezag van de school anders zijn), dient, voor het aantonen van de juistheid van de door het bevoegd gezag verstrekte gegevens, een kopie van één of meer documenten uit onderstaande limitatieve lijst in de administratie van de school aanwezig te zijn. 
 
 A. Nationaliteit 
 

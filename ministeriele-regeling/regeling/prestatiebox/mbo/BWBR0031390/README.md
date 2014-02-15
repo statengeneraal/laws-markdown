@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 maart 2012, nr. BVE/387637, houdende regels voor de verstrekking van aanvullende vergoeding op de bekostiging aan mbo-instellingen (Regeling prestatiebox mbo)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [artikel 2.2.3, tweede en derde lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 2.2.3, tweede en derde lid, van de Wet educatie en beroepsonderwijs;
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,23 +17,23 @@ In deze regeling wordt verstaan onder:
 
 a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. *wet:* de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. *wet:* de Wet educatie en beroepsonderwijs;  
 
-c. *bevoegd gezag:* bevoegd gezag van een onderwijsinstelling als bedoeld in [artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. *bevoegd gezag:* bevoegd gezag van een onderwijsinstelling als bedoeld in artikel 1.1.1, onderdeel w, subonderdeel 2, van de wet;  
 
-d. *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), vakinstelling als bedoeld in [artikel 1.3.2a van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. *onderwijsinstelling:* regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de wet, vakinstelling als bedoeld in artikel 1.3.2a van de wet en agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de wet;  
 
-e. *deelnemer:* deelnemer als bedoeld in [artikel 8.1.1 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. *deelnemer:* deelnemer als bedoeld in artikel 8.1.1 van de wet;  
 
-f. *assistentopleiding:* assistentopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f. *assistentopleiding:* assistentopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel a, van de wet;  
 
-g. *basisberoepsopleiding:* basisberoepsopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+g. *basisberoepsopleiding:* basisberoepsopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel b, van de wet;  
 
-h. *vakopleiding:* vakopleiding genoemd in [artikel 7.2.2, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h. *vakopleiding:* vakopleiding genoemd in artikel 7.2.2, eerste lid, onderdeel c, van de wet;  
 
-i. *middenkaderopleiding:* middenkaderopleiding genoemd in [artikel 7.2.2, eerste lid, onderdeel d, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+i. *middenkaderopleiding:* middenkaderopleiding genoemd in artikel 7.2.2, eerste lid, onderdeel d, van de wet;  
 
-j. *specialistenopleiding:* specialistenopleiding genoemd in [artikel 7.2.2, eerste lid, onderdeel e, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+j. *specialistenopleiding:* specialistenopleiding genoemd in artikel 7.2.2, eerste lid, onderdeel e, van de wet.    
 
 ### Artikel  2  
 
@@ -60,11 +60,11 @@ Het doel van deze regeling is het jaarlijks verstrekken van een aanvullende verg
 
 a. *convenant:* per RMC-regio tussen de minister, de RMC-contactgemeente en het bevoegd gezag van onderwijsinstellingen gesloten convenant inzake het terugdringen van het aantal voortijdig schoolverlaters in de studiejaren 2012–2013 tot en met 2014–2015;  
 
-b. *nieuwe voortijdig schoolverlater:* de nieuwe voortijdig schoolverlater, bedoeld in [artikel 2 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs](../../../../../ministeriele-regeling/regeling/regionale/aanpak/voortijdig/schoolverlaten/en/prestatiesubsidie/etc/BWBR0031387/README.md);  
+b. *nieuwe voortijdig schoolverlater:* de nieuwe voortijdig schoolverlater, bedoeld in artikel 2 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs;  
 
-c. *RMC-regio:* de RMC-regio als bedoeld in [artikel 37 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs](../../../../../ministeriele-regeling/regeling/regionale/aanpak/voortijdig/schoolverlaten/en/prestatiesubsidie/etc/BWBR0031387/README.md);  
+c. *RMC-regio:* de RMC-regio als bedoeld in artikel 37 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs;  
 
-d. *deelnemer:* de deelnemer die voor bekostiging wordt meegeteld op grond van [artikel 2.2.3 van het Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);     
+d. *deelnemer:* de deelnemer die voor bekostiging wordt meegeteld op grond van artikel 2.2.3 van het Uitvoeringsbesluit WEB;     
 2.  In deze paragraaf wordt onder een onderwijsinstelling niet begrepen het voorbereidend beroepsonderwijs dat wordt verzorgd in een agrarisch opleidingscentrum.   
 
 ### Artikel  5  
@@ -77,7 +77,7 @@ De aanvullende vergoeding op de bekostiging wordt verstrekt ten behoeve van de b
 
 ####Gegevens berekening nieuwe voortijdig schoolverlaters
 
-Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in de [artikelen 4, eerste lid](../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](../../../../../ministeriele-regeling/regeling/gebruik/gegevens/bron/BWBR0027566/README.md) en [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in de artikelen 4, eerste lid, en 10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron en artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  7  
 
@@ -141,7 +141,7 @@ c. voor kalenderjaar 2015: op 1 oktober 2014.
 3.  De hoogte van het vast bedrag, bedoeld in het eerste lid, wordt vastgesteld op grond van onderstaande tabel:  Tabel 1. Maximumbedragen jaarlijks beschikbaar per onderwijsinstelling 
 
 | Aantal deelnemers tot 22 jaar per onderwijsinstelling  | Bedrag per onderwijsinstelling  |
-|:---|:---|
+|---|---|
 | 10–1000  | € 10.000,–  |
 | 1001–2000  | € 20.000,–  |
 | 2001–6000  | € 35.000,–  |
@@ -165,7 +165,7 @@ a. een daling van het percentage, bedoeld in het derde lid, met twee procentpunt
 b. een daling van het percentage, bedoeld in het derde lid, met één procentpunt of meer ten opzichte van het behaalde percentage in het daaraan voorafgaand kalenderjaar, met betrekking tot de basisberoepsopleiding, vakopleiding, middenkaderopleiding of de specialistenopleiding.  Tabel 2. Procentuele norm nieuwe voortijdig schoolverlaters per categorie beroepsopleiding 
 
 |--- | Assistentopleiding  | Basisberoepsopleiding  | Vakopleiding, middenkaderopleiding en specialistenopleiding  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 2012–2013  | 32,5%  | 13,5%  | 4,25%  |
 | 2013–2014  | 27,5%  | 11,5%  | 3,5%  |
 | 2014–2015  | 22,5%  | 10%  | 2,75%  |
@@ -175,7 +175,7 @@ b. een daling van het percentage, bedoeld in het derde lid, met één procentpun
 Assistentopleiding 
 
 | Deelnemers tot 22 jaar  | Bedrag per onderwijsinstelling  |
-|:---|:---|
+|---|---|
 | 10–50  | € 25.000,–  |
 | 51–250  | € 50.000,–  |
 | 251–500  | € 100.000,–  |
@@ -185,7 +185,7 @@ Assistentopleiding
 Basisberoepsopleiding 
 
 | Deelnemers tot 22 jaar  | Bedrag per onderwijsinstelling  |
-|:---|:---|
+|---|---|
 | 10–50  | € 12.500,–  |
 | 51–250  | € 25.000,–  |
 | 251–500  | € 50.000,–  |
@@ -200,7 +200,7 @@ Basisberoepsopleiding
 Vakopleiding, middenkaderopleiding en specialistenopleiding 
 
 | Deelnemers tot 22 jaar  | Bedrag per onderwijsinstelling  |
-|:---|:---|
+|---|---|
 | 10–50  | € 12.500,–  |
 | 51–250  | € 25.000,–  |
 | 251–500  | € 50.000,–  |
@@ -238,7 +238,7 @@ b. het percentage, bedoeld in artikel 13, derde lid, zoals vastgesteld ten behoe
 
 ####Overgangsrecht
 
-Bij de berekening, bedoeld in de artikelen 13, zevende lid en 14, eerste lid, onderdeel b, wordt bij de vergelijking van het kalenderjaar 2013 met het kalenderjaar 2012, de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters gehanteerd, zoals bedoeld in [artikel 8, van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012.  
+Bij de berekening, bedoeld in de artikelen 13, zevende lid en 14, eerste lid, onderdeel b, wordt bij de vergelijking van het kalenderjaar 2013 met het kalenderjaar 2012, de berekeningswijze van het aantal nieuwe voortijdig schoolverlaters gehanteerd, zoals bedoeld in artikel 8, van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten zoals luidend op 31 juli 2012.  
 
 ### Paragraaf  3  
 
@@ -249,7 +249,7 @@ Bij de berekening, bedoeld in de artikelen 13, zevende lid en 14, eerste lid, on
 ####Evaluatie
 
 1.  De effecten van de aanpak van het beleid inzake voortijdig schoolverlaten in de RMC-regio in de praktijk worden uiterlijk in 2015 geëvalueerd.   
-2.  De evaluatie van het beleid inzake voortijdig schoolverlaten, bedoeld in het eerste lid, omvat in ieder geval de evaluatie van het regionaal programma voortijdig schoolverlaten, bedoeld in [artikel 13 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs](../../../../../ministeriele-regeling/regeling/regionale/aanpak/voortijdig/schoolverlaten/en/prestatiesubsidie/etc/BWBR0031387/README.md).   
+2.  De evaluatie van het beleid inzake voortijdig schoolverlaten, bedoeld in het eerste lid, omvat in ieder geval de evaluatie van het regionaal programma voortijdig schoolverlaten, bedoeld in artikel 13 van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs.   
 
 ### Artikel  18  
 
@@ -280,23 +280,23 @@ In deze bijlage wordt verstaan onder:
 
 a. *teldatum:* datum waarop het aantal inschrijvingen per onderwijsinstelling bij aanvang van het studiejaar wordt gemeten. Het betreft hier de datum van 1 oktober;  
 
-b. *Centraal register inschrijvingen hoger onderwijs:* het Centraal register inschrijvingen hoger onderwijs zoals bedoeld in [artikel 7.52 van Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. *Centraal register inschrijvingen hoger onderwijs:* het Centraal register inschrijvingen hoger onderwijs zoals bedoeld in artikel 7.52 van Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 c. *vavo:* het voortgezet algemeen volwassenenonderwijs;  
 
-d. *Examen resultaten register:* de registratie door Dienst Uitvoering Onderwijs van examenresultaten in het voortgezet onderwijs op basis de [Wet voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Het Examen resultaten register omvat een overzicht van behaalde examenresultaten vanaf schooljaar 1998/1999. Vanaf schooljaar 2005/2006 zijn deze gegevens onderdeel van het basisregister;  
+d. *Examen resultaten register:* de registratie door Dienst Uitvoering Onderwijs van examenresultaten in het voortgezet onderwijs op basis de Wet voortgezet onderwijs. Het Examen resultaten register omvat een overzicht van behaalde examenresultaten vanaf schooljaar 1998/1999. Vanaf schooljaar 2005/2006 zijn deze gegevens onderdeel van het basisregister;  
 
-e. *startkwalificatie:* diploma van een opleiding als bedoeld in [artikel 7.2.2 eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de [artikelen 7](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [8 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e. *startkwalificatie:* diploma van een opleiding als bedoeld in artikel 7.2.2 eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de artikelen 7 en 8 van de Wet op het voortgezet onderwijs;  
 
-f. *basisregister:* basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+f. *basisregister:* basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
 g. *verlate startkwalificatie:* startkwalificatie behaald zonder bekostigde inschrijving in de maanden oktober tot en met december volgend op de teldatum (t+1), na een bekostigde inschrijving op de teldatum (t);  
 
-h. *niet-bekostigd voorgezet onderwijs:* scholen die op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zijn aangewezen;  
+h. *niet-bekostigd voorgezet onderwijs:* scholen die op grond van artikel 56 van de Wet op het voortgezet onderwijs zijn aangewezen;  
 
-i. *niet-bekostigd middelbaar beroepsonderwijs:* een instelling als bedoeld in [artikel 1.4.1. van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+i. *niet-bekostigd middelbaar beroepsonderwijs:* een instelling als bedoeld in artikel 1.4.1. van de Wet educatie en beroepsonderwijs;  
 
-j. *Register vrijstellingen LPW:* het register waarin onder andere de vrijstellingen als bedoeld in de [artikelen 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) staan geregistreerd. Dit register is juridisch en technisch in oprichting ten tijde van de ondertekening van het convenant.  
+j. *Register vrijstellingen LPW:* het register waarin onder andere de vrijstellingen als bedoeld in de artikelen 5 en 15 van de Leerplichtwet staan geregistreerd. Dit register is juridisch en technisch in oprichting ten tijde van de ondertekening van het convenant.  
 
 k. *register UWV:* het register waar mensen met een baan geregistreerd staan;  
 
@@ -308,7 +308,7 @@ n. *schooljaar, studiejaar of collegejaar:* het jaar waarin de student staat ing
 
 ####Berekeningswijze voor het middelbaar beroepsonderwijs
 
-Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: mbo-niveau 1, mbo-niveau 2 en mbo-niveaus 3 en 4. Het aantal nieuwe voortijdig schoolverlaters (tot 23 jaar) uit het vavo-onderwijs, niet zijnde de Rutte-leerlingen, wordt wel geteld per mbo-instelling, maar dit aantal wordt niet beoordeeld in het kader van de prestatiesubsidies. Het aantal nieuwe voortijdig schoolverlaters uit het vavo telt wel mee in het landelijk gepresenteerde cijfer. Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar in het middelbaar beroepsonderwijs wordt door de minister berekend op basis van de volgende formule:  *X = A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10) – (D1+D2+D3+D4+D5)*  Waarbij: *X* = Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar (t) in het middelbaar beroepsonderwijs; *A* = (ook wel startpopulatie genoemd) het aantal jongeren in de leeftijd tot 22 jaar dat op de teldatum van het studiejaar (t) door de onderwijsinstelling als deelnemer is ingeschreven per categorie in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld; *B* = Het aantal jongeren onder A dat tijdens het studiejaar (t) is overleden of geëmigreerd voor teldatum t + 1. Deze gegevens worden ontleend aan de gemeentelijke basisadministratie. *C* = Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar (t + 1) nog een opleiding volgt of een vrijstelling van inschrijving heeft gekregen op grond van de [artikelen 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). Het kan dezelfde of een andere (beroeps)opleiding betreffen aan dezelfde of een andere bekostigde instelling dan wel vervolgonderwijs betreffen. C is de som van: 
+Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolverlaters in drie categorieën ingedeeld: mbo-niveau 1, mbo-niveau 2 en mbo-niveaus 3 en 4. Het aantal nieuwe voortijdig schoolverlaters (tot 23 jaar) uit het vavo-onderwijs, niet zijnde de Rutte-leerlingen, wordt wel geteld per mbo-instelling, maar dit aantal wordt niet beoordeeld in het kader van de prestatiesubsidies. Het aantal nieuwe voortijdig schoolverlaters uit het vavo telt wel mee in het landelijk gepresenteerde cijfer. Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar in het middelbaar beroepsonderwijs wordt door de minister berekend op basis van de volgende formule:  *X = A – B – (C1+C2+C3+C4+C5+C6+C7+C8+C9+C10) – (D1+D2+D3+D4+D5)*  Waarbij: *X* = Het aantal nieuwe voortijdig schoolverlaters per onderwijsinstelling per categorie per studiejaar (t) in het middelbaar beroepsonderwijs; *A* = (ook wel startpopulatie genoemd) het aantal jongeren in de leeftijd tot 22 jaar dat op de teldatum van het studiejaar (t) door de onderwijsinstelling als deelnemer is ingeschreven per categorie in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld; *B* = Het aantal jongeren onder A dat tijdens het studiejaar (t) is overleden of geëmigreerd voor teldatum t + 1. Deze gegevens worden ontleend aan de basisregistratie personen. *C* = Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar (t + 1) nog een opleiding volgt of een vrijstelling van inschrijving heeft gekregen op grond van de artikelen 5 en 15 van de Leerplichtwet. Het kan dezelfde of een andere (beroeps)opleiding betreffen aan dezelfde of een andere bekostigde instelling dan wel vervolgonderwijs betreffen. C is de som van: 
 
 * C1: Het aantal jongeren onder A dat op de teldatum van het daaropvolgende studiejaar t + 1 is ingeschreven als deelnemer in het middelbaar beroepsonderwijs en voor bekostiging wordt meegeteld. Dit op basis van gegevens zoals geregistreerd in het basisregister;  
 
@@ -322,7 +322,7 @@ Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolve
 
 * C6: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 als deelnemer in het niet-bekostigd middelbaar beroepsonderwijs is ingeschreven zoals geregistreerd in het basisregister;  
 
-* C7: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 onder de vrijstellingen van de [artikelen 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) valt en als zodanig bevestigd door de leerplichtambtenaar in het register vrijstellingen LPW;  
+* C7: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 onder de vrijstellingen van de artikelen 5 en 15 van de Leerplichtwet valt en als zodanig bevestigd door de leerplichtambtenaar in het register vrijstellingen LPW;  
 
 * C8: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 geregistreerd staat bij de Dienst Justitiële inrichtingen in het basisregister;  
 
@@ -338,7 +338,7 @@ Voor het middelbaar beroepsonderwijs wordt het aantal nieuwe voortijdig schoolve
 
 * D4: Het aantal jongeren onder A dat gedurende de eerste drie maanden na de teldatum (t+1) een startkwalificatie heeft behaald zoals geregistreerd in het examenregister (de zogenoemde verlate startkwalificatie);  
 
-* D5: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), heeft behaald en geregistreerd staat als werkende in het register van het UWV.    
+* D5: Het aantal jongeren onder A dat op teldatum van studiejaar t + 1 een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs, heeft behaald en geregistreerd staat als werkende in het register van het UWV.    
 
 ####Toelichting
 
@@ -358,21 +358,21 @@ In deze bijlage wordt verstaan onder:
 
 a. *teldatum:* datum waarop het aantal inschrijvingen per onderwijsinstelling bij aanvang van het schooljaar wordt gemeten. Het betreft hier de datum van 1 oktober;  
 
-b. *Centraal register inschrijvingen hoger onderwijs:* het Centraal register inschrijvingen hoger onderwijs zoals bedoeld in [artikel 7.52 van Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. *Centraal register inschrijvingen hoger onderwijs:* het Centraal register inschrijvingen hoger onderwijs zoals bedoeld in artikel 7.52 van Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 c. *vavo:* het voortgezet algemeen volwassenenonderwijs;  
 
-d. *Examen resultaten register:* de registratie door Dienst Uitvoering Onderwijs van examenresultaten in het voortgezet onderwijs op basis de [Wet voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Het Examen resultaten register omvat een overzicht van behaalde examenresultaten vanaf schooljaar 1998/1999. Vanaf schooljaar 2005/2006 zijn deze gegevens onderdeel van het Basisregister;  
+d. *Examen resultaten register:* de registratie door Dienst Uitvoering Onderwijs van examenresultaten in het voortgezet onderwijs op basis de Wet voortgezet onderwijs. Het Examen resultaten register omvat een overzicht van behaalde examenresultaten vanaf schooljaar 1998/1999. Vanaf schooljaar 2005/2006 zijn deze gegevens onderdeel van het Basisregister;  
 
-e. *startkwalificatie:* diploma van een opleiding als bedoeld in [artikel 7.2.2 eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de [artikelen 7](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [8 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e. *startkwalificatie:* diploma van een opleiding als bedoeld in artikel 7.2.2 eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in de artikelen 7 en 8 van de Wet op het voortgezet onderwijs;  
 
-f. *basisregister:* basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+f. *basisregister:* basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-g. *niet-bekostigd voorgezet onderwijs:* scholen die op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zijn aangewezen;  
+g. *niet-bekostigd voorgezet onderwijs:* scholen die op grond van artikel 56 van de Wet op het voortgezet onderwijs zijn aangewezen;  
 
-h. *niet-bekostigd middelbaar beroepsonderwijs:* een instelling als bedoeld in [artikel 1.4.1. van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+h. *niet-bekostigd middelbaar beroepsonderwijs:* een instelling als bedoeld in artikel 1.4.1. van de Wet educatie en beroepsonderwijs;  
 
-i. *Register vrijstellingen LPW:* het register waarin de vrijstellingen als bedoeld in [artikel 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) staan geregistreerd;  
+i. *Register vrijstellingen LPW:* het register waarin de vrijstellingen als bedoeld in artikel 5 en 15 van de Leerplichtwet staan geregistreerd;  
 
 j. *Registers van politie en defensie:* de registers waar het aantal deelnemers aan politieschool en defensieopleidingen geregistreerd staan;  
 
@@ -388,9 +388,9 @@ Voor het voortgezet onderwijs wordt het aantal nieuwe voortijdig schoolverlaters
 
 * het geen leerlingen betreft aan het praktijkonderwijs en voortgezet speciaal onderwijs;  
 
-* het geen leerlingen betreft die bekend staan als eerstejaars nieuwkomers conform de [Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009](../../../../../ministeriele-regeling/regeling/leerplusarrangement/vo/nieuwkomers/vo/en/eerste/opvang/etc/BWBR0025977/README.md); en  
+* het geen leerlingen betreft die bekend staan als eerstejaars nieuwkomers conform de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009; en  
 
-* het geen leerlingen betreft aan de Engelse Stroom of Internationaal Baccelaureaat.   *B* = Het aantal jongeren onder A dat tijdens het schooljaar (t) is overleden of geëmigreerd voor teldatum t + 1. Deze gegevens worden ontleend aan de gemeentelijke basisadministratie. *C* = Het aantal jongeren onder A dat op de teldatum bij aanvang van het daaropvolgende schooljaar (t + 1) nog een opleiding volgt of een vrijstelling van inschrijving heeft gekregen op grond van de [artikelen 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). De opleiding kan dezelfde of een andere (beroeps)opleiding zijn aan dezelfde of een andere instelling dan wel vervolgonderwijs betreffen. C is de som van: 
+* het geen leerlingen betreft aan de Engelse Stroom of Internationaal Baccelaureaat.   *B* = Het aantal jongeren onder A dat tijdens het schooljaar (t) is overleden of geëmigreerd voor teldatum t + 1. Deze gegevens worden ontleend aan de basisregistratie personen. *C* = Het aantal jongeren onder A dat op de teldatum bij aanvang van het daaropvolgende schooljaar (t + 1) nog een opleiding volgt of een vrijstelling van inschrijving heeft gekregen op grond van de artikelen 5 en 15 van de Leerplichtwet. De opleiding kan dezelfde of een andere (beroeps)opleiding zijn aan dezelfde of een andere instelling dan wel vervolgonderwijs betreffen. C is de som van: 
 
 C1: het aantal jongeren onder A dat op de teldatum van het daaropvolgende schooljaar (t + 1) nog steeds is ingeschreven als leerling in het voortgezet onderwijs op basis van gegevens zoals geregistreerd in het basisregister;  
 
@@ -406,7 +406,7 @@ C6: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 als leerlin
 
 C7: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 als deelnemer in het niet-bekostigd middelbaar beroepsonderwijs is ingeschreven zoals geregistreerd in het basisregister;  
 
-C8: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 onder de vrijstellingen van de [artikelen 5](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [15 van de Leerplichtwet](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) valt en als zodanig bevestigd door de leerplichtambtenaar in het register vrijstellingen LPW;  
+C8: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 onder de vrijstellingen van de artikelen 5 en 15 van de Leerplichtwet valt en als zodanig bevestigd door de leerplichtambtenaar in het register vrijstellingen LPW;  
 
 C9: het aantal jongeren onder A dat op teldatum van schooljaar t + 1 geregistreerd staat bij de Dienst Justitiële inrichtingen in het basisregister;  
 

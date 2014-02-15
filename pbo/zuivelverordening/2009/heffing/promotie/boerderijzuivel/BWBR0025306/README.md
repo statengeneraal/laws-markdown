@@ -14,7 +14,7 @@ In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 200
 
 a. Boerderijzuivelbereiders zijn over de hoeveelheden melk, die op hun bedrijf zijn gewonnen en verwerkt in door hen geproduceerde en in de periode 1 januari 2009 tot en met 31 maart 2009 afgeleverde hoeveelheden boter, consumptiemelk, consumptiemelkproducten, kaas of andere producten ten behoeve van het fonds bevordering afzet boerderijzuivelproducten aan het productschap een heffing verschuldigd van € 0,13 per 100 kg melk.  
 
-b. Boerderijzuivelbereiders zijn over de hoeveelheden melk, die op hun bedrijf zijn gewonnen en verwerkt in door hen geproduceerde en vanaf 1 april 2009 afgeleverde hoeveelheden boter, consumptiemelk, consumptiemelkproducten, kaas of andere producten ten behoeve van het fonds bevordering afzet boerderijzuivelproducten aan het productschap een heffing verschuldigd van € 0,15 per 100 kg melk.    
+b. Boerderijzuivelbereiders zijn over de hoeveelheden melk, die op hun bedrijf zijn gewonnen en verwerkt in door hen geproduceerde en vanaf 1 april 2009 afgeleverde hoeveelheden boter, consumptiemelk, consumptiemelkproducten, kaas of andere producten ten behoeve van het fonds bevordering afzet boerderijzuivelproducten aan het productschap een heffing verschuldigd van € 0,15 per 100 kg melk. Met ingang van 1 april 2014 bedraagt de heffing € 0,00 per 100 kg melk.    
 
 ### Artikel  3  
 

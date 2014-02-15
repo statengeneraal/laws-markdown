@@ -61,7 +61,7 @@ c. het wegnemen van weefsel bij een overledene en het verrichten van sectie.
 
 1.  Onze minister is bevoegd op de aanvrage tot inschrijving in een register te beslissen. Onze Minister is voorts bevoegd te beslissen op de aanvraag van een verpleegkundige tot vermelding in het register van de bevoegdheid van de aanvrager de krachtens artikel 36, veertiende lid, aangewezen UR-geneesmiddelen voor te schrijven. De vermelding houdt mede in de aanduiding van de categorie van verpleegkundigen waartoe de aanvrager behoort. Onze Minister is bevoegd een vermelding als bedoeld in de vorige volzin door te halen indien de betrokken verpleegkundige niet meer voldoet aan de krachtens artikel 36, veertiende lid, onder d, gestelde eisen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het bedrag dat voor de behandeling van een aanvraag als bedoeld in het eerste lid moet worden betaald alsmede over de wijze van indiening van een aanvrage en de daarbij te verstrekken gegevens of bescheiden, nodig voor de beoordeling van een aanvraag als bedoeld in het eerste lid. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten van de behandeling van een aanvraag als bedoeld in het eerste lid worden betaald.   
-3.  Bij algemene maatregel van bestuur kan een bedrag worden vastgesteld dat per in de maatregel aangewezen periode aan ingeschreven beroepsbeoefenaren in rekening wordt gebracht voor het ingeschreven zijn in het register. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten, verbonden aan het in het register ingeschreven zijn, worden gedekt.   
+3.  Bij of krachtens algemene maatregel van bestuur kan een bedrag worden vastgesteld dat per in de maatregel aangewezen periode aan ingeschreven beroepsbeoefenaren in rekening wordt gebracht voor het ingeschreven zijn in het register. Het in de eerste volzin bedoelde bedrag wordt zodanig bepaald dat daarmee de kosten, verbonden aan het in het register ingeschreven zijn, worden gedekt.   
 
 ### Artikel  6  
 
@@ -102,7 +102,7 @@ Onze Minister kan artikel 6, onderdeel e, en artikel 7, onderdeel e, buiten toep
 
 a. de datum waarop de ingeschrevene een bij of krachtens hoofdstuk III of VI aangewezen getuigschrift of een in artikel 41, eerste lid, onder b, bedoelde verklaring of een erkenning van beroepskwalificaties als bedoeld in de Algemene wet erkenning EG-beroepskwalificaties heeft verkregen;  
 
-b. de naar aanleiding van een aanvrage van de ingeschrevene in het register aangetekende datum voorafgaand waaraan hij in de in het eerste lid bedoelde periode overeenkomstig door Onze Minister gestelde regels met goed gevolg scholing heeft afgerond;  
+b. de naar aanleiding van een aanvrage van de ingeschrevene in het register aangetekende datum voorafgaand waaraan hij in de in het eerste lid bedoelde periode overeenkomstig door Onze Minister gestelde regels met goed gevolg scholing heeft afgerond of de datum van toelating tot een opleiding die leidt tot een wettelijk erkend specialisme als bedoeld in artikel 14, eerste lid;  
 
 c. de naar aanleiding van een aanvrage van de ingeschrevene in het register aangetekende datum voorafgaande waaraan de ingeschrevene op het desbetreffende gebied van de beroepsuitoefening werkzaamheden heeft verricht die wat betreft duur en spreiding over de in het eerste lid bedoelde periode voldoen aan bij algemene maatregel van bestuur te stellen regelen.     
 3.  In afwijking van het eerste lid wordt de inschrijving van een specialist, waarvoor een regeling geldt als bedoeld in artikel 15, eerste lid, in het in het eerste lid bedoelde register niet doorgehaald zolang deze als specialist is ingeschreven in een erkend specialistenregister.   
@@ -131,19 +131,23 @@ e. de voorwaarden die een ingeschrevene zijn opgelegd;
 
 f. de gedeeltelijke ontzegging van de bevoegdheid in het register ingeschreven staande het betrokken beroep uit te oefenen;  
 
-g. het eindigen van een schorsing, anders dan ten gevolge van het verstrijken van de in een maatregel vastgestelde tijdsduur;  
+g. de doorhaling van de inschrijving in het register op grond van artikel 7, onder c, d of e;  
 
-h. het niet langer gelden van de onder e bedoelde voorwaarden, anders dan ten gevolge van het verstrijken van de proeftijd, en van de onder f bedoelde ontzegging.     
+h. de ontzegging van het recht wederom in het register te worden ingeschreven;  
+
+i. het eindigen van een schorsing, anders dan ten gevolge van het verstrijken van de in een maatregel vastgestelde tijdsduur;  
+
+j. het niet langer gelden van de onder e bedoelde voorwaarden, anders dan ten gevolge van het verstrijken van de proeftijd, en van de onder f bedoelde ontzegging.     
 2.  In het register wordt een aantekening geplaatst van een maatregel, berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten terzake van de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven tijdelijk of blijvend gedeeltelijk heeft verloren.   
 3.  Bij een aantekening als bedoeld in het eerste of tweede lid wordt vermeld: 
 
 a. de datum waarop van de schorsing een aantekening wordt geplaatst alsmede de duur van de schorsing, indien die reeds bekend is;  
 
-b. de datum waarop het bevel, de berisping, de geldboete, de in het eerste lid bedoelde voorwaarden of de ontzegging zijn gaan gelden alsmede, ingeval de voorwaarden of de in het tweede lid bedoelde maatregel tot een proeftijd zijn beperkt, de duur daarvan dan wel  
+b. de datum waarop het bevel, de berisping, de geldboete, de in het eerste lid bedoelde voorwaarden, de ontzegging, de doorhaling of de ontzegging van het recht op wederinschrijving zijn gaan gelden alsmede, ingeval de voorwaarden of de in het tweede lid bedoelde maatregel tot een proeftijd zijn beperkt, de duur daarvan dan wel  
 
 c. de datum waarop de schorsing is geëindigd of vanaf welke het bevel, de in eerste lid bedoelde voorwaarden of de in het tweede lid bedoelde maatregel niet langer gelden.     
 4.  Indien de in het tweede lid bedoelde aantekening in het register is geplaatst, geldt de in het buitenland opgelegde bevoegdheidsbeperking ook voor de beroepsuitoefening in Nederland.   
-5.  De in het eerste lid, onderdeel b tot en met h, en de in het tweede lid bedoelde aantekening wordt gedurende een bij algemene maatregel van bestuur bepaalde termijn in het register vermeld en daarbij wordt indien bekend de aard van het vergrijp vermeld dat tot de aantekening heeft geleid.   
+5.  De in het eerste lid, onderdeel a tot en met j, en de in het tweede lid bedoelde aantekening wordt gedurende een bij algemene maatregel van bestuur bepaalde termijn in het register vermeld en daarbij wordt indien bekend de aard van het vergrijp vermeld dat tot de aantekening heeft geleid.   
 
 ### Artikel  10  
 
@@ -180,7 +184,7 @@ b. of ten aanzien van een ingeschrevene een bevel, inhoudende een beperking van 
 
 c. of met betrekking tot de ingeschrevene in het register een aantekening is opgenomen inzake een berisping, met, zo dit het geval is, onder vermelding van de aard van het vergrijp dat tot de oplegging van de berisping heeft geleid;  
 
-d. of met betrekking tot de ingeschrevene in het register een aantekening is opgenomen inzake een opgelegde geldboete, met, zo dit het geval is, onder vermelding van de aard van het vergrijp dat tot de oplegging van de berisping heeft geleid;  
+d. of met betrekking tot de ingeschrevene in het register een aantekening is opgenomen inzake een opgelegde geldboete, met, zo dit het geval is, onder vermelding van de aard van het vergrijp dat tot de oplegging van de geldboete heeft geleid;  
 
 e. of de inschrijving van een persoon in een register geschorst is;  
 
@@ -235,7 +239,7 @@ e. de organisatie kent tevens een orgaan dat is belast met
 5.  Inschrijving in een erkend specialistenregister is niet afhankelijk van het lidmaatschap van de organisatie.   
 6.  Inschrijving in een erkend specialistenregister is uitsluitend mogelijk voor personen die in het betrokken register zijn ingeschreven.   
 7.  Aan een ieder die zulks verlangt wordt door de beheerder van een erkend specialistenregister meegedeeld of een persoon in het specialistenregister is ingeschreven.   
-8.  Onze Minister kan een orgaan als bedoeld in het tweede lid, onder d, met betrekking tot de in dit artikel bedoelde taken in verband met bindende besluiten van de Europese Gemeenschap alsmede ter bevordering van de goede uitoefening van de individuele gezondheidszorg aanwijzingen van algemene aard geven. Alvorens daartoe over te gaan hoort hij het betrokken orgaan. Een aanwijzing kan niet inhouden dat een specialistenregister voor een bepaald deelgebied tot stand dient te worden gebracht.   
+8.  Onze Minister kan een orgaan als bedoeld in het tweede lid, onder d, met betrekking tot de in dit artikel bedoelde taken in verband met bindende besluiten van de Europese Gemeenschap alsmede ter bevordering van de goede uitoefening van de individuele gezondheidszorg aanwijzingen geven. Alvorens daartoe over te gaan hoort hij het betrokken orgaan. Een aanwijzing kan niet inhouden dat een specialistenregister voor een bepaald deelgebied tot stand dient te worden gebracht. Een aanwijzing heeft geen betrekking op een individuele specialist, opleidingsinstelling of opleider.   
 9.  Onze Minister kan een op grond van het eerste lid genomen besluit intrekken indien niet meer wordt voldaan aan het bepaalde in dit artikel.   
 10.  Het orgaan, bedoeld in het tweede lid, onder d, verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 11.  De Kaderwet zelfstandige bestuursorganen is van toepassing op een orgaan als bedoeld in het tweede lid, onder e, voor zover dit orgaan werkzaamheden uitoefent met betrekking tot een erkend specialistenregister. In afwijking van de eerste volzin is artikel 22 van de Kaderwet zelfstandige bestuursorganen niet van toepassing, voor zover het besluiten betreft ter zake van de inschrijving.   
@@ -362,7 +366,7 @@ Om in het desbetreffende register als verloskundige te kunnen worden ingeschreve
 
 ### Artikel  31  
 
-Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het gebied van de verloskunst alsmede het verrichten van bij de maatregel te omschrijven andere handelingen, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Bij of krachtens de maatregel kunnen geneesmiddelen worden aangewezen waarvan het voorschrijven tot het deskundigheidsgebied van de verloskundige behoort en kan apparatuur worden aangewezen waarvan het gebruik tot het deskundigheidsgebied van de verloskundige behoort.  
+Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het gebied van de verloskunst alsmede het verrichten van bij de maatregel te omschrijven andere handelingen, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Bij of krachtens de maatregel kunnen geneesmiddelen of medische hulpmiddelen worden aangewezen waarvan het voorschrijven, toedienen onderscheidenlijk toepassen tot het deskundigheidsgebied van de verloskundige behoort en kan apparatuur worden aangewezen waarvan het gebruik tot het deskundigheidsgebied van de verloskundige behoort.  
 
 ### §  8  
 
@@ -465,9 +469,11 @@ d. verpleegkundigen, die behoren tot een ter bevordering van een goede uitoefeni
 
 1°. voor zover een onder a, b of c bedoelde beroepsbeoefenaar de diagnose heeft gesteld met betrekking tot de patiënt voor wie het geneesmiddel is bestemd,  
 
-2°. voor zover medische protocollen en standaarden ter zake van het voorschrijven van UR-geneesmiddelen worden gevolgd, en  
+2°. voor zover medische protocollen en standaarden ter zake van het voorschrijven van UR-geneesmiddelen worden gevolgd,  
 
-3°. binnen de bij de regeling te stellen beperkingen ten aanzien van de reikwijdte van de in de aanhef bedoelde bevoegdheid.       
+3°. binnen de bij de regeling te stellen beperkingen ten aanzien van de reikwijdte van de in de aanhef bedoelde bevoegdheid, en  
+
+4°. voor zover van die bevoegdheid een aantekening in het register is gemaakt.       
 15.  De personen, genoemd in het eerste tot en met het veertiende lid, zijn tot het verrichten van de desbetreffende handelingen uitsluitend bevoegd voor zover zij redelijkerwijs mogen aannemen dat zij beschikken over de bekwaamheid die vereist is voor het behoorlijk verrichten van die handelingen. De personen, genoemd in het eerste tot en met het veertiende lid, die niet voldoen aan het bepaalde in de eerste volzin, worden voor de toepassing van de artikelen 35, eerste lid, onder a, 38 en 39 aangemerkt als personen die hun bevoegdheid ontlenen aan het in dit artikel bepaalde.   
 16.  Het ontwerp van de ministeriële regeling, bedoeld in het veertiende lid, onder d, treedt niet eerder in werking dan vier weken nadat het ontwerp is overgelegd aan beide kamers der Staten-Generaal.   
 
@@ -726,7 +732,7 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 
 1.  Een regionaal tuchtcollege telt twee rechtsgeleerde leden van wie één tevens voorzitter is, alsmede, voor elk van de in artikel 47, tweede lid, aangegeven categorieën van aan tuchtrechtspraak onderworpen personen, drie leden-beroepsgenoten. Van het college maken mede deel uit plaatsvervangende rechtsgeleerde leden, benevens voor elk van de in de eerste volzin bedoelde categorieën, plaatsvervangende leden-beroepsgenoten.   
 2.  Aan de behandeling van een zaak wordt deelgenomen door de voorzitter, door het andere rechtsgeleerde lid en door de drie leden-beroepsgenoten, benoemd voor de categorie waartoe degene over wie is geklaagd, behoort, een en ander met de mogelijkheid van plaatsvervanging. In afwijking van het bepaalde in de eerste volzin kan de voorzitter bepalen dat aan de behandeling van een zaak die hem daartoe geschikt voorkomt, wordt deelgenomen door de voorzitter en door twee leden-beroepsgenoten, benoemd voor de categorie waartoe degene over wie is geklaagd, behoort, een en ander met de mogelijkheid van plaatsvervanging. Indien de zaak naar het oordeel van een van deze leden ongeschikt is voor behandeling overeenkomstig het bepaalde in de tweede volzin, wordt de behandeling voortgezet met toepassing van de eerste volzin.   
-3.  De voorzitter en zijn plaatsvervanger of zijn plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Ministers voor het leven benoemd. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie is te hunnen aanzien van overeenkomstige toepassing.   
+3.  De voorzitter en zijn plaatsvervanger of zijn plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Ministers voor het leven benoemd. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. Artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren is te hunnen aanzien van overeenkomstige toepassing.   
 4.  De overige leden en plaatsvervangende leden worden bij koninklijk besluit op voordracht van Onze Minister voor de tijd van zes jaar benoemd. Zij zijn herbenoembaar. Op hun verzoek wordt hun bij koninklijk besluit tussentijds ontslag verleend. Hun wordt in ieder geval ontslag verleend met het bereiken van de zeventigjarige leeftijd. Artikel 48, eerste lid, van de Wet op de rechterlijke organisatie is ten aanzien van de in de eerste volzin bedoelde personen, voor zover zij rechtsgeleerden zijn, van overeenkomstige toepassing. De leden-beroepsgenoten en de plaatsvervangende leden-beroepsgenoten worden benoemd uit personen die ingeschreven staan in het desbetreffende register.   
 5.  Het college heeft een secretaris en één of meer plaatsvervangende secretarissen, allen rechtsgeleerden. Zij worden bij koninklijk besluit op voordracht van Onze Ministers benoemd, geschorst en ontslagen.   
 

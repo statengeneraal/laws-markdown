@@ -120,11 +120,11 @@ Het niveau dat moet worden ingevuld, is het niveau van de kwalificatie, bijvoorb
 
 ####Naam examenkandidaat
 
-Op het diploma wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ de officiële voornaam en de officiële achternaam van de examenkandidaat opgenomen, zoals deze staan vermeld in de gemeentelijke basisadministratie. De officiële namen worden volledig uitgeschreven.  
+Op het diploma wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ de officiële voornaam en de officiële achternaam van de examenkandidaat opgenomen, zoals deze staan vermeld in de basisregistratie personen. De officiële namen worden volledig uitgeschreven.  
 
 ####Geboortedatum en -plaats
 
-Achter ‘geboren’ wordt de geboortedatum vermeld en achter ‘te’ de geboorteplaats, zoals deze staan vermeld in de gemeentelijke basisadministratie. Indien de geboorteplaats buiten Nederland ligt, wordt achter de geboorteplaats het geboorteland vermeld. Indien de geboorteplaats niet bekend is, wordt alleen het geboorteland vermeld.  
+Achter ‘geboren’ wordt de geboortedatum vermeld en achter ‘te’ de geboorteplaats, zoals deze staan vermeld in de basisregistratie personen. Indien de geboorteplaats buiten Nederland ligt, wordt achter de geboorteplaats het geboorteland vermeld. Indien de geboorteplaats niet bekend is, wordt alleen het geboorteland vermeld.  
 
 ####Naamsvermelding instelling
 

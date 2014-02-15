@@ -34,15 +34,15 @@ Het hoofd, bedoeld in artikel 1 van de wet, draagt zorg voor een administratie v
 
 ####Verantwoordelijkheid burgemeester en wethouders
 
-1.  Burgemeester en wethouders dragen zorg voor een administratie van de leerlingen die als ingezetenen in de basisadministratie persoonsgegevens zijn ingeschreven.   
-2.  Indien een leerling als ingezetene in de basisadministratie persoonsgegevens van een andere gemeente is ingeschreven, zenden burgemeester en wethouders van de gemeente waarin deze als ingezetene in de basisadministratie persoonsgegevens was ingeschreven de administratieve gegevens van de desbetreffende leerling aan de eerstbedoelde gemeente.   
+1.  Burgemeester en wethouders dragen zorg voor een administratie van de leerlingen die als ingezetenen met een adres in de gemeente in de basisregistratie personen zijn ingeschreven.   
+2.  Indien van een leerling in de basisregistratie personen een adres in een andere gemeente wordt opgenomen, zenden burgemeester en wethouders van de gemeente waar de leerling laatstelijk zijn adres had de administratieve gegevens van de leerling aan die andere gemeente.   
 
 ### Artikel  4  
 
 ####Kennisgevingen
 
 1.  De kennisgevingen, bedoeld in de artikelen 18, eerste lid, en 21 van de wet, dienen te geschieden ten aanzien van de leerlingen.   
-2.  De kennisgevingen, bedoeld in artikel 18 van de wet, worden gezonden aan burgemeester en wethouders van de gemeente waar de leerling als ingezetene in de basisadministratie persoonsgegevens is ingeschreven.   
+2.  De kennisgevingen, bedoeld in artikel 18 van de wet, worden gezonden aan burgemeester en wethouders van de gemeente waar de leerling als ingezetene met een adres in de basisregistratie personen is ingeschreven.   
 3.  Bij de kennisgeving van de inschrijving, bedoeld in artikel 18 van de wet, vermeldt het hoofd van de instelling hoeveel dagen per week en op welke dagen van de week de partieel leerplichtige leerling het onderwijs zal volgen.   
 
 ### Artikel  5  

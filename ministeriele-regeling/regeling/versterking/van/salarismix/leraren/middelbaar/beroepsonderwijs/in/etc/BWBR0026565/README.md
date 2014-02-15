@@ -49,7 +49,7 @@ o. *bevoegd gezag:* bevoegd gezag van een instelling, bedoeld in artikel 1.1.1, 
 
 p. *Randstadregio’s:* verzameling van gemeenten als opgenomen in bijlage 1 bij deze regeling;  
 
-q. *GBA:* gemeentelijke basisadministratie van persoonsgegevens;  
+q. *BRP:* basisregistratie personen;  
 
 r. *Convenant Leerkracht van Nederland:* tripartiete afspraken tussen de minister en de sociale partners voor de sector Beroepsonderwijs en Volwasseneneducatie vastgelegd op 10 december 2008 (Stcrt. 2009, 42);  
 
@@ -92,7 +92,7 @@ f. Indien de sector in 2011 de tussendoelen als bedoeld in artikel 2, tweede lid
 
 De aanvullende bekostiging wordt slechts verstrekt aan het bevoegd gezag van een instelling indien: 
 
-a. op 1/10/2007 minimaal 20% van het ongewogen totaal aantal deelnemers of 20% van het ongewogen totaal aantal leerlingen van de instelling volgens het GBA woonachtig in de Randstadregio’s is; en  
+a. op 1/10/2007 minimaal 20% van het ongewogen totaal aantal deelnemers of 20% van het ongewogen totaal aantal leerlingen van de instelling volgens de BRP woonachtig in de Randstadregio’s is; en  
 
 b. de instelling de verplichte personeelsgegevens, bedoeld in artikel 1 onder s, tijdig, volledig en rechtstreeks aan het Ministerie van OCW heeft geleverd.    
 
@@ -108,8 +108,8 @@ b. de instelling de verplichte personeelsgegevens, bedoeld in artikel 1 onder s,
 
 ####Berekening aanvullende bekostiging
 
-1.  De aanvullende bekostiging, bedoeld in artikel 4, eerste lid, wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen, bedoeld in artikel 3, verdeeld naar rato van het aantal deelnemers van een in aanmerking komend bevoegd gezag dat volgens het GBA woonachtig is binnen de Randstadregio’s op het totaal aantal volgens het GBA in de Randstadregio’s woonachtige deelnemers van alle in aanmerking komende bevoegde gezagsorganen. Voor het bepalen van deze deelnemersaantallen vormt de teldatum van 1/10/2007 het uitgangspunt.   
-2.  De aanvullende bekostiging, bedoeld in artikel 4, tweede lid, wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen, bedoeld in artikel 3, verdeeld naar rato van het aantal leerlingen van een in aanmerking komend bevoegd gezag dat volgens het GBA woonachtig is binnen de Randstadregio’s op het totaal aantal volgens het GBA in de Randstadregio’s woonachtige leerlingen van alle in aanmerking komende bevoegde gezagsorganen. Voor het bepalen van deze leerlingaantallen vormt de teldatum van 1/10/2007 het uitgangspunt.   
+1.  De aanvullende bekostiging, bedoeld in artikel 4, eerste lid, wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen, bedoeld in artikel 3, verdeeld naar rato van het aantal deelnemers van een in aanmerking komend bevoegd gezag dat volgens de BRP woonachtig is binnen de Randstadregio’s op het totaal aantal volgens de BRP in de Randstadregio’s woonachtige deelnemers van alle in aanmerking komende bevoegde gezagsorganen. Voor het bepalen van deze deelnemersaantallen vormt de teldatum van 1/10/2007 het uitgangspunt.   
+2.  De aanvullende bekostiging, bedoeld in artikel 4, tweede lid, wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen, bedoeld in artikel 3, verdeeld naar rato van het aantal leerlingen van een in aanmerking komend bevoegd gezag dat volgens de BRP woonachtig is binnen de Randstadregio’s op het totaal aantal volgens de BRP in de Randstadregio’s woonachtige leerlingen van alle in aanmerking komende bevoegde gezagsorganen. Voor het bepalen van deze leerlingaantallen vormt de teldatum van 1/10/2007 het uitgangspunt.   
 3.  Bij de berekening van de omvang van de aanvullende bekostiging voor een in aanmerking komend bevoegd gezag wordt bij de in de Randstadregio’s woonachtige deelnemers onderscheid gemaakt naar voltijd- en deeltijd deelnemers, waarbij voltijddeelnemers en vbo-groen leerlingen met factor 1 en deeltijddeelnemers met factor 0,3 gewogen worden.   
 4.  Indien een bevoegd gezag dat voor wat betreft de deelnemers voldoet aan het gestelde in artikel 3 in totaal minder dan 5.000 deelnemers heeft, dan tellen alle bij die instelling ingeschreven deelnemers, ongeacht woonplaats, mee bij de berekening van de omvang van de aanvullende bekostiging op grond van artikel 4, eerste lid. Eventuele vbo-groen leerlingen worden bij de bepaling van de omvang niet meegerekend.   
 5.  De aanvullende bekostiging van een op grond van artikel 3 in aanmerking komend bevoegd gezag wordt berekend op grond van de volgende formule: X<sub></sub>= A <sub>1</sub> * (DDR <sub>i</sub> * 0,3 + VDR <sub>i</sub> * 1) / DRT +<sub></sub>A <sub>2</sub> * (LLR <sub>i</sub> /<sub></sub>LLRT) . De definitie van de verschillende componenten uit deze formule is als volgt: 

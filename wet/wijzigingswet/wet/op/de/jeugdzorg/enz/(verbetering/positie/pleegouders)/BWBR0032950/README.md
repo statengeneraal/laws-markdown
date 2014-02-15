@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de positie van pleegouders te verbeteren en dat daartoe de [Wet op de jeugdzorg](../../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de [Algemene Kinderbijslagwet](../../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de [Wet Landelijk Bureau Inning Onderhoudsbijdragen](../../../../../../../../../../../wet/wet/landelijk/bureau/inning/onderhoudsbijdragen/BWBR0007292/README.md) en enige andere wetten dienen te worden gewijzigd;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de positie van pleegouders te verbeteren en dat daartoe de Wet op de jeugdzorg, Boek 1 van het Burgerlijk Wetboek, de Algemene Kinderbijslagwet, de Wet Landelijk Bureau Inning Onderhoudsbijdragen en enige andere wetten dienen te worden gewijzigd;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -19,23 +19,23 @@ Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ### Artikel  III  
 
-Wijzigt de Algemene Kinderbijslagwet.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.   Wijzigt de Algemene Kinderbijslagwet.   
 
 ### Artikel  IV  
 
-Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.   Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.   
 
 ### Artikel  V  
 
-Wijzigt de Uitvoeringswet internationale kinderbescherming.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.   Wijzigt de Uitvoeringswet internationale kinderbescherming.   
 
 ### Artikel  VI  
 
-Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.   Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.   
 
 ### Artikel  VII  
 
-Op een ouderbijdrage die door het Landelijk Bureau Inning Onderhoudsbijdragen is vastgesteld op een tijdstip voor inwerkingtreding van deze wet blijft [hoofdstuk XIII van de Wet op de jeugdzorg](../../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) zoals dat tot de datum van inwerkingtreding van deze wet luidde van toepassing.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.  Op een ouderbijdrage die door het Landelijk Bureau Inning Onderhoudsbijdragen is vastgesteld op een tijdstip voor inwerkingtreding van deze wet blijft hoofdstuk XIII van de Wet op de jeugdzorg zoals dat tot de datum van inwerkingtreding van deze wet luidde van toepassing.  
 
 ### Artikel  VIII  
 
@@ -51,7 +51,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ### Artikel  XI  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.   Wijzigt de Wet inkomstenbelasting 2001.   
 
 ### Artikel  XII  
 

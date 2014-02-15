@@ -133,16 +133,16 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de wet waarbij d
 
 ### Artikel  12  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van een bevel als bedoeld in artikel 12a, en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting.  
+De ambtenaren van het Staatstoezicht op de volksgezondheid zijn bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van een bevel als bedoeld in artikel 12a, en de bij artikel 5:20, eerste lid, van de Algemene wet bestuursrecht gestelde verplichting.  
 
 ### Artikel  12a  
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, ter voorkoming van schade aan de volksgezondheid, bevoegd een bevel te geven om de handel, invoer of aflevering van een medisch hulpmiddel op te schorten of te beëindigen.  
+De ambtenaren van het Staatstoezicht op de volksgezondheid zijn, ter voorkoming van schade aan de volksgezondheid, bevoegd een bevel te geven om de handel, invoer, uitvoer of aflevering van een medisch hulpmiddel op te schorten of te beëindigen, alsmede om een medisch hulpmiddel uit de handel te laten nemen.  
 
 ### Artikel  13  
 
-1.  Hij die een voorwerp - al dan niet zijnde een medisch hulpmiddel - aanprijst als zijnde geschikt voor een der in artikel 1, eerste lid, onder *a*, sub 1°-3°, aangegeven functies, terwijl hij weet of redelijkerwijs moet vermoeden, dat de aangeprezen geschiktheid ontbreekt of de werkelijke geschiktheid in ernstige mate bij de aangeprezene achterblijft, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
-2.  Met gelijke straf wordt gestraft hij die een voorwerp - al dan niet zijnde een medisch hulpmiddel -, dat op de verpakking of op een daarbijgevoegd geschrift wordt aangeprezen als zijnde geschikt voor een der in artikel 1, eerste lid, onder *a*, sub 1°-3°, aangegeven functies, verkoopt, ten verkoop aanbiedt, aflevert, verhuurt of in gebruik afstaat, terwijl hij weet of redelijkerwijs moet vermoeden, dat de aangeprezen geschiktheid ontbreekt of de werkelijke geschiktheid in ernstige mate bij de aangeprezene achterblijft.   
+1.  Hij die een voorwerp - al dan niet zijnde een medisch hulpmiddel - aanprijst als zijnde geschikt voor een der in artikel 1, eerste lid, onder a, aangegeven functies, terwijl hij weet of redelijkerwijs moet vermoeden, dat de aangeprezen geschiktheid ontbreekt of de werkelijke geschiktheid in ernstige mate bij de aangeprezene achterblijft, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
+2.  Met gelijke straf wordt gestraft hij die een voorwerp - al dan niet zijnde een medisch hulpmiddel -, dat op de verpakking of op een daarbijgevoegd geschrift wordt aangeprezen als zijnde geschikt voor een der in artikel 1, eerste lid, onder a, aangegeven functies, verkoopt, ten verkoop aanbiedt, aflevert, verhuurt of in gebruik afstaat, terwijl hij weet of redelijkerwijs moet vermoeden, dat de aangeprezen geschiktheid ontbreekt of de werkelijke geschiktheid in ernstige mate bij de aangeprezene achterblijft.   
 3.  De in de voorgaande leden strafbaar gestelde feiten zijn misdrijven.   
 
 ### Artikel  14  
@@ -151,8 +151,8 @@ Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,�
 
 ### Artikel  15  
 
-1.  [Artikel 1 van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) wordt aldus gewijzigd dat handelen of nalaten in strijd met de voorschriften gesteld bij of krachtens de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, 9, eerste en derde lid, en 12, eerste lid, van de Wet op de medische hulpmiddelen een economisch delict oplevert, dat als overtreding als bedoeld in [artikel 6, eerste lid, onder 4°, van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) wordt gekwalificeerd.   
-2.  Onze Minister van Justitie is belast met de aanpassing van [artikel 1 van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) overeenkomstig het in het vorige lid bepaalde. De hiertoe strekkende beschikking wordt in het *Staatsblad* geplaatst.   
+1.  Artikel 1 van de Wet op de economische delicten wordt aldus gewijzigd dat handelen of nalaten in strijd met de voorschriften gesteld bij of krachtens de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, 9, eerste en derde lid, en 12, eerste lid, van de Wet op de medische hulpmiddelen een economisch delict oplevert, dat als overtreding als bedoeld in artikel 6, eerste lid, onder 4°, van de Wet op de economische delicten wordt gekwalificeerd.   
+2.  Onze Minister van Justitie is belast met de aanpassing van artikel 1 van de Wet op de economische delicten overeenkomstig het in het vorige lid bepaalde. De hiertoe strekkende beschikking wordt in het *Staatsblad* geplaatst.   
 
 ### Artikel  16  
 

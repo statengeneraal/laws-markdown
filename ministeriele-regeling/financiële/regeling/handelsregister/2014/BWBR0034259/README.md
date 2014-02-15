@@ -186,6 +186,10 @@ c. voor een overzicht verstrekt via de downloadservice van de Kamer van Koophand
 
 De kosten van het accountantsonderzoek, bedoeld in [artikel 41, eerste lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden voor de helft vergoed door de Minister van Economische Zaken, tot een maximum van € 15.000,–.  
 
+### Artikel  4a  
+
+De inschrijfvergoeding, bedoeld in [artikel 1, eerste lid, van het Financieel besluit handelsregister 2014](../../../../../../AMvB/financieel/besluit/handelsregister/2014/BWBR0034829/README.md), bedraagt € 50,00.  
+
 ### Artikel  5  
 
 De [Financiële regeling handelsregister 2013](../../../../../../ministeriele-regeling/financiële/regeling/handelsregister/2013/BWBR0032169/README.md) wordt ingetrokken.  
