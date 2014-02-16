@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Vee en Vlees van 31 oktober 2012, houdende vaststelling van de aan de onder het productschap ressorterende ondernemers op te leggen huishoudelijke heffing voor het jaar 2013 (Verordening huishoudelijke heffingen (PVV) 2013)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
+Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
 
-Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
+Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
 Besluit:     
 ### 1  
 
@@ -16,10 +16,10 @@ Materieel uitgewerkt per 01-01-2014
 ### Artikel  1   
 Materieel uitgewerkt per 01-01-2014   
 
-Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | a. lidstaat  | :  | lidstaat van de Europese Unie, niet zijnde Nederland;  |
 | b. handelsverkeer  | :  | handelsverkeer tussen lidstaten en Nederland;  |
 | c. derde land  | :  | staat, niet zijnde een lidstaat van de Europese Unie;  |
@@ -50,11 +50,11 @@ c. € 1,00 per kalf Z, waarvan € 0,04 niet als zodanig in mindering mag worde
 
 d. € 0,41 per jong kalf, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
-e. € 0,09 per varken, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
+e. € 0,00 per varken, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
-f. € 0,09 per zeug, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
+f. € 0,00 per zeug, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
-g. € 0,09 per big, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
+g. € 0,00 per big, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
 h. € 0,30 per schaap, waarvan € 0,02 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;  
 
@@ -83,7 +83,7 @@ Materieel uitgewerkt per 01-01-2014
 a. De ondernemingen worden als volgt ingedeeld:  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Groep I  | : ondernemingen die de handel in runderen uitoefenen;  |
 | Groep II  | : ondernemingen die de handel in varkens uitoefenen;  |
 | Groep III  | : ondernemingen die de handel in paardachtigen uitoefenen;  |
@@ -94,7 +94,7 @@ b. Naast de indeling in groepen als vermeld onder a., worden de ondernemingen in
 4.  De heffing bedraagt voor ondernemingen, die zijn ingedeeld in:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | Groep I  | :  | € 239,-  |
 | Groep II  | :  | € 239,-  |
 | Groep III  | :  | € 195,-  |
@@ -125,7 +125,7 @@ b. Als in de onderneming werkzame personen als bedoeld in het eerste onderdeel w
 6.  De toeslag heffing bedraagt per onderneming bij:  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | 2 personen werkzaam in de onderneming  | :  | € 113,-  |
 | 3 of 4 personen werkzaam in de onderneming  | :  | € 143,-  |
 | 5 t/m 9 personen werkzaam in de onderneming  | :  | € 227,-  |
@@ -142,7 +142,7 @@ Materieel uitgewerkt per 01-01-2014
 
 1.  Aan de ondernemer bedoeld in de artikelen 3 en 4, die voor het jaar 2013 contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing, met uitzondering van de toeslag heffing, verschuldigde bedrag.   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
 4.  Van het op grond van de indeling van de heffingsplichtige onderneming in een of meer van de in artikel 3, tweede lid, genoemde groepen, als heffing te betalen bedrag, wordt slechts aftrek als bedoeld in het eerste lid van dit artikel toegestaan ten aanzien van die groep of groepen, waarin de betreffende ondernemersorganisatie waaraan contributie is betaald, werkzaam is.   
 
 ### Artikel  6   
@@ -164,7 +164,7 @@ Materieel uitgewerkt per 01-01-2014
 1.  De ondernemer die een onderneming drijft waarin de vleeswaren- en vleesconservenindustrie of de baconindustrie wordt uitgeoefend, is over het kalenderjaar 2013 een heffing verschuldigd over de in het jaar 2012 behaalde omzet, volgens het navolgende tarief:  
 
 | Omzet  | Tarief  |
-|---|---|
+|:---|:---|
 | Vanaf  | € 0,-  | tot en met  | € 45.379,-  | € 390,-  |
 | Vanaf  | € 45.380,-  | tot en met  | € 225.000,-  | € 600,-  |
 | Vanaf  | € 225.001,-  | tot en met  | € 450.000,-  | € 743,-  |
@@ -187,7 +187,7 @@ Materieel uitgewerkt per 01-01-2014
 
 1.  Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening.   
 2.  De aftrek beloopt 50% van het bedrag dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald, tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing op grond van deze verordening.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
 
 ### 5  
 
@@ -207,7 +207,7 @@ Materieel uitgewerkt per 01-01-2014
 
 1.  Aan de ondernemer, bedoeld in artikel 9, die voor het jaar 2013 contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening.   
 2.  De aftrek beloopt 50% van het bedrag dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald, tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing op grond van deze verordening.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
 
 ### 6  
 
@@ -218,7 +218,7 @@ Materieel uitgewerkt per 01-01-2014
 ### Artikel  11   
 Materieel uitgewerkt per 01-01-2014   
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).  
 
 ### 7  
 
