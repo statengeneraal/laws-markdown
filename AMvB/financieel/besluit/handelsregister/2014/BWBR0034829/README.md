@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Een onderneming of rechtspersoon die een opgave doet tot eerste inschrijving in het handelsregister, is daarvoor eenmalig een inschrijfvergoeding verschuldigd.   
-2.  Bij ministeriële regeling wordt het bedrag vastgesteld van de inschrijfvergoeding, bedoeld in het eerste lid. De hoogte van de inschrijfvergoeding is gelijk voor alle ondernemingen of rechtspersonen, ongeacht de rechtsvorm van de onderneming of rechtspersoon en de wijze waarop opgave wordt gedaan.   
+2.  Bij ministeriële regeling wordt het bedrag vastgesteld van de inschrijfvergoeding, bedoeld in het eerste lid. De hoogte van de inschrijfvergoeding is gelijk voor alle ondernemingen of rechtspersonen, ongeacht de rechtsvorm van de onderneming of rechtspersoon en de wijze waarop opgave wordt gedaan.  
 
 ### Artikel  2  
 
@@ -42,26 +42,26 @@ c. het doen van een schriftelijke mededeling over hetgeen in het handelsregister
 d. het verstrekken van een papieren uittreksel;  
 
 e. het verstrekken van een elektronisch gewaarmerkt uittreksel.     
-3.  Bij ministeriële regeling wordt de vergoeding vastgesteld die verschuldigd is voor overzichten van ondernemingen of rechtspersonen. De vergoeding wordt vastgesteld onderscheiden naar het aantal en de soort gegevens.   
+3.  Bij ministeriële regeling wordt de vergoeding vastgesteld die verschuldigd is voor overzichten van ondernemingen of rechtspersonen. De vergoeding wordt vastgesteld onderscheiden naar het aantal en de soort gegevens.  
 
 ### Artikel  3  
 
 1.  Indien de opgave ter eerste inschrijving in het handelsregister wordt gedaan ten kantore van de Kamer van Koophandel, is de betalingstermijn, bedoeld in [artikel 49, vijfde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), gelijk aan de termijn van de opgave tot eerste inschrijving.   
 2.  Indien de opgave ter eerste inschrijving in het handelsregister wordt ingediend via een notaris, wordt de betalingstermijn, bedoeld in [artikel 49, vijfde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) vastgesteld op vier weken, gerekend vanaf de dag van de opgave tot eerste inschrijving.   
 3.  De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), is gelijk aan de termijn voor de levering van de dienst, genoemd in artikel 2, eerste lid, onderdelen a, b en e, en het tweede lid.   
-4.  De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) wordt vastgesteld op vier weken voor de diensten en producten, genoemd in artikel 2, eerste lid, onderdelen c en d, en het derde lid.   
+4.  De betalingstermijn, bedoeld in [artikel 50, vierde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) wordt vastgesteld op vier weken voor de diensten en producten, genoemd in artikel 2, eerste lid, onderdelen c en d, en het derde lid.  
 
 ### Artikel  4  
 
-Het [Financieel besluit handelsregister](../../../../../../AMvB/financieel/besluit/handelsregister/BWBR0024062/README.md) wordt ingetrokken.  
+Het [Financieel besluit handelsregister](../../../../../../AMvB/financieel/besluit/handelsregister/BWBR0024062/README.md) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 15 februari 2014.  
+Dit besluit treedt in werking met ingang van 15 februari 2014. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Financieel besluit handelsregister 2014.  
+Dit besluit wordt aangehaald als: Financieel besluit handelsregister 2014. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -69,10 +69,10 @@ Wassenaar
 11 februari 2014  
 Willem-Alexander  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
 de *veertiende* februari 2014 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
