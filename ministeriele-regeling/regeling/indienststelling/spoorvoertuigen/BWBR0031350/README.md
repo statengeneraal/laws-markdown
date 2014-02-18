@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 5 maart 2012, nr. IENM/BSK-2012/28591, houdende vaststelling van regels met betrekking tot de indienststelling van spoorvoertuigen op hoofdspoorweginfrastructuur (Regeling indienststelling spoorvoertuigen)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2008/57/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191), richtlijn nr. 2008/110/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 345) tot wijziging van richtlijn nr. 2004/49/EG inzake de veiligheid op de communautaire spoorwegen, artikel 36, derde lid, onderdelen b, c en e, en tiende lid, artikel 37, vierde lid, artikel 37a, vierde en vijfde lid, artikel 38, vierde lid, artikel 46, tweede en vijfde lid, en artikel 91, eerste lid, van de Spoorwegwet en artikel 39b, eerste en tweede lid, van het Besluit spoorverkeer;
+Gelet op richtlijn nr. 2008/57/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU L 191), richtlijn nr. 2008/110/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 345) tot wijziging van richtlijn nr. 2004/49/EG inzake de veiligheid op de communautaire spoorwegen, [artikel 36, derde lid, onderdelen b, c en e, en tiende lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 37, vierde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 37a, vierde en vijfde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 38, vierde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 46, tweede en vijfde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [artikel 91, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [artikel 39b, eerste en tweede lid, van het Besluit spoorverkeer](../../../../../AMvB/besluit/spoorverkeer/BWBR0017624/README.md);
 Besluit:     
 ### §  1  
 
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 *rail-wegvoertuigen:* voertuigen die zowel op het spoor als op de weg kunnen rijden;  
 
-*richtlijn 2004/26:*richtlijn nr. 2004/26/EG van het Europees Parlement en de Raad van de Europese Gemeenschappen van 21 april 2004 tot wijziging van Richtlijn 97/68/EG betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige-verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG L 146);  
+*richtlijn 97/68/EG:* Richtlijn 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1997, L 59);  
 
 *richtlijn 2004/49:* richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van Richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEU L 164);  
 
@@ -81,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 *wagen:* spoorvoertuig zonder eigen voortbewegingsinrichting bestemd voor het vervoer van goederen;  
 
-*wet:*Spoorwegwet.    
+*wet:*[Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).    
 
 ### Artikel  2  
 
@@ -358,7 +358,7 @@ b. U <sub>2</sub> = 1350V;
 
 c. I <sub>max (trein)</sub> = 4000A; en  
 
-d. de onderspanningsinrichting is afgesteld op 950V.     ![]()
+d. de onderspanningsinrichting is afgesteld op 950V.     ![249945](http://wetten.overheid.nl/Illustration/249945)
 
 ### Artikel  20  
 
@@ -385,7 +385,7 @@ a. ten behoeve van het uitvoeren van de compatibiliteitstudie de gegevens confor
 b. verdere uitvoering van de compatibiliteitsstudie niet noodzakelijk is indien de harmonische stroomemissie op treinniveau niet hoger is dan de waarde I <sub>h</sub> in de onderstaande tabel.    
 
 | f (Hz)  | I <sub>h</sub> (%)  | f (Hz)  | I <sub>h</sub> (%)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 100  | 5,63  | 1350  | 0,25  |
 | 150  | 5,00  | 1400  | 0,08  |
 | 200  | 1,88  | 1450  | 0,23  |
@@ -443,7 +443,7 @@ Spoorvoertuigen die gebruik maken van grensbaanvakken met België voldoen aan de
 
 ### Artikel  25  
 
-De aanvrager voor een inschrijving in het register, bedoeld in artikel 37, tweede lid, van de wet, voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG.  
+De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG.  
 
 ### §  6  
 
@@ -460,24 +460,24 @@ De aanvrager voor een inschrijving in het register, bedoeld in artikel 37, tweed
 
 ### Artikel  27  
 
-1.  Bij de aanvraag voor een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet worden in ieder geval de EG-keuringsverklaring en de verklaring van een aangemelde instantie of een keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet, gevoegd.   
-2.  Bij de aanvraag voor een aanvullende vergunning van indienststelling als bedoeld in artikel 36, vijfde lid, van de wet worden in ieder geval bijgevoegd: 
+1.  Bij de aanvraag voor een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) worden in ieder geval de EG-keuringsverklaring en de verklaring van een aangemelde instantie of een keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet, gevoegd.   
+2.  Bij de aanvraag voor een aanvullende vergunning van indienststelling als bedoeld in [artikel 36, vijfde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) worden in ieder geval bijgevoegd: 
 
 a. de bewijsstukken dat in een andere staat een vergunning voor indienststelling is verleend; en  
 
-b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in artikel 36, zevende lid, van de wet.     
-3.  Een aanvraag voor een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet respectievelijk van een aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder in behandeling genomen dan na betaling van het voor het daarvoor verschuldigde tarief.   
-4.  Een vergunning voor indienststelling als bedoeld in artikel 36, derde lid, van de wet respectievelijk een aanvullende vergunning voor indienststelling, als bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder verstrekt dan na betaling van het daarvoor verschuldigde tarief.   
+b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in [artikel 36, zevende lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+3.  Een aanvraag voor een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk van een aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder in behandeling genomen dan na betaling van het voor het daarvoor verschuldigde tarief.   
+4.  Een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk een aanvullende vergunning voor indienststelling, als bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder verstrekt dan na betaling van het daarvoor verschuldigde tarief.   
 5.  Bij toepassing van artikel 3 worden de bij het subsysteem behorende parameters, bedoeld in het bijlage VII, punt 1 van richtlijn 2008/57/EG, ten behoeve van de vergunning voor indienststelling, respectievelijk aanvullende vergunning voor indienststelling geverifieerd.   
 
 ### Artikel  28  
 
-1.  Bij de aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet wordt de verklaring van de aangemelde instantie of de keuringsinstantie als bedoeld in artikel 37b, negende lid, van de wet, gevoegd.   
-2.  Bij de aanvraag voor een vergunning als bedoeld in artikel 37b, zesde lid, van de wet, wordt de verklaring van de keuringsinstantie dan wel aangemelde instantie, bedoeld in artikel 37b, negende lid, van de wet, gevoegd waaruit blijkt dat de vernieuwing of verbetering in overeenstemming met de eisen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur.   
-3.  Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet gevoegd.   
-4.  Een aanvraag voor een vergunning als bedoeld in artikel 37b, derde lid, van de wet, wordt niet eerder in behandeling genomen dan na betaling van het daarvoor verschuldigde tarief.   
-5.  Een aanvraag voor een vergunning als bedoeld in artikel 37b, zesde lid, van de wet, wordt niet eerder in behandeling dan na betaling van het daarvoor verschuldigde tarief.   
-6.  Een vergunning als bedoeld in artikel 37b, derde lid, respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.   
+1.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) wordt de verklaring van de aangemelde instantie of de keuringsinstantie als bedoeld in artikel 37b, negende lid, van de wet, gevoegd.   
+2.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt de verklaring van de keuringsinstantie dan wel aangemelde instantie, bedoeld in artikel 37b, negende lid, van de wet, gevoegd waaruit blijkt dat de vernieuwing of verbetering in overeenstemming met de eisen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur.   
+3.  Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) gevoegd.   
+4.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling genomen dan na betaling van het daarvoor verschuldigde tarief.   
+5.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling dan na betaling van het daarvoor verschuldigde tarief.   
+6.  Een vergunning als bedoeld in [artikel 37b, derde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.   
 
 ### §  8  
 
@@ -485,8 +485,8 @@ b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in ar
 
 ### Artikel  29  
 
-1.  Artikel 46, eerste lid, van de wet, geldt niet voor de spoorvoertuigen, bedoeld in artikel 2, tweede lid, van richtlijn 2004/49/EG.   
-2.  De eisen, bedoeld in artikel 46, vijfde lid, van de wet, zijn: 
+1.  [Artikel 46, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), geldt niet voor de spoorvoertuigen, bedoeld in artikel 2, tweede lid, van richtlijn 2004/49/EG.   
+2.  De eisen, bedoeld in [artikel 46, vijfde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn: 
 
 a. indien het een certificaat betreft voor een met onderhoud belaste entiteit: 
 
@@ -501,7 +501,7 @@ b. indien het een certificaat betreft voor een door een met onderhoud belaste en
 2˚. voor de functie van het beheer van de onderhoudsplanning, de eisen genoemd in bijlage III, onderdeel III, van verordening 445/2011; of  
 
 3˚. voor de functie van uitvoering van het onderhoud, de eisen genoemd in bijlage III, onderdeel IV, van verordening 445/2011.       
-3.  De eisen, bedoeld in artikel 48, tweede lid, van de wet, zijn de eisen van bijlage I, onder 2, van verordening 445/2011.   
+3.  De eisen, bedoeld in [artikel 48, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn de eisen van bijlage I, onder 2, van verordening 445/2011.   
 
 ### §  8a  
 
@@ -509,7 +509,7 @@ b. indien het een certificaat betreft voor een door een met onderhoud belaste en
 
 ### Artikel  29a  
 
-1.  Tot 1 juni 2017 voldoen in afwijking van deze regeling spoorvoertuigen die zijn ontwikkeld of vervaardigd op basis van een contract van vóór 1 april 2012 aan de Regeling keuring spoorvoertuigen zoals die luidde op 31 maart 2012 voor zover de voor die spoorvoertuigen geldende technische specificaties inzake interoperabiliteit niet voorzien in het onderwerp van die regeling en voor zover de in die technische specificaties inzake interoperabiliteit vervatte overgangsbepalingen zich daartegen niet verzetten. Dit is tevens van toepassing op verbeteringen of vernieuwingen als bedoeld in artikel 37b van de wet.   
+1.  Tot 1 juni 2017 voldoen in afwijking van deze regeling spoorvoertuigen die zijn ontwikkeld of vervaardigd op basis van een contract van vóór 1 april 2012 aan de [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) zoals die luidde op 31 maart 2012 voor zover de voor die spoorvoertuigen geldende technische specificaties inzake interoperabiliteit niet voorzien in het onderwerp van die regeling en voor zover de in die technische specificaties inzake interoperabiliteit vervatte overgangsbepalingen zich daartegen niet verzetten. Dit is tevens van toepassing op verbeteringen of vernieuwingen als bedoeld in [artikel 37b van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 2.  De minister kan het eerste lid op aanvraag buiten toepassing laten.   
 
 ### §  9  
@@ -518,11 +518,11 @@ b. indien het een certificaat betreft voor een door een met onderhoud belaste en
 
 ### Artikel  30  
 
-De Regeling keuring spoorvoertuigen wordt ingetrokken.  
+De [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) wordt ingetrokken.  
 
 ### Artikel  31  
 
-Deze regeling treedt in werking op het tijdstip waarop artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG (Stb. 218) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG](../../../../../wet/wijzigingswet/spoorwegwet/enz./(implementatie/richtlijn/200758eg/enz.)/BWBR0029963/README.md) (Stb. 218) in werking treedt.  
 
 ### Artikel  32  
 
@@ -755,7 +755,7 @@ Artikel 7, zevende lid, is van overeenkomstige toepassing.
 
 ####Verbrandingsmotoren
 
-Spoorvoertuigen die zijn voorzien van een eigen voortbewegingsinrichting door middel van verbrandingsmotoren voldoen aan richtlijn 2004/26.  
+Spoorvoertuigen die zijn voorzien van een eigen voortbewegingsinrichting door middel van verbrandingsmotoren voldoen aan richtlijn 97/68/EG.  
 
 ### 1.6  
 
@@ -823,7 +823,7 @@ a. er is een voorziening voor de stroomafname aanwezig die over het gehele spann
 
 b. door middel van een inrichting wordt bij overstroom de stroomtoevoer die door het spoorvoertuig zelf wordt veroorzaakt, automatisch en direct uitgeschakeld conform artikel 11.2 van EN 50388.    
 
-1.11.2. Indien spoorvoertuigen als bedoeld in onderdeel 1.11.1 tevens voorzien zijn van een recuperatie-inrichting, zorgt deze ervoor dat de recuperatie van de stroom automatisch stopt indien de recuperatiespanning lager wordt dan U6 als weergegeven in de volgende grafiek:   ![]()
+1.11.2. Indien spoorvoertuigen als bedoeld in onderdeel 1.11.1 tevens voorzien zijn van een recuperatie-inrichting, zorgt deze ervoor dat de recuperatie van de stroom automatisch stopt indien de recuperatiespanning lager wordt dan U6 als weergegeven in de volgende grafiek:   ![251243](http://wetten.overheid.nl/Illustration/251243)
 waarbij U6 = 1200 V, U8 <= 1950 V, Imax = 4000 A. De waarde U7 wordt zodanig gekozen dat een stabiele recuperatieregeling wordt verkregen.    
 
 ### 1.12  
@@ -943,7 +943,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Elektrische installatie
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Isolatiecoördinatie  | EN 50124  | --- |
 | b. Elektromagnetische compatibiliteit  | EN 50121-1  EN 50121-3-1  EN 50121-3-2  EN 50238  | --- |
 | c. Veiligheidsaarding  | UIC 533  |
@@ -960,7 +960,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Remsystemen
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Algemeen  | UIC 540  UIC 541-03  UIC 541-04  UIC 541-05  UIC 541-06  UIC 541-07  UIC 541-08  UIC 541-1  UIC 541-2  UIC 541-3  UIC 541-4  UIC 541-5  UIC 542  UIC 543  UIC 544-1 (3e editie van 1 januari 1966, herdruk van 1 juli 1985, inclusief 9 wijzigingsbladen van 1 januari 1985)  UIC 544-2  UIC 545  UIC 547  UIC 640  UIC 648  |
 | b. Componenten  | UIC 542  |
 | c. Hoog remvermogen  | UIC 546  | --- |
@@ -970,7 +970,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Deursystemen
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Algemeen  | --- | UIC 565-1  UIC 565-2  UIC 565-3  UIC 568  en punt 1.3 van deze bijlage  | --- | --- |
 | b. Reizigers instapdeuren en treden  | --- | EN 14752  | UIC 560  | --- | --- |
 | c. Overige deuren en handgrepen  | --- | UIC 560  | --- | --- |
@@ -981,7 +981,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Casco
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Cabine: instaptreden, handgrepen  | UIC 651  Opmerking voor rijtuigen: geldt alleen voor stuurstandrijtuigen.  | --- |
 | b. Aanbouwdelen, deuren, overgangsinrichting, handrail, ketels, schuifwanden  | UIC 646  | UIC 560  UIC 561  UIC 566  | UIC 646  | UIC 573  UIC 576  |
 | c. Opschriften  | UIC 640  | UIC 438-1  UIC 580  | UIC 438-4  | UIC 438-2  |
@@ -997,7 +997,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Loopwerk
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Draaistel algemeen  | --- | UIC 510-1  UIC510-3  UIC 517  UIC 530-1  UIC 530-2  UIC 530-4  |
 | b. Wielstellen  | UIC 510-2  UIC 510-5  UIC 512  UIC 810  UIC 812  EN 13979-1  EN 15437  EN 13262  | UIC510-2  UIC510-4  UIC 511  UIC 512  |
 | --- | EN 13103  |
@@ -1013,7 +1013,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Stoot- en trekwerk
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Automatische koppeling  | --- | --- | --- | --- | UIC 522  UIC 522-2  UIC 523  UIC 524  |
 | b. Buffers/trekwerk  | UIC 520  UIC 521  UIC 527-1  |
 | UIC 526-1  UIC 526-3  UIC 529  | UIC 528  | UIC 526-1  UIC 526-3  UIC 529  | UIC 527-2  UIC 526-1  UIC 526-2  UIC 526-3  |
@@ -1024,7 +1024,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Hoofdafmetingen en vormgeving
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Omgrenzingsprofiel  | EN 15273  UIC 505-1  UIC 505-4  UIC 505-5  UIC 506  |
 
 ### 2.8  
@@ -1032,7 +1032,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Additionele systemen
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Dodeman installatie  | UIC 641  Werkende bij elke snelheid  Opmerking voor rijtuigen: geldt alleen voor stuurstandrijtuigen.  | --- |
 | b. Front- en sluitseinen  | UIC 651  EN 15153-1  | UIC 532  UIC 651, geldt alleen voor stuurstand-rijtuigen  EN 15153-1  | UIC 651  | UIC 532  |
 | c. Reizigersnoodrem  | Verplicht aanwezig in alle ruimtes bestemd voor reizigers en/of personeel, inclusief de balkons.  Op toiletten niet verplicht.  | --- |
@@ -1044,7 +1044,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Elektronica en software toepassingen (veiligheidstoepassingen)
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | Algemeen  | Bewijs van veiligheid en veilige implementatie volgens: NEN-EN 50126, 50128, 50129 en 50155.  | --- |
 
 ### 2.10  
@@ -1052,7 +1052,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Veiligheidsinventaris
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Rode vlag  | In cabine aanwezig.  | --- |
 | b. Noodsein lantaarn  | In cabine aanwezig.  | --- |
 | c. Kortsluitkabel  | In cabine aanwezig.  | --- |
@@ -1064,7 +1064,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 ####Interieur (veiligheidsaspecten)
 
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | a. Brandveiligheid  | TSI SRT paragraaf 4.2.5.  | --- |
 | b. Noodverlichting  | --- | TSI SRT paragraaf 4.2.5.  | --- | --- |
 | c. Frontruit cabine  | UIC 651, snelheid projectiel is 200 km/u + de maximale snelheid van het spoorvoertuig  ISO 3538  DIN 52305  | --- |
@@ -1084,7 +1084,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 Ter invulling van het open punt in de specificatie als bedoeld in paragraaf 3.1.3.5 van in bijlage A, tabel A2 indexnummer 77, van de TSI CCS, geldt dat de aanwezigheid van voldoende metaalvrije ruimte rond de wielen van andere spoorvoertuigen dan goederenwagens ten behoeve van de goede werking van assentelsystemen proefondervindelijk vastgesteld moet worden tijdens testritten op een daartoe door de infrabeheerder aangewezen representatief traject of door vergelijking op basis van dossieronderzoek met een voertuig dat zich reeds bewezen heeft. Spoorvoertuigen die rijden over sporen die zijn uitgerust met assentellers mogen geen velden of stromen produceren die de werking van de assentellers beïnvloeden. Conformiteit wordt verondersteld indien de trein voldoet aan onderstaande richtwaarden en indien de stroom door de spoorstaven tussen de wielen van de trein en voor en achter de trein in de werkfrequentieband van de assentellers de maximale RMS waarde in de onderstaande tabel niet overschrijden.  
 
 | Type  | Telkop  | Werk-freq. [kHz]  | Bandbreedte limiet  [kHz]  | Limiet  [A]  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Az L90-4  | Sk30C  | ~ 28  ~ 30,7  | 27,0 ... 29,0  29,7 ... 31,7  | 0.075  0,075  |
 | Az LM  | Sk30H  | ~ 28  ~ 30,7  | 27,0 ... 29,0  29,7 ... 31,7  | 0,165  0,180  |
 | GETS ¹  | --- | ~ 39,0  ~ 50,0  | 38,0 ... 40,0  49,0 ... 51,0  | 0,142  0,124  |
@@ -1116,7 +1116,7 @@ Een treinsamenstelling wordt toegelaten op het aspect detectiekwaliteit op grond
 De treinsamenstelling wordt toegelaten indien in totaal 43 of meer punten worden gescoord volgens onderstaande tabel:  
 
 | Aspect  | Gewicht  | Factor  | Score (gewicht * factor)  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Type tractie  | 5  | Elektrisch  Anders  | 3  1  | --- |
 | Wiel profiel  | 5  | Conform EN 13715 S1002  Anders  | 3  1  | --- |
 | Rem type  | 3  | Gietijzeren remblokken  Anders  | 3  1  | --- |
@@ -1161,13 +1161,13 @@ Voor de eisen voor elektrische compatibiliteit tussen spoorvoertuigen en treinde
 − Metingen worden niet uitgevoerd op lijnen die beïnvloed kunnen worden door 25kV 50Hz stoorstromen.   De grenswaarden en filterkarakteristieken van tabel 1 zijn van toepassing op DC-lijnen met GRS.  Tabel 1 – GRS 
 
 | Systeem / type  | F <sub>0</sub>  [Hz]  | Δf [Hz]  | I <sub>0</sub>  RMS [A]  | Δf <sub>3dB</sub> [Hz]  | Δf <sub>20dB</sub> [Hz]  | 2*N [-]  | T  [s]  | Ti  [s]  | Opmerking  |
-|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | GRS (ATBEG)  | 75  | 10  | 0,5  | 20  | 40  | 6  | 0,2  | 1,7  | --- |
 
 De aanvullende eisen van tabel 2a gelden voor mengtermen die tijdens leemtebedrijf van het onderstation zonder externe 50Hz injectie kunnen leiden tot ongewenste 75Hz componenten.  Tabel 2a – GRS – grenswaarden als gevolg van interactie met DC-onderstation 
 
 | Systeem / type  | f <sub>0</sub>  [Hz]  | Δf  [Hz]  | I <sub>0</sub>  RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
-|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | GRS (ATBEG)  | 25  | 10/3  | 22,7  | 20/3  | 40/3  | -  | 0,2  | 1,7  | --- |
 | GRS (ATBEG)  | 37  | 10/2  | 8,6  | 20/2  | 40/2  | -  | 0,2  | 1,7  | --- |
 | GRS (ATBEG)  | 225  | 10  | 1  | 20  | 40  | 6  | 0,2  | 1,7  | --- |
@@ -1178,7 +1178,7 @@ De aanvullende eisen van tabel 2a gelden voor mengtermen die tijdens leemtebedri
 De aanvullende eisen van tabel 2b gelden voor mengtermen die tijdens leemtebedrijf van het onderstation met externe 50Hz injectie kunnen leiden tot ongewenste 75Hz componenten.  Tabel 2b – GRS – grenswaarden voor parallelloopsporen 
 
 | Systeem / type  | f <sub>0</sub>  [Hz]  | Δf  [Hz]  | I <sub>0</sub>  RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
-|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | GRS (ATBEG)  | 25  | 10  | 12,6  | 20  | 40  | 6  | 1  | 1,7  | --- |
 | GRS (ATBEG)  | 75  | 10  | 5,3  | 20  | 40  | 6  | 1  | 1,7  | --- |
 | GRS (ATBEG)  | 125  | 10  | 12,6  | 20  | 40  | 6  | 1  | 1,7  | --- |
@@ -1191,7 +1191,7 @@ Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar 
 ####, behorende bij artikel 10, vijfde lid, onderdeel f , en bijlage 3 , paragraaf 1.7
 
 | Te registreren informatie  | Locomotieven voornamelijk bestemd voor het vervoer van:  | Treinstellen  | Bijzondere spoor-voertuigen  | Stuur-stand-rijtuigen  | goederen  | Reizigers  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | Tijd  | X  | X  | X  | X  | X  |
 | Snelheid  | X  | X  | X  | X  | X  |
 | Bedienen rem  | X  | X  | X  | --- | X  |
@@ -1243,7 +1243,7 @@ Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar 
 13. Het voertuig dient voldoende veilig geaard te zijn teneinde de bovenleidingspanning af te schakelen in geval van draadbreuk.  Tabel 1 
 
 | EN15746:  | Cat. 8 + 9  | Cat. 9C met stoot- en trekwerk als rangeertrekkracht (locotractor)  |--- | nummer aanv. eis  | Onderhoudsvoertuigen in transport mode ¹  | Locotractor op centraal bediende emplacementen  | Locotractor op niet centraal bediende emplacementen  | Opmerking  |
-|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | ja  | Ja  | ja  | Minimaal een tachograaf  |
 | 2  | ja  | Ja  | ja  | --- |
 | 3  | ja  | Ja  | ja  | --- |

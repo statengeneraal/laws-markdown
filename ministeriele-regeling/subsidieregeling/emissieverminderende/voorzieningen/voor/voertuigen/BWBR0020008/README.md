@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
+Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,7 +19,7 @@ a. minister: Minister van Infrastructuur en Milieu;
 
 b. agentschap: Agentschap NL van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
-c. emissieverminderende voorziening: technische voorziening voor een voertuig die de uitstoot van luchtvervuilende stoffen vermindert ten opzichte van de bij of krachtens de Wegenverkeerswet 1994 verplicht gestelde emissiewaarden en die als voertuigonderdeel bij of krachtens die wet niet verplicht is gesteld;  
+c. emissieverminderende voorziening: technische voorziening voor een voertuig die de uitstoot van luchtvervuilende stoffen vermindert ten opzichte van de bij of krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verplicht gestelde emissiewaarden en die als voertuigonderdeel bij of krachtens [die wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet verplicht is gesteld;  
 
 d. richtlijn 70/220/EEG: richtlijn van de Raad van de Europese Gemeenschappen van 20 maart 1970 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten met betrekking tot maatregelen tegen luchtverontreiniging door emissies van motorvoertuigen (PbEG L 76), zoals deze laatstelijk is gewijzigd bij richtlijn nr. 2003/76/EG van de Commissie van de Europese Gemeenschappen van 11 augustus 2003 (PbEU L 206);  
 
@@ -27,7 +27,7 @@ e. deeltjes: verontreinigende deeltjes als bedoeld onder punt 2.5 van bijlage I 
 
 f. voertuig: personenauto, bestelauto, vrachtauto, bus, mobiele machine, landbouw- of bosbouwtrekker of spoorvoertuig;  
 
-g. eerste kentekenhouder: de kentekenhouder van een motorrijtuig aan wie de eerste afgifte van een kentekenbewijs of een deel I B heeft plaatsgevonden, als bedoeld in artikel 25, derde lid, van het Kentekenreglement;  
+g. eerste kentekenhouder: de kentekenhouder van een motorrijtuig aan wie de eerste afgifte van een kentekenbewijs of een deel I B heeft plaatsgevonden, als bedoeld in [artikel 25, derde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
 
 h. richtlijn 2007/46/EG: richtlijn 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn) (Pb EU L 263);  
 
@@ -53,9 +53,7 @@ q. filterlijst: filters behorende tot de categorie
 
 2°. ‘Particle filter systems for prolonged deployment’ van de lijst van de VERT-association;    
 
-r. richtlijn 97/68/EG: richtlijn van het Europese Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEU L 59), zoals deze laatstelijk is gewijzigd bij richtlijn 2004/26/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 (PbEU L 225);  
-
-s. motorvermogen: het motorvermogen zoals dat is aangegeven op het kentekenbewijs, bedoeld in artikel 36 van de Wegenverkeerswet 1994.    
+r. motorvermogen: het motorvermogen zoals dat is aangegeven op het kentekenbewijs, bedoeld in [artikel 36 van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
 
 ### Artikel  1.2  
 
@@ -67,7 +65,7 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 ####Wijze van subsidieverstrekking
 
-1.  De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt.   
+1.  De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt.   
 2.  Indien de inbouw van een voorziening bij de Dienst Wegverkeer moet worden gemeld, geschiedt de subsidievaststelling in afwijking van het eerste lid in volgorde van de meldingen van de inbouw aan de Dienst Wegverkeer.   
 
 ### Hoofdstuk  2  
@@ -82,7 +80,7 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 ####Voorwaarden voor subsidie
 
-1.  Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in artikel 2.2, eerste lid, in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig artikel 36 of artikel 37, derde lid, van de Wegenverkeerswet 1994: 
+1.  Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in artikel 2.2, eerste lid, in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): 
 
 a. een personenauto;  
 
@@ -105,7 +103,7 @@ b. de inbouw heeft gemeld aan de Dienst Wegverkeer door middel van een door die 
 
 1.  De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in artikel 2.1, eerste lid, in een voertuig met een dieselmotor heeft als resultaat dat: 
 
-a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor de toelating op de weg, bedoeld in artikel 22, respectievelijk 26, van de Wegenverkeerswet 1994,  
+a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor de toelating op de weg, bedoeld in [artikel 22](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), respectievelijk [26, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md),  
 
 b. de uitstoot van stikstofoxiden niet toeneemt,  
 
@@ -115,7 +113,7 @@ d. het desbetreffende voertuig duurzaam ten minste 30% minder deeltjes uitstoot 
 
 e. het desbetreffende voertuig blijft voldoen aan de voor de toelating op de weg gehanteerde grenswaarden voor de uitstoot van gasvormige verontreinigende stoffen, en  
 
-f. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de Wegenverkeerswet 1994 en de geluidsnormen gesteld bij of krachtens de Wet geluidhinder.     
+f. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de geluidsnormen gesteld bij of krachtens de [Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
 2.  Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in bijlage I zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig bijlage I.   
 3.  Een emissieverminderende voorziening voldoet in elk geval aan de eisen van bijlage I, indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van het desbetreffende voertuig.   
 
@@ -160,7 +158,7 @@ Het subsidieplafond bedraagt tot en met 31 december 2010: € 38.750.000,–.
 
 ####Voorwaarden voor subsidie
 
-1.  Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in artikel 2.8, eerste lid, in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig artikel 36 of artikel 37, derde lid, van de Wegenverkeerswet 1994: 
+1.  Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in artikel 2.8, eerste lid, in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): 
 
 a. een vrachtauto,  
 
@@ -185,13 +183,13 @@ b. de inbouw voor 1 oktober 2011 heeft gemeld aan de Dienst Wegverkeer door midd
 
 1.  De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in artikel 2.7, eerste lid, heeft als resultaat dat: 
 
-a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die ten minste 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor toelating op de weg, bedoeld in artikel 22, respectievelijk 26, van de Wegenverkeerswet 1994, dan wel ten minste 30% lager is dan die waarde indien het een voertuig betreft met een motor met een cilinderinhoud van minder dan 0,75 dm <sup>3</sup> per cilinder en een nominaal toerental van meer dan 3000 toeren per minuut,  
+a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die ten minste 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor toelating op de weg, bedoeld in [artikel 22](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), respectievelijk [26, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dan wel ten minste 30% lager is dan die waarde indien het een voertuig betreft met een motor met een cilinderinhoud van minder dan 0,75 dm <sup>3</sup> per cilinder en een nominaal toerental van meer dan 3000 toeren per minuut,  
 
 b. het desbetreffende voertuig duurzaam ten minste 30% minder deeltjes uitstoot dan in de uitvoering zonder inbouw van de voorziening,  
 
 c. het desbetreffende voertuig blijft voldoen aan de voor de toelating op de weg gehanteerde grenswaarden voor de uitstoot van gasvormige verontreinigende stoffen, en  
 
-d. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de Wegenverkeerswet 1994 en de geluidsnormen gesteld bij of krachtens de Wet geluidhinder.     
+d. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de geluidsnormen gesteld bij of krachtens de [Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
 2.  Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in bijlage II zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig bijlage II.   
 3.  Een emissieverminderende voorziening voldoet in elk geval aan de eisen van bijlage II, indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van de desbetreffende vrachtauto, toerbus of bus van klasse A of B.   
 
@@ -410,7 +408,7 @@ o. opaciteitsmeting na uitbouw
 
 #### *C. Roetmeting* 
 
-Bij toepassing van een deeltjesverminderingssysteem van de klasse B, moeten bovendien roetmetingen volgens artikel 2.3.12 van de regeling Permanente eisen worden uitgevoerd om de hoogste opaciteitswaarde van het uitlaatgas vast te stellen.  
+Bij toepassing van een deeltjesverminderingssysteem van de klasse B, moeten bovendien roetmetingen volgens [artikel 2.3.12 van de regeling Permanente eisen](../../../../../../../ministeriele-regeling/regeling/permanente/eisen/BWBR0009581/README.md) worden uitgevoerd om de hoogste opaciteitswaarde van het uitlaatgas vast te stellen.  
 
 #### *D. ‘Worst-case’-regeneratie na de duurproef* 
 
@@ -490,9 +488,9 @@ Begripsomschrijvingen:
 
 #### *3. Vaststellen van de continu regeneratie* 
 
-Het bewijs van een continu verlopend regeneratieproces geldt als geleverd wanneer gedurende een periode van ten minste 25 testcycli een daartoe geschikte parameter aan het DVS als constant beoordeeld kan worden. Als geschikte parameters kunnen de deeltjesemissie en de uitlaatgastegendruk beschouwd worden. Deze parameters gelden bij een variantie van maximaal 15% gedurende ten minste 25 testcycli als constant in de zin van dit voorschrift. De meting van de uitlaatgastegendruk vindt daarbij continu plaats, de meting van de deeltjesemissies ten minste iedere vijfde testcyclus. De variantie wordt als volgt berekend:   ![]()
-Waarbij:   ![]()
-en   ![]()
+Het bewijs van een continu verlopend regeneratieproces geldt als geleverd wanneer gedurende een periode van ten minste 25 testcycli een daartoe geschikte parameter aan het DVS als constant beoordeeld kan worden. Als geschikte parameters kunnen de deeltjesemissie en de uitlaatgastegendruk beschouwd worden. Deze parameters gelden bij een variantie van maximaal 15% gedurende ten minste 25 testcycli als constant in de zin van dit voorschrift. De meting van de uitlaatgastegendruk vindt daarbij continu plaats, de meting van de deeltjesemissies ten minste iedere vijfde testcyclus. De variantie wordt als volgt berekend:   ![241538](http://wetten.overheid.nl/Illustration/241538)
+Waarbij:   ![241539](http://wetten.overheid.nl/Illustration/241539)
+en   ![241540](http://wetten.overheid.nl/Illustration/241540)
 
 #### *4. Testcyclus* 
 
@@ -552,5 +550,5 @@ De uitvoering van de tests geschiedt overeenkomstig de bijlage. De beoordeling v
 
 #### *13. Schematische testprocedure* 
 
-![]()
+![241541](http://wetten.overheid.nl/Illustration/241541)
 

@@ -5,14 +5,14 @@
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft artikel 2, van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op de artikelen 3.31, tweede lid, en 3.42a, tweede lid, van de Wet inkomstenbelasting 2001;
+Gelet op de [artikelen 3.31, tweede lid](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 ####Willekeurige afschrijving milieu-investeringen
 
-Als milieubedrijfsmiddelen als bedoeld in artikel 3.31, eerste lid, van de Wet inkomstenbelasting 2001 worden aangewezen de bedrijfsmiddelen of onderdelen daarvan, opgenomen in de bijlage bij deze regeling, indien: 
+Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen de bedrijfsmiddelen of onderdelen daarvan, opgenomen in de bijlage bij deze regeling, indien: 
 
 a. zij in overeenstemming zijn met de bestemming die voor die bedrijfsmiddelen of onderdelen daarvan is aangegeven in de bijlage bij deze regeling;  
 
@@ -30,7 +30,7 @@ f. daarvoor niet vanwege de overheid of de Commissie van de Europese Gemeenschap
 
 ####Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in artikel 3.42a van de Wet inkomstenbelasting 2001 worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in artikel 1, onderdelen a tot en met f, genoemde voorwaarden.  
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in artikel 1, onderdelen a tot en met f, genoemde voorwaarden.  
 
 ### Artikel  3  
 
@@ -84,10 +84,10 @@ J.M.Cramer
 
 – de certificaten die in deze bijlage worden vereist.    
 
-4. Het geluidniveau van de mobiele machines, bedoeld in bedrijfsmiddel E 3412, is gelijk aan of lager dan het geluidniveau in de hierna volgende tabel. Indien voor een mobiele machine in de tabel geen geluidniveau is opgenomen, wordt niet voldaan aan onderdeel a, onder 1, van bedrijfsmiddel E 3412. Dat het geluidniveau gelijk is aan of lager is dan het geluidniveau in de hierna volgende tabel wordt aangetoond met een EG-typegoedkeuringsverklaring en een verklaring van gelijkvormigheid. In de EG-typegoedkeuringsverklaring wordt het gewaarborgde en gemeten geluidniveau aangegeven conform de Regeling geluidemissie buitenmaterieel. Met een verklaring van gelijkvormigheid verklaart de leverancier of importeur dat het geleverde bedrijfsmiddel overeenkomt met een gemeten exemplaar, waarvan met de EG-typegoedkeuringsverklaring is aangetoond dat deze aan de gestelde emissie-eisen voldoet. Voor de technische beoordeling van het bedrijfsmiddel kan de Minister van Infrastructuur en Milieu de EG-typegoedkeuringsverklaring en de verklaring van gelijkvormigheid opvragen. De verklaring van gelijkvormigheid door de leverancier wordt opgesteld met gebruikmaking van een door de Minister van Infrastructuur en Milieu vastgesteld model dat verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland. Een geluidmeting geschiedt door een daartoe bevoegde, door de Minister van Infrastructuur en Milieu op grond van artikel 5 van de Regeling geluidemissie buitenmaterieel aangewezen, keuringsinstantie, een zogeheten “notified body”. Bij een puinbreker geschiedt deze geluidmeting volgens de meetmethoden die zijn opgenomen in de door het Ministerie van Infrastructuur en Milieu uitgegeven VAMIL-publicatiereeks 11 en 13. Het geluiddrukniveau als omschreven voor een landbouw- of bosbouwtrekker wordt gemeten volgens Richtlijn 2009/63/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende bepaalde onderdelen en eigenschappen van landbouw- of bosbouwtrekkers op wielen (PbEU 2009 L 214). In de tabel staat L voor maaibreedte in centimeters (cm), P voor vermogen in kiloWatt (kW) en dB(A) voor decibel.  
+4. Het geluidniveau van de mobiele machines, bedoeld in bedrijfsmiddel E 3412, is gelijk aan of lager dan het geluidniveau in de hierna volgende tabel. Indien voor een mobiele machine in de tabel geen geluidniveau is opgenomen, wordt niet voldaan aan onderdeel a, onder 1, van bedrijfsmiddel E 3412. Dat het geluidniveau gelijk is aan of lager is dan het geluidniveau in de hierna volgende tabel wordt aangetoond met een EG-typegoedkeuringsverklaring en een verklaring van gelijkvormigheid. In de EG-typegoedkeuringsverklaring wordt het gewaarborgde en gemeten geluidniveau aangegeven conform de [Regeling geluidemissie buitenmaterieel](../../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md). Met een verklaring van gelijkvormigheid verklaart de leverancier of importeur dat het geleverde bedrijfsmiddel overeenkomt met een gemeten exemplaar, waarvan met de EG-typegoedkeuringsverklaring is aangetoond dat deze aan de gestelde emissie-eisen voldoet. Voor de technische beoordeling van het bedrijfsmiddel kan de Minister van Infrastructuur en Milieu de EG-typegoedkeuringsverklaring en de verklaring van gelijkvormigheid opvragen. De verklaring van gelijkvormigheid door de leverancier wordt opgesteld met gebruikmaking van een door de Minister van Infrastructuur en Milieu vastgesteld model dat verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland. Een geluidmeting geschiedt door een daartoe bevoegde, door de Minister van Infrastructuur en Milieu op grond van [artikel 5 van de Regeling geluidemissie buitenmaterieel](../../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md) aangewezen, keuringsinstantie, een zogeheten “notified body”. Bij een puinbreker geschiedt deze geluidmeting volgens de meetmethoden die zijn opgenomen in de door het Ministerie van Infrastructuur en Milieu uitgegeven VAMIL-publicatiereeks 11 en 13. Het geluiddrukniveau als omschreven voor een landbouw- of bosbouwtrekker wordt gemeten volgens Richtlijn 2009/63/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende bepaalde onderdelen en eigenschappen van landbouw- of bosbouwtrekkers op wielen (PbEU 2009 L 214). In de tabel staat L voor maaibreedte in centimeters (cm), P voor vermogen in kiloWatt (kW) en dB(A) voor decibel.  
 
 | Mobiele machine  | Geluidniveau in dB(A)  |
-|---|---|
+|:---|:---|
 | Gazonmaaier met L ≤ 120 cm  | 71+15logL  |
 | Gazonmaaier met L > 120 cm  | 73+15logL  |
 | Graafmachine met P ≤ 15 kW  | 82+9logP  |
@@ -118,31 +118,31 @@ J.M.Cramer
 5. De bedrijfsmiddelen, bedoeld in de codes  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | B 3411  | Emissiearme milieuvriendelijke mobiele machine  |
 | B 3413  | Mobiele machine voor heiwerkzaamheden  |
 
-voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eisen aan de luchtzijdige emissies door de verbrandingsmotor van het bedrijfsmiddel. Dit wordt aangetoond met een EG-typegoedkeuringsverklaring en een verklaring van gelijkvormigheid. In de EG-typegoedkeuringsverklaring worden de emissiewaarden van het bedrijfsmiddel op basis van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines aangegeven. Met een verklaring van gelijkvormigheid verklaart de leverancier of importeur dat het geleverde bedrijfsmiddel overeenkomt met een gemeten exemplaar, waarvan met een EG-typegoedkeuringsverklaring is aangetoond dat deze aan de gestelde emissie-eisen voldoet. Voor de technische beoordeling van het bedrijfsmiddel kan de Minister van Infrastructuur en Milieu de EG-typegoedkeuringsverklaring en de verklaring van gelijkvormigheid opvragen. De verklaring van gelijkvormigheid wordt opgesteld door de leverancier of importeur met gebruikmaking van een door de Minister van Infrastructuur en Milieu vastgesteld model dat verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland. Onder de grenswaarden van fase IV voor dieselmotoren als omschreven in Richtlijn 2004/26 EG ) worden de grenswaarden verstaan zoals bedoeld in het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines. <sup> 1  Richtlijn 2004/26/EG van het Europees Parlement en de Raad van 21 april 2004 tot wijziging van Richtlijn 97/68/EG betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendigeverbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEU 2004, L 225).  </sup> Onder de grenswaarden van Tier 4 (final) voor dieselmotoren worden de grenswaarden verstaan conform de US-EPA-emissienorm. Voor fase IV voor dieselmotoren gelden de grenswaarden in onderstaande tabel:  
+voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eisen aan de luchtzijdige emissies door de verbrandingsmotor van het bedrijfsmiddel. Dit wordt aangetoond met een EG-typegoedkeuringsverklaring en een verklaring van gelijkvormigheid. In de EG-typegoedkeuringsverklaring worden de emissiewaarden van het bedrijfsmiddel op basis van het [Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md) aangegeven. Met een verklaring van gelijkvormigheid verklaart de leverancier of importeur dat het geleverde bedrijfsmiddel overeenkomt met een gemeten exemplaar, waarvan met een EG-typegoedkeuringsverklaring is aangetoond dat deze aan de gestelde emissie-eisen voldoet. Voor de technische beoordeling van het bedrijfsmiddel kan de Minister van Infrastructuur en Milieu de EG-typegoedkeuringsverklaring en de verklaring van gelijkvormigheid opvragen. De verklaring van gelijkvormigheid wordt opgesteld door de leverancier of importeur met gebruikmaking van een door de Minister van Infrastructuur en Milieu vastgesteld model dat verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland. Onder de grenswaarden van fase IV voor dieselmotoren als omschreven in richtlijn 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1997, L 59) worden de grenswaarden verstaan zoals bedoeld in [het Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md). Onder de grenswaarden van Tier 4 (final) voor dieselmotoren worden de grenswaarden verstaan conform de US-EPA-emissienorm. Voor fase IV voor dieselmotoren gelden de grenswaarden in onderstaande tabel:  
 
 | Netto vermogen (P) in kW  | Koolmonoxide  in g/kWh  | Koolwaterstof  in g/kWh  | Stikstofoxiden  in g/kWh  | Deeltjes  in g/kWh  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 130 ≤ P ≤ 560  | 3,5  | 0,19  | 0,4  | 0,025  |
 | 56 ≤ P < 130  | 5,0  | 0,19  | 0,4  | 0,025  |
 
 Voor Tier 4 (final) voor dieselmotoren gelden de grenswaarden in onderstaande tabel:  
 
 | Netto vermogen (P) in kW  | Koolmonoxide  in g/kWh  | Som van koolwaterstof en stikstofoxiden  in g/kWh  | Deeltjes  in g/kWh  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 19 ≤ kW < 37  | 5,5  | 4,7  | 0,03  |
 | 8 ≤ kW < 19  | 6,6  | 7,5  | 0,4  |
 | kW < 8  | 8,0  | 7,5  | 0,4  |
 
-De milieuvriendelijke landbouw- of bosbouwtrekker, bedoeld in bedrijfsmiddel B 3411, voldoet aan het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines, daaruit vloeit voort dat een dergelijke trekker eveneens aan de grenswaarden in bovenstaande twee tabellen voldoet.  
+De milieuvriendelijke landbouw- of bosbouwtrekker, bedoeld in bedrijfsmiddel B 3411, voldoet aan de Regeling voertuigen in samenhang met richtlijn 2000/25/EG van het Europees Parlement en de Raad van 22 mei 2000 inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad (PbEG 2000, L 173), daaruit vloeit voort dat een dergelijke trekker eveneens aan de grenswaarden in bovenstaande twee tabellen voldoet.  
 
 6. De bedrijfsmiddelen, bedoeld onder de codes  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | A 1330  | Waterhydraulisch systeem  |
 | A 3222  | Automatisch smeersysteem  |
 | F 3310  | Duurzaam vaartuig  |
@@ -155,7 +155,7 @@ voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eise
 7. Ten aanzien van de volgende zogenoemde ‘generieke’ bedrijfsmiddelen, bedoeld onder de codes  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | A 0001  | Nieuwe milieuvriendelijke techniek  |
 | F 1100  | Productieapparatuur voor (half)producten op basis van grondstoffen van biologische oorsprong  |
 | A 1200  | Apparatuur voor vermindering van het gebruik van grondstoffen  |
@@ -179,7 +179,7 @@ voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eise
 | A 6310  | Duurzaam hout in (onderdelen van) een werk of een product  |
 | F 6320  | Natuurvriendelijke voorzieningen in de bebouwde omgeving  |
 
-wordt, op een daartoe strekkend verzoek van de Minister van Infrastructuur en Milieu, een meerkostenberekening overgelegd volgens de definities van Verordening (EG) nr. 1147/2008 en wordt aangetoond dat: <sup> 2  Verordening (EG) nr. 1147/2008 van de Commissie van de Europese Gemeenschappen van 31 oktober 2008 tot wijziging van Verordening (EG) nr. 794/2004 tot uitvoering van Verordening (EG) nr. 659/1999 van de Raad tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-verdrag, wat betreft deel III.10 van bijlage I (PbEU 2008, L 313).  </sup> 
+wordt, op een daartoe strekkend verzoek van de Minister van Infrastructuur en Milieu, een meerkostenberekening overgelegd volgens de definities van Verordening (EG) nr. 1147/2008 van de Commissie van de Europese Gemeenschappen van 31 oktober 2008 tot wijziging van Verordening (EG) nr. 794/2004 tot uitvoering van Verordening (EG) nr. 659/1999 van de Raad tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-verdrag, wat betreft deel III.10 van bijlage I (PbEU 2008, L 313) en wordt aangetoond dat: 
 
 – met het betreffende bedrijfsmiddel milieuvoordelen worden behaald ten opzichte van het gangbare alternatief in de betreffende branche(s) in Nederland,  
 
@@ -467,11 +467,11 @@ a. bestemd voor: het onder zuurstofarme of zuurstofloze omstandigheden thermisch
 
 b. bestaande uit: een pyrolysereactor, (eventueel) een vergasser, (eventueel) een naverbrander, (eventueel) een smeltinstallatie, afgas- of rookgasreinigingssysteem, (eventueel) een toe- en afvoersysteem, (eventueel) een afvalvoorbewerkingsinstallatie en (eventueel) een CO <sub>2</sub> -afvanginstallatie, exclusief voorzieningen voor het opwekken van energie.    *A 1410*   *Installatie voor het vervaardigen van bouwstoffen uit afvalstromen*  
 
-a. bestemd voor: het vervaardigen van producten die voldoen aan de eisen van het Besluit Bodemkwaliteit uit baggerslib (categorie 4), boorslib, grondreinigingsresiduen, rookgasreinigingsresiduen en/of AVI-vliegas door het aan elkaar hechten van de deeltjes,  
+a. bestemd voor: het vervaardigen van producten die voldoen aan de eisen van het [Besluit Bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) uit baggerslib (categorie 4), boorslib, grondreinigingsresiduen, rookgasreinigingsresiduen en/of AVI-vliegas door het aan elkaar hechten van de deeltjes,  
 
 b. bestaande uit: een menger, doseerapparatuur, droogapparatuur, een verhardingsinstallatie, een korrelvormings- of pelleteer- of vormgevingsinstallatie, een rookgasreinigingsinstallatie, een transportsysteem tussen de installatieonderdelen en (eventueel) een oxidatie-/sinteroven.    *A 1411*   *Opwerkingsinstallatie voor AVI-bodemas*  
 
-a. bestemd voor: het opwerken van AVI-bodemas tot een bouwstof, niet zijnde een IBC-bouwstof als bedoeld in het Besluit bodemkwaliteit, waarbij: 
+a. bestemd voor: het opwerken van AVI-bodemas tot een bouwstof, niet zijnde een IBC-bouwstof als bedoeld in het [Besluit bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), waarbij: 
 
 – ten hoogste 15% van de input van de opwerkingsinstallatie, gemeten als droge stof, wordt gestort, en  
 
@@ -535,11 +535,11 @@ a. bestemd voor: het in een plasmaveld thermisch ontleden van gevaarlijke afvals
 
 b. bestaande uit: een plasma-omzetter met voedingssysteem, een gasbehandelingssysteem, (eventueel) een afvoersysteem en (eventueel) een elektriciteitsopwekkingsinstallatie, exclusief apparatuur ter opwerking en aanwending van de ontstane componenten.    *A 1525*   *Stofemissievrije denatureringsinstallatie voor asbesthoudend afval of asbesthoudende grond*  
 
-a. bestemd voor: het stofemissievrij denatureren van asbesthoudend afval of asbesthoudende grond door de asbestresten bij lage temperatuur (lager dan 250°C) met behulp van natronloog af te breken, waarbij de asbestvezels volledig worden vernietigd en de silicaathoudende filterkoek wordt gebruikt als bouwstof of als toeslagstof in de bouw en voldoet aan het Besluit Bodemkwaliteit,  
+a. bestemd voor: het stofemissievrij denatureren van asbesthoudend afval of asbesthoudende grond door de asbestresten bij lage temperatuur (lager dan 250°C) met behulp van natronloog af te breken, waarbij de asbestvezels volledig worden vernietigd en de silicaathoudende filterkoek wordt gebruikt als bouwstof of als toeslagstof in de bouw en voldoet aan het [Besluit Bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md),  
 
 b. bestaande uit: een stofemissievrije afvalverkleiningsinstallatie, (eventueel) een scheidingsinstallatie, een verwarmings- en koelsysteem, een natronloogdoseerinstallatie, een filterinstallatie en een behandelingsinstallatie voor filterkoek.    *A 1526*   *Thermische denatureringsinstallatie voor asbestcementproducten*  
 
-a. bestemd voor: het thermisch denatureren van asbestcementproducten waarbij de asbestvezels via verhitting volledig worden vernietigd en het daarbij gevormde eindproduct wordt gebruikt als bouwstof of als toeslagstof in de bouw en voldoet aan het Besluit bodemkwaliteit,  
+a. bestemd voor: het thermisch denatureren van asbestcementproducten waarbij de asbestvezels via verhitting volledig worden vernietigd en het daarbij gevormde eindproduct wordt gebruikt als bouwstof of als toeslagstof in de bouw en voldoet aan het [Besluit bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md),  
 
 b. bestaande uit: een tunneloven of een verrijdbare stolpoven, een brandersysteem, naverbranders, (eventueel) keramische filters, (eventueel) een onderdrukruimte voor controle en reparatie verpakkingen, (eventueel) een transportinstallatie en (eventueel) een breekinstallatie voor nabehandeling van het product.    *B 1530*   *Verwerkingsinstallatie voor zuiveringsslib bij afvalverwerkende bedrijven (aanpassen bestaande situatie)*  
 
@@ -643,21 +643,21 @@ a. bestemd voor: het milieuvriendelijk produceren van gewassen of producten in e
 
 – waarvan is vastgesteld dat de productie in de kas voldoet aan de eisen van Milieukeur Plantaardige producten, wat blijkt uit een certificaat Milieukeur dat is afgegeven door de daartoe bevoegde instantie, en  
 
-– waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het Activiteitenbesluit milieubeheer door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,    
+– waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,    
 
 b. bestaande uit: een kas (kasdek en gevels), teelttechnische en klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n) en voorzieningen voor het opslaan of produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over Milieukeur Plantaardige producten kan worden gevonden op www.milieukeur.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft dus niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft niet te worden afgewacht.  *B 2111*   *Kas voor biologische teelt*  
 
-a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas volgens de voorschriften van het Landbouwkwaliteitsbesluit 2007, wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, en waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het Activiteitenbesluit milieubeheer door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,  
+a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas volgens de voorschriften van het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, en waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,  
 
-b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het Landbouwkwaliteitsbesluit 2007 kan worden gevonden op www.skal.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft dus niet te worden afgewacht.  *F 2112*   *Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur*  
+b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft dus niet te worden afgewacht.  *F 2112*   *Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur*  
 
 a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas waarvan is vastgesteld dat deze voldoet aan de eisen van bedrijfsmiddel A 2113, en het bedrijfsmatig telen van gewassen plaatsvindt volgens: 
 
-1. de voorschriften van het Landbouwkwaliteitsbesluit 2007, wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, of  
+1. de voorschriften van het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, of  
 
 2. volgens de eisen van Milieukeur Plantaardige producten uit de bedekte teelt, wat blijkt uit een certificaat Milieukeur dat afgegeven is door een daartoe bevoegde instantie,    
 
-b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het Landbouwkwaliteitsbesluit 2007 kan worden gevonden op www.skal.nl. Informatie over de genoemde Milieukeur kan worden gevonden op www.milieukeur.nl.  *A 2113*   *Groen Label Kas*  
+b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. Informatie over de genoemde Milieukeur kan worden gevonden op www.milieukeur.nl.  *A 2113*   *Groen Label Kas*  
 
 a. bestemd voor: het bedrijfsmatig telen van gewassen in een Groen Label Kas waarbij wordt voldaan aan de volgende eisen: 
 
@@ -665,14 +665,14 @@ a. bestemd voor: het bedrijfsmatig telen van gewassen in een Groen Label Kas waa
 
 – voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd bij definitieve oplevering moet worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter aardgasequivalenten per vierkante meter per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat,  
 
-– voor een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het Activiteitenbesluit milieubeheer is door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen afgegeven die rechtsgeldig is ten tijde van de melding, en  
+– voor een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen afgegeven die rechtsgeldig is ten tijde van de melding, en  
 
 – binnen drie jaar na afgifte van het voorlopig certificaat GLK10 wordt een definitief certificaat GLK10 overgelegd, dan wel binnen vier jaar wordt een definitief certificaat overgelegd volgens de dan vigerende maatlat Groen Label Kas en de bijbehorende criteria, beoordelingsrichtlijnen en aanvullende besluiten,    
 
 b. bestaande uit: een kas (kasdek en gevels) en teelttechnische en klimaattechnische voorzieningen.   De gehele investering in de Groen Label Kas, inclusief kosten gemeld onder F 2112 of F 2114, komt ten hoogste voor het volgende bedrag per vierkante meter gecertificeerd teeltoppervlak in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen:  
 
 | Gewasgroep  | €/m <sup>2</sup> intensieve teelt  | €/m <sup>2</sup> extensieve teelt  |
-|---|---|---|
+|:---|:---|:---|
 | Groenten  | 110  | 120  |
 | Bloemen  | 170  | 145  |
 | Potplanten  | 190  | 160  |
@@ -736,17 +736,17 @@ b. bestaande uit: (eventueel) waterzuiveringsapparatuur, (eventueel) een debietm
 
 *A 2200*   *Proefstal*  
 
-a. bestemd voor: het houden van dieren in een stalsysteem waarvoor een bijzondere emissiefactor is vastgesteld als bedoeld in artikel 3 van de Regeling ammoniak en veehouderij en waarbij wordt voldaan aan de meetverplichtingen bedoeld in die regeling,  
+a. bestemd voor: het houden van dieren in een stalsysteem waarvoor een bijzondere emissiefactor is vastgesteld als bedoeld in [artikel 3 van de Regeling ammoniak en veehouderij](../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md) en waarbij wordt voldaan aan de meetverplichtingen bedoeld in [die regeling](../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md),  
 
 b. bestaande uit: een besloten ruimte waarin dieren worden gehuisvest, een stalinrichting, klimaattechnische en voertechnische systemen, ammoniakemissiereducerende systemen, mestafvoer en -opslag en een hygiënesluis, exclusief ruimten en onderdelen bedoeld voor personeel, het verzamelen, verwerken en het opslaan van de (eind)producten, waarbij onder een besloten ruimte wordt verstaan een binnenruimte of een gedeeltelijk omsloten overdekte buitenruimte als bedoeld in hoofdstuk 2 van NEN 2580:2007.   Toelichting: Meer informatie over de proefstalregeling kan worden gevonden op www.agentschapnl.nl/rav.  *A 2201*   *Stal voor biologische veehouderij met vermindering van de ammoniakemissie*  
 
-a. bestemd voor: het houden van vee in een bedrijf dat dierlijke landbouwproducten produceert volgens de voorschriften van het Landbouwkwaliteitsbesluit 2007, wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, en waarbij in de stal eenzelfde ammoniakemissiearme staltechniek wordt toegepast als in een huisvestingssysteem, 
+a. bestemd voor: het houden van vee in een bedrijf dat dierlijke landbouwproducten produceert volgens de voorschriften van het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, en waarbij in de stal eenzelfde ammoniakemissiearme staltechniek wordt toegepast als in een huisvestingssysteem, 
 
-1. dat is opgenomen in bijlage 1 bij de Regeling ammoniak en veehouderij en niet is aangemerkt als een overig huisvestingssysteem, of  
+1. dat is opgenomen in [bijlage 1 bij de Regeling ammoniak en veehouderij](../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md) en niet is aangemerkt als een overig huisvestingssysteem, of  
 
-2. waarvoor een bijzondere emissiefactor is vastgesteld als bedoeld in artikel 3 van de Regeling ammoniak en veehouderij,    
+2. waarvoor een bijzondere emissiefactor is vastgesteld als bedoeld in [artikel 3 van de Regeling ammoniak en veehouderij](../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md),    
 
-b. bestaande uit: een besloten ruimte waarin dieren worden gehuisvest, een stalinrichting, klimaattechnische en voertechnische systemen, ammoniakemissiereducerende systemen, mestafvoer en -opslag en een hygiënesluis, exclusief ruimten en onderdelen bedoeld voor het personeel, het verzamelen, verwerken en het opslaan van de (eind)producten, waarbij onder een besloten ruimte wordt verstaan een binnenruimte of een gedeeltelijk omsloten overdekte buitenruimte als bedoeld in hoofdstuk 2 van NEN 2580:2007.   Toelichting: Informatie over het Landbouwkwaliteitsbesluit 2007 kan worden gevonden op www.skal.nl.  *B 2202*   *Stal voor milieuvriendelijke productie met Milieukeur*  
+b. bestaande uit: een besloten ruimte waarin dieren worden gehuisvest, een stalinrichting, klimaattechnische en voertechnische systemen, ammoniakemissiereducerende systemen, mestafvoer en -opslag en een hygiënesluis, exclusief ruimten en onderdelen bedoeld voor het personeel, het verzamelen, verwerken en het opslaan van de (eind)producten, waarbij onder een besloten ruimte wordt verstaan een binnenruimte of een gedeeltelijk omsloten overdekte buitenruimte als bedoeld in hoofdstuk 2 van NEN 2580:2007.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl.  *B 2202*   *Stal voor milieuvriendelijke productie met Milieukeur*  
 
 a. bestemd voor: het milieuvriendelijk houden van dieren in een stal volgens de eisen van Milieukeur en waarvan is vastgesteld dat de bedrijfsvoering in de stal voldoet aan de eisen van Milieukeur, wat blijkt uit een certificaat Milieukeur dat is afgegeven door de daartoe bevoegde instantie,  
 
@@ -792,7 +792,7 @@ a. bestemd voor: het houden van pluimvee, niet zijnde eenden of kalkoenen, in ee
 
 b. bestaande uit: besloten ruimten waarin dieren worden gehuisvest, een stalinrichting, klimaattechnische en voertechnische systemen, ammoniakemissiereducerende systemen en een mestafvoer en -opslag, waarbij onder een besloten ruimte wordt verstaan een binnenruimte of een gedeeltelijk omsloten overdekte buitenruimte als bedoeld in hoofdstuk 2 van NEN 2580:2007.   De investering in een duurzame pluimveestal komt ten hoogste voor het volgende bedrag per gecertificeerde dierplaats in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen:  *Opfok legouderdieren en leghennen*  0–4 punten extra: € 14,50 per dierplaats 5–10 punten extra: € 17,50 per dierplaats >10 punten extra: € 18,50 per dierplaats  *Productie legouderdieren en leghennen*  0–8 punten extra: € 17,00 per dierplaats 9–12 punten extra: € 20,00 per dierplaats > 12 punten extra: € 23,50 per dierplaats  *Opfok vleeskuikenouderdieren*  0–4 punten extra: € 23,25 per dierplaats 5–10 punten extra: € 27,00 per dierplaats > 10 punten extra: € 29,00 per dierplaats  *Productie vleeskuikenouderdieren*  0–4 punten extra: € 45,50 per dierplaats 5–10 punten extra: € 51,50 per dierplaats > 10 punten extra: € 54,00 per dierplaats  *Vleeskuikens*  0–3 punten extra: € 11,00 per dierplaats 4–6 punten extra: € 12,50 per dierplaats > 6 punten extra: € 14,50 per dierplaats. Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij en Aquacultuur ligt ter inzage in de bibliotheek van het Ministerie van Infrastructuur en Milieu. Het certificatieschema is ook te downloaden via www.maatlatduurzameveehouderij.nl. Op deze site zijn tevens de vigerende criteria, beoordelingsrichtlijnen en aanvullende besluiten te vinden.  *G 2235*   *Stofemissiereducerende technieken voor pluimveestallen*  
 
-a. bestemd voor: het verminderen van de emissie van stof van een pluimveestal zonder stal(ontwerp)certificaat MDV 5, 6, 7 of 8, door toepassing van één of meer technieken die zijn vermeld in de op grond van artikel 66, aanhef en onder c, van de Regeling beoordeling luchtkwaliteit 2007 gepubliceerde lijst van emissiefactoren fijn stof voor veehouderij, voor zover deze voorziening niet wettelijk verplicht is,  
+a. bestemd voor: het verminderen van de emissie van stof van een pluimveestal zonder stal(ontwerp)certificaat MDV 5, 6, 7 of 8, door toepassing van één of meer technieken die zijn vermeld in de op grond van [artikel 66, aanhef en onder c, van de Regeling beoordeling luchtkwaliteit 2007](../../../../../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md) gepubliceerde lijst van emissiefactoren fijn stof voor veehouderij, voor zover deze voorziening niet wettelijk verplicht is,  
 
 b. bestaande uit: stofemissiereducerende technieken.   Toelichting: De lijst van emissiefactoren staat in de publicatie ‘emissiefactoren fijn stof voor veehouderij 2013’. Deze publicatie is te vinden op www.rijksoverheid.nl of via internet met zoekterm ‘emissiefactoren fijn stof’.  *A 2290*   *Duurzame konijnen-, eenden- of kalkoenenstal*  
 
@@ -820,7 +820,7 @@ a. bestemd voor: het in de open lucht in teeltgoten telen van gewassen, die norm
 
 b. bestaande uit: een teeltsysteem, een water- en mestgiftsysteem, een waterrecirculatiesysteem en een regen- en/of drainwateropvang.   Toelichting: Onder A 2310 komen alleen teeltsystemen in de open lucht in aanmerking. Teeltsystemen onder glas komen niet in aanmerking.  *B 2311*   *Productieapparatuur voor zilte teelt*  
 
-a. bestemd voor: het telen van zilte gewassen zonder dat gebruik gemaakt wordt van bestrijdingsmiddelen en andere chemische toevoegingen, en waarbij de zilte teelt is toegestaan volgens de vigerende milieuvergunning of omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht,  
+a. bestemd voor: het telen van zilte gewassen zonder dat gebruik gemaakt wordt van bestrijdingsmiddelen en andere chemische toevoegingen, en waarbij de zilte teelt is toegestaan volgens de vigerende milieuvergunning of omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md),  
 
 b. bestaande uit: (aanpassing van) productieapparatuur die noodzakelijk is voor de teelt van zilte gewassen.    *D 2320*   *GPS-nauwkeurig buienverwachtingssysteem*  
 
@@ -928,7 +928,7 @@ a. bestemd voor: het tegengaan van verontreinigingen door erfafspoelwater bij ee
 
 b. bestaande uit: een opvangput of een overkapping voor een voeropslag of (her)inrichting van het erf of een veegmachine met opvangbak, exclusief betonvloeren van mest- en voedersilo's.    *B 2345*   *Waterzuiveringsinstallatie voor (chemisch) verontreinigd afvalwater in de akkerbouw of veehouderij*  
 
-a. bestemd voor: het tegengaan van de emissie voor zover daarvoor geen verplichting bestaat vanuit het bevoegd gezag of het Activiteitenbesluit milieubeheer, van: 
+a. bestemd voor: het tegengaan van de emissie voor zover daarvoor geen verplichting bestaat vanuit het bevoegd gezag of het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), van: 
 
 1. chemische verontreinigingen in spoel- en afvalwater, of  
 
@@ -1032,13 +1032,13 @@ a. bestemd voor: het vervaardigen van vleesvervangers op basis van plantaardige 
 
 b. bestaande uit: productieapparatuur voor vleesvervangers.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd.  *A 2611*   *Verwerkingsapparatuur voor lokale verwerking van biologische landbouwproducten, fruit, gekweekte vis, schaal- of schelpdieren*  
 
-a. bestemd voor: het verwerken van zelf gekweekte primaire biologische landbouwproducten, fruit, vis, schaal- of schelpdieren, of reststromen daarvan, tot een (half)product volgens het Landbouwkwaliteitsbesluit 2007, wat blijkt uit een certificaat Biologische Productie Nederland van Skal voor de betreffende verwerking, waarbij: 
+a. bestemd voor: het verwerken van zelf gekweekte primaire biologische landbouwproducten, fruit, vis, schaal- of schelpdieren, of reststromen daarvan, tot een (half)product volgens het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wat blijkt uit een certificaat Biologische Productie Nederland van Skal voor de betreffende verwerking, waarbij: 
 
 – de verwerking plaatsvindt op de locatie van het eigen bedrijf waar de primaire landbouwproducten worden geproduceerd, en  
 
-– de verwerkingsapparatuur voor ten minste 80% wordt gebruikt voor de productie van een (half)product volgens het Landbouwkwaliteitsbesluit 2007,    
+– de verwerkingsapparatuur voor ten minste 80% wordt gebruikt voor de productie van een (half)product volgens het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md),    
 
-b. bestaande uit: (aanpassen van) verwerkingsapparatuur en -voorzieningen, exclusief gebouwen en exclusief mobiele machines.   Toelichting: Met landbouwproducten worden alle dierlijke en plantaardige producten bedoeld, dus ook het kweken van bomen, struiken en niet-eetbare gewassen. Informatie over het Landbouwkwaliteitsbesluit 2007 is te vinden op www.skal.nl. Op basis van de verwerkingscijfers van het eerste halfjaar wordt vastgesteld of aan de gestelde norm wordt voldaan.  *B 2615*   *Volautomatische optische aardappelsorteerinstallatie*  
+b. bestaande uit: (aanpassen van) verwerkingsapparatuur en -voorzieningen, exclusief gebouwen en exclusief mobiele machines.   Toelichting: Met landbouwproducten worden alle dierlijke en plantaardige producten bedoeld, dus ook het kweken van bomen, struiken en niet-eetbare gewassen. Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) is te vinden op www.skal.nl. Op basis van de verwerkingscijfers van het eerste halfjaar wordt vastgesteld of aan de gestelde norm wordt voldaan.  *B 2615*   *Volautomatische optische aardappelsorteerinstallatie*  
 
 a. bestemd voor: het met een camerasysteem automatisch sorteren van aardappelen, zodat er qua vorm, maat en kwaliteit, uniforme partijen aardappelen worden verkregen, waardoor uitval van partijen nagenoeg voorkomen wordt en waarbij sortering op ten minste diameter, vierkantsmaat, knolvorm, beschadigingen, groeiafwijkingen en ziekten plaatsvindt,  
 
@@ -1252,7 +1252,7 @@ a. bestemd voor: het verwijderen van roetdeeltjes uit de uitlaatgassen van vast 
 
 – dat voldoet aan de eisen van TRGS 554 of dat staat op de roetfilterlijst van VERT (Verminderung der Emissionen von Real-Dieselmotoren im Tunnelbau) of BAFU (Bundesambt für Umwelt) of op de typegoedkeuringslijst van de RDW (de Dienst Wegverkeer),  
 
-– waarvoor geen verplichting geldt volgens of krachtens de Arbeidsomstandighedenwet, en  
+– waarvoor geen verplichting geldt volgens of krachtens de [Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en  
 
 – waarbij het filter niet is voorzien van een bypass-voorziening voor als het filter vol is,    
 
@@ -1352,7 +1352,7 @@ a. bestemd voor: het vervoer van goederen of personen over binnenwateren, of voo
 
 b. bestaande uit: een metalen of kunststof romp van het binnenvaartschip, (eventueel) een milieuvriendelijke antifouling, (eventueel) een beschermingssysteem tegen corrosie en (eventueel) een buikdenning.   Het bedrijfsmiddel komt voor ten hoogste € 500.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.  *F 3331*   *Milieuvriendelijk beschermingssysteem voor scheepshuiden*  
 
-a. bestemd voor: het beschermen van de scheepshuid tegen corrosie en aangroei door een initiële antifouling-bedekking, die biocidevrij, kopervrij en niet-toxisch voor waterorganismen is, waarbij de PEC/PNEC-ratio voor ten minste 2 voor het ecosysteem maatgevende waterorganismen bepaald volgens de Regeling gewasbescherming en biociden, niet meer dan 1 bedraagt,  
+a. bestemd voor: het beschermen van de scheepshuid tegen corrosie en aangroei door een initiële antifouling-bedekking, die biocidevrij, kopervrij en niet-toxisch voor waterorganismen is, waarbij de PEC/PNEC-ratio voor ten minste 2 voor het ecosysteem maatgevende waterorganismen bepaald volgens de [Regeling gewasbescherming en biociden](../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md), niet meer dan 1 bedraagt,  
 
 b. bestaande uit: een borstelbare harde coating of een 'non-stick' zachte coating, waarbij moet worden aangetoond met een certificaat of een meetrapport dat het beschermingssysteem geen biociden, koper of andere voor waterorganismen toxische stoffen bevat.   Toelichting: PEC en PNEC uit Richtlijn 98/8/EG van het Europees Parlement en de Raad van 16 februari 1998 betreffende het op de markt brengen van biociden (PbEG 1998, L 123) staan voor Predicted Environmental Concentration en Predicted No Effect Concentration.  *A 3340*   *Gesloten grijswatersysteem voor een schip*  
 
@@ -1362,7 +1362,7 @@ b. bestaande uit: een vuilwater buffertank, een zuiveringsinstallatie, een slibo
 
 a. bestemd voor: de opslag van huishoudelijk afvalwater aan boord van een binnenvaart-, een passagiers- of een hotelschip, met minder dan 50 passagiers of hotelgasten,  
 
-b. bestaande uit: een opslagtank en een koppeling voor walafgifte, waarbij een opslagtank aan boord van een recreatievaartuig als bedoeld in de Wet op de pleziervaartuigen, niet in aanmerking komt voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.    *F 3345*   *Ballastwatermanagementsysteem*  
+b. bestaande uit: een opslagtank en een koppeling voor walafgifte, waarbij een opslagtank aan boord van een recreatievaartuig als bedoeld in de [Wet op de pleziervaartuigen](../../../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md), niet in aanmerking komt voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.    *F 3345*   *Ballastwatermanagementsysteem*  
 
 a. bestemd voor: het voorkomen van de verspreiding van ecologieverstorende deeltjes, sedimenten of organismen door ballastwater van een zeegaand schip door een installatie, die: 
 
@@ -1513,7 +1513,7 @@ a. bestemd voor: het terugbrengen van het brongeluidniveau van een licht propell
 1. voor vliegtuigen met een ten hoogste toegelaten startmassa M van 5.700 kilogram of minder het ten hoogste toegelaten geluidniveau gemeten volgens Annex 16, hoofdstuk 6, van het ICAO-verdrag niet meer mag bedragen dan:  
 
 | M (in kilogram)  | Geluidniveau (in dB(A))  |
-|---|---|
+|:---|:---|
 | 5.700 tot 1500  | 76  |
 | 1.500 tot 600  | 64 + (M-600)/75  |
 | 600 of minder  | 64  |
@@ -1521,7 +1521,7 @@ a. bestemd voor: het terugbrengen van het brongeluidniveau van een licht propell
 2. voor vliegtuigen met een maximaal toegelaten startmassa M van 8.618 kilogram of minder het maximaal toegelaten geluidniveau gemeten volgens ICAO, annex 16 van 7 oktober 2004, hoofdstuk 10 niet meer mag bedragen dan:  
 
 | M (in kilogram)  | Geluidniveau (in dB(A))  |
-|---|---|
+|:---|:---|
 | 8.618 tot 1.325  | 80  |
 | 1.325 tot 618  | 68 + (M-618)*12/707  |
 | 618 of minder  | 68  |
@@ -1588,9 +1588,9 @@ a. bestemd voor: het verminderen van luchtzijdige emissies van een bestaande sto
 
 – de stookinstallatie is vóór 1 april 2010 in gebruik genomen, en  
 
-– de emissie van NO <sub>x</sub>, SO <sub>2</sub>, totaal stof of C <sub>x</sub> H <sub>y</sub> in de afgassen voldoet aan de emissiegrenswaarden gesteld in paragraaf 3.2.1 van het Activiteitenbesluit milieubeheer,    
+– de emissie van NO <sub>x</sub>, SO <sub>2</sub>, totaal stof of C <sub>x</sub> H <sub>y</sub> in de afgassen voldoet aan de emissiegrenswaarden gesteld in [paragraaf 3.2.1 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),    
 
-b. bestaande uit: emissiebeperkende nageschakelde techniek en (eventueel) aanpassing van een bestaande stookinstallatie.   Toelichting: Informatie over het Activiteitenbesluit milieubeheer is te vinden op www.infomil.nl. Onder het thermisch vermogen wordt het ingangsvermogen van de installatie verstaan. Technieken die emissies verder verminderen dan vereist is volgens het Activiteitenbesluit milieubeheer zijn te vinden in hoofdstuk 2, 3 en 4 van de Milieulijst, waarbij veelal een hoger financieel voordeel verkregen kan worden.  *A 4140*   *Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)*  
+b. bestaande uit: emissiebeperkende nageschakelde techniek en (eventueel) aanpassing van een bestaande stookinstallatie.   Toelichting: Informatie over het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is te vinden op www.infomil.nl. Onder het thermisch vermogen wordt het ingangsvermogen van de installatie verstaan. Technieken die emissies verder verminderen dan vereist is volgens het Activiteitenbesluit milieubeheer zijn te vinden in hoofdstuk 2, 3 en 4 van de Milieulijst, waarbij veelal een hoger financieel voordeel verkregen kan worden.  *A 4140*   *Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)*  
 
 a. bestemd voor: het verminderen van de emissie van CO <sub>2</sub> van een bestaande waterzuiveringsinstallatie door het vervangen van een conventionele nitrificatie-/denitrificatie-installatie door een bioreactor voor verwijdering van stikstof waarin nitrificatie en denitrificatie plaatsvindt zonder nitraatvorming,  
 
@@ -1652,7 +1652,7 @@ b. bestaande uit: een brander en een ketel.    *A 4315*   *Selectieve katalytis
 
 a. bestemd voor: het door chemische reductie omzetten van stikstofoxiden in afgassen van de onderstaande installaties: 
 
-1. een industriële proces- of verbrandingsinstallatie, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A,  
+1. een industriële proces- of verbrandingsinstallatie, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
 
 2. motoren van een zeeschip waarbij een NO <sub>x</sub> -verwijderingsrendement van ten minste 85% wordt bereikt, of  
 
@@ -1660,7 +1660,7 @@ a. bestemd voor: het door chemische reductie omzetten van stikstofoxiden in afga
 
 b. bestaande uit: een katalysator en een ammoniak- of ureuminjectiesysteem.   Toelichting: Een Stoom- en Gasturbine (STEG) wordt gezien als een verbrandingsinstallatie en kan onder dit bedrijfsmiddel worden gemeld. Een SCR-installatie op een binnenvaartschip kan worden gemeld onder F 3360.  *A 4316*   *Selectieve non-katalytische reductie-installatie (SNCR)*  
 
-a. bestemd voor: het omzetten van NO <sub>x</sub> in afgassen van installaties met injectie van ureum of ammoniak door een reductie-installatie met een NO <sub>x</sub> -verwijderingsrendement van ten minste 85%, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A,  
+a. bestemd voor: het omzetten van NO <sub>x</sub> in afgassen van installaties met injectie van ureum of ammoniak door een reductie-installatie met een NO <sub>x</sub> -verwijderingsrendement van ten minste 85%, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
 
 b. bestaande uit: een ammoniak- of ureuminjectiesysteem.    *F 4320*   *Gaswasser voor een aluminiumsmelterij*  
 
@@ -1750,7 +1750,7 @@ b. bestaande uit: een niet-filtrerende stofafscheider, (eventueel) een ventilato
 
 a. bestemd voor: het verwijderen van stofdeeltjes uit een afgas of luchtstroom waarbij: 
 
-– puntgericht afgezogen lucht van stof wordt ontdaan met een vast opgestelde filtrerende stofafscheider, waardoor de lucht die naar buiten wordt geblazen niet meer dan 1 milligram stof per normaal kubieke meter bevat, voor zover deze restemissie niet verplicht is volgens de Arbeidsomstandighedenwet, en  
+– puntgericht afgezogen lucht van stof wordt ontdaan met een vast opgestelde filtrerende stofafscheider, waardoor de lucht die naar buiten wordt geblazen niet meer dan 1 milligram stof per normaal kubieke meter bevat, voor zover deze restemissie niet verplicht is volgens de [Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), en  
 
 – de aanschaf van de ontstoffingsinstallatie ten minste € 10.000 bedraagt,    
 
@@ -1766,19 +1766,19 @@ b. bestaande uit: een meertraps-ontstoffingsinstallatie, (eventueel) een doseeri
 
 a. bestemd voor: het voorkomen, terugwinnen of beperken van de emissie van vluchtige organische stoffen (VOS) bij het reinigen, lijmen of coaten van metalen door toepassing van één of meer milieuvriendelijke technieken, waarbij wordt voldaan aan de voorwaarden, genoemd onder punt 7 van paragraaf 1 van deze bijlage, en: 
 
-1. voor een type B bedrijf als bedoeld in het Activiteitenbesluit milieubeheer, dat, 
+1. voor een type B bedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), dat, 
 
-a. minder oplosmiddelen verbruikt dan de drempelwaarden van afdeling 2.11 (artikel 2.28) van het Activiteitenbesluit milieubeheer en tevens voldoet aan de VOS-eisen van deze afdeling, en  
+a. minder oplosmiddelen verbruikt dan de drempelwaarden van [afdeling 2.11](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) ([artikel 2.28) van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en tevens voldoet aan de VOS-eisen van deze afdeling, en  
 
-b. een vermindering van het VOS-verbruik (in kilogram per jaar) wordt behaald van ten minste 30% ten opzichte van de bestaande situatie, berekend op basis van de oplosmiddelenboekhouding conform paragraaf 4.5.5 van het Activiteitenbesluit milieubeheer, of    
+b. een vermindering van het VOS-verbruik (in kilogram per jaar) wordt behaald van ten minste 30% ten opzichte van de bestaande situatie, berekend op basis van de oplosmiddelenboekhouding conform [paragraaf 4.5.5 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), of    
 
-2. voor een type B of C bedrijf als bedoeld in het Activiteitenbesluit milieubeheer dat boven de drempelwaarden van afdeling 2.11 (artikel 2.28) van het Activiteitenbesluit milieubeheer komt en tevens voldoet aan de VOS-eisen van deze afdeling, en 
+2. voor een type B of C bedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) dat boven de drempelwaarden van [afdeling 2.11](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) ([artikel 2.28) van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) komt en tevens voldoet aan de VOS-eisen van deze afdeling, en 
 
-a. een totale VOS emissie (in kilogram per jaar) behaalt die ten minste 30% lager is dan de beoogde emissie, bepaald volgens het reductieprogramma conform artikel 2.29, lid 2 van het Activiteitenbesluit milieubeheer, of  
+a. een totale VOS emissie (in kilogram per jaar) behaalt die ten minste 30% lager is dan de beoogde emissie, bepaald volgens het reductieprogramma conform [artikel 2.29, lid 2 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), of  
 
-b. de concentratie VOS in het afgas (in milligram C of VOS per normaal kubieke meter) ten minste 30% lager is dan de emissiegrenswaarde in afdeling 2.11 van het Activiteitenbesluit milieubeheer of ten minste 30% lager is dan de eis voor diffuse emissie in afdeling 2.11 van het Activiteitenbesluit milieubeheer, bepaald conform artikel 2.29, lid 1a van het Activiteitenbesluit milieubeheer,      
+b. de concentratie VOS in het afgas (in milligram C of VOS per normaal kubieke meter) ten minste 30% lager is dan de emissiegrenswaarde in [afdeling 2.11 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of ten minste 30% lager is dan de eis voor diffuse emissie in afdeling 2.11 van het Activiteitenbesluit milieubeheer, bepaald conform [artikel 2.29, lid 1a van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),      
 
-b. bestaande uit: VOS-emissiereducerende apparatuur.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Informatie over of uw bedrijf een type B of C bedrijf is, is te vinden op www.infomil.nl/onderwerpen/integrale/wet-milieubeheer/typen-inrichting-0/. Voor nadere informatie over de VOS-eisen genoemd onder 1b zie Handhaving Vos op www.infomil.nl/onderwerpen/klimaat-lucht/lucht-in-het/metaal-0/reinigen-lijmen/. Met een bedrijf dat onder het Activiteitenbesluit milieubeheer valt, zoals genoemd bij punt 2, wordt bedoeld een bedrijf dat bijvoorbeeld bij een activiteit als bedoeld in tabel 2.28a, onder 8, van het Activiteitenbesluit milieubeheer (andere coatingprocessen) een verbruiksdrempel van meer 5 ton VOS per jaar overschrijdt. Bij punt 2, onder b, wordt gesproken over ten minste 30% lager dan de eis voor diffuse emissie. Voor bijvoorbeeld een activiteit als bedoeld in tabel 2.28a, onder 8, van het Activiteitenbesluit milieubeheer (andere coatingprocessen) wordt hiermee ten minste 30% van 20% bedoeld. Dit komt overeen met een vermindering van de diffuse emissie met ten minste 14%. Voor nadere informatie over de beoogde emissie genoemd bij punt 2, onder a, en de emissiegrenswaarde genoemd bij punt 2, onder b, zie Activiteiten en grenswaarden onder respectievelijk 5.1 regime 1 en 5.2 regime 2 op www.infomil.nl/onderwerpen/klimaat-lucht/stoffen/vos/artikel/5-voldoen/.  *F 4520*   *Dubbele mechanische asafdichting*  
+b. bestaande uit: VOS-emissiereducerende apparatuur.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Informatie over of uw bedrijf een type B of C bedrijf is, is te vinden op www.infomil.nl/onderwerpen/integrale/wet-milieubeheer/typen-inrichting-0/. Voor nadere informatie over de VOS-eisen genoemd onder 1b zie Handhaving Vos op www.infomil.nl/onderwerpen/klimaat-lucht/lucht-in-het/metaal-0/reinigen-lijmen/. Met een bedrijf dat onder het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) valt, zoals genoemd bij punt 2, wordt bedoeld een bedrijf dat bijvoorbeeld bij een activiteit als bedoeld in [tabel 2.28a, onder 8, van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) (andere coatingprocessen) een verbruiksdrempel van meer 5 ton VOS per jaar overschrijdt. Bij punt 2, onder b, wordt gesproken over ten minste 30% lager dan de eis voor diffuse emissie. Voor bijvoorbeeld een activiteit als bedoeld in [tabel 2.28a, onder 8, van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) (andere coatingprocessen) wordt hiermee ten minste 30% van 20% bedoeld. Dit komt overeen met een vermindering van de diffuse emissie met ten minste 14%. Voor nadere informatie over de beoogde emissie genoemd bij punt 2, onder a, en de emissiegrenswaarde genoemd bij punt 2, onder b, zie Activiteiten en grenswaarden onder respectievelijk 5.1 regime 1 en 5.2 regime 2 op www.infomil.nl/onderwerpen/klimaat-lucht/stoffen/vos/artikel/5-voldoen/.  *F 4520*   *Dubbele mechanische asafdichting*  
 
 a. bestemd voor: het verminderen van lek- en verdampingsverliezen van vluchtige organische stoffen langs roterende assen van machines, door een dubbele mechanische afdichting die voldoet aan ISO 21049:2004, categorie 3, arrangement 3,  
 
@@ -1890,7 +1890,7 @@ a. bestemd voor: het op land door apparatuur, landschapselementen, bouwkundige o
 
 – wordt voldaan aan de voorwaarden, genoemd onder punt 7 van paragraaf 1 van deze bijlage,    
 
-b. bestaande uit: apparatuur, landschapselementen, bouwkundige of civieltechnische werken die noodzakelijk zijn voor versterking van de gebiedseigen biodiversiteit.   Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Andere in de Milieulijst genoemde bedrijfsmiddelen komen niet in aanmerking onder F 5100. Bedrijfsmiddelen die uitgesloten zijn op grond van artikel 3.45 van de Wet inkomstenbelasting 2001 komen niet in aanmerking. Landschapselementen kunnen bijvoorbeeld veedrinkpoelen, houtwallen, hagen en bomen zijn, die als element homogeen in het gebiedseigen landschap opgenomen zijn. Informatie over gebiedseigen elementen zijn onder andere te vinden op de volgende websites: www.spade.nl, www.landschapsbeheer.nl en www.nederlandscultuurlandschap.nl. Voor landschapsinrichting kan mogelijk ook gebruik gemaakt worden van de maatlat BREEAM-NL Gebied, http://www.breeam.nl/gebied/breeam_gebied/.  *C 5110*   *Visvriendelijk en geluidarm waterkrachtsysteem*  
+b. bestaande uit: apparatuur, landschapselementen, bouwkundige of civieltechnische werken die noodzakelijk zijn voor versterking van de gebiedseigen biodiversiteit.   Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Andere in de Milieulijst genoemde bedrijfsmiddelen komen niet in aanmerking onder F 5100. Bedrijfsmiddelen die uitgesloten zijn op grond van [artikel 3.45 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) komen niet in aanmerking. Landschapselementen kunnen bijvoorbeeld veedrinkpoelen, houtwallen, hagen en bomen zijn, die als element homogeen in het gebiedseigen landschap opgenomen zijn. Informatie over gebiedseigen elementen zijn onder andere te vinden op de volgende websites: www.spade.nl, www.landschapsbeheer.nl en www.nederlandscultuurlandschap.nl. Voor landschapsinrichting kan mogelijk ook gebruik gemaakt worden van de maatlat BREEAM-NL Gebied, http://www.breeam.nl/gebied/breeam_gebied/.  *C 5110*   *Visvriendelijk en geluidarm waterkrachtsysteem*  
 
 a. bestemd voor: het opwekken van energie door een niet-axiale rotor met watergesmeerde magnetische of kunststof lagers,  
 
@@ -1966,19 +1966,19 @@ a. bestemd voor: het afvangen en afbreken van lichte minerale olie uit afstromen
 
 b. bestaande uit: olieverwerkend geotextiel.    *F 5320*   *Grondwatersaneringssysteem met nuttig gebruik van saneringswater voor een andere toepassing in de ondergrond*  
 
-a. bestemd voor: het saneren van verontreinigd grondwater in de zin van de Wet bodembescherming, waarbij het verontreinigd grondwater nuttig gebruikt wordt voor een andere toepassing in de ondergrond en waarbij tevens sprake is van zuivering van het te infiltreren grondwater met een zuiveringswerk,  
+a. bestemd voor: het saneren van verontreinigd grondwater in de zin van de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waarbij het verontreinigd grondwater nuttig gebruikt wordt voor een andere toepassing in de ondergrond en waarbij tevens sprake is van zuivering van het te infiltreren grondwater met een zuiveringswerk,  
 
 b. bestaande uit: onttrekkings- en infiltratiefilters, leidingwerk, een pomp, (eventueel) een warmtewisselaar, (eventueel) een elektronische monitorings- en regeleenheid en (eventueel) een zuiveringswerk voor het te infiltreren grondwater.   Toelichting: Andere voorbeelden van nuttige toepassingen in de ondergrond zijn het tegengaan van verdroging (natuurbeheer of -herstel) of van grondwateroverlast door het stopzetten van industriële bronnen of elke andere combinatie van meerdere gebruiksfuncties waarvan het verbeteren van de grondwaterkwaliteit er één is.  *B 5321*   *Grondwaterbeheerssysteem met nuttig gebruik van saneringswater voor een andere toepassing in de ondergrond*  
 
-a. bestemd voor: het nuttig gebruik van verontreinigd grondwater in de zin van de Wet bodembescherming voor een andere toepassing in de ondergrond en waarbij de verontreinigingsvlek aantoonbaar geohydrologisch beheerst wordt,  
+a. bestemd voor: het nuttig gebruik van verontreinigd grondwater in de zin van de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor een andere toepassing in de ondergrond en waarbij de verontreinigingsvlek aantoonbaar geohydrologisch beheerst wordt,  
 
 b. bestaande uit: onttrekkings- en infiltratiefilters, leidingwerk, een pomp, (eventueel) een warmtewisselaar en (eventueel) een elektronische monitorings- en regeleenheid.   Toelichting: Zie F 5320.  *A 5322*   *Grondwaterbeheerssysteem met duurzame energievoorziening*  
 
-a. bestemd voor: het beheersen van grondwater met verontreinigingen in de zin van de Wet bodembescherming, die op de betreffende locatie aantoonbaar niet gesaneerd kunnen worden en waarbij de energievoorziening van de beheersing ten behoeve van de exploitatiefase voor ten minste 75% ter plaatse wordt opgewekt uit duurzame energiebronnen,  
+a. bestemd voor: het beheersen van grondwater met verontreinigingen in de zin van de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), die op de betreffende locatie aantoonbaar niet gesaneerd kunnen worden en waarbij de energievoorziening van de beheersing ten behoeve van de exploitatiefase voor ten minste 75% ter plaatse wordt opgewekt uit duurzame energiebronnen,  
 
 b. bestaande uit: onttrekkings- en infiltratiefilters, leidingwerk, (eventueel) overige apparatuur ten behoeve van beheersing van de verontreiniging en (eventueel) een elektronische monitorings- en regeleenheid, exclusief de duurzame energievoorziening.   Toelichting: Duurzame energievoorzieningen komen mogelijk in aanmerking voor de energie-investeringsaftrek of de regeling Stimulering Duurzame Energieproductie.  *B 5323*   *Systeem voor nuttig gebruik van saneringswater in processen*  
 
-a. bestemd voor: het winnen en als koel- of proceswater aanwenden van verontreinigd grondwater in de zin van de Wet bodembescherming, waarbij het water geloosd wordt op het riool of het oppervlaktewater,  
+a. bestemd voor: het winnen en als koel- of proceswater aanwenden van verontreinigd grondwater in de zin van de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waarbij het water geloosd wordt op het riool of het oppervlaktewater,  
 
 b. bestaande uit: onttrekkingsfilters, leidingwerk, een pomp, (eventueel) een warmtewisselaar, (eventueel) een elektronische monitorings- en regeleenheid en (eventueel) een zuiveringswerk voor de aanwending van het saneringswater, waarbij het zuiveringswerk om te lozen niet in aanmerking komt voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.   Toelichting: Het zuiveringswerk dat nodig is om aanwending van het saneringswater mogelijk te maken, komt wel in aanmerking voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.  *A 5330*   *Onderzuigapparatuur voor sanering of verlaging van bodems*  
 
@@ -2050,7 +2050,7 @@ a. bestemd voor: het duurzaam vervullen van utiliteitsfuncties met een gebouw da
 
 b. bestaande uit: een utiliteitsgebouw.   Het bedrijfsmiddel komt voor ten hoogste € 10.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld.  *F 6115*   *Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens BREEAM-NL*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2064,11 +2064,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 4b. dat voldaan wordt aan de bovenstaande eisen van 3b moet blijken uit een voor meldingsdatum afgegeven BREEAM-NL ontwerp-certificaat, en waarbij binnen drie jaar na afgifte van het ontwerpcertificaat, een oplevercertificaat wordt overgelegd dan wel binnen vier jaar een oplevercertificaat wordt overgelegd volgens de dan vigerende maatlat van BREEAM-NL Nieuwbouw en Grootschalige Renovatie, en  
 
-5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6115.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over BREEAM-NL kan worden gevonden op www.BREEAM.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het Bouwbesluit 2012 is te raadplegen via www.wetten.nl.  *A 6116*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens BREEAM-NL*  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6115.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over BREEAM-NL kan worden gevonden op www.BREEAM.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  *A 6116*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens BREEAM-NL*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2082,11 +2082,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 4b. dat voldaan wordt aan de bovenstaande eisen van 3b moet blijken uit een voor meldingsdatum afgegeven BREEAM-NL ontwerp-certificaat, en waarbij binnen drie jaar na afgifte van het ontwerpcertificaat, een oplevercertificaat wordt overgelegd dan wel binnen vier jaar een oplevercertificaat wordt overgelegd volgens de dan vigerende maatlat van BREEAM-NL Nieuwbouw en Grootschalige Renovatie, en  
 
-5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
 b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor A 6116.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Zie F 6115.  *B 6117*   *Duurzaam nieuw gebouw volgens BREEAM-NL*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2098,7 +2098,7 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 b. bestaande uit: een nieuw utiliteitsgebouw. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor B 6117.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Zie F 6115.  *F 6120*   *Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2112,11 +2112,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 5. het gerenoveerde of nieuwe gebouw (niet zijnde gebouwdeel) heeft een totaal Bruto Vloer Oppervlak (BVO) van minder dan 5.000 vierkante meter, en  
 
-6. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+6. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6120.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Alleen gebouwen waarvan de totale BVO minder is dan 5.000 m <sup>2</sup> kunnen gebruik maken van bovenstaande code. Informatie over GPR Gebouw 4.2 kan worden gevonden op www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het Bouwbesluit 2012 is te raadplegen via www.wetten.nl.  *A 6121*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6120.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Alleen gebouwen waarvan de totale BVO minder is dan 5.000 m <sup>2</sup> kunnen gebruik maken van bovenstaande code. Informatie over GPR Gebouw 4.2 kan worden gevonden op www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  *A 6121*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2130,11 +2130,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 5. het gerenoveerde of nieuwe gebouw (niet zijnde gebouwdeel) heeft een totaal Bruto Vloer Oppervlak (BVO) van minder dan 5.000 vierkante meter, en  
 
-6. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+6. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
 b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor A 6121.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Zie F 6120.  *B 6122*   *Duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2148,7 +2148,7 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 b. bestaande uit: een nieuw utiliteitsgebouw. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor B 6122.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Zie F 6120.  *A 6125*   *Zeer duurzaam gerenoveerd of nieuw gebouw volgens LEED BD+C*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2158,11 +2158,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 4. waarbij binnen drie jaar na afgifte van het statusrapport een oplevercertificaat wordt overgelegd op het niveau ‘Platinum’ van het keurmerk voor duurzame vastgoedobjecten (LEED) van de U.S. Green Building Council, en  
 
-5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor A 6125.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over LEED kan worden gevonden op www.usgbc.org en www.bouwcertificering.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het Bouwbesluit 2012 is te raadplegen via www.wetten.nl.  *B 6126*   *Duurzaam gerenoveerd of nieuw gebouw volgens LEED BD+C*  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor A 6125.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over LEED kan worden gevonden op www.usgbc.org en www.bouwcertificering.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  *B 6126*   *Duurzaam gerenoveerd of nieuw gebouw volgens LEED BD+C*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal of een kas, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2172,11 +2172,11 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 4. waarbij binnen drie jaar na afgifte van het statusrapport een oplevercertificaat wordt overgelegd op het niveau ‘Gold’ van het keurmerk voor duurzame vastgoedobjecten (LEED) van de U.S. Green Building Council, en  
 
-5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
 b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor B 6126.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Zie A 6125.  *C 6129*   *Gerenoveerd of nieuw gebouw met Slimbouwen Keurmerk*  
 
-a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in tabel 5.1 van het Bouwbesluit 2012, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
+a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
 1. al het aangeschafte nieuwe duurzame hout dat verwerkt wordt in het gebouw voldoet aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310,  
 
@@ -2186,9 +2186,9 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 4. waarbij binnen drie jaar na afgifte van het Slimconcept keurmerk, een Slimproject Keurmerk wordt overgelegd welke is afgegeven door de expertcommissie aangesteld door de stichting Slimbouwen, en  
 
-5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het Bouwbesluit 2012 gehandhaafd blijven,    
+5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor C 6129.   Het bedrijfsmiddel komt voor ten hoogste € 5.000.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over Slimbouwen kan worden gevonden op www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het Bouwbesluit 2012 is te raadplegen via www.wetten.nl.  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor C 6129.   Het bedrijfsmiddel komt voor ten hoogste € 5.000.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over Slimbouwen kan worden gevonden op www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  
 
 ####Materiaalgebruik
 
@@ -2212,7 +2212,7 @@ a. bestemd voor: het versterken van biodiversiteit en verbeteren van leefomgevin
 
 b. bestaande uit: voorzieningen die noodzakelijk zijn om de gekozen maatregelen uit de checklist 'Natuurvriendelijke maatregelen in de bebouwde omgeving' te realiseren, exclusief investeringen in woningen.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. De checklist 'Natuurvriendelijke maatregelen in de bebouwde omgeving' is te vinden op www.vogelbescherming.nl/checklist.  *B 6321*   *Natuurspeelplek in en bij de bebouwde omgeving*  
 
-a. bestemd voor: het stimuleren van spelen van kinderen in en in de directe nabijheid van de bebouwde omgeving door middel van begroeiing, natuurlijke speelelementen en geprefabriceerde speelelementen van uitsluitend hout die voldoen aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310, waarbij de speelelementen voldoen aan de voorschriften bedoeld in het Warenwetbesluit attractie- speeltoestellen,  
+a. bestemd voor: het stimuleren van spelen van kinderen in en in de directe nabijheid van de bebouwde omgeving door middel van begroeiing, natuurlijke speelelementen en geprefabriceerde speelelementen van uitsluitend hout die voldoen aan de eisen genoemd onder a, punt 1, van bedrijfsmiddel A 6310, waarbij de speelelementen voldoen aan de voorschriften bedoeld in het [Warenwetbesluit attractie- speeltoestellen](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md),  
 
 b. bestaande uit: een natuurspeelplek en (eventueel) geprefabriceerde houten speelelementen.    *A 6325*   *Vogelvriendelijke UV-reflecterende beglazing*  
 

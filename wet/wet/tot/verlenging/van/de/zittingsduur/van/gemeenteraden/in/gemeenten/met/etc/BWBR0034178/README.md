@@ -11,12 +11,12 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  1  
 
-In deze wet wordt onder een herindelingsgemeente verstaan een gemeente waarvoor in de periode van 1 oktober 2013 tot en met 31 december 2013 een voorstel van wet tot wijziging van de gemeentelijke indeling als bedoeld in [artikel 1, onderdeel b, van de Wet algemene regels herindeling](../../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) is ingediend bij de Tweede Kamer der Staten-Generaal, waarin voor die gemeente is voorzien in een tussentijdse raadsverkiezing als bedoeld in [artikel 52 van de Wet algemene regels herindeling](../../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).  
+In deze wet wordt onder een herindelingsgemeente verstaan een gemeente waarvoor in de periode van 1 oktober 2013 tot en met 31 december 2013 een voorstel van wet tot wijziging van de gemeentelijke indeling als bedoeld in [artikel 1, onderdeel b, van de Wet algemene regels herindeling](../../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) is ingediend bij de Tweede Kamer der Staten-Generaal, waarin voor die gemeente is voorzien in een tussentijdse raadsverkiezing als bedoeld in [artikel 52 van de Wet algemene regels herindeling](../../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
 
 ### Artikel  2  
 
 1.  De verkiezing van de leden van de gemeenteraad in 2014, waarvoor de kandidaatstelling plaatsvindt op de dag, bedoeld in [artikel F 1, eerste lid, van de Kieswet](../../../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md), blijft in een herindelingsgemeente achterwege.   
-2.  De zittingsduur van de leden van de raad van een herindelingsgemeente wordt verlengd tot 1 januari 2015.   
+2.  De zittingsduur van de leden van de raad van een herindelingsgemeente wordt verlengd tot 1 januari 2015.  
 
 ### Artikel  3  
 
@@ -30,22 +30,22 @@ b. de in [artikel G 3, eerste lid, van de Kieswet](../../../../../../../../../..
 c. de in [artikel G 4, tweede lid, van de Kieswet](../../../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) bedoelde beslissing van het centraal stembureau, vindt uiterlijk plaats op 25 september 2014;  
 
 d. de in [artikel G 5, eerste lid, onderdelen b en c, van de Kieswet](../../../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) bedoelde beschikkingen, vinden uiterlijk plaats op 29 september 2014.     
-3.  De op grond van het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de stemming in 2014 heeft plaatsgevonden op de dag, bedoeld in [artikel J 1, eerste lid, van de Kieswet](../../../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md).   
+3.  De op grond van het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de stemming in 2014 heeft plaatsgevonden op de dag, bedoeld in [artikel J 1, eerste lid, van de Kieswet](../../../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md).  
 
 ### Artikel  4  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2019.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2019. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 6 november 2013  
 Willem-Alexander  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 R.H.A. Plasterk   
 
 de *veertiende* november 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

@@ -11,12 +11,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Deze wet is van toepassing op de gemeenten Abcoude, Andijk, Bergen, Breukelen, Bodegraven, Bolsward, Bussum, De Ronde Venen, Eijsden, Gennep, Lith, Loenen, Maarssen, Margraten, Medemblik, Mook en Middelaar, Muiden, Naarden, Nijefurd, Oss, Reeuwijk, Renswoude, Scherpenzeel, Sneek, Weesp, Wervershoof, Woudenberg, Wunseradiel en Wymbritseradiel.  
+Deze wet is van toepassing op de gemeenten Abcoude, Andijk, Bergen, Breukelen, Bodegraven, Bolsward, Bussum, De Ronde Venen, Eijsden, Gennep, Lith, Loenen, Maarssen, Margraten, Medemblik, Mook en Middelaar, Muiden, Naarden, Nijefurd, Oss, Reeuwijk, Renswoude, Scherpenzeel, Sneek, Weesp, Wervershoof, Woudenberg, Wunseradiel en Wymbritseradiel. 
 
 ### Artikel  2  
 
 1.  De verkiezing van leden van de raad van een in artikel 1 genoemde gemeente, waarvoor de kandidaatstelling op 19 januari 2010 zou plaatsvinden, blijft achterwege.   
-2.  De zittingsduur van de leden van de raad van een in artikel 1 genoemde gemeente wordt verlengd tot 1 januari 2011.   
+2.  De zittingsduur van de leden van de raad van een in artikel 1 genoemde gemeente wordt verlengd tot 1 januari 2011.  
 
 ### Artikel  3  
 
@@ -28,13 +28,13 @@ a. de in de [artikelen G 1, achtste lid](../../../../../../../../../../../wet/ki
 b. de in [artikel G 3, eerste lid, van de Kieswet](../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) bedoelde verzoeken tot registratie van aanduidingen van politieke groeperingen voor de verkiezing van de raad van de betrokken gemeente ingediend na 27 september 2010, blijven voor de daaropvolgende verkiezing van de desbetreffende raad buiten beschouwing;  
 
 c. de in [artikel G 4, tweede lid van de Kieswet](../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) bedoelde beslissing van het centraal stembureau, vindt uiterlijk plaats op 30 september 2010.     
-3.  De op grond van het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 3 maart 2010 hebben plaatsgevonden.   
+3.  De op grond van het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 3 maart 2010 hebben plaatsgevonden.  
 
 ### Artikel  4  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2015.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2015. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 9 november 2009  

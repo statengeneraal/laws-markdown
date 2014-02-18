@@ -10,34 +10,34 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Productschappen Vee, Vlees en Eieren (PVE) en de daaronder ressorterende actoren op het beleidsterrein Voedselvoorziening en agrarisch markt- en prijsbeleid (1934) 1945–2000 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Productschappen Vee, Vlees en Eieren (PVE) en de daaronder ressorterende actoren op het beleidsterrein Voedselvoorziening en agrarisch markt- en prijsbeleid (1934) 1945–2000’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 18 september 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven  
+M.W. van Boven    
 
 ####Basisselectiedocument
 
 ####voor het beleidsterrein Voedselvoorziening en Agrarisch Markt- en prijsbeleid (1934) (1945–2000)
 
-Dit document is geldig voor de zorgdragers: Minister van Landbouw, Natuur en Voedselkwaliteit Minister van Justitie Minister van Economische Zaken Minister van Financiën, Minister van Sociale Zaken en Werkgelegenheid Productschap voor Vee, Vlees en Eieren (PVE)  Versie september 2007 
+Dit document is geldig voor de zorgdragers:  Minister van Landbouw, Natuur en Voedselkwaliteit  Minister van Justitie  Minister van Economische Zaken  Minister van Financiën,  Minister van Sociale Zaken en Werkgelegenheid  Productschap voor Vee, Vlees en Eieren (PVE)  Versie september 2007 
 
 ####Inhoudsopgave
 
-Lijst van Afkortingen Verantwoording Doel en de werking van het BSD Afbakening van het beleidsterrein Doelstelling en beleidsinstrumenten De actoren op het beleidsdsterrein die in dit BSD worden meegenomen Selectiedoelstelling Selectiecriteria Verslag vaststellingsprocedure Leeswijzer Actorenoverzicht Markt en prijsbeleid Deel 1: Handelingen van de minister van Landbouw, Natuur en Voedselkwaliteit Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) Deel 2. Handelingen van actoren onder het zorgdragersschap van de minister van Landbouw, Natuur en Voedselkwaliteit Aan- en Verkoopbureaus Algemene Inspectie Dienst (AID) Centrale Commissie voor de Voedselvoorziening College van Overleg voor de Voedselvoorziening College van Overleg voor de Voedselvoorziening en de Buitenlandse Agrarische Aangelegenheden College van Regeringscommissarissen voor de Voedselvoorziening College voor de Voedselvoorziening Commissie beoordeling besteding toeslag kleine zandbedrijven Commissie Officiële Nederlandse Zuivelnoteringen Commissie van beheer Voedselvoorziening Importbureau (VIB) Commissie van Bijstand Commissie vereenvoudiging voedselvoorzieningsmaatregelen Commissie voor de Bodemproductie Commissies van Bijstand Voedselvoorziening Importbureau (VIB) Coördinatieraden voor de voedselvoorziening Landbouw-Economisch Instituut (LEI) Landelijke adviescommissie inzake de superheffing Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen Productiecommissarissen Raad van Advies en Toezicht van de Stichting Voedselvoorziening Importbureau (VIB) Raad van toezicht voor een Aan- en Verkoopbureau Raad voor de Voedselvoorziening Regeringscommissaris voor de Akkerbouw en de Veehouderij Regeringscommissaris voor de Bodemproductie Sectorspecifieke commissies garantieprijsbeleid Regeringscommissarissen voor de Voedselvoorziening Staatsbosbeheer (SBB) Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (O&S-fonds) Stichting tot Uitvoering van Landbouwmaatregelen (STULM 1963) Stichting tot uitvoering van landbouwmaatregelen (STULM 1974) Stichting Voedselvoorziening Importbureau (VIB) Deel 3. Handelingen van overige actoren Minister van Economische Zaken Minister van Financiën Minister van Justitie Actoren die ressorteren onder het zorgdragerschap van de Minister van Justitie Tuchtrechters voor de voedselvoorziening Centraal College voor de Tuchtrechtspraak Hoofdambtenaren en ambtenaren voor de tuchtrechtspraak Minister van Sociale Zaken en Werkgelegenheid Productschap voor Vee en Vlees (PVV)  
+Lijst van Afkortingen  Verantwoording  Doel en de werking van het BSD Afbakening van het beleidsterrein  Doelstelling en beleidsinstrumenten De actoren op het beleidsdsterrein die in dit BSD worden meegenomen Selectiedoelstelling  Selectiecriteria  Verslag vaststellingsprocedure  Leeswijzer  Actorenoverzicht Markt en prijsbeleid Deel 1: Handelingen van de minister van Landbouw, Natuur en Voedselkwaliteit  Minister van Landbouw, Natuur en Voedselkwaliteit (LNV)  Deel 2. Handelingen van actoren onder het zorgdragersschap van de minister van Landbouw, Natuur en Voedselkwaliteit  Aan- en Verkoopbureaus  Algemene Inspectie Dienst (AID)  Centrale Commissie voor de Voedselvoorziening  College van Overleg voor de Voedselvoorziening  College van Overleg voor de Voedselvoorziening en de Buitenlandse Agrarische Aangelegenheden  College van Regeringscommissarissen voor de Voedselvoorziening  College voor de Voedselvoorziening  Commissie beoordeling besteding toeslag kleine zandbedrijven  Commissie Officiële Nederlandse Zuivelnoteringen  Commissie van beheer Voedselvoorziening Importbureau (VIB) Commissie van Bijstand Commissie vereenvoudiging voedselvoorzieningsmaatregelen Commissie voor de Bodemproductie  Commissies van Bijstand Voedselvoorziening Importbureau (VIB)  Coördinatieraden voor de voedselvoorziening  Landbouw-Economisch Instituut (LEI)  Landelijke adviescommissie inzake de superheffing  Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen  Productiecommissarissen  Raad van Advies en Toezicht van de Stichting Voedselvoorziening Importbureau (VIB)  Raad van toezicht voor een Aan- en Verkoopbureau  Raad voor de Voedselvoorziening  Regeringscommissaris voor de Akkerbouw en de Veehouderij  Regeringscommissaris voor de Bodemproductie  Sectorspecifieke commissies garantieprijsbeleid  Regeringscommissarissen voor de Voedselvoorziening  Staatsbosbeheer (SBB)  Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (O&S-fonds)  Stichting tot Uitvoering van Landbouwmaatregelen (STULM 1963)  Stichting tot uitvoering van landbouwmaatregelen (STULM 1974)  Stichting Voedselvoorziening Importbureau (VIB)  Deel 3. Handelingen van overige actoren  Minister van Economische Zaken  Minister van Financiën  Minister van Justitie  Actoren die ressorteren onder het zorgdragerschap van de Minister van Justitie  Tuchtrechters voor de voedselvoorziening  Centraal College voor de Tuchtrechtspraak  Hoofdambtenaren en ambtenaren voor de tuchtrechtspraak  Minister van Sociale Zaken en Werkgelegenheid  Productschap voor Vee en Vlees (PVV) 
 
 ####Lijst van Afkortingen
 
-AID: Algemene Inspectiedienst AO: Administratieve organisatie APVA: Agrarische Produktie, Verwerking en Afzet (directie -, LNV) BNP: Bruto Nationaal Product BSE: Boviene spongiforme encefalopathie (gekke-koeienziekte) CAS: Centrale Archief Selectiedienst CB: Coördinerend Bureau van de directie Internationale Zaken (LNV) CCCD: Centrale Crisis Controledienst CCD: Centrale Controledienst CDK: Centraal Distributiekantoor CEVV: Commissie voor de Economische Verdedigingsvoorbereiding DBA: Directie Bedrijfsstructurele Aangelegenheden (LNV) DBH: Districtsbureauhouder DGIS: Directoraat-Generaal Internationale Samenwerking (BuiZa) DUR: Dienst Uitvoering Regelingen DUR: Directie Uitvoering Regelingen (LNV) EBU: Europese Betalingsunie EC: Europese Commissie EEG: Europese Economische Gemeenschap EFRO: Europees Fonds voor Regionale Ontwikkeling EG: Europese Gemeenschap EMS: Europees Monetair Stelsel EMU: Europese Monetaire Unie EOGFL: Europees Oriëntatie- en Garantiefonds voor de Landbouw EOGFL-G: Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie EOGFL-O: Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Oriëntatie EU: Europese Unie EZ: Economische Zaken (ministerie van -) FAO: Food and Agricultural Organisation (Wereldvoedselorganisatie) GATT: General Agreement on Tariffs and Trade GLB: Gemeenschappelijk landbouwbeleid GMO: Gemeenschappelijke marktordening GVE: Grootvee-eenheid GWWD: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (Stb. 1992, 585) HID: Hoofdingenieur-directeur (voor de bedrijfsontwikkeling) (LNV) HPA: Hoofdproductschap Akkerbouw IDES: Interactive Data Entry System I&R: Identificatie en registratie LASER: Landelijke Service bij Regelingen van het ministerie van LNV LEF: Landbouw-Egalisatiefonds LEI: Landbouw-Economisch Instituut LNO: Landbouw, Natuur en Openluchtrecreatie (Provinciaal Apparaat -, LNV) LNV: Landbouw, Natuurbeheer en Visserij (ministerie van -) LRE: Landbouwrekeneenheid LVV: Landbouw, Voedselvoorziening en Visserij (Commissie voor -) (Benelux) MCB’s: Monetair Compenserende Bedragen MIO: Methode Institutioneel Onderzoek MKZ: Mond- en klauwzeer MOEL: Landen van Midden- en Oost-Europa MvA: Memorie van Antwoord MVH: Medeverantwoordelijkheidsheffing MvT: Memorie van Toelichting NGE: Nederlandse grootte-eenheid OVO: Onderwijs, voorlichting & onderzoek PA: Productschap Akkerbouw PbEG: Publicatieblad der Europese Gemeenschappen PBO: Publiekrechtelijke bedrijfsorganisatie (product- of bedrijfschap) PGF: Productschap voor Groenten en Fruit PGZP: Productschap voor Granen, Zaden en Peulvruchten Pivot: Project Invoering Verkorting Overbrengingstermijn PVV: Productschap voor Vee en Vlees PZ: Productschap Zuivel RBVVO: Rijksbureau voor de Voorbereiding van de Voedselvoorziening in Oorlogstijd (later: Rijksbureau voor de Voedselvoorziening in Oorlogstijd) RECOBAA: Regeringscommissaris voor de Buitenlandse Agrarische Aangelegenheden SER: Sociaal-Economische Raad Stb.: Staatsblad Stcrt.: Staatscourant STOPA: Stichting Overname Pootaardappelen STULM: Stichting tot Uitvoering van Landbouwmaatregelen 1974 Trb.: Tractatenblad VB: 1. Verordeningenblad voor het bezette Nederlandsche gebied VIB: 2. Voedselvoorziening Import Bureau (Stichting -); Voedselvoorzieningsin- en verkoopbureau WBO: [Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) WHO: Wereldhandelsorganisatie WTO: World Trade Organization ZBO: Zelfstandig bestuursorgaan  
+AID: Algemene Inspectiedienst AO: Administratieve organisatie APVA: Agrarische Produktie, Verwerking en Afzet (directie -, LNV) BNP: Bruto Nationaal Product BSE: Boviene spongiforme encefalopathie (gekke-koeienziekte) CAS: Centrale Archief Selectiedienst CB: Coördinerend Bureau van de directie Internationale Zaken (LNV) CCCD: Centrale Crisis Controledienst CCD: Centrale Controledienst CDK: Centraal Distributiekantoor CEVV: Commissie voor de Economische Verdedigingsvoorbereiding DBA: Directie Bedrijfsstructurele Aangelegenheden (LNV) DBH: Districtsbureauhouder DGIS: Directoraat-Generaal Internationale Samenwerking (BuiZa) DUR: Dienst Uitvoering Regelingen DUR: Directie Uitvoering Regelingen (LNV) EBU: Europese Betalingsunie EC: Europese Commissie EEG: Europese Economische Gemeenschap EFRO: Europees Fonds voor Regionale Ontwikkeling EG: Europese Gemeenschap EMS: Europees Monetair Stelsel EMU: Europese Monetaire Unie EOGFL: Europees Oriëntatie- en Garantiefonds voor de Landbouw EOGFL-G: Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie EOGFL-O: Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Oriëntatie EU: Europese Unie EZ: Economische Zaken (ministerie van -) FAO: Food and Agricultural Organisation (Wereldvoedselorganisatie) GATT: General Agreement on Tariffs and Trade GLB: Gemeenschappelijk landbouwbeleid GMO: Gemeenschappelijke marktordening GVE: Grootvee-eenheid GWWD: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) (Stb. 1992, 585) HID: Hoofdingenieur-directeur (voor de bedrijfsontwikkeling) (LNV) HPA: Hoofdproductschap Akkerbouw IDES: Interactive Data Entry System I&R: Identificatie en registratie LASER: Landelijke Service bij Regelingen van het ministerie van LNV LEF: Landbouw-Egalisatiefonds LEI: Landbouw-Economisch Instituut LNO: Landbouw, Natuur en Openluchtrecreatie (Provinciaal Apparaat -, LNV) LNV: Landbouw, Natuurbeheer en Visserij (ministerie van -) LRE: Landbouwrekeneenheid LVV: Landbouw, Voedselvoorziening en Visserij (Commissie voor -) (Benelux) MCB’s: Monetair Compenserende Bedragen MIO: Methode Institutioneel Onderzoek MKZ: Mond- en klauwzeer MOEL: Landen van Midden- en Oost-Europa MvA: Memorie van Antwoord MVH: Medeverantwoordelijkheidsheffing MvT: Memorie van Toelichting NGE: Nederlandse grootte-eenheid OVO: Onderwijs, voorlichting & onderzoek PA: Productschap Akkerbouw PbEG: Publicatieblad der Europese Gemeenschappen PBO: Publiekrechtelijke bedrijfsorganisatie (product- of bedrijfschap) PGF: Productschap voor Groenten en Fruit PGZP: Productschap voor Granen, Zaden en Peulvruchten Pivot: Project Invoering Verkorting Overbrengingstermijn PVV: Productschap voor Vee en Vlees PZ: Productschap Zuivel RBVVO: Rijksbureau voor de Voorbereiding van de Voedselvoorziening in Oorlogstijd (later: Rijksbureau voor de Voedselvoorziening in Oorlogstijd) RECOBAA: Regeringscommissaris voor de Buitenlandse Agrarische Aangelegenheden SER: Sociaal-Economische Raad Stb.: Staatsblad Stcrt.: Staatscourant STOPA: Stichting Overname Pootaardappelen STULM: Stichting tot Uitvoering van Landbouwmaatregelen 1974 Trb.: Tractatenblad VB: 1. Verordeningenblad voor het bezette Nederlandsche gebied VIB: 2. Voedselvoorziening Import Bureau (Stichting -); Voedselvoorzieningsin- en verkoopbureau WBO: [Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) WHO: Wereldhandelsorganisatie WTO: World Trade Organization ZBO: Zelfstandig bestuursorgaan 
 
 ####Verantwoording
 
@@ -55,7 +55,7 @@ De voorliggende selectielijst geldt voor alle actoren onder de archiefzorg van d
 
 – De lijst geldt voor alle vormen van neerslag die resulteren uit de beschreven handelingen: papieren documenten, elektronische bestanden, audiovisuele producten enz.  
 
-– De lijst noemt niet alleen de handelingen waarvan de neerslag vernietigd kan worden, maar ook de handelingen waarvan de neerslag bewaard moet blijven.    
+– De lijst noemt niet alleen de handelingen waarvan de neerslag vernietigd kan worden, maar ook de handelingen waarvan de neerslag bewaard moet blijven.   
 
 #### *Afbakening van het beleidsterrein* 
 
@@ -63,51 +63,51 @@ Het beleidsterrein *Agrarisch markt- en prijsbeleid en Voedselvoorziening* heeft
 
 #### *Agrarische exportbevordering* 
 
-Het stimuleren van de agrarische export kent twee niveaus: autonoom door de Nederlandse overheid en binnen de regels van de Europese Unie. De uitvoer van agrarische producten naar markten buiten de EU, waar de prijzen lager liggen dan in Europa, kan in het kader van het gemeenschappelijke markt- en prijsbeleid worden ondersteund door exportrestituties. Sinds het begin van de jaren ’60 bepaalt de EU hoeveel subsidie de lidstaten mogen verstrekken ten behoeve van agrarische exporten naar derde landen. De regelgeving die van toepassing is op deze vorm van markt- en prijsbeleid kan niet los worden gezien van het stelsel van invoerheffingen en invoer- en uitvoercertificaten, en wordt behandeld in het voorliggende rapport. De agrarische exportbevordering die bestaat uit het Nederlandse stimuleringsbeleid dat niet onder de noemer van markt- en prijsbeleid valt, wordt behandeld in het beleidsfacet *Agrarische exportbevordering*. Dit beleidsterrein, beschreven in Pivot-rapport nr. 80 (*Agrarische handelspolitiek en exportbevordering*), heeft als spits de zuivere bevordering van de agrarische export middels onder meer promotie en marktonderzoek, sinds 1998 geformuleerd als: stimulering van de internationalisering en internationale markttoegang van de agribusiness. In het voorliggende rapport wordt echter de generieke promotie van landbouwproducten in derde landen, die naadloos aansluit op die op de interne markt, behandeld (zie Deel 7).  
+Het stimuleren van de agrarische export kent twee niveaus: autonoom door de Nederlandse overheid en binnen de regels van de Europese Unie. De uitvoer van agrarische producten naar markten buiten de EU, waar de prijzen lager liggen dan in Europa, kan in het kader van het gemeenschappelijke markt- en prijsbeleid worden ondersteund door exportrestituties. Sinds het begin van de jaren ’60 bepaalt de EU hoeveel subsidie de lidstaten mogen verstrekken ten behoeve van agrarische exporten naar derde landen. De regelgeving die van toepassing is op deze vorm van markt- en prijsbeleid kan niet los worden gezien van het stelsel van invoerheffingen en invoer- en uitvoercertificaten, en wordt behandeld in het voorliggende rapport. De agrarische exportbevordering die bestaat uit het Nederlandse stimuleringsbeleid dat niet onder de noemer van markt- en prijsbeleid valt, wordt behandeld in het beleidsfacet *Agrarische exportbevordering*. Dit beleidsterrein, beschreven in Pivot-rapport nr. 80 (*Agrarische handelspolitiek en exportbevordering*), heeft als spits de zuivere bevordering van de agrarische export middels onder meer promotie en marktonderzoek, sinds 1998 geformuleerd als: stimulering van de internationalisering en internationale markttoegang van de agribusiness. In het voorliggende rapport wordt echter de generieke promotie van landbouwproducten in derde landen, die naadloos aansluit op die op de interne markt, behandeld (zie Deel 7). 
 
 #### *Agrarische handelspolitiek* 
 
-Het doel van de overheid ten aanzien van de agrarische handelspolitiek kan worden samengevat als: *het bevorderen van de verruiming van de internationale agrarische handel en de vermindering van handelsbelemmeringen*. Er kan onderscheid gemaakt worden tussen het beleid op de lange en op de korte termijn. Op de lange termijn is het doel gericht op zo gezond mogelijke internationale concurrentieverhoudingen en op de korte termijn staat het oplossen van plotselinge marktverstoringen voorop. In de zin als hierboven geschetst heeft de agrarische handelspolitiek een ruimere, meer overstijgende strekking dan het specifiekere, op de Europese landbouwmarkt gerichte agrarisch markt- en prijsbeleid. In het contextrapport betreffende de agrarische handelspolitiek zijn overigens ook handelingen betreffende vergunningen en invoerheffingen opgenomen, en wel voor de producten cacao en koffie.  
+Het doel van de overheid ten aanzien van de agrarische handelspolitiek kan worden samengevat als: *het bevorderen van de verruiming van de internationale agrarische handel en de vermindering van handelsbelemmeringen*. Er kan onderscheid gemaakt worden tussen het beleid op de lange en op de korte termijn. Op de lange termijn is het doel gericht op zo gezond mogelijke internationale concurrentieverhoudingen en op de korte termijn staat het oplossen van plotselinge marktverstoringen voorop. In de zin als hierboven geschetst heeft de agrarische handelspolitiek een ruimere, meer overstijgende strekking dan het specifiekere, op de Europese landbouwmarkt gerichte agrarisch markt- en prijsbeleid. In het contextrapport betreffende de agrarische handelspolitiek zijn overigens ook handelingen betreffende vergunningen en invoerheffingen opgenomen, en wel voor de producten cacao en koffie. 
 
 #### *Bedrijfsorganisatie* 
 
-De bedrijfsorganisatie (bedrijfschappen en vakorganisaties), ontstaan tijdens de bezetting, was gericht op de agrarische en voedselverwerkende sectoren en ressorteerde dan ook onder het departement van Landbouw, Visserij en Voedselvoorziening. Pas in de jaren ’50 werden de bedrijfslichamen-oude stijl vervangen door product- en bedrijfschappen op grond van de [Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), een wet die tevens de instelling van de SER regelde en het stelsel van de bedrijfslichamen uitbreidde tot de niet-agrarische sectoren van productie en handel. Deze bedrijfsorganisatie-nieuwe stijl heeft een ruimere economische strekking en wordt daarom niet beschreven in het onderhavige rapport, maar in een afzonderlijk Pivot-contextrapport (nr. 58, *Sociaal-Economische Raad*).  
+De bedrijfsorganisatie (bedrijfschappen en vakorganisaties), ontstaan tijdens de bezetting, was gericht op de agrarische en voedselverwerkende sectoren en ressorteerde dan ook onder het departement van Landbouw, Visserij en Voedselvoorziening. Pas in de jaren ’50 werden de bedrijfslichamen-oude stijl vervangen door product- en bedrijfschappen op grond van de [Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), een wet die tevens de instelling van de SER regelde en het stelsel van de bedrijfslichamen uitbreidde tot de niet-agrarische sectoren van productie en handel. Deze bedrijfsorganisatie-nieuwe stijl heeft een ruimere economische strekking en wordt daarom niet beschreven in het onderhavige rapport, maar in een afzonderlijk Pivot-contextrapport (nr. 58, *Sociaal-Economische Raad*). 
 
 #### *Buitenlandse Zaken* 
 
-In het onderwerp *voedselhulp aan derde landen* raakt het beleidsterrein Agrarisch markt- en prijsbeleid dat van Buitenlandse Zaken. Binnen dit laatste ministerie is de minister van Ontwikkelingssamenwerking verantwoordelijk voor de voedselhulp, soms afkomstig uit interventievoorraden, vaker uit specifieke voedselaankopen. In Pivot-rapport nr. 103, *Gedane buitenlandse zaken*, zijn enkele handelingen terzake (maar niet van de Minister van Landbouw, Natuur en Voedselkwaliteit) opgenomen. (Zie verder onder kopje *Ontwikkelingssamenwerking*.)  
+In het onderwerp *voedselhulp aan derde landen* raakt het beleidsterrein Agrarisch markt- en prijsbeleid dat van Buitenlandse Zaken. Binnen dit laatste ministerie is de minister van Ontwikkelingssamenwerking verantwoordelijk voor de voedselhulp, soms afkomstig uit interventievoorraden, vaker uit specifieke voedselaankopen. In Pivot-rapport nr. 103, *Gedane buitenlandse zaken*, zijn enkele handelingen terzake (maar niet van de Minister van Landbouw, Natuur en Voedselkwaliteit) opgenomen. (Zie verder onder kopje *Ontwikkelingssamenwerking*.) 
 
 #### *Gezondheid en welzijn van dieren* 
 
-De Europese dierpremieregelingen zijn nauw gerelateerd aan het I&R-systeem voor dieren, dat valt onder de [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). [Deze wet](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) neemt een belangrijke plaats in in Pivot-rapport nr. 107, *Gezondheid en welzijn van dieren*.  
+De Europese dierpremieregelingen zijn nauw gerelateerd aan het I&R-systeem voor dieren, dat valt onder de [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). [Deze wet](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) neemt een belangrijke plaats in in Pivot-rapport nr. 107, *Gezondheid en welzijn van dieren*. 
 
 #### *Invoerrechten en accijnzen* 
 
-Het agrarisch markt- en prijsbeleid raakt aan het beleid op het gebied van invoerrechten en accijnzen. De invoer is immers gebonden aan heffingen, terwijl in 1996 de landbouwheffingen onder het regime van de douanerechten werden gebracht. Pivot-rapport nr. 38, *De grens geslecht*, gaat over de invoerrechten en accijnzen in algemenere zin. In het voorliggende rapport wordt onder meer naar rapport nr. 38 verwezen in het kader van vrijstelling van belastingen bij invoer (actief veredelingsverkeer).  
+Het agrarisch markt- en prijsbeleid raakt aan het beleid op het gebied van invoerrechten en accijnzen. De invoer is immers gebonden aan heffingen, terwijl in 1996 de landbouwheffingen onder het regime van de douanerechten werden gebracht. Pivot-rapport nr. 38, *De grens geslecht*, gaat over de invoerrechten en accijnzen in algemenere zin. In het voorliggende rapport wordt onder meer naar rapport nr. 38 verwezen in het kader van vrijstelling van belastingen bij invoer (actief veredelingsverkeer). 
 
 #### *Landbouwstructuurbeleid* 
 
-Landbouwstructuurbeleid is een van de pijlers van landbouwbeleid, samen met markt- en prijsbeleid. Door ondersteuning van en ingrijpen in de structuur van de agrarische productie, verwerking en afzet poogt de overheid middels een complex van technische overheidsmaatregelen met betrekking tot de landbouw sturing te geven aan de productiefactoren of productiemiddelen in de landbouw. Het agrarisch markt- en prijsbeleid daarentegen richt zich – zoals al in de naam tot uitdrukking komt – op de prijsvormingskant van de producten. In de praktijk blijkt echter dat de grens soms niet scherp is te trekken. Een afzonderlijk Pivot-rapport behandelt het landbouwstructuurbeleid.  
+Landbouwstructuurbeleid is een van de pijlers van landbouwbeleid, samen met markt- en prijsbeleid. Door ondersteuning van en ingrijpen in de structuur van de agrarische productie, verwerking en afzet poogt de overheid middels een complex van technische overheidsmaatregelen met betrekking tot de landbouw sturing te geven aan de productiefactoren of productiemiddelen in de landbouw. Het agrarisch markt- en prijsbeleid daarentegen richt zich – zoals al in de naam tot uitdrukking komt – op de prijsvormingskant van de producten. In de praktijk blijkt echter dat de grens soms niet scherp is te trekken. Een afzonderlijk Pivot-rapport behandelt het landbouwstructuurbeleid. 
 
 #### *Landbouwkwaliteit en voeding* 
 
-Als het gaat om de voedselvoorziening en agrarisch markt- en prijsbeleid, dan kan men niet heen om de kwaliteit van de betreffende landbouwproducten. Met name ook in het kader van de invoer en uitvoer is het van groot belang dat de producten voldoen aan hoge standaarden. Vandaar ook de vele uitvoercontrolebeschikkingen. Deze en daarmee samenhangende zaken worden behandeld in het contextrapport over landbouwkwaliteit en voeding.  
+Als het gaat om de voedselvoorziening en agrarisch markt- en prijsbeleid, dan kan men niet heen om de kwaliteit van de betreffende landbouwproducten. Met name ook in het kader van de invoer en uitvoer is het van groot belang dat de producten voldoen aan hoge standaarden. Vandaar ook de vele uitvoercontrolebeschikkingen. Deze en daarmee samenhangende zaken worden behandeld in het contextrapport over landbouwkwaliteit en voeding. 
 
 #### *Ontwikkelingssamenwerking* 
 
-Voedselhulp kan worden gegeven door aankoop van aparte partijen voedsel, maar ook door aanwending voor dat doel van interventievoorraden. In die zin is er een relatie te leggen met het agrarisch markt- en prijsbeleid en de voedselvoorziening. Aangezien echter de hoofdverantwoordelijkheid ligt bij de minister van Ontwikkelingssamenwerking, behoort het onderwerp *voedselhulp aan derde landen* in het daarop betrekking hebbende contextrapport (Pivot-rapport nr. 103, *Gedane buitenlandse zaken*) te worden ondergebracht.  
+Voedselhulp kan worden gegeven door aankoop van aparte partijen voedsel, maar ook door aanwending voor dat doel van interventievoorraden. In die zin is er een relatie te leggen met het agrarisch markt- en prijsbeleid en de voedselvoorziening. Aangezien echter de hoofdverantwoordelijkheid ligt bij de minister van Ontwikkelingssamenwerking, behoort het onderwerp *voedselhulp aan derde landen* in het daarop betrekking hebbende contextrapport (Pivot-rapport nr. 103, *Gedane buitenlandse zaken*) te worden ondergebracht. 
 
 #### *Pachtbeleid* 
 
-Beleid waarbij de grondgebonden productie zo belangrijk is als bij het agrarisch markt- en prijsbeleid, heeft onvermijdelijk raakvlakken met het pachtbeleid. Zo heeft bedrijfsoverdracht vrijwel altijd consequenties voor de toepassing van productieregelingen, zoals de superheffing. Het pachtbeleid wordt uitgewerkt in Pivot-rapport nr. 35, *Pacht- en Grondprijsbeleid*.  
+Beleid waarbij de grondgebonden productie zo belangrijk is als bij het agrarisch markt- en prijsbeleid, heeft onvermijdelijk raakvlakken met het pachtbeleid. Zo heeft bedrijfsoverdracht vrijwel altijd consequenties voor de toepassing van productieregelingen, zoals de superheffing. Het pachtbeleid wordt uitgewerkt in Pivot-rapport nr. 35, *Pacht- en Grondprijsbeleid*. 
 
 #### *Prijsbeleid* 
 
-De algemene kaders van het prijsbeleid worden bepaald door Economische Zaken ([Prijzenwet](../../../../../../../../../wet/prijzenwet/BWBR0002353/README.md), behandeld in Pivot-rapport nr. 108, *Prijsbeleid en Economische controle*). De minister van Landbouw kan echter regels stellen ten aanzien van de prijzen voor landbouwproducten (o.a. [Landbouwwet, art. 17](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md)). In 1958 is bij KB vastgesteld dat overeenstemming met de minister van EZ vereist is, wanneer beschikkingen bindende regels of concurrentiebeperking inhouden voor industriële of handelsondernemingen (Stb. 1958, 167). Het eerder genoemde rapport beschrijft met name het aandeel van de minister van Economische Zaken en verwijst voor de rol van LNV en de productschappen naar de contextrapporten van LNV (blz. 5 en 13).  
+De algemene kaders van het prijsbeleid worden bepaald door Economische Zaken ([Prijzenwet](../../../../../../../../../wet/prijzenwet/BWBR0002353/README.md), behandeld in Pivot-rapport nr. 108, *Prijsbeleid en Economische controle*). De minister van Landbouw kan echter regels stellen ten aanzien van de prijzen voor landbouwproducten (o.a. [Landbouwwet, art. 17](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md)). In 1958 is bij KB vastgesteld dat overeenstemming met de minister van EZ vereist is, wanneer beschikkingen bindende regels of concurrentiebeperking inhouden voor industriële of handelsondernemingen (Stb. 1958, 167). Het eerder genoemde rapport beschrijft met name het aandeel van de minister van Economische Zaken en verwijst voor de rol van LNV en de productschappen naar de contextrapporten van LNV (blz. 5 en 13). 
 
 #### *Sociaal-Economische Raad* 
 
-De productschappen spelen een belangrijke rol in de uitvoering van het agrarisch markt- en prijsbeleid. De bedrijfschappen-oude stijl werden ingesteld en opgeheven door de daarvoor verantwoordelijke ministers, meestal de minister van Landbouw. De op de WBO gebaseerde bedrijfslichamen eveneens, totdat de SER die rol kreeg toebedeeld in 1992. De instellingshandelingen betreffende de product- en bedrijfschappen staan in Pivot-rapport nr. 58, *Sociaal-Economische Raad* (handelingen nr. 79 t/m 84).  
+De productschappen spelen een belangrijke rol in de uitvoering van het agrarisch markt- en prijsbeleid. De bedrijfschappen-oude stijl werden ingesteld en opgeheven door de daarvoor verantwoordelijke ministers, meestal de minister van Landbouw. De op de WBO gebaseerde bedrijfslichamen eveneens, totdat de SER die rol kreeg toebedeeld in 1992. De instellingshandelingen betreffende de product- en bedrijfschappen staan in Pivot-rapport nr. 58, *Sociaal-Economische Raad* (handelingen nr. 79 t/m 84). 
 
 #### *Doelstelling en beleidsinstrumenten* 
 
@@ -121,7 +121,7 @@ Tijdens de schaarste van voor de Tweede Wereldoorlog werden de prijzen van landb
 
 – redelijke consumentenprijzen;  
 
-– vrijhandel (in EEG/EU-verband).   De [Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) (1957), ten slotte, kan worden aangemerkt als wettelijke basis van het latere voedselvoorzienings- en markt- en prijsbeleid. De doelstelling van deze kaderwet kan derhalve ook worden gelegd onder het agrarisch markt- en prijsbeleid. Die doelstelling luidt als volgt: ‘Het bevorderen van de voortbrenging, de afzet en een redelijke prijsvorming van voortbrengselen van de landbouw en de visserij en in verband daarmede ten behoeve van de afnemers van producten’ ([art. 13](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md)).  
+– vrijhandel (in EEG/EU-verband).   De [Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) (1957), ten slotte, kan worden aangemerkt als wettelijke basis van het latere voedselvoorzienings- en markt- en prijsbeleid. De doelstelling van deze kaderwet kan derhalve ook worden gelegd onder het agrarisch markt- en prijsbeleid. Die doelstelling luidt als volgt: ‘Het bevorderen van de voortbrenging, de afzet en een redelijke prijsvorming van voortbrengselen van de landbouw en de visserij en in verband daarmede ten behoeve van de afnemers van producten’ ([art. 13](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md)). 
 
 #### *De actoren op het beleidsdsterrein die in dit BSD worden meegenomen* 
 
@@ -133,18 +133,18 @@ In dit BSD wordt de neerslag beschreven van de handelingen van ondermeer de onde
 Aan- en Verkoopbureaus Algemene Inspectiedienst (AID) Centrale Commissie voor de Voedselvoorziening College van Overleg voor de Voedselvoorziening College van Overleg voor de Voedselvoorziening en de Buitenlandse Agrarische Aangelegenheden College van Regeringscommissarissen voor de Voedselvoorziening College voor de Voedselvoorziening; Commissie beoordeling besteding toeslag kleine zandbedrijven (plaatselijk/provinciaal) Commissie Officiële Nederlandse Zuivelnoteringen Commissie van beheer VIB Commissies van Bijstand (voor de Bodemproductie) Commissie vereenvoudiging voedselvoorzieningsmaatregelen Commissie voor de Bodemproductie Commissies van Bijstand VIB Coördinatieraden voor de voedselvoorziening Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen Productiecommissarissen Raad van Advies en Toezicht van de Stichting VIB Raad van toezicht voor een Aan- en Verkoopbureau Raad voor de Voedselvoorziening Regeringscommissaris voor de Akkerbouw en de Veehouderij Regeringscommissaris voor de Bodemproductie Regeringscommissarissen voor de Voedselvoorziening Staatsbosbeheer Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (O&S-fonds) Stichting tot uitvoeringk van landbouwmaatregelen (STULM 1963) Stichting tot uitvoeringk van landbouwmaatregelen (STULM 1974) Stichting VIB 
 ###Overige actoren
 
-Minister van Ecnomische Zaken, Minister van Financiën, Minister van Justitie, Actoren die onder het zorgdragerschap van de Minister van Justitie ressorteren: – Hoofdambtenaren en ambtenaren voor de tuchtrechtspraak, – Tuchtrechters, – Centraal college voor de tuchtrechtspraak, Minister van Sociale Zaken en Werkgelegenheid Productschap voor Vee en Vlees (PVV)  
+Minister van Ecnomische Zaken, Minister van Financiën, Minister van Justitie, Actoren die onder het zorgdragerschap van de Minister van Justitie ressorteren: – Hoofdambtenaren en ambtenaren voor de tuchtrechtspraak, – Tuchtrechters, – Centraal college voor de tuchtrechtspraak, Minister van Sociale Zaken en Werkgelegenheid Productschap voor Vee en Vlees (PVV) 
 
 ####Selectiedoelstelling
 
-De selectiedoelstelling van de Rijksarchiefdienst (RAD) is bij de behandeling van de nieuwe [Archiefwet](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (1995) in 1994 verwoord door de Staatssecretaris van Cultuur. Deze is erop gericht dat *met de te bewaren gegevens een reconstructie van het handelen van de rijksoverheid op hoofdlijnen ten opzichte van haar omgeving mogelijk moet zijn, waardoor bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring*. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein.  
+De selectiedoelstelling van de Rijksarchiefdienst (RAD) is bij de behandeling van de nieuwe [Archiefwet](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (1995) in 1994 verwoord door de Staatssecretaris van Cultuur. Deze is erop gericht dat *met de te bewaren gegevens een reconstructie van het handelen van de rijksoverheid op hoofdlijnen ten opzichte van haar omgeving mogelijk moet zijn, waardoor bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring*. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein. 
 
 ####Selectiecriteria
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de volgende algemene selectiecriteria. De cultuurhistorische waarde van handelingen wordt getoetst aan de onderstaande *algemene* selectiecriteria. 
 ###Algemene selectiecriteria:
 
-1. Handelingen die betrekking hebben op de voorbereiding en bepaling van het beleid op hoofdlijnen *Toelichting:* Agendavorming, analyse van informatie, beleidsadvisering, beleidsvoorbereiding of -planning, besluitvorming over de inhoud van beleid, terugkoppeling van beleid. Zowel de keuze als de specificatie van de doeleinden en instrumenten 2. Handelingen die betrekking hebben op de evaluatie van het beleid op hoofdlijnen *Toelichting:* Beschrijving en beoordeling van de inhoud, het proces of de effecten van beleid, toetsing van en toezicht op beleid. Niet perse leidend tot consequenties zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de verantwoording aan andere actoren van de hoofdlijnen van het beleid *Toelichting:* Ook verslaglegging ten aanzien van de beleidsmatige hoofdlijnen 4. Handelingen die betrekking hebben op de (her)inrichting van organisaties belast met het beleid op hoofdlijnen *Toelichting:* Instelling, wijziging, opheffing en werkwijze van organen, organisaties of onderdelen daarvan 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt de toepassing verstaan van instrumenten om de gekozen doeleinden te bereiken 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen, voor zover die in direct verband staan met voor Nederland bijzondere tijdsomstandigheden en incidenten *Toelichting:* Zoals wanneer de ministeriële verantwoordelijkheid is opgeheven en/of in noodsituaties Naast de algemene criteria kunnen in overleg met de RAD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Conform het [Archiefbesluit 1995, art. 5, onder d 1°](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) worden in het BSD de algemene criteria en eventuele beleidsterrein-specifieke criteria opgesomd om verantwoording te geven van de wijze waarop toepassing is gegeven aan het selectiebeleid van de RAD. Overigens verlangt [art. 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (Stb. 1995, 276) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in speciale gevallen te bewaren op grond van een *uitzonderingscriterium*. Hiertoe moet de volgende formule in het BSD worden opgenomen: Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.   
+1. Handelingen die betrekking hebben op de voorbereiding en bepaling van het beleid op hoofdlijnen  *Toelichting:* Agendavorming, analyse van informatie, beleidsadvisering, beleidsvoorbereiding of -planning, besluitvorming over de inhoud van beleid, terugkoppeling van beleid. Zowel de keuze als de specificatie van de doeleinden en instrumenten 2. Handelingen die betrekking hebben op de evaluatie van het beleid op hoofdlijnen  *Toelichting:* Beschrijving en beoordeling van de inhoud, het proces of de effecten van beleid, toetsing van en toezicht op beleid. Niet perse leidend tot consequenties zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de verantwoording aan andere actoren van de hoofdlijnen van het beleid  *Toelichting:* Ook verslaglegging ten aanzien van de beleidsmatige hoofdlijnen 4. Handelingen die betrekking hebben op de (her)inrichting van organisaties belast met het beleid op hoofdlijnen  *Toelichting:* Instelling, wijziging, opheffing en werkwijze van organen, organisaties of onderdelen daarvan 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt de toepassing verstaan van instrumenten om de gekozen doeleinden te bereiken 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen, voor zover die in direct verband staan met voor Nederland bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Zoals wanneer de ministeriële verantwoordelijkheid is opgeheven en/of in noodsituaties Naast de algemene criteria kunnen in overleg met de RAD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Conform het [Archiefbesluit 1995, art. 5, onder d 1°](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) worden in het BSD de algemene criteria en eventuele beleidsterrein-specifieke criteria opgesomd om verantwoording te geven van de wijze waarop toepassing is gegeven aan het selectiebeleid van de RAD. Overigens verlangt [art. 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (Stb. 1995, 276) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in speciale gevallen te bewaren op grond van een *uitzonderingscriterium*. Hiertoe moet de volgende formule in het BSD worden opgenomen: Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
 
 ####Verslag vaststellingsprocedure
 
@@ -160,11 +160,11 @@ In 2005 is het ontwerp-BSD namens de zorgdragers aan destijds de Staatssecretari
 
 – handeling 731 *Het rapporteren in het kaderen van de uitoefening van toezicht op de bewerking van interventieproducten* wordt B;  
 
-– handeling 735 H *et nemen van maatregelen tegen marktdeelnemers die onder verdenking staan van Europese interventiemaatregelen* wordt B;  
+– handeling 735 H*et nemen van maatregelen tegen marktdeelnemers die onder verdenking staan van Europese interventiemaatregelen* wordt B;  
 
 – handeling 195 *het stellen van nadere regels inzake de eigen werkwijze en die van het dagelijks bestuur* wordt B;  
 
-– handeling 234 *het nader bepalen van de taak en bevoegdheden van het dagelijks bestuur van STULM 1974* wordt B;  
+– handeling 234*het nader bepalen van de taak en bevoegdheden van het dagelijks bestuur van STULM 1974* wordt B;  
 
 – handeling 457 *Het berekenen van de gemiddelde kostprijzen van landbouwproducten die onder het garantieprijsbeleid vallen* wordt B;  
 
@@ -188,7 +188,7 @@ In 2005 is het ontwerp-BSD namens de zorgdragers aan destijds de Staatssecretari
 
 – handeling 290: *Het verlenen van restitutie van heffingen of ontheffing van de betalingsverplichting betreffende de invoer, voortbrenging, verwerking, verhandeling, merking, enz. van crisisproducten* wordt B;  
 
-– handeling 297: *Het verlenen van ontheffingen van ministeriële voorschriften krachtens de Landbouw-Crisiswet 1933* wordt B.   Daarop werd het BSD op 18 september 2007 door de algemene rijksarchivaris namens de minister van Onderwijs, Cultuur en Wetenschap voor de Productschappen Vee, Vlees en Eieren (C/S&A/07/2282] en de Project Directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de minister van Landbouw, Natuur en Voedselkwaliteit [C/S&A.07/2277], de minister van Financiën [C/S&A.07/2278], de minister van Sociale Zaken en Werkgelegenheid [C/S&A.07/2279], de minister van Justitie [C/S&A.07/2280] en de minister van Economische Zaken [C/S&A.07/2281] vastgesteld.  
+– handeling 297: *Het verlenen van ontheffingen van ministeriële voorschriften krachtens de Landbouw-Crisiswet 1933* wordt B.   Daarop werd het BSD op 18 september 2007 door de algemene rijksarchivaris namens de minister van Onderwijs, Cultuur en Wetenschap voor de Productschappen Vee, Vlees en Eieren (C/S&A/07/2282] en de Project Directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de minister van Landbouw, Natuur en Voedselkwaliteit [C/S&A.07/2277], de minister van Financiën [C/S&A.07/2278], de minister van Sociale Zaken en Werkgelegenheid [C/S&A.07/2279], de minister van Justitie [C/S&A.07/2280] en de minister van Economische Zaken [C/S&A.07/2281] vastgesteld. 
 
 ####Leeswijzer
 
@@ -200,7 +200,7 @@ De selectielijsten bestaan uit handelingenblokken. In onderstaande tabel wordt u
 
 * wijzigingen in de grondslag en het vervallen hiervan;  
 
-* het betreffende artikel en lid daarvan.    *Bijvoorbeeld:*  Bodemproductiebesluit, art. 3, lid 1; Organisatiebeschikking Bodemproductie, art. 3, lid 3 [Besluit registratie justitiële gegevens, art. 8](../../../../../../../../../AMvB/besluit/registratie/justitiële/gegevens/BWBR0002293/README.md) (*Stb.* 1958, 467) NB: Met vindplaats wordt de vermelding in het staatsblad of staatscourant bedoeld. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+* het betreffende artikel en lid daarvan.    *Bijvoorbeeld:*  Bodemproductiebesluit, art. 3, lid 1; Organisatiebeschikking Bodemproductie, art. 3, lid 3 [Besluit registratie justitiële gegevens, art. 8](../../../../../../../../../AMvB/besluit/registratie/justitiële/gegevens/BWBR0002293/README.md) (*Stb.* 1958, 467) NB: Met vindplaats wordt de vermelding in het staatsblad of staatscourant bedoeld. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####Actorenoverzicht
 
@@ -215,14 +215,14 @@ Voor het ministerie van LNV is de selectielijst Agrarisch markt- en prijsbeleid 
 
 De formeel geldige selectielijsten van LNV strekken zich uit over een heel beleidsterrein (bv. Bosbouw, Mestbeleid) en worden vastgesteld namens de minister van LNV en de staatssecretaris van OCW.  
 
-| Beleidsterrein  | Aantal  handelingen  | Geselecteerde handelingen  | Vastgesteld  | Concept  |
+| Beleidsterrein  |  Aantal   handelingen  |  Geselecteerde handelingen  |  Vastgesteld  |  Concept  |
 |:---|:---|:---|:---|:---|
 | markt en prijsbeleid  | 1096  | 1096  | --- | 1096  |
 | Totalen  | 1096  | 1096  | 0  | 1096  |
 
 ###Functie van deze lijst
 
-De formeel geldige selectielijsten van LNV strekken zich uit over een heel beleidsterrein (bv. Bosbouw, Mestbeleid) en worden vastgesteld namens de minister van LNV en de staatssecretaris van OCW.  
+De formeel geldige selectielijsten van LNV strekken zich uit over een heel beleidsterrein (bv. Bosbouw, Mestbeleid) en worden vastgesteld namens de minister van LNV en de staatssecretaris van OCW. 
 
 ####Markt en prijsbeleid
 
@@ -1477,13 +1477,13 @@ Handeling: Het voordragen en/of benoemen van leden van Benelux-commissies en -de
 Handeling: Het bij de Europese Commissie indienen van een verzoek tot derogatie van een Europese regeling op het gebied van het agrarisch markt- en prijsbeleid Periode: 1968– Waardering: B, 5 
 ###561
 
-Handeling: Het middels nationale inbreng in de Europese besluitvorming bijdragen aan de totstandkoming en wijziging van het Europese agromonetaire stelsel Periode: 1970– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71 Opmerking: Mcb’s bestaan uit heffingen en subsidies om interne prijsverschillen van interventieproducten te egaliseren. Voor Nederland gaat het om de toekenning van uitvoersubsidies en het oplegging van invoerheffingen (positieve mcb’s). Waardering: B, 1 
+Handeling: Het middels nationale inbreng in de Europese besluitvorming bijdragen aan de totstandkoming en wijziging van het Europese agromonetaire stelsel Periode: 1970– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71  Opmerking: Mcb’s bestaan uit heffingen en subsidies om interne prijsverschillen van interventieproducten te egaliseren. Voor Nederland gaat het om de toekenning van uitvoersubsidies en het oplegging van invoerheffingen (positieve mcb’s). Waardering: B, 1 
 ###562
 
-Handeling: Het vaststellen van nationale regelgeving verband houdend met de werking van het agromonetaire stelsel Periode: 1970– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71 Product: Compensatiebeschikking landbouwgoederen 1971 I (Stcrt. 1971, 90); Compensatiebeschikking toetreding 1973 (Stcrt. 1973, 21); Beschikking inkomenstoeslag landbouwbedrijven 1974 (Stcrt. 1974, 246); Toeslagbeschikking akkerbouwprodukten 1974 (Stcrt. 1974, 246); Compensatiebeschikking toetreding 1980 (Stcrt. 1980, 249); Compensatiebeschikking toetreding Spanje en Portugal (Stcrt. 1986, 52); Regeling agrimonetaire compensatie 1996/1997 (Stcrt. 1996, 169) Waardering: B, 1 
+Handeling: Het vaststellen van nationale regelgeving verband houdend met de werking van het agromonetaire stelsel Periode: 1970– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71  Product: Compensatiebeschikking landbouwgoederen 1971 I (Stcrt. 1971, 90); Compensatiebeschikking toetreding 1973 (Stcrt. 1973, 21); Beschikking inkomenstoeslag landbouwbedrijven 1974 (Stcrt. 1974, 246); Toeslagbeschikking akkerbouwprodukten 1974 (Stcrt. 1974, 246); Compensatiebeschikking toetreding 1980 (Stcrt. 1980, 249); Compensatiebeschikking toetreding Spanje en Portugal (Stcrt. 1986, 52); Regeling agrimonetaire compensatie 1996/1997 (Stcrt. 1996, 169) Waardering: B, 1 
 ###563
 
-Handeling: Het vaststellen van monetair compenserende bedragen (mcb’s) Periode: 1971– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71 Opmerking: De vaststelling kan gebeuren per product (bijv. varkensvlees). De berekening kan eenvoudig een omrekening zijn van door de EC vastgestelde bedragen. Waardering: B, 1 
+Handeling: Het vaststellen van monetair compenserende bedragen (mcb’s) Periode: 1971– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71  Opmerking: De vaststelling kan gebeuren per product (bijv. varkensvlees). De berekening kan eenvoudig een omrekening zijn van door de EC vastgestelde bedragen. Waardering: B, 1 
 ###564
 
 Handeling: Het, in het kader van monetaire compensatie, opleggen van extra invoerheffingen Periode: 1971–1992 Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 974/71; Compensatiebeschikking landbouwgoederen 1971 I, artt. 2 en 8; Compensatiebeschikking toetreding 1973, artt. 2 en 7; Compensatiebeschikking toetreding 1980, artt. 2 en 7; Compensatiebeschikking toetreding Spanje en Portugal, artt. 2 en 5 Waardering: V 10 jaar 
@@ -1894,7 +1894,7 @@ Handeling: Het rapporteren in het kader van controle en toezicht op de uitvoerin
 Handeling: Het in geval van niet-tijdige afzet van hun producten toekennen van een bijzondere vergoeding aan telers van groenten en fruit Periode: 1972– Grondslag: Verordening (EEG) nr. 1035/72, art. 21, lid 2 Waardering: V 10 jaar 
 ###735
 
-Handeling; Het nemen van maatregelen tegen marktdeelnemers die onder verdenking staan van misbruik van Europese interventiemaatregelen Periode: 1998– Grondslag: Wijziging Mandaatsbeschikking VIB (Stcrt. 1996, 122), art. 6, lid 2; Verordening (EG) nr. 1469/95 Opmerking: Moedwillig misbruik of grove nalatigheid kan voorkomen worden door de opschorting van zowel betalingen als vrijgave van zekerheden, of door de uitsluiting van verdachte deelnemers van inschrijvingen voor een bepaalde periode. Waardering: B, 5 
+Handeling; Het nemen van maatregelen tegen marktdeelnemers die onder verdenking staan van misbruik van Europese interventiemaatregelen Periode: 1998– Grondslag: Wijziging Mandaatsbeschikking VIB (Stcrt. 1996, 122), art. 6, lid 2; Verordening (EG) nr. 1469/95  Opmerking: Moedwillig misbruik of grove nalatigheid kan voorkomen worden door de opschorting van zowel betalingen als vrijgave van zekerheden, of door de uitsluiting van verdachte deelnemers van inschrijvingen voor een bepaalde periode. Waardering: B, 5 
 ###736
 
 Handeling: Het informeren van de EC over de nationale uitvoering van de Europese verordeningen betreffende de slacht van koeien, de omschakeling van het veebestand en het niet in de handel brengen van melk en zuivelproducten Periode: 1970– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 1821/73, art. 13, lid 1; Verordening (EG) nr. 1078/77, art. 11, lid 1 Opmerking: Het betreft met name gegevens over aantallen ingediende en ingewilligde aanvragen, alsook over terugvorderingsmaatregelen. Waardering: V 10 jaar 
@@ -2206,7 +2206,7 @@ Handeling: Het opstellen van verzoeken om IEFC-allocatie van landbouwproducten P
 Handeling: Het indienen en verdedigen van verzoeken om IEFC-allocatie van landbouwproducten Periode: 1945–1949 Waardering: V 10 jaar 
 ###885
 
-Handeling: Het opstellen van overzichten van het totaalbedrag aan in Nederland uitgekeerde communautaire en nationale landbouwsubsidies Periode: 1994– Grondslag: GATT-verdrag (Uruguay-ronde) Opmerking: De EC verzamelt de overzichten en stuurt ze door naar de WTO. Waardering: V 10 jaar  
+Handeling: Het opstellen van overzichten van het totaalbedrag aan in Nederland uitgekeerde communautaire en nationale landbouwsubsidies Periode: 1994– Grondslag: GATT-verdrag (Uruguay-ronde) Opmerking: De EC verzamelt de overzichten en stuurt ze door naar de WTO. Waardering: V 10 jaar 
 
 ####Deel 2. Handelingen van actoren onder het zorgdragersschap van de minister van Landbouw, Natuur en Voedselkwaliteit
 
@@ -2232,43 +2232,43 @@ Handeling: Het, in het kader van het garantieprijsbeleid, opleggen van heffingen
 Handeling: Het aanwijzen van pakhuizen waar landbouwproducten kunnen worden aangeboden in het kader van nationale interventie Periode: 1941–1957 Waardering: V 10 jaar 
 ###483
 
-Handeling: Het in de nationale context verrichten van interventiewerkzaamheden Periode: 1941–1957 Opmerking: De werkzaamheden in de Europese context staan beschreven in deel 7 van dit rapport, vanaf 1968, toen de Europese agrarische marktordeningsorganisatie voltooid was. Waardering: B 5  
+Handeling: Het in de nationale context verrichten van interventiewerkzaamheden Periode: 1941–1957 Opmerking: De werkzaamheden in de Europese context staan beschreven in deel 7 van dit rapport, vanaf 1968, toen de Europese agrarische marktordeningsorganisatie voltooid was. Waardering: B 5 
 
 #### *Algemene Inspectie Dienst (AID)* 
 
 ###724
 
-Handeling: Het rapporteren in het kader van de controle op het juiste gebruik of de juiste bestemming van uit interventie of uit de markt verkochte landbouwproducten Periode: 1968– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 262/79, art. 21; Verordening (EEG) nr. 3143/85, art. 6, lid 1; Beschikking denaturatie- en verwerkingssteun magere melkpoeder 1980, art. 8 en art. 14, lid 1 Opmerking: Vanaf 1976 is de controle aanzienlijk uitgebreid. Waardering: V 5 jaar  
+Handeling: Het rapporteren in het kader van de controle op het juiste gebruik of de juiste bestemming van uit interventie of uit de markt verkochte landbouwproducten Periode: 1968– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 262/79, art. 21; Verordening (EEG) nr. 3143/85, art. 6, lid 1; Beschikking denaturatie- en verwerkingssteun magere melkpoeder 1980, art. 8 en art. 14, lid 1 Opmerking: Vanaf 1976 is de controle aanzienlijk uitgebreid. Waardering: V 5 jaar 
 
 #### *Centrale Commissie voor de Voedselvoorziening* 
 
 ###49
 
-Handeling: Het adviseren van de minister van Landbouw inzake uitvoering van de Landbouw-Crisiswet 1933 en (later) het Voedselvoorzieningsbesluit Periode: 1934–1957 Grondslag: Landbouw-Crisiswet 1933, art. 27, lid 1; Voedselvoorzieningsbesluit, art. 12 Waardering: B, 5  
+Handeling: Het adviseren van de minister van Landbouw inzake uitvoering van de Landbouw-Crisiswet 1933 en (later) het Voedselvoorzieningsbesluit Periode: 1934–1957 Grondslag: Landbouw-Crisiswet 1933, art. 27, lid 1; Voedselvoorzieningsbesluit, art. 12 Waardering: B, 5 
 
 #### *College van Overleg voor de Voedselvoorziening* 
 
 ###95
 
-Handeling: Het met de DG van de Voedselvoorziening bespreken van voedselvoorzieningsaangelegenheden Periode: 1942–1945 Bron: G.M.T. Trienekens, Tussen ons volk en de honger de voedselvoorziening, 1940-1945. Utrecht, 1985. Blz. 122-123. Waardering: B, 6  
+Handeling: Het met de DG van de Voedselvoorziening bespreken van voedselvoorzieningsaangelegenheden Periode: 1942–1945 Bron: G.M.T. Trienekens, Tussen ons volk en de honger de voedselvoorziening, 1940-1945. Utrecht, 1985. Blz. 122-123. Waardering: B, 6 
 
 #### *College van Overleg voor de Voedselvoorziening en de Buitenlandse Agrarische Aangelegenheden* 
 
 ###52
 
-Handeling: Het adviseren van de minister van Landbouw over de uitvoering van de Landbouw-Crisiswet 1933 en andere wetten op het gebied van de voedselvoorziening Periode: 1949–1957 Grondslag: Besluit bevoegdheden D-G Voedselvoorziening en instelling College voor de Voedselvoorziening, art. 2 Waardering: B, 5  
+Handeling: Het adviseren van de minister van Landbouw over de uitvoering van de Landbouw-Crisiswet 1933 en andere wetten op het gebied van de voedselvoorziening Periode: 1949–1957 Grondslag: Besluit bevoegdheden D-G Voedselvoorziening en instelling College voor de Voedselvoorziening, art. 2 Waardering: B, 5 
 
 #### *College van Regeringscommissarissen voor de Voedselvoorziening* 
 
 ###46
 
-Handeling: Het bijstaan van de minister van Landbouw bij de uitvoering van de Landbouw-Crisiswet 1933 Periode: 1934–1940 Grondslag: Landbouw-Crisiswet 1933, art. 26a, lid 1 Waardering: B, 6  
+Handeling: Het bijstaan van de minister van Landbouw bij de uitvoering van de Landbouw-Crisiswet 1933 Periode: 1934–1940 Grondslag: Landbouw-Crisiswet 1933, art. 26a, lid 1 Waardering: B, 6 
 
 #### *College voor de Voedselvoorziening* 
 
 ###52
 
-Handeling: Het adviseren van de minister van Landbouw over de uitvoering van de Landbouw-Crisiswet 1933 en andere wetten op het gebied van de voedselvoorziening Periode: 1940–1949 Grondslag: Besluit bevoegdheden D-G Voedselvoorziening en instelling College voor de Voedselvoorziening, art. 2 Waardering: B, 6  
+Handeling: Het adviseren van de minister van Landbouw over de uitvoering van de Landbouw-Crisiswet 1933 en andere wetten op het gebied van de voedselvoorziening Periode: 1940–1949 Grondslag: Besluit bevoegdheden D-G Voedselvoorziening en instelling College voor de Voedselvoorziening, art. 2 Waardering: B, 6 
 
 #### *Commissie beoordeling besteding toeslag kleine zandbedrijven* 
 
@@ -2277,13 +2277,13 @@ Handeling: Het adviseren van de minister van Landbouw over de uitvoering van de 
 Handeling: Het beoordelen van de besteding van de toe te kennen toeslag kleine zandbedrijven Periode: 1948–1952 Grondslag: Beschikking Toeslag Kleine Zandbedrijven 1948, art. 5 Opmerking: De commissie is plaatselijk/provinciaal Waardering: V 10 jaar 
 ###307
 
-Handeling: Het behandelen van bezwaarschriften tegen een besluit van een plaatselijke Commissie beoordeling besteding toeslag kleine zandbedrijven Periode: 1948–1952 Grondslag: Beschikking Toeslag Kleine Zandbedrijven 1948, art. 6 Opmerking: De commissie is provinciaal Waardering: V 10 jaar  
+Handeling: Het behandelen van bezwaarschriften tegen een besluit van een plaatselijke Commissie beoordeling besteding toeslag kleine zandbedrijven Periode: 1948–1952 Grondslag: Beschikking Toeslag Kleine Zandbedrijven 1948, art. 6 Opmerking: De commissie is provinciaal Waardering: V 10 jaar 
 
 #### *Commissie Officiële Nederlandse Zuivelnoteringen* 
 
 ###574
 
-Handeling: Het opstellen van officiële noteringen van zuivelproducten Periode: 1964– Grondslag: Instellingsbesluit Commissie Officiële Nederlandse Zuivelnoteringen, art. 1, lid 2, vervangen door Regeling Commissie Officiële Nederlandse Zuivelnoteringen, art. 1, lid 2 Opmerking: De Zuivelnoteringen worden in de Staatscourant gepubliceerd. Waardering: V 0 jaar  
+Handeling: Het opstellen van officiële noteringen van zuivelproducten Periode: 1964– Grondslag: Instellingsbesluit Commissie Officiële Nederlandse Zuivelnoteringen, art. 1, lid 2, vervangen door Regeling Commissie Officiële Nederlandse Zuivelnoteringen, art. 1, lid 2 Opmerking: De Zuivelnoteringen worden in de Staatscourant gepubliceerd. Waardering: V 0 jaar 
 
 #### *Commissie van beheer Voedselvoorziening Importbureau (VIB)* 
 
@@ -2295,7 +2295,7 @@ Handeling: Het vaststellen van het eigen reglement van orde Periode: 1966–1998
 Handeling: Het coördineren van de uitvoering van interventiewerkzaamheden Periode: 1966–1998 Grondslag: Beschikking commissie van beheer VIB, art. 3, lid 1 en 2 Opmerking: Het gaat vooral om de volgorde waarin en de wijze waarop de interventie wordt uitgevoerd, alsmede om de daartoe benodigde voorzieningen. Waardering: B, 5 
 ###188
 
-Handeling: Het adviseren van de minister van Landbouw over de ontwerp-begrotingen van het VIB, het verslag van de directeur, de organisatorische inrichting en de interne structuur van het bureau Periode: 1966–1998 Grondslag: Beschikking commissie van beheer VIB, art. 3, lid 3 en 4 Opmerking: De adviezen inzake organisatie en structuur kunnen ongevraagd worden gegeven. Het kan hierbij ook gaan om personeelsopbouw en personeelsbeleid. Waardering: B, 5  
+Handeling: Het adviseren van de minister van Landbouw over de ontwerp-begrotingen van het VIB, het verslag van de directeur, de organisatorische inrichting en de interne structuur van het bureau Periode: 1966–1998 Grondslag: Beschikking commissie van beheer VIB, art. 3, lid 3 en 4 Opmerking: De adviezen inzake organisatie en structuur kunnen ongevraagd worden gegeven. Het kan hierbij ook gaan om personeelsopbouw en personeelsbeleid. Waardering: B, 5 
 
 #### *Commissie van Bijstand* 
 
@@ -2304,49 +2304,49 @@ Handeling: Het adviseren van de minister van Landbouw over de ontwerp-begrotinge
 Handeling: Het adviseren van het bestuur van een voedselvoorzieningsorganisatie Periode: 1941–1957 Grondslag: Algemeen Reglement, art. 6, lid 3; Wijziging Algemeen Reglement, art. 6, lid 8 Opmerking: Het bestuur moest in ieder geval over af te geven verordeningen advies inwinnen. Waardering: B, 1 
 ###379
 
-Handeling: Het adviseren van Productiecommissarissen inzake de bodemproductie Periode: 1939– Grondslag: Organisatiebeschikking Bodemproductie, art. 9 Opmerking: Dit gebeurt naar aanleiding van regelmatig overleg of op eigen initiatief. Het gaat om de Commissies van Bijstand voor de Bodemproductie. Waardering: B, 4 en 5  
+Handeling: Het adviseren van Productiecommissarissen inzake de bodemproductie Periode: 1939– Grondslag: Organisatiebeschikking Bodemproductie, art. 9 Opmerking: Dit gebeurt naar aanleiding van regelmatig overleg of op eigen initiatief. Het gaat om de Commissies van Bijstand voor de Bodemproductie. Waardering: B, 4 en 5 
 
 #### *Commissie vereenvoudiging voedselvoorzieningsmaatregelen* 
 
 ###272
 
-Handeling: Het adviseren van de minister van Landbouw inzake vereenvoudiging van wet- en regelgeving op het gebied van de voedselvoorziening Periode: 1946–1950 Bron: Inventaris van het archief van het Kabinet van de Minister (1945-1960) Waardering: B, 1  
+Handeling: Het adviseren van de minister van Landbouw inzake vereenvoudiging van wet- en regelgeving op het gebied van de voedselvoorziening Periode: 1946–1950 Bron: Inventaris van het archief van het Kabinet van de Minister (1945-1960) Waardering: B, 1 
 
 #### *Commissie voor de Bodemproductie* 
 
 ###385
 
-Handeling: Het adviseren van de minister van Landbouw inzake de uitvoering van de Bodemproductiewet 1939 en daaruit voortvloeiende zaken Periode: 1939– Grondslag: Bodemproductiewet 1939, art. 6 Opmerking: De adviezen kunnen zowel op verzoek als uit eigen beweging worden gegeven. Waardering: B 1  
+Handeling: Het adviseren van de minister van Landbouw inzake de uitvoering van de Bodemproductiewet 1939 en daaruit voortvloeiende zaken Periode: 1939– Grondslag: Bodemproductiewet 1939, art. 6 Opmerking: De adviezen kunnen zowel op verzoek als uit eigen beweging worden gegeven. Waardering: B 1 
 
 #### *Commissies van Bijstand Voedselvoorziening Importbureau (VIB)* 
 
 ###182
 
-Handeling: Het adviseren van de directie VIB ten aanzien van de inkoop en verkoop van landbouwproducten Periode: 1958–1998 Grondslag: Besluit instelling commissies van bijstand VIB, art. 4 Waardering: B, 1  
+Handeling: Het adviseren van de directie VIB ten aanzien van de inkoop en verkoop van landbouwproducten Periode: 1958–1998 Grondslag: Besluit instelling commissies van bijstand VIB, art. 4 Waardering: B, 1 
 
 #### *Coördinatieraden voor de voedselvoorziening* 
 
 ###88
 
-Handeling: Het coördineren van de werkzaamheden van de voedselvoorzieningsorganisaties Periode: 1941–1957 Grondslag: Organisatiebesluit Voedselvoorziening 1941, art. 11, lid 3 Waardering: B, 5  
+Handeling: Het coördineren van de werkzaamheden van de voedselvoorzieningsorganisaties Periode: 1941–1957 Grondslag: Organisatiebesluit Voedselvoorziening 1941, art. 11, lid 3 Waardering: B, 5 
 
 #### *Landbouw-Economisch Instituut (LEI)* 
 
 ###457
 
-Handeling: Het berekenen van de gemiddelde kostprijzen van landbouwproducten die onder het garantieprijsbeleid vallen Periode: 1952–1968 Producten: Kostprijsrapporten Bron: Nota betreffende het landbouwprijsbeleid (onderdeel van begroting 1960) Opmerking: De berekeningen werden aan de hand van steekproeven uitgevoerd op kostprijsbedrijven, die werden geselecteerd aan de hand van door de minister vastgestelde criteria. Waardering: B 5  
+Handeling: Het berekenen van de gemiddelde kostprijzen van landbouwproducten die onder het garantieprijsbeleid vallen Periode: 1952–1968 Producten: Kostprijsrapporten Bron: Nota betreffende het landbouwprijsbeleid (onderdeel van begroting 1960) Opmerking: De berekeningen werden aan de hand van steekproeven uitgevoerd op kostprijsbedrijven, die werden geselecteerd aan de hand van door de minister vastgestelde criteria. Waardering: B 5 
 
 #### *Landelijke adviescommissie inzake de superheffing* 
 
 ###844
 
-Handeling: Het adviseren van de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) in het kader van de superheffing Periode: 1984–1985 Grondslag: Beschikking superheffing, art. 9 Opmerking: Het betreft advies inzake het toewijzen (en bezwaarschriften op de toewijzing) van melkquota in bepaalde bijzondere situaties. Waardering: V 10 jaar  
+Handeling: Het adviseren van de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) in het kader van de superheffing Periode: 1984–1985 Grondslag: Beschikking superheffing, art. 9 Opmerking: Het betreft advies inzake het toewijzen (en bezwaarschriften op de toewijzing) van melkquota in bepaalde bijzondere situaties. Waardering: V 10 jaar 
 
 #### *Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen* 
 
 ###407
 
-Handeling: Het adviseren over het jaarplan van de dienst van de Provinciale Voedselcommissarissen en de organisatie van die dienst Periode: 1954–1964 Bron: Inventaris DG van de Voedselvoorziening (CAS, 1991); Staatsalmanakken Opmerking: Van 1954 tot 1964 bestond er een Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen (PVC’s). Deze was belast met het adviseren ten aanzien van het jaarplan van werkzaamheden van de dienst van de PVC’s en de organisatie van de dienst. Waardering: B, 1 en 5  
+Handeling: Het adviseren over het jaarplan van de dienst van de Provinciale Voedselcommissarissen en de organisatie van die dienst Periode: 1954–1964 Bron: Inventaris DG van de Voedselvoorziening (CAS, 1991); Staatsalmanakken Opmerking: Van 1954 tot 1964 bestond er een Plancommissie voor de Dienst van de Provinciale Voedselcommissarissen (PVC’s). Deze was belast met het adviseren ten aanzien van het jaarplan van werkzaamheden van de dienst van de PVC’s en de organisatie van de dienst. Waardering: B, 1 en 5 
 
 #### *Productiecommissarissen* 
 
@@ -2355,31 +2355,31 @@ Handeling: Het adviseren over het jaarplan van de dienst van de Provinciale Voed
 Handeling: Het vaststellen van nadere regels betreffende de landbouwproductie in relatie tot de bodembestemming Periode: 1939– Grondslag: Bodemproductiebesluit, art. 3, lid 1; Organisatiebeschikking Bodemproductie, art. 3, lid 3 Opmerking: Het kan hierbij ook gaan om uitvoeringsvoorschriften. In 1950 gingen de taken van de Productiecommissaris voor de Veeteelt naar de directeur van het Veeteeltwezen (en daarmee naar de minister van Landbouw). Waardering: B, 5 
 ###377
 
-Handeling: Het verlenen van vergunningen en ontheffingen ten aanzien van bodemproductieregelingen en het goedkeuren van plannen terzake Periode: 1939– Grondslag: Organisatiebeschikking Bodemproductie, art. 3, lid 2; bodemproductiebeschikkingen Opmerking: Aan de vergunningen kunnen nadere voorwaarden worden verbonden. Productiecommissarissen konden ook worden ingezet voor het verlenen van vergunningen en ontheffingen ten aanzien van andere regelingen dan bodemproductiebeschikkingen, die echter wel met de bodemproductie van doen hadden (bijv. Inzamelingsbesluit boschbessen (Stcrt. 1943, 117), gebaseerd op art. 4, Voedselvoorzieningsbesluit: vergunning voor het plukken van bosbessen in bepaalde gemeenten).De minister van Landbouw handelde sinds 1950 middels de directeur Veeteeltwezen (en taakopvolgers). Waardering: V 10 jaar  
+Handeling: Het verlenen van vergunningen en ontheffingen ten aanzien van bodemproductieregelingen en het goedkeuren van plannen terzake Periode: 1939– Grondslag: Organisatiebeschikking Bodemproductie, art. 3, lid 2; bodemproductiebeschikkingen Opmerking: Aan de vergunningen kunnen nadere voorwaarden worden verbonden. Productiecommissarissen konden ook worden ingezet voor het verlenen van vergunningen en ontheffingen ten aanzien van andere regelingen dan bodemproductiebeschikkingen, die echter wel met de bodemproductie van doen hadden (bijv. Inzamelingsbesluit boschbessen (Stcrt. 1943, 117), gebaseerd op art. 4, Voedselvoorzieningsbesluit: vergunning voor het plukken van bosbessen in bepaalde gemeenten).De minister van Landbouw handelde sinds 1950 middels de directeur Veeteeltwezen (en taakopvolgers). Waardering: V 10 jaar 
 
 #### *Raad van Advies en Toezicht van de Stichting Voedselvoorziening Importbureau (VIB)* 
 
 ###167
 
-Handeling: Het adviseren van de minister van Landbouw betreffende de wijze waarop de Stichting VIB haar werkzaamheden heeft te verrichten Periode: 1952–1958 Grondslag: Beschikking betreffende samenstelling, taak en bevoegdheid van de Raad van Advies en Toezicht van de Stichting VIB, art. 3 Opmerking: Dit advies kon gevraagd of ongevraagd worden gegeven. Waardering: B, 5  
+Handeling: Het adviseren van de minister van Landbouw betreffende de wijze waarop de Stichting VIB haar werkzaamheden heeft te verrichten Periode: 1952–1958 Grondslag: Beschikking betreffende samenstelling, taak en bevoegdheid van de Raad van Advies en Toezicht van de Stichting VIB, art. 3 Opmerking: Dit advies kon gevraagd of ongevraagd worden gegeven. Waardering: B, 5 
 
 #### *Raad van toezicht voor een Aan- en Verkoopbureau* 
 
 ###106
 
-Handeling: Het aan de minister van Landbouw uitbrengen van adviezen over de wijze waarop een Aan- en Verkoopbureau zijn taak verricht of behoort te verrichten Periode: 1941–1957 Grondslag: Beschikkingen tot instelling van een Raad van Toezicht van een Aan- en Verkoopbureau, bijv. Beschikking Raad van Toezicht van het Aan- en Verkoopbureau van Akkerbouwproducten (Stcrt. 1952, 107), art. 3 Opmerking: De raad kon bestuur en/of personeel bij zich ontbieden om informatie te verstrekken. Bij weigering besliste de minister (zie volgende handeling). Waardering: B, 5  
+Handeling: Het aan de minister van Landbouw uitbrengen van adviezen over de wijze waarop een Aan- en Verkoopbureau zijn taak verricht of behoort te verrichten Periode: 1941–1957 Grondslag: Beschikkingen tot instelling van een Raad van Toezicht van een Aan- en Verkoopbureau, bijv. Beschikking Raad van Toezicht van het Aan- en Verkoopbureau van Akkerbouwproducten (Stcrt. 1952, 107), art. 3 Opmerking: De raad kon bestuur en/of personeel bij zich ontbieden om informatie te verstrekken. Bij weigering besliste de minister (zie volgende handeling). Waardering: B, 5 
 
 #### *Raad voor de Voedselvoorziening* 
 
 ###92
 
-Handeling: Het adviseren van de minister van Landbouw inzake de uitvoering van het Organisatiebesluit Voedselvoorziening 1941 en andere wettelijke regelingen op het gebied van de voedselvoorziening Periode: 1942–1957 Grondslag: Organisatiebesluit Voedselvoorziening 1941, art. 15, lid 2; Besluit Raad voor de Voedselvoorziening, art. 2 Waardering: B, 5  
+Handeling: Het adviseren van de minister van Landbouw inzake de uitvoering van het Organisatiebesluit Voedselvoorziening 1941 en andere wettelijke regelingen op het gebied van de voedselvoorziening Periode: 1942–1957 Grondslag: Organisatiebesluit Voedselvoorziening 1941, art. 15, lid 2; Besluit Raad voor de Voedselvoorziening, art. 2 Waardering: B, 5 
 
 #### *Regeringscommissaris voor de Akkerbouw en de Veehouderij* 
 
 ###302
 
-Handeling: Het aanwijzen van de in te leveren crisisproducten en het geven van nadere voorschriften inzake de inlevering daarvan Periode: 1940–1953 Grondslag: Landbouwinleveringsbesluit 1940, art. 5, lid 1 en 2 Opmerking: De nadere bepalingen konden betrekking hebben op tijdstippen, hoeveelheden, wijze van inlevering en andere voorwaarden. Waardering: B, 5  
+Handeling: Het aanwijzen van de in te leveren crisisproducten en het geven van nadere voorschriften inzake de inlevering daarvan Periode: 1940–1953 Grondslag: Landbouwinleveringsbesluit 1940, art. 5, lid 1 en 2 Opmerking: De nadere bepalingen konden betrekking hebben op tijdstippen, hoeveelheden, wijze van inlevering en andere voorwaarden. Waardering: B, 5 
 
 #### *Regeringscommissaris voor de Bodemproductie* 
 
@@ -2397,19 +2397,19 @@ Handeling: Het aanwijzen van een inspecteur van de landbouw voor het verlenen va
 Handeling: Het vaststellen van bijzondere regelingen ten aanzien van de competentie van Productiecommissarissen Periode: 1939–1950 Grondslag: Organisatiebeschikking Bodemproductie, art. 8 Waardering: B, 4 en 5 
 ###381
 
-Handeling: Het toevoegen van een secretaris aan Commissies van Bijstand (voor de Bodemproductie) Periode: 1939–1950 Grondslag: Organisatiebeschikking Bodemproductie, art. 18 Waardering: V 10 jaar  
+Handeling: Het toevoegen van een secretaris aan Commissies van Bijstand (voor de Bodemproductie) Periode: 1939–1950 Grondslag: Organisatiebeschikking Bodemproductie, art. 18 Waardering: V 10 jaar 
 
 #### *Sectorspecifieke commissies garantieprijsbeleid* 
 
 ###454
 
-Handeling: Het adviseren van de minister van Landbouw inzake het garantieprijsbeleid voor landbouwproducten Periode: 1948–1962 Bron: Begrotingen Waardering: B, 1  
+Handeling: Het adviseren van de minister van Landbouw inzake het garantieprijsbeleid voor landbouwproducten Periode: 1948–1962 Bron: Begrotingen Waardering: B, 1 
 
 #### *Regeringscommissarissen voor de Voedselvoorziening* 
 
 ###46
 
-Handeling: Het bijstaan van de minister van Landbouw bij de uitvoering van de Landbouw-Crisiswet 1933 Periode: 1934–1940 Grondslag: Landbouw-Crisiswet 1933, art. 26a, lid 1 Waardering: V 10 jaaar  
+Handeling: Het bijstaan van de minister van Landbouw bij de uitvoering van de Landbouw-Crisiswet 1933 Periode: 1934–1940 Grondslag: Landbouw-Crisiswet 1933, art. 26a, lid 1 Waardering: V 10 jaaar 
 
 #### *Staatsbosbeheer (SBB)* 
 
@@ -2418,7 +2418,7 @@ Handeling: Het bijstaan van de minister van Landbouw bij de uitvoering van de La
 Handeling: Het vaststellen van nadere regels betreffende de landbouwproductie in relatie tot de bodembestemming Periode: 1950– Grondslag: Bodemproductiebesluit, art. 3, lid 1; Organisatiebeschikking Bodemproductie, art. 3, lid 3 Opmerking: Het kan hierbij ook gaan om uitvoeringsvoorschriften. In 1950 gingen de taken van de Productiecommissaris voor de Veeteelt naar de directeur van het Veeteeltwezen (en daarmee naar de minister van Landbouw). De formele bevoegdheid ligt bij de directeur. Waardering: B, 5 
 ###377
 
-Handeling: Het verlenen van vergunningen en ontheffingen ten aanzien van bodemproductieregelingen en het goedkeuren van plannen terzake Periode: 1950– Grondslag: Organisatiebeschikking Bodemproductie, art. 3, lid 2; bodemproductiebeschikkingen Opmerking: Aan de vergunningen kunnen nadere voorwaarden worden verbonden. Productiecommissarissen konden ook worden ingezet voor het verlenen van vergunningen en ontheffingen ten aanzien van andere regelingen dan bodemproductiebeschikkingen, die echter wel met de bodemproductie van doen hadden (bijv. Inzamelingsbesluit boschbessen (Stcrt. 1943, 117), gebaseerd op art. 4, Voedselvoorzieningsbesluit: vergunning voor het plukken van bosbessen in bepaalde gemeenten).De minister van Landbouw handelde sinds 1950 middels de directeur Veeteeltwezen (en taakopvolgers). De formele bevoegdheid ligt bij de directeur. Waardering: V 10 jaar  
+Handeling: Het verlenen van vergunningen en ontheffingen ten aanzien van bodemproductieregelingen en het goedkeuren van plannen terzake Periode: 1950– Grondslag: Organisatiebeschikking Bodemproductie, art. 3, lid 2; bodemproductiebeschikkingen Opmerking: Aan de vergunningen kunnen nadere voorwaarden worden verbonden. Productiecommissarissen konden ook worden ingezet voor het verlenen van vergunningen en ontheffingen ten aanzien van andere regelingen dan bodemproductiebeschikkingen, die echter wel met de bodemproductie van doen hadden (bijv. Inzamelingsbesluit boschbessen (Stcrt. 1943, 117), gebaseerd op art. 4, Voedselvoorzieningsbesluit: vergunning voor het plukken van bosbessen in bepaalde gemeenten).De minister van Landbouw handelde sinds 1950 middels de directeur Veeteeltwezen (en taakopvolgers). De formele bevoegdheid ligt bij de directeur. Waardering: V 10 jaar 
 
 #### *Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (O&S-fonds)* 
 
@@ -2463,7 +2463,7 @@ Handeling: Het vaststellen van regels in het kader van de uitvoering van de supe
 Handeling: Het opkopen van quota van producenten die hun melkveehouderijbedrijf beëindigen Periode: 1984– Grondslag: Regeling opkoop heffingvrije hoeveelheden; Regeling gefaseerde opkoop heffingvrije hoeveelheden Opmerking: In 1997 werd LASER gemandateerd om deze handeling te verrichten. Waardering: V 10 jaar 
 ###847
 
-Handeling: Het toekennen van een vergoeding aan producenten bij overdracht van meer dan het wettelijk toegestane melkquotum Periode: 1988–1993 Grondslag: Vergoedingsregeling referentiehoeveelheden melk. Waardering: V 10 jaar  
+Handeling: Het toekennen van een vergoeding aan producenten bij overdracht van meer dan het wettelijk toegestane melkquotum Periode: 1988–1993 Grondslag: Vergoedingsregeling referentiehoeveelheden melk. Waardering: V 10 jaar 
 
 #### *Stichting tot Uitvoering van Landbouwmaatregelen (STULM 1963)* 
 
@@ -2517,7 +2517,7 @@ Handeling: Het benoemen van een accountant voor de controle op het financiële b
 Handeling: Het nemen van beslissingen in alle gevallen waarin de statuten niet voorzien Periode: 1963–1980 Grondslag: Statuten STULM 1963, art. 32; gewijzigde statuten (1977), art. 31 Opmerking: De formele bevoegdheid ligt bij het bestuur Waardering: V 5 jaar 
 ###213
 
-Handeling: Het nemen van besluiten inzake huur, pacht en schenkingen Periode: 1980– Grondslag: Gewijzigde statuten (1980), art. 5 Opmerking: Voor 1980 vielen dergelijke bestuursbesluiten onder het algemene slotartikel, dat het bestuur speelruimte gaf voor alles waarin de statuten niet voorzagen. Sinds 1980 is die algemene bevoegdheid er niet meer en is bovendien goedkeuring van de minister nodig. Waardering: V 5 jaar  
+Handeling: Het nemen van besluiten inzake huur, pacht en schenkingen Periode: 1980– Grondslag: Gewijzigde statuten (1980), art. 5 Opmerking: Voor 1980 vielen dergelijke bestuursbesluiten onder het algemene slotartikel, dat het bestuur speelruimte gaf voor alles waarin de statuten niet voorzagen. Sinds 1980 is die algemene bevoegdheid er niet meer en is bovendien goedkeuring van de minister nodig. Waardering: V 5 jaar 
 
 #### *Stichting tot uitvoering van landbouwmaatregelen (STULM 1974)* 
 
@@ -2580,7 +2580,7 @@ Handeling: Het aan landbouwers die schade ondervinden van revaluatie van de nati
 Handeling: Het beslissen op een verzoek tot verlening van een zoogkoeienpremie Periode: 1980–1989 Grondslag: Beschikking uitvoering EEG-premieregeling aanhouden zoogkoeienbestand, art. 5, lid 1; Beschikking uitvoering EEG-premieregeling aanhouden zoogkoeienbestand 1981, art. 5, lid 1; Uitvoeringsregeling EEG-premie aanhouden zoogkoeienbestand 1993, art. 41, lid 1; Regeling dierlijke EG-premies, art. 2.7 Opmerking: Inclusief behandeling van de aanvragen en berekening, uitbetaling en eventuele terugvordering van de bedragen. Waardering: V 10 jaar 
 ###773
 
-Handeling: Het beslissen op een aanvraag tot verlening van een premie voor schapenvleesproducenten Periode: 1980–1991 Grondslag: Beschikking uitvoering EEG-premie schapevleesproducenten, art. 5, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1984, art. 4, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1990, art. 15, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1993, art. 45, lid 1; Regeling dierlijke EG-premies, art. 2.7 Opmerking: Inclusief behandeling van de aanvragen en berekening, uitbetaling en eventuele terugvordering van de bedragen. Waardering: V 10 jaar  
+Handeling: Het beslissen op een aanvraag tot verlening van een premie voor schapenvleesproducenten Periode: 1980–1991 Grondslag: Beschikking uitvoering EEG-premie schapevleesproducenten, art. 5, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1984, art. 4, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1990, art. 15, lid 1; Uitvoeringsregeling EEG-premie schapevleesproducenten 1993, art. 45, lid 1; Regeling dierlijke EG-premies, art. 2.7 Opmerking: Inclusief behandeling van de aanvragen en berekening, uitbetaling en eventuele terugvordering van de bedragen. Waardering: V 10 jaar 
 
 #### *Stichting Voedselvoorziening Importbureau (VIB)* 
 
@@ -2778,7 +2778,7 @@ Handeling: landbouwproductenHet afgeven van attesten in het kader van de toekenn
 Handeling: Het verlenen van een ontheffing om rundvlees in andere delen uit te benen of uit te snijden dan is gespecificeerd in de voor verlening van bijzondere restitutie opgestelde limitatieve lijst Periode: 1982–1998 Grondslag: Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984, art. 14, lid 3 Waardering: V 5 jaar 
 ###877
 
-Het tegen de gegarandeerde prijs aankopen van preferentiële suiker Periode: 1981–1998 Grondslag: Beschikking Suiker en Isoglucose 1981 (later: Regeling suiker, isoglucose en inulinestroop), art. 31 Waardering: V 10 jaar  
+Het tegen de gegarandeerde prijs aankopen van preferentiële suiker Periode: 1981–1998 Grondslag: Beschikking Suiker en Isoglucose 1981 (later: Regeling suiker, isoglucose en inulinestroop), art. 31 Waardering: V 10 jaar 
 
 ####Deel 3. Handelingen van overige actoren
 
@@ -2819,7 +2819,7 @@ Handeling: Het goedkeuren van regels die product- of bedrijfschappen in buitenge
 Handeling: Het (mede) vaststellen van regels ten aanzien van de prijzen voor landbouwproducten Periode: 1958– Grondslag: Landbouwwet, art. 17; Prijzenwet, art. 2 Product: Prijzenbeschikkingen, zoals Prijzenbeschikking suiker 1958 (Stcrt. 1958, 81) en Prijzenbeschikking keukenboter 1963 (Stcrt. 1963, 44); Prijzenbeschikking brood 1981 (Stcrt. 1981, 12) Opmerking: Wanneer de beschikkingen bindende regels of concurrentiebeperking inhouden voor industriële of handelsondernemingen, is overeenstemming met de minister van Economische Zaken vereist (Stb. 1958, 167). Van medevaststelling is dikwijls sprake wanneer een prijzenbeschikking ter zake van een landbouwproduct door EZ is opgesteld op basis van de Prijzenwet (cf. Prijzenbeschikking brood 1981 (Stcrt. 1981, 12)). Wanneer in het onderwerp waarop de beschikking gericht is, al wordt voorzien door een op grond van een autonome bevoegdheid vastgestelde PBO-verordening, wordt de ministeriële beschikking ingetrokken.De uitdrukkelijke vaststelling van garantieprijzen in het kader van het nationale beleid terzake valt onder een andere, nader gespecificeerde handeling. Waardering: B, 1 en 5 
 ###540
 
-Handeling: Het al dan niet goedkeuren van ontwerp-verordeningen van productschappen die zijn vastgesteld op basis van een vordering tot medewerking Periode: 1958–1966 Grondslag: Landbouwwet, art. 23, lid .2 en 3; besluit inzake overeenstemming met de minister van Economische Zaken, art. 2 Opmerking: Ook krachtens dergelijke verordeningen opgestelde nadere regels en besluiten konden zijn onderworpen aan goedkeuring, namelijk wanneer de ministers dat bepaalden in hun goedkeuring van de ontwerp-verordening. Goedkeuring van de minister van Economische Zaken was vereist, wanneer het voorschrift waarbij de medewerking was ingeroepen, was vastgesteld in overeenstemming met deze minister. Dit gold voor PBO-verordeningen op grond van overgedragen bevoegdheden die de minister van Landbouw toekomen krachtens art. 17, 19 of 22 van de Landbouwwet.Het in 1966 gewijzigde artikel 23 vormt de basis voor medebewindshandelingen. Waardering: B, 5  
+Handeling: Het al dan niet goedkeuren van ontwerp-verordeningen van productschappen die zijn vastgesteld op basis van een vordering tot medewerking Periode: 1958–1966 Grondslag: Landbouwwet, art. 23, lid .2 en 3; besluit inzake overeenstemming met de minister van Economische Zaken, art. 2 Opmerking: Ook krachtens dergelijke verordeningen opgestelde nadere regels en besluiten konden zijn onderworpen aan goedkeuring, namelijk wanneer de ministers dat bepaalden in hun goedkeuring van de ontwerp-verordening. Goedkeuring van de minister van Economische Zaken was vereist, wanneer het voorschrift waarbij de medewerking was ingeroepen, was vastgesteld in overeenstemming met deze minister. Dit gold voor PBO-verordeningen op grond van overgedragen bevoegdheden die de minister van Landbouw toekomen krachtens art. 17, 19 of 22 van de Landbouwwet.Het in 1966 gewijzigde artikel 23 vormt de basis voor medebewindshandelingen. Waardering: B, 5 
 
 #### *Minister van Financiën* 
 
@@ -2855,7 +2855,7 @@ Handeling: Het vaststellen van criteria voor instellingen om garanties af te gev
 Handeling: Het bevoegd verklaren van instellingen om garanties af te geven bij de aanvraag voor invoer-, uitvoer- of voorfixatiecertificaten voor landbouwgoederen Periode: 1970–1988 Grondslag: Verordening (EEG) nr. 1373/70, art. 5; Verordening (EEG) nr. 93/75, art. 5; Verordening (EEG) nr. 3183/80, art. 13, lid 3 Waardering: B, 5 
 ###624
 
-Handeling: Het informeren van de EC over de instellingen die bevoegd verklaard zijn om garanties af te geven bij de aanvraag voor invoer-, uitvoer- of voorfixatiecertificaten voor landbouwgoederen Periode: 1970–1988 Grondslag: Verordening (EEG) nr. 1373/70, art. 5; Verordening (EEG) nr. 93/75, art. 5; Verordening (EEG) nr. 3183/80, art. 13, lid.3 Opmerking: Bij deze handeling hoort tevens het informeren van de EC over de criteria voor bevoegdverklaring. Waardering: B, 2 en 3  
+Handeling: Het informeren van de EC over de instellingen die bevoegd verklaard zijn om garanties af te geven bij de aanvraag voor invoer-, uitvoer- of voorfixatiecertificaten voor landbouwgoederen Periode: 1970–1988 Grondslag: Verordening (EEG) nr. 1373/70, art. 5; Verordening (EEG) nr. 93/75, art. 5; Verordening (EEG) nr. 3183/80, art. 13, lid.3 Opmerking: Bij deze handeling hoort tevens het informeren van de EC over de criteria voor bevoegdverklaring. Waardering: B, 2 en 3 
 
 #### *Minister van Justitie* 
 
@@ -2864,7 +2864,7 @@ Handeling: Het informeren van de EC over de instellingen die bevoegd verklaard z
 Handeling: Het vaststellen van regelgeving betreffende tuchtrechtspraak op het gebied van de voedselvoorziening Periode: 1942–1952 Grondslag: Besluit Tuchtrechtspraak Voedselvoorziening (Stcrt. 1942, 183) Waardering: B, 1 en 5 
 ###353
 
-Handeling: Het vaststellen van nadere voorschriften ter uitvoering van het Besluit Tuchtrechtspraak Voedselvoorziening Periode: 1942–1952 Grondslag: Besluit Tuchtrechtspraak Voedselvoorziening, art. 55 Waardering: B, 5  
+Handeling: Het vaststellen van nadere voorschriften ter uitvoering van het Besluit Tuchtrechtspraak Voedselvoorziening Periode: 1942–1952 Grondslag: Besluit Tuchtrechtspraak Voedselvoorziening, art. 55 Waardering: B, 5 
 
 #### *Actoren die ressorteren onder het zorgdragerschap van de Minister van Justitie* 
 
@@ -2885,7 +2885,7 @@ Handeling: Het doen van uitspraken in tuchtrechtzaken in hoger beroep tegen besl
 
 ###356
 
-Handeling: Het op het gebied van de voedselvoorziening voorbereiden en voeren van tuchtrechtzaken voor de tuchtrechter en het tenuitvoerleggen van tuchtrechtelijke uitspraken Periode: 1942–1952 Grondslag: Besluit Tuchtrechtspraak Voedselvoorziening, artt. 11-37 Waardering: B, 5  
+Handeling: Het op het gebied van de voedselvoorziening voorbereiden en voeren van tuchtrechtzaken voor de tuchtrechter en het tenuitvoerleggen van tuchtrechtelijke uitspraken Periode: 1942–1952 Grondslag: Besluit Tuchtrechtspraak Voedselvoorziening, artt. 11-37 Waardering: B, 5 
 
 #### *Minister van Sociale Zaken en Werkgelegenheid* 
 
@@ -2894,7 +2894,7 @@ Handeling: Het op het gebied van de voedselvoorziening voorbereiden en voeren va
 Handeling: Het gezamenlijk vaststellen van een arbeidsreglement voor voedselvoorzieningsorganisaties Periode: 1941–1957 Grondslag: Algemeen Reglement, art. 10 Opmerking: De organisaties regelden binnen de gestelde kaders zelf de aanstelling van personeel en de arbeidsvoorwaarden. Waardering: V 10 jaar 
 ###115
 
-Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van KB’s waarbij productschappen de bevoegdheid krijgen om prijzen voor landbouwproducten vast te stellen Periode: 1958– Grondslag: Instellingswetten productschappen Waardering: V 10 jaar  
+Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van KB’s waarbij productschappen de bevoegdheid krijgen om prijzen voor landbouwproducten vast te stellen Periode: 1958– Grondslag: Instellingswetten productschappen Waardering: V 10 jaar 
 
 #### *Productschap voor Vee en Vlees (PVV)* 
 
@@ -2912,5 +2912,5 @@ Handeling: Het beslissen over de toekenning van een vroegslachtpremie voor kalve
 Handeling: Het beslissen over het aan rundvleesproducenten toekennen van slachtpremies Periode: 2000– Grondslag: Verordening (EG) nr. 1254/1999, art. 11; Verordening (EEG) nr. 2342/1999; Regeling dierlijke EG-premies, als gewijzigd (Stcrt. 1999, 246), art. 2.3, lid 2 Opmerking: De Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) is verantwoordelijk voor de toekenning van de slachtpremie voor runderen ouder dan acht maanden, de PVV voor de slachtpremie voor kalveren. Indien de runderen in een Nederlands abattoir worden geslacht, wordt de premieaanvraag namens de producent door dit abattoir ingediend. Waardering: V 12 jaar 
 ###869
 
-Handeling: Het beslissen over verlening van bijzondere exportrestituties voor rundvlees Periode: 1982– Grondslag: Beschikking bijzondere restitutie bij uitvoer rundvlees 1982, art. 2, lid 1; Beschikking bijzondere restitutie bij uitvoer uitgebeend rundvlees 1982, art. 2, lid 1; Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984, art. 2, lid 1 Waardering: V 12 jaar.  
+Handeling: Het beslissen over verlening van bijzondere exportrestituties voor rundvlees Periode: 1982– Grondslag: Beschikking bijzondere restitutie bij uitvoer rundvlees 1982, art. 2, lid 1; Beschikking bijzondere restitutie bij uitvoer uitgebeend rundvlees 1982, art. 2, lid 1; Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984, art. 2, lid 1 Waardering: V 12 jaar. 
 

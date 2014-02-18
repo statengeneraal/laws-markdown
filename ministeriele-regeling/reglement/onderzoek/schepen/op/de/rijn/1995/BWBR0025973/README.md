@@ -1216,11 +1216,11 @@ b. een herzien certificaat van typegoedkeuring (met een uitbreidingsnummer) indi
 
 | Doel van de motor  | Richtlijn  | Motorcategorie  |
 |---|---|---|
-| Hoofdaandrijving van het schip  | 2004/26/EG  | V  |
-| Hulpmotor met constant toerental  | 2004/26/EG  | V  |
+| Hoofdaandrijving van het schip  | 97/68/EG  | V  |
+| Hulpmotor met constant toerental  | 97/68/EG  | V  |
 | H, I, J, K  |
 | 97/68/EG  | D, E, F, G,  |
-| Hulpmotor met variabel toerental en variabele belasting  | 2004/26/EG  | V  |
+| Hulpmotor met variabel toerental en variabele belasting  | 97/68/EG  | V  |
 | H, I, J, K  L, M, N, P  Q, R  |
 
 2.  De Centrale Commissie voor de Rijnvaart kan de gelijkwaardigheid erkennen van overeenstemmende normen vastgelegd in internationale regelingen, dan wel in voorschriften van de Rijnoeverstaten of België of van een derde land met de voorwaarden en de bepalingen van dit hoofdstuk inzake de typegoedkeuring van motoren.   

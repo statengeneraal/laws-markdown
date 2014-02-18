@@ -29,7 +29,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *geregistreerde:* registratieplichtige of degene die een rekening heeft in het register en voldoet aan artikel 6, 6b of 6c;  
 
-*mobiele machine:* mobiele machine of trekker als bedoeld in artikel 1, onderdelen f en h, van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines;  
+*mobiele machine:* mobiele machine als bedoeld in artikel 2 van richtlijn 2003/37/EG van het Europees Parlement en de Raad van 26 mei 2003 betreffende de typegoedkeuring van landbouw- of bosbouwtrekkers en aanhangwagens, verwisselbare getrokken machines, systemen, onderdelen en technische eenheden daarvan en tot intrekking van Richtlijn 74/150/EEG van de Raad (PbEG 2003, L 171);  
 
 *register:* register als bedoeld in artikel 12.31, eerste lid, van de Wet milieubeheer;  
 

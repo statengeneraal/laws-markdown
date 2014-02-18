@@ -12,13 +12,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *WEC:*[Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *WEC:* [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-c. *WPO:*[Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
+c.  *WPO:* [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-d. *bevoegd gezag:* het bevoegd gezag bedoeld in [artikel 1 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 1 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md).    
+d.  *bevoegd gezag:* het bevoegd gezag bedoeld in [artikel 1 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 1 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md).  
 
 ### Artikel  2  
 
@@ -27,14 +27,14 @@ d. *bevoegd gezag:* het bevoegd gezag bedoeld in [artikel 1 van de WPO](../../..
 1.  Het bevoegd gezag verstrekt de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in [artikel 178a, tweede lid, van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) en in [artikel 164a, tweede lid, van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 1 bij deze regeling aan de minister.   
 2.  Het bevoegd gezag verstrekt de organisatiegegevens, genoemd in bijlage 2 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 2 bij deze regeling, aan de minister.   
 3.  Het bevoegd gezag, het bestuur van een regionaal expertisecentrum als bedoeld in [artikel 28b van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) en het bestuur van een centrale dienst als bedoeld in [artikel 68 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md), voor zover deze dienst personeelsbekostiging voor zorgvoorzieningen ontvangt als bedoeld in [artikel 132 van genoemde wet](../../../../../../wet/wbo/BWBR0003420/README.md) verstrekt de financiële gegevens, genoemd in bijlage 3 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 3 bij deze regeling, aan de minister.   
-4.  Het bevoegd gezag verstrekt de personele gegevens, genoemd in bijlage 4 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 4 bij deze regeling, aan de minister.   
+4.  Het bevoegd gezag verstrekt de personele gegevens, genoemd in bijlage 4 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 4 bij deze regeling, aan de minister.  
 
 ### Artikel  3  
 
 ####Bijzondere verstrekking
 
 1.  Het bevoegd gezag dat na overleg met de minister, door de minister niet in staat wordt geacht de gegevens, bedoeld in artikel 2, eerste lid, op de in dat lid genoemde wijze te verstrekken, verstrekt de gegevens op de wijze die door de minister wordt vastgesteld na overleg met het bevoegd gezag.   
-2.  Het bevoegd gezag dat na overleg met de minister, door de minister niet in staat wordt geacht de gegevens bedoeld in artikel 2, tweede, derde of vierde lid, op de in dat lid genoemde wijze te verstrekken, verstrekt de gegevens op de wijze die door de minister wordt vastgesteld na overleg met het bevoegd gezag.   
+2.  Het bevoegd gezag dat na overleg met de minister, door de minister niet in staat wordt geacht de gegevens bedoeld in artikel 2, tweede, derde of vierde lid, op de in dat lid genoemde wijze te verstrekken, verstrekt de gegevens op de wijze die door de minister wordt vastgesteld na overleg met het bevoegd gezag.  
 
 ### Artikel  4  
 
@@ -53,40 +53,40 @@ c. 1 december; de personele gegevens genoemd in [artikel 11a van het Besluit bek
 a. de personele gegevens over de verslagmaand bedoeld in onderdeel 3 van bijlage 4 bij deze regeling;  
 
 b. de ontvangen uitkering, bedoeld in artikel 2, van de regeling in mindering brengen uitkeringen.     
-4.  Het bevoegd gezag verstrekt de gegevens genoemd in bijlage 1 bij deze regeling op een door de minister te bepalen tijdstip.   
+4.  Het bevoegd gezag verstrekt de gegevens genoemd in bijlage 1 bij deze regeling op een door de minister te bepalen tijdstip.  
 
 ### Artikel  4a  
 
 ####Inzage leerlingenadministratie
 
-In geval van een steekproefsgewijze controle door of namens de minister geeft het bevoegd gezag inzage in de in bijlage 5 genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.  
+In geval van een steekproefsgewijze controle door of namens de minister geeft het bevoegd gezag inzage in de in bijlage 5 genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld. 
 
 ### Artikel  5  
 
 ####Terugkoppeling inschrijvingsgegevens
 
-Binnen 7 dagen na de verstrekking, bedoeld in artikel 4, eerste lid, meldt de minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), aan het bevoegd gezag.  
+Binnen 7 dagen na de verstrekking, bedoeld in artikel 4, eerste lid, meldt de minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), aan het bevoegd gezag. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 2 oktober 2007.  
+Deze regeling treedt in werking met ingang van 2 oktober 2007. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling structurele gegevenslevering WPO/WEC.  
+Deze regeling wordt aangehaald als: Regeling structurele gegevenslevering WPO/WEC. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het ministerie van Onderwijs, Cultuur en Wetenschap en bekend worden gemaakt op de internetsite van CFI, agentschap van het ministerie van Onderwijs, Cultuur en Wetenschap, en de IB-Groep.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S.A.M.Dijksma  
+S.A.M. Dijksma    
 
-### Bijlage  2  
+###Bijlage 2 
 
-####bij Regeling structurele gegevenslevering WPO/WEC (PvE organisatiegegevens)
+####bij Regeling structurele gegevenslevering WPO/WEC (PvE organisatiegegevens) 
 
 ### 1  
 
@@ -96,25 +96,25 @@ S.A.M.Dijksma
 
 ####Algemeen
 
-Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van de organisatiegegevens.  
+Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van de organisatiegegevens. 
 
 ### 1.2  
 
 ####Wettelijke basis voor de levering
 
-Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
+Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid. 
 
 ### 1.3  
 
 ####Periodieke bijstellingen
 
-De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering.  
+De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering. 
 
 ### 1.4  
 
 ####Voor wie is het PvE bedoeld
 
-Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen (VGK)) voor primair onderwijs.  
+Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen (VGK)) voor primair onderwijs. 
 
 ### 2  
 
@@ -124,13 +124,13 @@ Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visu
 
 ####Algemeen
 
-Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden worden vastgelegd in de Basisregistratie Instellingen (BRIN). De registerhouder DUO geeft aan elke organisatie, die in het register wordt vastgelegd, een uniek nummer. Verder legt de registerhouder informatie vast uit beschikkingen en andere voor de werkprocessen van belang zijnde gegevens. In de registratie wordt precies vastgelegd wat o.a. in het kader van de planprocedure is goedgekeurd en in de beschikking aan het bevoegd gezag is opgenomen. Gegevens waarvoor goedkeuring is verleend kunnen niet zonder toetsingsprocedure gewijzigd worden. Andere gegevens, zoals communicatiegegevens kunnen, op aangeven van het bevoegd gezag, wel zonder toetsing worden gemuteerd. In dit PvE worden de elektronische aanlevering van enkele gegevens van scholen en het bevoegd gezag beschreven, die men zelf kan wijzigen zonder toetsing door het departement. Via www.ocwduo.nl kunnen ook andere partijen informatie halen uit deze registratie. Het gaat daarbij om een selectie van gegevens uit BRIN, met name de identificatiegegevens (BRINnummer) en adresgegevens.  
+Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden worden vastgelegd in de Basisregistratie Instellingen (BRIN). De registerhouder DUO geeft aan elke organisatie, die in het register wordt vastgelegd, een uniek nummer. Verder legt de registerhouder informatie vast uit beschikkingen en andere voor de werkprocessen van belang zijnde gegevens. In de registratie wordt precies vastgelegd wat o.a. in het kader van de planprocedure is goedgekeurd en in de beschikking aan het bevoegd gezag is opgenomen. Gegevens waarvoor goedkeuring is verleend kunnen niet zonder toetsingsprocedure gewijzigd worden. Andere gegevens, zoals communicatiegegevens kunnen, op aangeven van het bevoegd gezag, wel zonder toetsing worden gemuteerd. In dit PvE worden de elektronische aanlevering van enkele gegevens van scholen en het bevoegd gezag beschreven, die men zelf kan wijzigen zonder toetsing door het departement. Via www.ocwduo.nl kunnen ook andere partijen informatie halen uit deze registratie. Het gaat daarbij om een selectie van gegevens uit BRIN, met name de identificatiegegevens (BRINnummer) en adresgegevens. 
 
 ### 2.2  
 
 ####Elektronische aanlevering van gegevens
 
-BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Vanaf 1 augustus 2007 moet het bevoegd gezag van scholen (en VGK-instellingen) de wijzigingen in de communicatie gegevens, genoemd in de volgende paragraaf van dit PvE, elektronisch aanleveren. Voor wijzigingen in andere gegevens blijven de huidige procedures gehandhaafd. Voor instellingen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring. Voor het bevoegd gezag gaat het om de naam, de datum opheffing, het centraal rekeningnummer, de salarisverwerkende instelling, het administratiekantoornummer en fusie met een ander bevoegd gezag. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daarvoor op grond van een wettelijk voorschrift een positief besluit over is genomen.  
+BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Vanaf 1 augustus 2007 moet het bevoegd gezag van scholen (en VGK-instellingen) de wijzigingen in de communicatie gegevens, genoemd in de volgende paragraaf van dit PvE, elektronisch aanleveren. Voor wijzigingen in andere gegevens blijven de huidige procedures gehandhaafd. Voor instellingen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring. Voor het bevoegd gezag gaat het om de naam, de datum opheffing, het centraal rekeningnummer, de salarisverwerkende instelling, het administratiekantoornummer en fusie met een ander bevoegd gezag. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daarvoor op grond van een wettelijk voorschrift een positief besluit over is genomen. 
 
 ### 2.3  
 
@@ -213,21 +213,21 @@ Vestiging: Overige communicatiegegevens (niet verplicht)
 
 ####Domeinen
 
-Het domein geeft de mogelijke waarden van een attribuut aan. Bevoegd gezagnummer Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. BRINnummer Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee letters. BRINvestiging Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee letters, gevolgd door twee cijfers.  
+Het domein geeft de mogelijke waarden van een attribuut aan. Bevoegd gezagnummer Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. BRINnummer Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee letters. BRINvestiging Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee letters, gevolgd door twee cijfers. 
 
 ### 3  
 
 ####Termijn voor aanlevering van de gegevens
 
-Alle wijzigingen worden aangeleverd binnen vier weken na mutatiedatum.  
+Alle wijzigingen worden aangeleverd binnen vier weken na mutatiedatum. 
 
 ### 4  
 
 ####Wijze van aanleveren
 
-De aanlevering geschiedt elektronisch. U dient hiervoor gebruik te maken van het onderwerp instellingsinformatie onder www.ocwduo.nl.  
+De aanlevering geschiedt elektronisch. U dient hiervoor gebruik te maken van het onderwerp instellingsinformatie onder www.ocwduo.nl. 
 
-### Bijlage  3  
+###Bijlage 3 
 
 ####bij Regeling structurele gegevenslevering WPO/WEC (PvE financiële gegevens)
 
@@ -237,27 +237,27 @@ De aanlevering geschiedt elektronisch. U dient hiervoor gebruik te maken van het
 
 ### 1.1  
 
-####Algemeen
+#### Algemeen
 
-Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een Programma van Eisen (PvE). Dit PvE gaat over de aanlevering van financiële gegevens.  
+Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een Programma van Eisen (PvE). Dit PvE gaat over de aanlevering van financiële gegevens. 
 
 ### 1.2  
 
 ####Wettelijke basis voor de levering
 
-Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het Besluit informatievoorziening WPO/WEC zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
+Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het Besluit informatievoorziening WPO/WEC zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid. 
 
 ### 1.3  
 
-####Periodieke bijstellingen
+#### Periodieke bijstellingen
 
-De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van één maal bevragen, meer keren gebruiken. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering. Het PvE zal daarom periodiek worden geëvalueerd en geactualiseerd. De PvE’s hebben met elkaar te maken, soms zijn er overlappingen, soms hebben de gegevens betrekking op dezelfde onderwerpen. Getracht is de definities in de PvE’s zoveel mogelijk op elkaar te laten aansluiten  
+De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van één maal bevragen, meer keren gebruiken. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering. Het PvE zal daarom periodiek worden geëvalueerd en geactualiseerd. De PvE’s hebben met elkaar te maken, soms zijn er overlappingen, soms hebben de gegevens betrekking op dezelfde onderwerpen. Getracht is de definities in de PvE’s zoveel mogelijk op elkaar te laten aansluiten 
 
 ### 1.4  
 
 ####Voor wie is het PvE bedoeld?
 
-Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen) voor primair onderwijs en besturen van REC’s en Centrale Diensten (CD’s).  
+Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen) voor primair onderwijs en besturen van REC’s en Centrale Diensten (CD’s). 
 
 ### 2  
 
@@ -265,15 +265,15 @@ Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visu
 
 ### 2.1  
 
-####Algemeen
+#### Algemeen
 
-In dit PvE wordt beschreven welke financiële gegevens een bevoegd gezag één maal per jaar in een voorgeschreven formaat moet aanleveren. De gegevens op bestuursniveau maken onderdeel uit van de jaarrekening. Ze worden gedetailleerd beschreven in de ‘Regeling Jaarverslaggeving Onderwijs’ en de daarbij behorende toelichtende brochure 'Richtlijn jaarverslag onderwijs’. Deze gegevens worden gecontroleerd door de accountant. Behalve deze gegevens op bestuursniveau zijn ook een negental gegevens op schoolniveau verplicht (paragraaf 2.3.2). Deze gegevens vallen niet onder de accountantscontrole. Het is evengoed verplicht deze gegevens aan te leveren. Het bevoegd gezag kan zelf bepalen hoe bedragen worden verdeeld over de onder het bevoegd gezag vallende scholen of worden toegerekend aan het bovenschools management. Er vindt bij DUO een controle plaats op de randtotalen van de som van de totale baten en de totale lasten. De som van de bedragen per school en de bovenschoolse baten en lasten, moet gelijk zijn aan het door de accountant gecontroleerd bedrag op bestuursniveau.  
+In dit PvE wordt beschreven welke financiële gegevens een bevoegd gezag één maal per jaar in een voorgeschreven formaat moet aanleveren. De gegevens op bestuursniveau maken onderdeel uit van de jaarrekening. Ze worden gedetailleerd beschreven in de ‘Regeling Jaarverslaggeving Onderwijs’ en de daarbij behorende toelichtende brochure 'Richtlijn jaarverslag onderwijs’. Deze gegevens worden gecontroleerd door de accountant. Behalve deze gegevens op bestuursniveau zijn ook een negental gegevens op schoolniveau verplicht (paragraaf 2.3.2). Deze gegevens vallen niet onder de accountantscontrole. Het is evengoed verplicht deze gegevens aan te leveren. Het bevoegd gezag kan zelf bepalen hoe bedragen worden verdeeld over de onder het bevoegd gezag vallende scholen of worden toegerekend aan het bovenschools management. Er vindt bij DUO een controle plaats op de randtotalen van de som van de totale baten en de totale lasten. De som van de bedragen per school en de bovenschoolse baten en lasten, moet gelijk zijn aan het door de accountant gecontroleerd bedrag op bestuursniveau. 
 
 ### 2.2  
 
-####Elektronische aanlevering van gegevens
+#### Elektronische aanlevering van gegevens
 
-Het bevoegd gezag moet eenmaal per jaar de jaarrekening aanleveren conform de ‘ [Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md) ’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’. De jaarrekening wordt op papier (voorzien van accountantsverklaring) én elektronisch ingestuurd. Dit kan door gebruik te maken van het Elektronisch Financieel Jaarverslag (EFJ) voor de jaarrekening en voor het jaarverslag in PDF (zie de toelichting bij de regeling). Indien een bevoegd gezag geen gebruik maakt van EFJ, moet het bevoegd gezag behalve een papieren én een elektronische versie van de jaarrekening, een extra (elektronische) levering doen met betrekking tot de in dit PvE genoemde financiële gegevens. De naam van het op te leveren bestand met de financiële gegevens van het bevoegd gezag op bestuursniveau is: fgXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein). Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.1 is vermeld. De naam van het op te leveren bestand met de financiële gegevens op schoolniveau is: fkXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein) Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.2 is vermeld. De bestanden bevatten de waarden conform de onderstaande definities, gescheiden door puntkomma’s waarbij de regels gescheiden zijn door het nieuwe regelteken). Deze indeling komt overeen met de indeling van bijvoorbeeld MS-Excel. Kies in Excel in het menu ‘Bestand’ de optie ‘opslaan als’ en dan voor ‘opslaan als:’ ‘CSV (MS-DOS) (*.csv)’. CSV staat voor Comma Separated Values.  
+Het bevoegd gezag moet eenmaal per jaar de jaarrekening aanleveren conform de ‘[Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md)’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’. De jaarrekening wordt op papier (voorzien van accountantsverklaring) én elektronisch ingestuurd. Dit kan door gebruik te maken van het Elektronisch Financieel Jaarverslag (EFJ) voor de jaarrekening en voor het jaarverslag in PDF (zie de toelichting bij de regeling). Indien een bevoegd gezag geen gebruik maakt van EFJ, moet het bevoegd gezag behalve een papieren én een elektronische versie van de jaarrekening, een extra (elektronische) levering doen met betrekking tot de in dit PvE genoemde financiële gegevens. De naam van het op te leveren bestand met de financiële gegevens van het bevoegd gezag op bestuursniveau is: fgXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein). Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.1 is vermeld. De naam van het op te leveren bestand met de financiële gegevens op schoolniveau is: fkXXXXX.csv, waarbij XXXXX staat voor het bevoegd gezagnummer (zie domein) Het bestand bevat op de eerste rij de namen van de kolommen, overeenkomend met de naam van de gegevens zoals in tabel 2.3.2 is vermeld. De bestanden bevatten de waarden conform de onderstaande definities, gescheiden door puntkomma’s waarbij de regels gescheiden zijn door het nieuwe regelteken). Deze indeling komt overeen met de indeling van bijvoorbeeld MS-Excel. Kies in Excel in het menu ‘Bestand’ de optie ‘opslaan als’ en dan voor ‘opslaan als:’ ‘CSV (MS-DOS) (*.csv)’. CSV staat voor Comma Separated Values. 
 
 ### 2.3  
 
@@ -283,7 +283,7 @@ Onderscheid wordt gemaakt naar gegevens per bevoegd gezag (paragraaf 2.3.1) en g
 
 ### 2.3.1  
 
-####Onderdeel jaarrekening
+#### Onderdeel jaarrekening
 
 Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden de gegevens uit de onderstaande tabel automatisch via EFJ aangeleverd. Het bevoegd gezag hoeft dan voor deze paragraaf geen aparte actie te ondernemen. Maakt het bevoegd gezag geen gebruik van EFJ dan volgt aanlevering zoals aangegeven in paragraaf 2.2.  
 
@@ -521,7 +521,7 @@ Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden 
 | 229  | Buitengewoon resultaat  | bedrag  | De waarde van het Buitengewoon resultaat  | Buitengewone lasten  |
 | --- | --- | --- | --- | --- |
 
-Alle posten dienen conform de specificaties zoals aangegeven in de ‘Regeling Jaarverslag Onderwijs’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’ te worden opgenomen.  
+Alle posten dienen conform de specificaties zoals aangegeven in de ‘Regeling Jaarverslag Onderwijs’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’ te worden opgenomen. 
 
 ### 2.3.2  
 
@@ -547,35 +547,35 @@ Indien er sprake is van bovenschoolse baten en lastendienst dient het organisati
 
 ### 2.4  
 
-####Domeinen
+#### Domeinen
 
 Het domein geeft de mogelijke waarden van een attribuut aan. 
 
 ####Bedrag
 
-Hoeveelheid in euro’s in de vorm van een getal met 2 decimalen. Een bedrag kan worden voorafgegaan door een min-teken en mag worden afgerond op hele euro’s.  
+Hoeveelheid in euro’s in de vorm van een getal met 2 decimalen. Een bedrag kan worden voorafgegaan door een min-teken en mag worden afgerond op hele euro’s. 
 
 ####Bevoegd gezagnummer
 
-Het identificerende nummer van een bevoegd gezag van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. Dit nummer is te vinden op www.ocwduo.nl. Formaat: N5  
+Het identificerende nummer van een bevoegd gezag van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. Dit nummer is te vinden op www.ocwduo.nl. Formaat: N5 
 
 ####BRINnummer
 
-Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee hoofdletters. Dit nummer is te vinden op www.ocwduo.nl. Formaat: A4  
+Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee hoofdletters. Dit nummer is te vinden op www.ocwduo.nl. Formaat: A4 
 
 ####Jaar
 
-Aanduiding van het kalenderjaar waarop een bepaald gegeven betrekking heeft, bestaande uit 4 cijfers in de vorm JJJJ.  
+Aanduiding van het kalenderjaar waarop een bepaald gegeven betrekking heeft, bestaande uit 4 cijfers in de vorm JJJJ. 
 
 ####3. Moment van aanlevering van de gegevens
 
-Het bevoegd gezag verstrekt jaarlijks vóór 1 juli de financiële gegevens over het voorafgaand kalenderjaar aan DUO.  
+Het bevoegd gezag verstrekt jaarlijks vóór 1 juli de financiële gegevens over het voorafgaand kalenderjaar aan DUO. 
 
 ####4. Wijze van aanleveren
 
-De aanlevering geschiedt elektronisch. Maakt u gebruik van EFJ, dan voldoet u aan de eisen van dit PvE. Maakt u geen gebruik van EFJ, dan levert u, gelijk met de jaarrekening, een bestand aan conform de eisen van dit PvE.  
+De aanlevering geschiedt elektronisch. Maakt u gebruik van EFJ, dan voldoet u aan de eisen van dit PvE. Maakt u geen gebruik van EFJ, dan levert u, gelijk met de jaarrekening, een bestand aan conform de eisen van dit PvE. 
 
-### Bijlage  4  
+###Bijlage 4 
 
 ####bij Regeling structurele gegevenslevering WPO/WEC (PvE personele gegevens)
 
@@ -587,25 +587,25 @@ De aanlevering geschiedt elektronisch. Maakt u gebruik van EFJ, dan voldoet u aa
 
 ####Algemeen
 
-Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van personele gegevens.  
+Voor het bekostigen van scholen en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. Dit wordt geregeld in een [Programma van Eisen (PvE)](../../../../../../ministeriele-regeling/regeling/programma/van/eisen/(pve)/inventariskosten/v.o.b.b.o./BWBR0006110/README.md). Dit PvE gaat over de aanlevering van personele gegevens. 
 
 ### 1.2  
 
 ####Wettelijke basis voor de levering
 
-Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid.  
+Op basis van de wijzigingswet in verband met de invoering van het persoonsgebonden nummer en het [Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md) zijn er vier gebieden waarvoor verplichte elektronische gegevensleveringen vanuit het bevoegd gezag volgen: de organisatie, de leerlingen, het personeel en de financiën. Voor alle gegevens is in wet- en regelgeving aangegeven waarvoor ze mogen worden gebruikt: voor bekostiging, controle op de bekostiging of voor beleid. 
 
 ### 1.3  
 
 ####Periodieke bijstellingen
 
-De besturen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal het Ministerie van OCW zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren voort te zetten. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering. Over eventuele aanpassingen van het PvE vindt overleg plaats met de werkgeversorganisaties. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het PvE zal daarom periodiek worden geëvalueerd en geactualiseerd.  
+De besturen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal het Ministerie van OCW zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren voort te zetten. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoefte en informatieverzameling zijn niet statisch. Om die reden is het de verwachting dat er wijzigingen kunnen voorkomen in de gegevensvraag of de wijze van aanlevering. Over eventuele aanpassingen van het PvE vindt overleg plaats met de werkgeversorganisaties. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het PvE zal daarom periodiek worden geëvalueerd en geactualiseerd. 
 
 ### 1.4  
 
 ####Voor wie is het PvE bedoeld
 
-Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen (VGK)) in het primair onderwijs.  
+Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen (VGK)) in het primair onderwijs. 
 
 ### 2  
 
@@ -615,13 +615,13 @@ Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visu
 
 ####Algemeen
 
-Gegevens over personeel worden door DUO verzameld op het niveau van arbeidsrelaties en op het niveau van de instellingen. Gegevens op het niveau van de arbeidsrelaties worden vastgelegd in de Basisregistratie Personeel (BRP). Voor het beleid van OCW – en in het bijzonder het arbeidsmarktbeleid voor de sector Onderwijs – is het van belang dat landelijke ontwikkelingen kunnen worden gevolgd. De aangeleverde gewogen gemiddelde leeftijd (GGL) per school gebruikt DUO voor de lumpsumbekostiging. Verder worden de personele gegevens en salarisgegevens gebruikt voor het opstellen en analyseren van financiële gegevens en kengetallen uit de jaarrekening. In dit PvE wordt zoveel mogelijk aangesloten bij de bestaande praktijk van de leveringen die nu aan het ministerie worden gedaan. Om de op basis van dit PvE aan te leveren gegevens te kunnen gebruiken voor een vergelijking met gegevens over reeds geleverde periodes zijn ook bestaande indelingen zoveel mogelijk gehandhaafd. Waar nodig zijn de indelingen aangepast of aangevuld.  
+Gegevens over personeel worden door DUO verzameld op het niveau van arbeidsrelaties en op het niveau van de instellingen. Gegevens op het niveau van de arbeidsrelaties worden vastgelegd in de Basisregistratie Personeel (BRP). Voor het beleid van OCW – en in het bijzonder het arbeidsmarktbeleid voor de sector Onderwijs – is het van belang dat landelijke ontwikkelingen kunnen worden gevolgd. De aangeleverde gewogen gemiddelde leeftijd (GGL) per school gebruikt DUO voor de lumpsumbekostiging. Verder worden de personele gegevens en salarisgegevens gebruikt voor het opstellen en analyseren van financiële gegevens en kengetallen uit de jaarrekening. In dit PvE wordt zoveel mogelijk aangesloten bij de bestaande praktijk van de leveringen die nu aan het ministerie worden gedaan. Om de op basis van dit PvE aan te leveren gegevens te kunnen gebruiken voor een vergelijking met gegevens over reeds geleverde periodes zijn ook bestaande indelingen zoveel mogelijk gehandhaafd. Waar nodig zijn de indelingen aangepast of aangevuld. 
 
 ### 2.2  
 
 ####Elektronische aanlevering van gegevens
 
-Vanaf 1 augustus 2007 is het bevoegd gezag verplicht voor alle onder het gezag staande bekostigde scholen (en instellingen) de in dit PvE opgenomen personele gegevens elektronisch aan te leveren. De reikwijdte van dit PvE strekt zich ook uit tot het bovenschoolse personeel dat een arbeidsrelatie heeft met het betreffende bevoegd gezag. Na het schooljaar 2007–2008 als overgangsjaar voor wat betreft de technische specificaties zijn vanaf 1 augustus 2008 bevoegde gezagen verplicht alle in het PvE genoemde personele gegevens aan te leveren volgens de technische specificaties die in dit PvE vermeld staan.  
+Vanaf 1 augustus 2007 is het bevoegd gezag verplicht voor alle onder het gezag staande bekostigde scholen (en instellingen) de in dit PvE opgenomen personele gegevens elektronisch aan te leveren. De reikwijdte van dit PvE strekt zich ook uit tot het bovenschoolse personeel dat een arbeidsrelatie heeft met het betreffende bevoegd gezag. Na het schooljaar 2007–2008 als overgangsjaar voor wat betreft de technische specificaties zijn vanaf 1 augustus 2008 bevoegde gezagen verplicht alle in het PvE genoemde personele gegevens aan te leveren volgens de technische specificaties die in dit PvE vermeld staan. 
 
 ### 2.3  
 
@@ -751,7 +751,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 ### 2.3.6  
 
-Vervallen 
+Vervallen
 
 ### 2.3.7  
 
@@ -822,7 +822,7 @@ Aanduiding van de (salaris)administratie waaruit de gegevens afkomstig zijn.
 | 09  | Metrium  |
 | 10  | Prosco  |
 
-Besturen die zelf aan DUO leveren, laten dit veld leeg. Bovenstaande opsomming is voorlopig. Er kunnen nieuwe toeleveranciers komen Formaat: N6 
+Besturen die zelf aan DUO leveren, laten dit veld leeg.Bovenstaande opsomming is voorlopig. Er kunnen nieuwe toeleveranciers komen Formaat: N6 
 ### *Datum* 
 
 Aanduiding van een bepaalde dag, bestaande uit een reeks van 8 cijfers in de vorm JJJJMMDD. Formaat: N8 
@@ -941,7 +941,7 @@ Deel van de beloningssystematiek zoals vermeld in het Kaderbesluit rechtspositie
 | 3200  | Bruto eindejaarsuitkering OOP  |
 | 3600  | UFO-premie  |
 | 3800  | Werkgeversbijdrage zorgverzekeringswet  |
-| 3850  | Werkgeversheffing zorgverzekeringswet  |
+|3850 | Werkgeversheffing zorgverzekeringswet  |
 
 ### *Toelichting brutoloon* 
 
@@ -960,7 +960,7 @@ Aanduiding van de reden of doel van het verlof
 | 06  | Levensloopverlof  |
 | 07  | Overig verlof, niet zijnde vakantie-, feest- of snipperdagen  |
 
-Formaat: N2  
+Formaat: N2 
 
 ### 3  
 
@@ -974,7 +974,7 @@ De gegevens genoemd in de paragrafen 2.3.1, 2.3.2 en 2.3.3, dienen vier maal per
 
 3. uiterlijk 15 december de gegevens over augustus, september en oktober;  
 
-4. uiterlijk 15 maart de gegevens over november, december en januari.   In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt. Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de paragrafen 2.3.1 tot en met 2.3.4 dienen één keer per jaar geleverd te worden en wel uiterlijk op 15 maart van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). Voor de gegevens genoemd in paragraaf 2.3.5, geldt de aanleverdatum uit het bekostigingsbesluit. Het bevoegd gezag draagt er zorg voor dat vóór 1 december de gegevens van peildatum 1 oktober van dat jaar bij DUO zijn geleverd. Een bevoegd gezag, dat voor de aanlevering van de GGL gebruik maakt van een geautomatiseerd systeem voor de salarisverwerking dient er rekening mee te houden dat de gegevensverwerking door een geautomatiseerd systeem een doorlooptijd vergt. De gegevens genoemd in paragraaf 2.3.6, dienen maandelijks te worden geleverd aan DUO. De gegevens genoemd in paragraaf 2.3.7, dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 15 maart van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.  
+4. uiterlijk 15 maart de gegevens over november, december en januari.   In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt. Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de paragrafen 2.3.1 tot en met 2.3.4 dienen één keer per jaar geleverd te worden en wel uiterlijk op 15 maart van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). Voor de gegevens genoemd in paragraaf 2.3.5, geldt de aanleverdatum uit het bekostigingsbesluit. Het bevoegd gezag draagt er zorg voor dat vóór 1 december de gegevens van peildatum 1 oktober van dat jaar bij DUO zijn geleverd. Een bevoegd gezag, dat voor de aanlevering van de GGL gebruik maakt van een geautomatiseerd systeem voor de salarisverwerking dient er rekening mee te houden dat de gegevensverwerking door een geautomatiseerd systeem een doorlooptijd vergt. De gegevens genoemd in paragraaf 2.3.6, dienen maandelijks te worden geleverd aan DUO. De gegevens genoemd in paragraaf 2.3.7, dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 15 maart van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt. 
 
 ### 4  
 
@@ -984,7 +984,7 @@ De gegevens genoemd in de paragrafen 2.3.1, 2.3.2 en 2.3.3, dienen vier maal per
 
 ####arbeidsrelatie versus aanstelling/benoeming
 
-Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen en benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming of aanstelling zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties:  
+Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen en benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming of aanstelling zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties: 
 
 ### 4.2  
 
@@ -996,61 +996,61 @@ Een bevoegd gezag kan een persoon aanstellen of benoemen om bij één instelling
 
 ####benoemingen in meer dan één functie
 
-Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één instelling uitoefent.  
+Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één instelling uitoefent. 
 
 ### 4.2.2  
 
 ####veranderingen van functie
 
-Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie.  
+Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie. 
 
 ### 4.2.3  
 
 ####veranderingen van betrekkingsomvang in verband met vervanging
 
-Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.  
+Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen. 
 
 ### 4.3  
 
 ####vervanging
 
-Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden.  
+Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden. 
 
 ### 4.4  
 
 ####peilmaand en peildatum
 
-De in de paragrafen 2.3.1, 2.3.2 en 2.3.3 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand. Voor de arbeidsrelaties die op de 1e kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1e kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1e kalenderdag waarop de arbeidsrelatie is ingegaan. Voor de werktijdfactor en de bapofactor wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd.  
+De in de paragrafen 2.3.1, 2.3.2 en 2.3.3 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand. Voor de arbeidsrelaties die op de 1e kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1e kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1e kalenderdag waarop de arbeidsrelatie is ingegaan. Voor de werktijdfactor en de bapofactor wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd. 
 
 ### 4.5  
 
 ####terugwerkende kracht mutaties
 
-Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand.  
+Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand. 
 
 ### 4.6  
 
 ####opbouw jaarbestand
 
-De jaarbestanden geven een samengevat overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. In het jaarbestand moeten alle terugwerkende mutaties verwerkt worden die betrekking hebben op het peiljaar. Net als in de maandbestanden worden de gegevens opgenomen op het niveau van de arbeidsrelatie. Als gedurende een aaneengesloten periode de gegevens van een arbeidsrelatie niet zijn veranderd, dan worden deze gegevens op één regel geleverd. Omdat niet alle veranderingen leiden tot het ontstaan of beëindigen van arbeidsrelaties wordt in het jaarbestand gebruik gemaakt van het veld mutatiedatum. Daarin wordt vastgelegd op welk moment de wijziging feitelijk optreedt (N.B. dat is uitdrukkelijk niet de datum waarop de wijziging in de administratie is doorgevoerd). Het veld begindatum arbeidsrelatie verandert in dat geval niet. Bij een verandering van een doorlopende arbeidsrelatie worden ook alle niet gewijzigde gegevens geleverd. Vervangers kunnen een heel grillig patroon van werken – niet werken hebben. Zolang zij incidenteel en wisselend voor korte perioden worden ingezet, kan volstaan worden met één regel per maand. Op het moment dat er sprake is van een langere periode van vervanging, dan dient hiervoor een afzonderlijke regel conform de andere arbeidsrelaties te worden geleverd.  
+De jaarbestanden geven een samengevat overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. In het jaarbestand moeten alle terugwerkende mutaties verwerkt worden die betrekking hebben op het peiljaar. Net als in de maandbestanden worden de gegevens opgenomen op het niveau van de arbeidsrelatie. Als gedurende een aaneengesloten periode de gegevens van een arbeidsrelatie niet zijn veranderd, dan worden deze gegevens op één regel geleverd. Omdat niet alle veranderingen leiden tot het ontstaan of beëindigen van arbeidsrelaties wordt in het jaarbestand gebruik gemaakt van het veld mutatiedatum. Daarin wordt vastgelegd op welk moment de wijziging feitelijk optreedt (N.B. dat is uitdrukkelijk niet de datum waarop de wijziging in de administratie is doorgevoerd). Het veld begindatum arbeidsrelatie verandert in dat geval niet. Bij een verandering van een doorlopende arbeidsrelatie worden ook alle niet gewijzigde gegevens geleverd. Vervangers kunnen een heel grillig patroon van werken – niet werken hebben. Zolang zij incidenteel en wisselend voor korte perioden worden ingezet, kan volstaan worden met één regel per maand. Op het moment dat er sprake is van een langere periode van vervanging, dan dient hiervoor een afzonderlijke regel conform de andere arbeidsrelaties te worden geleverd. 
 
 ### 4.7  
 
 ####extractiedatum
 
-De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt.  
+De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt. 
 
 ### 4.8  
 
 ####volgnummer
 
-Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert.  
+Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert. 
 
 ### 4.9  
 
 ####begin- en einddatum
 
-Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is.  
+Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is. 
 
 ### 4.10  
 
@@ -1062,13 +1062,13 @@ Arbeidsrelaties kunnen vanuit verschillende bronnen worden bekostigd. Belangrijk
 
 – financiële middelen die een instelling op grond van een (verplichte of vrijwillige) verzekering ontvangt van het Vervangingsfonds in verband met (vervanging bij) ziekte of afwezigheid om andere redenen  
 
-– middelen die bedoeld zijn om mensen met een uitkering te reïntegreren op de arbeidsmarkt of te voorkomen dat mensen in een uitkeringssituatie terechtkomen.   Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert.  
+– middelen die bedoeld zijn om mensen met een uitkering te reïntegreren op de arbeidsmarkt of te voorkomen dat mensen in een uitkeringssituatie terechtkomen.   Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert. 
 
 ### 4.11  
 
 ####maand waarop betrekking
 
-In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met een maand terugwerkende kracht hierin verwerkt. Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 200800).  
+In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met een maand terugwerkende kracht hierin verwerkt. Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 200800). 
 
 ### 4.12  
 
@@ -1082,25 +1082,25 @@ In relatie tot de bevoegdheid tot lesgeven worden de volgende categorieën onder
 
 – zijinstromer (heeft een HO opleiding afgerond en is is nu op basis van een geschiktheidsverklaring werkzaam, volgt een maatwerk traject werken – leren met als doel een getuigschrift van een lerarenopleiding);  
 
-– onbevoegd (geen diploma en ook geen zij-instromer of LIO) (ook als die persoon een deeltijd lerarenopleiding volgt, is hij of zij onbevoegd werkzaam in het primair onderwijs).   De leraren in opleiding (LIO’s) worden als aparte functiecategorie opgegeven. Het gegeven zijinstroom is in het PvE opgenomen opdat dit valt onder de informatieplicht van de bevoegde gezagen. In het streven de administratieve lasten voor de bevoegde gezagen zoveel mogelijk te beperken hoeft dit gegeven (vooralsnog) niet door de bevoegde gezagen te worden geleverd. OCW onderzoekt de mogelijkheden om dit gegeven direct uit bestaande basisregistraties af te leiden.  
+– onbevoegd (geen diploma en ook geen zij-instromer of LIO) (ook als die persoon een deeltijd lerarenopleiding volgt, is hij of zij onbevoegd werkzaam in het primair onderwijs).   De leraren in opleiding (LIO’s) worden als aparte functiecategorie opgegeven. Het gegeven zijinstroom is in het PvE opgenomen opdat dit valt onder de informatieplicht van de bevoegde gezagen. In het streven de administratieve lasten voor de bevoegde gezagen zoveel mogelijk te beperken hoeft dit gegeven (vooralsnog) niet door de bevoegde gezagen te worden geleverd. OCW onderzoekt de mogelijkheden om dit gegeven direct uit bestaande basisregistraties af te leiden. 
 
 ### 4.13  
 
 ####vakantie-, snipper- en feestdagen
 
-Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof.  
+Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof. 
 
 ### 4.14  
 
 ####begin en einde verlofperiode
 
-Bij een verandering van het soort verlof (zoals onderscheiden in dit PvE) wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.  
+Bij een verandering van het soort verlof (zoals onderscheiden in dit PvE) wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. 
 
 ### 4.15  
 
 ####opeenvolgende periodes van ziekteverlof
 
-Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding en daarmee de verzuimperiode begint binnen een periode van 4 weken na herstel-melding van de eerste. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum.  
+Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding en daarmee de verzuimperiode begint binnen een periode van 4 weken na herstel-melding van de eerste. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum. 
 
 ### 5  
 
@@ -1276,7 +1276,7 @@ De leerlingenadministratie omvat per leerling de volgende gegevens:
 
 * het leerlinggewicht van de leerling;  
 
-* de registratie van het verzuim.   Daartoe zijn vanaf het moment van inschrijving in de leerlingenadministratie de volgende documenten opgenomen:  
+* de registratie van het verzuim.   Daartoe zijn vanaf het moment van inschrijving in de leerlingenadministratie de volgende documenten opgenomen: 
 
 ### 1  
 
@@ -1292,15 +1292,15 @@ Voor iedere leerling:
 
 − een kopie van het bericht van inschrijving, bedoeld in [artikel 7, derde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk [artikel 6, derde lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals gezonden aan de vorige school;  
 
-− een volledig ingevulde en door de ouder(s) of verzorger(s) ondertekende ouderverklaring waaruit duidelijk het opleidingsniveau van de ouder(s) of verzorger(s) blijkt. Op basis van deze opleidingsgegevens stelt de school het leerlinggewicht, bedoeld in [artikel 27, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vast. Een aparte ouderverklaring is niet nodig wanneer de betreffende opleidingsgegevens zijn opgenomen op het inschrijfformulier.   Voorbeelden van een inschrijfformulier en een ouderverklaring zijn beschikbaar op de website van DUO.  
+− een volledig ingevulde en door de ouder(s) of verzorger(s) ondertekende ouderverklaring waaruit duidelijk het opleidingsniveau van de ouder(s) of verzorger(s) blijkt. Op basis van deze opleidingsgegevens stelt de school het leerlinggewicht, bedoeld in [artikel 27, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vast. Een aparte ouderverklaring is niet nodig wanneer de betreffende opleidingsgegevens zijn opgenomen op het inschrijfformulier.   Voorbeelden van een inschrijfformulier en een ouderverklaring zijn beschikbaar op de website van DUO. 
 
 ### 2  
 
-####Uitschrijving
+#### Uitschrijving
 
 − Een kopie van het bewijs van uitschrijving, bedoeld in [artikel 8, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, eerste lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-− indien van toepassing het bericht van inschrijving, bedoeld in [artikel 8, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals ontvangen van de volgende school.    
+− indien van toepassing het bericht van inschrijving, bedoeld in [artikel 8, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals ontvangen van de volgende school.   
 
 ### 3  
 
@@ -1318,9 +1318,9 @@ Voor iedere leerling:
 
 − de afwezigheid anders dan vanwege ziekte;  
 
-− of de afwezigheid anders dan vanwege ziekte al dan niet geoorloofd is.    
+− of de afwezigheid anders dan vanwege ziekte al dan niet geoorloofd is.   
 
 ####Bewaartermijn:
 
-Voor alle genoemde basisdocumenten geldt een bewaartermijn van vijf jaar na de datum van uitschrijving van de leerling. De documenten mogen eventueel ook in gedigitaliseerde vorm worden opgeslagen. De documenten worden binnen 8 weken na het verstrijken van de bewaartermijn vernietigd ([artikel 9 Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md); [artikel 8 Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md)).  
+Voor alle genoemde basisdocumenten geldt een bewaartermijn van vijf jaar na de datum van uitschrijving van de leerling. De documenten mogen eventueel ook in gedigitaliseerde vorm worden opgeslagen. De documenten worden binnen 8 weken na het verstrijken van de bewaartermijn vernietigd ([artikel 9 Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md); [artikel 8 Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md)). 
 
