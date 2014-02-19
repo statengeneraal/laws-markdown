@@ -273,5 +273,5 @@ Den Haag
 28 februari 2013   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

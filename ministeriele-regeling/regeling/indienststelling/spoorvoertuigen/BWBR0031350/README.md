@@ -15,53 +15,53 @@ In deze regeling wordt verstaan onder:
 
 *ATB:* automatische treinbeïnvloeding;  
 
-*ATBvv:* automatische treinbeïnvloeding verbeterde versie;  
+*ATBvv:* automatische treinbeïnvloeding verbeterde versie; 
 
 *beschikking 2007/756/EG:* beschikking nr. 2007/756/EG van de Commissie van de Europese Gemeenschappen van 9 november 2007 tot vaststelling van de gemeenschappelijke specificatie van het nationaal voertuigregister als bedoeld in de artikelen 14, leden 4 en 5, van de Richtlijnen 96/48/EG en 2001/16/EG (PbEU L 305);  
 
-*besluit 2010/713/EU:* besluit nr. 2010/713/EU van de Commissie van 9 november 2010 inzake de modules voor de procedure voor de beoordeling van de conformiteit, de geschiktheid voor gebruik en de EG-keuring die moet worden toegepast in het kader van de overeenkomstig richtlijn 2008/57/EG van het Europees Parlement en de Raad vastgestelde technische specificaties inzake interoperabiliteit (PbEU L 319);  
+* besluit 2010/713/EU:* besluit nr. 2010/713/EU van de Commissie van 9 november 2010 inzake de modules voor de procedure voor de beoordeling van de conformiteit, de geschiktheid voor gebruik en de EG-keuring die moet worden toegepast in het kader van de overeenkomstig richtlijn 2008/57/EG van het Europees Parlement en de Raad vastgestelde technische specificaties inzake interoperabiliteit (PbEU L 319);  
 
 *bijzonder spoorvoertuig:* spoorvoertuig voorzien van een eigen voortbewegingsinrichting niet zijnde een locomotief of een treinstel;  
 
-*CENELEC (CLC):* door het Europees Comité voor Elektrotechnische Standaardisatie uitgegeven norm;  
+*CENELEC (CLC):* door het Europees Comité voor Elektrotechnische Standaardisatie uitgegeven norm; 
 
 *DIN:* Deutsche Industrienorm;  
 
-*EN:* Europese norm;  
+* EN:* Europese norm;  
 
 *ERRI:* rapport van het European Rail Research Institute;  
 
-*ISO:* door de Internationale Organisatie voor Standaardisatie uitgegeven norm;  
+* ISO:* door de Internationale Organisatie voor Standaardisatie uitgegeven norm;  
 
-*lichte treinstellen:* treinstellen ontworpen om te voldoen aan de categorie C-III als bedoeld in EN 15227:2008;  
+* lichte treinstellen:* treinstellen ontworpen om te voldoen aan de categorie C-III als bedoeld in EN 15227:2008;  
 
-*locomotief:* tractievoertuig dat of combinatie van meer spoorvoertuigen die niet bedoeld is om reizigers of goederen te vervoeren en onder normale omstandigheden afgekoppeld en als zelfstandig spoorvoertuig gebruikt kan worden;  
+* locomotief:* tractievoertuig dat of combinatie van meer spoorvoertuigen die niet bedoeld is om reizigers of goederen te vervoeren en onder normale omstandigheden afgekoppeld en als zelfstandig spoorvoertuig gebruikt kan worden;  
 
-*minister:* Minister van Infrastructuur en Milieu;  
+*minister:* Minister van Infrastructuur en Milieu; 
 
-*NEN-EN:* door de Stichting Nederlands Normalisatie-Instituut uitgegeven Europese norm;  
+* NEN-EN:* door de Stichting Nederlands Normalisatie-Instituut uitgegeven Europese norm;  
 
 *onderhoudsvoertuigen:* railgebonden machines en andere voertuigen ten behoeve van constructie, onderhoud en inspectie van de railinfrastructuur;  
 
-*rail-wegvoertuigen:* voertuigen die zowel op het spoor als op de weg kunnen rijden;  
+*rail-wegvoertuigen:* voertuigen die zowel op het spoor als op de weg kunnen rijden; 
 
 *richtlijn 97/68/EG:* Richtlijn 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1997, L 59);  
 
-*richtlijn 2004/49:* richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van Richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEU L 164);  
+*richtlijn 2004/49:* richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van Richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEU L 164); 
 
-*rijtuig:* spoorvoertuig zonder eigen aandrijving dat in een vaste of variabele treinsamenstelling wordt gebruikt voor het vervoer van reizigers;  
+* rijtuig:* spoorvoertuig zonder eigen aandrijving dat in een vaste of variabele treinsamenstelling wordt gebruikt voor het vervoer van reizigers;  
 
 *stuurstandrijtuig:* spoorvoertuig zonder eigen aandrijving dat voorzien is van een bestuurderscabine;  
 
 *trein:* een samenstel van één of meer spoorvoertuigen dat deelneemt aan het spoorverkeer;  
 
-*treinstel:* vaste samenstelling van spoorvoertuigen die als trein kan rijden;  
+* treinstel:* vaste samenstelling van spoorvoertuigen die als trein kan rijden;  
 
 *TSI CCS:* besluit nr. 2012/88/EU van de Commissie van 25 januari 2012 betreffende de technische specificatie inzake interoperabiliteit van de subsystemen besturing en seingeving van het trans-Europese spoorwegsysteem (PbEU L 51);  
 
-*TSI CR Loc&Pas:* besluit nr. 2011/291/EU van de Commissie van 26 april 2011 betreffende een technische specificatie inzake interoperabiliteit van het subsysteem rollend materieel – ‘Locomotieven en reizigerstreinen’ van het conventionele trans-Europees spoorwegsysteem (PbEU L 139);  
+* TSI CR Loc&Pas:* besluit nr. 2011/291/EU van de Commissie van 26 april 2011 betreffende een technische specificatie inzake interoperabiliteit van het subsysteem rollend materieel – ‘Locomotieven en reizigerstreinen’ van het conventionele trans-Europees spoorwegsysteem (PbEU L 139);  
 
-*TSI CR WAG:* beschikking nr. 2006/861/EG van de Commissie van de Europese Gemeenschappen van 28 juli 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem rollend materieel – goederenwagens van het conventionele trans-Europese spoorwegsysteem (PbEU L 344);  
+* TSI CR WAG:* beschikking nr. 2006/861/EG van de Commissie van de Europese Gemeenschappen van 28 juli 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem rollend materieel – goederenwagens van het conventionele trans-Europese spoorwegsysteem (PbEU L 344);  
 
 *TSI HS RST:* beschikking nr. 2008/232/EG van de Commissie van de Europese Gemeenschappen van 21 februari 2008 betreffende de technische specificatie inzake interoperabiliteit van het subsysteem rollend materieel van het trans-Europese hogesnelheidsspoorwegsysteem (PbEU L 232);  
 
@@ -69,19 +69,19 @@ In deze regeling wordt verstaan onder:
 
 *TSI SRT:* beschikking nr. 2008/163/EG van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de technische specificatie inzake interoperabiliteit met betrekking tot veiligheid in spoorwegtunnels voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64);  
 
-*UIC:* voorschrift (Fiche) van de Internationale Spoorweg Unie;  
+* UIC:* voorschrift (Fiche) van de Internationale Spoorweg Unie;  
 
 *vaste samenstelling:* samenstelling van rollend materieel die alleen in een werkplaats op andere wijze kan worden samengesteld;  
 
-*verordening 201/2011/EU:*verordening nr. 201/2011 /EU van de Commissie van 1 maart 2011 betreffende het model voor de verklaring van overeenstemming met een goedgekeurd type spoorvoertuig (PbEU L 57).  
+* verordening 201/2011/EU:* verordening nr. 201/2011/EU van de Commissie van 1 maart 2011 betreffende het model voor de verklaring van overeenstemming met een goedgekeurd type spoorvoertuig (PbEU L 57).  
 
-*verordening 352/2009:* verordening (EG) nr. 352/2009 van de Commissie van 24 april 2009 betreffende de vaststelling van een gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling als bedoeld in artikel 6, lid 3, onder a), van Richtlijn 2004/49/EG van het Europees Parlement en de Raad (PbEU L 108);  
+*verordening 352/2009:* verordening (EG) nr. 352/2009 van de Commissie van 24 april 2009 betreffende de vaststelling van een gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling als bedoeld in artikel 6, lid 3, onder a), van Richtlijn 2004/49/EG van het Europees Parlement en de Raad (PbEU L 108); 
 
 *verordening 445/2011:* verordening (EU) nr. 445/2011 van de Commissie van 10 mei 2011 betreffende een systeem voor de certificering van met het onderhoud van goederenwagens belaste entiteiten en tot wijziging van Verordening (EG) nr. 653/2007 (PbEU L 122)  
 
-*wagen:* spoorvoertuig zonder eigen voortbewegingsinrichting bestemd voor het vervoer van goederen;  
+* wagen:* spoorvoertuig zonder eigen voortbewegingsinrichting bestemd voor het vervoer van goederen;  
 
-*wet:*[Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).    
+* wet:* [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 
 ### Artikel  2  
 
@@ -89,7 +89,7 @@ In deze regeling wordt verstaan onder:
 2.  De vermelding in deze regeling, voor zover daarbij niet anders is aangegeven, van een op een EG- of EU-richtlijn gebaseerde technische specificatie inzake interoperabiliteit omvat mede elke in het kader van de Europese Gemeenschappen of Europese Unie tot stand gekomen besluit tot wijziging van die technische specificatie inzake interoperabiliteit. De totstandkoming van een dergelijk besluit wordt door Onze Minister bekendgemaakt in de Staatscourant.   
 3.  De vermelding in deze regeling, voor zover daarbij niet anders is aangegeven, van een CLC, DIN-, EN- of ISO norm, een ERRI-rapport of een UIC-voorschrift omvat mede elke wijziging van die norm, dat rapport, die richtlijn of dat voorschrift. De totstandkoming van een dergelijk besluit wordt door Onze Minister bekendgemaakt in de Staatscourant.   
 4.  Een wijziging als bedoeld in het eerste of tweede lid treedt voor de toepassing van deze regeling in werking met ingang van de dag waarop aan de betrokken wijziging uiterlijk uitvoering moet zijn gegeven, tenzij Onze Minister een eerder tijdstip van inwerkingtreding bepaalt. Indien een dergelijke wijziging de lidstaten verplicht tot of de mogelijkheid biedt voor het afzonderlijk bepalen van de datum van toepassing van een of meer deelaspecten van die wijziging, wordt deze eveneens door Onze Minister bepaald.   
-5.  De in het derde lid bedoelde bekendmaking in de Staatscourant vermeldt de datum van inwerkingtreding van de wijziging als bedoeld in dat lid.   
+5.  De in het derde lid bedoelde bekendmaking in de Staatscourant vermeldt de datum van inwerkingtreding van de wijziging als bedoeld in dat lid.  
 
 ### §  2  
 
@@ -108,18 +108,18 @@ c. STM ATB, dat voldoet aan de in bijlage 1 en hoofdstuk 1 van bijlage 2 opgenom
 d. ERTMS, dat voldoet aan de in hoofdstuk 2 van bijlage 2 opgenomen eisen.     
 2.  Een spoorvoertuig als bedoeld in het eerste lid dat in Nederland uitsluitend wordt gebruikt op een baanvak met een beveiligingssysteem dat voldoet aan de in Duitsland geldende bepalingen beschikt in afwijking van het eerste lid over een beveiligingssysteem dat voldoet aan de voor dat baanvak in Duitsland geldende bepalingen dat conform die bepalingen is geïnstalleerd.   
 3.  Een spoorvoertuig als bedoeld in het eerste lid dat in Nederland uitsluitend wordt gebruikt op een baanvak met een beveiligingssysteem dat voldoet aan de in België geldende bepalingen beschikt in afwijking van het eerste lid over een beveiligingssysteem dat voldoet aan de voor dat baanvak in België geldende bepalingen dat conform die bepalingen is geïnstalleerd.   
-4.  Indien in een spoorvoertuig de boorduitrusting voor ATB is voorzien van ATBvv dan dient deze te zijn geïnstalleerd conform de voorschriften van de leverancier van het systeem.   
+4.   Indien in een spoorvoertuig de boorduitrusting voor ATB is voorzien van ATBvv dan dient deze te zijn geïnstalleerd conform de voorschriften van de leverancier van het systeem. 
 
 ### Artikel  4  
 
 1.  Spoorvoertuigen waarvoor TSI CR WAG, TSI CR Loc&Pas, TSI CCS of TSI HS RST niet geldt, voldoen aan de in bijlage 3 opgenomen eisen.   
-2.  Op spoorvoertuigen als bedoeld in het eerste lid zijn de nationale voorschriften van paragraaf 4 van deze regeling van toepassing.   
+2.  Op spoorvoertuigen als bedoeld in het eerste lid zijn de nationale voorschriften van paragraaf 4 van deze regeling van toepassing.  
 
 ### Artikel  5  
 
-1.  Onderhoudsvoertuigen in de vervoersmodus voldoen aan: de eisen in TSI CR Loc&Pas of aan NEN EN 14033-1 en NEN-EN 14033-3.   
-2.  Op onderhoudsvoertuigen in de vervoersmodus zijn de nationale voorschriften van paragraaf 4 van deze regeling van toepassing.   
-3.  Rail-wegvoertuigen voldoen aan de in bijlage 8 genoemde eisen.   
+1. Onderhoudsvoertuigen in de vervoersmodus voldoen aan: de eisen in TSI CR Loc&Pas of aan NEN EN 14033-1 en NEN-EN 14033-3.  
+2.   Op onderhoudsvoertuigen in de vervoersmodus zijn de nationale voorschriften van paragraaf 4 van deze regeling van toepassing.   
+3.  Rail-wegvoertuigen voldoen aan de in bijlage 8 genoemde eisen. 
 
 ### §  3  
 
@@ -127,12 +127,12 @@ d. ERTMS, dat voldoet aan de in hoofdstuk 2 van bijlage 2 opgenomen eisen.
 
 ### Artikel  6  
 
-De voorschriften ter uitwerking van in een technische specificatie inzake interoperabiliteit opgenomen open punten gelden voor het subsysteem of de subsystemen waarvoor die technische specificatie inzake interoperabiliteit geldt.  
+De voorschriften ter uitwerking van in een technische specificatie inzake interoperabiliteit opgenomen open punten gelden voor het subsysteem of de subsystemen waarvoor die technische specificatie inzake interoperabiliteit geldt. 
 
 ### Artikel  7  
 
-1.  De in dit artikel opgenomen voorschriften vormen de uitwerking van open punten in bijlage G van de TSI CCS, uitgewerkt in het document, genoemd in bijlage A, tabel A2 indexnummer 77, van de TSI CCS.   
-2.  De effectieve waarde van de AC-component in de DC-lijnstroom bedraagt voor een spoorvoertuig niet meer dan 50 A voor frequenties vanaf 5 Hz.   
+1.   De in dit artikel opgenomen voorschriften vormen de uitwerking van open punten in bijlage G van de TSI CCS, uitgewerkt in het document, genoemd in bijlage A, tabel A2 indexnummer 77, van de TSI CCS.   
+2.   De effectieve waarde van de AC-component in de DC-lijnstroom bedraagt voor een spoorvoertuig niet meer dan 50 A voor frequenties vanaf 5 Hz.   
 3.  De psofometrische stoorstroomcomponent in de DC-lijnstroom als bedoeld in NEN-EN 50121-3-1 bedraagt voor een trein minder dan 10 A.   
 4.  De spoorvoertuigen voldoen ten aanzien van elektromagnetische compatibiliteit aan NEN-EN 50121-3-2.   
 5.  De kortsluitwaarde van een wielstel van een locomotief en van een treinstel, gemeten van wielband tot wielband, met inbegrip van de overgangsweerstanden tussen de wielbanden en de koppen van de spoorstaven, bedraagt minder dan 0,20 Ω. Hieraan is in ieder geval voldaan, indien de detectiekwaliteit van het spoorvoertuig voldoet aan de in bijlage 5 opgenomen eisen.   
@@ -145,7 +145,7 @@ b. spoorvoertuigen bij het rijden op met assentellers uitgeruste spoorwegen vold
 
 a. de stoorstroomdetector voldoet aan EN 50155;  
 
-b. de lijnstroom volgens de frequentiekarakteristiek meet ten minste: 
+b.  de lijnstroom volgens de frequentiekarakteristiek meet ten minste: 
 
 1° tot kantelpunt op 68 Hz ± 1 Hz: stijgend met 96 dB/oct ± 3 dB/oct;  
 
@@ -163,7 +163,7 @@ f. de stoorstroomdetector in geval van een defect voorziet in blokkering of over
 
 g. de stoorstroomdetector een totale reactietijd heeft van ten hoogste 1000 ms.     
 8.  Figuur 3 van het document, genoemd onder bijlage A, tabel A2, indexnummer 77, van de TSI CCS is van toepassing op alle spoorvoertuigen. Hieraan hoeft niet te worden voldaan indien compatibiliteit met de hoofdspoorweginfrastructuur is aangetoond conform bijlage 4 van deze regeling.   
-9.  Het gebruik van magneetremmen en wervelstroomremmen voldoet aan artikel 15, vierde en vijfde lid.   
+9.  Het gebruik van magneetremmen en wervelstroomremmen voldoet aan artikel 15, vierde en vijfde lid. 
 
 ### Artikel  9  
 
@@ -177,7 +177,7 @@ g. de stoorstroomdetector een totale reactietijd heeft van ten hoogste 1000 ms.
 8.  De sterkte van de voertuigbakken voldoet aan categorie P-II van EN 12663.   
 9.  De bestuurdersstoelen voldoen aan hoofdstuk 5 van UIC 651.   
 10.  De kleursoort van frontruiten voldoet aan EN 15152, waarbij de eisen voor alle kleuren van toepassing zijn.   
-11.  De beperking van de quasistatische geleidingskracht Y <sub>qst</sub> voldoet aan artikel 14, zesde lid.   
+11.  De beperking van de quasistatische geleidingskracht Y<sub>qst</sub> voldoet aan artikel 14, zesde lid.   
 12.  Er geldt voor de remkarakteristieken dat: 
 
 a. de karakteristieken van de pneumatische rem met inbegrip van automatische stop bij koppelingsbreuk voldoen aan UIC 540 tot en met UIC 547, waarbij voor UIC 544-1 de 3e editie van 1-1-66 herdruk 1-7-85 inclusief 9 wijzigingsbladen van 1-1-85 geldt, UIC 640 en UIC 648;  
@@ -199,7 +199,7 @@ e. ze in geaarde toestand van de hoogspanningsinstallatie niet opgezet kunnen wo
 14.  De interfaces met het subsysteem seingeving en besturing voldoen aan de artikelen 6 en 7.   
 15.  De bevestiging van apparatuur en componenten in het spoorvoertuig voldoet aan EN 12663.   
 16.  De voorzieningen ter voorkoming van brand voldoen aan EN 45545.   
-17.  Dieselmotoren van hogesnelheidsvoertuigen voldoen aan artikel 4.2.8.3 van TSI CR Loc&Pas.   
+17.  Dieselmotoren van hogesnelheidsvoertuigen voldoen aan artikel 4.2.8.3 van TSI CR Loc&Pas.  
 
 ### Artikel  10  
 
@@ -219,13 +219,13 @@ d. na het tot stilstand komen van een spoorvoertuig worden nog 30 seconden gegev
 
 e. de automatische ritregistratie kan zonder verlies van informatie bijzondere omstandigheden doorstaan; en  
 
-f. door de automatische ritregistratie worden minimaal de in bijlage 7 genoemde gegevens geregistreerd.     
+f. door de automatische ritregistratie worden minimaal de in bijlage 7 genoemde gegevens geregistreerd.    
 
 ### Artikel  11  
 
 1.  De in dit artikel opgenomen voorschriften vormen de uitwerking van open punten van TSI CR WAG.   
 2.  De zone bij spoorvoertuigen die zichtbaar is voor de apparatuur voor aslager-conditiebewaking in de hoofdspoorweginfrastructuur voldoet aan de paragrafen 5.1 en 5.2 van EN 15437-1.   
-3.  De remcomponenten voldoen aan UIC 540, 541-04, 541-05, 541-07, 541-08, 541-1, 541-2, 541-3, 541-4, 541-5, 542, 543, 545, 547 en de derde editie van 1 januari 1966, herdruk van 1 juli 1985, inclusief 9 wijzigingsbladen, van 544-1.   
+3.  De remcomponenten voldoen aan UIC 540, 541-04, 541-05, 541-07, 541-08, 541-1, 541-2, 541-3, 541-4, 541-5, 542, 543, 545, 547 en de derde editie van 1 januari 1966, herdruk van 1 juli 1985, inclusief 9 wijzigingsbladen, van 544-1.  
 
 ### §  4  
 
@@ -233,25 +233,25 @@ f. door de automatische ritregistratie worden minimaal de in bijlage 7 genoemde 
 
 ### Artikel  12  
 
-1.  De artikelen 13 tot en met 18 gelden voor het gebruik van zowel hoofdspoorweginfrastructuur 1500V DC, 3000V DC en 25KV AC als hoofdspoorweginfrastructuur zonder elektrische tractie met een spoorvoertuig.   
+1.   De artikelen 13 tot en met 18 gelden voor het gebruik van zowel hoofdspoorweginfrastructuur 1500V DC, 3000V DC en 25KV AC als hoofdspoorweginfrastructuur zonder elektrische tractie met een spoorvoertuig.   
 2.  De artikelen 19 en 20 gelden voor spoorvoertuigen die voorzien zijn van een systeem van energievoorziening dat geschikt is voor 1500 V DC en gebruik maken van hoofdspoorweginfrastructuur 1500 V DC.   
 3.  De artikelen 21 en 22 gelden voor spoorvoertuigen die voorzien zijn van een systeem van energievoorziening dat geschikt is voor 25kV AC en gebruik maken van hoofdspoorweginfrastructuur 25kV AC.   
-4.  De artikelen 23 en 24 gelden voor het gebruik van de daarin genoemde grensbaanvakken.   
+4.  De artikelen 23 en 24 gelden voor het gebruik van de daarin genoemde grensbaanvakken.  
 
 ### Artikel  13  
 
 1.  Spoorvoertuigen voldoen aan EN 15273 bij gebruikmaking van het kinematisch referentieprofiel G2.   
 2.  Er kan, na toetsing van routespecifieke infracompatibiliteit, een kinematisch referentieprofiel ruimer dan G2 doch binnen het kinematisch referentieprofiel NL-1, NL-2 of GC als beschreven in EN 15273-2, worden toegestaan.   
-3.  De onderzijde van spoorvoertuigen voldoet aan het referentieprofiel GIC1, dan wel GIC2 als beschreven in EN 15273. De zone voor de Crocodile als beschreven in EN 15273 is alleen van toepassing op spoorvoertuigen die gebruik maken van grensbaanvakken met België als bedoeld in artikel 23.   
+3.   De onderzijde van spoorvoertuigen voldoet aan het referentieprofiel GIC1, dan wel GIC2 als beschreven in EN 15273. De zone voor de Crocodile als beschreven in EN 15273 is alleen van toepassing op spoorvoertuigen die gebruik maken van grensbaanvakken met België als bedoeld in artikel 23.  
 
 ### Artikel  14  
 
-1.  Behoudens onderhoudsvoertuigen die voldoen aan EN 14033-1, voldoet de verhouding aslast – wieldiameter van een wielstel aan UIC 510-2.   
+1.   Behoudens onderhoudsvoertuigen die voldoen aan EN 14033-1, voldoet de verhouding aslast – wieldiameter van een wielstel aan UIC 510-2.   
 2.  Aan voertuigen met een wieldiameter kleiner dan 730 mm kunnen beperkingen opgelegd worden ten aanzien van de te berijden kruisingen.   
 3.  Een horizontale boog met een radius van 190 m en groter kan door een spoorvoertuig in S-bogen zonder ingesloten rechtstand worden doorlopen.   
 4.  Een verticale boog met een radius van 2000 m en groter kan door een spoorvoertuig worden doorlopen.   
 5.  Een verticale topboog van 250 m en groter en een verticale dalboog van 300 m en groter kan door een spoorvoertuig dat wordt geheuveld, worden doorlopen.   
-6.  De loopkarakteristieken van een spoorvoertuig voldoen aan hoofdstuk 5 van EN 14363. In overleg met de beheerder kan een overschrijding in quasistatische geleidingskracht Y <sub>qst</sub> zoals bedoeld in hoofdstuk 5.3.2.3 van EN 14363:2005 worden toegestaan, indien die niet veiligheidskritisch is.   
+6.  De loopkarakteristieken van een spoorvoertuig voldoen aan hoofdstuk 5 van EN 14363. In overleg met de beheerder kan een overschrijding in quasistatische geleidingskracht Y<sub>qst</sub> zoals bedoeld in hoofdstuk 5.3.2.3 van EN 14363:2005 worden toegestaan, indien die niet veiligheidskritisch is.  
 
 ### Artikel  15  
 
@@ -266,12 +266,12 @@ c. bij treinstellen bestaande uit drie of meer eenheden minimaal een paar magnee
 3.  Indien een treinstel in overeenstemming met het tweede lid voorzien is van twee of meer magneetremparen, zijn die magneetremparen zodanig over het treinstel verdeeld, dat in ieder geval de eerste en de laatste eenheid van het treinstel is voorzien van een paar magneetremmen.   
 4.  Indien een spoorvoertuig is voorzien van een magneetreminrichting, werkt deze alleen in geval van noodremmingen of als parkeer- of halterem.   
 5.  Indien een spoorvoertuig is voorzien van een wervelstroomreminrichting, is deze uitschakelbaar.   
-6.  Rempercentage en remgewicht worden bepaald volgens UIC 544-1, derde editie, herdruk van 1 juli 1985.   
+6.  Rempercentage en remgewicht worden bepaald volgens UIC 544-1, derde editie, herdruk van 1 juli 1985.  
 
 ### Artikel  16  
 
 1.  Indien spoorvoertuigen voorzien zijn van wielflenssmeerinstallaties voldoen de positie van de spuitmond en de hoeveelheid en de locatie waar het smeermiddel op het wiel wordt aangebracht aan EN 15427.   
-2.  Wielflenssmering mag de werking van de treindetectie en de lengte van de remweg niet ongewenst beïnvloeden.   
+2.  Wielflenssmering mag de werking van de treindetectie en de lengte van de remweg niet ongewenst beïnvloeden.  
 
 ### Artikel  17  
 
@@ -324,7 +324,7 @@ d. elektronische velden veroorzaakt door het spoorvoertuig voldoen aan bijlage 4
 a. de flenshoogte van de wielen voldoet aan paragraaf 3.1.3.4 van het document, genoemd in bijlage A, tabel A2, indexnummer 77, van de TSI CCS;  
 
 b. de druk van een as voldoet aan paragraaf 3.1.7.1 van het document, genoemd in bijlage A, tabel A2, indexnummer 77, van de TSI CCS.     
-6.  Spoorvoertuigen zijn met betrekking tot detectie-eigenschappen geschikt voor inzet op gedeelten van de hoofdspoorweginfrastructuur waar de detectie wordt geregeld door middel van detectielussen, indien het frame en de wielstellen van het spoorvoertuig van magnetiseerbaar materiaal zijn.   
+6.  Spoorvoertuigen zijn met betrekking tot detectie-eigenschappen geschikt voor inzet op gedeelten van de hoofdspoorweginfrastructuur waar de detectie wordt geregeld door middel van detectielussen, indien het frame en de wielstellen van het spoorvoertuig van magnetiseerbaar materiaal zijn.  
 
 ### Artikel  18  
 
@@ -346,19 +346,19 @@ c. de maximale weerstand tussen metalen delen van het spoorvoertuig en spoorstav
 10.  De koolborstels en tegenloopschijf van retourstroom- en veiligheidsborstelhouders zijn eenvoudig inspecteerbaar.   
 11.  De elektrische weerstand tussen wielas en wielbandoppervlak is zo laag mogelijk, waarbij het aanbrengen van litzes om de elektrische weerstand te verlagen is verboden.   
 12.  In afwijking van het elfde lid mogen bij wielen waarin isolatie is aangebracht tussen het binnenwiel en de wielband litzes worden aangebracht, waarbij het wiel en het wielbandoppervlak niet zijn bewerkt door lassen of boren, tenzij kan worden aangetoond dat dit geen consequenties heeft voor de mechanische sterkte en bedrijfszekerheid van dit wiel.   
-13.  Andere onderdelen van de spoorvoertuigen die voor een bepaalde duur met rails in aanraking kunnen komen dan de onderdelen genoemd in de leden 1 tot en met 12, moeten van het draaistel en het voertuig geïsoleerd zijn.   
+13.  Andere onderdelen van de spoorvoertuigen die voor een bepaalde duur met rails in aanraking kunnen komen dan de onderdelen genoemd in de leden 1 tot en met 12, moeten van het draaistel en het voertuig geïsoleerd zijn.  
 
 ### Artikel  19  
 
 De stroomafname van treinen wordt conform onderstaande afbeelding automatisch beperkt in overeenstemming met artikel 7.2 van NEN-EN 50388, waarbij: 
 
-a. U <sub>1</sub> = 1000V;  
+a. U<sub>1</sub> = 1000V;  
 
-b. U <sub>2</sub> = 1350V;  
+b. U<sub>2</sub> = 1350V;  
 
-c. I <sub>max (trein)</sub> = 4000A; en  
+c. I<sub>max (trein)</sub> = 4000A; en  
 
-d. de onderspanningsinrichting is afgesteld op 950V.     ![249945](http://wetten.overheid.nl/Illustration/249945)
+d. de onderspanningsinrichting is afgesteld op 950V.   ![249945](http://wetten.overheid.nl/Illustration/249945)
 
 ### Artikel  20  
 
@@ -370,11 +370,11 @@ b. de opdruk van de rijdraad bedraagt ten hoogste 120 mm bij een voertuigsnelhei
 
 c. de dynamische opdrukkracht bedraagt ten minste 40 N en ten hoogste 300 N;  
 
-d. de stroomafname van iedere stroomafnemer bij een stilstaand spoorvoertuig wordt door de installatie zodanig beperkt, dat de temperatuur van de rijdraad ten hoogste 150 °C bedraagt;  
+d.  de stroomafname van iedere stroomafnemer bij een stilstaand spoorvoertuig wordt door de installatie zodanig beperkt, dat de temperatuur van de rijdraad ten hoogste 150 °C bedraagt;  
 
 e. de maximale afstand van de kop van het spoorvoertuig tot de laatste stroomafnemer van het treinstel bedraagt maximaal 400 m;  
 
-f. een locomotief kan voorzien zijn van doorgekoppelde opstaande stroomafnemers.    
+f. een locomotief kan voorzien zijn van doorgekoppelde opstaande stroomafnemers.   
 
 ### Artikel  21  
 
@@ -382,9 +382,9 @@ f. een locomotief kan voorzien zijn van doorgekoppelde opstaande stroomafnemers.
 
 a. ten behoeve van het uitvoeren van de compatibiliteitstudie de gegevens conform hoofdstuk 10 van NEN-EN 50388 overlegd worden aan de beheerder; en  
 
-b. verdere uitvoering van de compatibiliteitsstudie niet noodzakelijk is indien de harmonische stroomemissie op treinniveau niet hoger is dan de waarde I <sub>h</sub> in de onderstaande tabel.    
+b. verdere uitvoering van de compatibiliteitsstudie niet noodzakelijk is indien de harmonische stroomemissie op treinniveau niet hoger is dan de waarde I<sub>h</sub> in de onderstaande tabel.    
 
-| f (Hz)  | I <sub>h</sub> (%)  | f (Hz)  | I <sub>h</sub> (%)  |
+| f (Hz)  | I<sub>h</sub> (%)  | f (Hz)  | I<sub>h</sub> (%)  |
 |:---|:---|:---|:---|
 | 100  | 5,63  | 1350  | 0,25  |
 | 150  | 5,00  | 1400  | 0,08  |
@@ -412,9 +412,9 @@ b. verdere uitvoering van de compatibiliteitsstudie niet noodzakelijk is indien 
 | 1250  | 0,29  | 2500  | 0,04  |
 | 1300  | 0,08  | --- | --- |
 
-3.  In de in het eerste lid opgenomen tabel staat f voor de frequentie van de harmonische stroom en I <sub>h</sub> voor het maximale 10-minuten gemiddelde van de harmonische stroom als percentage van het 10-minuten gemiddelde van de grondharmonische stroom. Daarbij wordt uitgegaan van een zuiver sinusvormige tractievoedingsbronspanning en een inductieve bronimpedantie die elke waarde tussen nul en 100 mH kan aannemen.   
+3.  In de in het eerste lid opgenomen tabel staat f voor de frequentie van de harmonische stroom en I<sub>h</sub> voor het maximale 10-minuten gemiddelde van de harmonische stroom als percentage van het 10-minuten gemiddelde van de grondharmonische stroom. Daarbij wordt uitgegaan van een zuiver sinusvormige tractievoedingsbronspanning en een inductieve bronimpedantie die elke waarde tussen nul en 100 mH kan aannemen.   
 4.  Bij de toepassing van de in het eerste lid opgenomen tabel geldt dat indien het tien minuten gemiddelde van de grondharmonische stroomcomponent minder bedraagt dan 25% van de opgenomen stroom bij vollast van het betreffende type voertuig, 25% van de grondharmonische stroom bij vollast aangehouden wordt.   
-5.  De complexe ingangsadmittantie heeft in alle bedrijfstoestanden een positief reëel deel voor frequenties boven 500 Hz.   
+5.  De complexe ingangsadmittantie heeft in alle bedrijfstoestanden een positief reëel deel voor frequenties boven 500 Hz.  
 
 ### Artikel  22  
 
@@ -426,16 +426,16 @@ b. de dynamische opdrukkracht bedraagt ten minste 40 N, ten hoogste 200 N bij ee
 
 c. de stroomafname van een stilstaand spoorvoertuig is zodanig, dat de temperatuur van de rijdraad ten hoogste 150° C bedraagt; en  
 
-d. de stroomafnemer is bij het opkomen binnen 10 seconden tot maximale hoogte opgeveerd.    
+d. de stroomafnemer is bij het opkomen binnen 10 seconden tot maximale hoogte opgeveerd.   
 
 ### Artikel  23  
 
-Spoorvoertuigen die gebruik maken van grensbaanvakken met België voldoen aan de onderzijde aan uitsparing voor Crocodile in overeenstemming met onderdeel 3.5 van EN 15273-2:2010, annex A. Het betreft hier het traject tussen het emplacement Roosendaal en de Belgische grens en het traject tussen emplacement Maastricht Randwijck en de Belgische grens.  
+Spoorvoertuigen die gebruik maken van grensbaanvakken met België voldoen aan de onderzijde aan uitsparing voor Crocodile in overeenstemming met onderdeel 3.5 van EN 15273-2:2010, annex A. Het betreft hier het traject tussen het emplacement Roosendaal en de Belgische grens en het traject tussen emplacement Maastricht Randwijck en de Belgische grens. 
 
 ### Artikel  24  
 
 1.  Spoorvoertuigen die rijden op grensbaanvakken voorzien van energievoorziening met 15kV 16,7Hz AC voldoen aan de nationale bepalingen van Duitsland voor het toeleidende Duitse baanvak.   
-2.  Spoorvoertuigen die rijden op grensbaanvakken voorzien van energievoorziening met 3kV DC voldoen aan de nationale bepalingen van België voor het toeleidende Belgische baanvak.   
+2.  Spoorvoertuigen die rijden op grensbaanvakken voorzien van energievoorziening met 3kV DC voldoen aan de nationale bepalingen van België voor het toeleidende Belgische baanvak.  
 
 ### §  5  
 
@@ -443,7 +443,7 @@ Spoorvoertuigen die gebruik maken van grensbaanvakken met België voldoen aan de
 
 ### Artikel  25  
 
-De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG.  
+De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), voegt bij de aanvraag de gegevens, bedoeld in aanhangsel 4 van de bijlage behorende bij beschikking 2007/756/EG. 
 
 ### §  6  
 
@@ -451,8 +451,8 @@ De aanvrager voor een inschrijving in het register, bedoeld in [artikel 37, twee
 
 ### Artikel  26  
 
-1.  De verklaring van overeenstemming waaruit de overeenstemming met een type blijkt, voldoet aan het model opgenomen in de bijlage bij verordening 201/2011 /EU.   
-2.  Het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling is verleend, voldoet aan de toepasselijke modules uit de TSI’s in geval van TSI-conforme voertuigen of voldoet aan module SD in geval het voertuig niet aan een TSI voldoet. De modules zijn opgenomen in bijlage I behorende bij besluit 2010/713/EU.   
+1.  De verklaring van overeenstemming waaruit de overeenstemming met een type blijkt, voldoet aan het model opgenomen in de bijlage bij verordening 201/2011/EU.   
+2.  Het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling is verleend, voldoet aan de toepasselijke modules uit de TSI’s in geval van TSI-conforme voertuigen of voldoet aan module SD in geval het voertuig niet aan een TSI voldoet. De modules zijn opgenomen in bijlage I behorende bij besluit 2010/713/EU.  
 
 ### §  7  
 
@@ -468,16 +468,16 @@ a. de bewijsstukken dat in een andere staat een vergunning voor indienststelling
 b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in [artikel 36, zevende lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
 3.  Een aanvraag voor een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk van een aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder in behandeling genomen dan na betaling van het voor het daarvoor verschuldigde tarief.   
 4.  Een vergunning voor indienststelling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) respectievelijk een aanvullende vergunning voor indienststelling, als bedoeld in artikel 36, vijfde lid, van de wet wordt niet eerder verstrekt dan na betaling van het daarvoor verschuldigde tarief.   
-5.  Bij toepassing van artikel 3 worden de bij het subsysteem behorende parameters, bedoeld in het bijlage VII, punt 1 van richtlijn 2008/57/EG, ten behoeve van de vergunning voor indienststelling, respectievelijk aanvullende vergunning voor indienststelling geverifieerd.   
+5.  Bij toepassing van artikel 3 worden de bij het subsysteem behorende parameters, bedoeld in het bijlage VII, punt 1 van richtlijn 2008/57/EG, ten behoeve van de vergunning voor indienststelling, respectievelijk aanvullende vergunning voor indienststelling geverifieerd.  
 
 ### Artikel  28  
 
 1.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) wordt de verklaring van de aangemelde instantie of de keuringsinstantie als bedoeld in artikel 37b, negende lid, van de wet, gevoegd.   
 2.  Bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt de verklaring van de keuringsinstantie dan wel aangemelde instantie, bedoeld in artikel 37b, negende lid, van de wet, gevoegd waaruit blijkt dat de vernieuwing of verbetering in overeenstemming met de eisen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur.   
-3.  Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) gevoegd.   
+3.   Indien een risico-evaluatie volgens Verordening Nr. 352/2009 is uitgevoerd, wordt deze bij de aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) gevoegd.  
 4.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling genomen dan na betaling van het daarvoor verschuldigde tarief.   
 5.  Een aanvraag voor een vergunning als bedoeld in [artikel 37b, zesde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt niet eerder in behandeling dan na betaling van het daarvoor verschuldigde tarief.   
-6.  Een vergunning als bedoeld in [artikel 37b, derde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.   
+6.  Een vergunning als bedoeld in [artikel 37b, derde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), respectievelijk artikel 37b, zesde lid, wordt niet eerder verleend dan na betaling van het daarvoor verschuldigde tarief.  
 
 ### §  8  
 
@@ -490,27 +490,27 @@ b. de verklaring van de aangemelde instantie of keuringsinstantie, bedoeld in [a
 
 a. indien het een certificaat betreft voor een met onderhoud belaste entiteit: 
 
-1˚. voor alle onderhoudsfuncties, bedoeld in artikel 4, van verordening 445/2011, de eisen genoemd in bijlage III, onderdeel I tot en met IV, van verordening 445/2011; of  
+1˚.voor alle onderhoudsfuncties, bedoeld in artikel 4, van verordening 445/2011, de eisen genoemd in bijlage III, onderdeel I tot en met IV, van verordening 445/2011; of
 
-2˚. voor de managementfunctie, bedoeld in artikel 4, eerste lid, onderdeel a, van verordening 445/2011, de eisen genoemd in bijlage III, onderdeel I, van verordening 445/2011;    
+2˚.voor de managementfunctie, bedoeld in artikel 4, eerste lid, onderdeel a, van verordening 445/2011, de eisen genoemd in bijlage III, onderdeel I, van verordening 445/2011; 
 
-b. indien het een certificaat betreft voor een door een met onderhoud belaste entiteit uitgevoerde functie of een door de met onderhoud belaste entiteit uitbestede onderhoudsfunctie, bedoeld in artikel 4, eerste lid, onderdeel b, c respectievelijk d, van verordening 445/2011: 
+b.indien het een certificaat betreft voor een door een met onderhoud belaste entiteit uitgevoerde functie of een door de met onderhoud belaste entiteit uitbestede onderhoudsfunctie, bedoeld in artikel 4, eerste lid, onderdeel b, c respectievelijk d, van verordening 445/2011:
 
-1˚. voor de functie van onderhoudsontwikkeling de eisen genoemd in bijlage III onderdeel II, van verordening 445/2011;  
+1˚.voor de functie van onderhoudsontwikkeling de eisen genoemd in bijlage III onderdeel II, van verordening 445/2011;
 
-2˚. voor de functie van het beheer van de onderhoudsplanning, de eisen genoemd in bijlage III, onderdeel III, van verordening 445/2011; of  
+2˚.voor de functie van het beheer van de onderhoudsplanning, de eisen genoemd in bijlage III, onderdeel III, van verordening 445/2011; of
 
-3˚. voor de functie van uitvoering van het onderhoud, de eisen genoemd in bijlage III, onderdeel IV, van verordening 445/2011.       
-3.  De eisen, bedoeld in [artikel 48, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn de eisen van bijlage I, onder 2, van verordening 445/2011.   
+3˚.voor de functie van uitvoering van het onderhoud, de eisen genoemd in bijlage III, onderdeel IV, van verordening 445/2011.  
+3.  De eisen, bedoeld in [artikel 48, tweede lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), zijn de eisen van bijlage I, onder 2, van verordening 445/2011. 
 
 ### §  8a  
 
-####Overgangsbepalingen
+#### Overgangsbepalingen 
 
 ### Artikel  29a  
 
 1.  Tot 1 juni 2017 voldoen in afwijking van deze regeling spoorvoertuigen die zijn ontwikkeld of vervaardigd op basis van een contract van vóór 1 april 2012 aan de [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) zoals die luidde op 31 maart 2012 voor zover de voor die spoorvoertuigen geldende technische specificaties inzake interoperabiliteit niet voorzien in het onderwerp van die regeling en voor zover de in die technische specificaties inzake interoperabiliteit vervatte overgangsbepalingen zich daartegen niet verzetten. Dit is tevens van toepassing op verbeteringen of vernieuwingen als bedoeld in [artikel 37b van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
-2.  De minister kan het eerste lid op aanvraag buiten toepassing laten.   
+2.  De minister kan het eerste lid op aanvraag buiten toepassing laten.  
 
 ### §  9  
 
@@ -518,22 +518,22 @@ b. indien het een certificaat betreft voor een door een met onderhoud belaste en
 
 ### Artikel  30  
 
-De [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) wordt ingetrokken.  
+De [Regeling keuring spoorvoertuigen](../../../../../ministeriele-regeling/regeling/keuring/spoorvoertuigen/BWBR0017710/README.md) wordt ingetrokken. 
 
 ### Artikel  31  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG](../../../../../wet/wijzigingswet/spoorwegwet/enz./(implementatie/richtlijn/200758eg/enz.)/BWBR0029963/README.md) (Stb. 218) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel 8 van de wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG](../../../../../wet/wijzigingswet/spoorwegwet/enz./(implementatie/richtlijn/200758eg/enz.)/BWBR0029963/README.md) (Stb. 218) in werking treedt. 
 
 ### Artikel  32  
 
-Deze regeling wordt aangehaald als: Regeling indienststelling spoorvoertuigen.  
+Deze regeling wordt aangehaald als: Regeling indienststelling spoorvoertuigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorende bij artikel 3, eerste lid, onderdelen c en d 
 
@@ -549,31 +549,31 @@ Het in een spoorvoertuig geïnstalleerd systeem van automatische treinbeïnvloed
 
 ####Van Cold Standby naar Hot Standby
 
-Een specifieke transmissiemodule die zich in de toestand ‘Cold Standby’ bevindt, dient na ontvangst van een ‘Hot Standby Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Hot Standby’ en het bericht ‘Hot Standby Acknowledge’ op de Profibus te hebben gezet.  
+Een specifieke transmissiemodule die zich in de toestand ‘Cold Standby’ bevindt, dient na ontvangst van een ‘Hot Standby Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Hot Standby’ en het bericht ‘Hot Standby Acknowledge’ op de Profibus te hebben gezet. 
 
 ### 1.2  
 
 ####Van Hot Standby naar Data Available
 
-Een specifieke transmissiemodule die zich in de toestand ‘Hot Standby’ bevindt, dient na ontvangst van een ‘Data Availlable Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Data Available’ en het bericht ‘Data Available Acknowledge’ op de Profibus te hebben gezet.  
+Een specifieke transmissiemodule die zich in de toestand ‘Hot Standby’ bevindt, dient na ontvangst van een ‘Data Availlable Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Data Available’ en het bericht ‘Data Available Acknowledge’ op de Profibus te hebben gezet. 
 
 ### 1.3  
 
 ####Van Hot standby naar Data Available, tot het moment dat de DMI kan worden geïnformeerd
 
-Een specifieke transmissiemodule die zich in de toestand ‘Hot Standby’ bevindt, dient na ontvangst van een ‘Data Available Order’, binnen 1,5 seconden een toestand te hebben bereikt in Data Available waarin het de rem kan bedienen en/of de DMI kan informeren.  
+Een specifieke transmissiemodule die zich in de toestand ‘Hot Standby’ bevindt, dient na ontvangst van een ‘Data Available Order’, binnen 1,5 seconden een toestand te hebben bereikt in Data Available waarin het de rem kan bedienen en/of de DMI kan informeren. 
 
 ### 1.4  
 
 ####Van Data Available naar Cold Standby
 
-Een specifieke transmissiemodule die zich in de toestand ‘Data Available’ bevindt, dient na ontvangst van een ‘Cold Standby Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Cold Standby’ en het bericht ‘Cold Standby Acknowledge’ op de Profibus te hebben gezet.  
+Een specifieke transmissiemodule die zich in de toestand ‘Data Available’ bevindt, dient na ontvangst van een ‘Cold Standby Order’ binnen 3,0 seconden over te zijn gegaan naar de toestand ‘Cold Standby’ en het bericht ‘Cold Standby Acknowledge’ op de Profibus te hebben gezet. 
 
 ### 1.5  
 
 ####Van Data Available naar Cold Standby tot het moment dat de DMI niet meer kan worden geïnformeerd
 
-Een specifieke transmissiemodule die zich in de toestand ‘Data Available’ bevindt, dient na ontvangst van een ‘Cold Standby Order’ binnen 1,5 seconden over te zijn gegaan naar de toestand ‘Cold Standby’ waarbij het de rem niet meer kan bedienen en/of de DMI kan worden geïnformeerd.  
+Een specifieke transmissiemodule die zich in de toestand ‘Data Available’ bevindt, dient na ontvangst van een ‘Cold Standby Order’ binnen 1,5 seconden over te zijn gegaan naar de toestand ‘Cold Standby’ waarbij het de rem niet meer kan bedienen en/of de DMI kan worden geïnformeerd. 
 
 ####eisen m.b.t.ATB
 
@@ -581,19 +581,19 @@ Een specifieke transmissiemodule die zich in de toestand ‘Data Available’ be
 
 ####Codering
 
-De specifieke transmissiemodule zal bij een overgang van ATB code in de baan naar geen code in de baan, niet sneller detecteren dan binnen 1,3 seconden nadat de ATB antenne de locatie passeert waar deze overgang is geïmplementeerd.  
+De specifieke transmissiemodule zal bij een overgang van ATB code in de baan naar geen code in de baan, niet sneller detecteren dan binnen 1,3 seconden nadat de ATB antenne de locatie passeert waar deze overgang is geïmplementeerd. 
 
 ### 1.7  
 
 ####Eis met betrekking tot het gebruik van V_max STM
 
-De specifieke transmissiemodule zal een ‘STM max speed’ waarde ter grootte van 140 km/uur afgeven aan de EVC, als het zich in substate ‘Hot Standby’ bevindt.  
+De specifieke transmissiemodule zal een ‘STM max speed’ waarde ter grootte van 140 km/uur afgeven aan de EVC, als het zich in substate ‘Hot Standby’ bevindt. 
 
 ### 1.8  
 
 ####ATB toestanden
 
-Wanneer de specifieke transmissiemodule een overgang maakt naar DA, dan moet het spoorvoertuig zich in de toestand CONST komen, zoals gespecificeerd in paragraaf 2.2.7 van de bijlage 1. De transitie van ATB STM DA naar CS dient mogelijk te zijn vanuit alle andere interne toestanden van ‘Uitgeschakeld’.  
+Wanneer de specifieke transmissiemodule een overgang maakt naar DA, dan moet het spoorvoertuig zich in de toestand CONST komen, zoals gespecificeerd in paragraaf 2.2.7 van de bijlage 1. De transitie van ATB STM DA naar CS dient mogelijk te zijn vanuit alle andere interne toestanden van ‘Uitgeschakeld’. 
 
 ### Hoofdstuk  2  
 
@@ -605,13 +605,13 @@ Wanneer de specifieke transmissiemodule een overgang maakt naar DA, dan moet het
 
 1. Bij de eerste indienststelling van spoorvoertuigen gelden de eisen, genoemd in document ETCS Driver Machine Interface, referentie ERA_ERTMS_015560, versie 3.3.0 die betrekking hebben op in baseline 2 ondersteunde functies.  
 
-2. Bij de eerste indienststelling voldoet een spoorvoertuig aan de eisen met betrekking tot het opslaan van data zoals vastgelegd in ERA document SUBSET-027 ‘FIS Juridical Recording’ versie 3.0.0.    
+2. Bij de eerste indienststelling voldoet een spoorvoertuig aan de eisen met betrekking tot het opslaan van data zoals vastgelegd in ERA document SUBSET-027 ‘FIS Juridical Recording’ versie 3.0.0.  
 
 ### 2.2  
 
 ####Eisen aan ERTMS apparatuur van baseline 3
 
-Het spoorvoertuig voldoet aan alle eisen opgenomen in het document ETCS Driver Machine Interface, referentie ERA_ERTMS_015560, versie 3.3.0 waaronder het tonen van de de zogenaamde planningsinformatie.  
+Het spoorvoertuig voldoet aan alle eisen opgenomen in het document ETCS Driver Machine Interface, referentie ERA_ERTMS_015560, versie 3.3.0 waaronder het tonen van de de zogenaamde planningsinformatie.
 
 ### 2.3  
 
@@ -633,15 +633,15 @@ Het spoorvoertuig voldoet aan alle eisen opgenomen in het document ETCS Driver M
 
 8. Spoorvoertuigen, die op afstand met radioapparatuur bestuurd worden en onder ERTMS over de infrastructuur rijden, dienen te zijn geconfigureerd voor actieve ERTMS supervisie. Het configureren van de toepassing NP-mode is hiervoor niet toegestaan.  
 
-9. Wanneer de infrastructuur een ERTMS level transitie naar het Nederlandse class B systeem (NID_STM=1) opdraagt, dan dient de treinbeweging door het Nederlandse ATB systeem te worden bewaakt.    
+9. Wanneer de infrastructuur een ERTMS level transitie naar het Nederlandse class B systeem (NID_STM=1) opdraagt, dan dient de treinbeweging door het Nederlandse ATB systeem te worden bewaakt.  
 
 ### 2.4  
 
 ####Test procedure voor trein-baan integratie
 
-Spoorvoertuigen, die gebruik maken van de ERTMS van het Nederlandse spoorwegnet, voldoen aan de eisen opgenomen in document RLN 0295, versie V 004. Dit document is bij ProRail/ afdeling Treinbeveiliging op te vragen.  
+Spoorvoertuigen, die gebruik maken van de ERTMS van het Nederlandse spoorwegnet, voldoen aan de eisen opgenomen in document RLN 0295, versie V 004. Dit document is bij ProRail/ afdeling Treinbeveiliging op te vragen.
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####behorende bij artikel 4 
 
@@ -653,7 +653,7 @@ Een spoorvoertuig, dat niet voldoet aan TSI CR WAG of TSI CR Loc&Pas voldoet aan
 
 1.1.1 De automatische koppeling heeft een breeksterkte van minimaal 1 MN.  
 
-1.1.2 De automatische koppeling is in staat alle bewegingen van het voertuig tijdens bogen en wisselloop toe te laten waarbij de eventuele reactiekrachten minimaal zijn.    
+1.1.2 De automatische koppeling is in staat alle bewegingen van het voertuig tijdens bogen en wisselloop toe te laten waarbij de eventuele reactiekrachten minimaal zijn.   
 
 ### 1.2  
 
@@ -665,7 +665,7 @@ a. de compressorcapaciteit is voldoende opdat onder ongunstige omstandigheden he
 
 b. remapparatuur is in en onder de bak zodanig aangebracht dat deze goed beschermd is in geval van aanrijdingen opdat functieverlies wordt geminimaliseerd;  
 
-c. de bedienkracht van de noodremtrekker is niet groter dan 200 N.      
+c. de bedienkracht van de noodremtrekker is niet groter dan 200 N.     
 
 ### 1.3  
 
@@ -677,7 +677,7 @@ c. de bedienkracht van de noodremtrekker is niet groter dan 200 N.
 
 *geblokkeerd:* deur is gesloten en kan niet geopend worden door het bedienen van de deurbedieningsorganen en ook niet door de noodbediening.  
 
-*vergrendeld:* deur is gesloten en kan niet geopend worden door het bedienen van de deurbedieningsorganen, wel door bedienen van de noodbediening.    
+*vergrendeld:* deur is gesloten en kan niet geopend worden door het bedienen van de deurbedieningsorganen, wel door bedienen van de noodbediening.   
 
 ### 1.3.1  
 
@@ -723,7 +723,7 @@ c. de bedienkracht van de noodremtrekker is niet groter dan 200 N.
 
 * vaste objecten worden niet geraakt;  
 
-* er ontstaan geen beperkingen of belemmeringen ten aanzien van het in- en uitstappen.      
+* er ontstaan geen beperkingen of belemmeringen ten aanzien van het in- en uitstappen.     
 
 ### 1.3.2  
 
@@ -743,19 +743,19 @@ e. indien een waarschuwingssignaal voor het sluiten van de deuren wordt gebruikt
 
 f. het aanraken door onbevoegden van onderdelen van het voertuig, die door hun constructie of door het voeren van een elektrische spanning (letsel)schade kunnen veroorzaken;  
 
-g. een te lange trein in relatie tot de perronlengte.    
+g. een te lange trein in relatie tot de perronlengte.   
 
 ### 1.4  
 
 ####Stoorstroomdetector
 
-Artikel 7, zevende lid, is van overeenkomstige toepassing.  
+Artikel 7, zevende lid, is van overeenkomstige toepassing. 
 
 ### 1.5  
 
 ####Verbrandingsmotoren
 
-Spoorvoertuigen die zijn voorzien van een eigen voortbewegingsinrichting door middel van verbrandingsmotoren voldoen aan richtlijn 97/68/EG.  
+Spoorvoertuigen die zijn voorzien van een eigen voortbewegingsinrichting door middel van verbrandingsmotoren voldoen aan richtlijn 97/68/EG. 
 
 ### 1.6  
 
@@ -767,7 +767,7 @@ a. het dodemansysteem in de radio heeft dezelfde systeemreacties als het dodeman
 
 b. de kantelbeveiliging initieert het uitschakelen van de aandrijving en het inzetten van een volle remming indien de zender langer dan 7,5 seconden in een hoek van 45° ten opzichte van de normale draagwijze wordt gehouden;  
 
-c. elk commando dat gegeven wordt door de zender resulteert in de betreffende reactie van het spoorvoertuig binnen 0,5 seconden;    
+c. elk commando dat gegeven wordt door de zender resulteert in de betreffende reactie van het spoorvoertuig binnen 0,5 seconden;   
 
 ### 1.7  
 
@@ -785,52 +785,52 @@ d. na het tot stilstand komen van een spoorvoertuig worden nog 30 seconden gegev
 
 e. de automatische ritregistratie kan zonder verlies van informatie bijzondere omstandigheden doorstaan. De kans op verlies van informatie moet klein zijn, en  
 
-f. door de automatische ritregistratie worden minimaal de in bijlage 7 opgenomen tabel genoemde gegevens geregistreerd.    
+f. door de automatische ritregistratie worden minimaal de in bijlage 7 opgenomen tabel genoemde gegevens geregistreerd.   
 
 ### 1.8  
 
 ####Stoot- en trekwerk
 
-1.8.1 Het loopwerk van wagens is zodanig dat voldaan wordt aan de volgende goedkeuringseisen: 
+1.8.1  Het loopwerk van wagens is zodanig dat voldaan wordt aan de volgende goedkeuringseisen: 
 
 a. tijdens bogenloop van twee gekoppelde voertuigen wordt tijdens het doorlopen van een boog van 150 m de optredende dwarskracht nooit groter dan 250 kN hetgeen wordt aangetoond door middel van een bogenloopberekening als bedoeld in ERRI B36/RP32;  
 
 b. de minimale boogstraal die gekoppeld bereden wordt, geldt als controle op de optredende maximale verspankracht.    
 
-1.8.2 Spoorvoertuigen die niet voorzien zijn van een standaard UIC stoot- en trekwerk en UIC remaansluiting, zijn uitgerust met een passend koppelstuk ten behoeve van het bergen.  
+1.8.2  Spoorvoertuigen die niet voorzien zijn van een standaard UIC stoot- en trekwerk en UIC remaansluiting, zijn uitgerust met een passend koppelstuk ten behoeve van het bergen.  
 
-1.8.3 Het tweede lid geldt niet indien de desbetreffende spoorwegonderneming met de beheerder afspraken heeft gemaakt over het brengen van koppelstukken naar de te bergen voertuigen.    
+1.8.3  Het tweede lid geldt niet indien de desbetreffende spoorwegonderneming met de beheerder afspraken heeft gemaakt over het brengen van koppelstukken naar de te bergen voertuigen.   
 
 ### 1.9  
 
 ####Aslagerbewaking
 
-1.9.1. De zone bij spoorvoertuigen die zichtbaar is voor de apparatuur voor aslager conditie bewaking in de infrastructuur voldoet aan de paragrafen 5.1 en 5.2 van EN 15437-1.    
+1.9.1.  De zone bij spoorvoertuigen die zichtbaar is voor de apparatuur voor aslager conditie bewaking in de infrastructuur voldoet aan de paragrafen 5.1 en 5.2 van EN 15437-1.   
 
 ### 1.10  
 
-####Minimum boogstraal
+#### Minimum boogstraal
 
 Het spoorvoertuig kan een horizontale boog met een radius van 150 m en groter doorlopen. 
 
 ### 1.11  
 
-####Elektrische tractie 1500V DC
+#### Elektrische tractie 1500V DC
 
-1.11.1. Indien spoorvoertuigen geschikt zijn voor elektrische tractie van 1500 V voldoen deze aan de volgende eisen: 
+1.11.1.  Indien spoorvoertuigen geschikt zijn voor elektrische tractie van 1500 V voldoen deze aan de volgende eisen: 
 
 a. er is een voorziening voor de stroomafname aanwezig die over het gehele spanningsbereik stabiel is en waarbij de stroomafname voor een spoorvoertuig ten hoogste 4000 A is;  
 
 b. door middel van een inrichting wordt bij overstroom de stroomtoevoer die door het spoorvoertuig zelf wordt veroorzaakt, automatisch en direct uitgeschakeld conform artikel 11.2 van EN 50388.    
 
-1.11.2. Indien spoorvoertuigen als bedoeld in onderdeel 1.11.1 tevens voorzien zijn van een recuperatie-inrichting, zorgt deze ervoor dat de recuperatie van de stroom automatisch stopt indien de recuperatiespanning lager wordt dan U6 als weergegeven in de volgende grafiek:   ![251243](http://wetten.overheid.nl/Illustration/251243)
-waarbij U6 = 1200 V, U8 <= 1950 V, Imax = 4000 A. De waarde U7 wordt zodanig gekozen dat een stabiele recuperatieregeling wordt verkregen.    
+1.11.2.  Indien spoorvoertuigen als bedoeld in onderdeel 1.11.1 tevens voorzien zijn van een recuperatie-inrichting, zorgt deze ervoor dat de recuperatie van de stroom automatisch stopt indien de recuperatiespanning lager wordt dan U6 als weergegeven in de volgende grafiek: ![251243](http://wetten.overheid.nl/Illustration/251243)
+waarbij U6 = 1200 V, U8 <= 1950 V, Imax = 4000 A. De waarde U7 wordt zodanig gekozen dat een stabiele recuperatieregeling wordt verkregen.  
 
 ### 1.12  
 
 ####Elektrische tractie 25kV AC
 
-1.12.1. Indien spoorvoertuigen zijn voorzien van een systeem van energievoorziening dat geschikt is voor 25 kV voldoet dit aan de volgende eisen: 
+1.12.1.  Indien spoorvoertuigen zijn voorzien van een systeem van energievoorziening dat geschikt is voor 25 kV voldoet dit aan de volgende eisen: 
 
 a. er is een voorziening van de stroomafname aanwezig die over het gehele spanningsbereik stabiel is en waarbij de stroomafname ten hoogste 800 A is;  
 
@@ -842,19 +842,19 @@ d. de vermogensfactor voldoet aan artikel 6 van EN 50388;
 
 e. de complexe ingangsadmittantie heeft in alle bedrijfstoestanden een positief reëel deel voor frequenties boven 500 Hz;    
 
-1.12.2. Indien voertuigen als bedoeld in onderdeel 1.12.1 tevens zijn voorzien van een recuperatie-inrichting gelden de volgende eisen: 
+1.12.2.  Indien voertuigen als bedoeld in onderdeel 1.12.1 tevens zijn voorzien van een recuperatie-inrichting gelden de volgende eisen: 
 
 a. de recuperatiestroom wordt begrensd tot maximaal 800 A;  
 
 b. de inrichting zorgt ervoor dat de recuperatie van de stroom automatisch stopt indien de recuperatiespanning lager wordt dan 17,5 kV;  
 
-c. de recuperatiespanning wordt begrensd tot maximaal 27,5 kV permanent en 29 kV gedurende maximaal 5 minuten.      
+c. de recuperatiespanning wordt begrensd tot maximaal 27,5 kV permanent en 29 kV gedurende maximaal 5 minuten.    
 
 ### 1.13  
 
 ####Stroomafnemer 1500V DC
 
-1.13.1. Stroomafnemers geïnstalleerd op spoorvoertuigen en geschikt voor 1500 V, voldoen aan de volgende eisen: 
+1.13.1.  Stroomafnemers geïnstalleerd op spoorvoertuigen en geschikt voor 1500 V, voldoen aan de volgende eisen: 
 
 a. het dynamisch gedrag van stroomafnemers bevindt zich in een bandbreedte tussen tenminste 4800 mm en ten hoogste 5750 mm gemeten vanaf de bovenzijde van de koppen van de spoorstaven;  
 
@@ -876,13 +876,13 @@ i. het type stroomafnemer voldoet aan de eisen gesteld in EN 50206;
 
 j. stroomafnemers van spoorvoertuigen in één treinsamenstelling mogen niet elektrisch via het voertuig doorgekoppeld worden.    
 
-1.13.2 In afwijking van onderdeel 1.13.1, onderdeel j, kan een locomotief voorzien zijn van doorgekoppelde opstaande stroomafnemers.    
+1.13.2  In afwijking van onderdeel 1.13.1, onderdeel j, kan een locomotief voorzien zijn van doorgekoppelde opstaande stroomafnemers.  
 
 ### 1.14  
 
 ####Stroomafnemer 25kV AC
 
-1.14.1. Indien spoorvoertuigen zijn voorzien van een stroomafnemer welke geschikt is voor 25 kV en het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening, voldoet de stroomafnemer aan de volgende eisen: 
+1.14.1.  Indien spoorvoertuigen zijn voorzien van een stroomafnemer welke geschikt is voor 25 kV en het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening, voldoet de stroomafnemer aan de volgende eisen: 
 
 a. het dynamisch gedrag van stroomafnemers bevindt zich in een bandbreedte tussen tenminste 4.800 mm en ten hoogste 5.800 mm gemeten vanaf de bovenzijde van de koppen van de spoorstaven;  
 
@@ -914,13 +914,13 @@ n. de afstand tussen de sleepstukken bedraagt maximaal 650 mm inclusief de breed
 
 o. de afstand tussen opstaande stroomafnemers voldoet aan EN 50367.    
 
-1.14.2 Indien het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening en de stroomafnemer voor 25 kV defect raakt: 
+1.14.2  Indien het spoorvoertuig wordt ingezet op sporen met een 25 kV energievoorziening en de stroomafnemer voor 25 kV defect raakt: 
 
 a. daalt de stroomafnemer automatisch neer tot dakligging voor spoorvoertuigen die geschikt zijn voor een hogere snelheid dan 160 km/u; en  
 
 b. is deze binnen 1 seconde gedaald tot 20 cm onder de rijdraad.    
 
-1.14.3. Indien een spoorvoertuig is voorzien van meerdere stroomafnemers zijn deze niet elektrisch via het spoorvoertuig doorverbonden.    
+1.14.3.  Indien een spoorvoertuig is voorzien van meerdere stroomafnemers zijn deze niet elektrisch via het spoorvoertuig doorverbonden.  
 
 ### 1.15  
 
@@ -936,7 +936,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 3. artikel 3, eerste lid, is van overeenkomstige toepassing.  
 
-4. Indien een spoorvoertuig is voorzien van zandstrooiers, dienen deze te voldoen aan paragraaf 3.1.4.1 van het document, genoemd in bijlage A, indexnummer 77, van de TSI CCS.    
+4. Indien een spoorvoertuig is voorzien van zandstrooiers, dienen deze te voldoen aan paragraaf 3.1.4.1 van het document, genoemd in bijlage A, indexnummer 77, van de TSI CCS.  
 
 ### 2.1  
 
@@ -945,7 +945,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 | Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Isolatiecoördinatie  | EN 50124  | --- |
-| b. Elektromagnetische compatibiliteit  | EN 50121-1  EN 50121-3-1  EN 50121-3-2  EN 50238  | --- |
+| b. Elektromagnetische compatibiliteit  | EN 50121-1  EN 50121-3-1  EN 50121-3-2 EN 50238  | --- |
 | c. Veiligheidsaarding  | UIC 533  |
 | UIC 552  NEN-EN 50153  | --- |
 | d. Elektrische energievoorziening  | EN 50163  EN 50388  UIC 550  UIC 550-1  UIC 550-2  UIC 626  | --- |
@@ -989,14 +989,14 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 | e. Botsveiligheid  | EN 15227, cat. C-1  | --- | --- | --- |
 | f. Ontwerp  | --- | --- | --- | --- | UIC 571-3  UIC 571-4  UIC 581  |
 | g. Aanbouwdelen  | --- | --- | --- | --- | UIC 532  UIC 535-1  UIC 535-2  UIC 535-3  UIC 575  |
-| h. Bijzondere wagens  | --- | --- | --- | --- | UIC 549  UIC 572  |
+| h. Bijzondere wagens   | --- | --- | --- | --- | UIC 549  UIC 572  |
 | i. Container en wissellaadbakken  | --- | --- | --- | --- | UIC 574  UIC 591  UIC 592-2  UIC 592-3  UIC 592-4  UIC 593  UIC 596-5  UIC 596-6  NEN 283-284  |
 
 ### 2.5  
 
 ####Loopwerk
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Draaistel algemeen  | --- | UIC 510-1  UIC510-3  UIC 517  UIC 530-1  UIC 530-2  UIC 530-4  |
 | b. Wielstellen  | UIC 510-2  UIC 510-5  UIC 512  UIC 810  UIC 812  EN 13979-1  EN 15437  EN 13262  | UIC510-2  UIC510-4  UIC 511  UIC 512  |
@@ -1012,7 +1012,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Stoot- en trekwerk
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Automatische koppeling  | --- | --- | --- | --- | UIC 522  UIC 522-2  UIC 523  UIC 524  |
 | b. Buffers/trekwerk  | UIC 520  UIC 521  UIC 527-1  |
@@ -1023,7 +1023,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Hoofdafmetingen en vormgeving
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Omgrenzingsprofiel  | EN 15273  UIC 505-1  UIC 505-4  UIC 505-5  UIC 506  |
 
@@ -1031,7 +1031,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Additionele systemen
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Dodeman installatie  | UIC 641  Werkende bij elke snelheid  Opmerking voor rijtuigen: geldt alleen voor stuurstandrijtuigen.  | --- |
 | b. Front- en sluitseinen  | UIC 651  EN 15153-1  | UIC 532  UIC 651, geldt alleen voor stuurstand-rijtuigen  EN 15153-1  | UIC 651  | UIC 532  |
@@ -1043,7 +1043,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Elektronica en software toepassingen (veiligheidstoepassingen)
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | Algemeen  | Bewijs van veiligheid en veilige implementatie volgens: NEN-EN 50126, 50128, 50129 en 50155.  | --- |
 
@@ -1051,7 +1051,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Veiligheidsinventaris
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Rode vlag  | In cabine aanwezig.  | --- |
 | b. Noodsein lantaarn  | In cabine aanwezig.  | --- |
@@ -1063,7 +1063,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 
 ####Interieur (veiligheidsaspecten)
 
-| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig  | Wagen  |
+| Onderwerp  | Eisen  | Locomotief  | Treinstel  | Rijtuig  | Bijzonder spoorvoertuig   | Wagen  |
 |:---|:---|:---|:---|:---|:---|:---|
 | a. Brandveiligheid  | TSI SRT paragraaf 4.2.5.  | --- |
 | b. Noodverlichting  | --- | TSI SRT paragraaf 4.2.5.  | --- | --- |
@@ -1075,7 +1075,7 @@ b. de overige spoorvoertuigen ten hoogste 50 mΩ.
 | g. Meubilair  | --- | UIC 566  | --- | --- |
 | h. Opschriften  | --- | UIC 580  | --- | --- |
 
-### Bijlage  4  
+### Bijlage 4 
 
 ####, behorende bij artikel 7, zesde lid, onderdeel b en achtste lid  en artikel 17, vierde lid, onderdelen c en d 
 
@@ -1089,7 +1089,7 @@ Ter invulling van het open punt in de specificatie als bedoeld in paragraaf 3.1.
 | Az LM  | Sk30H  | ~ 28  ~ 30,7  | 27,0 ... 29,0  29,7 ... 31,7  | 0,165  0,180  |
 | GETS ¹  | --- | ~ 39,0  ~ 50,0  | 38,0 ... 40,0  49,0 ... 51,0  | 0,142  0,124  |
 
-¹ De GETS assenteller komt alleen voor op dieselbaanvakken. Conformiteit van voertuigen die rijden over sporen die uitgerust zijn met assentellers zal in de toekomst ook via de meetmethode van TS50238-3 aangetoond kunnen worden. Op dit moment zijn de grenswaarden voor Az L90-4 en Az LM in x, y en z-richting volgens opgaaf van TS50238-3 nog niet bekend. Aanvullend geldt dat de grenswaarden voor de volgende mogelijke beïnvloedingsmechanismen nog niet bekend zijn: 
+¹ De GETS assenteller komt alleen voor op dieselbaanvakken.Conformiteit van voertuigen die rijden over sporen die uitgerust zijn met assentellers zal in de toekomst ook via de meetmethode van TS50238-3 aangetoond kunnen worden. Op dit moment zijn de grenswaarden voor Az L90-4 en Az LM in x, y en z-richting volgens opgaaf van TS50238-3 nog niet bekend. Aanvullend geldt dat de grenswaarden voor de volgende mogelijke beïnvloedingsmechanismen nog niet bekend zijn: 
 
 – verstoring van de telkop door magnetische velden;  
 
@@ -1101,11 +1101,11 @@ Ter invulling van het open punt in de specificatie als bedoeld in paragraaf 3.1.
 
 – verstoring van de telkop door elektrische velden;  
 
-– verstoring van de telkop tijdens wielpassage;   en zijn daarom nog niet in de bovenstaande tabel verwerkt. Bij beoordeling van de conformiteit dienen deze mechanismen echter wel beschouwd te worden.  
+– verstoring van de telkop tijdens wielpassage;   en zijn daarom nog niet in de bovenstaande tabel verwerkt. Bij beoordeling van de conformiteit dienen deze mechanismen echter wel beschouwd te worden. 
 
-### Bijlage  5  
+### Bijlage 5 
 
-####behorende bij artikel 7, vijfde lid 
+#### behorende bij artikel 7, vijfde lid 
 
 ####Eisen ten aanzien van de detectiekwaliteit van spoorvoertuigen
 
@@ -1126,7 +1126,7 @@ De treinsamenstelling wordt toegelaten indien in totaal 43 of meer punten worden
 
 ####Combinatie-eis
 
-Een elektrische treinsamenstelling wordt toegelaten op een baanvak indien de ritfrequentie van andere elektrische treinen die naast het toe te laten spoorvoertuig (gaan) rijden tenminste 36 keer per 24 uur per spoor bedraagt, vastgelegd in de dienstregeling. Dit wordt gecombineerd met de eis dat deze treinsamenstelling minimaal 6 assen heeft (waarvan ten hoogste de middelste 2 per 6 assen onderbroken mogen zijn, doch elektrisch verbonden) met een aslast van minimaal 6 ton òf deze minimaal 4 assen hebben met een minimale aslast van 18 ton.  
+Een elektrische treinsamenstelling wordt toegelaten op een baanvak indien de ritfrequentie van andere elektrische treinen die naast het toe te laten spoorvoertuig (gaan) rijden tenminste 36 keer per 24 uur per spoor bedraagt, vastgelegd in de dienstregeling. Dit wordt gecombineerd met de eis dat deze treinsamenstelling minimaal 6 assen heeft (waarvan ten hoogste de middelste 2 per 6 assen onderbroken mogen zijn, doch elektrisch verbonden) met een aslast van minimaal 6 ton òf deze minimaal 4 assen hebben met een minimale aslast van 18 ton. 
 
 ####Gemeten kortsluitgedrag
 
@@ -1136,9 +1136,9 @@ Een spoorvoertuigsamenstelling wordt toegelaten indien tien gemeten kortsluitwaa
 
 * asafstanden (d.w.z. afstand van as 1 naar as 2, van as 2 naar as 3, enz.) van het spoorvoertuig in millimeters;  
 
-* geplande data en tijdstippen (uur en minuut) van binnenkomst in de meetsectie.   Na afloop van het berijden van de meetsectie dient de aanvrager aan de railinfrabeheerder een overzicht aan te leveren waarop de datum en het geschatte tijdstip (uur en minuut) van het daadwerkelijk berijden van de meetsectie, evenals de rijrichting is aangegeven. Indien sprake is van uitzonderlijke omstandigheden (bladval, extreme wind, enz.) kan dit tevens in het overzicht worden aangegeven.  
+* geplande data en tijdstippen (uur en minuut) van binnenkomst in de meetsectie.   Na afloop van het berijden van de meetsectie dient de aanvrager aan de railinfrabeheerder een overzicht aan te leveren waarop de datum en het geschatte tijdstip (uur en minuut) van het daadwerkelijk berijden van de meetsectie, evenals de rijrichting is aangegeven. Indien sprake is van uitzonderlijke omstandigheden (bladval, extreme wind, enz.) kan dit tevens in het overzicht worden aangegeven. 
 
-### Bijlage  6  
+### Bijlage 6 
 
 ####, behorende bij artikel 7, zesde lid, onderdeel a  en artikel 17, eerste lid, onderdelen f en j 
 
@@ -1160,13 +1160,13 @@ Voor de eisen voor elektrische compatibiliteit tussen spoorvoertuigen en treinde
 
 − Metingen worden niet uitgevoerd op lijnen die beïnvloed kunnen worden door 25kV 50Hz stoorstromen.   De grenswaarden en filterkarakteristieken van tabel 1 zijn van toepassing op DC-lijnen met GRS.  Tabel 1 – GRS 
 
-| Systeem / type  | F <sub>0</sub>  [Hz]  | Δf [Hz]  | I <sub>0</sub>  RMS [A]  | Δf <sub>3dB</sub> [Hz]  | Δf <sub>20dB</sub> [Hz]  | 2*N [-]  | T  [s]  | Ti  [s]  | Opmerking  |
+| Systeem / type  | F<sub>0</sub>   [Hz]  | Δf [Hz]  | I<sub>0</sub>   RMS [A]  | Δf<sub>3dB</sub> [Hz]  | Δf<sub>20dB</sub> [Hz]  | 2*N [-]  | T  [s]  | Ti  [s]  | Opmerking  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| GRS (ATBEG)  | 75  | 10  | 0,5  | 20  | 40  | 6  | 0,2  | 1,7  | --- |
+| GRS (ATBEG)   | 75  | 10  | 0,5  | 20  | 40  | 6  | 0,2  | 1,7  | --- |
 
 De aanvullende eisen van tabel 2a gelden voor mengtermen die tijdens leemtebedrijf van het onderstation zonder externe 50Hz injectie kunnen leiden tot ongewenste 75Hz componenten.  Tabel 2a – GRS – grenswaarden als gevolg van interactie met DC-onderstation 
 
-| Systeem / type  | f <sub>0</sub>  [Hz]  | Δf  [Hz]  | I <sub>0</sub>  RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
+| Systeem / type  | f<sub>0</sub>   [Hz]  | Δf  [Hz]  | I<sub>0</sub>   RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | GRS (ATBEG)  | 25  | 10/3  | 22,7  | 20/3  | 40/3  | -  | 0,2  | 1,7  | --- |
 | GRS (ATBEG)  | 37  | 10/2  | 8,6  | 20/2  | 40/2  | -  | 0,2  | 1,7  | --- |
@@ -1175,18 +1175,18 @@ De aanvullende eisen van tabel 2a gelden voor mengtermen die tijdens leemtebedri
 | GRS (ATBEG)  | 525  | 10  | 1  | 20  | 40  | 6  | 0,2  | 1,7  |
 | GRS (ATBEG)  | 675  | 10  | 1  | 20  | 40  | 6  | 0,2  | 1,7  |
 
-De aanvullende eisen van tabel 2b gelden voor mengtermen die tijdens leemtebedrijf van het onderstation met externe 50Hz injectie kunnen leiden tot ongewenste 75Hz componenten.  Tabel 2b – GRS – grenswaarden voor parallelloopsporen 
+De aanvullende eisen van tabel 2b gelden voor mengtermen die tijdens leemtebedrijf van het onderstation met externe 50Hz injectie kunnen leiden tot ongewenste 75Hz componenten.  Tabel 2b – GRS – grenswaarden voor parallelloopsporen  
 
-| Systeem / type  | f <sub>0</sub>  [Hz]  | Δf  [Hz]  | I <sub>0</sub>  RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
+| Systeem / type  | f<sub>0</sub>   [Hz]  | Δf  [Hz]  | I<sub>0</sub>   RMS [A]  | Δf3dB  [Hz]  | Δf20dB  [Hz]  | 2*N  [-]  | T  [s]  | Ti  [s]  | Opmerking  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | GRS (ATBEG)  | 25  | 10  | 12,6  | 20  | 40  | 6  | 1  | 1,7  | --- |
 | GRS (ATBEG)  | 75  | 10  | 5,3  | 20  | 40  | 6  | 1  | 1,7  | --- |
 | GRS (ATBEG)  | 125  | 10  | 12,6  | 20  | 40  | 6  | 1  | 1,7  | --- |
 | GRS (ATBEG)  | 175  | 10  | 12,6  | 20  | 40  | 6  | 1  | 1,7  | --- |
 
-Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar de norm CLC/TS 50238-2 van juli 2010, Annex A.  
+Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar de norm CLC/TS 50238-2 van juli 2010, Annex A. 
 
-### Bijlage  7  
+### Bijlage 7 
 
 ####, behorende bij artikel 10, vijfde lid, onderdeel f , en bijlage 3 , paragraaf 1.7
 
@@ -1200,9 +1200,9 @@ Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar 
 | ATB cabineseinen  | X  | X  | X  | X ¹  | X  |
 | Stand rijrichting-schakelaar  | X  | X  | --- | --- | --- |
 | Signaal ‘deuren dicht’  | --- | X  | X  | --- | X  |
-| Indien een spoorvoertuig is voorzien van een automatisch treinbeïnvloedingssyteem (ATB) dat werkt op basis van remcurvebewaking wordt van dat ATB-systeem ten minste geregistreerd:  • de door de machinist ingevoerde gegevens  • de aan de machinist gegeven opdrachten en toestemmingen  • bedieningshandelingen in opdracht of op verzoek van de ATB  • bedieningshandeling waarmee de remcurvebewaking wordt genegeerd  • bediening ‘Gladspoor’ knop*)  • de door de ATB bewaakte snelheid  • de aan de machinist getoonde bewaakte snelheid  • de data die door de ATB-treinapparatuur van de ATB-baanapparatuur wordt ontvangen  • de data die door de ATB-treinapparatuur aan de ATB-baanapparatuur wordt gezonden *)  • storingsmeldingen ATB-baanapparatuur  • storingsmeldingen ATB-treinapparatuur  • de uitvoering en het resultaat van de test van de ATB-treinapparatuur  • de door de ATB geïnitieerde ingrepen  • indien de ATB buiten bedrijf is geschakeld  * informatie over het adhesiegedrag van het spoorvoertuig <sup>1</sup>  |
+| Indien een spoorvoertuig is voorzien van een automatisch treinbeïnvloedingssyteem (ATB) dat werkt op basis van remcurvebewaking wordt van dat ATB-systeem ten minste geregistreerd:  • de door de machinist ingevoerde gegevens  • de aan de machinist gegeven opdrachten en toestemmingen  • bedieningshandelingen in opdracht of op verzoek van de ATB  • bedieningshandeling waarmee de remcurvebewaking wordt genegeerd  • bediening ‘Gladspoor’ knop*)  • de door de ATB bewaakte snelheid  • de aan de machinist getoonde bewaakte snelheid  • de data die door de ATB-treinapparatuur van de ATB-baanapparatuur wordt ontvangen  • de data die door de ATB-treinapparatuur aan de ATB-baanapparatuur wordt gezonden *)  • storingsmeldingen ATB-baanapparatuur  • storingsmeldingen ATB-treinapparatuur  • de uitvoering en het resultaat van de test van de ATB-treinapparatuur  • de door de ATB geïnitieerde ingrepen  • indien de ATB buiten bedrijf is geschakeld  * informatie over het adhesiegedrag van het spoorvoertuig<sup>1</sup>  |
 
-¹ Indien aanwezig/beschikbaar. 
+¹ Indien aanwezig/beschikbaar.
 
 ### Bijlage  8  
 
@@ -1242,7 +1242,7 @@ Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar 
 
 13. Het voertuig dient voldoende veilig geaard te zijn teneinde de bovenleidingspanning af te schakelen in geval van draadbreuk.  Tabel 1 
 
-| EN15746:  | Cat. 8 + 9  | Cat. 9C met stoot- en trekwerk als rangeertrekkracht (locotractor)  |--- | nummer aanv. eis  | Onderhoudsvoertuigen in transport mode ¹  | Locotractor op centraal bediende emplacementen  | Locotractor op niet centraal bediende emplacementen  | Opmerking  |
+| EN15746:  | Cat. 8 + 9  | Cat. 9C met stoot- en trekwerk als rangeertrekkracht (locotractor)  |--- | nummer aanv. eis  | Onderhoudsvoertuigen in transport mode ¹   | Locotractor op centraal bediende emplacementen   | Locotractor op niet centraal bediende emplacementen  | Opmerking  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | ja  | Ja  | ja  | Minimaal een tachograaf  |
 | 2  | ja  | Ja  | ja  | --- |
@@ -1258,5 +1258,5 @@ Voor de definities van de in de tabellen genoemde begrippen wordt verwezen naar 
 | 12  | Cat. 8: ja of positie in de trein voorschrijven  | nee, alleen toegestaan als tractie voor- of achterop  | nee, alleen toegestaan als tractie voor- of achterop  | --- |
 | 13  | ja  | Ja  | ja  | 1,5 kV /  25 kV (3 kV / 15 kV)  |
 
-¹ Onderhoudsvoertuigen in ‘working mode’ verzorgt TCVT de door ProRail geaccepteerde toelating.      
+¹ Onderhoudsvoertuigen in ‘working mode’ verzorgt TCVT de door ProRail geaccepteerde toelating.   
 

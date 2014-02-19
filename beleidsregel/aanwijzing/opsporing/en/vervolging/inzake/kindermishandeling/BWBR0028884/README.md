@@ -4,7 +4,7 @@
 
 ####Samenvatting
 
-De Aanwijzing opsporing en vervolging inzake kindermishandeling geeft instructies voor de opsporing en vervolging van kindermishandeling, vrouwelijke genitale verminking daaronder begrepen. De instructies hebben betrekking op de gedragslijn in gevallen waarin kinderen zijn of worden mishandeld, verwaarloosd of geconfronteerd met geweld tegen henzelf en/of anderen in hun omgeving. De aanwijzing begint met een definitie van kindermishandeling. De omschrijving is daarbij zeer ruim genomen. Onder de definitie van kindermishandeling vallen niet alleen vormen van fysiek geweld tegen kinderen, maar ook overige vormen van actief of passief geweld zoals verwaarlozing. Kindermishandeling heeft raakvlakken met onder meer huiselijk geweld en seksueel geweld met of tegen kinderen. Ook cultureel gerelateerde vormen van kindermishandeling, zoals genitale verminking, vallen onder het bereik van de aanwijzing. Daarom verwijst deze aanwijzing naar de [Aanwijzing opsporing en vervolging inzake seksueel misbruik](../../../../../../../../beleidsregel/aanwijzing/opsporing/en/vervolging/inzake/seksueel/misbruik/BWBR0025102/README.md) en de [Aanwijzing huiselijk geweld](../../../../../../../../beleidsregel/aanwijzing/huiselijk/geweld/en/eergerelateerd/geweld/BWBR0027594/README.md), of zijn delen uit deze aanwijzingen aangehaald. Ook wordt verwezen naar de [Aanwijzing slachtofferzorg](../../../../../../../../beleidsregel/aanwijzing/slachtofferzorg/BWBR0021178/README.md) en de [Aanwijzing auditief en audiovisueel registreren van verhoren van aangevers, getuigen en verdachten](../../../../../../../../beleidsregel/aanwijzing/auditief/en/audiovisueel/registreren/van/verhoren/van/aangevers/etc/BWBR0027982/README.md). Ook komen in deze aanwijzing aan de orde de verschillende ketenpartners die een taak hebben in de bestrijding van kindermishandeling en de invoering van een verplichte meldcode voor instanties die te maken hebben met kindermishandeling. <sup> 1  Dit volgt uit de Wet Meldcode Huiselijk Geweld, die 1 januari 2011 in werking treedt.  </sup> Ten slotte introduceert de aanwijzing een registratieplicht voor politie en OM waardoor inzicht wordt verkregen in de ernst, aard en omvang van kindermishandeling.    
+De Aanwijzing opsporing en vervolging inzake kindermishandeling geeft instructies voor de opsporing en vervolging van kindermishandeling, vrouwelijke genitale verminking daaronder begrepen. De instructies hebben betrekking op de gedragslijn in gevallen waarin kinderen zijn of worden mishandeld, verwaarloosd of geconfronteerd met geweld tegen henzelf en/of anderen in hun omgeving. De aanwijzing begint met een definitie van kindermishandeling. De omschrijving is daarbij zeer ruim genomen. Onder de definitie van kindermishandeling vallen niet alleen vormen van fysiek geweld tegen kinderen, maar ook overige vormen van actief of passief geweld zoals verwaarlozing. Kindermishandeling heeft raakvlakken met onder meer huiselijk geweld en seksueel geweld met of tegen kinderen. Ook cultureel gerelateerde vormen van kindermishandeling, zoals genitale verminking, vallen onder het bereik van de aanwijzing. Daarom verwijst deze aanwijzing naar de [Aanwijzing opsporing en vervolging inzake seksueel misbruik](../../../../../../../../beleidsregel/aanwijzing/opsporing/en/vervolging/inzake/seksueel/misbruik/BWBR0025102/README.md) en de [Aanwijzing huiselijk geweld](../../../../../../../../beleidsregel/aanwijzing/huiselijk/geweld/en/eergerelateerd/geweld/BWBR0027594/README.md), of zijn delen uit deze aanwijzingen aangehaald. Ook wordt verwezen naar de [Aanwijzing slachtofferzorg](../../../../../../../../beleidsregel/aanwijzing/slachtofferzorg/BWBR0021178/README.md) en de [Aanwijzing auditief en audiovisueel registreren van verhoren van aangevers, getuigen en verdachten](../../../../../../../../beleidsregel/aanwijzing/auditief/en/audiovisueel/registreren/van/verhoren/van/aangevers/etc/BWBR0027982/README.md). Ook komen in deze aanwijzing aan de orde de verschillende ketenpartners die een taak hebben in de bestrijding van kindermishandeling en de invoering van een verplichte meldcode<sup> 1 Dit volgt uit de Wet Meldcode Huiselijk Geweld, die 1 januari 2011 in werking treedt. </sup>voor instanties die te maken hebben met kindermishandeling. Ten slotte introduceert de aanwijzing een registratieplicht voor politie en OM waardoor inzicht wordt verkregen in de ernst, aard en omvang van kindermishandeling.    
 
 ####Achtergrond
 
@@ -52,7 +52,7 @@ Bij de aanpak van kindermishandeling zijn vele partijen betrokken. Naast de just
 
 – GGD/GGZ  
 
-– MEE-organisaties <sup> 2  MEE-organisaties = vereniging voor ondersteuning bij leven met een beperking; zie www.meenederland.nl.  </sup>      
+– MEE-organisaties<sup> 2 MEE-organisaties = vereniging voor ondersteuning bij leven met een beperking; zie www.meenederland.nl. </sup>       
 
 ####Medische sector
 
@@ -100,7 +100,7 @@ Bij kindermishandelingzaken zijn er altijd minderjarige slachtoffers. Gezien de 
 
 – de dubbele afhankelijkheidsrelatie van minderjarigen (wettelijk en sociaal) tegenover de vaak enkelvoudige afhankelijkheidsrelatie van meerderjarige slachtoffers (alleen sociaal); zie ook wat hierna (p. 5) wordt opgemerkt over het verhoor van het minderjarige slachtoffer (het verschoningsrecht).  
 
-– de diagnostische (on)mogelijkheden bij medisch onderzoek naar letsel: het signaleren en herkennen van kindermishandeling is niet altijd eenvoudig. Daarom is het belangrijk goed onderzoek te doen en waar nodig de medische deskundigheid van een forensisch arts in te schakelen. <sup> 3  Zie ook de Wet deskundige in strafzaken.  </sup>       
+– de diagnostische (on)mogelijkheden bij medisch onderzoek naar letsel: het signaleren en herkennen van kindermishandeling is niet altijd eenvoudig. Daarom is het belangrijk goed onderzoek te doen en waar nodig de medische deskundigheid van een forensisch arts in te schakelen.<sup> 3 Zie ook de Wet deskundige in strafzaken. </sup>        
 
 ####Pre-opsporing
 
@@ -118,9 +118,9 @@ Bij (een vermoeden van) een geval van kindermishandeling is het uitgangspunt dat
 
 Bij (een vermoeden van) kindermishandeling geldt als uitgangspunt dat de politie een verklaring opneemt van een (of meer) getuige(n). Behalve een ouder/voogd kunnen dit ook vertrouwenspersonen (leerkrachten, hulpverleners) zijn die aangifte doen. In sommige gevallen van kindermishandeling kan er sprake van zijn dat beide ouders/verzorgers als verdachte worden aangemerkt. Wellicht doen ouder(s)/verzorger(s) aangifte tegen elkaar. Vooruitlopend op de aangifte moet de politie met een aantal zaken rekening houden. Zie daarvoor de checklist in bijlage 2.     
 
-####Opsporing
+####Opsporing<sup> 4  In de Aanwijzing opsporing en vervolging inzake seksueel misbruik staan in het onderdeel Vervolging uitgebreide voorschriften. Indien van toepassing, moeten deze voorschriften ook gevolgd worden in kindermishandelingzaken.  </sup> 
 
-<sup> 4  In de Aanwijzing opsporing en vervolging inzake seksueel misbruik staan in het onderdeel Vervolging uitgebreide voorschriften. Indien van toepassing, moeten deze voorschriften ook gevolgd worden in kindermishandelingzaken.  </sup>  In deze aanwijzing wordt de opsporing onderscheiden in: 
+In deze aanwijzing wordt de opsporing onderscheiden in: 
 
 A. acute situaties die onverwijld optreden noodzakelijk maken (zoals heterdaad situaties) en  
 
@@ -174,7 +174,7 @@ De reclassering stelt op aanvraag van het OM in beginsel een voorlichtingsrappor
 
 ####Nifp-rapportage/boog
 
-De zaak dient door de behandelend parketsecretaris of officier van justitie (via het systeem BOOG, wat staat voor beslissingsondersteuning onderzoek geestvermogens) gescreend te worden op de noodzaak voor het aanvragen van psychiatrisch of psychologisch onderzoek (NIPF-rapportage ) van de verdachte(n). <sup> 5  NIFP staat voor Nederlands Instituut voor Forensische Psychiatrie en Psychologie.  </sup>    
+De zaak dient door de behandelend parketsecretaris of officier van justitie (via het systeem BOOG, wat staat voor beslissingsondersteuning onderzoek geestvermogens) gescreend te worden op de noodzaak voor het aanvragen van psychiatrisch of psychologisch onderzoek (NIPF-rapportage<sup> 5 NIFP staat voor Nederlands Instituut voor Forensische Psychiatrie en Psychologie. </sup>) van de verdachte(n).    
 
 ####Voorlopige hechtenis
 
@@ -230,11 +230,11 @@ Dit overzicht is niet limitatief.
 
 ####Delicten uit het [Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) waarbij voorlopige hechtenis mogelijk is:
 
-[art. 300](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): ingeval van recidive: mishandeling (inclusief verzwarende omstandigheden ex [art. 304](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) [art. 300 lid 2](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): mishandeling, zwaar lichamelijk letsel ten gevolge hebbend [art. 300 lid 4](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): benadeling van de gezondheid [art. 302](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (jo [45](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)): (poging tot) zware mishandeling [art. 303](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): zware mishandeling met voorbedachten rade [art. 304](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): betrekking hebbend op [art. 300 t/m 303](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) indien begaan tegen vader, moeder, echtgeno(o)t(e), levensgezel of kind, ambtenaar of door toediening van voor de gezondheid schadelijke stoffen [art 307](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dood door schuld [art 308](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zware mishandeling door schuld [art. 242](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (jo [45](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)): (poging tot) verkrachting [art. 243](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): gemeenschap met een bewusteloze of onmachtige [art. 244](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): seksueel binnendringen van iemand beneden twaalf jaar [art. 245](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Seksueel binnendringen bij iemand beneden zestien jaar [art. 246](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): feitelijke aanranding der eerbaarheid [art. 247](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Ontucht met kind [art. 249](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Ontucht met misbruik van gezag/vertrouwen [art. 257](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): iemand tot wiens onderhoud verdachte verplicht is in hulpeloze toestand brengen of laten, zwaar lichamelijk letsel ten gevolge hebbend [art. 282](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): wederrechtelijke vrijheidsberoving, al dan niet zwaar lichamelijk letsel ten gevolge hebbend [art. 285](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): bedreiging [art. 285b](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): belaging (klachtdelict) [art 287](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): moord [art 289](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): doodslag  
+[art. 300](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): ingeval van recidive: mishandeling (inclusief verzwarende omstandigheden ex [art. 304](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) [art. 300 lid 2](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): mishandeling, zwaar lichamelijk letsel ten gevolge hebbend [art. 300 lid 4](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): benadeling van de gezondheid [art. 302](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (jo [45](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)): (poging tot) zware mishandeling [art. 303](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): zware mishandeling met voorbedachten rade [art. 304](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): betrekking hebbend op [art. 300 t/m 303](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) indien begaan tegen vader, moeder, echtgeno(o)t(e), levensgezel of kind, ambtenaar of door toediening van voor de gezondheid schadelijke stoffen [art 307](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dood door schuld [art 308](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zware mishandeling door schuld [art. 242](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (jo [45](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)): (poging tot) verkrachting [art. 243](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): gemeenschap met een bewusteloze of onmachtige [art. 244](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): seksueel binnendringen van iemand beneden twaalf jaar [art. 245](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Seksueel binnendringen bij iemand beneden zestien jaar [art. 246](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): feitelijke aanranding der eerbaarheid [art. 247](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Ontucht met kind [art. 249](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): Ontucht met misbruik van gezag/vertrouwen [art. 257](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): iemand tot wiens onderhoud verdachte verplicht is in hulpeloze toestand brengen of laten, zwaar lichamelijk letsel ten gevolge hebbend [art. 282](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): wederrechtelijke vrijheidsberoving, al dan niet zwaar lichamelijk letsel ten gevolge hebbend [art. 285](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): bedreiging [art. 285b](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): belaging (klachtdelict) [art 287](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): moord [art 289](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): doodslag 
 
 ####Delicten uit het [Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) waarbij geen voorlopige hechtenis mogelijk is:
 
-[art. 255](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): iemand tot wiens onderhoud verdachte is verplicht in hulpeloze toestand brengen of laten [art. 284](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): dwang.  
+[art. 255](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): iemand tot wiens onderhoud verdachte is verplicht in hulpeloze toestand brengen of laten [art. 284](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): dwang. 
 
 ### Bijlage  2  
 
@@ -282,7 +282,7 @@ Dit overzicht is niet limitatief.
 
 2 Herstel van de door het strafbare feit veroorzaakte schade.  *Verplichting om de onrechtmatige toestand die een veroordeelde door zijn delict heeft veroorzaakt weer terug te brengen in de staat voorafgaand aan het strafbare feit*   
 
-3 Storting van een geldbedrag in bepaalde fondsen die zich ten doel stellen belangen van slachtoffers van strafbare feiten te behartigen  *Verplichting om een ‘vergoeding’ te betalen in die gevallen dat slachtoffers, bijvoorbeeld van zedenmisdrijven, geen behoefte hebben aan schadevergoeding.*     
+3 Storting van een geldbedrag in bepaalde fondsen die zich ten doel stellen belangen van slachtoffers van strafbare feiten te behartigen  *Verplichting om een ‘vergoeding’ te betalen in die gevallen dat slachtoffers, bijvoorbeeld van zedenmisdrijven, geen behoefte hebben aan schadevergoeding.*    
 
 ####Vrijheidsbeperkende voorwaarden (geboden en verboden)
 
@@ -294,11 +294,11 @@ Dit overzicht is niet limitatief.
 
 7 Drugs- en alcoholverbod  *Het verbod om drugs of alcohol te gebruiken.*   
 
-8 Meldingsgebod  *Het gebod om zich op bepaalde tijden of gedurende bepaalde perioden te melden bij een persoon of instelling.*     
+8 Meldingsgebod  *Het gebod om zich op bepaalde tijden of gedurende bepaalde perioden te melden bij een persoon of instelling.*    
 
 ####Gedragsbeïnvloedende voorwaarden
 
-9 Gedragsinterventies  *Inzet van gedragsinterventies die de dynamische risicofactoren van de veroordeelde aanpakken.*     
+9 Gedragsinterventies  *Inzet van gedragsinterventies die de dynamische risicofactoren van de veroordeelde aanpakken.*    
 
 ####Op zorg gerichte voorwaarden
 
@@ -306,11 +306,11 @@ Dit overzicht is niet limitatief.
 
 11 Ambulante behandeling  *De verplichting om zich voor een bepaalde stoornis ambulant te laten behandelen.*   
 
-12 Opname in een (24-uurs)voorziening (bijvoorbeeld een Exodushuis)  *De verplichting om te verblijven in een (24-uurs)voorziening.*     
+12 Opname in een (24-uurs)voorziening (bijvoorbeeld een Exodushuis)  *De verplichting om te verblijven in een (24-uurs)voorziening.*    
 
 ####Overige
 
 13 Andere voorwaarden het gedrag van de veroordeelde betreffende  *De verplichting om zich aan de aanwijzingen van de begeleidende instelling te houden; alleen op te leggen als in het bepaalde geval de andere bijzondere voorwaarden niet afdoende zijn.*   
 
-14 Storting van een waarborgsom  *De verplichting een bedrag te storten om naleving van een andere voorwaarde te verzekeren.*     
+14 Storting van een waarborgsom  *De verplichting een bedrag te storten om naleving van een andere voorwaarde te verzekeren.*    
 

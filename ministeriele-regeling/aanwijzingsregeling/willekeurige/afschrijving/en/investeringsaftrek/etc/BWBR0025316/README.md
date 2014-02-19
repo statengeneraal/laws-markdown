@@ -24,31 +24,31 @@ d. zij gericht zijn op de verbetering van het natuurlijke milieu of het dierenwe
 
 e. zij, indien het bedrijfsmiddelen of onderdelen daarvan in landbouwbedrijven betreft, niet gericht zijn op een productieverhoging waarvoor op de markt geen normale afzetmogelijkheden kunnen worden gevonden, en  
 
-f. daarvoor niet vanwege de overheid of de Commissie van de Europese Gemeenschappen uit anderen hoofde dan toekenning van de willekeurige afschrijving een zodanig bedrag aan geldelijke steun wordt verstrekt, dat door die toekenning het totale bedrag aan geldelijke steun dat ingevolge communautaire regelgeving mag worden verstrekt, wordt overschreden.    
+f. daarvoor niet vanwege de overheid of de Commissie van de Europese Gemeenschappen uit anderen hoofde dan toekenning van de willekeurige afschrijving een zodanig bedrag aan geldelijke steun wordt verstrekt, dat door die toekenning het totale bedrag aan geldelijke steun dat ingevolge communautaire regelgeving mag worden verstrekt, wordt overschreden.   
 
 ### Artikel  2  
 
 ####Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in artikel 1, onderdelen a tot en met f, genoemde voorwaarden.  
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in artikel 1, onderdelen a tot en met f, genoemde voorwaarden. 
 
 ### Artikel  3  
 
 ####Uitzondering
 
-Investeringen in bedrijfsmiddelen of onderdelen daarvan, opgenomen in de bijlage bij deze regeling, komen voor niet meer dan € 25 miljoen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving.  
+Investeringen in bedrijfsmiddelen of onderdelen daarvan, opgenomen in de bijlage bij deze regeling, komen voor niet meer dan € 25 miljoen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2009.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2009. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009.  
+Deze regeling wordt aangehaald als: Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -56,9 +56,9 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  
+### Bijlage 
 
 ####bij de artikelen 1  en 2 
 
@@ -113,14 +113,14 @@ J.M.Cramer
 | Verreiker of vorkheftruck met P ≤ 55 kW  | 99  |
 | Verreiker of vorkheftruck met P > 55kW  | 80+11logP  |
 
-** geluiddrukniveau*  
+* * geluiddrukniveau*  
 
 5. De bedrijfsmiddelen, bedoeld in de codes  
 
 | --- | --- |
 |:---|:---|
-| B 3411  | Emissiearme milieuvriendelijke mobiele machine  |
-| B 3413  | Mobiele machine voor heiwerkzaamheden  |
+| B 3411   | Emissiearme milieuvriendelijke mobiele machine  |
+| B 3413   | Mobiele machine voor heiwerkzaamheden  |
 
 voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eisen aan de luchtzijdige emissies door de verbrandingsmotor van het bedrijfsmiddel. Dit wordt aangetoond met een EG-typegoedkeuringsverklaring en een verklaring van gelijkvormigheid. In de EG-typegoedkeuringsverklaring worden de emissiewaarden van het bedrijfsmiddel op basis van het [Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md) aangegeven. Met een verklaring van gelijkvormigheid verklaart de leverancier of importeur dat het geleverde bedrijfsmiddel overeenkomt met een gemeten exemplaar, waarvan met een EG-typegoedkeuringsverklaring is aangetoond dat deze aan de gestelde emissie-eisen voldoet. Voor de technische beoordeling van het bedrijfsmiddel kan de Minister van Infrastructuur en Milieu de EG-typegoedkeuringsverklaring en de verklaring van gelijkvormigheid opvragen. De verklaring van gelijkvormigheid wordt opgesteld door de leverancier of importeur met gebruikmaking van een door de Minister van Infrastructuur en Milieu vastgesteld model dat verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland. Onder de grenswaarden van fase IV voor dieselmotoren als omschreven in richtlijn 97/68/EG van het Europees Parlement en de Raad van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1997, L 59) worden de grenswaarden verstaan zoals bedoeld in [het Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md). Onder de grenswaarden van Tier 4 (final) voor dieselmotoren worden de grenswaarden verstaan conform de US-EPA-emissienorm. Voor fase IV voor dieselmotoren gelden de grenswaarden in onderstaande tabel:  
 
@@ -143,7 +143,7 @@ De milieuvriendelijke landbouw- of bosbouwtrekker, bedoeld in bedrijfsmiddel B 
 
 | --- | --- |
 |:---|:---|
-| A 1330  | Waterhydraulisch systeem  |
+|  A 1330  | Waterhydraulisch systeem  |
 | A 3222  | Automatisch smeersysteem  |
 | F 3310  | Duurzaam vaartuig  |
 | B 3320  | Duurzame energievoorziening en aandrijving voor een binnenvaartschip  |
@@ -156,7 +156,7 @@ voldoen aan de in paragraaf 2, bij het betreffende bedrijfsmiddel, vermelde eise
 
 | --- | --- |
 |:---|:---|
-| A 0001  | Nieuwe milieuvriendelijke techniek  |
+| A 0001   | Nieuwe milieuvriendelijke techniek  |
 | F 1100  | Productieapparatuur voor (half)producten op basis van grondstoffen van biologische oorsprong  |
 | A 1200  | Apparatuur voor vermindering van het gebruik van grondstoffen  |
 | F 1205  | Water- en grondstofbesparende installatie (aanpassen bestaande situatie)  |
@@ -195,7 +195,7 @@ wordt, op een daartoe strekkend verzoek van de Minister van Infrastructuur en Mi
 
 8. Indien in deze bijlage bepaalde meetvoorschriften, testmethoden, verklaringen of certificaten worden gesteld of voorgeschreven, worden daarmee gelijkgesteld gelijkwaardige meetvoorschriften, testmethoden of gelijkwaardige verklaringen of certificaten, die worden gebruikt om bedrijfsmiddelen te toetsen of die zijn afgegeven met betrekking tot een bedrijfsmiddel.  
 
-9. Investeringen in woonhuizen en woonschepen, met inbegrip van de gedeelten van andere zaken die dienen voor bewoning, komen niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen, met uitzondering van investeringen in bedrijfsmiddel F 6390 (Vervanging asbesthoudende daken, dakgoten of gevels (aanpassing van bestaande voorziening)) of C 6400 (Fotovoltaïsch zonne-energiesysteem in combinatie met vervanging van asbesthoudende daken, goten of gevels) of bedrijfsmiddel.    
+9. Investeringen in woonhuizen en woonschepen, met inbegrip van de gedeelten van andere zaken die dienen voor bewoning, komen niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen, met uitzondering van investeringen in bedrijfsmiddel F 6390 (Vervanging asbesthoudende daken, dakgoten of gevels (aanpassing van bestaande voorziening)) of C 6400 (Fotovoltaïsch zonne-energiesysteem in combinatie met vervanging van asbesthoudende daken, goten of gevels) of bedrijfsmiddel.   
 
 ### Paragraaf  2  
 
@@ -219,11 +219,11 @@ a. bestemd voor: het, door een kleine of middelgrote onderneming (KMO) in de zin
 
 – fosfaatemissie,  
 
-– SO <sub>x</sub> -emissie,  
+– SO<sub>x</sub>-emissie,  
 
-– NO <sub>x</sub> -emissie,  
+– NO<sub>x</sub>-emissie,  
 
-– CO <sub>2</sub> -emissie,  
+– CO<sub>2</sub>-emissie,  
 
 – watergebruik,  
 
@@ -231,7 +231,7 @@ a. bestemd voor: het, door een kleine of middelgrote onderneming (KMO) in de zin
 
 – hergebruik van materialen of componenten,    
 
-b. bestaande uit: ontwerpsoftware.    
+b. bestaande uit: ontwerpsoftware.   
 
 ####Grondstoffen en afval
 
@@ -277,7 +277,7 @@ b. bestaande uit: (eventueel) voorscheidingsapparatuur, een vloeistofdicht bassi
 
 a. bestemd voor: het verwijderen van kroos uit watergangen door een automatisch werkend en drijvend apparaat, waarbij het verwijderde kroos wordt verwerkt tot veevoer of een ander hoogwaardig product en waarbij het restproduct eventueel een energietoepassing krijgt,  
 
-b. bestaande uit: een schoepenwiel, drijvers, een motor, (eventueel) zonnepanelen, (eventueel) een accu en een transportband.    
+b. bestaande uit: een schoepenwiel, drijvers, een motor, (eventueel) zonnepanelen, (eventueel) een accu en een transportband.   
 
 ####Preventie van water- en grondstoffengebruik
 
@@ -351,7 +351,7 @@ b. bestaande uit: een printinstallatie voor uitsluitend rugpapiervrije etiketten
 
 a. bestemd voor: het verwijderen van zware metalen uit kunstmest tijdens of na de productie, zodat de geproduceerde kunstmest in totaal minder dan 0,1 milligram per kilogram aan zware metalen bevat,  
 
-b. bestaande uit: een metaalverwijderingsinstallatie, waarbij door een onafhankelijk meetinstituut of laboratorium dient te zijn aangetoond dat de installatie kunstmest produceert met een dergelijke lage concentratie.    
+b. bestaande uit: een metaalverwijderingsinstallatie, waarbij door een onafhankelijk meetinstituut of laboratorium dient te zijn aangetoond dat de installatie kunstmest produceert met een dergelijke lage concentratie.   
 
 ####Substitutie van water en grondstoffen
 
@@ -403,15 +403,15 @@ b. bestaande uit: een straalunit, straalnozzles, (eventueel) een afzuiginstallat
 
 a. bestemd voor: het beitsen van roestvrijstalen producten voor herstel van de passieve chroomoxidehuid door in een afgesloten ruimte het product te besproeien met een beitsvloeistof zonder oxiderend zuur, waarbij de gebruikte beitsvloeistof en het spoelwater worden opgevangen en gerecirculeerd,  
 
-b. bestaande uit: een gesloten beitsinstallatie, een laadsysteem en een recirculatiesysteem.    *F 1380*   *Textielverfmachine op basis van CO <sub>2</sub>*  
+b. bestaande uit: een gesloten beitsinstallatie, een laadsysteem en een recirculatiesysteem.    *F 1380*   *Textielverfmachine op basis van CO<sub>2</sub> *  
 
-a. bestemd voor: het waterloos verven van textiel met superkritisch CO <sub>2</sub>, waarbij de gebruikte kleurstoffen gerecycled worden,  
+a. bestemd voor: het waterloos verven van textiel met superkritisch CO<sub>2</sub>, waarbij de gebruikte kleurstoffen gerecycled worden,  
 
-b. bestaande uit: een droogverfinstallatie en een doseringseenheid voor superkritische CO <sub>2</sub>.    *B 1385*   *Rasterwalsreinigingsinstallatie*  
+b. bestaande uit: een droogverfinstallatie en een doseringseenheid voor superkritische CO<sub>2</sub>.    *B 1385*   *Rasterwalsreinigingsinstallatie*  
 
 a. bestemd voor: het stofvrij reinigen van rasterwalsen van drukmachines door het onder hoge druk opbrengen van bicarbonaatkorrels ter voorkoming van het verbruik van chemische reinigingsmiddelen en spoelwater,  
 
-b. bestaande uit: een straaleenheid, straalnozzles, een straalkabinet en een afzuiginstallatie.    
+b. bestaande uit: een straaleenheid, straalnozzles, een straalkabinet en een afzuiginstallatie.   
 
 ####Recycling van afval(water) en grondstoffen
 
@@ -465,7 +465,7 @@ a. bestemd voor: het onder zuurstofarme of zuurstofloze omstandigheden thermisch
 
 2. afvalstoffen die niet nuttig kunnen worden toegepast (maar conform de minimumstandaard in het Landelijk afvalbeheerplan 2009–2021 (LAP2) verbrand of verwijderd worden), waarbij de vrijkomende vaste, vloeibare of gasvormige reactieproducten worden toegepast als grondstof of als alternatief voor fossiele brandstoffen,    
 
-b. bestaande uit: een pyrolysereactor, (eventueel) een vergasser, (eventueel) een naverbrander, (eventueel) een smeltinstallatie, afgas- of rookgasreinigingssysteem, (eventueel) een toe- en afvoersysteem, (eventueel) een afvalvoorbewerkingsinstallatie en (eventueel) een CO <sub>2</sub> -afvanginstallatie, exclusief voorzieningen voor het opwekken van energie.    *A 1410*   *Installatie voor het vervaardigen van bouwstoffen uit afvalstromen*  
+b. bestaande uit: een pyrolysereactor, (eventueel) een vergasser, (eventueel) een naverbrander, (eventueel) een smeltinstallatie, afgas- of rookgasreinigingssysteem, (eventueel) een toe- en afvoersysteem, (eventueel) een afvalvoorbewerkingsinstallatie en (eventueel) een CO<sub>2</sub>-afvanginstallatie, exclusief voorzieningen voor het opwekken van energie.    *A 1410*   *Installatie voor het vervaardigen van bouwstoffen uit afvalstromen*  
 
 a. bestemd voor: het vervaardigen van producten die voldoen aan de eisen van het [Besluit Bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) uit baggerslib (categorie 4), boorslib, grondreinigingsresiduen, rookgasreinigingsresiduen en/of AVI-vliegas door het aan elkaar hechten van de deeltjes,  
 
@@ -525,7 +525,7 @@ b. bestaande uit: een terugwininstallatie en (eventueel) een opvangvoorziening v
 
 a. bestemd voor: het met gesloten containers gebruiken van verf, lak, inkt of olie waardoor geen verpakkingsafval ontstaat en waarbij de geleverde containers worden terug geleverd aan de leverancier,  
 
-b. bestaande uit: een aftapinstallatie, een mengbuis, aansluitstukken en een pomp.    
+b. bestaande uit: een aftapinstallatie, een mengbuis, aansluitstukken en een pomp.   
 
 ####Verwerking van afval(water)
 
@@ -591,7 +591,7 @@ b. bestaande uit: een wervelbedverbrandingsinstallatie en (eventueel) rookgasrei
 
 a. bestemd voor: het selectief en milieuvriendelijk demonteren van zeeschepen, zeeplatforms en eventueel binnenvaartschepen door een werf die gecertificeerd is volgens ISO 14001:2004 en waarbij alle milieubelastende verontreinigingen conform ISO- en/of NEN-normen worden verwijderd,  
 
-b. bestaande uit: demontage-apparatuur, straalapparatuur, een hydraulische staalpers, apparatuur voor brandpreventie, stoomheaters voor zware olie, een ballastwaterbehandelingsinstallatie, opslagtanks voor vrijkomende vloeistoffen, een reinigingsinstallatie voor vloeistoftanks, een asbestverwijderingsinstallatie, een asbestdecontaminatie-eenheid met stoffilterinstallatie, een verschrottingsinstallatie, een rookgasbehandelingssysteem en vloeistofdichte vloeren.    
+b. bestaande uit: demontage-apparatuur, straalapparatuur, een hydraulische staalpers, apparatuur voor brandpreventie, stoomheaters voor zware olie, een ballastwaterbehandelingsinstallatie, opslagtanks voor vrijkomende vloeistoffen, een reinigingsinstallatie voor vloeistoftanks, een asbestverwijderingsinstallatie, een asbestdecontaminatie-eenheid met stoffilterinstallatie, een verschrottingsinstallatie, een rookgasbehandelingssysteem en vloeistofdichte vloeren.   
 
 ####Inzameling van afval(water)
 
@@ -607,7 +607,7 @@ a. bestemd voor: het innemen van grijswater, bilgewater of blackwater bij een ja
 
 2. met ten minste één inzamelstation bij een jachthaven met niet meer dan 50 ligplaatsen voor niet-open pleziervaartuigen,    
 
-b. bestaande uit: tanks, pompen, leidingen en (eventueel) een olie/vetafscheider.    
+b. bestaande uit: tanks, pompen, leidingen en (eventueel) een olie/vetafscheider.   
 
 ####Ketenaanpak
 
@@ -629,7 +629,7 @@ a. zijnde: een product, niet zijnde een gebouw of een civieltechnisch werk, dat 
 
 – Slimbouwen Product (zie www.slimbouwen.nl),    
 
-b. bestaande uit: een product dat voldoet aan de duurzaamheidseisen van het betreffende keurmerk, exclusief bijkomende kosten en exclusief investeringen waarvan het belangrijkste milieuvoordeel energiebesparing of energieopwekking is. Indien sprake is van gecertificeerde producten toegepast in de bouwfase van een gebouw komen per gebouw ten hoogste vier verschillende producten compleet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Niet ieder certificaat volstaat; alleen bedrijfsmiddelen met ten minste één van de genoemde duurzaamheidscertificaten komen in aanmerking. Elektrisch aangedreven of hybride auto’s komen niet in aanmerking onder A 1810, maar kunnen worden gemeld onder G 3110, D 3111 en E 3112. Investeringen in duurzame gebouwen kunnen worden gemeld onder E 6110 tot en met C 6129. Producten zijn niet altijd bedrijfsmiddelen in fiscale zin. Alleen bedrijfsmiddelen die worden geactiveerd komen in aanmerking. Bijvoorbeeld gebruiksgoederen vallen hier niet onder. Vraag in geval van twijfel de Belastingtelefoon (0800-0543).  
+b. bestaande uit: een product dat voldoet aan de duurzaamheidseisen van het betreffende keurmerk, exclusief bijkomende kosten en exclusief investeringen waarvan het belangrijkste milieuvoordeel energiebesparing of energieopwekking is. Indien sprake is van gecertificeerde producten toegepast in de bouwfase van een gebouw komen per gebouw ten hoogste vier verschillende producten compleet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. Niet ieder certificaat volstaat; alleen bedrijfsmiddelen met ten minste één van de genoemde duurzaamheidscertificaten komen in aanmerking. Elektrisch aangedreven of hybride auto’s komen niet in aanmerking onder A 1810, maar kunnen worden gemeld onder G 3110, D 3111 en E 3112. Investeringen in duurzame gebouwen kunnen worden gemeld onder E 6110 tot en met C 6129. Producten zijn niet altijd bedrijfsmiddelen in fiscale zin. Alleen bedrijfsmiddelen die worden geactiveerd komen in aanmerking. Bijvoorbeeld gebruiksgoederen vallen hier niet onder. Vraag in geval van twijfel de Belastingtelefoon (0800-0543). 
 
 ####Voedselvoorziening en landbouwproductie
 
@@ -645,11 +645,11 @@ a. bestemd voor: het milieuvriendelijk produceren van gewassen of producten in e
 
 – waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,    
 
-b. bestaande uit: een kas (kasdek en gevels), teelttechnische en klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n) en voorzieningen voor het opslaan of produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over Milieukeur Plantaardige producten kan worden gevonden op www.milieukeur.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft dus niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft niet te worden afgewacht.  *B 2111*   *Kas voor biologische teelt*  
+b. bestaande uit: een kas (kasdek en gevels), teelttechnische en klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n) en voorzieningen voor het opslaan of produceren van CO<sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over Milieukeur Plantaardige producten kan worden gevonden op www.milieukeur.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft dus niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft niet te worden afgewacht.  *B 2111*   *Kas voor biologische teelt*  
 
 a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas volgens de voorschriften van het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md), wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland, en waarvoor in geval van een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) door het bevoegde gezag voor de opstand een (ontwerp) omgevingsvergunning voor bouwen is afgegeven die rechtsgeldig is ten tijde van de melding,  
 
-b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft dus niet te worden afgewacht.  *F 2112*   *Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur*  
+b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO<sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft dus niet te worden afgewacht.  *F 2112*   *Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur*  
 
 a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas waarvan is vastgesteld dat deze voldoet aan de eisen van bedrijfsmiddel A 2113, en het bedrijfsmatig telen van gewassen plaatsvindt volgens: 
 
@@ -657,7 +657,7 @@ a. bestemd voor: het bedrijfsmatig telen van gewassen in een kas waarvan is vast
 
 2. volgens de eisen van Milieukeur Plantaardige producten uit de bedekte teelt, wat blijkt uit een certificaat Milieukeur dat afgegeven is door een daartoe bevoegde instantie,    
 
-b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO <sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. Informatie over de genoemde Milieukeur kan worden gevonden op www.milieukeur.nl.  *A 2113*   *Groen Label Kas*  
+b. bestaande uit: een kas (kasdek en gevels), teelttechnische of klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, bedrijfsruimte(n), scherminstallaties en voorzieningen voor het opslaan en produceren van CO<sub>2</sub>, elektriciteit of warmte.   Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](../../../../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) kan worden gevonden op www.skal.nl. Informatie over de genoemde Milieukeur kan worden gevonden op www.milieukeur.nl.  *A 2113*   *Groen Label Kas*  
 
 a. bestemd voor: het bedrijfsmatig telen van gewassen in een Groen Label Kas waarbij wordt voldaan aan de volgende eisen: 
 
@@ -671,7 +671,7 @@ a. bestemd voor: het bedrijfsmatig telen van gewassen in een Groen Label Kas waa
 
 b. bestaande uit: een kas (kasdek en gevels) en teelttechnische en klimaattechnische voorzieningen.   De gehele investering in de Groen Label Kas, inclusief kosten gemeld onder F 2112 of F 2114, komt ten hoogste voor het volgende bedrag per vierkante meter gecertificeerd teeltoppervlak in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen:  
 
-| Gewasgroep  | €/m <sup>2</sup> intensieve teelt  | €/m <sup>2</sup> extensieve teelt  |
+| Gewasgroep  | €/m<sup>2</sup> intensieve teelt  | €/m<sup>2</sup> extensieve teelt  |
 |:---|:---|:---|
 | Groenten  | 110  | 120  |
 | Bloemen  | 170  | 145  |
@@ -680,9 +680,9 @@ b. bestaande uit: een kas (kasdek en gevels) en teelttechnische en klimaattechni
 
 Toelichting: De (ontwerp) omgevingsvergunning voor bouwen die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De afgegeven vergunning hoeft dus niet onherroepelijk te zijn. Een eventuele bezwaar- en beroepsprocedure hoeft niet te worden afgewacht. Het Certificatieschema Groen Label Kas 10 (GLK10) ligt ter inzage in de bibliotheek van het Ministerie van Infrastructuur en Milieu. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.  *F 2114*   *Groen Label Kas met vis-, schaal- of schelpdierenkwekerij*  
 
-a. bestemd voor: het gecombineerd bedrijfsmatig telen van gewassen en kweken van vis, schaal- of schelpdieren in dezelfde ruimte, waarbij uitwisseling van water, warmte en CO <sub>2</sub> plaatsvindt en waarvan is vastgesteld dat de kas voldoet aan de eisen van bedrijfsmiddel A 2113,  
+a. bestemd voor: het gecombineerd bedrijfsmatig telen van gewassen en kweken van vis, schaal- of schelpdieren in dezelfde ruimte, waarbij uitwisseling van water, warmte en CO<sub>2</sub> plaatsvindt en waarvan is vastgesteld dat de kas voldoet aan de eisen van bedrijfsmiddel A 2113,  
 
-b. bestaande uit: een kas (kasdek en gevels), een vis, schaal- of schelpdierenkwekerij, teelttechnische en klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, een bedrijfsruimte, de ruimten bedoeld voor personeel, scherminstallaties en voorzieningen voor het opslaan of produceren van CO <sub>2</sub>, elektriciteit of warmte.    *F 2120*   *Afvoersysteem voor vocht uit de kas tijdens lichtscherming in de nanacht*  
+b. bestaande uit: een kas (kasdek en gevels), een vis, schaal- of schelpdierenkwekerij, teelttechnische en klimaattechnische voorzieningen, exclusief de volgende onderdelen: assimilatiebelichting, cyclische belichting, een bedrijfsruimte, de ruimten bedoeld voor personeel, scherminstallaties en voorzieningen voor het opslaan of produceren van CO<sub>2</sub>, elektriciteit of warmte.    *F 2120*   *Afvoersysteem voor vocht uit de kas tijdens lichtscherming in de nanacht*  
 
 a. bestemd voor: het afvoeren van vocht uit de kas tijdens de lichtscherming in de nanacht, zodanig dat de lichtschermen ook in de nanacht geheel gesloten blijven en warmte in de kas wordt opgeslagen,  
 
@@ -730,7 +730,7 @@ b. bestaande uit: een installatie voor het zuiveren van te lozen drainwater of v
 
 a. bestemd voor: het tegengaan van de lozing van meststoffen afkomstig uit de glastuinbouw, door het verwijderen van meststoffen uit het te lozen drainwater, waarbij er sprake is van een bestaande situatie waarin geen verwijdering van meststoffen voorafgaand aan drainwaterlozing plaatsvindt,  
 
-b. bestaande uit: (eventueel) waterzuiveringsapparatuur, (eventueel) een debietmeter, (eventueel) een voorziening voor de opslag van te lozen drainwater, (eventueel) een meetinstrument voor de meting van concentraties van nutriënten, exclusief voorzieningen die zijn opgenomen in het drainwaterrecirculatiesysteem.    
+b. bestaande uit: (eventueel) waterzuiveringsapparatuur, (eventueel) een debietmeter, (eventueel) een voorziening voor de opslag van te lozen drainwater, (eventueel) een meetinstrument voor de meting van concentraties van nutriënten, exclusief voorzieningen die zijn opgenomen in het drainwaterrecirculatiesysteem.   
 
 ####Veehouderij
 
@@ -810,7 +810,7 @@ a. bestemd voor: het ondergronds koelen van kadavers waarbij de kadaverkoelplaat
 
 – vloeistofdicht is uitgevoerd, aangetoond door middel van een certificaat,    
 
-b. bestaande uit: een ondergrondse vloeistofdichte kadaverkoelplaats met natuurlijk koudemiddel.    
+b. bestaande uit: een ondergrondse vloeistofdichte kadaverkoelplaats met natuurlijk koudemiddel.   
 
 ####Landbouwapparatuur
 
@@ -982,7 +982,7 @@ b. bestaande uit:
 
 1. met betrekking tot onderdeel a, onder 1, een voorraadbak, een mechanische of hydraulische aandrijving, een strooi-inrichting en een verdeelmechanisme,  
 
-2. met betrekking tot onderdeel a, onder 2, een voorraadbak, een mechanische, pneumatische of hydraulische aandrijving en een strooi-inrichting met zijwaarts begrensde uitstroomopeningen of een kunstmestgiftsysteem direct in de rij onder de planten, waarbij sleepslang- en zodenbemesters niet in aanmerking komen voor milieu-investeringsaftrek.      
+2. met betrekking tot onderdeel a, onder 2, een voorraadbak, een mechanische, pneumatische of hydraulische aandrijving en een strooi-inrichting met zijwaarts begrensde uitstroomopeningen of een kunstmestgiftsysteem direct in de rij onder de planten, waarbij sleepslang- en zodenbemesters niet in aanmerking komen voor milieu-investeringsaftrek.     
 
 ####Aquacultuur
 
@@ -1002,7 +1002,7 @@ b. bestaande uit: een broedinstallatie en een voerkweeksysteem.    *F 2421*   *
 
 a. bestemd voor: het kweken van schelp- of schaaldieren in een nagenoeg gesloten waterrecirculatiesysteem met een verversing van ten hoogste 0,5% van het dagelijks debiet, waarbij de juveniele schelp- of schaaldieren worden verkregen van gekweekte ouderdieren en waarbij het verstrekte voer gekweekt wordt of afkomstig is van een MSC-gecertificeerde bron,  
 
-b. bestaande uit: kweekbassins, filtratie- en zuiveringsunit(s), recirculatievoorzieningen en een voerkweeksysteem.   Toelichting: MSC staat voor Marine Stewardship Council. MSC is een internationaal keurmerk voor duurzame visserij. Meer informatie is te vinden op www.msc.org.  
+b. bestaande uit: kweekbassins, filtratie- en zuiveringsunit(s), recirculatievoorzieningen en een voerkweeksysteem.   Toelichting: MSC staat voor Marine Stewardship Council. MSC is een internationaal keurmerk voor duurzame visserij. Meer informatie is te vinden op www.msc.org. 
 
 ####Visserij
 
@@ -1022,7 +1022,7 @@ b. bestaande uit: een opvangbak met sorteervoorziening en een terugvoersysteem. 
 
 a. bestemd voor: het aan boord van een vissersschip conserveren van schaaldieren door een vast opgesteld, luchtdicht afsluitbaar roestvrijstalen vat, waarin SC-20 als conserveringsmiddel wordt gebruikt, ter vervanging van dipkoeling met natriumbisulfiet of een derivaat daarvan,  
 
-b. bestaande uit: luchtdicht afsluitbaar roestvrijstalen vat.    
+b. bestaande uit: luchtdicht afsluitbaar roestvrijstalen vat.   
 
 ####Verwerkingsapparatuur voor agrarische producten
 
@@ -1096,7 +1096,7 @@ b. bestaande uit: een mestscheider, een verdampingsinstallatie, een zonnecollect
 
 a. bestemd voor: het desinfecteren van lucht, een gesloten (opslag)ruimte of een product door oxidatie met ozon, waardoor het gebruik van chemicaliën aantoonbaar wordt verminderd of vermeden,  
 
-b. bestaande uit: een oxidatie-installatie, een ozongenerator, (eventueel) doseer- of injectieapparatuur, (eventueel) een restozonabsorber of -vernietiger, (eventueel) een besturingssysteem en (eventueel) meet- en regelapparatuur.   Toelichting: Een oxidatiereactor voor waterreiniging of legionellabestrijding kan gemeld worden onder B 1545. Een oxidatiereactor voor luchtreiniging kan gemeld worden onder E 4681.  
+b. bestaande uit: een oxidatie-installatie, een ozongenerator, (eventueel) doseer- of injectieapparatuur, (eventueel) een restozonabsorber of -vernietiger, (eventueel) een besturingssysteem en (eventueel) meet- en regelapparatuur.   Toelichting: Een oxidatiereactor voor waterreiniging of legionellabestrijding kan gemeld worden onder B 1545. Een oxidatiereactor voor luchtreiniging kan gemeld worden onder E 4681. 
 
 ####Mobiliteit
 
@@ -1108,7 +1108,7 @@ b. bestaande uit: een oxidatie-installatie, een ozongenerator, (eventueel) dosee
 
 a. bestemd voor: het verminderen van woon-werkverkeer door het faciliteren van een kantoorwerkomgeving bij werknemers thuis met een modulair bouwsysteem buitenshuis,  
 
-b. bestaande uit: een modulair bouwsysteem, (eventueel) een PV-systeem, (eventueel) een zonnewarmtesysteem, (eventueel) een vegetatiedak, (eventueel) een gevelbegroeiingssysteem, (eventueel) ICT-aansluitvoorzieningen en (eventueel) domotica-voorzieningen, exclusief kantoormeubilair.   Toelichting: Investeringen in woonhuizen komen op grond van paragraaf 1, onder 9, van deze bijlage niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Overleg met uw belastinginspecteur of een modulair bouwsysteem dat buitenshuis wordt geplaatst bij werknemers als (onderdeel van) een woonhuis wordt gezien.  
+b. bestaande uit: een modulair bouwsysteem, (eventueel) een PV-systeem, (eventueel) een zonnewarmtesysteem, (eventueel) een vegetatiedak, (eventueel) een gevelbegroeiingssysteem, (eventueel) ICT-aansluitvoorzieningen en (eventueel) domotica-voorzieningen, exclusief kantoormeubilair.   Toelichting: Investeringen in woonhuizen komen op grond van paragraaf 1, onder 9, van deze bijlage niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Overleg met uw belastinginspecteur of een modulair bouwsysteem dat buitenshuis wordt geplaatst bij werknemers als (onderdeel van) een woonhuis wordt gezien. 
 
 ####Wegvervoer
 
@@ -1116,21 +1116,21 @@ b. bestaande uit: een modulair bouwsysteem, (eventueel) een PV-systeem, (eventue
 
 a. bestemd voor: vervoer over de openbare weg of op bedrijfsterreinen in de open lucht en dat is voorzien van een lithiumhoudende accu voor de opslag van energie voor de aandrijving, niet zijnde een fiets, bromfiets, snorfiets, gehandicaptenvoertuig, vorkheftruck of een andere mobiele machine, tram of een metro, en dat voldoet aan de volgende eis: 
 
-1. voor een voertuig met kenteken geldt een CO <sub>2</sub> -uitstoot van 0 gram per kilometer, of  
+1. voor een voertuig met kenteken geldt een CO<sub>2</sub>-uitstoot van 0 gram per kilometer, of  
 
 2. voor een voertuig zonder kenteken geldt een actieradius van ten minste 50 kilometer op een volle accu,    
 
-b. bestaande uit: een uitsluitend elektrisch aangedreven voertuig, (eventueel) een vast aan het voertuig verbonden zonnepaneel en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 50.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Onder G 3110 kunnen worden gemeld alle volledig elektrische personen- en bedrijfsauto's met een CO <sub>2</sub> -uitstoot van 0 gram CO <sub>2</sub> per kilometer. Plugin-hybride personenauto's met een CO <sub>2</sub> -uitstoot van meer dan nul en ten hoogste 30 gram CO <sub>2</sub> per kilometer kunnen worden gemeld onder D 3111. Plugin-hybride personenauto's met een CO <sub>2</sub> -uitstoot van meer dan 30 en ten hoogste 50 gram CO <sub>2</sub> per kilometer kunnen worden gemeld onder E 3112. Elektrische of hybride mobiele machines kunnen worden gemeld onder F 3410. Oplaadpalen kunnen worden gemeld onder F 3720.  *D 3111*   *Plugin-hybride personenauto (> 0 – 30 gram CO <sub>2</sub> per kilometer)*  
+b. bestaande uit: een uitsluitend elektrisch aangedreven voertuig, (eventueel) een vast aan het voertuig verbonden zonnepaneel en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 50.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Onder G 3110 kunnen worden gemeld alle volledig elektrische personen- en bedrijfsauto's met een CO<sub>2</sub>-uitstoot van 0 gram CO<sub>2</sub> per kilometer. Plugin-hybride personenauto's met een CO<sub>2</sub>-uitstoot van meer dan nul en ten hoogste 30 gram CO<sub>2</sub> per kilometer kunnen worden gemeld onder D 3111. Plugin-hybride personenauto's met een CO<sub>2</sub>-uitstoot van meer dan 30 en ten hoogste 50 gram CO<sub>2</sub> per kilometer kunnen worden gemeld onder E 3112. Elektrische of hybride mobiele machines kunnen worden gemeld onder F 3410. Oplaadpalen kunnen worden gemeld onder F 3720.  *D 3111*   *Plugin-hybride personenauto (> 0 – 30 gram CO<sub>2</sub> per kilometer)*  
 
-a. bestemd voor: personenvervoer over de openbare weg of op bedrijfsterreinen in de open lucht en die is voorzien van een kenteken, een elektrische aandrijving, een verbrandingsmotor en een lithiumhoudende accu voor de opslag van energie voor de aandrijving, niet zijnde een fiets, bromfiets, snorfiets, gehandicaptenvoertuig, vorkheftruck of een andere mobiele machine, tram of een metro, en die een CO <sub>2</sub> -uitstoot heeft van meer dan 0 en ten hoogste 30 gram CO <sub>2</sub> per kilometer,  
+a. bestemd voor: personenvervoer over de openbare weg of op bedrijfsterreinen in de open lucht en die is voorzien van een kenteken, een elektrische aandrijving, een verbrandingsmotor en een lithiumhoudende accu voor de opslag van energie voor de aandrijving, niet zijnde een fiets, bromfiets, snorfiets, gehandicaptenvoertuig, vorkheftruck of een andere mobiele machine, tram of een metro, en die een CO<sub>2</sub>-uitstoot heeft van meer dan 0 en ten hoogste 30 gram CO<sub>2</sub> per kilometer,  
 
-b. bestaande uit: een personenauto en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 35.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Elektrische auto's waarvan de CO <sub>2</sub> -uitstoot 0 gram CO <sub>2</sub> per kilometer is, kunnen worden gemeld onder G 3110. Plugin-hybride auto’s met een CO <sub>2</sub> -uitstoot van meer dan 30 en ten hoogste 50 gram CO <sub>2</sub> per kilometer kunnen worden gemeld onder E 3112.  *E 3112*   *Plugin-hybride personenauto (> 30 – 50 gram CO <sub>2</sub> per kilometer)*  
+b. bestaande uit: een personenauto en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 35.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Elektrische auto's waarvan de CO<sub>2</sub>-uitstoot 0 gram CO<sub>2</sub> per kilometer is, kunnen worden gemeld onder G 3110. Plugin-hybride auto’s met een CO<sub>2</sub>-uitstoot van meer dan 30 en ten hoogste 50 gram CO<sub>2</sub> per kilometer kunnen worden gemeld onder E 3112.  *E 3112*   *Plugin-hybride personenauto (> 30 – 50 gram CO<sub>2</sub> per kilometer)*  
 
-a. bestemd voor: personenvervoer over de openbare weg of op bedrijfsterreinen in de open lucht en die is voorzien van een kenteken, een elektrische aandrijving, een verbrandingsmotor en een lithiumhoudende accu voor de opslag van energie voor de aandrijving, niet zijnde een fiets, bromfiets, snorfiets, gehandicaptenvoertuig, vorkheftruck of een andere mobiele machine, tram of een metro, en die een CO <sub>2</sub> -uitstoot heeft van meer dan 30 en ten hoogste 50 gram CO <sub>2</sub> per kilometer,  
+a. bestemd voor: personenvervoer over de openbare weg of op bedrijfsterreinen in de open lucht en die is voorzien van een kenteken, een elektrische aandrijving, een verbrandingsmotor en een lithiumhoudende accu voor de opslag van energie voor de aandrijving, niet zijnde een fiets, bromfiets, snorfiets, gehandicaptenvoertuig, vorkheftruck of een andere mobiele machine, tram of een metro, en die een CO<sub>2</sub>-uitstoot heeft van meer dan 30 en ten hoogste 50 gram CO<sub>2</sub> per kilometer,  
 
-b. bestaande uit: een personenauto en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 12.500 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Elektrische auto's waarvan de CO <sub>2</sub> -uitstoot 0 gram CO <sub>2</sub> per kilometer is, kunnen worden gemeld onder G 3110. Plugin-hybride auto’s met een CO <sub>2</sub> -uitstoot van meer dan 0 en ten hoogste 30 gram CO <sub>2</sub> per kilometer kunnen worden gemeld onder D 3111.  *E 3113*   *Aardgasauto voor zakelijk vervoer*  
+b. bestaande uit: een personenauto en (eventueel) een oplaadstation.   Het bedrijfsmiddel komt voor ten hoogste € 12.500 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Elektrische auto's waarvan de CO<sub>2</sub>-uitstoot 0 gram CO<sub>2</sub> per kilometer is, kunnen worden gemeld onder G 3110. Plugin-hybride auto’s met een CO<sub>2</sub>-uitstoot van meer dan 0 en ten hoogste 30 gram CO<sub>2</sub> per kilometer kunnen worden gemeld onder D 3111.  *E 3113*   *Aardgasauto voor zakelijk vervoer*  
 
-a. bestemd voor: het vervoer van goederen of personen over de openbare weg met een voertuig, niet zijnde een voertuig waarvoor in het kentekenregister de vermelding van de Europese voertuigcategorie N1 dan wel de vermelding ‘taxi’ is opgenomen met een aardgasmotor als hoofdmotor, met een CO <sub>2</sub> -uitstoot van meer dan 50 gram per kilometer, waarbij onder aardgas ook wordt verstaan biogas dat tot aardgaskwaliteit of beter is opgewerkt,  
+a. bestemd voor: het vervoer van goederen of personen over de openbare weg met een voertuig, niet zijnde een voertuig waarvoor in het kentekenregister de vermelding van de Europese voertuigcategorie N1 dan wel de vermelding ‘taxi’ is opgenomen met een aardgasmotor als hoofdmotor, met een CO<sub>2</sub>-uitstoot van meer dan 50 gram per kilometer, waarbij onder aardgas ook wordt verstaan biogas dat tot aardgaskwaliteit of beter is opgewerkt,  
 
 b. bestaande uit: een door een aardgasmotor aangedreven voertuig.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek. Toelichting: Aardgasaflever- of aardgasvulpunten kunnen worden gemeld onder G 3740.  *B 3118*   *Elektrisch aangedreven brom- of snorfiets met lithiumhoudende accu*  
 
@@ -1192,7 +1192,7 @@ a. bestemd voor: het verminderen van piekniveau's tijdens het laden en lossen in
 
 – met een cryogene koelinstallatie of een door de voertuigmotor aangedreven koelinstallatie, op basis van natuurlijke, halogeenvrije koudemiddelen,  
 
-– waarbij de opbouw inclusief koelinstallatie voldoet aan het geluiddrukniveau L <sub>pA(7,5m)</sub> ten hoogste 60 dB(A) bedraagt, gemeten volgens de Meetmethode voor piekgeluiden bij laden en lossen, rapport TNO rapport MON-RPT-2010-00466 van 18 februari 2010 opgesteld door TNO, en  
+– waarbij de opbouw inclusief koelinstallatie voldoet aan het geluiddrukniveau L<sub>pA(7,5m)</sub> ten hoogste 60 dB(A) bedraagt, gemeten volgens de Meetmethode voor piekgeluiden bij laden en lossen, rapport TNO rapport MON-RPT-2010-00466 van 18 februari 2010 opgesteld door TNO, en  
 
 – waarbij het verreist geluidsdrukniveau wordt aangetoond door een Piekcertificaat indien sprake is van een samengesteld voertuig of een vermelding op de Piek-Keur website indien sprake is van een volledig gecertificeerd voertuig,    
 
@@ -1204,11 +1204,11 @@ b. bestaande uit: een (verdampings-) koelsysteem.    *A 3185*   *Deluge-sprinkl
 
 a. bestemd voor: het bestrijden van beginnende branden en het voorkomen van explosies bij het lossen van LPG-tankwagens bij een tankstation door vroegtijdig en automatisch blussen van de brand en koelen van de tankwagen, voor zover het sprinklersysteem niet wettelijk verplicht is,  
 
-b. bestaande uit: een sprinklernetwerk, een delugeklep, een waterreservoir en een branddetectiesysteem dat de delugeklep bedient.    *F 3190*   *CO <sub>2</sub> - of N <sub>2</sub> -vulstation voor transportkoeling*  
+b. bestaande uit: een sprinklernetwerk, een delugeklep, een waterreservoir en een branddetectiesysteem dat de delugeklep bedient.    *F 3190*   *CO<sub>2</sub>- of N<sub>2</sub>-vulstation voor transportkoeling*  
 
-a. bestemd voor: het afleveren van vloeibare CO <sub>2</sub> of stikstof als koelmiddel van cryogene koelinstallaties van vrachtwagens of vaartuigen voor transport van goederen, ter beperking van luchtzijdige emissies en geluidhinder,  
+a. bestemd voor: het afleveren van vloeibare CO<sub>2</sub> of stikstof als koelmiddel van cryogene koelinstallaties van vrachtwagens of vaartuigen voor transport van goederen, ter beperking van luchtzijdige emissies en geluidhinder,  
 
-b. bestaande uit: een afleverkast of -zuil, een pomp, een bufferopslag en een card reader.   Toelichting: Installaties voor het vullen van stationaire installaties met CO <sub>2</sub> of stikstof komen niet in aanmerking.  *F 3191*   *Voertuig met koeling op zonnecellen*  
+b. bestaande uit: een afleverkast of -zuil, een pomp, een bufferopslag en een card reader.   Toelichting: Installaties voor het vullen van stationaire installaties met CO<sub>2</sub> of stikstof komen niet in aanmerking.  *F 3191*   *Voertuig met koeling op zonnecellen*  
 
 a. bestemd voor: het geconditioneerd vervoeren van goederen in een bestelauto, vrachtauto of oplegger, die is voorzien van een koeling die van energie wordt voorzien door zonnecellen en werkt op basis van natuurlijke, halogeenvrije koudemiddelen, waardoor het brandstofverbruik en de luchtzijdige emissies worden verminderd,  
 
@@ -1216,7 +1216,7 @@ b. bestaande uit: een bestelauto of een vrachtauto of een oplegger, een koelinst
 
 a. bestemd voor: het onbemand, automatisch uitgeven en innemen van verhuurfietsen of betaald stallen van fietsen, ten behoeve van voor- en natransport van reizigers,  
 
-b. bestaande uit: een inname- en uitgiftesysteem, een elektronisch pasleessysteem, een registratiesysteem, (eventueel) een accu-oplaadpunt, (eventueel) een transportmechanisme en (eventueel) een locatiezuil.   Toelichting: Computergestuurde kluizen, boxen en standaarden met slotsysteem voor fietsen komen ook in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.  
+b. bestaande uit: een inname- en uitgiftesysteem, een elektronisch pasleessysteem, een registratiesysteem, (eventueel) een accu-oplaadpunt, (eventueel) een transportmechanisme en (eventueel) een locatiezuil.   Toelichting: Computergestuurde kluizen, boxen en standaarden met slotsysteem voor fietsen komen ook in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. 
 
 ####Installaties voor vervoermiddelen en werktuigen
 
@@ -1264,7 +1264,7 @@ b. bestaande uit: een hittewerende coating.    *A 3285*   *Halogeenvrije gekoel
 
 a. bestemd voor: het bij calamiteiten verminderen van de uitstroom van LPG of toxische gassen bij verladingsinstallaties door gekoeld verladen of verpompen, waarbij wordt gekoeld met een passend halogeenvrij koelsysteem, eventueel gevolgd door opwarming tot de gewenste transporttemperatuur door middel van verdamping,  
 
-b. bestaande uit: een (verdampings-) koelsysteem en een verdampingseenheid.    
+b. bestaande uit: een (verdampings-) koelsysteem en een verdampingseenheid.   
 
 ####Scheepvaart
 
@@ -1288,7 +1288,7 @@ a. een elektromotor of vloeibaar aardgasmotor (LNG) of samengeperst aardgasmotor
 
 b. een dual fuel motor: een motor die werkt op basis van een mengsel van diesel en aardgas als brandstof,  
 
-c. een motor die voldoet aan de eisen van CCR fase 2 en voorzien is van een nageschakeld systeem voor deeltjesverwijdering (gecertificeerd roetfilter) als bedoeld in bedrijfsmiddel A 3361 en een NO <sub>x</sub> -reductiesysteem als bedoeld in bedrijfsmiddel F 3360,  
+c. een motor die voldoet aan de eisen van CCR fase 2 en voorzien is van een nageschakeld systeem voor deeltjesverwijdering (gecertificeerd roetfilter) als bedoeld in bedrijfsmiddel A 3361 en een NO<sub>x</sub>-reductiesysteem als bedoeld in bedrijfsmiddel F 3360,  
 
 d. een motor die voldoet aan de eisen gesteld aan de motoren van fase IIIa als bedoeld in Richtlijn 2004/26/EG van het Europees Parlement en de Raad van 21 april 2004 tot wijziging van Richtlijn 97/68/EG betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendigeverbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEU 2004, L 225), of  
 
@@ -1372,15 +1372,15 @@ a. bestemd voor: het voorkomen van de verspreiding van ecologieverstorende deelt
 
 – niet verplicht is op grond van voorschrift B-3 van de Bijlage Voorschriften voor controle en beheer van ballastwater en sedimenten van schepen bij het Internationaal Verdrag voor de controle en het beheer van ballastwater en het beheer van ballastwater en sedimenten van schepen, 2004,    
 
-b. bestaande uit: een ballastwatermanagementsysteem.    *F 3360*   *NO <sub>x</sub> -reductiesysteem voor een binnenvaartschip*  
+b. bestaande uit: een ballastwatermanagementsysteem.    *F 3360*   *NO<sub>x</sub>-reductiesysteem voor een binnenvaartschip*  
 
-a. bestemd voor: het verwijderen van NO <sub>x</sub> uit de afgassen van binnenvaartschepen door het uitrusten van de dieselmotoren met een NO <sub>x</sub> -reductiesysteem (retrofit) zoals een SCR-katalysator en waarbij, 
+a. bestemd voor: het verwijderen van NO<sub>x</sub> uit de afgassen van binnenvaartschepen door het uitrusten van de dieselmotoren met een NO<sub>x</sub>-reductiesysteem (retrofit) zoals een SCR-katalysator en waarbij, 
 
-– de NO <sub>x</sub> -uitstoot niet meer bedraagt dan 2 gram per kilowattuur voor nieuwe motoren en 3 gram per kilowattuur voor bestaande motoren, en  
+– de NO<sub>x</sub>-uitstoot niet meer bedraagt dan 2 gram per kilowattuur voor nieuwe motoren en 3 gram per kilowattuur voor bestaande motoren, en  
 
-– de NO <sub>x</sub> -uitstoot kan worden aangetoond met een NO <sub>x</sub> -meetrapport waarbij de NO <sub>x</sub> -metingen uitgevoerd zijn conform het VERS-protocol of ISO 8178:1994,    
+– de NO<sub>x</sub>-uitstoot kan worden aangetoond met een NO<sub>x</sub>-meetrapport waarbij de NO<sub>x</sub>-metingen uitgevoerd zijn conform het VERS-protocol of ISO 8178:1994,    
 
-b. bestaande uit: een NO <sub>x</sub> -reductiesysteem en (eventueel) NO <sub>x</sub> meetrapport.   Toelichting: Dieselmotoren op een binnenvaartschip die in aanmerking kunnen komen zijn voortstuwingsmotoren, boegschroeven, aggregaten en (beladings-)pompen. SCR-installaties voor motoren van een zeeschip kunnen worden gemeld onder A 4315. Roetfilters kunnen geplaatst worden in combinatie met SCR-katalysatoren (retrofitinstallaties) zoals genoemd in F 3360. Roetfilters voor een binnenvaartschip kunnen worden gemeld onder A 3361. Dit bedrijfsmiddel kan bijdragen aan het behalen van een Green Award-certificaat. Zie www.greenaward.org voor de voorwaarden.  *A 3361*   *Gesloten roetfilter voor een binnenvaartschip*  
+b. bestaande uit: een NO<sub>x</sub>-reductiesysteem en (eventueel) NO<sub>x</sub> meetrapport.   Toelichting: Dieselmotoren op een binnenvaartschip die in aanmerking kunnen komen zijn voortstuwingsmotoren, boegschroeven, aggregaten en (beladings-)pompen. SCR-installaties voor motoren van een zeeschip kunnen worden gemeld onder A 4315. Roetfilters kunnen geplaatst worden in combinatie met SCR-katalysatoren (retrofitinstallaties) zoals genoemd in F 3360. Roetfilters voor een binnenvaartschip kunnen worden gemeld onder A 3361. Dit bedrijfsmiddel kan bijdragen aan het behalen van een Green Award-certificaat. Zie www.greenaward.org voor de voorwaarden.  *A 3361*   *Gesloten roetfilter voor een binnenvaartschip*  
 
 a. bestemd voor: het verwijderen van roetdeeltjes, eventueel in combinatie met andere schadelijke luchtverontreinigingen, uit de rookgassen van binnenvaartschepen, met een gesloten roetfilter dat voldoet aan de eisen van TRGS 554 of dat staat op de roetfilterlijst van VERT (Verminderung der Emissionen von Real-Dieselmotoren im Tunnelbau) of BAFU (Bundesambt für Umwelt), en dat voorzien is van een: 
 
@@ -1428,7 +1428,7 @@ b. bestaande uit: aansluitpunt(en), aanpassing van het elektrische systeem aan b
 
 a. bestemd voor: het leveren van walstroom aan schepen, niet zijnde pleziervaartuigen, zodat de eigen generatoren niet gebruikt worden als de schepen aan de kade liggen,  
 
-b. bestaande uit: een walstroomkast met één of meerdere aansluitpunten, (eventueel) een aan de walstroomkast gekoppeld betalingssysteem, (eventueel) een omvormer naar 60 Hertz en transformatorstation(s).    
+b. bestaande uit: een walstroomkast met één of meerdere aansluitpunten, (eventueel) een aan de walstroomkast gekoppeld betalingssysteem, (eventueel) een omvormer naar 60 Hertz en transformatorstation(s).   
 
 ####Mobiele werktuigen
 
@@ -1476,7 +1476,7 @@ a. bestemd voor: het plaatsen van funderingspalen door,
 
 b. bestaande uit: een emissiearm heiblok inclusief bijbehorend powerpack of een hydraulische boorstelling, inclusief boorkast en avegaarboor.   Toelichting: Voor informatie over emissies van de dieselverbrandingsmotor en bio-olie voor duurzaam gebruik zie onder 5 en 6 van paragraaf 1 van deze bijlage. Meer informatie over bio-olie is ook te vinden op www.biosmeermiddelen.nl.  *A 3460*   *Stofarme veeg(zuig)machine*  
 
-a. bestemd voor: het verrichten van onderhoudswerkzaamheden in de openbare ruimte of bedrijfsterreinen door een zelfrijdende veeg(zuig)machine, die is voorzien van een ontstoffingsinstallatie waardoor de uitgeblazen lucht van fijn stof wordt ontdaan waardoor de continue stofemissie niet meer bedraagt dan 5 milligram per nominaal kubieke meter gemeten conform UNI EN 13284-1:2003 en het verwijderingsrendement ten minste 90% voor PM <sub>2,5</sub> en ten minste 97% voor PM <sub>10</sub> bedraagt gemeten conform US-EPA Testmethode 201A,  
+a. bestemd voor: het verrichten van onderhoudswerkzaamheden in de openbare ruimte of bedrijfsterreinen door een zelfrijdende veeg(zuig)machine, die is voorzien van een ontstoffingsinstallatie waardoor de uitgeblazen lucht van fijn stof wordt ontdaan waardoor de continue stofemissie niet meer bedraagt dan 5 milligram per nominaal kubieke meter gemeten conform UNI EN 13284-1:2003 en het verwijderingsrendement ten minste 90% voor PM<sub>2,5</sub> en ten minste 97% voor PM<sub>10</sub> bedraagt gemeten conform US-EPA Testmethode 201A,  
 
 b. bestaande uit: een veeg(zuig)machine en (eventueel) een oplaadstation.    *C 3465*   *Vacuümtruck met dampverwerkingssysteem*  
 
@@ -1490,7 +1490,7 @@ a. bestemd voor: geluidarm heien of trillen van funderingspalen of damwandplanke
 
 2. 115 voor tril- of statische hei-apparatuur,    
 
-b. bestaande uit: hei- of trilapparatuur, exclusief hydrauliekaggregaat.   Toelichting: De meetmethode EN 996 A2: 2003 wordt naar verwachting in 2014 vervangen door meetmethode EN 16228.  
+b. bestaande uit: hei- of trilapparatuur, exclusief hydrauliekaggregaat.   Toelichting: De meetmethode EN 996 A2: 2003 wordt naar verwachting in 2014 vervangen door meetmethode EN 16228. 
 
 ####Spoorvervoer
 
@@ -1502,7 +1502,7 @@ b. bestaande uit: een locomotief.    *A 3590*   *Spoorwisselsegment zonder smer
 
 a. bestemd voor: het zonder smering laten functioneren van spoorwissels door oplichting van de tong door het spoorwisselsegment,  
 
-b. bestaande uit: metalen onderplaten, spoorwisselsegmenten en (eventueel) stempelveren.    
+b. bestaande uit: metalen onderplaten, spoorwisselsegmenten en (eventueel) stempelveren.   
 
 ####Vliegverkeer
 
@@ -1526,7 +1526,7 @@ a. bestemd voor: het terugbrengen van het brongeluidniveau van een licht propell
 | 1.325 tot 618  | 68 + (M-618)*12/707  |
 | 618 of minder  | 68  |
 
-b. bestaande uit: (eventueel) een geluiddemper op de uitlaat, (eventueel) een drie- of meerbladige propeller en (eventueel) aandrijfeenheden waarbij het maximum (start-) vermogen wordt bereikt bij een propellertoerental kleiner dan of gelijk aan 2.200 rpm.   Het bedrijfsmiddel, ingeval van een nieuw vliegtuig, komt voor ten hoogste € 37.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Toelichting: ICAO staat voor International Civil Aviation Organization, het ICAO-verdrag is het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109).  
+b. bestaande uit: (eventueel) een geluiddemper op de uitlaat, (eventueel) een drie- of meerbladige propeller en (eventueel) aandrijfeenheden waarbij het maximum (start-) vermogen wordt bereikt bij een propellertoerental kleiner dan of gelijk aan 2.200 rpm.   Het bedrijfsmiddel, ingeval van een nieuw vliegtuig, komt voor ten hoogste € 37.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Toelichting: ICAO staat voor International Civil Aviation Organization, het ICAO-verdrag is het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109). 
 
 ####Distributie van alternatieve brandstoffen
 
@@ -1554,13 +1554,13 @@ a. bestemd voor: het afleveren van aardgas als motorbrandstof voor voer- of vaar
 
 – onder aardgas ook wordt verstaan CNG, LNG en biogas dat tot aardgaskwaliteit of beter is opgewerkt,    
 
-b. bestaande uit: een afleverkast of -zuil, een compressor, een bufferopslag, (eventueel) een droger en (eventueel) een betaalsysteem, waarbij de compressor, (eventueel) een bufferopslag, droger en betaalsysteem alleen in aanmerking komen voor de milieu-investeringsaftrek voor zover deze worden gebruikt voor het opslaan, afleveren en betalen van aardgas.   Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen.  
+b. bestaande uit: een afleverkast of -zuil, een compressor, een bufferopslag, (eventueel) een droger en (eventueel) een betaalsysteem, waarbij de compressor, (eventueel) een bufferopslag, droger en betaalsysteem alleen in aanmerking komen voor de milieu-investeringsaftrek voor zover deze worden gebruikt voor het opslaan, afleveren en betalen van aardgas.   Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. 
 
 ####Klimaat en lucht
 
-*CO <sub>2</sub> -uitstoot, overige broeikasgassen, zure depositie, fijn stof, smog, vluchtige organische stoffen (VOS), geur*  
+*CO<sub>2</sub>-uitstoot, overige broeikasgassen, zure depositie, fijn stof, smog, vluchtige organische stoffen (VOS), geur*  
 
-####CO <sub>2</sub> -uitstoot
+####CO<sub>2</sub>-uitstoot
 
 *F 4110*   *Kleinschalige stoomreformer voor waterstofproductie*  
 
@@ -1568,7 +1568,7 @@ a. bestemd voor: de lokale productie van industrieel waterstof of waterstof voor
 
 1. de waterstof gemaakt wordt uit biogas of biobrandstof, of  
 
-2. de vrijkomende CO <sub>2</sub> nuttig wordt toegepast of wordt opgeslagen,    
+2. de vrijkomende CO<sub>2</sub> nuttig wordt toegepast of wordt opgeslagen,    
 
 b. bestaande uit: een reformer-reactor en een waterstofzuiveringseenheid.   Het bedrijfsmiddel komt voor ten hoogste € 500.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.  *F 4111*   *Noodstroomvoorziening met brandstofcelsysteem*  
 
@@ -1588,19 +1588,19 @@ a. bestemd voor: het verminderen van luchtzijdige emissies van een bestaande sto
 
 – de stookinstallatie is vóór 1 april 2010 in gebruik genomen, en  
 
-– de emissie van NO <sub>x</sub>, SO <sub>2</sub>, totaal stof of C <sub>x</sub> H <sub>y</sub> in de afgassen voldoet aan de emissiegrenswaarden gesteld in [paragraaf 3.2.1 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),    
+– de emissie van NO<sub>x</sub>, SO<sub>2</sub>, totaal stof of C<sub>x</sub>H<sub>y</sub> in de afgassen voldoet aan de emissiegrenswaarden gesteld in [paragraaf 3.2.1 van het Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md),    
 
 b. bestaande uit: emissiebeperkende nageschakelde techniek en (eventueel) aanpassing van een bestaande stookinstallatie.   Toelichting: Informatie over het [Activiteitenbesluit milieubeheer](../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is te vinden op www.infomil.nl. Onder het thermisch vermogen wordt het ingangsvermogen van de installatie verstaan. Technieken die emissies verder verminderen dan vereist is volgens het Activiteitenbesluit milieubeheer zijn te vinden in hoofdstuk 2, 3 en 4 van de Milieulijst, waarbij veelal een hoger financieel voordeel verkregen kan worden.  *A 4140*   *Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)*  
 
-a. bestemd voor: het verminderen van de emissie van CO <sub>2</sub> van een bestaande waterzuiveringsinstallatie door het vervangen van een conventionele nitrificatie-/denitrificatie-installatie door een bioreactor voor verwijdering van stikstof waarin nitrificatie en denitrificatie plaatsvindt zonder nitraatvorming,  
+a. bestemd voor: het verminderen van de emissie van CO<sub>2</sub> van een bestaande waterzuiveringsinstallatie door het vervangen van een conventionele nitrificatie-/denitrificatie-installatie door een bioreactor voor verwijdering van stikstof waarin nitrificatie en denitrificatie plaatsvindt zonder nitraatvorming,  
 
-b. bestaande uit: een bioreactor, een (lamellen)afscheider, een chemicaliëndosering, een compressor, een beluchtingsinstallatie, een menger, een koolstofbrondosering en (eventueel) een warmtewisselaar, exclusief de volgende onderdelen: voorzuiveringstechnieken en voorzieningen voor het beschermen van apparatuur tegen weersinvloeden.    
+b. bestaande uit: een bioreactor, een (lamellen)afscheider, een chemicaliëndosering, een compressor, een beluchtingsinstallatie, een menger, een koolstofbrondosering en (eventueel) een warmtewisselaar, exclusief de volgende onderdelen: voorzuiveringstechnieken en voorzieningen voor het beschermen van apparatuur tegen weersinvloeden.   
 
 ####Overige broeikasgassen
 
-*F 4210*   *SF <sub>6</sub> -vrij hoog- of middenspanningsschakelsysteem (vervanging)*  
+*F 4210*   *SF<sub>6</sub>-vrij hoog- of middenspanningsschakelsysteem (vervanging)*  
 
-a. bestemd voor: het doorschakelen van hoog- en middenspanning in een transformatorstation, waarbij bestaande SF <sub>6</sub> -bevattende schakelsystemen worden vervangen door gevacumeerde of gekoelde schakelsystemen die geen SF <sub>6</sub> bevatten,  
+a. bestemd voor: het doorschakelen van hoog- en middenspanning in een transformatorstation, waarbij bestaande SF<sub>6</sub>-bevattende schakelsystemen worden vervangen door gevacumeerde of gekoelde schakelsystemen die geen SF<sub>6</sub> bevatten,  
 
 b. bestaande uit: een vacuüm last- of vermogensschakelaar of een gekoelde last- of vermogensschakelaar.    *B 4211*   *Transformator met plantaardige olie*  
 
@@ -1608,17 +1608,17 @@ a. bestemd voor: het omzetten van hoogspanning naar laagspanning door een transf
 
 b. bestaande uit: een transformator.    *F 4220*   *Koolwaterstofemissiereducerende techniek (ten minste 75% vermindering)*  
 
-a. bestemd voor: het verminderen van de emissie van koolwaterstoffen uit de rookgassen van stationaire gas- of dieselmotoren, waarbij de koolwaterstofemissie met ten minste 75% wordt gereduceerd, en waarbij de emissie van koolwaterstoffen ten hoogste 1.200 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>) bedraagt,  
+a. bestemd voor: het verminderen van de emissie van koolwaterstoffen uit de rookgassen van stationaire gas- of dieselmotoren, waarbij de koolwaterstofemissie met ten minste 75% wordt gereduceerd, en waarbij de emissie van koolwaterstoffen ten hoogste 1.200 milligram per normaal kubieke meter (bij 3% O<sub>2</sub>) bedraagt,  
 
 b. bestaande uit: koolwaterstofemissiereducerende apparatuur of aanpassing van een bestaande motor en (eventueel) een roetfilter.    *A 4221*   *Koolwaterstofemissiereducerende techniek (ten minste 50% vermindering)*  
 
-a. bestemd voor: het verminderen van de emissie van koolwaterstoffen uit de rookgassen van stationaire gas- of dieselmotoren, waarbij de koolwaterstofemissie met ten minste 50% wordt gereduceerd, en waarbij de emissie van koolwaterstoffen ten hoogste 1.200 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>) bedraagt,  
+a. bestemd voor: het verminderen van de emissie van koolwaterstoffen uit de rookgassen van stationaire gas- of dieselmotoren, waarbij de koolwaterstofemissie met ten minste 50% wordt gereduceerd, en waarbij de emissie van koolwaterstoffen ten hoogste 1.200 milligram per normaal kubieke meter (bij 3% O<sub>2</sub>) bedraagt,  
 
-b. bestaande uit: koolwaterstofemissiereducerende apparatuur of aanpassing van een bestaande motor en (eventueel) een roetfilter.    *F 4230*   *Gesloten plasmareinigingssysteem op basis van NF <sub>3</sub> (vervanging)*  
+b. bestaande uit: koolwaterstofemissiereducerende apparatuur of aanpassing van een bestaande motor en (eventueel) een roetfilter.    *F 4230*   *Gesloten plasmareinigingssysteem op basis van NF<sub>3</sub> (vervanging)*  
 
-a. bestemd voor: het intern reinigen van procesapparatuur voor het produceren van halfgeleiders of zonnecellen met NF <sub>3</sub> in een gesloten systeem, ter vervanging van een bestaand reinigingsproces op basis van C <sub>2</sub> F <sub>6</sub>,  
+a. bestemd voor: het intern reinigen van procesapparatuur voor het produceren van halfgeleiders of zonnecellen met NF<sub>3</sub> in een gesloten systeem, ter vervanging van een bestaand reinigingsproces op basis van C<sub>2</sub>F<sub>6</sub>,  
 
-b. bestaande uit: een gesloten plasmareinigingssysteem.    
+b. bestaande uit: een gesloten plasmareinigingssysteem.   
 
 ####Zure depositie
 
@@ -1626,41 +1626,41 @@ b. bestaande uit: een gesloten plasmareinigingssysteem.
 
 a. bestemd voor: 
 
-1. het verwarmen van water met een houtgestookte ketel met een vermogen van minder dan 1 megaWatt, waarbij de emissie van onderscheidenlijk NO <sub>x</sub>, SO <sub>2</sub> en stof ten hoogste gelijk is aan de volgende emissiegrenswaarden (bij 6% O <sub>2</sub>): 
+1. het verwarmen van water met een houtgestookte ketel met een vermogen van minder dan 1 megaWatt, waarbij de emissie van onderscheidenlijk NO<sub>x</sub>, SO<sub>2</sub> en stof ten hoogste gelijk is aan de volgende emissiegrenswaarden (bij 6% O<sub>2</sub>): 
 
-– 300 milligram NO <sub>x</sub> per normaal kubieke meter,  
+– 300 milligram NO<sub>x</sub> per normaal kubieke meter,  
 
-– 200 milligram SO <sub>2</sub> per normaal kubieke meter, en  
+– 200 milligram SO<sub>2</sub> per normaal kubieke meter, en  
 
 – 40 milligram stof per normaal kubieke meter, of    
 
-2. het verwarmen van ruimtes met een houtgestookte kachel met een vermogen tot 50 kiloWatt in combinatie met een nageschakelde techniek om vaste en gasvormige verontreinigingen in de rookgassen te verwijderen, waarbij de emissie van stof ten hoogste 40 milligram per normaal kubieke meter (bij 13% O <sub>2</sub>) bedraagt,    
+2. het verwarmen van ruimtes met een houtgestookte kachel met een vermogen tot 50 kiloWatt in combinatie met een nageschakelde techniek om vaste en gasvormige verontreinigingen in de rookgassen te verwijderen, waarbij de emissie van stof ten hoogste 40 milligram per normaal kubieke meter (bij 13% O<sub>2</sub>) bedraagt,    
 
-b. bestaande uit: een houtgestookte ketel, (eventueel) een automatisch brandstofinvoersysteem en (eventueel) een nageschakelde luchtemissiebeperkende techniek.    *A 4310*   *Verwarmingsketel met geïntegreerde low-NO <sub>x</sub> -brander < 30 milligram per normaal kubieke meter*  
+b. bestaande uit: een houtgestookte ketel, (eventueel) een automatisch brandstofinvoersysteem en (eventueel) een nageschakelde luchtemissiebeperkende techniek.    *A 4310*   *Verwarmingsketel met geïntegreerde low-NO<sub>x</sub>-brander < 30 milligram per normaal kubieke meter*  
 
-a. bestemd voor: het verwarmen van water met een ketel met een geïntegreerde brander, waarbij de rookgassen niet meer dan 30 milligram NO <sub>x</sub> per normaal kubieke meter (bij 3% O <sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
+a. bestemd voor: het verwarmen van water met een ketel met een geïntegreerde brander, waarbij de rookgassen niet meer dan 30 milligram NO<sub>x</sub> per normaal kubieke meter (bij 3% O<sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
 
-b. bestaande uit: een ketel met een geïntegreerde brander.    *A 4311*   *Verwarmingsketel met low-NO <sub>x</sub> -voorzetbrander < 40 milligram per normaal kubieke meter*  
+b. bestaande uit: een ketel met een geïntegreerde brander.    *A 4311*   *Verwarmingsketel met low-NO<sub>x</sub>-voorzetbrander < 40 milligram per normaal kubieke meter*  
 
-a. bestemd voor: het verwarmen van water of het produceren van lagedrukstoom (ten hoogste 5 bar en ten hoogste 110 °C) met een combinatie van een ketel en een voorzetbrander, waarbij de rookgassen niet meer dan 40 milligram NO <sub>x</sub> per normaal kubieke meter (bij 3% O <sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
+a. bestemd voor: het verwarmen van water of het produceren van lagedrukstoom (ten hoogste 5 bar en ten hoogste 110 °C) met een combinatie van een ketel en een voorzetbrander, waarbij de rookgassen niet meer dan 40 milligram NO<sub>x</sub> per normaal kubieke meter (bij 3% O<sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
 
-b. bestaande uit: een voorzetbrander en een ketel.    *B 4312*   *Verwarmingsketel met low-NO <sub>x</sub> -brander voor stoom of thermische olie < 60 milligram per normaal kubieke meter*  
+b. bestaande uit: een voorzetbrander en een ketel.    *B 4312*   *Verwarmingsketel met low-NO<sub>x</sub>-brander voor stoom of thermische olie < 60 milligram per normaal kubieke meter*  
 
-a. bestemd voor: het produceren van hogedrukstoom (ten minste 5 bar) of het verwarmen van thermische olie met een combinatie van een ketel en een brander, waarbij de rookgassen niet meer dan 60 milligram NO <sub>x</sub> per normaal kubieke meter (bij 3% O <sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
+a. bestemd voor: het produceren van hogedrukstoom (ten minste 5 bar) of het verwarmen van thermische olie met een combinatie van een ketel en een brander, waarbij de rookgassen niet meer dan 60 milligram NO<sub>x</sub> per normaal kubieke meter (bij 3% O<sub>2</sub>) bevatten, gemeten volgens Scope 6 van de SCIOS-certificatieregeling, uitgave oktober 2009, waarbij géén correctie van de meetwaarden voor de meetonzekerheid wordt toegepast,  
 
 b. bestaande uit: een brander en een ketel.    *A 4315*   *Selectieve katalytische reductie-installatie (SCR)*  
 
 a. bestemd voor: het door chemische reductie omzetten van stikstofoxiden in afgassen van de onderstaande installaties: 
 
-1. een industriële proces- of verbrandingsinstallatie, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
+1. een industriële proces- of verbrandingsinstallatie, waardoor de NO<sub>x</sub>-emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O<sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
 
-2. motoren van een zeeschip waarbij een NO <sub>x</sub> -verwijderingsrendement van ten minste 85% wordt bereikt, of  
+2. motoren van een zeeschip waarbij een NO<sub>x</sub>-verwijderingsrendement van ten minste 85% wordt bereikt, of  
 
-3. een industriële proces- of verbrandingsinstallatie op de BES-eilanden, Curaçao, Sint Maarten of Aruba, waarbij een NO <sub>x</sub> -verwijderingsrendement van ten minste 85% wordt bereikt,    
+3. een industriële proces- of verbrandingsinstallatie op de BES-eilanden, Curaçao, Sint Maarten of Aruba, waarbij een NO<sub>x</sub>-verwijderingsrendement van ten minste 85% wordt bereikt,    
 
 b. bestaande uit: een katalysator en een ammoniak- of ureuminjectiesysteem.   Toelichting: Een Stoom- en Gasturbine (STEG) wordt gezien als een verbrandingsinstallatie en kan onder dit bedrijfsmiddel worden gemeld. Een SCR-installatie op een binnenvaartschip kan worden gemeld onder F 3360.  *A 4316*   *Selectieve non-katalytische reductie-installatie (SNCR)*  
 
-a. bestemd voor: het omzetten van NO <sub>x</sub> in afgassen van installaties met injectie van ureum of ammoniak door een reductie-installatie met een NO <sub>x</sub> -verwijderingsrendement van ten minste 85%, waardoor de NO <sub>x</sub> -emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O <sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
+a. bestemd voor: het omzetten van NO<sub>x</sub> in afgassen van installaties met injectie van ureum of ammoniak door een reductie-installatie met een NO<sub>x</sub>-verwijderingsrendement van ten minste 85%, waardoor de NO<sub>x</sub>-emissie lager is dan 50 milligram per normaal kubieke meter (bij 3% O<sub>2</sub>), gemeten volgens de [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A](../../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md),  
 
 b. bestaande uit: een ammoniak- of ureuminjectiesysteem.    *F 4320*   *Gaswasser voor een aluminiumsmelterij*  
 
@@ -1670,7 +1670,7 @@ b. bestaande uit: een gaswasser.    *F 4325*   *Ontzwavelingsinstallatie*
 
 a. bestemd voor: het ontzwavelen van afgassen die niet afkomstig zijn van afval- of slibverbrandingsinstallaties, raffinaderijen of petrochemische installaties, door een installatie met een zwavelverwijderingsrendement van ten minste 95%, waarbij elementair zwavel of zwavelverbindingen als zwavelzuur of zwaveligzuur worden gevormd en nuttig worden toegepast,  
 
-b. bestaande uit: (eventueel) wastorens, (eventueel) een concentratieverhogingsstap of indikker, (eventueel) reactoren, (eventueel) een membraaninstallatie, (eventueel) een neutralisatie-installatie, (eventueel) een oxidatiereactor, (eventueel) een chemicaliëndosering en (eventueel) een condensatie-eenheid, waarbij apparatuur voor de productie of nuttige toepassing van zwavel of zwavelverbindingen niet in aanmerking komt voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.    
+b. bestaande uit: (eventueel) wastorens, (eventueel) een concentratieverhogingsstap of indikker, (eventueel) reactoren, (eventueel) een membraaninstallatie, (eventueel) een neutralisatie-installatie, (eventueel) een oxidatiereactor, (eventueel) een chemicaliëndosering en (eventueel) een condensatie-eenheid, waarbij apparatuur voor de productie of nuttige toepassing van zwavel of zwavelverbindingen niet in aanmerking komt voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.   
 
 ####Fijn stof
 
@@ -1690,7 +1690,7 @@ a. bestemd voor: het met ten minste 80% verminderen van het ontstaan van stof, a
 
 b. bestaande uit: (aanpassing van) apparatuur die noodzakelijk is om het ontstaan van stof te beperken of te voorkomen, exclusief end-of-pipe-technieken en exclusief investeringen in uitbreiding van de productiecapaciteit.   Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over generieke bedrijfsmiddelen en de bijbehorende meerkostenberekening, bedoeld onder punt 7 van paragraaf 1 van deze bijlage, is te vinden op: www.agentschapnl.nl/miavamil onder ‘Onderwerpen toegelicht’ en vervolgens ‘Generieke bedrijfsmiddelen’. Het advies luidt voorafgaand aan een melding de MIA/Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder een investering kan voldoen, worden desgewenst schriftelijk bevestigd. De aanpassing of vervanging van het productieproces voorkomt dat stof of een groot deel daarvan ontstaat tijdens tussenstappen of aan het eind van het proces.  *A 4415*   *Lasergraveersysteem voor natuursteen*  
 
-a. bestemd voor: het stofvrij aanbrengen van afbeeldingen en tekst op natuursteen met een CO <sub>2</sub> -laserstraal,  
+a. bestemd voor: het stofvrij aanbrengen van afbeeldingen en tekst op natuursteen met een CO<sub>2</sub>-laserstraal,  
 
 b. bestaande uit: een lasergraveerinstallatie, een besturingssysteem en een afzuiginstallatie.    *B 4416*   *Platenkoeler, -droger of -warmtewisselaar voor indirect halogeenvrij koelen, drogen of verwarmen in de kunstmest- en voedingsmiddelenindustrie*  
 
@@ -1740,7 +1740,7 @@ a. bestemd voor: het verwijderen van stofdeeltjes uit een afgas- of luchtstroom,
 
 – de reststofemissie naar de buitenlucht niet meer bedraagt dan 4 milligram stof per normaal kubieke meter,  
 
-– aangetoond wordt dat scheidingsrendementen worden behaald van ten minste 99% voor PM <sub>10</sub> en ten minste 70% voor PM <sub>2,5</sub>,  
+– aangetoond wordt dat scheidingsrendementen worden behaald van ten minste 99% voor PM<sub>10</sub> en ten minste 70% voor PM<sub>2,5</sub>,  
 
 – de vermindering van de reststofemissie gerealiseerd wordt ten opzichte van de bestaande situatie, en  
 
@@ -1758,7 +1758,7 @@ b. bestaande uit: een filtrerende stofafscheider, een ventilator en (eventueel) 
 
 a. bestemd voor: het verwijderen van stofdeeltjes en schadelijke gassen uit de afgassen van een sinterfabriek, waarbij gebruik wordt gemaakt van ten minste twee afzonderlijke scheidingssystemen, waaronder een filtrerende afscheider, waardoor de stofemissie naar de buitenlucht ten hoogste 5 milligram stof per normaal kubieke meter bedraagt,  
 
-b. bestaande uit: een meertraps-ontstoffingsinstallatie, (eventueel) een doseerinstallatie, (eventueel) een reactor en (eventueel) een wastoren.    
+b. bestaande uit: een meertraps-ontstoffingsinstallatie, (eventueel) een doseerinstallatie, (eventueel) een reactor en (eventueel) een wastoren.   
 
 ####Vluchtige organische stoffen (VOS)
 
@@ -1790,7 +1790,7 @@ b. bestaande uit: een gesloten reinigingsinstallatie.    *D 4531*   *Reinigings
 
 a. bestemd voor: het ontvetten en reinigen van metalen (half-)producten door een installatie waarin uitsluitend reinigingsmiddelen zonder vluchtige organische oplosmiddelen worden gebruikt, en waarbij het gebruikte reinigingsmiddel wordt gerecycled,  
 
-b. bestaande uit: een ontvettings- en reinigingsinstallatie, pompen, (eventueel) een verwarmingssysteem, (eventueel) een drooginstallatie en (eventueel) een water- of badreinigingsinstallatie, exclusief eventuele beitsinstallaties.   Toelichting: Ook poederontvetting of reiniging met superkritisch CO <sub>2</sub> komen in aanmerking voor de milieu-investeringsaftrek.  *A 4550*   *Druktorens voor waterloze offset*  
+b. bestaande uit: een ontvettings- en reinigingsinstallatie, pompen, (eventueel) een verwarmingssysteem, (eventueel) een drooginstallatie en (eventueel) een water- of badreinigingsinstallatie, exclusief eventuele beitsinstallaties.   Toelichting: Ook poederontvetting of reiniging met superkritisch CO<sub>2</sub> komen in aanmerking voor de milieu-investeringsaftrek.  *A 4550*   *Druktorens voor waterloze offset*  
 
 a. bestemd voor: het bedrukken van materiaal zoals papier, karton, textiel of kunststof door een offsetdrukmachine die waterloze inkten verbruikt,  
 
@@ -1798,11 +1798,11 @@ b. bestaande uit: druktorens en (eventueel) een droogeenheid.    *A 4551*   *Dr
 
 a. bestemd voor: het in twee opeenvolgende processtappen verwijderen van inkt en het strippen van zeefdruksjablonen in een gesloten systeem zonder gebruik te maken van vluchtige organische reinigingsmiddelen,  
 
-b. bestaande uit: een inktverwijderingseenheid, een stripeenheid en een rondpompsysteem, waarbij apparatuur voor het reinigen van persrollen niet in aanmerking komt voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.    *F 4570*   *Textielreinigingssysteem met CO <sub>2</sub>*  
+b. bestaande uit: een inktverwijderingseenheid, een stripeenheid en een rondpompsysteem, waarbij apparatuur voor het reinigen van persrollen niet in aanmerking komt voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.    *F 4570*   *Textielreinigingssysteem met CO<sub>2</sub> *  
 
-a. bestemd voor: het reinigen van textiel met CO <sub>2</sub>,  
+a. bestemd voor: het reinigen van textiel met CO<sub>2</sub>,  
 
-b. bestaande uit: een reinigingsinstallatie, een toevoereenheid, een mengsysteem, een pomp en een opslagsysteem voor CO <sub>2</sub>.    *G 4571*   *Natreinigingssysteem*  
+b. bestaande uit: een reinigingsinstallatie, een toevoereenheid, een mengsysteem, een pomp en een opslagsysteem voor CO<sub>2</sub>.    *G 4571*   *Natreinigingssysteem*  
 
 a. bestemd voor: het reinigen van bovenkleding door een nat proces op basis van water in plaats van perchloorethyleen, waarbij de gereinigde bovenkleding met een gasgestookte roterende droger wordt gedroogd,  
 
@@ -1826,7 +1826,7 @@ a. bestemd voor: het naverbranden van vluchtige organische stoffen of aromatisch
 
 – het afgas niet direct in contact staat met de open vlam van de brander(s),  
 
-– de NO <sub>x</sub> -emissie niet meer bedraagt dan 10 milligram per nominaal kubieke meter (bij 11% O <sub>2</sub>), en  
+– de NO<sub>x</sub>-emissie niet meer bedraagt dan 10 milligram per nominaal kubieke meter (bij 11% O<sub>2</sub>), en  
 
 – het netto energieverbruik niet meer bedraagt dan 75 kilojoule per nominaal kubieke meter afgas,    
 
@@ -1842,7 +1842,7 @@ a. bestemd voor: het verwijderen van
 
 2. zware metalen uit afgassen door adsorptie, gevolgd door regeneratie van het adsorptiemiddel en terugwinning van de metalen,    
 
-b. bestaande uit: een adsorber en een regeneratie-eenheid.    
+b. bestaande uit: een adsorber en een regeneratie-eenheid.   
 
 ####Overige luchtverontreiniging
 
@@ -1874,7 +1874,7 @@ b. bestaande uit: biomassa op dragermateriaal, een tank, (eventueel) een ventila
 
 a. bestemd voor: het biologisch reinigen van lucht of het gelijktijdig in één reactor biologisch reinigen van lucht en afvalwater, niet afkomstig van afval- of slibverwerkingsinstallaties, waarbij het verwijderingsrendement voor geurstoffen in de lucht ten minste 90% bedraagt,  
 
-b. bestaande uit: een oxidatiebed.    
+b. bestaande uit: een oxidatiebed.   
 
 ####Ruimtegebruik
 
@@ -1918,7 +1918,7 @@ b. bestaande uit: een filtersysteem, (eventueel) apparatuur voor het opwekken va
 
 a. bestemd voor: het met een mobiel werktuig verwijderen en verwerken van (resten van) eikenprocessierupsen door opzuiging van de rupsen direct gevolgd door vernietiging ter plaatse in een oven,  
 
-b. bestaande uit: een zuigeenheid, een toevoersysteem, een oven, een brander en een rookgasbehandeling.    
+b. bestaande uit: een zuigeenheid, een toevoersysteem, een oven, een brander en een rookgasbehandeling.   
 
 ####Oppervlaktewater
 
@@ -1948,7 +1948,7 @@ b. bestaande uit: een onkruidbestrijdingmachine met onkruidsensoren, spuitdoppen
 
 a. bestemd voor: het bestrijden van onkruid op (half-)verhardingen of spoorbanen met water met een temperatuur van ten minste 95°C door een machine die uitgerust is met een warmtewisselaar,  
 
-b. bestaande uit: een onkruidbestrijdingmachine met heet water systeem, warmtewisselaar voor het koken van het water, roetfilter, brander, ketels, spuitdoppen, een computer, een regeleenheid, besturing van de spuitboom en buffervaten.    
+b. bestaande uit: een onkruidbestrijdingmachine met heet water systeem, warmtewisselaar voor het koken van het water, roetfilter, brander, ketels, spuitdoppen, een computer, een regeleenheid, besturing van de spuitboom en buffervaten.   
 
 ####Bodem en grondwater
 
@@ -2004,7 +2004,7 @@ b. bestaande uit: injectie- of doseerapparatuur, injectie- en onttrekkingsfilter
 
 a. bestemd voor: het ondergronds beheersen van verontreiniging van bodem of grondwater, waarbij de verontreiniging door een in de bodem aangelegd reactief scherm wordt geleid en hierin wordt afgebroken of vastgelegd,  
 
-b. bestaande uit: reactief materiaal of infiltratiefilters, een poort, (eventueel) een impermeabele wand en (eventueel) een elektronische monitorings- en regeleenheid.    
+b. bestaande uit: reactief materiaal of infiltratiefilters, een poort, (eventueel) een impermeabele wand en (eventueel) een elektronische monitorings- en regeleenheid.   
 
 ####Gevaarlijke stoffen
 
@@ -2032,7 +2032,7 @@ b. bestaande uit: laad- en losvoorzieningen en (eventueel) kadefaciliteiten die 
 
 a. bestemd voor: het voorkomen van het in de buitenlucht komen van incidentele emissies van toxische gassen uit een chemische procesinstallatie of een verladingsinstallatie, voor zover de tweede omhulling niet wettelijk verplicht is. De uitsluitend daartoe bestemde constructie is in overeenstemming met de eisen betreffende arbeidsveiligheid, externe veiligheid en rampenbestrijding, wat blijkt uit een verklaring opgesteld door een onafhankelijke deskundige dan wel het bevoegde gezag,  
 
-b. bestaande uit: een constructie die als een tweede omhulling de proces- of verladingsinstallatie omsluit zodanig dat er geen toxisch gas naar buiten kan treden, exclusief de gasopvang- en neutralisatie-installatie.    
+b. bestaande uit: een constructie die als een tweede omhulling de proces- of verladingsinstallatie omsluit zodanig dat er geen toxisch gas naar buiten kan treden, exclusief de gasopvang- en neutralisatie-installatie.   
 
 ####Bebouwde omgeving
 
@@ -2114,7 +2114,7 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 6. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6120.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Alleen gebouwen waarvan de totale BVO minder is dan 5.000 m <sup>2</sup> kunnen gebruik maken van bovenstaande code. Informatie over GPR Gebouw 4.2 kan worden gevonden op www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  *A 6121*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor F 6120.   Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Alleen gebouwen waarvan de totale BVO minder is dan 5.000 m<sup>2</sup> kunnen gebruik maken van bovenstaande code. Informatie over GPR Gebouw 4.2 kan worden gevonden op www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  *A 6121*   *Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.2*  
 
 a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals genoemd in [tabel 5.1 van het Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw, niet zijnde een stal, een kas of een datacenter, waarvan is vastgesteld dat het voldoet aan de volgende eisen: 
 
@@ -2188,7 +2188,7 @@ a. bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties zoals 
 
 5. er is slechts sprake van renovatie van een bestaand gebouw indien de fundering en bouwconstructie conform het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) gehandhaafd blijven,    
 
-b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor C 6129.   Het bedrijfsmiddel komt voor ten hoogste € 5.000.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over Slimbouwen kan worden gevonden op www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl.  
+b. bestaande uit: een nieuw utiliteitsgebouw of de voor renovatie noodzakelijke apparatuur, bouwkundige werken en gebouwgebonden installaties om te voldoen aan bovengenoemde eisen. Interieur- en inrichtingskosten, kosten voor grond en kosten voor sloop en aanschaf van een bestaand gebouw, komen niet in aanmerking voor C 6129.   Het bedrijfsmiddel komt voor ten hoogste € 5.000.000 van het investeringsbedrag in aanmerking voor willekeurige afschrijving milieu-investeringen. Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de codes genoemd onder E 6110 tot en met C 6129 worden gemeld. Toelichting: Informatie over Slimbouwen kan worden gevonden op www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is te vinden op www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is te vinden op www.keurhout.nl. Het [Bouwbesluit 2012](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is te raadplegen via www.wetten.nl. 
 
 ####Materiaalgebruik
 
@@ -2226,7 +2226,7 @@ b. bestaande uit: geluidarme technieken en isolatiemateriaal, exclusief (aanpass
 
 a. bestemd voor: het voorkomen van emissie van asbest door erosie van bestaand asbest aan gebouwen door vervanging van asbesthoudende daken, dakgoten of gevels waarbij aantoonbaar sprake is van gecertificeerde verwijdering en gescheiden afvoer van het asbesthoudende materiaal,  
 
-b. bestaande uit: demontage van asbesthoudende dakplaten, dakgoten of gevelplaten, aanschaf en montage van nieuwe asbestvrije dakplaten, dakgoten of gevelplaten, exclusief de afvoer- en stortkosten van het asbestafval.   Het bedrijfsmiddel komt voor ten hoogste € 30 per vierkante meter vervangen dakplaat, € 30 per strekkende meter vervangen dakgoot en € 15 per vierkante meter vervangen gevelplaat in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.  
+b. bestaande uit: demontage van asbesthoudende dakplaten, dakgoten of gevelplaten, aanschaf en montage van nieuwe asbestvrije dakplaten, dakgoten of gevelplaten, exclusief de afvoer- en stortkosten van het asbestafval.   Het bedrijfsmiddel komt voor ten hoogste € 30 per vierkante meter vervangen dakplaat, € 30 per strekkende meter vervangen dakgoot en € 15 per vierkante meter vervangen gevelplaat in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. 
 
 ####Installaties en civiele voorzieningen
 
@@ -2306,5 +2306,5 @@ b. bestaande uit: een toilet met urinescheiding, een inpandig urineafvoersysteem
 
 a. zijnde: een sportveld voorzien van een onderlaag van geperforeerde containers voor het bufferen, infiltreren en eventueel gebruiken van regenwater, zodanig dat het gehele sportveld verplaatsbaar is,  
 
-b. bestaande uit: een geperforeerde container, geotextiel, een rubberen tussenlaag en (eventueel) kunstgraslaag.    
+b. bestaande uit: een geperforeerde container, geotextiel, een rubberen tussenlaag en (eventueel) kunstgraslaag.   
 
