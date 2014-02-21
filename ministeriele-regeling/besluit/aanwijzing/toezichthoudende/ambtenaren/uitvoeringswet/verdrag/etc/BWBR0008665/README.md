@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Economische Zaken,  
 Gelet op [artikel 9, eerste lid, van de Uitvoeringswet verdrag chemische wapens](../../../../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthoudende ambtenaren Uitvoeringswet verdrag chemische wapens.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthoudende ambtenaren Uitvoeringswet verdrag chemische wapens. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -24,4 +24,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Economische Zaken, 
-A. vanDok-Van Weele    
+A. van  Dok-Van Weele      
