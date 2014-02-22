@@ -73,7 +73,7 @@ De verdeling over de provincies en gemeenten van het voor de algemene uitkeringe
 ### *Tabel A Kenmerken en onderscheidingen van de verdeelmaatstaven voor het provinciefonds* 
 
 | Kenmerk  | Onderscheidingen  |
-|:---|:---|
+|---|---|
 | a Belastingcapaciteit van de provincies ter zake van de motorrijtuigenbelasting  | --- |
 | b De inwoners van de provincies  | Bevolkingsdichtheid  |
 | c Het grondgebied van de provincies  | Oppervlakte  |
@@ -84,7 +84,7 @@ De verdeling over de provincies en gemeenten van het voor de algemene uitkeringe
 ### *Tabel B Kenmerken en onderscheidingen van de verdeelmaatstaven voor het gemeentefonds* 
 
 | Kenmerk  | Onderscheidingen  |
-|:---|:---|
+|---|---|
 | a Belastingcapaciteit van de gemeenten ter zake van de onroerende-zaakbelastingen  | Belastingcapaciteit ter zake van woningen  |
 | --- | Belastingcapaciteit ter zake van niet-woningen  |
 | b De inwoners van de gemeenten  | Leeftijd  |
@@ -106,14 +106,14 @@ De verdeling over de provincies en gemeenten van het voor de algemene uitkeringe
 | --- | Vast bedrag voor alle gemeenten  |
 | f Tijdelijke ondersteuning van gemeenten in verband met herindeling  | --- |
 
-2.  De belastingcapaciteit ter zake van woningen, bedoeld in tabel B onder a , wordt slechts voor 80% in de verdeelmaatstaf betrokken. De belastingcapaciteit ter zake van niet-woningen wordt slechts voor 70% in de verdeelmaatstaf betrokken.   
+2.  De belastingcapaciteit ter zake van woningen, bedoeld in tabel B onder a, wordt slechts voor 80% in de verdeelmaatstaf betrokken. De belastingcapaciteit ter zake van niet-woningen wordt slechts voor 70% in de verdeelmaatstaf betrokken.   
 3.  Bij algemene maatregel van bestuur wordt bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens de maatregel kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.   
 4.  Een krachtens het derde lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
 
 ### Artikel  9  
 
 1.  Ten behoeve van de verdeling stellen Onze Ministers over ieder uitkeringsjaar bedragen per eenheid vast die behoren bij de verdeelmaatstaven.   
-2.  Op de voorbereiding van de vaststelling is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+2.  Op de voorbereiding van de vaststelling is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Artikel  10  
 
@@ -182,16 +182,16 @@ De uitkeringen, bedoeld in artikel 5, derde lid, worden vastgesteld door Onze Mi
 ### Artikel  16a  
 
 1.  Een verzameluitkering is een specifieke uitkering aan provincies en gemeenten per ministerie waarin bedragen voor beleidsthema’s zijn opgenomen.   
-2.  Bedragen ten behoeve van een verzameluitkering worden opgenomen in het begrotingsartikel, genoemd in [artikel 6, eerste lid, onder a, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
-3.  Een begroting als bedoeld in [artikel 1, onderdelen a en b, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) bevat niet meer dan één verzameluitkering.   
+2.  Bedragen ten behoeve van een verzameluitkering worden opgenomen in het begrotingsartikel, genoemd in artikel 6, eerste lid, onder a, van de Comptabiliteitswet 2001.   
+3.  Een begroting als bedoeld in artikel 1, onderdelen a en b, van de Comptabiliteitswet 2001 bevat niet meer dan één verzameluitkering.   
 4.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de verstrekking, de verlening, de vaststelling en de terugvordering van de verzameluitkeringen. Bij de verstrekking van een verzameluitkering wordt vermeld ter zake van welke beleidsthema’s de uitkering wordt verstrekt, en wat de verdeling is per beleidsthema.   
 5.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij ministeriële regeling nadere regels stellen over de verstrekking, de verlening, waaronder de bevoorschotting, de vaststelling en de terugvordering van de verzameluitkeringen.   
-6.  De verzameluitkering wordt besteed binnen de doelstellingen van het ministerie, bedoeld in [artikel 5, eerste lid, onder a, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). De informatie ten behoeve van de verantwoording betreft het totaal bestede bedrag per verzameluitkering.   
+6.  De verzameluitkering wordt besteed binnen de doelstellingen van het ministerie, bedoeld in artikel 5, eerste lid, onder a, van de Comptabiliteitswet 2001. De informatie ten behoeve van de verantwoording betreft het totaal bestede bedrag per verzameluitkering.   
 
 ### Artikel  17  
 
 1.  Specifieke uitkeringen worden geregeld bij of krachtens de wet.   
-2.  Het eerste lid is niet van toepassing in de gevallen, bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat in de gevallen, bedoeld in [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de specifieke uitkering wordt geregeld bij ministeriële regeling.   
+2.  Het eerste lid is niet van toepassing in de gevallen, bedoeld in artikel 4:23, derde lid, van de Algemene wet bestuursrecht, met dien verstande dat in de gevallen, bedoeld in artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht de specifieke uitkering wordt geregeld bij ministeriële regeling.   
 3.  Tijdelijke specifieke uitkeringen kunnen worden geregeld bij algemene maatregel van bestuur. Krachtens de maatregel kan de verdeling van de uitkering nader worden bepaald.   
 4.  Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt vier jaren nadat hij in werking is getreden, tenzij voor dat tijdstip een voorstel van wet bij de Staten-Generaal is ingediend waarin de specifieke uitkering wordt geregeld.   
 5.  Eenmalige specifieke uitkeringen kunnen worden geregeld bij ministeriële regeling.   
@@ -200,20 +200,22 @@ De uitkeringen, bedoeld in artikel 5, derde lid, worden vastgesteld door Onze Mi
 
 1.  Gedeputeerde staten en het college van burgemeester en wethouders zenden de informatie ten behoeve van de verantwoording over de uitvoering van de regeling van een specifieke uitkering uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in de vorm van: 
 
-a. de jaarrekening en het jaarverslag, bedoeld in [artikel 202, eerste lid, van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md), onderscheidenlijk [artikel 198, eerste lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), en  
+a. de jaarrekening en het jaarverslag, bedoeld in artikel 202, eerste lid, van de Provinciewet, onderscheidenlijk artikel 198, eerste lid, van de Gemeentewet, en  
 
-b. de accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 217, derde en vierde lid, van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md), onderscheidenlijk [artikel 213, derde en vierde lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md).     
+b. de accountantsverklaring en het verslag van bevindingen, bedoeld in artikel 217, derde en vierde lid, van de Provinciewet, onderscheidenlijk artikel 213, derde en vierde lid, van de Gemeentewet.     
 2.  Indien provincies en gemeenten van elkaar middelen ontvangen die afkomstig zijn uit een specifieke uitkering, verstrekken zij de informatie, bedoeld in het eerste lid, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij ministeriële regeling nadere regels over het verstrekken van de in het eerste lid bedoelde informatie.   
 4.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties brengt de informatie betreffende de specifieke uitkeringen onverwijld ter kennis van Onze Ministers en de bestuursorganen wie het aangaat.   
-5.  Gedeputeerde staten en het college van burgemeester en wethouders verstrekken desgevraagd inlichtingen over de besteding van een specifieke uitkering aan de door Onze Minister wie het aangaat daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md). De ambtenaren van de accountantsdienst kunnen tevens informatie inwinnen bij de in [artikel 217, tweede lid, van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) onderscheidenlijk [artikel 213, tweede lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde accountants.   
+5.  Gedeputeerde staten en het college van burgemeester en wethouders verstrekken desgevraagd inlichtingen over de besteding van een specifieke uitkering aan de door Onze Minister wie het aangaat daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001. De ambtenaren van de accountantsdienst kunnen tevens informatie inwinnen bij de in artikel 217, tweede lid, van de Provinciewet onderscheidenlijk artikel 213, tweede lid, van de Gemeentewet bedoelde accountants.   
 6.  Dit artikel is niet van toepassing: 
 
-a. indien de voorwaarden aan de EG-subsidies als bedoeld in artikel 1, onderdeel b, van de Wet toezicht Europese subsidies anders verplichten, voor zover die subsidies door tussenkomst van ’s Rijks kas worden verstrekt;  
+a. indien de voorwaarden inzake het verstrekken van een Europese subsidie als bedoeld in artikel 1, onderdeel f, van de Wet Naleving Europese regelgeving publieke entiteiten anders verplichten, voor zover die subsidies worden verstrekt door tussenkomst van ’s Rijks kas;  
 
 b. indien de specifieke uitkering is verstrekt aan een gemeente in de hoedanigheid van bevoegd gezag van een openbare school;  
 
-c. op het investeringsbudget, bedoeld in de Wet inrichting landelijk gebied.     
+c. op het investeringsbudget, bedoeld in de Wet inrichting landelijk gebied;  
+
+d. op cofinanciering door het Rijk als bedoeld in artikel 1, onderdeel g, van de Uitvoeringswet EFRO.     
 
 ### Artikel  17b  
 
@@ -231,11 +233,11 @@ b. de informatie, bedoeld in artikel 17a, eerste lid, na het verstrijken van de 
 ### Artikel  18  
 
 1.  Over een voorstel tot regeling van een specifieke uitkering, niet zijnde een verzameluitkering als bedoeld in artikel 16a, vindt tijdig overleg plaats met Onze Ministers.   
-2.  Onze Ministers wie het aangaat melden zo nodig ter voorbereiding van de indiening van de ontwerp-begrotingen en de wijzigingen, bedoeld in [artikel 15, eerste tot en met derde lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), aan Onze Ministers welke beleidsthema’s door middel van een verzameluitkering worden bekostigd.   
+2.  Onze Ministers wie het aangaat melden zo nodig ter voorbereiding van de indiening van de ontwerp-begrotingen en de wijzigingen, bedoeld in artikel 15, eerste tot en met derde lid, van de Comptabiliteitswet 2001, aan Onze Ministers welke beleidsthema’s door middel van een verzameluitkering worden bekostigd.   
 
 ### Artikel  19  
 
-1.  De [artikelen 117, eerste lid, van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) en [119, eerste lid, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in artikel 17, derde en vijfde lid.   
+1.  De artikelen 117, eerste lid, van de Provinciewet en 119, eerste lid, van de Gemeentewet zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in artikel 17, derde en vijfde lid.   
 2.  Onze Minister wie het aangaat kan ten behoeve van de uitvoering van zijn beleid beleidsinformatie aan de ontvangers van bijdragen uit een verzameluitkering vragen: 
 
 a. voor een meerjarige periode, van alle ontvangers of een selectie van de ontvangers;  
@@ -243,7 +245,7 @@ a. voor een meerjarige periode, van alle ontvangers of een selectie van de ontva
 b. jaarlijks van een selectie van de ontvangers of  
 
 c. na afloop van de looptijd van de regeling op grond waarvan de bijdrage voor het betreffende beleidsthema in de verzameluitkering is opgenomen van alle ontvangers of een selectie van de ontvangers.     
-3.  Over de beleidsinformatie, bedoeld in het tweede lid, wordt geen verklaring of verslag van bevindingen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) overgelegd.   
+3.  Over de beleidsinformatie, bedoeld in het tweede lid, wordt geen verklaring of verslag van bevindingen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek overgelegd.   
 
 ### Artikel  20  
 

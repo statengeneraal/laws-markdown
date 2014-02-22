@@ -29,7 +29,15 @@ d. NEN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm;
 
 e. hydraulische eenheid: een hydraulisch verbonden poriënruimte waar drukdoorgave met technische middelen kan worden gemeten en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels, lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;  
 
-f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.    
+f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad;  
+
+g. ETRS89 systeem: European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323);  
+
+h. EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);  
+
+i. EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L353);  
+
+j. biocidenverordening: verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU 2012, L 167).    
 
 ### Artikel  1.1.2  
 
@@ -41,7 +49,7 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 ### Artikel  1.2.1  
 
-1.  Aanvragen om vergunningen, ontheffingen of andere besluiten bij of krachtens de wet en aanvragen om wijziging daarvan, worden in tweevoud ingediend bij de minister, tenzij in dit hoofdstuk anders is bepaald.   
+1.  Aanvragen om vergunningen, ontheffingen of andere besluiten bij of krachtens de wet en aanvragen om wijziging daarvan, worden ingediend bij de minister, tenzij in dit hoofdstuk anders is bepaald. De aanvraag kan langs elektronische weg als bedoeld in artikel 2:15 van de Algemene wet bestuursrecht worden ingediend.   
 2.  De bij de aanvraag behorende stukken worden door of namens de aanvrager gekenmerkt als behorende tot de aanvraag.   
 3.  Indien de aanvrager gegevens eerder heeft verstrekt, of indien gegevens reeds op andere wijze in bezit zijn van de minister, kan daar naar worden verwezen, tenzij deze gegevens gewijzigd zijn.   
 4.  Op verzoek van de minister worden, in aanvulling op de gegevens die in dit hoofdstuk worden vermeld, tevens andere gegevens verstrekt of ter inzage gegeven, indien dat voor beoordeling van de aanvraag van belang is.   
@@ -52,7 +60,7 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 a. het coördinatenstelsel van de Rijksdriehoeksmeting, indien de plaats, het traject of het gebied zich aan de landzijde van de in de bijlage bij de wet vastgelegde lijn bevindt, en  
 
-b. geografische coördinaten, berekend volgens het stelsel van de Europese vereffening, indien de plaats, het traject of het gebied zich aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn bevindt.     
+b. geografische coördinaten, berekend volgens het ETRS89 systeem, indien de plaats, het traject of het gebied zich aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn bevindt.     
 2.  Van een gebied wordt het oppervlak vermeld, uitgedrukt in km2.   
 3.  Een plaats of een traject wordt, onder vermelding van de coördinaten daarvan, aangegeven op een kaart.   
 4.  De ligging van een gebied wordt, onder vermelding van de coördinaten van de hoekpunten daarvan, aangegeven op een kaart.   
@@ -342,7 +350,9 @@ e. gedeputeerde staten van de provincie, waarin het mijnbouwwerk is gelegen;
 
 f. de inspecteur-generaal der mijnen;  
 
-g. de hoofdingenieur-directeur van de betrokken regionale directie van Rijkswaterstaat.    
+g. de hoofdingenieur-directeur van de betrokken regionale directie van Rijkswaterstaat;  
+
+h. de directeur Kustwacht, indien het mijnbouwwerk in de territoriale zee is gelegen.    
 
 ### Artikel  1.4.7  
 
@@ -350,9 +360,11 @@ De minister stelt de volgende bestuursorganen in de gelegenheid binnen vier weke
 
 a. de inspecteur-generaal der mijnen;  
 
-b. de hoofdingenieur-directeur van de Directie Noordzee van Rijkswaterstaat, en  
+b. de hoofdingenieur-directeur van de betrokken regionale directie van Rijkswaterstaat;  
 
-c. de directeur-generaal Milieubeheer, indien sprake is van lozingen in de bodem.    
+c. de directeur-generaal Milieubeheer, indien sprake is van lozingen in de bodem;  
+
+d. de directeur Kustwacht.    
 
 ### §  1.5  
 
@@ -543,7 +555,7 @@ g. een beschrijving van de maatregelen ter bescherming van de veiligheid met oog
 
 ### Artikel  1.10.1  
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in artikel 16 van het besluit, bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten A, 2, 3, 4, 5, 6, 7 en I, aangeduid in bijlage 4 bij deze regeling en die niet liggen in: 
+De delen van de territoriale zee en het continentaal plat, bedoeld in artikel 16 van het besluit, bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten 171, 172, 173, 174, 189, 215, 216, 224 en 225, aangeduid in bijlage 4 bij deze regeling en die niet liggen in: 
 
 a. het aanloopgebied Hoek van Holland, de ankergebieden en de overige gebieden, aangeduid in bijlage 4, en  
 
@@ -1220,7 +1232,7 @@ f. bedieningspaneel: hulpmiddel voor het op afstand bedienen van het hoofdbedien
 
 g. compressielichaamafsluiter: gereedschap waarin zich een elastisch lichaam bevindt, dat zodanig kan worden vervormd door uitzetting, dat het een boorgat kan afsluiten, ook waar boorgereedschap aanwezig is;  
 
-h. afgehangen verbuizing: verbuizing die niet geheel doorloopt tot aan het aardoppervlak;  
+h. afgehangen verbuizing: een verbuizing die afhangt in een eerder aangebrachte verbuizing en niet doorloopt naar het aardoppervlak;  
 
 i. mechanische plug: een op afstand te bedienen constructie die in een boorgat wordt ingelaten tot op een vooraf bepaalde plaats en, na activering, het boorgat volledig en duurzaam afdicht;  
 
@@ -1245,7 +1257,7 @@ a. voor boorgaten op zee:
 
 2°. het nummer en/of naam van het boorgat:  
 
-3°. de plaats van het aanzetpunt van het boorgat uitgedrukt in geografische coördinaten, berekend volgens de Europese vereffening;  
+3°. de plaats van het aanzetpunt van het boorgat uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem;  
 
 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven, referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;    
 
@@ -1255,56 +1267,88 @@ b. voor boorgaten op land:
 
 2°. de benaming van het boorgat;  
 
-3°. de plaats van het aanzetpunt daarvan uitgedrukt in het coördinatenstelsel van de Rijksdriehoeksmeting.       
+3°. de plaats van het aanzetpunt daarvan uitgedrukt in het coördinatenstelsel van de Rijksdriehoeksmeting;  
+
+4°. een opgave van de hoogte van het maaiveld in meters ten opzichte van N.A.P alsmede de hoogte van de boortafel of in plaats van de boortafel een ander, nader aan te geven referentiepunt in meters ten opzichte van N.A.P.       
 2.  Voorts bevat het werkprogramma ten minste: 
 
 a. de precieze locatie waar een boorgat het voorkomen zal binnendringen en de voorgenomen diepte van het boorgat;  
 
 b. een schematische opgave van: 
 
-1°. van de selectiecriteria waarop de verbuizingsdiepten zijn gekozen inclusief de veiligheidsmarges tegen ongewenste instroming (kick tolerance);  
+1°. de selectiecriteria waarop de verbuizingsdiepten zijn gekozen, rekening houdend met de maximaal toelaatbare instromingsvolumes bij de verwachte formatiesterkten;  
 
 2°. de geologische formaties, welke vermoedelijk zullen worden doorboord;  
 
-3°. de in het boorgat te verwachten drukken, voor zover afwijkend van de hydrostatische drukverdeling, en  
+3°. de verbuizingsdiepten van nabijgelegen boorgaten met hun gebruikte spoelingsgewichten, temperatuur en formatiesterktetesten vergeleken met die van het aan te leggen boorgat met de gecorreleerde stratigrafische kolom;  
 
-4°. elke plaats waar spoelingverliezen kunnen optreden, waar een plastisch gesteente is te verwachten dat zich als gevolg van de formatiedruk kan vervormen en waar koolwaterstofaccumulatie aanwezig kan zijn;    
+4°. de in het boorgat te verwachten poriëndrukken en bezwijkdrukken van het gesteente met de beoogde boorspoelingsdrukken, en  
+
+5°. elke plaats waar: 
+
+– spoelingverliezen kunnen optreden;  
+
+– een plastisch gesteente te verwachten is, of  
+
+– koolwaterstofaccumulatie aanwezig kan zijn;      
 
 c. het type van de te gebruiken boorinstallatie;  
 
 d. een beschrijving: 
 
-1°. met tekeningen van elke verbuizingsserie met vermelding van de diameter;  
+1°. de wijze van isolatie van de zoet- en zoutwaterlagen onder opgave van: 
 
-2°. van de soort materiaal, het gewicht per lengte eenheid, en de diepte waarop het inbouwen van elk serie wordt voorzien, en  
+– de lokale grondwaterhydrologie;  
 
-3°. van de voorgenomen diameter van het boorgat over het boortraject tot elk van de onder 2° bedoelde diepten;    
+– de identificatie van zoet- en zoutwaterlagen;  
 
-e. een opgave van de aan te brengen cementatie van elke verbuizingsserie met vermelding van de voorgenomen diepte van de top van de annulaire cementkolom;  
+– de beoogde isolatie na het doorboren van de zoet- en zoutwaterlagen;  
 
-f. een opgave van de beproevingsdruk van elke verbuizingsserie;  
+– de wijze van verificatie van de nieuwe isolatie na doorboring;    
 
-g. een opgave van de te houden petrofysische metingen;  
+2°. met tekeningen van elke verbuizingsserie met vermelding van de diameter;  
 
-h. een opgave van de toe te passen methodes van formatiesterkte testen;  
+3°. van de soort materiaal, het gewicht per lengte eenheid, en de diepte waarop het inbouwen van elk serie wordt voorzien, en  
 
-i. een opgave van de te nemen kerntrajecten;  
+4°. van de voorgenomen diameter van het boorgat over het boortraject tot elk van de onder 2° bedoelde diepten;    
 
-j. een opgave van de te gebruiken boorspoeling alsmede een gedetailleerde toelichting op de gemaakte keuze;  
+e. een opgave van alle voorkomende belastingsituaties van iedere serie van de verbuizing onder correctie van invloeden door corrosie, slijtage en vermoeiing alsmede de ontwerp- en veiligheidsfactoren die worden gebruikt om de verbuizing zeker te stellen bij deze belastingsituaties;  
 
-k. indien een boorgruisreiningingssysteem zal worden gebruikt: een opgave van het systeem dat zal worden gebruikt alsmede van de eventueel daarbij te gebruiken chemicaliën;  
+f. een schematische opgave van het triaxiale spanningsanalysediagram waarin wordt aangetoond dat de berekende triaxiale spanningen voor alle voorkomende belastingssituaties met de bijbehorende veiligheidsfactoren niet kunnen leiden tot plastische vervorming van iedere serie van de verbuizing;  
 
-l. een situatietekening van het voorgenomen verloop van het boorgat en een opgave van de met betrekking tot het verloop van het boorgat toe te passen meettechniek;  
+g. een opgave van de aan te brengen cementatie van elke verbuizingsserie met vermelding van de voorgenomen diepte van de top van de annulaire cementkolom;  
 
-m. indien het boorgat op zodanige plaats nabij een of meer, al dan niet buiten gebruik gestelde, bestaande boorgaten zal worden aangelegd dat gevaar voor het boorgat of een ander reeds bestaand boorgat niet is uitgesloten: een aanduiding van de plaats van die bestaande boorgaten en het verloop ervan op de onder 1 bedoelde tekening;  
+h. een opgave van de beproevingsdruk van elke verbuizingsserie;  
 
-n. een beschrijving van de ten behoeve van elke verbuizingsserie te gebruiken beveiligingsinstallatie, met vermelding van: 
+i. een opgave van de te houden petrofysische metingen;  
+
+j. een opgave van de toe te passen methodes van formatiesterkte testen;  
+
+k. een opgave van de te nemen kerntrajecten;  
+
+l. een opgave van de te gebruiken boorspoeling alsmede een gedetailleerde toelichting op de gemaakte keuze;  
+
+m. een opgave van de bij de aanleg van het boorgat te gebruiken chemicaliën, hun hoeveelheden alsmede een beschrijving van het gebruik van die chemicaliën waaruit blijkt dat wordt voldaan aan: 
+
+1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;  
+
+2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en  
+
+3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften;    
+
+n. indien een boorgruisreiningingssysteem zal worden gebruikt: een opgave van het systeem dat zal worden gebruikt alsmede van de eventueel daarbij te gebruiken chemicaliën;  
+
+o een situatietekening van het voorgenomen verloop van het boorgat en een opgave van de met betrekking tot het verloop van het boorgat toe te passen meettechniek;  
+
+p. indien het boorgat op zodanige plaats nabij een of meer, al dan niet buiten gebruik gestelde, bestaande boorgaten zal worden aangelegd dat gevaar voor het boorgat of een ander reeds bestaand boorgat niet is uitgesloten: een berekening van de te verwachten minimale afstand alsmede de te verwachten minimale scheidingsfactoren op basis van de gebruikte meetinstrumenten;  
+
+q. een beschrijving van de ten behoeve van elke verbuizingsserie te gebruiken beveiligingsinstallatie, met vermelding van: 
 
 1°. het type van elk onderdeel waaruit de installatie bestaat, en  
 
 2°. de maximale druk die elk onderdeel kan weerstaan en die waarop elk onderdeel wordt getest;    
 
-o. indien het boorgat wordt getest een beschrijving van: 
+r. indien het boorgat wordt getest een beschrijving van: 
 
 1°. de te volgen werkwijze;  
 
@@ -1312,9 +1356,9 @@ o. indien het boorgat wordt getest een beschrijving van:
 
 3°. de daarmee samenhangende bovengrondse uitrusting;    
 
-p. een opgave van de te gebruiken technische hulp- en andere beveiligingsinstallaties en van de tijdstippen waarop deze worden opgesteld, en  
+s. een opgave van de te gebruiken technische hulp- en andere beveiligingsinstallaties en van de tijdstippen waarop deze worden opgesteld, en  
 
-q. een beschrijving met tekening van de voorgenomen afwerking van het boorgat.     
+t. een beschrijving met tekening van de voorgenomen afwerking van het boorgat.     
 
 ### Artikel  8.2.1.2  
 
@@ -1326,7 +1370,7 @@ q. een beschrijving met tekening van de voorgenomen afwerking van het boorgat.
 
 ### Artikel  8.2.2.1  
 
-1.  Een dagrapport van het verloop van elk boorgat wordt tijdens werkdagen uiterlijk om 10.00 uur volgend op de dag waarop het rapport betrekking heeft ter kennis van de inspecteur-generaal der mijnen gebracht.   
+1.  Een dagrapport van het verloop van elk boorgat wordt tijdens werkdagen uiterlijk om 09.00 uur volgend op de dag waarop het rapport betrekking heeft ter kennis van de inspecteur-generaal der mijnen gebracht.   
 2.  Het dagrapport bevat de gegevens, aangegeven in bijlage 11, en is in overeenstemming met die bijlage ingericht.   
 
 ### Artikel  8.2.2.2  
@@ -1347,7 +1391,7 @@ a. voor putten op zee:
 
 2°. het nummer en/of naam van de put;  
 
-3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het stelsel van de Europese vereffening en  
+3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en  
 
 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;    
 
@@ -1378,33 +1422,47 @@ e. een beschrijving met tekeningen van:
 
 3°. de diepte van de top van de annulaire cementkolommen;    
 
-f. een beschrijving met tekeningen van de afwerking boven of onder oppervlaktewater, inclusief specificaties van het spuitkruis;  
+f. over de integriteitsbeheersing van de put een beschrijving van: 
 
-g. een beschrijving van de ondergrondse afwerking van de put;  
+1°. de deugdelijkheid van de aanwezige annulaire cementkolommen onder opgave van de hiertoe uit te voeren integriteitsmetingen, en  
 
-h. de verwachte maximale ingesloten bovengrondse druk en de drukken in de diverse annulaire ruimtes;  
+2°. de wijze waarop de integriteit van de put voor en na de diverse activiteiten wordt zeker gesteld;    
 
-i. de formatiedruk en de referentiediepte;  
+g. een beschrijving met tekeningen van de afwerking boven of onder oppervlaktewater, inclusief specificaties van het spuitkruis;  
 
-j. de ondergrondse en bovengrondse temperatuur van de put;  
+h. een beschrijving van de ondergrondse afwerking van de put;  
 
-k. de inhoud van de opvoerserie en van de annulaire ruimten;  
+i. de verwachte maximale ingesloten bovengrondse druk en de drukken in de diverse annulaire ruimtes;  
 
-l. het productiemechanisme;  
+j. de formatiedruk en de referentiediepte;  
 
-m. de maximale productiecapaciteit (open flow potential);  
+k. de ondergrondse en bovengrondse temperatuur van de put;  
 
-n. de naam of typeaanduiding van de installatie waarmee de putreparatie wordt uitgevoerd alsmede de naam van de drilling contractor;  
+l. de inhoud van de opvoerserie en van de annulaire ruimten;  
 
-o. een beschrijving van de te gebruiken beveiligingsinstallatie voor de afsluiting van de put in de diverse fasen;  
+m. het productiemechanisme;  
 
-p. een chronologisch overzicht van de voorgenomen opeenvolgende reparatiewerkzaamheden, waarbij zoveel mogelijk rekening wordt gehouden met van tevoren aangenomen alternatieve mogelijkheden voorzien van in het bijzonder een toelichting op uit veiligheidsoverwegingen of anderszins kritische operaties;  
+n. de maximale productiecapaciteit (open flow potential);  
 
-q. gezien de ligging van de te repareren put en voor zover van toepassing: de methode waarop putten in de nabijheid worden veiliggesteld;  
+o. de naam of typeaanduiding van de installatie waarmee de putreparatie wordt uitgevoerd alsmede de naam van de drilling contractor;  
 
-r. een opgave van de afwerking van de put na de reparatie, en  
+p. een beschrijving van de te gebruiken beveiligingsinstallatie voor de afsluiting van de put in de diverse fasen;  
 
-s. de geschatte tijdsduur van de reparatie.     
+q. een chronologisch overzicht van de voorgenomen opeenvolgende reparatiewerkzaamheden, waarbij zoveel mogelijk rekening wordt gehouden met van tevoren aangenomen alternatieve mogelijkheden voorzien van in het bijzonder een toelichting op uit veiligheidsoverwegingen of anderszins kritische operaties;  
+
+r. gezien de ligging van de te repareren put en voor zover van toepassing: de methode waarop putten in de nabijheid worden veiliggesteld;  
+
+s. een opgave van de afwerking van de put na de reparatie;  
+
+t. de geschatte tijdsduur van de reparatie, en  
+
+t. een beschrijving van de stoffen en hoeveelheden stoffen die bij de reparatie worden geïnjecteerd met een vermelding van de registratie en autorisatie van de stof, waaruit blijkt dat wordt voldaan aan: 
+
+1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;  
+
+2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en  
+
+3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften.       
 
 ### Artikel  8.2.3.2  
 
@@ -1429,7 +1487,7 @@ a. voor putten op zee:
 
 2°. het nummer en/of naam van de put;  
 
-3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het stelsel van de Europese vereffening  
+3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem  
 
 4°. een opgave van de hoogte van de boortafel of van een ander nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;    
 
@@ -1653,14 +1711,17 @@ b. gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoem
 
 ### Artikel  8.3.2.4  
 
-1.  De boorgatafsluiters worden gedurende de periode, genoemd in artikel 8.3.2.1, onderdelen a of b, tot de maximaal toelaatbare werkdruk getest met behulp van een persproef: 
+1.  De uitvoerder test voorafgaand aan het gebruik van de boorgatafsluiters met behulp van een persproef gedurende de periode, genoemd in artikel 8.3.2.1, onderdelen a en b, de combinatie van de boorgatafsluiters, de afhangingsconstructie van de verbuizingsserie en de verbinding tussen de boorgatafsluiter en de afhangingsconstructie van de verbuizingsserie tegen de laagste werkdruk van de boorgatafsluiters en de afhangingsconstructie van de verbuizingsserie.   
+2.  De uitvoerder herhaalt de persproef: 
 
-a. voor het in gebruik nemen;  
+a. voorafgaande aan het eerste gebruik van de boorgatafsluiters;  
 
-b. direct na het verstrijken van dertien weken waarin de boorgatafsluiters operationeel zijn, en  
+b. na een reparatie of vervanging van de boorgatafsluiters;  
 
-c. vervolgens telkens direct na het verstrijken van zesentwintig weken na de laatst uitgevoerde test.     
-2.  Voor de test van de compressielichaamafsluiter met daarin het boorgereedschap met de kleinste in gebruik zijnde diameter is de testdruk in alle gevallen ten hoogste 70% van de maximaal toelaatbare werkdruk.   
+c. direct na het verstrijken van dertien weken waarin de boorgatafsluiters operationeel zijn, en  
+
+d. vervolgens telkens direct na het verstrijken van zesentwintig weken na de laatst uitgevoerde test.     
+3.  Voor de test van de compressielichaamafsluiter met daarin het boorgereedschap met de kleinste in gebruik zijnde diameter is de testdruk in alle gevallen ten hoogste 70% van de maximaal toelaatbare werkdruk.   
 
 ### Artikel  8.3.2.5  
 
@@ -2040,7 +2101,13 @@ De uitvoerder draagt er zorg voor dat het gebruik of de lozing van chemicaliën 
 
 ### Artikel  9.2.2b  
 
-De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig paragraaf 9.3.  
+De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig paragraaf 9.3 en voldoen aan: 
+
+a. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;  
+
+b. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en  
+
+c. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften.    
 
 ### Artikel  9.2.3  
 
@@ -2095,9 +2162,9 @@ e. het registratienummer dat aan de chemicaliën is toegekend en andere gegevens
 
 1.  Indien een aanvraag om ontheffing als bedoeld in artikel 9.2.5, tweede lid, betrekking heeft: 
 
-a. op chemicaliën als bedoeld in onderdeel a wordt de aanvraag geweigerd;  
+a. op chemicaliën als bedoeld in het tweede lid, onderdeel a wordt de aanvraag geweigerd;  
 
-b. op chemicaliën als bedoeld in de onderdelen b tot en met e wordt de aanvraag geweigerd indien een vervangend middel beschikbaar is dat minder schadelijk is voor het mariene milieu en de technische prestaties ervan vergelijkbaar zijn met die van de chemicaliën waarvoor de aanvraag werd ingediend.     
+b. op chemicaliën als bedoeld in het tweede lid, onderdelen b tot en met e wordt de aanvraag geweigerd indien een vervangend middel beschikbaar is dat minder schadelijk is voor het mariene milieu en de technische prestaties ervan vergelijkbaar zijn met die van de chemicaliën waarvoor de aanvraag werd ingediend.     
 2.  De chemicaliën, bedoeld in het eerste lid, onderdeel b, zijn: 
 
 a. de chemicaliën, genoemd in Ospar-akkoord 2004–12;  
@@ -2203,7 +2270,7 @@ b. NEN 3650, genoemd in artikel 10.1, met uitzondering van het gedeelte omtrent 
 
 ### Artikel  11.1.1  
 
-De resultaten van geofysisch onderzoek als bedoeld in artikel 108, onderdeel a, van het besluit bevatten de resultaten van de eerste finale bewerking van signaal-, navigatie- en snelheidsgegevens en de bijbehorende rapporten van verkrijging en bewerking en de veldgegevens.  
+De resultaten van geofysisch onderzoek als bedoeld in artikel 108, onderdeel a, van het besluit bevatten de veldgegevens, de bijbehorende rapporten en de resultaten van de eerste finale bewerking van signaal-, navigatie- en snelheidsgegevens en de bijbehorende rapporten van verkrijging en bewerking alsmede de resultaten van latere herbewerkingen van deze gegevens met bijbehorende rapporten.  
 
 ### Artikel  11.1.2  
 
@@ -2370,7 +2437,7 @@ d. pekel: m3.
 
 ### Artikel  11.4.1  
 
-Als instelling als bedoeld in artikel 123, tweede lid, van de wet wordt aangewezen het instituut TNO Bouw en Ondergrond.  
+Als instelling als bedoeld in artikel 123, tweede lid, van de wet wordt aangewezen de organisatie, bedoeld in artikel 1, onderdeel c, van de TNO-wet, bekend als TNO.  
 
 ### Hoofdstuk  12  
 
@@ -2592,396 +2659,451 @@ a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas geduren
 
 ### Bijlage  4  
 
-####behorende bij de artikelen 1.10.1 tot en met 1.10.6  Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de artikelen 1.10.1 tot en met 1.10.6  van de regeling
+####, behorende bij de artikelen 1.10.1 tot en met 1.10.6 
 
-Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers en letters. Deze cijfers en letters zijn in de tabellen 1, 2 en 3 gedefinieerd. 
+Beschrijving van de ankergebieden, aanloopgebied van Hoek van Holland en overige gebieden, bedoeld in de artikelen 1.10.1 tot en met 1.10.6 van de regeling Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers. Deze cijfers zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart. 
 
 ####Ankergebieden
 
-Ankergebied STZ Aanloopgebied IJmuiden. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 224, 225, 226 en 227 "Deep-draught anchorage" (gelieerd aan de diep water toegangsroute tot de haven van IJmuiden) gelegen ten zuidwesten van het toegangsgebied. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 140, 141, 142 en 143. Ankergebied vijf zeemijlen uit de kust van Scheveningen. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 217, 218, 219, 220. Ankergebied bij havenmonding Scheveningen nabij de "Scheveningen vaarweg boei". Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 159, 214, 215 en 216. "Maas Noord" gelegen ten westen van het VSS Maas Noord, dit ankergebied is bestemd voor het binnenkomende verkeer vanuit de noord en noordwest. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 207, 208, 116 en 115. "Maas West" gelegen in de ITZ ten zuiden van de Rede Hoek van Holland, direct grenzend aan de vanuit het westen binnenkomende route. Dit ankergebied wordt begrensd door een lijn die de volgende geografische posities verbindt: 178, 203, 204, 205 en 206. "Outer" gelegen ten oosten van TSS Maas West Outer en ten noorden van de Eurogeul. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 166, 170, 171 en 172. "Short-term deep-draught anchorage" gelegen in de North Hinder Junction, direct ten zuidwesten van de aanloop naar de Eurogeul. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 173, 195, 196, 197 en 198. "Long-term deep-draught anchorage" gelegen ten noordwesten van de North Hinder Junction. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 183, 184, T, Y en 192.  
+Ankergebied 1 (Anchor Area 1) wordt begrensd door een lijn die de volgende punten verbindt: 085, 084 (snijpunt met het continentaal plat), 317 (snijpunt met het continentaal plat), 004, 003, 085. Ankergebied 2 (Anchor Area 2) wordt begrensd door een lijn die de volgende punten verbindt: 081, 080, 079, 318, 081. Ankergebied 3 Noord (Anchor Area 3 North) wordt begrensd door een lijn die de volgende punten verbindt: 012, 011, 319, 320, 012. Ankergebied 3 Zuid (Anchor Area 3 South) wordt begrensd door een lijn die de volgende punten verbindt: 016, 015, 321, 322, 016. Ankergebied 3 Oost (Anchor Area 3 East) wordt begrensd door een lijn die de volgende punten verbindt: 323, 324, 325, 326, 323. Ankergebied 4 West (Anchor Area 4 West) wordt begrensd door een lijn die de volgende punten verbindt: 286, 031, 033, 053, 327, 286. Ankergebied 4 Oost (Anchor Area 4 East) wordt begrensd door een lijn die de volgende punten verbindt: 328, 051, 050, 329, 328. Ankergebied 5 (Anchor Area 5) wordt begrensd door een lijn die de volgende punten verbindt: 041, 093, 330, 094, 042, 041. Ankergebied 6 (Anchor Area 6) wordt begrensd door een lijn die de volgende punten verbindt: 311, 143, 142, 145, 311. Ankergebied 7 (Anchor Area 7) wordt begrensd door een lijn die de volgende punten verbindt: 314, 149, 152, 151, 331, 332, 333, 314. Ankergebied 8 (Anchor Area 8) wordt begrensd door een lijn die de volgende punten verbindt: 162, 334, 335, 336, 163, 162. Ankergebied Schouwenbank (Anchor Area Schouwenbank) wordt begrensd door een lijn die de volgende punten verbindt: 337, 338, 288, 339, 337. Het noodankergebied (Emergency Anchor Area) wordt begrensd door een cirkel beginnend in punt 340 met een middelpunt in punt 341. Ankergebied Scheveningen (Anchor Area Scheveningen) wordt begrensd door een lijn die de volgende punten verbindt: 342, 343, 344, 345, 342. Ankergebied havenmond Scheveningen (Anchor Area Scheveningen Harbour) wordt begrensd door een lijn die de volgende punten verbindt: 346, 347, 348, 349, 346.  
 
 ####Aanloopgebied Hoek van Holland
 
-Het aanloopgebied Hoek van Holland. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: XII, 206, 178, 179, 168, 163, 116, 117, 126, 127, XI en via gemeentelijke grens naar XII.  
+Het aanloopgebied Hoek van Holland, ook bekend onder de naam voorzorgsgebied Maas Center (Maas Centre Precautionary Area), wordt begrensd door een lijn die de volgende punten verbindt: 033, 032, 036, 037, 035, 034, 038, 039, 040, 041, 042, 043, 044, 045, 046, 047, 048, via de kustlijn naar 049, 050, 051, 052, 053, 033.  
 
 ####Overige gebieden
 
-De Overige gebieden zijn onder te verdelen in Aanloopgebieden.  
-
-####Scheepvaartroutes en Restrictiegebieden
+De overige gebieden zijn onder te verdelen in aanloopgebieden, scheepvaartroutes en restrictiegebieden 
 
 ### a  
 
-####Aanloopgebieden
+####aanloopgebieden
 
-Het aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: V, 241, 242, 235, W via de landsgrens en de grens continentaal plat naar V. Het aanloopgebied Brandaris betreft het Zeegat van Terschelling en wordt begrensd door een lijn die de volgende punten verbindt: II, 237, 238, 239, I en van I naar II via de gemeentelijke grens. Het STZ aanloopgebied Den Helder. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: IV, 229, 230, 231, 232, 233, III en van III naar IV via de gemeentelijke grens. Een "two-way" route naar en van het Schulpengat. Dit gebied sluit aan op het STZ aanloopgebied Den Helder en wordt begrensd door een lijn die loopt van de positie VII in een zeewaarts gerichte boog met een straal van 5 zeemijlen gerekend vanuit punt 229 naar positie VIII en vervolgens via de gemeentelijke grens naar VII. Het aanloopgebied Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: X, 209, 213, IX en vervolgens via gemeentelijke grens naar X. Het STZ aanloopgebied IJmuiden. Dit gebied wordt gevormd door een lijn die loopt van de positie: V in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit punt 221 (het referentiepunt) naar positie VI en vervolgens via de gemeentelijke grens naar V. De Scheepvaartroutes vermeld bij 28 tot en met 34 sluiten aan op dit aanloop gebied.  
+Het STZ aanloopgebied Scheldemonden wordt begrensd door een lijn die de volgende punten verbindt: vanaf de landsgrens via de 12 mijlsgrens via punt 285 naar 289 (beide gelegen op de 12 mijlsgrens), 288, 287 naar 364, vervolgens langs de gemeentegrens via de landsgrens naar de 12 mijlsgrens. Het STZ aanloopgebied Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: 365, 366, 367, 368, 369, 365. Het STZ aanloopgebied IJmuiden wordt begrensd door een zeewaarts gerichte cirkeldeel met een straal van 12 zeemijlen gerekend vanuit middelpunt 370. Het STZ aanloopgebied Den Helder wordt begrensd door een lijn die de volgende punten verbindt: 371, 372, 373, 374, 375, 376, 377, 371. Het STZ aanloopgebied Brandaris wordt begrensd door een lijn die de volgende punten verbindt: 378, 379, 380, 381, 382, 378. Het STZ aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: 383, 384, 385, 386, 387, 383.  
 
 ### b  
 
-####Scheepvaartroutes
+####scheepvaartroutes
 
-Scheepvaartroute "Noord" wordt begrensd door een lijn die de volgende punten verbindt: A, 2, 109, 17, 18, 5, 6, 7, I, van I naar K via de grens continentaal plat, K, 20, 21, 22, 23, 24, 52, 45, 25, 26, D en vervolgens via de grens continentaal plat naar A, met uitzondering van de separatiegebieden "East Friesland" en "Off Botney Ground". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: C, 29, 30, 31, 32, B en vervolgens via de grens continentaal plat naar C respectievelijk J, 10, 11, 12, 13, 14, 15 en 16. Scheepvaartroute "Midden" wordt begrensd door een lijn die de volgende punten verbindt: 24, 34, 35, 36, 37, L, van L naar M via de grens continentaal plat, M, 40, 41, 42, 43, 44, 25, 45 en 52 met uitzondering van de separatiegebieden "West Friesland" en "Off Brown Ridge". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: 45, 46, 47, 48, 49, 50, 51 en 52 respectievelijk 53, 54, 55 en 56. Scheepvaartroute "Zuid" richting zuid (van "Terschelling German Bight" tot "Deep Water route leading to Europoort") wordt begrensd door een lijn die de volgende punten verbindt: E, 58, 59, 108, 109, 93, 94, 89, 90, 91, 92, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 60, 61, F en vervolgens via de grens continentaal plat naar E. Scheepvaartroute "Zuid" richting noord (van "Deep Water route leading to Europoort" tot "Terschelling German Bight") wordt begrensd door een lijn die de volgende punten verbindt: G, 64, 65, 66, 60, 88, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 67, 68, 69, H en vervolgens via de grens continentaal plat naar G. "North Hinder" wordt begrensd door een lijn die de volgende punten verbindt: U, 177, 182, 165, 169, 102, 101, 81, 80, 183, 184, T vervolgens via grens continentaal plat in zuidelijke richting terug naar U. Scheepvaartroute Maas 1 wordt begrensd door een lijn die de volgende punten verbindt: 177, 112, 123, 178, 179, 180, 181 en 182. Scheepvaartroute Maas 2 (deep water route) wordt begrensd door een lijn die de volgende punten verbindt: 175, 176, 173 en 174. Scheepvaartroute Maas 3 wordt begrensd door een lijn die de volgende punten verbindt: 163, 124, 161, 169, 165, 166, 167 en 168. Scheepvaartroute Maas 4 wordt begrensd door een lijn die de volgende punten verbindt: 163, Q via de grens continentaal plat naar P en 116. Scheepvaartroute Maas 5 wordt begrensd door een lijn die de volgende punten verbindt: 116, 115, 110, 83, 119, 118, 117. Scheepvaartroute Maas 6 wordt begrensd door een lijn die de volgende punten verbindt: 126, 125, 98, 104, 128 en 127. Scheepvaartroute Maas 7 wordt begrensd door een lijn die de volgende punten verbindt: 115, 152, 153 en 118. Scheepvaartroute Maas 8 wordt begrensd door een lijn die de volgende punten verbindt: 125, 154, 155 en 128. Scheepvaartroute IJmuiden 1 wordt begrensd door een lijn die de volgende punten verbindt: 148, 149, 150 en 151. Scheepvaartroute IJmuiden 2 wordt begrensd door een lijn die de volgende punten verbindt: 144, 146, 145 en 147. Scheepvaartroute IJmuiden 3 wordt begrensd door een lijn die de volgende punten verbindt: O, 132, 133, 134, 135, 136, 137, 138 en N. Scheepvaartroute IJmuiden 4 wordt begrensd door een lijn die de volgende punten verbindt: 120, 121, 119 en 78. Scheepvaartroute IJmuiden 5 wordt begrensd door een lijn die de volgende punten verbindt: 129, 130, 104 en 98. Scheepvaartroute Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: 159, 160, 161, 156, 157 en 158. Scheepvaartroute vanuit noorden naar de Schelde wordt begrensd door een lijn die de volgende punten verbindt: 190, 191, R via grens continentaal plat naar S. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 110, 111, 112, 113, 114 en 83. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 98, 114, 122, 123, 124 en 104.  
+Het voorzorgsgebied Noord Hinder (North Hinder Junction precautionary area) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 017, 018, en het snijpunt van de lijn tussen 018 en 019 eindigend bij de grens van het continentaal plat. De oost gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Buiten (Maas West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 018, 017, 020, 021, 018. De west gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Buiten (Maas West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 010, 009, 022, 023, 010. Het voorzorgsgebied Maas (Maas Junction precautionary area) wordt begrensd door een lijn die de volgende punten verbindt: 021, 020, 024, 025, 023, 022, 026, 027, 028, 029, 030, 031, 021. De oost gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Binnen (Maas West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 031, 030, 032, 033, 031. De west gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Binnen (Maas West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 027, 026, 034, 035, 027. De diepwater route leidend naar Europoort, bestaande uit het aanloopgebied Noord Hinder, aanloopgebied Eurogeul, de Eurogeul en de Maasgeul (Eurogeul approach area, Eurogeul, Maasgeul) wordt begrensd door een lijn die de volgende punten verbindt: 054, 055, 056, van 057 naar 059 met een cirkeldeel met middelpunt 058, 013, van 060 naar 061 met een cirkeldeel met middelpunt 062, 025, 028, 037, 063, van 064 naar 066 met een cirkeldeel met middelpunt 065, 067, 068, 069, 070, 071, van 072 naar 074 met een cirkeldeel met middelpunt 073, 036, van 075 naar 077 met een cirkeldeel met middelpunt 076, 078, 029, 024, 014, 079, 080, 081, 082, 083, 054. De diepwater route van Noord Hinder naar Nabij Bruine Bank (DW Route from North Hinder to TSS Off Brown Ridge) op het Nederlandse deel van het continentaal plat wordt begrensd door: het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat, de grens van het continentaal plat, 084 (grens continentaal plat), 085, 002 en het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat. De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Noord Hinder Noord (North Hinder North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 005, 086, 087, 006, 005. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Noord Hinder Noord (North Hinder North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 007, 088, 089, 008, 007. De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 090, 091, 039, 038, 090. De noordwest gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 092, 093, 041, 040, 092. De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord (Maas North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 042, 094, 095, 096, 097, 098, 099, 043, 042. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord (Maas North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 044, 100, 101, 102, 103, 045, 044. Het voorzorgsgebied Rijnveld (Rijnveld Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 104, 105, 106, 107, 108, 109, 110, 111, 112, 104. De aanbevolen route Nabij Breeveertien (Recommended Route Off Breeveertien) wordt begrensd door een lijn die de volgende punten verbindt: 106, 113, 114, 115, 116, 117, 118, 107, 106. De diepwater route naar IJmuiden (DW Route Leading to IJmuiden) wordt begrensd door een lijn die de volgende punten verbindt: 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, van 130 naar 132 met een cirkeldeel met middelpunt 131, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 119. Het voorzorgsgebied oversteek IJmuiden (IJmuiden Crossing Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 144, 145, 142, 121. 122, 146, 147, 124, 139, 148, 149, 144. De oost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Buiten (IJmuiden West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 149, 148, 150, 151, 152, 149. De west gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Buiten (IJmuiden West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 147, 146, 153, 154, 147. Het voorzorgsgebied IJmuiden (IJmuiden Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 151, 150, 138, 125, 154, 153, 155, 156, 126, 137, 157, 158, 151. De oost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Binnen (IJmuiden West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 158, 157, 159, 160, 158. De west gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Binnen (IJmuiden West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 156, 155, 161, 162, 163, 164, 165, 156. De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 153, 166, 167, 168, 155, 153. De noord westgaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 168, 167, 169, 170, 162, 161, 168. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Botney Gronden VSS (Off Botney Ground TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 171 en 172 beginnend bij de grens van het continentaal plat, 172, 173, 174, 175, 176, 177, tot het snijpunt van de lijn tussen 177 en 178 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 171 en 172 beginnend bij de grens van het continentaal plat. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Botney Gronden VSS (Off Botney Ground TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 179 en 180 beginnend bij de grens van het continentaal plat, 180, 181, 182, 183, 184, 185, 186, 187, tot het snijpunt van de lijn tussen 187 en 188 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 179 en 180 beginnend bij de grens van het continentaal plat. De diepwater route van Nabij Botney Gronden VSS naar Voorzorgsgebied Friesland (DW Route from Off Botney Ground TSS to Precautionary Area Friesland Junction) wordt begrensd door een lijn die de volgende punten verbindt: 184, 183, 175, 174, 189, 190, 184. De diepwater route van Noord Hinder naar Nabij Bruine Bank VSS (DW Route from North Hinder to Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 191 en 192 beginnend bij de grens van het continentaal plat, 192, 193, 194, 195, tot het snijpunt van de lijn tussen 195 en196 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 191 en 192 beginnend bij de grens van het continentaal plat. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Bruine Bank (Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: 192, 197, 198, 193, 192. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Bruine Bank (Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: 194, 199, 200, 195, 194. De diepwater route van Nabij Bruine Bank VSS naar West Friesland VSS (DW Route Off Brown Ridge TSS to West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 197, 201, 202, 203, 204, 200, 199, 198, 197. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel West Friesland (West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 201, 205, 190, 206, 207, 202, 201. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel West Friesland (West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 203, 208, 209, 210, 211, 212, 213, 214, 204, 203. Het voorzorgsgebied Friesland (Friesland Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 190, 189, 215, 216, 217, 218, 219, 220, 221, 222, 223, 212, 211, 206, 190. De west gaande verkeersbaan van het verkeersscheidingsstelsel Oost Friesland (East Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 217, 216, 224, het snijpunt van de lijn tussen 224 en 225 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 226 en 227 beginnend bij de grens van het continentaal plat, 227, 217. De oost gaande verkeersbaan van het verkeersscheidingsstelsel Oost Friesland (East Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 219, 218, 228, het snijpunt van de lijn tussen 228 en 229 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 230 en 219 beginnend bij de grens van het continentaal plat, 219. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 231. De zuid gaande verkeersbanen van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 115, 242, 241, 116, 115 en 244, 238, 237, 245, 244. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 246, 247, 248, 249, 250, 251, 252, 253, 254, 246. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Vlieland (Off Vlieland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 235, 255, 256, 257, 258, 259, 260, 261, 262, 236, 235. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Vlieland (Off Vlieland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 249, 263, 264, 265, 266, 267, 268, 250, 249. Het voorzorgsgebied Vlieland (Vlieland Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 264, 269, 270, 265, 264. De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Vlieland Noord (Vlieland North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 258, 271, 272, 259, 258. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Vlieland Noord (Vlieland North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 269, 273, 274, 270, 269. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Terschelling – Duitse Bocht (Terschelling – German Bight TSS) wordt begrensd door een lijn die de volgende punten verbindt: 267, 266, 275, 276, het snijpunt van de lijn tussen 276 en 277 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 278 en 279 beginnend bij de grens van het continentaal plat, 279, 280, 267. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Terschelling – Duitse Bocht (Terschelling – German Bight TSS) wordt begrensd door een lijn die de volgende punten verbindt: 265, 270, 281, het snijpunt van de lijn tussen 281 en 282 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 283 en 284 beginnend bij de grens van het continentaal plat, 284, 265. De vrije scheepvaartzone Nabij Schouwenbank wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn over de punten 285 en 021 snijdend met de 12 mijlsgrens, 021, 031, 286, 287, 288, het snijpunt van de lijn over de punten 287, 288 en 289 eindigend op de 12 mijlsgrens, de 12 mijlsgrens volgend tot het snijpunt van de lijn over de punten 285 en 021 snijdend met de 12 mijlsgrens. De vrije scheepvaartzone Nabij Noord Hinder wordt begrensd door een lijn die de volgende punten verbindt: 002, 085, 003, 002. De vrije scheepvaartzone van nabij Texel VSS naar Noord Hinder Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 086, 290, 291, 231, 243, 292, 293, 294, 295, 087, 086. De vrije scheepvaartzone nabij Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn over de punten 296 en 290 snijdend beginnend bij de grens van het continentaal plat, via het continentaal plat naar, het snijpunt van de lijn over de punten 297 en 291 snijdend beginnend bij de grens van het continentaal plat, 291, 294, 105, 104, 295, 290, het snijpunt van de lijn over de punten 296 en 290 snijdend beginnend bij de grens van het continentaal plat. De vrije scheepvaartzone van Noord Hinder Noord VSS naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 088, 104, 112, 089, 088. De vrije scheepvaartzone van Voorzorgsgebied Maas naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 022, 111, 110, 026, 022. De vrije scheepvaartzone van Maas Noord West VSS naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 110, 109, 093, 092, 091, 090, 110. De vrije scheepvaartzone nabij De Ruyter wordt begrensd door een lijn die de volgende punten verbindt: 293, 292, 114, 117, 298, 299, 300, 301, 118, 113, 293. De vrije scheepvaartzone nabij IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 107, 300, 299, 302, 303, 304, 305, 306, 246, 254, 307, 169, 167, 166, 308, 309, 146, 122, 121, 310, 120, 119, 143, 311, 145, 144, 312, 313, 108, 107. De vrije scheepvaartzone van Maas Noord VSS naar Voorzorgsgebied oversteek IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 096, 144, 149, 314, 102, 101, 097, 096. De vrije scheepvaartzone van nabij Texel VSS naar Vrije Scheepvaartzone nabij IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 303, 244, 245, 315, 316, 304, 303. De vrije scheepvaartzone nabij Helmveld wordt begrensd door een lijn die de volgende punten verbindt: 305, 316, 315, 306, 305. De zuid gaande vrije scheepvaartzone van Voorzorgsgebied Friesland naar Vlieland Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 271, 223, 222, 272, 271. De noord gaande vrije scheepvaartzone van Voorzorgsgebied Friesland naar Vlieland Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 273, 221, 220, 274, 273.  
 
 ### c  
 
-####Restrictiegebieden
+####restrictiegebieden
 
-Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV. Restrictiegebied "Off Friesland" wordt begrensd door de punten: 2, 3, 4, 5, 18, 17, 109.  Tabel 1: Geografische coordinaten (in ED50) 
+De zone voor het kustverkeer (ITZ) voor de Zeeuwse kust wordt begrensd door een lijn die de volgende punten verbindt: 350, 287, 286, 031, 033, 053, 052, 051, 050, 049 en vervolgens de kust volgend tot 350. De zone voor het kustverkeer (ITZ) ten noorden van de Nederlandse Waddeneilanden wordt begrensd door een lijn die de volgende punten verbindt: 268, 351, 352, 353, 354, 279, tot het snijpunt van de lijn tussen 278 en 279 eindigen bij de grens van het continentaal plat, via de grens van het continentaal plat, via het Eems Dollard Verdrag gebied, via de gemeentegrens, naar 355, 268. Het te vermijden gebied bij Maas Noord wordt begrensd door een lijn die de volgende punten verbindt: 356, 357, 358, 359, 356. Het te vermijden gebied bij IJmuiden Noord Aanloop wordt begrensd door een lijn die de volgende punten verbindt: 360, 361, 362, 363, 360.  Tabel behorende bij bijlage 4: Geografische coördinaten (in ETRS89) 
 
-| --- | --- | --- |
-|---|---|---|
-| Puntnummer  | X-geografisch  | Y-geografisch  |
-| --- | --- | --- |
-| 1  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 54°10'.90N  | 006°00'.20E  |
-| 2  | 54°07'.17N  | 005°19'.32E  |
-| 3  | 54°12'.00N  | 005°20'.00E  |
-| 4  | 54°05'.00N  | 003°45'.00E  |
-| 5  | 54°00'.46N  | 003°43'.01E  |
-| 6  | 53°58'.61N  | 003°17'.32E  |
-| 7  | 53°44'.40N  | 003°01'.40E  |
-| 8  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°36'.81N  | 002°56'.50E  |
-| 9  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°36'.28N  | 002°58'.85E  |
-| 10  | 53°43'.71N  | 003°03'.66E  |
-| 11  | 53°56'.66N  | 003°18'.18E  |
-| 12  | 53°58'.50N  | 003°43'.71E  |
-| 13  | 53°57'.19N  | 003°44'.18E  |
-| 14  | 53°55'.10N  | 003°27'.47E  |
-| 15  | 53°41'.57N  | 003°08'.91E  |
-| 16  | 53°35'.30N  | 003°03'.12E  |
-| 17  | 54°02'.57N  | 004°20'.92E  |
-| 18  | 54°01'.91N  | 004°08'.96E  |
-| 19  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°29'.54N  | 003°00'.67E  |
-| 20  | 53°34'.76N  | 003°05'.49E  |
-| 21  | 53°40'.71N  | 003°11'.00E  |
-| 22  | 53°53'.13N  | 003°28'.02E  |
-| 23  | 53°55'.24N  | 003°44'.88E  |
-| 24  | 53°57'.20N  | 004°10'.02E  |
-| 25  | 54°00'.00N  | 004°46'.00E  |
-| 26  | 54°01'.14N  | 005°00'.34E  |
-| 27  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 54°06'.10N  | 006°03'.00E  |
-| 28  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 54°08'.00N  | 006°01'.90E  |
-| 29  | 54°04'.21N  | 005°20'.00E  |
-| 30  | 54°02'.62N  | 005°00'.00E  |
-| 31  | 54°04'.11N  | 004°59'.66E  |
-| 32  | 54°05'.69N  | 005°19'.66E  |
-| 33  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 54°08'.97N  | 006°01'.33E  |
-| 34  | 53°43'.39N  | 003°38'.81E  |
-| 35  | 53°22'.94N  | 003°28'.40E  |
-| 36  | 53°03'.78N  | 003°18'.71E  |
-| 37  | 52°55'.75N  | 003°14'.25E  |
-| 38  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°09'.92N  | 002°35'.00E  |
-| 39  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°09'.58N  | 002°43'.22E  |
-| 40  | 52°54'.17N  | 003°22'.00E  |
-| 41  | 53°02'.20N  | 003°26'.48E  |
-| 42  | 53°19'.89N  | 003°39'.74E  |
-| 43  | 53°30'.00N  | 003°47'.37E  |
-| 44  | 53°45'.90N  | 004°23'.32E  |
-| 45  | 53°59'.22N  | 004°36'.00E  |
-| 46  | 53°56'.69N  | 004°36'.00E  |
-| 47  | 53°46'.73N  | 004°20'.00E  |
-| 48  | 53°31'.12N  | 003°44'.72E  |
-| 49  | 53°20'.67N  | 003°36'.85E  |
-| 50  | 53°22'.12N  | 003°31'.47E  |
-| 51  | 53°42'.99N  | 003°42'.12E  |
-| 52  | 53°57'.60N  | 004°15'.17E  |
-| 53  | 53°03'.14N  | 003°21'.85E  |
-| 54  | 52°55'.11N  | 003°17'.38E  |
-| 55  | 52°54'.81N  | 003°18'.87E  |
-| 56  | 53°02'.84N  | 003°23'.34E  |
-| 57  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°51'.58N  | 006°21'.87E  |
-| 58  | 53°37'.13N  | 005°07'.00E  |
-| 59  | 53°32'.97N  | 004°49'.49E  |
-| 60  | 53°29'.07N  | 004°46'.66E  |
-| 61  | 53°34'.30N  | 005°08'.60E  |
-| 62  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°48'.29N  | 006°20'.37E  |
-| 63  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°46'.22N  | 006°20'.48E  |
-| 64  | 53°32'.37N  | 005°09'.70E  |
-| 65  | 53°30'.97N  | 005°02'.21E  |
-| 66  | 53°26'.35N  | 004°44'.68E  |
-| 67  | 53°22'.90N  | 004°44'.00E  |
-| 68  | 53°28'.16N  | 005°04'.00E  |
-| 69  | 53°29'.57N  | 005°11'.28E  |
-| 70  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°43'.42N  | 006°22'.33E  |
-| 71  | 54°04'.76N  | 004°47'.99E  |
-| 72  | 53°35'.53N  | 004°37'.24E  |
-| 73  | 53°29'.21N  | 004°33'.69E  |
-| 74  | 53°22'.62N  | 004°30'.00E  |
-| 75  | 53°18'.37N  | 004°27'.63E  |
-| 76  | 53°11'.00N  | 004°22'.02E  |
-| 77  | 53°08'.22N  | 004°16'.43E  |
-| 78  | 52°56'.72N  | 003°53'.52E  |
-| 79  | 52°13'.30N  | 002°59'.43E  |
-| 80  | 52°11'.03N  | 002°56'.23E  |
-| 81  | 52°09'.07N  | 002°59'.92E  |
-| 82  | 52°11'.33N  | 003°03'.12E  |
-| 83  | 52°56'.58N  | 004°01'.00E  |
-| 84  | 53°06'.53N  | 004°20'.87E  |
-| 85  | 53°09'.13N  | 004°26'.08E  |
-| 86  | 53°17'.27N  | 004°32'.28E  |
-| 87  | 53°27'.03N  | 004°38'.10E  |
-| 88  | 53°28'.02N  | 004°42'.25E  |
-| 89  | 53°31'.92N  | 004°45'.07E  |
-| 90  | 53°29'.99N  | 004°36'.96E  |
-| 91  | 53°35'.69N  | 004°40'.16E  |
-| 92  | 54°05'.00N  | 004°51'.00E  |
-| 93  | 54°05'.25N  | 004°55'.20E  |
-| 94  | 53°36'.11N  | 004°48'.12E  |
-| 95  | 53°12'.40N  | 004°30'.97E  |
-| 96  | 53°05'.47N  | 004°23'.68E  |
-| 97  | 53°00'.00N  | 004°17'.97E  |
-| 98  | 52°50'.00N  | 004°11'.50E  |
-| 99  | 52°48'.95N  | 004°09'.75E  |
-| 100  | 52°09'.82N  | 003°05'.93E  |
-| 101  | 52°07'.57N  | 003°02'.73E  |
-| 102  | 52°05'.58N  | 003°06'.40E  |
-| 103  | 52°07'.85N  | 003°09'.60E  |
-| 104  | 52°48'.07N  | 004°15'.57E  |
-| 105  | 52°58'.65N  | 004°22'.42E  |
-| 106  | 53°03'.87N  | 004°27'.88E  |
-| 107  | 53°11'.00N  | 004°35'.39E  |
-| 108  | 53°36'.32N  | 004°51'.93E  |
-| 109  | 54°05'.59N  | 004°59'.32E  |
-| 110  | 52°58'.88N  | 003°57'.74E  |
-| 111  | 52°25'.99N  | 003°38'.34E  |
-| 112  | 51°53'.12N  | 003°18'.95E  |
-| 113  | 51°53'.77N  | 003°22'.35E  |
-| 114  | 51°59'.07N  | 003°25'.60E  |
-| 115  | 52°08'.67N  | 003°52'.15E  |
-| 116  | 52°05'.75N  | 003°51'.00E  |
-| 117  | 52°05'.28N  | 003°54'.15E  |
-| 118  | 52°08'.18N  | 003°55'.32E  |
-| 119  | 52°51'.30N  | 004°01'.00E  |
-| 120  | 52°35'.00N  | 004°16'.10E  |
-| 121  | 52°35'.95N  | 004°17'.23E  |
-| 122  | 51°53'.44N  | 003°20'.62E  |
-| 123  | 51°56'.37N  | 003°35'.95E  |
-| 124  | 52°04'.80N  | 003°34'.13E  |
-| 125  | 52°07'.95N  | 003°56'.88E  |
-| 126  | 52°05'.03N  | 003°55'.72E  |
-| 127  | 52°04'.57N  | 003°58'.87E  |
-| 128  | 52°07'.47N  | 004°00'.03E  |
-| 129  | 52°37'.22N  | 004°19'.32E  |
-| 130  | 52°37'.93N  | 004°20'.94E  |
-| 131  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°33'.01N  | 003°03'.60E  |
-| 132  | 52°30'.81N  | 003°47'.25E  |
-| 133  | 52°27'.46N  | 003°41'.76E  |
-| 134  | 52°30'.01N  | 004°12'.13E  |
-| 135  | 52°29'.96N  | 004°13'.55E  |
-| 136  | 52°30'.28N  | 004°13'.64E  |
-| 137  | 52°30'.55N  | 004°12'.33E  |
-| 138  | 52°31'.76N  | 003°48'.83E  |
-| 139  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°33'.98N  | 003°04'.44E  |
-| 140  | 52°27'.60N  | 003°43'.45E  |
-| 141  | 52°26'.49N  | 003°43'.79E  |
-| 142  | 52°26'.95N  | 003°48'.87E  |
-| 143  | 52°28'.03N  | 003°48'.63E  |
-| 144  | 52°29'.10N  | 004°12'.60E  |
-| 145  | 52°23'.62N  | 003°12'.29E  |
-| 146  | 52°23'.29N  | 003°18'.42E  |
-| 147  | 52°28'.20N  | 004°12'.50E  |
-| 148  | 52°27'.40N  | 004°12'.50E  |
-| 149  | 52°19'.43N  | 003°21'.60E  |
-| 150  | 52°18'.88N  | 003°27'.69E  |
-| 151  | 52°26'.25N  | 004°12'.70E  |
-| 152  | 52°23'.90N  | 004°13'.60E  |
-| 153  | 52°22'.60N  | 004°14'.50E  |
-| 154  | 52°21'.95N  | 004°15'.10E  |
-| 155  | 52°20'.90N  | 004°16'.20E  |
-| 156  | 52°03'.53N  | 003°16'.42E  |
-| 157  | 52°10'.90N  | 003°52'.20E  |
-| 158  | 52°07'.38N  | 004°14'.00E  |
-| 159  | 52°07'.95N  | 004°14'.60E  |
-| 160  | 52°11'.90N  | 003°52'.20E  |
-| 161  | 52°04'.53N  | 003°16'.42E  |
-| 162  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°24'.07N  | 002°55'.83E  |
-| 163  | 52°04'.93N  | 003°45'.23E  |
-| 164  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°28'.32N  | 002°59'.52E  |
-| 165  | 52°01'.45N  | 003°09'.27E  |
-| 166  | 52°01'.78N  | 003°17'.03E  |
-| 167  | 52°02'.52N  | 003°34'.63E  |
-| 168  | 52°02'.95N  | 003°45'.65E  |
-| 169  | 52°04'.42N  | 003°08'.60E  |
-| 170  | 51°59'.13N  | 003°17'.63E  |
-| 171  | 51°59'.45N  | 003°21'.42E  |
-| 172  | 52°01'.95N  | 003°20'.94E  |
-| 173  | 51°57'.00N  | 003°00'.15E  |
-| 174  | 52°01'.30N  | 003°51'.78E  |
-| 175  | 52°02'.07N  | 003°53'.32E  |
-| 176  | 51°58'.50N  | 003°09'.92E  |
-| 177  | 51°51'.67N  | 003°11'.45E  |
-| 178  | 51°58'.38N  | 003°46'.62E  |
-| 179  | 52°00'.37N  | 003°46'.20E  |
-| 180  | 51°58'.92N  | 003°35'.40E  |
-| 181  | 51°56'.57N  | 003°18'.18E  |
-| 182  | 51°55'.52N  | 003°10'.58E  |
-| 183  | 52°04'.07N  | 002°46'.40E  |
-| 184  | 52°03'.95N  | 002°42'.71E  |
-| 185  | 53°15'.00N  | 004°39'.60E  |
-| 186  | 53°25'.99N  | 004°57'.80E  |
-| 187  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 51°45'.47N  | 002°40'.00E  |
-| 188  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°11'.90N  | 002°49'.40E  |
-| 189  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°11'.10N  | 002°48'.60E  |
-| 190  | 51°51'.00N  | 003°08'.00E  |
-| 191  | 51°51'.30N  | 003°09'.05E  |
-| 192  | 52°08'.08N  | 002°52'.05E  |
-| 193  | 53°27'.70N  | 005°04'.30E  |
-| 194  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 52°08'.05N  | 002°45'.28E  |
-| 195  | 51°57'.65N  | 003°00'.00E  |
-| 196  | 51°57'.17N  | 002°54'.52E  |
-| 197  | 51°53'.95N  | 002°49'.99E  |
-| 198  | 51°54'.67N  | 002°57'.52E  |
-| 199  | 51°58'.25N  | 004°00'.48E  |
-| 200  | 53°29'.07N  | 005°11'.38E  |
-| 201  | 51°59'.72N  | 004°02'.92E  |
-| 202  | 51°43'.77N  | 003°42'.33E  |
-| 203  | 51°57'.59N  | 003°42'.58E  |
-| 204  | 51°55'.78N  | 003°42'.64E  |
-| 205  | 51°56'.70N  | 003°49'.77E  |
-| 206  | 51°58'.28N  | 003°49'.77E  |
-| 207  | 52°08'.98N  | 003°49'.71E  |
-| 208  | 52°05'.36N  | 003°48'.27E  |
-| 209  | 52°06'.50N  | 004°10'.00E  |
-| 210  | 52°04'.80N  | 004°13'.40E  |
-| 211  | 53°10'.97N  | 004°51'.39E  |
-| 212  | 52°07'.70N  | 004°17'.50E  |
-| 213  | 52°09'.40N  | 004°14'.20E  |
-| 214  | 52°07'.36N  | 004°14'.90E  |
-| 215  | 52°07'.60N  | 004°15'.72E  |
-| 216  | 52°08'.10N  | 004°15'.32E  |
-| 217  | 52°13'.00N  | 004°13'.50E  |
-| 218  | 52°11'.85N  | 004°11'.80E  |
-| 219  | 52°10'.00N  | 004°13'.20E  |
-| 220  | 52°11'.70N  | 004°15'.50E  |
-| 221  | 52°28'.00N  | 004°32'.18E  |
-| 222  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°39'.00N  | 006°27'.10E  |
-| 223  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°37'.50N  | 006°31'.20E  |
-| 224  | 52°32'.45N  | 004°12'.32E  |
-| 225  | 52°30'.65N  | 004°14'.02E  |
-| 226  | 52°29'.74N  | 004°22'.09E  |
-| 227  | 52°31'.66N  | 004°20'.30E  |
-| 228  | 52°52'.90N  | 004°42'.95E  |
-| 229  | 52°52'.95N  | 004°38'.00E  |
-| 230  | 52°54'.70N  | 004°34'.80E  |
-| 231  | 52°56'.80N  | 004°33'.90E  |
-| 232  | 53°00'.30N  | 004°35'.45E  |
-| 233  | 53°03'.65N  | 004°39'.35E  |
-| 234  | 53°03'.80N  | 004°43'.45E  |
-| 235  | 53°34'.70N  | 006°21'.90E  |
-| 236  | 53°17'.40N  | 004°59'.05E  |
-| 237  | 53°19'.33N  | 005°02'.40E  |
-| 238  | 53°24'.22N  | 005°02'.40E  |
-| 239  | 53°26'.22N  | 005°09'.75E  |
-| 240  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 53°23'.63N  | 005°11'.63E  |
-| 241  | 53°37'.10N  | 006°19'.50E  |
-| 242  | 53°34'.90N  | 006°13'.70E  |
+| Puntnummer  | X-geografisch  | Y-geografisch  | Naam  |
+|---|---|---|---|
+| 001  | 51° 54'.83 N  | 002° 33'.52 E  | --- |
+| 002  | 52° 01'.18 N  | 002° 42'.39 E  | --- |
+| 003  | 52° 04'.07 N  | 002° 46'.43 E  | --- |
+| 004  | 52° 08'.08 N  | 002° 52'.06 E  | --- |
+| 005  | 52° 10'.99 N  | 002° 56'.16 E  | --- |
+| 006  | 52° 09'.03 N  | 002° 59'.83 E  | --- |
+| 007  | 52° 07'.29 N  | 003° 03'.08 E  | --- |
+| 008  | 52° 05'.55 N  | 003° 06'.32 E  | --- |
+| 009  | 52° 04'.37 N  | 003° 08'.52 E  | --- |
+| 010  | 52° 01'.26 N  | 003° 08'.37 E  | --- |
+| 011  | 52° 01'.05 N  | 003° 08'.36 E  | --- |
+| 012  | 51° 59'.40 N  | 003° 08'.28 E  | --- |
+| 013  | 51° 59'.13 N  | 003° 08'.26 E  | --- |
+| 014  | 51° 57'.64 N  | 003° 08'.00 E  | --- |
+| 015  | 51° 56'.89 N  | 003° 07'.87 E  | --- |
+| 016  | 51° 55'.06 N  | 003° 07'.54 E  | --- |
+| 017  | 51° 54'.77 N  | 003° 07'.49 E  | --- |
+| 018  | 51° 50'.72 N  | 003° 06'.78 E  | --- |
+| 019  | 51° 45'.42 N  | 002° 39'.92 E  | --- |
+| 020  | 51° 55'.99 N  | 003° 17'.31 E  | --- |
+| 021  | 51° 52'.59 N  | 003° 16'.43 E  | --- |
+| 022  | 52° 04'.54 N  | 003° 19'.53 E  | --- |
+| 023  | 52° 01'.77 N  | 003° 18'.81 E  | --- |
+| 024  | 51° 58'.49 N  | 003° 17'.96 E  | --- |
+| 025  | 51° 59'.15 N  | 003° 18'.13 E  | --- |
+| 026  | 52° 04'.63 N  | 003° 26'.20 E  | --- |
+| 027  | 52° 02'.12 N  | 003° 25'.73 E  | --- |
+| 028  | 51° 59'.75 N  | 003° 25'.29 E  | --- |
+| 029  | 51° 59'.09 N  | 003° 25'.17 E  | --- |
+| 030  | 51° 56'.90 N  | 003° 24'.78 E  | --- |
+| 031  | 51° 54'.10 N  | 003° 24'.29 E  | --- |
+| 032  | 51° 58'.25 N  | 003° 35'.44 E  | --- |
+| 033  | 51° 56'.26 N  | 003° 35'.66 E  | --- |
+| 034  | 52° 04'.74 N  | 003° 34'.69 E  | --- |
+| 035  | 52° 02'.56 N  | 003° 34'.94 E  | --- |
+| 036  | 51° 59'.92 N  | 003° 35'.24 E  | --- |
+| 037  | 52° 00'.57 N  | 003° 35'.17 E  | --- |
+| 038  | 52° 05'.04 N  | 003° 34'.66 E  | --- |
+| 039  | 52° 05'.96 N  | 003° 36'.27 E  | --- |
+| 040  | 52° 06'.17 N  | 003° 36'.64 E  | --- |
+| 041  | 52° 07'.09 N  | 003° 38'.25 E  | --- |
+| 042  | 52° 07'.13 N  | 003° 44'.66 E  | --- |
+| 043  | 52° 07'.14 N  | 003° 47'.10 E  | --- |
+| 044  | 52° 07'.17 N  | 003° 54'.08 E  | --- |
+| 045  | 52° 07'.18 N  | 003° 55'.95 E  | --- |
+| 046  | 52° 07'.19 N  | 004° 00'.08 E  | --- |
+| 047  | 51° 59'.68 N  | 004° 02'.84 E  | Kop Noorderdam Hoek van Holland  |
+| 048  | 51° 59'.16 N  | 004° 02'.50 E  | Kop Zuiderdam Hoek van Holland  |
+| 049  | 51° 58'.12 N  | 003° 57'.97 E  | --- |
+| 050  | 51° 57'.59 N  | 003° 48'.75 E  | --- |
+| 051  | 51° 57'.21 N  | 003° 41'.98 E  | --- |
+| 052  | 51° 57'.10 N  | 003° 40'.08 E  | --- |
+| 053  | 51° 56'.66 N  | 003° 37'.75 E  | --- |
+| 054  | 51° 50'.94 N  | 002° 40'.25 E  | --- |
+| 055  | 51° 54'.41 N  | 002° 45'.65 E  | --- |
+| 056  | 51° 57'.27 N  | 002° 54'.66 E  | --- |
+| 057  | 51° 58'.24 N  | 002° 57'.73 E  | --- |
+| 058  | 51° 58'.73 N  | 003° 00'.42 E  | --- |
+| 059  | 52° 00'.37 N  | 003° 01'.29 E  | --- |
+| 060  | 51° 59'.49 N  | 003° 12'.46 E  | --- |
+| 061  | 51° 58'.77 N  | 003° 12'.66 E  | --- |
+| 062  | 51° 58'.79 N  | 003° 13'.86 E  | --- |
+| 063  | 52° 02'.00 N  | 003° 53'.00 E  | --- |
+| 064  | 52° 02'.33 N  | 003° 55'.89 E  | --- |
+| 065  | 52° 01'.65 N  | 003° 56'.28 E  | --- |
+| 066  | 52° 01'.13 N  | 003° 57'.11 E  | --- |
+| 067  | 52° 00'.05 N  | 004° 01'.42 E  | --- |
+| 068  | 51° 59'.90 N  | 004° 01'.93 E  | --- |
+| 069  | 51° 59'.52 N  | 004° 02'.74 E  | --- |
+| 070  | 51° 59'.26 N  | 004° 02'.57 E  | --- |
+| 071  | 51° 59'.66 N  | 004° 01'.12 E  | --- |
+| 072  | 52° 01'.15 N  | 003° 55'.13 E  | --- |
+| 073  | 51° 58'.59 N  | 003° 53'.40 E  | --- |
+| 074  | 52° 01'.34 N  | 003° 52'.82 E  | --- |
+| 075  | 51° 59'.89 N  | 003° 34'.87 E  | --- |
+| 076  | 51° 59'.56 N  | 003° 33'.82 E  | --- |
+| 077  | 51° 58'.86 N  | 003° 33'.51 E  | --- |
+| 078  | 51° 59'.47 N  | 003° 29'.78 E  | --- |
+| 079  | 51° 56'.95 N  | 003° 00'.07 E  | --- |
+| 080  | 51° 56'.53 N  | 002° 55'.29 E  | --- |
+| 081  | 51° 55'.10 N  | 002° 51'.61 E  | --- |
+| 082  | 51° 53'.17 N  | 002° 46'.62 E  | --- |
+| 083  | 51° 50'.04 N  | 002° 41'.75 E  | --- |
+| 084  | 52° 06'.01 N  | 002° 42'.88 E  | --- |
+| 085  | 52° 03'.95 N  | 002° 42'.67 E  | --- |
+| 086  | 52° 13'.41 N  | 002° 59'.02 E  | --- |
+| 087  | 52° 11'.51 N  | 003° 02'.62 E  | --- |
+| 088  | 52° 09'.38 N  | 003° 06'.60 E  | --- |
+| 089  | 52° 07'.72 N  | 003° 09'.69 E  | --- |
+| 090  | 52° 06'.62 N  | 003° 30'.19 E  | --- |
+| 091  | 52° 07'.72 N  | 003° 31'.29 E  | --- |
+| 092  | 52° 07'.98 N  | 003° 31'.54 E  | --- |
+| 093  | 52° 09'.08 N  | 003° 32'.64 E  | --- |
+| 094  | 52° 10'.90 N  | 003° 44'.79 E  | --- |
+| 095  | 52° 14'.02 N  | 003° 44'.96 E  | --- |
+| 096  | 52° 22'.68 N  | 003° 47'.73 E  | --- |
+| 097  | 52° 22'.45 N  | 003° 49'.51 E  | --- |
+| 098  | 52° 19'.52 N  | 003° 48'.52 E  | --- |
+| 099  | 52° 17'.07 N  | 003° 47'.69 E  | --- |
+| 100  | 52° 19'.28 N  | 003° 50'.38 E  | --- |
+| 101  | 52° 22'.21 N  | 003° 51'.38 E  | --- |
+| 102  | 52° 21'.97 N  | 003° 53'.28 E  | --- |
+| 103  | 52° 19'.03 N  | 003° 52'.34 E  | --- |
+| 104  | 52° 12'.85 N  | 003° 12'.42 E  | --- |
+| 105  | 52° 14'.93 N  | 003° 15'.93 E  | --- |
+| 106  | 52° 20'.22 N  | 003° 24'.90 E  | --- |
+| 107  | 52° 21'.54 N  | 003° 27'.14 E  | --- |
+| 108  | 52° 14'.47 N  | 003° 29'.38 E  | --- |
+| 109  | 52° 10'.15 N  | 003° 29'.58 E  | --- |
+| 110  | 52° 07'.81 N  | 003° 26'.80 E  | --- |
+| 111  | 52° 09'.87 N  | 003° 20'.93 E  | --- |
+| 112  | 52° 11'.66 N  | 003° 15'.83 E  | --- |
+| 113  | 52° 26'.44 N  | 003° 26'.55 E  | --- |
+| 114  | 52° 27'.15 N  | 003° 26'.74 E  | --- |
+| 115  | 52° 31'.94 N  | 003° 28'.01 E  | --- |
+| 116  | 52° 31'.76 N  | 003° 29'.87 E  | --- |
+| 117  | 52° 27'.74 N  | 003° 28'.79 E  | --- |
+| 118  | 52° 27'.02 N  | 003° 28'.60 E  | --- |
+| 119  | 52° 27'.31 N  | 003° 40'.51 E  | --- |
+| 120  | 52° 31'.49 N  | 003° 47'.17 E  | --- |
+| 121  | 52° 31'.50 N  | 003° 50'.57 E  | --- |
+| 122  | 52° 31'.50 N  | 003° 54'.91 E  | --- |
+| 123  | 52° 30'.26 N  | 003° 54'.91 E  | --- |
+| 124  | 52° 30'.27 N  | 003° 55'.98 E  | --- |
+| 125  | 52° 30'.36 N  | 004° 07'.51 E  | --- |
+| 126  | 52° 30'.36 N  | 004° 08'.93 E  | --- |
+| 127  | 52° 30'.38 N  | 004° 11'.84 E  | --- |
+| 128  | 52° 29'.47 N  | 004° 20'.03 E  | --- |
+| 129  | 52° 29'.39 N  | 004° 20'.73 E  | --- |
+| 130  | 52° 29'.65 N  | 004° 23'.45 E  | --- |
+| 131  | 52° 29'.22 N  | 004° 23'.56 E  | --- |
+| 132  | 52° 29'.00 N  | 004° 24'.16 E  | --- |
+| 133  | 52° 28'.10 N  | 004° 32'.02 E  | --- |
+| 134  | 52° 27'.86 N  | 004° 31'.95 E  | --- |
+| 135  | 52° 29'.23 N  | 004° 19'.96 E  | --- |
+| 136  | 52° 30'.06 N  | 004° 12'.50 E  | --- |
+| 137  | 52° 30'.04 N  | 004° 09'.16 E  | --- |
+| 138  | 52° 30'.03 N  | 004° 07'.74 E  | --- |
+| 139  | 52° 29'.95 N  | 003° 55'.87 E  | --- |
+| 140  | 52° 29'.94 N  | 003° 54'.91 E  | --- |
+| 141  | 52° 28'.54 N  | 003° 54'.91 E  | --- |
+| 142  | 52° 28'.08 N  | 003° 49'.47 E  | --- |
+| 143  | 52° 27'.57 N  | 003° 43'.53 E  | --- |
+| 144  | 52° 25'.16 N  | 003° 48'.53 E  | --- |
+| 145  | 52° 26'.83 N  | 003° 49'.06 E  | --- |
+| 146  | 52° 31'.50 N  | 003° 56'.38 E  | --- |
+| 147  | 52° 30'.91 N  | 003° 56'.18 E  | --- |
+| 148  | 52° 27'.60 N  | 003° 55'.10 E  | --- |
+| 149  | 52° 25'.53 N  | 003° 54'.43 E  | --- |
+| 150  | 52° 29'.22 N  | 004° 08'.31 E  | --- |
+| 151  | 52° 28'.29 N  | 004° 08'.97 E  | --- |
+| 152  | 52° 26'.55 N  | 003° 57'.50 E  | --- |
+| 153  | 52° 31'.50 N  | 004° 06'.70 E  | --- |
+| 154  | 52° 30'.91 N  | 004° 07'.12 E  | --- |
+| 155  | 52° 31'.50 N  | 004° 08'.13 E  | --- |
+| 156  | 52° 30'.90 N  | 004° 08'.55 E  | --- |
+| 157  | 52° 29'.87 N  | 004° 09'.28 E  | --- |
+| 158  | 52° 28'.58 N  | 004° 10'.85 E  | --- |
+| 159  | 52° 28'.70 N  | 004° 19'.80 E  | --- |
+| 160  | 52° 27'.62 N  | 004° 19'.48 E  | --- |
+| 161  | 52° 31'.50 N  | 004° 10'.60 E  | --- |
+| 162  | 52° 31'.35 N  | 004° 13'.25 E  | --- |
+| 163  | 52° 30'.52 N  | 004° 20'.35 E  | --- |
+| 164  | 52° 29'.76 N  | 004° 20'.12 E  | --- |
+| 165  | 52° 30'.90 N  | 004° 10'.17 E  | --- |
+| 166  | 52° 35'.40 N  | 004° 03'.95 E  | --- |
+| 167  | 52° 35'.72 N  | 004° 05'.15 E  | --- |
+| 168  | 52° 32'.73 N  | 004° 07'.26 E  | --- |
+| 169  | 52° 36'.04 N  | 004° 06'.36 E  | --- |
+| 170  | 52° 33'.28 N  | 004° 08'.30 E  | --- |
+| 171  | 53° 36'.76 N  | 002° 56'.42 E  | --- |
+| 172  | 53° 44'.35 N  | 003° 01'.32 E  | --- |
+| 173  | 53° 58'.56 N  | 003° 17'.24 E  | --- |
+| 174  | 54° 00'.42 N  | 003° 42'.93 E  | --- |
+| 175  | 53° 58'.46 N  | 003° 43'.63 E  | --- |
+| 176  | 53° 56'.61 N  | 003° 18'.10 E  | --- |
+| 177  | 53° 43'.66 N  | 003° 03'.58 E  | --- |
+| 178  | 53° 36'.23 N  | 002° 58'.77 E  | --- |
+| 179  | 53° 29'.82 N  | 002° 58'.05 E  | --- |
+| 180  | 53° 35'.25 N  | 003° 03'.04 E  | --- |
+| 181  | 53° 41'.52 N  | 003° 08'.83 E  | --- |
+| 182  | 53° 55'.05 N  | 003° 27'.39 E  | --- |
+| 183  | 53° 57'.15 N  | 003° 44'.10 E  | --- |
+| 184  | 53° 55'.20 N  | 003° 44'.80 E  | --- |
+| 185  | 53° 53'.08 N  | 003° 27'.94 E  | --- |
+| 186  | 53° 40'.66 N  | 003° 10'.92 E  | --- |
+| 187  | 53° 34'.71 N  | 003° 05'.41 E  | --- |
+| 188  | 53° 29'.40 N  | 003° 00'.60 E  | --- |
+| 189  | 54° 01'.87 N  | 004° 08'.88 E  | --- |
+| 190  | 53° 57'.16 N  | 004° 09'.94 E  | --- |
+| 191  | 52° 20'.54 N  | 002° 43'.92 E  | --- |
+| 192  | 52° 55'.70 N  | 003° 14'.17 E  | --- |
+| 193  | 52° 55'.06 N  | 003° 17'.30 E  | --- |
+| 194  | 52° 54'.76 N  | 003° 18'.79 E  | --- |
+| 195  | 52° 54'.12 N  | 003° 21'.92 E  | --- |
+| 196  | 52° 09'.53 N  | 002° 43'.25 E  | --- |
+| 197  | 53° 03'.73 N  | 003° 18'.63 E  | --- |
+| 198  | 53° 03'.09 N  | 003° 21'.77 E  | --- |
+| 199  | 53° 02'.79 N  | 003° 23'.26 E  | --- |
+| 200  | 53° 02'.15 N  | 003° 26'.40 E  | --- |
+| 201  | 53° 22'.89 N  | 003° 28'.32 E  | --- |
+| 202  | 53° 22'.07 N  | 003° 31'.39 E  | --- |
+| 203  | 53° 20'.62 N  | 003° 36'.77 E  | --- |
+| 204  | 53° 19'.84 N  | 003° 39'.66 E  | --- |
+| 205  | 53° 43'.34 N  | 003° 38'.73 E  | --- |
+| 206  | 53° 57'.56 N  | 004° 15'.09 E  | --- |
+| 207  | 53° 42'.94 N  | 003° 42'.04 E  | --- |
+| 208  | 53° 31'.07 N  | 003° 44'.64 E  | --- |
+| 209  | 53° 46'.69 N  | 004° 19'.92 E  | --- |
+| 210  | 53° 56'.65 N  | 004° 35'.92 E  | --- |
+| 211  | 53° 59'.18 N  | 004° 35'.92 E  | --- |
+| 212  | 53° 59'.96 N  | 004° 45'.92 E  | --- |
+| 213  | 53° 45'.86 N  | 004° 23'.24 E  | --- |
+| 214  | 53° 29'.95 N  | 003° 47'.29 E  | --- |
+| 215  | 54° 02'.53 N  | 004° 20'.84 E  | --- |
+| 216  | 54° 05'.55 N  | 004° 59'.24 E  | --- |
+| 217  | 54° 04'.07 N  | 004° 59'.58 E  | --- |
+| 218  | 54° 02'.58 N  | 004° 59'.92 E  | --- |
+| 219  | 54° 01'.10 N  | 005° 00'.26 E  | --- |
+| 220  | 54° 00'.92 N  | 004° 58'.06 E  | --- |
+| 221  | 54° 00'.60 N  | 004° 53'.99 E  | --- |
+| 222  | 54° 00'.22 N  | 004° 49'.15 E  | --- |
+| 223  | 53° 59'.97 N  | 004° 46'.15 E  | --- |
+| 224  | 54° 07'.13 N  | 005° 19'.24 E  | --- |
+| 225  | 54° 10'.86 N  | 006° 00'.12 E  | --- |
+| 226  | 54° 08'.93 N  | 006° 01'.25 E  | --- |
+| 227  | 54° 05'.65 N  | 005° 19'.58 E  | --- |
+| 228  | 54° 04'.17 N  | 005° 19'.92 E  | --- |
+| 229  | 54° 07'.96 N  | 006° 01'.82 E  | --- |
+| 230  | 54° 06'.06 N  | 006° 02'.92 E  | --- |
+| 231  | 52° 33'.71 N  | 003° 23'.17 E  | --- |
+| 232  | 52° 35'.71 N  | 003° 25'.56 E  | --- |
+| 233  | 52° 54'.33 N  | 003° 50'.31 E  | --- |
+| 234  | 52° 56'.67 N  | 003° 53'.44 E  | --- |
+| 235  | 53° 08'.17 N  | 004° 16'.35 E  | --- |
+| 236  | 53° 06'.48 N  | 004° 20'.79 E  | --- |
+| 237  | 52° 56'.53 N  | 004° 00'.92 E  | --- |
+| 238  | 52° 55'.22 N  | 003° 58'.32 E  | --- |
+| 239  | 52° 54'.31 N  | 003° 56'.67 E  | --- |
+| 240  | 52° 52'.31 N  | 003° 53'.83 E  | --- |
+| 241  | 52° 36'.04 N  | 003° 31'.02 E  | --- |
+| 242  | 52° 34'.34 N  | 003° 28'.65 E  | --- |
+| 243  | 52° 32'.35 N  | 003° 26'.36 E  | --- |
+| 244  | 52° 50'.60 N  | 003° 56'.80 E  | --- |
+| 245  | 52° 49'.59 N  | 003° 58'.56 E  | --- |
+| 246  | 52° 45'.85 N  | 004° 05'.04 E  | --- |
+| 247  | 52° 51'.85 N  | 004° 12'.64 E  | --- |
+| 248  | 52° 59'.95 N  | 004° 17'.89 E  | --- |
+| 249  | 53° 05'.42 N  | 004° 23'.60 E  | --- |
+| 250  | 53° 03'.82 N  | 004° 27'.80 E  | --- |
+| 251  | 52° 58'.60 N  | 004° 22'.34 E  | --- |
+| 252  | 52° 50'.38 N  | 004° 17'.01 E  | --- |
+| 253  | 52° 44'.60 N  | 004° 09'.90 E  | --- |
+| 254  | 52° 43'.48 N  | 004° 09'.14 E  | --- |
+| 255  | 53° 10'.95 N  | 004° 21'.94 E  | --- |
+| 256  | 53° 18'.32 N  | 004° 27'.55 E  | --- |
+| 257  | 53° 22'.57 N  | 004° 29'.92 E  | --- |
+| 258  | 53° 29'.16 N  | 004° 33'.61 E  | --- |
+| 259  | 53° 29'.94 N  | 004° 36'.88 E  | --- |
+| 260  | 53° 26'.98 N  | 004° 38'.02 E  | --- |
+| 261  | 53° 17'.22 N  | 004° 32'.20 E  | --- |
+| 262  | 53° 09'.08 N  | 004° 26'.00 E  | --- |
+| 263  | 53° 12'.35 N  | 004° 30'.89 E  | --- |
+| 264  | 53° 27'.97 N  | 004° 42'.17 E  | --- |
+| 265  | 53° 29'.03 N  | 004° 46'.58 E  | --- |
+| 266  | 53° 26'.30 N  | 004° 44'.60 E  | --- |
+| 267  | 53° 22'.85 N  | 004° 43'.92 E  | --- |
+| 268  | 53° 10'.95 N  | 004° 35'.31 E  | --- |
+| 269  | 53° 31'.88 N  | 004° 44'.99 E  | --- |
+| 270  | 53° 32'.93 N  | 004° 49'.41 E  | --- |
+| 271  | 53° 35'.49 N  | 004° 37'.16 E  | --- |
+| 272  | 53° 35'.65 N  | 004° 40'.08 E  | --- |
+| 273  | 53° 36'.07 N  | 004° 48'.04 E  | --- |
+| 274  | 53° 36'.28 N  | 004° 51'.85 E  | --- |
+| 275  | 53° 30'.93 N  | 005° 02'.13 E  | --- |
+| 276  | 53° 32'.33 N  | 005° 09'.62 E  | --- |
+| 277  | 53° 46'.18 N  | 006° 20'.40 E  | --- |
+| 278  | 53° 43'.38 N  | 006° 22'.25 E  | --- |
+| 279  | 53° 29'.53 N  | 005° 11'.20 E  | --- |
+| 280  | 53° 28'.12 N  | 005° 03'.92 E  | --- |
+| 281  | 53° 37'.09 N  | 005° 06'.92 E  | --- |
+| 282  | 53° 51'.54 N  | 006° 21'.79 E  | --- |
+| 283  | 53° 48'.25 N  | 006° 20'.29 E  | --- |
+| 284  | 53° 34'.26 N  | 005° 08'.52 E  | --- |
+| 285  | 51° 46'.33 N  | 003° 14'.82 E  | --- |
+| 286  | 51° 52'.46 N  | 003° 24'.76 E  | --- |
+| 287  | 51° 50'.15 N  | 003° 25'.42 E  | --- |
+| 288  | 51° 50'.24 N  | 003° 23'.76 E  | --- |
+| 289  | 51° 50'.42 N  | 003° 20'.35 E  | --- |
+| 290  | 52° 16'.31 N  | 003° 02'.43 E  | --- |
+| 291  | 52° 18'.66 N  | 003° 05'.21 E  | --- |
+| 292  | 52° 24'.49 N  | 003° 17'.35 E  | --- |
+| 293  | 52° 23'.51 N  | 003° 16'.23 E  | --- |
+| 294  | 52° 17'.29 N  | 003° 09'.16 E  | --- |
+| 295  | 52° 14'.91 N  | 003° 06'.47 E  | --- |
+| 296  | 52° 18'.26 N  | 002° 56'.81 E  | --- |
+| 297  | 52° 20'.72 N  | 002° 59'.24 E  | --- |
+| 298  | 52° 31'.48 N  | 003° 42'.11 E  | --- |
+| 299  | 52° 31'.49 N  | 003° 44'.15 E  | --- |
+| 300  | 52° 30'.88 N  | 003° 43'.12 E  | --- |
+| 301  | 52° 30'.88 N  | 003° 42'.32 E  | --- |
+| 302  | 52° 32'.37 N  | 003° 45'.67 E  | --- |
+| 303  | 52° 37'.01 N  | 003° 52'.36 E  | --- |
+| 304  | 52° 38'.79 N  | 003° 54'.92 E  | --- |
+| 305  | 52° 41'.86 N  | 003° 59'.37 E  | --- |
+| 306  | 52° 42'.52 N  | 004° 00'.33 E  | --- |
+| 307  | 52° 37'.68 N  | 004° 05'.20 E  | --- |
+| 308  | 52° 38'.11 N  | 004° 02'.03 E  | --- |
+| 309  | 52° 34'.13 N  | 003° 57'.24 E  | --- |
+| 310  | 52° 34'.16 N  | 003° 51'.43 E  | --- |
+| 311  | 52° 26'.38 N  | 003° 43'.80 E  | --- |
+| 312  | 52° 23'.49 N  | 003° 37'.81 E  | --- |
+| 313  | 52° 21'.69 N  | 003° 34'.96 E  | --- |
+| 314  | 52° 25'.06 N  | 003° 54'.28 E  | --- |
+| 315  | 52° 46'.48 N  | 003° 57'.51 E  | --- |
+| 316  | 52° 45'.11 N  | 003° 57'.05 E  | --- |
+| 317  | 52° 08'.05 N  | 002° 45'.27 E  | --- |
+| 318  | 51° 54'.08 N  | 002° 52'.65 E  | --- |
+| 319  | 52° 01'.26 N  | 003° 12'.56 E  | --- |
+| 320  | 51° 59'.88 N  | 003° 13'.89 E  | --- |
+| 321  | 51° 57'.37 N  | 003° 13'.55 E  | --- |
+| 322  | 51° 55'.64 N  | 003° 12'.25 E  | --- |
+| 323  | 52° 00'.03 N  | 003° 27'.01 E  | --- |
+| 324  | 52° 01'.89 N  | 003° 27'.31 E  | --- |
+| 325  | 52° 02'.15 N  | 003° 33'.36 E  | --- |
+| 326  | 52° 00'.57 N  | 003° 33'.51 E  | --- |
+| 327  | 51° 55'.00 N  | 003° 38'.60 E  | --- |
+| 328  | 51° 54'.94 N  | 003° 42'.32 E  | --- |
+| 329  | 51° 55'.32 N  | 003° 49'.09 E  | --- |
+| 330  | 52° 10'.92 N  | 003° 32'.66 E  | --- |
+| 331  | 52° 27'.49 N  | 004° 09'.53 E  | --- |
+| 332  | 52° 26'.29 N  | 004° 02'.10 E  | --- |
+| 333  | 52° 25'.35 N  | 004° 01'.18 E  | --- |
+| 334  | 52° 32'.43 N  | 004° 12'.37 E  | --- |
+| 335  | 52° 31'.65 N  | 004° 20'.36 E  | --- |
+| 336  | 52° 30'.40 N  | 004° 21'.40 E  | --- |
+| 337  | 51° 44'.65 N  | 003° 18'.32 E  | --- |
+| 338  | 51° 46'.25 N  | 003° 16'.72 E  | --- |
+| 339  | 51° 48'.03 N  | 003° 24'.39 E  | --- |
+| 340  | 52° 02'.17 N  | 003° 56'.11 E  | --- |
+| 341  | 52° 01'.77 N  | 003° 55'.84 E  | --- |
+| 342  | 52° 09'.95 N  | 004° 13'.12 E  | --- |
+| 343  | 52° 11'.80 N  | 004° 11'.72 E  | --- |
+| 344  | 52° 12'.95 N  | 004° 13'.42 E  | --- |
+| 345  | 52° 11'.65 N  | 004° 15'.42 E  | --- |
+| 346  | 52° 07'.36 N  | 004° 14'.90 E  | --- |
+| 347  | 52° 07'.90 N  | 004° 14'.52 E  | --- |
+| 348  | 52° 08'.10 N  | 004° 15'.32 E  | --- |
+| 349  | 52° 07'.60 N  | 004° 15'.72 E  | --- |
+| 350  | 51° 34'.00 N  | 003° 30'.00 E  | --- |
+| 351  | 53° 14'.95 N  | 004° 39'.52 E  | --- |
+| 352  | 53° 25'.95 N  | 004° 57'.72 E  | --- |
+| 353  | 53° 27'.66 N  | 005° 04'.22 E  | --- |
+| 354  | 53° 29'.03 N  | 005° 11'.30 E  | --- |
+| 355  | 53° 10'.92 N  | 004° 51'.31 E  | --- |
+| 356  | 52° 12'.45 N  | 003° 48'.32 E  | --- |
+| 357  | 52° 15'.45 N  | 003° 48'.32 E  | --- |
+| 358  | 52° 15'.45 N  | 003° 51'.42 E  | --- |
+| 359  | 52° 12'.45 N  | 003° 51'.42 E  | --- |
+| 360  | 52° 32'.79 N  | 004° 02'.22 E  | --- |
+| 361  | 52° 34'.65 N  | 004° 02'.22 E  | --- |
+| 362  | 52° 34'.04 N  | 004° 04'.82 E  | --- |
+| 363  | 52° 32'.15 N  | 004° 04'.82 E  | --- |
+| 364  | 51° 48'.79 N  | 003° 51'.85 E  | lichttoren Ouddorp  |
+| 365  | 52° 04'.70 N  | 004° 13'.30 E  | --- |
+| 366  | 52° 06'.40 N  | 004° 09'.90 E  | --- |
+| 367  | 52° 09'.30 N  | 004° 14'.10 E  | --- |
+| 368  | 52° 07'.60 N  | 004° 17'.40 E  | --- |
+| 369  | 52° 06'.10 N  | 004° 15'.70 E  | --- |
+| 370  | 52° 27'.95 N  | 004° 32'.10 E  | --- |
+| 371  | 52° 52'.90 N  | 004° 42'.90 E  | lichttoren Grote Kaap  |
+| 372  | 52° 52'.90 N  | 004° 37'.90 E  | boei SG  |
+| 373  | 52° 54'.65 N  | 004° 34'.71 E  | boei ZH  |
+| 374  | 52° 56'.77 N  | 004° 33'.80 E  | boei MR  |
+| 375  | 53° 00'.23 N  | 004° 35'.36 E  | boei NH  |
+| 376  | 53° 03'.91 N  | 004° 39'.37 E  | --- |
+| 377  | 53° 03'.70 N  | 004° 43'.30 E  | paal 15 op het eiland Texel  |
+| 378  | 53° 17'.36 N  | 004° 59'.02 E  | ton Drawa W  |
+| 379  | 53° 19'.58 N  | 004° 55'.79 E  | boei ZS  |
+| 380  | 53° 24'.13 N  | 005° 02'.32 E  | boei TG  |
+| 381  | 53° 26'.17 N  | 005° 09'.70 E  | boei Stolzenfels  |
+| 382  | 53° 23'.30 N  | 005° 11'.30 E  | --- |
+| 383  | 53° 34'.80 N  | 006° 13'.60 E  | --- |
+| 384  | 53° 37'.00 N  | 006° 19'.40 E  | --- |
+| 385  | 53° 38'.90 N  | 006° 27'.00 E  | --- |
+| 386  | 53° 37'.40 N  | 006° 31'.10 E  | --- |
+| 387  | 53° 34'.60 N  | 006° 21'.80 E  | --- |
 
-Tabel 2: Definitie van punten op de grens van het continentaal plat 
-
-| --- |
-|---|
-| A: snijpunt van de lijn door de punten 1 en 2 en de grens continentaal plat  |
-| B: snijpunt van de lijn door de punten 32 en 33 en de grens continentaal plat  |
-| C: snijpunt van de lijn door de punten 28 en 29 en de grens continentaal plat  |
-| D: snijpunt van de lijn door de punten 26 en 27 en de grens continentaal plat  |
-| E: snijpunt van de lijn door de punten 57 en 58 en de grens continentaal plat  |
-| F: snijpunt van de lijn door de punten 61 en 62 en de grens continentaal plat  |
-| G: snijpunt van de lijn door de punten 63 en 64 en de grens continentaal plat  |
-| H: snijpunt van de lijn door de punten 69 en 70 en de grens continentaal plat  |
-| I: snijpunt van de lijn door de punten 7 en 8 en de grens continentaal plat  |
-| J: snijpunt van de lijn door de punten 9 en 10 en de grens continentaal plat  |
-| K: snijpunt van de lijn door de punten 19 en 20 en de grens continentaal plat  |
-| L: snijpunt van de lijn door de punten 37 en 38 en de grens continentaal plat  |
-| M: snijpunt van de lijn door de punten 39 en 40 en de grens continentaal plat  |
-| N: snijpunt van de lijn door de punten 138 en 139 en de grens continentaal plat  |
-| O: snijpunt van de lijn door de punten 131 en 132 en de grens continentaal plat  |
-| P: snijpunt van de lijn door de punten 164 en 116 en de grens continentaal plat  |
-| Q: snijpunt van de lijn door de punten 162 en 163 en de grens continentaal plat  |
-| R: snijpunt van de lijn door de punten 188 en 191 en de grens continentaal plat  |
-| S: snijpunt van de lijn door de punten 189 en 190 en de grens continentaal plat  |
-| T: snijpunt van de lijn door de punten 184 en 39 en de grens continentaal plat  |
-| U: snijpunt van de lijn door de punten 187 en 190 en de grens continentaal plat  |
-| V: snijpunt van de lijn door de punten 241 en 222 en de grens continentaal plat  |
-| W: snijpunt van de lijn door de punten 235 en 223 en de grens continentaal plat  |
-| X: snijpunt van de gemeentelijke grens en de landsgrens nabij Rottumeroog  |
-| Y: snijpunt van de lijn door de punten 192 en 194 en de grens continentaal plat  |
-
-Tabel 3: Definitie van punten op de gemeentelijke grens 
-
-| --- |
-|---|
-| I: snijpunt van de lijn door de punten 239 en 240 en de gemeentelijke grens  |
-| II: snijpunt van de lijn door de punten 236 en 237 en de gemeentelijke grens  |
-| III: snijpunt van de lijn door de punten 233 en 234 en de gemeentelijke grens  |
-| IV: snijpunt van de lijn door de punten 229 en 228 en de gemeentelijke grens  |
-| V: snijpunt van de cirkellijn zoals gedefinieerd in tabel 1 onder 16 ("STZ aanloopgebied IJmuiden") en de gemeentelijke grens ten noorden van het daar genoemde referentie punt.  |
-| VI: snijpunt van de cirkellijn zoals gedefinieerd in tabel 1, onder 16 ("STZ aanloopgebied IJmuiden") en de gemeentelijke grens ten zuiden van het daar genoemde referentie punt.  |
-| VII: snijpunt van de cirkellijn zoals gedefinieerd in tabel 1, onder 14 ("two-way route naar en van het Schulpengat" en de gemeentelijke grens ten noorden van het daar genoemde referentie punt.  |
-| VIII: snijpunt van de cirkellijn zoals gedefinieerd in de "two-way route naar en van het Schulpengat" en de gemeentelijke grens ten zuiden van het daar genoemde referentie punt.  |
-| IX: snijpunt van de lijn door de punten 213 en 212 en de gemeentelijke grens  |
-| X: snijpunt van de lijn door de punten 209 en 210 en de gemeentelijke grens  |
-| XI: snijpunt van de lijn door de punten 127 en 201 en de gemeentelijke grens  |
-| XII: snijpunt van de lijn door de punten 178 en 199 en de gemeentelijke grens  |
-| XIII: snijpunt van de lijn door de punten 202 en 123 en de gemeentelijke grens  |
-| XIV: snijpunt van de lijn door de punten 107 en 211 en de gemeentelijke grens  |
+Kaart behorende bij bijlage 4   ![]()
 
 ### Bijlage  5  
 
 ####behorende bij artikel 1.10.7 
 
-In deze bijlage staan de gebieden beschreven, genoemd in artikel 1.10.7 van de regeling. In de beschrijving wordt gebruik gemaakt van cijfers en letters die in de tabellen 1 en 2 zijn gedefinieerd. Gebieden: 
+In deze bijlage staan de gebieden beschreven, genoemd in artikel 1.10.7 van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart. Gebieden: Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°. Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°. Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°. Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E. Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°. Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.  Tabel behorende bij bijlage 5: Geografische coördinaten (in ETRS89) 
 
-1) Schietgebied Noordzee ten noorden van de Waddeneilanden (BAZ40). Dit gebied wordt begrensd door de lijn die de punten a, b, c, d, en e met elkaar verbindt.  
-
-2) Marine-oefengebied ten westen van Haaksgronden (BAZ33). Dit gebied wordt begrensd door de parallellen 53°05'N en 53°13'N en de meridianen 3°45'E en 4°10'E.  
-
-3) Een schietgebied nabij Petten (BAZ30). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 1, 2, via cirkelboog vanuit f met een straal van 9 zeemijlen naar 3, en via de gemeentelijke grens naar 1.  
-
-4) Een schietgebied nabij Petten (BAZ31). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 4, 5, via een kromme waarbij de kortste afstand tot de lijn door g en h altijd 14 zeemijlen is naar 6, 7 en via de gemeentelijke grens naar 4.  
-
-5) Schietgebied Vliehors (BAZ36). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 8, 9 via een cirkelboog vanuit i met straal van 4 zeemijlen naar 10, 11 en via de gemeentelijke grens naar 8.  
-
-6) Schietgebied Zeegat van Texel (BAZ32). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 12, 13, via een cirkelboog vanuit j met een straal van 21000 meter naar 14 en via de gemeentelijke grens naar 12.  
-
-7) Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.    Tabel 1 Geografische coordinaten (ED50) 
-
-| --- | --- | --- |
-|---|---|---|
 | Punt  | X-geografisch  | Y-geografisch  |
-| --- | --- | --- |
-| a  | 54°00',0N  | 004°46',0E  |
-| b  | 54°00',0N  | 006°06',4E  |
-| c  | 53°51',1N  | 006°14',0E  |
-| d  | 53°37',6N  | 005°06',0E  |
-| e  | 53°36',0N  | 004°46',0E  |
-| f  | 52°47',1N  | 004°40',3E  |
-| g  | 52°47',7N  | 004°40',3E  |
-| h  | 52°47',8N  | 004°41',0E  |
-| i  | 53°14',4N  | 004°55',3E  |
-| j  | 52°55',2N  | 004°43',1E  |
-| k  | 52°57',8N  | 004°44',3E  |
+|---|---|---|
+| A  | 52° 47',10 N  | 004° 40',30 E  |
+| B  | 52° 47',70 N  | 004° 40',30 E  |
+| C  | 52° 57',40 N  | 004° 44',30 E  |
+| D  | 53° 14',35 N  | 004° 55',22 E  |
+| E  | 53° 35',96 N  | 004° 45',92 E  |
+| F  | 53° 59',96 N  | 004° 45',92 E  |
+| G  | 53° 59',96 N  | 006° 06',36 E  |
+| H  | 53° 51',06 N  | 006° 13',89 E  |
+| I  | 53° 37',59 N  | 005° 05',92 E  |
 
-Tabel 2. Snijpunten van gebieden met de gemeentelijke grens 
-
-| --- |
-|---|
-| 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens.  |
-| 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°.  |
-| 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens  |
-| 4: snijpunt van de lijn beginnend in punt g in de richting 225° met de gemeentelijke grens.  |
-| 5: punt vanuit punt g op een afstand van 14 zeemijlen in de richting 225°.  |
-| 6: punt vanuit punt h op een afstand van 14 zeemijlen in de richting 345°.  |
-| 7: snijpunt van de lijn beginnend in punt h in de richting 345° met de gemeentelijke grens.  |
-| 8: snijpunt van de lijn beginnend in punt i in de richting 275° met de gemeentelijke grens.  |
-| 9: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 275°.  |
-| 10: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 365°.  |
-| 11: snijpunt van de lijn beginnend in punt i in de richting 365° met de gemeentelijke grens.  |
-| 12: snijpunt ten zuiden van punt j, van de cirkelboog met als middelpunt punt j met een straal van 21000 meters met de gemeentelijke grens.  |
-| 13: punt vanuit punt j op een afstand van 21000 meters in de richting 335°.  |
-| 14: snijpunt van de lijn beginnend in punt j in de richting 335° met de gemeentelijke grens.  |
-| 15: snijpunt van de lijn beginnend in punt k in de richting 265° met de gemeentelijke grens.  |
-| 16: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 265°.  |
-| 17: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 337°.  |
-| 18: snijpunt van de lijn beginnend in punt k in de richting 337° met de gemeentelijke grens.  |
+Kaart behorende bij bijlage 5   ![]()
 
 ### Bijlage  11  
 
@@ -3053,7 +3175,7 @@ Tabel 2. Snijpunten van gebieden met de gemeentelijke grens
 | 1.2. Boring  |
 | 1. een aanduiding (code of naam) van de boring inclusief sidetracks  |
 | 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting  |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het stelsel van de Europese vereffening  |
+| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem  |
 | 4. het doel van de boring  |
 | 5. de datum van het begin van de boring en het aantal dagen op de locatie.  |
 | 1.3. Mijnbouw- of boorinstallatie  |

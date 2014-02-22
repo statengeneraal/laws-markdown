@@ -4587,6 +4587,7 @@ a. de onroerende zaak waarmee het betreffende gegeven verband houdt, geheel of g
 
 b. de Dienst, genoemd in artikel 1 van de Kadasterwet, is gevestigd indien het betreffende gegeven verband houdt met een te boek staand schip of luchtvaartuig.     
 7.  Tegen een beschikking, gegeven op grond van artikel 5, tweede lid, of 6, vierde lid, van de Wet op de jeugdzorg, kan beroep worden ingesteld bij de kinderrechter binnen het rechtsgebied waarvan de stichting haar zetel heeft.   
+8.  Tegen een besluit inzake subsidieverstrekking voor een project op grond van de Uitvoeringswet EFRO, kan beroep worden ingesteld bij de rechtbank binnen het rechtsgebied waarvan een autoriteit als bedoeld in artikel 3 van die wet die bevoegd is besluiten te nemen inzake de verstrekking van EFRO-middelen voor het project, haar zetel heeft, tenzij die autoriteit in het buitenland gevestigd is.   
 
 ### Hoofdstuk  4  
 

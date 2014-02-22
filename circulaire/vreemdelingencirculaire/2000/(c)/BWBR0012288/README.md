@@ -593,13 +593,13 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van a
 
 ####Artikel 29 eerste lid, aanhef en onder a Vw, vluchtelingschap
 
-###Algemeen
+### *Algemeen* 
 
 Artikel 1A van het Vluchtelingenverdrag geeft aan welke vreemdeling ‘vluchteling’ is. Het aanmerken als vluchteling is niet afhankelijk van een beoordeling door een individuele staat. Het Vluchtelingenverdrag kent geen verplichting om een verblijfsvergunning asiel voor bepaalde tijd te verlenen. De verplichting om een verblijfsvergunning asiel voor bepaalde tijd te verlenen is wel geregeld in artikel 29, eerste lid, aanhef en onder a, Vw in combinatie met artikel 3.105b, Vb. De IND houdt bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van een alleenstaande minderjarige vreemdeling rekening met de paragrafen 213 tot en met 219 van het Handboek van de UNHCR. 
-###De uitsluitingsgronden van het Vluchtelingenverdrag
+### *De uitsluitingsgronden van het Vluchtelingenverdrag* 
 
 Het Vluchtelingenverdrag is niet van toepassing op personen, zoals beschreven in de artikelen 1D tot en met 1F van het Vluchtelingenverdrag, verder de ‘uitsluitingsgronden’. De IND verleent aan de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd, als één van deze uitsluitingsgronden zich voordoet. 
-###Artikel 1D van het Vluchtelingenverdrag
+### *Artikel 1D van het Vluchtelingenverdrag* 
 
 De IND verleent de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd op grond van het artikel 29, eerste lid aanhef en onder a, Vw indien hij onder artikel 1D van het Vluchtelingenverdrag valt. Artikel 1D van het Vluchtelingverdrag heeft betrekking op het genieten van bescherming door of bijstand van andere organen of instellingen van de VN dan de UNHCR. Artikel 1D Vluchtelingenverdrag is in de huidige praktijk van toepassing op de staatloze Palestijnse vreemdeling die onder het mandaat valt van de United Nations Relief and Works Agency (verder: UNRWA). Dit artikel beperkt zich niet tot de situatie van staatloze Palestijnse vreemdelingen. Er zijn andere vergelijkbare situaties denkbaar. De IND verleent de vreemdeling een verblijfsvergunning asiel voor bepaalde tijd op grond van het artikel 29, eerste lid, aanhef en onder a, Vw: 
 
@@ -616,7 +616,7 @@ a. in geval van opheffing van het orgaan of van de instelling die de bescherming
 b. in geval van de onmogelijkheid voor dat orgaan of die instelling om zijn opdracht te volbrengen;  
 
 c. indien de staatloze Palestijnse vreemdeling niet langer de bescherming of bijstand kan inroepen om een reden die buiten zijn invloed ligt en onafhankelijk is van zijn wil en deze omstandigheid hem dwingt dat gebied te verlaten en hem op die manier belet de door het UNRWA verleende bescherming of bijstand te genieten.   
-### *ad c.* 
+### *Ad c.* 
 
 De IND gaat na of de staatloze Palestijnse vreemdeling gedwongen werd het betreffende gebied te verlaten. Hiervan is sprake als wordt voldaan aan één van beide hieronder genoemde voorwaarden: 
 
@@ -627,19 +627,19 @@ De IND gaat na of de staatloze Palestijnse vreemdeling gedwongen werd het betref
 * of de staatloze Palestijnse vreemdeling binnen het gebied waar de UNRWA mandaat heeft, gegronde vrees heeft voor vervolging of daden als bedoeld in artikel 29, eerste lid, onder b, Vw; en, voor zover dit het geval is,  
 
 * hij tegen de actor(en) van deze daden bescherming van de UNRWA kan inroepen of deze bescherming nog steeds krijgt.   Indien de uitsluitingsgrond artikel 1D niet (langer) van toepassing is en de vreemdeling zich niet schuldig heeft gemaakt aan handelingen als bedoeld in de uitsluitingsgrond artikel 1F van het Vluchtelingenverdrag, zijn de bepalingen van het Vluchtelingenverdrag van toepassing. De IND verleent in dat geval een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw aan de staatloze Palestijnse vreemdeling. 
-###Artikel 1E van het Vluchtelingenverdrag
+### *Artikel 1E van het Vluchtelingenverdrag* 
 
 De IND past artikel 1E van het Vluchtelingenverdrag niet toe als uitsluitingsgrond. 
-###Artikel 1F van het Vluchtelingenverdrag
+### *Artikel 1F van het Vluchtelingenverdrag* 
 
 De bepalingen van het Vluchtelingenverdrag zijn op grond van artikel 1F van dat verdrag niet van toepassing op een vreemdeling ten aanzien van wie er ernstige redenen zijn om te veronderstellen dat de vreemdeling oorlogsmisdrijven of andere ernstige misdrijven heeft gepleegd. De IND verleent in dat geval de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd (zie paragraaf C2/6.2.8 Vc). 
-###Groepsvervolging
+### *Groepsvervolging* 
 
 Er is sprake van groepsvervolging, als in een land van herkomst een groep vreemdelingen systematisch wordt blootgesteld aan vervolging wegens een van de gronden van artikel 1A Vluchtelingenverdrag. Situaties waarin sprake is van groepsvervolging worden opgenomen in het landgebonden beleid. Ook voor de vreemdeling die zich beroept op groepsvervolging geldt het individualiseringsvereiste. De vreemdeling moet aannemelijk maken dat hij behoort tot de groep vreemdelingen voor wie groepsvervolging wordt aangenomen. 
-###Risicogroepen
+### *Risicogroepen* 
 
 De Staatssecretaris van Veiligheid en Justitie kan een bevolkingsgroep als risicogroep aanwijzen als blijkt dat vervolging van vreemdelingen behorend tot deze bevolkingsgroep in het land van herkomst voorkomt. Het hoeft daarbij niet te gaan om systematische vormen van vervolging van een bevolkingsgroep. Ook als de vervolging een meer incidenteel karakter heeft, kan de Staatssecretaris van Veiligheid en Justitie een bevolkingsgroep aanwijzen als risicogroep. De vreemdeling die behoort tot een bevolkingsgroep die in het landgebonden beleid door de Staatssecretaris van Veiligheid en Justitie is aangewezen als een risicogroep, kan indien er sprake is van geloofwaardige en individualiseerbare verklaringen, met geringe indicaties aannemelijk maken dat zijn problemen die verband houden met één van de vervolgingsgronden leiden tot een gegronde vrees voor vervolging. Het individualiseringsvereiste blijft van toepassing op de vreemdeling, die behoort tot een risicogroep. 
-###Discriminatie
+### *Discriminatie* 
 
 De IND merkt discriminatie van de vreemdeling door de autoriteiten en door medeburgers aan als daad van vervolging, als de vreemdeling vanwege de discriminatie zo ernstig wordt beperkt in zijn bestaansmogelijkheden dat hij onmogelijk op maatschappelijk en sociaal gebied kan functioneren. Discriminatie van de vreemdeling in het land van herkomst kan leiden tot uitsluiting van medische zorg. De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw, op grond van uitsluiting van medische zorg, aan de vreemdeling die voldoet aan alle volgende voorwaarden: 
 
@@ -652,14 +652,14 @@ De IND merkt discriminatie van de vreemdeling door de autoriteiten en door medeb
 * de omstandigheid dat de vreemdeling geen toegang heeft tot de medische zorg om andere redenen dan uitsluiting vanwege discriminatie;  
 
 * de beschikbaarheid van de behandelingmogelijkheden in het land van herkomst.   
-###Refugié sur place
+### *Refugié sur place* 
 
 De IND verleent de vreemdeling die voldoet aan artikel 3.37b VV, een verblijfsvergunning asiel voor bepaalde tijd. Deze vreemdeling wordt aangeduid als ‘refugié sur place’. Ook indien de activiteiten van de vreemdeling, die de vreemdeling heeft ondernomen na zijn vertrek uit het land van herkomst, niet volgen op activiteiten die de vreemdeling al in het land van herkomst heeft ondernomen vóór zijn vertrek kan de IND een vreemdeling aanmerken als ‘refugié sur place’. Hiervan kan sprake zijn indien de vreemdeling voldoet aan de volgende voorwaarden: 
 
 * de autoriteiten in het land van herkomst zijn bekend met of de vreemdeling heeft aannemelijk gemaakt dat de autoriteiten in het land van herkomst op de hoogte zullen raken van deze activiteiten van de vreemdeling; en,  
 
 * deze activiteiten leveren een gegronde vrees voor vervolging op in de zin van artikel 1A van het Vluchtelingenverdrag.   
-###Uitgangspunten beoordeling gronden van vervolging in de zin van artikel 1A Vluchtelingenverdrag.
+### *Uitgangspunten beoordeling gronden van vervolging in de zin van artikel 1A Vluchtelingenverdrag.* 
 
 De IND beoordeelt een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd met inachtneming van artikel 3.37 VV. Artikel 3.37 VV noemt onder meer de volgende gronden: 
 
@@ -667,43 +667,45 @@ De IND beoordeelt een aanvraag voor een verblijfsvergunning asiel voor bepaalde 
 
 * sociale groep;  
 
-* politieke overtuiging.   De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a of b, Vw, als sprake is van een situatie als bedoeld in artikel 3.36 VV. 
-###Godsdienst
+* politieke overtuiging.   De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a Vw, als sprake is van een situatie als bedoeld in artikel 3.36 VV. 
+### *Godsdienst* 
 
 De omstandigheid dat de vreemdeling zijn godsdienst in zijn land van herkomst niet op dezelfde wijze kan uitoefenen als in Nederland vormt onvoldoende aanleiding om de vreemdeling in het bezit te stellen van een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw. Niet elke aantasting van het recht op godsdienstvrijheid zal dan ook een daad van vervolging in de zin het Vluchtelingenverdrag vormen. Bij de beoordeling of een aantasting van het recht op godsdienstvrijheid een daad van vervolging vormt, moet de IND, gelet op de persoonlijke situatie van de vreemdeling tegen de achtergrond van hetgeen uit algemene informatie bekend is, onderzoeken of deze om redenen van de uitoefening van die vrijheid in zijn land van herkomst een werkelijk gevaar loopt om te worden vervolgd. De IND weegt bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in ieder geval mee dat: 
 
 * de vreemdeling, die een godsdienst aanhangt, de uitingen van zijn godsdienst in zijn land van herkomst niet verborgen hoeft te houden, ook niet in de situatie dat de vreemdeling voorafgaand aan zijn vertrek uit het land van herkomst zijn geloof verborgen heeft gehouden;  
 
 * van de vreemdeling niet wordt verwacht dat hij afziet van godsdienstige handelingen, die voor hem persoonlijk bijzonder belangrijk zijn om zijn godsdienstige identiteit te bewaren, om vervolging te voorkomen.   De IND beoordeelt of de maatregelen en sancties die tegen de vreemdeling zullen worden genomen indien hij bij terugkeer naar zijn land van herkomst bepaalde – voor zijn godsdienstige identiteit bijzondere belangrijke – handelingen verricht voldoende zwaarwegend zijn om te spreken van vervolging. Ook indien de vreemdeling verklaart dat hij bij terugkeer zich gedwongen voelt om zijn geloof terughoudend uit te oefenen vanwege de risico’s die betrokkene anders loopt kan sprake zijn van vervolging in de zin van het Vluchtelingenverdrag. 
-###Sociale groep – vrouwen
+### *Sociale groep – vrouwen* 
 
 De IND merkt vrouwen niet enkel op basis van de sekse aan als sociale groep, zoals bedoeld in artikel 3.37 eerste lid, aanhef en onder d, VV, omdat vrouwen als sociale groep te divers van samenstelling zijn. 
-###Sociale groep – gendergerelateerde aspecten
+### *Sociale groep – seksuele gerichtheid* 
 
-De IND kan een vreemdeling aanmerken als behorend tot een sociale groep wegens (toegedichte) gendergerelateerde aspecten. Onder gendergerelateerde aspecten verstaat de IND in ieder geval: 
-
-* een homoseksuele gerichtheid;  
+De IND merkt een vreemdeling aan als lid van een sociale groep als hij behoort tot de groep die als gemeenschappelijk kenmerk (toegedichte) seksuele gerichtheid heeft. Onder de seksuele gerichtheid verstaat de IND: 
 
 * een lesbische gerichtheid;  
 
-* een biseksuele gerichtheid;  
+* een homoseksuele gerichtheid;  
 
-* transgender.   Deze gendergerelateerde aspecten worden in deze paragraaf gevat onder de noemer ‘seksuele gerichtheid’. De omstandigheid dat de vreemdeling zijn seksuele gerichtheid in zijn land van herkomst niet op dezelfde wijze kan uiten als in Nederland vormt onvoldoende aanleiding om de vreemdeling in het bezit te stellen van een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw. De IND weegt bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in ieder geval mee dat: 
-
-* de vreemdeling zijn seksuele gerichtheid in zijn land van herkomst niet verborgen hoeft te houden, ook niet in de situatie dat de vreemdeling voorafgaand aan zijn vertrek uit het land van herkomst zijn gerichtheid verborgen heeft gehouden;  
-
-* de vreemdeling geen bescherming conform artikel 3.37c VV hoeft in te roepen, als de seksuele gerichtheid of seksuele handelingen strafbaar zijn in het land van herkomst.   De situatie in het land van herkomst kan met zich brengen dat de vreemdeling een bepaalde mate van terughoudendheid betracht bij het uiting geven aan zijn homoseksuele gerichtheid, om te voorkomen dat problemen ontstaan die in samenhang bezien zouden kunnen leiden tot het oordeel dat sprake is van vervolging. Deze terughoudendheid mag echter niet dusdanig ver strekken, dat de IND moet vaststellen dat de vreemdeling niet op betekenisvolle wijze invulling kan geven aan zijn seksuele gerichtheid. De IND verleent met inachtneming van artikel 3.36 VV een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw aan een vreemdeling op grond van zijn seksuele gerichtheid, in ieder geval als sprake is van ten minste één van de volgende situaties: 
+* een biseksuele gerichtheid;   In verband met de gendergerelaterde aspecten worden ook transgenders tot deze sociale groep gerekend. Een vreemdeling die behoort tot deze sociale groep wordt hierna LHBT genoemd. De omstandigheid dat de vreemdeling zijn seksuele gerichtheid in zijn land van herkomst niet op dezelfde wijze kan uiten als in Nederland vormt op zichzelf onvoldoende aanleiding om de vreemdeling in het bezit te stellen van een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw. Niet elke aantasting van het recht op het uiten van de seksuele gerichtheid vormt een daad van vervolging in de zin het Vluchtelingenverdrag. Voor de beoordeling of een aantasting van dit recht een daad van vervolging vormt, moet de IND onderzoeken of de vreemdeling in zijn land van herkomst een werkelijk gevaar loopt om te worden vervolgd. De IND verleent met inachtneming van artikel 3.36 VV een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw aan een vreemdeling op grond van zijn seksuele gerichtheid, in ieder geval als sprake is van ten minste één van de volgende situaties: 
 
 * de vreemdeling heeft aannemelijk gemaakt dat hij vanwege zijn (toegedichte) seksuele gerichtheid dreigt te worden blootgesteld aan daden van geweld, die zo ernstig zijn dat deze daden van geweld een ernstige schending van de grondrechten van de mens vormen;  
 
-* de autoriteiten van het land van herkomst voeren op grond van de (toegedichte) seksuele gerichtheid maatregelen uit die discriminerend zijn of op een discriminerende wijze worden uitgevoerd en deze maatregelen voldoende ernstig zijn; of,  
+* de autoriteiten van het land van herkomst voeren op grond van de (toegedichte) seksuele gerichtheid maatregelen uit die discriminerend zijn of op een discriminerende wijze worden uitgevoerd en deze maatregelen voldoende ernstig zijn; of  
 
-* in het land van herkomst worden door de autoriteiten strafbepalingen op grond van de seksuele gerichtheid actief ten uitvoer gelegd en er is sprake van een zeker gewicht van de maatregel.   De IND betrekt bij de beoordeling of en in welke mate aan de vreemdeling vanwege zijn (toegedichte) seksuele gerichtheid beperkingen worden opgelegd bij het bekend zijn of worden van de seksuele gerichtheid in de directe (leef)omgeving van de vreemdeling, in ieder geval: 
+* in het land van herkomst gelden strafbepalingen op grond van de seksuele gerichtheid, deze strafrechtelijke bepalingen worden in de praktijk door de autoriteiten actief ten uitvoer gelegd en er is sprake van een zeker gewicht van de strafbepaling.   Bij de beoordeling van de individuele situatie van de vreemdeling betrekt de IND ook de wijze waarop de vreemdeling voornemens is in zijn land van herkomst zijn seksuele gerichtheid te uiten en de aannemelijkheid daarvan. Hiertoe onderzoekt de IND hoe de vreemdeling in het verleden en heden, in Nederland of elders, invulling heeft gegeven aan zijn seksuele gerichtheid. Hierbij geldt het uitgangspunt dat de vreemdeling zijn seksuele gerichtheid in zijn land van herkomst niet verborgen hoeft te houden, ook niet in de situatie dat de vreemdeling voorafgaand aan zijn vertrek uit het land van herkomst zijn gerichtheid verborgen heeft gehouden. De vreemdeling hoeft zich bij het uiting geven aan zijn seksuele gerichtheid evenmin terughoudend op te stellen om te voorkomen dat problemen ontstaan die kunnen leiden tot het oordeel dat sprake is van vervolging. Bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd worden de aannemelijk geachte uitingen afgezet tegen de situatie voor LHBT’s en de te voorziene acceptatie van die uitingen door autoriteiten en/of derden in het land van herkomst. De IND betrekt bij de beoordeling of in het land van herkomst sprake is van discriminatoire behandeling vanwege de seksuele gerichtheid, de aldaar voor zowel hetero- als homoseksuelen geldende normen en zeden. Indien in het land van herkomst sprake is van strafbaarstelling van seksuele gerichtheid of seksuele handelingen beoordeelt de IND hoe daar in de praktijk mee wordt omgegaan en zet dit af tegen de persoonlijke situatie van de vreemdeling. Bij deze beoordeling betrekt de IND in ieder geval: 
+
+* de schaal waarop strafrechtelijke vervolging vanwege de seksuele gerichtheid voorkomt;  
+
+* de toepassing van opgelegde (gevangenis)straffen;  
+
+* het (voorafgaande) politie- en strafvorderlijk onderzoek; en  
+
+* de gevolgen van de strafbaarstelling voor de maatschappelijke positie van LHBT’s.   Als de seksuele gerichtheid of seksuele handelingen strafbaar zijn in het land van herkomst hoeft de vreemdeling geen bescherming conform artikel 3.37c VV in te roepen. De IND betrekt bij de beoordeling of de vreemdeling vanwege zijn (toegedichte) seksuele gerichtheid vervolgd wordt bij het bekend zijn of worden van de seksuele gerichtheid in de directe (leef)omgeving van de vreemdeling, in ieder geval: 
 
 * de verklaringen van de vreemdeling;  
 
 * openbare informatie uit objectieve bron.   
-###Politieke overtuiging
+### *Politieke overtuiging* 
 
 De IND merkt in ieder geval de volgende situaties aan als politieke overtuiging, als de vreemdeling die een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingediend een vrouw is en de vervolging in de zin van artikel 1A Vluchtelingenverdrag in het land van herkomst plaatsvindt: 
 
@@ -712,7 +714,7 @@ De IND merkt in ieder geval de volgende situaties aan als politieke overtuiging,
 * vanwege overtreding door de vrouw van strafbepalingen, die in strijd zijn met universele mensenrechten;  
 
 * vanwege politiek verzet in het land van herkomst tegen genitale verminking bij vrouwen.   De beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van een vrouw die zich beroept op het risico van het ondergaan van genitale verminking, wordt beschreven in paragraaf C2/3.3 Vc. 
-###Vervolging wegens dienstweigering of desertie
+### *Vervolging wegens dienstweigering of desertie* 
 
 De IND verleent, onder toepassing van artikel 3.36 VV, een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling die zich beroept op dienstweigering of desertie, als de vreemdeling voldoet aan tenminste één van de volgende voorwaarden: 
 
@@ -727,17 +729,17 @@ De IND verleent, onder toepassing van artikel 3.36 VV, een verblijfsvergunning a
 * de Algemene Vergadering van de VN;  
 
 * een daartoe bevoegde rechtbank, zoals het Internationaal Gerechtshof in 's-Gravenhage, het Joegoslavië-tribunaal of het Rwanda-tribunaal.   De IND beoordeelt de weigering van een vreemdeling deel te nemen aan een conflict tegen het volk waartoe de vreemdeling behoort, in samenhang met de beoordeling of er ernstige, onoverkomelijke gewetensbezwaren zijn. De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd, als de vreemdeling de weigering om deel te nemen aan een conflict tegen het eigen volk niet heeft onderbouwd. 
-###Als de UNHCR de vreemdeling heeft erkend als vluchteling
+### *Als de UNHCR de vreemdeling heeft erkend als vluchteling* 
 
 De IND toetst alle aanvragen voor een verblijfsvergunning asiel voor bepaalde tijd individueel, ook als de vreemdeling eerder door de UNHCR als vluchteling is erkend. De vreemdeling wordt niet verwijderd naar het land van herkomst, als de vertegenwoordiger van de UNHCR in Nederland heeft geoordeeld dat de vreemdeling op grond van zijn individuele verklaringen vluchteling is in de zin van artikel 1A van het Vluchtelingenverdrag. De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, als terugkeer naar een ander land mogelijk is, onder andere op grond van: 
 
 * artikel 30, eerste lid, aanhef en onder a of d, Vw; of  
 
 * artikel 31, eerste lid, aanhef en onder h of i, Vw.   
-###Aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd bij een Nederlandse diplomatieke of consulaire vertegenwoordiging
+### *Aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd bij een Nederlandse diplomatieke of consulaire vertegenwoordiging* 
 
 De IND neemt geen aanvraag in behandeling voor een verblijfsvergunning asiel voor bepaalde tijd van een vreemdeling, die zich voor bescherming meldt bij een Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land van herkomst of een derde land. De vreemdeling wordt door de medewerker van de Nederlandse diplomatieke of consulaire vertegenwoordiging doorverwezen naar de autoriteiten van het land, waar de vreemdeling zich bevindt of naar de UNHCR of UNDP. 
-###Commune delicten
+### *Commune delicten* 
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, indien alle volgende voorwaarden van toepassing zijn: 
 
@@ -1704,7 +1706,7 @@ Ten aanzien van Afghanistan geldt geen besluit in de zin van artikel 43, aanhef 
 
 ####Artikel 1F Vluchtelingenverdrag
 
-De IND neemt ten aanzien van de volgende categorieën vreemdelingen “personal and knowing participation” in de zin van paragraaf C2/6.2.8 Vc aan: 
+De IND neemt ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/6.2.8 Vc aan: 
 
 * onderofficieren en officieren van de KhaD en de WAD  
 
@@ -1722,7 +1724,7 @@ e. alle commandanten van een ferq’a; en
 
 f. hoge officieren van de strijdkrachten van Hezb-i-Wahdat.    
 
-* hoofd- en opperofficieren van de volgende afdelingen van de Afghaanse politie in de periode 1978-1996: 
+* hoofd- en opperofficieren van de volgende afdelingen van de Afghaanse politie in de periode 1978–1996: 
 
 a. de Kumandani-ye Umumi-ye Defa-yelnqelab;  
 
@@ -1748,7 +1750,7 @@ a. vreemdelingen die afkomstig zijn uit een gebied waar zij tot een etnische min
 
 b. vreemdelingen die afkomstig zijn uit een gebied waar zij tot een religieuze minderheid behoren;  
 
-c. homoseksuelen.       
+c. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (hierna: LHBT’s).       
 ### 2.4  
 
 ####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
@@ -1773,35 +1775,35 @@ a. vreemdelingen die afkomstig zijn uit een gebied waar zij tot een etnische min
 
 b. vreemdelingen die afkomstig zijn uit een gebied waar zij tot een religieuze minderheid behoren;  
 
-c. alleenstaande vrouwen.   
-###ad b.
+c. LHBT’s.   
+### *ad b.* 
 
 De IND beschouwt Shiitische moslims gelet op hun situatie in Afghanistan niet als een kwetsbare minderheidsgroep. De IND beschouwt Afghaanse vreemdelingen die een andere religie dan de islam aanhangen, als een kwetsbare minderheidsgroep, ongeacht uit welk gebied in Afghanistan zij afkomstig zijn. Een vreemdeling die zich in Nederland heeft bekeerd, komt op grond van de beleidsregels over kwetsbare minderheidsgroepen in Afghanistan in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw, uitsluitend indien de vreemdeling: 
 
 * afkomstig is uit een gebied in Afghanistan waar hij tot een religieuze minderheid is gaan behoren;  
 
-* in Afghanistan problemen heeft ondervonden om andere redenen dan de nieuwe religie.   
-###ad c.
-
-De IND beschouwt een Afghaanse vrouw uitsluitend als alleenstaand, indien: 
-
-1. de huwelijksband met de echtgenoot is verbroken;  
-
-2. de vrouw ongehuwd is en de band met het gezin waartoe zij behoorde ten tijde van haar vertrek uit Afghanistan, is verbroken.   
-###ad 2.
-
-De IND beoordeelt in verband met de gezinsband of de vader in het gezin in Afghanistan aanwezig is. De Afghaanse vrouw moet (indicatief) bewijs overleggen om aan te tonen dat zij alleenstaand is op grond van een verbroken gezinsband. Wanneer dit niet mogelijk is, moet de Afghaanse vrouw aannemelijke verklaringen kunnen afleggen over de verbroken gezinsband. De IND beschouwt de gezinsband in elk geval als verbroken, indien: 
-
-* de Afghaanse vrouw duurzaam is opgenomen in een ander gezin dan het ouderlijke gezin;  
-
-* de Afghaanse vrouw zelfstandig is gaan wonen;  
-
-* de Afghaanse vrouw een eigen gezin heeft gevormd doordat zij is gehuwd of een relatie is aangegaan.      
+* in Afghanistan problemen heeft ondervonden om andere redenen dan de nieuwe religie.      
 ### 2.4.4  
 
 ####Individuele kenmerken
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan de Afghaanse vreemdeling, die aannemelijk heeft gemaakt te vrezen voor eerwraak of bloedwraak, indien uit de verklaringen van de vreemdeling is gebleken dat een niet-gewelddadige oplossing onmogelijk is.     
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan de Afghaanse vreemdeling, die aannemelijk heeft gemaakt te vrezen voor eerwraak of bloedwraak, indien uit de verklaringen van de vreemdeling is gebleken dat een niet-gewelddadige oplossing onmogelijk is.    
+### 2.4.5  
+
+####Alleenstaande vrouwen
+
+De IND acht het aannemelijk dat alleenstaande vrouwen uit Afghanistan bij terugkeer een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een Afghaanse vrouw wordt als alleenstaand aangemerkt als zij voldoet aan alle volgende voorwaarden: 
+
+1. zij heeft in Afghanistan geen echtgenoot (meer) met wie zij kan gaan samenleven; en,  
+
+2. zij kan bij terugkeer naar Afghanistan niet meer terug naar het ouderlijk gezin omdat de gezinsband als verbroken moet worden beschouwd of terugkeer naar het ouderlijk gezin niet mogelijk is.   
+### *Ad. 2.* 
+
+De IND beschouwt de gezinsband in elk geval als verbroken, indien: 
+
+* de Afghaanse vrouw deel is gaan uitmaken van een ander gezin dan haar ouderlijk gezin;  
+
+* de Afghaanse vrouw zelfstandig is gaan wonen.   Uitzondering op de regel dat een alleenstaande Afghaanse vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat bescherming op grond van haar alleenstaande status niet nodig is.     
 ### 2.5  
 
 ####Bescherming
@@ -1810,19 +1812,11 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 
 ####Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6  Vc
 
-Bij de beoordeling of de vreemdeling bescherming kan worden geboden in Afghanistan, betrekt de IND in ieder geval het volgende: 
+De IND acht het slechts voor Afghaanse vreemdelingen afkomstig uit Kaboel mogelijk om bescherming te verkrijgen van de autoriteiten. De IND beoordeelt bij elke vreemdeling individueel de mogelijkheid om bescherming te krijgen. De IND acht het voor de volgende categorieën afkomstig uit Kaboel niet aannemelijk dat het voor de vreemdeling mogelijk is bescherming te krijgen van de autoriteiten of internationale organisaties: 
 
-* de omstandigheid dat de centrale autoriteiten van Afghanistan niet in geheel Afghanistan het gezag in handen hebben;  
+* vreemdelingen die in Kaboel tot een etnische of religieuze minderheid behoren;  
 
-* de mogelijkheden van de vreemdeling om zich voor bescherming tot de lokale autoriteiten te wenden;  
-
-* het persoonlijke netwerk van de vreemdeling;  
-
-* eventuele niet-gewelddadige oplossingen voor de vreemdeling in eer- en bloedwraakzaken.   De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties: 
-
-* vreemdelingen die afkomstig zijn uit een gebied waar zij tot een etnische of religieuze minderheid behoren;  
-
-* homoseksuelen;  
+* LHBT’s;  
 
 * alleenstaande vrouwen;  
 
@@ -1831,7 +1825,17 @@ Bij de beoordeling of de vreemdeling bescherming kan worden geboden in Afghanist
 
 ####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
-De IND neemt ten aanzien van Afghaanse vreemdelingen geen vlucht- en vestigingsalternatief aan binnen Afghanistan.     
+De IND neemt ten aanzien van Afghanistan een vlucht- of vestigingsalternatief aan in Kaboel. De IND beoordeelt bij elke vreemdeling individueel of dit vlucht- of vestigingsalternatief kan worden tegengeworpen. De IND acht geen vlucht- of vestigingsalternatief in Kaboel aanwezig voor de volgende categorieën: 
+
+* vreemdelingen die behoren tot een groep die in Kaboel een etnische of religieuze minderheid is;  
+
+* LHBT’s;  
+
+* alleenstaande vrouwen;  
+
+* minderjarigen;  
+
+* vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor geweldpleging.       
 ### 2.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
@@ -1852,7 +1856,12 @@ Ten aanzien van Afghanistan geldt geen besluit in de zin van artikel 45, vierde 
 
 ####Verwesterde vrouwen
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan een Afghaanse vrouw uitsluitend omdat zij na het vertrek uit Afghanistan een westerse levensstijl heeft aangenomen. De IND neemt namelijk aan dat de vrouw zich bij terugkeer zal kunnen aanpassen aan de traditionele Afghaanse normen. De omstandigheid dat een Afghaanse vrouw zich in Afghanistan niet op gelijke wijze kan uiten of ontplooien, vormt voor de IND onvoldoende grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.      
+De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan een Afghaanse vrouw uitsluitend omdat zij na het vertrek uit Afghanistan een westerse levensstijl heeft aangenomen. De IND neemt namelijk aan dat de vrouw zich bij terugkeer zal kunnen aanpassen aan de traditionele Afghaanse normen. De omstandigheid dat een Afghaanse vrouw zich in Afghanistan niet op gelijke wijze kan uiten of ontplooien, vormt voor de IND onvoldoende grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.     
+### 2.9  
+
+####Vertrekmoratorium
+
+Ten aanzien van Afghanistan geldt geen besluit in de zin van artikel 45, vierde lid, Vw.     
 ### 3  
 
 ####Het asielbeleid ten aanzien van Angola
