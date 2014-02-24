@@ -3,86 +3,61 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 4 juli 2012, houdende de vaststelling van de hoogte van de algemene onkostenvergoeding voor de rechterlijke ambtenaren (Regeling algemene onkostenvergoeding rechterlijke ambtenaren)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren;
+Gelet op [artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md);
 Besluit:    
 
 ### Artikel  1  
 
-De bedragen van de algemene onkostenvergoeding worden jaarlijks geïndexeerd op basis van de afgeleide consumentenprijsindex, waarbij de bedragen worden afgerond naar de eerstvolgende euro.  
+De bedragen van de algemene onkostenvergoeding worden jaarlijks geïndexeerd op basis van de afgeleide consumentenprijsindex, waarbij de bedragen worden afgerond naar de eerstvolgende euro. 
 
 ### Artikel  2  
 
-De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast.  
+De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast. 
 
 ### Artikel  3  
 
-In de bij deze regeling behorende bijlage zijn, overeenkomstig de in artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor een volledige arbeidsduur, vermeld.  
+In de bij deze regeling behorende bijlage zijn, overeenkomstig de in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor een volledige arbeidsduur, vermeld. 
 
 ### Artikel  4  
 
-Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen en de rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van minder dan de helft van een volledige arbeidsduur wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.  
+Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen en de rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van minder dan de helft van een volledige arbeidsduur wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur. 
 
 ### Artikel  5  
 
-De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof voor ten minste een maand, al dan niet met behoud van bezoldiging, is verleend, gedurende de periode van het buitengewoon verlof aanspraak op de algemene onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.  
+De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof voor ten minste een maand, al dan niet met behoud van bezoldiging, is verleend, gedurende de periode van het buitengewoon verlof aanspraak op de algemene onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet. 
 
 ### Artikel  6  
 
-De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op de algemene onkostenvergoeding die een met zijn feitelijke arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van arbeid wegens ziekte zou zijn.  
+De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op de algemene onkostenvergoeding die een met zijn feitelijke arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van arbeid wegens ziekte zou zijn. 
 
 ### Artikel  7  
 
-De Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren wordt ingetrokken.  
+De [Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren wordt ingetrokken](../../../../../../../ministeriele-regeling/regeling/indexering/algemene/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0027090/README.md). 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechterlijke ambtenaren.  
+Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechterlijke ambtenaren. 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten  
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten    
 
-### Bijlage  
+###Bijlage 
 
 ####als bedoeld in artikel 3  van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 | Functie  | Totaal per jaar  | Totaal per maand  |
-|---|---|---|
-| president Hoge Raad  | € 4.954,00  | € 412,83  |
-| procureur-generaal Hoge Raad  | --- | --- |
-| procureurs-generaal die het College van PG 's vormen  | € 4.801,00  | € 400,08  |
-| plaatsvervangend procureur-generaal bij de Hoge Raad  | € 2.768,00  | € 230,67  |
-| landelijk hoofdadvocaat-generaal  | € 2.616,00  | € 218,00  |
-| hoofdadvocaat-generaal  | --- | --- |
-| hoofdofficier van justitie  | --- | --- |
-| plaatsvervangend hoofdofficier van justitie  | € 2.000,00  | € 166,67  |
-| vice-president van de Hoge Raad  | € 1.845,00  | € 153,75  |
-| senior raadsheer gerechtshof  | --- | --- |
-| senior raadsheer Centrale Raad van Beroep  | --- | --- |
-| senior raadsheer College van Beroep voor het Bedrijfsleven  | --- | --- |
-|  *cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)*   | --- | --- |
-| senior rechter A  | € 1.692,00  | € 141,00  |
-| senior rechter  | --- | --- |
-| advocaat-generaal Hoge Raad  | --- | --- |
-| senior advocaat-generaal ressortsparket  | --- | --- |
-| advocaat-generaal ressortsparket  | --- | --- |
-|  *cvp-senior bij de rechtbanken (overgangsregeling)*   | --- | --- |
-| senior officier van justitie A  | € 1.539,00  | € 128,25  |
-| senior officier van justitie  | --- | --- |
-| officier van justitie  | --- | --- |
-| substituut-officier van justitie  | --- | --- |
-| officier enkelvoudige zittingen  | --- | --- |
-| raadsheer Hoge Raad  | € 1.387,00  | € 115,58  |
-| raadsheer gerechtshof  | --- | --- |
-| rechter  | --- | --- |
-| raadsheer Centrale Raad van Beroep  | --- | --- |
-| raadsheer College van Beroep voor het Bedrijfsleven  | --- | --- |
-| (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger  | --- | --- |
-| in een gerechtshof waarbij hij is aangesteld  | --- | --- |
-| (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in  | --- | --- |
-| een rechtbank waarbij hij is aangesteld  | --- | --- |
-| griffier (+ substituut-griffiers) Hoge Raad  | € 774,00  | € 64,50  |
-| (senior) gerechtsauditeur  | € 556,00  | € 46,33  |
-| rechterlijk ambtenaar in opleiding  | --- | --- |
+|:---|:---|:---|
+| president Hoge Raad  procureur-generaal Hoge Raad  |  *€ 5 014,00*   |  *€ 417,84*   |
+| procureurs-generaal die het College van PG’s vormen  |  *€ 4 859,00*   |  *€ 404,92*   |
+| plaatsvervangend procureur-generaal bij de Hoge Raad  |  *€ 2 802,00*   |  *€ 233,50*   |
+| landelijk hoofdadvocaat-generaal  hoofdadvocaat-generaal  hoofdofficier van justitie  |  *€ 2 648,00*   |  *€ 220,67*   |
+| plaatsvervangend hoofdofficier van justitie  |  *€ 2 024,00*   |  *€ 168,67*   |
+| vice-president van de Hoge Raad  senior raadsheer gerechtshof  senior raadsheer Centrale Raad van Beroep  senior raadsheer College van Beroep voor het Bedrijfsleven   *cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)*   |  *€ 1 868,00*   |  *€ 155,67*   |
+| senior rechter A  senior rechter  advocaat-generaal Hoge Raad  senior advocaat generaal ressortsparket  advocaat-generaal ressortsparket   *cvp-senior bij de rechtbanken (overgangsregeling)*   |  *€ 1 713,00*   |  *€ 142,75*   |
+| senior officier van justitie A  senior officier van justitie  officier van justitie  substituut-officier van justitie  officier enkelvoudige zaken  |  *€ 1 558,00*   |  *€ 129,84*   |
+| raadsheer Hoge Raad  raadsheer gerechtshof  rechter  raadsheer Centrale Raad van Beroep  raadsheer College van Beroep voor het Bedrijfsleven  (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld  (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld  |  *€ 1 404,00*   |  *€ 117,00*   |
+| griffier (+ substituut-griffier) Hoge Raad  |  *€ 784,00*   |  *€ 65,34*   |
+| (senior) gerechtsauditeur  rechterlijk ambtenaar in opleiding  |  *€ 563,00*   |  *€ 46,92*   |
 

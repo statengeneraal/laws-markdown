@@ -25,4 +25,4 @@ Den Haag
 De 
 Minister van Economische Zaken, namens deze: De 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

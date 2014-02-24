@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  II  
 
-Dit besluit blijft buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd.  
+Dit besluit blijft buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 maart 2012  
 Beatrix  
 
-De Minister voor Immigratie, Integratie en Asiel, 
+De Minister voor Immigratie, Integratie en Asiel,  
 G. B. M. Leers   
 
 de *zeventiende* april 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

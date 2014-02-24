@@ -15,28 +15,29 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit participatiebudget.   
+Wijzigt het Besluit participatiebudget. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.   
+Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid. 
 
 ### Artikel  IV  
 
-Het in het tijdvak dat loopt van 1 januari 2009 tot en met de dag waarop artikel I van dit besluit in werking treedt, in afwijking van [artikel 4.21 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), niet ontvangen hebben van een vergoeding als bedoeld in [artikel 4.17, tweede lid, van dat besluit](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) staat gelijk aan het geen recht hebben op die vergoeding in dat tijdvak.  
+Het in het tijdvak dat loopt van 1 januari 2009 tot en met de dag waarop artikel I van dit besluit in werking treedt, in afwijking van [artikel 4.21 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), niet ontvangen hebben van een vergoeding als bedoeld in [artikel 4.17, tweede lid, van dat besluit](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) staat gelijk aan het geen recht hebben op die vergoeding in dat tijdvak. 
 
 ### Artikel  V  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  VI  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Artikel V treedt, in het geval dat het in de aanhef van dat artikel bedoelde besluit, voor zover het [artikel 1.16 van het Vreemdelingenbesluit 2000](../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) betreft, na die dag in werking treedt, onmiddellijk na die inwerkingtreding in werking.   
-2.  Artikel I, onderdelen A, onder 3, en G, werken terug tot en met 1 januari 2010.   
+2.  Artikel I, onderdelen A, onder 3, en G, werken terug tot en met 1 januari 2010.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -44,19 +45,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 31 augustus 2010  
 Beatrix  
 
-De Minister voor Wonen, Wijken en Integratie, 
+De Minister voor Wonen, Wijken en Integratie,  
 E. van Middelkoop   
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 J. P. H. Donner   
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *zesde* september 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

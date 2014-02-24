@@ -37,21 +37,21 @@ k. opvangvoorziening: accommodatie waarin door of onder verantwoordelijkheid van
 
 l. uitstroom: vertrek van de PVB-gerechtigde uit een opvangvoorziening naar een gemeente;  
 
-m. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+m.taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
 n. Wet inburgering: [Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2012;  
 
 o. Besluit inburgering: [Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zoals dat luidde op 31 december 2012;  
 
-p. Regeling inburgering: [Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md), zoals die luidde op 31 december 2012.    
+p. Regeling inburgering: [Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md), zoals die luidde op 31 december 2012.  
 
 ### Artikel  2  
 
 De Minister kan, onder de in deze regeling genoemde voorwaarden, een persoonsvolgend budget verlenen aan een PVB-gerechtigde teneinde deze in staat te stellen deel te nemen aan: 
 
-a. een inburgeringsprogramma en dit af te sluiten met het inburgeringsexamen of het staatsexamen, dan wel  
+a.een inburgeringsprogramma en dit af te sluiten met het inburgeringsexamen of het staatsexamen, dan wel
 
-b. een taalkennisvoorziening, mits de PVB-gerechtigde een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) volgt of gaat volgen.    
+b.een taalkennisvoorziening, mits de PVB-gerechtigde een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) volgt of gaat volgen. 
 
 ### Hoofdstuk  2  
 
@@ -62,7 +62,7 @@ b. een taalkennisvoorziening, mits de PVB-gerechtigde een beroepsopleiding als b
 1.  De PVB-gerechtigde kan vanaf 1 januari 2008 een persoonsvolgend budget aanvragen bij de Minister.   
 2.  De aanvraag, bedoeld in het eerste lid, wordt gedaan door middel van het daarvoor bestemde aanvraagformulier waarin wordt vermeld bij welke cursusinstelling een inburgeringsprogramma dan wel een taalkennisvoorziening gevolgd gaat worden.   
 3.  De aanvraag, bedoeld in het eerste lid, omvat een verklaring van het COA dat de PVB-gerechtigde op het moment van de aanvraag in een opvangvoorziening verblijft.   
-4.  Een PVB-gerechtigde kan uiterlijk tot en met 31 december 2008 een persoonsvolgend budget aanvragen.   
+4.  Een PVB-gerechtigde kan uiterlijk tot en met 31 december 2008 een persoonsvolgend budget aanvragen.  
 
 ### Artikel  4  
 
@@ -90,17 +90,17 @@ c. de aanvrager:
 – is niet leerplichtig of kwalificatieplichtig als bedoeld in [artikel 5, eerste lid, onder d, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);    
 
 d. de aanvrager heeft geen openstaande lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).     
-3.  De Minister controleert of de ingediende factuur afkomstig is van een cursusinstelling of van een exameninstelling, een origineel is en voldoet aan de criteria, bedoeld in artikel 7, tweede lid.   
+3.  De Minister controleert of de ingediende factuur afkomstig is van een cursusinstelling of van een exameninstelling, een origineel is en voldoet aan de criteria, bedoeld in artikel 7, tweede lid.  
 
 ### Artikel  5  
 
 1.  De Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.   
 2.  Het persoonsvolgend budget wordt vastgesteld op ten hoogste € 4.480 per persoon.   
-3.  Een PVB-gerechtigde heeft aanspraak op het persoonsvolgend budget gedurende een periode van ten hoogste drie jaar gerekend vanaf de eerste dag van de maand volgend op de verstrekking van het persoonsvolgend budget.   
+3.  Een PVB-gerechtigde heeft aanspraak op het persoonsvolgend budget gedurende een periode van ten hoogste drie jaar gerekend vanaf de eerste dag van de maand volgend op de verstrekking van het persoonsvolgend budget.  
 
 ### Artikel  6  
 
-Met het persoonsvolgend budget kan de PVB-gerechtigde, desgewenst in fasen, een modulair opgebouwd inburgeringsprogramma dan wel een taalkennisvoorziening inkopen bij een cursusinstelling en kan hij het inburgeringsexamen of het staatsexamen inkopen bij een exameninstelling.  
+Met het persoonsvolgend budget kan de PVB-gerechtigde, desgewenst in fasen, een modulair opgebouwd inburgeringsprogramma dan wel een taalkennisvoorziening inkopen bij een cursusinstelling en kan hij het inburgeringsexamen of het staatsexamen inkopen bij een exameninstelling. 
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ c. de naam- en adresgegevens van de cursusinstelling of de exameninstelling;
 d. de naam van de cursus of het examen.     
 3.  Van iedere betaling krijgt de aanvrager van de Minister een overzicht waarbij tevens het resterende persoonsvolgend budget inzichtelijk wordt gemaakt.   
 4.  De cursusinstelling en de exameninstelling verstrekken uiterlijk drie maanden na het behalen van het inburgeringsexamen of het staatsexamen de originele facturen aan de PVB-gerechtigde.   
-5.  De PVB-gerechtigde verstrekt uiterlijk drie maanden na ontvangst van de factuur, de originele en door hem ondertekende factuur aan de Minister, doch uiterlijk op 31 december 2012.   
+5.  De PVB-gerechtigde verstrekt uiterlijk drie maanden na ontvangst van de factuur, de originele en door hem ondertekende factuur aan de Minister, doch uiterlijk op 31 december 2012.  
 
 ### Hoofdstuk  3  
 
@@ -131,12 +131,12 @@ d. de naam van de cursus of het examen.
 1.  Het COA neemt bij de PVB-gerechtigde een intaketoets af om het niveau van de vaardigheden in de Nederlandse taal en de kennis van de Nederlandse samenleving vast te stellen.   
 2.  Het COA is de PVB-gerechtigde door middel van voorlichting en begeleiding behulpzaam bij het afstemmen van de keuze van het inburgeringsprogramma dan wel de taalkennisvoorziening, en de cursusinstelling op zijn persoonlijke situatie.   
 3.  Het COA verwijst de PVB-gerechtigde door naar de gemeente waar hij staat ingeschreven en waar hij een aanvraag kan doen tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in [artikel 6, eerste lid, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).   
-4.  De [artikelen 2.8 van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) en [2.4 van de Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md) zijn van overeenkomstige toepassing.   
+4.  De [artikelen 2.8 van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) en [2.4 van de Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
 1.  In geval van uitstroom draagt het COA zorg voor de dossieroverdracht van de PVB-gerechtigde aan de betrokken gemeente.   
-2.  In geval van uitstroom, blijft het resterende persoonsgebonden budget beschikbaar voor de PVB-gerechtigde teneinde het inburgeringsprogramma af te ronden en af te sluiten met het inburgeringsexamen of het staatsexamen, dan wel de taalkennisvoorziening af te ronden.   
+2.  In geval van uitstroom, blijft het resterende persoonsgebonden budget beschikbaar voor de PVB-gerechtigde teneinde het inburgeringsprogramma af te ronden en af te sluiten met het inburgeringsexamen of het staatsexamen, dan wel de taalkennisvoorziening af te ronden.  
 
 ### Hoofdstuk  4  
 
@@ -144,11 +144,11 @@ d. de naam van de cursus of het examen.
 
 ### Artikel  11  
 
-Het COA draagt er zorg voor dat de inburgering door middel van een persoonsvolgend budget bij overplaatsing van de PVB-gerechtigde naar een andere opvangvoorziening als bedoeld in [artikel 11, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) kan worden gecontinueerd.  
+Het COA draagt er zorg voor dat de inburgering door middel van een persoonsvolgend budget bij overplaatsing van de PVB-gerechtigde naar een andere opvangvoorziening als bedoeld in [artikel 11, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) kan worden gecontinueerd. 
 
 ### Artikel  12  
 
-De inburgering door middel van een persoonsvolgend budget mag de uitstroom in geen geval vertragen. [Artikel 7, eerste lid, aanhef en onder a, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) is van overeenkomstige toepassing.  
+De inburgering door middel van een persoonsvolgend budget mag de uitstroom in geen geval vertragen. [Artikel 7, eerste lid, aanhef en onder a, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) is van overeenkomstige toepassing. 
 
 ### Artikel  13  
 
@@ -169,11 +169,11 @@ a. de Minister;
 
 b. het college van burgemeester en wethouders;  
 
-c. de Minister van Justitie.     
+c. de Minister van Justitie.    
 
 ### Artikel  14  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Hoofdstuk  5  
 
@@ -181,11 +181,11 @@ Wijzigt het Besluit inburgering.
 
 ### Artikel  15  
 
-Deze regeling treedt in werking met ingang van 1 januari 2008. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, 31 december 2007 of een latere datum is, treedt zij in werking met ingang van de tweede dag na die dagtekening, en werkt zij terug tot en met 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, 31 december 2007 of een latere datum is, treedt zij in werking met ingang van de tweede dag na die dagtekening, en werkt zij terug tot en met 1 januari 2008. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling persoonsvolgend budget voor inburgering in de opvang.  
+Deze regeling wordt aangehaald als: Regeling persoonsvolgend budget voor inburgering in de opvang. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -193,4 +193,4 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar   
+C.P. Vogelaar     

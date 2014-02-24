@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  1  
 
-Het verslag, bedoeld in [artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende bijlage 1.  
+Het verslag, bedoeld in [artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende bijlage 1. 
 
 ### Artikel  3  
 
-De [Regeling inhoudelijk verslag nieuwkomers G31 2007](../../../../../../../../../../../../../ministeriele-regeling/regeling/inhoudelijk/verslag/nieuwkomers/g31/2007/BWBR0023326/README.md) wordt ingetrokken.  
+De [Regeling inhoudelijk verslag nieuwkomers G31 2007](../../../../../../../../../../../../../ministeriele-regeling/regeling/inhoudelijk/verslag/nieuwkomers/g31/2007/BWBR0023326/README.md) wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling inhoudelijk verslag nieuwkomers 2007 (niet-G31) en 2008 (G31 en niet-G31).  
+Deze regeling wordt aangehaald als: Regeling inhoudelijk verslag nieuwkomers 2007 (niet-G31) en 2008 (G31 en niet-G31). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,7 +28,7 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-E.E. van derLaan  
+E.E. van der Laan    
 
 ### Bijlage  1  
 
@@ -94,7 +94,7 @@ Aantal nieuwkomers, dat in 2008 is uitgevallen, verdeeld naar reden.
 
 | Reden uitval  | Nieuwkomer  | Totaal  |
 |:---|:---|:---|
-| Werk  | --- | --- |
+| Werk   | --- | --- |
 | Zwangerschap  | --- | --- |
 | Geen motivatie  | --- | --- |
 | Geen kinderopvang  | --- | --- |
@@ -132,7 +132,7 @@ Toename van de beheersing van de vaardigheid lezen van de nieuwkomers die hun tr
 
 | Van startniveau naar eindniveau  | Nieuwkomer  | Totaal  |
 |:---|:---|:---|
-| Van 0 naar  | --- | --- |
+| Van 0 naar   | --- | --- |
 | 0  | --- | --- |
 | 1  | --- | --- |
 | 2  | --- | --- |
@@ -158,9 +158,9 @@ Toename van de beheersing van de vaardigheid lezen van de nieuwkomers die hun tr
 
 Toename van de beheersing van de vaardigheid schrijven van de nieuwkomers die hun traject hebben afgerond in 2008.  
 
-| Van startniveau naar eindniveau  | Nieuwkomer  | Totaal  |
+| Van startniveau naar eindniveau  | Nieuwkomer  | Totaal   |
 |:---|:---|:---|
-| Van 0 naar  | --- | --- |
+| Van 0 naar   | --- | --- |
 | 0  | --- | --- |
 | 1  | --- | --- |
 | 2  | --- | --- |
@@ -188,7 +188,7 @@ Toename van de beheersing van de vaardigheid spreken van de nieuwkomers die hun 
 
 | Van startniveau naar eindniveau  | Nieuwkomer  | Totaal  |
 |:---|:---|:---|
-| Van 0 naar  | --- | --- |
+| Van 0 naar   | --- | --- |
 | 0  | --- | --- |
 | 1  | --- | --- |
 | 2  | --- | --- |
@@ -214,9 +214,9 @@ Toename van de beheersing van de vaardigheid spreken van de nieuwkomers die hun 
 
 Toename van de beheersing van de vaardigheid luisteren van de nieuwkomers die hun traject hebben afgerond in 2008.  
 
-| Van startniveau naar eindniveau  | Nieuwkomer  | Totaal  |
+| Van startniveau naar eindniveau  | Nieuwkomer  | Totaal   |
 |:---|:---|:---|
-| Van 0 naar  | --- | --- |
+| Van 0 naar   | --- | --- |
 | 0  | --- | --- |
 | 1  | --- | --- |
 | 2  | --- | --- |

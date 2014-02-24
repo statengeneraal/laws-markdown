@@ -13,13 +13,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-− *besluit:* het Besluit strategische goederen;  
+−  *besluit:* het Besluit strategische goederen;  
 
-− *EORI-nummer:* het nummer, bedoeld in artikel 1, onderdeel 16, van de toepassingsverordening Communautair douanewetboek;  
+−  *EORI-nummer:* het nummer, bedoeld in artikel 1, onderdeel 16, van de toepassingsverordening Communautair douanewetboek;  
 
-− *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;  
+−  *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;  
 
-− *inspecteur:* de algemeen directeur Douane.    
+−  *inspecteur:* de algemeen directeur Douane.   
 
 ### §  2  
 
@@ -28,7 +28,7 @@ In deze regeling wordt verstaan onder:
 ### Artikel  2  
 
 1.  De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene doorvoervergunning voor de in artikel 3 bedoelde categorieën van militaire goederen indien aan de in artikelen 4 en 5 genoemde voorwaarden is voldaan.   
-2.  Aan de algemene doorvoervergunning zijn de in artikel 6 genoemde voorschriften verbonden.   
+2.  Aan de algemene doorvoervergunning zijn de in artikel 6 genoemde voorschriften verbonden.  
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ De algemene doorvoervergunning NL008 geldt voor militaire goederen zoals opgenom
 
 a. ML3 en ML4 waar het clustermunitie, waaronder clusterbommen, betreft;  
 
-b. ML4, voor wat betreft anti-personeelsmijnen.    
+b. ML4, voor wat betreft anti-personeelsmijnen.   
 
 ### §  3  
 
@@ -44,11 +44,11 @@ b. ML4, voor wat betreft anti-personeelsmijnen.
 
 ### Artikel  4  
 
-De algemene doorvoervergunning NL008 voor de goederen, bedoeld in artikel 3, is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische verdragsorganisatie.  
+De algemene doorvoervergunning NL008 voor de goederen, bedoeld in artikel 3, is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische verdragsorganisatie. 
 
 ### Artikel  5  
 
-De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de beschikkingsbevoegde, degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, de persoon die de goederen vervoert, naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md), een geldig registratienummer heeft.  
+De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de beschikkingsbevoegde, degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, de persoon die de goederen vervoert, naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md), een geldig registratienummer heeft. 
 
 ### §  4  
 
@@ -67,7 +67,7 @@ b. bij elke doorvoer wordt op de documenten die de zending begeleiden duidelijk 
 2°. het land van herkomst en eindbestemming;  
 
 3°. NL008.       
-2.  De geregistreerde gebruiker van deze algemene doorvoervergunning is verplicht de administratie en alle op de leverantie betrekking hebbende documenten gedurende een termijn van zeven jaren te bewaren.   
+2.  De geregistreerde gebruiker van deze algemene doorvoervergunning is verplicht de administratie en alle op de leverantie betrekking hebbende documenten gedurende een termijn van zeven jaren te bewaren.  
 
 ### §  5  
 
@@ -77,7 +77,7 @@ b. bij elke doorvoer wordt op de documenten die de zending begeleiden duidelijk 
 
 1.  Een beschikkingsbevoegde, degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, de persoon die de goederen vervoert, dient een verzoek tot registratie ten minste twee weken voor het eerste gebruik van de algemene doorvoervergunning NL008 schriftelijk in bij de inspecteur.   
 2.  Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de partij die zich registreert, indien deze partij hierover beschikt, het EORI-nummer en de voorgenomen datum van het eerste gebruik van de algemene doorvoervergunning.   
-3.  De melding eerste gebruik bevat de voorgenomen datum van het eerste gebruik van de algemene doorvoervergunning NL008.   
+3.  De melding eerste gebruik bevat de voorgenomen datum van het eerste gebruik van de algemene doorvoervergunning NL008.  
 
 ### §  6  
 
@@ -93,7 +93,7 @@ b. het aantal doorgevoerde militaire goederen;
 
 c. de datum van de levering;  
 
-d. het land van herkomst en van eindbestemming en indien bekend de naam en het adres van de ontvanger en eindgebruiker van de militaire goederen.    
+d. het land van herkomst en van eindbestemming en indien bekend de naam en het adres van de ontvanger en eindgebruiker van de militaire goederen.   
 
 ### §  7  
 
@@ -101,11 +101,11 @@ d. het land van herkomst en van eindbestemming en indien bekend de naam en het a
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van 1 juli 2012.  
+Deze regeling treedt in werking met ingang van 1 juli 2012. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling algemene doorvoervergunning NL008.  
+Deze regeling wordt aangehaald als: Regeling algemene doorvoervergunning NL008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -113,4 +113,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, Landbouw en Innovatie, 
-M.J.M.Verhagen   
+M.J.M. Verhagen     

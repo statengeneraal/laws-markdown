@@ -46,18 +46,18 @@ Voorwaarden en eisen ten aanzien van het gebruik van deze vergunning:
 
 ####Mededeling
 
-Voor sommige bestemmingen of goederen zijn boven deze algemene vergunning prevalerende internationale sanctieregelingen van kracht, in welk geval de verboden, beperkingen of voorschriften van die regelingen, voor zover zij betrekking hebben op de uitvoer van goederen voor tweeërlei gebruik, in acht moeten worden genomen.    
+Voor sommige bestemmingen of goederen zijn boven deze algemene vergunning prevalerende internationale sanctieregelingen van kracht, in welk geval de verboden, beperkingen of voorschriften van die regelingen, voor zover zij betrekking hebben op de uitvoer van goederen voor tweeërlei gebruik, in acht moeten worden genomen.   
 ### §  4a  
 
 ####Grondslag
 
-Deze uitvoervergunning berust op [artikel 4b van het Besluit strategische goederen](../../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md).    
+Deze uitvoervergunning berust op [artikel 4b van het Besluit strategische goederen](../../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md). 
 ### §  5  
 
 ####Inwerkingtreding
 
-Deze Nationale Algemene Uitvoervergunning geldt met ingang van 1 december 2009. Zij wordt in de Nederlandse Staatscourant bekendgemaakt. De Nationale Algemene vergunning NL 001 van 28 september 2000 wordt ingetrokken.     
+Deze Nationale Algemene Uitvoervergunning geldt met ingang van 1 december 2009. Zij wordt in de Nederlandse Staatscourant bekendgemaakt. De Nationale Algemene vergunning NL 001 van 28 september 2000 wordt ingetrokken.    
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

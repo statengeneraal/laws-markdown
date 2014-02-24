@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 15 april 1994 te Marrakech tot stand gekomen verdrag tot oprichting van de Wereld Handelsorganisatie, met bijlagen 1, 2 en 3, waarvan de tekst is geplaatst in *Tractatenblad* 1994, 235, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 15 april 1994 te Marrakech tot stand gekomen verdrag tot oprichting van de Wereld Handelsorganisatie, met bijlagen 1, 2 en 3, waarvan de tekst is geplaatst in *Tractatenblad* 1994, 235, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-Het op 15 april 1994 te Marrakech tot stand gekomen verdrag inzake overheidsopdrachten, met bijlage, waarvan de tekst is geplaatst in *Tractatenblad* 1994, 235, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 15 april 1994 te Marrakech tot stand gekomen verdrag inzake overheidsopdrachten, met bijlage, waarvan de tekst is geplaatst in *Tractatenblad* 1994, 235, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  3  
 
-De goedkeuring door de Staten-Generaal is niet vereist voor verdragen die als noodzakelijk en rechtstreeks gevolg van de in de artikelen 1 en 2 bedoelde goedkeuring worden gesloten om de binding aan de in die artikelen genoemde verdragen, met bijlagen, voor de Nederlandse Antillen en Aruba tot stand te brengen.  
+De goedkeuring door de Staten-Generaal is niet vereist voor verdragen die als noodzakelijk en rechtstreeks gevolg van de in de artikelen 1 en 2 bedoelde goedkeuring worden gesloten om de binding aan de in die artikelen genoemde verdragen, met bijlagen, voor de Nederlandse Antillen en Aruba tot stand te brengen. 
 
 ### Artikel  4  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

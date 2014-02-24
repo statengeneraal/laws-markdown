@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit modern migratiebeleid.   
+Wijzigt het Besluit modern migratiebeleid. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  IV  
 
-De onderdelen B, D en H tot en met L van artikel I en onderdelen C en D van artikel II van dit besluit blijven buiten toepassing ten aanzien van het verblijfsrecht van de vreemdeling wiens verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is verleend voor de inwerkingtreding van dit besluit en wiens aanvraag tot verlenging van zijn verblijf niet kon worden afgewezen op grond van het recht zoals dat gold op de dag voor inwerkingtreding van dit besluit.  
+De onderdelen B, D en H tot en met L van artikel I en onderdelen C en D van artikel II van dit besluit blijven buiten toepassing ten aanzien van het verblijfsrecht van de vreemdeling wiens verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is verleend voor de inwerkingtreding van dit besluit en wiens aanvraag tot verlenging van zijn verblijf niet kon worden afgewezen op grond van het recht zoals dat gold op de dag voor inwerkingtreding van dit besluit. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,10 +39,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 27 maart 2012  
 Beatrix  
 
-De Minister voor Immigratie, Integratie en Asiel, 
+De Minister voor Immigratie, Integratie en Asiel,  
 G. B. M. Leers   
 
 de *elfde* april 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
