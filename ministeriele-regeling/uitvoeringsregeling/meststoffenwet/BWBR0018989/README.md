@@ -21,63 +21,61 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. wet: Meststoffenwet;  
+AGR-apparatuur: apparatuur voor automatische gegevensregistratie;  
 
-b. besluit: Uitvoeringsbesluit Meststoffenwet;  
+automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in artikel 49, eerste lid, van het besluit in samenhang met artikel 78, onderscheidenlijk 79;  
 
-c. Dienst Regelingen: Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+besluit: Uitvoeringsbesluit Meststoffenwet;  
 
-d. derogatiebeschikking: beschikking van de Europese Commissie tot verlening van een door Nederland gevraagde derogatie op grond van Bijlage III, punt 2, onder b, van richtlijn 91/676/EEG op grond waarvan onder voorwaarden een grotere hoeveelheid dierlijke mest op of in de bodem mag worden gebracht dan bepaald in punt 2, tweede alinea, inleidende zinnen en onder a) van Bijlage III bij richtlijn 91/676/EEG;  
+champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld;  
 
-e. gewasperceel: perceel of deel van een perceel met een minimale omvang van twee hectare waarop één en hetzelfde gewas als bedoeld in bijlage A, wordt geteeld;  
+combinatienummer: nummer dat door de Dienst Regelingen ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens;  
 
-f. vloeibaar zuiveringsslib: zuiveringsslib dat verpompbaar is;  
+derogatiebeschikking: beschikking van de Europese Commissie tot verlening van een door Nederland gevraagde derogatie op grond van Bijlage III, punt 2, onder b, van richtlijn 91/676/EEG op grond waarvan onder voorwaarden een grotere hoeveelheid dierlijke mest op of in de bodem mag worden gebracht dan bepaald in punt 2, tweede alinea, inleidende zinnen en onder a) van Bijlage III bij richtlijn 91/676/EEG;  
 
-g. Raad: Raad voor Accreditatie te Utrecht;  
+Dienst Regelingen: Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
-h. minister: Minister van Economische Zaken, Landbouw en Innovatie;  
+diereenheid: één varkenseenheid of 14,8 pluimvee-eenheden;  
 
-i. mineralenconcentraat: door middel van ultrafiltratie of gelijkwaardige industriële technieken, gevolgd door omgekeerde osmose uit dierlijke meststoffen als eindproduct vervaardigd concentraat;  
+eutrofiëring: een verrijking van het water door stikstof- en fosfaatverbindingen, die leidt tot een versnelde groei van algen en hogere plantaardige levensvormen met als gevolg een ongewenste verstoring van het evenwicht tussen de verschillende in het water aanwezige organismen en een verslechtering van de waterkwaliteit;  
 
-j. weegwerktuig: niet-automatisch weegwerktuig als bedoeld in artikel 1, onderdeel h, van het Meetinstrumentenbesluit I en dat voldoet aan de bij of krachtens dat besluit gestelde regels;  
+gewasperceel: perceel of deel van een perceel met een minimale omvang van twee hectare waarop één en hetzelfde gewas als bedoeld in bijlage A, wordt geteeld;  
 
-k. vaste mest: dierlijke meststoffen die niet verpompbaar zijn;  
+hypotheekhouder: degene ten gunste van wie een recht van hypotheek is gevestigd op een registergoed behorende tot een bedrijf;  
 
-l. automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in artikel 49, eerste lid, van het besluit in samenhang met artikel 78, onderscheidenlijk 79;  
+kennisgeving van overgang: kennisgeving van overgang van een productierecht, of een gedeelte daarvan, als bedoeld in artikel 27, eerste lid, van de wet;  
 
-m. AGR-apparatuur: apparatuur voor automatische gegevensregistratie;  
+mengvoeder: mengvoeder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders;  
 
-n. vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in artikel 53 van het besluit in samenhang met artikel 60;  
+mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eerste lid, onderdeel f, van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300) erkende inrichting of bedrijf zodanig zijn bewerkt dat het drogestofgehalte ervan ten minste 90% bedraagt;  
 
-o. vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in artikel 55 van het besluit in samenhang met artikel 68;  
+mineralenconcentraat: door middel van ultrafiltratie of gelijkwaardige industriële technieken, gevolgd door omgekeerde osmose uit dierlijke meststoffen als eindproduct vervaardigd concentraat;  
 
-p. mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eerste lid, onderdeel f, van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300) erkende inrichting of bedrijf zodanig zijn bewerkt dat het drogestofgehalte ervan ten minste 90% bedraagt;  
+minister: Minister van Economische Zaken, Landbouw en Innovatie;  
 
-q. mengvoeder: mengvoeder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders;  
+productielocatie: gebouw of afgescheiden gedeelte daarvan als bedoeld in artikel 1, eerste lid, onderdeel i, van de wet, dat onderdeel uitmaakt van een bedrijf;  
 
-r. combinatienummer: nummer dat door de Dienst Regelingen ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens;  
+Raad: Raad voor Accreditatie te Utrecht;  
 
-s. champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld;  
+richtlijn 91/676/EEG: Richtlijn 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEU L 324);  
 
-t. kennisgeving van overgang: kennisgeving van overgang van een productierecht, of een gedeelte daarvan, als bedoeld in artikel 27, eerste lid, van de wet;  
+vaste mest: dierlijke meststoffen die niet verpompbaar zijn;  
 
-u. vervreemder van een productierecht: landbouwer van wiens bedrijf een productierecht, of een gedeelte daarvan, afkomstig is;  
+verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300);  
 
-v. verwerver van een productierecht: landbouwer naar wiens bedrijf een productierecht, of een gedeelte daarvan, moet overgaan; en  
+vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in artikel 53 van het besluit in samenhang met artikel 60;  
 
-w. hypotheekhouder: degene ten gunste van wie een recht van hypotheek is gevestigd op een registergoed behorende tot een bedrijf;  
+vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in artikel 55 van het besluit in samenhang met artikel 68;  
 
-x. diereenheid: één varkenseenheid of 14,8 pluimvee-eenheden;  
+vervreemder van een productierecht: landbouwer van wiens bedrijf een productierecht, of een gedeelte daarvan, afkomstig is;  
 
-y. verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300);  
+verwerver van een productierecht: landbouwer naar wiens bedrijf een productierecht, of een gedeelte daarvan, moet overgaan; en  
 
-z. richtlijn 91/676/EEG: Richtlijn 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEU L 324);  
+vloeibaar zuiveringsslib: zuiveringsslib dat verpompbaar is;  
 
-z. productielocatie: gebouw of afgescheiden gedeelte daarvan als bedoeld in artikel 1, eerste lid, onderdeel i, van de wet, dat onderdeel uitmaakt van een bedrijf;  
+weegwerktuig: niet-automatisch weegwerktuig als bedoeld in artikel 1, onderdeel h, van het Meetinstrumentenbesluit I en dat voldoet aan de bij of krachtens dat besluit gestelde regels;  
 
-z. eutrofiëring: een verrijking van het water door stikstof- en fosfaatverbindingen, die leidt tot een versnelde groei van algen en hogere plantaardige levensvormen met als gevolg een ongewenste verstoring van het evenwicht tussen de verschillende in het water aanwezige organismen en een verslechtering van de waterkwaliteit;  
-
-aa. nitraatrichtlijn: richtlijn 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEG L 375).     
+wet: Meststoffenwet.     
 2.  Voor de toepassing van hoofdstuk 3 wordt onder graasdieren, perceel, zuiveringsslib en compost verstaan hetgeen daaronder in artikel 1 van het besluit wordt verstaan.   
 
 ### Artikel  2  
@@ -1092,12 +1090,12 @@ De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld
 
 ### Artikel  72a  
 
-1.  Als categorieën landbouwers als bedoel in artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
+1.  Als categorieën landbouwers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
 
-a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a;  
+a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b;  
 
-b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.     
-2.  Als categorieën afnemers als bedoel in artikel 33a, tweede lid, onderdeel b, onder 2°, worden aangewezen: 
+b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a.     
+2.  Als categorieën afnemers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, worden aangewezen: 
 
 a. landbouwers die een bedrijf hebben waar biologisch plantaardige productie, als bedoeld in artikel 12 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) plaatsvindt;  
 
@@ -1110,16 +1108,20 @@ b. ondernemers die champignonsubstraat bereiden.
 
 a. het in België gelegen perceel en de Nederlandse grens bedraagt ten hoogste 25 kilometer;  
 
-b. het in Duitsland gelegen perceel en de Nederlandse grens bedraagt ten hoogste 20 kilometer.     
+b. het in Duitsland gelegen perceel en de Nederlandse grens bedraagt ten hoogste 20 kilometer.     
 2.  De voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet, zijn de voorwaarden, genoemd in artikel 87, eerste lid, onderdelen a en d tot en met f.   
 
 ### Artikel  72c  
 
-Als voorwaarde, bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet geldt dat het bedrijfsoverschot van de landbouwer in het desbetreffende kalenderjaar maximaal 25% van de totale mestproductie van zijn bedrijf in dat jaar bedraagt.  
+Als voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet gelden dat: 
+
+a. het bedrijfsoverschot van de landbouwer in het desbetreffende kalenderjaar maximaal 25% van de totale mestproductie van zijn bedrijf in dat jaar bedraagt, en  
+
+b. de overgedragen dierlijke meststoffen direct en zonder tussenopslag op landbouwgrond worden aangewend.    
 
 ### Artikel  72d  
 
-Het buiten Nederland brengen van champost telt niet mee voor het voldoen aan de verplichting, bedoeld in artikel 33d, eerste lid, van de wet.  
+Als soort dierlijke meststoffen als bedoeld in artikel 58 van het besluit, is champost aangewezen.  
 
 ### Artikel  72e  
 
@@ -1127,8 +1129,8 @@ De periode, bedoeld in artikel 57 van het besluit, bedraagt het kalenderjaar waa
 
 ### Artikel  72f  
 
-1.  In een mestverwerkingsovereenkomst, bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet, en in de overeenkomst, bedoeld in artikel 33a, derde lid, onderdeel c, van de wet, zijn opgenomen de door de Dienst Regelingen ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
-2.  De gegevens die in het kader van artikel 33b, vijfde lid, worden gemeld zijn: 
+1.  In een mestverwerkingsovereenkomst, als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet, en in een overeenkomst, als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet, zijn opgenomen de door de Dienst Regelingen ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
+2.  De gegevens die in het kader van artikel 33b, vijfde lid, van de wet worden gemeld zijn: 
 
 a. het kalenderjaar waarop de overeenkomst ziet;  
 
@@ -1728,9 +1730,9 @@ c. de mestbehandeling of mestvergisting van de dierlijke meststoffen geschiedt i
 
 d. de installatie waarin de dierlijke meststoffen worden behandeld of vergist, heeft naar het oordeel van de minister voldoende capaciteit om de met de overgang of verplaatsing gemoeide hoeveelheid dierlijke meststoffen te behandelen, onderscheidenlijk te vergisten;  
 
-e. de hoeveelheid in een kalenderjaar op het bedrijf geproduceerde dierlijke meststoffen, in verband met de overgang of verplaatsing, wordt uiterlijk in het daarop volgende kalenderjaar in de installatie behandelt of vergist en uiterlijk in het daarop volgende kalenderjaar worden de eindproducten die bij de mestbehandeling of de mestvergisting ontstaan, afgezet;  
+e. de hoeveelheid in een kalenderjaar op het bedrijf geproduceerde dierlijke meststoffen, in verband met de overgang of verplaatsing, wordt uiterlijk in het daarop volgende kalenderjaar in de installatie behandeld of vergist en uiterlijk in het daarop volgende kalenderjaar worden de eindproducten die bij de mestbehandeling of de mestvergisting ontstaan, afgezet;  
 
-f. de geproduceerde hoeveelheid dierlijke mestststoffen, in verband met de overgang of verplaatsing, wordt verwerkt door middel van mestbehandeling of mestvergisting in een mestverwerkingsinstallatie of mestvergistingsinstallatie die behoort tot het bedrijf waarnaar het productierecht, of gedeelte daarvan, zal overgaan, of waarbinnen de varkens-, kippen- of kalkoenhouderij zal worden verplaatst;  
+f. de geproduceerde hoeveelheid dierlijke mestststoffen, in verband met de overgang of verplaatsing, wordt behandeld door middel van mestbehandeling of mestvergisting in een mestbehandelingsinstallatie of mestvergistingsinstallatie die behoort tot het bedrijf waarnaar het productierecht, of gedeelte daarvan, zal overgaan, of waarbinnen de varkens-, kippen- of kalkoenhouderij zal worden verplaatst;  
 
 g. de eindproducten die bij de mestbehandeling of mestvergisting ontstaan, worden niet binnen de markt voor dierlijke mest afgezet;  
 
@@ -1863,7 +1865,7 @@ Voor de toepassing van deze paragraaf wordt bij de bepaling van de omvang van he
 
 ### Artikel  121a  
 
-1.  Het controleprogramma, bedoeld in artikel 5, zesde lid, van de nitraatrichtlijn beoordeelt de doeltreffendheid van het opgestelde actieprogramma, bedoeld in artikel 5 van de nitraatrichtlijn, door: 
+1.  Het controleprogramma, bedoeld in artikel 5, zesde lid, van richtlijn 91/676/EEG beoordeelt de doeltreffendheid van het opgestelde actieprogramma, bedoeld in artikel 5 van richtlijn 91/676/EEG, door: 
 
 a. op landbouwbedrijven de nitraat-, stikstof- en fosfaatconcentratie in het grondwater en slootwater te meten, en  
 
@@ -1891,7 +1893,7 @@ c. het overtollige drainagewater dat uitspoelt uit de wortelzone, indien het dra
 
 ### Artikel  121d  
 
-De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld in artikel 10 van de nitraatrichtlijn, dat de Europese Commissie vierjaarlijks ontvangt.  
+De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld in artikel 10 van richtlijn 91/676/EEG, dat de Europese Commissie vierjaarlijks ontvangt.  
 
 ### Hoofdstuk  11  
 
@@ -3654,18 +3656,46 @@ Behorende bij artikel 61
 
 | Omschrijving op VDM  | Code  |
 |---|---|
-| Grensoverschrijdend  Export België  Export Duitsland  Verklaring eigen gebruik  Export Frankrijk  Export overige landen  Import België  Import Duitsland  Erkenning als grensoverschrijdend veeteeltbedrijf  Import Frankrijk  Import Overige landen  | 11  12  13  14  19  21  22  23  24  29  |
-| --- | --- |
-| Hoeveelheidbepaling  Levering aan particulier  Boer-boer  Afvoer naar uitgebruik gegeven grond  Afvoer naar natuurterrein  Afvoer kleine bedrijven (< 350 kg N < 3ha)  Konijnengier (drogestof < 2,5%)  Keten paardenmest – substraat – champost  Vervoer spoor 2  Vervoer per schip of per trein  Gesplitst vervoer van vaste mest  Afvoer naar tuincentrum of hovenier  Afvoer uit covergistingsinstallatie  Vervoer van mestkorrels  Export van behandelde vaste mest  | 31  32  33  34  35  36  37  38  45  46  47  93  94  95  |
-| --- | --- |
-| Verwerking  VDM geldt als mestverwerkingsovereenkomst: afvoer direct naar verwerker of export, in het kader van de verwerkingsplicht  | 61  |
-| Uitzonderingen verwerkingsplicht  – Regionale afzet  – Afvoer naar champignonsubstraatbereider  | 71  72  |
-| --- | --- |
-| Bemonstering  Mestmonster verloren gegaan  Analyse van het monster mislukt  Heranalyse  | 50  52  53  |
-| --- | --- |
-| Storingen apparatuur  Apparatuur defect  | 55  |
-| --- | --- |
-| Bijzonderheden transport  Geen wegtransport (bijv. pijpleiding KGBI)  Wegtransport KGBI  | 42  44  |
+|  *Grensoverschrijdend*   | --- |
+| Export België  | 11  |
+| Export Duitsland  | 12  |
+| Verklaring eigen gebruik  | 13  |
+| Export Frankrijk  | 14  |
+| Export overige landen  | 19  |
+| Import België  | 21  |
+| Import Duitsland  | 22  |
+| Erkenning als grensoverschrijdend veeteeltbedrijf  | 23  |
+| Import Frankrijk  | 24  |
+| Import Overige landen  | 29  |
+|  *Hoeveelheidbepaling*   | --- |
+| Levering aan particulier  | 31  |
+| Boer-boer  | 32  |
+| Afvoer naar uitgebruik gegeven grond  | 33  |
+| Afvoer naar natuurterrein  | 34  |
+| Afvoer kleine bedrijven (< 350 kg N < 3ha)  | 35  |
+| Konijnengier (drogestof < 2,5%)  | 36  |
+| Keten paardenmest – substraat – champost  | 37  |
+| Vervoer spoor 2  | 38  |
+| Vervoer per schip of per trein  | 45  |
+| Gesplitst vervoer van vaste mest  | 46  |
+| Afvoer naar tuincentrum of hovenier  | 47  |
+| Afvoer uit covergistingsinstallatie  | 93  |
+| Vervoer van mestkorrels  | 94  |
+| Export van behandelde vaste mest  | 95  |
+|  *Verwerking*   | --- |
+| VDM geldt als mestverwerkingsovereenkomst: afvoer direct naar verwerker of export, in het kader van de verwerkingsplicht  | 61  |
+| Uitzonderingen verwerkingsplicht  | --- |
+| – Regionale afzet  | 71  |
+| – Afvoer naar champignonsubstraatbereider  | 72  |
+|  *Bemonstering*   | --- |
+| Mestmonster verloren gegaan  | 50  |
+| Analyse van het monster mislukt  | 52  |
+| Heranalyse  | 53  |
+|  *Storingen apparatuur*   | --- |
+| Apparatuur defect  | 55  |
+|  *Bijzonderheden transport*   | --- |
+| Geen wegtransport (bijv. pijpleiding KGBI)  | 42  |
+| Wegtransport KGBI  | 44  |
 
 ### bijlage  G  
 

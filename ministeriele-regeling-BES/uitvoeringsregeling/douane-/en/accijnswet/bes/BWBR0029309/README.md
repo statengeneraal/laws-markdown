@@ -20,19 +20,19 @@ Besluit:
 1.  Deze regeling geeft uitvoering aan de [artikelen 1.1, onderdeel h](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.2, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.4, eerste en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.6, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.9, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.10, tweede en vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.11, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.18, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.24](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.25, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.40, tweede en zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.46, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.48, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.55, vijfde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.61, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.66, zesde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.67, vijfde en zevende lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.78, vierde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.89, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.115](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.151, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [2.155, eerste lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.9, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.49, eerste en tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.50, aanhef en onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.51, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.53, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.57, eerste lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.72, eerste lid, onderdelen f, j en q](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.115, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.117, tweede lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.118, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.119, eerste lid, onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.133](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.135, tweede lid, onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.137, eerste lid, onderdeel c](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.10, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.23, eerste lid, onderdeel b, en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.24, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.25, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.36, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.39, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.49, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.50](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.50a, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.51, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.53, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.56, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.57, tweede en derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.58, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.60, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.61, derde lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.62, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.65, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [4.66, zevende lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [5.7 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [artikel 4.3 van de Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) in samenhang met [artikel 8.11, tweede lid, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en de [artikelen 2.2, onderdeel c](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.6, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.7, tweede lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), [2.8, vierde lid](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), en [2.39, vijfde lid, van het Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md).   
 2.  Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. *besluit:*[Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);  
+a.  *besluit:* [Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);  
 
-b. *binnenbrengen:* binnen het grondgebied brengen van één van de BES eilanden;  
+b.  *binnenbrengen:* binnen het grondgebied brengen van één van de BES eilanden;  
 
-c. *buitenland:* al hetgeen buiten het grondgebied van één van de BES eilanden is gelegen;  
+c.  *buitenland:* al hetgeen buiten het grondgebied van één van de BES eilanden is gelegen;  
 
-d. *formulier enig document:* formulier voor het doen van een schriftelijke aangifte;  
+d.  *formulier enig document:* formulier voor het doen van een schriftelijke aangifte;  
 
-e. *goederenmanifest:* uittreksel van een vrachtlijst of van een vrachtbrief;  
+e.  *goederenmanifest:* uittreksel van een vrachtlijst of van een vrachtbrief;  
 
-f. *Post:* houder van de concessie, bedoeld in [artikel 1, onderdeel c, van de Wet post BES](../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md);  
+f.  *Post:* houder van de concessie, bedoeld in [artikel 1, onderdeel c, van de Wet post BES](../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md);  
 
-g. *wet:*[Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).     
+g.  *wet:* [Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).    
 
 ### Afdeling  1.2  
 
@@ -44,19 +44,19 @@ Inspecteur en ontvanger als bedoeld in [artikel 1.1, aanhef en onderdeel h, van
 
 a. de algemeen directeur Douane, de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);  
 
-b. de directeur-generaal Belastingdienst, voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.    
+b. de directeur-generaal Belastingdienst, voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.   
 
 ### Artikel  1.3  
 
-De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar).  
+De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), de landelijk directeuren en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar). 
 
 ### Artikel  1.4  
 
-De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gelden jegens de inspecteur, gelden ook jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
+De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gelden jegens de inspecteur, gelden ook jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst. 
 
-### Artikel  1.4a  
+###Artikel 1.4a 
 
-[Artikel 27 van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is van overeenkomstige toepassing op de aanwijzingen in deze afdeling.  
+[Artikel 27 van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) is van overeenkomstige toepassing op de aanwijzingen in deze afdeling.
 
 ### Afdeling  1.3  
 
@@ -64,7 +64,7 @@ De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet]
 
 ### Artikel  1.5  
 
-De instellingen van apparatuur waarmee door kleding van personen wordt gekeken, zijn zodanig dat de persoon, die aan lijfsvisitatie wordt onderworpen, niet herkenbaar is op de beelden die door de apparatuur worden gegenereerd.  
+De instellingen van apparatuur waarmee door kleding van personen wordt gekeken, zijn zodanig dat de persoon, die aan lijfsvisitatie wordt onderworpen, niet herkenbaar is op de beelden die door de apparatuur worden gegenereerd. 
 
 ### Hoofdstuk  2  
 
@@ -85,12 +85,12 @@ b. het bedrag dat door derden aan de inspecteur in rekening is gebracht.
 
 a. de reistijd van de ambtenaar naar de plaats waar de ambtelijke verrichting wordt verricht; en  
 
-b. de tijd die de ambtenaar nodig heeft om terug te keren naar de plaats vanwaar hij is vertrokken.     
+b. de tijd die de ambtenaar nodig heeft om terug te keren naar de plaats vanwaar hij is vertrokken.    
 
 ### Artikel  2.2  
 
 1.  Ter zake van de opslag van goederen in een ruimte voor de tijdelijke opslag of een douane-entrepot in beheer bij de overheid, is aan opslagkosten verschuldigd USD 20 per kubieke meter per dag. Een gedeelte van een kubieke meter wordt gerekend voor een volle kubieke meter. Een periode, korter dan een dag, wordt gerekend voor een volle dag.   
-2.  Het eerste lid is eveneens van toepassing op goederen ten aanzien waarvan de bij wettelijke regelingen voorgeschreven verplichtingen niet zijn nagekomen en om die reden naar een in het eerste lid bedoelde ruimte zijn overgebracht.   
+2.  Het eerste lid is eveneens van toepassing op goederen ten aanzien waarvan de bij wettelijke regelingen voorgeschreven verplichtingen niet zijn nagekomen en om die reden naar een in het eerste lid bedoelde ruimte zijn overgebracht.  
 
 ### Afdeling  2.2  
 
@@ -108,12 +108,12 @@ c. de lijst van alle ingeladen goederen met vermelding van de soort volgens de a
 
 d. het aantal, de soort en de merken van de colli of losse voorwerpen of de opmerking dat de goederen los gestort zijn; en  
 
-e. de hoeveelheid van de gestorte goederen.    
+e. de hoeveelheid van de gestorte goederen.   
 
 ### Artikel  2.4  
 
 1.  Het model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde is opgenomen in de bij deze regeling behorende bijlage 1.   
-2.  Het model van het formulier voor de aanvullende lijst D.V. 1 – BIS is opgenomen in de bij deze regeling behorende bijlage 2.   
+2.  Het model van het formulier voor de aanvullende lijst D.V. 1 – BIS is opgenomen in de bij deze regeling behorende bijlage 2.  
 
 ### Artikel  2.5  
 
@@ -130,7 +130,7 @@ d. exemplaar 0 is bedoeld als extra exemplaar.
 3.  Een elektronische aangifte bevat de in bijlage 3 bij deze regeling opgenomen gegevens in gecodeerde of in een andere door de inspecteur vastgestelde vorm, met het oog op de verwerking ervan per computer.   
 4.  Het formulier enig document wordt schriftelijk ingediend. De invulling van het formulier geschiedt door middel van doordruk, zodat alleen het eerste exemplaar van zowel de basisset als de bislijst wordt ingevuld.   
 5.  Ook de achterzijden van de exemplaren van de basisset zijn bedrukt. De aftekening van deze exemplaren geldt voor de gehele aangifte inclusief de bislijsten. De achterzijden van de bislijsten zijn niet bedrukt.   
-6.  Het formulier enig document is niet vereist indien op grond van internationale overeenkomsten bescheiden worden gebruikt die in overeenstemming zijn met de in die overeenkomsten gegeven voorschriften.   
+6.  Het formulier enig document is niet vereist indien op grond van internationale overeenkomsten bescheiden worden gebruikt die in overeenstemming zijn met de in die overeenkomsten gegeven voorschriften.  
 
 ### Afdeling  2.3  
 
@@ -144,7 +144,7 @@ a. onherroepelijke strafrechtelijke veroordeling van de aanvrager in de afgelope
 
 b. de vakbekwaamheid van de aanvrager, die rechtstreeks samenhangt met de te verrichten activiteiten als douane-expediteur; en  
 
-c. de wijze waarop de aanvrager zekerheid zal stellen voor de gevallen waarin dit wordt verlangd.    
+c. de wijze waarop de aanvrager zekerheid zal stellen voor de gevallen waarin dit wordt verlangd.   
 
 ### Afdeling  2.4  
 
@@ -174,7 +174,7 @@ b. de prijs af fabriek van de goederen; en
 c. de eventuele beschikbaarstelling van monsters, afbeeldingen of andere documentatie, die de inspecteur bij het vaststellen van de juiste oorsprong van nut kunnen zijn.     
 5.  Een bindende inlichting wordt zo spoedig mogelijk verstrekt, maar niet later dan vier maanden vanaf het moment waarop de inspecteur het schriftelijk verzoek heeft ontvangen.   
 6.  Indien de inspecteur de termijn, bedoeld in het vijfde lid, niet kan naleven, wordt de verzoeker daarvan in kennis gesteld voordat die termijn is verstreken, met opgave van de redenen en van de nieuwe termijn die de inspecteur nodig acht om een beschikking te treffen.   
-7.  Bindende inlichtingen kunnen worden geweigerd indien de verzoeker niet de door de inspecteur gewenste inlichtingen of gegevens verstrekt.   
+7.  Bindende inlichtingen kunnen worden geweigerd indien de verzoeker niet de door de inspecteur gewenste inlichtingen of gegevens verstrekt.  
 
 ### Afdeling  2.5  
 
@@ -196,7 +196,7 @@ c. op Saba: in The Bottom en op het Juancho Irausquin vliegveld.
 6.  Indien de aankomst van het schip of luchtvaartuig heeft plaatsgevonden binnen zes uren vóór de sluitingstijd van het bevoegde douanekantoor kan de inklaring geschieden op de eerstvolgende werkdag vóór 10.00 uur. Bij aankomst na de sluitingstijd van het douanekantoor wordt de verklaring op de eerstvolgende werkdag vóór 10.00 uur ingediend. Indien de inklaring wordt verlangd buiten kantoortijd of op de feestdagen, bedoeld in [artikel 23 van de Arbeidswet 2000 BES](../../../../../../../wet-BES/arbeidswet/2000/bes/BWBR0028202/README.md), wordt aan dat verlangen voldaan.   
 7.  Indien de omstandigheden daartoe aanleiding geven, kan de inspecteur vorderen dat de inklaring onmiddellijk na aankomst van een schip of van een luchtvaartuig in de haven of op de luchthaven geschiedt. Indien daaraan niet wordt voldaan, wordt het schip of het luchtvaartuig door de ambtenaren bewaakt.   
 8.  Op de verklaring tot inklaring wordt, indien deze in artikel 2.3 opgenomen gegevens bevat, door de inspecteur een akte tot inklaring afgegeven. De akte van inklaring wordt ondertekend door de gezagvoerder en door de ambtenaar die belast is met de inklaring.   
-9.  Voor schepen die van ballast zijn voorzien, vervangt de vermelding van die omstandigheid de opgave van de goederen.   
+9.  Voor schepen die van ballast zijn voorzien, vervangt de vermelding van die omstandigheid de opgave van de goederen.  
 
 ### Artikel  2.9  
 
@@ -205,7 +205,7 @@ c. op Saba: in The Bottom en op het Juancho Irausquin vliegveld.
 3.  Voor provisie, scheepsbehoeften, smeermiddelen en brandstoffen, die aan boord van schepen of luchtvaartuigen blijven gedurende het verblijf van deze vervoermiddelen op één van de BES eilanden, kan bij de inklaring worden volstaan met de inlevering van een provisielijst. Hierop worden de hoeveelheden provisie, scheepsbehoeften, brandstoffen en smeermiddelen vermeld die bij normaal gebruik gedurende de periode van verblijf op de BES eilanden benodigd zijn.   
 4.  Het meerdere aan provisie, scheepsbehoeften, smeermiddelen en brandstoffen dat aan boord blijft, wordt opgenomen en verzegeld door de ambtenaren.   
 5.  De ambtenaren kunnen eisen dat de provisie en scheepsbenodigdheden worden gelost.   
-6.  Indien door onvoorziene omstandigheden het schip of luchtvaartuig langer op één van de BES eilanden blijft, kunnen, na toestemming van de inspecteur, grotere hoeveelheden provisie, scheepsbehoeften, smeermiddelen en brandstoffen worden gebruikt.   
+6.  Indien door onvoorziene omstandigheden het schip of luchtvaartuig langer op één van de BES eilanden blijft, kunnen, na toestemming van de inspecteur, grotere hoeveelheden provisie, scheepsbehoeften, smeermiddelen en brandstoffen worden gebruikt.  
 
 ### Artikel  2.10  
 
@@ -225,14 +225,14 @@ d. het bruto gewicht of de kubieke maat; de kubieke maat uitsluitend voor goeder
 6.  Voor colli die verschillende soorten van goederen inhouden, behoeft slechts de soort te worden vermeld die het grootste gedeelte van de inhoud uitmaakt, mits daarbij wordt vermeld: ‘en andere goederen’. Accijnsgoederen worden steeds met name vermeld.   
 7.  Indien in een vrachtlijst goederen onjuist zijn omschreven, kan de inspecteur toestaan, dat tot aanzuivering van de betreffende akte van inklaring of vrachtlijst, documenten worden afgegeven of aanvaard, waarin de juiste omschrijving van de goederen voorkomt.   
 8.  De inspecteur kan toestaan, dat bij de bevinding van een verschil in meer of in minder tussen de aanwezige goederen en de in de akte tot inklaring of in de vrachtlijsten vermelde goederen, dit verschil door middel van een aantekening wordt hersteld, mits het verschil het gevolg is van een schrijffout. Bij een verschil in minder kan de inspecteur verlangen dat wordt aangetoond dat de goederen niet zijn aangebracht.   
-9.  De toestemming, bedoeld in het achtste lid, wordt niet verleend indien de lossing van de goederen al is aangevangen, tenzij tijdens of direct na de lossing mededeling is gedaan van het verschil in meer of in minder aan de ambtenaren belast met het toezicht op de lossing.   
+9.  De toestemming, bedoeld in het achtste lid, wordt niet verleend indien de lossing van de goederen al is aangevangen, tenzij tijdens of direct na de lossing mededeling is gedaan van het verschil in meer of in minder aan de ambtenaren belast met het toezicht op de lossing.  
 
 ### Artikel  2.11  
 
 1.  Indien de goederen, waarvan de soort in de vrachtlijsten is vermeld, in de handel gewoonlijk per stuk of bij de maat verkocht worden, kan in het eerste geval het aantal stuks en in het tweede geval de hoeveelheid volgens de gebruikelijke maat worden opgegeven.   
 2.  Het gewicht of de kubieke maat hoeft niet te worden opgegeven van colli, die volgens benaming, herkomst en handelsgebruik ongeveer dezelfde inhoud hebben.   
 3.  De hoeveelheid van de goederen kan in vreemd gewicht of vreemde maat worden uitgedrukt.   
-4.  Indien de gezagvoerder niet in staat is om de hoeveelheid van de goederen op te geven, vermeldt hij dit in de vrachtlijsten. Artikel 2.10, tweede lid, is van toepassing.   
+4.  Indien de gezagvoerder niet in staat is om de hoeveelheid van de goederen op te geven, vermeldt hij dit in de vrachtlijsten. Artikel 2.10, tweede lid, is van toepassing.  
 
 ### Artikel  2.12  
 
@@ -241,7 +241,7 @@ d. het bruto gewicht of de kubieke maat; de kubieke maat uitsluitend voor goeder
 3.  Indien de lading wegens averij, verandering van bestemming of een andere soortgelijke reden geheel of gedeeltelijk dient te worden gelost, kan de inspecteur daartoe toestemming verlenen, op voorwaarde dat voor de goederen, die niet met hetzelfde schip of luchtvaartuig wordt uitgevoerd, alsnog een nadere akte van inklaring wordt ingeleverd met bijvoeging van vrachtlijsten.   
 4.  Het inleveren van vrachtlijsten voor de gehele lading is verplicht indien schepen of luchtvaartuigen om andere dan de in het derde lid bedoelde redenen een gedeelte van de lading lossen of langer dan acht dagen verblijven. In andere gevallen zijn de normale regels met betrekking tot invoer van toepassing.   
 5.  De inspecteur kan bij uitzondering toestaan dat voor enkele colli de akte van inklaring wordt aangezuiverd door lossing overeenkomstig de bepalingen van de [wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
-6.  Het eerste tot en met vijfde lid is van overeenkomstige toepassing op schepen en luchtvaartuigen, die binnenvallen uit nood of om orders te ontvangen.   
+6.  Het eerste tot en met vijfde lid is van overeenkomstige toepassing op schepen en luchtvaartuigen, die binnenvallen uit nood of om orders te ontvangen.  
 
 ### Artikel  2.13  
 
@@ -263,7 +263,7 @@ c. de naam van het schip of luchtvaartuig; en
 d. de omschrijving van de goederen als in de vrachtlijsten.     
 5.  In de doorvoerlijsten worden de soort en hoeveelheid van de goederen opgegeven overeenkomstig de artikelen 2.10 en 2.11.   
 6.  Doorvoerlijsten worden aangezuiverd door de uitvoer van de goederen binnen de door de inspecteur bepaalde termijn.   
-7.  In bijzondere gevallen kan de inspecteur toestaan dat doorvoerlijsten worden aangezuiverd door de lossing van de goederen met documenten verkregen na aangifte.   
+7.  In bijzondere gevallen kan de inspecteur toestaan dat doorvoerlijsten worden aangezuiverd door de lossing van de goederen met documenten verkregen na aangifte.  
 
 ### Artikel  2.14  
 
@@ -293,7 +293,7 @@ c. voor het verkrijgen van vrijstelling van belastingen, die ter zake van de inv
 d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd.     
 3.  Van de aankomst in een haven of op een luchthaven van pleziervaartuigen of sportvliegtuigen die niet op het BES eiland van binnenkomst geregistreerd zijn, wordt onverwijld kennis gegeven aan de inspecteur. Artikel 2.8, derde lid, is van overeenkomstige toepassing.   
 4.  In de gevallen waarin de inspecteur ontheffing heeft verleend van het [eerste, tweede of derde lid, van artikel 2.10 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) treft de gezagvoerder, die de goederen heeft binnengebracht, de maatregelen die nodig zijn om te voorkomen dat die goederen op onregelmatige wijze worden ingevoerd.   
-5.  De in artikel 2.8, tweede lid, bedoelde kennisgeving is niet van toepassing op de in het eerste lid bedoelde schepen en luchtvaartuigen.   
+5.  De in artikel 2.8, tweede lid, bedoelde kennisgeving is niet van toepassing op de in het eerste lid bedoelde schepen en luchtvaartuigen.  
 
 ### Artikel  2.15  
 
@@ -302,7 +302,7 @@ d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd
 3.  Na de kennisgeving, bedoeld in het eerste lid, zijn de goederen onderworpen aan douanetoezicht als bedoeld in de [artikelen 2.13 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md). Aan de goederen kan, binnen een door de inspecteur vastgestelde termijn, een douanebestemming worden gegeven of de goederen kunnen op verzoek van de belanghebbende aan het Rijk worden afgestaan of onder toezicht van de inspecteur worden vernietigd.   
 4.  Indien niet of niet tijdig een toegelaten douanebestemming aan de goederen wordt gegeven, worden de goederen ten invoer geacht te zijn aangegeven. Indien zich onder de goederen zodanige bevinden, waarvan de invoer is verboden of ten aanzien waarvan beperkingen zijn vastgesteld, wordt daarmee gehandeld overeenkomstig [artikel 2.26 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) of worden de goederen overgebracht naar een ruimte in beheer bij de overheid, verzegeld of bewaakt, een en ander op kosten van de belanghebbende.   
 5.  Indien aannemelijk wordt gemaakt dat de goederen, bedoeld in het eerste lid, tevoren zijn uitgevoerd uit één van de BES eilanden en zich daar op rechtmatige wijze in het vrije verkeer bevonden, zijn daarvoor bij toepassing van het derde of vierde lid, geen belastingen ter zake van de invoer verschuldigd.   
-6.  Indien de douanebestemming invoer wordt gegeven aan goederen, die aan de heffing van belastingen ter zake van de invoer zijn onderworpen, kan van die heffing slechts worden afgezien na voorafgaande uitvoer en ter zake van die uitvoer geen teruggaaf van belasting is verleend.   
+6.  Indien de douanebestemming invoer wordt gegeven aan goederen, die aan de heffing van belastingen ter zake van de invoer zijn onderworpen, kan van die heffing slechts worden afgezien na voorafgaande uitvoer en ter zake van die uitvoer geen teruggaaf van belasting is verleend.  
 
 ### Artikel  2.16  
 
@@ -310,14 +310,14 @@ d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd
 2.  Indien de goederen niet volledig zijn verloren gegaan, wordt de inspecteur in kennis gesteld van de plaats waar de goederen zich bevinden.   
 3.  De inspecteur neemt de nodige maatregelen om het douanetoezicht op het in het eerste lid bedoeld schip of luchtvaartuig en de daarmee vervoerde goederen mogelijk te maken en om ervoor te zorgen dat deze vervoermiddelen en goederen naar een douanekantoor of naar een andere door hem aangewezen plaats worden overgebracht.   
 4.  Indien goederen als bedoeld in het eerste lid ten invoer worden aangegeven na voorafgaande uitvoer en de goederen zich rechtmatig in het vrije verkeer bevonden, kan van de heffing van belastingen ter zake van de invoer worden afgezien.   
-5.  Indien de ten invoer aangegeven goederen aan de heffing van belastingen ter zake van de invoer zijn onderworpen, kan van die heffing worden afgezien, voor zover sprake is van invoer na voorafgaande uitvoer en ter zake van die uitvoer geen teruggaaf van belasting is verleend.   
+5.  Indien de ten invoer aangegeven goederen aan de heffing van belastingen ter zake van de invoer zijn onderworpen, kan van die heffing worden afgezien, voor zover sprake is van invoer na voorafgaande uitvoer en ter zake van die uitvoer geen teruggaaf van belasting is verleend.  
 
 ### Artikel  2.17  
 
 1.  De persoonlijke bagage die reizigers met zich voeren wordt bij aankomst in de haven of op de luchthaven ter visitatie aan de douane aangeboden.   
 2.  Bagage van reizigers, welke bagage niet door hen worden begeleid, wordt ingeklaard door inlevering van een verklaring tot inklaring onder vermelding van reizigersbagage en van het aantal colli op de daarin vervatte vrachtlijst of goederenmanifest.   
 3.  Mondelinge aangiften, die worden gedaan door reizigers, worden door de ambtenaren in een register geschreven waarvan elke bladzijde bestaat uit een vaste en een losse strook. De losse strook, die na betaling van de verschuldigde belastingen uitgescheurd wordt, dient als kwitantie waarop de visitatie plaatsvindt.   
-4.  Indien dat is overeengekomen tussen de inspecteur en de ontvanger, geschiedt de inning van de verschuldigde belastingen hetzij door de ontvanger hetzij door de visterende ambtenaren zelf. De ambtenaar, die de verschuldigde belastingen int, is verantwoordelijk voor de berekening, ontvangst en afdracht daarvan.   
+4.  Indien dat is overeengekomen tussen de inspecteur en de ontvanger, geschiedt de inning van de verschuldigde belastingen hetzij door de ontvanger hetzij door de visterende ambtenaren zelf. De ambtenaar, die de verschuldigde belastingen int, is verantwoordelijk voor de berekening, ontvangst en afdracht daarvan.  
 
 ### Artikel  2.18  
 
@@ -326,13 +326,13 @@ d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd
 3.  In afwijking van het eerste lid wordt in de gevallen dat de goederen een hogere waarde hebben dan die, bedoeld in [artikel 3.41, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), voor deze goederen een aangifte ten invoer gedaan.   
 4.  Bij gebruik van de douaneverklaring ten behoeve van de inklaring is het betreffende formulier door de buitenlandse postinstanties ingevuld. De douaneverklaring wordt, na een eventuele controle van de goederen, door de Post ingeleverd bij de ambtenaren die de nacontrole uitvoeren.   
 5.  Indien de omschrijving van de ten invoer aangegeven goederen geen of onvoldoende gegevens bevat om de aard van de goederen te kunnen vaststellen, zijn de functionarissen van de Post bevoegd het betreffende postpakket zonder bijzondere machtiging, maar in tegenwoordigheid van een ambtenaar, te openen.   
-6.  Een brief waarin zich goederen bevinden, mag door de functionarissen van de Post worden geopend, indien door of vanwege de afzender op de brief een etiket is aangebracht waaruit blijkt dat ambtelijke controle is toegelaten of met goedvinden van de geadresseerde. Zonder goedvinden van de afzender of de geadresseerde wordt gehandeld overeenkomstig [artikel 2.65, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+6.  Een brief waarin zich goederen bevinden, mag door de functionarissen van de Post worden geopend, indien door of vanwege de afzender op de brief een etiket is aangebracht waaruit blijkt dat ambtelijke controle is toegelaten of met goedvinden van de geadresseerde. Zonder goedvinden van de afzender of de geadresseerde wordt gehandeld overeenkomstig [artikel 2.65, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).  
 
 ### Artikel  2.19  
 
 1.  De ambtenaar stelt het bedrag van de douaneschuld ter zake van de invoer van goederen, die per brief of als postpakket zijn verzonden, vast en vermeldt dit op de douaneverklaring.   
 2.  De ambtenaar plaatst vervolgens een handtekening en dienststempel waarna de goederen via de Post, nadat de douaneschuld is voldaan, kunnen worden vrijgegeven.   
-3.  De douaneschuld wordt voldaan bij de Post of, indien de inspecteur dat met de Post is overeengekomen, rechtstreeks bij de ambtenaren.   
+3.  De douaneschuld wordt voldaan bij de Post of, indien de inspecteur dat met de Post is overeengekomen, rechtstreeks bij de ambtenaren.  
 
 ### Afdeling  2.6  
 
@@ -347,7 +347,7 @@ d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd
 5.  Toestemming tot lossing of overladingwordt ten aanzien van ingeklaarde goederen verleend voor een periode van ten hoogste twee maal vierentwintig uur.   
 6.  De toestemming van de inspecteur tot lossing is niet vereist in het geval van een dreigend gevaar, dat ertoe noopt de goederen onmiddellijk geheel of gedeeltelijk te lossen. In dat geval wordt de inspecteur door de gezagvoerder, die de goederen heeft binnengebracht, daarvan onverwijld in kennis gesteld.   
 7.  Indien de lossing van ingeklaarde goederen niet binnen de in het vijfde lid bedoelde termijn is voltooid, kan de inspecteur op verzoek toestaan dat de lossing van de goederen wordt voortgezet buiten de openingstijden van de douanekantoren. In dat geval wordt bewaking door de ambtenaren toegepast.   
-8.  De inspecteur kan te allen tijde eisen dat binnengebrachte goederen onverwijld worden gelost en uitgepakt.   
+8.  De inspecteur kan te allen tijde eisen dat binnengebrachte goederen onverwijld worden gelost en uitgepakt.  
 
 ### Artikel  2.21  
 
@@ -355,7 +355,7 @@ d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd
 2.  Degene die een ruimte als bedoeld in het eerste lid wenst te beheren, dient daartoe een schriftelijk verzoek in bij de inspecteur. Het verzoek bevat een beschrijving van de ligging, van de afscheiding van andere percelen en, waar nodig, van de bouw en de inrichting van de ruimte.   
 3.  Het verzoek, bedoeld in het tweede lid, bevat gegevens waaruit blijkt dat er een economische behoefte bestaat aan het gebruik van de ruimte voor de tijdelijke opslag van goederen onder douaneverband.   
 4.  In de vergunning, bedoeld in het eerste lid, wordt onder meer bepaald voor welke soort goederen de vergunning wordt verleend en de wijze en hoogte van de zekerheidstelling. De inspecteur kan de opslag van goederen aan beperkingen onderwerpen of de opslag daarvan verbieden.   
-5.  De overname van de aansprakelijkheid voor een eventuele douaneschuld geschiedt bij ondertekende en gedagtekende verklaring van de beheerder van een ruimte voor tijdelijke opslag, op de akte tot inklaring of op een andere door de inspecteur te bepalen wijze.   
+5.  De overname van de aansprakelijkheid voor een eventuele douaneschuld geschiedt bij ondertekende en gedagtekende verklaring van de beheerder van een ruimte voor tijdelijke opslag, op de akte tot inklaring of op een andere door de inspecteur te bepalen wijze.  
 
 ### Artikel  2.22  
 
@@ -368,13 +368,13 @@ b. ruimten of terreinen, die door de inspecteur zijn goedgekeurd en die wederzij
 c. ruimten en terreinen als bedoeld in onderdeel b, die niet voor afsluiting vatbaar zijn, maar die, na te zijn goedgekeurd door de inspecteur, onder bewaking van de ambtenaren worden gesteld;  
 
 d. lichters, die kunnen worden gesloten en verzegeld, en open lichters, die onder bewaking van de ambtenaren worden gesteld.     
-2.  Indien de omstandigheden niet toelaten dat gebruik wordt gemaakt van een van de ruimten, bedoeld in het eerste lid, kan de inspecteur op verzoek toestaan dat de goederen onder bewaking van de ambtenaren op de wal worden opgeslagen. Toestemming tot walopslag wordt slechts verleend voor een door de inspecteur vastgestelde termijn.   
+2.  Indien de omstandigheden niet toelaten dat gebruik wordt gemaakt van een van de ruimten, bedoeld in het eerste lid, kan de inspecteur op verzoek toestaan dat de goederen onder bewaking van de ambtenaren op de wal worden opgeslagen. Toestemming tot walopslag wordt slechts verleend voor een door de inspecteur vastgestelde termijn.  
 
 ### Artikel  2.23  
 
 1.  Goederen in tijdelijke opslag mogen, na daartoe verkregen toestemming en onder toezicht van de inspecteur, slechts behandelingen ondergaan die noodzakelijk zijn om deze goederen in ongewijzigde staat te behouden, zonder dat de presentatie of de technische kenmerken ervan worden gewijzigd. De inspecteur stelt de behandelingen vast die zijn toegestaan.   
 2.  Tot de onder het eerste lid bedoelde behandelingen worden ook begrepen de bewerkingen die nodig zijn ten behoeve van de uitslag van de goederen uit de ruimte voor tijdelijke opslag of voor het verdere vervoer van de goederen.   
-3.  In afwijking van het eerste lid kan de inspecteur wegens bijzondere omstandigheden ook andere behandelingen toestaan, indien dit wegens beschadiging van de goederen of een andere reden nodig is.   
+3.  In afwijking van het eerste lid kan de inspecteur wegens bijzondere omstandigheden ook andere behandelingen toestaan, indien dit wegens beschadiging van de goederen of een andere reden nodig is.  
 
 ### Artikel  2.24  
 
@@ -386,7 +386,7 @@ a. op verzoek van de vergunninghouder;
 b. indien de ruimte niet of niet meer in die mate gebruikt wordt dat handhaving van de vergunning gerechtvaardigd is; of  
 
 c. indien niet aan de vergunningsvoorwaarden is voldaan.     
-3.  De inspecteur kan de in het tweede lid bedoelde vergunning opschorten indien niet aan de vergunningsvoorwaarden is voldaan.   
+3.  De inspecteur kan de in het tweede lid bedoelde vergunning opschorten indien niet aan de vergunningsvoorwaarden is voldaan.  
 
 ### Artikel  2.25  
 
@@ -394,7 +394,7 @@ c. indien niet aan de vergunningsvoorwaarden is voldaan.
 2.  Goederen in tijdelijke opslag kunnen worden overgebracht naar een andere ruimte voor tijdelijke opslag, nadat daartoe aangifte is gedaan door middel van een lichtermanifest. Het lichtermanifest bestaat uit een formulier enig document met daarop bij de goederenomschrijving de vermelding ‘zie aangehecht en gewaarmerkt lichtermanifest’.   
 3.  De beheerder van de ruimte voor tijdelijke opslag waarin de goederen wordenopgeslagen, neemt de aansprakelijkheid voor de betaling van een eventuele douaneschuld over door middel van een ondertekende en gedagtekende verklaring op het lichtermanifest.   
 4.  De overbrenging naar en opslag in een andere ruimte voor tijdelijke opslag laat onverlet dat aan de goederen een douanebestemming wordt gegeven en heeft geen opschortende werking ten aanzien van de termijn, bedoeld in [artikel 2.12, derde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
-5.  Indien binnen de termijn, bedoeld in [artikel 2.12, derde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), aan de goederen geen toegelaten douanebestemming is gegeven, worden de goederen geacht te zijn ingevoerd waardoor een douaneschuld is ontstaan. De douaneschuld wordt verhaald op de door de beheerder gestelde zekerheid.   
+5.  Indien binnen de termijn, bedoeld in [artikel 2.12, derde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), aan de goederen geen toegelaten douanebestemming is gegeven, worden de goederen geacht te zijn ingevoerd waardoor een douaneschuld is ontstaan. De douaneschuld wordt verhaald op de door de beheerder gestelde zekerheid.  
 
 ### Artikel  2.26  
 
@@ -406,11 +406,11 @@ b. door het uitvoeren van de goederen met doorvoerlijsten; of
 
 c. door de inbewaringneming van de goederen, bedoeld in [artikel 2.67 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).     
 2.  Wegvoeren van de goederen geschiedt slechts met toestemming van de inspecteur.   
-3.  De ambtenaren stellen op de vrachtlijsten aantekeningen van de documenten waarmee het wegvoeren plaats heeft.   
+3.  De ambtenaren stellen op de vrachtlijsten aantekeningen van de documenten waarmee het wegvoeren plaats heeft.  
 
 ### Artikel  2.27  
 
-De tijdelijke opslag van postpakketten vindt plaats op een sorteerplaats of in een bergplaats van de Post.  
+De tijdelijke opslag van postpakketten vindt plaats op een sorteerplaats of in een bergplaats van de Post. 
 
 ### Afdeling  2.7  
 
@@ -421,16 +421,16 @@ De tijdelijke opslag van postpakketten vindt plaats op een sorteerplaats of in e
 1.  Het formulier enig document wordt ingevuld overeenkomstig de door de inspecteur gegeven aanwijzingen, die ter inzage liggen bij de douanekantoren en beschikbaar zijn op de internet website van de douane www.douane-cn.nl.   
 2.  Op het ingevulde formulier enig document mogen geen raderingen of overschrijvingen voorkomen.   
 3.  Het aanbrengen van wijzigingen op het formulier enig document geschiedt door de onjuiste gegevens door te halen en de gewenste gegevens toe te voegen. Elke aangebrachte wijziging wordt geparafeerd door de aangever en geviseerd door de inspecteur.   
-4.  De inspecteur kan, in voorkomend geval, eisen dat een nieuwe aangifte wordt ingediend.   
+4.  De inspecteur kan, in voorkomend geval, eisen dat een nieuwe aangifte wordt ingediend.  
 
 ### Artikel  2.29  
 
 1.  Op een overeenkomstig artikel 2.28, eerste lid, ingevuld formulier enig document plaatst de inspecteur zijn handtekening, een dienststempel, de datum en het registratienummer, en geeft hij toestemming voor het volgen van de aangegeven douanebestemming binnen een bepaalde geldigheidsduur.   
-2.  In afwijking van het eerste lid kan de aangever, na verkregen toestemming van de inspecteur, gebruik maken van een formulier dat door hem zelf op geautomatiseerde wijze is vervaardigd. Een dergelijk formulier is gelijk aan het model van het formulier enig document.   
+2.  In afwijking van het eerste lid kan de aangever, na verkregen toestemming van de inspecteur, gebruik maken van een formulier dat door hem zelf op geautomatiseerde wijze is vervaardigd. Een dergelijk formulier is gelijk aan het model van het formulier enig document.  
 
 ### Artikel  2.30  
 
-Als document, afgegeven op een op elektronische wijze gedane aangifte, geldt de uit het ASYCUDA-systeem geprinte kopie van de aangifte met eventueel bijbehorende formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde en andere bescheiden.  
+Als document, afgegeven op een op elektronische wijze gedane aangifte, geldt de uit het ASYCUDA-systeem geprinte kopie van de aangifte met eventueel bijbehorende formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde en andere bescheiden. 
 
 ### Artikel  2.31  
 
@@ -441,13 +441,13 @@ Als document, afgegeven op een op elektronische wijze gedane aangifte, geldt de 
 
 a. het uitwisselen van genormaliseerde EDI-berichten met de inspecteur; of  
 
-b. het in de systemen voor automatische gegevensverwerking van de inspecteur invoeren van gegevens, die voor het vervullen van de betrokken formaliteiten nodig zijn.     
+b. het in de systemen voor automatische gegevensverwerking van de inspecteur invoeren van gegevens, die voor het vervullen van de betrokken formaliteiten nodig zijn.    
 
 ### Artikel  2.32  
 
 1.  Aan de verplichting om bij de aangifte bescheiden of bewijsstukken te overleggen, kan ook op elektronische wijze worden voldaan.   
 2.  De inspecteur kan nadere bepalingen vaststellen voor de wijze van toezending van de bescheiden of bewijsstukken of voor de wijze van archivering daarvan.   
-3.  De inspecteur kan toestaan dat voor de bescheiden of bewijsstukken toegang wordt verleend tot de relevante gegevens in het computersysteem van de aangever.   
+3.  De inspecteur kan toestaan dat voor de bescheiden of bewijsstukken toegang wordt verleend tot de relevante gegevens in het computersysteem van de aangever.  
 
 ### Artikel  2.33  
 
@@ -461,7 +461,7 @@ b. overige goederen tot een totale waarde van USD 1.000.
 
 a. zendingen met een te verwaarlozen waarde als bedoeld in [artikel 3.41 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md);  
 
-b. zendingen die door particulieren aan particulieren zijn gericht als bedoeld in [artikel 3.43 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), tot een totale waarde van USD 1.500.     
+b. zendingen die door particulieren aan particulieren zijn gericht als bedoeld in [artikel 3.43 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), tot een totale waarde van USD 1.500.    
 
 ### Artikel  2.34  
 
@@ -475,7 +475,7 @@ c. de douanewaarde, de hoeveelheid van de goederen of naar gelang het geval een 
 
 d. de belastingsoort en de hoogte van het belastingbedrag; en  
 
-e. de datum van invoer van de desbetreffende goederen.    
+e. de datum van invoer van de desbetreffende goederen.   
 
 ### Afdeling  2.8  
 
@@ -497,20 +497,20 @@ c. de grootte van de partij.
 6.  Het monster wordt bewaard onder zodanige condities dat zo min mogelijk veranderingen op kunnen treden.   
 7.  Elk monster, dat niet direct zal worden onderzocht, wordt voorzien van een identificatiemiddel dat op zodanige wijze wordt aangebracht dat de verpakking niet kan worden geopend zonder verwijdering of schending daarvan.   
 8.  Op verzoek van de aangever wordt een extra monster genomen; dat monster wordt ter plaatse verpakt en verzegeld en blijft in het bezit van de aangever. De aangever is verantwoordelijk voor het veilig en op de juiste wijze bewaren van dat monster.   
-9.  Deze afdeling is van overeenkomstige toepassing op de monsterneming, bedoeld in [artikel 2.151, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+9.  Deze afdeling is van overeenkomstige toepassing op de monsterneming, bedoeld in [artikel 2.151, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).  
 
 ### Artikel  2.36  
 
 1.  De inspecteur verstrekt de aangever een bewijs dat monsters zijn genomen van de betreffende goederen.   
 2.  De inspecteur deelt de uitslag van het monsteronderzoek mede aan de aangever.   
 3.  De aangever kan binnen vierentwintig uur nadat hem de uitslag van het monsteronderzoek is meegedeeld om een heronderzoek van de goederen verzoeken. Hij kan verzoeken het heronderzoek te beperken tot een gedeelte van de aan het onderzoek onderworpen goederen.   
-4.  Degene die de monsterneming heeft verricht, neemt niet deel aan het heronderzoek.   
+4.  Degene die de monsterneming heeft verricht, neemt niet deel aan het heronderzoek.  
 
 ### Artikel  2.37  
 
 1.  Indien slechts een gedeelte van de goederen waarop een aangifte betrekking heeft, wordt, onderzocht, gelden de resultaten van het onderzoek voor alle goederen van deze aangifte.   
 2.  De aangever kan binnen vierentwintig uur nadat de uitslag van het deelonderzoek aan hem is meegedeeld om een heronderzoek van de goederen verzoeken indien hij van mening is dat de resultaten van het deelonderzoek niet voor de rest van de aangegeven goederen gelden.   
-3.  De artikelen 2.35 en 2.36 zijn van overeenkomstige toepassing op het deelonderzoek.   
+3.  De artikelen 2.35 en 2.36 zijn van overeenkomstige toepassing op het deelonderzoek.  
 
 ### Artikel  2.38  
 
@@ -519,7 +519,7 @@ c. de grootte van de partij.
 
 a. indien het bevonden verschil ontstaan is ten gevolge van dwaling, onwillekeurig verzuim of natuurlijke verliezen; en  
 
-b. indien het bevonden verschil niet van invloed is op de berekening van de douaneschuld.     
+b. indien het bevonden verschil niet van invloed is op de berekening van de douaneschuld.    
 
 ### Afdeling  2.9  
 
@@ -547,7 +547,7 @@ c. een nauwkeurige aanduiding van de goederen door middel van monsters, plattegr
 d. de route waarlangs en de tijdstippen waarop de goederen worden vervoerd voor te schrijven; of  
 
 e. de begeleiding van de goederen.     
-3.  De inspecteur kan de middelen, bedoeld in het tweede lid, onderdelen d en e, ook toepassen indien dit noodzakelijk is ter waarborging van de identiteit van goederen, die onder verzegeling worden doorgevoerd.   
+3.  De inspecteur kan de middelen, bedoeld in het tweede lid, onderdelen d en e, ook toepassen indien dit noodzakelijk is ter waarborging van de identiteit van goederen, die onder verzegeling worden doorgevoerd.  
 
 ### Afdeling  2.10  
 
@@ -565,12 +565,12 @@ c. in de hypotheekakte een huurbeding als bedoeld in [artikel 264, eerste lid, 
 
 d. in de hypotheekakte het beding is opgenomen dat geen veranderingen aan het aan hypotheek onderworpen onroerend goed mag worden aangebracht, tenzij de inspecteur hiervoor vooraf toestemming heeft gegeven; en  
 
-e. in de hypotheekakte de bedingen, bedoeld in [artikel 267 van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) zijn opgenomen.    
+e. in de hypotheekakte de bedingen, bedoeld in [artikel 267 van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) zijn opgenomen.   
 
 ### Artikel  2.41  
 
 1.  Aan reizigers, die in het kader van de tijdelijke invoer van persoonlijke goederen als bedoeld in [artikel 3.130 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) zekerheid hebben gesteld, wordt op hun verzoek en voor hun vertrek naar het buitenland teruggaaf verleend van het bedrag van de gestelde zekerheid, mits aan alle douaneformaliteiten voor de desbetreffende goederen is voldaan.   
-2.  Het eerste lid is ook van toepassing indien reizigers het BES eiland verlaten via een ander douanekantoor dan het douanekantoor waarlangs zij dat eiland zijn binnengekomen.   
+2.  Het eerste lid is ook van toepassing indien reizigers het BES eiland verlaten via een ander douanekantoor dan het douanekantoor waarlangs zij dat eiland zijn binnengekomen.  
 
 ### Afdeling  2.11  
 
@@ -578,7 +578,7 @@ e. in de hypotheekakte de bedingen, bedoeld in [artikel 267 van Boek 3 van het 
 
 ### Artikel  2.42  
 
-Een aangifte voor doorgaand vervoer van goederen, bedoeld in [artikel 2.15, eerste lid, onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), wordt gedaan indien de plaats waar de desbetreffende goederen zullen uitgaan een andere plaats is dan die waar de goederen zijn aangebracht.  
+Een aangifte voor doorgaand vervoer van goederen, bedoeld in [artikel 2.15, eerste lid, onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), wordt gedaan indien de plaats waar de desbetreffende goederen zullen uitgaan een andere plaats is dan die waar de goederen zijn aangebracht. 
 
 ### Artikel  2.43  
 
@@ -588,7 +588,7 @@ a. goederen in tijdelijke opslag;
 
 b. goederen in een douane-entrepot; of  
 
-c. goederen in een handels- en dienstenentrepot;   die bestemd zijn om te worden overgebracht naar het buitenland.  
+c. goederen in een handels- en dienstenentrepot;   die bestemd zijn om te worden overgebracht naar het buitenland. 
 
 ### Artikel  2.44  
 
@@ -600,19 +600,19 @@ c. goederen in een handels- en dienstenentrepot;   die bestemd zijn om te worden
 6.  Goederen waarvoor een aangifte ten doorvoer is ingediend, worden bij het bevoegde douanekantoor of op een andere door de inspecteur aangewezen plaats aangebracht ter controle en ter vaststelling van hun identiteit. De inspecteur treft de nodige maatregelen ter waarborging van de identiteit van de goederen. Op het document wordt aantekening gesteld van de getroffen identificatiemaatregelen en van het resultaat van de controle.   
 7.  De inspecteur stelt de termijn vast waarbinnen de goederen worden aangebracht bij het bevoegde douanekantoor. De vastgestelde termijn wordt op het document vermeld en wordt afgestemd op de vermoedelijke duur van het vervoer van de goederen. De ambtenaren tekenen een exemplaar van het document af dat wordt geretourneerd aan de aangever.   
 8.  In gerechtvaardigde gevallen, ter beoordeling van de inspecteur, kan de termijn, bedoeld in het zesde lid, op verzoek van de aangever worden verlengd.   
-9.  Schepen en luchtvaartuigen, die op het punt staan te vertrekken naar het buitenland, kunnen worden bevoorraad met provisie, scheepsbehoeften, brandstoffen en smeermiddelen als ware sprake van doorvoer in het geval dat de betreffende goederen worden betrokken uit een douane-entrepot of uit een handels- en dienstenentrepot.   
+9.  Schepen en luchtvaartuigen, die op het punt staan te vertrekken naar het buitenland, kunnen worden bevoorraad met provisie, scheepsbehoeften, brandstoffen en smeermiddelen als ware sprake van doorvoer in het geval dat de betreffende goederen worden betrokken uit een douane-entrepot of uit een handels- en dienstenentrepot.  
 
 ### Artikel  2.45  
 
 1.  De doorvoer van goederen wordt beëindigd op het moment waarop het exemplaar van het afgegeven document binnen de vastgestelde termijn op het bevoegde douanekantoor wordt ingediend en de goederen daar worden aangebracht en doorgevoerd.   
-2.  Indien de inspecteur vaststelt dat de eventueel aangebrachte verzegeling niet is geschonden of verwijderd, de overgebrachte goederen niet zijn gebruikt en de identiteit van de goederen overeenstemt met die van de goederen die bij het douanekantoor werden aangegeven, tekent hij het betreffende exemplaar van het doorvoerdocument af nadat de goederen het grondgebied van één van de BES eilanden hebben verlaten. Dit exemplaar wordt ingezonden aan het douanekantoor ten behoeve van de zuivering.   
+2.  Indien de inspecteur vaststelt dat de eventueel aangebrachte verzegeling niet is geschonden of verwijderd, de overgebrachte goederen niet zijn gebruikt en de identiteit van de goederen overeenstemt met die van de goederen die bij het douanekantoor werden aangegeven, tekent hij het betreffende exemplaar van het doorvoerdocument af nadat de goederen het grondgebied van één van de BES eilanden hebben verlaten. Dit exemplaar wordt ingezonden aan het douanekantoor ten behoeve van de zuivering.  
 
 ### Artikel  2.46  
 
 1.  Binnengebrachte goederen, die rechtstreeks zonder overlading uit het vervoermiddel waarmee zij zijn aangevoerd of na overlading in een uitgaand vervoermiddel, bestemd zijn om naar het buitenland te worden gebracht, kunnen worden doorgevoerd zonder dat daarvoor een nadere aangifte wordt gedaan, volgend op de akte tot inklaring.   
 2.  Indien in het binnengekomen vervoermiddel naast de goederen, die rechtstreeks zullen worden doorgevoerd zonder overlading, ook andere goederen geladen zijn, worden voor de onderscheidene goederen afzonderlijke akten tot inklaring ingediend. De ambtenaren vermelden op de akte tot inklaring van de goederen in rechtstreekse doorvoer zonder overlading de termijn waarbinnen de goederen uitgaan.   
 3.  De akte van inklaring wordt aangezuiverd door de akte van uitklaring, die ter zake van het uitgaan van de goederen wordt opgemaakt.   
-4.  De goederen worden niet gelost, tenzij dit noodzakelijk wordt geacht voor visitatie of overlading als bedoeld in het eerste lid.   
+4.  De goederen worden niet gelost, tenzij dit noodzakelijk wordt geacht voor visitatie of overlading als bedoeld in het eerste lid.  
 
 ### Artikel  2.47  
 
@@ -622,7 +622,7 @@ a. voor goederen, die bestemd zijn om te worden overgebracht uit een douane-entr
 
 b. voor goederen, die bestemd zijn om te worden overgebracht uit een handels- en dienstenentrepot naar een andere handels- en dienstenentrepot of naar een douane-entrepot op een BES eiland.     
 2.  Ter zake van de formaliteiten bij vertrek en tijdens het vervoer van over te brengen goederen zijn de artikelen 2.44 en 2.45 van overeenkomstige toepassing.   
-3.  Indien de inslag plaats vindt in een douane-entrepot of in een handels en dienstenentrepot, waarin van de goederen een goederenrekening wordt bijgehouden, wordt die goederenrekening gedebiteerd, waarvan aantekening wordt gesteld op het document.   
+3.  Indien de inslag plaats vindt in een douane-entrepot of in een handels en dienstenentrepot, waarin van de goederen een goederenrekening wordt bijgehouden, wordt die goederenrekening gedebiteerd, waarvan aantekening wordt gesteld op het document.  
 
 ### Afdeling  2.12  
 
@@ -642,7 +642,7 @@ c. veredelingsproducten oplevert met constante kenmerken,   kan de inspecteur fo
 4.  De ambtenaren onderwerpen de aangegeven goederen bij de controle van de aangifte aan een grondige opneming, teneinde vast te stellen of overeenstemming bestaat tussen de omschrijving van de goederen in de vergunning en hetgeen over de aard en hoedanigheden van de goederen bij opneming wordt bevonden.   
 5.  Indien de ambtenaren een verschil constateren, kunnen zij, afhankelijk van de aard van het verschil, de vrijstelling weigeren of de aangifte doen wijzigen. In het laatste geval geven zij slechts toestemming tot wegvoering van de goederen, nadat zij hebben vastgesteld dat de eventueel gestelde zekerheid toereikend is voor de voldoening van de douaneschuld.   
 6.  De ambtenaren, belast met de controle van de aangifte, stellen aantekening van hun bevindingen op de aangifte en zenden deze ten behoeve van de controle op de nakoming van de voorwaarden van de vergunning naar de ambtenaren belast met de administratieve controle.   
-7.  De ambtenaren, belast met de administratieve controle, stellen periodiek bij de vergunninghouder, bedoeld in [artikel 3.98, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), een onderzoek in naar de wijze waarop de voorwaarden van de vergunning worden nagekomen. Zij gaan daarbij in het bijzonder na of aan de ingevoerde goederen de voorgeschreven bestemming is gegeven en of aan de voorwaarde van uitvoer is voldaan.   
+7.  De ambtenaren, belast met de administratieve controle, stellen periodiek bij de vergunninghouder, bedoeld in [artikel 3.98, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), een onderzoek in naar de wijze waarop de voorwaarden van de vergunning worden nagekomen. Zij gaan daarbij in het bijzonder na of aan de ingevoerde goederen de voorgeschreven bestemming is gegeven en of aan de voorwaarde van uitvoer is voldaan.  
 
 ### Artikel  2.49  
 
@@ -650,14 +650,14 @@ c. veredelingsproducten oplevert met constante kenmerken,   kan de inspecteur fo
 2.  In de vergunning kan toestemming worden verleend voor uitvoer in deelzendingen.   
 3.  Van de uit te voeren goederen wordt aangifte gedaan onder bijvoeging van een exemplaar van de vergunning. In de aangifte wordt melding gemaakt van de datum en het nummer van de vergunning.   
 4.  Op voorwaarde dat de vergunninghouder de aan de vergunning verbonden verantwoordelijkheden behoudt, kan de inspecteur toestaan dat uitvoer van de veredelingsproducten geschiedt door een andere persoon dan de vergunninghouder.   
-5.  Indien de omstandigheden dat rechtvaardigen, kan de inspecteur op verzoek van de vergunninghouder toestaan dat de goederen worden uitgevoerd zonder de veredelingshandeling te hebben ondergaan, zonder dat dit feit tot het ontstaan van een douaneschuld leidt.   
+5.  Indien de omstandigheden dat rechtvaardigen, kan de inspecteur op verzoek van de vergunninghouder toestaan dat de goederen worden uitgevoerd zonder de veredelingshandeling te hebben ondergaan, zonder dat dit feit tot het ontstaan van een douaneschuld leidt.  
 
 ### Artikel  2.50  
 
 1.  Voor de uitvoer van goederen als bedoeld in [artikel 3.80, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) wordt aangifte tot tijdelijke uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning, die op grond van de vrijstellingsregeling is vereist. In de aangifte wordt melding gemaakt van de datum en het nummer van de vergunning.   
 2.  De ambtenaren treffen zonodig identiteitsmaatregelen met het oog op de wederinvoer van de goederen. Artikel 2.48, vierde lid, is van overeenkomstige toepassing.   
 3.  De ambtenaren, belast met de controle van de aangifte, stellen aantekening van hun bevindingen op de aangifte.   
-4.  De ambtenaren, belast met het toezicht op het uitgaan van de goederen, zenden het uitvoerdocument ten behoeve van de controle op de nakoming van de voorwaarden van de vergunning naar de ambtenaren belast met de administratieve controle.   
+4.  De ambtenaren, belast met het toezicht op het uitgaan van de goederen, zenden het uitvoerdocument ten behoeve van de controle op de nakoming van de voorwaarden van de vergunning naar de ambtenaren belast met de administratieve controle.  
 
 ### Artikel  2.51  
 
@@ -666,7 +666,7 @@ c. veredelingsproducten oplevert met constante kenmerken,   kan de inspecteur fo
 3.  De ambtenaren, belast met de controle van de aangifte, gaan aan de hand van de bij uitvoer getroffen identiteitsmaatregelen, in het bijzonder na of de weder in te voeren veredelingsproducten, met inachtneming van de daarop toegelaten bewerkingen, identiek zijn aan de uitgevoerde goederen.   
 4.  Op voorwaarde dat de vergunninghouder de aan de vergunning verbonden verantwoordelijkheden behoudt, kan de inspecteur toestaan dat wederinvoer van de veredelingsproducten geschiedt door een ander dan de vergunninghouder.   
 5.  Indien omstandigheden dat rechtvaardigen, kan de inspecteur op verzoek van de vergunninghouder toestaan dat de goederen met vrijstelling van invoerrechten worden wederingevoerd zonder een veredelingshandeling te hebben ondergaan.   
-6.  Indien er sprake is van een heffing wordt de vrijstelling ook verleend indien aan de veredelingsproducten een andere douanebestemming wordt gegeven dan invoer.   
+6.  Indien er sprake is van een heffing wordt de vrijstelling ook verleend indien aan de veredelingsproducten een andere douanebestemming wordt gegeven dan invoer.  
 
 ### Afdeling  2.13  
 
@@ -678,11 +678,11 @@ c. veredelingsproducten oplevert met constante kenmerken,   kan de inspecteur fo
 2.  Indien sprake is van repeterende zendingen kan de aangever de inspecteur om een doorlopende vergunning verzoeken.   
 3.  De inspecteur kan op verzoek van de vergunninghouder toestemming verlenen voor overdracht van de vergunning aan een andere persoon, die voldoet aan de voorwaarden voor de afgifte van de vergunning en die zich verplicht tot nakoming van de aan die vergunning verbonden voorschriften.   
 4.  Bij de aangifte ten invoer wordt een exemplaar van de vergunning, bedoeld in het eerste lid, gevoegd. In de aangifte wordt melding gemaakt van de datum en het nummer van de vergunning.   
-5.  Artikel 2.48, vierde tot en met zevende lid, is van overeenkomstige toepassing.   
+5.  Artikel 2.48, vierde tot en met zevende lid, is van overeenkomstige toepassing.  
 
 ### Artikel  2.53  
 
-Van de uit te voeren goederen, bedoeld in artikel 2.52, wordt aangifte ten uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning.  
+Van de uit te voeren goederen, bedoeld in artikel 2.52, wordt aangifte ten uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning. 
 
 ### Artikel  2.54  
 
@@ -690,13 +690,13 @@ Van de uit te voeren goederen, bedoeld in artikel 2.52, wordt aangifte ten uitv
 2.  De ambtenaren onderwerpen de aangifte aan verificatie, teneinde vast te stellen of overeenstemming bestaat tussen de omschrijving van de goederen in de aangifte en die in de desbetreffende vrijstellingsregeling.   
 3.  Artikel 2.48, vijfde lid, is van overeenkomstige toepassing.   
 4.  De ambtenaren, belast met de controle van de aangifte, stellen aantekening van hun bevindingen op het invoerdocument en stellen dit document vervolgens ter hand aan de aangever.   
-5.  Indien de vrijstellingsregeling er in voorziet dat mondeling aangifte kan worden gedaan, vindt het vorenstaande overeenkomstige toepassing, met dien verstande dat de aangever geen melding behoeft te maken van de vindplaats van de regeling waarvan hij de toepassing verzoekt. De inspecteur wijst de aangever er op onder welke voorwaarden de vrijstelling wordt verleend, in het bijzonder met betrekking tot de voorgeschreven bestemming en de termijn van uitvoer.   
+5.  Indien de vrijstellingsregeling er in voorziet dat mondeling aangifte kan worden gedaan, vindt het vorenstaande overeenkomstige toepassing, met dien verstande dat de aangever geen melding behoeft te maken van de vindplaats van de regeling waarvan hij de toepassing verzoekt. De inspecteur wijst de aangever er op onder welke voorwaarden de vrijstelling wordt verleend, in het bijzonder met betrekking tot de voorgeschreven bestemming en de termijn van uitvoer.  
 
 ### Artikel  2.55  
 
 1.  De tijdelijk ingevoerde goederen met vrijstelling van invoerrechten, bedoeld in artikel 2.54, worden binnen de daarvoor vastgestelde termijn uitgevoerd.   
 2.  Van de uit te voeren goederen wordt aangifte gedaan. Indien een aangifte ten uitvoer wordt gedaan, wordt daarin melding gemaakt van de regeling op grond waarvan vrijstelling bij tijdelijke invoer is verleend.   
-3.  Van goederen die bij tijdelijke invoer mondeling zijn aangegeven, behoeft bij uitvoer geen aangifte te worden gedaan.   
+3.  Van goederen die bij tijdelijke invoer mondeling zijn aangegeven, behoeft bij uitvoer geen aangifte te worden gedaan.  
 
 ### Artikel  2.56  
 
@@ -704,7 +704,7 @@ Van de uit te voeren goederen, bedoeld in artikel 2.52, wordt aangifte ten uitv
 2.  De ambtenaren voorzien het invoerblad en de invoerstrook van een registratienummer. Nadat zij het invoerblad ondertekend, gedagtekend en gestempeld hebben, wordt het invoerblad langs de perforatierand afgescheurd en achtergehouden door de ambtenaren. De invoerstrook blijft achter in het carnet ATA. Ook het doorvoerblad wordt voorzien van het registratienummer. De ambtenaren kunnen de goederen controleren aan de hand van de gegevens op het invoerblad.   
 3.  Bij uitvoer wordt het uitvoerblad gedagtekend, gestempeld en ondertekend door de ambtenaren en langs de perforatierand afgescheurd. De uitvoerstrook blijft achter in het carnet ATA. De ambtenaren kunnen de goederen, die worden uitgevoerd, controleren aan de hand van de gegevens op het uitvoerblad.   
 4.  Het invoerblad en het uitvoerblad worden ingezonden naar het douanekantoor waar de zuivering plaats vindt.   
-5.  Bij het gebruik van een carnet ATA blijft het vorderen van een zekerheidstelling achterwege.   
+5.  Bij het gebruik van een carnet ATA blijft het vorderen van een zekerheidstelling achterwege.  
 
 ### Afdeling  2.14  
 
@@ -718,7 +718,7 @@ Van de uit te voeren goederen, bedoeld in artikel 2.52, wordt aangifte ten uitv
 4.  Indien een vergunning is vereist, wordt een exemplaar van de vergunning bijgevoegd. In de aangifte wordt in dat geval melding gemaakt van de datum en het nummer van de vergunning.   
 5.  Indien geen vergunning is vereist, wordt in de aangifte de regeling vermeld waarvan de toepassing wordt verzocht.   
 6.  De inspecteur controleert de aangifte teneinde vast te stellen of overeenstemming bestaat tussen de omschrijving van de goederen in de aangifte en eventueel in de vergunning en hetgeen zij over de aard en de hoedanigheden van de goederen bij controle bevinden.   
-7.  Indien de inspecteur een verschil vaststelt, kan hij, afhankelijk van de aard van het verschil, de vrijstelling weigeren of de aangifte doen wijzigen.   
+7.  Indien de inspecteur een verschil vaststelt, kan hij, afhankelijk van de aard van het verschil, de vrijstelling weigeren of de aangifte doen wijzigen.  
 
 ### Artikel  2.58  
 
@@ -730,7 +730,7 @@ b. goederen waarbij de uitvoer van die goederen voorwaarde is voor teruggaaf van
 
 c. goederen waarvoor bij uitvoer een vergunning wordt overgelegd.     
 2.  In de aangifte ten uitvoer wordt, indien van toepassing, de regeling vermeld op grond waarvan vrijstelling bij invoer is verleend.   
-3.  Ter verkrijging van teruggaaf van de eventueel ter zake van de invoer gestelde zekerheid, wordt het voor uitvoer afgetekend exemplaar van het document, vergezeld van een verzoek om teruggaaf, ingezonden naar de ambtenaren, die belast zijn met het verlenen van toestemming tot terugbetaling van de gestelde zekerheid.   
+3.  Ter verkrijging van teruggaaf van de eventueel ter zake van de invoer gestelde zekerheid, wordt het voor uitvoer afgetekend exemplaar van het document, vergezeld van een verzoek om teruggaaf, ingezonden naar de ambtenaren, die belast zijn met het verlenen van toestemming tot terugbetaling van de gestelde zekerheid.  
 
 ### Artikel  2.59  
 
@@ -743,10 +743,10 @@ a. de naam van het schip;
 b. de hoeveelheid en de soort van de goederen volgens de algemene handelsbenaming; en  
 
 c. de waarde van de goederen;   bij het bevoegde douanekantoor ingediend.   
-4.  Op de goedkeuring van ruimten, terreinen of andere locaties voor uitgaande opslag als bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) zijn de artikelen 2.21, 2.22 en 2.24 van overeenkomstige toepassing.   
+4.  Op de goedkeuring van ruimten, terreinen of andere locaties voor uitgaande opslag als bedoeld in [artikel 2.19, eerste lid, van de wet ](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md)zijn de artikelen 2.21, 2.22 en 2.24 van overeenkomstige toepassing.   
 5.  Het op de aangifte ten uitvoer afgegeven document wordt, ter dekking van de uitgaande opslag, ingediend bij de ambtenaren, belast met het toezicht op de inslag.   
 6.  De uitvoer is gerealiseerd zodra de goederen zijn uitgegaan.   
-7.  Indien voor de opslag in een inrichting voor uitgaande opslag een rekening wordt gehouden, wordt de rekening gedebiteerd op vertoon van het uitvoerdocument. Daarvan wordt aantekening gesteld op het document.   
+7.  Indien voor de opslag in een inrichting voor uitgaande opslag een rekening wordt gehouden, wordt de rekening gedebiteerd op vertoon van het uitvoerdocument. Daarvan wordt aantekening gesteld op het document.  
 
 ### Artikel  2.60  
 
@@ -756,7 +756,7 @@ c. de waarde van de goederen;   bij het bevoegde douanekantoor ingediend.
 a. waarvoor bij uitvoer een vergunning wordt overgelegd; of  
 
 b. waarvoor bij uitvoer andere speciale maatregelen van toepassing zijn.     
-3.  In de gevallen, bedoeld in het tweede lid, is een aangifte ten uitvoer vereist.   
+3.  In de gevallen, bedoeld in het tweede lid, is een aangifte ten uitvoer vereist.  
 
 ### Afdeling  2.15  
 
@@ -772,7 +772,7 @@ b. waarvoor bij uitvoer andere speciale maatregelen van toepassing zijn.
 6.  Indien aan alle douaneformaliteiten is voldaan, geeft de inspecteur toestemming tot vertrek, ten blijke waarvan hij een vertrekpas afgeeft op vertoon van de akte van uitklaring.   
 7.  De vertrekpas wordt door de gezagvoerder vóór het vertrek afgegeven aan een ambtenaar of aan de politie, die het stuk zo spoedig mogelijk ten kantore van de inspecteur bezorgt.   
 8.  Loodsen of luchtverkeerleiders brengen geen schepen onderscheidenlijk luchtvaartuigen buiten of laten die niet vertrekken zonder zich eerst de vertrekpas te hebben laten tonen.   
-9.  Uitgaande goederen worden rechtstreeks en onverwijld naar het buitenland gebracht.   
+9.  Uitgaande goederen worden rechtstreeks en onverwijld naar het buitenland gebracht.  
 
 ### Artikel  2.62  
 
@@ -780,7 +780,7 @@ b. waarvoor bij uitvoer andere speciale maatregelen van toepassing zijn.
 2.  Het eerste lid is niet van toepassing op schepen en luchtvaartuigen, indien ter zake van de uitvoer douaneformaliteiten gelden.   
 3.  Indien een schip of luchtvaartuig niet aan uitklaring is onderworpen, wordt aan de gezagvoerder, op diens verzoek, door de inspecteur een verklaring verstrekt, gelijkluidend aan een duplicaat-vertrekpas.   
 4.  Indien de uitklaring van een schip of luchtvaartuig buiten de openingstijden van de douanekantoren wordt verlangd, wordt aan dat verzoek voldaan.   
-5.  Een binnengebracht schip of luchtvaartuig vertrekt niet zonder toestemming van de inspecteur uit de haven onderscheidenlijk de luchthaven,.   
+5.  Een binnengebracht schip of luchtvaartuig vertrekt niet zonder toestemming van de inspecteur uit de haven onderscheidenlijk de luchthaven,.  
 
 ### Afdeling  2.16  
 
@@ -790,7 +790,7 @@ b. waarvoor bij uitvoer andere speciale maatregelen van toepassing zijn.
 
 1.  Een verzoek tot het verlenen van de vrijstelling, bedoeld in [artikel 3.92 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), wordt gedaan door het indienen van een aangifte ten invoer.   
 2.  De aangifte ten invoer wordt ingediend bij de inspecteur door het overleggen van een door het hoofd van de consulaire vertegenwoordiging ondertekende aangifte.   
-3.  De vrijstelling, bedoeld in het eerste lid, is, voor zover het motorrijtuigen betreft, beperkt tot ten hoogste twee personenvoertuigen per consulaire ambtenaar.   
+3.  De vrijstelling, bedoeld in het eerste lid, is, voor zover het motorrijtuigen betreft, beperkt tot ten hoogste twee personenvoertuigen per consulaire ambtenaar.  
 
 ### Afdeling  2.17  
 
@@ -804,7 +804,7 @@ a. dat de verklaring tot inklaring wordt ingediend; of
 
 b. dat een aangifte ten invoer wordt ingediend;   voordat de goederen worden binnengebracht.   
 2.  Het verzoek, bedoeld in het eerste lid, wordt elektronisch of schriftelijk ingediend bij de inspecteur. De inspecteur kan aan zijn toestemming voorwaarden verbinden.   
-3.  Indien niet aan de voorwaarden, bedoeld in het tweede lid, wordt voldaan, wordt de verklaring tot inklaring of de aangifte ten invoer geacht niet te zijn ingediend.   
+3.  Indien niet aan de voorwaarden, bedoeld in het tweede lid, wordt voldaan, wordt de verklaring tot inklaring of de aangifte ten invoer geacht niet te zijn ingediend.  
 
 ### Afdeling  2.18  
 
@@ -813,7 +813,7 @@ b. dat een aangifte ten invoer wordt ingediend;   voordat de goederen worden bin
 ### Artikel  2.65  
 
 1.  De aanvraag om toekenning van de status van geautoriseerde marktdeelnemer, bedoeld in [artikel 2.48 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), wordt elektronisch of schriftelijk ingediend bij de inspecteur.   
-2.  Indien de aanvraag, bedoeld in het eerste lid, niet alle benodigde gegevens bevat, verstrekt de marktdeelnemer op verzoek van de inspecteur de relevante gegevens binnen een door deze vastgestelde termijn.   
+2.  Indien de aanvraag, bedoeld in het eerste lid, niet alle benodigde gegevens bevat, verstrekt de marktdeelnemer op verzoek van de inspecteur de relevante gegevens binnen een door deze vastgestelde termijn.  
 
 ### Artikel  2.66  
 
@@ -823,7 +823,7 @@ a. de aanvrager;
 
 b. personen, die verantwoordelijk zijn voor het bedrijf dat de aanvraag heeft ingediend of die zeggenschap hebben over de leiding van het bedrijf; en  
 
-c. de voor douanezaken verantwoordelijke persoon in het bedrijf dat de aanvraag heeft ingediend.     
+c. de voor douanezaken verantwoordelijke persoon in het bedrijf dat de aanvraag heeft ingediend.    
 
 ### Artikel  2.67  
 
@@ -843,12 +843,12 @@ f. past de aanvrager toereikende procedures toe voor het bewaren van bedrijfsbes
 
 g. ziet de aanvrager erop toe dat werknemers zich bewust zijn van de noodzaak de inspecteur in te lichten indien zich problemen voordoen met de naleving van de douanewetgeving en wijst personen aan die in dat geval contact met de inspecteur opnemen; en  
 
-h. heeft de aanvrager passende maatregelen genomen om te voorkomen dat onbevoegden zijn computersysteem binnendringen en om zijn documentatie te beschermen.    
+h. heeft de aanvrager passende maatregelen genomen om te voorkomen dat onbevoegden zijn computersysteem binnendringen en om zijn documentatie te beschermen.   
 
 ### Artikel  2.68  
 
 1.  Aan de voorwaarde van financiële solvabiliteit, bedoeld in [artikel 2.26, eerste lid, onderdeel c, van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), wordt de aanvrager geacht te voldoen indien zijn solvabiliteit over de afgelopen drie jaar kan worden aangetoond.   
-2.  Indien de aanvrager minder dan drie jaar geleden is opgericht, wordt zijn financiële solvabiliteit beoordeeld aan de hand van de beschikbare documenten en informatie.   
+2.  Indien de aanvrager minder dan drie jaar geleden is opgericht, wordt zijn financiële solvabiliteit beoordeeld aan de hand van de beschikbare documenten en informatie.  
 
 ### Artikel  2.69  
 
@@ -866,7 +866,7 @@ e. de aanvrager maatregelen heeft genomen om zijn handelspartners duidelijk te k
 
 f. de aanvrager onderwerpt sollicitanten voor veiligheidsgevoelige functies aan veiligheidsonderzoeken, voor zover de wetgeving dit toelaat, en verricht regelmatig achtergrondcontroles; en  
 
-g. de aanvrager ziet erop toe dat de betrokken werknemers actief aan programma’s inzake veiligheidsbewustzijn meewerken.     
+g. de aanvrager ziet erop toe dat de betrokken werknemers actief aan programma’s inzake veiligheidsbewustzijn meewerken.    
 
 ### Afdeling  2.19  
 
@@ -878,7 +878,7 @@ De inspecteur kan een identificatiemiddel dat door een buitenlandse douaneautori
 
 a. het identificatiemiddel niet veilig is; of  
 
-b. de inspecteur overgaat tot opname van de goederen.    
+b. de inspecteur overgaat tot opname van de goederen.   
 
 ### Afdeling  2.20  
 
@@ -886,7 +886,7 @@ b. de inspecteur overgaat tot opname van de goederen.
 
 ### Artikel  2.71  
 
-De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdeel a, onder a2, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is bevoegd tot het geven van toestemming als bedoeld in [artikel 2.66, zesde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor het vorderen van gehele ontkleding of het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.  
+De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdeel a, onder a2, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is bevoegd tot het geven van toestemming als bedoeld in [artikel 2.66, zesde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor het vorderen van gehele ontkleding of het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen. 
 
 ### Afdeling  2.21  
 
@@ -897,7 +897,7 @@ De directeur van het organisatieonderdeel, genoemd in [artikel 3, eerste lid, on
 1.  De verkoop van in bewaring genomen goederen als bedoeld in [artikel 2.67 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) geschiedt zoveel mogelijk aan het begin van een kalendermaand en geschiedt ten overstaan van een notaris.   
 2.  De bekendmaking van het voornemen tot de verkoop wordt drie weken, twee weken en één week voorafgaande aan de verkoop gepubliceerd. De bekendmaking kan behalve in het Nederlands ook in het Papiaments of in het Engels worden gedaan.   
 3.  Voorafgaand aan de verkoop worden ten minste twee kijkdagen gehouden voor het publiek. Daarvan wordt melding gemaakt bij de bekendmaking.   
-4.  Aan het voornemen tot de verkoop van goederen, die aan spoedige, aanmerkelijke waardevermindering onderhevig zijn of waarvan de bewaring of het onderhoud gevaar oplevert of hoge kosten meebrengt, wordt, in afwijking van het tweede lid, bekendheid gegeven op de tweede, onderscheidenlijk eerste dag, voorafgaande aan de verkoop. Voor dergelijke goederen wordt geen kijkdag gehouden, maar zal de bekendmaking een specifieke omschrijving van de goederen omvatten.   
+4.  Aan het voornemen tot de verkoop van goederen, die aan spoedige, aanmerkelijke waardevermindering onderhevig zijn of waarvan de bewaring of het onderhoud gevaar oplevert of hoge kosten meebrengt, wordt, in afwijking van het tweede lid, bekendheid gegeven op de tweede, onderscheidenlijk eerste dag, voorafgaande aan de verkoop. Voor dergelijke goederen wordt geen kijkdag gehouden, maar zal de bekendmaking een specifieke omschrijving van de goederen omvatten.  
 
 ### Afdeling  2.22  
 
@@ -913,7 +913,7 @@ b. het kenmerk en de datum van de beschikking;
 
 c. het bedrag aan rechten, rente, kosten of bestuurlijke boete; en  
 
-d. een bezwaarclausule.    
+d. een bezwaarclausule.   
 
 ### Afdeling  2.23  
 
@@ -921,7 +921,7 @@ d. een bezwaarclausule.
 
 ### Artikel  2.74  
 
-De inspecteur kan uit doelmatigheidsoverwegingen een forfaitaire zekerheid als bedoeld in [artikel 2.89, derde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) laten stellen voor de tijdelijke invoer van goederen met vrijstelling van invoerrechten.  
+De inspecteur kan uit doelmatigheidsoverwegingen een forfaitaire zekerheid als bedoeld in [artikel 2.89, derde lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) laten stellen voor de tijdelijke invoer van goederen met vrijstelling van invoerrechten. 
 
 ### Afdeling  2.24  
 
@@ -930,7 +930,7 @@ De inspecteur kan uit doelmatigheidsoverwegingen een forfaitaire zekerheid als b
 ### Artikel  2.75  
 
 1.  De inspecteur geeft aan de inbeslagneming van goederen van onbekende personen, bedoeld in [artikel 2.155, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), bekendheid door het plaatsen van een bekendmaking in ten minste twee plaatselijk verschijnende dagbladen.   
-2.  De bekendmaking kan behalve in het Nederlands ook in het Papiaments of in het Engels worden gedaan.   
+2.  De bekendmaking kan behalve in het Nederlands ook in het Papiaments of in het Engels worden gedaan.  
 
 ### Afdeling  2.25  
 
@@ -938,105 +938,105 @@ De inspecteur kan uit doelmatigheidsoverwegingen een forfaitaire zekerheid als b
 
 ### Artikel  2.76  
 
-Degene die kennisgevingen, bedoeld in één van de artikelen 2.8, tweede en derde lid, 2.15, eerste lid, 2.16, tweede lid, 2.20, zesde lid, en 2.61, eerste lid, niet doet, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.  
+Degene die kennisgevingen, bedoeld in één van de artikelen 2.8, tweede en derde lid, 2.15, eerste lid, 2.16, tweede lid, 2.20, zesde lid, en 2.61, eerste lid, niet doet, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140. 
 
 ### Artikel  2.77  
 
-Degene die artikel 2.14, vierde lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.  
+Degene die artikel 2.14, vierde lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140. 
 
 ### Artikel  2.78  
 
-Degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in één van de artikelen 2.9, zesde lid, 2.12, derde lid, 2.15, tweede lid, 2.20, derde lid, 2.22, tweede lid, 2.23, eerste lid, 2.24, eerste lid, 2.26, tweede lid, en 2.62, vijfde lid, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.  
+Degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in één van de artikelen 2.9, zesde lid, 2.12, derde lid, 2.15, tweede lid, 2.20, derde lid, 2.22, tweede lid, 2.23, eerste lid, 2.24, eerste lid, 2.26, tweede lid, en 2.62, vijfde lid, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140. 
 
 ### Artikel  2.79  
 
-Degene die artikel 2.61, zevende lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.  
+Degene die artikel 2.61, zevende lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140. 
 
 ### Artikel  2.80  
 
-Degene die artikel 2.61, achtste lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.  
+Degene die artikel 2.61, achtste lid, overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140. 
 
-### Afdeling  2.26  
+###Afdeling 2.26 
 
 ####Beperkingen voor de uit- en doorvoer van strategische goederen
 
-### Artikel  2.81  
+###Artikel 2.81 
 
-In deze afdeling wordt verstaan onder:   a. de minister:  de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;    b. besluit:  het [Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);    c. beschikkingsbevoegde:  een exporteur als bedoeld in artikel 2, derde lid, van Verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Unie een bestemming buiten de BES eilanden wordt gelezen;    d. Verordening 428/2009:  Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);    e. N.A.V.O.-strijdkrachten:  de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).     
+In deze afdeling wordt verstaan onder:a.de minister:de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;b.besluit:het [Uitvoeringsbesluit Douane- en Accijnswet BES](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md);c.beschikkingsbevoegde:een exporteur als bedoeld in artikel 2, derde lid, van Verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Unie een bestemming buiten de BES eilanden wordt gelezen;d.Verordening 428/2009:Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);e.N.A.V.O.-strijdkrachten:de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).
 
-### Artikel  2.82  
+###Artikel 2.82 
 
-Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is.  
+Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is.
 
-### Artikel  2.83  
+###Artikel 2.83 
 
-[Artikel 2.6 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) is niet van toepassing op de uitvoer en de doorvoer van: 
+[Artikel 2.6 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) is niet van toepassing op de uitvoer en de doorvoer van:
 
-a. militaire goederen, bestemd voor gebruik door de Nederlandse krijgsmacht;  
+a.militaire goederen, bestemd voor gebruik door de Nederlandse krijgsmacht;
 
-b. militaire goederen, eigendom van en bestemd voor gebruik door NAVO-strijdkrachten;  
+b.militaire goederen, eigendom van en bestemd voor gebruik door NAVO-strijdkrachten;
 
-c. militaire voertuigen, die worden gebruikt door vreemde strijdkrachten bij gelegenheden als staats- of beleefdheidsbezoeken, vlootschouwen of luchtvaartmanifestaties.    
+c.militaire voertuigen, die worden gebruikt door vreemde strijdkrachten bij gelegenheden als staats- of beleefdheidsbezoeken, vlootschouwen of luchtvaartmanifestaties.
 
-### Artikel  2.84  
+###Artikel 2.84 
 
-1.  De melding inzake de uitvoer of de doorvoer, bedoeld in [artikel 2.7 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), van militaire goederen, waarvoor geen vergunning is vereist op grond van het bij of krachtens het besluit bepaalde, vindt plaats bij de inspecteur.   
-2.  De melding wordt schriftelijk gedaan door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten bij de uitvoer of de doorvoer verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.   
-3.  De melding bevat in ieder geval: 
+1. De melding inzake de uitvoer of de doorvoer, bedoeld in [artikel 2.7 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md), van militaire goederen, waarvoor geen vergunning is vereist op grond van het bij of krachtens het besluit bepaalde, vindt plaats bij de inspecteur.
+2. De melding wordt schriftelijk gedaan door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten bij de uitvoer of de doorvoer verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.
+3. De melding bevat in ieder geval:
 
-a. het land van bestemming;  
+a.het land van bestemming;
 
-b. de naam van de ontvanger van de goederen;  
+b.de naam van de ontvanger van de goederen;
 
-c. de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de de lijst van goederen, genoemd in artikel 2.82, de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en  
+c.de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de de lijst van goederen, genoemd in artikel 2.82, de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en
 
-d. een nauwkeurige vermelding van de plaats, bestaande uit de naam van de plaats en de postcode aangevuld met huisnummer, waar de goederen kunnen worden onderzocht.     
-4.  De inspecteur kan een persoon, die gehouden is om meldingen te doen, schriftelijk toestemming geven de melding anders dan schriftelijk te doen.   
-5.  De melding wordt gedaan voor inlading in het uitgaande vervoermiddel of, indien het doorvoer betreft uiterlijk op het moment van binnenkomst op het grondgebied van de BES eilanden.   
+d.een nauwkeurige vermelding van de plaats, bestaande uit de naam van de plaats en de postcode aangevuld met huisnummer, waar de goederen kunnen worden onderzocht.
+4. De inspecteur kan een persoon, die gehouden is om meldingen te doen, schriftelijk toestemming geven de melding anders dan schriftelijk te doen.
+5. De melding wordt gedaan voor inlading in het uitgaande vervoermiddel of, indien het doorvoer betreft uiterlijk op het moment van binnenkomst op het grondgebied van de BES eilanden.
 
-### Artikel  2.85  
+###Artikel 2.85 
 
-Geen melding is vereist van: 
+Geen melding is vereist van:
 
-a. de doorvoer van goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van de BES eilanden; en  
+a.de doorvoer van goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van de BES eilanden; en
 
-b. de militaire goederen, bedoeld in artikel 2.82.    
+b.de militaire goederen, bedoeld in artikel 2.82.
 
-### Artikel  2.86  
+###Artikel 2.86 
 
-1.  Vergunningen worden schriftelijk aangevraagd bij de inspecteur met gebruikmaking van daartoe bestemde formulieren.   
-2.  Vergunningen worden aangevraagd door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten bij de uitvoer of de doorvoer verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.   
-3.  Een vergunning voor militaire goederen heeft mede betrekking hebben op meegeleverde reserveonderdelen en toebehoren, voor zover deze worden geleverd uit hoofde van dezelfde overeenkomst die betrekking heeft op de levering van de militaire goederen waarvoor de vergunning is verleend.   
-4.  De gegevens in de aanvraag worden juist, volledig en zonder voorbehoud verstrekt.   
+1. Vergunningen worden schriftelijk aangevraagd bij de inspecteur met gebruikmaking van daartoe bestemde formulieren.
+2. Vergunningen worden aangevraagd door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten bij de uitvoer of de doorvoer verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.
+3. Een vergunning voor militaire goederen heeft mede betrekking hebben op meegeleverde reserveonderdelen en toebehoren, voor zover deze worden geleverd uit hoofde van dezelfde overeenkomst die betrekking heeft op de levering van de militaire goederen waarvoor de vergunning is verleend.
+4. De gegevens in de aanvraag worden juist, volledig en zonder voorbehoud verstrekt.
 
-### Artikel  2.87  
+###Artikel 2.87 
 
-1.  Aan een vergunning kunnen ten minste de volgende voorschriften worden verbonden: 
+1. Aan een vergunning kunnen ten minste de volgende voorschriften worden verbonden:
 
-a. de goederen, waarop de vergunning betrekking heeft, worden binnen een bij de vergunning te bepalen termijn wederingevoerd, welke wederinvoer wordt aangetoond binnen een maand na de wederinvoer;  
+a.de goederen, waarop de vergunning betrekking heeft, worden binnen een bij de vergunning te bepalen termijn wederingevoerd, welke wederinvoer wordt aangetoond binnen een maand na de wederinvoer;
 
-b. bij elke uitvoer of doorvoer die met de vergunning wordt verricht wordt een factuur gezonden aan de inspecteur. Deze factuur bevat in ieder geval de volgende gegevens: 
+b.bij elke uitvoer of doorvoer die met de vergunning wordt verricht wordt een factuur gezonden aan de inspecteur. Deze factuur bevat in ieder geval de volgende gegevens:
 
-1°. het nummer van de vergunning;  
+1°.het nummer van de vergunning;
 
-2°. naam en adres van de ontvanger;  
+2°.naam en adres van de ontvanger;
 
-3°. een omschrijving van de uit- of door te voeren goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid;  
+3°.een omschrijving van de uit- of door te voeren goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid;
 
-4°. de hoeveelheid en de waarde;    
+4°.de hoeveelheid en de waarde;
 
-c. door middel van een bewijsstuk, zoals een bewijs van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument, of een eindgebruikersverklaring wordt aangetoond dat de goederen de bestemming waarvoor de vergunning is verleend, hebben bereikt.     
-2.  Een vergunning waarvan geen gebruik zal of kan worden gemaakt wordt onder opgave van redenen terstond ingezonden aan de inspecteur.   
-3.  De inspecteur kan bij de vergunningaanvraag verzoeken om: 
+c.door middel van een bewijsstuk, zoals een bewijs van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument, of een eindgebruikersverklaring wordt aangetoond dat de goederen de bestemming waarvoor de vergunning is verleend, hebben bereikt.
+2. Een vergunning waarvan geen gebruik zal of kan worden gemaakt wordt onder opgave van redenen terstond ingezonden aan de inspecteur.
+3. De inspecteur kan bij de vergunningaanvraag verzoeken om:
 
-a. de overeenkomst die ten grondslag ligt aan de betreffende uit- of doorvoer;  
+a.de overeenkomst die ten grondslag ligt aan de betreffende uit- of doorvoer;
 
-b. een verklaring betreffende het eindgebruik.     
-4.  De minister kan een afgegeven vergunning, indien deze nog niet is gebruikt, in ieder geval intrekken indien: 
+b.een verklaring betreffende het eindgebruik.
+4. De minister kan een afgegeven vergunning, indien deze nog niet is gebruikt, in ieder geval intrekken indien:
 
-a. de vergunning werd verstrekt op grond van onjuiste of onvolledige gegevens, en  
+a.de vergunning werd verstrekt op grond van onjuiste of onvolledige gegevens, en
 
-b. de aanvrager van de onjuistheid of de onvolledigheid kennis droeg of redelijkerwijze kennis had moeten dragen.     
+b.de aanvrager van de onjuistheid of de onvolledigheid kennis droeg of redelijkerwijze kennis had moeten dragen.
 
 ### Hoofdstuk  3  
 
@@ -1049,27 +1049,27 @@ b. de aanvrager van de onjuistheid of de onvolledigheid kennis droeg of redelijk
 ### Artikel  3.1  
 
 1.  De goederen van opvoedkundige, wetenschappelijke of culturele aard, bedoeld in [artikel 3.49, eerste lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 4a.   
-2.  De instellingen en organisaties, bedoeld in de [artikelen 3.49, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.115, tweede lid, aanhef en onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [3.117, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 4b.   
+2.  De instellingen en organisaties, bedoeld in de [artikelen 3.49, tweede lid](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [3.115, tweede lid, aanhef en onderdeel b](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), en [3.117, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 4b.  
 
 ### Artikel  3.2  
 
-De instellingen en organisaties, bedoeld in [artikel 3.50, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 5.  
+De instellingen en organisaties, bedoeld in [artikel 3.50, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 5. 
 
 ### Artikel  3.3  
 
-De instellingen en organisaties, bedoeld in [artikel 3.51, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 6.  
+De instellingen en organisaties, bedoeld in [artikel 3.51, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 6. 
 
 ### Artikel  3.4  
 
-De instellingen of laboratoria, bedoeld in [artikel 3.53, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 7.  
+De instellingen of laboratoria, bedoeld in [artikel 3.53, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 7. 
 
 ### Artikel  3.5  
 
-De instellingen, bedoeld in de [artikelen 3.57,eerste lid, aanhef en onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [3.119, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) zijn opgenomen in de bij deze regeling behorende bijlage 8.  
+De instellingen, bedoeld in de [artikelen 3.57,eerste lid, aanhef en onderdeel a](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en [3.119, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) zijn opgenomen in de bij deze regeling behorende bijlage 8. 
 
 ### Artikel  3.6  
 
-De goederen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel f, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 9.  
+De goederen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel f, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 9. 
 
 ### Artikel  3.7  
 
@@ -1077,12 +1077,12 @@ Vrijstelling van de heffing van invoerrechten voor goederen als bedoeld in [arti
 
 a. ten genoegen van de inspecteur wordt aangetoond dat de financiering van de goederen voor rekening van Aruba, Curaçao, Sint Maarten of een internationale organisatie komt; en  
 
-b. uit de aard en de hoeveelheid van de goederen geen commerciële bijbedoelingen blijken.    
+b. uit de aard en de hoeveelheid van de goederen geen commerciële bijbedoelingen blijken.   
 
 ### Artikel  3.8  
 
 1.  De veiligheidsmiddelen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel q, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 10.   
-2.  De hoeveelheid veiligheidsmiddelen die met vrijstelling wordt toegelaten, staat in een redelijke verhouding tot het maximale aantal bemanningsleden en de grootte van het vissersvaartuig.   
+2.  De hoeveelheid veiligheidsmiddelen die met vrijstelling wordt toegelaten, staat in een redelijke verhouding tot het maximale aantal bemanningsleden en de grootte van het vissersvaartuig.  
 
 ### Afdeling  3.2  
 
@@ -1090,23 +1090,23 @@ b. uit de aard en de hoeveelheid van de goederen geen commerciële bijbedoelinge
 
 ### Artikel  3.9  
 
-De ziekenhuizen, bedoeld in [artikel 3.118, eerste lid, aanhef en onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 11.  
+De ziekenhuizen, bedoeld in [artikel 3.118, eerste lid, aanhef en onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 11. 
 
 ### Artikel  3.10  
 
-Het toeristisch reclamemateriaal, bedoeld in [artikel 3.133, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is opgenomen in de bij deze regeling behorende bijlage 12.  
+Het toeristisch reclamemateriaal, bedoeld in [artikel 3.133, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is opgenomen in de bij deze regeling behorende bijlage 12. 
 
 ### Artikel  3.11  
 
-De welzijnsgoederen voor zeelieden, bedoeld in [artikel 3.135, tweede lid, aanhef en onderdeel a, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 13.  
+De welzijnsgoederen voor zeelieden, bedoeld in [artikel 3.135, tweede lid, aanhef en onderdeel a, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 13. 
 
 ### Artikel  3.12  
 
-De doeleinden voor dieren, bedoeld in [artikel 3.137, eerste lid, aanhef en onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 14.  
+De doeleinden voor dieren, bedoeld in [artikel 3.137, eerste lid, aanhef en onderdeel c, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 14. 
 
 ### Artikel  3.13  
 
-De grote wegen- en andere bouwwerken, bedoeld in [artikel 3.142, eerste lid, aanhef en onderdeel a, onder 2°, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 15.  
+De grote wegen- en andere bouwwerken, bedoeld in [artikel 3.142, eerste lid, aanhef en onderdeel a, onder 2°, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn opgenomen in de bij deze regeling behorende bijlage 15. 
 
 ### Afdeling  3.3  
 
@@ -1118,7 +1118,7 @@ Op de accijns zijn de [artikelen 3.32 tot en met 3.38](../../../../../../../wet-
 
 a. de vrijstelling bedoeld in [artikel 3.45 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) niet geldt voor gedistilleerd dat wordt ingevoerd door reizigers jonger dan 18 jaar;  
 
-b. de vrijstelling bedoeld in [artikel 3.86 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor accijns niet geldt wanneer de uitvoer rechtstreeks vanuit een accijnsgoederenplaats plaatsvond of teruggaaf van accijns is verleend.    
+b. de vrijstelling bedoeld in [artikel 3.86 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) voor accijns niet geldt wanneer de uitvoer rechtstreeks vanuit een accijnsgoederenplaats plaatsvond of teruggaaf van accijns is verleend.   
 
 ### Artikel  3.15  
 
@@ -1133,7 +1133,7 @@ c. de vrijstelling voor in [artikel 3.72, eerste lid, onderdeel b, van de wet](
 d. de vrijstelling voor vis bedoeld in [artikel 3.72, eerste lid, onderdeel i, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), alleen van toepassing is indien de exploitant van een in dat onderdeel bedoeld klein vissersvaartuig na terugkeer van de visvangst met het aanbrengen en verkopen van zijn vangst per kalenderjaar een omzet behaalt exclusief algemene bestedingsbelasting van USD 20.000 of minder; en  
 
 e. de vrijstelling voor in [artikel 3.72, eerste lid, onderdeel p, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), bedoelde verpakkingsmiddelen en andere goederen alleen van toepassing is, voor zover die verpakkingsmiddelen en andere goederen worden ingevoerd om te worden gebruikt bij de uitvoer van goederen of bij wederinvoer van die verpakkingsmiddelen en andere goederen, voor zover bij daaraan voorafgaande invoer algemene bestedingsbelasting ter zake van die invoer verschuldigd is geworden.     
-2.  Voor de toepassing van het eerste lid, aanhef, onderdeel d, dient de exploitant overeenkomstig [artikel 6.22, eerste lid, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) een schriftelijk verzoek in bij de inspecteur waarna dat artikel op hem van overeenkomstige toepassing is.   
+2.  Voor de toepassing van het eerste lid, aanhef, onderdeel d, dient de exploitant overeenkomstig [artikel 6.22, eerste lid, van de Belastingwet BES](../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) een schriftelijk verzoek in bij de inspecteur waarna dat artikel op hem van overeenkomstige toepassing is.  
 
 ### Hoofdstuk  4  
 
@@ -1146,11 +1146,11 @@ e. de vrijstelling voor in [artikel 3.72, eerste lid, onderdeel p, van de wet](
 ### Artikel  4.1  
 
 1.  Het tijdvak waarover de accijns wordt betaald is de kalendermaand.   
-2.  In bijzondere gevallen kan de inspecteur een ander tijdvak aanwijzen waarover de accijns wordt betaald.   
+2.  In bijzondere gevallen kan de inspecteur een ander tijdvak aanwijzen waarover de accijns wordt betaald.  
 
 ### Artikel  4.2  
 
-Degene die bier in geconcentreerde of in vaste vorm uitslaat of invoert, is op verzoek van de inspecteur gehouden alle gegevens te verstrekken die het mogelijk maken op eenvoudige wijze het volume van het bier te herleiden tot het in [artikel 4.10, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) bedoelde volume van voor gebruik gereed bier.  
+Degene die bier in geconcentreerde of in vaste vorm uitslaat of invoert, is op verzoek van de inspecteur gehouden alle gegevens te verstrekken die het mogelijk maken op eenvoudige wijze het volume van het bier te herleiden tot het in [artikel 4.10, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) bedoelde volume van voor gebruik gereed bier. 
 
 ### Artikel  4.3  
 
@@ -1163,7 +1163,7 @@ b. wijn 2.500 L;
 c. overige alcoholhoudende producten 2.500 L;  
 
 d. benzine 2.500 L.     
-2.  De inspecteur kan, onder door hem te stellen voorwaarden, in afwijking van het eerste lid, een vergunning voor een accijnsgoederenplaats verlenen indien de gemiddelde voorraad lager is dan de daar bedoelde hoeveelheden.   
+2.  De inspecteur kan, onder door hem te stellen voorwaarden, in afwijking van het eerste lid, een vergunning voor een accijnsgoederenplaats verlenen indien de gemiddelde voorraad lager is dan de daar bedoelde hoeveelheden.  
 
 ### Artikel  4.4  
 
@@ -1171,7 +1171,7 @@ In afwijking van [artikel 4.23, tweede lid, van de wet](../../../../../../../we
 
 a. plaatsen van waaruit groothandelaren in wijn rechtstreeks aan particulieren verkopen;  
 
-b. plaatsen, gelegen op een luchthaven of op een haventerrein, van waaruit goederen worden meegevoerd in de persoonlijke bagage van een reiziger die zich door de lucht of over zee begeeft naar het buitenland.    
+b. plaatsen, gelegen op een luchthaven of op een haventerrein, van waaruit goederen worden meegevoerd in de persoonlijke bagage van een reiziger die zich door de lucht of over zee begeeft naar het buitenland.   
 
 ### Artikel  4.5  
 
@@ -1183,7 +1183,7 @@ a. de voorgenomen te vervaardigen hoeveelheden; en
 
 b. de tijdstippen waarop de vervaardiging wordt aangevangen en beëindigd.     
 4.  De werkaangifte kan per werkweek geschieden.   
-5.  Indien overige alcoholhoudende producten worden vervaardigd, kan de inspecteur het gebruik van een ambtelijk afgesloten opvangreservoir voorschrijven.   
+5.  Indien overige alcoholhoudende producten worden vervaardigd, kan de inspecteur het gebruik van een ambtelijk afgesloten opvangreservoir voorschrijven.  
 
 ### Artikel  4.6  
 
@@ -1197,7 +1197,7 @@ c. een omschrijving van de administratie en de administratieve organisatie, en h
 
 d. met betrekking tot accijnsgoederenplaatsen waar overige alcoholhoudende producten worden vervaardigd, het aantal en de inhoud van de apparaten waarin de vervaardiging plaatsvindt; en  
 
-e. met betrekking tot accijnsgoederenplaatsen waar bier wordt vervaardigd, het aantal en de inhoud van de bierketels waarin het wort wordt gekookt.    
+e. met betrekking tot accijnsgoederenplaatsen waar bier wordt vervaardigd, het aantal en de inhoud van de bierketels waarin het wort wordt gekookt.   
 
 ### Afdeling  4.2  
 
@@ -1211,7 +1211,7 @@ a. de administratie van de desbetreffende accijnsgoederenplaatsen op één centr
 
 b. de centrale administratie en de administratieve organisatie van de desbetreffende accijnsgoederenplaatsen zodanig is dat het toezicht op de heffing is gewaarborgd en uit de administratie op duidelijke wijze blijkt op welke accijnsgoederenplaats de onderscheiden posten van die aangifte betrekking hebben.     
 2.  De toestemming voor toepassing van het eerste lid wordt opgenomen in de vergunningen voor de desbetreffende accijnsgoederenplaatsen. Daarbij kunnen aanvullende voorwaarden worden opgenomen over het doen van de verzamelaangifte en de wijze waarop de administratie en de administratieve organisatie van de desbetreffende accijnsgoederenplaatsen zijn ingericht.   
-3.  Op de toestemming zijn de [artikelen 4.26 tot en met 4.33 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.   
+3.  Op de toestemming zijn de [artikelen 4.26 tot en met 4.33 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) van overeenkomstige toepassing.  
 
 ### Afdeling  4.3  
 
@@ -1231,7 +1231,7 @@ c. gemiddeld in een aangiftetijdvak wordt overgebracht naar een andere accijnsgo
 d. gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit het buitenland, vanuit een douane-entrepot of een handels- en dienstenentrepot dan wel vanuit een plaats voor tijdelijke opslag wordt overgebracht naar de accijnsgoederenplaats.     
 3.  Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in [artikel 4.54, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), van het bedrag aan accijns dat aangevraagde accijnszegels vertegenwoordigen, is het accijnsbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.   
 4.  Indien op grond van artikel 4.7 toestemming is verleend voor het doen van één aangifte voor twee of meer accijnsgoederenplaatsen worden de afzonderlijke zekerheidstellingen voor de desbetreffende accijnsgoederenplaatsen vervangen door één zekerheid die voor die accijnsgoederenplaatsen tezamen van toepassing is. Het hierbij in acht te nemen accijnsbelang wordt gevormd door het totale accijnsbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende accijnsgoederenplaatsen is vastgesteld.   
-5.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van USD 6.500.000.   
+5.  De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van USD 6.500.000.  
 
 ### Afdeling  4.3A  
 
@@ -1239,7 +1239,7 @@ d. gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit het buitenla
 
 ### Artikel  4.9  
 
-De vrijstelling van accijns, bedoeld in [artikel 4.50, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is uitsluitend van toepassing op ethylalcohol en andere alcoholhoudende producten als bedoeld in [artikel 4.13, onderdelen a en d, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) die zijn vermengd op een wijze als is omschreven in [bijlage A.2 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md).  
+De vrijstelling van accijns, bedoeld in [artikel 4.50, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is uitsluitend van toepassing op ethylalcohol en andere alcoholhoudende producten als bedoeld in [artikel 4.13, onderdelen a en d, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) die zijn vermengd op een wijze als is omschreven in [bijlage A.2 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md). 
 
 ### Artikel  4.9a  
 
@@ -1261,7 +1261,7 @@ g. de hoeveelheid benzine die is geleverd;
 
 h. de naam en de handtekening van de eigenaar of de exploitant van het schip of het luchtvaartuig of van diens vertegenwoordiger aan boord van het schip of het luchtvaartuig;  
 
-i. in geval van aflevering uit een schip, de naam en het registratienummer van het schip vanwaaruit is afgeleverd.    
+i. in geval van aflevering uit een schip, de naam en het registratienummer van het schip vanwaaruit is afgeleverd.   
 
 ### Afdeling  4.3B  
 
@@ -1274,11 +1274,11 @@ i. in geval van aflevering uit een schip, de naam en het registratienummer van h
 3.  Degene die verzoekt om teruggaaf van accijns neemt in zijn administratie de aankoopfacturen van de desbetreffende accijnsgoederen op alsmede alle andere bescheiden die in verband met het verzoek om teruggaaf zijn vereist.   
 4.  De administratie van degene die verzoekt om teruggaaf van accijns is voorts zodanig ingericht, dat daarin op overzichtelijke wijze alle van belang zijnde gegevens zijn opgenomen voor de beoordeling van het bedrag van de teruggaaf.   
 5.  Voor zover teruggaaf van accijns wordt gevraagd voor sigaretten die naar een plaats buiten de BES eilanden worden gebracht, worden de accijnszegels van deze sigaretten op een door de inspecteur te bepalen wijze door belanghebbende onbruikbaar gemaakt.   
-6.  Teruggaaf van accijns wordt alleen verleend indien het bedrag aan accijns per uitvoerzending ten minste USD 200 bedraagt.   
+6.  Teruggaaf van accijns wordt alleen verleend indien het bedrag aan accijns per uitvoerzending ten minste USD 200 bedraagt.  
 
 ### Artikel  4.9c  
 
-Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is artikel 4.9a van overeenkomstige toepassing.  
+Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), is artikel 4.9a van overeenkomstige toepassing. 
 
 ### Afdeling  4.4  
 
@@ -1287,19 +1287,19 @@ Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en on
 ### Artikel  4.10  
 
 1.  Sigaren, cigarillo’s en rooktabak behoeven bij de uitslag en invoer niet te zijn voorzien van accijnszegels.   
-2.  Tabaksproducten die door reizigers voor eigen behoeften als bagage worden meegenomen vanuit het buitenland, behoeven niet te zijn voorzien van accijnszegels.   
+2.  Tabaksproducten die door reizigers voor eigen behoeften als bagage worden meegenomen vanuit het buitenland, behoeven niet te zijn voorzien van accijnszegels.  
 
 ### Artikel  4.11  
 
 1.  Indien een vergunninghouder van een accijnsgoederenplaats voor tabaksproducten accijnszegels aanvraagt voor tabaksproducten die buiten Bonaire van die zegels worden voorzien, houdt hij daarvan afzonderlijk aantekening in zijn administratie.   
 2.  De accijnszegels bestemd om te worden aangebracht op de verpakking van tabaksproducten worden met kleefstof geheel op de verpakking bevestigd en wel zodanig dat de verpakking op de voor opening bestemde plaats of plaatsen niet kan worden geopend zonder dat de accijnszegels worden gescheurd of doorgesneden.   
 3.  De verpakking van tabaksproducten omvat de inhoud geheel. De verpakking kan zonder beschadiging niet anders worden geopend dan op ten hoogste twee daarvoor bestemde en duidelijk herkenbare plaatsen. Het materiaal van de verpakking op de plaats waar het accijnszegel wordt bevestigd, is zodanig dat een duurzame bevestiging wordt verkregen.   
-4.  De verpakking mag geen andere voorwerpen bevatten dan tabaksproducten. Evenmin mag de verpakking zodanig van aard en vorm zijn dat daarmee ook een later gebruik voor andere doeleinden wordt beoogd.   
+4.  De verpakking mag geen andere voorwerpen bevatten dan tabaksproducten. Evenmin mag de verpakking zodanig van aard en vorm zijn dat daarmee ook een later gebruik voor andere doeleinden wordt beoogd.  
 
 ### Artikel  4.12  
 
 1.  Op verzoek van degene die de accijnszegels heeft aangevraagd, worden accijnszegels die zijn beschadigd of al zijn aangebracht op de verpakkingen die de accijnsgoederenplaats nog niet hebben verlaten, onder ambtelijk toezicht vernietigd.   
-2.  Het eerste lid is ook van toepassing op tabaksproducten die zijn uitgeslagen uit de accijnsgoederenplaats of zijn ingevoerd, indien de tabaksproducten door degene die de accijnszegels heeft aangevraagd, zijn teruggenomen.   
+2.  Het eerste lid is ook van toepassing op tabaksproducten die zijn uitgeslagen uit de accijnsgoederenplaats of zijn ingevoerd, indien de tabaksproducten door degene die de accijnszegels heeft aangevraagd, zijn teruggenomen.  
 
 ### Artikel  4.13  
 
@@ -1320,11 +1320,11 @@ b. binnen een maand na het tijdstip van het verloren gaan; of
 c. gelijktijdig met het verzoek tot het onder ambtelijk toezicht vernietigen.     
 4.  Degene die de accijnszegels heeft aangevraagd, doet van het verloren gaan van de accijnszegels onverwijld mededeling aan de inspecteur onder opgaaf van het tijdstip, de plaats en de oorzaak van het verloren gaan.   
 5.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
-6.  Voor accijnszegels die zijn beschadigd of verloren zijn gegaan, vindt teruggaaf slechts plaats voor zover het bedrag van de accijns met zekerheid is vast te stellen.   
+6.  Voor accijnszegels die zijn beschadigd of verloren zijn gegaan, vindt teruggaaf slechts plaats voor zover het bedrag van de accijns met zekerheid is vast te stellen.  
 
 ### Artikel  4.14  
 
-Tegen overlegging van de in artikel 4.13, vijfde lid, bedoelde beschikking aan de inspecteur door wiens bemiddeling de accijnszegels zijn aangevraagd, wordt, indien degene die de accijnszegels heeft aangevraagd op de voet van [artikel 4.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan accijns, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post; in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.  
+Tegen overlegging van de in artikel 4.13, vijfde lid, bedoelde beschikking aan de inspecteur door wiens bemiddeling de accijnszegels zijn aangevraagd, wordt, indien degene die de accijnszegels heeft aangevraagd op de voet van [artikel 4.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan accijns, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post; in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger. 
 
 ### Afdeling  4.5  
 
@@ -1344,15 +1344,15 @@ c. de naam, het adres en de hoedanigheid van de ontbieder en de plaats waar het 
 
 d. de soort van de accijnsgoederen naar de onderscheidingen van de [wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) en de hoeveelheid van de accijnsgoederen; en  
 
-e. de merken en nummers, aantal en soort van de verpakkingen.     
+e. de merken en nummers, aantal en soort van de verpakkingen.    
 
 ### Artikel  4.16  
 
-Op het in [artikel 3.9 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is artikel 4.15 van overeenkomstige toepassing.  
+Op het in [artikel 3.9 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is artikel 4.15 van overeenkomstige toepassing. 
 
 ### Artikel  4.16a  
 
-Ten behoeve van een onderzoek als bedoeld in [artikel 4.61, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) is de [Regeling vordering tot stilhouden Belastingdienst/Caribisch Nederland](../../../../../../../ministeriele-regeling/regeling/vordering/tot/stilhouden/belastingdienstcaribisch/nederland/BWBR0029045/README.md) van toepassing.  
+Ten behoeve van een onderzoek als bedoeld in [artikel 4.61, tweede lid, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) is de [Regeling vordering tot stilhouden Belastingdienst/Caribisch Nederland](../../../../../../../ministeriele-regeling/regeling/vordering/tot/stilhouden/belastingdienstcaribisch/nederland/BWBR0029045/README.md) van toepassing. 
 
 ### Artikel  4.16b  
 
@@ -1363,11 +1363,11 @@ a. genomen onder toezicht van de inspecteur of een door hem aangewezen ambtenaar
 b. zodanig verpakt, dat de identiteit van het monster is gewaarborgd; en  
 
 c. onderzocht in een door de Belastingdienst aangewezen laboratorium met gebruikmaking van internationaal erkende onderzoeksmethoden.     
-2.  Ter zake van het onderzoek van goederen en het nemen van monsters is artikel 2.35, behoudens het tweede, achtste en negende lid, van overeenkomstige toepassing.   
+2.  Ter zake van het onderzoek van goederen en het nemen van monsters is artikel 2.35, behoudens het tweede, achtste en negende lid, van overeenkomstige toepassing.  
 
 ### Artikel  4.17  
 
-Als distilleertoestellen als bedoeld in [artikel 4.66 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) worden aangewezen de in [bijlage A.3 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md) omschreven toestellen.  
+Als distilleertoestellen als bedoeld in [artikel 4.66 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) worden aangewezen de in [bijlage A.3 bij de Uitvoeringsregeling accijns](../../../../../../../ministeriele-regeling/uitvoeringsregeling/accijns/BWBR0005355/README.md) omschreven toestellen. 
 
 ### Hoofdstuk  5  
 
@@ -1376,7 +1376,7 @@ Als distilleertoestellen als bedoeld in [artikel 4.66 van de wet](../../../../.
 ### Artikel  5.1  
 
 1.  In een handels- en dienstenentrepot mogen geen goederen aanwezig zijn waarvoor een in-, uit- of doorvoerverbod geldt, tenzij ontheffing van dat verbod is verleend.   
-2.  [Artikel 2.43 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) is van overeenkomstige toepassing.   
+2.  [Artikel 2.43 van het besluit](../../../../../../../AMvB-BES/uitvoeringsbesluit/douane-/en/accijnswet/bes/BWBR0029262/README.md) is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  6  
 
@@ -1385,12 +1385,12 @@ Als distilleertoestellen als bedoeld in [artikel 4.66 van de wet](../../../../.
 ### Artikel  6.1  
 
 1.  Deze regeling treedt in werking op het tijdstip waarop de [wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) in werking treedt.   
-2.  Deze regeling wordt aangehaald als: Uitvoeringsregeling Douane- en Accijnswet BES.   
+2.  Deze regeling wordt aangehaald als: Uitvoeringsregeling Douane- en Accijnswet BES.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers  
+Staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
 ####Bijlagen
 
@@ -1398,15 +1398,15 @@ De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4
 
 ### Bijlage  1  
 
-*Model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde, bedoeld in artikel 2.4, eerste lid, van de regeling*    ![248408](http://wetten.overheid.nl/Illustration/248408)
+*Model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde, bedoeld in artikel 2.4, eerste lid, van de regeling*  ![248408](http://wetten.overheid.nl/Illustration/248408)
 
 ### Bijlage  2  
 
-*Model van het formulier voor de aanvullende lijst D.V. 1 – BIS, bedoeld in artikel 2.4, tweede lid, van de regeling*    ![248409](http://wetten.overheid.nl/Illustration/248409)
+*Model van het formulier voor de aanvullende lijst D.V. 1 – BIS, bedoeld in artikel 2.4, tweede lid, van de regeling*  ![248409](http://wetten.overheid.nl/Illustration/248409)
 
 ### Bijlage  3  
 
-*Model van het formulier enig document: basisset (kantoorexemplaar) en bislijst, bedoeld in artikel 2.5 van de regeling*    ![248410](http://wetten.overheid.nl/Illustration/248410)
+*Model van het formulier enig document: basisset (kantoorexemplaar) en bislijst, bedoeld in artikel 2.5 van de regeling*  ![248410](http://wetten.overheid.nl/Illustration/248410)
 ![248411](http://wetten.overheid.nl/Illustration/248411)
 
 ### Bijlage  4a  

@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inburgering.   
+Wijzigt de Wet inburgering. 
 
 ### Artikel  II  
 
-Wijzigt de Wet participatiebudget.   
+Wijzigt de Wet participatiebudget. 
 
 ### Artikel  IV  
 
-Het bepaalde bij of krachtens de [artikelen 7, eerste lid](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), en [31, tweede lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die bepalingen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen C en Ia, van deze wet, blijft van toepassing ten aanzien van de termijnen voor het behalen van het inburgeringsexamen die vóór dat tijdstip zijn aangevangen, respectievelijk ten aanzien van de verlenging van die termijnen.  
+Het bepaalde bij of krachtens de [artikelen 7, eerste lid](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), en [31, tweede lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die bepalingen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen C en Ia, van deze wet, blijft van toepassing ten aanzien van de termijnen voor het behalen van het inburgeringsexamen die vóór dat tijdstip zijn aangevangen, respectievelijk ten aanzien van de verlenging van die termijnen. 
 
 ### Artikel  V  
 
-Na de inwerkingtreding van artikel I, onderdeel E, van deze wet berust het [Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) mede op [artikel 19, vierde lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en op [artikel 15, tweede lid, van de Wet participatiebudget](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md).  
+Na de inwerkingtreding van artikel I, onderdeel E, van deze wet berust het [Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) mede op [artikel 19, vierde lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en op [artikel 15, tweede lid, van de Wet participatiebudget](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md). 
 
 ### Artikel  VI  
 
@@ -31,18 +31,18 @@ Na de inwerkingtreding van artikel I, onderdeel E, van deze wet berust het [Besl
 2.  Artikel I, onderdeel B, werkt terug tot en met 27 juni 2008.   
 3.  Artikel I, onderdelen Ca en Ga, werkt terug tot en met 1 september 2008.   
 4.  Artikel I, onderdelen F en I, werkt terug tot en met 31 december 2008.   
-5.  Artikel I, onderdelen A, onder 2a, en J, werkt terug tot en met 1 januari 2009.   
+5.  Artikel I, onderdelen A, onder 2a, en J, werkt terug tot en met 1 januari 2009.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 3 december 2009  
 Beatrix  
 
-De Minister voor Wonen, Wijken en Integratie, 
-E. E. van derLaan 
+De Minister voor Wonen, Wijken en Integratie , 
+E. E. van der Laan   
 
 de *achttiende* december 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
