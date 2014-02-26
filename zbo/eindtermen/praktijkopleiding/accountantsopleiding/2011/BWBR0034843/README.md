@@ -6,12 +6,12 @@
 
 ####Inleiding
 
-Dit rapport bevat de eindtermen voor het praktijkdeel (hierna praktijkopleiding) van de opleiding tot accountant-administratieconsulent en registeraccountant, zoals vastgesteld door de Commissie Eindtermen Accountantsopleiding op 19 juli 2010. Nadere informatie over het tijdstip en de termijn van invoering wordt afzonderlijk aan de beroepsorganisatie verstrekt. <sup> 1  Het betreft hier de praktijkstage zoals geregeld in artikel 47 Wab.  </sup>   
+Dit rapport bevat de eindtermen voor het praktijkdeel<sup> 1 Het betreft hier de praktijkstage zoals geregeld in artikel 47 Wab. </sup> (hierna praktijkopleiding) van de opleiding tot accountant-administratieconsulent en registeraccountant, zoals vastgesteld door de Commissie Eindtermen Accountantsopleiding op 19 juli 2010. Nadere informatie over het tijdstip en de termijn van invoering wordt afzonderlijk aan de beroepsorganisatie verstrekt.   
 ### 1.1  
 
 ####Positionering eindtermen accountantsopleiding
 
-Als gevolg van de invoering van de Wet toezicht accountantsorganisaties (Wta) per 1 oktober 2006 is de Commissie Eindtermen Accountantsopleiding (CEA) ingesteld.CEA heeft onder meer tot taak het vaststellen van de (theoretische en praktijk) eindtermen van de accountantsopleidingen in Nederland. Daarnaast wijst CEA opleidingen aan die geheel of gedeeltelijk voldoen aan de eindtermen en toetst zij de mate waarin aan de eindtermen van de praktijkopleiding wordt voldaan. De Wta regelt het toezicht op accountantsorganisaties en individuele accountants die wettelijke controles uitvoeren. Met dit toezicht beoogt de wetgever het vertrouwen in de accountant en de kwaliteit van de door hem ten behoeve van het publiek gegeven verklaringen te borgen. Naast het toezicht op het functioneren van accountantsorganisaties en accountants is bij invoering van deze wet ook het toezicht op de accountantsopleidingen in Nederland herzien. <sup> 2  Voor de leesbaarheid is gekozen voor de mannelijke vorm. Waar ‘hij’ staat kan ook ‘zij’ gelezen worden.  </sup> De opleiding tot accountant-administratieconsulent (AA) en registeraccountant (RA) bestaat uit een theoretische opleiding en een praktijkopleiding. Een kandidaat kan alleen ingeschreven worden in het register van de Nederlandse Beroepsorganisatie van Accountants (NBA), voorheen NOvAA en NIVRA, als hij een opleiding heeft gevolgd, waarbij moet zijn voldaan aan de door CEA vastgestelde eindtermen. De eindtermen vormen vervolgens de norm om de kwaliteit van de accountantsopleiding vorm te geven en te bewaken. <sup> 3  Per 1 januari 2013 is de Wet op het Accountantsberoep (Wab) ingevoerd en zijn beide beroepsorganisaties NIVRA en NOvAA gefuseerd als de NBA.  </sup>    
+Als gevolg van de invoering van de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) (Wta) per 1 oktober 2006 is de Commissie Eindtermen Accountantsopleiding (CEA) ingesteld.CEA heeft onder meer tot taak het vaststellen van de (theoretische en praktijk) eindtermen van de accountantsopleidingen in Nederland. Daarnaast wijst CEA opleidingen aan die geheel of gedeeltelijk voldoen aan de eindtermen en toetst zij de mate waarin aan de eindtermen van de praktijkopleiding wordt voldaan. De [Wta](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) regelt het toezicht op accountantsorganisaties en individuele accountants die wettelijke controles uitvoeren. Met dit toezicht beoogt de wetgever het vertrouwen in de accountant en de kwaliteit van de door hem<sup> 2 Voor de leesbaarheid is gekozen voor de mannelijke vorm. Waar ‘hij’ staat kan ook ‘zij’ gelezen worden. </sup> ten behoeve van het publiek gegeven verklaringen te borgen. Naast het toezicht op het functioneren van accountantsorganisaties en accountants is bij invoering van deze wet ook het toezicht op de accountantsopleidingen in Nederland herzien. De opleiding tot accountant-administratieconsulent (AA) en registeraccountant (RA) bestaat uit een theoretische opleiding en een praktijkopleiding. Een kandidaat kan alleen ingeschreven worden in het register van de Nederlandse Beroepsorganisatie van Accountants<sup> 3 Per 1 januari 2013 is de Wet op het Accountantsberoep (Wab) ingevoerd en zijn beide beroepsorganisaties NIVRA en NOvAA gefuseerd als de NBA. </sup> (NBA), voorheen NOvAA en NIVRA, als hij een opleiding heeft gevolgd, waarbij moet zijn voldaan aan de door CEA vastgestelde eindtermen. De eindtermen vormen vervolgens de norm om de kwaliteit van de accountantsopleiding vorm te geven en te bewaken.    
 ### 1.2  
 
 ####Verantwoording totstandkoming eindtermen
@@ -54,7 +54,7 @@ Het primaire doel van de praktijkopleiding is dat studenten in de praktijk vaard
 
 ####Leeswijzer rapport
 
-Hoofdstuk 2 beschrijft de kaders waarbinnen aan de eindtermen moet worden voldaan. Dit hoofdstuk gaat in op het niveau waarop de eindtermen moeten worden gerealiseerd en aan welke kwantitatieve eisen moet worden voldaan. In hoofdstuk 3 staan de eindtermen voor de jaarrekeningcontrole centraal. Deze eindtermen zijn gebaseerd op het Assurance Framework, zoals uitgewerkt in de HRA . Voor de beschrijving van de eindtermen voor de jaarrekeningcontrole wordt de controlecyclus gevolgd. Deze eindtermen zijn voor beide praktijkopleidingen van toepassing. <sup> 4  HRA: Handboek Regelgeving Accountancy (Deel 1)  </sup> Veel trainees verrichten naast controlewerkzaamheden ook andere werkzaamheden. Hierbij kan gedacht worden aan beoordelingsopdrachten, samenstelopdrachten en overeengekomen specifieke werkzaamheden. In hoofdstuk 4 wordt een aantal eindtermen gepresenteerd met betrekking tot deze opdrachten. Deze eindtermen komen naar hun aard overeen met die van de jaarrekeningcontrole (hoofdstuk 3). De eindtermen uit hoofdstuk 4 kunnen tot op zekere hoogte (zie paragraaf 2.9) als compenserende eindtermen kwalificeren voor de eindtermen die betrekking hebben op de jaarrekeningcontrole. Hoofdstuk 5 bevat eindtermen die alleen op de praktijkopleiding AA van toepassing zijn. AA-trainees zijn veelal werkzaam in het midden- en kleinbedrijf. Als gevolg hiervan zijn voor hen de mogelijkheden om controlewerkzaamheden te verrichten beperkt. De samenstelwerkzaamheden die zij verrichten, kunnen ondersteunend zijn aan de controlewerkzaamheden die zij in het kader van hun praktijkopleiding moeten verrichten. Daarnaast kan er op onderdelen sprake zijn van gelijksoortige werkzaamheden. Vanwege het ondersteunende karakter, de mogelijkheid van compensatie en het maatschappelijk belang, is voor de praktijkopleiding AA een apart hoofdstuk met eindtermen voor de samenstelcyclus opgenomen. Deze eindtermen zijn niet van toepassing op de praktijkopleiding RA. De eindtermen die betrekking hebben op de (communicatieve) vaardigheden en de professionele beroepshouding zijn uitgewerkt in hoofdstuk 6. Deze eindtermen zijn van toepassing op beide praktijkopleidingen. Hoofdstuk 7 tenslotte bevat de aanvullende eindtermen die alleen van toepassing zijn voor de praktijkopleiding AA.     
+Hoofdstuk 2 beschrijft de kaders waarbinnen aan de eindtermen moet worden voldaan. Dit hoofdstuk gaat in op het niveau waarop de eindtermen moeten worden gerealiseerd en aan welke kwantitatieve eisen moet worden voldaan. In hoofdstuk 3 staan de eindtermen voor de jaarrekeningcontrole centraal. Deze eindtermen zijn gebaseerd op het Assurance Framework, zoals uitgewerkt in de HRA<sup> 4 HRA: Handboek Regelgeving Accountancy (Deel 1) </sup>. Voor de beschrijving van de eindtermen voor de jaarrekeningcontrole wordt de controlecyclus gevolgd. Deze eindtermen zijn voor beide praktijkopleidingen van toepassing. Veel trainees verrichten naast controlewerkzaamheden ook andere werkzaamheden. Hierbij kan gedacht worden aan beoordelingsopdrachten, samenstelopdrachten en overeengekomen specifieke werkzaamheden. In hoofdstuk 4 wordt een aantal eindtermen gepresenteerd met betrekking tot deze opdrachten. Deze eindtermen komen naar hun aard overeen met die van de jaarrekeningcontrole (hoofdstuk 3). De eindtermen uit hoofdstuk 4 kunnen tot op zekere hoogte (zie paragraaf 2.9) als compenserende eindtermen kwalificeren voor de eindtermen die betrekking hebben op de jaarrekeningcontrole. Hoofdstuk 5 bevat eindtermen die alleen op de praktijkopleiding AA van toepassing zijn. AA-trainees zijn veelal werkzaam in het midden- en kleinbedrijf. Als gevolg hiervan zijn voor hen de mogelijkheden om controlewerkzaamheden te verrichten beperkt. De samenstelwerkzaamheden die zij verrichten, kunnen ondersteunend zijn aan de controlewerkzaamheden die zij in het kader van hun praktijkopleiding moeten verrichten. Daarnaast kan er op onderdelen sprake zijn van gelijksoortige werkzaamheden. Vanwege het ondersteunende karakter, de mogelijkheid van compensatie en het maatschappelijk belang, is voor de praktijkopleiding AA een apart hoofdstuk met eindtermen voor de samenstelcyclus opgenomen. Deze eindtermen zijn niet van toepassing op de praktijkopleiding RA. De eindtermen die betrekking hebben op de (communicatieve) vaardigheden en de professionele beroepshouding zijn uitgewerkt in hoofdstuk 6. Deze eindtermen zijn van toepassing op beide praktijkopleidingen. Hoofdstuk 7 tenslotte bevat de aanvullende eindtermen die alleen van toepassing zijn voor de praktijkopleiding AA.     
 ### 2  
 
 ####Randvoorwaarden voor de praktijkopleiding
@@ -110,14 +110,14 @@ De opleidingstrajecten moeten er aan bijdragen dat de afgestudeerden aan de eind
 
 ####Verantwoording inhoud eindtermen
 
-De eindtermen zijn voor het overgrote deel gebaseerd op artikelen uit de Nadere Voorschriften Controle- en Overige Standaarden (NV COS). Ook andere regelgeving is gebruikt om tot de formulering van eindtermen te komen, bijvoorbeeld de Wet Toezicht Accountantsorganisaties (WTA), het Besluit toezicht Accountantsorganisaties (Bta), de Verordening Gedrags- en Beroepsregels Accountants (hierna VGBA), de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en de Verordening Accountantsorganisaties (VAO).    
+De eindtermen zijn voor het overgrote deel gebaseerd op artikelen uit de Nadere Voorschriften Controle- en Overige Standaarden (NV COS). Ook andere regelgeving is gebruikt om tot de formulering van eindtermen te komen, bijvoorbeeld de [Wet Toezicht Accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) (WTA), het [Besluit toezicht Accountantsorganisaties](../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md) (Bta), de [Verordening Gedrags- en Beroepsregels Accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) (hierna VGBA), de [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md) (ViO) en de [Verordening Accountantsorganisaties](../../../../../../pbo/verordening/accountantsorganisaties/BWBR0022680/README.md) (VAO).    
 ### 2.9  
 
 ####Kwantitatieve eisen
 
 Voor de toetsbaarheid van de eindtermen zijn kwantificeerbare eisen geformuleerd. Door oefening, herhaling en opbouw in complexiteit dienen de eindtermen behaald te worden. Bij het formuleren van kwantitatieve eisen is rekening gehouden met de uiteenlopende werkomgevingen waarin trainees werkzaam kunnen zijn. Daarbij wordt er van uitgegaan dat de trainee gedurende de praktijkopleiding werkzaamheden binnen verschillende typen ondernemingen verricht. Vooralsnog lopen de kwantitatieve eisen voor de praktijkopleiding AA en de praktijkopleiding RA uiteen. Dat wordt verklaard door de verschillende segmenten in de markt waarvoor de beroepsorganisatie opleidt. Het AA-opleidingstraject richt zich sterk op het midden- en kleinbedrijf. Het RA-opleidingstraject daarentegen is meer expliciet op controlewerkzaamheden gericht. Met betrekking tot de jaarrekeningcontrole voor de praktijkopleidingen wordt eenzelfde set met eindtermen gehanteerd. Er zijn voorts eindtermen voor de samenstel- en beoordelingswerkzaamheden en voor overeengekomen specifieke werkzaamheden die naar hun aard overlappen met de eindtermen voor de jaarrekeningcontrole. Deze overlappende eindtermen (zie hoofdstuk 4) mogen in beide opleidingstrajecten tot op zekere hoogte als compensatie voor de eindtermen voor de jaarrekeningcontrole gebruikt worden. De kwantitatieve eisen voor de praktijkopleiding AA en de praktijkopleiding RA zijn als volgt. 
 
-* Voor de praktijkopleiding AA De praktijkopleiding voor de AA-trainees duurt 3 jaren. Trainees in de praktijkopleiding AA moeten tijdens hun praktijkopleiding minimaal twee controleopdrachten (jaarrekeningcontroles) op het niveau van de beginnend beroepsbeoefenaar uitvoeren. Ten aanzien van deze controleopdrachten kan geen compensatie met andere werkzaamheden plaatsvinden. Daarnaast is het voor AA-trainees verplicht twee samenstelopdrachten uit te voeren op het niveau van een beginnend beroepsbeoefenaar. Diverse werkzaamheden binnen de samenstelpraktijk kunnen gezien worden als ondersteunende oefening voor de werkzaamheden in de controlepraktijk. Een deel van de samenstelwerkzaamheden is gelijkvormig aan de controlewerkzaamheden, waardoor tot op zekere hoogte sprake kan zijn van compensatie (zie ook toelichting in paragraaf 2.2 over welke werkzaamheden in ieder geval bij de controleopdrachten uitgevoerd moeten worden). In hoofdstuk 5 is voor de samenstelwerkzaamheden een aparte set eindtermen opgenomen. Daar waar mogelijk, zijn deze eindtermen op dezelfde wijze geformuleerd als de eindtermen voor de controlepraktijk in hoofdstuk 3. Gedurende de praktijkopleiding dient de trainee tenminste 1.000 uren aan voornoemde controle- en samenstelwerkzaamheden te besteden. AA-trainees die tijdens hun praktijkopleiding geen samenstelwerkzaamheden verrichten, moeten voldoen aan de eis die geldt voor de RA-trainees (1.000 controle-uren) . <sup> 5  Voor trainees die binnen hun eigen organisatie geen (geschikte) controleopdrachten kunnen verrichten, kan de beroepsorganisatie -onder door de CEA te stellen voorwaarden- de mogelijkheid bieden van het uitvoeren van jaarrekeningcontroles in een simulatieomgeving (simulatie-opdracht).  </sup>  
+* Voor de praktijkopleiding AA De praktijkopleiding voor de AA-trainees duurt 3 jaren. Trainees in de praktijkopleiding AA moeten tijdens hun praktijkopleiding minimaal twee controleopdrachten (jaarrekeningcontroles) op het niveau van de beginnend beroepsbeoefenaar uitvoeren. Ten aanzien van deze controleopdrachten kan geen compensatie met andere werkzaamheden plaatsvinden. Daarnaast is het voor AA-trainees verplicht twee samenstelopdrachten uit te voeren op het niveau van een beginnend beroepsbeoefenaar. Diverse werkzaamheden binnen de samenstelpraktijk kunnen gezien worden als ondersteunende oefening voor de werkzaamheden in de controlepraktijk. Een deel van de samenstelwerkzaamheden is gelijkvormig aan de controlewerkzaamheden, waardoor tot op zekere hoogte sprake kan zijn van compensatie (zie ook toelichting in paragraaf 2.2 over welke werkzaamheden in ieder geval bij de controleopdrachten uitgevoerd moeten worden). In hoofdstuk 5 is voor de samenstelwerkzaamheden een aparte set eindtermen opgenomen. Daar waar mogelijk, zijn deze eindtermen op dezelfde wijze geformuleerd als de eindtermen voor de controlepraktijk in hoofdstuk 3. Gedurende de praktijkopleiding dient de trainee tenminste 1.000 uren aan voornoemde controle- en samenstelwerkzaamheden te besteden. AA-trainees die tijdens hun praktijkopleiding geen samenstelwerkzaamheden verrichten, moeten voldoen aan de eis die geldt voor de RA-trainees (1.000 controle-uren)<sup> 5 Voor trainees die binnen hun eigen organisatie geen (geschikte) controleopdrachten kunnen verrichten, kan de beroepsorganisatie -onder door de CEA te stellen voorwaarden- de mogelijkheid bieden van het uitvoeren van jaarrekeningcontroles in een simulatieomgeving (simulatie-opdracht). </sup>.  
 
 * Voor de praktijkopleiding RA De praktijkopleiding voor de RA-trainees duurt 3 jaren. De minimale tijdsbesteding van een RA-trainee, aan in het kader van de praktijkopleiding te verrichten werkzaamheden, bedraagt 500 uren per semester. Trainees in de praktijkopleiding RA dienen tijdens hun praktijkopleiding minimaal 1.000 uren te besteden aan controlewerkzaamheden.   Trainees die binnen hun eigen organisatie geen (geschikte) controleopdrachten (jaarrekeningcontroles) op het niveau van de beginnend beroepsbeoefenaar kunnen verrichten, kunnen eventueel gebruik maken van een buitenstage (dit is een opleidingsplek buiten de eigen organisatie).     
 ### 3  
@@ -141,7 +141,7 @@ In dit hoofdstuk wordt een inhoudelijke beschrijving van de eindtermen voor de j
 
 ####Eindtermen met betrekking tot alle fasen
 
-1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de VGBA goed toe te passen.  
+1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) goed toe te passen.  
 
 2. De trainee is in staat om de werkzaamheden uit te voeren en te documenteren overeenkomstig de geldende voorschriften.      
 ### 3.3  
@@ -245,7 +245,7 @@ In de planningsfase wordt de strategie (het ‘aanvalsplan’) van de uitvoering
 
 De uitvoeringsfase bestaat uit de volgende hoofdactiviteiten: 
 
-o Systeemgerichte werkzaamheden: 
+o  Systeemgerichte werkzaamheden: 
 
 – Het inventariseren en beoordelen van de opzet van de interne beheersingsmaatregelen (AO/IB).  
 
@@ -253,7 +253,7 @@ o Systeemgerichte werkzaamheden:
 
 – Het toetsen van de effectieve werking van de interne beheersingsmaatregelen.    
 
-o Gegevensgerichte werkzaamheden: De gegevensgerichte werkzaamheden kunnen bestaan uit gegevensgerichte cijferbeoordeling en uit detailcontroles. De trainee geeft blijk van het kunnen hanteren van verschillende technieken bij de uitvoering van de detailcontroles (controle met bewijsstukken, waarnemingen ter plaatse, informatie van de gecontroleerde etc.). De resultaten van de uitvoeringsfase kunnen aanleiding geven tot aanpassing van de controleaanpak. De trainee evalueert de uiteindelijke resultaten in de afrondingsfase.      
+o  Gegevensgerichte werkzaamheden: De gegevensgerichte werkzaamheden kunnen bestaan uit gegevensgerichte cijferbeoordeling en uit detailcontroles. De trainee geeft blijk van het kunnen hanteren van verschillende technieken bij de uitvoering van de detailcontroles (controle met bewijsstukken, waarnemingen ter plaatse, informatie van de gecontroleerde etc.). De resultaten van de uitvoeringsfase kunnen aanleiding geven tot aanpassing van de controleaanpak. De trainee evalueert de uiteindelijke resultaten in de afrondingsfase.      
 ### 3.5.2  
 
 ####Eindtermen uitvoeringsfase
@@ -377,7 +377,7 @@ De eindtermen in het vorige hoofdstuk betreffen de controle van jaarrekeningen. 
 
 ####Eindtermen ‘Opdrachten tot het beoordelen van historische financiële overzichten’
 
-1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de VGBA goed toe te passen.  
+1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) goed toe te passen.  
 
 2. De trainee geeft er blijk van dat hij/zij bij het plannen van de opdracht de karakteristieken en dergelijke van de entiteit adequaat in zijn of haar voorbereiding betrekt.  
 
@@ -400,7 +400,7 @@ De eindtermen in het vorige hoofdstuk betreffen de controle van jaarrekeningen. 
 
 ####Eindtermen ‘Opdrachten tot het samenstellen van financiële overzichten’
 
-1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de VGBA goed toe te passen.  
+1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) goed toe te passen.  
 
 2. De trainee is in staat om een juiste opdrachtbevestiging samen te stellen.  
 
@@ -423,7 +423,7 @@ De eindtermen in het vorige hoofdstuk betreffen de controle van jaarrekeningen. 
 
 ####Eindtermen ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie’
 
-1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de VGBA goed toe te passen.  
+1. De trainee is in staat om, bij het accepteren en uitvoeren van opdrachten, de bepalingen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) goed toe te passen.  
 
 2. De trainee laat zien dat hij/zij in staat is om een opdrachtbevestiging te vervaardigen, die past bij de betreffende opdracht. Aandachtspunten betreffen onder andere de opdrachtgever in relatie tot de verspreidingskring van de rapportage, de formulering van de werkzaamheden, het doel van de opdracht in relatie tot de uit te voeren werkzaamheden.  
 
@@ -456,7 +456,7 @@ o Planning
 
 o Uitvoering  
 
-o Afronding.   De NV COS (Nadere Voorschriften Controle- en overige Standaarden) 4.410, Leidraad 14 alsmede de VGBA vormen hierbij een essentieel onderdeel. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat.    
+o Afronding.   De NV COS (Nadere Voorschriften Controle- en overige Standaarden) 4.410, Leidraad 14 alsmede de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) vormen hierbij een essentieel onderdeel. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat.    
 ### 5.2  
 
 ####Fase: opdrachtaanvaarding en -continuering
@@ -465,7 +465,7 @@ o Afronding.   De NV COS (Nadere Voorschriften Controle- en overige Standaarden)
 
 ####Nadere uitleg van de fase
 
-Deze fase gaat vooraf aan de planning van de betreffende samenstellingsopdracht. In deze fase gaat de accountant na of hij zowel de cliënt alsook de opdracht wil en kan accepteren. In de daarop volgende jaren stelt de accountant vast of hij de klantrelatie en de opdracht wil continueren. De fundamentele beginselen uit de VGBA spelen hierbij een voorname rol. Daarnaast zijn een adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
+Deze fase gaat vooraf aan de planning van de betreffende samenstellingsopdracht. In deze fase gaat de accountant na of hij zowel de cliënt alsook de opdracht wil en kan accepteren. In de daarop volgende jaren stelt de accountant vast of hij de klantrelatie en de opdracht wil continueren. De fundamentele beginselen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) spelen hierbij een voorname rol. Daarnaast zijn een adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
 ### 5.2.2  
 
 ####Eindtermen opdrachtaanvaarding en -continuering
@@ -482,7 +482,7 @@ Deze fase gaat vooraf aan de planning van de betreffende samenstellingsopdracht.
 
 6. De trainee weet om te gaan met het opdrachtscala en hij/zij is in staat te komen tot een heldere en sluitende opdrachtformulering.  
 
-7. De trainee geeft er blijk van dat hij/zij bekend is met het verwachte verspreidingsgebied en gebruikers van de samengestelde informatie.   Het betreft hier het vraagstuk van de cliënt- en opdrachtacceptatie. Deze vereisen kennis van meer algemene aspecten, die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid en objectiviteit. Belangrijke referenties zijn te vinden in de VGBA, NV COS 4410 en Leidraad 14 zoals deze zijn uitgegeven door de beroepsorganisatie.     
+7. De trainee geeft er blijk van dat hij/zij bekend is met het verwachte verspreidingsgebied en gebruikers van de samengestelde informatie.   Het betreft hier het vraagstuk van de cliënt- en opdrachtacceptatie. Deze vereisen kennis van meer algemene aspecten, die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid en objectiviteit. Belangrijke referenties zijn te vinden in de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md), NV COS 4410 en Leidraad 14 zoals deze zijn uitgegeven door de beroepsorganisatie.     
 ### 5.3  
 
 ####Fase: planning
@@ -619,7 +619,7 @@ Inherent aan de uitvoering van opdrachten is het vormen van een gedegen dossier 
 
 ####Algemeen
 
-Naast de specifieke, op verworven kennis en inzicht gebaseerde vaktechnische eindtermen, kunnen ook op algemene gedrags- en beroepsvaardigheden gebaseerde eindtermen, die in het kader van de praktijkstage (zeer) relevant zijn, worden onderkend. De praktijkopleiding moet bijdragen aan de ontwikkeling van uiteenlopende competenties. De trainee moet daarbij in de werkomgeving in de gelegenheid worden gesteld met een toenemende mate van zelfstandigheid en verantwoordelijkheid te kunnen functioneren. Daarbij moet de trainee ook de VGBA kunnen toepassen evenals de Verordening inzake Onafhankelijkheid van accountants bij assurance opdrachten (hierna ViO). Een trainee moet kunnen omgaan met bedreigingen en waarborgen conform het ‘VGBA-conceptual framework’, waarbij de uitwerking van de principes afhankelijk is van de rol die de accountant vervult. Op overkoepelend niveau zijn in het bijzonder de volgende gedrags- en beroepsvaardigheden relevant: 
+Naast de specifieke, op verworven kennis en inzicht gebaseerde vaktechnische eindtermen, kunnen ook op algemene gedrags- en beroepsvaardigheden gebaseerde eindtermen, die in het kader van de praktijkstage (zeer) relevant zijn, worden onderkend. De praktijkopleiding moet bijdragen aan de ontwikkeling van uiteenlopende competenties. De trainee moet daarbij in de werkomgeving in de gelegenheid worden gesteld met een toenemende mate van zelfstandigheid en verantwoordelijkheid te kunnen functioneren. Daarbij moet de trainee ook de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) kunnen toepassen evenals de [Verordening inzake Onafhankelijkheid van accountants bij assurance opdrachten](../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md) (hierna ViO). Een trainee moet kunnen omgaan met bedreigingen en waarborgen conform het ‘VGBA-conceptual framework’, waarbij de uitwerking van de principes afhankelijk is van de rol die de accountant vervult. Op overkoepelend niveau zijn in het bijzonder de volgende gedrags- en beroepsvaardigheden relevant: 
 
 1. De verworven kennis en vaardigheden op het vakgebied kunnen toepassen op (complexe) bedrijfssituaties.  
 
@@ -780,7 +780,7 @@ o Planning
 
 o Uitvoering  
 
-o Afronding   In de NV COS (Nadere Voorschriften Controle- en overige Standaarden) wordt aan deze dienstverlening geen aandacht besteed. Wel vormt de Verordening Gedragscode alsmede de fiscale regelgeving hierbij een essentieel onderdeel. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat. Daarnaast is de Wwft elementair bij de opdrachtaanvaarding en -continuering van een fiscale advies opdracht.    
+o Afronding   In de NV COS (Nadere Voorschriften Controle- en overige Standaarden) wordt aan deze dienstverlening geen aandacht besteed. Wel vormt de [Verordening Gedragscode ](../../../../../../pbo/verordening/gedragscode/BWBR0026536/README.md)alsmede de fiscale regelgeving hierbij een essentieel onderdeel. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat. Daarnaast is de [Wwft](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) elementair bij de opdrachtaanvaarding en -continuering van een fiscale advies opdracht.    
 ### 7.1.2  
 
 ####Fase: opdrachtaanvaarding en -continuering
@@ -789,7 +789,7 @@ o Afronding   In de NV COS (Nadere Voorschriften Controle- en overige Standaarde
 
 ####Nadere uitleg van de fase
 
-Deze fase gaat vooraf aan de planning van de betreffende fiscale dienstverlening. In deze fase gaat de accountant na of zowel hij als de cliënt de opdracht wil en kan accepteren. De fundamentele beginselen uit de VGBA spelen hierbij een voorname rol. Daarnaast zijn adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
+Deze fase gaat vooraf aan de planning van de betreffende fiscale dienstverlening. In deze fase gaat de accountant na of zowel hij als de cliënt de opdracht wil en kan accepteren. De fundamentele beginselen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) spelen hierbij een voorname rol. Daarnaast zijn adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
 ### 7.1.2.2  
 
 ####Opdrachtaanvaarding en -continuering
@@ -806,9 +806,9 @@ Deze fase gaat vooraf aan de planning van de betreffende fiscale dienstverlening
 
 6. De kandidaat geeft blijk dat hij een dusdanig budget (in tijd en geld) heeft gereserveerd, dat er voldoende mensen en middelen kunnen worden vrijgemaakt om de opdracht naar behoren te kunnen uitvoeren.  
 
-7. De kandidaat weet om te gaan met het opdrachtscala i.c. de diverse soorten belastingen (waaronder inkomstenbelasting, vennootschapsbelasting, omzetbelasting, loonbelasting, successierecht, en belastingen van rechtsverkeer) en de AWR en de daarbij behorende kaders en termijnen en is hij in staat te komen tot een heldere en sluitende opdrachtformulering.  
+7. De kandidaat weet om te gaan met het opdrachtscala i.c. de diverse soorten belastingen (waaronder inkomstenbelasting, vennootschapsbelasting, omzetbelasting, loonbelasting, successierecht, en belastingen van rechtsverkeer) en de [AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de daarbij behorende kaders en termijnen en is hij in staat te komen tot een heldere en sluitende opdrachtformulering.  
 
-8. De kandidaat geeft blijk dat hij bekend is met de verantwoordelijkheden die ten aanzien van hem worden gesteld en weet hierbij gepaste maatregelen te treffen teneinde deze verantwoordelijkheden te kunnen dragen.   Het betreft hier het vraagstuk van de cliënt en opdrachtacceptatie. Dit vereist kennis van meer algemene aspecten uit de VGBA, die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid en objectiviteit. Belangrijke referenties zijn te vinden in de VGBA zoals deze is uitgegeven door de beroepsorganisatie alsmede in de fiscale regelgeving.     
+8. De kandidaat geeft blijk dat hij bekend is met de verantwoordelijkheden die ten aanzien van hem worden gesteld en weet hierbij gepaste maatregelen te treffen teneinde deze verantwoordelijkheden te kunnen dragen.   Het betreft hier het vraagstuk van de cliënt en opdrachtacceptatie. Dit vereist kennis van meer algemene aspecten uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md), die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid en objectiviteit. Belangrijke referenties zijn te vinden in de VGBA zoals deze is uitgegeven door de beroepsorganisatie alsmede in de fiscale regelgeving.     
 ### 7.1.3  
 
 ####Fase: planning
@@ -831,7 +831,7 @@ In de planningsfase wordt uiteindelijk de voorbereiding van de fiscale dienstver
 
 6. De kandidaat is in staat de termijnen voor het indienen van de fiscale aangiften correct vast te stellen.  
 
-7. De kandidaat is in staat om de fiscale adviesopdracht de toetsen aan de Wwft.       
+7. De kandidaat is in staat om de fiscale adviesopdracht de toetsen aan de [Wwft](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).       
 ### 7.1.3.2  
 
 ####Planning van de uit te voeren werkzaamheden
@@ -906,7 +906,7 @@ Inherent aan de uitvoering van opdrachten is het vormen van een gedegen dossier 
 
 ####Algemeen
 
-In dit hoofdstuk wordt ingegaan op de eindtermen van de praktijkopleiding per fase van het traject advisering, waarbij met name een relatie wordt gelegd met de voor Nederland specifiek geldende COS 5500N alsmede de Verordening Gedragscode. Hierbij worden de volgende fasen onderkend: 
+In dit hoofdstuk wordt ingegaan op de eindtermen van de praktijkopleiding per fase van het traject advisering, waarbij met name een relatie wordt gelegd met de voor Nederland specifiek geldende COS 5500N alsmede de [Verordening Gedragscode](../../../../../../pbo/verordening/gedragscode/BWBR0026536/README.md). Hierbij worden de volgende fasen onderkend: 
 
 o Opdrachtaanvaarding en -opdrachtcontinuering  
 
@@ -914,7 +914,7 @@ o Planning en documentatie
 
 o Uitvoering  
 
-o Rapportering en afronding   Het primaire doel van een adviesopdracht is het ondersteunen van de opdrachtgever bij de aspecten in het besluitvormingsproces inzake een voorgenomen transactie. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat. Daarnaast is de Wwft elementair bij de opdrachtaanvaarding en -continuering van een adviesopdracht.    
+o Rapportering en afronding   Het primaire doel van een adviesopdracht is het ondersteunen van de opdrachtgever bij de aspecten in het besluitvormingsproces inzake een voorgenomen transactie. Ten behoeve van een eenduidige begripsvorming is per fase aangegeven uit welke elementen de betreffende fase bestaat. Daarnaast is de [Wwft](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) elementair bij de opdrachtaanvaarding en -continuering van een adviesopdracht.    
 ### 7.2.2  
 
 ####Fase: opdrachtaanvaarding en continuering
@@ -923,7 +923,7 @@ o Rapportering en afronding   Het primaire doel van een adviesopdracht is het on
 
 ####Nadere uitleg van de fase
 
-Deze fase gaat vooraf aan de planning van de betreffende adviesopdracht. In deze fase gaat de accountant na of zowel hij als de cliënt de opdracht wil en kan accepteren. De fundamentele beginselen uit de VGBA spelen hierbij een voorname rol. Daarnaast zijn een adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
+Deze fase gaat vooraf aan de planning van de betreffende adviesopdracht. In deze fase gaat de accountant na of zowel hij als de cliënt de opdracht wil en kan accepteren. De fundamentele beginselen uit de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) spelen hierbij een voorname rol. Daarnaast zijn een adequate acceptatie- en continuatieprocedures van belang om onnodige risico’s voor de accountant te voorkomen.    
 ### 7.2.2.2  
 
 ####Opdrachtaanvaarding en continuering
@@ -948,7 +948,7 @@ Deze fase gaat vooraf aan de planning van de betreffende adviesopdracht. In deze
 
 10. De kandidaat geeft blijk dat hij bekend is met het verwachte verspreidingsgebied en gebruikers van de adviesbrief.  
 
-11. De kandidaat geeft blijk dat hij in staat is om eventuele tegengestelde belangen tussen partijen te onderkennen en daarbij adequaat te handelen.   Het betreft hier het vraagstuk van de cliënt en opdrachtacceptatie. Dit vereist kennis van meer algemene aspecten, die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid, objectiviteit en in sommige gevallen onafhankelijkheid. Belangrijke referenties zijn te vinden in de VGBA en de ViO zoals deze zijn uitgegeven door de beroepsorganisatie.     
+11. De kandidaat geeft blijk dat hij in staat is om eventuele tegengestelde belangen tussen partijen te onderkennen en daarbij adequaat te handelen.   Het betreft hier het vraagstuk van de cliënt en opdrachtacceptatie. Dit vereist kennis van meer algemene aspecten, die weliswaar gericht zijn op de accountantspraktijk, maar die ter beoordeling liggen – binnen de kaders van de accountantspraktijk – bij iedere beroepsbeoefenaar. Verder gaat het om aspecten van integriteit, deskundigheid/zorgvuldigheid, objectiviteit en in sommige gevallen onafhankelijkheid. Belangrijke referenties zijn te vinden in de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) en de [ViO](../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md) zoals deze zijn uitgegeven door de beroepsorganisatie.     
 ### 7.2.3  
 
 ####Fase: planning
@@ -966,11 +966,11 @@ In de planningsfase wordt uiteindelijk de voorbereiding van de adviesopdracht ui
 
 2. De kandidaat is in staat werkzaamheden uit te voeren en te interpreteren met betrekking tot het verwerven van inzicht in het informatiesysteem, de aard van de transacties, de transactiestromen, de hiermee verband houdende digitale of handmatige vastleggingen, de wijze van vastlegging van gebeurtenissen en overige relevante omstandigheden die van belang zijn voor zijn af te geven advies.  
 
-3. De kandidaat is in staat een beoordeling te maken ten aanzien van de toereikende deskundigheid van zijn eventueel in te schakelen deskundige, alsmede te kunnen beoordelen of deze deskundige zich aan de fundamentele beginselen van de VGBA houdt.  
+3. De kandidaat is in staat een beoordeling te maken ten aanzien van de toereikende deskundigheid van zijn eventueel in te schakelen deskundige, alsmede te kunnen beoordelen of deze deskundige zich aan de fundamentele beginselen van de [VGBA](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) houdt.  
 
 4. De kandidaat is (eventueel in samenwerking met een deskundige) in staat te bepalen wie, op basis van een op te stellen cliënt specifiek (advies) werkprogramma, de advieswerkzaamheden gaat uitvoeren. Hierbij dient rekening te worden gehouden met de kennis van de kandidaat zelf alsmede de kennis van de deskundige. Dit werkprogramma ziet er op toe dat de uitgevoerde werkzaamheden voldoende zijn afgestemd op de omgeving en wensen van de cliënt en dat de werkzaamheden met voldoende diepgang kunnen worden uitgevoerd.  
 
-5. De kandidaat is in staat om de adviesopdracht te toetsen aan de Wwft.       
+5. De kandidaat is in staat om de adviesopdracht te toetsen aan de [Wwft](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).       
 ### 7.2.4  
 
 ####Fase: uitvoering

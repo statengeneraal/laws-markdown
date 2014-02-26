@@ -10,7 +10,7 @@ Besluit:
 
 ####Consumentenprijsindex
 
-Onder de consumentenprijsindex, bedoeld in [artikel 15, tweede en derde lid, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), wordt verstaan: de procentuele ontwikkeling die de consumentenprijsindex, reeks ‘alle huishoudens’ in het jaar 2012 heeft ondergaan ten opzichte van het jaar 2011, zoals die ontwikkeling is berekend door het Centraal Bureau voor de Statistiek en bekendgemaakt is in het Statistisch Bulletin van het Centraal Bureau voor de Statistiek.  
+Onder de consumentenprijsindex, bedoeld in [artikel 15, tweede en derde lid, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](../../../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), wordt verstaan: de procentuele ontwikkeling die de consumentenprijsindex, reeks ‘alle huishoudens’ in het jaar 2012 heeft ondergaan ten opzichte van het jaar 2011, zoals die ontwikkeling is berekend door het Centraal Bureau voor de Statistiek en bekendgemaakt is in het Statistisch Bulletin van het Centraal Bureau voor de Statistiek. 
 
 ### Artikel  2  
 
@@ -22,26 +22,26 @@ a. voor opleidingen beroepsonderwijs voor zover het betreft de assistent-opleidi
 
 b. voor opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 549 per cursusjaar;  
 
-c. voor opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma: € 0,70 voor elke 45 minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden;  
+c. voor opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma: € 0,72 voor elke 45 minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden;  
 
 d. voor opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal I: € 305 per cursusjaar;  
 
-e. voor opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal II: € 549 per cursusjaar.    
+e. voor opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal II: € 549 per cursusjaar.   
 
 ### Artikel  3  
 
 ####Inwerkingtreding en vervaldatum
 
 1.  Deze regeling treedt in werking met ingang 1 augustus 2013.   
-2.  Deze regeling vervalt met ingang van 1 augustus 2014.   
+2.  Deze regeling vervalt met ingang van 1 augustus 2014.  
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling vaststelling cursusgeldtarieven 2013–2014.  
+Deze regeling wordt aangehaald als: Regeling vaststelling cursusgeldtarieven 2013–2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J. Bussemaker     
