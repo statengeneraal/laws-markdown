@@ -28,7 +28,7 @@ h. NVWA: de Nederlandse Voedsel- en Warenautoriteit;
 
 i. KvK-nummer: het nummer waaronder een bedrijf geregistreerd is bij de Kamer van Koophandel;  
 
-j. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel . <sup> 2  Postbus 250, 3830 AG Leusden, of http://www.COKZ.nl.  </sup>    
+j. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel<sup>2Postbus 250, 3830 AG Leusden, of http://www.COKZ.nl.</sup>.   
 
 ### Artikel  2  
 
@@ -42,38 +42,36 @@ c. het KvK-nummer;
 
 d. de bedrijfslocatie; en  
 
-e. de kernactiviteiten.     
+e. de kernactiviteiten;  
+
+f. door primaire producenten voor levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen: 
+
+1°. de soorten levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen die worden verzameld;  
+
+2°. de vergunning en het overheidsorgaan die de vergunning heeft afgegeven of de private toestemming en rechthebbende op basis waarvan levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen mogen worden verzameld;  
+
+3°. de geografische locatie waar levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen worden verzameld; en  
+
+4°. de periode waarin levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen worden verzameld.      
 2.  De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de NVWA. Dit formulier is verkrijgbaar bij de NVWA.   
-3.  De NVWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de NVWA is ontvangen.   
+3.  De NVWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de NVWA is ontvangen.  
 
 ### Artikel  3  
 
-1.  De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan artikel 2 voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij: 
+1.  De exploitant van een levensmiddelenbedrijf heeft voldaan aan artikel 2 voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij: 
 
-a. het Hoofdbedrijfschap Detailhandel;  
+a. de Stichting Nationale en Internationale Wegvervoer Organisatie;  
 
-b. het Hoofdbedrijfschap Ambachten;  
+b. de Vereniging Nederlandse Cateringorganisaties;  
 
-c. het Hoofdbedrijfschap Agrarische Groothandel Groenten en Fruit;  
+c. het COKZ;  
 
-d. het Bedrijfschap Horeca en Catering;  
+d. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgezondheid, Welzijn en Sport;  
 
-e. de Productschappen Vee, Vlees en Eieren;  
+e. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of  
 
-f. het Productschap Vis;  
-
-g. de Stichting Nationale en Internationale Wegvervoer Organisatie;  
-
-h. de Vereniging Nederlandse Cateringorganisaties;  
-
-i. de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
-
-j. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgezondheid, Welzijn en Sport;  
-
-k. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of  
-
-l. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken, Landbouw en Innovatie.     
-2.  De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in artikel 2 bedoelde informatie reeds in het bezit is van de NVWA.   
+f. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken.     
+2.  De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in artikel 2 bedoelde informatie reeds in het bezit is van de NVWA.  
 
 ### Artikel  4  
 
@@ -83,25 +81,25 @@ a. het COKZ, voor zover in de desbetreffende inrichting handelingen worden verri
 
 b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van verordening (EG) 853/2004, voorschriften bevat; of  
 
-c. het COKZ, onderscheidenlijk het CPE de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of  
+c. het COKZ de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of  
 
-d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).     
-2.  Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van verordening (EG) 882/2004.   
+d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).    
+2.  Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van verordening (EG) 882/2004.  
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven.  
+Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst  
+Minister van Volksgezondheid, Welzijn en Sport,
+J.F. Hoogervorst    
 
 ### Bijlage  
 
-Deze bijlage behoort bij artikel 2, tweede lid.   ![209037](http://wetten.overheid.nl/Illustration/209037)
+Deze bijlage behoort bij artikel 2, tweede lid.  ![209037](http://wetten.overheid.nl/Illustration/209037)
 

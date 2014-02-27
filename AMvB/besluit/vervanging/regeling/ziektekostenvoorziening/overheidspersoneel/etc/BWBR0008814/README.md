@@ -11,60 +11,72 @@ Gelet op [artikel 125](../../../../../../../../wet/ambtenarenwet/BWBR0001947/REA
 De Raad van State gehoord (advies van 17 februari 1997, nr.WO4.96 0057);
 
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 19 juni 1997, nr. AB97/233, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, uitgebracht mede namens Onze Ministers van Justitie en van Onderwijs, Cultuur en Wetenschappen alsmede de Staatssecretaris van Defensie;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:  
 
 ### ARTIKEL  I  
 
-####(DE REGELING ZIEKTEKOSTENVOORZIENING RIJKSPERSONEEL)
+####(DE REGELING ZIEKTEKOSTENVOORZIENING RIJKSPERSONEEL) 
 
-Bevat de Regeling ziektekostenvoorziening rijkspersoneel.   
+Materieel uitgewerkt per 16-08-2006 
+
+Bevat de Regeling ziektekostenvoorziening rijkspersoneel.  
 
 ### ARTIKEL  II  
 
-####(DE REGELING ZIEKTEKOSTENVOORZIENING POLITIEPERSONEEL)
+####(DE REGELING ZIEKTEKOSTENVOORZIENING POLITIEPERSONEEL) 
 
-Bevat de Regeling ziektekostenvoorziening politiepersoneel.   
+Materieel uitgewerkt per 16-08-2006 
+
+Bevat de Regeling ziektekostenvoorziening politiepersoneel.  
 
 ### ARTIKEL  III  
 
-####(DE REGELING ZIEKTEKOSTENVOORZIENING RECHTERLIJKE AMBTENAREN)
+####(DE REGELING ZIEKTEKOSTENVOORZIENING RECHTERLIJKE AMBTENAREN) 
 
-Bevat de Regeling ziektekostenvoorziening rechterlijke ambtenaren.   
+Materieel uitgewerkt per 16-08-2006 
+
+Bevat de Regeling ziektekostenvoorziening rechterlijke ambtenaren.  
 
 ### ARTIKEL  IV  
 
 ####(DE REGELING ZIEKTEKOSTENVOORZIENING ONDERWIJS EN ONDERWIJSPERSONEEL)
 
-Bevat de Regeling ziektekostenvoorziening onderwijs en onderwijspersoneel.   
+Materieel uitgewerkt per 16-08-2006 
+
+Bevat de Regeling ziektekostenvoorziening onderwijs en onderwijspersoneel.  
 
 ### ARTIKEL  V  
 
-####(DE REGELING ZIEKTEKOSTENVOORZIENING DEFENSIEPERSONEEL)
+####(DE REGELING ZIEKTEKOSTENVOORZIENING DEFENSIEPERSONEEL) 
 
-Bevat de Regeling ziektekostenvoorziening defensiepersoneel.   
+Materieel uitgewerkt per 16-08-2006 
+
+Bevat de Regeling ziektekostenvoorziening defensiepersoneel.  
 
 ### ARTIKEL  VI  
+Materieel uitgewerkt per 16-08-2006 
 
-De Regeling ziektekostenvoorziening overheidspersoneel wordt ingetrokken.  
+De Regeling ziektekostenvoorziening overheidspersoneel wordt ingetrokken. 
 
 ### ARTIKEL  VII  
+Materieel uitgewerkt per 16-08-2006 
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken, 
-H. F. Dijkstal   
+H. F. Dijkstal    
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-J. M. M. Ritzen   
+J. M. M. Ritzen    
 
 De Staatssecretaris van Defensie, 
 J. C. Gmelich Meijling   
