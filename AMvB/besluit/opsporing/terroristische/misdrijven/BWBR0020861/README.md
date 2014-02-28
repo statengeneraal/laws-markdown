@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 a. de wet: het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-b. onderzoek aan kleding: onderzoek als bedoeld in [artikel 126zs, eerste lid, van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).    
+b. onderzoek aan kleding: onderzoek als bedoeld in [artikel 126zs, eerste lid, van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
 
 ### Artikel  2  
 
@@ -32,7 +32,7 @@ a. het tijdstip waarop het bevel is gegeven, de naam van de officier van justiti
 
 b. het aantal keren dat een bevoegdheid is toegepast;  
 
-c. de wijze waarop de bevoegdheid is uitgeoefend.    
+c. de wijze waarop de bevoegdheid is uitgeoefend.   
 
 ### Artikel  3  
 
@@ -43,18 +43,18 @@ a. het aantal keren dat een bevoegdheid is toegepast;
 
 b. de wijze waarop de bevoegdheid is uitgeoefend.     
 3.  De opsporingsambtenaar verstrekt aan de persoon te wiens aanzien een van de bevoegdheden, bedoeld in de [artikelen 126zq](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [126zr](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [126zs van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt toegepast, een schriftelijk bescheid, houdende nadere informatie omtrent de bevoegdheidsuitoefening.   
-4.  Het schriftelijk bescheid, bedoeld in het derde lid, vermeldt het dienstnummer van de optredende ambtenaar, tijdstip en plaats van het optreden, de toegepaste bevoegdheid alsmede bij wie en op welke wijze een klacht kan worden ingediend. Indien bevoegdheidsuitoefening plaatsvindt op bevel van de officier van justitie wordt daarvan tevens aantekening gemaakt.   
+4.  Het schriftelijk bescheid, bedoeld in het derde lid, vermeldt het dienstnummer van de optredende ambtenaar, tijdstip en plaats van het optreden, de toegepaste bevoegdheid alsmede bij wie en op welke wijze een klacht kan worden ingediend. Indien bevoegdheidsuitoefening plaatsvindt op bevel van de officier van justitie wordt daarvan tevens aantekening gemaakt.  
 
 ### Artikel  4  
 
-Gegevens als bedoeld in [artikel 126zi, eerste lid, van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden gevorderd overeenkomstig de voorschriften, opgenomen in het [Besluit verstrekking gegevens telecommunicatie](../../../../../../AMvB/besluit/verstrekking/gegevens/telecommunicatie/BWBR0011123/README.md).  
+Gegevens als bedoeld in [artikel 126zi, eerste lid, van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden gevorderd overeenkomstig de voorschriften, opgenomen in het [Besluit verstrekking gegevens telecommunicatie](../../../../../../AMvB/besluit/verstrekking/gegevens/telecommunicatie/BWBR0011123/README.md). 
 
 ### Artikel  5  
 
 1.  Onderzoek aan kleding geschiedt door het aftasten van de kleding of het onderzoeken van afzonderlijke kledingstukken voor zover dat nodig is voor doeltreffende controle.   
 2.  Onderzoek aan kleding wordt zoveel mogelijk uitgevoerd door een opsporingsambtenaar die hetzelfde geslacht heeft als de persoon die aan het onderzoek wordt onderworpen.   
 3.  Onderzoek aan kleding vindt zoveel mogelijk plaats in het bijzijn van een tweede opsporingsambtenaar.   
-4.  Onderzoek aan kleding vindt plaats in een afgezonderde ruimte, indien de persoon die aan het onderzoek wordt onderworpen of de betrokken opsporingsambtenaar daaraan de voorkeur geeft.   
+4.  Onderzoek aan kleding vindt plaats in een afgezonderde ruimte, indien de persoon die aan het onderzoek wordt onderworpen of de betrokken opsporingsambtenaar daaraan de voorkeur geeft.  
 
 ### Paragraaf  2  
 
@@ -62,24 +62,24 @@ Gegevens als bedoeld in [artikel 126zi, eerste lid, van de wet](../../../../../.
 
 ### Artikel  6  
 
-1.  Personen in de openbare dienst van een vreemde staat worden voor de toepassing van de bevoegdheden van [artikel 126zd, eerste lid, onder a, b en c](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [artikel 126ze van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan een opsporingsambtenaar gelijkgesteld, indien wordt voldaan aan de vereisten omschreven in de [artikelen 5](../../../../../../AMvB/samenwerkingsbesluit/bijzondere/opsporingsbevoegdheden/BWBR0010976/README.md) en [6 van het Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](../../../../../../AMvB/samenwerkingsbesluit/bijzondere/opsporingsbevoegdheden/BWBR0010976/README.md).   
-2.   Wijzigt het Samenwerkingsbesluit bijzondere opsporingsbevoegdheden.    
+1. Personen in de openbare dienst van een vreemde staat worden voor de toepassing van de bevoegdheden van [artikel 126zd, eerste lid, onder a, b en c](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [artikel 126ze van de wet](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan een opsporingsambtenaar gelijkgesteld, indien wordt voldaan aan de vereisten omschreven in de [artikelen 5](../../../../../../AMvB/samenwerkingsbesluit/bijzondere/opsporingsbevoegdheden/BWBR0010976/README.md) en [6 van het Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](../../../../../../AMvB/samenwerkingsbesluit/bijzondere/opsporingsbevoegdheden/BWBR0010976/README.md). 
+2. Wijzigt het Samenwerkingsbesluit bijzondere opsporingsbevoegdheden.
 
 ### Artikel  7  
 
-Wijzigt het Besluit vorderen gegevens telecommunicatie.   
+Wijzigt het Besluit vorderen gegevens telecommunicatie. 
 
 ### Artikel  8  
 
-Wijzigt het Besluit technische hulpmiddelen strafvordering.   
+Wijzigt het Besluit technische hulpmiddelen strafvordering. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit opsporing terroristische misdrijven.  
+Dit besluit wordt aangehaald als: Besluit opsporing terroristische misdrijven. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -87,15 +87,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 21 december 2006  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *achtentwintigste* december 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 ####als bedoeld in artikel 3, eerste lid 
 
@@ -111,7 +111,7 @@ De onderstaande gebieden zijn veiligheidsrisicogebieden, aangewezen met het oog 
 
 – de Kerncentrale te Borssele  
 
-– het Mediapark te Hilversum    
+– het Mediapark te Hilversum   
 
 ####Gebiedsaanwijzing
 
@@ -129,7 +129,7 @@ Het gebied ingesloten door en inclusief aanliggende stoep en rijbaan:
 
 – Lange Vijverberg  
 
-– Korte Vijverberg    
+– Korte Vijverberg   
 
 ####De centrale stations van de vier grote steden
 
@@ -147,7 +147,7 @@ Het gebied, inclusief de tram en bushaltes en metrostation, begrensd door en inc
 
 – Prins Hendrikkade  
 
-– Nieuwe Westerdokstraat    
+– Nieuwe Westerdokstraat   
 
 #### *Station Rotterdam CS* 
 
@@ -171,7 +171,7 @@ Het gebied inclusief, tram en bushaltes en metrostation, begrensd door en inclus
 
 – Statenpad  
 
-– Statenweg    
+– Statenweg   
 
 #### *Station Utrecht CS* 
 
@@ -189,7 +189,7 @@ Het gebied, inclusief straat- spoorniveau, tot en met het uiteinde van de perron
 
 – achterzijde bebouwing Van Sijpesteijnkade  
 
-– de Van Sijpesteijntunnel (inclusief de tunnel en de verbindingen naar de Noordertunnel)    
+– de Van Sijpesteijntunnel (inclusief de tunnel en de verbindingen naar de Noordertunnel)   
 
 #### *Station Den Haag CS* 
 
@@ -207,7 +207,7 @@ Het gebied inclusief tram en bushaltes, begrensd door en inclusief:
 
 – Prins Bernhardviaduct  
 
-– Schedeldoekshaven    
+– Schedeldoekshaven   
 
 ####Nederlandse luchthavens
 
@@ -243,7 +243,7 @@ Het luchthavengebied van de luchthaven Schiphol zoals vastgesteld in het luchtha
 
 – De Kruisweg vanaf de aansluiting Fokkerweg tot en met viaduct A-4, gemeente Haarlemmermeer  
 
-– Oude Loevesteijnse Randweg ter hoogte van kop Runway 18L, gemeente Haarlemmermeer    
+– Oude Loevesteijnse Randweg ter hoogte van kop Runway 18L, gemeente Haarlemmermeer   
 
 #### *Rotterdam* 
 
@@ -259,7 +259,7 @@ Het aangewezen luchtvaartterrein Rotterdam (Stcrt. 2001, 209) in de gemeente Rot
 
 – de Doenkade, gelegen in de gemeente Rotterdam  
 
-– de Vliegveldweg, gelegen in de gemeente Rotterdam    
+– de Vliegveldweg, gelegen in de gemeente Rotterdam   
 
 #### *Eindhoven* 
 
@@ -275,7 +275,7 @@ Het luchtvaartterrein Eindhoven is het met afrastering begrensd gebied dat wordt
 
 – De Spottersweg, gelegen in de gemeente Eindhoven  
 
-– De Luchthavenweg, gelegen in de gemeente Eindhoven    
+– De Luchthavenweg, gelegen in de gemeente Eindhoven   
 
 #### *Maastricht* 
 
@@ -301,7 +301,7 @@ Het aangewezen luchtvaartterrein Maastricht (Stcrt. 2004, 252) gelegen in de gem
 
 – De Bamfordweg vanaf de overgang met de Burgemeester Visschersstraat tot aan de kruising met de Nieuwe Vliekerweg, gemeente Meerssen  
 
-– De Nieuwe Vliekerweg vanaf de kruising met de Bamfordweg tot aan de kruising met de Vliegveldweg in de gemeente Beek inclusief de genoemde wegen    
+– De Nieuwe Vliekerweg vanaf de kruising met de Bamfordweg tot aan de kruising met de Vliegveldweg in de gemeente Beek inclusief de genoemde wegen   
 
 #### *Twente* 
 
@@ -329,7 +329,7 @@ Het luchtvaartterrein Twente is het met afrastering begrensd gebied dat wordt om
 
 – Noordergrensweg: vanaf kruising Ledeboerweg tot Grefterberghoekweg (spottersheuvel), gemeente Enschede  
 
-– Grefteberghoekweg gemeente Enschede    
+– Grefteberghoekweg gemeente Enschede   
 
 #### *Eelde* 
 
@@ -345,7 +345,7 @@ Het aangewezen luchtvaartterrein Eelde (Stcrt. 2001, 98) is het gebied gelegen t
 
 – De Luchtenburgerweg te Yde, gemeente Tynaarlo, vanaf de Norgerweg  
 
-– De Moespot, te Yde, gemeente Tynaarlo, doodlopend op een crashgate van de luchthaven    
+– De Moespot, te Yde, gemeente Tynaarlo, doodlopend op een crashgate van de luchthaven   
 
 ####Kerncentrale te Borssele
 
@@ -363,7 +363,7 @@ Het gebied begrensd door de Westerschelde en de straten:
 
 – Luxemburgweg, gemeente Borssele  
 
-– Achterduinweg, gemeente Borssele    
+– Achterduinweg, gemeente Borssele   
 
 ####Mediapark te Hilversum
 
@@ -381,7 +381,7 @@ Het gebied begrensd door:
 
 – Hoge Naarderweg (onverhard gedeelte), gemeente Hilversum  
 
-– Insulindelaan (tot aan de grens van het perceel Sumatralaan 51), gemeente Hilversum    
+– Insulindelaan (tot aan de grens van het perceel Sumatralaan 51), gemeente Hilversum   
 
 #### *KNP-toren en Wereldomroep:* 
 
@@ -391,5 +391,5 @@ Het gebied ingesloten door:
 
 – Bussumergrintweg, gemeente Hilversum  
 
-– Doodweg, gemeente Hilversum    
+– Doodweg, gemeente Hilversum   
 
