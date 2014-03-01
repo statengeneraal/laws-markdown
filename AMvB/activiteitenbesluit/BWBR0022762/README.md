@@ -31,13 +31,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat op grond van artikel 1.7, eerste lid, onderdeel b, is aangewezen; *aardgas:* in de natuur voorkomend methaan met maximaal 20 volumeprocent inerte en andere bestanddelen; *ADR:* de op 30 september 1957 te Genève totstandgekomen Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171); *afgewerkte olie:* afgewerkte olie als bedoeld in artikel 1 van het Besluit inzamelen afvalstoffen; *afleverinstallatie:* geheel van de al dan niet onder de grond liggende tank of tanks met daaraan gekoppelde leidingen, appendages, één of meer afleverzuilen, voorzover aanwezig, een kassa en, voorzover aanwezig, één of meer betaalautomaten; *afvalmeeverbrandingsinstallatie:* technische eenheid die in hoofdzaak is bestemd voor de opwekking van energie of de fabricage van materiële producten en waarin afvalstoffen als normale of aanvullende brandstof worden gebruikt, of waarin afvalstoffen thermisch worden behandeld ten behoeve van verwijdering door de verbranding door oxidatie van afvalstoffen alsmede andere thermische behandelingsprocessen voor zover de producten van de behandeling vervolgens worden verbrand; *afvalstoffenlijst:* afvalstoffenlijst als bedoeld in artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst; *afvalverbrandingsinstallatie:* technische eenheid die specifiek bestemd is voor de thermische behandeling van afvalstoffen, waarin al dan niet de opgewekte warmte wordt teruggewonnen, door de verbranding door oxidatie van afvalstoffen alsmede andere thermische behandelingsprocessen voor zover de producten van de behandeling vervolgens worden verbrand; *afvalverbrandingsresiduen:* vloeibare of vaste afvalstoffen die worden geproduceerd door een afvalverbrandingsinstallatie of afvalmeeverbrandingsinstallatie; *afvangrendement:* hoeveelheid damp van lichte olie die door een EU-systeem voor dampretour fase-II wordt afgevangen, vergeleken met de hoeveelheid damp van lichte olie die in de atmosfeer zou zijn uitgestoten zonder een dergelijk systeem, uitgedrukt als percentage; *agrarische activiteiten:* geheel van activiteiten dat betrekking heeft op gewassen of landbouwhuisdieren voor zover deze geteeld of gekweekt onderscheidenlijk gefokt, gemest, gehouden of verhandeld worden; *agrarische bedrijfsstoffen:* dierlijke meststoffen die niet verpompbaar zijn, kuilvoer, bijvoedermiddelen die niet verpompbaar zijn, gebruikt substraatmateriaal en restmateriaal afkomstig van de teelt van gewassen; *ammoniakemissie:* emissie van ammoniak, uitgedrukt in kilogram NH <sub>3</sub> per jaar; *andere hernieuwbare brandstoffen:* andere hernieuwbare brandstoffen als bedoeld in artikel 2, eerste lid, onderdeel c, van richtlijn 2003/30/EG; *assimilatiebelichting:* kunstmatige belichting van gewassen, gericht op de bevordering van het groeiproces van gewassen; *autodemontagebedrijf:* inrichting voor het demonteren van autowrakken;  *autowrak:*  
+1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat op grond van artikel 1.7, eerste lid, onderdeel b, is aangewezen; *aardgas:* in de natuur voorkomend methaan met maximaal 20 volumeprocent inerte en andere bestanddelen; *ADR:* de op 30 september 1957 te Genève totstandgekomen Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171); *afgewerkte olie:* afgewerkte olie als bedoeld in artikel 1 van het Besluit inzamelen afvalstoffen; *afleverinstallatie:* geheel van de al dan niet onder de grond liggende tank of tanks met daaraan gekoppelde leidingen, appendages, één of meer afleverzuilen, voorzover aanwezig, een kassa en, voorzover aanwezig, één of meer betaalautomaten; *afvalmeeverbrandingsinstallatie:* technische eenheid die in hoofdzaak is bestemd voor de opwekking van energie of de fabricage van materiële producten en waarin afvalstoffen als normale of aanvullende brandstof worden gebruikt, of waarin afvalstoffen thermisch worden behandeld ten behoeve van verwijdering door de verbranding door oxidatie van afvalstoffen alsmede andere thermische behandelingsprocessen voor zover de producten van de behandeling vervolgens worden verbrand; *afvalstoffenlijst:* afvalstoffenlijst als bedoeld in artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst; *afvalverbrandingsinstallatie:* technische eenheid die specifiek bestemd is voor de thermische behandeling van afvalstoffen, waarin al dan niet de opgewekte warmte wordt teruggewonnen, door de verbranding door oxidatie van afvalstoffen alsmede andere thermische behandelingsprocessen voor zover de producten van de behandeling vervolgens worden verbrand; *afvalverbrandingsresiduen:* vloeibare of vaste afvalstoffen die worden geproduceerd door een afvalverbrandingsinstallatie of afvalmeeverbrandingsinstallatie; *afvangrendement:* hoeveelheid damp van lichte olie die door een EU-systeem voor dampretour fase-II wordt afgevangen, vergeleken met de hoeveelheid damp van lichte olie die in de atmosfeer zou zijn uitgestoten zonder een dergelijk systeem, uitgedrukt als percentage; *agrarische activiteiten:* geheel van activiteiten dat betrekking heeft op gewassen of landbouwhuisdieren voor zover deze geteeld of gekweekt onderscheidenlijk gefokt, gemest, gehouden of verhandeld worden, daaronder mede begrepen agrarisch gemechaniseerd loonwerk zoals het uitvoeren van cultuurtechnische werken, mestdistributie, grondverzet of soortgelijke dienstverlening; *agrarische bedrijfsstoffen:* dierlijke meststoffen die niet verpompbaar zijn, kuilvoer, bijvoedermiddelen die niet verpompbaar zijn, gebruikt substraatmateriaal van plantaardige oorsprong en restmateriaal afkomstig van de teelt van gewassen, voor zover geen sprake is van inerte goederen; *ammoniakemissie:* emissie van ammoniak, uitgedrukt in kilogram NH <sub>3</sub> per jaar; *andere hernieuwbare brandstoffen:* andere hernieuwbare brandstoffen als bedoeld in artikel 2, eerste lid, onderdeel c, van richtlijn 2003/30/EG; *assimilatiebelichting:* kunstmatige belichting van gewassen, gericht op de bevordering van het groeiproces van gewassen; *autodemontagebedrijf:* inrichting voor het demonteren van autowrakken;  *autowrak:*  
 
-1°. bedrijfsauto als bedoeld in de Regeling voertuigen, met een maximum gewicht van ten hoogste 3500 kilogram;  
+1°. bedrijfsauto als bedoeld in de regeling op grond van artikel 21, eerste lid, van de Wegenverkeerswet 1994, met een gewicht van ten hoogste 3500 kilogram,  
 
-2°. personenauto als bedoeld in de Regeling voertuigen en  
+2°. personenauto als bedoeld in de regeling op grond van artikel 21, eerste lid, van de Wegenverkeerswet 1994, en  
 
-3°. bromfiets als bedoeld in de Regeling voertuigen, niet zijnde een voertuig op twee wielen, die een afvalstof is in de zin van artikel 1.1, eerste lid, van de wet;   *autowrakkenrichtlijn:* richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269); *axiaalspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in opgaande gewasrijen, waarbij de spuitvloeistof, met luchtondersteuning horizontaal en schuin omhoog verspoten wordt; *bedrijfsduurcorrectie:* correctie als bedoeld in de Handleiding meten en rekenen industrielawaai, zijnde de logaritmische verhouding tussen de tijdsduur dat de geluidsbron gedurende de beoordelingstijd in werking is, en de duur van die beoordelingsperiode; *bedrijventerrein:* cluster aaneengesloten percelen met overwegend bedrijfsbestemmingen, binnen een in een bestemmingsplan als bedrijventerrein aangewezen gebied, daaronder niet begrepen een gezoneerd industrieterrein; *beheerder:* beheerder als bedoeld in artikel 1.1 van de Waterwet; *beperkt kwetsbaar object:* beperkt kwetsbaar object als bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen; *bijkomend gevaar:* een gevaar naast de grootste gevaarseigenschap als bedoeld in het ADR; *bijvoedermiddel:* plantaardig restproduct uit de land- en tuinbouw en uit de voedselbereiding en -verwerking, uitgezonderd voedselresten afkomstig van restaurants, cateringfaciliteiten en keukens, met inbegrip van centrale keukens en keukens van huishoudens; *binnenschietbaan:* een schietbaan of een combinatie van schietbanen in een gebouw of een deel van een gebouw, zonder open zijden en met een gesloten afdekking; *biobrandstof:* biobrandstof als bedoeld in artikel 2, eerste lid, onderdeel a, van richtlijn 2003/30/EG, waaronder in elk geval de biobrandstoffen, bedoeld in artikel 2, tweede lid, van richtlijn 2003/30/EG, worden verstaan; *biocide:* biocide als bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden; *biologische productiemethode:* productiemethode als bedoeld in artikel 1, eerste lid, onderdeel q, van het Landbouwkwaliteitsbesluit 2007;  *biomassa:*  
+3°. bromfiets als bedoeld in de regeling op grond van artikel 21, eerste lid, van de Wegenverkeerswet 1994, niet zijnde een voertuig op twee wielen,   die een afvalstof is in de zin van artikel 1.1, eerste lid, van de wet; *autowrakkenrichtlijn:* richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269); *axiaalspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in opgaande gewasrijen, waarbij de spuitvloeistof, met luchtondersteuning horizontaal en schuin omhoog verspoten wordt; *bedrijfsduurcorrectie:* correctie als bedoeld in de Handleiding meten en rekenen industrielawaai, zijnde de logaritmische verhouding tussen de tijdsduur dat de geluidsbron gedurende de beoordelingstijd in werking is, en de duur van die beoordelingsperiode; *bedrijventerrein:* cluster aaneengesloten percelen met overwegend bedrijfsbestemmingen, binnen een in een bestemmingsplan als bedrijventerrein aangewezen gebied, daaronder niet begrepen een gezoneerd industrieterrein; *beheerder:* beheerder als bedoeld in artikel 1.1 van de Waterwet; *beperkt kwetsbaar object:* beperkt kwetsbaar object als bedoeld in artikel 1, eerste lid, onderdeel b, van het Besluit externe veiligheid inrichtingen; *bijkomend gevaar:* een gevaar naast de grootste gevaarseigenschap als bedoeld in het ADR; *bijvoedermiddel:* plantaardig restproduct uit de land- en tuinbouw en uit de voedselbereiding en -verwerking, uitgezonderd voedselresten afkomstig van restaurants, cateringfaciliteiten en keukens, met inbegrip van centrale keukens en keukens van huishoudens; *binnenschietbaan:* een schietbaan of een combinatie van schietbanen in een gebouw of een deel van een gebouw, zonder open zijden en met een gesloten afdekking; *biobrandstof:* biobrandstof als bedoeld in artikel 2, eerste lid, onderdeel a, van richtlijn 2003/30/EG, waaronder in elk geval de biobrandstoffen, bedoeld in artikel 2, tweede lid, van richtlijn 2003/30/EG, worden verstaan; *biocide:* biocide als bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden; *biologische productiemethode:* productiemethode als bedoeld in artikel 1, eerste lid, onderdeel q, van het Landbouwkwaliteitsbesluit 2007;  *biomassa:*  
 
 a. producten die bestaan uit plantaardig landbouw- of bosbouwmateriaal dat gebruikt kan worden als brandstof om de energetische inhoud ervan te benutten;  
 
@@ -51,7 +51,7 @@ b. de volgende afvalstoffen:
 
 4°. kurkafval;  
 
-5°. houtafval, met uitzondering van houtafval dat ten gevolge van een behandeling met houtbeschermingsmiddelen of door het aanbrengen van een beschermingslaag gehalogeneerde organische verbindingen dan wel zware metalen kan bevatten;     *bodem:* bovenste laag van de aardkorst die begrensd is door het vaste gesteente en het aardoppervlak, bestaande uit minerale deeltjes, organisch materiaal, water, lucht en levende organismen; *bodembedreigende activiteit:* bedrijfsmatige activiteit die gepaard gaat met het gebruik, de productie of de emissie van een bodembedreigende stof; *bodembedreigende stof:* stof die de bodem kan verontreinigen als bedoeld in bijlage 2 van deel 3 van de NRB, en stoffen of mengsels als omschreven in artikel 3 van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels die de bodem kunnen verontreinigen; *bodembeschermende maatregel:* op de gebezigde stoffen en gebruikte bodembeschermende voorziening toegesneden beheermaatregel gericht op reparatie, schoonmaak, onderhoud, actie bij incidenten, bedrijfsinterne controle, inspectie of toezicht, ter voorkoming van immissies in de bodem of herstel van de effecten van zulke immissies op de bodemkwaliteit, waarvan de uitvoering is gewaarborgd; *bodembeschermende voorziening:* een vloeistofkerende voorziening, een vloeistofdichte vloer of verharding of een andere doelmatige fysieke voorziening, ter voorkoming van immissies in de bodem; *bodemzijdig vermogen:* grootste hoeveelheid energie, uitgedrukt in kW, die het bodemzijdig deel van een gesloten bodemenergiesysteem bij normaal gebruik kan uitwisselen met de bodem; *bovengrondse opslagtank:* opslagtank niet zijnde een ondergrondse opslagtank en niet zijnde een ladingtank van een bunkerstation; *brandcompartiment:* brandcompartiment als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012; *brandstof:* vaste, vloeibare of gasvormige brandbare stof; *BTEX:* benzeen, tolueen, ethylbenzeen en xyleen; *bunkerstation:* drijvend bouwsel dat wegens zijn bestemming in de regel niet wordt verplaatst en dat bestemd of in gebruik is voor de opslag of levering van brandstof voor voortstuwing van schepen; *coating:* mengsel, met inbegrip van alle voor een juist gebruik benodigde organische oplosmiddelen of mengsels, dat wordt gebruikt om op een oppervlak voor een decoratief, beschermend of ander functioneel effect te zorgen; *composteren:* omzetten van groenafval en hulpstoffen in een product dat geheel of grotendeels bestaat uit een of meer organische afvalstoffen die met behulp van micro-organismen zijn afgebroken en omgezet tot een zodanig stabiel eindproduct dat daarin alleen nog een langzame afbraak van humeuze verbindingen plaatsvindt; *composteringshoop:* hoop van groenafval en hulpstoffen, opgezet met als doel dit materiaal te composteren; *concentratiegebied:* concentratiegebied als bedoeld in artikel 1 van de Wet geurhinder en veehouderij; *consumentenvuurwerk:* consumentenvuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *CMR-stof:* stof of preparaat die volgens bijlage I bij Richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting giftig» categorie 1 of 2; *damp/lichte olie-verhouding:* verhouding tussen het volume bij atmosferische druk van damp van lichte olie die door een EU-systeem voor dampretour fase-II loopt en het volume van de geleverde lichte olie; *debiet van lichte olie:* totale jaarlijkse hoeveelheid lichte olie die uit mobiele tanks aan een inrichting wordt geleverd; *diercategorie:* diercategorie als bedoeld in de regeling op grond van artikel 1 van de Wet ammoniak en veehouderij; *dieren met geuremissiefactor:* dieren waarvoor een geuremissiefactor is vastgesteld op grond van artikel 10 van de Wet geurhinder en veehouderij; *dieren zonder geuremissiefactor:* dieren waarvoor geen emissiefactor is vastgesteld op grond van artikel 10 van de Wet geurhinder en veehouderij; *dierenverblijf:* al dan niet overdekte ruimte waarbinnen landbouwhuisdieren worden gehouden; *dierlijke bijproducten:* bijproducten als bedoeld in artikel 2, eerste lid, onder a, van Verordening nr. 1774/2002 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten; *dierlijke meststoffen:* dierlijke meststoffen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Meststoffenwet; *dierplaats:* dierplaats als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *dieselmotor:* verbrandingsmotor die werkt volgens de dieselcyclus en die gebruik maakt van compressieontsteking om brandstof te verbranden; *diffuse emissie:* emissie, in een andere vorm dan vanuit een puntbron, in de lucht, bodem of water, almede in enig product, tenzij anders vermeld in tabel 2.28a; *digestaat:* stabiel restproduct dat overblijft na het vergisten van ten minste 50% dierlijke uitwerpselen met als nevenbestanddeel uitsluitend producten die krachtens artikel 5 van het Uitvoeringsbesluit Meststoffenwet zijn aangewezen; *dioxinen en furanen:* 2,3,7,8 -tetrachloordibenzodioxine (tcdd), 1,2,3,7,8 -pentachloordibenzodioxine (pecdd), 1,2,3,4,7,8 -hexachloordibenzodioxine (hxcdd), 1,2,3,6,7,8 -hexachloordibenzodioxine (hxcdd), 1,2,3,7,8,9 -hexachloordibenzodioxine (hxcdd), 1,2,3,4,6,7,8 -heptachloordibenzodioxine (hpcdd), octachloordibenzodioxine (ocdd), 2,3,7,8 -tetrachloordibenzofuraan (tcdf), 2,3,4,7,8 -pentachloordibenzofuraan (pecdf), 1,2,3,7,8 -pentachloordibenzofuraan (pecdf), 1,2,3,4,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,6,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,7,8,9 -hexachloordibenzofuraan (hxcdf), 2,3,4,6,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,4,6,7,8 -heptachloordibenzofuraan (hpcdf), 1,2,3,4,7,8,9 -heptachloordibenzofuraan (hpcdf), of octachloordibenzofuraan (ocdf); *doelmatig beheer van afvalwater:* zodanig beheer van afvalwater dat daarbij rekening wordt gehouden met de voorkeursvolgorde aangegeven in artikel 10.29a van de wet; *donkerteperiode:* periode van 1 november tot 1 april van 18.00 tot 24.00 uur en van 1 april tot 1 mei en van 1 september tot 1 november van het tijdstip van een half uur na zonsondergang tot 02.00 uur; *drainagewater:* water dat wordt afgevoerd via een stelsel van geperforeerde buizen die in de grond zijn aangebracht; *drainwater:* voedingswater dat bij substraatteelt niet wordt opgenomen door het gewas; *driftarme dop:* spuitdop als bedoeld in artikel 3.83, tweede lid, onderdeel a; *drijfmest:* dierlijke meststoffen die verpompbaar zijn; *dwarsstroomspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in opgaande gewasrijen waarbij de spuitvloeistof in de hoogte gelijkmatig en links en rechts symmetrisch wordt verdeeld; *emissiescherm:* scherm ter beperking van het verwaaien van spuitvloeistof bij het toepassen van gewasbeschermingsmiddelen of bladmeststoffen; *equivalent geluidsniveau:*: equivalent geluidsniveau als bedoeld in artikel 1 van de Wet geluidhinder; *etmaalwaarde:* de hoogste van de volgende drie waarden: 
+5°. houtafval, met uitzondering van houtafval dat ten gevolge van een behandeling met houtbeschermingsmiddelen of door het aanbrengen van een beschermingslaag gehalogeneerde organische verbindingen dan wel zware metalen kan bevatten;     *bodem:* bovenste laag van de aardkorst die begrensd is door het vaste gesteente en het aardoppervlak, bestaande uit minerale deeltjes, organisch materiaal, water, lucht en levende organismen; *bodembedreigende activiteit:* bedrijfsmatige activiteit die gepaard gaat met het gebruik, de productie of de emissie van een bodembedreigende stof; *bodembedreigende stof:* stof die de bodem kan verontreinigen als bedoeld in bijlage 2 van deel 3 van de NRB, en stoffen of mengsels als omschreven in artikel 3 van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels die de bodem kunnen verontreinigen; *bodembeschermende maatregel:* op de gebezigde stoffen en gebruikte bodembeschermende voorziening toegesneden beheermaatregel gericht op reparatie, schoonmaak, onderhoud, actie bij incidenten, bedrijfsinterne controle, inspectie of toezicht, ter voorkoming van immissies in de bodem of herstel van de effecten van zulke immissies op de bodemkwaliteit, waarvan de uitvoering is gewaarborgd; *bodembeschermende voorziening:* een vloeistofkerende voorziening, een vloeistofdichte vloer of verharding of een andere doelmatige fysieke voorziening, ter voorkoming van immissies in de bodem; *bodemzijdig vermogen:* grootste hoeveelheid energie, uitgedrukt in kW, die het bodemzijdig deel van een gesloten bodemenergiesysteem bij normaal gebruik kan uitwisselen met de bodem; *bovengrondse opslagtank:* opslagtank niet zijnde een ondergrondse opslagtank en niet zijnde een ladingtank van een bunkerstation; *brandcompartiment:* brandcompartiment als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012; *brandstof:* vaste, vloeibare of gasvormige brandbare stof; *BTEX:* benzeen, tolueen, ethylbenzeen en xyleen; *bunkerstation:* drijvend bouwsel dat wegens zijn bestemming in de regel niet wordt verplaatst en dat bestemd of in gebruik is voor de opslag of levering van brandstof voor voortstuwing van schepen; *coating:* mengsel, met inbegrip van alle voor een juist gebruik benodigde organische oplosmiddelen of mengsels, dat wordt gebruikt om op een oppervlak voor een decoratief, beschermend of ander functioneel effect te zorgen; *composteren:* omzetten van groenafval en hulpstoffen in een product dat geheel of grotendeels bestaat uit een of meer organische afvalstoffen die met behulp van micro-organismen zijn afgebroken en omgezet tot een zodanig stabiel eindproduct dat daarin alleen nog een langzame afbraak van humeuze verbindingen plaatsvindt; *composteringshoop:* hoop van groenafval en hulpstoffen, opgezet met als doel dit materiaal te composteren; *concentratiegebied:* concentratiegebied als bedoeld in artikel 1 van de Wet geurhinder en veehouderij; *consumentenvuurwerk:* consumentenvuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *CMR-stof:* stof of preparaat die volgens bijlage I bij Richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting giftig» categorie 1 of 2; *damp/lichte olie-verhouding:* verhouding tussen het volume bij atmosferische druk van damp van lichte olie die door een EU-systeem voor dampretour fase-II loopt en het volume van de geleverde lichte olie; *debiet van lichte olie:* totale jaarlijkse hoeveelheid lichte olie die uit mobiele tanks aan een inrichting wordt geleverd; *demontagebedrijf voor tweewielige motorvoertuigen:* inrichting voor het demonteren van wrakken van tweewielige motorvoertuigen; *diercategorie:* diercategorie als bedoeld in de regeling op grond van artikel 1 van de Wet ammoniak en veehouderij; *dieren met geuremissiefactor:* dieren waarvoor een geuremissiefactor is vastgesteld op grond van artikel 10 van de Wet geurhinder en veehouderij; *dieren zonder geuremissiefactor:* dieren waarvoor geen emissiefactor is vastgesteld op grond van artikel 10 van de Wet geurhinder en veehouderij; *dierenverblijf:* al dan niet overdekte ruimte waarbinnen landbouwhuisdieren worden gehouden; *dierlijke bijproducten:* bijproducten als bedoeld in artikel 2, eerste lid, onder a, van Verordening nr. 1774/2002 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten; *dierlijke meststoffen:* dierlijke meststoffen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Meststoffenwet; *dierplaats:* dierplaats als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *dieselmotor:* verbrandingsmotor die werkt volgens de dieselcyclus en die gebruik maakt van compressieontsteking om brandstof te verbranden; *diffuse emissie:* emissie, in een andere vorm dan vanuit een puntbron, in de lucht, bodem of water, almede in enig product, tenzij anders vermeld in tabel 2.28a; *digestaat:* stabiel restproduct dat overblijft na het vergisten van ten minste 50% dierlijke uitwerpselen met als nevenbestanddeel uitsluitend producten die krachtens artikel 5 van het Uitvoeringsbesluit Meststoffenwet zijn aangewezen; *dioxinen en furanen:* 2,3,7,8 -tetrachloordibenzodioxine (tcdd), 1,2,3,7,8 -pentachloordibenzodioxine (pecdd), 1,2,3,4,7,8 -hexachloordibenzodioxine (hxcdd), 1,2,3,6,7,8 -hexachloordibenzodioxine (hxcdd), 1,2,3,7,8,9 -hexachloordibenzodioxine (hxcdd), 1,2,3,4,6,7,8 -heptachloordibenzodioxine (hpcdd), octachloordibenzodioxine (ocdd), 2,3,7,8 -tetrachloordibenzofuraan (tcdf), 2,3,4,7,8 -pentachloordibenzofuraan (pecdf), 1,2,3,7,8 -pentachloordibenzofuraan (pecdf), 1,2,3,4,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,6,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,7,8,9 -hexachloordibenzofuraan (hxcdf), 2,3,4,6,7,8 -hexachloordibenzofuraan (hxcdf), 1,2,3,4,6,7,8 -heptachloordibenzofuraan (hpcdf), 1,2,3,4,7,8,9 -heptachloordibenzofuraan (hpcdf), of octachloordibenzofuraan (ocdf); *doelmatig beheer van afvalwater:* zodanig beheer van afvalwater dat daarbij rekening wordt gehouden met de voorkeursvolgorde aangegeven in artikel 10.29a van de wet; *donkerteperiode:* periode van 1 november tot 1 april van 18.00 tot 24.00 uur en van 1 april tot 1 mei en van 1 september tot 1 november van het tijdstip van een half uur na zonsondergang tot 02.00 uur; *drainagewater:* water dat wordt afgevoerd via een stelsel van geperforeerde buizen die in de grond zijn aangebracht; *drainwater:* voedingswater dat bij substraatteelt niet wordt opgenomen door het gewas; *driftarme dop:* spuitdop als bedoeld in artikel 3.83, eerste lid, onderdeel a; *drijfmest:* dierlijke meststoffen die verpompbaar zijn; *dwarsstroomspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in opgaande gewasrijen waarbij de spuitvloeistof in de hoogte gelijkmatig en links en rechts symmetrisch wordt verdeeld; *emissiescherm:* scherm ter beperking van het verwaaien van spuitvloeistof bij het toepassen van gewasbeschermingsmiddelen of bladmeststoffen; *equivalent geluidsniveau:*: equivalent geluidsniveau als bedoeld in artikel 1 van de Wet geluidhinder; *etmaalwaarde:* de hoogste van de volgende drie waarden: 
 
 a. de waarde van het langtijdgemiddelde beoordelingsniveau (L <sub>Ar, LT</sub>) tussen 07.00 en 19.00 uur (dag);  
 
@@ -75,7 +75,7 @@ c. de met 10 dB(A) verhoogde waarde van het langtijdgemiddelde beoordelingsnivea
 
 6°. afvalwater of andere afvalstoffen in een andere voorziening voor de inzameling en het transport van afvalwater, of  
 
-7°. water of stoffen als bedoeld in artikel 6.1 van de Waterwet met behulp van een werk, niet zijnde een openbaar vuilwaterriool, op een zuiveringtechnisch werk;   *LQ:* Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; *luchtondersteuning:* voorziening aan de spuitboom van veldspuitapparatuur, waarbij een separate luchtstroom een geforceerde neerwaartse richting van het gewasbeschermingsmiddel creëert; *massastroom:* massa van een bepaalde stof of stoffen die per tijdseenheid wordt geëmitteerd, uitgedrukt in massa per tijdseenheid; *maximaal geluidsniveau:* (L <sub>Amax</sub>) maximaal geluidsniveau gemeten in de meterstand «F» of «fast», als vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *maximale emissiewaarde:* maximale emissiewaarde als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *melkrundvee:* melkrundvee als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *mestbassin:* voorziening voor het opslaan van drijfmest, niet zijnde een opslagtank of verpakking; *mestkelder:* ondergronds mestbassin, voorzien van een afdekking die als vloer kan fungeren en onderdeel is van een dierenverblijf of van een voormalig dierenverblijf; *meststoffen:* meststoffen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Meststoffenwet; *meststoffengroep:* aanduiding van de gevaarscategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7; *motorvoertuigen of werktuigen:* motorvoertuigen, aanhangers, landbouwwerktuigen en -machines en carrosserieonderdelen; *nanacht:* periode van 1 november tot 1 april van 24.00 uur tot het tijdstip van zonsopgang en van 1 april tot 1 mei en van 1 september tot 1 november van 02.00 uur tot het tijdstip van zonsopgang; *natte koeltoren:* installatie gebruikt voor het, middels een open constructie, afvoeren van overtollige warmte uit productieprocessen en gebouwen door middel van het vernevelen van water; *natuursteen:* uit de natuur gewonnen blokken en platen van steen; *NEN:* door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *NeR:* door InfoMil uitgegeven Nederlandse Emissie Richtlijnen lucht; *niet aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat geen aangewezen oppervlaktewaterlichaam is; *niet-doorlatende ondergrond:* bodembedekkende voorziening waarbij geen uitspoeling plaatsvindt naar de onderliggende bodemlaag; *noodsignalen:* noodsignalen die onder de klasse 1.3 of klasse 1.4 van het ADR vallen; *normaal kubieke meter:* afgashoeveelheid bij 273,15 Kelvin en 101,3 kilo Pascal en betrokken op droge lucht; *NRB:* door Agentschap NL uitgegeven Nederlandse Richtlijn Bodembescherming; *odour unit:* Europese eenheid voor geurconcentratie volgens NEN-EN-13725; *ondergrondse opslagtank:* opslagtank die geheel in de bodem ligt of ingeterpt is; *open bodemenergiesysteem:* installatie waarmee van de bodem gebruik wordt gemaakt voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door grondwater te onttrekken en na gebruik in de bodem terug te brengen, met inbegrip van bijbehorende bronpompen en warmtewisselaar en, voor zover aanwezig, warmtepomp en regeneratievoorziening; *oplosmiddelenhergebruik:* gebruik van uit een oplosmiddeleninstallatie teruggewonnen organische oplosmiddelen voor elk technisch of commercieel doel, met inbegrip van het gebruik als brandstof maar met uitzondering van het verwijderen van deze teruggewonnen organische oplosmiddelen als afval; *oplosmiddeleninput:* de hoeveelheid organische oplosmiddelen en de hoeveelheid daarvan in mengsels die tijdens het uitoefenen van een activiteit worden gebruikt, met inbegrip van de hergebruikte oplosmiddelen, binnen en buiten de installatie, die telkens worden meegerekend wanneer zij worden gebruikt om de betrokken activiteit uit te oefenen; *oplosmiddeleninstallatie:* installatie als bedoeld in bijlage VII, deel 1, bij Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (herschikking) (PbEU L 334); *oplosmiddelenverbruik:* de totale input van organische oplosmiddelen per twaalf maanden in een installatie, verminderd met eventuele vluchtige organische stoffen die voor hergebruik worden teruggewonnen; *opslagtank:* een opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR; *organisch oplosmiddel:* vluchtige organische verbinding die wordt gebruikt: 
+7°. water of stoffen als bedoeld in artikel 6.1 van de Waterwet met behulp van een werk, niet zijnde een openbaar vuilwaterriool, op een zuiveringtechnisch werk;   *LQ:* Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; *luchtondersteuning:* voorziening aan de spuitboom van veldspuitapparatuur, waarbij een separate luchtstroom een geforceerde neerwaartse richting van het gewasbeschermingsmiddel creëert; *massastroom:* massa van een bepaalde stof of stoffen die per tijdseenheid wordt geëmitteerd, uitgedrukt in massa per tijdseenheid; *maximaal geluidsniveau:* (L <sub>Amax</sub>) maximaal geluidsniveau gemeten in de meterstand «F» of «fast», als vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *maximale emissiewaarde:* maximale emissiewaarde als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *melkrundvee:* melkrundvee als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij; *mestbassin:* voorziening voor het opslaan van drijfmest, niet zijnde een opslagtank of verpakking; *mestkelder:* ondergronds mestbassin, voorzien van een afdekking die als vloer kan fungeren en onderdeel is van een dierenverblijf of van een voormalig dierenverblijf; *meststoffen:* meststoffen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Meststoffenwet; *meststoffengroep:* aanduiding van de gevaarscategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7; *motorvoertuigen of werktuigen:* motorvoertuigen, aanhangers, landbouwwerktuigen en -machines en carrosserieonderdelen; *nanacht:* periode van 1 november tot 1 april van 24.00 uur tot het tijdstip van zonsopgang en van 1 april tot 1 mei en van 1 september tot 1 november van 02.00 uur tot het tijdstip van zonsopgang; *natte koeltoren:* installatie gebruikt voor het, middels een open constructie, afvoeren van overtollige warmte uit productieprocessen en gebouwen door middel van het vernevelen van water; *natuursteen:* uit de natuur gewonnen blokken en platen van steen; *NEN:* door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *NeR:* door InfoMil uitgegeven Nederlandse Emissie Richtlijnen lucht; *niet aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat geen aangewezen oppervlaktewaterlichaam is; *niet-doorlatende ondergrond:* bodembedekkende voorziening waarbij geen uitspoeling plaatsvindt naar de onderliggende bodemlaag; *noodsignalen:* noodsignalen die onder de klasse 1.3 of klasse 1.4 van het ADR vallen; *normaal kubieke meter:* afgashoeveelheid bij 273,15 Kelvin en 101,3 kilo Pascal en betrokken op droge lucht; *NRB:* door Agentschap NL uitgegeven Nederlandse Richtlijn Bodembescherming; *odour unit:* Europese eenheid voor geurconcentratie volgens NEN-EN 13725; *ondergrondse opslagtank:* opslagtank die geheel in de bodem ligt of ingeterpt is; *open bodemenergiesysteem:* installatie waarmee van de bodem gebruik wordt gemaakt voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door grondwater te onttrekken en na gebruik in de bodem terug te brengen, met inbegrip van bijbehorende bronpompen en warmtewisselaar en, voor zover aanwezig, warmtepomp en regeneratievoorziening; *oplosmiddelenhergebruik:* gebruik van uit een oplosmiddeleninstallatie teruggewonnen organische oplosmiddelen voor elk technisch of commercieel doel, met inbegrip van het gebruik als brandstof maar met uitzondering van het verwijderen van deze teruggewonnen organische oplosmiddelen als afval; *oplosmiddeleninput:* de hoeveelheid organische oplosmiddelen en de hoeveelheid daarvan in mengsels die tijdens het uitoefenen van een activiteit worden gebruikt, met inbegrip van de hergebruikte oplosmiddelen, binnen en buiten de installatie, die telkens worden meegerekend wanneer zij worden gebruikt om de betrokken activiteit uit te oefenen; *oplosmiddeleninstallatie:* installatie als bedoeld in bijlage VII, deel 1, bij Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (herschikking) (PbEU L 334); *oplosmiddelenverbruik:* de totale input van organische oplosmiddelen per twaalf maanden in een installatie, verminderd met eventuele vluchtige organische stoffen die voor hergebruik worden teruggewonnen; *opslagtank:* een opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR; *organisch oplosmiddel:* vluchtige organische verbinding die wordt gebruikt: 
 
 a. om, alleen of in combinatie met andere stoffen en zonder een chemische verandering te ondergaan, grondstoffen, producten of afvalmaterialen op te lossen,  
 
@@ -95,7 +95,7 @@ h. als conserveermiddel;   *overkapte beddenspuit:* apparatuur voor het gebruik 
 
 a. het geluidsniveau, uitgedrukt in dB(A), dat gemeten over een bepaalde periode, gedurende 95% van de tijd wordt overschreden, exclusief de bijdrage van de inrichting zelf;  
 
-b. het optredende equivalente geluidsniveau (L <sub>Aeq</sub>), veroorzaakt door wegverkeerbronnen minus 10 dB(A), met dien verstande dat voor de nachtperiode van 23.00 tot 07.00 uur alleen wegverkeerbronnen in rekening mogen worden gebracht met een intensiteit van meer dan 500 motorvoertuigen gedurende die periode;   *reflectiescherm:* verticale constructie aan apparatuur voor het gebruik van gewasbeschermingsmiddelen, die een zodanige hoogte en breedte heeft, dat het verwaaien van spuitnevel wordt beperkt; *retourbuis van een gesloten bodemenergiesysteem:* de leiding die de circulatievloeistof terug geleidt door de bodem, waardoor warmte of koude wordt afgegeven aan de bodem; *richtlijn 2003/30/EG:*richtlijn nr. 2003/30/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2003 (PbEU L 123) ter bevordering van het gebruik van biobrandstoffen of andere hernieuwbare brandstoffen in het vervoer; *rookzwak kruit:* kruit dat onder de klasse 1.3 van het ADR valt; *schoorsteen:* structuur met een of meer afgaskanalen voor de afvoer van afgassen met het oog op de emissie ervan in de lucht; *SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh; *spoorvoertuig:* voertuig, bestemd voor het verkeer over spoorstaven met inbegrip van de carrosserieonderdelen daarvan; *spuitbus:* niet-hervulbare houder van metaal, glas of kunststof die een samengeperst, vloeibaar gemaakt of opgelost gas bevat, al dan niet met een vloeibare, pasteuze of poedervormige stof, en voorzien van een aftapinrichting die het mogelijk maakt, dat de inhoud wordt uitgestoten in de vorm van een suspensie van vaste of vloeibare deeltjes in een gas, in de vorm van schuim, pasta of poeder of in vloeibare of gasvormige toestand; *spuitdop:* uitstroomopening van apparatuur voor het gebruik van gewasbeschermingsmiddelen die in staat is spuitvloeistof zo te verdelen in druppels dat er op de grond of op het gewas een regelmatige verdeling ontstaat; *spuitgeweer:* apparatuur voor het gebruik van gewasbeschermingsmiddelen bestaande uit een spuitleiding die is voorzien van een spuitdop die met de hand wordt vastgehouden en bediend; *stookinstallatie:* technische eenheid waarin brandstoffen worden geoxideerd ten einde de aldus opgewekte warmte te gebruiken; *substraatmateriaal:* materiaal, bestemd om te worden gebruikt voor het telen van gewassen los van de ondergrond; *substraatteelt:* wijze van telen waarbij gewassen groeien los van de ondergrond; *teeltoppervlak:* oppervlak, uitgedrukt in vierkante meter, dat wordt gebruikt voor het telen van gewassen; *teeltvrije zone:* strook tussen de insteek van het oppervlaktewaterlichaam en het te telen gewas waarop, behoudens grasland, geen gewas of niet hetzelfde gewas als op de rest van het perceel wordt geteeld; *theatervuurwerk:* theatervuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *totaal stikstof:* de som van nitraat-, nitriet-, organisch en ammonium stikstof waarvan de emissiemetingen worden uitgevoerd, bedoeld in artikel 2.3; *tunnelspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in een gewasrij waarbij het verwaaien van spuitnevel wordt beperkt door een constructie die de gewasrij geheel of gedeeltelijk omsluit; *vanggewas:* barrière van bomen, struiken of andere gewassen, die het verwaaien van spuitvloeistof bij het gebruik van gewasbeschermingsmiddelen of bladmeststoffen naar een oppervlaktewaterlichaam beperkt; *vast object:* locatiegebonden constructie of gedeelte daarvan; *veehouderij:* inrichting voor het kweken, fokken, mesten, houden of verhandelen van landbouwhuisdieren; *veldspuitapparatuur:* mechanisch voortbewogen apparatuur voor het gebruik van gewasbeschermingsmiddelen bij de bovengrondse volveldsbehandeling in buitenteelten, die een overwegend neerwaartse uitstroming van de spuitvloeistof bewerkstelligt; *venturidop:* dop die bestaat uit een voorkamer en uitstroomopening waarbij als gevolg van de constructie van de dop door de stromende vloeistof een onderdruk in de voorkamer ontstaat waardoor door een kleine opening in de voorkamer op natuurlijke wijze lucht wordt aangezogen dat zich in de voorkamer vermengt met de vloeistof waardoor grovere druppels ontstaan die verdeeld worden door een uitstroomopening; *verblijfsruimten:* verblijfsruimten als bedoeld in artikel 1.1, onderdeel e, van het Besluit geluidhinder; *verdichten:* reduceren van het volume bij een gelijkblijvende massa of een gelijkblijvend gewicht; *vergistinggas:* gasvormige brandstof, met als hoofdbestanddelen methaan en koolstofdioxide, dat is ontstaan door vergisting van organisch materiaal; *verkleinen:* in kleinere delen opdelen; *verpakkingsgroep:* een groep, waarin bepaalde stoffen op grond van hun gevaarlijkheid tijdens het vervoer conform het ADR zijn ingedeeld voor verpakkingsdoeleinden: 
+b. het optredende equivalente geluidsniveau (L <sub>Aeq</sub>), veroorzaakt door wegverkeerbronnen minus 10 dB(A), met dien verstande dat voor de nachtperiode van 23.00 tot 07.00 uur alleen wegverkeerbronnen in rekening mogen worden gebracht met een intensiteit van meer dan 500 motorvoertuigen gedurende die periode;   *reflectiescherm:* verticale constructie aan apparatuur voor het gebruik van gewasbeschermingsmiddelen, die een zodanige hoogte en breedte heeft, dat het verwaaien van spuitnevel wordt beperkt; *retourbuis van een gesloten bodemenergiesysteem:* de leiding die de circulatievloeistof terug geleidt door de bodem, waardoor warmte of koude wordt afgegeven aan de bodem; *richtlijn 2003/30/EG:*richtlijn nr. 2003/30/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2003 (PbEU L 123) ter bevordering van het gebruik van biobrandstoffen of andere hernieuwbare brandstoffen in het vervoer; *rookzwak kruit:* kruit dat onder de klasse 1.3 van het ADR valt; *schoorsteen:* structuur met een of meer afgaskanalen voor de afvoer van afgassen met het oog op de emissie ervan in de lucht; *SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh; *spoorvoertuig:* voertuig, bestemd voor het verkeer over spoorstaven met inbegrip van de carrosserieonderdelen daarvan; *spuitbus:* niet-hervulbare houder van metaal, glas of kunststof die een samengeperst, vloeibaar gemaakt of opgelost gas bevat, al dan niet met een vloeibare, pasteuze of poedervormige stof, en voorzien van een aftapinrichting die het mogelijk maakt, dat de inhoud wordt uitgestoten in de vorm van een suspensie van vaste of vloeibare deeltjes in een gas, in de vorm van schuim, pasta of poeder of in vloeibare of gasvormige toestand; *spuitdop:* uitstroomopening van apparatuur voor het gebruik van gewasbeschermingsmiddelen die in staat is spuitvloeistof zo te verdelen in druppels dat er op de grond of op het gewas een regelmatige verdeling ontstaat; *spuitgeweer:* apparatuur voor het gebruik van gewasbeschermingsmiddelen bestaande uit een spuitleiding die is voorzien van een spuitdop die met de hand wordt vastgehouden en bediend; *stookinstallatie:* technische eenheid waarin brandstoffen worden geoxideerd ten einde de aldus opgewekte warmte te gebruiken; *substraatmateriaal:* materiaal, bestemd om te worden gebruikt voor het telen van gewassen los van de ondergrond; *substraatteelt:* wijze van telen waarbij gewassen groeien los van de ondergrond; *teeltoppervlak:* oppervlak, uitgedrukt in vierkante meter, dat wordt gebruikt voor het telen van gewassen; *teeltvrije zone:* strook tussen de insteek van het oppervlaktewaterlichaam en het te telen gewas waarop, behoudens grasland, geen gewas of niet hetzelfde gewas als op de rest van het perceel wordt geteeld; *theatervuurwerk:* theatervuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *totaal stikstof:* de som van nitraat-, nitriet-, organisch en ammonium stikstof waarvan de emissiemetingen worden uitgevoerd, bedoeld in artikel 2.3; *tunnelspuit:* apparatuur voor het gebruik van gewasbeschermingsmiddelen in een gewasrij waarbij het verwaaien van spuitnevel wordt beperkt door een constructie die de gewasrij geheel of gedeeltelijk omsluit; *tweewielig motorvoertuig:* bromfiets als bedoeld in de regeling op grond van artikel 21, eerste lid, van de Wegenverkeerswet 1994, zijnde een voertuig op twee wielen of motorfiets als bedoeld in die regeling; *vanggewas:* barrière van bomen, struiken of andere gewassen, die het verwaaien van spuitvloeistof bij het gebruik van gewasbeschermingsmiddelen of bladmeststoffen naar een oppervlaktewaterlichaam beperkt; *vast object:* locatiegebonden constructie of gedeelte daarvan; *veehouderij:* inrichting voor het kweken, fokken, mesten, houden of verhandelen van landbouwhuisdieren; *veldspuitapparatuur:* mechanisch voortbewogen apparatuur voor het gebruik van gewasbeschermingsmiddelen bij de bovengrondse volveldsbehandeling in buitenteelten, die een overwegend neerwaartse uitstroming van de spuitvloeistof bewerkstelligt; *venturidop:* dop die bestaat uit een voorkamer en uitstroomopening waarbij als gevolg van de constructie van de dop door de stromende vloeistof een onderdruk in de voorkamer ontstaat waardoor door een kleine opening in de voorkamer op natuurlijke wijze lucht wordt aangezogen dat zich in de voorkamer vermengt met de vloeistof waardoor grovere druppels ontstaan die verdeeld worden door een uitstroomopening; *verblijfsruimten:* verblijfsruimten als bedoeld in artikel 1.1, onderdeel d, van het Besluit geluidhinder; *verdichten:* reduceren van het volume bij een gelijkblijvende massa of een gelijkblijvend gewicht; *vergistinggas:* gasvormige brandstof, met als hoofdbestanddelen methaan en koolstofdioxide, dat is ontstaan door vergisting van organisch materiaal; *verkleinen:* in kleinere delen opdelen; *verpakkingsgroep:* een groep, waarin bepaalde stoffen op grond van hun gevaarlijkheid tijdens het vervoer conform het ADR zijn ingedeeld voor verpakkingsdoeleinden: 
 
 1°. *verpakkingsgroep I*: zeer gevaarlijke stoffen;  
 
@@ -107,7 +107,7 @@ b. het optredende equivalente geluidsniveau (L <sub>Aeq</sub>), veroorzaakt door
 
 2°. een andere voorziening voor de inzameling en het transport van stedelijk afvalwater, aangesloten op een zuiveringsvoorziening, die blijkens een vergunning als bedoeld in artikel 6.2 van de Waterwet mede voor het zuiveren van stedelijk afvalwater is bedoeld, of aangesloten op een zuiveringtechnisch werk; of  
 
-3°. een werk, niet zijnde een voorziening voor de inzameling en het transport van afvalwater, aangesloten op een zuiveringtechnisch werk;   *vuurwerk:* vuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *warmtekrachtinstallatie:* stookinstallatie, bestemd voor het gelijktijdig opwekken van warmte en kracht waarbij de warmte nuttig wordt aangewend; *windturbine:* een apparaat voor het opwekken van elektrisch of thermisch vermogen uit wind; *woning:* gebouw of gedeelte van een gebouw waar bewoning is toegestaan op grond van het bestemmingsplan, de beheersverordening, bedoeld in artikel 3.38 van de Wet ruimtelijke ordening, of, indien met toepassing van artikel 2.12, eerste lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning bedoeld in artikel 1.1, eerste lid, van laatstgenoemde wet; *zeer kwetsbaar gebied:* zeer kwetsbaar gebied in de zin van de Wet ammoniak en veehouderij. *zuiveringsvoorziening:* werk voor het zuiveren van afvalwater, dat geen zuiveringtechnisch werk is; *zwart kruit:* kruit dat onder de klasse 1.1 van het ADR valt.   
+3°. een werk, niet zijnde een voorziening voor de inzameling en het transport van afvalwater, aangesloten op een zuiveringtechnisch werk;   *vuurwerk:* vuurwerk als bedoeld in artikel 1.1.1, eerste lid, van het Vuurwerkbesluit; *warmtekrachtinstallatie:* stookinstallatie, bestemd voor het gelijktijdig opwekken van warmte en kracht waarbij de warmte nuttig wordt aangewend; *windturbine:* een apparaat voor het opwekken van elektrisch of thermisch vermogen uit wind; *woning:* gebouw of gedeelte van een gebouw waar bewoning is toegestaan op grond van het bestemmingsplan, de beheersverordening, bedoeld in artikel 3.38 van de Wet ruimtelijke ordening, of, indien met toepassing van artikel 2.12, eerste lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning bedoeld in artikel 1.1, eerste lid, van laatstgenoemde wet; *wrak van een tweewielig motorvoertuig:* tweewielig motorvoertuig dat een afvalstof is in de zin van artikel 1.1, eerste lid, van de wet; *zeer kwetsbaar gebied:* zeer kwetsbaar gebied in de zin van de Wet ammoniak en veehouderij. *zuiveringsvoorziening:* werk voor het zuiveren van afvalwater, dat geen zuiveringtechnisch werk is; *zwart kruit:* kruit dat onder de klasse 1.1 van het ADR valt.   
 2.  In dit besluit en de daarop berustende bepalingen wordt ten aanzien van emissies naar de lucht, verstaan onder: *bron:* emissie naar de lucht van een bewerkingseenheid al dan niet voorzien van emissiebeperkende voorzieningen en ongeacht de vraag of die emissie gecombineerd met andere emissies wordt geloosd op één of meer puntbronnen; *emissieconcentratie-eis:* per bron voor onderscheiden afgascomponenten als bovengrens te hanteren emissieconcentratie ten aanzien van emissies naar de lucht, uitgedrukt in massa per normaal kubieke meter; *grensmassastroom:* een drempelwaarde per stofklasse, uitgedrukt in gram emissie per uur, waarboven een emissie naar de lucht als relevant beschouwd wordt; *ISO-luchtcondities:* temperatuur van 288 Kelvin, een druk van 101,3 kiloPascal en een relatieve vochtigheid van 60 procent; *meetmethode:* het geheel van monsterneming, monsterbehandeling en analyse ten behoeve van de kwantificering van emissies; *stikstofoxiden (NO <sub>x</sub>):* stikstofmonoxide en stikstofdioxide, uitgedrukt als stikstofdioxide; *stofcategorie:* clustering van stoffen op basis van vergelijkbare fysische of chemische eigenschappen, overeenkomstig paragraaf 4.4 van de NeR; *stofklasse:* onderverdeling binnen een stofcategorie op basis van vergelijkbare (toxicologische) eigenschappen, overeenkomstig paragraaf 4.5 van de NeR; *gA:* gasvormige anorganische stoffen als bedoeld in de NeR; *gO:* gasvormige organische stoffen als bedoeld in de NeR; *MVP:* minimalisatieverplichte stoffen als bedoeld in de NeR; *puntbron:* een gefixeerd punt van gekanaliseerde en daarmee in principe kwantificeerbare emissies naar de lucht; *S:* totaal stof, als bedoeld in de NeR; *sO:* stofvormige organische stoffen als bedoeld in de NeR; *sA:* stofvormige anorganische stoffen als bedoeld in de NeR.   
 3.  Een wijziging van artikel 3, onder f en i, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002, inzake de evaluatie en de beheersing van omgevingslawaai, gaat voor de toepassing van de in het eerste lid gegeven omschrijving van L <sub>den</sub> en L <sub>night</sub> gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 
@@ -191,18 +191,21 @@ b. een ontheffing waarbij het bevoegd gezag de daarbij aangewezen bepalingen nie
 
 ### Artikel  1.3a  
 
-Dit besluit berust mede op de artikelen 10.2, tweede lid, 10.30, derde lid, en 10.32 van de wet, de artikelen 6.2, eerste lid, onderdeel b, en tweede lid, onderdeel b, 6.6, 6.7 en 6.12, onderdeel e, van de Waterwet, de artikelen 78, 79 en 80 van de Wet gewasbeschermingsmiddelen en biociden, de artikelen 1.1, derde lid, 2.1, eerste lid, onderdeel i, 2.17 en 3.9, derde lid, van de Wet algemene bepalingen omgevingsrecht, de artikelen 6, 17 en 65 van de Wet bodembescherming en artikel 2, eerste lid, van de Meststoffenwet.  
+Dit besluit berust mede op de artikelen 10.2, tweede lid, en 10.32 van de wet, de artikelen 6.2, eerste lid, onderdeel b, en tweede lid, onderdeel b, 6.6, 6.7 en 6.12, onderdeel e, van de Waterwet, de artikelen 78, 79 en 80 van de Wet gewasbeschermingsmiddelen en biociden, de artikelen 1.1, derde lid, 2.1, eerste lid, onderdeel i, 2.17 en 3.9, derde lid, van de Wet algemene bepalingen omgevingsrecht, de artikelen 6, 17 en 65 van de Wet bodembescherming en artikel 2, eerste lid, van de Meststoffenwet.  
 
 ### Artikel  1.3b  
 
-Hoofdstuk 6 van de Waterwet is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de Wet gewasbeschermingsmiddelen en biociden, voor zover die handelingen plaatsvinden bij het verrichten van agrarische activiteiten of activiteiten die daarmee verband houden.  
+Hoofdstuk 6 van de Waterwet is mede van toepassing op handelingen waaromtrent regels zijn opgesteld bij of krachtens de Wet gewasbeschermingsmiddelen en biociden, voor zover die handelingen plaatsvinden: 
+
+a. bij het verrichten van agrarische activiteiten of activiteiten die daarmee verband houden;  
+
+b. bij het lozen van koelwater.    
 
 ### §  1.1.2  
 
 ####Reikwijdte en andere procedurele bepalingen
 
-### Artikel  1.3c   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  1.3c  
 
 Een bedrijfswoning, behorend tot of voorheen behorend tot een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten dan wel activiteiten die daarmee verband houden worden verricht, die op grond van het bestemmingsplan, de beheersverordening of, indien met toepassing van artikel 2.12, eerste lid, van de Wabo van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning door een derde bewoond mag worden, wordt met betrekking tot die inrichting voor de toepassing van het bij of krachtens dit besluit bepaalde beschouwd als onderdeel van die inrichting.  
 
@@ -230,13 +233,13 @@ In afwijking van de artikelen 1, 1.9b, 1.22, 2.1a, 2.3a, 2.8a, 2.11a, 2.14c, 2.1
 
 1.  Vrijstelling wordt verleend van de verboden, bedoeld in artikel 6.2, eerste en tweede lid, van de Waterwet voor: 
 
-a. lozen vanuit een inrichting type A of een inrichting type B voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.5, 3.6 tot en met 3.6b, 3.10k, 3.31, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105, 3.131, 3.138, 3.150, 3.152, 4.74c, 4.103g en 4.104e;  
+a. lozen vanuit een inrichting type A of een inrichting type B voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.5, 3.5e tot en met 3.5g, 3.6 tot en met 3.6b, 3.10k, 3.31, 3.32, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105, 3.131, 3.138, 3.150, 3.152, 4.74c, 4.74k, 4.74n, 4.103g en 4.104e;  
 
-b. lozen vanuit een inrichting type C, voor zover aan dat het lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.5, 3.6 tot en met 3.6b, 3.10k, 3.31, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105, 3.131, 3.138 en 3.150 en 3.152;  
+b. lozen vanuit een inrichting type C, voor zover aan dat het lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.5, 3.5e tot en met 3.5g, 3.6 tot en met 3.6b, 3.10k, 3.31, 3.32, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105, 3.131, 3.138 en 3.150 en 3.152;  
 
-c. lozen anders dan vanuit een inrichting afkomstig van agrarische activiteiten dan wel activiteiten die daarmee verband houden voor zover aan dat lozen regels zijn gesteld in de artikelen 3.3, 3.3a, 3.5, 3.6 tot en met 3.6b, 3.31, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105, 3.131, 3.138, 3.150 en 3.152.     
+c. lozen anders dan vanuit een inrichting afkomstig van agrarische activiteiten dan wel activiteiten die daarmee verband houden voor zover aan dat lozen regels zijn gesteld in de artikelen 3.3, 3.31, 3.32, 3.33, 3.34, 3.60 tot en met 3.64, 3.76 tot en met 3.91, 3.101, 3.102, 3.104, 3.105.     
 2.  Het lozen, bedoeld in het eerste lid, waarbij niet wordt voldaan aan de bij of krachtens dit besluit gestelde regels en voorschriften is verboden.   
-3.  Van de verboden, bedoeld in de artikelen 10.2, eerste lid, en 10.30, eerste lid, van de wet wordt vrijstelling verleend voor lozen anders dan vanuit een inrichting afkomstig van agrarische activiteiten dan wel activiteiten die daarmee samenhangen, voor zover aan dat het lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.6b, 3.34, 3.36, 3.70, 3.71 tot en met 3.73, 3.77, 3.87, 3.100, 3.102, 3.105, 3.126, 3.127 en 3.129.   
+3.  Van het verbod, bedoeld in artikel 10.2, eerste lid, van de wet, wordt vrijstelling verleend voor lozen op of in de bodem anders dan vanuit een inrichting afkomstig van agrarische activiteiten dan wel activiteiten die daarmee samenhangen.   
 4.  De artikelen van dit besluit zijn, behoudens dit artikellid, niet van toepassing op het in een oppervlaktewaterlichaam: 
 
 1°. in een werk aanbrengen of houden van bouwstoffen;  
@@ -350,8 +353,8 @@ d. airbags of gordelspanners worden geneutraliseerd door deze te ontsteken;
 e. de melding betrekking heeft op een inrichting als bedoeld in categorie 11.1, onderdeel b, van onderdeel C, van bijlage 1, bij het Besluit omgevingsrecht, voor zover het een inrichting betreft voor het vervaardigen van betonmortel of betonwaren, of  
 
 f. de melding betrekking heeft op een binnenschietbaan en de afstand van de binnenschietbaan tot het dichtstbijzijnde gevoelige object kleiner is dan 50 meter.     
-4.  Het bevoegd gezag kan besluiten dat het overleggen van een rapport van een akoestisch onderzoek als bedoeld in het eerste tot en met derde lid niet is vereist, indien aannemelijk is dat het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en de maximale geluidsniveaus (L <sub>Amax</sub>) veroorzaakt door de inrichting niet meer bedragen dan de waarden, bedoeld in de artikelen 2.17, 2.19, 2.20, 6.12 dan wel de van toepassing zijnde geluidswaarden van de omgevingsvergunning.   
-5.  Indien er een melding is gedaan als bedoeld in artikel 1.10, eerste of tweede lid, en aannemelijk is dat, in andere gevallen dan die genoemd in het eerste tot en met zesde lid, het langtijdgemiddeld beoordelingsniveau (L <sub>Ar,LT</sub>) of het maximaal geluidsniveau (L <sub>Amax</sub>) veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten of veroorzaakt door de verandering daarvan, meer bedragen dan de waarden, bedoeld in de artikelen 2.17, 2.19, 2.20, 6.12 dan wel de van toepassing zijnde geluidswaarden van de omgevingsvergunning, kan het bevoegd gezag binnen vier weken na ontvangst van de melding besluiten dat binnen een door het bevoegd gezag gestelde termijn een rapport van een akoestisch onderzoek wordt overgelegd.   
+4.  Het bevoegd gezag kan besluiten dat het overleggen van een rapport van een akoestisch onderzoek als bedoeld in het eerste tot en met derde lid niet is vereist, indien aannemelijk is dat aan de waarden, bedoeld in de artikelen 2.17, 2.19, 2.20, 3.14a, 6.12, dan wel de van toepassing zijnde geluidswaarden van de omgevingsvergunning kan worden voldaan.   
+5.  Indien er een melding is gedaan als bedoeld in artikel 1.10, eerste of tweede lid, en aannemelijk is dat, in andere gevallen dan die genoemd in het eerste tot en met derde lid, het langtijdgemiddeld beoordelingsniveau (L <sub>Ar,LT</sub>) of het maximaal geluidsniveau (L <sub>Amax</sub>) veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten of veroorzaakt door de verandering daarvan, meer bedragen dan de waarden, bedoeld in de artikelen 2.17, 2.19, 2.20, 6.12 dan wel de van toepassing zijnde geluidswaarden van de omgevingsvergunning, kan het bevoegd gezag binnen vier weken na ontvangst van de melding besluiten dat binnen een door het bevoegd gezag gestelde termijn een rapport van een akoestisch onderzoek wordt overgelegd.   
 6.  Het bevoegd gezag kan binnen vier weken na ontvangst van de melding, bedoeld in artikel 1.10, besluiten dat een rapport van een akoestisch onderzoek wordt overgelegd indien de inrichting is gelegen op een gezoneerd industrieterrein en een rapport van een akoestisch onderzoek noodzakelijk is voor zonebeheer.   
 7.  Uit het rapport van een akoestisch onderzoek blijkt op grond van verrichte geluidsmetingen of geluidsberekeningen of aan de waarden, bedoeld in de artikelen 2.17, 2.19, 2.20, 3.14a, 6.12 dan wel de van toepassing zijnde geluidswaarden van de omgevingsvergunning kan worden voldaan. In het rapport wordt aangegeven welke voorzieningen worden getroffen om te voorkomen dat de in de eerste volzin bedoelde waarden worden overschreden.   
 8.  In de volgende gevallen geeft het rapport tevens een beschrijving van het langtijdgemiddelde beoordelingsniveau (LAr,LT) veroorzaakt door de inrichting op de zonegrens en op geluidgevoelige objecten binnen de zone op basis waarvan het bevoegd gezag kan beoordelen of aan de geluidsvoorwaarden voor de zone kan worden voldaan: 
@@ -417,8 +420,7 @@ Bij een melding als bedoeld in artikel 1.10 wordt een rapport met de onderbouwin
 4.  Het bevoegd gezag kan binnen vier weken na ontvangst van de melding, bedoeld in het eerste en tweede lid, indien onvoldoende aannemelijk is dat aan artikel 3.5b  en artikel 3.5d, respectievelijk artikel 3.140 wordt voldaan, besluiten dat een rapport van een geuronderzoek wordt overgelegd.   
 5.  Een geuronderzoek als bedoeld in het vierde lid wordt uitgevoerd overeenkomstig NTA 9065: 2012.   
 
-### Artikel  1.17a   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  1.17a  
 
 Bij een melding als bedoeld in artikel 1.10 worden, indien sprake is van de oprichting van een zuiveringtechnisch werk of de wijziging van een bestaand zuiveringtechnisch werk die de lozing van dat werk op een oppervlaktewaterlichaam beïnvloedt, tevens de volgende gegevens gemeld: 
 
@@ -505,7 +507,7 @@ c. de in het eerste lid, onderdelen b tot en met d, en g, bedoelde gegevens.
 
 ####Zorgplicht
 
-### Artikel  1.22  
+### Artikel  2  
 
 Deze afdeling is van toepassing op degene die: 
 
@@ -568,8 +570,12 @@ b. een inrichting type C drijft, voor zover deze afdeling betrekking heeft op ac
 
 ### Artikel  2.2  
 
-1.  Het lozen van afvalwater op of in de bodem en het lozen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater niet zijnde een vuilwaterriool, is verboden tenzij het lozen bij of krachtens de artikelen 3.1 tot en met 3.6a, 3.10k, 3.16h, 3.24, 3.32 tot en met 3.34, 3.47, 3.60, 3.61, 3.62, 3.77, 3.87, 3.100, 3.102, 3.105, 3.126, 3.127, 3.129, 3.131, 3.150, 4.74c, 4.103g tot en met 4.104d, is toegestaan.   
-2.  In afwijking van het eerste lid is lozen op of in de bodem verboden, indien daarbij stoffen zonder doorsijpeling door bodem of ondergrond in het grondwater geraken.   
+1.  Het is verboden: 
+
+a. afvalwater te lozen op of in de bodem, tenzij het lozen is toegestaan bij of krachtens de artikelen 2.2b, 3.1 tot en met 3.5, 3.6a, 3.10k, 3.16h, 3.23d, 3.24, 3.32 tot en met 3.34, 3.47, 3.60, 3.61, 3.62, 3.77, 3.87, 3.100, 3.102, 3.105, 3.129, 3.131, 3.150, 4.74c, 4.104, 4.104b en 4.104c,  
+
+b. afvalwater en andere afvalstoffen te lozen in een voorziening voor de inzameling en het transport van afvalwater niet zijnde een vuilwaterriool, tenzij het lozen is toegestaan bij of krachtens de artikelen 2.2b, 3.1 tot en met 3.3, 3.6a, 3.60, 3.61, 3.62, 3.150, 4.74c en 4.104e.     
+2.  In afwijking van het eerste lid, onder a, is lozen op of in de bodem verboden, indien daarbij stoffen zonder doorsijpeling door bodem of ondergrond in het grondwater geraken.   
 3.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat het eerste en tweede lid niet van toepassing zijn en dat lozen op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater niet zijnde een vuilwaterriool is toegestaan indien het belang van de bescherming van het milieu zich gelet op de samenstelling, hoeveelheid en eigenschappen van de lozing daartegen niet verzet.   
 4.  Bij maatwerkvoorschrift als bedoeld in het derde lid kunnen voorwaarden worden gesteld met betrekking tot: 
 
@@ -580,7 +586,7 @@ b. te treffen maatregelen;
 c. de duur van de lozing; en  
 
 d. de plaats van het lozingspunt.     
-5.  Het eerste en het tweede lid zijn niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van artikel 6.4 of artikel 6.5, onderdeel b, van de Waterwet, dan wel een vergunning op grond van een verordening van het waterschap voorschriften zijn gesteld.   
+5.  Het eerste lid, onder a, en het tweede lid zijn niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van artikel 6.4 of artikel 6.5, onderdeel b, van de Waterwet, dan wel een vergunning op grond van een verordening van het waterschap voorschriften zijn gesteld.   
 6.  Indien een maatwerkvoorschrift als bedoeld in het derde lid een lozing betreft die aanzienlijke gevolgen voor het milieu kan hebben, is op de voorbereiding van het maatwerkvoorschrift afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Artikel  2.2a  
@@ -592,7 +598,7 @@ Indien er sprake is van een zodanige combinatie van meerdere activiteiten, dat e
 1.  In afwijking van artikel 2.2, eerste lid, is het lozen van spoelwater ten gevolge van het boren ten behoeve van een open bodemenergiesysteem op de bodem toegestaan.   
 2.  In afwijking van artikel 2.2, eerste lid, is het lozen van spoelwater ten gevolge van het ontwikkelen en het onderhoud van een open bodemenergiesysteem in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, toegestaan.   
 3.  Het lozen van spoelwater ten gevolge van het ontwikkelen en het onderhoud van een open bodemenergiesysteem vindt slechts dan in een vuilwaterriool plaats, indien lozen als bedoeld in het tweede lid, redelijkerwijs niet mogelijk is.   
-4.  In afwijking van artikel 1.22, onder b, is artikel 2.1 van toepassing op degene die een inrichting type C drijft ten aanzien van het lozen in een voorziening voor de inzameling en het transport van afvalwater op of in de bodem ten gevolge van een open bodemenergiesysteem.   
+4.  In afwijking van artikel 2, onder b, is artikel 2.1 van toepassing op degene die een inrichting type C drijft ten aanzien van het lozen in een voorziening voor de inzameling en het transport van afvalwater op of in de bodem ten gevolge van een open bodemenergiesysteem.   
 
 ### Artikel  2.3  
 
@@ -632,14 +638,12 @@ p. NEN-ISO 5813 of NEN-ISO 5814 ten aanzien van het zuurstofgehalte;
 
 q. NEN-EN 872 ten aanzien van onopgeloste stoffen;  
 
-r. NEN-ISO 15681-1 en NEN-ISO 15681-2 ten aanzien van fosfor totaal;  
+r. NEN-EN-ISO 15681-1 en NEN-EN-ISO 15681-2 ten aanzien van fosfor totaal;  
 
 s. NEN 6414 ten aanzien van temperatuur;  
 
-t. ISO 11083 ten aanzien van chroom VI;  
-
-u. NEN-ISO 15681-1/2 ten aanzien van totaal fosfor.     
-2.  De monstername ten behoeve van de emissiemetingen ter controle van de naleving van de emissie-eisen voor het lozen wordt uitgevoerd volgens NEN-6600-1 en de conservering van het monster wordt uitgevoerd volgens NEN-EN-ISO 5667-3. Het monster wordt niet gefiltreerd en de onopgeloste stoffen worden meegenomen in de analyse.   
+t. NEN-ISO 11083 ten aanzien van chroom VI.     
+2.  De monstername ten behoeve van de emissiemetingen ter controle van de naleving van de emissie-eisen voor het lozen wordt uitgevoerd volgens NEN 6600-1 en de conservering van het monster wordt uitgevoerd volgens NEN-EN-ISO 5667-3. Het monster wordt niet gefiltreerd en de onopgeloste stoffen worden meegenomen in de analyse.   
 3.  In afwijking van het eerste en tweede lid kunnen andere methoden voor emissiemetingen, monstername en conservering worden gebruikt, indien deze gelijkwaardig zijn aan de in die leden genoemde methoden.   
 
 ### Afdeling  2.3  
@@ -656,7 +660,7 @@ b. een inrichting type C drijft, voor zover deze afdeling betrekking heeft op ac
 
 ### Artikel  2.4  
 
-De artikelen 2.5 en 2.6 zijn uitsluitend van toepassing op emissies van stoffen bij activiteiten waarvoor bij of krachtens de artikelen 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125, ten aanzien van emissies naar de lucht regels zijn gesteld.  
+De artikelen 2.5 en 2.6 zijn uitsluitend van toepassing op emissies van stoffen bij activiteiten waarvoor bij of krachtens de artikelen 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.54a, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125, ten aanzien van emissies naar de lucht regels zijn gesteld.  
 
 ### Artikel  2.5  
 
@@ -729,7 +733,7 @@ b. de toegepaste emissiebeperkende techniek in combinatie met de geëmitteerde s
 c. de grootte en aard van de emissies daartoe aanleiding geven;  
 
 d. de grootte van emissies die kunnen optreden bij storing aan de emissiebeperkende techniek, daartoe aanleiding geven.     
-3.  Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot het onderhoud en de controle van een emissiebeperkende techniek die door de inrichting wordt ingezet om aan de artikelen 2.5, 2.6, 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125 te voldoen indien geen of naar de mening van het bevoegd gezag onvoldoende onderhoud is verricht aan de emissiebeperkende techniek.   
+3.  Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot het onderhoud en de controle van een emissiebeperkende techniek die door de inrichting wordt ingezet om aan de artikelen 2.5, 2.6, 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.54a, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125 te voldoen indien geen of naar de mening van het bevoegd gezag onvoldoende onderhoud is verricht aan de emissiebeperkende techniek.   
 
 ### Artikel  2.8  
 
@@ -737,19 +741,19 @@ d. de grootte van emissies die kunnen optreden bij storing aan de emissiebeperke
 
 a. wordt op verzoek van het bevoegd gezag éénmalig aangetoond of de grensmassastromen zoals bedoeld in artikel 2.5 en in de hoofdstukken 3 en 4, vanwege het in werking zijn van de inrichting, niet overschreden worden; of  
 
-b. wordt op verzoek van het bevoegd gezag indien een of meer grensmassastromen als bedoeld in artikel 2.5 worden overschreden, eenmalig aangetoond of wordt voldaan aan de emissie-eisen dan wel een op grond van artikel 2.7, eerste lid, gestelde eis ten aanzien van stoffen waarvoor in de artikelen 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125, eisen ten aanzien van emissies naar de lucht zijn gesteld door middel van een emissiemeting, dan wel door middel van een emissieberekening mits dit is goedgekeurd door het bevoegd gezag, met uitzondering van bronnen waarvan is aangetoond dat de massastroom lager is dan de vrijstellingsgrens, bedoeld in artikel 2.6.     
+b. wordt op verzoek van het bevoegd gezag indien een of meer grensmassastromen als bedoeld in artikel 2.5 worden overschreden, eenmalig aangetoond of wordt voldaan aan de emissie-eisen dan wel een op grond van artikel 2.7, eerste lid, gestelde eis ten aanzien van stoffen waarvoor in de artikelen 3.26b, 3.38, 3.141, 3.143, 4.21, 4.23, 4.27a, 4.29, 4.31b, 4.33 tot en met 4.35, 4.40 tot en met 4.42, 4.44 tot en met 4.46, 4.50, 4.54, 4.54a, 4.58, 4.60, 4.62, 4.65, 4.68, 4.74b, 4.74f, 4.74j, 4.74s, 4.94, 4.94g, 4.103aa, 4.103d, 4.119 en 4.125, eisen ten aanzien van emissies naar de lucht zijn gesteld door middel van een emissiemeting, dan wel door middel van een emissieberekening mits dit is goedgekeurd door het bevoegd gezag, met uitzondering van bronnen waarvan is aangetoond dat de massastroom lager is dan de vrijstellingsgrens, bedoeld in artikel 2.6.     
 2.  Het eerste lid, onderdelen a en b, is van overeenkomstige toepassing op een verandering van de inrichting indien de verandering naar verwachting zal leiden tot een significante toename van de emissie.   
 3.  Emissiemetingen ter controle op de naleving van de emissie-eisen worden uitgevoerd overeenkomstig paragraaf 3.7 van de NeR en volgens: 
 
 a. NEN-EN 13284-1, dan wel in het geval van continue metingen, volgens NEN-EN 13284-2, ten aanzien van stofklasse S;  
 
-b. ISO 16740, ten aanzien van chroom VI -verbindingen;  
+b. NEN-ISO 16740, ten aanzien van chroom VI -verbindingen;  
 
 c. NEN-EN 14385, ten aanzien van zware metalen;  
 
 d. NEN-EN 1911, dan wel in het geval van continue metingen volgens VDI 3480-3, ten aanzien van zoutzuur;  
 
-e. ISO 5713, ten aanzien van waterstoffluoride;  
+e. NEN-ISO 15713, ten aanzien van waterstoffluoride;  
 
 f. NEN-EN 14792, dan wel in het geval van continue metingen volgens NEN-ISO 10849, ten aanzien van stikstofoxiden; en  
 
@@ -765,9 +769,9 @@ g. NEN 2826, ten aanzien van ammoniak.
 
 1.  Deze afdeling is van toepassing op degene die: 
 
-a. een inrichting type A of een inrichting type B drijft of een C-inrichting waartoe een IPPC-installatie behoort, of  
+a. een inrichting type A of een inrichting type B drijft of een inrichting type C waartoe een IPPC-installatie behoort, of  
 
-b. een inrichting type C drijft waartoe geen IPPC-installatie behoort, voor zover deze activiteiten verricht binnen de inrichting waarop hoofdstuk 3 van toepassing is.     
+b. een inrichting type C drijft waartoe geen IPPC-installatie behoort, voor zover deze afdeling betrekking heeft op activiteiten die verricht worden binnen de inrichting waarop hoofdstuk 3 van toepassing is.     
 2.  Voor zover het betreft een inrichting type C waartoe een IPPC-installatie behoort, is in afwijking van het eerste lid, onder a, artikel 2.11, eerste lid, niet van toepassing.   
 
 ### Artikel  2.9  
@@ -867,11 +871,9 @@ Indien binnen een inrichting een afvalstof zijnde metaal, hout, kunststof, texti
 7.  Uiterlijk binnen acht weken na de beëindiging van de inrichting worden de daarin aanwezige afvalstoffen uit de inrichting afgevoerd.   
 8.  Het is verboden afvalstoffen te verdichten, tenzij: 
 
-a. het geen gevaarlijke afvalstof betreft;  
+a. het geen gevaarlijke afvalstof betreft, en  
 
-b. de afvalstoffen niet afkomstig zijn van buiten de inrichting, en  
-
-c. het verdichten geen belemmering vormt voor nascheiding.     
+b. het verdichten geen belemmering vormt voor de nascheiding of recycling.     
 
 ### Artikel  2.14b  
 
@@ -1024,7 +1026,9 @@ f. de waarden binnen in- en aanpandige gevoelige gebouwen slechts gelden in gelu
 g. de in tabel 2.17e en 2.17f aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
 6.  In afwijking van het eerste, tweede en derde lid geldt voor een glastuinbouwbedrijf binnen een glastuinbouwgebied dat: 
 
-a. voor het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en het maximaal geluidsniveau (L <sub>Amax</sub>), veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten en laad- en losactiviteiten ten behoeve van en in de onmiddellijke nabijheid van de inrichting, de niveaus op de in tabel 2.17g genoemde plaatsen en tijdstippen niet meer bedragen dan de in die tabel aangegeven waarden;  Tabel 2.17g 
+a. voor het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en het maximaal geluidsniveau (L <sub>Amax</sub>), veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten en laad- en losactiviteiten ten behoeve van en in de onmiddellijke nabijheid van de inrichting, de niveaus op de in tabel 2.17g genoemde plaatsen en tijdstippen niet meer bedragen dan de in die tabel aangegeven waarden;  
+
+b. de in de periode tussen 06.00 uur en 19.00 uur in tabel 2.17g opgenomen maximale geluidsniveaus (L <sub>Amax</sub>) niet van toepassing zijn op laad- en losactiviteiten;  Tabel 2.17g 
 
 |--- | 06:00–19:00 uur  | 19:00–22:00 uur  | 22:00–06:00 uur  |
 |---|---|---|---|
@@ -1032,8 +1036,6 @@ a. voor het langtijdgemiddelde beoordelingsniveau (L <sub>Ar,LT</sub>) en het ma
 | L <sub>Ar,LT</sub> in in- en aanpandige gevoelige gebouwen  | 35 dB(A)  | 30 dB(A)  | 25 dB(A)  |
 | L <sub>Amax</sub> op de gevel van gevoelige gebouwen  | 70 dB(A)  | 65 dB(A)  | 60 dB(A)  |
 | L <sub>Amax</sub> in in- en aanpandige gevoelige gebouwen  | 55 dB(A)  | 50 dB(A)  | 45 dB(A)  |
-
-b. de in de periode tussen 06.00 uur en 19.00 uur in tabel 2.17a opgenomen maximale geluidsniveaus (L <sub>Amax</sub>) niet van toepassing zijn op laad- en losactiviteiten;  
 
 c. de in tabel 2.17g aangegeven waarden binnen in- of aanpandige gevoelige gebouwen niet gelden indien de gebruiker van deze gevoelige gebouwen geen toestemming geeft voor het in redelijkheid uitvoeren of doen uitvoeren van geluidsmetingen;  
 
@@ -1161,7 +1163,7 @@ Deze afdeling is van toepassing op degene die een inrichting type A of een inric
 
 ### Artikel  2.23a  
 
-Deze afdeling is van toepassing op degene die een inrichting type B of een inrichting type C drijft, voor zover binnen de inrichting vloeibare brandstof of afgewerkte olie in een ondergrondse opslagtank wordt opgeslagen.  
+Deze afdeling is van toepassing op degene die een inrichting type B of een inrichting type C drijft, voor zover binnen de inrichting vloeibare brandstof of afgewerkte olie in een ondergrondse opslagtank waarop artikel 3.29, aanhef en onderdeel a of b, van toepassing is, wordt opgeslagen.  
 
 ### Artikel  2.24  
 
@@ -1312,7 +1314,11 @@ De monitoring van emissies, het opstellen van een reductieprogramma en een oplos
 
 ### Artikel  3  
 
-Dit hoofdstuk is van toepassing op degene die een inrichting type A, een inrichting type B of een inrichting type C drijft.  
+Dit hoofdstuk is van toepassing op degene die: 
+
+a. een inrichting type A of een inrichting type B drijft, of  
+
+b. een inrichting type C drijft, met uitzondering van de artikelen 3.113 tot en met 3.121.    
 
 ### Afdeling  3.1  
 
@@ -1385,7 +1391,7 @@ d. in enig steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 
 | Chroom  | 2,4 microgram per liter  |
 | Onopgeloste stoffen  | 20 milligram per liter  |
 
-4.  Het lozen op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in tabel 1 van de bijlage bij de circulaire bodemsanering 2009.   
+4.  Het lozen op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in tabel 1 van de bijlage bij de circulaire bodemsanering per 1 juli 2013.   
 5.  Het lozen, bedoeld in het eerste lid, in een vuilwaterriool is verboden.   
 6.  Indien lozen als bedoeld in het eerste lid in een oppervlaktewaterlichaam, op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, redelijkerwijs niet mogelijk is: 
 
@@ -1485,7 +1491,7 @@ c. 600 meter bij 25 doch minder dan 50 inwonerequivalenten;
 
 d. 1500 meter bij 50 doch minder dan 100 inwonerequivalenten; en  
 
-e. 3000 meter bij 100 tot en met 200 inwonerequivalenten.     
+e. 3.000 meter bij 100 of meer inwonerequivalenten.     
 2.  De afstand, bedoeld in het eerste lid, wordt berekend: 
 
 a. vanaf de kadastrale grens van het perceel waar het huishoudelijk afvalwater vrijkomt; en  
@@ -1543,8 +1549,7 @@ De geurbelasting, bedoeld in artikel 3.5b, eerste en tweede lid, en artikel 6.19
 1.  In afwijking van artikel 2.9 worden bij het ontwerp, de aanleg en het gebruik van het gedeelte van de waterlijn, vanaf het ontvangstwerk tot de selector of beluchtingstank, alsmede van het gedeelte van het zuiveringtechnisch werk waar slibontwatering, opslag en leidingwerk met primair slib plaatsvindt, bodembeschermende voorzieningen en bodembeschermende maatregelen getroffen waarmee een aanvaardbaar bodemrisico wordt gerealiseerd.   
 2.  De bodembeschermende voorzieningen en bodembeschermende maatregelen, bedoeld in het eerste lid, voldoen aan de bij ministeriële regeling te stellen eisen over de goede werking van die voorzieningen en maatregelen, en over de controle van die eisen alsmede aan de bij ministeriële regeling te stellen eisen over de mogelijkheid om bodemverontreiniging te kunnen signaleren en indien nodig te herstellen.   
 
-### Artikel  3.5e   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.5e  
 
 1.  Bij het lozen in een oppervlaktewaterlichaam wordt ten minste voldaan aan het tweede tot en met zevende lid.   
 2.  Een zuiveringtechnisch werk wordt zodanig ontworpen, gebouwd, geëxploiteerd en onderhouden dat onder alle normale plaatselijke weersomstandigheden de doelmatige werking daarvan is gewaarborgd, ongebruikelijke situaties daarbij buiten beschouwing gelaten.   
@@ -1569,14 +1574,12 @@ a. dat voor 1 september 1992 in bedrijf is genomen en waarvan de ontwerpcapacite
 
 b. met een ontwerpcapaciteit van minder dan 20.000 inwonerequivalenten.     
 
-### Artikel  3.5f   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.5f  
 
 1.  Voor de toepassing van dit artikel wordt onder «voorzienbare bijzondere bedrijfsomstandigheden bij een zuiveringtechnisch werk» verstaan: andere dan de reguliere bedrijfsomstandigheden, niet zijnde een ongewoon voorval, zoals onderhouds- en reparatiewerkzaamheden, waardoor onderdelen van het zuiveringsproces tijdelijk buiten bedrijf worden gesteld.   
 2.  In het geval van voorzienbare bijzondere bedrijfsomstandigheden als bedoeld in het eerste lid die gevolgen kunnen hebben voor de kwaliteit van het na zuivering te lozen afvalwater, kan het bevoegd gezag op verzoek van het openbaar lichaam of een andere rechtspersoon die krachtens artikel 3.4 van de Waterwet is belast met de zorg voor een zuiveringstechnisch werk voor een door hem vast te stellen periode bij maatwerkvoorschrift de grenswaarden, genoemd in artikel 3.5e, vierde, zesde of zevende lid, niet van toepassing verklaren en hogere grenswaarden vaststellen alsmede tijdelijk aanvullende maatregelen voorschrijven om de nadelige gevolgen voor de waterkwaliteit zoveel mogelijk te beperken.   
 
-### Artikel  3.5g   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.5g  
 
 1.  Het openbaar lichaam of een andere rechtspersoon welke krachtens artikel 3.4 van de Waterwet is belast met de zorg voor een zuiveringtechnisch werk voor de behandeling van stedelijk afvalwater met een vervuilingswaarde van 2.000 inwonerequivalenten of meer bemonstert zowel het inkomende, onbehandelde stedelijk afvalwater als het te lozen gezuiverde stedelijk afvalwater, analyseert de monsters en beoordeelt de resultaten daarvan overeenkomstig de bij ministeriële regeling gestelde eisen.   
 2.  Het openbaar lichaam of een andere rechtspersoon als bedoeld in het eerste lid legt binnen vier maanden na afloop van ieder kalenderjaar aan Onze Minister een overzicht over van de onder zijn zorg staande zuiveringtechnische werken en van de resultaten van de bemonstering, analyse en beoordeling, bedoeld in dat lid.   
@@ -2128,22 +2131,30 @@ b. alle bewijzen van gecertificeerde of geaccrediteerde aanleg en inspectie die 
 
 ### §  3.3.2  
 
-####Het uitwendig wassen en stallen van motorvoertuigen, werktuigen of spoorvoertuigen
+####Het uitwendig wassen en stallen van motorvoertuigen of werktuigen of van spoorvoertuigen
 
 ### Artikel  3.23a  
 
-1.  De artikelen 3.23b  en 3.23c zijn van toepassing op het uitwendig wassen van motorvoertuigen, werktuigen of spoorvoertuigen, waaronder tevens wordt verstaan het verwijderen van graffiti.   
-2.  Artikel 3.24 is van toepassing op het uitwendig wassen van motorvoertuigen of werktuigen, waaronder tevens wordt verstaan het verwijderen van graffiti.   
-3.  Artikel 3.25 is van toepassing op het stallen van motorvoertuigen of werktuigen waarmee bij agrarische activiteiten gewasbeschermingsmiddelen zijn toegepast.   
+Deze paragraaf is van toepassing op: 
+
+a. het uitwendig wassen van motorvoertuigen of werktuigen of van spoorvoertuigen,  
+
+b. het verwijderen van graffiti van motorvoertuigen of werktuigen of van spoorvoertuigen, of  
+
+c. het stallen en uitwendig wassen van werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast.    
 
 ### Artikel  3.23b  
 
-1.  Bij het in een inrichting uitwendig wassen van motorvoertuigen, werktuigen of spoorvoertuigen wordt ten behoeve van het realiseren van een verwaarloosbaar bodemrisico voldaan aan de bij ministeriële regeling gestelde eisen.   
-2.  Het eerste lid is niet van toepassing, indien per week ten hoogste een motorvoertuig, werktuig of spoorvoertuig, waarmee geen gewasbeschermingsmiddelen zijn toegepast, uitwendig wordt gewassen.   
+1.  Bij het in een inrichting uitwendig wassen van motorvoertuigen of werktuigen of van spoorvoertuigen wordt ten behoeve van het realiseren van een verwaarloosbaar bodemrisico voldaan aan de bij ministeriële regeling gestelde eisen.   
+2.  Het eerste lid is niet van toepassing, indien: 
+
+a. per week ten hoogste een spoorvoertuig of een motorvoertuig of werktuig waarmee geen gewasbeschermingsmiddelen zijn toegepast, uitwendig wordt gewassen, en  
+
+b. per jaar ten hoogste twee werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast, uitwendig worden gewassen.     
 
 ### Artikel  3.23c  
 
-1.  Bij het lozen in een vuilwaterriool van afvalwater afkomstig van een bodembeschermende voorziening als gevolg van het uitwendig wassen van motorvoertuigen, werktuigen of spoorvoertuigen waarmee geen gewasbeschermingsmiddelen zijn toegepast, wordt ten minste voldaan aan het tweede tot en met vierde lid.   
+1.  Bij het lozen in een vuilwaterriool van afvalwater afkomstig van een bodembeschermende voorziening als gevolg van het uitwendig wassen van motorvoertuigen of werktuigen of van spoorvoertuigen waarmee geen gewasbeschermingsmiddelen zijn toegepast, wordt ten minste voldaan aan het tweede tot en met vierde lid.   
 2.  Het afvalwater in enig steekmonster bevat ten hoogste: 
 
 a. 20 milligram olie per liter;  
@@ -2152,8 +2163,7 @@ b. 300 milligram onopgeloste stoffen per liter.
 3.  In afwijking van het tweede lid bedraagt het gehalte aan olie ten hoogste 200 milligram per liter in enig steekmonster, indien het afvalwater voorafgaand aan de vermenging met ander afvalwater wordt geleid door een slibvangput en olieafscheider die voldoen aan en worden gebruikt conform NEN-EN 858-1 en 2.   
 4.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
-### Artikel  3.23d   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.23d  
 
 1.  Bij het lozen op of in de bodem of in een vuilwaterriool van afvalwater afkomstig van een bodembeschermende voorziening als gevolg van het uitwendig wassen van werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast, wordt ten minste voldaan aan het tweede tot en met vijfde lid.   
 2.  Het afvalwater wordt geleid door een zuiveringsvoorziening gericht op het verwijderen van gewasbeschermingsmiddelen, die voldoet aan de bij ministeriële regeling gestelde eisen.   
@@ -2167,35 +2177,35 @@ b. 300 milligram onopgeloste stoffen per liter.
 
 ### Artikel  3.24  
 
-1.  Bij het op of in de bodem of in een vuilwaterriool lozen van afvalwater als gevolg van het uitwendig wassen van motorvoertuigen of werktuigen waarmee bij agrarische activiteiten gewasbeschermingsmiddelen zijn toegepast, wordt ten minste voldaan aan het tweede en derde lid.   
-2.  Bij het lozen in een vuilwaterriool wordt het afvalwater geleid door een zuiveringsvoorziening gericht op het verwijderen van gewasbeschermingsmiddelen die voldoet aan de bij ministeriële regeling gestelde eisen.   
-3.  Het lozen van afvalwater op of in de bodem is toegestaan: 
+Het lozen op of in de bodem van afvalwater als gevolg van het uitwendig wassen van motorvoertuigen of werktuigen of van spoorvoertuigen, is toegestaan: 
 
-a. indien het uitwendig wassen plaatsvindt op een perceel waar de gewasbeschermingsmiddelen zijn toegepast;  
+a. indien in de inrichting per week ten hoogste een spoorvoertuig, motorvoertuig of werktuig, waarmee geen gewasbeschermingsmiddelen zijn toegepast, uitwendig wordt gewassen,  
 
-b. indien het lozen plaatsvindt door middel van een zuiveringsvoorziening gericht op het verwijderen van gewasbeschermingsmiddelen, die voldoet aan de bij ministeriële regeling gestelde eisen, of  
+b. indien in de inrichting per jaar ten hoogste twee werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast, uitwendig worden gewassen, of  
 
-c. indien het lozen plaatsvindt als gevolg van het in een inrichting uitwendig wassen van ten hoogste twee motorvoertuigen of werktuigen per jaar.     
+c. indien het lozen plaatsvindt als gevolg van het uitwendig wassen van werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast, op een perceel waar de gewasbeschermingsmiddelen zijn toegepast.    
 
 ### Artikel  3.25  
 
-Onverminderd artikel 3.3, worden motorvoertuigen of werktuigen waarmee bij agrarische activiteiten gewasbeschermingsmiddelen zijn toegepast, op een verhard oppervlak zodanig gestald, dat het te lozen hemelwater niet met de toegepaste gewasbeschermingsmiddelen kan worden verontreinigd.  
+Onverminderd artikel 3.3, worden motorvoertuigen of werktuigen waarmee gewasbeschermingsmiddelen zijn toegepast, op een verhard oppervlak zodanig gestald, dat het te lozen hemelwater niet met de toegepaste gewasbeschermingsmiddelen kan worden verontreinigd.  
 
 ### §  3.3.3  
 
-####Het demonteren van autowrakken en daarmee samenhangende activiteiten
+####Het demonteren van autowrakken of wrakken van tweewielige motorvoertuigen en daarmee samenhangende activiteiten
 
 ### Artikel  3.26  
 
 Deze paragraaf is van toepassing op: 
 
-a. het demonteren van autowrakken;  
+a. het demonteren van autowrakken of wrakken van tweewielige motorvoertuigen,  
 
-b. het aftappen van vloeistoffen uit autowrakken;  
+b. het aftappen van vloeistoffen uit autowrakken of wrakken van tweewielige motorvoertuigen,  
 
-c. het opslaan van bij het demonteren van autowrakken en het aftappen van vloeistoffen uit autowrakken vrijkomende afvalstoffen, en  
+c. het opslaan van autowrakken of wrakken van tweewielige motorvoertuigen voorafgaand aan het demonteren en het aftappen van vloeistoffen,  
 
-d. het neutraliseren van airbags en gordelspanners.    
+d. het opslaan van afvalstoffen die vrijkomen bij het demonteren van autowrakken of wrakken van tweewielige motorvoertuigen en het aftappen van vloeistoffen uit autowrakken of wrakken van tweewielige motorvoertuigen, en  
+
+e. het neutraliseren van airbags en gordelspanners.    
 
 ### Artikel  3.26a  
 
@@ -2218,7 +2228,13 @@ b. 50 milligram per normaal kubieke meter indien de massastroom kleiner is dan 2
 
 ### Artikel  3.26c  
 
-1.  Bij het in het vuilwaterriool lozen van afvalwater afkomstig van het demonteren van autowrakken wordt ten minste voldaan aan het tweede tot en met vierde lid.   
+1.  Bij het in het vuilwaterriool lozen van afvalwater afkomstig van: 
+
+a. het demonteren van autowrakken of wrakken van tweewielige motorvoertuigen,  
+
+b. het voor demontage aanwezig hebben van autowrakken of wrakken van tweewielige motorvoertuigen die vloeistoffen bevatten, of  
+
+c. het opslaan van vloeistof bevattende onderdelen van autowrakken of wrakken van tweewielige motorvoertuigen,   wordt ten minste voldaan aan het tweede tot en met vierde lid.   
 2.  Het afvalwater bevat in enig steekmonster niet meer dan: 
 
 a. 20 milligram olie per liter;  
@@ -2274,7 +2290,7 @@ Deze paragraaf is van toepassing op een jachthaven met meer dan 50 ligplaatsen.
 1.  Bij het in het vuilwaterriool lozen van ingenomen bilgewater van pleziervaartuigen wordt ten minste voldaan aan het tweede tot en met het vierde lid.   
 2.  Het afvalwater bevat in enig steekmonster niet meer dan: 
 
-a. 20 milligram olie per liter, of  
+a. 20 milligram olie per liter;  
 
 b. 300 milligram onopgeloste stoffen per liter.     
 3.  In afwijking van het tweede lid, bedraagt het gehalte aan olie ten hoogste 200 milligram per liter in enig steekmonster, indien het afvalwater voorafgaand aan vermenging met ander afvalwater wordt geleid door een slibvangput en olieafscheider die voldoen aan en worden gebruikt conform NEN-EN 858-1 en 2.   
@@ -2400,16 +2416,12 @@ Met betrekking tot het vulpunt van een ondergrondse opslagtank met organische op
 ### Artikel  3.31  
 
 1.  Deze paragraaf is van toepassing op het op- en overslaan van inerte goederen.   
-2.  Onverminderd het eerste lid is deze paragraaf voor zover het betreft inrichtingen type B van toepassing op: 
-
-a. het op- en overslaan van goederen, niet zijnde inerte goederen, voor zover dat niet is geregeld in de paragrafen 3.3.3., 3.4.1., 3.4.2., 3.4.5. tot en met 3.4.7., 4.1.1. tot en met 4.1.4. en 4.1.7.;  
-
-b. het composteren van groenafval.     
+2.  Onverminderd het eerste lid is deze paragraaf voor zover het betreft inrichtingen type B van toepassing op het op- en overslaan van goederen, niet zijnde inerte goederen, voor zover dat niet is geregeld in de paragrafen 3.3.3, 3.4.1, 3.4.2, 3.4.5 tot en met 3.4.7, 4.1.1 tot en met 4.1.4 en 4.1.7.   
 3.  Onverminderd het eerste lid is deze paragraaf voor zover het betreft inrichtingen type C van toepassing op: 
 
 a. het op- en overslaan van goederen, niet zijnde inerte goederen, voor zover dat niet is geregeld in de paragrafen 3.4.1, 3.4.2, 3.4.4 tot en met 3.4.7, 4.1.1 tot en met 4.1.4 en 4.1.7, bij: 
 
-1°. een autodemontagebedrijf;  
+1°. een autodemontagebedrijf of een demontagebedrijf voor tweewielige motorvoertuigen;  
 
 2°. een zuiveringtechnisch werk, of  
 
@@ -2475,7 +2487,7 @@ b. 300 milligram onopgeloste stoffen per liter.
 ### Artikel  3.36  
 
 1.  Bij het opslaan en overslaan van goederen, niet zijnde inerte goederen, wordt ten behoeve van het realiseren van een verwaarloosbaar bodemrisico, voldaan aan de bij ministeriële regeling te stellen eisen.   
-2.  Bij het opslaan en overslaan van bederfelijke afvalstoffen wordt ten behoeve van het voorkomen dan wel beperken van geurhinder voldaan aan de bij ministeriële regeling te stellen eisen.   
+2.  Bij het opslaan en overslaan van bederfelijke afvalstoffen wordt ten behoeve van het voorkomen dan wel beperken van geurhinder ten minste voldaan aan de bij ministeriële regeling te stellen eisen.   
 
 ### Artikel  3.37  
 
@@ -2668,7 +2680,8 @@ Deze paragraaf is van toepassing op het telen of kweken van gewassen in een kas.
 
 ### Artikel  3.57  
 
-Indien assimilatiebelichting met een verlichtingssterkte van ten minste 15.000 lux wordt toegepast, is vanaf het tijdstip van zonsondergang tot het tijdstip van zonsopgang de bovenzijde van de kas op een zodanige wijze afgeschermd dat ten minste 98% van de lichtuitstraling wordt gereduceerd.  
+1.  Indien assimilatiebelichting met een verlichtingssterkte van ten minste 15.000 lux wordt toegepast, is vanaf het tijdstip van zonsondergang tot het tijdstip van zonsopgang de bovenzijde van de kas op een zodanige wijze afgeschermd dat ten minste 98% van de lichtuitstraling wordt gereduceerd.   
+2.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, bij maatwerkvoorschrift buiten de donkerteperiode een ander percentage dan het percentage, bedoeld in het eerste lid, vaststellen.   
 
 ### Artikel  3.58  
 
@@ -2724,21 +2737,19 @@ a. spoelwater van filters van een waterdoseringsinstallatie;
 
 b. afvalwater dat bloemvoorbehandelingsmiddelen uitsluitend op basis van actief chloor bevat;  
 
-c. uitlek- en percolatiewater van gebruikt substraatmateriaal;  
+c. drainagewater afkomstig van een teelt waarbij gewassen op een bodem groeien die in verbinding staat met de ondergrond;  
 
-d. drainagewater afkomstig van een teelt waarbij gewassen op een bodem groeien die in verbinding staat met de ondergrond;  
+d. drainwater;  
 
-e. drainwater;  
+e. afvalwater afkomstig van het spuiten of schrobben van vloeren, niet zijnde vloeren van ruimten waar gewasbeschermingsmiddelen of biociden worden aangemaakt;  
 
-f. afvalwater afkomstig van het spuiten of schrobben van vloeren, niet zijnde vloeren van ruimten waar gewasbeschermingsmiddelen of biociden worden aangemaakt;  
+f. reinigingswater van leidingen, druppelaars en slangen die onderdeel uitmaken van het systeem waarmee voedingswater aan het gewas wordt toegediend;  
 
-g. reinigingswater van leidingen, druppelaars en slangen die onderdeel uitmaken van het systeem waarmee voedingswater aan het gewas wordt toegediend;  
+g. condenswater van stoomleidingen en condenswater van verwarmingsketels;  
 
-h. condenswater van stoomleidingen en condenswater van verwarmingsketels;  
+h. condenswater van warmtekrachtinstallaties, of  
 
-i. condenswater van warmtekrachtinstallaties, of  
-
-j. afvalwater afkomstig van het bij opkweekbedrijven doorspoelen van substraatblokken die bestemd zijn voor de opkweek van uitgangsmateriaal; is toegestaan, indien ten minste: 
+i. afvalwater afkomstig van het bij opkweekbedrijven doorspoelen van substraatblokken die bestemd zijn voor de opkweek van uitgangsmateriaal; is toegestaan, indien ten minste: 
 
 1°. het perceel waar het afvalwater vrijkomt niet is aangesloten op een vuilwaterriool of zuiveringtechnisch werk, waarop geloosd kan worden, en de afstand tot het dichtstbijzijnde vuilwaterriool waarop kan worden aangesloten en geloosd, meer dan 40 meter bedraagt, of  
 
@@ -2775,7 +2786,7 @@ Onverminderd de artikelen 3.56 tot en met 3.64, wordt bij substraatteelt in een 
 
 ### Artikel  3.66  
 
-1.  Bij het lozen van drainwater in een vuilwaterriool wordt ten minste voldaan aan het tweede tot en met het tiende lid.   
+1.  Bij het lozen van drainwater wordt ten minste voldaan aan het tweede tot en met het tiende lid.   
 2.  Voor de gietwatervoorziening: 
 
 a. is een hemelwateropvangvoorziening van ten minste 500 kubieke meter per hectare teeltoppervlak aanwezig en in gebruik, of  
@@ -2835,7 +2846,7 @@ In afwijking van de artikelen 3.67 en 3.68 kan het bevoegd gezag, indien het met
 
 ### Artikel  3.70  
 
-Onverminderd de artikelen 3.56 tot en met 3.63 wordt bij het telen in een kas, waarbij gewassen op materiaal groeien dat in verbinding staat met de ondergrond, voldaan aan de artikelen 3.71 tot en met 3.74.  
+Onverminderd de artikelen 3.56 tot en met 3.64 wordt bij het telen in een kas, waarbij gewassen op materiaal groeien dat in verbinding staat met de ondergrond, voldaan aan de artikelen 3.71 tot en met 3.74.  
 
 ### Artikel  3.71  
 
@@ -2848,7 +2859,7 @@ b. wordt water gebruikt met een natriumgehalte dat gelijkwaardig is aan dat van 
 3.  Bij ministeriële regeling worden per gewas of gewasgroep de maximaal toegestane hoeveelheden aan totaal stikstof en totaal fosfor in kilogram per hectare per jaar vastgesteld.   
 4.  De hoeveelheden toe te dienen water en meststoffen zijn afgestemd op de behoefte van het gewas, waarbij rekening is gehouden met de relevante specifieke teeltomstandigheden en waarbij de hoeveelheden, bedoeld in het derde lid, niet worden overschreden.   
 5.  Voor het doorspoelen van de grond bij een volgteelt van bladgroentegewassen wordt ten hoogste 3000 kubieke meter water per hectare gestoomde grond gebruikt.   
-6.  Bij het lozen van drainagewater in een vuilwaterriool geldt ten minste dat: 
+6.  Bij het lozen van drainagewater geldt ten minste dat: 
 
 a. voor het recirculeren daarvan een recirculatiesysteem aanwezig en in gebruik is, en  
 
@@ -2872,7 +2883,7 @@ e. per gewas of groep van gewassen met eenzelfde bemestingsniveau, het gehalte a
 
 f. na elk gebruik de hoeveelheid in kilogram per hectare toegediende meststoffen onder vermelding van de samenstelling van de meststof;  
 
-g. het gewas of de gewassen die worden geteeld en het teeltoppervlak per gewas en de teeltperiode, of  
+g. het gewas of de gewassen die worden geteeld en het teeltoppervlak per gewas en de teeltperiode, en  
 
 h. jaarlijks de op 1 januari aanwezige meststoffen onder vermelding van de merknaam zoals die op de verpakking is vermeld, de naam en het adres van de leveranciers en de hoeveelheid, uitgedrukt in kilogrammen of liters.     
 2.  Indien op grond van artikel 3.63, eerste lid, drainagewater zowel in het vuilwaterriool als in een oppervlaktewaterlichaam wordt geloosd, kan het bevoegd gezag bij maatwerkvoorschrift bepalen dat beide hoeveelheden worden gemeten en geregistreerd overeenkomstig het eerste lid.   
@@ -2909,15 +2920,17 @@ Deze paragraaf is van toepassing op het telen of kweken van gewassen in een gebo
 1.  Bij het lozen van afvalwater als gevolg van het telen of kweken van gewassen in een gebouw, anders dan in een kas, wordt ten minste voldaan aan het tweede tot en met vijfde lid.   
 2.  Lozen in een oppervlaktewaterlichaam is toegestaan, indien: 
 
-a. het perceel waar het afvalwater vrijkomt niet is aangesloten op een vuilwaterriool, waarop geloosd kan worden en de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringtechnisch werk waarop kan worden aangesloten en geloosd meer dan 40 meter bedraagt;  
+a. het perceel waar het afvalwater vrijkomt niet is aangesloten op een vuilwaterriool, waarop geloosd kan worden en de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringtechnisch werk waarop kan worden aangesloten en geloosd meer dan 40 meter bedraagt, of  
 
-b. het afvalwater afkomstig is van een teelt waarbij geen gewasbeschermingsmiddelen of biociden worden gebruikt, van een ruimte waarin geen gewasbeschermingsmiddelen of biociden worden toegepast of van een ruimte waarin uitsluitend sprake is van biologische productiemethoden;  
+b. het afvalwater afkomstig is van een teelt waarbij geen gewasbeschermingsmiddelen of biociden worden gebruikt, van een ruimte waarin geen gewasbeschermingsmiddelen of biociden worden toegepast of van een ruimte waarin uitsluitend sprake is van biologische productiemethoden, en  
 
-c. het gehalte aan onopgeloste stoffen in het te lozen afvalwater ten hoogste 100 milligram per liter bedraagt;  
+c. in het te lozen afvalwater, bedoeld in de onderdelen a en b: 
 
-d. het gehalte aan chemisch zuurstofverbruik in het te lozen afvalwater ten hoogste 300 milligram per liter bedraagt, en  
+1°. het gehalte aan onopgeloste stoffen ten hoogste 100 milligram per liter bedraagt,  
 
-e. het gehalte aan biochemisch zuurstofverbruik in het te lozen afvalwater ten hoogste 60 milligram per liter bedraagt.     
+2°. het gehalte aan chemisch zuurstof verbruik ten hoogste 300 milligram per liter bedraagt, en  
+
+3°. het gehalte aan biochemisch zuurstof verbruik ten hoogste 60 milligram per liter bedraagt.       
 3.  De afstand, genoemd in het tweede lid, onderdeel a, wordt berekend: 
 
 a. vanaf de kadastrale grens van het perceel waar het afvalwater vrijkomt, en  
@@ -2952,7 +2965,7 @@ b. het gehalte aan onopgeloste stoffen ten hoogste 100 milligram per liter bedra
 
 ### Artikel  3.79  
 
-1.  Bij het op een andere wijze dan met behulp van een werk lozen van gewasbeschermingsmiddelen in een oppervlaktewaterlichaam wordt ten minste voldaan aan het tweede tot en met zevende lid.   
+1.  Bij het op een andere wijze dan met behulp van een werk lozen van gewasbeschermingsmiddelen in een oppervlaktewaterlichaam wordt ten minste voldaan aan het tweede tot en met achtste lid.   
 2.  Langs een oppervlaktewaterlichaam wordt een teeltvrije zone aangehouden.   
 3.  De teeltvrije zone wordt gemeten vanaf de insteek van een oppervlaktewaterlichaam en strekt zich, met uitzondering van de teelt van grasland, uit tot het hart van de buitenste planten van de te telen gewassen.   
 4.  In afwijking van het tweede lid hoeft geen teeltvrije zone te worden aangehouden grenzend aan gegraven waterlopen die: 
@@ -2971,6 +2984,7 @@ b. bij teelt anders dan de teelt van appelen, peren en overige pit- en steenvruc
 1°. sprake is van een biologische productiemethode, of  
 
 2°. gebruik wordt gemaakt van een emissiescherm dat voldoet aan de bij ministeriële regeling gestelde eisen.       
+8.  De toepassing van gewasbeschermingsmiddelen op het talud vindt pleksgewijs en driftvrij plaats.   
 
 ### Artikel  3.80  
 
@@ -3062,7 +3076,7 @@ a. de spuitdruk geregistreerd door een drukregistratievoorziening, of
 b. uitsluitend gebruik gemaakt van venturidoppen uit de 50% driftreductieklasse.     
 4.  Bij het op- en zijwaarts spuiten van appelen, peren en overige pit- en steenvruchten op de wijze, bedoeld in artikel 3.80, vierde lid, onderdeel c, onder 5°, waarbij spuitdoppen worden gebruikt die uitsluitend zijn aangewezen voor het gebruik bij een spuitdruk lager dan 5 bar, wordt de spuitdruk geregistreerd door een drukregistratievoorziening.   
 5.  Een drukregistratievoorziening als bedoeld in het derde lid, onderdeel a, en het vierde lid, voldoet aan de bij ministeriële regeling gestelde eisen.   
-6.  Het gebruik van gewasbeschermingsmiddelen is verboden bij een windsnelheid van ten minste 5 meter per seconde, gemeten op spuitdophoogte, tenzij degene die de gewasbeschermingsmiddelen gebruikt, kan aantonen dat redelijkerwijs niet anders dan door het gebruik van die middelen bij een windsnelheid van ten minste 5 meter per seconde een teeltbedreigende situatie kan worden afgewend.   
+6.  Het gebruik van gewasbeschermingsmiddelen is verboden bij een windsnelheid groter dan 5 meter per seconde, gemeten op spuitdophoogte, tenzij degene die de gewasbeschermingsmiddelen gebruikt, kan aantonen dat redelijkerwijs niet anders dan door het gebruik van die middelen bij een windsnelheid groter dan 5 meter per seconde een teeltbedreigende situatie kan worden afgewend.   
 7.  Het gebruik van een spuitgeweer dat is voorzien van een werveldop of dat gebruik maakt van een werkdruk van 5 bar of meer is verboden.   
 8.  Het eerste tot en met zesde lid is niet van toepassing op het gebruik van gewasbeschermingsmiddelen met een overkapte beddenspuit.   
 9.  Het eerste lid, onderdelen a en c, en tweede lid, zijn niet van toepassing op een veldspuit als bedoeld in artikel 3.80, tweede lid, onderdeel a, onder 2°, of onderdeel b, onder 3°.   
@@ -3074,7 +3088,7 @@ Bij het op andere wijze dan door middel van een werk lozen van meststoffen in ee
 
 ### Artikel  3.85  
 
-1.  Binnen een teeltvrije zone worden geen meststoffen gebruikt.   
+1.  Binnen een teeltvrije zone als bedoeld in artikel 3.79, tweede lid, worden geen meststoffen gebruikt.   
 2.  In afwijking van het eerste lid is het bij de teelt van opwaarts en zijwaarts te bespuiten boomkwekerijgewassen of van appelen, peren en overige pitvruchten en steenvruchten, toegestaan binnen een teeltvrije zone meststoffen te gebruiken op een afstand van ten minste 25 centimeter vanaf de insteek van een oppervlaktewaterlichaam, indien binnen die zone geen ander gewas dan gras wordt geteeld.   
 3.  In afwijking van het eerste lid en onverminderd het zesde lid is het pleksgewijs bemesten van een vanggewas op de teeltvrije zone op een afstand van ten minste 50 centimeter vanaf de insteek van een oppervlaktewaterlichaam toegestaan, indien het vanggewas voldoet aan de bij ministeriële regeling gestelde eisen.   
 4.  Bij het gebruik van korrelvormige of poedervormige meststoffen op de strook gelegen naast de teeltvrije zone wordt direct langs de zone gebruik gemaakt van een voorziening die de verspreiding van die meststoffen richting het oppervlaktewaterlichaam verhindert.   
@@ -3128,16 +3142,14 @@ Deze paragraaf is van toepassing op de waterbehandeling voor agrarische activite
 
 ### Artikel  3.90  
 
-1.  Bij het lozen van het afvalwater afkomstig van het voor de gietwatervoorziening bij agrarische activiteiten zuiveren van water door omgekeerde osmose of ionenwisselaars, wordt ten minste voldaan aan het tweede tot en met vijfde lid.   
+1.  Bij het lozen van het afvalwater afkomstig van het voor de waterbehandeling voor agrarische activiteiten zuiveren van water door omgekeerde osmose of ionenwisselaars, wordt ten minste voldaan aan het tweede tot en met vijfde lid.   
 2.  Het lozen in een vuilwaterriool is verboden.   
 3.  Het bevoegd gezag kan bij maatwerkvoorschrift of bij verordening bepalen dat het tweede lid niet van toepassing is en het lozen in het vuilwaterriool toestaan, indien het belang van de bescherming van het milieu zich niet tegen het lozen in een vuilwaterriool verzet. Artikel 2.2, vierde lid, is van overeenkomstige toepassing.   
 4.  Het lozen in een oppervlaktewaterlichaam is toegestaan, indien het gehalte aan: 
 
 a. chloride ten hoogste 200 milligram per liter bedraagt;  
 
-b. ijzer ten hoogste 2 milligram per liter bedraagt;  
-
-c. organische stof ten hoogste 15 milligram per liter bedraagt;     
+b. ijzer ten hoogste 2 milligram per liter bedraagt.     
 5.  Indien het belang van de bescherming van het milieu zich daartegen niet verzet, kan het bevoegd gezag bij maatwerkvoorschrift of bij verordening bepalen dat de gehalten bedoeld in het vierde lid niet van toepassing zijn en kunnen hogere gehalten worden vastgesteld.   
 6.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
@@ -3310,7 +3322,7 @@ Een composteringshoop is gelegen op een afstand van ten minste 5 meter vanaf de
 
 ### Artikel  3.111  
 
-1.  De artikelen 3.112 tot en met 3.129 zijn van toepassing op het houden van landbouwhuisdieren en het bereiden van brijvoer voor landbouwhuisdieren die binnen de inrichting worden gehouden voor zover de verwerkingscapaciteit ten hoogste 4.000 ton per jaar bedraagt voor het bereiden van brijvoer met plantaardige bijvoedermiddelen.   
+1.  De artikelen 3.112 tot en met 3.129 zijn van toepassing op het houden van landbouwhuisdieren.   
 2.  De artikelen 3.113 tot en met 3.126 zijn niet van toepassing op: 
 
 a. inrichtingen waar minder dan 10 schapen, 5 paarden, 10 geiten, 25 stuks pluimvee, 25 konijnen of 10 overige landbouwhuisdieren worden gehouden;  
@@ -3357,7 +3369,7 @@ e. de uitbreiding dieren betreft die worden gehouden uitsluitend of in hoofdzaak
 
 2.  Het eerste lid is niet van toepassing: 
 
-a. indien het geurgevoelig object een object als bedoeld in artikel 3.116, eerste lid, onderdelen a, b of c, of tweede lid, is met uitzondering van de gevallen, bedoeld in artikel 3.116, derde lid;  
+a. indien het geurgevoelig object een object als bedoeld in artikel 3.116, eerste lid, onderdelen a, b of c, of tweede lid, is;  
 
 b. op de uitbreiding van een dierenverblijf indien een geurbelastingreducerende maatregel wordt toegepast en de totale geurbelasting na de uitbreiding niet meer bedraagt dan het gemiddelde van de bij de betreffende situatie behorende waarde uit tabel 3.115 en de geurbelasting die de inrichting voorafgaand aan het toepassen van de maatregel veroorzaakte, of  
 
@@ -3379,16 +3391,12 @@ c. een woning die op of na 19 maart 2000 is gebouwd:
 
 3°. in samenhang met de sloop van de bedrijfsgebouwen die onderdeel hebben uitgemaakt van de veehouderij: minder dan 100 meter bedraagt, indien het object, bedoeld in onderdeel a, b of c, binnen de bebouwde kom is gelegen, of minder dan 50 meter bedraagt, indien het object, bedoeld in onderdeel a, b of c, buiten de bebouwde kom is gelegen.       
 2.  Het eerste lid is van overeenkomstige toepassing op een geurgevoelig object dat op de kavel, bedoeld in onderdeel c van dat lid, aanwezig is.   
-3.  Het eerste lid is niet van toepassing indien het object, bedoeld in onderdeel a, b of c: 
-
-a. binnen de bebouwde kom is gelegen en de geurbelasting op een afstand van 100 meter van het dierenverblijf lager is dan de waarde uit tabel 3.115 die van toepassing is, of  
-
-b. buiten de bebouwde kom is gelegen en de geurbelasting op een afstand van 50 meter van het dierenverblijf lager is dan de waarde uit tabel 3.115 die van toepassing is.     
+3.  Het eerste lid is niet van toepassing indien de geurbelasting op het object, bedoeld in de onderdelen a, b of c van dat lid, lager is dan de waarde die volgens artikel 3.115, eerste lid, geldt voor het gebied waarin dat object ligt.   
 4.  Het eerste lid is eveneens niet van toepassing als bij de oprichting, uitbreiding of wijziging van een dierenverblijf de geurbelasting op een geurgevoelig object niet toeneemt, het aantal dieren per diercategorie met geuremissiefactor binnen de inrichting niet toeneemt en de afstand van het dierenverblijf tot een geurgevoelig object niet afneemt.   
 
 ### Artikel  3.117  
 
-1.  Het oprichten, uitbreiden of wijzigen van een dierenverblijf met dieren zonder geuremissiefactor vindt niet plaats, indien binnen de inrichting de afstand tussen enig dierenverblijf waar dieren zonder geuremissiefactor worden gehouden en een geurgevoelig object, na de oprichting, uitbreiding of wijziging: 
+1.  Het oprichten, uitbreiden of wijzigen van een dierenverblijf met dieren zonder geuremissiefactor vindt niet plaats, indien de afstand tussen enig binnen de inrichting gelegen dierenverblijf waar dieren zonder geuremissiefactor worden gehouden en een geurgevoelig object, na de oprichting, uitbreiding of wijziging: 
 
 a. minder dan 100 meter bedraagt, indien het geurgevoelige object binnen de bebouwde kom is gelegen, of  
 
@@ -3457,49 +3465,32 @@ Indien landbouwhuisdieren worden gehouden in een huisvestingssysteem dat is voor
 
 ### Artikel  3.126  
 
-1.  Het lozen van spuiwater afkomstig van een luchtwassysteem in een vuilwaterriool is verboden.   
-2.  Het lozen van spuiwater afkomstig van: 
-
-a. een biologisch luchtwassysteem;  
-
-b. een chemisch luchtwassysteem;  
-
-c. de biologische of chemische stap van een gecombineerd luchtwassysteem;  
-
-d. een biologisch luchtwassysteem of de biologische stap van een gecombineerd luchtwassysteem na een denitrificatiestap, of  
-
-e. een luchtwassysteem voor zover dat stof afvangt;   op of in de bodem is toegestaan.   
-3.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat het eerste lid niet van toepassing is en het lozen in een vuilwaterriool toestaan, indien het belang van de bescherming van het milieu zich niet tegen het lozen in een vuilwaterriool verzet. Artikel 2.2, vierde lid, is van overeenkomstige toepassing.   
+1.  Bij het lozen van spuiwater van een luchtwassysteem wordt ten minste voldaan aan het tweede tot en met vierde lid.   
+2.  Het lozen van spuiwater afkomstig van een luchtwassysteem in een vuilwaterriool is verboden.   
+3.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat het tweede lid niet van toepassing is en het lozen in een vuilwaterriool toestaan, indien het belang van de bescherming van het milieu zich niet tegen het lozen in een vuilwaterriool verzet. Artikel 2.2, vierde lid, is van overeenkomstige toepassing.   
+4.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
 ### Artikel  3.127  
 
 1.  Bij het lozen van afvalwater als gevolg van het reinigen en ontsmetten van dierenverblijven wordt ten minste voldaan aan het tweede en derde lid.   
 2.  Bij het in het vuilwaterriool lozen van afvalwater als gevolg van het reinigen en ontsmetten van dierenverblijven, bedraagt het gehalte aan onopgeloste stoffen niet meer dan 300 milligram per liter.   
-3.  Het lozen van afvalwater als gevolg van het reinigen en ontsmetten van dierenverblijven op of in de bodem is toegestaan, indien het afvalwater gelijkmatig wordt verspreid over de onverharde bodem.   
-
-### Artikel  3.128  
-
-Bij het bereiden van brijvoer wordt ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder, ten minste voldaan aan de bij ministeriële regeling gestelde eisen.  
+3.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
 ### Artikel  3.129  
 
 1.  Bij het lozen van afvalwater als gevolg van het wassen en spoelen bij melkwinning wordt ten minste voldaan aan het tweede en derde lid.   
-2.  Afvalwater afkomstig van het wassen en spoelen van melkwininstallaties wordt zo veel mogelijk hergebruikt in de inrichting.   
+2.  Afvalwater afkomstig van het wassen en spoelen van melkwininstallaties wordt zo veel mogelijk hergebruikt.   
 3.  Het lozen van afvalwater op of in de bodem is toegestaan, indien het afvalwater gelijkmatig wordt verspreid over de onverharde bodem.   
 
 ### §  3.5.9  
 
 ####Bereiden van brijvoer voor eigen landbouwhuisdieren
 
-Treedt in werking op een nader te bepalen tijdstip   
-
-### Artikel  3.129a   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.129a  
 
 Deze paragraaf is van toepassing op het bereiden van brijvoer met plantaardige bijvoedermiddelen voor landbouwhuisdieren die binnen dezelfde inrichting worden gehouden voor zover de verwerkingscapaciteit voor het bereiden van brijvoer ten hoogste 4.000 ton per jaar bedraagt.  
 
-### Artikel  3.129b   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3.129b  
 
 Bij het bereiden van brijvoer wordt ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder, ten minste voldaan aan de bij ministeriële regeling gestelde eisen.  
 
@@ -3550,16 +3541,15 @@ b. het uitsnijden van vlees van karkassen of karkasdelen;
 c. het uitsnijden van vis, of  
 
 d. het uitsnijden en pekelen van organen.     
-2.  Deze paragraaf is niet van toepassing op IPPC-inrichtingen.   
+2.  Deze paragraaf is niet van toepassing op een IPPC-installatie.   
 
 ### Artikel  3.134  
 
 1.  Het slachten van dieren en het bewerken van dierlijke bijproducten vindt inpandig plaats.   
 2.  Bij het in het vuilwaterriool lozen van afvalwater afkomstig van het bewerken van dierlijke bijproducten of het reinigen en desinfecteren van ruimtes waar dieren zijn geslacht, karkassen zijn bewerkt, vlees is uitgesneden van karkassen of karkasdelen, vis is uitgesneden, organen worden verwerkt of dierlijke bijproducten worden bewerkt, wordt ten minste voldaan aan het derde tot en met het zesde lid.   
 3.  Het afvalwater, bedoeld in het tweede lid, wordt voor vermenging met ander niet vethoudend afvalwater geleid door een vetafscheider en slibvangput die voldoen aan en worden gebruikt conform NEN-EN 1825-1 en 2. In afwijking van NEN-EN 1825-1 en 2 kan met een lagere frequentie van het legen en reinigen dan daar vermeld worden volstaan indien dit geen nadelige gevolgen heeft voor het doelmatig functioneren van de afscheider.   
-4.  Bij de plaatsing van een vetafscheider die wordt ingezet voor het afvalwater wordt een rapport opgesteld waarin staat beschreven hoe invulling is gegeven aan paragraaf 6.3 van NEN-EN 1825-2. Dit rapport wordt binnen de inrichting bewaard.   
-5.  Het afvalwater wordt voorafgaand aan het lozen in een vuilwaterriool niet onderworpen aan een biologische behandeling.   
-6.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, bij maatwerkvoorschrift, in afwijking van het vijfde lid, een biologische behandeling toestaan voorafgaand aan het lozen in een vuilwaterriool.   
+4.  Het afvalwater wordt voorafgaand aan het lozen in een vuilwaterriool niet onderworpen aan een biologische behandeling.   
+5.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, bij maatwerkvoorschrift, in afwijking van het vijfde lid, een biologische behandeling toestaan voorafgaand aan het lozen in een vuilwaterriool.   
 
 ### Artikel  3.135  
 
@@ -3606,11 +3596,11 @@ d. de extractie van plantaardige oliën of veredeling van vetten;
 e. de productie van zetmeel of suiker, of  
 
 f. de productie van alcohol.     
-2.  Deze paragraaf is niet van toepassing op IPPC-inrichtingen.   
+2.  Deze paragraaf is niet van toepassing op een IPPC-installatie.   
 
 ### Artikel  3.138  
 
-1.  Het in een aangewezen oppervlaktewaterlichaam lozen van afvalwater afkomstig van het vervaardigen of bewerken van voedingsmiddelen of dranken voor menselijke consumptie is uitsluitend toegestaan, indien daarbij ten minste wordt voldaan aan de eisen, gesteld bij of krachtens het tweede tot en met het zesde lid.   
+1.  Het in een oppervlaktewaterlichaam lozen van afvalwater afkomstig van het vervaardigen of bewerken van voedingsmiddelen of dranken voor menselijke consumptie is uitsluitend toegestaan, indien daarbij ten minste wordt voldaan aan de eisen, gesteld bij of krachtens het tweede tot en met het zesde lid.   
 2.  Het te lozen afvalwater bevat geen stoffen die op grond van het BBT-informatiedocument over het beoordelen van stoffen en preparaten voor de uitvoering van het emissiebeleid water, aangewezen krachtens artikel 5.4, tweede lid, van het Besluit omgevingsrecht («Beoordeling stoffen en preparaten» van de Commissie Integraal Waterbeheer CIW (4 2000-05)), worden aangemerkt als stoffen waarvoor een: 
 
 a. saneringsinspanning A geldt, of  
@@ -3643,10 +3633,11 @@ b. hogere gehaltes of grenswaarden vaststellen, indien het belang van de bescher
 
 1.  Het lozen in een vuilwaterriool van afvalwater afkomstig van het vervaardigen of bewerken van voedingsmiddelen of dranken bestemd voor menselijke consumptie is toegestaan indien daarbij ten minste voldaan wordt aan de eisen, gesteld bij en krachtens het tweede tot en met zesde lid.   
 2.  Het te lozen afvalwater bevat geen stoffen die op grond van het BBT-informatiedocument over het beoordelen van stoffen en preparaten voor de uitvoering van het emissiebeleid water, aangewezen krachtens artikel 5.4, tweede lid, van het Besluit omgevingsrecht («Beoordeling stoffen en preparaten» van de Commissie Integraal Waterbeheer CIW (4 2000-05)), worden aangemerkt als stoffen waarvoor een saneringsinspanning A geldt.   
-3.  Het afvalwater wordt voorafgaand aan het lozen in een vuilwaterriool niet onderworpen aan een biologische behandeling.   
-4.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, bij maatwerkvoorschrift, in afwijking van het derde lid, een biologische behandeling toestaan voorafgaand aan het lozen in een vuilwaterriool.   
-5.  Bij het in het vuilwaterriool lozen van afvalwater waarbij olie, vet, zuivel, vlees of vis wordt verwerkt, wordt het afvalwater, voor vermenging met ander niet-vethoudend afvalwater geleid door een vetafscheider en slibvangput die voldoen aan en worden gebruikt conform NEN-EN 1825-1 en -2. In afwijking van NEN-EN 1825-1 en 2 kan met een lagere frequentie van het ledigen en reinigen dan daar vermeld worden volstaan indien dit geen nadelige gevolgen heeft voor het doelmatig functioneren van de afscheider.   
-6.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
+3.  In afwijking van het tweede lid kan het bevoegd gezag, indien het belang van de bescherming van het milieu zich daar niet tegen verzet, bij maatwerkvoorschrift het lozen van afvalwater, bedoeld in dat lid, toestaan. Artikel 2.2, vierde lid, is van overeenkomstige toepassing.   
+4.  Het afvalwater wordt voorafgaand aan het lozen in een vuilwaterriool niet onderworpen aan een biologische behandeling.   
+5.  Het bevoegd gezag kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, bij maatwerkvoorschrift, in afwijking van het derde lid, een biologische behandeling toestaan voorafgaand aan het lozen in een vuilwaterriool.   
+6.  Bij het in het vuilwaterriool lozen van afvalwater waarbij olie, vet, zuivel, vlees of vis wordt verwerkt, wordt het afvalwater, voor vermenging met ander niet-vethoudend afvalwater geleid door een vetafscheider en slibvangput die voldoen aan en worden gebruikt conform NEN-EN 1825-1 en -2. In afwijking van NEN-EN 1825-1 en 2 kan met een lagere frequentie van het ledigen en reinigen dan daar vermeld worden volstaan indien dit geen nadelige gevolgen heeft voor het doelmatig functioneren van de afscheider.   
+7.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
 ### Artikel  3.140  
 
@@ -4752,12 +4743,11 @@ b. 50 milligram per normaal kubieke meter, indien de massastroom van stofklasse 
 1.  Het lozen van afvalwater afkomstig van het reinigen van met beton verontreinigde installatieonderdelen is uitsluitend toegestaan indien daarbij ten minste wordt voldaan aan de eisen, gesteld bij en krachtens het tweede tot en met vijfde lid.   
 2.  Bij het lozen in een aangewezen oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, bedraagt: 
 
-a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, of  
+a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, en  
 
 b. het gehalte aan chemisch zuurstofverbruik in enig steekmonster niet meer dan 200 milligram per liter.     
 3.  Bij het lozen in een vuilwaterriool bedraagt het gehalte aan onopgeloste stoffen niet meer dan 300 milligram per liter.   
-4.  In afwijking van het derde lid kan het bevoegd gezag in het belang van de bescherming van het milieu bij maatwerkvoorschrift voor onopgeloste stoffen lagere gehaltes vaststellen.   
-5.  Het te lozen afvalwater kan op doelmatige wijze worden bemonsterd.   
+4.  Het te lozen afvalwater kan op doelmatige wijze worden bemonsterd.   
 
 ### Artikel  4.74l  
 
@@ -4765,7 +4755,7 @@ b. het gehalte aan chemisch zuurstofverbruik in enig steekmonster niet meer dan 
 2.  Onverminderd artikel 2.12 voldoen afvalstoffen die worden toegepast voor het vervaardigen van betonmortel afzonderlijk aan de kwaliteitseisen van hoofdstuk 3 van het Besluit bodemkwaliteit.   
 3.  Onverminderd artikel 2.12 kan het bevoegd gezag in afwijking van het tweede lid bepalen dat afvalstoffen die afzonderlijk niet aan de vereisten uit het Besluit bodemkwaliteit voldoen, voor het vervaardigen van betonmortel kunnen worden toegepast, indien: 
 
-a. de nuttige toepassing van de afvalstof is toegestaan, of  
+a. de nuttige toepassing van de afvalstof is toegestaan, en  
 
 b. de toepassing van de afvalstof bijdraagt aan de fysische of bouwtechnische eigenschappen van de bouwstof en daarmee de inzet van primaire grondstoffen uitspaart.     
 
@@ -4782,12 +4772,11 @@ Deze paragraaf is van toepassing op het vormgeven van betonproducten.
 1.  Het lozen van afvalwater afkomstig van het uitwassen van beton is uitsluitend toegestaan indien daarbij ten minste wordt voldaan aan de eisen, gesteld bij en krachtens het tweede tot en met vijfde lid.   
 2.  Bij het lozen van afvalwater in een aangewezen oppervlaktewaterlichaam bedraagt: 
 
-a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, of  
+a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, en  
 
 b. het gehalte aan chemisch zuurstofverbruik in enig steekmonster niet meer dan 200 milligram per liter.     
-3.  In afwijking van het tweede lid kan het bevoegd gezag in belang van de bescherming van het milieu bij maatwerkvoorschrift voor onopgeloste stoffen lagere gehaltes vaststellen.   
-4.  Bij het lozen van afvalwater in een vuilwaterriool bevat het afvalwater in enig steekmonster niet meer dan 300 milligram onopgeloste stoffen per liter.   
-5.  Het te lozen afvalwater kan op doelmatige wijze worden bemonsterd.   
+3.  Bij het lozen van afvalwater in een vuilwaterriool bevat het afvalwater in enig steekmonster niet meer dan 300 milligram onopgeloste stoffen per liter.   
+4.  Het te lozen afvalwater kan op doelmatige wijze worden bemonsterd.   
 
 ### Artikel  4.74o  
 
@@ -4905,7 +4894,7 @@ d. het voorkomen dan wel beperken van geurhinder,   ten minste voldaan aan de bi
 
 ### §  4.6.4  
 
-####Afleveren van vloeibare brandstof of gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, vaartuigen of spoorwegvoertuigen
+####Afleveren van vloeibare brandstof of gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, vaartuigen of spoorvoertuigen
 
 ### Artikel  4.80  
 
@@ -4933,7 +4922,7 @@ Bij het afleveren van vloeibare brandstof, anders dan aan motorvoertuigen voor h
 
 a. ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van luchtverontreiniging voldaan aan de bij ministeriële regeling te stellen eisen; en  
 
-b. ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan,   ten minste voldaan aan de bij ministeriële regeling te stellen eisen.  
+b. ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, ten minste voldaan aan de bij ministeriële regeling gestelde eisen.   ten minste voldaan aan de bij ministeriële regeling te stellen eisen.  
 
 ### §  4.6.5  
 
@@ -4946,13 +4935,14 @@ Deze paragraaf is van toepassing op het onderhouden of repareren van motoren, mo
 ### Artikel  4.84  
 
 1.  In een inrichting voor onderhoud en reparatie van motorvoertuigen, niet zijnde een autodemontagebedrijf of een inrichting voor het opslaan van autowrakken in het kader van hulpverlening aan kentekenhouders door een daartoe aangewezen instantie of in het kader van onderzoek door politie of justitie, zijn niet meer dan vier autowrakken aanwezig.   
-2.  Het is niet toegestaan, anders dan bij een autodemontagebedrijf, een autowrak en de daarin aanwezige materialen of onderdelen te verwijderen of nuttig toe te passen, behoudens voor zover: 
+2.  In een inrichting voor onderhoud en reparatie van motorvoertuigen, niet zijnde een demontagebedrijf voor tweewielige motorvoertuigen of een inrichting voor het opslaan van wrakken van tweewielige motorvoertuigen in het kader van hulpverlening aan kentekenhouders door een daartoe aangewezen instantie of in het kader van onderzoek door politie of justitie, zijn niet meer dan vier wrakken van tweewielige motorvoertuigen aanwezig.   
+3.  Het is niet toegestaan, anders dan bij een autodemontagebedrijf of een demontagebedrijf voor tweewielige motorvoertuigen, een autowrak onderscheidenlijk een wrak van een tweewielig motorvoertuig en de daarin aanwezige materialen of onderdelen te verwijderen of nuttig toe te passen, tenzij het betreft: 
 
-1°. het de opslag betreft, of  
+1°. de opslag, of  
 
-2°. het accessoires betreft die worden gedemonteerd omdat de laatste eigenaar of houder van het autowrak hierom anders dan in de uitoefening van zijn beroep of bedrijf heeft verzocht en met als doel die accessoires opnieuw te gebruiken ten behoeve van een ander motorvoertuig waarvan hij eigenaar of houder is.     
-3.  Het proefdraaien van verbrandingsmotoren vindt niet in de buitenlucht plaats.   
-4.  Bij het onderhouden of repareren van motoren, motorvoertuigen, spoorvoertuigen of andere gemotoriseerde apparaten of bij het proefdraaien van verbrandingsmotoren wordt ten behoeve van: 
+2°. accessoires die worden gedemonteerd omdat de laatste eigenaar of houder van het autowrak of wrak van een tweewielig motorvoertuig hierom anders dan in de uitoefening van zijn beroep of bedrijf heeft verzocht en met als doel die accessoires opnieuw te gebruiken ten behoeve van een ander motorvoertuig waarvan hij eigenaar of houder is.     
+4.  Het proefdraaien van verbrandingsmotoren vindt niet in de buitenlucht plaats.   
+5.  Bij het onderhouden of repareren van motoren, motorvoertuigen, spoorvoertuigen of andere gemotoriseerde apparaten of bij het proefdraaien van verbrandingsmotoren wordt ten behoeve van: 
 
 a. het voorkomen of beperken van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan;  
 
@@ -4964,7 +4954,7 @@ d. het realiseren van een verwaarloosbaar bodemrisico,   ten minste voldaan aan 
 
 ### Artikel  4.85  
 
-In afwijking van artikel 4.84, derde lid, is het proefdraaien van motoren van pleziervaartuigen in de buitenlucht toegestaan voor zover de motor zich in het vaartuig bevindt.  
+In afwijking van artikel 4.84, vierde lid, is het proefdraaien van motoren van pleziervaartuigen in de buitenlucht toegestaan voor zover de motor zich in het vaartuig bevindt.  
 
 ### §  4.6.6  
 
@@ -5078,7 +5068,7 @@ e. per jaar informatie over het verbruik aan vluchtige organische stoffen als ge
 
 a. het toepassen van vellenoffsettechnieken;  
 
-b. het reinigen van de daarbij gebruikte apparatuur, en  
+b. het reinigen van de daarbij gebruikte apparatuur, of  
 
 c. de vormvervaardiging exclusief fotografische processen,   wordt ten minste voldaan aan het tweede tot en met het vierde lid.   
 2.  Het afvalwater afkomstig van het reinigen van rubberdoeken en drukvormen van vellenoffsetpersen bevat, voor vermenging met ander afvalwater, niet meer dan 200 milligram olie per liter in enig steekmonster.   
@@ -5459,7 +5449,7 @@ c. vrachtwagens,
 
 d. andere transportmiddelen, of  
 
-e. werktuigen, waarmee gewasbeschermingsmiddelen of meststoffen voor agrarische activiteiten zijn toegepast.    
+e. werktuigen, waarmee gewasbeschermingsmiddelen of meststoffen zijn toegepast.    
 
 ### Artikel  4.103h  
 
@@ -5485,13 +5475,13 @@ Bij het in een inrichting inwendig reinigen of ontsmetten van vrachtwagens of an
 
 ### Artikel  4.104c  
 
-1.  Bij het lozen van afvalwater afkomstig van het inwendig reinigen of ontsmetten van werktuigen, waarmee gewasbeschermingsmiddelen of meststoffen zijn toegepast, wordt ten minste voldaan aan het tweede en derde lid.   
-2.  Bij het lozen in een vuilwaterriool wordt het afvalwater afkomstig van het inwendig reinigen of ontsmetten van werktuigen waarin gewasbeschermingsmiddelen zijn toegepast geleid door een zuiveringsvoorziening gericht op het verwijderen van gewasbeschermingsmiddelen die voldoet aan de bij ministeriële regeling gestelde eisen.   
+1.  Bij het lozen van afvalwater afkomstig van het inwendig reinigen van werktuigen, waarmee gewasbeschermingsmiddelen of meststoffen zijn toegepast, wordt ten minste voldaan aan het tweede en derde lid.   
+2.  Bij het lozen in een vuilwaterriool wordt het afvalwater afkomstig van het inwendig reinigen van werktuigen waarin gewasbeschermingsmiddelen zijn toegepast geleid door een zuiveringsvoorziening gericht op het verwijderen van gewasbeschermingsmiddelen die voldoet aan de bij ministeriële regeling gestelde eisen.   
 3.  Het lozen op of in de bodem is toegestaan, indien: 
 
 a. het afvalwater gelijkmatig wordt verspreid over de onverharde bodem waarop de gewasbeschermingsmiddelen of meststoffen zijn toegepast, of  
 
-b. het lozen plaatsvindt door middel van een zuiveringsvoorziening als bedoeld in het tweede lid.     
+b. het afvalwater wordt geleid door een zuiveringsvoorziening als bedoeld in het tweede lid en wordt verspreid over een onverharde bodem.     
 
 ### Artikel  4.104d  
 
@@ -5502,11 +5492,11 @@ Bij het in het vuilwaterriool lozen van afvalwater afkomstig van het inwendig re
 1.  Het lozen van afvalwater afkomstig van het inwendig reinigen van een transportmiddel waarin betonmortel is vervoerd is uitsluitend toegestaan indien daarbij ten minste wordt voldaan aan de eisen, gesteld bij en krachtens het tweede tot en met vijfde lid.   
 2.  Bij het lozen in een aangewezen oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, bedraagt: 
 
-a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, of  
+a. het gehalte aan onopgeloste stoffen in enig steekmonster niet meer dan 100 milligram per liter, en  
 
 b. het gehalte aan chemisch zuurstofverbruik in enig steekmonster niet meer dan 200 milligram per liter.     
 3.  Bij het lozen in een vuilwaterriool bedraagt het gehalte aan onopgeloste stoffen niet meer dan 300 milligram per liter.   
-4.  In afwijking van het derde lid kan het bevoegd gezag in het belang van de bescherming van het milieu bij maatwerkvoorschrift voor onopgeloste stoffen lagere gehaltes vaststellen.   
+4.  In afwijking van het tweede lid kan het bevoegd gezag in het belang van de bescherming van het milieu bij maatwerkvoorschrift voor onopgeloste stoffen lagere gehaltes vaststellen.   
 5.  Het te lozen afvalwater kan op een doelmatige wijze worden bemonsterd.   
 
 ### §  4.8.2  
@@ -6176,15 +6166,16 @@ Dit hoofdstuk is van toepassing op degene die een inrichting type A, een inricht
 
 ### Artikel  6.3  
 
-1.  Een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, en 25, tweede lid, van het Lozingenbesluit bodembescherming met betrekking tot het lozen, bedoeld in artikel 2.2, eerste of tweede lid, wordt gedurende de resterende termijn van die ontheffing aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid.   
+1.  Een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, en 25, tweede lid, van het Lozingenbesluit bodembescherming met betrekking tot het lozen, bedoeld in artikel 2.2, eerste lid, onder a, of tweede lid, wordt gedurende de resterende termijn van die ontheffing aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid.   
 2.  In afwijking van artikel 6.2, eerste lid, wordt een vergunning als bedoeld in artikel 1, tweede lid, van de Wet verontreiniging oppervlaktewateren dan wel een vergunning op grond van artikel 6.2 van de Waterwet met betrekking tot het lozen, bedoeld in artikel 3.1, vijfde lid, gedurende de resterende termijn van die vergunning aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onder b.   
 3.  Onverminderd artikel 6.2, derde en vierde lid, is het lozen vanuit een bodemsanering in het vuilwaterriool dat op het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een inrichting was toegestaan volgens het Lozingenbesluit Wvo bodemsanering en proefbronnering, in afwijking van artikel 3.1, vijfde lid, toegestaan en worden de artikelen 5, eerste lid, 6, eerste tot en met derde lid, 7, eerste lid, 8, 12, 13 en 14 van dat besluit aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onder b.   
 4.  Indien op het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een inrichting het lozen van huishoudelijk afvalwater in een oppervlaktewaterlichaam was toegestaan op grond van artikel 14 van het Lozingenbesluit Wvo huishoudelijk afvalwater, blijft die toestemming gelden gedurende de termijn die volgt uit de toepassing van dat artikel.   
-5.  Voor de toepassing van dit artikel worden gegevens die in de aanvraag staan en die worden aangemerkt als onderdeel van de voorschriften van de ontheffing of vergunning aangemerkt als voorschriften van de ontheffing of vergunning.   
+5.  Voor het lozen, bedoeld in artikel 2.2, eerste lid, onder b, waarvoor op 24 april 2013 een ontheffing gold op grond van artikel 10.63, eerste lid, van de wet, geldt gedurende de op die datum resterende termijn waarvoor de ontheffing was verleend, een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid, waarvan de inhoud overeenkomt met de ontheffing.   
+6.  Voor de toepassing van dit artikel worden gegevens die in de aanvraag staan en die worden aangemerkt als onderdeel van de voorschriften van de ontheffing of vergunning aangemerkt als voorschriften van de ontheffing of vergunning.   
 
 ### Artikel  6.4  
 
-1.  Degene die een inrichting type B of C drijft die is opgericht voor het van toepassing worden van dit besluit of een deel daarvan op een activiteit in die inrichting en waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een activiteit in die inrichting geen vergunning als gedoeld in artikel 6.1, eerste lid, in werking en onherroepelijk was en geen melding was gedaan op grond van een van de in artikel 6.43 genoemde besluiten, meldt aan het bevoegd gezag dat hij de inrichting in werking heeft.   
+1.  Degene die een inrichting type B of C drijft die is opgericht voor het van toepassing worden van dit besluit of een deel daarvan op een activiteit in die inrichting en waarvoor onmiddellijk voorafgaand aan het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een activiteit in die inrichting geen vergunning als bedoeld in artikel 6.1, eerste lid, in werking en onherroepelijk was en geen melding was gedaan op grond van een van de in artikel 6.43 genoemde besluiten, meldt aan het bevoegd gezag dat hij de inrichting in werking heeft.   
 2.  Degene die de inrichting drijft doet de melding, bedoeld in het eerste lid, binnen vier weken na het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een activiteit in die inrichting. Afdeling 1.2 is van overeenkomstige toepassing.   
 3.  Indien op het tijdstip van het van toepassing worden van dit besluit of een deel daarvan op een activiteit in een inrichting type B ten aanzien van die inrichting nog niet is beslist op een aanvraag om een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht voor een inrichting, zijn het eerste en tweede lid niet van toepassing en wordt de aanvraag om een vergunning aangemerkt als een melding overeenkomstig artikel 1.10.   
 
@@ -6313,7 +6304,7 @@ b. het optredende equivalente geluidsniveau (L <sub>Aeq</sub>), veroorzaakt door
 a. voor het van toepassing worden van dit besluit of een deel daarvan op een activiteit in de inrichting een slibvangput en een olieafscheider zijn geplaatst die voldoen aan en gebruikt worden conform NEN 7089; of  
 
 b. voor 1 maart 1997 een slibvangput of een olieafscheider zijn geplaatst, die op de hoeveelheid afvalwater zijn afgestemd.     
-2.  In afwijking van de artikelen 3.26c, derde lid, 3.26h, derde lid, 3.34, achtste lid, 3.44, derde lid, 4.71, tweede lid, en 4.75, vierde lid, zijn die artikelen van overeenkomstige toepassing indien het afvalwater niet wordt geleid door een slibvangput en olieafscheider die voldoen aan NEN-EN 858-1 en 2, maar door: 
+2.  In afwijking van de artikelen 3.26c, derde lid, 3.26f, derde lid, 3.26h, derde lid, 3.34, achtste lid, 4.71, tweede lid, en 4.75, vierde lid, zijn die artikelen van overeenkomstige toepassing indien het afvalwater niet wordt geleid door een slibvangput en olieafscheider die voldoen aan NEN-EN 858-1 en 2, maar door: 
 
 a. een slibvangput en een olieafscheider die voldoen aan en worden gebruikt conform NEN 7089; of  
 
@@ -6365,6 +6356,7 @@ b. een slibvangput en een olieafscheider die zijn geplaatst voor 1 maart 1997 en
 3.  In afwijking van het tweede lid voldoet het rookgas in een stookinstallatie als bedoeld in het eerste lid voor zover die zich binnen de Nederlandse exclusieve economische zone bevindt dan wel deel uitmaakt van een inrichting waarin kooldioxide (CO <sub>2</sub>), afkomstig van een andere inrichting, wordt ingezet ten behoeve van de bemesting van gewassen teneinde het gebruik van brandstof te verminderen, met ingang van 1 januari 2019 aan de in de artikelen 3.10, 3.10d, 3.10e of 3.10f genoemde emissiegrenswaarden.   
 4.  Op het in werking hebben van een stookinstallatie die voor 1 januari 2014 is geplaatst of in gebruik is genomen en waarop titel 16.3 van de wet van toepassing was, zijn de op grond van de artikelen 3.10 tot en met 3.10j en 6.20 tot en met 6.20c geldende emissiegrenswaarden en meetmethoden voor stikstofoxiden (NO <sub>x</sub>) tot de datum, genoemd in het tweede of derde lid, niet van toepassing. Het bevoegd gezag kan voor deze stookinstallaties tot de in het tweede of derde lid genoemde data bij maatwerkvoorschrift emissiegrenswaarden en meetmethoden voor stikstofoxiden (NO <sub>x</sub>) in het rookgas van de stookinstallatie vaststellen, indien de lokale luchtkwaliteit dat vergt.   
 5.  Het eerste tot en met het derde lid zijn niet van toepassing op het rookgas van een ketelinstallatie met een nominaal vermogen kleiner dan 1 megawatt.   
+5.  Indien ingevolge het eerste lid de emissiegrenswaarden van het Besluit emissie-eisen stookinstallaties milieubeheer A van toepassing zijn, zijn in afwijking van artikel 3.10p tevens de regels inzake keuring en onderhoud van dat besluit van toepassing.   
 
 ### Artikel  6.20a  
 
@@ -6445,7 +6437,7 @@ Paragraaf 3.2.8, met uitzondering van artikel 3.16p, is niet van toepassing op e
 
 ### §  6.11  
 
-####Overgangsrecht met betrekking tot het afleveren van vloeibare brandstof en gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer
+####Overgangsrecht met betrekking tot het afleveren van vloeibare brandstof en gecomprimeerd aardgas aan motorvoertuigen voor het wegverkeer en aan spoorvoertuigen
 
 ### Artikel  6.22  
 
@@ -6478,10 +6470,7 @@ Paragraaf 3.2.8, met uitzondering van artikel 3.16p, is niet van toepassing op e
 
 ####Overgangsrecht met betrekking tot het demonteren van autowrakken en daarmee samenhangende activiteiten
 
-### Artikel  6.23  
-
-1.  Voor een inrichting type C worden de voorschriften van een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, gedurende drie jaar na het tijdstip van inwerkingtreding van artikel 3.41 aangemerkt als maatwerkvoorschriften, mits de voorschriften van die vergunning vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften voor de activiteiten, bedoeld in paragraaf 3.3.7.   
-2.  De voorschriften van een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, voor een inrichting type C die betrekking hebben op de activiteiten, bedoeld in paragraaf 3.3.7 en onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.41 in werking waren en niet vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften worden indien op grond van paragraaf 3.3.7 van het besluit strengere bepalingen gelden gedurende zes maanden aangemerkt als maatwerkvoorschriften.   
+Vervallen per 01-03-2014   
 
 ### §  6.13  
 
@@ -6496,10 +6485,7 @@ Paragraaf 3.2.8, met uitzondering van artikel 3.16p, is niet van toepassing op e
 
 ####Overgangsrecht voor het opslaan en overslaan van goederen
 
-### Artikel  6.24a  
-
-1.  Voor een inrichting type C worden de voorschriften van een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht,gedurende drie jaar na het tijdstip van inwerkingtreding van artikel 3.31 aangemerkt als maatwerkvoorschriften, mits de voorschriften van die vergunning vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften voor de activiteiten, bedoeld in paragraaf 3.4.3.   
-2.  De voorschriften van een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, voor een inrichting type C die betrekking hebben op de activiteiten, bedoeld in paragraaf 3.4.3 en onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.31 in werking waren en niet vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften worden indien op grond van paragraaf 3.4.3 van het besluit strengere bepalingen gelden gedurende zes maanden aangemerkt als maatwerkvoorschriften.   
+Vervallen per 01-03-2014   
 
 ### §  6.13b  
 
@@ -6544,7 +6530,7 @@ b. geeft degene die de inrichting drijft op verzoek van het bevoegd gezag aan we
 
 ### Artikel  6.24f  
 
-1.  Artikel 3.56, eerste lid, is tot 1 januari 2018 niet van toepassing op een kas waarin assimilatiebelichting wordt toegepast en waarbij het technisch redelijkerwijs niet kan worden gevergd de bovenzijde te voorzien van een lichtscherminstallatie als bedoeld in dat lid.   
+1.  Artikel 3.56, eerste lid, is tot 1 januari 2018 niet van toepassing op een kas waarin assimilatiebelichting wordt toegepast en waarbij het technisch of teelttechnisch redelijkerwijs niet kan worden gevergd de bovenzijde te voorzien van een lichtscherminstallatie als bedoeld in dat lid.   
 2.  Artikel 3.58, eerste lid, onderdeel b, is tot 1 januari 2018 niet van toepassing op een kas als bedoeld in het eerste lid.   
 
 ### Artikel  6.24g  
@@ -6557,15 +6543,15 @@ In afwijking van artikel 3.58 is, indien assimilatiebelichting met een verlichti
 
 ### Artikel  6.24i  
 
-Artikel 6.24g is tot 1 januari 2013 niet van toepassing op een kas als bedoeld in dat artikel die aan de bovenzijde reeds voor 1 april 2009 is voorzien van een lichtscherminstallatie waarmee ten minste 85% van de lichtuitstraling kan worden gereduceerd.  
+De artikelen 3.56 tot en met 3.59 zijn tot 1 januari 2018 niet van toepassing op een inrichting waar kunstmatige belichting van gewassen wordt toegepast, gericht op de beïnvloeding van het groeiproces van de gewassen, waarvan het geïnstalleerde elektrische vermogen op het moment van inwerkingtreding van dit artikel minder bedraagt dan 20 Watt per vierkante meter.  
 
 ### Artikel  6.24j  
 
-In afwijking van artikel 3.58 is de bovenzijde van een kas als bedoeld in artikel 6.24i, tot 1 januari 2013 vanaf het tijdstip van zonsondergang tot het tijdstip van zonsopgang op een zodanige wijze afgeschermd dat de lichtuitstraling met ten minste 85% wordt gereduceerd.  
+In afwijking van artikel 3.63, tweede lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in het oppervlaktewater dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.  
 
 ### Artikel  6.24k  
 
-De artikelen 3.56 tot en met 3.59 zijn tot 1 januari 2018 niet van toepassing op een inrichting waar kunstmatige belichting van gewassen wordt toegepast, gericht op de beïnvloeding van het groeiproces van de gewassen, waarvan het geïnstalleerde elektrische vermogen op het moment van inwerkingtreding van dit artikel minder bedraagt dan 20 Watt per vierkante meter.  
+Door vernummering vervallen.   
 
 ### Artikel  6.24l  
 
@@ -6584,13 +6570,17 @@ c. ten hoogste 10% van de totale hoeveelheid drainwater naar de bodem sijpelt;
 
 d. door een door het bevoegd gezag geaccepteerde deskundige is beoordeeld of aan de in de onderdelen a tot en met c genoemde criteria wordt voldaan en een bewijs van de beoordeling, afgegeven door of namens degene die de beoordeling heeft uitgevoerd, binnen de inrichting wordt bewaard:   wordt het lozen van drainwater in de bodem aangemerkt als het lozen van drainwater waarvoor een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid, is vastgesteld.   
 
+### Artikel  6.24m1  
+
+In afwijking van artikel 3.76, derde lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in het oppervlaktewater dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.  
+
 ### §  6.13f  
 
 ####Telen van gewassen in de open lucht
 
 ### Artikel  6.24n  
 
-Artikel 3.83, derde tot en met vijfde lid, is gedurende vier jaar na de inwerkingtreding van dat artikel niet van toepassing op veldspuitapparatuur die voor dat tijdstip niet was voorzien van een drukregistratievoorziening.  
+Artikel 3.83, derde tot en met vijfde lid, is tot 1 januari 2017 niet van toepassing op veldspuitapparatuur die niet is voorzien van een drukregistratievoorziening als bedoeld in die leden.  
 
 ### §  6.13g  
 
@@ -6600,8 +6590,7 @@ Artikel 3.83, derde tot en met vijfde lid, is gedurende vier jaar na de inwerkin
 
 In afwijking van artikel 6.3, eerste lid, wordt, bij een inrichting die per hectare waarop het telen of kweken van gewassen in een kas plaatsvindt beschikt over een hemelwateropvangvoorziening van ten minste 500 kubieke meter, een ontheffing die is verleend voor het in de bodem lozen van afvalwater als gevolg van het voor de gietwatervoorziening bij de teelt van gewassen zuiveren van water door omgekeerde osmose en die in werking en onherroepelijk was op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van artikel 3.90 tot 1 juli 2022 aangemerkt als maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid.  
 
-### Artikel  6.24o1   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  6.24o1  
 
 In afwijking van artikel 3.91, tweede lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in het oppervlaktewater dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.  
 
@@ -6609,14 +6598,12 @@ In afwijking van artikel 3.91, tweede lid, onder a, wordt de afstand tot het dic
 
 ####Overgangsrecht met betrekking tot het behandelen van gewassen
 
-### Artikel  6.24o2   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  6.24o2  
 
 1.  In afwijking van artikel 3.100, vierde lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in het oppervlaktewater dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.   
 2.  In afwijking van artikel 3.100, vierde lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in de bodem dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.   
 
-### Artikel  6.24o3   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  6.24o3  
 
 In afwijking van artikel 3.102, zevende lid, onder a, wordt de afstand tot het dichtstbijzijnde vuilwaterriool of zuiveringstechnisch werk bij voortzetting van het lozen van afvalwater in het oppervlaktewater dat voor 1 januari 2013 al plaatsvond, berekend vanaf de plaats waar het afvalwater vrijkomt.  
 
@@ -6695,25 +6682,24 @@ Artikel 3.30a is tot 1 januari 2016 niet van toepassing op een opslagtank die is
 
 ### Artikel  6.24x  
 
-1.  Artikel 3.131, vierde lid, is niet van toepassing indien voor 1 januari 2008 een slibvangput en een vetafscheider zijn geplaatst die voldoen aan en worden gebruikt conform NEN 7087.   
+1.  Artikel 3.131, vierde lid, is niet van toepassing indien voor het tijdstip waarop dat artikel op de inrichting van toepassing werd een slibvangput en een vetafscheider zijn geplaatst die voldoen aan en worden gebruikt conform NEN 7087.   
 2.  Indien op een inrichting voor 1 januari 2008 een besluit als bedoeld in artikel 6.43 van toepassing was en vanuit die inrichting het afvalwater van het vervaardigen of bereiden van voedingsmiddelen werd geloosd zonder behandeling in een vetafscheider en slibvangput die voldoen aan NEN-EN-1825-1 en 2 dan wel NEN 7087, geldt voor dat lozen een ontheffing die als maatwerkvoorschrift als bedoeld artikel 3.131, vijfde lid, wordt aangemerkt.   
+3.  Het tweede lid is van overeenkomstige toepassing op een inrichting waarop met ingang van 1 januari 2008 tot 1 januari 2013 het Besluit landbouw milieubeheer, het Besluit mestbassins milieubeheer of het Besluit glastuinbouw van toepassing was.   
 
 ### §  6.13m  
 
-####Overgangsrecht met betrekking tot het slachten van dieren, uitsnijden van vlees of vis of bewerken van dierlijke bijproducten
+####Overgangsrecht met betrekking tot het slachten van dieren, uitsnijden van vlees of vis, bewerken van dierlijke bijproducten of industrieel vervaardigen of bewerken van voedingsmiddelen of dranken
 
 ### Artikel  6.24y  
 
-1.  Artikel 3.134, derde en vierde lid, zijn niet van toepassing op een slibvangput en een vetafscheider die voldoen aan en worden gebruikt volgens NEN 7087 en die zijn geplaatst binnen een inrichting voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing zouden worden.   
-2.  Artikel 3.134, derde en vierde lid, zijn eveneens niet van toepassing op een flocculatie-afscheider die binnen een inrichting is geplaatst voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing zouden worden.   
+1.  Artikel 3.134, derde lid, en artikel 3.139, zesde lid, zijn niet van toepassing op een slibvangput en een vetafscheider die voldoen aan en worden gebruikt volgens NEN 7087 en die zijn geplaatst binnen een inrichting voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing zouden worden.   
+2.  Artikel 3.134, derde lid, en artikel 3.139, zesde lid, zijn eveneens niet van toepassing op een flocculatie-afscheider die binnen een inrichting is geplaatst voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing zouden worden.   
 
 ### §  6.13n  
 
 ####Overgangsrecht tandheelkunde
 
-### Artikel  6.24z  
-
-Artikel 3.153 is tot 1 januari 2011 niet van toepassing indien het afvalwater afkomstig van tandheelkundige bewerkingen wordt geleid door een amalgaamafscheider die voor de inwerkingtreding van dat artikel is geplaatst en de door de leverancier aangegeven maximale doorstroomsnelheid niet wordt overschreden.  
+Vervallen per 01-03-2014   
 
 ### §  6.14  
 
@@ -6727,7 +6713,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  6.25a  
 
-Artikel 4.5b is niet van toepassing op een opslagtank die is geïnstalleerd voor de datum inwerkingtreding van dat artikel.  
+Artikel 4.5b is niet van toepassing op een opslagtank die is geïnstalleerd voor de datum van inwerkingtreding van dat artikel.  
 
 ### §  6.15  
 
@@ -6794,7 +6780,7 @@ Voor inrichtingen als bedoeld in categorie 11.3, onder c, onder 2° en 3°, van 
 
 ### §  6.23  
 
-####Overgangsrecht met betrekking tot het afleveren van vloeibare brandstof of gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, vaartuigen of spoorwegvoertuigen
+####Overgangsrecht met betrekking tot het afleveren van vloeibare brandstof of gecomprimeerd aardgas anders dan aan motorvoertuigen voor het wegverkeer, vaartuigen of spoorvoertuigen
 
 ### Artikel  6.34  
 
@@ -6820,13 +6806,16 @@ Vervallen per 01-01-2013
 
 ### Artikel  6.34c  
 
-Artikel 4.104a, tweede lid, is niet van toepassing op een slibvangput en een vetafscheider die voldoen aan en worden gebruikt volgens NEN 7087 en die zijn geplaatst binnen een inrichting voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing zouden worden.  
+1.  Artikel 4.104a, tweede lid, is niet van toepassing op een slibvangput en een vetafscheider die voldoen aan en worden gebruikt volgens NEN 7087 en die zijn geplaatst binnen een inrichting voorafgaand aan het tijdstip waarop die leden op die inrichting van toepassing werden.   
+2.  Artikel 4.104a, tweede lid, is eveneens niet van toepassing op een flocculatie-afscheider die binnen een inrichting is geplaatst voorafgaand aan het tijdstip waarop dat artikel op de inrichting van toepassing werd.   
 
 ### §  6.24  
 
-####Overgangsrecht met betrekking tot het bieden van gelegenheid tot het afmeren van pleziervaartuigen
+####Overgangsrecht met betrekking tot het in werking hebben van een laboratorium of praktijkruimte
 
-Vervallen per 01-01-2013   
+### Artikel  6.35  
+
+Artikel 4.124, derde lid, is niet van toepassing op inrichtingen waarbinnen, in overeenstemming met de vergunningvoorschriften zoals die luidden voorafgaand aan de inwerkingtreding van dat artikel, geen voorzieningen zijn geplaatst voor het afzonderlijk bemonsteren van het te lozen afvalwater als bedoeld in artikel 4.124, eerste lid.  
 
 ### §  6.25  
 
@@ -6872,6 +6861,8 @@ Besluit detailhandel en ambachtsbedrijven milieubeheer
 
 Besluit emissie-eisen middelgrote stookinstallaties milieubeheer   
 
+Besluit emissie-eisen titaandioxide-inrichtingen   
+
 Besluit glastuinbouw   
 
 Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer   
@@ -6896,6 +6887,8 @@ Besluit textielreinigingsbedrijven milieubeheer
 
 Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden   
 
+Besluit verbranden afvalstoffen   
+
 Besluit voorzieningen en installaties milieubeheer   
 
 Besluit woon- en verblijfsgebouwen milieubeheer.  
@@ -6904,7 +6897,9 @@ Lozingenbesluit bodembescherming
 
 Lozingenbesluit open teelt en veehouderij   
 
-Lozingenbesluit Wvo huishoudelijk afvalwater     
+Lozingenbesluit Wvo huishoudelijk afvalwater   
+
+Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer     
 
 ### Artikel  6.44  
 

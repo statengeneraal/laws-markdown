@@ -96,7 +96,7 @@ De aanvrager van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel b,
 
 ### Artikel  8  
 
-De aanvrager van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel c, van het Kentekenreglement, is in het bezit van een omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht voor het in werking hebben van een inrichting die behoort tot categorie 28.1, onder b, voor zover het betreft het bewerken van autowrakken of afgedankte motorfietsen, zoals genoemd in bijlage I, onder C, bij het Besluit omgevingsrecht.  
+De aanvrager van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel c, van het Kentekenreglement, is in het bezit van een omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht voor het in werking hebben van een inrichting die behoort tot categorie 28.1, onder b, voor zover het betreft het bewerken van autowrakken, afgedankte motorfietsen of afgedankte bromfietsen, zoals genoemd in bijlage I, onder C, bij het Besluit omgevingsrecht.  
 
 ### Hoofdstuk  3  
 

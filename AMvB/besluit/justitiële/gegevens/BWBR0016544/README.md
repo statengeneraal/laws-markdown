@@ -644,10 +644,11 @@ d. de persoonlijke levenssfeer van de betreffende personen niet onevenredig word
 ### Artikel  35  
 
 1.  Justitiële gegevens worden desgevraagd verstrekt aan de centrale autoriteit van een andere lidstaat ten behoeve van een strafrechtelijke procedure.   
-2.  Justitiële gegevens kunnen desgevraagd worden verstrekt aan de centrale autoriteit van een andere lidstaat ten behoeve van andere doeleinden.   
-3.  De centrale autoriteit onderzoekt de volledigheid van de bij een verzoek, bedoeld in het eerste en tweede lid, verstrekte informatie. Indien de bij het verzoek verstrekte informatie volledig is, worden de justitiële gegevens onverwijld maar in ieder geval binnen tien werkdagen na de dag waarop het verzoek is ontvangen, verstrekt. Indien nadere informatie nodig is met het oog op vaststelling van de identiteit van de persoon op wie het verzoek betrekking heeft, wordt onverwijld overlegd met de centrale autoriteit die het verzoek heeft gedaan teneinde binnen tien werkdagen na de dag waarop de aanvullende informatie is verkregen, een antwoord te kunnen verzenden.   
-4.  De beantwoording van het verzoek bedoeld in het eerste en tweede lid, geschiedt langs geautomatiseerde weg.   
-5.  Tot uiterlijk een jaar na de verstrekking op grond van het eerste of tweede lid stelt de centrale autoriteit onverwijld de centrale autoriteit die de gegevens heeft ontvangen in kennis van wijziging of schrapping van de verstrekte gegevens.   
+2.  Justitiële gegevens die betrekking hebben op een misdrijf bedoeld in de artikelen 240b, 242 tot en met 250 en 273f van het Wetboek van Strafrecht, worden desgevraagd verstrekt aan de centrale autoriteit van een andere lidstaat ten behoeve van een procedure die verband houdt met het aannemen van personeel voor activiteiten waarbij de betrokkene rechtstreeks en geregeld in aanraking komt met kinderen.   
+3.  Justitiële gegevens kunnen desgevraagd worden verstrekt aan de centrale autoriteit van een andere lidstaat ten behoeve van andere doeleinden.   
+4.  De centrale autoriteit onderzoekt de volledigheid van de bij een verzoek, bedoeld in het eerste, tweede en derde lid, verstrekte informatie. Indien de bij het verzoek verstrekte informatie volledig is, worden de justitiële gegevens onverwijld maar in ieder geval binnen tien werkdagen na de dag waarop het verzoek is ontvangen, verstrekt. Indien nadere informatie nodig is met het oog op vaststelling van de identiteit van de persoon op wie het verzoek betrekking heeft, wordt onverwijld overlegd met de centrale autoriteit die het verzoek heeft gedaan teneinde binnen tien werkdagen na de dag waarop de aanvullende informatie is verkregen, een antwoord te kunnen verzenden.   
+5.  De beantwoording van het verzoek bedoeld in het eerste, tweede en derde lid, geschiedt langs geautomatiseerde weg.   
+6.  Tot uiterlijk een jaar na de verstrekking op grond van het eerste, tweede of derde lid stelt de centrale autoriteit onverwijld de centrale autoriteit die de gegevens heeft ontvangen in kennis van wijziging of schrapping van de verstrekte gegevens.   
 
 ### Artikel  36  
 
