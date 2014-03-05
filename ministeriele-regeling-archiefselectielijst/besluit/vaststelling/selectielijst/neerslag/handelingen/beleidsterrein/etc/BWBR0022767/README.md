@@ -3,18 +3,18 @@
 ##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Volksgezondheid, Welzijn en Sport)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 25 september 2007, aca-2007.03991/4);
 Besluiten:    
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Politie over de periode 1945–1993 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Politie over de periode 1945–1993’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,12 +23,12 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, namens deze: de 
 projectdirecteur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der  Kooij    
 
 ####Basisselectiedocument voor het beleidsterrein ‘politie’, 1945–1993
 
@@ -38,7 +38,7 @@ Minister van Justitie, Minister van Binnenlandse Zaken en Koninkrijksrelaties, M
 
 ####Lijst van afkortingen
 
-Ab 1995: Archiefbesluit 1995 ACW: Adviescentrum Wagenparkbeheer Politie AMvB: Algemene Maatregel van Bestuur APB: Algemeen Politieblad ARA: Algemeen Rijksarchief ARBARP: Ambtenarenreglement voor de bijzondere ambtenaren van rijkspolitie ARRP: Ambtenarenreglement voor het korps rijkspolitie ARGP: Ambtenarenreglement voor de gemeentepolitie AVD: Algemene Verkeersdienst Rijkspolitie Aw 1995: Archiefwet 1995 Awb: Algemene wet bestuursrecht BSD: basis-selectiedocument CID: Criminele Informatiedienst CRI: Centrale Recherche Informatiedienst GOP: Georganiseerd Overleg Politie GVP: Geneeskundige Verzorging Politie KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LSOP: Landelijk Selectie- en Opleidingsinstituut Politie PB: Politiebesluit PIVOT: Project invoering verkorting overbrengingstermijn PTD: Politietechnische Dienst der Rijkspolitie PVD: Politie Verbindingsdienst PW: Politiewet RAD: Rijksarchiefdienst RDB: Recherchedienst Betalingsverkeer RIO: rapport institutioneel onderzoek Stb.: Staatsblad Stcrt.: Staatscourant VDKH: Veiligheidsdienst van het Koninklijk Huis 
+Ab 1995: [Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) ACW: Adviescentrum Wagenparkbeheer Politie AMvB: Algemene Maatregel van Bestuur APB: Algemeen Politieblad ARA: Algemeen Rijksarchief ARBARP: Ambtenarenreglement voor de bijzondere ambtenaren van rijkspolitie ARRP: Ambtenarenreglement voor het korps rijkspolitie ARGP: Ambtenarenreglement voor de gemeentepolitie AVD: Algemene Verkeersdienst Rijkspolitie Aw 1995: [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) Awb: [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) BSD: basis-selectiedocument CID: Criminele Informatiedienst CRI: Centrale Recherche Informatiedienst GOP: Georganiseerd Overleg Politie GVP: Geneeskundige Verzorging Politie KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LSOP: Landelijk Selectie- en Opleidingsinstituut Politie PB: Politiebesluit PIVOT: Project invoering verkorting overbrengingstermijn PTD: Politietechnische Dienst der Rijkspolitie PVD: Politie Verbindingsdienst PW: [Politiewet](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) RAD: Rijksarchiefdienst RDB: Recherchedienst Betalingsverkeer RIO: rapport institutioneel onderzoek Stb.: Staatsblad Stcrt.: Staatscourant VDKH: Veiligheidsdienst van het Koninklijk Huis 
 ###Actor
 
 Overheidsorgaan dat een rol speelt op een beleidsterrein 
@@ -50,21 +50,21 @@ Complex van activiteiten, gericht op het tot stand brengen van een product, dat 
 De selectiebeslissing ‘(blijvend) te bewaren’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling 
 ###V
 
-De selectiebeslissing ‘(op termijn) te vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling  
+De selectiebeslissing ‘(op termijn) te vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling 
 
 ####1. Verantwoording
 
 #### *1.1 Doel en werking van het Basis Selectiedocument* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. 
 
 #### *1.2 Definitie van het beleidsterrein* 
 
-In artikel 28 van de Politiewet 1957 staat de taak van de politie algemeen omschreven. ‘De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overeenstemming met de geldende rechtsregelen te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen, die deze behoeven’. De handhaving van de rechtsorde kan onderverdeeld worden in twee onderling verweven componenten: de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Handhaving van de openbare orde is de zorg voor de naleving van regels, bij niet naleving waarvan de orde en rust in het openbare leven wordt verstoord. Dit omvat enerzijds het voorkomen of beëindigen van verstoringen van de openbare orde en anderzijds de algemene, bestuurlijke voorkoming van strafbare feiten die invloed hebben op de orde en rust in de gemeentelijke samenleving, bijvoorbeeld door middel van vrijheidsbeperkende maatregelen of inbeslagneming. Strafrechtelijke handhaving van de rechtsorde is in aanleg repressief gericht. Het omvat hoofdzakelijk de daadwerkelijke voorkoming, de opsporing, de beëindiging, de vervolging en berechting van strafbare feiten, alsmede de tenuitvoerlegging van beslissingen van de rechter of het openbaar Ministerie in strafzaken. Ook de hulpverlenende taak van de politie hangt samen met haar opdracht de rechtsorde te handhaven. Hieronder kan men verstaan het verlenen van bijstand en raad aan het publiek, bijvoorbeeld het waarschuwen voor dreigende calamiteiten, het oplossen van noodsituaties of het verwijzen naar andere hulpverlenende instanties.  
+In artikel 28 van de Politiewet 1957 staat de taak van de politie algemeen omschreven. ‘De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overeenstemming met de geldende rechtsregelen te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen, die deze behoeven’. De handhaving van de rechtsorde kan onderverdeeld worden in twee onderling verweven componenten: de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Handhaving van de openbare orde is de zorg voor de naleving van regels, bij niet naleving waarvan de orde en rust in het openbare leven wordt verstoord. Dit omvat enerzijds het voorkomen of beëindigen van verstoringen van de openbare orde en anderzijds de algemene, bestuurlijke voorkoming van strafbare feiten die invloed hebben op de orde en rust in de gemeentelijke samenleving, bijvoorbeeld door middel van vrijheidsbeperkende maatregelen of inbeslagneming. Strafrechtelijke handhaving van de rechtsorde is in aanleg repressief gericht. Het omvat hoofdzakelijk de daadwerkelijke voorkoming, de opsporing, de beëindiging, de vervolging en berechting van strafbare feiten, alsmede de tenuitvoerlegging van beslissingen van de rechter of het openbaar Ministerie in strafzaken. Ook de hulpverlenende taak van de politie hangt samen met haar opdracht de rechtsorde te handhaven. Hieronder kan men verstaan het verlenen van bijstand en raad aan het publiek, bijvoorbeeld het waarschuwen voor dreigende calamiteiten, het oplossen van noodsituaties of het verwijzen naar andere hulpverlenende instanties. 
 
 #### *1.3 Afbakening van het beleidsterrein* 
 
-Zoals hierboven staat beschreven, kan de taak van de politie worden omschreven als het handhaven van de rechtsorde en het verlenen van hulp. De politie is daarmee onderdeel van het Nederlandse rechtssysteem. Het beleidsterrein ‘politie’ heeft daarom veel raakvlakken met de andere beleidsterreinen die onder de verantwoordelijkheid van de Minister van Justitie vallen. Ook op andere beleidsterreinen dan ‘politie’ komt de rechtsorde namelijk aan bod. In sommige gevallen, zoals in situaties van oorlog of van rampen wordt de rechtsorde echter niet gehandhaafd maar hersteld. Verder is op bepaalde beleidsterreinen de handhaving van de rechtsorde wel een taak, maar is uitvoering ervan een voorwaarde om het doel van het overheidsbeleid op die beleidsterreinen te bereiken. Zo moet de politie de uitvoering van de zogenaamde bijzondere wetten controleren, zoals de Opiumwet, de Drank- en horecawet, de Vreemdelingenwet, de Wet wapens en munitie, de Wet op de kansspelen, de Winkelsluitingswet, de Visserijwet, het Besluit Toezicht handel te water, de Wet op de weerkorpsen en de particuliere beveiligingsorganisaties. Het einddoel van de uitvoering van deze taak is niet de daadwerkelijke handhaving van de rechtsorde of hulp aan hen die deze behoeven. Controle op de handhaving van de bijzondere wetten is slechts een middel om het einddoel te bereiken. Zo is bijvoorbeeld het einddoel van de Visserijwet is beheer van de visstand. <sup> 1  De handelingen die ingevolge deze wetten worden verricht, worden behandeld in RIO’s over de afzonderlijke beleidsterreinen.  </sup> Om de primaire politietaken te kunnen verrichten, moeten ook secundaire taken verricht worden. Voorbeelden hiervan zijn logistiek, personeels-, informatie- en financieel beheer. Deze ondersteunende taken behoren tot andere beleidsterreinen en worden dus behandeld in andere rapporten. Wanneer echter deze secundaire politietaken op een bijzondere manier worden verricht, komen deze taken en de daaruit voortvloeiende handelingen in dit RIO aan de orde. Zo bestaat er een personeels- en arbeidsvoorwaardenbeleid dat specifiek gericht is op de politie.  
+Zoals hierboven staat beschreven, kan de taak van de politie worden omschreven als het handhaven van de rechtsorde en het verlenen van hulp. De politie is daarmee onderdeel van het Nederlandse rechtssysteem. Het beleidsterrein ‘politie’ heeft daarom veel raakvlakken met de andere beleidsterreinen die onder de verantwoordelijkheid van de Minister van Justitie vallen. Ook op andere beleidsterreinen dan ‘politie’ komt de rechtsorde namelijk aan bod. In sommige gevallen, zoals in situaties van oorlog of van rampen wordt de rechtsorde echter niet gehandhaafd maar hersteld. Verder is op bepaalde beleidsterreinen de handhaving van de rechtsorde wel een taak, maar is uitvoering ervan een voorwaarde om het doel van het overheidsbeleid op die beleidsterreinen te bereiken. Zo moet de politie de uitvoering van de zogenaamde bijzondere wetten controleren, zoals de [Opiumwet](../../../../../../../../../wet/opiumwet/BWBR0001941/README.md), de [Drank- en horecawet](../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), de [Vreemdelingenwet](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [Wet wapens en munitie](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), de [Wet op de kansspelen](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), de Winkelsluitingswet, de [Visserijwet](../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), het Besluit Toezicht handel te water, de [Wet op de weerkorpsen](../../../../../../../../../wet/wet/op/de/weerkorpsen/BWBR0001980/README.md) en de particuliere beveiligingsorganisaties.<sup>1De handelingen die ingevolge deze wetten worden verricht, worden behandeld in RIO’s over de afzonderlijke beleidsterreinen.</sup> Het einddoel van de uitvoering van deze taak is niet de daadwerkelijke handhaving van de rechtsorde of hulp aan hen die deze behoeven. Controle op de handhaving van de bijzondere wetten is slechts een middel om het einddoel te bereiken. Zo is bijvoorbeeld het einddoel van de [Visserijwet](../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) is beheer van de visstand. Om de primaire politietaken te kunnen verrichten, moeten ook secundaire taken verricht worden. Voorbeelden hiervan zijn logistiek, personeels-, informatie- en financieel beheer. Deze ondersteunende taken behoren tot andere beleidsterreinen en worden dus behandeld in andere rapporten. Wanneer echter deze secundaire politietaken op een bijzondere manier worden verricht, komen deze taken en de daaruit voortvloeiende handelingen in dit RIO aan de orde. Zo bestaat er een personeels- en arbeidsvoorwaardenbeleid dat specifiek gericht is op de politie. 
 
 #### *1.4 Historische ontwikkeling op het beleidsterrein* 
 
@@ -79,17 +79,17 @@ Na de bezetting ging de discussie over het politievraagstuk weer op dezelfde voe
 De periode tot aan de jaren zestig was er één van wederopbouw. Dat gold niet alleen voor Nederland als geheel, dat zich in rap tempo herstelde van de bezettingstijd, maar evenzeer voor het politieapparaat. De Nederlandse politie was de bezetting niet ongeschonden uitgekomen. Politiemensen waren direct of indirect betrokken geweest bij de maatregelen van de Duitse bezetter. Direct na de bevrijding werd dan ook een proces van zuivering in gang gezet. De afwikkeling van dit proces nam meer tijd in beslag dan men aanvankelijk in regeringskringen had geschat. Om het personeel aan te vullen werden tal van maatregelen getroffen. Zo werden onder meer de toelatingseisen verlaagd. Het personeelstekort droeg ook bij tot het nemen van het eerder genoemde Besluit reserve Rijks- en gemeentepolitie. Zowel bij de gemeentepolitie als bij het Korps Rijkspolitie kwamen in de eerste naoorlogse jaren tal van specialismen van de grond. Bij de gemeentepolitie gebeurde dit veelal op lokaal niveau. De sturing van bovenaf was gering. Bij het Korps Rijkspolitie lag dit anders. Hier had de Minister van Justitie als direct verantwoordelijk bewindspersoon en als budgethouder wel een grote invloed op de totstandkoming van specialistische onderdelen. Bij de oprichting werden reeds op districtsniveau verkeersgroepen samengesteld. Aanvankelijk hadden deze nog een geringe omvang, maar vanwege de snelle groei van de automobiliteit en het wegenverkeersnet groeiden ook deze eenheden uit tot volwassen onderdelen. Tussen 1959 en 1961 werden de verkeersgroepen grondig gereorganiseerd en uitgebreid. Voor wat betreft de uitvoering van de recherchetaak besloot de Minister van Justitie in november 1946 om aan iedere districtscommandant twee ambtenaren voor recherchewerkzaamheden toe te voegen. In de loop van de jaren vijftig werd de recherchetaak verbreed. Op het terrein van de grootschalige ordehandhaving was er gedurende de jaren veertig en vijftig nog nauwelijks behoefte aan een vorm van specialisme. Was er ergens sprake van een rel dan verleende onderdelen van gemeente- of rijkspolitie bijstand. Zij waren hier niet speciaal voor opgeleid. Bij de parlementaire behandeling van de Politiewet 1957 sprak men voor het eerst over de noodzaak van speciale eenheden. Dit omdat de Koninklijke Marechaussee aan de burgerlijke politietaak zou worden onttrokken. De eerste Mobiele Eenheden werden In 1959 opgericht. 
 ###Pogingen tot reorganisatie van het politiebestel 1967–1985
 
-In 1969 presenteerde de regering haar eerste voorstellen voor een herziening van de Politiewet van 1957. Zij deed dit in het boekje *Herziening Politiewet*. Dit ontwerp sprak onder meer over de inrichting van gemeenschappelijke korpsen van gemeentepolitie in het stedelijk gebied. De korpsen werden zodoende tot samenwerking gedwongen. De bevoegdheden van de centrale overheid met betrekking tot de organisatie van gemeentepolitiekorpsen werden in dit ontwerp uitgebreid. Binnen en buiten het parlement maakte men korte metten met deze voorstellen. De stijgende criminaliteit stelde de politie voor geheel nieuwe problemen. De oplossing leek dus te liggen in een schaalvergroting van de politieorganisatie. Dit uit oogpunt van doelmatigheid, zodat een einde zou kunnen worden gemaakt aan de wildgroei van (te) kleine gemeentelijke politiekorpsen. Beide Ministers dachten aan de instelling van een gedeconcentreerde regionale politie, met daarnaast een aantal landelijk opererende diensten korpsen, waaronder een recherche en een verkeersdienst. Het was echter niet mogelijk om afstand te doen van de bestaande gezagsdualiteit. Er bleef in hun ogen een wezenlijk verschil bestaan tussen de administratieve en de justitiële onderdelen van de politietaak. Dit betekende dat onderdelen van de politietaak over de beide politieMinisteries verdeeld zouden blijven. <sup> 2  J.M. Boek, 284  </sup> De Tweede Kamer bleek vooral over dit laatste punt te vallen. Een aantal Kamerleden zetten zich af tegen de handhaving van het gezagsdualisme. Zij waren van opvatting dat de preventieve kant van het politiewerk steeds meer en de repressieve kant steeds minder belangrijk werd. Mocht men dus een einde aan het gezagsdualisme dan zou met zich meebrengen dat het Ministerie van Justitie zijn zeggenschap over de politie zou verliezen. Het wilde niet vlotten. Ondanks herhaalde beloften slaagde de regering er pas in mei 1981 in om een nieuw voorstel voor een herziene Politiewet aan de Tweede Kamer voor te leggen. In dit voorstel waren rijks- en gemeentepolitie tot één geheel gevormd, verdeeld over 26 regionale korpsen, conform de nieuwe provinciale herindeling. Het algemeen beheer van de provinciale politie kwam in handen van de commissaris der Koningin. De officieren van justitie behielden hun verantwoordelijkheid voor de opsporing van strafbare feiten. Daarnaast was er ruimte voor de genoemde landelijke diensten. De centrale overheid zou tevens bevoegd zijn om in kwesties als opleiding, bewapening, uitrusting, materieelvoorziening, automatisering te beslissen. Het gezagsdualisme bleef aldus gehandhaafd. Volgens de rechtshistoricus Boek kwam dit voorstel er in grote lijnen neer op een politieorganisatie die op bestuurlijk grotere schaal werd georganiseerd, met afschaffing van het onderscheid rijks- en gemeentepolitie, maar met handhaving van de traditionele politiefunctie en daaraan verbonden gezags- en beheersstructuren. <sup> 3  J.M. Boek, 287  </sup> De gehele reorganisatie kon echter pas in gang worden gezet als de provinciale herindeling was ingevoerd. Dit was één van de zwakke punten in het plan. Door dit besluit verbond de regering de invoering van de regionale politie aan het welslagen van de bestuurlijke herindeling, en die laatste operatie was niet geheel onomstreden. Vooruitlopend op de reorganisatie werden de korpsen uitgenodigd om samenwerkingsprojecten op te zetten, ten einde werkzaamheden te combineren en aan elkaar te wennen. In de loop van de jaren zeventig ontstonden meerdere van deze samenwerkingsprojecten, onder anderen in de agglomeratie Eindhoven en in het Gooi. <sup> 4  ‘Nauwere samenwerking rijks- en gemeentepolitie in afwachting van gewestvorming’, in APB, 1975, jg. 124, no. 9, 207.  </sup> Naar aanleiding van het wetsvoorstel 1981 ontbrandde er wederom een felle politieke discussie, waarbij met name de PvdA van oordeel was dat de politiefunctie gezien zijn preventieve aard onderdeel moest uitmaken van het gehele bestuurlijke beleid. De partij was dan ook een aanhanger van de opvattingen van de POS. Zij wilde een politie die zo dicht mogelijk bij de burger stond, het liefst kleinschalig georganiseerd in wijkteams. Hiermee nam zij stelling tegen de grootschalig georganiseerde provinciale politie. Toen in 1985 duidelijk werd dat de provinciale herindeling niet door zou gaan, besloot de regering het wetsvoorstel voor een provinciale politie definitief in te trekken. In de nota *De toekomst van het politiebestel* maakten de Ministers Korthals Altes (Justitie) en Rietkerk (Binnenlandse Zaken) dit besluit bekend. Hen restte niets anders dan de handhaving van het bestaande bestel van rijks- en gemeentepolitie. Tegelijkertijd gaven zij aan dat hen er alles aan gelegen was om de samenwerking tussen de beide onderdelen te intensiveren. In mei 1986 ontving de Tweede Kamer een nieuw wetsvoorstel tot wijziging van de Politiewet 1957. Uitgaande van de gewenste schaalvergroting richtte dit voorstel zich vooral op een uitbreiding van de samenwerking tussen de politiekorpsen. De beide politieMinisters konden op grond van deze wijziging regels geven met betrekking tot de samenwerking tussen de verschillende politiediensten, desnoods mochten zij voorbijgaan aan de beheersbevoegdheid van de burgemeester. De samenwerking zou zich vooral moeten bewegen op het terrein van recherche, het grootschalig optreden, de surveillance en de handhaving van bijzondere wetten. Door de grens voor gemeentepolitie op te trekken naar 40.000 zielen, sloot de regering de mogelijkheid voor oprichting van nog meer kleine korpsen van gemeentepolitie af. 
+In 1969 presenteerde de regering haar eerste voorstellen voor een herziening van de Politiewet van 1957. Zij deed dit in het boekje *Herziening Politiewet*. Dit ontwerp sprak onder meer over de inrichting van gemeenschappelijke korpsen van gemeentepolitie in het stedelijk gebied. De korpsen werden zodoende tot samenwerking gedwongen. De bevoegdheden van de centrale overheid met betrekking tot de organisatie van gemeentepolitiekorpsen werden in dit ontwerp uitgebreid. Binnen en buiten het parlement maakte men korte metten met deze voorstellen.  De stijgende criminaliteit stelde de politie voor geheel nieuwe problemen. De oplossing leek dus te liggen in een schaalvergroting van de politieorganisatie. Dit uit oogpunt van doelmatigheid, zodat een einde zou kunnen worden gemaakt aan de wildgroei van (te) kleine gemeentelijke politiekorpsen. Beide Ministers dachten aan de instelling van een gedeconcentreerde regionale politie, met daarnaast een aantal landelijk opererende diensten korpsen, waaronder een recherche en een verkeersdienst.<sup>2J.M. Boek, 284</sup> Het was echter niet mogelijk om afstand te doen van de bestaande gezagsdualiteit. Er bleef in hun ogen een wezenlijk verschil bestaan tussen de administratieve en de justitiële onderdelen van de politietaak. Dit betekende dat onderdelen van de politietaak over de beide politieMinisteries verdeeld zouden blijven. De Tweede Kamer bleek vooral over dit laatste punt te vallen. Een aantal Kamerleden zetten zich af tegen de handhaving van het gezagsdualisme. Zij waren van opvatting dat de preventieve kant van het politiewerk steeds meer en de repressieve kant steeds minder belangrijk werd. Mocht men dus een einde aan het gezagsdualisme dan zou met zich meebrengen dat het Ministerie van Justitie zijn zeggenschap over de politie zou verliezen. Het wilde niet vlotten. Ondanks herhaalde beloften slaagde de regering er pas in mei 1981 in om een nieuw voorstel voor een herziene Politiewet aan de Tweede Kamer voor te leggen. In dit voorstel waren rijks- en gemeentepolitie tot één geheel gevormd, verdeeld over 26 regionale korpsen, conform de nieuwe provinciale herindeling. Het algemeen beheer van de provinciale politie kwam in handen van de commissaris der Koningin. De officieren van justitie behielden hun verantwoordelijkheid voor de opsporing van strafbare feiten. Daarnaast was er ruimte voor de genoemde landelijke diensten. De centrale overheid zou tevens bevoegd zijn om in kwesties als opleiding, bewapening, uitrusting, materieelvoorziening, automatisering te beslissen. Het gezagsdualisme bleef aldus gehandhaafd. Volgens de rechtshistoricus Boek kwam dit voorstel er in grote lijnen neer op een politieorganisatie die op bestuurlijk grotere schaal werd georganiseerd, met afschaffing van het onderscheid rijks- en gemeentepolitie, maar met handhaving van de traditionele politiefunctie en daaraan verbonden gezags- en beheersstructuren.<sup>3J.M. Boek, 287</sup> De gehele reorganisatie kon echter pas in gang worden gezet als de provinciale herindeling was ingevoerd. Dit was één van de zwakke punten in het plan. Door dit besluit verbond de regering de invoering van de regionale politie aan het welslagen van de bestuurlijke herindeling, en die laatste operatie was niet geheel onomstreden. Vooruitlopend op de reorganisatie werden de korpsen uitgenodigd om samenwerkingsprojecten op te zetten, ten einde werkzaamheden te combineren en aan elkaar te wennen.<sup>4‘Nauwere samenwerking rijks- en gemeentepolitie in afwachting van gewestvorming’, in APB, 1975, jg. 124, no. 9, 207.</sup> In de loop van de jaren zeventig ontstonden meerdere van deze samenwerkingsprojecten, onder anderen in de agglomeratie Eindhoven en in het Gooi. Naar aanleiding van het wetsvoorstel 1981 ontbrandde er wederom een felle politieke discussie, waarbij met name de PvdA van oordeel was dat de politiefunctie gezien zijn preventieve aard onderdeel moest uitmaken van het gehele bestuurlijke beleid. De partij was dan ook een aanhanger van de opvattingen van de POS. Zij wilde een politie die zo dicht mogelijk bij de burger stond, het liefst kleinschalig georganiseerd in wijkteams. Hiermee nam zij stelling tegen de grootschalig georganiseerde provinciale politie. Toen in 1985 duidelijk werd dat de provinciale herindeling niet door zou gaan, besloot de regering het wetsvoorstel voor een provinciale politie definitief in te trekken. In de nota *De toekomst van het politiebestel* maakten de Ministers Korthals Altes (Justitie) en Rietkerk (Binnenlandse Zaken) dit besluit bekend. Hen restte niets anders dan de handhaving van het bestaande bestel van rijks- en gemeentepolitie. Tegelijkertijd gaven zij aan dat hen er alles aan gelegen was om de samenwerking tussen de beide onderdelen te intensiveren. In mei 1986 ontving de Tweede Kamer een nieuw wetsvoorstel tot wijziging van de Politiewet 1957. Uitgaande van de gewenste schaalvergroting richtte dit voorstel zich vooral op een uitbreiding van de samenwerking tussen de politiekorpsen. De beide politieMinisters konden op grond van deze wijziging regels geven met betrekking tot de samenwerking tussen de verschillende politiediensten, desnoods mochten zij voorbijgaan aan de beheersbevoegdheid van de burgemeester. De samenwerking zou zich vooral moeten bewegen op het terrein van recherche, het grootschalig optreden, de surveillance en de handhaving van bijzondere wetten. Door de grens voor gemeentepolitie op te trekken naar 40.000 zielen, sloot de regering de mogelijkheid voor oprichting van nog meer kleine korpsen van gemeentepolitie af. 
 ###De neergang in de jaren tachtig
 
-Gedurende de jaren tachtig laaide de discussie over de sterkte opnieuw op. Dit gebeurde mede in het kader van het project Reorganisatie van de Rijksdienst, waarmee het Kabinet Lubbers I aanzette tot een efficiëntere bedrijfshuishouding binnen de overheidssector. Bij de politie deden verscheidene werkgroepen en commissies onderzoek naar de relatie tussen sterkte en bedrijfsvoering. De eerste was de werkgroep *Verdeling sterkte gemeentepolitie* die in 1984 werd ingesteld. Deze werkgroep stelde een nieuwe sterkteformule samen, waarbij andere criteria dan alleen het inwonertal van de gemeente bepalend werden voor de vaststelling van de sterkte. In 1986 ging de Werkgroep Politie Budget (WPB) aan de slag. Deze werkgroep diende te zoeken naar beleidsalternatieven binnen het lopende politiebudget van beide politieMinisteries. De WPB richtte zich dus niet uitsluitend op de gemeentepolitie. Aan de hand van haar onderzoek adviseerde de WPB in 1987 om flink te snoeien in de organisatie en de sterkte van de politie. Accenten moesten worden verlegd. Zo zou er meer aandacht voor de automatisering moeten komen. Het advies tot personeelsvermindering viel niet overal in goede aarde. Voor de politiebonden was dit advies in ieder geval onbespreekbaar. Het Kabinet Lubbers II maakte echter bekend de aanbevelingen te zullen volgen en stuurden darmee aan op een regelrechte confrontatie met de politiebonden. 
+Gedurende de jaren tachtig laaide de discussie over de sterkte opnieuw op. Dit gebeurde mede in het kader van het project Reorganisatie van de Rijksdienst, waarmee het Kabinet Lubbers I aanzette tot een efficiëntere bedrijfshuishouding binnen de overheidssector. Bij de politie deden verscheidene werkgroepen en commissies onderzoek naar de relatie tussen sterkte en bedrijfsvoering. De eerste was de werkgroep *Verdeling sterkte gemeentepolitie* die in 1984 werd ingesteld. Deze werkgroep stelde een nieuwe sterkteformule samen, waarbij andere criteria dan alleen het inwonertal van de gemeente bepalend werden voor de vaststelling van de sterkte.  In 1986 ging de Werkgroep Politie Budget (WPB) aan de slag. Deze werkgroep diende te zoeken naar beleidsalternatieven binnen het lopende politiebudget van beide politieMinisteries. De WPB richtte zich dus niet uitsluitend op de gemeentepolitie. Aan de hand van haar onderzoek adviseerde de WPB in 1987 om flink te snoeien in de organisatie en de sterkte van de politie. Accenten moesten worden verlegd. Zo zou er meer aandacht voor de automatisering moeten komen. Het advies tot personeelsvermindering viel niet overal in goede aarde. Voor de politiebonden was dit advies in ieder geval onbespreekbaar. Het Kabinet Lubbers II maakte echter bekend de aanbevelingen te zullen volgen en stuurden darmee aan op een regelrechte confrontatie met de politiebonden. 
 ###De reorganisatie van 1993
 
-In het regeeraccoord voor het Kabinet Lubbers III van oktober 1989, presenteerde de nieuwe regering een blauwdruk voor een nieuwe politieorganisatie. Het stuk ging uit van een integratie van de rijks- en gemeentepolitie in regionale korpsen, grotendeels gebaseerd op de uitkomsten van de PKP. Een en ander betekende dat het Korps Rijkspolitie zou worden opgeheven. De dagelijkse politiezorg werd binnen het regionale korps, voor wat betreft de inzet van menskracht en materieel, zoveel mogelijk gedeconcentreerd en op lokaal niveau uitgeoefend. De burgemeester van de grootste gemeente binnen een regio zou in de regel optreden als korpsbeheerder. Over de landelijke beheersbevoegdheden bestond nog geen duidelijkheid, al lag het voor de hand dat deze bevoegdheid bij de Minister van Binnenlandse Zaken kwam te liggen. Zoals ook in de eerdere plannen al te berde was gebracht kwamen er op rijksniveau een nog nader te bepalen aantal diensten, instellingen en facilitaire bedrijven ten behoeve van de politie. Deze vielen onder de verantwoordelijkheid van de Minister van Justitie. In de loop van 1990 kregen de plannen meer structuur. Er kwamen 25 regiokorpsen een Korps Landelijke Politiediensten (KLPD). Het beheer in de regio kwam in handen van een korpsbeheerder, de burgemeester van de grootste gemeente in die regio. Hij voerde overleg met de officier van justitie. Een korpschef, meestal een hoofdcommissaris, kreeg de dagelijkse leiding over een regiokorps. Daarnaast kwam er een regionaal college voor beslissingen over de hoofdlijnen van het beleid. Hierin zaten alle burgemeesters uit de regio en de officier van justitie. De Minister van Binnenlandse Zaken werd verantwoordelijk voor de Nederlandse politie als geheel. Het Ministerie van Justitie bleef verantwoordelijk voor de opsporing. Hiermee bleef het gezagsdualisme gehandhaafd, ook al was er wel degelijk sprake van een verschuiving, waarbij de balans doorsloeg nar Binnenlandse Zaken. De Koninklijke Marechaussee kreeg in de nieuwe situatie weer een volledige politietaak. Zij zou de taken van het Korps Rijkspolitie op de burgerluchtvaartterreinen overnemen. Het verkrijgen van voldoende politieke steun was geen probleem. Het merendeel der partijen had immers al zijn voorkeur uitgesproken voor een eenheidspolitie. Belangrijker was het creëren van voorwaarden waaronder het politiepersoneel akkoord zou gaan met de operatie. Daarom was de regering ook bereid om water bij de wijn te doen. Er kwam een Sociaal Akkoord dat garandeerde dat tijdens de reorganisatie niemand tegen zijn wil zou worden verplaatst en dat gedwongen ontslag uitsloot. Voorts zou de reorganisatie gepaard gaan met een algemene herwaardering van de functies op grond van een nieuw functiewaarderingssysteem dat in samenspraak met de politiebonden zou worden samengesteld. Er kwam een verbeterde medezeggenschapsregeling en tenslotte verdween het verschil in arbeidsvoorwaarden tussen executief en niet-executief personeel. Daarmee werd vrijwel aan alle eisen van de politiebonden tegemoet gekomen. In 1992 ging de reorganisatie van start. De afronding vond in april 1994 plaats. <sup> 5  Zie: W.A.J. Gooren, *De organisatie van de reorganisatie*, Tilburg.  </sup> Voor een uitgebreide historische ontwikkeling van het beleidsterrein politie wordt verwezen naar het Rapport Institutioneel Onderzoek (RIO) *Handelen met de sterke arm.*. 
+In het regeeraccoord voor het Kabinet Lubbers III van oktober 1989, presenteerde de nieuwe regering een blauwdruk voor een nieuwe politieorganisatie. Het stuk ging uit van een integratie van de rijks- en gemeentepolitie in regionale korpsen, grotendeels gebaseerd op de uitkomsten van de PKP. Een en ander betekende dat het Korps Rijkspolitie zou worden opgeheven. De dagelijkse politiezorg werd binnen het regionale korps, voor wat betreft de inzet van menskracht en materieel, zoveel mogelijk gedeconcentreerd en op lokaal niveau uitgeoefend. De burgemeester van de grootste gemeente binnen een regio zou in de regel optreden als korpsbeheerder. Over de landelijke beheersbevoegdheden bestond nog geen duidelijkheid, al lag het voor de hand dat deze bevoegdheid bij de Minister van Binnenlandse Zaken kwam te liggen. Zoals ook in de eerdere plannen al te berde was gebracht kwamen er op rijksniveau een nog nader te bepalen aantal diensten, instellingen en facilitaire bedrijven ten behoeve van de politie. Deze vielen onder de verantwoordelijkheid van de Minister van Justitie. In de loop van 1990 kregen de plannen meer structuur. Er kwamen 25 regiokorpsen een Korps Landelijke Politiediensten (KLPD). Het beheer in de regio kwam in handen van een korpsbeheerder, de burgemeester van de grootste gemeente in die regio. Hij voerde overleg met de officier van justitie. Een korpschef, meestal een hoofdcommissaris, kreeg de dagelijkse leiding over een regiokorps. Daarnaast kwam er een regionaal college voor beslissingen over de hoofdlijnen van het beleid. Hierin zaten alle burgemeesters uit de regio en de officier van justitie. De Minister van Binnenlandse Zaken werd verantwoordelijk voor de Nederlandse politie als geheel. Het Ministerie van Justitie bleef verantwoordelijk voor de opsporing. Hiermee bleef het gezagsdualisme gehandhaafd, ook al was er wel degelijk sprake van een verschuiving, waarbij de balans doorsloeg nar Binnenlandse Zaken. De Koninklijke Marechaussee kreeg in de nieuwe situatie weer een volledige politietaak. Zij zou de taken van het Korps Rijkspolitie op de burgerluchtvaartterreinen overnemen. Het verkrijgen van voldoende politieke steun was geen probleem. Het merendeel der partijen had immers al zijn voorkeur uitgesproken voor een eenheidspolitie. Belangrijker was het creëren van voorwaarden waaronder het politiepersoneel akkoord zou gaan met de operatie. Daarom was de regering ook bereid om water bij de wijn te doen. Er kwam een Sociaal Akkoord dat garandeerde dat tijdens de reorganisatie niemand tegen zijn wil zou worden verplaatst en dat gedwongen ontslag uitsloot. Voorts zou de reorganisatie gepaard gaan met een algemene herwaardering van de functies op grond van een nieuw functiewaarderingssysteem dat in samenspraak met de politiebonden zou worden samengesteld. Er kwam een verbeterde medezeggenschapsregeling en tenslotte verdween het verschil in arbeidsvoorwaarden tussen executief en niet-executief personeel. Daarmee werd vrijwel aan alle eisen van de politiebonden tegemoet gekomen.<sup>5 Zie: W.A.J. Gooren, *De organisatie van de reorganisatie*, Tilburg.</sup> In 1992 ging de reorganisatie van start. De afronding vond in april 1994 plaats.  Voor een uitgebreide historische ontwikkeling van het beleidsterrein politie wordt verwezen naar het Rapport Institutioneel Onderzoek (RIO) *Handelen met de sterke arm.*. 
 
 #### *1.5 Totstandkoming BSD* 
 
-Voorafgaand aan het Basisselectiedocument (BSD) is er een institutioneel onderzoek verricht naar de taakontwikkeling van het Ministerie in de periode na 1940. Dit leidde tot het opstellen van het rapport institutioneel onderzoek (RIO) *Handelen met de sterke arm*, Rapport institutioneel onderzoek naar het beleidterrein ‘politie’ 1945–1993. Dit rapport is verschenen in 2000 in de PIVOT reeks onder nummer 100. De auteur van dit rapport is drs. M.J. Bagchus. De periode vanaf 1994 is beschreven in *Handelen met de sterke arm deel II* (PIVOT-rapport nummer 31). Tot deze scheiding is besloten omdat met de inwerkingtreding van de Politiewet 1993 de organisatie van de politie en daarmee de handelingen, actoren en gegevens op het beleidsterrein ingrijpend gewijzigd zijn. Waar op deelbeleidsterreinen tussen beide RIO’s van overlap sprake is, wordt naar het desbetreffende rapport verwezen. Het Nationaal Archief heeft het eerste RIO beoordeeld en geconcludeerd dat de context onvoldoende was. Het Ministerie van Justitie heeft de aanpassing van de context uitbesteed aan de Nederlandse Politie Academie (LSOP). Het aanvullend onderzoek naar de ontwikkeling van het beleidsterrein is in 2005 – 2006 uitgevoerd door drs. R.van der Wal, historicus en onderzoeker aan de Politieacademie. De context is uitgebreid en aan het BSD zijn een aantal handelingen toegevoegd (nrs. 2, 642, 258, 278, en 333). Het nieuwe RIO is in september 2006 goedgekeurd door het Nationaal Archief. Het oorspronkelijke BSD is in 2006–2007 aangepast door (BSD-)medewerkers van PWAA. Aanvullend onderzoek naar de herkomst van commissies is uitgevoerd door mw. drs. L. Boer en mw. M. van de Kamp, BSD-medewerkers van PWAA. Redactionele werkzaamheden zijn uitgevoerd door mw. H. Yildirim, dhr. C. Carels, mw. C. Akkerveken en mw. M. Tollens. Naar aanleiding van het driehoeksoverleg zijn een aantal zaken ten opzichte van het RIO gewijzigd. Een aantal actoren die wel staan beschreven in het RIO zijn niet opgenomen in het BSD. De actoren burgemeester en Commissaris van de Koningin zijn opgenomen in het nog te verschijnen BSD Lagere Overheden. De Regi⁠stratiekamer is een ZBO en heeft een eigen selectielijst. De Raad voor de gemeentefinancien en de Rijkscommissie van advies voor de gemeentefinanciën staan in het BSD Lagere overheden. Het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van VROM gaven aan de vakMinistershandeling niet vast te willen stellen, omdat zij gebruik maken van een andere, relevante handeling. Hiernaast zijn een aantal nieuwe handelingen opgenomen, met onderwerpen als de oprichting van de KLPD; terrorismebestrijding, overleg met lagere overheden en maatschappelijke vertegenwoordigingen. Voor de Commissie GOP zijn drie handelingen uit het vastgestelde BSD Politie deel II overgenomen. De nieuwe handelingen zijn doorgenummerd vanaf het RIO en beginnen bij nummer 644. Namens het Ministerie van Justitie zijn de handelingen beoordeeld door: Drs. G. Beks, projectleider, Directie Informatisering Dhr. M. van Rijn, archiefonderzoeker, Directie Bedrijfsvoering & Ondersteuning Bestuursdepartement Dhr. W.C. Kampers, medewerker, OM Arrondissement Den Haag Dhr. H. van Kammen, adviseur Documentaire Informatie Voorziening, Korps Landelijke Politiediensten, Concerndienst Facilitair Bedrijf, Afdeling Advies & Beleid, Vakcluster Documentaire Informatie Voorziening Dhr.drs. J.P.A. Kiemel, medewerker kabinet College van procureurs-generaal  
+Voorafgaand aan het Basisselectiedocument (BSD) is er een institutioneel onderzoek verricht naar de taakontwikkeling van het Ministerie in de periode na 1940. Dit leidde tot het opstellen van het rapport institutioneel onderzoek (RIO) *Handelen met de sterke arm*, Rapport institutioneel onderzoek naar het beleidterrein ‘politie’ 1945–1993. Dit rapport is verschenen in 2000 in de PIVOT reeks onder nummer 100. De auteur van dit rapport is drs. M.J. Bagchus. De periode vanaf 1994 is beschreven in *Handelen met de sterke arm deel II* (PIVOT-rapport nummer 31). Tot deze scheiding is besloten omdat met de inwerkingtreding van de [Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) de organisatie van de politie en daarmee de handelingen, actoren en gegevens op het beleidsterrein ingrijpend gewijzigd zijn. Waar op deelbeleidsterreinen tussen beide RIO’s van overlap sprake is, wordt naar het desbetreffende rapport verwezen. Het Nationaal Archief heeft het eerste RIO beoordeeld en geconcludeerd dat de context onvoldoende was. Het Ministerie van Justitie heeft de aanpassing van de context uitbesteed aan de Nederlandse Politie Academie (LSOP). Het aanvullend onderzoek naar de ontwikkeling van het beleidsterrein is in 2005 – 2006 uitgevoerd door drs. R.van der Wal, historicus en onderzoeker aan de Politieacademie. De context is uitgebreid en aan het BSD zijn een aantal handelingen toegevoegd (nrs. 2, 642, 258, 278, en 333). Het nieuwe RIO is in september 2006 goedgekeurd door het Nationaal Archief. Het oorspronkelijke BSD is in 2006–2007 aangepast door (BSD-)medewerkers van PWAA. Aanvullend onderzoek naar de herkomst van commissies is uitgevoerd door mw. drs. L. Boer en mw. M. van de Kamp, BSD-medewerkers van PWAA. Redactionele werkzaamheden zijn uitgevoerd door mw. H. Yildirim, dhr. C. Carels, mw. C. Akkerveken en mw. M. Tollens. Naar aanleiding van het driehoeksoverleg zijn een aantal zaken ten opzichte van het RIO gewijzigd. Een aantal actoren die wel staan beschreven in het RIO zijn niet opgenomen in het BSD. De actoren burgemeester en Commissaris van de Koningin zijn opgenomen in het nog te verschijnen BSD Lagere Overheden. De Regi⁠stratiekamer is een ZBO en heeft een eigen selectielijst. De Raad voor de gemeentefinancien en de Rijkscommissie van advies voor de gemeentefinanciën staan in het BSD Lagere overheden. Het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van VROM gaven aan de vakMinistershandeling niet vast te willen stellen, omdat zij gebruik maken van een andere, relevante handeling. Hiernaast zijn een aantal nieuwe handelingen opgenomen, met onderwerpen als de oprichting van de KLPD; terrorismebestrijding, overleg met lagere overheden en maatschappelijke vertegenwoordigingen. Voor de Commissie GOP zijn drie handelingen uit het vastgestelde BSD Politie deel II overgenomen. De nieuwe handelingen zijn doorgenummerd vanaf het RIO en beginnen bij nummer 644. Namens het Ministerie van Justitie zijn de handelingen beoordeeld door: Drs. G. Beks, projectleider, Directie Informatisering Dhr. M. van Rijn, archiefonderzoeker, Directie Bedrijfsvoering & Ondersteuning Bestuursdepartement Dhr. W.C. Kampers, medewerker, OM Arrondissement Den Haag Dhr. H. van Kammen, adviseur Documentaire Informatie Voorziening, Korps Landelijke Politiediensten, Concerndienst Facilitair Bedrijf, Afdeling Advies & Beleid, Vakcluster Documentaire Informatie Voorziening Dhr.drs. J.P.A. Kiemel, medewerker kabinet College van procureurs-generaal 
 
 #### *1.6 Lijst van actoren* 
 
@@ -111,26 +111,26 @@ Minister van Binnenlandse Zaken en Koninkrijksrelaties Adviescommissies verkeers
 – Minister van Financiën 
 ###F. Actor onder de zorg van alle Ministers:
 
-– VakMinister  
+– VakMinister 
 
 ####2. Selectiedoelstelling
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein. 
 
 ####3. Selectiecriteria
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande *algemene* selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 
 ###Selectiecriteria
 
-###Handelingen die gewaardeerd worden met *B* (ewaren)
+###Handelingen die gewaardeerd worden met *B*(ewaren)
 
 ###Algemeen selectiecriterium
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting*: Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge artikel 5, onder e, van het Archiefbesluit 1995 kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Alsmede archiefbescheiden die te maken hebben met de verstoring van de openbare orde met landelijke betekenis. Met betrekking tot persoonsdossiers wordt een afwijkende waardering gehanteerd wanneer het ‘belangrijke personen’ op het beleidsterrein betreft. De bewaarcriteria voor persoonsdossiers worden uitgewerkt in de nota ‘Persoonsdossiers: een geval apart’ (2006), vanaf pagina 11.   
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op*beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting*: Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Alsmede archiefbescheiden die te maken hebben met de verstoring van de openbare orde met landelijke betekenis. Met betrekking tot persoonsdossiers wordt een afwijkende waardering gehanteerd wanneer het ‘belangrijke personen’ op het beleidsterrein betreft. De bewaarcriteria voor persoonsdossiers worden uitgewerkt in de nota ‘Persoonsdossiers: een geval apart’ (2006), vanaf pagina 11.  
 
 ####4. Verslag vaststellingsprocedure
 
-In februari 2007 is het ontwerp-BSD door de Minister van Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Algemene Zaken, de Minister van Financiën, de Minister van Defensie, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Economische Zaken, de Minister van Buitenlandse Zaken, de Minister van Verkeer en Waterstaat en de Minister van Volksgezondheid, Welzijn en Sport aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 augustus 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 25 september 2007 bracht de RvC advies uit (aca-2007.03991/4), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 8 oktober 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Algemene Zaken (C/S&A/07/2268), de Minister van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/07/2269), de Minister van Buitenlandse Zaken (C/S&A/07/2491), de Minister van Defensie (C/S&A/07/2491), de Minister van Economische Zaken (C/S&A/07/2493), de Minister van Financiën (C/S&A/07/2494), de Minister van Justitie (C/S&A/07/2495), de Minister van Landbouw, Natuur en Voedselkwaliteit (C/S&A/07/2496), de Minister van Onderwijs, Cultuur en Wetenschap (C/S&A/07/2497), de Minister van Verkeer en Waterstaat (C/S&A/07/2498) en de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/07/2499) vastgesteld.  
+In februari 2007 is het ontwerp-BSD door de Minister van Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Algemene Zaken, de Minister van Financiën, de Minister van Defensie, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Economische Zaken, de Minister van Buitenlandse Zaken, de Minister van Verkeer en Waterstaat en de Minister van Volksgezondheid, Welzijn en Sport aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 augustus 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 25 september 2007 bracht de RvC advies uit (aca-2007.03991/4), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 8 oktober 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Algemene Zaken ([C/S&A/07/2268](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022769/README.md)), de Minister van Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/07/2269](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022770/README.md)), de Minister van Buitenlandse Zaken ([C/S&A/07/2491](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022771/README.md)), de Minister van Defensie ([C/S&A/07/2491](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022772/README.md)), de Minister van Economische Zaken ([C/S&A/07/2493](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022773/README.md)), de Minister van Financiën ([C/S&A/07/2494](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022774/README.md)), de Minister van Justitie ([C/S&A/07/2495](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022775/README.md)), de Minister van Landbouw, Natuur en Voedselkwaliteit ([C/S&A/07/2496](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022776/README.md)), de Minister van Onderwijs, Cultuur en Wetenschap ([C/S&A/07/2497](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022777/README.md)), de Minister van Verkeer en Waterstaat ([C/S&A/07/2498](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022778/README.md)) en de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/07/2499) vastgesteld. 
 
 ####5. Leeswijzer
 
@@ -157,7 +157,7 @@ Dit is de wettelijke basis op grond waarvan de actor de handeling verricht, indi
 
 – naam van de wet, de algemene Maatregel van bestuur, het Koninklijk Besluit of Ministeriële regeling;  
 
-– het betreffende artikel en het lid daarvan.   De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. 
+– het betreffende artikel en het lid daarvan.   De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is.  Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld.  
 ###Product
 
 Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct Toepassing is afhankelijk van de zorgdrager. 
@@ -166,7 +166,7 @@ Hier achter staat het product vermeld waarin de handeling resulteert of zou moet
 Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. 
 ###Waardering
 
-Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####6. Actorenoverzicht
 
@@ -179,7 +179,7 @@ Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietige
 Op 8 november 1945 volgde het Politiebesluit (Stb. 1945, F 250), dat ten dele terugviel op het zo omstreden vooroorlogse duale politiebestel. Het eerste artikel van het Politiebesluit 1945 bepaalde dat de politie bestond uit de gemeentepolitie en uit het Korps Rijkspolitie. Rijks- en gemeenteveldwacht. De Koninklijke Marechaussee werd uit het bestel geschreven en zou zich alleen toeleggen op de militaire politietaak. Het Korps Politietroepen keerde niet meer terug. Gemeente en rijkspolitie kregen ieder hun eigen bewakingsgebieden toebedeeld. De grote en middelgrote gemeenten (65 in totaal) waren het werkterrein van de gemeentepolitie. In de plattelandsgemeenten waakte de rijkspolitie. De algemene leiding, de organisatie en het beheer van de rijkspolitie kwam te berusten bij de Minister van Justitie. In gemeenten met gemeentepolitie werd de burgemeester belast met de algemene leiding, de organisatie en het beheer van de gemeentepolitie. De dagelijkse leiding over het Korps Rijkspolitie werd opgedragen aan de algemeen inspecteur. Het korps was georganiseerd in districten en groepen. Het Politiebesluit van 1945 bepaalde dat ten aanzien van een aantal beheersaangelegenheden centrale beheersregelingen werden vastgesteld waaraan het bevoegd gezag (de burgemeester voor wat betreft de gemeentepolitie en de Minister van Justitie voor wat betreft de rijkspolitie) zich dienden te houden. Deze beheersbevoegdheid werd vanaf 1945 gedeeld door de Ministers van Justitie en van Binnenlandse Zaken. De Minister van Justitie was verantwoordelijk voor de rijkspolitie; de Minister van Binnenlandse Zaken voor de gemeentepolitie. Voor die tijd had de Minister van Binnenlandse Zaken slechts een bijrol op het beleidsterrein. Als gevolg van het politiebesluit nam dit Ministerie voortaan een gelijkwaardige rol in. Door de Kroon, op gemeenschappelijke voordracht van de Ministers van Justitie en van Binnenlandse Zaken, bij gemeenschappelijke Ministeriële beschikking of in onderling overleg werden regels gegeven over beheerszaken als rechtspositie, tucht, benoembaarheideisen, opleiding, indeling en sterkte, werving, kleding, en bewapening. 
 ###Minister van Defensie
 
-De Minister van Defensie speelt een grote rol op het beleidsterrein politie en neemt actief deel aan de beleidsvorming. De taken van deze Minister zijn nauw verweven met die van de politie. De Koninklijke Marechaussee (Kmar) ressorteert onder het Ministerie. Aan de Koninklijke marechaussee zijn een aantal politietaken opgedragen, zoals het waken voor de veiligheid van de leden van het Koninklijk Huis, in samenwerking met andere daartoe aangewezen organen; de uitvoering van de politietaak ten behoeve van Nederlandse en andere strijdkrachten, alsmede internationale militaire hoofdkwartieren, en ten aanzien van tot die strijdkrachten en hoofdkwartieren behorende personen; en de uitvoering van de politietaak op plaatsen onder beheer van de Minister van Defensie en op verboden plaatsen die krachtens de Wet bescherming staatsgeheimen (Stb. 1951, 92) ten behoeve van de landsverdediging zijn aangewezen. 
+De Minister van Defensie speelt een grote rol op het beleidsterrein politie en neemt actief deel aan de beleidsvorming. De taken van deze Minister zijn nauw verweven met die van de politie. De Koninklijke Marechaussee (Kmar) ressorteert onder het Ministerie. Aan de Koninklijke marechaussee zijn een aantal politietaken opgedragen, zoals het waken voor de veiligheid van de leden van het Koninklijk Huis, in samenwerking met andere daartoe aangewezen organen; de uitvoering van de politietaak ten behoeve van Nederlandse en andere strijdkrachten, alsmede internationale militaire hoofdkwartieren, en ten aanzien van tot die strijdkrachten en hoofdkwartieren behorende personen; en de uitvoering van de politietaak op plaatsen onder beheer van de Minister van Defensie en op verboden plaatsen die krachtens de [Wet bescherming staatsgeheimen](../../../../../../../../../wet/wet/bescherming/staatsgeheimen/BWBR0002074/README.md) (Stb. 1951, 92) ten behoeve van de landsverdediging zijn aangewezen. 
 ###Minister-President / Minister van Algemene Zaken
 
 De Minister-president verleent eervol ontslag aan een bij KB benoemde ambtenaar van politie indien uit zijn gedragingen van zodanige gezindheid blijkt dat er geen voldoende waarborg aanwezig is dat hij zijn plicht getrouwelijk zal vervullen. Ook benoemt hij de (plaatsvervangende) leden van de commissie bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie 
@@ -244,7 +244,7 @@ Ingesteld:
 
 – art. 1 Instellingsbeschikking stuurgroep reorganisatie politie (Stcrt. 1990, 52)  
 
-– art. 1 Instellingsbeschikking stuurgroep reorganisatie politie (Stcrt. 1991, 168)   opgeheven: 1994 taak: 
+– art. 1 Instellingsbeschikking stuurgroep reorganisatie politie (Stcrt. 1991, 168)    opgeheven: 1994 taak: 
 
 – het voorbereiden van de besluitvorming van de Ministers van Justitie en Binnenlandse Zaken  
 
@@ -388,7 +388,7 @@ ingesteld: Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 
 Deze commissie is ingesteld met het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675)(art. 15 WTVRP). Dit besluit (Stb. 1991, 675) trad in werking per 1 januari 1992 (Stb 1991, 674) en werd in 1994 ingetrokken (Stb. 1994, 216). Het had tot doel de instelling te bevorderen van één overlegorgaan waarmee georganiseerd overleg werd gevoerd over de personele aspecten van de reorganisatie. Dit is de Buitengewone Commissie voor Georganiseerd Overleg geworden. Daarnaast werden Regionale Commissies ingesteld voor georganiseerd overleg in politie-ambtenarenzaken in de politieregio en een Commissie Korps Landelijke Diensten voor georganiseerd overleg in politie-ambtenarenzaken in het Korps Landelijke Diensten. Wat betreft de aard, inhoud en structuur van het overleg sluiten de bepalingen aan bij die van het Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571). Zie ook *Handelen met de sterke arm, deel 2* blz. 285. 
 ###Commissie als bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie
 
-In artikel 93 van het ARGP (Stb. 1953, 74) werd deze commissie in het ambtenarenreglement geïntroduceerd. Bij besluiten van 21 februari 1956 (Stb. 1956, 79) en van 24 december 1957 (Stb. 1957, 558) werd voor deze commissie aangewezen de commissie bedoeld in artikel 97b van het Algemeen Rijksambtenarenreglement (zie hiervoor de nog te verschijnen PIVOT-rapporten over personeels- en arbeidsvoorwaardenbeleid voor ambtenaren). Bij besluit van 28 januari 1993 (Stb. 1993, 102) werd de commissie daadwerkelijk ingesteld. Ingesteld: art. 2 van het Besluit van 28 januari 1993, houdende regelen met betrekking tot de instelling, de taak, de samenstelling en de werkwijze van de commissie bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie (Stb. 1993, 102) Taak: 
+In artikel 93 van het ARGP (Stb. 1953, 74) werd deze commissie in het ambtenarenreglement geïntroduceerd. Bij besluiten van 21 februari 1956 (Stb. 1956, 79) en van 24 december 1957 (Stb. 1957, 558) werd voor deze commissie aangewezen de commissie bedoeld in [artikel 97b van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (zie hiervoor de nog te verschijnen PIVOT-rapporten over personeels- en arbeidsvoorwaardenbeleid voor ambtenaren). Bij besluit van 28 januari 1993 (Stb. 1993, 102) werd de commissie daadwerkelijk ingesteld. Ingesteld: art. 2 van het Besluit van 28 januari 1993, houdende regelen met betrekking tot de instelling, de taak, de samenstelling en de werkwijze van de commissie bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie (Stb. 1993, 102) Taak: 
 
 – het adviseren van het bevoegd gezag over het voornemen een disciplinaire straf op te leggen aan bij KB benoemde ambtenaren  
 
@@ -473,7 +473,7 @@ Ingesteld: art. 3 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Voorganger
 
 – het doen van aanbeveling voor een eindredacteur en een secretaris  
 
-– het vaststellen van een instructie voor de eindredacteur   samenstelling: Ten hoogste twaalf leden: een vertegenwoordiger van elk der beide Ministers en van elk der organisaties die deelnemen aan de Stichting Politie Uitgeverij. Deze laatsten worden door elk der organisaties voorgedragen. Alle leden worden door beide Ministers, na overleg met de redactieraad, benoemd en ontslagen.  
+– het vaststellen van een instructie voor de eindredacteur   samenstelling: Ten hoogste twaalf leden: een vertegenwoordiger van elk der beide Ministers en van elk der organisaties die deelnemen aan de Stichting Politie Uitgeverij. Deze laatsten worden door elk der organisaties voorgedragen. Alle leden worden door beide Ministers, na overleg met de redactieraad, benoemd en ontslagen. 
 
 ####Selectielijsten
 
@@ -495,13 +495,13 @@ Handeling: het voorbereiden, mede-vaststellen, coördineren en evalueren van bel
 Handeling: het evalueren van de politiewetgeving Grondslag: Onder meer: Beschikking instelling commissie politiewetgeving van de Ministers van Justitie en van Binnenlandse Zaken d.d. 1 oktober 1948 (APB 1948, 22) Periode: 1945–1993 Toelichting: in 1948 kreeg commissie Langemeyer opdracht de na de oorlog in werking getreden Politiewet te evalueren. In 1970 kreeg prof. J.M. Polak de aanstelling van regeringscommissaris voor herziening van de politiewetgeving. Zijn onderzoek mondde uit in de in 1972 aan de Tweede Kamer voorgelegde Nota van Vraagpunten. Product: Rapport Commissie Langemeyer (1949) Nota van vraagpunten (1972) Waardering: B2 
 ###3.
 
-Handeling: het instellen en opheffen van commissies en werkgroepen met betrekking tot het onderzoek naar sterkte, invulling van de politietaak en bedrijfsvoering. Grondslag: begrotingen Periode: 1945–1993 Toelichting: commissies die zich met deze thema’s hebben bezig gehouden zijn onder meer: – Projectgroep Organisatie Structuren 1976-1979 – Werkgroep Politie Budget (WPB) 1986-1987 – Werkgroep Kwantitatieve Aspecten (WKA) 1986 – Projectgroep Kwantificering Politiesterkte (PKP) 1986-1988 Waardering: B4  
+Handeling: het instellen en opheffen van commissies en werkgroepen met betrekking tot het onderzoek naar sterkte, invulling van de politietaak en bedrijfsvoering. Grondslag: begrotingen Periode: 1945–1993 Toelichting: commissies die zich met deze thema’s hebben bezig gehouden zijn onder meer: – Projectgroep Organisatie Structuren 1976-1979 – Werkgroep Politie Budget (WPB) 1986-1987 – Werkgroep Kwantitatieve Aspecten (WKA) 1986 – Projectgroep Kwantificering Politiesterkte (PKP) 1986-1988 Waardering: B4 
 
 #### *7.1.1.2 Totstandkoming van wet- en regelgeving* 
 
 ###4.
 
-Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B1  
+Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B1 
 
 #### *7.1.1.3 Verantwoording van beleid* 
 
@@ -516,37 +516,37 @@ Handeling: het beantwoorden van kamervragen en het anderszins op verzoek inciden
 Handeling: het verstrekken van informatie aan de Commissies voor de Verzoekschriften van de Staten Generaal, aan overige kamercommissies en aan de Nationale Ombudsman naar aanleiding van klachten van burgers inzake ontwikkelingen betreffende de politie Periode: 1945–1993 Waardering: B3 
 ###8.
 
-Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5  
+Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5 
 
 #### *7.1.1.4 Internationaal beleid* 
 
 ###9.
 
-Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Producten: internationale regelingen, nota’s, notities, rapporten Opmerking: Voor handelingen voortvloeiend uit de regelingen op het terrein van de internationale politiële samenwerking zij verwezen naar paragraaf 3.2.5 van deel 2. Waardering: B5  
+Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Producten: internationale regelingen, nota’s, notities, rapporten Opmerking: Voor handelingen voortvloeiend uit de regelingen op het terrein van de internationale politiële samenwerking zij verwezen naar paragraaf 3.2.5 van deel 2. Waardering: B5 
 
 #### *7.1.1.5 Informatieverstrekking* 
 
 ###10.
 
-Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Waardering: V, 3 jaar  
+Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Waardering: V, 3 jaar 
 
 #### *7.1.1.6 Onderzoek* 
 
 ###11.
 
-Handeling: het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de politie Periode: 1945–1993 Waardering: Vaststellingsbesluit en eindrapport: B5 Overig: V, 10 jaar na afronding onderzoek 12. Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Waardering: Vaststellingsbesluit en eindrapport: B5 Overige neerslag: V 10 jaar na afronding onderzoek  
+Handeling: het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de politie Periode: 1945–1993 Waardering: Vaststellingsbesluit en eindrapport: B5 Overig: V, 10 jaar na afronding onderzoek 12. Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Waardering: Vaststellingsbesluit en eindrapport: B5 Overige neerslag: V 10 jaar na afronding onderzoek 
 
 #### *7.1.1.7 Overleg met lagere overheden* 
 
 ###644.
 
-Handeling: Het voeren van (periodiek terugkerend) overleg met lagere overheden aangaande het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met de Vereniging van Nederlandse Gemeenten. Waardering: B 1, 5  
+Handeling: Het voeren van (periodiek terugkerend) overleg met lagere overheden aangaande het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met de Vereniging van Nederlandse Gemeenten. Waardering: B 1, 5 
 
 #### *7.1.1.8 Overleg met maatschappelijke vertegenwoordigingen en/of het bedrijfsleven* 
 
-###645.
+###645. 
 
-Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5  
+Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5 
 
 #### *7.1.2 Organisatie en Beheer* 
 
@@ -582,7 +582,7 @@ Handeling: het binnen zes maanden na het inwerkingtreden van het Politiebesluit 
 Handeling: het binnen zes maanden na het inwerkingtreden van het Politiebesluit 1945 in rang verlagen van ambtenaren van rijks- of gemeentepolitie Grondslag: art. 19.2 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1946 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###22.
 
-Handeling: het vaststellen van voorschriften die voor een juiste uitvoering van het Politiebesluit 1945 worden gevorderd Grondslag: art. 20 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5  
+Handeling: het vaststellen van voorschriften die voor een juiste uitvoering van het Politiebesluit 1945 worden gevorderd Grondslag: art. 20 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5 
 
 #### *7.1.2.2 Gemeentepolitie* 
 
@@ -613,7 +613,7 @@ Handeling: het doen van voordrachten tot het bij KB vaststellen, wijzigen of int
 Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake het vaststellen, wijzigen of intrekken van regels voor de (reserve)gemeentepolitie ten aanzien van werving, opleiding en onderricht, kleding, bewapening en overige uitrusting, keuring en controle op lichamelijke en geestelijke geschiktheid Grondslag: art. 7.2 Wet Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V, 10 jaar 
 ###39.
 
-Handeling: het bij gezamenlijk besluit verplichten dat een ambtenaar van gemeentepolitie, die niet is aangesteld om uitsluitend administratief of technisch werkzaam te zijn, overgaat naar het korps rijkspolitie Grondslag: art. 8.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Waardering: V, 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het bij gezamenlijk besluit verplichten dat een ambtenaar van gemeentepolitie, die niet is aangesteld om uitsluitend administratief of technisch werkzaam te zijn, overgaat naar het korps rijkspolitie Grondslag: art. 8.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Waardering: V, 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *7.1.2.3 Financiering (gemeente)politie* 
 
@@ -728,7 +728,7 @@ Handeling: het geven van regels voor bijzondere ambtenaren van rijkspolitie ten 
 Handeling: het doen van voordracht tot het bij AMvB stellen van regels voor de administratief-technische ambtenaren van rijkspolitie inzake rechtspositie, beëdiging, bezoldiging, tucht en eisen van benoembaarheid Grondslag: art. 27a.1 Politiewet 1957 (Stb. 1957, 244), ingevoegd bij wet van 24 juni 1992 (Stb. 1992, 326) Periode: 1992–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 ###118.
 
-Handeling: het voor de administratief-technische ambtenaren van rijkspolitie geven van regels inzake, opleiding en onderricht, kleding, bewapening en overige uitrusting, keuring en controle op lichamelijke en geestelijke geschiktheid Grondslag: art. 27b Politiewet 1957 (Stb. 1957, 244), ingevoegd bij wet van 24 juni 1992 (Stb. 1992, 326) Periode: 1992–1993 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het voor de administratief-technische ambtenaren van rijkspolitie geven van regels inzake, opleiding en onderricht, kleding, bewapening en overige uitrusting, keuring en controle op lichamelijke en geestelijke geschiktheid Grondslag: art. 27b Politiewet 1957 (Stb. 1957, 244), ingevoegd bij wet van 24 juni 1992 (Stb. 1992, 326) Periode: 1992–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *7.1.2.5 Aanstelling en bevordering* 
 
@@ -743,7 +743,7 @@ Handeling: het in zeer bijzondere gevallen verlengen van de proeftijd van een ni
 Handeling: het vaststellen, wijzigen of intrekken van een model-aanstellingsakte van een rijkspolitieambtenaar Grondslag: art. 4.1 ARRP (Stb. 1953, 75) Periode: 1953–1957 Waardering: V, 5 jaar na wijziging 
 ###131.
 
-Handeling: het doen aanhouden van een ranglijst van bij KB benoemde (bijzondere) rijkspolitieambtenaren Grondslag: – art. 6.1 ARRP (Stb. 1953, 75) – art. 6.1 ARRP 1958 (Stb. 1957, 548) – art. 6.1 ARBARP 1967 (Stb. 1967, 391) – art. 6.1 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Opmerking: het betreft een lijst met namen Waardering: B5  
+Handeling: het doen aanhouden van een ranglijst van bij KB benoemde (bijzondere) rijkspolitieambtenaren Grondslag: – art. 6.1 ARRP (Stb. 1953, 75) – art. 6.1 ARRP 1958 (Stb. 1957, 548) – art. 6.1 ARBARP 1967 (Stb. 1967, 391) – art. 6.1 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Opmerking: het betreft een lijst met namen Waardering: B5 
 
 #### *7.1.2.6 Bezoldiging* 
 
@@ -755,7 +755,7 @@ Handeling: het aanwijzen van een ambtenaar om een ambtenaar in hogere rang of fu
 Handeling: het beslissen of een ongehuwde (bijzondere) rijkspolitieambtenaar beschouwd wordt als enig kostwinner in verband met bezoldiging tijdens de vervulling van zijn dienstplicht Grondslag: – art. 12.3 ARRP (Stb. 1953, 75) – art. 13.3 ARRP 1958 (Stb. 1957, 548) – art. 13.3 ARRP 1975 (Stb. 1977, 172) – art. 13.3 ARBARP 1967 (Stb. 1967, 391) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###134.
 
-Handeling: het doen van voordracht tot het bij KB stellen van nadere regels omtrent de bezoldiging van politieambtenaren tijdens de vervulling van de dienstplicht Grondslag: – art. 16.2 ARGP (Stb. 1953, 74) – art. 16.2 ARRP (Stb. 1953, 75) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het doen van voordracht tot het bij KB stellen van nadere regels omtrent de bezoldiging van politieambtenaren tijdens de vervulling van de dienstplicht Grondslag: – art. 16.2 ARGP (Stb. 1953, 74) – art. 16.2 ARRP (Stb. 1953, 75) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *7.1.2.7 Diensttijden* 
 
@@ -773,7 +773,7 @@ Handeling: het vaststellen, wijzigen of intrekken van richtlijnen inzake de inri
 Handeling: het bepalen dat de diensttijdenregeling niet van toepassing is op bijzondere ambtenaren van rijkspolitie die werkzaam zijn bij de Veiligheidsdienst van het Koninklijk Huis Grondslag: art. 21.3 ARBARP 1967 (Stb, 1967, 391) Periode: 1967–1976 Waardering: V, 10 jaar na wijziging of intrekking 
 ###140.
 
-Handeling: het toekennen van een overwerkvergoeding aan bijzondere ambtenaren van rijkspolitie die werkzaam zijn bij de Veiligheidsdienst van het Koninklijk Huis Grondslag: art. 21.3 ARBARP 1967 (Stb, 1967, 391) Periode: 1967–1976 Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het toekennen van een overwerkvergoeding aan bijzondere ambtenaren van rijkspolitie die werkzaam zijn bij de Veiligheidsdienst van het Koninklijk Huis Grondslag: art. 21.3 ARBARP 1967 (Stb, 1967, 391) Periode: 1967–1976 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *7.1.2.8 Vakantie en verlof* 
 
@@ -791,7 +791,7 @@ Handeling: het vaststellen, wijzigen of intrekken van nadere regels omtrent de t
 Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake de vaststelling, wijziging of intrekking van nadere regels omtrent de toepassing van de bepalingen omtrent vakantie, vakantie-uitkering en verlof van ambtenaren van gemeentepolitie Grondslag: art. 34, 39, 50.2 ARGP 1958 (Stb. 1957, 547) Periode: 1958–1993 Waardering: V, 5 jaar na wijziging of intrekking 
 ###149.
 
-Handeling: het geven van toestemming aan de algemeen inspecteur tot het verlenen van buitengewoon verlof van langer dan drie maanden aan ambtenaren van rijkspolitie Grondslag: art. 43.2 en 53.1 ARRP 1958 (Stb. 1957, 548) Periode: 1958–1993 Waardering: V, 5 jaar  
+Handeling: het geven van toestemming aan de algemeen inspecteur tot het verlenen van buitengewoon verlof van langer dan drie maanden aan ambtenaren van rijkspolitie Grondslag: art. 43.2 en 53.1 ARRP 1958 (Stb. 1957, 548) Periode: 1958–1993 Waardering: V, 5 jaar 
 
 #### *7.1.2.9 Ziekte en geneeskundige keuring* 
 
@@ -812,7 +812,7 @@ Handeling: het aanwijzen van een of meer geneeskundigen voor herkeuring van bijz
 Handeling: het in bijzondere gevallen bepalen dat de bezoldiging tijdens afwezigheid door ziekte betaald wordt aan een ander dan de (bijzonder) ambtenaar van rijkspolitie die is aangesteld bij KB Grondslag: – art. 43 ARRP (Stb. 1953, 75) – art. 70 ARRP 1958 (Stb. 1957, 548) – art. 75 ARBARP 1967 (Stb, 1967, 391) – art. 63.1 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###158.
 
-Handeling: het vaststellen, wijzigen of intrekken van voorschriften omtrent hernieuwd of periodiek geneeskundig onderzoek van ambtenaren van rijkspolitie Grondslag: art. 65.4 of art. 66.3 ARRP 1975 (Stb. 1977, 172) Periode: 1975–1993 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het vaststellen, wijzigen of intrekken van voorschriften omtrent hernieuwd of periodiek geneeskundig onderzoek van ambtenaren van rijkspolitie Grondslag: art. 65.4 of art. 66.3 ARRP 1975 (Stb. 1977, 172) Periode: 1975–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *7.1.2.10 Overige rechten en plichten* 
 
@@ -854,13 +854,13 @@ Handeling: het (verlenen van machtiging tot het) aan een (bijzondere) ambtenaar 
 Handeling: het aan een bij KB benoemde (bijzondere) ambtenaar van rijkspolitie toekennen van een huldeblijk bij zijn ambtsjubileum Grondslag: – art. 77 ARRP (Stb. 1953, 75) – art. 102.1 en 102.3 ARRP 1958 (Stb. 1957, 548) – art. 104.1 ARBARP 1967 (Stb, 1967, 391) – art. 102.1 en 102.3 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###179.
 
-Handeling: het vaststellen, wijzigen of intrekken van regels omtrent de diensttijd ter vaststelling van ambtsjubilea van (bijzondere) ambtenaren van rijkspolitie Grondslag: – art. 77.6 ARRP (Stb. 1953, 75) – art. 102.4 ARRP 1958 (Stb. 1957, 548) – art. 104.4 ARBARP 1967 (Stb, 1967, 391) – art. 102.4 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het vaststellen, wijzigen of intrekken van regels omtrent de diensttijd ter vaststelling van ambtsjubilea van (bijzondere) ambtenaren van rijkspolitie Grondslag: – art. 77.6 ARRP (Stb. 1953, 75) – art. 102.4 ARRP 1958 (Stb. 1957, 548) – art. 104.4 ARBARP 1967 (Stb, 1967, 391) – art. 102.4 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *7.1.2.11 Straffen* 
 
 ###181.
 
-Handeling: het opleggen van straffen aan bij KB benoemde (bijzondere) ambtenaren van rijkspolitie Grondslag: – art. 79.2 ARRP (Stb. 1953, 75) – art. 104.2 ARRP 1958 (Stb. 1957, 548) – art. 106.2 ARBARP 1967 (Stb, 1967, 391) – art. 104.2 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het opleggen van straffen aan bij KB benoemde (bijzondere) ambtenaren van rijkspolitie Grondslag: – art. 79.2 ARRP (Stb. 1953, 75) – art. 104.2 ARRP 1958 (Stb. 1957, 548) – art. 106.2 ARBARP 1967 (Stb, 1967, 391) – art. 104.2 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *7.1.2.12 Schorsing en ontslag* 
 
@@ -896,7 +896,7 @@ Handeling: het verlenen van een vergoeding aan de achterblijvende gezinsleden va
 Handeling: het bij vermissing van een ambtenaar van rijkspolitie bepalen van de dag waarop hij geacht wordt te zijn overleden, of het uitbetalen van de bezoldiging indien hij nog in leven blijkt Grondslag: art. 125a.1 en 125a.2 ARRP 1975 (Stb. 1977, 172) Periode: 1975–1993 Waardering: B5 
 ###201.
 
-Handeling: het (doen van voordracht tot het) stellen van nadere algemene regels ter uitwerking of aanvulling van het ambtenarenreglement voor de gemeentepolitie Grondslag: art. 101 ARGP (Stb. 1953, 74) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het (doen van voordracht tot het) stellen van nadere algemene regels ter uitwerking of aanvulling van het ambtenarenreglement voor de gemeentepolitie Grondslag: art. 101 ARGP (Stb. 1953, 74) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *7.1.2.13 Handelingen ingevolge het Besluit Reserve Rijks- en gemeentepolitie* 
 
@@ -924,7 +924,7 @@ Handeling: het uitvoeren van de regels inzake de vaststelling en toekenning van 
 Handeling: het vaststellen, wijzigen of intrekken van andere rechten en verplichtingen voor de vrijwilliger van politie Grondslag: art. 38 Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1964–1993 Waardering: V, 10 jaar na wijziging of intrekking, 
 ###215.
 
-Handeling: het uitvoeren van het Besluit adviesraden burgerlijke reserve-organen voor wat vrijwilligers bij de reservepolitie betreft Grondslag: Besluit adviesraden burgerlijke reserve-organen (Stb. 1964, 478) Periode: 1965–1993 Waardering: V, 10 jaar  
+Handeling: het uitvoeren van het Besluit adviesraden burgerlijke reserve-organen voor wat vrijwilligers bij de reservepolitie betreft Grondslag: Besluit adviesraden burgerlijke reserve-organen (Stb. 1964, 478) Periode: 1965–1993 Waardering: V, 10 jaar 
 
 #### *7.1.2.14 Surveillancehonden* 
 
@@ -949,7 +949,7 @@ Handeling: het goedkeuren van de bij het geschiktheidsonderzoek van surveillance
 Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften ter uitvoering van het Besluit Surveillancehonden Politie Grondslag: art. 3.1 en 5 Besluit Surveillancehonden Politie (Stb. 1951, 143), 1958 (Stcrt. 1957, 553) Periode: 1951–1993 Waardering: V10 jaar na wijziging of intrekking 
 ###222.
 
-Handeling: het uitvoeren van de Beschikking Surveillancehonden politie en de Beschikking Surveillancehonden Korps rijkspolitie Grondslag: – Beschikking surveillancehonden politie 1958 (Stcrt. 1957, 252) – Beschikking Surveillancehonden Korps rijkspolitie (Stcrt. 1958, 40/58; 203/58) Periode: 1951–1993 Waardering: V10 jaar na wijziging of intrekking  
+Handeling: het uitvoeren van de Beschikking Surveillancehonden politie en de Beschikking Surveillancehonden Korps rijkspolitie Grondslag: – Beschikking surveillancehonden politie 1958 (Stcrt. 1957, 252) – Beschikking Surveillancehonden Korps rijkspolitie (Stcrt. 1958, 40/58; 203/58) Periode: 1951–1993 Waardering: V10 jaar na wijziging of intrekking 
 
 #### *7.1.2.15 Geneeskundige verzorging* 
 
@@ -1019,7 +1019,7 @@ Handeling: het geven van regels over de wijze waarop beroep moet worden ingestel
 Handeling: het vaststellen, wijzigen of intrekken van regels over de samenstelling van de commissie van beroep GVP Grondslag: art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1980–1984 Waardering: V, 2 jaar na wijziging 
 ###257.
 
-Handeling: het benoemen, schorsen en ontslaan van (plaatsvervangende) leden, het aanwijzen van de (plaatsvervangend) voorzitter alsmede het toevoegen van een (waarnemend) secretaris van de Commissie van beroep GVP Grondslag: – art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555), en gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) – art. 14.1 en 14.4 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), vervallen bij KB van 15 januari 1993 (Stb. 1993, 93) – art. 2.1 of 3 Regeling instellen van beroep (Stcrt. 1980, 30) Periode: 1980–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het benoemen, schorsen en ontslaan van (plaatsvervangende) leden, het aanwijzen van de (plaatsvervangend) voorzitter alsmede het toevoegen van een (waarnemend) secretaris van de Commissie van beroep GVP Grondslag: – art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555), en gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) – art. 14.1 en 14.4 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), vervallen bij KB van 15 januari 1993 (Stb. 1993, 93) – art. 2.1 of 3 Regeling instellen van beroep (Stcrt. 1980, 30) Periode: 1980–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *7.1.2.16 Bezoldiging* 
 
@@ -1065,7 +1065,7 @@ Handeling: het uitvoeren van het verplaatsingskostenbesluit politie Grondslag: V
 Handeling: het bepalen van de bedragen ter vergoeding van of tegemoetkoming in de opleidingskosten van een politieambtenaar Grondslag: art. 3 en 4 Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Waardering: V10 jaar na wijziging of intrekking 
 ###277.
 
-Handeling: het toekennen van vergoedingen op grond van de Regeling vergoeding opleidingskosten politieambtenaren Grondslag: Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het toekennen van vergoedingen op grond van de Regeling vergoeding opleidingskosten politieambtenaren Grondslag: Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *7.1.2.17 Georganiseerd Overleg* 
 
@@ -1126,7 +1126,7 @@ Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften ter u
 Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften inzake de dienstcommissie voor zover de bijzondere verhoudingen aan de primaire politie-opleiding daartoe aanleiding geven Grondslag: art. 75.4 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 ###303.
 
-Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften voor wat betreft het Korps Rijkspolitie ter uitvoering van het Besluit Overleg en Medezeggenschap Politie, voor zover daarin niet door de Ministers van Justitie en van Binnenlandse Zaken gezamenlijk is voorzien en voor zover het niet betreft de huishoudelijke gang van zaken in de dienstcommissie Grondslag: art. 75.2 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V, 5 jaar na wijziging of intrekking  
+Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften voor wat betreft het Korps Rijkspolitie ter uitvoering van het Besluit Overleg en Medezeggenschap Politie, voor zover daarin niet door de Ministers van Justitie en van Binnenlandse Zaken gezamenlijk is voorzien en voor zover het niet betreft de huishoudelijke gang van zaken in de dienstcommissie Grondslag: art. 75.2 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V, 5 jaar na wijziging of intrekking 
 
 #### *7.1.2.18 Dienstcommissie* 
 
@@ -1198,7 +1198,7 @@ Handeling: het aanwijzen van een (plaatsvervangend) voorzitter, van een secretar
 Handeling: het instellen van een dienstcommissie voor bijzondere ambtenaren van rijkspolitie indien minstens 30 % van de bijzondere ambtenaren van rijkspolitie lid is van een toegelaten vereniging Grondslag: art. 37.1 Regeling GOP 1973 (Stb. 1974, 52) Periode: 1974–1985 Waardering: V 10 jaar na opheffing 
 ###332.
 
-Handeling: het overleggen met een dienstcommissie voor bijzondere ambtenaren van rijkspolitie over onderwerpen die in algemene zin van belang zijn voor de uitvoering van beslissingen over aangelegenheden betreffende de rechtstoestand van bijzondere ambtenaren van rijkspolitie Grondslag: art. 37.1 Regeling GOP 1973 (Stb. 1974, 52) Periode: 1974–1985 Waardering: V 10 jaar  
+Handeling: het overleggen met een dienstcommissie voor bijzondere ambtenaren van rijkspolitie over onderwerpen die in algemene zin van belang zijn voor de uitvoering van beslissingen over aangelegenheden betreffende de rechtstoestand van bijzondere ambtenaren van rijkspolitie Grondslag: art. 37.1 Regeling GOP 1973 (Stb. 1974, 52) Periode: 1974–1985 Waardering: V 10 jaar 
 
 #### *7.1.2.19 Bekwaamheid, benoeming, bevordering en opleiding* 
 
@@ -1246,7 +1246,7 @@ Handeling: het vaststellen, wijzigen of intrekken van het programma van het exam
 Handeling: het aanwijzen van een taalexamen Grondslag: – art. 8 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551) – art. 8 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551) – art. 4.1 Besluit bekwaamheidseisen bevordering politie 1964 (Stb. 1964, 397) Periode: 1953–1993 Waardering: V7 jaar 
 ###350.
 
-Handeling: het vaststellen van de beschikking primair politie-onderwijs Grondslag: Beschikking primair politie-onderwijs (Stcrt. 1983, 214) Periode: 1983–1993 Waardering: B5  
+Handeling: het vaststellen van de beschikking primair politie-onderwijs Grondslag: Beschikking primair politie-onderwijs (Stcrt. 1983, 214) Periode: 1983–1993 Waardering: B5 
 
 #### *7.1.2.20 Algemeen Politieblad* 
 
@@ -1259,7 +1259,7 @@ Handeling: het benoemen en ontslaan van de voorzitter en de leden van de redacti
 Handeling: het aan de redactieraad beschikbaar stellen van financiële middelen ten behoeve van de uitgave van het APB Grondslag: art. 3 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Periode: 1975–1993 Waardering: V 7 jaar 
 ###356.
 
-Handeling: het benoemen en ontslaan van een secretaris van de redactieraad van het APB en het voorzien in het functioneren van het secretariaat Grondslag: art. 9.1 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Periode: 1975–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het benoemen en ontslaan van een secretaris van de redactieraad van het APB en het voorzien in het functioneren van het secretariaat Grondslag: art. 9.1 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Periode: 1975–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *7.1.2.21 Opleiding hogere politieambtenaren* 
 
@@ -1346,7 +1346,7 @@ Handeling: het stellen, wijzigen of intrekken van voorwaarden inzake de toelatin
 Handeling: het opstellen van een geschiktheidsverklaring voor geslaagde extraneï Grondslag: – art. 13.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 21.3 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1949–1980 Waardering: V 7 jaar 
 ###420.
 
-Handeling: het bemiddelen bij de plaatsing van geslaagde leerlingen bij het korps rijkspolitie dan wel bij een gemeentelijk politiekorps Grondslag: art. 22 Ambtenarenreglement NPA 1979 (Stb. 1980, 215) Periode: 1979–1992 Waardering: V 7 jaar  
+Handeling: het bemiddelen bij de plaatsing van geslaagde leerlingen bij het korps rijkspolitie dan wel bij een gemeentelijk politiekorps Grondslag: art. 22 Ambtenarenreglement NPA 1979 (Stb. 1980, 215) Periode: 1979–1992 Waardering: V 7 jaar 
 
 #### *7.1.2.22 Bewapening, kleding en overige uitrusting* 
 
@@ -1373,7 +1373,7 @@ Handeling: het verlenen van ondersteuning en advies op het gebied van koop, leas
 Handeling: het verlenen van ondersteuning aan de Nederlandse politie door het opleiden, africhten en beschikbaarstellen van politieruiters en -paarden, alsmede speurhondengeleiders en speurhonden Bron: – Politie-almanak 1993, p. A 82 en A 100 – Beschikking Rijksspeurhonden (APB 1949, nr. 14) Periode: 1945–1993 Waardering: V 7 jaar 
 ###432.
 
-Handeling: het aanwijzen van andere meetmiddelen dan snelheidscontrolemeters, remvertragingsmeters en wiellastmeters Grondslag: art. 2d Beschikking Verkeersmeetmiddelen Politie (Stcrt. 1976, 79) Periode: 1976–1993 Waardering: V 7 jaar  
+Handeling: het aanwijzen van andere meetmiddelen dan snelheidscontrolemeters, remvertragingsmeters en wiellastmeters Grondslag: art. 2d Beschikking Verkeersmeetmiddelen Politie (Stcrt. 1976, 79) Periode: 1976–1993 Waardering: V 7 jaar 
 
 #### *7.1.3 Taak & Bevoegdheden* 
 
@@ -1470,7 +1470,7 @@ Handeling: het aanleggen en bijhouden van een bestand van criminele inlichtingen
 Vervallen (verplaatst naar het BSD Justitiele documentatie) 
 ###475.
 
-Handeling: het instellen van een begeleidingscommissie CID Grondslag: art. 15.1 CID-regeling (Stcrt.1986, 141) Periode: 1986–1993 Waardering: B4  
+Handeling: het instellen van een begeleidingscommissie CID Grondslag: art. 15.1 CID-regeling (Stcrt.1986, 141) Periode: 1986–1993 Waardering: B4 
 
 #### *7.1.3.2 Misdaadvoorkoming* 
 
@@ -1489,7 +1489,7 @@ Handeling: het geven van aanwijzingen volgens aan het hoofd van de afdeling voor
 Handeling: het overleggen met de Minister van Binnenlandse Zaken omtrent de aanwijzing van een plaatsvervangend Landelijk Coördinator Misdaadvoorkoming Grondslag: art. 6.1 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B5 
 ###483
 
-Handeling: het coördineren van de regionale bureaus voor misdaadvoorkoming Grondslag: art. 6.1 en 7 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B1  
+Handeling: het coördineren van de regionale bureaus voor misdaadvoorkoming Grondslag: art. 6.1 en 7 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B1 
 
 #### *7.1.3.3 Handelingen om de orde strafrechtelijk te handhaven* 
 
@@ -1517,7 +1517,7 @@ Handeling: het anders bepalen dan dat de door hulpofficieren van Justitie en ops
 
 ###497.
 
-Handeling: het voordragen tot amvb’s waarin: – de bevoegdheid wordt verleend aan daartoe aan te wijzen opsporingsambtenaren om in aangewezen zaken voor de aanvang van de terechtzitting af te spreken dat de verdachte een geldsom (geldboete) betaalt ter voorkoming van strafvervolging – voorschriften worden gegeven met betrekking tot (intrekking) van de aanwijzing van opsporingsambtenaren met dergelijke bevoegdheid en met betrekking tot de wijze waarop zij van de hun verleende bevoegdheid gebruik maken – voorschriften worden gegeven inzake de verantwoording van de betaalde geldbedragen Grondslag: art. 74bis Wetboek van strafrecht, ingevoegd bij wet van 9 januari 1958 (Stb. 1958, 7) Periode: 1959–1993 Product: – Besluit transactie in handen der politie 1959 (Stb. 1959, 127) – Besluit politietransactie (Stb. 1978, 192) – Besluit transactie in handen van opsporingsambtenaren der Koninklijke marechaussee (Stb. 1962, 204) – Besluit transactie Koninklijke marechaussee (Stb. 1978, 193) Waardering: B5  
+Handeling: het voordragen tot amvb’s waarin: – de bevoegdheid wordt verleend aan daartoe aan te wijzen opsporingsambtenaren om in aangewezen zaken voor de aanvang van de terechtzitting af te spreken dat de verdachte een geldsom (geldboete) betaalt ter voorkoming van strafvervolging – voorschriften worden gegeven met betrekking tot (intrekking) van de aanwijzing van opsporingsambtenaren met dergelijke bevoegdheid en met betrekking tot de wijze waarop zij van de hun verleende bevoegdheid gebruik maken – voorschriften worden gegeven inzake de verantwoording van de betaalde geldbedragen Grondslag: art. 74bis Wetboek van strafrecht, ingevoegd bij wet van 9 januari 1958 (Stb. 1958, 7) Periode: 1959–1993 Product: – Besluit transactie in handen der politie 1959 (Stb. 1959, 127) – Besluit politietransactie (Stb. 1978, 192) – Besluit transactie in handen van opsporingsambtenaren der Koninklijke marechaussee (Stb. 1962, 204) – Besluit transactie Koninklijke marechaussee (Stb. 1978, 193) Waardering: B5 
 
 #### *7.1.3.4 Bijzondere bepalingen betreffende de taak & bevoegdheden ten aanzien van het verkeer* 
 
@@ -1551,7 +1551,7 @@ Handeling: het instellen van adviescommissies voor zaken van verkeerstoezicht Gr
 Handeling: het benoemen en ontslaan van voorzitters en leden van de adviescommissies verkeerstoezicht en het voorzien in het secretariaat Grondslag: art. 34i.3 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 ###510.
 
-Handeling: het voorbereiden van het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van nadere regels over de taak, samenstelling en werkwijze van de adviescommissies verkeerstoezicht Grondslag: art. 34i.4 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B5  
+Handeling: het voorbereiden van het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van nadere regels over de taak, samenstelling en werkwijze van de adviescommissies verkeerstoezicht Grondslag: art. 34i.4 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B5 
 
 #### *7.1.4 Gezag over de Politie* 
 
@@ -1567,7 +1567,7 @@ Handeling: het instemmen met de door de Minister van Binnenlandse Zaken vast te 
 Handeling: het vaststellen, wijzigen of intrekken van de instructie voor het korps rijkspolitie Grondslag: art. 39.2 Politiewet 1957 (Stb. 1957, 244), vervallen bij wet van 14 december 1988 (Stb. 223) Periode: 1958–1988 Waardering: B5 
 ###518.
 
-Handeling: het uitvoeren van instructies voor het korps rijkspolitie Grondslag: – Beschikking Instructie Territoriaal Inspecteur van het Korps Rijkspolitie van 2 februari 1961, Nr. 81S561 – Beschikking Instructie Korps Rijkspolitie (IKR), (Stcrt. 1966, 51) – Beschikking Instructie voor de onbezoldigde ambtenaren van het Korps Rijkspolitie van 16 oktober 1958, Nr. 5 P 3160 en van 23 januari 1960, nr. 1376 S 559 – Beschikking Instructie voor de Vrijwilligers van de Reserve-Rijkspolitie (Stcrt. 1966, 98) – Beschikking Instructie voor de bijzondere ambtenaren van Rijkspolitie (Stcrt. 1966, 110) – Beschikking Instructie technische en administratieve ambtenaren Korps Rijkspolitie (Stcrt. 1982, 1) Periode: 1958–1988 Waardering: V 10 jaar  
+Handeling: het uitvoeren van instructies voor het korps rijkspolitie Grondslag: – Beschikking Instructie Territoriaal Inspecteur van het Korps Rijkspolitie van 2 februari 1961, Nr. 81S561 – Beschikking Instructie Korps Rijkspolitie (IKR), (Stcrt. 1966, 51) – Beschikking Instructie voor de onbezoldigde ambtenaren van het Korps Rijkspolitie van 16 oktober 1958, Nr. 5 P 3160 en van 23 januari 1960, nr. 1376 S 559 – Beschikking Instructie voor de Vrijwilligers van de Reserve-Rijkspolitie (Stcrt. 1966, 98) – Beschikking Instructie voor de bijzondere ambtenaren van Rijkspolitie (Stcrt. 1966, 110) – Beschikking Instructie technische en administratieve ambtenaren Korps Rijkspolitie (Stcrt. 1982, 1) Periode: 1958–1988 Waardering: V 10 jaar 
 
 #### *7.1.5 Verlenen van Bijstand* 
 
@@ -1580,7 +1580,7 @@ Handeling: het uitvoeren van instructies voor het korps rijkspolitie Grondslag: 
 Handeling: het vaststellen van de inzet van rijkspolitiepersoneel uit meerdere provincies in het kader van bijstandsverlening Grondslag: art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar 
 ###526.
 
-Handeling: het verstrekken van opdrachten aan de Procureur(s)-Generaal tot het beschikbaar doen stellen van Rijkspolitiepersoneel indien de Procureur-Generaal in het betreffende ambtsgebied het niet mogelijk acht om met het daar beschikbare rijkspolitiepersoneel aan een aanvraag om bijstand te voldoen Grondslag: art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar  
+Handeling: het verstrekken van opdrachten aan de Procureur(s)-Generaal tot het beschikbaar doen stellen van Rijkspolitiepersoneel indien de Procureur-Generaal in het betreffende ambtsgebied het niet mogelijk acht om met het daar beschikbare rijkspolitiepersoneel aan een aanvraag om bijstand te voldoen Grondslag: art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar 
 
 #### *7.1.5.2 Bijstand van gemeentepolitie bij de handhaving van de openbare orde* 
 
@@ -1592,7 +1592,7 @@ Handeling: het voeren van overleg met de Minister van Binnenlandse Zaken inzake 
 Handeling: het verstrekken van opdrachten aan de Procureur(s)-Generaal in het kader van een aanvraag tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50.3 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 toelichting hiertoe: vraagt de Procureur-Generaal, fungerend directeur van politie bij de Minister van Justitie bijstandsverlening door gemeentelijk politiepersoneel van buiten zijn ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen voeren de Ministers van Justitie en van Binnenlandse Zaken overleg over de aanvraag van bijstandsverlening en wordt na dit overleg de opdracht versterkt de commissaris van de Koningin wordt daarna door de Procureur-Generaal, fungerend directeur van politie medegedeeld dat personeel van de gemeentepolitie beschikbaar gesteld zal worden voor het verlenen van bijstand buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar 
 ###533.
 
-Handeling: het voeren van overleg met de Minister van Binnenlandse Zaken inzake het verstrekken van opdrachten aan de Procureur(s)-Generaal in het kader van een aanvraag tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50.3 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar  
+Handeling: het voeren van overleg met de Minister van Binnenlandse Zaken inzake het verstrekken van opdrachten aan de Procureur(s)-Generaal in het kader van een aanvraag tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50.3 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V 10 jaar 
 
 #### *7.1.5.3 Bijstand van militaire eenheden bij de handhaving van de openbare orde* 
 
@@ -1601,13 +1601,13 @@ Handeling: het voeren van overleg met de Minister van Binnenlandse Zaken inzake 
 Handeling: het bepalen dat in geval van oorlog of buitengewone omstandigheden de artikelen omtrent bijstandsverlening geheel of gedeeltelijk buiten werking treden Grondslag: art. 48a.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 4 februari 1988 (Stb. 21) Periode: 1961–1993 Waardering: B5 
 ###540.
 
-Handeling: het treffen van voorzieningen met betrekking tot de bijstand van de politie in gebieden waarin de bijstandsregeling buiten werking is gesteld Grondslag: art. 48a.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 16 juli 1964 (Stb. 338) Periode: 1961–1993 Waardering: B5  
+Handeling: het treffen van voorzieningen met betrekking tot de bijstand van de politie in gebieden waarin de bijstandsregeling buiten werking is gesteld Grondslag: art. 48a.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 16 juli 1964 (Stb. 338) Periode: 1961–1993 Waardering: B5 
 
 #### *7.1.5.4 Bijstand van militaire eenheden bij de handhaving van de rechtsorde* 
 
 ###545.
 
-Handeling: het bepalen op welke wijze in bijzondere gevallen door de Koninklijke Marechaussee bijstand wordt verleend voor de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50a Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Product: – Beschikking Opsporingsbijstand Marechaussee (Stcrt. 1989, 222) – Beschikking Bijstand Koninklijke Marechaussee aan Gemeentepolitie ’s-Gravenhage en Amsterdam (Stcrt. 1989, 222) Waardering: B5  
+Handeling: het bepalen op welke wijze in bijzondere gevallen door de Koninklijke Marechaussee bijstand wordt verleend voor de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50a Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Product: – Beschikking Opsporingsbijstand Marechaussee (Stcrt. 1989, 222) – Beschikking Bijstand Koninklijke Marechaussee aan Gemeentepolitie ’s-Gravenhage en Amsterdam (Stcrt. 1989, 222) Waardering: B5 
 
 #### *7.1.6 Bijzondere Taken van de Commissaris van de Koningin en de Procureur-Generaal, fungerend directeur van politie* 
 
@@ -1617,7 +1617,7 @@ Handeling: het bepalen op welke wijze in bijzondere gevallen door de Koninklijke
 Handeling: het bepalen dat het ressort waarbinnen de Procureur-Generaal als Directeur van Politie fungeert, afwijkt van het rechtsgebied van het gerechtshof waartoe hij behoort Grondslag: art. 11.1 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5 
 ###552.
 
-Handeling: het aanwijzen van een functionaris die de Procureur-Generaal als Directeur-Generaal van Politie bij verhindering of ontstentenis vervangt Grondslag: art. 11.5 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5  
+Handeling: het aanwijzen van een functionaris die de Procureur-Generaal als Directeur-Generaal van Politie bij verhindering of ontstentenis vervangt Grondslag: art. 11.5 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5 
 
 #### *7.1.7 Selectie en Onderwijs* 
 
@@ -1681,7 +1681,7 @@ Handeling: het stellen van nadere regels omtrent de wijze waarop de begroting, d
 Handeling: het zorgdragen voor de inspectie van de opleidingen die door het LSOP verzorgd worden en het geven van aanwijzingen aan de bestuursraad Grondslag: art. 77 en 79 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: V 10 jaar 
 ###595.
 
-Handeling: het zenden van een evaluatie van de landelijke wervingsactiviteiten, de selectie en het onderwijs voor de politie aan de Staten-Generaal Grondslag: art. IV.II politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: B2  
+Handeling: het zenden van een evaluatie van de landelijke wervingsactiviteiten, de selectie en het onderwijs voor de politie aan de Staten-Generaal Grondslag: art. IV.II politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: B2 
 
 #### *7.1.8 Reorganisatie* 
 
@@ -1743,7 +1743,7 @@ Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake het 
 Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake het bijstellen van de meerjarenraming van de uitkeringen aan de gemeente binnen de grenzen van de raming van de rijksbijdrage Grondslag: art. 5.3 en 5.4 Besluit vergoeding reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993– Waardering: V 7 jaar 
 ###636.
 
-Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake het stellen van regels over de inrichting van informatie over de voortgang van de feitelijke integratie van de politie en de realisatie van de activiteiten Grondslag: art. 10.4 Besluit vergoeding reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993– Waardering: V 7 jaar  
+Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake het stellen van regels over de inrichting van informatie over de voortgang van de feitelijke integratie van de politie en de realisatie van de activiteiten Grondslag: art. 10.4 Besluit vergoeding reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993– Waardering: V 7 jaar 
 
 #### *7.1.8.2 Handelingen ingevolge het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel* 
 
@@ -1756,7 +1756,7 @@ Handeling: het voeren van overleg met de Buitengewone Commissie voor Georganisee
 Handeling: het voeren van overleg met de Commissie KLD over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, die specifiek en uitsluitend betrekking hebben op de reorganisatie van de politie, uitsluitend het KLD betreffen en die bovendien niet ontleend zijn aan het overleg met de Buitengewone Commissie voor Georganiseerd overleg Grondslag: art. 2.3 Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: V 10 jaar 
 ###641.
 
-Handeling: het uitvoeren van het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Grondslag: Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: V 10 jaar  
+Handeling: het uitvoeren van het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Grondslag: Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: V 10 jaar 
 
 #### *7.2 Actor: Procureur-Generaal* 
 
@@ -1801,7 +1801,7 @@ Handeling: het adviseren van de burgemeester bij het vaststellen van de instruct
 Handeling: het bepalen van de sterkte en de soort rijkspolitiepersoneel dat bijstand verleent aan gemeentepolitie Grondslag: – art. 15.2 Politiebesluit 1945 (Stb. 1945, F 250) – art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1945–1993 Waardering: B5 
 ###524.
 
-Handeling: het verstrekken van een opdracht aan de districtscommandant tot het beschikbaarstellen van Rijkspolitiepersoneel in het kader van bijstandsverlening Grondslag: art. 44.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 toelichting de Procureur-Generaal, fungerend directeur van politie overlegt met de commissaris van de Koningin over het ter beschikking stellen van rijkspolitiepersoneel om bijstand te verlenen aan de gemeentepolitie en licht de Minister van Justitie in wanneer hij het niet mogelijk acht om met het in zijn ambtsgebied beschikbare rijkspolitiepersoneel aan een aanvraag om bijstand te voldoen Waardering: B5  
+Handeling: het verstrekken van een opdracht aan de districtscommandant tot het beschikbaarstellen van Rijkspolitiepersoneel in het kader van bijstandsverlening Grondslag: art. 44.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 toelichting de Procureur-Generaal, fungerend directeur van politie overlegt met de commissaris van de Koningin over het ter beschikking stellen van rijkspolitiepersoneel om bijstand te verlenen aan de gemeentepolitie en licht de Minister van Justitie in wanneer hij het niet mogelijk acht om met het in zijn ambtsgebied beschikbare rijkspolitiepersoneel aan een aanvraag om bijstand te voldoen Waardering: B5 
 
 #### *7.3 Actor: (Hoofd)officier van Justitie* 
 
@@ -1809,7 +1809,7 @@ Handeling: het verstrekken van een opdracht aan de districtscommandant tot het b
 
 ###68.
 
-Handeling: het verrichten van onderzoek of het verlenen van bijstand in opdracht van: – het Hoofd de Veiligheidsdienst van het Koninklijk Huis, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij de Veiligheidsdienst van het Koninklijk Huis – Procureur-Generaal, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij het parket van de procureur-generaal – Directeur Politie, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij de Directie Politie van het Ministerie van Justitie Grondslag: art. 10.1b Politiewet 1957 (Stb. 1957, 2444) Bron: – Beschikking organisatie en taak der rijksrecherche (APB 1956, 21) – Organisatie- en taakbeschikking rijksrecherche (APB 1958, 4) – Organisatiebeschikking rijksrecherche 1974 Periode: 1945–1993 Opmerking: Bepaalde onderzoeken zijn van bijzonder belang en kunnen op basis van artikel 5 <sup>e</sup> van de Archiefwet worden uitgezonderd van vernietiging (zie ook de selectiecriteria) Waardering: V, 15 jaar 
+Handeling: het verrichten van onderzoek of het verlenen van bijstand in opdracht van: – het Hoofd de Veiligheidsdienst van het Koninklijk Huis, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij de Veiligheidsdienst van het Koninklijk Huis – Procureur-Generaal, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij het parket van de procureur-generaal – Directeur Politie, indien de bijzondere ambtenaren van rijkspolitie zijn ingedeeld bij de Directie Politie van het Ministerie van Justitie Grondslag: art. 10.1b Politiewet 1957 (Stb. 1957, 2444) Bron: – Beschikking organisatie en taak der rijksrecherche (APB 1956, 21) – Organisatie- en taakbeschikking rijksrecherche (APB 1958, 4) – Organisatiebeschikking rijksrecherche 1974 Periode: 1945–1993 Opmerking: Bepaalde onderzoeken zijn van bijzonder belang en kunnen op basis van artikel 5<sup>e</sup> van de Archiefwet worden uitgezonderd van vernietiging (zie ook de selectiecriteria) Waardering: V, 15 jaar 
 ###78.
 
 Handeling: het systematisch verzamelen, registreren, beheren, analyseren en verstrekken van alle gegevens met betrekking tot strafbare feiten aangaande het geld- en waardenverkeer Bron: – Instellingsbeschikking Recherchedienst Betalingsverkeer (Stcrt. 1989, 222) – Staatsalmanak voor het Koninkrijk der Nederlanden 1993, p. K 15 Periode: 1990–1993 Waardering: V, 15 jaar 
@@ -1872,13 +1872,13 @@ Handeling: het leveren van bijdragen aan het overleg met de burgemeester die is 
 Handeling: het overeenstemmen met de burgemeester inzake een verzoek aan de Minister van Justitie om een voorziening te treffen ten behoeve van de feitelijke integratie door het desbetreffende (onderdeel van) district van het Korps Rijkspolitie Grondslag: art. 9.1 Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, 674) Periode: 1992–1993 Waardering: V, 10 jaar 
 ###616.
 
-Handeling: het leveren van bijdragen aan het regionaal overlegorgaan in de politieregio Grondslag: art. 12 Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, 674) Periode: 1992–1993 Waardering: B 5  
+Handeling: het leveren van bijdragen aan het regionaal overlegorgaan in de politieregio Grondslag: art. 12 Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, 674) Periode: 1992–1993 Waardering: B 5 
 
 #### *7.4 Actor: hulpofficier van Justitie* 
 
 ###493.
 
-Handeling: het opstellen van een verklaring op een proces-verbaal van beëdiging door een opsporingsambtenaar van het proces-verbaal van het door deze ambtenaar opgespoorde strafbare feit of van diens opsporingsverrichting Grondslag: art. 153.2 Wetboek van Strafvordering (Stb. 1921, 14) Periode: 1958–1994 Waardering: V, 10 jaar na afhandeling proces-verbaal  
+Handeling: het opstellen van een verklaring op een proces-verbaal van beëdiging door een opsporingsambtenaar van het proces-verbaal van het door deze ambtenaar opgespoorde strafbare feit of van diens opsporingsverrichting Grondslag: art. 153.2 Wetboek van Strafvordering (Stb. 1921, 14) Periode: 1958–1994 Waardering: V, 10 jaar na afhandeling proces-verbaal 
 
 #### *7.5 Actor: Raad voor het KLPD in oprichting* 
 
@@ -1887,13 +1887,13 @@ Handeling: het opstellen van een verklaring op een proces-verbaal van beëdiging
 Handeling: het adviseren van: – de Minister van Justitie over het beheer van het in oprichting zijnde KLPD – de Ministers van Justitie en van Binnenlandse Zaken over de taken en de taakvervulling van het in oprichting zijnde KLPD Grondslag: art. 2 Beschikking instelling Raad voor het KLPD in oprichting (Stcrt. 1992, 206) Periode: 1992–1993 Waardering: B1 
 ###599.
 
-Handeling: het vaststellen of wijzigen van de organisatie, de formatie, de begroting, de jaarrekening en het beleidsplan van het in oprichting zijnde KLPD Grondslag: art. 4 Beschikking instelling Raad voor het KLPD in oprichting (Stcrt. 1992, 206) Periode: 1992–1993 Waardering: B5  
+Handeling: het vaststellen of wijzigen van de organisatie, de formatie, de begroting, de jaarrekening en het beleidsplan van het in oprichting zijnde KLPD Grondslag: art. 4 Beschikking instelling Raad voor het KLPD in oprichting (Stcrt. 1992, 206) Periode: 1992–1993 Waardering: B5 
 
 #### *7.6 Actor: Adviescommissies verkeerstoezicht* 
 
 ###508.
 
-Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en van Binnenlandse Zaken met betrekking tot bestuurlijke, justitiële of politie-technische aangelegenheden van verkeerstoezicht Grondslag: art. 34i.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B1  
+Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en van Binnenlandse Zaken met betrekking tot bestuurlijke, justitiële of politie-technische aangelegenheden van verkeerstoezicht Grondslag: art. 34i.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B1 
 
 #### *7.7 Actor: Voorlopige Raad voor de Centrale Recherche Informatiedienst* 
 
@@ -1902,7 +1902,7 @@ Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en
 Handeling: het houden van toezicht op de CRI Grondslag: art. 2 Beschikking instelling voorlopige Raad voor de CRI (Stcrt. 1989, 208) Periode: 1989– Waardering: B3 
 ###81.
 
-Handeling: het gevraagd of ongevraagd adviseren van de Minister van Justitie over de wijze waarop de CRI zijn taak verricht Grondslag: art. 2 Beschikking instelling voorlopige Raad voor de CRI (Stcrt. 1989, 208) Periode: 1989– Waardering: B1  
+Handeling: het gevraagd of ongevraagd adviseren van de Minister van Justitie over de wijze waarop de CRI zijn taak verricht Grondslag: art. 2 Beschikking instelling voorlopige Raad voor de CRI (Stcrt. 1989, 208) Periode: 1989– Waardering: B1 
 
 #### *7.8 Actor: Commissie politiewetgeving (commissie Langemeyer)* 
 
@@ -1915,37 +1915,37 @@ Handeling: het evalueren van de politiewetgeving Grondslag: Beschikking instelli
 
 ###464.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de verschillende vormen van samenwerking tussen rijkspolitie en gemeentepolitie alsmede tussen gemeentelijke politiekorpsen en het evalueren van de praktische uitwerking van de adviezen Grondslag: art. 2 beschikking Ministers van Justitie en van Binnenlandse Zaken, respectievelijk van 27 april 1978 en 24 mei 1978 (Stcrt. 105, 1978) Periode: 1978–1993 Waardering: B1  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de verschillende vormen van samenwerking tussen rijkspolitie en gemeentepolitie alsmede tussen gemeentelijke politiekorpsen en het evalueren van de praktische uitwerking van de adviezen Grondslag: art. 2 beschikking Ministers van Justitie en van Binnenlandse Zaken, respectievelijk van 27 april 1978 en 24 mei 1978 (Stcrt. 105, 1978) Periode: 1978–1993 Waardering: B1 
 
 #### *7.10 Actor: Commissie van Begeleiding en Overleg inzake opsporing georganiseerde misdrijven van terroristische aard* 
 
 ###470.
 
-Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en Binnenlandse Zaken omtrent nadere voorzieningen ten aanzien van de samenwerking tussen rijks- en gemeentepolitie bij het opsporen van georganiseerde misdrijven van terroristische aard Grondslag: – Instellingsbeschikking Minister van Justitie 6 september 1976/Nr R 70/26 en Minister van Binnenlandse Zaken 31 augustus 1976/Nr U 14418 (Stcrt. 210, 1976) – art. 15.1 Samenwerkingsregeling bestrijding terroristische misdrijven (Stcrt. 56, 1981), vervallen bij beschikking van 16 november 1989 (Stcrt. 229, 1989) Periode: 1976–1989 Waardering: B1  
+Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en Binnenlandse Zaken omtrent nadere voorzieningen ten aanzien van de samenwerking tussen rijks- en gemeentepolitie bij het opsporen van georganiseerde misdrijven van terroristische aard Grondslag: – Instellingsbeschikking Minister van Justitie 6 september 1976/Nr R 70/26 en Minister van Binnenlandse Zaken 31 augustus 1976/Nr U 14418 (Stcrt. 210, 1976) – art. 15.1 Samenwerkingsregeling bestrijding terroristische misdrijven (Stcrt. 56, 1981), vervallen bij beschikking van 16 november 1989 (Stcrt. 229, 1989) Periode: 1976–1989 Waardering: B1 
 
 #### *7.11 Actor: Commissie van Advies inzake opsporing georganiseerde misdrijven van terroristische aard* 
 
 ###472.
 
-Handeling: het adviseren van de landelijk officier van justitie die leiding geeft aan de opsporing van georganiseerde misdrijven van terroristische aard Grondslag: – Instellingsbeschikking Minister van Justitie 14 juli 1976/Nr R 70/26 en Minister van Binnenlandse Zaken 28 juni 1976/Nr U 14172 (Stcrt. 140, 1976) – art. 16 Samenwerkingsregeling bestrijding terroristische misdrijven (Stcrt. 56, 1981) Periode: 1976–1993 Waardering: B1  
+Handeling: het adviseren van de landelijk officier van justitie die leiding geeft aan de opsporing van georganiseerde misdrijven van terroristische aard Grondslag: – Instellingsbeschikking Minister van Justitie 14 juli 1976/Nr R 70/26 en Minister van Binnenlandse Zaken 28 juni 1976/Nr U 14172 (Stcrt. 140, 1976) – art. 16 Samenwerkingsregeling bestrijding terroristische misdrijven (Stcrt. 56, 1981) Periode: 1976–1993 Waardering: B1 
 
 #### *7.12 Actor: Centrale Commissie Misdaadvoorkoming* 
 
 ###484.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het te voeren beleid inzake misdaadvoorkoming Grondslag: – art. 8 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) – art. 2 Beschikking instelling Centrale Commissie Misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B1  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het te voeren beleid inzake misdaadvoorkoming Grondslag: – art. 8 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) – art. 2 Beschikking instelling Centrale Commissie Misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B1 
 
 #### *7.13 Actor: Landelijke Contactcommissie Voorkoming Criminaliteit* 
 
 ###485.
 
-Handeling: het gevraagd of ongevraagd adviseren de Ministers van Justitie en van Binnenlandse Zaken over het treffen maatregelen op het gebied van de voorkoming van criminaliteit Grondslag: art. 2 Beschikking instelling Landelijke Contactcommissie Voorkoming Criminaliteit (Stcrt. 1980 ,4) Periode: 1980–1993 Waardering: B1  
+Handeling: het gevraagd of ongevraagd adviseren de Ministers van Justitie en van Binnenlandse Zaken over het treffen maatregelen op het gebied van de voorkoming van criminaliteit Grondslag: art. 2 Beschikking instelling Landelijke Contactcommissie Voorkoming Criminaliteit (Stcrt. 1980 ,4) Periode: 1980–1993 Waardering: B1 
 
 #### *7.14 Actor: Begeleidingscommissie CID* 
 
 ###476.
 
-Handeling: het adviseren van de Ministers van Justitie en Binnenlandse Zaken inzake de landelijke politiële samenwerking op het gebied van criminele inlichtingen Grondslag: – art. 15.1 CID-regeling (Stcrt.1986, 141) – Instellingsbeschikking Begeleidingscommissie CID d.d. 28 augustus 1987, nr. 1017/587 Periode: 1987–1990 Waardering: B1  
+Handeling: het adviseren van de Ministers van Justitie en Binnenlandse Zaken inzake de landelijke politiële samenwerking op het gebied van criminele inlichtingen Grondslag: – art. 15.1 CID-regeling (Stcrt.1986, 141) – Instellingsbeschikking Begeleidingscommissie CID d.d. 28 augustus 1987, nr. 1017/587 Periode: 1987–1990 Waardering: B1 
 
 #### *7.15 Actor: Begeleidingscommissie Werkdrukonderzoek Regionale CID* 
 
@@ -2001,7 +2001,7 @@ Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake de vaststelling van peildata vanaf wanneer een deelnemer een nominale bijdrage verschuldigd is Grondslag: art. 9.10 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), zoals bijgevoegd bij KB van 3 april 1989 (Stb. 1989, 87) Periode: 1989–1993 Waardering: V, 5 jaar 
 ###253.
 
-Handeling: het in beroep oordelen over geschillen terzake van de uitkeringen van vergoedingen en tegemoetkomingen Grondslag: art. 10a.1 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555) en vervallen bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1975–1980 Waardering: V, 10 jaar na afhandeling geschil  
+Handeling: het in beroep oordelen over geschillen terzake van de uitkeringen van vergoedingen en tegemoetkomingen Grondslag: art. 10a.1 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555) en vervallen bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1975–1980 Waardering: V, 10 jaar na afhandeling geschil 
 
 #### *7.18 Actor: Commissie van beroep Geneeskundige Verzorging Politie* 
 
@@ -2044,13 +2044,13 @@ Handeling: het voorbereiden van besluiten van de Minister van Binnenlandse Zaken
 Handeling: het leveren van bijdragen aan het overleg met de Minister van Binnenlandse Zaken over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, inclusief de algemene regels voor het voeren van het personeelsbeleid Grondslag: art. 3.1 van het Besluit overleg en medezeggenschap politie 1994 (Stb. 216) Periode: 1994– Waardering: B 1 
 ###650.
 
-Handeling: het al dan niet overeenstemmen met de Minister van Binnenlandse Zaken over voorstellen tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren Grondslag: art. 3.3 van het Besluit overleg en medezeggenschap politie 1994 (Stb. 216) Periode: 1994– Waardering: V 5 jaar  
+Handeling: het al dan niet overeenstemmen met de Minister van Binnenlandse Zaken over voorstellen tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren Grondslag: art. 3.3 van het Besluit overleg en medezeggenschap politie 1994 (Stb. 216) Periode: 1994– Waardering: V 5 jaar 
 
 #### *Actor: Algemene Dienstcommissie Korps Rijkspolitie* 
 
 ###324.
 
-Handeling: het behandelen van en adviseren over onderwerpen die van belang zijn voor de uitvoering van rechtspositieregels ten aanzien van de rijkspolitie, voor zover de behandeling niet is voorbehouden aan de Centrale Commissie voor Georganiseerd overleg in ambtenarenzaken, de commissie GOP of aan een afdeling daarvan Grondslag: – art. 35.1 en 36 Regeling GOP, zoals ingevoegd bij KB van 31 januari 1962 (Stb. 1963, 38) – art. 25 Regeling GOP 1973 (Stb. 1974, 52) Periode: 1963–1985 Waardering: V, 5 jaar  
+Handeling: het behandelen van en adviseren over onderwerpen die van belang zijn voor de uitvoering van rechtspositieregels ten aanzien van de rijkspolitie, voor zover de behandeling niet is voorbehouden aan de Centrale Commissie voor Georganiseerd overleg in ambtenarenzaken, de commissie GOP of aan een afdeling daarvan Grondslag: – art. 35.1 en 36 Regeling GOP, zoals ingevoegd bij KB van 31 januari 1962 (Stb. 1963, 38) – art. 25 Regeling GOP 1973 (Stb. 1974, 52) Periode: 1963–1985 Waardering: V, 5 jaar 
 
 #### *7.20 Actor: College van Advies inzake het overleg met de dienstcommissies in de diensteenheden bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie* 
 
@@ -2062,7 +2062,7 @@ Handeling: het adviseren van de Minister van Justitie inzake de voorgenomen uits
 Handeling: het adviseren van de Minister van Justitie over een voorgenomen onthouding van goedkeuring van een reglement voor de (algemene) dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 24.5 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V, 10 jaar 
 ###314.
 
-Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen het hoofd van een diensteenheid en de dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 25-28, 30.1, 31.2, 33.3, 38.5 en 74.10 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B5  
+Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen het hoofd van een diensteenheid en de dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 25-28, 30.1, 31.2, 33.3, 38.5 en 74.10 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B5 
 
 #### *7.21 Actor: Commissie Georganiseerd Overleg LSOP* 
 
@@ -2071,7 +2071,7 @@ Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen 
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake de voorgenomen uitsluiting van een lid van de personeelsvertegenwoordiging van deelname aan het Georganiseerd Overleg Grondslag: – art. 4.4 Regeling GOP (Stb. 1960, 623) – art. 3.4 Regeling GOP 1973 (Stb. 1974, 52) – art. 3.5 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) – art. 4.1 Besluit instelling Commissie voor Georganiseerd Overleg Landelijk Selectie- en Opleidingsinstituut Politie (Stb. 1992, 319) Periode: 1990–1993 Waardering: V, 10 jaar 
 ###294.
 
-Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van belang voor de rechtspositie van de ambtenaar die specifiek en uitsluitend verband houden met de verzelfstandiging van de uitvoering van taken op het gebied van werving, selectie en onderwijs voor de politie Politie Grondslag: art. 2.2 Besluit instelling Commissie voor Georganiseerd Overleg Landelijke Selectie- en Opleidingsinstituut Politie Periode: 1990–1993 Waardering: V, 10 jaar  
+Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van belang voor de rechtspositie van de ambtenaar die specifiek en uitsluitend verband houden met de verzelfstandiging van de uitvoering van taken op het gebied van werving, selectie en onderwijs voor de politie Politie Grondslag: art. 2.2 Besluit instelling Commissie voor Georganiseerd Overleg Landelijke Selectie- en Opleidingsinstituut Politie Periode: 1990–1993 Waardering: V, 10 jaar 
 
 #### *7.22 Actor: Buitengewone Commissie voor Georganiseerd Overleg* 
 
@@ -2108,7 +2108,7 @@ Handeling: het vaststellen van disciplinaire voorschriften Grondslag: – art. 8
 Handeling: het verwijderen van een leerling wegens onbekwaamheid of ongeschiktheid Grondslag: art. 8.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) Periode: 1949–1963 Waardering: V, 7 jaar 
 ###416.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1949–1963 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1949–1963 Waardering: V, 10 jaar 
 
 #### *7.24 Actor: Raad van Bestuur van het Rijksinstituut tot opleiding van hogere ambtenaren voor het korps Rijkspolitie en de gemeentepolitie/Nederlandse Politie Academie* 
 
@@ -2141,13 +2141,13 @@ Handeling: het vaststellen van disciplinaire voorschriften Grondslag: – art. 8
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake het aanwijzen van anderen dan de (plaatsvervangend) directeur en leraren van het rijksopleidingsinstituut tot lid van de examencommissie Grondslag: art. 20.3c Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals gewijzigd Stcrt. 1967, 113) Periode: 1967–1973 Waardering: V, 10 jaar 
 ###416.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1963–1967 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1963–1967 Waardering: V, 10 jaar 
 
 #### *7.25 Actor: Commissie van Gecommitteerden* 
 
 ###413.
 
-Handeling: het houden van toezicht op het afnemen van de examens door de examencommissie Grondslag: – art. 20.4 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals toegevoegd 1967, 113 – art. 23.2 Beschikking NPA (Stcrt. 1980, 149) Periode: 1967–1990 Waardering: V, 5 jaar  
+Handeling: het houden van toezicht op het afnemen van de examens door de examencommissie Grondslag: – art. 20.4 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals toegevoegd 1967, 113 – art. 23.2 Beschikking NPA (Stcrt. 1980, 149) Periode: 1967–1990 Waardering: V, 5 jaar 
 
 #### *7.26 Actor: Redactieraad APB* 
 
@@ -2163,7 +2163,7 @@ Handeling: het jaarlijks uitbrengen van verslag aan de Ministers van Justitie en
 
 ###618.
 
-Handeling: het adviseren van de Minister van Justitie en/of Binnenlandse Zaken over aspecten op het beleidsterrein politie Grondslag: instellingsbesluit Periode: 1945–1993 Waardering: B5  
+Handeling: het adviseren van de Minister van Justitie en/of Binnenlandse Zaken over aspecten op het beleidsterrein politie Grondslag: instellingsbesluit Periode: 1945–1993 Waardering: B5 
 
 #### *8 B: Actoren onder de zorg van de Minister van Binnenlandse zaken* 
 
@@ -2181,13 +2181,13 @@ Handeling: het voorbereiden, mede-vaststellen, coördineren en evalueren van bel
 Handeling: het evalueren van de politiewetgeving Grondslag: Onder meer: Beschikking instelling commissie politiewetgeving van de Ministers van Justitie en van Binnenlandse Zaken d.d. 1 oktober 1948 (APB 1948, 22) Periode: 1945–1993 toelichting in 1948 kreeg commissie Langemeyer opdracht de na de oorlog in werking getreden Politiewet te evalueren. In 1970 kreeg prof. J.M. Polak de aanstelling van regeringscommissaris voor herziening van de politiewetgeving. Zijn onderzoek mondde uit in de in 1972 aan de Tweede Kamer voorgelegde Nota van Vraagpunten. Product: Rapport Commissie Langemeyer (1949) Nota van vraagpunten (1972) Waardering: B2 
 ###3.
 
-Handeling: het instellen en opheffen van commissies en werkgroepen met betrekking tot het onderzoek naar sterkte, invulling van de politietaak en bedrijfsvoering. Grondslag: begrotingen Periode: 1945–1993 toelichting commissies die zich met deze thema’s hebben bezig gehouden zijn onder meer: – Projectgroep Organisatie Structuren 1976-1979 – Werkgroep Politie Budget (WPB) 1986-1987 – Werkgroep Kwantitatieve Aspecten (WKA) 1986 – Projectgroep Kwantificering Politiesterkte (PKP) 1986-1988 Waardering: B4  
+Handeling: het instellen en opheffen van commissies en werkgroepen met betrekking tot het onderzoek naar sterkte, invulling van de politietaak en bedrijfsvoering. Grondslag: begrotingen Periode: 1945–1993 toelichting commissies die zich met deze thema’s hebben bezig gehouden zijn onder meer: – Projectgroep Organisatie Structuren 1976-1979 – Werkgroep Politie Budget (WPB) 1986-1987 – Werkgroep Kwantitatieve Aspecten (WKA) 1986 – Projectgroep Kwantificering Politiesterkte (PKP) 1986-1988 Waardering: B4 
 
 #### *8.1.1.2 Totstandkoming wet- en regelgeving* 
 
 ###4.
 
-Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B 1  
+Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B 1 
 
 #### *8.1.1.3 Verantwoording van beleid* 
 
@@ -2202,19 +2202,19 @@ Handeling: het beantwoorden van kamervragen en het anderszins op verzoek inciden
 Handeling: het verstrekken van informatie aan de Commissies voor de Verzoekschriften van de Staten Generaal, aan overige kamercommissies en aan de Nationale Ombudsman naar aanleiding van klachten van burgers inzake ontwikkelingen betreffende de politie Periode: 1945–1993 Waardering: B3 
 ###8.
 
-Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5  
+Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5 
 
 #### *8.1.1.4 Internationaal beleid* 
 
 ###9.
 
-Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Waardering: B5  
+Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Waardering: B5 
 
 #### *8.1.1.5 Informatieverstrekking* 
 
 ###10.
 
-Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Waardering: V, 3 jaar  
+Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Waardering: V, 3 jaar 
 
 #### *8.1.1.6 Onderzoek* 
 
@@ -2223,25 +2223,25 @@ Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en ins
 Handeling: het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de politie Periode: 1945–1993 Waardering: Vaststellingsbesluit en eindrapport: B1 Overig: V, 10 jaar na afronding onderzoek 
 ###12.
 
-Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Waardering: B5: eindproduct Overige neerslag: V, 10 jaar na afronding onderzoek  
+Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Waardering: B5: eindproduct Overige neerslag: V, 10 jaar na afronding onderzoek 
 
 #### *8.1.1.7 Overleg met lagere overheden* 
 
 ###644.
 
-Handeling: Het voeren van (periodiek terugkerend) overleg met lagere overheden aangaande het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met de Vereniging van Nederlandse Gemeenten. Waardering: B 1, 5  
+Handeling: Het voeren van (periodiek terugkerend) overleg met lagere overheden aangaande het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met de Vereniging van Nederlandse Gemeenten. Waardering: B 1, 5 
 
 #### *8.1.1.8 Overleg met maatschappelijke vertegenwoordigingen en/of het bedrijfsleven* 
 
 ###645.
 
-Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5  
+Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5 
 
 #### *8.1.1.8 Overleg met maatschappelijke vertegenwoordigingen en/of het bedrijfsleven* 
 
 ###645.
 
-Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5  
+Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het beleidsterrein politie Periode: 1945–1993 Product: o.a. verslagen, correspondentie, notulen, agenda’s Opmerking: Onder deze handeling valt het overleg met vakbonden, zoals de Algemene Politiebond. Waardering: B5 
 
 #### *8.1.2 Organisatie en Beheer* 
 
@@ -2276,7 +2276,7 @@ Handeling: het binnen zes maanden na het inwerkingtreden van het Politiebesluit 
 Handeling: het binnen zes maanden na het inwerkingtreden van het Politiebesluit 1945 in rang verlagen van ambtenaren van rijks- of gemeentepolitie Grondslag: art. 19.2 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1946 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###22.
 
-Handeling: het vaststellen van voorschriften die voor een juiste uitvoering van het Politiebesluit 1945 worden gevorderd Grondslag: art. 20 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5  
+Handeling: het vaststellen van voorschriften die voor een juiste uitvoering van het Politiebesluit 1945 worden gevorderd Grondslag: art. 20 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: B5 
 
 #### *8.1.2.2 Gemeentepolitie* 
 
@@ -2312,7 +2312,7 @@ Handeling: het vaststellen, wijzigen of intrekken van regels voor de (reserve)ge
 Handeling: het verplichten dat een door de burgemeester aangestelde ambtenaar van gemeentepolitie, die niet is aangesteld om uitsluitend administratief of technisch werkzaam te zijn overgaat naar een ander gemeentelijk korps Grondslag: art. 8.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###39.
 
-Handeling: het bij gezamenlijk besluit verplichten dat een ambtenaar van gemeentepolitie, die niet is aangesteld om uitsluitend administratief of technisch werkzaam te zijn, overgaat naar het korps rijkspolitie Grondslag: art. 8.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het bij gezamenlijk besluit verplichten dat een ambtenaar van gemeentepolitie, die niet is aangesteld om uitsluitend administratief of technisch werkzaam te zijn, overgaat naar het korps rijkspolitie Grondslag: art. 8.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *8.1.2.3 Financiering (gemeente)politie* 
 
@@ -2391,7 +2391,7 @@ Handeling: het vaststellen, wijzigen of intrekken van regels over de inhoud en i
 Handeling: het jaarlijks publiceren van een jaarverslag van de gemeentepolitie Grondslag: art. 18 Besluit Vergoeding Politiekosten 1986 (Stb. 610, 1986) Periode: 1986–1993 Waardering: B5: publicaties Overig: V, 5 jaar 
 ###67.
 
-Handeling: het toekennen van een bijdrage tot vergoeding van aanloopkosten van projecten ter voorkoming van kleine criminaliteit Grondslag: art. 8 Besluit bijdragen bestuurlijke preventie criminaliteit (Stb. 1987, 313) Periode: 1987–1990 Waardering: V 7 jaar  
+Handeling: het toekennen van een bijdrage tot vergoeding van aanloopkosten van projecten ter voorkoming van kleine criminaliteit Grondslag: art. 8 Besluit bijdragen bestuurlijke preventie criminaliteit (Stb. 1987, 313) Periode: 1987–1990 Waardering: V 7 jaar 
 
 #### *8.1.2.4 Rijkspolitie* 
 
@@ -2430,7 +2430,7 @@ Handeling: het doen van voordracht tot het bij AMvB vaststellen, wijzigen of int
 Handeling: het overleggen met de Minister van Justitie over regels voor (reserve-) rijkspolitie ten aanzien van werving, opleiding en onderricht, kleding, bewapening en overige uitrusting, keuring en controle op lichamelijke en geestelijke geschiktheid Grondslag: art. 23.2 Wet Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V, 10 jaar 
 ###111.
 
-Handeling: het verplichten van rijkspolitie-ambtenaar, door de Minister van Justitie benoemd, over te gaan naar een gemeentelijk politiekorps Grondslag: art. 24.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het verplichten van rijkspolitie-ambtenaar, door de Minister van Justitie benoemd, over te gaan naar een gemeentelijk politiekorps Grondslag: art. 24.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *8.1.2.5 Taakuitvoering* 
 
@@ -2439,11 +2439,11 @@ Handeling: het verplichten van rijkspolitie-ambtenaar, door de Minister van Just
 Handeling: het houden van toezicht op vreemdelingen rondslag art. 27b Politiewet 1957 (Stb. 1957, 244), ingevoegd bij wet van 24 juni 1992 (Stb. 1992, 326) Periode: 1945–1993 Opmerking: het betreft hier de uitvoering van vreemdelingenvoorschriften: het gaat om handhaving. Waardering: V, 10 jaar 
 ###120.
 
-Handeling: het bevorderen van de verkeersveiligheid op de weg Grondslag: art. 34 Politiewet 1957 (Stb. 1957, 244) Periode: 1945–1993 Opmerking: voor wat betreft het Korps Rijkspolitie wordt deze taak uitgevoerd door de Algemene Verkeersdienst van het korps Rijkspolitie: het gaat om handhaving. Waardering: V, 10 jaar  
+Handeling: het bevorderen van de verkeersveiligheid op de weg Grondslag: art. 34 Politiewet 1957 (Stb. 1957, 244) Periode: 1945–1993 Opmerking: voor wat betreft het Korps Rijkspolitie wordt deze taak uitgevoerd door de Algemene Verkeersdienst van het korps Rijkspolitie: het gaat om handhaving. Waardering: V, 10 jaar 
 
 #### *8.1.2.6 Rechtspositie* 
 
-Handelingen voortvloeiend uit regelingen die zijn vastgesteld op grond van artikel 4.1 Politiebesluit en de artikelen 6.1 en 26.1 Politiewet  
+Handelingen voortvloeiend uit regelingen die zijn vastgesteld op grond van artikel 4.1 Politiebesluit en de artikelen 6.1 en 26.1 Politiewet 
 
 #### *8.1.2.7 Aanstelling en bevordering* 
 
@@ -2452,13 +2452,13 @@ Handelingen voortvloeiend uit regelingen die zijn vastgesteld op grond van artik
 Handeling: het in zeer bijzondere gevallen verlenen van een machtiging tot verlenging van de proeftijd van een ambtenaar van gemeentepolitie Grondslag: – art. 2.3 ARGP (Stb. 1953, 74) – art. 2.3 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###130.
 
-Handeling: het vaststellen, wijzigen of intrekken van een model-aanstellingsakte van een ambtenaar van gemeentepolitie Grondslag: – art. 4.1 ARGP (Stb. 1953, 74) – art. 4.1 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V, 5 jaar na wijziging  
+Handeling: het vaststellen, wijzigen of intrekken van een model-aanstellingsakte van een ambtenaar van gemeentepolitie Grondslag: – art. 4.1 ARGP (Stb. 1953, 74) – art. 4.1 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V, 5 jaar na wijziging 
 
 #### *8.1.2.8 Bezoldiging* 
 
 ###133.
 
-Handeling: het doen van voordracht tot het bij KB stellen van nadere regels omtrent de bezoldiging van politieambtenaren tijdens de vervulling van de dienstplicht Grondslag: – art. 16.2 ARGP (Stb. 1953, 74) – art. 16.2 ARRP (Stb. 1953, 75) Periode: 1953–1957 Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het doen van voordracht tot het bij KB stellen van nadere regels omtrent de bezoldiging van politieambtenaren tijdens de vervulling van de dienstplicht Grondslag: – art. 16.2 ARGP (Stb. 1953, 74) – art. 16.2 ARRP (Stb. 1953, 75) Periode: 1953–1957 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *8.1.2.9 Diensttijden* 
 
@@ -2467,7 +2467,7 @@ Handeling: het doen van voordracht tot het bij KB stellen van nadere regels omtr
 Handeling: het overeenstemmen met de Minister van Justitie inzake het vaststellen, wijzigen of intrekken van richtlijnen inzake de inrichting van de diensttijden en de uitvoering van de toekenning van vergoedingen voor overwerk aan (bijzondere) rijkspolitieambtenaren Grondslag: – art. 39 ARBARP 1967 (Stb, 1967, 391) – art. 18.5, 19b.3 en 19e ARRP 1975 (Stb. 1977, 172) Periode: 1967–1993 Waardering: V, 10 jaar 
 ###141.
 
-Handeling: het overleggen met de Minister van Justitie inzake de toekenning van een overwerkvergoeding aan bijzondere ambtenaren van rijkspolitie die werkzaam zijn bij de Veiligheidsdienst van het Koninklijk Huis Grondslag: art. 21.3 ARBARP 1967 (Stb, 1967, 391) Periode: 1967–1976 Waardering: V, 10 jaar  
+Handeling: het overleggen met de Minister van Justitie inzake de toekenning van een overwerkvergoeding aan bijzondere ambtenaren van rijkspolitie die werkzaam zijn bij de Veiligheidsdienst van het Koninklijk Huis Grondslag: art. 21.3 ARBARP 1967 (Stb, 1967, 391) Periode: 1967–1976 Waardering: V, 10 jaar 
 
 #### *8.1.2.10 Vakantie en verlof* 
 
@@ -2482,7 +2482,7 @@ Handeling: het overeenstemmen met de Minister van Justitie inzake de vaststellin
 Handeling: het vaststellen, wijzigen of intrekken van nadere regels omtrent de toepassing van de bepalingen omtrent vakantie, vakantie-uitkering en verlof van ambtenaren van gemeentepolitie Grondslag: art. 34, 39, 50,2 ARGP 1958 (Stb. 1957, 547) Periode: 1958–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 ###150.
 
-Handeling: het geven van toestemming aan de burgemeester tot het verlenen van buitengewoon verlof van langer dan drie maanden aan commissarissen en hoofdcommissarissen van gemeentepolitie Grondslag: art. 43.3 ARGP 1958 (Stb. 1957, 547) Periode: 1958–1993 Waardering: V, 5 jaar  
+Handeling: het geven van toestemming aan de burgemeester tot het verlenen van buitengewoon verlof van langer dan drie maanden aan commissarissen en hoofdcommissarissen van gemeentepolitie Grondslag: art. 43.3 ARGP 1958 (Stb. 1957, 547) Periode: 1958–1993 Waardering: V, 5 jaar 
 
 #### *8.1.2.11 Ziekte en geneeskundige keuring* 
 
@@ -2497,7 +2497,7 @@ Handeling: het vaststellen, wijzigen of intrekken van regels voor ambtenaren van
 Handeling: het in bijzondere gevallen bepalen dat de bezoldiging tijdens afwezigheid door ziekte betaald wordt aan een ander dan de ambtenaar van gemeentepolitie die is aangesteld bij KB Grondslag: – art. 43 ARGP (Stb. 1953, 74) – art. 70 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 ###159.
 
-Handeling: het overeenstemmen met de Minister van Justitie inzake het vaststellen, wijzigen of intrekken van voorschriften omtrent periodiek geneeskundig onderzoek van ambtenaren van rijkspolitie die aan bijzonder gevaar voor hun gezondheid blootstaan, dan wel aan bijzondere gezondheidseisen moeten voldoen Grondslag: art. 66.3 ARRP 1975 (Stb. 1977, 172) Periode: 1975–1993 Waardering: B5  
+Handeling: het overeenstemmen met de Minister van Justitie inzake het vaststellen, wijzigen of intrekken van voorschriften omtrent periodiek geneeskundig onderzoek van ambtenaren van rijkspolitie die aan bijzonder gevaar voor hun gezondheid blootstaan, dan wel aan bijzondere gezondheidseisen moeten voldoen Grondslag: art. 66.3 ARRP 1975 (Stb. 1977, 172) Periode: 1975–1993 Waardering: B5 
 
 #### *8.1.2.12 Overige rechten en plichten* 
 
@@ -2530,13 +2530,13 @@ Handeling: het beslissen op een bezwaar van een ambtenaar van gemeentepolitie te
 Handeling: het op voordracht van de burgemeester toekennen van beloningen wegens bijzondere verdiensten aan hoofdcommissarissen en commissarissen van gemeentepolitie Grondslag: – art. 76.3 ARGP (Stb. 1953, 74) – art. 102.4 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V 5 jaar 
 ###180.
 
-Handeling: het vaststellen, wijzigen of intrekken van regels omtrent de diensttijd ter vaststelling van ambtsjubilea Grondslag: – art. 77.6 ARGP (Stb. 1953, 74) – 103.4 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V 10 jaar na wijziging of intrekking  
+Handeling: het vaststellen, wijzigen of intrekken van regels omtrent de diensttijd ter vaststelling van ambtsjubilea Grondslag: – art. 77.6 ARGP (Stb. 1953, 74) – 103.4 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V 10 jaar na wijziging of intrekking 
 
 #### *8.1.2.13 Straffen* 
 
 ###182.
 
-Handeling: het opleggen van straffen aan hoofdcommissarissen en commissarissen van gemeentepolitie Grondslag: – art. 79.2 ARGP (Stb. 1953, 74) – art. 105.3 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V 7 jaar na administratieve afhandeling van het ontslag  
+Handeling: het opleggen van straffen aan hoofdcommissarissen en commissarissen van gemeentepolitie Grondslag: – art. 79.2 ARGP (Stb. 1953, 74) – art. 105.3 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V 7 jaar na administratieve afhandeling van het ontslag 
 
 #### *8.1.2.14 Schorsing en ontslag* 
 
@@ -2560,7 +2560,7 @@ Handeling: het verlenen van medewerking of machtiging tot het in bijzondere geva
 Handeling: het doen van voordracht tot het treffen van een regeling of het treffen van een regeling waarbij een ambtenaar van gemeentepolitie die wegens bijzondere omstandigheden eervol is ontslagen een redelijke uitkering verzekerd wordt Grondslag: – art. 95.2 ARGP (Stb. 1953, 74) – art. 122.1 ARGP 1958 (Stb. 1957, 547) Periode: 1953–1993 Waardering: V, 7 jaar 
 ###201.
 
-Handeling: het (doen van voordracht tot het) stellen van nadere algemene regels ter uitwerking of aanvulling van het ambtenarenreglement voor de gemeentepolitie Grondslag: art. 101 ARGP (Stb. 1953, 74) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het (doen van voordracht tot het) stellen van nadere algemene regels ter uitwerking of aanvulling van het ambtenarenreglement voor de gemeentepolitie Grondslag: art. 101 ARGP (Stb. 1953, 74) Periode: 1953–1957 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *8.1.2.15 Handelingen ingevolge het Besluit Reserve Rijks- en gemeentepolitie* 
 
@@ -2591,7 +2591,7 @@ Handeling: het bepalen van een tijdstip waarop de verbintenissen vervallen met v
 Handeling: het aanwijzen van een object in het kader van een bewakingskern Grondslag: – art. 22.2 Besluit Reservepolitie 1954 (Stb. 1954, 363) – art. 24.2 Besluit Reservepolitie 1958 (Stb. 1957, 559) – art. 2.1b en c Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1954–1993 Waardering: V, 5 jaar 
 ###215.
 
-Handeling: het uitvoeren van het Besluit adviesraden burgerlijke reserve-organen voor wat vrijwilligers bij de reservepolitie betreft Grondslag: Besluit adviesraden burgerlijke reserve-organen (Stb. 1964, 478) Periode: 1965–1993 Waardering: V, 10 jaar  
+Handeling: het uitvoeren van het Besluit adviesraden burgerlijke reserve-organen voor wat vrijwilligers bij de reservepolitie betreft Grondslag: Besluit adviesraden burgerlijke reserve-organen (Stb. 1964, 478) Periode: 1965–1993 Waardering: V, 10 jaar 
 
 #### *8.1.2.16 Surveillancehonden* 
 
@@ -2613,7 +2613,7 @@ Handeling: het goedkeuren van de bij het geschiktheidsonderzoek van surveillance
 Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften ter uitvoering van het Besluit Surveillancehonden Politie Grondslag: art. 3.1 en 5 Besluit Surveillancehonden Politie (Stb. 1951, 143), 1958 (Stcrt. 1957, 553) Periode: 1951–1993 Product: Bijvoorbeeld: – Beschikking surveillancehonden politie 1958 (Stcrt. 1957, 252) – Beschikking Surveillancehonden Korps rijkspolitie (Stcrt. 1958, 40/58; 203/58) Waardering: V, 10 jaar na wijziging of intrekking 
 ###222.
 
-Handeling: het uitvoeren van de Beschikking Surveillancehonden politie en de Beschikking Surveillancehonden Korps rijkspolitie Grondslag: – Beschikking surveillancehonden politie 1958 (Stcrt. 1957, 252) – Beschikking Surveillancehonden Korps rijkspolitie (Stcrt. 1958, 40/58; 203/58) Periode: 1951–1993 Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: het uitvoeren van de Beschikking Surveillancehonden politie en de Beschikking Surveillancehonden Korps rijkspolitie Grondslag: – Beschikking surveillancehonden politie 1958 (Stcrt. 1957, 252) – Beschikking Surveillancehonden Korps rijkspolitie (Stcrt. 1958, 40/58; 203/58) Periode: 1951–1993 Waardering: V, 10 jaar na wijziging of intrekking 
 
 #### *8.1.2.17 Geneeskundige verzorging* 
 
@@ -2686,7 +2686,7 @@ Handeling: het geven van regels over de wijze waarop beroep moet worden ingestel
 Handeling: het vaststellen, wijzigen of intrekken van regels over de samenstelling van de commissie van beroep GVP Grondslag: art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1980–1984 Waardering: V 2 jaar na wijziging 
 ###257.
 
-Handeling: het benoemen, schorsen en ontslaan van (plaatsvervangende) leden, het aanwijzen van de (plaatsvervangend) voorzitter alsmede het toevoegen van een (waarnemend) secretaris van de Commissie van beroep GVP Grondslag: – art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555), en gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) – art. 14.1 en 14.4 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), vervallen bij KB van 15 januari 1993 (Stb. 1993, 93) – art. 2.1 of 3 Regeling instellen van beroep (Stcrt. 1980, 30) Periode: 1980–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het benoemen, schorsen en ontslaan van (plaatsvervangende) leden, het aanwijzen van de (plaatsvervangend) voorzitter alsmede het toevoegen van een (waarnemend) secretaris van de Commissie van beroep GVP Grondslag: – art. 10a.2 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555), en gewijzigd bij KB van 31 mei 1979 (Stb. 1979, 783) – art. 14.1 en 14.4 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), vervallen bij KB van 15 januari 1993 (Stb. 1993, 93) – art. 2.1 of 3 Regeling instellen van beroep (Stcrt. 1980, 30) Periode: 1980–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *8.1.2.18 Bezoldiging* 
 
@@ -2741,7 +2741,7 @@ Handeling: het toekennen van vergoedingen op grond van het verplaatsingskostenbe
 Handeling: het bepalen van de bedragen ter vergoeding van of tegemoetkoming in de opleidingskosten van een politieambtenaar Grondslag: art. 3 en 4 Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Waardering: V, 10 jaar na wijziging of intrekking 
 ###277.
 
-Handeling: het toekennen van vergoedingen op grond van de Regeling vergoeding opleidingskosten politieambtenaren Grondslag: Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het toekennen van vergoedingen op grond van de Regeling vergoeding opleidingskosten politieambtenaren Grondslag: Regeling vergoeding opleidingskosten politieambtenaren (Stb. 1961, 281) Periode: 1961–1979 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *8.1.2.19 Georganiseerd Overleg* 
 
@@ -2805,13 +2805,13 @@ Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften ter u
 Handeling: het vaststellen, wijzigen of intrekken van nadere voorschriften inzake de dienstcommissie voor zover de bijzondere verhoudingen aan de primaire politie-opleiding daartoe aanleiding geven Grondslag: art. 75.4 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V 5 jaar na wijziging of intrekking 
 ###304.
 
-Handeling: het vier jaren na inwerkingtreding van het Besluit Overleg en Medezeggenschap Politie instellen van een onderzoek naar de wijze waarop het besluit is toegepast Grondslag: art. IV.C.1 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B2  
+Handeling: het vier jaren na inwerkingtreding van het Besluit Overleg en Medezeggenschap Politie instellen van een onderzoek naar de wijze waarop het besluit is toegepast Grondslag: art. IV.C.1 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B2 
 
 #### *8.1.2.20 Dienstcommissie* 
 
 ###305.
 
-Handeling: het doen van voordracht tot het bij of krachtens KB instellen van dienstcommissies voor het Korps Rijkspolitie, voor de bijzondere ambtenaren van rijkspolitie en voor gemeentelijke politiekorpsen Grondslag: art. 18 Regeling GOP (Stb. 1960, 623), gewijzigd en vernummerd tot art. 39 bij KB van 31 januari 1963 (Stb. 1963, 38) Periode: 1961–1963 Waardering: V, 10 jaar  
+Handeling: het doen van voordracht tot het bij of krachtens KB instellen van dienstcommissies voor het Korps Rijkspolitie, voor de bijzondere ambtenaren van rijkspolitie en voor gemeentelijke politiekorpsen Grondslag: art. 18 Regeling GOP (Stb. 1960, 623), gewijzigd en vernummerd tot art. 39 bij KB van 31 januari 1963 (Stb. 1963, 38) Periode: 1961–1963 Waardering: V, 10 jaar 
 
 #### *8.1.2.21 Bekwaamheid, benoeming, bevordering en opleiding* 
 
@@ -2853,7 +2853,7 @@ Handeling: het vaststellen, wijzigen of intrekken van het programma van het exam
 Handeling: het aanwijzen van een taalexamen Grondslag: – art. 8 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551) – art. 8 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551) – art. 4.1 Besluit bekwaamheidseisen bevordering politie 1964 (Stb. 1964, 397) Periode: 1953–1993 Waardering: V, 10 jaar 
 ###350.
 
-Handeling: het vaststellen van de beschikking primair politie-onderwijs Grondslag: Beschikking primair politie-onderwijs (Stcrt. 1983, 214) Periode: 1983–1993 Waardering: B5  
+Handeling: het vaststellen van de beschikking primair politie-onderwijs Grondslag: Beschikking primair politie-onderwijs (Stcrt. 1983, 214) Periode: 1983–1993 Waardering: B5 
 
 #### *8.1.2.22 Algemeen Politieblad* 
 
@@ -2865,7 +2865,7 @@ Handeling: het uitgeven van het Algemeen Politieblad (APB) 1975–1993 Ministers
 Handeling: het benoemen van de leden van de Adviescommissie APB Grondslag: art. II Beschikking instelling Adviescommissie APB (APB 1947, 16) Periode: 1947–1975 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 ###353.
 
-Handeling: het benoemen en ontslaan van de voorzitter en de leden van de redactieraad van het APB en van een eindredacteur Grondslag: art. 6, 7.1, 8.1 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Periode: 1975–1993 Product: Bijvoorbeeld: Beschikking benoeming leden redactieraad en eindredacteur APB (Stcrt. 1977, 71) Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het benoemen en ontslaan van de voorzitter en de leden van de redactieraad van het APB en van een eindredacteur Grondslag: art. 6, 7.1, 8.1 Beschikking Algemeen Politieblad (Stcrt. 1975, 204) Periode: 1975–1993 Product: Bijvoorbeeld: Beschikking benoeming leden redactieraad en eindredacteur APB (Stcrt. 1977, 71) Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *8.1.2.23 Opleiding hogere politieambtenaren* 
 
@@ -3000,7 +3000,7 @@ Handeling: het bemiddelen bij de plaatsing van geslaagde leerlingen bij een geme
 Handeling: het bemiddelen bij de plaatsing van geslaagde leerlingen bij het korps rijkspolitie dan wel bij een gemeentelijk politiekorps Grondslag: art. 22 Ambtenarenreglement NPA 1979 (Stb. 1980, 215) Periode: 1979–1992 Waardering: V, 7 jaar 
 ###421.
 
-Handeling: het toekennen van een uitkering aan niet-geplaatste en ontslagen adjunct-inspecteurs van gemeentepolitie Grondslag: art. 23.1 Ambtenarenreglement NPA 1979 (Stb. 1980, 215) Periode: 1979–1992 Waardering: V, 7 jaar  
+Handeling: het toekennen van een uitkering aan niet-geplaatste en ontslagen adjunct-inspecteurs van gemeentepolitie Grondslag: art. 23.1 Ambtenarenreglement NPA 1979 (Stb. 1980, 215) Periode: 1979–1992 Waardering: V, 7 jaar 
 
 #### *8.1.2.24 Bewapening, kleding en overige uitrusting* 
 
@@ -3012,7 +3012,7 @@ Handeling: het vaststellen van regelingen voor kleding en overige uitrusting voo
 Handeling: het vaststellen van de bewapeningsregelingen voor de politie Grondslag: art. 5.1 van het Politiebesluit en art. 7.1, 23.1, 27 en 63 van de Politiewet 1957. Periode: 1945–1993 Product: Bijvoorbeeld: – Beschikking bewapening beroepspersoneel in politierang Korps Rijkspolitie (Stcrt. 1970, 31) – Beschikking bewapening parketwachters, velddienstassistenten en reserve-rijkspolitie (Stcrt. 1972, 76) – Beschikking bewapening bijzondere ambtenaren van Rijkspolitie (Stcrt. 1957, 219 en 1973, 14) – Bewapeningsbeschikking Rijkspolitie (Stcrt. 1988, 233) – Bewapenings- en uitrustingsbeschikking gemeentepolitie 1968 – Regeling uitrusting Mobiele Eenheden Gemeentepolitie 1971 (Stcrt. 9) en 1986 (Stcrt. 12) Waardering: B5 
 ###432.
 
-Handeling: het aanwijzen van andere meetmiddelen dan snelheidscontrolemeters, remvertragingsmeters en wiellastmeters Grondslag: art. 2d Beschikking Verkeersmeetmiddelen Politie (Stcrt. 1976, 79) Periode: 1976–1993 Waardering: V, 7 jaar  
+Handeling: het aanwijzen van andere meetmiddelen dan snelheidscontrolemeters, remvertragingsmeters en wiellastmeters Grondslag: art. 2d Beschikking Verkeersmeetmiddelen Politie (Stcrt. 1976, 79) Periode: 1976–1993 Waardering: V, 7 jaar 
 
 #### *8.1.3 Taak & Bevoegdheden* 
 
@@ -3052,7 +3052,7 @@ Handeling: het aanwijzen van wegen waar de ambtenaar van gemeentepolitie bevoegd
 Handeling: het aanwijzen van vaarwateren of luchtvaartterreinen of gebiedsdelen waar de ambtenaar van gemeentepolitie bevoegd is tot de uitoefening van werkzaamheden buiten het gebied van de gemeente waarvoor hij is aangesteld Grondslag: art. 34.2g Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en vervallen bij Wet van 4 juni 1980 (Stb. 297) Periode: 1958–1980 Opmerking: de op grond van dit artikel vastgestelde besluiten blijven ook na 1980 van kracht en worden geacht te zijn vastgesteld krachtens artikel 30 van de Politiewet Product: bijvoorbeeld: Beschikking wijziging ambtsgebied gemeentelijk politiekorps Delft (Stcrt. 1973, 48) Waardering: V, 10 jaar 
 ###461.
 
-Handeling: het doen van voordracht tot het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van een ambtsinstructie voor de politie Grondslag: art. 34.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Product: KB van 14 december 1988 tot vaststelling van de Ambtsinstructie voor de politie (Stb. 1988, 577) Waardering: V, 10 jaar  
+Handeling: het doen van voordracht tot het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van een ambtsinstructie voor de politie Grondslag: art. 34.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Product: KB van 14 december 1988 tot vaststelling van de Ambtsinstructie voor de politie (Stb. 1988, 577) Waardering: V, 10 jaar 
 
 #### *8.1.3.2 Samenwerking* 
 
@@ -3083,7 +3083,7 @@ Handeling: het instellen van een Commissie van Advies inzake opsporing georganis
 Vervallen. 
 ###475.
 
-Handeling: het instellen van een begeleidingscommissie CID Grondslag: art. 15.1 CID-regeling (Stcrt.1986, 141) Periode: 1986–1993 Product: – Instellingsbeschikking Begeleidingscommissie CID d.d. 28 augustus 1987, nr. 1017/587 – Instellingsbeschikking Begeleidingscommissie Werkdrukonderzoek Regionale CID d.d. 28 augustus 1990, (Stcrt. 1990, 243) Waardering: B4  
+Handeling: het instellen van een begeleidingscommissie CID Grondslag: art. 15.1 CID-regeling (Stcrt.1986, 141) Periode: 1986–1993 Product: – Instellingsbeschikking Begeleidingscommissie CID d.d. 28 augustus 1987, nr. 1017/587 – Instellingsbeschikking Begeleidingscommissie Werkdrukonderzoek Regionale CID d.d. 28 augustus 1990, (Stcrt. 1990, 243) Waardering: B4 
 
 #### *8.1.3.3 Misdaadvoorkoming* 
 
@@ -3099,7 +3099,7 @@ Handeling: het geven van aanwijzingen voor de totstandkoming van de regionale bu
 Handeling: het geven van aanwijzingen aan het hoofd van de afdeling voorkoming criminaliteit van het Ministerie van justitie in zijn hoedanigheid als Landelijk Coördinator Misdaadvoorkoming Grondslag: art. 6.1 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B5 
 ###481.
 
-Handeling: het in overleg met de Minister van Justitie aanwijzen van een beleidsambtenaar van de Directie Politie van het Ministerie van Binnenlandse Zaken als plaatsvervangend Landelijk Coördinator Misdaadvoorkoming Grondslag: art. 6.1 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B5  
+Handeling: het in overleg met de Minister van Justitie aanwijzen van een beleidsambtenaar van de Directie Politie van het Ministerie van Binnenlandse Zaken als plaatsvervangend Landelijk Coördinator Misdaadvoorkoming Grondslag: art. 6.1 Regeling politiële misdaadvoorkoming (Stcrt. 4, 1980) Periode: 1980–1993 Waardering: B5 
 
 #### *8.1.3.4 Bijzondere bepalingen betreffende de taak & bevoegdheden ten aanzien van het verkeer* 
 
@@ -3133,7 +3133,7 @@ Handeling: het instellen van adviescommissies voor zaken van verkeerstoezicht Gr
 Handeling: het benoemen en ontslaan van voorzitters en leden van de adviescommissies verkeerstoezicht en het voorzien in het secretariaat Grondslag: art. 34i.3 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 ###510.
 
-Handeling: het voorbereiden van het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van nadere regels over de taak, samenstelling en werkwijze van de adviescommissies verkeerstoezicht Grondslag: art. 34i.4 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B5  
+Handeling: het voorbereiden van het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van nadere regels over de taak, samenstelling en werkwijze van de adviescommissies verkeerstoezicht Grondslag: art. 34i.4 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B5 
 
 #### *8.1.4 Gezag over de Politie* 
 
@@ -3152,7 +3152,7 @@ Handeling: het overeenstemmen met de door de Minister van Justitie vast te stell
 Handeling: het overleggen met en geven van aanwijzingen en inlichtingen aan de Commissaris van de Koningin en de burgemeester met betrekking tot het door hen te voeren beleid ter handhaving van de openbare orde in bijzondere gevallen Grondslag: art. 42.2 en 43.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B6 
 ###522.
 
-Handeling: het vaststellen, wijzigen of intrekken van regels inzake het uitwisselen van inlichtingen tussen de burgemeesters, Commissarissen van de Koningin en de Minister van Binnenlandse Zaken inzake de handhaving van de openbare orde in bijzondere gevallen Grondslag: art. 43.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B6  
+Handeling: het vaststellen, wijzigen of intrekken van regels inzake het uitwisselen van inlichtingen tussen de burgemeesters, Commissarissen van de Koningin en de Minister van Binnenlandse Zaken inzake de handhaving van de openbare orde in bijzondere gevallen Grondslag: art. 43.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B6 
 
 #### *8.1.5 Verlenen van Bijstand* 
 
@@ -3160,13 +3160,13 @@ Handeling: het vaststellen, wijzigen of intrekken van regels inzake het uitwisse
 
 ###525.
 
-Handeling: het vaststellen van de inzet van rijkspolitiepersoneel uit meerdere provincies in het kader van bijstandsverlening Grondslag: art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar  
+Handeling: het vaststellen van de inzet van rijkspolitiepersoneel uit meerdere provincies in het kader van bijstandsverlening Grondslag: art. 44.2 of 50.1 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar 
 
 #### *8.1.5.2 Bijstand van gemeentepolitie bij de handhaving van de openbare orde* 
 
 ###529.
 
-Handeling: het verstrekken van opdrachten aan de commissaris van de Koningin om gemeentelijk politiepersoneel beschikbaar te stellen voor het verlenen van bijstand voor de handhaving van de openbare orde buiten de provincie Grondslag: art. 44.4 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 toelichting hiertoe: dient de commissaris van de Koningin een verzoek tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten de provincie in; voert de Minister van Binnenlandse Zaken overleg met de Minister van Justitie; wordt via de commissaris van de Koningin medegedeeld aan de Procureur-Generaal, fungerend directeur van politie dat gemeentelijk politiepersoneel bijstand zal verlenen buiten de provincie Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar  
+Handeling: het verstrekken van opdrachten aan de commissaris van de Koningin om gemeentelijk politiepersoneel beschikbaar te stellen voor het verlenen van bijstand voor de handhaving van de openbare orde buiten de provincie Grondslag: art. 44.4 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 toelichting hiertoe: dient de commissaris van de Koningin een verzoek tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten de provincie in; voert de Minister van Binnenlandse Zaken overleg met de Minister van Justitie; wordt via de commissaris van de Koningin medegedeeld aan de Procureur-Generaal, fungerend directeur van politie dat gemeentelijk politiepersoneel bijstand zal verlenen buiten de provincie Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar 
 
 #### *8.1.5.3 Bijstand van Gemeentepolitie bij de handhaving van de rechtsorde* 
 
@@ -3175,7 +3175,7 @@ Handeling: het verstrekken van opdrachten aan de commissaris van de Koningin om 
 Handeling: het voeren van overleg met de Minister van Justitie inzake het verstrekken van opdrachten aan de commissaris van de Koningin om gemeentelijk politiepersoneel beschikbaar te stellen voor het verlenen van bijstand voor de handhaving van de openbare orde buiten de provincie Grondslag: art. 44.4 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar 
 ###533.
 
-Handeling: het voeren van overleg met de Minister van Justitie inzake het verstrekken van opdrachten aan de Procureur(s)-Generaal in het kader van een aanvraag tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50.3 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar  
+Handeling: het voeren van overleg met de Minister van Justitie inzake het verstrekken van opdrachten aan de Procureur(s)-Generaal in het kader van een aanvraag tot het verlenen van bijstand door gemeentelijk politiepersoneel van buiten het ambtsgebied ten behoeve van de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50.3 Politiewet 1957 (Stb. 1957, 244) Periode: 1958–1993 Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd. Waardering: B5: bijstand in bijzondere gevallen Overige neerslag: V, 10 jaar 
 
 #### *8.1.5.4 Bijstand van militaire eenheden bij de handhaving van de openbare orde* 
 
@@ -3190,14 +3190,14 @@ Handeling: het op verzoek van de commissaris van de Koningin bij de Minister van
 Handeling: het bepalen dat in geval van oorlog of buitengewone omstandigheden de artikelen omtrent bijstandsverlening geheel of gedeeltelijk buiten werking treden Grondslag: art. 48a.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 4 februari 1988 (Stb. 21) Periode: 1961–1993 Opmerking: Ingevolge de wet van 4 februari 1988 (Stb. 21) wordt deze bevoegdheid afhankelijk gesteld van een terzake afgegeven KB Waardering: B5 
 ###540.
 
-Handeling: het treffen van voorzieningen met betrekking tot de bijstand van de politie in gebieden waarin de bijstandsregeling buiten werking is gesteld Grondslag: art. 48a.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 16 juli 1964 (Stb. 338) Periode: 1961–1993 Waardering: B5  
+Handeling: het treffen van voorzieningen met betrekking tot de bijstand van de politie in gebieden waarin de bijstandsregeling buiten werking is gesteld Grondslag: art. 48a.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 25 mei 1961 (Stb. 170) en gewijzigd bij Wet van 16 juli 1964 (Stb. 338) Periode: 1961–1993 Waardering: B5 
 
 #### *8.1.6 Bijzondere Taken van de Commissaris van de Koningin en de Procureur-Generaal, fungerend directeur van politie* 
 
 (art 51-54 PW) 
 ###549.
 
-Handeling: het geven van aanwijzingen aan de commissaris van de Koningin met betrekking tot de handhaving van de openbare orde Grondslag: art. 51.3 Politiewet 1957 (Stb. 1957, 244), vervallen bij Wet van 14 december 1988 (Stb. 576) Periode: 1958–1988 Opmerking: Zie ook de paragraaf 3.5. Waardering: B5  
+Handeling: het geven van aanwijzingen aan de commissaris van de Koningin met betrekking tot de handhaving van de openbare orde Grondslag: art. 51.3 Politiewet 1957 (Stb. 1957, 244), vervallen bij Wet van 14 december 1988 (Stb. 576) Periode: 1958–1988 Opmerking: Zie ook de paragraaf 3.5. Waardering: B5 
 
 #### *8.1.7 Selectie en Onderwijs* 
 
@@ -3258,7 +3258,7 @@ Handeling: het stellen van nadere regels omtrent de wijze waarop de begroting, d
 Handeling: het zorgdragen voor de inspectie van de opleidingen die door het LSOP verzorgd worden en het geven van aanwijzingen aan de bestuursraad Grondslag: art. 77 en 79 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: V, 10 jaar 
 ###595.
 
-Handeling: het zenden van een evaluatie van de landelijke wervingsactiviteiten, de selectie en het onderwijs voor de politie aan de Staten-Generaal Grondslag: art. IV.II politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: B2  
+Handeling: het zenden van een evaluatie van de landelijke wervingsactiviteiten, de selectie en het onderwijs voor de politie aan de Staten-Generaal Grondslag: art. IV.II politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: B2 
 
 #### *8.1.8 Reorganisatie* 
 
@@ -3326,7 +3326,7 @@ Handeling: het vaststellen van de jaarlijkse uitkering per regio Grondslag: art.
 Handeling: het opschorten van de betaling van een of meer termijnen van de uitkering Grondslag: art. 8.2 Besluit reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993 Waardering: V, 7 jaar 
 ###635.
 
-Handeling: het stellen van regels over de inrichting van de door de betrokken burgemeester aan te leveren informatie en verantwoording inzake besteding van de financiën, voortgang van de integratie en realisatie van activiteiten Grondslag: art. 10.4 Besluit reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993 Waardering: V, 10 jaar  
+Handeling: het stellen van regels over de inrichting van de door de betrokken burgemeester aan te leveren informatie en verantwoording inzake besteding van de financiën, voortgang van de integratie en realisatie van activiteiten Grondslag: art. 10.4 Besluit reorganisatiekosten politie (Stb. 1993, 216) Periode: 1993 Waardering: V, 10 jaar 
 
 #### *8.1.8.2 Handelingen ingevolge het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel* 
 
@@ -3336,7 +3336,7 @@ Handeling: het stellen van regels over de inrichting van de door de betrokken bu
 Handeling: het voeren van overleg met de Buitengewone Commissie voor Georganiseerd Overleg over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die specifiek en uitsluitend betrekking hebben op de reorganisatie van de politie Grondslag: art. 2.1 Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: B1,5 
 ###641.
 
-Handeling: het uitvoeren van het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Grondslag: Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: V, 10 jaar  
+Handeling: het uitvoeren van het Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Grondslag: Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: V, 10 jaar 
 
 #### *8.1.8.3 Bijzondere Taken van de Commissaris van de Koningin en de Procureur-Generaal, fungerend* 
 
@@ -3352,19 +3352,19 @@ Handeling: het de Minister van Justitie ervan in kennis stellen wanneer hem blij
 Handeling: het voeren van overleg met de Commissaris van de Koningin inzake de politie en de vervulling van haar taak Grondslag: – art. 11.2 en art. 14 Politiebesluit 1945 (Stb. 1945, F 250) – art. 54.1 en 54.2 Politiewet 1957 (Stb. 1957, 244) Periode: 1945–1993 Waardering: V, 10 jaar 
 ###555.
 
-Handeling: het overleggen met zijn ambtgenoten indien de Minister van Justitie dat wenselijk acht Grondslag: art. 11.3 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: V, 10 jaar  
+Handeling: het overleggen met zijn ambtgenoten indien de Minister van Justitie dat wenselijk acht Grondslag: art. 11.3 Politiebesluit 1945 (Stb. 1945, F 250) Periode: 1945–1957 Waardering: V, 10 jaar 
 
 #### *8.2 Actor: Adviescommissies verkeerstoezicht* 
 
 ###508.
 
-Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en van Binnenlandse Zaken met betrekking tot bestuurlijke, justitiële of politie-technische aangelegenheden van verkeerstoezicht Grondslag: art. 34i.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B1  
+Handeling: het gevraagd of ongevraagd adviseren van de Ministers van Justitie en van Binnenlandse Zaken met betrekking tot bestuurlijke, justitiële of politie-technische aangelegenheden van verkeerstoezicht Grondslag: art. 34i.2 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 20 december 1968 (Stb. 734) Periode: 1969–1993 Waardering: B1 
 
 #### *8.3 Actor: Commissie Politiewetgeving (commissie Langemeyer)* 
 
 ###2.
 
-Handeling: het evalueren van de politiewetgeving Grondslag: Beschikking instelling commissie politiewetgeving van de Ministers van Justitie en van Binnenlandse Zaken d.d. 1 oktober 1948 (APB 1948, 22) Periode: 1948 Waardering: B2  
+Handeling: het evalueren van de politiewetgeving Grondslag: Beschikking instelling commissie politiewetgeving van de Ministers van Justitie en van Binnenlandse Zaken d.d. 1 oktober 1948 (APB 1948, 22) Periode: 1948 Waardering: B2 
 
 #### *8.4 Actor: Stuurgroep Reorganisatie Politie* 
 
@@ -3384,7 +3384,7 @@ Handeling: het adviseren van de Ministers van Binnenlandse Zaken en van Financi�
 
 ###464.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de verschillende vormen van samenwerking tussen rijkspolitie en gemeentepolitie alsmede tussen gemeentelijke politiekorpsen en het evalueren van de praktische uitwerking van de adviezen Grondslag: art. 2 beschikking Ministers van Justitie en van Binnenlandse Zaken, respectievelijk van 27 april 1978 en 24 mei 1978 (Stcrt. 105, 1978) Periode: 1978–1993 Waardering: B1  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de verschillende vormen van samenwerking tussen rijkspolitie en gemeentepolitie alsmede tussen gemeentelijke politiekorpsen en het evalueren van de praktische uitwerking van de adviezen Grondslag: art. 2 beschikking Ministers van Justitie en van Binnenlandse Zaken, respectievelijk van 27 april 1978 en 24 mei 1978 (Stcrt. 105, 1978) Periode: 1978–1993 Waardering: B1 
 
 #### *8.7 Actor: Centrale Commissie Misdaadvoorkoming* 
 
@@ -3440,7 +3440,7 @@ Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake de vaststelling van peildata vanaf wanneer een deelnemer een nominale bijdrage verschuldigd is Grondslag: art. 9.10 Besluit Geneeskundige Verzorging Politie 1984 (Stb. 1984, 343), zoals bijgevoegd bij KB van 3 april 1989 (Stb. 1989, 87) Periode: 1989–1993 Waardering: V, 5 jaar 
 ###253.
 
-Handeling: het in beroep oordelen over geschillen terzake van de uitkeringen van vergoedingen en tegemoetkomingen Grondslag: art. 10a.1 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555) en vervallen bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1975–1980 Waardering: V, 10 jaar na afhandeling geschil  
+Handeling: het in beroep oordelen over geschillen terzake van de uitkeringen van vergoedingen en tegemoetkomingen Grondslag: art. 10a.1 Besluit Geneeskundige Verzorging Politie 1971 (Stb. 1971, 607), zoals ingevoegd bij KB van 7 september 1974 (Stb. 1974, 555) en vervallen bij KB van 31 mei 1979 (Stb. 1979, 783) Periode: 1975–1980 Waardering: V, 10 jaar na afhandeling geschil 
 
 #### *8.10 Actor: Commissie van beroep Geneeskundige Verzorging Politie* 
 
@@ -3485,20 +3485,20 @@ Handeling: het leveren van bijdragen aan het overleg met de Minister van Binnenl
 
 Handeling: het al dan niet overeenstemmen met de Minister van Binnenlandse Zaken over voorstellen tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren Grondslag: art. 3.3 van het Besluit overleg en medezeggenschap politie 1994 (Stb. 216) Periode: 1994– Waardering: V 5 jaar 
 
-#### *Actor: Commissie Georganiseerd Overleg LSOP* 
+#### * Actor: Commissie Georganiseerd Overleg LSOP* 
 
 ###288.
 
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake de voorgenomen uitsluiting van een lid van de personeelsvertegenwoordiging van deelname aan het Georganiseerd Overleg Grondslag: – art. 4.4 Regeling GOP (Stb. 1960, 623) – art. 3.4 Regeling GOP 1973 (Stb. 1974, 52) – art. 3.5 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) – art. 4.1 Besluit instelling Commissie voor Georganiseerd Overleg Landelijk Selectie- en Opleidingsinstituut Politie (Stb. 1992, 319) Periode: 1990–1993 Waardering: V, 10 jaar 
 ###294.
 
-Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van belang voor de rechtspositie van de ambtenaar die specifiek en uitsluitend verband houden met de verzelfstandiging van de uitvoering van taken op het gebied van werving, selectie en onderwijs voor de politie Politie Grondslag: art. 2.2 Besluit instelling Commissie voor Georganiseerd Overleg Landelijke Selectie- en Opleidingsinstituut Politie Periode: 1990–1993 Waardering: V, 10 jaar  
+Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van belang voor de rechtspositie van de ambtenaar die specifiek en uitsluitend verband houden met de verzelfstandiging van de uitvoering van taken op het gebied van werving, selectie en onderwijs voor de politie Politie Grondslag: art. 2.2 Besluit instelling Commissie voor Georganiseerd Overleg Landelijke Selectie- en Opleidingsinstituut Politie Periode: 1990–1993 Waardering: V, 10 jaar 
 
 #### *8.12 Actor: Buitengewone Commissie voor Georganiseerd Overleg* 
 
 ###638.
 
-Handeling: het overleggen met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die specifiek en uitsluitend betrekking hebben op de reorganisatie van de politie Grondslag: art. 2.1 Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: B5  
+Handeling: het overleggen met de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die specifiek en uitsluitend betrekking hebben op de reorganisatie van de politie Grondslag: art. 2.1 Besluit overleg en Medezeggenschap Reorganisatie Politiebestel (Stb. 1991, 675) Periode: 1992–1993 Waardering: B5 
 
 #### *8.13 Actor: College van Advies Georganiseerd Overleg* 
 
@@ -3510,7 +3510,7 @@ Handeling: het adviseren van de Minister van Justitie inzake de voorgenomen uits
 Handeling: het adviseren van de Minister van Justitie over een voorgenomen onthouding van goedkeuring van een reglement voor de (algemene) dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 24.5 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: V, 10 jaar 
 ###314.
 
-Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen het hoofd van een diensteenheid en de dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 25-28, 30.1, 31.2, 33.3, 38.5 en 74.10 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B5  
+Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen het hoofd van een diensteenheid en de dienstcommissie bij het Korps Rijkspolitie en bij de overige diensten en instellingen ressorterende onder de Directie Politie van het Ministerie van Justitie Grondslag: art. 25-28, 30.1, 31.2, 33.3, 38.5 en 74.10 Besluit Overleg en Medezeggenschap Politie (Stb. 1985, 571) Periode: 1985–1993 Waardering: B5 
 
 #### *8.14 Actor: Commissie als bedoeld in het Ambtenarenreglement voor de politie* 
 
@@ -3519,7 +3519,7 @@ Handeling: het adviseren van de Minister van Justitie omtrent geschillen tussen 
 Handeling: het adviseren van het bevoegd gezag over het voornemen een disciplinaire straf op te leggen aan bij KB benoemde ambtenaren Grondslag: Ambtenarenreglement voor het Korps Rijkspolitie , art. 2 Besluit van 28 januari 1993 (Stb. 1993, 102) Periode: 1993– Waardering: V, 10 jaar 
 ###185.
 
-Handeling: het adviseren van de Minister-president, de Minister van Binnenlandse Zaken of de Minister van Justitie omtrent het ontslag van een ambtenaar van politie indien uit zijn gedragingen van zodanige gezindheid blijkt dat er geen voldoende waarborg aanwezig is dat hij zijn plicht getrouwelijk zal vervullen Grondslag: – art. 93.3 ARGP (Stb. 1953, 74) – art. 93.3 ARRP (Stb. 1953, 75) – art. 120.3 ARGP 1958 (Stb. 1957, 547) – art. 119.3 ARRP 1958 (Stb. 1957, 548) – art. 121.3 ARBARP 1967 (Stb, 1967, 391) – art. 119.2 ARRP 1975 (Stb. 1977, 172) – art. 2 Besluit van 28 januari 1993 (Stb. 1993, 102) Periode: 1953–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag  
+Handeling: het adviseren van de Minister-president, de Minister van Binnenlandse Zaken of de Minister van Justitie omtrent het ontslag van een ambtenaar van politie indien uit zijn gedragingen van zodanige gezindheid blijkt dat er geen voldoende waarborg aanwezig is dat hij zijn plicht getrouwelijk zal vervullen Grondslag: – art. 93.3 ARGP (Stb. 1953, 74) – art. 93.3 ARRP (Stb. 1953, 75) – art. 120.3 ARGP 1958 (Stb. 1957, 547) – art. 119.3 ARRP 1958 (Stb. 1957, 548) – art. 121.3 ARBARP 1967 (Stb, 1967, 391) – art. 119.2 ARRP 1975 (Stb. 1977, 172) – art. 2 Besluit van 28 januari 1993 (Stb. 1993, 102) Periode: 1953–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V, 7 jaar na administratieve afhandeling ontslag 
 
 #### *8.15 Actor: Commissie KLPD* 
 
@@ -3532,13 +3532,13 @@ Handeling: het overleggen met de Minister van Justitie over aangelegenheden van 
 
 ###339.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over voorlichting en werving van lager politiepersoneel Grondslag: art. I Beschikking instelling Commissie van Advies Politiepersoneel (Stcrt. 1966, 244) Periode: 1966–1991 Waardering: B5  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over voorlichting en werving van lager politiepersoneel Grondslag: art. I Beschikking instelling Commissie van Advies Politiepersoneel (Stcrt. 1966, 244) Periode: 1966–1991 Waardering: B5 
 
 #### *8.17 Actor: Centrale wervingscommissie gemeentepolitie* 
 
 ###340.
 
-Handeling: het ontwerpen van plannen en procedures voor wervingsvoorlichting, werving en voorselectie van adspiranten van gemeentepolitie Grondslag: art. 1 Beschikking instelling Centrale wervingscommissie gemeentepolitie (Stcrt. 1972, 82) Periode: 1972–1991 Waardering: B5  
+Handeling: het ontwerpen van plannen en procedures voor wervingsvoorlichting, werving en voorselectie van adspiranten van gemeentepolitie Grondslag: art. 1 Beschikking instelling Centrale wervingscommissie gemeentepolitie (Stcrt. 1972, 82) Periode: 1972–1991 Waardering: B5 
 
 #### *8.18 Actor: Raad van Beheer Rijksopleidingsinstituut* 
 
@@ -3568,7 +3568,7 @@ Handeling: het vaststellen van disciplinaire voorschriften Grondslag: – art. 8
 Handeling: het verwijderen van een leerling wegens onbekwaamheid of ongeschiktheid Grondslag: art. 8.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) Periode: 1949–1963 Waardering: V, 7 jaar 
 ###416.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen actor Raad van Beheer Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1949–1963 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen actor Raad van Beheer Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1949–1963 Waardering: V, 10 jaar 
 
 #### *8.19 Actor: Raad van Bestuur Rijksopleidingsinstituut* 
 
@@ -3601,7 +3601,7 @@ Handeling: het vaststellen van disciplinaire voorschriften Grondslag: – art. 8
 Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken inzake het aanwijzen van anderen dan de (plaatsvervangend) directeur en leraren van het rijksopleidingsinstituut tot lid van de examencommissie Grondslag: art. 20.3c Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals gewijzigd Stcrt. 1967, 113) Periode: 1967–1973 Waardering: V, 10 jaar 
 ###416.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1963–1967 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over het vaststellen, wijzigen of intrekken van de eisen waaraan de leerlingen bij het afleggen van het examen voor inspecteur van gemeentepolitie en officier van rijkspolitie moeten voldoen Grondslag: – art. 10.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.2 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) Periode: 1963–1967 Waardering: V, 10 jaar 
 
 #### *8.20 Actor: Curatorium NPA* 
 
@@ -3613,37 +3613,37 @@ Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken
 Handeling: het opstellen van jaarverslagen Grondslag: – art. 2.3 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 5.5, 11.1 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 5.4 en 9 Beschikking Curatorium NPA (Stcrt. 1973, 217 en Stcrt.1978, 220) Periode: 1949–1992 Waardering: B3: jaarverslag Overige neerslag: V 7 jaar 
 ###392.
 
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de vaststelling of goedkeuring van het leerplan van het Rijksopleidingsinstituut/NPA Grondslag: – art. 6.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 16 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 12.1 Beschikking NPA (Stcrt. 1980, 149) – art. 11 Regeling NPA (Stcrt. 1991, 102) Periode: 1973–1992 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de vaststelling of goedkeuring van het leerplan van het Rijksopleidingsinstituut/NPA Grondslag: – art. 6.2 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 16 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 12.1 Beschikking NPA (Stcrt. 1980, 149) – art. 11 Regeling NPA (Stcrt. 1991, 102) Periode: 1973–1992 Waardering: V, 10 jaar 
 
 #### *8.21 Actor: Commissie van Voorbereiding opleidingsinstituut* 
 
 ###386.
 
-Handeling: het adviseren van de Raad van Beheer/Raad van Bestuur/Ministers van Binnenlandse Zaken en van Justitie over toelating van leerlingen tot de opleiding aan het Rijksopleidingsinstituut/NPA Grondslag: – art. 5.3 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 15 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 3.1 Beschikking toelating NPA (Stcrt. 1973, 249) – art. 6 Beschikking NPA (Stcrt. 1980, 149) – art. 5 Regeling NPA (Stcrt. 1991, 102) Periode: 1949–1973 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Raad van Beheer/Raad van Bestuur/Ministers van Binnenlandse Zaken en van Justitie over toelating van leerlingen tot de opleiding aan het Rijksopleidingsinstituut/NPA Grondslag: – art. 5.3 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 15 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 3.1 Beschikking toelating NPA (Stcrt. 1973, 249) – art. 6 Beschikking NPA (Stcrt. 1980, 149) – art. 5 Regeling NPA (Stcrt. 1991, 102) Periode: 1949–1973 Waardering: V, 10 jaar 
 
 #### *8.22 Actor: Selectiecommissie opleidingsinstituut* 
 
 ###386.
 
-Handeling: het adviseren van de Raad van Beheer/Raad van Bestuur/Ministers van Binnenlandse Zaken en van Justitie over toelating van leerlingen tot de opleiding aan het Rijksopleidingsinstituut/NPA Grondslag: – art. 5.3 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 15 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 3.1 Beschikking toelating NPA (Stcrt. 1973, 249) – art. 6 Beschikking NPA (Stcrt. 1980, 149) – art. 5 Regeling NPA (Stcrt. 1991, 102) Periode: 1973–1992 Waardering: V, 7 jaar  
+Handeling: het adviseren van de Raad van Beheer/Raad van Bestuur/Ministers van Binnenlandse Zaken en van Justitie over toelating van leerlingen tot de opleiding aan het Rijksopleidingsinstituut/NPA Grondslag: – art. 5.3 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 15 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75) – art. 3.1 Beschikking toelating NPA (Stcrt. 1973, 249) – art. 6 Beschikking NPA (Stcrt. 1980, 149) – art. 5 Regeling NPA (Stcrt. 1991, 102) Periode: 1973–1992 Waardering: V, 7 jaar 
 
 #### *8.23 Actor: Begeleidingscommissie NPA* 
 
 ###364.
 
-Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken en de directeur van de NPA terzake van het onderwijs aan de NPA Grondslag: art. 1 Beschikking instelling begeleidingscommissie NPA (APB 1974, 21) Periode: 1974–1978 Waardering: V, 10 jaar  
+Handeling: het leveren van bijdragen aan het overleg met de Ministers van Justitie en van Binnenlandse Zaken en de directeur van de NPA terzake van het onderwijs aan de NPA Grondslag: art. 1 Beschikking instelling begeleidingscommissie NPA (APB 1974, 21) Periode: 1974–1978 Waardering: V, 10 jaar 
 
 #### *8.24 Actor: Examencommissie opleidingsinstituut* 
 
 ###410.
 
-Handeling: het afnemen van de examens voor inspecteur van gemeentepolitie en officier van rijkspolitie Grondslag: – art. 10.1 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.1 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), vernummerd tot art. 20.3a (Stcrt. 1967, 113) – art. 23.1a Beschikking NPA (Stcrt. 1980, 149) Periode: 1949–1992 Waardering: V, 7 jaar  
+Handeling: het afnemen van de examens voor inspecteur van gemeentepolitie en officier van rijkspolitie Grondslag: – art. 10.1 Besluit opleiding hogere politieambtenaren (Stb. 1949, J 473) – art. 20.1 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), vernummerd tot art. 20.3a (Stcrt. 1967, 113) – art. 23.1a Beschikking NPA (Stcrt. 1980, 149) Periode: 1949–1992 Waardering: V, 7 jaar 
 
 #### *8.25 Actor: Commissie van Gecommitteerden* 
 
 ###413.
 
-Handeling: het houden van toezicht op het afnemen van de examens door de examencommissie Grondslag: – art. 20.4 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals toegevoegd 1967, 113 – art. 23.2 Beschikking NPA (Stcrt. 1980, 149) Periode: 1967–1990 Waardering: V, 5 jaar  
+Handeling: het houden van toezicht op het afnemen van de examens door de examencommissie Grondslag: – art. 20.4 Beschikking opleiding hogere politieambtenaren (Stcrt. 1963, 75), zoals toegevoegd 1967, 113 – art. 23.2 Beschikking NPA (Stcrt. 1980, 149) Periode: 1967–1990 Waardering: V, 5 jaar 
 
 #### *8.26 Actor: Begeleidingscommissie Opleidingsinstellingen* 
 
@@ -3652,21 +3652,21 @@ Handeling: het houden van toezicht op het afnemen van de examens door de examenc
 Handeling: het adviseren van de Bestuursraad LSOP over de aanbevelingen aan de Ministers van Justitie en van Binnenlandse Zaken over de voordracht tot benoeming, schorsing of ontslag bij KB van directeuren van de opleidingsinstellingen Grondslag: art. 74.3 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: V, 10 jaar 
 ###589.
 
-Handeling: het adviseren van de Bestuursraad over het werkplan voor een opleiding die het LSOP verzorgt Grondslag: art. 75.4 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: V, 10 jaar  
+Handeling: het adviseren van de Bestuursraad over het werkplan voor een opleiding die het LSOP verzorgt Grondslag: art. 75.4 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) Periode: 1992–1993 Waardering: V, 10 jaar 
 
-####*8.27 Actor: Begeleidingscommissie Studiecentrum voor hogere politieambtenare* n
+#### *8.27 Actor: Begeleidingscommissie Studiecentrum voor hogere politieambtenare*n
 
 ###365.
 
-Handeling: het leveren van bijdragen aan het overleg met Ministers van Justitie en van Binnenlandse Zaken en de directeur van het politiestudiecentrum terzake van het functioneren van het centrum Grondslag: art. 1 Beschikking instelling begeleidingscommissie Studiecentrum voor hogere politieambtenaren (APB 1974, 20) Periode: 1974–1992 Waardering: V, 10 jaar  
+Handeling: het leveren van bijdragen aan het overleg met Ministers van Justitie en van Binnenlandse Zaken en de directeur van het politiestudiecentrum terzake van het functioneren van het centrum Grondslag: art. 1 Beschikking instelling begeleidingscommissie Studiecentrum voor hogere politieambtenaren (APB 1974, 20) Periode: 1974–1992 Waardering: V, 10 jaar 
 
 #### *8.28 Actor: Bestuursraad LSOP* 
 
-Vervallen.   
+Vervallen.
 
 #### *8.29 Actor: Directie LSOP* 
 
-Vervallen.   
+Vervallen. 
 
 #### *8.30 Actor: Redactieraad APB* 
 
@@ -3682,7 +3682,7 @@ Handeling: het jaarlijks uitbrengen van verslag aan de Ministers van Justitie en
 
 ###618.
 
-Handeling: het adviseren van de Minister van Justitie en/of Binnenlandse Zaken over aspecten op het beleidsterrein politie Grondslag: instellingsbesluit Periode: 1945–1993 Waardering: B5  
+Handeling: het adviseren van de Minister van Justitie en/of Binnenlandse Zaken over aspecten op het beleidsterrein politie Grondslag: instellingsbesluit Periode: 1945–1993 Waardering: B5 
 
 #### *9. C: Actor onder de zorg van de Minister van Financiën* 
 
@@ -3711,7 +3711,7 @@ Handeling: het aan gemeenten verlenen van bijdragen ter tegemoetkoming in de inv
 Handeling: het in bijzondere gevallen toekennen aan een gemeente van een buitengewone uitkering, alsmede het vaststellen van het bedrag van die uitkering actor Minister van Financiën (1950-1986) Grondslag: a. art. 8 Besluit Vergoeding Politiekosten 1950 (Stb. K 384), ingetrokken bij besluit van 13 november 1986 (Stb. 610) a. art. 7 Besluit Vergoeding Kosten Reservepolitie 1954 (Stb. 54), ingetrokken bij besluit van 13 november 1986 (Stb. 610) b. art. 14.1 Besluit Vergoeding Politiekosten 1986 (Stb. 610, 1986) Periode: 1948–1993 Product: Compensatieregeling PKP (Project Kwantificering Politiewerk) Sterktereductie (Stcrt. 157, 1989) Waardering: V, 10 jaar 
 ###344.
 
-Handeling: het vaststellen van een vergoeding voor de leden van de examencommissies en de gecommitteerden actor Minister van Financiën Grondslag: – art. 5.2 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551) – art. 5.2 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551) – art. 5.2 Besluit bekwaamheidseisen bevordering politie 1964 (Stb. 1964, 397) Periode: 1953–1993 Product: Bijvoorbeeld: Beschikking vaststelling vacatiegeld examencommissies politiediploma’s (Stcrt. 1978, 97) Waardering: V, 7 jaar  
+Handeling: het vaststellen van een vergoeding voor de leden van de examencommissies en de gecommitteerden actor Minister van Financiën Grondslag: – art. 5.2 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551) – art. 5.2 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551) – art. 5.2 Besluit bekwaamheidseisen bevordering politie 1964 (Stb. 1964, 397) Periode: 1953–1993 Product: Bijvoorbeeld: Beschikking vaststelling vacatiegeld examencommissies politiediploma’s (Stcrt. 1978, 97) Waardering: V, 7 jaar 
 
 #### *10. D: Actor onder de zorg van de Minister van Algemene Zaken* 
 
@@ -3726,7 +3726,7 @@ Handeling: het vaststellen van een vergoeding voor de leden van de examencommiss
 Handeling: het doen van voordracht of het machtigen tot het verlenen van eervol ontslag aan een bij KB benoemde ambtenaar van politie indien uit zijn gedragingen van zodanige gezindheid blijkt dat er geen voldoende waarborg aanwezig is dat hij zijn plicht getrouwelijk zal vervullen Grondslag: – art. 93.3 ARGP (Stb. 1953, 74) – art. 93.3 ARRP (Stb. 1953, 75) – art. 120.3 ARGP 1958 (Stb. 1957, 547) – art. 119.3 ARRP 1958 (Stb. 1957, 548) – art. 121.3 ARBARP 1967 (Stb, 1967, 391) – art. 119.2 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver. Waardering: V 7 jaar na administratieve afhandeling ontslag 
 ###187.
 
-Handeling: het doen van voordracht tot het bij KB benoemen van de (plaatsvervangende) leden van de commissie bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie Grondslag: – art. 93.4 ARGP (Stb. 1953, 74) – art. 93.3 ARRP (Stb. 1953, 75) – art. 120.4 ARGP 1958 (Stb. 1957, 547) – art. 119.4 ARRP 1958 (Stb. 1957, 548) – art. 121.5 ARBARP 1967 (Stb, 1967, 391) – art. 119.3 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V, 10 jaar  
+Handeling: het doen van voordracht tot het bij KB benoemen van de (plaatsvervangende) leden van de commissie bedoeld in het Ambtenarenreglement voor de gemeentepolitie en het Ambtenarenreglement voor het Korps Rijkspolitie Grondslag: – art. 93.4 ARGP (Stb. 1953, 74) – art. 93.3 ARRP (Stb. 1953, 75) – art. 120.4 ARGP 1958 (Stb. 1957, 547) – art. 119.4 ARRP 1958 (Stb. 1957, 548) – art. 121.5 ARBARP 1967 (Stb, 1967, 391) – art. 119.3 ARRP 1975 (Stb. 1977, 172) Periode: 1953–1993 Waardering: V, 10 jaar 
 
 #### *11. E: Actor onder de zorg van de Minister van Defensie* 
 
@@ -3738,13 +3738,13 @@ Handeling: het doen van voordracht tot het bij KB benoemen van de (plaatsvervang
 
 ###1.
 
-Handeling: het voorbereiden, mede-vaststellen, coördineren en evalueren van beleid inzake de politie Periode: 1945–1993 Product: bijvoorbeeld: beleidsnota’s, beleidsnotities, rapporten, adviezen, evaluaties. Waardering: B1  
+Handeling: het voorbereiden, mede-vaststellen, coördineren en evalueren van beleid inzake de politie Periode: 1945–1993 Product: bijvoorbeeld: beleidsnota’s, beleidsnotities, rapporten, adviezen, evaluaties. Waardering: B1 
 
 #### *11.1.1.2 Totstandkoming regelgeving* 
 
 ###4.
 
-Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B1  
+Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie Periode: 1945–1993 Waardering: B1 
 
 #### *11.1.1.3 Verantwoording van beleid* 
 
@@ -3759,19 +3759,19 @@ Handeling: het beantwoorden van kamervragen en het anderszins op verzoek inciden
 Handeling: het verstrekken van informatie aan de Commissies voor de Verzoekschriften van de Staten Generaal, aan overige kamercommissies en aan de Nationale Ombudsman naar aanleiding van klachten van burgers inzake ontwikkelingen betreffende de politie Periode: 1945–1993 Product: brieven, notities Waardering: B5 
 ###8.
 
-Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5  
+Handeling: het beslissen op beroepschriften naar aanleiding van beschikkingen inzake de politie en het voeren van verweer in beroepschriftenprocedures voor de Raad van State en/of de kantonrechter Periode: 1945–1993 Waardering: B5 
 
 #### *11.1.1.4 Internationaal beleid* 
 
 ###9.
 
-Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Producten: internationale regelingen, nota’s, notities, rapporten Opmerking: Voor handelingen voortvloeiend uit de regelingen op het terrein van de internationale politiële samenwerking zij verwezen naar paragraaf 3.2.5 van deel 2. Waardering: B5  
+Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties Periode: 1945–1993 Producten: internationale regelingen, nota’s, notities, rapporten Opmerking: Voor handelingen voortvloeiend uit de regelingen op het terrein van de internationale politiële samenwerking zij verwezen naar paragraaf 3.2.5 van deel 2. Waardering: B5 
 
 #### *11.1.1.5 Informatieverstrekking* 
 
 ###10.
 
-Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Product: brieven, notities Waardering: V, 3 jaar  
+Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie Periode: 1945–1993 Product: brieven, notities Waardering: V, 3 jaar 
 
 #### *11.1.1.6 Onderzoek* 
 
@@ -3780,7 +3780,7 @@ Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en ins
 Handeling: het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de politie Periode: 1945–1993 Product: nota’s, notities, onderzoeksrapporten Waardering: Vaststellingsbesluit en eindrapport: B1 Overig: V, 10 jaar na afronding onderzoek 
 ###12.
 
-Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Product: nota’s, notities Waardering: V, 10 jaar na afronding onderzoek  
+Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie Periode: 1945–1993 Product: nota’s, notities Waardering: V, 10 jaar na afronding onderzoek 
 
 #### *11.1.2 Organisatie en beheer* 
 
@@ -3789,7 +3789,7 @@ Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoe
 Handelingen voortvloeiend uit de regelingen op grond van artikel 4 Politiebesluit en de artikelen 4.2, 6.2, 10.2 en 22.2 Politiewet. 
 ###208.
 
-Handeling: het, in overeenstemming met de Minister van Justitie en de Minister van Binnenlandse Zaken, bepalen van categorieën van personen behorend tot zee-, land,- of luchtmacht die kunnen worden aangeworven als vrijwilliger van respectievelijk reserve-rijkspolitie en reserve-gemeentepolitie Grondslag: art. 4.1d en 40d Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1964–1993 Waardering: B4  
+Handeling: het, in overeenstemming met de Minister van Justitie en de Minister van Binnenlandse Zaken, bepalen van categorieën van personen behorend tot zee-, land,- of luchtmacht die kunnen worden aangeworven als vrijwilliger van respectievelijk reserve-rijkspolitie en reserve-gemeentepolitie Grondslag: art. 4.1d en 40d Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1964–1993 Waardering: B4 
 
 #### *11.1.3 Taak & Bevoegdheden* 
 
@@ -3811,7 +3811,7 @@ Handeling: het voordragen tot Algemene Maatregelen van Bestuur waarbij personen 
 Handeling: het geven van opdracht aan de Koninklijke marechaussee tot het verrichten van beveiligingswerkzaamheden ten behoeve van de Nederlandse bank NV Grondslag: – art. 32.1f Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij Wet 14-12-1988 (Stb. 576) en vernummerd tot art. 32.1g bij wet van 8 november 1993 (Stb. 1993, 588) – art. 1.8 Takenbesluit Koninklijke marechaussee (Stb. 1954, 45), zoals bijgevoegd bij besluit van 12 september 1968 (Stb. 470) Periode: 1988–1993 Waardering: V, 10 jaar 
 ###462.
 
-Handeling: het overleggen met de Ministers van Justitie en van Binnenlandse Zaken inzake de voordracht tot het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van een ambtsinstructie voor de politie Grondslag: art. 34.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Waardering: B5  
+Handeling: het overleggen met de Ministers van Justitie en van Binnenlandse Zaken inzake de voordracht tot het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van een ambtsinstructie voor de politie Grondslag: art. 34.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Waardering: B5 
 
 #### *11.1.3.2 Handelingen om de orde strafrechtelijk te handhaven* 
 
@@ -3825,7 +3825,7 @@ Handeling: het bepalen van de gevallen waarin de (onder)officieren van de Konink
 Handeling: het aanwijzen van andere militairen van de Koninklijke Marechaussee dan (onder)officieren om strafbare feiten op te sporen in door de Ministers van Justitie en van Defensie te bepalen gevallen Grondslag: art. 141.6 Wetboek van Strafvordering (Stb. 1921, 14) Periode: 1945–1994 Product: – Aanwijzingsbeschikking opsporingsambtenaren en hulpofficieren van Justitie (Stcrt. 1958, 1) – Aanwijzingsbeschikking opsporingsambtenaren politie en marechaussee 1982 (Stcrt. 1981, 251) Waardering: V, 10 jaar 
 ###495.
 
-Handeling: het overeenstemmen met de Minister van Justitie over de aanwijzing van een onderofficier van de Koninklijke Marechaussee tot hulpofficier van Justitie Grondslag: art. 154.6 Wetboek van Strafvordering (Stb. 1921, 14) Periode: 1945–1994 Waardering: V, 5 jaar  
+Handeling: het overeenstemmen met de Minister van Justitie over de aanwijzing van een onderofficier van de Koninklijke Marechaussee tot hulpofficier van Justitie Grondslag: art. 154.6 Wetboek van Strafvordering (Stb. 1921, 14) Periode: 1945–1994 Waardering: V, 5 jaar 
 
 #### *11.1.4 Verlenen van bijstand* 
 
@@ -3845,20 +3845,20 @@ Handeling: het op vordering van het bevoegd gezag, in het kader van de strafrech
 Handeling: het instemmen met de Minister van Justitie inzake de bepaling van de wijze waarop in bijzondere gevallen door de Koninklijke Marechaussee bijstand wordt verleend voor de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen Grondslag: art. 50a Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576) Periode: 1988–1993 Waardering: B5 
 ###548.
 
-Handeling: het overeenstemmen met Procureur-Generaal over de aanwijzing van militairen van de Koninklijke marechaussee om in bijzondere gevallen bijstand te verlenen aan de politie ter opsporing van strafbare feiten Grondslag: art. 1.2 of 2.3 Beschikking Opsporingsbijstand Marechaussee (Stcrt. 1989, 222) Periode: 1989–1993 Waardering: B5  
+Handeling: het overeenstemmen met Procureur-Generaal over de aanwijzing van militairen van de Koninklijke marechaussee om in bijzondere gevallen bijstand te verlenen aan de politie ter opsporing van strafbare feiten Grondslag: art. 1.2 of 2.3 Beschikking Opsporingsbijstand Marechaussee (Stcrt. 1989, 222) Periode: 1989–1993 Waardering: B5 
 
 #### *12. F: VakMinister* 
 
 ###214.
 
-Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake de aanwijzing van een bewakingskern Grondslag: art. 2.1b en c Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1964–1993 Waardering: V, 10 jaar na aanwijzing  
+Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake de aanwijzing van een bewakingskern Grondslag: art. 2.1b en c Rechtstoestandregeling reservepolitie (Stb. 1964, 473) Periode: 1964–1993 Waardering: V, 10 jaar na aanwijzing 
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####Overzicht van commissies
 
 | Naam commissie  | Jaar oprichting  | Jaar opheffing  | Bijzonderheden  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | Adviescommissie  | 18-8-1977  | Onbekend  | Advies betreffende het stellen van een koopsom voor het door de overheid in eigendom overnemen van de bij het politiepersoneel aanwezige dienstkleding  |
 | Adviescommissie bewapening en daarmee samenhangende uitrusting van het Korps Rijkspolitie  | 15-3-1972  | Onbekend  | --- |
 | Adviescommissie herziening  | 12-3-1991  | Onbekend  | --- |

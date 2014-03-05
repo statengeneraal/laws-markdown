@@ -8,28 +8,28 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken en de onder hem ressorterende actoren op het beleidsterrein Arbeidsomstandigheden over de periode 1999–2004 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken en de onder hem ressorterende actoren op het beleidsterrein Arbeidsomstandigheden over de periode 1999–2004’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst. 
 
 Den Haag 
 28 april 2008   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 wnd. algemene rijksarchivaris, 
-P.Brood 
+P. Brood   
 
 De 
-Minister van Economische Zaken, namens deze: de 
+Minister van Economische Zaken, namens deze:de 
 project directeur, Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der  Kooij    
 
 ####Basisselectiedocument beleidsterrein arbeidsomstandigheden
 
-*1940–1993*   *1-ste actualisatie 1994–1998*   *2-de actualisatie 1999–2004*   Ministerie van Sociale Zaken en Werkgelegenheid eindversie april 2008  
+*1940–1993 *   *1-ste actualisatie 1994–1998 *   *2-de actualisatie 1999–2004 *    Ministerie van Sociale Zaken en Werkgelegenheid   eindversie april 2008   
 
 ####1 Inleiding
 
@@ -37,7 +37,7 @@ Het PIVOT-rapport institutioneel onderzoek op het beleidsterrein arbeidsomstandi
 
 #### *1.1 Hoofdlijnen van het handelen op het beleidsterrein arbeidsomstandigheden* 
 
-PIVOT definieert hoofdlijnen van het handelen als: doelstellingen van de overheid binnen de kaders van een beleidsterrein. De taken van het ministerie van Sociale Zaken en Werkgelegenheid liggen op het terrein van arbeid en inkomen. Eén van de beleidsterreinen binnen deze taakgebieden wordt gevormd door het arbeidsomstandighedenbeleid. De hoofdlijnen van het handelen van de rijksoverheid op het beleidsterrein arbeidsomstandigheden zijn het beschermen tegen lichamelijke en geestelijke schade van werknemers ten gevolge van de arbeid en het bevorderen van hun welbevinden. Dit heeft geresulteerd in regelingen aangaande de arbeidstijden en in regelingen tegen de gevaren van de arbeid zelf, hetzij door de oorzaken ervan weg te nemen, hetzij door een bijzondere bescherming te bieden.  
+PIVOT definieert hoofdlijnen van het handelen als: doelstellingen van de overheid binnen de kaders van een beleidsterrein. De taken van het ministerie van Sociale Zaken en Werkgelegenheid liggen op het terrein van arbeid en inkomen. Eén van de beleidsterreinen binnen deze taakgebieden wordt gevormd door het arbeidsomstandighedenbeleid. De hoofdlijnen van het handelen van de rijksoverheid op het beleidsterrein arbeidsomstandigheden zijn het beschermen tegen lichamelijke en geestelijke schade van werknemers ten gevolge van de arbeid en het bevorderen van hun welbevinden. Dit heeft geresulteerd in regelingen aangaande de arbeidstijden en in regelingen tegen de gevaren van de arbeid zelf, hetzij door de oorzaken ervan weg te nemen, hetzij door een bijzondere bescherming te bieden. 
 
 #### *1.2 Actoren* 
 
@@ -51,11 +51,11 @@ Het beleid inzake arbeidsomstandigheden en de uitvoering ervan heeft sinds 1940 
 
 – andere ministers die een bijdrage leveren op het beleidsterrein arbeidsomstandigheden waarvoor de minister van Sociale Zaken en Werkgelegenheid de eerste verantwoordelijkheid draagt;  
 
-– interdepartementale en externe overleg- en adviescommissies die door de minister van Sociale Zaken en Werkgelegenheid zijn ingesteld en waarvan het voorzitterschap en/of het secretariaat bij deze minister berust.    
+– interdepartementale en externe overleg- en adviescommissies die door de minister van Sociale Zaken en Werkgelegenheid zijn ingesteld en waarvan het voorzitterschap en/of het secretariaat bij deze minister berust.   
 
 #### *1.3 Doelstellingen van de selectie* 
 
-De selectie richt zich op organen van de overheid, voor zover deze vallen onder de werking (van de artikelen 5, 13 en 37 van de Archiefwet 1962, Stb. 313) van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), Stb. 277. Het hoofddoel van de selectie is een scheiding aan te brengen tussen archiefbescheiden die in aanmerking komen voor overbrenging naar het Algemeen Rijksarchief door het overheidsorgaan dat deze gegevens beheert, en archiefbescheiden die hiervoor niet in aanmerking komen. De archiefbescheiden die bewaard worden, moeten een ‘reconstructie van het overheidshandelen op hoofdlijnen ten opzicht van de omgeving’ mogelijk maken. Deze selectiedoelstelling wordt geoperationaliseerd binnen het beleidsterrein arbeidsomstandigheden. De handelingen van de verschillende (rijksoverheid)actoren op dit terrein worden geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie is derhalve aan de orde welke bescheiden, behorende bij welke handeling, berustende bij welke actor, overgebracht dienen te worden ten einde het handelen van de rijksoverheid met betrekking tot de arbeidsomstandigheden op hoofdlijnen te kunnen reconstrueren.  
+De selectie richt zich op organen van de overheid, voor zover deze vallen onder de werking (van de artikelen 5, 13 en 37 van de Archiefwet 1962, Stb. 313) van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), Stb. 277. Het hoofddoel van de selectie is een scheiding aan te brengen tussen archiefbescheiden die in aanmerking komen voor overbrenging naar het Algemeen Rijksarchief door het overheidsorgaan dat deze gegevens beheert, en archiefbescheiden die hiervoor niet in aanmerking komen. De archiefbescheiden die bewaard worden, moeten een ‘reconstructie van het overheidshandelen op hoofdlijnen ten opzicht van de omgeving’ mogelijk maken. Deze selectiedoelstelling wordt geoperationaliseerd binnen het beleidsterrein arbeidsomstandigheden. De handelingen van de verschillende (rijksoverheid)actoren op dit terrein worden geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie is derhalve aan de orde welke bescheiden, behorende bij welke handeling, berustende bij welke actor, overgebracht dienen te worden ten einde het handelen van de rijksoverheid met betrekking tot de arbeidsomstandigheden op hoofdlijnen te kunnen reconstrueren. 
 
 #### *1.4 Criteria voor de selectie* 
 
@@ -75,31 +75,31 @@ De selectiecriteria zijn zodanig geformuleerd dat is aangegeven van welke handel
 
 7. Uitvoerende handelingen die direct zijn gerelateerd aan en/of direct voortvloeien uit voor Nederland bijzondere tijdsomstandigheden en incidenten   Sinds medio 1997 worden de volgende onderstaande nieuwe criteria voor de selectie toegepast. Deze criteria zijn toegepast op de nieuwe handelingen vanaf 966. 
 
-1. handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan: agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.  
+1. handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan: agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.  
 
-2. handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid.  
+2. handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid.  
 
-3. handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren. *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.  
+3. handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren.  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.  
 
-4. handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.  
+4. handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.  
 
-5. handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt. *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  
+5. handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt.  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  
 
-6. handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten. *Toelichting:* Bijvoorbeeld in het geval dat de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.    
+6. handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten.  *Toelichting:* Bijvoorbeeld in het geval dat de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.   
 
 ####2 Selectielijst
 
 #### *2.1 Algemeen* 
 
-De selectielijst is ingedeeld naar actor. De gegevensblokken uit de selectielijst (BSD) zijn doorlopend genummerd. Daarnaast is het corresponderende nummer van het gegevensblok uit de handelingenlijst (IO) gegeven, aldus blijft er een relatie gehandhaafd tussen de beide lijsten. De nieuwe handelingen kennen slechts één nummer. Dit nummer komt ook in het rapport institutioneel onderzoek terug. De afkorting ‘B’ staat voor ‘bewaren’, d.i. na afloop van de overbrengingstermijn krachtens de [Archiefwet](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) overdragen aan de Rijksarchiefdienst. Achter de handelingen die met een ‘B’ zijn gewaardeerd, staat door middel van een cijfer aangegeven op grond van welk selectiecriterium die handeling met een ‘B’ is gewaardeerd. Dit cijfer correspondeert met één van de zes selectiecriteria zoals die in paragraaf 1.4 zijn verwoord. De afkorting ‘V’ staat voor vernietigen, waarbij tevens is vermeld na afloop van welke termijn de bescheiden die uit de betreffende handeling voortvloeien kunnen worden vernietigd. De termijnen zijn ingevuld op grond van informatie uit bestaande vernietigingslijsten van het ministerie van Sociale Zaken en Werkgelegenheid en gesprekken met vertegenwoordigers van het juridische en administratieve belang bij dit ministerie. Bij het item produkt is zoveel als mogelijk het juridischbestuurlijke niveau aangegeven waarin de handeling heeft geresulteerd (wetten, amvb’s, regelingen en diverse soorten beschikkingen). Eén en ander is vooral bedoeld als hulpmiddel bij de institutionele selectie. Indien de aard van de documentaire neerslag waarin een handeling heeft geresulteerd niet duidelijk was, is dit item niet gegeven. Bij handelingen van de minister van SZW die met een V gewaardeerd zijn, is de periode waarvoor deze selectie geldt, gesteld op 1945–1998. Door middel van haakjes kan worden aangegeven dat een handeling ook in de voorafgaande periode werd uitgevoerd, bijvoorbeeld: Periode: (1940) 1945–1969 De archiefbescheiden die betrekking hebben op de periode 1940–1945 en die gewaardeerd zijn met een ‘V’ zullen ook worden beoordeeld op een directe relatie met die bijzondere omstandigheden uit deze periode. Indien deze relatie bestaat, wordt aan deze bescheiden de waardering ‘B 6’ toegekend. Omdat iedere minister algemeen voorkomende handelingen verricht, hebben PIVOT-medewerkers van de Rijksarchiefdienst gewerkt aan het opstellen van een overzicht van algemene handelingen. Begin 1998 is dit overzicht vastgesteld. Eén van de gevolgen daarvan is, dat voortaan de algemene handeling ‘het beslissen op beroepschriften … en het voeren van verweer in beroepschriftprocedures …’ de waardering ‘Bewaren’ krijgt. Omdat de Rijksarchiefdienst de voorkeur heeft voor één algemene handeling, zijn alle daarvoor in aanmerking komende handelingen per 1999 (gerekend vanaf februari 1999) vervallen en ingebracht in de bestaande handeling 11 met de opmerking:’ Na overleg met het Algemeen Rijksarchief is deze handeling omgezet in een B, te rekenen vanaf februari 1999’. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+De selectielijst is ingedeeld naar actor. De gegevensblokken uit de selectielijst (BSD) zijn doorlopend genummerd. Daarnaast is het corresponderende nummer van het gegevensblok uit de handelingenlijst (IO) gegeven, aldus blijft er een relatie gehandhaafd tussen de beide lijsten. De nieuwe handelingen kennen slechts één nummer. Dit nummer komt ook in het rapport institutioneel onderzoek terug. De afkorting ‘B’ staat voor ‘bewaren’, d.i. na afloop van de overbrengingstermijn krachtens de [Archiefwet ](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md)overdragen aan de Rijksarchiefdienst. Achter de handelingen die met een ‘B’ zijn gewaardeerd, staat door middel van een cijfer aangegeven op grond van welk selectiecriterium die handeling met een ‘B’ is gewaardeerd. Dit cijfer correspondeert met één van de zes selectiecriteria zoals die in paragraaf 1.4 zijn verwoord.  De afkorting ‘V’ staat voor vernietigen, waarbij tevens is vermeld na afloop van welke termijn de bescheiden die uit de betreffende handeling voortvloeien kunnen worden vernietigd. De termijnen zijn ingevuld op grond van informatie uit bestaande vernietigingslijsten van het ministerie van Sociale Zaken en Werkgelegenheid en gesprekken met vertegenwoordigers van het juridische en administratieve belang bij dit ministerie. Bij het item produkt is zoveel als mogelijk het juridischbestuurlijke niveau aangegeven waarin de handeling heeft geresulteerd (wetten, amvb’s, regelingen en diverse soorten beschikkingen). Eén en ander is vooral bedoeld als hulpmiddel bij de institutionele selectie. Indien de aard van de documentaire neerslag waarin een handeling heeft geresulteerd niet duidelijk was, is dit item niet gegeven. Bij handelingen van de minister van SZW die met een V gewaardeerd zijn, is de periode waarvoor deze selectie geldt, gesteld op 1945–1998. Door middel van haakjes kan worden aangegeven dat een handeling ook in de voorafgaande periode werd uitgevoerd, bijvoorbeeld: Periode: (1940) 1945–1969 De archiefbescheiden die betrekking hebben op de periode 1940–1945 en die gewaardeerd zijn met een ‘V’ zullen ook worden beoordeeld op een directe relatie met die bijzondere omstandigheden uit deze periode. Indien deze relatie bestaat, wordt aan deze bescheiden de waardering ‘B 6’ toegekend. Omdat iedere minister algemeen voorkomende handelingen verricht, hebben PIVOT-medewerkers van de Rijksarchiefdienst gewerkt aan het opstellen van een overzicht van algemene handelingen. Begin 1998 is dit overzicht vastgesteld. Eén van de gevolgen daarvan is, dat voortaan de algemene handeling ‘het beslissen op beroepschriften … en het voeren van verweer in beroepschriftprocedures …’ de waardering ‘Bewaren’ krijgt. Omdat de Rijksarchiefdienst de voorkeur heeft voor één algemene handeling, zijn alle daarvoor in aanmerking komende handelingen per 1999 (gerekend vanaf februari 1999) vervallen en ingebracht in de bestaande handeling 11 met de opmerking:’ Na overleg met het Algemeen Rijksarchief is deze handeling omgezet in een B, te rekenen vanaf februari 1999’. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 #### *2.2 Vaststelling van de selectielijst tot en met 1998* 
 
-Op 23 juni 1999 is het geactualiseerde ontwerp-BSD door de Secretaris-Generaal van het Ministerie van SZW aan de Staatssecretaris van O, C & W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Tijdens het driehoeksoverleg was namens het Koninklijk Nederlands Historisch Genootschap ook een deskundige op het beleidsterrein aanwezig. Van andere (historische) organisaties of individuele burgers is geen commentaar ontvangen. In de vergadering d.d. 28 september 1999 van de Uitvoerings-commissie Archieven van de RvC is het ontwerp-BSD behandeld, waarbij ook het verslag van het driehoeksoverleg bij de voorbereiding van het advies is/zijn meegenomen. Op 17 december 1999 bracht de RvC advies uit (kenmerk arc-99.1301/2, hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 27 september 2000 door de Algemeen Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de minister van Sociale Zaken en Werkgelegenheid vastgesteld (kenmerk [R&B/OSTA/2000/1547](../../../../../../../../../ministeriele-regeling-archiefselectielijst/aanvulling/selectielijst/arbeidsomstandigheden/1994-1998/BWBR0011666/README.md)). Het BSD werd eind 2000 gepubliceerd in Staatscourant 234 (Stcrt. 2000, 234).  
+Op 23 juni 1999 is het geactualiseerde ontwerp-BSD door de Secretaris-Generaal van het Ministerie van SZW aan de Staatssecretaris van O, C & W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Tijdens het driehoeksoverleg was namens het Koninklijk Nederlands Historisch Genootschap ook een deskundige op het beleidsterrein aanwezig. Van andere (historische) organisaties of individuele burgers is geen commentaar ontvangen. In de vergadering d.d. 28 september 1999 van de Uitvoerings-commissie Archieven van de RvC is het ontwerp-BSD behandeld, waarbij ook het verslag van het driehoeksoverleg bij de voorbereiding van het advies is/zijn meegenomen. Op 17 december 1999 bracht de RvC advies uit (kenmerk arc-99.1301/2, hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 27 september 2000 door de Algemeen Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de minister van Sociale Zaken en Werkgelegenheid vastgesteld (kenmerk [R&B/OSTA/2000/1547](../../../../../../../../../ministeriele-regeling-archiefselectielijst/aanvulling/selectielijst/arbeidsomstandigheden/1994-1998/BWBR0011666/README.md)). Het BSD werd eind 2000 gepubliceerd in Staatscourant 234 (Stcrt. 2000, 234). 
 
 #### *2.3 Vaststelling van de selectielijst tot en met 2004* 
 
-In december 2005 (officieel op 8 maart 2006) is het geactualiseerde ontwerp-BSD over de periode 1999–2004 door de Secretaris-Generaal van het Ministerie van SZW aan de Staatssecretaris van O, C & W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Tijdens het driehoeksoverleg was ook een deskundige op het beleidsterrein aanwezig. Van andere (historische) organisaties of individuele burgers is geen commentaar ontvangen. In de vergadering d.d. 30 januari 2008 van de Uitvoerings-commissie Archieven van de RvC is het ontwerp-BSD behandeld, waarbij ook het verslag van het driehoeksoverleg bij de voorbereiding van het advies is/zijn meegenomen. Op 7 februari 2008 bracht de RvC advies uit (kenmerk bca-2007.043162) hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 28 april door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de Project Directeur Project Wegwerken Archiefachterstanden namens de ministers van Sociale Zaken en Werkgelegenheid ([C/S&A/08/661](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023931/README.md)), Verkeer en Waterstaat ([C/S&A/08/662](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023933/README.md)), Volksgezondheid, Welzijn en Sport ([C/S&A/08/664](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023934/README.md)), Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/08/1015](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023930/README.md)), Defensie ([C/S&A/08/1016](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023935/README.md)) en Economische Zaken (C/S&A/08/1017) vastgesteld.  
+In december 2005 (officieel op 8 maart 2006) is het geactualiseerde ontwerp-BSD over de periode 1999–2004 door de Secretaris-Generaal van het Ministerie van SZW aan de Staatssecretaris van O, C & W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Tijdens het driehoeksoverleg was ook een deskundige op het beleidsterrein aanwezig. Van andere (historische) organisaties of individuele burgers is geen commentaar ontvangen. In de vergadering d.d. 30 januari 2008 van de Uitvoerings-commissie Archieven van de RvC is het ontwerp-BSD behandeld, waarbij ook het verslag van het driehoeksoverleg bij de voorbereiding van het advies is/zijn meegenomen. Op 7 februari 2008 bracht de RvC advies uit (kenmerk bca-2007.043162) hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 28 april door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de Project Directeur Project Wegwerken Archiefachterstanden namens de ministers van Sociale Zaken en Werkgelegenheid ([C/S&A/08/661](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023931/README.md)), Verkeer en Waterstaat ([C/S&A/08/662](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023933/README.md)), Volksgezondheid, Welzijn en Sport ([C/S&A/08/664](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023934/README.md)), Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/08/1015](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023930/README.md)), Defensie ([C/S&A/08/1016](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023935/README.md)) en Economische Zaken (C/S&A/08/1017) vastgesteld. 
 
 ####3 Actoren
 
@@ -114,7 +114,7 @@ In december 2005 (officieel op 8 maart 2006) is het geactualiseerde ontwerp-BS
 Handeling: Het voorbereiden van, deelnemen aan en rapporteren over vergaderingen van overleg- en bestuursvergaderingen van internationale organisaties omtrent arbeidsomstandighedenaangelegenheden. Product: verslagen, notulen, notities, rapporten Periode: 1940– Grondslag: – Waardering: B (1) 
 ###2
 
-Handeling: Het implementeren van internationale regels aangaande arbeidsomstandigheden in bestaande of nieuwe regelgeving op nationaal niveau. Product: (Aangepaste) nationale wet- en regelgeving bijvoorbeeld: SZW-lijst van mutagene stoffen Stcrt. 2004, 170 Periode: 1940– Grondslag: Europese verdragen waaronder:Conventies van de International Labour Organisation, het Europees Sociaal Handvest, EG-richtlijnen Waardering: B (1) 
+Handeling: Het implementeren van internationale regels aangaande arbeidsomstandigheden in bestaande of nieuwe regelgeving op nationaal niveau. Product: (Aangepaste) nationale wet- en regelgeving bijvoorbeeld: SZW-lijst van mutagene stoffen Stcrt. 2004, 170 Periode: 1940– Grondslag: Europese verdragen waaronder:Conventies van de International Labour Organisation, het Europees Sociaal Handvest, EG-richtlijnen  Waardering: B (1) 
 ###1070
 
 Handeling: Het aanwijzen van instanties die certificaten van overeenstemming en controlecertificaten met betrekking tot een type van elektrisch materieel mogen afgeven. Product: Aanwijzing NV KEMA (Stcrt. 1995, 100) Periode: 1995–2003 Grondslag: Regeling elektrisch materieel bestemd voor gebruik in ‘explosieve omgeving’ (Stcrt. 1995, 81, gewijzigd Stcrt. 1997, 229) artikel 2, Besluit elektrisch explosieveilig materieel (Stcrt. 1995, 100) artikel 2, vervallen per 1 juli 2003 Waardering: V Termijn: 1 jaar na geldigheidsduur (van de aanwijzing) 
@@ -126,7 +126,7 @@ Handeling: Het rapporteren over de implementatie van internationale regels in be
 Handeling: Het notificeren van nieuwe nationale wetgeving op het terrein van arbeidsomstandigheden aan de EG (‘Brussel’) alsmede aan de afzonderlijke lidstaten. Product: bijvoorbeeld: Wet van 27 maart 1999, houdende goedkeuring van het op 24 juni 1986 te Genève tot stand gekomen Verdrag betreffende veiligheid bij het gebruik van asbest (Verdrag nr. 162 aangenomen door de Internationale Arbeidsconferentie in haar tweeënzeventigste zitting) (Stb. 1999, 186) Periode: 1957– Grondslag: EEG-verdrag Waardering: B (2) 
 ###1100
 
-Handeling: Het in internationaal verband samenwerken en/of deelnemen aan activiteien ter verbetering van de arbeidsomstandigheden Product: notities, rapportages Periode: ca. 1990– Grondslag: Tweede Kamerstukken 23 125, diverse jaargangen, Nota herijken internationaalbeleid Arbeidsinspectie, januari 2005, blz. 3, Jaarplan Directie Arbeidsomstandigheden 2006, blz. vii Waardering: B (5)  
+Handeling: Het in internationaal verband samenwerken en/of deelnemen aan activiteien ter verbetering van de arbeidsomstandigheden Product: notities, rapportages Periode: ca. 1990– Grondslag: Tweede Kamerstukken 23 125, diverse jaargangen, Nota herijken internationaalbeleid Arbeidsinspectie, januari 2005, blz. 3, Jaarplan Directie Arbeidsomstandigheden 2006, blz. vii Waardering: B (5) 
 
 #### *3.1.2 Algemene handelingen* 
 
@@ -168,7 +168,7 @@ Handeling: Het deelnemen aan advies- en overlegcommissies waarvan het voorzitter
 Handeling: Het voeren van overleg met vakministers en organisaties van werkgevers en werknemers omtrent arbeidsomstandighedenaangelegenheden. Product: verslagen, notulen, convenants, intentieverklaringen onder meer: – Convenant gevelonderhoud (Stcrt. 1999, 28) – Convenant arbeidsomstandigheden kinderopvang (Stcrt. 2000, 5) – Deelconvenant Arbo- en verzuimbeleid psychische belasting (werkdruk) Hoger Onderwijs en Wetenschappelijk Onderzoek (Stcrt. 2001, 16) – Deelconvenant Preventie psychische belasting (werkdruk) primair en voortgezet onderwijs (Stcrt. 2001, 16) – Convenant Arbo- en Verzuimbeleid Onderwijs en Wetenschappen (Stcrt. 2001, 16) – Intentieverklaring Arbocovenanten Bitumineuze- en Kunststofdakbedekking (Stcrt. 2001, 23) – Stcrt. 2001, 103, 114 (2×) – Convenant arbeidsomstandigheden kinderopvang (Stcrt. 2001, 188) – Arboconvenant kappersbranche, inzake fysieke belasting, allergene belasting en vroege reïntegratie (Stcrt. 2002, 5) – Arboconvenant wonenbranch (Stcrt. 2002, 242) – Arboplusconvenant Onderwijs, Sector beroepsonderwijs en Volwasseneducatie (Stcrt. 2004, 254) Periode: 1940– Grondslag: – Waardering: B (1) 
 ###602
 
-Handeling: Het opstellen van de Publikatie- en Voorlichtingsbladen van de Arbeidsinspectie (t/m1994)/het opstellen van beleidsregels en informatiebladen (sinds1995). Product: – P- en V-bladen – beleidsregels (bijlage bij de Stcrt. 1997, 120, gewijzigd o.a. Stcrt.1998, 64, 167, 233 en herplaatst Stcrt.1998, 126, gewijzigd Stcrt. 1999, 36, 139, Stcrt. 2000, 233, Stcrt. 2001, 102, Stcrt. 2001, 138 Besluit vaststelling beleidsregel met betrekking tot het Besluit liften, Stcrt. 1999, 120, gewijzigd Stcrt. 2000, 46, 56) – informatiebladen Periode: 1995– Grondslag: – Waardering: B (4) 
+Handeling: Het opstellen van de Publikatie- en Voorlichtingsbladen van de Arbeidsinspectie (t/m1994)/het opstellen van beleidsregels en informatiebladen (sinds1995). Product: – P- en V-bladen – beleidsregels (bijlage bij de Stcrt. 1997, 120, gewijzigd o.a. Stcrt.1998, 64, 167, 233 en herplaatst Stcrt.1998, 126, gewijzigd Stcrt. 1999, 36, 139, Stcrt. 2000, 233, Stcrt. 2001, 102, Stcrt. 2001, 138  Besluit vaststelling beleidsregel met betrekking tot het Besluit liften, Stcrt. 1999, 120, gewijzigd Stcrt. 2000, 46, 56) – informatiebladen Periode: 1995– Grondslag: – Waardering: B (4) 
 ###966
 
 Handeling: Het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de arbeidsomstandigheden. Product: brieven aan burgers e.d. Periode: (1940) 1945– Grondslag: Grondwet 1887 (Stb. 1887, 212) artikel 8, Grondwet 1983 (Stb. 1983, 22) artikel 5 voorstel: V Termijn: 2 jaar Opmerking: Onder deze handeling valt niet de behandeling van klachten. Zie hiervoor handeling 967. 
@@ -198,7 +198,7 @@ Handeling: Het (in overleg met) instellen van commissies e.d., werkzaam op het t
 Handeling: Het benoemen van de leden van commissies e.d. die werkzaam zijn op het beleidsterrein van de arbeidsomstandigheden Product: onder meer: Benoeming leden en plv.-leden Commissie voor advies inzake bezwaar en beroep (Stcrt. 2000, 68) gewijzigd Stcrt. 2001, 137 b.w. Stcrt. 2001, 206 (opheffing commissie) Periode: 1945– Waardering: V Termijn: 5 jaar na beëindiging functie 
 ###1104
 
-Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999,208) – Aanwijzingsregeling toezichthoudende ambetenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) – Aanwijzingsregeling boeteoplegger SZW-wetgeving 2004 (Stcrt. 2004, 246) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 1 Waardering: V Termijn: 1 jaar na vervallen van de aanwijzing  
+Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999,208) – Aanwijzingsregeling toezichthoudende ambetenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) – Aanwijzingsregeling boeteoplegger SZW-wetgeving 2004 (Stcrt. 2004, 246) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 1 Waardering: V Termijn: 1 jaar na vervallen van de aanwijzing 
 
 #### *3.1.3 Handelingen veiligheid, gezondheid en welzijn* 
 
@@ -405,7 +405,7 @@ Handeling: Het bij amvb bepalen dat zelfstandig werkenden mede verplicht zijn to
 Handeling: Het bij amvb regelen van (door de EEG vastgestelde) verplichtingen van en verboden aan eigenaren, beheerders of degene die kunnen beslissen over onderhoud. Product: Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1988–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 28 (i.w. Stb. 1987, 605), eerste en tweede lid, gewijzigd Stb. 1994, 440, b.w. Stb. 1999, 184 Waardering: B (1) 
 ###1128
 
-Handeling: Het, met betrekking tot categorieën van bedrijven, inrichtingen of arbeidsverhoudingen, verlenen van vrijstelling van de voorschriften krachtens de artikelen 5 en 12 tot en met 18 van de Arbeidsomstandighedenwet 1998 Product: vrijstelling: Stcrt. 1999, 208, Stcrt. 2001, 243 Periode: 1999– Grondslag: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 30, lid 1 Waardering: B (5) 
+Handeling: Het, met betrekking tot categorieën van bedrijven, inrichtingen of arbeidsverhoudingen, verlenen van vrijstelling van de voorschriften krachtens de artikelen 5 en 12 tot en met 18 van de Arbeidsomstandighedenwet 1998 Product: vrijstelling: Stcrt. 1999, 208, Stcrt. 2001, 243 Periode: 1999– Grondslag: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 30, lid 1 Waardering: B (5)  
 ###209
 
 Handeling: Het bij amvb aanwijzen van categorieën van arbeid die pas mogen aanvangen nadat de betrokken werkgevers schriftelijk hebben vastgelegd hoe zij zullen samenwerken om de Arbowet na te leven. Product: Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1988–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 30 tweede lid (i.w. Stb. 1987, 605), b.w. Stb. 1999, 184 Waardering: B (1) 
@@ -486,13 +486,13 @@ Handeling: Het goedkeuren van voorschriften die door een gemeente zijn opgesteld
 Handeling: Het opstellen van een verslag voor de Staten-Generaal over de doeltreffendheid en doelmatigheid van het certificeren door de aangewezen instellingen Product: verslag Periode: 1999– Grondslag: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 47 Waardering: B (3) 
 ###211
 
-Handeling: Het goedkeuren van voorschriften van de gemeenteraad omtrent onderwerpen van plaatselijke aard betrekking hebbende op veiligheid, gezondheid en welzijn, maar niet geregeld in één der uitvoeringsbesluiten. Product: Periode: 1940–1999 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 37 eerste lid; Arbeidsomstandighedenwet (Stb. 1980, 664) art. 58 eerste lid, gewijzigd Stb. 1993, 610 art. 58, b.w. Stb. 1999, 184 Waardering: B (5)  
+Handeling: Het goedkeuren van voorschriften van de gemeenteraad omtrent onderwerpen van plaatselijke aard betrekking hebbende op veiligheid, gezondheid en welzijn, maar niet geregeld in één der uitvoeringsbesluiten. Product: Periode: 1940–1999 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 37 eerste lid; Arbeidsomstandighedenwet (Stb. 1980, 664) art. 58 eerste lid, gewijzigd Stb. 1993, 610 art. 58, b.w. Stb. 1999, 184 Waardering: B (5) 
 
 #### *3.1.3.2 Besluit ongevallenbehandeling bedrijfsgezondheidsdiensten* 
 
 ###63
 
-Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verdere geneeskundige behandeling te geven. Product: beschikking Periode: 1967–1982 Grondslag: Besluit ongevallenbehandeling bedrijfsgeneeskundige diensten (Stb. 1967, 665) art. 2 eerste lid, art. 6 eerste en tweede lid; Besluit ongevallenbehandeling bedrijfsgezondheidsdiensten (Stb. 1982, 405) art. 2 eerste en vierde lid, en art. 6 eerste lid b.w. Stb. 1994, 781 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verdere geneeskundige behandeling te geven. Product: beschikking Periode: 1967–1982 Grondslag: Besluit ongevallenbehandeling bedrijfsgeneeskundige diensten (Stb. 1967, 665) art. 2 eerste lid, art. 6 eerste en tweede lid; Besluit ongevallenbehandeling bedrijfsgezondheidsdiensten (Stb. 1982, 405) art. 2 eerste en vierde lid, en art. 6 eerste lid b.w. Stb. 1994, 781 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.3 Arbeidsomstandighedenbesluit defensie* 
 
@@ -501,19 +501,19 @@ Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verde
 Handeling: Het bij amvb stellen van nadere regels aangaande militaire veiligheidskundige en geneeskundige diensten. Product: Periode: 1985–1997 Grondslag: Arbeidsomstandighedenbesluit defensie (Stb. 1985, 211) art. 9; en zoals gewijzigd Stb. 1987, 604, art. 8a, b.w. Stb. 1997, 60 Waardering: B (4) 
 ###939
 
-Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit defensie. Product: Periode: 1985–1997 Grondslag: Arbeidsomstandighedenbesluit defensie (Stb. 1985, 211) art. 19, b.w. Stb. 1997, 60 Waardering: B (4)  
+Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit defensie. Product: Periode: 1985–1997 Grondslag: Arbeidsomstandighedenbesluit defensie (Stb. 1985, 211) art. 19, b.w. Stb. 1997, 60 Waardering: B (4) 
 
 #### *3.1.3.4 Arbeidsomstandighedenbesluit burgerlijke openbare dienst* 
 
 ###934
 
-Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit burgerlijke openbare dienst. Product: ministeriële regeling Periode: 1985–1997 Grondslag: Arbeidsomstandighedenbesluit burgerlijke openbare dienst (Stb. 1985, 219) art. 11, b.w. Stb. 1997, 60 Waardering: B (4)  
+Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit burgerlijke openbare dienst. Product: ministeriële regeling Periode: 1985–1997 Grondslag: Arbeidsomstandighedenbesluit burgerlijke openbare dienst (Stb. 1985, 219) art. 11, b.w. Stb. 1997, 60 Waardering: B (4) 
 
 #### *3.1.3.5 Asbestbesluit Arbeidsomstandighedenwet* 
 
 ###172
 
-Handeling: Het stellen van nadere regels aangaande werkplannen betreffende maatregelen bij het slopen van gebouwen en dergelijke, waarin asbest of crocidoliet zijn verwerkt. Product: Periode: 1988–1997 Grondslag: Asbestbesluit Arbeidsomstandighedenwet (Stb. 1988, 560) art. 10 vierde lid; zoals vernummerd art. 17b derde lid (Stb. 1991, 685) b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van nadere regels aangaande werkplannen betreffende maatregelen bij het slopen van gebouwen en dergelijke, waarin asbest of crocidoliet zijn verwerkt. Product: Periode: 1988–1997 Grondslag: Asbestbesluit Arbeidsomstandighedenwet (Stb. 1988, 560) art. 10 vierde lid; zoals vernummerd art. 17b derde lid (Stb. 1991, 685) b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.6 Besluit eisen veiligheidsdiensten Arbeidsomstandighedenwet* 
 
@@ -531,25 +531,25 @@ Handeling: Het stellen van nadere regels aangaande de veiligheidskundige (niet) 
 Handeling: Het stellen van nadere regels aangaande de aanwezigheid van het niet-veiligheidskundig personeel en de huisvesting en uitrusting van de (gezamenlijke) veiligheidsdienst. Product: Periode: 1989–1994 Grondslag: Besluit eisen veiligheidsdiensten Arbeidsomstandighedenwet (Stb. 1989, 305) art. 6 tweede lid b.w. Stb. 1994, 781 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###52
 
-Handeling: Het stellen van nadere regels betreffende de wijze waarop aanvragen om erkenning door (gezamenlijke) deskundige diensten moeten worden ingediend. Product: Periode: 1975–1994 Grondslag: Veiligheidswet (1934, 352), zoals gewijzigd (Stb. 1971, 225) art. 20j eerste lid (i.w. Stb. 1975, 43); Besluit erkenning van bedrijfsgezondheidsdiensten (Stb. 1982, 407) art. 2 eerste lid b.w. Stb. 1994, 781; Besluit eisen veiligheidsdiensten Arbeidsomstandighedenwet (Stb. 1989, 305) art. 7 tweede lid b.w. Stb. 1994, 781 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van nadere regels betreffende de wijze waarop aanvragen om erkenning door (gezamenlijke) deskundige diensten moeten worden ingediend. Product: Periode: 1975–1994 Grondslag: Veiligheidswet (1934, 352), zoals gewijzigd (Stb. 1971, 225) art. 20j eerste lid (i.w. Stb. 1975, 43); Besluit erkenning van bedrijfsgezondheidsdiensten (Stb. 1982, 407) art. 2 eerste lid b.w. Stb. 1994, 781; Besluit eisen veiligheidsdiensten Arbeidsomstandighedenwet (Stb. 1989, 305) art. 7 tweede lid b.w. Stb. 1994, 781 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.7 Arbeidsomstandighedenbesluit justitiële rijksinrichtingen* 
 
 ###941
 
-Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandig-hedenbesluit justitiële rijksinrichtingen. Product: Periode: 1990–1997 Grondslag: Arbeidsomstandighedenbesluit justitiële rijksinrichtingen (Stb. 1990, 453) art. 14, b.w. Stb. 1997, 60 Waardering: B (4)  
+Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandig-hedenbesluit justitiële rijksinrichtingen. Product: Periode: 1990–1997 Grondslag: Arbeidsomstandighedenbesluit justitiële rijksinrichtingen (Stb. 1990, 453) art. 14, b.w. Stb. 1997, 60 Waardering: B (4) 
 
 #### *3.1.3.8 Herkeuringsbesluit Arbeidsomstandighedenwet* 
 
 ###206
 
-Handeling: Het stellen van nadere regels omtrent de werkwijze van de Herkeuringscommissie arbeidsomstandighedenwet. Product: Periode: 1992–1997 Grondslag: Herkeuringsbesluit arbeidsomstandighedenwet (Stb. 1992, 90) art. 5 achtste lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van nadere regels omtrent de werkwijze van de Herkeuringscommissie arbeidsomstandighedenwet. Product: Periode: 1992–1997 Grondslag: Herkeuringsbesluit arbeidsomstandighedenwet (Stb. 1992, 90) art. 5 achtste lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.9 Besluit arbodiensten* 
 
 ###993
 
-Handeling: Het bepalen dat andere deskundigheidseisen op de vakgebieden van arbodiensten gelden. Product: ministeriële regeling Periode: 1994–1997 Grondslag: Besluit arbodiensten (Stb. 1994, 781) artikel 2, vijfde lid Waardering: B (5)  
+Handeling: Het bepalen dat andere deskundigheidseisen op de vakgebieden van arbodiensten gelden. Product: ministeriële regeling Periode: 1994–1997 Grondslag: Besluit arbodiensten (Stb. 1994, 781) artikel 2, vijfde lid Waardering: B (5) 
 
 #### *3.1.3.10 Arbeidsomstandighedenbesluit* 
 
@@ -746,7 +746,7 @@ Handeling: Het aanwijzen van instellingen die een certificaat van vakbekwaamheid
 Handeling: Het vaststellen van de vergoeding die voor de afgifte van een certificaat van vakbekwaamheid voor het slopen van asbest en crocidoliet verschuldigd is. Product: vergoedingsregeling (Stcrt. 1997, 63) Periode: 1997–1999 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 4.54, vijfde lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###1024
 
-Handeling: Het certificeren van bedrijven of inrichtingen voor het verrichten van werkzaamheden met zandsteen */* Het afgeven van een certificaat zandsteenbedrijf Product: certificaten */* certificaten zandsteenbedrijf Periode: 1997–2004 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 4.60, vierde lid, gewijzigd Stb. 1999, 435 art. 4.60, lid 3, b.w. Stb. 2004, 486 Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het certificeren van bedrijven of inrichtingen voor het verrichten van werkzaamheden met zandsteen*/*Het afgeven van een certificaat zandsteenbedrijf Product: certificaten*/*certificaten zandsteenbedrijf Periode: 1997–2004 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 4.60, vierde lid, gewijzigd Stb. 1999, 435 art. 4.60, lid 3, b.w. Stb. 2004, 486 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###1025
 
 Handeling: Het aanwijzen van instellingen die een certificaat voor het verrichten van werkzaamheden met zandsteen mogen afgeven. Product: aanwijzingen Periode: 1997–1999 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 4.60, vierde lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 1 jaar na geldigheidsduur 
@@ -820,7 +820,7 @@ Handeling: Het bepalen welke onderzoeken en beproevingen met betrekking tot hijs
 Handeling: Het erkennen van personen, ondernemingen, diensten of instellingen die bevoegd zijn onderzoekingen en beproevingen te verrichten op de door de minister vastgestelde categorieën hijskranen. Product: beschikking – Erkenning stichting Keboma (Stcrt. 1982, 77) Periode: 1982–1999 Grondslag: VBF (Stb. 1938, 872), zoals gewijzigd (Stb. 1977, 52) art. 141, vijfde lid (i.w. Stb. 1982, 177) b.w. Stb. 1997, 60, Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 7.19, negende lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###1038
 
-Handeling: Het vaststellen van criteria met betrekking tot deskundigheid, onafhankelijkheid, uitrusting en organisatie voor keuringsinstanties voor hijskranen */* Het vaststellen van criteria wanneer een certificerende instelling een certificaat van goedkeuring voor een hijskraan kan afgeven Product: Arbeidsomstandighedenregeling (Stcrt. 1997, 63) gewijzigd Stcrt. 1999, 208 Periode: 1997–2003 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 7.19, negende lid, gewijzigd Stb. 1999, 435, art. 7.19, lid 10 b.w. Stb. 2003, 315 Waardering: B (5) 
+Handeling: Het vaststellen van criteria met betrekking tot deskundigheid, onafhankelijkheid, uitrusting en organisatie voor keuringsinstanties voor hijskranen*/*Het vaststellen van criteria wanneer een certificerende instelling een certificaat van goedkeuring voor een hijskraan kan afgeven Product: Arbeidsomstandighedenregeling (Stcrt. 1997, 63) gewijzigd Stcrt. 1999, 208 Periode: 1997–2003 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 7.19, negende lid, gewijzigd Stb. 1999, 435, art. 7.19, lid 10 b.w. Stb. 2003, 315 Waardering: B (5) 
 ###1039
 
 Handeling: Het aanwijzen van instellingen die een certificaat mogen afgeven aan een keuringsinstantie voor hijskranen. Product: aanwijzingen (Stcrt. 1997, 63) Periode: 1997–1999 Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 7.19, negende lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 1 jaar na geldigheidsduur 
@@ -899,7 +899,7 @@ Handeling: Het verlenen van vrijstelling of ontheffing van de verboden krachtens
 
 ###1056/1086
 
-Handeling: Het aanwijzen van investeringen in apparaten of voorzieningen die de arbeidsomstandigheden voor werknemers verbeteren (FARBO-regeling). Product: Arbolijsten, onder andere: Stcrt. 1999, 15, Stcrt. 2001, 248, Stcrt. 2002, 238, Stcrt. 2003, 252 Periode: 1998– Grondslag: Wet op de inkomstenbelasting 1964, Stb. 1964, 519, gewijzigd Stb. 1997, 731) artikel 10, derde lid onder d, Arbeidsomstandighedenregeling (Stcrt. 1997, 63, gewijzigd Stcrt. 1997, 249) artikel 1.17, vernummerd (Stcrt. 1999, 208?) art. 1.16, gewijzigd Stcrt. 2000, 247 Waardering: B (5) Opmerking: Deze handeling gebeurt in overeenstemming met de minister van Financiën  
+Handeling: Het aanwijzen van investeringen in apparaten of voorzieningen die de arbeidsomstandigheden voor werknemers verbeteren (FARBO-regeling). Product: Arbolijsten, onder andere: Stcrt. 1999, 15, Stcrt. 2001, 248, Stcrt. 2002, 238, Stcrt. 2003, 252 Periode: 1998– Grondslag: Wet op de inkomstenbelasting 1964, Stb. 1964, 519, gewijzigd Stb. 1997, 731) artikel 10, derde lid onder d, Arbeidsomstandighedenregeling (Stcrt. 1997, 63, gewijzigd Stcrt. 1997, 249) artikel 1.17, vernummerd (Stcrt. 1999, 208?) art. 1.16, gewijzigd Stcrt. 2000, 247 Waardering: B (5) Opmerking: Deze handeling gebeurt in overeenstemming met de minister van Financiën 
 
 #### *3.1.3.12 Veiligheidswet* 
 
@@ -1019,7 +1019,7 @@ Handeling: Het instellen van het College van Bijstand en advies voor de Bedrijfs
 Handeling: Het benoemen van leden en plaatsvervangende leden van het College van Bijstand en advies voor de Bedrijfsgeneeskunde. Product: beschikking Periode: 1961–1982 Grondslag: Veiligheidswet (Stb. 1934, 352), zoals gewijzigd Stb. 1959, 56 art. 8e eerste lid (i.w. Stb. 1961, 237) Waardering: V Termijn: 10 jaar na aftreden/ontslag 
 ###230
 
-Handeling: Het bij amvb vaststellen van nadere regels omtrent samenstelling, taak en werkwijze van het College van Bijstand en Advies voor de Bedrijfsgeneeskunde. Product: algemene maatregel van bestuur – Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1961, 234; b.w. Stb. 1974, 742); – Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1974, 742; b.w. Stb. 1980, 664) Periode: 1961–1982 Grondslag: Veiligheidswet (Stb. 1934, 352), zoals gewijzigd Stb. 1959, 56 art. 8e achtste lid (i.w. Stb. 1961, 237) Waardering: B (4)  
+Handeling: Het bij amvb vaststellen van nadere regels omtrent samenstelling, taak en werkwijze van het College van Bijstand en Advies voor de Bedrijfsgeneeskunde. Product: algemene maatregel van bestuur – Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1961, 234; b.w. Stb. 1974, 742); – Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1974, 742; b.w. Stb. 1980, 664) Periode: 1961–1982 Grondslag: Veiligheidswet (Stb. 1934, 352), zoals gewijzigd Stb. 1959, 56 art. 8e achtste lid (i.w. Stb. 1961, 237) Waardering: B (4) 
 
 #### *3.1.3.13 Veiligheidsbesluit fabrieken en werkplaatsen (VBF)* 
 
@@ -1145,7 +1145,7 @@ Handeling: Het aanwijzen van instellingen waar opleidingen tot torenkraanbestuur
 Handeling: Het erkennen van instellingen voor opleidingen tot machinist van torenkranen, mobiele kranen of mobiele hei-installaties. Product: beschikking – Beschikking tot erkenning van de Stichting beroepsopleidingen Weg- en waterbouw te Gouda (Stcrt. 1989, 227) b.w. Stcrt. 1995, 65 – Beschikking tot erkenning van de Stichting Beroepsopleidingen Weg- en waterbouw te Gouda (Stcrt. 1995, 65) Periode: 1989–1999 Grondslag: VBF (Stb. 1938, 872), zoals gewijzigd (Stb. 1989, 345) art. 212sexies, tweede lid (i.w. Stb. 1989, 498) b.w. Stb. 1997, 60, Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 7.32, vierde lid, b.w. Stb. 1999, 435 
 ###103
 
-Handeling: Het verlenen van vrijstellingen ten aanzien van voorschriften zoals die in het Veiligheidsbesluit zijn gegeven. Product: vrijstelling Periode: 1940–1982 Grondslag: VBF (Stb. 1938, 872), Stb. 1938, 872, art. 219, eerste en derde lid, gewijzigd: 1977, Stb. 52: art. 219 eerste, tweede en vierde lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen ten aanzien van voorschriften zoals die in het Veiligheidsbesluit zijn gegeven. Product: vrijstelling Periode: 1940–1982 Grondslag: VBF (Stb. 1938, 872), Stb. 1938, 872, art. 219, eerste en derde lid, gewijzigd: 1977, Stb. 52: art. 219 eerste, tweede en vierde lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.14 Elektrotechnisch Veiligheidsbesluit (EVB)* 
 
@@ -1157,13 +1157,13 @@ Handeling: Het verlenen van vrijstellingen van bepaalde voorschriften uit het EV
 Handeling: Het stellen van nadere regels met betrekking tot elektrische leidingen en toestellen voor door de minister omschreven categorieën inrichtingen of delen daarvan. Product: Periode: 1990–1997 Grondslag: EVB (Stb. 1938, 873), zoals gewijzigd (Stb. 1990, 491) art. 55a (i.w. Stb. 1990, 492), b.w. Stb. 1997, 60 Waardering: B (4) 
 ###106
 
-Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: EVB (Stb. 1938, 873), zoals gewijzigd (Stb. 1982, 58) art. 54b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. Stb. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: EVB (Stb. 1938, 873), zoals gewijzigd (Stb. 1982, 58) art. 54b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. Stb. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.15 Veiligheidsbesluit loodwit* 
 
 ###108
 
-Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: Veiligheidsbesluit loodwit (Stb. 1939, 865) zoals gewijzigd (Stb. 1982, 58) art. 9b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. Stb. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: Veiligheidsbesluit loodwit (Stb. 1939, 865) zoals gewijzigd (Stb. 1982, 58) art. 9b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. Stb. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.16 Veiligheidsbesluit elektrische schrikdraden* 
 
@@ -1175,7 +1175,7 @@ Handeling: Het vaststellen van het model waarschuwingsborden voor elektrische sc
 Handeling: Het vaststellen van het model van het bewijs waaruit blijkt dat de onderneming waar schrikdraad wordt gebruikt voldoet aan de gestelde voorschriften. Product: ministeriële regeling – nr. 2685 (Stcrt. 1948, 234, b.w. Stcrt. 1952, 38) – nr. 205 (Stcrt. 1952, 38) Periode: 1949–1997 Grondslag: Veiligheidsbesluit elektrische schrikdraden (Stb. 1948, I 482) art. 16, vierde lid, gewijzigd (Stb. 1951, 606), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###112
 
-Handeling: Het verlenen van vrijstellingen van veiligheidsvoorschriften met betrekking tot schrikdraad(installaties). Product: vrijstelling voorbeelden: – Beschikking nr. 1526 (Stcrt. 1949, 142) – Beschikking nr. 1555 (Stcrt. 1949, 148) – Beschikking nr. 3745 (Stcrt. 1956, – Beschikking nr. 3252, (Stcrt. 1961, 128) Periode: 1949–1997 Grondslag: Veiligheidsbesluit elektrische schrikdraden (Stb. 1948, I 482) art. 17, eerste en derde lid (b.w. Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen van veiligheidsvoorschriften met betrekking tot schrikdraad(installaties). Product: vrijstelling voorbeelden: – Beschikking nr. 1526 (Stcrt. 1949, 142) – Beschikking nr. 1555 (Stcrt. 1949, 148) – Beschikking nr. 3745 (Stcrt. 1956, – Beschikking nr. 3252, (Stcrt. 1961, 128) Periode: 1949–1997 Grondslag: Veiligheidsbesluit elektrische schrikdraden (Stb. 1948, I 482) art. 17, eerste en derde lid (b.w. Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.17 Landbouwveiligheidsbesluit* 
 
@@ -1196,7 +1196,7 @@ Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aa
 Handeling: Het verlenen van vrijstellingen aan categorieën van gevallen ten aanzien van voorschriften uit het Landbouwveiligheidsbesluit betreffende voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het beschikbaar stellen van schaftgelegenheden en andere verblijfplaatsen. Product: vrijstelling Periode: 1950–1982 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107) art. 79, eerste lid, gewijzigd (Stb. 1975, 365), (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###119
 
-Handeling: Het verlenen van vrijstellingen ten aanzien van voorschriften uit het Landbouwveiligheidsbesluit betreffende voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het beschikbaar stellen van schaftgelegenheden en andere verblijfplaatsen. Product: vrijstelling Periode: 1975–1982 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107), zoals gewijzigd (Stb. 1975, 365) art. 79 tweede lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen ten aanzien van voorschriften uit het Landbouwveiligheidsbesluit betreffende voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het beschikbaar stellen van schaftgelegenheden en andere verblijfplaatsen. Product: vrijstelling Periode: 1975–1982 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107), zoals gewijzigd (Stb. 1975, 365) art. 79 tweede lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.18 Veiligheidsbesluit binnenvaart* 
 
@@ -1235,7 +1235,7 @@ Handeling: Het geven van nadere voorschriften omtrent het bewaren van certificat
 Handeling: Het vaststellen van de vorm en inhoud van het kraanboek voor op de wal aanwezige hijsinrichtingen boven één ton. Product: ministeriële regeling – Beschikking nr. 6116 (Stcrt. 1968, 185; b.w. Stcrt. 1976, 219); – Vaststelling vorm en inhoud kraanboek (Stcrt. 1976, 219) Periode: 1963–1997 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 108, tweede lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###147
 
-Handeling: Het verlenen van vrijstellingen van voorschriften uit het Veiligheidsbesluit binnenvaart met betrekking tot het voorkomen van ongevallen en van schade aan de gezondheid, het verschaffen van hulp bij ongelukken, het bevorderen van de hygiëne, de huisvesting van opvarenden en administratie. Product: vrijstelling Periode: 1963–1982 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 111, eerste en derde lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen van voorschriften uit het Veiligheidsbesluit binnenvaart met betrekking tot het voorkomen van ongevallen en van schade aan de gezondheid, het verschaffen van hulp bij ongelukken, het bevorderen van de hygiëne, de huisvesting van opvarenden en administratie. Product: vrijstelling Periode: 1963–1982 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 111, eerste en derde lid (b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.19 Veiligheidsbesluit tankschepen* 
 
@@ -1256,7 +1256,7 @@ Handeling: Het geven van nadere voorschriften in het belang van de veiligheid bi
 Handeling: Het geven van vrijstellingen aan categorieën van gevallen van verboden of voorschriften gegeven bij het Veiligheidsbesluit tankschepen. Product: Periode: 1974–1982 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 20, eerste lid (i.w. Stb. 1974, 684; b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###154
 
-Handeling: Het verlenen van vrijstellingen van verboden of voorschriften uit het Veiligheidsbesluit Tankschepen aan ondernemingen. Product: vrijstelling Periode: 1974–1982 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 20, tweede lid (i.w. 1974, 684; b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen van verboden of voorschriften uit het Veiligheidsbesluit Tankschepen aan ondernemingen. Product: vrijstelling Periode: 1974–1982 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 20, tweede lid (i.w. 1974, 684; b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.20 Veiligheidsbesluit restgroepen* 
 
@@ -1325,13 +1325,13 @@ Handeling: Het aanwijzen van vormen van arbeid in een bedrijf waaraan gevaren vo
 Handeling: Het aanwijzen van stoffen in een bedrijf, die gevaar voor veiligheid of gezondheid kunnen opleveren. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 61 eerste lid b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###199
 
-Handeling: Het stellen van regels ten aanzien van de afmetingen en de inrichting van werklokalen. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 78 derde lid b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van regels ten aanzien van de afmetingen en de inrichting van werklokalen. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 78 derde lid b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.21 Veiligheidssignalering voor de restgroepen* 
 
 ###157
 
-Handeling: Het stellen van regels ten aanzien van signalen, aanwijzingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of de gezondheid van werknemers. Product: ministerile regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: Veiligheidssignalering voor de restgroepen (Stb. 1982, 59) art. 2 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van regels ten aanzien van signalen, aanwijzingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of de gezondheid van werknemers. Product: ministerile regeling – Besluit Veiligheidssignalering op de arbeidsplaats (Stcrt. 1982, 142) Periode: 1982–1993 Grondslag: Veiligheidssignalering voor de restgroepen (Stb. 1982, 59) art. 2 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.22 Phosphorluciferwet 1901* 
 
@@ -1343,7 +1343,7 @@ Handeling: Het aanwijzen van deskundigen die belast zijn met het verrichten van 
 Handeling: Het geven van voorschriften betreffende het onderzoek naar genomen monsters van lucifers. Product: Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 9, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###239
 
-Handeling: Het aanwijzen van twee onafhankelijk van elkaar werkende scheikundigen die de genomen monsters van lucifers onderzoeken. Product: beschikking Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 9, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het aanwijzen van twee onafhankelijk van elkaar werkende scheikundigen die de genomen monsters van lucifers onderzoeken. Product: beschikking Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 9, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.23 Caissonwet/Caissonbesluit/Wet op werken onder overdruk* 
 
@@ -1367,13 +1367,13 @@ Handeling: Het stellen van nadere regels ten aanzien van de taken van geneeskund
 Handeling: Het verlenen van ontheffingen betreffende regels gesteld ter beveiliging tegen gevaren, verbonden aan het verblijf onder hogere dan de atmosferische luchtdruk. Product: ontheffing Periode: 1970–1980 Grondslag: Wet op werken onder overdruk (Stb. 1968, 44) art. 19 eerste lid, b.w. Stb. 1980, 664 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###219
 
-Handeling: Het beslissen op beroepen inzake bezwaren van hoofden of bestuurders tegen nadere voorschriften van districtshoofden ter beveiliging tegen gevaren verbonden aan het verblijf onder hogere dan de atmosferische luchtdruk. Product: Periode: 1940–1980 Grondslag: Caissonwet (Stb. 1905, 143) art. 6; Wet op de werken onder overdruk (Stb. 1968, 44) art. 7 eerste tot derde lid, b.w. Stb. 1980, 664 Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beslissen op beroepen inzake bezwaren van hoofden of bestuurders tegen nadere voorschriften van districtshoofden ter beveiliging tegen gevaren verbonden aan het verblijf onder hogere dan de atmosferische luchtdruk. Product: Periode: 1940–1980 Grondslag: Caissonwet (Stb. 1905, 143) art. 6; Wet op de werken onder overdruk (Stb. 1968, 44) art. 7 eerste tot derde lid, b.w. Stb. 1980, 664 Waardering: V Termijn: 5 jaar na uitspraak 
 
 #### *3.1.3.24 Silicosewet* 
 
 ###163
 
-Handeling: Het bij amvb verbieden of aan beperkende voorschriften binden van het voorhanden hebben, bewerken, verwerken of gebruiken van in die amvb genoemde voorwerpen of stoffen. Product: algemene maatregel van bestuur – Zandsteenbesluit (Stb. 1951, 443) – Zandstraalbesluit (Stb. 1956, 434); b.w. bij nieuw Zandstaalbesluit (Stb. 1973, 415) – Asbestbesluit (Stb. 1977, 269; b.w. Stb. 1988, 560) Periode: 1951–1982 Grondslag: Silicosewet (Stb. 1951, 134) art. 2, 3 en 4 Waardering: B (1)  
+Handeling: Het bij amvb verbieden of aan beperkende voorschriften binden van het voorhanden hebben, bewerken, verwerken of gebruiken van in die amvb genoemde voorwerpen of stoffen. Product: algemene maatregel van bestuur – Zandsteenbesluit (Stb. 1951, 443) – Zandstraalbesluit (Stb. 1956, 434); b.w. bij nieuw Zandstaalbesluit (Stb. 1973, 415) – Asbestbesluit (Stb. 1977, 269; b.w. Stb. 1988, 560) Periode: 1951–1982 Grondslag: Silicosewet (Stb. 1951, 134) art. 2, 3 en 4 Waardering: B (1) 
 
 #### *3.1.3.25 Zandsteenbesluit* 
 
@@ -1382,13 +1382,13 @@ Handeling: Het bij amvb verbieden of aan beperkende voorschriften binden van het
 Handeling: Het beslissen op beroepen tegen beschikkingen van de districtshoofden op ontheffingsaanvragen van verboden in het Zandsteenbesluit. Product: Periode: 1951–1982 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 4 (b.w. 1982, 408) Waardering: V Termijn: 5 jaar na uitspraak 
 ###165
 
-Handeling: Het instellen van een adviescommissie inzake de ontheffingsverlening van verbodsbepalingen uit het Zandsteenbesluit. Product: instellingsbeschikking – Instelling adviescommissie voor het Zandsteenbesluit (Stcrt. 1952, 8) Periode: 1951–1982 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 5 (b.w. Stb. 1982, 408) Waardering: B (4)  
+Handeling: Het instellen van een adviescommissie inzake de ontheffingsverlening van verbodsbepalingen uit het Zandsteenbesluit. Product: instellingsbeschikking – Instelling adviescommissie voor het Zandsteenbesluit (Stcrt. 1952, 8) Periode: 1951–1982 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 5 (b.w. Stb. 1982, 408) Waardering: B (4) 
 
 #### *3.1.3.26 Zandstraalbesluit* 
 
 ###166
 
-Handeling: Het beslissen op beroepen tegen beschikkingen van de districtshoofden op ontheffingsaanvragen van het zandstraalverbod. Product: Periode: 1957–1982 Grondslag: Zandstraalbesluit (Stb. 1956, 434) art. 3; Zandstaalbesluit (Stb. 1973, 415) art. 4 (b.w. 1982, 408) Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beslissen op beroepen tegen beschikkingen van de districtshoofden op ontheffingsaanvragen van het zandstraalverbod. Product: Periode: 1957–1982 Grondslag: Zandstraalbesluit (Stb. 1956, 434) art. 3; Zandstaalbesluit (Stb. 1973, 415) art. 4 (b.w. 1982, 408) Waardering: V Termijn: 5 jaar na uitspraak 
 
 #### *3.1.3.27 Asbestbesluit* 
 
@@ -1397,7 +1397,7 @@ Handeling: Het beslissen op beroepen tegen beschikkingen van de districtshoofden
 Handeling: Het beslissen op beroepen tegen beschikkingen van de districtshoofden op ontheffingsaanvragen of gestelde nadere eisen ten aanzien van werken met asbest. Product: Periode: 1978–1982 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 7 (b.w. Stb. 1982, 408) Waardering: V Termijn: 5 jaar na uitspraak 
 ###168
 
-Handeling: Het instellen van een adviescommissie inzake ontheffingsverleningen van verbodsbepalingen uit het Asbestbesluit. Product: beschikking bijvoorbeeld – Instelling Adviescommissie Asbestbesluit, Stcrt. 1977, 221 – Aanwijzing voorzitter en leden-deskundigen, Stcrt. 1977, 221 Periode: 1977–1982 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 8 (b.w. Stb. 1982, 408) Waardering: B (4)  
+Handeling: Het instellen van een adviescommissie inzake ontheffingsverleningen van verbodsbepalingen uit het Asbestbesluit. Product: beschikking bijvoorbeeld – Instelling Adviescommissie Asbestbesluit, Stcrt. 1977, 221 – Aanwijzing voorzitter en leden-deskundigen, Stcrt. 1977, 221 Periode: 1977–1982 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 8 (b.w. Stb. 1982, 408) Waardering: B (4) 
 
 #### *3.1.3.28 Stuwadoorswet* 
 
@@ -1511,7 +1511,7 @@ Handeling: Het bij amvb niet van toepassing verklaren van het bepaalde in art. 
 Handeling: Het in beroep oordelen dat personen op grond van de aard van hun werkzaamheden gelijk kunnen worden gesteld met personen die met leiding en toezicht zijn belast. Product: Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 28, tweede lid, b.w. Stb. 1995, 598, Bazenbesluit (Stb. 1939, 862) art. 3, b.w. Stb. 1995, 598 Waardering: B (3) 
 ###291
 
-Handeling: Het bij amvb bepalen welke stukken, tengevolge van de Stuwadoorswet opgemaakt, niet kosteloos worden uitgereikt. Product: Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 29, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het bij amvb bepalen welke stukken, tengevolge van de Stuwadoorswet opgemaakt, niet kosteloos worden uitgereikt. Product: Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 29, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.29 Registerbesluit Stuwadoorswet* 
 
@@ -1520,7 +1520,7 @@ Handeling: Het bij amvb bepalen welke stukken, tengevolge van de Stuwadoorswet o
 Handeling: Het vaststellen van het model van het register waar stuwadoorsondernemingen moeten worden ingeschreven. Product: Periode: 1940–1995 Grondslag: Registerbesluit (Stb. 1939, 856) art. 2, tweede lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###244
 
-Handeling: Het verlenen van vrijstelling van de eis dat hoofden of ondernemers niet in een andere onderneming werkzaam mogen zijn. Product: vrijstelling Periode: 1940–1995 Grondslag: Registerbesluit (Stb. 1939, 856) art. 8, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstelling van de eis dat hoofden of ondernemers niet in een andere onderneming werkzaam mogen zijn. Product: vrijstelling Periode: 1940–1995 Grondslag: Registerbesluit (Stb. 1939, 856) art. 8, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.30 Controlebesluit Stuwadoorswet* 
 
@@ -1529,7 +1529,7 @@ Handeling: Het verlenen van vrijstelling van de eis dat hoofden of ondernemers n
 Handeling: Het opleggen van verplichtingen aan werkgevers van stuwadoorsondernemingen om te zorgen dat bepalingen als gesteld in het controlebesluit stuwadoorswet worden nageleefd. Product: Periode: 1940–1995 Grondslag: Controlebesluit Stuwadoorswet (Stb. 1939, 857) art. 2, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na afdoening 
 ###250
 
-Handeling: Het vaststellen van modellen van de opgave, de lijst en arbeidsboekje waarin plaats van arbeid, arbeiders en werk- en rusttijden in worden vermeld. Product: ministeriële regeling voorbeeld: – beschikking nr. 311, tot vaststelling van modellen van de opgave en de lijst, bedoeld in het controlebesluit stuwadoorswet (Stcrt. 1953, 65) Periode: 1953-1995 Grondslag: Controlebesluit Stuwadoorswet (Stb. 1939, 857) letter A, onder 1 en letter B, onder 1, letter C onder 1, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het vaststellen van modellen van de opgave, de lijst en arbeidsboekje waarin plaats van arbeid, arbeiders en werk- en rusttijden in worden vermeld. Product: ministeriële regeling voorbeeld: – beschikking nr. 311, tot vaststelling van modellen van de opgave en de lijst, bedoeld in het controlebesluit stuwadoorswet (Stcrt. 1953, 65) Periode: 1953-1995 Grondslag: Controlebesluit Stuwadoorswet (Stb. 1939, 857) letter A, onder 1 en letter B, onder 1, letter C onder 1, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.31 Stuwadoors-veiligheidsbesluit/Veiligheidsbesluit Stuwadoorswet* 
 
@@ -1550,13 +1550,13 @@ Handeling: Het vaststellen van modellen van certificaten en registers voor het o
 Handeling: Het aanwijzen van diensten of instellingen die bevoegd zijn onderzoekingen en beproevingen te doen en certificaten af te geven, behalve voor laad- en losgerei en hefwerktuigen. Product: Periode: 1951–1997 Grondslag: Veiligheidsbesluit Stuwadoorswarbeid (Stb. 1950, K519) art. 23, eerste lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###259
 
-Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats Stcrt. 1982, 142 Periode: 1982–1993 Grondslag: Veiligheidsbesluit Stuwadoorsarbeid (Stb. 1950, K519), zoals gewijzigd (Stb. 1982, 58) art. 179b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van regels ten aanzien van signalen, aanwijzigingen en aangebrachte combinatie van kleuren ter bescherming van de veiligheid of gezondheid van werknemers. Product: ministeriële regeling – Besluit Veiligheidssignalering op de arbeidsplaats Stcrt. 1982, 142 Periode: 1982–1993 Grondslag: Veiligheidsbesluit Stuwadoorsarbeid (Stb. 1950, K519), zoals gewijzigd (Stb. 1982, 58) art. 179b, eerste en derde lid (i.w. Stb. 1982, 595, b.w. 1993, 530) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.32 Reglement voor de Commissiën van advies voor de havenarbeid* 
 
 ###278
 
-Handeling: Het benoemen van een secretaris voor de commissiën van advies voor de havenarbeid. Product: Periode: 1940–1995 Grondslag: Reglement voor de Commissiën van advies voor de havenarbeid, art. 27, tweede lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 10 jaar na aftreden/ontslag  
+Handeling: Het benoemen van een secretaris voor de commissiën van advies voor de havenarbeid. Product: Periode: 1940–1995 Grondslag: Reglement voor de Commissiën van advies voor de havenarbeid, art. 27, tweede lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 10 jaar na aftreden/ontslag 
 
 #### *3.1.3.33 Reglement voor de stuwadoorsveiligheidscommissies* 
 
@@ -1571,7 +1571,7 @@ Handeling: Het stellen van nadere regels ten aanzien van vergoedingen aan de com
 Handeling: Het beslissen in beroep ten aanzien van verplichtingen van de werkgevers inzake de veiligheidscommissies. Product: beschikking Periode: 1940–1982 Grondslag: Reglement voor de stuwadoorsveiligheidscommissies (Stb. 1939, 861) art. art. 31, vierde lid Waardering: V Termijn: 5 jaar na uitspraak 
 ###283
 
-Handeling: Het beslissen wanneer twee stuwadoorsondernemingen die samen een stuwadoorsveiligheidscommissie hebben ingesteld geen overeenstemming bereiken over beschikbaarstelling van materiaal. Product: Periode: 1940–1982 Grondslag: Reglement voor de stuwadoorsveiligheidscommissies (Stb. 1939, 861) art. art. 31, vijfde lid Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het beslissen wanneer twee stuwadoorsondernemingen die samen een stuwadoorsveiligheidscommissie hebben ingesteld geen overeenstemming bereiken over beschikbaarstelling van materiaal. Product: Periode: 1940–1982 Grondslag: Reglement voor de stuwadoorsveiligheidscommissies (Stb. 1939, 861) art. art. 31, vijfde lid Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.34 Steenhouwerswet 1921* 
 
@@ -1610,7 +1610,7 @@ Handeling: Het vaststellen van voorlichting omtrent de aard van de gevaren van s
 Handeling: Het voor alle of sommige ondernemingen vaststellen van het model arbeidslijsten en arbeidsregisters in steenhouwersondernemingen. Product: ministeriële regeling – Beschikking 15 juni 1923 (Stcrt. 117) Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 10 tiende lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###303/684
 
-Handeling: Het aanwijzen van personen als werkgever ingeval van coöperatieve steenhouwersarbeid (indien het districtshoofd weigert). Product: Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 29 derde lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het aanwijzen van personen als werkgever ingeval van coöperatieve steenhouwersarbeid (indien het districtshoofd weigert). Product: Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 29 derde lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.3.35 Huisarbeidswet/Huisarbeidsbesluit* 
 
@@ -1628,19 +1628,19 @@ Handeling: Het instellen van een plaatselijke en centrale huisarbeidscommissie. 
 Handeling: Het aanwijzen van verenigingen van ondernemers en werknemers die ieder de helft van de leden van een huisarbeidscommissie benoemen. Product: Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 7, derde lid, b.w. Stb. 1994, 156 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###312
 
-Handeling: Het op verzoek van de huisarbeidscommissie toevoegen van een lid als voorzitter. Product: Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 7, vierde lid, b.w. Stb. 1994, 156 Waardering: V Termijn: 10 jaar na aftreden/ontslag  
+Handeling: Het op verzoek van de huisarbeidscommissie toevoegen van een lid als voorzitter. Product: Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 7, vierde lid, b.w. Stb. 1994, 156 Waardering: V Termijn: 10 jaar na aftreden/ontslag 
 
 #### *3.1.3.36 Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde* 
 
 ###231
 
-Handeling: Het toevoegen van een of meer secretarissen aan het College van Bijstand en advies Product: Periode: 1961–1982 Grondslag: Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1961, 234) art. 6 eerste lid Waardering: V Termijn: 10 jaar na benoeming/ontslag  
+Handeling: Het toevoegen van een of meer secretarissen aan het College van Bijstand en advies Product: Periode: 1961–1982 Grondslag: Besluit College van Bijstand en Advies voor de Bedrijfsgeneeskunde (Stb. 1961, 234) art. 6 eerste lid Waardering: V Termijn: 10 jaar na benoeming/ontslag 
 
 #### *3.1.3.37 Beschikking instelling Voorlopige Arbeidsraad* 
 
 ###232
 
-Handeling: Het benoemen van de leden van de Voorlopige Arbeidsraad. Product: beschikking Periode: 1980–1982 Grondslag: Beschikking instelling Voorlopige Arbeidsraad (Stcrt. 1980, 41) art. 3 Waardering: V Termijn: 10 jaar na aftreden/ontslag  
+Handeling: Het benoemen van de leden van de Voorlopige Arbeidsraad. Product: beschikking Periode: 1980–1982 Grondslag: Beschikking instelling Voorlopige Arbeidsraad (Stcrt. 1980, 41) art. 3 Waardering: V Termijn: 10 jaar na aftreden/ontslag 
 
 #### *3.1.4 Handelingen met betrekking tot veiligheid van technische voortbrengselen* 
 
@@ -1666,7 +1666,7 @@ Handeling: Het benoemen der leden van een commissie waaraan bepaalde handelingen
 Handeling: Het bij amvb bepalen dat voor keuringen van stoom- en damptoestellen vergoedingen verschuldigd zijn, het vaststellen van een tarief daarvoor en het geven van voorschriften omtrent de wijze van heffing. Product: algemene maatregel van bestuur – Vergoedingenbesluit stoom- en damptoestellen (Stb. 1953, 588; b.w. Stb. 1976, 301) Periode: 1954–1977 Grondslag: Stoomwet (Stb. 1953, 179) art. 9 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###327
 
-Handeling: Het zonodig aanwijzen van andere ambtenaren dan die van de Dienst voor het Stoomwezen ten behoeve van het opsporen van bij de Stoomwet 1953 strafbaar gestelde feiten. Product: Periode: 1954– Grondslag: Stoomwet (Stb. 1953, 179) art. 15 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het zonodig aanwijzen van andere ambtenaren dan die van de Dienst voor het Stoomwezen ten behoeve van het opsporen van bij de Stoomwet 1953 strafbaar gestelde feiten. Product: Periode: 1954– Grondslag: Stoomwet (Stb. 1953, 179) art. 15 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.2 Stoombesluit* 
 
@@ -1684,7 +1684,7 @@ Handeling: Het vaststellen van het model van het stempelafdruk dat moet worden i
 Handeling: Het beslissen op beroepen tegen door ambtenaren van de Dienst voor het Stoomwezen genomen beslissingen. Product: Periode: 1940–1999 Grondslag: Stoombesluit (Stb. 1931, 239) art. 47 vijfde lid, art. 72; Stoombesluit (Stb. 1949, J 431) art. 64 derde lid; Stoomwet (Stb. 1953, 179) art. 12; Uitvoering EEG-voorschriften onderlinge aanpassing voor gasflessen (Stcrt. 1986, 231) art. 14 Waardering: V Termijn: 5 jaar na uitspraak 
 ###324
 
-Handeling: Het verlenen van vrijstellingen/ontheffingen van bepalingen omtrent opgaven bij vergunningaanvragen en van voorschriften waaraan stoom- en damptoestellen moeten voldoen of hetgeen in acht moet worden genomen ten aanzien van opstelling, inrichting en uitrusting van stoom- en damptoestellen en hun gebruik. Product: ontheffing/vrijstelling Periode: 1940– Grondslag: Stoombesluit (Stb. 1931, 239) art. 79; Stoombesluit (Stb. 1949, J 431) art. 66; Stoombesluit (Stb. 1953, 587) art. 65 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen/ontheffingen van bepalingen omtrent opgaven bij vergunningaanvragen en van voorschriften waaraan stoom- en damptoestellen moeten voldoen of hetgeen in acht moet worden genomen ten aanzien van opstelling, inrichting en uitrusting van stoom- en damptoestellen en hun gebruik. Product: ontheffing/vrijstelling Periode: 1940– Grondslag: Stoombesluit (Stb. 1931, 239) art. 79; Stoombesluit (Stb. 1949, J 431) art. 66; Stoombesluit (Stb. 1953, 587) art. 65 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.3 Vergoedingen in verband met keuringen stoom- en damptoestellen* 
 
@@ -1696,19 +1696,19 @@ Handeling: Het stellen van regels (sinds 1979: in overeenstemming met de ministe
 Handeling: Het geven van nadere bepalingen ten aanzien van kosten, die aanvragers van onderzoeken en/of beproevingen van stoomtoestellen in het buitenland moeten voldoen. Product: Periode: 1940–1953 Grondslag: Beschikking onderzoek en/of beproeving van stoomketels enz. (Stcrt. 1949, 186) art. VI en IX; Vaststelling tarief ingevolge art. 4 tweede lid Stoombesluit (Stcrt. 1954, 169) art. 6 en 7; Tarief keuring stoom- en damptoestellen (Stcrt. 1958, 19) B onder 6 en art 7; Regeling onderzoek en/of beproeving van stoomketels enz. in het buitenland (Stcrt. 1931, 124) art. 6 Waardering: V Termijn: 3 jaar 
 ###322
 
-Handeling: Het vaststellen van afwijkende keuringsvergoedingen van stoom- en damptoestellen, indien door bijzondere constructies van de toestellen de gevolgde procedure aanleiding zou geven tot onredelijkheid. Product: Periode: 1954–1977 Grondslag: Vergoedingenbesluit stoom- en damptoestellen (Stb. 1953, 588) art. 12 (b.w. Stb. 1976, 301); Vergoedingenbesluit (Stcrt. 1977, 82) art. 11 Waardering: V Termijn: 3 jaar  
+Handeling: Het vaststellen van afwijkende keuringsvergoedingen van stoom- en damptoestellen, indien door bijzondere constructies van de toestellen de gevolgde procedure aanleiding zou geven tot onredelijkheid. Product: Periode: 1954–1977 Grondslag: Vergoedingenbesluit stoom- en damptoestellen (Stb. 1953, 588) art. 12 (b.w. Stb. 1976, 301); Vergoedingenbesluit (Stcrt. 1977, 82) art. 11 Waardering: V Termijn: 3 jaar 
 
 #### *3.1.4.4 Regels voor toestellen onder druk* 
 
 ###1057
 
-Handeling: Het vaststellen van ‘de Regels’ voor toestellen onder druk. Product: regels voor toestellen onder druk Stcrt.1995, 61, gewijzigd Stcrt. 1997, 248 Periode: 1994?- Grondslag: Waardering: B (5)  
+Handeling: Het vaststellen van ‘de Regels’ voor toestellen onder druk. Product: regels voor toestellen onder druk Stcrt.1995, 61, gewijzigd Stcrt. 1997, 248 Periode: 1994?- Grondslag: Waardering: B (5) 
 
 #### *3.1.4.5 Wet op de gevaarlijke werktuigen* 
 
 ###328
 
-Handeling: Het bij algemene maatregel van bestuur aanwijzen van gevaarlijke vaartuigen, het stellen van nadere regels betreffende de veiligheid, keuring, gebruiksvoorschriften, vrijstellingen, strafbepalingen en overgangstermijnen van werken met gevaarlijke werktuigen en beschermingsmiddelen, (vanaf 1988:) uitvoering van krachtens het Verdrag tot oprichting van de Europese Economische Gemeenschap vastgestelde verplichtingen met betrekking tot gevaarlijke werktuigen en beveiligingsmiddelen. Product: algemene maatregel van bestuur – (Veiligheidsbesluit Gevaarlijke Werktuigen (Stb. 1940, 852, vastgesteld krachtens Arbeidsomstandighedenwet, Stb. 1980, 664, b.w. Stb. 1993, 134, per 1-1-1995)) – Dorsgarniturenbesluit (Stb. 1956, 150, i.w. Stb. 1958, 337, b.w. Stb. 1993, 134, per 1-1-1995) – Liftenbesluit (Stb. 1956, 167, i.w. Stb. 1956, 167) – Besluit spanninggevers voor schrikdraden (Stb. 1958, 449, i.w. Stb. 1958, 449) vervallen per 01-07-1997 – Besluit schoenfluorscopen (Stb. 1958, 434, i.w. Stb. 1958, 434; b.w. Stb. 1969, 514) – Besluit verplaatsbare transporteurs (Stb. 1963, 366, i.w. Stb. 1963, 366, vervangen Stb. 1972, 520, b.w. Stb. 1993, 134, per 1-1-1995) – Besluit Schiethamers (Stb. 1967, 142, i.w. Stb. 1967, 142) per Stb. 2003, 315 gewijzigd in Warenwetbesluit schiethamers – Besluit Acetyleenontwikkelaars (Stb. 1967, 578, i.w. Stb. 1967, 578), b.w. Stb. 1998, 691 – Besluit Slijpmachines (Stb. 1968, 498, niet in werking getreden, b.w. Stb. 1993, 134) – Besluit centrifuges (Stb. 1968, 651, niet in werking getreden, b.w. Stb. 1993, 134) – Besluit containers (Stb. 1983, 177, i.w. Stb. 1985, 324) per Stb. 2003, 315 gewijzigd in Warenwetbesluit containers – Besluit gemotoriseerde transportwerktuigen (Stb. 1992, 77, i.w. Stb. 1992, 77, b.w. Stb. 1993, 134, per 1-1-1996) – Besluit kantel- en valbeveiligingen bouwmachines (Stb. 1992, 267, i.w. Stb. 1992, 267, b.w. Stb. 1993, 134, per 1-1-1996) – Besluit drukvaten eenvoudige vorm (Stb. 1992, 456, i.w. 1992, 456) per Stb. 2003, 315 gewijzigd in Warenwetbesluit drukvaten eenvoudige vorm – Besluit Machines (Stb. 1993, 134, i.w. Stb. 1993, 134) per 01-09-2003 vervallen en opgegaan in het Warenwetbesluit machines (Stb. 1992, ??) – Besluit persoonlijke beschermingsmiddelen (Stb. 1993, 441, i.w. Stb. 1993, 441)per 01-09-2003 vervallen en opgegaan in het Warenwetbesluit persoonlijke beschermingsmiddelen – Besluit explosieveilig materieel (Stb. 1995, 379) per Stb. 2003, 315 gewijzigd in Warenwetbesluit explosieveilig materieel – Besluit liften (Stb. 1996, 444) per Stb. 2003, 315 gewijzigd in Warenwetbesluit liften – Besluit veiligheid attractie- en speelgoedtoestellen (Stb. 1996, 474)per Stb. 2003, 315 gewijzigd in Warenwetbesluit attractie- en speeltoestellen – Besluit drukapparatuur (Stb. 1999, 311) per Stb. 2003, 315 gewijzigd in Warenwetbesluit drukapparatuur Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 1, 2, 3, 4, 6, 9, 10, 12, 15 en 24, gewijzigd (Stb. 1987, 535) art. 25a, gewijzigd (Stb. 1991, 659)b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (1) 
+Handeling: Het bij algemene maatregel van bestuur aanwijzen van gevaarlijke vaartuigen, het stellen van nadere regels betreffende de veiligheid, keuring, gebruiksvoorschriften, vrijstellingen, strafbepalingen en overgangstermijnen van werken met gevaarlijke werktuigen en beschermingsmiddelen, (vanaf 1988:) uitvoering van krachtens het Verdrag tot oprichting van de Europese Economische Gemeenschap vastgestelde verplichtingen met betrekking tot gevaarlijke werktuigen en beveiligingsmiddelen. Product: algemene maatregel van bestuur – (Veiligheidsbesluit Gevaarlijke Werktuigen (Stb. 1940, 852, vastgesteld krachtens Arbeidsomstandighedenwet, Stb. 1980, 664, b.w. Stb. 1993, 134, per 1-1-1995)) – Dorsgarniturenbesluit (Stb. 1956, 150, i.w. Stb. 1958, 337, b.w. Stb. 1993, 134, per 1-1-1995) – Liftenbesluit (Stb. 1956, 167, i.w. Stb. 1956, 167) – Besluit spanninggevers voor schrikdraden (Stb. 1958, 449, i.w. Stb. 1958, 449) vervallen per 01-07-1997 – Besluit schoenfluorscopen (Stb. 1958, 434, i.w. Stb. 1958, 434; b.w. Stb. 1969, 514) – Besluit verplaatsbare transporteurs (Stb. 1963, 366, i.w. Stb. 1963, 366, vervangen Stb. 1972, 520, b.w. Stb. 1993, 134, per 1-1-1995) – Besluit Schiethamers (Stb. 1967, 142, i.w. Stb. 1967, 142) per Stb. 2003, 315 gewijzigd in Warenwetbesluit schiethamers – Besluit Acetyleenontwikkelaars (Stb. 1967, 578, i.w. Stb. 1967, 578), b.w. Stb. 1998, 691 – Besluit Slijpmachines (Stb. 1968, 498, niet in werking getreden, b.w. Stb. 1993, 134) – Besluit centrifuges (Stb. 1968, 651, niet in werking getreden, b.w. Stb. 1993, 134) – Besluit containers (Stb. 1983, 177, i.w. Stb. 1985, 324) per Stb. 2003, 315 gewijzigd in Warenwetbesluit containers – Besluit gemotoriseerde transportwerktuigen (Stb. 1992, 77, i.w. Stb. 1992, 77, b.w. Stb. 1993, 134, per 1-1-1996) – Besluit kantel- en valbeveiligingen bouwmachines (Stb. 1992, 267, i.w. Stb. 1992, 267, b.w. Stb. 1993, 134, per 1-1-1996) – Besluit drukvaten eenvoudige vorm (Stb. 1992, 456, i.w. 1992, 456) per Stb. 2003, 315 gewijzigd in Warenwetbesluit drukvaten eenvoudige vorm – Besluit Machines (Stb. 1993, 134, i.w. Stb. 1993, 134) per 01-09-2003 vervallen en opgegaan in het Warenwetbesluit machines (Stb. 1992, ??) – Besluit persoonlijke beschermingsmiddelen (Stb. 1993, 441, i.w. Stb. 1993, 441)per 01-09-2003 vervallen en opgegaan in het Warenwetbesluit persoonlijke beschermingsmiddelen – Besluit explosieveilig materieel (Stb. 1995, 379) per Stb. 2003, 315 gewijzigd in Warenwetbesluit explosieveilig materieel – Besluit liften (Stb. 1996, 444) per Stb. 2003, 315 gewijzigd in Warenwetbesluit liften – Besluit veiligheid attractie- en speelgoedtoestellen (Stb. 1996, 474)per Stb. 2003, 315 gewijzigd in Warenwetbesluit attractie- en speeltoestellen  – Besluit drukapparatuur (Stb. 1999, 311) per Stb. 2003, 315 gewijzigd in Warenwetbesluit drukapparatuur Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 1, 2, 3, 4, 6, 9, 10, 12, 15 en 24, gewijzigd (Stb. 1987, 535) art. 25a, gewijzigd (Stb. 1991, 659)b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (1) 
 ###1058/1084
 
 Handeling: Het bij amvb bepalen dat de Wet op de gevaarlijke werktuigenen de daarop berustende bepalingen niet van toepassing zijn op gevaarlijke werktuigen en beveiligingsmiddelen die gebruikt worden bij verkennings- of opsporingsonderzoek in of bij mijnen alsmede in de bij mijnbouwkundige onderzoekingen behorende werken of inrichtingen. Product: besluit Periode: 1997–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) gewijzigd Stb. 1997, 536, artikel 1a, eerste lid onder a, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (1) 
@@ -1720,7 +1720,7 @@ Handeling: Het bij amvb stellen van regels met betrekking tot gevaarlijke werktu
 Handeling: Het verlenen van goedkeuring van in het buitenland aangebrachte merken van goedkeuring en bepalen of deze moeten worden aangeboden aan de daartoe door hem aangewezen ambtenaren. Product: beschikking Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 4, zesde lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###384
 
-Handeling: Het aanwijzen van diensten, instellingen of onderzoeksbureaus die met betrekking tot door hem te bepalen soorten van gevaarlijke werktuigen en beveiligingsmiddelen bevoegd zijn tot het verrichten van keuringen, tot het afgeven van certificaten van goedkeuring en tot het aan brengen van merken van goedkeuring. Product: ministeriële regeling o.a.: – Aanwijzing Stichting Aboma⁠+Keboma als keuringsinstantie voor machines met een verhoogd risico (Stcrt. 1995, 58) – Aanwijzing Liftinstituut als keuringsinstantie voor machines met een verhoogd risico (Stcrt. 1995, 58) – Aanwijzing Stichting Nederlands Instituut voor Lifttechniek te Amsterdam (Stcrt. 1997, 82) gewijzigd Stcrt. 1999, 27 – Aanwijzing TNO Certification B.V. als keuringsinstantie voor beschermende kleding en voet-, been-, hand- en armbeschermingsmiddelen (Stcrt. 1997, 127) *-* Aanwijzing TNO Certification B.V. als keuringsinstantie voor gehoorbeschermingsmiddelen, beschermende kleding en voet-, been-, hand- en armbeschermingsmiddelen (Stcrt. 1999, 27) – Aanwijzing SGS Technische Inspecties B.V. te Spijkenisse als keuringsinstantie voor machines (Stcrt. 1999, 43) – Intrekking aanwijzing N.V. KEMA als keuringsinstantie voor drukvaten van eenvoudige vorm (Stcrt. 1999, 180) – Aanwijzing Liftinstituut als keuringsinstelling voor liften (Stcrt. 2001, 28) – Aanwijzing KEMA Registerd Qulity B.V. als keuringsinstantie voor machines (Stcrt. 2001, 37) en explosieveilig materieel (Stcrt. 2001, 37) – Stcrt. 2001, 193 – Aanwijzing NIL als instelling voor de goedkeuring van lassers en permanente verbindingen (Stcrt. 2002, 41) – Aanwijzing Kiwa N.V. als keuringsinstantie drukapparatuur (Stcrt. 2004, 251) b.w. per 01-09-2003 Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 5, eerste lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het aanwijzen van diensten, instellingen of onderzoeksbureaus die met betrekking tot door hem te bepalen soorten van gevaarlijke werktuigen en beveiligingsmiddelen bevoegd zijn tot het verrichten van keuringen, tot het afgeven van certificaten van goedkeuring en tot het aan brengen van merken van goedkeuring. Product: ministeriële regeling o.a.: – Aanwijzing Stichting Aboma⁠+Keboma als keuringsinstantie voor machines met een verhoogd risico (Stcrt. 1995, 58) – Aanwijzing Liftinstituut als keuringsinstantie voor machines met een verhoogd risico (Stcrt. 1995, 58) – Aanwijzing Stichting Nederlands Instituut voor Lifttechniek te Amsterdam (Stcrt. 1997, 82) gewijzigd Stcrt. 1999, 27 – Aanwijzing TNO Certification B.V. als keuringsinstantie voor beschermende kleding en voet-, been-, hand- en armbeschermingsmiddelen (Stcrt. 1997, 127)  *-*Aanwijzing TNO Certification B.V. als keuringsinstantie voor gehoorbeschermingsmiddelen, beschermende kleding en voet-, been-, hand- en armbeschermingsmiddelen (Stcrt. 1999, 27) – Aanwijzing SGS Technische Inspecties B.V. te Spijkenisse als keuringsinstantie voor machines (Stcrt. 1999, 43) – Intrekking aanwijzing N.V. KEMA als keuringsinstantie voor drukvaten van eenvoudige vorm (Stcrt. 1999, 180) – Aanwijzing Liftinstituut als keuringsinstelling voor liften (Stcrt. 2001, 28) – Aanwijzing KEMA Registerd Qulity B.V. als keuringsinstantie voor machines (Stcrt. 2001, 37) en explosieveilig materieel (Stcrt. 2001, 37) – Stcrt. 2001, 193 – Aanwijzing NIL als instelling voor de goedkeuring van lassers en permanente verbindingen (Stcrt. 2002, 41) – Aanwijzing Kiwa N.V. als keuringsinstantie drukapparatuur (Stcrt. 2004, 251) b.w. per 01-09-2003 Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 5, eerste lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###385
 
 Handeling: Het geven van aanwijzigingen betreffende het laten verrichten van beproevingen door anderen dan de aangewezen diensten, instellingen of onderzoeksbureaus. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 5, tweede lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4) 
@@ -1732,7 +1732,7 @@ Handeling: Het bevoegd verklaren van fabrikanten of handelaren tot het aanbrenge
 Handeling: Het vaststellen van tarieven die gelden als vergoeding voor het verrichten van keuringen, afgeven van certificaten en het aanbrengen van merken van goedkeuring. Product: – Regeling van de Staatssecretaris van Sociale Zaken van 23 augustus 1956, afdeling Arbeidersbescherming, nr. 3112 (Stcrt. 1956, 168), gewijzigd Stcrt. 1997, 18, 243 en 249, Stcrt. 2000 203, Stcrt. 2001, 22 – Wijziging tarieven van keuringen van liften (Stcrt. 1998, 244) Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 5, vierde lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###388
 
-Handeling: Het verlenen van vrijstellingen ten aanzien van het in de wet bepaalde. Product: vrijstelling o.a.: – ontwerp-regeling Vrijstelling voor transportsteigers (Stcrt. 1998, 35) *-* Vrijstelling voor transportsteigers (Stcrt. 1999, 30) Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het verlenen van vrijstellingen ten aanzien van het in de wet bepaalde. Product: vrijstelling o.a.: – ontwerp-regeling Vrijstelling voor transportsteigers (Stcrt. 1998, 35)  *-*Vrijstelling voor transportsteigers (Stcrt. 1999, 30) Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###389
 
 Handeling: Het behandelen van beroepen tegen het stellen van een eis of het aanbrengen van een merk van afkeuring. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 13, eerste lid, gewijzigd Stb. 1995, 598, art. 13, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (3) 
@@ -1741,7 +1741,7 @@ Handeling: Het behandelen van beroepen tegen het stellen van een eis of het aanb
 Handeling: Het stellen van nadere regels betreffende de kosten die worden gemaakt bij het doen van beproevingen in het belang van het beroep. Product: Periode: 1952–1995 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952) art. 13, zevende lid, b.w. Stb. 1995, 598 Waardering: ‘V’ Termijn: 1 jaar na geldigheidsduur 
 ###391
 
-Handeling: Het opdragen van de uitvoering van de Wet op de Gevaarlijke Werktuigen aan andere ambtenaren dan ambtenaren van de Arbeidsinspectie. Product: *-* Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1980, 664) art. 16, tweede lid (i.w. Stb. 1982, 673), b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4) 
+Handeling: Het opdragen van de uitvoering van de Wet op de Gevaarlijke Werktuigen aan andere ambtenaren dan ambtenaren van de Arbeidsinspectie. Product: *-*Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1980, 664) art. 16, tweede lid (i.w. Stb. 1982, 673), b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4) 
 ###392
 
 Handeling: Het bij algemene maatregel van bestuur voorschrijven dat ten aanzien van bepaalde inrichtingen of bepaalde soorten inrichtingen de bevoegdheid tot binnentreden slechts wordt uitgeoefend door bepaalde personen. Product: Periode: 1952–1982 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 17, vierde lid (b.w. Stb. 1980, 664) Waardering: V Termijn: 1 jaar na geldigheidsduur 
@@ -1750,13 +1750,13 @@ Handeling: Het bij algemene maatregel van bestuur voorschrijven dat ten aanzien 
 Handeling: Het stellen van nadere regels ten aanzien van het nemen, bewaren en vrijgeven van door opsporingsambtenaren genomen monsters. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 18, tweede lid, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4) 
 ###394
 
-Handeling: Het stellen van nadere regels betreffende verzegeling van gevaarlijke werktuigen waarvan een geldig certificaat van goedkeuring niet kan worden getoond en die niet zijn voorzien van een geldig merk van goedkeuring. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 19, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4)  
+Handeling: Het stellen van nadere regels betreffende verzegeling van gevaarlijke werktuigen waarvan een geldig certificaat van goedkeuring niet kan worden getoond en die niet zijn voorzien van een geldig merk van goedkeuring. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 19, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: B (4) 
 
 #### *3.1.4.6 Organisatie, mandaat- en volmachtbesluit Directie Arbeidsveiligheid en Gezondheid Ministerie van SZW/Warenwet* 
 
 ###1177
 
-Handeling: Het aanwijzen van instellingen voor het uitvoeren van keurings- of beoordelingsprocedures van technische voortbrengselen alsook voor liften, schiethamers, containers, drukvaten van eenvoudige vorm, drukapparatuur en samenstellen daarvan en explosieveilig materieel Product: ‘aanwijzing’ onder meer: – Aanwijzing Kiwa N.V. voor keuren drukapparatuur (Stcrt. 2004, 251) Periode: 2003– Grondslag: Warenwet (Stb. 1936, 793) gewijzigd Stb. 2002, Stb. 233 art. 7a, lid 1, Organisatie, mandaat- en volmachtbesluit Directie Arbeidsveiligheid en Gezondheid 2004 (Stcrt. 2004, 66) art. 4 Waardering: V termijn: 1 jaar na vervallen aanwijzing  
+Handeling: Het aanwijzen van instellingen voor het uitvoeren van keurings- of beoordelingsprocedures van technische voortbrengselen alsook voor liften, schiethamers, containers, drukvaten van eenvoudige vorm, drukapparatuur en samenstellen daarvan en explosieveilig materieel Product: ‘aanwijzing’ onder meer: – Aanwijzing Kiwa N.V. voor keuren drukapparatuur (Stcrt. 2004, 251) Periode: 2003– Grondslag: Warenwet (Stb. 1936, 793) gewijzigd Stb. 2002, Stb. 233 art. 7a, lid 1, Organisatie, mandaat- en volmachtbesluit Directie Arbeidsveiligheid en Gezondheid 2004 (Stcrt. 2004, 66) art. 4 Waardering: V termijn: 1 jaar na vervallen aanwijzing 
 
 #### *3.1.4.7 Uitvoeringsbesluiten gebaseerd op de Warenwet* 
 
@@ -1767,10 +1767,10 @@ Handeling: Het aanwijzen van instellingen voor het uitvoeren van keurings- of be
 Handeling: Het stellen van nadere regels met betrekking tot de criteria om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15, lid 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 19a, lid 5 en lid 6, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 11, lid 3, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17, lid 3, Warenwetbesluit liften (Stb. 2003, 315) art. 23, lid 3, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13, lid 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19, lid 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6g, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6d, lid 3 Waardering: B (5) 
 ###1179
 
-Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15a en 15b, lid 1 en 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22a en 22b, lid 1 en 2, Warenwetbesluit drukvaten eenvoudige vorm (Stb. 2003, 315) art. 12 en 13, lid 1 en 2, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17a en 17b lid 1 en 2, Warenwetbesluit liften (Stb. 2003, 315) art. 24 en 25, lid 1 en 2, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13a en 13b, lid 1 en 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6<sup></sup>e en 6f, lid 1 en 2 Waardering: V Termijn: 1 jaar na wijziging aanwijzing 
+Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15a en 15b, lid 1 en 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22a en 22b, lid 1 en 2, Warenwetbesluit drukvaten eenvoudige vorm (Stb. 2003, 315) art. 12 en 13, lid 1 en 2, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17a en 17b lid 1 en 2, Warenwetbesluit liften (Stb. 2003, 315) art. 24 en 25, lid 1 en 2, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13a en 13b, lid 1 en 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6<sup></sup> e en 6f, lid 1 en 2 Waardering: V Termijn: 1 jaar na wijziging aanwijzing 
 ###1180
 
-Handeling: Het stellen van regels met betrekking tot de aanvraag om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Besluit containers (Stb. 1983, 177) gewijzigd Stb. 2003, 315 art. 15c, lid 3, Besluit drukapparatuur (Stb. 1999, 311) gewijzigd Stb. 2003, 315 art. 22c, lid 3, Besluit drukvaten van eenvoudige vorm (Stb. 1992, 456) gewijzigd Stb. 2003, 315 art. 13a, lid 3, Besluit explosieveilig materieel (Stb. 1995, 379) gewijzigd Stb. 2003, 315 art. 17c, lid 3, Besluit liften (Stb. 1996, 444) gewijzigd Stb. 2003, 315 art. 26, lid 3, Besluit schiethamers (Stb. 1967, 142) gewijzigd Stb. 2003, 315 art. 13c, lid 3, Besluit veiligheid attractie- en speeltoestellen (Stb. 1996, 474) gewijzigd Stb. 2003, 315 art. 19c, lid 3, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6j, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6g, lid 3 Waardering: B (5)  
+Handeling: Het stellen van regels met betrekking tot de aanvraag om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Besluit containers (Stb. 1983, 177) gewijzigd Stb. 2003, 315 art. 15c, lid 3, Besluit drukapparatuur (Stb. 1999, 311) gewijzigd Stb. 2003, 315 art. 22c, lid 3, Besluit drukvaten van eenvoudige vorm (Stb. 1992, 456) gewijzigd Stb. 2003, 315 art. 13a, lid 3, Besluit explosieveilig materieel (Stb. 1995, 379) gewijzigd Stb. 2003, 315 art. 17c, lid 3, Besluit liften (Stb. 1996, 444) gewijzigd Stb. 2003, 315 art. 26, lid 3, Besluit schiethamers (Stb. 1967, 142) gewijzigd Stb. 2003, 315 art. 13c, lid 3, Besluit veiligheid attractie- en speeltoestellen (Stb. 1996, 474) gewijzigd Stb. 2003, 315 art. 19c, lid 3, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6j, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6g, lid 3 Waardering: B (5) 
 
 #### *3.1.4.9 Dorsgarniturenbesluit* 
 
@@ -1782,7 +1782,7 @@ Handeling: Het vaststellen van het model voor certificaten van goedkeuring voor 
 Handeling: Het stellen van nadere regels omtrent merken van afkeuring voor dorsmachines, stropersen en strobinders. Product: Periode: 1958–1994 Grondslag: Dorsgarniturenbesluit (Stb. 1956, 150) art. 59, derde lid (i.w. Stb. 1958, 337), b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###331
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van dorsmachines, stropersen en strobinders. Product: Periode: 1958–1994 Grondslag: Dorsgarniturenbesluit (Stb. 1956, 150) art. 61, tweede lid (i.w. Stb. 1958, 337), b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van dorsmachines, stropersen en strobinders. Product: Periode: 1958–1994 Grondslag: Dorsgarniturenbesluit (Stb. 1956, 150) art. 61, tweede lid (i.w. Stb. 1958, 337), b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.10 Liftenbesluit I* 
 
@@ -1797,10 +1797,10 @@ Handeling: Het vaststellen van het model voor een liftboek. Product: Periode: 19
 Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor liften. Product: Periode: 1956-1991 Grondslag: Liftenbesluit I (Stb. 1956, 167) art. 29 (b.w. Stb. 1991, 411) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###335
 
-Handeling: Het verlenen van instemming aan het Liftinstituut om proeven van het EEG-type-onderzoek en de EEG-controle van liften door anderen te laten verrichten. Product: Periode: 1987–2003 Grondslag: regeling ter uitvoering van EEG- richtlijnen 84/528/EEG en 84/529/EEG (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) art. 2, tweede lid, gewijzigd Stcrt. 1995, 250, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het verlenen van instemming aan het Liftinstituut om proeven van het EEG-type-onderzoek en de EEG-controle van liften door anderen te laten verrichten. Product: Periode: 1987–2003 Grondslag: regeling ter uitvoering van EEG-richtlijnen 84/528/EEG en 84/529/EEG (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) art. 2, tweede lid, gewijzigd Stcrt. 1995, 250, b.w. met ingang van 01-09-2003 (Stb. 2003, 339) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###336
 
-Handeling: Het beslissen in beroep tegen beslissingen van het Liftinstituut. Product: Periode: 1987–1999 grondslag :regeling ter uitvoering van EEG- richtlijnen 84/528/EEG en 84/529/EEG (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) art. 11, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beslissen in beroep tegen beslissingen van het Liftinstituut. Product: Periode: 1987–1999 grondslag :regeling ter uitvoering van EEG-richtlijnen 84/528/EEG en 84/529/EEG (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) art. 11, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 5 jaar na uitspraak 
 
 #### *3.1.4.11 Besluit spanninggevers voor schrikdraden* 
 
@@ -1809,7 +1809,7 @@ Handeling: Het beslissen in beroep tegen beslissingen van het Liftinstituut. Pro
 Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor spanninggevers voor schrikdraden en de verwijdering daarvan. Product: Periode: 1958–1997 Grondslag: Besluit spanninggevers voor schrikdraden (Stb. 1958, 449) art. 27, derde lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###338
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van spanninggevers voor schrikdraden. Product: Periode: 1958–1997 Grondslag: Besluit spanninggevers voor schrikdraden (Stb. 1958, 449) art. 32, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van spanninggevers voor schrikdraden. Product: Periode: 1958–1997 Grondslag: Besluit spanninggevers voor schrikdraden (Stb. 1958, 449) art. 32, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.12 Besluit schoenfluorscopen* 
 
@@ -1818,7 +1818,7 @@ Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen
 Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor schoenfluorscopen. Product: Periode: 1958–1969 Grondslag: Besluit schoenfluorscopen (Stb. 1958, 434) art. 15, tweede lid (b.w. Stb. 1969, 514) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###340
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van schoenfluorscopen. Product: Periode: 1958–1969 Grondslag: Besluit schoenfluorscopen (Stb. 1958, 434) art. 17 (b.w. Stb. 1969, 514) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen van schoenfluorscopen. Product: Periode: 1958–1969 Grondslag: Besluit schoenfluorscopen (Stb. 1958, 434) art. 17 (b.w. Stb. 1969, 514) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.13 Besluit verplaatsbare transporteurs* 
 
@@ -1827,19 +1827,19 @@ Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor keuringen
 Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor verplaatsbare transporteurs en de verwijdering ervan. Product: Periode: 1963–1994 Grondslag: Besluit verplaatsbare transporteurs (Stb. 1963, 366) art. 27, derde lid; gewijzigd Stb. 1972, 520, ingetrokken per 1-1-1995 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###342
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor verplaatsbare transporteurs. Product: Periode: 1963–1973 Grondslag: Besluit verplaatsbare transporteurs (Stb. 1963, 366) art. 32 (b.w. Stb. 1972, 520) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor verplaatsbare transporteurs. Product: Periode: 1963–1973 Grondslag: Besluit verplaatsbare transporteurs (Stb. 1963, 366) art. 32 (b.w. Stb. 1972, 520) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.14 Besluit schiethamers/Warenwetbesluit schiethamers* 
 
 ###343
 
-Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor schiethamers en splinterkappen. Product: Periode: 1967–2003 Grondslag: Besluit Schiethamers (Stb. 1967, 142) art. 13, derde lidb.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor schiethamers en splinterkappen. Product: Periode: 1967–2003 Grondslag: Besluit Schiethamers (Stb. 1967, 142) art. 13, derde lidb.w. Stb. 2003, 315  Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###1181
 
 Handeling: Het stellen van nadere regels met betrekking tot het waarmerken en bewaren van goedgekeurde, het type kenmerkende monsters en het certificaat en merk van goedkeuring Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit schiethamers (Stb. 2003, 315) art. 12, lid 7 Waardering: V Termijn: 5 jaar na geldigheid regels 
 ###1182
 
-Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring Product: ministeriële regeling Periode: 2003– Grondslag: Warenwetbesluit schiethamers (Stb. 2003, 315) art. 12, lid 8 Waardering: V Termijn: 1 jaar na vervallen bevoegdheid  
+Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring Product: ministeriële regeling Periode: 2003– Grondslag: Warenwetbesluit schiethamers (Stb. 2003, 315) art. 12, lid 8 Waardering: V Termijn: 1 jaar na vervallen bevoegdheid 
 
 #### *3.1.4.15 Besluit Acetyleenontwikkelaars* 
 
@@ -1848,7 +1848,7 @@ Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrenge
 Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen; in (Stb. 1993, 134, i.w. 1-1-1995) vervalt ‘reduceertoestellen’. Product: Periode: 1967–1998 Grondslag: Besluit Acetyleenontwikkelaars (Stb. 1967, 578) art. 39, derde lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###345
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen; in (Stb. 1993, 134, i.w. 1-1-1995) vervalt ‘reduceertoestellen’. Product: Periode: 1967–1998 Grondslag: Besluit Acetyleenontwikkelaars (Stb. 1967, 578) art. 41, derde lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen; in (Stb. 1993, 134, i.w. 1-1-1995) vervalt ‘reduceertoestellen’. Product: Periode: 1967–1998 Grondslag: Besluit Acetyleenontwikkelaars (Stb. 1967, 578) art. 41, derde lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.16 Besluit slijpmachines* 
 
@@ -1857,7 +1857,7 @@ Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwez
 Handeling: Het stellen van nadere bepalingen betreffende merken van afkeuring voor slijpmachines. Product: Periode: 1968-1993 Grondslag: Besluit Slijpmachines (Stb. 1968, 498) art. 22, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###347
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor slijpmachines. Product: Periode: 1968-1993 Grondslag: Besluit Slijpmachines (Stb. 1968, 498) art. 24, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor slijpmachines. Product: Periode: 1968-1993 Grondslag: Besluit Slijpmachines (Stb. 1968, 498) art. 24, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.17 Besluit centrifuges* 
 
@@ -1866,7 +1866,7 @@ Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwez
 Handeling: Het stellen van nadere bepalingen betreffende merken van afkeuring voor centrifuges. Product: Periode: 1968-1993 Grondslag: Besluit Centrifuges (Stb. 1968, 651) art. 24, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###349
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor centrifuges. Product: Periode: 1968-1993 Grondslag: Besluit Centrifuges (Stb. 1968, 651) art. 26, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor centrifuges. Product: Periode: 1968-1993 Grondslag: Besluit Centrifuges (Stb. 1968, 651) art. 26, derde lid, b.w. Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.18 Besluit containers/Warenwetbesluit containers* 
 
@@ -1887,7 +1887,7 @@ Handeling: Het stellen van nadere regels met betrekking tot het merk van goedkeu
 Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor containers. Product: Regeling nr. 84/15 335 (Stcrt. 1985, 23) Periode: 1985–2003 Grondslag: Besluit containers (Stb. 1983, 177) art. 15, derde lid b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###354
 
-Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor containers. Product: beschikking Periode: 1985–1998 Grondslag: Besluit containers (Stb. 1983, 177) art. 16, tweede lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwezigheid van certificaten van goedkeuring voor containers. Product: beschikking Periode: 1985–1998 Grondslag: Besluit containers (Stb. 1983, 177) art. 16, tweede lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.19 Besluit gemotoriseerde transportwerktuigen* 
 
@@ -1896,7 +1896,7 @@ Handeling: Het verlengen van de termijn waarvoor ontheffing geldt voor de aanwez
 Handeling: Het aanwijzen van een rechtspersoon die verklaringen afgeeft waaruit blijkt dat gemotoriseerde transportwerktuigen die niet voldoen aan de voorschriften een even grote mate van veiligheid bieden. Product: Periode: 1992–1995 Grondslag: Besluit gemotoriseerde transportwerktuigen (Stb. 1992, 77) art. 3, derde lid b.w. per 1-1-1996 ingevolge Stb. 1993, 134 Waardering: B (4) 
 ###356
 
-Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor gemotoriseerde transportwerktuigen. Product: Periode: 1992–1995 Grondslag: Besluit gemotoriseerde transportwerktuigen (Stb. 1992, 77) art. 7, vierde lid b.w. per 1-1-1996, ingevolge Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor gemotoriseerde transportwerktuigen. Product: Periode: 1992–1995 Grondslag: Besluit gemotoriseerde transportwerktuigen (Stb. 1992, 77) art. 7, vierde lid b.w. per 1-1-1996, ingevolge Stb. 1993, 134 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.20 Besluit kantel- en valbeveiligingen bouwmachines* 
 
@@ -1908,7 +1908,7 @@ Handeling: Het vaststellen van het model van certificaten van overeenstemming, d
 Handeling: Het behandelen van beroepen tegen het intrekken van een certificaat van goedkeuring voor kantel- en valbeveiligingen bouwmachines. Product: Periode: 1992–1996 Grondslag: Besluit kantel- en valbeveiligingen bouwmachines (Stb. 1992, 267) art. 7, derde lid, b.w. per 1-1-1997 ingevolge Stb. 1994, 829 Waardering: B (3) 
 ###359
 
-Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor kantel- en valbeveiligingen bouwmachines. Product: Periode: 1992–1996 Grondslag: Besluit kantel- en valbeveiligingen bouwmachines (Stb. 1992, 267) art. 11, derde lid, b.w. per 1-1-1997 ingevolge Stb. 1994, 829 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het stellen van nadere regels betreffende merken van afkeuring voor kantel- en valbeveiligingen bouwmachines. Product: Periode: 1992–1996 Grondslag: Besluit kantel- en valbeveiligingen bouwmachines (Stb. 1992, 267) art. 11, derde lid, b.w. per 1-1-1997 ingevolge Stb. 1994, 829 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.21 Besluit drukvaten van eenvoudige vorm/Warenwetbesluit drukvaten van eenvoudige vorm* 
 
@@ -1935,7 +1935,7 @@ Handeling: Het op de hoogte stellen van bezitters van drukvaten waar naar het oo
 Handeling: Het uitvaardigen van een verbod tot het vervaardigen, het in Nederland invoeren en het verhandelen van drukvaten die naar het oordeel van de minister gevaar opleveren voor de veiligheid of de gezondheid. Product: Periode: 1992–2003 Grondslag: Besluit drukvaten eenvoudige vorm (Stb. 1992, 456) art. 13, eerste en tweede lidb.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###367
 
-Handeling: Het verlengen van de termijn waarbinnen voor al in gebruik zijnde of in de handel gebrachte drukvaten het verbod op oneigenlijk gebruik niet geldt. Product: Periode: 1992– Grondslag: Besluit drukvaten eenvoudige vorm (Stb. 1992, 456) art. 16, tweede lid, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 16. lid 2 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlengen van de termijn waarbinnen voor al in gebruik zijnde of in de handel gebrachte drukvaten het verbod op oneigenlijk gebruik niet geldt. Product: Periode: 1992– Grondslag: Besluit drukvaten eenvoudige vorm (Stb. 1992, 456) art. 16, tweede lid, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 16. lid 2 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.4.22 Besluit machines/Warenwetbesluit machines* 
 
@@ -1950,7 +1950,7 @@ Handeling: Het aanwijzen van geharmoniseerde normen. Product: Periode: 1993– G
 Handeling: Het omschrijven van een categorie mobiele kraan of torenkraan die minimaal om de 24 maanden gekeurd moeten worden Product: ministeriële regeling Periode: 2003– Grondslag: Warenwetbesluit machines (Stb. 2003, 315) art. 6d, lid 1 Waardering: V Termijn: 1 jaar na vervallen regeling 
 ###1185
 
-Handeling: Het vaststellen van voorschriften voor de afgifte van een certificaat van goedkeuring voor hijskranen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit machines (Stb. 2003, 315) art. 6<sup></sup>e, lid 1 Waardering: V Termijn: 1 jaar na vervallen regels 
+Handeling: Het vaststellen van voorschriften voor de afgifte van een certificaat van goedkeuring voor hijskranen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit machines (Stb. 2003, 315) art. 6<sup></sup> e, lid 1 Waardering: V Termijn: 1 jaar na vervallen regels 
 ###370
 
 Handeling: Het beslissen in beroep tegen een beslissing van de keuringsinstantie tot intrekking van de EG-typeonderzoekverklaring. Product: Periode: 1993–1998 Grondslag: Besluit machines (Stb. 1993, 134) art. 9, derde lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 5 jaar na uitspraak 
@@ -1968,7 +1968,7 @@ Handeling: Het op de hoogte stellen van bezitters van machines waar naar het oor
 Handeling: Het uitvaardigen van een verbod tot het vervaardigen, het in Nederland invoeren en het verhandelen van machines, die naar het oordeel van de minister gevaar opleveren voor de veiligheid of de gezondheid. Product: Periode: 1993–2003 Grondslag: Besluit machines (Stb. 1993, 134) art. 14, eerste en tweede lid, b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###375
 
-Handeling: Het stellen van nadere voorwaarden ten aanzien van machines. Product: Periode: 1993–2003 Grondslag: Besluit machines (Stb. 1993, 134) art. 15, gewijzigd Stb. 1994, 829, b.w. Stb. 2003, 315 Waardering: B (4)  
+Handeling: Het stellen van nadere voorwaarden ten aanzien van machines. Product: Periode: 1993–2003 Grondslag: Besluit machines (Stb. 1993, 134) art. 15, gewijzigd Stb. 1994, 829, b.w. Stb. 2003, 315 Waardering: B (4) 
 
 #### *3.1.4.23 Besluit persoonlijke beschermingsmiddelen/Warenwetbesluit persoonlijke beschermingsmiddelen* 
 
@@ -1992,7 +1992,7 @@ Handeling: Het op de hoogte stellen van bezitters van persoonlijke beschermingsm
 Handeling: Het uitvaardigen van een verbod tot het vervaardigen, het in Nederland invoeren en het verhandelen van persoonlijke beschermingsmiddelen, die naar het oordeel van de minister gevaar opleveren voor de veiligheid of de gezondheid en het verplichten van de fabrikant of diegene die de persoonlijke beschermingsmiddelen in Nederland in de handel brengt, de persoonlijke beschermingsmiddelen uit de handel te nemen. Product: Periode: 1993–2003 Grondslag: Besluit persoonlijke beschermingsmiddelen (Stb. 1993, 441) art. 13, eerste en tweede lid, b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###382
 
-Handeling: Het stellen van nadere voorwaarden ten aanzien van persoonlijke beschermingsmiddelen. Product: Periode: 1993–2003 Grondslag: Besluit persoonlijke beschermingsmiddelen (Stb. 1993, 441) art. 14, gewijzigd Stb. 1994, 829, b.w. Stb. 2003, 315 Waardering: B (4)  
+Handeling: Het stellen van nadere voorwaarden ten aanzien van persoonlijke beschermingsmiddelen. Product: Periode: 1993–2003 Grondslag: Besluit persoonlijke beschermingsmiddelen (Stb. 1993, 441) art. 14, gewijzigd Stb. 1994, 829, b.w. Stb. 2003, 315 Waardering: B (4) 
 
 #### *3.1.4.24 Besluit explosieveilig materieel/Warenwetbesluit explosieveilig materieel* 
 
@@ -2010,7 +2010,7 @@ Handeling: Het gelasten dat, indien na juist gebruik, installatie of onderhoud d
 Handeling: Het verbieden indien na juist gebruik, installatie of onderhoud desondanks blijkt dat het explosieveilig materieel een gevaar voor de veiligheid of gezondheid oplevert, tot het vervaardigen, invoeren verhandelen en in bedrijf stellen van dat explosieveilig materieel. Product: Beschikking Periode: 1995–2003 Grondslag: Besluit explosieveilig materieel (Stb. 1995, 379) artikel 19, eerste en tweede lidb.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###1064
 
-Handeling: Het stellen van nadere voorwaarden aan keuringsinstanties voor explosieveilig materieel. Product: ministeriële regeling Periode: 1995–2003 Grondslag: Besluit explosieveilig materieel (Stb. 1995, 379) artikel 20, tweede lidb.w. Stb. 2003, 315 Waardering: B (5)  
+Handeling: Het stellen van nadere voorwaarden aan keuringsinstanties voor explosieveilig materieel. Product: ministeriële regeling Periode: 1995–2003 Grondslag: Besluit explosieveilig materieel (Stb. 1995, 379) artikel 20, tweede lidb.w. Stb. 2003, 315 Waardering: B (5) 
 
 #### *3.1.4.25 Besluit liften/Warenwetbesluit liften* 
 
@@ -2028,7 +2028,7 @@ Handeling: Het gelasten dat, indien na juist gebruik, installatie en onderhoud d
 Handeling: Het verbieden indien na juist gebruik, installatie of onderhoud desondanks blijkt dat de lift of de veiligheidscomponent een gevaar voor de gezondheid oplevert, tot het vervaardigen, invoeren, verhandelen en in bedrijf stellen van de lift of de veiligheidscomponent. Product: Beschikking Periode: 1996–2003 Grondslag: Besluit liften (Stb. 1996, 444) artikel 25, eerste en tweede lidb.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar naeldigheidsduur 
 ###1069
 
-Handeling: Het stellen van nadere voorwaarden aan keuringsinstanties voor liften of veiligheidscomponenten. Product: ministeriële regeling Periode: 1996–2003 Grondslag: Besluit liften (Stb. 1996, 444) artikel 26, tweede lidb.w. Stb. 2003, 315 Waardering: B (5)  
+Handeling: Het stellen van nadere voorwaarden aan keuringsinstanties voor liften of veiligheidscomponenten. Product: ministeriële regeling Periode: 1996–2003 Grondslag: Besluit liften (Stb. 1996, 444) artikel 26, tweede lidb.w. Stb. 2003, 315 Waardering: B (5) 
 
 #### *3.1.4.26 Besluit drukapparatuur/Warenwetbesluit drukapparatuur* 
 
@@ -2058,7 +2058,7 @@ Handeling: Het stellen van nadere regels ten aanzien van merken van afkeuring op
 Handeling: Het gelasten dat, indien na juist gebruik, installatie en onderhoud desondanks blijkt dat drukapparatuur of samenstellen, die voorzien zijn van de CE-markering, een gevaar kunnen opleveren voor de veiligheid of de gezondheid, de fabrikant/importeur van het gevaarlijke werktuig de gebruikers daarvan dient te waarschuwen voor dat gevaar Product: beschikking Periode: 1999–2003 Grondslag: Besluit drukapparatuur (Stb. 1999, 311) art. 27, lid 1, 2 en 3, b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na uitvoering van de beschikking 
 ###1194
 
-Handeling: Het verbieden, indien na juist gebruik, installatie en onderhoud desondanks blijkt dat drukapparatuur of samenstellen, die zijn voorzien van de CE-markering, een gevaar kunnen opleveren voor de veiligheid of de gezondheid, tot het vervaardigen, invoeren, verhandelen en in bedrijf stellen van de drukapparatuur of samenstellen Product: beschikking Periode: 1999–2003 Grondslag: Besluit drukapparatuur (Stb. 1999, 311) art. 28, lid 1, 2 en 3, b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na uitvoering van de beschikking  
+Handeling: Het verbieden, indien na juist gebruik, installatie en onderhoud desondanks blijkt dat drukapparatuur of samenstellen, die zijn voorzien van de CE-markering, een gevaar kunnen opleveren voor de veiligheid of de gezondheid, tot het vervaardigen, invoeren, verhandelen en in bedrijf stellen van de drukapparatuur of samenstellen Product: beschikking Periode: 1999–2003 Grondslag: Besluit drukapparatuur (Stb. 1999, 311) art. 28, lid 1, 2 en 3, b.w. Stb. 2003, 315 Waardering: V Termijn: 1 jaar na uitvoering van de beschikking 
 
 #### *3.1.5 Handelingen met betrekking tot nucleaire veiligheid* 
 
@@ -2075,7 +2075,7 @@ Handeling: Het bij amvb geven van nadere voorschriften ten aanzien van het aanvr
 Handeling: Het instellen van een commissie van deskundigen. Product: beschikking Periode: ....–1963 Grondslag: Röntgenstralenbesluit (Stb. 1933, 130) art. 4 b.w. Stb. 1963, 82 Waardering: B (4) 
 ###307
 
-Handeling: Het verlenen van dispensatie aan bestaande installaties ten aanzien van de eisen in art. 5, eerste lid van het besluit. Product: beschikking Periode: ....–1963 Grondslag: Röntgenstralenbesluit (Stb. 1933, 130) art. 5, tweede lid b.w. Stb. 1963, 82 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van dispensatie aan bestaande installaties ten aanzien van de eisen in art. 5, eerste lid van het besluit. Product: beschikking Periode: ....–1963 Grondslag: Röntgenstralenbesluit (Stb. 1933, 130) art. 5, tweede lid b.w. Stb. 1963, 82 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.5.2 Veiligheidsbesluit ioniserende stralen* 
 
@@ -2120,7 +2120,7 @@ Handeling: Het erkennen van instellingen die persoonlijke controlemiddelen verst
 Handeling: Het goedkeuren van modellen voor een register waarin de resultaten van controle op de dosis ioniserende stralen worden opgenomen. Product: ministeriële regeling – nr 5117B (Stcrt. 1957, 251, b.w. Stcrt. 1964, 239) – nr. 7074 (Stcrt. 1964, 239) Periode: 1958–1983 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 30, vierde lid; Veiligheidsbesluit ioniserende stralen (Stb. 1963, 98) art. 33, vijfde lid (b.w. 1981, 672) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###134
 
-Handeling: Het verlenen van vrijstellingen ten aanzien van de voorschriften ter voorkoming van ongevallen en beroepsziekten ten gevolge van blootstelling aan ioniserende stralen. Product: Periode: 1958–1983 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 41, eerste lid; Veiligheidsbesluit ioniserende stralen (Stb. 1963, 98) art 43, eerste lid (b.w. 1981, 672) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen ten aanzien van de voorschriften ter voorkoming van ongevallen en beroepsziekten ten gevolge van blootstelling aan ioniserende stralen. Product: Periode: 1958–1983 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 41, eerste lid; Veiligheidsbesluit ioniserende stralen (Stb. 1963, 98) art 43, eerste lid (b.w. 1981, 672) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.5.3 Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Arbeidsomstandigheden en Sociale Verzekeringen 2004* 
 
@@ -2138,7 +2138,7 @@ Handeling: Het bevorderen van (eigen) deskundigheid ten behoeve van normering, s
 Handeling: Het bevorderen van de afstemming op het terrein van arbeidsveiligheid en publieksveiligheid met betrekking tot nucleaire straling Product: Periode: 1995– Grondslag: onder meer: Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Arbeidsomstandigheden en Sociale Verzekeringen 2004 (Stcrt. 2004, 61) art. 4 Waardering: B (5) Toelichting: dit gebeurt onder meer door het uitvoeren en begeleiden van verbetertrajecten in bedrijven en bedrijfstakken en in samenwerking met werkgevers en werknemers 
 ###1199
 
-Handeling: Het stimuleren van kwaliteit van arbeid met nucleaire straling Product: Periode: 1995– Grondslag: onder meer: Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Arbeidsomstandigheden en Sociale Verzekeringen 2004 (Stcrt. 2004, 61) art. 4 Waardering: B (5) Toelichting: dit gebeurt onder meer door de genomen maatregelen te monitoren en te bewaken. Daarnaast wordt geprobeerd draagvlak van de maatregelen te krijgen in het bedrijfsleven  
+Handeling: Het stimuleren van kwaliteit van arbeid met nucleaire straling Product: Periode: 1995– Grondslag: onder meer: Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Arbeidsomstandigheden en Sociale Verzekeringen 2004 (Stcrt. 2004, 61) art. 4 Waardering: B (5) Toelichting: dit gebeurt onder meer door de genomen maatregelen te monitoren en te bewaken. Daarnaast wordt geprobeerd draagvlak van de maatregelen te krijgen in het bedrijfsleven 
 
 #### *3.1.6 Handleiding arbeids- en rusttijden* 
 
@@ -2740,7 +2740,7 @@ Handeling: Het bij amvb stellen van regels ten aanzien van arbeids- en rusttijde
 Handeling: Het beslissen op beroepen tegen beschikkingen van districtshoofden inzake vergunningen om af te wijken van vastgestelde arbeids- en rusttijden. Product: periode 1940–1996 Grondslag: Werktijdenbesluit stuwadoorswet (Stb. 1939, 858) art. 8 vierde lid art. 9 vierde lid, art. 10 derde lid (vernummerd art. 8 derde lid, art. 9 derde lid en art. 10 tweede lid (Stb. 1992, 435), b.w. per 1-1-1997, art. 11 derde lid (b.w. Stb. 1992, 435) Waardering: V Termijn: 5 jaar na uitspraak 
 ###594
 
-Handeling: Het verlenen van vergunningen aan groepen van stuwadoorsondernemingen om af te wijken van vastgestelde arbeids- en rusttijden. Product: vergunning periode 1940–1996 Grondslag: Werktijdenbesluit stuwadoorswet (Stb. 1939, 858) art. 7 tweede lid onder d, art. 8 vijfde lid, art. 9 vijfde lid, art. 10 vierde lid (vernummerd art. 8 vierde lid, art. 9 vierde lid en art. 10 derde lid (Stb. 1992, 435), b.w. per 1-1-1997 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vergunningen aan groepen van stuwadoorsondernemingen om af te wijken van vastgestelde arbeids- en rusttijden. Product: vergunning periode 1940–1996 Grondslag: Werktijdenbesluit stuwadoorswet (Stb. 1939, 858) art. 7 tweede lid onder d, art. 8 vijfde lid, art. 9 vijfde lid, art. 10 vierde lid (vernummerd art. 8 vierde lid, art. 9 vierde lid en art. 10 derde lid (Stb. 1992, 435), b.w. per 1-1-1997 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.1.7 Handelingen subsidieverstrekking* 
 
@@ -2761,9 +2761,9 @@ Handeling: Het benoemen van leden en plaatsvervangende leden van de Commissie Be
 Handeling: Het beslissen op een verzoek tot afwijking bij de uitvoering van het project van de subsidiebeschikking door de werkgever. Product: Periode: 1975–? Grondslag: div. subsidieregelingen Waardering: V Termijn: 5 jaar na uitspraak 
 ###599
 
-Handeling: Het beoordelen welke arbeidsplaatsen moeilijk vervulbaar zijn. Product: Periode: 1981–? Grondslag: Stimuleringsregeling arbeidsplaatsenverbetering 1981 (Stcrt. 1981, 98) art. 5, eerste lid, onder a Waardering: V Termijn: 1 jaar na afhandeling  
+Handeling: Het beoordelen welke arbeidsplaatsen moeilijk vervulbaar zijn. Product: Periode: 1981–? Grondslag: Stimuleringsregeling arbeidsplaatsenverbetering 1981 (Stcrt. 1981, 98) art. 5, eerste lid, onder a Waardering: V Termijn: 1 jaar na afhandeling 
 
-####3.2 Actor: de Directeur-Generaal van de Arbeid (ressorteert onder de minister van SZW)**
+####3.2 Actor: de Directeur-Generaal van de Arbeid (ressorteert onder de minister van SZW)** 
 
 ###5
 
@@ -2845,7 +2845,7 @@ Handeling: Het verlenen van ontheffing aan jeugdigen om ’s zondags en ’s av
 Handeling: Het verzoeken aan medici die aangifte hebben gedaan van beroepsziekte(n) tot het verstrekken van nadere informatie. Product: rapportage Periode: (1940) 1945–1971? Grondslag: algemene maatregel van bestuur zoals bedoeld in art. 82 (Stb. 1920. 773) art. 3 Waardering: V Termijn: 1 jaar na afdoening 
 ###624
 
-Handeling: Het verlenen van ontheffingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: ontheffing periode (1941) 1945–1994 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 3 eerste lid (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 4 eerste lid Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van ontheffingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: ontheffing periode (1941) 1945–1994 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 3 eerste lid (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 4 eerste lid Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 ####3.3 Actor: de Arbeidsinspectie (ressorteert onder de minister van SZW)
 
@@ -2862,7 +2862,7 @@ Handeling: Het behandelen van klachten van individuele burgers, bedrijven en ins
 Handeling: Het adviseren van de bewindspersonen en/of de direceur van het centraal kantoor over aangelegenheden op het werkterrein van het regionaal kantoor. Product: adviezen Periode: 1994– Grondslag: Algemeen organisatie- en mandaatbesluit I-SZW1994 (Stcrt. 1994, 83) artikel 4, gewijzigd Organisatie- en mandaatbesluit Arbeidsinspectie 1996 (Stcrt. 1996, 128) artikel 4:4 onder b Waardering: V Termijn: 5 jaar 
 ###1074
 
-Handeling: Het verzamelen en bewerken van informatie ter ondersteuning van de (optimale) voorbereiding, bepaling en evaluatie van het arbeidsomstandighedenbeleid. Product: – rapporten (van inspectieprojecten) – het bijdragen aan de totstandkoming van de Arbolijst Periode: 1994– Grondslag: Algemeen organisatie- en mandaatbesluit I-SZW 1994 (Stcrt. 1994, 83) artikel 4, gewijzigd Organisatie- en mandaatbesluit Arbeidsinspectie 1996 (Stcrt. 1996, 128 artikel 4:4 onder c, Arbeidsomstandighedenbesluit Stb. 1997, 60) artikelen 2.26, eerste lid, 2.41, eerste lid onder d, 4.24, lid 5,4.49, eerste lid, 4.54, tweede lid onder a, gewijzigd Stb. 1999, 234, art. 4.54, lid 2, gewijzigd Stb. 2003, 4.54, lid 3, 4.94, eerste lid 4.95 en 4.96, gewijzigd Stb. 1999, 234, art. 2.2c, lid 2 en 3, gewijzigd Stb. 2002, 652 art. 6.17, lid 1, 6.19, lid 2 Waardering: V Termijn: 20 jaar Opmerking: De eindrapporten blijven bewaard. Deze zullen worden gebruikt voor bijvoorbeeld de evaluatie van het arbeidsomstandighedenbeleid.  
+Handeling: Het verzamelen en bewerken van informatie ter ondersteuning van de (optimale) voorbereiding, bepaling en evaluatie van het arbeidsomstandighedenbeleid. Product: – rapporten (van inspectieprojecten) – het bijdragen aan de totstandkoming van de Arbolijst Periode: 1994– Grondslag: Algemeen organisatie- en mandaatbesluit I-SZW 1994 (Stcrt. 1994, 83) artikel 4, gewijzigd Organisatie- en mandaatbesluit Arbeidsinspectie 1996 (Stcrt. 1996, 128 artikel 4:4 onder c, Arbeidsomstandighedenbesluit Stb. 1997, 60) artikelen 2.26, eerste lid, 2.41, eerste lid onder d, 4.24, lid 5,4.49, eerste lid, 4.54, tweede lid onder a, gewijzigd Stb. 1999, 234, art. 4.54, lid 2, gewijzigd Stb. 2003, 4.54, lid 3, 4.94, eerste lid 4.95 en 4.96, gewijzigd Stb. 1999, 234, art. 2.2c, lid 2 en 3, gewijzigd Stb. 2002, 652 art. 6.17, lid 1, 6.19, lid 2 Waardering: V Termijn: 20 jaar Opmerking: De eindrapporten blijven bewaard. Deze zullen worden gebruikt voor bijvoorbeeld de evaluatie van het arbeidsomstandighedenbeleid. 
 
 #### *3.3.2 Handelingen veiligheid, gezondheid en welzijn* 
 
@@ -2933,7 +2933,7 @@ Handeling: Het bepalen dat personen niet op aangewezen plaatsen mogen verblijven
 Handeling: Het beslissen op verzoeken van werknemers of werkgevers om wetstoepassing van het geven van een aanwijzing, het stellen van een eis tot naleving of het bevelen tot stillegging van het werk. Product: Periode: 1983–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 40 tweede lid (i.w. Stb. 1982, 673), gewijzigd Stb. 1992, 422 art. 40; (basis van de bevoegdheid wordt de Algemene wet bestuursrecht), b.w. Stb. 1999, 184 Waardering: V Termijn: 5 jaar na uitspraak 
 ###678
 
-Handeling: Het verlenen van ontheffingen betreffende voorschriften ten aanzien van samenwerking en overleg tussen werkgevers en werknemers, deskundige diensten en bijzondere verplichtingen van werkgevers en werknemers, zelfstandig werkenden en derden. Product: ontheffing Periode: 1983–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 41 tweede lid, gewijzigd Stb. 1995, 598, b.w. Stb. 1999, 184 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van ontheffingen betreffende voorschriften ten aanzien van samenwerking en overleg tussen werkgevers en werknemers, deskundige diensten en bijzondere verplichtingen van werkgevers en werknemers, zelfstandig werkenden en derden. Product: ontheffing Periode: 1983–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 41 tweede lid, gewijzigd Stb. 1995, 598, b.w. Stb. 1999, 184 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.2 Arbeidsomstandighedenbesluit* 
 
@@ -2945,13 +2945,13 @@ Handeling: Het beoordelen van de schriftelijke melding van een werkgever met bet
 Handeling: Het beheren van de resultaten van het arbeidsgezondheidskundig onderzoek van de arbodienst van het bedrijf of inrichting dat de werkzaamheden heeft gestaakt Product: Periode: 2002- Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) gewijzigd Stb. 2002, 190 art. 4.10d, lid 5 Waardering: V Termijn: 40 jaar na beëindiging blootstelling werknemer Toelichting: Deze gegevens worden na beëindiging van de werkzaamheden van de arbodienst van het bedrijf of inrichting aan de Arbeidsinspectie overgedragen 
 ###1175
 
-Handeling: Het verlenen van vrijstelling of ontheffing van de verboden krachtens het Arbeidsomstandighedenbesluit Product: vrijstelling, ontheffing Periode: 1997– Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) gewijzigd Stb. 1999, 105 art. 9.10, b.w. Stb. 1999, 435, 9.11, 9.12, 9.13, 9.14, 9.15, 9.16, 9.16a, 9.17, 9.18, 9.19, 9.20 Waardering: V Termijn: 1 jaar na vervallen van de vrijstelling/ontheffing  
+Handeling: Het verlenen van vrijstelling of ontheffing van de verboden krachtens het Arbeidsomstandighedenbesluit Product: vrijstelling, ontheffing Periode: 1997– Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) gewijzigd Stb. 1999, 105 art. 9.10, b.w. Stb. 1999, 435, 9.11, 9.12, 9.13, 9.14, 9.15, 9.16, 9.16a, 9.17, 9.18, 9.19, 9.20 Waardering: V Termijn: 1 jaar na vervallen van de vrijstelling/ontheffing 
 
 #### *3.3.2.3 Organisatie-, Mandaat- en Volmachtbesluit Arbeidsinspectie* 
 
 ###1209
 
-Handeling: Het adviseren van de Rijksbelastingdienst met betrekking tot verzoeken op grond van de willekeurige afschrijvingen arbo-investeringen Product: adviezen Periode: 1998– Grondslag: Wet op de inkomstenbelasting 2001 (Stb. 2000, 216) art. 3.32, lid 2, Wet vermindering afdracht loonbelasting en premie voor de volksverzekering (Stb. 1995, 635) art. 26, lid 3, Organisatie-, Mandaat- en Volmachtbesluit Arbeidsinspectie (Stcrt. 2004, 23) art. 8, lid 2 onder e Waardering: V Termijn: 2 jaar na afsluiting betreffende belastingjaar  
+Handeling: Het adviseren van de Rijksbelastingdienst met betrekking tot verzoeken op grond van de willekeurige afschrijvingen arbo-investeringen Product: adviezen Periode: 1998– Grondslag: Wet op de inkomstenbelasting 2001 (Stb. 2000, 216) art. 3.32, lid 2, Wet vermindering afdracht loonbelasting en premie voor de volksverzekering (Stb. 1995, 635) art. 26, lid 3, Organisatie-, Mandaat- en Volmachtbesluit Arbeidsinspectie (Stcrt. 2004, 23) art. 8, lid 2 onder e Waardering: V Termijn: 2 jaar na afsluiting betreffende belastingjaar 
 
 #### *3.3.2.4 Veiligheidswet* 
 
@@ -2978,7 +2978,7 @@ Handeling: Het aanwijzen in geval van twijfel, als wie het hoofd of bestuurder v
 Handeling: Het verlenen van individuele ontheffingen betreffende het gebruik van loodhoudende stoffen bij schilderwerk. Product: beschikking Periode: 1940–1982 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 14 eerste lid en art. 15 tweede lid Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###677
 
-Handeling: Het verlenen van individuele ontheffingen betreffende verbodsbepalingen voor gevaarlijke werktuigen. Product: beschikking Periode: 1940–1982 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19 eerste lid Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van individuele ontheffingen betreffende verbodsbepalingen voor gevaarlijke werktuigen. Product: beschikking Periode: 1940–1982 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19 eerste lid Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.5 Veiligheidsbesluit fabrieken werkplaatsen (VBF)* 
 
@@ -2996,31 +2996,31 @@ Handeling: Het stellen van eisen ten aanzien van het verstrekken van goed drinkw
 Handeling: Het vorderen van sterkte - en stabiliteitsberekeningen van de steigers, stellingen, stut- en andere hulpcontructies voor het uitvoeren van werken. Product: Periode: 1978–1997 Grondslag: VBF (Stb. 1938, 872), zoals gewijzigd (Stb. 1977, 52) art. 212bis, eerste lid (i.w. Stb. 1978, 15), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 ###635
 
-Handeling: Het stellen van eisen aan werkgevers betreffende de wijze van uitvoering van voorschriften, waaraan met betrekking tot arbeid in fabrieken of werkplaatsen moet worden voldaan en van bijzondere regelingen voor bepaalde fabrieken of werkplaatsen. Product: Periode: 1940–1997 Grondslag: VBF (Stb. 1938, 872), art. 218, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen aan werkgevers betreffende de wijze van uitvoering van voorschriften, waaraan met betrekking tot arbeid in fabrieken of werkplaatsen moet worden voldaan en van bijzondere regelingen voor bepaalde fabrieken of werkplaatsen. Product: Periode: 1940–1997 Grondslag: VBF (Stb. 1938, 872), art. 218, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.6 Elektrotechnisch Veiligheidsbesluit (EVB)* 
 
 ###636
 
-Handeling: Het stellen van eisen aan werkgevers ten aanzien van de wijze van uitvoering van voorschriften tot veilig werken met elektriciteit. Product: Periode: 1940–1997 Grondslag: EVB (Stb. 1938, 873) art. 55, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen aan werkgevers ten aanzien van de wijze van uitvoering van voorschriften tot veilig werken met elektriciteit. Product: Periode: 1940–1997 Grondslag: EVB (Stb. 1938, 873) art. 55, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.7 Veiligheidsbesluit loodwit* 
 
 ###637
 
-Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften ter voorkoming van gezondheidsschade en bevordering van de hygiëne, gesteld in het VB loodwit, in bepaalde gevallen. Product: Periode: 1940–1997 Grondslag: Veiligheidsbesluit loodwit (Stb. 1939, 865) art. 12, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften ter voorkoming van gezondheidsschade en bevordering van de hygiëne, gesteld in het VB loodwit, in bepaalde gevallen. Product: Periode: 1940–1997 Grondslag: Veiligheidsbesluit loodwit (Stb. 1939, 865) art. 12, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.8 Veiligheidsbesluit elektrische schrikdraden* 
 
 ###638
 
-Handeling: Het stellen van eisen betreffende de wijze van uitvoering van bepaalde gevallen van het in het besluit bepaalde. Product: Periode: 1949–1997 Grondslag: Veiligheidsbesluit elektrische schrikdraden (Stb. 1948, I 482) art. 18, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen betreffende de wijze van uitvoering van bepaalde gevallen van het in het besluit bepaalde. Product: Periode: 1949–1997 Grondslag: Veiligheidsbesluit elektrische schrikdraden (Stb. 1948, I 482) art. 18, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.9 Veiligheidsbesluit voor veenderijen* 
 
 ###639
 
-Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften ter voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het ter beschikking stellen van schaftgelegenheden. Product: Periode: 1940–1950 Grondslag: Veiligheidsbesluit voor veenderijen (Stb. 1938, 874) art. 27 (i.w. Stb. 1938, 874, b.w. Stb. 1950, K 107) Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften ter voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het ter beschikking stellen van schaftgelegenheden. Product: Periode: 1940–1950 Grondslag: Veiligheidsbesluit voor veenderijen (Stb. 1938, 874) art. 27 (i.w. Stb. 1938, 874, b.w. Stb. 1950, K 107) Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.10 Landbouwveiligheidsbesluit* 
 
@@ -3029,7 +3029,7 @@ Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorsch
 Handeling: Het verlenen van vrijstellingen en ontheffingen ten aanzien van overschrijding van de toegestane geluidsniveaus. Product: vrijstelling/ontheffing Periode: 1991–1997 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107), zoals gewijzigd (Stb. 1991, 598) art. 68e, eerste lid, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###641
 
-Handeling: Het stellen van eisen aan de uitvoering/naleving van voorschriften uit het Landbouwveiligheidsbesluit ter voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het beschikbaar stellen van schaftgelegenheden en andere verblijfplaatsen. Product: Periode: 1950–1997 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107), gewijzigd (Stb. 1975, 365) art. 78, gewijzigd: Stb. 1982, 408, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen aan de uitvoering/naleving van voorschriften uit het Landbouwveiligheidsbesluit ter voorkoming van ongevallen en schade aan de gezondheid, het verlenen van eerste hulp en het beschikbaar stellen van schaftgelegenheden en andere verblijfplaatsen. Product: Periode: 1950–1997 Grondslag: Landbouwveiligheidsbesluit (Stb. 1950, K 107), gewijzigd (Stb. 1975, 365) art. 78, gewijzigd: Stb. 1982, 408, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.11 Veiligheidsbesluit binnenvaart* 
 
@@ -3038,7 +3038,7 @@ Handeling: Het stellen van eisen aan de uitvoering/naleving van voorschriften ui
 Handeling: Het afgeven van certificaten waaruit blijkt dat hijsinrichtingen met een werkbelasting van meer dan één ton aan een beproeving zijn onderworpen. Product: Periode: 1963–1997 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 35 derde lid, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###652
 
-Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften uit het Veiligheidsbesluit binnenschepen met betrekking tot het voorkomen van ongevallen en van schade aan de gezondheid, het verschaffen van hulp bij ongevallen, het bevorderen van de hygiëne en de huisvesting van opvarenden. Product: Periode: 1963–1997 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 112, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorschriften uit het Veiligheidsbesluit binnenschepen met betrekking tot het voorkomen van ongevallen en van schade aan de gezondheid, het verschaffen van hulp bij ongevallen, het bevorderen van de hygiëne en de huisvesting van opvarenden. Product: Periode: 1963–1997 Grondslag: Veiligheidsbesluit Binnenvaart (Stb. 1963, 170) art. 112, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.12 Veiligheidsbesluit tankschepen* 
 
@@ -3047,19 +3047,19 @@ Handeling: Het stellen van eisen betreffende de wijze van uitvoering van voorsch
 Handeling: Het stellen van eisen in het belang van de veiligheid bij arbeid met tankschepen in bijzondere gevallen. Product: Periode: 1974–1997 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 19, tweede lid (i.w. 1974, 684), gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 ###654/154
 
-Handeling: Het verlenen van vrijstellingen van verboden of voorschriften uit het Veiligheidsbesluit Tankschepen aan ondernemingen. Product: vrijstelling Periode: 1974–1982 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 20, tweede lid (i.w. 1974, 684; b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van vrijstellingen van verboden of voorschriften uit het Veiligheidsbesluit Tankschepen aan ondernemingen. Product: vrijstelling Periode: 1974–1982 Grondslag: Veiligheidsbesluit Tankschepen (Stb. 1974, 566) art. 20, tweede lid (i.w. 1974, 684; b.w. Stb. 1982, 408) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.13 Veiligheidsbesluit restgroepen* 
 
 ###660
 
-Handeling: Het vorderen van gegevens waaruit blijkt dat op hijs- of hefwerktuigen, niet zijnde liften, aangeduide bedrijfslast in overeenstemming is met de voorschriften. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 31 zesde lid, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het vorderen van gegevens waaruit blijkt dat op hijs- of hefwerktuigen, niet zijnde liften, aangeduide bedrijfslast in overeenstemming is met de voorschriften. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 31 zesde lid, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.14 Phosphorluciferwet 1901* 
 
 ###679
 
-Handeling: Het opsporen van overtredingen ten aanzien van het vervaardigen van phosphorlucifers. Product: rapport/proces-verbaal Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 5, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van overtredingen ten aanzien van het vervaardigen van phosphorlucifers. Product: rapport/proces-verbaal Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 5, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.15 Caissonwet/Caissonbesluit/Wet op werken onder overdruk* 
 
@@ -3071,19 +3071,19 @@ Handeling: Het goedkeuren van aanstellingen van geneeskundigen, verbonden aan be
 Handeling: Het stellen van eisen ten aanzien van de naleving van het in het Caissonbesluit bepaalde. Product: Periode: 1982–1994 Grondslag: Caissonbesluit (Stb. 1968, 435), zoals gewijzigd (Stb. 1982, 408) art. 48c (i.w. Stb. 1982, 673), b.w. Stb. 1994, 740 Waardering: V Termijn: 1 jaar na afdoening 
 ###669
 
-Handeling: Het stellen van (nadere) bindende voorschriften aan de werkgever ter naleving van bepalingen uit de Caissonwet/Wet op werken onder overdruk. Product: Periode: 1940–1982 Grondslag: Caissonwet (Stb. 1905, 143) art. 4; Wet op de werken onder overdruk (Stb. 1968, 44) art. 5 (i.w. Stb. 1905, 234, b.w. Stb. 1982, 673) Waardering: V Termijn: 1 jaar na geldigheidsduurwet  
+Handeling: Het stellen van (nadere) bindende voorschriften aan de werkgever ter naleving van bepalingen uit de Caissonwet/Wet op werken onder overdruk. Product: Periode: 1940–1982 Grondslag: Caissonwet (Stb. 1905, 143) art. 4; Wet op de werken onder overdruk (Stb. 1968, 44) art. 5 (i.w. Stb. 1905, 234, b.w. Stb. 1982, 673) Waardering: V Termijn: 1 jaar na geldigheidsduurwet 
 
 #### *3.3.2.16 Zandsteenbesluit* 
 
 ###656
 
-Handeling: Het verlenen van ontheffingen op het verbod zandsteen te bewerken, verwerken of voorhanden te hebben. Product: beschikking Periode: 1951–1997 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 4 eerste lid, gewijzigd (Stb. 1982, 408) art. 4, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van ontheffingen op het verbod zandsteen te bewerken, verwerken of voorhanden te hebben. Product: beschikking Periode: 1951–1997 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 4 eerste lid, gewijzigd (Stb. 1982, 408) art. 4, gewijzigd Stb. 1995, 598, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.17 Zandstraalbesluit* 
 
 ###657
 
-Handeling: Het verlenen van ontheffingen op het verbod tot zandstralen. Product: ontheffing Periode: 1957–1997 Grondslag: Zandstaalbesluit (Stb. 1956, 434) art. 3 eerste lid; Zandstaalbesluit (Stb. 1973, 415) art. 4 eerste lid, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van ontheffingen op het verbod tot zandstralen. Product: ontheffing Periode: 1957–1997 Grondslag: Zandstaalbesluit (Stb. 1956, 434) art. 3 eerste lid; Zandstaalbesluit (Stb. 1973, 415) art. 4 eerste lid, gewijzigd (Stb. 1982, 408), b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.18 Asbestbesluit* 
 
@@ -3092,13 +3092,13 @@ Handeling: Het verlenen van ontheffingen op het verbod tot zandstralen. Product:
 Handeling: Het verlenen van ontheffingen op het verbod crocidoliet of asbest te bewerken, verwerken of in voorraad te hebben. Product: ontheffing Periode: 1978–1988 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 7 eerste lid onder a; vernummerd (Stb. 1982, 408) art. 8 (b.w. Stb. 1988, 560) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###659
 
-Handeling: Het stellen van nadere eisen betreffende gebodsbepalingen ingeval van werken met asbest. Product: Periode: 1978–1988 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 7 eerste lid onder b; vernummerd (Stb. 1982, 408) art. 7 (b.w. Stb. 1988, 560) Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van nadere eisen betreffende gebodsbepalingen ingeval van werken met asbest. Product: Periode: 1978–1988 Grondslag: Asbestbesluit (Stb. 1977, 269) art. 7 eerste lid onder b; vernummerd (Stb. 1982, 408) art. 7 (b.w. Stb. 1988, 560) Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.2.19 Stuwadoorswet* 
 
 ###680
 
-Handeling: Het aanwijzen van bepaalde stuwadoorsondernemingen waar zich bijzondere gevaren voor de daar werkzame werknemers voordoen. Product: Periode: 1962–1972 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1959, 56) art. 12quinquies, tweede lid (b.w. Stb. 1971, 225) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het aanwijzen van bepaalde stuwadoorsondernemingen waar zich bijzondere gevaren voor de daar werkzame werknemers voordoen. Product: Periode: 1962–1972 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1959, 56) art. 12quinquies, tweede lid (b.w. Stb. 1971, 225) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.20 Steenhouwerswet* 
 
@@ -3113,13 +3113,13 @@ Handeling: Het verlenen van vrijstellingen om af te wijken van vastgestelde rust
 Handeling: Het ontheffen van werkgevers van de verplichting er voor te zorgen dat steenhouwers gedurende rusttijden niet verblijven op plaatsen waar (steenhouwers-)werkzaamheden worden uitgevoerd. Product: ontheffing Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 12 derde lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###684
 
-Handeling: Het aanwijzen van personen als werkgever ingeval van coöperatieve steenhouwersarbeid. Product: Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 29 derde lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het aanwijzen van personen als werkgever ingeval van coöperatieve steenhouwersarbeid. Product: Periode: 1940–1980 Grondslag: Steenhouwerswet 1921 art. 29 derde lid (b.w. Stb. 1971, 226) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.3.2.21 Huisarbeidswet* 
 
 ###686
 
-Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 18, b.w. Stb. 1994, 156 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 18, b.w. Stb. 1994, 156 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3 Handelingen met betrekking tot veiligheid van technische voortbrengselen* 
 
@@ -3127,10 +3127,10 @@ Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rappor
 
 ###621
 
-Handeling: Het verlenen van ontheffingen met betrekking ten aanzien van het in de wet bepaalde met betrekking tot werktuigen, toestellen en gereedschappen *(*genoemd in hoofdstuk II van het Veiligheidsbesluit gevaarlijke werktuigen*)*. Product: ontheffing Periode: 1996–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, gewijzigd Stb. 1995, 598,Regeling nr. 246917 (Stcrt. 1982, 247) art. 2,b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
+Handeling: Het verlenen van ontheffingen met betrekking ten aanzien van het in de wet bepaalde met betrekking tot werktuigen, toestellen en gereedschappen *(*genoemd in hoofdstuk II van het Veiligheidsbesluit gevaarlijke werktuigen*)*.  Product: ontheffing Periode: 1996–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, gewijzigd Stb. 1995, 598,Regeling nr. 246917 (Stcrt. 1982, 247) art. 2,b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###699
 
-Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan Product: rapport/proces-verbaal Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1, b.w. met ingang van 01-09-2003 (Stb. 2003, 339),Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan Product: rapport/proces-verbaal Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1, b.w. met ingang van 01-09-2003 (Stb. 2003, 339),Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107  Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.2 Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004/Warenwet* 
 
@@ -3139,7 +3139,7 @@ Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werkt
 Handeling: Het verlenen van vrijstelling of ontheffing voor technische voortbrengselen alsook voor liften, schiethamers, containers, drukvaten van eenvoudige vorm, drukapparatuur en samenstellen daarvan en explosieveilig materieel Product: vrijstelling/ontheffing Periode: 2004– Grondslag: Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004, (Stcrt. 2004, 23) art. 23, lid 2 onder c Waardering: V Termijn: 1 jaar na vervallen van de geldigheid van de vrijstelling/ontheffing Toelichting: deze bevoegdheid bestaat ook op basis van de artikel 16 van de Warenwet 
 ###1211
 
-Handeling: Het oordelen dat technische voortbrengselen waaronder liften, schiethamers, containers, drukvaten van eenvoudige vorm, drukapparatuur en samenstellen daarvan en explosieveilig materieel gevaar opleveren voor de veiligheid of de gezondheid van de mens of gevaar opleveren voor de veiligheid van zaken (en het gelasten aan de verhandelaar om de houders daarvan op de hoogte te stellen) Product: rapportage, beoordeling, proces-verbaal, opleggen bestuursdwang Periode: 2004– Grondslag: Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004 (Stcrt. 2004, 23) art. 23, lid 2 onder c Waardering: V Termijn: 1 jaar na afdoening Toelichting: Deze handeling vindt ook plaats op basis van de artikel 21 van de Warenwet  
+Handeling: Het oordelen dat technische voortbrengselen waaronder liften, schiethamers, containers, drukvaten van eenvoudige vorm, drukapparatuur en samenstellen daarvan en explosieveilig materieel gevaar opleveren voor de veiligheid of de gezondheid van de mens of gevaar opleveren voor de veiligheid van zaken (en het gelasten aan de verhandelaar om de houders daarvan op de hoogte te stellen) Product: rapportage, beoordeling, proces-verbaal, opleggen bestuursdwang Periode: 2004– Grondslag: Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004 (Stcrt. 2004, 23) art. 23, lid 2 onder c Waardering: V Termijn: 1 jaar na afdoening Toelichting: Deze handeling vindt ook plaats op basis van de artikel 21 van de Warenwet 
 
 #### *3.3.3.3 Dorsgarniturenbesluit* 
 
@@ -3148,7 +3148,7 @@ Handeling: Het oordelen dat technische voortbrengselen waaronder liften, schieth
 Handeling: Het verlenen van vrijstellingen ten aanzien van het in de wet bepaalde met betrekking tot dorgarnituren. Product: vrijstelling Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, Regeling nr. 3201 (Stcrt. 1958, 128) art. 3, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###687
 
-Handeling: Het beproeven en onderzoeken van dorsgarnituren, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, Regeling nr. 3201 (Stcrt. 1958, 128) art. 4, eerste lid, gewijzigd Stb. 1995, 598, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van dorsgarnituren, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, Regeling nr. 3201 (Stcrt. 1958, 128) art. 4, eerste lid, gewijzigd Stb. 1995, 598, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.4 Liftenbesluit I* 
 
@@ -3167,7 +3167,7 @@ Handeling: Het beproeven en onderzoeken van liften en veiligheidscomponenten enh
 Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde met betrekking tot spanninggevers. Product: ontheffing Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 6552 (Stcrt. 1958, 223) art. 10, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###690
 
-Handeling: Het beproeven en onderzoeken van spanninggevers, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 6552 (Stcrt. 1958, 223) art. 11, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van spanninggevers, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 6552 (Stcrt. 1958, 223) art. 11, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.6 Besluit verplaatsbare transporteurs* 
 
@@ -3176,19 +3176,19 @@ Handeling: Het beproeven en onderzoeken van spanninggevers, het stellen van een 
 Handeling: Het verlenen van vrijstellingen (tot 1973) en ontheffingen (vanaf 1973) ten aanzien van het in de wet bepaalde met betrekking tot verplaatsbare transporteurs. Product: vrijstelling/ontheffing Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 841 (Stcrt. 1963, 220) art. 3, gewijzigd Regeling nr. 80623 (Stcrt. 1973, 84) art. 3, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###691
 
-Handeling: Het beproeven en onderzoeken van verplaatsbare transporteurs, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 841 (Stcrt. 1963, 220) art. 4, eerste lid, gewijzigd no. 80623 (Stcrt. 1973, 84) art. 7, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van verplaatsbare transporteurs, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 841 (Stcrt. 1963, 220) art. 4, eerste lid, gewijzigd no. 80623 (Stcrt. 1973, 84) art. 7, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.7 Besluit schiethamers* 
 
 ###615
 
-Handeling: Het waarmerken van een voor het type kenmerkend monster van een schiethamer of splinterkap. Product: Periode: 1995–2003 Grondslag: Regeling nr. 5340 (Stcrt. 1967, 81) art. 4, gewijzigd Stcrt. 1999, 64 Termijn: 1 jaar na geldigheidsduur Opmerking: Goedgekeurde monsters worden bewaard door het directoraat-generaal van de Arbeid */* het Centraal kantoor van de Arbeidsinspectie 
+Handeling: Het waarmerken van een voor het type kenmerkend monster van een schiethamer of splinterkap. Product: Periode: 1995–2003 Grondslag: Regeling nr. 5340 (Stcrt. 1967, 81) art. 4, gewijzigd Stcrt. 1999, 64 Termijn: 1 jaar na geldigheidsduur Opmerking: Goedgekeurde monsters worden bewaard door het directoraat-generaal van de Arbeid*/*het Centraal kantoor van de Arbeidsinspectie 
 ###616
 
 Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde met betrekking tot schiethamers en splinterkappen. Product: ontheffing Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, Regeling nr. 5340 (Stcrt. 1967, 81) art. 8, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###617
 
-Handeling: Het beproeven en onderzoeken van schiethamers en splinterkappen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, b.w. met Stb. 2003, 315,Regeling nr. 5340 (Stcrt. 1967, 81) art. 9, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van schiethamers en splinterkappen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, b.w. met Stb. 2003, 315,Regeling nr. 5340 (Stcrt. 1967, 81) art. 9, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.8 Besluit acetyleenontwikkelaars* 
 
@@ -3200,7 +3200,7 @@ Handeling: Het waarmerken van een voor het type kenmerkend monster van een acety
 Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde met betrekking tot acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen Product: ontheffing Periode: 1995–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, Regeling nr. 6516 (Stcrt. 1967, 252) art. 11, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###692
 
-Handeling: Het beproeven en onderzoeken van acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 6516, Stcrt. 1967, 252) art. 12, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van acetyleenontwikkelaars, terugslagveiligheden en reduceertoestellen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 6516, Stcrt. 1967, 252) art. 12, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.9 Besluit containers* 
 
@@ -3212,43 +3212,43 @@ Handeling: Het geven van aanwijzingen aan de keuringinstanties met betrekking to
 Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde met betrekking tot containers. Product: ontheffing Periode: 1985–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 11, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 84/15335 (Stcrt. 1985, 23) art. 16, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###694
 
-Handeling: Het beproeven en onderzoeken van containers, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 84/15335 (Stcrt. 1985, 23) art. 17, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van containers, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1967–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling nr. 84/15335 (Stcrt. 1985, 23) art. 17, eerste lid, b.w. Stcrt. 1999, 64 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.10 Besluit gemotoriseerde transportwerktuigen* 
 
 ###695
 
-Handeling: Het beproeven en onderzoeken van gemotoriseerde transportwerktuigen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–1995 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling (Stcrt. 1992, 40) art. 5, eerste lid, b.w. met Stb. 1993, 134 per 1-1-1996 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van gemotoriseerde transportwerktuigen, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–1995 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling (Stcrt. 1992, 40) art. 5, eerste lid, b.w. met Stb. 1993, 134 per 1-1-1996 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.11 Besluit kantel- en valbeveiligingen bouwmachines* 
 
 ###696
 
-Handeling: Het beproeven en onderzoeken van kantel- en valbeveiligingen bouwmachines, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–1995 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling (Stcrt. 1992, 106) art. 5, eerste lid, b.w. met Stb. 1993, 134 per 1-1-1996 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van kantel- en valbeveiligingen bouwmachines, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–1995 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, Regeling (Stcrt. 1992, 106) art. 5, eerste lid, b.w. met Stb. 1993, 134 per 1-1-1996 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.12 Besluit drukvaten van eenvoudige vorm* 
 
 ###697
 
-Handeling: Het beproeven en onderzoeken van drukvaten van eenvoudige vorm, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315,Regeling (Stcrt. 1992, 208) art. 5, eerste lid Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het beproeven en onderzoeken van drukvaten van eenvoudige vorm, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1992–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315,Regeling (Stcrt. 1992, 208) art. 5, eerste lid  Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.3.13 Besluit machines* 
 
 ###1213
 
-Handeling: Het beproeven en onderzoeken van machines of veiligheidscomponenten en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1993–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315,Regeling houdende nadere regels ten aanzien van machines (Stcrt. 1993, 127), nr. 93/3055 Waardering: V termijn: 1 jaar na afdoening van het onderzoek/eis  
+Handeling: Het beproeven en onderzoeken van machines of veiligheidscomponenten en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1993–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315,Regeling houdende nadere regels ten aanzien van machines (Stcrt. 1993, 127), nr. 93/3055 Waardering: V termijn: 1 jaar na afdoening van het onderzoek/eis 
 
 #### *3.3.3.14 Besluit persoonlijke beschermingsmiddelen* 
 
 ###1214
 
-Handeling: Het beproeven en onderzoeken van persoonlijke beschermingsmiddelen en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1993–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315, Regeling houdende nadere regels ten aanzien van persoonlijke beschermingsmiddelen (Stcrt. 1993, 186) art. 5, lid 1 Waardering: V termijn: 1 jaar na afdoening van het onderzoek/eis  
+Handeling: Het beproeven en onderzoeken van persoonlijke beschermingsmiddelen en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1993–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315, Regeling houdende nadere regels ten aanzien van persoonlijke beschermingsmiddelen (Stcrt. 1993, 186) art. 5, lid 1 Waardering: V termijn: 1 jaar na afdoening van het onderzoek/eis 
 
 #### *3.3.3.15 Besluit explosieveilig materieel* 
 
 ###1215
 
-Handeling: Het beproeven en onderzoeken van explosieveilig materieel en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1996–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315, Regeling houdende nadere regels ten aanzien van explosieveilig materieel (Stcrt. 1996, 57) art. 5, lid 1 Waardering: V Termijn: 1 jaar na afdoening van het onderzoek/eis  
+Handeling: Het beproeven en onderzoeken van explosieveilig materieel en het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn Product: rapportage, eisen Periode: 1996–2003 Grondslag: Wet gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, gewijzigd Stb. 1995, 598, b.w. met Stb. 2003, 315, Regeling houdende nadere regels ten aanzien van explosieveilig materieel (Stcrt. 1996, 57) art. 5, lid 1 Waardering: V Termijn: 1 jaar na afdoening van het onderzoek/eis 
 
 #### *3.3.4 Handelingen met betrekking tot nucleaire veiligheid* 
 
@@ -3256,7 +3256,7 @@ Handeling: Het beproeven en onderzoeken van explosieveilig materieel en het stel
 
 ###685
 
-Handeling: Het opsporen van overtredingen van de röntgenstralenwet. Product: rapport/proces-verbaal Periode: ..–1963 Grondslag: Röntgenstralenwet (Stb. 1931, 299) art. 8, b.w. Stb. 1963, 82 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van overtredingen van de röntgenstralenwet. Product: rapport/proces-verbaal Periode: ..–1963 Grondslag: Röntgenstralenwet (Stb. 1931, 299) art. 8, b.w. Stb. 1963, 82 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.4.2 Veiligheidsbesluit ioniserende stralen* 
 
@@ -3286,7 +3286,7 @@ Handeling: Het oordelen dat het onnodig is dat werknemers, die radiologische wer
 Handeling: Het oordelen dat het onnodig is dat periodiek wordt gecontroleerd aan welke dosis ioniserende stralen werknemers blootgesteld zijn geweest. Product: Periode: 1958–1963 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 30, tweede lid (b.w. Stb. 1963, 98) Waardering: V Termijn: 1 jaar na afdoening 
 ###650
 
-Handeling: Het stellen van eisen aan werkgevers ten aanzien van de wijze van uitvoering van voorschriften uit het Veiligheidsbesluit ioniserende stralen tot het voorkomen van ongevallen, besmetting en beroepsziekten. Product: Periode: 1958–1983 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 40; Veiligheidsbesluit ioniserende stralen (Stb. 1963, 98) art. 42 (b.w. 1981, 672) Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het stellen van eisen aan werkgevers ten aanzien van de wijze van uitvoering van voorschriften uit het Veiligheidsbesluit ioniserende stralen tot het voorkomen van ongevallen, besmetting en beroepsziekten. Product: Periode: 1958–1983 Grondslag: Veiligheidsbesluit ioniserende stralen (Stb. 1957, 116) art. 40; Veiligheidsbesluit ioniserende stralen (Stb. 1963, 98) art. 42 (b.w. 1981, 672) Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.4.3 Arbeidsinspectie/Kernenergie* 
 
@@ -3297,7 +3297,7 @@ Handeling: Het ontwikkelen en onderhouden van instrumenten ten behoeve van de (c
 
 ###1218
 
-Handeling: Het toezien op de naleving van wet- en regelgeving door werkgevers en werknemers op het gebied van stralingsbescherming Product: eis tot naleving, stillegging, rapportage (controle) Periode: 1995– Grondslag: onder meer: Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004 (Stcrt. 2004, 23) art. 16 Waardering: B (5)  
+Handeling: Het toezien op de naleving van wet- en regelgeving door werkgevers en werknemers op het gebied van stralingsbescherming Product: eis tot naleving, stillegging, rapportage (controle) Periode: 1995– Grondslag: onder meer: Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004 (Stcrt. 2004, 23) art. 16 Waardering: B (5) 
 
 #### *3.3.5 Handelingen arbeids- en rusttijden* 
 
@@ -3624,13 +3624,13 @@ Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rappor
 Handeling: Het verlenen van ontheffingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: ontheffing periode 1941–1995 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 3 eerste lid (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 4 eerste lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###806
 
-Handeling: Het opsporen van overtredingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: periode 1941–1995 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 4 (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 5, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van overtredingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: periode 1941–1995 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 4 (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 5, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.3.6 Handeling subsidieverstrekking* 
 
 ###807
 
-Handeling: Het beslissen op een verzoek tot afwijking bij de uitvoering van het project van de subsidiebeschikking door de werkgever. Product: Periode: 1975–? Grondslag: div. subsidieregelingen Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beslissen op een verzoek tot afwijking bij de uitvoering van het project van de subsidiebeschikking door de werkgever. Product: Periode: 1975–? Grondslag: div. subsidieregelingen Waardering: V Termijn: 5 jaar na uitspraak 
 
 ####3.4 Actor: De Inspectie van de Havenarbeid (tot begin 1994, daarna I-SZW en in 1996 Arbeidsinspectie, ressorteert onder de minister van SZW))
 
@@ -3747,7 +3747,7 @@ Handeling: Het voorschrijven dat hoofden of bestuurders van stuwadoorsondernemin
 Handeling: Het verlenen van vergunningen om af te wijken van vastgestelde arbeids- en rusttijden. Product: vergunning periode 1940–1996 Grondslag: Werktijdenbesluit stuwadoorswet (Stb. 1939, 858) art. 7 tweede lid onder d, art. 8 eerste lid, art. 9 eerste lid, art. 10 eerste lid, art. 11 eerste lid, b.w. per 1-1-1997 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###845
 
-Handeling: Het opsporen van overtredingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: periode 1941–1995 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 4 (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 5, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van overtredingen van het verbod om op maandagen dans- en amusementsmuziek ten gehore te brengen of te doen brengen. Product: periode 1941–1995 Grondslag: Besluit wekelijkse rustdag voor toonkunstenaars (Stcrt. 1941, 203) art. 4 (b.w. Stb. 1951, 281); Wet wekelijkse rustdag voor toonkunstenaars (Stb. 1951, 281) art. 5, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na afdoening 
 
 ####3.5 Actor: de Dienst voor het Stoomwezen/Stoomwezen b.v. (ressorteert tot medio 1994 onder de minister van SZW)
 
@@ -3764,7 +3764,7 @@ Handeling: Het gelijkstellen van keuringen van stoom- en damptoestellen door bui
 Handeling: Het instellen van onderzoeken naar aanleiding van ongelukken met stoomtoestellen. Product: proces-verbaal Periode: 1940– Grondslag: Stoomwet (Stb. 1896, 69) art. 25 tweede lid; Stoomwet (Stb. 1953, 179) art. 13 tweede lid Waardering: V Termijn: 5 jaar na einde levensduur toestel 
 ###858
 
-Handeling: Het opsporen van bij de Stoomwet 1953 strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1954– Grondslag: Stoomwet (Stb. 1953, 179) art. 15 Waardering: V Termijn: 5 jaar na einde levensduur toestel  
+Handeling: Het opsporen van bij de Stoomwet 1953 strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1954– Grondslag: Stoomwet (Stb. 1953, 179) art. 15 Waardering: V Termijn: 5 jaar na einde levensduur toestel 
 
 #### *3.5.1.2 Stoombesluit* 
 
@@ -3776,7 +3776,7 @@ Handeling: Het ten behoeve van veilig gebruik, stellen van eisen aan materiaal, 
 Handeling: Het vaststellen van het model van het stempelafdruk dat moet worden ingeslagen in stoom- en damptoestellen ten bewijze van bevredigende uitkomst van onderzoek en beproeving. Product: ministeriële regeling voorbeeld: – Beschikking model plaat (Stcrt. 1931, 124) Periode: 1940– Grondslag: Stoombesluit (Stb. 1931, 239) art. 7 eerste lid, art. 62 eerste lid (b.w. Stoombesluit 1949); Stoombesluit (Stb. 1953, 587) art. 14 derde lid Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###856
 
-Handeling: Het registreren van stoom- en damptoestellen waarvoor akte van vergunning is verleend. Product: Register van de Dienst voor het Stoomwezen Periode: 1940– Grondslag: Stoombesluit (Stb. 1931, 239) art. 7 derde lid en art. 15; Stoombesluit (Stb. 1949, J 431) art. 25 derde lid en art. 26; Stoombesluit (Stb. 1953, 587) art. 25 derde lid en art. 26 Waardering: B (5)  
+Handeling: Het registreren van stoom- en damptoestellen waarvoor akte van vergunning is verleend. Product: Register van de Dienst voor het Stoomwezen Periode: 1940– Grondslag: Stoombesluit (Stb. 1931, 239) art. 7 derde lid en art. 15; Stoombesluit (Stb. 1949, J 431) art. 25 derde lid en art. 26; Stoombesluit (Stb. 1953, 587) art. 25 derde lid en art. 26 Waardering: B (5) 
 
 #### *3.5.1.3 Vergoedingen in verband met keuringen* 
 
@@ -3785,7 +3785,7 @@ Handeling: Het registreren van stoom- en damptoestellen waarvoor akte van vergun
 Handeling: Het geven van nadere bepalingen ten aanzien van kosten, die aanvragers van onderzoeken en/of beproevingen van stoomtoestellen in het buitenland moeten voldoen. Product: Periode: 1954– Grondslag: Beschikking onderzoek en/of beproeving van stoomketels enz. (Stcrt. 1949, 186) art. VI en IX; Vaststelling tarief ingevolge art. 4 tweede lid Stoombesluit (Stcrt. 1954, 169) art. 6 en 7; Tarief keuring stoom- en damptoestellen (Stcrt. 1958, 19) B onder 6 en art 7; Regeling onderzoek en/of beproeving van stoomketels enz. in het buitenland (Stcrt. 1931, 124) art. 6 Waardering: V Termijn: 3 jaar 
 ###854
 
-Handeling: Het vaststellen van afwijkende keuringsvergoedingen van stoom- en damptoestellen, indien door bijzondere constructies van de toestellen de gevolgde procedure aanleiding zou geven tot onredelijkheid. Product: Periode: 1965– Grondslag: Vergoedingenbesluit stoom- en damptoestellen (Stb. 1953, 588) art. 12 (b.w. Stb. 1976, 301); Vergoedingenbesluit (Stcrt. 1977, 82) art. 11, gewijzigd en geplaatst in Stcrt. 1998, 172 Waardering: V Termijn: 3 jaar  
+Handeling: Het vaststellen van afwijkende keuringsvergoedingen van stoom- en damptoestellen, indien door bijzondere constructies van de toestellen de gevolgde procedure aanleiding zou geven tot onredelijkheid. Product: Periode: 1965– Grondslag: Vergoedingenbesluit stoom- en damptoestellen (Stb. 1953, 588) art. 12 (b.w. Stb. 1976, 301); Vergoedingenbesluit (Stcrt. 1977, 82) art. 11, gewijzigd en geplaatst in Stcrt. 1998, 172 Waardering: V Termijn: 3 jaar 
 
 #### *3.5.1.4 Besluiten betreffende het gebruik en inrichtingen voor het vullen van drukvaten, dienende voor de voortbeweging van motorvaar- en- voertuigen* 
 
@@ -3794,7 +3794,7 @@ Handeling: Het vaststellen van afwijkende keuringsvergoedingen van stoom- en dam
 Handeling: Het onderzoeken op deugdelijkheid voor het gebruik van flessen, transport- en voorraadreservoirs gevuld met gas onder druk, dienende voor de voortbeweging van die motorvaar- en -⁠voertuigen. Product: Periode: 1940–1947 Grondslag: Besluit betreffende het gebruik van drukvaten, dienende voor de voortbeweging van motorvaar- en -voertuigen (Stb. 1940, O 802) art. 1 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###847
 
-Handeling: Het onderzoeken op deugdelijkheid van inrichtingen tot het vullen van drukvaten met gas. Product: Periode: 1942–1947 Grondslag: Besluit betreffende inrichtingen voor het vullen van drukvaten, dienende voor de voortbeweging van motor- en- voertuigen (Stcrt. 1942, 70) art. 1 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het onderzoeken op deugdelijkheid van inrichtingen tot het vullen van drukvaten met gas. Product: Periode: 1942–1947 Grondslag: Besluit betreffende inrichtingen voor het vullen van drukvaten, dienende voor de voortbeweging van motor- en- voertuigen (Stcrt. 1942, 70) art. 1 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.5.1.5 Drukvatenbesluit* 
 
@@ -3803,13 +3803,13 @@ Handeling: Het onderzoeken op deugdelijkheid van inrichtingen tot het vullen van
 Handeling: Het geven van toestemming drukvaten welke dienst hebben gedaan, of waarvan de directeur het vermoeden heeft dat zij dienst hebben gedaan, om gassen voor het drijven van motoren te bewaren of te vervoeren, met andere gassen te (doen) vullen of te (doen) gebruiken voor het bewaren of vervoeren van andere gassen. Product: Periode: 1945–1998 Grondslag: Drukvatenbesluit (Stb. 1945, F237) art. 1, eerste en tweede lid, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###849
 
-Handeling: Het opsporen van in het drukvatenbesluit strafbare gestelde feiten. Product: rapport/proces verbaal Periode: 1945–1998 Grondslag: Drukvatenbesluit (Stb. 1945, F237) art. 6, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het opsporen van in het drukvatenbesluit strafbare gestelde feiten. Product: rapport/proces verbaal Periode: 1945–1998 Grondslag: Drukvatenbesluit (Stb. 1945, F237) art. 6, b.w. Stb. 1998, 691 Waardering: V Termijn: 1 jaar na afdoening 
 
 #### *3.5.1.6 Wet op de gevaarlijke werktuigen* 
 
 ###859
 
-Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1 Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107) Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1999 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1 Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107) Waardering: V Termijn: 1 jaar na afdoening 
 
 ####3.6 Actor: door de Minister aangewezen personen (ressorteert onder de minister van SZW)
 
@@ -3821,7 +3821,7 @@ Handeling: Het beslissen in beroep ten aanzien van door het districtshoofd geste
 Handeling: Het beslissen in beroep tegen bevelen tot staking van de stuwadoorsarbeid en tegen aanwijzingen. Product: Periode: 1940–1976 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1931, 331) art. 12bis, negende lid, b.w. Stb. 1975, 403 Waardering: V Termijn: 5 jaar na uitspraak 
 ###870
 
-Handeling: Het beslissen in beroep tegen het bevel tot gehele of gedeeltelijk staking van de stuwadoorsarbeid. Product: beschikking Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 21, zesde lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beslissen in beroep tegen het bevel tot gehele of gedeeltelijk staking van de stuwadoorsarbeid. Product: beschikking Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 21, zesde lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 5 jaar na uitspraak 
 
 ####3.7 Actor: de Secretaris-Generaal van Sociale Zaken (ressorteert onder de minister van SZW)
 
@@ -3830,13 +3830,13 @@ Handeling: Het beslissen in beroep tegen het bevel tot gehele of gedeeltelijk st
 Handeling: Het geven van uitvoeringsvoorschriften voor de geldende Nederlandse wetten en voor de verordeningen van de Rijkscommissaris en het geven van aanwijzingen aan ondergeschikte diensten en ambtenaren. Product: Voorbeelden: – Algemene vergunning tot het verrichten van arbeid op zondag (Stcrt. 1941, 23); – Besluit betreffende verlenging en wijziging van de arbeidstijd (Stcrt. 1943, 81 en 167); – Besluit tot wijziging van het Arbeidsbesluit 1920 (Stcrt. 1943, 53) Periode: 1940–1945 Grondslag: Verordeningen van de rijkscommissaris voor het bezette Nederlandse gebied no. 3/1940 en no. 23/1940 Waardering: B (7) 
 ###873
 
-Handeling: Het geven van voorschriften met betrekking tot constructie en (her-)beproeving van toestellen en vaten die gevaar voor ontploffing opleveren. Product: Besluit betreffende inrichtingen voor het vullen van drukvaten, dienende voor de voortbeweging van motor- en -voertuigen (Stcrt. 1942, 70; b.w. Stb. 1947, H 70). Periode: 1940–1945 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19 tweede lid Waardering: B (7)  
+Handeling: Het geven van voorschriften met betrekking tot constructie en (her-)beproeving van toestellen en vaten die gevaar voor ontploffing opleveren. Product: Besluit betreffende inrichtingen voor het vullen van drukvaten, dienende voor de voortbeweging van motor- en -voertuigen (Stcrt. 1942, 70; b.w. Stb. 1947, H 70). Periode: 1940–1945 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19 tweede lid Waardering: B (7) 
 
 ####3.8 Actor: de Opperbevelhebber van Land- en Zeemacht
 
 ###871
 
-Handeling: Het geven van voorschriften met betrekking tot constructie en (her-)beproeving van toestellen en vaten die gevaar voor ontploffing opleveren. Product: regeling – Besluit betreffende het gebruik van drukvaten, dienende voor de voortbeweging van motorvaar- en -voertuigen (Stb. 1940, O 802; b.w. Stb. 1947, H 70) Periode: 1940–1947 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19, tweede lid Waardering: B (7)  
+Handeling: Het geven van voorschriften met betrekking tot constructie en (her-)beproeving van toestellen en vaten die gevaar voor ontploffing opleveren. Product: regeling – Besluit betreffende het gebruik van drukvaten, dienende voor de voortbeweging van motorvaar- en -voertuigen (Stb. 1940, O 802; b.w. Stb. 1947, H 70) Periode: 1940–1947 Grondslag: Veiligheidswet (Stb. 1934, 352) art. 19, tweede lid Waardering: B (7) 
 
 ####3.9 Actor: de Minister van Verkeer en Waterstaat
 
@@ -3847,7 +3847,7 @@ Handeling: Het geven van voorschriften met betrekking tot constructie en (her-)b
 Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999, 208) – Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 2 Waardering: V 10 jaar 
 ###15
 
-Handeling: Het nemen van het besluit om de Arbeidsomstandighedenwet geheel of gedeeltelijk niet van toepassing te verklaren voor arbeid verricht in of op vervoermiddelen. Product: ministeriële regeling – Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) gewijzigd Stcrt. 1995, 252 – Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1991–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 2 derde lid (i.w. Stb. 1991, 745), vernummerd Stb. 1995, 598, art. 2, vierde lid, b.w. Stb. 1999, 184 Waardering: B (1)  
+Handeling: Het nemen van het besluit om de Arbeidsomstandighedenwet geheel of gedeeltelijk niet van toepassing te verklaren voor arbeid verricht in of op vervoermiddelen. Product: ministeriële regeling – Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) gewijzigd Stcrt. 1995, 252 – Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1991–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 2 derde lid (i.w. Stb. 1991, 745), vernummerd Stb. 1995, 598, art. 2, vierde lid, b.w. Stb. 1999, 184 Waardering: B (1) 
 
 #### *3.9.1.2 Handelingen arbeids- en rusttijden* 
 
@@ -3979,7 +3979,7 @@ Handeling: Het stellen van regels met betrekking tot installatie van de tachogra
 Handeling: Het verlenen van goedkeuringen en erkenningen aan installateurs of reparateurs van tachografen, of aan de apparatuur en installaties. Product: beschikking Periode: 1978–1998 Grondslag: Beschikking installatievoorschriften tachograaf (Stcrt. 1978, 59) art. 1, tweede lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###916
 
-Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde. Product: Periode: 1978–1998?? Grondslag: Beschikking installatievoorschriften tachograaf (Stcrt. 1978, 59) art. art. 17, eerste lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde. Product: Periode: 1978–1998?? Grondslag: Beschikking installatievoorschriften tachograaf (Stcrt. 1978, 59) art. art. 17, eerste lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 ####3.10 Actor: de Luchtvaartinspectiet (ressorteert onder de minister van V en W, tegenwoordig Inspectie V en W)
 
@@ -3991,7 +3991,7 @@ Handeling: Het verlenen van ontheffingen betreffende voorschriften ten aanzien v
 Handeling: Het stellen van eisen betreffende de naleving van regels zoals gesteld in de Arbowet, voorzover dit betrekking heeft op luchtvaartuigen. Product: Periode: 1992–1997 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 36 eerste lid; Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) art. 9, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 ###919
 
-Handeling: Het bepalen dat personen niet op aangewezen plaatsen mogen verblijven of aangewezen werkzaamheden niet mogen worden aangevangen, dan wel moeten worden gestaakt, voorzover dit betrekking heeft op luchtvaartuigen. Product: Periode: 1992–1997 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 37 eerste lid; Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) art. 9, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het bepalen dat personen niet op aangewezen plaatsen mogen verblijven of aangewezen werkzaamheden niet mogen worden aangevangen, dan wel moeten worden gestaakt, voorzover dit betrekking heeft op luchtvaartuigen. Product: Periode: 1992–1997 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 37 eerste lid; Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) art. 9, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 
 ####3.11 Actor: de Scheepvaartinspectie (ressorteert onder de minister van V en W, tegenwoordig Inspectie V en W)
 
@@ -4015,7 +4015,7 @@ Handeling: Het stellen van eisen betreffende de naleving van regels zoals gestel
 Handeling: Het bepalen dat personen niet op aangewezen plaatsen mogen verblijven of aangewezen werkzaamheden niet mogen worden aangevangen, dan wel moeten worden gestaakt, voorzover dit betrekking heeft op zeeschepen. Product: Periode: 1992–1997 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 37 eerste lid; Arbeidsomstandighedenregeling vervoermiddelen (Stcrt. 1991, 248) art. 9, b.w. Stb. 1997, 60 Waardering: V Termijn: 1 jaar na afdoening 
 ###923
 
-Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1982 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1 Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid Waardering: V Termijn: 5 jaar  
+Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1982 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1 Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid Waardering: V Termijn: 5 jaar 
 
 ####3.12 Actor: de Rijksverkeersinspectie (ressorteert onder de minister van V en W, tegenwoordig Inspectie V en W)
 
@@ -4036,7 +4036,7 @@ Handeling: Het verlenen van ontheffingen voor zover het betreft vervoer van goed
 Handeling: Het verlenen van ontheffingen ten aanzien van het in het besluit bepaalde. Product: ontheffing Periode: 1978–1998 Grondslag: Rijtijdenbesluit (Stb. 1977, 547) art. 26, eerste lid, b.w. Stb. 1995, 598 Waardering: V Termijn: 1 jaar na geldigheidsduur 
 ###929
 
-Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1940–1998 Grondslag: Rijtijdenwet (Stb. 1936, 802), b.w. Stb. 1995, 598 Waardering: V Termijn: 5 jaar  
+Handeling: Het opsporen van in de wet strafbaar gestelde feiten. Product: rapport/proces-verbaal Periode: 1940–1998 Grondslag: Rijtijdenwet (Stb. 1936, 802), b.w. Stb. 1995, 598 Waardering: V Termijn: 5 jaar 
 
 ####3.13 Actor: de Minister van Economische Zaken
 
@@ -4050,7 +4050,7 @@ Handeling: Het bij amvb bepalen dat de Arbeidsomstandighedenwet en de daarop ber
 Handeling: Het bij amvb stellen van regels met betrekking tot arbeid verricht in of bij mijnen alsmede in de bij mijnbouwkundige onderzoekingen behorende werken of inrichtingen. Product: ministeriële regeling Periode: 1997–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1996, 133) gewijzigd Stb. 1997, 536, artikel 2, zevende lid onder b, b.w. Stb. 1999, 184 Waardering: 
 ###1104
 
-Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999,208) – Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 2 Waardering: V Termijn: 1 jaar na vervallen van de geldigheid van de aanwijzing  
+Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999,208) – Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 2 Waardering: V Termijn: 1 jaar na vervallen van de geldigheid van de aanwijzing 
 
 #### *3.13.1.2 Handelingen met betrekking tot veiligheid van technische voortbrengselen* 
 
@@ -4062,13 +4062,13 @@ Handeling: Het bij amvb bepalen dat bepaalde onderdelen van de Wet op de gevaarl
 Handeling: Hetbij amvb stellen van regels, met betrekking tot gevaarlijke werktuigen en beveiligingsmiddelen die gebruikt worden bij verkennings- of opsporingsonderzoek in of bij mijnen alsmede in de bij mijnbouwkundige onderzoekingen behorende werken of inrichtingen. Product: ministeriële regeling Periode: 1997–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) gewijzigd Stb. 1997, 536, artikel 1a, eerste lid onder b, b.w. met Stb. 2003, 315 Waardering: 
 ###391
 
-Handeling: Het opdragen van uitvoering van de Wet op de Gevaarlijke Werktuigen aan andere ambtenaren dan ambtenaren van de Arbeidsinspectie. Product: *-* Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1980, 664) art. 16, tweede lid (i.w. Stb. 1982, 673), b.w. met Stb. 2003, 315 Waardering: B (4) 
+Handeling: Het opdragen van uitvoering van de Wet op de Gevaarlijke Werktuigen aan andere ambtenaren dan ambtenaren van de Arbeidsinspectie. Product: *-*Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) Periode: 1983–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1980, 664) art. 16, tweede lid (i.w. Stb. 1982, 673), b.w. met Stb. 2003, 315 Waardering: B (4) 
 ###1179
 
-Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15a en 15b, lid 1 en 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22a en 22b, lid 1 en 2, Warenwetbesluit drukvaten eenvoudige vorm (Stb. 2003, 315) art. 12 en 13, lid 1 en 2, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17a en 17b lid 1 en 2, Warenwetbesluit liften (Stb. 2003, 315) art. 24 en 25, lid 1 en 2, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13a en 13b, lid 1 en 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6<sup></sup>e en 6f, lid 1 en 2 Waardering: V Termijn: 1 jaar na verwerking 
+Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15a en 15b, lid 1 en 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22a en 22b, lid 1 en 2, Warenwetbesluit drukvaten eenvoudige vorm (Stb. 2003, 315) art. 12 en 13, lid 1 en 2, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17a en 17b lid 1 en 2, Warenwetbesluit liften (Stb. 2003, 315) art. 24 en 25, lid 1 en 2, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13a en 13b, lid 1 en 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6<sup></sup> e en 6f, lid 1 en 2 Waardering: V Termijn: 1 jaar na verwerking 
 ###1180
 
-Handeling: Het stellen van nadere regels met betrekking tot de aanvraag om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15c, lid 3, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22c, lid 3, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 13a, lid 3, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17c, lid 3, Warenwetbesluit liften (Stb. 2003, 315) art. 26, lid 3, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13c, lid 3, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19c, lid 3, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6j, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6g, lid 3 Waardering: B (5)  
+Handeling: Het stellen van nadere regels met betrekking tot de aanvraag om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15c, lid 3, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 22c, lid 3, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 13a, lid 3, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17c, lid 3, Warenwetbesluit liften (Stb. 2003, 315) art. 26, lid 3, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13c, lid 3, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19c, lid 3, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6j, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6g, lid 3 Waardering: B (5) 
 
 ####3.14 Actor: het Staatstoezicht op de Mijnen/Inspecteur-Generaal der Mijnen (ressorteert onder de minister van EZ)
 
@@ -4082,7 +4082,7 @@ Handeling: Het verlenen van ontheffingen ten aanzien van het in de wet bepaalde 
 Handeling: Het beproeven en onderzoeken van liften, het stellen van een eis betreffende herstelling of behandeling binnen een vast te stellen termijn. Product: Periode: 1952–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104) art. 12, eerste lid, Regeling nr. 3112 (Stcrt. 1956, 168) art. 4, eerste lid, b.w. met Stb. 2003, 315 Waardering: V Termijn: 1 jaar na afdoening 
 ###699/841/859/923/933
 
-Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1982, 1999–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1, b.w. met Stb. 2003, 315, Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107, Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) art. 1 Waardering: V Termijn: 1 jaar na afdoening  
+Handeling: Het handhaven van het bij of krachtens de Wet op de Gevaarlijke Werktuigen bepaalde en het meewerken aan de uitvoering daarvan. Product: rapport/proces-verbaal Periode: 1952–1982, 1999–2003 Grondslag: Wet op de gevaarlijke werktuigen (Stb. 1952, 104), gewijzigd (Stb. 1980, 664) art. 16, lid 1, b.w. met Stb. 2003, 315, Regeling nr. 246917 (Stcrt. 1982, 247) art. 1, b.w. Stcrt. 1999, 64,Regeling nr. 1021/282 (Stcrt. 1982, 247) art. 1, eerste lid, b.w. Stcrt. 1999, 107, Aanwijzing toezichthoudende ambtenaren Wet op de gevaarlijke werktuigen (Stcrt. 1999, 107) art. 1 Waardering: V Termijn: 1 jaar na afdoening 
 
 ####3.15 Actor: de Minister van Binnenlandse Zaken (en Koninkrijkrelaties)
 
@@ -4097,13 +4097,13 @@ Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeids
 Handeling: Het bepalen op welke wijze aantekening dient te worden gehouden van de afgifte van de werkmappen. Product: ministeriële regeling – Beschikking nr B 60/2798 (Stcrt. 1960, 233) – Beschikking aantekening afgifte en verlenging geldigheidsduur werkmap (Stcrt. 1971, 28) Periode: 1960–1978 Grondslag: Rijtijdenbesluit (Stb. 1960, 469) art. 32, vijfde lid; Rijtijdenbesluit (Stb. 1971, 25) art. 27, vijfde lid Waardering: V Termijn: 5 jaar 
 ###1079
 
-Handeling: Het stellen van regels met betrekking tot duikopleidingen ten behoeve van de brandweer. Product: ministeriële regeling Periode: 1994– Grondslag: Regeling arbeid onder overdruk (Stcrt. 1994, 195) artikel 1, eerste lid onder a, Arbeidsomstandig-hedenregeling (Stcrt. 1997, 63) artikel 6.1, subartikel 1 onder a Waardering: V Termijn: 10 jaar na intrekking regeling  
+Handeling: Het stellen van regels met betrekking tot duikopleidingen ten behoeve van de brandweer. Product: ministeriële regeling Periode: 1994– Grondslag: Regeling arbeid onder overdruk (Stcrt. 1994, 195) artikel 1, eerste lid onder a, Arbeidsomstandig-hedenregeling (Stcrt. 1997, 63) artikel 6.1, subartikel 1 onder a Waardering: V Termijn: 10 jaar na intrekking regeling 
 
 ####3.16 Actor: de Rijksgeneeskundige dienst (ressorteerde onder de minister van BiZa)
 
 ###936
 
-Handeling: Het aanwijzen van medici die bestuurders van autobussen of vrachtauto’s onderzoeken. Product: beschikking Periode: 1960–1971 Grondslag: Rijtijdenbesluit (Stb. 1960, 469) art. 22, derde lid Waardering: V Termijn: 3 jaar na beëindiging functie  
+Handeling: Het aanwijzen van medici die bestuurders van autobussen of vrachtauto’s onderzoeken. Product: beschikking Periode: 1960–1971 Grondslag: Rijtijdenbesluit (Stb. 1960, 469) art. 22, derde lid Waardering: V Termijn: 3 jaar na beëindiging functie 
 
 ####3.17 Actor: de Minister van Defensie
 
@@ -4127,7 +4127,7 @@ Handeling: Het in bijzondere omstandigheden verlenen van vergunningen om af te w
 Handeling: Het bepalen of werkzaamheden, die door defensiepersoneel worden verricht, onder de bepalingen van de Arbeidsomstandighedenwet vallen. Product: ministeriële regeling Periode: 1997– Grondslag: Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikelen 1.29 onder b en 1.30, onder b 1 en 3 Waardering: B (5) 
 ###1081
 
-Handeling: Het stellen van regels met betrekking tot duikopleidingen ten behoeve van de Koninklijke marine en -landmacht. Product: – Regeling duikopleidingen Defensie (Stcrt,1995, 75) Periode: 1994– Grondslag: Regeling arbeid onder overdruk (Stcrt. 1994, 195) artikel 1, eerste lid onder b, Arbeidsomstandighedenregeling (Stcrt. 1997, 63) artikel 6.1, subartikel 1 onder b Waardering: B (5)  
+Handeling: Het stellen van regels met betrekking tot duikopleidingen ten behoeve van de Koninklijke marine en -landmacht. Product: – Regeling duikopleidingen Defensie (Stcrt,1995, 75) Periode: 1994– Grondslag: Regeling arbeid onder overdruk (Stcrt. 1994, 195) artikel 1, eerste lid onder b, Arbeidsomstandighedenregeling (Stcrt. 1997, 63) artikel 6.1, subartikel 1 onder b Waardering: B (5) 
 
 ####3.18 Actor: de Minister van Justitie
 
@@ -4136,7 +4136,7 @@ Handeling: Het stellen van regels met betrekking tot duikopleidingen ten behoeve
 Handeling: Het bij amvb met betrekking tot de Arbeidsomstandighedenwet stellen van afwijkende of aanvullende regels aangaande arbeid, verricht in gevangenissen en rijksinrichtingen voor kinderbescherming. Product: algemene maatregel van bestuur – Arbeidsomstandighedenbesluit justitiële rijksinrichtingen (Stb. 1990, 453) – Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1990–1999 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 2 vierde lid, vernummerd Stb. 1995, 598 art. 2, vijfde lid, b.w. Stb. 1999, 184 Waardering: B (1) 
 ###941
 
-Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit justitiële rijksinrichtingen. Product: Periode: 1990–1997 Grondslag: Arbeidsomstandighedenbesluit justitiële rijksinrichtingen (Stb. 1990, 453) art. 14, b.w. Stb. 1997, 60 Waardering: B (4)  
+Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeidsomstandighedenbesluit justitiële rijksinrichtingen. Product: Periode: 1990–1997 Grondslag: Arbeidsomstandighedenbesluit justitiële rijksinrichtingen (Stb. 1990, 453) art. 14, b.w. Stb. 1997, 60 Waardering: B (4) 
 
 ####3.19 Actor: de Minister van Volksgezondheid, Welzijn en Sport
 
@@ -4147,7 +4147,7 @@ Handeling: Het stellen van nadere regels aangaande de uitvoering van het Arbeids
 Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens arbeidsomstandighedenwetgeving Product: aanwijzing onder meer: – Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie (Stcrt. 1998, 146) – Aanwijzing toezichthoudende ambtenaren Arbeidsomstandighedenwet 1998 (Stcrt. 1999,208) – Aanwijzingsregeling toezichthoudende ambetenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) Periode: (1940) 1945– Grondslag: onder meer: Arbeidsomstandighedenwet 1998 (Stb. 1999, 184) art. 24, lid 2 Waardering: V termijn: 10 jaar na wijziging of intrekking 
 ###942
 
-Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verdere geneeskundige behandeling te geven. Product: beschikking Periode: 1983–1994 Grondslag: Besluit ongevallenbehandeling bedrijfsgeneeskundige diensten (Stb. 1967, 665) art. 2 eerste lid, art. 6 eerste en tweede lid; Besluit ongevallenbehandeling bedrijfsgezondheidsdiensten (Stb. 1982, 405) art. 2 eerste en vierde lid, en art. 6 eerste lid Waardering: V Termijn: 10 jaar na wijziging of intrekking  
+Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verdere geneeskundige behandeling te geven. Product: beschikking Periode: 1983–1994 Grondslag: Besluit ongevallenbehandeling bedrijfsgeneeskundige diensten (Stb. 1967, 665) art. 2 eerste lid, art. 6 eerste en tweede lid; Besluit ongevallenbehandeling bedrijfsgezondheidsdiensten (Stb. 1982, 405) art. 2 eerste en vierde lid, en art. 6 eerste lid Waardering: V Termijn: 10 jaar na wijziging of intrekking 
 
 #### *3.19.1.2 Handelingen met betrekking tot veiligheid van technische voortbrengselen* 
 
@@ -4156,7 +4156,7 @@ Handeling: Het verlenen van toestemming aan bedrijfsgezondheidsdiensten om verde
 Handeling: Het stellen van nadere regels met betrekking tot de criteria om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit containers (Stb. 2003, 315) art. 15, lid 2, Warenwetbesluit drukapparatuur (Stb. 2003, 315) art. 19a, lid 5 en lid 6, Warenwetbesluit drukvaten van eenvoudige vorm (Stb. 2003, 315) art. 11, lid 3, Warenwetbesluit explosieveilig materieel (Stb. 2003, 315) art. 17, lid 3, Warenwetbesluit liften (Stb. 2003, 315) art. 23, lid 3, Warenwetbesluit schiethamers (Stb. 2003, 315) art. 13, lid 2, Warenwetbesluit veiligheid attractie- en speeltoestellen (Stb. 2003, 315) art. 19, lid 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6g, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6d, lid 3 Waardering: B (5) 
 ###1179
 
-Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Besluit containers (Stb. 1983, 177) gewijzigd Stb. 2003, 315 art. 15a en 15b, lid 1 en 2, Besluit drukapparatuur (Stb. 1999, 311) gewijzigd Stb. 2003, 315 art. 22a en 22b, lid 1 en 2, Besluit drukvaten van eenvoudige vorm (Stb. 1992, 456) gewijzigd Stb. 2003, 315 art. 12 en 13, lid 1 en 2, Besluit explosieveilig materieel (Stb. 1995, 379) gewijzigd Stb. 2003, 315 art. 17a en 17b lid 1 en 2, Besluit liften (Stb. 1996, 444) gewijzigd Stb. 2003, 315 art. 24 en 25, lid 1 en 2, Besluit schiethamers (Stb. 1967, 142) gewijzigd Stb. 2003, 315 art. 13a en 13b, lid 1 en 2, Besluit veiligheid attractie- en speeltoestellen (Stb. 1996, 474) gewijzigd Stb. 2003, 315 art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6 <sup>e</sup> en 6f, lid 1 en 2 Waardering: V Termijn: 5 jaar 
+Handeling: Het beoordelen van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid, die door keuringsinstellingen met betrekking tot de keuring van gevaarlijke werktuigen is toegezonden alsmede het administratief verwerken van de wijzigingen in de aanwijzing Product: beoordeling, rapportage Periode: 2003– Grondslag: Besluit containers (Stb. 1983, 177) gewijzigd Stb. 2003, 315 art. 15a en 15b, lid 1 en 2, Besluit drukapparatuur (Stb. 1999, 311) gewijzigd Stb. 2003, 315 art. 22a en 22b, lid 1 en 2, Besluit drukvaten van eenvoudige vorm (Stb. 1992, 456) gewijzigd Stb. 2003, 315 art. 12 en 13, lid 1 en 2, Besluit explosieveilig materieel (Stb. 1995, 379) gewijzigd Stb. 2003, 315 art. 17a en 17b lid 1 en 2, Besluit liften (Stb. 1996, 444) gewijzigd Stb. 2003, 315 art. 24 en 25, lid 1 en 2, Besluit schiethamers (Stb. 1967, 142) gewijzigd Stb. 2003, 315 art. 13a en 13b, lid 1 en 2, Besluit veiligheid attractie- en speeltoestellen (Stb. 1996, 474) gewijzigd Stb. 2003, 315 art. 19a en 19b, lid 1 en 2, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6h en 6i, lid 1 en 2, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6<sup>e</sup> en 6f, lid 1 en 2 Waardering: V Termijn: 5 jaar 
 ###1180
 
 Handeling: Het stellen van regels met betrekking tot de aanvraag om als keuringsinstelling te worden aangewezen Product: ministeriële regels Periode: 2003– Grondslag: Besluit containers (Stb. 1983, 177) gewijzigd Stb. 2003, 315 art. 15c, lid 3, Besluit drukapparatuur (Stb. 1999, 311) gewijzigd Stb. 2003, 315 art. 22c, lid 3, Besluit drukvaten van eenvoudige vorm (Stb. 1992, 456) gewijzigd Stb. 2003, 315 art. 13a, lid 3, Besluit explosieveilig materieel (Stb. 1995, 379) gewijzigd Stb. 2003, 315 art. 17c, lid 3, Besluit liften (Stb. 1996, 444) gewijzigd Stb. 2003, 315 art. 26, lid 3, Besluit schiethamers (Stb. 1967, 142) gewijzigd Stb. 2003, 315 art. 13c, lid 3, Besluit veiligheid attractie- en speeltoestellen (Stb. 1996, 474) gewijzigd Stb. 2003, 315 art. 19c, lid 3, Warenwetbesluit machines (Stb. 1992, 379) gewijzigd Stb. 2003, 315 art. 6j, lid 3, Warenwetbesluit persoonlijke beschermingsmiddelen (Stb. 1992, 396) gewijzigd Stb. 2003, 315 art. 6g, lid 3 Waardering: B (5) 
@@ -4186,7 +4186,7 @@ Handeling: Het stellen van nadere regels ten aanzien van het aanbrengen van een 
 Handeling: Het stellen van nadere regels met betrekking tot de inhoud, vorm en geldigheidsduur van certificaten en merken van goedkeuring Product: ministeriële regels Periode: 2003– Grondslag: Warenwetbesluit attractie- en speeltoestellen (Stb. 2003, 315) art. 10a, lid 4 Waardering: B (5) 
 ###1223
 
-Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring Product: ministeriële regeling Periode: 2003– Grondslag: Warenwetbesluit attractie- en speeltoestellen (Stb. 2003, 315) art. 10b Waardering: V Termijn: 10 jaar na wijziging of intrekking  
+Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring Product: ministeriële regeling Periode: 2003– Grondslag: Warenwetbesluit attractie- en speeltoestellen (Stb. 2003, 315) art. 10b Waardering: V Termijn: 10 jaar na wijziging of intrekking 
 
 ####3.20 Actor: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
@@ -4195,25 +4195,25 @@ Handeling: Het bevoegd verklaren van fabrikanten en handelaren tot het aanbrenge
 Handeling: Het aanwijzen van stoffen in een bedrijf, die gevaar voor veiligheid of gezondheid kunnen opleveren. Product: Periode: 1990–1997 Grondslag: Veiligheidsbesluit restgroepen (Stb. 1990, 491) art. 61 eerste lid, b.w. Stb. 1997, 60 Waardering: V termijn: 
 ###1089
 
-Handeling: Het instellen en benoemen van de leden van een commissie die aanbevelingen doet met betrekkng tot de bruikbaarheid en toepasbaarheid van modellen van veiligheids- en gezondheidsplannen (Commissie Veiligheids- en Gezondheidsplan). Product: Instellingsbeschikking Stcrt. 1994, 11, nr. MJZ 12194010 Centrale Juridische Zaken, Afdeling Wetgeving, gewijzigd Stcrt.1994, 160 Periode: 1993–1994? Grondslag: Waardering: V termijn:  
+Handeling: Het instellen en benoemen van de leden van een commissie die aanbevelingen doet met betrekkng tot de bruikbaarheid en toepasbaarheid van modellen van veiligheids- en gezondheidsplannen (Commissie Veiligheids- en Gezondheidsplan). Product: Instellingsbeschikking Stcrt. 1994, 11, nr. MJZ 12194010 Centrale Juridische Zaken, Afdeling Wetgeving, gewijzigd Stcrt.1994, 160 Periode: 1993–1994? Grondslag: Waardering: V termijn: 
 
 ####3.21 Actor: de Minister van Financiën
 
 ###1056/1086
 
-Handeling: Het aanwijzen van investeringen in apparaten of voorzieningen die de arbeidsomstandigheden voor werknemers verbeteren (FARBO-regeling). Product: Arbolijsten, onder andere: Stcrt. 1999, 15, Stcrt. 2001, 248, Stcrt. 2002, 238 Periode: 1998– Grondslag: Wet op de inkomstenbelasing 1964, Stb. 1964, 519, gewijzigd Stb. 1997, 731) artikel 10, derde lid onder d, Arbeidsomstandighedenregeling (Stcrt. 1997, 63, gewijzigd Stcrt. 1997, 249) artikel 1.17, vernummerd (Stcrt. 1999, 208?) art. 1.16, gewijzigd Stcrt. 2000, 247 Waardering: B (1) Opmerking: Deze handeling komt ook voor in RIO 65 (‘Belastingen: de geheiligde schuld’) onder handelingnummer 1038 voor  
+Handeling: Het aanwijzen van investeringen in apparaten of voorzieningen die de arbeidsomstandigheden voor werknemers verbeteren (FARBO-regeling). Product: Arbolijsten, onder andere: Stcrt. 1999, 15, Stcrt. 2001, 248, Stcrt. 2002, 238 Periode: 1998– Grondslag: Wet op de inkomstenbelasing 1964, Stb. 1964, 519, gewijzigd Stb. 1997, 731) artikel 10, derde lid onder d, Arbeidsomstandighedenregeling (Stcrt. 1997, 63, gewijzigd Stcrt. 1997, 249) artikel 1.17, vernummerd (Stcrt. 1999, 208?) art. 1.16, gewijzigd Stcrt. 2000, 247 Waardering: B (1) Opmerking: Deze handeling komt ook voor in RIO 65 (‘Belastingen: de geheiligde schuld’) onder handelingnummer 1038 voor 
 
 ####3.22 Actor: de Inspecties der Invoerrechten en Accijnzen (ressorteert onder de minister van Fin.)
 
 ###944
 
-Handeling: Het opsporen van overtredingen ten aanzien van het vervoer, invoer en verkoop van fosforlucifers. Product: rapport/proces-verbaal Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 5, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 7 jaar  
+Handeling: Het opsporen van overtredingen ten aanzien van het vervoer, invoer en verkoop van fosforlucifers. Product: rapport/proces-verbaal Periode: 1940–1997 Grondslag: Phosphorluciferwet (Stb. 1901, 133) art. 5, b.w. Stb. 1995, 598 i.w. Stb. 1997, 263 Waardering: V Termijn: 7 jaar 
 
 ####3.23 Actor: de minister van Onderwijs, Cultuur en Wetenschappen
 
 ###13
 
-Handeling: Het bij amvb wijzigen of niet van toepassing verklaren van de Arbeidsomstandighedenwet voor onderwijsinrichtingen, waar een gevaar voor veiligheid of gezondheid bestaat. Product: algemene maatregel van bestuur – Arbeidsomstandighedenbesluit onderwijs (Stb. 1991, 494) b.w. Stb. 1997, 60 – Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1991– *1999* Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 2 eerste lid*, b.w. Stb. 1999, 184* Waardering:  
+Handeling: Het bij amvb wijzigen of niet van toepassing verklaren van de Arbeidsomstandighedenwet voor onderwijsinrichtingen, waar een gevaar voor veiligheid of gezondheid bestaat. Product: algemene maatregel van bestuur – Arbeidsomstandighedenbesluit onderwijs (Stb. 1991, 494) b.w. Stb. 1997, 60 – Arbeidsomstandighedenbesluit (Stb. 1997, 60) Periode: 1991–*1999*  Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 2 eerste lid*, b.w. Stb. 1999, 184*  Waardering: 
 
 ####3.24 Actor: Commissies/Werkgroepen e.d.
 
@@ -4221,25 +4221,25 @@ Handeling: Het bij amvb wijzigen of niet van toepassing verklaren van de Arbeids
 
 ###860
 
-Handeling: Het beoordelen van bezwaren van gebruikers van stoomtoestellen tegen eisen en uitspraken van ambtenaren van de Dienst voor het Stoomwezen. Product: verslag/rapport Periode: 1940–1954 Grondslag: Stoomwet (Stb. 1896, 69) art. 7 (b.w. Stoomwet 1953) Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het beoordelen van bezwaren van gebruikers van stoomtoestellen tegen eisen en uitspraken van ambtenaren van de Dienst voor het Stoomwezen. Product: verslag/rapport Periode: 1940–1954 Grondslag: Stoomwet (Stb. 1896, 69) art. 7 (b.w. Stoomwet 1953) Waardering: V Termijn: 5 jaar na uitspraak 
 
 #### *3.24.2 Actor: de Commissie van Advies voor de Havenarbeid (ressorteert onder de minister van SZW* 
 
 ###861
 
-Handeling: Het geven van advies aan verschillende overheidsbesturen en ambtenaren over alle onderwerpen die te maken hebben met havenarbeid. Product: advies Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 19, derde lid, b.w. Stb. 1995, 598 Waardering: B (3)  
+Handeling: Het geven van advies aan verschillende overheidsbesturen en ambtenaren over alle onderwerpen die te maken hebben met havenarbeid. Product: advies Periode: 1940–1995 Grondslag: Stuwadoorswet (Stb. 1914, 486) art. 19, derde lid, b.w. Stb. 1995, 598 Waardering: B (3) 
 
 #### *3.24.3 Actor: de Centrale Huisarbeidcommissie (ressorteert onder de minister van SZW)* 
 
 ###862
 
-Handeling: Het adviseren van en doen van voorstellen aan districtshoofden en de minister over zaken betreffende de huisarbeid. Product: advies Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 5, tweede en derde lid, b.w. Stb. 1994, 156 Waardering: B (3)  
+Handeling: Het adviseren van en doen van voorstellen aan districtshoofden en de minister over zaken betreffende de huisarbeid. Product: advies Periode: 1940–1994 Grondslag: Huisarbeidswet (Stb. 1933, 597) art. 5, tweede en derde lid, b.w. Stb. 1994, 156 Waardering: B (3) 
 
 #### *3.24.4 Actor: de Technische Commissie voor Toestellen onder Druk (ressorteert onder de minister van SZW)* 
 
 ###863
 
-Handeling: Het voorbereiden van voorstellen tot wijziging van de keuringsregels van de Dienst voor het Stoomwezen. Product: Regels voor toestellen onder druk Periode: 1960– Grondslag: Eerste vergadering van de directeur van de Dienst voor het Stoomwezen (BNC-41/60/1 van 3 juni 1960) Waardering: B (4)  
+Handeling: Het voorbereiden van voorstellen tot wijziging van de keuringsregels van de Dienst voor het Stoomwezen. Product: Regels voor toestellen onder druk Periode: 1960– Grondslag: Eerste vergadering van de directeur van de Dienst voor het Stoomwezen (BNC-41/60/1 van 3 juni 1960) Waardering: B (4) 
 
 #### *3.24.5 Actor: de Commissie Arbeidsgezondheidskundig Onderzoek/De Commissie voor Arbeidsomstandighedenonderzoek (ressorteert onder de minister van SZW)* 
 
@@ -4248,25 +4248,25 @@ Handeling: Het voorbereiden van voorstellen tot wijziging van de keuringsregels 
 Handeling: Het adviseren van de directeur-generaal van de Arbeid inzake programma’s voor onderzoek die het directoraat-generaal van de Arbeid voornemens is te laten uitvoeren. Product: adviezen Periode: 1988–1995 Grondslag: Besluit van 14 oktober 1988 van de staatssecretaris van Sociale Zaken en Werkgelegenheid (Stcrt. 1988, 202), zoals gewijzigd Stcrt. 1993, 139, b.w. Stcrt.1995, 30 Waardering: B (3) 
 ###865
 
-Handeling: Het uitvoeren van een evaluatie-onderzoek naar de eigen werkzaamheden. Product: evaluatierapport Periode: 1993–1994 Grondslag: Beschikking van 19 juli 1993 (Stcrt. 139) Waardering: B (2)  
+Handeling: Het uitvoeren van een evaluatie-onderzoek naar de eigen werkzaamheden. Product: evaluatierapport Periode: 1993–1994 Grondslag: Beschikking van 19 juli 1993 (Stcrt. 139) Waardering: B (2) 
 
 #### *3.24.6 Actor: de Herkeuringscommissie Arbeidsomstandighedenwet (ressorteert onder de minister van SZW)* 
 
 ###866
 
-Handeling: Het doen van uitspraken in verzoeken tot herkeuring. Product: uitspraken Periode: 1992–1999 Grondslag: Herkeuringsbesluit arbeidsomstandighedenwet (Stb. 1992, 90) art. 5 tweede lid, b.w. Stb. 1997, 60, Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 8.8, tweede lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 5 jaar na uitspraak  
+Handeling: Het doen van uitspraken in verzoeken tot herkeuring. Product: uitspraken Periode: 1992–1999 Grondslag: Herkeuringsbesluit arbeidsomstandighedenwet (Stb. 1992, 90) art. 5 tweede lid, b.w. Stb. 1997, 60, Arbeidsomstandighedenbesluit (Stb. 1997, 60) artikel 8.8, tweede lid, b.w. Stb. 1999, 435 Waardering: V Termijn: 5 jaar na uitspraak 
 
 #### *3.24.7 Actor: de Commissie van Deskundigen (ressorteert onder de minister van SZW)* 
 
 ###867
 
-Handeling: Het geven van advies bij een commissie van deskundigen, omtrent het verlenen van vergunningen om radio-actieve stoffen te gebruiken. Product: advies Periode: ..–1963 Grondslag: Röntgenstralenbesluit (Stb. 1933, 130) art. 4, b.w. Stb. 1963, 82 Waardering: B (3)  
+Handeling: Het geven van advies bij een commissie van deskundigen, omtrent het verlenen van vergunningen om radio-actieve stoffen te gebruiken. Product: advies Periode: ..–1963 Grondslag: Röntgenstralenbesluit (Stb. 1933, 130) art. 4, b.w. Stb. 1963, 82 Waardering: B (3) 
 
 #### *3.24.8 Actor: de Benzinecommissie (ressorteert onder de minister van SZW)* 
 
 ###945
 
-Handeling: Het adviseren en verstrekken van voorlichting omtrent de gevaren verbonden aan de opslag en vervoer van vloeibare brandstoffen (benzine, propaan, butaan) en te nemen veiligheidsmaatregelen die in het kader daarvan nodig zijn te achten. Product: adviezen en richtlijnen Periode: 1940–1969 Grondslag: Beschikking van 12/30 september 1927 van de minister van Arbeid, Handel en Nijverheid nr. 527 H en de minister van Waterstaat nr. La.B (Stcrt. 1927, 194), gewijzigd bij beschikking van 21 februari 1955 van de minister van Sociale Zaken en Volksgezondheid nr. 301. De commissie werd opgeheven bij beschikking van 13 juni 1969 nr. 93340 (Stcrt. 1969, 167). Waardering: B (3)  
+Handeling: Het adviseren en verstrekken van voorlichting omtrent de gevaren verbonden aan de opslag en vervoer van vloeibare brandstoffen (benzine, propaan, butaan) en te nemen veiligheidsmaatregelen die in het kader daarvan nodig zijn te achten. Product: adviezen en richtlijnen Periode: 1940–1969 Grondslag: Beschikking van 12/30 september 1927 van de minister van Arbeid, Handel en Nijverheid nr. 527 H en de minister van Waterstaat nr. La.B (Stcrt. 1927, 194), gewijzigd bij beschikking van 21 februari 1955 van de minister van Sociale Zaken en Volksgezondheid nr. 301. De commissie werd opgeheven bij beschikking van 13 juni 1969 nr. 93340 (Stcrt. 1969, 167). Waardering: B (3) 
 
 #### *3.24.9 Actor: de Commissie van onderzoek naar de Arbeidstoestanden in het Binnenscheepvaartbedrijf (ressorteert onder de minister van SZW)* 
 
@@ -4275,52 +4275,52 @@ Handeling: Het adviseren en verstrekken van voorlichting omtrent de gevaren verb
 Handeling: Het onderzoeken van de arbeidstoestanden in het binnenscheepvaartbedrijf. Product: Periode: 1940–1976 Grondslag: Beschikking nr. 2390 van 27 juni 1938 van de minister van Sociale zaken en de minister van Waterstaat Waardering: B (3) 
 ###947
 
-Handeling: Het adviseren over zaken die verband houden met de ontwerpverordeningen van de Commissie van de EG betreffende harmonisatie van sociale maatregelen op het terrein van het goederenvervoer in de binnenvaart. Product: adviezen Periode: 1976–1989 Grondslag: Staatsalmanak Waardering: B (3)  
+Handeling: Het adviseren over zaken die verband houden met de ontwerpverordeningen van de Commissie van de EG betreffende harmonisatie van sociale maatregelen op het terrein van het goederenvervoer in de binnenvaart. Product: adviezen Periode: 1976–1989 Grondslag: Staatsalmanak Waardering: B (3) 
 
 #### *3.24.10 Actor: de Commissie Preventie van Rampen door Gevaarlijke Stoffen (ressorteert onder de minister van SZW)* 
 
 ###948
 
-Handeling: Het bestuderen van en het rapporteren over het treffen van maatregelen ter voorkoming van ongevallen, dan wel het beperken van risico’s bij het omgaan met gevaarlijke stoffen. Product: adviezen en richtlijnen Periode: 1964–2004 Grondslag: Beschikking nr. 1915 van 13 juli 1964 van de minister van Sociale Zaken en Volksgezondheid en de minister van Binnenlandse Zaken (met diverse wijzigingen), b.w. Stcrt. 2004, 128. Waardering: B (3)  
+Handeling: Het bestuderen van en het rapporteren over het treffen van maatregelen ter voorkoming van ongevallen, dan wel het beperken van risico’s bij het omgaan met gevaarlijke stoffen. Product: adviezen en richtlijnen Periode: 1964–2004 Grondslag: Beschikking nr. 1915 van 13 juli 1964 van de minister van Sociale Zaken en Volksgezondheid en de minister van Binnenlandse Zaken (met diverse wijzigingen), b.w. Stcrt. 2004, 128. Waardering: B (3) 
 
 #### *3.24.11 Actor: de Commissie Opslag Gevaarlijke Stoffen (ressorteert onder de minister van SZW)* 
 
 ###949
 
-Handeling: Het adviseren omtrent de gevaren verbonden aan opslag van gevaarlijke stoffen, zoals gedefinieerd in de Wet op de gevaarlijke stoffen en maatregelen te nemen om die gevaren te beperken. Product: advies Periode: 1969–1975 Grondslag: Beschikking nr. 93340 van 20 augustus 1969 van de minister van Sociale Zaken en Volksgezondheid (Stcrt. 1969, 167). De commissie werd opgeheven bij beschikking van 16 mei 1975 nr. 92451 (Stcrt. 1975, 100). Waardering: B (3)  
+Handeling: Het adviseren omtrent de gevaren verbonden aan opslag van gevaarlijke stoffen, zoals gedefinieerd in de Wet op de gevaarlijke stoffen en maatregelen te nemen om die gevaren te beperken. Product: advies Periode: 1969–1975 Grondslag: Beschikking nr. 93340 van 20 augustus 1969 van de minister van Sociale Zaken en Volksgezondheid (Stcrt. 1969, 167). De commissie werd opgeheven bij beschikking van 16 mei 1975 nr. 92451 (Stcrt. 1975, 100). Waardering: B (3) 
 
 #### *3.24.12 Actor: de Werkgroep van Deskundigen (ressorteert onder de minister van SZW)* 
 
 ###950
 
-Handeling: Het uitbrengen van gezondheidkundige adviezen over voor de mens schadelijke stoffen zoals deze in het arbeidsmilieu kunnen voorkomen. Product: adviezen Periode: 1976– Grondslag: Besluit nr. 92573 van 2 juni 1976 van de minister van Sociale Zaken (Stcrt. 115), gewijzigd bij besluit van 13 juni 1986 (Stcrt. 130) Waardering: B (3)  
+Handeling: Het uitbrengen van gezondheidkundige adviezen over voor de mens schadelijke stoffen zoals deze in het arbeidsmilieu kunnen voorkomen. Product: adviezen Periode: 1976– Grondslag: Besluit nr. 92573 van 2 juni 1976 van de minister van Sociale Zaken (Stcrt. 115), gewijzigd bij besluit van 13 juni 1986 (Stcrt. 130) Waardering: B (3) 
 
 #### *3.24.14 Actor: de Voorlopige Adviescommissie Uitvoering Rijtijdenwet 1936 (ressorteert onder de minister van SZW)* 
 
 ###951
 
-Handeling: Het adviseren van de ministers van sociale zaken en van verkeer en waterstaat ten aanzien van alle onderwerpen betreffende de uitvoering van de Rijtijdenwet 1936. Product: advies Periode: 1978–1993(?) Grondslag: Beschikking instelling adviescommissie (Stcrt. 1978, 32) Waardering: B (3)  
+Handeling: Het adviseren van de ministers van sociale zaken en van verkeer en waterstaat ten aanzien van alle onderwerpen betreffende de uitvoering van de Rijtijdenwet 1936. Product: advies Periode: 1978–1993(?) Grondslag: Beschikking instelling adviescommissie (Stcrt. 1978, 32) Waardering: B (3) 
 
 #### *3.24.14 Actor: de Voorlopige Arbeidsraad (ressorteert onder de minister van SZW)* 
 
 ###952
 
-Handeling: Het doen van voorstellen en het uitbrengen van adviezen die kunnen strekken tot bevordering van veiligheid, gezondheid en welzijn in verband met de arbeid. Product: Periode: 1980–1982 Grondslag: Beschikking instelling Voorlopige Arbeidsraad (Stcrt. 1980, 41) art. 2 Waardering: B (3)  
+Handeling: Het doen van voorstellen en het uitbrengen van adviezen die kunnen strekken tot bevordering van veiligheid, gezondheid en welzijn in verband met de arbeid. Product: Periode: 1980–1982 Grondslag: Beschikking instelling Voorlopige Arbeidsraad (Stcrt. 1980, 41) art. 2 Waardering: B (3) 
 
-####*3.24.15 Actor: de Arboraad (ressorteert onder de minister van SZW*)
+#### *3.24.15 Actor: de Arboraad (ressorteert onder de minister van SZW*)
 
 ###953
 
 Handeling: Het uitbrengen van adviezen en doen van voorstellen aan de minister omtrent algemeen bindende voorschriften ter uitvoering van de Arbowet of andere maatregelen die strekken tot de bevordering van de arbeidsomstandigheden. Product: Periode: 1983–1993 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 43 vierde en vijfde lid (i.w. Stb. 1982, 673, b.w. Stb. 1993, 748 Waardering: B (3) 
 ###954
 
-Handeling: Het adviseren in individuele aangelegenheden op het terrein van de arbeidsomstandigheden. Product: Periode: 1983–1988 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 43 zesde tot en met achtste lid (i.w. Stb. 1982, 673); b.w. Stb. 1987, 535. Waardering: V termijn:  
+Handeling: Het adviseren in individuele aangelegenheden op het terrein van de arbeidsomstandigheden. Product: Periode: 1983–1988 Grondslag: Arbeidsomstandighedenwet (Stb. 1980, 664) art. 43 zesde tot en met achtste lid (i.w. Stb. 1982, 673); b.w. Stb. 1987, 535. Waardering: V termijn: 
 
 #### *3.24.16 Actor: de Adviescommissie voor het Zandsteenbesluit/ de Zandsteencommissie (ressorteert onder de minister van SZW)* 
 
 ###955
 
-Handeling: Het adviseren aan de districtshoofden over voorgenomen ontheffingen van het Zandsteenbesluit. Product: advies Periode: 1952–1993 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 5; Instellingsbeschikking adviescommissie voor het Zandsteenbesluit (Stcrt. 1952, 8) art. 2; Instellingsbesluit Zandsteencommissie, art. 2 (Vergadering Arboraad 17 oktober 1985) Waardering: V termijn:  
+Handeling: Het adviseren aan de districtshoofden over voorgenomen ontheffingen van het Zandsteenbesluit. Product: advies Periode: 1952–1993 Grondslag: Zandsteenbesluit (Stb. 1951, 443) art. 5; Instellingsbeschikking adviescommissie voor het Zandsteenbesluit (Stcrt. 1952, 8) art. 2; Instellingsbesluit Zandsteencommissie, art. 2 (Vergadering Arboraad 17 oktober 1985) Waardering: V termijn: 
 
 #### *3.24.17 Actor: het College van Bijstand en Advies (ressorteert onder de minister van SZW)* 
 
@@ -4341,19 +4341,19 @@ Handeling: Het goedkeuren van aanstellingen van bedrijfsartsen. Product: Periode
 Handeling: Het adviseren van het districtshoofd omtrent het aanwijzen van bepaalde stuwadoorsondernemingen waar zich bijzondere gevaren voor de daar werkzame werknemers voordoen. Product: advies Periode: 1962–1972 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1959, 56) art. 12quinquies, tweede lid (b.w. Stb. 1971, 225) Waardering: V Termijn: 5 jaar na afdoening 
 ###961
 
-Handeling: Het adviseren van de minister omtrent het verlenen en intrekken van erkenningen en ontheffingen. Product: advies Periode: 1962–1972 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1959, 56) art. 12sexies, tweede lid, art. 12octies, derde lid (b.w. Stb. 1971, 225) Waardering: V Termijn: 1 jaar na geldigheidsduur  
+Handeling: Het adviseren van de minister omtrent het verlenen en intrekken van erkenningen en ontheffingen. Product: advies Periode: 1962–1972 Grondslag: Stuwadoorswet (Stb. 1914, 486), zoals gewijzigd (Stb. 1959, 56) art. 12sexies, tweede lid, art. 12octies, derde lid (b.w. Stb. 1971, 225) Waardering: V Termijn: 1 jaar na geldigheidsduur 
 
 #### *3.24.18 Actor: de Nationale Mac-Commissie (ressorteert onder de minister van SZW)* 
 
 ###962
 
-Handeling: Het adviseren omtrent maximaal aanvaarde concentraties van schadelijke stoffen in het arbeidsmilieu. Product: adviezen Periode: 1977–1985 Grondslag: Beschikking nr. 93887 van 30 december 1976 (Stcrt. 1977, 10) Waardering: B (3)  
+Handeling: Het adviseren omtrent maximaal aanvaarde concentraties van schadelijke stoffen in het arbeidsmilieu. Product: adviezen Periode: 1977–1985 Grondslag: Beschikking nr. 93887 van 30 december 1976 (Stcrt. 1977, 10) Waardering: B (3) 
 
 #### *3.24.19 Actor: de Bezwarencommissie/Commissie Bezwaarschriften Arbeidsplaatsverbetering (ressorteert onder de minister van SZW)* 
 
 ###963
 
-Handeling: Het adviseren van de minister in geval van in behandeling genomen bezwaarschriften tegen beslissingen op grond van subsidieregeling arbeidsplaatsverbetering. Product: Periode: 1977–1986 Grondslag: div. subsidieregelingen Waardering: V Waardering: 5 jaar na uitspraak  
+Handeling: Het adviseren van de minister in geval van in behandeling genomen bezwaarschriften tegen beslissingen op grond van subsidieregeling arbeidsplaatsverbetering. Product: Periode: 1977–1986 Grondslag: div. subsidieregelingen Waardering: V Waardering: 5 jaar na uitspraak 
 
 #### *3.24.20 Actor: de Adviescommissie Asbestbesluit/ Asbestcommissie van de Arboraad (ressorteert onder de minister van SZW)* 
 
@@ -4362,19 +4362,19 @@ Handeling: Het adviseren van de minister in geval van in behandeling genomen bez
 Handeling: Het adviseren aan de districtshoofden van de Arbeidsinspectie inzake ontheffingen van verbodsbepalingen in het Asbestbesluit. Product: advies Periode: 1978–1989 Grondslag: Instellingsbeschikking adviescommissie Asbestbesluit (Stcrt. 1977, 221) art. 2; Instellingsbesluit Asbestcommissie (Vergadering Arboraad 15 augustus 1985 van de Arboraad) ???, opgeheven 2 november 1989 Waardering: V Waardering: 1 jaar na geldigheidsduur 
 ###965
 
-Handeling: Het adviseren van de minister aangaande het ten aanzien van asbest te voeren beleid. Product: advies Periode: 1977–1989 Grondslag: instellingsbeschikking Adviescommissie Asbestbesluit (Stcrt. 1977, 221) art. 2; Instellingsbesluit Asbestcommissie (Vergadering Arboraad 15 augustus 1985 van de Arboraad) ???, opgeheven 2 november 1989 Waardering: B (3)  
+Handeling: Het adviseren van de minister aangaande het ten aanzien van asbest te voeren beleid. Product: advies Periode: 1977–1989 Grondslag: instellingsbeschikking Adviescommissie Asbestbesluit (Stcrt. 1977, 221) art. 2; Instellingsbesluit Asbestcommissie (Vergadering Arboraad 15 augustus 1985 van de Arboraad) ???, opgeheven 2 november 1989 Waardering: B (3) 
 
 #### *3.24.21 Actor: de Commissie Veiligheids- en Gezondheidsplan (ressorteert onder de minister van VROM)* 
 
 ###1090
 
-Handeling: Het adviseren aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met betrekking tot de bruikbaarheid en toepasbaarheid van modellen van een veiligheids- en gezondheidsplan. Product: adviezen Periode: 1993–1994? Grondslag: Instellingsbeschikking Commissie Veiligheids- en Gezondheidsplan (Stcrt. 1994, 11, gewijzigd Stcrt.1994, 160) artikel 1 Waardering: B  
+Handeling: Het adviseren aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met betrekking tot de bruikbaarheid en toepasbaarheid van modellen van een veiligheids- en gezondheidsplan. Product: adviezen Periode: 1993–1994? Grondslag: Instellingsbeschikking Commissie Veiligheids- en Gezondheidsplan (Stcrt. 1994, 11, gewijzigd Stcrt.1994, 160) artikel 1 Waardering: B 
 
 #### *3.24.22 Actor: de Commissie voor Advies inzake Bezwaar en Beroep (ressorteert onder de minister van SZW)* 
 
 ###1075
 
-Handeling: Het adviseren aan de minister van Sociale Zaken en Werkgelegenheid over te nemen beslissingen inzake bezwaar- en beroepschriften op grond van de Arbeidsomstandighedenwet en de Wet arbeid gehandicapte werknemers. Product: adviezen Periode: 1992–2001 Grondslag: Beschikking Adviescommissie bezwaar en beroep arbeidsomstandigheden (Stcrt. 1994, 64) artikel 2, derde lid, Arbeidsomstandighedenregeling (Stcrt. 1997, 63) artikel 1.13, derde lid, b.w. Stcrt. 2001, 206 Waardering: B (3)  
+Handeling: Het adviseren aan de minister van Sociale Zaken en Werkgelegenheid over te nemen beslissingen inzake bezwaar- en beroepschriften op grond van de Arbeidsomstandighedenwet en de Wet arbeid gehandicapte werknemers. Product: adviezen Periode: 1992–2001 Grondslag: Beschikking Adviescommissie bezwaar en beroep arbeidsomstandigheden (Stcrt. 1994, 64) artikel 2, derde lid, Arbeidsomstandighedenregeling (Stcrt. 1997, 63) artikel 1.13, derde lid, b.w. Stcrt. 2001, 206 Waardering: B (3) 
 
 #### *3.24.23 Actor: de Commissie van Advies Stoomwezen B.V. (ressorteert onder de minister van SZW)* 
 
@@ -4386,5 +4386,5 @@ Handeling: Het adviseren van de minister van Sociale Zaken en Werkgelegenheid me
 Handeling: Het houden van toezicht, in het kader van de aan Stoomwezen b.v. gemandateerde werkzaamheden, op het door Stoomwezen b.v. te voeren uitvoeringsbeleid. Product: Periode: 1995– Grondslag: Instellingsbeschikking Commissie van Advies Stoomwezen b.v. (Stcrt. 1995, 172) artikel 3, tweede lid Waardering: V 
 ###1078
 
-Handeling: Het rapporteren aan de minister van Sociale Zaken en Werkgelegenheid over de jaarlijkse werkzaamheden. Product: rapportage Periode: 1995– Grondslag: Instellingbeschikking Commissie van Advies Stoomwezen b.v. (Stcrt. 1995, 172) artikel 3, derde lid Waardering: V.  
+Handeling: Het rapporteren aan de minister van Sociale Zaken en Werkgelegenheid over de jaarlijkse werkzaamheden. Product: rapportage Periode: 1995– Grondslag: Instellingbeschikking Commissie van Advies Stoomwezen b.v. (Stcrt. 1995, 172) artikel 3, derde lid Waardering: V. 
 

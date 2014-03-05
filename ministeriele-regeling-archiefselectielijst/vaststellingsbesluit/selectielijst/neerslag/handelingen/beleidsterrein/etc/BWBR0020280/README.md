@@ -10,11 +10,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Industrie- en technologiebeleid over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Industrie- en technologiebeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,20 +23,20 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Verkeer en Waterstaat, namens deze: de 
 Projectdirecteur Project Wegwerken Archief Achterstanden, 
-A. van derKooy  
+A. van der Kooy    
 
 ####Basisselectiedocument industrie- en technologiebeleid 1945–
 
-*September 2006*   *Ministerie van Economische Zaken*   *Rijksarchief/PIVOT*  
+*September 2006* *Ministerie van Economische Zaken*   *Rijksarchief/PIVOT*  
 
 ####1. Afkortingen en begrippen
 
-ARA: Algemeen Rijksarchief RAD: Rijksarchiefdienst PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek BSD: Basisselectiedocument Stb.: Staatsblad (jaar, nummer) Stcrt.: Staatscourant (jaar, nummer) Actor: overheidsorgaan of particuliere organisatie/persoon die rol speelt op het beleidsterrein Handeling: complex van activiteiten, gericht op het tot stand brengen van een product, dat een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. B de selectiebeslissing ‘(blijvend) te bewaren’ ten aanzien van de archiefbescheiden die de neerslag vormen van de gewaardeerde handeling V: de selectiebeslissing ‘(op termijn) vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van de gewaardeerde handeling BuZa: Buitenlandse Zaken BZK: Binnenlandse Zaken en Koninkrijkrelaties EZ: Economische Zaken LNV: Landbouw, Natuur en Voedselkwaliteit OC&W: Onderwijs, Cultuur en Wetenschap SZW: Sociale Zaken en Werkgelegenheid V&W: Verkeer en Waterstaat VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: Volksgezondheid, Welzijn en Sport WVC: Welzijn, Volksgezondheid en Cultuur AMvB: Algemene maatregel van Bestuur R&D: Research & Development O&O: Onderzoek & Ontwikkeling CBIN: Commissariaat voor Buitenlandse Investeringen in Nederland [EZ-O/CBIN] CMO: Stichting Coördinatie Martitiem Onderzoek DIR: Dienst Investeringsrekening [EZ] ESA: European Space Agency EU: Europese Unie EVD: Economische Voorlichtingsdienst OESO: Organisatie voor Economische Samenwerking en Ontwikkeling MARIN: Maritiem Research Instituut Nederland NEHEM: Nederlandse Herstructureringsmaatschappij NIB: Nationale Investeringsbank (Herstelbank) NIM: Nederlands Instituut voor Maritiem onderzoek NIVR: Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart NWO: Nederlandse organisatie voor Wetenschappelijk Onderzoek RSV: Rijn-Schelde-Verolme-concern TWA: Technisch-wetenschappelijk attaché VN: Verenigde Naties CISB: Commissie Informatiestimulering Bedrijfsleven ICOMAR: Interdepartementale Commissie voor het Maritieme Onderzoek ICR: Interdepartementale Commissie Ruimtevaart IOP-b: Tijdelijke adviescommissie Innovatiegericht Onderzoekprogramma Biotechnologie IOT: Interdepartementaal Overleg voor het Technologiebeleid PC-b: Programmacommissie biotechnologie PcIB: Tijdelijke programmacollege Industriële Biotechnologie VCT: Tijdelijke Vervolgcommissie Technologiebeleid VIB: Adviescommissie inzake de voortgang van het industriebeleid Commissie-Dekker: Tijdelijke Adviescommissie voor de Uitbouw van het Technologiebeleid Commissie-Wagner: Adviescommissie inzake het industriebeleid Commissie-Zandbergen: Adviescommissie Maritieme Onderzoeksinfrastructuur WIR-commissie: Interdepartementale Commissie Wet Investeringsrekening BIS: Branchegewijze Informatiestimulering BIT: Bedrijfsgerichte Internationale Technologieprogrammma’s BSZ: [Besluit Subsidies Zeescheepsnieuwbouw](../../../../../../../../AMvB/besluit/subsidies/zeescheepsnieuwbouw/1994/BWBR0006715/README.md) BTIP: Bedrijfsgerichte technologiestimulering Internationale Programma’s BTOC: Bedrijfsgerichte Technologisch Onderzoek door Collectieven BTS: Bedrijfsgerichte Technologiestimulering CVO: Civiele Vliegtuigontwikkeling E.E.T.: Economie, Ecologie en Technologie FES: Fonds Economisch Structuurbeleid ICES: Interdepartementale Commissie inzake het Economische Structuurbeleid INSTIR: Innovatiestimuleringsregeling IOP’s: Innovatiegerichte Onderzoekprogramma’s IT: Informatietechnologie ITeR: Informatietechnologie en Recht KREDO: Kredieten Electronische Dienstenontwikkeling PBTS: Programmatische Bedrijfsgerichte Technologiestimulering SBI: Subsidieregeling Bedrijfsvoorlichting informatietechnologie SMO: Subsidies Maritiem Onderzoek SPIN-OV: Stimuleringsprogramma Informatietechnologie Overheidsaanschaffingen T&S: Technologie & Samenleving T&U: Toeleveren & Uitbesteden TGP: Telematica Gidsprojecten TOK: Technische Ontwikkelingskredieten TOP: Technische Ontwikkelingsprojecten WIR: Wet Investeringsrekening (Stb. 1978, 368)  
+ARA: Algemeen Rijksarchief RAD: Rijksarchiefdienst PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek BSD: Basisselectiedocument Stb.: Staatsblad (jaar, nummer) Stcrt.: Staatscourant (jaar, nummer) Actor: overheidsorgaan of particuliere organisatie/persoon die rol speelt op het beleidsterrein Handeling: complex van activiteiten, gericht op het tot stand brengen van een product, dat een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. B de selectiebeslissing ‘(blijvend) te bewaren’ ten aanzien van de archiefbescheiden die de neerslag vormen van de gewaardeerde handeling V: de selectiebeslissing ‘(op termijn) vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van de gewaardeerde handeling BuZa: Buitenlandse Zaken BZK: Binnenlandse Zaken en Koninkrijkrelaties EZ: Economische Zaken LNV: Landbouw, Natuur en Voedselkwaliteit OC&W: Onderwijs, Cultuur en Wetenschap SZW: Sociale Zaken en Werkgelegenheid V&W: Verkeer en Waterstaat VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: Volksgezondheid, Welzijn en Sport WVC: Welzijn, Volksgezondheid en Cultuur AMvB: Algemene maatregel van Bestuur R&D: Research & Development O&O: Onderzoek & Ontwikkeling CBIN: Commissariaat voor Buitenlandse Investeringen in Nederland [EZ-O/CBIN] CMO: Stichting Coördinatie Martitiem Onderzoek DIR: Dienst Investeringsrekening [EZ] ESA: European Space Agency EU: Europese Unie EVD: Economische Voorlichtingsdienst OESO: Organisatie voor Economische Samenwerking en Ontwikkeling MARIN: Maritiem Research Instituut Nederland NEHEM: Nederlandse Herstructureringsmaatschappij NIB: Nationale Investeringsbank (Herstelbank) NIM: Nederlands Instituut voor Maritiem onderzoek NIVR: Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart NWO: Nederlandse organisatie voor Wetenschappelijk Onderzoek RSV: Rijn-Schelde-Verolme-concern TWA: Technisch-wetenschappelijk attaché VN: Verenigde Naties CISB: Commissie Informatiestimulering Bedrijfsleven ICOMAR: Interdepartementale Commissie voor het Maritieme Onderzoek ICR: Interdepartementale Commissie Ruimtevaart IOP-b: Tijdelijke adviescommissie Innovatiegericht Onderzoekprogramma Biotechnologie IOT: Interdepartementaal Overleg voor het Technologiebeleid PC-b: Programmacommissie biotechnologie PcIB: Tijdelijke programmacollege Industriële Biotechnologie VCT: Tijdelijke Vervolgcommissie Technologiebeleid VIB: Adviescommissie inzake de voortgang van het industriebeleid Commissie-Dekker: Tijdelijke Adviescommissie voor de Uitbouw van het Technologiebeleid Commissie-Wagner: Adviescommissie inzake het industriebeleid Commissie-Zandbergen: Adviescommissie Maritieme Onderzoeksinfrastructuur WIR-commissie: Interdepartementale Commissie Wet Investeringsrekening BIS: Branchegewijze Informatiestimulering BIT: Bedrijfsgerichte Internationale Technologieprogrammma’s BSZ: [Besluit Subsidies Zeescheepsnieuwbouw](../../../../../../../../AMvB/besluit/subsidies/zeescheepsnieuwbouw/1994/BWBR0006715/README.md) BTIP: Bedrijfsgerichte technologiestimulering Internationale Programma’s BTOC: Bedrijfsgerichte Technologisch Onderzoek door Collectieven BTS: Bedrijfsgerichte Technologiestimulering CVO: Civiele Vliegtuigontwikkeling E.E.T.: Economie, Ecologie en Technologie FES: Fonds Economisch Structuurbeleid ICES: Interdepartementale Commissie inzake het Economische Structuurbeleid INSTIR: Innovatiestimuleringsregeling IOP’s: Innovatiegerichte Onderzoekprogramma’s IT: Informatietechnologie ITeR: Informatietechnologie en Recht KREDO: Kredieten Electronische Dienstenontwikkeling PBTS: Programmatische Bedrijfsgerichte Technologiestimulering SBI: Subsidieregeling Bedrijfsvoorlichting informatietechnologie SMO: Subsidies Maritiem Onderzoek SPIN-OV: Stimuleringsprogramma Informatietechnologie Overheidsaanschaffingen T&S: Technologie & Samenleving T&U: Toeleveren & Uitbesteden TGP: Telematica Gidsprojecten TOK: Technische Ontwikkelingskredieten TOP: Technische Ontwikkelingsprojecten WIR: Wet Investeringsrekening (Stb. 1978, 368) 
 
 ####2. Verantwoording
 
@@ -50,15 +50,15 @@ Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../wet/archief
 
 – De waarde van de archiefbescheiden als bestandsdeel van het cultureel erfgoed;  
 
-– Het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en historisch onderzoek.   Voorts moet ingevolge [artikel 3 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn: één deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, één deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst.  
+– Het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en historisch onderzoek.   Voorts moet ingevolge [artikel 3 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn: één deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, één deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. 
 
 #### *2.2. Het basisselectiedocument* 
 
-Een basisselectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een enkele organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voorzover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In het Rapport Institutioneel Onderzoek (RIO) wordt het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Door de beleidsgerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid enz.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisatie van overheidsorganen dienen een aantal ‘horizontale’ BSD’s. Deze zijn van toepassing op alle organisaties van de Rijksoverheid. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad van Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot vaststelling. Het BSD wordt vastgelegd in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OC&W) en de betrokken zorgdrager(s).  
+Een basisselectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een enkele organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voorzover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In het Rapport Institutioneel Onderzoek (RIO) wordt het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Door de beleidsgerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid enz.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisatie van overheidsorganen dienen een aantal ‘horizontale’ BSD’s. Deze zijn van toepassing op alle organisaties van de Rijksoverheid. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad van Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot vaststelling. Het BSD wordt vastgelegd in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OC&W) en de betrokken zorgdrager(s). 
 
 #### *2.3. Het BSD-industrie- en technologiebeleid* 
 
-Het PIVOT-rapport Innovatie gesubsidieerd. Een institutioneel onderzoek naar het handelen van de overheid op het beleidsterrein industrie- en technologiebeleid, 1945–2001 vormt de grondslag voor dit ontwerp-BSD. Het RIO geeft een historische beschrijving van het beleidsterrein industrie- en technologiebeleid en een overzicht van de handelingen die overheidsorganen hebben verricht. Het onderzoek naar dit beleidsterrein werd uitgevoerd in het kader van de tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Economische Zaken gesloten convenant. In dit convenant zijn afspraken vastgelegd inzake de overdracht van de na 1940 gevormde archieven. Het institutioneel onderzoek naar het beleidsterrein industrie- en technologiebeleid is verricht in de periode september 2000 tot en met oktober 2001. Het rapport, is na in oktober 2001 te zijn vastgesteld door het Ministerie van Economische Zaken vastgelegd als nr. 148 van de PIVOT-reeks. Dit ontwerp-BSD omvat voorstellen voor de selectie van de administratieve neerslag van de handelingen van de overheid op het beleidsterrein industrie- en technologiebeleid. De afbakening ten opzichte van andere beleidsterreinen in verantwoord in § 2.2 van het RIO. Hier kan dus worden volstaan met deze verwijzing. Voor de toetsing van dit ontwerp-RIO is het raadzaam om eerst de leeswijzer bij de handelingenlijst te raadplegen. Afwijzingen van de handelingenlijst uit het RIO worden hierin toegelicht.  
+Het PIVOT-rapport Innovatie gesubsidieerd. Een institutioneel onderzoek naar het handelen van de overheid op het beleidsterrein industrie- en technologiebeleid, 1945–2001 vormt de grondslag voor dit ontwerp-BSD. Het RIO geeft een historische beschrijving van het beleidsterrein industrie- en technologiebeleid en een overzicht van de handelingen die overheidsorganen hebben verricht. Het onderzoek naar dit beleidsterrein werd uitgevoerd in het kader van de tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Economische Zaken gesloten convenant. In dit convenant zijn afspraken vastgelegd inzake de overdracht van de na 1940 gevormde archieven. Het institutioneel onderzoek naar het beleidsterrein industrie- en technologiebeleid is verricht in de periode september 2000 tot en met oktober 2001. Het rapport, is na in oktober 2001 te zijn vastgesteld door het Ministerie van Economische Zaken vastgelegd als nr. 148 van de PIVOT-reeks. Dit ontwerp-BSD omvat voorstellen voor de selectie van de administratieve neerslag van de handelingen van de overheid op het beleidsterrein industrie- en technologiebeleid. De afbakening ten opzichte van andere beleidsterreinen in verantwoord in § 2.2 van het RIO. Hier kan dus worden volstaan met deze verwijzing. Voor de toetsing van dit ontwerp-RIO is het raadzaam om eerst de leeswijzer bij de handelingenlijst te raadplegen. Afwijzingen van de handelingenlijst uit het RIO worden hierin toegelicht. 
 
 #### *2.4. Actorenoverzicht* 
 
@@ -222,21 +222,21 @@ Het PIVOT-rapport Innovatie gesubsidieerd. Een institutioneel onderzoek naar het
 
 – Minister van Verkeer en Waterstaat  
 
-– Vakminister    
+– Vakminister   
 
 #### *2.5. Selectiedoelstelling* 
 
-Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Bij de behandeling van het ontwerp van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer op 13 april 1994 verwoordde de Minister van WVC deze doelstelling als volgt: ‘dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven’. Door het Convenant van Rijksarchivarissen is de selectiedoelstelling vertaald in de richting van de (bewaar)doelstelling van de RAD als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring.’ De algemene selectiedoelstelling is in dit BSD geoperationaliseerd voor het beleidsterrein industrie- en technologiebeleid. Bij de hier geformuleerde selectievoorstellen stond steeds de vraag centraal: ‘ten aanzien van welke handelingen is de administratieve neerslag noodzakelijk om een reconstructie mogelijk te maken van de hoofdlijnen van het overheidshandelen op het beleidsterrein industrie- en technologiebeleid?’  
+Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Bij de behandeling van het ontwerp van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer op 13 april 1994 verwoordde de Minister van WVC deze doelstelling als volgt: ‘dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven’. Door het Convenant van Rijksarchivarissen is de selectiedoelstelling vertaald in de richting van de (bewaar)doelstelling van de RAD als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring.’ De algemene selectiedoelstelling is in dit BSD geoperationaliseerd voor het beleidsterrein industrie- en technologiebeleid. Bij de hier geformuleerde selectievoorstellen stond steeds de vraag centraal: ‘ten aanzien van welke handelingen is de administratieve neerslag noodzakelijk om een reconstructie mogelijk te maken van de hoofdlijnen van het overheidshandelen op het beleidsterrein industrie- en technologiebeleid?’ 
 
 #### *2.6. Selectiecriteria* 
 
 Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd: het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met een B (‘blijvend bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd in zijn geheel dient te worden overgebracht naar het ARA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (‘vernietigen’), onder vermelding van de periode waarna de vernietiging plaats dient te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Overigens verlangt [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in exceptionele gevallen te bewaren op grond van een uitzonderingscriterium. PIVOT heeft daarom het volgende uitzonderingscriterium geformuleerd: ‘Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.’ Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de volgende algemene selectiecriteria: 
 ###Algemeen selectiecriterium
 
-1. Handelingen die betrekking hebben op de *voorbereiding en bepaling* van beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan: agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van het beleid en terugkoppeling van beleid; dit omvat het kiezen en specificeren van de doeleinden en instrumenten. 2. Handelingen die betrekking hebben op *de evaluatie van beleid* op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan: het beschrijven en beoordelen van de inhoud het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij de terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de *verantwoording van beleid* op hoofdlijnen aan andere actoren. *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over het beleid op hoofdlijnen aan andere actoren of ter publicatie 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop de *beleidsuitvoering* op hoofdlijnen plaatsvindt. *Toelichting:* Onder beleidsuitvoering wordt verstaan: het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten. *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut. 
+1. Handelingen die betrekking hebben op de *voorbereiding en bepaling* van beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan: agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van het beleid en terugkoppeling van beleid; dit omvat het kiezen en specificeren van de doeleinden en instrumenten. 2. Handelingen die betrekking hebben op *de evaluatie van beleid* op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan: het beschrijven en beoordelen van de inhoud het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij de terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de *verantwoording van beleid* op hoofdlijnen aan andere actoren.  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over het beleid op hoofdlijnen aan andere actoren of ter publicatie 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop de *beleidsuitvoering* op hoofdlijnen plaatsvindt.  *Toelichting:* Onder beleidsuitvoering wordt verstaan: het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten.  *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut. 
 ###Vaststelling BSD
 
-In april 2006 is het ontwerp-BSD door de minister van Economische Zaken aan de Staatssecretaris van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 mei 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het ministerie van OCW en de regionaal historische centra, hetgeen was aangekondigd in de *Staatscourant* en in het Archievenblad. Op 23 juni 2006 bracht de RvC advies uit (kenmerk arc-2006.02959/2), hetwelk [naast enkele tekstuele correcties] aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: – de handelingen van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer worden uit de selectielijst verwijderd. Daarop werd het BSD op 12 september 2006 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de ministers van Algemene Zaken (kenmerk besluit C/S&A/06/2196), van Buitenlandse Zaken (C/S&A/06/2197), van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/06/2198), van Defensie (C/S&A/06/2199), van Economische Zaken (C/S&A/06/2200), van Financiën (C/S&A/06/2201), van Justitie (C/S&A/06/2202), van Landbouw, Natuur en Voedselkwaliteit (C/S&A/06/2203), van Onderwijs, Cultuur en Wetenschap (C/S&A/06/2204), van Sociale Zaken en Werkgelegenheid (C/S&A/06/2205) en van Verkeer en Waterstaat (C/S&A/06/2206) vastgesteld.  
+In april 2006 is het ontwerp-BSD door de minister van Economische Zaken aan de Staatssecretaris van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 mei 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het ministerie van OCW en de regionaal historische centra, hetgeen was aangekondigd in de *Staatscourant* en in het Archievenblad. Op 23 juni 2006 bracht de RvC advies uit (kenmerk arc-2006.02959/2), hetwelk [naast enkele tekstuele correcties] aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: – de handelingen van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer worden uit de selectielijst verwijderd. Daarop werd het BSD op 12 september 2006 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de ministers van Algemene Zaken (kenmerk besluit C/S&A/06/2196), van Buitenlandse Zaken (C/S&A/06/2197), van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/06/2198), van Defensie (C/S&A/06/2199), van Economische Zaken (C/S&A/06/2200), van Financiën (C/S&A/06/2201), van Justitie (C/S&A/06/2202), van Landbouw, Natuur en Voedselkwaliteit (C/S&A/06/2203), van Onderwijs, Cultuur en Wetenschap (C/S&A/06/2204), van Sociale Zaken en Werkgelegenheid (C/S&A/06/2205) en van Verkeer en Waterstaat (C/S&A/06/2206) vastgesteld. 
 
 #### *2.7. Leeswijzer bij de handelingenlijst* 
 
@@ -246,7 +246,7 @@ De handelingen in het RIO zijn naar actor geordend. De handelingen worden omschr
 
 – het onderwerp waarop de handeling(en) betrekking heeft (hebben);  
 
-– een verwijzing naar de paragraaf van het RIO waarin de desbetreffende handeling(en) is (zijn) opgenomen.    
+– een verwijzing naar de paragraaf van het RIO waarin de desbetreffende handeling(en) is (zijn) opgenomen.   
 
 ####3. Selectielijsten (actoren en handelingen)
 
@@ -338,7 +338,7 @@ Handeling: Het (mede) benoemen van de voorzitter en leden van de WIR-commissie. 
 Handeling: Het (mede) voorbereiden, vaststellen en wijzigen van regels ter bevordering van een goede uitvoering van de WIR-knip. Periode: 1991– Grondslag: Wet temporisering uitbetaling investeringsbijdragen (Stb. 1991, 356), artikels 5 lid 2 en 7. Product: Ministeriële regeling, zoals: – Regeling vaststelling formulier melding WIR-aanspraken (Stcrt. 1991, 135) – Uitvoeringsregeling WIR-temporisering (Stcrt. 1991, 204) Waardering: B 1 
 ###(43.)
 
-Handeling: Het benoemen van een *industrial commissioner* Periode: 1976– Bron: Staatsalmanak 1976, p. O6. Product: Benoeming Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
+Handeling: Het benoemen van een *industrial commissioner*  Periode: 1976– Bron: Staatsalmanak 1976, p. O6. Product: Benoeming Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 ###(44.)
 
 Handeling: Het benoemen van een commissaris voor het CBIN. Periode: 1983– Product: Benoeming, zoals: Ir. J.P. Hanse nieuwe commissaris buitenlandse investeringen (Stcrt. 1994, 76). Waardering V; 10 jaar na bereiken pensioengerechtigde leeftijd 
@@ -497,7 +497,7 @@ Handeling: Het kwijtschelden van krediet- en rentevergoeding. Periode: 2000– G
 Handeling: Het (mede) instellen van de Interdepartementale Commissie voor ruimteonderzoek en ruimtetechnologie en het geven van instructies. Periode: 1966–1994 Bron/ Grondslag: Ministerraadbesluit van 4 maart 1966. Staatsalmanak 1975, P.40. Instelling interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1987, 108), artikel 1. Wijzigingen beschikkingen instelling commissies op terrein technologiebeleid (Stcrt. 1988, 254), artikel 2. Verlening instellingstermijn Interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1992, 248). Product: Besluit Waardering: B 4 
 ###(122.)
 
-Handeling: Het benoemen van de voorzitter of lid van de *Interdepartementale commissie voor ruimteonderzoek en ruimtetechnologie* Periode: 1966–1994 Grondslag: Instellingsbesluit interdepartementale commissie ruimteonderzoek en ruimtechnologie (Stcrt. 1987, 108), artikel 3 lid 1 a. Product: Aanstellingsbesluit Opmerking: De Minister van EZ wijst de voorzitter aan. De nadere betrokken Ministers wijzen elk één lid aan, met uitzondering van de Minister van OC&A, die er twee aanwijst. Tevens worden als adviseurs van de commissie nog één vertegenwoordiger van het NIVR en één van de Space Research Organisation Netherlands aangesteld. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
+Handeling: Het benoemen van de voorzitter of lid van de *Interdepartementale commissie voor ruimteonderzoek en ruimtetechnologie*  Periode: 1966–1994 Grondslag: Instellingsbesluit interdepartementale commissie ruimteonderzoek en ruimtechnologie (Stcrt. 1987, 108), artikel 3 lid 1 a. Product: Aanstellingsbesluit Opmerking: De Minister van EZ wijst de voorzitter aan. De nadere betrokken Ministers wijzen elk één lid aan, met uitzondering van de Minister van OC&A, die er twee aanwijst. Tevens worden als adviseurs van de commissie nog één vertegenwoordiger van het NIVR en één van de Space Research Organisation Netherlands aangesteld. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 ###(130.)
 
 Handeling: Het benoemen van de voorzitter of lid van de ICR Periode: 1994– Grondslag: Instellingsregeling Interdepartementale Commissie Ruimtevaart (ICR) (Stcrt. 1994, 84), artikel 3 lid 3. Product: Besluit Opmerking: De voorzitter van de ICR is tevens de voorzitter van de Nederlandse ambtelijke delegatie in de ESA-raad Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
@@ -953,7 +953,7 @@ Vervallen.
 Handeling: Het voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake het industrie- en technologiebeleid en het presenteren van Nederlandse standpunten in intergouvernementele organisaties, anders dan de VN, de EU en de OESO. Periode: 1945– Product: Internationale regelingen, nota’s, notities en rapporten Waardering: B 1 
 ###(387.)
 
-Handeling: Het voeren van internationaal overleg op het gebied van lucht- en ruimtevaart. Periode: 1945– Product: Nota’s, notities en rapporten Waardering: B 1  
+Handeling: Het voeren van internationaal overleg op het gebied van lucht- en ruimtevaart. Periode: 1945– Product: Nota’s, notities en rapporten Waardering: B 1 
 
 #### *3.2. Dienst Investeringsrekening( DIR)* 
 
@@ -989,7 +989,7 @@ Handeling: Het afgeven, wijzigen of intrekken van verklaringen omtrent investeri
 Handeling: Het verlenen van ontheffingen voor bepalingen in de Wet Investeringsrekening (WIR). Periode: 1978–1990 Grondslag: Wet Investeringsrekening (Stb. 1978, 368), artikel 24 lid 2, vervallen bij Wet van 28 december 1989 (Stb. 1989, 601). Product: Beschikking Waardering: V 10 jaar 
 ###(203.)
 
-Handeling: Het vaststellen en toezeggen van subsidie ter tegemoetkoming van de gemaakte kosten voor R&D. Periode: 1984–1991 Grondslag: Subsidieregeling innovatiestimulering 1984 (Stcrt. 1984, 140) art. 2, 10 lid 1; Subsidieregeling innovatiestimulering 1989 (Stcrt. 1989, 183) art. 3, 10 lid 1. Product: Beschikking Opmerking: Aanvragen voor subsidie konden worden ingediend bij de DIR van het Ministerie van EZ. De DIR nam deze aanvragen in behandeling. Onder subsidiabele kosten werden verstaan: de kosten die de ondernemer heeft betaald voor loon in de zin van de Wet op de loonbelasting; de kosten voor werknemers die door een derde aan de ondernemer ter beschikking zijn gesteld, waaronder de BTW; de kosten voor de door de ondernemer uitbestede R&D. Waardering: V 7 jaar  
+Handeling: Het vaststellen en toezeggen van subsidie ter tegemoetkoming van de gemaakte kosten voor R&D. Periode: 1984–1991 Grondslag: Subsidieregeling innovatiestimulering 1984 (Stcrt. 1984, 140) art. 2, 10 lid 1; Subsidieregeling innovatiestimulering 1989 (Stcrt. 1989, 183) art. 3, 10 lid 1. Product: Beschikking Opmerking: Aanvragen voor subsidie konden worden ingediend bij de DIR van het Ministerie van EZ. De DIR nam deze aanvragen in behandeling. Onder subsidiabele kosten werden verstaan: de kosten die de ondernemer heeft betaald voor loon in de zin van de Wet op de loonbelasting; de kosten voor werknemers die door een derde aan de ondernemer ter beschikking zijn gesteld, waaronder de BTW; de kosten voor de door de ondernemer uitbestede R&D. Waardering: V 7 jaar 
 
 #### *3.3. Commissariaat voor Buitenlandse Investeringen in Nederland (CBIN)* 
 
@@ -1004,7 +1004,7 @@ Handeling: Het rapporteren over relevante veranderingen in het vestigingsklimaat
 Handeling: Het rapporteren over het beleid gericht op de acquisitie van buitenlandse investeringen met de lagere overheden in Nederland. Periode: 1978– Bron: Ministerie van Economische Zaken (CBIN), Werving voor werk en welvaart. Motieven en middelen voor het Nederlandse acquisitiebeleid (Den Haag 1999), p. 32. TK II 1977–1978, 14 800-XIII, Rijksbegroting voor het dienstjaar 1978, nr. 2, p. 37. Product: Rapporten Waardering: B 1 
 ###(49.)
 
-Handeling: Het opmaken van een jaarverslag. Periode: 1986– Bron: Op basis van een interview met een materiedeskundige. Product: Jaarverslag Opmerking: In het jaarbeeld wordt de verantwoording afgelegd over wat er het afgelopen jaar bereikt is en worden trends gesignaleerd voor het nieuwe jaar. Dit jaarbeeld wordt ook toegestuurd aan de Tweede Kamer. Waardering: V 2 jaar met uitzondering van eindproduct  
+Handeling: Het opmaken van een jaarverslag. Periode: 1986– Bron: Op basis van een interview met een materiedeskundige. Product: Jaarverslag Opmerking: In het jaarbeeld wordt de verantwoording afgelegd over wat er het afgelopen jaar bereikt is en worden trends gesignaleerd voor het nieuwe jaar. Dit jaarbeeld wordt ook toegestuurd aan de Tweede Kamer. Waardering: V 2 jaar met uitzondering van eindproduct 
 
 #### *3.4. Technisch-wetenschappelijk attaché (TWA)* 
 
@@ -1016,7 +1016,7 @@ Handeling: Het rapporteren over technologische veranderingen en ontwikkelingen i
 Vervallen. 
 ###(53.)
 
-Vervallen.  
+Vervallen. 
 
 #### *3.5. Nederlandse Herstructureringsmaatschappij (NEHEM)* 
 
@@ -1061,7 +1061,7 @@ Handeling: Het vaststellen en toezeggen van subsidies aan ondernemingen in het g
 Handeling: Het vaststellen en toezeggen van subsidies ter ontwikkeling van het databankuitgeven en de hiermee samenhangende dienstverlening. Periode: 1983–1984 Grondslag: Subsidieregeling databankuitgeven 1983 (Stcrt. 1983, 241), artikels 2 lid 1; 4 lid 1 en artikel 7. Product: Beschikking Opmerking: De aanvragen werden ingediend bij de NEHEM. Deze besliste ook over de vaststelling van de subsidie. De Minister deed de toezegging. De Minister kon aan de subsidietoezegging nadere voorwaarden verbinden. De NEHEM kon voorschotten verstrekken op een beschikking tot subsidieverlening. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar 
 ###(107.)
 
-Handeling: Het vaststellen en toezeggen van subsidies aan ondernemingen in de galvanische industrie ter financiering van milieu-investeringen. Periode: 1981–1986 Grondslag: Kaderregeling milieu-investeringen in de galvanische industrie 1981 (Stcrt. 1981, 204) Product: Beschikking Opmerking: De aanvragen werden ingediend bij de NEHEM. Deze besliste ook over de toewijzing en de vaststelling van de subsidie. De NEHEM kon aan de subsidietoezegging nadere voorwaarden verbinden. Er konden voorschotten verstrekt worden op een beschikking tot subsidieverlening. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar  
+Handeling: Het vaststellen en toezeggen van subsidies aan ondernemingen in de galvanische industrie ter financiering van milieu-investeringen. Periode: 1981–1986 Grondslag: Kaderregeling milieu-investeringen in de galvanische industrie 1981 (Stcrt. 1981, 204) Product: Beschikking Opmerking: De aanvragen werden ingediend bij de NEHEM. Deze besliste ook over de toewijzing en de vaststelling van de subsidie. De NEHEM kon aan de subsidietoezegging nadere voorwaarden verbinden. Er konden voorschotten verstrekt worden op een beschikking tot subsidieverlening. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar 
 
 #### *3.6. Nederlands Instituut voor Vliegtuigontwikkeling (NIVR)* 
 
@@ -1079,13 +1079,13 @@ Handeling: Het vaststellen en toezeggen van kredieten voor civiele vliegtuigontw
 Handeling: Het sluiten van overeenkomsten met ondernemingen, samenwerkingsverbanden of kennisinstituten met betrekking tot civiele vliegtuigontwikkeling Periode: 1965– Grondslag: (vanaf 2000) Besluit subsidies civiele vliegtuigontwikkeling (Stb. 2000, 206), artikel 17. Verlening mandaat uitvoering Besluit subsidies civiele vliegtuigontwikkeling (Stcrt. 2000, 113). Product: Overeenkomst Waardering: B 4 
 ###(149.)
 
-Handeling: Het verlenen van ontheffing van bepalingen in het Besluit subsidies civiele vliegtuigontwikkeling. Periode: 2000– Grondslag: Besluit subsidies civiele vliegtuigontwikkeling (Stb. 2000, 206) artikels 11; 14 en 15. Verlening mandaat uitvoering Besluit subsidies civiele vliegtuigontwikkeling (Stcrt. 2000, 113). Product: Beschikking (ontheffing) Waardering: V 10 jaar  
+Handeling: Het verlenen van ontheffing van bepalingen in het Besluit subsidies civiele vliegtuigontwikkeling. Periode: 2000– Grondslag: Besluit subsidies civiele vliegtuigontwikkeling (Stb. 2000, 206) artikels 11; 14 en 15. Verlening mandaat uitvoering Besluit subsidies civiele vliegtuigontwikkeling (Stcrt. 2000, 113). Product: Beschikking (ontheffing) Waardering: V 10 jaar 
 
 #### *3.7. Senter* 
 
 ###(162).
 
-Handeling: Het verstrekken van subsidie voor het uitvoeren van maritiem onderzoek. Periode: 1995–2001 Grondslag: Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), artikels 2 leden 1 en 2; 9; 12 lid 1; 19; 21 lid 2; 22 en 23, vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikels 2; 8; 11; 17; 20 en 21, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Beschikking Opmerking: De Minister kon voorschotten verstrekken op een beschikking tot subsidieverlening. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar  
+Handeling: Het verstrekken van subsidie voor het uitvoeren van maritiem onderzoek. Periode: 1995–2001 Grondslag: Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), artikels 2 leden 1 en 2; 9; 12 lid 1; 19; 21 lid 2; 22 en 23, vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikels 2; 8; 11; 17; 20 en 21, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Beschikking Opmerking: De Minister kon voorschotten verstrekken op een beschikking tot subsidieverlening. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar 
 
 #### *3.8. Minister van Financiën* 
 
@@ -1142,7 +1142,7 @@ Handeling: Het (mede) verlenen van herstelfinanciering aan een ondernemer. Perio
 Handeling: Het (mede) voorbereiden van deskundige bijdragen en standpunten in de ([ad hoc] commissies ressorterende onder de) ECOFIN van de EU op het gebied van industrie- en technologiebeleid. Periode: 1958– Product: Internationale regelingen, nota’s, notites en rapporten Waardering: B 1 
 ###(373.)
 
-Vervallen.  
+Vervallen. 
 
 #### *3.9. Minister van Sociale Zaken en Werkgelegenheid* 
 
@@ -1172,7 +1172,7 @@ Handeling: Het (mede) bieden van financiële steun aan bedrijven die in moeilijk
 Handeling: Het (mede) verlenen van herstelfinanciering aan een ondernemer. Periode: 1984– Grondslag: Regeling herstelfinanciering 1984 (Stcrt. 1980, 60), artikels 5 en 7. Product: Beschikking Opmerking: De onderneming moet in continuïteitsproblemen verkeren of daarin geraken. De aanvraag dient vergezeld te gaan van een duidelijk en uitgewerkt ondernemingsplan waaruit blijkt dat het bedrijf voldoende continuïteitsperspectief heeft, uitgaande van normaal ondernemersgedrag en rekening houdende met de financiële steun. Kleine of middelgrote ondernemingen komen alleen voor herstelfinanciering in aanmerking als zij gevestigd zijn in een regio waar het werkeloosheidspercentage gedurende zes maanden vooraf aan de aanvraag of waar het de verwachting is dat het werkeloosheidspercentage binnen zes maanden na het indienen van de aanvraag 18,5 zal bedragen. Grote ondernemingen komen alleen voor herstelfinanciering in aanmerking als de activiteiten van de onderneming: van betekenis zijn voor de Nederlandse economie, moeilijk of slechts op zeer koStbare wijze door een andere onderneming gereproduceerd kunnen worden. Maakt de onderneming deel uit van een groep, dan wordt bij de aanvraag de positie van de groep als geheel in beschouwing genomen. De aanvraag voor herstelfinanciering moet gezonden worden aan het Bureau Bijzondere Bedrijfsproblemen van EZ. Bedrijven die behoren tot die sectoren van het bedrijfsleven waarvoor de Minister van LNV of de Minister van V&W verantwoordelijk zijn, dienen hun aanvraag om financiële steun bij die betreffende Minister in te dienen. De herstelfinanciering bestaat uit een rentedragende lening of een kredietgarantie. De Minister van EZ kan aan de herstelfinanciering nadere voorwaarden verbinden. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar 
 ###(195.)
 
-Handeling: Het (mede) verlenen van (financiële) steun aan de scheepsbouw- en zware metaalindustrie. Periode: 1978– Bron: TK II 1977–1978, 14 969, *Scheepsbouw en zware metaalindustrie in Nederland, nr. 1.* Steunplan scheepsbouw en zware metaal: ruim fl. 800 miljoen (Stcrt. 1978, 59). Product: Beschikking Opmerking: Het gaat hier onder andere om steun aan de Verenigde Machinefabrieken Stork NV., (VMF-Stork), de Industriële Handelscombinatie (IHC) en Van der Giessen-De Noord (GN). Waardering: B 5  
+Handeling: Het (mede) verlenen van (financiële) steun aan de scheepsbouw- en zware metaalindustrie. Periode: 1978– Bron: TK II 1977–1978, 14 969, *Scheepsbouw en zware metaalindustrie in Nederland, nr. 1.*  Steunplan scheepsbouw en zware metaal: ruim fl. 800 miljoen (Stcrt. 1978, 59). Product: Beschikking Opmerking: Het gaat hier onder andere om steun aan de Verenigde Machinefabrieken Stork NV., (VMF-Stork), de Industriële Handelscombinatie (IHC) en Van der Giessen-De Noord (GN). Waardering: B 5 
 
 #### *3.10. Minister van Volksgezondheid, Welzijn en Sport* 
 
@@ -1184,7 +1184,7 @@ Handeling: Het (mede) benoemen van de voorzitter en leden van de WIR-commissie. 
 Handeling: Het (mede) instellen van de Interdepartementale Commissie voor ruimteonderzoek en ruimtetechnologie en het geven van instructies. Periode: 1966–1994 Bron/Grondslag: Ministerraadbesluit van 4 maart 1966. Staatsalmanak 1975, P.40. Instelling interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1987, 108), artikel 1. Wijzigingen beschikkingen instelling commissies op terrein technologiebeleid (Stcrt. 1988, 254), artikel 2. Verlening instellingstermijn Interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1992, 248). Product: Besluit Waardering: B 4 
 ###(246.)
 
-Handeling: Het (mede) benoemen van de secretaris en de leden van de Tijdelijke advies-commissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b). Periode: 1985–1990 Grondslag: Instelling tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 3 lid. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van de secretaris en de leden van de Tijdelijke advies-commissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b). Periode: 1985–1990 Grondslag: Instelling tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 3 lid. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.11. Minister van Landbouw, Natuur en Voedselkwaliteit* 
 
@@ -1208,7 +1208,7 @@ Handeling: Het (mede) verlenen van herstelfinanciering aan een ondernemer. Perio
 Handeling: Het (mede) benoemen van een secretaris en leden van de Tijdelijke Programmacommissie Industriële Biotechnologie (PcIB). Periode: 1985–1990 Grondslag: Instelling tijdelijke PcIB (Stcrt. 1985, 101) art. 3 lid 1. Product: Beschikking (benoeming) Opmerking: Hieronder valt tevens het aanwijzen van een adviseur van de PcIB. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 ###(246.)
 
-Handeling: Het (mede) benoemen van de secretaris en de leden van de Tijdelijke advies-commissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b). Periode: 1985–1990 Grondslag: Instelling tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 3 lid. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van de secretaris en de leden van de Tijdelijke advies-commissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b). Periode: 1985–1990 Grondslag: Instelling tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 3 lid. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.12. Minister van Verkeer en Waterstaat* 
 
@@ -1268,7 +1268,7 @@ Handeling: Het deelnemen aan de ICOMAR. Periode: 1979–1997 Grondslag: Instelli
 Handeling: Het (mede) verlenen van herstelfinanciering aan een ondernemer. Periode: 1984– Grondslag: Regeling herstelfinanciering 1984 (Stcrt. 1980, 60), artikels 5 en 7. Product: Beschikking Opmerking: De onderneming moet in continuïteitsproblemen verkeren of daarin geraken. De aanvraag dient vergezeld te gaan van een duidelijk en uitgewerkt ondernemingsplan waaruit blijkt dat het bedrijf voldoende continuïteitsperspectief heeft, uitgaande van normaal ondernemersgedrag en rekening houdende met de financiële steun. Kleine of middelgrote ondernemingen komen alleen voor herstelfinanciering in aanmerking als zij gevestigd zijn in een regio waar het werkeloosheidspercentage gedurende zes maanden vooraf aan de aanvraag of waar het de verwachting is dat het werkeloosheidspercentage binnen zes maanden na het indienen van de aanvraag 18,5 zal bedragen. Grote ondernemingen komen alleen voor herstelfinanciering in aanmerking als de activiteiten van de onderneming: van betekenis zijn voor de Nederlandse economie, moeilijk of slechts op zeer kostbare wijze door een andere onderneming gereproduceerd kunnen worden. Maakt de onderneming deel uit van een groep, dan wordt bij de aanvraag de positie van de groep als geheel in beschouwing genomen. De aanvraag voor herstelfinanciering moet gezonden worden aan het Bureau Bijzondere Bedrijfsproblemen van EZ. Bedrijven die behoren tot die sectoren van het bedrijfsleven waarvoor de Minister van LNV of de Minister van V&W verantwoordelijk zijn, dienen hun aanvraag om financiële steun bij die betreffende Minister in te dienen. De herstelfinanciering bestaat uit een rentedragende lening of een kredietgarantie. De Minister van EZ kan aan de herstelfinanciering nadere voorwaarden verbinden. Waardering: toegewezen: B 5 afgewezen: V; 7 jaar 
 ###(313.)
 
-Handeling: Het (mede) benoemen van voorzitter en leden van de Stuurgroep ITeR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van voorzitter en leden van de Stuurgroep ITeR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.13. Minister van Buitenlandse Zaken* 
 
@@ -1289,7 +1289,7 @@ Handeling: Het (mede) benoemen van de voorzitter en de leden van het bestuur van
 Handeling: Het (mede) wijzigen van de statuten van het NIVR. Periode: 1971– 1999 Bron: Statuten NIVR, d.d. 29 maart 1955, artikel 16. Product: Besluit Opmerking: Hiervoor moet wel het bestuur gehoord worden. Waardering: B 4 
 ###(143.)
 
-Vervallen.  
+Vervallen. 
 
 #### *3.14. Minister voor Wetenschapsbeleid* 
 
@@ -1310,7 +1310,7 @@ Handeling: Het deelnemen aan de ICOMAR. Periode: 1979–1997 Grondslag: Instelli
 Handeling: Het mede instellen van de Stuurgroep IOP’s en geven van instructies. Periode: 1981–1992 Grondslag: Besluit instelling Stuurgroep IOP’s (Stcrt. 1981, 150) art. 1. Product: Instellingsbeschikking Waardering: B 4 
 ###(221.)
 
-Handeling: Het (mede) instellen van een Programmacommissie IOP en geven van instructies. Periode: 1981–1985 Grondslag: Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1981, 150) art. 2. Product: Instellingsbeschikking, zoals: Programmacommissie Biotechnologie (Stcrt. 1981, 178) Programmacommissie (tijdelijk) Indu⁠striële Biotechnologie (Stcrt. 1985, 101) Waardering: B 4  
+Handeling: Het (mede) instellen van een Programmacommissie IOP en geven van instructies. Periode: 1981–1985 Grondslag: Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1981, 150) art. 2. Product: Instellingsbeschikking, zoals: Programmacommissie Biotechnologie (Stcrt. 1981, 178) Programmacommissie (tijdelijk) Indu⁠striële Biotechnologie (Stcrt. 1985, 101) Waardering: B 4 
 
 #### *3.15. Minister van Onderwijs, Cultuur en Wetenschap* 
 
@@ -1376,7 +1376,7 @@ Handeling: Het mede benoemen van de voorzitter en leden van de Adviescommissie E
 Handeling: Het (mede) instellen van het Interdepartementaal Overleg voor het Technologiebeleid (IOT) en het geven van instructies Periode: 1984– Product: Instellingsbeschikking IOT (Stcrt. 1984, 53) Waardering: B 4 
 ###(356.)
 
-Handeling: Het (mede) benoemen van voorzitters en leden van het IOT. Periode: 1984– Grondslag: Instellingsbeschikking IOT (Stcrt. 1984, 53) art. 3. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van voorzitters en leden van het IOT. Periode: 1984– Grondslag: Instellingsbeschikking IOT (Stcrt. 1984, 53) art. 3. Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.16. Minister van Defensie* 
 
@@ -1415,7 +1415,7 @@ Handeling: Het (mede) verstrekken van subsidie voor het uitvoeren van maritiem o
 Handeling: Het (mede) instellen en vaststellen van werkwijze van de Interdepartementale commissie voor het maritieme onderzoek (ICOMAR). Periode: 1990–1997 Product: Instellingsbeschikking, zoals: Beschikking van de Minister voor Wetenschapsbeleid van 10 december 1979, nr. DGWB-13.838 Beschikking van de Minister van Economische Zaken van 16 augustus 1984, nr. WJA 684/777 [wijziging van de beschikking van de Minister voor Wetenschapsbeleid] Instelling Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65) Verlening instellingstermijn Interdepartementale commissie maritiem onderzoek (Stcrt. 1992, 248) Opmerking: Sinds 1987 functioneert de ICOMAR als zelfstandige subcommissie van het Interdepartementaal overleg voor het technologiebeleid (IOT) (Stcrt. 108). Waardering: B 4 
 ###(170.)
 
-Handeling: Het deelnemen aan de ICOMAR Periode: 1979–1997 Grondslag: Instellingsbeschikking Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65), artikel 4 lid 2. Product: Beschikking (benoeming) Opmerking: Hiermee is ambtenaar belast Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het deelnemen aan de ICOMAR Periode: 1979–1997 Grondslag: Instellingsbeschikking Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65), artikel 4 lid 2. Product: Beschikking (benoeming) Opmerking: Hiermee is ambtenaar belast Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.17. Minister van Binnenlandse Zaken en Koninkrijkrelaties* 
 
@@ -1424,13 +1424,13 @@ Handeling: Het deelnemen aan de ICOMAR Periode: 1979–1997 Grondslag: Instellin
 Handeling: Het mede oprichten en vaststellen werkwijze en/of het (mede) ontbinden van de stichting Nederlands Instituut voor Vliegtuigontwikkeling (NIV(R)). Periode: 1947– Grondslag: Wet van 24 februari 1955 houdende bekrachtiging van de oprichting van de Stichting Nederlands Instituut voor Vliegtuigontwikkeling, alsmede vaststelling van een regeling als bedoeld in artikel 89a van de Comptabiliteitswet 1927 (Stb. 259) ten aanzien van deze Stichting (Stb. 1955, 107), artikel 1. Opmerking: In 1971 is ruimtevaart aan het programma van het NIV toegevoegd en is de naam gewijzigd in Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart (NIVR). Waardering: B 4 
 ###(313.)
 
-Handeling: Het (mede) benoemen van voorzitter en leden van de Stuurgroep IteR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van voorzitter en leden van de Stuurgroep IteR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.18. Minister van Justitie* 
 
 ###(313.)
 
-Handeling: Het mede benoemen van voorzitter en leden van de Stuurgroep ITeR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het mede benoemen van voorzitter en leden van de Stuurgroep ITeR. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 5 lid 1 onder a t/m f. Product: Beschikking (benoeming) Opmerking: De Ministers van EZ en OC&W wijzen elk twee leden aan; de overigen wijzen één lid aan. De secretaris en tevens lid wordt aangewezen door de Minister van Onderwijs, Cultuur en Wetenschap. De Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) is tevens vertegenwoordigd in de Stuurgroep ITeR. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.19. Vakminister* 
 
@@ -1472,7 +1472,7 @@ Handeling: Het (mede) benoemen van een secretaris en leden van een Tijdelijke PC
 Handeling: Het (mede) benoemen van de secretaris en de leden van de Tijdelijke adviescommissie IOP’s. Periode: 1945– Product: Beschikking (benoeming) Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 ###(251.)
 
-Handeling: Het (mede) benoemen van de voorzitter en de leden van een Programmacollege IOP’s Periode: 1945– Product: Beschikking (benoeming) Opmerking: Hieronder valt tevens het aanwijzen van waarnemers bij de vergaderingen van het programmacollege. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd  
+Handeling: Het (mede) benoemen van de voorzitter en de leden van een Programmacollege IOP’s Periode: 1945– Product: Beschikking (benoeming) Opmerking: Hieronder valt tevens het aanwijzen van waarnemers bij de vergaderingen van het programmacollege. Waardering: V; 10 jaar na bereiken pensioengerechtigde leeftijd 
 
 #### *3.20. Adviescommissie inzake het industriebeleid–Commissie-Wagner* 
 
@@ -1481,55 +1481,55 @@ Handeling: Het (mede) benoemen van de voorzitter en de leden van een Programmaco
 Handeling: Het adviseren van de Raad van Ministers omtrent eventuele wijzigingen in het industriebeleid. Periode: 1981 Grondslag: Instelling adviescommissie inzake het industriebeleid (Stcrt. 1981, 97), artikel 3. Product: Advies Opmerking: • Hiervoor zal de commissie: – een evaluatie maken van het bestaande industriebeleid; – een verkenning maken van industriële activiteiten met een veelbelovend toekomstperspectief; – suggesties doen over nieuwe accenten in het industriebeleid; – adviseren over de organisatie van het te voeren industriebeleid, zowel met betrekking tot de gehele industrie als tot de verschillende sectoren. • Tevens kan de commissie de Raad van Ministers adviseren over bovengenoemde onderwerpen vóór de aanbieding van het eindrapport. • Telkens als een onderdeel van haar taak is afgerond, zal de commissie de Raad van Ministers rapporteren over haar bevindingen. • De commissie is ook bekend als de Commissie-Wagner. Waardering: B 1 
 ###(21.)
 
-Handeling: Het instellen van werkgroepen. Periode: 1981 Grondslag: Instelling adviescommissie inzake het industriebeleid (Stcrt. 1981, 97), artikel 6 lid 1. Product: Instellingsbesluit Opmerking: Er kunnen ook personen van buiten de commissie zitting hebben in de werkgroepen. Waardering: V 2 jaar  
+Handeling: Het instellen van werkgroepen. Periode: 1981 Grondslag: Instelling adviescommissie inzake het industriebeleid (Stcrt. 1981, 97), artikel 6 lid 1. Product: Instellingsbesluit Opmerking: Er kunnen ook personen van buiten de commissie zitting hebben in de werkgroepen. Waardering: V 2 jaar 
 
 #### *3.21. Adviescommissie inzake de voortgang van het industriebeleid–VIB* 
 
 ###(23.)
 
-Handeling: Het adviseren van de Raad van Ministers over het te voeren beleid met betrekking tot de industrie en de commerciële dienstverlening in het algemeen en de herindustrialisatie in het bijzonder. Periode: 1982–1983 Grondslag: TK II 1981–1982, 17 100-XIII, Rijksbegroting voor het jaar 1982, nr. 52, p. 1. Product: Advies Opmerking: • De commissie geeft niet alleen advies over het beleid, maar ook over de verwezenlijking daarvan. • In het advies moet ook de daarmee samenhangende aspecten van het sociaal-economisch beleid meegenomen zijn. • Het advies wordt gericht aan de Minister van Economische Zaken. • De commissie heeft tevens als taak te signaleren welke voortgang bij de uitvoering van de beleidsvoornemens worden gemaakt. Waardering: B 1  
+Handeling: Het adviseren van de Raad van Ministers over het te voeren beleid met betrekking tot de industrie en de commerciële dienstverlening in het algemeen en de herindustrialisatie in het bijzonder. Periode: 1982–1983 Grondslag: TK II 1981–1982, 17 100-XIII, Rijksbegroting voor het jaar 1982, nr. 52, p. 1. Product: Advies Opmerking: • De commissie geeft niet alleen advies over het beleid, maar ook over de verwezenlijking daarvan. • In het advies moet ook de daarmee samenhangende aspecten van het sociaal-economisch beleid meegenomen zijn. • Het advies wordt gericht aan de Minister van Economische Zaken. • De commissie heeft tevens als taak te signaleren welke voortgang bij de uitvoering van de beleidsvoornemens worden gemaakt. Waardering: B 1 
 
 #### *3.22. Commissie Industriële innovatie* 
 
 ###(25.)
 
-Handeling: Het ontwikkelen van plan van een aanpak voor de industriële innovatieproblematiek in samenhang met het industriebeleid. Periode: 1973– Bron: Commissie Industriële Innovatie geïnstalleerd (Stcrt. 1973, 239). Product: Plan van aanpak/advies Opmerking: Hiervoor wordt overleg gevoerd met de Minister van EZ en TNO. Waardering: B 1  
+Handeling: Het ontwikkelen van plan van een aanpak voor de industriële innovatieproblematiek in samenhang met het industriebeleid. Periode: 1973– Bron: Commissie Industriële Innovatie geïnstalleerd (Stcrt. 1973, 239). Product: Plan van aanpak/advies Opmerking: Hiervoor wordt overleg gevoerd met de Minister van EZ en TNO. Waardering: B 1 
 
 #### *3.23. Interdepartementale Adviescommissie Wet Investeringsrekening–WIR-commissie* 
 
 ###(30.)
 
-Handeling: Het adviseren van de Ministers van Economische Zaken, Financiën en Sociale Zaken en Werkgelegenheid over aangelegenheden betreffende de WIR. Periode: 1978–1992 Grondslag: Besluit van de Minister van Economische Zaken van 7 april 1978, nr. WJA 678/248, artikel 2. Opheffing Interdepartementale Adviescommissie WIR (Stcrt. 1992, 98) Product: Advies Opmerking: Deze aangelegenheden betreffen: het adviseren van de betrokken Ministers omtrent de voorbereiding en de uitvoering van de WIR; het zorgdragen voor de uitvoering van de door de betrokken Ministers genomen besluiten; het voorbereiden van de begroting van de WIR; het voorbereiden van het jaarverslag aan de Staten-Generaal over de WIR. Deze commissie wordt ook wel de WIR-commissie genoemd. Waardering: B 1  
+Handeling: Het adviseren van de Ministers van Economische Zaken, Financiën en Sociale Zaken en Werkgelegenheid over aangelegenheden betreffende de WIR. Periode: 1978–1992 Grondslag: Besluit van de Minister van Economische Zaken van 7 april 1978, nr. WJA 678/248, artikel 2. Opheffing Interdepartementale Adviescommissie WIR (Stcrt. 1992, 98) Product: Advies Opmerking: Deze aangelegenheden betreffen: het adviseren van de betrokken Ministers omtrent de voorbereiding en de uitvoering van de WIR; het zorgdragen voor de uitvoering van de door de betrokken Ministers genomen besluiten; het voorbereiden van de begroting van de WIR; het voorbereiden van het jaarverslag aan de Staten-Generaal over de WIR. Deze commissie wordt ook wel de WIR-commissie genoemd. Waardering: B 1 
 
 #### *3.24. College van adviseurs voor de werving van buitenlandse bedrijven* 
 
 ###(45.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken over zaken betreffende de werving van buitenlandse bedrijven voor vestiging in Nederland. Periode: 1978–1986 Bron: Staatsalmanak 1978, p. O24. Product: Advies Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken over zaken betreffende de werving van buitenlandse bedrijven voor vestiging in Nederland. Periode: 1978–1986 Bron: Staatsalmanak 1978, p. O24. Product: Advies Waardering: B 1 
 
 #### *3.25. Commissie Nederlandse scheepsbouw 1965* 
 
 ###(73.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de scheepsbouwindustrie. Periode: 1965–1966 Bron: TK II 1984–1985, 17 817, Enquête Rijn-Schelde-Verolme (RSV), nr. 18, p. 24–46. Product: Advies Opmerking: Deze commissie werd ook wel de Commissie-Keyzer genoemd. Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de scheepsbouwindustrie. Periode: 1965–1966 Bron: TK II 1984–1985, 17 817, Enquête Rijn-Schelde-Verolme (RSV), nr. 18, p. 24–46. Product: Advies Opmerking: Deze commissie werd ook wel de Commissie-Keyzer genoemd. Waardering: B 1 
 
 #### *3.26. Beleidscommissie Scheepsbouw* 
 
 ###(75.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de zeescheepsnieuwbouwindustrie. Periode: 1976–1985 Bron: Taak en werkwijze Beleidscommissie Scheepsbouw [Brief van de Minister van Economische Zaken] (Stcrt. 1976, 58). Beleidscommissie Scheepsbouw geïnstalleerd (Stcrt. 1976, 121). TK II 1980–1981, 16 431, Zeescheepsnieuwbouw, nr. 1, p. 1 en bijlage III. TK II 1984–1985, 16 431, Zeescheepsnieuwbouw, nr. 5, p. 7. TK II 1984–1985, 17 817, Enquête Rijn-Schelde-Verolme (RSV), nr. 16, p. 211. Product: Advies (beleidsplan) Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de zeescheepsnieuwbouwindustrie. Periode: 1976–1985 Bron: Taak en werkwijze Beleidscommissie Scheepsbouw [Brief van de Minister van Economische Zaken] (Stcrt. 1976, 58). Beleidscommissie Scheepsbouw geïnstalleerd (Stcrt. 1976, 121). TK II 1980–1981, 16 431, Zeescheepsnieuwbouw, nr. 1, p. 1 en bijlage III. TK II 1984–1985, 16 431, Zeescheepsnieuwbouw, nr. 5, p. 7. TK II 1984–1985, 17 817, Enquête Rijn-Schelde-Verolme (RSV), nr. 16, p. 211. Product: Advies (beleidsplan) Waardering: B 1 
 
 #### *3.27. Beleidscommissie voor de katoen-, rayon- en linnenindustrie* 
 
 ###(85.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de katoen-, rayon- en linnenindustrie. Bron: TK II 1979–1980, 15 818, Sectornota, nrs. 1–2, p. 25. Periode: 1945– Product: Advies Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake het te voeren beleid met betrekking tot de katoen-, rayon- en linnenindustrie. Bron: TK II 1979–1980, 15 818, Sectornota, nrs. 1–2, p. 25. Periode: 1945– Product: Advies Waardering: B 1 
 
 #### *3.28. Adviescommissie flexibele productie-automatisering* 
 
 ###(109.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken over een subsidieaanvraag betreffende flexibele productie-automatisering, het doen van voorstellen met betrekking tot de evaluatie van de resultaten van in behandeling genomen projecten en het begeleiden van goedgekeurde voorstellen. Periode: 1983–1985 Grondslag: Instelling adviescommissie flexibele produktie-automatisering (Stcrt. 1983, 89), artikel 3. Opheffing adviescommissie flexibele produktie-automatisering (Stcrt. 1986, 165). Product: Advies Opmerking: De commissie adviseerde de Minister over het volgende: de subsidieaanvraag van het betrokken project; de te verwachten voorbeeldwerking; de technische aspecten van het project; of het betrokken bedrijf voldoende basis biedt voor een succesvolle uitvoering van het project; of het project past in de lange termijnvisie van de aanvrager; de aard en de inhoud van de verdere stimulering van flexibele productie- automatisering. Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken over een subsidieaanvraag betreffende flexibele productie-automatisering, het doen van voorstellen met betrekking tot de evaluatie van de resultaten van in behandeling genomen projecten en het begeleiden van goedgekeurde voorstellen. Periode: 1983–1985 Grondslag: Instelling adviescommissie flexibele produktie-automatisering (Stcrt. 1983, 89), artikel 3. Opheffing adviescommissie flexibele produktie-automatisering (Stcrt. 1986, 165). Product: Advies Opmerking: De commissie adviseerde de Minister over het volgende: de subsidieaanvraag van het betrokken project; de te verwachten voorbeeldwerking; de technische aspecten van het project; of het betrokken bedrijf voldoende basis biedt voor een succesvolle uitvoering van het project; of het project past in de lange termijnvisie van de aanvrager; de aard en de inhoud van de verdere stimulering van flexibele productie- automatisering. Waardering: B 1 
 
 #### *3.29. Begeleidingscommissie Massiefkartonindustrie* 
 
@@ -1538,7 +1538,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken over een subsidie
 Handeling: Het adviseren van de Minister van Economische Zaken over het oplossen van de problemen in de massiefkartonindustrie. Periode: 1975– Grondslag: Instelling Begeleidingscommissie Massiefkartonindustrie (Stcrt. 1975, 247), artikel 2. Product: Advies Waardering: B 1 
 ###(111.)
 
-Handeling: Het instellen van werkgroepen op het gebied van de massiefkartonindustrie. Periode: 1975– Grondslag: Instelling Begeleidingscommissie Massiefkartonindustrie (Stcrt. 1975, 247), artikel 3 lid 1. Product: Instellingsbesluiten Waardering: V 10 jaar  
+Handeling: Het instellen van werkgroepen op het gebied van de massiefkartonindustrie. Periode: 1975– Grondslag: Instelling Begeleidingscommissie Massiefkartonindustrie (Stcrt. 1975, 247), artikel 3 lid 1. Product: Instellingsbesluiten Waardering: V 10 jaar 
 
 #### *3.30. Interdepartementale commissie ruimteonderzoek en ruimtetechnologie* 
 
@@ -1553,7 +1553,7 @@ Vervallen.
 Handeling: Het instellen van werkgroepen voor de behandeling van bepaalde onderwerpen en het stellen van nadere regels omtrent de eigen werkwijze. Periode: 1987–1994 Grondslag: Instelling interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1987, 108), artikel 6. Instellingsregeling Interdepartementale commissie ruimtevaart (ICR) (*Stcrt.*. 1994, 84), artikel 6 Instelling interdepartementale commissie ruimteonderzoek en ruimtetechnologie (Stcrt. 1987, 108), artikel 5. Instellingsregeling Interdepartementale Commissie Ruimtevaart (ICR) (*Stcrt.*. 1994, 84), artikel 5. Product: Reglement, besluit Waardering: B 4 
 ###(126.)
 
-Vervallen.  
+Vervallen. 
 
 #### *3.31. Interdepartementale commissie ruimtevaart – ICR* 
 
@@ -1577,13 +1577,13 @@ Handeling: Het aanwijzen van Nederlandse vertegenwoordigers in ESA-organen. Peri
 Vervallen. 
 ###(132.)
 
-Vervallen.  
+Vervallen. 
 
 #### *3.32. Adviescommissie Maritieme onderzoeksinfrastructuur* 
 
 ###(154.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake de verbetering van de maritieme onderzoeksinfrastructuur. Periode: 1993–1994 Bron/ Grondslag: Instelling Adviescommissie maritieme onderzoeksinfrastructuur (Stcrt. 1993, 67). Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), toelichting (p. 10), vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). TK II 1994–1995, 23 900-XIII, Vaststelling van de begroting EZ voor het jaar 1995, nr. 34, p. 1. Product: Advies Opmerking: Deze adviescommissie wordt ook wel de Commissie-Zandbergen genoemd. Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake de verbetering van de maritieme onderzoeksinfrastructuur. Periode: 1993–1994 Bron/ Grondslag: Instelling Adviescommissie maritieme onderzoeksinfrastructuur (Stcrt. 1993, 67). Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), toelichting (p. 10), vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). TK II 1994–1995, 23 900-XIII, Vaststelling van de begroting EZ voor het jaar 1995, nr. 34, p. 1. Product: Advies Opmerking: Deze adviescommissie wordt ook wel de Commissie-Zandbergen genoemd. Waardering: B 1 
 
 #### *3.33. Beoordelingscommissie Maritiem Onderzoek* 
 
@@ -1592,7 +1592,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken inzake de verbete
 Handeling: Het geven van advies aan de Minister van Economische Zaken inzake aanvragen voor subsidies voor maritiem onderzoek. Periode: 1995–2001 Grondslag: Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), artikels 5 en 8 leden 1 en 2, vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikel 5 leden 1 en 8 en 10 lid 1, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Advies Opmerking: De commissie verstrekt tevens desgevraagd aan de Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Waardering: B 1 
 ###(157.)
 
-Handeling: Het vaststellen van regels met betrekking tot de eigen werkwijze van de Beoordelingscommissie Maritiem Onderzoek. Periode: 1995–2001 Grondslag: Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), artikel 5 lid 4, vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikel 5 lid 4, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Reglement Waardering: V 10 jaar  
+Handeling: Het vaststellen van regels met betrekking tot de eigen werkwijze van de Beoordelingscommissie Maritiem Onderzoek. Periode: 1995–2001 Grondslag: Subsidieregeling maritiem onderzoek (Stcrt. 1995, 124), artikel 5 lid 4, vervallen bij Besluit van 14 november 1997 (Stb. 555 – SMO). Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikel 5 lid 4, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Reglement Waardering: V 10 jaar 
 
 #### *3.34. Adviescommissie Maritiem Onderzoek* 
 
@@ -1610,7 +1610,7 @@ Vervallen.
 Vervallen. 
 ###(161.)
 
-Handeling: Het uitbrengen van jaarverslagen en evaluaties aan de Minister van Economische Zaken. Periode: 1997–2001 Grondslag: Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikel 5 lid 9, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Jaarverslagen, evaluaties Waardering: V 2 jaar m.u.v. één exemplaar van het eindproduct  
+Handeling: Het uitbrengen van jaarverslagen en evaluaties aan de Minister van Economische Zaken. Periode: 1997–2001 Grondslag: Besluit subsidies maritiem onderzoek (Stb. 1997, 555 – SMO), artikel 5 lid 9, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Jaarverslagen, evaluaties Waardering: V 2 jaar m.u.v. één exemplaar van het eindproduct 
 
 #### *3.35. Interdepartementale commissie voor het maritieme onderzoek – ICOMAR* 
 
@@ -1625,13 +1625,13 @@ Handeling: Het instellen van werkgroepen ter behandeling van bepaalde onderwerpe
 Handeling: Het vaststellen van nadere regels met betrekking tot de eigen werkwijze van ICOMAR. Periode: 1979–1997 Grondslag: Instellingsbeschikking Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65), artikel 6 lid 2. Product: Reglement Opmerking: Dit geldt ook voor de eventueel in te stellen werkgroepen. Waardering: V 10 jaar 
 ###(173.)
 
-Handeling: Het jaarlijks verslag uitbrengen aan de Minister van Economische Zaken. Periode: 1945–1997 Grondslag: Instellingsbeschikking Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65), artikel 8. Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct.  
+Handeling: Het jaarlijks verslag uitbrengen aan de Minister van Economische Zaken. Periode: 1945–1997 Grondslag: Instellingsbeschikking Interdepartementale commissie voor het maritieme onderzoek (Stcrt. 1990, 65), artikel 8. Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct. 
 
 #### *3.36. College van advies voor herstelfinanciering* 
 
 ###(182.)
 
-Handeling: Het uitbrengen van advies aan de Minister van Economische Zaken. Periode: 1984–1991 Grondslag: Regeling herstelfinanciering 1984 (Stcrt. 1984, 60), artikels 2 lid 1; 3 lid 1; 8 lid 3 en 20 lid 2. Product: Advies Opmerking: Het gaat om advies dat de Minister van Economische Zaken vraagt als het gaat om de aanvraag van een grote onderneming (meer dan 500 werknemers). Het college kan alvorens advies uit te brengen, inlichtingen bij of advies van derden inwinnen. Waardering: B 1  
+Handeling: Het uitbrengen van advies aan de Minister van Economische Zaken. Periode: 1984–1991 Grondslag: Regeling herstelfinanciering 1984 (Stcrt. 1984, 60), artikels 2 lid 1; 3 lid 1; 8 lid 3 en 20 lid 2. Product: Advies Opmerking: Het gaat om advies dat de Minister van Economische Zaken vraagt als het gaat om de aanvraag van een grote onderneming (meer dan 500 werknemers). Het college kan alvorens advies uit te brengen, inlichtingen bij of advies van derden inwinnen. Waardering: B 1 
 
 #### *3.37. Ontwikkelingsraad* 
 
@@ -1640,7 +1640,7 @@ Handeling: Het uitbrengen van advies aan de Minister van Economische Zaken. Peri
 Handeling: Het vaststellen van de eigen werkwijze van de Ontwikkelingsraad. Periode: 1954–2001 Grondslag: Besluit technische ontwikkelingskredieten 1997 (Stb. 1996, 611), art. 5 lid 4, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Reglement Waardering: V 10 jaar 
 ###(199.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen voor technische ontwikkelingskredieten (TOK). Periode: 1954–2001 Grondslag: Ministeriële beschikking 1954 (Stcrt.1954, 142), art.2; Besluit technische ontwikkelingskredieten (TOK) 1997 (Stb. 1996, 611), art. 5 lid 1 en art. 10 lid 1, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Advies Waardering: B 1  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen voor technische ontwikkelingskredieten (TOK). Periode: 1954–2001 Grondslag: Ministeriële beschikking 1954 (Stcrt.1954, 142), art.2; Besluit technische ontwikkelingskredieten (TOK) 1997 (Stb. 1996, 611), art. 5 lid 1 en art. 10 lid 1, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Advies Waardering: B 1 
 
 #### *3.38. Adviescommissie Technische ontwikkelingsprojecten (TOP’s)* 
 
@@ -1649,7 +1649,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen 
 Handeling: Het adviseren van de Minister van Economische Zaken inzake subsidieaanvragen voor de uitvoering van een ontwikkelingsproject. Periode: 2001– Grondslag: Besluit subsidies TOP (Stb. 2001, 203),art. 5 lid 1. Product: Advies Waardering: B 1 
 ###(209.)
 
-Handeling: Het vaststellen van de eigen werkwijze van Adviescommissie TOP. Periode: 2001– Grondslag: Besluit subsidies TOP (Stb. 2001, 203), art. 5 lid 5. Product: Reglement Waardering: V 20 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van Adviescommissie TOP. Periode: 2001– Grondslag: Besluit subsidies TOP (Stb. 2001, 203), art. 5 lid 5. Product: Reglement Waardering: V 20 jaar 
 
 #### *3.39. Stuurgroep Innovatiegerichte Onderzoeksprogramma’s (IOP’s)* 
 
@@ -1670,7 +1670,7 @@ Handeling: Het jaarlijks in het Wetenschapsbudget uitbrengen van verslag over de
 Handeling: Het vaststellen van de eigen werkwijze van de Stuurgroep IOP’s. Periode: 1981– Grondslag: Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1981, 150) art. 3. Product: Reglement Waardering: V 20 jaar 
 ###(220.)
 
-Handeling: Het instellen van Programmavoorbereidingscommissies en Programmacommissies en het geven van instructies. Periode: 1981– Grondslag: Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1981, 150) art. 2; Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1996, 243) art. 3 onder d en f. Product: Instellingsbesluit Waardering: B 4  
+Handeling: Het instellen van Programmavoorbereidingscommissies en Programmacommissies en het geven van instructies. Periode: 1981– Grondslag: Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1981, 150) art. 2; Instellingsbesluit Stuurgroep IOP’s (Stcrt. 1996, 243) art. 3 onder d en f. Product: Instellingsbesluit Waardering: B 4 
 
 #### *3.40. Programmacommissie IOP* 
 
@@ -1682,7 +1682,7 @@ Handeling: Het ontwikkelen en zorgdragen voor de uitvoering van een programma. P
 Handeling: Het adviseren van onderzoekers over de organisatie en toepassingsmogelijkheden van innovatieonderzoek in Nederland. Periode: 1945– Product: Advies Waardering: B 1 
 ###(225.)
 
-Handeling: Het halfjaarlijks uitbrengen van verslag aan de Stuurgroep IOP’s. Periode: 1981–1985 Product: Halfjaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct  
+Handeling: Het halfjaarlijks uitbrengen van verslag aan de Stuurgroep IOP’s. Periode: 1981–1985 Product: Halfjaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 
 #### *3.41. Programmacommissie biotechnologie – PC-b* 
 
@@ -1694,7 +1694,7 @@ Handeling: Het ontwikkelen en zorgdragen voor de uitvoering van een programma da
 Handeling: Het adviseren van onderzoekers over de organisatie en toepassingsmogelijkheden van biotechnologisch onderzoek in Nederland. Periode: 1981–1985 Grondslag: Instellingsbeschikking programmacommissie biotechnologie (Stcrt. 1981, 178) art. 3 onder e. Product: Advies Waardering: B 1 
 ###(228.)
 
-Handeling: Het halfjaarlijks uitbrengen van verslag aan de Stuurgroep IOP’s. Periode: 1981–1985 Grondslag: Instellingsbeschikking programmacommissie biotechnologie (Stcrt. 1981, 178) art. 3 onder f. Product: Halfjaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct.  
+Handeling: Het halfjaarlijks uitbrengen van verslag aan de Stuurgroep IOP’s. Periode: 1981–1985 Grondslag: Instellingsbeschikking programmacommissie biotechnologie (Stcrt. 1981, 178) art. 3 onder f. Product: Halfjaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct. 
 
 #### *3.42. Tijdelijke Programmacommissie (Tijdelijke PC)* 
 
@@ -1712,7 +1712,7 @@ Handeling: Het verzorgen van voorlichting aan het bedrijfsleven. Periode: 1945�
 Handeling: Het via de Stuurgroep IOP’s adviseren en van de Minister van Economische Zaken. Periode: 1945– Product: Advies Waardering: V 10 jaar 
 ###(234.)
 
-Handeling: Het via de Stuurgroep IOP’s jaarlijks rapporteren aan de Minister van Economische Zaken. Periode: 1945– Product: Jaarverslag Opmerking: De rapportage betreft hier de taakuitoefening van de tijdelijke commissie alsmede de door de Minister van Economische Zaken ter beschikking gestelde financiële middelen. Waardering: V 2 jaar  
+Handeling: Het via de Stuurgroep IOP’s jaarlijks rapporteren aan de Minister van Economische Zaken. Periode: 1945– Product: Jaarverslag Opmerking: De rapportage betreft hier de taakuitoefening van de tijdelijke commissie alsmede de door de Minister van Economische Zaken ter beschikking gestelde financiële middelen. Waardering: V 2 jaar 
 
 #### *3.43. Tijdelijke Programmacommissie Industriële Biotechnologie – PcIB* 
 
@@ -1730,7 +1730,7 @@ Handeling: Het verzorgen van voorlichting aan het bedrijfsleven over de mogelijk
 Handeling: Het via de stuurgroep IOP’s adviseren en van de Minister van Economische Zaken inzake de industriële biotechnologie in Nederland. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke PcIB (Stcrt. 1985, 101) art. 2 onder l. Product: Advies Waardering: V 2 jaar 
 ###(240.)
 
-Handeling: Het via de stuurgroep IOP’s jaarlijks rapporteren aan de Minister van Economische Zaken. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke PcIB (Stcrt. 1985, 101) art. 2 onder m. Product: Jaarverslag Opmerking: De rapportage betreft hier de taakuitoefening van de tijdelijke commissie alsmede de door de Minister van Economische Zaken ter beschikking gestelde financiële middelen. Waardering: V 2 jaar  
+Handeling: Het via de stuurgroep IOP’s jaarlijks rapporteren aan de Minister van Economische Zaken. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke PcIB (Stcrt. 1985, 101) art. 2 onder m. Product: Jaarverslag Opmerking: De rapportage betreft hier de taakuitoefening van de tijdelijke commissie alsmede de door de Minister van Economische Zaken ter beschikking gestelde financiële middelen. Waardering: V 2 jaar 
 
 #### *3.44. Tijdelijke adviescommissie IOP’s* 
 
@@ -1745,7 +1745,7 @@ Handeling: Het adviseren van de betrokken ministers over het beschikbaar stellen
 Handeling: Het adviseren van het Interdepartementaal Overleg voor het Technologiebeleid (IOT). Periode: 1945– Product: Advies Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 ###(245.)
 
-Handeling: Het opstellen van een jaarverslag. Periode: 1945– Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct  
+Handeling: Het opstellen van een jaarverslag. Periode: 1945– Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 
 #### *3.45. Tijdelijke Adviescommissie Innovatiegericht Onderzoekprogramma Biotechnologie (IOP-B)* 
 
@@ -1760,7 +1760,7 @@ Handeling: Het adviseren van de betrokken Ministers over het beschikbaar stellen
 Handeling: Het adviseren van het Interdepartementaal Overleg voor het Technologiebeleid (IOT) over de ontwikkeling van de biotechnologie in Nederland. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 2 onder c. Product: Advies Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 ###(250.)
 
-Handeling: Het opstellen van een jaarverslag. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 2 onder e. Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct  
+Handeling: Het opstellen van een jaarverslag. Periode: 1985–1990 Grondslag: Instellingsbeschikking tijdelijke adviescommissie innovatiegericht onderzoekprogramma biotechnologie (IOP-b) (Stcrt. 1985, 101) art. 2 onder e. Product: Jaarverslag Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 
 #### *3.46. Programmacollege IOP’s* 
 
@@ -1772,7 +1772,7 @@ Handeling: Het opstellen van een concept-meerjarenplan met financiële raming di
 Handeling: Het jaarlijks vaststellen van een werkplan met een gedetailleerde begroting Periode: 1945– Product: Werkplan, begroting Waardering: V 10 jaar 
 ###(254.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Programmacollege IOP’s. Periode: 1945– Product: Reglement Opmerking: Bovenstaande handeling geldt tevens voor de werkgroepen per deelgebied van het IOP. Waardering: V 20 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Programmacollege IOP’s. Periode: 1945– Product: Reglement Opmerking: Bovenstaande handeling geldt tevens voor de werkgroepen per deelgebied van het IOP. Waardering: V 20 jaar 
 
 #### *3.47. Programmacollege IOP milieutechnologie* 
 
@@ -1784,13 +1784,13 @@ Handeling: Het opstellen van een concept-meerjarenplan met financiële raming di
 Handeling: Het jaarlijks vaststellen van een werkplan met een gedetailleerde begroting Periode: 1991–1994 Grondslag: Instellingsbeschikking Programmacollege IOP Milieutechnologie (Stcrt. 1991, 253) art. 3 lid 2 onder a en b. Product: Werkplan, begroting Waardering: V 2 jaar 
 ###(258.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Programmacollege IOPS milieutechnologie. Periode: 1991–1994 Grondslag: Instellingsbeschikking programmacollege IOP milieutechnologie (Stcrt. 1991, 253) art. 6. Product: Reglement Opmerking: Bovenstaande handeling geldt tevens voor de werkgroepen per deelgebied van het IOP milieutechnologie. Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Programmacollege IOPS milieutechnologie. Periode: 1991–1994 Grondslag: Instellingsbeschikking programmacollege IOP milieutechnologie (Stcrt. 1991, 253) art. 6. Product: Reglement Opmerking: Bovenstaande handeling geldt tevens voor de werkgroepen per deelgebied van het IOP milieutechnologie. Waardering: V 10 jaar 
 
 #### *3.48. Tijdelijke adviescolleges programmatische stimulering* 
 
 ###(264.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen tot deelname aan een technologieprogramma of deelprogramma op basis van de Subsidieregeling PBTS (Stcrt. 1988, 42). Periode: 1988–1989 Grondslag: Instelling tijdelijk adviescollege programmatische stimulering materiaaltechnologie (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering medische technologie (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering micro- electronica, (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering productvernieuwing (Stcrt, 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Advies Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct  
+Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen tot deelname aan een technologieprogramma of deelprogramma op basis van de Subsidieregeling PBTS (Stcrt. 1988, 42). Periode: 1988–1989 Grondslag: Instelling tijdelijk adviescollege programmatische stimulering materiaaltechnologie (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering medische technologie (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering micro- electronica, (Stcrt. 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling tijdelijk adviescollege programmatische stimulering productvernieuwing (Stcrt, 1988, 134) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Advies Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct 
 
 #### *3.49. Adviescolleges programmatische bedrijfsgerichte technologiestimulering* 
 
@@ -1799,7 +1799,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen 
 Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen tot deelname aan een technologieprogramma of een onderdeel daarvan op basis van de Subsidieregeling PBTS (Stcrt. 1988, 42). Periode: 1991–1994 Grondslag: Instelling Adviescolleges programmatische stimulering informatietechnologie 1991 (Stcrt. 1991, 149) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling Adviescolleges 1992 (Stcrt. 1992, 54) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling vijf adviescolleges programmatische bedrijfsgerichte technologiestimulering voor 1993 (Stcrt. 1993, 110) art. 3, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Advies Waardering: B 1 
 ###(267).
 
-Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege programmatische bedrijfsgerichte technologiestimulering. Periode: 1991–1994 Grondslag: Instelling Adviescolleges programmatische stimulering informatietechnologie 1991 (Stcrt. 1991, 149) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling Adviescolleges 1992 (Stcrt. 1992, 54) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling vijf adviescolleges programmatische bedrijfsgerichte technologiestimulering voor 1993 (Stcrt. 1993, 110) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege programmatische bedrijfsgerichte technologiestimulering. Periode: 1991–1994 Grondslag: Instelling Adviescolleges programmatische stimulering informatietechnologie 1991 (Stcrt. 1991, 149) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling Adviescolleges 1992 (Stcrt. 1992, 54) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS); Instelling vijf adviescolleges programmatische bedrijfsgerichte technologiestimulering voor 1993 (Stcrt. 1993, 110) art. 5, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar 
 
 #### *3.50. Beoordelingscommissie collectief onderzoek* 
 
@@ -1808,7 +1808,7 @@ Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege programm
 Handeling: Het adviseren van de Minister van Economische Zaken inzake subsidieaanvragen voor de uitvoering van een collectief technologisch onderzoeksproject. Periode: 1987–1997 Grondslag: Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten (Stcrt. 1991, 147) art. 5 lid 1; Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten 1994 (Stcrt. 1994, 114) art. 6 lid 1, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Advies Waardering: B 1 
 ###(273.)
 
-Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie collectie onderzoek Periode: 1987–1997 Grondslag: Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten 1994 (Stcr. 1994, 114) art. 6 lid 4, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie collectie onderzoek Periode: 1987–1997 Grondslag: Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten 1994 (Stcr. 1994, 114) art. 6 lid 4, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar 
 
 #### *3.51. Adviescollege internationale technologieprogramma’s* 
 
@@ -1817,7 +1817,7 @@ Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie c
 Handeling: Het adviseren van de minister van Economische Zaken inzake subsidieaanvragen voor samenwerkingsprojecten in het kader van internationale technologieprogramma’s. Periode: 1989–2001 Grondslag: Subsidieregeling bedrijfsgerichte technologiestimulering in internationale programma’s (Stcrt. 1989, 110) art. 8 lid 1. Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s (Stb. 1994, 434) art. 5 lid 1, vervallen bij Besluit van 5 juli 1997 (Stb. 331–BIT) Besluit subsidies bedrijfsgerichte internationale technologieprogramma’s (Stb. 1997, 331) art. 5 lid 1, vervallen bij Besluit van 4 mei 2001 (Stb. 228 – BTS). Product: Advies Waardering: B 1 
 ###(280.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege Internationale Technologieprogramma’s Periode: 1994–2001 Grondslag: Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s (Stb. 1994, 434) art. 5 lid 4, vervallen bij Besluit van 5 juli 1997 (Stb. 331–BIT); Besluit subsidies bedrijfsgerichte internationale technologieprogramma’s (Stb. 1997, 331) art. 4, vervallen bij Besluit van 4 mei 2001 (Stb. 228– BTS). Product: Reglement Opmerking: De raad is bevoegd om het advies van gespecialiseerde deskundigen in te roepen. Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege Internationale Technologieprogramma’s Periode: 1994–2001 Grondslag: Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s (Stb. 1994, 434) art. 5 lid 4, vervallen bij Besluit van 5 juli 1997 (Stb. 331–BIT); Besluit subsidies bedrijfsgerichte internationale technologieprogramma’s (Stb. 1997, 331) art. 4, vervallen bij Besluit van 4 mei 2001 (Stb. 228– BTS). Product: Reglement Opmerking: De raad is bevoegd om het advies van gespecialiseerde deskundigen in te roepen. Waardering: V 10 jaar 
 
 #### *3.52. Adviescollege technologische samenwerkingsprojecten* 
 
@@ -1826,7 +1826,7 @@ Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege Internat
 Handeling: Het adviseren van de minister van Economische Zaken inzake subsidieaanvragen voor bedrijfsgerichte technologische samenwerkingsprojecten. Periode: 1997– Grondslag: Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten (Stb. 1996, 638) art. 5 lid 1. Product: Advies Waardering: B 1 
 ###(288.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege technologische samenwerkingsprojecten Periode: 1997– Grondslag: Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten (Stb.1996, 638) art. 5 lid 4. Product: Reglement Waardering: V 20 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege technologische samenwerkingsprojecten Periode: 1997– Grondslag: Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten (Stb.1996, 638) art. 5 lid 4. Product: Reglement Waardering: V 20 jaar 
 
 #### *3.53. Commissie informaticastimulering bedrijfsleven – CISB* 
 
@@ -1844,7 +1844,7 @@ Handeling: Het begeleiden van branche-organisaties bij het opstellen van project
 Handeling: Het stimuleren van de totstandkoming van nieuwe projecten door het geven van publiciteit aan reeds door de Subsidieregeling (BIS) ondersteunde projecten. Periode: 1989– Grondslag: Instellingsbeschikking van de Commissie informaticastimulering bedrijfsleven (CISB) (Stcrt. 1989, 53) art. 2 onder c. Product: Voorlichting Waardering: V; 2 jaar na vervallen NB. Van het gedrukte voorlichtingsmateriaal wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 ###(299.)
 
-Handeling: Het opstellen van een jaarverslag. Periode: 1989– Grondslag: Instellingsbeschikking van de Commissie informaticastimulering bedrijfsleven (CISB) (Stcrt. 1989, 53) art. 7 Product: Jaarverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd.  
+Handeling: Het opstellen van een jaarverslag. Periode: 1989– Grondslag: Instellingsbeschikking van de Commissie informaticastimulering bedrijfsleven (CISB) (Stcrt. 1989, 53) art. 7 Product: Jaarverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 
 #### *3.54. Beoordelingscommissie telematica gidsprojecten* 
 
@@ -1853,7 +1853,7 @@ Handeling: Het opstellen van een jaarverslag. Periode: 1989– Grondslag: Instel
 Handeling: Het adviseren van de minister van Economische Zaken inzake aanvragen voor subsidie voor de uitvoering van projecten in het kader van het Programma telematica gidsprojecten. Periode: 1991–1994 Grondslag: Subsidieregeling telematica gidsprojecten (Stcrt. 1991, 96) art. 5 lid 1 Product: Advies Waardering: B 1 
 ###(306.)
 
-Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie telematica gidsprojecten Periode: 1991–1994 Grondslag: Subsidieregeling telematica gidsprojecten (Stcrt. 1991, 96) art. 5 lid 4 Product: Reglement Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie telematica gidsprojecten Periode: 1991–1994 Grondslag: Subsidieregeling telematica gidsprojecten (Stcrt. 1991, 96) art. 5 lid 4 Product: Reglement Waardering: V 10 jaar 
 
 #### *3.55. Adviescolleges voor de informatietechnologieprogramma’s: telematica, uitbesteding aan onderzoekinstellingen en branchetoepassingen* 
 
@@ -1862,7 +1862,7 @@ Handeling: Het vaststellen van de eigen werkwijze van de Beoordelingscommissie t
 Handeling: Het adviseren van de Minister van Economische Zaken inzake aanvragen voor subsidie voor de uitvoering van onderzoeks-, pilot- of brancheprojecten in het kader van een informatietechnologieprogramma. Periode: 1994–1997 Grondslag: Besluit subsidies informatietechnologie (Stb. 1994, 432) art. 5 lid 1, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Advies Waardering: B 1 
 ###(310.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege voor de informatietechnologieprogramma’s: telematica, uitbesteding aan onderzoekinstellingen en branchetoepassingen. Periode: 1994–1997 Grondslag: Besluit subsidies informatietechnologie (Stb. 1994, 432) art. 6 lid 1, art. 7 lid 1, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege voor de informatietechnologieprogramma’s: telematica, uitbesteding aan onderzoekinstellingen en branchetoepassingen. Periode: 1994–1997 Grondslag: Besluit subsidies informatietechnologie (Stb. 1994, 432) art. 6 lid 1, art. 7 lid 1, vervallen bij Besluit van 10 december 1996 (Stb. 638 – BTS). Product: Reglement Waardering: V 10 jaar 
 
 #### *3.56. Stuurgroep ITeR* 
 
@@ -1871,7 +1871,7 @@ Handeling: Het vaststellen van de eigen werkwijze van het Adviescollege voor de 
 Handeling: Het vaststellen van de door de programmacommissie opgestelde jaarwerkplannen met bijbehorende begroting. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 3 onder a. Product: Jaarwerkplan/ Begroting Waardering: V 10 jaar met uitzondering van het eindproduct 
 ###(316.)
 
-Handeling: Het beslissen over onderzoeksvoorstellen van de programmacommissie ITeR inzake het programma informatietechnologie en recht. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 3 onder b. Product: Besluitvorming inzake onderzoeksvoorstellen van de programmacommissie ITeR Waardering: B 1 & 5  
+Handeling: Het beslissen over onderzoeksvoorstellen van de programmacommissie ITeR inzake het programma informatietechnologie en recht. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 3 onder b. Product: Besluitvorming inzake onderzoeksvoorstellen van de programmacommissie ITeR Waardering: B 1 & 5 
 
 #### *3.57. Programmacommissie ITeR* 
 
@@ -1880,7 +1880,7 @@ Handeling: Het beslissen over onderzoeksvoorstellen van de programmacommissie IT
 Handeling: Het uitwerken van het programma informatietechnologie en recht in concrete onderzoeksprojecten die deel uitmaken van een jaarwerkplan. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 4 leden 1 en 2. Product: Jaarwerkplan Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 ###(318.)
 
-Handeling: Het opstellen van een jaarverslag. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 4 lid 1 onder f. Product: Jaarverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd.  
+Handeling: Het opstellen van een jaarverslag. Periode: 1995– Grondslag: Instellingsbesluit Stuurgroep en Programmacommissie informatietechnologie en recht (Stcrt. 1995, 248) art. 4 lid 1 onder f. Product: Jaarverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 
 #### *3.58. Adviescommissie electronische diensten* 
 
@@ -1892,7 +1892,7 @@ Handeling: Het adviseren van de minister van Economische Zaken inzake kredietaan
 Handeling: Het vaststellen van de eigen werkwijze van de Adviescommissie electronische diensten. Periode: 1996–2001 Grondslag: Kredietregeling electronische-ontwikkeling 1996 (KREDO) (Stcrt. 1996, 112) art. 5 lid 4; Besluit KREDO (Stb. 1997, 554) art. 5 lid 4, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Reglement Waardering: V 10 jaar 
 ###(326.)
 
-Handeling: Het opstellen van een jaarverslag en evaluatieverslag Periode: 1996–2001 Grondslag: Besluit KREDO (Stb. 1997, 554) art. 5 lid 9, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Jaarverslag, evaluatieverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd.  
+Handeling: Het opstellen van een jaarverslag en evaluatieverslag Periode: 1996–2001 Grondslag: Besluit KREDO (Stb. 1997, 554) art. 5 lid 9, vervallen bij Besluit van 20 april 2001 (Stb. 203 – TOP). Product: Jaarverslag, evaluatieverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 
 #### *3.59. Adviescommissie E.E.T.* 
 
@@ -1901,7 +1901,7 @@ Handeling: Het opstellen van een jaarverslag en evaluatieverslag Periode: 1996�
 Handeling: Het adviseren van de Ministers van Economische Zaken en van Onderwijs, Cultuur en Wetenschap inzake aanvragen voor subsidie ter uitvoering van E.E.T.-projecten. Periode: 1996– Grondslag: Subsidieregeling E.E.T. (Stcrt. 1996, 91) art. 5 lid 1. Besluit subsidies E.E.T. (Stcrt 1997, 13) art. 5 lid 1. Product: Advies Waardering: B 1 
 ###(332.)
 
-Handeling: Het vaststellen van de eigen werkwijze van de Adviescommissie E.E.T. Periode: 1996– Grondslag: Subsidieregeling E.E.T. (Stcrt. 1996, 91) art. 5 lid 4. Besluit subsidies E.E.T. (Stb. 1997, 13) art. 5 lid 4. Product: Reglement Waardering: V 20 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van de Adviescommissie E.E.T. Periode: 1996– Grondslag: Subsidieregeling E.E.T. (Stcrt. 1996, 91) art. 5 lid 4. Besluit subsidies E.E.T. (Stb. 1997, 13) art. 5 lid 4. Product: Reglement Waardering: V 20 jaar 
 
 #### *3.60. Adviescommissie experimentele faciliteiten* 
 
@@ -1913,7 +1913,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken inzake subsidieaa
 Handeling: Het vaststellen van de eigen werkwijze van de Adviescommissie experimentele faciliteiten. Periode: 2001– Grondslag: Subsidieregeling experimentele faciliteiten ICES-KIS-2 (Stcrt. 2001, 79), art. 5 lid 5. Product: Reglement Waardering: V 20 jaar 
 ###(338.)
 
-Handeling: Het opstellen van een jaarverslag en evaluatieverslag. Periode: 2001– Grondslag: Subsidieregeling experimentele faciliteiten ICES-KIS-2 (Stcrt. 2001, 79), art. 5 lid 11. Product: Jaarverslag, evaluatieverslag. Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd.  
+Handeling: Het opstellen van een jaarverslag en evaluatieverslag. Periode: 2001– Grondslag: Subsidieregeling experimentele faciliteiten ICES-KIS-2 (Stcrt. 2001, 79), art. 5 lid 11. Product: Jaarverslag, evaluatieverslag. Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 
 #### *3.61. Adviescommissie zaaiprojecten life sciences* 
 
@@ -1925,7 +1925,7 @@ Handeling: Het adviseren van de Minister van Economische Zaken omtrent subsidiea
 Handeling: Het vaststellen van de eigen werkwijze van de Adviescommissie zaaiprojecten life sciences. Periode: 2000– Grondslag: Subsidieregeling zaaiprojecten life sciences (Stcrt. 2000, 175), artikel 5 lid 4. Product: Reglement Waardering: V 20 jaar 
 ###(343.)
 
-Handeling: Het opstellen van een jaarverslag en/of een evaluatieverslag. Periode: 2000– Grondslag: Subsidieregeling zaaiprojecten life sciences (Stcrt. 2000, 175), artikel 5 lid 10. Product: Verslag Opmerking: Het jaarverslag wordt jaarlijks opgesteld. Het evaluatieverslag wordt op verzoek van de Minister, maar ten minste elk tweede jaar opgesteld. Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd.  
+Handeling: Het opstellen van een jaarverslag en/of een evaluatieverslag. Periode: 2000– Grondslag: Subsidieregeling zaaiprojecten life sciences (Stcrt. 2000, 175), artikel 5 lid 10. Product: Verslag Opmerking: Het jaarverslag wordt jaarlijks opgesteld. Het evaluatieverslag wordt op verzoek van de Minister, maar ten minste elk tweede jaar opgesteld. Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 
 #### *3.62. Stuurgroep technologie en samenleving (T&S)* 
 
@@ -1940,7 +1940,7 @@ Handeling: Het vaststellen van de eigen werkwijze van de Stuurgroep technologie 
 Handeling: Het opstellen van een jaarverslag. Periode: 1998– Grondslag: Subsidieregeling programma technologie en samenleving (Stcrt. 1998, 168 – T&S) art. 5 lid 9. Product: Jaarverslag Waardering: V; 2 jaar na vervallen NB. Van het gedrukte verslag wordt één exemplaar bewaard. De voorbereidende stukken worden vernietigd. 
 ###(354.)
 
-Handeling: Het instellen van interdepartementale projectgroepen die deelprogramma’s begeleiden en de ingediende subsidieaanvragen beoordelen. Periode: 1998– Bron: Algemene toelichting bij Subsidieregeling programma technologie en samenleving (Stcrt. 1998, 168 – T&S) Product: Instellingsbeschikking Waardering: V 20 jaar  
+Handeling: Het instellen van interdepartementale projectgroepen die deelprogramma’s begeleiden en de ingediende subsidieaanvragen beoordelen. Periode: 1998– Bron: Algemene toelichting bij Subsidieregeling programma technologie en samenleving (Stcrt. 1998, 168 – T&S) Product: Instellingsbeschikking Waardering: V 20 jaar 
 
 #### *3.63. Interdepartementaal Overleg voor het Technologiebeleid – IOT* 
 
@@ -1949,7 +1949,7 @@ Handeling: Het instellen van interdepartementale projectgroepen die deelprogramm
 Handeling: Het op het gebied van het technologiebeleid voorbereiden van besluitvorming in de Raad voor het Wetenschaps- en Technologiebeleid. Periode: 1984– Grondslag: Instellingsbeschikking IOT (Stcrt. 1984, 53) art. 2. Product: Besluitvorming Waardering: B 1 
 ###(358.)
 
-Handeling: Het vaststellen van de eigen werkwijze van het Interdepartementaal Overleg voor het Technologiebeleid (IOT). Periode: 1984– Grondslag: Instellingsbeschikking IOT (Stcrt. 1984, 53) art. 6. Product: Reglement Waardering: V 20 jaar  
+Handeling: Het vaststellen van de eigen werkwijze van het Interdepartementaal Overleg voor het Technologiebeleid (IOT). Periode: 1984– Grondslag: Instellingsbeschikking IOT (Stcrt. 1984, 53) art. 6. Product: Reglement Waardering: V 20 jaar 
 
 #### *3.64. Tijdelijke Adviescommissie voor de Uitbouw van het Technologiebeleid – Commissie-Dekker* 
 
@@ -1958,11 +1958,11 @@ Handeling: Het vaststellen van de eigen werkwijze van het Interdepartementaal Ov
 Handeling: Het op hoofdlijnen adviseren van de Minister van Economische Zaken over de inhoud en organisatie van het technologiebeleid alsmede over de opzet van een instituut dat belast is met de praktische uitvoering van dit beleid. Periode: 1986–1987 Grondslag: Instellingsbeschikking tijdelijke adviescommissie voor de uitbouw van het technologiebeleid (Stcrt. 1986, 212) art. 3. Product: Advies Opmerking: Het gaat hier om het technologiebeleid in al zijn facetten, zoals onderwijs, internationale samenwerking en overheidsaankoopbeleid waarbij een stimulering van innovatiegerichte Research & Development van groot belang zijn. Waardering: B 1 
 ###(361.)
 
-Handeling: Het instellen van werkgroepen. Periode: 1986–1987 Grondslag: Instellingsbeschikking tijdelijke adviescommissie voor de uitbouw van het technologiebeleid (Stcrt. 1986, 212) art. 7 lid 1. Product: Instellingsbeschikking Waardering: V 20 jaar  
+Handeling: Het instellen van werkgroepen. Periode: 1986–1987 Grondslag: Instellingsbeschikking tijdelijke adviescommissie voor de uitbouw van het technologiebeleid (Stcrt. 1986, 212) art. 7 lid 1. Product: Instellingsbeschikking Waardering: V 20 jaar 
 
 #### *3.65. Tijdelijke Vervolgcommissie Technologiebeleid – VCT* 
 
 ###(364.)
 
-Handeling: Het toetsen en ondersteunen van de uitwerking van het technologiebeleid op basis van het rapport van de Adviescommissie voor de Uitbouw van het Technologiebeleid Periode: 1988–1992 Grondslag: Instellingsbeschikking VCT (Stcrt. 1988, 99) Product: Ondersteuning, advies Opmerking: Hieronder valt tevens het via de Minister van Economische Zaken aan de ministerraad rapporteren over de voor het technologiebeleid relevante onderwerpen. Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct.  
+Handeling: Het toetsen en ondersteunen van de uitwerking van het technologiebeleid op basis van het rapport van de Adviescommissie voor de Uitbouw van het Technologiebeleid Periode: 1988–1992 Grondslag: Instellingsbeschikking VCT (Stcrt. 1988, 99) Product: Ondersteuning, advies Opmerking: Hieronder valt tevens het via de Minister van Economische Zaken aan de ministerraad rapporteren over de voor het technologiebeleid relevante onderwerpen. Waardering: V 2 jaar met uitzondering van één exemplaar van het eindproduct. 
 

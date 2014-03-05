@@ -10,29 +10,29 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Inkomens- en arbeidsvoorwaardenbeleid over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Inkomens- en arbeidsvoorwaardenbeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘ [Selectielijst voor de neerslag van de handelingen binnen het beleidsterrein inkomens- en arbeidsvoorwaardenbeleid over de periode 1940–1994’](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/beleidsterrein/inkomens-/en/etc/BWBR0009667/README.md), vastgesteld bij besluit van 2 juni 1998 (Stcrt. 1999, 44) wordt ingetrokken.  
+De ‘[Selectielijst voor de neerslag van de handelingen binnen het beleidsterrein inkomens- en arbeidsvoorwaardenbeleid over de periode 1940–1994’](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/beleidsterrein/inkomens-/en/etc/BWBR0009667/README.md), vastgesteld bij besluit van 2 juni 1998 (Stcrt. 1999, 44) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 14 maart 2006   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
+Minister van Sociale Zaken en Werkgelegenheid, namens deze:de 
 plv. Secretaris-Generaal, 
-P.Hennephof  
+P. Hennephof    
 
 ####Basisselectiedocument inkomens- en arbeidsvoorwaardenbeleid 1940–2004
 
@@ -54,11 +54,11 @@ Het PIVOT-rapport *Het verdiende loon, deel 2. Een herzien institutioneel onderz
 
 – een lijst van afkortingen.  
 
-– De verschillende deelnemers moeten het BSD ieder voor een deel vast te stellen en wel voor die handelingen waarbij zij of (een van) hun rechtsvoorganger(s) als actor genoemd wordt.   Op deze plaats dient nog opgemerkt te worden dat voor archiefbescheiden op het beleidsterrein inkomens- en arbeidsvoorwaarden reeds vernietigingslijsten bestonden. Voor het Ministerie gold de ‘Lijst van te vernietigen archiefbescheiden van de onder het Ministerie van Sociale Zaken en Werkgelegenheid ressorterende dienst collectieve arbeidsvoorwaarden’ (laatst gewijzigd Stcrt. 1992, 120). Deze vernietigingslijst is ingetrokken bij de [vaststelling van het eerste BSD ‘Inkomens- en arbeidsvoorwaarden’](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/beleidsterrein/inkomens-/en/etc/BWBR0009667/README.md) op 2 juni 1999 (Stcrt. 1999, 44). Aan de hand van deze lijsten zijn in het verleden archiefbescheiden vernietigd.  
+– De verschillende deelnemers moeten het BSD ieder voor een deel vast te stellen en wel voor die handelingen waarbij zij of (een van) hun rechtsvoorganger(s) als actor genoemd wordt.   Op deze plaats dient nog opgemerkt te worden dat voor archiefbescheiden op het beleidsterrein inkomens- en arbeidsvoorwaarden reeds vernietigingslijsten bestonden. Voor het Ministerie gold de ‘Lijst van te vernietigen archiefbescheiden van de onder het Ministerie van Sociale Zaken en Werkgelegenheid ressorterende dienst collectieve arbeidsvoorwaarden’ (laatst gewijzigd Stcrt. 1992, 120). Deze vernietigingslijst is ingetrokken bij de [vaststelling van het eerste BSD ‘Inkomens- en arbeidsvoorwaarden’](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/beleidsterrein/inkomens-/en/etc/BWBR0009667/README.md) op 2 juni 1999 (Stcrt. 1999, 44). Aan de hand van deze lijsten zijn in het verleden archiefbescheiden vernietigd. 
 
 ####2. Actoren
 
-Een actor is een overheidsorgaan, een particuliere instelling of een persoon die een rol speelt op een beleidsterrein. In het kader van het institutioneel onderzoek zijn met name die actoren van belang die overheidsorgaan zijn en handelingen verrichten op het terrein van de sociale voorzieningen. In het BSD zijn alleen handelingen opgenomen van (landelijke) overheidsactoren. Als eerste dient genoemd te worden de Minister van Sociale Zaken en Werkgelegenheid, die verantwoordelijk is voor de totstandkoming van het beleid en de wet- en regelgeving ten aanzien van het inkomens- en arbeidsvoorwaardenbeleid. Het betreft zowel de inhoudelijke (voorwaarden en prestaties) als de organisatorische kant (financiering en uitvoering) van het beleid. Ook de internationale afstemming van het inkomens- en arbeidsvoorwaardenbeleid behoort tot zijn taken. Op de uitvoering van het inkomen- en arbeidsvoorwaardenbeleid werd en wordt toezicht gehouden door de Arbeidsinspectie. Voor een uitgebreidere beschrijving van de actoren wordt verwezen naar hoofdstuk 3 van het RIO.  
+Een actor is een overheidsorgaan, een particuliere instelling of een persoon die een rol speelt op een beleidsterrein. In het kader van het institutioneel onderzoek zijn met name die actoren van belang die overheidsorgaan zijn en handelingen verrichten op het terrein van de sociale voorzieningen. In het BSD zijn alleen handelingen opgenomen van (landelijke) overheidsactoren. Als eerste dient genoemd te worden de Minister van Sociale Zaken en Werkgelegenheid, die verantwoordelijk is voor de totstandkoming van het beleid en de wet- en regelgeving ten aanzien van het inkomens- en arbeidsvoorwaardenbeleid. Het betreft zowel de inhoudelijke (voorwaarden en prestaties) als de organisatorische kant (financiering en uitvoering) van het beleid. Ook de internationale afstemming van het inkomens- en arbeidsvoorwaardenbeleid behoort tot zijn taken. Op de uitvoering van het inkomen- en arbeidsvoorwaardenbeleid werd en wordt toezicht gehouden door de Arbeidsinspectie. Voor een uitgebreidere beschrijving van de actoren wordt verwezen naar hoofdstuk 3 van het RIO. 
 
 ####3. Selectie
 
@@ -68,7 +68,7 @@ De selectie richt zich op de archiefbescheiden van overheidsorganen op rijks- en
 
 a. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, en  
 
-b. een ander persoon of college met openbaar gezag bekleed.   Het begrip archiefbescheiden betreft alle neerslag van de omschreven handelingen, of het nu papier of een digitaal gegevensbestand betreft, of het zich nu in een archief, bibliotheek, op een afdeling automatisering of bij beleidsambtenaren bevindt. De hoofddoelstelling van de selectie is een onderscheid te maken tussen enerzijds archiefbescheiden die in aanmerking komen voor bewaring en overbrenging naar het Nationaal Archief of een Rijksarchief in de provincie en anderzijds archiefbescheiden die (op termijn) voor vernietiging in aanmerking komen. De beslissing of neerslag van een handeling wel of niet voor bewaring in aanmerking komt, wordt genomen tegen de achtergrond van de selectiedoelstelling van de Rijksarchiefdienst/PIVOT. Deze selectiedoelstelling luidt: ‘De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.’ De handelingen van de verschillende organen (‘actoren’) worden geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie is dus de vraag aan de orde welke gegevensbestanden, behorende bij welke handeling, berustende bij welke actor, bewaard dienen te worden ten einde het handelen van de rijks- en provinciale overheid met betrekking tot de sociale verzekeringen op hoofdlijnen te kunnen reconstrueren. In dit RIO/BSD wordt deze selectiedoelstelling uitgewerkt binnen het (deel)beleidsterrein sociale verzekeringen.  
+b. een ander persoon of college met openbaar gezag bekleed.   Het begrip archiefbescheiden betreft alle neerslag van de omschreven handelingen, of het nu papier of een digitaal gegevensbestand betreft, of het zich nu in een archief, bibliotheek, op een afdeling automatisering of bij beleidsambtenaren bevindt. De hoofddoelstelling van de selectie is een onderscheid te maken tussen enerzijds archiefbescheiden die in aanmerking komen voor bewaring en overbrenging naar het Nationaal Archief of een Rijksarchief in de provincie en anderzijds archiefbescheiden die (op termijn) voor vernietiging in aanmerking komen. De beslissing of neerslag van een handeling wel of niet voor bewaring in aanmerking komt, wordt genomen tegen de achtergrond van de selectiedoelstelling van de Rijksarchiefdienst/PIVOT. Deze selectiedoelstelling luidt: ‘De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.’ De handelingen van de verschillende organen (‘actoren’) worden geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie is dus de vraag aan de orde welke gegevensbestanden, behorende bij welke handeling, berustende bij welke actor, bewaard dienen te worden ten einde het handelen van de rijks- en provinciale overheid met betrekking tot de sociale verzekeringen op hoofdlijnen te kunnen reconstrueren. In dit RIO/BSD wordt deze selectiedoelstelling uitgewerkt binnen het (deel)beleidsterrein sociale verzekeringen. 
 
 #### *3.2. Selectiecriteria* 
 
@@ -79,11 +79,11 @@ Bij de selectie van handelingen is door PIVOT een aantal criteria onderscheiden 
 
 ###Algemeen selectiecriterium
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.  
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
 
 ####4. Vaststelling van de selectielijst
 
-Op 3 december 2004 door de Minister van Sociale Zaken en Werkgelegenheid, 17 oktober 2005 door de Minister van Algemene Zaken, 8 februari 2005 door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, op 4 januari 2005 door het Ministerie van Buitenlandse Zaken, op 24 januari 2005 door de Minister van Defensie, op 25 november door de Minister van Economische Zaken, op 11 februari 2005 door de Minister van Financiën, op 2 maart 2005 door de Minister van Justitie, op 17 februari 2005 door de Minister van Landbouw, Natuur en Voedselkwaliteit, op 22 augustus 2005 door de Minister van Onderwijs, Cultuur en Wetenschap, op 8 maart 2005 door de Minister van Verkeer en Waterstaat, op 8 juni 2005 door de Minister van Volksgezondheid, Welzijn en Sport, op 29 november 2005 door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is het ontwerp-BSD door aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 december 2005 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de zorgdragers, het Ministerie van OCW en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 6 februari 2006 bracht de RvC advies uit (arc-2005.02719/3), aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: De waardering van handeling 143 wordt aangepast naar de uitkomst van het driehoeksoverleg. De waardering van de handelingen 238, 239 en 242 worden gewijzigd van B 1 naar V 10 jaar. Daarop werd het BSD op 14 maart 2006 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, en de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/06/557), en de Minister van Algemene Zaken ( C/S&A/06/266), en de Minister van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/06/267), en de Minister van Buitenlandse Zaken (C/S&A/06/548), en de Minister van Defensie (C/S&A/06/549), en de Minister van Economische Zaken (C/S&A/06/550), en de Minister van Financiën (C/S&A/06/268), en de Minister van Justitie (C/S&A/06/551), en de Minister van Landbouw, Natuur en Voedselkwaliteit (C/S&A/06/269), en voor de Minister van Onderwijs, Cultuur en Wetenschap (C/S&A/06/552), en de Minister van Verkeer en Waterstaat (C/S&A/06/556) en de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/06/554), en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (kenmerk C/S&A/06/553) vastgesteld. De feitelijke vaststelling heeft begin 2007 plaatsgevonden.  
+Op 3 december 2004 door de Minister van Sociale Zaken en Werkgelegenheid, 17 oktober 2005 door de Minister van Algemene Zaken, 8 februari 2005 door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, op 4 januari 2005 door het Ministerie van Buitenlandse Zaken, op 24 januari 2005 door de Minister van Defensie, op 25 november door de Minister van Economische Zaken, op 11 februari 2005 door de Minister van Financiën, op 2 maart 2005 door de Minister van Justitie, op 17 februari 2005 door de Minister van Landbouw, Natuur en Voedselkwaliteit, op 22 augustus 2005 door de Minister van Onderwijs, Cultuur en Wetenschap, op 8 maart 2005 door de Minister van Verkeer en Waterstaat, op 8 juni 2005 door de Minister van Volksgezondheid, Welzijn en Sport, op 29 november 2005 door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is het ontwerp-BSD door aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 december 2005 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de zorgdragers, het Ministerie van OCW en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 6 februari 2006 bracht de RvC advies uit (arc-2005.02719/3), aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: De waardering van handeling 143 wordt aangepast naar de uitkomst van het driehoeksoverleg. De waardering van de handelingen 238, 239 en 242 worden gewijzigd van B 1 naar V 10 jaar. Daarop werd het BSD op 14 maart 2006 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, en de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/06/557), en de Minister van Algemene Zaken ( C/S&A/06/266), en de Minister van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/06/267), en de Minister van Buitenlandse Zaken (C/S&A/06/548), en de Minister van Defensie (C/S&A/06/549), en de Minister van Economische Zaken (C/S&A/06/550), en de Minister van Financiën (C/S&A/06/268), en de Minister van Justitie (C/S&A/06/551), en de Minister van Landbouw, Natuur en Voedselkwaliteit (C/S&A/06/269), en voor de Minister van Onderwijs, Cultuur en Wetenschap (C/S&A/06/552), en de Minister van Verkeer en Waterstaat (C/S&A/06/556) en de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/06/554), en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (kenmerk C/S&A/06/553) vastgesteld. De feitelijke vaststelling heeft begin 2007 plaatsgevonden. 
 
 ####5. Selectielijst
 
@@ -301,7 +301,7 @@ Handeling: Het aanwijzen van algemeen erkende representatieve organisaties van w
 Handeling: Het aanwijzen van organisaties van werkgevers en -nemers die naar oordeel van de Minister in aanmerking komen om advies uit te brengen over onderwerpen die voor hen van belang zijn. Grondslag: Wet van 24 juni 1976 tot wijziging van de Wet op de Loonvorming (Stb. 1976, 346), art. 2 Periode: 1976– Product: Aanwijzingsbesluit Waardering: B 1 & 5 
 ###(48.)
 
-Handeling: Het geven van aanwijzingen aan de Dienst Collectieve Arbeidsvoorwaarden over richtlijnen voor de informatieverstrekking aan de Stichting van de Arbeid, aan niet in de Stichting vertegenwoordigde organisaties van werkgevers en -nemers, aan departementen van algemeen bestuur en aan de SER. Grondslag: Besluit van 8 februari 1982 (Stcrt. 1982, 32), art. 4 Periode: 1982–1994 Product: Richtlijnen informatie verstrekking Opmerking: De Dienst Collectieve Arbeidsvoorwaarden is in 1994 opgeheven. Waardering: V 1 jaar na geldigheidsduur  
+Handeling: Het geven van aanwijzingen aan de Dienst Collectieve Arbeidsvoorwaarden over richtlijnen voor de informatieverstrekking aan de Stichting van de Arbeid, aan niet in de Stichting vertegenwoordigde organisaties van werkgevers en -nemers, aan departementen van algemeen bestuur en aan de SER. Grondslag: Besluit van 8 februari 1982 (Stcrt. 1982, 32), art. 4 Periode: 1982–1994 Product: Richtlijnen informatie verstrekking Opmerking: De Dienst Collectieve Arbeidsvoorwaarden is in 1994 opgeheven. Waardering: V 1 jaar na geldigheidsduur 
 
 #### *5.1.2. Loon- en arbeidsvoorwaardenoverleg* 
 
@@ -310,7 +310,7 @@ Handeling: Het geven van aanwijzingen aan de Dienst Collectieve Arbeidsvoorwaard
 Handeling: Het voorbereiden en voeren van het Centraal Arbeidsvoorwaardenoverleg. Bron: TK II 2003–2004, 29200 XV, nr. 7 Periode: 1945– Product: Onderhandelingsresultaten Waardering: B 1 & 5 
 ###(53.)
 
-Handeling: Het bemiddelen tussen organisaties van werkgevers en werknemers in geval de CAO-onderhandelingen zijn vastgelopen. Periode: 1945– Product: Bemiddelingsresultaten Waardering: B 5  
+Handeling: Het bemiddelen tussen organisaties van werkgevers en werknemers in geval de CAO-onderhandelingen zijn vastgelopen. Periode: 1945– Product: Bemiddelingsresultaten Waardering: B 5 
 
 #### *5.1.3. Aanmelding en goedkeuring van Collectieve Arbeidsovereenkomsten en Arbeidsvoorwaardenregelingen* 
 
@@ -328,7 +328,7 @@ Handeling: Het vaststellen van een bindende loonregeling met dezelfde rechtskrac
 Handeling: Het aanwijzen van categorieën van arbeidsverhoudingen waarvoor regelingen van eenzelfde inhoud als een collectieve arbeidsovereenkomst kunnen worden vastgesteld. Grondslag: Wet op de Loonvorming (Stb. 1970, 69), art. 6 Periode: 1970– Product: Besluit Waardering: V 20 jaar na geldigheidsduur 
 ###(65.)
 
-Handeling: Het opstellen van notities waarin de aard van wijzigingen en kostenconsequenties van gewijzigde CAO’s worden weergegeven. Bron: interview Periode: 1970– Product: Notities, informatie Opmerking: Deze handeling werd tot 1994 door de Dienst Collectieve Arbeidsvoorwaarden (DCA) uitgevoerd. Waardering: B 5  
+Handeling: Het opstellen van notities waarin de aard van wijzigingen en kostenconsequenties van gewijzigde CAO’s worden weergegeven. Bron: interview Periode: 1970– Product: Notities, informatie Opmerking: Deze handeling werd tot 1994 door de Dienst Collectieve Arbeidsvoorwaarden (DCA) uitgevoerd. Waardering: B 5 
 
 #### *5.1.4. Het verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten* 
 
@@ -337,7 +337,7 @@ Handeling: Het opstellen van notities waarin de aard van wijzigingen en kostenco
 Handeling: Het algemeen bindend of onverbindend verklaren van (bepalingen van) een collectieve arbeidsovereenkomst. Grondslag: Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Stb. 1937, 801) [Stb. 1999, 554], art. 2, art. 4, art. 5, art. 6, art. 8 Periode: (1937) 1945– Product: Verbindendverklaringen Opmerking: De verbindendverklaring kan alleen geschieden op verzoek van één of meer werkgevers en/of één of meer partijen van werkgevers of -nemers, die partij zijn bij de collectieve arbeidsovereenkomst. Van de indiening van het verzoek en van een besluit omtrent het verbindend of onverbindend verklaren wordt door de Minister van Sociale Zaken en Werkgelegenheid mededeling gedaan in de Staatscourant. Waardering: B 5 
 ###(73.)
 
-Handeling: Het vaststellen van tarieven ter vergoeding voor de behandeling van verzoeken tot het verbindend verklaren van een collectieve arbeidsovereenkomst. Grondslag: Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Stb. 1937, 801) [Stb. 1997, 510], art. 4 Periode: Ministeriële regeling Product: (1937) 1945– Waardering: V 1 jaar na geldigheidsduur  
+Handeling: Het vaststellen van tarieven ter vergoeding voor de behandeling van verzoeken tot het verbindend verklaren van een collectieve arbeidsovereenkomst. Grondslag: Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Stb. 1937, 801) [Stb. 1997, 510], art. 4 Periode: Ministeriële regeling Product: (1937) 1945– Waardering: V 1 jaar na geldigheidsduur 
 
 #### *5.1.5. Loonmaatregelen* 
 
@@ -352,7 +352,7 @@ Handeling: Het bij algemene maatregel van bestuur nemen van loonmaatregelen ten 
 Handeling: Het ten behoeve van de Staten-Generaal opstellen van verslagen betreffende het beleid ten aanzien van te nemen loonmaatregelen ingevolge de Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974. Grondslag: Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974, art. 23, zesde lid Periode: 1974 Product: Kwartaalverslagen Waardering: B 3 
 ###(86.)
 
-Handeling: Het opstellen van verklaringen van bezwaar ingeval herwaardering van functies gepaard gaat met wijzigingen van loon of andere op geld waardeerbare arbeidsvoorwaarden. Grondslag: Algemeen Loonmatigingsbesluit 1980 Periode: 1980– Product: Verklaringen van bezwaar Waardering: V 5 jaar na uitspraak  
+Handeling: Het opstellen van verklaringen van bezwaar ingeval herwaardering van functies gepaard gaat met wijzigingen van loon of andere op geld waardeerbare arbeidsvoorwaarden. Grondslag: Algemeen Loonmatigingsbesluit 1980 Periode: 1980– Product: Verklaringen van bezwaar Waardering: V 5 jaar na uitspraak 
 
 #### *5.1.6. Verlenen van dispensaties* 
 
@@ -364,7 +364,7 @@ Handeling: Het nietig verklaren van door de Stichting van de Arbeid verleende di
 Handeling: Het aan bedrijfstakken en/of beroepsgroepen onder voorwaarde verlenen van dispensaties van loonmaatregelen. Grondslag: Wet op de Loonvorming (Stb. 1970, 69), art. 10, art. 11 Periode: 1970– Product: Beschikking Waardering: B 5 
 ###(101.)
 
-Handeling: Het bepalen dat zonder toestemming van de Rijksbemiddelaars arbeidsvoorwaarden of arbeidsregelingen kunnen worden gewijzigd. Grondslag: Buitengewoon Besluit Arbeidsverhoudingen 1944 (Stb. E 52), art. 3, tweede lid Periode: 1944–1945 Product: Ministeriële regelingen/beschikkingen Waardering: B 6  
+Handeling: Het bepalen dat zonder toestemming van de Rijksbemiddelaars arbeidsvoorwaarden of arbeidsregelingen kunnen worden gewijzigd. Grondslag: Buitengewoon Besluit Arbeidsverhoudingen 1944 (Stb. E 52), art. 3, tweede lid Periode: 1944–1945 Product: Ministeriële regelingen/beschikkingen Waardering: B 6 
 
 #### *5.1.7. Inkomens- en arbeidsvoorwaardenbeleid t.a.v. specifieke doelgroepen* 
 
@@ -475,7 +475,7 @@ Handeling: Het met het oog op matiging van de loonkostenontwikkeling stellen van
 Handeling: Het verlenen van vrijstelling of ontheffing van de matiging van loonkosten en andere arbeidsvoorwaarden in arbeidsverhoudingen waarvoor geen c.a.o. geldt. Grondslag: Wet tijdelijke voorzieningen arbeidsvoorwaarden buiten collectieve arbeidsovereenkomsten 1978, art. 6, zoals gewijzigd en verlengd bij de Wet op de niet-c.a.o. 1980 (Stb. 712), art. 4, en verlengd bij Wet van 27 januari 1982 (Stb. 35) en 20 juni 1984 (Stb. 300) Periode: 1978–1979 Product: vrijstellings-besluiten, o.a: – Besluit van 12 mei 1978 (Stcrt. 17 mei 1978, nr. 93) (Vrijstellingsbesluit niet c.a.o. inkomens) Waardering: B 5 
 ###(188.)
 
-Handeling: Het halfjaarlijks opstellen van overzichten ten behoeve van de Staten-Generaal van de ontwikkeling van de arbeidsvoorwaarden in arbeidsverhoudingen waarvoor geen CAO geldt. Grondslag: Wet tijdelijke voorzieningen arbeidsvoorwaarden buiten collectieve arbeidsvoorwaarden (Stb. 1978, 18) [vervangen Stb. 1980, 712], art. 10 Wet op de niet-c.a.o.-inkomens (Stb. 1980, 712) [Stb. 1984, 300], art. 7 Periode: 1978–1986 Product: Rapporten Waardering: B 3  
+Handeling: Het halfjaarlijks opstellen van overzichten ten behoeve van de Staten-Generaal van de ontwikkeling van de arbeidsvoorwaarden in arbeidsverhoudingen waarvoor geen CAO geldt. Grondslag: Wet tijdelijke voorzieningen arbeidsvoorwaarden buiten collectieve arbeidsvoorwaarden (Stb. 1978, 18) [vervangen Stb. 1980, 712], art. 10 Wet op de niet-c.a.o.-inkomens (Stb. 1980, 712) [Stb. 1984, 300], art. 7 Periode: 1978–1986 Product: Rapporten Waardering: B 3 
 
 #### *5.2. Minister van Sociale Zaken/Directeur-generaal van de Arbeid* 
 
@@ -487,7 +487,7 @@ Handeling: Het adviseren van het College van Rijksbemiddelaars over ontwerpregel
 Handeling: Het adviseren van het College van Rijksbemiddelaars inzake verzoeken om dispensatie van bindende regelingen van lonen en andere arbeidsvoorwaarden. Bron: Centraal Verslag Arbeidsinspectie 1946–1947 Periode: 1946–? Product: Adviezen Waardering: V 5 jaar 
 ###(99.)
 
-Handeling: Het goedkeuren van dispensatieaanvragen tot afwijking van bindende loon- en andere arbeidsvoorwaardenregelingen. Grondslag: beschikking van 31 augustus 1942, no. 44-05J van het College van Rijksbemiddelaars; diverse regelingen van lonen en andere arbeidsvoorwaarden; b.w. bij beschikking van de Gemachtigde van de Arbeid (nr./datum ??) Periode: 1942?–1943 Product: Onderzoeksrapportages, processen-verbaal Waardering: B 6  
+Handeling: Het goedkeuren van dispensatieaanvragen tot afwijking van bindende loon- en andere arbeidsvoorwaardenregelingen. Grondslag: beschikking van 31 augustus 1942, no. 44-05J van het College van Rijksbemiddelaars; diverse regelingen van lonen en andere arbeidsvoorwaarden; b.w. bij beschikking van de Gemachtigde van de Arbeid (nr./datum ??) Periode: 1942?–1943 Product: Onderzoeksrapportages, processen-verbaal Waardering: B 6 
 
 #### *5.3. Minister van Sociale Zaken en Werkgelegenheid/Arbeidsinspectie* 
 
@@ -511,7 +511,7 @@ vervallen
 Handeling: Het controleren van de naleving van de loonbepalingen en andere arbeidsvoorwaarden in de huisarbeid. Grondslag: Huisarbeidswet (Stb. 1933, 597) [b.w. Stb. 1994, 156], art. 18 Periode: (1933) 1945–1994 Product: Rapporten, proces-verbaal Waardering: V 5 jaar 
 ###(227.)
 
-Handeling: Het houden van toezicht op het beleidsterrein inkomens- en arbeidsvoorwaardenbeleid. Grondslag: Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657) [Stb. 2002, 615], art. 18a Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) [Stcrt. 2004, 38], art. 1.1 Periode: 1945– Product: Kwartaaloverzichten, onderzoeksrapporten Waardering: V 5 jaar Opmerking: Het betreft hier onder meer onderzoeken van individuele gevallen  
+Handeling: Het houden van toezicht op het beleidsterrein inkomens- en arbeidsvoorwaardenbeleid. Grondslag: Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657) [Stb. 2002, 615], art. 18a Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving (Stcrt. 2000, 203) [Stcrt. 2004, 38], art. 1.1 Periode: 1945– Product: Kwartaaloverzichten, onderzoeksrapporten Waardering: V 5 jaar Opmerking: Het betreft hier onder meer onderzoeken van individuele gevallen 
 
 #### *5.4. Minister van Sociale Zaken en Werkgelegenheid/Arbeidsbureaus* 
 
@@ -520,7 +520,7 @@ Handeling: Het houden van toezicht op het beleidsterrein inkomens- en arbeidsvoo
 Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 1945, 115), gewijzigd bij beschikking van 28 juni 1950, no. 239, afdeling Arbeidsverhoudingen (Stcrt. 1959, 22) Periode: 1945–?1950 Product: onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar 
 ###(145.)
 
-Handeling: Het adviseren van overheid en bedrijfstakorganen over dispensatieverzoeken tot afwijking van lagere beloning dan het wettelijk voorgeschreven minimumloon. Grondslag: Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657), art. 10 en 13; (tijdelijke) Besluiten betreffende overdracht bevoegdheden inzake minimumlonen voor minder-valide werknemers (Stcrt. 1972, 247) Periode: 1969–1972(?) Product: Adviezen Waardering: V 5 jaar  
+Handeling: Het adviseren van overheid en bedrijfstakorganen over dispensatieverzoeken tot afwijking van lagere beloning dan het wettelijk voorgeschreven minimumloon. Grondslag: Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657), art. 10 en 13; (tijdelijke) Besluiten betreffende overdracht bevoegdheden inzake minimumlonen voor minder-valide werknemers (Stcrt. 1972, 247) Periode: 1969–1972(?) Product: Adviezen Waardering: V 5 jaar 
 
 #### *5.5. Minister van Sociale Zaken en Werkgelegenheid/Looncontroledienst* 
 
@@ -529,7 +529,7 @@ Handeling: Het adviseren van overheid en bedrijfstakorganen over dispensatieverz
 Handeling: Het beantwoorden van vragen van individuele burgers, bedrijven en instellingen over het inkomens- en arbeidsvoorwaardenbeleid. Bron: Taken van het Loonbureau, 26 februari 1970; Nota Bureau Organisatie no. 10606 van 15 december 1958 Periode: 1950–1964 Product: (schriftelijke) Antwoorden Waardering: V 3 jaar 
 ###(109.)
 
-Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 28 januari 1950, no. 238, afdeling Arbeidsverhoudingen (Stcrt. 22), art. 2 Periode: 1950–1964 Product: Onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar  
+Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 28 januari 1950, no. 238, afdeling Arbeidsverhoudingen (Stcrt. 22), art. 2 Periode: 1950–1964 Product: Onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar 
 
 #### *5.6. Minister van Sociale Zaken en Werkgelegenheid/Loontechnische Dienst* 
 
@@ -556,7 +556,7 @@ Handeling: Het adviseren van de overheid en bedrijfstakorganen over dispensatiev
 Handeling: Het houden van toezicht op de naleving van de verplichting tot uitbetaling van het minimumloon en de minimumvakantiebijslag. Grondslag: Nota omtrent de huidige en de te verwachten werkzaamheden van de Loontechnische Dienst, augustus 1969; Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657), zoals gewijzigd bij de Wet van 11 februari 1988 (Stb. 49), art. 18a, eerste lid en Beschikking van 9 mei 1988 (Stcrt. 93), art. 1 Periode: 1971–1994 Product: onderzoeksrapportages, driejaarlijkse algemene minimumloononderzoeken, jaarlijkse sectoronderzoeken Opmerking: Op 1 mei 1994 is de LTD opgegaan in de Dienst Inspectie en Informatie (I-SZW), later de Arbeidsinspectie. Waardering: V 5 jaar 
 ###(187.)
 
-Handeling: Het instellen van onderzoeken bij werkgevers, verdacht van ontduiking van de regels zoals die gesteld zijn aan de arbeidsvoorwaarden om tot matiging van loonkostenontwikkeling te komen in arbeidsverhoudingen waarvoor geen CAO geldt. Grondslag: Wet tijdelijke voorzieningen arbeidsvoorwaarden buiten collectieve arbeidsvoorwaarden (Stb. 1978, 18) [vervangen Stb. 1980, 712], art. 10 Wet op de niet-c.a.o.-inkomens (Stb. 1980, 712) [Stb. 1984, 300], art. 7 Periode: 1978–1986 Product: Onderzoeksrapporten Waardering: V 5 jaar na afsluiting onderzoek  
+Handeling: Het instellen van onderzoeken bij werkgevers, verdacht van ontduiking van de regels zoals die gesteld zijn aan de arbeidsvoorwaarden om tot matiging van loonkostenontwikkeling te komen in arbeidsverhoudingen waarvoor geen CAO geldt. Grondslag: Wet tijdelijke voorzieningen arbeidsvoorwaarden buiten collectieve arbeidsvoorwaarden (Stb. 1978, 18) [vervangen Stb. 1980, 712], art. 10 Wet op de niet-c.a.o.-inkomens (Stb. 1980, 712) [Stb. 1984, 300], art. 7 Periode: 1978–1986 Product: Onderzoeksrapporten Waardering: V 5 jaar na afsluiting onderzoek 
 
 #### *5.7. Minister van Sociale Zaken en Werkgelegenheid/Loonbureau* 
 
@@ -574,7 +574,7 @@ Handeling: Het opstellen van overzichten, analyses en samenvattingen van collect
 Handeling: Het registreren van door partijen aangemelde afgesloten, gewijzigde of opgezegde c.a.o.’s. Grondslag: Wet op de Loonvorming 1970 (Stb. 69), art. 4, eerste en derde lid Periode: 1970–1981 Product: ‘Algemene’ en ‘specifieke’ collectieve contracten Waardering: B 5 
 ###(66.)
 
-Handeling: Het meewerken aan het tot stand komen van een Europees register van collectieve arbeidsovereenkomsten. Bron: Taakstelling Loonbureau, 15 december 1977; Memorandum betreffende het Loonbureau, juni 1978 Periode: 1974–1982 Product: cao-boekje en vragenformulier Waardering: V 5 jaar  
+Handeling: Het meewerken aan het tot stand komen van een Europees register van collectieve arbeidsovereenkomsten. Bron: Taakstelling Loonbureau, 15 december 1977; Memorandum betreffende het Loonbureau, juni 1978 Periode: 1974–1982 Product: cao-boekje en vragenformulier Waardering: V 5 jaar 
 
 #### *5.8. Minister van Sociale Zaken en Werkgelegenheid/Dienst Collectieve Arbeidsvoorwaarden* 
 
@@ -592,16 +592,16 @@ Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek op het 
 Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek op het terrein van lonen en collectieve arbeidsvoorwaarden. Grondslag: DCA-Bevindingen/Organisatiebeschikking B van 1 juli 1989 DG ABA, DCA, art. 3 Periode: 1982–1994 Product: Eindrapporten Waardering: B 1 
 ###(56.)
 
-Handeling: Het opstellen van informatieve notities n.a.v. tot stand gekomen principeakkoorden met betrekking tot materiële en immateriële arbeidsvoorwaardenontwikkeling. Grondslag: Organisatiebeschikking B van 1 juli 1989 Directoraat Generaal voor Algemene Beleidsaangelegenheden 1989, onderdeel DCA, artikel 3 Periode: 1982–1994 Product: Informatieve notities of zgn. *Info’s* Waardering: V 5 jaar na vaststelling akkoord 
+Handeling: Het opstellen van informatieve notities n.a.v. tot stand gekomen principeakkoorden met betrekking tot materiële en immateriële arbeidsvoorwaardenontwikkeling. Grondslag: Organisatiebeschikking B van 1 juli 1989 Directoraat Generaal voor Algemene Beleidsaangelegenheden 1989, onderdeel DCA, artikel 3 Periode: 1982–1994 Product: Informatieve notities of zgn. *Info’s*  Waardering: V 5 jaar na vaststelling akkoord 
 ###(60.)
 
-Handeling: Het registreren van door partijen aangemelde afgesloten, gewijzigde of opgezegde c.a.o.’s. Grondslag: Wet op de Loonvorming 1970 (Stb. 69), art. 4, eerste en derde lid Periode: 1982–1994 Product: ‘algemene’ en ‘specifieke’ collectieve contracten Waardering: B 5  
+Handeling: Het registreren van door partijen aangemelde afgesloten, gewijzigde of opgezegde c.a.o.’s. Grondslag: Wet op de Loonvorming 1970 (Stb. 69), art. 4, eerste en derde lid Periode: 1982–1994 Product: ‘algemene’ en ‘specifieke’ collectieve contracten Waardering: B 5 
 
 #### *5.9. Minister van Justitie* 
 
 ###(41.)
 
-Handeling: Het aanwijzen van ambtenaren die belast zijn met het opsporen van overtredingen op het terrein van inkomens- en arbeidsvoorwaarden. Grondslag: Wet op de economische delicten (Stb. 1950, K258) [Stb. 1997, 580], art. 17 Periode: 1945– Product: Aanwijzingsbesluit, o.a.: – Aanwijzing ambtenaren Loontechnische Dienst als opsporingsambtenaren (Stcrt. 1970, 241) – Beschikking buitengewoon opsporingsambtenaar I-SZW 1994 (Stcrt. 1994, 96) – Besluit buitengewoon opsporingsambtenaar Inspectiedienst SZW 1995 (Stcrt. 1995, 96) Waardering: V 10 jaar  
+Handeling: Het aanwijzen van ambtenaren die belast zijn met het opsporen van overtredingen op het terrein van inkomens- en arbeidsvoorwaarden. Grondslag: Wet op de economische delicten (Stb. 1950, K258) [Stb. 1997, 580], art. 17 Periode: 1945– Product: Aanwijzingsbesluit, o.a.: – Aanwijzing ambtenaren Loontechnische Dienst als opsporingsambtenaren (Stcrt. 1970, 241) – Beschikking buitengewoon opsporingsambtenaar I-SZW 1994 (Stcrt. 1994, 96) – Besluit buitengewoon opsporingsambtenaar Inspectiedienst SZW 1995 (Stcrt. 1995, 96) Waardering: V 10 jaar 
 
 #### *5.10. Minister van Economische Zaken* 
 
@@ -622,25 +622,25 @@ vervallen
 Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek naar de structuur van de beroepsuitoefening en de inkomenspositie van vrije-beroepsbeoefenaren. Grondslag: Aanwijzing controleurs van de Economische Controledienst van het Ministerie van Economische Zaken (Stcrt. 1988, 21); zie ook: Wet inkomens vrije-beroepsbeoefenaren (Stb. 1987, 186), art. 9; Wet op de economische delicten (Stb. 1950, K 258), art. 1 onder 4 en art. 17, eerste lid, onder 2 Periode: 1988–1991 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 3 jaar 
 ###(243.)
 
-Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de structuur van de beroepsuitoefening en de inkomenspositie van vrije-beroepsbeoefenaren. Grondslag: Aanwijzing controleurs van de Economische Controledienst van het Ministerie van Economische Zaken (Stcrt. 1988, 21); zie ook: Wet inkomens vrije-beroepsbeoefenaren (Stb. 1987, 186), art. 9; Wet op de economische delicten (Stb. 1950, K 258), art. 1 onder 4 en art. 17, eerste lid, onder 2 Periode: 1988–1991 Product: Eindrapporten Waardering: B 1  
+Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de structuur van de beroepsuitoefening en de inkomenspositie van vrije-beroepsbeoefenaren. Grondslag: Aanwijzing controleurs van de Economische Controledienst van het Ministerie van Economische Zaken (Stcrt. 1988, 21); zie ook: Wet inkomens vrije-beroepsbeoefenaren (Stb. 1987, 186), art. 9; Wet op de economische delicten (Stb. 1950, K 258), art. 1 onder 4 en art. 17, eerste lid, onder 2 Periode: 1988–1991 Product: Eindrapporten Waardering: B 1 
 
 #### *5.11. Minister van Financiën* 
 
 ###(47.)
 
-Handeling: Het tezamen met de Ministers van Sociale Zaken en Werkgelegenheid en Volkshuisvesting, Ruimtelijke Ordening en Milieu aanwijzen van ambtenaren die belast worden met het inwinnen van gegevens in het belang van de uitvoering van de machtigingswet, en het toezicht op de naleving ervan. Grondslag: Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974, art. 24, eerste lid Periode: 1974 Product: aanwijzingen, o.a.: – Besluit (Stcrt. 30 januari 1974, nr. 21) Waardering: V 1 jaar na geldigheidsduur  
+Handeling: Het tezamen met de Ministers van Sociale Zaken en Werkgelegenheid en Volkshuisvesting, Ruimtelijke Ordening en Milieu aanwijzen van ambtenaren die belast worden met het inwinnen van gegevens in het belang van de uitvoering van de machtigingswet, en het toezicht op de naleving ervan. Grondslag: Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974, art. 24, eerste lid Periode: 1974 Product: aanwijzingen, o.a.: – Besluit (Stcrt. 30 januari 1974, nr. 21) Waardering: V 1 jaar na geldigheidsduur 
 
 #### *5.12. Minister van Landbouw, Natuurbeheer en Voedselkwaliteit/Centrale Controledienst* 
 
 ###(105.)
 
-Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 115) Periode: 1946–? Product: Onderzoeksrapportages, processen-verbaal Waardering: V 10 jaar  
+Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 115) Periode: 1946–? Product: Onderzoeksrapportages, processen-verbaal Waardering: V 10 jaar 
 
 #### *5.13. Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu* 
 
 ###(47.)
 
-Handeling: Het tezamen met de Ministers van Sociale Zaken en Werkgelegenheid en Financiën aanwijzen van ambtenaren die belast worden met het inwinnen van gegevens in het belang van de uitvoering van de machtigingswet, en het toezicht op de naleving ervan. Grondslag: Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974, art. 24, eerste lid Periode: 1974 Product: aanwijzingen, o.a.: – Besluit (Stcrt. 30 januari 1974, nr. 21) Waardering: V 1 jaar na geldigheidsduur  
+Handeling: Het tezamen met de Ministers van Sociale Zaken en Werkgelegenheid en Financiën aanwijzen van ambtenaren die belast worden met het inwinnen van gegevens in het belang van de uitvoering van de machtigingswet, en het toezicht op de naleving ervan. Grondslag: Machtigingswet inkomensvorming en bescherming werkgelegenheid 1974, art. 24, eerste lid Periode: 1974 Product: aanwijzingen, o.a.: – Besluit (Stcrt. 30 januari 1974, nr. 21) Waardering: V 1 jaar na geldigheidsduur 
 
 #### *5.14. VakMinister* 
 
@@ -688,13 +688,13 @@ Handeling: Het deelnemen aan (technische) commissies die nadere uitvoeringsregel
 Handeling: Het implementeren of rapporteren over de implementatie van internationale regels in bestaande of nieuwe wet- en regelgeving op nationaal niveau. Periode: 1945– Product: Rapport Waardering: B 3 
 ###(226.)
 
-Handeling: Het aanwijzen van ambtenaren belast met de uitvoering van wet- en regelgeving op het terrein van inkomens- en arbeidsvoorwaardenbeleid. Grondslag: Wet op de Loonvorming (Stb. 1970, 69) [Stb. 1997, 510] , art. 15 Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Stb. 1937, 801) [Stb. 1997, 510], art. 10 Buitengewoon Besluit Arbeidsverhoudingen (Stb. 1945, F214) [b.w. Stb. 1998, 300], art. 6 Periode: 1945– Product: Ministeriële regeling, o.a.: – Taak ambtenaren Loonbureau (Stcrt. 1970, 88) – Besluit aanwijzing ambtenaren ex artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 1991, 57) Opmerking: Dit kunnen ook ambtenaren zijn die worden aangewezen om onderzoeken te verrichten of ambtenaren die belast zijn met het inwinnen van gegevens omtrent de algemene ontwikkeling van lonen en andere op geld waardeerbare arbeidsvoorwaarden. Waardering: V10 jaar na geldigheidsduur  
+Handeling: Het aanwijzen van ambtenaren belast met de uitvoering van wet- en regelgeving op het terrein van inkomens- en arbeidsvoorwaardenbeleid. Grondslag: Wet op de Loonvorming (Stb. 1970, 69) [Stb. 1997, 510] , art. 15 Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Stb. 1937, 801) [Stb. 1997, 510], art. 10 Buitengewoon Besluit Arbeidsverhoudingen (Stb. 1945, F214) [b.w. Stb. 1998, 300], art. 6 Periode: 1945– Product: Ministeriële regeling, o.a.: – Taak ambtenaren Loonbureau (Stcrt. 1970, 88) – Besluit aanwijzing ambtenaren ex artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 1991, 57) Opmerking: Dit kunnen ook ambtenaren zijn die worden aangewezen om onderzoeken te verrichten of ambtenaren die belast zijn met het inwinnen van gegevens omtrent de algemene ontwikkeling van lonen en andere op geld waardeerbare arbeidsvoorwaarden. Waardering: V10 jaar na geldigheidsduur 
 
 #### *5.15. Centraal Economische Commissie* 
 
 ###(7.)
 
-Handeling: Het adviseren van de Raad voor Economische Aangelegenheden omtrent beleidsvoering inzake inkomenspolitiek. Grondslag: Beschikking nr. 587 van 10 oktober 1951 van de Minister van Algemene zaken; Nota nr. 668/784 van de afdeling algemene Economische Politiek van het Ministerie van Economische Zaken van 3 oktober 1968 Periode: 1951– Product: CEC-nota’s Waardering: B 1  
+Handeling: Het adviseren van de Raad voor Economische Aangelegenheden omtrent beleidsvoering inzake inkomenspolitiek. Grondslag: Beschikking nr. 587 van 10 oktober 1951 van de Minister van Algemene zaken; Nota nr. 668/784 van de afdeling algemene Economische Politiek van het Ministerie van Economische Zaken van 3 oktober 1968 Periode: 1951– Product: CEC-nota’s Waardering: B 1 
 
 #### *5.16. Commissie* 
 
@@ -709,13 +709,13 @@ Handeling: Het verrichten van onderzoek in opdracht van de Minister van Sociale 
 Handeling: Het ontwikkelen van (beleids-)voorstellen op het gebied van inkomens- en arbeidsvoorwaardenbeleid. Periode: 1945– Product: Voorstellen, rapporten, notities, nota’s Waardering: Eindrapport: B 5 Overige stukken: V 5 jaar na verschijnen eindrapport 
 ###(223.)
 
-Handeling: Het mede uitvoeren van beleid betreffende aangelegenheden op het gebied van inkomens- en arbeidsvoorwaardenbeleid. Periode: 1945– Waardering: V 10 jaar  
+Handeling: Het mede uitvoeren van beleid betreffende aangelegenheden op het gebied van inkomens- en arbeidsvoorwaardenbeleid. Periode: 1945– Waardering: V 10 jaar 
 
 #### *5.17. Opperbevelhebber van Land- en Zeemacht* 
 
 ###(34.)
 
-Handeling: Het uitvaardigen van maatregelen op het gebied van lonen en arbeidsvoorwaarden. Grondslag: Besluit van 4 mei 1933, houdende nadere vaststelling van voorschriften ter uitvoering van de wet van 23 mei 1899, Stb. 128 (Stb. 246) Periode: mei 1940 Product: Besluiten van de opperbevelhebber, o.a.: – Besluit van 24 mei 1940, betreffende inschakeling van rijksbemiddelaars bij geschillen over arbeidsvoorwaarden (Stb. O 800); b.w. bij verordening 111/1940 van 27 augustus Waardering: B 6  
+Handeling: Het uitvaardigen van maatregelen op het gebied van lonen en arbeidsvoorwaarden. Grondslag: Besluit van 4 mei 1933, houdende nadere vaststelling van voorschriften ter uitvoering van de wet van 23 mei 1899, Stb. 128 (Stb. 246) Periode: mei 1940 Product: Besluiten van de opperbevelhebber, o.a.: – Besluit van 24 mei 1940, betreffende inschakeling van rijksbemiddelaars bij geschillen over arbeidsvoorwaarden (Stb. O 800); b.w. bij verordening 111/1940 van 27 augustus Waardering: B 6 
 
 #### *5.18. Secretaris-Generaal van Sociale Zaken (1940–1945)* 
 
@@ -736,7 +736,7 @@ Handeling: Het treffen van nadere bepalingen betreffende administratiefrechtelij
 Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen in de havens. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 3 Periode: 1944–1945 Product: Onderzoeksrapportages, processen-verbaal Waardering: B 6 
 ###(116.)
 
-Handeling: Het vernietigen of wijzigen van administratiefrechtelijke uitspraken van de Gemachtigde voor de Arbeid. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 18 Periode: 1944–1945 Product: (gewijzigde/vernietigde) Administratiefrechtelijke uitspraken Waardering: B 6  
+Handeling: Het vernietigen of wijzigen van administratiefrechtelijke uitspraken van de Gemachtigde voor de Arbeid. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 18 Periode: 1944–1945 Product: (gewijzigde/vernietigde) Administratiefrechtelijke uitspraken Waardering: B 6 
 
 #### *5.19. Gemachtigde voor de Arbeid* 
 
@@ -751,7 +751,7 @@ Handeling: Het uitvaardigen van regelingen ter aanvulling of afwijking van het v
 Handeling: Het controleren van de naleving van loonvoorschriften. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 3 Periode: 1944–1945 Product: Onderzoeksrapportages, processen-verbaal Waardering: B 6 
 ###(115.)
 
-Handeling: Het doen van administratiefrechtelijke uitspraken ingeval van overtredingen van loonvoorschriften. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 13 Periode: 1944–1945 Product: Administratiefrechtelijke uitspraken Waardering: B 6  
+Handeling: Het doen van administratiefrechtelijke uitspraken ingeval van overtredingen van loonvoorschriften. Grondslag: Besluit administratiefrechtelijke strafprocedure loonvoorschriften (Stcrt. 1944, 122), art. 13 Periode: 1944–1945 Product: Administratiefrechtelijke uitspraken Waardering: B 6 
 
 #### *5.20. Militair gezag* 
 
@@ -760,7 +760,7 @@ Handeling: Het doen van administratiefrechtelijke uitspraken ingeval van overtre
 Handeling: Het geven van richtlijnen aan de Rijksbemiddelaars met betrekking tot arbeidsvoorwaarden of arbeidsregelingen. Grondslag: Buitengewoon Besluit Arbeidsverhoudingen 1944 (Stb. E 52), art. 11, eerste lid Periode: 1944–1945 Product: Richtlijnen, o.a.: – Richtlijn van 26 november 1944 Waardering: B 6 
 ###(98.)
 
-Handeling: Het bepalen dat zonder toestemming van de Rijksbemiddelaars arbeidsvoorwaarden of arbeidsregelingen kunnen worden gewijzigd. Grondslag: Buitengewoon Besluit Arbeidsverhoudingen 1944 (Stb. E 52), art. 11, eerste lid Periode: 1944–1945 Product: Regelingen/beschikkingen Waardering: B 6  
+Handeling: Het bepalen dat zonder toestemming van de Rijksbemiddelaars arbeidsvoorwaarden of arbeidsregelingen kunnen worden gewijzigd. Grondslag: Buitengewoon Besluit Arbeidsverhoudingen 1944 (Stb. E 52), art. 11, eerste lid Periode: 1944–1945 Product: Regelingen/beschikkingen Waardering: B 6 
 
 #### *5.21. College van Rijksbemiddelaars* 
 
@@ -799,7 +799,7 @@ Handeling: Het goedkeuren van dispensatieaanvragen tot afwijking van bindende lo
 Handeling: Het meewerken aan c.q. het vaststellen van regelingen ingeval van onenigheid tussen werkgevers en werknemers door het wijzigen van arbeidsovereenkomsten, het verlagen van lonen, of anderszins wijzigen van arbeidsvoorwaarden. Grondslag: Besluit van de Opperbevelhebber van 24 mei 1940 (Stb. O 800), art. 3, 4 en 5; b.w. bij Verordening 111/1940, van 27 augustus 1940 Periode: 1940 Product: regelingen Waardering: B 6 
 ###(104.)
 
-Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 115) Periode: 1945–1964 Product: onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar  
+Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 115) Periode: 1945–1964 Product: onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar 
 
 #### *5.22. Organen voor Overleg en Samenwerking in Bedrijfstakken (Vakraden, Produkt- en (Hoofd)Bedrijfschappen)* 
 
@@ -808,25 +808,25 @@ Handeling: Het controleren van de naleving van loonvoorschriften en andere arbei
 Handeling: Het goedkeuren van dispensatieaanvragen tot afwijking van bindende loon- en andere arbeidsvoorwaardenregelingen, van algemeen verbindend verklaarde collectieve arbeidsovereenkomsten, van goedgekeurde collectieve arbeidsovereenkomsten en van richtlijnen met betrekking tot lonen en andere arbeidsvoorwaarden. Grondslag: Besluit van 8 maart 1963 (Stcrt. 51), art. 9; Wet van 20 juni 1963 (Stb. 267) art. 17, vijfde lid Periode: 1963–1969? Product: Toestemmingen/goedkeuringen/afwijzingen Waardering: B 5 
 ###(144.)
 
-Handeling: Het, na advies van het Gewestelijk arbeidsbureau (1969–1972)/de Loontechnische Dienst (1972–1989), bij delegatie vaststellen van lagere beloningen dan het wettelijk voorgeschreven minimumloon voor minder-valide werknemers. Grondslag: (Tijdelijke) Besluiten betreffende overdracht bevoegdheden inzake minimumloon voor minder-valide werknemers (Stcrt. 1969, 182; Stcrt. 1972, 247; Stcrt. 1977, 230; Stcrt. 1982, 186; Stcrt. 1985, 38) Periode: 1969–1989 Product: Loondispensatieregelingen Waardering: B 5  
+Handeling: Het, na advies van het Gewestelijk arbeidsbureau (1969–1972)/de Loontechnische Dienst (1972–1989), bij delegatie vaststellen van lagere beloningen dan het wettelijk voorgeschreven minimumloon voor minder-valide werknemers. Grondslag: (Tijdelijke) Besluiten betreffende overdracht bevoegdheden inzake minimumloon voor minder-valide werknemers (Stcrt. 1969, 182; Stcrt. 1972, 247; Stcrt. 1977, 230; Stcrt. 1982, 186; Stcrt. 1985, 38) Periode: 1969–1989 Product: Loondispensatieregelingen Waardering: B 5 
 
 #### *5.23. Raden van de Arbeid* 
 
 ###(108.)
 
-Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 1945, 115), gewijzigd bij beschikking van 28 juni 1950, no. 239, afdeling Arbeidsverhoudingen (Stcrt. 1959, 22) Periode: 1945–1950 Product: Onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar  
+Handeling: Het controleren van de naleving van loonvoorschriften en andere arbeidsvoorwaardenregelingen. Grondslag: Beschikking van 16 november 1945, no. 5400, afdeling Arbeid II, tot uitvoering van art. 26, eerste lid van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Stcrt. 1945, 115), gewijzigd bij beschikking van 28 juni 1950, no. 239, afdeling Arbeidsverhoudingen (Stcrt. 1959, 22) Periode: 1945–1950 Product: Onderzoeksrapportages, processen-verbaal Waardering: V 5 jaar 
 
 #### *5.24. (Voorlopige) Adviescommissie Inkomens Vrije-Beroepsbeoefenaars* 
 
 ###(160.)
 
-Handeling: Het adviseren bij geschillen tussen organisaties van vrije-beroepsbeoefenaren en de Minister van Sociale Zaken over de vaststelling van aanvaardbare inkomensniveaus. Grondslag: Tijdelijke wet normering inkomens vrije-beroepsbeoefenaars (Stb. 1981, 423), art. 8, tweede lid; Wet inkomens vrije-beroepsbeoefenaren (Stb. 1987, 186), art. 7, tweede lid Periode: 1983–1991 Product: Adviezen Waardering: V 5 jaar  
+Handeling: Het adviseren bij geschillen tussen organisaties van vrije-beroepsbeoefenaren en de Minister van Sociale Zaken over de vaststelling van aanvaardbare inkomensniveaus. Grondslag: Tijdelijke wet normering inkomens vrije-beroepsbeoefenaars (Stb. 1981, 423), art. 8, tweede lid; Wet inkomens vrije-beroepsbeoefenaren (Stb. 1987, 186), art. 7, tweede lid Periode: 1983–1991 Product: Adviezen Waardering: V 5 jaar 
 
 #### *5.25. Commissie van Advies met betrekking tot de informatieve taken van de Dienst Collectieve Arbeidsvoorwaarden* 
 
 ###(50.)
 
-Handeling: Het adviseren van de Minister over de informatieverstrekking door de Dienst Collectieve Arbeidsvoorwaarden. Grondslag: Besluit van 8 februari 1982 (Stcrt. 32), art. 8 Periode: 1982–1994 Product: Adviezen Waardering: V 5 jaar  
+Handeling: Het adviseren van de Minister over de informatieverstrekking door de Dienst Collectieve Arbeidsvoorwaarden. Grondslag: Besluit van 8 februari 1982 (Stcrt. 32), art. 8 Periode: 1982–1994 Product: Adviezen Waardering: V 5 jaar 
 
 #### *5.26. Commissie Arbeidsvoorwaarden Werknemers in Indonesië* 
 
@@ -835,19 +835,19 @@ Handeling: Het adviseren van de Minister over de informatieverstrekking door de 
 Handeling: Het verrichten van onderzoek naar bestaande arbeidsvoorwaarden van werknemers uit Nederland in Indonesië en de behoefte aan overheidsmaatregelen daaromtrent. Grondslag: Gezamenlijk besluit van de Minister Zonder Portefeuille en de Minister van Sociale Zaken van 10 november 1948, nr. 8103 Periode: 1948–? Product: halfjaarlijkse verslagen, voorstellen en adviezen Waardering: Rapport: B 1 Overige stukken: V 5 jaar 
 ###(190.)
 
-Handeling: Het verstrekken van voorlichting omtrent arbeidsvoorwaarden aan personen die werkzaam zullen worden gesteld in Indonesië. Grondslag: Gezamenlijke beschikking van de Minister Zonder Portefeuille en de Minister van Sociale Zaken respectievelijk van 23 mei 1950, nr. 43 en van 31 mei 1950 (ongenummerd) Periode: 1950–? Product: (schriftelijke) informatie, zoals overzichten kosten van levensonderhoud in Indonesië Waardering: V 3 jaar één exemplaar van het voorlichtingmateriaal blijft bewaard: B 5  
+Handeling: Het verstrekken van voorlichting omtrent arbeidsvoorwaarden aan personen die werkzaam zullen worden gesteld in Indonesië. Grondslag: Gezamenlijke beschikking van de Minister Zonder Portefeuille en de Minister van Sociale Zaken respectievelijk van 23 mei 1950, nr. 43 en van 31 mei 1950 (ongenummerd) Periode: 1950–? Product: (schriftelijke) informatie, zoals overzichten kosten van levensonderhoud in Indonesië Waardering: V 3 jaar één exemplaar van het voorlichtingmateriaal blijft bewaard: B 5 
 
 #### *5.27. Commissie van Toezicht op het Loonbureau* 
 
 ###(49.)
 
-Handeling: Het uitoefenen van toezicht op de werkzaamheden en aangelegenheden van het Loonbureau. Grondslag: Beschikking van 23 juli 1964 (Stcrt. 146), art. 9 Periode: 1964–1982 Product: Adviezen Waardering: V 5 jaar  
+Handeling: Het uitoefenen van toezicht op de werkzaamheden en aangelegenheden van het Loonbureau. Grondslag: Beschikking van 23 juli 1964 (Stcrt. 146), art. 9 Periode: 1964–1982 Product: Adviezen Waardering: V 5 jaar 
 
 #### *5.28. Confrontatiecommissie* 
 
 ###(24.)
 
-Handeling: Het onderzoeken van de resultaten van de loonpolitiek. Grondslag: Besluit van 7 februari 1962, nr. 173, directie voor Sociale Voorzieningen en Arbeidsverhoudingen Periode: 1962–1968 Product: periodieke onderzoeken/rapportages Waardering: Rapport: B 1 Overige stukken: V 5 jaar  
+Handeling: Het onderzoeken van de resultaten van de loonpolitiek. Grondslag: Besluit van 7 februari 1962, nr. 173, directie voor Sociale Voorzieningen en Arbeidsverhoudingen Periode: 1962–1968 Product: periodieke onderzoeken/rapportages Waardering: Rapport: B 1 Overige stukken: V 5 jaar 
 
 #### *5.29. Departementale Stuurgroep Inkomensbeleid (DSI)* 
 
@@ -856,13 +856,13 @@ Handeling: Het onderzoeken van de resultaten van de loonpolitiek. Grondslag: Bes
 Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek naar de richting waarin het inkomensbeleid zich in de toekomst zou moeten gaan ontwikkelen. Periode: 1981–1985 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na verschijnen eindrapport 
 ###(241.)
 
-Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de richting waarin het inkomensbeleid zich in de toekomst zou moeten gaan ontwikkelen. Periode: 1981–1985 Product: eindrapporten Waardering: B 1  
+Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de richting waarin het inkomensbeleid zich in de toekomst zou moeten gaan ontwikkelen. Periode: 1981–1985 Product: eindrapporten Waardering: B 1 
 
 #### *5.30. Interdepartementale Commissie inzake de Loon en Prijspolitiek* 
 
 ###(2.)
 
-Handeling: Het voorbereiden van besluitvorming door de regering over loon- en prijsbeleid. Grondslag: Beschikking van de Minister van Sociale Zaken van 17 augustus 1945, nr. 4372, afdeling Arbeid II, ingetrokken bij besluit no. 2878 van 6 januari 1960 van de Minister van Sociale Zaken en Volksgezondheid; Nota no. 2062, afdeling Arbeidsverhoudingen van 2 oktober 1959 Periode: 1945–1960 Product: rapporten, adviezen Waardering: B 1  
+Handeling: Het voorbereiden van besluitvorming door de regering over loon- en prijsbeleid. Grondslag: Beschikking van de Minister van Sociale Zaken van 17 augustus 1945, nr. 4372, afdeling Arbeid II, ingetrokken bij besluit no. 2878 van 6 januari 1960 van de Minister van Sociale Zaken en Volksgezondheid; Nota no. 2062, afdeling Arbeidsverhoudingen van 2 oktober 1959 Periode: 1945–1960 Product: rapporten, adviezen Waardering: B 1 
 
 #### *5.31. Interdepartementale Werkgroep Inkomenspolitieke Coördinatie (WIC)* 
 
@@ -871,7 +871,7 @@ Handeling: Het voorbereiden van besluitvorming door de regering over loon- en pr
 Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek ten behoeve van het doen van waarderingen aan de Minister over de procedure volgens welke de interdepartementale coördinatie van het inkomensbeleid moest geschieden. Periode: 1980–1981 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na verschijnen eindrapport 
 ###(239.)
 
-Handeling: Het opstellen van eindrapporten met daarin waarderingen aan de Minister over de procedure volgens welke de interdepartementale coördinatie van het inkomensbeleid moest geschieden. Periode: 1980–1981 Product: Eindrapporten Waardering: V 10 jaar  
+Handeling: Het opstellen van eindrapporten met daarin waarderingen aan de Minister over de procedure volgens welke de interdepartementale coördinatie van het inkomensbeleid moest geschieden. Periode: 1980–1981 Product: Eindrapporten Waardering: V 10 jaar 
 
 #### *5.32. Interdepartementale Werkgroep Statistische Gegevens Inkomens- en Vermogensverdeling* 
 
@@ -880,13 +880,13 @@ Handeling: Het opstellen van eindrapporten met daarin waarderingen aan de Minist
 Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek naar de mogelijkheden om recentere en betere statistische informatie te verkrijgen op het gebied van inkomens- en vermogensverhoudingen. Bron: vergadering van de Centrale Commissie voor de Statistiek van 24 april 1969 Periode: 1969–1973 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na verschijnen eindrapport 
 ###(238.)
 
-Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de mogelijkheden om recentere en betere statistische informatie te verkrijgen op het gebied van inkomens- en vermogensverhoudingen. Bron: Vergadering van de Centrale Commissie voor de Statistiek van 24 april 1969 Periode: 1969–1973 Product: Rapporten Waardering: V 10 jaar  
+Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de mogelijkheden om recentere en betere statistische informatie te verkrijgen op het gebied van inkomens- en vermogensverhoudingen. Bron: Vergadering van de Centrale Commissie voor de Statistiek van 24 april 1969 Periode: 1969–1973 Product: Rapporten Waardering: V 10 jaar 
 
 #### *5.33. Loonpolitieke Commissie* 
 
 ###(78.)
 
-Handeling: Het adviseren van de Minister bij onverbindend verklaren van collectieve arbeidsovereenkomsten. Grondslag: Besluit van 18 december 1967, nr. 53792, directie algemene beleidsaangelegenheden (Stcrt. 248); Wet op de Loonvorming 1970 (Stb. 69), art. 3 eerste lid; b.w. bij de Wet van 24 juni 1976 (Stb. 346) Periode: 1968–(1970)1976 Product: Adviezen Waardering: V 5 jaar  
+Handeling: Het adviseren van de Minister bij onverbindend verklaren van collectieve arbeidsovereenkomsten. Grondslag: Besluit van 18 december 1967, nr. 53792, directie algemene beleidsaangelegenheden (Stcrt. 248); Wet op de Loonvorming 1970 (Stb. 69), art. 3 eerste lid; b.w. bij de Wet van 24 juni 1976 (Stb. 346) Periode: 1968–(1970)1976 Product: Adviezen Waardering: V 5 jaar 
 
 #### *5.34. Plaatselijke en Centrale Huisarbeidscommissies* 
 
@@ -895,7 +895,7 @@ Handeling: Het adviseren van de Minister bij onverbindend verklaren van collecti
 Handeling: Het ontwerpen van loonbepalingen voor huisarbeiders Grondslag: Huisarbeidswet (Stb. 1933, 597) [b.w. Stb. 1994, 156], art. 5 Periode: (1933) 1945–1994 Product: Ontwerp loonbepaling Opmerking: De Huisarbeidscommissies zijn nooit tot stand gekomen. Waardering: B 1 
 ###(120.)
 
-Handeling: Het adviseren van de Minister en de districtshoofden van de Arbeidsinspectie over arbeidsvoorwaarden in de huisarbeid. Grondslag: Huisarbeidswet (Stb. 1933, 597) [b.w. Stb. 1994, 156], art. 5 Periode: (1933)1945–1994 Product: B 5 Opmerking: De Huisarbeidscommissies zijn nooit tot stand gekomen. Waardering: B 1  
+Handeling: Het adviseren van de Minister en de districtshoofden van de Arbeidsinspectie over arbeidsvoorwaarden in de huisarbeid. Grondslag: Huisarbeidswet (Stb. 1933, 597) [b.w. Stb. 1994, 156], art. 5 Periode: (1933)1945–1994 Product: B 5 Opmerking: De Huisarbeidscommissies zijn nooit tot stand gekomen. Waardering: B 1 
 
 #### *5.35. Projectgroep Inkomenspolitiek Instrumentarium (PII)* 
 
@@ -904,37 +904,37 @@ Handeling: Het adviseren van de Minister en de districtshoofden van de Arbeidsin
 Handeling: Het verzamelen van gegevens en het voorbereiden van onderzoek naar de instrumenten en hun effecten die inkomensbeheersing tot doel hebben. Periode: 1982 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na verschijnen eindrapport 
 ###(240.)
 
-Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de instrumenten en hun effecten die inkomensbeheersing tot doel hebben. Periode: 1982 Product: eindrapporten Waardering: B 1  
+Handeling: Het opstellen van eindrapporten naar aanleiding van onderzoek naar de instrumenten en hun effecten die inkomensbeheersing tot doel hebben. Periode: 1982 Product: eindrapporten Waardering: B 1 
 
 #### *5.36. (Interdepartementale) Werkgroep Arbeidsvoorwaardenwet* 
 
 ###(12.)
 
-Handeling: Het voorbereiden van een wettelijke regeling voor de overdracht van bevoegdheden aan het bedrijfsleven op het gebied van de loonvorming. Bron: Nota no. 459, afdeling Arbeidsverhoudingen van 1 maart 1956 Periode: 1955–1956 Product: rapport en concept-Arbeidsvoorwaardenwet Waardering: B 1  
+Handeling: Het voorbereiden van een wettelijke regeling voor de overdracht van bevoegdheden aan het bedrijfsleven op het gebied van de loonvorming. Bron: Nota no. 459, afdeling Arbeidsverhoudingen van 1 maart 1956 Periode: 1955–1956 Product: rapport en concept-Arbeidsvoorwaardenwet Waardering: B 1 
 
 #### *5.37. Werkgroep Inkomens Vrije Beroepsbeoefenaren* 
 
 ###(154.)
 
-Handeling: Het verzamelen van gegevens teneinde na te gaan of het instellen van een onderzoek naar de inkomens van vrije beroepsbeoefenaren mogelijk is. Bron: Nota nr. 2743 van 30 augustus 1972 van de directie Arbeidsverhoudingen aan de Minister Periode: 1972–1979 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na eindrapport (242.) Handeling: Het opstellen van een eindrapport over de mogelijkheden tot het instellen van een onderzoek naar de inkomens van vrije-beroepsbeoefenaren. Grondslag: Nota nr. 2743 van 30 augustus 1972 van de directie Arbeidsverhoudingen aan de Minister Periode: 1972–1979 Product: Eindrapport Waardering: V 10 jaar  
+Handeling: Het verzamelen van gegevens teneinde na te gaan of het instellen van een onderzoek naar de inkomens van vrije beroepsbeoefenaren mogelijk is. Bron: Nota nr. 2743 van 30 augustus 1972 van de directie Arbeidsverhoudingen aan de Minister Periode: 1972–1979 Product: o.a. vergaderstukken, onderzoeksresultaten, verslagen, correspondentie Waardering: V 5 jaar na eindrapport (242.) Handeling: Het opstellen van een eindrapport over de mogelijkheden tot het instellen van een onderzoek naar de inkomens van vrije-beroepsbeoefenaren. Grondslag: Nota nr. 2743 van 30 augustus 1972 van de directie Arbeidsverhoudingen aan de Minister Periode: 1972–1979 Product: Eindrapport Waardering: V 10 jaar 
 
 #### *5.38. Werkgroep Uitgangspunten Norminkomens Vrije-Beroepsbeoefenaren* 
 
 ###(156.)
 
-Handeling: Het voeren van overleg over de uitgangspunten voor de vaststelling van norminkomens voor vrije beroepen. Bron: brief van het Ministerie van sociale Zaken, directie Arbeidsverhoudingen nr. 21.444 van 6 maart 1980 Periode: 1980–1982 Product: Verslagen, nota’s, rapportage Waardering: V 5 jaar  
+Handeling: Het voeren van overleg over de uitgangspunten voor de vaststelling van norminkomens voor vrije beroepen. Bron: brief van het Ministerie van sociale Zaken, directie Arbeidsverhoudingen nr. 21.444 van 6 maart 1980 Periode: 1980–1982 Product: Verslagen, nota’s, rapportage Waardering: V 5 jaar 
 
 #### *5.39. Werkgroep Wetgeving Prijs-/Inkomensbeleid Vrije-Beroepsbeoefenaren* 
 
 ###(157.)
 
-Handeling: Het voorbereiden van nieuwe wetgeving ter vervanging van de Tijdelijke Wet normering inkomens vrije-beroepsbeoefenaars. Bron: vergadering van de Commissie Coördinatie Arbeidsvoorwaarden en Inkomensaangelegenheden van 15 november 1984 Periode: 1984–1985 Product: Vergadernotulen, beleidsnota Waardering: B 1  
+Handeling: Het voorbereiden van nieuwe wetgeving ter vervanging van de Tijdelijke Wet normering inkomens vrije-beroepsbeoefenaars. Bron: vergadering van de Commissie Coördinatie Arbeidsvoorwaarden en Inkomensaangelegenheden van 15 november 1984 Periode: 1984–1985 Product: Vergadernotulen, beleidsnota Waardering: B 1 
 
 ####6. Sleutel tot het vorige BSD
 
 De sleutel is als volgt opgebouwd: In de eerste kolom staat het handelingnummer uit het vorige RIO/BSD. In de tweede kolom staat welk handelingnummer de handeling heeft in het nieuwe RIO/BSD of de opmerking ‘handeling is vervallen’.  
 
-| Handelingnr.  | Opmerking  |
+|  Handelingnr.   |  Opmerking   |
 |:---|:---|
 | 1  | Blijft handelingnr. 1  |
 | 2  | Blijft handelingnr. 2  |

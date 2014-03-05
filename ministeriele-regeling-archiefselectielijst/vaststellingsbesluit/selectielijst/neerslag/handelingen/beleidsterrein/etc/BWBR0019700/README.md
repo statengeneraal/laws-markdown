@@ -10,35 +10,35 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de onder hem ressorterende actoren op het beleidsterrein Overkoepelend beleid verkeer en Waterstaat over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de onder hem ressorterende actoren op het beleidsterrein Overkoepelend beleid verkeer en Waterstaat over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
-De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.**   
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.**    
 
 Den Haag 
 27 maart 2006   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, namens deze: de 
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, namens deze:de 
 Directeur Personeel, Organisatie en Informatie, 
-L.W.F.Nix  
+L.W.F. Nix    
 
 ####Basisselectiedocument
 
 ####Overkoepelend beleid Verkeer en Waterstaat, 1945–2002
 
-Digital *dis* play in opdracht van: Ministerie van Verkeer & Waterstaat (PIVOT-project) M. Doekes Juni 2005 versie na driehoeksoverleg  
+Digital *dis*play in opdracht van: Ministerie van Verkeer & Waterstaat (PIVOT-project) M. Doekes Juni 2005 versie na driehoeksoverleg 
 
 ####Inleiding
 
-Het PIVOT-rapport *Overkoepeld beleid Verkeer en Waterstaat. Een institutioneel onderzoek naar overkoepelende beleidsaspecten op het terrein verkeer en waterstaat, 1945–2002*, vormt de grondslag voor dit basisselectiedocument. Het rapport beschrijft het handelen van de rijksoverheid ten aanzien van het integraal beleid (of: overkoepelende beleidsaspecten) op het terrein van het inlands verkeer en vervoer gedurende de periode tussen 1945 en 2002 en geeft een overzicht van de actoren die zich op het terrein bewegen. Met het rapport institutioneel onderzoek (RIO) implementeren de Algemene Rijksarchivaris en de vertegenwoordigers van het Ministerie van Verkeer en Waterstaat de afspraken die bij convenant van 3 november 1992 tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Verkeer en Waterstaat zijn gemaakt. De eerste stap van de implementatie is de waardering van de neerslag van de handelingen, op basis waarvan bepaald kan worden welke neerslag voor permanente bewaring in het Nationaal Archief in aanmerking komt, en welke neerslag op termijn vernietigd kan worden. Deze eerste stap is in het basisselectiedocument (BSD) vastgelegd. Het BSD is de verantwoording van het bewaar- en vernietigingsbeleid van archiefbescheiden door de organisatie, alsmede het wettelijk voorgeschreven instrument voor de selectie in de rijks- en provinciale archieven. In het BSD is aan iedere handeling een waardering gegeven voor bewaring of vernietiging van de bescheiden die betrekking hebben op die handeling. Alvorens de Minister van Onderwijs, Cultuur en Wetenschappen het BSD vaststelt, hoort deze de Raad voor Cultuur. Na vaststelling van het BSD kan de procedure voor enerzijds de overbrenging van de archiefbescheiden naar het Nationaal Archief en anderzijds de vernietiging van de bescheiden worden uitgevoerd. Het BSD bestaat uit een korte beschrijving van het terrein en de actoren, een verantwoording van de doelstelling van de selectie en de gehanteerde selectiecriteria en de lijst van gewaardeerde handelingen, voorafgegaan door een toelichting op de lijst.  
+Het PIVOT-rapport *Overkoepeld beleid Verkeer en Waterstaat. Een institutioneel onderzoek naar overkoepelende beleidsaspecten op het terrein verkeer en waterstaat, 1945–2002*, vormt de grondslag voor dit basisselectiedocument. Het rapport beschrijft het handelen van de rijksoverheid ten aanzien van het integraal beleid (of: overkoepelende beleidsaspecten) op het terrein van het inlands verkeer en vervoer gedurende de periode tussen 1945 en 2002 en geeft een overzicht van de actoren die zich op het terrein bewegen. Met het rapport institutioneel onderzoek (RIO) implementeren de Algemene Rijksarchivaris en de vertegenwoordigers van het Ministerie van Verkeer en Waterstaat de afspraken die bij convenant van 3 november 1992 tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Verkeer en Waterstaat zijn gemaakt. De eerste stap van de implementatie is de waardering van de neerslag van de handelingen, op basis waarvan bepaald kan worden welke neerslag voor permanente bewaring in het Nationaal Archief in aanmerking komt, en welke neerslag op termijn vernietigd kan worden. Deze eerste stap is in het basisselectiedocument (BSD) vastgelegd. Het BSD is de verantwoording van het bewaar- en vernietigingsbeleid van archiefbescheiden door de organisatie, alsmede het wettelijk voorgeschreven instrument voor de selectie in de rijks- en provinciale archieven. In het BSD is aan iedere handeling een waardering gegeven voor bewaring of vernietiging van de bescheiden die betrekking hebben op die handeling. Alvorens de Minister van Onderwijs, Cultuur en Wetenschappen het BSD vaststelt, hoort deze de Raad voor Cultuur. Na vaststelling van het BSD kan de procedure voor enerzijds de overbrenging van de archiefbescheiden naar het Nationaal Archief en anderzijds de vernietiging van de bescheiden worden uitgevoerd. Het BSD bestaat uit een korte beschrijving van het terrein en de actoren, een verantwoording van de doelstelling van de selectie en de gehanteerde selectiecriteria en de lijst van gewaardeerde handelingen, voorafgegaan door een toelichting op de lijst. 
 
 ####1. Hoofdlijnen van het handelen overkoepelend beleid Verkeer en Waterstaat
 
@@ -58,7 +58,7 @@ Door het Project Invoering Verkorting Overbrengingstermijn (PIVOT) zijn hoofdlij
 
 – Goederenvervoer (rapport nr. 85 ‘Goederenvervoer’)  
 
-– Personenvervoer (rapport nr. 86 ‘Personenvervoer’)   Ieder van de genoemde rapporten behandelt de daartoe behorende beleidsterreinen en de daarmee samenhangende handelingen. In het rapport dat als basis dient voor dit BSD komt het overkoepelende, langetermijnbeleid van Verkeer en Waterstaat aan bod. Overkoepeling zal vooral betrekking hebben op de beleidsterreinen verkeer en vervoer en infrastructuur. De andere beleidsterreinen (luchtvaart, telecommunicatie en meteorologie) kennen een vrij autonome beleidsontwikkeling. Het overkoepelende beleidsaspect heeft vooral betrekking op de lange- en middellange termijnplanning. Het gaat hierbij om structuurschema’s en meerjarenplannen. De verkeersveiligheid en infrastructuur zijn reeds behandeld in het rapport ‘Waterstaat’. Het infrastructuurbeleid vanaf 1992 zal echter wel in dit rapport worden behandeld. Vanaf dat moment wordt het infrastructuurbeleid in samenhang met het verkeer en vervoerbeleid ontwikkeld. De uitwerking van het langetermijnbeleid heeft raakvlakken met het milieubeleid. Voor het milieubeleid is de Minister van Milieu de eerst aangewezene. Voor handelingen op dat terrein wordt verwezen naar het BSD milieubeleid. In dit BSD zijn alleen handelingen op het terrein milieubeleid opgenomen die zuiver op het vervoersbeleid betrekking hebben. Hierbij wordt er van uit gegaan dat het vervoersbeleid een bijdrage levert aan het milieubeleid. Voor een verdere afbakening wordt verwezen naar paragraaf 7.4 van het RIO. In dit BSD komen ook handelingen voor op het terrein crisisbeheersing. De taken en handelingen op dit terrein zijn opgenomen in het BSD Brandweerzorg, rampenbestrijding en crisisbeheersing. Echter is in dat BSD geen handeling opgenomen voor de departementale organisatie op dit terrein. In dit BSD komen daarom handelingen van de departementale organisatie op dit terrein aan de orde. Verder heeft de Minister van Verkeer en Waterstaat ook nog een specifieke taak voor het organiseren van het vervoer in crisissituaties, op grond van de Noodvervoerswet. Ook deze handelingen zijn niet opgenomen in het BSD Brandweerzorg, rampenbestrijding en crisisbeheersing en zijn daarom in dit rapport opgenomen. In het verkeers- en vervoerbeleid staat de bijdrage aan een optimale economische, ruimtelijke en sociale structuur centraal. Nederland is hét distributieland van Europa. De transportsector speelt een belangrijke rol in de internationale economische betrekkingen en Nederland haalt hier belangrijke economische voordelen uit. De concurrentiepositie van Nederland op de internationale markt moet in stand gehouden worden en waar mogelijk worden uitgebreid. De bereikbaarheid van de economische centra en mainports moet worden verbeterd. Dit mag echter niet ten koste van alles. De ontwikkeling van de economie en de daarmee samenhangende ontwikkeling van de werkgelegenheid moet plaatsvinden binnen de maatschappelijk vastgestelde randvoorwaarden van leefbaarheid en veiligheid: het duurzame mobiliteitsbeleid. Bij het voeren van dit beleid is sprake van een continu afwegingsproces op het terrein van economie en milieu. Daarnaast wordt zoveel mogelijk gebruik gemaakt van het concurrentie- en prijsmechanisme. Bij het beleid wordt uitgegaan van een gedeelde verantwoordelijkheid tussen bedrijven, burgers en overheid. De beschreven handelingen vinden voor een deel hun basis in de wet- en regelgeving en de verschillende beleidsdocumenten, zoals rapporten, nota’s en werkplannen. Aanvullende informatie is verkregen uit gesprekken met en opmerkingen van medewerkers van de verschillende diensten van het Ministerie van Verkeer en Waterstaat.  
+– Personenvervoer (rapport nr. 86 ‘Personenvervoer’)   Ieder van de genoemde rapporten behandelt de daartoe behorende beleidsterreinen en de daarmee samenhangende handelingen. In het rapport dat als basis dient voor dit BSD komt het overkoepelende, langetermijnbeleid van Verkeer en Waterstaat aan bod. Overkoepeling zal vooral betrekking hebben op de beleidsterreinen verkeer en vervoer en infrastructuur. De andere beleidsterreinen (luchtvaart, telecommunicatie en meteorologie) kennen een vrij autonome beleidsontwikkeling. Het overkoepelende beleidsaspect heeft vooral betrekking op de lange- en middellange termijnplanning. Het gaat hierbij om structuurschema’s en meerjarenplannen. De verkeersveiligheid en infrastructuur zijn reeds behandeld in het rapport ‘Waterstaat’. Het infrastructuurbeleid vanaf 1992 zal echter wel in dit rapport worden behandeld. Vanaf dat moment wordt het infrastructuurbeleid in samenhang met het verkeer en vervoerbeleid ontwikkeld. De uitwerking van het langetermijnbeleid heeft raakvlakken met het milieubeleid. Voor het milieubeleid is de Minister van Milieu de eerst aangewezene. Voor handelingen op dat terrein wordt verwezen naar het BSD milieubeleid. In dit BSD zijn alleen handelingen op het terrein milieubeleid opgenomen die zuiver op het vervoersbeleid betrekking hebben. Hierbij wordt er van uit gegaan dat het vervoersbeleid een bijdrage levert aan het milieubeleid. Voor een verdere afbakening wordt verwezen naar paragraaf 7.4 van het RIO. In dit BSD komen ook handelingen voor op het terrein crisisbeheersing. De taken en handelingen op dit terrein zijn opgenomen in het BSD Brandweerzorg, rampenbestrijding en crisisbeheersing. Echter is in dat BSD geen handeling opgenomen voor de departementale organisatie op dit terrein. In dit BSD komen daarom handelingen van de departementale organisatie op dit terrein aan de orde. Verder heeft de Minister van Verkeer en Waterstaat ook nog een specifieke taak voor het organiseren van het vervoer in crisissituaties, op grond van de Noodvervoerswet. Ook deze handelingen zijn niet opgenomen in het BSD Brandweerzorg, rampenbestrijding en crisisbeheersing en zijn daarom in dit rapport opgenomen. In het verkeers- en vervoerbeleid staat de bijdrage aan een optimale economische, ruimtelijke en sociale structuur centraal. Nederland is hét distributieland van Europa. De transportsector speelt een belangrijke rol in de internationale economische betrekkingen en Nederland haalt hier belangrijke economische voordelen uit. De concurrentiepositie van Nederland op de internationale markt moet in stand gehouden worden en waar mogelijk worden uitgebreid. De bereikbaarheid van de economische centra en mainports moet worden verbeterd. Dit mag echter niet ten koste van alles. De ontwikkeling van de economie en de daarmee samenhangende ontwikkeling van de werkgelegenheid moet plaatsvinden binnen de maatschappelijk vastgestelde randvoorwaarden van leefbaarheid en veiligheid: het duurzame mobiliteitsbeleid. Bij het voeren van dit beleid is sprake van een continu afwegingsproces op het terrein van economie en milieu. Daarnaast wordt zoveel mogelijk gebruik gemaakt van het concurrentie- en prijsmechanisme. Bij het beleid wordt uitgegaan van een gedeelde verantwoordelijkheid tussen bedrijven, burgers en overheid. De beschreven handelingen vinden voor een deel hun basis in de wet- en regelgeving en de verschillende beleidsdocumenten, zoals rapporten, nota’s en werkplannen. Aanvullende informatie is verkregen uit gesprekken met en opmerkingen van medewerkers van de verschillende diensten van het Ministerie van Verkeer en Waterstaat. 
 
 ####2. Actoren
 
@@ -105,7 +105,7 @@ Onder deze zorgdrager vallen de volgende actoren:
 Onder deze zorgdrager vallen de volgende actoren: – Minister van Financiën. 
 ###Zorgdrager Minister van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
 
-Onder deze zorgdrager vallen de volgende actoren: – Commissie Bijdragen Verkeers- en Vervoervoorzieningen in en om de steden.  
+Onder deze zorgdrager vallen de volgende actoren: – Commissie Bijdragen Verkeers- en Vervoervoorzieningen in en om de steden. 
 
 ####3. Selectie
 
@@ -154,7 +154,7 @@ Het BSD geldt als de selectielijst zoals bedoeld in [artikel 5 van het Archiefbe
 Iedere handeling is vastgelegd in een gegevensblok met zes of zeven velden. Op deze wijze: (volgnummer) Handeling: Periode: Bron: Product: Opmerking: Waardering: Iedere handeling is voorzien van een *uniek volgnummer*. Een *handeling* is een complex van activiteiten gericht op het totstandbrengen van een product, dat een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. Een actor kan handelingen via mandatering door organisatieonderdelen of -leden laten verrichten. De handelingen zijn in principe positief geformuleerd. Dat wil zeggen dat bij een handeling als ‘het vaststellen van een regeling’ ook ‘het intrekken van een regeling’ inbegrepen wordt geacht. De *periode* geeft aan wanneer een handeling is uitgevoerd. Als een handeling nog niet is beëindigd, is achter het eerste jaartal alleen een streepje gezet (bijvoorbeeld: 1950–). Deze handelingen waren bij het afsluiten van het onderzoek nog niet beëindigd. Onderhoud aan de selectielijst zal eventuele eindjaren moeten achterhalen. De *bron* of *grondslag* geeft de wet of de regeling krachtens de wet waarop een handeling is gebaseerd. Niet alle handelingen zijn gebaseerd op een grondslag. Dan is de beschrijving van de handeling ontleend aan de literatuur of bronnen. Voor enkele (algemene) handelingen is geen grondslag of bron aangetroffen. Het *product* is het resultaat van de handeling. De gegeven opsommingen van producten zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Soms was het noodzakelijk bepaalde velden in de gegevensblokken te verduidelijken met een *opmerking*. De *waardering* geeft aan welke selectiebeslissing genomen moet worden ten aanzien van de neerslag van de handeling. Zie hiervoor hoofdstuk 4. 
 ###3.4.2 Nummering
 
-De huidige versie van het document is sterk gewijzigd, vooral in indeling, ten opzichte van een eerder concept. Omdat dat eerdere concept al wel is gebruikt om voorlopig te selecteren is besloten om de nummering van de handelingen te laten zoals die al was. Dit houdt in dat de nummering in dit document niet doorloopt. Ook zijn er handelingen vervallen, hetzij omdat ze dubbel waren met andere handelingen, hetzij omdat ze duidelijk niet thuishoorden in dit beleidsterrein. Een overzicht daarvan is te vinden in de bijlagen van het RIO, met een eventuele verwijzing.  
+De huidige versie van het document is sterk gewijzigd, vooral in indeling, ten opzichte van een eerder concept. Omdat dat eerdere concept al wel is gebruikt om voorlopig te selecteren is besloten om de nummering van de handelingen te laten zoals die al was. Dit houdt in dat de nummering in dit document niet doorloopt. Ook zijn er handelingen vervallen, hetzij omdat ze dubbel waren met andere handelingen, hetzij omdat ze duidelijk niet thuishoorden in dit beleidsterrein. Een overzicht daarvan is te vinden in de bijlagen van het RIO, met een eventuele verwijzing. 
 
 ####4. Selectielijst
 
@@ -268,7 +268,7 @@ Handeling: Het voorbereiden en sluiten van het convenant VERDI in het kader van 
 Handeling: Het beheren van het Mobiliteitsfonds Periode: 1988–1993 Opmerking: Het betreft hier het financieel beheer. De resultaten worden in de begroting van Verkeer en Waterstaat verwerkt. Het leveren van bijdragen aan de totstandkoming en wijziging van de jaarlijkse begrotingen en het voeren van overleg met vertegenwoordigers van de provincies Zuid-Holland, Noord-Holland en Utrecht, van de gemeenten Amsterdam, Rotterdam, Den Haag en Utrecht en van de Vereniging Nederlandse Gemeenten betreffende het verstrekken van een bijdrage worden als activiteiten van deze handeling gezien. (Voormalig handeling 86 en 88) Bron: Wet op het Mobiliteitsfonds 1988 Stb. 657, art. 2.3 Waardering: V 10 
 ###(92)
 
-Handeling: Het in projectverband leveren van bijdragen aan een haalbaarheidsonderzoek van infrastructuurprojecten in de Randstad Periode: 1988–1993 Product: bijdragen aan haalbaarheidsstudies Bron: PBR, 2 <sup>e</sup> werkprogramma, p. 30–32 Waardering: V 10 
+Handeling: Het in projectverband leveren van bijdragen aan een haalbaarheidsonderzoek van infrastructuurprojecten in de Randstad Periode: 1988–1993 Product: bijdragen aan haalbaarheidsstudies Bron: PBR, 2<sup>e</sup> werkprogramma, p. 30–32 Waardering: V 10 
 ###7 Uitwerking langetermijnbeleid
 
 ###7.1 Verkeersinfrastructuur
@@ -443,7 +443,7 @@ Handeling: Het opstellen en inbrengen van Nederlandse bijdragen en standpunten i
 
 ###(137)
 
-Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen op het gebied van verkeer en vervoer in de bestuursorganen, werkgroepen, adviesorganen en symposia van de CEMT Periode: 1953– Product: instructies, bijdragen en verslagen Bron: CEMT, 25 <sup>th</sup> anniversary Waardering: B 1 
+Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen op het gebied van verkeer en vervoer in de bestuursorganen, werkgroepen, adviesorganen en symposia van de CEMT Periode: 1953– Product: instructies, bijdragen en verslagen Bron: CEMT, 25<sup>th</sup> anniversary Waardering: B 1 
 ###10.5 Economic Commission for Europe (ECE)
 
 ###(138)
@@ -561,7 +561,7 @@ Handeling: Het oefenen en evalueren van de oefeningen van crisissituaties met de
 Handeling: Het verzorgen van opleidingen op het terrein crisismanagement Periode: 1999– Bron: Interview met J.H. van Wissen Waardering: V 5 
 ###(174)
 
-Handeling: Het opzetten van een kennisbank op het terrein crisismanagement Periode: 1999– Bron: Instellingsbesluit DVV-V&W (Stcrt. 1999, nr. 249) Waardering: V 10  
+Handeling: Het opzetten van een kennisbank op het terrein crisismanagement Periode: 1999– Bron: Instellingsbesluit DVV-V&W (Stcrt. 1999, nr. 249) Waardering: V 10 
 
 #### *4.2 Actor: Minister van Buitenlandse Zaken* 
 
@@ -573,7 +573,7 @@ Handeling: Het informeren en adviseren van en overleggen met de departementsleid
 Handeling: Het bemiddelen voor bedrijven bij acuut optredende problemen in het buitenland op vervoersgebied Periode: 1945– Bron: Archiefplan Verkeersadviseur, p. 3–4 Waardering: V 20 
 ###(148)
 
-Handeling: Het vertegenwoordigen van het Ministerie van Buitenlandse Zaken in werkgroepen, overleggen en commissies op het gebied van verkeer en vervoer Periode: 1945– Product: verslagen Opmerking: Hieronder valt zowel interdepartementaal als internationaal overleg Bron: Archiefplan Verkeersadviseur, p. 3–4 Waardering: V 20  
+Handeling: Het vertegenwoordigen van het Ministerie van Buitenlandse Zaken in werkgroepen, overleggen en commissies op het gebied van verkeer en vervoer Periode: 1945– Product: verslagen Opmerking: Hieronder valt zowel interdepartementaal als internationaal overleg Bron: Archiefplan Verkeersadviseur, p. 3–4 Waardering: V 20 
 
 #### *4.3 Actor: Minister van Defensie* 
 
@@ -600,19 +600,19 @@ Handeling: Het voorbereiden van aanstellingen van opsporingsambtenaren zoals bed
 Handeling: Het vaststellen van voorschriften waarmee het vervoer en de vervoermiddelen in oorlogstijd dwingend geregeld kan worden Periode: 1963– Product: Voorschriften Opmerking: Door of vanwege de Directeur Binnenlands Vervoer worden de voorschriften uitgevoerd. De voorschriften betreffen onder meer: – het verstrekken van vervoersvergunningen – het aanwijzen van vervoermiddelen voor vervoer van bepaalde personen of goederen – het geven van aanwijzingen t.a.v. het onderhoud van bepaalde vervoermiddelen – de registratie van vervoermiddelen Bron: Vervoersnoodwet, art. 8–10, 12, 16, 17 Waardering: B 6 
 ###(164b)
 
-Handeling: Het voorbereiden van eventueel door het College van Bewindvoering in oorlogstijd vast te stellen voorschriften Periode: 1963– Product: Voorschriften Opmerking: De Directeur Binnenlands Vervoer voert de voorschriften uit. Deze betreffen de vaststelling van tarieven en voorwaarden voor vervoer Bron: Vervoersnoodwet, art. 11 Waardering: B 6  
+Handeling: Het voorbereiden van eventueel door het College van Bewindvoering in oorlogstijd vast te stellen voorschriften Periode: 1963– Product: Voorschriften Opmerking: De Directeur Binnenlands Vervoer voert de voorschriften uit. Deze betreffen de vaststelling van tarieven en voorwaarden voor vervoer Bron: Vervoersnoodwet, art. 11 Waardering: B 6 
 
 #### *4.4 Actor: Militaire Autoriteit* 
 
 ###(157b)
 
-Handeling: Het voorbereiden van een machtiging door de Kroon aan de Minister van Defensie of een door deze aan te wijzen militaire autoriteit tot het geven van aanwijzingen als bedoeld in artikel 13 van de Vervoersnoodwet Periode: 1963– Product: Ontwerp KB Bron: Vervoersnoodwet, art. 4 Waardering: B 6  
+Handeling: Het voorbereiden van een machtiging door de Kroon aan de Minister van Defensie of een door deze aan te wijzen militaire autoriteit tot het geven van aanwijzingen als bedoeld in artikel 13 van de Vervoersnoodwet Periode: 1963– Product: Ontwerp KB Bron: Vervoersnoodwet, art. 4 Waardering: B 6 
 
 #### *4.5 Actor: Minister van Financiën* 
 
 ###(62b)
 
-Handeling: Het in gezamenlijk overleg met de Minister van Verkeer en Waterstaat aanpassen van de infrastructuurtoeslag Periode: 1993–1996 Bron: Wet Infrastructuurfonds, art. 7.2, vervallen in 1996 (Stb. 1996, 637) Waardering: B 5  
+Handeling: Het in gezamenlijk overleg met de Minister van Verkeer en Waterstaat aanpassen van de infrastructuurtoeslag Periode: 1993–1996 Bron: Wet Infrastructuurfonds, art. 7.2, vervallen in 1996 (Stb. 1996, 637) Waardering: B 5 
 
 #### *4.6 Actor: Adviescommissie voor Europese Vervoeraangelegenheden* 
 
@@ -621,25 +621,25 @@ Handeling: Het in gezamenlijk overleg met de Minister van Verkeer en Waterstaat 
 Handeling: Het voeren van overleg tussen de overheid en het bedrijfsleven ten aanzien van Europese vervoeraangelegenheden Periode: 1960–1992 Product: verslagen Bron: Beschikking Adviescommissie voor Europese vervoeraangelegenheden 1960 Stcrt. 61, art. 1 Waardering: V 5 
 ###(18)
 
-Handeling: Het voorlichten van de Minister over alle aangelegenheden welke zich bij de ontwikkeling van de Europese samenwerking op het gebied van vervoer voordoen Periode: 1960–1992 Bron: Beschikking Adviescommissie voor Europese vervoeraangelegenheden 1960 Stcrt. 61, art.1 Waardering: V 5  
+Handeling: Het voorlichten van de Minister over alle aangelegenheden welke zich bij de ontwikkeling van de Europese samenwerking op het gebied van vervoer voordoen Periode: 1960–1992 Bron: Beschikking Adviescommissie voor Europese vervoeraangelegenheden 1960 Stcrt. 61, art.1 Waardering: V 5 
 
 #### *4.7 Actor: Adviesdienst Verkeer en Vervoer* 
 
 ###(53)
 
-Handeling: Het adviseren van en het leveren van informatie aan de Minister, andere overheden en belangenorganisaties met betrekking tot het verkeer en vervoer Periode: 1993– Product: adviezen, rapporten, onderzoeken Bron: Staatsalmanak Waardering: B 1  
+Handeling: Het adviseren van en het leveren van informatie aan de Minister, andere overheden en belangenorganisaties met betrekking tot het verkeer en vervoer Periode: 1993– Product: adviezen, rapporten, onderzoeken Bron: Staatsalmanak Waardering: B 1 
 
 #### *4.8 Actor: Bestuurlijk Overleg Randstad* 
 
 ###(89)
 
-Handeling: Het vaststellen van het algemeen beleid en van de werkprogramma’s in het kader van het Bereikbaarheidsplan Randstad Periode: 1987–1993 Product: rapporten, convenanten, werkprogramma’s Waardering: B 1  
+Handeling: Het vaststellen van het algemeen beleid en van de werkprogramma’s in het kader van het Bereikbaarheidsplan Randstad Periode: 1987–1993 Product: rapporten, convenanten, werkprogramma’s Waardering: B 1 
 
 #### *4.9 Actor: Commissie Bijdragen Verkeers- en Vervoersvoorzieningen in en om de Steden* 
 
 ###(19)
 
-Handeling: Het adviseren van de minister betreffende rijksbijdragen in de kosten van lagere overheden bij het treffen van verkeers- en vervoersvoorzieningen Periode: 1975–1988 Product: adviezen Opmerking: Handelingen betreffende de bijdrageregeling zijn opgenomen in het rapport ‘Waterstaat’, handelingen 481–482 Bron: Instelling Commissie bijdragen verkeers- en vervoersvoorzieningen in en om de steden 1975 Stcrt. 213 Waardering: V 5  
+Handeling: Het adviseren van de minister betreffende rijksbijdragen in de kosten van lagere overheden bij het treffen van verkeers- en vervoersvoorzieningen Periode: 1975–1988 Product: adviezen Opmerking: Handelingen betreffende de bijdrageregeling zijn opgenomen in het rapport ‘Waterstaat’, handelingen 481–482 Bron: Instelling Commissie bijdragen verkeers- en vervoersvoorzieningen in en om de steden 1975 Stcrt. 213 Waardering: V 5 
 
 #### *4.10 Actor: Commissie Verkeers- en Vervoeronderzoek* 
 
@@ -648,19 +648,19 @@ Handeling: Het adviseren van de minister betreffende rijksbijdragen in de kosten
 Handeling: Het adviseren van de Minister van Verkeer en Waterstaat over en stimuleren van de samenwerking bij de uitvoering van lopend en het starten van nieuw onderzoek op het gebied van verkeer en vervoer Periode: 1980–1983 Product: adviezen Bron: Instelling Commissie Verkeers- en Vervoeronderzoek 1980 Stcrt. 248, art. 2 Waardering: V 5 
 ###(21)
 
-Handeling: Het jaarlijks verslag uitbrengen aan de minister met betrekking tot de verrichtingen van de commissie Periode: 1980–1983 Product: jaarverslagen Bron: Instelling Commissie Verkeers- en Vervoeronderzoek 1980 Stcrt. 248, art. 3 Waardering: B 3  
+Handeling: Het jaarlijks verslag uitbrengen aan de minister met betrekking tot de verrichtingen van de commissie Periode: 1980–1983 Product: jaarverslagen Bron: Instelling Commissie Verkeers- en Vervoeronderzoek 1980 Stcrt. 248, art. 3 Waardering: B 3 
 
 #### *4.11 Actor: Projectgroep Bereikbaarheidsplan Randstad* 
 
 ###(90)
 
-Handeling: Het voorbereiden van het bestuurlijk overleg Randstad en het programmeren, coördineren en toezicht houden op de uitvoering van de projecten in het kader van het Bereikbaarheidsplan Periode: 1987–1993 Product: werkprogramma’s, adviesrapporten, voortgangsrapportages, evaluatierapportages Opmerking: Voorganger van de PBR is de Projectgroep Mobiliteitsscenario Randstad (1987–1988) Secretariaat en voorzitterschap berusten bij DGV De periodieke voortgangsrapportages vinden plaats in het kader van de controleprocedure Grote Projecten Waardering: V 5  
+Handeling: Het voorbereiden van het bestuurlijk overleg Randstad en het programmeren, coördineren en toezicht houden op de uitvoering van de projecten in het kader van het Bereikbaarheidsplan Periode: 1987–1993 Product: werkprogramma’s, adviesrapporten, voortgangsrapportages, evaluatierapportages Opmerking: Voorganger van de PBR is de Projectgroep Mobiliteitsscenario Randstad (1987–1988) Secretariaat en voorzitterschap berusten bij DGV De periodieke voortgangsrapportages vinden plaats in het kader van de controleprocedure Grote Projecten Waardering: V 5 
 
 #### *4.12 Actor: Regionale Stuurgroepen Bereikbaarheidsplan Randstad* 
 
 ###(91)
 
-Handeling: Het leveren van bijdragen voor de werkprogramma’s en het coördineren en rapporteren van en over de uitvoering van de werkprogramma’s Periode: 1988–1993 Product: conceptwerkprogramma’s Opmerking: Het secretariaat wordt eerst door de PBR verzorgd en naderhand door een ambtenaar van een van de regionale directies van RWS Bron: Convenant BPR Waardering: V 5  
+Handeling: Het leveren van bijdragen voor de werkprogramma’s en het coördineren en rapporteren van en over de uitvoering van de werkprogramma’s Periode: 1988–1993 Product: conceptwerkprogramma’s Opmerking: Het secretariaat wordt eerst door de PBR verzorgd en naderhand door een ambtenaar van een van de regionale directies van RWS Bron: Convenant BPR Waardering: V 5 
 
 #### *4.13 Actor: Stichting Transporttechnologie* 
 
@@ -675,7 +675,7 @@ Handeling: Het vaststellen van projectreglementen die het kader bepalen waarbinn
 Handeling: Het jaarlijks opstellen van een begroting met activiteitenplan voor het komende jaar gespecificeerd naar Centrum en pilotprojecten Periode: 1994–1999 Bron: Bijdrageregeling ICES-project kennisinfrastructuur 1995, art 21–26 Waardering: V 10 
 ###(115)
 
-Handeling: Het tweemaal per jaar uitbrengen van een verslag van de activiteiten van de stichting Periode: 1994–1999 Product: rapportages Opmerking: Er zijn twee rapportages, te weten: – een tussentijdse financiële rapportage die de stand van zaken weergeeft per 30 september; – een inhoudelijk en financieel verslag over het voorgaande kalenderjaar Dit laatste verslag wordt opgesteld middels een door de minister verstrekt model en is gespecificeerd naar de activiteiten van het centrum en de activiteiten ter uitvoering van de pilotprojecten. Ze zijn voorzien van een controlerapport van een register-accountant Bron: Bijdrageregeling ICES-project kennisinfrastructuur 1995, art. 27–28 Waardering: B 3  
+Handeling: Het tweemaal per jaar uitbrengen van een verslag van de activiteiten van de stichting Periode: 1994–1999 Product: rapportages Opmerking: Er zijn twee rapportages, te weten: – een tussentijdse financiële rapportage die de stand van zaken weergeeft per 30 september; – een inhoudelijk en financieel verslag over het voorgaande kalenderjaar Dit laatste verslag wordt opgesteld middels een door de minister verstrekt model en is gespecificeerd naar de activiteiten van het centrum en de activiteiten ter uitvoering van de pilotprojecten. Ze zijn voorzien van een controlerapport van een register-accountant Bron: Bijdrageregeling ICES-project kennisinfrastructuur 1995, art. 27–28 Waardering: B 3 
 
 #### *4.14 Actor: Stuurgroep Verkeer en Vervoer* 
 
@@ -684,13 +684,13 @@ Handeling: Het tweemaal per jaar uitbrengen van een verslag van de activiteiten 
 Handeling: Het ontwikkelen van een wettelijke planningsstructuur op het terrein van verkeer en vervoer Periode: 1973–1992 Product: o.a. Planwet Verkeer en Vervoer Opmerking: De beleidsontwikkeling is in handen gegeven van de interdepartementale werkgroep Planningsstructuur Verkeer en Vervoer Bron: Stuurgroep Verkeer en Vervoer, p. 8 Waardering: B 1 
 ###(73a)
 
-Handeling: Het opstellen van prognoses over de toekomstige ontwikkeling van het verkeer en vervoer Periode: 1973–1992 Opmerking: Hiertoe is het project Questa in het leven geroepen Bron: Organisatiegids V&W, p. 70 Waardering: B 1  
+Handeling: Het opstellen van prognoses over de toekomstige ontwikkeling van het verkeer en vervoer Periode: 1973–1992 Opmerking: Hiertoe is het project Questa in het leven geroepen Bron: Organisatiegids V&W, p. 70 Waardering: B 1 
 
 #### *4.15 Actor: Vervoersraad* 
 
 ###(159)
 
-Handeling: Het adviseren van de Ministers van Verkeer en Waterstaat en Defensie en het College van Bewindvoering Binnenlands bestuur omtrent de uitvoering van de Vervoersnoodwet Periode: 1963– Product: Adviezen Opmerking: Tot op heden is deze Raad nog nooit ingesteld Bron: Vervoersnoodwet, art. 5 Waardering: B 6  
+Handeling: Het adviseren van de Ministers van Verkeer en Waterstaat en Defensie en het College van Bewindvoering Binnenlands bestuur omtrent de uitvoering van de Vervoersnoodwet Periode: 1963– Product: Adviezen Opmerking: Tot op heden is deze Raad nog nooit ingesteld Bron: Vervoersnoodwet, art. 5 Waardering: B 6 
 
 #### *4.16 Actor: (Voorlopige) Raad voor Verkeer en Waterstaat* 
 
@@ -753,5 +753,5 @@ Handeling: Het jaarlijks uitbrengen van een schriftelijk verslag aan de minister
 Handeling: Het met instemming van de minister op verzoek of uit eigen beweging instellen van commissies Periode: 1987–1992 Bron: Besluit Voorlopige raad voor het vervoer 1987, art. 8 Waardering: B 4 
 ###(34)
 
-Handeling: Het bij de minister indienen van een begrotingsvoorstel voor het komende jaar ten behoeve van het opstellen van een begroting Periode: 1987–1992 Opmerking: Dit dient ieder jaar te gebeuren voor 1 maart Bron: Besluit Voorlopige raad voor het vervoer 1987, art. 11.2 Waardering: V 10.  
+Handeling: Het bij de minister indienen van een begrotingsvoorstel voor het komende jaar ten behoeve van het opstellen van een begroting Periode: 1987–1992 Opmerking: Dit dient ieder jaar te gebeuren voor 1 maart Bron: Besluit Voorlopige raad voor het vervoer 1987, art. 11.2 Waardering: V 10. 
 

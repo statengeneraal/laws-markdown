@@ -10,36 +10,36 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op beleidsterrein Bevolkingsadministratie en reisdocumenten over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op beleidsterrein Bevolkingsadministratie en reisdocumenten over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 13 maart 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 Project directeur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der Kooij    
 
 ####Basisselectiedocument bevolkingsadministratie en reisdocumenten
 
 ####Een instrument voor de selectie van de administratieve neerslag van het handelen van de overheidsorganen vanaf 1945
 
-*Minister van Binnenlandse Zaken en Koninkrijksrelaties;*   *Minister van Buitenlandse Zaken;*   *Minister van Financiën;*   *Minister van Defensie;*   *Minister van Algemene Zaken;*   *Minister van Volksgezondheid, Welzijn en Sport;*   *Minister van Sociale Zaken en Werkgelegenheid;*   *Minister van Justitie.*  
+*Minister van Binnenlandse Zaken en Koninkrijksrelaties;* *Minister van Buitenlandse Zaken;*   *Minister van Financiën;*   *Minister van Defensie;*   *Minister van Algemene Zaken;*   *Minister van Volksgezondheid, Welzijn en Sport;*   *Minister van Sociale Zaken en Werkgelegenheid;*   *Minister van Justitie.*  
 ###versie maart 2007
 
 ####1. Afkortingen en begrippen
 
-BSD: Basisselectiedocument BiZa: Binnenlandse Zaken GSI: Grote Steden- en Integratiebeleid KNHG: Koninklijk Nederlands Historisch Genootschap NA: Nationaal Archief PIVOT: Project Invoering Verkorting Overbrengingstermijn OCenW: Onderwijs, Cultuur en Wetenschappen RAD: Rijksarchiefdienst RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stcrt.: Staatscourant WVC: Welzijn, Volksgezondheid en Cultuur actor: overheidsorgaan of particuliere organisatie/persoon die een rol speelt op een beleidsterrein Handeling: complex van activiteiten, gericht op het tot stand brengen van een product, dat een actor verricht ter vervulling van een taak of op grond van een bevoegdheid B: de selectiebeslissing ‘(blijvend) te bewaren’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling V: de selectiebeslissing ‘(op termijn) te vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling.  
+BSD: Basisselectiedocument BiZa: Binnenlandse Zaken GSI: Grote Steden- en Integratiebeleid KNHG: Koninklijk Nederlands Historisch Genootschap NA: Nationaal Archief PIVOT: Project Invoering Verkorting Overbrengingstermijn OCenW: Onderwijs, Cultuur en Wetenschappen RAD: Rijksarchiefdienst RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stcrt.: Staatscourant WVC: Welzijn, Volksgezondheid en Cultuur actor: overheidsorgaan of particuliere organisatie/persoon die een rol speelt op een beleidsterrein Handeling: complex van activiteiten, gericht op het tot stand brengen van een product, dat een actor verricht ter vervulling van een taak of op grond van een bevoegdheid B: de selectiebeslissing ‘(blijvend) te bewaren’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling V: de selectiebeslissing ‘(op termijn) te vernietigen’ ten aanzien van de archiefbescheiden die de neerslag vormen van een gewaardeerde handeling. 
 
 ####2. Verantwoording
 
@@ -53,7 +53,7 @@ Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../../wet/arch
 
 3. de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;  
 
-4. het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- of bewijszoekenden en historisch onderzoek.   Voorts moeten ingevolge [art. 3 van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst.  
+4. het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- of bewijszoekenden en historisch onderzoek.   Voorts moeten ingevolge [art. 3 van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. 
 
 #### *2.2. Het Basisselectiedocument* 
 
@@ -69,36 +69,36 @@ d. De minister waaronder Cultuur ressorteert hoort de Raad voor Cultuur.
 
 e. De minister waaronder Cultuur ressorteert en de Minister van Binnenlandse Zaken en Koninkrijksrelaties stellen het BSD vast.  
 
-f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatscourant.    
+f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatscourant.   
 
 #### *2.3. Rapport Institutioneel Onderzoek en Basisselectiedocument betreffende het beleidsterrein* 
 
 #### *2.3.1. Rapport ‘Burgers te boek’* 
 
-Het PIVOT-rapport *Burgers te boek: Een institutioneel onderzoek naar het beleidsterrein bevolkingsadministratie en reisdocumenten, 1945–1999* vormt de grondslag voor dit BSD. Het RIO geeft een historische beschrijving van het beleidsterrein Bevolkingsadministratie en reisdocumenten. Met dit beleidsterrein wordt beoogd vorm en samenhang te geven aan het beleid van de Nederlandse overheid ten aanzien van bevolkingsadministratie en reisdocumenten, alsmede aan de tenuitvoerlegging daarvan. Het rapport behelst het onderzoek naar het bevolkingsadministratie- en reisdocumentenbeleid vanaf 1945. Eigenlijk gaat het hierbij om drie (deel)beleidsterreinen: het bevolkingsadministratiebeleid, het reisdocumentenbeleid en het beleid inzake de nationale chipcard. Het bevolkingsadministratiebeleid, dat rond het midden van de negentiende eeuw in de vorm van het bevolkingsregister gestalte kreeg, viel van meet af aan onder de zorg van de Minister van Binnenlandse Zaken. Binnen dit onderdeel van het rapport is een onderverdeling te maken tussen ‘bevolkingsregister’ (tot 1994), het niet tot definitieve uitvoering gekomen project Centrale Personenadministratie (CPA) en de ontwikkeling en implementatie van de Gemeentelijke Basisadministratie persoonsgegevens (vanaf 1991/1994). Voor het paspoort- of reisdocumentenbeleid was aanvankelijk (vanaf 1813) de Minister van Buitenlandse Zaken verantwoordelijk, maar in 1992 is dit (deel)beleidsterrein aan de Minister van Binnenlandse Zaken overgedragen. De afweging dat bij het ‘personaliseren’ (op naam zetten) van een reisdocument zwaar geleund werd op het bevolkingsregister en dat in het kader van de fraudebestrijding een betere coördinatie tussen beide beleidsterreinen wenselijk was, zal tot deze overdracht geleid hebben. Het derde beleidsterrein, dat van de nationale chipcard, is van recente datum, te weten 1993, toen de Minister van Binnenlandse Zaken de ontwikkeling van een kaart met elektronische gegevens als legitimatiebewijs ter hand nam. Deze drie deelbeleidsterreinen zijn bij het aantreden van het kabinet Kok II, medio 1998, overgedragen aan de minister voor Grote Steden- en Integratiebeleid. De Minister van Binnenlandse Zaken (BiZa) en de minister voor Grote Steden- en Integratiebeleid (GSI) zijn de belangrijkste actoren op het beleidsterrein. Na de opstelling van het Rapport Institutioneel Onderzoek (RIO) ‘Burgers te boek: een institutioneel onderzoek naar het beleidsterrein Bevolkingsadministratie en reisdocumenten, 1945–1999’ en het daarop gebaseerde basisselectiedocument (BSD) is aanvullend onderzoek gedaan. Beide werkstukken hebben betrekking op de periode tot en met 1999. Sindsdien hebben de ontwikkelingen op het gebied van bevolkingsadministratie en reisdocumenten niet stilgestaan. Door het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten (BPR) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is daarom verzocht om, in het kader van de verbetering van de informatievoorziening en -huishouding, het al bestaande werk te actualiseren voor wat betreft de nieuwe handelingen van de minister die de bevolkingsadministratie en reisdocumenten in portefeuille heeft. De actualisatie houdt overigens niet in dat er handelingen uit het oorspronkelijke RIO en BSD in dit document worden overgenomen en van verbeteringen worden voorzien (zo is de hoofdactor op het gebied van basisadministratie en reisdocumenten sinds medio 2003 niet meer de minister voor Grote Steden- en Integratiebeleid, maar de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties). Wel zijn er drie nieuwe actoren bijgekomen, namelijk de voornoemde minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, Adviescommissie Modernisering GBA en de Adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn). Het in 2001 en 2002 verrichte onderzoek naar het beleidsterrein werd uitgevoerd in het kader van de tussen de Algemene Rijksarchivaris en de secretaris-generaal van het Ministerie van BiZa gesloten convenant. In dit convenant zijn afspraken vastgelegd inzake de overdracht van de na 1940 gevormde archieven. Het rapport zal, nadat het is vastgesteld door het Ministerie van BZK, worden gepubliceerd in de PIVOT-reeks.  
+Het PIVOT-rapport *Burgers te boek: Een institutioneel onderzoek naar het beleidsterrein bevolkingsadministratie en reisdocumenten, 1945–1999* vormt de grondslag voor dit BSD. Het RIO geeft een historische beschrijving van het beleidsterrein Bevolkingsadministratie en reisdocumenten. Met dit beleidsterrein wordt beoogd vorm en samenhang te geven aan het beleid van de Nederlandse overheid ten aanzien van bevolkingsadministratie en reisdocumenten, alsmede aan de tenuitvoerlegging daarvan. Het rapport behelst het onderzoek naar het bevolkingsadministratie- en reisdocumentenbeleid vanaf 1945. Eigenlijk gaat het hierbij om drie (deel)beleidsterreinen: het bevolkingsadministratiebeleid, het reisdocumentenbeleid en het beleid inzake de nationale chipcard. Het bevolkingsadministratiebeleid, dat rond het midden van de negentiende eeuw in de vorm van het bevolkingsregister gestalte kreeg, viel van meet af aan onder de zorg van de Minister van Binnenlandse Zaken. Binnen dit onderdeel van het rapport is een onderverdeling te maken tussen ‘bevolkingsregister’ (tot 1994), het niet tot definitieve uitvoering gekomen project Centrale Personenadministratie (CPA) en de ontwikkeling en implementatie van de Gemeentelijke Basisadministratie persoonsgegevens (vanaf 1991/1994). Voor het paspoort- of reisdocumentenbeleid was aanvankelijk (vanaf 1813) de Minister van Buitenlandse Zaken verantwoordelijk, maar in 1992 is dit (deel)beleidsterrein aan de Minister van Binnenlandse Zaken overgedragen. De afweging dat bij het ‘personaliseren’ (op naam zetten) van een reisdocument zwaar geleund werd op het bevolkingsregister en dat in het kader van de fraudebestrijding een betere coördinatie tussen beide beleidsterreinen wenselijk was, zal tot deze overdracht geleid hebben. Het derde beleidsterrein, dat van de nationale chipcard, is van recente datum, te weten 1993, toen de Minister van Binnenlandse Zaken de ontwikkeling van een kaart met elektronische gegevens als legitimatiebewijs ter hand nam. Deze drie deelbeleidsterreinen zijn bij het aantreden van het kabinet Kok II, medio 1998, overgedragen aan de minister voor Grote Steden- en Integratiebeleid. De Minister van Binnenlandse Zaken (BiZa) en de minister voor Grote Steden- en Integratiebeleid (GSI) zijn de belangrijkste actoren op het beleidsterrein. Na de opstelling van het Rapport Institutioneel Onderzoek (RIO) ‘Burgers te boek: een institutioneel onderzoek naar het beleidsterrein Bevolkingsadministratie en reisdocumenten, 1945–1999’ en het daarop gebaseerde basisselectiedocument (BSD) is aanvullend onderzoek gedaan. Beide werkstukken hebben betrekking op de periode tot en met 1999. Sindsdien hebben de ontwikkelingen op het gebied van bevolkingsadministratie en reisdocumenten niet stilgestaan. Door het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten (BPR) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is daarom verzocht om, in het kader van de verbetering van de informatievoorziening en -huishouding, het al bestaande werk te actualiseren voor wat betreft de nieuwe handelingen van de minister die de bevolkingsadministratie en reisdocumenten in portefeuille heeft. De actualisatie houdt overigens niet in dat er handelingen uit het oorspronkelijke RIO en BSD in dit document worden overgenomen en van verbeteringen worden voorzien (zo is de hoofdactor op het gebied van basisadministratie en reisdocumenten sinds medio 2003 niet meer de minister voor Grote Steden- en Integratiebeleid, maar de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties). Wel zijn er drie nieuwe actoren bijgekomen, namelijk de voornoemde minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, Adviescommissie Modernisering GBA en de Adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn).  Het in 2001 en 2002 verrichte onderzoek naar het beleidsterrein werd uitgevoerd in het kader van de tussen de Algemene Rijksarchivaris en de secretaris-generaal van het Ministerie van BiZa gesloten convenant. In dit convenant zijn afspraken vastgelegd inzake de overdracht van de na 1940 gevormde archieven. Het rapport zal, nadat het is vastgesteld door het Ministerie van BZK, worden gepubliceerd in de PIVOT-reeks. 
 
 #### *2.3.2. Het BSD Bevolkingsadministratie en reisdocumenten (BPR)* 
 
-De indeling van de voor elk der actoren geldende handelingen in dit BSD is gebaseerd op de in het Rapport Institutioneel Onderzoek betreffende bevolkingsadministratie en reisdocumenten gehanteerde indelingsprincipe van bevolkingsadministratie, reisdocumenten en chipcardontwikkeling en daarbinnen gebruikte onderverdelingen. De in dit BSD opgenomen waarderingen zijn bepalend voor de selectie van de administratieve neerslag van de handelingen van de overheid op het beleidsterrein Bevolkingsadministratie en reisdocumenten.  
+De indeling van de voor elk der actoren geldende handelingen in dit BSD is gebaseerd op de in het Rapport Institutioneel Onderzoek betreffende bevolkingsadministratie en reisdocumenten gehanteerde indelingsprincipe van bevolkingsadministratie, reisdocumenten en chipcardontwikkeling en daarbinnen gebruikte onderverdelingen. De in dit BSD opgenomen waarderingen zijn bepalend voor de selectie van de administratieve neerslag van de handelingen van de overheid op het beleidsterrein Bevolkingsadministratie en reisdocumenten. 
 
 #### *2.4. Selectiedoelstelling* 
 
-Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Bij de behandeling van het ontwerp van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer op 13 april 1994 verwoordde de Minister van WVC deze doelstelling als volgt: het mogelijk maken van een reconstructie van de hoofdlijnen van het handelen van de overheid. Door het Convent van Rijksarchivarissen is de selectiedoelstelling vertaald in de richting van de (bewaar)doelstelling van de RAD als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring’. De algemene selectiedoelstelling is in dit BSD geoperationaliseerd voor het beleidsterrein Bevolkingsadministratie en reisdocumenten. Bij de hier geformuleerde selectievoorstellen stond steeds de vraag centraal: ten aanzien van welke handelingen is de administratieve neerslag noodzakelijk om een reconstructie mogelijk te maken van de hoofdlijnen van het overheidshandelen op het beleidsterrein?  
+Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Bij de behandeling van het ontwerp van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer op 13 april 1994 verwoordde de Minister van WVC deze doelstelling als volgt: het mogelijk maken van een reconstructie van de hoofdlijnen van het handelen van de overheid. Door het Convent van Rijksarchivarissen is de selectiedoelstelling vertaald in de richting van de (bewaar)doelstelling van de RAD als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring’. De algemene selectiedoelstelling is in dit BSD geoperationaliseerd voor het beleidsterrein Bevolkingsadministratie en reisdocumenten. Bij de hier geformuleerde selectievoorstellen stond steeds de vraag centraal: ten aanzien van welke handelingen is de administratieve neerslag noodzakelijk om een reconstructie mogelijk te maken van de hoofdlijnen van het overheidshandelen op het beleidsterrein? 
 
 #### *2.5. Selectiecriteria* 
 
 Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met *B* (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan een van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan *V* (‘vernietigen’), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Overigens verlangt [art. 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in exceptionele gevallen te bewaren op grond van een uitzonderingscriterium. PIVOT heeft daarom het volgende uitzonderingscriterium geformuleerd:  *Ingevolge artikel 5, onder e, van het Archiefbesluit 1995 kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.*  In het voorliggende BSD is van deze mogelijkheid overigens geen gebruikgemaakt. Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de volgende algemene selectiecriteria: 
 ###Algemeen selectiecriterium
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren. *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen. *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt. *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten. *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.  
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren.  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen.  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt.  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten.   *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
 
 #### *2.6. Leeswijzer bij de handelingenlijst* 
 
-In hoofdstuk 3 staan de handelingen van overheidsorganen op het beleidsterrein Bevolkingsregistratie en reisdocumenten beschreven. Deze zijn naar actor geordend. De handelingen worden beschreven in een handelingenblok, zoals hierna aangegeven. (X): Dit is het nummer van de handeling. Deze nummering is uit het bijbehorende RIO overgenomen. Een handeling kan echter door verschillende actoren (gelijktijdig of opeenvolgend in tijd) zijn uitgevoerd. In dit geval is de betrokken handeling in het BSD uitgesplitst naar de betreffende actoren. Een handeling kan dus onder hetzelfde unieke nummer onder meerdere actoren zijn opgenomen. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. De formulering van de handelingen is in de regel toegespitst op het product. Echter, een handeling als zodanig omvat alle activiteiten die leiden tot het product. Dientengevolge is de neerslag van een handeling niet beperkt tot het (eind)product, maar omvat ze alle archiefbescheiden die in verband daarmee zijn voortgebracht. Zo betreft de neerslag van een beschikkende handeling niet alleen het originele besluit, maar ook alle voorstukken. Aangezien handelingen voortvloeien uit taken en bevoegdheden is het mogelijk dat een vermelde handeling in de praktijk nimmer (volledig) is uitgevoerd. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling op het moment van het verschijnen van het RIO nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. De gegeven opsommingen van producten zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven voorbeeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: De afkorting ‘B’ staat voor ‘bewaren’, dat wil zeggen het na afloop van de wettelijke overbrengingstermijn overdragen aan het NA van de documentaire neerslag (ongeacht de gegevensdrager) van de handeling. Bij een B-handeling is achter de selectiebeslissing aangegeven welk selectiecriterium is toegepast. De afkorting ‘V’ staat voor ‘vernietigen (op termijn)’, oftewel ‘niet overbrengen’. Bij de desbetreffende handelingen wordt de vernietigingstermijn vermeld. Deze termijn betreft het aantal volle jaren dat dient te zijn verlopen sinds het einde van het jaar waarin een archiefbestanddeel (dossier, register, databestand) dat behoort tot de neerslag van de handeling, is afgesloten.  
+In hoofdstuk 3 staan de handelingen van overheidsorganen op het beleidsterrein Bevolkingsregistratie en reisdocumenten beschreven. Deze zijn naar actor geordend. De handelingen worden beschreven in een handelingenblok, zoals hierna aangegeven. (X): Dit is het nummer van de handeling. Deze nummering is uit het bijbehorende RIO overgenomen. Een handeling kan echter door verschillende actoren (gelijktijdig of opeenvolgend in tijd) zijn uitgevoerd. In dit geval is de betrokken handeling in het BSD uitgesplitst naar de betreffende actoren. Een handeling kan dus onder hetzelfde unieke nummer onder meerdere actoren zijn opgenomen. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. De formulering van de handelingen is in de regel toegespitst op het product. Echter, een handeling als zodanig omvat alle activiteiten die leiden tot het product. Dientengevolge is de neerslag van een handeling niet beperkt tot het (eind)product, maar omvat ze alle archiefbescheiden die in verband daarmee zijn voortgebracht. Zo betreft de neerslag van een beschikkende handeling niet alleen het originele besluit, maar ook alle voorstukken. Aangezien handelingen voortvloeien uit taken en bevoegdheden is het mogelijk dat een vermelde handeling in de praktijk nimmer (volledig) is uitgevoerd. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling op het moment van het verschijnen van het RIO nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. De gegeven opsommingen van producten zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven voorbeeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: De afkorting ‘B’ staat voor ‘bewaren’, dat wil zeggen het na afloop van de wettelijke overbrengingstermijn overdragen aan het NA van de documentaire neerslag (ongeacht de gegevensdrager) van de handeling. Bij een B-handeling is achter de selectiebeslissing aangegeven welk selectiecriterium is toegepast. De afkorting ‘V’ staat voor ‘vernietigen (op termijn)’, oftewel ‘niet overbrengen’. Bij de desbetreffende handelingen wordt de vernietigingstermijn vermeld. Deze termijn betreft het aantal volle jaren dat dient te zijn verlopen sinds het einde van het jaar waarin een archiefbestanddeel (dossier, register, databestand) dat behoort tot de neerslag van de handeling, is afgesloten. 
 
 #### *2.7. Vaststellingsprocedure* 
 
-In 2004 is het ontwerp-BSD door een vertegenwoordig van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties namens de zorgdragers aan destijds de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 janauri 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant. Op 28 februari 2007 bracht de RvC advies uit (arc-2007.03507/7), hetwelk aanleiding heeft gegeven tot het verwijderen van de handelingen van de actor Minister van Economische Zaken uit de ontwerp-selectielijst. Daarop werd het BSD op 13 maart 2007 door de algemene rijksarchivaris namens de Minister van Onderwijs, Cultuur en Wetenschapen de project directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/07/633), de Minister van Buitenlandse Zaken (C/S&A/07/634), de Minister van Financiën (C/S&A/07/635), de Minister van Justitie (C/S&A/07/640), de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/07/639), de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/07/638), de Minister van Algemene Zaken (C/S&A/07/637) en de Minister van Defensie (/S&A/07/636) vastgesteld.  
+In 2004 is het ontwerp-BSD door een vertegenwoordig van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties namens de zorgdragers aan destijds de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 janauri 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant. Op 28 februari 2007 bracht de RvC advies uit (arc-2007.03507/7), hetwelk aanleiding heeft gegeven tot het verwijderen van de handelingen van de actor Minister van Economische Zaken uit de ontwerp-selectielijst. Daarop werd het BSD op 13 maart 2007 door de algemene rijksarchivaris namens de Minister van Onderwijs, Cultuur en Wetenschapen de project directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties (C/S&A/07/633), de Minister van Buitenlandse Zaken (C/S&A/07/634), de Minister van Financiën (C/S&A/07/635), de Minister van Justitie (C/S&A/07/640), de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/07/639), de Minister van Volksgezondheid, Welzijn en Sport (C/S&A/07/638), de Minister van Algemene Zaken (C/S&A/07/637) en de Minister van Defensie (/S&A/07/636) vastgesteld. 
 
 ####Selectielijst
 
@@ -703,7 +703,7 @@ Handeling: Het stellen van regels omtrent heffingen in verband met het verstrekk
 Handeling: Het vaststellen van een tarief voor afstemmingsberichten Periode: 1994–1998 Grondslag: Besluit GBA, 8 september 1994, Stb. 1994/690, art. 69.6 Product: Regeling Opmerking: Het tarief wordt pas vasgesteld, nadat de gemeenten, de betrokken afnemers en de bijzondere derden de mogelijkheid is geboden hun zienswijze naar voren te brengen. Waardering: V 5 jaar na vervanging tarief 
 ###(231.)
 
-Handeling: Het in rekening brengen van een afwijkend tarief voor afstemmingsberichten bij afnemers en bijzondere derden Periode: 1994–1998 Grondslag: Besluit GBA, 8 september 1994, Stb. 1994/690, art. 69.3 Opmerking: Het tarief voor afstemmingsberichten wijkt af van het tarief voor overige berichten.** Waardering: V 7 jaar 
+Handeling: Het in rekening brengen van een afwijkend tarief voor afstemmingsberichten bij afnemers en bijzondere derden Periode: 1994–1998 Grondslag: Besluit GBA, 8 september 1994, Stb. 1994/690, art. 69.3 Opmerking: Het tarief voor afstemmingsberichten wijkt af van het tarief voor overige berichten.**  Waardering: V 7 jaar 
 ###(233.)
 
 Handeling: Het vaststellen van een raming van de verwachte kosten van de verzending van afstemmingsberichten, alsmede van het verwachte aantal afstemmingsberichten Periode: 1994–1998 Grondslag: Besluit GBA, 8 september 1994, Stb. 1994/690, art. 69.9 Waardering: V 5 jaar 
@@ -889,7 +889,7 @@ Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van w
 Handeling: Het instellen van een interdepartementale adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn) Periode: 2001–2002 Product: instellingsbesluit Opmerking: De Minister van BZK was secretariaatshouder van de Regiecommissie Stroomlijning Basisgegevens, die de Commissie-van Thijn instelde. Waardering: B (4) 
 ###(396.)
 
-Handeling: Het benoemen van voorzitter en leden van de interdepartementale adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn) Periode: 2001–2002 Product: benoemingsbesluiten Waardering: V 5 jaar na einde benoeming  
+Handeling: Het benoemen van voorzitter en leden van de interdepartementale adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn) Periode: 2001–2002 Product: benoemingsbesluiten Waardering: V 5 jaar na einde benoeming 
 
 #### *3.2. Minister voor Grote Steden- en Integratiebeleid* 
 
@@ -1474,7 +1474,7 @@ Handeling: Het instellen van het Nationaal Chipcard Platform Periode: 1998–199
 Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van het beleid betreffende (invoering van) persoonsnummers Periode: 1988– Product: o.a. beleidsnota’s, beleidsnotitie’s, rapporten, adviezen, evaluaties Opmerking: Deze handeling is een verbijzondering van de handelingen 1 en 2 uit het Pivot-rapport ‘Burgers te boek’, aangezien het een specifiek bevolkingsadministratie-onderwerp betreft dat los staat van het in het rapport centraal staande GBA-thema. Waardering: B (1) 
 ###(394.)
 
-Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van wet- en regelgeving, dan wel het zelf vaststellen van besluiten en regels, betreffende (invoering van) persoonsnummers Periode: 1988– Product: o.a. wetten, AMvB’s, KB’s Opmerking: Deze handeling is een verbijzondering van handeling 3 uit het Pivot-rapport ‘Burgers te boek’, aangezien het een specifiek bevolkingsadministratie-onderwerp betreft dat los staat van het in het rapport centraal staande GBA-thema. Waardering: B (1)  
+Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van wet- en regelgeving, dan wel het zelf vaststellen van besluiten en regels, betreffende (invoering van) persoonsnummers Periode: 1988– Product: o.a. wetten, AMvB’s, KB’s Opmerking: Deze handeling is een verbijzondering van handeling 3 uit het Pivot-rapport ‘Burgers te boek’, aangezien het een specifiek bevolkingsadministratie-onderwerp betreft dat los staat van het in het rapport centraal staande GBA-thema. Waardering: B (1) 
 
 #### *3.3. Minister voor Nederlands-Antilliaanse en Arubaanse Zaken* 
 
@@ -1487,7 +1487,7 @@ Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het 
 
 ###(305.)
 
-Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het voordragen van een algemene maatregel van rijksbestuur inzake de aan het Rijk verschuldigde rechten voor het uitreiken van een reisdocument Periode: 1992–1998 Opmerking: De Minister van Nederlands-Antilliaanse en Arubaanse Zaken is gekend in: – Besluit Paspoortgelden (Stb. 1991, 563) Waardering: B (1, 5)  
+Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het voordragen van een algemene maatregel van rijksbestuur inzake de aan het Rijk verschuldigde rechten voor het uitreiken van een reisdocument Periode: 1992–1998 Opmerking: De Minister van Nederlands-Antilliaanse en Arubaanse Zaken is gekend in: – Besluit Paspoortgelden (Stb. 1991, 563) Waardering: B (1, 5) 
 
 #### *3.4. Minister voor Bestuurlijke vernieuwing en Koninkrijksrelatie* 
 
@@ -1627,7 +1627,7 @@ Handeling: Het (doen) ontwikkelen van een beveiligingsprotocol voor het beheren 
 Handeling: Het verwerken en/of toetsen van rapportages van door derden uitgevoerde beveiligingscontroles bij gemeenten Periode: 2001– Grondslag: Paspoortuitvoeringsregeling Nederland 2001, art. 94, lid 3 Product: verzamelingen van rapportages Opmerking: – PUN 2001 schrijft naast de jaarlijkse zelfevaluatie door gemeenten ook een driejaarlijkse externe controle voor, waarvan de resultaten in afschrift ook naar het agentschap BPR worden gezonden. – Al dan niet eerst in pilot-vorm zullen de interne en externe controles door BPR worden getoetst. Waardering: V 7 jaar 
 ###(408.)
 
-Handeling: Het bijhouden van de belangrijkste gegevens betreffende de beveiliging op het gebied van het beheren en verstrekken van reisdocumenten Periode: 2001– Grondslag: Bijv. PUN 2001, art. 93, lid 11 Opmerking: Zo moet de gemeente het BPR ‘terstond’ op de hoogte stellen van q aanwijziging of vervanging van de beveiligingsfunctionaris. Waardering: V 5 jaar na wijziging  
+Handeling: Het bijhouden van de belangrijkste gegevens betreffende de beveiliging op het gebied van het beheren en verstrekken van reisdocumenten Periode: 2001– Grondslag: Bijv. PUN 2001, art. 93, lid 11 Opmerking: Zo moet de gemeente het BPR ‘terstond’ op de hoogte stellen van q aanwijziging of vervanging van de beveiligingsfunctionaris. Waardering: V 5 jaar na wijziging 
 
 #### *3.5. Hoofd van de Rijksinspectie van de Bevolkingsregisters* 
 
@@ -1674,7 +1674,7 @@ Handeling: Het instellen van een onderzoek, in welke gemeente een gezochte perso
 Handeling: Het verlenen van toestemming aan een gemeentebestuur om een voor een persoon een nieuwe persoonskaart aan te leggen ter vervanging van een die verloren is gegaan Periode: (1936) 1945–1967 Grondslag: Besluit bevolkingsboekhouding, 31 maart 1936, Stb. 1936/342, art. 97.2 Waardering: V 10 jaar 
 ###(102.)
 
-Handeling: Het verlenen van toestemming aan een gemeente om een onbruikbaar geworden persoonskaart over te schrijven Periode: (1936) 1945–1994 Grondslag: Besluit bevolkingsboekhouding 1936, 31 maart 1936, Stb. 1936/342, art. 128.1; Besluit bevolkingsboekhouding 1967, 29 augustus 1967, Stb. 1967/442, art. 111.1 Waardering: V 10 jaar  
+Handeling: Het verlenen van toestemming aan een gemeente om een onbruikbaar geworden persoonskaart over te schrijven Periode: (1936) 1945–1994 Grondslag: Besluit bevolkingsboekhouding 1936, 31 maart 1936, Stb. 1936/342, art. 128.1; Besluit bevolkingsboekhouding 1967, 29 augustus 1967, Stb. 1967/442, art. 111.1 Waardering: V 10 jaar 
 
 #### *3.6. Commissie van advies inzake de bevolkingsboekhouding* 
 
@@ -1685,7 +1685,7 @@ Handeling: Het verlenen van toestemming aan een gemeente om een onbruikbaar gewo
 Handeling: Het adviseren van de Minister van Binnenlandse Zake inzake de bevolkingsboekhouding Periode: (1936) 1945–1994 Grondslag: Besluit bevolkingsboekhouding 1936, 31 maart 1936, Stb. 1936/342, art. 121.1–2; Besluit bevolkingsboekhouding 1967, 29 augustus 1967, Stb. 1967/442, art. 104.3 Opmerking: De Commissie kan gevraagd en ongevraagd haar advies geven. Waardering: B (1) 
 ###(49.)
 
-Handeling: Het vaststellen van een reglement van orde voor de vergaderingen van de Commissie van advies inzake bevolkingsboekhouding Periode: 1945–1994 Grondslag: Besluit bevolkingsboekhouding 1967, 29 augustus 1967, Stb. 1967/442, art. 104.4 Waardering: V 5 jaar na vervanging reglement  
+Handeling: Het vaststellen van een reglement van orde voor de vergaderingen van de Commissie van advies inzake bevolkingsboekhouding Periode: 1945–1994 Grondslag: Besluit bevolkingsboekhouding 1967, 29 augustus 1967, Stb. 1967/442, art. 104.4 Waardering: V 5 jaar na vervanging reglement 
 
 #### *3.7. Commissie Automatisering Inlichtingen Bevolkingsregisters (Commissie-Simons)* 
 
@@ -1693,7 +1693,7 @@ Handeling: Het vaststellen van een reglement van orde voor de vergaderingen van 
 
 ###(112.)
 
-Handeling: Het onderzoeken van alternatieve werkmethoden en hulpmiddelen voor de bevolkingsboekhouding Periode: 1963–1967 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 10 oktober 1963/Nr. B63/2120 Afdeling BB, Stcrt. 1963/203, art. I Waardering: B (1, 5)  
+Handeling: Het onderzoeken van alternatieve werkmethoden en hulpmiddelen voor de bevolkingsboekhouding Periode: 1963–1967 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 10 oktober 1963/Nr. B63/2120 Afdeling BB, Stcrt. 1963/203, art. I Waardering: B (1, 5) 
 
 #### *3.8. Commissie Registratie Persoonsgegevens (Commissie-Westerhout)* 
 
@@ -1701,7 +1701,7 @@ Handeling: Het onderzoeken van alternatieve werkmethoden en hulpmiddelen voor de
 
 ###(115.)
 
-Handeling: Het onderzoeken van de mogelijkheden om tot een efficiëntere informatie-uitwisseling tussen de verschillende overheidsadministraties te komen Periode: 1968–1969 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 29 januari 1968/Nr. CG68/U146 Directie O.A.R., Stcrt. 1968/25, art. I Waardering: B (1, 5) een exemplaar van het eindrapport Overig: V, 10 jaar  
+Handeling: Het onderzoeken van de mogelijkheden om tot een efficiëntere informatie-uitwisseling tussen de verschillende overheidsadministraties te komen Periode: 1968–1969 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 29 januari 1968/Nr. CG68/U146 Directie O.A.R., Stcrt. 1968/25, art. I Waardering: B (1, 5) een exemplaar van het eindrapport Overig: V, 10 jaar 
 
 #### *3.9. Begeleidingscommissie proef CPA* 
 
@@ -1712,7 +1712,7 @@ Handeling: Het onderzoeken van de mogelijkheden om tot een efficiëntere informa
 Handeling: Het adviseren van de Minister van Binnenlandse Zaken inzake de in het kader van de proef CPA te nemen maatregelen ter bescherming van de privacy van de burgers in de deelnemende gemeenten Periode: 1974–1989 Bron Toespraak van de Staatssecretaris van Binnenlandse Zaken, 21 okt. 1974, Stcrt. 1974/205 Grondslag: Reglement proefbestand CPA, Stcrt. 1976/70, art. 12.2 Waardering: B (1, 5) 
 ###(122.)
 
-Handeling: Het beoordelen van de maatregelen die in het kader van de proef CPA zijn genomen ter bescherming van de privacy van de burgers in de deelnemende gemeenten Periode: 1974–1989 Bron Toespraak van de Staatssecretaris van Binnenlandse Zaken, 21 okt. 1974, Stcrt. 1974/205 Grondslag: Reglement proefbestand CPA, Stcrt. 1976/70, art. 12.2 en 13 Waardering: B (2, 5)  
+Handeling: Het beoordelen van de maatregelen die in het kader van de proef CPA zijn genomen ter bescherming van de privacy van de burgers in de deelnemende gemeenten Periode: 1974–1989 Bron Toespraak van de Staatssecretaris van Binnenlandse Zaken, 21 okt. 1974, Stcrt. 1974/205 Grondslag: Reglement proefbestand CPA, Stcrt. 1976/70, art. 12.2 en 13 Waardering: B (2, 5) 
 
 #### *3.10. Technische begeleidingsgroep CPA* 
 
@@ -1720,7 +1720,7 @@ Handeling: Het beoordelen van de maatregelen die in het kader van de proef CPA z
 
 ###(128.)
 
-Handeling: Het adviseren omtrent technische en organisatorische procedures bij de uitvoering van de proef CPA Periode: 1976–1989 Grondslag: Reglement proefbestand CPA, Stcrt. 1976/70, art. 12.1 Waardering: B (1, 5)  
+Handeling: Het adviseren omtrent technische en organisatorische procedures bij de uitvoering van de proef CPA Periode: 1976–1989 Grondslag: Reglement proefbestand CPA, Stcrt. 1976/70, art. 12.1 Waardering: B (1, 5) 
 
 #### *3.11. Bestuurlijke Overlegcommissie voor Overheidsautomatisering (BOCO)* 
 
@@ -1728,7 +1728,7 @@ Handeling: Het adviseren omtrent technische en organisatorische procedures bij d
 
 ###(119.)
 
-Vervalt.  
+Vervalt. 
 
 #### *3.12. Commissie Automatisering Gemeentelijke Bevolkingsboekhouding (Commissie-Zoutendijk)* 
 
@@ -1742,7 +1742,7 @@ Handeling: Het onderzoeken van de mogelijkheden tot automatisering van de gemeen
 Handeling: Het adviseren van de Minister van Binnenlandse Zaken inzake de mogelijkheden tot automatisering van de gemeentelijke bevolkingsboekhouding Periode: 1981–ca. 1984 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 9 februari 1981, Nr. B80, 3370, art. I Waardering: B (1, 5) 
 ###(109.)
 
-Handeling: Het betrekken van externe deskundigen bij haar werkzaamheden Periode: 1981–ca. 1984 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 9 februari 1981, Nr. B80, 3370, art. II Waardering: V 5 jaar  
+Handeling: Het betrekken van externe deskundigen bij haar werkzaamheden Periode: 1981–ca. 1984 Grondslag: Beschikking van de Minister van Binnenlandse Zaken, 9 februari 1981, Nr. B80, 3370, art. II Waardering: V 5 jaar 
 
 #### *3.13. Voorlopige Raad voor de persoonsinformatievoorziening* 
 
@@ -1765,7 +1765,7 @@ Handeling: Het adviseren van de Minister van Binnenlandse Zaken over vraagstukke
 Handeling: Het opstellen van een jaarverslag Periode: 1985–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 8; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 9; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1991/629, art. 9 Opmerking: Het jaarverslag is bestemd voor de Minister van Binnenlandse Zaken. Waardering: B (3) 
 ###(32.)
 
-Handeling: Het opstellen van een evaluatierapport over zijn taakvervulling Periode: 1987–1991 Grondslag: Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1988/158, art. 12 Opmerking: Het evaluatierapport bevat tevens een advies over het voortbestaan van de Voorlopige Raad. Waardering: B (2)  
+Handeling: Het opstellen van een evaluatierapport over zijn taakvervulling Periode: 1987–1991 Grondslag: Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1988/158, art. 12 Opmerking: Het evaluatierapport bevat tevens een advies over het voortbestaan van de Voorlopige Raad. Waardering: B (2) 
 
 #### *3.14. Commissie van toezicht praktijkproef GBA (Commissie-Van Biene)* 
 
@@ -1776,7 +1776,7 @@ Handeling: Het opstellen van een evaluatierapport over zijn taakvervulling Perio
 Handeling: Het houden van toezicht op de praktijkproef GBA Periode: 1988–1990 Grondslag: Regeling praktijkproef GBA, 15 november 1988/Nr. GBA 88/1265, Stcrt. 1988/241, art. 15.1 (b.w. Stcrt. 1990/121) Waardering: B (2, 5) 
 ###(147.)
 
-Handeling: Het rapporteren over en het doen van aanbevelingen in verband met de praktijkproef GBA Periode: 1988–1990 Grondslag: Regeling praktijkproef GBA, 15 november 1988/Nr. GBA 88/1265, Stcrt. 1988/241, art. 15.7–8 (b.w. Stcrt. 1990/121) Opmerking: Rapport en aanbevelingen werden uitgebracht aan de Minister van Binnenlandse Zaken. Het eindverslag verscheen in november 1989 (was ook onderdeel van IDP). Waardering: B (2, 5)  
+Handeling: Het rapporteren over en het doen van aanbevelingen in verband met de praktijkproef GBA Periode: 1988–1990 Grondslag: Regeling praktijkproef GBA, 15 november 1988/Nr. GBA 88/1265, Stcrt. 1988/241, art. 15.7–8 (b.w. Stcrt. 1990/121) Opmerking: Rapport en aanbevelingen werden uitgebracht aan de Minister van Binnenlandse Zaken. Het eindverslag verscheen in november 1989 (was ook onderdeel van IDP). Waardering: B (2, 5) 
 
 #### *3.15. Begeleidingsgroep GBA* 
 
@@ -1784,7 +1784,7 @@ Handeling: Het rapporteren over en het doen van aanbevelingen in verband met de 
 
 ###(137.)
 
-Handeling: Het adviseren van de Minister van Binnenlandse Zaken over belangrijke beleidsvoornemens in verband met de invoering van de GBA Periode: 1989–ca. 1995 Grondslag: Besluit van de Minister van Binnenlandse Zaken, 31 mei 1989/GBA 88/14/U 9, Directoraat-Generaal Openbaar Bestuur, Stcrt. 1989/130, art. 1 Waardering: B (1)  
+Handeling: Het adviseren van de Minister van Binnenlandse Zaken over belangrijke beleidsvoornemens in verband met de invoering van de GBA Periode: 1989–ca. 1995 Grondslag: Besluit van de Minister van Binnenlandse Zaken, 31 mei 1989/GBA 88/14/U 9, Directoraat-Generaal Openbaar Bestuur, Stcrt. 1989/130, art. 1 Waardering: B (1) 
 
 #### *3.16. Nationaal Chipkaart Platform* 
 
@@ -1798,7 +1798,7 @@ Handeling: Het ontwikkelen van een open infrastructuur voor chipcardtoepassingen
 Handeling: Het samenstellen van een gids waarin leveranciers vermeld worden die producten leveren voor het ontwikkelen van de chipcard Periode: 1994–1999 Bron Interview met dhr. A. Oudenhooven Waardering: V 5 jaar na vervanging 
 ###(314.)
 
-Handeling: Het inventariseren van projecten en het publiceren van de resultaten daarvan ten behoeve van het ontwikkelen van de nationale chipcard Periode: 1993–1999 Bron Interview met dhr. A. Oudenhooven Opmerking: Voorbeelden van projecten zijn de ontwikkeling van de Zorgpas en de Vervoerspas Waardering: V 5 jaar  
+Handeling: Het inventariseren van projecten en het publiceren van de resultaten daarvan ten behoeve van het ontwikkelen van de nationale chipcard Periode: 1993–1999 Bron Interview met dhr. A. Oudenhooven Opmerking: Voorbeelden van projecten zijn de ontwikkeling van de Zorgpas en de Vervoerspas Waardering: V 5 jaar 
 
 #### *3.17. Programmacommissie voor de ontwikkeling van een nationale chipkaart* 
 
@@ -1806,7 +1806,7 @@ Handeling: Het inventariseren van projecten en het publiceren van de resultaten 
 
 ###(315.)
 
-Handeling: Het coördineren en zoveel mogelijk op elkaar afstemmen van pilots in diverse sectoren ten behoeve van het ontwikkelen van de nationale chipcard Periode: 1993–1999 Bron Interview met dhr. A. Oudenhooven Opmerking: In de commissie zitten BZK, EZ, NS, PTT, Siemens, Zorgverzekeraars en enkele andere organisaties op het gebied van handel, vervoer, verzekeringen en gezondheidszorg. Waardering: B (5)  
+Handeling: Het coördineren en zoveel mogelijk op elkaar afstemmen van pilots in diverse sectoren ten behoeve van het ontwikkelen van de nationale chipcard Periode: 1993–1999 Bron Interview met dhr. A. Oudenhooven Opmerking: In de commissie zitten BZK, EZ, NS, PTT, Siemens, Zorgverzekeraars en enkele andere organisaties op het gebied van handel, vervoer, verzekeringen en gezondheidszorg. Waardering: B (5) 
 
 #### *3.18. Adviescommissie Modernisering GBA* 
 
@@ -1814,7 +1814,7 @@ Handeling: Het coördineren en zoveel mogelijk op elkaar afstemmen van pilots in
 
 ###(374.)
 
-Handeling: Het uitbrengen van een advies betreffende de gewenste ontwikkeling, inrichting en positionering van de GBA binnen de toekomstige overheidsinformatievoorziening Periode: 2000–2001 Grondslag: Adviesaanvraag Modernisering GBA (februari 2000); Regeling Adviescommissie Modernisering GBA (Stcrt. 2000, 50); Regeling hernieuwde instelling Adviescommissie Modernisering GBA (Stcrt. 2001, 59) Product: advies ‘GBA in de toekomst’ Waardering: B (1)  
+Handeling: Het uitbrengen van een advies betreffende de gewenste ontwikkeling, inrichting en positionering van de GBA binnen de toekomstige overheidsinformatievoorziening Periode: 2000–2001 Grondslag: Adviesaanvraag Modernisering GBA (februari 2000); Regeling Adviescommissie Modernisering GBA (Stcrt. 2000, 50); Regeling hernieuwde instelling Adviescommissie Modernisering GBA (Stcrt. 2001, 59) Product: advies ‘GBA in de toekomst’ Waardering: B (1) 
 
 #### *8.19. Adviescommissie betreffende het toekomstige persoonsnummerbeleid van de overheid (Commissie-van Thijn)* 
 
@@ -1822,7 +1822,7 @@ Handeling: Het uitbrengen van een advies betreffende de gewenste ontwikkeling, i
 
 ###(397.)
 
-Handeling: Het uitbrengen van een advies betreffende nieuwe kaders voor het toekomstige persoonsnummerbeleid Periode: 2001–2002 Grondslag: adviesaanvraag Product: advies ‘Persoonsnummerbeleid in het kader van identiteitsmanagement’ Waardering: B (1)  
+Handeling: Het uitbrengen van een advies betreffende nieuwe kaders voor het toekomstige persoonsnummerbeleid Periode: 2001–2002 Grondslag: adviesaanvraag Product: advies ‘Persoonsnummerbeleid in het kader van identiteitsmanagement’ Waardering: B (1) 
 
 ####4. Actoren waarvan het archief onder de zorg van de Minister van Algemene Zaken valt
 
@@ -1832,7 +1832,7 @@ Handeling: Het uitbrengen van een advies betreffende nieuwe kaders voor het toek
 
 ###(299.)
 
-Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 5 jaar  
+Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 5 jaar 
 
 ####5. Actoren waarvan het archief onder de zorg van de Minister van Buitenlandse Zaken valt
 
@@ -1914,7 +1914,7 @@ Handeling: Het bijhouden van een administratie van de personen ten aanzien van w
 Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het voordragen van een algemene maatregel van rijksbestuur inzake de aan het Rijk verschuldigde rechten voor het uitreiken van een reisdocument Periode: 1992– Opmerking: De Minister van Buitenlandse Zaken is gekend in: – Besluit Paspoortgelden (Stb. 1991, 563) Waardering: B (1, 5) 
 ###(310.)
 
-Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar  
+Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar 
 
 #### *5.2. Hoofd van een diplomatieke of consulaire post* 
 
@@ -1958,7 +1958,7 @@ Handeling: Het bijhouden van een administratie van de personen ten aanzien van w
 
 ###(310.)
 
-Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar  
+Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar 
 
 ####6. Actoren waarvan het archief onder de zorg van de Minister van Defensie valt
 
@@ -1968,7 +1968,7 @@ Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Peri
 
 ###(41.)
 
-Handeling: Het overleggen met de Minister van Binnenlandse Zaken, in welke gevallen bij de persoonlijke aanmelding van een dienstplichtig persoon bij het gemeentebestuur in het kader van de reconstructie van de bevolkingsboekhouding het formulier volgens model A 2 niet behoeft te worden ingevuld Periode: (1944) 1945– Grondslag: Besluit Reconstructie Bevolkingsboekhouding van 3 augustus 1944, Stb. 1944/E 56, art. 4.1 (b.w. 1945) Waardering: B (5)  
+Handeling: Het overleggen met de Minister van Binnenlandse Zaken, in welke gevallen bij de persoonlijke aanmelding van een dienstplichtig persoon bij het gemeentebestuur in het kader van de reconstructie van de bevolkingsboekhouding het formulier volgens model A 2 niet behoeft te worden ingevuld Periode: (1944) 1945– Grondslag: Besluit Reconstructie Bevolkingsboekhouding van 3 augustus 1944, Stb. 1944/E 56, art. 4.1 (b.w. 1945) Waardering: B (5) 
 
 #### *6.2. Minister van Defensie* 
 
@@ -1981,7 +1981,7 @@ Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het 
 
 ###(299.)
 
-Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 1 jaar na afwijzing verzoek c.q 1 jaar na einde vermelding in het register Paspoortsignaleringen  
+Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 1 jaar na afwijzing verzoek c.q 1 jaar na einde vermelding in het register Paspoortsignaleringen 
 
 #### *6.3. Brigadecommandant van de Koninklijke Marechaussee* 
 
@@ -2030,7 +2030,7 @@ Handeling: Het bijhouden van een administratie van de personen ten aanzien van w
 
 ###(310.)
 
-Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar  
+Handeling: Het heffen van rechten voor het verstrekken van een reisdocument Periode: 1992– Grondslag: Besluit paspoortgelden, 8 november 1991, Stb. 1991/563, art. 7 Waardering: V 7 jaar 
 
 ####7. Actoren waarvan het archief onder de zorg van de Minister van Financiën valt
 
@@ -2056,7 +2056,7 @@ Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het 
 Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 1 jaar na afwijzing verzoek c.q 1 jaar na einde vermelding in het register paspoortsignaleringen 
 ###(303.)
 
-Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het voordragen van een algemene maatregel van rijksbestuur inzake de aan het Rijk verschuldigde rechten voor het uitreiken van een reisdocument Periode: 1992– Opmerking: De Minister van Financiën is gekend in: – Besluit Paspoortgelden (Stb. 1991, 563) Waardering: B (1, 5)  
+Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het voordragen van een algemene maatregel van rijksbestuur inzake de aan het Rijk verschuldigde rechten voor het uitreiken van een reisdocument Periode: 1992– Opmerking: De Minister van Financiën is gekend in: – Besluit Paspoortgelden (Stb. 1991, 563) Waardering: B (1, 5) 
 
 ####8. Actoren waarvan het archief onder de zorg van de Minister van Justitie valt
 
@@ -2076,7 +2076,7 @@ Handeling: Het overeenstemmen met de Minister van Binnenlandse Zaken inzake het 
 
 ###(293.)
 
-Handeling: Het onderzoeken of een vluchteling of vreemdeling aanspraak maakt op een Nederlands reisdocument Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 40.2 Opmerking: Het onderzoek vindt plaats in overeenstemming met de Minister van Buitenlandse Zaken. Het onderzoek wordt feitelijk verricht door de korpschef van de Politie. Zie Paspoortuitvoeringsbesluit Nederland 1995 (Stcrt. 1994/188), art. 24.1; Paspoortuitvoeringsbesluit Buitenland 1995 (Stcrt. 1994/188), art. 23. Waardering: V 5 jaar  
+Handeling: Het onderzoeken of een vluchteling of vreemdeling aanspraak maakt op een Nederlands reisdocument Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 40.2 Opmerking: Het onderzoek vindt plaats in overeenstemming met de Minister van Buitenlandse Zaken. Het onderzoek wordt feitelijk verricht door de korpschef van de Politie. Zie Paspoortuitvoeringsbesluit Nederland 1995 (Stcrt. 1994/188), art. 24.1; Paspoortuitvoeringsbesluit Buitenland 1995 (Stcrt. 1994/188), art. 23. Waardering: V 5 jaar 
 
 #### *8.2. Staatscommissie bescherming persoonlijke levenssfeer in verband met persoonsregistraties (Staatscommissie-Koopmans)* 
 
@@ -2084,7 +2084,7 @@ Handeling: Het onderzoeken of een vluchteling of vreemdeling aanspraak maakt op 
 
 ###(118.)
 
-Handeling: Het adviseren van de Minister van Binnenlandse Zaken inzake maatregelen ter bescherming van de persoonlijke levenssfeer in verband met de invoering van de Centrale Personenadministratie Periode: 1972–1976 Opmerking: Voor een algemener geformuleerde handeling van de Staatscommissie, zie: R. te Slaa, *Persoonsregistraties. Een institutioneel onderzoek naar het beleidsterrein persoonsregistraties 1968–2000*, PIVOT-rapport nummer 106**(’s-Gravenhage, 2000). Waardering: B (1)  
+Handeling: Het adviseren van de Minister van Binnenlandse Zaken inzake maatregelen ter bescherming van de persoonlijke levenssfeer in verband met de invoering van de Centrale Personenadministratie Periode: 1972–1976 Opmerking: Voor een algemener geformuleerde handeling van de Staatscommissie, zie: R. te Slaa, *Persoonsregistraties. Een institutioneel onderzoek naar het beleidsterrein persoonsregistraties 1968–2000*, PIVOT-rapport nummer 106**(’s-Gravenhage, 2000). Waardering: B (1) 
 
 #### *8.3. Permanente Commissie van advies voor zaken van de Burgerlijke Stand en voor nationaliteitsaangelegenheden* 
 
@@ -2092,7 +2092,7 @@ Handeling: Het adviseren van de Minister van Binnenlandse Zaken inzake maatregel
 
 ###(159.)
 
-Handeling: Het adviseren van een gemeente inzake de opneming van gegevens over de burgerlijke staat of de familierechtelijke betrekkingen van een persoon in de GBA Periode: 1994– Grondslag: Wet GBA, 9 juni 1994, Stb. 1994/494, art. 40.3 Opmerking: De commissie adviseert in geval van twijfel over de rechtsgeldigheid van deze gegevens. Waardering: V 10 jaar  
+Handeling: Het adviseren van een gemeente inzake de opneming van gegevens over de burgerlijke staat of de familierechtelijke betrekkingen van een persoon in de GBA Periode: 1994– Grondslag: Wet GBA, 9 juni 1994, Stb. 1994/494, art. 40.3 Opmerking: De commissie adviseert in geval van twijfel over de rechtsgeldigheid van deze gegevens. Waardering: V 10 jaar 
 
 #### *8.4. Registratiekamer* 
 
@@ -2100,7 +2100,7 @@ Handeling: Het adviseren van een gemeente inzake de opneming van gegevens over d
 
 ###(220.)
 
-Handeling: Het houden van toezicht op de uitvoering van de Wet GBA met betrekking tot de bescherming van de persoonlijke levenssfeer Periode: 1994– Grondslag: Wet GBA, 9 juni 1994, Stb. 1994/494, art. 120 Waardering: B (2, 4)  
+Handeling: Het houden van toezicht op de uitvoering van de Wet GBA met betrekking tot de bescherming van de persoonlijke levenssfeer Periode: 1994– Grondslag: Wet GBA, 9 juni 1994, Stb. 1994/494, art. 120 Waardering: B (2, 4) 
 
 ####9. Actoren waarvan het archief onder de zorg van de Minister van Sociale Zaken en Werkgelegenheid valt
 
@@ -2126,7 +2126,7 @@ Handeling: Het overleggen met de Minister van Binnenlandse Zaken inzake de vasts
 
 ###(299.)
 
-Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 1 jaar na afwijzing verzoek c.q 1 jaar na einde vermelding in het register paspoortsignaleringen  
+Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 1 jaar na afwijzing verzoek c.q 1 jaar na einde vermelding in het register paspoortsignaleringen 
 
 #### *9.2. Sociale Verzekeringsraad* 
 
@@ -2134,7 +2134,7 @@ Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (
 
 ###(23.)
 
-Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1987–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar  
+Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1987–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar 
 
 ####10. Actoren waarvan het archief onder de zorg van de Minister van Volksgezondheid, Welzijn en Sport valt
 
@@ -2155,7 +2155,7 @@ Handeling: Het overleggen met de Minister van Binnenlandse Zaken inzake de vasts
 
 ###(299.)
 
-Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 5 jaar na verwijdering uit register  
+Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (tot 1998)/de Minister van GSI (vanaf 1998) tot plaatsing van een persoon in het Register paspoortsignalering Periode: 1992– Grondslag: Paspoortwet, 26 september 1991, Stb. 1991/498, art. 25.1–2 Bron Memorie van Toelichting (Kamerstukken II, 1987/88, 20 393), 41–45. Opmerking: Hieronder is tevens begrepen het intrekken van een dergelijk verzoek. Waardering: V 5 jaar na verwijdering uit register 
 
 #### *10.2. Nationale Raad voor de Volksgezondheid* 
 
@@ -2163,7 +2163,7 @@ Handeling: Het indienen van een verzoek bij de Minister van Binnenlandse Zaken (
 
 ###(23.)
 
-Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1991–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar  
+Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1991–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar 
 
 ####11. Actoren waarvan het archief onder de zorg van een vakminister valt
 
@@ -2173,5 +2173,5 @@ Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinf
 
 ###(23.)
 
-Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1985–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar  
+Handeling: Het voordragen van een lid van de Voorlopige Raad voor de persoonsinformatie-voorziening Periode: 1985–1995 Grondslag: Besluit van 24 oktober 1985 tot instelling van een Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1985/569, art. 3.1; Besluit van 11 februari 1988 tot verlenging van de instelling van de Voorlopige Raad voor de persoonsinformatie-voorziening, Stb. 1988/158, art. 4; Besluit van 26 november 1991 tot verlenging en wijziging van de instelling van de Voorlopige Raad voor de persoonsinformatievoorziening, Stb. 1991/629, art. 4 Waardering: V 5 jaar 
 

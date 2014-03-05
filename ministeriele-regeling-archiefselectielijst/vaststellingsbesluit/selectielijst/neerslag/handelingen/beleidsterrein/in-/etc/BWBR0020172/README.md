@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit de onder hem ressorterende actoren op het beleidsterrein In- en uitvoerregelingen over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit de onder hem ressorterende actoren op het beleidsterrein In- en uitvoerregelingen over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 15 augustus 2006   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
-Algemene Rijksarchivaris, 
-M.W. vanBoven 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
+Algemene Rijksarchivaris , 
+M.W. van Boven   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze: de 
-Directeur Informatiebeleid en Facilitaire Zaken, 
-D.J.Langendoen  
+Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:de 
+Directeur Informatiebeleid en Facilitaire Zaken , 
+D.J. Langendoen    
 
 ####Basisselectiedocument
 
@@ -39,19 +39,19 @@ D.J.Langendoen
 *Minister van Financiën*   *Minister van Buitenlandse Zaken*   *Minister van Landbouw, Natuur en Voedselkwaliteit*   *Minister van Verkeer en Waterstaat*   *Minister van Defensie*   *Minister van Algemene Zaken*   *Minister van Volksgezondheid, Welzijn en Sport*  
 ###versie augustus 2006
 
-### 1  
+### 1 
 
 ####Lijst van afkortingen
 
-ACA: Ambtelijke Commissie van Advies AFCENT: Allied Forces Central Europe AMVB: Algemene Maatregel van Bestuur ATA-carnet: ‘Admission Temporaire/Temporary Admission’-carnet: document voor tijdelijke in- en uitvoer van goederen BEB: Buitenlandse Economische Betrekkingen BLUE: Belgisch-Luxemburgse Economische Unie BPCV: Bureau Productie Civiele Verdediging BSD: Basisselectiedocument BVO: Bewijs van Ontvangst CAV: Communautaire Algemene Vergunning CDIU: Centrale Dienst In- en Uitvoer CDP: Committee on Dumping Practices CEC: Centrale Economische Commissie CEDEC: Centrale Dienst voor de Economische Controle COARM: Code of Conduct on Arms Export COCOHAN: Coördinatiecommissie op Hoog Ambtelijk Niveau COCOM: Coordinating Committee on Multilateral Export Controls COREPER: Committee of Permanent Representatives CPB: Centraal Plan Bureau CRO: Committee on Rules of Origin CW: Chemische Wapens Dg: Directoraat Generaal DNB: De Nederlandse Bank DSB: Dispute Settlement Body DSU: Dispute Settlement Understanding EBU: Europese Betalings-Unie ECA: Economic Cooperation Administration ECE: Economische Commissie voor Europa ECD: Economische Controledienst ECOSOC: Economic & Social Council of the United Nations EECE: Emergency Economic Committee for Europe EEG: Europese Economische Gemeenschap EG: Europese Gemeenschap EGKS: Europese Gemeenschap voor Kolen en Staal EHP: (regeringscommissariaat voor het) Economisch Hulpprogramma EMHP: Economische en Militair Hulpprogramma End-user statement: Document waarin wordt verklaard dat de desbetreffende goederen in het land van bestemming zullen worden ingevoerd voor eigen gebruik door aldaar gevestigde afnemers EU: Europese Unie Euratom: Europese Gemeenschap voor Atoomenergie EVA: Europese Vrijhandelsassociatie EVD: Exportbevordering Voorlichtingsdienst EZ: (ministerie van) Economische Zaken FAO: Food and Agricultural Organization FIOD: Fiscale Inlichtingen- en Opsporingsdienst FVS: Financieel Verkeer Strategische Goederen GATT: General Agreement on Tariffs & Trade IAB: Interdepartementale Ambtelijke Begeleidingsgroep IER: Internationale Economische Recherche IIC: Internationaal Import Certificaat IRHP: Interdepartementale Raad voor de Handelspolitiek IRPTC: Internationaal Register van potentieel giftige chemische stoffen ITC: International Trade Certificate JEIA: Joint Export Import Agency MID: Militaire Inlichtingendienst MTCR: Missile Technology Control Regime NAV: Nationale Algemene Vergunning NAVO: Noord-Atlantische Verdragsorganisatie NSG: Nuclear Suppliers Group NTHB: Nederlandse Trustmaatschappij voor de Handel met het Buitenland OECD DAC lijst: Organisation for Economic Cooperation and Development – Development Assistance Committee lijst OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling OPCW: Organisation on the prohibition of chemical Weapons OVSE: Organisatie voor Veiligheid en Samenwerking in Europa PCD: Prijscontroledienst PIC: Prior informed consent PIVOT: Project Invoering Verkorting Overbrengingstermijn POLARM: Policy on Arms Export REA: Raad voor Economische Aangelegenheden RIO: Rapport Institutioneel Onderzoek SER: Sociaal-Economische Raad Stb. : Staatsblad Stcrt. : Staatscourant TK: Tweede Kamer Trb. : Tractatenblad TRIPS: Trade Related Aspects of Intellectual Property Rights TVOO: Toezicht Veiligheid en Openbare Orde UNCTAD: United Nations Conference on Trade and Development UN: United Nations UNEP: United Nations Ecological Program; milieuprogramma van de VN USSR: Unie van Socialistische Sovjet Republieken Verdrag Chemische Wapens: Wereldwijd uitbannen chemische wapens en daartoe verbieden van ontwikkeling, productie, aanleg van voorraden en gebruik van dergelijke wapens VN: Verenigde Naties VS: Verenigde Staten VVK: Vereniging van Kamers van Koophandel en Fabrieken WA: Wassenaar arrangement (regionale en internationale veiligheid) WED: [Wet op Economische Delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) WTO: World Trade Organization ZBO: Zelfstandig Bestuursorgaan  
+ACA: Ambtelijke Commissie van Advies AFCENT: Allied Forces Central Europe AMVB: Algemene Maatregel van Bestuur ATA-carnet: ‘Admission Temporaire/Temporary Admission’-carnet: document voor tijdelijke in- en uitvoer van goederen BEB: Buitenlandse Economische Betrekkingen BLUE: Belgisch-Luxemburgse Economische Unie BPCV: Bureau Productie Civiele Verdediging BSD: Basisselectiedocument BVO: Bewijs van Ontvangst CAV: Communautaire Algemene Vergunning CDIU: Centrale Dienst In- en Uitvoer CDP: Committee on Dumping Practices CEC: Centrale Economische Commissie CEDEC: Centrale Dienst voor de Economische Controle COARM: Code of Conduct on Arms Export COCOHAN: Coördinatiecommissie op Hoog Ambtelijk Niveau COCOM: Coordinating Committee on Multilateral Export Controls COREPER: Committee of Permanent Representatives CPB: Centraal Plan Bureau CRO: Committee on Rules of Origin CW: Chemische Wapens Dg: Directoraat Generaal DNB: De Nederlandse Bank DSB: Dispute Settlement Body DSU: Dispute Settlement Understanding EBU: Europese Betalings-Unie ECA: Economic Cooperation Administration ECE: Economische Commissie voor Europa ECD: Economische Controledienst ECOSOC: Economic & Social Council of the United Nations EECE: Emergency Economic Committee for Europe EEG: Europese Economische Gemeenschap EG: Europese Gemeenschap EGKS: Europese Gemeenschap voor Kolen en Staal EHP: (regeringscommissariaat voor het) Economisch Hulpprogramma EMHP: Economische en Militair Hulpprogramma End-user statement: Document waarin wordt verklaard dat de desbetreffende goederen in het land van bestemming zullen worden ingevoerd voor eigen gebruik door aldaar gevestigde afnemers EU: Europese Unie Euratom: Europese Gemeenschap voor Atoomenergie EVA: Europese Vrijhandelsassociatie EVD: Exportbevordering Voorlichtingsdienst EZ: (ministerie van) Economische Zaken FAO: Food and Agricultural Organization FIOD: Fiscale Inlichtingen- en Opsporingsdienst FVS: Financieel Verkeer Strategische Goederen GATT: General Agreement on Tariffs & Trade IAB: Interdepartementale Ambtelijke Begeleidingsgroep IER: Internationale Economische Recherche IIC: Internationaal Import Certificaat IRHP: Interdepartementale Raad voor de Handelspolitiek IRPTC: Internationaal Register van potentieel giftige chemische stoffen ITC: International Trade Certificate JEIA: Joint Export Import Agency MID: Militaire Inlichtingendienst MTCR: Missile Technology Control Regime NAV: Nationale Algemene Vergunning NAVO: Noord-Atlantische Verdragsorganisatie NSG: Nuclear Suppliers Group NTHB: Nederlandse Trustmaatschappij voor de Handel met het Buitenland OECD DAC lijst: Organisation for Economic Cooperation and Development – Development Assistance Committee lijst OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling OPCW: Organisation on the prohibition of chemical Weapons OVSE: Organisatie voor Veiligheid en Samenwerking in Europa PCD: Prijscontroledienst PIC: Prior informed consent PIVOT: Project Invoering Verkorting Overbrengingstermijn POLARM: Policy on Arms Export REA: Raad voor Economische Aangelegenheden RIO: Rapport Institutioneel Onderzoek SER: Sociaal-Economische Raad Stb. : Staatsblad Stcrt. : Staatscourant TK: Tweede Kamer Trb. : Tractatenblad TRIPS: Trade Related Aspects of Intellectual Property Rights TVOO: Toezicht Veiligheid en Openbare Orde UNCTAD: United Nations Conference on Trade and Development UN: United Nations UNEP: United Nations Ecological Program; milieuprogramma van de VN USSR: Unie van Socialistische Sovjet Republieken Verdrag Chemische Wapens: Wereldwijd uitbannen chemische wapens en daartoe verbieden van ontwikkeling, productie, aanleg van voorraden en gebruik van dergelijke wapens VN: Verenigde Naties VS: Verenigde Staten VVK: Vereniging van Kamers van Koophandel en Fabrieken WA: Wassenaar arrangement (regionale en internationale veiligheid) WED: [Wet op Economische Delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) WTO: World Trade Organization ZBO: Zelfstandig Bestuursorgaan 
 
-### 2  
+### 2 
 
 ####2. Verantwoording
 
-### 2.1  
+### 2.1 
 
-####Wettelijk kader voor de selectie van overheidsarchieven
+#### Wettelijk kader voor de selectie van overheidsarchieven 
 
 Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) dient de overheid haar archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren. Onder ‘archiefbescheiden’ worden niet slechts papieren documenten verstaan, maar alle bescheiden – ongeacht de drager – die door een overheidsorgaan zijn ontvangen of opgemaakt en naar hun aard bestemd zijn daaronder te berusten. Ook digitaal vastgelegde informatie valt dus onder de werking van de archiefwetgeving. Het in goede en geordende staat bewaren van archiefbescheiden houdt onder meer in dat een overheidsarchief op gezette tijden wordt geschoond. In dat verband schrijft de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) zowel een vernietigingsplicht ([art. 3](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md)) als overbrengingsplicht ([art. 12](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md)) voor. Beide plichten rusten op degene die de bestuurlijke verantwoordelijkheid draagt voor het beheer van het desbetreffende archief: de zorgdrager. De verplichting tot overbrenging bepaalt dat de zorgdrager zijn archiefbescheiden die *niet* voor vernietiging in aanmerking komen en ouder zijn dan twintig jaar ter blijvende bewaring overbrengt naar een archiefbewaarplaats. Wat de archiefbescheiden van de ministeries en de Hoge Colleges van Staat betreft, is de aangewezen archiefbewaarplaats het Nationaal Archief in Den Haag. Het Nationaal Archief is een onderdeel van de Rijksarchiefdienst (RAD). Deze dienst ressorteert onder de Minister van OCW en staat onder leiding van de Algemeen Rijksarchivaris. In verband met de selectie van hun archiefbescheiden zijn zorgdragers op grond van [artikel 5 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) verplicht hiertoe selectielijsten op te stellen. In een selectielijst dient te worden aangegeven welke archiefbescheiden voor vernietiging, dan wel voor blijvende bewaring in aanmerking komen. Voorts dient een selectielijst de termijnen aan te geven, waarna de te vernietigen bestanddelen dienen te worden vernietigd. Een selectielijst is naar haar aard een duurzaam instrument. Het ligt in de rede dat een organisatie een vastgestelde lijst niet eenmalig toepast maar (zonodig in geactualiseerde vorm) blijft hanteren om de periodieke aanwas van archiefmateriaal te selecteren. Een selectielijst vormt zo een belangrijk onderdeel van het instrumentarium voor het beheer van de documentaire informatievoorziening in een overheidsorganisatie. Bij het ontwerpen van een selectielijst dient krachtens [art. 2, lid 1 van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1995, 671) rekening gehouden te worden met: 
 
@@ -67,29 +67,29 @@ Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../../wet/arch
 
 – een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan; en  
 
-– (een vertegenwoordiger van) de Algemeen Rijksarchivaris.   Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. Elke selectielijst wordt na advies van de Raad voor Cultuur vastgesteld door de Minister van OCW en de minister wie het mede aangaat. De vastgestelde lijsten worden in de Staatscourant gepubliceerd.  
+– (een vertegenwoordiger van) de Algemeen Rijksarchivaris.   Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. Elke selectielijst wordt na advies van de Raad voor Cultuur vastgesteld door de Minister van OCW en de minister wie het mede aangaat. De vastgestelde lijsten worden in de Staatscourant gepubliceerd. 
 
-### 2.2  
+###  2.2 
 
-####Het doel en de werking van het Basis Selectiedocument
+####Het doel en de werking van het Basis Selectiedocument 
 
 Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken actoren op dat beleidsterrein. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad van Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OCW) en de betrokken zorgdrager(s). 
 
-### 2.2.1  
+### 2.2.1 
 
-####Functies van het BSD
+####Functies van het BSD 
 
-Voor de zorgdrager is het BSD van belang voor de bedrijfsvoering als mogelijke basis voor ordeningsplannen. Voor de zorgdrager dient het BSD als verantwoording tegenover de recht- en bewijszoekende burger, die de mogelijkheid heeft tijdens de ter inzage legging invloed uit te oefenen op het bewaar- en vernietigingsbeleid ([Archiefbesluit 1995, art. 2, eerste lid, onder d](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md)). Voor de Minister belast met het cultuurbeleid (vertegenwoordigd door de Algemeen Rijksarchivaris) is het BSD de verantwoording inzake het bewaar- en vernietigingsbeleid vanuit cultureel-historisch belang ([Archiefbesluit 1995, art. 2, eerste lid, onder c](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md)). Voor de Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen.  
+Voor de zorgdrager is het BSD van belang voor de bedrijfsvoering als mogelijke basis voor ordeningsplannen. Voor de zorgdrager dient het BSD als verantwoording tegenover de recht- en bewijszoekende burger, die de mogelijkheid heeft tijdens de ter inzage legging invloed uit te oefenen op het bewaar- en vernietigingsbeleid ([Archiefbesluit 1995, art. 2, eerste lid, onder d](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md)). Voor de Minister belast met het cultuurbeleid (vertegenwoordigd door de Algemeen Rijksarchivaris) is het BSD de verantwoording inzake het bewaar- en vernietigingsbeleid vanuit cultureel-historisch belang ([Archiefbesluit 1995, art. 2, eerste lid, onder c](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md)). Voor de Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen. 
 
-### 2.3  
+###  2.3 
 
-####Het beleidsterrein
+####Het beleidsterrein 
 
-Dit BSD is gebaseerd op het rapport institutioneel onderzoek nr.147, *De slagboom gesloten*, door dr. J.A.A. Bervoets, drs, G.A.G. Hermsen en drs. A.G. Dellebeke, Den Haag 2003. Het beleidsterrein in- en uitvoerregelingen wordt gevormd door een breed scala van deelaspecten, die als overeenkomst hebben dat ze bedoeld zijn om de Nederlandse overheid instrumenten te bieden om de im- en export van industriële goederen te reguleren. Dit BSD beperkt zich tot de industriële goederen, de im- en export van landbouwgoederen wordt afzonderlijk beschreven in het rapport *Agrarische handelspolitiek en exportbevordering*. Uitgezonderd zijn ook binnenlandse wettelijke betaalmiddelen.  
+Dit BSD is gebaseerd op het rapport institutioneel onderzoek nr.147, *De slagboom gesloten*, door dr. J.A.A. Bervoets, drs, G.A.G. Hermsen en drs. A.G. Dellebeke, Den Haag 2003. Het beleidsterrein in- en uitvoerregelingen wordt gevormd door een breed scala van deelaspecten, die als overeenkomst hebben dat ze bedoeld zijn om de Nederlandse overheid instrumenten te bieden om de im- en export van industriële goederen te reguleren. Dit BSD beperkt zich tot de industriële goederen, de im- en export van landbouwgoederen wordt afzonderlijk beschreven in het rapport *Agrarische handelspolitiek en exportbevordering*. Uitgezonderd zijn ook binnenlandse wettelijke betaalmiddelen. 
 
-### 2.4  
+###  2.4 
 
-####Definitie en doelstellingen
+####Definitie en doelstellingen 
 
 Het beleidsterrein in- en uitvoerregelingen is te definiëren als een stelsel van overwegend non-tarifaire maatregelen die bedoeld zijn om de regering in staat te stellen de im- en export van industriële goederen van en naar Nederland te reguleren. De enige tarifaire instrumenten die tot dit beleidsterrein behoren zijn de incidentele heffingen op de in- of uitvoer van goederen. Deze onderscheiden zich van gangbare invoerrechten en accijnzen door hun doelstelling en tijdelijke karakter; ze zijn bedoeld om in te kunnen grijpen in de im- of export van bepaalde producten, en niet om de in- en uitvoer in zijn geheel te reguleren. De doelstellingen van het beleid op het gebied van de in- en uitvoerregelingen zijn deels van financieel-economische (handelspolitieke), en deels van politieke aard. De nadruk is in de periode 1945–2000 verschoven van de financieel-economische naar de politieke aspecten. Mede daarom is in 1962 de regelgeving inzake in- en uitvoer vernieuwd. De doelstellingen zelf zijn hierbij vrijwel onveranderd gebleven, alleen de accenten werden anders gelegd. Overigens waren in de praktijk, onder invloed van nationale, maar zeker ook internationale ontwikkelingen, de prioriteiten al eerder verschoven. De doelstellingen zijn: 
 
@@ -116,22 +116,22 @@ Het beleidsterrein in- en uitvoerregelingen is te definiëren als een stelsel va
 – De mogelijkheden hebben om maatregelen te kunnen nemen die voortvloeien uit afspraken die niet juridisch bindend zijn. Bijv. niet-bindende aanbevelingen van volkenrechtelijke- en milieuorganisaties.   
 ###Taakverdeling
 
-De Minister van Economische Zaken is de eerstverantwoordelijke inzake de regelingen betreffende de in- en uitvoer van industriële goederen. De in- en uitvoer van landbouwgoederen valt onder de verantwoording van de Minister van Landbouw, Natuur en Voedselkwaliteit en haar rechtsvoorgangers. Wanneer het zowel industriële als landbouwgoederen betreft, vindt onderlinge afstemming plaats. In veel gevallen zal overleg plaatsvinden tussen de Minister van Economische Zaken en de ministers van Financiën als het bijv. deviezen betreft. Wanneer er ook politieke aspecten meespelen, bijv. bij een boycot of sanctie is de Minister van Buitenlandse zaken de eerstverantwoordelijke, en heeft de Minister van Economische Zaken vooral een uitvoerende taak. De departementsoverschrijdende aspecten van het in- en uitvoerbeleid worden door de Minister van Economische Zaken gecoördineerd via de Interdepartementale Raad voor de Handelspolitiek, waarin de vertegenwoordigers van de betrokken departementen onder de leiding van de directeur-generaal van de BEB bijeenkomen. Hieronder zal nader worden ingegaan op de afbakening van de in- en uitvoerregelingen ten opzichte van andere beleidsterreinen  
+De Minister van Economische Zaken is de eerstverantwoordelijke inzake de regelingen betreffende de in- en uitvoer van industriële goederen. De in- en uitvoer van landbouwgoederen valt onder de verantwoording van de Minister van Landbouw, Natuur en Voedselkwaliteit en haar rechtsvoorgangers. Wanneer het zowel industriële als landbouwgoederen betreft, vindt onderlinge afstemming plaats. In veel gevallen zal overleg plaatsvinden tussen de Minister van Economische Zaken en de ministers van Financiën als het bijv. deviezen betreft. Wanneer er ook politieke aspecten meespelen, bijv. bij een boycot of sanctie is de Minister van Buitenlandse zaken de eerstverantwoordelijke, en heeft de Minister van Economische Zaken vooral een uitvoerende taak. De departementsoverschrijdende aspecten van het in- en uitvoerbeleid worden door de Minister van Economische Zaken gecoördineerd via de Interdepartementale Raad voor de Handelspolitiek, waarin de vertegenwoordigers van de betrokken departementen onder de leiding van de directeur-generaal van de BEB bijeenkomen. Hieronder zal nader worden ingegaan op de afbakening van de in- en uitvoerregelingen ten opzichte van andere beleidsterreinen 
 
-### 2.5  
+###  2.5 
 
-####Afbakening van het (deel)beleidsterrein
+####Afbakening van het (deel)beleidsterrein 
 
 Het beleidsterrein in- en uitvoerregelingen is nauw verbonden met enkele andere aspecten op het gebied van de buitenlandse economische betrekkingen. Daarnaast grenst het ook aan beleidsterreinen van andere ministeries. In een aantal gevallen is er zelfs sprake van een duidelijke overlap tussen in- en uitvoerregelingen en andere beleidsterreinen. Voor zover mogelijk is richt dit rapport zich op aspecten die specifiek betrekking hebben op het in- en uitvoerbeleid, en worden zaken die indirect hiermee te maken hebben alleen globaal beschreven. Zo wordt bijvoorbeeld op het buitenlandse (diplomatieke) beleid alleen ingegaan voor zover dit direct invloed heeft op, of beïnvloedt wordt door het in- en uitvoerbeleid. Hieronder volgt een overzicht van aanverwante beleidsterreinen. Daarbij wordt telkens aangegeven welk aspect van de in- en uitvoerregelingen het betreft, en waar de grens is getrokken tussen dit rapport en de aanpalende beleidsterreinen. 
 ###Buitenlandse economische betrekkingen
 
-Het beleidsterrein in- en uitvoerregelingen maakt onderdeel uit van het algemene beleid inzake de buitenlandse economische betrekkingen. Nauw aanverwante (deel-)beleidsterreinen binnen EZ zijn de exportbevordering politiek, die zich bezighoudt met de ondersteuning en promotie van Nederlandse bedrijven en producten in het buitenland, en internationale samenwerking, dat verantwoordelijk was voor het afsluiten van handelsverdragen. Hierover handelt de PIVOT rapportage (145) *Buitenlandse Economische Betrekkingen. Een institutioneel onderzoek naar het beleidsterrein buitenlandse economische betrekkingen over de periode 1945–2002.* 
+Het beleidsterrein in- en uitvoerregelingen maakt onderdeel uit van het algemene beleid inzake de buitenlandse economische betrekkingen. Nauw aanverwante (deel-)beleidsterreinen binnen EZ zijn de exportbevordering politiek, die zich bezighoudt met de ondersteuning en promotie van Nederlandse bedrijven en producten in het buitenland, en internationale samenwerking, dat verantwoordelijk was voor het afsluiten van handelsverdragen. Hierover handelt de PIVOT rapportage (145) *Buitenlandse Economische Betrekkingen. Een institutioneel onderzoek naar het beleidsterrein buitenlandse economische betrekkingen over de periode 1945–2002.*  
 ###Energiebeleid
 
 Het beleid met betrekking tot de in- en uitvoer van (m.n. kern-)energie en delfstoffen wordt grotendeels in Europees verband opgesteld door de EGKS en Euratom. Daarnaast speelt ook de OESO een rol op dit terrein. De Minister van Economische Zaken coördineert het Nederlandse aandeel hierin. Het energiebeleid wordt besproken in de PIVOT rapporten 82 *Energiebeleid* (Den Haag 2001) en 83 *Energiedelfstoffen* (Den Haag 1999). 
 ###Invoerrechten en accijnzen
 
-In- en uitvoerregelingen hangen nauw samen met het beleidsterrein invoerrechten en accijnzen. Het onderscheid tussen deze terreinen, die beide betrekking hebben op de in- en uitvoer van goederen, wordt gevormd door het karakter en doel van de maatregelen. Invoerrechten betreffen financiële maatregelen, terwijl in- en uitvoerregelingen zich voornamelijk beperken tot non-tarifaire beperkingen. Daarnaast zijn de invoerrechten vooral bedoeld om de binnenlandse consumptie van bepaalde goederen te reguleren, terwijl de in- en uitvoerregelingen een instrument vormen in de internationale (handels-)politiek. Het beleidsterrein invoerrechten en accijnzen wordt beschreven in de PIVOT-rapporten (37) *De grens verlegd. Een institutioneel onderzoek naar de taken en het overheidshandelen op het beleidsterrein invoerrechten en accijnzen 1945–1962* (Den Haag 1996) en (*38) De grens geslecht. Een institutioneel onderzoek naar het overheidshandelen op het beleidsterrein invoerrechten en accijnzen 1962–1995.* 
+In- en uitvoerregelingen hangen nauw samen met het beleidsterrein invoerrechten en accijnzen. Het onderscheid tussen deze terreinen, die beide betrekking hebben op de in- en uitvoer van goederen, wordt gevormd door het karakter en doel van de maatregelen. Invoerrechten betreffen financiële maatregelen, terwijl in- en uitvoerregelingen zich voornamelijk beperken tot non-tarifaire beperkingen. Daarnaast zijn de invoerrechten vooral bedoeld om de binnenlandse consumptie van bepaalde goederen te reguleren, terwijl de in- en uitvoerregelingen een instrument vormen in de internationale (handels-)politiek. Het beleidsterrein invoerrechten en accijnzen wordt beschreven in de PIVOT-rapporten (37) *De grens verlegd. Een institutioneel onderzoek naar de taken en het overheidshandelen op het beleidsterrein invoerrechten en accijnzen 1945–1962* (Den Haag 1996) en (*38) De grens geslecht. Een institutioneel onderzoek naar het overheidshandelen op het beleidsterrein invoerrechten en accijnzen 1962–1995.*  
 ###Financieel en monetair beleid
 
 Ter financiering van de import zijn buitenlandse valuta benodigd. Daarom is, vooral in tijden van deviezenschaarste, een nauwe afstemming van de deviezenpolitiek en het in- en uitvoerbeleid noodzakelijk. In dit rapport komt de deviezenpolitiek alleen aan de orde voor zover die directe gevolgen heeft voor het in- en uitvoerbeleid. Verder wordt verwezen naar het rapport (126) *Internationaal financieel en monetair beleid. Een institutioneel onderzoek naar het handelen van de rijksoverheid op het terrein van internationale financiële en monetaire betrekkingen en beleid, 1945–2000*. 
@@ -158,7 +158,7 @@ De in- en uitvoerregelingen, en met name sancties, kunnen tevens onderdelen voor
 In bepaalde gevallen kunnen in- en uitvoerregelingen verband houden met milieuwetgeving, bijvoorbeeld om te voorkomen dat gevaarlijke stoffen in- of uitgevoerd worden. In dit rapport wordt hier op ingegaan voor zover het stoffen betreft die vallen onder de regelgeving voor de in- en uitvoer van chemische stoffen. Voor het beleid ten aanzien van de overige gevaarlijke stoffen wordt verwezen naar de PIVOT-rapportage (94) *Milieubeheer. Een institutioneel onderzoek naar de handelingen van diverse actoren op het beleidsterrein Milieubeheer en de thans daaronder vallende taken van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over de jaren 1945–1994* (Den Haag 2000). 
 ###Kamers van Koophandel en Fabrieken
 
-Handelingen van de Kamers van Koophandel en Fabrieken zijn niet opgenomen in dit RIO omdat zij afzonderlijke zelfstandige bestuursorganen zij (ZBO’s). Deze ZBO’s zijn verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de [Archiefwet van 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb*. 1995, 276) werd door de Vereniging van kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Omdat op 1 januari 1998 de nieuwe [Wet op de Kamers van Koophandel en Fabrieken](../../../../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) (*Stb.* 1997, 783) in werking trad en bovendien de nieuwe [Handelsregisterwet 1996](../../../../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) van kracht was geworden aan het einde van 1997 (*Stb.* 1996, 181) , is er uiteindelijk voor gekozen om 1998 als scheidslijn te hanteren en de selectielijst vanaf dat jaar te laten gelden. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft dan ook 1998 als begindatum. Momenteel is een RIO (nr. 150) in de maak waarin de rol van de Kamers van Koophandel eveneens aan de orde wordt gesteld (*Regionaal Economisch Beleid*). 
+Handelingen van de Kamers van Koophandel en Fabrieken zijn niet opgenomen in dit RIO omdat zij afzonderlijke zelfstandige bestuursorganen zij (ZBO’s). Deze ZBO’s zijn verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de[ Archiefwet van 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb*. 1995, 276) werd door de Vereniging van kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Omdat op 1 januari 1998 de nieuwe [Wet op de Kamers van Koophandel en Fabrieken ](../../../../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md)(*Stb.* 1997, 783) in werking trad en bovendien de nieuwe [Handelsregisterwet 1996](../../../../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) van kracht was geworden aan het einde van 1997 (*Stb.* 1996, 181) , is er uiteindelijk voor gekozen om 1998 als scheidslijn te hanteren en de selectielijst vanaf dat jaar te laten gelden. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft dan ook 1998 als begindatum. Momenteel is een RIO (nr. 150) in de maak waarin de rol van de Kamers van Koophandel eveneens aan de orde wordt gesteld (*Regionaal Economisch Beleid*). 
 ###Volksgezondheid
 
 De in- en uitvoerregelingen op het gebied van chemische stoffen zijn ook gericht tegen de handel in verdovende middelen en andere stoffen die een gevaar vormen voor de volksgezondheid. De controle op de naleving van de regels op dit gebied valt deels onder de betrokken ministers van Volksgezondheid, Welzijn en Sport en Binnenlandse Zaken en Koninkrijksrelaties. Deze zijn tevens belast met het opstellen van regelgeving die specifiek tegen, bijvoorbeeld, verdovende middelen is gericht. In dit rapport wordt alleen ingegaan op de in- en uitvoer van deze stoffen, de overige aspecten komen aan bod in het RIO (123) *Onder Invloed. Een institutioneel onderzoek naar het overheidshandelen ten aanzien van verslaving, 1945–1996* (Den Haag 2001). 
@@ -167,11 +167,11 @@ De in- en uitvoerregelingen op het gebied van chemische stoffen zijn ook gericht
 Voor de uitvoer van beschermde cultuurgoederen naar landen buiten de Europese Unie is een vergunning vereist. Deze wordt in Nederland namens de Minister van Onderwijs, Cultuur en Wetenschappen verleend door de Inspectie Cultuurbezit. De Douane en de Minister van Justitie zijn in Nederland belast met de wetgeving inzake de in- en uitvoer van beschermde cultuurgoederen. De Minister van Economische zaken is betrokken bij de vaststelling van wet- en regelgeving. De handelingen inzake de in- en uitvoer van cultuurgoederen zijn opgenomen in het rapport *Cultuurbeheer. Een institutioneel onderzoek naar het cultuurbeheer van de rijksoverheid in de periode 1945–2000*. 
 ###Europese Gemeenschappen
 
-Tenslotte moeten ook de Europese Gemeenschappen (EEG, EG/EU, EGKS, Euratom) hier genoemd worden. Gedurende de afgelopen decennia hebben deze steeds meer taken en bevoegdheden overgenomen van de nationale overheden van de lidstaten. Dit geldt zeker ook voor het beleidsterrein in- en uitvoerregelingen, dat zich bij uitstek leent voor afstemming in Europees verband. Vrijwel geen enkele maatregel op dit gebied wordt nu nog volledig zelfstandig genomen door de Nederlandse regering. In veel gevallen vindt de besluitvorming volledig in Europees verband plaats, en is er slechts sprake van implementatie van Europese regels in de nationale wetgeving. Sinds enkele jaren is de Europese regelgeving zelfs deels de plaats van nationale wetgeving gaan overnemen. Hoewel in dit rapport geen handelingen zijn opgenomen van de Europese Gemeenschappen, worden zij vanwege hun grote invloed op dit beleidsterrein uitgebreid behandeld. Hierbij beperkt het rapport zicht tot de aspecten die rechtstreeks betrekking hebben op de in- en uitvoerregelingen. Meer algemene handelspolitieke zaken komen aan bod in het nog te verschijnen rapport over de buitenlandse economische betrekkingen, RIO 145 *Buitenlandse economische betrekkingen. Een institutioneel onderzoek naar het beleidsterrein buitenlandse economische betrekkingen over de periode 1945–2002* (Den Haag).  
+Tenslotte moeten ook de Europese Gemeenschappen (EEG, EG/EU, EGKS, Euratom) hier genoemd worden. Gedurende de afgelopen decennia hebben deze steeds meer taken en bevoegdheden overgenomen van de nationale overheden van de lidstaten. Dit geldt zeker ook voor het beleidsterrein in- en uitvoerregelingen, dat zich bij uitstek leent voor afstemming in Europees verband. Vrijwel geen enkele maatregel op dit gebied wordt nu nog volledig zelfstandig genomen door de Nederlandse regering. In veel gevallen vindt de besluitvorming volledig in Europees verband plaats, en is er slechts sprake van implementatie van Europese regels in de nationale wetgeving. Sinds enkele jaren is de Europese regelgeving zelfs deels de plaats van nationale wetgeving gaan overnemen. Hoewel in dit rapport geen handelingen zijn opgenomen van de Europese Gemeenschappen, worden zij vanwege hun grote invloed op dit beleidsterrein uitgebreid behandeld. Hierbij beperkt het rapport zicht tot de aspecten die rechtstreeks betrekking hebben op de in- en uitvoerregelingen. Meer algemene handelspolitieke zaken komen aan bod in het nog te verschijnen rapport over de buitenlandse economische betrekkingen, RIO 145 *Buitenlandse economische betrekkingen. Een institutioneel onderzoek naar het beleidsterrein buitenlandse economische betrekkingen over de periode 1945–2002* (Den Haag). 
 
-### 2.6  
+### 2.6 
 
-####De actoren op het beleidsterrein, voor zover hun selectielijsten in het BSD zijn opgenomen
+####De actoren op het beleidsterrein, voor zover hun selectielijsten in het BSD zijn opgenomen 
 
 Van onderstaande actoren zijn handelingen opgenomen: 
 
@@ -217,21 +217,21 @@ Van onderstaande actoren zijn handelingen opgenomen:
 
 – Minister van Volksgezondheid Welzijn en Sport  
 
-– Vakminister    
+– Vakminister   
 
-### 3  
+### 3 
 
 ####Selectiedoelstelling
 
-Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Tijdens de behandeling van de ontwerp- [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer verwoordde de Minister van WVC op 13 april 1994 deze doelstelling als volgt: het mogelijk maken van een reconstructie van de hoofdlijnen van het handelen van de overheid. Door het Convent van Rijksarchivarissen is de selectiedoelstelling vertaald als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring’.  
+Het BSD is opgesteld in overeenstemming met de selectiedoelstelling van de RAD/PIVOT. Tijdens de behandeling van de ontwerp-[Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer verwoordde de Minister van WVC op 13 april 1994 deze doelstelling als volgt: het mogelijk maken van een reconstructie van de hoofdlijnen van het handelen van de overheid. Door het Convent van Rijksarchivarissen is de selectiedoelstelling vertaald als ‘het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring’. 
 
-### 4  
+### 4 
 
 ####Selectiecriteria
 
-Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het Nationaal Archief. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Overigens verlangt [art. 5, onder e van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1995, 276) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in exceptionele gevallen te bewaren op grond van een uitzonderingscriterium. PIVOT heeft daarom het volgende uitzonderingscriterium geformuleerd: Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de algemene selectiecriteria, zoals hieronder vermeld. 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut.  
+Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het Nationaal Archief. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Overigens verlangt [art. 5, onder e van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1995, 276) dat selectielijsten de mogelijkheid bieden om neerslag die met een V is gewaardeerd in exceptionele gevallen te bewaren op grond van een uitzonderingscriterium. PIVOT heeft daarom het volgende uitzonderingscriterium geformuleerd: Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de algemene selectiecriteria, zoals hieronder vermeld. 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording*van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, beleidsterrein-specifieke criteria worden geformuleerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut. 
 
-### 5  
+### 5 
 
 ####Verslag van de vaststellingsprocedure
 
@@ -250,9 +250,9 @@ De handelingen worden beschreven in handelingenblokken. Daarin worden de volgend
 
 – Besluit regeling in- en uitvoer (Stb. 1944/E 80);  
 
-– Regeling uitvoering Besluit afgifte verklaringen strategische goederen (Stcrt. 202/1986)   Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan *de bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling als B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+– Regeling uitvoering Besluit afgifte verklaringen strategische goederen (Stcrt. 202/1986)   Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan *de bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling als B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
-### 6  
+### 6 
 
 ####Actoren op het beleidsterrein
 
@@ -362,21 +362,21 @@ De Minister van VROM is mede-vaststeller van de wet- en regelgeving met betrekki
 De IAB, die uit vertegenwoordigers van alle betrokken ministeries bestaat, coördineerde in de periode tot 1963 de besluitvorming met betrekking tot de uitvoer van wapens. Vanaf 1963 werden zijn taken uitgebreid naar het volledige bereik van strategische goederen. 
 ###Bedrijf- en Productschappen (1954–)
 
-Voor de verschillende productschappen en (hoofd)bedrijfschappen geldt dat zij als publiekrechtelijke bedrijfsorganen hun taken en handelingen in een apart rapport aan de orde dienen te stellen. In het onderhavige RIO zijn dan ook geen van deze bedrijfslichamen als actor opgevoerd.  
+Voor de verschillende productschappen en (hoofd)bedrijfschappen geldt dat zij als publiekrechtelijke bedrijfsorganen hun taken en handelingen in een apart rapport aan de orde dienen te stellen. In het onderhavige RIO zijn dan ook geen van deze bedrijfslichamen als actor opgevoerd. 
 
-### 7  
+### 7 
 
 ####De selectielijst
 
 Deze lijst is opgesteld aan de hand van een rapport institutioneel onderzoek (RIO), nr. 147, getiteld: *De slagboom gesloten.* Hierin is het onderzoek over het gehele beleidsterrein vastgesteld. Dat rapport beschrijft alle handelingen van de in de titel vermelde instellingen van de rijksoverheid en de daarbij betrokken actoren op het gebied van in- en uitvoerregelingen vanaf 1945. 
 
-### 7.1  
+### 7.1 
 
-####Actor: Minister van Economische Zaken
+####Actor: Minister van Economische Zaken 
 
-### 7.1.1  
+###  7.1.1 
 
-####Algemeen
+####Algemeen 
 
 ###7.1.1.1. Standaardhandelingen
 
@@ -447,10 +447,10 @@ Handeling: Het (mede) vaststellen van wettelijke regels inzake de controle op de
 Handeling: Het opstellen van statuten ter regeling van de bevoegdheden van het directoraat-generaal Buitenlandse Economische Betrekkingen inzake het beleidsterrein in- en uitvoerregelingen Periode: 1945– Grondslag: In- en uitvoerbesluit 1944 Product: Statuten Waardering: B (5) 
 ###(24.)
 
-Handeling: Het opstellen van verslagen van de departementale inbreng in het overleg over het beleidsterrein in- en uitvoerregelingen tijdens internationale handelsbesprekingen Periode: 1945– Grondslag: In- en uitvoerbesluit 1944 Opmerking: Deze verslagen staan los van de vergaderverslagen die het coördinerende ministerie maakt. Vgl. hand. 20 RIO *Agrarische Handelspolitiek* Waardering: B (3) 
+Handeling: Het opstellen van verslagen van de departementale inbreng in het overleg over het beleidsterrein in- en uitvoerregelingen tijdens internationale handelsbesprekingen Periode: 1945– Grondslag: In- en uitvoerbesluit 1944 Opmerking: Deze verslagen staan los van de vergaderverslagen die het coördinerende ministerie maakt. Vgl. hand. 20 RIO *Agrarische Handelspolitiek*  Waardering: B (3) 
 ###(25.)
 
-Handeling: Het opstellen en wijzigen van instructies van door de Minister van Economische Zaken geleide delegaties naar organen van internationale handelsorganisaties Periode: 1945– Grondslag: In- en uitvoerbesluit 1944 Product: Instructies Opmerking: Vgl. hand. 19 RIO *Agrarische Handelspolitiek en exportbevordering* Waardering: B (5) 
+Handeling: Het opstellen en wijzigen van instructies van door de Minister van Economische Zaken geleide delegaties naar organen van internationale handelsorganisaties Periode: 1945– Grondslag: In- en uitvoerbesluit 1944 Product: Instructies Opmerking: Vgl. hand. 19 RIO *Agrarische Handelspolitiek en exportbevordering*  Waardering: B (5) 
 ###(26.)
 
 Handeling: Het sluiten van of het doen aansluiten van Nederland bij internationale verdragen betreffende de in- en uitvoer van industriële goederen Periode: 1945–1985 Grondslag: In- en Uitvoerwet 1944 Product Verdragen en akkoorden Opmerking: Vanaf 1985 werden alleen nog verdragen in EG-verband gesloten. Waardering: B (1) 
@@ -547,17 +547,17 @@ Handeling: Het uitoefenen van toezicht op de verlening van in- en uitvoervergunn
 Handeling: Het opstellen en wijzigen van standpunten en het voorbereiden van interdepartementaal overleg inzake het beleidsterrein in- en uitvoerregelingen in Benelux-verband Periode: 1945– Product: Nota’s, verslagen Opmerking: Zie ook handeling 23 RIO *Agrarische Handelspolitiek*. Onderdeel van de handeling is het opstellen van verslagen n.a.v. interdepartementaal overleg. Waardering: B (1) 
 ###(69.)
 
-Handeling: Het opstellen en wijzigen van instructies van door het Ministerie van Economische Zaken geleide delegaties naar Benelux-vergaderingen inzake in- en uitvoerregelingen Periode: 1945– Opmerking: Zie ook hand. 26 RIO *Agrarische Handelspolitiek en exportbevordering* Waardering: B (5) 
+Handeling: Het opstellen en wijzigen van instructies van door het Ministerie van Economische Zaken geleide delegaties naar Benelux-vergaderingen inzake in- en uitvoerregelingen Periode: 1945– Opmerking: Zie ook hand. 26 RIO *Agrarische Handelspolitiek en exportbevordering*  Waardering: B (5) 
 ###(70.)
 
 Handeling: Het opstellen van verslagen van vergaderingen in Benelux verband inzake in- en uitvoerregelingen Periode: 1945– Product: Verslagen Waardering: B (3) 
 ###(71.)
 
-Handeling: Het, in delegaties van de Commissie voor de Handelspolitiek, leveren van bijdragen aan de totstandkoming en opzegging van bilaterale verdragen inzake de in- en uitvoer van goederen in Benelux-verband Periode: 1956–1995 Grondslag: Benelux-verdrag/ Protocol van de Benelux-afspraken 1947 Product: Handelsovereenkomsten Opmerking: Deze verdragen maken meestal deel uit van bredere handelsverdragen die door EZ en/of de ministers van Buitenlandse zaken en LNV gesloten worden. Waardering: B (1)  
+Handeling: Het, in delegaties van de Commissie voor de Handelspolitiek, leveren van bijdragen aan de totstandkoming en opzegging van bilaterale verdragen inzake de in- en uitvoer van goederen in Benelux-verband Periode: 1956–1995 Grondslag: Benelux-verdrag/ Protocol van de Benelux-afspraken 1947 Product: Handelsovereenkomsten Opmerking: Deze verdragen maken meestal deel uit van bredere handelsverdragen die door EZ en/of de ministers van Buitenlandse zaken en LNV gesloten worden. Waardering: B (1) 
 
-### 7.1.2  
+### 7.1.2 
 
-####Europese Gemeenschappen
+####Europese Gemeenschappen 
 
 ###(72.)
 
@@ -585,7 +585,7 @@ Handeling: Het voorbereiden van vergaderingen van ad hoc High Level groepen met 
 Handeling: Het opstellen van departementale standpunten inzake agendapunten van Raadsvergaderingen met betrekking tot het beleidsterrein in- en uitvoerregelingen Periode: 1968– Opmerking: Nationale standpunten en onderhandelingsposities inzake agendapunten van Raadsvergaderingen. Onder deze handeling valt ook het opstellen van verslagen van Raadsvergaderingen. Waardering: B (1) 
 ###(80.)
 
-Handeling: Het opstellen van departementale standpunten inzake algemene en op langere termijn spelende zaken van EU-belang inzake het beleidsterrein in- en uitvoerregelingen Periode: 1993– Opmerking: Overleg hierover in de Coördinatiecommissie op *Hoog Ambtelijk Niveau (CoCoHan)* l eidt tot algemene rapporten aan de betrokken ministers. Waardering: B (1) 
+Handeling: Het opstellen van departementale standpunten inzake algemene en op langere termijn spelende zaken van EU-belang inzake het beleidsterrein in- en uitvoerregelingen Periode: 1993– Opmerking: Overleg hierover in de Coördinatiecommissie op *Hoog Ambtelijk Niveau (CoCoHan)*l eidt tot algemene rapporten aan de betrokken ministers. Waardering: B (1) 
 ###(81.)
 
 Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in Adviescomités ter voorbereiding van besluiten van de Europese Commissie inzake in- en uitvoerregelingen Periode: 1952– Grondslag: RIO Energiebeleid Product: Rapporten Opmerking: Voorbeelden van comités zijn; Commission de Coordination ; Het Gemengd Comité; samenwerkingsorgaan van nationale regeringen en de Hoge Autoriteit Waardering: B (1) 
@@ -612,11 +612,11 @@ Handeling: Het stellen van regels ter beperking van de invoer van onder communau
 Handeling: Het stellen van nadere regels voor de restitutie van lasten, betaald voor de invoer van goederen Periode: 1962– Grondslag: Invoerbeschikking landen 1981, art. 3 Product: Jaarlijkse vrijstellingsbeschikkingen niet-landbouwgoederen van Benelux en EG, Vrijstellingsbeschikking klein grensverkeer, Vrijstellingsbeschikking tabak (Stcrt. 1982, 231) Opmerking: Genoemde vrijstellingen kunnen inhouden; Vrijstelling van verplichting tot het vertonen van een certificaat of een andere vorm van douanecontrole; Vrijstelling van een invoerverbod na een getoonde verklaring of legitimatie. Deze vrijstellingen kunnen betrekking hebben op de doorvoer van goederen of wederinvoer van reeds uitgevoerde goederen, waarvan het voornemen bij de douane-ambtenaren is bekend gemaakt. Waardering: B (5) 
 ###(89.)
 
-Handeling: Het (leveren van bijdragen aan het) vaststellen van model-importcertificaten in communautair verband Periode: 1958– Product: Modelformulieren Waardering: B (5)  
+Handeling: Het (leveren van bijdragen aan het) vaststellen van model-importcertificaten in communautair verband Periode: 1958– Product: Modelformulieren Waardering: B (5) 
 
-### 7.1.3  
+### 7.1.3 
 
-####Contingentering, heffingen en internationaal beleid
+####Contingentering, heffingen en internationaal beleid 
 
 ###(90.)
 
@@ -644,10 +644,10 @@ Handeling: Het doen omzetten van bilaterale contingenten met EEG-lidstaten in gl
 Handeling: Het doen wijzigen van de gecontingenteerde hoeveelheden in vastgestelde globale EEG-contingenten Periode: 1959–1962 Grondslag: Art. 34 EEG-verdrag; Versnellingsbesluit van de Raad van 12 mei 1962 Opmerking: Overlegkader; Ministerie van Buitenlandse Zaken, EEG-organen Waardering: B (5) 
 ###(107.)
 
-Handeling: Het concipiëren van door de ministerraad vast te stellen instructies ten aanzien van de afsluiting, wijziging, verlenging of verstrekking van internationale afspraken door raden in het kader van productovereenkomsten. Periode: 1946–1986 Product: Instructies Opmerking: Dit is handeling 31 van het PIVOT-rapport *Agrarische Handelspolitiek en exportbevordering* Waardering: B (1) 
+Handeling: Het concipiëren van door de ministerraad vast te stellen instructies ten aanzien van de afsluiting, wijziging, verlenging of verstrekking van internationale afspraken door raden in het kader van productovereenkomsten. Periode: 1946–1986 Product: Instructies Opmerking: Dit is handeling 31 van het PIVOT-rapport *Agrarische Handelspolitiek en exportbevordering*  Waardering: B (1) 
 ###(109.)
 
-Handeling: Het ten behoeve van internationale productorganisaties samenstellen van overzichten van de Nederlandse invoer, verwerking, consumptie, doorvoer en uitvoer van grondstoffen. Periode: ca. 1947– Product: Internationale productovereenkomsten Opmerking: Dit is handeling 33 van het PIVOT-rapport *Agrarische handelspolitiek en exportbevordering* Waardering: B (3) 
+Handeling: Het ten behoeve van internationale productorganisaties samenstellen van overzichten van de Nederlandse invoer, verwerking, consumptie, doorvoer en uitvoer van grondstoffen. Periode: ca. 1947– Product: Internationale productovereenkomsten Opmerking: Dit is handeling 33 van het PIVOT-rapport *Agrarische handelspolitiek en exportbevordering*  Waardering: B (3) 
 ###(111.)
 
 Handeling: Het deelnemen aan en leveren van bijdragen aan het onderzoek naar de verwachte invoerbehoefte door de Commissie voor Europese Economische samenwerking Periode: 1947–1948 Grondslag: Voorwaarden van de VS voor deelname aan het Marshall-plan Product: Rapport Opmerking: Nederland nam aan deze commissie deel in Benelux verband. Waardering: B (1) 
@@ -665,11 +665,11 @@ Handeling: Het bemiddelen bij de indiening van klachten inzake dumping bij het a
 Handeling: Het bij ministerieel besluit opleggen van heffingen overeenkomstig anti-dumpingsverordeningen van de Europese Commissie of aanbevelingen van de Hoge Autoriteit van de Europese Gemeenschap voor Kolen en Staal Periode: 1996– Grondslag: Besluit heffingen anti-dumpingsgoederen, art. 2 Product: Besluit Waardering: B (5) 
 ###(122.)
 
-Handeling: Het instellen en onderhouden van een register van anti-dumpingmaatregelen Periode: 1996– Product: Overzicht, database Waardering: B (5)  
+Handeling: Het instellen en onderhouden van een register van anti-dumpingmaatregelen Periode: 1996– Product: Overzicht, database Waardering: B (5) 
 
-### 7.1.4  
+###  7.1.4 
 
-####Strategische goederen en chemische stoffen
+####Strategische goederen en chemische stoffen 
 
 ###7.1.4.1. Algemeen
 
@@ -717,7 +717,7 @@ Handeling: Het leveren van bijdragen aan Nederlandse delegaties bij internationa
 Handeling: Het voorbereiden, opstellen en afsluiten van (internationale) overeenkomsten inzake de exportcontrole van strategische goederen Periode: 1945– Grondslag: Nota wapenexportbeleid TK 1990–1991, 22054, nrs. 1–2, TK 1991–1992, 22054, nr. 9, Besluiten Europese Raad d.d. 29-6-1991 en 27-6-1992 (in het kader van de Europese politieke samenwerking) Product: Overeenkomsten, verdragen Opmerking: Zie ook handboek Strategische Goederen Centrale Dienst In- en Uitvoer Waardering: B (1) 
 ###(155.)
 
-Handeling: Het leveren van bijdragen aan inspecties uitvloeiend uit internationale verdragen ter beperking van (de verspreiding van) chemische, biologische, nucleaire en conventionele bewapening Periode: 1945– Grondslag: Internationale verdragen Product: Ondermeer rapporten Opmerking: Vgl. hand. 170 in RIO *Te land, ter zee en in de lucht* Waardering: B (5) : rapporten V 10 jaar: overige neerslag 
+Handeling: Het leveren van bijdragen aan inspecties uitvloeiend uit internationale verdragen ter beperking van (de verspreiding van) chemische, biologische, nucleaire en conventionele bewapening Periode: 1945– Grondslag: Internationale verdragen Product: Ondermeer rapporten Opmerking: Vgl. hand. 170 in RIO *Te land, ter zee en in de lucht*  Waardering: B (5) : rapporten V 10 jaar: overige neerslag 
 ###(156.)
 
 Handeling: Het leveren van bijdragen aan verweer en beroepen inzake de verlening van communautaire algemene vergunningen voor de export van strategische goederen Periode: 2000– Product: Verweergeschriften Opmerking: Betreft verweer en beroepen in communautair verband Waardering: B (5) : historisch belang 
@@ -746,7 +746,7 @@ Handeling: Het (mede) vaststellen, wijzigen en intrekken van de lijst van chemic
 Handeling: Het vaststellen van vrijstellingsregelingen van de vergunningsplicht voor de uitvoer van onder communautair toezicht gestelde chemicaliën in nader bepaalde situaties Periode: 1991– Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Product: Vrijstellingsregeling Waardering: V 10 jaar na intrekking regeling 
 ###(167.)
 
-Handeling: Het informeren van de Europese Commissie inzake de uitvoer van chemische stoffen door Nederlandse bedrijven Periode: 1992– Grondslag: Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162)  Verordening (EEG) nr. 2455/92  Product: Overzichten Waardering: B (3): rapporten V 10 jaar: overige materiaal 
+Handeling: Het informeren van de Europese Commissie inzake de uitvoer van chemische stoffen door Nederlandse bedrijven Periode: 1992– Grondslag: Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162) Verordening (EEG) nr. 2455/92 Product: Overzichten Waardering: B (3): rapporten V 10 jaar: overige materiaal 
 ###(168.)
 
 Handeling: Het verlenen van vergunningen voor de uitvoer van onder communautair toezicht gestelde chemicaliën Periode: 1991– Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Product: Uitvoervergunning Opmerking: Bedoeld ter voorkoming van de productie van verdovende middelen. Waardering: V 10 jaar 
@@ -819,7 +819,7 @@ Handeling: Het voordragen van bij Koninklijk Besluit te benoemen leden van de Co
 Handeling: Het benoemen van medewerkers van het secretariaat van de Commissie Boycotmaatregelen Periode: 1984– Grondslag: Wet melding buitenlandse boycotmaatregelen, art. 3, lid 3, 1984 Product: Benoemingen Waardering: V 5 jaar na einde benoeming 
 ###(207.)
 
-Handeling: Het informeren van de Europese Commissie over opgelegde sancties tegen overtreding van de anti-boycot verordening *Periode:* 1996– Grondslag: Verordening (EG) nr. 2271/96 Wet uitvoering anti-boycot verordening 1998 Product: Rapport Waardering: B (3) 
+Handeling: Het informeren van de Europese Commissie over opgelegde sancties tegen overtreding van de anti-boycot verordening  *Periode:*1996– Grondslag: Verordening (EG) nr. 2271/96 Wet uitvoering anti-boycot verordening 1998 Product: Rapport Waardering: B (3) 
 ###(208.)
 
 Handeling: Het benoemen van de Nederlandse vertegenwoordiger in het Comité inzake Anti-boycot maatregelen Periode: 1996– Grondslag: Verordening (EG) nr. 2271/96 Wet uitvoering anti-boycot verordening 1998 Product: Benoeming Opmerking: Het comité is ingesteld door de Europese Commissie ter advisering inzake te nemen anti-boycot maatregelen Waardering: V 10 jaar na einde benoeming 
@@ -836,11 +836,11 @@ Handeling: Het deelnemen aan en leveren van bijdragen aan de onderhandelingen ov
 Handeling: Het met het ministerie van Buitenlandse Zaken sluiten van of het doen aansluiten van Nederland bij internationale verdragen op het gebied van de verhandeling van wapens Periode: 1950– Overlegorgaan Ministerie van Buitenlandse Zaken Product: Bijvoorbeeld: Het Non-proliferatieverdrag tegen kernwapens (1976);Verdrag chemische wapens, 1993; Biologisch wapenverdrag; OPCW; het Wassenaar-arrangement on export controls for conventional arms and dual-use goods and technologies, 1996. Waardering: B (1,5) 
 ###(217.)
 
-Handeling: Het met het ministerie van Buitenlandse Zaken sluiten van of het doen aansluiten van Nederland bij internationale overleggroepen in het kader van verdragen op het gebied van de verhandeling en verspreiding van wapens Periode: 1950 Overlegorgaan Ministerie van Buitenlandse Zaken Product: Voorbeelden zijn: De COCOM, de Wassenaar-groep ‘Nuclear Suppliers Group’ (NSG), voortkomend uit het Nonproliferatieverdrag ‘Missile Technology Control Regime’ (MTCR), vanaf 1990 Australie groep tegen chemische wapens, 1985-OPBW Waardering: B (1, 5)  
+Handeling: Het met het ministerie van Buitenlandse Zaken sluiten van of het doen aansluiten van Nederland bij internationale overleggroepen in het kader van verdragen op het gebied van de verhandeling en verspreiding van wapens Periode: 1950 Overlegorgaan Ministerie van Buitenlandse Zaken Product: Voorbeelden zijn: De COCOM, de Wassenaar-groep ‘Nuclear Suppliers Group’ (NSG), voortkomend uit het Nonproliferatieverdrag ‘Missile Technology Control Regime’ (MTCR), vanaf 1990 Australie groep tegen chemische wapens, 1985-OPBW Waardering: B (1, 5) 
 
-### 7.2  
+###  7.2 
 
-####Actor: Bureau van de Regeringscommissaris voor het Europees Herstelprogramma
+####Actor: Bureau van de Regeringscommissaris voor het Europees Herstelprogramma 
 
 ###(110.)
 
@@ -865,15 +865,15 @@ Handeling: Het doen publiceren van voorlichtingsbrochures aan het bedrijfsleven 
 Handeling: Het uitoefenen van toezicht op het eindverbruik van ingevoerde goederen, verstrekt door de Verenigde Staten in het kader van de Marshallhulp. Periode: 1949–1956 Bron: ‘Uitvoerige taakomschrijving’, p. 4. Bronnen Marshallhulp Product: Proces-verbaal Opmerking: De controle wordt uitgevoerd in opdracht van de Centrale Dienst In- en Uitvoer aan de hand van door deze dienst verstrekte gegevens. Object van controle zijn de importeurs en de eventuele afnemers in de industrie, de groothandel en de detailhandel. Waardering: B (5): Proces-verbaal V 5 jaar: overig materiaal 
 ###(215.)
 
-Handeling: Het (mede) voorstellen van bestedingen van overheidsprojecten met de tegenwaarde van door de VS geïmporteerde Marshallgoederen Periode: 1950–1960 Product: Voorstellen Waardering: B (5)  
+Handeling: Het (mede) voorstellen van bestedingen van overheidsprojecten met de tegenwaarde van door de VS geïmporteerde Marshallgoederen Periode: 1950–1960 Product: Voorstellen Waardering: B (5) 
 
-### 7.3  
+###  7.3 
 
-####Actor: Centrale Dienst In- en Uitvoer (CDIU)
+####Actor: Centrale Dienst In- en Uitvoer (CDIU) 
 
-### 7.3.1  
+###  7.3.1 
 
-####Algemeen
+####Algemeen 
 
 ###(8.)
 
@@ -916,11 +916,11 @@ Handeling: Het jaarlijks maken van ramingen van het handelsverkeer met diverse l
 Handeling: Het jaarlijks verantwoorden van de in- en uit te voeren goederen Periode: 1945–1963 Grondslag: In- en Uitvoerwet 1944 Product: Realisatiestaten Opmerking: Overlegkader: Minister van Economische zaken, Rijksbureaus (tot 1953) Waardering: B (3) 
 ###(67.)
 
-Handeling: Het voorbereiden van opsporingsonderzoeken naar overtredingen van de bepalingen gesteld in de in- en uitvoerregelingen Periode: 1945–1997 Grondslag: Handboek strategische goederen Centrale Dienst In- en Uitvoer Opmerking: Betreft o.a het verzamelen van informatie ten behoeve van onderzoeken naar overtredingen door de Economische Controle Dienst. CDIU is per 1997 opgegaan in Douane. Handelingen Douane vanaf 1997 zijn opgenomen in de selectielijst van de Belastingdienst Waardering: V 10 jaar  
+Handeling: Het voorbereiden van opsporingsonderzoeken naar overtredingen van de bepalingen gesteld in de in- en uitvoerregelingen Periode: 1945–1997 Grondslag: Handboek strategische goederen Centrale Dienst In- en Uitvoer Opmerking: Betreft o.a het verzamelen van informatie ten behoeve van onderzoeken naar overtredingen door de Economische Controle Dienst. CDIU is per 1997 opgegaan in Douane. Handelingen Douane vanaf 1997 zijn opgenomen in de selectielijst van de Belastingdienst Waardering: V 10 jaar 
 
-### 7.3.2  
+### 7.3.2 
 
-####Contingentering, heffingen en internationaal beleid
+####Contingentering, heffingen en internationaal beleid 
 
 ###(91.)
 
@@ -939,11 +939,11 @@ Handeling: Het (doen) publiceren van voorlichtingsbrochures aan het bedrijfsleve
 Handeling: Het (steekproefsgewijs) controleren van formulieren inzake de eindbestemming van met Marshallhulp ingevoerde goederen Periode: 1948–1954 Grondslag: Statuten OEES Product: Proces-verbaal, rapport Waardering: B (2,5) 
 ###(117.)
 
-Handeling: Het aan de Economische Controle Dienst verstrekken van gegevens benodigd voor het uitoefenen van toezicht op het eindverbruik van met Marshallhulp ingevoerde goederen Periode: 1949–1956 Grondslag: ‘Uitvoerige taakomschrijving’, p.4 Product: Brieven, rapporten Waardering: B (5): rapporten V 5 jaar: overig materiaal  
+Handeling: Het aan de Economische Controle Dienst verstrekken van gegevens benodigd voor het uitoefenen van toezicht op het eindverbruik van met Marshallhulp ingevoerde goederen Periode: 1949–1956 Grondslag: ‘Uitvoerige taakomschrijving’, p.4 Product: Brieven, rapporten Waardering: B (5): rapporten V 5 jaar: overig materiaal 
 
-### 7.3.3  
+###  7.3.3 
 
-####Strategische goederen en chemische stoffen
+####Strategische goederen en chemische stoffen 
 
 ###(130.)
 
@@ -1013,11 +1013,11 @@ Handeling: Het doen publiceren van voorlichtingsbrochures aan het bedrijfsleven 
 Handeling: Het steekproefsgewijs controleren van de formulieren inzake de eindbestemming van met Marshallhulp ingevoerde goederen Periode: 1948–1954 Grondslag: ‘Uitvoerige taakomschrijving’, p. 4. Product: Rapporten Waardering: B (5) 
 ###(214.)
 
-Handeling: Het uitoefenen van toezicht op het eindverbruik van ingevoerde goederen, verstrekt door de Verenigde Staten in het kader van de Marshallhulp. Periode: 1949–1956 Bron: ‘Uitvoerige taakomschrijving’, p. 4. Bronnen Marshallhulp Product: Proces-verbaal Opmerking: De controle wordt uitgevoerd in opdracht van de Centrale Dienst In- en Uitvoer aan de hand van door deze dienst verstrekte gegevens. Object van controle zijn de importeurs en de eventuele afnemers in de industrie, de groothandel en de detailhandel. Waardering: B (5): Proces-verbaal V 5 jaar: overig materiaal  
+Handeling: Het uitoefenen van toezicht op het eindverbruik van ingevoerde goederen, verstrekt door de Verenigde Staten in het kader van de Marshallhulp. Periode: 1949–1956 Bron: ‘Uitvoerige taakomschrijving’, p. 4. Bronnen Marshallhulp Product: Proces-verbaal Opmerking: De controle wordt uitgevoerd in opdracht van de Centrale Dienst In- en Uitvoer aan de hand van door deze dienst verstrekte gegevens. Object van controle zijn de importeurs en de eventuele afnemers in de industrie, de groothandel en de detailhandel. Waardering: B (5): Proces-verbaal V 5 jaar: overig materiaal 
 
-### 7.4  
+### 7.4 
 
-####. Actor: Rijksbureaus
+####. Actor: Rijksbureaus 
 
 ###(28.)
 
@@ -1030,7 +1030,7 @@ Handeling: Het leveren van bijdragen aan het opstellen van jaarlijkse ramingen v
 Handeling: Het leveren van bijdragen aan de jaarlijkse verantwoording van de in- en uit te voeren goederen Periode: 1945–1963 Grondslag: In- en uitvoerwet 1944 Opmerking: Op basis van deze gegevens stelt de Centrale Dienst In- en Uitvoer realisatiestaten op (zie voorgaande handeling) Waardering: B (3) 
 ###(138.)
 
-Handeling: Het rapporteren aan de minister van Economische Zaken inzake de uitvoer van strategische goederen Periode: 1950–1963 Grondslag: Richtlijn van de Minister van Economische Zaken d.d. 21 februari 1950 Product: Rapporten Waardering: B (3)  
+Handeling: Het rapporteren aan de minister van Economische Zaken inzake de uitvoer van strategische goederen Periode: 1950–1963 Grondslag: Richtlijn van de Minister van Economische Zaken d.d. 21 februari 1950 Product: Rapporten Waardering: B (3) 
 
 #### *7.5. Actor: Commissie Boycotmaatregelen* 
 
@@ -1039,7 +1039,7 @@ Handeling: Het rapporteren aan de minister van Economische Zaken inzake de uitvo
 Handeling: Het adviseren van de minister van Economische Zaken inzake buitenlandse boycotmaatregelen Periode: 1984– Grondslag: Wet melding buitenlandse boycotmaatregelen, art. 3, lid 4–5, 1984 Product: Advies Waardering: B (5) 
 ###(206.)
 
-Handeling: Het jaarlijks informeren van de minister van Economische Zaken inzake buitenlandse boycotmaatregelen Periode: 1984– Grondslag: Wet melding buitenlandse boycotmaatregelen, art. 3, lid 5 Product: Rapport Waardering: B (3)  
+Handeling: Het jaarlijks informeren van de minister van Economische Zaken inzake buitenlandse boycotmaatregelen Periode: 1984– Grondslag: Wet melding buitenlandse boycotmaatregelen, art. 3, lid 5 Product: Rapport Waardering: B (3) 
 
 #### *7.6. Actor: Commissie Regelingen In- en Uitvoerwet* 
 
@@ -1050,11 +1050,11 @@ Handeling: Het adviseren inzake de vaststelling, wijziging of intrekking van bes
 
 ###(92.)
 
-Handeling: Het adviseren van de Nederlandse en Belgische regering inzake de vereenvoudiging van de formaliteiten betreffende de contingentering van de in- en uitvoer van goederen Periode: 1945– Grondslag: Boekestijn, 106 Product: Lijsten van goederen waarvoor de contingenteringen konden worden opgeheven Waardering: B (5)  
+Handeling: Het adviseren van de Nederlandse en Belgische regering inzake de vereenvoudiging van de formaliteiten betreffende de contingentering van de in- en uitvoer van goederen Periode: 1945– Grondslag: Boekestijn, 106 Product: Lijsten van goederen waarvoor de contingenteringen konden worden opgeheven Waardering: B (5) 
 
-### 7.8  
+###  7.8 
 
-####Economische Controle Dienst (ECD)
+####Economische Controle Dienst (ECD) 
 
 ###(8.)
 
@@ -1091,7 +1091,7 @@ Handeling: Het bepalen en opleggen van (administratieve) sancties bij overtredin
 Handeling: Het adviseren van de Minister van Economische Zaken bij aanvragen van vergunningen voor de uitvoer van strategische goederen Periode: 1951–1963 Grondslag: ‘Uitvoerige taakomschrijving’, p.4 Besluit uitvoer strategische goederen Product: Adviezen Waardering: B (5) 
 ###(167.)
 
-Handeling: Het informeren van de Europese Commissie inzake de uitvoer van chemische stoffen door Nederlandse bedrijven Periode: 1992–1999 Grondslag: Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162)  Verordening (EEG) nr. 2455/92  Product: Overzichten Waardering: B (3): rapporten V 10 jaar: overige materiaal 
+Handeling: Het informeren van de Europese Commissie inzake de uitvoer van chemische stoffen door Nederlandse bedrijven Periode: 1992–1999 Grondslag: Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162) Verordening (EEG) nr. 2455/92 Product: Overzichten Waardering: B (3): rapporten V 10 jaar: overige materiaal 
 ###(173.)
 
 Handeling: Het uitvoeren van inspecties bij (potentiële) exporteurs van chemische stoffen Periode: 1991–1999 Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Wet voorkoming misbruik chemicaliën 1995 Product: Rapporten, procesverbalen Opmerking: Aansturing vindt plaats door Economische Zaken Waardering: B (5) 
@@ -1100,7 +1100,7 @@ Handeling: Het uitvoeren van inspecties bij (potentiële) exporteurs van chemisc
 Handeling: Het controleren van exportdocumenten met betrekking tot de uitvoer van chemische stoffen Periode: 1991–1999 Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Wet voorkoming misbruik chemicaliën 1995 Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162) Product: Controlerapporten Waardering: V 10 jaar 
 ###(175.)
 
-Handeling: Het op aanwijzing van de minister van Economische Zaken deelnemen aan internationale inspectieteams of aan begeleidingsteams bij inspecties inzake de vervaardiging of verspreiding van chemische wapens Periode: 1997–1999 Grondslag: Uitvoeringswet verdrag chemische wapens Product: Rapporten Opmerking: Overlegkader: ministerie van Economische Zaken Vgl. hand 169 RIO *Te land, ter zee en in de lucht* Waardering: B (5) 
+Handeling: Het op aanwijzing van de minister van Economische Zaken deelnemen aan internationale inspectieteams of aan begeleidingsteams bij inspecties inzake de vervaardiging of verspreiding van chemische wapens Periode: 1997–1999 Grondslag: Uitvoeringswet verdrag chemische wapens Product: Rapporten Opmerking: Overlegkader: ministerie van Economische Zaken Vgl. hand 169 RIO *Te land, ter zee en in de lucht*  Waardering: B (5) 
 ###(177.)
 
 Handeling: Het informeren van het OPCW inzake de uitvoer van chemische stoffen door Nederlandse bedrijven Periode: 1995–1999 Grondslag: Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162) Product: Overzichten Opmerking: Het OPCW te Den Haag ziet namens de VN wereldwijd toe op het verbod op chemische wapens Waardering: B (3) 
@@ -1112,41 +1112,41 @@ Handeling: Het toezien op de naleving van ingestelde in- en uitvoerverboden tege
 Handeling: Het opleggen van straffen bij overtreding van ingestelde verboden tegen bepaalde landen Periode: 1935–1999 Grondslag: Uitvoerverbodenwet 1935, art. 7 (+ uitvoeringsregelingen; KB 1954, art. 3) Sanctiewet 1935 Sanctiewet 1977 Product: Sancties Waardering: B (5) 
 ###(214.)
 
-Handeling: Het uitoefenen van toezicht op het eindverbruik van ingevoerde goederen, verstrekt door de Verenigde Staten in het kader van de Marshallhulp. Periode: 1949–1956 Bron: ‘Uitvoerige taakomschrijving’, p. 4. Bronnen Marshallhulp Product: Proces-verbaal Opmerking: De controle wordt uitgevoerd in opdracht van de Centrale Dienst In- en Uitvoer aan de hand van door deze dienst verstrekte gegevens. Object van controle zijn de importeurs en de eventuele afnemers in de industrie, de groothandel en de detailhandel. Waardering: B (5): Proces-verbaal V 5 jaar: overig materiaal  
+Handeling: Het uitoefenen van toezicht op het eindverbruik van ingevoerde goederen, verstrekt door de Verenigde Staten in het kader van de Marshallhulp. Periode: 1949–1956 Bron: ‘Uitvoerige taakomschrijving’, p. 4. Bronnen Marshallhulp Product: Proces-verbaal Opmerking: De controle wordt uitgevoerd in opdracht van de Centrale Dienst In- en Uitvoer aan de hand van door deze dienst verstrekte gegevens. Object van controle zijn de importeurs en de eventuele afnemers in de industrie, de groothandel en de detailhandel. Waardering: B (5): Proces-verbaal V 5 jaar: overig materiaal 
 
-### 7.9  
+###  7.9 
 
-####Actor: Interdepartementale Ambtelijke Begeleidingsgroep (IAB)
+####Actor: Interdepartementale Ambtelijke Begeleidingsgroep (IAB) 
 
 ###(126.)
 
 Handeling: Het coördineren van de besluitvorming van de Ministers van Economische zaken en Buitenlandse Zaken inzake het verlenen van uitvoervergunningen voor strategische goederen Periode: 1950–1955 Opmerking: Overlegkader: Minister van Economische Zaken Waardering: B (5) 
 ###(127.)
 
-Handeling: Het voorbereiden en bepalen van gezamenlijke standpunten ten aanzien van de verkoop van strategische goederen Periode: 1963– Opmerking: De IAB wordt hiervoor door het Bureau Productie en Civiele Verdediging (BPCV) bijeengeroepen. Waardering: B (1, 5)  
+Handeling: Het voorbereiden en bepalen van gezamenlijke standpunten ten aanzien van de verkoop van strategische goederen Periode: 1963– Opmerking: De IAB wordt hiervoor door het Bureau Productie en Civiele Verdediging (BPCV) bijeengeroepen. Waardering: B (1, 5) 
 
-### 7.10  
+### 7.10 
 
-####Actor: Interdepartementale Commissie voor het Europees Herstel Programma
+####Actor: Interdepartementale Commissie voor het Europees Herstel Programma 
 
 ###(110.)
 
 Handeling: Het voorbereiden en opstellen van jaarlijkse import programma’s voor industriële goederen in het kader van het Europees Herstel Programma Periode: 1948–1952 Grondslag: Statuten OEES/Voorwaarden van de VS voor het verlenen van Marshall-hulp Product: Import- of jaarprogramma Opmerking: De importprogramma’s werden ingediend bij de OEES die op basis van de rapporten van de deelnemende landen aanbevelingen deed voor de verdeling van de Amerikaanse hulp. Waardering: B (1,5) 
 ###(114.)
 
-Handeling: Het voorbereiden en opstellen van jaarlijkse import programma’s voor industriële goederen in het kader van het Europees Herstel Programma Periode: 1948–1952 Grondslag: Statuten OEES/ Voorwaarden van de VS voor het verlenen van Marshall-hulp Product: Import- of jaarprogramma Opmerking: De importprogramma’s werden ingediend bij de OEES die op basis van de rapporten van de deelnemende landen aanbevelingen deed voor de verdeling van de Amerikaanse hulp. Waardering: B (1,5)  
+Handeling: Het voorbereiden en opstellen van jaarlijkse import programma’s voor industriële goederen in het kader van het Europees Herstel Programma Periode: 1948–1952 Grondslag: Statuten OEES/ Voorwaarden van de VS voor het verlenen van Marshall-hulp Product: Import- of jaarprogramma Opmerking: De importprogramma’s werden ingediend bij de OEES die op basis van de rapporten van de deelnemende landen aanbevelingen deed voor de verdeling van de Amerikaanse hulp. Waardering: B (1,5) 
 
-### 7.11  
+### 7.11 
 
-####Actor: Interdepartementale Raad voor de handelspolitiek (IRHP)
+#### Actor: Interdepartementale Raad voor de handelspolitiek (IRHP) 
 
 ###(108.)
 
-Handeling: Het instemmen met door het ministerie van Economische Zaken opgestelde concepten van door de ministerraad vast te stellen instructies ten aanzien van de afsluiting, wijziging, verlenging of verstrekking van internationale afspraken door raden in het kader van productovereenkomsten. Periode: 1946–1986 Product: Productovereenkomsten Waardering: B (1)  
+Handeling: Het instemmen met door het ministerie van Economische Zaken opgestelde concepten van door de ministerraad vast te stellen instructies ten aanzien van de afsluiting, wijziging, verlenging of verstrekking van internationale afspraken door raden in het kader van productovereenkomsten. Periode: 1946–1986 Product: Productovereenkomsten Waardering: B (1) 
 
-### 7.12  
+### 7.12 
 
-####Actor: Minister van Buitenlandse Zaken
+#### Actor: Minister van Buitenlandse Zaken 
 
 ###(26.)
 
@@ -1210,27 +1210,27 @@ Handeling: Het verlenen van vergunningen voor de in- of uitvoer van goederen uit
 Handeling: Het deelnemen aan en leveren van bijdragen aan de onderhandelingen over de inhoud en constitutionele vorm van de (op te richten) Organisatie voor Europese Economische Samenwerking Periode: 1947–1948 Product: Notulen e.d. Opmerking: Nederland nam aan deze commissie deel in Benelux verband. Waardering: B (1,5) 
 ###(211.)
 
-Handeling: Het (mede) instellen van organen in verband met de uitvoering van het Marshall-plan inzake het in- en uitvoerbeleid Periode: 1947–1952 Product: Commissies Opmerking: Ingesteld zijn o.a.: – Regeringscommissaris voor het Economisch Hulpprogramma; – Interdepartementale commissie voor het Economisch Hulpprogramma (IDC); – Raad van Advies voor het Marshall-plan Waardering: B (4)  
+Handeling: Het (mede) instellen van organen in verband met de uitvoering van het Marshall-plan inzake het in- en uitvoerbeleid Periode: 1947–1952 Product: Commissies Opmerking: Ingesteld zijn o.a.: – Regeringscommissaris voor het Economisch Hulpprogramma; – Interdepartementale commissie voor het Economisch Hulpprogramma (IDC); – Raad van Advies voor het Marshall-plan Waardering: B (4) 
 
-### 7.13  
+###  7.13 
 
-####Actor: Minister voor Ontwikkelingssamenwerking
+####Actor: Minister voor Ontwikkelingssamenwerking 
 
 ###(143.)
 
-Handeling: Het leveren van bijdragen aan de advisering door de Minister van Buitenlandse Zaken inzake de verlening van uitvoervergunningen voor strategische goederen naar (ontwikkelings-) landen die voorkomen op de OESO-DAC-lijst. Periode: 1995– Grondslag: Website EZ/ handelspolitiek Product: Aanvragen voor uitvoervergunningen Waardering: B (5)  
+Handeling: Het leveren van bijdragen aan de advisering door de Minister van Buitenlandse Zaken inzake de verlening van uitvoervergunningen voor strategische goederen naar (ontwikkelings-) landen die voorkomen op de OESO-DAC-lijst. Periode: 1995– Grondslag: Website EZ/ handelspolitiek Product: Aanvragen voor uitvoervergunningen Waardering: B (5) 
 
-### 7.14  
+###  7.14 
 
-####Actor: Adviesraad Internationale Vraagstukken
+####Actor: Adviesraad Internationale Vraagstukken 
 
 ###(132.)
 
-Handeling: Het adviseren van de regering inzake de controle van de handel in conventionele wapens Periode: 1997– Grondslag: Centrale Dienst In-en Uitvoer/ Handboek strategische goederen Opmerking: De AIV is in mei 1997 door de regering gevraagd om een onderzoek te doen naar, en aanbevelingen te doen voor het toekomstige beleid inzake de controle van de handel in conventionele wapens. Waardering: B (5)  
+Handeling: Het adviseren van de regering inzake de controle van de handel in conventionele wapens Periode: 1997– Grondslag: Centrale Dienst In-en Uitvoer/ Handboek strategische goederen Opmerking: De AIV is in mei 1997 door de regering gevraagd om een onderzoek te doen naar, en aanbevelingen te doen voor het toekomstige beleid inzake de controle van de handel in conventionele wapens. Waardering: B (5) 
 
-### 7.15  
+###  7.15 
 
-####Actor: Minister van Defensie
+####Actor: Minister van Defensie 
 
 ###(137.)
 
@@ -1240,11 +1240,11 @@ Handeling: Het adviseren van de Minister van Economische Zaken bij aanvragen van
 Handeling: Het (op verzoek) adviseren van de Centrale Dienst In- en Uitvoer inzake het verlenen van vergunningen voor de uitvoer van strategische goederen Periode: 1963– Grondslag: Uitvoerbesluit Strategische goederen 1963 Product: Advies Waardering: B (5) 
 ###(181.)
 
-Handeling: Het adviseren van de Minister van Buitenlandse Zaken inzake de vaststelling en verlenging van als sanctie gestelde in- en uitvoerverboden of -⁠beperkingen Periode: 1945– Grondslag: Sanctiewet 1935 Uitvoerverbodenwet 1935 Sanctiewet 1977, art.2 Product: Besluit Waardering: B (5)  
+Handeling: Het adviseren van de Minister van Buitenlandse Zaken inzake de vaststelling en verlenging van als sanctie gestelde in- en uitvoerverboden of -⁠beperkingen Periode: 1945– Grondslag: Sanctiewet 1935 Uitvoerverbodenwet 1935 Sanctiewet 1977, art.2 Product: Besluit Waardering: B (5) 
 
-### 7.16  
+### 7.16 
 
-####Actor: Minister van Financiën
+####Actor: Minister van Financiën 
 
 ###(29.)
 
@@ -1287,11 +1287,11 @@ Handeling: Het opleggen van beperkingen aan het bestuur van een bedrijfslichaam 
 Handeling: Het (op verzoek van de Minister van Economische Zaken) onderzoeken van en adviseren over aanvragen voor vrijstellingen en ontheffingen voor beperkende regelen inzake de in- en uitvoer van en naar landen waartegen sanctieregelingen van kracht zijn Periode: 1945– Grondslag: Uitvoeringsregeling besluit afgifte verklaring strategische goederen Product: Besluit Waardering: B (5) 
 ###(215.)
 
-Handeling: Het (mede) voorstellen van bestedingen van overheidsprojecten met de tegenwaarde van voor de VS geïmporteerde Marshallgoederen Periode: 1950–1960 Product: Voorstellen Waardering: B (5)  
+Handeling: Het (mede) voorstellen van bestedingen van overheidsprojecten met de tegenwaarde van voor de VS geïmporteerde Marshallgoederen Periode: 1950–1960 Product: Voorstellen Waardering: B (5) 
 
-### 7.17  
+###  7.17 
 
-####Actor: Minister van Landbouw, Natuurbeheer en Visserij
+####Actor: Minister van Landbouw, Natuurbeheer en Visserij 
 
 ###(53.)
 
@@ -1304,7 +1304,7 @@ Handeling: Het stellen van nadere regelen betreffende de vorm van de aanvragen t
 Handeling: Het stellen van nadere regelen betreffende de voorwaarden voor verlening van oorsprongsverklaringen Periode: 1976– Grondslag: Besluit afgifte oorsprongsverklaringen 1976, art. 2–4 Product: Regelgeving Opmerking: De Minister van Landbouw, Natuurbeheer en Visserij stelt de voorwaarden voor verlening van oorsprongsverklaringen mede vast indien het landbouwgoederen betreft. Waardering: B (5) 
 ###(109.)
 
-Handeling: Het ten behoeve van internationale productorganisaties samenstellen van overzichten van de Nederlandse invoer, verwerking, consumptie, doorvoer en uitvoer van grondstoffen. Periode: ca. 1947– Product: Internationale productovereenkomsten Opmerking: Dit is handeling 33 van het PIVOT-rapport *Agrarische handelspolitiek en exportbevordering* Waardering: B (3) 
+Handeling: Het ten behoeve van internationale productorganisaties samenstellen van overzichten van de Nederlandse invoer, verwerking, consumptie, doorvoer en uitvoer van grondstoffen. Periode: ca. 1947– Product: Internationale productovereenkomsten Opmerking: Dit is handeling 33 van het PIVOT-rapport *Agrarische handelspolitiek en exportbevordering*  Waardering: B (3) 
 ###(115.)
 
 Handeling: Het leveren van bijdragen aan de besluitvorming in de Interdepartementale Commissie voor het Europees Herstelprogramma met betrekking tot het opstellen van jaarlijkse importprogramma’s voor industriële goederen in het kader van het EHP. Periode: 1948–1952 Opmerking: De Nederlandse Bank en Centraal Planbureau zijn ook actoren maar hebben een eigen RIO Waardering: B (1) 
@@ -1319,17 +1319,17 @@ Handeling: Het verlenen van vergunningen voor de in- of uitvoer van goederen uit
 Handeling: Het verlenen van vrijstelling of ontheffing van de aanvraag van een vergunning voor de in- en uitvoer van goederen uit bepaalde landen of gebieden Periode: 1962– Grondslag: Invoerbesluit landen 1963, art. 4, Verordening No. 19 van de Raad van de Europese Economische Gemeenschap (1962) Opmerking: Geldt voor landen en gebieden vermeld in bijlagen B van voornoemd besluit. Uitgezonderd goederen die vermeld staan in Bijlage A Waardering: B (5) 
 ###(194.)
 
-Handeling: Het verlenen van vrijstelling of ontheffing van als sanctie gestelde in- en uitvoerverboden tegen bepaalde landen Periode: 1945– Grondslag: Sanctiewet 1935, art. 4 Uitvoerverbodenwet 1935, art. 5 Product: Vrijstellings-, ontheffingsbeschikking Opmerking: De minister van Landbouw, Natuurbeheer en Visserij is verantwoordelijk voor zover het landbouwgoederen betreft Waardering: B (5)  
+Handeling: Het verlenen van vrijstelling of ontheffing van als sanctie gestelde in- en uitvoerverboden tegen bepaalde landen Periode: 1945– Grondslag: Sanctiewet 1935, art. 4 Uitvoerverbodenwet 1935, art. 5 Product: Vrijstellings-, ontheffingsbeschikking Opmerking: De minister van Landbouw, Natuurbeheer en Visserij is verantwoordelijk voor zover het landbouwgoederen betreft Waardering: B (5) 
 
 #### *7.18. Actor: Minister van Verkeer en Waterstaat* 
 
 ###(115.)
 
-Handeling: Het leveren van bijdragen aan de besluitvorming in de Interdepartementale Commissie voor het Europees Herstelprogramma met betrekking tot het opstellen van jaarlijkse importprogramma’s voor industriële goederen in het kader van het EHP. Periode: 1948–1952 Opmerking: De Nederlandse Bank en Centraal Planbureau zijn ook actoren maar hebben een eigen RIO Waardering: B (1)  
+Handeling: Het leveren van bijdragen aan de besluitvorming in de Interdepartementale Commissie voor het Europees Herstelprogramma met betrekking tot het opstellen van jaarlijkse importprogramma’s voor industriële goederen in het kader van het EHP. Periode: 1948–1952 Opmerking: De Nederlandse Bank en Centraal Planbureau zijn ook actoren maar hebben een eigen RIO Waardering: B (1) 
 
-### 7.19  
+###  7.19 
 
-####Actor: Minister van Volksgezondheid Welzijn en Sport
+####Actor: Minister van Volksgezondheid Welzijn en Sport 
 
 ###(161.)
 
@@ -1348,11 +1348,11 @@ Handeling: Het leveren van bijdragen aan de beoordeling van de aan chemische sto
 Handeling: Het (mede) vaststellen, wijzigen en intrekken van de lijst van chemicaliën die vallen onder de vergunningsplicht voor de uitvoer vanonder communautair toezicht gestelde chemicaliën Periode: 1991– Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Wet voorkoming misbruik chemicaliën 1995 Uitvoeringswet verdrag chemische wapens (Stb. 1995, 338), Uitvoeringsbesluit verdrag chemische wapens (Stb. 1997, 15), Verdrag Chemische Wapens (Trb. 1993, 162) Product: regeling Waardering: B (5) 
 ###(166.)
 
-Handeling: Het vaststellen van vrijstellingsregelingen van de vergunningsplicht voor de uitvoer van onder communautair toezicht gestelde chemicaliën in nader bepaalde situaties Periode: 1991– Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Product: Vrijstellingsregeling Waardering: V 10 jaar na intrekking regeling  
+Handeling: Het vaststellen van vrijstellingsregelingen van de vergunningsplicht voor de uitvoer van onder communautair toezicht gestelde chemicaliën in nader bepaalde situaties Periode: 1991– Grondslag: In- en uitvoerregeling bepaalde chemicaliën 1991 In- en uitvoerbesluit bepaalde chemicaliën 1992 Product: Vrijstellingsregeling Waardering: V 10 jaar na intrekking regeling 
 
-### 7.20  
+### 7.20 
 
-####Actor: Vakminister
+####Actor: Vakminister 
 
 ###(7.)
 
@@ -1362,5 +1362,5 @@ Handeling: Het mede-voorbereiden van het vaststellen, wijzigen en intrekken van 
 Handeling: Het leveren van bijdragen aan de beoordeling van de aan chemische stoffen verbonden risico’s door de Europese Commissie. Periode: 1992– Grondslag: Verordening (EEG) 2455/92 (1992) Opmerking: De Europese Commissie beoordeelt in nauwe samenwerking met de lidstaten de aan chemische stoffen verbonden risico’s. Waardering: B (5) 
 ###(180.)
 
-Handeling: Het met onmiddellijke ingang nemen van maatregelen en buiten werking stellen van bestaande regelen inzake de in- en uitvoer Periode: 2000– Grondslag: Sanctiewet 1977, zoals gewijzigd 2000 Product: Sanctie maatregelen Opmerking: Betreft maatregelen die genomen worden om direct te kunnen anticiperen op internationale ontwikkelingen of afspraken Waardering: B (5)  
+Handeling: Het met onmiddellijke ingang nemen van maatregelen en buiten werking stellen van bestaande regelen inzake de in- en uitvoer Periode: 2000– Grondslag: Sanctiewet 1977, zoals gewijzigd 2000 Product: Sanctie maatregelen Opmerking: Betreft maatregelen die genomen worden om direct te kunnen anticiperen op internationale ontwikkelingen of afspraken Waardering: B (5) 
 

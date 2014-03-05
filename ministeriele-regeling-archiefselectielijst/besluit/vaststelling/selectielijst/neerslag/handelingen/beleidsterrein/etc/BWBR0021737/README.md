@@ -10,29 +10,29 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Militair materieel over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Militair materieel over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 29 januari 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Verkeer en Waterstaat, namens deze: de 
+Minister van Verkeer en Waterstaat, namens deze:de 
 project directeur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der  Kooij    
 
 ####Basisselectiedocument
 
-Beleidsterrein militair materieel  
+Beleidsterrein militair materieel 
 
 #### *Voor wat betreft de zorgdragers minister van Defensie, minister van Binnenlandse Zaken; minister van Buitenlandse Zaken, minister van Economische Zaken, minister van Financiën, minister van Justitie en de minister van Verkeer en Waterstaat, 1945–* 
 
@@ -42,11 +42,11 @@ Rijswijk, 2004 Versie september 2006
 
 #### *Ten geleide* 
 
-Archiefbescheiden kunnen verschillende functies vervullen. Overheidsorganen kunnen archiefbescheiden opmaken of gebruiken voor de bedrijfsvoering, om zichzelf te verantwoorden of een ander ter verantwoording te roepen en als bewijsmiddel. Voor burgers is het belang van archiefbescheiden gelegen in het streven naar democratische controle (de burger moet de overheid ter verantwoording kunnen roepen), in de mogelijke functie van archiefbescheiden als bewijsmiddel en in het feit dat archiefbescheiden deel uitmaken van het cultureel erfgoed en voor historisch onderzoek van belang zijn. Vanuit het bedrijfsvoerings- en verantwoordingsbelang van archiefbescheiden geredeneerd, kan elk archiefstuk vernietigd worden op het moment dat het voor het archiefvormend orgaan niet meer nuttig is. Het historisch belang van bepaalde bescheiden kan echter van blijvende aard zijn. Om dat belang te beschermen schrijft de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) aan de Nederlandse overheidsorganen voor dat zij archiefbescheiden slechts mogen vernietigen op grond van een officieel vastgestelde selectielijst. Het [Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) geeft uitvoerige regels om de zorgvuldigheid bij de totstandkoming van de lijsten te waarborgen. Dit basisselectiedocument (BSD) is zo’n officiële selectielijst. Het heeft tot doel voor de minister van Defensie als zorgdrager aan te geven of neerslag voortvloeiend uit handelingen zoals beschreven in het ‘geactualiseerde rapport institutioneel onderzoek’ (RIO) militair materieel voor blijvende bewaring in aanmerking komt of vernietigd kan worden. Onder neerslag wordt verstaan: alle gegevens voortvloeiend uit een handeling, onafhankelijk van de drager van die gegevens zoals papier, films, tapes of floppies.  
+Archiefbescheiden kunnen verschillende functies vervullen. Overheidsorganen kunnen archiefbescheiden opmaken of gebruiken voor de bedrijfsvoering, om zichzelf te verantwoorden of een ander ter verantwoording te roepen en als bewijsmiddel. Voor burgers is het belang van archiefbescheiden gelegen in het streven naar democratische controle (de burger moet de overheid ter verantwoording kunnen roepen), in de mogelijke functie van archiefbescheiden als bewijsmiddel en in het feit dat archiefbescheiden deel uitmaken van het cultureel erfgoed en voor historisch onderzoek van belang zijn. Vanuit het bedrijfsvoerings- en verantwoordingsbelang van archiefbescheiden geredeneerd, kan elk archiefstuk vernietigd worden op het moment dat het voor het archiefvormend orgaan niet meer nuttig is. Het historisch belang van bepaalde bescheiden kan echter van blijvende aard zijn. Om dat belang te beschermen schrijft de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) aan de Nederlandse overheidsorganen voor dat zij archiefbescheiden slechts mogen vernietigen op grond van een officieel vastgestelde selectielijst. Het [Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) geeft uitvoerige regels om de zorgvuldigheid bij de totstandkoming van de lijsten te waarborgen. Dit basisselectiedocument (BSD) is zo’n officiële selectielijst. Het heeft tot doel voor de minister van Defensie als zorgdrager aan te geven of neerslag voortvloeiend uit handelingen zoals beschreven in het ‘geactualiseerde rapport institutioneel onderzoek’ (RIO) militair materieel voor blijvende bewaring in aanmerking komt of vernietigd kan worden. Onder neerslag wordt verstaan: alle gegevens voortvloeiend uit een handeling, onafhankelijk van de drager van die gegevens zoals papier, films, tapes of floppies. 
 
 #### *Het institutioneel onderzoek* 
 
-Een basisselectiedocument kan niet los gezien worden van het daaraan ten grondslag liggende rapport institutioneel onderzoek (RIO). In een RIO wordt van een bepaald beleidsterrein de context beschreven samen met de handelingen van de actoren die binnen het beleidsterrein actief zijn. Een actor is een (overheids)orgaan dat verantwoordelijk is voor bepaalde handelingen. Alle handelingen van een bepaalde actor worden in het RIO beschreven in een logische samenhang met de handelingen van de andere actoren binnen het beleidsterrein. De context en de logische samenhang bieden de mogelijkheid om tot een zo verantwoord mogelijke selectie van handelingen te komen. In een BSD zijn de handelingen primair geordend op actor. Hierdoor staan alle handelingen van een actor op een bepaald beleidsterrein bij elkaar. Voor deze herordening is gekozen om voor organen bruikbare selectiedocumenten te kunnen maken.  
+Een basisselectiedocument kan niet los gezien worden van het daaraan ten grondslag liggende rapport institutioneel onderzoek (RIO). In een RIO wordt van een bepaald beleidsterrein de context beschreven samen met de handelingen van de actoren die binnen het beleidsterrein actief zijn. Een actor is een (overheids)orgaan dat verantwoordelijk is voor bepaalde handelingen. Alle handelingen van een bepaalde actor worden in het RIO beschreven in een logische samenhang met de handelingen van de andere actoren binnen het beleidsterrein. De context en de logische samenhang bieden de mogelijkheid om tot een zo verantwoord mogelijke selectie van handelingen te komen. In een BSD zijn de handelingen primair geordend op actor. Hierdoor staan alle handelingen van een actor op een bepaald beleidsterrein bij elkaar. Voor deze herordening is gekozen om voor organen bruikbare selectiedocumenten te kunnen maken. 
 
 #### *Zorgdrager* 
 
@@ -62,28 +62,28 @@ d. De minister waaronder Cultuur ressorteert hoort de Raad voor Cultuur.
 
 e. De minister waaronder Cultuur ressorteert en de minister van Binnenlandse Zaken stellen het BSD vast.  
 
-f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatscourant.    
+f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatscourant.   
 
 #### *Doelstelling van de selectie* 
 
-De selectie richt zich op de administratieve neerslag van het handelen van overheidsorganen die vallen onder de werking van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 1995/276). De hoofddoelstelling van de selectie is een onderscheid te maken tussen archiefbescheiden die in aanmerking komen voor overbrenging (door het orgaan dat deze gegevens beheert) naar het Nationaal Archief en archiefbescheiden die op den duur door de zorgdrager kunnen worden vernietigd. Dit basisselectiedocument is opgesteld tegen de achtergrond van de selectiedoelstelling van het Nationaal Archief (PIVOT): het mogelijk maken van de reconstructie van het overheidshandelen op hoofdlijnen. Deze doelstelling is verwoord door de minister van Welzijn, Volksgezondheid en Cultuur (WVC) bij de behandeling van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer. Door het Convent van Rijksarchivarissen is deze doelstelling vertaald als het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring.  
+De selectie richt zich op de administratieve neerslag van het handelen van overheidsorganen die vallen onder de werking van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 1995/276). De hoofddoelstelling van de selectie is een onderscheid te maken tussen archiefbescheiden die in aanmerking komen voor overbrenging (door het orgaan dat deze gegevens beheert) naar het Nationaal Archief en archiefbescheiden die op den duur door de zorgdrager kunnen worden vernietigd. Dit basisselectiedocument is opgesteld tegen de achtergrond van de selectiedoelstelling van het Nationaal Archief (PIVOT): het mogelijk maken van de reconstructie van het overheidshandelen op hoofdlijnen. Deze doelstelling is verwoord door de minister van Welzijn, Volksgezondheid en Cultuur (WVC) bij de behandeling van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer. Door het Convent van Rijksarchivarissen is deze doelstelling vertaald als het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring. 
 
 #### *Algemene selectiecriteria* 
 
 Selecteren is het aanmerken van de neerslag van een handeling voor bewaren of vernietigen. Als de neerslag aangewezen wordt ter bewaring, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, voor eeuwig bewaard moet worden. De bewaarplaats waar deze neerslag na het verlopen van de wettelijke overbrengingstermijn van twintig jaar moet worden overgebracht, is het Nationaal Archief. Bij de handeling in dit BSD staat in dit geval bij waardering een B (van bewaren). Als de neerslag van een handeling wordt aangewezen ter vernietiging, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, na verloop van de in het BSD vastgestelde termijn kan worden vernietigd. De vernietigingstermijn is een minimum eis: stukken mogen niet eerder dan na het verstrijken van die termijn worden vernietigd door de voor het beheer verantwoordelijke dienst. De duur van de vernietigingstermijn wordt bepaald door de administratieve belangen en de belangen van de burgers, enerzijds ten behoeve van het adequaat uitvoeren van de overheidsadministratie en de verantwoordingsplicht van de overheid en anderzijds voor de recht- en bewijszoekende burger. Bij de handeling in dit BSD staat in dit geval bij waardering een V (van vernietigen). Het aanwijzen van handelingen waarvan de neerslag bewaard moet blijven gebeurt op grond van criteria die tot stand zijn gekomen in overleg tussen zorgdrager en Nationaal Archief. De gehanteerde algemene selectiecriteria zijn: 
 ###Handelingen die worden gewaardeerd met B (bewaren)
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen   *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.  2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen   *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid.  3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren   *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.  4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen   *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.  5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt   *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten   *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 #### *Vaststelling BSD* 
 
-Op 27 april 2006 is het ontwerp-BSD door de ministers van Defensie, van Binnenlandse Zaken en Koninkrijksrelaties, van Buitenlandse Zaken, van Economische Zaken, van Financiën, van Justitie en van Verkeer en Waterstaat aan de minister van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 december 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het ministerie van OCW en de regionaal historische centra, hetgeen was aangekondigd in de *Staatscourant* en in het Archievenblad. Op 18 januari 2007 bracht de RvC advies uit (arc-2006.03456/3), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 29 januari 2007 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de ministers van Defensie (kenmerk besluit [C/S&A/07/240](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021738/README.md)), van Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/07/241](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021739/README.md)), van Buitenlandse Zaken ([C/S&A/07/242](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021740/README.md)), van Economische Zaken ([C/S&A/07/243](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021741/README.md)), van Financiën ([C/S&A/07/244](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021742/README.md)), van Justitie ([C/S&A/07/282](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021743/README.md)) en van Verkeer en Waterstaat (C/S&A/07/283) vastgesteld.  
+Op 27 april 2006 is het ontwerp-BSD door de ministers van Defensie, van Binnenlandse Zaken en Koninkrijksrelaties, van Buitenlandse Zaken, van Economische Zaken, van Financiën, van Justitie en van Verkeer en Waterstaat aan de minister van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 december 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het ministerie van OCW en de regionaal historische centra, hetgeen was aangekondigd in de *Staatscourant* en in het Archievenblad. Op 18 januari 2007 bracht de RvC advies uit (arc-2006.03456/3), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 29 januari 2007 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap, en de ministers van Defensie (kenmerk besluit [C/S&A/07/240](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021738/README.md)), van Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/07/241](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021739/README.md)), van Buitenlandse Zaken ([C/S&A/07/242](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021740/README.md)), van Economische Zaken ([C/S&A/07/243](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021741/README.md)), van Financiën ([C/S&A/07/244](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021742/README.md)), van Justitie ([C/S&A/07/282](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021743/README.md)) en van Verkeer en Waterstaat (C/S&A/07/283) vastgesteld. 
 
 #### *Inleiding militair materieel* 
 
 #### *Hoofdlijnen van het overheidshandelen op het beleidsterrein tot het taakgebied Defensie en het beleidsterrein militair materieel* 
 
-De grondslag voor de overheidstaken op het gebied van de Defensie is gelegen in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), waarin is bepaald dat er een krijgsmacht is, die onder het ‘oppergezag’ staat van de regering. Namens de regering is de minister van Defensie belast met het gezag over de krijgsmacht. In de Oorlogswet van 16 juli 1964 (Stb. 337) wordt in artikel 1 gesproken van ‘de militaire taak ter handhaving van de in- en uitwendige veiligheid’. Hoofddoelstelling van de Nederlandse krijgsmacht is het zorgen voor de militaire bijdrage ter bescherming van de belangen van het Koninkrijk . Deze hoofddoelstelling kan worden onderverdeeld in vier subdoelstellingen: <sup> 1  De doelstellingen zijn ontleend aan ‘Doelstellingen structuur Nederlandse Defensie’ (Staatsuitgeverij ’s-Gravenhage 1980). Het institutioneel onderzoek door PIVOT heeft uitgewezen dat deze doelstellingen sinds 1945 onveranderd zijn gebleven.  </sup> 
+De grondslag voor de overheidstaken op het gebied van de Defensie is gelegen in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md), waarin is bepaald dat er een krijgsmacht is, die onder het ‘oppergezag’ staat van de regering. Namens de regering is de minister van Defensie belast met het gezag over de krijgsmacht. In de Oorlogswet van 16 juli 1964 (Stb. 337) wordt in artikel 1 gesproken van ‘de militaire taak ter handhaving van de in- en uitwendige veiligheid’. Hoofddoelstelling van de Nederlandse krijgsmacht is het zorgen voor de militaire bijdrage ter bescherming van de belangen van het Koninkrijk<sup>1De doelstellingen zijn ontleend aan ‘Doelstellingen structuur Nederlandse Defensie’ (Staatsuitgeverij ’s-Gravenhage 1980). Het institutioneel onderzoek door PIVOT heeft uitgewezen dat deze doelstellingen sinds 1945 onveranderd zijn gebleven.</sup>. Deze hoofddoelstelling kan worden onderverdeeld in vier subdoelstellingen: 
 
 1. zorgen voor het in Koninkrijksverband beschermen en verdedigen van het Nederlandse territoir en dat van de Overzeese Rijksdelen;  
 
@@ -91,13 +91,13 @@ De grondslag voor de overheidstaken op het gebied van de Defensie is gelegen in 
 
 3. zorgen voor de militaire bijdrage in internationaal verband, buiten het bondgenootschappelijk verdragsgebied, in het kader van het handhaven van de internationale vrede en veiligheid;  
 
-4. verlenen van maatschappelijke bijstand en steun in Koninkrijksverband.   Er bestaan voor elk krijgsmachtdeel afzonderlijke doelstellingen en taken, die op elkaar zijn afgestemd door het geformuleerde integrale Defensiebeleid. Als middel om de taken uit te voeren en de doelstellingen te realiseren beschikt de minister van Defensie over een krijgsmacht, die is opgebouwd uit drie (krijgsmacht)delen, namelijk de Koninklijke marine, de Koninklijke landmacht en de Koninklijke luchtmacht. Hoe deze krijgsmacht eruit ziet, is in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) ten dele bepaald. De [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) zegt dat de krijgsmacht bestaat uit vrijwillig dienenden en uit dienstplichtigen . Dat de krijgsmacht ook materiële middelen ter beschikking heeft om zijn taken uit te kunnen voeren, wordt niet in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) vermeld. <sup> 2  In 1994 zal deze bepaling in de Grondwet worden gewijzigd.  </sup> Voor de uitoefening van zijn taken moet de minister kunnen beschikken over een goed middel, dat wil zeggen een goed geoutilleerde krijgsmacht. Enerzijds verricht de minister handelingen die direct gericht zijn op de uitvoering van de hierboven genoemde (operationele) taken en het behalen van de doelstelingen en anderzijds verricht de minister handelingen gericht op de instandhouding van de krijgsmacht, als middel om de uitvoering van die operationele taken mogelijk te maken. De taken en handelingen die worden verricht om een krijgsmacht op te bouwen en in stand te houden, kunnen worden ondergebracht in twee beleidsterreinen, namelijk de beleidsterreinen militair personeel en militair materieel. In dit BSD wordt uitgegaan van het beleidsterrein militair materieel. De doelstelling voor wat betreft het beleidsterrein militair materieel is er voor te zorgen dat de krijgsmacht onder alle omstandigheden kan beschikken over de materiële middelen die nodig zijn voor de uitoefening van haar (operationele) taken. Deze doelstelling wordt gerealiseerd door drie deelprocessen, te weten: 
+4. verlenen van maatschappelijke bijstand en steun in Koninkrijksverband.   Er bestaan voor elk krijgsmachtdeel afzonderlijke doelstellingen en taken, die op elkaar zijn afgestemd door het geformuleerde integrale Defensiebeleid.  Als middel om de taken uit te voeren en de doelstellingen te realiseren beschikt de minister van Defensie over een krijgsmacht, die is opgebouwd uit drie (krijgsmacht)delen, namelijk de Koninklijke marine, de Koninklijke landmacht en de Koninklijke luchtmacht. Hoe deze krijgsmacht eruit ziet, is in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) ten dele bepaald. De [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) zegt dat de krijgsmacht bestaat uit vrijwillig dienenden en uit dienstplichtigen<sup>2In 1994 zal deze bepaling in de Grondwet worden gewijzigd.</sup>. Dat de krijgsmacht ook materiële middelen ter beschikking heeft om zijn taken uit te kunnen voeren, wordt niet in de [Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) vermeld.  Voor de uitoefening van zijn taken moet de minister kunnen beschikken over een goed middel, dat wil zeggen een goed geoutilleerde krijgsmacht. Enerzijds verricht de minister handelingen die direct gericht zijn op de uitvoering van de hierboven genoemde (operationele) taken en het behalen van de doelstelingen en anderzijds verricht de minister handelingen gericht op de instandhouding van de krijgsmacht, als middel om de uitvoering van die operationele taken mogelijk te maken. De taken en handelingen die worden verricht om een krijgsmacht op te bouwen en in stand te houden, kunnen worden ondergebracht in twee beleidsterreinen, namelijk de beleidsterreinen militair personeel en militair materieel. In dit BSD wordt uitgegaan van het beleidsterrein militair materieel. De doelstelling voor wat betreft het beleidsterrein militair materieel is er voor te zorgen dat de krijgsmacht onder alle omstandigheden kan beschikken over de materiële middelen die nodig zijn voor de uitoefening van haar (operationele) taken. Deze doelstelling wordt gerealiseerd door drie deelprocessen, te weten: 
 
 a. ‘het voorzien in’ (keuze, verwerving en introductie van materieel)  
 
 b. ‘het instandhouden’ (modificatie, onderhoud en reparatie, bevoorrading)  
 
-c. ‘het afstoten’ (afvoeren uit de sterkte)   Het beleid bij Defensie wordt bepaald door de operationele taken en doelstellingen. De doelstellingen en taken op de beleidsterreinen materieel en personeel zijn een afgeleide van de operationele doelstellingen. Personeel en materieel zijn middelen waarmee de krijgsmacht haar taken uitvoert. De operationele doelstellingen en taken van de krijgsmacht worden door de staven geformuleerd, waarbij deze ook de middelen aangeven waarmee de doelstellingen en taken kunnen worden gerealiseerd. Doelstellingen, taken en middelen van alle krijgsmachtdelen worden bepaald in het planningsproces, dat voor 1978 heeft geleid tot krijgsmachtdeelplannen (vlootplan, legerplan en luchtmachtplan) en na 1978 heeft geleid tot integrale Defensieplannen. Sluitstuk van de operationele behoefteplanning is de politieke besluitvorming. Eerst stelt de minister van Defensie de definitieve plannen vast in de Defensieraad, daarna sanctioneert de Staten-Generaal deze plannen. Nadat de operationele behoefte aan militair materieel is vastgesteld, moeten de plannen worden uitgevoerd. De staven van de krijgsmachtdelen formuleren de specifieke operationele eisen waaraan het te realiseren militaire materieel moet voldoen. Hoewel in het rapport ‘Roeien met de riemen’ ook de operationele behoeftestelling is beschreven en het vaststellen van de operationele (staf)eisen als handeling is opgenomen, kan gesteld worden dat deze elementen nog operationele aangelegenheden zijn. Zoals boven al is beschreven, begint het beleidsterrein militair materieel met het deelproces ‘voorzien in’, dat wil zeggen het verwerven van materieel. De directies materieel bereiden de besluitvorming over de keuze van het materieel voor in het verwervingsproces. De directies hebben hierbij een grote mate van beleidsvrijheid, mits wordt voldaan aan de gestelde randvoorwaarden zoals het beschikbare budget, de operationele stafeisen en de algemene uitgangspunten van het Defensie materieelbeleid, dat zij zelf (mede)vormgeven en dat door de minister wordt vastgesteld. De verwervingsvoorbereiding van belangrijk militair materieel mondt uit in politieke besluitvorming. Na deze besluitvorming zorgen de materieeldirecties ervoor dat de gekozen middelen daadwerkelijk totstandkomen. Sinds 1984 is het gehele verwervingsproces, dat leidt tot het politieke besluit omtrent het wel of niet verwerven van militair materieel, gestructureerd door middel van het Defensie Materieelkeuze Proces (DMP). Uit het rapport ‘Roeien met de riemen’ blijkt dat de minister van Defensie niet de enige actor is die werkzaamheden verricht op het beleidsterrein militair materieel. Onder meer wordt een aantal interdepartementale commissies behandeld. De handelingen van die commissies worden in het BSD met een B(ewaren) gewaardeerd, omdat de handelingen bepalend zijn voor de coördinatie van het handelen van verscheidene overheidsorganen en omdat in de commissies een belangenafweging plaatsvindt. Op grond van het bovenstaande kan worden gesteld dat de hoofdlijnen worden bepaald door de operationele doelstellingen en taken, de vormgeving van het beleid ten aanzien van de middelen waarmee die doelstellingen en taken kunnen worden gerealiseerd (het materieelbeleid en personeelsbeleid) en de politieke besluitvorming over het te verwerven materieel.  
+c. ‘het afstoten’ (afvoeren uit de sterkte)   Het beleid bij Defensie wordt bepaald door de operationele taken en doelstellingen. De doelstellingen en taken op de beleidsterreinen materieel en personeel zijn een afgeleide van de operationele doelstellingen. Personeel en materieel zijn middelen waarmee de krijgsmacht haar taken uitvoert. De operationele doelstellingen en taken van de krijgsmacht worden door de staven geformuleerd, waarbij deze ook de middelen aangeven waarmee de doelstellingen en taken kunnen worden gerealiseerd. Doelstellingen, taken en middelen van alle krijgsmachtdelen worden bepaald in het planningsproces, dat voor 1978 heeft geleid tot krijgsmachtdeelplannen (vlootplan, legerplan en luchtmachtplan) en na 1978 heeft geleid tot integrale Defensieplannen. Sluitstuk van de operationele behoefteplanning is de politieke besluitvorming. Eerst stelt de minister van Defensie de definitieve plannen vast in de Defensieraad, daarna sanctioneert de Staten-Generaal deze plannen. Nadat de operationele behoefte aan militair materieel is vastgesteld, moeten de plannen worden uitgevoerd. De staven van de krijgsmachtdelen formuleren de specifieke operationele eisen waaraan het te realiseren militaire materieel moet voldoen. Hoewel in het rapport ‘Roeien met de riemen’ ook de operationele behoeftestelling is beschreven en het vaststellen van de operationele (staf)eisen als handeling is opgenomen, kan gesteld worden dat deze elementen nog operationele aangelegenheden zijn. Zoals boven al is beschreven, begint het beleidsterrein militair materieel met het deelproces ‘voorzien in’, dat wil zeggen het verwerven van materieel. De directies materieel bereiden de besluitvorming over de keuze van het materieel voor in het verwervingsproces. De directies hebben hierbij een grote mate van beleidsvrijheid, mits wordt voldaan aan de gestelde randvoorwaarden zoals het beschikbare budget, de operationele stafeisen en de algemene uitgangspunten van het Defensie materieelbeleid, dat zij zelf (mede)vormgeven en dat door de minister wordt vastgesteld. De verwervingsvoorbereiding van belangrijk militair materieel mondt uit in politieke besluitvorming. Na deze besluitvorming zorgen de materieeldirecties ervoor dat de gekozen middelen daadwerkelijk totstandkomen. Sinds 1984 is het gehele verwervingsproces, dat leidt tot het politieke besluit omtrent het wel of niet verwerven van militair materieel, gestructureerd door middel van het Defensie Materieelkeuze Proces (DMP). Uit het rapport ‘Roeien met de riemen’ blijkt dat de minister van Defensie niet de enige actor is die werkzaamheden verricht op het beleidsterrein militair materieel. Onder meer wordt een aantal interdepartementale commissies behandeld. De handelingen van die commissies worden in het BSD met een B(ewaren) gewaardeerd, omdat de handelingen bepalend zijn voor de coördinatie van het handelen van verscheidene overheidsorganen en omdat in de commissies een belangenafweging plaatsvindt. Op grond van het bovenstaande kan worden gesteld dat de hoofdlijnen worden bepaald door de operationele doelstellingen en taken, de vormgeving van het beleid ten aanzien van de middelen waarmee die doelstellingen en taken kunnen worden gerealiseerd (het materieelbeleid en personeelsbeleid) en de politieke besluitvorming over het te verwerven materieel. 
 
 #### *Actoren op het beleidsterrein militair materieel* 
 
@@ -163,7 +163,7 @@ adviseert inzake en bereidt de besluitvorming inzake de verwerving van militair 
 
 ###Handelingenblokken
 
-De handelingen zijn verwerkt in uniek genummerde gegevensblokken die als volgt zijn opgebouwd: *Handeling*: een complex van activiteiten, dat verricht wordt door één of meer actoren en dat veelal een product naar de omgeving oplevert. *Periode*: dit geeft de jaren weer waarin de handeling werd verricht. *Grondslag/Bron*: dit is de (wettelijke) basis van de handeling. De aanduiding bron wordt gebruikt indien een handeling geen duidelijke wettelijke basis heeft, maar de handeling is geformuleerd op basis van interviews, literatuur of andere bronnen. *Product*: dit is de weergave van het juridisch-bestuurlijk niveau van het eindproduct van de handeling. Indien niet duidelijk is in welke soort documentaire neerslag een handeling heeft geresulteerd of als uit de beschrijving van de handeling al duidelijk is welk product de handeling oplevert, ontbreekt dit item. *Opmerkingen*: dit geeft eventuele bijzonderheden over bovengenoemde items weer. *Waardering*: dit geeft aan of de neerslag van een handeling bewaard moet worden of dat het op termijn vernietigd kan worden. 
+De handelingen zijn verwerkt in uniek genummerde gegevensblokken die als volgt zijn opgebouwd:  *Handeling*: een complex van activiteiten, dat verricht wordt door één of meer actoren en dat veelal een product naar de omgeving oplevert.  *Periode*: dit geeft de jaren weer waarin de handeling werd verricht.  *Grondslag/Bron*: dit is de (wettelijke) basis van de handeling. De aanduiding bron wordt gebruikt indien een handeling geen duidelijke wettelijke basis heeft, maar de handeling is geformuleerd op basis van interviews, literatuur of andere bronnen.  *Product*: dit is de weergave van het juridisch-bestuurlijk niveau van het eindproduct van de handeling. Indien niet duidelijk is in welke soort documentaire neerslag een handeling heeft geresulteerd of als uit de beschrijving van de handeling al duidelijk is welk product de handeling oplevert, ontbreekt dit item.  *Opmerkingen*: dit geeft eventuele bijzonderheden over bovengenoemde items weer.  *Waardering*: dit geeft aan of de neerslag van een handeling bewaard moet worden of dat het op termijn vernietigd kan worden. 
 ###Vernietigingstermijnen
 
 De toepassing van de vernietigingstermijnen is als volgt: 
@@ -175,7 +175,7 @@ b. de bijbehorende vernietigingstermijn wordt hierbij opgeteld (bijv. 10 jaar);
 c. het dossier wordt bewaard tot en met 31 december 2009 (1999 + 10).   
 ###Actoren
 
-Een uitgangspunt van PIVOT ten aanzien van een institutioneel onderzoek is dat dit zich niet beperkt tot een beschrijving van het handelen van een afzonderlijke instelling, maar dat de beschrijving zich uitstrekt over het handelen van de verschillende actoren van de rijksoverheid die op een bepaald beleidsterrein een rol spelen. Dit betekent dus dat niet alleen de actoren die onder de minister van Binnenlandse Zaken vallen worden meegenomen in dit onderzoek, maar ook die actoren die daarbuiten vallen en wel tot de rijksoverheid behoren.  
+Een uitgangspunt van PIVOT ten aanzien van een institutioneel onderzoek is dat dit zich niet beperkt tot een beschrijving van het handelen van een afzonderlijke instelling, maar dat de beschrijving zich uitstrekt over het handelen van de verschillende actoren van de rijksoverheid die op een bepaald beleidsterrein een rol spelen. Dit betekent dus dat niet alleen de actoren die onder de minister van Binnenlandse Zaken vallen worden meegenomen in dit onderzoek, maar ook die actoren die daarbuiten vallen en wel tot de rijksoverheid behoren. 
 
 #### *Selectielijst van handelingen op het taakgebied Defensie en het beleidsterrein militair materieel* 
 
@@ -245,7 +245,7 @@ Handeling: Voorbereiden en vaststellen van plannen, waarin de materieelbehoefte 
 Handeling: Voorbereiden en vaststellen van realisatieplannen (zoals aanschaffingsprogramma’s en investeringsschema’s) voor de verwerving van militair materieel Periode: 1945– Waardering: V 5 jaar nb. na vaststelling realisatieplannen 
 ###(21)
 
-Handeling: Voorbereiden en vaststellen van voorschriften waarin procedures zijn vastgelegd met betrekking tot de verwerving van militair materieel Product: voorschriften en interne regelgeving Voorschrift betreffende de materieelverwerving bij de Koninklijke Marine (3 VVKM 8) (laatstelijk vastgesteld bij besluit van de bevelhebber der zeestrijdkrachten van 31 maart 2000, nr. S 2000036404, vervangt de uitgave 1998 van *3* VVKM 8.’ Periode: 1945– Waardering: B (1) 
+Handeling: Voorbereiden en vaststellen van voorschriften waarin procedures zijn vastgelegd met betrekking tot de verwerving van militair materieel Product: voorschriften en interne regelgeving  Voorschrift betreffende de materieelverwerving bij de Koninklijke Marine (3 VVKM 8) (laatstelijk vastgesteld bij besluit van de bevelhebber der zeestrijdkrachten van 31 maart 2000, nr. S 2000036404, vervangt de uitgave 1998 van *3* VVKM 8.’ Periode: 1945– Waardering: B (1) 
 ###(22)
 
 Handeling: Voorbereiden en vaststellen van operationele (staf)eisen waaraan te verwerven militair materieel moet voldoen Periode: 1945– Waardering: B (1) 
@@ -460,19 +460,19 @@ Handeling: Voorbereiden van de beproeving en het beproeven van materieel aan de 
 Handeling: Inspecteren van militair materieel Periode: 1945– Waardering: V 5 jaar 
 ###Integriteitsaangelegenheden
 
-De handelingen 85-88 zijn opgenomen in de concept-selectielijst voor de neerslag van de handelingen, uitgevoerd door de Militaire Inlichtingen- en Veiligheidsdienst en taakvoorgangers.  
+De handelingen 85-88 zijn opgenomen in de concept-selectielijst voor de neerslag van de handelingen, uitgevoerd door de Militaire Inlichtingen- en Veiligheidsdienst en taakvoorgangers. 
 
 #### *Actor: Stuurgroep Defensie en de Nederlandse Industrie* 
 
 ###(11)
 
-Handeling: (Doen) Ontwikkelen van een kader voor het te voeren beleid in nationaal en Dinternationaal verband met betrekking tot de verwerving en produktie van specifiek militair materieel Periode: 1984– Waardering: B (1)  
+Handeling: (Doen) Ontwikkelen van een kader voor het te voeren beleid in nationaal en Dinternationaal verband met betrekking tot de verwerving en produktie van specifiek militair materieel Periode: 1984– Waardering: B (1) 
 
 #### *Actor: Commissie Verkoop Defensie Materieel* 
 
 ###(69)
 
-Handeling: Besluiten inzake de verkoop van overtollig strategisch militair materieel of strategische militaire goederen Periode: ± 1968 Waardering: B (1)  
+Handeling: Besluiten inzake de verkoop van overtollig strategisch militair materieel of strategische militaire goederen Periode: ± 1968 Waardering: B (1) 
 
 #### *Actor: Commissie Ontwikkeling Defensie Materieel* 
 
@@ -484,19 +484,19 @@ Handeling: Beoordelen van ontwikkelingsprojecten voor militair materieel en vast
 Handeling: Geven van richtlijnen en aanwijzingen aan de krijgsmachtdelen of andere instanties, belast met het afsluiten van contracten met instanties ter uitvoering van ontwikkelingsprojecten voor militair materieel Periode: 1978– Waardering: B (1) 
 ###(76)
 
-Handeling: Formuleren van beleid inzake ontwikkelingsprojecten voor militair materieel en geven van richtlijnen ten aanzien van de uitvoering van dat beleid Periode: 1978– Waardering: B (1)  
+Handeling: Formuleren van beleid inzake ontwikkelingsprojecten voor militair materieel en geven van richtlijnen ten aanzien van de uitvoering van dat beleid Periode: 1978– Waardering: B (1) 
 
 #### *Actor: Nederlands Defensie Research Coördinatie Comité* 
 
 ###(14)
 
-Handeling: Adviseren aan de minister van Defensie inzake Defensieresearch en de inschakeling van de Nederlandse industrie en Nederlandse instellingen bij internationale projecten Periode: 1960– Waardering: B (1)  
+Handeling: Adviseren aan de minister van Defensie inzake Defensieresearch en de inschakeling van de Nederlandse industrie en Nederlandse instellingen bij internationale projecten Periode: 1960– Waardering: B (1) 
 
 #### *Actor: Adviesraad Defensie aangelegenheid* 
 
 ###(15)
 
-Handeling: Adviseren aan de minister van Defensie op verzoek of uit eigener beweging inzake vraagstukken betreffende de Defensie, in het bijzonder over taktische en strategische vraagstukken, het materieel alsmede over technische, organisatorische en financiële problemen Periode: 1975–1985 Waardering: B (1)  
+Handeling: Adviseren aan de minister van Defensie op verzoek of uit eigener beweging inzake vraagstukken betreffende de Defensie, in het bijzonder over taktische en strategische vraagstukken, het materieel alsmede over technische, organisatorische en financiële problemen Periode: 1975–1985 Waardering: B (1) 
 
 #### *Actor: Materieelraad/Comité Materieel* 
 
@@ -517,7 +517,7 @@ Handeling: Het opstellen van periodieke verslagen inzake verrichte werkzaamheden
 Handeling: Het toetsen van materieelrealisatieplannen van de krijgsmachtdelen aan het totale beleid op materieelgebied Periode: 1976– Waardering: V 10 jaar 
 ###(109)
 
-Handeling: Het bestuderen en namens de minister ratificeren van overeenkomsten betreffende de standaardisatie van materieel Periode: 1951– Grondslag: Gezamenlijke M.B. van de ministers van Oorlog en Marine, nr. Conf LA I 67 en nr. 244070/240863. Waardering: B 1  
+Handeling: Het bestuderen en namens de minister ratificeren van overeenkomsten betreffende de standaardisatie van materieel Periode: 1951– Grondslag: Gezamenlijke M.B. van de ministers van Oorlog en Marine, nr. Conf LA I 67 en nr. 244070/240863. Waardering: B 1 
 
 #### *Actor: Interservice Comité Internationale Materieelbetrekkingen* 
 
@@ -532,7 +532,7 @@ Handeling: Voorbereiden, formuleren, coördineren en evalueren van het defensiem
 Handeling: Voorbereiden van standpunten in NAVO/CNAD (Conferentie der Nationale Bewapeningsdirecteuren), Independant European Programme Group, West Europese Unie en Eurogroep alsmede internationale contacten op centraal niveau Periode: 1990– Grondslag: Beschikking directeur-generaal materieel, 18-4-1990, nr. M90/385/1193 en 16-4-1991, nr. M91/0385/2233. Waardering: V 10 jaar 
 ###(98)
 
-Handeling: Adviseren van en rapporteren aan de directeur-generaal materieel over de wenselijkheid en inhoud van stellingname bij internationale ontwikkelingen die invloed hebben op de internationale defensiematerieelbetrekkingen Periode: 1990– Grondslag: Beschikking directeur-generaal materieel, 18-4-1990, nr. M90/385/1193 en 16-4-1991, nr. M91/0385/2233. Waardering: B 5  
+Handeling: Adviseren van en rapporteren aan de directeur-generaal materieel over de wenselijkheid en inhoud van stellingname bij internationale ontwikkelingen die invloed hebben op de internationale defensiematerieelbetrekkingen Periode: 1990– Grondslag: Beschikking directeur-generaal materieel, 18-4-1990, nr. M90/385/1193 en 16-4-1991, nr. M91/0385/2233. Waardering: B 5 
 
 #### *Actor: Interservice comité verwerving* 
 
@@ -556,7 +556,7 @@ Handeling: Bijdragen aan bepalen van het Nederlandse defensiestandpunt in nation
 Handeling: Afstemmen van de uitvoering van het defensiebeleid inzake materieelidentificatie en -codificatie tussen krijgsmachtdelen en militair geneeskundige diensten Periode: 1981– Grondslag: M.B. van 30-1-1981, nr. DR081/013/249, beschikking directeur-generaal materieel M90/0176b/2313 Waardering: V 10 jaar 
 ###(108)
 
-Handeling: Het adviseren van de directeur-generaal materieel over het door de COBUMA te voeren beleid Periode: 1981– Grondslag: M.B. van 30-1-1981, nr. DR081/013/249, beschikking directeur-generaal materieel M90/0176b/2313 Waardering: B 5  
+Handeling: Het adviseren van de directeur-generaal materieel over het door de COBUMA te voeren beleid Periode: 1981– Grondslag: M.B. van 30-1-1981, nr. DR081/013/249, beschikking directeur-generaal materieel M90/0176b/2313 Waardering: B 5 
 
 #### *Actor: Interservice comité standaardisatie* 
 
@@ -574,13 +574,13 @@ Handeling: Het initiëren en bewaken van de realisatie van vastgestelde standaar
 Handeling: Het vaststellen van defensiestandaarden en Militaire Materieel Richtlijnen (MMR). Periode: 1995– Grondslag: Aanwijzing chef defensiestaf en directeur-generaal materieel, CDS/DGM nr. 95-2, d.d. 25 september 1995, bijlage A Waardering: B 5 
 ###(114)
 
-Handeling: Het coördineren van de Nederlandse standpunten op het gebied van standaardisatie en het inbrengen van deze standpunten in de diverse nationale en internationale overlegfora Periode: 1995– Grondslag: Aanwijzing chef defensiestaf en directeur-generaal materieel, CDS/DGM nr. 95-2, d.d. 25 september 1995, bijlage A Waardering: V 10 jaar  
+Handeling: Het coördineren van de Nederlandse standpunten op het gebied van standaardisatie en het inbrengen van deze standpunten in de diverse nationale en internationale overlegfora Periode: 1995– Grondslag: Aanwijzing chef defensiestaf en directeur-generaal materieel, CDS/DGM nr. 95-2, d.d. 25 september 1995, bijlage A Waardering: V 10 jaar 
 
 #### *Actor: Normalisatie commissie Koninklijke Landmacht* 
 
 ###(115)
 
-Handeling: Het voorbereiden en vaststellen van het normalisatie- en standaardisatiebeleid voor de Koninklijke Landmacht Periode: 2001– Waardering: V 10 jaar  
+Handeling: Het voorbereiden en vaststellen van het normalisatie- en standaardisatiebeleid voor de Koninklijke Landmacht Periode: 2001– Waardering: V 10 jaar 
 
 #### *Actor: Overlegcommissie wetenschappelijk onderzoek en ontwikkeling centrale organisatie* 
 
@@ -595,7 +595,7 @@ Handeling: Het coördineren van de implementatie binnen de centrale organisatie 
 Handeling: Het voorbereiden van de besluitvorming inzake en het opstellen van documenten betreffende wetenschappelijk onderzoek en ontwikkeling in het kader van het integrale defensie planning proces Periode: 1995– Grondslag: Beschikking directeur-generaal materieel, 2-2-1995, nr. M95002229 Waardering: V 10 jaar 
 ###(121)
 
-Handeling: Adviseren van de directeur wetenschappelijk onderzoek en ontwikkeling over het defensiebeleid op het gebied van wetenschappelijk onderzoek en ontwikkeling Periode: 1995– Grondslag: Beschikking directeur-generaal materieel, 2-2-1995, nr. M95002229 Waardering: B 5  
+Handeling: Adviseren van de directeur wetenschappelijk onderzoek en ontwikkeling over het defensiebeleid op het gebied van wetenschappelijk onderzoek en ontwikkeling Periode: 1995– Grondslag: Beschikking directeur-generaal materieel, 2-2-1995, nr. M95002229 Waardering: B 5 
 
 #### *Zorgdrager Minister van Economische Zaken* 
 
@@ -603,13 +603,13 @@ Handeling: Adviseren van de directeur wetenschappelijk onderzoek en ontwikkeling
 
 ###(89)
 
-Handeling: Inhoudelijk voorbereiden en vastleggen van gecombineerde missies naar ‘concentratielanden’ in het kader van materieelsamenwerking met Midden- en Oosteuropese landen Periode: 1995– Opmerking: Polen, Tsjechië, Slowakije, Hongarije, Roemenië en Bulgarije Waardering: V 20 jaar  
+Handeling: Inhoudelijk voorbereiden en vastleggen van gecombineerde missies naar ‘concentratielanden’ in het kader van materieelsamenwerking met Midden- en Oosteuropese landen Periode: 1995– Opmerking: Polen, Tsjechië, Slowakije, Hongarije, Roemenië en Bulgarije Waardering: V 20 jaar 
 
 #### *Actor: Adviesraad voor de Militaire Produktie* 
 
 ###(10)
 
-Handeling: Adviseren aan de ministers van Economische Zaken, van Defensie en van Buitenlandse Zaken inzake de coördinatie tussen de overheid en het bedrijfsleven ten aanzien van de industriële activiteiten op het gebied van Defensiematerieel Periode: 1951–1996 Waardering: B (1)  
+Handeling: Adviseren aan de ministers van Economische Zaken, van Defensie en van Buitenlandse Zaken inzake de coördinatie tussen de overheid en het bedrijfsleven ten aanzien van de industriële activiteiten op het gebied van Defensiematerieel Periode: 1951–1996 Waardering: B (1) 
 
 #### *Actor: Commissariaat/Commisaris voor de Militaire Productie* 
 
@@ -618,7 +618,7 @@ Handeling: Adviseren aan de ministers van Economische Zaken, van Defensie en van
 Handeling: Het ontwikkelen en toetsen van beleid en instrumenten om de industriële activiteiten op het gebied van de militaire productie vorm te geven Periode: 1951– Waardering: B (1) 
 ###(129)
 
-Handeling: Het uitvoeren van beleid om de industriële activiteiten op het gebied van de militaire productie vorm te geven. N.b. hieronder vallen contracten, compensatieorders, financieringsregelingen e.d.. Periode: 1951– Waardering: V 20 jaar  
+Handeling: Het uitvoeren van beleid om de industriële activiteiten op het gebied van de militaire productie vorm te geven. N.b. hieronder vallen contracten, compensatieorders, financieringsregelingen e.d.. Periode: 1951– Waardering: V 20 jaar 
 
 #### *Overige actoren* 
 
@@ -638,15 +638,15 @@ Handeling: benoemen van vertegenwoordigers van de vakminister in commissies, wer
 Handeling: het voorbereiden van de beslissing inzake de verwerving van (belangrijk) militair materieel Periode: 1945– Waardering:**B (1) 
 ###(126)
 
-Handeling: het mede onderzoeken van en rapporteren inzake mogelijke fraude, corruptie en/of malversaties op het beleidsterrein militair materieel Periode: 1945– Waardering: B (6)  
+Handeling: het mede onderzoeken van en rapporteren inzake mogelijke fraude, corruptie en/of malversaties op het beleidsterrein militair materieel Periode: 1945– Waardering: B (6) 
 
 #### *Actor: Regeringscommissie/Staatscommissie/Commissies* 
 
-(127) Handeling: het onderzoeken van en rapporteren inzake mogelijke fraude, corruptie en/of malversaties op het beleidsterrein militair materieel Periode: 1945– Opmerking: bijvoorbeeld de Commissie van Drie (Lockheed-affaire) Waardering: B (6)  
+(127) Handeling: het onderzoeken van en rapporteren inzake mogelijke fraude, corruptie en/of malversaties op het beleidsterrein militair materieel Periode: 1945– Opmerking: bijvoorbeeld de Commissie van Drie (Lockheed-affaire) Waardering: B (6) 
 
 #### *Actor: (Inter)departementale Commissie, Werkgroep, Stuurgroep etc.* 
 
 ###(124)
 
-Handeling: het adviseren inzake alsmede het voorbereiden van de besluitvorming inzake de verwerving van militair materieel Periode: 1945– Waardering: B (1)  
+Handeling: het adviseren inzake alsmede het voorbereiden van de besluitvorming inzake de verwerving van militair materieel Periode: 1945– Waardering: B (1) 
 

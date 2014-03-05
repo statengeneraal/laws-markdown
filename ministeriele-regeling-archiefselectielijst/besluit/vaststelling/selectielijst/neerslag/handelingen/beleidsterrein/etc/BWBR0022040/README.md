@@ -10,29 +10,29 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Voorlichting van de rijksoverheid, over de periode 1945– ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Voorlichting van de rijksoverheid, over de periode 1945–’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘selectielijst neerslag handelingen Minister van Verkeer en Waterstaat beleidsterrein Organisatie van de Rijksoverheid over de periode 1945–1999’ (vastgesteld bij beschikking van de Minister van Verkeer en Waterstaat en de staatssecretaris van Onderwijs, Cultuur en Wetenschap, nr. [C/S&A/05/1360](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018552/README.md) d.d. 5 juli 2005 (gepubliceerd in de Staatscourant nr. 245 d.d. 16 december 2005)) wordt ingetrokken, uitsluitend voor handeling 312 Het behandelen van aangelegenheden met beroep op grond van de [Wet Openbaarheid van Bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (WOB).  
+De ‘selectielijst neerslag handelingen Minister van Verkeer en Waterstaat beleidsterrein Organisatie van de Rijksoverheid over de periode 1945–1999’ (vastgesteld bij beschikking van de Minister van Verkeer en Waterstaat en de staatssecretaris van Onderwijs, Cultuur en Wetenschap, nr. [C/S&A/05/1360](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018552/README.md) d.d. 5 juli 2005 (gepubliceerd in de Staatscourant nr. 245 d.d. 16 december 2005)) wordt ingetrokken, uitsluitend voor handeling 312 Het behandelen van aangelegenheden met beroep op grond van de [Wet Openbaarheid van Bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (WOB). 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 3 mei 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Verkeer en Waterstaat, namens deze: de 
+Minister van Verkeer en Waterstaat, namens deze:de 
 projectdirecteur Project Wegwerken Archief Achterstanden, 
-A. van derKooij  
+A. van der Kooij    
 
 ####Basisselectiedocument
 
@@ -53,21 +53,21 @@ Project Wegwerken Archiefachterstanden (PWAA)
 
 ####Lijst van afkortingen
 
-AMvB: algemene maatregel van bestuur (groot KB) AOK: Algemene Oorlogvoering van het Koninkrijk ARA: algemeen rijksarchivaris AZ: Algemene Zaken B: bewaren BOB: Besluit openbaarheid van bestuur BSD: basisselectiedocument (selectielijst) BVC: Bijzondere Voorlichtingscommissie CBS: Centraal Bureau voor de Statistiek CPB: Centraal Planbureau DPC: Directie Publiek en Communicatie DTC: Directie Toepassing Communicatietechniek KB: Koninklijk besluit KMP: Kabinet van de Minister-president NA: Nationaal Archief OCenW: Onderwijs, Cultuur en Wetenschap OKW: Onderwijs, Kunsten en Wetenschappen OVC: Oorlogsvoorlichtingscommissie PCI: Commissie Publiekscommunicatie en Informatie PIVOT: Project Invoering Verkorting Overbrengingstermijn plv.: Plaatsvervangend PTT: Staatsbedrijf der Posterijen, Telegrafie en Telefonie RAD: Rijksarchiefdienst RIO: rapport institutioneel onderzoek ROOS: koepel van regionale omroepen RPD: Rijks Planologische Dienst RTP: Radio, Televisie en Pers RVD: tot 15 september 1953 Rege(e)ringsvoorlichtingsdienst RVD: vanaf september 1953 Rijksvoorlichtingsdienst SCP: Sociaal Cultureel Planbureau Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant TITAN: televisie-informatie ten algemene nutte V: vernietigen Vora: Voorlichtingsraad VORAMP: voorlichting bij grootschalige incidenten en rampen VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer V&W: Verkeer en Waterstaat WOB: [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)  
+AMvB: algemene maatregel van bestuur (groot KB) AOK: Algemene Oorlogvoering van het Koninkrijk ARA: algemeen rijksarchivaris AZ: Algemene Zaken B: bewaren BOB: Besluit openbaarheid van bestuur BSD: basisselectiedocument (selectielijst) BVC: Bijzondere Voorlichtingscommissie CBS: Centraal Bureau voor de Statistiek CPB: Centraal Planbureau DPC: Directie Publiek en Communicatie DTC: Directie Toepassing Communicatietechniek KB: Koninklijk besluit KMP: Kabinet van de Minister-president NA: Nationaal Archief OCenW: Onderwijs, Cultuur en Wetenschap OKW: Onderwijs, Kunsten en Wetenschappen OVC: Oorlogsvoorlichtingscommissie PCI: Commissie Publiekscommunicatie en Informatie PIVOT: Project Invoering Verkorting Overbrengingstermijn plv.: Plaatsvervangend PTT: Staatsbedrijf der Posterijen, Telegrafie en Telefonie RAD: Rijksarchiefdienst RIO: rapport institutioneel onderzoek ROOS: koepel van regionale omroepen RPD: Rijks Planologische Dienst RTP: Radio, Televisie en Pers RVD: tot 15 september 1953 Rege(e)ringsvoorlichtingsdienst RVD: vanaf september 1953 Rijksvoorlichtingsdienst SCP: Sociaal Cultureel Planbureau Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant TITAN: televisie-informatie ten algemene nutte V: vernietigen Vora: Voorlichtingsraad VORAMP: voorlichting bij grootschalige incidenten en rampen VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer V&W: Verkeer en Waterstaat WOB: [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) 
 
 ####1. Verantwoording
 
 #### *1.1 Doel en werking van het BSD* 
 
-Een basis-selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een enkele organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voorzover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Dit BSD is opgesteld op basis van institutioneel onderzoek. In het Rapport Institutioneel Onderzoek (RIO) is het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaarde dan wel vernietigd moet worden. Het niveau waarop geselecteerd wordt is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voor zien van een waardering en indien van toepassing een vernietigingstermijn. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, enz.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad voor Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van de ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OC&W) en de betrokken zorgdrager(s).  
+Een basis-selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een enkele organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voorzover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Dit BSD is opgesteld op basis van institutioneel onderzoek. In het Rapport Institutioneel Onderzoek (RIO) is het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaarde dan wel vernietigd moet worden. Het niveau waarop geselecteerd wordt is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voor zien van een waardering en indien van toepassing een vernietigingstermijn. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, enz.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad voor Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van de ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OC&W) en de betrokken zorgdrager(s). 
 
 #### *1.2 Definitie van het beleidsterrein* 
 
-Voorlichting van de rijksoverheid is het beleidsterrein waarop zich de coördinerende handelingen van de rijksoverheid op het gebied van overheidscommunicatie en -voorlichting afspelen.  
+Voorlichting van de rijksoverheid is het beleidsterrein waarop zich de coördinerende handelingen van de rijksoverheid op het gebied van overheidscommunicatie en -voorlichting afspelen. 
 
 #### *1.3 Afbakening van het beleidsterrein* 
 
-Iedere overheidsorganisatie heeft, voor haar eigen taken en werkzaamheden, de taal de burger actief te informeren. Omdat de rijksoverheid als geheel met één mond wil praten, is aan de Minister van Algemene Zaken de taak toebedeeld te zorgen voor de coördinatie van het voorlichtingsbeleid van alle (rijks)overheden. De Minister-president heeft daarnaast specifieke taken op het gebied van communicatie van het algemene regeringsbeleid, communicatie over en namens het Koninklijk Huis, het faciliteren van communicatie door rijksoverheden. Bij het Ministerie van Algemene Zaken is daarvoor ook een uitgebreide organisatie ingericht, de Rijksvoorlichtingsdienst (RVD). Communicatie en voorlichting over (voorgenomen) beleid en beleidsuitvoering aan de burger is een algemene handeling op alle beleidsterreinen, voor de neerslag waarvan iedere actor zelf de zorg draagt. Hiervoor bestaat een algemene handeling die in de meeste afzonderlijke BSD’s is opgenomen. Omdat deze handeling niet in alle BSD’s is opgenomen bevat dit BSD ook een handeling voor voorlichting over het eigen beleid aan de burgers. Als de algemene handeling is opgenomen in een BSD over een specifiek beleidsterrein, heeft deze voorrang. Als de algemene handeling ontbreekt, kan de vakMinistershandeling uit het onderhavige BSD gebruikt worden.  
+Iedere overheidsorganisatie heeft, voor haar eigen taken en werkzaamheden, de taal de burger actief te informeren. Omdat de rijksoverheid als geheel met één mond wil praten, is aan de Minister van Algemene Zaken de taak toebedeeld te zorgen voor de coördinatie van het voorlichtingsbeleid van alle (rijks)overheden. De Minister-president heeft daarnaast specifieke taken op het gebied van communicatie van het algemene regeringsbeleid, communicatie over en namens het Koninklijk Huis, het faciliteren van communicatie door rijksoverheden. Bij het Ministerie van Algemene Zaken is daarvoor ook een uitgebreide organisatie ingericht, de Rijksvoorlichtingsdienst (RVD). Communicatie en voorlichting over (voorgenomen) beleid en beleidsuitvoering aan de burger is een algemene handeling op alle beleidsterreinen, voor de neerslag waarvan iedere actor zelf de zorg draagt. Hiervoor bestaat een algemene handeling die in de meeste afzonderlijke BSD’s is opgenomen. Omdat deze handeling niet in alle BSD’s is opgenomen bevat dit BSD ook een handeling voor voorlichting over het eigen beleid aan de burgers. Als de algemene handeling is opgenomen in een BSD over een specifiek beleidsterrein, heeft deze voorrang. Als de algemene handeling ontbreekt, kan de vakMinistershandeling uit het onderhavige BSD gebruikt worden. 
 
 #### *1.4 Doelstelling(en) van de overheid op het beleidsterrein* 
 
@@ -90,7 +90,7 @@ De Nederlandse regering in ballingschap bouwde in 1940–1945 in Londen, ‘naar
 
 – ‘townhall meetings’ waarbij beleidsmakers kunnen worden aangesproken door burgers en maatschappelijke organisaties  
 
-– expliciet aandacht voor eenheid in overheidsbeleid   Het kabinet reageert met een implementatieplan. In 2006 wordt het actieprogramma Wallage afgerond en wordt gestart met het uitwerken van de aanbevelingen van de commissie Wolffensperger . <sup> 1  De paragraaf over de Commissie Wolffensperger is een samenvatting van de informatie van de website www.com⁠municatieplein.nl (Rijksvoorlichtingsdienst, 8 november 2006).  </sup>  
+– expliciet aandacht voor eenheid in overheidsbeleid   Het kabinet reageert met een implementatieplan. In 2006 wordt het actieprogramma Wallage afgerond en wordt gestart met het uitwerken van de aanbevelingen van de commissie Wolffensperger<sup>1 De paragraaf over de Commissie Wolffensperger is een samenvatting van de informatie van de website www.com⁠municatieplein.nl (Rijksvoorlichtingsdienst, 8 november 2006).</sup>. 
 
 #### *1.5 De actoren op het beleidsterrein* 
 
@@ -234,7 +234,7 @@ De Nederlandse regering in ballingschap bouwde in 1940–1945 in Londen, ‘naar
 
 – Minister van Binnenlandse Zaken  
 
-– Begeleidingscommissie Wet Openbaarheid Bestuur    
+– Begeleidingscommissie Wet Openbaarheid Bestuur   
 
 #### *1.6 Totstandkoming selectielijst* 
 
@@ -288,11 +288,11 @@ Uit het aanvullende onderzoek bleek dat een aantal actoren een belangrijke rol s
 
 – Begeleidingscommissie Wet Openbaarheid Bestuur  
 
-– Commissie Publiekscommunicatie en informatie (PCI)    
+– Commissie Publiekscommunicatie en informatie (PCI)   
 
 ####2. Selectiedoelstelling
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. 
 
 ####3. Selectiecriteria
 
@@ -316,15 +316,15 @@ Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaarde
 *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 
 ###6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten
 
-*Toelichting:* Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. In bijlage 2 vindt u een overzicht van bijzondere gebeurtenissen die voor bewaring in aanmerking komen.   
+*Toelichting:* Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. In bijlage 2 vindt u een overzicht van bijzondere gebeurtenissen die voor bewaring in aanmerking komen.  
 
 ####4. Verslag van de vaststellingsprocedure
 
-Op 15 november 2006 is het ontwerp-BSD door het Project Wegwerken Archiefachterstanden (PWAA) namens de Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Buitenlandse Zaken, de Minister van Defensie, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Volksgezondheid, Welzijn en Sport, de Minister van Verkeer en Waterstaat, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Justitie, de Minister van Economische Zaken, de Minister van Financiën, en de Minister van Onderwijs, Cultuur en Wetenschap aan de Minister van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 maart 2007 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het Ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 23 april 2007 bracht de RvC advies uit (kenmerk arc-2007.03707/2), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 3 mei door de Algemene Rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschappen, door de projectdirecteur van het PWAA namens de Minister van Algemene Zaken (kenmerk [C/S&A/07/1160](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022045/README.md)), de Minister van Binnenlandse Zaken en Koninkrijksrelaties (kenmerk [C/S&A/07/1162](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022047/README.md)), de Minister van Buitenlandse Zaken (kenmerk [C/S&A/07/1161](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022046/README.md)), de Minister van Defensie (kenmerk [C/S&A/07/1163](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022048/README.md)), de Minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk, de Minister van Sociale Zaken en Werkgelegenheid (kenmerk [C/S&A/07/1169](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022054/README.md)), de Minister van Volksgezondheid, Welzijn en Sport (kenmerk [C/S&A/07/1159](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022044/README.md)), de Minister van Verkeer en Waterstaat (kenmerk C/S&A/07/1171), de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (kenmerk [C/S&A/07/1170](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022055/README.md)), de Minister van Justitie (kenmerk [C/S&A/07/1166](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022051/README.md)), de Minister van Economische Zaken (kenmerk [C/S&A/07/1164](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022049/README.md)), de Minister van Financiën (kenmerk [C/S&A/07/1165](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022050/README.md)), en de Minister van Onderwijs, Cultuur en Wetenschap (kenmerk [C/S&A/07/1168](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022053/README.md)) en de directeur Informatiemanagement & Facilitaire Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk C/S&A/07/1167) vastgesteld.  
+Op 15 november 2006 is het ontwerp-BSD door het Project Wegwerken Archiefachterstanden (PWAA) namens de Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Buitenlandse Zaken, de Minister van Defensie, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Volksgezondheid, Welzijn en Sport, de Minister van Verkeer en Waterstaat, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Justitie, de Minister van Economische Zaken, de Minister van Financiën, en de Minister van Onderwijs, Cultuur en Wetenschap aan de Minister van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 maart 2007 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het Ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 23 april 2007 bracht de RvC advies uit (kenmerk arc-2007.03707/2), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 3 mei door de Algemene Rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschappen, door de projectdirecteur van het PWAA namens de Minister van Algemene Zaken (kenmerk [C/S&A/07/1160](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022045/README.md)), de Minister van Binnenlandse Zaken en Koninkrijksrelaties (kenmerk [C/S&A/07/1162](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022047/README.md)), de Minister van Buitenlandse Zaken (kenmerk [C/S&A/07/1161](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022046/README.md)), de Minister van Defensie (kenmerk [C/S&A/07/1163](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022048/README.md)), de Minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk, de Minister van Sociale Zaken en Werkgelegenheid (kenmerk [C/S&A/07/1169](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022054/README.md)), de Minister van Volksgezondheid, Welzijn en Sport (kenmerk [C/S&A/07/1159](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022044/README.md)), de Minister van Verkeer en Waterstaat (kenmerk C/S&A/07/1171), de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (kenmerk [C/S&A/07/1170](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022055/README.md)), de Minister van Justitie (kenmerk [C/S&A/07/1166](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022051/README.md)), de Minister van Economische Zaken (kenmerk [C/S&A/07/1164](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022049/README.md)), de Minister van Financiën (kenmerk [C/S&A/07/1165](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022050/README.md)), en de Minister van Onderwijs, Cultuur en Wetenschap (kenmerk [C/S&A/07/1168](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022053/README.md)) en de directeur Informatiemanagement & Facilitaire Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk C/S&A/07/1167) vastgesteld. 
 
 ####5. Leeswijzer van de handelingen
 
-(X): Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Als het volgnummer van één of meerdere handelingen in het BSD afwijkt van het oorspronkelijke RIO-nummer, dan wordt deze vermeld in een concordans. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces.  *Bijvoorbeeld:*  Het voorbereiden, coördineren en bepalen van het beleid inzake geluidshinder. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Is geen specifiek beginjaar bekend dan wordt een beginjaar geschat, of 1945– genoemd. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht, indien bekend, kan op twee manieren worden vermeld. (1) de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de Ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats of bron; wijzigingen in de grondslag en het vervallen hiervan.  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1). (2) de naam van de wet, de algemene Maatregel van bestuur, het Koninklijk Besluit of Ministeriële regeling; het betreffende artikel en het lid daarvan. De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct Toepassing is afhankelijk van de zorgdrager. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+(X): Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Als het volgnummer van één of meerdere handelingen in het BSD afwijkt van het oorspronkelijke RIO-nummer, dan wordt deze vermeld in een concordans. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces.  *Bijvoorbeeld:*  Het voorbereiden, coördineren en bepalen van het beleid inzake geluidshinder. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Is geen specifiek beginjaar bekend dan wordt een beginjaar geschat, of 1945– genoemd. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht, indien bekend, kan op twee manieren worden vermeld. (1) de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de Ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats of bron; wijzigingen in de grondslag en het vervallen hiervan.  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1). (2) de naam van de wet, de algemene Maatregel van bestuur, het Koninklijk Besluit of Ministeriële regeling; het betreffende artikel en het lid daarvan. De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct Toepassing is afhankelijk van de zorgdrager. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####6. Actorenoverzicht
 
@@ -340,7 +340,7 @@ In het introductiedossier van het Ministerie van Algemene Zaken van 22 juli 200
 
 – vaststellen van het communicatiebeleid van de rijksoverheid  
 
-– faciliteren van communicatie door rijksoverheden    
+– faciliteren van communicatie door rijksoverheden   
 
 #### *6.2 Organisatie Rijksvoorlichtingsdienst anno 2007* 
 
@@ -411,7 +411,7 @@ De coördinatiegroep Voorlichtingsraad heeft als taak de eenheid in beeldvorming
 Het stafbureau RVD heeft als taken: – Het ondersteunen en adviseren van de leiding van de RVD op het gebied van de interne bedrijfsvoering: organisatie en werkwijze, personele zaken, financieel beheer en informatie, automatisering en huisvesting. 
 ###Dienst Publiek en Communicatie (DPC)
 
-De dienst Publiek en Communicatie van de RVD heeft als voornaamste taak: Ministeries en daaraan verbonden instellingen (zoals agentschappen en uitvoeringsorganisaties) helpen beter te communiceren met burgers. DPC is een uitvoerende dienst, die zelf communicatiedeskundigen in dienst heeft, maar ook optreedt als intermediair tussen Ministeries en markt. Hiernaast bereidt de dienst beleid voor en voert in eigen beheer onderzoeksactiviteiten uit op het gebied van communicatie en voorlichting. DPC doet onderzoek naar de effecten van overheidscampagnes (trackingonderzoeken) en zorgt voor vergelijkingen tussen de verschillende campagnes. Die vergelijkingen vormen de basis voor aanbevelingen voor toekomstige campagnes. Onderdeel van DPC is de Academie voor de Overheidscommunicatie, die een kennis- en expertisecentrum op het gebied van overheidscommunicatie en is onderdeel van het Ministerie van Algemene Zaken. De RVD neemt verder deel aan het Nationaal Coördinatiecentrum/Nationaal Voorlichtingscentrum (gestuurd vanuit het Ministerie van BZK) en organiseert bijeenkomsten, seminars, cursussen en dergelijke. Ook sluit het contracten af voor de uitvoering van werkzaamheden.  
+De dienst Publiek en Communicatie van de RVD heeft als voornaamste taak: Ministeries en daaraan verbonden instellingen (zoals agentschappen en uitvoeringsorganisaties) helpen beter te communiceren met burgers. DPC is een uitvoerende dienst, die zelf communicatiedeskundigen in dienst heeft, maar ook optreedt als intermediair tussen Ministeries en markt. Hiernaast bereidt de dienst beleid voor en voert in eigen beheer onderzoeksactiviteiten uit op het gebied van communicatie en voorlichting. DPC doet onderzoek naar de effecten van overheidscampagnes (trackingonderzoeken) en zorgt voor vergelijkingen tussen de verschillende campagnes. Die vergelijkingen vormen de basis voor aanbevelingen voor toekomstige campagnes. Onderdeel van DPC is de Academie voor de Overheidscommunicatie, die een kennis- en expertisecentrum op het gebied van overheidscommunicatie en is onderdeel van het Ministerie van Algemene Zaken. De RVD neemt verder deel aan het Nationaal Coördinatiecentrum/Nationaal Voorlichtingscentrum (gestuurd vanuit het Ministerie van BZK) en organiseert bijeenkomsten, seminars, cursussen en dergelijke. Ook sluit het contracten af voor de uitvoering van werkzaamheden. 
 
 #### *6.3 Overige actoren onder de archiefzorg van het Ministerie van Algemene Zaken* 
 
@@ -465,7 +465,7 @@ De Commissie Publiekscommunicatie en Informatie (PCI) adviseert over de ontwikke
 
 ###VakMinister (deze handelingen gelden voor alle Ministeries)
 
-De Commissie-Van Heuven Goedhart inventariseerde de organisatie van het voorlichtingsbeleid van de vakMinisters uit de rijksbegrotingen 1946 en 1947, en uit rapporten en interviews met ‘leidende personen in eenigerlei voorlichtingsdienst’. Deze inventaris toont ten eerste aan hoe complex deze organisatie is, en ten tweede hoe vakMinisters in een bepaalde periode concreet hun voorlichting organiseerden (zie RIO voor voorbeelden). In dit BSD zijn de taken op het gebied van voorlichting van de Rijksoverheid samengevat in een aantal vakMinistershandelingen. <sup> 2  Overheidsvoorlichting 1946, p. 41–55, 117–130.  </sup> 
+De Commissie-Van Heuven Goedhart inventariseerde de organisatie van het voorlichtingsbeleid van de vakMinisters uit de rijksbegrotingen 1946 en 1947, en uit rapporten en interviews met ‘leidende personen in eenigerlei voorlichtingsdienst’.<sup>2Overheidsvoorlichting 1946, p. 41–55, 117–130.</sup> Deze inventaris toont ten eerste aan hoe complex deze organisatie is, en ten tweede hoe vakMinisters in een bepaalde periode concreet hun voorlichting organiseerden (zie RIO voor voorbeelden). In dit BSD zijn de taken op het gebied van voorlichting van de Rijksoverheid samengevat in een aantal vakMinistershandelingen. 
 ###Actor onder de zorg van het Ministerie van Binnenlandse Zaken:
 
 ###Minister van Binnenlandse Zaken
@@ -473,7 +473,7 @@ De Commissie-Van Heuven Goedhart inventariseerde de organisatie van het voorlich
 De functie van Minister-President, en daarmee het beleidsterrein voorlichting, werd tot 1947 gecombineerd met de functie van Minister van Binnenlandse Zaken. Omdat Minister-President Beel deze functies niet meer kon combineren, werd het Ministerie van Algemene Zaken opgericht. 
 ###Begeleidingscommissie Evaluatie [Wet Openbaarheid Bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)
 
-De begeleidingscommissie is ingesteld bij Beschikking van de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken van 15 oktober 1980, nr. 302425, Stcrt. 208, en werd opgeheven bij Beschikking van 20 januari 1984, nr. 340518 KMP. Het betrof een gemengde, ad hoc commissie, met als voorzitter hoogleraar bestuurskunde te Amsterdam (Leemans) en als secretaris een vertegenwoordiger van het Ministerie van Binnenlandse Zaken. De commissie had tot taak ten eerste het bijdragen aan een verantwoord advies aan de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken over de opzet van het verslag over de wijze van toepassing van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), dat zij aan de Staten-Generaal moeten zenden, en aan een verantwoorde rapportage aan deze Ministers over de uitkomsten van onderzoekingen naar de werking van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), en ten tweede het toezien op een evenwichtige uitvoering van onderzoeksopdrachten naar de werking van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), die de adviescommissie – na daartoe verkregen machtiging van de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken – verstrekt aan deskundigen buiten de rijksdienst.  
+De begeleidingscommissie is ingesteld bij Beschikking van de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken van 15 oktober 1980, nr. 302425, Stcrt. 208, en werd opgeheven bij Beschikking van 20 januari 1984, nr. 340518 KMP. Het betrof een gemengde, ad hoc commissie, met als voorzitter hoogleraar bestuurskunde te Amsterdam (Leemans) en als secretaris een vertegenwoordiger van het Ministerie van Binnenlandse Zaken. De commissie had tot taak ten eerste het bijdragen aan een verantwoord advies aan de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken over de opzet van het verslag over de wijze van toepassing van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), dat zij aan de Staten-Generaal moeten zenden, en aan een verantwoorde rapportage aan deze Ministers over de uitkomsten van onderzoekingen naar de werking van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), en ten tweede het toezien op een evenwichtige uitvoering van onderzoeksopdrachten naar de werking van de [WOB](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), die de adviescommissie – na daartoe verkregen machtiging van de Minister-President, de Minister van AZ, en de Minister van Binnenlandse Zaken – verstrekt aan deskundigen buiten de rijksdienst. 
 
 #### *7. Selectielijsten* 
 
@@ -665,7 +665,7 @@ Handeling: Het ontwikkelen, vaststellen, wijzigen en intrekken van externe voorl
 Vervalt. 
 ###(264)
 
-Handeling: Het coördineren en faciliteren van externe voorlichtingscampagnes inzake ontwikkelingen op het gebied van de Europese Unie en voorgangers Periode: 1947– Product: correspondentie, contracten, financiële stukken Opmerking: De Europese Unie is in 1993 opgericht en heeft als voorlopers de Europese Gemeenschap voor Kolen en Staal (1951), de Europese Economische Gemeenschap (1957) en de Eurotam (1957). Deze drie waren de basis voor de Europese Gemeenschap (EG, 1957) die later EU werd. Belangrijke ontwikkelingen en gebeurtenissen op het gebied van de EU zijn het Nederlandse voorzitterschap, de inwerkingtreding van de interne markt in 1993, de Europese grondwet, de komst van de euro. Het Ministerie van AZ werkt nauw samen met het Ministerie van Buitenlandse Zaken. Waardering: V, 7 jaar  
+Handeling: Het coördineren en faciliteren van externe voorlichtingscampagnes inzake ontwikkelingen op het gebied van de Europese Unie en voorgangers Periode: 1947– Product: correspondentie, contracten, financiële stukken Opmerking: De Europese Unie is in 1993 opgericht en heeft als voorlopers de Europese Gemeenschap voor Kolen en Staal (1951), de Europese Economische Gemeenschap (1957) en de Eurotam (1957). Deze drie waren de basis voor de Europese Gemeenschap (EG, 1957) die later EU werd. Belangrijke ontwikkelingen en gebeurtenissen op het gebied van de EU zijn het Nederlandse voorzitterschap, de inwerkingtreding van de interne markt in 1993, de Europese grondwet, de komst van de euro. Het Ministerie van AZ werkt nauw samen met het Ministerie van Buitenlandse Zaken. Waardering: V, 7 jaar 
 
 #### *7.2 Actor: Voorlichtingsraad (Vora) en de daaronder ressorterende commissies en werkgroepen* 
 
@@ -792,7 +792,7 @@ Handeling: Het beslissen over de verdeling van het centrale voorlichtingsbudget 
 
 ###(277)
 
-Handeling: Het bevorderen van de centralisatie van de technische uitvoering van activiteiten waarvan de uitvoering door de Raad is opgedragen aan de RVD Periode: 1951– Bron: Advies Commissie Hermans Product: Uitvoeringsplan Opmerking: De Raad beperkte zich tot het centraal melden door departementen wat ze van plan waren. Waardering: V, 5 jaar  
+Handeling: Het bevorderen van de centralisatie van de technische uitvoering van activiteiten waarvan de uitvoering door de Raad is opgedragen aan de RVD Periode: 1951– Bron: Advies Commissie Hermans Product: Uitvoeringsplan Opmerking: De Raad beperkte zich tot het centraal melden door departementen wat ze van plan waren. Waardering: V, 5 jaar 
 
 #### *7.3 Actor: Commissie-Van Heuven Goedhart* 
 
@@ -801,7 +801,7 @@ Handeling: Het bevorderen van de centralisatie van de technische uitvoering van 
 Handeling: Het adviseren van de regering over overheidsvoorlichting Periode: 1946 Grondslag/bron: Besluit tot installatie van de Commissie-Van Heuven Goedhart door de Minister van AOK van 7 maart 1946 Product Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(6)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.4 Actor: Commissie-Hermans* 
 
@@ -810,7 +810,7 @@ Vervalt.
 Handeling: Het adviseren over de reorganisatie van de overheidsvoorlichting Periode: 1947–1948 Grondslag/bron: Instelling van de Commissie-Hermans van 27 januari 1947 Product Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(15)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.5 Actor: Commissie-Fock* 
 
@@ -819,7 +819,7 @@ Vervalt.
 Handeling: Het adviseren van de Ministerraad over het beleid inzake coördinatie en bezuiniging bij de (sinds 1951: externe) voorlichting van de rijksoverheid Periode: 1949–1950 Grondslag/bron: Beschikking tot instelling van de Commissie-Fock van 16 juni 1949, nr. 20465 KMP; gewijzigd op 19 april 1950, nr. 23435 KMP Product Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(9)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.6 Actor: Commissie-Biesheuvel* 
 
@@ -828,7 +828,7 @@ Vervalt.
 Handeling: Het adviseren van de regering over de maatschappelijke functie van de voorlichting van de rijksoverheid en over de openheid van de bestuursdienst, waarbij een standpunt van de regering over een wettelijk omschreven recht op informatie ware voor te bereiden Periode: 1968–1970 Grondslag/bron: Beschikking tot instelling van de Commissie-Biesheuvel van 13 september 1968, nr. 179612 KMP, Stcrt. 182 Product Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(11)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.7 Actor: Commissie voor de voorlichting bij grootschalige incidenten en rampen (Adviescommissie voorlichting rampen, Commissie-Van der Voet ofwel Commissie VORAMP)* 
 
@@ -840,7 +840,7 @@ Handeling: Het adviseren van de Ministers van AZ, van Binnenlandse Zaken en van 
 Handeling: Het uitwerken van genoemde algemene richtlijnen in draaiboeken voor de voorlichting bij verschillende typen incidenten en rampen Periode: 1987–1989 Grondslag/bron: Beschikking van de Minister van AZ, van Binnenlandse Zaken en van VROM tot instelling van Commissie VORAMP (Stcrt. 1987, 98) Product: Draaiboek Waardering: B (1) 
 ###(20)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.8 Actor: Staatscommissie Toekomst Overheidscommunicatie (Commissie Wallage)* 
 
@@ -849,16 +849,16 @@ Vervalt.
 Handeling: Het adviseren van de regering over de toekomstige doelen, functies, coördinatie, organisatie en middelen van de overheidscommunicatie Periode: 2000–2001 Grondslag/bron: Instellingsbesluit van de Commissie-Wallage door Premier Kok op 25 april 2000, nr. 00M383576 Product: Adviesrapport ‘In dienst van de democratie’, voorbereiding, correspondentie, notities, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(17)
 
-Vervalt.  
+Vervalt. 
 
-#### *7.9 Actor: Commissie Wolffensperger* 
+#### *7.9 Actor: Commissie Wolffensperger * 
 
 ###(281)
 
 Handeling: Het adviseren van de Minister over verbetering van de overheidscommunicatie Periode: 2005–2006 Grondslag: Instellingsbesluit Commissie Wolffensperger Product: Advies, notulen, agenda, verslagen Waardering: B (1) 
 ###(91)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.10 Actor: Evaluatiecommissie Wet Openbaarheid Bestuur* 
 
@@ -870,7 +870,7 @@ Handeling: Het adviseren van de Minister-President, de Minister van AZ en de Min
 Handeling: Het rapporteren aan de Minister-President, de Minister van AZ en de Minister van Binnenlandse Zaken over de uitkomsten van onderzoekingen naar de werking van de WOB Periode: 1980–1984 Grondslag/bron: art. 1 van het Instellingsbesluit adviescommissie inzake verslaglegging Wet openbaarheid bestuur (Stcrt. 1980, 115) Product: Rapport, notulen, agenda’s, verslagen Waardering: B (2) 
 ###(91)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.11 Actor: Werkgroep Heroverweging voorlichting rijksoverheid* 
 
@@ -879,7 +879,7 @@ Vervalt.
 Handeling: Het adviseren aan de Ministerraad over de effectiviteit en efficiëntie van het beleid inzake voorlichting van de rijksoverheid aan het publiek Periode: 1983–1984 Grondslag/bron: Beschikking tot instelling van de Werkgroep Heroverweging voorlichting rijksoverheid van 22 april 1983 Product: Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(17)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.12 Actor: Commissie Publiekscommunicatie en informatie (PCI)* 
 
@@ -888,7 +888,7 @@ Vervalt.
 Handeling: Het adviseren van de Minister en de Voorlichtingsraad over de ontwikkeling en afstemming van de gemeenschappelijke – dus van alle Ministeries gezamenlijke – communicatie Periode: 2000– Grondslag/bron: Instellingsbesluit Voorlichtingsraad Rijksoverheid, artikel 5 Opmerking: PCI houdt zich bezig met onderwerpen als massamediale campagnes; centrale inkoop van communicatiediensten en -producten en andere onderwerpen die betrekking hebben op publiekscommunicatie. PCI brengt samen met de VoRa een jaarverslag uit. Product Advies, notulen, verslagen, agenda’s Waardering: B (1) 
 ###(91)
 
-Vervalt.  
+Vervalt. 
 
 #### *7.13 (Externe) Adviescommissies* 
 
@@ -920,11 +920,11 @@ Handeling: Het adviseren over voorlichting Periode: 1980– Product: Bijvoorbeel
 Handeling: Het geven van voorlichting over het eigen beleid Periode: 1945– Grondslag: Wet Openbaarheid van Bestuur, art. 2, 3, 4, 8 (Stb. 1978, 581, Stb. 1992, 422), Besluit van de Ministerraad van 10 december 1982, Radioreglement 1930, art. (Stb. 1930, 159; gewijzigd Stb. 1935,61), Televisiebesluit 1956, art. 12.2 (Stb. 1955, 579), Radiobesluit, art.6.2, 1965 (Stb. 1965, 484) Product: Eindproducten: persberichten, foto’s, interviews, toespraken, tijdschrift, boek publicaties (1 ex.), radio en tv voorlichting, campagneplan, evaluatie campagne, websites (bijvoorbeeld www.overheid.nl ) Overige producten zijn stukken benodigd in de voorbereiding en ondersteuning en interne voorlichting, flyers, bulletins, personeelsbladen Waardering: Eindproducten: B (5) Overig: V, 5 jaar NB: In het geval dat de algemene handeling is opgenomen in een BSD over een specifiek beleidsterrein heeft deze echter voorrang. Als de algemene handeling ontbreekt, kan de vakMinistershandeling uit het onderhavige BSD gebruikt worden. 
 ###D. Selectielijst voor de Minister van Binnenlandse Zaken
 
-#### *7.15 Actor: de Minister van Binnenlandse Zaken* 
+#### *7.15 Actor: de Minister van Binnenlandse Zaken * 
 
 ###(12)
 
-Handeling: Het instellen, wijzigen of opheffen van een commissie die moet adviseren over het beleid inzake (externe) voorlichting van de rijksoverheid Periode: 1946– Waardering: B (4)  
+Handeling: Het instellen, wijzigen of opheffen van een commissie die moet adviseren over het beleid inzake (externe) voorlichting van de rijksoverheid Periode: 1946– Waardering: B (4) 
 
 #### *7.16 Actor: Begeleidingscommissie Wet Openbaarheid Bestuur* 
 
@@ -936,9 +936,9 @@ Handeling: Het bijdragen aan een advies aan de Minister-President, de Minister v
 Handeling: Het toezien op een evenwichtige uitvoering van onderzoeksopdrachten naar de werking van de WOB, die de Evaluatiecommissie verstrekt aan deskundigen buiten de rijksdienst Periode: 1980–1988 Grondslag: art. 4, sub b, van het Instellingsbesluit adviescommissie inzake verslaglegging Wet openbaarheid bestuur (Stcrt. 1980, 115) Waardering: B (5) 
 ###(96)
 
-Vervalt.  
+Vervalt. 
 
-####10. Bronnen
+####10. Bronnen 
 
 #### *10.1 Literatuur* 
 
@@ -974,7 +974,7 @@ Vervalt.
 
 – Instellingsbesluit Voorlichtingsraad Rijksoverheid (Staatscourant, 19 oktober 2000);  
 
-– Instellingsbesluit Commissie Toekomst Overheidscommunicatie (Staatscourant, 10 mei 2000).    
+– Instellingsbesluit Commissie Toekomst Overheidscommunicatie (Staatscourant, 10 mei 2000).   
 
 #### *10.2 Mondelinge bronnen* 
 
@@ -992,11 +992,11 @@ Voor het opstellen van het BSD zijn gesprekken gevoerd met:
 
 – Edi Brouwer, Hoofd Bedrijfsbureau/Controller, DG Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie  
 
-– mw. M.L. de Vries, medewerker DIV, DG Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie    
+– mw. M.L. de Vries, medewerker DIV, DG Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie   
 
 #### *10.3 Websites* 
 
-www.communicatieplein.nl (Ministerie van Algemene Zaken, oktober 2006) www.publiekencommunicatie.nl (Ministerie van Algemene Zaken, oktober 2006)  
+www.communicatieplein.nl (Ministerie van Algemene Zaken, oktober 2006) www.publiekencommunicatie.nl (Ministerie van Algemene Zaken, oktober 2006) 
 
 ### Bijlage  1  
 

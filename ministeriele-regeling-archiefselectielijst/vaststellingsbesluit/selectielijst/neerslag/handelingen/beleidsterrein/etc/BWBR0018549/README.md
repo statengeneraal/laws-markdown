@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Organisatie van de Rijksoverheid over de periode 1945–1999 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Organisatie van de Rijksoverheid over de periode 1945–1999’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 5 juli 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, namens deze: de 
+Minister van Volksgezondheid, Welzijn en Sport, namens deze:de 
 plv. Secretaris-Generaal, 
-P.H.A.M.Huijts  
+P.H.A.M. Huijts    
 
 ####Basisselectiedocument
 
@@ -38,7 +38,7 @@ Ministerie van Binnenlandse Zaken en Koninkrijksrelaties Ministerie van Algemene
 
 ####Lijst van afkortingen
 
-ABD: Algemene Bestuursdienst ACHR: Ambtelijke Commissie Heroverweging (Rijksbegroting) ACT: Ambtelijke Commissie Toezicht ADOR: Adviescommissie Doelmatige Organisatie in de Rijksdienst AR: Algemene Rekenkamer ARAR: Algemeen Rijksambtenarenreglement ARD: Adviescommissie Rijksdienst art.: artikel BiFi-team: Begeleidingsteam Verzelfstandigingen BSD: basis selectiedocument BVD: Binnenlandse Veiligheids Dienst CADA: Contact- en Adviescommissie voor Doelmatige Aanschaffing DG: directoraat-generaal IBP: Begeleidingsteam Privatisering IBZ: Interdepartementale Begeleidingsgroep Zelfbeheer ICPR: Interdepartementale Coördinatievergadering Peroneelsbeleid Rijksdienst INK-model: Instituut Nederlandse Kwaliteit (model-) KB: Koninklijk Besluit MCEV: Ministeriële Commissie Efficiëncy Verbetering MCHR: Ministeriële Commissie Heroverweging MCMDW: Ministeriële commissie marktwerking, deregulering en wetgevingskwaliteit MIO: Methode van Institutioneel Onderzoek MITACO: Ministeriële Commissie Interdepartementale Taakverdeling en Coördinatie O&A: directie Overheidsorganisatie en -Automatisering OAR: directie Organisatie Rijksdienst OCenW: Onderwijs, Cultuur en Wetenschappen PBO: publiekrechtelijk bestuursorgaan P&O: Personeel en Organisatie PIVOT: Project Invoering Verkorting Overbrengingstermijn Rbb: Raad voor het binnenlands bestuur RBR: Raad voor de Burgerlijke Rijksdienst RIB: Rijksinkoopbureau RIO: Rapport Institutioneel Onderzoek RRD: Raad voor de Rijksdienst SER: Sociaal Economische Raad SG: secretaris-generaal Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant WRR: Wetenschappelijke Raad voor het Regeringsbeleid ZBO: zelfstandig bestuursorgaan  
+ABD: Algemene Bestuursdienst ACHR: Ambtelijke Commissie Heroverweging (Rijksbegroting) ACT: Ambtelijke Commissie Toezicht ADOR: Adviescommissie Doelmatige Organisatie in de Rijksdienst AR: Algemene Rekenkamer ARAR: Algemeen Rijksambtenarenreglement ARD: Adviescommissie Rijksdienst art.: artikel BiFi-team: Begeleidingsteam Verzelfstandigingen BSD: basis selectiedocument BVD: Binnenlandse Veiligheids Dienst CADA: Contact- en Adviescommissie voor Doelmatige Aanschaffing DG: directoraat-generaal IBP: Begeleidingsteam Privatisering IBZ: Interdepartementale Begeleidingsgroep Zelfbeheer ICPR: Interdepartementale Coördinatievergadering Peroneelsbeleid Rijksdienst INK-model: Instituut Nederlandse Kwaliteit (model-) KB: Koninklijk Besluit MCEV: Ministeriële Commissie Efficiëncy Verbetering MCHR: Ministeriële Commissie Heroverweging MCMDW: Ministeriële commissie marktwerking, deregulering en wetgevingskwaliteit MIO: Methode van Institutioneel Onderzoek MITACO: Ministeriële Commissie Interdepartementale Taakverdeling en Coördinatie O&A: directie Overheidsorganisatie en -Automatisering OAR: directie Organisatie Rijksdienst OCenW: Onderwijs, Cultuur en Wetenschappen PBO: publiekrechtelijk bestuursorgaan P&O: Personeel en Organisatie PIVOT: Project Invoering Verkorting Overbrengingstermijn Rbb: Raad voor het binnenlands bestuur RBR: Raad voor de Burgerlijke Rijksdienst RIB: Rijksinkoopbureau RIO: Rapport Institutioneel Onderzoek RRD: Raad voor de Rijksdienst SER: Sociaal Economische Raad SG: secretaris-generaal Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant WRR: Wetenschappelijke Raad voor het Regeringsbeleid ZBO: zelfstandig bestuursorgaan 
 
 ####Inleiding
 
@@ -148,7 +148,7 @@ f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatsco
 De selectie richt zich op de administratieve neerslag van het handelen van overheidsorganen die vallen onder de werking van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 1995/276). De hoofddoelstelling van de selectie is een onderscheid te maken tussen archiefbescheiden die in aanmerking komen voor overbrenging (door het orgaan dat deze gegevens beheert) naar het Nationaal Archief en archiefbescheiden die op den duur door de zorgdrager kunnen worden vernietigd. Dit basisselectiedocument is opgesteld tegen de achtergrond van de selectiedoelstelling van het Nationaal Archief (PIVOT): het mogelijk maken van de reconstructie van het overheidshandelen op hoofdlijnen. Deze doelstelling is verwoord door de Minister van Welzijn, Volksgezondheid en Cultuur (WVC) bij de behandeling van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in de Tweede Kamer. Door het Convent van Rijksarchivarissen is deze doelstelling vertaald als het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring. 
 ###Criteria voor de selectie
 
-Selecteren is het aanmerken van de neerslag van een handeling voor bewaren of vernietigen. Als de neerslag aangewezen wordt ter bewaring, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, voor eeuwig bewaard moet worden. De bewaarplaats waar deze neerslag na het verlopen van de wettelijke overbrengingstermijn van twintig jaar moet worden overgebracht, is het Nationaal Archief. Bij de handeling in dit BSD staat in dit geval bij waardering een B (van bewaren). Als de neerslag van een handeling wordt aangewezen ter vernietiging, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, na verloop van de in het BSD vastgestelde termijn kan worden vernietigd. De vernietigingstermijn is een minimum eis: stukken mogen niet eerder dan na het verstrijken van die termijn worden vernietigd door de voor het beheer verantwoordelijke dienst. De duur van de vernietigingstermijn wordt bepaald door de administratieve belangen en de belangen van de burgers, enerzijds ten behoeve van het adequaat uitvoeren van de overheidsadministratie en de verantwoordingsplicht van de overheid en anderzijds voor de recht- en bewijszoekende burger. Bij de handeling in dit BSD staat in dit geval bij waardering een V (van vernietigen). Het aanwijzen van handelingen waarvan de neerslag bewaard moet blijven gebeurt op grond van criteria die tot stand zijn gekomen in overleg tussen zorgdrager en Nationaal Archief Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. De gehanteerde algemene selectiecriteria zijn: 1. *Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. *Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. *Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. *Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. *Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. *Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
+Selecteren is het aanmerken van de neerslag van een handeling voor bewaren of vernietigen. Als de neerslag aangewezen wordt ter bewaring, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, voor eeuwig bewaard moet worden. De bewaarplaats waar deze neerslag na het verlopen van de wettelijke overbrengingstermijn van twintig jaar moet worden overgebracht, is het Nationaal Archief. Bij de handeling in dit BSD staat in dit geval bij waardering een B (van bewaren). Als de neerslag van een handeling wordt aangewezen ter vernietiging, wil dat zeggen dat deze neerslag, ongeacht de vorm waaruit zij bestaat, na verloop van de in het BSD vastgestelde termijn kan worden vernietigd. De vernietigingstermijn is een minimum eis: stukken mogen niet eerder dan na het verstrijken van die termijn worden vernietigd door de voor het beheer verantwoordelijke dienst. De duur van de vernietigingstermijn wordt bepaald door de administratieve belangen en de belangen van de burgers, enerzijds ten behoeve van het adequaat uitvoeren van de overheidsadministratie en de verantwoordingsplicht van de overheid en anderzijds voor de recht- en bewijszoekende burger. Bij de handeling in dit BSD staat in dit geval bij waardering een V (van vernietigen). Het aanwijzen van handelingen waarvan de neerslag bewaard moet blijven gebeurt op grond van criteria die tot stand zijn gekomen in overleg tussen zorgdrager en Nationaal Archief Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. De gehanteerde algemene selectiecriteria zijn: 1. *Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen*  Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. *Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen*  Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. *Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren*  Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. *Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen*  Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. *Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt*  Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. *Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten*  Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
 ###Vaststellingsprocedure
 
 Op 20 december 2002 is door het ontwerp-BSD door de betrokken zorgdragers aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 augustus 2004 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het Ministerie van OC&W en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant van en in het Archievenblad. Op 7 januari 2005 bracht de RvC advies uit (arc-2004.1772/5), hetwelk naast enkele tekstuele correcties aanleiding heeft gegeven tot de volgende wijzigingen van de ontwerp-selectielijst. 
@@ -179,7 +179,7 @@ Op 20 december 2002 is door het ontwerp-BSD door de betrokken zorgdragers aan d
 
 – De waardering van handeling 354 is gewijzigd van V 10 in B (3).  
 
-– De waardering van handeling 355 is gewijzigd van V 5 in B (3).   Daarop werd het BSD op 5 juli 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Algemene Zaken [C/S&A/05/1196], de Minister van Buitenlandse Zaken [C/S&A/05/1197], de Minster van Binnenlandse Zaken en Koninkrijksrelaties [C/S&A/05/1361], de Minister van Defensie [C/S&A/05/…], de Minister van Financiën [C/S&A/05/1198], de Minister van Landbouw, Natuur en Voedselkwaliteit [C/S&A/05/1364], de Minister van Onderwijs, Cultuur en Wetenschap [C/S&A/05/1357], de Minister van Sociale Zaken en Werkgelegenheid [C/S&A/05/1358], de Minister van Verkeer en Waterstaat [C/S&A/05/1360], de Minister van Volksgezondheid, Welzijn en Sport [C/S&A/05/1365] vastgesteld.  
+– De waardering van handeling 355 is gewijzigd van V 5 in B (3).   Daarop werd het BSD op 5 juli 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Algemene Zaken [C/S&A/05/1196], de Minister van Buitenlandse Zaken [C/S&A/05/1197], de Minster van Binnenlandse Zaken en Koninkrijksrelaties [C/S&A/05/1361], de Minister van Defensie [C/S&A/05/…], de Minister van Financiën [C/S&A/05/1198], de Minister van Landbouw, Natuur en Voedselkwaliteit [C/S&A/05/1364], de Minister van Onderwijs, Cultuur en Wetenschap [C/S&A/05/1357], de Minister van Sociale Zaken en Werkgelegenheid [C/S&A/05/1358], de Minister van Verkeer en Waterstaat [C/S&A/05/1360], de Minister van Volksgezondheid, Welzijn en Sport [C/S&A/05/1365] vastgesteld. 
 
 ####Leeswijzer
 
@@ -201,7 +201,7 @@ d. de betrokken directeur wordt in de loop van dat jaar (in dit voorbeeld 2009) 
 e. het dossier wordt vernietigd per 2 januari 2010, tenzij de betrokken directeur zwaarwichtige redenen heeft voor uitstel van vernietiging (administratief of juridisch belang).   
 ###Actoren
 
-Een uitgangspunt van PIVOT ten aanzien van een institutioneel onderzoek is dat dit zich niet beperkt tot een beschrijving van het handelen van een afzonderlijke instelling, maar dat de beschrijving zich uitstrekt over het handelen van de verschillende actoren van de rijksoverheid die op een bepaald beleidsterrein een rol spelen. Dit betekent dus dat niet alleen de actoren die onder de Minister van Binnenlandse Zaken vallen worden meegenomen in dit onderzoek, maar ook die actoren die daarbuiten vallen en wel tot de rijksoverheid behoren. De actoren zijn ingedeeld in: A. Actoren waarvan het archief valt onder de zorg van de Minister-president/de Minister van Algemene Zaken; B. Actoren waarvan het archief valt onder de zorg van de Minister van Binnenlandse Zaken; C. Actoren waarvan het archief valt onder de zorg van de Minister van Financiële Zaken; D. Vakminister; E. Overige actoren. Bij de actoren de Minister-president/Minister van Algemene Zaken, de Minister van Binnenlandse Zaken, de Minister van Financiën en de vakminister zijn, voor de overzichtelijkheid, tussen de handelingenblokken kopjes geplaatst die overeenkomen met de titels van de hoofdstukken uit het rapport institutioneel onderzoek.  
+Een uitgangspunt van PIVOT ten aanzien van een institutioneel onderzoek is dat dit zich niet beperkt tot een beschrijving van het handelen van een afzonderlijke instelling, maar dat de beschrijving zich uitstrekt over het handelen van de verschillende actoren van de rijksoverheid die op een bepaald beleidsterrein een rol spelen. Dit betekent dus dat niet alleen de actoren die onder de Minister van Binnenlandse Zaken vallen worden meegenomen in dit onderzoek, maar ook die actoren die daarbuiten vallen en wel tot de rijksoverheid behoren. De actoren zijn ingedeeld in: A. Actoren waarvan het archief valt onder de zorg van de Minister-president/de Minister van Algemene Zaken; B. Actoren waarvan het archief valt onder de zorg van de Minister van Binnenlandse Zaken; C. Actoren waarvan het archief valt onder de zorg van de Minister van Financiële Zaken; D. Vakminister; E. Overige actoren. Bij de actoren de Minister-president/Minister van Algemene Zaken, de Minister van Binnenlandse Zaken, de Minister van Financiën en de vakminister zijn, voor de overzichtelijkheid, tussen de handelingenblokken kopjes geplaatst die overeenkomen met de titels van de hoofdstukken uit het rapport institutioneel onderzoek. 
 
 ####Inleiding organisatie rijksoverheid
 
@@ -302,7 +302,7 @@ PIVOT definieert een actor als een orgaan dat een rol speelt op een beleidsterre
 
 – Stuurgroep Reorganisatie Rijksdienst;  
 
-– Werkgroep privatisering Rijksinkoopbureau (Werkgroep Steenbergen).    
+– Werkgroep privatisering Rijksinkoopbureau (Werkgroep Steenbergen).   
 
 ####Selectielijst
 
@@ -484,7 +484,7 @@ Handeling: Het adviseren van de Minister-president inzake een beroep van de vakm
 Handeling: Het instellen, evalueren en opheffen van de Commissie-Sint Periode: 1994–1995 Bron: Brief plv. secretaris-generaal B.E.C. Plesch aan SG-beraad, d.d. 7 oktober 1994, kenmerk IBI94/U1020, dossier Onderzoek; Zelfstandige bestuursorganen (ZBO’s), DIBI, Ministerie van Binnenlandse Zaken Waardering: B (4) 
 ###358.
 
-Handeling: Het voeren van periodiek overleg Periode: 1994–1995 Product: Convocaties, agenda’s en vergaderverslagen Waardering: B (1)  
+Handeling: Het voeren van periodiek overleg Periode: 1994–1995 Product: Convocaties, agenda’s en vergaderverslagen Waardering: B (1) 
 
 ### B  
 
@@ -926,7 +926,7 @@ Handeling: Het verrichten van onderzoek betreffende de relatie tussen toezicht e
 Handeling: Het adviseren van de Minister van Binnenlandse Zaken over de formulering van kaders ten aanzien van de toezichtvraagstukken Periode: 1999–2000 Bron: Instellingsbesluit Ambtelijke Commissie Toezicht, art. 2,1b, Stcrt. 1999/185, 7 Product: Vertrouwen in onafhankelijkheid. Eindadvies Ambtelijke Commissie Toezicht (2000) Waardering: B (1) 
 ###182.
 
-Handeling: Het toetsen van de departementale (zelf)evaluaties betreffende toezichtarrangementen Periode: 1999– Grondslag: Instellingsbesluit Ambtelijke Commissie Toezicht, art. 2.1a, Stcrt. 1999/185, 7 Product: Nota, rapport Waardering: B (2)  
+Handeling: Het toetsen van de departementale (zelf)evaluaties betreffende toezichtarrangementen Periode: 1999– Grondslag: Instellingsbesluit Ambtelijke Commissie Toezicht, art. 2.1a, Stcrt. 1999/185, 7 Product: Nota, rapport Waardering: B (2) 
 
 ### C  
 
@@ -1505,7 +1505,7 @@ Handeling: Het adviseren van de Minister van Financiën (tot 1980)/Minister-pres
 
 ###271.
 
-Handeling: Het onderzoeken van de privatiseringsmogelijkheden van het Rijksinkoopbureau Periode: 1986–1989 Grondslag: Besluit van de staatssecretaris van Financiën van 23 oktober 1986 tot instelling van de Werkgroep privatisering Rijksinkoopbureau, Centrale Directie en Organisatie nr. 186-5258, art. 2, onder a Waardering: B (4)  
+Handeling: Het onderzoeken van de privatiseringsmogelijkheden van het Rijksinkoopbureau Periode: 1986–1989 Grondslag: Besluit van de staatssecretaris van Financiën van 23 oktober 1986 tot instelling van de Werkgroep privatisering Rijksinkoopbureau, Centrale Directie en Organisatie nr. 186-5258, art. 2, onder a Waardering: B (4) 
 
 ### D  
 
@@ -1820,7 +1820,7 @@ Handeling: Het adviseren, behandelen van juridische, bestuurlijke en algemene aa
 Handeling: Het behandelen van publiekrechtelijke en civielrechtelijke procedures Periode: 1994– Product: Processtukken, verzoek om advies en advies van de landsadvocaat Waardering: V 20 jaar 
 ###312
 
-vervallen;  
+vervallen;
 ###313
 
 Handeling: Het juridisch behandelen van schadeclaims Periode: 1945– Product: Correspondentie Waardering: V 7 jaar na uitspraak 
@@ -2021,7 +2021,7 @@ Handeling: Het opstellen van een gezamenlijke nota waarin een beroepszaak waarov
 Handeling: Het bij de Minister-president in beroep gaan tegen een besluit van de Minister van Financiën Periode: 1980–1990 Grondslag: Regeling Werking RIB 1980, 28 juni 1980, Stb. 1980/378, art. 8.2 Waardering: B (5) 
 ###269.
 
-Handeling: Het overeenstemmen met de Minister van Financiën inzake het beroep tegen een beslissing van de Commissie van Toezicht op het Rijksinkoopbureau (tot 1967)/de Raad van Toezicht op het Rijksinkoopbureau Periode: 1945–1990 Grondslag: Regeling Werking RIB, 28 maart 1949, Stcrt. 1949/64, art. 5.3, Regeling Werking RIB 1967, 4 augustus 1967, Stb. 1967/429, art.7.4 en 8.3 Waardering: B (5)  
+Handeling: Het overeenstemmen met de Minister van Financiën inzake het beroep tegen een beslissing van de Commissie van Toezicht op het Rijksinkoopbureau (tot 1967)/de Raad van Toezicht op het Rijksinkoopbureau Periode: 1945–1990 Grondslag: Regeling Werking RIB, 28 maart 1949, Stcrt. 1949/64, art. 5.3, Regeling Werking RIB 1967, 4 augustus 1967, Stb. 1967/429, art.7.4 en 8.3 Waardering: B (5) 
 
 ### E  
 
@@ -2147,5 +2147,5 @@ Handeling: Het uit eigen beweging of op verzoek uitbrengen van een advies aan de
 Handeling: Het jaarlijks verslag uitbrengen van de werkzaamheden aan de vakminister Periode: 1997– Grondslag: Kaderwet adviescolleges, 3 juli 1996, Stb. 1996/378, art. 28.1 Waardering: B (3) 
 ###107.
 
-Handeling: Het opstellen van een evaluatieverslag ten aanzien van de taakvervulling Periode: 1997– Grondslag: Kaderwet adviescolleges, 3 juli 1996, Stb. 1996/378, art. 28.2 Opmerking: Op verzoek van de vakminister, maar tenminste eens in de vier jaar Waardering: B (2)  
+Handeling: Het opstellen van een evaluatieverslag ten aanzien van de taakvervulling Periode: 1997– Grondslag: Kaderwet adviescolleges, 3 juli 1996, Stb. 1996/378, art. 28.2 Opmerking: Op verzoek van de vakminister, maar tenminste eens in de vier jaar Waardering: B (2) 
 
