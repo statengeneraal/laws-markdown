@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juni 2010, nr. PO/FenV/207525, houdende aanpassing van de bedragen lumpsumbekostiging primair onderwijs voor het schooljaar 2009–2010 en het aanpassen van het vermenigvuldigingsbedrag ten behoeve van het toekennen van de specifieke uitkering aan gemeenten bestemd voor het bestrijden van onderwijsachterstanden en het aanpassen van de bedragen leerlinggebonden budget in het voortgezet onderwijs schooljaar 2009–2010 (Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 116](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [120](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [123](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [124](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [125](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [129](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [132 van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 113](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [117](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [120](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [124 van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), de [artikelen VIII](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md), [IX](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md) en [XIV van Wet van 16 juli 2005 tot wijziging van ondermeer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet medezeggenschap onderwijs 1992 in verband met de invoering van lumpsumbekostiging in het primair onderwijs](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md) (Stb. 423), de [artikelen 3a](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [11a](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [17](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [19](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [22](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [26](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [28a](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [29](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [30 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), de [artikelen 3a](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [10b](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [30](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [31](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [35](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [56a van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), de artikelen B16b, B16g, B16l, B21, C11, eerste en tweede lid, en C16.1 van het Besluit trekkende bevolking WPO, [artikel 8a, tweede lid, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) en [artikel 8 van het Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006-2010](../../../../../../../../../../../AMvB/besluit/vaststelling/doelstelling/en/bekostiging/etc/BWBR0020346/README.md);
+Gelet op de [artikelen 116](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [120](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [123](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [124](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [125](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [129](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [132 van de Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 113](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [117](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [120](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [124 van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), de [artikelen VIII](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md), [IX](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md) en [XIV van Wet van 16 juli 2005 tot wijziging van ondermeer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet medezeggenschap onderwijs 1992 in verband met de invoering van lumpsumbekostiging in het primair onderwijs](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(invoering/etc/BWBR0018609/README.md) (Stb. 423), de [artikelen 3a](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [11a](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [17](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [19](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [22](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [26](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [28a](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [29](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [30 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), de [artikelen 3a](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [10b](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [30](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [31](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), [35](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [56a van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), de artikelen B16b, B16g, B16l, B21, C11, eerste en tweede lid, en C16.1 van het Besluit trekkende bevolking WPO, [artikel 8a, tweede lid, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) en [artikel 8 van het Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006-2010](../../../../../../../../../../../AMvB/besluit/vaststelling/doelstelling/en/bekostiging/etc/BWBR0020346/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,33 +19,33 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *WPO:*[Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+a.  *WPO:* [Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-b. *WEC:*[Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *WEC:* [Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-c. *basisschool:* basisschool als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+c.  *basisschool:* basisschool als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-d. *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+d.  *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-e. *school voor (voortgezet) speciaal onderwijs:* school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) niet zijnde een instelling;  
+e.  *school voor (voortgezet) speciaal onderwijs:* school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) niet zijnde een instelling;  
 
-f. *schoolgewicht:* het schoolgewicht, bedoeld in [artikel 27 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md);  
+f.  *schoolgewicht:* het schoolgewicht, bedoeld in [artikel 27 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md);  
 
-g. *cumi-leerling:* leerling met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 1 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
+g.  *cumi-leerling:* leerling met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 1 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-h. *instelling:* instelling als bedoeld in [artikel 8, eerste lid, tweede volzin, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+h.  *instelling:* instelling als bedoeld in [artikel 8, eerste lid, tweede volzin, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-i. *REC:* Regionaal expertisecentrum als bedoeld in [artikel 28b van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+i.  *REC:* Regionaal expertisecentrum als bedoeld in [artikel 28b van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-j. *formatiebasisbedrag:* het bedrag, bedoeld in [artikel 22, onderdeel a, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 31, onderdeel a, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
+j.  *formatiebasisbedrag:* het bedrag, bedoeld in [artikel 22, onderdeel a, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 31, onderdeel a, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-k. *formatieleeftijdsbedrag:* het bedrag, bedoeld in [artikel 22, onderdeel b, van het Besluit Bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 31, onderdeel b, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
+k.  *formatieleeftijdsbedrag:* het bedrag, bedoeld in [artikel 22, onderdeel b, van het Besluit Bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 31, onderdeel b, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
-l. *samenvoeging van scholen:* per 1 augustus gerealiseerde samenvoeging van twee of meer gelijksoortige scholen als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
+l.  *samenvoeging van scholen:* per 1 augustus gerealiseerde samenvoeging van twee of meer gelijksoortige scholen als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-m. *vestiging:* een hoofd- of nevenvestiging van een basisschool als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
+m.  *vestiging:* een hoofd- of nevenvestiging van een basisschool als bedoeld in [artikel 1 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-n. *ambulant begeleide leerling:* een leerling bedoeld in [artikel 8a, derde lid, onder b, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) dan wel een leerling als bedoeld in [artikel 70a van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) dan wel een leerling als bedoeld in [artikel 77a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel een leerling,die een opleiding volgt als bedoeld in [artikel 7.2.2, eerste lid, a en b van de Wet Educatie en Beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en voor wie op basis van [artikel 28c van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) een leerlinggebonden budget beschikbaar is.    
+n.  *ambulant begeleide leerling:* een leerling bedoeld in [artikel 8a, derde lid, onder b, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) dan wel een leerling als bedoeld in [artikel 70a van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) dan wel een leerling als bedoeld in [artikel 77a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel een leerling,die een opleiding volgt als bedoeld in [artikel 7.2.2, eerste lid, a en b van de Wet Educatie en Beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en voor wie op basis van [artikel 28c van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) een leerlinggebonden budget beschikbaar is.   
 
 ### Paragraaf  2  
 
@@ -63,7 +63,7 @@ n. *ambulant begeleide leerling:* een leerling bedoeld in [artikel 8a, derde lid
 | b. genormeerde gemiddelde personeelslasten leraar:  | € 57.025,79  |
 | c. genormeerde gemiddelde personeelslasten schoolleiding:  | € 71.774,65  |
 
-2.  Het formatiebasisbedrag respectievelijk het formatieleeftijdsbedrag, bedoeld in [artikel 22, onderdeel a, respectievelijk onderdeel b, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is voor basisscholen:  
+2.  Het formatiebasisbedrag respectievelijk het formatieleeftijdsbedrag, bedoeld in [artikel 22, onderdeel a, respectievelijk onderdeel b, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is voor basisscholen:  
 
 | --- | --- |
 |:---|:---|
@@ -79,59 +79,59 @@ n. *ambulant begeleide leerling:* een leerling bedoeld in [artikel 8a, derde lid
 | b. leerlingen vanaf 8 jaar:  | € 1.136,04  | € 30,66  |
 
 4.  Ten opzichte van het schooljaar 2008–2009 bedraagt de ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren van basisscholen 2,123% en van de schoolleiding van basisscholen bedraagt deze ontwikkeling 2,801%.   
-5.  De ontwikkeling van de genormeerde gemiddelde personeelslasten in het basisonderwijs, als bedoeld in [artikel 5, vierde lid, van de Regeling loonkostensubsidie ondersteunend personeel basisscholen](../../../../../../../../../../../ministeriele-regeling/regeling/loonkostensubsidie/ondersteunend/personeel/basisscholen/BWBR0023794/README.md) van 17 april 2008, kenmerk DL-2008/8386, bedraagt per 1 augustus 2009 4,38%.   
+5.  De ontwikkeling van de genormeerde gemiddelde personeelslasten in het basisonderwijs, als bedoeld in [artikel 5, vierde lid, van de Regeling loonkostensubsidie ondersteunend personeel basisscholen](../../../../../../../../../../../ministeriele-regeling/regeling/loonkostensubsidie/ondersteunend/personeel/basisscholen/BWBR0023794/README.md) van 17 april 2008, kenmerk DL-2008/8386, bedraagt per 1 augustus 2009 4,38%.  
 
 ### Artikel  3  
 
 ####Vaststelling aanvullende bekostiging (zeer) kleine scholen en bestrijding onderwijsachterstanden
 
-Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede respectievelijk de derde kolom bij het desbetreffende artikel:  
+Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede respectievelijk de derde kolom bij het desbetreffende artikel:  
 
 | Artikel  | Basisbedrag  | Leeftijdsbedrag  |
 |:---|:---|:---|
-| [23, eerste lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(zeer kleine scholen)*  | € 91.548,10  | € 1.989,10  |
-| [24, tweede lid, onderdeel a](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(kleine scholen voet)*  | € 58.877,01  | € 1.588,80  |
-| [24, tweede lid, onderdeel b](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(kleine scholen verminderingsbedrag)*  | € 407,88  | € 11,01  |
-| [28, eerste lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(schoolgewicht boa)*  | € 1.376,94  | € 37,16  |
-| [28a, tweede lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(gewichtleerlingen in impulsgebied)*  | € 1.362,00  | --- |
+| [23, eerste lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(zeer kleine scholen)*   | € 91.548,10  | € 1.989,10  |
+| [24, tweede lid, onderdeel a](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(kleine scholen voet)*   | € 58.877,01  | € 1.588,80  |
+| [24, tweede lid, onderdeel b](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(kleine scholen verminderingsbedrag)*   | € 407,88  | € 11,01  |
+| [28, eerste lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(schoolgewicht boa)*   | € 1.376,94  | € 37,16  |
+| [28a, tweede lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(gewichtleerlingen in impulsgebied)*   | € 1.362,00  | --- |
 
 ### Artikel  4  
 
 ####Vaststelling aanvullende bekostiging bij aanvang van de bekostiging en groei
 
-Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde leeftijdsbedrag, bedoeld in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:  
+Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde leeftijdsbedrag, bedoeld in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:  
 
 | Artikel  | Bedrag  |
 |:---|:---|
-| [3a, vierde lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(aanvang bekostiging)*  | € 11.962,44  |
-| [29, vierde lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(groei)*  | € 2.777,16  |
-| [29, zevende lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(Bv)*  | € 826,88  |
+| [3a, vierde lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(aanvang bekostiging)*   | € 11.962,44  |
+| [29, vierde lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(groei)*   | € 2.777,16  |
+| [29, zevende lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(Bv)*   | € 826,88  |
 
 ### Artikel  5  
 
 ####Vaststelling bekostiging zorgvoorzieningen en bedragen bij overdracht
 
-Het bedrag per leerling verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde bedrag, bedoeld in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:  
+Het bedrag per leerling verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde bedrag, bedoeld in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:  
 
 | Artikel  | Bedrag  |
 |:---|:---|
-| [31, eerste lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(zorgvoorzieningen )*  | € 146,94  |
-| [31, tweede lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(extra zorgvoorz. swv zonder sbao)*  | € 4.054,74  |
-| [32, eerste lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), *(overdracht bij toename)*  | € 2.802,36  |
-| [32, tweede lid](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), en [33, eerste volzin](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md)*(overdracht en overgang naar ander swv)*  | € 4.005,14  |
-|  [33, tweede volzin](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) *(overgang naar ander swv na 1 oktober)*   | € 6.807,50  |
+| [31, eerste lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(zorgvoorzieningen )*   | € 146,94  |
+| [31, tweede lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(extra zorgvoorz. swv zonder sbao)*   | € 4.054,74  |
+| [32, eerste lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), *(overdracht bij toename)*   | € 2.802,36  |
+| [32, tweede lid](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), en [33, eerste volzin ](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)*(overdracht en overgang naar ander swv)*   | € 4.005,14  |
+| [33, tweede volzin](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) *(overgang naar ander swv na 1 oktober)*   | € 6.807,50  |
 
 ### Artikel  6  
 
 ####Vaststelling aanvullende bekostiging schoolleiding
 
-Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is voor scholen met een aantal leerlingen op de teldatum dat niet hoger is dan 97 € 17.836,86 en voor scholen met een aantal leerlingen op de teldatum dat hoger is dan 97 leerlingen € 32.585,72.  
+Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is voor scholen met een aantal leerlingen op de teldatum dat niet hoger is dan 97 € 17.836,86 en voor scholen met een aantal leerlingen op de teldatum dat hoger is dan 97 leerlingen € 32.585,72. 
 
 ### Artikel  7  
 
 ####Vaststelling bedragen personele bekostiging LGF
 
-Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 34, eerste lid, onderdeel a, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) respectievelijk het her te besteden basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van scholen voor (voortgezet) speciaal onderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in artikel 34, eerste lid, onderdeel b, van het Besluit bekostiging WPO, is per onderwijssoort weergegeven in onderstaande tabel.  
+Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 34, eerste lid, onderdeel a, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk het her te besteden basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van scholen voor (voortgezet) speciaal onderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in artikel 34, eerste lid, onderdeel b, van het Besluit bekostiging WPO, is per onderwijssoort weergegeven in onderstaande tabel.  
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  Onderwijssoort  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
@@ -148,7 +148,7 @@ Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde le
 
 ####Vaststelling bedragen bekostiging materiële instandhouding LGF
 
-De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), worden volgens de onderstaande tabel vastgesteld.  
+De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), worden volgens de onderstaande tabel vastgesteld.  
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  Onderwijssoort  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
@@ -176,7 +176,7 @@ De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO
 2.  De bekostiging, bedoeld in het eerste lid, voor basisscholen met minder dan 145 leerlingen wordt verhoogd met een bedrag dat gelijk is aan de uitkomst van de berekening: € 5.047,86 minus (het aantal leerlingen, vermenigvuldigd met € 34,82).   
 3.  De bekostiging, bedoeld in het eerste lid, wordt voor basisscholen met minder dan 195 leerlingen verhoogd met € 4.943.   
 4.  De bekostiging, bedoeld in het eerste lid, voor basisscholen die op 1 oktober 2001 werden bezocht door 70% of meer leerlingen die met de factor 0,9 bijdroegen aan het schoolgewicht, wordt verhoogd met een bedrag dat gelijk is aan de uitkomst van de berekening: (het aantal leerlingen, vermenigvuldigd met € 39,86) plus (het schoolgewicht, vermenigvuldigd met € 49,44).   
-5.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 3a, zevende lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md).   
+5.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO ](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md)of [artikel 3a, zevende lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md).  
 
 ### Artikel  10  
 
@@ -184,7 +184,7 @@ De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO
 
 1.  De bekostiging, bedoeld in artikel 9, wordt voor basisscholen,waaronder begrepen de school voor varende kinderen, verhoogd met € 2.845,92 per school en € 42,12 per leerling.   
 2.  Aan de verhoging, bedoeld in het eerste lid, wordt voor elke basisschool met minder dan 145 leerlingen een bedrag toegevoegd dat gelijk is aan de uitkomst van de berekening: € 6.107,41 minus (het aantal leerlingen, vermenigvuldigd met € 42,12).   
-3.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.   
+3.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.  
 
 ### Artikel  10a  
 
@@ -192,7 +192,7 @@ De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO
 
 1.  Het bedrag per formatieplaats, bedoeld in artikel B16b, en artikel C11, eerste en tweede lid, van het Besluit trekkende bevolking WPO is € 57.025,79.   
 2.  De aanvullende bekostiging voor schoolleiding, bedoeld in artikel B16g van het Besluit trekkende bevolking bedraagt € 17.836,86 per school.   
-3.  Het budget voor personeels- en arbeidsmarktbeleid, bedoeld in artikel B16l van het Besluit trekkende bevolking bedraagt € 18.786,78 per school. Per school wordt dit bedrag verhoogd met € 8.867,00 ten behoeve van bestuur en management.   
+3.  Het budget voor personeels- en arbeidsmarktbeleid, bedoeld in artikel B16l van het Besluit trekkende bevolking bedraagt € 18.786,78 per school. Per school wordt dit bedrag verhoogd met € 8.867,00 ten behoeve van bestuur en management.  
 
 ### Paragraaf  3  
 
@@ -210,7 +210,7 @@ De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO
 | b. genormeerde gemiddelde personeelslasten leraar:  | € 61.999,12  |
 | c. genormeerde gemiddelde personeelslasten schoolleiding:  | € 77.553,53  |
 
-2.  Het formatiebasisbedrag respectievelijk het formatieleeftijdsbedrag, bedoeld in [artikel 22, onderdeel a, respectievelijk onderdeel b, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is voor speciale scholen voor basisonderwijs:  
+2.  Het formatiebasisbedrag respectievelijk het formatieleeftijdsbedrag, bedoeld in [artikel 22, onderdeel a, respectievelijk onderdeel b, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is voor speciale scholen voor basisonderwijs:  
 
 | --- | --- |
 |:---|:---|
@@ -222,7 +222,7 @@ De bedragen, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO
 a. € 1.201,15 en  
 
 b. € 38,89     
-4.  De ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren van speciale scholen voor basisonderwijs bedraagt 2,123% en van de schoolleiding van speciale scholen voor basisonderwijs bedraagt deze ontwikkeling 2,801%.   
+4.  De ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren van speciale scholen voor basisonderwijs bedraagt 2,123% en van de schoolleiding van speciale scholen voor basisonderwijs bedraagt deze ontwikkeling 2,801%.  
 
 ### Artikel  12  
 
@@ -239,7 +239,7 @@ Het bedrag per leerling respectievelijk het verhogingsbedrag dat wordt vermenigv
 
 ####Vaststelling bedragen aanvullende bekostiging onderwijsachterstandenbestrijding
 
-Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 28, derde lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is:  
+Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 28, derde lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is:  
 
 | --- | --- |
 |:---|:---|
@@ -250,14 +250,14 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 28, der
 
 ####Vaststelling bedragen aanvullende bekostiging bij aanvang van de bekostiging en voor de schoolleiding
 
-1.  Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van speciale scholen voor basisonderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 3a, vierde lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is € 12.925,59.   
-2.  Het bedrag, bedoeld in [artikel 26, tweede lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), is voor scholen met een aantal leerlingen op de teldatum dat niet hoger is dan 99 € 18.509,41 en voor scholen met een aantal leerlingen op de teldatum dat hoger is dan 99 leerlingen € 34.063,82.   
+1.  Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van speciale scholen voor basisonderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 3a, vierde lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is € 12.925,59.   
+2.  Het bedrag, bedoeld in [artikel 26, tweede lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), is voor scholen met een aantal leerlingen op de teldatum dat niet hoger is dan 99 € 18.509,41 en voor scholen met een aantal leerlingen op de teldatum dat hoger is dan 99 leerlingen € 34.063,82.  
 
 ### Artikel  15  
 
 ####Vaststelling bedragen bekostiging voor personeel en materiële instandhouding LGF
 
-De artikelen 7 en 8 zijn van toepassing op scholen als bedoeld in deze paragraaf.  
+De artikelen 7 en 8 zijn van toepassing op scholen als bedoeld in deze paragraaf. 
 
 ### Artikel  16  
 
@@ -272,14 +272,14 @@ De artikelen 7 en 8 zijn van toepassing op scholen als bedoeld in deze paragraaf
 | B = het aantal cumi-leerlingen, vermenigvuldigd met  | € 159,25  |
 
 2.  De bekostiging, bedoeld in het eerste lid, voor speciale scholen voor basisonderwijs die op 1 oktober 2001 werden bezocht door 50% of meer cumi-leerlingen, wordt verhoogd met een bedrag dat gelijk is aan de uitkomst van de berekening van (het aantal leerlingen, vermenigvuldigd met € 72,14) plus (het aantal cumi-leerlingen, vermenigvuldigd met € 82,60).   
-3.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 3a, zevende lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md).   
+3.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 3a, zevende lid, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md).  
 
 ### Artikel  17  
 
 ####Verhoging bekostiging personeels- en arbeidsmarktbeleid ten behoeve van bestuur en management
 
 1.  De bekostiging, bedoeld in artikel 16, wordt voor speciale scholen voor basisonderwijs verhoogd met € 3.699,24 per school en € 66,58 per leerling.   
-2.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.   
+2.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.  
 
 ### Paragraaf  4  
 
@@ -313,18 +313,18 @@ De artikelen 7 en 8 zijn van toepassing op scholen als bedoeld in deze paragraaf
 | b. Slechthorende kinderen  | € 8.431,99  | € 4.907,42  | € 6.644,79  | € 112,49  | € 110,95  | € 191,80  |
 | c. Kinderen met ernstige spraak moeilijkheden  | € 8.202,91  | € 4.678,34  | n.v.t.  | € 112,49  | € 110,95  | n.v.t.  |
 | f. Lichamelijk gehandicapte kinderen  | € 10.816,05  | € 10.816,05  | € 11.408,37  | € 113,26  | € 113,26  | € 193,62  |
-| h. 1 <sup>e</sup> Langdurig zieke kinderen met lichamelijke handicap  | € 9.796,68  | € 4.979,48  | € 5.964,60  | € 100,02  | € 97,91  | € 175,97  |
-| h. 2 <sup>e</sup> Langdurig zieke kinderen anders dan met lichamelijke handicap  | € 7.243,77  | € 4.755,18  | € 5.532,39  | € 122,08  | € 121,02  | € 178,47  |
+| h. 1<sup>e</sup> Langdurig zieke kinderen met lichamelijke handicap  | € 9.796,68  | € 4.979,48  | € 5.964,60  | € 100,02  | € 97,91  | € 175,97  |
+| h. 2<sup>e</sup> Langdurig zieke kinderen anders dan met lichamelijke handicap  | € 7.243,77  | € 4.755,18  | € 5.532,39  | € 122,08  | € 121,02  | € 178,47  |
 | j. Zeer moeilijk lerende kinderen  | € 5.550,99  | € 5.550,99  | € 6.098,07  | € 104,53  | € 104,53  | € 158,14  |
 | k. Zeer moeilijk opvoedbare kinderen  | € 7.243,77  | € 4.755,18  | € 5.532,39  | € 122,08  | € 121,02  | € 178,47  |
 | m. Kinderen in scholen verbonden aan pedologisch instituut  | € 7.243,77  | € 4.755,18  | € 5.532,39  | € 122,08  | € 121,02  | € 178,47  |
 | n. Meervoudig gehandicapte kinderen met de combinatie:  |
-| a + j *(doof en zmlk)*  | € 16.031,14  | € 12.362,64  | € 10.669,12  | € 385,89  | € 384,26  | € 383,98  |
-| a + blind (*doof en blind)*  | € 21.155,10  | € 15.788,25  | € 15.788,25  | € 577,98  | € 575,68  | € 575,68  |
-| b + j *(sh en zmlk)*  | € 10.500,62  | € 7.817,20  | € 7.319,17  | € 191,70  | € 190,55  | € 194,67  |
-| f + j *(lg en zmlk)*  | € 14.486,97  | € 14.486,97  | € 14.881,01  | € 179,23  | € 179,23  | € 197,74  |
+| a + j *(doof en zmlk)*   | € 16.031,14  | € 12.362,64  | € 10.669,12  | € 385,89  | € 384,26  | € 383,98  |
+| a + blind (*doof en blind)*   | € 21.155,10  | € 15.788,25  | € 15.788,25  | € 577,98  | € 575,68  | € 575,68  |
+| b + j *(sh en zmlk)*   | € 10.500,62  | € 7.817,20  | € 7.319,17  | € 191,70  | € 190,55  | € 194,67  |
+| f + j *(lg en zmlk)*   | € 14.486,97  | € 14.486,97  | € 14.881,01  | € 179,23  | € 179,23  | € 197,74  |
 
-4.  De ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs bedraagt 2,123%. Voor het onderwijsondersteunend personeel van deze scholen bedraagt deze ontwikkeling 1,103% en van de schoolleiding van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs bedraagt deze ontwikkeling 2,801%.   
+4.  De ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs bedraagt 2,123%. Voor het onderwijsondersteunend personeel van deze scholen bedraagt deze ontwikkeling 1,103% en van de schoolleiding van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs bedraagt deze ontwikkeling 2,801%.  
 
 ### Artikel  19  
 
@@ -335,7 +335,7 @@ Bij aanspraak op bekostiging op grond van de artikelen van het [Besluit bekostig
 | Artikel  | Basisbedrag  | Leeftijdsbedrag  |
 |:---|:---|:---|
 | [32, eerste lid](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), (*vast bedrag per school*)  | € 24.841,04  | € 1.125,27  |
-| [41, eerste lid](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), *(cumi-leerling oab)*  | € 815,05  | € 36,92  |
+| [41, eerste lid](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), *(cumi-leerling oab)*   | € 815,05  | € 36,92  |
 
 ### Artikel  20  
 
@@ -367,10 +367,10 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 39, van
 | k. Zeer moeilijk opvoedbare kinderen  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
 | m. Kinderen in scholen verbonden aan pedologisch instituut  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
 | n. Meervoudig gehandicapte kinderen met de combinatie:  | --- |
-| a + j *(doof en zmlk)*  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
-| a + blind (*doof en blind)*  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
-| b + j *(sh en zmlk)*  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
-| f + j *(lg en zmlk)*  | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
+| a + j *(doof en zmlk)*   | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
+| a + blind (*doof en blind)*   | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
+| b + j *(sh en zmlk)*   | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
+| f + j *(lg en zmlk)*   | € 1.801,58  | € 81,61  | € 1.206,70  | € 54,66  |
 
 ### Artikel  22  
 
@@ -385,8 +385,8 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 39, van
 | b. Slechthorende kinderen  | € 241,34  | € 10,93  | n.v.t.  | n.v.t.  |
 | c. Kinderen met ernstige spraak moeilijkheden  | € 243,46  | € 11,03  | n.v.t.  | n.v.t.  |
 | f. Lichamelijk gehandicapte kinderen  | € 1.045,80  | € 47,37  | € 226,52  | € 10,26  |
-| h. 1 <sup>e</sup> Langdurig zieke kinderen met lichamelijke handicap  | € 10,59  | € 0,48  | n.v.t.  | n.v.t.  |
-| h. 2 <sup>e</sup> Langdurig zieke kinderen anders dan met lichamelijke handicap  | € 63,51  | € 2,88  | € 107,97  | € 4,89  |
+| h. 1<sup>e</sup> Langdurig zieke kinderen met lichamelijke handicap  | € 10,59  | € 0,48  | n.v.t.  | n.v.t.  |
+| h. 2<sup>e</sup> Langdurig zieke kinderen anders dan met lichamelijke handicap  | € 63,51  | € 2,88  | € 107,97  | € 4,89  |
 | j. Zeer moeilijk lerende kinderen  | € 25,40  | € 1,15  | n.v.t.  | n.v.t.  |
 | k. Zeer moeilijk opvoedbare kinderen  | € 63,51  | € 2,88  | € 107,97  | € 4,89  |
 | m. Kinderen in scholen verbonden aan pedologisch instituut  | € 63,51  | € 2,88  | € 107,97  | € 4,89  |
@@ -396,7 +396,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 39, van
 
 ####Vergoeding regionaal expertisecentrum
 
-De vergoeding voor een regionaal expertisecentrum en de bedragen per school en per leerling, bedoeld in [artikel 56a, eerste lid, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) worden aangepast tot respectievelijk € 31.980 en € 10.699 per school en € 182 per leerling.  
+De vergoeding voor een regionaal expertisecentrum en de bedragen per school en per leerling, bedoeld in [artikel 56a, eerste lid, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) worden aangepast tot respectievelijk € 31.980 en € 10.699 per school en € 182 per leerling. 
 
 ### Artikel  24  
 
@@ -418,10 +418,10 @@ De vergoeding voor een regionaal expertisecentrum en de bedragen per school en p
 | k. Zeer moeilijk opvoedbare kinderen  | € 800,62  | € 885,08  |
 | m. Kinderen in scholen verbonden aan pedologisch instituut  | € 800,62  | € 885,08  |
 | n. Meervoudig gehandicapte kinderen met de combinatie:  |
-| a + j *(doof en zmlk)*  | € 1.501,94  | € 1.501,94  |
-| a + blind (*doof en blind)*  | € 1.979,40  | € 1.979,40  |
-| b + j *(sh en zmlk)*  | € 1.013,33  | € 1.030,18  |
-| f + j *(lg en zmlk)*  | € 1.141,55  | € 1.158,43  |
+| a + j *(doof en zmlk)*   | € 1.501,94  | € 1.501,94  |
+| a + blind (*doof en blind)*   | € 1.979,40  | € 1.979,40  |
+| b + j *(sh en zmlk)*   | € 1.013,33  | € 1.030,18  |
+| f + j *(lg en zmlk)*   | € 1.141,55  | € 1.158,43  |
 
 Tabel B 
 
@@ -437,19 +437,19 @@ Tabel B
 | k. Zeer moeilijk opvoedbare kinderen  | € 75,87  |
 | m. Kinderen in scholen verbonden aan pedologisch instituut  | € 75,87  |
 | n. Meervoudig gehandicapte kinderen met de combinatie:  |
-| a + j *(doof en zmlk)*  | € 212,44  |
-| a + blind (*doof en blind)*  | € 291,95  |
-| b + j *(sh en zmlk)*  | € 128,98  |
-| f + j *(lg en zmlk)*  | € 182,09  |
+| a + j *(doof en zmlk)*   | € 212,44  |
+| a + blind (*doof en blind)*   | € 291,95  |
+| b + j *(sh en zmlk)*   | € 128,98  |
+| f + j *(lg en zmlk)*   | € 182,09  |
 
-4.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 118 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 3a, zevende lid, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md).   
+4.  Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 118 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 3a, zevende lid, van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md).  
 
 ### Artikel  25  
 
 ####Verhoging bekostiging personeels- en arbeidsmarktbeleid ten behoeve van bestuur en management
 
 1.  De bekostiging, bedoeld in artikel 24, wordt voor scholen uit deze paragraaf verhoogd met € 2.098,46 per school en € 35,37 per leerling.   
-2.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.   
+2.  De verhoging wordt per school rekenkundig en op hele euro’s afgerond.  
 
 ### Paragraaf  5  
 
@@ -491,7 +491,7 @@ De bekostiging voor personeels- en arbeidsmarktbeleid voor instellingen, bestaat
 ####Verhoging bekostiging personeels- en arbeidsmarktbeleid ten behoeve van bestuur en management
 
 1.  De bekostiging, bedoeld in artikel 27, wordt voor instellingen verhoogd met € 2.098,46 per instelling en € 35,37 per leerling op de teldatum.   
-2.  De verhoging wordt per instelling rekenkundig en op hele euro’s afgerond.   
+2.  De verhoging wordt per instelling rekenkundig en op hele euro’s afgerond.  
 
 ### Hoofdstuk  2  
 
@@ -528,7 +528,7 @@ e. de school of scholen waarvan de kinderen afkomstig zijn, onder vermelding van
 4.  Van de aanvraag, bedoeld in het eerste lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 5.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
 6.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.   
-7.  De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2010.   
+7.  De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2010.  
 
 ### Artikel  30  
 
@@ -547,7 +547,7 @@ d. de periode waarvoor bijzondere en aanvullende bekostiging wordt gevraagd;
 3.  Van de aanvraag, bedoeld in het eerste lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 4.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
 5.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.   
-6.  De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2010.   
+6.  De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2010.  
 
 ### Artikel  31  
 
@@ -567,7 +567,7 @@ b. het aantal 4- tot en met 9-jarige leerlingen op 1 oktober 2008 waarvoor het g
 
 c. het aantal 4- tot en met 9-jarige leerlingen op 1 oktober 2008 waarvoor het gewicht 0,7 zou zijn vastgesteld, indien dit van toepassing was gebleven, onder vermelding van het gewicht dat daadwerkelijk voor deze leerlingen is vastgesteld.     
 4.  Van de aanvraag, bedoeld in het eerste lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
-5.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
+5.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.  
 
 ### Artikel  32  
 
@@ -583,7 +583,7 @@ b. een overzicht van het aantal ‘Blijf van mijn lijf huis’ leerlingen dat ge
 c. de ingangsdatum en de einddatum van de door het bevoegd gezag gekozen periode van maximaal 12 maanden, bedoeld in onderdeel b.     
 3.  Van de aanvraag, bedoeld in het eerste lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 4.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
-5.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.   
+5.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.  
 
 ### Artikel  33  
 
@@ -591,7 +591,7 @@ c. de ingangsdatum en de einddatum van de door het bevoegd gezag gekozen periode
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder asielzoekerskind: vreemdeling die in het bezit is van een document of schriftelijke verklaring als bedoeld in [artikel 9 van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en deze heeft verkregen op grond van [artikel 8, onderdelen c, d, f, g, h of j, van die wet](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onderscheidenlijk een vreemdeling van wie tenminste één van de ouders of voogden in het bezit is van een document of schriftelijke verklaring als bedoeld in artikel 9 van de Vreemdelingenwet 2000 en deze heeft verkregen op grond van artikel 8, onderdelen c, d, f, g, h of j, van die wet, en die ingeschreven staat op een school en deze geregeld bezoekt.   
 2.  Het bevoegd gezag van een basisschool waar op 1 augustus 2009 het aantal ingeschreven asielzoekerskinderen minimaal 10 meer bedraagt dan het aantal ingeschreven asielzoekerskinderen op 1 oktober 2008, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.   
-3.  Het bevoegd gezag van een basisschool die aanvullende bekostiging ontvangt in verband met groei, bedoeld in [artikel 29, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), en waarbij sprake is van een toename met minimaal 10 asielzoekerskinderen ten opzichte van het aantal asielzoekerskinderen op de datum van de laatste toekenning op basis van dit artikel in het schooljaar 2009–2010, dan wel bij gebreke daarvan, op 1 oktober 2008, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.   
+3.  Het bevoegd gezag van een basisschool die aanvullende bekostiging ontvangt in verband met groei, bedoeld in [artikel 29, van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), en waarbij sprake is van een toename met minimaal 10 asielzoekerskinderen ten opzichte van het aantal asielzoekerskinderen op de datum van de laatste toekenning op basis van dit artikel in het schooljaar 2009–2010, dan wel bij gebreke daarvan, op 1 oktober 2008, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.   
 4.  De aanvraag voor de bijzondere en aanvullende bekostiging, bedoeld in het tweede lid, wordt uitsluitend ingediend bij DUO door middel van het formulier, nummer DUO 69102, te downloaden via www.ocwduo.nl en gaat vergezeld van de volgende gegevens: 
 
 a. naam, brinnummer, postcode en plaats van de school;  
@@ -611,7 +611,7 @@ d. het aantal asielzoekerskinderen op de datum van de groeitelling.
 6.  Van de aanvraag, bedoeld in het tweede en derde lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 7.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
 8.  Indien de aanvraag, bedoeld in het tweede lid, geheel of gedeeltelijk wordt toegekend, ontvangt het bevoegd gezag bijzondere bekostiging met ingang van 1 augustus 2009. Indien de aanvraag, bedoeld in het derde lid, geheel of gedeeltelijk wordt toegekend, ontvangt het bevoegd gezag bijzondere bekostiging met ingang van de datum, waarop aanvullende bekostiging in verband met groei is toegekend.   
-9.  De in het tweede en derde lid bedoelde bekostiging bedraagt per ingeschreven asielzoekerskind € 1.271,68 voor personeel en € 38,37 voor materiële instandhouding, welke bedragen worden gedeeld door 12 en vermenigvuldigd met het aantal resterende maanden van het schooljaar waarvoor de bekostiging is toegekend.   
+9.  De in het tweede en derde lid bedoelde bekostiging bedraagt per ingeschreven asielzoekerskind € 1.271,68 voor personeel en € 38,37 voor materiële instandhouding, welke bedragen worden gedeeld door 12 en vermenigvuldigd met het aantal resterende maanden van het schooljaar waarvoor de bekostiging is toegekend.  
 
 ### Artikel  34  
 
@@ -619,9 +619,9 @@ d. het aantal asielzoekerskinderen op de datum van de groeitelling.
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. *vreemdeling:* leerling die ingeschreven staat op een school, die de school geregeld bezoekt en die door de Minister van Justitie in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in [artikel 9 van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onderscheidenlijk van wie tenminste één van de ouders of voogden door de Minister van Justitie in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in artikel 9 van de Vreemdelingenwet 2000, en aantoonbaar nog geen jaar woonachtig is in Nederland;  
+a.  *vreemdeling:* leerling die ingeschreven staat op een school, die de school geregeld bezoekt en die door de Minister van Justitie in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in [artikel 9 van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onderscheidenlijk van wie tenminste één van de ouders of voogden door de Minister van Justitie in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in artikel 9 van de Vreemdelingenwet 2000, en aantoonbaar nog geen jaar woonachtig is in Nederland;  
 
-b. *school:* bekostigde school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of een bekostigde school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).     
+b.  *school:* bekostigde school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of een bekostigde school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).     
 2.  Voor de toepassing van dit artikel wordt onder vreemdeling mede verstaan: leerling die ingeschreven staat op een school, die de school geregeld bezoekt en van wie uit het paspoort of ander identiteitsbewijs blijkt dat hij zelf of één van zijn ouders of voogden burger is van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, en die op grond van het EG-verdrag in Nederland verblijft en aantoonbaar nog geen jaar woonachtig is in Nederland.   
 3.  Het bevoegd gezag van een school waar de eerste opvang in het onderwijs wordt verzorgd voor tenminste 4 vreemdelingen die korter dan 1 jaar in Nederland verblijven, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.   
 4.  De bijzondere en aanvullende bekostiging, bedoeld in het derde lid, heeft betrekking op een periode van vier maanden, met als peildata: 
@@ -643,7 +643,7 @@ c. de periode waarvoor de bekostiging wordt gevraagd;
 d. in geval van toepassing van het vijfde lid, een verklaring dat de school niet eerder de eerste opvang van vreemdelingen heeft verzorgd.     
 7.  Van de aanvraag wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 8.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
-9.  De in het derde lid bedoelde bekostiging bedraagt per ingeschreven vreemdeling € 2.543,36 voor personeel en € 76,74 voor materiële instandhouding welke bedragen worden vermenigvuldigd met 4/12.   
+9.  De in het derde lid bedoelde bekostiging bedraagt per ingeschreven vreemdeling € 2.543,36 voor personeel en € 76,74 voor materiële instandhouding welke bedragen worden vermenigvuldigd met 4/12.  
 
 ### Artikel  35  
 
@@ -660,14 +660,14 @@ d. in geval van toepassing van het vijfde lid, een verklaring dat de school niet
 
 4.  Van de aanvraag, bedoeld in het eerste lid, wordt een afschrift gezonden aan de Inspectie van het onderwijs waaronder de school ressorteert.   
 5.  Het bevoegd gezag ontvangt de beschikking uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
-6.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.   
+6.  Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.  
 
 ### Artikel  36  
 
 ####Schoolmaatschappelijk werk primair onderwijs in het kader van veiligheid en opvang risicoleerlingen
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder schoolgewicht: schoolgewicht zoals dat is vastgesteld op basis van teldatum 1 oktober 2008, aangevuld met de compensatiehoeveelheid schoolgewicht bedoeld [artikel 3, tweede lid, van de Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 11 maart 2009, kenmerk PO/OO 101528, van een school in een samenwerkingsverband.   
-2.  Aan het bestuur van de centrale dienst van een samenwerkingsverband dan wel, indien een bevoegd gezag alle scholen in een samenwerkingsverband in stand houdt, het bevoegd gezag, waarvan de som der schoolgewichten van de scholen binnen het samenwerkingsverband 140 of meer is, wordt een bedrag van € 70,59 per schoolgewicht toegekend.   
+2.  Aan het bestuur van de centrale dienst van een samenwerkingsverband dan wel, indien een bevoegd gezag alle scholen in een samenwerkingsverband in stand houdt, het bevoegd gezag, waarvan de som der schoolgewichten van de scholen binnen het samenwerkingsverband 140 of meer is, wordt een bedrag van € 70,59 per schoolgewicht toegekend.  
 
 ### Artikel  37  
 
@@ -680,7 +680,7 @@ d. in geval van toepassing van het vijfde lid, een verklaring dat de school niet
 5.  De bijzondere bekostiging, bedoeld in het eerste lid, bedraagt het verschil tussen: de berekende bekostiging, bedoeld in [artikel 117, eerste lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) op basis van het aantal leerlingen op 1 oktober 2008, dan wel, indien [artikel 37 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) van toepassing is, op basis van het aantal leerlingen op 16 januari 2009, en de berekende bekostiging, bedoeld in [artikel 117, eerste lid, van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) op basis van het aantal leerlingen op 1 augustus 2009. De uitkomst wordt gedeeld door twaalf en vermenigvuldigd met het aantal maanden waarvoor de bekostiging wordt toegekend.   
 6.  De bijzondere bekostiging, bedoeld in het tweede lid, bedraagt het verschil tussen: de berekende bekostiging, bedoeld in [artikel 117, eerste lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), op basis van het aantal leerlingen op 1 oktober 2008, dan wel, indien [artikel 37 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) van toepassing is, op basis van het aantal leerlingen op 16 januari 2009, dan wel, indien het eerste lid van dit artikel van toepassing is, op basis van het aantal leerlingen op 1 augustus 2009, dan wel, indien [artikel 38 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) van toepassing is, op basis van het aantal leerlingen op 1 oktober 2009, en de berekende bekostiging, bedoeld in artikel 117, eerste lid van de WEC op basis van het aantal leerlingen op 16 januari 2010. De uitkomst wordt gedeeld door twaalf en vermenigvuldigd met het aantal maanden waarvoor de bekostiging wordt toegekend.   
 7.  De bijzondere bekostiging, bedoeld in het derde lid, bedraagt het verschil tussen: de berekende bekostiging, bedoeld in [artikel 117, eerste lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), op basis van het aantal leerlingen op 1 oktober 2008, dan wel, indien [artikel 37 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) van toepassing is, op basis van het aantal leerlingen op 16 januari 2009, dan wel, indien het eerste lid van dit artikel van toepassing is, op basis van het aantal leerlingen op 1 augustus 2009, dan wel, indien [artikel 38 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) van toepassing is, op basis van het aantal leerlingen op 1 oktober 2009, dan wel, indien het tweede lid van dit artikel van toepassing is, op basis van het aantal leerlingen op 16 januari 2010, en de berekende bekostiging, bedoeld in artikel 117, eerste lid van de WEC op basis van het aantal leerlingen op 1 maart 2010. De uitkomst wordt gedeeld door twaalf en vermenigvuldigd met het aantal maanden waarvoor de bekostiging wordt toegekend.   
-8.  Voor de toepassing van dit artikel worden leerlingen op vestigingen van scholen waaraan justitiële jeugdinrichtingen dan wel instellingen voor gesloten jeugdzorg zijn verbonden, buiten beschouwing gelaten.   
+8.  Voor de toepassing van dit artikel worden leerlingen op vestigingen van scholen waaraan justitiële jeugdinrichtingen dan wel instellingen voor gesloten jeugdzorg zijn verbonden, buiten beschouwing gelaten.  
 
 ### Artikel  38  
 
@@ -689,7 +689,7 @@ d. in geval van toepassing van het vijfde lid, een verklaring dat de school niet
 1.  Het bevoegd gezag van een school voor (voortgezet) speciaal onderwijs aan zeer moeilijk opvoedbare kinderen met een vestiging die fungeert als gesloten justitiële inrichting waarbinnen het onderwijs georganiseerd moet worden, dan wel is verbonden aan een instelling voor gesloten jeugdzorg, ontvangt bijzondere bekostiging voor personeel.   
 2.  De bijzondere bekostiging, bedoeld in het eerste lid, bedraagt per vestiging € 30.797,07 en € 462,44 per leerling van de vestiging. Het aantal leerlingen van de vestiging is gelijk aan de door de Minister van Justitie toegekende capaciteit als het een justitiële jeugdinrichting betreft, en is de door de Minister voor Jeugd en Gezin toegekende capaciteit als het een instelling voor gesloten jeugdzorg betreft.   
 3.  Het bevoegd gezag, bedoeld in het eerste lid, ontvangt bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding, indien er op de eerste van de maand door de Minister van Justitie, indien het een justitiële jeugdinrichting betreft, en door de Minister voor Jeugd en Gezin, indien het een instelling voor gesloten jeugdzorg betreft, meer capaciteit, uitgedrukt in leerlingen, aan de vestiging is toegekend dan het aantal leerlingen van de vestiging op grond waarvan de personele bekostiging voor het schooljaar is bepaald. Onder personele bekostiging, bedoeld in de eerste volzin, wordt mede verstaan, de aanvullende bekostiging op grond van de [artikelen 37](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [38 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), en, indien dit artikel reeds eerder is toegepast, de bijzondere bekostiging op grond van dit artikel.   
-4.  De bijzondere bekostiging respectievelijk aanvullende bekostiging, bedoeld in het derde lid, bedraagt het verschil tussen de capaciteit, uitgedrukt in leerlingen, en het aantal leerlingen waarvoor personele bekostiging is toegekend, vermenigvuldigd met € 12.769,35 voor personeel en € 1.265,95 voor materiële instandhouding, gedeeld door twaalf en vermenigvuldigd met het aantal resterende maanden van het schooljaar waarvoor de bekostiging is toegekend.   
+4.  De bijzondere bekostiging respectievelijk aanvullende bekostiging, bedoeld in het derde lid, bedraagt het verschil tussen de capaciteit, uitgedrukt in leerlingen, en het aantal leerlingen waarvoor personele bekostiging is toegekend, vermenigvuldigd met € 12.769,35 voor personeel en € 1.265,95 voor materiële instandhouding, gedeeld door twaalf en vermenigvuldigd met het aantal resterende maanden van het schooljaar waarvoor de bekostiging is toegekend.  
 
 ### Artikel  39  
 
@@ -699,28 +699,28 @@ d. in geval van toepassing van het vijfde lid, een verklaring dat de school niet
 2.  De aanvraag voor de bijzondere en aanvullende bekostiging, bedoeld in het eerste lid, wordt uitsluitend ingediend voor een geïndiceerde zmlk-leerling die met ingang van het schooljaar vanuit groep 2 wordt geplaatst in groep 3 door middel van een per leerling volledig ingevuld formulier nummer DUO 66007, te downloaden via www.ocwduo.nl.   
 3.  De toekenning van de bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding wordt na de eerste toekenning elk schooljaar automatisch toegekend zolang de leerling op de school staat ingeschreven.   
 4.  Indien de leerling wordt teruggeplaatst naar groep 2 stopt de toekenning met ingang van de eerste dag van de maand volgend op de maand van terugplaatsing. Het bevoegd gezag meldt deze terugplaatsing direct aan DUO.   
-5.  De bijzondere bekostiging, bedoeld in het eerste lid, bedraagt € 6.369,78 per leerling en de aanvullende bekostiging, bedoeld in het eerste lid, bedraagt € 290,00 per leerling.   
+5.  De bijzondere bekostiging, bedoeld in het eerste lid, bedraagt € 6.369,78 per leerling en de aanvullende bekostiging, bedoeld in het eerste lid, bedraagt € 290,00 per leerling.  
 
 ### Artikel  40  
 
 ####Bijzondere bekostiging voor opvang en begeleiding van leerlingen met autisme
 
-Regionale expertisecentra ontvangen ten behoeve van de opvang en begeleiding van leerlingen met autisme bijzondere bekostiging welke is gebaseerd op de toekenning voor het schooljaar 2006–2007 en aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren, onderwijsondersteunend personeel en van de schoolleiding van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 18, vierde lid.  
+Regionale expertisecentra ontvangen ten behoeve van de opvang en begeleiding van leerlingen met autisme bijzondere bekostiging welke is gebaseerd op de toekenning voor het schooljaar 2006–2007 en aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van leraren, onderwijsondersteunend personeel en van de schoolleiding van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 18, vierde lid. 
 
 ### Artikel  41  
 
 ####Vaststelling bedrag compensatieregeling van de gewichtenregeling 2009–2010
 
 1.  Het bedrag bedoeld in [artikel 3, eerste lid, genoemd bij C](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) en artikel 3, tweede lid, [artikel 4, tweede lid](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md), en artikel 4, derde lid, van de [Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 18 maart 2009, kenmerk PO/OO 101528, is € 3.210,68.   
-2.  De drempel als bedoeld bij [H in artikel 4, eerste lid van de Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 11 maart 2009, kenmerk PO/OO 101528, bedraagt 2.   
+2.  De drempel als bedoeld bij [H in artikel 4, eerste lid van de Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 11 maart 2009, kenmerk PO/OO 101528, bedraagt 2.  
 
 ### Artikel  42  
 
 ####Bijzondere bekostiging voor vestigingen in een impulsgebied
 
 1.  Het bevoegd gezag van hoofd- en nevenvestigingen van basisscholen gelegen in de impulsgebieden zoals vastgesteld in de [Regeling vaststelling impulsgebieden schooljaar 2009–2010 tot en met 2012-2013](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/impulsgebieden/schooljaar/2009–2010/tot/en/met/etc/BWBR0025945/README.md) van 26 mei 2009, kenmerk PO/OO-2009/120306, ontvangt voor het schooljaar 2009–2010 ambtshalve bijzondere bekostiging voor de bestrijding van onderwijsachterstanden.   
-2.  De in het eerste lid bedoelde bijzondere bekostiging bedraagt € 211 per leerling voor wie op grond van [artikel 27, eerste lid van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), een gewicht is vastgesteld.   
-3.  De in het eerste lid bedoelde bijzondere bekostiging blijft buiten beschouwing bij de berekening van het schoolgewicht als bedoeld bij [‘C’ in artikel 3, eerste lid](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md), en in [artikel 4, eerste lid, van de Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 18 maart 2009, kenmerk PO/OO-2009/101528.   
+2.  De in het eerste lid bedoelde bijzondere bekostiging bedraagt € 211 per leerling voor wie op grond van [artikel 27, eerste lid van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), een gewicht is vastgesteld.   
+3.  De in het eerste lid bedoelde bijzondere bekostiging blijft buiten beschouwing bij de berekening van het schoolgewicht als bedoeld bij [‘C’ in artikel 3, eerste lid](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md), en in [artikel 4, eerste lid, van de Regeling vaststelling van de drempel en de compensatieregeling bij de gewichtenregeling voor het schooljaar 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/van/de/drempel/en/de/compensatieregeling/bij/de/etc/BWBR0025620/README.md) van 18 maart 2009, kenmerk PO/OO-2009/101528.  
 
 ### Paragraaf  2  
 
@@ -736,8 +736,8 @@ Regionale expertisecentra ontvangen ten behoeve van de opvang en begeleiding van
 a. de helft van de bijzondere bekostiging, berekend op grond van het derde lid, aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van basisscholen, en  
 
 b. de bijzondere bekostiging berekend op grond van het vierde lid, aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van basisscholen.     
-3.  De bijzondere bekostiging voor de personeelskosten van leraren is voor het eerste schooljaar na de samenvoeging gelijk aan X–Y, waarin: X = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van de [artikelen 23](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [24](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [25](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [28](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [28a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Y = de som van de bekostiging van de samengevoegde school, berekend op grond van de [artikelen 23](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [24](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [25](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [28](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [28a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.   
-4.  De bijzondere bekostiging voor de personeelskosten van de schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.   
+3.  De bijzondere bekostiging voor de personeelskosten van leraren is voor het eerste schooljaar na de samenvoeging gelijk aan X–Y, waarin: X = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van de [artikelen 23](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [24](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [25](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [28](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [28a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Y = de som van de bekostiging van de samengevoegde school, berekend op grond van de [artikelen 23](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [24](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [25](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [28](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [28a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.   
+4.  De bijzondere bekostiging voor de personeelskosten van de schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.  
 
 ### Artikel  44  
 
@@ -745,7 +745,7 @@ b. de bijzondere bekostiging berekend op grond van het vierde lid, aangepast aan
 
 1.  Het bevoegd gezag van een speciale school voor basisonderwijs die met ingang van 1 augustus is ontstaan uit samenvoeging van twee of meer zelfstandige speciale scholen voor basisonderwijs, ontvangt het eerste schooljaar na de samenvoeging bijzondere bekostiging voor de personeelskosten van de schoolleiding berekend op grond van het derde lid.   
 2.  Het bevoegd gezag, bedoeld in het eerste lid, ontvangt in het tweede schooljaar na de samenvoeging de bijzondere bekostiging berekend op grond van het derde lid, aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van speciale scholen voor basisonderwijs.   
-3.  De bijzondere bekostiging voor schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.   
+3.  De bijzondere bekostiging voor schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 26 van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) in het schooljaar na de samenvoeging.  
 
 ### Artikel  45  
 
@@ -758,7 +758,7 @@ a. de helft van de bijzondere bekostiging berekend op grond van het derde lid, a
 
 b. de bijzondere bekostiging berekend op grond van het vierde lid, aangepast aan de ontwikkeling van de genormeerde gemiddelde personeelslasten van scholen voor (voortgezet) speciaal onderwijs.     
 3.  De bijzondere bekostiging voor leraren is voor het eerste schooljaar na de samenvoeging gelijk aan X–Y, waarin: X = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 32 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Y = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 32 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging.   
-4.  De bijzondere bekostiging voor schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 35 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 35 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging.   
+4.  De bijzondere bekostiging voor schoolleiding is voor het eerste schooljaar na de samenvoeging gelijk aan Xs–Ys, waarin: Xs = de som van de bekostiging van alle bij de samenvoeging betrokken scholen, berekend op grond van [artikel 35 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging, wanneer de samenvoeging niet zou hebben plaatsgevonden, en Ys = de som van de bekostiging van de samengevoegde school, berekend op grond van [artikel 35 van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) in het schooljaar na de samenvoeging.  
 
 ### Hoofdstuk  3  
 
@@ -768,11 +768,11 @@ b. de bijzondere bekostiging berekend op grond van het vierde lid, aangepast aan
 
 ####Nadere regels gewogen gemiddelde leeftijd
 
-1.  De gewogen gemiddelde leeftijd op 1 oktober van het voorafgaande schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.   
+1.  De gewogen gemiddelde leeftijd op 1 oktober van het voorafgaande schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.   
 2.  Onder leraar als bedoeld in het eerste lid wordt verstaan: elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in [artikel 151 van Rechtspositiebesluit WPO/WEC](../../../../../../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in [artikel 191, onderdeel a, van dat besluit](../../../../../../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md) en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in [artikel 183 van de WPO](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 169 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) bedoelde rechtspersoon.   
 3.  In geval van een samenvoeging is de gewogen gemiddelde leeftijd de som van de betrekkingsomvang van elke leraar van alle bij de samenvoeging betrokken scholen vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren van alle bij de samenvoeging betrokken scholen. De tweede tot en met de laatste volzin van het eerste lid is van toepassing.   
 4.  De geraamde landelijk gewogen gemiddelde leeftijd wordt vastgesteld op basis van de gewogen gemiddelde leeftijd van de scholen op 1 oktober van het voorafgaande schooljaar.   
-5.  Indien voor de mededeling van de gewogen gemiddelde leeftijd, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.   
+5.  Indien voor de mededeling van de gewogen gemiddelde leeftijd, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  
 
 ### Artikel  47  
 
@@ -839,7 +839,7 @@ De drempelwaarden, bedoeld in [artikel VIII, vierde lid, onderdeel a, respectiev
 
 ####Specifieke uitkering aan gemeenten, bestemd voor het bestrijden van onderwijsachterstanden
 
-Het vermenigvuldigingsbedrag, bedoeld in [artikel 3 van het Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006–2010](../../../../../../../../../../../AMvB/besluit/vaststelling/doelstelling/en/bekostiging/etc/BWBR0020346/README.md), voor het schooljaar 2009–2010 bedraagt € 1.940 per eenheid schoolgewicht.  
+Het vermenigvuldigingsbedrag, bedoeld in [artikel 3 van het Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006–2010](../../../../../../../../../../../AMvB/besluit/vaststelling/doelstelling/en/bekostiging/etc/BWBR0020346/README.md), voor het schooljaar 2009–2010 bedraagt € 1.940 per eenheid schoolgewicht. 
 
 ### Hoofdstuk  6  
 
@@ -861,7 +861,7 @@ Het vermenigvuldigingsbedrag, bedoeld in [artikel 3 van het Besluit vaststelling
 | f. meervoudig gehandicapte kinderen  | € 1.588,10  | € 3.205,64  | € 3.387,20  | € 274  |
 | g. cluster 4  | € 1.588,10  | € 3.205,64  | € 3.387,20  | € 274  |
 
-2.  De bedragen, genoemd in het eerste lid, in de eerste twee kolommen met bedragen, worden in de maand augustus 2010 uitbetaald.   
+2.  De bedragen, genoemd in het eerste lid, in de eerste twee kolommen met bedragen, worden in de maand augustus 2010 uitbetaald.  
 
 ### Hoofdstuk  7  
 
@@ -871,22 +871,22 @@ Het vermenigvuldigingsbedrag, bedoeld in [artikel 3 van het Besluit vaststelling
 
 ####Intrekking andere regelingen
 
-De [Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/bekostiging/personeel/po/2009–2010/en/aanpassing/bedragen/etc/BWBR0026267/README.md) van 23 juli 2009, nr. PO/FenV/132269 wordt ingetrokken  
+De [Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010](../../../../../../../../../../../ministeriele-regeling/regeling/bekostiging/personeel/po/2009–2010/en/aanpassing/bedragen/etc/BWBR0026267/README.md) van 23 juli 2009, nr. PO/FenV/132269 wordt ingetrokken
 
 ### Artikel  52  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling heeft betrekking op het schooljaar 2009–2010 en vervalt met ingang van 1 augustus 2019, met dien verstande dat deze van toepassing blijft voor het tijdvak waarvoor zij gelding had.   
+2.  Deze regeling heeft betrekking op het schooljaar 2009–2010 en vervalt met ingang van 1 augustus 2019, met dien verstande dat deze van toepassing blijft voor het tijdvak waarvoor zij gelding had.  
 
 ### Artikel  53  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010.  
+Deze regeling wordt aangehaald als: Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010. 
 Deze regeling zal met de toelichtingin de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-A.Rouvoet   
+A. Rouvoet     

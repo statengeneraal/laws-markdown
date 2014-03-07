@@ -22,21 +22,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;  
+a.  *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *WPO:* de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+b.  *WPO:* de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-c. *WEC:* de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
+c.  *WEC:* de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-d. *basisregister onderwijs:* het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+d.  *basisregister onderwijs:* het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-e. *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 van de WEC](../../../../../../../wet/isovso/BWBR0003549/README.md).    
+e.  *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 van de WEC](../../../../../../../wet/isovso/BWBR0003549/README.md).   
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Dit besluit is van toepassing op de gegevens van leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de [WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) respectievelijk de [WEC](../../../../../../../wet/isovso/BWBR0003549/README.md).  
+Dit besluit is van toepassing op de gegevens van leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de [WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) respectievelijk de [WEC](../../../../../../../wet/isovso/BWBR0003549/README.md). 
 
 ### §  2  
 
@@ -94,7 +94,7 @@ b. indien het betreft een school als bedoeld in de [WEC](../../../../../../../we
 
 10°. de bekostigingsindicatie; en  
 
-11°. het registratienummer van de school, of indien sprake is van een nevenvestiging, het registratienummer daarvan.      
+11°. het registratienummer van de school, of indien sprake is van een nevenvestiging, het registratienummer daarvan.     
 
 ### Artikel  4  
 
@@ -106,35 +106,35 @@ b. indien het betreft een school als bedoeld in de [WEC](../../../../../../../we
 a. de gegevens van een leerling of voormalige leerling van wie het bevoegd gezag op grond van [artikel 178a, vierde lid, van de WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) respectievelijk [artikel 164a, vierde lid, van de WEC](../../../../../../../wet/isovso/BWBR0003549/README.md) het persoonsgebonden nummer aan Onze Minister heeft verstrekt ten behoeve van de vaststelling van de bekostiging van de school, en  
 
 b. de gegevens van een leerling of voormalige leerling, voorzover Onze Minister dit noodzakelijk acht ten behoeve van een onderzoek als bedoeld in [artikel 178b, derde lid, van de WPO](../../../../../../../wet/wbo/BWBR0003420/README.md) respectievelijk [artikel 164b, derde lid, van de WEC](../../../../../../../wet/wbo/BWBR0003420/README.md).     
-3.  De gegevens, bedoeld in artikel 3, worden door Onze Minister na gebruik uitsluitend verder verwerkt, voor zover dit noodzakelijk is voor de vaststelling van de bekostiging van de school waaraan de desbetreffende leerling is ingeschreven of ingeschreven is geweest, daaronder begrepen de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften, en de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. De gegevens worden door Onze Minister vernietigd zodra zij voor de vaststelling van de bekostiging van de betrokken school niet langer noodzakelijk zijn.   
+3.  De gegevens, bedoeld in artikel 3, worden door Onze Minister na gebruik uitsluitend verder verwerkt, voor zover dit noodzakelijk is voor de vaststelling van de bekostiging van de school waaraan de desbetreffende leerling is ingeschreven of ingeschreven is geweest, daaronder begrepen de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften, en de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. De gegevens worden door Onze Minister vernietigd zodra zij voor de vaststelling van de bekostiging van de betrokken school niet langer noodzakelijk zijn.  
 
 ### §  3  
 
-####Wijziging van het [Besluit bekostiging WPO](../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), het [Besluit bekostiging WEC](../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), het [Bekostigingsbesluit W.V.O.](../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) en het [Besluit leerlinggebonden financiering](../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md)
+####Wijziging van het [Besluit bekostiging WPO](../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), het [Besluit bekostiging WEC](../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), het [Bekostigingsbesluit W.V.O.](../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) en het [Besluit leerlinggebonden financiering](../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md)
 
 ### Artikel  5  
 
-####Wijziging [Besluit bekostiging WPO](../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md)
+####Wijziging [Besluit bekostiging WPO](../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)
 
-Wijzigt het Besluit bekostiging WPO.   
+Wijzigt het Besluit bekostiging WPO.
 
 ### Artikel  6  
 
 ####Wijziging [Besluit bekostiging WEC](../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md)
 
-Wijzigt het Besluit bekostiging WEC.   
+Wijzigt het Besluit bekostiging WEC.
 
 ### Artikel  7  
 
 ####Wijziging [Bekostigingsbesluit W.V.O.](../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md)
 
-Wijzigt het Bekostigingsbesluit W.V.O.   
+Wijzigt het Bekostigingsbesluit W.V.O.
 
 ### Artikel  8  
 
 ####Wijziging [Besluit leerlinggebonden financiering](../../../../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md)
 
-Wijzigt het Besluit leerlinggebonden financiering.   
+Wijzigt het Besluit leerlinggebonden financiering.
 
 ### §  4  
 
@@ -144,13 +144,13 @@ Wijzigt het Besluit leerlinggebonden financiering.
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een bij dat besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een bij dat besluit te bepalen tijdstip. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit gebruik persoonsgebonden nummers WPO/WEC.  
+Dit besluit wordt aangehaald als: Besluit gebruik persoonsgebonden nummers WPO/WEC. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -158,16 +158,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 4 mei 2010  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-A.Rouvoet 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+A. Rouvoet   
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J. M. vanBijsterveldt-Vliegenthart 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+G. Verburg   
 
 de *achtentwintigste* mei 2010 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
