@@ -38,14 +38,14 @@ h. categorie K2: een product met een vlampunt dat, bepaald met het toestel van A
 
 i. categorie K3: een product met een vlampunt dat, bepaald met het toestel van Pensky-Martens, bij een druk van 100 kPa hoger is dan 55°C en lager is dan 100°C;  
 
-j. maatgevende stof of maatgevende categorie van stoffen: gevaarlijke stof of categorie van gevaarlijke stoffen die door zijn gevaarseigenschappen in combinatie met de hoeveelheid die van die stof of van die categorie in een inrichting aanwezig mag zijn, meer dan alle andere voor die inrichting vergunde gevaarlijke stoffen bepalend is voor de ligging van de 10 <sup>-6</sup> per jaar contour voor het plaatsgebonden risico van die inrichting;  
+j. maatgevende stof of maatgevende categorie van stoffen: gevaarlijke stof of categorie van gevaarlijke stoffen die door zijn gevaarseigenschappen in combinatie met de hoeveelheid die van die stof of van die categorie in een inrichting aanwezig mag zijn, meer dan alle andere voor die inrichting vergunde gevaarlijke stoffen bepalend is voor de ligging van de 10<sup>-6</sup> per jaar contour voor het plaatsgebonden risico van die inrichting;  
 
 k. register: register als bedoeld in [artikel 12.12 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 l. bijlage A van het ADR: de door Onze Minister ingevolge [artikel 5.4.1 van het Vuurwerkbesluit](../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) aangewezen of bekendgemaakte vertaling van bijlage A bij de op 30 september 1957 te Genève tot stand gekomen Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (Trb. 1959, 171);  
 
 m. wet: [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
-2.  Voor de berekening van het groepsrisico en het plaatsgebonden risico van inrichtingen en spoorwegemplacementen als bedoeld in [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) alsmede voor de wijze van toepassing van de afstanden waarbij wordt voldaan aan het plaatsgebonden risico, indien deze afstanden door Onze Minister zijn voorgeschreven op grond van het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de daarvoor krachtens het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) vastgestelde regels van overeenkomstige toepassing.   
+2.  Voor de berekening van het groepsrisico en het plaatsgebonden risico van inrichtingen en spoorwegemplacementen als bedoeld in [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) alsmede voor de wijze van toepassing van de afstanden waarbij wordt voldaan aan het plaatsgebonden risico, indien deze afstanden door Onze Minister zijn voorgeschreven op grond van het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), zijn de daarvoor krachtens het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) vastgestelde regels van overeenkomstige toepassing.  
 
 ### Artikel  2  
 
@@ -57,7 +57,7 @@ b. distikstofoxide;
 
 c. bestrijdingsmiddelen;  
 
-d. gevaarlijke afvalstoffen.    
+d. gevaarlijke afvalstoffen.   
 
 ### Paragraaf  2  
 
@@ -73,7 +73,7 @@ b. inrichtingen bestemd voor de opslag in verband met het vervoer van gevaarlijk
 
 c. door Onze Minister krachtens [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) aangewezen spoorwegemplacementen die gebruikt worden voor het rangeren van wagons met gevaarlijke stoffen;  
 
-d. andere door Onze Minister krachtens [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen a tot en met c, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10 <sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens [artikel 8.40 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+d. andere door Onze Minister krachtens [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen a tot en met c, waarvan het plaatsgebonden risico, berekend volgens bij die regeling gestelde regels, hoger is of kan zijn dan 10<sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens [artikel 8.40 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 e. LPG-tankstations als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit LPG-tankstations milieubeheer](../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md);  
 
@@ -85,7 +85,7 @@ f. inrichtingen waar verpakte gevaarlijke afvalstoffen, of verpakte gevaarlijke 
 
 g. inrichtingen waarin een koel- of vriesinstallatie aanwezig is met een hoeveelheid van meer dan 1500 kg ammoniak, niet zijnde een inrichting als bedoeld in onderdeel a, d of h;  
 
-h. andere door Onze Minister krachtens [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen e tot en met g, en artikel 4, waarvan het plaatsgebonden risico, berekend volgens bij [die regeling](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) gestelde regels, hoger is of kan zijn dan 10 <sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens [artikel 8.40 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
+h. andere door Onze Minister krachtens [artikel 2 van het Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) aangewezen categorieën van inrichtingen dan de inrichtingen, bedoeld in de onderdelen e tot en met g, en artikel 4, waarvan het plaatsgebonden risico, berekend volgens bij [die regeling](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) gestelde regels, hoger is of kan zijn dan 10<sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens [artikel 8.40 van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 
 ### Artikel  4  
 
@@ -93,7 +93,7 @@ Als inrichtingen als bedoeld in [artikel 12.12, tweede lid, van de wet](../../..
 
 a. inrichtingen waarop [artikel 15, onderdeel b, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) van toepassing is;  
 
-b. inrichtingen, met uitzondering van in de territoriale zee gelegen inrichtingen, die krachtens [artikel 1 van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) zijn aangewezen als mijnbouwwerken en waarvan het plaatsgebonden risico hoger is dan 10 <sup>-6</sup> per jaar;  
+b. inrichtingen, met uitzondering van in de territoriale zee gelegen inrichtingen, die krachtens [artikel 1 van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) zijn aangewezen als mijnbouwwerken en waarvan het plaatsgebonden risico hoger is dan 10<sup>-6</sup> per jaar;  
 
 c. inrichtingen waar meer dan 10.000 kg consumentenvuurwerk in de zin van het [Vuurwerkbesluit](../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) wordt opgeslagen al dan niet in combinatie met het bewerken daarvan in de zin van het [Vuurwerkbesluit](../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md);  
 
@@ -103,11 +103,11 @@ e. inrichtingen als bedoeld in categorie 3.1 van [bijlage I, onder C, bij het Be
 
 f. inrichtingen waar meer dan 1000 kg distikstofoxide aanwezig is, niet zijnde inrichtingen die behoren tot een categorie als aangewezen onder 23.1 van [bijlage I, onder C, bij het Besluit omgevingrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
 
-g. inrichtingen die worden gebruikt door de Nederlandse krijgsmacht of door een bondgenootschappelijke mogendheid voor zover buiten die inrichtingen ruimtelijke beperkingen gelden in verband met die inrichtingen.    
+g. inrichtingen die worden gebruikt door de Nederlandse krijgsmacht of door een bondgenootschappelijke mogendheid voor zover buiten die inrichtingen ruimtelijke beperkingen gelden in verband met die inrichtingen.   
 
 ### Artikel  5  
 
-Als transportroutes als bedoeld in [artikel 12.12, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen transportroutes waarvan het plaatsgebonden risico voor wegen en spoorlijnen op de as van de transportroute, of voor vaarwegen op de oever, hoger is dan 10 <sup>-6</sup> per jaar.  
+Als transportroutes als bedoeld in [artikel 12.12, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden aangewezen transportroutes waarvan het plaatsgebonden risico voor wegen en spoorlijnen op de as van de transportroute, of voor vaarwegen op de oever, hoger is dan 10<sup>-6</sup> per jaar. 
 
 ### Artikel  6  
 
@@ -117,13 +117,13 @@ a. aardgasleidingen met een uitwendige diameter van meer dan 50 mm en een druk v
 
 b. buisleidingen voor het vervoer van brandbare vloeistoffen van de categorieën K1, K2 of K3, met een uitwendige diameter van meer dan 100 mm;  
 
-c. buisleidingen voor andere gevaarlijke stoffen dan bedoeld onder a en b, waarvoor het plaatsgebonden risico op een afstand van 5 m gemeten vanaf het hart van de buisleiding hoger is dan 10 <sup>-6</sup> per jaar.     
-2.  Onze Minister is bevoegd gezag voor andere buisleidingen dan bedoeld in [artikel 12.11, eerste lid, onderdeel a, onder 8°, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+c. buisleidingen voor andere gevaarlijke stoffen dan bedoeld onder a en b, waarvoor het plaatsgebonden risico op een afstand van 5 m gemeten vanaf het hart van de buisleiding hoger is dan 10<sup>-6</sup> per jaar.     
+2.  Onze Minister is bevoegd gezag voor andere buisleidingen dan bedoeld in [artikel 12.11, eerste lid, onderdeel a, onder 8°, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
 
 ### Artikel  7  
 
-1.  Onverminderd de artikelen 3 tot en met 6, eerste lid, kunnen door het bevoegd gezag inrichtingen, transportroutes en buisleidingen worden gemeld aan het RIVM voor opneming in het register indien het groepsrisico hoger is dan 10 <sup>-5</sup> per jaar voor 10 slachtoffers, 10 <sup>-7</sup> per jaar voor 100 slachtoffers of 10 <sup>-9</sup> per jaar voor 1000 slachtoffers.   
-2.  Bij ministeriële regeling kunnen in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat regels worden gesteld omtrent de wijze waarop de contouren van de in het eerste lid bedoelde inrichtingen, buisleidingen en transportroutes worden vastgesteld, met dien verstande dat voor zover het inrichtingen betreft waarop de [Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) van toepassing is, deze regels worden gesteld in overeenstemming met Onze Minister van Economische Zaken.   
+1.  Onverminderd de artikelen 3 tot en met 6, eerste lid, kunnen door het bevoegd gezag inrichtingen, transportroutes en buisleidingen worden gemeld aan het RIVM voor opneming in het register indien het groepsrisico hoger is dan 10<sup>-5</sup> per jaar voor 10 slachtoffers, 10<sup>-7</sup> per jaar voor 100 slachtoffers of 10<sup>-9</sup> per jaar voor 1000 slachtoffers.   
+2.  Bij ministeriële regeling kunnen in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat regels worden gesteld omtrent de wijze waarop de contouren van de in het eerste lid bedoelde inrichtingen, buisleidingen en transportroutes worden vastgesteld, met dien verstande dat voor zover het inrichtingen betreft waarop de [Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) van toepassing is, deze regels worden gesteld in overeenstemming met Onze Minister van Economische Zaken.  
 
 ### Paragraaf  3  
 
@@ -137,9 +137,9 @@ a. de geografische situering van de inrichtingen, transportroutes en buisleiding
 
 b. een aanduiding van het bevoegd gezag;  
 
-c. de ligging van de 10 <sup>-6</sup> per jaar contour van het plaatsgebonden risico en, indien beschikbaar, de 10 <sup>-5</sup> per jaar contour en de 10 <sup>-8</sup> per jaar contour van het plaatsgebonden risico, dan wel de afstanden die overeenkomen met deze waarden voor het plaatsgebonden risico indien deze afstanden door Onze Minister zijn voorgeschreven alsmede de veiligheidsafstanden die gelden voor inrichtingen als bedoeld in artikel 4, onderdelen c en g, en  
+c. de ligging van de 10<sup>-6</sup> per jaar contour van het plaatsgebonden risico en, indien beschikbaar, de 10<sup>-5</sup> per jaar contour en de 10<sup>-8</sup> per jaar contour van het plaatsgebonden risico, dan wel de afstanden die overeenkomen met deze waarden voor het plaatsgebonden risico indien deze afstanden door Onze Minister zijn voorgeschreven alsmede de veiligheidsafstanden die gelden voor inrichtingen als bedoeld in artikel 4, onderdelen c en g, en  
 
-d. de datum waarop de betreffende gegevens in het register laatstelijk zijn gewijzigd.    
+d. de datum waarop de betreffende gegevens in het register laatstelijk zijn gewijzigd.   
 
 ### Artikel  9  
 
@@ -156,13 +156,13 @@ d. de aard van het risico;
 e. de chemische naam en het CAS-nummer en voor zover bekend het UN-nummer van de voor het risico maatgevende stof of de naam van de voor het risico maatgevende categorie van stoffen en  
 
 f. indien beschikbaar het groepsrisico uitgedrukt in een grafiek met op de horizontale as het aantal dodelijke slachtoffers en op de verticale as de cumulatieve kansen per jaar op ten minste dat aantal slachtoffers of de gemiddelde bevolkingsdichtheid binnen het invloedsgebied rondom de desbetreffende inrichting.     
-2.  Ten aanzien van inrichtingen als bedoeld in artikel 4, onderdeel g, bevat het register de ligging van de zones waar beperkingen gelden voor de bebouwing of de aanwezigheid van personen.   
+2.  Ten aanzien van inrichtingen als bedoeld in artikel 4, onderdeel g, bevat het register de ligging van de zones waar beperkingen gelden voor de bebouwing of de aanwezigheid van personen.  
 
 ### Artikel  10  
 
 1.  Het register bevat voor LPG-tankstations als bedoeld in artikel 3, onderdeel e, tevens de plaats van de LPG-opslagtanks, de LPG-vulpunten en de LPG-afleverzuilen, uitgedrukt in coördinaten volgens het stelsel van de rijksdriehoeksmeting, bedoeld in [artikel 52 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md).   
 2.  Voor inrichtingen met zowel een voor het toxisch risico maatgevende stof als voor het risico van brand of explosie maatgevende stof bevat het register de in artikel 9, eerste lid, onderdelen d en e, bedoelde gegevens ten aanzien van beide maatgevende stoffen.   
-3.  Bij de berekening van de in de in artikel 8, onderdeel c, bedoelde gegevens wordt uitgegaan van de in de vergunning genoemde maximale hoeveelheid maatgevende stof of maatgevende categorie van stoffen, zonodig gecorrigeerd voor strikt voorzienbare, incidentele wijzigingen in deze hoeveelheid over het jaar. Bij ministeriële regeling kunnen regels gesteld worden over de wijze waarop de maximale hoeveelheid maatgevende stof of maatgevende categorie van stoffen wordt vastgesteld.   
+3.  Bij de berekening van de in de in artikel 8, onderdeel c, bedoelde gegevens wordt uitgegaan van de in de vergunning genoemde maximale hoeveelheid maatgevende stof of maatgevende categorie van stoffen, zonodig gecorrigeerd voor strikt voorzienbare, incidentele wijzigingen in deze hoeveelheid over het jaar. Bij ministeriële regeling kunnen regels gesteld worden over de wijze waarop de maximale hoeveelheid maatgevende stof of maatgevende categorie van stoffen wordt vastgesteld.  
 
 ### Artikel  11  
 
@@ -181,7 +181,7 @@ e. de maximale werkdruk uitgedrukt in kiloPascal;
 f. de wanddikte van de buis in millimeters en  
 
 g. de ligging van de bovenkant van de buisleiding ten opzichte van het maaiveld, in centimeters.     
-2.  Artikel 9, eerste lid, onderdelen d en e, is van overeenkomstige toepassing op buisleidingen aangewezen ingevolge de artikelen 6 en 7.   
+2.  Artikel 9, eerste lid, onderdelen d en e, is van overeenkomstige toepassing op buisleidingen aangewezen ingevolge de artikelen 6 en 7.  
 
 ### Artikel  12  
 
@@ -189,15 +189,15 @@ Onverminderd artikel 8 bevat het register ten aanzien van transportroutes aangew
 
 a. indien beschikbaar het groepsrisico van de transportroutes, uitgedrukt in een grafiek met op de horizontale as het aantal dodelijke slachtoffers per kilometer lengte van de transportroute en op de verticale as de cumulatieve kansen per jaar op ten minste dat aantal slachtoffers;  
 
-b. de eventuele naam of aanduiding waaronder de transportroutes bekend zijn.    
+b. de eventuele naam of aanduiding waaronder de transportroutes bekend zijn.   
 
 ### Artikel  13  
 
-Onverminderd de artikelen 8 en 10, eerste lid, bevat het register een overzicht op een kaart waaruit de geografische ligging van de inrichtingen, transportroutes en buisleidingen waarover in het register gegevens zijn opgenomen blijkt. Op de kaart worden opgenomen de ligging van de 10 <sup>-6</sup> per jaar contour van het plaatsgebonden risico, en indien beschikbaar, de 10 <sup>-5</sup> per jaar contour en de 10 <sup>-8</sup> per jaar contour van het plaatsgebonden risico als bedoeld in artikel 8, onderdeel c, alsmede de afstanden die gelden voor inrichtingen als bedoeld in artikel 4, onderdelen c en g.  
+Onverminderd de artikelen 8 en 10, eerste lid, bevat het register een overzicht op een kaart waaruit de geografische ligging van de inrichtingen, transportroutes en buisleidingen waarover in het register gegevens zijn opgenomen blijkt. Op de kaart worden opgenomen de ligging van de 10<sup>-6</sup> per jaar contour van het plaatsgebonden risico, en indien beschikbaar, de 10<sup>-5</sup> per jaar contour en de 10<sup>-8</sup> per jaar contour van het plaatsgebonden risico als bedoeld in artikel 8, onderdeel c, alsmede de afstanden die gelden voor inrichtingen als bedoeld in artikel 4, onderdelen c en g. 
 
 ### Artikel  14  
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die het register bevat en de verdere inrichting en vorm van het register.  
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die het register bevat en de verdere inrichting en vorm van het register. 
 
 ### Paragraaf  4  
 
@@ -217,14 +217,14 @@ c. een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State of ee
 a. op basis van vooraf geraamde gegevens binnen twee weken na ingebruikname van de nieuw aangelegde of gewijzigdetransportroute of buisleiding en  
 
 b. op basis van tijdens het gebruik van de transportroute of buisleiding verzamelde gegevens binnen zes maanden na ingebruikname van de nieuw aangelegde of gewijzigde transportroute of buisleiding.     
-3.  Onverminderd het bepaalde in het eerste en tweede lid, draagt het bevoegd gezag ervoor zorg dat de gegevens in het register ten minste eens per vijf jaar worden geactualiseerd.   
+3.  Onverminderd het bepaalde in het eerste en tweede lid, draagt het bevoegd gezag ervoor zorg dat de gegevens in het register ten minste eens per vijf jaar worden geactualiseerd.  
 
 ### Artikel  16  
 
 1.  In afwijking van artikel 15, eerste lid, vindt verstrekking aan het RIVM van gegevens als bedoeld in de artikelen 8 tot en met 10 voor inrichtingen ten aanzien waarvan ten tijde van het in werking treden van dit besluit reeds een besluit als bedoeld in artikel 15, eerste lid, onderdelen a of c, in werking is getreden, een melding als bedoeld in artikel 15, eerste lid, onderdeel b, is ontvangen of een uitspraak als bedoeld in artikel 15 eerste lid, onderdeel d, is gedaan, plaats binnen twaalf maanden na het in werking treden van dit besluit voor zover de gegevens ingevolge een wettelijk voorschrift beschikbaar zijn of behoren te zijn.   
 2.  In afwijking van artikel 15, eerste lid, vindt verstrekking aan het RIVM van gegevens als bedoeld in artikel 8 tot en met 10 voor inrichtingen als bedoeld in artikel 3, onderdelen a, b, e en g, en artikel 4, onderdelen a, c en f, indien voor die inrichtingen ten tijde van het inwerkingtreden van dit besluit de gegevens als bedoeld in artikel 8 niet ingevolge een wettelijk voorschrift beschikbaar zijn of behoren te zijn, plaats binnen twaalf maanden na het in werking treden van dit besluit.   
 3.  In afwijking van artikel 15, eerste lid, vindt verstrekking aan het RIVM van gegevens als bedoeld in artikel 8, voor inrichtingen als bedoeld in artikel 3, onderdeel f, en artikel 4, onderdelen b, d en e, indien voor die inrichtingen ten tijde van het in werking treden van dit besluit de gegevens als bedoeld in artikel 8 niet ingevolge een wettelijk voorschrift beschikbaar zijn of behoren te zijn, plaats binnen twaalf maanden na het in werking treden van dit besluit.   
-4.  In afwijking van artikel 15, tweede lid, vindt verstrekking aan het RIVM van gegevens als bedoeld in artikel 8 met betrekking tot transportroutes als bedoeld in artikel 5 en buisleidingen als bedoeld in artikel 6 die voor het in werking treden van dit besluit zijn aangelegd, plaats binnen twaalf maanden na het in werking treden van dit besluit.   
+4.  In afwijking van artikel 15, tweede lid, vindt verstrekking aan het RIVM van gegevens als bedoeld in artikel 8 met betrekking tot transportroutes als bedoeld in artikel 5 en buisleidingen als bedoeld in artikel 6 die voor het in werking treden van dit besluit zijn aangelegd, plaats binnen twaalf maanden na het in werking treden van dit besluit.  
 
 ### Paragraaf  5  
 
@@ -232,19 +232,19 @@ b. op basis van tijdens het gebruik van de transportroute of buisleiding verzame
 
 ### Artikel  17  
 
-Onze Minister kan gegevens als bedoeld in de artikelen 8 tot en met 12 aanwijzen die uitsluitend zijn in te zien bij het bevoegd gezag. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze waarop toegang kan worden verkregen tot de aangewezen gegevens.  
+Onze Minister kan gegevens als bedoeld in de artikelen 8 tot en met 12 aanwijzen die uitsluitend zijn in te zien bij het bevoegd gezag. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze waarop toegang kan worden verkregen tot de aangewezen gegevens. 
 
 ### Artikel  18  
 
-Voor het vervaardigen van afschriften van in het register opgenomen gegevens wordt een vergoeding in rekening gebracht die wordt berekend volgens de normen van het [Besluit tarieven openbaarheid van bestuur](../../../../../AMvB/besluit/tarieven/openbaarheid/van/bestuur/BWBR0005869/README.md).  
+Voor het vervaardigen van afschriften van in het register opgenomen gegevens wordt een vergoeding in rekening gebracht die wordt berekend volgens de normen van het [Besluit tarieven openbaarheid van bestuur](../../../../../AMvB/besluit/tarieven/openbaarheid/van/bestuur/BWBR0005869/README.md). 
 
 ### Artikel  19  
 
-Wijzigt het Besluit externe veiligheid inrichtingen.   
+Wijzigt het Besluit externe veiligheid inrichtingen. 
 
 ### Artikel  20  
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer. 
 
 ### Paragraaf  6  
 
@@ -252,11 +252,11 @@ Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
 ### Artikel  21  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  22  
 
-Dit besluit wordt aangehaald als: Registratiebesluit externe veiligheid.  
+Dit besluit wordt aangehaald als: Registratiebesluit externe veiligheid. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -264,7 +264,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 november 2006  
 Beatrix  
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,  
 P. L. B. A. van Geel   
 
 de *negentiende* december 2006 

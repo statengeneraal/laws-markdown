@@ -12,7 +12,7 @@ Aan de algemeen directeur van Agentschap NL wordt mandaat verleend tot:
 
 a. het nemen van besluiten met betrekking tot de uitvoering van de in bijlage 1 genoemde wetten, besluiten, regelingen en beschikkingen;  
 
-b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.    
+b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.   
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ Aan de algemeen directeur van Agentschap NL wordt:
 
 a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in artikel 1;  
 
-b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in artikel 1.    
+b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in artikel 1.   
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ Aan de algemeen directeur van Agentschap NL wordt mandaat verleend tot:
 
 a. het nemen van besluiten met betrekking tot de uitvoering van de in bijlage 2 genoemde wetten, besluiten en regelingen met dien verstande dat besluiten tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen, Wijken en Integratie worden genomen;  
 
-b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen en met dien verstande dat besluiten op bezwaar met betrekking tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen, Wijken en Integratie worden genomen.    
+b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen en met dien verstande dat besluiten op bezwaar met betrekking tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen, Wijken en Integratie worden genomen.   
 
 ### Artikel  4  
 
@@ -36,31 +36,31 @@ Aan de algemeen directeur van Agentschap NL wordt:
 
 a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de in artikel 3 bedoelde besluiten;  
 
-b. machtiging verleend tot het voeren van beroepsprocedures over besluiten genomen ter uitvoering van de in artikel 3 genoemde besluiten en regelingen, alsmede over de in dat kader genomen beslissingen op bezwaar; in beide gevallen slechts nadat voorafgaande toestemming van de Minister voor Wonen, Wijken en Integratie is verkregen.    
+b. machtiging verleend tot het voeren van beroepsprocedures over besluiten genomen ter uitvoering van de in artikel 3 genoemde besluiten en regelingen, alsmede over de in dat kader genomen beslissingen op bezwaar; in beide gevallen slechts nadat voorafgaande toestemming van de Minister voor Wonen, Wijken en Integratie is verkregen.   
 
 ### Artikel  5  
 
-De algemeen directeur van Agentschap NL kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 tot en met 4 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.  
+De algemeen directeur van Agentschap NL kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 tot en met 4 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  6  
 
-Indien uitvoering wordt gegeven aan de artikelen 1 tot en met 4 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: De algemeen directeur van Agentschap NL (gevolgd door handtekening en naam)  
+Indien uitvoering wordt gegeven aan de artikelen 1 tot en met 4 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: De algemeen directeur van Agentschap NL (gevolgd door handtekening en naam) 
 
 ### Artikel  7  
 
-Indien uitvoering wordt gegeven aan artikel 5 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van Agentschap NL, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend)  
+Indien uitvoering wordt gegeven aan artikel 5 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van Agentschap NL, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend) 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie.  
+Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie. 
 
 ### Artikel  10  
 
-Het [Mandaatbesluit Agentschap NL Regelingen Wonen](../../../../../../../../../ministeriele-regeling/mandaatbesluit/senternovem/regelingen/wonen/BWBR0018737/README.md) wordt ingetrokken.  
+Het [Mandaatbesluit Agentschap NL Regelingen Wonen](../../../../../../../../../ministeriele-regeling/mandaatbesluit/senternovem/regelingen/wonen/BWBR0018737/README.md) wordt ingetrokken. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -68,7 +68,7 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar  
+C.P. Vogelaar    
 
 ### Bijlage  1  
 
@@ -132,21 +132,23 @@ C.P.Vogelaar
 
 – [Besluit prestatienormering huursubsidie](../../../../../../../../../AMvB/besluit/prestatienormering/huursubsidie/BWBR0008764/README.md);  
 
-– [Regeling verplichte afkoop hoogniveaurenovatie 2007](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/hoogniveaurenovatie/2007/BWBR0022733/README.md);  
+– [Regeling verplichte afkoop hoogniveaurenovatie 2007](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/hoogniveaurenovatie/2007/BWBR0022733/README.md); 
 
-– [Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/voorzieningen/particuliere/huurwoningen/2007/BWBR0022737/README.md);  
+– [Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/voorzieningen/particuliere/huurwoningen/2007/BWBR0022737/README.md); 
 
-– Regeling verplichte afkoop woninggebonden subsidies;  
+–Regeling verplichte afkoop woninggebonden subsidies; 
 
-– [Regeling verplichte afkoop regelingen geldelijke steun huisvesting gehandicapten 2008](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/regelingen/geldelijke/steun/huisvesting/etc/BWBR0024569/README.md);  
+–[Regeling verplichte afkoop regelingen geldelijke steun huisvesting gehandicapten 2008](../../../../../../../../../ministeriele-regeling/regeling/verplichte/afkoop/regelingen/geldelijke/steun/huisvesting/etc/BWBR0024569/README.md);
 
-– [Tijdelijke subsidieregeling maatwerkadviezen voor woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/maatwerkadviezen/voor/woningen/BWBR0025997/README.md);  
+–[Tijdelijke subsidieregeling maatwerkadviezen voor woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/maatwerkadviezen/voor/woningen/BWBR0025997/README.md);
 
-– [Tijdelijke Subsidieregeling Isolatieglas](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/isolatieglas/BWBR0026447/README.md) (TSI);  
+–[Tijdelijke Subsidieregeling Isolatieglas](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/isolatieglas/BWBR0026447/README.md) (TSI);
 
-– [Tijdelijke stimuleringsregeling energiebesparende voorzieningen aan woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/energiebesparende/voorzieningen/aan/etc/BWBR0027927/README.md);  
+–[Tijdelijke stimuleringsregeling energiebesparende voorzieningen aan woningen](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/energiebesparende/voorzieningen/aan/etc/BWBR0027927/README.md);
 
-– [Tijdelijke regeling blok voor blok](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/blok/voor/blok/BWBR0030094/README.md).   
+–  [Tijdelijke regeling blok voor blok](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/blok/voor/blok/BWBR0030094/README.md);
+
+– [Regeling energieprestatie gebouwen, § 3. Keuring airconditioningsystemen](../../../../../../../../../ministeriele-regeling/regeling/energieprestatie/gebouwen/BWBR0020921/README.md).  
 
 ### Bijlage  2  
 
@@ -180,7 +182,7 @@ C.P.Vogelaar
 
 – [Besluit locatiegebonden subsidies 2005](../../../../../../../../../AMvB/besluit/locatiegebonden/subsidies/2005/BWBR0018822/README.md);  
 
-– [Tijdelijke subsidieregeling CO <sub>2</sub> -reductie gebouwde omgeving 2006](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/co2-reductie/gebouwde/omgeving/2006/BWBR0020099/README.md);  
+– [Tijdelijke subsidieregeling CO<sub>2</sub>-reductie gebouwde omgeving 2006](../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/co2-reductie/gebouwde/omgeving/2006/BWBR0020099/README.md);  
 
 – [Wet stedelijke vernieuwing](../../../../../../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md);  
 
@@ -200,8 +202,8 @@ C.P.Vogelaar
 
 – [Regeling inburgering allochtone vrouwen G31](../../../../../../../../../ministeriele-regeling/regeling/inburgering/allochtone/vrouwen/g31/BWBR0020127/README.md);  
 
-– [Tijdelijke stimuleringsregeling Woningbouwprojecten 2009](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/BWBR0025987/README.md);  
+–[Tijdelijke stimuleringsregeling Woningbouwprojecten 2009](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/BWBR0025987/README.md);
 
-– [Tijdelijke stimuleringsregeling woningbouwprojecten 2009 tweede tranche](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/tweede/tranche/BWBR0026496/README.md);  
+–[Tijdelijke stimuleringsregeling woningbouwprojecten 2009 tweede tranche](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/tweede/tranche/BWBR0026496/README.md);
 
-– [Tijdelijke stimuleringsregeling woningbouwprojecten 2009 derde tranche](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/derde/tranche/BWBR0027492/README.md).   
+–[Tijdelijke stimuleringsregeling woningbouwprojecten 2009 derde tranche](../../../../../../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/woningbouwprojecten/2009/derde/tranche/BWBR0027492/README.md). 

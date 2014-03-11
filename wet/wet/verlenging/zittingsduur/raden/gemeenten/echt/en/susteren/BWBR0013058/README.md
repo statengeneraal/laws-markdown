@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  De verkiezing van de leden van de raden van de gemeenten Echt en Susteren, waarvoor de kandidaatstelling op 22 januari 2002 zou plaatsvinden, blijft achterwege.   
-2.  De zittingsduur van de op 4 maart 1998 gekozen leden van deze raden van de gemeenten Echt en Susteren wordt verlengd tot 1 januari 2003.   
+2.  De zittingsduur van de op 4 maart 1998 gekozen leden van deze raden van de gemeenten Echt en Susteren wordt verlengd tot 1 januari 2003.  
 
 ### Artikel  2  
 
@@ -26,11 +26,11 @@ b. verzoeken tot registratie van aanduidingen van politieke groeperingen voor de
 c. de beslissing van het centraal stembureau, bedoeld in [artikel G 4, tweede lid, van de Kieswet](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md), vindt uiterlijk plaats op 8 oktober 2002;  
 
 d. de beslissing betreffende de toelating van de gekozen leden van de gemeenteraad vindt plaats uiterlijk op 20 december 2002.     
-3.  De ingevolge het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 6 maart 2002 hebben plaatsgevonden.   
+3.   De ingevolge het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 6 maart 2002 hebben plaatsgevonden.  
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -29,7 +29,7 @@ Besluit:
 
 * ’tweede examinator’: de door de directeur aangewezen medebeoordelaar van een examentoets;  
 
-* ’Examenbesluit’ : het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), dan wel het Staatsexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o. 2000.     
+* ’Examenbesluit’ : het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), dan wel het Staatsexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o. 2000.    
 
 ### Artikel  2  
 
@@ -46,7 +46,7 @@ c. vakspecifieke regels, op grond van een besluit van het College voor Examens o
 d. een beoordelingsmodel bij iedere toets.     
 2.  Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de Bijlagen 1 en 3. In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de Bijlagen 2 en 3.   
 3.  De directeur stelt na de afname van een toets het correctievoorschrift aan de examinator ter beschikking.   
-4.  In uitzonderingsgevallen kan het College voor Examens beslissen, dat bij een toets geen beoordelingsmodel wordt gevoegd.   
+4.  In uitzonderingsgevallen kan het College voor Examens beslissen, dat bij een toets geen beoordelingsmodel wordt gevoegd.  
 
 ### Artikel  3  
 
@@ -67,7 +67,7 @@ e. Indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes 
 
 f. Indien in een opdracht een fout is gemaakt die de verdere uitwerking van de opdracht beïnvloedt, mag alleen die fout en niet de invloed van die fout op de verdere uitwerking worden aangerekend, tenzij daardoor de opdracht aanzienlijk vereenvoudigd wordt of tenzij in het beoordelingsmodel anders is vermeld.  
 
-g. Een zelfde fout in de uitvoering van verschillende opdrachten moet steeds opnieuw worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.     
+g. Een zelfde fout in de uitvoering van verschillende opdrachten moet steeds opnieuw worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.    
 
 ### Artikel  4  
 
@@ -76,20 +76,20 @@ g. Een zelfde fout in de uitvoering van verschillende opdrachten moet steeds opn
 1.  Indien een voorbeeld, reden, uitwerking, citaat of andersoortig antwoord gevraagd wordt, wordt uitsluitend het eerst gegeven antwoord beoordeeld.   
 2.  Indien meer dan een voorbeeld, reden, uitwerking, citaat of andersoortig antwoord gevraagd wordt, worden uitsluitend de eerst gegeven antwoorden beoordeeld, tot maximaal het gevraagde aantal.   
 3.  Indien in een antwoord een gevraagde verklaring of uitleg of afleiding of berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij in het beoordelingsmodel anders is aangegeven.   
-4.  Het juiste antwoord op een meerkeuze vraag is de hoofdletter waarmee de juiste keuzemogelijkheid bij de vraag is aangeduid. Voor het juiste antwoord wordt 1 scorepunt toegekend, tenzij in het beoordelingsmodel een ander aantal punten is aangegeven, voor ieder ander antwoord 0 scorepunten.   
+4.  Het juiste antwoord op een meerkeuze vraag is de hoofdletter waarmee de juiste keuzemogelijkheid bij de vraag is aangeduid. Voor het juiste antwoord wordt 1 scorepunt toegekend, tenzij in het beoordelingsmodel een ander aantal punten is aangegeven, voor ieder ander antwoord 0 scorepunten.  
 
 ### Artikel  5  
 
 ####Algemene regels specifiek voor de beoordeling van cspe en cpe
 
 1.  Mocht tijdens het examen een hulpmiddel niet werken en dit is niet te wijten aan het verkeerd gebruik door de kandidaat dan mag dat geen invloed hebben op de beoordeling van de kandidaat. De kandidaat mag daar in tijd en scorepunten niet door benadeeld worden.   
-2.  Indien een kandidaat binnen de gestelde tijd een (deel)opdracht opnieuw wil uitvoeren om de prestatie te verbeteren, wordt de kandidaat daartoe in de gelegenheid gesteld. Voor zover van toepassing stelt de examinator de daarvoor benodigde materialen ter beschikking.   
+2.  Indien een kandidaat binnen de gestelde tijd een (deel)opdracht opnieuw wil uitvoeren om de prestatie te verbeteren, wordt de kandidaat daartoe in de gelegenheid gesteld. Voor zover van toepassing stelt de examinator de daarvoor benodigde materialen ter beschikking.  
 
 ### Artikel  6  
 
 ####Vakspecifieke regels en beoordelingsmodel
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in artikel 2, eerste lid, onder c en d, worden door het College voor examens vastgesteld voor elk van de vakken zoals vermeld in bijlage 3, en maken na bekendmaking deel uit van die bijlage.  
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in artikel 2, eerste lid, onder c en d, worden door het College voor examens vastgesteld voor elk van de vakken zoals vermeld in bijlage 3, en maken na bekendmaking deel uit van die bijlage. 
 
 ### Artikel  7  
 
@@ -98,7 +98,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in ar
 1.  Indien de examinator of de gecommitteerde meent dat in een toets of in het beoordelingsmodel bij die toets een fout of onvolkomenheid zit, beoordeelt hij het werk van de kandidaten alsof toets en beoordelingsmodel juist zijn.   
 2.  Degene die in de toets of het beoordelingsmodel een fout of onvolkomenheid meent te hebben geconstateerd kan deze fout aan het College voor Examens meedelen.   
 3.  Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van artikel 10 te nemen.   
-4.  Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel tweede lid onder e, van de wet College voor Examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), rekening gehouden.   
+4.  Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel tweede lid onder e, van de wet College voor Examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), rekening gehouden.  
 
 ### Artikel  8  
 
@@ -106,7 +106,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in ar
 
 1.  De examinator vermeldt op een lijst de namen of nummers van de kandidaten, het aan iedere kandidaat voor iedere opdracht toegekende aantal scorepunten en het totaal aantal scorepunten van iedere kandidaat.   
 2.  De directeur zendt van iedere toets de scores van een aantal kandidaten voor een door het College voor Examens te bepalen datum aan een door het College voor Examens te bepalen adres.   
-3.  Het College voor Examens geeft aan van welke kandidaten de scores aan dat adres worden gezonden.   
+3.  Het College voor Examens geeft aan van welke kandidaten de scores aan dat adres worden gezonden.  
 
 ### Artikel  9  
 
@@ -115,61 +115,61 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in ar
 1.  Voor een toets kan maximaal het aantal scorepunten worden behaald dat de som is van de maximale scores van de vragen waaruit de toets bestaat; de maximumscore van de toets wordt in het correctievoorschrift en voorop de toets vermeld.   
 2.  Scorepunten worden met inachtneming van het beoordelingsmodel toegekend op grond van de uitvoering door de kandidaat van iedere opdracht. Er worden geen scorepunten vooraf gegeven.   
 3.  De score voor de schriftelijke toets wordt als volgt verkregen. De examinator en de gecommitteerde stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur.   
-4.  De score voor de praktische toets wordt als volgt verkregen. De examinator en de tweede examinator stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur.   
+4.  De score voor de praktische toets wordt als volgt verkregen. De examinator en de tweede examinator stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur.  
 
 ### Artikel  10  
 
 ####Afwijking
 
-Het College voor Examens of de voorzitter, kan, de voorzitter van de betreffende vakcommissie gehoord, beslissen dat voor een of meer opdrachten aan alle kandidaten het maximale aantal scorepunten of ten minste een aantal kleiner dan het maximum aantal scorepunten wordt toegekend.  
+Het College voor Examens of de voorzitter, kan, de voorzitter van de betreffende vakcommissie gehoord, beslissen dat voor een of meer opdrachten aan alle kandidaten het maximale aantal scorepunten of ten minste een aantal kleiner dan het maximum aantal scorepunten wordt toegekend. 
 
 ### Artikel  11  
 
 ####Gebruik vaktaal
 
-Indien een kandidaat op grond van een algemeen geldende woordbetekenis, zoals bij voorbeeld vermeld in een woordenboek, een antwoord geeft dat vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke onjuistheid gemoeid zijn.  
+Indien een kandidaat op grond van een algemeen geldende woordbetekenis, zoals bij voorbeeld vermeld in een woordenboek, een antwoord geeft dat vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke onjuistheid gemoeid zijn. 
 
 ### Artikel  12  
 
 ####Aanvullende regels
 
-Het College voor Examens kan op voorstel van een vakcommissie beslissen, dat in het correctievoorschrift bij een toets aanvullende regels worden opgenomen, waaronder regels voor aftrek van scorepunten. Deze zijn evenzeer verbindend als hetgeen in deze regeling is voorgeschreven.  
+Het College voor Examens kan op voorstel van een vakcommissie beslissen, dat in het correctievoorschrift bij een toets aanvullende regels worden opgenomen, waaronder regels voor aftrek van scorepunten. Deze zijn evenzeer verbindend als hetgeen in deze regeling is voorgeschreven. 
 
 ### Artikel  13  
 
 ####Aanpassing
 
-De voorzitter van het College voor Examens is gemachtigd de vaststellingen als opgenomen in Bijlage 3 op onderdelen aan te passen.  
+De voorzitter van het College voor Examens is gemachtigd de vaststellingen als opgenomen in Bijlage 3 op onderdelen aan te passen. 
 
 ### Artikel  14  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 april 2010.  
+Deze regeling treedt in werking op 1 april 2010. 
 
 ### Artikel  15  
 
 ####Bekendmaking
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in artikel 6 worden bekend gemaakt op de in bijlage 3 onder 2 opgenomen wijze.   
+2.  De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in artikel 6 worden bekend gemaakt op de in bijlage 3 onder 2 opgenomen wijze.  
 
 ### Artikel  16  
 
 ####Intrekking
 
-De [Regeling beoordeling centraal examen 2009](../../../../../../../../../zbo/regeling/beoordeling/centraal/examen/BWBR0025858/README.md) wordt ingetrokken.  
+De [Regeling beoordeling centraal examen 2009](../../../../../../../../../zbo/regeling/beoordeling/centraal/examen/BWBR0025858/README.md) wordt ingetrokken. 
 
 ### Artikel  17  
 
 ####Citeertitel
 
-Deze regeling kan worden aangehaald als de Regeling beoordelingsnormen en bijbehorende scores centraal examen.  
+Deze regeling kan worden aangehaald als de Regeling beoordelingsnormen en bijbehorende scores centraal examen. 
 
 Het 
-College voor Examens, namens deze: de 
+College voor Examens, namens deze:de 
 voorzitter, 
-H.W.Laan  
+H.W. Laan    
 
 ### Bijlage  1  
 
@@ -199,7 +199,7 @@ Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 4
 
 4. De examinator en de gecommitteerde stellen in onderling overleg het aantal scorepunten voor het centraal examen vast.  
 
-5. Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming komen, wordt het geschil voorgelegd aan het bevoegd gezag van de gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt hiervan melding gemaakt aan de inspectie. De inspectie kan een derde onafhankelijke gecommitteerde aanwijzen. De beoordeling van de derde gecommitteerde komt in de plaats van de eerdere beoordelingen.    
+5. Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming komen, wordt het geschil voorgelegd aan het bevoegd gezag van de gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt hiervan melding gemaakt aan de inspectie. De inspectie kan een derde onafhankelijke gecommitteerde aanwijzen. De beoordeling van de derde gecommitteerde komt in de plaats van de eerdere beoordelingen.   
 
 ### 2  
 
@@ -241,19 +241,19 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 8. Scorepunten worden toegekend op grond van het door de kandidaat gegeven antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.  
 
-9. Het cijfer voor het centraal examen wordt als volgt verkregen. Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur. De directeur stelt het cijfer voor het centraal examen vast op basis van de regels voor omzetting van de scores naar cijfers.    
+9. Het cijfer voor het centraal examen wordt als volgt verkregen. Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur. De directeur stelt het cijfer voor het centraal examen vast op basis van de regels voor omzetting van de scores naar cijfers.   
 
 ### 3  
 
 ####Vakspecifieke regel(s)
 
-In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar Bijlage 3.  
+In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar Bijlage 3. 
 
 ### 4  
 
 ####Beoordelingsmodel
 
-(antwoorden en scores per vraag). Zie bijlage 3  
+(antwoorden en scores per vraag). Zie bijlage 3 
 
 ### Bijlage  2  
 
@@ -285,7 +285,7 @@ Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 4
 
 4. De examinator en de tweede examinator stellen in onderling overleg de score vast.  
 
-5. De examinator zendt de score en voor zover mogelijk het beoordeelde werk aan de directeur.    
+5. De examinator zendt de score en voor zover mogelijk het beoordeelde werk aan de directeur.   
 
 ### 2  
 
@@ -313,13 +313,13 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de [Regel
 
 6. Als een onvolkomen prestatie in een onderdeel van het examen doorwerkt in een daaropvolgend gedeelte, mag alleen die onvolkomen prestatie en niet de verdere uitwerking daarvan worden aangerekend, tenzij daardoor het volgende gedeelte aanzienlijk wordt vereenvoudigd of tenzij in het beoordelingsmodel anders is vermeld.  
 
-7. Scorepunten worden toegekend op grond van de door de kandidaat geleverde prestaties voor iedere opdracht. Er worden geen scorepunten vooraf gegeven.    
+7. Scorepunten worden toegekend op grond van de door de kandidaat geleverde prestaties voor iedere opdracht. Er worden geen scorepunten vooraf gegeven.   
 
 ### 3  
 
 ####Vakspecifieke regels
 
-Voor het centraal schriftelijk en praktisch examen kunnen vakspecifieke regels worden vastgesteld. Zie hiervoor bijlage 3.  
+Voor het centraal schriftelijk en praktisch examen kunnen vakspecifieke regels worden vastgesteld. Zie hiervoor bijlage 3. 
 
 ### 4  
 
@@ -333,47 +333,43 @@ Het beoordelingsmodel bestaat uit twee delen: het beoordelingsschema (paragraaf 
 
 * de uitwerking van schriftelijke en ICT-opdrachten;  
 
-* mondelinge vragen met hun correctievoorschrift die niet in het beoordelingsschema opgenomen zijn.   Zie verder Bijlage 3.  
+* mondelinge vragen met hun correctievoorschrift die niet in het beoordelingsschema opgenomen zijn.   Zie verder Bijlage 3. 
 
 ### 5  
 
 ####Berekening cijfer
 
-Het cijfer voor het cspe wordt als volgt verkregen. De examinator en de tweede examinator stellen in onderling overleg de score vast Deze score wordt meegedeeld aan de directeur. De directeur stelt het cijfer voor het cspe vast op basis van de regels voor omzetting van score naar cijfer.  
+Het cijfer voor het cspe wordt als volgt verkregen. De examinator en de tweede examinator stellen in onderling overleg de score vast Deze score wordt meegedeeld aan de directeur. De directeur stelt het cijfer voor het cspe vast op basis van de regels voor omzetting van score naar cijfer. 
 
 ### Bijlage  3  
 
 ####Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores
 
-### 1  
+1  *Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking*  
 
-####Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking
+a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de [regeling Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2014](../../../../../../../../../zbo/regeling/rooster/en/toegestane/hulpmiddelen/voor/de/centrale/examens/van/etc/BWBR0032054/README.md), voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
 
-a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de [regeling Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2013](../../../../../../../../../zbo/regeling/rooster/en/toegestane/hulpmiddelen/voor/de/centrale/examens/van/etc/BWBR0030330/README.md), voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
-
-b. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 1c, 1d, 2c, 2d, 3c, 3d, 4c 4d, 5c en 5d worden niet eerder bekend gemaakt dan nadat het College voor Examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een toets van een centraal examen zullen uitmaken.  
+b. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 1c, 1d, 2c, 2d, 3c, 3d, 4c 4d, 5c, 5d en 6 worden niet eerder bekend gemaakt dan nadat het College voor Examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een toets van een centraal examen zullen uitmaken.  
 
 c. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 4e en 5e worden bekendgemaakt aan de secretaris van het eindexamen, uiterlijk 4 uur nadat de examenzitting van de betreffende toets is afgenomen voor de kandidaten waarvan de examinator van de betreffende school het werk moet beoordelen.  
 
-d. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij tabellen 1e en 3e worden per aangetekende post met de opgaven ontvangen t.a.v. de secretaris van het eindexamen op respectievelijk 28 november 2012 en 6 februari 2013.  
+d. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij tabellen 1e en 3e worden per aangetekende post met de opgaven ontvangen t.a.v. de secretaris van het eindexamen op respectievelijk 25 november 2013 en 3 februari 2014.  
 
-e. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 3f, 4f en 5f worden per aangetekende post ontvangen t.a.v. de secretaris van het eindexamen op 13 maart 2013.    
+e. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 3f, 4f en 5f worden per aangetekende post ontvangen t.a.v. de secretaris van het eindexamen vanaf 12 maart 2014.    
 
-### 2  
-
-####Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats
+2.  *Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats*  
 
 a. Voor wat betreft de tabellen genoemd onder onderdeel 1a en onderdeel 1b: op de website Examenblad.nl.  
 
 b. Voor wat betreft de tabellen genoemd onder onderdeel 1c: door de examinator toegang te geven tot de server waarop deze beoordelingsnormen worden bewaard.  
 
-c. Voor wat betreft de tabellen genoemd onder onderdeel 1d: door toezending van de beoordelingsnormen aan de scholen waar deze examens worden afgenomen.   
+c. Voor wat betreft de tabellen genoemd onder onderdeel 1d: door toezending van de beoordelingsnormen aan de scholen waar deze examens worden afgenomen.    
 
 ### Tabel  1  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores voorbereidend wetenschappelijk onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2013 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2014 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 1a;  
 
@@ -383,11 +379,7 @@ c. het tweede tijdvak conform tabel 1c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 1d;  
 
-e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgeving conform tabel 1e.   
-
-### Tabel  1a  
-
-####voorbereidend wetenschappelijk onderwijs 2013
+e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgeving conform tabel 1e.    Tabel 1a voorbereidend wetenschappelijk onderwijs 2014, eerste tijdvak 
 
 | --- |
 |:---|
@@ -402,45 +394,9 @@ e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgevin
 | Russisch  |
 | Turks  |
 | Arabisch  |
-| geschiedenis  |
+| Geschiedenis  |
 | geschiedenis (pilot)  |
-| aardrijkskunde  |
-| wiskunde A  |
-| wiskunde A (pilot)  |
-| wiskunde B  |
-| wiskunde B (pilot)  |
-| wiskunde C  |
-| wiskunde C (pilot)  |
-| natuurkunde  |
-| natuurkunde (pilot)  |
-| scheikunde  |
-| scheikunde (pilot)  |
-| biologie  |
-| biologie (pilot)  |
-| economie  |
-| economie (pilot)  |
-| management & organisatie  |
-| muziek  |
-| tekenen, handvaardigheid en textiele vormgeving  |
-| filosofie  |
-| maatschappijwetenschappen  |
-| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
-
-### Tabel  1b  
-
-####voorbereidend wetenschappelijk onderwijs 2013
-
-| --- |
-|:---|
-| Nederlands  |
-| Grieks  |
-| Latijn  |
-| Frans  |
-| Duits  |
-| Engels  |
-| Spaans  |
-| geschiedenis  |
-| aardrijkskunde  |
+| Aardrijkskunde  |
 | wiskunde A  |
 | wiskunde A (pilot)  |
 | wiskunde B  |
@@ -451,17 +407,52 @@ e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgevin
 | natuurkunde (pilot)  |
 | Scheikunde  |
 | scheikunde (pilot)  |
-| biologie  |
+| Biologie  |
 | biologie (pilot)  |
-| economie  |
+| Economie  |
+| economie (bezem)  |
 | management & organisatie  |
-| filosofie  |
+| Muziek  |
+| tekenen, handvaardigheid en textiele vormgeving  |
+| Filosofie  |
+| maatschappijwetenschappen  |
+| maatschappijwetenschappen (pilot)  |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
+
+Tabel 1b voorbereidend wetenschappelijk onderwijs 2014, tweede tijdvak (openbaar) 
+
+| --- |
+|:---|
+| Nederlands  |
+| Grieks  |
+| Latijn  |
+| Frans  |
+| Duits  |
+| Engels  |
+| Spaans  |
+| Geschiedenis  |
+| geschiedenis (pilot)  |
+| Aardrijkskunde  |
+| wiskunde A  |
+| wiskunde A (pilot)  |
+| wiskunde B  |
+| wiskunde B (pilot)  |
+| wiskunde C  |
+| wiskunde C (pilot)  |
+| Natuurkunde  |
+| natuurkunde (pilot)  |
+| Scheikunde  |
+| scheikunde (pilot)  |
+| Biologie  |
+| biologie (pilot)  |
+| Economie  |
+| management & organisatie  |
+| Filosofie  |
 | kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 | maatschappijwetenschappen  |
+| maatschappijwetenschappen (pilot)  |
 
-### Tabel  1c  
-
-####voorbereidend wetenschappelijk onderwijs 2013
+Tabel 1c voorbereidend wetenschappelijk onderwijs 2014, tweede tijdvak (aangewezen) 
 
 | --- |
 |:---|
@@ -469,14 +460,11 @@ e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgevin
 | Russisch  |
 | Turks  |
 | Arabisch  |
-| geschiedenis (pilot)  |
-| economie (pilot)  |
-| muziek  |
+| economie (bezem)  |
+| Muziek  |
 | tekenen, handvaardigheid en textiele vormgeving  |
 
-### Tabel  1d  
-
-####voorbereidend wetenschappelijk onderwijs 2013
+Tabel 1d voorbereidend wetenschappelijk onderwijs 2014, derde tijdvak 
 
 | --- |
 |:---|
@@ -491,45 +479,42 @@ e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgevin
 | Russisch  |
 | Turks  |
 | Arabisch  |
-| geschiedenis  |
-| geschiedenis (pilot)  |
-| aardrijkskunde  |
+| Geschiedenis  |
+| Aardrijkskunde  |
 | wiskunde A  |
 | wiskunde A (pilot)  |
 | wiskunde B  |
 | wiskunde B (pilot)  |
 | wiskunde C  |
 | wiskunde C (pilot)  |
-| natuurkunde  |
+| Natuurkunde  |
 | natuurkunde (pilot)  |
-| scheikunde  |
+| Scheikunde  |
 | scheikunde (pilot)  |
-| biologie  |
+| Biologie  |
 | biologie (pilot)  |
-| economie  |
-| economie (pilot)  |
+| Economie  |
+| economie (bezem)  |
 | management & organisatie  |
-| muziek  |
+| Muziek  |
 | tekenen, handvaardigheid en textiele vormgeving  |
-| filosofie  |
+| Filosofie  |
 | maatschappijwetenschappen  |
 | kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
-### Tabel  1e  
-
-####voorbereidend wetenschappelijk onderwijs 2013
+Tabel 1e voorbereidend wetenschappelijk onderwijs 2014 
 
 | --- |
 |:---|
-| tekenen  |
-| handvaardigheid  |
+| Tekenen  |
+| Handvaardigheid  |
 | textiele vormgeving  |
 
 ### Tabel  2  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores hoger algemeen voortgezet onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2013 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2014 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 2a;  
 
@@ -537,11 +522,7 @@ b. het tweede tijdvak conform tabel 2b, behoudens de vakken die met geheimhoudin
 
 c. het tweede tijdvak conform tabel 2c voor wat betreft de vakken die met geheimhouding worden afgenomen;  
 
-d. het derde tijdvak conform tabel 2d.   
-
-### Tabel  2a  
-
-####hoger algemeen voortgezet onderwijs 2013
+d. het derde tijdvak conform tabel 2d.    Tabel 2a hoger algemeen voortgezet onderwijs 2014, eerste tijdvak 
 
 | --- |
 |:---|
@@ -561,13 +542,13 @@ d. het derde tijdvak conform tabel 2d.
 | wiskunde A (pilot)  |
 | wiskunde B  |
 | wiskunde B (pilot)  |
-| natuurkunde  |
+| Natuurkunde  |
 | natuurkunde (pilot)  |
 | scheikunde  |
 | scheikunde (pilot)  |
 | biologie  |
 | biologie (pilot)  |
-| economie  |
+| Economie  |
 | management & organisatie  |
 | muziek  |
 | tekenen, handvaardigheid en textiele vormgeving  |
@@ -576,9 +557,7 @@ d. het derde tijdvak conform tabel 2d.
 | maatschappijwetenschappen (pilot)  |
 | kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
-### Tabel  2b  
-
-####hoger algemeen voortgezet onderwijs 2013
+Tabel 2b hoger algemeen voortgezet onderwijs 2014, tweede tijdvak (openbaar) 
 
 | --- |
 |:---|
@@ -587,29 +566,28 @@ d. het derde tijdvak conform tabel 2d.
 | Duits  |
 | Engels  |
 | Spaans  |
-| geschiedenis  |
-| aardrijkskunde  |
+| Geschiedenis  |
+| geschiedenis (pilot)  |
+| Aardrijkskunde  |
 | wiskunde A  |
 | wiskunde A (pilot)  |
 | wiskunde B  |
 | wiskunde B (pilot)  |
-| natuurkunde  |
+| Natuurkunde  |
 | natuurkunde (pilot)  |
-| scheikunde  |
+| Scheikunde  |
 | scheikunde (pilot)  |
-| biologie  |
+| Biologie  |
 | biologie (pilot)  |
 | economie  |
 | management & organisatie  |
 | maatschappijwetenschappen  |
 | maatschappijwetenschappen (pilot)  |
-| filosofie  |
+| Filosofie  |
 | kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 | tekenen, handvaardigheid en textiele vormgeving  |
 
-### Tabel  2c  
-
-####hoger algemeen voortgezet onderwijs 2013
+Tabel 2c hoger algemeen voortgezet onderwijs 2014, tweede tijdvak (aangewezen) 
 
 | --- |
 |:---|
@@ -617,12 +595,9 @@ d. het derde tijdvak conform tabel 2d.
 | Russisch  |
 | Turks  |
 | Arabisch  |
-| geschiedenis (pilot)  |
-| muziek  |
+| Muziek  |
 
-### Tabel  2d  
-
-####hoger algemeen voortgezet onderwijs 2013
+Tabel 2d hoger algemeen voortgezet onderwijs 2014, derde tijdvak 
 
 | --- |
 |:---|
@@ -635,24 +610,23 @@ d. het derde tijdvak conform tabel 2d.
 | Russisch  |
 | Turks  |
 | Arabisch  |
-| geschiedenis  |
-| geschiedenis (pilot)  |
-| aardrijkskunde  |
+| Geschiedenis  |
+| Aardrijkskunde  |
 | wiskunde A  |
 | wiskunde A (pilot)  |
 | wiskunde B  |
 | wiskunde B (pilot)  |
-| natuurkunde  |
+| Natuurkunde  |
 | natuurkunde (pilot)  |
-| scheikunde  |
+| Scheikunde  |
 | scheikunde (pilot)  |
-| biologie  |
+| Biologie  |
 | biologie (pilot)  |
 | economie  |
 | management & organisatie  |
-| muziek  |
+| Muziek  |
 | tekenen, handvaardigheid en textiele vormgeving  |
-| filosofie  |
+| Filosofie  |
 | maatschappijwetenschappen  |
 | kunst (beeldende vormgeving / dans / drama / muziek / algemeen)  |
 
@@ -660,7 +634,7 @@ d. het derde tijdvak conform tabel 2d.
 
 ####Vakspecifieke regels, beoordelingsnormen en scores theoretische leerweg
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg in het middelbaar algemeen voortgezet onderwijs 2013 worden vastgesteld voor wat betreft 
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg in het middelbaar algemeen voortgezet onderwijs 2014 worden vastgesteld voor wat betreft 
 
 a. het eerste tijdvak conform tabel 3a;  
 
@@ -671,11 +645,12 @@ c. het tweede tijdvak conform tabel 3c voor wat betreft de vakken die met geheim
 d. het derde tijdvak conform tabel 3d;  
 
 e. de centraal praktische examens beeldende vakken conform tabel 3e.   
-###Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg
 
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken en de beroepsgerichte programma's met een centraal schriftelijke eindexamen 
+####Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg
 
-a. het eerste tijdvak conform tabel 3a,  
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de algemene vakken en de beroepsgerichte programma's met een centraal schriftelijke eindexamen 
+
+a. het eerste tijdvak conform tabel 3a;  
 
 b. het tweede tijdvak conform tabel 3b, behoudens de vakken die met geheimhouding worden afgenomen;  
 
@@ -685,11 +660,7 @@ d. het derde tijdvak conform tabel 3d;
 
 e. de centraal praktische examens beeldende vakken conform tabel 3e.    
 
-2. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's met een centraal schriftelijk en praktisch examen conform tabel 3f.   
-
-### Tabel  3a  
-
-####theoretische leerweg / gemengde leerweg 2013
+2. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de beroepsgerichte programma's met een centraal schriftelijk en praktisch examen conform tabel 3f.    Tabel 3a theoretische leerweg / gemengde leerweg 2014, eerste tijdvak 
 
 | --- |
 |:---|
@@ -719,9 +690,7 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | transport en logistiek  |
 | voertuigentechniek  |
 
-### Tabel  3b  
-
-####theoretische leerweg / gemengde leerweg 2013
+Tabel 3b theoretische leerweg / gemengde leerweg 2014, tweede tijdvak (openbaar) 
 
 | --- |
 |:---|
@@ -740,9 +709,7 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | biologie  |
 | beeldende vakken  |
 
-### Tabel  3c  
-
-####theoretische leerweg / gemengde leerweg 2013
+Tabel 3c theoretische leerweg / gemengde leerweg 2014, tweede tijdvak (aangewezen) 
 
 | --- |
 |:---|
@@ -758,12 +725,10 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | transport en logistiek  |
 | voertuigentechniek  |
 
-### Tabel  3d  
+Tabel 3d theoretische leerweg / gemengde leerweg 2014, derde tijdvak 
 
-####theoretische leerweg / gemengde leerweg 2013
-
-| --- | --- |
-|:---|:---|
+| --- |
+|:---|
 |  *Algemene vakken*   |
 | Nederlands  |
 | Fries  |
@@ -790,9 +755,7 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | transport en logistiek  |
 | voertuigentechniek  |
 
-### Tabel  3e  
-
-####theoretische leerweg / gemengde leerweg 2013
+Tabel 3e theoretische leerweg / gemengde leerweg 2014 
 
 | --- |
 |:---|
@@ -801,9 +764,7 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | textiele werkvormen  |
 | audiovisuele vormgeving  |
 
-### Tabel  3f  
-
-####gemengde leerweg 2013
+Tabel 3f gemengde leerweg 2014, centraal schriftelijk en praktisch examen 
 
 | --- |
 |:---|
@@ -811,16 +772,16 @@ e. de centraal praktische examens beeldende vakken conform tabel 3e.
 | technologie in de gemengde leerweg, intersectoraal, ict-route  |
 | Bouw-breed, bouwtechniek-timmeren, bouwtechniek-schilderen, bouwtechniek-metselen, bouwtechniek-fijnhoutbewerken  |
 | metaaltechniek, elektrotechniek, installatietechniek, metalektro, instalektro, techniek-breed  |
-| consumptief  |
+| Consumptief  |
 | handel en administratie, handel en verkoop, administratie, mode en commercie  |
 | zorg-en-welzijn-breed, verzorging, uiterlijke verzorging  |
-| landbouw  |
+| Landbouw  |
 
 ### Tabel  4  
 
 ####Vakspecifieke regels, beoordelingsnormen en scores kaderberoepsgerichte leerweg
 
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken 
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de algemene vakken 
 
 a. het eerste tijdvak conform tabel 4a;  
 
@@ -830,13 +791,9 @@ c. het tweede tijdvak conform tabel 4c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 4d.    
 
-2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 voor wat betreft de algemene vakken vastgesteld conform tabel 4e voor zover deze vakken digitaal flexibel worden afgenomen.  
+2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 voor wat betreft de algemene vakken vastgesteld conform tabel 4e voor zover deze vakken digitaal flexibel worden afgenomen.  
 
-3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 4f.   
-
-### Tabel  4a  
-
-####kaderberoepsgerichte leerweg 2013
+3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 4f.    Tabel 4a kaderberoepsgerichte leerweg 2014, eerste tijdvak 
 
 | --- |
 |:---|
@@ -855,15 +812,14 @@ d. het derde tijdvak conform tabel 4d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  4b  
-
-####kaderberoepsgerichte leerweg 2013
+Tabel 4b kaderberoepsgerichte leerweg 2014, tweede tijdvak (openbaar) 
 
 | --- |
 |:---|
 | Nederlands  |
 | Duits  |
 | Engels  |
+| Spaans  |
 | economie  |
 | maatschappijleer II  |
 | aardrijkskunde  |
@@ -872,20 +828,15 @@ d. het derde tijdvak conform tabel 4d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  4c  
-
-####kaderberoepsgerichte leerweg 2013
+Tabel 4c kaderberoepsgerichte leerweg 2014, tweede tijdvak (aangewezen) 
 
 | --- |
 |:---|
 | Frans  |
 | Arabisch  |
 | Turks  |
-| Spaans  |
 
-### Tabel  4d  
-
-####kaderberoepsgerichte leerweg 2013
+Tabel 4d kaderberoepsgerichte leerweg 2014, derde tijdvak 
 
 | --- |
 |:---|
@@ -904,9 +855,7 @@ d. het derde tijdvak conform tabel 4d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  4e  
-
-####kaderberoepsgerichte leerweg 2013
+Tabel 4e kaderberoepsgerichte leerweg 2014, digitale afname 
 
 | --- |
 |:---|
@@ -922,9 +871,7 @@ d. het derde tijdvak conform tabel 4d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  4f  
-
-####kaderberoepsgerichte leerweg 2013
+Tabel 4f kaderberoepsgerichte leerweg 2014, beroepsgerichte programma's 
 
 | --- |
 |:---|
@@ -972,7 +919,7 @@ d. het derde tijdvak conform tabel 4d.
 
 ####Vakspecifieke regels, beoordelingsnormen en scores basisberoepsgerichte leerweg
 
-1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de algemene vakken 
+1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de algemene vakken 
 
 a. het eerste tijdvak conform tabel 5a;  
 
@@ -982,13 +929,9 @@ c. het tweede tijdvak conform tabel 5c voor wat betreft de vakken die met geheim
 
 d. het derde tijdvak conform tabel 5d.    
 
-2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 voor wat betreft de algemene vakken vastgesteld conform tabel 5e voor zover deze vakken digitaal flexibel worden afgenomen.  
+2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 voor wat betreft de algemene vakken vastgesteld conform tabel 5e voor zover deze vakken digitaal flexibel worden afgenomen.  
 
-3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2013 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 5f.   
-
-### Tabel  5a  
-
-####basisberoepsgerichte leerweg 2013
+3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg in het voorbereidend beroepsonderwijs 2014 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 5f.    Tabel 5a basisberoepsgerichte leerweg 2014, eerste tijdvak 
 
 | --- |
 |:---|
@@ -1007,17 +950,7 @@ d. het derde tijdvak conform tabel 5d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  5b  
-
-####basisberoepsgerichte leerweg
-
-| --- |
-|:---|
-| Alle vakken worden afgenomen als aangewezen vak.  |
-
-### Tabel  5c  
-
-####basisberoepsgerichte leerweg 2013
+*Tabel 5b basisberoepsgerichte leerweg*  Alle vakken worden afgenomen als aangewezen vak.  Tabel 5c basisberoepsgerichte leerweg 2014, tweede tijdvak (aangewezen) 
 
 | --- |
 |:---|
@@ -1036,9 +969,7 @@ d. het derde tijdvak conform tabel 5d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  5d  
-
-####basisberoepsgerichte leerweg 2013
+Tabel 5d basisberoepsgerichte leerweg 2014, derde tijdvak 
 
 | --- |
 |:---|
@@ -1057,9 +988,7 @@ d. het derde tijdvak conform tabel 5d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  5e  
-
-####basisberoepsgerichte leerweg 2013
+Tabel 5e basisberoepsgerichte leerweg 2014, digitale afname 
 
 | --- |
 |:---|
@@ -1075,9 +1004,7 @@ d. het derde tijdvak conform tabel 5d.
 | natuur- en scheikunde I  |
 | biologie  |
 
-### Tabel  5f  
-
-####basisberoepsgerichte leerweg 2013
+Tabel 5f basisberoepsgerichte leerweg 2014, beroepsgerichte programma's 
 
 | --- |
 |:---|
@@ -1118,4 +1045,17 @@ d. het derde tijdvak conform tabel 5d.
 | dierhouderij & verzorging gezelschapsdieren  |
 | verwerking agrarische producten  |
 | landbouw-breed  |
+
+### Tabel  6  
+
+####Rekentoets 2014
+
+| --- |
+|:---|
+| rekentoets 3F  |
+| rekentoets 2F  |
+| de aangepaste toets die voor kandidaten met dyslexie/ernstige rekenproblemen in de plaats komt van de rekentoets 3F  |
+| de aangepaste toets die voor kandidaten met dyslexie/ernstige rekenproblemen in de plaats komt van de rekentoets 2F  |
+
+De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden ([artikel 46 lid 6 Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)). 
 

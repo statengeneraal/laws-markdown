@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  De verkiezing van de leden van de raden van de gemeenten Obdam en Wester-Koggenland, waarvoor de kandidaatstelling op 23 januari 2006 zou plaatsvinden, blijft achterwege.   
-2.  De zittingsduur van de op 6 maart 2002 gekozen raden van de gemeenten Obdam en Wester-Koggenland wordt verlengd tot 1 januari 2007.   
+2.  De zittingsduur van de op 6 maart 2002 gekozen raden van de gemeenten Obdam en Wester-Koggenland wordt verlengd tot 1 januari 2007.  
 
 ### Artikel  2  
 
@@ -24,11 +24,11 @@ a. de in de [artikelen G 1, achtste lid](../../../../../../../../../../../wet/ki
 b. verzoeken tot registratie van aanduidingen van politieke groeperingen voor de verkiezing van de raad, ingediend na 25 september 2006, blijven voor de verkiezing van 22 november 2006 buiten behandeling;  
 
 c. de beslissing van het centraal stembureau, bedoeld in [artikel G 4, tweede lid, van de Kieswet](../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md), vindt uiterlijk plaats op 28 september 2006.     
-3.  De ingevolge het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 7 maart 2006 hebben plaatsgevonden.   
+3.  De ingevolge het eerste lid gekozen gemeenteraadsleden treden tegelijk af met de leden van de gemeenteraden waarvoor de verkiezingen op 7 maart 2006 hebben plaatsgevonden.  
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
