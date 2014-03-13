@@ -11,12 +11,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md).   
+Wijzigt de [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md).  
 
 ### Artikel  II  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
-2.  [Artikel 10e van de Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) geldt niet voor proeven met gebruikmaking van chimpansees (pan troglodytes) ten behoeve van onderzoek naar een vaccin tegen hepatitis-C, waarvan de uitvoering is begonnen vóór 1 januari 2003.   
+2.   [Artikel 10e van de Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) geldt niet voor proeven met gebruikmaking van chimpansees (pan troglodytes) ten behoeve van onderzoek naar een vaccin tegen hepatitis-C, waarvan de uitvoering is begonnen vóór 1 januari 2003.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -25,11 +25,11 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-J. F. Hoogervorst 
+Minister van Volksgezondheid, Welzijn en Sport, 
+J. F. Hoogervorst   
 
 de achtentwintigste oktober 2003 
 
 De 
-Minister van Justitie,
-J. P. H. Donner  
+Minister van Justitie, 
+J. P. H. Donner     
