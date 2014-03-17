@@ -27,43 +27,43 @@ Dit besluit bevat beleidsstandpunten over de belasting van personenauto’s en m
 
 * Maatstaf van heffing (5) en Gebruikte motorrijtuigen (6): vanwege het vervallen van de catalogusprijs als heffingsgrondslag voor personenauto’s is de tekst aangepast en zijn de goedkeuringen voor buggy’s vervallen.  
 
-* Andere motorrijtuigen in gebruik bij ambulancediensten (8.1): in overeenstemming gebracht met tijdelijke Wet Ambulance zorg.  
+* Andere motorrijtuigen in gebruik bij ambulancediensten (8.1): in overeenstemming gebracht met [tijdelijke Wet Ambulance zorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md).  
 
 * Bij het verzoek te overleggen bescheiden (9.2): goedkeuring inzake UWV-beschikking is vervallen, is per 1 juli 2013 opgenomen in de regelgeving.  
 
-* Teruggaaf voor taxi’s (10): verduidelijking in overeenstemming met Wet en Besluit Personenvervoer 2000. De verduidelijking beoogt geen inhoudelijke wijziging.  
+* Teruggaaf voor taxi’s (10): verduidelijking in overeenstemming met [Wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [Besluit Personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md). De verduidelijking beoogt geen inhoudelijke wijziging.  
 
-* Teruggaaf wegens geen toetreding tot Nederlands wegennet (11): vanwege het vervallen van de uitvoerverklaring van de RDW per 1 januari 2014 wordt niet meer verwezen naar deze verklaring, maar naar de registratie met de status ‘Export’ bij de RDW.   De volgende onderdelen uit het besluit van 27 juni 2012, BLKB 2012/1106M zijn vervallen: 2.2.1.1, 2.2.1.2, 2.2.3, 2.2.4 en 2.2.6. Deze onderdelen zijn gedeeltelijk gecodificeerd in artikel 2 van de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992 en gedeeltelijk opgenomen in de nadere toelichting bij deze Uitvoeringsregeling. Onderdeel 7.2.2 (Directeur-grootaandeelhouder) uit het besluit van 27 juni 2012, BLKB 2012/1106M is vervallen vanwege de intrekking van het besluit van 21 december 2007, CPP 2007/3160M (bij besluit van 17 december 2013, BLKB2013/2330M). De in dit besluit opgenomen goedkeuring is vanaf 1 juli 2009 niet meer relevant. Het besluit van 26 april 1995, nr. VB95/282, is ingetrokken, aangezien de daarin opgenomen goedkeuring voor de hoogte van de cabine in bestelauto’s met een dubbele cabine in dit kaderbesluit is opgenomen (onderdeel 2.3.3).   
+* Teruggaaf wegens geen toetreding tot Nederlands wegennet (11): vanwege het vervallen van de uitvoerverklaring van de RDW per 1 januari 2014 wordt niet meer verwezen naar deze verklaring, maar naar de registratie met de status ‘Export’ bij de RDW.   De volgende onderdelen uit het [besluit van 27 juni 2012](../../../../beleidsregel/kaderbesluit/bpm/BWBR0031744/README.md), BLKB 2012/1106M zijn vervallen: 2.2.1.1, 2.2.1.2, 2.2.3, 2.2.4 en 2.2.6. Deze onderdelen zijn gedeeltelijk gecodificeerd in [artikel 2 van de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md) en gedeeltelijk opgenomen in de nadere toelichting bij deze Uitvoeringsregeling. Onderdeel 7.2.2 (Directeur-grootaandeelhouder) uit het [besluit van 27 juni 2012](../../../../beleidsregel/kaderbesluit/bpm/BWBR0031744/README.md), BLKB 2012/1106M is vervallen vanwege de intrekking van het besluit van 21 december 2007, CPP 2007/3160M (bij besluit van 17 december 2013, BLKB2013/2330M). De in dit besluit opgenomen goedkeuring is vanaf 1 juli 2009 niet meer relevant. Het besluit van 26 april 1995, nr. VB95/282, is ingetrokken, aangezien de daarin opgenomen goedkeuring voor de hoogte van de cabine in bestelauto’s met een dubbele cabine in dit kaderbesluit is opgenomen (onderdeel 2.3.3).   
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
 
-*Wet:* Wet op de belasting van personenauto’s en motorrijwielen 1992   
+*Wet:* [Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)  
 
-*Besluit:*Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992 (Stb. 1992, 710)  
+*Besluit:* [Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md) (Stb. 1992, 710)  
 
-*Regeling:*Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992 (Stcrt. 1992, 252)  
+*Regeling:* [Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md) (Stcrt. 1992, 252)  
 
-*Bpm:* belasting van personenauto’s en motorrijwielen  
+*Bpm: * belasting van personenauto’s en motorrijwielen  
 
 *Mrb:* motorrijtuigenbelasting  
 
-*Wet OB:* Wet op de omzetbelasting 1968   
+*Wet OB:* [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
-*AWR:* Algemene wet inzake rijksbelastingen   
+*AWR:* [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
 
-*Wet personenvervoer:* Wet personenvervoer 2000   
+*Wet personenvervoer:* [Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)  
 
-*Wp-vergunning;* een vergunning afgegeven op grond van de Wet personenvervoer 2000  
+*Wp-vergunning;* een vergunning afgegeven op grond van de [Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)  
 
-*Ondernemer;* ondernemer in de zin van artikel 7 van de Wet OB  
+*Ondernemer;* ondernemer in de zin van [artikel 7 van de Wet OB](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  
 
 *RDW;* Dienst Wegverkeer       
 ### 2  
 
 ####Bestelauto
 
-Onder bestelauto wordt verstaan een motorrijtuig met een laadruimte die niet is ingericht voor het vervoer van personen, die in haar geheel is voorzien van een vlakke laadvloer en die voldoet aan de inrichtingseisen voor de laadruimte van een bestelauto (artikel 3, derde lid, van de wet).   
+Onder bestelauto wordt verstaan een motorrijtuig met een laadruimte die niet is ingericht voor het vervoer van personen, die in haar geheel is voorzien van een vlakke laadvloer en die voldoet aan de inrichtingseisen voor de laadruimte van een bestelauto ([artikel 3, derde lid, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 ### 2.1  
 
 ####Vlakke laadvloer
@@ -72,7 +72,7 @@ De vlakke laadvloer moet over de gehele breedte en lengte van de laadruimte zijn
 
 ####Goedkeuring
 
-Omdat niet in alle situaties aan deze voorwaarden kan worden voldaan, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) het volgende goed. 
+Omdat niet in alle situaties aan deze voorwaarden kan worden voldaan, keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) het volgende goed. 
 
 − Eventuele wielkasten mogen in de laadvloer zijn aangebracht.  
 
@@ -85,7 +85,7 @@ Omdat niet in alle situaties aan deze voorwaarden kan worden voldaan, keur ik me
 
 ####Inrichtingseisen
 
-Om aan de inrichtingseisen voor de laadruimte van een bestelauto te voldoen, moet een bestelauto zijn voorzien van een vaste wand die de bestuurderscabine van de laadruimte scheidt. Deze vaste wand moet zijn vervaardigd van ondoorzichtig en vormvast materiaal, geheel vlak zijn, uit één geheel bestaan en op onverbrekelijke wijze rechtstreeks met de carrosserie zijn verbonden (artikel 2, negende lid, van de regeling). Ook moet de wand zowel verticaal als horizontaal in een hoek van 90° op de lengteas zijn geplaatst (artikel 2, zevende lid, van de regeling).   
+Om aan de inrichtingseisen voor de laadruimte van een bestelauto te voldoen, moet een bestelauto zijn voorzien van een vaste wand die de bestuurderscabine van de laadruimte scheidt. Deze vaste wand moet zijn vervaardigd van ondoorzichtig en vormvast materiaal, geheel vlak zijn, uit één geheel bestaan en op onverbrekelijke wijze rechtstreeks met de carrosserie zijn verbonden ([artikel 2, negende lid, van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Ook moet de wand zowel verticaal als horizontaal in een hoek van 90° op de lengteas zijn geplaatst (artikel 2, zevende lid, van de regeling).   
 ### 2.2.1  
 
 ####Vaste wand
@@ -98,7 +98,7 @@ De vaste wand moet geheel vlak zijn.
 
 ####Goedkeuring
 
-Met toepassing van artikel 63 van de AWR (de hardheidsclausule) keur ik goed dat de vaste wand is voorzien van uitsteeksels, veroorzaakt door de bevestigingsconstructie en enige profilering, bijvoorbeeld ter vergroting van de stevigheid. Er wordt dan wel gemeten van de meest naar achteren gelegen delen.     
+Met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) keur ik goed dat de vaste wand is voorzien van uitsteeksels, veroorzaakt door de bevestigingsconstructie en enige profilering, bijvoorbeeld ter vergroting van de stevigheid. Er wordt dan wel gemeten van de meest naar achteren gelegen delen.     
 ### 2.2.1.2  
 
 ####Deel cabine bij de laadruimte betrekken
@@ -107,7 +107,7 @@ Het komt voor dat een deel van de cabine, zoals de ruimte onder de extra zitplaa
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed, dat in deze situatie de wand toch als vlak kan worden beschouwd, mits daardoor de laadruimte vanuit de cabine niet bereikbaar is. Bij het bepalen van de lengte van de laadruimte wordt deze extra laadruimte echter niet meegerekend.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed, dat in deze situatie de wand toch als vlak kan worden beschouwd, mits daardoor de laadruimte vanuit de cabine niet bereikbaar is. Bij het bepalen van de lengte van de laadruimte wordt deze extra laadruimte echter niet meegerekend.     
 ### 2.2.1.3  
 
 ####Rechtstreeks aan carrosserie verbonden
@@ -121,11 +121,11 @@ De wand moet zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in de volgende situaties de wand zoveel mogelijk rondom met de carrosserie is verbonden. 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in de volgende situaties de wand zoveel mogelijk rondom met de carrosserie is verbonden. 
 
 − Het is voldoende dat per zijde van de vaste wand deze over ten minste 75% van de lengte aansluit op de carrosserie. Op de plaatsen waar de vaste wand niet aansluit op de carrosserie, mag de afstand tussen de vaste wand en de carrosserie niet groter zijn dan 4 centimeter.  
 
-− De afstand tussen de vaste wand en de carrosserie mag groter zijn dan 4 centimeter (maar moet wel per zijde over ten minste 75% van de lengte aansluiten op de carrosserie) als dat noodzakelijk is voor het aanbrengen van voorzieningen als bedoeld in artikel 2, tiende lid, onderdeel c van de regeling.  
+− De afstand tussen de vaste wand en de carrosserie mag groter zijn dan 4 centimeter (maar moet wel per zijde over ten minste 75% van de lengte aansluiten op de carrosserie) als dat noodzakelijk is voor het aanbrengen van voorzieningen als bedoeld in [artikel 2, tiende lid, onderdeel c van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md).  
 
 − Het is niet nodig de bovenzijde van de vaste wand aan het motorrijtuig te bevestigen.  
 
@@ -138,7 +138,7 @@ De vaste wand moet op onverbrekelijke wijze rechtstreeks met de carrosserie zijn
 
 ####Goedkeuringen
 
-Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in de volgende situaties de wand toch zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie is verbonden: 
+Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in de volgende situaties de wand toch zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie is verbonden: 
 
 – In plaats van aan de zijbekleding of aan de B-stijl mag de scheidingswand door middel van een constructie aan de wielkuipen dan wel door middel van een schoor aan de laadvloer zijn bevestigd. Als de constructie op deze wijze is uitgevoerd moeten ook alle bevestigingen worden gelijmd met speciale carrosserielijm of -kit, gelast of vastgezet met breekbouten, popnagels of niet verwijderbare permanente bouten en moeren (of een combinatie van deze technieken) waardoor er een permanente constructie ontstaat.  
 
@@ -151,11 +151,11 @@ Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) g
 
 ####Open bestelauto; hoogte vaste wand
 
-Bij sommige bestelauto’s moet onder meer de laadruimte van de bestuurderszitplaats zijn afgescheiden door een vaste wand over de gehele breedte en hoogte van de bestuurderscabine (artikel 3, derde lid, onderdeel b, 2˚, van de wet). De vaste wand moet op maximaal 115 cm, gemeten vanaf het achterste punt van het stuurwiel, zijn geplaatst (artikel 2, achtste lid van de regeling). Als de laadbak een lengte heeft van ten minste 200 cm is in dat geval geen vaste wand vereist. Bij geheel open bestelauto’s met enkele cabine waarbij zowel de bestuurderscabine als de laadbak niet zijn overdekt (bijvoorbeeld sommige (ex-) legervoertuigen) levert de hoogte van de vaste wand problemen op. Om constructietechnische redenen is een volledig vaste wand tussen cabine en laadruimte niet te realiseren.   
+Bij sommige bestelauto’s moet onder meer de laadruimte van de bestuurderszitplaats zijn afgescheiden door een vaste wand over de gehele breedte en hoogte van de bestuurderscabine ([artikel 3, derde lid, onderdeel b, 2˚, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). De vaste wand moet op maximaal 115 cm, gemeten vanaf het achterste punt van het stuurwiel, zijn geplaatst ([artikel 2, achtste lid van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Als de laadbak een lengte heeft van ten minste 200 cm is in dat geval geen vaste wand vereist. Bij geheel open bestelauto’s met enkele cabine waarbij zowel de bestuurderscabine als de laadbak niet zijn overdekt (bijvoorbeeld sommige (ex-) legervoertuigen) levert de hoogte van de vaste wand problemen op. Om constructietechnische redenen is een volledig vaste wand tussen cabine en laadruimte niet te realiseren.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat bij een dergelijke geheel open bestelauto met enkele cabine, waarbij zowel de cabine als de laadbak niet zijn overdekt, kan worden volstaan met een vaste wand met een hoogte van minimaal 30 cm.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat bij een dergelijke geheel open bestelauto met enkele cabine, waarbij zowel de cabine als de laadbak niet zijn overdekt, kan worden volstaan met een vaste wand met een hoogte van minimaal 30 cm.     
 ### 2.2.1.5  
 
 ####Stoel(en) en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie
@@ -164,17 +164,17 @@ Als in de laadruimte van een bestelauto één of meerdere stoelen of zitbanken v
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) onder de navolgende cumulatieve voorwaarden goed, dat een motorrijtuig dat aan alle fiscale inrichtingseisen voor een bestelauto voldoet, nog steeds kwalificeert als bestelauto als in de laadruimte vaste zitplaatsen zijn aangebracht.    
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) onder de navolgende cumulatieve voorwaarden goed, dat een motorrijtuig dat aan alle fiscale inrichtingseisen voor een bestelauto voldoet, nog steeds kwalificeert als bestelauto als in de laadruimte vaste zitplaatsen zijn aangebracht.    
 
 ####Voorwaarden
 
 Voor deze goedkeuring gelden de volgende voorwaarden: 
 
-– de bestelauto is geregistreerd op naam van een openbaar lichaam of een ondernemer als bedoeld in artikel 7 van de Wet op de omzetbelasting 1968;  
+– de bestelauto is geregistreerd op naam van een openbaar lichaam of een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
 
 – de bestelauto is ingericht en wordt uitsluitend gebruikt voor het uitvoeren van werkzaamheden die passen binnen de onderneming of voortvloeien uit de taak van het openbaar lichaam op locatie. Voor het verrichten van deze werkzaamheden is het noodzakelijk dat de werknemer/ondernemer zijn werkzaamheden zittend in de stilstaande bestelauto kan verrichten;  
 
-– de zitplaatsen zijn alleen geschikt om ter plaatse te worden gebruikt, hetgeen betekent dat de zitplaatsen niet voldoen aan de in de Regeling Voertuigen opgenomen eisen.   Wanneer de zitplaatsen in rijdende toestand worden gebruikt is de houder strafbaar op grond van het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990) en kan een verzuimboete op grond van artikel 13a, zesde lid, van de wet, worden opgelegd.       
+– de zitplaatsen zijn alleen geschikt om ter plaatse te worden gebruikt, hetgeen betekent dat de zitplaatsen niet voldoen aan de in de Regeling Voertuigen opgenomen eisen.   Wanneer de zitplaatsen in rijdende toestand worden gebruikt is de houder strafbaar op grond van het [Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en kan een verzuimboete op grond van [artikel 13a, zesde lid, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), worden opgelegd.       
 ### 2.2.2  
 
 ####Ombouw pick-up dubbele of anderhalve cabine tot enkele cabine
@@ -208,7 +208,7 @@ Er zijn containers die speciaal zijn ontworpen om te worden geplaatst in de open
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed dat plaatsing van een container op een bestelauto niet leidt tot de conclusie dat sprake is van een motorrijtuig met een gesloten laadruimte.    
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed dat plaatsing van een container op een bestelauto niet leidt tot de conclusie dat sprake is van een motorrijtuig met een gesloten laadruimte.    
 
 ####Voorwaarden
 
@@ -230,7 +230,7 @@ g. de container wordt door de leveranciers naar het publiek toe gepresenteerd al
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat voor containers zonder voorzieningen die in gebruik zijn genomen vóór de ingangsdatum van dit besluit geldt dat het ontbreken van dergelijke voorzieningen niet leidt tot de conclusie dat sprake is van een bestelauto met een gesloten laadruimte.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat voor containers zonder voorzieningen die in gebruik zijn genomen vóór de ingangsdatum van dit besluit geldt dat het ontbreken van dergelijke voorzieningen niet leidt tot de conclusie dat sprake is van een bestelauto met een gesloten laadruimte.     
 ### 2.2.3.2  
 
 ####Kampeercontainer
@@ -239,7 +239,7 @@ Er zijn kampeercontainers die speciaal zijn ontworpen om te worden geplaatst in 
 
 ####Goedkeuring
 
-Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) onder de volgende voorwaarde goed dat een bestel- of vrachtauto waarop een kampeercontainer is geplaatst, niet als een personenauto wordt aangemerkt.    
+Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) onder de volgende voorwaarde goed dat een bestel- of vrachtauto waarop een kampeercontainer is geplaatst, niet als een personenauto wordt aangemerkt.    
 
 ####Voorwaarde
 
@@ -262,7 +262,7 @@ De laadruimte van een bestelauto mag niet ingericht zijn voor het vervoer van pe
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een motorrijtuig met een dergelijke bijzondere bovenbouw kan worden aangemerkt als een bestelauto.    
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een motorrijtuig met een dergelijke bijzondere bovenbouw kan worden aangemerkt als een bestelauto.    
 
 ####Voorwaarden
 
@@ -279,7 +279,7 @@ De motorrijtuigen die als bovenbouwvermelding ‘oplegtrekker’ (voor 1 januar
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een motorrijtuig dat op het kentekenbewijs als vermelding de bovencode van ‘trekker’/’oplegtrekker’ dan wel ‘voor wisselbare opbouw’/’afneembare bovenbouw’ heeft, als bestelauto wordt aangemerkt. Dit houdt in dat het motorrijtuig niet alleen geschikt moet zijn voor dat vervoer, maar ook als zodanig is gekeurd door de RDW.    
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een motorrijtuig dat op het kentekenbewijs als vermelding de bovencode van ‘trekker’/’oplegtrekker’ dan wel ‘voor wisselbare opbouw’/’afneembare bovenbouw’ heeft, als bestelauto wordt aangemerkt. Dit houdt in dat het motorrijtuig niet alleen geschikt moet zijn voor dat vervoer, maar ook als zodanig is gekeurd door de RDW.    
 
 ####Voorwaarde
 
@@ -292,7 +292,7 @@ Een pick-up wordt alleen als bestelauto aangemerkt als wordt voldaan aan verschi
 
 ####Goedkeuring
 
-Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een motorrijtuig met een (kaal) chassis waarop een koppelschotel met een hulpframe dan wel een containerframe is gemonteerd wordt aangemerkt als een bestelauto. Wanneer in een later stadium het motorrijtuig wordt aangepast c.q. omgebouwd, bijvoorbeeld door het aanbrengen van een vaste laadbak, kan een motorrijtuig ontstaan dat zich qua uiterlijk maar ook qua vervoer van last/lading niet langer onderscheidt van’reguliere’ motorrijtuigen. Om als bestelauto te worden aangemerkt moet het motorrijtuig voldoen aan alle inrichtingseisen die gelden voor een bestelauto (m.u.v. de hoogte van de laadruimte). Als het motorrijtuig niet aan de inrichtingseisen voor een bestelauto voldoet, dan is er sprake van een personenauto.      
+Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een motorrijtuig met een (kaal) chassis waarop een koppelschotel met een hulpframe dan wel een containerframe is gemonteerd wordt aangemerkt als een bestelauto. Wanneer in een later stadium het motorrijtuig wordt aangepast c.q. omgebouwd, bijvoorbeeld door het aanbrengen van een vaste laadbak, kan een motorrijtuig ontstaan dat zich qua uiterlijk maar ook qua vervoer van last/lading niet langer onderscheidt van’reguliere’ motorrijtuigen. Om als bestelauto te worden aangemerkt moet het motorrijtuig voldoen aan alle inrichtingseisen die gelden voor een bestelauto (m.u.v. de hoogte van de laadruimte). Als het motorrijtuig niet aan de inrichtingseisen voor een bestelauto voldoet, dan is er sprake van een personenauto.      
 ### 2.3  
 
 ####Meetmethoden
@@ -301,11 +301,11 @@ Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) g
 
 ####Meetmethoden laadruimte
 
-De hoogte en de lengte van de laadruimte moeten worden gemeten door middel van de zogenoemde blokmethode (artikel 2, eerste lid, van de regeling). Dat wil zeggen dat de laadruimte in gesloten toestand een denkbeeldig (fiscaal) blok moet kunnen bevatten met afmetingen die voor de betreffende categorie bestelauto gelden. Er kan een aantal zaken in een laadruimte zijn aangebracht waardoor het fiscale blok niet meer past.   
+De hoogte en de lengte van de laadruimte moeten worden gemeten door middel van de zogenoemde blokmethode ([artikel 2, eerste lid, van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Dat wil zeggen dat de laadruimte in gesloten toestand een denkbeeldig (fiscaal) blok moet kunnen bevatten met afmetingen die voor de betreffende categorie bestelauto gelden. Er kan een aantal zaken in een laadruimte zijn aangebracht waardoor het fiscale blok niet meer past.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de volgende zaken bij het bepalen van de afmetingen van de laadruimte geheel buiten beschouwing worden gelaten: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de volgende zaken bij het bepalen van de afmetingen van de laadruimte geheel buiten beschouwing worden gelaten: 
 
 – binnenbekleding;  
 
@@ -318,7 +318,7 @@ Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat
 
 ####Pick-up
 
-Een pick-up is een bestelauto waarvan de laadbak niet is overkapt. Een pick-up is niet als afzonderlijke categorie opgenomen in de wet. Om als bestelauto te worden aangemerkt moet een pick-up aan de eisen van artikel 3, derde lid van de wet voldoen, met uitzondering van de eisen met betrekking tot de hoogte van de laadruimte en de aanwezigheid van ten hoogste één zijruit.   
+Een pick-up is een bestelauto waarvan de laadbak niet is overkapt. Een pick-up is niet als afzonderlijke categorie opgenomen in de wet. Om als bestelauto te worden aangemerkt moet een pick-up aan de eisen van [artikel 3, derde lid van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) voldoen, met uitzondering van de eisen met betrekking tot de hoogte van de laadruimte en de aanwezigheid van ten hoogste één zijruit.   
 ### 2.3.2.1  
 
 ####Meetmethoden laadruimte pick-up
@@ -327,7 +327,7 @@ De lengte van de laadruimte van een pick-up moet volgens de blokmethode worden g
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de lengte van de laadruimte van een pick-up ook bepaald kan worden door te meten over de bodem van de laadruimte mits deze methode geen andere uitkomst oplevert dan de blokmethode. Als deze methode wordt toegepast, moet vanaf het achterste punt van het tussenschot een loodlijn worden neergelaten op de bodem van de laadruimte. De lengte van de laadruimte wordt gemeten vanaf het punt waar de loodlijn de bodem raakt. Evenals bij de blokmethode wordt gemeten parallel aan de lengte-as van het motorrijtuig. Deze twee meetmethoden gelden ook om te bepalen of de laadruimte van een bestelauto met dubbele cabine voor ten minste 40 procent van de lengte voor het hart van de achterste as is gelegen (artikel 3, derde lid, onderdeel d, van de wet). Als een zogenoemde rollbar is aangebracht om extra veiligheid te creëren voor de inzittenden en de te vervoeren lading, kan bij het bepalen van de lengte van de laadruimte de rollbar buiten beschouwing worden gelaten.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de lengte van de laadruimte van een pick-up ook bepaald kan worden door te meten over de bodem van de laadruimte mits deze methode geen andere uitkomst oplevert dan de blokmethode. Als deze methode wordt toegepast, moet vanaf het achterste punt van het tussenschot een loodlijn worden neergelaten op de bodem van de laadruimte. De lengte van de laadruimte wordt gemeten vanaf het punt waar de loodlijn de bodem raakt. Evenals bij de blokmethode wordt gemeten parallel aan de lengte-as van het motorrijtuig. Deze twee meetmethoden gelden ook om te bepalen of de laadruimte van een bestelauto met dubbele cabine voor ten minste 40 procent van de lengte voor het hart van de achterste as is gelegen ([artikel 3, derde lid, onderdeel d, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Als een zogenoemde rollbar is aangebracht om extra veiligheid te creëren voor de inzittenden en de te vervoeren lading, kan bij het bepalen van de lengte van de laadruimte de rollbar buiten beschouwing worden gelaten.     
 ### 2.3.2.2  
 
 ####Inkorten laadruimte pick-up
@@ -336,25 +336,25 @@ Bij bepaalde typen pick-up’s is de laadruimte zo lang dat de fabrieksversie ni
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een inkortingaanpassing wordt verricht, mits zij functioneel en permanent is en over de gehele breedte van de achterklep is aangebracht. Als de achterwand van de cabine van een pick-up naar voren wordt verplaatst, steekt het dak van de bestuurderscabine een stukje over in de laadruimte. Dit kan tot gevolg hebben dat het fiscale blok qua hoogte (wel qua lengte) niet meer in de laadruimte past. Dit is op zich geen reden de goedkeuring af te wijzen. De hoogte van de laadruimte van een pick-up is fiscaalrechtelijk niet van betekenis.      
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een inkortingaanpassing wordt verricht, mits zij functioneel en permanent is en over de gehele breedte van de achterklep is aangebracht. Als de achterwand van de cabine van een pick-up naar voren wordt verplaatst, steekt het dak van de bestuurderscabine een stukje over in de laadruimte. Dit kan tot gevolg hebben dat het fiscale blok qua hoogte (wel qua lengte) niet meer in de laadruimte past. Dit is op zich geen reden de goedkeuring af te wijzen. De hoogte van de laadruimte van een pick-up is fiscaalrechtelijk niet van betekenis.      
 ### 2.3.3  
 
 ####Hoogte cabine in bestelauto’s met een dubbele cabine
 
-Het uitgangspunt van de wetgever is dat een motorrijtuig met dubbele cabine moet zijn voorzien van hetzij een hoog dak, hetzij een lange laadbak, om aangemerkt te worden als bestelauto. De lengte van de laadruimte van een motorrijtuig met dubbele cabine moet ten minste twee maal die van de cabine zijn, tenzij de cabine een hoogte heeft van ten minste 130 cm (artikel 3, derde lid, onderdeel d, van de wet). De hoogte van de cabine van een dergelijk motorrijtuig moet de grootste afstand tussen vloer en dak van de cabine zijn, gemeten over een breedte van ten minste 20 cm (artikel 2, derde lid, van de regeling). In de praktijk worden auto’s waarvan de cabine zelf niet de hoogte van 130 cm heeft, in bepaalde gevallen aangepast aan deze eis. Om te kunnen beoordelen of aan de hoogte-eis van ten minste 130 cm is voldaan, moet de totale cabine in ogenschouw worden genomen. Het moet gaan om een cabine met een normale vloer en een normaal dak. Het is niet voldoende dat, om louter te voldoen aan de technische eis van een hoogte van 130 cm, de vloer een kleine verdieping vertoont en/of het dak een uitstulping in de vorm van een soort sluis of pijp heeft. Om inhoud te geven aan de hoogte-eis van 130 cm zou dan ook het oorspronkelijke dak verwijderd moeten worden. Dit is uit constructietechnische overwegingen niet altijd mogelijk.   
+Het uitgangspunt van de wetgever is dat een motorrijtuig met dubbele cabine moet zijn voorzien van hetzij een hoog dak, hetzij een lange laadbak, om aangemerkt te worden als bestelauto. De lengte van de laadruimte van een motorrijtuig met dubbele cabine moet ten minste twee maal die van de cabine zijn, tenzij de cabine een hoogte heeft van ten minste 130 cm ([artikel 3, derde lid, onderdeel d, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). De hoogte van de cabine van een dergelijk motorrijtuig moet de grootste afstand tussen vloer en dak van de cabine zijn, gemeten over een breedte van ten minste 20 cm ([artikel 2, derde lid, van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). In de praktijk worden auto’s waarvan de cabine zelf niet de hoogte van 130 cm heeft, in bepaalde gevallen aangepast aan deze eis. Om te kunnen beoordelen of aan de hoogte-eis van ten minste 130 cm is voldaan, moet de totale cabine in ogenschouw worden genomen. Het moet gaan om een cabine met een normale vloer en een normaal dak. Het is niet voldoende dat, om louter te voldoen aan de technische eis van een hoogte van 130 cm, de vloer een kleine verdieping vertoont en/of het dak een uitstulping in de vorm van een soort sluis of pijp heeft. Om inhoud te geven aan de hoogte-eis van 130 cm zou dan ook het oorspronkelijke dak verwijderd moeten worden. Dit is uit constructietechnische overwegingen niet altijd mogelijk.   
 
 ####Goedkeuring
 
-In dit verband keur ik met toepassing van artikel 63 van de AWR (hardheidsclausule) het volgende goed. In deze situatie kan worden volstaan met een uitsparing in het oorspronkelijke dak van 70 cm bij 55 cm. Daarnaast moet op het oorspronkelijke dak van de cabine van de auto een geheel verhoogd dak zijn aangebracht (het zogenaamde buitendak). Bij het bepalen van de afmeting van de hoogte van de cabine kan in deze situatie de binnenbekleding zoals de vloerbedekking en hemelbekleding buiten beschouwing worden gelaten.     
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule) het volgende goed. In deze situatie kan worden volstaan met een uitsparing in het oorspronkelijke dak van 70 cm bij 55 cm. Daarnaast moet op het oorspronkelijke dak van de cabine van de auto een geheel verhoogd dak zijn aangebracht (het zogenaamde buitendak). Bij het bepalen van de afmeting van de hoogte van de cabine kan in deze situatie de binnenbekleding zoals de vloerbedekking en hemelbekleding buiten beschouwing worden gelaten.     
 ### 2.3.4  
 
 ####Meetmethode bij hoog dak
 
-Als de laadruimte ten minste 25 cm hoger is dan de cabine kan in plaats van een volledige tussenwand worden volstaan met een vaste wand van ten minste 30 cm hoog, over ten minste de hele breedte van de cabine (artikel 3, eerste lid, onder c, van de wet). Het hoogteverschil tussen de cabine en de laadruimte is de verticale afstand tussen het denkbeeldige horizontale vlak waarin de beide hoogste punten in de dagopening van de deuren bij de zitplaatsen liggen en het hoogste gedeelte van het dak van de laadruimte, gemeten over een breedte van ten minste 20 cm.   
+Als de laadruimte ten minste 25 cm hoger is dan de cabine kan in plaats van een volledige tussenwand worden volstaan met een vaste wand van ten minste 30 cm hoog, over ten minste de hele breedte van de cabine ([artikel 3, eerste lid, onder c, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Het hoogteverschil tussen de cabine en de laadruimte is de verticale afstand tussen het denkbeeldige horizontale vlak waarin de beide hoogste punten in de dagopening van de deuren bij de zitplaatsen liggen en het hoogste gedeelte van het dak van de laadruimte, gemeten over een breedte van ten minste 20 cm.   
 
 ####Goedkeuring
 
-Uit praktische overwegingen keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) onder de volgende voorwaarden goed dat het hoogteverschil tussen de cabine en de laadruimte aan de buitenkant van het motorrijtuig wordt gemeten.    
+Uit praktische overwegingen keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) onder de volgende voorwaarden goed dat het hoogteverschil tussen de cabine en de laadruimte aan de buitenkant van het motorrijtuig wordt gemeten.    
 
 ####Voorwaarden
 
@@ -367,7 +367,7 @@ Wanneer een dakverhoging in de laadruimte wordt aangebracht omdat de laadruimte 
 
 ####Goedkeuring
 
-In dit verband keur ik met toepassing van artikel 63 van de AWR (hardheidsclausule) onder de volgende voorwaarden goed, dat wordt volstaan met een uitsparing in het oorspronkelijke dak van 70 cm bij 55 cm.    
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (hardheidsclausule) onder de volgende voorwaarden goed, dat wordt volstaan met een uitsparing in het oorspronkelijke dak van 70 cm bij 55 cm.    
 
 ####Voorwaarden
 
@@ -376,7 +376,7 @@ Hierbij stel ik de voorwaarde dat op het oorspronkelijke dak van de laadruimte v
 
 ####Vrachtauto
 
-Een vrachtauto is een motorrijtuig met een toegestane maximummassa van meer dan 3.500 kg, die niet is ingericht voor het vervoer van personen (artikel 3, eerste lid, onderdeel c, van de wet).   
+Een vrachtauto is een motorrijtuig met een toegestane maximummassa van meer dan 3.500 kg, die niet is ingericht voor het vervoer van personen ([artikel 3, eerste lid, onderdeel c, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 ### 3.1  
 
 ####Multifunctioneel ingerichte motorrijtuig
@@ -385,7 +385,7 @@ Een multifunctioneel ingericht motorrijtuig is een motorrijtuig dat naast de mog
 
 ####Goedkeuring
 
-In dit verband keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat multifunctioneel ingerichte motorrijtuigen niet als personenauto worden aangemerkt. Ik stel hierbij de volgende cumulatieve voorwaarden: 
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat multifunctioneel ingerichte motorrijtuigen niet als personenauto worden aangemerkt. Ik stel hierbij de volgende cumulatieve voorwaarden: 
 
 a. Het gedeelte van de ladruimte dat is ingericht voor het vervoer van personen bedraagt niet meer dan 50% van de lengte die de laadruimte zou hebben zonder voorzieningen voor het verblijf en/of de overnachting van personen. Ruimtes ingericht met douche en/of toilet worden in dit verband gerekend bij het gedeelte dat is ingericht voor het verblijf van personen. Als er tussen de bestuurderscabine en het gedeelte van de laadruimte dat is ingericht voor het vervoer van personen geen vaste wand bestaat, geldt het volgende. Voor het bepalen van de lengte van de laadruimte wordt ervan uitgegaan dat de laadruimte van de cabine is afgescheiden door middel van een fictieve vaste wand die 115 cm achter het achterste punt van het stuurwiel is geplaatst.  
 
@@ -398,16 +398,16 @@ d. Het motorrijtuig heeft een toegestane maximum massa van meer dan 3.500 kg.
 
 ####Motorrijwielen
 
-Motorrijwielen zijn motorrijtuigen op twee wielen ook als een dergelijk motorrijtuig is verbonden met een zijspanwagen (artikel 4, eerste lid, van de wet).   
+Motorrijwielen zijn motorrijtuigen op twee wielen ook als een dergelijk motorrijtuig is verbonden met een zijspanwagen ([artikel 4, eerste lid, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 ### 4.1  
 
 ####Trike
 
-Een trike is een motorrijtuig op meer dan twee wielen die een grote gelijkenis vertoont met motorrijwielen. Onder voorwaarden kan een trike met een motorrijwiel worden gelijkgesteld (artikel 4 van de regeling). Het is mogelijk dat een trike afwijkt van een (of meer) van de voorwaarden die worden genoemd in het besluit en dus als personenauto moet worden aangemerkt.   
+Een trike is een motorrijtuig op meer dan twee wielen die een grote gelijkenis vertoont met motorrijwielen. Onder voorwaarden kan een trike met een motorrijwiel worden gelijkgesteld ([artikel 4 van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Het is mogelijk dat een trike afwijkt van een (of meer) van de voorwaarden die worden genoemd in het besluit en dus als personenauto moet worden aangemerkt.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een trike met een motorrijwiel kan worden gelijkgesteld, als op basis van alle verschillende kenmerken, de uiterlijke verschijning en de maatschappelijke aard van het motorrijtuig de trike een grote gelijkenis vertoont met een motorrijwiel. De kenmerken moeten in hun onderlinge samenhang worden bezien, waarbij niet aan één van de kenmerken doorslaggevende betekenis toekomt.    
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een trike met een motorrijwiel kan worden gelijkgesteld, als op basis van alle verschillende kenmerken, de uiterlijke verschijning en de maatschappelijke aard van het motorrijtuig de trike een grote gelijkenis vertoont met een motorrijwiel. De kenmerken moeten in hun onderlinge samenhang worden bezien, waarbij niet aan één van de kenmerken doorslaggevende betekenis toekomt.    
 ### 4.1.1  
 
 ####Trike voor het vervoer van drie personen
@@ -416,7 +416,7 @@ Eén van de voorwaarden waaraan een dergelijk motorrijtuig moet voldoen, is dat 
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een trike waarmee drie personen kunnen worden vervoerd, als motorrijwiel in de zin van de wet wordt aangemerkt, onder de volgende voorwaarden: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een trike waarmee drie personen kunnen worden vervoerd, als motorrijwiel in de zin van de wet wordt aangemerkt, onder de volgende voorwaarden: 
 
 – Alle kenmerken duiden er op dat er naar maatschappelijke aard en functie eerder sprake is van een motorrijwiel dan van een personenauto (zoals de aanwezigheid van een frame, de directe stuuroverbrenging naar het stuurwiel, het ontbreken van een gesloten carrosserie).  
 
@@ -431,12 +431,12 @@ Het driewielige motorrijtuig van het merk ‘Carver’ heeft in afwijking van de
 
 ####Goedkeuring
 
-Ik keur daarom met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een Carver wordt aangemerkt als een motorrijwiel in de zin van de wet. Hierbij geldt als voorwaarde dat wordt voldaan aan de kenmerken van een motorrijwiel zoals vermeld in het besluit, met uitzondering van het feit dat de Carver een gesloten carrosserie heeft. De goedkeuring geldt uiteraard ook voor soortgelijke motorrijtuigen van andere merken.      
+Ik keur daarom met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een Carver wordt aangemerkt als een motorrijwiel in de zin van de wet. Hierbij geldt als voorwaarde dat wordt voldaan aan de kenmerken van een motorrijwiel zoals vermeld in het besluit, met uitzondering van het feit dat de Carver een gesloten carrosserie heeft. De goedkeuring geldt uiteraard ook voor soortgelijke motorrijtuigen van andere merken.      
 ### 5  
 
 ####Maatstaf van heffing
 
-Met ingang van 1 januari 2013 wordt voor een personenauto de bpm geheel berekend over de CO <sub>2</sub> -uitstoot. Voor een bestelauto, een bijzondere personenauto en een motorrijwiel wordt de bpm berekend over de netto catalogusprijs. Is er geen catalogusprijs bekend, dan moet deze door vergelijking worden bepaald. Tot de catalogusprijs behoort alleen de waarde van de voorzieningen die zijn aangebracht door of namens de fabrikant of importeur (artikel 9, negende lid, van de wet).   
+Met ingang van 1 januari 2013 wordt voor een personenauto de bpm geheel berekend over de CO<sub>2</sub>-uitstoot. Voor een bestelauto, een bijzondere personenauto en een motorrijwiel wordt de bpm berekend over de netto catalogusprijs. Is er geen catalogusprijs bekend, dan moet deze door vergelijking worden bepaald. Tot de catalogusprijs behoort alleen de waarde van de voorzieningen die zijn aangebracht door of namens de fabrikant of importeur ([artikel 9, negende lid, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 ### 5.1  
 
 ####Niet fabrieksmatig vervaardigd motorrijtuig
@@ -445,7 +445,7 @@ Als een motorrijtuig is vervaardigd uit losse, grotendeels gebruikte onderdelen 
 
 ####Goedkeuring
 
-Ik keur in deze situatie met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de lagere verkoopprijs als catalogusprijs wordt beschouwd.     
+Ik keur in deze situatie met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de lagere verkoopprijs als catalogusprijs wordt beschouwd.     
 ### 5.2  
 
 ####Motorrijtuigen speciaal ingericht of aangepast voor gehandicapten
@@ -454,7 +454,7 @@ Motorrijtuigen kunnen door of namens de fabrikant of importeur speciaal worden i
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de inrichtings- en/of aanpassingskosten buiten de maatstaf van heffing voor de bpm kunnen blijven bij motorrijtuigen die door of namens de fabrikant of importeur speciaal zijn ingericht of aangepast voor gehandicapten. Onder inrichtings- en/of aanpassingskosten worden de kosten van de volgende voorzieningen verstaan: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de inrichtings- en/of aanpassingskosten buiten de maatstaf van heffing voor de bpm kunnen blijven bij motorrijtuigen die door of namens de fabrikant of importeur speciaal zijn ingericht of aangepast voor gehandicapten. Onder inrichtings- en/of aanpassingskosten worden de kosten van de volgende voorzieningen verstaan: 
 
 – Een liftinstallatie of een soortgelijke installatie, die het in- en uitrijden van rolstoelen mogelijk moet maken of vergemakkelijken.  
 
@@ -473,7 +473,7 @@ Als een gesloten bestelauto is ingericht als kampeerauto die voldoet aan de in o
 
 ####Goedkeuring
 
-Met toepassing van artikel 63 van de AWR (de hardheidsclausule) keur ik het volgende goed. Als een gesloten bestelauto wordt gebruikt als basis voor een qua wielbasis van die bestelauto afwijkende kampeerauto en voldoet aan de voorwaarden, wordt de bpm berekend over de catalogusprijs van een zoveel mogelijk met de verkregen kampeerauto vergelijkbare gesloten bestelauto. Dit geldt ook als een kampeerauto is afgeleid van een ander soort auto (bijvoorbeeld een chassis-cabine). Daarbij wordt achtereenvolgens rekening gehouden met: 
+Met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) keur ik het volgende goed. Als een gesloten bestelauto wordt gebruikt als basis voor een qua wielbasis van die bestelauto afwijkende kampeerauto en voldoet aan de voorwaarden, wordt de bpm berekend over de catalogusprijs van een zoveel mogelijk met de verkregen kampeerauto vergelijkbare gesloten bestelauto. Dit geldt ook als een kampeerauto is afgeleid van een ander soort auto (bijvoorbeeld een chassis-cabine). Daarbij wordt achtereenvolgens rekening gehouden met: 
 
 – het merk en type van de gebruikte auto of chassis-cabine;  
 
@@ -488,7 +488,7 @@ Een kampeerauto heeft twee functies. Enerzijds dient hij voor het vervoer van pe
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de bpm voor kampeerauto’s niet wordt berekend over dat deel van de catalogusprijs dat is toe te rekenen aan de recreatieve functie. Ik stel hierbij de volgende cumulatieve voorwaarden aan de binnenruimte van deze kampeerauto. De binnenruimte ligt achter de stoelen voor de bestuurder en de bijrijder en is bestemd voor het verblijf en de overnachting. 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de bpm voor kampeerauto’s niet wordt berekend over dat deel van de catalogusprijs dat is toe te rekenen aan de recreatieve functie. Ik stel hierbij de volgende cumulatieve voorwaarden aan de binnenruimte van deze kampeerauto. De binnenruimte ligt achter de stoelen voor de bestuurder en de bijrijder en is bestemd voor het verblijf en de overnachting. 
 
 * De binnenruimte van het als kampeerauto ingerichte motorrijtuig moet minimaal 170 cm hoog zijn (stahoogte), over een lengte van minimaal 200 cm en over een breedte van minimaal 90 cm: 
 
@@ -515,16 +515,16 @@ Motorrijtuigen kunnen door of namens de fabrikant of importeur worden bepantserd
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de kosten die specifiek op de bepantsering betrekking hebben, buiten de maatstaf van heffing kunnen blijven. Deze goedkeuring ziet niet op voorzieningen waarvan de aanbrenging bij gepantserde auto’s noodzakelijk of gewenst is, maar die in andere motorrijtuigen op de gebruikelijke wijze in de heffing worden betrokken. Bijvoorbeeld airconditioning, centrale vergrendeling, elektrisch verstelbare buitenspiegels, radio- en telefooninstallatie, stuurbekrachtiging en elektrisch bedienbare ramen.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de kosten die specifiek op de bepantsering betrekking hebben, buiten de maatstaf van heffing kunnen blijven. Deze goedkeuring ziet niet op voorzieningen waarvan de aanbrenging bij gepantserde auto’s noodzakelijk of gewenst is, maar die in andere motorrijtuigen op de gebruikelijke wijze in de heffing worden betrokken. Bijvoorbeeld airconditioning, centrale vergrendeling, elektrisch verstelbare buitenspiegels, radio- en telefooninstallatie, stuurbekrachtiging en elektrisch bedienbare ramen.     
 ### 5.5  
 
 ####Motorrijtuigen voor het vervoer van zieken en gewonden
 
-Motorrijtuigen kunnen door of namens de fabrikant of importeur geschikt zijn gemaakt of ingericht als motorrijtuig voor het vervoer van zieken en gewonden (artikel 15, eerste lid onder d, van de wet).   
+Motorrijtuigen kunnen door of namens de fabrikant of importeur geschikt zijn gemaakt of ingericht als motorrijtuig voor het vervoer van zieken en gewonden ([artikel 15, eerste lid onder d, van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de kosten die specifiek zijn verbonden aan het inrichten of geschikt maken voor het vervoer van zieken en gewonden, buiten de maatstaf van heffing kunnen blijven. Het gaat hierbij bijvoorbeeld om de kosten die een ombouwer of een carrosseriebedrijf moet maken om een motorrijtuig te laten voldoen aan het gestelde in het Eisenbesluit ambulancevervoer.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de kosten die specifiek zijn verbonden aan het inrichten of geschikt maken voor het vervoer van zieken en gewonden, buiten de maatstaf van heffing kunnen blijven. Het gaat hierbij bijvoorbeeld om de kosten die een ombouwer of een carrosseriebedrijf moet maken om een motorrijtuig te laten voldoen aan het gestelde in het Eisenbesluit ambulancevervoer.     
 ### 5.6  
 
 ####Motorrijtuigen die worden ingezet bij rampen en dergelijke
@@ -533,7 +533,7 @@ Motorrijtuigen kunnen door of namens de fabrikant of importeur multifunctioneel 
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat er geen bpm wordt geheven over dat deel van de voor de motorrijtuigen geldende catalogusprijzen, dat is toe te rekenen aan de op de motorrijtuigen aangebrachte hulpverleningsvoorzieningen.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat er geen bpm wordt geheven over dat deel van de voor de motorrijtuigen geldende catalogusprijzen, dat is toe te rekenen aan de op de motorrijtuigen aangebrachte hulpverleningsvoorzieningen.     
 ### 5.7  
 
 ####Bestelauto’s van het type chassiscabine met specifieke voorzieningen
@@ -542,7 +542,7 @@ Er zijn bestelauto’s die veelal op basis van een zogenoemde chassiscabine naar
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat bij bestelauto’s van het type chassiscabine, die naar de specifieke wensen van de gebruiker zijn aangepast of ingericht, de kosten van specifieke aanpassingen voor het bedrijfsmatige gebruik buiten de maatstaf van heffing blijven. Dit betekent dat tot de catalogusprijs van een chassiscabine of een bestelauto met specifieke voorzieningen niet behoren de voorzieningen die zijn aangebracht in of aan de laadruimte. Als deze voorzieningen ten dienste staan aan het vervoer van personen in de cabine (airco, geluidsinstallatie, routeplanner en dergelijke) wordt de waarde daarvan echter wel in de maatstaf van heffing betrokken.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat bij bestelauto’s van het type chassiscabine, die naar de specifieke wensen van de gebruiker zijn aangepast of ingericht, de kosten van specifieke aanpassingen voor het bedrijfsmatige gebruik buiten de maatstaf van heffing blijven. Dit betekent dat tot de catalogusprijs van een chassiscabine of een bestelauto met specifieke voorzieningen niet behoren de voorzieningen die zijn aangebracht in of aan de laadruimte. Als deze voorzieningen ten dienste staan aan het vervoer van personen in de cabine (airco, geluidsinstallatie, routeplanner en dergelijke) wordt de waarde daarvan echter wel in de maatstaf van heffing betrokken.     
 ### 5.8  
 
 ####Afleveringskosten
@@ -551,7 +551,7 @@ Bij aflevering worden diverse kosten in levering gebracht (afleveringskosten) di
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat deze afleveringskosten niet in de catalogusprijs worden begrepen voor zover deze kosten reëel zijn.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat deze afleveringskosten niet in de catalogusprijs worden begrepen voor zover deze kosten reëel zijn.     
 ### 5.9  
 
 ####Verzekeringskosten
@@ -560,7 +560,7 @@ In de catalogusprijs kan een bedrag begrepen zijn waarvoor importeurs of fabrika
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de waarde van een dergelijk verzekeringspakket niet in de catalogusprijs wordt begrepen. Ik stel hierbij de volgende voorwaarden: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de waarde van een dergelijk verzekeringspakket niet in de catalogusprijs wordt begrepen. Ik stel hierbij de volgende voorwaarden: 
 
 – De desbetreffende importeurs of fabrikanten dragen vorenbedoeld bedrag af aan een verzekeringsmaatschappij, of brengen het ten gunste van een rekening ‘assurantie eigen risico’.  
 
@@ -577,7 +577,7 @@ Als de fabrikant of importeur de verwijderingsbijdrage in de catalogusprijs opne
 
 ####Goedkeuring
 
-Om deze ongelijkheid weg te nemen, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de verwijderingsbijdrage buiten de maatstaf van heffing kan worden gelaten. Ik stel hierbij de voorwaarde dat de fabrikant of importeur bij het kenbaar maken van de catalogusprijs er afzonderlijk melding van heeft gemaakt dat de verwijderingsbijdrage in de catalogusprijs is begrepen.      
+Om deze ongelijkheid weg te nemen, keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de verwijderingsbijdrage buiten de maatstaf van heffing kan worden gelaten. Ik stel hierbij de voorwaarde dat de fabrikant of importeur bij het kenbaar maken van de catalogusprijs er afzonderlijk melding van heeft gemaakt dat de verwijderingsbijdrage in de catalogusprijs is begrepen.      
 ### 6  
 
 ####Gebruikte motorrijtuigen
@@ -586,11 +586,11 @@ Om deze ongelijkheid weg te nemen, keur ik met toepassing van artikel 63 van de 
 
 ####Vaststellen termijn
 
-Het forfaitaire verminderingspercentage voor gebruikte motorrijtuigen is afhankelijk van de tijdsduur die is verstreken tussen het tijdstip waarop het motorvoertuig voor het eerst in gebruik is genomen en de datum waarop het kenteken te naam wordt gesteld. Aangevers van personenauto’s en motorrijwielen die niet in het bezit zijn van een vergunning (artikel 8 van de wet) moeten aangifte doen vóórdat het kenteken op naam wordt gesteld. Het moment van het doen van aangifte en het moment van tenaamstelling, kunnen daardoor gelegen zijn in twee verschillende maanden. Als op het moment van het doen van aangifte hiermee geen rekening wordt gehouden, wordt in sommige situaties een te hoog bedrag aan bpm vastgesteld.   
+Het forfaitaire verminderingspercentage voor gebruikte motorrijtuigen is afhankelijk van de tijdsduur die is verstreken tussen het tijdstip waarop het motorvoertuig voor het eerst in gebruik is genomen en de datum waarop het kenteken te naam wordt gesteld. Aangevers van personenauto’s en motorrijwielen die niet in het bezit zijn van een vergunning ([artikel 8 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)) moeten aangifte doen vóórdat het kenteken op naam wordt gesteld. Het moment van het doen van aangifte en het moment van tenaamstelling, kunnen daardoor gelegen zijn in twee verschillende maanden. Als op het moment van het doen van aangifte hiermee geen rekening wordt gehouden, wordt in sommige situaties een te hoog bedrag aan bpm vastgesteld.   
 
 ####Goedkeuring
 
-Om tot een voor de praktijk werkbare oplossing te komen, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) het volgende goed. Bij het bepalen van het forfaitaire verminderingspercentage mag rekening gehouden worden met een periode die is gelegen tussen het moment waarop aangifte wordt gedaan en het moment waarop het te naam wordt gesteld. Ik stel deze periode op 5 werkdagen.      
+Om tot een voor de praktijk werkbare oplossing te komen, keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) het volgende goed. Bij het bepalen van het forfaitaire verminderingspercentage mag rekening gehouden worden met een periode die is gelegen tussen het moment waarop aangifte wordt gedaan en het moment waarop het te naam wordt gesteld. Ik stel deze periode op 5 werkdagen.      
 ### 7  
 
 ####Vrijstellingen
@@ -603,7 +603,7 @@ Nederlandse ingezetenen die deelnemen aan rally’s, kunnen gebruik maken van ni
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in dit soort gevallen (tijdelijke) vrijstelling van bpm kan worden verleend. Ik stel hierbij de volgende voorwaarden: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in dit soort gevallen (tijdelijke) vrijstelling van bpm kan worden verleend. Ik stel hierbij de volgende voorwaarden: 
 
 – De vrijstelling wordt slechts verleend voor rally-auto’s en -motoren die deelnemen aan sportwedstrijden die worden georganiseerd onder auspiciën van de KNAC Nationale Autosportfederatie.  
 
@@ -612,7 +612,7 @@ Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat
 
 ####Ondernemersvrijstelling
 
-De bestelauto van een ondernemer kan vrijgesteld zijn van bpm onder de voorwaarde dat de ondernemer de bestelauto meer dan bijkomstige gebruikt in het kader van zijn onderneming (artikel 13a van de wet). Onder meer dan bijkomstig gebruik wordt in dit verband verstaan meer dan 10% van het totale gebruik van de bestelauto.   
+De bestelauto van een ondernemer kan vrijgesteld zijn van bpm onder de voorwaarde dat de ondernemer de bestelauto meer dan bijkomstige gebruikt in het kader van zijn onderneming ([artikel 13a van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Onder meer dan bijkomstig gebruik wordt in dit verband verstaan meer dan 10% van het totale gebruik van de bestelauto.   
 ### 7.2.1  
 
 ####Maten en firmanten
@@ -621,16 +621,16 @@ Een maatschap kan ondernemer zijn. Omdat een maatschap geen rechtspersoon is, ka
 
 ####Goedkeuring
 
-Ik keur daarom met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een maat of firmant voor de toepassing van de ondernemersvrijstelling op verzoek als ondernemer worden aangemerkt. Ik stel daarbij de voorwaarde dat de bestelauto die op naam van de maat of firmant staat meer dan bijkomstig wordt gebruikt ten behoeve van de onderneming van de maatschap of firma waaraan hij deelneemt. Voor toepassing van de ondernemersvrijstelling is de maat of firmant op wiens naam het kenteken is gesteld degene die de verplichtingen moet nakomen. Als niet langer aan de voorwaarden en beperkingen van de ondernemersvrijstelling wordt voldaan, wordt de kentekenhouder het resterende bedrag aan bpm verschuldigd.     
+Ik keur daarom met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een maat of firmant voor de toepassing van de ondernemersvrijstelling op verzoek als ondernemer worden aangemerkt. Ik stel daarbij de voorwaarde dat de bestelauto die op naam van de maat of firmant staat meer dan bijkomstig wordt gebruikt ten behoeve van de onderneming van de maatschap of firma waaraan hij deelneemt. Voor toepassing van de ondernemersvrijstelling is de maat of firmant op wiens naam het kenteken is gesteld degene die de verplichtingen moet nakomen. Als niet langer aan de voorwaarden en beperkingen van de ondernemersvrijstelling wordt voldaan, wordt de kentekenhouder het resterende bedrag aan bpm verschuldigd.     
 ### 7.2.2  
 
-####onbedoelde tenaamstelling
+#### onbedoelde tenaamstelling
 
 In de praktijk vindt soms per abuis een eerste tenaamstelling op de verkeerde persoon plaats. Door een fout of onachtzaamheid wordt de bestelauto gesteld op naam van een persoon die niet als ondernemer is aan te merken. Door deze onbedoelde eerste tenaamstelling kan formeel geen aanspraak worden gemaakt op de ondernemersvrijstelling. Ik vind het onwenselijk dat om deze reden een bestelauto die duidelijk is bedoeld om te worden gebruikt in het kader van de onderneming, wordt uitgesloten van de vrijstelling.   
 
 ####Goedkeuring
 
-Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de vrijstelling alsnog wordt verleend als bij eerste tenaamstelling een bestelauto abusievelijk niet op naam is gesteld van een ondernemer. Ik stel hierbij de volgende voorwaarden. 
+Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de vrijstelling alsnog wordt verleend als bij eerste tenaamstelling een bestelauto abusievelijk niet op naam is gesteld van een ondernemer. Ik stel hierbij de volgende voorwaarden. 
 
 – De kennelijke onbedoeldheid bij de tenaamstelling is of wordt zo spoedig mogelijk hersteld. Dat betekent dat het kenteken van de bestelauto zo spoedig mogelijk, doch in ieder geval binnen één kalendermaand, op naam wordt gesteld van de ondernemer voor wie de auto is bestemd.  
 
@@ -639,25 +639,25 @@ Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) g
 
 ####Lease en verhuur
 
-Een ondernemer kan een bestelauto waarvoor hij vrijstelling heeft gekregen leasen of verhuren aan een derde. De periode van terbeschikkingstelling waarbinnen de hoedanigheid van de lessee of huurder voor de ondernemersvrijstelling geen rol speelt, is vastgesteld op vier weken (artikel 8c van de regeling). Deze periode wordt verminderd met eventuele aansluitende eerdere perioden van terbeschikkingstelling van dezelfde of een andere bestelauto door de ondernemer aan dezelfde persoon. Als de bestelauto aansluitend wordt verhuurd door verschillende filialen van dezelfde onderneming is het mogelijk dat die filialen onderling niet weten en ook niet kunnen weten dat hiervan sprake is. Bijvoorbeeld omdat de administratie van een filiaal niet vanuit andere filialen kan worden geraadpleegd.   
+Een ondernemer kan een bestelauto waarvoor hij vrijstelling heeft gekregen leasen of verhuren aan een derde. De periode van terbeschikkingstelling waarbinnen de hoedanigheid van de lessee of huurder voor de ondernemersvrijstelling geen rol speelt, is vastgesteld op vier weken ([artikel 8c van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Deze periode wordt verminderd met eventuele aansluitende eerdere perioden van terbeschikkingstelling van dezelfde of een andere bestelauto door de ondernemer aan dezelfde persoon. Als de bestelauto aansluitend wordt verhuurd door verschillende filialen van dezelfde onderneming is het mogelijk dat die filialen onderling niet weten en ook niet kunnen weten dat hiervan sprake is. Bijvoorbeeld omdat de administratie van een filiaal niet vanuit andere filialen kan worden geraadpleegd.   
 
 ####Goedkeuring
 
-Uit praktische overwegingen keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) voor deze situatie goed, dat de periode van terbeschikkingstelling per filiaal kan worden beoordeeld.     
+Uit praktische overwegingen keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) voor deze situatie goed, dat de periode van terbeschikkingstelling per filiaal kan worden beoordeeld.     
 ### 7.2.4  
 
 ####Onbedoelde tenaamstelling als personenauto
 
-De ondernemersvrijstelling geldt alleen voor bestelauto’s die op naam worden gesteld van een ondernemer. Het komt voor dat een tot bestelauto omgebouwde personenauto voor de eerste ingebruikname onbedoeld als personenauto moet worden geregistreerd. Dit betekent dat voor deze bestelauto geen gebruik kan worden gemaakt van de vrijstelling bpm (artikel 13a van de wet). Het gaat om de volgende situatie. Een personenauto wordt tot bestelauto omgebouwd voordat de auto voor de eerste keer te naam is gesteld. De registratie is pas voltooid op het moment dat het kenteken wordt voorzien van een datum en op naam wordt gesteld. Omdat de ombouw tot bestelauto is voltooid voor de eerste tenaamstelling, zou de ondernemersvrijstelling moeten kunnen gelden. Door de regelgeving die de RDW hanteert, is het soms echter niet mogelijk om dergelijke auto’s direct als bestelauto te keuren en te naam te stellen. Dat betekent dat deze auto’s eerst als personenauto worden tenaamgesteld en vervolgens worden omgekeurd tot bestelauto. Bij de tenaamstelling als personenauto geldt geen vrijstelling voor ondernemers.   
+De ondernemersvrijstelling geldt alleen voor bestelauto’s die op naam worden gesteld van een ondernemer. Het komt voor dat een tot bestelauto omgebouwde personenauto voor de eerste ingebruikname onbedoeld als personenauto moet worden geregistreerd. Dit betekent dat voor deze bestelauto geen gebruik kan worden gemaakt van de vrijstelling bpm ([artikel 13a van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Het gaat om de volgende situatie. Een personenauto wordt tot bestelauto omgebouwd voordat de auto voor de eerste keer te naam is gesteld. De registratie is pas voltooid op het moment dat het kenteken wordt voorzien van een datum en op naam wordt gesteld. Omdat de ombouw tot bestelauto is voltooid voor de eerste tenaamstelling, zou de ondernemersvrijstelling moeten kunnen gelden. Door de regelgeving die de RDW hanteert, is het soms echter niet mogelijk om dergelijke auto’s direct als bestelauto te keuren en te naam te stellen. Dat betekent dat deze auto’s eerst als personenauto worden tenaamgesteld en vervolgens worden omgekeurd tot bestelauto. Bij de tenaamstelling als personenauto geldt geen vrijstelling voor ondernemers.   
 
 ####Goedkeuring
 
-Ik keur daarom met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat voor deze tot bestelauto omgebouwde auto’s gebruik kan worden gemaakt van de ondernemersvrijstelling. Ik stel daarbij de voorwaarde dat de ombouw tot bestelauto voltooid was voordat de eerste tenaamstelling als personenauto plaats vond, de bestelauto’s op naam staat van een ondernemer die de bestelauto meer dan bijkomstig gebruikt in het kader van zijn onderneming. Ook moet de auto als bedrijfsauto zijn gekentekend (grijs kenteken).        
+Ik keur daarom met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat voor deze tot bestelauto omgebouwde auto’s gebruik kan worden gemaakt van de ondernemersvrijstelling. Ik stel daarbij de voorwaarde dat de ombouw tot bestelauto voltooid was voordat de eerste tenaamstelling als personenauto plaats vond, de bestelauto’s op naam staat van een ondernemer die de bestelauto meer dan bijkomstig gebruikt in het kader van zijn onderneming. Ook moet de auto als bedrijfsauto zijn gekentekend (grijs kenteken).        
 ### 8  
 
 ####Teruggaaf voor motorrijtuigen met een bijzondere bestemming
 
-Er geldt onder bepaalde voorwaarden een teruggaafregeling voor een aantal categorieën motorrijtuigen met een bijzondere bestemming (artikel 15 van de wet). Een aantal voertuigen wordt niet met name in de wet genoemd maar hebben wel eenzelfde bijzondere bestemming. Het gaat om andere motorrijtuigen die worden gebruikt voor spoedeisende medische hulpverlening, motorrijtuigen in gebruik bij reddingsbrigades en lijkauto’s.   
+Er geldt onder bepaalde voorwaarden een teruggaafregeling voor een aantal categorieën motorrijtuigen met een bijzondere bestemming ([artikel 15 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Een aantal voertuigen wordt niet met name in de wet genoemd maar hebben wel eenzelfde bijzondere bestemming. Het gaat om andere motorrijtuigen die worden gebruikt voor spoedeisende medische hulpverlening, motorrijtuigen in gebruik bij reddingsbrigades en lijkauto’s.   
 ### 8.1  
 
 ####Andere motorrijtuigen in gebruik bij ambulancediensten
@@ -666,13 +666,13 @@ De ambulancebranche maakt naast ambulances steeds meer gebruik van andersoortige
 
 ####Goedkeuring
 
-Ik keur in dit verband met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de teruggaaf voor ambulances ook kan worden verleend voor andere motorrijtuigen dan personenauto’s. Deze motorrijtuigen moeten uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende cumulatieve eisen voldoen: 
+Ik keur in dit verband met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de teruggaaf voor ambulances ook kan worden verleend voor andere motorrijtuigen dan personenauto’s. Deze motorrijtuigen moeten uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende cumulatieve eisen voldoen: 
 
-– Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulance zorg;  
+– Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulance zorg](../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md);  
 
-– Het motorrijtuig moet voorzien zijn van de binnen de branche voorgeschreven striping en het symbool als opgenomen in de bijlage bij de Regeling optische en geluidssignalen 2009;  
+– Het motorrijtuig moet voorzien zijn van de binnen de branche voorgeschreven striping en het symbool als opgenomen in de bijlage bij de [Regeling optische en geluidssignalen 2009](../../../../ministeriele-regeling/regeling/optische/en/geluidssignalen/2009/BWBR0025357/README.md);  
 
-– Het motorrijtuig moet voorzien zijn van optische en geluidssignalen en moet toestemming hebben tot het voeren van deze signalen op grond van de Regeling optische en geluidssignalen 2009.   Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken maar overigens wel voldoen aan de genoemde cumulatieve eisen, wordt geen teruggaaf van belasting verleend. Dit geldt ook voor multifunctioneel ingerichte motorrijtuigen die worden ingezet bij rampen en calamiteiten, zoals de zogenoemde geneeskundige (GNK)-voertuigen en commandovoertuigen, die dienen voor het vervoer van mensen en materieel en daarvoor speciaal zijn ingericht.    
+– Het motorrijtuig moet voorzien zijn van optische en geluidssignalen en moet toestemming hebben tot het voeren van deze signalen op grond van de [Regeling optische en geluidssignalen 2009](../../../../ministeriele-regeling/regeling/optische/en/geluidssignalen/2009/BWBR0025357/README.md).   Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken maar overigens wel voldoen aan de genoemde cumulatieve eisen, wordt geen teruggaaf van belasting verleend. Dit geldt ook voor multifunctioneel ingerichte motorrijtuigen die worden ingezet bij rampen en calamiteiten, zoals de zogenoemde geneeskundige (GNK)-voertuigen en commandovoertuigen, die dienen voor het vervoer van mensen en materieel en daarvoor speciaal zijn ingericht.    
 ### 8.2  
 
 ####Motorrijtuigen in gebruik bij reddingsbrigades
@@ -681,7 +681,7 @@ Reddingsbrigades zetten motorrijtuigen in voor het redden van drenkelingen. Deze
 
 ####Goedkeuring
 
-Ik keur onder de volgende voorwaarden met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat onder ambulances tevens worden begrepen motorrijtuigen die worden ingezet voor het redden van drenkelingen.    
+Ik keur onder de volgende voorwaarden met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat onder ambulances tevens worden begrepen motorrijtuigen die worden ingezet voor het redden van drenkelingen.    
 
 ####Voorwaarden
 
@@ -703,7 +703,7 @@ b. het motorrijtuig is uitgevoerd in de kleur oranje;
 
 c. het motorrijtuig is geregistreerd op naam van een rechtspersoon die zich richt op het voorkomen van de verdrinkingsdood;  
 
-d. het motorrijtuig wordt uitsluitend gebruikt voor activiteiten gericht op het redden van drenkelingen.   De voorwaarden die in artikel 5 van het besluit worden gesteld aan het teruggaafverzoek zijn van overeenkomstige toepassing.      
+d. het motorrijtuig wordt uitsluitend gebruikt voor activiteiten gericht op het redden van drenkelingen.   De voorwaarden die in [artikel 5 van het besluit](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md) worden gesteld aan het teruggaafverzoek zijn van overeenkomstige toepassing.      
 ### 8.3  
 
 ####Occasion lijkwagen
@@ -712,11 +712,11 @@ d. het motorrijtuig wordt uitsluitend gebruikt voor activiteiten gericht op het 
 
 ####Voortzetting occasion lijkwagen na tussenkomst van een carrosseriebedrijf
 
-Wanneer een begrafenisondernemer een lijkwagen inruilt bij een carrosseriebedrijf moet hij alsnog een bedrag aan bpm voldoen (artikel 9 van het besluit). De begrafenisondernemer die de occasion lijkwagen aankoopt van het carrosseriebedrijf kan geen bpm terugvragen. Als de begrafenisondernemer de lijkwagen echter rechtstreeks zou doorverkopen aan een volgende begrafenisondernemer die de lijkwagen wederom als zodanig gaat gebruiken, kan het motorrijtuig zonder heffing van bpm van de eerste aan de tweede eigenaar worden overgedragen.   
+Wanneer een begrafenisondernemer een lijkwagen inruilt bij een carrosseriebedrijf moet hij alsnog een bedrag aan bpm voldoen ([artikel 9 van het besluit](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md)). De begrafenisondernemer die de occasion lijkwagen aankoopt van het carrosseriebedrijf kan geen bpm terugvragen. Als de begrafenisondernemer de lijkwagen echter rechtstreeks zou doorverkopen aan een volgende begrafenisondernemer die de lijkwagen wederom als zodanig gaat gebruiken, kan het motorrijtuig zonder heffing van bpm van de eerste aan de tweede eigenaar worden overgedragen.   
 
 ####Goedkeuring
 
-Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de begrafenisondernemer ook bij de aankoop van een occasion lijkwagen van een carrosseriebedrijf bpm kan terugvragen. Ik stel hierbij de voorwaarde dat de begrafenisondernemer lijkwagen daadwerkelijk als zodanig gaat gebruiken.     
+Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de begrafenisondernemer ook bij de aankoop van een occasion lijkwagen van een carrosseriebedrijf bpm kan terugvragen. Ik stel hierbij de voorwaarde dat de begrafenisondernemer lijkwagen daadwerkelijk als zodanig gaat gebruiken.     
 ### 8.3.2  
 
 ####Ombouw tot occasion lijkwagen
@@ -725,12 +725,12 @@ Een begrafenisondernemer koopt een al in Nederland geregistreerde en gebruikte p
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in deze situatie de begrafenisondernemer teruggaaf kan krijgen van het op het motorrijtuig drukkende restbedrag aan bpm. Er moet dan wel zijn voldaan aan alle overige voorwaarden en bepalingen die voor het verlenen van teruggaaf van bpm voor dergelijke motorrijtuigen gelden.       
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in deze situatie de begrafenisondernemer teruggaaf kan krijgen van het op het motorrijtuig drukkende restbedrag aan bpm. Er moet dan wel zijn voldaan aan alle overige voorwaarden en bepalingen die voor het verlenen van teruggaaf van bpm voor dergelijke motorrijtuigen gelden.       
 ### 9  
 
 ####Gehandicaptenregeling
 
-Een gehandicapte die voor zijn eigen vervoer en tegelijkertijd het vervoer van zijn niet-opvouwbare rolstoel is aangewezen op een bestelauto, kan op verzoek teruggaaf van bpm krijgen (artikel 15a van de wet).   
+Een gehandicapte die voor zijn eigen vervoer en tegelijkertijd het vervoer van zijn niet-opvouwbare rolstoel is aangewezen op een bestelauto, kan op verzoek teruggaaf van bpm krijgen ([artikel 15a van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)).   
 ### 9.1  
 
 ####Inrichting bestelauto
@@ -739,7 +739,7 @@ De gehandicaptenregeling geldt alleen voor bestelauto’s, die zijn ingericht en
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de gehandicaptenregeling van toepassing is als de niet-opvouwbare rolstoel of het rolbed in de bestuurderscabine is bevestigd. Ik stel hierbij de volgende voorwaarden: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de gehandicaptenregeling van toepassing is als de niet-opvouwbare rolstoel of het rolbed in de bestuurderscabine is bevestigd. Ik stel hierbij de volgende voorwaarden: 
 
 – Er moeten één of meer normale zitplaatsen uit de cabine worden verwijderd. Als het gaat om een bestelauto met enkele cabine, is dat de zitplaats naast de bestuurdersstoel. Als het gaat om een bestelauto met dubbele cabine zullen één of meer zitplaatsen achter de bestuurdersstoel moeten worden verwijderd om plaats te maken voor de rolstoel of het rolbed.  
 
@@ -748,29 +748,29 @@ Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat
 
 ####Bij het verzoek te overleggen bescheiden
 
-Bij het verzoek tot toepassing van de gehandicaptenregeling moet een aantal bescheiden worden overgelegd, onder meer een beschikking ingevolge de Wet maatschappelijke ondersteuning waarin staat dat een hulpmiddel is verstrekt in het kader van deze wet (Wmo-beschikking). Het is mogelijk dat een niet-opvouwbare rolstoel of een ander in verband met de handicap noodzakelijk hulpmiddel is verstrekt door het Uitvoeringsinstituut Werknemersverzekeringen (UWV).   
+Bij het verzoek tot toepassing van de gehandicaptenregeling moet een aantal bescheiden worden overgelegd, onder meer een beschikking ingevolge de [Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) waarin staat dat een hulpmiddel is verstrekt in het kader van deze wet (Wmo-beschikking). Het is mogelijk dat een niet-opvouwbare rolstoel of een ander in verband met de handicap noodzakelijk hulpmiddel is verstrekt door het Uitvoeringsinstituut Werknemersverzekeringen (UWV).   
 
 ####Goedkeuring
 
-In dit verband keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed, dat andere bewijsmiddelen, waaruit blijkt dat de bestelauto is ingericht voor het vervoer van een gehandicapte en zijn niet-opvouwbare rolstoel of ander hulpmiddel, ook voldoen. Bijvoorbeeld foto’s, een ombouwplan, een orderbon, een offerte, een factuur van het bedrijf dat de ombouw heeft verricht, en dergelijke. Uit deze bewijsstukken moet ook blijken of, en zo ja in hoeverre, de laadruimte van de bestelauto in verband met de handicap van de gehandicapte is aangepast waardoor deze niet langer van de bestuurderszitplaats of de cabine is afgescheiden (bijvoorbeeld als de verplichte vaste wand is verwijderd tussen de laadruimte en de bestuurderszitplaats of de cabine, of als er geen vlakke laadvloer meer aanwezig is).     
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed, dat andere bewijsmiddelen, waaruit blijkt dat de bestelauto is ingericht voor het vervoer van een gehandicapte en zijn niet-opvouwbare rolstoel of ander hulpmiddel, ook voldoen. Bijvoorbeeld foto’s, een ombouwplan, een orderbon, een offerte, een factuur van het bedrijf dat de ombouw heeft verricht, en dergelijke. Uit deze bewijsstukken moet ook blijken of, en zo ja in hoeverre, de laadruimte van de bestelauto in verband met de handicap van de gehandicapte is aangepast waardoor deze niet langer van de bestuurderszitplaats of de cabine is afgescheiden (bijvoorbeeld als de verplichte vaste wand is verwijderd tussen de laadruimte en de bestuurderszitplaats of de cabine, of als er geen vlakke laadvloer meer aanwezig is).     
 ### 9.3  
 
 ####Bestelauto wordt vervangen
 
-De regeling geldt voor één bestelauto per gehandicapte (artikel 13a, eerste lid, van het besluit). De bestelauto kan binnen de teruggaafregeling worden vervangen door een andere aangepaste bestelauto. Op dat moment is het mogelijk dat de gehandicapte tijdelijk twee bestelauto’s heeft. Voor de tweede bestelauto kan hij geen teruggaaf krijgen zolang hij de rest bpm voor de eerste bestelauto nog niet heeft terugbetaald.   
+De regeling geldt voor één bestelauto per gehandicapte ([artikel 13a, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md)). De bestelauto kan binnen de teruggaafregeling worden vervangen door een andere aangepaste bestelauto. Op dat moment is het mogelijk dat de gehandicapte tijdelijk twee bestelauto’s heeft. Voor de tweede bestelauto kan hij geen teruggaaf krijgen zolang hij de rest bpm voor de eerste bestelauto nog niet heeft terugbetaald.   
 
 ####Goedkeuring
 
-In dit verband keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de gehandicapte niet eerst de belasting voor de eerdere bestelauto op aangifte hoeft te voldoen voordat hij teruggaaf voor een volgende bestelauto krijgt. Hiermee wordt voorkomen, dat de gehandicapte onder omstandigheden bij de overstap naar een andere bestelauto enige tijd niet over een aangepaste bestelauto zou kunnen beschikken, dan wel de belasting langere tijd zou moeten voorschieten. Ook worden hiermee afstemmingsproblemen voorkomen in situaties waarbij de houder van de eerdere bestelauto niet dezelfde persoon is als de gehandicapte en de houder van de volgende bestelauto. De situatie met twee bestelauto’s kan voortduren totdat de nieuwe auto afgeleverd is en in gebruik is genomen.     
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat de gehandicapte niet eerst de belasting voor de eerdere bestelauto op aangifte hoeft te voldoen voordat hij teruggaaf voor een volgende bestelauto krijgt. Hiermee wordt voorkomen, dat de gehandicapte onder omstandigheden bij de overstap naar een andere bestelauto enige tijd niet over een aangepaste bestelauto zou kunnen beschikken, dan wel de belasting langere tijd zou moeten voorschieten. Ook worden hiermee afstemmingsproblemen voorkomen in situaties waarbij de houder van de eerdere bestelauto niet dezelfde persoon is als de gehandicapte en de houder van de volgende bestelauto. De situatie met twee bestelauto’s kan voortduren totdat de nieuwe auto afgeleverd is en in gebruik is genomen.     
 ### 9.4  
 
 ####Teruggaaf bestelauto’s voor gehandicapten
 
-Er bestaat recht op teruggaaf van bpm als een bestelauto is ingericht voor gehandicaptenvervoer (artikel 15a van de wet). Voor een nieuwe bestelauto wordt de betaalde bpm volledig teruggegeven. Voor een gebruikte auto wordt het restbedrag bpm teruggegeven. Het komt voor dat eerst een kentekenbewijs wordt afgegeven en de nieuwe of gebruikte auto pas daarna wordt (omgebouwd tot bestelauto en) ingericht om voor gehandicaptenvervoer te kunnen worden gebruikt. De aanspraak op de teruggaaf zou dan niet eerder dan na deze (ombouw en) aanpassing ontstaan. Dit heeft tot gevolg dat voor de berekening van het bedrag van de teruggaaf het bruto bpm-bedrag moet worden verminderd met het forfaitaire verminderingspercentage (artikel 10 van de wet). Dit leidt tot een lagere teruggaaf dan wanneer de bestelauto op het moment van afgifte van het kentekenbewijs al was ingericht voor gehandicaptenvervoer.   
+Er bestaat recht op teruggaaf van bpm als een bestelauto is ingericht voor gehandicaptenvervoer ([artikel 15a van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Voor een nieuwe bestelauto wordt de betaalde bpm volledig teruggegeven. Voor een gebruikte auto wordt het restbedrag bpm teruggegeven. Het komt voor dat eerst een kentekenbewijs wordt afgegeven en de nieuwe of gebruikte auto pas daarna wordt (omgebouwd tot bestelauto en) ingericht om voor gehandicaptenvervoer te kunnen worden gebruikt. De aanspraak op de teruggaaf zou dan niet eerder dan na deze (ombouw en) aanpassing ontstaan. Dit heeft tot gevolg dat voor de berekening van het bedrag van de teruggaaf het bruto bpm-bedrag moet worden verminderd met het forfaitaire verminderingspercentage ([artikel 10 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Dit leidt tot een lagere teruggaaf dan wanneer de bestelauto op het moment van afgifte van het kentekenbewijs al was ingericht voor gehandicaptenvervoer.   
 
 ####Goedkeuring
 
-Ik keur in dit verband met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat als datum van de aanspraak op teruggaaf de datum van deel IB van het kentekenbewijs wordt genomen. Ik stel hierbij de volgende voorwaarden: 
+Ik keur in dit verband met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat als datum van de aanspraak op teruggaaf de datum van deel IB van het kentekenbewijs wordt genomen. Ik stel hierbij de volgende voorwaarden: 
 
 – Bij de aanvraag verklaart en toont de kentekenhouder aan dat de auto direct na de tenaamstelling van het kentekenbewijs is (omgebouwd en) aangepast;  
 
@@ -779,31 +779,31 @@ Ik keur in dit verband met toepassing van artikel 63 van de AWR (de hardheidscla
 
 ####Teruggaaf voor taxi’s
 
-Voor personenauto’s die geheel of nagenoeg geheel (meer dan 90%) zijn bestemd voor taxivervoer of openbaar vervoer geldt een teruggaafregeling (artikel 16 van de wet). Met taxivervoer wordt bedoeld het vervoer dat als zodanig in de Wet personenvervoer wordt aangegeven: het personenvervoer met een personenauto tegen betaling, niet zijnde openbaar vervoer (artikel 1, onderdeel j, van de Wet personenvervoer). Een van de voorwaarden voor teruggaaf is een op grond van de Wet personenvervoer 2000 afgegeven vergunning.   
+Voor personenauto’s die geheel of nagenoeg geheel (meer dan 90%) zijn bestemd voor taxivervoer of openbaar vervoer geldt een teruggaafregeling ([artikel 16 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Met taxivervoer wordt bedoeld het vervoer dat als zodanig in de Wet personenvervoer wordt aangegeven: het personenvervoer met een personenauto tegen betaling, niet zijnde openbaar vervoer ([artikel 1, onderdeel j, van de Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)). Een van de voorwaarden voor teruggaaf is een op grond van de Wet personenvervoer 2000 afgegeven vergunning.   
 ### 10.1  
 
 ####Van WP-vergunningplicht uitgezonderd vervoer
 
-Bepaalde vormen van vervoer van personen die overeenkomsten vertonen met taxivervoer zijn uitgezonderd van de Wp-vergunningplicht (artikel 2, van het Besluit Personenvervoer 2000). Het gaat dan bijvoorbeeld om werknemersvervoer, vervoer door onderwijsinstellingen ten behoeve van hun leerlingen, vervoer door tehuizen, verpleeginrichtingen e.d. ten behoeve van hun vaste bewoners en huisartsenvervoer. In beginsel komt een personenauto waarmee dit soort vervoer, waarvoor de vergunningplicht niet geldt, wordt verricht niet voor teruggaaf in aanmerking. Wanneer echter dit soort vervoer wordt verricht met een auto waarvoor op grond van de Wet personenvervoer 2000 een vergunning is afgegeven en de bestuurder (tevens) in dienst is van de Wp-vergunninghouder, staat dit vervoer de teruggaaf niet in de weg, mits ook aan de andere voorwaarden op grond van artikel 16 van de wet is voldaan.    
+Bepaalde vormen van vervoer van personen die overeenkomsten vertonen met taxivervoer zijn uitgezonderd van de Wp-vergunningplicht ([artikel 2, van het Besluit Personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md)). Het gaat dan bijvoorbeeld om werknemersvervoer, vervoer door onderwijsinstellingen ten behoeve van hun leerlingen, vervoer door tehuizen, verpleeginrichtingen e.d. ten behoeve van hun vaste bewoners en huisartsenvervoer. In beginsel komt een personenauto waarmee dit soort vervoer, waarvoor de vergunningplicht niet geldt, wordt verricht niet voor teruggaaf in aanmerking. Wanneer echter dit soort vervoer wordt verricht met een auto waarvoor op grond van de [Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een vergunning is afgegeven en de bestuurder (tevens) in dienst is van de Wp-vergunninghouder, staat dit vervoer de teruggaaf niet in de weg, mits ook aan de andere voorwaarden op grond van [artikel 16 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md) is voldaan.    
 ### 10.2  
 
 ####Vrijwilligersvervoersprojecten
 
-De Wet personenvervoer 2000 is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat tenzij het vervoer wordt verricht in de uitoefening van een beroep of bedrijf (art. 2, lid 5, Wet Personenvervoer 2000). Personenauto’s die bijv. worden ingezet voor vrijwilligersvervoer (bijv. buurtbussen voor ouderen) en waarvoor van de klant slechts een kleine bijdrage wordt gevraagd hoeven op grond van de Wet personenvervoer 2000 niet te voldoen aan de vergunningplicht. Omdat er geen vergunningplicht is, ontbreekt er voor instellingen die met een of meer personenauto’s dit soort vervoer (tegen betaling) verrichten het recht op teruggaaf van belasting.   
+De Wet personenvervoer 2000 is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat tenzij het vervoer wordt verricht in de uitoefening van een beroep of bedrijf ([art. 2, lid 5, Wet Personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)). Personenauto’s die bijv. worden ingezet voor vrijwilligersvervoer (bijv. buurtbussen voor ouderen) en waarvoor van de klant slechts een kleine bijdrage wordt gevraagd hoeven op grond van de Wet personenvervoer 2000 niet te voldoen aan de vergunningplicht. Omdat er geen vergunningplicht is, ontbreekt er voor instellingen die met een of meer personenauto’s dit soort vervoer (tegen betaling) verrichten het recht op teruggaaf van belasting.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een dergelijke instelling op verzoek toch voor teruggaaf van de bpm in aanmerking komt. Ik stel hierbij de volgende aanvullende voorwaarden. 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een dergelijke instelling op verzoek toch voor teruggaaf van de bpm in aanmerking komt. Ik stel hierbij de volgende aanvullende voorwaarden. 
 
-– In plaats van de vereiste vergunning c.q. het vergunningbewijs zoals bedoeld in de Wet personenvervoer, wordt een schriftelijke verklaring van de instelling overgelegd. In deze verklaring is het volgende opgenomen: 
+– In plaats van de vereiste vergunning c.q. het vergunningbewijs zoals bedoeld in de [Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), wordt een schriftelijke verklaring van de instelling overgelegd. In deze verklaring is het volgende opgenomen: 
 
-a. Het vervoer kan als taxivervoer als bedoeld in de Wet personenvervoer worden aangemerkt (artikel 1, onderdeel j, van de Wet personenvervoer).  
+a. Het vervoer kan als taxivervoer als bedoeld in de Wet personenvervoer worden aangemerkt ([artikel 1, onderdeel j, van de Wet personenvervoer](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)).  
 
-b. Het vervoer wordt verricht door vrijwilligers, die daarvoor geen vergoeding ontvangen die als loon in de zin van de Wet op de loonbelasting 1964 kan worden aangemerkt.    
+b. Het vervoer wordt verricht door vrijwilligers, die daarvoor geen vergoeding ontvangen die als loon in de zin van de [Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) kan worden aangemerkt.    
 
 – De instelling voert een administratie waaruit op eenvoudige wijze de kosten en opbrengsten van dat vervoer kunnen worden opgemaakt.  
 
-– De instelling die het vervoer verricht, is zowel rechtspersoon als ondernemer in de zin van de Wet op de omzetbelasting 1968 en is als zodanig bekend bij de belastingdienst.  
+– De instelling die het vervoer verricht, is zowel rechtspersoon als ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en is als zodanig bekend bij de belastingdienst.  
 
 – Het verzoek om teruggaaf moet worden ingediend binnen 13 weken nadat het recht op teruggaaf is ontstaan.  
 
@@ -816,11 +816,11 @@ b. Het vervoer wordt verricht door vrijwilligers, die daarvoor geen vergoeding o
 
 ####Personenauto voor taxivervoer
 
-Er bestaat recht op teruggaaf van bpm voor personenauto’s die zijn bestemd voor taxivervoer (artikel 16 van de wet). De technische goedkeuring als taxi vindt dan plaats voor of gelijktijdig aan de afgifte van het kentekenbewijs. Het komt voor dat eerst een kentekenbewijs wordt afgegeven en de personenauto pas daarna wordt aangepast of omgebouwd om voor bijzonder taxivervoer (bijvoorbeeld rolstoelvervoer) te kunnen worden gebruikt. De technische (goed)keuring door de RDW als taxi vindt dan enige tijd na de datum van het kentekenbewijs plaats. De aanspraak op teruggaaf ontstaat pas op de datum van het RDW-keuringsbewijs. Dit zou tot gevolg hebben dat voor de berekening van het bedrag van de teruggaaf het bruto bpm-bedrag moet worden verminderd met het verminderingspercentage (artikel 10 van de wet). Dit leidt tot een lagere teruggaaf dan wanneer de personenauto op het moment van afgifte van het kentekenbewijs al was aangepast of omgebouwd.   
+Er bestaat recht op teruggaaf van bpm voor personenauto’s die zijn bestemd voor taxivervoer ([artikel 16 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). De technische goedkeuring als taxi vindt dan plaats voor of gelijktijdig aan de afgifte van het kentekenbewijs. Het komt voor dat eerst een kentekenbewijs wordt afgegeven en de personenauto pas daarna wordt aangepast of omgebouwd om voor bijzonder taxivervoer (bijvoorbeeld rolstoelvervoer) te kunnen worden gebruikt. De technische (goed)keuring door de RDW als taxi vindt dan enige tijd na de datum van het kentekenbewijs plaats. De aanspraak op teruggaaf ontstaat pas op de datum van het RDW-keuringsbewijs. Dit zou tot gevolg hebben dat voor de berekening van het bedrag van de teruggaaf het bruto bpm-bedrag moet worden verminderd met het verminderingspercentage ([artikel 10 van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Dit leidt tot een lagere teruggaaf dan wanneer de personenauto op het moment van afgifte van het kentekenbewijs al was aangepast of omgebouwd.   
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in een zodanige situatie als datum van de aanspraak de datum van het kentekenbewijs kan worden genomen. Ik stel hierbij de volgende voorwaarden: De aanvrager verklaart en toont aan dat de auto: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in een zodanige situatie als datum van de aanspraak de datum van het kentekenbewijs kan worden genomen. Ik stel hierbij de volgende voorwaarden: De aanvrager verklaart en toont aan dat de auto: 
 
 – direct na de tenaamstelling van het kentekenbewijs is aangepast of omgebouwd en  
 
@@ -841,7 +841,7 @@ Voor een bestelauto met datum kentekenbewijs deel IA vanaf 1 juli 2005 is al be
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in een zodanige situatie als datum van de aanspraak de datum van het kentekenbewijs kan worden genomen. Ik stel hierbij de volgende voorwaarden. De aanvrager verklaart en toont aan dat de auto: 
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in een zodanige situatie als datum van de aanspraak de datum van het kentekenbewijs kan worden genomen. Ik stel hierbij de volgende voorwaarden. De aanvrager verklaart en toont aan dat de auto: 
 
 – direct na de tenaamstelling van het kentekenbewijs is aangepast of omgebouwd en  
 
@@ -854,11 +854,11 @@ Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat
 
 ####Buiten Nederland brengen vóór ingebruikname
 
-Het is mogelijk om onder bepaalde voorwaarden bpm terug te krijgen als een motorrijtuig waarvoor bpm is voldaan, definitief buiten Nederland wordt gebracht (artikel 14a van de wet). Het teruggaafbedrag wordt dan berekend aan de hand van een verminderingspercentage (artikel 8d, eerste lid, van de regeling). Een ondernemer kan een nieuw motorrijtuig, nog voordat daarmee in Nederland gebruik van de weg is gemaakt, laten registreren en daarna buiten Nederland brengen.   
+Het is mogelijk om onder bepaalde voorwaarden bpm terug te krijgen als een motorrijtuig waarvoor bpm is voldaan, definitief buiten Nederland wordt gebracht ([artikel 14a van de wet](../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md)). Het teruggaafbedrag wordt dan berekend aan de hand van een verminderingspercentage ([artikel 8d, eerste lid, van de regeling](../../../../ministeriele-regeling/uitvoeringsregeling/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005813/README.md)). Een ondernemer kan een nieuw motorrijtuig, nog voordat daarmee in Nederland gebruik van de weg is gemaakt, laten registreren en daarna buiten Nederland brengen.   
 
 ####Goedkeuring
 
-Het motorrijtuig treedt niet feitelijk toe tot het Nederlandse wegennet, omdat het desbetreffende motorrijtuig, voordat het in gebruik wordt genomen, buiten Nederland wordt gebracht of wordt geëxporteerd. Daarom keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een ondernemer die het motorrijtuig heeft uitgevoerd in deze situatie op verzoek teruggaaf van het hele bedrag aan betaalde bpm kan krijgen, zonder rekening te hoeven houden met het verminderingspercentage. Ik stel de volgende voorwaarden aan de ondernemer die om teruggaaf verzoekt: 
+Het motorrijtuig treedt niet feitelijk toe tot het Nederlandse wegennet, omdat het desbetreffende motorrijtuig, voordat het in gebruik wordt genomen, buiten Nederland wordt gebracht of wordt geëxporteerd. Daarom keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een ondernemer die het motorrijtuig heeft uitgevoerd in deze situatie op verzoek teruggaaf van het hele bedrag aan betaalde bpm kan krijgen, zonder rekening te hoeven houden met het verminderingspercentage. Ik stel de volgende voorwaarden aan de ondernemer die om teruggaaf verzoekt: 
 
 – De ondernemer moet schriftelijk verklaren dat met het desbetreffende motorrijtuig in Nederland geen gebruik is gemaakt van de weg.  
 
@@ -879,7 +879,7 @@ Voor een gebruikt, maar nooit eerder in Nederland gebruikt, motorrijtuig waarove
 
 ####Goedkeuring
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een ondernemer voor een gebruikt, maar nooit eerder in Nederland gebruikt, motorrijtuig het hele bedrag aan betaalde bpm kan terugkrijgen. Hierbij gelden dezelfde voorwaarden als in de vorige paragraaf. Daarnaast moet de ondernemer aantonen dat het motorrijtuig niet in Nederland is gebruikt. Dit kan hij door het overleggen van het aankoopbewijs van het ingekochte motorrijtuig. Veelal zal op dit bewijs de stand van de kilometerteller zijn vastgelegd. Dit zou een indicatie voor de (in Nederland) ongebruikte staat kunnen zijn. Een aanwijzing dat het motorrijtuig niet in Nederland is gebruikt kan ook zijn als het tijdstip van de tenaamstelling (Deel I B), het moment van registratie met de status ‘Export’ bij de RDW en het tijdstip waarop om afgifte van een verklaring van ongebruikte staat wordt gevraagd, op een nagenoeg gelijk moment liggen, namelijk binnen een tijdsbestek van 14 dagen.     
+Ik keur met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat een ondernemer voor een gebruikt, maar nooit eerder in Nederland gebruikt, motorrijtuig het hele bedrag aan betaalde bpm kan terugkrijgen. Hierbij gelden dezelfde voorwaarden als in de vorige paragraaf. Daarnaast moet de ondernemer aantonen dat het motorrijtuig niet in Nederland is gebruikt. Dit kan hij door het overleggen van het aankoopbewijs van het ingekochte motorrijtuig. Veelal zal op dit bewijs de stand van de kilometerteller zijn vastgelegd. Dit zou een indicatie voor de (in Nederland) ongebruikte staat kunnen zijn. Een aanwijzing dat het motorrijtuig niet in Nederland is gebruikt kan ook zijn als het tijdstip van de tenaamstelling (Deel I B), het moment van registratie met de status ‘Export’ bij de RDW en het tijdstip waarop om afgifte van een verklaring van ongebruikte staat wordt gevraagd, op een nagenoeg gelijk moment liggen, namelijk binnen een tijdsbestek van 14 dagen.     
 ### 11.3  
 
 ####Sloop vóór ingebruikname
@@ -888,7 +888,7 @@ Een motorrijtuig treedt niet feitelijk toe tot het Nederlandse wegennet, als het
 
 ####Goedkeuring
 
-Uit praktische overwegingen keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat in dit geval de ondernemer die het motorrijtuig heeft gesloopt, het hele bedrag aan bpm kan terugkrijgen. Ik stel hierbij de volgende voorwaarden: 
+Uit praktische overwegingen keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) goed dat in dit geval de ondernemer die het motorrijtuig heeft gesloopt, het hele bedrag aan bpm kan terugkrijgen. Ik stel hierbij de volgende voorwaarden: 
 
 – De teruggaaf wordt slechts verleend als de ondernemer binnen dertien weken na de inlevering van het kentekenbewijs van het motorrijtuig bij de RDW daartoe schriftelijk verzoekt.  
 
@@ -911,7 +911,7 @@ Als een bestelauto niet langer aan de inrichtingseisen voldoet, is belasting naa
 
 ####Goedkeuring
 
-In de situaties waarin het karakter van de bestelauto slechts in geringe mate is aangetast, keur ik met toepassing van artikel 63 van de AWR (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed, dat de kentekenhouder eenmalig de gelegenheid krijgt de geconstateerde onregelmatigheden te herstellen. *Voorwaarden*: Voor deze goedkeuring gelden de volgende voorwaarden: 
+In de situaties waarin het karakter van de bestelauto slechts in geringe mate is aangetast, keur ik met toepassing van [artikel 63 van de AWR](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed, dat de kentekenhouder eenmalig de gelegenheid krijgt de geconstateerde onregelmatigheden te herstellen.  *Voorwaarden*: Voor deze goedkeuring gelden de volgende voorwaarden: 
 
 – De laadruimte voldoet aan de fiscale maten;  
 
@@ -930,14 +930,14 @@ In de situaties waarin het karakter van de bestelauto slechts in geringe mate is
 
 ####In het buitenland gekentekend motorrijtuig
 
-Het besluit kent een aantal vrijstellingsregelingen voor het gebruik van een motorrijtuig met buitenlands kenteken door een Nederlands ingezetene. De vrijstellingen van de artikelen 2 (buitenlandse werkgever) en artikel 3 (buitenlands bedrijf) worden bij vergunning verleend en zijn persoon- en motorrijtuiggebonden. Een dergelijke vergunning is niet verplicht maar geeft belanghebbende zekerheid vooraf. Als de omstandigheden waarvoor de vrijstelling is verleend, wijzigen, is de vergunning niet langer geldig. Dergelijke wijzigingen moeten worden doorgegeven aan de inspecteur, wat ook in de bijlage bij de vergunning staat vermeld. Het kan bijvoorbeeld gaan om vervanging van het motorrijtuig waarvoor de vrijstelling is verleend door een ander niet in Nederland geregistreerd motorrijtuig. Het niet hebben van een (geldige) vergunning betekent niet zonder meer dat er verschuldigdheid van bpm ontstaat als er gebruik gemaakt wordt van een motorrijtuig met een buitenlands kenteken. De inspecteur zal altijd eerst moeten onderzoeken of er in materiële zin recht op de vrijstelling bestaat. Een vergunning kan niet worden geweigerd om de enkele reden dat niet is voldaan aan een formele voorwaarde (bijvoorbeeld het aanvragen van de vergunning voor aanvang van het gebruik van de weg).      
+Het besluit kent een aantal vrijstellingsregelingen voor het gebruik van een motorrijtuig met buitenlands kenteken door een Nederlands ingezetene. De vrijstellingen van de [artikelen 2](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md) (buitenlandse werkgever) en [artikel 3](../../../../AMvB/uitvoeringsbesluit/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005807/README.md) (buitenlands bedrijf) worden bij vergunning verleend en zijn persoon- en motorrijtuiggebonden. Een dergelijke vergunning is niet verplicht maar geeft belanghebbende zekerheid vooraf. Als de omstandigheden waarvoor de vrijstelling is verleend, wijzigen, is de vergunning niet langer geldig. Dergelijke wijzigingen moeten worden doorgegeven aan de inspecteur, wat ook in de bijlage bij de vergunning staat vermeld. Het kan bijvoorbeeld gaan om vervanging van het motorrijtuig waarvoor de vrijstelling is verleend door een ander niet in Nederland geregistreerd motorrijtuig. Het niet hebben van een (geldige) vergunning betekent niet zonder meer dat er verschuldigdheid van bpm ontstaat als er gebruik gemaakt wordt van een motorrijtuig met een buitenlands kenteken. De inspecteur zal altijd eerst moeten onderzoeken of er in materiële zin recht op de vrijstelling bestaat. Een vergunning kan niet worden geweigerd om de enkele reden dat niet is voldaan aan een formele voorwaarde (bijvoorbeeld het aanvragen van de vergunning voor aanvang van het gebruik van de weg).      
 ### 13  
 
 ####Ingetrokken regelingen
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit: 
 
-– besluit van 27 juni 2012, BLKB2012/1106M;  
+– [besluit van 27 juni 2012](../../../../beleidsregel/kaderbesluit/bpm/BWBR0031744/README.md), BLKB2012/1106M;  
 
 – besluit van 26 april 1995, nr. VB95/282.      
 ### 14  
@@ -950,5 +950,5 @@ Den Haag
 4 maart 2014   
 
 De 
-Staatssecretaris van Financiën,
-E.D.Wiebes   
+Staatssecretaris van Financiën, 
+E.D. Wiebes     

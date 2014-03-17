@@ -12,13 +12,13 @@ Besluit:
 
 ####Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in bijlage 1 bij deze regeling.  
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Vaststelling examenprogramma’s vmbo
 
-De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in bijlage 2 bij deze regeling.  
+De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in bijlage 2 bij deze regeling. 
 
 ### Artikel  3  
 
@@ -26,45 +26,45 @@ De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in bijlage 2
 
 De volgende regelingen worden ingetrokken: 
 
-a.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Nederlands en moderne vreemde talen](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./nederlands/en/moderne/etc/BWBR0009587/README.md)   
+a.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Nederlands en moderne vreemde talen](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./nederlands/en/moderne/etc/BWBR0009587/README.md)
 
-b. Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Fries  
+b.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Fries
 
-c.  [Regeling examenprogramma’s profielen v.w.o. klassieke talen en cultuur](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o./klassieke/talen/en/cultuur/BWBR0009588/README.md)   
+c.[Regeling examenprogramma’s profielen v.w.o. klassieke talen en cultuur](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o./klassieke/talen/en/cultuur/BWBR0009588/README.md)
 
-d.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. wiskunde](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./wiskunde/BWBR0009593/README.md)   
+d.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. wiskunde](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./wiskunde/BWBR0009593/README.md)
 
-e.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. natuurwetenschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./etc/BWBR0009589/README.md)   
+e.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. natuurwetenschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./etc/BWBR0009589/README.md)
 
-f.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. maatschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./maatschappelijke/vakken/BWBR0009596/README.md)   
+f.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. maatschappelijke vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/proﬁelen/v.w.o.h.a.v.o./maatschappelijke/vakken/BWBR0009596/README.md)
 
-g.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. economische vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./economische/vakken/BWBR0009590/README.md)   
+g.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. economische vakken](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./economische/vakken/BWBR0009590/README.md)
 
-h.  [Regeling examenprogramma’s profielen v.w.o./h.a.vo. CKV 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/profielen/v.w.o.h.a.v.o./ckv1/BWBR0009595/README.md)   
+h.[Regeling examenprogramma’s profielen v.w.o./h.a.vo. CKV 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/profielen/v.w.o.h.a.v.o./ckv1/BWBR0009595/README.md)
 
-i. Regeling examenprogramma’s profielen v.w.o./h.a.v.o. CKV 2,3  
+i.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. CKV 2,3
 
-j.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. filosofie](../../../../../../ministeriele-regeling/beschikking/tot/instelling/van/het/strategisch/regieoverleg/primair/etc/BWBR0012992/README.md)   
+j.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. filosofie](../../../../../../ministeriele-regeling/beschikking/tot/instelling/van/het/strategisch/regieoverleg/primair/etc/BWBR0012992/README.md)
 
-k.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. informatica](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./informatica/BWBR0009591/README.md)   
+k.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. informatica](../../../../../../ministeriele-regeling/regeling/examenprogramma's/profielen/v.w.o.h.a.v.o./informatica/BWBR0009591/README.md)
 
-l.  [Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/proﬁelen/v.w.o.h.a.v.o./lichamelijke/opvoeding/1/BWBR0009594/README.md)   
+l.[Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 1](../../../../../../ministeriele-regeling/regeling/examenprogramma/proﬁelen/v.w.o.h.a.v.o./lichamelijke/opvoeding/1/BWBR0009594/README.md)
 
-m. Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 2  
+m.Regeling examenprogramma’s profielen v.w.o./h.a.v.o. lichamelijke opvoeding 2
 
-n.  [Regeling profielen 2000](../../../../../../ministeriele-regeling/regeling/profielen/2000/BWBR0011237/README.md)   
+n.[Regeling profielen 2000](../../../../../../ministeriele-regeling/regeling/profielen/2000/BWBR0011237/README.md)
 
-o.  [Regeling afwijking profielen vwo/havo voor leerlingen 1998](../../../../../../ministeriele-regeling/afwijking/profielen/vwohavo/voor/leerlingen/1998/BWBR0011236/README.md)   
+o.[Regeling afwijking profielen vwo/havo voor leerlingen 1998](../../../../../../ministeriele-regeling/afwijking/profielen/vwohavo/voor/leerlingen/1998/BWBR0011236/README.md)
 
-p. Regeling aanpassing verlichtingsmaatregelen profielen havo/vwo  
+p.Regeling aanpassing verlichtingsmaatregelen profielen havo/vwo
 
-q. Regeling aanwijzing domeinen centraal examen aardrijkskunde vwo en havo 2001 tot en met 2005  
+q.Regeling aanwijzing domeinen centraal examen aardrijkskunde vwo en havo 2001 tot en met 2005
 
-r. [Regeling verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](../../../../../../beleidsregel/verplichting/ckv23/en/examen/ckv2/in/2001/en/volgende/jaren/BWBR0011614/README.md).  
+r.[Regeling verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](../../../../../../beleidsregel/verplichting/ckv23/en/examen/ckv2/in/2001/en/volgende/jaren/BWBR0011614/README.md).
 
-s. [Regeling vrijstellingsregeling examen oud vwo/havo naar nieuw](../../../../../../ministeriele-regeling/vrijstellingsregeling/examen/oud/vwohavo/naar/nieuw/BWBR0011831/README.md),  
+s.[Regeling vrijstellingsregeling examen oud vwo/havo naar nieuw](../../../../../../ministeriele-regeling/vrijstellingsregeling/examen/oud/vwohavo/naar/nieuw/BWBR0011831/README.md),
 
-t. [Regeling toelating centraal examen vwo en havo](../../../../../../ministeriele-regeling/toelating/centraal/examen/vwo/en/havo/BWBR0013576/README.md).    
+t.[Regeling toelating centraal examen vwo en havo](../../../../../../ministeriele-regeling/toelating/centraal/examen/vwo/en/havo/BWBR0013576/README.md).
 
 ### Artikel  4  
 
@@ -72,80 +72,80 @@ t. [Regeling toelating centraal examen vwo en havo](../../../../../../ministerie
 
 De volgende regelingen worden ingetrokken: 
 
-a.  [Regeling examenprogramma’s Talen vmbo](../../../../../../ministeriele-regeling/regeling/examenprogramma's/talen/vmbo/BWBR0021297/README.md)   
+a.[Regeling examenprogramma’s Talen vmbo](../../../../../../ministeriele-regeling/regeling/examenprogramma's/talen/vmbo/BWBR0021297/README.md)
 
-b. Regeling examenprogramma’s wiskunde en natuurwetenschappelijke vakken vmbo  
+b.Regeling examenprogramma’s wiskunde en natuurwetenschappelijke vakken vmbo
 
-c. Regeling examenprogramma’s economie en de maatschappelijke vakken vmbo  
+c.Regeling examenprogramma’s economie en de maatschappelijke vakken vmbo
 
-d. Regeling examenprogramma’s kunstvakken II vmbo  
+d.Regeling examenprogramma’s kunstvakken II vmbo
 
-e. Regeling examenprogramma’s maatschappijleer en kunstvakken I vmbo  
+e.Regeling examenprogramma’s maatschappijleer en kunstvakken I vmbo
 
-f. Regeling examenprogramma’s lichamelijke opvoeding vmbo  
+f.Regeling examenprogramma’s lichamelijke opvoeding vmbo
 
-g. Regeling examenprogramma’s administratie vmbo  
+g.Regeling examenprogramma’s administratie vmbo
 
-h. Regeling examenprogramma’s handel en verkoop vmbo  
+h.Regeling examenprogramma’s handel en verkoop vmbo
 
-i. Regeling examenprogramma’s consumptief en consumptief-breed vmbo  
+i.Regeling examenprogramma’s consumptief en consumptief-breed vmbo
 
-j. Regeling examenprogramma’s mode en commercie vmbo  
+j.Regeling examenprogramma’s mode en commercie vmbo
 
-k. Regeling examenprogramma’s bouwtechniek en bouw-breed vmbo  
+k.Regeling examenprogramma’s bouwtechniek en bouw-breed vmbo
 
-l. Regeling examenprogramma’s metaaltechniek vmbo  
+l.Regeling examenprogramma’s metaaltechniek vmbo
 
-m. Regeling examenprogramma’s elektrotechniek vmbo  
+m.Regeling examenprogramma’s elektrotechniek vmbo
 
-n. Regeling examenprogramma’s voertuigentechniek vmbo  
+n.Regeling examenprogramma’s voertuigentechniek vmbo
 
-o. Regeling examenprogramma’s installatietechniek vmbo  
+o.Regeling examenprogramma’s installatietechniek vmbo
 
-p. Regeling examenprogramma’s grafische techniek vmbo  
+p.Regeling examenprogramma’s grafische techniek vmbo
 
-q. Regeling examenprogramma’s transport en logistiek vmbo  
+q.Regeling examenprogramma’s transport en logistiek vmbo
 
-r. Regeling examenprogramma’s verzorging vmbo  
+r.Regeling examenprogramma’s verzorging vmbo
 
-s. Regeling examenprogramma’s uiterlijke verzorging vmbo  
+s.Regeling examenprogramma’s uiterlijke verzorging vmbo
 
-t.  [Regeling intrasectoraal programma handel en administratie vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/handel/en/administratie/vmbo/BWBR0011316/README.md)   
+t.[Regeling intrasectoraal programma handel en administratie vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/handel/en/administratie/vmbo/BWBR0011316/README.md)
 
-u.  [Regeling intrasectoraal programma metalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/metalektro/vmbo/BWBR0011317/README.md)   
+u.[Regeling intrasectoraal programma metalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/metalektro/vmbo/BWBR0011317/README.md)
 
-v.  [Regeling intrasectoraal programma instalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/instalektro/vmbo/BWBR0011319/README.md)   
+v.[Regeling intrasectoraal programma instalelektro vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/instalektro/vmbo/BWBR0011319/README.md)
 
-w.  [Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/zorg-en-welzijn-breed/vmbo/BWBR0011318/README.md)     
+w.[Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](../../../../../../ministeriele-regeling/regeling/intrasectoraal/programma/zorg-en-welzijn-breed/vmbo/BWBR0011318/README.md)
 
 ### Artikel  5  
 
 ####De periode 1 augustus 2007 tot en met 31 juli 2008
 
-De bepalingen in de regelingen, genoemd in artikel 4, onder g tot en met w, blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2.  
+De bepalingen in de regelingen, genoemd in artikel 4, onder g tot en met w, blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2007 en is voor het eerst van toepassing op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vwo of havo en op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vmbo.  
+Deze regeling treedt in werking met ingang van 1 augustus 2007 en is voor het eerst van toepassing op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vwo of havo en op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vmbo. 
 
 ### Artikel  6a  
 
-De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](../../../../../../beleidsregel/beleidsregel/scholenplanning/voortgezet/onderwijs/2007/en/2008/BWBR0020469/README.md), danwel op basis van de [Beleidsregel LO2 in het vmbo](../../../../../../beleidsregel/beleidsregel/lo2/in/het/vmbo/BWBR0020139/README.md), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo.  
+De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](../../../../../../beleidsregel/beleidsregel/scholenplanning/voortgezet/onderwijs/2007/en/2008/BWBR0020469/README.md), danwel op basis van de [Beleidsregel LO2 in het vmbo](../../../../../../beleidsregel/beleidsregel/lo2/in/het/vmbo/BWBR0020139/README.md), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs.  
+Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart  
+J.M. van Bijsterveldt-Vliegenthart    
 
-### Bijlage  II  
+###Bijlage II 
 
 ####behorende bij Regeling examenprogramma’s voortgezet onderwijs
 
@@ -247,7 +247,7 @@ De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gel
 
 6.7 het beoordelen van de eigen mogelijkheden en interesses in het licht van vervolgstudie, beroepen en maatschappelijk functioneren;  
 
-6.8 het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.      
+6.8 het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.     
 
 ### 2  
 
@@ -257,21 +257,21 @@ De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gel
 
 ####Leeswijzer
 
-Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma. Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE. Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden). Daarnaast heeft het schoolexamen betrekking op: ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg; indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen. Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL: Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI) Uiterlijke verzorging, verzorging, zorg-en-welzijn-breed (met als codering voor het gezamenlijke CE: ZWG) Consumptief-breed, consumptief-horeca, consumptief-bakken (met als codering voor het gezamenlijke CE: COG) Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).  
+Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma. Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE. Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden). Daarnaast heeft het schoolexamen betrekking op: ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg; indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen. Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL: Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI) Uiterlijke verzorging, verzorging, zorg-en-welzijn-breed (met als codering voor het gezamenlijke CE: ZWG) Consumptief-breed, consumptief-horeca, consumptief-bakken (met als codering voor het gezamenlijke CE: COG) Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV). 
 
 ### 2.1  
 
 ####Nederlandse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | NE/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Nederlands in de maatschappij.  | X  | X  | X  |
 | NE/K/2  | Basisvaardigheden  | --- | --- | --- |
 | --- | De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken, en informatie verwerven, verwerken en presenteren.  | X  | X  | X  |
 | NE/K/3  | Leervaardigheden in het vak Nederlands  | CE  | CE  | CE  |
 | --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  | X  | X  | X  |
-| NE/K/4  | Luister- en kijkvaardigheid ¹  | CE  | CE  | CE  |
+| NE/K/4  | Luister- en kijkvaardigheid ¹   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  luister- en kijkstrategieën hanteren  compenserende strategieën kiezen en hanteren  het doel van de makers van een programma aangeven  de belangrijkste elementen van een programma weergeven  een oordeel geven over een programma en dit toelichten  een instructie uitvoeren.  | X  | --- | --- |
 | --- | De kandidaat kan:  luister- en kijkstrategieën hanteren  compenserende strategieën kiezen en hanteren  het doel van de makers van een programma aangeven  de belangrijkste elementen van een programma weergeven  een oordeel geven over een programma en dit toelichten  een instructie uitvoeren  de waarde en betrouwbaarheid aangeven van de informatie die door de massamedia verspreid wordt.  | --- | X  | X  |
 | NE/K/5  | Spreek- en gespreksvaardigheid  | --- | --- | --- |
@@ -291,14 +291,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | NE/V/3  | Vaardigheden in samenhang  | --- | --- | --- |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.
 
 ### 2.2  
 
 ####Franse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -311,7 +311,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 | MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-| MVT/K/7  | Schrijfvaardigheid ²  | CE  | CE  | CE  |
+| MVT/K/7  | Schrijfvaardigheid ²   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  (persoonlijke) gegevens verstrekken  een kort bedankje, groet of goede wensen schriftelijk overbrengen  een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 | MVT/V/1  | Leesvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  het gebruik van speciale stijlmiddelen herkennen  conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -324,14 +324,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.3  
 
 ####Duitse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -340,7 +340,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen.  | X  | X  | X  |
 | MVT/K/4  | Leesvaardigheid  | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-| MVT/K/5  | Luister- en kijkvaardigheid ¹  | CE  | CE  | CE  |
+| MVT/K/5  | Luister- en kijkvaardigheid ¹   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 | MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
@@ -356,14 +356,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.4  
 
 ####Engelse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -372,11 +372,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 | MVT/K/4  | Leesvaardigheid  | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-| MVT/K/5  | Luister- en kijkvaardigheid ¹  | CE  | CE  | CE  |
+| MVT/K/5  | Luister- en kijkvaardigheid ¹   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 | MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-| MVT/K/7  | Schrijfvaardigheid ²  | CE  | CE  | CE  |
+| MVT/K/7  | Schrijfvaardigheid ²   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  (persoonlijke) gegevens verstrekken  een kort bedankje, groet of goede wensen schriftelijk overbrengen  een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 | MVT/V/1  | Leesvaardigheid  | --- | --- | CE  |
 | --- | De kandidaat kan:  het gebruik van speciale stijlmiddelen herkennen  conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -389,14 +389,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.5  
 
 ####Spaanse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -405,11 +405,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 | MVT/K/4  | Leesvaardigheid  | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-| MVT/K/5  | Luister- en kijkvaardigheid ¹  | CE  | CE  | CE  |
+| MVT/K/5  | Luister- en kijkvaardigheid ¹   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 | MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-| MVT/K/7  | Schrijfvaardigheid ²  | CE  | CE  | CE  |
+| MVT/K/7  | Schrijfvaardigheid ²   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  (persoonlijke) gegevens verstrekken  een kort bedankje, groet of goede wensen schriftelijk overbrengen  een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 | MVT/V/1  | Leesvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  het gebruik van speciale stijlmiddelen herkennen  conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -422,14 +422,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.6  
 
 ####Turkse taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -442,7 +442,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | --- | De kandidaat kan:  aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  de hoofdgedachte van een tekst(gedeelte) aangeven  de betekenis van belangrijke elementen van een tekst aangeven  anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 | MVT/K/6  | Gespreksvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  informatie geven en vragen  naar een mening/oordeel vragen en een mening/oordeel geven  uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-| MVT/K/7  | Schrijfvaardigheid ²  | CE  | CE  | CE  |
+| MVT/K/7  | Schrijfvaardigheid ²   | CE  | CE  | CE  |
 | --- | De kandidaat kan:  (persoonlijke) gegevens verstrekken  een kort bedankje, groet of goede wensen schriftelijk overbrengen  een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 | MVT/V/1  | Leesvaardigheid  | --- | --- | --- |
 | --- | De kandidaat kan:  het gebruik van speciale stijlmiddelen herkennen  conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -455,14 +455,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.7  
 
 ####Arabische taal
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MVT/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde Talen in de maatschappij.  | X  | X  | X  |
 | MVT/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -488,14 +488,14 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | MVT/V/5  | Vaardigheden in samenhang  | --- | --- | CE  |
 | --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen  
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
 
 ### 2.8  
 
 ####Friese taal en cultuur
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | FR/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Fries in cultuur en maatschappij.  | X  | X  | X  |
 | FR/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -525,7 +525,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####Fryske taal en kultuer
 
 |--- |--- | BB  | KB  | ML/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | FR/K/1  | Oriïntaasje op learen en wurkjen  | --- | --- | --- |
 | --- | De kandidaat kin him oriïntearje op de eigen karriêre en it belang fan Frysk yn kultuer en maatskippij.  | X  | X  | X  |
 | FR/K/2  | Basisfeardichheden  | --- | --- | --- |
@@ -555,7 +555,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####maatschappijleer
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ML1/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van maatschappijleer in de maatschappij.  | X  | X  | X  |
 | ML1/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -580,7 +580,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####maatschappijleer II
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ML2/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van maatschappijleer verwoorden.  | X  | X  | X  |
 | ML2/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -615,7 +615,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####kunstvakken 1
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | KV1/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van kunst en cultuur in de maatschappij.  | X  | X  | X  |
 | KV1/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -630,7 +630,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####lichamelijke opvoeding 1
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | LO1/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan het belang van bewegen en sport binnen de eigen loopbaan en in de maatschappij verwoorden.  | X  | X  | X  |
 | LO1/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -655,7 +655,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####wiskunde
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | WI/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan:  zich oriënteren op het belang van wiskunde voor de eigen loopbaan en voor zijn functioneren in de maatschappij  een relatie leggen tussen wiskundige kennis en vaardigheden en de beroepspraktijk.  | X  | X  | X  |
 | WI/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -689,7 +689,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####natuur- en scheikunde I
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | NASK1/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op het belang van natuurkunde en natuurkundige technieken in de eigen beroepsopleiding, in de eigen toekomst en in de maatschappij.  | X  | X  | X  |
 | NASK1/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -735,7 +735,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####natuur- en scheikunde II
 
 |--- |--- | GL/TL  |
-|---|---|---|
+|:---|:---|:---|
 | NASK2/K/1  | Oriëntatie op leren en werken  | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang en de rol aangeven van natuur- en scheikunde in de maatschappij.  | X  |
 | NASK2/K/2  | Basisvaardigheden  | --- |
@@ -786,7 +786,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 ####biologie
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | BI/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang aangeven van biologische kennis en vaardigheden in de maatschappij.  | X  | X  | X  |
 | BI/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -835,7 +835,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst. De overige eindtermen worden in het schoolexamen (SE) getoetst. Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst. De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.  
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | AK/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | 1.  | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van aardrijkskunde in de maatschappij.  | X  | X  | X  |
 | AK/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -850,7 +850,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | --- | – een standpunt innemen en beargumenteren.  | X (alleen SE)  | X (alleen SE)  | X (alleen SE)  |
 | AK/K/4  | Weer en klimaat  | CE  | CE  | CE  |
 | 4.  | De kandidaat kan het weer en klimaat in de eigen regio beschrijven en verklaren.  | X (alleen SE)  | X (alleen SE)  | X (alleen SE)  |
-| 5.  | De kandidaat kan Weer en klimaat, *klimaatverandering en klimaatbeleid* van Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 5.  | De kandidaat kan Weer en klimaat, *klimaatverandering en klimaatbeleid* van Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 5 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | 6.  | De kandidaat kan Weer en klimaat, *klimaatverandering en klimaatbeleid* in een buiten-Europese macroregio beschrijven en verklaren.  | X  | X  | X  |
@@ -858,31 +858,31 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | --- | Het cursieve deel van eindterm 6 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | AK/K/5  | Bronnen van energie  | --- | --- | --- |
 | 7.  | De kandidaat kan het gebruik van energie in de eigen regio beschrijven en verklaren en maatregelen voor een duurzamer gebruik van energie en de effecten ervan beschrijven.  | X  | X  | X  |
-| 8.  | De kandidaat kan het gebruik van energie en de gevolgen ervan voor Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren en maatregelen voor een duurzamer energiegebruik en de effecten ervan beschrijven *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 8.  | De kandidaat kan het gebruik van energie en de gevolgen ervan voor Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren en maatregelen voor een duurzamer energiegebruik en de effecten ervan beschrijven*en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 8 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | 9.  | De kandidaat kan het gebruik van energie en de gevolgen ervan in een buiten-Europese macroregio beschrijven en verklaren en maatregelen voor een duurzamer gebruik van energie en de effecten ervan beschrijven.  | X  | X  | X  |
 | AK/K/6  | Water  | CE  | CE  | CE  |
 | 10.  | De kandidaat kan het gebruik van water in de eigen regio beschrijven en verklaren en maatregelen voor duurzamer gebruik van water beschrijven  | X (alleen SE)  | X (alleen SE)  | X (alleen SE)  |
 | 11.  | De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in Nederland beschrijven en verklaren en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven.  | X  | X  | X  |
-| 12.  | De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in een buiten-Europese macroregio *en een contrasterende macroregio elders in de wereld* beschrijven en verklaren en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 12.  | De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in een buiten-Europese macroregio *en een contrasterende macroregio elders in de wereld* beschrijven en verklaren en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven *en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 12 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | AK/K/7  | Arm en rijk  | --- | --- | --- |
 | 13.  | De kandidaat kan verschillen tussen meer en minder welvarende wijken en voorstellen voor verbetering van de woon- en leefomstandigheden in de eigen regio beschrijven.  | X  | X  | X  |
 | 14.  | De kandidaat kan regionale verschillen in welvaart in Nederland beschrijven en verklaren.  | X  | X  | X  |
-| 15.  | De kandidaat kan regionale verschillen in welvaart in een buiten-Europese macroregio *en een contrasterende macroregio elders in de wereld* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 15.  | De kandidaat kan regionale verschillen in welvaart in een buiten-Europese macroregio *en een contrasterende macroregio elders in de wereld* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 15 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | AK/K/8  | Bevolking en ruimte  | CE  | CE  | CE  |
 | 16.  | De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in de eigen regio beschrijven en verklaren.  | X (alleen SE)  | X (alleen SE)  | X (alleen SE)  |
-| 17.  | De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 17.  | De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in Nederland *en een contrasterende regio elders in Europa* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 17 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | 18.  | De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in een buiten-Europese macroregio beschrijven en verklaren.  | X  | X  | X  |
 | AK/K/9  | Grenzen en identiteit  | --- | --- | --- |
 | 19.  | De kandidaat kan verschillende soorten grenzen in de eigen regio beschrijven en verklaren en verbanden leggen met identiteit.  | X  | X  | X  |
-| 20.  | De kandidaat kan verschillen in regionale identiteit en de manier waarmee men daarmee omgaat in Nederland *en een contrasterende regio elders in Europa,* beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*  | X  | X  | X  |
+| 20.  | De kandidaat kan verschillen in regionale identiteit en de manier waarmee men daarmee omgaat in Nederland *en een contrasterende regio elders in Europa, *beschrijven en verklaren *en de situatie in beide gebieden vergelijken.*   | X  | X  | X  |
 | --- | --- | --- | --- | --- |
 | --- | Het cursieve deel van eindterm 20 geldt alleen voor KB en GL/TL.  | --- | --- | --- |
 | 21.  | De kandidaat kan territoriale conflicten in een buiten-Europese macroregio en verklaren en verbanden leggen met grondstoffen en culturele verschillen.  | X  | X  | X  |
@@ -908,7 +908,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####geschiedenis en staatsinrichting
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | GS/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van geschiedenis en staatsinrichting in de maatschappij.  | X  | X  | X  |
 | GS/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -916,31 +916,31 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | GS/K/3  | Leervaardigheden in het vak geschiedenis en staatsinrichting  | CE  | CE  | CE  |
 | --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  de ontwikkeling van het eigen leervermogen  het vermogen om met voor geschiedenis en staatsinrichting geëigende vaktaal en methodieken te communiceren en onderzoek te doen.  | X  | X  | X  |
 | GS/K/4  | De koloniale relatie Indonesië – Nederland  | --- | --- | --- |
-| --- | De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | X ¹  | --- | --- |
-| --- | De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | --- | X ²  | X ²  |
+| --- | De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | X ¹   | --- | --- |
+| --- | De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | --- | X ²   | X ²   |
 | GS/K/5  | Staatsinrichting van Nederland  | CE  | CE  | CE  |
 | --- | De kandidaat kan herkennen en benoemen hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft.  | X  | --- | --- |
 | --- | De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft.  | --- | X  | X  |
 | GS/K/6  | De industriële samenleving in Nederland  | --- | --- | --- |
-| --- | De kandidaat kan herkennen en benoemen hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19e eeuw.  | X ¹  | --- | --- |
-| --- | De kandidaat kan herkennen en beschrijven hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19e eeuw.  | --- | X ²  | X ²  |
+| --- | De kandidaat kan herkennen en benoemen hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19e eeuw.  | X ¹   | --- | --- |
+| --- | De kandidaat kan herkennen en beschrijven hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19e eeuw.  | --- | X ²   | X ²   |
 | GS/K/7  | Sociale zekerheid en verzorgingsstaat in Nederland  | --- | --- | --- |
-| --- | De kandidaat kan herkennen en benoemen welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19e eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | X ¹  | --- | --- |
-| --- | De kandidaat kan herkennen en beschrijven welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19e eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | --- | X ²  | X ²  |
+| --- | De kandidaat kan herkennen en benoemen welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19e eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | X ¹   | --- | --- |
+| --- | De kandidaat kan herkennen en beschrijven welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19e eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | --- | X ²   | X ²   |
 | GS/K/8  | Cultureel – mentale ontwikkelingen in Nederland na 1945  | --- | --- | --- |
-| --- | De kandidaat kan herkennen en benoemen welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | X ¹  | --- | --- |
-| --- | De kandidaat kan herkennen en beschrijven welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en verklaren welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | --- | X ²  | X ²  |
+| --- | De kandidaat kan herkennen en benoemen welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | X ¹   | --- | --- |
+| --- | De kandidaat kan herkennen en beschrijven welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en verklaren welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | --- | X ²   | X ²   |
 | GS/K/9  | De Koude Oorlog  | --- | --- | --- |
-| --- | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen, en benoemen welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | X ¹  | --- | --- |
-| --- | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen en beschrijven, en aangeven welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | --- | X ²  | X ²  |
+| --- | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen, en benoemen welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | X ¹   | --- | --- |
+| --- | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen en beschrijven, en aangeven welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | --- | X ²   | X ²   |
 | GS/K/10  | Historisch overzicht vanaf 1900  | CE  | CE  | CE  |
 | --- | De kandidaat kan herkennen en benoemen welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.  | X  | --- | --- |
 | --- | De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.  | --- | X  | X  |
 
-¹ Het schoolexamen moet in ieder geval bestaan uit 2 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9. ² Het schoolexamen moet in ieder geval bestaan uit 3 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.  
+¹ Het schoolexamen moet in ieder geval bestaan uit 2 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.² Het schoolexamen moet in ieder geval bestaan uit 3 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9. 
 
-|--- |--- | BB  | KB  | GL/TL ¹  |
-|---|---|---|---|---|
+|--- |--- | BB  | KB  | GL/TL ¹   |
+|:---|:---|:---|:---|:---|
 | GS/V/1  | GS/V/1 Het Indonesisch – Nederlands conflict 1945–1949  | --- | --- | --- |
 | --- | De kandidaat kan herkennen en beschrijven hoe het proces van dekolonisatie en de weg naar onafhankelijkheid van Indonesië tussen 1945 en 1949 verliep en daarbij ingaan op de moeizame relatie tussen Nederland en Indonesië na de onafhankelijkheid van Indonesië.  | --- | --- | X  |
 | GS/V/2  | Nederland en Europa  | --- | --- | --- |
@@ -960,14 +960,14 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | GS/V/9  | Drie thema’s bij het Historisch Overzicht vanaf 1900  | --- | --- | CE  |
 | --- | De kandidaat kan de volgende thema’s herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900:  Het ontstaan en de gevolgen van  het communisme in de Sovjetunie (1917–1941);  Indonesië als voorbeeld van dekolonisatie ( 1942–1949);  de brandhaard Israël/Palestina (1945–1979).  | --- | --- | X  |
 
-¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.  
+¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.
 
 ### 2.19  
 
 ####economie
 
 |--- |--- | BB  | KB  | GL/TL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | EC/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van economie in de maatschappij.  | X  | X  | X  |
 | EC/K/2  | Basisvaardigheden  | --- | --- | --- |
@@ -1000,7 +1000,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####beeldende vorming
 
 |--- |--- | GL/TL  |
-|---|---|---|
+|:---|:---|:---|
 | BV/K/1  | Oriëntatie op leren en werken  | --- |
 | --- | De kandidaat oriënteert zich op het belang van beeldende kunst en vormgeving in de maatschappij.  | X  |
 | BV/K/2  | Basisvaardigheden  | --- |
@@ -1037,7 +1037,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####muziek
 
 |--- |--- | GL/TL  |
-|---|---|---|
+|:---|:---|:---|
 | MU/K/1  | Oriëntatie op leren en werken  | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van muziek in de maatschappij.  | X  |
 | MU/K/2  | Basisvaardigheden  | --- |
@@ -1068,7 +1068,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####drama
 
 |--- |--- | GL/TL  |
-|---|---|---|
+|:---|:---|:---|
 | DR/K/1  | Oriëntatie op leren en werken  | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van drama in de maatschappij.  | X  |
 | DR/K/2  | Basisvaardigheden  | --- |
@@ -1099,7 +1099,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####dans
 
 |--- |--- | GL/TL  |
-|---|---|---|
+|:---|:---|:---|
 | DA/K/1  | Oriëntatie op leren en werken  | --- |
 | --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van dans in de maatschappij.  | X  |
 | DA/K/2  | Basisvaardigheden  | --- |
@@ -1130,7 +1130,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####bouw-breed
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | B/K/1  | Oriëntatie op de bouw en bouwberoepen  | --- | --- | --- |
 | --- | De kandidaat kan:  de gang van zaken bij het maken van een bouwwerk beschrijven  de belangrijkste wetten en regelgeving in de bouw noemen  aspecten van het bouwproces noemen  de instituten en bedrijven in de bouwbranche en aanverwante bedrijfstakken noemen  de technologische ontwikkelingen in de bouwtechniek beschrijven  een bewuste keuze voor een vervolgopleiding maken  aspecten van het werken in de bouw noemen.  | X  | X  | X  |
 | B/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1186,7 +1186,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####bouwtechniek-metselen
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | B/K/1  | Oriëntatie op de bouw en bouwberoepen  | --- | --- | --- |
 | --- | De kandidaat kan:  de gang van zaken bij het maken van een bouwwerk beschrijven  de belangrijkste wetten en regelgeving in de bouw noemen  aspecten van het bouwproces noemen  de instituten en bedrijven in de bouwbranche en aanverwante bedrijfstakken noemen  de technologische ontwikkelingen in de bouwtechniek beschrijven  een bewuste keuze voor een vervolgopleiding maken  aspecten van het werken in de bouw noemen.  | X  | X  | X  |
 | B/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1240,7 +1240,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####bouwtechniek-timmeren
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | B/K/1  | Oriëntatie op de bouw en bouwberoepen  | --- | --- | --- |
 | --- | De kandidaat kan:  de gang van zaken bij het maken van een bouwwerk beschrijven  de belangrijkste wetten en regelgeving in de bouw noemen  aspecten van het bouwproces noemen  de instituten en bedrijven in de bouwbranche en aanverwante bedrijfstakken noemen  de technologische ontwikkelingen in de bouwtechniek beschrijven  een bewuste keuze voor een vervolgopleiding maken  aspecten van het werken in de bouw noemen.  | X  | X  | X  |
 | B/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1295,7 +1295,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####bouwtechniek-schilderen
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | B/K/1  | Oriëntatie op de bouw en bouwberoepen  | --- | --- | --- |
 | --- | De kandidaat kan:  de gang van zaken bij het maken van een bouwwerk beschrijven  de belangrijkste wetten en regelgeving in de bouw noemen  aspecten van het bouwproces noemen  de instituten en bedrijven in de bouwbranche en aanverwante bedrijfstakken noemen  de technologische ontwikkelingen in de bouwtechniek beschrijven  een bewuste keuze voor een vervolgopleiding maken  aspecten van het werken in de bouw noemen.  | X  | X  | X  |
 | B/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1353,7 +1353,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####bouwtechniek-fijnhoutbewerken
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | B/K/1  | Oriëntatie op de bouw en bouwberoepen  | --- | --- | --- |
 | --- | De kandidaat kan:  de gang van zaken bij het maken van een bouwwerk beschrijven  de belangrijkste wetten en regelgeving in de bouw noemen  aspecten van het bouwproces noemen  de instituten en bedrijven in de bouwbranche en aanverwante bedrijfstakken noemen  de technologische ontwikkelingen in de bouwtechniek beschrijven  een bewuste keuze voor een vervolgopleiding maken  aspecten van het werken in de bouw noemen.  | X  | X  | X  |
 | B/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1407,7 +1407,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####grafische techniek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Gm 1  | Oriëntatie op het werkveld  | --- | --- | --- |
 | 1.  | De kandidaat heeft  inzicht in de eigen toekomstmogelijkheden binnen het vervolgonderwijs en de grafimediabranche;  zicht op beroepen, de beroepspraktijk en actuele ontwikkelingen in de grafimediabranche.  | x  | x  | x  |
 | 2.  | De kandidaat kan gedurende zijn/haar schoolloopbaan zijn/haar persoonlijke portfolio beheren.  | x  | x  | x  |
@@ -1457,7 +1457,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####transport en logistiek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | T&L/K/1  | Oriëntatie op Nederland distributieland  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de instituten en bedrijven in de bedrijfstak transport en logistiek  de technologische ontwikkelingen in de transport en logistiek  de eigen mogelijkheden van opleiding en  werken in de transport en logistiek.  | X  | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de vervoersinfrastructuur  de instituten en bedrijven in de bedrijfstak transport en logistiek  de technologische ontwikkelingen in de transport en logistiek  de eigen mogelijkheden van opleiding  werken in de transport en logistiek.  | --- | X  | X  |
@@ -1554,7 +1554,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####voertuigentechniek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | VT/K/1  | De wereld van de mobiliteit  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de technologische ontwikkelingen in de voertuigenbranche  de mogelijkheden van opleiding  werken in de voertuigenbranche en de organisatie van deze branche.  | X  | X  | X  |
 | VT/K/2  | Professionele vaardigheden  | CE  | CE  | CE  |
@@ -1621,7 +1621,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####metaaltechniek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MT/K/1  | De metaaltechnische wereld  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  het productieproces van metalen  de instituten en bedrijven in de metaalbranche  de technologische ontwikkelingen in de metaaltechniek  de eigen mogelijkheden van opleiding en werken in de metaalbranche.  | X  | X  | X  |
 | MT/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -1706,7 +1706,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####elektrotechniek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ET/K/1  | De elektrotechnische wereld  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de weg van opwekker naar verbruiker  de instituten en bedrijven in de elektro-branche  in de technologische ontwikkelingen in de elektrotechniek  de eigen mogelijkheden van opleiding en werken in de elektrotechnische branche.  | X  | X  | X  |
 | ET/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -1795,7 +1795,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####installatietechniek
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | IT/K/1  | De wereld van de Installatietechniek  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  het werkterrein van de installatietechniek  de instituten en bedrijven in de installatiebranche  de technologische ontwikkelingen in de installatietechniek  in de eigenmogelijkheden van opleiding en werken in de installatiebranche.  | X  | X  | X  |
 | IT/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -1881,7 +1881,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####instalektro
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | IE/K/1  | Oriëntatie op instalektro  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  het werkterrein van de instalektro  in de instituten en bedrijven in de installatietechnische en elektrotechnische branche  de technologische ontwikkelingen in de installatietechniek en de elektrotechniek  in de eigen mogelijkheden van opleiding en werken in de installatietechnische en elektrotechnische branche.  | X  | X  | X  |
 | IE/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -1968,7 +1968,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####metalektro
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ME/K/1  | Oriëntatie op de metalektro  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  het werkterrein binnen de metalektro  de instituten en bedrijven in de metalektrobranche  de technologische ontwikkelingen in de metalektro  de eigen mogelijkheden van opleiding en werken in de metalektrobranche.  | X  | X  | X  |
 | ME/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -2053,7 +2053,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####uiterlijke verzorging
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | UV/K/1  | Oriëntatie op de UV-branche  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de doelgroepen en werkvelden in de uiterlijke verzorgings-branche  de eigen toekomstmogelijkheden  werken in de uiterlijke verzorgings-branche.  | X  | X  | X  |
 | UV/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -2210,7 +2210,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####verzorging
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | VZ/K/1  | Oriëntatie op de werkvelden  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht in:  de doelgroepen en werkvelden in de branche van zorg- en welzijn en uiterlijke verzorging  de eigen toekomstmogelijkheden  werken in de zorg- en welzijn en uiterlijke verzorgings-branche.  | X  | X  | X  |
 | VZ/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -2309,7 +2309,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####zorg-en-welzijn-breed
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ZW/K/1  | Oriëntatie op de sector  | --- | --- | --- |
 | --- | De kandidaat heeft inzicht:  in de doelgroepen en werkvelden in de branche van zorg- en welzijn en uiterlijke verzorging  de eigen toekomstmogelijkheden  de zorg- en welzijn en uiterlijke verzorgings-branche.  | X  | X  | X  |
 | ZW/K/2  | Professionele vaardigheden  | CE  | CE  | --- |
@@ -2397,7 +2397,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####consumptief-breed
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | C/K/1  | Oriëntatie op consumptief-breed  | --- | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen en beschrijven voor een goede loopbaan in de horeca-, de bakkerijbranche en in de sector toerisme en recreatie.  | X  | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen, beschrijven en toelichten voor een goede loopbaan in de horeca-, de bakkerijbranche, en in de sector toerisme en recreatie.  | --- | X  | X  |
@@ -2482,7 +2482,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####consumptief-horeca
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | C/K/1  | Oriëntatie op consumptief-breed  | --- | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen en beschrijven voor een goede loopbaan in de horeca-, de bakkerijbranche, en in de sector toerisme en recreatie.  | X  | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen, beschrijven en toelichten voor een goede loopbaan in de horeca-, de bakkerijbranche, en in de sector toerisme en recreatie.  | --- | X  | X  |
@@ -2565,7 +2565,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####consumptief-bakken
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | C/K/1  | Oriëntatie op consumptief breed  | --- | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen en beschrijven voor een goede loopbaan in de horeca-, de bakkerijbranche en in de sector toerisme en recreatie.  | X  | --- | --- |
 | --- | De kandidaat kan belangrijke punten noemen, beschrijven en toelichten voor een goede loopbaan in de horeca-, de bakkerijbranche, en in de sector toerisme en recreatie.  | --- | X  | X  |
@@ -2640,7 +2640,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####administratie
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | AD/K/1  | Oriëntatie op de administratieve bedrijfstak  | --- | --- | --- |
 | --- | De kandidaat kan een sollicitatie voorbereiden, uitvoeren en evalueren.  | X  | X  | --- |
 | --- | De kandidaat heeft inzicht in:  de rol van de administratie binnen het bedrijf  de technologische ontwikkelingen in de beroepspraktijk  de eigen mogelijkheden van opleiding en  werken in de administratieve beroepen.  | X  | X  | X  |
@@ -2719,7 +2719,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####handel en administratie
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | HA/K/1  | Oriëntatie op handel en administratie  | --- | --- | --- |
 | --- | De kandidaat kan een sollicitatie voorbereiden, uitvoeren en evalueren.  | X  | X  | --- |
 | --- | De kandidaat heeft inzicht in:  de bedrijfsvoering in de handel en administratie  de technologische ontwikkelingen in de handel en administratie  de eigen mogelijkheden van opleiding en  werken in de handel en administratie.  | X  | X  | X  |
@@ -2787,7 +2787,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####handel en verkoop
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | HV/K/1  | Oriëntatie op de handel  | --- | --- | --- |
 | --- | De kandidaat kan een sollicitatie voorbereiden, uitvoeren en evalueren.  | X  | X  | --- |
 | --- | De kandidaat heeft inzicht in:  de grondbeginselen van de handel  de betekenis van de handel in de samenleving  de eigen mogelijkheden van opleiding  werken in de handel.  | X  | X  | X  |
@@ -2880,7 +2880,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####mode en commercie
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | MC/K/1  | Oriëntatie op mode en commercie  | --- | --- | --- |
 | --- | De kandidaat kan een sollicitatie voorbereiden, uitvoeren en evalueren.  | X  | X  | --- |
 | --- | De kandidaat heeft inzicht in:  de bedrijfsvoering in de textiel- en kledingbranche  de ontwikkelingen in de textiel- en kledingbranche  de eigen mogelijkheden van opleiding en werken in de mode en commercie.  | X  | X  | X  |
@@ -2952,7 +2952,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 ####Techniek-breed
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | TB/1  | Oriëntatie op de techniek en de beroepen in de techniek  |
 | 1.  | De kandidaat heeft inzicht in:  – het werkterrein en beroepen in de sector techniek  – nieuwe ontwikkelingen op het gebied van arbeid  – eigen mogelijkheden van opleiding en werken  – de plaats die de techniek inneemt bij mens en samenleving.  | X  | X  | X  |
 | 2.  | De kandidaat kan een bewuste keuze maken voor een beroep en de daarmee samenhangende vervolgopleiding.  | X  | X  | X  |
@@ -2988,14 +2988,14 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | 27.  | De kandidaat kan in een practicum een eenvoudig regelsysteem opbouwen.  | --- | X  | --- |
 | 28.  | De kandidaat kan de grondbeginselen van het meten omschrijven.  | --- | X  | --- |
 | 29.  | De kandidaat kan de maatschappelijke effecten van productietechnologie omschrijven.  | X  | X  | --- |
-| TB/7  | Techniek in en om de woning ¹  |
+| TB/7  | Techniek in en om de woning ¹   |
 | 30.  | De kandidaat kan in de context van de woning werkzaamheden uitvoeren in het kader van:  – bouwtechniek  – afwerkingstechniek  – installatietechniek  – elektrotechniek.  | X  | X  | X  |
-| TB/8  | Grafimedia ¹  |
+| TB/8  | Grafimedia ¹   |
 | 31.  | De kandidaat kan producten leveren, processen beschrijven en gemaakte keuzes beargumenteren binnen één van de beroepswerelden:  – printmedia  – audiovisueel/theater  – multimedia.  | X  | X  | X  |
-| TB/9  | Mobiliteit, verkeer en transport ¹  |
+| TB/9  | Mobiliteit, verkeer en transport ¹   |
 | 32.  | De kandidaat kan vervoersmiddelen onderhouden.  | X  | X  | X  |
 | 33.  | De kandidaat heeft kennis van de opbouw van infrastructuur en kan verkeersstromen geleiden.  | X  | X  | X  |
-| TB/10  | Magazijnbeheer ¹  | --- | --- | --- |
+| TB/10  | Magazijnbeheer ¹   | --- | --- | --- |
 | 34.  | De kandidaat kan goederen in-, op-, over-, en uitslaan en kan inkoop- en voorraadbeheertechnieken toepassen.  | X  | X  | X  |
 | MEI/K/2  | Professionele vaardigheden  |
 | I.  | De kandidaat kan op systematische wijze werkzaamheden uitvoeren.  | --- | --- | X  |
@@ -3019,14 +3019,14 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | MEI/K/22  | CAD  |
 | XVII.  | De kandidaat kan met behulp van CAD- en calculatie software:  – een eenvoudige elektrotechnische installatie voor een woning ontwerpen  – een werkvoorbereiding maken.  | --- | --- | X  |
 
-¹ Is keuzeonderwerp c.q. keuze exameneenheid. De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Techniek Breed vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.  
+¹ Is keuzeonderwerp c.q. keuze exameneenheid.De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Techniek Breed vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
 
 ### 2.48  
 
 ####ICT-route
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | ICT/1  | Oriëntatie op leren en werken  |
 | 1.  | De kandidaat heeft inzicht in de plaats en mogelijkheden van de ICT in de sectoren Cultuur, Zorg & Welzijn, Handel & Administratie, Techniek en Landbouw.  | X  | X  | X  |
 | 2.  | De kandidaat kan een bewuste keuze maken voor een beroep en een vervolgopleiding op grond van eigen capaciteiten en interesses en mogelijke opleidingen en beroepen.  | X  | X  | X  |
@@ -3089,7 +3089,7 @@ In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoet
 | ITI/9a  | Organiseren  |
 | XVIII.  | De kandidaat kan een activiteit organiseren binnen een vooraf gesteld budget.  | --- | --- | X  |
 
-¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.  
+¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
 
 ### 2.49  
 
@@ -3102,7 +3102,7 @@ Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
 – de exameneenheden van één van de sectordelen: Zorg en welzijn (TGL/Z/1 t/m TGL/Z/3), Economie (TGL/E/1 t/m TGL/E/3), Techniek (TGL/T/1 t/m TGL/T3).    
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | TGL/I/1  | Oriëntatie op de wereld van zorg en welzijn, de economie en de techniek  |
 | 1.  | De kandidaat heeft inzicht in:  – het werkterrein in de zorg en welzijn, economie en techniek  – de technologische ontwikkelingen in de beroepspraktijk  – de eigen mogelijkheden van opleiding en  werken in de zorg en welzijn, economie en techniek.  | --- | --- | X  |
 | TGL/I/4  | Communicatietechnologie  |
@@ -3139,7 +3139,7 @@ Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
 Sectordeel Zorg en welzijn  
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | TGL/Z/1  | Verpleging/Verzorging  |
 | 1.  | De kandidaat kan in een (gesimuleerde) praktijksituatie:  – in een gesprek met cliënten begrip tonen voor hun gevoelens en wensen rond zorgverlening en met eigen emoties en die van anderen omgaan  – in sociale situaties omgaan met culturele verschillen.  | --- | --- | X  |
 | 2.  | De kandidaat kan in een (gesimuleerde) praktijksituatie:  – voor de huishouding zorg dragen  en heeft kennis van begrippen uit de wereld van de zorg en van moderne technieken voor verzorging en zelfzorg.  | --- | --- | X  |
@@ -3151,7 +3151,7 @@ Sectordeel Zorg en welzijn
 Sectordeel Economie  
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | TGL/E/1  | Gegevensbeheer  |
 | 5.  | De kandidaat kan met gebruikmaking van ICT- toepassingen:  – een eenvoudige boekingsgang samenstellen  – de crediteuren- en debiteurenadministratie verzorgen.  | --- | --- | X  |
 | TGL/E/2  | Verkoop en presentatie  |
@@ -3162,7 +3162,7 @@ Sectordeel Economie
 Sectordeel Techniek  
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | TGL/T/1  | CAD/CAM  |
 | 8.  | De kandidaat kan met behulp van CAD-software een eenvoudige technische tekening maken  en heeft kennis van bewerkingsprocessen.  | --- | --- | X  |
 | TGL/T/2  | Het bouwen van een huis  |
@@ -3188,7 +3188,7 @@ Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het exame
 – exameneenheden naar keuze uit IS/7 t/m IS/14.   De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.  
 
 |--- |--- | BB  | KB  | GL  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | IS/1  | Oriëntatie op de sectoren Techniek, Commercie en Zorg en Welzijn  |
 | 1.  | De kandidaat heeft inzicht in:  – het werkterrein en beroepen in de sectoren zorg en welzijn, handel en administratie, en techniek  – diverse klanten, afnemers en opdrachtgevers binnen de werkterreinen dienstverlening, commercie, technologie, cultuur en ICT  – nieuwe ontwikkelingen op het gebied van arbeid  – eigen mogelijkheden van opleiding en werken.  | X  | X  | X  |
 | IS/2  | Professionele vaardigheden  |
@@ -3260,14 +3260,14 @@ Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het exame
 | ITI/9a  | Organiseren  |
 | XVIII.  | De kandidaat kan een activiteit organiseren binnen een vooraf gesteld budget  | --- | --- | X  |
 
-¹ Is keuzeonderwerp c.q. keuze-exameneenheid. De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.  
+¹ Is keuzeonderwerp c.q. keuze-exameneenheid.De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
 
 ### 2.51  
 
 ####Sport, dienstverlening en veiligheid
 
 |--- |--- | BB  | KB  |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | SDV/1  | Oriëntatie op de wereld van sport, dienstverlening en veiligheid  |
 | 1.  | De kandidaat heeft inzicht in:  – het werkterrein van sport, dienstverlening en veiligheid  – nieuwe ontwikkelingen op het gebied van SDV  – eigen mogelijkheden van opleiding en werken in de SDV sector.  | X  | X  |
 | SDV/2  | Professionele vaardigheden  |
