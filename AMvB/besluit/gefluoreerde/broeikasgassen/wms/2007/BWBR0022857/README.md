@@ -40,7 +40,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen bevat,   en zich bevindt in of op een spoorvoertuig als bedoeld in [artikel 1, onder e, van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) of een voertuig als bedoeld in [artikel 1, eerste lid, onder c of d, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-*stationair brandbeveiligingssysteem:* brandbeveiligingssysteem als bedoeld in artikel 1 van de EG-verordening standaardlekcontroles brandbeveiligingssystemen.    
+*stationair brandbeveiligingssysteem:* brandbeveiligingssysteem als bedoeld in artikel 1 van de EG-verordening standaardlekcontroles brandbeveiligingssystemen.   
+
+### Artikel  1a  
+Treedt in werking per 01-07-2014 
+
+Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone. 
 
 ### §  2  
 
@@ -48,19 +53,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-De bevoegde instantie, bedoeld in de artikelen 3, zesde lid, en 6, eerste lid, van de f-gassenverordening is Onze Minister.  
+De bevoegde instantie, bedoeld in de artikelen 3, zesde lid, en 6, eerste lid, van de f-gassenverordening is Onze Minister. 
 
 ### Artikel  2a  
 
-De EG-verordening standaardlekcontroles stationaire koelinstallaties en artikel 3, eerste tot en met zesde lid, van de f-gassenverordening zijn van overeenkomstige toepassing op mobiele koelsystemen.  
+De EG-verordening standaardlekcontroles stationaire koelinstallaties en artikel 3, eerste tot en met zesde lid, van de f-gassenverordening zijn van overeenkomstige toepassing op mobiele koelsystemen. 
 
 ### Artikel  3  
 
-1.  Het is verboden: 
+1. Het is verboden: 
 
 a. te handelen in strijd met de voorschriften, gesteld bij de artikelen 3, eerste, tweede, derde en zesde lid, 4, 5, derde lid, en 6, eerste lid, van de f-gassenverordening, en  
 
-b. te handelen in strijd met de verboden, gesteld bij de artikelen 7, eerste lid, in verbinding met het tweede lid, 8 en 9, eerste lid, in verbinding met het tweede lid, van de f-gassenverordening.     
+b. te handelen in strijd met de verboden, gesteld bij de artikelen 7, eerste lid, in verbinding met het tweede lid, 8 en 9, eerste lid, in verbinding met het tweede lid, van de f-gassenverordening.    
 2.  Het is verboden: 
 
 a. te handelen in strijd met de artikelen 2, eerste tot en met derde lid, 3 en 4 van verordening (EG) nr. 1494/2007 van de Europese Commissie van 17 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van de vorm van etiketten en aanvullende etiketteringseisen betreffende producten en apparatuur die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 332);  
@@ -69,7 +74,7 @@ b. te handelen in strijd met de artikelen 2 tot en met 7 van de EG-verordening s
 
 c. te handelen in strijd met de artikelen 2 tot en met 10 van de EG-verordening standaardlekcontroles stationaire koelinstallaties;  
 
-d. te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen uit apparatuur (PbEU L 92).     
+d. te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen uit apparatuur (PbEU L 92).   
 
 ### Artikel  4  
 
@@ -77,7 +82,7 @@ d. te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306
 2.  Bij ministeriële regeling worden regels gesteld inzake de certificering van bedrijven die werkzaamheden aan koelsystemen of brandbeveiligingssystemen en brandblusapparaten verrichten.   
 3.  Bij ministeriële regeling worden regels gesteld inzake de aanwijzing van instellingen die met de examinering en diplomering van personen, bedoeld in het eerste lid, of met de certificering van bedrijven, bedoeld in het tweede lid, zijn belast.   
 4.  Het is verboden in strijd te handelen met de krachtens het eerste tot en met derde lid te stellen regels.   
-5.  Bedrijven die de in de artikelen 3 en 4 van de f-gassenverordening genoemde activiteiten verrichten, voldoen aan artikel 5, vierde lid, van die verordening.   
+5.  Bedrijven die de in de artikelen 3 en 4 van de f-gassenverordening genoemde activiteiten verrichten, voldoen aan artikel 5, vierde lid, van die verordening.  
 
 ### §  3  
 
@@ -85,24 +90,24 @@ d. te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306
 
 ### Artikel  5  
 
-Wijzigt het Besluit broeikasgassen Wms 2003.   
+Wijzigt het Besluit broeikasgassen Wms 2003. 
 
 ### Artikel  6  
 
-Wijzigt het Besluit ozonlaagafbrekende stoffen Wms 2003.   
+Wijzigt het Besluit ozonlaagafbrekende stoffen Wms 2003. 
 
 ### Artikel  7  
 
-Wijzigt het Transactiebesluit milieudelicten.   
+Wijzigt het Transactiebesluit milieudelicten. 
 
 ### Artikel  8  
 
 1.  Na de inwerkingtreding van dit besluit berust de [Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf](../../../../../../../ministeriele-regeling/aanwijzingsregeling/stichting/erkenningsregeling/voor/de/uitoefening/van/etc/BWBR0005786/README.md) op artikel 4, eerste lid, van dit besluit, [artikel 5, derde lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) en [artikel 1, derde lid, van het Besluit broeikasgassen in apparatuur op schepen Wms 2003](../../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md).   
-2.  Na de inwerkingtreding van dit besluit berust de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md) uitsluitend op [artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md).   
+2.  Na de inwerkingtreding van dit besluit berust de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md) uitsluitend op [artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md).  
 
-### Artikel  8a  
+###Artikel 8a 
 
-Dit besluit berust mede op de [artikelen 9.2.2.1](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+Dit besluit berust mede op de [artikelen 9.2.2.1](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
 
 ### Artikel  9  
 
@@ -113,11 +118,11 @@ a. treedt artikel 3, onder b, voor zover dat betrekking heeft op artikel 8, eers
 
 b. treedt artikel 3, onder a, voor zover dat betrekking heeft op artikel 6, eerste lid, van de verordening, in werking met ingang van 1 april 2008;  
 
-c. treedt artikel 4, tweede lid, in werking met ingang van 4 juli 2009.     
+c. treedt artikel 4, tweede lid, in werking met ingang van 4 juli 2009.    
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit gefluoreerde broeikasgassen milieubeheer.  
+Dit besluit wordt aangehaald als: Besluit gefluoreerde broeikasgassen milieubeheer. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -136,5 +141,5 @@ A. Klink
 
 de *twintigste* november 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

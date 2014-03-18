@@ -1,14 +1,18 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling suiker, isoglucose en inulinestroop 1999
+##Regeling suiker, isoglucose en inulinestroop 1999 
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-gelet op de artikelen 13, 23 en 32 van de Landbouwwet;
-Besluit:    
+gelet op de [artikelen 13](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [23](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [32 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. Minister:  Minister van Economische Zaken;    b. verordening 967/2006:  Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);    c. Raad:  Raad van de Europese Unie;    d. verordening:  Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);    e. Commissie:  Commissie van de Europese Gemeenschappen;    f. Dienst Regelingen:  directeur van de Dienst Regelingen van het Ministerie van Economische Zaken;    g. suiker:  de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening.     
+In deze regeling wordt verstaan onder: a. Minister: Minister van Economische Zaken;b. verordening 967/2006: Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);c. Raad: Raad van de Europese Unie;d. verordening: Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);e. Commissie: Commissie van de Europese Gemeenschappen;f.Dienst Regelingen: directeur van de Dienst Regelingen van het Ministerie van Economische Zaken;g. suiker: de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;h.verordening 1360/2013: Verordening (EU) nr. 1360/2013 van de Raad van 2 december 2013 tot vaststelling van de bedragen van de productieheffingen in de sector suiker voor de verkoopseizoenen 2001/2002, 2002/2003, 2003/2004, 2004/2005 en 2005/2006, de coëfficiënt voor de berekening van de aanvullende heffing voor de verkoopseizoenen 2001/2002 en 2004/2005 en de bedragen die de suikerfabrikanten aan de suikerbietenverkopers moeten betalen vanwege het verschil tussen de maximumheffing en de te innen heffing voor de verkoopseizoenen 2002/2003, 2003/2004 en 2005/2006.  
+
+### §  1  
+
+####Suikerbegeleidingscommissie
 
 ### Artikel  2  
 
@@ -46,6 +50,10 @@ h. drie leden door organisaties van werknemers.
 8.  De Suikerbegeleidingscommissie stelt haar huishoudelijk reglement vast.   
 9.  In zoverre in afwijking van het achtste lid, geldt als huishoudelijk reglement als bedoeld in dat artikellid, het huishoudelijk reglement, zoals laatstelijk vastgesteld op grond van de Regeling suiker, isoglucose en inulinestroop door de in die regeling genoemde Suikerbegeleidingscommissie, tot het tijdstip waarop de Suikerbegeleidingscommissie dit reglement vervangt.   
 
+### §  2  
+
+####Interventie, erkenning en prijsinformatie
+
 ### Artikel  3  
 
 1.  De Minister verricht ten titel van interventie de aankopen van suiker met inachtneming van het hetgeen dienaangaande in de verordening en de uitvoeringsregelingen is bepaald.   
@@ -59,24 +67,32 @@ De Minister verricht de aankopen tegen de gegarandeerde prijs van preferentiële
 ### Artikel  5  
 
 1.  De Minister verleent op verzoek een erkenning aan producenten van suiker, isoglucose of aan de verwerkers van deze producten tot de producten, bedoeld in de bijlage van verordening 967/2006.   
-2.  De erkende ondernemingen verstrekken aan Dienst Regelingen maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.   
+2.  De erkende ondernemingen verstrekken aan Dienst Regelingen maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.  
 
 ### Artikel  5a  
 
-Een erkende suikeronderneming die over een productiequotum beschikt en een erkende onderneming die industriële suiker verwerkt geeft aan Dienst Regelingen, overeenkomstig verordening 967/2006, maandelijks gegevens door over het gehanteerde prijsniveau.  
+Een erkende suikeronderneming die over een productiequotum beschikt en een erkende onderneming die industriële suiker verwerkt geeft aan Dienst Regelingen, overeenkomstig verordening 967/2006, maandelijks gegevens door over het gehanteerde prijsniveau. 
+
+### §  3  
+
+####Heffing
 
 ### Artikel  5b  
 
 1.  Voor 14 april van elk jaar deelt een producent van suiker de hoeveelheid suiker mee die hij boven zijn productiequotum heeft geproduceerd in het lopende verkoopseizoen aan Dienst Regelingen.   
-2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening.   
+2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening.  
 
 ### Artikel  5c  
 
-De Minister vordert een productieheffing in over het quotum, voor het betrokken verkoopseizoen overeenkomstig de verordening bij de producent die over een suiker- of isoglucosequotum beschikt.  
+De Minister vordert een productieheffing in over het quotum, voor het betrokken verkoopseizoen overeenkomstig de verordening bij de producent die over een suiker- of isoglucosequotum beschikt. 
 
 ### Artikel  5d  
 
-De Minister vordert bij de producent een door de Europese Commissie vast te stellen heffing in over het extra quotum dat voor het betrokken verkoopseizoen wordt toegekend bij of krachtens de verordening.  
+De Minister vordert bij de producent een door de Europese Commissie vast te stellen heffing in over het extra quotum dat voor het betrokken verkoopseizoen wordt toegekend bij of krachtens de verordening. 
+
+### Artikel  5e  
+
+De minister kan op grond van de artikelen 1 en 2 van verordening 1360/2013 een teruggaaf verlenen aan een suikerfabrikant, suikerbietenteler of aan een producent van suiker, isoglucose of inulinestroop. 
 
 ### Artikel  7  
 
@@ -84,20 +100,20 @@ De Minister stelt de quota, bedoeld in artikel 7 van de verordening vast. Deze b
 
 ### Artikel  8  
 
-De Regeling suiker, isoglucose en inulinestroop <sup>1</sup> wordt ingetrokken.  
+De Regeling suiker, isoglucose en inulinestroop<sup>1</sup> wordt ingetrokken.  
 
 ### Artikel  9  
 
-Wijzigt de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen.   
+Wijzigt de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen. 
 
 ### Artikel  9a  
 
-Deze regeling is mede gebaseerd op artikel 19 van de Landbouwwet.  
+Deze regeling is mede gebaseerd op [artikel 19 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
 
 ### Artikel  9b  
 
 1.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige meldingen, aanvragen of verzoeken die zijn ingediend op grond van de Verordening HPA suiker en isoglucose 2007 worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.   
-2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de Verordening HPA suiker en isoglucose 2007 door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.   
+2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de [Verordening HPA suiker en isoglucose 2007](../../../../../../../../pbo/verordening/hpa/suiker/en/isoglucose/2007/BWBR0022087/README.md) door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.  
 
 ### Artikel  10  
 
@@ -106,9 +122,9 @@ Deze regeling is mede gebaseerd op artikel 19 van de Landbouwwet.
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling suiker, isoglucose en inulinestroop 1999.  
+Deze regeling wordt aangehaald als: Regeling suiker, isoglucose en inulinestroop 1999. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Landbouw, Natuurbeheer en Visserij, 
-H.H.Apotheker    
+Minister van Landbouw, Natuurbeheer en Visserij,
+H.H.  Apotheker      

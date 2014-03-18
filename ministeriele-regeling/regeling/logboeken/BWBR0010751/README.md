@@ -4,23 +4,26 @@
 
 De Staatssecretaris van Verkeer en Waterstaat,  
 Gelet op [artikel 2.10, eerste lid, van de Wet Luchtverkeer](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-1.  De houder van een RPL, PPL, CPL of ATPL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in bijlage 1 bij deze regeling opgenomen model.   
+1.  De houder van een RPL, respectievelijk een PPL, CPL of ATPL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model respectievelijk het model zoals in de aanvaardbare en alternatieve wijzen van naleving behorend bij verordening (EU) nr. 1178/2011, FCL.050, door EASA is vastgesteld gelijk is aan het in bijlage 1 bij deze regeling opgenomen model.   
 2.  In afwijking van het eerste lid, houdt de houder van een bewijs van bevoegdheid die vluchten uitvoert met een luchtvaartuig van de categorie zweeftoestellen (G) de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in bijlage 2 bij deze regeling opgenomen model.   
 3.  De houder van een CFEL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in bijlage 3 bij deze regeling opgenomen model.   
-4.  De houder kan de gegevens van vluchten uitgevoerd onder een AOC door de luchtvaartmaatschappij in een geautomatiseerd logboek doen bijhouden, waarvan het model voor houders van een CPL of ATPL gelijk is aan het in bijlage 1 en voor houders van een CFEL gelijk is aan het in bijlage 3 bij deze regeling opgenomen model, mits de houder met de luchtvaartmaatschappij overeenkomt dat het logboek telkens op verzoek van de houder beschikbaar wordt gesteld.   
+4.   De houder kan de gegevens in een geautomatiseerd logboek doen bijhouden, mits de houder met de luchtvaartmaatschappij overeenkomt dat het logboek telkens op verzoek van de houder beschikbaar wordt gesteld.  
+
+### Artikel  1a  
+
+Deze regeling berust op de [artikelen 1.5](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [2.10, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
 
 ### Artikel  2  
 
-1.  De houder van het logboek, bedoeld in artikel 1, eerste en vierde lid, houdt de gegevens, bedoeld in JAR-FCL 1.080, onderdeel b voor de categorie vliegtuigen, bij op de wijze, bedoeld in JAR-FCL 1.080, onderdeel c.   
-2.  De houder van het logboek, bedoeld in artikel 1, eerste en vierde lid, houdt de gegevens, bedoeld in JAR-FCL 2.080, onderdeel b voor de categorie helikopters, bij op de wijze, bedoeld in JAR-FCL 2.080, onderdeel c.   
+Een logboek als bedoeld in artikel 1, eerste en vierde lid wordt ingevuld overeenkomstig de instructies zoals in de aanvaardbare en alternatieve wijzen van naleving behorend bij verordening (EU) nr. 1178/2011, FCL.050, door EASA zijn vastgesteld.
 
-### Artikel  2a  
+### Artikel 2a  
 
-De bijlage bij deze regeling ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+De bijlage bij deze regeling ligt ter inzage bij het Ministerie van Verkeer en Waterstaat. 
 
 ### Artikel  3  
 
@@ -28,7 +31,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de datum van pub
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling logboeken.  
+Deze regeling wordt aangehaald als: Regeling logboeken. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -36,9 +39,9 @@ Den Haag
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries   
+J.M. de Vries     
 
-### Bijlage  1  
+### Bijlage 1  
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -110,7 +113,7 @@ J.M. deVries
 | TOTAL PREVIOUS PAGES  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TOTAL TIME  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | PILOTS SIGNATURE  |
 
-### Bijlage  2  
+### Bijlage 2  
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -144,7 +147,7 @@ J.M. deVries
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <<Te transporteren>>  | --- | --- | --- | --- |
 
-### Bijlage  3  
+### Bijlage 3  
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

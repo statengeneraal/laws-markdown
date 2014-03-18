@@ -16,12 +16,12 @@ In deze regeling wordt verstaan onder:
 
 *pleegzorgaanbieder:* zorgaanbieder die pleegzorg biedt;  
 
-*wet:*[Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+*wet:* [Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 
 ### Artikel  2  
 
 1.  Het pleegcontract tussen een pleegzorgaanbieder en een pleegouder niet zijnde een pleegoudervoogd voldoet aan de eisen, opgenomen in bijlage 1.   
-2.  Het pleegcontract tussen een pleegzorgaanbieder en een pleegoudervoogd voldoet aan de eisen, opgenomen in bijlage 2.   
+2.  Het pleegcontract tussen een pleegzorgaanbieder en een pleegoudervoogd voldoet aan de eisen, opgenomen in bijlage 2.  
 
 ### Artikel  3  
 
@@ -35,28 +35,28 @@ c. de reden van uithuisplaatsing;
 
 d. de medische gegevens van het pleegkind;  
 
-e. gegevens omtrent de dagbesteding van het pleegkind.    
+e. gegevens omtrent de dagbesteding van het pleegkind.   
 
 ### Artikel  4  
 
-In afwijking van artikel 2, eerste en tweede lid, kunnen pleegcontracten met een pleegouder, die tot stand zijn gekomen voorafgaand aan de inwerkingtreding van deze regeling ongewijzigd in stand blijven voor de duur van achttien weken na inwerkingtreding van deze regeling.  
+In afwijking van artikel 2, eerste en tweede lid, kunnen pleegcontracten met een pleegouder, die tot stand zijn gekomen voorafgaand aan de inwerkingtreding van deze regeling ongewijzigd in stand blijven voor de duur van achttien weken na inwerkingtreding van deze regeling. 
 
 ### Artikel  5  
 
-De [Regeling pleegzorg](../../../../../ministeriele-regeling/regeling/pleegzorg/BWBR0017813/README.md) wordt ingetrokken.  
+De [Regeling pleegzorg](../../../../../ministeriele-regeling/regeling/pleegzorg/BWBR0017813/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 juli 2013.  
+Deze regeling treedt in werking met ingang van 1 juli 2013. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling pleegzorg 2013.  
+Deze regeling wordt aangehaald als: Regeling pleegzorg 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn  
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn    
 
 ### Bijlage  1  
 
@@ -80,7 +80,7 @@ e. het verkrijgen van de voogdij door de pleegouder.
 
 4. Het pleegcontract kan alleen schriftelijk beëindigd worden.  
 
-5. Het pleegcontract regelt dat de plaatsing van een pleegkind bij een pleegouder door de pleegzorgaanbieder slechts eenzijdig tussentijds kan worden beëindigd als het belang van het pleegkind dit vergt. Een dergelijke tussentijdse beëindiging vindt niet plaats dan nadat hierover overleg is gevoerd met de pleegouder(s). Indien de pleegzorgaanbieder ernstige vermoedens heeft dat de pleegouder het pleegkind opvoedt in strijd met het hulpverleningsplan of dat verblijf bij de pleegouder schadelijk is voor de ontwikkeling van het pleegkind, kan hij de overeenkomst onverwijld, zonder overleg, eenzijdig beëindigen. <sup> 1  Als een pleegcontract wordt gesloten met twee pleegouders, moet hierna in plaats van ‘pleegouder’ worden gelezen: pleegouders.  </sup>  
+5. Het pleegcontract regelt dat de plaatsing van een pleegkind bij een pleegouder door de pleegzorgaanbieder slechts eenzijdig tussentijds kan worden beëindigd als het belang van het pleegkind dit vergt. Een dergelijke tussentijdse beëindiging vindt niet plaats dan nadat hierover overleg is gevoerd met de pleegouder(s). <sup> 1 Als een pleegcontract wordt gesloten met twee pleegouders, moet hierna in plaats van ‘pleegouder’ worden gelezen: pleegouders. </sup> Indien de pleegzorgaanbieder ernstige vermoedens heeft dat de pleegouder het pleegkind opvoedt in strijd met het hulpverleningsplan of dat verblijf bij de pleegouder schadelijk is voor de ontwikkeling van het pleegkind, kan hij de overeenkomst onverwijld, zonder overleg, eenzijdig beëindigen.  
 
 6. Het pleegcontract regelt dat een eenzijdige tussentijdse opzegging door de pleegouder niet plaatsvindt dan nadat de pleegouder hierover overleg heeft gevoerd met de pleegzorgaanbieder. Indien de pleegouder het contract wenst op te zeggen om reden dat de pleegzorgaanbieder nalatig is in het nakomen van het pleegcontract, vindt beëindiging niet plaats dan nadat de pleegouder zijn bezwaren betreffende de uitvoering van het pleegcontract door de pleegzorgaanbieder schriftelijk aan de pleegzorgaanbieder kenbaar heeft gemaakt en de pleegzorgaanbieder de uitvoering niet binnen drie weken heeft verbeterd. Eenzijdige beëindiging door de pleegouder geschiedt niet dan nadat de pleegzorgaanbieder gedurende één week in de gelegenheid is gesteld te zorgen voor een vervangend verblijf voor het pleegkind.  
 
@@ -140,7 +140,7 @@ d. zich onder alle omstandigheden onthoudt van seksueel of erotisch getint conta
 
 2. Het pleegcontract vangt aan op het moment dat de pleegouder de voogdij over het pleegkind heeft gekregen en het pleegkind binnen zijn gezin verzorgt en opvoedt in het kader van een plaatsing door de pleegzorgaanbieder.  
 
-3. Het pleegcontract eindigt wanneer de voogdij van de pleegoudervoogd(en) eindigt, dan wel wanneer de aanspraak op pleegzorg van het pleegkind vervalt. <sup> 2  Als het pleegcontract is gesloten met twee pleegoudervoogden, moet hierna in plaats van ‘pleegoudervoogd’ worden gelezen: pleegoudervoogden.  </sup>  
+3. Het pleegcontract eindigt wanneer de voogdij van de pleegoudervoogd(en)<sup> 2 Als het pleegcontract is gesloten met twee pleegoudervoogden, moet hierna in plaats van ‘pleegoudervoogd’ worden gelezen: pleegoudervoogden. </sup> eindigt, dan wel wanneer de aanspraak op pleegzorg van het pleegkind vervalt.  
 
 4. Het pleegcontract bepaalt dat de pleegoudervoogd naar eigen inzicht en op eigen wijze invulling geeft aan de verzorging en opvoeding van het pleegkind.  
 

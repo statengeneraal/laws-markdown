@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 juli 2008, Z/VU-2866125;
 
-Gelet op de [artikelen 6, tweede lid](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [9a, eerste lid](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de [artikelen 3, eerste lid](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [5, tweede lid, onderdeel b, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op de [artikelen 6, tweede lid](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md),[ 9a, eerste lid](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de [artikelen 3, eerste lid](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [5, tweede lid, onderdeel b, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
 
 De Raad van State gehoord (advies van 16 oktober 2008, no. W13.08.0352/I);
 
@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgaanspraken AWBZ.   
+Wijzigt het Besluit zorgaanspraken AWBZ. 
 
 ### Artikel  II  
 
-Wijzigt het Zorgindicatiebesluit.   
+Wijzigt het Zorgindicatiebesluit. 
 
 ### Artikel  III  
 
-Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.   
+Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering. 
 
 ### Artikel  IV  
 
-Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.   
+Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg. 
 
 ### Artikel  V  
 
-Wijzigt het Wijzigingsbesluit Besluit zorgaanspraken AWBZ (beperking aanspraak op extramurale ondersteunende begeleiding en uitbreiding aanspraak op activerende begeleiding).   
+Wijzigt het Wijzigingsbesluit Besluit zorgaanspraken AWBZ (beperking aanspraak op extramurale ondersteunende begeleiding en uitbreiding aanspraak op activerende begeleiding). 
 
 ### Artikel  VI  
 
@@ -42,11 +42,11 @@ Wijzigt het Wijzigingsbesluit Besluit zorgaanspraken AWBZ (beperking aanspraak o
 a. zes maanden volgende op die eindigingsdatum recht op de direct voorgaande aan die datum genoten zorg als zou zijn aanspraak niet geëindigd zijn, indien sprake is van een eindigingsdatum uiterlijk op 30 juni 2009;  
 
 b. drie maanden volgende op die eindigingsdatum, maar uiterlijk tot 1 januari 2010, recht op de direct voorgaande aan die datum genoten zorg als zou zijn aanspraak niet geëindigd zijn, indien sprake is van een eindigingsdatum die ligt na 30 juni 2009.     
-4.  Het derde lid geldt niet voor verzekerden die zorg genoten in verband met psychosociale problemen.   
+4.  Het derde lid geldt niet voor verzekerden die zorg genoten in verband met psychosociale problemen.  
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van 1 januari 2009, met uitzondering van artikel V, dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
+Dit besluit treedt in werking met ingang van 1 januari 2009, met uitzondering van artikel V, dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

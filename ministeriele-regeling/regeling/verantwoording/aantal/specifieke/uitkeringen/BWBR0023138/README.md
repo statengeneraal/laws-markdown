@@ -15,7 +15,7 @@ a. het college van burgemeester en wethouders vraagt de vaststelling van de uitk
 b. gedeputeerde staten vragen de vaststelling van de uitkering voor een breedtesportondersteuningsproject aan door verantwoordingsinformatie aan de Minister van Volksgezondheid, Welzijn en Sport te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
 
 c. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) is van overeenkomstige toepassing op de verantwoordingsinformatie, bedoeld onder a en b.     
-2.  Het eerste lid wordt toegepast ten aanzien van uitkeringen waarvan de periode waarvoor de uitkering is verstrekt eindigt na 31 december 2006.   
+2.  Het eerste lid wordt toegepast ten aanzien van uitkeringen waarvan de periode waarvoor de uitkering is verstrekt eindigt na 31 december 2006.  
 
 ### Artikel  2  
 
@@ -24,41 +24,41 @@ c. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeen
 a. het college van burgemeester en wethouders vraagt de vaststelling van de uitkering voor een BOS-project aan door verantwoordingsinformatie aan de Minister van Volksgezondheid, Welzijn en Sport te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
 
 b. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) is van overeenkomstige toepassing op de verantwoordingsinformatie.     
-2.  Het eerste lid wordt toegepast ten aanzien van het verslag over de kalenderjaren 2007 tot en met 2011 alsmede ten aanzien van het verslag en de verklaring met betrekking tot de periode waarvoor een uitkering is verstrekt die eindigt na 1 juli 2007.   
+2.  Het eerste lid wordt toegepast ten aanzien van het verslag over de kalenderjaren 2007 tot en met 2011 alsmede ten aanzien van het verslag en de verklaring met betrekking tot de periode waarvoor een uitkering is verstrekt die eindigt na 1 juli 2007.  
 
 ### Artikel  3  
 
-Wijzigt de Regeling bekostiging jeugdzorg.   
+Wijzigt de Regeling bekostiging jeugdzorg. 
 
 ### Artikel  4  
 
-Wijzigt de Rijkssubsidieregeling jeugdzorg.   
+Wijzigt de Rijkssubsidieregeling jeugdzorg. 
 
 ### Artikel  5  
 
-Wijzigt de Subsidieregeling publieke gezondheid.   
+Wijzigt de Subsidieregeling publieke gezondheid.
 
 ### Artikel  6  
 
-Wijzigt de Tijdelijke stimuleringsregeling advies- en steunpunten huiselijk geweld.   
+Wijzigt de Tijdelijke stimuleringsregeling advies- en steunpunten huiselijk geweld.
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+A. Klink   
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-M.Bussemaker 
+M. Bussemaker   
 
 De 
 Minister voor Jeugd en Gezin, 
-A.Rouvoet 
+A. Rouvoet   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

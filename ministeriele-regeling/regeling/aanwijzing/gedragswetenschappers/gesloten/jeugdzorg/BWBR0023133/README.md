@@ -14,21 +14,21 @@ De in de [artikelen 29b, vijfde lid](../../../../../../../wet/wet/op/de/jeugdzor
 
 – de leden van de Nederlandse Vereniging van Pedagogen en Onderwijskundigen, die zijn geregistreerd als Orthopedagoog-Generalist;  
 
-– degenen die als gezondheidszorgpsycholoog of psychotherapeut ingeschreven zijn in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).    
+– degenen die als gezondheidszorgpsycholoog of psychotherapeut ingeschreven zijn in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).   
 
 ### Artikel  2  
 
-Indien het bij koninklijke boodschap van 7 juli 2006 ingediende voorstel van wet tot Wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg) (Kamerstukken II 2005/06, 30 644, nrs. 1-2) nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.  
+Indien het bij koninklijke boodschap van 7 juli 2006 ingediende voorstel van wet tot Wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg) (Kamerstukken II 2005/06, 30 644, nrs. 1-2) nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing gedragswetenschappers gesloten jeugdzorg.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing gedragswetenschappers gesloten jeugdzorg. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister voor Jeugd en Gezin, 
-A.Rouvoet 
+A. Rouvoet   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

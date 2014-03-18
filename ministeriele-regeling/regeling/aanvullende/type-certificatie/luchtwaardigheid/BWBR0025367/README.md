@@ -17,7 +17,7 @@ In deze regeling wordt verstaan onder:
 
 *lijst van bewijsvoering:* document waarin wordt vastgelegd op welke wijze is aangetoond dat aan de in de certificatiebasis gestelde eisen is voldaan en met welke middelen dit is onderbouwd;  
 
-*Minister:* Minister van Verkeer en Waterstaat.    
+*minister:* Minister van Infrastructuur en Milieu.   
 
 ### §  2  
 
@@ -25,10 +25,10 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  De Minister neemt een aanvraag voor een aanvullend type-certificaat in behandeling voor het inbouwen van een wijziging in een in Nederland geregistreerd niet-militair staatsluchtvaartuig, of een in bijlage II bij verordening (EG) nr. 216/2008 genoemd luchtvaartuig voorzien van een nationaal ICAO-standaard-BvL indien de aanvrager naar het oordeel van de Minister over voldoende kennis en ervaring beschikt om het ontwerp en de blijvende luchtwaardigheid daarvan te ondersteunen.   
-2.  Een aanvraag voor een aanvullend type-certificaat wordt ingediend overeenkomstig Part 21A.113 van verordening (EG) nr. 1702/2003.   
-3.  De aanvrager toont voor de afgifte van een aanvullend type-certificaat conform Part 21A.114 van verordening (EG) nr. 1702/2003 aan, dat het gewijzigde product voldoet aan de eisen conform Part 21A.101 van verordening (EG) nr. 1702/2003.   
-4.  De afgifte van een aanvullend type-certificaat wordt op door de Minister te bepalen wijze bekendgemaakt.   
+1. De minister neemt een aanvraag voor een aanvullend type-certificaat voor het inbouwen van een wijziging in een Nederlands luchtvaartuig dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, of een in bijlage II bij de basisverordening genoemd Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, in behandeling, indien de aanvrager naar het oordeel van de minister over voldoende kennis en ervaring beschikt om het ontwerp en de blijvende luchtwaardigheid daarvan te ondersteunen.  
+2.  Een aanvraag voor een aanvullend type-certificaat wordt ingediend overeenkomstig Part 21A.113 van verordening (EU) nr. 748/2012.   
+3.  De aanvrager toont voor de afgifte van een aanvullend type-certificaat conform Part 21A.114 van verordening (EU) nr. 748/2012 aan, dat het gewijzigde product voldoet aan de eisen conform Part 21A.101 van verordening (EU) nr. 748/2012.   
+4.  De afgifte van een aanvullend type-certificaat wordt op door de minister te bepalen wijze bekendgemaakt.  
 
 ### §  3  
 
@@ -36,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-1.  De Minister vermeldt overeenkomstig Part 21A.101, 21A.113 en 21A.114 van verordening (EG) nr. 1702/2003, in de certificatiebasis de van toepassing zijnde eisen, waaraan een product waarvoor de aanvraag voor een aanvullend type-certificaat volgens artikel 2 in behandeling is genomen, moet voldoen.   
+1.  De minister vermeldt overeenkomstig Part 21A.101, 21A.113 en 21A.114 van verordening (EU) nr. 748/2012, in de certificatiebasis de van toepassing zijnde eisen, waaraan een product waarvoor de aanvraag voor een aanvullend type-certificaat volgens artikel 2 in behandeling is genomen, moet voldoen.   
 2.  De aanvrager geeft aan te voldoen aan de gestelde eisen in de certificatiebasis en de daarvoor benodigde bewijsvoering te zullen leveren ten behoeve van het derde lid van artikel 2.   
 3.  De aanvrager legt in de lijst van bewijsvoering vast, op welke wijze de bewijsvoering geleverd is, en met welke middelen deze onderbouwd is. Deze bewijsvoering wordt in de volgende categorieën ingedeeld:  Lijst van bewijsvoering 
 
@@ -61,9 +61,9 @@ b. de referentie naar het document waarin de resultaten of bevindingen van de be
 
 c. de referentie van de acceptatie van die vastlegging.     
 5.  De lijst van bewijsvoering, de certificatiebasis, en de daarbij behorende documentatie wordt opgenomen in een certificatiedossier.   
-6.  Indien de aanvraag een niet eerder toegepaste bewijsvoeringsmethode omvat, dient de aanvrager overeenstemming met de Minister bereikt te hebben, alvorens deze methode toegepast mag worden. De acceptatie door de Minister wordt vastgelegd in een wijze van interpretatie en opgenomen in de certificatiebasis.   
-7.  De aanvrager kan een verzoek indienen om ontheffing van één of meer gestelde eisen in de certificatiebasis. De Minister kan dit accepteren als daartoe gegronde redenen bestaan. Deze acceptatie wordt vastgelegd in een dispensatie van eis en opgenomen in de certificatiebasis.   
-8.  De aanvrager kan een verzoek indienen om aan een gestelde eis op andere, maar equivalente wijze te voldoen. De Minister kan dit accepteren als daartoe gegronde redenen bestaan. Deze acceptatie wordt vastgelegd in een equivalente eis en opgenomen in de certificatiebasis.   
+6.  Indien de aanvraag een niet eerder toegepaste bewijsvoeringsmethode omvat, dient de aanvrager overeenstemming met de minister bereikt te hebben, alvorens deze methode toegepast mag worden. De acceptatie door de minister wordt vastgelegd in een wijze van interpretatie en opgenomen in de certificatiebasis.   
+7.  De aanvrager kan een verzoek indienen om ontheffing van één of meer gestelde eisen in de certificatiebasis. De minister kan dit accepteren als daartoe gegronde redenen bestaan. Deze acceptatie wordt vastgelegd in een dispensatie van eis en opgenomen in de certificatiebasis.   
+8.  De aanvrager kan een verzoek indienen om aan een gestelde eis op andere, maar equivalente wijze te voldoen. De minister kan dit accepteren als daartoe gegronde redenen bestaan. Deze acceptatie wordt vastgelegd in een equivalente eis en opgenomen in de certificatiebasis.   
 9.  De aanvrager heeft voldaan aan het gestelde in het derde lid van artikel 2 indien: 
 
 a. aan alle eisen in de certificatiebasis voldaan is,  
@@ -72,14 +72,14 @@ b. de aanvrager heeft verklaard dat voldaan is aan de eisen gesteld in de certif
 
 c. de lijst van bewijsvoering volledig is, en  
 
-d. de aanvrager heeft verklaard dat hem geen eigenschappen van zijn product bekend zijn, die de veiligheid in gevaar brengen.     
+d. de aanvrager heeft verklaard dat hem geen eigenschappen van zijn product bekend zijn, die de veiligheid in gevaar brengen.    
 
 ### Artikel  4  
 
 1.  Voor het uitvoeren van testvluchten ter verkrijging van een aanvullend type-certificaat wordt door de aanvrager toestemming gevraagd.   
-2.  De aanvrager van de toestemming als bedoeld in het eerste lid krijgt toestemming van de Minister wanneer de aanvrager voldoet aan de eisen overeenkomstig Part 21A.33 en Part 21A.35 van verordening (EG) nr. 1702/2003.   
+2.  De aanvrager van de toestemming als bedoeld in het eerste lid krijgt toestemming van de minister wanneer de aanvrager voldoet aan de eisen overeenkomstig Part 21A.33 en Part 21A.35 van verordening (EU) nr. 748/2012.   
 3.  De toestemming voor het uitvoeren van testvluchten als bedoeld in het eerste lid wordt bij een ingrijpende wijziging van het type-ontwerp gegeven in de vorm van een speciaal-BvL.   
-4.  De toestemming voor het uitvoeren van testvluchten als bedoeld in het eerste lid wordt bij een geringe wijziging van het type-ontwerp gegeven in de vorm van een ontheffing op grond van [artikel 3.21 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
+4.  De toestemming voor het uitvoeren van testvluchten als bedoeld in het eerste lid wordt bij een geringe wijziging van het type-ontwerp gegeven in de vorm van een ontheffing op grond van [artikel 3.21 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
 
 ### §  4  
 
@@ -87,14 +87,14 @@ d. de aanvrager heeft verklaard dat hem geen eigenschappen van zijn product beke
 
 ### Artikel  5  
 
-1.  De houder van een aanvullend type-certificaat kan de Minister verzoeken een andere persoon aan te wijzen als houder van het aanvullend type-certificaat.   
-2.  De Minister wijst het verzoek toe als aan de volgende voorwaarden is voldaan: 
+1.  De houder van een aanvullend type-certificaat kan de minister verzoeken een andere persoon aan te wijzen als houder van het aanvullend type-certificaat.   
+2.  De minister wijst het verzoek toe als aan de volgende voorwaarden is voldaan: 
 
 a. de nieuwe houder zich schriftelijk bereid verklaart om het houderschap te vervullen;  
 
 b. de oorspronkelijke houder verklaart alle ontwerp- en productiegegevens en de rechten daarop onvoorwaardelijk aan de nieuwe houder over te dragen;  
 
-c. indien de nieuwe houder naar het oordeel van de Minister over voldoende kennis en ervaring beschikt om het ontwerp en de blijvende luchtwaardigheid daarvan te ondersteunen;  
+c. indien de nieuwe houder naar het oordeel van de minister over voldoende kennis en ervaring beschikt om het ontwerp en de blijvende luchtwaardigheid daarvan te ondersteunen;  
 
 d. de nieuwe houder verklaart, dat voldaan zal worden aan de eisen gesteld in het ‘Document van overdracht van aanvullend type-certificaat’, bedoeld in het derde lid en aan de verplichtingen die voortvloeien uit ICAO Annex 8;, en  
 
@@ -107,39 +107,39 @@ b. de eventuele voorwaarden waaronder de bevoegde autoriteit de overdracht heeft
 
 c. de eventuele ontwerperkenning van de nieuwe houder;  
 
-d. alle eventuele aanvullende voorwaarden ten aanzien van de kennis en ervaring die onze Minister nodig acht, en  
+d. alle eventuele aanvullende voorwaarden ten aanzien van de kennis en ervaring die onze minister nodig acht, en  
 
-e. de verklaring van de nieuwe houder, dat voldaan zal worden aan de eisen gesteld in het ‘Document van overdracht van aanvullend type-certificaat’, aan de verplichtingen die voortvloeien uit ICAO Annex 8.     
+e. de verklaring van de nieuwe houder, dat voldaan zal worden aan de eisen gesteld in het ‘Document van overdracht van aanvullend type-certificaat’, aan de verplichtingen die voortvloeien uit ICAO Annex 8.    
 
 ### Artikel  6  
 
-1.  Bij een schorsing van het aanvullend type-certificaat is de houder van het aanvullend type-certjficaat verplicht het aanvullend type-certificaat zo spoedig mogelijk aan de Minister te zenden.   
+1.  Bij een schorsing van het aanvullend type-certificaat is de houder van het aanvullend type-certjficaat verplicht het aanvullend type-certificaat zo spoedig mogelijk aan de minister te zenden.   
 2.  Om een schorsing van een aanvullend type-certificaat op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.   
-3.  De schorsing en de opheffing van de schorsing wordt op door de Minister te bepalen wijze bekendgemaakt.   
-4.  Na opheffing van de schorsing, anders dan door intrekking, wordt aan de houder het aanvullend type-certificaat teruggezonden.   
+3.  De schorsing en de opheffing van de schorsing wordt op door de minister te bepalen wijze bekendgemaakt.   
+4.  Na opheffing van de schorsing, anders dan door intrekking, wordt aan de houder het aanvullend type-certificaat teruggezonden.  
 
 ### Artikel  7  
 
-1.  De houder van een aanvullend type-certificaat is bij intrekking daarvan verplicht het aanvullend type-certificaat zo spoedig mogelijk aan de Minister te zenden.   
-2.  De intrekking wordt op door de Minister te bepalen wijze bekendgemaakt.   
+1.  De houder van een aanvullend type-certificaat is bij intrekking daarvan verplicht het aanvullend type-certificaat zo spoedig mogelijk aan de minister te zenden.   
+2.  De intrekking wordt op door de minister te bepalen wijze bekendgemaakt.  
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  8  
+### Artikel  8   
 
-De [Regeling type-certificatie luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/type-certificatie/luchtwaardigheid/BWBR0012874/README.md) wordt ingetrokken.  
+De [Regeling type-certificatie luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/type-certificatie/luchtwaardigheid/BWBR0012874/README.md) wordt ingetrokken.
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-### Artikel  10  
+### Artikel  10   
 
 Deze regeling wordt aangehaald als: Regeling aanvullende type-certificatie luchtwaardigheid.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

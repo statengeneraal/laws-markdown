@@ -3,7 +3,7 @@
 ##Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 3.25 van de Wet luchtvaart en de artikelen 18, tweede lid, 19, tweede lid, onderdelen c en g, en 20, van het Besluit luchtvaartuigen 2008;
+Gelet op [artikel 3.25 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 18, tweede lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [19, tweede lid, onderdelen c en g](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [20, van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,19 +13,19 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-*autoriseringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;  
+*autoriseringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht; 
 
-*BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+*BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md); 
 
-*BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+*BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md); 
+
+*CAMO-erkenning:* erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart G;
 
 *certificeringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;  
 
-*ernstig defect of gebrek:* defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;  
+*ernstig defect of gebrek: * defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;  
 
 *houder van een erkenning:* natuurlijk of rechtspersoon, erkend door de Minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;  
-
-*kleine luchtvaart:* luchtvaartuigen vallende onder verordening (EG) nr. 216/2008 en geclassificeerd als vliegtuigen met een maximaal toelaatbare startmassa van 5700 kg of minder, eenmotorige helikopters of ballonnen;  
 
 *kwaliteitssysteem:* stelsel van vastgelegde bedrijfskundige procedures, regels en voorzieningen dat betrekking heeft op het productieproces en ten doel heeft te verzekeren dat de resultaten van het productieproces aan de vooraf gestelde eisen voldoen;  
 
@@ -35,10 +35,18 @@ Besluit:
 
 *luchtwaardigheidsgegevens:* alle informatie die nodig is om ervoor te zorgen dat het luchtvaartuig of het onderdeel daarvan in een zodanige staat kan worden gehouden dat de luchtwaardigheid van het luchtvaartuig of het goed functioneren van de operationele uitrusting of de nooduitrusting verzekerd is;  
 
-*Minister:* Minister van Verkeer en Waterstaat; *orphan aircraft:* luchtvaartuig als bedoeld in artikel 1 van de Regeling bewijzen van luchtwaardigheid;  
+*minister:* Minister van Infrastructuur en Milieu; 
 
-verordening (EG) nr. 216/2008: verordening van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79).     
-2.  In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.   
+*MOA:* erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in bijlage II bij verordening (EG) nr. 2042/2003, (Maintenance Organisation Approval);
+
+*MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EG) nr. 2042/2003, Part M, section A, subpart F (Maintenance Organisation Approval-F);
+
+*orphan aircraft:* luchtvaartuig als bedoeld in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md).    
+2.  In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.  
+
+### Artikel  1a  
+
+Deze regeling is gebaseerd op de [artikelen 1.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [3.25 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 18, tweede lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [19, tweede lid, onderdelen c en g](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [20 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -46,53 +54,42 @@ verordening (EG) nr. 216/2008: verordening van het Europees Parlement en de Raad
 
 ### Artikel  2  
 
-1.  De Minister kan op een aanvraag de volgende erkenningen afgeven: 
-
-a. een MTOA,  
-
-b. een POA,  
-
-c. een MOA,  
-
-d. een MOA-F, of  
-
-e. een CAMO-erkenning.     
-2.  De aanvraag wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.   
-3.  Bij de aanvraag verstrekt de aanvrager naast de in de van toepassing zijnde Parts genoemde gegevens de volgende gegevens 
+1. De aanvraag voor een erkenning als bedoeld in verordening (EG) nr. 2042/2003 en verordening (EU) nr. 748/2012 wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.  
+2.  Bij de aanvraag verstrekt de aanvrager naast de in de van toepassing zijnde Parts genoemde gegevens de volgende gegevens 
 
 a. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister; en  
 
-b. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.     
+b. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.    
 
 ### Artikel  3  
 
 1.  Artikel 2 is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.   
 2.  Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.   
-3.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.   
+3.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.  
 
 ### Artikel  4  
 
 1.  Vanaf het tijdstip van schorsing van een erkenning mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.   
-2.  Om een schorsing op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.   
+2.  Om een schorsing op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.  
 
 ### Artikel  5  
 
 1.  Vanaf het tijdstip van intrekking van een erkenning mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.   
-2.  De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.   
+2.  De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.  
 
 ### Artikel  6  
 
-De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part 21 bij verordening (EG) 1702/2003 schriftelijk en onverwijld maar uiterlijk binnen 72 uur na constatering aan de Minister melden.  
+De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part 21 bij verordening (EU) nr. 748/2012 schriftelijk en onverwijld maar uiterlijk binnen 72 uur na constatering aan de Minister melden. 
 
 ### Artikel  6a  
 
-1.  De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een EASA luchtvaartuig en de daarbij behorende verklaringen.   
+1.  De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 4, eerste lid, onderdeel b, van de basisverordening en de daarbij behorende verklaringen.   
 2.  De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.   
 3.  De minister kan de aanvullende erkenning tot het uitvoeren van acceptatiekeuringen intrekken, indien: 
 
 a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of  
 
-b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.     
+b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.    
 
 ### Hoofdstuk  3  
 
@@ -104,7 +101,7 @@ Degene, die een aanvraag voor erkend inspecteur heeft ingediend, wordt erkend, n
 
 a. aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende bijlage A voldoet, en  
 
-b. wordt voorgedragen door de onderneming waarvoor hij werkzaamheden verricht.    
+b. wordt voorgedragen door de onderneming waarvoor hij werkzaamheden verricht.   
 
 ### Artikel  8  
 
@@ -116,11 +113,11 @@ b. een opgave van de werkzaamheden, welke de aanvrager zal gaan uitvoeren onder 
 
 c. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende bijlage A;  
 
-d. een exemplaar van te gebruiken modellen van de verklaringen van overeenstemming met de luchtwaardigheidseisen.    
+d. een exemplaar van te gebruiken modellen van de verklaringen van overeenstemming met de luchtwaardigheidseisen.   
 
 ### Artikel  9  
 
-Van de erkenning als erkend inspecteur wordt door de Minister een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is.  
+Van de erkenning als erkend inspecteur wordt door de minister een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is. 
 
 ### Artikel  10  
 
@@ -129,49 +126,49 @@ Van de erkenning als erkend inspecteur wordt door de Minister een bewijs afgegev
 a. kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend; en  
 
 b. de erkende inspecteur gedurende de voorafgaande termijn van geldigheid van de erkenning, de werkzaamheden waarvoor hij is erkend, in voldoende mate heeft verricht.     
-2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 9 bedoelde datum worden ingediend.   
+2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 9 bedoelde datum worden ingediend.  
 
 ### Artikel  11  
 
-1.  De erkende inspecteur deelt de Minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens artikel 8, aanhef en onder b tot en met d.   
-2.  De Minister kan voorwaarden stellen waaronder de in het eerste lid bedoelde wijzigingen worden geaccepteerd.   
+1.  De erkende inspecteur deelt de minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens artikel 8, aanhef en onder b tot en met d.   
+2.  De minister kan voorwaarden stellen waaronder de in het eerste lid bedoelde wijzigingen worden geaccepteerd.  
 
 ### Artikel  12  
 
 1.  De erkenning als erkend inspecteur wordt gewijzigd, nadat door de houder van de erkenning is aangetoond, dat hij ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als erkend inspecteur gestelde voorwaarden zal blijven voldoen.   
 2.  De artikelen 7 en 8 zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.   
 3.  Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.   
-4.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.   
+4.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.  
 
 ### Artikel  13  
 
 1.  Vanaf het tijdstip van schorsing van de erkenning mag de houder die bevoegdheden waarop de schorsing van de erkenning als erkend inspecteur betrekking heeft, niet uitoefenen.   
-2.  Om een schorsing op te heffen wordt door de houder van de erkenning aangetoond dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.   
+2.  Om een schorsing op te heffen wordt door de houder van de erkenning aangetoond dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.  
 
 ### Artikel  14  
 
 1.  Vanaf het tijdstip van intrekking van de erkenning mag de houder die bevoegdheden, waarop de intrekking van de erkenning als erkend inspecteur betrekking heeft, niet uitoefenen   
-2.  De erkend inspecteur is verplicht het bewijs van erkenning zo spoedig mogelijk aan de Minister te zenden.   
-3.  De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.   
+2.  De erkend inspecteur is verplicht het bewijs van erkenning zo spoedig mogelijk aan de minister te zenden.   
+3.  De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.  
 
 ### Artikel  15  
 
 1.  Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage A.   
-2.  De wijzigingen in het handboek worden zo spoedig mogelijk aan de Minister gezonden.   
+2.  De wijzigingen in het handboek worden zo spoedig mogelijk aan de minister gezonden.  
 
 ### Artikel  16  
 
-De erkend inspecteur bewaart de verklaringen van overeenstemming met de luchtwaardigheidseisen met betrekking tot de door hem verrichtte werkzaamheden.  
+De erkend inspecteur bewaart de verklaringen van overeenstemming met de luchtwaardigheidseisen met betrekking tot de door hem verrichtte werkzaamheden. 
 
 ### Artikel  17  
 
-Indien naar het oordeel van de Minister, een verbetering van het kwaliteitssysteem noodzakelijk is, treft de erkende inspecteur, met inachtneming van de door de Minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.  
+Indien naar het oordeel van de minister, een verbetering van het kwaliteitssysteem noodzakelijk is, treft de erkende inspecteur, met inachtneming van de door de minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem. 
 
 ### Hoofdstuk  4  
 
 ####Erkend zweefvliegtechnicus (EZT)
 
-Vervallen per 01-10-2011   
+Vervallen per 01-10-2011 
 
 ### Hoofdstuk  5  
 
@@ -188,7 +185,7 @@ b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig v
 
 a. het uitvoeren van een BvL-verlengingsinspectie aan een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en  
 
-b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.     
+b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.    
 
 ### Artikel  30  
 
@@ -206,7 +203,7 @@ a. hij in Nederland is gevestigd;
 b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EG) nr. 2042/2003; en  
 
 c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en de Regeling onderhoud luchtvaartuigen worden vermeld.     
-3.  De minister geeft een aanvullende onderhoudserkenning als bedoeld in artikel 29a, tweede lid, onderdelen a en b, af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.   
+3.  De minister geeft een aanvullende onderhoudserkenning als bedoeld in artikel 29a, tweede lid, onderdelen a en b, af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen. 
 
 ### Artikel  31  
 
@@ -224,16 +221,16 @@ e. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en h
 
 f. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister;  
 
-g. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.    
+g. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.   
 
 ### Artikel  32  
 
-Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is.  
+Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is. 
 
 ### Artikel  33  
 
 1.  Ten aanzien van de verlenging van een erkenning zijn de artikelen 30 en 31 van toepassing, met dien verstande dat kan worden volstaan met aan te geven welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens die voor de laatst verleende erkenning zijn ingediend.   
-2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 32 bedoelde datum worden ingediend.   
+2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 32 bedoelde datum worden ingediend.  
 
 ### Artikel  34  
 
@@ -252,19 +249,19 @@ e. een wijziging in de lijst van gemachtigden, tenzij anderszins met het bedrijf
 
 f. een belangrijke wijziging in de toegepaste werkwijzen;  
 
-g. verandering in de behuizing en de uitrusting van het bedrijf.     
+g. verandering in de behuizing en de uitrusting van het bedrijf.    
 
 ### Artikel  35  
 
-1.  Een aanvraag tot wijziging wordt door de Minister goedgekeurd nadat is aangetoond, dat het bedrijf ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.   
+1.  Een aanvraag tot wijziging wordt door de minister goedgekeurd nadat is aangetoond, dat het bedrijf ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.   
 2.  De artikelen 30 en 31 zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.   
 3.  Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.   
-4.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.   
+4.  Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.  
 
 ### Artikel  36  
 
 1.  Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.   
-2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.   
+2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.  
 
 ### Artikel  36a  
 
@@ -272,19 +269,19 @@ g. verandering in de behuizing en de uitrusting van het bedrijf.
 
 a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of  
 
-b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.     
+b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.    
 
 ### Artikel  37  
 
 1.  Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.   
-2.  De houder van de erkenning is verplicht het bewijs van erkenning zo spoedig mogelijk aan de Minister te zenden.   
-3.  De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.   
+2.  De houder van de erkenning is verplicht het bewijs van erkenning zo spoedig mogelijk aan de minister te zenden.   
+3.  De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.  
 
 ### Artikel  38  
 
 1.  Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage C.   
-2.  In door de Minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.   
-3.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de Minister.   
+2.  In door de minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.   
+3.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.  
 
 ### Artikel  39  
 
@@ -294,17 +291,17 @@ a. de gegevens met betrekking tot onderhoud van onderdelen of producten: tien ja
 
 b. de administratie betreffende de afgegeven certificaten van vrijgave en certificaten van vrijgave voor gebruik: tien jaren na de autorisatie daarvan;  
 
-c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.    
+c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.   
 
 ### Artikel  40  
 
-1.  De houder van een erkenning meldt ernstige tekortkomingen die tijdens het productieproces ontstaan, een ernstig defect of een ernstig gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na constatering of het bekend worden ervan, schriftelijk aan de Minister.   
+1.  De houder van een erkenning meldt ernstige tekortkomingen die tijdens het productieproces ontstaan, een ernstig defect of een ernstig gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na constatering of het bekend worden ervan, schriftelijk aan de minister.   
 2.  De melding gaat vergezeld van een zo volledig mogelijke beschrijving van hetgeen werd gevonden en een opgave van de overige van belang zijnde gegevens.   
-3.  Indien er sprake is van direct gevaar voor het veilig gebruik of de inzittende, meldt de houder van een erkenning de tekortkoming, het ernstig defect of gebrek onmiddellijk aan de Minister.   
+3.  Indien er sprake is van direct gevaar voor het veilig gebruik of de inzittende, meldt de houder van een erkenning de tekortkoming, het ernstig defect of gebrek onmiddellijk aan de minister.  
 
 ### Artikel  41  
 
-Indien naar het oordeel van de Minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de houder van een erkenning, met inachtneming van de door de Minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.  
+Indien naar het oordeel van de minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de houder van een erkenning, met inachtneming van de door de minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem. 
 
 ### Hoofdstuk  6  
 
@@ -312,12 +309,12 @@ Indien naar het oordeel van de Minister een verbetering van het kwaliteitssystee
 
 ### Artikel  42  
 
-1.  De aanvrager wordt erkend nadat deze naar het oordeel van de Minister genoegzaam heeft aangetoond, dat hij: 
+1.  De aanvrager wordt erkend nadat deze naar het oordeel van de minister genoegzaam heeft aangetoond, dat hij: 
 
 a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende bijlage D voldoet;  
 
 b. in Nederland is gevestigd.     
-2.  De aanvraag wordt ingediend door de functionaris van de organisatie, die de eindverantwoordelijkheid draagt ten aanzien van het door de organisatie gevoerde beleid.   
+2.  De aanvraag wordt ingediend door de functionaris van de organisatie, die de eindverantwoordelijkheid draagt ten aanzien van het door de organisatie gevoerde beleid.  
 
 ### Artikel  43  
 
@@ -333,16 +330,16 @@ d. een exemplaar van te gebruiken modellen van het geluidsmeetrapport;
 
 e. een uittreksel, niet ouder dan drie maanden, uit het Handelsregister indien de organisatie aldaar is ingeschreven, of in het geval van een eenmansorganisatie, een gewaarmerkt afschrift, niet ouder dan drie maanden, uit de basisregistratie personen;  
 
-f. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.    
+f. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.   
 
 ### Artikel  44  
 
-Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is.  
+Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is. 
 
 ### Artikel  45  
 
 1.  Ten aanzien van de verlenging van een erkenning zijn de artikelen 42 en 43 van toepassing, met dien verstande dat kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend.   
-2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 44 bedoelde datum worden ingediend.   
+2.  Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in artikel 44 bedoelde datum worden ingediend.  
 
 ### Artikel  46  
 
@@ -362,32 +359,32 @@ e. een belangrijke wijziging in de toegepaste werkwijzen;
 f. verandering in de meetuitrusting van het bedrijf;  
 
 g. de ingebruikname van een nieuwe geluidsmeetlocatie.     
-3.  De houder van een erkenning, zijnde een eenmansorganisatie, deelt de Minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens artikel 43, aanhef en onder b tot en met f.   
-4.  De Minister kan voorwaarden stellen waaronder de in het derde lid bedoelde wijzigingen worden geaccepteerd.   
+3.  De houder van een erkenning, zijnde een eenmansorganisatie, deelt de minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens artikel 43, aanhef en onder b tot en met f.   
+4.  De minister kan voorwaarden stellen waaronder de in het derde lid bedoelde wijzigingen worden geaccepteerd.  
 
 ### Artikel  47  
 
-1.  Een aanvraag tot wijziging, wordt door de Minister goedgekeurd, nadat is aangetoond, dat de organisatie ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.   
+1.  Een aanvraag tot wijziging, wordt door de minister goedgekeurd, nadat is aangetoond, dat de organisatie ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.   
 2.  De erkenning als eenmansorganisatie wordt gewijzigd, nadat door tussenkomst van de uitvoerder van de kwaliteitsborgingsfunctie is aangetoond, dat de houder ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als geluidsmeetorganisatie gestelde voorwaarden zal blijven voldoen.   
 3.  De artikelen 42 en 43 zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.   
 4.  Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.   
-5.  Een aanvraag om wijziging wordt uiterlijk acht weken voor de gewenste datum van wijziging ingediend.   
+5.  Een aanvraag om wijziging wordt uiterlijk acht weken voor de gewenste datum van wijziging ingediend.  
 
 ### Artikel  48  
 
 1.  Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.   
-2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.   
+2.  Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.  
 
 ### Artikel  49  
 
 1.  Vanaf het tijdstip van intrekking mag de houder de bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.   
-2.  De houder van de erkenning is verplicht het bewijs van erkenning zo spoedig mogelijk aan de Minister te zenden.   
-3.  De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.   
+2.  De houder van de erkenning is verplicht het bewijs van erkenning zo spoedig mogelijk aan de minister te zenden.   
+3.  De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.  
 
 ### Artikel  50  
 
 1.  Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende bijlage D.   
-2.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de Minister.   
+2.  De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.  
 
 ### Artikel  51  
 
@@ -395,17 +392,17 @@ De houder van een erkenning bewaart de volgende gegevens ten minste gedurende de
 
 a. de geluidsmeetrapporten en overige gegevens met betrekking tot de geluidsmetingen die hebben plaatsgevonden: twee jaren na de geluidsmeting;  
 
-b. de administratie betreffende de afgegeven geluidsmeetrapporten: twee jaren na de autorisatie daarvan.    
+b. de administratie betreffende de afgegeven geluidsmeetrapporten: twee jaren na de autorisatie daarvan.   
 
 ### Artikel  52  
 
-1.  De houder van een erkenning meldt een defect of een gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na de ontdekking ervan, schriftelijk aan de Minister.   
+1.  De houder van een erkenning meldt een defect of een gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na de ontdekking ervan, schriftelijk aan de minister.   
 2.  De melding gaat vergezeld van een zo volledig mogelijke beschrijving van hetgeen werd gevonden en een opgave van de overige van belang zijnde gegevens.   
-3.  Indien er sprake is van een ernstig defect of gebrek meldt de houder van de erkenning het ernstige defect of het ernstige gebrek onmiddellijk aan de Minister.   
+3.  Indien er sprake is van een ernstig defect of gebrek meldt de houder van de erkenning het ernstige defect of het ernstige gebrek onmiddellijk aan de minister.  
 
 ### Artikel  53  
 
-Indien naar het oordeel van de Minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de erkende geluidsmeetorganisatie, met inachtneming van de door de Minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.  
+Indien naar het oordeel van de minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de erkende geluidsmeetorganisatie, met inachtneming van de door de minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem. 
 
 ### Hoofdstuk  7  
 
@@ -413,30 +410,30 @@ Indien naar het oordeel van de Minister een verbetering van het kwaliteitssystee
 
 ### Artikel  54  
 
-De Minister publiceert periodiek de volgende gegevens van de houders van een erkenning: 
+De minister publiceert periodiek de volgende gegevens van de houders van een erkenning: 
 
 a. naam;  
 
 b. vestigingsplaats of -plaatsen;  
 
-c. omschrijving van de werkzaamheden, waarvoor de houder van een erkenning is erkend.    
+c. omschrijving van de werkzaamheden, waarvoor de houder van een erkenning is erkend.   
 
 ### Artikel  55  
 
-De Regeling erkenningen luchtwaardigheid en de Regeling JAR-147 opleidingsinstellingen worden ingetrokken.  
+De [Regeling erkenningen luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/BWBR0012877/README.md) en de [Regeling JAR-147 opleidingsinstellingen](../../../../../../ministeriele-regeling/regeling/jar-147/erkende/opleidingsinstellingen/BWBR0012920/README.md) worden ingetrokken. 
 
 ### Artikel  56  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  57  
 
-Deze regeling wordt aangehaald als: Regeling erkenningen luchtwaardigheid 2008.  
+Deze regeling wordt aangehaald als: Regeling erkenningen luchtwaardigheid 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
 ### Bijlage  A  
 
@@ -446,7 +443,7 @@ C.M.P.S.Eurlings
 
 ####De organisatiestructuur
 
-De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt.  
+De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt. 
 
 ### Artikel  2  
 
@@ -454,9 +451,9 @@ De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, wa
 
 De aanvrager beschikt met betrekking tot het gebied van de werkzaamheden ten aanzien waarvan hij de erkenning aanvraagt, over: 
 
-a. een grondige kennis omtrent de door de EASA opgestelde codes, specificaties en procedures, welke in Nederland van toepassing zijn alsmede de door de Minister met betrekking tot de beoordeling van de luchtwaardigheid gestelde regelen en gegeven aanwijzingen, voor zover deze regelen en aanwijzingen voor hem van belang zijn, en  
+a. een grondige kennis omtrent de door de EASA opgestelde codes, specificaties en procedures, welke in Nederland van toepassing zijn alsmede de door de minister met betrekking tot de beoordeling van de luchtwaardigheid gestelde regelen en gegeven aanwijzingen, voor zover deze regelen en aanwijzingen voor hem van belang zijn, en  
 
-b. een gezond oordeel en bekleedt een onafhankelijke dan wel een voldoende verantwoordelijke positie op het bovengenoemde gebied.    
+b. een gezond oordeel en bekleedt een onafhankelijke dan wel een voldoende verantwoordelijke positie op het bovengenoemde gebied.   
 
 ### Artikel  3  
 
@@ -464,17 +461,17 @@ b. een gezond oordeel en bekleedt een onafhankelijke dan wel een voldoende veran
 
 Ten einde een goede uitvoering van werkzaamheden te kunnen waarborgen, zal de aanvrager: 
 
-a. ten minste één jaar in goede samenwerking met de Inspectie Verkeer en Waterstaat aangelegenheden, direct verband houdende met de verkrijging van bewijzen van luchtwaardigheid van vliegtuigen, hebben behandeld;  
+a. ten minste één jaar in goede samenwerking met de Inspectie Leefomgeving en Transport aangelegenheden, direct verband houdende met de verkrijging van bewijzen van luchtwaardigheid van vliegtuigen, hebben behandeld;  
 
 b. indien de erkenning geen vliegproeven zal omvatten, ongeveer vijf jaren op het gebied, waarvoor hij de erkenning aanvraagt, dan wel op een aanverwant gebied, werkzaamheden hebben verricht, direct verband houdende met de verkrijging van bewijzen van luchtwaardigheid van vliegtuigen, of op een andere wijze hebben getoond, dat hij geschikt is voor die werkzaamheden;  
 
-c. indien de erkenning vliegproeven zal omvatten, ten minste houder zijn van een geldig vliegbewijs B3, waarin de bevoegdverklaring ‘blindvliegen' is gesteld; voorts moet de aanvrager tijdens vluchten, waarvan de gezamenlijke tijdsduur ten minste 2000 uren bedraagt, als houder van een vliegbewijs vliegtuigen hebben bestuurd, waarvan ten minste 100 uren in het tijdvak van twaalf maanden, onmiddellijk voorafgaande aan de aanvraag, en waarvan ten minste 100 uren een vliegtuig van het type, waarvoor hij de erkenning aanvraagt.    
+c. indien de erkenning vliegproeven zal omvatten, ten minste houder zijn van een geldig vliegbewijs B3, waarin de bevoegdverklaring ‘blindvliegen' is gesteld; voorts moet de aanvrager tijdens vluchten, waarvan de gezamenlijke tijdsduur ten minste 2000 uren bedraagt, als houder van een vliegbewijs vliegtuigen hebben bestuurd, waarvan ten minste 100 uren in het tijdvak van twaalf maanden, onmiddellijk voorafgaande aan de aanvraag, en waarvan ten minste 100 uren een vliegtuig van het type, waarvoor hij de erkenning aanvraagt.   
 
 ### Artikel  4  
 
 ####Documentatie
 
-De aanvrager beschikt op de werkplek over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de Minister van toepassing zijn op de certificatieprocessen.  
+De aanvrager beschikt op de werkplek over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de minister van toepassing zijn op de certificatieprocessen. 
 
 ### Artikel  5  
 
@@ -490,19 +487,19 @@ c. de vrijgave van certificatiedocumentatie;
 
 d. een doelmatige en deugdelijke technische administratie;  
 
-e. de kwaliteitsborging.    
+e. de kwaliteitsborging.   
 
 ### Artikel  6  
 
 ####De certificatieprocessen
 
-De certificatieprocessen van de aanvrager waarborgen dat de werkzaamheden worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies zodat de resultaten van het certificatieproces aan een vooraf vastgestelde kwaliteit voldoen.  
+De certificatieprocessen van de aanvrager waarborgen dat de werkzaamheden worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies zodat de resultaten van het certificatieproces aan een vooraf vastgestelde kwaliteit voldoen. 
 
 ### Artikel  7  
 
 ####Het documentatiebeheer
 
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.  
+De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft. 
 
 ### Artikel  8  
 
@@ -522,9 +519,9 @@ c. is ondertekend door de aanvrager.
 
 a. een verklaring luidende 
 
-1°. ‘Verklaring van overeenstemming met de luchtwaardigheidseisen, afgegeven ingevolge machtiging op grond van het door de Minister van Verkeer en Waterstaat afgegeven bewijs van erkenning nr...’,  
+1°. ‘Verklaring van overeenstemming met de luchtwaardigheidseisen, afgegeven ingevolge machtiging op grond van het door de Minister van Infrastructuur en Milieu afgegeven bewijs van erkenning nr...’,  
 
-2°. ‘Declaration of compliance with the airworthiness regulations, released in accordance with the approval by the Minister of Transport, Public Works and Water Management of the Netherlands ref approval no...’, of  
+2°. ‘Declaration of compliance with the airworthiness regulations, released in accordance with the approval by the Ministry of Infrastructure and the Environment of the Netherlands ref approval no...’, of  
 
 3°. een verklaring overeenkomstig sub 1° of 2°,    
 
@@ -538,7 +535,7 @@ e. een verklaring aan welke luchtwaardigheidseisen voldaan wordt;
 
 f. het administratienummer waaronder nadere informatie over het eindproduct is te vinden;  
 
-g. op welke datum de verklaring van overeenstemming met de luchtwaardigheidseisen is getekend.      
+g. op welke datum de verklaring van overeenstemming met de luchtwaardigheidseisen is getekend.     
 
 ### Artikel  9  
 
@@ -550,7 +547,7 @@ a. de afgegeven verklaring van overeenstemming met de luchtwaardigheidseisen;
 
 b. de onderliggende certificatiedocumentatie waarvoor de verklaring van overeenstemming met de luchtwaardigheidseisen is afgegeven;  
 
-c. de meetgegevens omtrent op materialen, halfproducten, onderdelen en uitrustingsstukken toegepaste behandelingen, indien de beoordeling van de certificatiedocumentatie mede op grond van deze gegevens geschiedt.    
+c. de meetgegevens omtrent op materialen, halfproducten, onderdelen en uitrustingsstukken toegepaste behandelingen, indien de beoordeling van de certificatiedocumentatie mede op grond van deze gegevens geschiedt.   
 
 ### Artikel  10  
 
@@ -560,13 +557,13 @@ c. de meetgegevens omtrent op materialen, halfproducten, onderdelen en uitrustin
 
 2. De aanvrager laat zijn functioneren regelmatig beoordelen door de kwaliteitsborgingsfunctie, de kwaliteitsborgingsfunctie ziet er in ieder geval op toe dat het kwaliteitssysteem wordt toegepast.  
 
-3. Zodra blijkt, dat het kwaliteitssysteem tekortschiet, achterhaalt de aanvrager of de kwaliteitsborgingsfunctie de oorzaken daarvan, teneinde maatregelen ter verbetering te kunnen treffen. Indien nodig brengt de aanvrager de nodige wijzigingen aan in het kwaliteitssysteem.    
+3. Zodra blijkt, dat het kwaliteitssysteem tekortschiet, achterhaalt de aanvrager of de kwaliteitsborgingsfunctie de oorzaken daarvan, teneinde maatregelen ter verbetering te kunnen treffen. Indien nodig brengt de aanvrager de nodige wijzigingen aan in het kwaliteitssysteem.   
 
 ### Artikel  11  
 
 ####Handboek
 
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek.  
+Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek. 
 
 ### Bijlage  C  
 
@@ -580,7 +577,7 @@ Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 
 
 2. De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, van de interne organisatie.  
 
-3. De aanvrager beschikt over een beschrijving van alle van belang zijnde functies binnen de interne organisatie. De functiebeschrijvingen geven de verantwoordelijkheden, taken en bevoegdheden weer.    
+3. De aanvrager beschikt over een beschrijving van alle van belang zijnde functies binnen de interne organisatie. De functiebeschrijvingen geven de verantwoordelijkheden, taken en bevoegdheden weer.   
 
 ### Artikel  2  
 
@@ -594,9 +591,9 @@ b. uitoefenen van toezicht op de werkzaamheden;
 
 c. autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik.    
 
-2. Het personeel dat door de aanvrager wordt gemachtigd tot het autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik behoeft de instemming van de Minister.  
+2. Het personeel dat door de aanvrager wordt gemachtigd tot het autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik behoeft de instemming van de minister.  
 
-3. Het bedrijf machtigt geen personen tot het autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik, die de kwaliteitsborging bedoeld in artikel 16 uitvoeren.    
+3. Het bedrijf machtigt geen personen tot het autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik, die de kwaliteitsborging bedoeld in artikel 16 uitvoeren.   
 
 ### Artikel  3  
 
@@ -612,13 +609,13 @@ a. beschikt over de bedrijfsmiddelen;
 
 b. verantwoordelijk is voor de gang van zaken ten aanzien van deze bedrijfsmiddelen;  
 
-c. maatregelen kan treffen voor noodzakelijke verbeteringen.      
+c. maatregelen kan treffen voor noodzakelijke verbeteringen.     
 
 ### Artikel  4  
 
 ####Documentatie
 
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.  
+De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen. 
 
 ### Artikel  5  
 
@@ -654,7 +651,7 @@ m. beheersing van de invloed van economische en commerciële factoren op de kwal
 
 2. Elk lid van het personeel wordt in kennis gesteld van en in staat gesteld om naar behoefte kennis te nemen van het kwaliteitssysteem.  
 
-3. Wijzigingen in het kwaliteitssysteem worden tijdig bekendgemaakt aan het bij de wijziging betrokken personeel.    
+3. Wijzigingen in het kwaliteitssysteem worden tijdig bekendgemaakt aan het bij de wijziging betrokken personeel.   
 
 ### Artikel  6  
 
@@ -666,7 +663,7 @@ m. beheersing van de invloed van economische en commerciële factoren op de kwal
 
 3. Het kwaliteitsbeleid is bekend bij en wordt uitgevoerd door het personeel.  
 
-4. Het kwaliteitsbeleid wordt periodiek door de aanvrager getoetst op blijvende geschiktheid.    
+4. Het kwaliteitsbeleid wordt periodiek door de aanvrager getoetst op blijvende geschiktheid.   
 
 ### Artikel  7  
 
@@ -694,7 +691,7 @@ c. de uitvoering van werkzaamheden, die aangemerkt zijn als bijzondere werkwijze
 
 4. De aanvrager administreert met een machtiging, of anderszins, ieder lid van het personeel, dat belast is met: het autoriseren van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik.  
 
-5. De beschrijving bevat tevens een omschrijving van de te hanteren regeling voor toetsing en periodieke hertoetsing van de bekwaamheden en een beschrijving van de organisatie van het toezicht op die regeling.    
+5. De beschrijving bevat tevens een omschrijving van de te hanteren regeling voor toetsing en periodieke hertoetsing van de bekwaamheden en een beschrijving van de organisatie van het toezicht op die regeling.   
 
 ### Artikel  8  
 
@@ -706,13 +703,13 @@ a. de werkzaamheden tijdens het productieproces worden uitgevoerd, overeenkomsti
 
 b. de halffabrikaten in de diverse stadia van de productie aan de daaraan gestelde eisen voldoen;  
 
-c. de materialen, onderdelen en producten bij aflevering voldoen aan de desbetreffende specificaties of tekeningen.    
+c. de materialen, onderdelen en producten bij aflevering voldoen aan de desbetreffende specificaties of tekeningen.   
 
 ### Artikel  9  
 
 ####Het documentatiebeheer
 
-De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.  
+De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft. 
 
 ### Artikel  10  
 
@@ -724,7 +721,7 @@ De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documen
 
 3. Calibraties en ijkingen worden zodanig verricht zodat de metingen tot de nationale standaards herleidbaar zijn.  
 
-4. Meet- en beproevingsmiddelen die niet aan de eisen voldoen, worden gescheiden gehouden van goede middelen en als zodanig geïdentificeerd.    
+4. Meet- en beproevingsmiddelen die niet aan de eisen voldoen, worden gescheiden gehouden van goede middelen en als zodanig geïdentificeerd.   
 
 ### Artikel  11  
 
@@ -732,7 +729,7 @@ De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documen
 
 1. De aanvrager beschikt over een systeem dat de deugdelijkheid waarborgt van elders betrokken materialen, onderdelen en producten, en uitbestede werkzaamheden.  
 
-2. De aanvrager beschikt over een systeem dat zeker stelt dat materialen, halffabrikaten, en onderdelen, die in eerste instantie zijn afgekeurd, nader worden beoordeeld, en bij definitieve afkeur uit het productieproces worden verwijderd.    
+2. De aanvrager beschikt over een systeem dat zeker stelt dat materialen, halffabrikaten, en onderdelen, die in eerste instantie zijn afgekeurd, nader worden beoordeeld, en bij definitieve afkeur uit het productieproces worden verwijderd.   
 
 ### Artikel  12  
 
@@ -744,7 +741,7 @@ a. wanneer de maximaal toelaatbare opslagtermijn verstreken is, deze materialen,
 
 b. afgekeurde en ongekeurde exemplaren gescheiden worden gehouden van goedgekeurde exemplaren;  
 
-c. exemplaren die vanuit een productieafdeling in opslag worden genomen op kwaliteit beoordeeld en geïdentificeerd worden.    
+c. exemplaren die vanuit een productieafdeling in opslag worden genomen op kwaliteit beoordeeld en geïdentificeerd worden.   
 
 ### Artikel  13  
 
@@ -760,7 +757,7 @@ a. het kenmerk van de fabrikant;
 
 b. de type-, model- of specificatieaanduiding;  
 
-c. het serienummer of de datum van vervaardiging.      
+c. het serienummer of de datum van vervaardiging.     
 
 ### Artikel  14  
 
@@ -784,9 +781,9 @@ c. is ondertekend door een door de aanvrager overeenkomstig artikel 7, vierde li
 
 a. een verklaring luidende 
 
-1°. ‘Certificaat van vrijgave voor gebruik, afgegeven ingevolge de bevoegdheid op grond van het door de Minister van Verkeer en Waterstaat afgegeven bewijs van erkenning nr...’,  
+1°. ‘Certificaat van vrijgave voor gebruik, afgegeven ingevolge de bevoegdheid op grond van het door de Minister van Infrastructuur en Milieu afgegeven bewijs van erkenning nr...’,  
 
-2°. ‘Certificate of release to service, released in accordance with the approval by the Minister of Transport, Public Works and Water Management of the Netherlands ref approval no...’, of  
+2°. ‘Certificate of release to service, released in accordance with the approval by the Ministry of Infrastructure and the Environment of the Netherlands ref approval no...’, of  
 
 3°. een verklaring overeenkomstig sub 1° of 2°,    
 
@@ -796,11 +793,11 @@ c. het volgnummer van het certificaat van vrijgave dan wel certificaat van vrijg
 
 d. het eindproduct waar het certificaat van vrijgave voor gebruik voor wordt geautoriseerd;  
 
-e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de Regeling onderhoud luchtvaartuigen;  
+e. een verklaring dat het eindproduct voldoet aan de eisen, bedoeld in de [Regeling onderhoud luchtvaartuigen](../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md);  
 
 f. het administratienummer waaronder nadere informatie over het eindproduct is te vinden;  
 
-g. door wie en op welke datum het certificaat van vrijgave voor gebruik is getekend.      
+g. door wie en op welke datum het certificaat van vrijgave voor gebruik is getekend.     
 
 ### Artikel  15  
 
@@ -820,7 +817,7 @@ e. de bedrijfs- en opslagtijden van die materialen en onderdelen, waarbij deze t
 
 2. De gegevens worden tegen uitwissen beveiligd, vastgelegd en opgeslagen door daartoe bevoegd personeel. Bij mutaties van gegevens wordt de identiteit van degene die de wijziging invoert, eenduidig vastgelegd.  
 
-3. De technische administratie is voorzien van een systeem om fouten te kunnen constateren en tijdig te corrigeren.    
+3. De technische administratie is voorzien van een systeem om fouten te kunnen constateren en tijdig te corrigeren.   
 
 ### Artikel  16  
 
@@ -840,7 +837,7 @@ e. de bedrijfs- en opslagtijden van die materialen en onderdelen, waarbij deze t
 
 7. De kwaliteitsafdeling beschikt over een doelmatige en deugdelijke uitrusting voor de uitvoering van haar taak.  
 
-8. De kwaliteitsafdeling beschikt ten minste over de bevoegdheid om de autorisatie van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik te verhinderen of ongedaan te maken.    
+8. De kwaliteitsafdeling beschikt ten minste over de bevoegdheid om de autorisatie van certificaten van vrijgave dan wel certificaten van vrijgave voor gebruik te verhinderen of ongedaan te maken.   
 
 ### Artikel  17  
 
@@ -856,7 +853,7 @@ b. een overzicht van het personeel, dat belast is met het autoriseren van certif
 
 c. en overzicht van de derden, die worden ingeschakeld bij de productie;  
 
-d. de wijzigingsprocedure van het handboek.      
+d. de wijzigingsprocedure van het handboek.     
 
 ### Bijlage  D  
 
@@ -870,7 +867,7 @@ d. de wijzigingsprocedure van het handboek.
 
 2. De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, van de interne organisatie.  
 
-3. De aanvrager beschikt over een beschrijving van alle van belang zijnde functies binnen de interne organisatie. De functiebeschrijvingen geven de verantwoordelijkheden, taken en bevoegdheden weer.    
+3. De aanvrager beschikt over een beschrijving van alle van belang zijnde functies binnen de interne organisatie. De functiebeschrijvingen geven de verantwoordelijkheden, taken en bevoegdheden weer.   
 
 ### Artikel  2  
 
@@ -884,7 +881,7 @@ b. uitoefenen van toezicht op de werkzaamheden;
 
 c. afgeven van geautoriseerde geluidsmeetrapporten.    
 
-2. De organisatie machtigt geen personen tot het autoriseren van geluidsmeetrapporten, die de kwaliteitsborging, bedoeld in artikel 13, uitvoeren.    
+2. De organisatie machtigt geen personen tot het autoriseren van geluidsmeetrapporten, die de kwaliteitsborging, bedoeld in artikel 13, uitvoeren.   
 
 ### Artikel  3  
 
@@ -900,13 +897,13 @@ a. beschikt over de bedrijfsmiddelen;
 
 b. verantwoordelijk is voor de gang van zaken ten aanzien van deze bedrijfsmiddelen;  
 
-c. maatregelen kan treffen voor noodzakelijke verbeteringen.      
+c. maatregelen kan treffen voor noodzakelijke verbeteringen.     
 
 ### Artikel  4  
 
 ####Documentatie
 
-De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.  
+De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens. 
 
 ### Artikel  5  
 
@@ -934,7 +931,7 @@ i. beheersing van de invloed van economische en commerciële factoren op de kwal
 
 2. Elk lid van het personeel wordt in kennis gesteld van en in staat gesteld om naar behoefte kennis te nemen van het kwaliteitssysteem.  
 
-3. Wijzigingen in het kwaliteitssysteem worden tijdig bekendgemaakt aan het bij de wijziging betrokken personeel.    
+3. Wijzigingen in het kwaliteitssysteem worden tijdig bekendgemaakt aan het bij de wijziging betrokken personeel.   
 
 ### Artikel  6  
 
@@ -946,7 +943,7 @@ i. beheersing van de invloed van economische en commerciële factoren op de kwal
 
 3. Het kwaliteitsbeleid is bekend bij en wordt uitgevoerd door het personeel.  
 
-4. Het kwaliteitsbeleid wordt periodiek door de aanvrager dan wel in het geval van een eenmansorganisatie door de uitvoerder van de kwaliteitsborgingsfunctie getoetst op blijvende geschiktheid.    
+4. Het kwaliteitsbeleid wordt periodiek door de aanvrager dan wel in het geval van een eenmansorganisatie door de uitvoerder van de kwaliteitsborgingsfunctie getoetst op blijvende geschiktheid.   
 
 ### Artikel  7  
 
@@ -956,19 +953,19 @@ i. beheersing van de invloed van economische en commerciële factoren op de kwal
 
 2. De aanvrager administreert met een machtiging, of anderszins, ieder lid van het personeel, dat belast is met het autoriseren van geluidsmeetrapporten.  
 
-3. De beschrijving bevat tevens een omschrijving van de te hanteren regeling voor toetsing en periodieke hertoetsing van de bekwaamheden en een beschrijving van de organisatie van het toezicht op die regeling.    
+3. De beschrijving bevat tevens een omschrijving van de te hanteren regeling voor toetsing en periodieke hertoetsing van de bekwaamheden en een beschrijving van de organisatie van het toezicht op die regeling.   
 
 ### Artikel  8  
 
 ####Het geluidsmeetproces
 
-De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.  
+De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen. 
 
 ### Artikel  9  
 
 ####Het documentatiebeheer
 
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.  
+De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft. 
 
 ### Artikel  10  
 
@@ -978,7 +975,7 @@ De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare document
 
 2. Calibraties en ijkingen worden zodanig verricht dat de metingen tot de nationale standaards herleidbaar zijn.  
 
-3. Meet- en beproevingsapparatuur die niet aan de eisen voldoet, wordt gescheiden gehouden van goede apparatuur en als zodanig geïdentificeerd.    
+3. Meet- en beproevingsapparatuur die niet aan de eisen voldoet, wordt gescheiden gehouden van goede apparatuur en als zodanig geïdentificeerd.   
 
 ### Artikel  11  
 
@@ -998,9 +995,9 @@ c. is ondertekend door een door de aanvrager overeenkomstig artikel 7, tweede li
 
 a. een verklaring luidende: 
 
-1°. Geluidsmeetrapport, afgegeven op grond van het door de Minister van Verkeer en Waterstaat afgegeven bewijs van erkenning nr. …..;  
+1°. Geluidsmeetrapport, afgegeven op grond van het door de Minister van Infrastructuur en Milieu afgegeven bewijs van erkenning nr. …..;  
 
-2°. Report on noise measurement test released in accordance with the approval by the Minister of Transport, Public Works and Water Management of the Netherlands ref. Approval no ..…;    
+2°. Report on noise measurement test released in accordance with the approval by the Ministry of Infrastructure and the Environment of the Netherlands ref. Approval no ..…;    
 
 b. de naam van de houder van de erkenning, die op het bewijs van erkenning is vermeld;  
 
@@ -1018,7 +1015,7 @@ h. volgens welke meetmethode gemeten is;
 
 i. equivalente meetmethoden;  
 
-j. de correctieberekeningen.      
+j. de correctieberekeningen.     
 
 ### Artikel  12  
 
@@ -1032,7 +1029,7 @@ b. de meetgegevens omtrent tijdens het proces toegepaste behandelingen, indien d
 
 c. de gegevens omtrent de uitgevoerde metingen en de wijze van uitvoering;    
 
-2. De gegevens worden, tegen uitwissen beveiligd, vastgelegd en opgeslagen door daartoe bevoegd personeel. Bij mutaties van gegevens, wordt de identiteit van degene die de wijziging invoert, eenduidig vastgelegd.    
+2. De gegevens worden, tegen uitwissen beveiligd, vastgelegd en opgeslagen door daartoe bevoegd personeel. Bij mutaties van gegevens, wordt de identiteit van degene die de wijziging invoert, eenduidig vastgelegd.   
 
 ### Artikel  13  
 
@@ -1044,7 +1041,7 @@ c. de gegevens omtrent de uitgevoerde metingen en de wijze van uitvoering;
 
 3. De aanvrager en in het bijzonder de kwaliteitsafdeling beschikt, teneinde te verzekeren en aan te kunnen tonen dat het kwaliteitssysteem naar behoren functioneert, over daartoe noodzakelijke gegevens.  
 
-4. De kwaliteitsafdeling beoordeelt regelmatig het functioneren van de organisatie. Indien naar het oordeel van de Minister de aard of omvang van de aanvrager zich hier niet voor leent, kan deze beoordeling worden uitbesteed aan derden, mits de door de Minister ter zake gegeven aanwijzingen worden opgevolgd.  
+4. De kwaliteitsafdeling beoordeelt regelmatig het functioneren van de organisatie. Indien naar het oordeel van de minister de aard of omvang van de aanvrager zich hier niet voor leent, kan deze beoordeling worden uitbesteed aan derden, mits de door de minister ter zake gegeven aanwijzingen worden opgevolgd.  
 
 5. Indien blijkt dat het kwaliteitssysteem tekortschiet, achterhaalt de aanvrager de oorzaken daarvan, of laat deze achterhalen, teneinde maatregelen ter verbetering te kunnen treffen.  
 
@@ -1052,7 +1049,7 @@ c. de gegevens omtrent de uitgevoerde metingen en de wijze van uitvoering;
 
 7. De kwaliteitsafdeling beschikt over een doelmatige en deugdelijke uitrusting voor de uitvoering van haar taak.  
 
-8. De kwaliteitsafdeling beschikt ten minste over de bevoegdheid om de autorisatie van geluidsmeetrapporten te verhinderen of ongedaan te maken.    
+8. De kwaliteitsafdeling beschikt ten minste over de bevoegdheid om de autorisatie van geluidsmeetrapporten te verhinderen of ongedaan te maken.   
 
 ### Artikel  14  
 
@@ -1064,7 +1061,7 @@ c. de gegevens omtrent de uitgevoerde metingen en de wijze van uitvoering;
 
 3. Zodra blijkt dat het kwaliteitssysteem tekortschiet, achterhaalt de aanvrager of de kwaliteitsborgingsfunctie de oorzaken daarvan, teneinde maatregelen ter verbetering te kunnen treffen.  
 
-4. Indien nodig brengt de aanvrager de nodige verbeteringen aan in het kwaliteitssysteem.    
+4. Indien nodig brengt de aanvrager de nodige verbeteringen aan in het kwaliteitssysteem.   
 
 ### Artikel  15  
 
@@ -1084,7 +1081,7 @@ a. hij ondersteunt de aanvrager bij de ontwikkeling en invoering van het kwalite
 
 b. hij ziet er in ieder geval op toe dat het kwaliteitssysteem wordt toegepast;  
 
-c. hij vervult zijn taken onafhankelijk van de met de directe uitvoering van de werkzaamheden belaste personen.      
+c. hij vervult zijn taken onafhankelijk van de met de directe uitvoering van de werkzaamheden belaste personen.     
 
 ### Artikel  16  
 
@@ -1098,5 +1095,5 @@ a. de kennisgevingsprocedure van organisatorische wijzigingen aan de Minister;
 
 b. een overzicht van het personeel, dat belast is met het autoriseren van geluidsmeetrapporten;  
 
-c. de wijzigingsprocedure van het handboek.      
+c. de wijzigingsprocedure van het handboek.     
 

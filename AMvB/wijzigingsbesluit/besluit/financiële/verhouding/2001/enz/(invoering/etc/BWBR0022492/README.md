@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit financiële verhouding 2001.   
+Wijzigt het Besluit financiële verhouding 2001. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit accountantscontrole provincies en gemeenten.   
+Wijzigt het Besluit accountantscontrole provincies en gemeenten. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit doeluitkering bestrijding van rampen en zware ongevallen.   
+Wijzigt het Besluit doeluitkering bestrijding van rampen en zware ongevallen. 
 
 ### Artikel  IV  
 
-Wijzigt het Tijdelijk besluit uitkeringen jeugdzorg.   
+Wijzigt het Tijdelijk besluit uitkeringen jeugdzorg. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit milieusubsidies.   
+Wijzigt het Besluit milieusubsidies. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit financiële bepalingen bodemsanering.   
+Wijzigt het Besluit financiële bepalingen bodemsanering. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit impulsbudget stedelijke vernieuwing 2006 tot en met 2009.   
+Wijzigt het Besluit impulsbudget stedelijke vernieuwing 2006 tot en met 2009. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit locatiegebonden subsidies 2005.   
+Wijzigt het Besluit locatiegebonden subsidies 2005. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit op de ruimtelijke ordening 1985.   
+Wijzigt het Besluit op de ruimtelijke ordening 1985. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen.   
+Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen. 
 
 ### Artikel  XI  
 
@@ -59,11 +59,11 @@ Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen.
 
 a. ter zake van de in hoofdstuk 2 van het Besluit van 4 juli 2006, houdende wijziging van het Besluit financiële verhouding 2001 en enkele andere besluiten in verband met invoering van single-information en single-audit voor specifieke uitkeringen genoemde regelingen, ook ten aanzien van de jaarstukken en de controle op de jaarrekening over het begrotingsjaar 2007 en latere jaren, en  
 
-b. ter zake van de in dit besluit genoemde regelingen voor het eerst ten aanzien van de jaarstukken en de controle op de jaarrekening over het begrotingsjaar 2007.    
+b. ter zake van de in dit besluit genoemde regelingen voor het eerst ten aanzien van de jaarstukken en de controle op de jaarrekening over het begrotingsjaar 2007.   
 
 ### Artikel  XII  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel VII, dat in werking treedt acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel VII, dat in werking treedt acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

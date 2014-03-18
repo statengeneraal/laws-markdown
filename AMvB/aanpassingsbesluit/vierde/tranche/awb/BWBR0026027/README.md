@@ -16,393 +16,502 @@ Hebben goedgevonden en verstaan:
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit reis-, verblijf-, en verhuiskosten politie.   
+Wijzigt het Besluit reis-, verblijf-, en verhuiskosten politie.
 
 ### Hoofdstuk  2  
 
 ####Ministerie van Defensie
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Algemeen militair ambtenarenreglement.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt de Schadeloosstellingsregeling Luchtvaartwet.   
+Wijzigt de Schadeloosstellingsregeling Luchtvaartwet.
 
 ### Hoofdstuk  3  
 
 ####Ministerie van Economische Zaken
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit EOS: demo en transitie-experimenten.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Besluit EOS: demo en transitie-experimenten.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit EOS: lange termijn.   
+Wijzigt het Besluit EOS: lange termijn.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit kostenverhaal energie.   
+Wijzigt het Besluit kostenverhaal energie.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit kostenverhaal NMa.   
+Wijzigt het Besluit kostenverhaal NMa.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit particuliere participatiemaatschappijen.   
+Wijzigt het Besluit particuliere participatiemaatschappijen.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit stimulering ruimte voor economische activiteit.   
+Wijzigt het Besluit stimulering ruimte voor economische activiteit.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies civiele vliegtuigontwikkeling.   
+Wijzigt het Besluit subsidies civiele vliegtuigontwikkeling.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies CO2-reductieplan.   
+Wijzigt het Besluit subsidies CO2-reductieplan.
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies energieprogramma's.   
+Wijzigt het Besluit subsidies energieprogramma's.
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies exportfinancieringsarrangementen.   
+Wijzigt het Besluit subsidies exportfinancieringsarrangementen.
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies regionale investeringsprojecten 2000.   
+Wijzigt het Besluit subsidies regionale investeringsprojecten 2000.
 
 ### Artikel  12  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen.   
+Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen.
 
 ### Artikel  13  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidies zeescheepsnieuwbouw 1994.   
+Wijzigt het Besluit subsidies zeescheepsnieuwbouw 1994.
 
 ### Artikel  14  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit vergoedingen Postwet.   
+Wijzigt het Besluit vergoedingen Postwet.
 
 ### Artikel  15  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit vergoedingen Telecommunicatiewet.   
+Wijzigt het Besluit vergoedingen Telecommunicatiewet.
 
 ### Artikel  16  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Mijnbouwbesluit.   
+Wijzigt het Mijnbouwbesluit.
 
 ### Hoofdstuk  4  
 
 ####Ministerie van Justitie
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit opneming buitenlandse kinderen ter adoptie.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Besluit opneming buitenlandse kinderen ter adoptie.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Organisatiebesluit raad voor de kinderbescherming 2006.   
+Wijzigt het Organisatiebesluit raad voor de kinderbescherming 2006.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt de Reclasseringsregeling 1995.   
+Wijzigt de Reclasseringsregeling 1995.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling.   
+Wijzigt de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005.   
+Wijzigt het Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Subsidiebesluit justitiële jeugdinrichtingen.   
+Wijzigt het Subsidiebesluit justitiële jeugdinrichtingen.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Subsidiebesluit raden voor rechtsbijstand.   
+Wijzigt het Subsidiebesluit raden voor rechtsbijstand.
 
 ### Hoofdstuk  5  
 
 ####Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### Enig  artikel  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.   
+### Enig  artikel  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
 
 ### Hoofdstuk  6  
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Bekostigingsbesluit cultuuruitingen.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Bekostigingsbesluit cultuuruitingen.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Bekostigingsbesluit W.V.O..   
+Wijzigt het Bekostigingsbesluit W.V.O..
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Bekostigingsbesluit WHW.   
+Wijzigt het Bekostigingsbesluit WHW.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit bekostiging WEC.   
+Wijzigt het Besluit bekostiging WEC.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit bekostiging WPO.   
+Wijzigt het Besluit bekostiging WPO.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs.   
+Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang.   
+Wijzigt het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit studiefinanciering 2000.   
+Wijzigt het Besluit studiefinanciering 2000.
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt het Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit Werkloosheid onderwijs- en onderzoekpersoneel.   
+Wijzigt het Besluit Werkloosheid onderwijs- en onderzoekpersoneel.
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs.   
+Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs.
 
 ### Artikel  12  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Mediabesluit.   
+Wijzigt het Mediabesluit.
 
 ### Artikel  13  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000.   
+Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000.
 
 ### Artikel  14  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Uitvoeringsbesluit WEB.   
+Wijzigt het Uitvoeringsbesluit WEB.
 
 ### Hoofdstuk  7  
 
 ####Ministerie van Sociale Zaken en Werkgelegenheid
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Arbeidsomstandighedenbesluit.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Arbeidsomstandighedenbesluit.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Arbeidstijdenbesluit.   
+Wijzigt het Arbeidstijdenbesluit.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit bijstandverlening zelfstandigen 2004.   
+Wijzigt het Besluit bijstandverlening zelfstandigen 2004.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.   
+Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit vrijwillige verzekering AOW en ANW voor in de Europese Unie wonende uitkeringsgerechtigden.   
+Wijzigt het Besluit vrijwillige verzekering AOW en ANW voor in de Europese Unie wonende uitkeringsgerechtigden.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit Wfsv.   
+Wijzigt het Besluit Wfsv.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Boetebesluit socialezekerheidswetten.   
+Wijzigt het Boetebesluit socialezekerheidswetten.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Inkomens- en samenloopbesluit Anw.   
+Wijzigt het Inkomens- en samenloopbesluit Anw.
 
 ### Hoofdstuk  8  
 
 ####Ministerie van Verkeer en Waterstaat
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Arbeidstijdenbesluit vervoer.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Arbeidstijdenbesluit vervoer.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit Infrastructuurfonds.   
+Wijzigt het Besluit Infrastructuurfonds.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit spoorwegbruggen.   
+Wijzigt het Besluit spoorwegbruggen.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit ex artikel 29 Wet aansprakelijkheid olietankschepen.   
+Wijzigt het Besluit ex artikel 29 Wet aansprakelijkheid olietankschepen.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Tramwegreglement.   
+Wijzigt het Tramwegreglement.
 
 ### Hoofdstuk  9  
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Bekostigingsbesluit Pensioen- en Uitkeringsraad 1996.   
+Wijzigt het Bekostigingsbesluit Pensioen- en Uitkeringsraad 1996.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit bestuurlijke boete Drank- en Horecawet.   
+Wijzigt het Besluit bestuurlijke boete Drank- en Horecawet.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.   
+Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit maatschappelijke ondersteuning.   
+Wijzigt het Besluit maatschappelijke ondersteuning.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit subsidie rechtspersonen voor voogdij en gezinsvoogdij vreemdelingen.   
+Wijzigt het Besluit subsidie rechtspersonen voor voogdij en gezinsvoogdij vreemdelingen.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945.   
+Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Inkomensbesluit wetten buitengewoon pensioen.   
+Wijzigt het Inkomensbesluit wetten buitengewoon pensioen.
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Kortingsbesluit WIV.   
+Wijzigt het Kortingsbesluit WIV.
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Rentevergoedingsbesluit wetten voor oorlogsgetroffenen.   
+Wijzigt het Rentevergoedingsbesluit wetten voor oorlogsgetroffenen.
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Uitvoeringsbesluit WTZi.   
+Wijzigt het Uitvoeringsbesluit WTZi.
 
 ### Artikel  12  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Hoofdstuk  10  
 
 ####Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.   
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit financiële bepalingen bodemsanering.   
+Wijzigt het Besluit financiële bepalingen bodemsanering.
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit impulsbudget stedelijke vernieuwing 2006 tot en met 2009.   
+Wijzigt het Besluit impulsbudget stedelijke vernieuwing 2006 tot en met 2009.
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering.
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit kwaliteitseisen handhaving milieubeheer.   
+Wijzigt het Besluit kwaliteitseisen handhaving milieubeheer.
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit locatiegebonden subsidies 2005.   
+Wijzigt het Besluit locatiegebonden subsidies 2005.
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit milieusubsidies.   
+Wijzigt het Besluit milieusubsidies.
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit Planbureau voor de Leefomgeving.   
+Wijzigt het Besluit Planbureau voor de Leefomgeving.
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit risico’s zware ongevallen 1999.   
+Wijzigt het Besluit risico’s zware ongevallen 1999.
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit ruimtelijke ordening.   
+Wijzigt het Besluit ruimtelijke ordening.
 
 ### Artikel  12  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Besluit woninggebonden subsidies 1995.   
+Wijzigt het Besluit woninggebonden subsidies 1995.
 
 ### Artikel  13  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Examenbesluit Wet op de architectentitel.   
+Wijzigt het Examenbesluit Wet op de architectentitel.
 
 ### Artikel  14  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Subsidiebesluit experimenten en kennisoverdracht wonen.   
+Wijzigt het Subsidiebesluit experimenten en kennisoverdracht wonen.
 
 ### Artikel  15  
+Materieel uitgewerkt per 01-07-2011 
 
-Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.   
+Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
 
 ### Hoofdstuk  11  
 
 ####Slotbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
 
-Dit besluit treedt in werking op het tijdstip waarop de [Vierde tranche Algemene wet bestuursrecht](../../../../../../wet/vierde/tranche/algemene/wet/bestuursrecht/BWBR0026016/README.md) in werking treedt.  
+### Artikel  1  
+Materieel uitgewerkt per 01-07-2011 
+
+Dit besluit treedt in werking op het tijdstip waarop de [Vierde tranche Algemene wet bestuursrecht](../../../../../../wet/vierde/tranche/algemene/wet/bestuursrecht/BWBR0026016/README.md) in werking treedt. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2011 
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit vierde tranche Awb.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit vierde tranche Awb. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

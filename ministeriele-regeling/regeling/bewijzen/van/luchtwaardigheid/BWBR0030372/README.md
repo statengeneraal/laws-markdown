@@ -21,8 +21,6 @@ In deze regeling wordt verstaan onder:
 
 *BvL-verlengingsinspectie:* inspectie van een luchtvaartuig in het kader van de verlenging van een bewijs van luchtwaardigheid, naar aanleiding waarvan de minister wordt geadviseerd over de luchtwaardigheid van dat luchtvaartuig;  
 
-*ELA 1-luchtvaartuig:* European Light Aircraft, luchtvaartuig als bedoeld in artikel 2 van verordening (EG) nr. 2042/2003;  
-
 *erkend bedrijf:* bedrijf dat door de minister op grond van [artikel 17 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) is erkend;  
 
 *exportinspectie:* inspectie van een luchtvaartuig op luchtwaardigheidseisen van het importerende land in het kader van de export van het luchtvaartuig, naar aanleiding waarvan de minister wordt geadviseerd over de luchtwaardigheid van dat luchtvaartuig;  
@@ -35,7 +33,7 @@ In deze regeling wordt verstaan onder:
 
 *maximale startmassa:* massa die een luchtvaartuig mag hebben wanneer het zich van het aardoppervlak verheft;  
 
-*minister:* minister van Infrastructuur en Milieu;  
+*minister:* Minister van Infrastructuur en Milieu;  
 
 *orphan aircraft:* reeds in het Nederlandse luchtvaartuigregister ingeschreven luchtvaartuig waarvan het ICAO-BvL door de minister is vervangen door een speciaal-BvL, als gevolg van het intrekken door de staat van ontwerp van zijn verklaring tot ondersteuning van het ontwerp;  
 
@@ -43,13 +41,17 @@ In deze regeling wordt verstaan onder:
 
 *verdragsland:* land waarmee in het kader van de volgende verdragen een overeenkomst is gesloten inzake de wederzijdse erkenning van bewijzen van luchtwaardigheid: het op 13 september 1995 te ’s-Gravenhage tot stand gekomen Verdrag tussen de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden inzake de bevordering van de veiligheid van de luchtvaart (Trb. 1996, 3), de op 17 december 2009 te Brussel tot stand gekomen Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten (Trb. 2010, 211) en, de op 22 april 1960 te Parijs gesloten Multilaterale Overeenkomst inzake bewijzen van luchtwaardigheid van ingevoerde luchtvaartuigen (Trb. 1961, 117);  
 
-*Verdrag van Chicago:* het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109).    
+*Verdrag van Chicago:* het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109).   
+
+### Artikel  1a  
+
+Deze regeling berust op [artikel 1.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [3.24 van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 8, derde lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [12, derde lid](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md). 
 
 ### Artikel  2  
 
 1.  De minister kan toestaan dat bij de aanvraag voor een bewijs van luchtwaardigheid gegevens op microfilms of computer-gegevensdragers worden verstrekt.   
 2.  De aanvrager verstrekt daartoe benodigde apparatuur aan de minister.   
-3.  Deze apparatuur dient binnen enkele seconden een afdruk van het geprojecteerde beeld of de gegevens te kunnen vervaardigen.   
+3.  Deze apparatuur dient binnen enkele seconden een afdruk van het geprojecteerde beeld of de gegevens te kunnen vervaardigen.  
 
 ### §  2  
 
@@ -58,17 +60,15 @@ In deze regeling wordt verstaan onder:
 ### Artikel  3  
 
 1.  Deze regeling is niet van toepassing op amateurbouwluchtvaartuigen en MLA’s.   
-2.  Indien de eigenaar of houder van een amateurbouwluchtvaartuig of MLA daarom verzoekt zijn de artikelen 11, derde lid, aanhef en onderdeel a, en vijfde lid, 13, 17 en 18 voorzover het betreft verlengingsinspecties, tevens van toepassing op amateurbouwluchtvaartuigen en MLA’s.   
+2.  Indien de eigenaar of houder van een amateurbouwluchtvaartuig of MLA daarom verzoekt zijn de artikelen 11, derde lid, aanhef en onderdeel a, en vijfde lid, 13, 17 en 18 voorzover het betreft verlengingsinspecties, tevens van toepassing op amateurbouwluchtvaartuigen en MLA’s.  
 
 ### §  3  
 
-####EASA-standaard-BvL, EASA-beperkt-BvL, ARC en vliegvergunning
+####EASA-standaard-BvL en EASA-beperkt-BvL
 
 ### Artikel  4  
 
-1.  De eigenaar of houder van een luchtvaartuig dient een aanvraag voor een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een eerste ARC in bij de minister.   
-2.  De eigenaar of houder van een luchtvaartuig kan een aanvraag voor een vliegvergunning indienen bij de minister.   
-3.  Bij een aanvraag voor een EASA-standaard-BvL en een EASA-beperkt-BvL wordt een volledig ingevuld en ondertekend acceptatierapport conform het model als opgenomen in bijlage 1 bij deze regelingbetreffende de BvL-acceptatiekeuring gevoegd.   
+Bij een aanvraag voor een EASA-standaard-BvL en een EASA-beperkt-BvL wordt een volledig ingevuld en ondertekend acceptatierapport conform het model als opgenomen in bijlage 1 bij deze regeling betreffende de BvL-acceptatiekeuring gevoegd. 
 
 ### §  4  
 
@@ -90,7 +90,7 @@ c. de historische gegevens ter vaststelling van de productie, modificatie en ond
 
 d. een nauwkeurige omschrijving van de eventuele afwijkingen ten opzichte van het geaccepteerde type-ontwerp. Indien de aanvrager hieraan niet kan voldoen, worden de gegevens ingediend, aan de hand waarvan de bedoelde afwijkingen kunnen worden vastgesteld; en  
 
-e. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model als opgenomen in bijlage 1 bij deze regeling.    
+e. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model als opgenomen in bijlage 1 bij deze regeling.   
 
 ### 4.2  
 
@@ -120,7 +120,7 @@ b. voldoet aan de van toepassing zijnde minimum eisen die zijn vastgesteld overe
 
 c. voldoet aan alle overige bijzondere eisen, die op de datum van de aanvraag voor een ICAO-standaard-BvL van toepassing zijn, voor zover die eisen ter kennis zijn gebracht van de overeenkomstsluitende staten.  
 
-d. is voorzien van een door de exporterende staat afgegeven BvL of een BvL voor export naar Nederland, dat niet eerder is afgegeven dan 60 dagen onmiddellijk voorafgaand aan de datum van de aanvraag voor een ICAO-standaard-BvL.     
+d. is voorzien van een door de exporterende staat afgegeven BvL of een BvL voor export naar Nederland, dat niet eerder is afgegeven dan 60 dagen onmiddellijk voorafgaand aan de datum van de aanvraag voor een ICAO-standaard-BvL.    
 
 ### Artikel  7  
 
@@ -138,7 +138,7 @@ b. een BvL of een BvL voor export naar Nederland, afgegeven door de staat waarui
 
 a. het destijds door de staat, waarin het luchtvaartuig is vervaardigd, afgegeven export-BvL;  
 
-b. een BvL, of een BvL voor export naar Nederland, afgegeven door de staat waaruit het luchtvaartuig wordt geïmporteerd, niet eerder dan 60 dagen, onmiddellijk voorafgaande aan de datum van de aanvraag voor een ICAO-standaard-BvL.     
+b. een BvL, of een BvL voor export naar Nederland, afgegeven door de staat waaruit het luchtvaartuig wordt geïmporteerd, niet eerder dan 60 dagen, onmiddellijk voorafgaande aan de datum van de aanvraag voor een ICAO-standaard-BvL.    
 
 ### 4.3  
 
@@ -154,7 +154,7 @@ b. documenten waaruit blijkt dat het luchtvaartuig in overeenstemming is met het
 
 c. documenten waaruit blijkt dat de van toepassing zijnde luchtwaardigheidsaanwijzingen als bedoeld in artikel 9 zijn uitgevoerd; en  
 
-d. documenten waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is bevonden en geschikt voor veilige operatie.    
+d. documenten waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is bevonden en geschikt voor veilige operatie.   
 
 ### 4.4  
 
@@ -162,7 +162,7 @@ d. documenten waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is 
 
 ### Artikel  9  
 
-Voorafgaand aan de afgifte van een ICAO-standaard-BvL worden de verplichte luchtwaardigheidsaanwijzingen van het land van ontwerp en de Nederlandse bijzondere luchtwaardigheidsaanwijzingen opgevolgd.  
+Voorafgaand aan de afgifte van een ICAO-standaard-BvL worden de verplichte luchtwaardigheidsaanwijzingen van het land van ontwerp en de Nederlandse bijzondere luchtwaardigheidsaanwijzingen opgevolgd. 
 
 ### §  5  
 
@@ -174,7 +174,7 @@ Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
 a. een verklaring van de bevoegde autoriteit van de staat van invoer waarin wordt vermeld welke luchtwaardigheidseisen van toepassing zijn, alsmede de eventuele afwijkingen van de luchtwaardigheidseisen die door de staat van invoer worden geaccepteerd;  
 
-b. een volledig ingevuld en ondertekend inspectierapport conform het model als opgenomen in bijlage 1 bij deze regeling betreffende de exportinspectie, die niet eerder is uitgevoerd dan 60 dagen voorafgaande aan de datum van de aanvraag voor een export BvL, waaruit blijkt en waarin wordt verklaard dat het luchtvaartuig in overeenstemming is met de onder a. genoemde luchtwaardigheidseisen.    
+b. een volledig ingevuld en ondertekend inspectierapport conform het model als opgenomen in bijlage 1 bij deze regeling betreffende de exportinspectie, die niet eerder is uitgevoerd dan 60 dagen voorafgaande aan de datum van de aanvraag voor een export BvL, waaruit blijkt en waarin wordt verklaard dat het luchtvaartuig in overeenstemming is met de onder a. genoemde luchtwaardigheidseisen.   
 
 ### §  6  
 
@@ -187,23 +187,18 @@ b. een volledig ingevuld en ondertekend inspectierapport conform het model als o
 ### Artikel  11  
 
 1.  De eigenaar of houder van een luchtvaartuig dient een aanvraag voor verlenging van de termijn van geldigheid van een ICAO-standaard-BvL dan wel een speciaal-BvL van een orphan aircraft in bij de minister.   
-2.  De eigenaar of houder van een luchtvaartuig kan een aanvraag voor herafgifte van een ARC indienen bij de minister.   
-3.  Bij een aanvraag als bedoeld in het eerste lid worden de volgende bescheiden gevoegd: 
+2.  Bij een aanvraag als bedoeld in het eerste lid worden de volgende bescheiden gevoegd: 
 
 a. een volledig ingevuld en ondertekend inspectierapport van de BvL-verlengingsinspectie, conform het model als opgenomen in bijlage 2 bij deze regeling, uitgevoerd door een daartoe erkend bedrijf, of  
 
 b. een inspectierapport van een volledige AR, uitgevoerd door een daartoe door de minister erkende CAMO.     
-4.  Bij een aanvraag als bedoeld in het tweede lid wordt een inspectierapport gevoegd van een volledige AR: 
-
-a. uitgevoerd door een daartoe erkende CAMO, of  
-
-b. voor een ELA 1-luchtvaartuig, uitgevoerd door een daartoe door de minister bevoegd verklaarde houder van een Part-66 AML.     
-5.  Een inspectierapport wordt ten minste 8 dagen voor de vervaldatum van de termijn van geldigheid van het BvL of het ARC ingediend.   
+3.  Een inspectierapport wordt ten minste 8 dagen voor de vervaldatum van de termijn van geldigheid van het BvL of het ARC ingediend.  
 
 ### Artikel  12  
 
 1.  De verlenging van de termijn van geldigheid van een ICAO-standaard-BvL dan wel een speciaal-BvL van een orphan aircraft kan tot hoogstens zes maanden na het verstrijken van de op het BvL vermelde termijn van geldigheid geschieden, indien in het inspectierapport een negatief advies wordt gegeven over de luchtwaardigheid van het luchtvaartuig.   
-2.  Bij verlenging van de termijn van geldigheid van een ICAO-standaard-BvL of een speciaal-BvL van een orphan aircraft, of bij herafgifte van een ARC wordt aan de aanvrager van de verlenging een nieuw BvL of ARC gezonden, waaruit blijkt tot en met welke datum het document geldig is.   
+2.  Bij verlenging van de termijn van geldigheid van een ICAO-standaard-BvL of een speciaal-BvL van een orphan aircraft, of bij herafgifte van een ARC wordt aan de aanvrager van de verlenging een nieuw BvL of ARC gezonden, waaruit blijkt tot en met welke datum het document geldig is.  
+6. Voor een Nederlands luchtvaartuig dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten wordt het ICAO-standaard-BvL voor ten hoogste 3 jaar geldig gehouden door telkens na 1 en 2 jaar een eenvoudige AR inspectie overeenkomstig Part M.A.901 (f) van verordening (EG) nr. 2042/2003 uit te voeren.
 
 ### 6.2  
 
@@ -215,7 +210,7 @@ b. voor een ELA 1-luchtvaartuig, uitgevoerd door een daartoe door de minister be
 2.  Op de aanvraag, bedoeld in artikel 11, eerste lid, wordt door de eigenaar of houder van het luchtvaartuig dat behoort tot de algemene luchtvaart, aangegeven op welke datum en op welke plaats in Nederland het luchtvaartuig gereed zal staan voor een mogelijke steekproef.   
 3.  Tussen de datum waarop de aanvraag bij de minister wordt ingediend en de datum van de mogelijke steekproef wordt een termijn van ten minste 8 dagen aangehouden.   
 4.  Voor een luchtvaartuig dat niet behoort tot de algemene luchtvaart worden zo nodig datum, tijdstip en plaats door de minister, na overleg met de eigenaar of houder van het luchtvaartuig, vastgesteld en schriftelijk aan de eigenaar of houder meegedeeld.   
-5.  De eigenaar of houder van het luchtvaartuig neemt zo spoedig mogelijk contact op met de minister als het luchtvaartuig door overmacht niet op de op de aanvraag aangegeven of door de minister vastgestelde plaats of datum gereed kan staan voor een mogelijke steekproef.   
+5.  De eigenaar of houder van het luchtvaartuig neemt zo spoedig mogelijk contact op met de minister als het luchtvaartuig door overmacht niet op de op de aanvraag aangegeven of door de minister vastgestelde plaats of datum gereed kan staan voor een mogelijke steekproef.  
 
 ### §  7  
 
@@ -224,18 +219,18 @@ b. voor een ELA 1-luchtvaartuig, uitgevoerd door een daartoe door de minister be
 ### Artikel  14  
 
 1.  Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een BvL of een ARC, onjuist zijn, wordt een BvL of een ARC dat de juiste gegevens vermeldt, aan de eigenaar of houder van het luchtvaartuig gezonden.   
-2.  De eigenaar of houder zendt een eerder ontvangen BvL of ARC binnen een week na de datum van verzending van het in het eerste lid bedoelde gewijzigde exemplaar aan de minister.   
+2.  De eigenaar of houder zendt een eerder ontvangen BvL of ARC binnen een week na de datum van verzending van het in het eerste lid bedoelde gewijzigde exemplaar aan de minister.  
 
 ### Artikel  15  
 
-Bij de overdracht van een luchtvaartuig wordt een BvL of een ARC door de voormalige eigenaar of houder van dat luchtvaartuig overgedragen aan de nieuwe eigenaar of houder van dat luchtvaartuig.  
+Bij de overdracht van een luchtvaartuig wordt een BvL of een ARC door de voormalige eigenaar of houder van dat luchtvaartuig overgedragen aan de nieuwe eigenaar of houder van dat luchtvaartuig. 
 
 ### Artikel  16  
 
 1.  Een BvL of een door de minister uitgegeven ARC wordt door de minister vernieuwd, bij verlies of indien het onleesbaar, beschadigd of anderszins onbruikbaar is geworden.   
 2.  Bij verlies wordt bij de aanvraag tot vernieuwing van een BvL of een ARC een afschrift van het proces-verbaal van de aangifte van verlies overgelegd.   
 3.  Indien een BvL of een ARC wegens verlies is vernieuwd en het verloren document wordt teruggevonden, zendt de eigenaar of houder van het luchtvaartuig het teruggevonden BvL of ARC zo spoedig mogelijk aan de minister.   
-4.  Indien een BvL of een ARC anders dan wegens verlies is vernieuwd, zendt de eigenaar of houder van het luchtvaartuig het oorspronkelijke BvL of ARC binnen een week na de datum van verzending van het vernieuwde document aan de minister.   
+4.  Indien een BvL of een ARC anders dan wegens verlies is vernieuwd, zendt de eigenaar of houder van het luchtvaartuig het oorspronkelijke BvL of ARC binnen een week na de datum van verzending van het vernieuwde document aan de minister.  
 
 ### §  8  
 
@@ -247,12 +242,11 @@ Bij de overdracht van een luchtvaartuig wordt een BvL of een ARC door de voormal
 
 ### Artikel  17  
 
-1.  Een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie wordt uitgevoerd door een erkend bedrijf.   
-2.  Een AR wordt uitgevoerd door een erkende CAMO.   
-3.  In afwijking van het eerste lid en het tweede lid kan de minister wanneer bijzondere omstandigheden daartoe aanleiding geven een BvL-acceptatiekeuring, een BvL-verlengingsinspectie, een exportinspectie dan wel een AR uitvoeren.   
-4.  De minister voert een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie in ieder geval uit wanneer er geen door hem daartoe erkend bedrijf is.   
-5.  De minister voert een AR in ieder geval uit wanneer er geen daartoe erkende CAMO is.   
-6.  Indien een BvL-acceptatiekeuring, een BvL-verlengingsinspectie, een exportinspectie dan wel een AR door de minister in het buitenland wordt uitgevoerd worden de eventuele kosten van een door hem te verrichten onderzoek in het kader van de inspectie door de eigenaar of houder van het betreffende luchtvaartuig gedragen.   
+1.  Een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie wordt uitgevoerd door een erkend bedrijf.  
+2. Wanneer bijzondere omstandigheden daartoe aanleiding geven kan de minister een BvL-acceptatiekeuring, een BvL-verlengingsinspectie, een exportinspectie dan wel een AR uitvoeren.  
+3.  De minister voert een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie in ieder geval uit wanneer er geen door hem daartoe erkend bedrijf is.   
+4.  De minister voert een AR in ieder geval uit wanneer er geen daartoe erkende CAMO is.   
+5.  Indien een BvL-acceptatiekeuring, een BvL-verlengingsinspectie, een exportinspectie dan wel een AR door de minister in het buitenland wordt uitgevoerd worden de eventuele kosten van een door hem te verrichten onderzoek in het kader van de inspectie door de eigenaar of houder van het betreffende luchtvaartuig gedragen.  
 
 ### 8.2  
 
@@ -263,7 +257,7 @@ Bij de overdracht van een luchtvaartuig wordt een BvL of een ARC door de voormal
 1.  Degene die bevoegd is tot het uitvoeren van een BvL-verlengingsinspectie of een exportinspectie bepaalt de inhoud van de technische inspectie, met dien verstande dat in de algemene luchtvaart ten minste de ‘check and inspect’-punten van de 100-uursinspectie of jaarlijkse inspectie of een daaraan gelijkwaardige inspectie worden uitgevoerd, indien de laatste inspectie langer dan een half jaar geleden heeft plaatsgevonden.   
 2.  Een acceptatiekeuring wordt uitgevoerd conform de in bijlage 1 opgenomen lijst van items.   
 3.  De BvL-verlengingsinspectie wordt niet eerder dan twee maanden voor het verlopen van de termijn van geldigheid van het bewijs van luchtwaardigheid uitgevoerd.   
-4.  Uiterlijk op de ochtend van de datum van de steekproef, bedoeld in artikel 13, is het inspectierapport conform het model volgens bijlage 2 voor de minister beschikbaar.   
+4.  Uiterlijk op de ochtend van de datum van de steekproef, bedoeld in artikel 13, is het inspectierapport conform het model volgens bijlage 2 voor de minister beschikbaar.  
 
 ### §  8*  
 
@@ -271,22 +265,22 @@ Bij de overdracht van een luchtvaartuig wordt een BvL of een ARC door de voormal
 
 ### Artikel  19  
 
-De [Regeling standaard-BvL](../../../../../../ministeriele-regeling/regeling/standaard-bvl/BWBR0012876/README.md) en de [Regeling verlenging bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/verlenging/bewijzen/van/luchtwaardigheid/BWBR0011596/README.md) worden ingetrokken.  
+De [Regeling standaard-BvL](../../../../../../ministeriele-regeling/regeling/standaard-bvl/BWBR0012876/README.md) en de [Regeling verlenging bewijzen van luchtwaardigheid](../../../../../../ministeriele-regeling/regeling/verlenging/bewijzen/van/luchtwaardigheid/BWBR0011596/README.md) worden ingetrokken. 
 
 ### Artikel  20  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2011.  
+Deze regeling treedt in werking met ingang van 1 oktober 2011. 
 
 ### Artikel  21  
 
-Deze regeling wordt aangehaald als: Regeling bewijzen van luchtwaardigheid.  
+Deze regeling wordt aangehaald als: Regeling bewijzen van luchtwaardigheid. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####als bedoeld in artikel 4, derde lid , artikel 5, onderdeel e , artikel 10, onderdeel b , en artikel 18, tweede lid .
 
@@ -297,7 +291,7 @@ J.J.Atsma
 ![249212](http://wetten.overheid.nl/Illustration/249212)
 ![249213](http://wetten.overheid.nl/Illustration/249213)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####als bedoeld in artikel 11, derde lid, onderdeel a , en artikel 18, vierde lid .
 

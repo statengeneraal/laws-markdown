@@ -27,7 +27,7 @@ d. *cliënt:* vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld o
 
 e. *betrokkene:* betrokkene als bedoeld in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-f. *kindcheck:* gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen.    
+f. *kindcheck:* gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen.   
 
 ### Artikel  2  
 
@@ -54,7 +54,7 @@ c. een gesprek met de cliënt;
 
 d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en  
 
-e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.     
+e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.    
 
 ### Artikel  3  
 
@@ -69,23 +69,23 @@ a. een persoon die in een beroepsmatige of hulpverlenende relatie tot de betrokk
 
 3. leidt of kan leiden tot een verstoring van de vertrouwensrelatie met de betrokkene of het gezin waartoe de betrokkene behoort;    
 
-b. het andere personen betreft dan die bedoeld onder a, behoudens voor zover zij daarvoor toestemming hebben gegeven.     
+b. het andere personen betreft dan die bedoeld onder a, behoudens voor zover zij daarvoor toestemming hebben gegeven.    
 
 ### Artikel  4  
 
-Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.   
+Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen. 
 
 ### Artikel  5  
 
-Wijzigt de Reclasseringsregeling 1995.   
+Wijzigt de Reclasseringsregeling 1995.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit verplichte meldcode huiselijk geweld en kindermishandeling.  
+Dit besluit wordt aangehaald als: Besluit verplichte meldcode huiselijk geweld en kindermishandeling. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -93,10 +93,10 @@ Wassenaar
 16 juli 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Volksgezondheid, Welzijn en Sport , 
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport ,  
 M.J. van Rijn   
 
 de *dertigste* juli 2013 
 
-De Staatssecretaris van Veiligheid en Justitie , 
+De Staatssecretaris van Veiligheid en Justitie ,  
 F. Teeven    
