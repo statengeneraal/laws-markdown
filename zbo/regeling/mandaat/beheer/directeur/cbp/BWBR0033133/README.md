@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  1  
 
-Aan de directeur, hoofd van het secretariaat van het College bescherming persoonsgegevens, wordt mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden op het terrein van het beheer, voorzover deze aangelegenheden naar aard of inhoud niet een zodanig gewicht hebben dat zij door de voorzitter van het College dienen te worden afgedaan.  
+Aan de directeur, hoofd van het secretariaat van het College bescherming persoonsgegevens, wordt mandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden op het terrein van het beheer, voorzover deze aangelegenheden naar aard of inhoud niet een zodanig gewicht hebben dat zij door de voorzitter van het College dienen te worden afgedaan. 
 
 ### Artikel  2  
 
-Aangelegenheden van beheersmatige aard, waarvan de afdoening bij uitsluiting aan de voorzitter blijft voorbehouden, worden vermeld op de website van het College bescherming persoonsgegevens.  
+Aangelegenheden van beheersmatige aard, waarvan de afdoening bij uitsluiting aan de voorzitter blijft voorbehouden, worden vermeld op de website van het College bescherming persoonsgegevens.
 
 ### Artikel  3  
 
-De ondertekening van documenten die door de directeur, krachtens het in artikel 1 verleende mandaat, volmacht en machtiging worden afgedaan geschiedt als volgt: ‘Namens de Minister van Justitie, de directeur van het College bescherming persoonsgegevens, (gevolgd door de handtekening en de naam van de betrokken functionaris)’.  
+De ondertekening van documenten die door de directeur, krachtens het in artikel 1 verleende mandaat, volmacht en machtiging worden afgedaan geschiedt als volgt: ‘Namens de Minister van Justitie, de directeur van het College bescherming persoonsgegevens, (gevolgd door de handtekening en de naam van de betrokken functionaris)’. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als Regeling mandaat beheer directeur CBP.  
-Deze regeling zal, met de toelichting, in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als Regeling mandaat beheer directeur CBP. 
+Deze regeling zal, met de toelichting, in de Staatscourant worden geplaatst.  
 
-Den Haag 
-20 maart 2006   
+Den Haag
+20 maart 2006
 
 De 
-voorzitter van het College bescherming persoonsgegevens,
-J.Kohnstamm   
+voorzitter van het College bescherming persoonsgegevens, 
+J. Kohnstamm     

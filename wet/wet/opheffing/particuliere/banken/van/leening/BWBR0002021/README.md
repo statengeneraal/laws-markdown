@@ -11,27 +11,27 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-Toelatingen, als bedoeld in [artikel 13 der Pandhuiswet 1910](../../../../../../../../wet/pandhuiswet/1910/BWBR0001880/README.md), *Staatsblad* no. 321, worden niet meer verleend.  
+Toelatingen, als bedoeld in [artikel 13 der Pandhuiswet 1910](../../../../../../../../wet/pandhuiswet/1910/BWBR0001880/README.md), *Staatsblad* no. 321, worden niet meer verleend. 
 
 ### Artikel  2  
 
-De vóór de inwerkingtreding van deze wet verleende toelatingen worden geacht te zijn ingetrokken op den eersten dag van de zevende maand na de inwerkingtreding van deze wet.  
+De vóór de inwerkingtreding van deze wet verleende toelatingen worden geacht te zijn ingetrokken op den eersten dag van de zevende maand na de inwerkingtreding van deze wet.
 
 ### Artikel  3  
 
-De houder van de Bank bevestigt binnen acht dagen na de inwerkingtreding van deze wet een voor het publiek duidelijk zichtbare kennisgeving aan het pandhuis, vermeldende den datum, waarop ingevolge deze wet geen panden meer in beleening mogen worden aangenomen.  
+De houder van de Bank bevestigt binnen acht dagen na de inwerkingtreding van deze wet een voor het publiek duidelijk zichtbare kennisgeving aan het pandhuis, vermeldende den datum, waarop ingevolge deze wet geen panden meer in beleening mogen worden aangenomen. 
 
 ### Artikel  4  
 
-Indien de houder van de Bank niet voldoet aan het bij artikel 3 bepaalde, wordt de toelating geacht te zijn ingetrokken op den negenden dag na de inwerkingtreding van deze wet.  
+Indien de houder van de Bank niet voldoet aan het bij artikel 3 bepaalde, wordt de toelating geacht te zijn ingetrokken op den negenden dag na de inwerkingtreding van deze wet. 
 
 ### Artikel  5  
 
-Het besluit van de Secretarissen-Generaal van de Departementen van Binnenlandsche Zaken en van Justitie betreffende de beëindiging van de werkzaamheden der particuliere banken van leening van 24/27 November 1942 (*Nederlandsche Staatscourant* 14 Januari 1943, no. 9) vervalt.  
+Het besluit van de Secretarissen-Generaal van de Departementen van Binnenlandsche Zaken en van Justitie betreffende de beëindiging van de werkzaamheden der particuliere banken van leening van 24/27 November 1942 ( *Nederlandsche Staatscourant* 14 Januari 1943, no. 9) vervalt. 
 
 ### Artikel  6  
 
-Deze wet treedt in werking met ingang van den dag volgende op dien harer afkondiging.  
+Deze wet treedt in werking met ingang van den dag volgende op dien harer afkondiging. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

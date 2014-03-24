@@ -16,31 +16,31 @@ b. mandaat: de bevoegdheid om in naam van de Minister van Justitie besluiten te 
 
 c. volmacht: de bevoegdheid om in naam van de Minister van Justitie privaatrechtelijke rechtshandelingen te verrichten.  
 
-d. machtiging: de bevoegdheid om in naam van de Minister van Justitie handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.    
+d. machtiging: de bevoegdheid om in naam van de Minister van Justitie handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
 1.  Aan de voorzitter van het College wordt mandaat, volmacht en machtiging verleend ten aanzien van de aangelegenheden die het beheer van het College betreffen.   
-2.  De voorzitter wordt toegestaan mandaat volmacht en machtiging door te geven aan de directeur van het College, die het op zijn beurt voor omschreven taken kan doorgeven aan ambtenaren van het College.   
+2.  De voorzitter wordt toegestaan mandaat volmacht en machtiging door te geven aan de directeur van het College, die het op zijn beurt voor omschreven taken kan doorgeven aan ambtenaren van het College.  
 
 ### Artikel  3  
 
 1.  De voorzitter van het College wordt aangewezen als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de bij het secretariaat werkzame ambtenaren.   
-2.  Aan de Minister van Justitie blijft voorbehouden de bevoegdheid om beslissingen te nemen met rechtspositionele gevolgen ten aanzien van de ambtenaren van het secretariaat, bezoldigd in salarisschaal 14 of hoger.   
+2.  Aan de Minister van Justitie blijft voorbehouden de bevoegdheid om beslissingen te nemen met rechtspositionele gevolgen ten aanzien van de ambtenaren van het secretariaat, bezoldigd in salarisschaal 14 of hoger.  
 
 ### Artikel  4  
 
-Deze regeling treedt voor het College in de plaats van de Mandaatregeling beheer CBP, CGB, CJD en bureau NVvR, regeling van de Minister van Justitie van 25 september 2002, nr. 5188488/802.  
+Deze regeling treedt voor het College in de plaats van de Mandaatregeling beheer CBP, CGB, CJD en bureau NVvR, regeling van de Minister van Justitie van 25 september 2002, nr. 5188488/802. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
 ####(Citeertitel)
 
-Deze regeling wordt aangehaald als: Mandaatregeling beheer CBP.  
+Deze regeling wordt aangehaald als: Mandaatregeling beheer CBP. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -49,4 +49,4 @@ Den Haag
 De 
 Minister van Justitie, namens deze: de 
 Directeur Strategie Rechtspleging, 
-M.J.J. van denHonert   
+M.J.J. van den Honert     
