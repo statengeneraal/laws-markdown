@@ -11,7 +11,7 @@ Besluit als volgt:
 ####Omtrent de uitleg van wettelijke voorschriften
 
 1.  Onder betrouwbaarheid wordt voor de toepassing van de toezichtwet verstaan het zich onthouden van één of meer gedragingen die naar het oordeel van de toezichthouder in de weg staan aan het vervullen van de functie van (mede)beleidsbepaler.   
-2.  Tot de in het eerste lid bedoelde gedragingen behoren in ieder geval gedragingen die blijk geven van het niet hebben van eigenschappen als waarheidslievendheid, verantwoordelijkheidszin, wetsgetrouwheid, openheid, oprechtheid, prudentie, punctualiteit, onkreukbaarheid, discretie en rechtschapenheid.   
+2.  Tot de in het eerste lid bedoelde gedragingen behoren in ieder geval gedragingen die blijk geven van het niet hebben van eigenschappen als waarheidslievendheid, verantwoordelijkheidszin, wetsgetrouwheid, openheid, oprechtheid, prudentie, punctualiteit, onkreukbaarheid, discretie en rechtschapenheid.  
 
 ### Artikel  2  
 
@@ -51,7 +51,7 @@ Besluit als volgt:
 
 – de accountantsregisters van het Koninklijk Nederlands Instituut voor Registeraccountants (NIVRA) en de Nederlandse Orde van Accountants-Administratieconsulenten (NOvAA);  
 
-– referenties.     
+– referenties.    
 
 ### Artikel  3  
 
@@ -66,28 +66,28 @@ Besluit als volgt:
 
 – de overige belangen van de accountantsorganisatie en betrokkene.     
 3.  Gelet op de aard en de ernst van de misdrijven genoemd in bijlage A2, worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de toezichtwet beoogt te beschermen. De toezichthouder stelt vast dat de betrouwbaarheid niet (meer) buiten twijfel staat indien uit de antecedenten van betrokkene blijkt dat deze bij onherroepelijke uitspraak is veroordeeld ter zake van een misdrijf als vermeld in genoemde bijlage, tenzij sedert de dag waarop deze uitspraak onherroepelijk is geworden acht jaren of meer zijn verstreken.   
-4.  Indien een antecedent kan worden gekwalificeerd als een antecedent in de zin van zowel bijlage A1 als bijlage A2, dan geldt het bepaalde van artikel 3, derde lid, hiervoor.   
+4.  Indien een antecedent kan worden gekwalificeerd als een antecedent in de zin van zowel bijlage A1 als bijlage A2, dan geldt het bepaalde van artikel 3, derde lid, hiervoor.  
 
 ### Artikel  4  
 
 ####Toezichtmaatregelen
 
-In het geval dat de toezichthouder heeft geconcludeerd dat de betrouwbaarheid niet (meer) buiten twijfel staat en uit de toezichtwet zelf geen directe consequenties voortvloeien, kan de toezichthouder gebruik maken van de hem ingevolge de toezichtwet toekomende bevoegdheden (bijvoorbeeld het geven van een aanwijzing, het niet verlenen c.q. intrekken van een vergunning).  
+In het geval dat de toezichthouder heeft geconcludeerd dat de betrouwbaarheid niet (meer) buiten twijfel staat en uit de toezichtwet zelf geen directe consequenties voortvloeien, kan de toezichthouder gebruik maken van de hem ingevolge de toezichtwet toekomende bevoegdheden (bijvoorbeeld het geven van een aanwijzing, het niet verlenen c.q. intrekken van een vergunning). 
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant. De beleidsregel treedt in werking op 1 oktober 2006.  
+De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant. De beleidsregel treedt in werking op 1 oktober 2006. 
 
 Amsterdam 
 19 september 2006   
 
 De 
 Voorzitter, 
-A.W.H.Docters van Leeuwen
+A.W.H. Docters van Leeuwen  
 Bestuurslid, 
-A.W.Kist  
+A.W. Kist    
 
 ### Bijlage  A1  
 
@@ -135,19 +135,19 @@ Onder strafrechtelijke antecedenten worden in ieder geval de volgende verstaan: 
 
 – Dood of letsel door schuld ([6](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), doorrijden na ongeval ([7](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), rijden onder invloed ([8](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), motorvoertuig besturen na ontzegging ([9](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)), joyriding ([11](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md))  
 
-– Medewerking weigeren aan onderzoek ([163](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).     Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.  
+– Medewerking weigeren aan onderzoek ([163](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).     Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
 
 #### *2. Transacties met het Openbaar Ministerie* 
 
-Betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.  
+Betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties wordt ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
 #### *3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging* 
 
-Betrokkene wordt ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet (verder) vervolgd, dan wel vrijgesproken of ontslagen van rechtsvervolging. Onder (voorwaardelijk) sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.  
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet (verder) vervolgd, dan wel vrijgesproken of ontslagen van rechtsvervolging. Onder (voorwaardelijk) sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
 #### *4. Andere feiten of omstandigheden* 
 
-Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van belang kunnen zijn, zoals bijvoorbeeld blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland.  
+Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van belang kunnen zijn, zoals bijvoorbeeld blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland. 
 
 ### Bijlage  A2  
 
@@ -167,7 +167,7 @@ Betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld ter zake va
 
 – witwassen ([420 bis–420 ter WvSr.](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
 
-– overtredingen uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) jo. [6 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf en/of een geldboete van ten minste de vierde categorie.   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.  
+– overtredingen uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) jo. [6 van de Wet op de economische delicten](../../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf en/of een geldboete van ten minste de vierde categorie.   Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer aldaar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
 
 ### Bijlage  B  
 
@@ -183,7 +183,7 @@ Onder privé financiële antecedenten, van belang voor de beoordeling van de daa
 
 – betrokkene is thans in Nederland of elders verwikkeld in één of meer juridische procedures naar aanleiding van financiële problemen, dan wel verwacht daarin betrokken te raken;  
 
-– de particuliere financiële verplichtingen staan naar algemene maatstaven niet in een gezonde verhouding tot de inkomsten en/of vermogen.    
+– de particuliere financiële verplichtingen staan naar algemene maatstaven niet in een gezonde verhouding tot de inkomsten en/of vermogen.   
 
 #### *Zakelijk* 
 
@@ -193,11 +193,11 @@ Onder zakelijke financiële antecedenten, van belang voor de beoordeling van de 
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie als bestuurder of commissaris bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken;  
 
-– betrokkene is veroordeeld tot het betalen van niet voldane schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [138](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [300a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)) of soortgelijke bepalingen elders.    
+– betrokkene is veroordeeld tot het betalen van niet voldane schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [138](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [300a](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)) of soortgelijke bepalingen elders.   
 
 #### *Andere feiten of omstandigheden* 
 
-Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn.  
+Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn. 
 
 ### Bijlage  C  
 
@@ -217,7 +217,7 @@ Onder toezichtantecedenten, van belang voor de beoordeling van de daaraan ten gr
 
 #### *Andere feiten of omstandigheden* 
 
-Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn.  
+Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn. 
 
 ### Bijlage  D  
 
@@ -231,7 +231,7 @@ Onder privé fiscaal bestuursrechtelijke antecedenten, van belang voor de beoord
 
 – het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([67e](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).    
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
 
 #### *Zakelijk* 
 
@@ -241,11 +241,11 @@ Onder zakelijke fiscaal bestuursrechtelijke antecedenten, van belang voor de beo
 
 – het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([67e](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).    
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([67f](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
 
 #### *Andere feiten of omstandigheden* 
 
-Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen in fiscaal bestuursrechtelijke zin, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn.  
+Andere feiten of omstandigheden aangaande betrokkene die wijzen op betrokkenheid bij één of meer gedragingen in fiscaal bestuursrechtelijke zin, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn. 
 
 ### Bijlage  E  
 
@@ -259,5 +259,5 @@ Onder overige antecedenten, van belang voor de beoordeling van de daaraan ten gr
 
 #### *Andere feiten of omstandigheden* 
 
-Andere feiten of omstandigheden aangaande betrokkene, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn.  
+Andere feiten of omstandigheden aangaande betrokkene, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn. 
 
