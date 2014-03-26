@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Met het toezicht op de naleving van het [Warenwetbesluit cosmetische producten](../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md) zijn mede belast de hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van de Inspectie voor de Gezondheidszorg.  
+Met het toezicht op de naleving van het [Warenwetbesluit cosmetische producten 2011](../../../../../../AMvB/warenwetbesluit/cosmetische/producten/2011/BWBR0029746/README.md) zijn mede belast de hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van de Inspectie voor de Gezondheidszorg. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2012.  
+Dit besluit treedt in werking met ingang van 1 januari 2012. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit toezichthouders cosmetische producten.  
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit toezichthouders cosmetische producten. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

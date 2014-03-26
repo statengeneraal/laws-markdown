@@ -10,11 +10,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *besluit:* het [Besluit strategische goederen](../../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md);  
+–  *besluit:* het [Besluit strategische goederen](../../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md);  
 
-– *inspecteur:* de algemeen directeur Douane;  
+–  *inspecteur:* de algemeen directeur Douane;  
 
-– *wet:* de [Wet strategische diensten](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md).    
+–  *wet:* de [Wet strategische diensten](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md).   
 
 ### Artikel  2  
 
@@ -22,11 +22,11 @@ Het is verboden om zonder vergunning van de Minister voor Buitenlandse Handel en
 
 a. bijlage I of II, indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben;  
 
-b. bijlage II, indien deze als bestemming, met inbegrip van de eindbestemming, Egypte hebben.    
+b.bijlage II, indien deze als bestemming, met inbegrip van de eindbestemming, Egypte of Oekraïne hebben.  
 
 ### Artikel  3  
 
-Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking een tussenhandeldienst als bedoeld in de [artikelen 4, derde lid](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md), [5, eerste lid](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md), of [6, eerste lid, van de wet](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md) te verlenen voor goederen voor tweeërlei gebruik als bedoeld in bijlage I, indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben.  
+Het is verboden zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking een tussenhandeldienst als bedoeld in de [artikelen 4, derde lid](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md), [5, eerste lid](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md), of[ 6, eerste lid, van de wet](../../../../../../../wet/wet/strategische/diensten/BWBR0030545/README.md) te verlenen voor goederen voor tweeërlei gebruik als bedoeld in bijlage I, indien deze als bestemming, met inbegrip van de eindbestemming, Syrië hebben. 
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ d. een omschrijving van de goederen voor tweeërlei gebruik waarop de aanvraag b
 
 a. de overeenkomst die ten grondslag ligt aan de betreffende uitvoer;  
 
-b. een verklaring betreffende het eindgebruik.     
+b. een verklaring betreffende het eindgebruik.    
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ e. de aard van de dienstverlening.
 
 a. de overeenkomst die ten grondslag ligt aan de betreffende tussenhandeldienst;  
 
-b. een verklaring betreffende het eindgebruik.     
+b. een verklaring betreffende het eindgebruik.    
 
 ### Artikel  6  
 
@@ -73,16 +73,16 @@ b. een verklaring betreffende het eindgebruik.
 a. door middel van een bewijsstuk van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument of een eindgebruikersverklaring wordt bij de inspecteur aangetoond dat de goederen voor tweeërlei gebruik de bestemming waarvoor de vergunning is verleend, hebben bereikt;  
 
 b. bij elke uitvoer wordt een factuur ingezonden aan de inspecteur.     
-2.  Een vergunning als bedoeld in artikel 2 kan onder beperkingen worden verleend.   
+2.  Een vergunning als bedoeld in artikel 2 kan onder beperkingen worden verleend.  
 
 ### Artikel  7  
 
 1.  Aan een vergunning als bedoeld in artikel 3 kunnen voorwaarden en voorschriften worden verbonden.   
-2.  Een vergunning als bedoeld in artikel 3 kan onder beperkingen worden verleend.   
+2.  Een vergunning als bedoeld in artikel 3 kan onder beperkingen worden verleend.  
 
 ### Artikel  8  
 
-Indien een vergunninghouder geen gebruik maakt of meer kan of zal maken van de vergunning als bedoeld in artikel 2 of 3, wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur.  
+Indien een vergunninghouder geen gebruik maakt of meer kan of zal maken van de vergunning als bedoeld in artikel 2 of 3, wordt deze onder opgave van redenen terstond ingezonden aan de inspecteur. 
 
 ### Artikel  9  
 
@@ -90,26 +90,26 @@ Een vergunning als bedoeld in artikel 2 of 3 kan in ieder geval ingetrokken word
 
 a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;  
 
-b. de voorschriften, voorwaarden en beperkingen van de vergunning niet in acht zijn genomen.    
+b. de voorschriften, voorwaarden en beperkingen van de vergunning niet in acht zijn genomen.   
 
 ### Artikel  10  
 
-De [Regeling goederen voor tweeërlei gebruik Syrië](../../../../../../../ministeriele-regeling/regeling/goederen/voor/tweeërlei/gebruik/syrië/BWBR0033084/README.md) wordt ingetrokken.  
+De [Regeling goederen voor tweeërlei gebruik Syrië](../../../../../../../ministeriele-regeling/regeling/goederen/voor/tweeërlei/gebruik/syrië/BWBR0033084/README.md) wordt ingetrokken. 
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik.  
+Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik. 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,
-E.M.J.Ploumen  
+Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, 
+E.M.J. Ploumen    
 
-### Bijlage  I  
+### Bijlage I 
 
 ####behorende bij artikel 2  van de Regeling goederen voor tweeërlei gebruik
 
@@ -119,7 +119,7 @@ E.M.J.Ploumen
 
 *Algemene noot bij de bijlage*  1. Met goederen worden in deze bijlage zowel nieuwe als gebruikte goederen bedoeld. 
 
-### Bijlage  II  
+### Bijlage II 
 
 ####behorende bij artikel 2  van de Regeling goederen voor tweeërlei gebruik
 
@@ -153,5 +153,5 @@ E.M.J.Ploumen
 | 10.  | Productieapparatuur die speciaal is ontworpen voor de in deze lijst vermelde goederen.  |
 | 11.  | Specifieke technologie voor de ontwikkeling, de vervaardiging of het gebruik van de in deze lijst vermelde goederen.  |
 
-Verklaring afkorting: ML: Militaire lijst. Het betreft de militaire lijst van de gemeenschappelijke lijst van militaire goederen.  
+Verklaring afkorting: ML: Militaire lijst. Het betreft de militaire lijst van de gemeenschappelijke lijst van militaire goederen. 
 
