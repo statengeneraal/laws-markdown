@@ -15,35 +15,35 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit politiegegevens.   
+Wijzigt het Besluit politiegegevens. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit justitiële gegevens.   
+Wijzigt het Besluit justitiële gegevens. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit studiefinanciering 2000.   
+Wijzigt het Besluit studiefinanciering 2000. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt het Besluit tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  VII  
 
-Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.   
+Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.   
+Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen. 
 
 ### Artikel  IX  
 
@@ -60,7 +60,7 @@ d. het volgen van studie of de voorbereiding op studie: de onderwijsinstelling w
 e. verblijf als au pair: het gastgezin waarin de vreemdeling als au pair verblijft;  
 
 f. verblijf in het kader van uitwisseling: de persoon of organisatie die ten behoeve van het verblijf van de uitwisselingsjongere een garantverklaring heeft ondertekend.     
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste lid.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste lid.  
 
 ### Artikel  X  
 
@@ -88,33 +88,33 @@ f. verblijf in het kader van uitwisseling: de persoon of organisatie die ten beh
 
 | A  | B  | C  |
 |:---|:---|:---|
-|  [artikel 3.39](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   | Lerend werken  | verblijf als stagaire;  verblijf als practicant  |
-|  [artikel 3.43, eerste lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   | Uitwisseling  | verblijf als au pair;  verblijf in het kader van uitwisseling  |
-| [artikel 3.50, eerste lid, onder a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.51, eerste lid, onder a, onder 1°, en onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.86, dertiende lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);   [artikel 3.90, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   | Familie- of gezinslid  | verblijf in het kader van gezinshereniging of gezinsvorming;  verblijf ter adoptie;  verblijf als pleegkind;  verblijf in afwachting van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie  |
-|  [artikel 3.51, eerste lid, onder a, onder 3°](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)   | Tijdelijke humanitaire gronden  | verblijf als alleenstaande minderjarige vreemdeling;  verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken  |
+| [artikel 3.39](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Lerend werken  | verblijf als stagaire;  verblijf als practicant  |
+| [artikel 3.43, eerste lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Uitwisseling  | verblijf als au pair;  verblijf in het kader van uitwisseling  |
+| [artikel 3.50, eerste lid, onder a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.51, eerste lid, onder a, onder 1°, en onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.86, dertiende lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.90, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Familie- of gezinslid  | verblijf in het kader van gezinshereniging of gezinsvorming;  verblijf ter adoptie;  verblijf als pleegkind;  verblijf in afwachting van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie  |
+| [artikel 3.51, eerste lid, onder a, onder 3°](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Tijdelijke humanitaire gronden  | verblijf als alleenstaande minderjarige vreemdeling;  verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken  |
 
-3.  Onze Minister kan nadere regels stellen omtrent de verblijfsvergunningen, verleend onder een andere beperking als bedoeld in [artikel 3.4, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).   
+3.  Onze Minister kan nadere regels stellen omtrent de verblijfsvergunningen, verleend onder een andere beperking als bedoeld in [artikel 3.4, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).  
 
 ### Artikel  XI  
 
-De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet ingetrokken met toepassing van [artikel 18, eerste lid, onder h, van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien zij is verleend voor de inwerkingtreding van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md).  
+De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet ingetrokken met toepassing van [artikel 18, eerste lid, onder h, van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien zij is verleend voor de inwerkingtreding van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md). 
 
 ### Artikel  XII  
 
-Het in [artikel XII, tweede lid, van de Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) bedoelde tijdstip is 1 juli 2010.  
+Het in [artikel XII, tweede lid, van de Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) bedoelde tijdstip is 1 juli 2010. 
 
 ### Artikel  XIII  
 
 1.  De onderdelen MMM en WWW, subonderdeel 3, van artikel I van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) en dit besluit.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) en dit besluit.  
 
 ### Artikel  XIV  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende verblijfsdoelen verschillend kan zijn, met uitzondering van artikel I, onderdelen C, subonderdeel 1, E, G, subonderdeel 1, N, BBB, subonderdeel 2, CCC, GGG, subonderdeel 2, HHH, MMM, UUU, subonderdeel 2, WWW, subonderdelen 1 en 3, XXX, FFFF, subonderdeel 1, JJJJ, NNNN, subonderdeel 7, PPPP, UUUU, YYYY, subonderdeel 1, BBBBB en FFFFF, en artikel XIII, eerste lid, die in werking treden met ingang van de dag na de datum van afgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende verblijfsdoelen verschillend kan zijn, met uitzondering van artikel I, onderdelen C, subonderdeel 1, E, G, subonderdeel 1, N, BBB, subonderdeel 2, CCC, GGG, subonderdeel 2, HHH, MMM, UUU, subonderdeel 2, WWW, subonderdelen 1 en 3, XXX, FFFF, subonderdeel 1, JJJJ, NNNN, subonderdeel 7, PPPP, UUUU, YYYY, subonderdeel 1, BBBBB en FFFFF, en artikel XIII, eerste lid, die in werking treden met ingang van de dag na de datum van afgifte van het Staatsblad waarin dit besluit wordt geplaatst. 
 
 ### Artikel  XV  
 
-Dit besluit wordt aangehaald als: Besluit modern migratiebeleid.  
+Dit besluit wordt aangehaald als: Besluit modern migratiebeleid. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -122,10 +122,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 juli 2010  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *dertigste* juli 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

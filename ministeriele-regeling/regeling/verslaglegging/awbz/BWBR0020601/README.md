@@ -14,7 +14,7 @@ a. de wet: de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene
 
 b. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-c. een verbindingskantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).    
+c. een verbindingskantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
 
 ### Artikel  2  
 
@@ -30,13 +30,13 @@ c. een bestuurlijke verantwoording ten aanzien het financieel beheer en de recht
 
 a. de lasten en baten van het beheer;  
 
-b. de lasten en baten van de zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het College zorgverzekeringen worden verrekend;  
+b. de lasten en baten van de zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het Zorginstituut worden verrekend;  
 
 c. de lasten en baten van zorgverlening en inning van eigen bijdragen als bedoeld in [artikel 6, vierde lid van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), met inbegrip van de eigen bijdragen die door het CAK worden verrekend;  
 
 d. de lasten en baten van de uitvoering van subsidieregelingen;  
 
-e. overige lasten en baten.     
+e. overige lasten en baten.    
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ a. een balans, voorzien van een toelichting;
 
 b. een exploitatierekening, voorzien van een toelichting;  
 
-c. een bestuurlijke verantwoording ten aanzien het financieel beheer en de rechtmatigheid van de in het financieel verslag opgenomen lasten en baten.     
+c. een bestuurlijke verantwoording ten aanzien het financieel beheer en de rechtmatigheid van de in het financieel verslag opgenomen lasten en baten.    
 
 ### Artikel  4  
 
@@ -68,7 +68,7 @@ f. de wijze waarop de afhandeling van bezwaren van de verzekerden is georganisee
 
 g. de wijze waarop de afhandeling van klachten van de verzekerden is georganiseerd alsmede de resultaten van de afhandeling van klachten;  
 
-h. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de gevraagde en aangeleverde gegevens in het uitvoeringsverslag.     
+h. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de gevraagde en aangeleverde gegevens in het uitvoeringsverslag.    
 
 ### Artikel  5  
 
@@ -79,17 +79,17 @@ a. het profiel, de organisatiestructuur en het gevoerde en voorgenomen beleid bi
 
 b. de resultaten van het door het CAK gevoerde beleid ter uitvoering van zijn wettelijke taken;  
 
-c. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de gevraagde en aangeleverde gegevens in het uitvoeringsverslag.     
+c. een ondertekende verklaring van het bestuur over de betrouwbaarheid van de gevraagde en aangeleverde gegevens in het uitvoeringsverslag.    
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling verslaglegging AWBZ.  
+Deze regeling wordt aangehaald als: Regeling verslaglegging AWBZ. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M.  Ross-van Dorp     

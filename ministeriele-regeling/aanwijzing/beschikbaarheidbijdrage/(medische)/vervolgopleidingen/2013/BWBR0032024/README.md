@@ -19,53 +19,53 @@ Gezien:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+a.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-b. *besluit:*[Besluit beschikbaarheidbijdrage WMG](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md);  
+b.  *besluit:* [Besluit beschikbaarheidbijdrage WMG](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md);  
 
-c. *dienst van algemeen belang:* dienst van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie;  
+c.  *dienst van algemeen belang:* dienst van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie;  
 
-d. *verdeelplan:* overzicht van de verdeling van het maximale aantal opleidingsplaatsen per opleiding per opleidende zorgaanbieder;  
+d.  *verdeelplan:* overzicht van de verdeling van het maximale aantal opleidingsplaatsen per opleiding per opleidende zorgaanbieder;  
 
-e. *opleidingsoverzicht:* overzicht, uitgesplitst naar instroom en doorstroom, van de gerealiseerde opleidingsplaatsen per opleiding per opleidende zorgaanbieder zoals dat blijkt uit het opleidingsregister van de voor de desbetreffende opleiding relevante registratiecommissie;  
+e.  *opleidingsoverzicht:* overzicht, uitgesplitst naar instroom en doorstroom, van de gerealiseerde opleidingsplaatsen per opleiding per opleidende zorgaanbieder zoals dat blijkt uit het opleidingsregister van de voor de desbetreffende opleiding relevante registratiecommissie;  
 
-f. *instroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s en aantal personen, voor (medische) beroepsbeoefenaren in opleiding die in het jaar 2013 met een vervolgopleiding beginnen;  
+f.  *instroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s en aantal personen, voor (medische) beroepsbeoefenaren in opleiding die in het jaar 2013 met een vervolgopleiding beginnen;  
 
-g. *doorstroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s, voor (medische) beroepsbeoefenaren in opleiding die voorafgaand aan het jaar 2013 met een vervolgopleiding zijn begonnen;  
+g.  *doorstroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s, voor (medische) beroepsbeoefenaren in opleiding die voorafgaand aan het jaar 2013 met een vervolgopleiding zijn begonnen;  
 
-h. *gerealiseerde opleidingsplaats:* aantal uren, uitgedrukt in fte’s, dat de (medische) beroepsbeoefenaar in opleiding blijkens het relevante opleidingsregister de vervolgopleiding in het jaar 2013 feitelijk heeft gevolgd, tot een maximum overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling;  
+h.  *gerealiseerde opleidingsplaats:* aantal uren, uitgedrukt in fte’s, dat de (medische) beroepsbeoefenaar in opleiding blijkens het relevante opleidingsregister de vervolgopleiding in het jaar 2013 feitelijk heeft gevolgd, tot een maximum overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling;  
 
-i. *opleidende zorgaanbieder:* zorgaanbieder die als zodanig is erkend door de voor de desbetreffende opleiding relevante registratiecommissie, voor zolang deze erkenning niet is ingetrokken of vervallen.  
+i.  *opleidende zorgaanbieder:* zorgaanbieder die als zodanig is erkend door de voor de desbetreffende opleiding relevante registratiecommissie, voor zolang deze erkenning niet is ingetrokken of vervallen.  
 
-j. *fte:* full time equivalent (voltijdse plaats);  
+j.  *fte:* full time equivalent (voltijdse plaats);  
 
-k. *ggz:* geestelijke gezondheidszorg.    
+k.  *ggz:* geestelijke gezondheidszorg.   
 
 ### Artikel  2  
 
 ####werkingssfeer
 
-Deze aanwijzing is van toepassing op activiteiten ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het besluit](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md), juncto onderdeel B, onder 1, sub a en b, van de [bijlage bij het besluit](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md) en heeft betrekking op het kalenderjaar 2013.  
+Deze aanwijzing is van toepassing op activiteiten ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het besluit](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md), juncto onderdeel B, onder 1, sub a en b, van de [bijlage bij het besluit](../../../../../../../AMvB/besluit/beschikbaarheidbijdrage/wmg/BWBR0031971/README.md) en heeft betrekking op het kalenderjaar 2013. 
 
 ### Artikel  3  
 
 ####opdracht
 
-De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast  
+De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast 
 
 ### Artikel  4  
 
 ####dienst van algemeen belang
 
 1.  De zorgautoriteit belast een opleidende zorgaanbieder op diens aanvraag met een dienst van algemeen belang voor opleidingsactiviteiten voor een vervolgopleiding als bedoeld in artikel 2.   
-2.  De zorgautoriteit toetst de aanvraag aan het verdeelplan dat ik met betrekking tot het jaar 2013 vaststel, en wat betreft de doorstroom tevens aan de opleidingsoverzichten die de voor de desbetreffende vervolgopleidingen relevante registratiecommissies met betrekking tot het jaar 2013 bijhouden.   
+2.  De zorgautoriteit toetst de aanvraag aan het verdeelplan dat ik met betrekking tot het jaar 2013 vaststel, en wat betreft de doorstroom tevens aan de opleidingsoverzichten die de voor de desbetreffende vervolgopleidingen relevante registratiecommissies met betrekking tot het jaar 2013 bijhouden.  
 
 ### Artikel  5  
 
 ####verstrekken beschikbaarheidbijdrage
 
-1.  De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage vast ter compensatie voor het verlenen van de dienst van algemeen belang, bedoeld in artikel 4. Zij vermeldt daarbij, met inachtneming van artikel 7, per vervolgopleiding of de beschikbaarheidbijdrage ten laste van het Algemeen Fonds Bijzondere Ziektekosten, dan wel het Zorgverzekeringsfonds bij het College voor zorgverzekeringen in rekening kan worden gebracht.   
-2.  De zorgautoriteit stelt de beschikbaarheidbijdrage vast op basis van het aantal gerealiseerde opleidingsplaatsen. Daarbij laat zij verrekening van rente in verband met een eventueel verschil tussen verlening en vaststelling achterwege.   
+1.  De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage vast ter compensatie voor het verlenen van de dienst van algemeen belang, bedoeld in artikel 4. Zij vermeldt daarbij, met inachtneming van artikel 7, per vervolgopleiding of de beschikbaarheidbijdrage ten laste van het Algemeen Fonds Bijzondere Ziektekosten, dan wel het Zorgverzekeringsfonds bij het Zorginstituut in rekening kan worden gebracht.   
+2.  De zorgautoriteit stelt de beschikbaarheidbijdrage vast op basis van het aantal gerealiseerde opleidingsplaatsen. Daarbij laat zij verrekening van rente in verband met een eventueel verschil tussen verlening en vaststelling achterwege.  
 
 ### Artikel  6  
 
@@ -173,15 +173,15 @@ d. klinisch psycholoog in gehandicaptenzorg,
 e. psychotherapeut in gehandicaptenzorg,  
 
 f. specialist ouderengeneeskunde.     
-2.  Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor de overige vervolgopleidingen.   
+2.  Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor de overige vervolgopleidingen.  
 
 ### Artikel  8  
 
 ####citeertitel
 
-Deze aanwijzing wordt aangehaald als: Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013  
+Deze aanwijzing wordt aangehaald als: Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

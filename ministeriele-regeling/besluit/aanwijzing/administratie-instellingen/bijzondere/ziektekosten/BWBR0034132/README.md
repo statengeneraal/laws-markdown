@@ -14,20 +14,20 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *AWBZ:*[Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-b. *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-c. *indicatiebesluit:* besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);  
+c.  *indicatiebesluit:* besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);  
 
-d. *AO/IC:* administratieve organisatie en interne controle;  
+d.  *AO/IC:* administratieve organisatie en interne controle;  
 
-e. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
+e.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
 
 ### Artikel  2  
 
 1.  Voor een periode van een jaar zijn de rechtspersonen genoemd in bijlage 1 van dit besluit, verbindingskantoren voor de daarachter vermelde regio’s.   
-2.  De regio’s waarvoor de verbindingskantoren zijn aangewezen, omvatten de gemeenten die zijn opgenomen in bijlage 2 van dit besluit.   
+2.  De regio’s waarvoor de verbindingskantoren zijn aangewezen, omvatten de gemeenten die zijn opgenomen in bijlage 2 van dit besluit.  
 
 ### Artikel  3  
 
@@ -39,28 +39,28 @@ b. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadm
 
 c. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van [artikel 44 van de AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) vastgestelde regels voor het persoonsgebonden budget;  
 
-d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het College voor Zorgverzekeringen, opgestelde regels als bedoeld in [artikelen 31](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [36, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het College voor Zorgverzekeringen opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
+d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het Zorginstituut, opgestelde regels als bedoeld in [artikelen 31](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [36, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het Zorginstituut opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
 
 e. een verbindingskantoor draagt zorg voor een adequate bestrijding van en informatievoorziening over misbruik en oneigenlijk gebruik in de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 f. een verbindingskantoor volgt op basis van de bestaande informatie van de zorgaanbieders de financiële positie van die zorgaanbieders en neemt, indien nodig, actie met het oog op gewenste continuïteit van zorgverlening aan cliënten;  
 
-g. een verbindingskantoor voert voor de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een landelijk uniforme wachtlijstregistratie uit en levert aan het College voor zorgverzekeringen periodiek betrouwbare informatie over eventuele fricties tussen geïndiceerde zorg en het beschikbare aanbod;  
+g. een verbindingskantoor voert voor de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een landelijk uniforme wachtlijstregistratie uit en levert aan het Zorginstituut periodiek betrouwbare informatie over eventuele fricties tussen geïndiceerde zorg en het beschikbare aanbod;  
 
-h. een verbindingskantoor komt op grond van de [Regeling verslaglegging AWBZ](../../../../../../../ministeriele-regeling/regeling/verslaglegging/awbz/BWBR0020601/README.md) tot jaarlijkse verantwoording over de uitvoering van de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) aan de zorgautoriteit door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hem zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de zorgautoriteit aangegeven model.    
+h. een verbindingskantoor komt op grond van de [Regeling verslaglegging AWBZ](../../../../../../../ministeriele-regeling/regeling/verslaglegging/awbz/BWBR0020601/README.md) tot jaarlijkse verantwoording over de uitvoering van de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) aan de zorgautoriteit door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hem zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de zorgautoriteit aangegeven model.   
 
 ### Artikel  4  
 
-Indien niet wordt voldaan aan de voorwaarden, bedoeld in artikel 3 kan de aanwijzing, bedoeld in artikel 2, worden ingetrokken.  
+Indien niet wordt voldaan aan de voorwaarden, bedoeld in artikel 3 kan de aanwijzing, bedoeld in artikel 2, worden ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 januari 2014.  
+Dit besluit treedt in werking met ingang van 1 januari 2014. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn  
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn    
 
 ### Bijlage  1  
 
@@ -103,7 +103,7 @@ M.J. vanRijn
 
 ### Bijlage  2  
 
-####behorende bij artikel 2, tweede lid 
+####behorende bij artikel 2, tweede lid  
 
 ####Werkgebieden zorgkantoren per 1 januari 2014
 
@@ -169,5 +169,5 @@ M.J. vanRijn
 
 31.  *Zuid-Limburg*  Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal  
 
-32.  *Midden IJssel*  Deventer, Olst-Wijhe, Raalte, Voorst    
+32.  *Midden IJssel*  Deventer, Olst-Wijhe, Raalte, Voorst   
 
