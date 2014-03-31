@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Voorschrift Vreemdelingen 2000.   
+Wijzigt het Voorschrift Vreemdelingen 2000. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.   
+Wijzigt de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005. 
 
 ### Artikel  III  
 
-Het document, bedoeld in [artikel 3.1](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), of de verklaring, bedoeld in [artikel 9, derde lid, van de Wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), afgegeven voor inwerkingtreding van de [Wet modern migratiebeleid](../../../../../../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) blijft geldig tot de daarop aangegeven datum, dan wel tot de vervanging van dat document door een document afgegeven op grond van de [Wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+Het document, bedoeld in [artikel 3.1](../../../../../../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), of de verklaring, bedoeld in [artikel 9, derde lid, van de Wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), afgegeven voor inwerkingtreding van de [Wet modern migratiebeleid](../../../../../../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) blijft geldig tot de daarop aangegeven datum, dan wel tot de vervanging van dat document door een document afgegeven op grond van de [Wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet modern migratiebeleid](../../../../../../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) in werking treedt, met uitzondering van artikel I, onderdeel Q, dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op het tijdstip waarop de [Wet modern migratiebeleid](../../../../../../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) in werking treedt, met uitzondering van artikel I, onderdeel Q, dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 27 maart 2013   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

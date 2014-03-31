@@ -2,10 +2,10 @@
 
 ##Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005
 
-De Minister voor Vreemdelingenzaken en Integratie,  
+De Minister voor Vreemdelingenzaken en Integratie,
 Gelet op [artikel 12 van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md);
-Besluit:     
-### Hoofdstuk  I  
+Besluit:  
+###Hoofdstuk I 
 
 ####Algemene bepalingen
 
@@ -37,9 +37,9 @@ h. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid
 
 i. uitgenodigde vluchtelingen: vreemdelingen die, na een verzoek daartoe van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen (UNHCR) op uitnodiging van de Nederlandse regering in Nederland verblijven;  
 
-j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de vreemdeling rechtmatig verblijf heeft na indiening van de asielaanvraag en het onderzoek als bedoeld in [artikel 3.110 van het Vreemdelingenbesluit 2000](../../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) nog niet is aangevangen.    
+j. rust- en voorbereidingstermijn: de termijn van tenminste zes dagen waarin de vreemdeling rechtmatig verblijf heeft na indiening van de asielaanvraag en het onderzoek als bedoeld in [artikel 3.110 van het Vreemdelingenbesluit 2000](../../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) nog niet is aangevangen.  
 
-### Hoofdstuk  II  
+###Hoofdstuk II 
 
 ####Toelating tot de opvang
 
@@ -54,7 +54,7 @@ a. informatie met betrekking tot de voor de asielzoeker aan de opvang van het CO
 b. informatie met betrekking tot rechtsbijstand en met betrekking tot zijn opvangvoorzieningen.     
 4.  Het COA zorgt ervoor dat de in het vorige lid bedoelde informatie schriftelijk in een voor de asielzoeker begrijpelijke taal wordt verstrekt.   
 5.  Er ontstaat geen recht op opvang indien een asielzoeker niet binnen 24 uur na doorverwijzing door het COA naar de opvang in een opvangvoorziening arriveert.   
-6.  Er ontstaat geen recht op opvang indien de asielaanvraag is ingediend door een onderdaan van een lidstaat van de Europese Unie, de Economische Ruimte of Zwitserland.   
+6.  Er ontstaat geen recht op opvang indien de asielaanvraag is ingediend door een onderdaan van een lidstaat van de Europese Unie, de Economische Ruimte of Zwitserland.  
 
 ### Artikel  3  
 
@@ -76,7 +76,7 @@ d. de vreemdeling die een aanvraag tot het verlenen van de verblijfsvergunning a
 
 e. de vreemdeling die niet in een opvangvoorziening verblijft als bedoeld in artikel 1, aanhef en onder h van deze regeling en die in het bezit wordt gesteld van een verblijfsvergunning asiel bepaalde tijd, dan wel in het bezit wordt gesteld van een asielgerelateerde verblijfsvergunning, vanaf het moment van vergunningverlening tot het moment waarop passende huisvesting buiten de opvangvoorziening kan worden gerealiseerd, tenzij de vreemdeling reeds van overheidswege in een opvangvoorziening is gehuisvest;  
 
-f. de vreemdeling wiens uitzetting op grond van [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) achterwege blijft;  
+f. de vreemdeling wiens uitzetting op grond van [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) achterwege blijft, met uitzondering van de vreemdeling die in afwachting is van de definitieve beslissing op zijn verzoek om toepassing van [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die niet een uitgeprocedeerde asielzoeker is en die evenmin een vreemdeling is die in afwachting is van de uitspraak in hoger beroep in zijn asielprocedure;  
 
 g. de vreemdeling die rechtmatig in Nederland verblijft, als bedoeld in [artikel 8, aanhef en onder f of h van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en zich, naar het oordeel van Onze Minister, feitelijk in dezelfde situatie bevindt als bedoeld in [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
@@ -88,24 +88,26 @@ j. de vreemdeling aan wie binnen de AC-procedure een verblijfsvergunning als bed
 
 k. de uitgenodigde vluchteling, ook en indien reeds binnen de AC-procedure een verblijfsvergunning is verleend;  
 
-l. de vreemdeling wiens asielaanvraag is afgewezen en die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op grond van een door de president van het Europees Hof voor de Rechten van de Mens getroffen voorlopige maatregel (‘interim measure’) waarin is bepaald dat de vreemdeling vooralsnog niet mag worden uitgezet;  
+l. de vreemdeling wiens asielaanvraag is afgewezen en die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op grond van een door de president van het Europees Hof voor de Rechten van de Mens getroffen voorlopige maatregel (‘interim measure’) waarin is bepaald dat de vreemdeling vooralsnog niet mag worden uitgezet; 
 
-m. de uitgeprocedeerde asielzoeker aan wie een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder de beperking ‘verblijf voor het ondergaan van medische behandeling’ of ‘verblijf vanwege medische noodsituatie’ is verleend op basis van voorafgaand aan de aanvraag overgelegde complete en actuele medische gegevens;  
+m. de uitgeprocedeerde asielzoeker of de vreemdeling die in afwachting is van de uitspraak in hoger beroep in zijn asielprocedure met rechtmatig verblijf als bedoeld in artikel 8, aanhef en onder f, van de Vreemdelingenwet 2000, die voorafgaand aan de indiening van een aanvraag om een verblijfsvergunning als bedoeld in artikel 14 van de Vreemdelingenwet 2000 onder de beperking ‘medische behandeling’ zijn complete en actuele medische gegevens heeft overgelegd; 
 
-n. de uitgeprocedeerde asielzoeker of de vreemdeling die in afwachting is van de uitspraak in hoger beroep in zijn asielprocedure met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder h, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die voorafgaand aan de aanvraag om verblijf op medische gronden zijn complete en actuele medische gegevens heeft overgelegd;  
+n. de uitgeprocedeerde asielzoeker aan wie een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder de beperking ‘verblijf voor het ondergaan van medische behandeling’ of ‘verblijf vanwege medische noodsituatie’ is verleend op basis van voorafgaand aan de aanvraag overgelegde complete en actuele medische gegevens;  
 
-o. de vreemdeling die rechtmatig verblijf heeft op grond van [artikel 8, onder m, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+o. de uitgeprocedeerde asielzoeker of de vreemdeling die in afwachting is van de uitspraak in hoger beroep in zijn asielprocedure met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder h, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die voorafgaand aan de aanvraag om verblijf op medische gronden zijn complete en actuele medische gegevens heeft overgelegd; 
 
-p. de vreemdeling die in het bezit is gesteld van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1a, onder b, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en voldoet aan de voorwaarden van [artikel 29, tweede lid, van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
-4.  Het COA draagt zorg voor de centrale opvang van andere categorieën vreemdelingen, als bedoeld in [artikel 3, tweede, lid, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), na een verzoek hiertoe van Onze Minister.   
+p. de vreemdeling die rechtmatig verblijf heeft op grond van [artikel 8, onder m, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); 
+
+q. de vreemdeling die in het bezit is gesteld van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1a, onder b, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en voldoet aan de voorwaarden van [artikel 29, tweede lid, van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+4.  Het COA draagt zorg voor de centrale opvang van andere categorieën vreemdelingen, als bedoeld in [artikel 3, tweede, lid, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), na een verzoek hiertoe van Onze Minister.  
 
 ### Artikel  4  
 
 1.  Onze Minister is bevoegd om, indien het COA aangeeft dat er sprake is van een capacitaire noodsituatie of enige andere bijzondere omstandigheid, het COA de bevoegdheid toe te kennen bepaalde categorieën asielzoekers uit te sluiten van opvang.   
 2.  Er bestaat geen recht op opvang indien de asielzoeker tot ongewenst vreemdeling als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verklaard, of indien jegens de asielzoeker een inreisverbod als bedoeld in [artikel 66a van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geldt en de vreemdeling uit dien hoofde geen rechtmatig verblijf heeft.   
-3.  Het enkele beroep op [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in artikel 3, derde lid, aanhef en onder g van deze regeling, genereert geen recht op opvang.   
+3.  Het enkele beroep op [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in artikel 3, derde lid, aanhef en onder g van deze regeling, genereert geen recht op opvang.  
 
-### Hoofdstuk  III  
+###Hoofdstuk III 
 
 ####Het eindigen van de opvang
 
@@ -116,7 +118,7 @@ p. de vreemdeling die in het bezit is gesteld van een machtiging tot voorlopig v
 a. de uitzetting van betrokkene ingevolge de [Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of een rechterlijke uitspraak achterwege dient te blijven, of  
 
 b. betrokkene in afwachting is van een rechterlijke uitspraak op een binnen de vertrektermijn ingediend verzoek tot het treffen van een voorlopige voorziening om de behandeling van het hoger beroepsschrift in Nederland te mogen afwachten, voor zover uitzetting gedurende de behandeling van dit verzoek achterwege blijft.     
-2.  In het geval, bedoeld onder b, eindigt het recht op opvangvier weken na de dag waarop op het verzoek om voorlopige voorzieningen afwijzend is beslist.   
+2.  In het geval, bedoeld onder b, eindigt het recht op opvangvier weken na de dag waarop op het verzoek om voorlopige voorzieningen afwijzend is beslist.  
 
 ### Artikel  6  
 
@@ -126,7 +128,7 @@ a. indien de asielaanvraag die recht heeft gegeven op opvang is afgewezen en de 
 
 b. indien vervolgopvang kan worden geboden door of in opdracht van de rechtspersoon, als bedoeld in [artikel 1:302, tweede lid, van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), op de dag waarop vervolgopvang kan worden geboden;  
 
-c. op de dag na de dag waarop de 18-jarige leeftijd is bereikt, dan wel indien in de vreemdelingrechtelijke procedure onaantastbaar is vastgesteld dat de vreemdeling meerderjarig is, en de vreemdeling ook op grond van zijn asielaanvraag geen recht op opvang heeft.    
+c. op de dag na de dag waarop de 18-jarige leeftijd is bereikt, dan wel indien in de vreemdelingrechtelijke procedure onaantastbaar is vastgesteld dat de vreemdeling meerderjarig is, en de vreemdeling ook op grond van zijn asielaanvraag geen recht op opvang heeft.   
 
 ### Artikel  7  
 
@@ -156,9 +158,9 @@ k. indien een asielzoeker onjuiste gegevens heeft verstrekt danwel gegevens heef
 
 l. indien een asielzoeker niet de instemming heeft verkregen als bedoeld in artikel 12 van deze regeling;  
 
-m. indien het een uitgeprocedeerde asielzoeker betreft aan wie met toepassing van artikel 3, derde lid, aanhef en onder n, van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf, bedoeld in [artikel 8, aanhef en onder h,van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geëindigd.     
+m. indien het een uitgeprocedeerde asielzoeker betreft aan wie met toepassing van artikel 3, derde lid, aanhef en onder o, van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf, bedoeld in [artikel 8, aanhef en onder h,van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geëindigd.   
 2.  Een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is niet van invloed op het moment van het eindigen van het recht op opvang.   
-3.  In afwijking van het eerste lid, aanhef en onder e, eindigt het recht op opvang indien het een uitgeprocedeerde asielzoeker betreft, die voorafgaand aan de aanvraag op medische gronden zijn complete en actuele medische gegevens heeft overgelegd, aan wie met toepassing van artikel 3, derde lid, aanhef en onder g, van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geëindigd.   
+3.  In afwijking van het eerste lid, aanhef en onder e, eindigt het recht op opvang indien het een uitgeprocedeerde asielzoeker betreft, die voorafgaand aan de aanvraag op medische gronden zijn complete en actuele medische gegevens heeft overgelegd, aan wie met toepassing van artikel 3, derde lid, aanhef en onder g, van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is geëindigd. 
 
 ### Hoofdstuk  IV  
 
@@ -188,7 +190,7 @@ g. betaling van buitengewone kosten.
 6.  Tijdens het verblijf in de opvangvoorziening bestaat voor de asielzoeker de mogelijkheid om te communiceren met familieleden, raadslieden en vertegenwoordigers van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen (UNHCR) en door Onze Minister erkende niet-gouvernementele organisaties (NGO’s).   
 7.  Juridisch adviseurs of raadslieden van asielzoekers en vertegenwoordigers van de UNHCR of van de door het Bureau van de Hoge Commissaris gemachtigde en door Onze Minister erkende NGO’s hebben toegang tot de opvangvoorziening, zodat zij de asielzoekers kunnen bijstaan.   
 8.  De in het vorige lid bedoelde toegang kan worden beperkt om redenen die verband houden met de veiligheid van de opvangvoorziening of de veiligheid van de asielzoeker.   
-9.  Het eerste lid, onderdeel b en d, en het derde lid zijn niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt, tenzij het een alleenstaande minderjarige vreemdeling betreft.   
+9.  Het eerste lid, onderdeel b en d, en het derde lid zijn niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt, tenzij het een alleenstaande minderjarige vreemdeling betreft. 
 
 ### Artikel  9a  
 
@@ -197,7 +199,7 @@ g. betaling van buitengewone kosten.
 3.  De voorziening bevat in ieder geval de onderdelen op grond waarvan vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden verworven.   
 4.  De deelname aan de voorziening vindt plaats op vrijwillige basis en is kosteloos.   
 5.  Het COA draagt er zorg voor dat de deelname aan de voorziening bij overplaatsing van de vreemdeling, bedoeld in het eerste lid, naar een andere opvangvoorziening als bedoeld in artikel 11, eerste lid, kan worden gecontinueerd.   
-6.  Deelname aan de voorziening mag de uitplaatsing naar een gemeente in geen geval vertragen. Artikel 7, eerste lid, aanhef en onder a, is van overeenkomstige toepassing.   
+6.  Deelname aan de voorziening mag de uitplaatsing naar een gemeente in geen geval vertragen. Artikel 7, eerste lid, aanhef en onder a, is van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
@@ -211,7 +213,7 @@ c. het bepaalde in artikel 19 van deze regeling niet naleeft;
 
 d. overlast bezorgt aan asielzoekers die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen, of;  
 
-e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimuleren en bewustmaken van terugkeer.    
+e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimuleren en bewustmaken van terugkeer.   
 
 ### Artikel  11  
 
@@ -219,12 +221,12 @@ e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimulere
 2.  Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de in artikel 9 eerste lid van deze regeling bedoelde verstrekkingen in deze andere voorziening aangeboden.   
 3.  Bij haar bevoegdheid op grond van het eerste lid van dit artikel handhaaft het COA, voor zover mogelijk en met instemming van de asielzoeker, de eenheid van het gezin en neemt zij de bescherming van het gezinsleven tot uitgangspunt.   
 4.  Bij haar bevoegdheid op grond van het eerste lid van dit artikel ziet het COA, op voorwaarde dat dit in het belang van het kind is, erop toe dat het minderjarig kind van een asielzoeker, danwel de minderjarigevreemdeling wordt gehuisvest bij zijn ouder, dan wel een volwassen familielid.   
-5.  Het COA zal, voor zover mogelijk, minderjarige broers en zussen gezamenlijk huisvesten.   
+5.  Het COA zal, voor zover mogelijk, minderjarige broers en zussen gezamenlijk huisvesten.  
 
 ### Artikel  12  
 
 1.  De asielzoeker aan wie een verblijfsvergunning is verleend en die in afwachting is van het betrekken van woonruimte in een gemeente krijgt de verstrekkingen, bedoeld in artikel 9 eerste lid van deze regeling, aangeboden indien het COA hiermee heeft ingestemd.   
-2.  De asielzoeker, bedoeld in het eerste lid, zal zich iedere twee weken bij het COA moeten melden en de instemming bedoeld in het eerste lid moeten hebben verkregen.   
+2.  De asielzoeker, bedoeld in het eerste lid, zal zich iedere twee weken bij het COA moeten melden en de instemming bedoeld in het eerste lid moeten hebben verkregen.  
 
 ### Artikel  13  
 
@@ -233,7 +235,7 @@ e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimulere
 a. de geboden onderdakvoorziening feitelijk heeft verlaten zonder het COA daarvan op de hoogte te stellen; of  
 
 b. niet heeft voldaan aan de verplichting in artikel 19, eerste lid, onder e.     
-2.  Het COA houdt bij de beslissing, bedoeld in het eerste lid, rekening met de specifieke situatie van de asielzoeker.   
+2.  Het COA houdt bij de beslissing, bedoeld in het eerste lid, rekening met de specifieke situatie van de asielzoeker.  
 
 ### Artikel  14  
 
@@ -257,19 +259,19 @@ c. bij een huishouden van vier of meer personen: volwassene: € 19,44, kind to
 6.  Geen financiële toelage wordt verstrekt aan een kind drie maanden nadat het recht op een uitkering op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) is ontstaan.   
 7.  De financiële toelage voor een asielzoeker jonger dan 18 jaar, die een kind is van, of verzorgd wordt door een of meer in de desbetreffende opvangvoorziening verblijvende asielzoekers wordt uitbetaald aan één van die asielzoekers.   
 8.  Het COA draagt zorg voor de maaltijden in centra waarin de bewoners niet in de gelegenheid zijn deze zelf te verzorgen.   
-9.  In afwijking van het eerste lid wordt geen financiële toelage verstrekt aan de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel aan de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.   
+9.  In afwijking van het eerste lid wordt geen financiële toelage verstrekt aan de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel aan de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt. 
 
 ### Artikel  16  
 
 1.  Het treffen van een ziektekostenregeling bedoeld in artikel 9 eerste lid, onderdeel e van deze regeling, houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door Onze Minister vastgestelde pakket medische verstrekkingen.   
-2.  Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in artikel 9, eerste lid, onderdeel f van deze regeling, houdt in het ten behoeve van de asielzoeker afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de asielzoeker jegens een derde voor een som van maximaal € 453.780 per gebeurtenis per jaar, alsmede het betalen van de daarvoor verschuldigde premie.   
+2.  Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in artikel 9, eerste lid, onderdeel f van deze regeling, houdt in het ten behoeve van de asielzoeker afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de asielzoeker jegens een derde voor een som van maximaal € 453.780 per gebeurtenis per jaar, alsmede het betalen van de daarvoor verschuldigde premie.  
 
 ### Artikel  17  
 
 1.  Een asielzoeker kan een vergoeding ontvangen voor buitengewone kosten, bedoeld in artikel 9, eerste lid, onderdeel g van deze regeling, die hij heeft gemaakt.   
 2.  Buitengewone kosten zijn noodzakelijke kosten die vanwege hun aard of hoogte in redelijkheid niet geacht kunnen worden door de asielzoeker zelf te worden betaald.   
 3.  Buitengewone kosten worden slechts betaald voorzover vooraf door het COA aan de asielzoeker toestemming is verleend voor het maken van deze kosten, met uitzondering van kosten die voortvloeien uit noodsituaties waarin geen mogelijkheid bestond tot het verzoeken om toestemming.   
-4.  De toestemming, bedoeld in het derde lid, wordt uitsluitend verleend indien en voor zover de kosten noodzakelijk zijn en niet op andere wijze in de betaling kan worden voorzien.   
+4.  De toestemming, bedoeld in het derde lid, wordt uitsluitend verleend indien en voor zover de kosten noodzakelijk zijn en niet op andere wijze in de betaling kan worden voorzien.  
 5.  Kosten die samenhangen met een door de asielzoeker ingediende aanvraag als bedoeld in [artikel 24, tweede lid, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dan wel met een door de asielzoeker gepleegde onrechtmatige daad, gepleegd misdrijf of begane overtreding zijn in ieder geval geen buitengewone kosten, als bedoeld in het eerste lid.   
 6.  Het Orgaan kan op een daartoe strekkend verzoek van een vreemdeling afwijken van het bepaalde in het vijfde lid, uitsluitend voor zover het betreft: 
 
@@ -280,22 +282,22 @@ b. de leges ter zake van de afdoening van een aanvraag om wijziging van de verbl
 c. de leges ter zake van de afdoening van de aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid, in de gevallen waarin de statushouder de ouder is van de aanvrager en deze op het moment van de aanvraag niet minimaal evenveel verdient als de normbedragen uit de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
 d. de leges ter zake van de afdoening van een aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking verband houdend met verblijf als familie- of gezinslid ingediend door of namens een in Nederland geboren kind dat op grond van artikel 3, derde lid, onder d, opvang wordt geboden.     
-7.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor een contra-expertise indien het een asielzoeker betreft wiens asielaanvraag in het Aanmeldcentrum wordt behandeld of is afgewezen dan wel indien het een vreemdeling betreft die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.   
-8.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor de huur van een woning dan wel de aan de huur van een woning gerelateerde kosten.   
+7.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor een contra-expertise indien het een asielzoeker betreft wiens asielaanvraag in het Aanmeldcentrum wordt behandeld of is afgewezen dan wel indien het een vreemdeling betreft die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.  
+8.  Onder buitengewone kosten als bedoeld in artikel 9, eerste lid onder g, wordt niet verstaan de kosten voor de huur van een woning dan wel de aan de huur van een woning gerelateerde kosten. 
 
 ### Artikel  18  
 
 1.  Een asielzoeker kan door het COA nader aan te wijzen werkzaamheden verrichten in en rondom de opvangvoorziening, voor de uitvoering waarvan een vergoeding kan worden gegeven.   
 2.  Het COA zorgt voor een evenredige verdeling van het aanbod van werkzaamheden bedoeld in het eerste lid over de in de opvangvoorziening verblijvende asielzoekers die daarvoor in aanmerking wensen te komen.   
-3.  De vergoeding die een asielzoeker ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt in totaal niet meer dan € 13,80 per week.   
+3.  De vergoeding die een asielzoeker ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt in totaal niet meer dan € 13,80 per week.  
 
-### Hoofdstuk  V  
+###Hoofdstuk V 
 
 ####Verplichtingen gedurende de opvang
 
 ### Artikel  19  
 
-1.  Behoudens de uitzondering genoemd in lid 2 is de asielzoeker die onderdak heeft in een opvangvoorziening verplicht: 
+1. Behoudens de uitzondering genoemd in lid 2 is de asielzoeker die onderdak heeft in een opvangvoorziening verplicht: 
 
 a. de huisregels na te leven die zijn neergelegd in het reglement van de desbetreffende opvangvoorziening;  
 
@@ -305,24 +307,24 @@ c. schoonmaakwerkzaamheden te verrichten in en rond de woonruimte;
 
 d. toegang te verlenen aan het personeel van de opvangvoorziening tot zijn woonruimte indien er een redelijk vermoeden bestaat dat de asielzoeker de huisregels overtreedt of indien dit voor het beheer van de opvangvoorziening redelijkerwijs noodzakelijk is;  
 
-e. te voldoen aan de COA inhuisregistratie door zich wekelijks te melden bij het COA teneinde te kunnen vaststellen of hij nog in de opvangvoorziening verblijft en aanspraak maakt op opvangvoorzieningen.     
-2.  Het eerste lid, onder e, is niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt.   
+e. te voldoen aan de COA inhuisregistratie door zich wekelijks te melden bij het COA teneinde te kunnen vaststellen of hij nog in de opvangvoorziening verblijft en aanspraak maakt op opvangvoorzieningen.    
+2.  Het eerste lid, onder e, is niet van toepassing op de asielzoeker wiens asielaanvraag in het Aanmeldcentrum wordt behandeld dan wel de vreemdeling die in zijn rust- en voorbereidingstermijn voor verstrekkingen in aanmerking komt. 
 
 ### Artikel  20  
 
 1.  De asielzoeker is verplicht onverwijld uit eigen beweging, of op verzoek van het COA, mededeling te doen van alle feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op verstrekkingen, het geldend maken van het recht op verstrekkingen, de duur van verstrekkingen of de hoogte van de toelagen die aan hem worden betaald. Indien deze feiten of omstandigheden betrekking hebben op een kind dan wordt de mededeling gedaan door de asielzoeker te wiens laste het kind komt en in het geval dit meer dan één asielzoeker betreft, door één van die asielzoekers.   
 2.  Indien een asielzoeker die verblijft in een opvangvoorziening beschikt over een vermogen groter dan de vermogensgrens ex [artikel 34 van de Wet Werk en Bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of inkomsten heeft, anders dan een uitkering op grond van de [Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of op basis van deze regeling, is die asielzoeker aan het COA een vergoeding verschuldigd in de kosten van zijn opvang alsmede van de opvang van zijn gezinsleden. De tegemoetkoming bedraagt per maand ten hoogste de economische waarde van de aan een asielzoeker feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat de vergoeding niet meer bedraagt dan het bedrag van het in de eerste volzin bedoelde vermogen of de in de eerste volzin bedoelde inkomsten.   
-3.  Indien na zijn verblijf in een opvangvoorziening blijkt dat een vreemdeling tijdens dit verblijf beschikte over een vermogen of inkomsten, bedoeld in het tweede lid, kan het COA de kosten van de opvang van deze vreemdeling alsmede de kosten van opvang van zijn gezinsleden van hem terugvorderen. De terug te vorderen kosten per maand zijn niet hoger dan de economische waarde van de aan de vreemdeling feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat het terug te vorderen bedrag niet meer bedraagt dan het bedrag van het in het tweede lid bedoelde vermogen of de in het tweede lid bedoelde inkomsten.   
+3.  Indien na zijn verblijf in een opvangvoorziening blijkt dat een vreemdeling tijdens dit verblijf beschikte over een vermogen of inkomsten, bedoeld in het tweede lid, kan het COA de kosten van de opvang van deze vreemdeling alsmede de kosten van opvang van zijn gezinsleden van hem terugvorderen. De terug te vorderen kosten per maand zijn niet hoger dan de economische waarde van de aan de vreemdeling feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat het terug te vorderen bedrag niet meer bedraagt dan het bedrag van het in het tweede lid bedoelde vermogen of de in het tweede lid bedoelde inkomsten.  
 
 ### Artikel  21  
 
-Indien blijkt dat een asielzoeker in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of zijn gezinsleden ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in artikel 9, eerste lid van deze regeling, hebben verkregen, dan wel dit op andere wijze heeft bewerkstelligd, is het COA bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.  
+Indien blijkt dat een asielzoeker in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of zijn gezinsleden ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in artikel 9, eerste lid van deze regeling, hebben verkregen, dan wel dit op andere wijze heeft bewerkstelligd, is het COA bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen. 
 
 ### Artikel  22  
 
-Voor de verstrekkingen op basis van deze regeling geldt een beslagvrije voet ten aanzien van alle verstrekkingen die in natura geschieden en viervijfde deel van de verstrekkingen op grond van artikel 9, eerste lid, onderdeel b van deze regeling.  
+Voor de verstrekkingen op basis van deze regeling geldt een beslagvrije voet ten aanzien van alle verstrekkingen die in natura geschieden en viervijfde deel van de verstrekkingen op grond van artikel 9, eerste lid, onderdeel b van deze regeling. 
 
-### Hoofdstuk  VI  
+###Hoofdstuk VI 
 
 ####Overgangs- en slotbepalingen
 
@@ -334,30 +336,30 @@ a. voor 1 januari 2000 op diens asielaanvraag in eerste aanleg in negatieve zin 
 
 b. een last tot uitzetting is gegeven; en  
 
-c. door de korpschef van de politieregio waar de vreemdeling zijn woon- of verblijfsplaats heeft is meegedeeld dat hij Nederland moet verlaten,   eindigen de verstrekkingen, in afwijking van artikel 7, eerste lid, aanhef en onder b van deze regeling, op de dag waarop de asielzoeker Nederland ingevolge de mededeling van de korpschef dient te verlaten.  
+c. door de korpschef van de politieregio waar de vreemdeling zijn woon- of verblijfsplaats heeft is meegedeeld dat hij Nederland moet verlaten,   eindigen de verstrekkingen, in afwijking van artikel 7, eerste lid, aanhef en onder b van deze regeling, op de dag waarop de asielzoeker Nederland ingevolge de mededeling van de korpschef dient te verlaten. 
 
-### Artikel  24  
+###Artikel 24 
 
-Artikel 7, eerste lid, aanhef en onder b van deze regeling is, in afwijking van artikel 23 van deze regeling, eveneens van toepassing op de vreemdeling ten aanzien van wie: 
+Artikel 7, eerste lid, aanhef en onder b van deze regeling is, in afwijking van artikel 23 van deze regeling, eveneens van toepassing op de vreemdeling ten aanzien van wie:
 
-a. op of na 1 januari 2000 een niet inwilligende beslissing op de asielaanvraag is genomen, of;  
+a.op of na 1 januari 2000 een niet inwilligende beslissing op de asielaanvraag is genomen, of;
 
-b. op of na 29 december 2000 een negatieve beslissing op het ingediende bezwaar tegen de niet inwilligende beslissing op de asielaanvraag is genomen, of;  
+b.op of na 29 december 2000 een negatieve beslissing op het ingediende bezwaar tegen de niet inwilligende beslissing op de asielaanvraag is genomen, of;
 
-c. op of na 1 januari 2000 de vergunning tot verblijf, daaronder begrepen de voorwaardelijke vergunning tot verblijf, is ingetrokken of niet is verlengd, of de toelating als vluchteling is ingetrokken.    
+c.op of na 1 januari 2000 de vergunning tot verblijf, daaronder begrepen de voorwaardelijke vergunning tot verblijf, is ingetrokken of niet is verlengd, of de toelating als vluchteling is ingetrokken.
 
 ### Artikel  25  
 
-De [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) wordt ingetrokken.  
+De [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) wordt ingetrokken. 
 
 ### Artikel  26  
 
-Deze regeling treedt in werking de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst  
+Deze regeling treedt in werking de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst 
 
 ### Artikel  27  
 
-Deze regeling kan wordt aangehaald als de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.  
+Deze regeling kan wordt aangehaald als de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005. 
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk    
+M.C.F.Verdonk  

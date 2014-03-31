@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  II  
 
 1.  [Artikel 3.103 van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is van overeenkomstige toepassing op aanvragen voor een verblijfsvergunning als bedoeld in [artikel 28 van de Wet](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die zijn ontvangen voor de inwerkingtreding van dit besluit.   
 2.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld inzake de toepassing van [artikel 3.103 van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) op aanvragen die zijn ontvangen voor de inwerkingtreding van dit besluit.   
-3.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de invoering van dit besluit.   
+3.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de invoering van dit besluit.  
 
 ### Artikel  III  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -33,10 +33,10 @@ Wassenaar
 17 december 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven   
 
 de *drieëntwintigste* december 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
