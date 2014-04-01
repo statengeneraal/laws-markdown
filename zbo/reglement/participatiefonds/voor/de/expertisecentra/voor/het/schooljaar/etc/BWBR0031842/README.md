@@ -6,13 +6,19 @@
 
 ####Algemene bepalingen
 
+Materieel uitgewerkt per 01-02-2014 
+
 ### Artikel  1  
 
 ####Begripsbepaling
 
+Materieel uitgewerkt per 01-02-2014 
+
 Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de [Wet budgettering wachtgelden en instelling Participatiefonds](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(budgettering/wachtgelden/en/etc/BWBR0007312/README.md) (Stb. 1995, 155), het [Besluit Participatiefonds](../../../../../../../../../../../AMvB/besluit/participatiefonds/BWBR0008102/README.md) (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen   
 
 ####Toelichting op artikel 12
+
+Materieel uitgewerkt per 01-02-2014 
 
 *Andere gronden*   *In de uitspraak van 26 augustus 1999, onder nummer E04.98.0149, heeft de Raad van State aangegeven dat een ontslag dat valt binnen de risicosfeer van het bevoegd gezag, reeds daarom niet onvermijdbaar kan worden geacht op grond van artikel 9, lid h van het reglement. Andere gronden welke bedoeld zijn in artikel 9, lid h van het reglement, zijn derhalve gronden welke vallen buiten de risicosfeer van het bevoegd gezag.*  
 
@@ -50,111 +56,123 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 8  *Verlof wegens militaire dienst.*   
 
-9  *Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.*         
+9  *Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008. *         
 
-1 *Afvloeiingsvolgorde:* de volgorde waarin personeel voor afvloeiing in aanmerking komt. Hierin is tevens het eindigen van dienstverbanden van rechtswege betrokken. Hoofdregel is dat eerst al het tijdelijk aangestelde personeel dient te zijn afgevloeid voordat vast personeel kan worden ontslagen.  
+1  *Afvloeiingsvolgorde:* de volgorde waarin personeel voor afvloeiing in aanmerking komt. Hierin is tevens het eindigen van dienstverbanden van rechtswege betrokken. Hoofdregel is dat eerst al het tijdelijk aangestelde personeel dient te zijn afgevloeid voordat vast personeel kan worden ontslagen.  
 
-2 *Andere gronden:* gronden welke niet genoemd zijn in enig ander lid van artikel 9 van het reglement en welke in ieder geval buiten de risicosfeer van het bevoegd gezag vallen.  
+2  *Andere gronden:* gronden welke niet genoemd zijn in enig ander lid van artikel 9 van het reglement en welke in ieder geval buiten de risicosfeer van het bevoegd gezag vallen.  
 
-3 *Andere ontslagen:* de omvang in netto-loonkosten op jaarbasis van beëindigde of geëindigde dienstverbanden uitgezonderd het natuurlijk verloop, einde vervangingsbetrekking en het ontslag of de ontslagen waar de ontslagmelding betrekking op heeft.  
+3  *Andere ontslagen:* de omvang in netto-loonkosten op jaarbasis van beëindigde of geëindigde dienstverbanden uitgezonderd het natuurlijk verloop, einde vervangingsbetrekking en het ontslag of de ontslagen waar de ontslagmelding betrekking op heeft.  
 
-4 *Benoeming in reguliere betrekking:* een (her)benoeming in een betrekking niet zijnde een vervangingsbetrekking.  
+4  *Benoeming in reguliere betrekking:* een (her)benoeming in een betrekking niet zijnde een vervangingsbetrekking.  
 
-5 *Bestuursvoorschriften:* de bestuursvoorschriften en bijlagen zoals die door het bestuur zijn vastgesteld ter bevordering van een correcte toepassing van het Reglement Participatiefonds.  
+5  *Bestuursvoorschriften:* de bestuursvoorschriften en bijlagen zoals die door het bestuur zijn vastgesteld ter bevordering van een correcte toepassing van het Reglement Participatiefonds.  
 
-6 *Bevoegd gezag:* het bevoegd gezag als bedoeld in [artikel 1 wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in [artikel 69 wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en het Regionaal Expertisecentrum (rec) als bedoeld in [artikel 28b wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), tenzij het bevoegd gezag door de minister van onderwijs, cultuur en wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de stichting participatiefonds voor het onderwijs.  
+6  *Bevoegd gezag:* het bevoegd gezag als bedoeld in [artikel 1 wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in [artikel 69 wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en het Regionaal Expertisecentrum (rec) als bedoeld in [artikel 28b wec](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), tenzij het bevoegd gezag door de minister van onderwijs, cultuur en wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de stichting participatiefonds voor het onderwijs.  
 
-7 *CAO-PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de Werkgeversvereniging Primair Onderwijs (WvPO) en de organisaties van werknemers in het onderwijs voor de -periode 1 januari 2009 tot 1 januari 2010 is overeengekomen en welke tot nader order van kracht blijft.  
+7  *CAO-PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de Werkgeversvereniging Primair Onderwijs (WvPO) en de organisaties van werknemers in het onderwijs voor de -periode 1 januari 2009 tot 1 januari 2010 is overeengekomen en welke tot nader order van kracht blijft.  
 
-8 *Centrale diensten:* diensten zoals bedoeld in [artikel 69 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+8  *Centrale diensten:* diensten zoals bedoeld in [artikel 69 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
 
-9 *Contractactiviteiten:* activiteiten waarvoor een prijs bij derden in rekening wordt gebracht.  
+9  *Contractactiviteiten:* activiteiten waarvoor een prijs bij derden in rekening wordt gebracht.  
 
-10 *Detachering:* de situatie dat onderwijspersoneel op eigen verzoek of met zijn instemming voor bepaalde tijd wordt belast met werkzaamheden bij een ander bevoegd gezag of buiten het onderwijs.  
+10  *Detachering:* de situatie dat onderwijspersoneel op eigen verzoek of met zijn instemming voor bepaalde tijd wordt belast met werkzaamheden bij een ander bevoegd gezag of buiten het onderwijs.  
 
-11 *Eigen beleid:* in het reglement Participatiefonds zijn gronden genoemd voor onvermijdbaar ontslag. Indien de reden voor het ontslag anders is dan genoemd in enig artikel of lid van het reglement, is er sprake van eigen beleid.  
+11  *Eigen beleid:* in het reglement Participatiefonds zijn gronden genoemd voor onvermijdbaar ontslag. Indien de reden voor het ontslag anders is dan genoemd in enig artikel of lid van het reglement, is er sprake van eigen beleid.  
 
-12 *Eigen middelen:* eigen middelen zijn middelen welke niet zijn begrepen in of onttrokken aan de beschikbare formatie in het huidige schooljaar.  
+12  *Eigen middelen:* eigen middelen zijn middelen welke niet zijn begrepen in of onttrokken aan de beschikbare formatie in het huidige schooljaar.  
 
-13 *Formatiebudget:* de formatie in geld zoals bedoeld in [artikel 117](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [120 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) met inbegrip van de bijzondere bekostiging toegekend op grond van samenvoeging van scholen in het primair onderwijs, het overgedragen gekregen geld voor formatie, de aanvullende formatie in geld toegekend door de minister van Onderwijs, Cultuur en Wetenschap en de gerealiseerde/verwachte aanvullende formatie/contractactiviteiten in geld van derden.  
+13  *Formatiebudget:* de formatie in geld zoals bedoeld in [artikel 117](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en [120 WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) met inbegrip van de bijzondere bekostiging toegekend op grond van samenvoeging van scholen in het primair onderwijs, het overgedragen gekregen geld voor formatie, de aanvullende formatie in geld toegekend door de minister van Onderwijs, Cultuur en Wetenschap en de gerealiseerde/verwachte aanvullende formatie/contractactiviteiten in geld van derden.  
 
-14 *Formulier:* het bevoegd gezag kan bij het doen van een melding in het kader van de instroomtoets gebruik maken van het formulier ‘Aanvraag vergoeding kosten werkloosheid’.  
+14  *Formulier:* het bevoegd gezag kan bij het doen van een melding in het kader van de instroomtoets gebruik maken van het formulier ‘Aanvraag vergoeding kosten werkloosheid’.  
 
-15 *In- en doorstroombanen:* banen voor personeel dat destijds is aangetrokken voor het verrichten van werkzaamheden door gebruik te maken van de regeling ‘In- en doorstroombanen voor langdurig werklozen’.  
+15  *In- en doorstroombanen:* banen voor personeel dat destijds is aangetrokken voor het verrichten van werkzaamheden door gebruik te maken van de regeling ‘In- en doorstroombanen voor langdurig werklozen’.  
 
-16 *Instroomtoets:* de toetsing van een door het bevoegd gezag bij het Participatiefonds ingediend vergoedingsverzoek.  
+16  *Instroomtoets:* de toetsing van een door het bevoegd gezag bij het Participatiefonds ingediend vergoedingsverzoek.  
 
-17 *Kwalitatieve fricties (het oplossen van):* het vrijmaken van formatieruimte ten behoeve van personeel met andere voor het onderwijs noodzakelijke kwaliteiten.  
+17  *Kwalitatieve fricties (het oplossen van):* het vrijmaken van formatieruimte ten behoeve van personeel met andere voor het onderwijs noodzakelijke kwaliteiten.  
 
-18 *Leraar in opleiding:* de functie als bedoeld in artikel 3.22 tot en met 3.26 en artikel 4.21 tot en met 4.25 van de CAO-PO.  
+18  *Leraar in opleiding:* de functie als bedoeld in artikel 3.22 tot en met 3.26 en artikel 4.21 tot en met 4.25 van de CAO-PO.  
 
-19 *Materiële instandhouding:* de vergoeding zoals genoemd in [Afdeling 4 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+19  *Materiële instandhouding:* de vergoeding zoals genoemd in [Afdeling 4 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
 
-20 *Melding:* het schriftelijk bij het Participatiefonds melden van een (voorgenomen) ontslag waarvoor een uitkeringsaanvraag op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling bij UWV is, kan worden ingediend. *Ingetrokken melding:* de ontslagmelding die is gedaan, wordt ingetrokken door het bevoegd gezag.  
+20  *Melding:* het schriftelijk bij het Participatiefonds melden van een (voorgenomen) ontslag waarvoor een uitkeringsaanvraag op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling bij UWV is, kan worden ingediend.  *Ingetrokken melding:* de ontslagmelding die is gedaan, wordt ingetrokken door het bevoegd gezag.  
 
-21 *Natuurlijk verloop:* de omvang in netto-loonkosten op jaarbasis van het eindigen of beëindigen van dienstverbanden zonder dat daar een uitkering op volgt welke op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling door UWV wordt uitbetaald. Een en ander uitgezonderd einde vervangingsbetrekking.  
+21  *Natuurlijk verloop:* de omvang in netto-loonkosten op jaarbasis van het eindigen of beëindigen van dienstverbanden zonder dat daar een uitkering op volgt welke op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling door UWV wordt uitbetaald. Een en ander uitgezonderd einde vervangingsbetrekking.  
 
-22 *Netto-loonkosten:* het betreft hier de bruto loonkosten minus de eventuele bruto kortingen vermeerderd met de werkgeverslasten.  
+22  *Netto-loonkosten:* het betreft hier de bruto loonkosten minus de eventuele bruto kortingen vermeerderd met de werkgeverslasten.  
 
-23 *OALT:* Onderwijs in Allochtone Levende Talen zoals bedoeld in de voormalige [Afdeling 10 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (die kwam te vervallen per 1 augustus 2004).  
+23  *OALT:* Onderwijs in Allochtone Levende Talen zoals bedoeld in de voormalige [Afdeling 10 van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (die kwam te vervallen per 1 augustus 2004).  
 
-24 *Onderwijsassistent in opleiding:* de functie als bedoeld in artikel 3.27 en 4.26 CAO-PO.  
+24  *Onderwijsassistent in opleiding:* de functie als bedoeld in artikel 3.27 en 4.26 CAO-PO.  
 
-25 *Onderwijspersoneel:* directieleden, leraren en onderwijsondersteunend personeel in dienstbetrekking bij het bevoegd gezag als hierboven bedoeld en leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in [artikel 28i, derde lid, WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling.  
+25  *Onderwijspersoneel:* directieleden, leraren en onderwijsondersteunend personeel in dienstbetrekking bij het bevoegd gezag als hierboven bedoeld en leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in [artikel 28i, derde lid, WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling.  
 
-26 *Ontslag:* beëindiging van een dienstverband voor onbepaalde tijd. Het eindigen of beëindiging van een dienstverband voor bepaalde tijd, of een tijdelijke uitbreiding van een (vast) dienstverband, wordt ongeacht de reden met ontslag gelijkgesteld. Voor de toepassing van dit Reglement wordt met ontslag niet gelijkgesteld: 
+26  *Ontslag:* beëindiging van een dienstverband voor onbepaalde tijd. Het eindigen of beëindiging van een dienstverband voor bepaalde tijd, of een tijdelijke uitbreiding van een (vast) dienstverband, wordt ongeacht de reden met ontslag gelijkgesteld. Voor de toepassing van dit Reglement wordt met ontslag niet gelijkgesteld: 
 
 a het eindigen van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan;  
 
 b het ontslag op eigen verzoek van -betrokkene.   In beide situaties behoeft geen melding bij het Participatiefonds te worden gedaan. Indien er echter sprake is van een rappel als bedoeld in artikel 3, derde lid, wordt ook het einde van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan, en een ontslag op eigen verzoek van betrokkene, met ontslag gelijk gesteld en dient melding bij het Participatiefonds plaats te vinden. Ingetrokken ontslag: het voorgenomen ontslag dat niet geëffectueerd wordt, dan wel de herbenoeming bij hetzelfde bevoegd gezag van een tijdelijk personeelslid, waarbij de omvang van de nieuwe aanstelling groter of gelijk is aan de oude aanstelling en geen vervangingsbetrekking betreft. Uitgesteld ontslag: een ontslag waarvan het vergoedingsverzoek op een bepaalde datum op grond van formatieve ontwikkelingen (de daling) kan worden toegewezen maar waarvan de ingangsdatum is uitgesteld omdat het bevoegd gezag het betreffende personeelslid op basis van andere middelen dan die -begrepen zijn onder normatieve formatie, aanvullende formatie en de opbrengst van de contractactiviteiten, in dienst houdt. Ontslagdatum: de datum van het einde van het dienstverband.  
 
-27 *Outplacement:* Bij outplacement in de zin van het Reglement dient er sprake te zijn van een planmatige begeleiding door een derde van een met ontslag bedreigde werknemer bij het verwerven van een -reguliere betrekking elders, waarbij een brede oriëntatie op de arbeidsmarkt en een wezenlijke financiële inspanning van de werkgever kenmerkend zijn (zie de uitspraak van de Raad van State van 9 mei 2007, zaaknummer 200606432/1).  
+27  *Outplacement:* Bij outplacement in de zin van het Reglement dient er sprake te zijn van een planmatige begeleiding door een derde van een met ontslag bedreigde werknemer bij het verwerven van een -reguliere betrekking elders, waarbij een brede oriëntatie op de arbeidsmarkt en een wezenlijke financiële inspanning van de werkgever kenmerkend zijn (zie de uitspraak van de Raad van State van 9 mei 2007, zaaknummer 200606432/1).  
 
-28 *Participatiefonds:* de rechtspersoon als bedoeld in [artikel 170, eerste lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+28  *Participatiefonds:* de rechtspersoon als bedoeld in [artikel 170, eerste lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
 
-29 *Projectformatie:* additionele gelden als bedoeld in de artikelen 3.4 en 4.4 beiden aanhef en onder d van de CAO-PO.  
+29  *Projectformatie:* additionele gelden als bedoeld in de artikelen 3.4 en 4.4 beiden aanhef en onder d van de CAO-PO.  
 
-30 *Samenwerkingsverband:* een bestuurlijke krachtenbundeling tussen zelfstandige bevoegde gezagsorganen zoals bedoeld in de beleidsregel van OC en W van 4 april 1997, kenmerk PO/PJ-97008394, Uitleg nummer 11, 16 april 1997 en 12 april 2002, kenmerk PO/KB-2002/14416, Uitleg nummer 11, 24 april 2002.  
+30  *Samenwerkingsverband:* een bestuurlijke krachtenbundeling tussen zelfstandige bevoegde gezagsorganen zoals bedoeld in de beleidsregel van OC en W van 4 april 1997, kenmerk PO/PJ-97008394, Uitleg nummer 11, 16 april 1997 en 12 april 2002, kenmerk PO/KB-2002/14416, Uitleg nummer 11, 24 april 2002.  
 
-31 *Schooljaar:* een schooljaar loopt van 1 augustus tot en met 31 juli van het opvolgende kalenderjaar.  
+31  *Schooljaar:* een schooljaar loopt van 1 augustus tot en met 31 juli van het opvolgende kalenderjaar.  
 
-32 *Schoolsoort:* het speciaal onderwijs, het voortgezet speciaal onderwijs en het speciaal en voortgezet speciaal onderwijs als bedoeld in de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
+32  *Schoolsoort:* het speciaal onderwijs, het voortgezet speciaal onderwijs en het speciaal en voortgezet speciaal onderwijs als bedoeld in de [WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).  
 
-33 *Schoonmaakpersoneel:* personeel waarvan in de functieomschrijving is -opgenomen het schoonmaken en schoonhouden van de binnenzijde van het schoolgebouw en waarvoor de bekostiging is genormeerd in de materiële vergoeding.  
+33  *Schoonmaakpersoneel:* personeel waarvan in de functieomschrijving is -opgenomen het schoonmaken en schoonhouden van de binnenzijde van het schoolgebouw en waarvoor de bekostiging is genormeerd in de materiële vergoeding.  
 
-34 *Uitvoeringsorganisatie Participatiefonds:* door het bestuur van het Participatiefonds aangewezen organisatie voor de uitvoering van de instroomtoets.  
+34  *Uitvoeringsorganisatie Participatiefonds:* door het bestuur van het Participatiefonds aangewezen organisatie voor de uitvoering van de instroomtoets.  
 
-35 *Vergoedingsverzoek:* een door het bevoegd gezag ingediend verzoek – middels de melding van een ontslag – op grond van [artikel 132, derde lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) strekkende tot het voor rekening van het Participatiefonds nemen van de kosten van werkloosheidsuitkeringen en suppletieregelingen op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling, van een (voorgenomen) ontslag.  
+35  *Vergoedingsverzoek:* een door het bevoegd gezag ingediend verzoek – middels de melding van een ontslag – op grond van [artikel 132, derde lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) strekkende tot het voor rekening van het Participatiefonds nemen van de kosten van werkloosheidsuitkeringen en suppletieregelingen op grond van het [BWOO](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) dan wel de [WW](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de bovenwettelijke regeling, van een (voorgenomen) ontslag.  
 
-36 *Vervanging (vervangings-betrekking):* een aanstelling van een personeelslid ter vervanging, niet zijnde bij detachering, waarbij het betreft vervanging bij de in de toelichting limitatief opgesomde vormen van afwezigheid.  
+36  *Vervanging (vervangings-betrekking):* een aanstelling van een personeelslid ter vervanging, niet zijnde bij detachering, waarbij het betreft vervanging bij de in de toelichting limitatief opgesomde vormen van afwezigheid.   
 
-37 *Wetten:**BZA:*[Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), BZA (Stb. 1995, 703). *WEC:*[Wet op de Expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (Stb. 1998, 469). *BWOO:*[Besluit Werkloosheid onderwijs- en onderzoekspersoneel](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) (Stb. 1994, 100). *BBWO:*[Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) (Stb. 2001, 61). *WW en de bovenwettelijke regeling:* De  [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (Stb. 1986, 566) en de bovenwettelijke regeling als bedoeld in de [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) (Stb. 1997, 768). De bovenwettelijke regeling vangt de vermindering van de uitkerings-aanspraken op als gevolg van de invoering van de WW voor het onderwijs.  
+37  *Wetten:* *BZA:* [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), BZA (Stb. 1995, 703).  *WEC:* [Wet op de Expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (Stb. 1998, 469).  *BWOO:* [Besluit Werkloosheid onderwijs- en onderzoekspersoneel](../../../../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) (Stb. 1994, 100).  *BBWO:* [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) (Stb. 2001, 61).  *WW en de bovenwettelijke regeling:* De [Werkloosheidswet](../../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (Stb. 1986, 566) en de bovenwettelijke regeling als bedoeld in de [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) (Stb. 1997, 768). De bovenwettelijke regeling vangt de vermindering van de uitkerings-aanspraken op als gevolg van de invoering van de WW voor het onderwijs.  
 
-38 *Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in - [artikel 162e WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).       
+38  *Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in -[artikel 162e WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).        
 ### Deel  2  
 
 ####Premie
+
+Materieel uitgewerkt per 01-02-2014 
 
 ### Artikel  2  
 
 ####Verplichting tot betaling van premie
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 2
+
+Materieel uitgewerkt per 01-02-2014 
 
 *Er zijn geen toelichtingen.*     Het bevoegd gezag is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md).     
 ### Deel  3  
 
 ####Instroomtoets
 
+Materieel uitgewerkt per 01-02-2014 
+
 ### Artikel  3  
 
 ####Het vergoedingsverzoek
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 3
+
+Materieel uitgewerkt per 01-02-2014 
 
 3.2  *Melden*   *Onder ontslag wordt niet verstaan het eindigen van een vervangings-betrekking waaraan geen reguliere betrekking is voorafgegaan. Een dergelijke beëindiging hoeft niet te worden gemeld. Het verdient aanbeveling een ontslag waarop een benoeming in vervanging volgt en een ontslag waarop de aanvraag van een ziekteuitkering volgt, direct na de beëindiging van de betrekking te melden. In het geval van het eindigen van de vervangingsbetrekking wordt het ontslag uit de reguliere aanstelling beoordeeld. Ook in het geval dat betrokkene geen recht meer heeft op een uitkering op grond van het BZA dan wel de Ziektewet en terugvalt op een uitkering krachtens het BWOO dan wel de WW en de bovenwettelijke regeling, wordt het ontslag uit de reguliere aanstelling beoordeeld.*   *De uitkeringsaanvraag wordt in deze gevallen geruime tijd na het ontslag uit de reguliere aanstelling gedaan. Dit betekent dat in een laat stadium de gegevens over een veel eerdere beëindiging van het reguliere dienstverband alsnog overgelegd dienen te worden.*   
 
-3.3.1  *Fatale termijn*   *De termijn van artikel 3.3.1 is ook van toepassing op het melden van de beëindiging van een vervangingsbetrekking waar geen reguliere betrekking aan vooraf is gegaan. Dit betekent dat wanneer er een rappel als bedoeld in artikel 3.3 heeft plaatsgevonden het bevoegd gezag binnen zes weken aan het Participatiefonds kenbaar maakt dat van de beëindiging van een vervangingsbetrekking sprake is. Wanneer de termijn van zes weken wordt overschreden betekent dit echter niet dat de bedoelde mededeling buiten behandeling wordt gelaten.*   *Bij het beëindigen van een vervangingsbetrekking wordt het bevoegd gezag gevraagd aan te tonen dat er daadwerkelijk sprake is geweest van een vervangingsbetrekking. Hiertoe overlegt het bevoegd gezag een afschrift van de akte van aanstelling danwel een afschrift van de akte van benoeming.*       
+3.3.1  *Fatale termijn*   *De termijn van artikel 3.3.1 is ook van toepassing op het melden van de beëindiging van een vervangingsbetrekking waar geen reguliere betrekking aan vooraf is gegaan. Dit betekent dat wanneer er een rappel als bedoeld in artikel 3.3 heeft plaatsgevonden het bevoegd gezag binnen zes weken aan het Participatiefonds kenbaar maakt dat van de beëindiging van een vervangingsbetrekking sprake is. Wanneer de termijn van zes weken wordt overschreden betekent dit echter niet dat de bedoelde mededeling buiten behandeling wordt gelaten.*   *Bij het beëindigen van een vervangingsbetrekking wordt het bevoegd gezag gevraagd aan te tonen dat er daadwerkelijk sprake is geweest van een vervangingsbetrekking. Hiertoe overlegt het bevoegd gezag een afschrift van de akte van aanstelling danwel een afschrift van de akte van benoeming. *       
 
 3.1  *Vergoedingsverzoek*  De kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), worden conform [artikel 132, derde lid van de WEC](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) door het ministerie van Onderwijs, Cultuur en Wetenschap in mindering gebracht op de door het bevoegd gezag verkregen vergoeding van de uitgaven voor het personeel, tenzij het Participatiefonds instemt met het verzoek de uitkeringskosten ten laste van dit fonds te laten komen. Dit vergoedingsverzoek wordt aan de hand van een door het bevoegd gezag ingediende melding beoordeeld.  
 
@@ -181,7 +199,11 @@ c Indien de termijnoverschrijding niet aan het bevoegd gezag is toe te rekenen.
 
 ####Toetsing
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 4
+
+Materieel uitgewerkt per 01-02-2014 
 
 *Wat de inspanningsverplichting betreft, heeft het Participatiefonds aansluiting gezocht bij de instrumenten die het bevoegd gezag conform de CAO-PO ter beschikking staan. Het Participatiefonds heeft de inspanningsverplichting in de categorieën I, II, III en IV ondergebracht.*   *Middels een opgave van de activiteiten welke zijn genoemd in de categorieën I en II maakt het bevoegd gezag inzichtelijk dat er personeelsbeleid is gevoerd.*   *Indien het bevoegd gezag ondanks het voeren van een op het voorkomen van ontslag gericht personeelsbeleid moet overgaan tot ontslag, geeft het aan op welke wijze getracht is betrokkene binnen het gezagsbereik te herplaatsen (categorie III). Indien herplaatsing binnen het bevoegd gezag niet aan de orde kan zijn of mogelijk is, geeft het bevoegd gezag tevens aan op welke wijze getracht is voor betrokkene een werkkring bij een ander bestuur of buiten het onderwijs te vinden (categorie IV). Ter invulling van de inspanningsverplichting worden de categorieën ook in deze volgorde doorlopen.*   *Bij categorie III kunnen onder andere de volgende voorbeelden van activiteiten worden genoemd:*  
 
@@ -193,7 +215,7 @@ c Indien de termijnoverschrijding niet aan het bevoegd gezag is toe te rekenen.
 
 4.  *werken op arbeidstherapeutische basis;*   
 
-5.  *het aanbieden van scholing gericht op het verbeteren van het functioneren van betrokkene.*     *Ter beoordeling of herplaatsing binnen het bevoegd gezag mogelijk is, wordt bij een ontslag op grond van artikel 8 van het reglement een formatievergelijking gemaakt.*   *Indien geen invulling is gegeven aan de verplichting als genoemd in categorie III geeft het bevoegd gezag gemotiveerd aan wat de reden is waarom niet is voldaan aan ‘hulp bij behoud van werk’.*   *Ook van het betrokken personeelslid mag verwacht worden dat deze de nodige inspanning verricht tot het behoud van werk. In het kader van de instroomtoets staat echter de inspanning van de werkgever centraal.*     
+5.  *het aanbieden van scholing gericht op het verbeteren van het functioneren van betrokkene.*     *Ter beoordeling of herplaatsing binnen het bevoegd gezag mogelijk is, wordt bij een ontslag op grond van artikel 8 van het reglement een formatievergelijking gemaakt.*   *Indien geen invulling is gegeven aan de verplichting als genoemd in categorie III geeft het bevoegd gezag gemotiveerd aan wat de reden is waarom niet is voldaan aan ‘hulp bij behoud van werk’.*   *Ook van het betrokken personeelslid mag verwacht worden dat deze de nodige inspanning verricht tot het behoud van werk. In het kader van de instroomtoets staat echter de inspanning van de werkgever centraal. *     
 
 4.1  *Voorkomen werkloosheid*  Op het bevoegd gezag rust de verplichting in redelijkheid datgene te doen wat van het bevoegd gezag verwacht mag worden ter voorkoming van werkloosheid, respectievelijk om instroom in een werkloosheidsuitkering van betrokkene te voorkomen.  
 
@@ -266,7 +288,11 @@ Als bewijsstuk wordt overgelegd een schriftelijk aanbod van outplacement, gedate
 
 ####Personele bezetting
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 5
+
+Materieel uitgewerkt per 01-02-2014 
 
 *In dit artikel is aangegeven wanneer en op welke wijze het bevoegd gezag het Participatiefonds dient te berichten over de personele bezetting op het niveau van het bevoegd gezag of samenwerkingsverband. Dit artikel is geen zelfstandige toetsingsgrond, maar geeft slechts een beschrijving van de wijze waarop een in dit artikel genoemd ontslag wordt onderbouwd en getoetst.*   *De personele bezetting is alleen van belang indien deze van invloed is op de reden van ontslag, en is dus niet noodzakelijk bij persoonsgebonden redenen (dus wel bij ontslag op grond van artikel 7, 7a, 7b, 8 of 11 en niet bij ontslag op grond van artikel 9).*   *In dit artikel is aangegeven wanneer en op welke wijze het bevoegd gezag het Participatiefonds dient te berichten over de personele bezetting op het niveau van het bevoegd gezag of samenwerkingsverband. Dit artikel is geen zelfstandige toetsingsgrond, maar geeft slechts een beschrijving van de wijze waarop een in dit artikel genoemd ontslag wordt onderbouwd en getoetst.*   *De personele bezetting is alleen van belang indien deze van invloed is op de reden van ontslag, en is dus niet noodzakelijk bij persoonsgebonden redenen (dus wel bij ontslag op grond van artikel 7, 7a, 7b, 8 of 11 en niet bij ontslag op grond van artikel 9).*  
 
@@ -333,9 +359,13 @@ II Als van het genoemde in a, b, c, d, of e één of meer keren sprake is, wordt
 
 ####Toewijzen/afwijzen vergoedingsverzoek
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 6
 
-6.1  *Indien er sprake is van een aanstelling op eigen middelen is het feit dat deze middelen niet meer beschikbaar zijn als zodanig onvoldoende reden voor het toewijzen van het vergoedingsverzoek. Dit betekent dat ook in geval er sprake is van een aanstelling op eigen middelen de melding van het ontslag ingericht dient te zijn conform het in artikel 7 tot en met 11 gestelde.*       
+Materieel uitgewerkt per 01-02-2014 
+
+6.1  *Indien er sprake is van een aanstelling op eigen middelen is het feit dat deze middelen niet meer beschikbaar zijn als zodanig onvoldoende reden voor het toewijzen van het vergoedingsverzoek. Dit betekent dat ook in geval er sprake is van een aanstelling op eigen middelen de melding van het ontslag ingericht dient te zijn conform het in artikel 7 tot en met 11 gestelde. *       
 
 6.1 Een vergoedingsverzoek kan alleen worden toegewezen indien het ontslag is verleend met inachtneming van het gestelde in artikel 7 tot en met 11 en wanneer tevens is voldaan aan het gestelde in artikel 4.4.  
 
@@ -348,9 +378,13 @@ II Als van het genoemde in a, b, c, d, of e één of meer keren sprake is, wordt
 
 ####Ontslag wegens daling rijksbekostiging personeel en financiële bijdragen van derden bij ontslagbeleid
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Lees dit artikel voordat u het formulier ‘Daling rijksbekostiging’ invult.*    
 
 ####Toelichting op artikel 7
+
+Materieel uitgewerkt per 01-02-2014 
 
 *Alle instellingen voor primair onderwijs ontvangen een budget voor personeels- en arbeidsmarktbeleid (PAB-budget) In artikel 7 van het reglement wordt een deel van het PAB-budget bij de beoordeling van de vermijdbaarheid van het ontslag wegens daling van de rijksbekostiging van personeel buiten beschouwing gelaten. Voor het schooljaar 2012–2013 is het percentage van PAB-budget dat bij de vergelijking buiten beschouwing wordt gelaten, gesteld op 35%.*   *Onder financiële bijdragen van derden worden onder meer bijdragen van gemeenten verstaan, Europese subsidies en sponsorgelden.*  
 
@@ -376,7 +410,7 @@ II Als van het genoemde in a, b, c, d, of e één of meer keren sprake is, wordt
 
 7.4  *Natuurlijk verloop en andere ontslagen*   *Voor de ruimte van de rijksbekostiging van personeel en financiële bijdragen van derden die ontstaat door natuurlijk verloop of andere ontslagen geldt dat het bevoegd gezag van de school deze inzet om gedwongen ontslagen te voorkomen. Om deze reden betrekt het bevoegd gezag eveneens het natuurlijk verloop en de andere ontslagen in het in artikel 7.2 bedoeld overzicht.*   
 
-7.7  *Toetsingsdatum*   *Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in artikel 7 beschreven, maar nu met als uitgangspunt deze andere datum.*       
+7.7  *Toetsingsdatum*   *Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in artikel 7 beschreven, maar nu met als uitgangspunt deze andere datum. *       
 
 7.1  *Ontslaggrond*  In het geval een werkgever de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO hanteert, kan ontslag wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden een grond zijn voor de toewijzing van een vergoedingsverzoek. Ontslag wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden doet zich voor indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden inclusief andere ontslagen en natuurlijk verloop, minimaal gelijk zijn aan de omvang van het gemelde ontslag. Indien van een dergelijke daling sprake is, is ontslagruimte aanwezig. Het bevoegd gezag overlegt een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 7, aan betrokkene is kenbaar gemaakt. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden. 
 ### *Beëindigingovereenkomst* 
@@ -393,7 +427,7 @@ In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor
 ### *Regeling versterking cultuureducatie 2011–2012* 
 
 Vanaf 1 augustus 2012 vervalt de [Regeling versterking cultuureducatie 2011-2012](../../../../../../../../../../../ministeriele-regeling/regeling/versterking/cultuureducatie/in/het/primair/onderwijs/2011–2012/BWBR0030016/README.md) en worden de met cultuureducatie gemoeide middelen toegevoegd aan de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md). Aangezien de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md), anders dan de [Regeling versterking cultuureducatie 2011–2012](../../../../../../../../../../../ministeriele-regeling/regeling/versterking/cultuureducatie/in/het/primair/onderwijs/2011–2012/BWBR0030016/README.md), wél onderdeel uitmaakt van de vergelijking, zullen de met de Regeling versterking cultuureducatie gemoeide middelen eenmalig eveneens in de vergelijking per 1 augustus 2012 worden betrokken. 
-### *Regeling prestatiebox primair onderwijs* 
+### * Regeling prestatiebox primair onderwijs * 
 
 Bij ontslagen per 1 augustus 2012 wegens opheffing van de betrekking, worden de middelen van de [Regeling prestatiebox primair onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/prestatiebox/primair/onderwijs/BWBR0031184/README.md) niet volledig, maar slechts voor 65% bij de bekostigingsvergelijking meegeteld. Het niveau van de vergelijking van de rijksbekostiging personeel en financiële bijdragen van derden is afhankelijk van één van de onderstaande situaties: 
 
@@ -446,7 +480,11 @@ d in geval van uitgesteld ontslag, een gespecificeerde opgave in nettoloonkosten
 
 ####Ontslag wegens daling rijksbekostiging personeel en financiële bijdragen van derden bij werkgelegenheidsbeleid
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 7a
+
+Materieel uitgewerkt per 01-02-2014 
 
 7A.1  *Ontslaggrond*   *Als een werkgever met werkgelegenheidsbeleid wegens daling rijksbekostiging personeel en financiële bijdragen van derden, personeel wil ontslaan, dan kan zo’n ontslag een grond zijn voor de toewijzing van een vergoedingsverzoek. De werkgever dient in dat geval krachtens de Regeling werkgelegenheidsbeleid ex. art. 10.2 met de centrales in het DGO een Sociaal Plan ex. art. 10.3 overeen te zijn gekomen en uit hebben uitgevoerd.*   
 
@@ -489,7 +527,7 @@ a zich in één of meer achterliggende schooljaren, direct voorafgaand aan het o
 
 b hij, uitsluitend als gevolg van deze daling in de rijksbekostiging personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en  
 
-c er derhalve aan het ontslag niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging personeel en financiële bijdragen van derden.      
+c er derhalve aan het ontslag niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging personeel en financiële bijdragen van derden.       
 
 7a.3  *Onvermijdbaarheid ontslag uit tijdelijk dienstverband*  Uitsluitend voor zover het ontslag uit een tijdelijk dienstverband betreft, geldt het navolgende: Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond voor zover het betreft ontslag uit een tijdelijk dienstverband doet zich voor indien het bevoegd gezag aantoont 
 
@@ -526,11 +564,15 @@ c er derhalve aan het ontslag niet (mede) andere redenen van financiële aard te
 
 ####Ontslag wegens reorganisatie
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 7b
+
+Materieel uitgewerkt per 01-02-2014 
 
 7B.1  *Ontslaggrond*   *Als een werkgever wegens reorganisatie, waaronder begrepen noodzakelijke bezuinigingen anders dan wegens daling rijksbekostiging personeel wil ontslaan, dan kan zo’n ontslag een grond zijn voor de toewijzing van een vergoedingsverzoek. Indien de werkgever meerdere personeelsleden wil ontslaan, is denkbaar dat ontslagen deels het gevolg zijn van daling van de rijksbekostiging personeel en deels vanwege andere noodzakelijke bezuinigingen.*   *Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van artikel 7B van dit reglement.*   
 
-7B.3  *Toetsingsdatum*   *Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in artikel 7B beschreven, maar nu met als uitgangspunt deze andere datum.*       
+7B.3  *Toetsingsdatum*   *Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in artikel 7B beschreven, maar nu met als uitgangspunt deze andere datum. *       
 
 7b.1  *Ontslaggrond*  Indien een werkgever wegens reorganisatie, waaronder begrepen noodzakelijke bezuinigingen anders dan wegens daling rijksbekostiging personeel wil ontslaan, kan zo’n ontslag een grond zijn voor de toewijzing van een vergoedingsverzoek. Indien de werkgever meerdere personeelsleden wil ontslaan, is denkbaar dat ontslagen deels het gevolg zijn van daling van de rijksbekostiging personeel. 
 ### *Ontslaggrond* 
@@ -566,14 +608,18 @@ In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor
 
 2 aanbieden van faciliteiten die de positie op de arbeidsmarkt verbeteren; of  
 
-3 aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).        
+3 aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).         
 ### Artikel  8  
 
 ####Ontslag vanwege kwalitatieve fricties
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Lees dit artikel voordat u het formulier ‘Opgave Kwalitatieve Frictie’ invult.*    
 
 ####Toelichting op artikel 8
+
+Materieel uitgewerkt per 01-02-2014 
 
 8.2  *Kwalitatieve frictie*   *In dit artikel is per soort kwalitatieve frictie aangegeven op welke wijze de kwalitatieve frictie kan worden aangetoond.*  
 
@@ -584,7 +630,7 @@ In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor
 
 *Bij een vacature directeur die tijdelijk wordt ingevuld door het beleggen van de directietaken bij de adjunct-directeur, dan wel de plaatsvervanger, en het tijdelijk aanstellen van een leerkracht voor de lesgevende taken, kan het ontslag van de tijdelijke leerkracht op basis van dit artikel gemeld worden. Met behulp van artikel 5 toont het bevoegd gezag aan dat er op de ontslagdatum geen vacature voor deze leerkracht beschikbaar is.*     
 
-8.3  *Natuurlijk verloop en andere ontslagen*   *Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte beschikbaar. Om deze reden betrekt het bevoegd gezag het natuurlijk verloop en ‘andere ontslagen’ bij de melding. Hierbij kan worden volstaan met het natuurlijk verloop en ‘andere ontslagen’ dat zich in de in artikel 8.2 bedoelde situatie heeft voorgedaan.*       
+8.3  *Natuurlijk verloop en andere ontslagen*   *Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte beschikbaar. Om deze reden betrekt het bevoegd gezag het natuurlijk verloop en ‘andere ontslagen’ bij de melding. Hierbij kan worden volstaan met het natuurlijk verloop en ‘andere ontslagen’ dat zich in de in artikel 8.2 bedoelde situatie heeft voorgedaan. *       
 
 8.1  *Ontslaggrond*  Ontslag omdat het anders onmogelijk wordt om binnen het bevoegd gezag het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren kan een grond zijn voor toewijzing van een vergoedingsverzoek. Ontslag vanwege kwalitatieve fricties doet zich voor indien de bedoelde onmogelijkheid is onderbouwd en het natuurlijk verloop en andere ontslagen geen oplossing bieden. De kwalitatieve fricties mogen geen gevolg zijn van eigen beleid van het bevoegd gezag. Het bevoegd gezag overlegt een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 8, aan betrokkene is kenbaar gemaakt. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden.  *Beëindigingovereenkomst*  In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 8, aan betrokkene is kenbaar gemaakt, kan het bevoegd gezag ook een afschrift van een beëindigingovereenkomst overleggen waaruit tenminste blijkt dat: 
 
@@ -662,9 +708,13 @@ b een gespecificeerde opgave van de omvang in geld van het natuurlijk verloop en
 
 ####Overige ontslaggronden
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Lees dit artikel voordat u het formulier ‘Opgave persoons-gebonden redenen en anders’ invult.*    
 
 ####Toelichting op artikel 9a
+
+Materieel uitgewerkt per 01-02-2014 
 
 ### *Ontslag op grond van ongeschiktheid voor de functie* 
 
@@ -718,7 +768,7 @@ II ongeschiktheid voor het onderwijs, anders dan op grond van ziels- of lichaams
 ### *Onvermijdbaarheid ontslag* 
 
 Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat het in redelijkheid niet anders dan tot het ontslag van betrokkene kon komen, ondanks het feit dat het betrokkene de mogelijkheden heeft geboden het functioneren te verbeteren en dat anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Het bevoegd gezag geeft aan hoe de beoordelingsprocedure is doorlopen. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden. 
-### *Beëindigingovereenkomst* 
+### * Beëindigingovereenkomst * 
 
 In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt, kan het bevoegd gezag ook een afschrift van een beëindigingovereenkomst overleggen waaruit tenminste blijkt dat: 
 
@@ -727,7 +777,7 @@ In plaats van bovengenoemd afschrift van het ontslagbesluit waarin de reden voor
 2 het bevoegd gezag heeft voorgesteld het dienstverband te beëindigen, en  
 
 3 de reden daarvoor is gelegen in de in dit artikel genoemde ontslaggrond.   Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub a aan betrokkene is kenbaar gemaakt. 
-### *Inspanningsverplichting* 
+### * Inspanningsverplichting * 
 
 Bij een ontslag op grond van artikel 9 sub a, dient het bevoegd gezag bij een vast dienstverband te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II, III en IV-A; Bij einde tijdelijk dienstverband dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II en IV-B. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub a, stelt: 
 ### *Categorie I Functionerings- en beoordelingsgesprekken* 
@@ -1164,7 +1214,7 @@ o  *Ontslag in verband met niet meewerken aan re-integratie als bedoeld in artik
 Met ingang van 4 april 2003 is het [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), BZA (Stb. 2003, 186) gewijzigd. Op grond van die wijziging wordt het ondermeer mogelijk een zieke werknemer te ontslaan indien hij zonder deugdelijke grond niet meewerkt aan zijn re-integratie. Daartoe is een [artikel 20a in het BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) opgenomen. Een ontslag in verband met het zonder deugdelijke grond niet meewerken aan re-integratie kan op grond van artikel 9 sub o worden gemeld. 
 ### *Onvermijdbaarheid ontslag* 
 
-Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat betrokkene zonder deugdelijke grond niet heeft meegewerkt aan zijn reïntegratie. Het bevoegd gezag overlegt hiertoe mede een afschrift van het advies van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md). Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub o, aan betrokkene is kenbaar gemaakt. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub o, aan betrokkene is kenbaar gemaakt. 
+Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat betrokkene zonder deugdelijke grond niet heeft meegewerkt aan zijn reïntegratie. Het bevoegd gezag overlegt hiertoe mede een afschrift van het advies van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 20a, tweede lid, BZA](../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md). Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub o, aan betrokkene is kenbaar gemaakt. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub o, aan betrokkene is kenbaar gemaakt.  
 ### *Inspanningsverplichting* 
 
 Bij een ontslag op grond van artikel 9 sub o, vereist het Participatiefonds geen verdere inspanning.  
@@ -1247,19 +1297,24 @@ u  *Vervallen*
 
 v  *Vervallen*       
 ### Artikel  10  
+Materieel uitgewerkt per 01-02-2014 
 
 *Artikel 10 is vervallen.*     
 ### Artikel  11  
 
 ####Schoonmaakpersoneel/personeel Centrale Dienst
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Lees dit artikel voordat u het formulier ‘Opgave schoonmaakpersoneel/personeel Centrale Dienst’ invult.*    
 
 ####Toelichting op artikel 11
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Dit artikel is ook van toepassing op het ontslag van personeel bij een Centrale Dienst.*  
 
-11.3  *Ontslagmoment*   *Indien het ontslag op een andere datum dan 1 januari of 1 augustus wordt geëffectueerd, geeft het bevoegd gezag aan welke daling aan het ontslag ten grondslag ligt en waarom betrokkene niet langer in dienst gehouden kan worden.*       
+11.3  *Ontslagmoment*   *Indien het ontslag op een andere datum dan 1 januari of 1 augustus wordt geëffectueerd, geeft het bevoegd gezag aan welke daling aan het ontslag ten grondslag ligt en waarom betrokkene niet langer in dienst gehouden kan worden. *       
 
 11.1  *Ontslaggrond*  Ontslag van schoonmaakpersoneel, anders dan op grond van artikel 9, kan grond zijn voor toewijzing van een vergoedingsverzoek. Ontslag van schoonmaakpersoneel doet zich voor indien blijkt dat de materiële instandhouding op het niveau van het bevoegd gezag over twee opeenvolgende jaren, inclusief andere ontslagen en natuurlijk verloop, vermindert of is verminderd met een omvang die tenminste gelijk is aan de netto-loonkosten op jaarbasis van het ontslagen personeelslid. Het bevoegd gezag overlegt een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 11, aan betrokkene is kenbaar gemaakt. Indien tegen het ontslagbesluit bezwaar en/of beroep is ingesteld, stelt het bevoegd gezag het Participatiefonds daarvan in kennis. Het Participatiefonds kan in het geval dat betrokkene tegen het ontslagbesluit rechtsmiddelen heeft aangewend de beslissing op de vergoedingsaanvraag aanhouden tot het moment waarop de in bezwaar dan wel beroep genomen (gerechtelijke) beslissing onherroepelijk is geworden. 
 ### *Beëindigingovereenkomst* 
@@ -1325,12 +1380,18 @@ d bij meerdere ontslagen uit vaste dienst een opgave van de onderlinge volgorde 
 
 ####Vormvoorschriften
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 12–13
 
-*Er zijn geen toelichtingen.*     
+Materieel uitgewerkt per 01-02-2014 
+
+*Er zijn geen toelichtingen. *     
 ### artikel  12  
 
 ####Vormvoorschriften
+
+Materieel uitgewerkt per 01-02-2014 
 
 12.1  *Ter uitwerking van de in dit reglement opgenomen bepalingen omtrent toetsing van het ontslag worden door het bevoegd gezag de volgende formulieren gehanteerd en toelichtingen verstrekt:*  De melding van een ontslag genoemd in artikel 7, 7A of 7B bestaat uit: 
 
@@ -1364,22 +1425,31 @@ d d de informatievoorziening richting de sector kanton van de Rechtbank;
 
 e e de gevolgen van een beslissing van het Participatiefonds in het kader van de instroomtoets, of de gevolgen van een beslissing van UWV in het kader van de uitkeringsaanvraag;   wordt hier tevens opgave van gedaan bij de melding van ontslag op grond van het genoemde in artikel 7, 7A, 7B, 8, 9 en 11. Uitgangspunt is dat alle informatie die het Participatiefonds in het kader van de instroomtoets van het bevoegd gezag ontvangt, wordt meegewogen in de beoordeling van het vergoedingsverzoek.      
 ### artikel  13  
+Materieel uitgewerkt per 01-02-2014 
 
 *Vervallen*      
 ### Artikel  14–15  
 
 ####Nieuwe feiten en omstandigheden/Medewerking controle
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 14
 
-*Er zijn geen toelichtingen.*     
+Materieel uitgewerkt per 01-02-2014 
+
+*Er zijn geen toelichtingen. *     
 
 ####Toelichting op artikel 15
 
-*De in artikel 15 bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren.*     
+Materieel uitgewerkt per 01-02-2014 
+
+*De in artikel 15 bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren. *     
 ### artikel  14  
 
 ####Nieuwe feiten en omstandigheden
+
+Materieel uitgewerkt per 01-02-2014 
 
 14.1 Indien aan het Participatiefonds na het afgeven van de beschikking blijkt dat de beslissing genomen is op basis van onjuiste informatie, houdt zij zich het recht voor om de beslissing te herzien.  
 
@@ -1388,37 +1458,54 @@ e e de gevolgen van een beslissing van het Participatiefonds in het kader van de
 
 ####Medewerking controle
 
-Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle door of namens het Participatiefonds welke gericht is op de beoordeling van de rechtmatigheid van een melding. Het bevoegd gezag draagt zorg voor een administratie welke op een centraal punt is in te zien en geeft hier desgevraagd inzage in voor zover relevant en betrekking hebbend op de melding.      
+Materieel uitgewerkt per 01-02-2014 
+
+Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle door of namens het Participatiefonds welke gericht is op de beoordeling van de rechtmatigheid van een melding. Het bevoegd gezag draagt zorg voor een administratie welke op een centraal punt is in te zien en geeft hier desgevraagd inzage in voor zover relevant en betrekking hebbend op de melding.       
 ### Deel  4  
 
 ####Zelfstandig wachtgeldbeleid
+
+Materieel uitgewerkt per 01-02-2014 
 
 ### Artikel  16–25  
 
 ####Zelfstandig wachtgeldbeleid
 
+Materieel uitgewerkt per 01-02-2014 
+
 *Artikel 16 tot en met 25 zijn vervallen.*    
 
 ####Toelichting op artikel 16 t/m 25
 
-*Er zijn geen toelichtingen. .*       
+Materieel uitgewerkt per 01-02-2014 
+
+*Er zijn geen toelichtingen. . *       
 ### Deel  5  
 
 ####Slotbepalingen
+
+Materieel uitgewerkt per 01-02-2014 
 
 ### Artikel  26–33  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 01-02-2014 
+
 ####Toelichting op artikel 26–33
+
+Materieel uitgewerkt per 01-02-2014 
 
 *Er zijn geen toelichtingen.*     
 ### artikel  26  
+Materieel uitgewerkt per 01-02-2014 
 
 *Vervallen*     
 ### artikel  27  
 
 ####Toelichting en bestuursvoorschriften
+
+Materieel uitgewerkt per 01-02-2014 
 
 27.1 Aan dit reglement is een toelichting toegevoegd die deel uitmaakt van het reglement.  
 
@@ -1427,6 +1514,8 @@ Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle doo
 
 ####Wijziging of afwijking van het reglement
 
+Materieel uitgewerkt per 01-02-2014 
+
 28.1 Het bestuur van het Participatiefonds is gerechtigd dit reglement op ieder moment aan te passen indien daar aanleiding toe is.  
 
 28.2 Om zwaarwegende redenen kan het bestuur van het Participatiefonds afwijken van hetgeen in het reglement gesteld is.      
@@ -1434,24 +1523,34 @@ Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle doo
 
 ####Onvoorziene omstandigheden
 
+Materieel uitgewerkt per 01-02-2014 
+
 In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Participatiefonds.    
 ### artikel  30  
 
 ####Wijziging voorgaand reglement
 
-Wijzigt het Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2011–2012.     
+Materieel uitgewerkt per 01-02-2014 
+
+Wijzigt het Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2011–2012.    
 ### artikel  31  
 
 ####Citeertitel
+
+Materieel uitgewerkt per 01-02-2014 
 
 Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2012–2013’.    
 ### artikel  32  
 
 ####Inwerkingtreding
 
+Materieel uitgewerkt per 01-02-2014 
+
 Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op niet voortgezette en beëindigde dienstverbanden die zijn of worden geëffectueerd in de periode van 1 augustus 2012 tot en met 31 juli 2013. Voor genoemde niet voortgezette en beëindigde dienstverbanden is dit reglement voor onbepaalde tijd van kracht.    
 ### artikel  33  
 
 ####Bekendmaking
+
+Materieel uitgewerkt per 01-02-2014 
 
 Dit reglement wordt bekendgemaakt middels toezending aan de betrokken bevoegde gezagsorganen, vermelding in het publicatieblad Rentree van het Participatiefonds en plaatsing op de internetsite van het Participatiefonds. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.       
