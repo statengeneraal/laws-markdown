@@ -3,7 +3,7 @@
 ##Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Milieu, van 4 maart 2014 nr. IENM/BSK-2014/50639, houdende vaststelling van vervangende grenswaarden geluidbelasting en vrijstelling van regels in het Luchthavenverkeerbesluit Schiphol in verband met de Nuclear Security Summit op 24 en 25 maart 2014 en aansluitend groot baanonderhoud aan de Polderbaan (Regeling afwijking LVB voor NSS en groot onderhoud Polderbaan 2014)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op artikel 8.23, eerste en vijfde lid, Wet luchtvaart;
+Gelet op [artikel 8.23, eerste en vijfde lid, Wet luchtvaart](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -12,20 +12,20 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *NSS:* Nuclear Security Summit op 24 en 25 maart 2014 in Den Haag;  
+a.  *NSS:* Nuclear Security Summit op 24 en 25 maart 2014 in Den Haag;  
 
-b. *gebruiksjaar 2014:* de periode van 1 november 2013 tot en met 31 oktober 2014;  
+b.  *gebruiksjaar 2014:* de periode van 1 november 2013 tot en met 31 oktober 2014;  
 
-c. *LVB:*Luchthavenverkeerbesluit Schiphol.    
+c.  *LVB:* [Luchthavenverkeerbesluit Schiphol](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md).   
 
 ### Artikel  2  
 
 ####Vervangende grenswaarden
 
-1.  In plaats van de grenswaarden genoemd in bijlage 2 van het LVB gelden voor gebruiksjaar 2014 voor de in de onderstaande tabel genoemde handhavingspunten de volgende vervangende grenswaarden:  
+1.  In plaats van de grenswaarden genoemd in [bijlage 2 van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden voor gebruiksjaar 2014 voor de in de onderstaande tabel genoemde handhavingspunten de volgende vervangende grenswaarden:  
 
-| Grenswaarden handhavingspunten etmaal L <sub>den</sub> [dB(A)]  | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde  in geval van buitengewone  weersomstandigheden  |
-|---|---|---|---|---|---|
+| Grenswaarden handhavingspunten etmaal L<sub>den</sub> [dB(A)]  | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde  in geval van buitengewone  weersomstandigheden  |
+|:---|:---|:---|:---|:---|:---|
 | 1  | 97.325  | 470.400  | 55,98  | (56,98)  |
 | 2  | 100.475  | 472.525  | 57,69  | (58,69)  |
 | 3  | 104.150  | 474.925  | 58,75  | (59,75)  |
@@ -62,10 +62,10 @@ c. *LVB:*Luchthavenverkeerbesluit Schiphol.
 | 34  | 103.400  | 472.225  | 57,31  | (58,31)  |
 | 35  | 98.400  | 470.300  | 57,17  | (58,17)  |
 
-2.  In plaats van de grenswaarden genoemd in bijlage 3 van het LVB gelden voor gebruiksjaar 2014 voor de in de onderstaande tabel genoemde handhavingspunten de volgende vervangende grenswaarden:  
+2.  In plaats van de grenswaarden genoemd in [bijlage 3 van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden voor gebruiksjaar 2014 voor de in de onderstaande tabel genoemde handhavingspunten de volgende vervangende grenswaarden:  
 
-| Grenswaarden handhavingspunten nacht L <sub>night</sub> [dB(A)]  | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde  in geval van buitengewone  weersomstandigheden  |
-|---|---|---|---|---|---|
+| Grenswaarden handhavingspunten nacht L<sub>night</sub> [dB(A)]  | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde  in geval van buitengewone  weersomstandigheden  |
+|:---|:---|:---|:---|:---|:---|
 | 1  | 102.750  | 473.250  | 52,97  | (53,97)  |
 | 2  | 104.150  | 474.925  | 50,40  | (51,40)  |
 | 3  | 105.750  | 476.600  | 47,88  | (48,88)  |
@@ -96,30 +96,31 @@ c. *LVB:*Luchthavenverkeerbesluit Schiphol.
 
 ####Vrijstellingen NSS en groot baanonderhoud
 
-1.  Gedurende de periode van 10 maart tot en met 21 april 2014 dat de Polderbaan niet bruikbaar is vanwege de NSS en aansluitend groot baanonderhoud wordt dagelijks tussen 23.00 uur en 6.00 uur vrijstelling verleend van artikel 3.1.5, vierde lid, van het LVB voor: 
+1.  Gedurende de periode van 10 maart tot en met 21 april 2014 dat de Polderbaan niet bruikbaar is vanwege de NSS en aansluitend groot baanonderhoud wordt dagelijks tussen 23.00 uur en 6.00 uur vrijstelling verleend van [artikel 3.1.5, vierde lid, van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) voor: 
 
 a. starts van baan 36C en landingen op baan 18C (Zwanenburgbaan);  
 
 b. starts van baan 18L en landingen op baan 36R (Aalsmeerbaan).     
-2.  Gedurende de periode van 10 maart tot en met 21 april 2014 dat de Polderbaan niet bruikbaar is vanwege de NSS en aansluitend groot baanonderhoud wordt dagelijks voor het gehele etmaal vrijstelling verleend van de artikelen 3.1.1, eerste lid, en 3.1.3, eerste lid, van het LVB met betrekking tot de luchtverkeerwegen die voor vertrekkend verkeer vanaf baan 36C (Zwanenburgbaan) zijn aangewezen in bijlage 1 van het LVB op de kaarten 1/21 en 2/21.   
+2.  Gedurende de periode van groot baanonderhoud aan de Polderbaan van 1 april 2014 tot en met 21 april 2014 kan het gebruik van de Aalsmeerbaan als bedoeld in het eerste lid slechts plaatsvinden indien de beschikbaar gestelde Kaagbaan niet bruikbaar is omdat wordt voorzien dat de windlimieten, zoals geformuleerd in de luchtvaartgids, paragraaf 4.3.3. van hoofdstuk EHAM, blz. AD2.EHAM-21 van de Aeronautical Information Publication, versie 6 maart 2014, op deze baan worden overschreden, of vanwege andere meteorologische omstandigheden.  
+3.  Gedurende de periode van 10 maart tot en met 21 april 2014 dat de Polderbaan niet bruikbaar is vanwege de NSS en aansluitend groot baanonderhoud wordt dagelijks voor het gehele etmaal vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) met betrekking tot de luchtverkeerwegen die voor vertrekkend verkeer vanaf baan 36C (Zwanenburgbaan) zijn aangewezen in [bijlage 1 van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) op de kaarten 1/21 en 2/21.  
 
 ### Artikel  4  
 
 ####Vrijstellingen NSS
 
-1.  Onverminderd artikel 3, eerste lid, wordt gedurende de periode van 23 maart 2014, 23.00 uur, tot en met 26 maart 2014, 6.00 uur, dat de Polderbaan niet bruikbaar is vanwege de NSS dagelijks tussen 23.00 en 6.00 uur tevens vrijstelling verleend van artikel 3.1.5, vierde lid, van het LVB voor: 
+1.  Onverminderd artikel 3, eerste lid, wordt gedurende de periode van 23 maart 2014, 23.00 uur, tot en met 26 maart 2014, 6.00 uur, dat de Polderbaan niet bruikbaar is vanwege de NSS dagelijks tussen 23.00 en 6.00 uur tevens vrijstelling verleend van [artikel 3.1.5, vierde lid, van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) voor: 
 
 a. starts van baan 09 en baan 27 (Buitenveldertbaan), alsmede baan 04 en baan 22 (Schiphol-Oostbaan);  
 
 b. landingen op baan 09 en baan 27 (Buitenveldertbaan), baan 24 (Kaagbaan) alsmede baan 04 en baan 22 (Schiphol-Oostbaan).     
-2.  Onverminderd artikel 3, tweede lid, wordt gedurende de periode van 23 maart 2014, 23.00 uur, tot en met 26 maart 2014, 6.00 uur, dat de Polderbaan niet bruikbaar is vanwege de NSS dagelijks voor het gehele etmaal vrijstelling verleend van de artikelen 3.1.1, eerste en tweede lid, 3.1.2, eerste en derde lid, en 3.1.3, eerste lid, van het LVB met betrekking tot de luchtverkeerwegen die zijn aangewezen in bijlage 1 van het LVB alsmede met betrekking tot de minimum vlieghoogten.   
-3.  De in het eerste en tweede lid bedoelde vrijstellingen gelden eveneens gedurende een andere periode aansluitend op de in die leden bedoelde periode indien dit vanwege de NSS naar het oordeel van de Luchtverkeersleiding Nederland noodzakelijk is.   
+2.  Onverminderd artikel 3, derde lid, wordt gedurende de periode van 23 maart 2014, 23.00 uur, tot en met 26 maart 2014, 6.00 uur, dat de Polderbaan niet bruikbaar is vanwege de NSS dagelijks voor het gehele etmaal vrijstelling verleend van de [artikelen 3.1.1, eerste en tweede lid](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), [3.1.2, eerste en derde lid](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) met betrekking tot de luchtverkeerwegen die zijn aangewezen in [bijlage 1 van het LVB](../../../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) alsmede met betrekking tot de minimum vlieghoogten.   
+3.  De in het eerste en tweede lid bedoelde vrijstellingen gelden eveneens gedurende een andere periode aansluitend op de in die leden bedoelde periode indien dit vanwege de NSS naar het oordeel van de Luchtverkeersleiding Nederland noodzakelijk is.  
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als Regeling afwijking LVB voor NSS en groot onderhoud Polderbaan 2014.  
+Deze regeling wordt aangehaald als Regeling afwijking LVB voor NSS en groot onderhoud Polderbaan 2014. 
 
 ### Artikel  6  
 
@@ -127,9 +128,9 @@ Deze regeling wordt aangehaald als Regeling afwijking LVB voor NSS en groot onde
 
 1.  Deze regeling treedt in werking met ingang van 10 maart 2014.   
 2.  Deze regeling wordt ingetrokken met ingang van 1 november 2014.   
-3.  Zij blijft van toepassing op grenswaarden en vrijstellingen die voor de intrekking ingevolge de regeling hebben gegolden.   
+3.  Zij blijft van toepassing op grenswaarden en vrijstellingen die voor de intrekking ingevolge de regeling hebben gegolden.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld   
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld     
