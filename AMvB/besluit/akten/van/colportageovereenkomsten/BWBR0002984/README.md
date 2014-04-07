@@ -15,9 +15,9 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Indien voor een overeenkomst overeenkomstig [artikel 24, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) (*Stb.* 1992, 71) een akte vereist is, dient door de bij de overeenkomst partij zijnde eigenaar of eigenaren van de onderneming, waarin, onderscheidenlijk voor rekening waarvan, de colporteur werkzaam is, te worden zorggedragen, dat: 
+Indien voor een overeenkomst overeenkomstig [artikel 24, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) (*Stb.* 1992, 71) een akte vereist is, dient door de bij de overeenkomst partij zijnde eigenaar of eigenaren van de onderneming, waarin, onderscheidenlijk voor rekening waarvan, de colporteur werkzaam is, te worden zorggedragen, dat:  
 
-a. in de akte wordt vermeld: 
+a. in de akte wordt vermeld:  
 
 1. de naam en het adres van de colporteur;  
 
@@ -31,35 +31,35 @@ b. het gedeelte van de akte, dat begint na de plaats, die bestemd is voor het pl
 
 c. de inhoud van de akte duidelijk leesbaar is;  
 
-d. de akte ten hoogste de volgende afmetingen heeft: 
+d. de akte ten hoogste de volgende afmetingen heeft:  
 
-297 mm bij 210 mm (A4).      
+297 mm bij 210 mm (A4).     
 
 ### Artikel  2  
 
-Onze Ministers van Economische Zaken en van Veiligheid en Justitie stellen het in artikel 1, onder b, bedoelde model aldus vast, dat: 
+Onze Ministers van Economische Zaken en van Veiligheid en Justitie stellen het in artikel 1, onder b, bedoelde model aldus vast, dat:  
 
-a. daarin wordt vermeld: 
+a. daarin wordt vermeld:  
 
 1. de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde mogelijkheid tot ontbinding van de overeenkomst;  
 
 2. het adres, bedoeld in [artikel 24, tweede lid, onder a, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md);  
 
-3.  vervallen;   
+3. vervallen;  
 
 4. de in [artikel 25, vijfde lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) vervatte regeling;    
 
 b. daarin de onder *a,* ten eerste, bedoelde mogelijkheid nader wordt toegelicht;  
 
-c. het tevens omvat een formulier, door middel waarvan de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde mededeling kan worden gedaan.    
+c. het tevens omvat een formulier, door middel waarvan de in [artikel 25, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde mededeling kan worden gedaan.   
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit akten van colportageovereenkomsten.  
+Dit besluit wordt aangehaald als: Besluit akten van colportageovereenkomsten. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op het in [artikel 35, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde tijdstip.  
+Dit besluit treedt in werking op het in [artikel 35, eerste lid, van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md) bedoelde tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

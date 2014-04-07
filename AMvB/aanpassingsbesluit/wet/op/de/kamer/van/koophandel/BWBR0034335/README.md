@@ -40,75 +40,75 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Aanwijzingsbesluit economische noodwetgeving.   
+Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
 ### Artikel  II  
 
-Wijzigt het Besluit akten van colportageovereenkomsten.   
+Wijzigt het Besluit akten van colportageovereenkomsten. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit beheer sociale-huursector.   
+Wijzigt het Besluit beheer sociale-huursector. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit draagbare blustoestellen 1997.   
+Wijzigt het Besluit draagbare blustoestellen 1997. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit geluidhinder.   
+Wijzigt het Besluit geluidhinder. 
 
 ### Artikel  VII  
 
-Het [Besluit heffingen kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/heffingen/kamers/van/koophandel/en/fabrieken/BWBR0009278/README.md) wordt ingetrokken.  
+Het [Besluit heffingen kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/heffingen/kamers/van/koophandel/en/fabrieken/BWBR0009278/README.md) wordt ingetrokken. 
 
 ### Artikel  VIII  
 
-Het [Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/instelling/gebiedsindeling/en/bestuursgrootte/kamers/van/etc/BWBR0009277/README.md) wordt ingetrokken.  
+Het [Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/instelling/gebiedsindeling/en/bestuursgrootte/kamers/van/etc/BWBR0009277/README.md) wordt ingetrokken. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit milieusubsidies.   
+Wijzigt het Besluit milieusubsidies. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit registers kinderopvang en peuterspeelzaalwerk.   
+Wijzigt het Besluit registers kinderopvang en peuterspeelzaalwerk. 
 
 ### Artikel  XI  
 
-Wijzigt het Besluit SUWI.   
+Wijzigt het Besluit SUWI. 
 
 ### Artikel  XII  
 
-Wijzigt het Besluit vaststelling bedrag bedoeld in artikel 7b, zevende lid, van de Wet op de kansspelen.   
+Wijzigt het Besluit vaststelling bedrag bedoeld in artikel 7b, zevende lid, van de Wet op de kansspelen. 
 
 ### Artikel  XIII  
 
-Wijzigt het Handelsregisterbesluit 2008.   
+Wijzigt het Handelsregisterbesluit 2008. 
 
 ### Artikel  XIV  
 
-Wijzigt het Instellingsbesluit Hoofdbedrijfschap Ambachten.   
+Wijzigt het Instellingsbesluit Hoofdbedrijfschap Ambachten. 
 
 ### Artikel  XV  
 
-Wijzigt het Kaderbesluit BZK-subsidies.   
+Wijzigt het Kaderbesluit BZK-subsidies. 
 
 ### Artikel  XVI  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ### Artikel  XVII  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop [hoofdstuk 12 van de Wet op de Kamer van Koophandel](../../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van het tijdstip waarop [hoofdstuk 12 van de Wet op de Kamer van Koophandel](../../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md) in werking treedt. 
 
 ### Artikel  XVIII  
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit Wet op de Kamer van Koophandel.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit Wet op de Kamer van Koophandel. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -116,10 +116,10 @@ Wassenaar
 25 november 2013  
 Willem-Alexander  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
 de *tiende* december 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

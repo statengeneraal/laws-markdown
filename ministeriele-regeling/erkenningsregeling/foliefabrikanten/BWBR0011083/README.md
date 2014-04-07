@@ -4,22 +4,36 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op de [artikelen 40, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 a, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 b, tweede en zesde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [70 d, eerste en tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [70 e, derde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+### Hoofdstuk 1  
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. erkenning:  erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor het produceren en afleveren van folie;    b. erkenninghouder:  houder van een erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor het produceren en afleveren van folie;    c. lamineerder:  houder van een erkenning als bedoeld in [artikel 70 a, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor de productie en afgifte van blanco-kentekenplaten;    d. blanco-kentekenplaat:  blanco-kentekenplaat, geschikt voor het produceren van een kentekenplaat;    e. folie:  folie, geschikt voor het produceren van: 
+In deze regeling wordt verstaan onder: 
 
-1°. gele kentekenplaten volgens de modellen 1.1 tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.10C en 30.1A tot en met 30.2D van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
+a.*erkenning:* erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor het produceren en afleveren van folie;
 
-2°. lichtblauwe kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.30A tot en met 27.31C en 30.3A tot en met 30.4D van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
+b.*erkenninghouder:* houder van een erkenning als bedoeld in [artikel 70a, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor het produceren en afleveren van folie;
+
+c.*lamineerder:* houder van een erkenning als bedoeld in [artikel 70 a, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor de productie en afgifte van blanco-kentekenplaten;
+
+d.*blanco-kentekenplaat:* blanco-kentekenplaat, geschikt voor het produceren van een kentekenplaat;
+
+e.*folie:* folie, geschikt voor het produceren van:
+
+1°. gele kentekenplaten volgens de modellen 1.1 tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.10E en 30.1A tot en met 30.2D van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
+
+2°. lichtblauwe kentekenplaten volgens de modellen 18.2A tot en met 18.2E, 27.30A tot en met 27.31E en 30.3A tot en met 30.4D van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
 
 3°. lichtgroene kentekenplaten volgens de modellen 27.11 tot en met 27.14, 30.5 en 30.6 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
 
-4°. witte kentekenplaten volgens de modellen 27.15A tot en met 27.17C, 27.24A tot en met 27.29, 30.7, 30.8 en 30.13 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);      f. de Minister:  de Minister van Verkeer en Waterstaat;    g. RDW:  Dienst Wegverkeer;    h. wet:  [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).     
+4°. witte kentekenplaten volgens de modellen 27.15A tot en met 27.17E, 27.24A tot en met 27.26E, 30.7, 30.8 en 30.13 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md);  
+
+f.*de Minister:* de Minister van Infrastructuur en Milieu;
+
+g.*wet:*[Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
 
 ### Artikel  2  
 
@@ -31,7 +45,7 @@ Een erkenning kan worden verleend aan een natuurlijk persoon of rechtspersoon di
 
 ####Aanvraagformulier
 
-Voor de aanvraag van een erkenning wordt gebruik gemaakt van een door de RDW vastgesteld formulier.  
+Voor de aanvraag van een erkenning wordt gebruik gemaakt van een door de Dienst Wegverkeer vastgesteld formulier.  
 
 ### Artikel  4  
 
@@ -39,9 +53,9 @@ Voor de aanvraag van een erkenning wordt gebruik gemaakt van een door de RDW vas
 
 De aanvrager van een erkenning legt bij de aanvraag de volgende bescheiden over: 
 
-a. een bewijs van inschrijving als bedoeld in de [Handelsregisterwet 1996](../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md), dan wel, bij vestiging buiten Nederland, een gelijkwaardig document afgegeven in het land van vestiging, waaruit blijkt dat de aanvrager folie fabriceert, welk bewijs niet ouder mag zijn dan een maand, en  
+a.  een uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), dan wel, bij vestiging buiten Nederland, een gelijkwaardig document afgegeven in het land van vestiging, waaruit blijkt dat de aanvrager folie fabriceert, welk bewijs niet ouder mag zijn dan een maand, en 
 
-b. een testrapport van een door de RDW aangewezen onderzoeksinstelling, waaruit blijkt, dat de aanvrager folie kan produceren, die geschikt is voor de productie van kentekenplaten die voldoen aan de eisen, gesteld in de [Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md)    
+b.  een testrapport van een door de Dienst Wegverkeer aangewezen onderzoeksinstelling, waaruit blijkt, dat de aanvrager folie kan produceren, die geschikt is voor de productie van kentekenplaten die voldoen aan de eisen, gesteld in de [Regeling kentekens en kentekenplaten](../../../../ministeriele-regeling/regeling/kentekens/en/kentekenplaten/BWBR0009071/README.md) en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md)   
 
 ### Artikel  5  
 
@@ -70,11 +84,11 @@ Alvorens de erkenninghouder overgaat tot aflevering van folie controleert hij of
 1.  Folie wordt uitsluitend afgeleverd aan erkende lamineerders.   
 2.  Bij de aflevering is de folie voorzien van een document, waarin in ieder geval zijn vermeld: 
 
-a. de hoeveelheid en de soort folie, onderverdeeld naar kleur en model;  
+a.  de hoeveelheid en de soort folie, onderverdeeld naar kleur en model; 
 
-b. de datum van levering, en  
+b.  de datum van levering, en 
 
-c. de naam en het adres van de afnemer.     
+c.  de naam en het adres van de afnemer.    
 3.  Van het in het derde lid bedoelde document wordt gedurende twee jaren een afschrift bewaard.   
 4.  Indien de lamineerder door hem afgekeurde folie retourneert aan de erkenninghouder, is deze verplicht desgevraagd een ontvangstbevestiging af te geven.   
 
@@ -82,7 +96,7 @@ c. de naam en het adres van de afnemer.
 
 ####Toezicht
 
-Op verzoek van de RDW legt de erkenninghouder een rapport over van een door de RDW aangewezen onderzoeksinstelling, waaruit blijkt dat een door de RDW bij een lamineerder geselecteerde, door de erkenninghouder geproduceerde, folie geschikt is voor de productie van kentekenplaten die voldoen aan de eisen, gesteld in de Regeling kentekens en kentekenplaten en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md)  
+Op verzoek van de Dienst Wegverkeer legt de erkenninghouder een rapport over van een door de Dienst Wegverkeer aangewezen onderzoeksinstelling, waaruit blijkt dat een door de Dienst Wegverkeer bij een lamineerder geselecteerde, door de erkenninghouder geproduceerde, folie geschikt is voor de productie van kentekenplaten die voldoen aan de eisen, gesteld in de Regeling kentekens en kentekenplaten en de [Regeling eisen goedkeuring kentekenplaten 2000](../../../../ministeriele-regeling/regeling/eisen/goedkeuring/kentekenplaten/2000/BWBR0012172/README.md).  
 
 ### Artikel  10  
 
@@ -101,9 +115,9 @@ Deze regeling treedt in werking met ingang van de dag waarop de Wet van 6 oktobe
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Erkenningsregeling foliefabrikanten.  
+Deze regeling wordt aangehaald als: Erkenningsregeling foliefabrikanten. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

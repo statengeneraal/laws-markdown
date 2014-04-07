@@ -1,25 +1,25 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Burgerlijk Wetboek Boek 7A, Bijzondere overeenkomsten (vervolg)
+##Burgerlijk Wetboek Boek 7A, Bijzondere overeenkomsten (vervolg) 
 
 ### Boek  7a  
 
-####Bijzondere overeenkomsten; vervolg
+####Bijzondere overeenkomsten; vervolg 
 
 ### Vijfde titel  A  
 
-####Van koop en verkoop op afbetaling
+####Van koop en verkoop op afbetaling 
 
 ### Afdeling  1  
 
-####Van koop en verkoop op afbetaling in het algemeen
+####Van koop en verkoop op afbetaling in het algemeen 
 
 ### Artikel  1576  
 
-1.  Koop en verkoop op afbetaling is de koop en verkoop, waarbij partijen overeenkomen dat de koopprijs wordt betaald in termijnen, waarvan twee of meer verschijnen, nadat de verkochte zaak aan de koper is afgeleverd.   
-2.  De overeenkomst is niet van kracht voordat partijen de door de koper te betalen prijs hebben bepaald.   
-3.  Alle overeenkomsten, welke dezelfde strekking hebben, onder welke vorm of welke benaming ook aangegaan, worden als koop en verkoop op afbetaling aangemerkt.   
-4.  Koop en verkoop op afbetaling in de zin der wet zijn niet de overeenkomsten welke betrekking hebben op: 
+1.  Koop en verkoop op afbetaling is de koop en verkoop, waarbij partijen overeenkomen dat de koopprijs wordt betaald in termijnen, waarvan twee of meer verschijnen, nadat de verkochte zaak aan de koper is afgeleverd.    
+2.  De overeenkomst is niet van kracht voordat partijen de door de koper te betalen prijs hebben bepaald.    
+3.  Alle overeenkomsten, welke dezelfde strekking hebben, onder welke vorm of welke benaming ook aangegaan, worden als koop en verkoop op afbetaling aangemerkt.    
+4.  Koop en verkoop op afbetaling in de zin der wet zijn niet de overeenkomsten welke betrekking hebben op:  
 
 a. onroerende zaken,  
 
@@ -28,7 +28,7 @@ b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bru
 c. binnenschepen die te boek staan of die te boek gesteld moeten worden doch niet te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md),  
 
 d. luchtvaartuigen die te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).     
-5.  Het in deze titel bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.   
+5.  Het in deze titel bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.  
 
 ### Artikel  1576a  
 
@@ -36,13 +36,13 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 ### Artikel  1576b  
 
-1.  Bedingen, waarbij of krachtens welke den schuldenaar, voor het geval hij eenige verplichting uit de overeenkomst niet vervult, de betaling van zekere som als schadevergoeding of eenige straf wordt of kan worden opgelegd, kunnen alleen bij schriftelijk aangegane overeenkomst worden gemaakt.   
+1.  Bedingen, waarbij of krachtens welke den schuldenaar, voor het geval hij eenige verplichting uit de overeenkomst niet vervult, de betaling van zekere som als schadevergoeding of eenige straf wordt of kan worden opgelegd, kunnen alleen bij schriftelijk aangegane overeenkomst worden gemaakt.    
 2.  Indien de overeengekomen of opgelegde schadevergoeding of straf den rechter bovenmatig voorkomt, kan deze haar, ten aanzien van het hem voorgelegde geval, verminderen of opheffen.   
 
 ### Artikel  1576c  
 
-1.  Vervroegde opeischbaarheid, als straf wegens nalatigheid van den kooper in het betalen van termijnen, kan alleen bedongen worden voor het geval de achterstand bedraagt, ten aanzien van één termijn tenminste een tiende, of ten aanzien van meer termijnen gezamenlijk tenminste een twintigste deel van den geheelen koopprijs.   
-2.  Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.   
+1.  Vervroegde opeischbaarheid, als straf wegens nalatigheid van den kooper in het betalen van termijnen, kan alleen bedongen worden voor het geval de achterstand bedraagt, ten aanzien van één termijn tenminste een tiende, of ten aanzien van meer termijnen gezamenlijk tenminste een twintigste deel van den geheelen koopprijs.    
+2.  Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.    
 3.  Het tweede lid van artikel 1576b is hier niet van toepassing.   
 
 ### Artikel  1576d  
@@ -51,9 +51,9 @@ Op eenig beding, als bedoeld in de voorafgaande twee artikelen, kan wegens niet 
 
 ### Artikel  1576f  
 
-1.  Overdracht, inpandgeving of elke andere handeling, waardoor de kooper aan den verkooper of aan een derde eenig recht toekent op zijn loon, pensioen of andere periodieke inkomsten wegens arbeidsovereenkomst, kan ter zake van koop en verkoop op afbetaling, behalve voor opeischbare verplichtingen, alleen geschieden voor betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst zal gehouden zijn, en voor de kosten.   
-2.  De handeling heeft alsdan geene werking dan naar gelang bedoelde termijnen verschijnen overeenkomstig een bij schriftelijke overeenkomst vastgelegd plan van regelmatige afbetaling of naar gelang er kosten vallen, telkens tot het beloop daarvan.   
-3.  Bovendien is vereischt, dat de kooper, na in gebreke te zijn gesteld, nalatig is gebleven. Alleen de termijnen en kosten, waarover de ingebrekestelling is geschied, en die, welke daarna verschijnen, komen in aanmerking bij het bepalen van bedoelde werking.   
+1.  Overdracht, inpandgeving of elke andere handeling, waardoor de kooper aan den verkooper of aan een derde eenig recht toekent op zijn loon, pensioen of andere periodieke inkomsten wegens arbeidsovereenkomst, kan ter zake van koop en verkoop op afbetaling, behalve voor opeischbare verplichtingen, alleen geschieden voor betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst zal gehouden zijn, en voor de kosten.    
+2.  De handeling heeft alsdan geene werking dan naar gelang bedoelde termijnen verschijnen overeenkomstig een bij schriftelijke overeenkomst vastgelegd plan van regelmatige afbetaling of naar gelang er kosten vallen, telkens tot het beloop daarvan.    
+3.  Bovendien is vereischt, dat de kooper, na in gebreke te zijn gesteld, nalatig is gebleven. Alleen de termijnen en kosten, waarover de ingebrekestelling is geschied, en die, welke daarna verschijnen, komen in aanmerking bij het bepalen van bedoelde werking.    
 4.  Ten aanzien van hem, die de uitkeering wegens arbeidsovereenkomst verschuldigd is, heeft de handeling geen gevolg, alvorens de ingebrekestelling van den kooper en het plan van regelmatige afbetaling met opgave van hetgeen daarop voldaan is en van de gevorderde kosten schriftelijk te zijner kennis zijn gebracht, dan wel schriftelijk door hem zijn erkend. Betalingen, dienovereenkomstig te goeder trouw door hem gedaan, bevrijden hem tegenover den kooper.   
 
 ### Artikel  1576g  
@@ -62,26 +62,26 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ### Afdeling  2  
 
-####Van huurkoop
+####Van huurkoop 
 
 ### Artikel  1576h  
 
-1.  Huurkoop is de koop en verkoop op afbetaling, waarbij partijen overeenkomen, dat de verkochte zaak niet door enkele aflevering in eigendom overgaat, maar pas door vervulling van de opschortende voorwaarde van algehele betaling van wat door de koper uit hoofde van de koopovereenkomst verschuldigd is.   
-2.  Alle overeenkomsten, welke dezelfde strekking hebben, hetzij als huur en verhuur, hetzij onder anderen vorm of andere benaming aangegaan, worden als huurkoop aangemerkt.   
+1.  Huurkoop is de koop en verkoop op afbetaling, waarbij partijen overeenkomen, dat de verkochte zaak niet door enkele aflevering in eigendom overgaat, maar pas door vervulling van de opschortende voorwaarde van algehele betaling van wat door de koper uit hoofde van de koopovereenkomst verschuldigd is.    
+2.  Alle overeenkomsten, welke dezelfde strekking hebben, hetzij als huur en verhuur, hetzij onder anderen vorm of andere benaming aangegaan, worden als huurkoop aangemerkt.    
 3.  Onder huurkoop is begrepen de overeenkomst, waarbij ter zake van een koop en verkoop een derde, die den eigendom der zaak verwerft, aan den kooper crediet verleent des dat het geheel van handelingen de strekking van huurkoop erlangt.   
 
 ### Artikel  1576i  
 
-1.  Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van artikel 1576j.   
-2.  Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.   
-3.  Wordt de overeenkomst aangegaan bij onderhandsche akte, dan moet deze, zoo de kooper dit verlangt, in dubbel worden opgemaakt.   
-4.  Het dubbel, of zoo dit niet is opgemaakt, een authentiek of door den verkooper onderteekend afschrift, wordt zoo spoedig mogelijk na het sluiten van de overeenkomst door den verkooper aan den kooper verstrekt.   
+1.  Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van artikel 1576j.    
+2.  Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.    
+3.  Wordt de overeenkomst aangegaan bij onderhandsche akte, dan moet deze, zoo de kooper dit verlangt, in dubbel worden opgemaakt.    
+4.  Het dubbel, of zoo dit niet is opgemaakt, een authentiek of door den verkooper onderteekend afschrift, wordt zoo spoedig mogelijk na het sluiten van de overeenkomst door den verkooper aan den kooper verstrekt.    
 5.  Verder afschrift kan de kooper te allen tijde tegen betaling van de kosten vorderen.   
 
 ### Artikel  1576j  
 
-1.  De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in artikel 1576c, het plan van regelmatige afbetaling, als bedoeld in artikel 1576f, en de bedingen betreffende voorbehoud en overgang van eigendom.   
-2.  In de gevallen, bedoeld in het tweede en het derde lid van artikel 1576h, treden de overeenkomstige gegevens hiervoor in de plaats.   
+1.  De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in artikel 1576c, het plan van regelmatige afbetaling, als bedoeld in artikel 1576f, en de bedingen betreffende voorbehoud en overgang van eigendom.    
+2.  In de gevallen, bedoeld in het tweede en het derde lid van artikel 1576h, treden de overeenkomstige gegevens hiervoor in de plaats.    
 3.  Ontbreekt eene akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan den kooper overgaat.   
 
 ### Artikel  1576k  
@@ -90,21 +90,21 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 
 ### Artikel  1576l  
 
-1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van de [eerste](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [tweede](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [derde afdeling van titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing.   
+1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van de [eerste](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [tweede](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [derde afdeling van titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing.    
 2.  Vervreemding door den verkooper van de in huurkoop afgeleverde zaak werkt niet ten nadeele van den huurkooper.   
 
 ### Artikel  1576m  
 
-1.  De kooper heeft van de zaak, die hij krachtens huurkoop onder zich heeft, het genot, ook voordat hij den eigendom daarvan verkrijgt.   
-2.  Hij mag de zaak gebruiken overeenkomstig hare bestemming.   
+1.  De kooper heeft van de zaak, die hij krachtens huurkoop onder zich heeft, het genot, ook voordat hij den eigendom daarvan verkrijgt.    
+2.  Hij mag de zaak gebruiken overeenkomstig hare bestemming.    
 3.  Hare gedaante of inrichting mag hij niet veranderen, noch de zaak verhuren of zijn genot aan anderen afstaan.   
 4.  De zaak is voor risico van de koper van de aflevering af. De [leden 2, 3 en 4 van artikel 10 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van toepassing.   
 5.  Van deze bepalingen kan bij overeenkomst worden afgeweken. Van lid 4 kan echter bij een consumentenkoop niet ten nadele van de koper worden afgeweken.   
 
 ### Artikel  1576n  
 
-1.  De vruchten, welke de zaak tijdens het genot oplevert, behooren den kooper toe. Voorzoover bij de akte van huurkoop hiervan is afgeweken, heeft de kooper niettemin het genot der vruchten, indien niet anders is overeengekomen.   
-2.  De burgerlijke vruchten worden, voor zoover niet anders is overeengekomen, gerekend van dag tot dag verkregen te worden en den kooper toe te behooren, naarmate zijn genot duurt, welk ook het tijdstip moge wezen, waarop dezelve betaalbaar zijn.   
+1.  De vruchten, welke de zaak tijdens het genot oplevert, behooren den kooper toe. Voorzoover bij de akte van huurkoop hiervan is afgeweken, heeft de kooper niettemin het genot der vruchten, indien niet anders is overeengekomen.    
+2.  De burgerlijke vruchten worden, voor zoover niet anders is overeengekomen, gerekend van dag tot dag verkregen te worden en den kooper toe te behooren, naarmate zijn genot duurt, welk ook het tijdstip moge wezen, waarop dezelve betaalbaar zijn.    
 3.  De verplichting tot teruggave van de in huurkoop afgeleverde zaak omvat die tot teruggave van de vruchten, welke den verkooper toebehooren.   
 
 ### Artikel  1576q  
@@ -129,10 +129,10 @@ Indien bij ontbinding der overeenkomst de kooper recht mocht hebben op eenige te
 
 ### Artikel  1576v  
 
-1.  Indien wegens niet betaling van verschenen termijnen de in huurkoop afgeleverde zaak is teruggenomen zonder voorafgaande rechterlijke tusschenkomst, kan de kooper gedurende veertien dagen na de terugneming de zaak inlossen, door betaling van de verschenen termijnen en de verschuldigde rente, boeten en kosten.   
-2.  Mocht de overeenkomst zijn ontbonden, dan wordt dit door de inlossing ongedaan gemaakt.   
+1.  Indien wegens niet betaling van verschenen termijnen de in huurkoop afgeleverde zaak is teruggenomen zonder voorafgaande rechterlijke tusschenkomst, kan de kooper gedurende veertien dagen na de terugneming de zaak inlossen, door betaling van de verschenen termijnen en de verschuldigde rente, boeten en kosten.    
+2.  Mocht de overeenkomst zijn ontbonden, dan wordt dit door de inlossing ongedaan gemaakt.    
 3.  Bij herhaling van het in het eerste lid genoemde geval heeft de kooper het recht van inlossing alleen onder volledige betaling.   
-4.  Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van artikel 1576r aanleiding zouden geven.   
+4.  Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van artikel 1576r aanleiding zouden geven.    
 5.  Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.   
 
 ### Artikel  1576w  
@@ -141,68 +141,80 @@ In het vonnis, waarbij de verplichting tot teruggave van eene in huurkoop afgele
 
 ### Artikel  1576x  
 
-1.  Bij het vonnis, dat bevel tot teruggave uit kracht van huurkoop inhoudt, kan de geldswaarde der terug te geven zaak worden vastgesteld.   
+1.  Bij het vonnis, dat bevel tot teruggave uit kracht van huurkoop inhoudt, kan de geldswaarde der terug te geven zaak worden vastgesteld.    
 2.  In dat geval kan de tenuitvoerlegging ook door uitwinning geschieden.   
 
 ### Zevende  titel  
 
-####Van huur en verhuur
+####Van huur en verhuur 
 
 ### Eerste  afdeeling  
 
-####Algemeene bepaling
+####Algemeene bepaling 
+
+Vervallen per 01-08-2003 
 
 ### Tweede  afdeeling  
 
-####Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken
+####Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken 
+
+Vervallen per 01-08-2003 
 
 ### Derde  afdeeling  
 
-####Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
+####Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad 
+
+Vervallen per 01-08-2003 
 
 ### Vierde  afdeling  
 
-####Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
+####Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte 
+
+Vervallen per 01-08-2003 
 
 ### Vijfde  afdeling  
 
-####Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
+####Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte 
+
+Vervallen per 01-05-2004 
 
 ### Zevende titel  A  
 
 ### Eerste  afdeeling  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
 
 ### Tweede  afdeeling  
 
-####Van de arbeidsovereenkomst in het algemeen
+####Van de arbeidsovereenkomst in het algemeen 
 
 ### Derde  afdeeling  
 
-####Van de verplichtingen des werkgevers
+####Van de verplichtingen des werkgevers 
 
 ### Vierde  afdeeling  
 
-####Van de verplichtingen des arbeiders
+####Van de verplichtingen des arbeiders 
 
 ### Vijfde  afdeeling  
 
-####Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
+####Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt 
 
 ### Vijfde afdeling  A  
 
 ### Zesde  afdeeling  
 
-####Van aanneming van werk
+####Van aanneming van werk 
+
+Vervallen per 01-09-2003 
 
 ### Negende  titel  
 
-####Van maatschap
+####Van maatschap 
 
 ### Eerste  afdeeling  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
 
 ### Artikel  1655  
 
@@ -226,7 +238,7 @@ De bijzondere maatschap is de zoodanige welke slechts betrekking heeft tot zeker
 
 ### Tweede  afdeeling  
 
-####Van de verbindtenissen der vennooten onderling
+####Van de verbindtenissen der vennooten onderling 
 
 ### Artikel  1661  
 
@@ -234,7 +246,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 ### Artikel  1662  
 
-1.  De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.   
+1.  De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.    
 2.  Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de artikelen 1584-1623 van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.   
 
 ### Artikel  1665  
@@ -247,22 +259,22 @@ Indien een der vennooten zijn geheel aandeel in eene gemeene inschuld der maatsc
 
 ### Artikel  1670  
 
-1.  Indien bij de overeenkomst van maatschap het aandeel van ieder vennoot in de winsten en de verliezen niet is bepaald, is elks aandeel geëvenredigd aan hetgeen hij in de maatschap heeft ingebragt.   
+1.  Indien bij de overeenkomst van maatschap het aandeel van ieder vennoot in de winsten en de verliezen niet is bepaald, is elks aandeel geëvenredigd aan hetgeen hij in de maatschap heeft ingebragt.    
 2.  Ten aanzien van degenen die slechts zijne nijverheid heeft ingebragt, wordt het aandeel in de winsten en de verliezen berekend gelijk te staan met het aandeel van dengenen der vennooten die het minst heeft ingebragt.   
 
 ### Artikel  1671  
 
-1.  De vennooten kunnen niet bedingen dat zij de regeling der hoegrootheid van hun aandeel aan een hunner of aan eenen derde zullen overlaten.   
+1.  De vennooten kunnen niet bedingen dat zij de regeling der hoegrootheid van hun aandeel aan een hunner of aan eenen derde zullen overlaten.    
 2.  Een zoodanig beding wordt voorondersteld niet geschreven te zijn, en zullen alzoo de verordeningen van het voorgaande artikel worden in acht genomen.   
 
 ### Artikel  1672  
 
-1.  Het beding, waarbij aan een der vennooten alle de voordeelen mogten toegezegd zijn, is nietig.   
+1.  Het beding, waarbij aan een der vennooten alle de voordeelen mogten toegezegd zijn, is nietig.    
 2.  Maar het is geoorloofd te bedingen dat alle de verliezen bij uitsluiting door een of meer der vennooten zullen gedragen worden.   
 
 ### Artikel  1673  
 
-1.  De vennoot die bij een bijzonder beding van de overeenkomst van maatschap met het beheer belast is, kan, zelfs in weerwil der overige vennooten, alle daden verrigten, welke tot zijn beheer betrekkelijk zijn.   
+1.  De vennoot die bij een bijzonder beding van de overeenkomst van maatschap met het beheer belast is, kan, zelfs in weerwil der overige vennooten, alle daden verrigten, welke tot zijn beheer betrekkelijk zijn.    
 2.  Deze magt kan, zoo lang de maatschap duurt, niet zonder gewichtige reden herroepen worden; maar indien dezelve niet bij de overeenkomst der maatschap, maar bij eene latere akte, is gegeven, is zij, even als eene eenvoudige lastgeving, herroepelijk.   
 
 ### Artikel  1674  
@@ -275,13 +287,13 @@ Indien er bedongen is dat een der beheerders niets buiten den anderen zoude moge
 
 ### Artikel  1676  
 
-Bij gebreke van bijzondere bedingen omtrent de wijze van beheer, moeten de volgende regelen worden in acht genomen: 
+Bij gebreke van bijzondere bedingen omtrent de wijze van beheer, moeten de volgende regelen worden in acht genomen:  
 
-1°. De vennooten worden geacht zich over en weder de magt te hebben verleend om, de een voor den anderen, te beheeren. Hetgeen ieder van hen verrigt is ook verbindende voor het aandeel der overige vennooten, zonder dat hij hunne toestemming hebbe bekomen; onverminderd het regt van deze laatstgemelden, of van een hunner, om zich tegen de handeling, zoo lang die nog niet gesloten is, te verzetten;  
+1°. De vennooten worden geacht zich over en weder de magt te hebben verleend om, de een voor den anderen, te beheeren.  Hetgeen ieder van hen verrigt is ook verbindende voor het aandeel der overige vennooten, zonder dat hij hunne toestemming hebbe bekomen; onverminderd het regt van deze laatstgemelden, of van een hunner, om zich tegen de handeling, zoo lang die nog niet gesloten is, te verzetten;   
 
-2°. Ieder der vennooten mag gebruik maken van de goederen aan de maatschap toebehoorende, mits hij dezelve tot zoodanige einden gebruike, als waartoe zij gewoonlijk bestemd zijn, en mits hij zich van dezelve niet bediene tegen het belang der maatschap of op zoodanige wijze, dat de overige vennooten daardoor verhinderd worden om van die goederen, volgens hun regt, mede gebruik te maken;  
+2°. Ieder der vennooten mag gebruik maken van de goederen aan de maatschap toebehoorende, mits hij dezelve tot zoodanige einden gebruike, als waartoe zij gewoonlijk bestemd zijn, en mits hij zich van dezelve niet bediene tegen het belang der maatschap of op zoodanige wijze, dat de overige vennooten daardoor verhinderd worden om van die goederen, volgens hun regt, mede gebruik te maken;   
 
-3°. Ieder vennoot heeft de bevoegdheid om de overige vennooten te verpligten in de onkosten te dragen, welke tot behoud der aan de maatschap behoorende goederen noodzakelijk zijn;  
+3°. Ieder vennoot heeft de bevoegdheid om de overige vennooten te verpligten in de onkosten te dragen, welke tot behoud der aan de maatschap behoorende goederen noodzakelijk zijn;   
 
 4°. Geen der vennooten kan, zonder toestemming der overige, eenige nieuwigheden daarstellen ten aanzien der onroerende zaken, welke tot de maatschap behooren, al beweerde hij ook dat dezelve voor de maatschap voordeelig waren.    
 
@@ -291,7 +303,7 @@ Elk der vennooten mag, zelfs zonder toestemming der overige, eenen derden persoo
 
 ### Derde  afdeeling  
 
-####Van de verbindtenissen der vennooten ten aanzien van derden
+####Van de verbindtenissen der vennooten ten aanzien van derden 
 
 ### Artikel  1679  
 
@@ -311,63 +323,73 @@ Indien een der vennooten in naam der maatschap eene overeenkomst heeft aangegaan
 
 ### Vierde  afdeeling  
 
-####Van de verschillende wijzen waarop de maatschap eindigt
+####Van de verschillende wijzen waarop de maatschap eindigt 
 
 ### Artikel  1683  
 
-Een maatschap wordt ontbonden: 
+Een maatschap wordt ontbonden:  
 
-1°. Door verloop van den tijd voor welken dezelve is aangegaan;  
+1°. Door verloop van den tijd voor welken dezelve is aangegaan;   
 
-2°. Door het tenietgaan van een goed of de volbrenging der handeling, die het onderwerp der maatschap uitmaakt;  
+2°. Door het tenietgaan van een goed of de volbrenging der handeling, die het onderwerp der maatschap uitmaakt;   
 
-3°. Door opzegging van een vennoot aan de andere vennoten;  
+3°. Door opzegging van een vennoot aan de andere vennoten;   
 
 4°. Door den dood of de curatele van één hunner, of indien hij in staat van faillissement is verklaard dan wel ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard.    
 
 ### Artikel  1684  
 
-1.  De rechter kan op vordering van ieder der vennoten de maatschap wegens gewichtige redenen ontbinden.   
-2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van [artikel 277 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) tot schadevergoeding veroordelen.   
+1.  De rechter kan op vordering van ieder der vennoten de maatschap wegens gewichtige redenen ontbinden.    
+2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van [artikel 277 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) tot schadevergoeding veroordelen.    
 3.  De [artikelen 265-279 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn op een maatschap niet van toepassing.   
 
 ### Artikel  1686  
 
-1.  Een opzegging is vernietigbaar, indien zij in strijd met de redelijkheid en billijkheid is geschied.   
+1.  Een opzegging is vernietigbaar, indien zij in strijd met de redelijkheid en billijkheid is geschied.    
 2.  Een vennootschap voor bepaalde tijd of voor een bepaald werk aangegaan, kan niet worden opgezegd, tenzij dit is bedongen.   
 
 ### Artikel  1688  
 
-1.  Indien bedongen is, dat, in geval van overlijden van een der vennooten, de maatschap met deszelfs erfgenaam, of alleen tusschen de overblijvende vennooten, zoude voortduren, moet dat beding worden nagekomen.   
+1.  Indien bedongen is, dat, in geval van overlijden van een der vennooten, de maatschap met deszelfs erfgenaam, of alleen tusschen de overblijvende vennooten, zoude voortduren, moet dat beding worden nagekomen.    
 2.  In het tweede geval, heeft de erfgenaam des overledenen geen verder regt dan op de verdeeling der maatschap, overeenkomstig de gesteldheid waarin dezelve zich ten tijde van dat overlijden bevond; doch hij deelt in de voordeelen en draagt in de verliezen, die de noodzakelijke gevolgen zijn van verrigtingen, welke vóór het overlijden van den vennoot, wiens erfgenaam hij is, hebben plaats gehad.   
 
 ### Elfde  titel  
 
 ####Vervallen
 
+Vervallen per 01-01-2003 
+
 ### Eerste  afdeeling  
 
 ####Vervallen
+
+Vervallen per 01-01-2003 
 
 ### Tweede  afdeeling  
 
 ####Vervallen
 
+Vervallen per 01-01-2003 
+
 ### Derde  afdeeling  
 
 ####Vervallen
+
+Vervallen per 01-01-2003 
 
 ### Vierde  afdeeling  
 
 ####Vervallen
 
+Vervallen per 01-01-2003 
+
 ### Dertiende  titel  
 
-####Van bruikleening
+####Van bruikleening 
 
 ### Eerste  afdeeling  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
 
 ### Artikel  1777  
 
@@ -384,11 +406,11 @@ De uitleener blijft eigenaar van de geleende zaak.
 
 ### Tweede  afdeeling  
 
-####Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
+####Van de verpligtingen van dengenen die iets ter bruikleening ontvangt 
 
 ### Artikel  1781  
 
-1.  Die iets ter leen ontvangt is gehouden, als een goed huisvader, voor de bewaring en het behoud van de geleende zaak te zorgen.   
+1.  Die iets ter leen ontvangt is gehouden, als een goed huisvader, voor de bewaring en het behoud van de geleende zaak te zorgen.    
 2.  Hij mag daarvan geen ander gebruik maken dan hetwelk de aard der zaak medebrengt, of bij de overeenkomst bepaald is.   
 
 ### Artikel  1782  
@@ -413,7 +435,7 @@ Indien een zaak in bruikleen is gegeven aan twee of meer personen tezamen, zijn 
 
 ### Derde  afdeeling  
 
-####Van de verpligtingen van den uitleener
+####Van de verpligtingen van den uitleener 
 
 ### Artikel  1787  
 
@@ -433,11 +455,11 @@ Indien de ter leen gegevene zaak zoodanige gebreken heeft, dat daardoor aan deng
 
 ### Veertiende  titel  
 
-####Van verbruikleening
+####Van verbruikleening 
 
 ### Eerste  afdeeling  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
 
 ### Artikel  1791  
 
@@ -453,7 +475,7 @@ De schuld, uit leening van geld voortspruitende, bestaat alleen in de geldsom di
 
 ### Tweede  afdeeling  
 
-####Van de verpligtingen des uitleeners
+####Van de verpligtingen des uitleeners 
 
 ### Artikel  1796  
 
@@ -473,7 +495,7 @@ De bepaling van artikel 1790 is op verbruikleening toepasselijk.
 
 ### Derde  afdeeling  
 
-####Van de verpligtingen des leeners
+####Van de verpligtingen des leeners 
 
 ### Artikel  1800  
 
@@ -481,12 +503,12 @@ Die iets ter leen ontvangt is verpligt hetzelve, in gelijke hoeveelheid en hoeda
 
 ### Artikel  1801  
 
-1.  Indien hij zich in de onmogelijkheid bevindt om hieraan te voldoen, is hij gehouden de waarde van het geleende te betalen, waarbij zal moeten in aanmerking genomen worden de tijd en de plaats, waarop het goed, ten gevolge der overeenkomst, had moeten worden terug gegeven.   
+1.  Indien hij zich in de onmogelijkheid bevindt om hieraan te voldoen, is hij gehouden de waarde van het geleende te betalen, waarbij zal moeten in aanmerking genomen worden de tijd en de plaats, waarop het goed, ten gevolge der overeenkomst, had moeten worden terug gegeven.    
 2.  Indien deze tijd en plaats niet bepaald zijn, moet de voldoening geschieden overeenkomstig de waarde welke het geleende goed, ten tijde waarop en ter plaatse alwaar de leening geschied is, gehad heeft.   
 
 ### Vierde  afdeeling  
 
-####Van het ter leen geven op interessen
+####Van het ter leen geven op interessen 
 
 ### Artikel  1804  
 
@@ -502,7 +524,7 @@ Het bewijs van de betaling der hoofdsom zonder voorbehoud van rente gegeven zijn
 
 ### Vijftiende  titel  
 
-####Van gevestigde of altijddurende renten
+####Van gevestigde of altijddurende renten 
 
 ### Artikel  1807  
 
@@ -510,16 +532,16 @@ Het vestigen eener altijddurende rente is eene overeenkomst, waarbij de uitleene
 
 ### Artikel  1808  
 
-1.  Deze rente is uit haren aard aflosbaar.   
+1.  Deze rente is uit haren aard aflosbaar.    
 2.  Partijen kunnen alleenlijk overeenkomen dat de aflossing niet geschieden zal dan na verloop van eenen zekeren tijd, welke niet langer dan voor tien jaren mag gesteld worden, of zonder dat zij den schuldeischer vooraf verwittigd hebben op eenen zekeren, door hen bevorens vastgestelden termijn, welke echter den tijd van een jaar niet zal mogen te boven gaan.   
 
 ### Artikel  1809  
 
-De schuldenaar eener altijddurende rente kan tot de aflossing genoodzaakt worden: 
+De schuldenaar eener altijddurende rente kan tot de aflossing genoodzaakt worden:  
 
-1°. Indien hij niets betaald heeft op de gedurende twee achtereenvolgende jaren verschuldigde renten;  
+1°. Indien hij niets betaald heeft op de gedurende twee achtereenvolgende jaren verschuldigde renten;   
 
-2°. Indien hij verzuimt aan den geldschieter de bij de overeenkomst beloofde zekerheid te bezorgen;  
+2°. Indien hij verzuimt aan den geldschieter de bij de overeenkomst beloofde zekerheid te bezorgen;   
 
 3°. Indien hij in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard.    
 
@@ -529,19 +551,23 @@ In de twee eerste gevallen, bij het vorige artikel vermeld, kan de schuldenaar z
 
 ### Zestiende  titel  
 
-####Van kans-overeenkomsten
+####Van kans-overeenkomsten 
 
 ### Eerste  afdeeling  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
+
+Vervallen per 01-01-2006 
 
 ### Tweede  afdeeling  
 
-####Van de overeenkomst van lijfrenten en derzelver gevolgen
+####Van de overeenkomst van lijfrenten en derzelver gevolgen 
+
+Vervallen per 01-01-2006 
 
 ### Derde  afdeeling  
 
-####Van spel en weddingschap
+####Van spel en weddingschap 
 
 ### Artikel  1825  
 
@@ -549,7 +575,7 @@ De wet staat geene regtsvordering toe, ter zake van eene schuld uit spel of uit 
 
 ### Artikel  1826  
 
-1.  Onder de hier-boven staande bepaling zijn echter niet begrepen die spelen welke geschikt zijn tot ligchaamsoefening, als het schermen, wedloopen en dergelijke.   
+1.  Onder de hier-boven staande bepaling zijn echter niet begrepen die spelen welke geschikt zijn tot ligchaamsoefening, als het schermen, wedloopen en dergelijke.    
 2.  Niettemin kan de regter den eisch ontzeggen of verminderen, wanneer hem de som overmatig toeschijnt.   
 
 ### Artikel  1827  
@@ -562,16 +588,16 @@ In geen geval, kan hij die het verlorene vrijwillig betaald heeft hetzelve terug
 
 ### Zeventiende  titel  
 
-####Van lastgeving
+####Van lastgeving 
 
 ### Negentiende  titel  
 
-####Van dading
+####Van dading 
 
-####Algemene slotbepaling
+####Algemene slotbepaling 
 
 ### Artikel  2031  
 
-1.  De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [281, tweede lid van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [252 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), alsmede in [titel 10 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+1.  De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [281, tweede lid van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [252 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), alsmede in [titel 10 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
 2.  Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.   
 
