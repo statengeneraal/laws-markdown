@@ -17,11 +17,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, minister van Economische Zaken, Landbouw en Innovatie,  
+a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, minister van Economische Zaken, Landbouw en Innovatie,  
 
-b. *wet:*[Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+b.  *wet:* [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
-c. *besluit:*[Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).    
+c.  *besluit:* [Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -38,14 +38,14 @@ c. *besluit:*[Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web
 1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten voor het Christelijk Instituut voor Doven ‘Effatha’ en het Instituut voor Doven ‘Sint-Michielsgestel’ vast, ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in [artikel 2.1.3 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
 2.  De [artikelen 2.2.1 tot en met 2.2.7](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [artikel 2.4.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) zijn van toepassing ten aanzien van de in het eerste lid genoemde instituten.   
 3.  De minister verhoogt de uitkomst van de berekening, bedoeld in het tweede lid, tot de hoogte van het totaal van de rijksbijdragen voor 1999, berekend op grond van de artikelen 9, 14b en 14i van de Overgangsregeling bekostiging beroepsonderwijs WEB tot 2000, zoals die luidde op 31 december 1999 en de Regeling bekostiging huisvesting BVE-sector, zoals die luidde op 31 december 1999.   
-4.  [Artikel 2.6.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van toepassing.   
+4.  [Artikel 2.6.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van toepassing.  
 
 ### Artikel  2.1.2  
 
 ####Begroting, verslaglegging, informatie en toezicht
 
 1.  Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.   
-2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.   
+2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), is van overeenkomstige toepassing op de instituten, bedoeld in artikel 2.1.1.  
 
 ### Artikel  2.1.3  
 
@@ -83,7 +83,7 @@ l. de opneming in het Centraal register;
 
 m. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-n. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+n. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### §  2  
 
@@ -94,14 +94,14 @@ n. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 ####Voorschriften bekostiging beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
 
 1.  In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), verbonden aan de Hogeschool Haarlem, dan wel diens rechtsopvolgers voor wat betreft de opleidingen in de beroepsopleidende leerweg, vast. Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in [artikel 2.1.3 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
-2.  De [artikelen 12.4.1](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.4.2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 2.2.1 tot en met 2.2.7](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [2.4.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) zijn van toepassing ten aanzien van de hogeschool, bedoeld in het eerste lid.   
+2.  De [artikelen 12.4.1](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.4.2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 2.2.1 tot en met 2.2.7](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [2.4.1 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) zijn van toepassing ten aanzien van de hogeschool, bedoeld in het eerste lid.  
 
 ### Artikel  2.2.2  
 
 ####Begroting, verslaglegging, informatie en toezicht
 
 1.  Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.   
-2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.   
+2.  Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), alsmede de [Bijlagen 1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), [1c](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [4 behorende bij het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) is van overeenkomstige toepassing op de hogeschool, bedoeld in artikel 2.2.1.  
 
 ### Artikel  2.2.3  
 
@@ -115,7 +115,7 @@ b. de kwaliteitszorg, bedoeld in [artikel 1.3.6 van de wet](../../../../../wet/w
 
 c. de contractactiviteiten, bedoeld in [artikel 1.7.1 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-d. de voorschriften inzake de leerlinggebondenfinanciering in het beroepsonderwijs, bedoeld in de [artikelen 2.2.5 tot en met 2.2.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. de voorschriften inzake de leerlinggebondenfinanciering in het beroepsonderwijs, bedoeld in de [artikelen 2.2.5 tot en met 2.2.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
 
 e. het persoonsgebonden nummer, bedoeld in de [artikelen 2.3.6a tot en met 2.3.6.d van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
@@ -137,7 +137,7 @@ m. de opneming in het Centraal register;
 
 n. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Hoofdstuk  3  
 
@@ -153,7 +153,7 @@ o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 
 1.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, tweede lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), bedraagt € 496,– per leerling aan een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 2.  Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, derde lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), bedraagt € 469,33 per leerling verbonden aan het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-3.  De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
+3.  De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.  
 
 ### Artikel  3.1.2  
 
@@ -179,7 +179,7 @@ a. het bedrag in het eerste lid wordt met hetzelfde percentage aangepast als waa
 
 b. de bedragen voor personele kosten, bedoeld in het tweede lid, worden aangepast met hetzelfde percentage als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-c. de bedragen voor materiële kosten, bedoeld in het tweede lid, worden jaarlijks aangepast met het gemiddelde van de percentages waarmee de bedragen voor het voorbereidend beroepsonderwijs worden aangepast op grond van [artikel 86, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+c. de bedragen voor materiële kosten, bedoeld in het tweede lid, worden jaarlijks aangepast met het gemiddelde van de percentages waarmee de bedragen voor het voorbereidend beroepsonderwijs worden aangepast op grond van [artikel 86, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
 
 ### Artikel  3.1.4  
 
@@ -193,7 +193,7 @@ b. Helpende breed (Crebonummer 91340)
 
 c. Helpende (Sociaal-agogisch werk) (Crebonummer 91352) en  
 
-d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).    
+d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
 
 ### §  2  
 
@@ -208,7 +208,7 @@ d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn
 a. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met de factor 1 wordt vermenigvuldigd;  
 
 b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) met de factor 0,4 wordt vermenigvuldigd.     
-2.  Bij de toepassing van het eerste lid worden de deeltijds deelnemers, bedoeld in [artikel 2.1.2. van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), in de beroepsopleidende leerweg buiten beschouwing gelaten.   
+2.  Bij de toepassing van het eerste lid worden de deeltijds deelnemers, bedoeld in [artikel 2.1.2. van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), in de beroepsopleidende leerweg buiten beschouwing gelaten.  
 
 ### Hoofdstuk  4  
 
@@ -222,7 +222,7 @@ b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid
 
 ####Voorwaarde toekennen rijksbijdrage educatie aan gemeente
 
-De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de voorwaarde dat gedurende de periode van 1 januari tot en met 31 december van het jaar waarvoor de middelen worden toegekend, één of meer overeenkomsten als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van kracht zijn, op grond waarvan die gemeente zich verplicht tot toekenning en beschikbaarstelling van het totale bedrag van de rijksbijdrage educatie voor deze periode ten behoeve van activiteiten gedurende de looptijd van de overeenkomst of overeenkomsten.  
+De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de voorwaarde dat gedurende de periode van 1 januari tot en met 31 december van het jaar waarvoor de middelen worden toegekend, één of meer overeenkomsten als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van kracht zijn, op grond waarvan die gemeente zich verplicht tot toekenning en beschikbaarstelling van het totale bedrag van de rijksbijdrage educatie voor deze periode ten behoeve van activiteiten gedurende de looptijd van de overeenkomst of overeenkomsten. 
 
 ### Artikel  4.1.2  
 
@@ -234,7 +234,7 @@ a. tussen het gemeentebestuur en het bevoegd gezag van de instelling een redelij
 
 b. de schade is vergoed die de instelling lijdt doordat zij in vertrouwen op het voortduren van de overeenkomst anders heeft gehandeld dan zij bij vermindering met toepassing van een redelijke termijn zou hebben gedaan.     
 2.  Het eerste lid is van overeenkomstige toepassing op wijzigingen in de overeenkomst, bedoeld in het eerste lid.   
-3.  Het eerste lid is niet van toepassing indien de vermindering het gevolg is van een vermindering van de rijksbijdrage educatie voor de desbetreffende gemeente voor de desbetreffende periode.   
+3.  Het eerste lid is niet van toepassing indien de vermindering het gevolg is van een vermindering van de rijksbijdrage educatie voor de desbetreffende gemeente voor de desbetreffende periode.  
 
 ### Hoofdstuk  5  
 
@@ -271,42 +271,42 @@ c. de onder zijn beheer staande instelling, zonder een aanvullende vergoeding, b
 
 *Ht:* huurbedrag per vierkante meter brutovloeroppervlak van het betreffende gebouw;  
 
-*Nt:* normbedrag huurvergoeding per vierkante meter brutovloeroppervlak in het betreffende kalenderjaar, vastgesteld volgens de formule: Nt = (Lt/ L1999) x N 1999 In deze formule wordt verstaan onder:  
+*Nt:* normbedrag huurvergoeding per vierkante meter brutovloeroppervlak in het betreffende kalenderjaar, vastgesteld volgens de formule:  Nt = (Lt/ L1999) x N 1999 In deze formule wordt verstaan onder:  
 
 *Lt:* landelijk beschikbare budget voor de huisvestingskosten beroepsonderwijs in het betreffende kalenderjaar;  
 
 *L1999:* landelijk beschikbare budget voor de huisvestingskosten beroepsonderwijs in 1999;  
 
 *N1999:* normbedrag huurvergoeding per vierkante meter brutovloeroppervlak in 1999, zijnde € 52,90.     
-5.  Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.   
+5.  Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.  
 
 ### Artikel  5.2  
 
 ####Wijzigingen artikel 2.2.1  en 2.2.3  in verband met invoering leerlinggebonden financiering MBO
 
-Wijzigt deze regeling.   
+Wijzigt deze regeling. 
 
 ### Artikel  5.3  
 
 ####Intrekking regelingen
 
-1.  De [Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) wordt, met in achtneming van het tweede lid, ingetrokken.   
-2.  De [artikelen 5.3b](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4a van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met terugwerkende kracht met ingang van 1 januari 2008. De [artikelen 5.3c](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4b van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met ingang van 1 januari 2009. [Artikel 5.4c van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervalt met ingang van 1 januari 2010.   
-3.  De [Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector](../../../../../ministeriele-regeling/regeling/aanwijzing/bewijzen/van/voldoende/didactische/bekwaamheid/in/de/etc/BWBR0009539/README.md) wordt ingetrokken.   
+1.  De [Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) wordt, met in achtneming van het tweede lid, ingetrokken.  
+2.  De [artikelen 5.3b](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4a van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met terugwerkende kracht met ingang van 1 januari 2008. De [artikelen 5.3c](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) en [5.4b van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervallen met ingang van 1 januari 2009. [Artikel 5.4c van de Uitvoeringsregeling WEB](../../../../../ministeriele-regeling/uitvoeringsregeling/web/BWBR0010930/README.md) vervalt met ingang van 1 januari 2010.  
+3.  De [Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector](../../../../../ministeriele-regeling/regeling/aanwijzing/bewijzen/van/voldoende/didactische/bekwaamheid/in/de/etc/BWBR0009539/README.md) wordt ingetrokken.  
 
 ### Artikel  5.4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin deze is geplaatst en werkt terug tot en met 1 oktober 2007.  
+Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin deze is geplaatst en werkt terug tot en met 1 oktober 2007. 
 
 ### Artikel  5.5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling WEB 2007.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling WEB 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     

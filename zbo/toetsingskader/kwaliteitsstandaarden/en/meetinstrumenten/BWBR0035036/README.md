@@ -3,7 +3,7 @@
 ##Toetsingskader kwaliteitsstandaarden en meetinstrumenten
 
 Zorginstituut Nederland,  
-Gelet op artikel 66, tweede lid, van de Zorgverzekeringswet,
+Gelet op [artikel 66, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md),
 
 Overwegende dat,
 
@@ -42,7 +42,7 @@ A. Wanneer het meetinstrument een vragenlijst is, met als doel het leveren van k
 B. Wanneer het meetinstrument een indicator is, met als doel het leveren van keuze- informatie en/of zorginkoop met financiële consequenties, dan voldoet deze aan voorwaarden wat betreft inhoudsvaliditeit, vergelijkbaarheid en statistische betrouwbaarheid. Wanneer de indicator niet voldoet aan de voorwaarden wat betreft vergelijkbaarheid en/of statistische betrouwbaarheid, publiceren partijen informatie over de interpretatie en toepasbaarheid van de indicator. Ook hebben zij dan een tijdspad geformuleerd waaruit blijkt wanneer de indicator wel volledig aan dit criterium zal voldoen.     
 ### *Overgangscriterium voor kwaliteitsstandaarden en meetinstrumenten die voor 1 januari 2014 zijn ontwikkeld of op deze datum in een ver gevorderd stadium van ontwikkeling zijn.* 
 
-Het Zorginstituut toetst deze kwaliteitsstandaarden en meetinstrumenten niet aan criteria 1 en 2. Organisaties van cliënten, zorgaanbieders en zorgverzekeraars dragen de kwaliteitsstandaard of het meetinstrument gezamenlijk voor.  
+Het Zorginstituut toetst deze kwaliteitsstandaarden en meetinstrumenten niet aan criteria 1 en 2. Organisaties van cliënten, zorgaanbieders en zorgverzekeraars dragen de kwaliteitsstandaard of het meetinstrument gezamenlijk voor. 
 
 ### Artikel  2  
 
@@ -50,7 +50,7 @@ Het Zorginstituut toetst deze kwaliteitsstandaarden en meetinstrumenten niet aan
 
 1.  Deze beleidregel treedt in werking met ingang van 1 april 2014.   
 2.  Deze beleidsregel wordt aangehaald als: Toetsingskader kwaliteitsstandaarden en meetinstrumenten.   
-3.  Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.   
+3.  Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.  
 
 Voorzitter Raad van Bestuur 
 A. Moerkamp     

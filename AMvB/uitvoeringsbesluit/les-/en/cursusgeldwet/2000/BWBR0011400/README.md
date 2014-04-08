@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen, van 5 april 2000, nr. WJZ/2000/11620 (1711), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de artikelen 4, derde en vierde lid, 5, vierde lid, en 6, vierde en vijfde lid, van de Les- en cursusgeldwet;
+Gelet op de [artikelen 4, derde en vierde lid](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), [5, vierde lid](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), en [6, vierde en vijfde lid, van de Les- en cursusgeldwet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md);
 
 De Raad van State gehoord (advies van 4 mei 2000, nr. W05.00.0145/III);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: *cursist*: degene die een opleiding volgt als bedoeld in artikel 15, eerste lid, *cursusgeld:* krachtens artikel 15 vastgesteld bedrag, *cursusgeldplichtige*: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger, *lesgeld*: krachtens artikel 5, tweede lid, van de wet voor het desbetreffende schooljaar vastgestelde bedrag, *lesgeldplichtige*: degene die krachtens de wet lesgeld is verschuldigd, *onderwijsovereenkomst:* onderwijsovereenkomst, bedoeld in artikel 8.1.3 van de Wet educatie en beroepsonderwijs, *schooljaar*: tijdvak van 1 augustus tot en met 31 juli daaropvolgend, *teldatum*: bij of krachtens de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs of de Experimentenwet onderwijs aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld, *wet*: Les- en cursusgeldwet.  
+In dit besluit wordt verstaan onder:  *cursist*: degene die een opleiding volgt als bedoeld in artikel 15, eerste lid,  *cursusgeld: *krachtens artikel 15 vastgesteld bedrag,  *cursusgeldplichtige*: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,  *lesgeld*: krachtens [artikel 5, tweede lid, van de wet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) voor het desbetreffende schooljaar vastgestelde bedrag,  *lesgeldplichtige*: degene die krachtens de wet lesgeld is verschuldigd,*onderwijsovereenkomst:* onderwijsovereenkomst, bedoeld in [artikel 8.1.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  *schooljaar*: tijdvak van 1 augustus tot en met 31 juli daaropvolgend,  *teldatum*: bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de [Experimentenwet onderwijs](../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld,  *wet*: [Les- en cursusgeldwet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -32,13 +32,13 @@ In dit besluit wordt verstaan onder: *cursist*: degene die een opleiding volgt a
 
 1.  Het bevoegd gezag schrijft een leerling in voor een opleiding na ondertekening van een onderwijsovereenkomst. In de onderwijsovereenkomst verklaart de leerling zich bekend met de verplichting tot het betalen van lesgeld op grond van de wet.   
 2.  De lesgeldplicht gaat in op de eerste dag van het desbetreffende schooljaar of, indien de leerling in de loop van het schooljaar wordt ingeschreven, op de datum van inschrijving.   
-3.  Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijsovereenkomst als bewijs van inschrijving.   
+3.  Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijsovereenkomst als bewijs van inschrijving.  
 
 ### Artikel  3  
 
 ####Beëindiging inschrijving
 
-Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten.  
+Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten. 
 
 ### Artikel  4  
 
@@ -52,24 +52,24 @@ b. betaling ineens of in termijnen door een opdracht tot automatische incasso aa
 2.  Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in één termijn heeft verstrekt en de leerling voor 1 oktober van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven in de maand oktober van het schooljaar.   
 3.  Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in meer dan één termijn heeft verstrekt en de leerling voor 1 oktober van het schooljaar wordt ingeschreven, wordt van het totaal verschuldigde bedrag afgeschreven in de maand: 
 
-a. oktober van het schooljaar: 16,67%,  
+a.oktober van het schooljaar: 16,67%,
 
-b. november van het schooljaar: 16,67%,  
+b.november van het schooljaar: 16,67%,
 
-c. januari van het schooljaar: 16,67%,  
+c.januari van het schooljaar: 16,67%,
 
-d. februari van het schooljaar: 16,67%,  
+d.februari van het schooljaar: 16,67%,
 
-e. maart van het schooljaar: 16,67%, en  
+e.maart van het schooljaar: 16,67%, en
 
-f. april van het schooljaar: 16,67%.     
-4.  Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in een of meer termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.   
+f.april van het schooljaar: 16,67%.   
+4.  Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in een of meer termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.  
 
 ### Artikel  5  
 
 ####Vermindering lesgeld
 
-Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan een dagschool, wordt het lesgeld verminderd met eentwaalfde deel voor iedere verstreken hele maand in dat schooljaar.  
+Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan een dagschool, wordt het lesgeld verminderd met eentwaalfde deel voor iedere verstreken hele maand in dat schooljaar. 
 
 ### Artikel  6  
 
@@ -83,14 +83,14 @@ a. eerder in het desbetreffende schooljaar was ingeschreven aan een dagschool, v
 b. is ingeschreven aan een dagschool, verbonden aan een justitiële jeugdinrichting, of  
 
 c. is ingeschreven voor een bij ministeriële regeling aan te wijzen bijzondere vorm van dagonderwijs.     
-3.  Voor een schooljaar is de leerling aan lesgeld nooit meer verschuldigd dan het bedrag, bedoeld in artikel 5, tweede lid, van de wet.   
-4.  Bij ministeriële regeling wordt bepaald welke bewijsstukken de lesgeldplichtige overlegt om voor vrijstelling in aanmerking te komen.   
+3.  Voor een schooljaar is de leerling aan lesgeld nooit meer verschuldigd dan het bedrag, bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md).   
+4.  Bij ministeriële regeling wordt bepaald welke bewijsstukken de lesgeldplichtige overlegt om voor vrijstelling in aanmerking te komen.  
 
 ### Artikel  7  
 
 ####Terugbetaling lesgeld
 
-1.  Indien de inschrijving voor 1 mei van het schooljaar wordt beëindigd vanwege een in het tweede lid genoemde reden, wordt het lesgeld voor dat schooljaar op aanvraag van de lesgeldplichtige terugbetaald met eentwaalfde deel voor iedere resterende hele maand in dat schooljaar.   
+1. Indien de inschrijving voor 1 mei van het schooljaar wordt beëindigd vanwege een in het tweede lid genoemde reden, wordt het lesgeld voor dat schooljaar op aanvraag van de lesgeldplichtige terugbetaald met eentwaalfde deel voor iedere resterende hele maand in dat schooljaar.  
 2.  Teruggave van lesgeld is uitsluitend mogelijk indien de inschrijving is beëindigd in verband met: 
 
 a. het met goed gevolg hebben afgerond van de opleiding,  
@@ -101,13 +101,13 @@ c. overlijden of ernstige ziekte van de leerling, of
 
 d. bij ministeriële regeling te bepalen bijzondere familieomstandigheden.     
 3.  Een aanvraag om teruggave van lesgeld wordt voor het einde van het desbetreffende schooljaar gedaan op een bij ministeriële regeling te bepalen wijze.   
-4.  Geen teruggave van lesgeld vindt plaats indien op grond van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten of de Wet studiefinanciering 2000 een tegemoetkoming in de onderwijsbijdrage is toegekend of als voorschot is verstrekt, en de tegemoetkoming of het voorschot is verrekend met de verplichting tot het betalen van lesgeld.   
+4.  Geen teruggave van lesgeld vindt plaats indien op grond van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md) of de [Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) een tegemoetkoming in de onderwijsbijdrage is toegekend of als voorschot is verstrekt, en de tegemoetkoming of het voorschot is verrekend met de verplichting tot het betalen van lesgeld.   
 
 ### Artikel  8  
 
 ####Informatieverplichtingen dagscholen
 
-De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een bij ministeriële regeling te bepalen wijze.  
+De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een bij ministeriële regeling te bepalen wijze. 
 
 ### Hoofdstuk  3  
 
@@ -124,13 +124,13 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 a. het cursusgeld is voldaan, tenzij artikel 13 van toepassing is, of  
 
-b. een betalingsregeling als bedoeld in artikel 11 is getroffen.     
+b. een betalingsregeling als bedoeld in artikel 11 is getroffen.    
 
 ### Artikel  10  
 
 ####Beëindiging inschrijving
 
-Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de cursusgeldplichtige. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de cursusgeldplichtige. Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens.  
+Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de cursusgeldplichtige. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de cursusgeldplichtige. Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens. 
 
 ### Artikel  11  
 
@@ -145,8 +145,8 @@ b. het bij de inschrijving treffen van een regeling inzake de betaling van het c
 
 c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige artikel 13 van toepassing is.     
 3.  De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.   
-4.  Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.   
-5.  De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in artikel 14.   
+4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd. 
+5.  De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in artikel 14.  
 
 ### Artikel  12  
 
@@ -158,8 +158,8 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ####Geen cursusgeld verschuldigd
 
-1.  Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in artikel 15, eerste lid, onderdeel c.   
-2.  Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.   
+1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in artikel 15, eerste lid, onderdeel c.  
+2. Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.
 
 ### Artikel  14  
 
@@ -174,28 +174,28 @@ b. in verband met de inschrijving bij een dagschool, mits die inschrijving plaat
 
 c. wegens overlijden of ernstige ziekte van de cursist, ter beoordeling van het bevoegd gezag, of  
 
-d. wegens bij ministeriële regeling te bepalen bijzondere familieomstandigheden.     
-3.  In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in artikel 8.1.3, derde lid, onder e, van de Wet educatie en beroepsonderwijs.   
+d. wegens bij ministeriële regeling te bepalen bijzondere familieomstandigheden.    
+3. In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 8.1.3, derde lid, onder e, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
 4.  Een aanvraag om teruggave van cursusgeld wordt voor het einde van dat cursusjaar gedaan bij het bevoegd gezag.   
-5.  Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende cursusjaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het cursusjaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het cursusjaar tellen daarbij niet mee.   
+5.  Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende cursusjaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het cursusjaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het cursusjaar tellen daarbij niet mee.  
 
 ### Artikel  15  
 
 ####Cursusgeldtarieven
 
-1.  Het cursusgeldtarief voor de volgende categorieën cursussen bedraagt naar de maatstaf van 1 augustus 2006: 
+1. Het cursusgeldtarief voor de volgende categorieën cursussen bedraagt naar de maatstaf van 1 augustus 2006:
 
-a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2012: € 221 per cursusjaar,  
+a.opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2012: € 221 per cursusjaar,
 
-b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 augustus 2012: € 536 per cursusjaar,  
+b.opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 augustus 2012: € 536 per cursusjaar,
 
-c. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs, of onderdelen van dat diploma: € 0,62 per 1 augustus 2012: € 0,70 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,  
+c.opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma: € 0,62 per 1 augustus 2012: € 0,70 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,
 
-d. opleidingen Nederlands als tweede taal als bedoeld in artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs, voor zover het betreft Nederlands als tweede taal I: € 270 per 1 augustus 2012: € 298 per cursusjaar, en  
+d.opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal I: € 270 per 1 augustus 2012: € 298 per cursusjaar, en
 
-e. opleidingen Nederlands als tweede taal als bedoeld in artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs, voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 augustus 2012: € 536 per cursusjaar.     
+e.opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 augustus 2012: € 536 per cursusjaar.  
 2.  De cursusgeldtarieven worden jaarlijks bij ministeriële regeling vastgesteld aan de hand van de consumentenprijsindex. De tarieven, met uitzondering van het in het eerste lid, onder c, bedoelde tarief, worden afgerond op het naastbij gelegen gehele getal. De ministeriële regeling wordt voor 1 oktober voorafgaande aan het cursusjaar waarop de herziening van het cursusgeldtarief betrekking heeft, vastgesteld.   
-3.  Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex wordt verstaan.   
+3.  Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex wordt verstaan.  
 
 ### Artikel  16  
 
@@ -211,26 +211,26 @@ Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgro
 
 ####Afwijking van artikel 15
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  18  
 
 ####Intrekking Uitvoeringsbesluit Les- en cursusgeldwet
 
 1.  Het Uitvoeringsbesluit Les- en cursusgeldwet wordt ingetrokken.   
-2.  In afwijking van het eerste lid blijven de hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet van kracht tot het tijdstip van inwerkingtreding van de overeenkomstige hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet 2000.   
+2.  In afwijking van het eerste lid blijven de hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet van kracht tot het tijdstip van inwerkingtreding van de overeenkomstige hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet 2000.  
 
 ### Artikel  19  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de verschillende hoofdstukken of onderdelen daarvan in werking treden.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de verschillende hoofdstukken of onderdelen daarvan in werking treden. 
 
 ### Artikel  20  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als «Uitvoeringsbesluit Les- en cursusgeldwet 2000».  
+Dit besluit wordt aangehaald als «Uitvoeringsbesluit Les- en cursusgeldwet 2000». 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -247,4 +247,4 @@ G. H. Faber
 de *twintigste* juni 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

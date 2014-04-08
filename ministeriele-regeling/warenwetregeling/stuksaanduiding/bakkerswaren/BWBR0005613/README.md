@@ -14,12 +14,12 @@ Besluit:
 
 ### Artikel  1  
 
-Als bakkerswaren bedoeld in artikel 11, vierde lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen (Stb. 1992, 14) en in artikel 20, vierde lid, onder b, van het Hoeveelheidsaanduidingenbesluit (Warenwet) (Stb. 1980, 223) worden aangewezen: gebakjes, petit-fours, vlaaien, taarten, taartpunten, gevulde koeken, kano's, stroopwafels, alsmede andere dergelijke bakkerswaren die ook onverpakt per stuk of aantal stuks plegen te worden verkocht.  
+Als bakkerswaren bedoeld in artikel 11, vierde lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen (Stb. 1992, 14) en in artikel 20, vierde lid, onder b, van het Hoeveelheidsaanduidingenbesluit (Warenwet) (Stb. 1980, 223) worden aangewezen: gebakjes, petit-fours, vlaaien, taarten, taartpunten, gevulde koeken, kano's, stroopwafels, alsmede andere dergelijke bakkerswaren die ook onverpakt per stuk of aantal stuks plegen te worden verkocht. 
 
 ### Artikel  2  
 
 1.  Deze regeling kan worden aangehaald als Warenwetregeling Stuksaanduiding bakkerswaren.   
-2.  Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juli 1992.   
+2.  Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juli 1992.  
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
@@ -28,4 +28,4 @@ Namens deze,
 
 De 
 adjunct-directeur Voeding en Veiligheid van Produkten, 
-R. F. van derHeide    
+R. F. van der Heide      

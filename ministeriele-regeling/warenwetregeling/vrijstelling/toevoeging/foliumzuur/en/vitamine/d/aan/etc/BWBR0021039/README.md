@@ -16,7 +16,7 @@ a. foliumzuur: pteroylmonoglutaminezuur;
 
 b. light-product: eet- of drinkwaar ten aanzien waarvan een bewering over de verminderde energetische waarde is gebezigd, bedoeld in [artikel 8, eerste lid, onder a, 2°, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](../../../../../../../../../../../AMvB/warenwetbesluit/voedingswaarde-informatie/levensmiddelen/BWBR0006135/README.md);  
 
-c. soortgelijke waren: soortgelijke waren, bedoeld in [artikel 8, eerste lid, onder a, 2°, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](../../../../../../../../../../../AMvB/warenwetbesluit/voedingswaarde-informatie/levensmiddelen/BWBR0006135/README.md), die ten minste 33% meer energie leveren dan een bepaald light-product.    
+c. soortgelijke waren: soortgelijke waren, bedoeld in [artikel 8, eerste lid, onder a, 2°, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](../../../../../../../../../../../AMvB/warenwetbesluit/voedingswaarde-informatie/levensmiddelen/BWBR0006135/README.md), die ten minste 33% meer energie leveren dan een bepaald light-product.   
 
 ### Artikel  2  
 
@@ -25,17 +25,17 @@ c. soortgelijke waren: soortgelijke waren, bedoeld in [artikel 8, eerste lid, on
 a. het gehalte aan toegevoegd foliumzuur ten hoogste 100 µg bedraagt; en  
 
 b. het gehalte aan toegevoegd vitamine D ten hoogste 4,5 µg bedraagt.     
-2.  In afwijking van het eerste lid mogen aan een light-product ten hoogste de hoeveelheden foliumzuur en vitamine D worden toegevoegd die krachtens het eerste lid mogen worden toegevoegd aan de desbetreffende soortgelijke waren.   
+2.  In afwijking van het eerste lid mogen aan een light-product ten hoogste de hoeveelheden foliumzuur en vitamine D worden toegevoegd die krachtens het eerste lid mogen worden toegevoegd aan de desbetreffende soortgelijke waren.  
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen.  
+Deze regeling wordt aangehaald als: Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     

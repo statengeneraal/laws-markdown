@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 8 april 2010, nr. WJZ/199346 (2702), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op artikel 2, eerste lid, van de Wet referentieniveaus Nederlandse taal en rekenen;
+Gelet op [artikel 2, eerste lid, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md);
 
 De Raad van State gehoord (advies van 28 april 2010, nr. W05.10.0122/I);
 
@@ -19,13 +19,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*WPO:*Wet op het primair onderwijs;  
+*WPO:* [Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md);  
 
-*WEC:*Wet op de expertisecentra;  
+*WEC:* [Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-*WVO:*Wet op het voortgezet onderwijs, en  
+*WVO:* [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
 
-*WEB:*Wet educatie en beroepsonderwijs.    
+*WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
@@ -33,33 +33,33 @@ In dit besluit wordt verstaan onder:
 
 Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Nederlandse taal, zoals opgenomen in bijlage 1 van dit besluit, vastgesteld: 
 
-a. het basisonderwijs, bedoeld in de WPO: de referentieniveaus 1F en 2F;  
+a. het basisonderwijs, bedoeld in de [WPO](../../../../../../../../wet/wbo/BWBR0003420/README.md): de referentieniveaus 1F en 2F;  
 
-b. het speciaal onderwijs, bedoeld in de WEC: de referentieniveaus 1F en 2F;  
+b. het speciaal onderwijs, bedoeld in de [WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md): de referentieniveaus 1F en 2F;  
 
-c. het voorbereidend wetenschappelijk onderwijs, bedoeld in artikel 5, onderdeel a, van de WVO: het referentieniveau 4F;  
+c. het voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 5, onderdeel a, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 4F;  
 
-d. het hoger algemeen voortgezet onderwijs, bedoeld in artikel 5, onderdeel b, van de WVO: het referentieniveau 3F;  
+d. het hoger algemeen voortgezet onderwijs, bedoeld in [artikel 5, onderdeel b, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 3F;  
 
-e. het middelbaar algemeen voortgezet onderwijs, bedoeld in artikel 5, onderdeel b, van de WVO: het referentieniveau 2F;  
+e. het middelbaar algemeen voortgezet onderwijs, bedoeld in [artikel 5, onderdeel b, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 2F;  
 
-f. het voorbereidend beroepsonderwijs, bedoeld in artikel 5, onderdeel c, van de WVO: het referentieniveau 2F;  
+f. het voorbereidend beroepsonderwijs, bedoeld in [artikel 5, onderdeel c, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 2F;  
 
-g. het praktijkonderwijs, bedoeld in artikel 5, onderdeel d, van de WVO: het referentieniveau 1F;  
+g. het praktijkonderwijs, bedoeld in [artikel 5, onderdeel d, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 1F;  
 
-h. de assistentopleiding, bedoeld in artikel 7.2.2, onderdeel a, van de WEB: het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
+h. de assistentopleiding, bedoeld in [artikel 7.2.2, onderdeel a, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
 
-i. de basisberoepsopleiding, bedoeld in artikel 7.2.2, onderdeel b, van de WEB: het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
+i. de basisberoepsopleiding, bedoeld in [artikel 7.2.2, onderdeel b, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
 
-j. de vakopleiding, bedoeld in artikel 7.2.2, onderdeel c, van de WEB: het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
+j. de vakopleiding, bedoeld in [artikel 7.2.2, onderdeel c, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
 
-k. de middenkaderopleiding, bedoeld in artikel 7.2.2, onderdeel d, van de WEB: het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
+k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
 
-l. de specialistenopleiding, bedoeld in artikel 7.2.2, onderdeel e, van de WEB: het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
+l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;  
 
-m. de opleidingen Nederlandse taal en rekenen, bedoeld in artikel 7.3.1, eerste lid, onder b, van de WEB: de referentieniveaus 1F en 2F, en  
+m. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): de referentieniveaus 1F en 2F, en 
 
-n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in artikel 14, eerste lid, onderdeel b, van de WEC: het referentieniveau 1F.    
+n.het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md): het referentieniveau 1F. 
 
 ### Artikel  3  
 
@@ -67,45 +67,45 @@ n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in artikel 14, eerste lid,
 
 Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus rekenen, zoals opgenomen in bijlage 2 van dit besluit, vastgesteld: 
 
-a. het basisonderwijs, bedoeld in de WPO: de referentieniveaus 1F en 1S;  
+a. het basisonderwijs, bedoeld in de [WPO](../../../../../../../../wet/wbo/BWBR0003420/README.md): de referentieniveaus 1F en 1S;  
 
-b. het speciaal onderwijs, bedoeld in de WEC: de referentieniveaus 1F en 1S;  
+b. het speciaal onderwijs, bedoeld in de [WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md): de referentieniveaus 1F en 1S;  
 
-c. het voorbereidend wetenschappelijk onderwijs, bedoeld in artikel 5, onderdeel a, van de WVO: het referentieniveau 3F;  
+c. het voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 5, onderdeel a, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 3F;  
 
-d. het hoger algemeen voortgezet onderwijs, bedoeld in artikel 5, onderdeel b, van de WVO: het referentieniveau 3F;  
+d. het hoger algemeen voortgezet onderwijs, bedoeld in [artikel 5, onderdeel b, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 3F;  
 
-e. het middelbaar algemeen voortgezet onderwijs, bedoeld in artikel 5, onderdeel b, van de WVO: het referentieniveau 2F;  
+e. het middelbaar algemeen voortgezet onderwijs, bedoeld in [artikel 5, onderdeel b, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 2F;  
 
-f. het voorbereidend beroepsonderwijs, bedoeld in artikel 5, onderdeel c, van de WVO: het referentieniveau 2F;  
+f. het voorbereidend beroepsonderwijs, bedoeld in [artikel 5, onderdeel c, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 2F;  
 
-g. het praktijkonderwijs, bedoeld in artikel 5, onderdeel d, van de WVO: het referentieniveau 1F;  
+g. het praktijkonderwijs, bedoeld in [artikel 5, onderdeel d, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md): het referentieniveau 1F;  
 
-h. de assistentopleiding, bedoeld in artikel 7.2.2, onderdeel a, van de WEB: het referentieniveau 2F;  
+h. de assistentopleiding, bedoeld in [artikel 7.2.2, onderdeel a, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F;  
 
-i. de basisberoepsopleiding, bedoeld in artikel 7.2.2, onderdeel b, van de WEB: het referentieniveau 2F;  
+i. de basisberoepsopleiding, bedoeld in [artikel 7.2.2, onderdeel b, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F;  
 
-j. de vakopleiding, bedoeld in artikel 7.2.2, onderdeel c, van de WEB: het referentieniveau 2F;  
+j. de vakopleiding, bedoeld in [artikel 7.2.2, onderdeel c, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 2F;  
 
-k. de middenkaderopleiding, bedoeld in artikel 7.2.2, onderdeel d, van de WEB: het referentieniveau 3F;  
+k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 3F;  
 
-l. de specialistenopleiding, bedoeld in artikel 7.2.2, onderdeel e, van de WEB: het referentieniveau 3F;  
+l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): het referentieniveau 3F;  
 
-m. de opleidingen Nederlandse taal en rekenen, bedoeld in artikel 7.3.1, eerste lid, onder b, van de WEB: de referentieniveaus 1F en 2F, en  
+m. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md): de referentieniveaus 1F en 2F, en 
 
-n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in artikel 14, eerste lid, onderdeel b, van de WEC: het referentieniveau 1F.    
+n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de WEC](../../../../../../../../wet/isovso/BWBR0003549/README.md): het referentieniveau 1F.  
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop artikel 2 van de Wet referentieniveaus Nederlandse taal en rekenen in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel 2 van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) in werking treedt. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit referentieniveaus Nederlandse taal en rekenen.  
+Dit besluit wordt aangehaald als: Besluit referentieniveaus Nederlandse taal en rekenen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -113,21 +113,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 17 juni 2010  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 A. Rouvoet   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
+De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 G. Verburg   
 
 de *achtste* juli 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij artikel 2  van het Besluit referentieniveaus Nederlandse taal en rekenen
 
@@ -157,7 +157,7 @@ E. M. H. Hirsch Ballin
 
 4.3. Niveaubeschrijvingen  
 
-4.4. Moeilijkheid      
+4.4. Moeilijkheid     
 
 ### 1  
 
@@ -168,7 +168,7 @@ E. M. H. Hirsch Ballin
 ####Gesprekken
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving Gesprekken  | Kan eenvoudige gesprekken voeren over vertrouwde onderwerpen in het dagelijks leven op en buiten school.  | Kan in gesprekken over alledaagse en niet alledaagse onderwerpen uit leefwereld en (beroeps)opleiding uiting geven aan persoonlijke meningen, kan informatie uitwisselen en gevoelens onder woorden brengen.  | Kan op effectieve wijze deelnemen aan gesprekken over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  | Kan in alle soorten gesprekken de taal nauwkeurig en doeltreffend gebruiken voor een breed scala van onderwerpen uit (beroeps)opleiding en van maatschappelijke aard.  |
 | --- | --- | --- | --- | --- |
 |  *Taken*   | --- | --- | --- | --- |
@@ -187,7 +187,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Gesprekken
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Afstemming op doel  | Kan gesprekken voeren om informatie en meningen uit te wisselen, uitleg of instructie te geven en te volgen.  Herkent gesprekssituaties en kan passende routines gebruiken.  | Kan het eigen gespreksdoel tot uitdrukking brengen.  Kan doelgericht doorvragen om de gewenste informatie te verwerven.  | Kan zonder moeite gesprekken voeren met meerdere doelen.  Kan afwijkingen van het doel inbrengen en accepteren zonder de draad kwijt te raken.  | Kan beschouwende gesprekken voeren over abstracte onderwerpen.  |
 | Afstemming op de gesprekspartner(s)  | Kan de gesprekspartner(s) redelijk volgen tenzij ze voor onverwachte wendingen in het gesprek zorgen.  Kan woorden ondersteunen met non-verbaal gedrag.  | Kan het spreekdoel van anderen herkennen en reacties schatten.  Kan het verschil tussen formele en informele situaties hanteren.  Maakt de juiste keuze voor het register en het al dan niet hanteren van taalvariatie (dialect, jongerentaal).  | Kiest in formele en informele situaties zonder moeite de juiste taalvariant.  Reageert adequaat op de uitingen van de gesprekspartners en vraagt zonodig naar meer informatie of naar de bedoeling.  Reageert adequaat op non-verbale signalen.  | Gebruikt de taal doeltreffend door ideeën zonodig te herformuleren en door onderscheid te maken naar situatie en gesprekspartners.  |
 | Woordgebruik en woordenschat  | Beschikt over voldoende woorden om te praten over vertrouwde situaties en onderwerpen, maar zoekt nog regelmatig naar woorden en varieert niet veel in woordgebruik.  | Beschikt over voldoende woorden om zich te kunnen uiten. Het kan soms nodig zijn een omschrijving te geven van een onbekend woord.  | Beschikt over een goede woordenschat.  Kan variëren in de formulering. Trefzekerheid in de woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor.  | Beschikt over een breed repertoire aan woorden, idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal.  |
@@ -202,7 +202,7 @@ E. M. H. Hirsch Ballin
 ####Luisteren
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving Luisteren  | Kan luisteren naar eenvoudige teksten over alledaagse, concrete onderwerpen of over onderwerpen die aansluiten bij de leefwereld van de leerling.  | Kan luisteren naar teksten over alledaagse onderwerpen, onderwerpen die aansluiten bij de leefwereld van de leerling of die verder van de leerling af staan.  | Kan luisteren naar een variatie aan teksten over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  | Kan luisteren naar een grote variatie aan, ook complexe, teksten over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard, die ook abstracte thema’s kunnen behandelen.  |
 | --- | --- | --- | --- | --- |
 |  *Tekstkenmerken*   | --- | --- | --- | --- |
@@ -222,7 +222,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Luisteren
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 3. Luisteren naar radio en televisie en naar gesproken tekst op internet  | Kan hoofdpunten van korte en duidelijke berichten op radio en televisie en via internet begrijpen als onderwerp en context bekend zijn. Kan selectief luisteren om de benodigde informatie zoals openingstijden, adres, telefoonnummer te halen uit korte berichten op bijvoorbeeld een telefoonbeantwoorder.  | Kan de hoofdpunten begrijpen van (nieuws)berichten, documentaires, reclameboodschappen en discussieprogramma’s over vertrouwde onderwerpen. Kan films en televisieseries geschikt voor de leeftijd volgen.  | Kan de meeste gesproken teksten in radio- en televisieprogramma’s en ander uitgezonden of opgenomen geluidsmateriaal begrijpen.  | Kan alle gesproken tekst in radio- en televisieprogramma’s en films begrijpen.  |
 | --- | --- | --- | --- | --- |
 |  *Kenmerken van de taakuitvoering*   | --- | --- | --- | --- |
@@ -237,7 +237,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Luisteren
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Interpreteren  | Kan informatie en meningen interpreteren voor zover deze dicht bij de leerling staan.  Kan relaties leggen tussen tekstuele informatie en eigen kennis en ervaringen.  | Kan informatie en meningen interpreteren.  Kan de bedoeling van de spreker(s) of het doel van de makers van een programma verwoorden.  | Kan de tekst vergelijken met inhouden uit andere teksten en kan tekstdelen met elkaar vergelijken.  Kan conclusies trekken naar aanleiding van een (deel van de) tekst en over intenties, opvattingen, gevoelens, stemming en toon van de spreker(s).  Kan de bedoeling van de spreker(s) verwoorden als ook de verbale en non-verbale middelen die gebruikt zijn om dit doel te bereiken.  Kan onderscheid maken tussen drogreden en argument.  | Kan impliciete attitudes en relaties tussen sprekers vaststellen.  Kan persoonlijke waardeoordelen herkennen en als zodanig interpreteren.  |
 | Evalueren  | Kan een oordeel over een tekst(deel) of televisie- of radioprogramma (of fragment ervan) verwoorden.  | Kan een oordeel over de waarde van een tekst(deel) of televisie- of radioprogramma (of fragment ervan) verwoorden voor zichzelf en kan dit oordeel toelichten.  | Kan een oordeel geven over de waarde en de betrouwbaarheid van de gegeven informatie voor zichzelf en voor anderen. Kan de argumentatie in een betogende tekst op aanvaardbaarheid beoordelen.  | Kan een tekst beoordelen op consistentie.  |
 | Samenvatten  | Kan aantekeningen maken. Kan de informatie gestructureerd weergeven.  | Kan een eenvoudige tekst beknopt samenvatten (voor zichzelf).  | Kan een tekst samenvatten voor zichzelf en ook voor anderen.  | Kan van de gesproken tekst een goed geformuleerde samenvatting maken die los van de uitgangstekst te begrijpen valt.  |
@@ -251,7 +251,7 @@ E. M. H. Hirsch Ballin
 ####Spreken
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving Spreken  | Kan in eenvoudige bewoordingen een beschrijving geven, informatie geven, verslag uitbrengen, uitleg en instructie geven in alledaagse situaties in en buiten school.  | Kan redelijk vloeiend en helder ervaringen, gebeurtenissen, meningen, verwachtingen en gevoelens onder woorden brengen over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  | Kan monologen en presentaties houden over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard waarin ideeën worden uitgewerkt en voorzien van relevante voorbeelden.  | Kan duidelijke, gedetailleerde monologen en presentaties houden over tal van onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  Kan daarbij subthema’s integreren, specifieke standpunten ontwikkelen en het geheel afronden met een passende conclusie.  |
 | --- | --- | --- | --- | --- |
 |  *Taken*   | --- | --- | --- | --- |
@@ -269,7 +269,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Spreken
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Afstemming op doel  | Blijft trouw aan spreekdoel, soms met hulp van een ander.  | Geeft spreekdoel duidelijk vorm (instruerend, informatief, onderhoudend enz.) zodat het voor de luisteraar herkenbaar is.  | Kan tijdens een spreektaak verschillende doelen met elkaar verbinden (bijvoorbeeld informeren en overtuigen) en is zich bewust van wisseling van spreekdoel.  | Kan in een monoloog of presentatie verschillende doelen nastreven zonder hieromtrent in verwarring te raken of verwarring te veroorzaken.  |
 | Afstemming op publiek  | Past het taalgebruik aan de luisteraar(s) aan.  Kan gebruik maken van ondersteunende materialen om een voorbereide presentatie beter aan het publiek over te brengen.  | Kan het verschil tussen formele en informele situaties hanteren.  Maakt de juiste keuze voor het register en het al dan niet hanteren van taalvariatie (dialect, jongerentaal). Kan de luisteraar(s) boeien door middel van concrete voorbeelden en ervaringen.  | Kiest in formele en informele situaties zonder moeite de juiste taalvariant. Kan spontaan afwijken van een voorbereide tekst en ingaan op belangwekkende punten die vanuit het publiek worden aangedragen.  | Houdt contact met het publiek door te reageren op zowel non-verbale als verbale reacties: kan bijvoorbeeld bij het signaleren van onrust vragen of het publiek iets anders had verwacht.  |
 | Woordgebruik en woordenschat  | Zie Gesprekken  | Zie Gesprekken  | Zie Gesprekken  | Zie Gesprekken  |
@@ -284,7 +284,7 @@ E. M. H. Hirsch Ballin
 ####Zakelijke teksten
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving Lezen zakelijke teksten  | Kan eenvoudige teksten lezen over alledaagse onderwerpen en over onderwerpen die aansluiten bij de leefwereld.  | Kan teksten lezen over alledaagse onderwerpen, onderwerpen die aansluiten bij de leefwereld van de leerling en over onderwerpen die verder van de leerling af staan.  | Kan een grote variatie aan teksten over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard zelfstandig lezen. Leest met begrip voor geheel en details.  | Kan een grote variatie aan teksten lezen over tal van onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard en kan die in detail begrijpen.  |
 | --- | --- | --- | --- | --- |
 |  *Teksten*   | --- | --- | --- | --- |
@@ -303,7 +303,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Zakelijke teksten
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 3. Lezen van betogende teksten  | Kan eenvoudige *betogende* teksten lezen, zoals voorkomend in schoolboeken voor taal- en zaakvakken, maar ook advertenties, reclames, huis- aan huisbladen.  | Kan *betogende,* vaak redundante teksten lezen, zoals reclameteksten, advertenties, folders, maar ook brochures van formele instanties of licht opiniërende artikelen uit tijdschriften.  | Kan *betogende* teksten lezen waaronder teksten uit schoolboeken, opiniërende artikelen.  | Kan *betogende* teksten lezen waaronder teksten met een ingewikkelde argumentatie, of artikelen waarin de schrijver (impliciet) een standpunt inneemt of beschouwing geeft.  |
 | --- | --- | --- | --- | --- |
 |  *Kenmerken van de taakuitvoering*   | --- | --- | --- | --- |
@@ -320,7 +320,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Zakelijke teksten
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Evalueren  | Kan een oordeel over een tekst(deel) verwoorden.  | Kan relaties tussen en binnen teksten evalueren en beoordelen.  | Kan het doel van de schrijver aangeven als ook de talige middelen die gebruikt zijn om dit doel te bereiken. Kan de tekst opdelen in betekenisvolle eenheden en kan de functie van deze eenheden benoemen.  Kan de argumentatie in een betogende tekst op aanvaardbaarheid beoordelen. Kan de informatie in een tekst beoordelen op waarde voor zichzelf en anderen.  | Kan argumentatie analyseren en beoordelen. Kan een tekst beoordelen op consistentie. Kan taalgebruik beoordelen.  |
 | Samenvatten  | --- | Kan een eenvoudige tekst beknopt samenvatten.  | Kan een tekst beknopt samenvatten voor anderen.  | Kan van een tekst een goed geformuleerde samenvatting maken die los van de uitgangstekst te begrijpen valt.  |
 | Opzoeken  | Kan informatie opzoeken in duidelijk geordende naslagwerken, zoals woordenboeken, telefoongids e.d.  Kan schematische informatie lezen en relaties met de tekst expliciteren.  | Kan systematisch informatie zoeken (op bijvoorbeeld het internet of de schoolbibliotheek) bijvoorbeeld op basis van trefwoorden.  | Kan de betrouwbaarheid van bronnen beoordelen en vermeldt bronnen.  Kan snel informatie vinden in langere rapporten of ingewikkelde schema’s.  | --- |
@@ -334,7 +334,7 @@ E. M. H. Hirsch Ballin
 ####Fictionele, narratieve en literaire teksten
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving Lezen fictionele, narratieve en literaire teksten  | Kan jeugdliteratuur belevend lezen.  | Kan eenvoudige adolescentenliteratuur herkennend lezen.  | Kan adolescentenliteratuur en eenvoudige volwassenenliteratuur kritisch en reflecterend lezen.  | Kan volwassenenliteratuur interpreterend en esthetisch lezen.  |
 | --- | --- | --- | --- | --- |
 |  *Teksten*   | --- | --- | --- | --- |
@@ -353,7 +353,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Fictionele, narratieve en literaire teksten
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Evalueren  | Evalueert de tekst met emotieve argumenten.  Kan met medeleerlingen leeservaringen uitwisselen. Kan interesse in bepaalde fictievormen aangeven.  | Evalueert de tekst ook met realistische argumenten en kan persoonlijke reacties toelichten met voorbeelden uit de tekst. Kan met medeleerlingen leeservaringen uitwisselen en kan de interesse in bepaalde genres of onderwerpen motiveren.  | Evalueert de tekst ook met morele en cognitieve argumenten.  Kan uiteenzetten tot welke inzichten de tekst heeft geleid. Kan met leeftijdgenoten discussiëren over de interpretatie en kwaliteit van teksten en over de maatschappelijke, psychologische en morele kwesties die door de tekst worden aangesneden. Kan interesses in bepaalde vraagstukken motiveren. Kan de persoonlijke literaire smaak en ontwikkeling beschrijven.  | Evalueert de tekst ook met structurele en esthetische argumenten. Kan teksten naar inhoud en vorm vergelijken.  Kan interpretaties en waardeoordelen van leeftijdgenoten en literaire critici beoordelen. Kan interesse in bepaalde schrijvers motiveren.  |
 
 ### 3  
@@ -361,7 +361,7 @@ E. M. H. Hirsch Ballin
 ####Schrijven
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Algemene omschrijving  | Kan korte, eenvoudige teksten schrijven over alledaagse onderwerpen of over onderwerpen uit de leefwereld.  | Kan samenhangende teksten schrijven met een eenvoudige, lineaire opbouw, over uiteenlopende vertrouwde onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  | Kan gedetailleerde teksten schrijven over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard, waarin informatie en argumenten uit verschillende bronnen bijeengevoegd en beoordeeld worden.  | Kan goed gestructureerde teksten schrijven over allerlei onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.  Kan relevante kwesties benadrukken, standpunten uitgebreid uitwerken en ondersteunen met redenen en voorbeelden.  |
 | --- | --- | --- | --- | --- |
 |  *Taken*   | --- | --- | --- | --- |
@@ -374,7 +374,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Schrijven
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 4. Vrij schrijven  | Kan eigen ideeën, ervaringen, gebeurtenissen en fantasieën opschrijven in een verhaal, in een informatieve tekst of in een gedicht.  | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 |  *Kenmerken van de taakuitvoering*   | --- | --- | --- | --- |
@@ -388,7 +388,7 @@ E. M. H. Hirsch Ballin
 ####vervolg Schrijven
 
 |--- |  *Niveau 1F*   |  *Niveau 2F*   |  *Niveau 3F*   |  *Niveau 4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Spelling, interpunctie en grammatica  | Zie niveaubeschrijving Taalverzorging.  Redelijk accuraat gebruik van eenvoudige zinsconstructies.  | Zie niveaubeschrijving Taalverzorging.  Vertoont een redelijke grammaticale beheersing.  | Zie niveaubeschrijving Taalverzorging.  Toont een betrekkelijk grote beheersing van de grammatica. Incidentele vergissingen, niet-stelselmatige fouten en kleine onvolkomenheden in de zinsstructuur kunnen nog voorkomen.  | Zie niveaubeschrijving Taalverzorging.  Handhaaft consequent een hoge mate van grammaticale correctheid, fouten zijn zeldzaam.  |
 | Leesbaarheid  | Kan een titel gebruiken.  Voorziet een brief op de gebruikelijke plaats van datering, adressering, aanhef en ondertekening.  Besteedt aandacht aan de opmaak van de tekst (handschrift, bladspiegel, eventueel beeldende elementen en kleur).  | Gebruikt titel en tekstkopjes. Heeft bij langere teksten (meer dan twee A4) ondersteuning nodig bij aanbrengen van de lay-out.  | Geeft een heldere structuur aan de tekst, gebruikt witregels, marges en kopjes. Geeft in een langere tekst een indeling in paragrafen.  Stemt de lay-out af op doel en publiek.  | Lay-out en paragraafindeling zijn bewust en consequent toegepast om het begrip bij de lezer te ondersteunen.  |
 
@@ -403,7 +403,7 @@ E. M. H. Hirsch Ballin
 Om te spreken over taal en taalverschijnselen is een beperkt aantal begrippen noodzakelijk. De meeste daarvan zijn aan het einde van het basisonderwijs wel aan de orde geweest (1F). Kennis van deze begrippen bevordert het gesprek binnen en buiten het taalonderwijs over taal en taalverschijnselen: het gaat erom dat docenten (en leerlingen) bepaalde verschijnselen kunnen benoemen in contextrijke taalsituaties. Dat wil zeggen dat docenten deze termen moeten kunnen gebruiken in hun onderwijs in de vaardigheidsdomeinen.  Tabel 1: Niveaubeschrijvingen Begrippen Taal 
 
 |--- | 1F  | 2F  |
-|---|---|---|
+|:---|:---|:---|
 | Leestekens  | Dubbele punt, punt, komma, puntkomma, uitroepteken, vraagteken, aanhalingsteken.  | Trema, accent.  |
 | Woordsoorten  | Zelfstandig naamwoord, werkwoord (klankvast, klankveranderend (zwak, sterk)), bijvoeglijk naamwoord.  | --- |
 | Grammaticale kennis  | Onderwerp, lijdend voorwerp, hoofdzin, bijzin, gezegde, persoonsvorm.  | Lijdende en bedrijvende vorm, vragende vorm.  |
@@ -438,13 +438,13 @@ Om te spreken over taal en taalverschijnselen is een beperkt aantal begrippen no
 11. Werkwoordelijk gezegde.   
 ### *Regels* 
 
-Regel voor overeenkomst in getal (onderwerp-persoonsvorm; referent-verwijswoord) en geslacht (referent-verwijswoord).  
+Regel voor overeenkomst in getal (onderwerp-persoonsvorm; referent-verwijswoord) en geslacht (referent-verwijswoord). 
 
 ### 4.2  
 
 ####Taalverzorging
 
-De vereiste kwaliteit van productief taalgebruik (spreken, schrijven) wordt steeds aangeduid bij de kenmerken van de taakuitvoering in die domeinen. In dit domein van taalverzorging gaat het alleen om kennis van regels en begrippen die ten dienste staan van correct taalgebruik. Bij de niveaubepaling is steeds uitgegaan van volledige beheersing, dat wil zeggen, vrijwel automatische beheersing en bij uitzondering terugvallend op regelkennis in taalproductie, zoals in de domeinen schrijven en spreken beschreven. Regelkennis en toepassing in oefentaken gaat aan die beheersing vooraf. De niveaus geven een eindpunt aan: het verwerven van de regels tot een vrijwel automatische beheersing vergt veel leertijd. Het geleerde moet voortdurend in onderhoud zijn. Dat kan betekenen dat van tijd tot tijd nieuwe instructie en oefening gegeven moeten worden (opfrissen) en dat er zorgvuldig feedback gegeven dient te worden op schrijf- en spreekproducten door alle bij het onderwijs betrokkenen, docenten Nederlands en docenten van andere vakken.  
+De vereiste kwaliteit van productief taalgebruik (spreken, schrijven) wordt steeds aangeduid bij de kenmerken van de taakuitvoering in die domeinen. In dit domein van taalverzorging gaat het alleen om kennis van regels en begrippen die ten dienste staan van correct taalgebruik. Bij de niveaubepaling is steeds uitgegaan van volledige beheersing, dat wil zeggen, vrijwel automatische beheersing en bij uitzondering terugvallend op regelkennis in taalproductie, zoals in de domeinen schrijven en spreken beschreven. Regelkennis en toepassing in oefentaken gaat aan die beheersing vooraf. De niveaus geven een eindpunt aan: het verwerven van de regels tot een vrijwel automatische beheersing vergt veel leertijd. Het geleerde moet voortdurend in onderhoud zijn. Dat kan betekenen dat van tijd tot tijd nieuwe instructie en oefening gegeven moeten worden (opfrissen) en dat er zorgvuldig feedback gegeven dient te worden op schrijf- en spreekproducten door alle bij het onderwijs betrokkenen, docenten Nederlands en docenten van andere vakken. 
 
 ### 4.3  
 
@@ -473,11 +473,11 @@ Deze paragraaf bevat de categorieën van spellingsproblemen en -regels. De basis
 6. Aaneen- en losschrijven van woorden (autoweg, kwijtraakte, voor altijd).   
 ### *Morfologische spelling* 
 
-7. Regel van gelijkvormigheid bij assimilatie: *zakdoek in plaats van zaddoek.*  
+7. Regel van gelijkvormigheid bij assimilatie: *zakdoek in plaats van zaddoek.*   
 
 8. Meervoudsvorming 
 
-8.1. -s na medeklinker, -a, -o, -u, -y, -e: (a) fuchsia’s, (b) cafés, (c) garages, meisjes  
+8.1.  -s na medeklinker, -a, -o, -u, -y, -e: (a) fuchsia’s, (b) cafés, (c) garages, meisjes  
 
 8.2. -en (a) zonder en (b) met verdubbeling: latten (zelfstandig naamwoord), laten (werkwoord).    
 
@@ -497,7 +497,7 @@ Deze paragraaf bevat de categorieën van spellingsproblemen en -regels. De basis
 
 12. ’s en -s: ‘s nachts, ’s Nachts (begin van een zin).  
 
-13. Meervouds -n bij zelfstandig en bijvoeglijk gebruikte verwijzingen naar personen/niet personen: *alle, vele, weinige, maar ook allen, weinigen, velen etc.*   
+13. Meervouds -n bij zelfstandig en bijvoeglijk gebruikte verwijzingen naar personen/niet personen: *alle, vele, weinige, maar ook allen, weinigen, velen etc.*    
 ### *Regels voor de werkwoordspelling* 
 
 14. Persoonsvorm 
@@ -508,30 +508,30 @@ Deze paragraaf bevat de categorieën van spellingsproblemen en -regels. De basis
 
 14.1.2. meervoud: worden, laten    
 
-14.2. verleden tijd van zwakke werkwoorden met stam op -d of -t: (morfologische regel leidt tot verdubbeling van d/t, hoewel fonetisch niet nodig) *antwoordde*  
+14.2. verleden tijd van zwakke werkwoorden met stam op -d of -t: (morfologische regel leidt tot verdubbeling van d/t, hoewel fonetisch niet nodig) *antwoordde*   
 
-14.3. verleden tijd van sterke werkwoorden met stam op -d of -t enkelvoud: *werd, liet* meervoud: *werden.*    
+14.3. verleden tijd van sterke werkwoorden met stam op -d of -t enkelvoud: *werd, liet*  meervoud: *werden.*     
 
 15. Infinitief 
 
-15.1. «Gewone» werkwoorden met stam op -d of -t: *worden, laten*  
+15.1. «Gewone» werkwoorden met stam op -d of -t: *worden, laten*   
 
 15.2. Werkwoorden met stam op -d en -t die in de verleden tijd dd/tt krijgen: *vergoeden, verplichten* (verwisseling woordbeelden)  
 
-15.3. Als 15.2, in bijvoeglijke bepalingen, in een omgeving met verleden tijd *(«de te verlichten straten waren niet afgesloten»).*    
+15.3. Als 15.2, in bijvoeglijke bepalingen, in een omgeving met verleden tijd *(«de te verlichten straten waren niet afgesloten»).*     
 
 16. Voltooid deelwoord 
 
-16.1. (per prefix), met kans op verwarring met woordbeeld persoonsvorm op -d: gebeurd, beoordeeld op -d: na een «valse» f (stam op v): *geverfd* op -d, na een «valse» s (stam op z): *verhuisd*  
+16.1. (per prefix), met kans op verwarring met woordbeeld persoonsvorm op -d: gebeurd, beoordeeld op -d: na een «valse» f (stam op v): *geverfd*  op -d, na een «valse» s (stam op z): *verhuisd*   
 
-16.2. op -den of -ten: *geladen, gelaten* in de omgeving van meervoud (*de geladen wagens)* in de omgeving van enkelvoud *(de geladen wagen)*  
+16.2. op -den of -ten: *geladen, gelaten*  in de omgeving van meervoud (*de geladen wagens)*  in de omgeving van enkelvoud *(de geladen wagen)*   
 
-16.3. op -d of -t, gebruikt als bijvoeglijk naamwoord: *geparkeerde, geraakte, beschutte* in de omgeving van enkelvoud/meervoud: *de beschutte tuin/tuinen* (bijvoeglijk naamwoord buigt niet met getal mee) in de omgeving van tegenwoordige/verleden tijd: *hij zag/zij ziet verlichte straten*.     
+16.3. op -d of -t, gebruikt als bijvoeglijk naamwoord: *geparkeerde, geraakte, beschutte*  in de omgeving van enkelvoud/meervoud: *de beschutte tuin/tuinen* (bijvoeglijk naamwoord buigt niet met getal mee) in de omgeving van tegenwoordige/verleden tijd: *hij zag/zij ziet verlichte straten*.     
 ### *Overige regels* 
 
 17. Schrijfwijze van tussenklanken -s en -e(n).  
 
-18. Gebruik van trema en koppelteken.    
+18. Gebruik van trema en koppelteken.   
 
 ### 4.3.2  
 
@@ -543,13 +543,13 @@ Deze paragraaf bevat de categorieën van spellingsproblemen en -regels. De basis
 
 3. Hoofdletters bij eigennaam en directe rede.  
 
-4. Komma’s, dubbele punt.    
+4. Komma’s, dubbele punt.   
 
 ### 4.4  
 
 ####Moeilijkheid
 
-De moeilijkheid van spelling is op twee manieren te ordenen. Er zijn empirische gegevens over wat leerlingen einde BO kunnen (PPON) en toetsgegevens van brugklasleerlingen. Dat levert een overzicht van itemmoeilijkheden op, zoals gepresenteerd in het eerste rapport van de Expertgroep (2008). Spellingsproblemen kunnen ook in grotere klassen worden ondergebracht, zoals Schijf (2009) laat zien. Naast een zekere logische opeenvolging van klassen van problemen, speelt ook de frequentie waarin het te spellen woord verschijnt een rol. De «stomme e» bijvoorbeeld, in «stomme» wordt in het algemeen pas beheerst na groep 4, maar zeer frequente woorden met een stomme *«e»* worden al in groep 3 goed gespeld. Als ordening voor de spellingsproblemen gebruiken we een indeling in vijf klassen. Deze indeling wordt gebruikt bij het diagnosticeren van spellingvaardigheid. <sup> 1  G.M. Schijf (2009), Lees- en spellingsvaardigheden van brugklassers, diss. Universiteit van Amsterdam.  </sup> 
+De moeilijkheid van spelling is op twee manieren te ordenen. Er zijn empirische gegevens over wat leerlingen einde BO kunnen (PPON) en toetsgegevens van brugklasleerlingen.<sup> 1 G.M. Schijf (2009), Lees- en spellingsvaardigheden van brugklassers, diss. Universiteit van Amsterdam. </sup> Dat levert een overzicht van itemmoeilijkheden op, zoals gepresenteerd in het eerste rapport van de Expertgroep (2008). Spellingsproblemen kunnen ook in grotere klassen worden ondergebracht, zoals Schijf (2009) laat zien. Naast een zekere logische opeenvolging van klassen van problemen, speelt ook de frequentie waarin het te spellen woord verschijnt een rol. De «stomme e» bijvoorbeeld, in «stomme» wordt in het algemeen pas beheerst na groep 4, maar zeer frequente woorden met een stomme *«e»* worden al in groep 3 goed gespeld. Als ordening voor de spellingsproblemen gebruiken we een indeling in vijf klassen. Deze indeling wordt gebruikt bij het diagnosticeren van spellingvaardigheid. 
 
 1. Alfabetisch: hier gaat het om het volgen van de beschaafde Nederlandse uitspraak: dezelfde klank heeft dezelfde letter. De basiskennis is de klank-tekenkoppeling, ook voor bijvoorbeeld oe, ui. Allofonen (v/f; z/s afwisseling) kunnen hierbij gerekend worden. Eind groep 3 wordt deze categorie beheerst.  
 
@@ -562,7 +562,7 @@ De moeilijkheid van spelling is op twee manieren te ordenen. Er zijn empirische 
 5. Logografisch: vaststaande combinaties, die als zodanig gekend moeten worden (geen regelvorming): /zj/ geschreven als g (garage), open lettergreep /ie/ geschreven als -i-, woorden op -isch, /sj/ geschreven als -ch-, /oo/ geschreven als -au- of -ou-, /s/ geschreven als -c- voor i, ie en e; /ks/ geschreven als -x-, /oe/ geschreven als -ou-, woorden met -aise, -aire, /sj/ geschreven als -ci-, /ie/ geschreven als -y-, leenwoorden (team, jam, tram). Woorden met een trema, woorden voorafgegaan door ‘s.    *In schema: zie tabel 2 op de volgende pagina*   Tabel 2: Niveaus voor spelling, interpunctie en grammaticale begrippen voor werkwoordsspelling. Beheersing; 75% van alle leerlingen in de leeftijdsgroep/niveaugroep heeft een kans van 80% goed. 
 
 |  *Spelling*   |  *1F*   |  *2F*   |  *3F*   |  *4F*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | 1. Alfabetische spelling  | +  | --- | --- | --- |
 | 2. Orthografische spelling  | +  | --- | --- | --- |
 | 3. Morfologische spelling  Hieronder vallen de schrijfwijze van achtervoegsels, de meervoudsvorming, de verkleinwoordsvorming, regel van gelijkvormigheid bij assimilatie (zakdoek/zaddoek), vorming bijvoeglijk naamwoord  | +  | --- | --- | --- |
