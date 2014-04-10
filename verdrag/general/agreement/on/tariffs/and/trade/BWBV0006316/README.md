@@ -1,20 +1,19 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Algemene Overeenkomst betreffende tarieven en handel
+##Algemene Overeenkomst betreffende tarieven en handel 
 
 ####General Agreement on Tariffs and Trade
 
-The Governments of the Commonwealth of Australia, the Kingdom of Belgium, the United States of Brazil, Burma, Canada, Ceylon, the Republic of Chile, the Republic of China, the Republic of Cuba, the Czechoslovak Republic, the French Republic, India, Lebanon, the Grand-Duchy of Luxemburg, the Kingdom of the Netherlands, New Zealand, the Kingdom of Norway, Pakistan, Southern Rhodesia, Syria, the Union of South Africa, the United Kingdom of Great Britain and Northern Ireland, and the United States of America: Recognizing that their relations in the field of trade and economic endeavour should be conducted with a view to raising standards of living, ensuring full employment and a large and steadily growing volume of real income and effective demand, developing the full use of the resources of the world and expanding the production and exchange of goods; Being desirous of contributing to these objectives by entering into reciprocal and mutually advantageous arrangements directed to the substantial reduction of tariffs and other barriers to trade and to the elimination of discriminatory treatment in international commerce;   Have through their Representatives agreed as follows:     
-### PART  I   
-Wordt voorlopig toegepast per 01-01-1948   
+The Governments of the Commonwealth of Australia, the Kingdom of Belgium, the United States of Brazil, Burma, Canada, Ceylon, the Republic of Chile, the Republic of China, the Republic of Cuba, the Czechoslovak Republic, the French Republic, India, Lebanon, the Grand-Duchy of Luxemburg, the Kingdom of the Netherlands, New Zealand, the Kingdom of Norway, Pakistan, Southern Rhodesia, Syria, the Union of South Africa, the United Kingdom of Great Britain and Northern Ireland, and the United States of America: Recognizing that their relations in the field of trade and economic endeavour should be conducted with a view to raising standards of living, ensuring full employment and a large and steadily growing volume of real income and effective demand, developing the full use of the resources of the world and expanding the production and exchange of goods; Being desirous of contributing to these objectives by entering into reciprocal and mutually advantageous arrangements directed to the substantial reduction of tariffs and other barriers to trade and to the elimination of discriminatory treatment in international commerce;  Have through their Representatives agreed as follows:   
+### PART  I  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Article  I  
 
-####General Most-Favoured-Nation Treatment
+####<sup> 3)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>General Most-Favoured-Nation Treatment
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 3)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  With respect to customs duties and charges of any kind imposed on or in connection with importation or exportation or imposed on the international transfer of payments for imports or exports, and with respect to the method of levying such duties and charges, and with respect to all rules and formalities in connection with importation and exportation, and with respect to all matters referred to in paragraphs 2 and 4 of Article III, any advantage, favour, privilege or immunity granted by any contracting party to any product originating in or destined for any other country shall be accorded immediately and unconditionally to the like product originating in or destined for the territories of all other contracting parties.   
 2.  The provisions of paragraph 1 of this Article shall not require the elimination of any preferences in respect of import duties or charges which do not exceed the levels provided for in paragraph 4 of this Article and which fall within the following descriptions: 
 
@@ -25,20 +24,19 @@ Wordt voorlopig toegepast per 01-01-1948
 (c) preferences in force exclusively between the United States of America and the Republic of Cuba;  
 
 (d) preferences in force exclusively between neighbouring countries listed in Annexes E and F.     
-3.  The provisions of paragraph 1 shall not apply to preferences between the countries formerly a part of the Ottoman Empire and detached from it on July 24, 1923, provided such preferences are approved under sub-paragraph 5 (a) of Article XXV , which shall be applied in this respect in the light of paragraph 1 of Article XXIX. <sup> 1)  [Red: Als gevolg van de wijziging van artikel XXV van de Algemene Overeenkomst, voorzien in het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel, dient te worden gelezen: „under paragraph 5 of Article XXV”.]  </sup>   
+3.  The provisions of paragraph 1 shall not apply to preferences between the countries formerly a part of the Ottoman Empire and detached from it on July 24, 1923, provided such preferences are approved under sub-paragraph 5 (a) of Article XXV<sup> 1)  [Red: Als gevolg van de wijziging van artikel XXV van de Algemene Overeenkomst, voorzien in het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel, dient te worden gelezen: „under paragraph 5 of Article XXV”.] </sup>, which shall be applied in this respect in the light of paragraph 1 of Article XXIX.   
 4.  The margin of preference on any product in respect of which a preference is permitted under paragraph 2 of this Article but is not specifically set forth as a maximum margin of preference in the appropriate Schedule annexed to this Agreement shall not exceed: 
 
 (a) in respect of duties or charges on any product described in such Schedule, the difference between the most-favoured-nation and preferential rates provided for therein; if no preferential rate is provided for, the preferential rate shall for the purposes of this paragraph be taken to be that in force on April 10, 1947, and, if no most-favoured-nation rate is provided for, the margin shall not exceed the difference between the most-favoured-nation and preferential rates existing on April 10, 1947;  
 
-(b) in respect of duties or charges on any product not described in the appropriate Schedule, the difference between the most-favoured-nation and preferential rates existing on April 10, 1947.   In the case of the contracting parties named in Annex G, the date of April 10, 1947, referred to in sub-paragraph (a) and (b) of this paragraph shall be replaced by the respective dates set forth in that Annex.   
+(b) in respect of duties or charges on any product not described in the appropriate Schedule, the difference between the most-favoured-nation and preferential rates existing on April 10, 1947.   In the case of the contracting parties named in Annex G, the date of April 10, 1947, referred to in sub-paragraph (a) and (b) of this paragraph shall be replaced by the respective dates set forth in that Annex.  
 
 ### Article  II  
 
-####Schedules of Concessions
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Schedules of Concessions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1. 
 (a) Each contracting party shall accord to the commerce of the other contracting parties treatment no less favourable than that provided for in the appropriate Part of the appropriate Schedule annexed to this Agreement.  
 
@@ -60,18 +58,17 @@ Wordt voorlopig toegepast per 01-01-1948
 (a) The specific duties and charges included in the Schedules relating to contracting parties members of the International Monetary Fund, and margins of preference in specific duties and charges maintained by such contracting parties, are expressed in the appropriate currency at the par value accepted or provisionally recognized by the Fund at the date of this Agreement. Accordingly, in case this par value is reduced consistently with the Articles of Agreement of the International Monetary Fund by more than twenty per centum, such specific duties and charges and margins of preference may be adjusted to take account of such reduction; *Provided* that the CONTRACTING PARTIES *(i.e.* the contracting parties acting jointly as provided for in Article XXV) concur that such adjustments will not impair the value of the concessions provided for in the appropriate Schedule or elsewhere in this Agreement, due account being taken of all factors which may influence the need for, or urgency of, such adjustments.  
 
 (b) Similar provisions shall apply to any contracting party not a member of the Fund, as from the date on which such contracting party becomes a member of the Fund or enters into a special exchange agreement in pursuance of Article XV.     
-7.  The Schedules annexed to this Agreement are hereby made an integral part of Part I of this Agreement.   
+7.  The Schedules annexed to this Agreement are hereby made an integral part of Part I of this Agreement.  
 
-### PART  II   
-Wordt voorlopig toegepast per 01-01-1948   
+### PART  II  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Article  III  
 
-####National Treatment on Internal Taxation and Regulation
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>National Treatment on Internal Taxation and Regulation
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties recognize that internal taxes and other internal charges, and laws, regulations and requirements affecting the internal sale, offering for sale, purchase, transportation, distribution or use of products, and internal quantitative regulations requiring the mixture, processing or use of products in specified amounts or proportions, should not be applied to imported or domestic products so as to afford protection to domestic production.   
 2.  The products of the territory of any contracting party imported into the territory of any other contracting party shall not be subject, directly or indirectly, to internal taxes or other internal charges of any kind in excess of those applied, directly or indirectly, to like domestic products. Moreover, no contracting party shall otherwise apply internal taxes or other internal charges to imported or domestic products in a manner contrary to the principles set forth in paragraph 1.   
 3.  With respect to any existing internal tax which is inconsistent with the provisions of paragraph 2, but which is specifically authorized under a trade agreement, in force on April 10, 1947, in which the import duty on the taxed product is bound against increase, the contracting party imposing the tax shall be free to postpone the application of the provisions of paragraph 2 to such tax until such time as it can obtain release from the obligations of such trade agreement in order to permit the increase of such duty to the extent necessary to compensate for the elimination of the protective element of the tax.   
@@ -85,13 +82,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) The provisions of this Article shall not prevent the payment of subsidies exclusively to domestic producers, including payments to domestic producers derived from the proceeds of internal taxes or charges applied consistently with the provisions of this Article and subsidies effected through governmental purchases of domestic products.     
 9.  The contracting parties recognize that internal maximum price control measures, even though conforming to the other provisions of this Article, can have effects prejudicial to the interests of contracting parties supplying imported products. Accordingly, contracting parties applying such measures shall take account of the interests of exporting contracting parties with a view to avoiding to the fullest practicable extent such prejudicial effects.   
-10.  The provisions of this Article shall not prevent any contracting party from establishing or maintaining internal quantitative regulations relating to exposed cinematograph films and meeting the requirements of Article IV.   
+10.  The provisions of this Article shall not prevent any contracting party from establishing or maintaining internal quantitative regulations relating to exposed cinematograph films and meeting the requirements of Article IV.  
 
 ### Article  IV  
 
 ####Special Provisions relating to Cinematograph Films
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 If any contracting party establishes or maintains internal quantitative regulations relating to exposed cinematograph films, such regulations shall take the form of screen quotas which shall conform to the following requirements: 
 
@@ -101,13 +98,13 @@ If any contracting party establishes or maintains internal quantitative regulati
 
 (c) Notwithstanding the provisions of sub-paragraph (b) of this Article, any contracting party may maintain screen quotas conforming to the requirements of sub-paragraph (a) of this Article which reserve a minimum proportion of screen time for films of a specified origin other than that of the contracting party imposing such screen quotas; *Provided* that no such minimum proportion of screen time shall be increased above the level in effect on April 10, 1947;  
 
-(d) Screen quotas shall be subject to negotiation for their limitation, liberalization or elimination.    
+(d) Screen quotas shall be subject to negotiation for their limitation, liberalization or elimination.   
 
 ### Article  V  
 
 ####Freedom of Transit
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Goods (including baggage), and also vessels and other means of transport, shall be deemed to be in transit across the territory of a contracting party when the passage across such territory, with or without trans-shipment, warehousing, breaking bulk, or change in the mode of transport, is only a portion of a complete journey beginning and terminating beyond the frontier of the contracting party across whose territory the traffic passes. Traffic of this nature is termed in this Article “traffic in transit”.   
 2.  There shall be freedom of transit through the territory of each contracting party, via the routes most convenient for international transit, for traffic in transit to or from the territory of other contracting parties. No distinction shall be made which is based on the flag of vessels, the place of origin, departure, entry exit or destination, or on any circumstances relating to the ownership of goods, of vessels or of other means of transport.   
@@ -115,15 +112,14 @@ Wordt voorlopig toegepast per 01-01-1948
 4.  All charges and regulations imposed by contracting parties on traffic in transit to or from the territories of other contracting parties shall be reasonable, having regard to the conditions of the traffic.   
 5.  With respect to all charges, regulations and formalities in connection with transit, each contracting party shall accord to traffic in transit to or from the territory of any other contracting party treatment no less favourable than the treatment accorded to traffic in transit to or from any third country.   
 6.  Each contracting party shall accord to products which have been in transit through the territory of any other contracting party treatment no less favourable than that which would have been accorded to such products had they been transported from their place of origin to their destination without going through the territory of such other contracting party. Any contracting party shall, however, be free to maintain its requirements of direct consignment existing on the date of this Agreement, is respect of any goods in regard to which such direct consignment is a requisite condition of eligibility for entry of the goods at preferential rates of duty or has relation to the contracting party's prescribed method of valuation for duty purposes.   
-7.  The provisions of this Article shall not apply to the operation of aircraft in transit, but shall apply to air transit of goods (including baggage).   
+7.  The provisions of this Article shall not apply to the operation of aircraft in transit, but shall apply to air transit of goods (including baggage).  
 
 ### Article  VI  
 
-####Anti-dumping and Countervailing Duties
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Anti-dumping and Countervailing Duties
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties recognize that dumping, by which products of one country are introduced into the commerce of another country at less than the normal value of the products, is to be condemned if it causes or threatens material injury to an established industry in the territory of a contracting party or materially retards the establishment of a domestic industry. For the purposes of this Article, a product is to be considered as being introduced into the commerce of an importing country at less than its normal value, if the price of the product exported from one country to another 
 
 (a) is less than the comparable price, in the ordinary course of trade, for the like product when destined for consumption in the exporting country, or,  
@@ -148,15 +144,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) the system has also resulted in the sale of the commodity for export at a price higher than the comparable price charged for the like commodity to buyers in the domestic market, and  
 
-(b) the system is so operated, either because of the effective regulation of production, or otherwise, as not to stimulate exports unduly or otherwise seriously prejudice the interests of other contracting parties.     
+(b) the system is so operated, either because of the effective regulation of production, or otherwise, as not to stimulate exports unduly or otherwise seriously prejudice the interests of other contracting parties.    
 
 ### Article  VII  
 
-####Valuation for Customs Purposes
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Valuation for Customs Purposes
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties recognize the validity of the general principles of valuation set forth in the following paragraphs of this Article, and they undertake to give effect to such principles, in respect of all products subject to duties or other charges or restrictions on importation and exportation based upon or regulated in any manner by value. Moreover, they shall, upon a request by another contracting party review the operation of any of their laws or regulations relating to value for customs purposes in the light of these principles. The CONTRACTING PARTIES may request from contracting parties reports on steps taken by them in pursuance of the provisions of this Article.   
 2.  
 
@@ -174,16 +169,15 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) The CONTRACTING PARTIES, in agreementh with the International Monetary Fund, shall formulate rules governing the conversion by contracting parties of any foreign currency in respect of which multiple rates of exchange are maintained consistently with the Articles of Agreement of the International Monetary Fund. Any contracting party may apply such rules in respect of such foreign currencies for the purposes of paragraph 2 of this Article as an alternative to the use of par values. Until such rules are adopted by the CONTRACTING PARTIES, any contracting party may employ, in respect of any such foreign currency, rules of conversion for the purposes of paragraph 2 of this Article which are designed to reflect effectively the value of such foreign currency in commercial transactions.  
 
-(d) Nothing in this paragraph shall be construed to require any contracting party to alter the method of converging currencies for customs purposes which is applicable in its territory on the date of this Agreement, if such alteration would have the effect of increasing generally the amounts of duty payable.     
-5.  The bases and methods for determining the value of products subject to duties or other charges or restrictions based upon or regulated in any manner by value should be stable and should be given sufficient publicity to enable traders to estimate, with a reasonable degree of certainty, the value for customs purposes.   
+(d) Nothing in this paragraph shall be construed to require any contracting party to alter the method of converting currencies for customs purposes which is applicable in its territory on the date of this Agreement, if such alteration would have the effect of increasing generally the amounts of duty payable.     
+5.  The bases and methods for determining the value of products subject to duties or other charges or restrictions based upon or regulated in any manner by value should be stable and should be given sufficient publicity to enable traders to estimate, with a reasonable degree of certainty, the value for customs purposes.  
 
 ### Article  VIII  
 
-####Fees and Formalities connected with Importation and Exportation
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Fees and Formalities connected with Importation and Exportation
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  
 
 (a) All fees and charges of whatever character (other than import and export duties and other than taxes within the purview of Article III) imposed by contracting parties on or in connection with importation or exportation shall be limited in amount to the approximate cost of services rendered and shall not represent an indirect protection to domestic products or a taxation of imports or exports for fiscal purposes.  
@@ -209,27 +203,26 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (g) analysis and inspection; and  
 
-(h) quarantine, sanitation and fumigation.     
+(h) quarantine, sanitation and fumigation.    
 
 ### Article  IX  
 
-####Marks of Origin
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Marks of Origin
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  Each contracting party shall accord to the products of the territories of other contracting parties treatment with regard to marking requirements no less favourable than the treatment accorded to like products of any third country.   
 2.  The contracting parties recognize that, in adopting and enforcing laws and regulations relating to marks of origin, the difficulties and inconveniences which such measures may cause to the commerce and industry of exporting countries should be reduced to a minimum, due regard being had to the necessity of protecting consumers against fraudulent or misleading indications.   
 3.  Whenever it is administratively practicable to do so, contracting parties should permit required marks of origin to be affixed at the time of importation.   
 4.  The laws and regulations of contracting parties relating to the marking of imported products shall be such as to permit compliance without seriously damaging the products, or materially reducing their value, or unreasonably increasing their cost.   
 5.  As a general rule, no special duty or penalty should be imposed by any contracting party for failure to comply with marking requirements prior to importation unless corrective marking is unreasonably delayed or deceptive marks have been affixed or the required marking has been intentionally omitted.   
-6.  The contracting parties shall co-operate with each other with a view to preventing the use of trade names in such manner as to misrepresent the true origin of a product, to the detriment of such distinctive regional or geographical names of products of the territory of a contracting party as are protected by its legislation. Each contracting party shall accord full and sympathetic consideration to such requests or representations as may be made by any other contracting party regarding the application of the undertaking set forth in the preceding sentence to names of products which have been communicated to it by the other contracting party.   
+6.  The contracting parties shall co-operate with each other with a view to preventing the use of trade names in such manner as to misrepresent the true origin of a product, to the detriment of such distinctive regional or geographical names of products of the territory of a contracting party as are protected by its legislation. Each contracting party shall accord full and sympathetic consideration to such requests or representations as may be made by any other contracting party regarding the application of the undertaking set forth in the preceding sentence to names of products which have been communicated to it by the other contracting party.  
 
 ### Article  X  
 
 ####Publication and Administration of Trade Regulations
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Laws, regulations, judicial decisions and administrative rulings of general application, made effective by any contracting party, pertaining to the classification or the valuation of products for customs purposes, or to rates of duty, taxes or other charges, or to requirements, restrictions or prohibitions on imports or exports or on the transfer of payments therefor, or affecting their sale, distribution, transportation, insurance, warehousing, inspection, exhibition, processing, mixing or other use, shall be published promptly in such a manner as to enable governments and traders to become acquainted with them. Agreements affecting international trade policy which are in force between the government or a governmental agency of any contracting party and the government or governmental agency of any other contracting party shall also be published. The provisions of this paragraph shall not require any contracting party to disclose confidential information which would impede law enforcement or otherwise be contrary to the public interest or would prejudice the legitimate commercial interests of particular enterprises, public or private.   
 2.  No measure of general application taken by any contracting party effecting an advance in a rate of duty or other charge on imports under an established and uniform practice, or imposing a new or more burdensome requirement, restriction or prohibition on imports, or on the transfer of payments therefor, shall be enforced before such measure has been officially published.   
@@ -239,15 +232,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) Each contracting party shall maintain, or institute as soon as practicable, judicial, arbitral or administrative tribunals or procedures for the purpose, *inter alia,* of the prompt review and correction of administrative action relating to customs matters. Such tribunals or procedures shall be independent of the agencies entrusted with administrative enforcement and their decisions shall be implemented by, and shall govern the practice of, such agencies unless an appeal is lodged with a court or tribunal of superior jurisdiction within the time prescribed for appeals to be lodged by importers; *Provided* that the central administration of such agency may take steps to obtain a review of the matter in another proceeding if there is good cause to believe that the decision is inconsistent with established principles of law or the actual facts.  
 
-(c) The provisions of sub-paragraph (b) of this paragraph shall not require the elimination or substitution of procedures in force in the territory of a contracting party on the date of this Agreement which in fact provide for an objective and impartial review of administrative action even though such procedures are not fully or formally independent of the agencies entrusted with administrative enforcement. Any contracting party employing such procedures shall, upon request, furnish the CONTRACTING PARTIES with full information thereon in order that they may determine whether such procedures conform to the requirements of this sub-paragraph.     
+(c) The provisions of sub-paragraph (b) of this paragraph shall not require the elimination or substitution of procedures in force in the territory of a contracting party on the date of this Agreement which in fact provide for an objective and impartial review of administrative action even though such procedures are not fully or formally independent of the agencies entrusted with administrative enforcement. Any contracting party employing such procedures shall, upon request, furnish the CONTRACTING PARTIES with full information thereon in order that they may determine whether such procedures conform to the requirements of this sub-paragraph.    
 
 ### Article  XI  
 
-####General Elimination of Quantitative Restrictions
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>General Elimination of Quantitative Restrictions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  No prohibitions or restrictions other than duties, taxes or other charges, whether made effective through quotas, import or export licenses or other measures, shall be instituted or maintained by any contracting party on the importation of any product of the territory of any other contracting party or on the exportation or sale for export of any product destined for the territory of any other contracting party.   
 2.  The provisions of paragraph 1 of this Article shall not extend to the following: 
 
@@ -261,15 +253,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (ii) to remove a temporary surplus of the like domestic product, or, if there is no substantial domestic production of the like product, of a domestic product for which the imported product, can be directly substituted, by making the surplus available to certain groups of domestic consumers free of charge or at prices below the current market level; or  
 
-(iii) to restrict the quantities permitted to be produced of any animal product the production of which is directly dependent, wholly or mainly, on the imported commodity, if the domestic production of that commodity is relatively negligible.     Any contracting party applying restrictions on the importation of any product pursuant to sub-paragraph (c) of this paragraph shall give public notice of the total quantity or value of the product permitted to be imported during a specified future period and of any change in such quantity or value. Moreover, any restrictions applied under (i) above shall not be such as will reduce the total of imports relative to the total of domestic production, as compared with the proportion which might reasonably be expected to rule between the two in the absence of restrictions. In determining this proportion, the contracting party shall pay due regard to the proportion prevailing during a previous representative period and to any special factors which may have affected or may be affecting the trade in the product concerned.   
+(iii) to restrict the quantities permitted to be produced of any animal product the production of which is directly dependent, wholly or mainly, on the imported commodity, if the domestic production of that commodity is relatively negligible.     Any contracting party applying restrictions on the importation of any product pursuant to sub-paragraph (c) of this paragraph shall give public notice of the total quantity or value of the product permitted to be imported during a specified future period and of any change in such quantity or value. Moreover, any restrictions applied under (i) above shall not be such as will reduce the total of imports relative to the total of domestic production, as compared with the proportion which might reasonably be expected to rule between the two in the absence of restrictions. In determining this proportion, the contracting party shall pay due regard to the proportion prevailing during a previous representative period and to any special factors which may have affected or may be affecting the trade in the product concerned.  
 
 ### Article  XII  
 
-####Restrictions to Safeguard the Balance of Payments
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Restrictions to Safeguard the Balance of Payments
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  Notwithstanding the provisions of paragraph 1 of Article XI, any contracting party, in order to safeguard its external financial position and its balance of payments, may restrict the quantity or value of merchandise permitted to be imported, subject to the provisions of the following paragraphs of this Article.   
 2.  
 
@@ -312,15 +303,14 @@ Wordt voorlopig toegepast per 01-01-1948
 (e) In proceeding under this paragraph, the CONTRACTING PARTIES shall have due regard to any special external factors adversely affecting the export trade of the contracting party applying restrictions.  
 
 (f) Determinations under this paragraph shall be rendered expeditiously and, if possible, within sixty days of the initiation of the consultations.     
-5.  If there is a persistent and widespread application of import restrictions under this Article, indicating the existence of a general disequilibrium which is restricting international trade, the CONTRACTING PARTIES shall initiate discussions to consider whether other measures might be taken, either by those contracting parties the balances of payments of which are under pressure or by those the balances of payments of which are tending to be exceptionally favourable, or by any appropriate intergovernmental organization, to remove the underlying causes of the disequilibrium. On the invitation of the CONTRACTING PARTIES, contracting parties shall participate in such discussions.   
+5.  If there is a persistent and widespread application of import restrictions under this Article, indicating the existence of a general disequilibrium which is restricting international trade, the CONTRACTING PARTIES shall initiate discussions to consider whether other measures might be taken, either by those contracting parties the balances of payments of which are under pressure or by those the balances of payments of which are tending to be exceptionally favourable, or by any appropriate intergovernmental organization, to remove the underlying causes of the disequilibrium. On the invitation of the CONTRACTING PARTIES, contracting parties shall participate in such discussions.  
 
 ### Article  XIII  
 
-####Non-discriminatory Administration of Quantitative Restrictions
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Non-discriminatory Administration of Quantitative Restrictions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  No prohibition or restriction shall be applied by any contracting party on the importation of any product of the territory of any other contracting party or on the exportation of any product destined for the territory of any other contracting party, unless the importation of the like product of all third countries or the exportation of the like product to all third countries is similarly prohibited or restricted.   
 2.  In applying import restrictions to any product, contracting parties shall aim at a distribution of trade in such product approaching as closely as possible to the shares which the various contracting parties might be expected to obtain in the absence of such restrictions, and to this end shall observe the following provisions: 
 
@@ -333,21 +323,20 @@ Wordt voorlopig toegepast per 01-01-1948
 (d) In cases in which a quota is allocated among supplying countries, the contracting party applying the restrictions may seek agreement with respect to the allocation of shares in the quota with all other contracting parties having a substantial interest in supplying the product concerned. In cases in which this method is not reasonably practicable, the contracting party concerned shall allot to contracting parties having a substantial interest in supplying the product shares based upon the proportions, supplied by such contracting parties during a previous representative period, of the total quantity or value of imports of the product, due account being taken of any special factors which may have affected or may be affecting the trade in the product. No conditions or formalities shall be imposed which would prevent any contracting party from utilizing fully the share of any such total quantity or value which has been allotted to it, subject to importation being made within any prescribed period to which the quota may relate.     
 3.  
 
-(a) In cases in which import licences are issued in connection with import restrictions, the contracting party applying the restrictions shall provide, upon the request of any contracting party having an interest in the trade in the product concerned, all relevant information concerning the administration of the restrictions, the import licences granted over a recent period and the distribution of such licences among supplying countries: *Provided* that there shall be no obligation to supply information as to the name of importing or supplying enterprises.  
+(a) In cases in which import licences are issued in connection with import restrictions, the contracting party applying the restrictions shall provide, upon the request of any contracting party having an interest in the trade in the product concerned, all relevant information concerning the administration of the restrictions, the import licences granted over a recent period and the distribution of such licences among supplying countries: *Provided* that there shall be no obligation to supply information as to the names of importing or supplying enterprises.  
 
 (b) In the case of import restrictions involving the fixing of quotas, the contracting party applying the restrictions shall give public notice of the total quantity or value of the product or products which will be permitted to be imported during a specified future period and of any change in such quantity or value. Any supplies of the product in question which were *en route* at the time at which public notice was given shall not be excluded from entry; *Provided* that they may be counted so far as practicable, against the quantity permitted to be imported in the period in question, and also, where necessary, against the quantities permitted to be imported in the next following period or periods; and *Provided* further that if any contracting party customarily exempts from such restrictions products entered for consumption or withdrawn from warehouse for consumption during a period of thirty days after the day of such public notice, such practice shall be considered full compliance with this sub-paragraph.  
 
 (c) In the case of quotas allocated among supplying countries, the contracting party applying the restrictions shall promptly inform all other contracting parties having an interest in supplying the product concerned of the shares in the quota currently allocated, by quantity or value, to the various supplying countries and shall give public notice thereof.     
 4.  With regard to restrictions applied in accordance with paragraph 2 (d) of this Article or under paragraph 2 (c) of Article XI, the selection of a representative period for any product and the appraisal of any special factors affecting the trade in the product shall be made initially by the contracting party applying the restriction; *Provided* that such contracting party shall, upon the request of any other contracting party having a substantial interest in supplying that product or upon the request of the CONTRACTING PARTIES, consult promptly with the other contracting party or the CONTRACTING PARTIES regarding the need for an adjustment of the proportion determined or of the base period selected, or for the reappraisal of the special factors involved, or for the elimination of conditions, formalities or any other provisions established unilaterally relating to the allocation of an adequate quota or its unrestricted utilization.   
-5.  The provisions of this Article shall apply to any tariff quota instituted or maintained by any contracting party, and, in so far as applicable, the principles of this Article shall also extend to export restrictions.   
+5.  The provisions of this Article shall apply to any tariff quota instituted or maintained by any contracting party, and, in so far as applicable, the principles of this Article shall also extend to export restrictions.  
 
 ### Article  XIV  
 
-####Exceptions to the Rule of Non-discrimination
+####<sup> 1)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Exceptions to the Rule of Non-discrimination
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  A contracting party which applies restrictions under Article XII or under Section B of Article XVIII may, in the application of such restrictions, deviate from the provisions of Article XIII in a manner having equivalent effect to restrictions on payments and transfers for current international transactions which that contracting party may at that time apply under Article VIII or XIV of the Articles of Agreement of the International Monetary Fund, or under analogous provisions of a special exchange agreement entered into pursuant to paragraph 6 of Article XV.   
 2.  A contracting party which is applying import restrictions under Article XII or under Section B of Article XVIII may, with the consent of the CONTRACTING PARTIES, temporarily deviate from the provisions of Article XIII in respect of a small part of its external trade where the benefits to the contracting party or contracting parties concerned substantially outweigh any injury which may result to the trade of other contracting parties.   
 3.  The provisions of Article XIII shall not preclude a group of territories having a common quota in the International Monetary Fund from applying against imports from other countries, but not among themselves, restrictions in accordance with the provisions of Article XII or of Section B of Article XVIII on condition that such restrictions are in all other respects consistent with the provisions of Article XIII.   
@@ -356,15 +345,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) having equivalent effect to exchange restrictions authorized under Section 3(b) of Article VII of the Articles of Agreement of the International Monetary Fund, or  
 
-(b) under the preferential arrangements provided for in Annex A of this Agreement, pending the outcome of the negotiations referred to therein.     
+(b) under the preferential arrangements provided for in Annex A of this Agreement, pending the outcome of the negotiations referred to therein.    
 
 ### Article  XV  
 
-####Exchange Arrangements
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Exchange Arrangements
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The CONTRACTING PARTIES shall seek co-operation with the International Monetary Fund to the end that the CONTRACTING PARTIES and the Fund may pursue a co-ordinated policy with regard to exchange questions within the jurisdiction of the Fund and questions of quantitative restrictions and other trade measures within the jurisdiction of the CONTRACTING PARTIES.   
 2.  In all cases in which the CONTRACTING PARTIES are called upon to consider or deal with problems concerning monetary reserves, balances of payments or foreign exchange arrangements, they shall consult fully with the International Monetary Fund. In such consultations, the CONTRACTING PARTIES shall accept all findings of statistical and other facts presented by the Fund relating to foreign exchange, monetary reserves and balances of payments, and shall accept the determination of the Fund as to whether action by a contracting party in exchange matters is in accordance with the Articles of Agreement of the International Monetary Fund, or with the terms of a special exchange agreement between that contracting party and the CONTRACTING PARTIES. The CONTRACTING PARTIES, in reaching their final decision in cases involving the criteria set forth in paragraph 2(a) of Article XII or in paragraph 9 of Article XVIII, shall accept the determination of the Fund as to what constitutes a serious decline in the Contracting party's monetary reserves, a very low level of its monetary reserves or a reasonable rate of increase in its monetary reserves, and as to the financial aspects of other matters covered in consultation in such cases.   
 3.  The CONTRACTING PARTIES shall seek agreement with the Fund regarding procedures for consultation under paragraph 2 of this Article.   
@@ -381,15 +369,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) the use by a contracting party of exchange controls or exchange restrictions in accordance with the Articles of Agreement of the International Monetary Fund or with that contracting party's special exchange agreement with the CONTRACTING PARTIES, or  
 
-(b) the use by a contracting party of restrictions or controls on imports or exports, the sole effect of which, additional to the effects permitted under Articles XI, XII, XIII and XIV, is to make effective such exchange controls or exchange restrictions.     
+(b) the use by a contracting party of restrictions or controls on imports or exports, the sole effect of which, additional to the effects permitted under Articles XI, XII, XIII and XIV, is to make effective such exchange controls or exchange restrictions.    
 
 ### Article  XVI  
 
-####Subsidies
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd) en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Subsidies
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd) en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  
 ###Section A
 
 ### *Subsidies in General* 
@@ -402,15 +389,14 @@ Wordt voorlopig toegepast per 01-01-1948
 2.  The contracting parties recognize that the granting by a contracting party of a subsidy on the export of any product may have harmful effects for other contracting parties, both importing and exporting, may cause undue disturbance to their normal commercial interests, and may hinder the achievement of the Objectives of this Agreement.   
 3.  Accordingly, contracting parties should seek to avoid the use of subsidies on the export of primary products. If, however, a contracting party grants directly or indirectly any form of subsidy which operates to increase the export of any primary product from its territory, such subsidy shall not be applied in a manner which results in that contracting party having more than an equitable share of world export trade in that product, account being taken of the shares of the contracting parties in such trade in the product during a previous representative period, and any special factors which may have affected or may be affecting such trade in the product.   
 4.  Further, as from 1 January 1958 or the earliest practicable date thereafter, contracting parties shall cease to grant either directly or indirectly any form of subsidy on the export of any product other than a primary product which subsidy results in the sale of such product for export at a price lower than the comparable price charged for the like product to buyers in the domestic market. Until 31 December 1957 no contracting party shall extend the scope of any such subsidization beyond that existing on 1 January 1955 by the introduction of new, or the extension of existing, subsidies.   
-5.  The CONTRACTING PARTIES shall review the operation of the provisions of this Article from time to time with a view to examining its effectiveness, in the light of actual experience, in promoting the objectives of this Agreement and avoiding subsidization seriously prejudicial to the trade or interests of contracting parties.   
+5.  The CONTRACTING PARTIES shall review the operation of the provisions of this Article from time to time with a view to examining its effectiveness, in the light of actual experience, in promoting the objectives of this Agreement and avoiding subsidization seriously prejudicial to the trade or interests of contracting parties.  
 
 ### Article  XVII  
 
-####State Trading Enterprises
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>State Trading Enterprises
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  
 
 (a) Each contracting party undertakes that if it establishes or maintains a State enterprise, wherever located, or grants to any enterprise, formally or in effect, exclusive or special privileges, such enterprise shall, in its purchases or sales involving either imports or exports, act in a manner consistent with the general principles of non-discriminatory treatment prescribed in this Agreement for governmental measures affecting imports or exports by private traders.  
@@ -428,15 +414,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) The CONTRACTING PARTIES may, at the request of a contracting party which has reason to believe that its interests under this Agreement are being adversely affected by the operations of an enterprise of the kind described in paragraph 1 (a), request the contracting party establishing, maintaining or authorizing such enterprise to supply information about its operations related to the carrying out of the provisions of this Agreement.  
 
-(d) The provisions of this paragraph shall not require any contracting party to disclose confidential information which would impede law enforcement or otherwise be contrary to the public interest or would prejudice the legitimate commercial interests of particular enterprises.     
+(d) The provisions of this paragraph shall not require any contracting party to disclose confidential information which would impede law enforcement or otherwise be contrary to the public interest or would prejudice the legitimate commercial interests of particular enterprises.    
 
 ### Article  XVIII  
 
-####Governmental Assistance to Economic Development
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Governmental Assistance to Economic Development
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties recognize that the attainment of the objectives of this Agreement will be facilitated by the progressive development of their economies, particularly of those contracting parties the economies of which can only support low standards of living and are in the early stages of development.   
 2.  The contracting parties recognize further that it may be necessary for those contracting parties, in order to implement programmes and policies of economic development designed to raise the general standard of living of their people, to take protective or other measures affecting imports, and that such measures are justified in so far as they facilitate the attainment of the objectives of this Agreement. They agree, therefore, that those contracting parties should enjoy additional facilities to enable them (a) to maintain sufficient flexibility in their tariff structure to be able to grant the tariff protection required for the establishment of a particular industry and (b) to apply quantitative restrictions for balance of payments purposes in a manner which takes full account of the continued high level of demand for imports likely to be generated by their programmes of economic development.   
 3.  The contracting parties recognize finally that with those additional facilities which are provided for in Sections A and B of this Article, the provisions of this Agreement would normally be sufficient to enable contracting parties to meet the requirements of their economic development. They agree, however, that there may be circumstances where no measure consistent with those provisions is practicable to permit a contracting party in the process of economic development to grant the governmental assistance required to promote the establishment of particular industries with a view to raising the general standard of living of its people. Special procedures are laid down in Sections C and D of this Article to deal with those cases.   
@@ -499,15 +484,14 @@ Wordt voorlopig toegepast per 01-01-1948
 ###Section D
 
 22.  A contracting party coming within the scope of sub-paragraph 4 (b) of this Article desiring, in the interest of the development of its economy, to introduce a measure of the type described in paragraph 13 of this Article in respect of the establishment of a particular industry may apply to the CONTRACTING PARTIES for approval of such measure. The CONTRACTING PARTIES shall promptly consult with such contracting party and shall, in making their decision, be guided by the considerations set out in paragraph 16. If the CONTRACTING PARTIES concur in the proposed measure the contracting party concerned shall be released from its obligations under the relevant provisions of the other Articles of this Agreement to the extent necessary to permit it to apply the measure. If the proposed measure affects a product which is the subject of a concession included in the appropriate Schedule annexed to this Agreement, the provisions of paragraph 18 shall apply.   
-23.  Any measure applied under this Section shall comply with the provisions of paragraph 20 of this Article.   
+23.  Any measure applied under this Section shall comply with the provisions of paragraph 20 of this Article.  
 
 ### Article  XIX  
 
-####Emergency Action on Imports of Particular Products
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Emergency Action on Imports of Particular Products
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  
 
 (a) If, as a result of unforeseen developments and of the effect of the obligations incurred by a contracting party under this Agreement, including tariff concessions, any product is being imported into the territory of that contracting party in such increased quantities and under such conditions as to cause or threaten serious injury to domestic producers in that territory of like or directly competitive products, the contracting party shall be free, in respect of such product, and to the extent and for such time as may be necessary to prevent or remedy such injury, to suspend the obligation in whole or in part or to withdraw or modify the concession.  
@@ -518,15 +502,15 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) If agreement among the interested contracting parties with respect to the action is not reached, the contracting party which proposes to take or continue the action shall, nevertheless, be free to do so, and if such action is taken or continued, the affected contracing parties shall then be free, not later than ninety days after such action is taken, to suspend, upon the expiration of thirty days from the day on which written notice of such suspension is received by the CONTRACTING PARTIES, the application to the trade of the contracting party taking such action, or, in the case envisaged in paragraph 1 (b) of this Article, to the trade of the contracting party requesting such action, of such substantially equivalent concessions or other obligations under this Agreement the suspension of which the CONTRACTING PARTIES do not disapprove.  
 
-(b) Nothwithstanding the provisions of sub-paragraph (a) of this paragraph, where action is taken under paragraph 2 of this Article without prior consultation and causes or threatens serious injury in the territory of a contracting party to the domestic producers of products affected by the action, that contracting party shall, where delay would cause damage difficult to repair, be free to suspend, upon the taking of the action and throughout the period of consultation, such concessions or other obligations as may be necessary to prevent or remedy the injury.     
+(b) Nothwithstanding the provisions of sub-paragraph (a) of this paragraph, where action is taken under paragraph 2 of this Article without prior consultation and causes or threatens serious injury in the territory of a contracting party to the domestic producers of products affected by the action, that contracting party shall, where delay would cause damage difficult to repair, be free to suspend, upon the taking of the action and throughout the period of consultation, such concessions or other obligations as may be necessary to prevent or remedy the injury.    
 
 ### Article  XX  
 
-####General Exceptions
+####<sup> 1)  [Red: Gewijzigd bij het (Eerste) Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>General Exceptions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het (Eerste) Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between countries where the same conditions prevail, or a disguised restriction on international trade, nothing in this Agreement shall be construed to prevent the adoption or enforcement by any contracting party of measures: 
+Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between countries where the same conditions prevail, or a disguised restriction on international trade, nothing in this Agreement shall be construed to prevent the adoption or enforcement by any contracting party of measures: 
 
 (a) necessary to protect public morals;  
 
@@ -546,15 +530,15 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (i) involving restrictions on exports of domestic materials necessary to assure essential quantities of such materials to a domestic processing industry during periods when the domestic price of such materials is held below the world price as part of a governmental stabilization plan; *Provided* that such restrictions shall not operate to increase the exports of or the protection afforded to such domestic industry, and shall not depart from the provisions of this Agreement relating to nondiscrimination;  
 
-(j) essential to the acquisition or distribution of products in general or local short supply; *Provided* that any such measures shall be consistent with the principle that all contracting parties are entitled to an equitable share of the international supply of such products, and that any such measures, which are inconsistent with the other provisions of this Agreement shall be discontinued as soon as the conditions giving rise to them have ceased to exist. The CONTRACTING PARTIES shall review the need for this sub-paragraph not later than 30 June 1960.    
+(j) essential to the acquisition or distribution of products in general or local short supply; *Provided* that any such measures shall be consistent with the principle that all contracting parties are entitled to an equitable share of the international supply of such products, and that any such measures, which are inconsistent with the other provisions of this Agreement shall be discontinued as soon as the conditions giving rise to them have ceased to exist. The CONTRACTING PARTIES shall review the need for this sub-paragraph not later than 30 June 1960.   
 
 ### Article  XXI  
 
-####Security Exceptions
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Security Exceptions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  Nothing in this Agreement shall be construed 
+Nothing in this Agreement shall be construed 
 
 (a) to require any contracting party to furnish any information the disclosure of which it considers contrary to its essential security interests; or  
 
@@ -566,38 +550,35 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (iii) taken in time of war or other emergency in international relations; or    
 
-(c) to prevent any contracting party from taking any action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.    
+(c) to prevent any contracting party from taking any action in pursuance of its obligations under the United Nations Charter for the maintenance of international peace and security.   
 
 ### Article  XXII  
 
-####Consultation
+####<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Consultation
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  Each contracting party shall accord sympathetic consideration to, and shall afford adequate opportunity for consultation regarding, such representations as may be made by another contracting party with respect to any matter affecting the operation of this Agreement.   
-2.  The CONTRACTING PARTIES may, at the request of a contracting party, consult with any contracting party or parties in respect of any matter for which it has not been possible to find a satisfactory solution through consultation under paragraph 1.   
+2.  The CONTRACTING PARTIES may, at the request of a contracting party, consult with any contracting party or parties in respect of any matter for which it has not been possible to find a satisfactory solution through consultation under paragraph 1.  
 
 ### Article  XXIII  
 
-####Nullification or Impairment
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Nullification or Impairment
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  If any contracting party should consider that any benefit accruing to it directly or indirectly under this Agreement is being nullified or impaired of that the attainment of any objective of the Agreement is being impeded as the result of (a) the failure of another contracting party to carry out its obligations under this Agreement, or (b) the application by another contracting party of any measure, whether or not it conflicts with the provisions of this Agreement or (c) the existence of any other situation, the contracting party may, with a view to the satisfactory adjustment of the matter, make written representations or proposals to the other contracting party or parties which it considers to be concerned. Any contracting party thus approached shall give sympathetic consideration to the representations or proposals made to it.   
-2.  If no satisfactory adjustment is effected between the contracting parties concerned within a reasonable time, or if the difficulty is of the type described in paragraph 1 (c) of this Article, the matter may be referred to the CONTRACTING PARTIES. The CONTRACTING PARTIES shall promptly investigate any matter so referred to them and shall make appropriate recommendations to the contracting parties which they consider to be concerned, or give a ruling on the matter, as appropriate. The CONTRACTING PARTIES may consult with contracting parties, with the Economic and Social Council of the United Nations and with any appropriate intergovernmental organization in cases where they consider such consultation necessary. If the CONTRACTING PARTIES consider that the circumstances are serious enough to justify such action, they may authorize a contracting party or parties to suspend the application to any other contracting party or parties of such concessions or other obligations under this Agreement as they determine to be appropriate in the circumstances. If the application to any contracting party of any concession or other obligation is in fact suspended, that contracting party shall then be free, not later than sixty days after such action is taken to give written notice to the Executive Secretary to the CONTRACTING PARTIES of its intention to withdraw from this Agreement and such withdrawal shall take effect upon the sixtieth day following the day on which such notice is received by him.   
+2.  If no satisfactory adjustment is effected between the contracting parties concerned within a reasonable time, or if the difficulty is of the type described in paragraph 1 (c) of this Article, the matter may be referred to the CONTRACTING PARTIES. The CONTRACTING PARTIES shall promptly investigate any matter so referred to them and shall make appropriate recommendations to the contracting parties which they consider to be concerned, or give a ruling on the matter, as appropriate. The CONTRACTING PARTIES may consult with contracting parties, with the Economic and Social Council of the United Nations and with any appropriate intergovernmental organization in cases where they consider such consultation necessary. If the CONTRACTING PARTIES consider that the circumstances are serious enough to justify such action, they may authorize a contracting party or parties to suspend the application to any other contracting party or parties of such concessions or other obligations under this Agreement as they determine to be appropriate in the circumstances. If the application to any contracting party of any concession or other obligation is in fact suspended, that contracting party shall then be free, not later than sixty days after such action is taken to give written notice to the Executive Secretary to the CONTRACTING PARTIES of its intention to withdraw from this Agreement and such withdrawal shall take effect upon the sixtieth day following the day on which such notice is received by him.  
 
-### PART  III   
-Wordt voorlopig toegepast per 01-01-1948   
+### PART   III  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Article  XXIV  
 
-####Territorial Application – Frontier Traffic – Customs Unions and Free-trade Areas
+####<sup> 1)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XXIV van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Territorial Application – Frontier Traffic – Customs Unions and Free-trade Areas
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XXIV van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The provisions of this Agreement shall apply to the metropolitan customs territories of the contracting parties and to any other customs territories in respect of which this Agreement has been accepted under Article XXVI or is being applied under Article XXXIII or pursuant to the Protocol of Provisional Application. Each such customs territory shall, exclusively for the purposes of the territorial application of this Agreement, be treated as though it were a contracting party; *Provided* that the provisions of this paragraph shall not be construed to create any rights or obligations as between two or more customs territories in respect of which this Agreement has been accepted under Article XXVI or is being applied under Article XXXIII or pursuant to the Protocol of Provisional Application by a single contracting party.   
 2.  For the purposes of this Agreement a customs territory shall be understood to mean any territory with respect to which separate tariffs or other regulations of commerce are maintained for a substantial part of the trade of such territory with other territories,   
 3.  The provisions of this Agreement shall not be construed to prevent: 
@@ -633,15 +614,14 @@ Wordt voorlopig toegepast per 01-01-1948
 9.  The preferences referred to in paragraph 2 of Article I shall not be affected by the formation of a customs union or of a free-trade area but may be eliminated or adjusted by means of negotiations with contracting parties affected. This procedure of negotiations with affected contracting parties shall, in particular, apply to the elimination of preferences required to conform with the provisions of paragraph 8 (a) (i) and paragraph 8 (b).   
 10.  The CONTRACTING PARTIES may by a two-thirds majority approve proposals which do not fully comply with the requirements of paragraphs 5 to 9 inclusive, provided that such proposals lead to the formation of a customs union or a free-trade area in the sense of this Article.   
 11.  Taking into account the exceptional circumstances arising out of the establishment of India and Pakistan as independent States and recognizing the fact that they have long constituted an economic unit, the contracting parties agree that the provisions of this Agreement shall not prevent the two countries from entering into special arrangements with respect to the trade between them, pending the establishment of their mutual trade relations on a definitive basis.   
-12.  Each contracting party shall take such reasonable measures as may be available to it to ensure observance of the provisions of this Agreement by the regional and local governments and authorities within its territory.   
+12.  Each contracting party shall take such reasonable measures as may be available to it to ensure observance of the provisions of this Agreement by the regional and local governments and authorities within its territory.  
 
 ### Article  XXV  
 
-####Joint Action by the Contracting Parties
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Joint Action by the Contracting Parties
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  Representatives of the contracting parties shall meet from time to time for the purpose of giving effect to those provisions of this Agreement which involve joint action and, generally, with a view to facilitating the operation and furthering the objectives of this Agreement. Wherever reference is made in this Agreement to the contracting parties acting jointly they are designated as the CONTRACTING PARTIES.   
 2.  The Secretary-General of the United Nations is requested to convene the first meeting of the CONTRACTING PARTIES, which shall take place not later than March 1, 1948.   
 3.  Each contracting party shall be entitled to have one vote at all meetings of the CONTRACTING PARTIES.   
@@ -650,15 +630,14 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (i) define certain categories of exceptional circumstances to which other voting requirements shall apply for the waiver of obligations, and  
 
-(ii) prescribe such criteria as may be necessary for the application of this sub-paragraph . <sup> 1)  [Red: Kennelijk is bedoeld: „of this paragraph”.]  </sup>     
+(ii) prescribe such criteria as may be necessary for the application of this sub-paragraph<sup> 1)  [Red: Kennelijk is bedoeld: „of this paragraph”.] </sup>.    
 
 ### Article  XXVI  
 
-####Acceptance, Entry into Force and Registration
+####<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.   Vergelijk de Resolutie van 7 maart 1955 van de VERDRAGSLUITENDE PARTIJEN bij de Algemene Overeenkomst, houdende de eenstemmige goedkeuring om een voorbehoud te maken bij de aanvaarding der Overeenkomst overeenkomstig haar artikel XXVI.] </sup>Acceptance, Entry into Force and Registration
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.   Vergelijk de Resolutie van 7 maart 1955 van de VERDRAGSLUITENDE PARTIJEN bij de Algemene Overeenkomst, houdende de eenstemmige goedkeuring om een voorbehoud te maken bij de aanvaarding der Overeenkomst overeenkomstig haar artikel XXVI.]  </sup>   
 1.  The date of this Agreement shall be 30 October 1947.   
 2.  This Agreement shall be open for acceptance by any contracting party which, on 1 March 1955, was a contracting party or was negotiating with a view to accession to this Agreement.   
 3.  This Agreement, done in a single English original and in a single French original, both texts authentic, shall be deposited with the Secretary-General of the United Nations, who shall furnish certified copies thereof to all interested governments.   
@@ -671,23 +650,22 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) If any of the customs territories, in respect of which a contracting party has accepted this Agreement, possesses or acquires full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement, such territory shall, upon sponsorship through a declaration by the responsible contracting party establishing the above-mentioned fact, be deemed to be a contracting party.     
 6.  This Agreement shall enter into force, as among the governments which have accepted it, on the thirtieth day following the day on which instruments of acceptance have been deposited with the Executive Secretary to the CONTRACTING PARTIES on behalf of governments named in Annex H, the territories of which account for 85 per centum of the total external trade of the territories of such governments, computed in accordance with the applicable column of percentages set forth therein. The instruments of acceptance of each other government shall take effect on the thirtieth day following the day on which such instrument has been deposited.   
-7.  The United Nations is authorized to effect registration of this Agreement as soon as it enters into force.   
+7.  The United Nations is authorized to effect registration of this Agreement as soon as it enters into force.  
 
 ### Article  XXVII  
 
-####Withholding or Withdrawal of Concessions
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Withholding or Withdrawal of Concessions
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  Any contracting party shall at any time be free to withhold or to withdraw in whole or in part any concession, provided for in the appropriate Schedule annexed to this Agreement, in respect of which such contracting party determines that it was initially negotiated with a government which has not become, or has ceased to be, a contracting party. A contracting party taking such action shall notify the CONTRACTING PARTIES and, upon request, consult with contracting parties which have a substantial interest in the product concerned.  
+Any contracting party shall at any time be free to withhold or to withdraw in whole or in part any concession, provided for in the appropriate Schedule annexed to this Agreement, in respect of which such contracting party determines that it was initially negotiated with a government which has not become, or has ceased to be, a contracting party. A contracting party taking such action shall notify the CONTRACTING PARTIES and, upon request, consult with contracting parties which have a substantial interest in the product concerned. 
 
 ### Article  XXVIII  
 
-####Modification of Schedules
+####<sup> 1)  [Red: Gewijzigd bij het Protocol van Torquay behorende bij de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Modification of Schedules
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol van Torquay behorende bij de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  On the first day of each three-year period, the first period beginning on 1 January 1958 (or on the first day of any other period that may be specified by the CONTRACTING PARTIES by two-thirds of the votes cast) a contracting party (hereafter in this Article referred to as the “applicant contracting party”) may, by negotiation and agreement with any contracting party with which such concession was initially negotiated and with any other contracting party determined by the CONTRACTING PARTIES to have a principal supplying interest (which two preceding categories of contracting parties, together with the applicant contracting party, are in this Article hereinafter referred to as the “contracting parties primarily concerned”), and subject to consultation with any other contracting party determined by the CONTRACTING PARTIES to have a substantial interest in such concession, modify or withdraw a concession included in the appropriate Schedule annexed to this Agreement.   
 2.  In such negotiations and agreement, which may include provision for compensatory adjustment with respect to other products, the contracting parties concerned shall endeavour to maintain a general level of reciprocal and mutually advantageous concessions not less favourable to trade than that provided for in this Agreement prior to such negotiations.   
 3.  
@@ -704,15 +682,14 @@ Wordt voorlopig toegepast per 01-01-1948
 (c) If agreement between the contracting parties primarily concerned is not reached within a period of sixty days after negotiations have been authorized, or within such longer period as the CONTRACTING PARTIES may have prescribed, the applicant contracting party may refer the matter to the CONTRACTING PARTIES.  
 
 (d) Upon such reference, the CONTRACTING PARTIES shall promptly examine the matter and submit their views to the contracting parties primarily concerned with the aim of achieving a settlement. If a settlement is reached, the provisions of paragraph 3 (b) shall apply as if agreement between the contracting parties primarily concerned had been reached. If no settlement is reached between the contracting parties primarily concerned, the applicant contracting party shall be free to modify or withdraw the concession, unless the CONTRACTING PARTIES determine that the applicant contracting party has unreasonably failed to offer adequate compensation. If such action is taken, any contracting party with which the concession was initially negotiated, any contracting party determined under paragraph 4 (a) to have a principal supplying interest and any contracting party determined under paragraph 4 (a) to have a substantial interest, shall be free, not later than six months after such action is taken, to modify or withdraw, upon the expiration of thirty days from the day on which written notice of such withdrawal is received by the CONTRACTING PARTIES, substantially equivalent concessions initially negotiated with the applicant contracting party.     
-5.  Before 1 January 1958 and before the end of any period envisaged in paragraph 1 a contracting party may elect by notifying the CONTRACTING PARTIES to reserve the right, for the duration of the next period, to modify the appropriate Schedule in accordance with the procedures of paragraphs 1 to 3. If a contracting party so elects, other contracting parties shall have the right, during the same period, to modify or withdraw, in accordance with the same procedures, concessions initially negotiated with that contracting party.   
+5.  Before 1 January 1958 and before the end of any period envisaged in paragraph 1 a contracting party may elect by notifying the CONTRACTING PARTIES to reserve the right, for the duration of the next period, to modify the appropriate Schedule in accordance with the procedures of paragraphs 1 to 3. If a contracting party so elects, other contracting parties shall have the right, during the same period, to modify or withdraw, in accordance with the same procedures, concessions initially negotiated with that contracting party.  
 
 ### Article  XXVIII bis  
 
-####Tariff Negotiations
+####<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Tariff Negotiations
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties recognize that customs duties often constitute serious obstacles to trade; thus negotiations on a reciprocal and mutually advantageous basis, directed to the substantial reduction of the general level of tariffs and other charges on imports and exports and in particular to the reduction of such high tariffs as discourage the importation even of minimum quantities, and conducted with due regard to the objectives of this Agreement and the varying needs of individual contracting parties, are of great importance to the expansion of international trade. The CONTRACTING PARTIES may therefore sponsor such negotiations from time to time.   
 2.  
 
@@ -725,80 +702,77 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) the needs of less-developed countries for a more flexible use of tariff protection to assist their economic development and the special needs of these countries to maintain tariffs for revenue purposes; and  
 
-(c) all other relevant circumstances, including the fiscal, developmental, strategic and other needs of the contracting parties concerned.     
+(c) all other relevant circumstances, including the fiscal, developmental, strategic and other needs of the contracting parties concerned.    
 
 ### Article  XXIX  
 
-####The Relation of this Agreement to the Havana Charter
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>The Relation of this Agreement to the Havana Charter
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties undertake to observe to the fullest extent of their executive authority the general principles of Chapters I to VI inclusive and of Chapter IX of the Havana Charter pending their acceptance of it in accordance with their constitutional procedures.   
 2.  Part II of this Agreement shall be suspended on the day on which the Havana Charter enters into force.   
 3.  If by September 30, 1949, the Havana Charter has not entered into force, the contracting parties shall meet before December 31, 1949, to agree whether this Agreement shall be amended, supplemented or maintained.   
 4.  If at any time the Havana Charter should cease to be in force, the CONTRACTING PARTIES shall meet as soon as practicable thereafter to agree whether this Agreement shall be supplemented, amended or maintained. Pending such agreement, Part II of this Agreement shall again enter into force; *Provided* that the provisions of Part II other than Article XXIII shall be replaced, *mutatis mutandis,* in the form in which they then appeared in the Havana Charter; and *Provided* further that no contracting party shall be bound by any provisions which did not bind it at the time when the Havana Charter ceased to be in force.   
 5.  If any contracting party has not accepted the Havana Charter by the date upon which it enters into force, the CONTRACTING PARTIES shall confer to agree whether, and if so in what way, this Agreement in so far as it affects relations between such contracting party and other contracting parties, shall be supplemented or amended. Pending such agreement the provisions of Part II of this Agreement shall, notwithstanding the provisions of paragraph 2 of this Article, continue to apply as between such contracting party and other contracting parties.   
-6.  Contracting parties which are Members of the International Trade Organization shall not invoke the provisions of this Agreement so as to prevent the operation of any provision of the Havana Charter. The application of the principle underlying this paragraph to any contracting party which is not a Member of the International Trade Organization shall be the subject of an agreement pursuant to paragraph 5 of this Article.   
+6.  Contracting parties which are Members of the International Trade Organization shall not invoke the provisions of this Agreement so as to prevent the operation of any provision of the Havana Charter. The application of the principle underlying this paragraph to any contracting party which is not a Member of the International Trade Organization shall be the subject of an agreement pursuant to paragraph 5 of this Article.  
 
 ### Article  XXX  
 
 ####Amendments
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Except where provision for modification is made elsewhere in this Agreement, amendments to the provisions of Part I of this Agreement or to the provisions of Article XXIX or of this Article shall become effective upon acceptance by all the contracting parties, and other amendments to this Agreement shall become effective, in respect of those contracting parties which accept them, upon acceptance by two-thirds of the contracting parties and thereafter for each other contracting party upon acceptance by it.   
-2.  Any contracting party accepting an amendment to this Agreement shall deposit an instrument of acceptance with the Secretary-General of the United Nations within such period as the CONTRACTING PARTIES may specify. The CONTRACTING PARTIES may decide that any amendment made effective under this Article is of such a nature that any contracting party which has not accepted it within a period specified by the CONTRACTING PARTIES shall be free to withdraw from this Agreement, or to remain a contracting party with the consent of the CONTRACTING PARTIES.   
+2.  Any contracting party accepting an amendment to this Agreement shall deposit an instrument of acceptance with the Secretary-General of the United Nations within such period as the CONTRACTING PARTIES may specify. The CONTRACTING PARTIES may decide that any amendment made effective under this Article is of such a nature that any contracting party which has not accepted it within a period specified by the CONTRACTING PARTIES shall be free to withdraw from this Agreement, or to remain a contracting party with the consent of the CONTRACTING PARTIES.  
 
 ### Article  XXXI  
 
-####Withdrawal
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd) en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Withdrawal
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd) en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  Without prejudice to the provisions of paragraph 12 of Article XVIII or of Article XXIII or of paragraph 2 of Article XXX, any contracting party may withdraw from this Agreement, or may separately withdraw on behalf of any of the separate customs territories for which it has international responsibility and which at the time possesses full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement. The withdrawal shall take effect upon the expiration of six months from the day on which written notice of withdrawal is received by the Secretary-General of the United Nations.  
+Without prejudice to the provisions of paragraph 12 of Article XVIII or of Article XXIII or of paragraph 2 of Article XXX, any contracting party may withdraw from this Agreement, or may separately withdraw on behalf of any of the separate customs territories for which it has international responsibility and which at the time possesses full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement. The withdrawal shall take effect upon the expiration of six months from the day on which written notice of withdrawal is received by the Secretary-General of the United Nations. 
 
 ### Article  XXXII  
 
-####Contracting Parties
+####<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Contracting Parties
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  The contracting parties to this Agreement shall be understood to mean those governments which are applying the provisions of this Agreement under Articles XXVI or XXXIII or pursuant to the Protocol of Provisional Application.   
-2.  At any time after the entry into force of this Agreement pursuant to paragraph 6 of Article XXVI, those contracting parties which have accepted this Agreement pursuant to paragraph 4 of Article XXVI may decide that any contracting party which has not so accepted it shall cease to be a contracting party.   
+2.  At any time after the entry into force of this Agreement pursuant to paragraph 6 of Article XXVI, those contracting parties which have accepted this Agreement pursuant to paragraph 4 of Article XXVI may decide that any contracting party which has not so accepted it shall cease to be a contracting party.  
 
 ### Article  XXXIII  
 
-####Accession
+####<sup> 3)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Accession
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 3)  [Red: Gewijzigd bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  A government not party to this Agreement, or a government acting on behalf of a separate customs territory possessing full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement, may accede to this Agreement, on its own behalf or on behalf of that territory, on terms to be agreed between such government and the CONTRACTING PARTIES. Decisions of the CONTRACTING PARTIES under this paragraph shall be taken by a two-thirds majority.  
+A government not party to this Agreement, or a government acting on behalf of a separate customs territory possessing full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement, may accede to this Agreement, on its own behalf or on behalf of that territory, on terms to be agreed between such government and the CONTRACTING PARTIES. Decisions of the CONTRACTING PARTIES under this paragraph shall be taken by a two-thirds majority. 
 
 ### Article  XXXIV  
 
 ####Annexes
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-The annexes to this Agreement are hereby made an integral part of this Agreement.  
+The annexes to this Agreement are hereby made an integral part of this Agreement. 
 
 ### Article  XXXV  
 
-####Non-application of the Agreement between particular Contracting Parties
+####<sup> 2)  [Red: Ingelast bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Non-application of the Agreement between particular Contracting Parties
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 2)  [Red: Ingelast bij het Protocol tot wijziging van zekere bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
 1.  This Agreement, or alternatively Article II of this Agreement shall not apply as between any contracting party and any other contracting party if: 
 
 (a) the two contracting parties have not entered into tariff negotiations with each other, and  
 
 (b) either of the contracting parties, at the time either becomes a contracting party, does not consent to such application.     
-2.  The CONTRACTING PARTIES may review the operation of this Article in particular cases at the request of any contracting party and make appropriate recommendations.   
+2.  The CONTRACTING PARTIES may review the operation of this Article in particular cases at the request of any contracting party and make appropriate recommendations.  
 
-### PART  IV  
+###PART IV 
 
 ####Trade and Development
 
@@ -818,7 +792,7 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (e) recognizing that international trade as a means of achieving economic and social advancement should be governed by such rules and procedures – and measures in conformity with such rules and procedures – as are consistent with the objectives set forth in this Article;  
 
-(f) noting that the CONTRACTING PARTIES may enable less-developed contracting parties to use special measures to promote their trade and development;   agree as follows.   
+(f) noting that the CONTRACTING PARTIES may enable less-developed contracting parties to use special measures to promote their trade and development;   agree as follows.  
 2.  There is need for a rapid and sustained expansion of the export earnings of the less-developed contracting parties.   
 3.  There is need for positive efforts designed to ensure that less-developed contracting parties secure a share in the growth in international trade commensurate with the needs of their economic development.   
 4.  Given the continued dependence of many less-developed contracting parties on the exportation of a limited range of primary products, there is need to provide in the largest possible measure more favourable and acceptable conditions of access to world markets for these products, and wherever appropriate to devise measures designed to stabilize and improve conditions of world markets in these products, including in particular measures designed to attain stable, equitable and remunerative prices, thus permitting an expansion of world trade and demand and a dynamic and steady growth of the real export earnings of these countries so as to provide them with expanding resources for their economic development.   
@@ -826,7 +800,7 @@ Wordt voorlopig toegepast per 01-01-1948
 6.  Because of the chronic deficiency in the export proceeds and other foreign exchange earnings of less-developed contracting parties, there are important inter-relationships between trade and financial assistance to development. There is, therefore, need for close and continuing collaboration between the CONTRACTING PARTIES and the international lending agencies so that they can contribute most effectively to alleviating the burdens these less-developed contracting parties assume in the interest of their economic development.   
 7.  There is need for appropriate collaboration between the CONTRACTING PARTIES, other intergovernmental bodies and the organs and agencies of the United Nations system, whose activities relate to the trade and economic development of less-developed countries.   
 8.  The developed contracting parties do not except reciprocity for commitments made by them in trade negotiations to reduce or remove tariffs and other barriers to the trade of less-developed contracting parties.   
-9.  The adoption of measures to give effect to these principles and objectives shall be a matter of conscious and purposeful effort on the part of the contracting parties both individually and jointly.   
+9.  The adoption of measures to give effect to these principles and objectives shall be a matter of conscious and purposeful effort on the part of the contracting parties both individually and jointly.  
 
 ### Article  XXXVII  
 
@@ -840,20 +814,20 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) 
 
-(i) refrain from imposing new fiscal measures, and  
+(i)refrain from imposing new fiscal measures, and
 
-(ii) in any adjustments of fiscal policy accord high priority to the reduction and elimination of fiscal measures,   which would hamper, or which hamper, significantly the growth of consumption of primary products, in raw or processed form, wholly or mainly produced in the territories of less-developed contracting parties, and which are applied specifically to those products.     
-2.  
+(ii) in any adjustments of fiscal policy accord high priority to the reduction and elimination of fiscal measures,   which would hamper, or which hamper, significantly the growth of consumption of primary products, in raw or processed form, wholly or mainly produced in the territories of less-developed contracting parties, and which are applied specifically to those products.   
+2. 
 
-(a) Whenever it is considered that effect is not being given to any of the provisions of sub-paragraph (a), (b) or (c) of paragraph 1, the matter shall be reported to the CONTRACTING PARTIES either by the contracting party not so giving effect to the relevant provisions or by any other interested contracting party.  
+(a)Whenever it is considered that effect is not being given to any of the provisions of sub-paragraph (a), (b) or (c) of paragraph 1, the matter shall be reported to the CONTRACTING PARTIES either by the contracting party not so giving effect to the relevant provisions or by any other interested contracting party.
 
 (b) 
 
-(i) The CONTRACTING PARTIES shall, if requested so to do by any interested contracting party, and without prejudice to any bilateral consultations that may be undertaken, consult with the contracting party concerned and all interested contracting parties with respect to the matter with a view to reaching solutions satisfactory to all contracting parties concerned in order to further the objectives set forth in Article XXXVI. In the course of the consultations, the reasons given in cases where effect was not being given to the provisions of sub-paragraph (a), (b) or (c) of paragraph 1 shall be examined.  
+(i)The CONTRACTING PARTIES shall, if requested so to do by any interested contracting party, and without prejudice to any bilateral consultations that may be undertaken, consult with the contracting party concerned and all interested contracting parties with respect to the matter with a view to reaching solutions satisfactory to all contracting parties concerned in order to further the objectives set forth in Article XXXVI. In the course of the consultations, the reasons given in cases where effect was not being given to the provisions of sub-paragraph (a), (b) or (c) of paragraph 1 shall be examined.
 
 (ii) As the implementation of the provisions of sub-paragraph (a), (b) or (c) of paragraph 1 by individual contracting parties may in some cases be more readily achieved where action is taken jointly with other developed contracting parties, such consultation might, where appropriate, be directed towards this end.  
 
-(iii) The consultations by the CONTRACTING PARTIES might also, in appropriate cases, be directed towards agreement on joint action designed to further the objectives of this Agreement as envisaged in paragraph 1 of Article XXV.       
+(iii) The consultations by the CONTRACTING PARTIES might also, in appropriate cases, be directed towards agreement on joint action designed to further the objectives of this Agreement as envisaged in paragraph 1 of Article XXV.    
 3.  The developed contracting parties shall: 
 
 (a) make every effort, in cases where a government directly or indirectly determines the resale price of products wholly or mainly produced in the territories of less-developed contracting parties, to maintain trade margins at equitable levels;  
@@ -862,7 +836,7 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) have special regard to the trade interests of less-developed contracting parties when considering the application of other measures permitted under this Agreement to meet particular problems and explore all possibilities of constructive remedies before applying such measures where they would affect essential interests of those contracting parties.     
 4.  Less-developed contracting parties agree to take appropriate action in implementation of the provisions of Part IV for the benefit of the trade of other less-developed contracting parties, in so far as such action is consistent with their individual present and future development, financial and trade needs, taking into account past trade developments as well as the trade interests of less-developed contracting parties as a whole.   
-5.  In the implementation of the commitments set forth in paragraphs 1 to 4 each contracting party shall afford to any other interested contracting party or contracting parties full and prompt opportunity for consultations under the normal procedures of this Agreement with respect to any matter or difficulty which may arise.   
+5.  In the implementation of the commitments set forth in paragraphs 1 to 4 each contracting party shall afford to any other interested contracting party or contracting parties full and prompt opportunity for consultations under the normal procedures of this Agreement with respect to any matter or difficulty which may arise.  
 
 ### Article  XXXVIII  
 
@@ -881,37 +855,37 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (e) collaborate in seeking feasible methods to expand trade for the purpose of economic development, through international harmonization and adjustment of national policies and regulations, through technical and commercial standards affecting production, transportation and marketing, and through export promotion by the establishment of facilities for the increased flow of trade information and the development of market research; and  
 
-(f) establish such institutional arrangements as may be necessary to further the objectives set forth in Article XXXVI and to give effect to the provisions of this Part.     
+(f) establish such institutional arrangements as may be necessary to further the objectives set forth in Article XXXVI and to give effect to the provisions of this Part.   
 
 ### Annex  A  
 
-####List of territories referred to in paragraph 2 (a) of Article I
+####<sup> 1)   [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>List of territories referred to in paragraph 2 (a) of Article I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   United Kingdom of Great Britain and Northern Ireland Dependent territories of the United Kingdom of Great Britain and Northern Ireland Canada Commonwealth of Australia Dependent territories of the Commonwealth of Australia New Zealand Dependent territories of New Zealand Union of South Africa including South West Africa Ireland India (as on April 10, 1947) Newfoundland Southern Rhodesia Burma Ceylon Certain of the territories listed above have two or more preferential rates in force for certain products. Any such territory may, by agreement with the other contracting parties which are principal suppliers of such products at the most-favoured-nation rate, substitute for such preferential rates a single preferential rate which shall not on the whole be less favourable to suppliers at the most-favoured-nation rate than the preferences in force prior to such substitution. The imposition of an equivalent margin of tariff preference to replace a margin of preference in an internal tax existing on April 10, 1947, exclusively between two or more of the territories listed in this Annex or to replace the preferential quantitative arrangements described in the following paragraph, shall not be deemed to constitute an increase in a margin of tariff preference. The preferential arrangements referred to in paragraph 5 (b) of Article XIV are those existing in the United Kingdom on April 10, 1947, under contractual agreements with the Governments of Canada, Australia and New Zealand, in respect of chilled and frozen beef and veal, frozen mutton and lamb, chilled and frozen pork, and bacon. It is the intention, without prejudice to any action taken under part I (h) of Article XX, that these arrangements shall be eliminated or replaced by tariff preferences, and that negotiations to this end shall take place as soon as practicable among the countries substantially concerned or involved. The film hire tax in force in New Zealand on April 10, 1947, shall, for the purposes of this Agreement, be treated as a customs duty under Article I. The renters' film quota in force in New Zealand on April 10, 1947, shall, for the purposes of this Agreement, be treated as a screen quota under Article IV. The Dominions of India and Pakistan have not been mentioned separately in the above list since they had not come into existence as such on the base date of April 10, 1947.   
+United Kingdom of Great Britain and Northern Ireland Dependent territories of the United Kingdom of Great Britain and Northern Ireland Canada Commonwealth of Australia Dependent territories of the Commonwealth of Australia New Zealand Dependent territories of New Zealand Union of South Africa including South West Africa Ireland India (as on April 10, 1947) Newfoundland Southern Rhodesia Burma Ceylon Certain of the territories listed above have two or more preferential rates in force for certain products. Any such territory may, by agreement with the other contracting parties which are principal suppliers of such products at the most-favoured-nation rate, substitute for such preferential rates a single preferential rate which shall not on the whole be less favourable to suppliers at the most-favoured-nation rate than the preferences in force prior to such substitution. The imposition of an equivalent margin of tariff preference to replace a margin of preference in an internal tax existing on April 10, 1947, exclusively between two or more of the territories listed in this Annex or to replace the preferential quantitative arrangements described in the following paragraph, shall not be deemed to constitute an increase in a margin of tariff preference. The preferential arrangements referred to in paragraph 5 (b) of Article XIV are those existing in the United Kingdom on April 10, 1947, under contractual agreements with the Governments of Canada, Australia and New Zealand, in respect of chilled and frozen beef and veal, frozen mutton and lamb, chilled and frozen pork, and bacon. It is the intention, without prejudice to any action taken under part I (h) of Article XX, that these arrangements shall be eliminated or replaced by tariff preferences, and that negotiations to this end shall take place as soon as practicable among the countries substantially concerned or involved. The film hire tax in force in New Zealand on April 10, 1947, shall, for the purposes of this Agreement, be treated as a customs duty under Article I. The renters' film quota in force in New Zealand on April 10, 1947, shall, for the purposes of this Agreement, be treated as a screen quota under Article IV. The Dominions of India and Pakistan have not been mentioned separately in the above list since they had not come into existence as such on the base date of April 10, 1947.   
 
 ### Annex  B  
 
-####List of territories of the French Union referred to in paragraph 2 (b) of Article I
+####<sup> 1)   [Red: Gewijzigd bij het (Eerste) Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vierde Protocol van verbeteringen en wijzigingen van de teksten van de tarieflijsten behorende bij de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>List of territories of the French Union referred to in paragraph 2 (b) of Article I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het (Eerste) Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vierde Protocol van verbeteringen en wijzigingen van de teksten van de tarieflijsten behorende bij de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   France French Equatorial Africa (Treaty Basin of the Congo and other territories) <sup> *)  For imports into Metropolitan France and Territories of the French Union.  </sup> French West Africa Cameroons under French Trusteeship <sup> *)  For imports into Metropolitan France and Territories of the French Union.  </sup> French Somali Coast and Dependencies French Establishments in Oceania French Establishments in the Condominium of the New Hebrides <sup> *)  For imports into Metropolitan France and Territories of the French Union.  </sup> Indo-China Madagascar and Dependencies Morocco (French zone) <sup> *)  For imports into Metropolitan France and Territories of the French Union.  </sup> New Caledonia and Dependencies Saint-Pierre and Miquelon Togo under French Trusteeship <sup> *)  For imports into Metropolitan France and Territories of the French Union.  </sup> Tunisia   
+France French Equatorial Africa (Treaty Basin of the Congo <sup> *) For imports into Metropolitan France and Territories of the French Union. </sup> and other territories) French West Africa Cameroons under French Trusteeship <sup> *) For imports into Metropolitan France and Territories of the French Union. </sup>  French Somali Coast and Dependencies French Establishments in Oceania French Establishments in the Condominium of the New Hebrides <sup> *) For imports into Metropolitan France and Territories of the French Union. </sup>  Indo-China Madagascar and Dependencies Morocco (French zone) <sup> *) For imports into Metropolitan France and Territories of the French Union. </sup>  New Caledonia and Dependencies Saint-Pierre and Miquelon Togo under French Trusteeship <sup> *) For imports into Metropolitan France and Territories of the French Union. </sup>  Tunisia   
 
 ### Annex  C  
 
-####List of territories referred to in paragraph 2 (b) of Article I as respects the Customs Union of Belgium, Luxemburg and the Netherlands
+####<sup> 1)  [Red: Gewijzigd bij het Derde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vierde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vijfde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>List of territories referred to in paragraph 2 (b) of Article I as respects the Customs Union of Belgium, Luxemburg and the Netherlands
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Derde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vierde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Vijfde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   The Economic Union of Belgium and Luxemburg Belgian Congo Ruanda Urundi Netherlands New Guinea Surinam Netherlands Antilles Republic of Indonesia For imports into the territories constituting the Customs Union only.   
+The Economic Union of Belgium and Luxemburg Belgian Congo Ruanda Urundi Netherlands New Guinea Surinam Netherlands Antilles Republic of Indonesia For imports into the territories constituting the Customs Union only.   
 
 ### Annex  D  
 
 ####List of territories referred to in paragraph 2 (b) of Article I as respects the United States of America
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 United States of America (customs territory) Dependent territories of the United States of America Republic of the Philippines The imposition of an equivalent margin of tariff preference to replace a margin of preference in an internal tax existing on April 10, 1947, exclusively between two or more of the territories listed in this Annex shall not be deemed to constitute an increase in a margin of tariff preference.   
 
@@ -919,7 +893,7 @@ United States of America (customs territory) Dependent territories of the United
 
 ####List of territories covered by preferential arrangements between Chile and neighbouring countries referred to in paragraph 2(d) of Article I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Preferences in force exclusively between Chile, on the one hand, and 
 
@@ -933,7 +907,7 @@ Preferences in force exclusively between Chile, on the one hand, and
 
 ####List of territories covered by preferential arrangements between Lebanon and Syria and neighbouring countries referred to in paragraph 2(d) of Article I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Preferences in force exclusively between the Lebano-Syrian Customs Union, on the one hand, and 
 
@@ -943,14 +917,12 @@ Preferences in force exclusively between the Lebano-Syrian Customs Union, on the
 
 ### Annex  G  
 
-####Dates establishing maximum margins of preference referred to in paragraph 3 of article I
+####Dates establishing maximum margins of preference referred to in paragraph 3 of article I <sup> 1)  [Red: Als gevolg van de opneming in artikel I van de Algemene Overeenkomst van het nieuwe lid 3, voorzien in het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel, dient de verwijzing te worden gelezen als: „referred to in paragraph 4 of Article I”.]  </sup> 
 
-Wordt voorlopig toegepast per 01-01-1948   
-
-<sup> 1)  [Red: Als gevolg van de opneming in artikel I van de Algemene Overeenkomst van het nieuwe lid 3, voorzien in het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel, dient de verwijzing te worden gelezen als: „referred to in paragraph 4 of Article I”.]  </sup>    
+Wordt voorlopig toegepast per 01-01-1948 
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Australia ..................  | October 15, 1946  |
 | Canada ..................  | July 1, 1939  |
 | France ..................  | January 1, 1939  |
@@ -960,15 +932,15 @@ Wordt voorlopig toegepast per 01-01-1948
 
 ### Annex  H  
 
-####Percentage shares of total external trade to be used for the purpose of making the determination referred to in Article XXVI
+####<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>Percentage shares of total external trade to be used for the purpose of making the determination referred to in Article XXVI
 
-(based on the average of 1949-1953)   
-Wordt voorlopig toegepast per 01-01-1948   
+(based on the average of 1949-1953) 
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   If, prior to the accession of the Government of Japan to the General Agreement, the present Agreement has been accepted by contracting parties the external trade of which under column I accounts for the percentage of such trade specified in paragraph 6 of Article XXVI, column I shall be applicable for the purposes of that paragraph. If the present Agreement has not been so accepted prior to the accession of the Government of Japan, column II shall be applicable for the purposes of that paragraph.  
+If, prior to the accession of the Government of Japan to the General Agreement, the present Agreement has been accepted by contracting parties the external trade of which under column I accounts for the percentage of such trade specified in paragraph 6 of Article XXVI, column I shall be applicable for the purposes of that paragraph. If the present Agreement has not been so accepted prior to the accession of the Government of Japan, column II shall be applicable for the purposes of that paragraph.  
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- |  *Column I*   (Contracting parties on 1 March 1955)  |  *Column II*   (Contracting parties on 1 March 1955 and Japan)  |
 | Australia ............  | 3.1  | 3.0  |
 | Austria ............  | 0.9  | 0.8  |
@@ -997,7 +969,7 @@ Wordt voorlopig toegepast per 01-01-1948
 | Pakistan ............  | 0.9  | 0.8  |
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | --- |  *Column I*   (Contracting parties on 1 March 1955)  |  *Column II*   (Contracting parties on 1 March 1955 and Japan)  |
 | Peru ............  | 0.4  | 0.4  |
 | Rhodesia and Nyasaland ............  | 0.6  | 0.6  |
@@ -1008,48 +980,47 @@ Wordt voorlopig toegepast per 01-01-1948
 | United States of America ............  | 20.6  | 20.1  |
 | Uruguay ............  | 0.4  | 0.4  |
 | Japan ............  | -  | 2.3  |
-| --- | ———  | ———  |
-| --- | 100.0  | 100.0  |
+| --- |——— |——— |
+| --- |100.0 |100.0 |
 
 *Note:* These percentages have been computed taking into account the trade of all territories in respect of which the General Agreement on Tariffs and Trade is applied.   
 
-### Annex  I  
+###  Annex  I  
 
-####Notes and Supplementary Provisions
+####Notes and Supplementary Provisions<sup> 1)   [Red: Titel van de Bijlage gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Titel van de Bijlage gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
-###ad Article I
+###ad Article I<sup> 2)   [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  The obligations incorporated in paragraph 1 of Article I by reference to paragraphs 2 and 4 of Article III and those incorporated in paragraph 2(b) of Article II by reference to Article VI shall be considered as falling within Part II for the purposes of the Protocol of Provisional Application. The cross-references, in the paragraph immediately above and in paragraph 1 of Article I, to paragraphs 2 and 4 of Article III shall only apply after Article III has been modified by the entry into force of the amendment provided for in the Protocol Modifying Part II and Article XXVI of the General Agreement on Tariffs and Trade, dated September 14, 1948.  *Paragraph 4*  The term “margin of preference” means the absolute difference between the most-favoured-nation rate of duty and the preferential rate of duty for the like product, and not the proportionate relation between those rates. As examples: 
+*Paragraph 1* The obligations incorporated in paragraph 1 of Article I by reference to paragraphs 2 and 4 of Article III and those incorporated in paragraph 2(b) of Article II by reference to Article VI shall be considered as falling within Part II for the purposes of the Protocol of Provisional Application. The cross-references, in the paragraph immediately above and in paragraph 1 of Article I, to paragraphs 2 and 4 of Article III shall only apply after Article III has been modified by the entry into force of the amendment provided for in the Protocol Modifying Part II and Article XXVI of the General Agreement on Tariffs and Trade, dated September 14, 1948.  *Paragraph 4*The term “margin of preference” means the absolute difference between the most-favoured-nation rate of duty and the preferential rate of duty for the like product, and not the proportionate relation between those rates. As examples: 
 
 (1) If the most-favoured-nation rate were 36 per cent *ad valorem* and the preferential rate were 24 per cent *ad valorem,* the margin of preference would be 12 per cent *ad valorem,* and not one-third of the most-favoured-nation rate;  
 
-(2) If the most-favoured-nation rate were 36 per cent *ad valorem* and the preferential rate were expressed as two-thirds of the most-favoured-nation rate, the margin of preference would be 12 per cent *ad valorem;*  
+(2) If the most-favoured-nation rate were 36 per cent *ad valorem* and the preferential rate were expressed as two-thirds of the most-favoured-nation rate, the margin of preference would be 12 per cent *ad valorem;*   
 
 (3) If the most-favoured-nation rate were 2 francs per kilogram and the preferential rate were 1.50 francs per kilogram, the margin of preference would be 0.50 francs per kilogram.   The following kinds of customs action, taken in accordance with established uniform procedures, would not be contrary to a general binding of margins of preference: 
 
 (i) The re-application to an imported product of a tariff classification or rate of duty, properly applicable to such product, in cases in which the application of such classification or rate to such product was temporarily suspended or inoperative on April 10, 1947; and  
 
 (ii) The classification of a particular product under a tariff item other than that under which importations of that product were classified on April 10, 1947, in cases in which the tariff law clearly contemplates that such product may be classified under more than one tariff item.   
-###ad Article II
+### ad Article II<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 2 (a)*  The cross-reference, in paragraph 2 (a) of Article II, to paragraph 2 of Article III shall only apply after Article III has been modified by the entry into force of the amendment provided for in the Protocol Modifying Part II and Article XXVI of the General Agreement on Tariffs and Trade, dated September 14, 1948.  *Paragraph 2 (b)*  See the note relating to paragraph 1 of Article I.  *Paragraph 4*  Except where otherwise specifically agreed between the contracting parties which initially negotiated the concession, the provisions of this paragraph will be applied in the light of the provisions of Article 31 of the Havana Charter. 
-###ad Article III
+*Paragraph 2 (a)* The cross-reference, in paragraph 2 (a) of Article II, to paragraph 2 of Article III shall only apply after Article III has been modified by the entry into force of the amendment provided for in the Protocol Modifying Part II and Article XXVI of the General Agreement on Tariffs and Trade, dated September 14, 1948.  *Paragraph 2 (b)* See the note relating to paragraph 1 of Article I.  *Paragraph 4* Except where otherwise specifically agreed between the contracting parties which initially negotiated the concession, the provisions of this paragraph will be applied in the light of the provisions of Article 31 of the Havana Charter. 
+### ad Article III <sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> Any internal tax or other internal charge, or any law, regulation or requirement of the kind referred to in paragraph 1 which applies to an imported product and to the like domestic product and is collected or enforced in the case of the imported product at the time or point of importation, is nevertheless to be regarded as an internal tax or other internal charge, or a law, regulation or requirement of the kind referred to in paragraph 1, and is accordingly subject to the provisions of Article III.  *Paragraph 1*  The application of paragraph 1 to internal taxes imposed by local governments and authorities within the territory of a contracting party is subject to the provisions of the final paragraph of Article XXIV. The term “reasonable measures” in the last-mentioned paragraph would not require, for example, the repeal of existing national legislation authorizing local governments to impose internal taxes which, although technically inconsistent with the letter of Article III, are not in fact inconsistent with its spirit, if such repeal would result in a serious financial hardship for the local governments or authorities concerned. With regard to taxation by local governments or authorities which is inconsistent with both the letter and spirit of Article III, the term “reasonable measures” would permit a contracting party to eliminate the inconsistent taxation gradually over a transition period, if abrupt action would create serious administrative and financial difficulties.  *Paragraph 2*  A tax conforming to the requirements of the first sentence of paragraph 2 would be considered to be inconsistent with the provisions of the second sentence only in cases where competition was involved between, on the one hand, the taxed product and, on the other hand, a directly competitive or substitutable product which was not similarly taxed.  *Paragraph 5*  Regulations consistent with the provisions of the first sentence of paragraph 5 shall not be considered to be contrary to the provisions of the second sentence in any case in which all of the products subject to the regulations are produced domestically in substantial quantities. A regulation cannot be justified as being consistent with the provisions of the second sentence on the ground that the proportion or amount allocated to each of the products which are the subject of the regulation constitutes an equitable relationship between imported and domestic products. 
-###ad Article V
+Any internal tax or other internal charge, or any law, regulation or requirement of the kind referred to in paragraph 1 which applies to an imported product and to the like domestic product and is collected or enforced in the case of the imported product at the time or point of importation, is nevertheless to be regarded as an internal tax or other internal charge, or a law, regulation or requirement of the kind referred to in paragraph 1, and is accordingly subject to the provisions of Article III.  *Paragraph 1* The application of paragraph 1 to internal taxes imposed by local governments and authorities within the territory of a contracting party is subject to the provisions of the final paragraph of Article XXIV. The term “reasonable measures” in the last-mentioned paragraph would not require, for example, the repeal of existing national legislation authorizing local governments to impose internal taxes which, although technically inconsistent with the letter of Article III, are not in fact inconsistent with its spirit, if such repeal would result in a serious financial hardship for the local governments or authorities concerned. With regard to taxation by local governments or authorities which is inconsistent with both the letter and spirit of Article III, the term “reasonable measures” would permit a contracting party to eliminate the inconsistent taxation gradually over a transition period, if abrupt action would create serious administrative and financial difficulties.  *Paragraph 2* A tax conforming to the requirements of the first sentence of paragraph 2 would be considered to be inconsistent with the provisions of the second sentence only in cases where competition was involved between, on the one hand, the taxed product and, on the other hand, a directly competitive or substitutable product which was not similarly taxed.  *Paragraph 5* Regulations consistent with the provisions of the first sentence of paragraph 5 shall not be considered to be contrary to the provisions of the second sentence in any case in which all of the products subject to the regulations are produced domestically in substantial quantities. A regulation cannot be justified as being consistent with the provisions of the second sentence on the ground that the proportion or amount allocated to each of the products which are the subject of the regulation constitutes an equitable relationship between imported and domestic products. 
+### ad Article V 
 
-*Paragraph 5*  With regard to transportation charges, the principle laid down in paragraph 5 refers to like products being transported on the same route under like conditions. 
-###ad Article VI
+*Paragraph 5* With regard to transportation charges, the principle laid down in paragraph 5 refers to like products being transported on the same route under like conditions. 
+### ad Article VI <sup> 2)   [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 2)  [Red: Gewijzigd bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  
+*Paragraph 1* 
 
 1. Hidden dumping by associated houses (that is, the sale by an importer at a price below that corresponding to the price invoiced by an exporter with whom the importer is associated, and also below the price in the exporting country) constitutes a form of price dumping with respect to which the margin of dumping may be calculated on the basis of the price at which the goods are resold by the importer.  
 
-2. It is recognized that, in the case of imports from a country which has a complete or substantially complete monopoly of its trade and where all domestic prices are fixed by the State, special difficulties may exist in determining price comparability for the purposes of paragraph 1, and in such cases importing contracting parties may find it necessary to take into account the possibility that a strict comparison with domestic prices in such a country may not always be appropriate.    *Paragraphs 2 and 3*  *Note 1.* As in many other cases in customs administration, a contracting party may require reasonable security (bond or cash deposit) for the payment of anti-dumping or countervailing duty pending final determination of the facts in any case of suspected dumping or subsidization. *Note 2.* Multiple currency practices can in certain circumstances constitute a subsidy to exports which may be met by countervailing duties under paragraph 3 or can constitute a form of dumping by means of a partial depreciation of a country's currency which may be met by action under paragraph 2. By “multiple currency practices” is meant practices by governments or sanctioned by governments.  *Paragraph 6 (b)*  Waivers under the provisions of this sub-paragraph shall be granted only on application by the contracting party proposing to levy an anti-dumping or countervailing duty, as the case may be. 
-###ad Article VII
+2. It is recognized that, in the case of imports from a country which has a complete or substantially complete monopoly of its trade and where all domestic prices are fixed by the State, special difficulties may exist in determining price comparability for the purposes of paragraph 1, and in such cases importing contracting parties may find it necessary to take into account the possibility that a strict comparison with domestic prices in such a country may not always be appropriate.    *Paragraphs 2 and 3*  *Note 1.* As in many other cases in customs administration, a contracting party may require reasonable security (bond or cash deposit) for the payment of anti-dumping or countervailing duty pending final determination of the facts in any case of suspected dumping or subsidization.  *Note 2.* Multiple currency practices can in certain circumstances constitute a subsidy to exports which may be met by countervailing duties under paragraph 3 or can constitute a form of dumping by means of a partial depreciation of a country's currency which may be met by action under paragraph 2. By “multiple currency practices” is meant practices by governments or sanctioned by governments.  *Paragraph 6 (b)* Waivers under the provisions of this sub-paragraph shall be granted only on application by the contracting party proposing to levy an anti-dumping or countervailing duty, as the case may be. 
+### ad Article VII <sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  The expression “or other charges” is not to be regarded as including internal taxes or equivalent charges imposed on or in connection with imported products.  *Paragraph 2*  
+*Paragraph 1* The expression “or other charges” is not to be regarded as including internal taxes or equivalent charges imposed on or in connection with imported products. *Paragraph 2* 
 
 1. It would be in conformity with Article VII to presume that “actual value” may be represented by the invoice price, plus any nonincluded charges for legitimate costs which are proper elements of “actual value” and plus any abnormal discount or other reduction from the ordinary competitive price.  
 
@@ -1058,38 +1029,36 @@ Wordt voorlopig toegepast per 01-01-1948
 3. The standard of “fully competitive conditions” permits a contracting party to exclude from consideration prices involving special discounts limited to exclusive agents.  
 
 4. The wording of sub-paragraphs (a) and (b) permits a contracting party to determine the value for customs purposes uniformly either (1) on the basis of a particular exporter's prices of the imported merchandise, or (2) on the basis of the general price level of like merchandise.   
-###ad Article VIII
-
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> 
+### ad Article VIII<sup> 1)   [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> 
 
 1. While Article VIII does not cover the use of multiple rates of exchange as such, paragraphs 1 and 4 condemn the use of exchange taxes or fees as a device for implementing multiple currency practices; if, however, a contracting party is using multiple currency exchange fees for balance of payments reasons with the approval of the International Monetary Fund, the provisions of paragraph 9 (a) of Article XV fully safeguard its position.  
 
 2. It would be consistent with paragraph 1 if on the importation of products from the territory of a contracting party into the territory of another contracting party, the production of certificates of origin should only be required to the extent that is strictly indispensable.   
-###ad Articles XI, XII, XIII, XIV and XVIII
+### ad Articles XI, XII, XIII, XIV and XVIII<sup> 2)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup>
 
-<sup> 2)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> Throughout Articles XI, XII, XIII, XIV and XVIII the terms “import restrictions” or “export restrictions” include restrictions made effective through state-trading operations. 
-###ad Article XI
+Throughout Articles XI, XII, XIII, XIV and XVIII the terms “import restrictions” or “export restrictions” include restrictions made effective through state-trading operations. 
+### ad Article XI
 
-*Paragraph 2 (c)*  The term “in any form” in this paragraph covers the same products when in an early stage of processing and still perishable, which compete directly with the fresh product and if freely imported would tend to make the restriction on the fresh product ineffective.  *Paragraph 2, last sub-paragraph*  The term “special factors” includes changes in relative productive efficiency as between domestic and foreign producers, or as between different foreign producers, but not changes artificially brought about by means not permitted under the Agreement. 
-###ad Article XII
+*Paragraph 2 (c)* The term “in any form” in this paragraph covers the same products when in an early stage of processing and still perishable, which compete directly with the fresh product and if freely imported would tend to make the restriction on the fresh product ineffective.  *Paragraph 2, last sub-paragraph*  The term “special factors” includes changes in relative productive efficiency as between domestic and foreign producers, or as between different foreign producers, but not changes artificially brought about by means not permitted under the Agreement. 
+###ad Article XII <sup> 1)   [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> The CONTRACTING PARTIES shall make provision for the utmost secrecy in the conduct of any consultation under the provisions of this Article.  *Paragraph 3 (c) (i)*  Contracting parties applying restrictions shall endeavour to avoid causing serious prejudice to exports of a commodity on which the economy of a contracting party is largely dependent.  *Paragraph 4 (b)*  It is agreed that the date shall be within ninety days after the entry into force of the amendments of this Article effected by the Protocol Amending the Preamble and Parts II and III of this Agreement. However, should the CONTRACTING PARTIES find that conditions were not suitable for the application of the provisions of this sub-paragraph at the time envisaged, they may determine a later date; *Provided* that such date is not more than thirty days after such time as the obligations of Article VIII, Sections 2, 3 and 4 of the Articles of Agreement of the International Monetary Fund become applicable to contracting parties, members of the Fund, the combined foreign trade of which constitutes at least fifty per centum of the aggregate foreign trade of all contracting parties.  *Paragraph 4 (e)*  It is agreed that paragraph 4 (e) does not add any new criteria for the imposition or maintenance of quantitative restrictions for balance of payments reasons. It is solely intended to ensure that all external factors such as changes in the terms of trade, quantitative restrictions, excessive tariffs and subsidies, which may be contributing to the balance of payments difficulties of the contracting party applying restrictions will be fully taken into account. 
-###ad Article XIII
+The CONTRACTING PARTIES shall make provision for the utmost secrecy in the conduct of any consultation under the provisions of this Article.  *Paragraph 3 (c) (i)* Contracting parties applying restrictions shall endeavour to avoid causing serious prejudice to exports of a commodity on which the economy of a contracting party is largely dependent.  *Paragraph 4 (b)* It is agreed that the date shall be within ninety days after the entry into force of the amendments of this Article effected by the Protocol Amending the Preamble and Parts II and III of this Agreement. However, should the CONTRACTING PARTIES find that conditions were not suitable for the application of the provisions of this sub-paragraph at the time envisaged, they may determine a later date; *Provided* that such date is not more than thirty days after such time as the obligations of Article VIII, Sections 2, 3 and 4 of the Articles of Agreement of the International Monetary Fund become applicable to contracting parties, members of the Fund, the combined foreign trade of which constitutes at least fifty per centum of the aggregate foreign trade of all contracting parties.  *Paragraph 4 (e)* It is agreed that paragraph 4 (e) does not add any new criteria for the imposition or maintenance of quantitative restrictions for balance of payments reasons. It is solely intended to ensure that all external factors such as changes in the terms of trade, quantitative restrictions, excessive tariffs and subsidies, which may be contributing to the balance of payments difficulties of the contracting party applying restrictions will be fully taken into account. 
+### ad Article XIII<sup> 1)   [Red: Gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 2 (d)*  No mention was made of “commercial considerations” as a rule for the allocation of quotas because it was considered that its application by governmental authorities might not always be practicable. Moreover, in cases where it is practicable, a contracting party could apply these considerations in the process of seeking agreement, consistently with the general rule laid down in the opening sentence of paragraph 2.  *Paragraph 4*  See note relating to “special factors” in connection with the last sub-paragraph of paragraph 2 of Article XI. 
-###ad Article XIV
+*Paragraph 2 (d)* No mention was made of “commercial considerations” as a rule for the allocation of quotas because it was considered that its application by governmental authorities might not always be practicable. Moreover, in cases where it is practicable, a contracting party could apply these considerations in the process of seeking agreement, consistently with the general rule laid down in the opening sentence of paragraph 2.  *Paragraph 4* See note relating to “special factors” in connection with the last sub-paragraph of paragraph 2 of Article XI. 
+### ad Article XIV<sup> 2)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 2)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  The provisions of this paragraph shall not be so construed as to preclude full consideration by the CONTRACTING PARTIES, in the consultations provided for in paragraph 4 of Article XII and in paragraph 12 of Article XVIII, of the nature, effects and reasons for discrimination in the field of import restrictions.  *Paragraph 2*  One of the situations contemplated in paragraph 2 is that of a contracting party holding balances acquired as a result of current transactions which it finds itself unable to use without a measure of discrimination. 
-###ad Article XV
+*Paragraph 1* The provisions of this paragraph shall not be so construed as to preclude full consideration by the CONTRACTING PARTIES, in the consultations provided for in paragraph 4 of Article XII and in paragraph 12 of Article XVIII, of the nature, effects and reasons for discrimination in the field of import restrictions.  *Paragraph 2* One of the situations contemplated in paragraph 2 is that of a contracting party holding balances acquired as a result of current transactions which it finds itself unable to use without a measure of discrimination. 
+### ad Article XV
 
-*Paragraph 4*  The word “frustrate” is intended to indicate, for example, that infringements of the letter of any Article of this Agreement by exchange action shall not be regarded as a violation of that Article if, in practice, there is no appreciable departure from the intent of the Article. Thus, a contracting party which, as part of its exchange control operated in accordance with the Articles of Agreement of the International Monetary Fund, requires payment to be received for its exports in its own currency or in the currency of one or more members of the International Monetary Fund will not thereby be deemed to contravene Article XI or Article XIII. Another example would be that of a contracting party which specifies on an import licence the country from which the goods may be imported, for the purpose not of introducing any additional element of discrimination in its import licensing system but of enforcing permissible exchange controls. 
-###ad Article XVI
+*Paragraph 4* The word “frustrate” is intended to indicate, for example, that infringements of the letter of any Article of this Agreement by exchange action shall not be regarded as a violation of that Article if, in practice, there is no appreciable departure from the intent of the Article. Thus, a contracting party which, as part of its exchange control operated in accordance with the Articles of Agreement of the International Monetary Fund, requires payment to be received for its exports in its own currency or in the currency of one or more members of the International Monetary Fund will not thereby be deemed to contravene Article XI or Article XIII. Another example would be that of a contracting party which specifies on an import licence the country from which the goods may be imported, for the purpose not of introducing any additional element of discrimination in its import licensing system but of enforcing permissible exchange controls. 
+### ad Article XVI<sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> The exemption of an exported product from duties or taxes borne by the like product when destined for domestic consumption, or the remission of such duties or taxes in amounts not in excess of those which have accrued, shall not be deemed to be a subsidy.  *Section B*  
+The exemption of an exported product from duties or taxes borne by the like product when destined for domestic consumption, or the remission of such duties or taxes in amounts not in excess of those which have accrued, shall not be deemed to be a subsidy. *Section B* 
 
 1. Nothing in Section B shall preclude the use by a contracting party of multiple rates of exchange in accordance with the Articles of Agreement of the International Monetary Fund.  
 
-2. For the purposes of Section B, a “primary product” is understood to be any product of farm, forest or fishery, or any mineral, in its natural form or which has undergone such processing as is customarily required to prepare it for marketing in substantial volume in international trade.    *Paragraph 3*  
+2. For the purposes of Section B, a “primary product” is understood to be any product of farm, forest or fishery, or any mineral, in its natural form or which has undergone such processing as is customarily required to prepare it for marketing in substantial volume in international trade.    *Paragraph 3* 
 
 1. The fact that a contracting party has not exported the product in question during the previous representative period would not in itself preclude that contracting party from establishing its right to obtain a share of the trade in the product concerned.  
 
@@ -1097,33 +1066,32 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) the system has also resulted, or is so designed as to result, in the sale of the product for export at a price higher than the comparable price charged for the like product to buyers in the domestic market; and  
 
-(b) the system is so operated, or is designed so to operate, either because of the effective regulation of production or otherwise, as not to stimulate exports unduly or otherwise seriously to prejudice the interests of other contracting parties.     Notwithstanding such determination by the CONTRACTING PARTIES, operations under such a system shall be subject to the provisions of paragraph 3 where they are wholly or partly financed out of government funds in addition to the funds collected from producers in respect of the product concerned.  *Paragraph 4*  The intention of paragraph 4 is that the contracting parties should seek before the end of 1957 to reach agreement to abolish all remaining subsidies as from 1 January 1958; or, failing this, to reach agreement to extend the application of the standstill until the earliest date thereafter by which they can expect to reach such agreement. 
-###ad Article XVII
+(b) the system is so operated, or is designed so to operate, either because of the effective regulation of production or otherwise, as not to stimulate exports unduly or otherwise seriously to prejudice the interests of other contracting parties.     Notwithstanding such determination by the CONTRACTING PARTIES, operations under such a system shall be subject to the provisions of paragraph 3 where they are wholly or partly financed out of government funds in addition to the funds collected from producers in respect of the product concerned.  *Paragraph 4* The intention of paragraph 4 is that the contracting parties should seek before the end of 1957 to reach agreement to abolish all remaining subsidies as from 1 January 1958; or, failing this, to reach agreement to extend the application of the standstill until the earliest date thereafter by which they can expect to reach such agreement. 
+### ad Article XVII<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>
 
-<sup> 1)  [Red: Gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  The operations of Marketing Boards, which are established by contracting parties and are engaged in purchasing or selling, are subject to the provisions of sub-paragraphs (a) and (b). The activities of Marketing Boards which are established by contracting parties and which do not purchase or sell but lay down regulations covering private trade are governed by the relevant Articles of this Agreement. The charging by a state enterprise of different prices for its sales of a product in different markets is not precluded by the provisions of this Article, provided that such different prices are charged for commercial reasons, to meet conditions of supply and demand in export markets.  *Paragraph 1 (a)*  Governmental measures imposed to ensure standards of quality and efficiency in the operation of external trade, or privileges granted for the exploitation of national natural resources but which do not empower the government to exercise control over the trading activities of the enterprise in question, do not constitute “exclusive or special privileges”.  *Paragraph 1 (b)*  A country receiving a “tied loan” is free to take this loan into account as a “commercial consideration” when purchasing requirements abroad.  *Paragraph 2*  The term “goods” is limited to products as understood in commercial practice, and is not intended to include the purchase or sale of services.  *Paragraph 3*  Negotiations which contracting parties agree to conduct under this paragraph may be directed towards the reduction of duties and other charges on imports and exports or towards the conclusion of any other mutually satisfactory arrangement consistent with the provisions of this Agreement. (See paragraph 4 of Article II and the note to that paragraph.)  *Paragraph 4 (b)*  The term “import mark-up” in this paragraph shall represent the margin by which the price charged by the import monopoly for the imported product (exclusive of internal taxes within the purview of Article III, transportation, distribution, and other expenses incident to the purchase, sale or further processing, and a reasonable margin of profit) exceeds the landed cost. 
-###ad Article XVIII
+*Paragraph 1* The operations of Marketing Boards, which are established by contracting parties and are engaged in purchasing or selling, are subject to the provisions of sub-paragraphs (a) and (b). The activities of Marketing Boards which are established by contracting parties and which do not purchase or sell but lay down regulations covering private trade are governed by the relevant Articles of this Agreement. The charging by a state enterprise of different prices for its sales of a product in different markets is not precluded by the provisions of this Article, provided that such different prices are charged for commercial reasons, to meet conditions of supply and demand in export markets.  *Paragraph 1 (a)* Governmental measures imposed to ensure standards of quality and efficiency in the operation of external trade, or privileges granted for the exploitation of national natural resources but which do not empower the government to exercise control over the trading activities of the enterprise in question, do not constitute “exclusive or special privileges”.  *Paragraph 1 (b)* A country receiving a “tied loan” is free to take this loan into account as a “commercial consideration” when purchasing requirements abroad.  *Paragraph 2* The term “goods” is limited to products as understood in commercial practice, and is not intended to include the purchase or sale of services.  *Paragraph 3* Negotiations which contracting parties agree to conduct under this paragraph may be directed towards the reduction of duties and other charges on imports and exports or towards the conclusion of any other mutually satisfactory arrangement consistent with the provisions of this Agreement. (See paragraph 4 of Article II and the note to that paragraph.)  *Paragraph 4 (b)* The term “import mark-up” in this paragraph shall represent the margin by which the price charged by the import monopoly for the imported product (exclusive of internal taxes within the purview of Article III, transportation, distribution, and other expenses incident to the purchase, sale or further processing, and a reasonable margin of profit) exceeds the landed cost. 
+### ad Article XVIII<sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel en gewijzigd bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> The CONTRACTING PARTIES and the contracting parties concerned shall preserve the utmost secrecy in respect of matters arising under this Article.  *Paragraphs 1 and 4*  
+The CONTRACTING PARTIES and the contracting parties concerned shall preserve the utmost secrecy in respect of matters arising under this Article. *Paragraphs 1 and 4* 
 
 1. When they consider whether the economy of a contracting party “can only support low standards of living”, the CONTRACTING PARTIES shall take into consideration the normal position of that economy and shall not base their determination on exceptional circumstances such as those which may result from the temporary existence of exceptionally favourable conditions for the staple export product or products of such contracting party.  
 
-2. The phrase “in the early stages of development” is not meant to apply only to contracting parties which have just started their economic development, but also to contracting parties the economies of which are undergoing a process of industrialization to correct an excessive dependence on primary production.    *Paragraphs 2, 3, 7, 13 and 22*  The reference to the establishment of particular industries shall apply not only to the establishment of a new industry, but also to the establishment of a new branch of production in an existing industry and to the substantial transformation of an existing industry, and to the substantial expansion of an existing industry supplying a relatively small proportion of the domestic demand. It shall also cover the reconstruction of an industry destroyed or substantially damaged as a result of hostilities or natural disasters.  *Paragraph 7 (b)*  A modification or withdrawal, pursuant to paragraph 7 (b), by a contracting party, other than the applicant contracting party, referred to in paragraph 7 (a), shall be made within six months of the day on which the action is taken by the applicant contracting party, and shall become effective on the thirtieth day following the day on which such modification or withdrawal has been notified to the CONTRACTING PARTIES.  *Paragraph 11*  The second sentence in paragraph 11 shall not be interpreted to mean that a contracting party is required to relax or remove restrictions if such relaxation or removal would thereupon produce conditions justifying the intensification or institution, respectively, of restrictions under paragraph 9 of Article XVIII.  *Paragraph 12 (b)*  The date referred to in paragraph 12 (b) shall be the date determined by the CONTRACTING PARTIES in accordance with the provisions of paragraph 4 (b) of Article XII of this Agreement.  *Paragraphs 13 and 14*  It is recognized that, before deciding on the introduction of a measure and notifying the CONTRACTING PARTIES in accordance with paragraph 14, a contracting party may need a reasonable period of time to assess the competitive position of the industry concerned.  *Paragraphs 15 and 16*  It is understood that the CONTRACTING PARTIES shall invite a contracting party proposing to apply a measure under Section C to consult with them pursuant to paragraph 16 if they are requested to do so by a contracting party the trade of which would be appreciably affected by the measure in question.  *Paragraphs 16, 18, 19 and 22*  
+2. The phrase “in the early stages of development” is not meant to apply only to contracting parties which have just started their economic development, but also to contracting parties the economies of which are undergoing a process of industrialization to correct an excessive dependence on primary production.   *Paragraphs 2, 3, 7, 13 and 22* The reference to the establishment of particular industries shall apply not only to the establishment of a new industry, but also to the establishment of a new branch of production in an existing industry and to the substantial transformation of an existing industry, and to the substantial expansion of an existing industry supplying a relatively small proportion of the domestic demand. It shall also cover the reconstruction of an industry destroyed or substantially damaged as a result of hostilities or natural disasters.  *Paragraph 7 (b)* A modification or withdrawal, pursuant to paragraph 7 (b), by a contracting party, other than the applicant contracting party, referred to in paragraph 7 (a), shall be made within six months of the day on which the action is taken by the applicant contracting party, and shall become effective on the thirtieth day following the day on which such modification or withdrawal has been notified to the CONTRACTING PARTIES.  *Paragraph 11* The second sentence in paragraph 11 shall not be interpreted to mean that a contracting party is required to relax or remove restrictions if such relaxation or removal would thereupon produce conditions justifying the intensification or institution, respectively, of restrictions under paragraph 9 of Article XVIII.  *Paragraph 12 (b)* The date referred to in paragraph 12 (b) shall be the date determined by the CONTRACTING PARTIES in accordance with the provisions of paragraph 4 (b) of Article XII of this Agreement.  *Paragraphs 13 and 14* It is recognized that, before deciding on the introduction of a measure and notifying the CONTRACTING PARTIES in accordance with paragraph 14, a contracting party may need a reasonable period of time to assess the competitive position of the industry concerned.  *Paragraphs 15 and 16* It is understood that the CONTRACTING PARTIES shall invite a contracting party proposing to apply a measure under Section C to consult with them pursuant to paragraph 16 if they are requested to do so by a contracting party the trade of which would be appreciably affected by the measure in question.  *Paragraphs 16, 18, 19 and 22* 
 
 1. Is is understood that the CONTRACTING PARTIES may concur in a proposed measure subject to specific conditions or limitations. If the measure as applied does not conform to the terms of the concurrence it will to that extent be deemed a measure in which the CONTRACTING PARTIES have not concurred. In cases in which the CONTRACTING PARTIES have concurred in a measure for a specified period, the contracting party concerned, if it finds that the maintenance of the measure for a further period of time is required to achieve the objective for which the measure was originally taken, may apply to the CONTRACTING PARTIES for an extension of that period in accordance with the provisions and procedures of Section C or D, as the case may be.  
 
-2. It is expected that the CONTRACTING PARTIES will, as a rule, refrain from concurring in a measure which is likely to cause serious prejudice to exports of a commodity on which the economy of a contracting party is largely dependent.    *Paragraphs 18 and 22*  The phrase “that the interests of other contracting parties are adequately safeguarded” is meant to provide latitude sufficient to permit consideration in each case of the most appropriate method of safeguarding those interests. The appropriate method may, for instance, take the form of an additional concession to be applied by the contracting party having recourse to Section C or D during such time as the deviation from the other Articles of the Agreement would remain in force or of the temporary suspension by any other contracting party referred to in paragraph 18 of a concession substantially equivalent to the impairment due to the introduction of the measure in question. Such contracting party would have the right to safeguard its interests through such a temporary suspension of a concession; *Provided* that this right will not be exercised when, in the case of a measure imposed by a contracting party coming within the scope of paragraph 4 (a), the CONTRACTING PARTIES have determined that the extent of the compensatory concession proposed was adequate.  *Paragraph 19*  The provisions of paragraph 19 are intented to cover the cases where an industry has been in existence beyond the “reasonable period of time” referred to in the note to paragraphs 13 and 14, and should not be so construed as to deprive a contracting party coming within the scope of paragraph 4 (a) of Article XVIII, of its right to resort to the other provisions of Section C, including paragraph 17, with regard to a newly established industry even though it has benefited from incidental protection afforded by balance of payments import restrictions.  *Paragraph 21*  Any measure taken pursuant to the provisions of paragraph 21 shall be withdrawn forthwith if the action taken in accordance with paragraph 17 is withdrawn or if the CONTRACTING PARTIES concur in the measure proposed after the expiration of the ninety-day time limit specified in paragraph 17. 
-###ad Article XX
+2. It is expected that the CONTRACTING PARTIES will, as a rule, refrain from concurring in a measure which is likely to cause serious prejudice to exports of a commodity on which the economy of a contracting party is largely dependent.    *Paragraphs 18 and 22* The phrase “that the interests of other contracting parties are adequately safeguarded” is meant to provide latitude sufficient to permit consideration in each case of the most appropriate method of safeguarding those interests. The appropriate method may, for instance, take the form of an additional concession to be applied by the contracting party having recourse to Section C or D during such time as the deviation from the other Articles of the Agreement would remain in force or of the temporary suspension by any other contracting party referred to in paragraph 18 of a concession substantially equivalent to the impairment due to the introduction of the measure in question. Such contracting party would have the right to safeguard its interests through such a temporary suspension of a concession; *Provided* that this right will not be exercised when, in the case of a measure imposed by a contracting party coming within the scope of paragraph 4 (a), the CONTRACTING PARTIES have determined that the extent of the compensatory concession proposed was adequate.  *Paragraph 19* The provisions of paragraph 19 are intented to cover the cases where an industry has been in existence beyond the “reasonable period of time” referred to in the note to paragraphs 13 and 14, and should not be so construed as to deprive a contracting party coming within the scope of paragraph 4 (a) of Article XVIII, of its right to resort to the other provisions of Section C, including paragraph 17, with regard to a newly established industry even though it has benefited from incidental protection afforded by balance of payments import restrictions. *Paragraph 21* Any measure taken pursuant to the provisions of paragraph 21 shall be withdrawn forthwith if the action taken in accordance with paragraph 17 is withdrawn or if the CONTRACTING PARTIES concur in the measure proposed after the expiration of the ninety-day time limit specified in paragraph 17. 
+### ad Article XX<sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Sub-paragraph (h)*  The exception provided for in this sub-paragraph extends to any commodity agreement which conforms to the principles approved by the Economic and Social Council in its Resolution 30 (IV) of 28 March 1947. 
-###ad Article XXIV
+*Sub-paragraph (h)* The exception provided for in this sub-paragraph extends to any commodity agreement which conforms to the principles approved by the Economic and Social Council in its Resolution 30 (IV) of 28 March 1947. 
+### ad Article XXIV<sup> 1)   [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XXIV van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Derde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Gewijzigd bij het Bijzonder Protocol tot wijziging van artikel XXIV van de Algemene Overeenkomst betreffende Tarieven en Handel, bij het Derde Protocol van verbeteringen van de Algemene Overeenkomst betreffende Tarieven en Handel en bij het Protocol tot verbetering van de Franse tekst van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 9*  It is understood that the provisions of Article I would require that, when a product which has been imported into the territory of a member of a customs union or free-trade area at a preferential rate of duty is re-exported to the territory of another member of such union or area, the latter member should collect a duty equal to the difference between the duty already paid and any higher duty that would be payable if the product were being imported directly into its territory.  *Paragraph 11*  Measures adopted by India and Pakistan in order to carry out definitive trade arrangements between them, once they have been agreed upon, might depart from particular provisions of this Agreement, but these measures would in general be consistent with the objectives of the Agreement. 
-###[ad Article XXVI ]
+*Paragraph 9* It is understood that the provisions of Article I would require that, when a product which has been imported into the territory of a member of a customs union or free-trade area at a preferential rate of duty is re-exported to the territory of another member of such union or area, the latter member should collect a duty equal to the difference between the duty already paid and any higher duty that would be payable if the product were being imported directly into its territory.  *Paragraph 11* Measures adopted by India and Pakistan in order to carry out definitive trade arrangements between them, once they have been agreed upon, might depart from particular provisions of this Agreement, but these measures would in general be consistent with the objectives of the Agreement. 
+### [ad Article XXVI<sup> 2)   [Red: Geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> ]
 
-<sup> 2)  [Red: Geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
-###ad Article XXVIII
+### ad Article XXVIII<sup> 3)   [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> 
 
-<sup> 3)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> The CONTRACTING PARTIES and each contracting party concerned should arrange to conduct the negotiations and consultations with the greatest possible secrecy in order to avoid premature disclosure of details of prospective tariff changes. The CONTRACTING PARTIES shall be informed immediately of all changes in national tariffs resulting from recourse to this Article.  *Paragraph 1*  
+The CONTRACTING PARTIES and each contracting party concerned should arrange to conduct the negotiations and consultations with the greatest possible secrecy in order to avoid premature disclosure of details of prospective tariff changes. The CONTRACTING PARTIES shall be informed immediately of all changes in national tariffs resulting from recourse to this Article.  *Paragraph 1* 
 
 1. If the CONTRACTING PARTIES specify a period other than a three-year period, a contracting party may act pursuant to paragraph 1 or paragraph 3 of Article XXVIII on the first day following the expiration of such other period and, unless the CONTRACTING PARTIES have again specified another period, subsequent periods will be three-year periods following the expiration of such specified period.  
 
@@ -1137,7 +1105,7 @@ Wordt voorlopig toegepast per 01-01-1948
 
 6. It is not intended that provision for participation in the negotiations of any contracting party with a principal supplying interest, and for consultation with any contracting party having a substantial interest in the concession which the applicant contracting party is seeking to modify or withdraw, should have the effect that it should have to pay compensation or suffer retaliation greater than the withdrawal or modification sought, judged in the light of the conditions of trade at the time of the proposed withdrawal or modification, making allowance for any discriminatory quantitative restrictions maintained by the applicant contracting party.  
 
-7. The expression “substantial interest” is not capable of a precise definition and accordingly may present difficulties for the CONTRACTING PARTIES. It is, however, intended to be construed to cover only those contracting parties which have, or in the absence of discriminatory quantitative restrictions affecting their exports could reasonably be expected to have, a significant share in the market of the contracting party seeking to modify or withdraw the concession.    *Paragraph 4*  
+7. The expression “substantial interest” is not capable of a precise definition and accordingly may present difficulties for the CONTRACTING PARTIES. It is, however, intended to be construed to cover only those contracting parties which have, or in the absence of discriminatory quantitative restrictions affecting their exports could reasonably be expected to have, a significant share in the market of the contracting party seeking to modify or withdraw the concession.    *Paragraph 4* 
 
 1. Any request for authorization to enter into negotiations shall be accompanied by all relevant statistical and other data. A decision on such request shall be made within thirty days of its submission.  
 
@@ -1148,44 +1116,43 @@ Wordt voorlopig toegepast per 01-01-1948
 4. The determination referred to in paragraph 4 (d) shall be made by the CONTRACTING PARTIES within thirty days of the submission of the matter to them, unless the applicant contracting party agrees to a longer period.  
 
 5. In determining under paragraph 4 (d) whether an applicant contracting party has unreasonably failed to offer adequate compensation, it is understood that the CONTRACTING PARTIES will take due account of the special position of a contracting party which has bound a high proportion of its tariffs at very low rates of duty and to this extent has less scope than other contracting parties to make compensatory adjustment.   
-###ad Article XXVIII bis
+### ad Article XXVIII bis<sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup> 
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel (zoals verbeterd).]  </sup>  *Paragraph 3*  It is understood that the reference to fiscal needs would include the revenue aspect of duties and particularly duties imposed primarily for revenue purposes or duties imposed on products which can be substituted for products subject to revenue duties to prevent the avoidance of such duties. 
-###ad Article XXIX
+*Paragraph 3* It is understood that the reference to fiscal needs would include the revenue aspect of duties and particularly duties imposed primarily for revenue purposes or duties imposed on products which can be substituted for products subject to revenue duties to prevent the avoidance of such duties. 
+### ad Article XXIX<sup> 1)   [Red: Ingelast bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 
-<sup> 1)  [Red: Ingelast bij het Protocol tot wijziging van Deel I en artikel XXIX van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>  *Paragraph 1*  Chapters VII and VIII of the Havana Charter have been excluded from paragraph 1 because they generally deal with the organization, functions and procedures of the International Trade Organization. 
-###[ *Final note ]*
+*Paragraph 1* Chapters VII and VIII of the Havana Charter have been excluded from paragraph 1 because they generally deal with the organization, functions and procedures of the International Trade Organization. 
+###[*Final note<sup> 2)   [Red: Geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> ]*
 
-<sup> 2)  [Red: Geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup> 
 ###Ad PART IV
 
-The words “developed contracting parties” and the words “less-developed contracting parties” as used in Part IV are to be understood to refer to developed and less-developed countries which are parties to the General Agreement on Tariffs and Trade. 
+The words “developed contracting parties” and the words “less-developed contracting parties” as used in Part IV are to be understood to refer to developed and less-developed countries which are parties to the General Agreement on Tariffs and Trade.
 ###Ad Article XXXVI
 
-*Paragraph 1*  This Article is based upon the objectives set forth in Article I as it will be amended by Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX when that Protocol enters into force.  *Paragraph 4*  The term “primary products” includes agricultural products, *vide* paragraph 2 of the note ad Article XVI, Section B.  *Paragraph 5*  A diversification programme would generally include the intensification of activities for the processing of primary products and the development of manufacturing industries, taking into account the situation of the particular contracting party and the world outlook for production and consumption of different commodities.  *Paragraph 8*  It is understood that the phrase “do not expect reciprocity” means, in accordance with the objectives set forth in this Article, that the less-developed contracting parties should not be expected, in the course of trade negotiations, to make contributions which are inconsistent with their individual development, financial and trade needs, taking into consideration past trade developments. This paragraph would apply in the event of action under Section A of Article XVIII, Article XXVIII, Article XVIII bis (Article XXIX after the amendment set forth in Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX shall have become effective), Article XXXIII, or any other procedure under this Agreement. 
+*Paragraph 1*This Article is based upon the objectives set forth in Article I as it will be amended by Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX when that Protocol enters into force.*Paragraph 4*The term “primary products” includes agricultural products, *vide* paragraph 2 of the note ad Article XVI, Section B.*Paragraph 5*A diversification programme would generally include the intensification of activities for the processing of primary products and the development of manufacturing industries, taking into account the situation of the particular contracting party and the world outlook for production and consumption of different commodities.*Paragraph 8*It is understood that the phrase “do not expect reciprocity” means, in accordance with the objectives set forth in this Article, that the less-developed contracting parties should not be expected, in the course of trade negotiations, to make contributions which are inconsistent with their individual development, financial and trade needs, taking into consideration past trade developments. This paragraph would apply in the event of action under Section A of Article XVIII, Article XXVIII, Article XVIII bis (Article XXIX after the amendment set forth in Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX shall have become effective), Article XXXIII, or any other procedure under this Agreement.
 ###Ad Article XXXVII
 
-*Paragraph 1(a)*  This paragraph would apply in the event of negotiations for reduction or elimination of tariffs or other restrictive regulations of commerce under Articles XXVIII, XXVIII bis (XXIX after the amendment set forth in Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX shall have become effective), and Article XXXIII, as well as in connexion with other action to effect such reduction or elimination which contracting parties may be able to undertake.  *Paragraph 3(b)*  The other measures referred to in this paragraph might include steps to promote domestic structural changes, to encourage the consumption or particular products, or to introduce measures of trade promotion.   
+*Paragraph 1(a)*This paragraph would apply in the event of negotiations for reduction or elimination of tariffs or other restrictive regulations of commerce under Articles XXVIII, XXVIII bis (XXIX after the amendment set forth in Section A of paragraph 1 of the Protocol Amending Part I and Articles XXIX and XXX shall have become effective), and Article XXXIII, as well as in connexion with other action to effect such reduction or elimination which contracting parties may be able to undertake.*Paragraph 3(b)* The other measures referred to in this paragraph might include steps to promote domestic structural changes, to encourage the consumption or particular products, or to introduce measures of trade promotion.  
 
-### Annex  J  
+###  Annex  J  
 
-####Exceptions to the rule of non-discrimination
+####Exceptions to the rule of non-discrimination<sup> 3)   [Red: Ingelast bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel, maar geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.] </sup> 
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-<sup> 3)  [Red: Ingelast bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel, maar geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>    *[Interpretative Note to Annex J ]*  <sup> 4)  [Red: Ingelast bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel, maar geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.]  </sup>   
+*[Interpretative Note to Annex J<sup> 4)  [Red: Ingelast bij het Bijzonder Protocol tot wijziging van artikel XIV van de Algemene Overeenkomst betreffende Tarieven en Handel, maar geschrapt bij het Protocol tot wijziging van de preambule en Deel II en III van de Algemene Overeenkomst betreffende Tarieven en Handel.] </sup>]*   
 
 ####Algemene Overeenkomst betreffende Tarieven en Handel
 
-De Regeringen van het Gemenebest van Australië, het Koninkrijk België, de Verenigde Staten van Brazilië, Birma, Canada, Ceylon, de Republiek Chili, de Republiek China, de Republiek Cuba, de Tsjechoslowaakse Republiek, de Franse Republiek, India, Libanon, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Nieuw-Zeeland, het Koninkrijk Noorwegen, Pakistan, Zuid-Rhodesia, Syrië, de Unie van Zuid-Afrika, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika; Erkennende, dat hun betrekkingen op het gebied van handel en economie dienen te zijn gericht op verhoging van de levensstandaard, werkgelegenheid voor iedereen en een ruim, gestadig toenemend, reëel inkomen en een grote, gestadig toenemende, effectieve vraag, volledig gebruik van 's werelds hulpbronnen en uitbreiding van de produktie en de goederenruil; Geleid door de wens bij te dragen tot de verwezenlijking van deze doeleinden door het aangaan, op grondslag van wederkerigheid en wederzijds voordeel, van overeenkomsten die een aanzienlijke verlaging van douanetarieven en een aanzienlijke vermindering van andere handelsbelemmeringen, zomede de afschaffing van discriminerende behandeling in het internationale handelsverkeer, beogen;   Zijn door middel van hun vertegenwoordigers het volgende overeengekomen:     
-### DEEL  I   
-Wordt voorlopig toegepast per 01-01-1948   
+De Regeringen van het Gemenebest van Australië, het Koninkrijk België, de Verenigde Staten van Brazilië, Birma, Canada, Ceylon, de Republiek Chili, de Republiek China, de Republiek Cuba, de Tsjechoslowaakse Republiek, de Franse Republiek, India, Libanon, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Nieuw-Zeeland, het Koninkrijk Noorwegen, Pakistan, Zuid-Rhodesia, Syrië, de Unie van Zuid-Afrika, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika; Erkennende, dat hun betrekkingen op het gebied van handel en economie dienen te zijn gericht op verhoging van de levensstandaard, werkgelegenheid voor iedereen en een ruim, gestadig toenemend, reëel inkomen en een grote, gestadig toenemende, effectieve vraag, volledig gebruik van 's werelds hulpbronnen en uitbreiding van de produktie en de goederenruil; Geleid door de wens bij te dragen tot de verwezenlijking van deze doeleinden door het aangaan, op grondslag van wederkerigheid en wederzijds voordeel, van overeenkomsten die een aanzienlijke verlaging van douanetarieven en een aanzienlijke vermindering van andere handelsbelemmeringen, zomede de afschaffing van discriminerende behandeling in het internationale handelsverkeer, beogen;  Zijn door middel van hun vertegenwoordigers het volgende overeengekomen:   
+### DEEL  I  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Artikel  I  
 
 ####Algehele meestbegunstiging
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Ten aanzien van in- en uitvoerrechten en enigerlei heffingen terzake van of in verband met in- of uitvoer of terzake van de overmaking naar of uit het buitenland van gelden ter betaling van importen of exporten, alsmede ten aanzien van de wijze van heffing van zodanige rechten en heffingen en voorts ten aanzien van alle regels en formaliteiten nopens in- en uitvoer, alsmede ten aanzien van alle in de leden 2 en 4 van artikel III bedoelde aangelegenheden, zal elk voordeel, elke gunst, elk voorrecht of elke vrijstelling welke een der verdragsluitende partijen verleent aan enig produkt van oorsprong uit of bestemd voor enig ander land, terstond en onvoorwaardelijk worden verleend aan het overeenkomstige produkt van oorsprong uit of bestemd voor het grondgebied van alle andere verdragsluitende partijen.   
 2.  De bepalingen van lid 1 van dit artikel vereisen niet de afschaffing van enige preferenties met betrekking tot invoerrechten of -heffingen welke de in lid 4 van dit artikel vastgestelde hoogte niet te boven gaan en onder de volgende categorieën vallen: 
@@ -1202,13 +1169,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) wat betreft de rechten of heffingen op enig in bovenbedoelde Lijst omschreven produkt, niet hoger zijn dan het daarin vastgelegde verschil tussen het meestbegunstigings- en het preferentiële recht; indien geen preferentieel recht is vastgesteld, wordt als zodanig voor de toepassing van dit lid beschouwd dat recht dat op 10 april 1947 van kracht was; en indien geen meestbegunstigingsrecht is vastgesteld, mag de marge het verschil dat op 10 april 1947 tussen het meestbegunstigings- en het preferentiële recht bestond, niet overschrijden;  
 
-(b) wat betreft de rechten of heffingen op enig niet in bovenbedoelde Lijst omschreven produkt, niet hoger zijn dan het verschil tussen het meestbegunstigings- en het preferentiële recht zoals dit op 10 april 1947 bestond.   Wat betreft de verdragsluitende partijen genoemd in Bijlage G, wordt de onder (a) en (b) van dit lid vermelde datum 10 april 1947 vervangen door de respectieve data welke in voormelde Bijlage zijn vermeld.   
+(b) wat betreft de rechten of heffingen op enig niet in bovenbedoelde Lijst omschreven produkt, niet hoger zijn dan het verschil tussen het meestbegunstigings- en het preferentiële recht zoals dit op 10 april 1947 bestond.   Wat betreft de verdragsluitende partijen genoemd in Bijlage G, wordt de onder (a) en (b) van dit lid vermelde datum 10 april 1947 vervangen door de respectieve data welke in voormelde Bijlage zijn vermeld.  
 
 ### Artikel  II  
 
 ####Concessielijsten
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  
 
@@ -1232,16 +1199,16 @@ Wordt voorlopig toegepast per 01-01-1948
 (a) De specifieke rechten en heffingen welke zijn opgenomen in de Lijsten betrekking hebbende op verdragsluitende partijen die lid zijn van het Internationale Monetaire Fonds, en de preferentiële marges bij de specifieke rechten en heffingen welke door bedoelde verdragsluitende partijen worden toegepast, zijn in de desbetreffende valuta uitgedrukt tegen de pari-waarde welke op de dag van het sluiten van deze Overeenkomst door het Fonds is aangenomen of voorlopig erkend. Dientengevolge kunnen, in geval deze pari-waarde overeenkomstig de Overeenkomst betreffende het Internationale Monetaire Fonds met meer dan twintig ten honderd wordt verminderd, deze specifieke rechten en heffingen en preferentiële marges aan zulk een vermindering worden aangepast, mits tussen de VERDRAGSLUITENDE PARTIJEN (d.w.z. de ingevolge artikel XXV gezamenlijk optredende verdragsluitende partijen) overeenstemming bestaat over het feit dat zodanige aanpassingen de waarde der in de desbetreffende Lijst of elders in deze Overeenkomst vastgelegde concessies niet aantasten, rekening houdende met alle factoren die van invloed kunnen zijn op de noodzakelijkheid of de urgentie van zulke aanpassingen.  
 
 (b) Deze bepalingen zullen analoog van toepassing zijn op een verdragsluitende partij die geen lid van het Fonds is, van de dag af dat zij lid van het Fonds wordt of een speciale valuta-overeenkomst ingevolge artikel XV aangaat.     
-7.  De aan deze Overeenkomst gehechte Lijsten vormen een integrerend deel van Deel I van deze Overeenkomst.   
+7.  De aan deze Overeenkomst gehechte Lijsten vormen een integrerend deel van Deel I van deze Overeenkomst.  
 
-### DEEL  II   
-Wordt voorlopig toegepast per 01-01-1948   
+### DEEL  II  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Artikel  III  
 
 ####Nationale behandeling op het gebied van binnenlandse belastingen en regelingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen erkennen, dat binnenlandse belastingen en andere binnenlandse heffingen, evenals wetten, verordeningen en voorschriften betreffende verkoop, aanbod ten verkoop, koop, vervoer, distributie of gebruik van produkten in het binnenland, en binnenlandse kwantitatieve regelingen welke menging, be- of verwerking of gebruik van produkten in bepaalde hoeveelheden of verhoudingen voorschrijven, niet mogen worden toegepast op geïmporteerde of binnenlandse produkten op zodanige wijze dat bescherming aan de binnenlandse produktie wordt verleend.   
 2.  De produkten van oorsprong uit het grondgebied van enige verdragsluitende partij zijn bij invoer in het grondgebied van enige andere verdragsluitende partij noch rechtstreeks noch middellijk onderworpen aan binnenlandse belastingen of andere binnenlandse heffingen van welke aard ook hoger dan die welke rechtstreeks of middellijk overeenkomstige produkten van binnenlandse oorsprong treffen. Bovendien mag geen verdragsluitende partij op enige andere wijze binnenlandse belastingen of andere binnenlandse heffingen op geïmporteerde of binnenlandse produkten toepassen op een wijze die in strijd is met de in lid 1 geformuleerde beginselen.   
@@ -1256,13 +1223,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) De bepalingen van dit artikel mogen niet de uitkering beletten, uitsluitend aan binnenlandse producenten, van subsidies, daaronder begrepen betalingen aan binnenlandse producenten uit de opbrengst van binnenlandse belastingen of heffingen toegepast overeenkomstig de bepalingen van dit artikel, alsmede subsidies in de vorm van aankopen van binnenlandse produkten door of voor rekening van de overheid.     
 9.  De verdragsluitende partijen erkennen, dat binnenlandse prijsbeheersing door middel van vaststelling van maximumprijzen, zelfs indien deze in overeenstemming is met de andere bepalingen van dit artikel, nadelige gevolgen kan teweegbrengen voor de belangen van verdragsluitende partijen die importprodukten leveren. Mitsdien dienen de verdragsluitende partijen die dergelijke maatregelen toepassen rekening te houden met de belangen van de exporterende verdragsluitende partijen teneinde zoveel mogelijk deze nadelige gevolgen te vermijden.   
-10.  De bepalingen van dit artikel beletten een verdragsluitende partij niet binnenlandse kwantitatieve regelingen die betrekking hebben op belichte cinematografische films en voldoen aan de bepalingen van artikel IV, in te stellen of in stand te houden.   
+10.  De bepalingen van dit artikel beletten een verdragsluitende partij niet binnenlandse kwantitatieve regelingen die betrekking hebben op belichte cinematografische films en voldoen aan de bepalingen van artikel IV, in te stellen of in stand te houden.  
 
 ### Artikel  IV  
 
 ####Bijzondere voorschriften nopens cinematografische films
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Indien een verdragsluitende partij binnenlandse kwantitatieve regelingen nopens belichte cinematografische films instelt of in stand houdt, dienen deze regelingen de vorm te hebben van projectietijdcontingenten welke aan de volgende eisen moeten voldoen: 
 
@@ -1272,13 +1239,13 @@ Indien een verdragsluitende partij binnenlandse kwantitatieve regelingen nopens 
 
 (c) Niettegenstaande het bepaalde sub (b) van dit artikel, mag elke verdragsluitende partij projectietijd-contingenten handhaven welke voldoen aan de sub (a) van dit artikel gestelde eisen, en een minimum percentage aan projectietijd reserveren voor films van een bepaalde oorsprong, films van de verdragsluitende partij die zulke projectietijd-contingenten heeft ingesteld daarbij uitgezonderd, onder voorbehoud dat dit minimum percentage niet wordt verhoogd boven het op 10 april 1947 geldende niveau;  
 
-(d) Projectietijd-contingenten kunnen door middel van onderhandelingen worden beperkt, geliberaliseerd of afgeschaft.    
+(d) Projectietijd-contingenten kunnen door middel van onderhandelingen worden beperkt, geliberaliseerd of afgeschaft.   
 
 ### Artikel  V  
 
 ####Vrijheid van doorvoer
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Goederen (met inbegrip van bagage), alsmede schepen en andere vervoermiddelen, worden geacht zich in doorvoer door het grondgebied van een verdragsluitende partij te bevinden, wanneer de doortocht door dit grondgebied, al dan niet gepaard gaande met overlading, opslag, breking van de lading of verandering in de wijze van vervoer, deel uitmaakt van een volledige reis welke begint en eindigt buiten de landsgrenzen van de verdragsluitende partij over het grondgebied waarvan de doortocht plaatsvindt. Verkeer van deze aard wordt hierna in dit artikel „transitoverkeer” genoemd.   
 2.  Er zal vrije doorvoer zijn door het grondgebied van elke verdragsluitende partij voor het transitoverkeer met bestemming naar of komende uit het grondgebied van andere verdragsluitende partijen, en wel langs de voor het internationale transitoverkeer meest geschikte wegen. Geen onderscheid zal worden gemaakt naar de vlag waaronder de schepen varen, de plaats van oorsprong, vertrek, binnenkomst, uitgang of bestemming, dan wel enige omstandigheid verband houdende met de eigendom der goederen, schepen of andere vervoermiddelen.   
@@ -1286,13 +1253,13 @@ Wordt voorlopig toegepast per 01-01-1948
 4.  Alle heffingen en regelingen waaraan verdragsluitende partijen het transitoverkeer met bestemming naar of komende uit het grondgebied van andere verdragsluitende partijen onderwerpen, behoren redelijk te zijn, rekening houdende met de heersende verkeersomstandigheden.   
 5.  Wat betreft heffingen, regelingen en formaliteiten terzake van doorvoer, behandelt elke verdragsluitende partij het transitoverkeer met bestemming naar of komende uit het grondgebied van een andere verdragsluitende partij niet minder gunstig dan het transitoverkeer met bestemming naar of komende uit enig derde land.   
 6.  Elke verdragsluitende partij behandelt de produkten die door het grondgebied van een andere verdragsluitende partij zijn vervoerd niet minder gunstig dan wanneer zij van de plaats van oorsprong naar hun bestemming waren vervoerd zonder door het grondgebied van die andere verdragsluitende partij te gaan. Aan iedere verdragsluitende partij staat het echter vrij haar op de dag van het sluiten van deze Overeenkomst bestaande eisen van directe verzending te handhaven met betrekking tot goederen ten aanzien waarvan deze directe verzending een noodzakelijke voorwaarde is om tegen preferentiële invoertarieven te worden toegelaten of betrekking heeft op de door de verdragsluitende partij voorgeschreven methode van waardebepaling met het oog op het invoerrecht.   
-7.  De bepalingen van dit artikel zijn niet van toepassing op de exploitatie van luchtvaartuigen in het doorvoerverkeer, doch wel op de doorvoer van goederen (met inbegrip van bagage) door de lucht.   
+7.  De bepalingen van dit artikel zijn niet van toepassing op de exploitatie van luchtvaartuigen in het doorvoerverkeer, doch wel op de doorvoer van goederen (met inbegrip van bagage) door de lucht.  
 
 ### Artikel  VI  
 
 ####Anti-dumping- en compenserende rechten
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen erkennen dat dumping, waardoor produkten uit een land tegen een lagere dan hun normale prijs in een ander land aan de markt worden gebracht, moet worden veroordeeld, indien zulks aanmerkelijke schade toebrengt of dreigt toe te brengen aan een gevestigde industrie in het gebied van een verdragsluitende partij, dan wel de vestiging van een binnenlandse industrie aanmerkelijk vertraagt. Voor de toepassing van dit artikel moet een uit een land naar een ander land geëxporteerd produkt worden beschouwd als tegen een lagere dan de normale prijs op de markt van een importerend land te zijn gebracht, indien de prijs van dit produkt: 
 
@@ -1318,13 +1285,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) dat het stelsel ook wel heeft geleid tot de verkoop voor export van het desbetreffende produkt tegen een hogere prijs dan de vergelijkbare prijs voor een overeenkomstig produkt welke aan kopers op de binnenlandse markt in rekening wordt gebracht, en  
 
-(b) dat het stelsel, door doelmatige regeling van de produktie of anderszins, zodanig werkt, dat het de uitvoer niet al te zeer stimuleert of op andere wijze de belangen van andere verdragsluitende partijen ernstig schaadt.     
+(b) dat het stelsel, door doelmatige regeling van de produktie of anderszins, zodanig werkt, dat het de uitvoer niet al te zeer stimuleert of op andere wijze de belangen van andere verdragsluitende partijen ernstig schaadt.    
 
 ### Artikel  VII  
 
 ####Bepaling van de belastbare in- en uitvoerwaarde
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen erkennen de deugdelijkheid van de algemene beginselen ter bepaling der belastbare in- en uitvoerwaarde, neergelegd in de volgende leden van dit artikel, en zij verbinden zich deze beginselen toe te passen ten aanzien van alle produkten welke bij in- of uitvoer zijn onderworpen aan douanerechten of andere heffingen of beperkingen welke op enige wijze zijn gebaseerd op of afhankelijk zijn van de waarde. Bovendien stellen zij op verzoek van een andere verdragsluitende partij in het licht van genoemde beginselen een onderzoek in naar de werking van hun wetten en regelingen terzake van de bepaling van de belastbare in- en uitvoerwaarde. De VERDRAGSLUITENDE PARTIJEN kunnen aan verdragsluitende partijen verzoeken verslag uit te brengen omtrent de door hen ingevolge de bepalingen van dit artikel genomen maatregelen.   
 2.  
@@ -1344,13 +1311,13 @@ Wordt voorlopig toegepast per 01-01-1948
 (c) De VERDRAGSLUITENDE PARTIJEN formuleren in overeenstemming met het Internationale Monetaire Fonds regels voor de omrekening door verdragsluitende partijen van alle vreemde valuta waarvoor overeenkomstig de Overeenkomst betreffende het Internationale Monetaire Fonds veelvoudige wisselkoersen worden aangehouden. Iedere verdragsluitende partij mag voor de toepassing van lid 2 van dit artikel ten aanzien van zulke vreemde valuta's bedoelde regels toepassen in plaats van de pari-waarden te gebruiken. Zolang deze regels nog niet door de VERDRAGSLUITENDE PARTIJEN zijn aangenomen, mag iedere verdragsluitende partij voor de toepassing van lid 2 van dit artikel ten aanzien van zulk een vreemde valuta regels voor de omrekening volgen die het oogmerk hebben de waarde van deze valuta in handelstransacties nauwkeurig weer te geven.  
 
 (d) Geen bepaling in dit lid mag zo worden uitgelegd, dat zij een verdragsluitende partij zou verplichten de op de dag van het sluiten van deze Overeenkomst in haar gebied geldende wijze van omrekening voor douanedoeleinden te wijzigen, indien deze wijziging in het algemeen een verhoging van verschuldigde rechten ten gevolge zou hebben.     
-5.  Vaststaande grondslagen en methoden dienen te worden aangewend voor de waardebepaling van produkten, onderworpen aan rechten of andere heffingen of beperkingen die op enigerlei wijze zijn gebaseerd op of afhankelijk zijn van de waarde, en hieraan dient voldoende bekendheid te worden gegeven teneinde de handelaren in staat te stellen de aan te geven waarde bij in- of uitvoer met een redelijke mate van zekerheid te schatten.   
+5.  Vaststaande grondslagen en methoden dienen te worden aangewend voor de waardebepaling van produkten, onderworpen aan rechten of andere heffingen of beperkingen die op enigerlei wijze zijn gebaseerd op of afhankelijk zijn van de waarde, en hieraan dient voldoende bekendheid te worden gegeven teneinde de handelaren in staat te stellen de aan te geven waarde bij in- of uitvoer met een redelijke mate van zekerheid te schatten.  
 
 ### Artikel  VIII  
 
 ####Retributies en formaliteiten bij in- en uitvoer
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  
 
@@ -1377,26 +1344,26 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (g) analyse en onderzoek; en  
 
-(h) quarantaine, sanitair onderzoek en ontsmetting.     
+(h) quarantaine, sanitair onderzoek en ontsmetting.    
 
 ### Artikel  IX  
 
 ####Merken van oorsprong
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Elke verdragsluitende partij behandelt de produkten van het grondgebied van andere verdragsluitende partijen met betrekking tot merkingsvoorschriften niet ongunstiger dan de overeenkomstige produkten uit een derde land.   
 2.  De verdragsluitende partijen erkennen, dat bij het aanvaarden en ten uitvoer leggen van wetten en voorschriften met betrekking tot merken van oorsprong de moeilijkheden en ongemakken welke zulke maatregelen voor de handel en de industrie van exporterende landen veroorzaken, tot het uiterste dienen te worden beperkt, waarbij rekening dient te worden gehouden met de noodzaak consumenten te beschermen tegen bedrieglijke of misleidende aanduidingen.   
 3.  In alle gevallen waarin het administratief mogelijk is dienen de verdragsluitende partijen toe te staan, dat de vereiste merken van oorsprong worden aangebracht op het tijdstip van invoer.   
 4.  De wetten en regelingen van verdragsluitende partijen met betrekking tot het merken van ingevoerde produkten moeten zodanig zijn, dat zij kunnen worden nageleefd zonder dat de produkten daardoor ernstig worden beschadigd of hun waarde aanzienlijk wordt verminderd of hun kostprijs onredelijk wordt verhoogd.   
 5.  In het algemeen behoort geen der verdragsluitende partijen een bijzonder recht te hebben of een bijzondere boete op te leggen wegens het niet nakomen van de merkingsvoorschriften voordat invoer plaatsvindt, tenzij de correctie der merken onredelijk lang wordt uitgesteld, misleidende merken zijn aangebracht of de vereiste merking met opzet is nagelaten.   
-6.  De verdragsluitende partijen dienen samen te werken teneinde te voorkomen, dat handelsbenamingen worden gebruikt om een valse voorstelling te geven omtrent de ware oorsprong van een produkt, zulks tot schade van die specifieke gewestelijke of aardrijkskundige benamingen van voortbrengselen van het grondgebied van een verdragsluitende partij welke wettelijke bescherming genieten. Elke verdragsluitende partij dient haar volle en welwillende aandacht te schenken aan de tot haar gerichte verzoeken of vertogen van een andere verdragsluitende partij met betrekking tot de nakoming van de in de vorige zin genoemde verplichting ten aanzien van benamingen van produkten welke haar door de andere verdragsluitende partij zijn medegedeeld.   
+6.  De verdragsluitende partijen dienen samen te werken teneinde te voorkomen, dat handelsbenamingen worden gebruikt om een valse voorstelling te geven omtrent de ware oorsprong van een produkt, zulks tot schade van die specifieke gewestelijke of aardrijkskundige benamingen van voortbrengselen van het grondgebied van een verdragsluitende partij welke wettelijke bescherming genieten. Elke verdragsluitende partij dient haar volle en welwillende aandacht te schenken aan de tot haar gerichte verzoeken of vertogen van een andere verdragsluitende partij met betrekking tot de nakoming van de in de vorige zin genoemde verplichting ten aanzien van benamingen van produkten welke haar door de andere verdragsluitende partij zijn medegedeeld.  
 
 ### Artikel  X  
 
 ####Bekendmaking en uitvoering van handelsregelingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Wetten, regelingen, rechterlijke beslissingen en administratieve uitspraken welke algemeen toepasselijk zijn, welke door een verdragsluitende partij worden uitgevoerd of ten uitvoer gelegd en welke betrekking hebben op de indeling of waardebepaling van produkten voor douanedoeleinden, op de hoogte van rechten, belastingen of andere heffingen, of op voorschriften, beperkingen of verboden terzake van in- of uitvoer of de overmaking van hiermede samenhangende betalingen of terzake van de verkoop, distributie, het vervoer, de verzekering, opslag, het onderzoek, de uitstalling, be- of verwerking, menging of ander gebruik daarvan, worden terstond bekendgemaakt teneinde de regeringen en handelaren in de gelegenheid te stellen daarvan kennis te nemen. Overeenkomsten welke de internationale handelspolitiek raken en van kracht zijn tussen de regering of een overheidsorgaan van een verdragsluitende partij en de regering of een overheidsorgaan van een andere verdragsluitende partij, worden eveneens bekendgemaakt. De bepalingen van dit lid verplichten een verdragsluitende partij niet tot bekendmaking van vertrouwelijke gegevens, waardoor de handhaving der wetten zou worden belemmerd, dan wel het openbare belang of de wettige handelsbelangen van bepaalde openbare of particuliere ondernemingen zouden worden geschaad.   
 2.  Geen algemeen toepasselijke door een verdragsluitende partij genomen maatregel die een verhoging van een recht of een andere heffing op de invoer krachtens een gevestigd en algemeen gebruik ten gevolge heeft of die een nieuw of drukkender voorschrift, beperking of verbod terzake van de invoer of de overmaking van hiermede samenhangende betalingen oplegt, wordt ten uitvoer gelegd voordat deze officieel is bekendgemaakt.   
@@ -1406,13 +1373,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) Elke verdragsluitende partij dient rechtbanken, scheidsgerechten of administratieve rechtbanken of procedures in stand te houden of zo spoedig mogelijk in te stellen, die o.a. ten doel hebben administratieve maatregelen terzake van douaneaangelegenheden op korte termijn te onderzoeken en te corrigeren. Voornoemde rechtbanken, gerechten of procedures zijn onafhankelijk van de organen die met de administratieve uitvoering van de maatregelen zijn belast en de door of krachtens deze genomen beslissingen worden ten uitvoer gelegd door en dienen tot richtlijnen voor de praktijk van deze organen, tenzij binnen de daartoe voor de importeurs voorgeschreven tijd beroep is aangetekend bij een hof of een gerecht met hogere rechtsmacht, mits de centrale leiding van zulk een orgaan stappen mag doen om bij een ander rechtsgeding herziening van de zaak te verkrijgen, indien er gegronde redenen bestaan om aan te nemen, dat de beslissing onverenigbaar is met de gevestigde rechtsbeginselen of met de feiten.  
 
-(c) Het bepaalde sub (b) van dit lid vereist niet de opheffing of vervanging van procedures welke op de dag van het sluiten van deze Overeenkomst in het gebied van een verdragsluitende partij bestonden, zo deze in feite voorzien in een objectief en onpartijdig onderzoek van bestaande administratieve maatregelen, ook al zijn deze procedures niet volledig of formeel onafhankelijk van de organen belast met de administratieve uitvoering. Een verdragsluitende partij die van zulke procedures gebruik maakt verstrekt op verzoek de VERDRAGSLUITENDE PARTIJEN volledige gegevens dienaangaande, opdat deze kunnen beoordelen of de procedures al dan niet aan de sub (c) van dit lid gestelde eisen beantwoorden.     
+(c) Het bepaalde sub (b) van dit lid vereist niet de opheffing of vervanging van procedures welke op de dag van het sluiten van deze Overeenkomst in het gebied van een verdragsluitende partij bestonden, zo deze in feite voorzien in een objectief en onpartijdig onderzoek van bestaande administratieve maatregelen, ook al zijn deze procedures niet volledig of formeel onafhankelijk van de organen belast met de administratieve uitvoering. Een verdragsluitende partij die van zulke procedures gebruik maakt verstrekt op verzoek de VERDRAGSLUITENDE PARTIJEN volledige gegevens dienaangaande, opdat deze kunnen beoordelen of de procedures al dan niet aan de sub (c) van dit lid gestelde eisen beantwoorden.    
 
 ### Artikel  XI  
 
 ####Algemene afschaffing van kwantitatieve beperkingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Behalve rechten, belastingen of andere heffingen mag geen verdragsluitende partij enig verbod of enige beperking, toegepast hetzij door middel van contingenten of invoer- of uitvoervergunningen, hetzij door middel van andere maatregelen, opleggen of handhaven op de invoer van een produkt van oorsprong uit het grondgebied van een andere verdragsluitende partij of op de uitvoer of verkoop ten uitvoer van een produkt dat voor het grondgebied van een andere verdragsluitende partij is bestemd.   
 2.  Het bepaalde in lid 1 van dit artikel strekt zich niet uit tot de volgende gevallen: 
@@ -1427,13 +1394,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (ii) een tijdelijk overschot weg te werken van het overeenkomstige binnenlandse produkt, of, indien er geen aanmerkelijke binnenlandse produktie van het overeenkomstige produkt bestaat, van een binnenlands produkt dat het geïmporteerde direct kan vervangen, door zulk een overschot om niet of onder de marktprijs ter beschikking te stellen van zekere groepen binnenlandse verbruikers; of  
 
-(iii) de hoeveelheden te beperken, welke mogen worden geproduceerd van een dierlijk produkt waarvan de produktie, geheel of in hoofdzaak, rechtstreeks afhankelijk is van het geïmporteerde produkt, indien de binnenlandse produktie van zulks een goed betrekkelijk onbeduidend is.     Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit lid beperkingen aan de invoer van enig produkt oplegt, dient de totale hoeveelheid of waarde van dit produkt welke gedurende een bepaalde toekomstige periode mag worden ingevoerd, alsmede enige verandering in deze hoeveelheid of waarde, ter algemene kennis te brengen. Bovendien mogen de krachtens dit lid, sub (i), toegepaste beperkingen de totale invoer niet doen verminderen in verhouding tot de totale binnenlandse produktie, zulks in vergelijking met de verhouding welke men redelijkerwijze tussen deze beide hoeveelheden bij afwezigheid van beperkingen zou kunnen verwachten. Bij vaststelling van deze verhouding houdt de verdragsluitende partij terdege rekening met de verhouding welke in een voorafgaande basisperiode bestond, zomede met alle bijzondere factoren welke van invloed kunnen zijn geweest of kunnen zijn op de handel in het betrokken produkt.   
+(iii) de hoeveelheden te beperken, welke mogen worden geproduceerd van een dierlijk produkt waarvan de produktie, geheel of in hoofdzaak, rechtstreeks afhankelijk is van het geïmporteerde produkt, indien de binnenlandse produktie van zulks een goed betrekkelijk onbeduidend is.     Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit lid beperkingen aan de invoer van enig produkt oplegt, dient de totale hoeveelheid of waarde van dit produkt welke gedurende een bepaalde toekomstige periode mag worden ingevoerd, alsmede enige verandering in deze hoeveelheid of waarde, ter algemene kennis te brengen. Bovendien mogen de krachtens dit lid, sub (i), toegepaste beperkingen de totale invoer niet doen verminderen in verhouding tot de totale binnenlandse produktie, zulks in vergelijking met de verhouding welke men redelijkerwijze tussen deze beide hoeveelheden bij afwezigheid van beperkingen zou kunnen verwachten. Bij vaststelling van deze verhouding houdt de verdragsluitende partij terdege rekening met de verhouding welke in een voorafgaande basisperiode bestond, zomede met alle bijzondere factoren welke van invloed kunnen zijn geweest of kunnen zijn op de handel in het betrokken produkt.  
 
 ### Artikel  XII  
 
 ####Beperkingen ter bescherming van de betalingsbalans
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Niettegenstaande het bepaalde in lid 1 van artikel XI mag een verdragsluitende partij ter bescherming van haar buitenlandse financiële positie en haar betalingsbalans de hoeveelheid of de waarde van ten invoer toe te laten goederen beperken, behoudens de bepalingen in de volgende leden van dit artikel.   
 2.  
@@ -1477,13 +1444,13 @@ Wordt voorlopig toegepast per 01-01-1948
 (e) De VERDRAGSLUITENDE PARTIJEN dienen bij elke ingevolge dit lid ingestelde procedure terdege rekening te houden met alle bijzondere externe factoren die schade toebrengen aan de uitvoerhandel van de verdragsluitende partij die de beperkingen toepast.  
 
 (f) Een uitspraak krachtens dit lid dient op korte termijn te worden gedaan en wel, indien mogelijk, binnen zestig dagen na de aanvang van het overleg.     
-5.  Indien er voortdurend en op grote schaal krachtens dit artikel invoerbeperkingen worden toegepast, hetgeen duidt op een algehele verstoring van het evenwicht, waardoor de internationale handel wordt beperkt, openen de VERDRAGSLUITENDE PARTIJEN besprekingen teneinde te overwegen of er andere maatregelen zouden kunnen worden genomen – hetzij door die verdragsluitende partijen wier betalingsbalans onder druk staat, hetzij door die wier betalingsbalans de neiging heeft bijzonder gunstig te zijn, hetzij door een bevoegde intergouvernementele organisatie – om de oorzaken die aan de evenwichtsverstoring ten grondslag liggen, weg te nemen. Op uitnodiging van de VERDRAGSLUITENDE PARTIJEN nemen de verdragsluitende partijen deel aan dergelijke besprekingen.   
+5.  Indien er voortdurend en op grote schaal krachtens dit artikel invoerbeperkingen worden toegepast, hetgeen duidt op een algehele verstoring van het evenwicht, waardoor de internationale handel wordt beperkt, openen de VERDRAGSLUITENDE PARTIJEN besprekingen teneinde te overwegen of er andere maatregelen zouden kunnen worden genomen – hetzij door die verdragsluitende partijen wier betalingsbalans onder druk staat, hetzij door die wier betalingsbalans de neiging heeft bijzonder gunstig te zijn, hetzij door een bevoegde intergouvernementele organisatie – om de oorzaken die aan de evenwichtsverstoring ten grondslag liggen, weg te nemen. Op uitnodiging van de VERDRAGSLUITENDE PARTIJEN nemen de verdragsluitende partijen deel aan dergelijke besprekingen.  
 
 ### Artikel  XIII  
 
 ####Non-discriminatoire toepassing van kwantitatieve beperkingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Geen verdragsluitende partij mag de invoer van enig produkt van oorsprong uit het grondgebied van een andere verdragsluitende partij of de uitvoer van enig produkt bestemd voor het grondgebied van een andere verdragsluitende partij verbieden of beperken, tenzij de invoer van het overeenkomstige produkt van oorsprong uit ieder derde land of de uitvoer daarvan naar ieder derde land eveneens is verboden of beperkt.   
 2.  Bij de toepassing van invoerbeperkingen op enig produkt streven de verdragsluitende partijen naar een verdeling van de handel in dit produkt welke zo veel mogelijk het aandeel nabij komt dat de verschillende verdragsluitende partijen bij afwezigheid van zulke beperkingen naar alle waarschijnlijkheid hadden kunnen verkrijgen. Te dien einde nemen zij de volgende voorschriften in acht: 
@@ -1503,13 +1470,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) In geval contingenten zijn verdeeld onder de landen van levering zal de verdragsluitende partij die de beperkingen toepast alle andere verdragsluitende partijen welke belang hebben bij de levering van het desbetreffende produkt onverwijld verwittigen van het in hoeveelheid of waarde uitgedrukte aandeel in het contingent hetwelk voor het lopende tijdvak is toegewezen en zulks ter algemene kennis brengen.     
 4.  Met betrekking tot de overeenkomstig lid 2 (d) van dit artikel of lid 2 (c) van artikel XI toegepaste beperkingen geschieden de keuze van een basisperiode voor een produkt en de waardering van eventuele bijzondere factoren die van invloed zijn op de handel in dit produkt in eerste aanleg door de verdragsluitende partij die de beperking oplegt; nochtans treedt genoemde verdragssluitende partij op verzoek van iedere andere verdragsluitende partij die een aanmerkelijk belang heeft bij de levering van dat produkt, dan wel op verzoek der VERDRAGSLUITENDE PARTIJEN, onverwijld met die andere verdragsluitende partij, of met de VERDRAGSLUITENDE PARTIJEN, in overleg nopens de noodzaak van een correctie van de vastgestelde verhouding of de gekozen basisperiode, dan wel nopens de noodzaak van herwaardering van de desbetreffende bijzondere factoren of van afschaffing van voorwaarden, formaliteiten of andere bepalingen welke eenzijdig zijn vastgesteld met betrekking tot de toewijzing van een billijk contingent of de onbeperkte uitputting hiervan.   
-5.  De bepalingen van dit artikel zijn van toepassing op elk tariefcontingent dat door enige verdragsluitende partij wordt ingesteld of gehandhaafd, terwijl de beginselen van dit artikel, voor zover toepasselijk, zich eveneens uitstrekken tot uitvoerbeperkingen.   
+5.  De bepalingen van dit artikel zijn van toepassing op elk tariefcontingent dat door enige verdragsluitende partij wordt ingesteld of gehandhaafd, terwijl de beginselen van dit artikel, voor zover toepasselijk, zich eveneens uitstrekken tot uitvoerbeperkingen.  
 
 ### Artikel  XIV  
 
 ####Uitzonderingen op de regel van non-discriminatie
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Een verdragsluitende partij die krachtens artikel XII of sectie B van artikel XVIII beperkingen toepast mag bij de toepassing dezer beperkingen op zodanige wijze afwijken van de bepalingen van artikel XIII, dat de uitwerking gelijkwaardig is aan die der beperkingen welke deze verdragsluitende partij op dat tijdstip op betalingen en overmakingen bij lopende internationale transacties mag toepassen krachtens artikel VIII of artikel XIV van de Overeenkomst betreffende het Internationale Monetaire Fonds of krachtens hiermede overeenkomende bepalingen van een ingevolge lid 6 van artikel XV aangegane speciale valuta-overeenkomst.   
 2.  Een verdragsluitende partij die krachtens artikel XII of sectie B van artikel XVIII invoerbeperkingen toepast, mag met toestemming van de VERDRAGSLUITENDE PARTIJEN tijdelijk afwijken van de bepalingen van artikel XIII met betrekking tot een klein gedeelte van haar buitenlandse handel, in geval de hieruit voortvloeiende voordelen voor de betrokken verdragsluitende partij of verdragsluitende partijen de nadelen welke hierdoor voor de handel van andere verdragsluitende partijen kunnen optreden belangrijk overtreffen.   
@@ -1519,13 +1486,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) die een uitwerking hebben welke gelijkwaardig is aan beperkende deviezenbepalingen toegestaan krachtens sectie 3 (b) van artikel VII van de Overeenkomst betreffende het Internationale Monetaire Fonds, of  
 
-(b) krachtens de preferentiële regelingen bedoeld in Bijlage A van deze Overeenkomst, in afwachting van het resultaat van de daarin genoemde onderhandelingen.     
+(b) krachtens de preferentiële regelingen bedoeld in Bijlage A van deze Overeenkomst, in afwachting van het resultaat van de daarin genoemde onderhandelingen.    
 
 ### Artikel  XV  
 
 ####Valutaregelingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De VERDRAGSLUITENDE PARTIJEN streven naar samenwerking met het Internationale Monetaire Fonds teneinde een gecoördineerd beleid te voeren ten aanzien van valuta-aangelegenheden behorende tot de competentie van het Fonds, alsmede ten aanzien van kwantitatieve beperkingen en andere handelsmaatregelen behorende tot de competentie van de VERDRAGSLUITENDE PARTIJEN.   
 2.  In alle gevallen waarin de VERDRAGSLUITENDE PARTIJEN problemen betreffende monetaire reserves, betalingsbalansen of deviezenregelingen krijgen te beoordelen of te behandelen plegen zij nauw overleg met het Internationale Monetaire Fonds. Bij zulk overleg aanvaarden de VEDRAGSLUITENDE PARTIJEN alle door het Fonds gegeven feitelijke uitspraken op statistisch en ander gebied ten aanzien van deviezen, monetaire reserves en betalingsbalansen, evenals de uitspraak van het Fonds of een door een Verdragsluitende partij genomen maatregel met betrekking tot valuta-aangelegenheden al dan niet in overeenstemming is met de Overeenkomst betreffende het Internationale Monetaire Fonds of met de bepalingen van een speciale valuta-overeenkomst tussen die verdragsluitende partij en de VERDRAGSLUITENDE PARTIJEN. De VERDRAGSLUITENDE PARTIJEN aanvaarden bij het nemen van een eindbeslissing in gevallen waarbij de in lid 2 (a) van artikel XII of in lid 9 van artikel XVIII genoemde criteria zijn betrokken, de uitspraak van het Fonds ten aanzien van hetgeen als een aanzienlijke daling, een zeer laag peil of een redelijke toeneming van de monetaire reserves der verdragsluitende partij wordt aangemerkt, zomede ten aanzien van de financiële aspecten van andere aangelegenheden waartoe het overleg zich in dergelijke gevallen uitstrekt.   
@@ -1543,13 +1510,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) het gebruik maken door een verdragsluitende partij van deviezenregelingen of -beperkingen overeenkomstig de Overeenkomst betreffende het Internationale Monetaire Fonds of de speciale valuta-overeenkomst door deze verdragsluitende partij met de VERDRAGSLUITENDE PARTIJEN gesloten; of  
 
-(b) het gebruik maken door een verdragsluitende partij van beperkingen van of regelingen inzake in- en uitvoer met als enig doel, naast hetgeen is toegestaan bij de artikelen XI, XII, XIII en XIV, de deviezenregelingen of -beperkingen doeltreffend te maken.     
+(b) het gebruik maken door een verdragsluitende partij van beperkingen van of regelingen inzake in- en uitvoer met als enig doel, naast hetgeen is toegestaan bij de artikelen XI, XII, XIII en XIV, de deviezenregelingen of -beperkingen doeltreffend te maken.    
 
 ### Artikel  XVI  
 
 ####Subsidies
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 ###SECTIE A
 
@@ -1563,13 +1530,13 @@ Wordt voorlopig toegepast per 01-01-1948
 2.  De verdragsluitende partijen erkennen, dat het verlenen van een subsidie op de uitvoer van een produkt door een verdragsluitende partij voor andere verdragsluitende partijen, zowel importerende als exporterende, schadelijke gevolgen kan hebben, hun normale handelsbelangen in te grote mate kan verstoren, zomede de verwezenlijking van de doelstellingen van deze Overeenkomst kan belemmeren.   
 3.  Dientengevolge moeten de verdragsluitende partijen trachten de verlening van subsidies op de uitvoer van basisprodukten te vermijden. Indien een verdragsluitende partij toch, rechtstreeks of middellijk, in welke vorm dan ook een subsidie verleent, welke ten doel heeft de uitvoer uit haar grondgebied van een basisprodukt te vergroten, mag deze subsidie niet zodanig worden toegepast, dat deze verdragsluitende partij meer dan een billijk aandeel in de werelduitvoerhandel van dat produkt verwerft, waarbij rekening wordt gehouden met het door de verdragsluitende partijen gedurende een vorige basisperiode verworven aandeel in die handel in dat produkt, zomede met alle speciale factoren welke de handel in het desbetreffende produkt hebben beïnvloed, dan wel kunnen beïnvloeden.   
 4.  Voorts verlenen de verdragsluitende partijen van 1 januari 1958 af, of zo spoedig mogelijk nadien, geen enkele subsidie meer, hetzij rechtstreeks hetzij middellijk, in welke vorm dan ook, op de uitvoer van een produkt, geen basisprodukt zijnde, welke subsidie tot gevolg heeft, dat het desbetreffende produkt wordt verkocht tegen een prijs die lager ligt dan de vergelijkbare prijs waartegen het overeenkomstige produkt aan kopers op de binnenlandse markt wordt aangeboden. Tot 31 december 1957 mag geen verdragsluitende partij de omvang van de door haar verleende subsidies verhogen tot boven die bestaande op 1 januari 1955, door het verlenen van nieuwe subsidies dan wel door verhoging van bestaande.   
-5.  De VERDRAGSLUITENDE PARTIJEN onderwerpen de werking van de bepalingen van dit artikel van tijd tot tijd aan een onderzoek teneinde in het licht van de opgedane ervaringen vast te stellen of zij op doelmatige wijze bijdragen tot de verwezenlijking van de doelstellingen van deze Overeenkomst en daadwerkelijk verhinderen dat subsidies worden verleend die ernstige schade toebrengen aan de handel of de belangen van de verdragsluitende partijen.   
+5.  De VERDRAGSLUITENDE PARTIJEN onderwerpen de werking van de bepalingen van dit artikel van tijd tot tijd aan een onderzoek teneinde in het licht van de opgedane ervaringen vast te stellen of zij op doelmatige wijze bijdragen tot de verwezenlijking van de doelstellingen van deze Overeenkomst en daadwerkelijk verhinderen dat subsidies worden verleend die ernstige schade toebrengen aan de handel of de belangen van de verdragsluitende partijen.  
 
 ### Artikel  XVII  
 
 ####Staatshandelsondernemingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  
 
@@ -1588,13 +1555,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) De VERDRAGSLUITENDE PARTIJEN kunnen, op verzoek van een verdragsluitende partij die redenen heeft aan te nemen dat haar belangen als gewaarborgd in deze Overeenkomst worden geschaad door de werking van een onderneming als bedoeld in lid 1 (a), de verdragsluitende partij die zulk een onderneming instelt, in stand houdt of erkent, uitnodigen inlichtingen te verschaffen omtrent de werking van bedoelde onderneming, voor zover zulks de uitvoering van de bepalingen van deze Overeenkomst betreft.  
 
-(d) De bepalingen van dit lid verplichten een verdragsluitende partij niet vertrouwelijke inlichtingen te verstrekken, waarvan de openbaarmaking de toepassing van de wet belemmert, met het algemeen belang in strijd is of schade toebrengt aan de rechtmatige handelsbelangen van particuliere ondernemingen.     
+(d) De bepalingen van dit lid verplichten een verdragsluitende partij niet vertrouwelijke inlichtingen te verstrekken, waarvan de openbaarmaking de toepassing van de wet belemmert, met het algemeen belang in strijd is of schade toebrengt aan de rechtmatige handelsbelangen van particuliere ondernemingen.    
 
 ### Artikel  XVIII  
 
 ####Hulp van regeringswege ten bate van de economische ontwikkeling
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen erkennen, dat de verwezenlijking van de doelstellingen van deze Overeenkomst zal worden bevorderd door de toenemende ontwikkeling van hun economie, in het bijzonder van die verdragsluitende partijen wier economie de bevolking slechts een lage levensstandaard kan bieden en in het beginstadium van ontwikkeling verkeert.   
 2.  De verdragsluitende partijen erkennen voorts, dat het voor genoemde verdragsluitende partijen noodzakelijk kan zijn – teneinde de economische ontwikkelingsprogramma's uit te voeren, welke zijn gericht op de verhoging van de algemene levensstandaard van hun bevolking – beschermende of andere maatregelen te nemen, die de invoer betreffen en dat deze maatregelen gerechtvaardigd zijn voor zover zij de verwezenlijking van de doelstellingen van deze Overeenkomst bevorderen. Zij zijn derhalve van oordeel, dat bovengenoemde verdragsluitende partijen aanvullende faciliteiten dienen te genieten die hen in staat stellen (a) voldoende soepelheid te betrachten bij het hanteren van de tarieven voor invoerrechten, opdat zij de tariefbescherming kunnen verlenen welke vereist is bij de oprichting van een bepaalde industrie, en (b) kwantitatieve beperkingen toe te passen voor betalingsbalansdoeleinden op een wijze die volledig rekening houdt met het voortdurende hoge peil van de vraag naar importen, welke naar alle waarschijnlijkheid door hun economische ontwikkelingsprogramma's zal worden veroorzaakt.   
@@ -1658,13 +1625,13 @@ Wordt voorlopig toegepast per 01-01-1948
 ###SECTIE D
 
 22.  Indien een verdragsluitende partij die onder de werkingssfeer van lid 4 (a) van dit artikel valt, in het belang van de ontwikkeling van haar economie een maatregel van het soort als omschreven in lid 13 van dit artikel wenst te nemen met betrekking tot de oprichting van een bepaalde industrie, mag zij een verzoek tot de VERDRAGSLUITENDE PARTIJEN richten tot goedkeuring van een dergelijke maatregel. De VERDRAGSLUITENDE PARTIJEN treden onverwijld met deze verdragsluitende partij in overleg en laten zich bij hun besluit leiden door de in lid 16 omschreven overwegingen. Indien de VERDRAGSLUITENDE PARTIJEN instemmen met de voorgenomen maatregel, ontheffen zij de betrokken verdragsluitende partij van haar verplichtingen krachtens de terzake dienende bepalingen van de andere artikelen van deze Overeenkomst, voor zover noodzakelijk om deze maatregel toe te passen. Indien de voorgestelde maatregel betrekking heeft op een produkt waarop een concessie is gegeven, opgenomen in de desbetreffende bij deze Overeenkomst behorende Lijst, is het bepaalde in lid 18 van toepassing.   
-23.  Iedere maatregel toegepast krachtens deze sectie dient in overeenstemming te zijn met het bepaalde in lid 20 van dit artikel.   
+23.  Iedere maatregel toegepast krachtens deze sectie dient in overeenstemming te zijn met het bepaalde in lid 20 van dit artikel.  
 
 ### Artikel  XIX  
 
 ####Noodmaatregelen inzake de invoer van bepaalde produkten
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  
 
@@ -1676,13 +1643,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (a) Indien er tussen de belanghebbende verdragsluitende partijen geen overeenstemming wordt bereikt over de voorgestelde maatregelen, staat het de verdragsluitende partij die deze wenst te nemen of te blijven toepassen, niettemin vrij zulks te doen. In dat geval zal het de benadeelde verdagsluitende partijen vrijstaan, uiterlijk negentig dagen nadat de maatregelen zijn genomen en na het verstrijken van dertig dagen nadat bedoelde verdragsluitende partijen schriftelijk aan de VERDRAGSLUITENDE PARTIJEN van hun voornemen tot opschorting hebben kennis gegeven, de toepassing van bij deze Overeenkomst verleende concessies of andere aangegane verplichtingen van ongeveer gelijke waarde, op te schorten, en wel ten aanzien van de handel van de verdragsluitende partij die de maatregelen heeft genomen ofwel, in het geval bedoeld in lid 1 (b) van dit artikel, ten aanzien van de handel van de verdragsluitende partij die om de maatregel verzocht, een en ander mits de VERDRAGSLUITENDE PARTIJEN tegen deze opschorting geen bezwaar maken.  
 
-(b) Onverminderd het bepaalde sub (a) van dit lid, staat het in gevallen waarin zonder voorafgaand overleg maatregelen krachtens lid 2 van dit artikel worden genomen, die op het grondgebied van een verdragsluitende partij ernstig nadeel berokkenen of dreigen te berokkenen aan de binnenlandse producenten wier produkten door deze maatregelen worden getroffen, deze verdragsluitende partij vrij, indien uitstel moeilijk te herstellen schade zou veroorzaken, terstond bij de inwerkingstelling van de maatregelen en tijdens de gehele duur van het overleg concessies of andere verplichtingen op te schorten, voor zover zulks nodig is om het nadeel te voorkomen of te verhelpen.     
+(b) Onverminderd het bepaalde sub (a) van dit lid, staat het in gevallen waarin zonder voorafgaand overleg maatregelen krachtens lid 2 van dit artikel worden genomen, die op het grondgebied van een verdragsluitende partij ernstig nadeel berokkenen of dreigen te berokkenen aan de binnenlandse producenten wier produkten door deze maatregelen worden getroffen, deze verdragsluitende partij vrij, indien uitstel moeilijk te herstellen schade zou veroorzaken, terstond bij de inwerkingstelling van de maatregelen en tijdens de gehele duur van het overleg concessies of andere verplichtingen op te schorten, voor zover zulks nodig is om het nadeel te voorkomen of te verhelpen.    
 
 ### Artikel  XX  
 
 ####Algemene uitzonderingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toegepast, dat zij een middel vormen hetzij tot willekeurige of ongerechtvaardigde discriminatie tussen landen waar dezelfde omstandigheden heersen, hetzij tot een verkapte beperking van de internationale handel, wordt niets in deze Overeenkomst uitgelegd als een beletsel voor het nemen of toepassen door enige verdragsluitende partij van maatregelen: 
 
@@ -1704,13 +1671,13 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 (i) welke uitvoerbeperkingen inhouden van binnenlandse grondstoffen teneinde de noodzakelijke hoeveelheid hiervan te reserveren voor een binnenlandse verwerkende industrie in tijden dat de binnenlandse prijs van deze grondstoffen beneden de wereldprijs wordt gehouden ter uitvoering van een van regeringswege opgesteld stabilisatieplan, mits echter zulke beperkingen niet leiden tot vergroting van de uitvoer of de bescherming van zulk een binnenlandse industrie en niet strijdig zijn met de bepalingen van deze Overeenkomst betreffende non-discriminatie;  
 
-(j) onontbeerlijk tot het verkrijgen of distribueren van produkten waarvan een algemeen of plaatselijk tekort bestaat; nochtans dienen zulke maatregelen in overeenstemming te zijn met het beginsel, dat alle verdragsluitende partijen recht hebben op een billijk aandeel in de internationale voorziening in deze produkten, en dienen de maatregelen welke niet in overeenstemming zijn met de andere bepalingen van deze Overeenkomst ongedaan te worden gemaakt, zodra de omstandigheden welke hen in het leven hebben geroepen hebben opgehouden te bestaan. De VERDRAGSLUITENDE PARTIJEN bestuderen uiterlijk 30 juni 1960 de vraag of een verdere handhaving van het gedeelte sub (j) van dit lid noodzakelijk is.    
+(j) onontbeerlijk tot het verkrijgen of distribueren van produkten waarvan een algemeen of plaatselijk tekort bestaat; nochtans dienen zulke maatregelen in overeenstemming te zijn met het beginsel, dat alle verdragsluitende partijen recht hebben op een billijk aandeel in de internationale voorziening in deze produkten, en dienen de maatregelen welke niet in overeenstemming zijn met de andere bepalingen van deze Overeenkomst ongedaan te worden gemaakt, zodra de omstandigheden welke hen in het leven hebben geroepen hebben opgehouden te bestaan. De VERDRAGSLUITENDE PARTIJEN bestuderen uiterlijk 30 juni 1960 de vraag of een verdere handhaving van het gedeelte sub (j) van dit lid noodzakelijk is.   
 
 ### Artikel  XXI  
 
 ####Uitzonderingen met betrekking tot de staatsveiligheid
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij: 
 
@@ -1724,34 +1691,34 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 (iii) worden toegepast in tijd van oorlog of van gevaarlijke internationale spanningen;    
 
-(c) een verdragsluitende partij belet maatregelen te nemen tot handhaving van de internationale vrede en veiligheid ingevolge haar verplichtingen krachtens het Handvest van de Verenigde Naties.    
+(c) een verdragsluitende partij belet maatregelen te nemen tot handhaving van de internationale vrede en veiligheid ingevolge haar verplichtingen krachtens het Handvest van de Verenigde Naties.   
 
 ### Artikel  XXII  
 
 ####Overleg
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Elke verdragsluitende partij neemt de door een andere verdragsluitende partij eventueel te berde gebrachte bezwaren betreffende enige zaak welke de uitvoering van deze Overeenkomst raakt in welwillende overweging en dient voldoende gelegenheid te bieden tot overleg.   
-2.  De VERDRAGSLUITENDE PARTIJEN kunnen op verzoek van een verdragsluitende partij in overleg treden met een of meer verdragsluitende partijen betreffende enigerlei kwestie waarvoor een bevredigende oplossing door middel van het overleg bedoeld in lid 1 niet kon worden gevonden.   
+2.  De VERDRAGSLUITENDE PARTIJEN kunnen op verzoek van een verdragsluitende partij in overleg treden met een of meer verdragsluitende partijen betreffende enigerlei kwestie waarvoor een bevredigende oplossing door middel van het overleg bedoeld in lid 1 niet kon worden gevonden.  
 
 ### Artikel  XXIII  
 
 ####Bescherming van concessies en voordelen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Indien een verdragsluitende partij meent, dat enig voordeel hetwelk voor haar rechtstreeks of middellijk uit deze Overeenkomst voortvloeit wordt teniet gedaan of uitgehold of dat het bereiken van een in deze Overeenkomst gesteld doel wordt verhinderd doordat (a) een andere verdragsluitende partij in gebreke blijft haar verplichtingen krachtens deze Overeenkomst na te komen of (b) een andere verdragsluitende partij, al dan niet in strijd met de bepalingen van deze Overeenkomst, een maatregel toepast of (c) enige andere omstandigheid aanwezig is, mag die verdragsluitende partij, teneinde tot een bevredigende regeling van de zaak te komen, schriftelijk bezwaren of voorstellen indienen bij de andere verdragsluitende partij of partijen welke naar haar mening hierbij betrokken zijn. Elke verdragsluitende partij tot wie dergelijke bezwaren of voorstellen worden gericht, dient hieraan welwillende aandacht te schenken.   
-2.  Indien de betrokken verdragsluitende partijen niet binnen redelijke tijd tot een vergelijk komen of indien de moeilijkheid van de in lid 1 (c) bedoelde aard is, kan de zaak worden verwezen naar de VERDRAGSLUITENDE PARTIJEN. Deze nemen een aldus naar hen verwezen zaak terstond in onderzoek en doen aan de verdragsluitende partijen die zij erbij betrokken achten passende aanbevelingen of doen een uitspraak terzake. De VERDRAGSLUITENDE PARTIJEN kunnen, indien zij zulks nodig achten, de verdragsluitende partijen, de Economische en Sociale Raad van de Verenigde Naties en iedere daartoe geschikte intergouvernementele organisatie raadplegen. De VERDRAGSLUITENDE PARTIJEN mogen, indien zij de omstandigheden daartoe ernstig genoeg achten, een of meer verdragsluitende partijen machtigen ten opzichte van een of meer verdragsluitende partijen zodanige uit deze Overeenkomst voortvloeiende concessies of andere verplichtingen op te schorten als zij onder de gegeven omstandigheden gerechtvaardigd achten. Indien de toepassing van een concessie of de nakoming van een andere verplichting ten opzichte van een verdragsluitende partij inderdaad is opgeschort, heeft genoemde verdragsluitende partij het recht, uiterlijk zestig dagen nadat zulk een maatregel is genomen, de Uitvoerend Secretaris van de VERDRAGSLUITENDE PARTIJEN schriftelijk in kennis te stellen van haar voornemen deze Overeenkomst op te zeggen. Deze opzegging wordt van kracht op de zestigste dag na die waarop de schriftelijke kennisgeving door de Uitvoerend Secretaris is ontvangen.   
+2.  Indien de betrokken verdragsluitende partijen niet binnen redelijke tijd tot een vergelijk komen of indien de moeilijkheid van de in lid 1 (c) bedoelde aard is, kan de zaak worden verwezen naar de VERDRAGSLUITENDE PARTIJEN. Deze nemen een aldus naar hen verwezen zaak terstond in onderzoek en doen aan de verdragsluitende partijen die zij erbij betrokken achten passende aanbevelingen of doen een uitspraak terzake. De VERDRAGSLUITENDE PARTIJEN kunnen, indien zij zulks nodig achten, de verdragsluitende partijen, de Economische en Sociale Raad van de Verenigde Naties en iedere daartoe geschikte intergouvernementele organisatie raadplegen. De VERDRAGSLUITENDE PARTIJEN mogen, indien zij de omstandigheden daartoe ernstig genoeg achten, een of meer verdragsluitende partijen machtigen ten opzichte van een of meer verdragsluitende partijen zodanige uit deze Overeenkomst voortvloeiende concessies of andere verplichtingen op te schorten als zij onder de gegeven omstandigheden gerechtvaardigd achten. Indien de toepassing van een concessie of de nakoming van een andere verplichting ten opzichte van een verdragsluitende partij inderdaad is opgeschort, heeft genoemde verdragsluitende partij het recht, uiterlijk zestig dagen nadat zulk een maatregel is genomen, de Uitvoerend Secretaris van de VERDRAGSLUITENDE PARTIJEN schriftelijk in kennis te stellen van haar voornemen deze Overeenkomst op te zeggen. Deze opzegging wordt van kracht op de zestigste dag na die waarop de schriftelijke kennisgeving door de Uitvoerend Secretaris is ontvangen.  
 
-### DEEL  III   
-Wordt voorlopig toegepast per 01-01-1948   
+### DEEL   III  
+Wordt voorlopig toegepast per 01-01-1948 
 
 ### Artikel  XXIV  
 
-####Territoriale toepassing – grensverkeer – douane-unies en vrijhandelsgebieden
+#### Territoriale toepassing – grensverkeer – douane-unies en vrijhandelsgebieden
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De bepalingen van deze Overeenkomst zijn van toepassing op het douanegebied van het moederland der verdragsluitende partijen en op ieder ander douanegebied ten aanzien waarvan deze Overeenkomst ingevolge artikel XXVI is aanvaard of krachtens artikel XXXIII of overeenkomstig het Protocol van voorlopige toepassing wordt toegepast. Elk van deze douanegebieden wordt uitsluitend voor de territoriale toepassing van deze Overeenkomst als verdragsluitende partij beschouwd, met dien verstande echter dat de bepalingen van dit lid niet worden uitgelegd als scheppende rechten of verplichtingen tussen twee of meer douanegebieden ten aanzien waarvan deze Overeenkomst door een enkele verdragsluitende partij ingevolge artikel XXVI is aanvaard of krachtens artikel XXXIII of overeenkomstig het Protocol van voorlopige toepassing wordt toegepast.   
 2.  Voor de toepassing van deze Overeenkomst wordt onder douanegebied verstaan ieder gebied waarvoor afzonderlijk douanetarieven of andere handelsregelingen gelden ten aanzien van een aanmerkelijk deel van de handel van dat gebied met andere gebieden.   
@@ -1788,13 +1755,13 @@ Wordt voorlopig toegepast per 01-01-1948
 9.  De instelling van een douane-unie of een vrijhandelsgebied oefent geen invloed uit op de preferenties bedoeld in lid 2 van artikel I; deze mogen echter worden afgeschaft of aangepast door middel van onderhandelingen met de betrokken verdragsluitende partijen. Deze onderhandelingsprocedure met de betrokken verdragsluitende partijen is in het bijzonder van toepassing op de afschaffing van preferenties nodig om te voldoen aan de bepalingen van lid 8 (a) (i) en lid 8 (b).   
 10.  De VERDRAGSLUITENDE PARTIJEN kunnen met een meerderheid van twee derde voorstellen goedkeuren die niet geheel voldoen aan de vereisten van de leden 5 tot en met 9, op voorwaarde dat deze voorstellen leiden tot de instelling van een douane-unie of een vrijhandelsgebied in de zin van dit artikel.   
 11.  Rekening houdende met de buitengewone omstandigheden die voortvloeien uit het feit dat India en Pakistan onafhankelijke Staten zijn geworden, en het feit erkennende dat zij reeds lange tijd een economische eenheid hebben gevormd, komen de verdragsluitende partijen overeen, dat de bepalingen van deze Overeenkomst de beide landen niet beletten bijzondere overeenkomsten aan te gaan ten aanzien van hun wederzijdse handel, zulks in afwachting van het definitief vaststellen van hun wederzijdse handelsbetrekkingen.   
-12.  Elke verdragsluitende partij neemt alle redelijke binnen haar bereik liggende maatregelen teneinde de naleving van de bepalingen van deze Overeenkomst door de gewestelijke en plaatselijke besturen en autoriteiten binnen haar gebied te verzekeren.   
+12.  Elke verdragsluitende partij neemt alle redelijke binnen haar bereik liggende maatregelen teneinde de naleving van de bepalingen van deze Overeenkomst door de gewestelijke en plaatselijke besturen en autoriteiten binnen haar gebied te verzekeren.  
 
 ### Artikel  XXV  
 
 ####Gezamenlijk optreden van de verdragsluitende partijen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Er worden periodiek vergaderingen van vertegenwoordigers van de verdragsluitende partijen gehouden teneinde de uitvoering van die bepalingen van deze Overeenkomst welke een gezamenlijk optreden vereisen, te verzekeren en in het algemeen de toepassing van deze Overeenkomst te vergemakkelijken en de verwezenlijking van haar doeleinden te bevorderen. Overal waar in deze Overeenkomst sprake is van de gezamenlijk optredende verdragsluitende partijen worden deze aangeduid als de VERDRAGSLUITENDE PARTIJEN.   
 2.  De Secretaris-Generaal van de Verenigde Naties wordt verzocht de eerste vergadering van de VERDRAGSLUITENDE PARTIJEN uiterlijk tegen 1 maart 1948 bijeen te roepen.   
@@ -1804,13 +1771,13 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (i) bepaalde categorieën buitengewone omstandigheden vaststellen, waarbij andere voorwaarden van stemming zullen gelden, om een verdragsluitende partij van haar verplichtingen te ontheffen en  
 
-(ii) de maatstaven voorschrijven welke voor de toepassing van dit lid nodig kunnen zijn.     
+(ii) de maatstaven voorschrijven welke voor de toepassing van dit lid nodig kunnen zijn.    
 
 ### Artikel  XXVI  
 
 ####Aanvaarding, inwerkingtreding en registratie
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De datum van deze Overeenkomst is 30 oktober 1947.   
 2.  Deze Overeenkomst staat open voor aanvaarding door iedere verdragsluitende partij die op 1 maart 1955 verdragsluitende partij was of in onderhandeling was teneinde tot deze Overeenkomst toe te treden.   
@@ -1824,21 +1791,21 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) Wanneer een der douanegebieden waarvoor een verdragsluitende partij deze Overeenkomst heeft aanvaard volledige autonomie bezit of verkrijgt ten aanzien van zijn buitenlandse handelsbetrekkingen en van de andere bij deze Overeenkomst geregelde aangelegenheden, wordt zulk een gebied, op voordracht van de verantwoordelijke verdragsluitende partij die in een verklaring het bovengenoemde feit vaststelt, geacht een verdragsluitende partij te zijn.     
 6.  De onderhavige Overeenkomst treedt tussen de regeringen die haar hebben aanvaard in werking op de dertigste dag na de datum waarop de akten van aanvaarding bij de Uitvoerend Secretaris van de VERDRAGSLUITENDE PARTIJEN zijn nedergelegd namens die regeringen genoemd in Bijlage H welker gebieden 85 ten honderd vertegenwoordigen van de totale buitenlandse handel van de gebieden van de in die Bijlage genoemde regeringen, berekend volgens de desbetreffende daarin vervatte kolom met percentages. De akte van aanvaarding van elk der overige regeringen heeft rechtsgevolg op de dertigste dag na de datum waarop genoemde akte is nedergelegd.   
-7.  De Verenigde Naties zijn gemachtigd deze Overeenkomst te registreren zodra zij in werking treedt.   
+7.  De Verenigde Naties zijn gemachtigd deze Overeenkomst te registreren zodra zij in werking treedt.  
 
 ### Artikel  XXVII  
 
 ####Opschorting of intrekking van concessies
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke is vermeld in de desbetreffende bij deze Overeenkomst gevoegde Lijst geheel of ten dele op te schorten of in te trekken, op grond van het feit dat een dergelijke concessie aanvankelijk werd overeengekomen met een regering die geen verdragsluitende partij is geworden of is opgehouden zulks te zijn. De verdragsluitende partij die zulk een maatregel neemt, is gehouden de VERDRAGSLUITENDE PARTIJEN daarvan in kennis te stellen en treedt, op daartoe gedaan verzoek, met verdragsluitende partijen die een aanmerkelijk belang bij het desbetreffende produkt hebben in overleg.  
+Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke is vermeld in de desbetreffende bij deze Overeenkomst gevoegde Lijst geheel of ten dele op te schorten of in te trekken, op grond van het feit dat een dergelijke concessie aanvankelijk werd overeengekomen met een regering die geen verdragsluitende partij is geworden of is opgehouden zulks te zijn. De verdragsluitende partij die zulk een maatregel neemt, is gehouden de VERDRAGSLUITENDE PARTIJEN daarvan in kennis te stellen en treedt, op daartoe gedaan verzoek, met verdragsluitende partijen die een aanmerkelijk belang bij het desbetreffende produkt hebben in overleg. 
 
 ### Artikel  XXVIII  
 
 ####Wijziging van de Lijsten
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Vanaf de eerste dag van ieder tijdvak van drie jaar, waarbij het eerste tijdvak aanvangt op 1 januari 1958, (of vanaf de eerste dag van ieder ander tijdvak dat de VERDRAGSLUITENDE PARTIJEN met twee derde der uitgebrachte stemmen vaststellen), mag een verdragsluitende partij (hierna in dit artikel te noemen „verzoekende verdragsluitende partij”) een concessie voorkomende in de desbetreffende bij deze Overeenkomst gevoegde Lijst wijzigen of intrekken, nadat zij in onderhandeling is getreden en overeenstemming heeft bereikt met de verdragsluitende partij met wie een dergelijke concessie aanvankelijk werd overeengekomen, zomede met iedere andere verdragsluitende partij die naar het oordeel van de VERDRAGSLUITENDE PARTIJEN de voornaamste leverancier is (deze twee categorieën verdragsluitende partijen worden, evenals de verzoekende verdragsluitende partij, hierna in dit artikel de „voornaamste belanghebbende verdragsluitende partijen” genoemd), en onder voorbehoud van overleg met iedere andere verdragsluitende partij die naar het oordeel van de VERDRAGSLUITENDE PARTIJEN een aanmerkelijk belang bij een dergelijke concessie heeft.   
 2.  Bij dergelijke onderhandelingen en bij een dergelijke overeenstemming, welke laatste compensaties betreffende andere produkten kan bevatten, dienen de betrokken verdragsluitende partijen te trachten de overeengekomen wederkerige en wederzijds voordelige concessies te handhaven op een peil dat voor de handel niet minder gunstig is dan hetgeen was voorzien in deze Overeenkomst voordat bovengenoemde onderhandelingen werden gehouden.   
@@ -1856,13 +1823,13 @@ Wordt voorlopig toegepast per 01-01-1948
 (c) Indien geen overeenstemming tussen de voornaamste belanghebbende partijen is bereikt binnen een termijn van zestig dagen nadat machtiging tot onderhandelen is gegeven, dan wel binnen een langere door de VERDRAGSLUITENDE PARTIJEN vastgestelde termijn, kan de verzoekende verdragsluitende partij de aangelegenheid verwijzen naar de VERDRAGSLUITENDE PARTIJEN.  
 
 (d) Indien een dergelijke aangelegenheid naar de VERDRAGSLUITENDE PARTIJEN is verwezen, dienen deze haar onverwijld te bestuderen en de voornaamste belanghebbende verdragsluitende partijen van hun bevindingen op de hoogte te brengen teneinde een vergelijk tot stand te brengen. Indien een vergelijk tot stand komt, is het bepaalde in lid 3 (b) toepasselijk als ware overeenstemming bereikt tussen de voornaamste belanghebbende verdragsluitende partijen. Indien geen vergelijk tot stand komt tussen de voornaamste belanghebbende partijen, heeft de verzoekende verdragsluitende partij het recht om de concessie te wijzigen of in te trekken, tenzij de VERDRAGSLUITENDE PARTIJEN beslissen, dat de verzoekende verdragsluitende partij niet al het mogelijke heeft gedaan om een bevredigende compensatie aan te bieden. Indien tot een dergelijke maatregel wordt overgegaan, heeft elke verdragsluitende partij met wie een dergelijke concessie aanvankelijk werd overeengekomen, elke verdragsluitende partij die overeenkomstig het bepaalde in lid 4 (a) wordt geacht voornaamste leverancier te zijn en elke verdragsluitende partij die overeenkomstig het bepaalde in lid 4 (a) wordt geacht een aanmerkelijk belang te hebben, het recht om uiterlijk zes maanden nadat de maatregel is genomen nagenoeg gelijkwaardige concessies welke aanvankelijk met de verzoekende verdragsluitende partij waren overeengekomen, te wijzigen of in te trekken, doch zulks niet eerder dan dertig dagen nadat schriftelijk bericht van de intrekking door de VERDRAGSLUITENDE PARTIJEN is ontvangen.     
-5.  Een verdragsluitende partij kan vóór 1 januari 1958 en vóór de afloop van elk tijdvak bedoeld in lid 1 zich door kennisgeving aan de VERDRAGSLUITENDE PARTIJEN het recht voorbehouden om gedurende de volgende periode de desbetreffende Lijst te wijzigen overeenkomstig de in de leden 1 tot 3 voorgeschreven procedures. Indien een verdragsluitende partij zich dit recht voorbehoudt, hebben andere verdragsluitende partijen het recht om gedurende hetzelfde tijdvak en volgens dezelfde procedures concessies te wijzigen of in te trekken welke aanvankelijk werden overeengekomen met die verdragsluitende partij.   
+5.  Een verdragsluitende partij kan vóór 1 januari 1958 en vóór de afloop van elk tijdvak bedoeld in lid 1 zich door kennisgeving aan de VERDRAGSLUITENDE PARTIJEN het recht voorbehouden om gedurende de volgende periode de desbetreffende Lijst te wijzigen overeenkomstig de in de leden 1 tot 3 voorgeschreven procedures. Indien een verdragsluitende partij zich dit recht voorbehoudt, hebben andere verdragsluitende partijen het recht om gedurende hetzelfde tijdvak en volgens dezelfde procedures concessies te wijzigen of in te trekken welke aanvankelijk werden overeengekomen met die verdragsluitende partij.  
 
 ### Artikel  XXVIIIbis  
 
 ####Tariefonderhandelingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen erkennen, dat invoerrechten dikwijls ernstige belemmeringen vormen voor de handel. Van groot belang voor de uitbreiding van de internationale handel zijn derhalve onderhandelingen op grondslag van wederkerigheid en wederzijds voordeel en gericht op aanmerkelijke verlaging van het algemene peil van de tarieven en van andere heffingen op in- en uitvoer en in het bijzonder op de verlaging van tarieven welke zo hoog zijn dat zij zelfs voor de invoer van minimale hoeveelheden een belemmering vormen, mits gevoerd met inachtneming van de doeleinden van deze Overeenkomst en de onderscheiden behoeften van de afzonderlijke verdragsluitende partijen. De VERDRAGSLUITENDE PARTIJEN kunnen daarom periodiek dergelijke onderhandelingen organiseren.   
 2.  
@@ -1876,77 +1843,77 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (b) de behoeften van minder-ontwikkelde landen aan een soepele tarifaire bescherming om hun economische ontwikkeling te bevorderen, alsmede de bijzondere behoeften van die landen om invoerrechten voor fiscale doeleinden in stand te houden; en  
 
-(c) alle andere terzake dienende omstandigheden, met inbegrip van fiscale, ontwikkelings-, strategische en andere behoeften van de desbetreffende verdragsluitende partijen.     
+(c) alle andere terzake dienende omstandigheden, met inbegrip van fiscale, ontwikkelings-, strategische en andere behoeften van de desbetreffende verdragsluitende partijen.    
 
 ### Artikel  XXIX  
 
 ####De verhouding van de onderhavige Overeenkomst tot het Handvest van Havana
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  De verdragsluitende partijen verplichten zich zover als hun uitvoerend gezag strekt de algemene beginselen van de Hoofdstukken I tot en met VI en van Hoofdstuk IX van het Handvest van Havana in acht te nemen, zulks in afwachting van hun aanvaarding van dit Handvest overeenkomstig hun grondwettelijke procedures.   
 2.  Deel II van deze Overeenkomst zal worden geschorst op de dag waarop het Handvest van Havana in werking treedt.   
 3.  Indien op 30 september 1949 het Handvest van Havana niet in werking is getreden, komen de verdragsluitende partijen vóór 31 december 1949 bijeen teneinde onderling te beslissen of deze Overeenkomst dient te worden gewijzigd, aangevuld of gehandhaafd.   
 4.  Indien op enigerlei tijdstip het Handvest van Havana mocht ophouden van kracht te zijn, zullen de VERDRAGSLUITENDE PARTIJEN zo spoedig mogelijk daarna bijeenkomen teneinde onderling te beslissen of deze Overeenkomst dient te worden gewijzigd, aangevuld of gehandhaafd. In afwachting van een dergelijke overeenstemming treedt Deel II van deze Overeenkomst wederom in werking, met dien verstande echter dat de bepalingen van Deel II, behalve artikel XXIII, mutatis mutandis, worden vervangen in de vorm waarin zij toen in het Handvest van Havana voorkwamen en dat voorts geen verdragsluitende partij is gebonden door enige bepaling welke haar niet bond op het tijdstip waarop het Handvest van Havana ophield van kracht te zijn.   
 5.  Wanneer een verdragsluitende partij het Handvest van Havana op de dag waarop het in werking treedt niet heeft aanvaard, komen de VERDRAGSLUITENDE PARTIJEN bijeen teneinde tot overeenstemming te geraken of, en zo ja op welke wijze, deze Overeenkomst dient te worden aangevuld of gewijzigd, voor zover zij de verhouding raakt tussen deze verdragsluitende partij en andere verdragsluitende partijen. In afwachting van een dergelijke overeenstemming blijven de bepalingen van Deel II van deze Overeenkomst, niettegenstaande het bepaalde in lid 2 van dit artikel, van toepassing tussen deze verdragsluitende partij en de andere verdragsluitende partijen.   
-6.  Verdragsluitende partijen die Lid van de Internationale Handelsorganisatie zijn beroepen zich niet op de bepalingen van deze Overeenkomst teneinde de werking van enige bepaling van het Handvest van Havana te verhinderen. De toepassing van het aan dit lid ten grondslag liggende beginsel op enige verdragsluitende partij die geen Lid van de Internationale Handelsorganisatie is, zal onderwerp uitmaken van een overeenkomst ingevolge lid 5 van dit artikel.   
+6.  Verdragsluitende partijen die Lid van de Internationale Handelsorganisatie zijn beroepen zich niet op de bepalingen van deze Overeenkomst teneinde de werking van enige bepaling van het Handvest van Havana te verhinderen. De toepassing van het aan dit lid ten grondslag liggende beginsel op enige verdragsluitende partij die geen Lid van de Internationale Handelsorganisatie is, zal onderwerp uitmaken van een overeenkomst ingevolge lid 5 van dit artikel.  
 
 ### Artikel  XXX  
 
 ####Wijzigingen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Voor zover niet elders in deze Overeenkomst voorzieningen inzake wijziging zijn getroffen, worden wijzigingen in de bepalingen van Deel I van deze Overeenkomst of in die van artikel XXIX of in die van dit artikel van kracht, zodra zij door alle verdragsluitende partijen zijn aanvaard, terwijl wijzigingen in andere bepalingen van deze Overeenkomst van kracht worden ten aanzien van die verdragsluitende partijen die ze aanvaarden, na aanvaarding door twee derde der verdragsluitende partijen en vervolgens ten aanzien van elke andere verdragsluitende partij, zodra deze de bedoelde wijzigingen aanvaardt.   
-2.  Elke verdragsluitende partij die een wijziging in deze Overeenkomst aanvaardt legt een akte van aanvaarding bij de Secretaris-Generaal der Verenigde Naties neder binnen een daartoe door de VERDRAGSLUITENDE PARTIJEN vast te stellen termijn. De VERDRAGSLUITENDE PARTIJEN kunnen bepalen dat een wijziging die ingevolge dit artikel van kracht wordt van zodanige aard is, dat een verdragsluitende partij die haar niet binnen een door de VERDRAGSLUITENDE PARTIJEN vastgestelde termijn heeft aanvaard, vrij zal zijn deze Overeenkomst op te zeggen of, met toestemming van de VERDRAGSLUITENDE PARTIJEN, verdragsluitende partij te blijven.   
+2.  Elke verdragsluitende partij die een wijziging in deze Overeenkomst aanvaardt legt een akte van aanvaarding bij de Secretaris-Generaal der Verenigde Naties neder binnen een daartoe door de VERDRAGSLUITENDE PARTIJEN vast te stellen termijn. De VERDRAGSLUITENDE PARTIJEN kunnen bepalen dat een wijziging die ingevolge dit artikel van kracht wordt van zodanige aard is, dat een verdragsluitende partij die haar niet binnen een door de VERDRAGSLUITENDE PARTIJEN vastgestelde termijn heeft aanvaard, vrij zal zijn deze Overeenkomst op te zeggen of, met toestemming van de VERDRAGSLUITENDE PARTIJEN, verdragsluitende partij te blijven.  
 
 ### Artikel  XXXI  
 
 ####Opzegging
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-Onverminderd het bepaalde in artikel XVIII, lid 12, in artikel XXIII of in artikel XXX, lid 2, mag elke verdragsluitende partij deze Overeenkomst opzeggen of zulks afzonderlijk doen namens een of meer der afzonderlijke douanegebieden waarvoor zij internationale verantwoordelijkheid draagt en die op dat ogenblik volledige autonomie bezitten ten aanzien van hun buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties daarvan schriftelijk in kennis is gesteld.  
+Onverminderd het bepaalde in artikel XVIII, lid 12, in artikel XXIII of in artikel XXX, lid 2, mag elke verdragsluitende partij deze Overeenkomst opzeggen of zulks afzonderlijk doen namens een of meer der afzonderlijke douanegebieden waarvoor zij internationale verantwoordelijkheid draagt en die op dat ogenblik volledige autonomie bezitten ten aanzien van hun buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties daarvan schriftelijk in kennis is gesteld. 
 
 ### Artikel  XXXII  
 
 ####Verdragsluitende partijen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Onder verdragsluitende partijen bij deze Overeenkomst worden verstaan de regeringen die de bepalingen van deze Overeenkomst toepassen krachtens artikel XXVI of artikel XXXIII of overeenkomstig het Protocol van voorlopige toepassing.   
-2.  Te allen tijde nadat deze Overeenkomst ingevolge lid 6 van artikel XXVI in werking is getreden, mogen de verdragsluitende partijen die deze Overeenkomst ingevolge lid 4 van artikel XXVI hebben aanvaard, bepalen dat een verdragsluitende partij die haar niet op deze wijze heeft aanvaard zal ophouden verdragsluitende partij te zijn.   
+2.  Te allen tijde nadat deze Overeenkomst ingevolge lid 6 van artikel XXVI in werking is getreden, mogen de verdragsluitende partijen die deze Overeenkomst ingevolge lid 4 van artikel XXVI hebben aanvaard, bepalen dat een verdragsluitende partij die haar niet op deze wijze heeft aanvaard zal ophouden verdragsluitende partij te zijn.  
 
 ### Artikel  XXXIII  
 
 ####Toetreding
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-Een regering die geen partij bij deze Overeenkomst is of een regering die handelt namens een afzonderlijk douanegebied dat volledige autonomie bezit ten aanzien van zijn buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden kan tot deze Overeenkomst toetreden, hetzij voor zichzelf, hetzij namens dat gebied, op tussen deze regering en de VERDRAGSLUITENDE PARTIJEN overeen te komen voorwaarden. De VERDRAGSLUITENDE PARTIJEN nemen de beslissingen ingevolge dit lid bij een meerderheid van twee derde.  
+Een regering die geen partij bij deze Overeenkomst is of een regering die handelt namens een afzonderlijk douanegebied dat volledige autonomie bezit ten aanzien van zijn buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden kan tot deze Overeenkomst toetreden, hetzij voor zichzelf, hetzij namens dat gebied, op tussen deze regering en de VERDRAGSLUITENDE PARTIJEN overeen te komen voorwaarden. De VERDRAGSLUITENDE PARTIJEN nemen de beslissingen ingevolge dit lid bij een meerderheid van twee derde. 
 
 ### Artikel  XXXIV  
 
 ####Bijlagen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-De Bijlagen bij deze Overeenkomst vormen een integrerend deel daarvan.  
+De Bijlagen bij deze Overeenkomst vormen een integrerend deel daarvan. 
 
 ### Artikel  XXXV  
 
 ####Niet-toepassing van de Overeenkomst tussen bepaalde verdragsluitende partijen
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 1.  Deze Overeenkomst of artikel II van deze Overeenkomst is niet van toepassing tussen een verdragsluitende partij en een andere verdragsluitende partij, indien: 
 
 (a) de beide verdragsluitende partijen geen tariefonderhandelingen met elkaar zijn begonnen en  
 
 (b) een van beiden, op het ogenblik dat een hunner verdragsluitende partij wordt, niet in deze toepassing toestemt.     
-2.  Op verzoek van een verdragsluitende partij kunnen de VERDRAGSLUITENDE PARTIJEN in bijzondere gevallen een onderzoek instellen naar de werking van dit artikel en passende aanbevelingen doen.   
+2.  Op verzoek van een verdragsluitende partij kunnen de VERDRAGSLUITENDE PARTIJEN in bijzondere gevallen een onderzoek instellen naar de werking van dit artikel en passende aanbevelingen doen.  
 
-### DEEL  IV  
+###DEEL  IV  
 
 ####Handel en ontwikkeling
 
@@ -1966,7 +1933,7 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (e) erkennende dat het internationale handelsverkeer als middel tot economische en sociale vooruitgang dient te worden beheerst door regels en procedures – en door met zulke regels en procedures in overeenstemming zijnde maatregelen – die verenigbaar zijn met de in dit artikel neergelegde doelstellingen;  
 
-(f) constaterende dat de VERDRAGSLUITENDE PARTIJEN de minder ontwikkelde verdragsluitende partijen in de gelegenheid kunnen stellen bijzondere maatregelen te nemen ter bevordering van hun handel en ontwikkeling;   zijn overeengekomen als volgt:   
+(f) constaterende dat de VERDRAGSLUITENDE PARTIJEN de minder ontwikkelde verdragsluitende partijen in de gelegenheid kunnen stellen bijzondere maatregelen te nemen ter bevordering van hun handel en ontwikkeling;   zijn overeengekomen als volgt:  
 2.  Het is noodzakelijk zorg te dragen voor een snelle en aanhoudende stijging van de inkomsten uit export van de minder ontwikkelde verdragsluitende partijen.   
 3.  Het is noodzakelijk krachtige pogingen in het werk te stellen die erop zijn gericht de minder ontwikkelde verdragsluitende partijen een deel te doen toevallen in de groei van de internationale handel, dat beantwoordt aan de behoeften van hun economische ontwikkeling.   
 4.  Aangezien vele minder ontwikkelde verdragsluitende partijen afhankelijk zullen blijven van de uitvoer van een beperkt aantal basisprodukten, is het noodzakelijk dat deze produkten in zo ruim mogelijke mate tegen gunstiger en aanvaardbare voorwaarden toegang krijgen tot de wereldmarkten; zonodig dienen maatregelen te worden getroffen, die erop zijn gericht de wereldmarkten voor deze produkten te stabiliseren en te verbeteren, en met name de prijzen te stabiliseren op een redelijk en lonend peil, dat een toeneming van de wereldhandel en van de vraag, alsmede een dynamische: en gestadige groei van de reële inkomsten uit export van deze landen mogelijk maakt, teneinde hun aldus steeds ruimere middelen voor hun economische ontwikkeling te verschaffen.   
@@ -1974,7 +1941,7 @@ Wordt voorlopig toegepast per 01-01-1948
 6.  Wegens het chronische tekort aan inkomsten uit export en aan andere deviezeninkomsten van de minder ontwikkelde verdragsluitende partijen, bestaat er een nauw verband tussen de handel en de financiële hulp bij de ontwikkeling. Het is derhalve noodzakelijk dat de VERDRAGSLUITENDE PARTIJEN en de internationale financieringsinstellingen ten nauwste blijven samenwerken, opdat zij op de meest doeltreffende wijze zullen kunnen bijdragen tot het verlichten van de taken die de minder ontwikkelde verdragsluitende partijen op zich nemen in het belang van hun economische ontwikkeling.   
 7.  Het is noodzakelijk dat de VERDRAGSLUITENDE PARTIJEN, andere intergouvernementele lichamen, alsmede de organen en organisaties van de Verenigde Naties, welker werkzaamheden liggen op het terrein van de handel en de economische ontwikkeling van de minder ontwikkelde landen, op doeltreffende wijze samenwerken.   
 8.  De ontwikkelde verdragsluitende partijen verwachten voor de door hen bij de handelsbesprekingen aanvaarde verplichtingen om de douanerechten en andere handelsbelemmeringen te verminderen of af te schaffen, geen wederkerige behandeling van de minder ontwikkelde verdragsluitende partijen.   
-9.  De aanvaarding van maatregelen tot uitvoering van deze beginselen en doelstellingen dient door de verdragsluitende partijen, zowel individueel als gezamenlijk, doelbewust en vastbesloten te worden nagestreefd.   
+9.  De aanvaarding van maatregelen tot uitvoering van deze beginselen en doelstellingen dient door de verdragsluitende partijen, zowel individueel als gezamenlijk, doelbewust en vastbesloten te worden nagestreefd.  
 
 ### Artikel  XXXVII  
 
@@ -1988,20 +1955,20 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) 
 
-(i) zij onthouden zich van het opleggen van nieuwe fiscale maatregelen, en  
+(i)zij onthouden zich van het opleggen van nieuwe fiscale maatregelen, en
 
-(ii) zij kennen bij de aanpassing van hun fiscaal beleid hoge prioriteit toe aan de verzachting en afschaffing van de bestaande fiscale maatregelen die in hoge mate belemmerend werken of zouden kunnen werken op de toeneming van het verbruik van basisprodukten, zowel in onverwerkte als in verwerkte staat, die geheel of grotendeels voortgebracht zijn op het grondgebied van de minder ontwikkelde verdragsluitende partijen, indien zij speciaal op deze produkten worden toegepast.       
-2.  
+(ii) zij kennen bij de aanpassing van hun fiscaal beleid hoge prioriteit toe aan de verzachting en afschaffing van de bestaande fiscale maatregelen die in hoge mate belemmerend werken of zouden kunnen werken op de toeneming van het verbruik van basisprodukten, zowel in onverwerkte als in verwerkte staat, die geheel of grotendeels voortgebracht zijn op het grondgebied van de minder ontwikkelde verdragsluitende partijen, indien zij speciaal op deze produkten worden toegepast.      
+2. 
 
-(a) In alle gevallen waarin men van oordeel is dat geen uitvoering wordt gegeven aan het gestelde onder (a), (b) of (c) van lid 1, dient dit aan de VERDRAGSLUITENDE PARTIJEN gemeld te worden, hetzij door de verdragsluitende partij die aan de betreffende bepalingen geen uitvoering geeft, hetzij door een andere belanghebbende verdragsluitende partij.  
+(a)In alle gevallen waarin men van oordeel is dat geen uitvoering wordt gegeven aan het gestelde onder (a), (b) of (c) van lid 1, dient dit aan de VERDRAGSLUITENDE PARTIJEN gemeld te worden, hetzij door de verdragsluitende partij die aan de betreffende bepalingen geen uitvoering geeft, hetzij door een andere belanghebbende verdragsluitende partij.
 
 (b) 
 
-(i) De VERDRAGSLUITENDE PARTIJEN dienen op verzoek van een belanghebbende verdragsluitende partij, ongeacht eventueel bilateraal overleg dienaangaande, met de betrokken verdragsluitende partij en alle belanghebbende verdragsluitende partijen over de betreffende aangelegenheid overleg te plegen met het oogmerk tot een oplossing te geraken, waarmede alle verdragsluitende partijen zich kunnen verenigen teneinde zodoende bij te dragen tot de verwezenlijking van de in artikel XXXVI neergelegde doelstellingen. Bij dit overleg worden de redenen bestudeerd, die in de gevallen waarin geen uitvoering werd gegeven aan het gestelde onder (a), (b) of (c) van lid 1, daarvoor zijn aangevoerd.  
+(i)De VERDRAGSLUITENDE PARTIJEN dienen op verzoek van een belanghebbende verdragsluitende partij, ongeacht eventueel bilateraal overleg dienaangaande, met de betrokken verdragsluitende partij en alle belanghebbende verdragsluitende partijen over de betreffende aangelegenheid overleg te plegen met het oogmerk tot een oplossing te geraken, waarmede alle verdragsluitende partijen zich kunnen verenigen teneinde zodoende bij te dragen tot de verwezenlijking van de in artikel XXXVI neergelegde doelstellingen. Bij dit overleg worden de redenen bestudeerd, die in de gevallen waarin geen uitvoering werd gegeven aan het gestelde onder (a), (b) of (c) van lid 1, daarvoor zijn aangevoerd.
 
 (ii) Aangezien de uitvoering van het gestelde onder (a), (b) of (c) van lid 1 door de verdragsluitende partijen afzonderlijk in sommige gevallen gemakkelijker kan worden verwezenlijkt in het kader van een gezamenlijk optreden met andere ontwikkelde verdragsluitende partijen, kan het overleg in daarvoor in aanmerking komende gevallen op dit doel worden gericht.  
 
-(iii) In daarvoor in aanmerking komende gevallen kan het overleg der VERDRAGSLUITENDE PARTIJEN ook zijn gericht op het bereiken van overeenstemming inzake gezamenlijk optreden ter verwezenlijking van de doel stellingen van deze Overeenkomst als beoogd in lid 1 van artikel XXV.       
+(iii) In daarvoor in aanmerking komende gevallen kan het overleg der VERDRAGSLUITENDE PARTIJEN ook zijn gericht op het bereiken van overeenstemming inzake gezamenlijk optreden ter verwezenlijking van de doel stellingen van deze Overeenkomst als beoogd in lid 1 van artikel XXV.    
 3.  De ontwikkelde verdragsluitende partijen dienen: 
 
 (a) in gevallen waarin een regering direct of indirect de verkoopprijzen vaststelt van produkten die geheel of grotendeels worden geproduceerd op het grondgebied van minder ontwikkelde verdragsluitende partijen, alles in het werk te stellen teneinde de handelsmarges op een redelijk peil te handhaven;  
@@ -2010,7 +1977,7 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (c) bijzondere aandacht te schenken aan de commerciële belangen van de minder ontwikkelde verdragsluitende partijen bij het overwegen van de toepassing van andere maatregelen die ingevolge deze Overeenkomst zijn toegestaan voor de oplossing van bijzondere vraagstukken en alle mogelijkheden voor constructieve bijdragen na te gaan, alvorens dergelijke maatregelen toe te passen, indien deze afbreuk zouden doen aan de essentiële belangen van die verdragsluitende partijen.     
 4.  De minder ontwikkelde verdragsluitende partijen komen overeen doeltreffende maatregelen te nemen voor de uitvoering van de bepalingen van Deel IV in het belang van de handel van andere minder ontwikkelde verdragsluitende partijen, voor zover dit verenigbaar is met de huidige en toekomstige behoeften van hun ontwikkeling, financiën en handelsverkeer, daarbij rekening houdende met de vroegere ontwikkeling van het handelsverkeer, alsook met de commerciële belangen van de minder ontwikkelde verdragsluitende partijen als geheel.   
-5.  Bij de uitvoering van de in de leden 1 tot en met 4 vervatte verplichtingen verleent iedere verdragsluitende partij iedere andere belanghebbende verdragsluitende partij of alle andere belanghebbende verdragsluitende partijen alle faciliteiten om overeenkomstig de gebruikelijke procedures van deze Overeenkomst overleg te plegen over elke zich voordoende kwestie of moeilijkheid.   
+5.  Bij de uitvoering van de in de leden 1 tot en met 4 vervatte verplichtingen verleent iedere verdragsluitende partij iedere andere belanghebbende verdragsluitende partij of alle andere belanghebbende verdragsluitende partijen alle faciliteiten om overeenkomstig de gebruikelijke procedures van deze Overeenkomst overleg te plegen over elke zich voordoende kwestie of moeilijkheid.  
 
 ### Artikel  XXXVIII  
 
@@ -2029,37 +1996,37 @@ Wordt voorlopig toegepast per 01-01-1948
 
 (e) samen te werken bij het zoeken naar bruikbare methoden tot uitbreiding van het handelsverkeer ten behoeve van de economische ontwikkeling, door het nationale beleid en de nationale wettelijke bepalingen op internationaal niveau te harmoniseren en aan te passen, door toepassing van technische en commerciële normen betreffende de produktie, het vervoer en de afzet, alsmede door het bevorderen van de export door het nemen van maatregelen voor intensievere voorlichting op commercieel terrein en voor de uitbreiding van het marktonderzoek; en  
 
-(f) de voor de bevordering van de in artikel XXXVI neergelegde doelstellingen en voor de uitvoering van de bepalingen van dit Deel noodzakelijke institutionele maatregelen te treffen.     
+(f) de voor de bevordering van de in artikel XXXVI neergelegde doelstellingen en voor de uitvoering van de bepalingen van dit Deel noodzakelijke institutionele maatregelen te treffen.    
 
 ### Bijlage  A  
 
 ####Lijst van gebieden bedoeld in lid 2 (a) van artikel I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland Gebieden afhankelijk van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland Canada het Gemenebest van Australië Gebieden afhankelijk van het Gemenebest van Australië Nieuw-Zeeland Gebieden afhankelijk van Nieuw-Zeeland de Unie van Zuid-Afrika, met inbegrip van Zuid-West-Afrika Ierland India (op 10 april 1947) Newfoundland Zuid-Rhodesia Birma Ceylon In sommige der bovengenoemde gebieden zijn twee of meer preferentiële tarieven voor bepaalde produkten van kracht. Deze gebieden kunnen, met goedvinden van de andere verdragsluitende partijen die de voornaamste leveranciers van deze produkten zijn onder de landen die meestbegunstiging genieten, deze preferentiële tarieven vervangen door een enkel preferentieel tarief, dat over het geheel genomen niet minder gunstig zal zijn voor leveranciers die van de meestbegunstiging genieten dan de preferenties die vóór deze vervanging van kracht waren. Het instellen van een gelijkwaardige marge van tariefpreferentie ter vervanging van een preferentiële marge die ten aanzien van een binnenlandse belasting op 10 april 1947 uitsluitend tussen twee of meer van de in deze Bijlage vermelde gebieden bestond of ter vervanging van de preferentiële kwantitatieve regelingen omschreven in het volgende lid, wordt niet geacht een vergroting van de marge van tariefpreferentie te vormen. De preferentiële regelingen bedoeld in lid 5 (b) van artikel XIV zijn die welke in het Verenigd Koninkrijk op 10 april 1947 van kracht waren ingevolge overeenkomsten met de Regeringen van Canada, Australië en Nieuw-Zeeland met betrekking tot gekoeld of bevroren rund- en kalfsvlees, bevroren schape- en lamsvlees, gekoeld of bevroren varkensvlees en bacon. Het is de bedoeling dat deze regelingen, onverminderd de maatregelen genomen krachtens het bepaalde onder I (h) van artikel XX worden afgeschaft of vervangen door tariefpreferenties en dat onderhandelingen hiertoe zo spoedig mogelijk zullen plaatsvinden tussen de landen die in hoofdzaak bij deze produkten rechtstreeks of middellijk zijn betrokken. De belasting op de huur van films welke in Nieuw-Zeeland op 10 april 1947 van kracht was wordt voor de toepassing van deze Overeenkomst behandeld als een douanerecht bedoeld in artikel I. De contingentering die op 10 april 1947 in Nieuw-Zeeland aan de huurders van films was opgelegd wordt voor de toepassing van deze Overeenkomst behandeld als een projectie-tijdcontingent bedoeld in artikel IV. De dominions India en Pakistan zijn niet afzonderlijk in de bovenstaande lijst genoemd, aangezien zij nog niet als zodanig bestonden op de peildatum 10 april 1947.   
+het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland  Gebieden afhankelijk van het Verenigd Koninkrijk van Groot-Brittannië en Noord-IerlandCanada het Gemenebest van Australië Gebieden afhankelijk van het Gemenebest van Australië Nieuw-Zeeland Gebieden afhankelijk van Nieuw-Zeeland de Unie van Zuid-Afrika, met inbegrip van Zuid-West-Afrika Ierland India (op 10 april 1947) Newfoundland Zuid-Rhodesia Birma Ceylon In sommige der bovengenoemde gebieden zijn twee of meer preferentiële tarieven voor bepaalde produkten van kracht. Deze gebieden kunnen, met goedvinden van de andere verdragsluitende partijen die de voornaamste leveranciers van deze produkten zijn onder de landen die meestbegunstiging genieten, deze preferentiële tarieven vervangen door een enkel preferentieel tarief, dat over het geheel genomen niet minder gunstig zal zijn voor leveranciers die van de meestbegunstiging genieten dan de preferenties die vóór deze vervanging van kracht waren. Het instellen van een gelijkwaardige marge van tariefpreferentie ter vervanging van een preferentiële marge die ten aanzien van een binnenlandse belasting op 10 april 1947 uitsluitend tussen twee of meer van de in deze Bijlage vermelde gebieden bestond of ter vervanging van de preferentiële kwantitatieve regelingen omschreven in het volgende lid, wordt niet geacht een vergroting van de marge van tariefpreferentie te vormen. De preferentiële regelingen bedoeld in lid 5 (b) van artikel XIV zijn die welke in het Verenigd Koninkrijk op 10 april 1947 van kracht waren ingevolge overeenkomsten met de Regeringen van Canada, Australië en Nieuw-Zeeland met betrekking tot gekoeld of bevroren rund- en kalfsvlees, bevroren schape- en lamsvlees, gekoeld of bevroren varkensvlees en bacon. Het is de bedoeling dat deze regelingen, onverminderd de maatregelen genomen krachtens het bepaalde onder I (h) van artikel XX worden afgeschaft of vervangen door tariefpreferenties en dat onderhandelingen hiertoe zo spoedig mogelijk zullen plaatsvinden tussen de landen die in hoofdzaak bij deze produkten rechtstreeks of middellijk zijn betrokken. De belasting op de huur van films welke in Nieuw-Zeeland op 10 april 1947 van kracht was wordt voor de toepassing van deze Overeenkomst behandeld als een douanerecht bedoeld in artikel I. De contingentering die op 10 april 1947 in Nieuw-Zeeland aan de huurders van films was opgelegd wordt voor de toepassing van deze Overeenkomst behandeld als een projectie-tijdcontingent bedoeld in artikel IV. De dominions India en Pakistan zijn niet afzonderlijk in de bovenstaande lijst genoemd, aangezien zij nog niet als zodanig bestonden op de peildatum 10 april 1947.   
 
-### Bijlage  B  
+### Bijlage   B  
 
 ####Lijst van gebieden der Franse Unie bedoeld in lid 2 (b) van artikel I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
-Frankrijk Frans Equatoriaal-Afrika (Conventionele Kongo-bekken en andere gebieden) <sup> *)  Voor invoer in het Franse moederland en in de gebieden der Franse Unie.  </sup> Frans West-Afrika Kameroen onder Frans trustschap <sup> *)  Voor invoer in het Franse moederland en in de gebieden der Franse Unie.  </sup> de Franse Somalikust en onderhorigheden de Franse vestigingen in Oceanië de Franse vestigingen in het condominium der Nieuwe Hebriden <sup> *)  Voor invoer in het Franse moederland en in de gebieden der Franse Unie.  </sup> Indochina Madagascar en onderhorigheden Marokko (Franse zone) <sup> *)  Voor invoer in het Franse moederland en in de gebieden der Franse Unie.  </sup> Nieuw-Caledonië en onderhorigheden St. Pierre en Miquelon Togo onder Frans trustschap <sup> *)  Voor invoer in het Franse moederland en in de gebieden der Franse Unie.  </sup> Tunesië   
+Frankrijk Frans Equatoriaal-Afrika (Conventionele Kongo-bekken<sup> *) Voor invoer in het Franse moederland en in de gebieden der Franse Unie. </sup> en andere gebieden) Frans West-Afrika Kameroen onder Frans trustschap <sup> *) Voor invoer in het Franse moederland en in de gebieden der Franse Unie. </sup>  de Franse Somalikust en onderhorigheden de Franse vestigingen in Oceanië de Franse vestigingen in het condominium der Nieuwe Hebriden <sup> *) Voor invoer in het Franse moederland en in de gebieden der Franse Unie. </sup>  Indochina Madagascar en onderhorigheden Marokko (Franse zone) <sup> *) Voor invoer in het Franse moederland en in de gebieden der Franse Unie. </sup>  Nieuw-Caledonië en onderhorigheden St. Pierre en Miquelon Togo onder Frans trustschap <sup> *) Voor invoer in het Franse moederland en in de gebieden der Franse Unie. </sup>  Tunesië   
 
 ### Bijlage  C  
 
 ####Lijst van gebieden bedoeld in lid 2 (b) van artikel I, betrekking hebbende op de douane-unie tussen België, Luxemburg en Nederland
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 De Belgisch-Luxemburgse Economische Unie Belgisch Kongo Ruanda-Urundi Nederland Nieuw-Guinea Suriname de Nederlandse Antillen de Republiek Indonesië Voor invoer uitsluitend in de gebieden welke de douane-unie vormen.   
 
-### Bijlage  D  
+### Bijlage   D  
 
 ####Lijst van gebieden bedoeld in lid 2 (b) van artikel I met betrekking tot de Verenigde Staten van Amerika
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 de Verenigde Staten van Amerika (douanegebied) Gebieden afhankelijk van de Verenigde Staten van Amerika de Republiek der Philippijnen Het instellen van een gelijkwaardige marge van tariefpreferentie ter vervanging van een preferentiële marge die ten aanzien van een binnenlandse belasting op 10 april 1947 uitsluitend tussen twee of meer van de in deze Bijlage vermelde gebieden bestond wordt niet geacht een vergroting van de marge van tarief preferentie te vormen.   
 
@@ -2067,7 +2034,7 @@ de Verenigde Staten van Amerika (douanegebied) Gebieden afhankelijk van de Veren
 
 ####Lijst van gebieden waarop de preferentiële regelingen tussen Chili en naburige landen bedoeld in lid 2 (d) van artikel I van toepassing zijn
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Preferenties uitsluitend van kracht tussen Chili, enerzijds, en 
 
@@ -2081,7 +2048,7 @@ Preferenties uitsluitend van kracht tussen Chili, enerzijds, en
 
 ####Lijst van gebieden waarop de preferentiële regelingen tussen Libanon en Syrië en naburige landen bedoeld in lid 2 (d) van artikel I van toepassing zijn
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 Preferenties uitsluitend van kracht tussen de Syrisch-Libanese douane-unie, enerzijds, en 
 
@@ -2093,7 +2060,7 @@ Preferenties uitsluitend van kracht tussen de Syrisch-Libanese douane-unie, ener
 
 ####Data ter bepaling van de maximale preferentiële marges bedoeld in lid 4 van artikel I
 
-Wordt voorlopig toegepast per 01-01-1948   
+Wordt voorlopig toegepast per 01-01-1948 
 
 |
 |
@@ -2108,8 +2075,8 @@ Wordt voorlopig toegepast per 01-01-1948
 
 ####Percentage van de totale buitenlandse handel ten gebruike bij de berekening van het percentage bedoeld in artikel XXVI
 
-(gebaseerd op het gemiddelde van 1949-1953)   
-Wordt voorlopig toegepast per 01-01-1948   
+(gebaseerd op het gemiddelde van 1949-1953) 
+Wordt voorlopig toegepast per 01-01-1948 
 
 Indien, vóór de toetreding van de Regering van Japan tot de Algemene Overeenkomst, de onderhavige Overeenkomst is aanvaard door verdragsluitende partijen welker buitenlandse handel aangeduid in kolom I het percentage vertegenwoordigt van deze handel vastgesteld in lid 6 van artikel XXVI, is kolom I terzake van genoemd lid van toepassing. Indien de onderhavige Overeenkomst niet is aanvaard vóór de toetreding van de Regering van Japan, is kolom II terzake van genoemd lid van toepassing.  
 
@@ -2131,11 +2098,11 @@ Indien, vóór de toetreding van de Regering van Japan tot de Algemene Overeenko
 | Finland ................  | 1,0  | 1,0  |
 | Frankrijk ................  | 8,7  | 8,5  |
 | de Bondsrepubliek Duitsland ................  | 5,3  | 5,2  |
-| Griekenland ................  | 0,4  | 0,4  |
+| Griekenland ................  | 0,4   | 0,4  |
 
 |
 |
-| --- |  *Kolom I*   (verdragsluitende partijen op 1 maart 1955)  |  *Kolom II*   (verdragsluitende partijen op 1 mrU 1955 en Japan)  |
+| --- |  *Kolom I*   (verdragsluitende partijen op 1 maart 1955)  |  *Kolom II*   (verdragsluitende partijen op 1 mrt. 1955 en Japan)  |
 | Haïti ................  | 0,1  | 0,1  |
 | India ................  | 2,4  | 2,4  |
 | Indonesië ................  | 1,3  | 1,3  |
@@ -2154,18 +2121,18 @@ Indien, vóór de toetreding van de Regering van Japan tot de Algemene Overeenko
 | de Verenigde Staten van Amerika ................  | 20,6  | 20,1  |
 | Uruguay ................  | 0,4  | 0,4  |
 | Japan ................  | —  | 2,3  |
-| --- | ———  | ———  |
+| --- |——— |——— |
 | --- | 100,0  | 100,0  |
 
 *Aantekening:* Deze percentages zijn berekend met inachtneming van de handel van alle gebieden waarin de Algemene Overeenkomst betreffende Tarieven en Handel wordt toegepast.   
 
-### Bijlage  I  
+###Bijlage  I  
 
 ####Aantekeningen en aanvullende bepalingen
 
 ###Ad artikel I
 
-*Lid 1*  De verplichtingen welke zijn vervat in lid 1 van artikel I met verwijzing naar lid 2 en 4 van artikel III, alsmede die welke zijn vervat in lid 2 (b) van artikel II met verwijzing naar artikel VI, zullen voor de toepassing van het Protocol van voorlopige toepassing worden beschouwd als vallende binnen het kader van Deel II. De verwijzing over en weer naar de leden 2 en 4 van artikel III in het onmiddellijk voorafgaande lid en in lid 1 van artikel I is slechts van toepassing nadat artikel III is gewijzigd door de inwerkingtreding van de wijziging bedoeld in het Protocol van 14 september 1948 tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel.  *Lid 4*  Met de term „preferentiële marge” wordt bedoeld het absolute verschil tussen het meestbegunstigingsrecht en het preferentiële recht voor hetzelfde produkt en niet de verhouding tussen deze twee rechten. Bij voorbeeld: 
+*Lid 1*De verplichtingen welke zijn vervat in lid 1 van artikel I met verwijzing naar lid 2 en 4 van artikel III, alsmede die welke zijn vervat in lid 2 (b) van artikel II met verwijzing naar artikel VI, zullen voor de toepassing van het Protocol van voorlopige toepassing worden beschouwd als vallende binnen het kader van Deel II. De verwijzing over en weer naar de leden 2 en 4 van artikel III in het onmiddellijk voorafgaande lid en in lid 1 van artikel I is slechts van toepassing nadat artikel III is gewijzigd door de inwerkingtreding van de wijziging bedoeld in het Protocol van 14 september 1948 tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel.*Lid 4*Met de term „preferentiële marge” wordt bedoeld het absolute verschil tussen het meestbegunstigingsrecht en het preferentiële recht voor hetzelfde produkt en niet de verhouding tussen deze twee rechten. Bij voorbeeld: 
 
 (1) Indien het meest begunstigingsrecht 36% ad valorem bedraagt en het preferentiële recht 24% ad valorem, is de preferentiële marge 12% ad valorem en niet een derde van het meestbegunstigingsrecht;  
 
@@ -2175,24 +2142,24 @@ Indien, vóór de toetreding van de Regering van Japan tot de Algemene Overeenko
 
 (i) het wederom toepassen van een tariefindeling op een ingevoerd produkt of van een normaal daarop toepasselijk invoerrecht in gevallen waarin de toepassing van deze indeling of dit recht ten aanzien van het betrokken produkt op 10 april 1947 tijdelijk was opgeschort of buiten werking was gesteld; en  
 
-(ii) de indeling van een bepaald produkt onder een andere tariefpost dan die waaronder de invoer van dat produkt op 10 april 1947 was ingedeeld in gevallen waarin de tariefwet klaarblijkelijk de mogelijkheid voorziet, dat een dergelijk produkt onder meer dan één tariefpost wordt ingedeeld.   
+(ii) de indeling van een bepaald produkt onder een andere tariefpost dan die waaronder de invoer van dat produkt op 10 april 1947 was ingedeeld in gevallen waarin de tariefwet klaarblijkelijk de mogelijkheid voorziet, dat een dergelijk produkt onder meer dan één tariefpost wordt ingedeeld.  
 ###Ad artikel II
 
-*Lid 2 (a)*  De verwijzing over en weer naar lid 2 van artikel III in lid 2 (a) van artikel II zal slechts van toepassing zijn nadat artikel III is gewijzigd door de inwerkingtreding van de wijziging bedoeld in het Protocol van 14 september 1948 tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel.  *Lid 2 (b)*  Zie de aantekening bij lid 1 van artikel I.  *Lid 4*  Voor zover niet uitdrukkelijk anders is overeengekomen tussen de verdragsluitende partijen die oorspronkelijk de concessie overeenkwamen, wordt het in dit lid bepaalde toegepast met inachtneming van de bepalingen van artikel 31 van het Handvest van Havana. 
+*Lid 2 (a)*De verwijzing over en weer naar lid 2 van artikel III in lid 2 (a) van artikel II zal slechts van toepassing zijn nadat artikel III is gewijzigd door de inwerkingtreding van de wijziging bedoeld in het Protocol van 14 september 1948 tot wijziging van Deel II en artikel XXVI van de Algemene Overeenkomst betreffende Tarieven en Handel.*Lid 2 (b)*Zie de aantekening bij lid 1 van artikel I.*Lid 4*Voor zover niet uitdrukkelijk anders is overeengekomen tussen de verdragsluitende partijen die oorspronkelijk de concessie overeenkwamen, wordt het in dit lid bepaalde toegepast met inachtneming van de bepalingen van artikel 31 van het Handvest van Havana.
 ###Ad artikel III
 
-Elke binnenlandse belasting of andere binnenlandse heffing of elke wet, elke verordening of elk voorschrift bedoeld in lid 1, van toepassing zowel op het geïmporteerde produkt als op het overeenkomstige binnenlandse produkt en geheven of ten uitvoer gelegd ten aanzien van het geïmporteerde produkt op het tijdstip of op de plaats van invoer, wordt niettemin beschouwd als een binnenlandse belasting of een andere binnenlandse heffing of als een wet, een verordening of een voorschrift bedoeld in lid 1 en valt mitsdien onder de bepalingen van artikel III.  *Lid 1*  De toepassing van lid 1 op binnenlandse belastingen, door lagere overheden binnen het gebied van een verdragsluitende partij opgelegd, is onderworpen aan het bepaalde in het laatste lid van artikel XXIV. De uitdrukking „redelijke maatregelen” in laatstgenoemd lid vereist niet, bij voorbeeld, de afschaffing van de bestaande binnenlandse wetgeving die bovenbedoelde overheden de bevoegdheid toekent binnenlandse belastingen op te leggen welke, hoewel naar vorm in strijd met de letter van artikel III, toch niet in strijd zijn met de strekking daarvan, indien deze afschaffing ernstige financiële moeilijkheden voor de betrokken lagere overheden zou opleveren. Wat betreft belastingen, door genoemde overheden geheven, welke zowel met de letter als met de strekking van artikel III in strijd zijn, staat de uitdrukking „redelijke maatregelen” het een verdragsluitende partij toe deze belastingen gedurende een overgangstijdvak geleidelijk af te schaffen, indien onmiddellijke opheffing ernstige bestuurlijke en financiële moeilijkheden zou veroorzaken.  *Lid 2*  Een belasting die aan de vereisten van de eerste zin van lid 2 voldoet wordt slechts dan als onverenigbaar met het bepaalde in de tweede zin beschouwd, wanneer zich concurrentie voordoet tussen het belaste produkt enerzijds en een rechtstreeks concurrerend produkt of een produkt dat het belaste produkt onmiddellijk kan vervangen en niet door een dergelijke heffing wordt getroffen anderzijds.  *Lid 5*  Verordeningen verenigbaar met het bepaalde in de eerste zin van lid 5 worden niet beschouwd in strijd te zijn met de bepalingen van de tweede zin, indien alle onder deze verordeningen vallende produkten in aanzienlijke hoeveelheden in het binnenland worden voortgebracht. Een verordening kan niet worden gerechtvaardigd als zijnde verenigbaar met het bepaalde in de tweede zin op grond van het feit dat het percentage of de hoeveelheid die aan ieder van de onder de verordening vallende produkten is toegewezen een billijke verhouding tussen de geïmporteerde en de binnenlandse produkten vormt. 
+Elke binnenlandse belasting of andere binnenlandse heffing of elke wet, elke verordening of elk voorschrift bedoeld in lid 1, van toepassing zowel op het geïmporteerde produkt als op het overeenkomstige binnenlandse produkt en geheven of ten uitvoer gelegd ten aanzien van het geïmporteerde produkt op het tijdstip of op de plaats van invoer, wordt niettemin beschouwd als een binnenlandse belasting of een andere binnenlandse heffing of als een wet, een verordening of een voorschrift bedoeld in lid 1 en valt mitsdien onder de bepalingen van artikel III.*Lid 1*De toepassing van lid 1 op binnenlandse belastingen, door lagere overheden binnen het gebied van een verdragsluitende partij opgelegd, is onderworpen aan het bepaalde in het laatste lid van artikel XXIV. De uitdrukking „redelijke maatregelen” in laatstgenoemd lid vereist niet, bij voorbeeld, de afschaffing van de bestaande binnenlandse wetgeving die bovenbedoelde overheden de bevoegdheid toekent binnenlandse belastingen op te leggen welke, hoewel naar vorm in strijd met de letter van artikel III, toch niet in strijd zijn met de strekking daarvan, indien deze afschaffing ernstige financiële moeilijkheden voor de betrokken lagere overheden zou opleveren. Wat betreft belastingen, door genoemde overheden geheven, welke zowel met de letter als met de strekking van artikel III in strijd zijn, staat de uitdrukking „redelijke maatregelen” het een verdragsluitende partij toe deze belastingen gedurende een overgangstijdvak geleidelijk af te schaffen, indien onmiddellijke opheffing ernstige bestuurlijke en financiële moeilijkheden zou veroorzaken.*Lid 2*Een belasting die aan de vereisten van de eerste zin van lid 2 voldoet wordt slechts dan als onverenigbaar met het bepaalde in de tweede zin beschouwd, wanneer zich concurrentie voordoet tussen het belaste produkt enerzijds en een rechtstreeks concurrerend produkt of een produkt dat het belaste produkt onmiddellijk kan vervangen en niet door een dergelijke heffing wordt getroffen anderzijds.*Lid 5*Verordeningen verenigbaar met het bepaalde in de eerste zin van lid 5 worden niet beschouwd in strijd te zijn met de bepalingen van de tweede zin, indien alle onder deze verordeningen vallende produkten in aanzienlijke hoeveelheden in het binnenland worden voortgebracht. Een verordening kan niet worden gerechtvaardigd als zijnde verenigbaar met het bepaalde in de tweede zin op grond van het feit dat het percentage of de hoeveelheid die aan ieder van de onder de verordening vallende produkten is toegewezen een billijke verhouding tussen de geïmporteerde en de binnenlandse produkten vormt.
 ###Ad artikel V
 
-*Lid 5*  Wat de vervoerstarieven betreft, is het in lid 5 neergelegde beginsel van toepassing op gelijksoortige produkten die over eenzelfde traject onder overeenkomstige omstandigheden worden vervoerd. 
+*Lid 5*Wat de vervoerstarieven betreft, is het in lid 5 neergelegde beginsel van toepassing op gelijksoortige produkten die over eenzelfde traject onder overeenkomstige omstandigheden worden vervoerd.
 ###Ad artikel VI
 
-1. Verkapte dumping door geassocieerde handelshuizen (hieronder wordt verstaan de verkoop door een importeur tegen een lagere prijs dan de betrokken factuurprijs die in rekening is gebracht door een exporteur met wie de importeur geassocieerd is en die tevens lager is dan de in het land van uitvoer gangbare prijs) wordt beschouwd als een vorm van prijsdumping waarvan de marge van dumping berekend kan worden uitgaande van de prijs waartegen de goederen door de importeur worden doorverkocht.  
+1.Verkapte dumping door geassocieerde handelshuizen (hieronder wordt verstaan de verkoop door een importeur tegen een lagere prijs dan de betrokken factuurprijs die in rekening is gebracht door een exporteur met wie de importeur geassocieerd is en die tevens lager is dan de in het land van uitvoer gangbare prijs) wordt beschouwd als een vorm van prijsdumping waarvan de marge van dumping berekend kan worden uitgaande van de prijs waartegen de goederen door de importeur worden doorverkocht.
 
-2. Men erkent dat bij invoer uit een land dat een volledig of nagenoeg volledig monopolie van zijn handel kent en waar alle binnenlandse prijzen worden vastgesteld door de Staat, zich bijzondere moeilijkheden kunnen voordoen bij het vergelijken van prijzen als bedoeld in lid 1. In zulke gevallen kunnen de importerende verdragsluitende partijen het noodzakelijk achten met de mogelijkheid rekening te houden, dat een strikte vergelijking met de binnenlandse prijzen in zulk een land niet altijd doelmatig kan zijn.    *Leden 2 en 3*  *Aantekening 1.* Zoals in de praktijk van het douanewezen dikwijls voorkomt, kan een verdragsluitende partij een redelijke zekerheidstelling (borgstelling of deposito in contanten) verlangen voor de betaling van anti-dumping- of compenserende rechten, zulks in afwachting van de uiteindelijke vaststelling der feiten, in alle gevallen waarin een verdenking van dumping of subsidiëring bestaat. *Aantekening 2.* Het gebruikmaken van veelvoudige wisselkoersen kan onder bepaalde omstandigheden een subsidie op de uitvoer betekenen, die men kan ondervangen door compenserende rechten als bedoeld in lid 3, ofwel een vorm van dumping door middel van een gedeeltelijke depreciatie van het betaalmiddel van een land, die men kan ondervangen door maatregelen als bedoeld in lid 2. Met „het gebruikmaken van veelvoudige wisselkoersen” worden de door de regeringen gevolgde of goedgekeurde praktijken bedoeld.  *Lid 6 (b)*  Ontheffing op grond van het bepaalde in lid 6 (b) wordt alleen verleend op verzoek van de verdragsluitende partij die voornemens is een anti-dumping- of compenserend recht te heffen. 
+2.Men erkent dat bij invoer uit een land dat een volledig of nagenoeg volledig monopolie van zijn handel kent en waar alle binnenlandse prijzen worden vastgesteld door de Staat, zich bijzondere moeilijkheden kunnen voordoen bij het vergelijken van prijzen als bedoeld in lid 1. In zulke gevallen kunnen de importerende verdragsluitende partijen het noodzakelijk achten met de mogelijkheid rekening te houden, dat een strikte vergelijking met de binnenlandse prijzen in zulk een land niet altijd doelmatig kan zijn.*Leden 2 en 3* *Aantekening 1.* Zoals in de praktijk van het douanewezen dikwijls voorkomt, kan een verdragsluitende partij een redelijke zekerheidstelling (borgstelling of deposito in contanten) verlangen voor de betaling van anti-dumping- of compenserende rechten, zulks in afwachting van de uiteindelijke vaststelling der feiten, in alle gevallen waarin een verdenking van dumping of subsidiëring bestaat.  *Aantekening 2.* Het gebruikmaken van veelvoudige wisselkoersen kan onder bepaalde omstandigheden een subsidie op de uitvoer betekenen, die men kan ondervangen door compenserende rechten als bedoeld in lid 3, ofwel een vorm van dumping door middel van een gedeeltelijke depreciatie van het betaalmiddel van een land, die men kan ondervangen door maatregelen als bedoeld in lid 2. Met „het gebruikmaken van veelvoudige wisselkoersen” worden de door de regeringen gevolgde of goedgekeurde praktijken bedoeld.*Lid 6 (b)*Ontheffing op grond van het bepaalde in lid 6 (b) wordt alleen verleend op verzoek van de verdragsluitende partij die voornemens is een anti-dumping- of compenserend recht te heffen.
 ###Ad artikel VII
 
-*Lid 1*  Onder de uitdrukking „of andere heffingen” worden niet geacht te zijn begrepen binnenlandse belastingen of gelijksoortige heffingen ingesteld op of verband houdende met de invoer van produkten.  *Lid 2*  
+*Lid 1*Onder de uitdrukking „of andere heffingen” worden niet geacht te zijn begrepen binnenlandse belastingen of gelijksoortige heffingen ingesteld op of verband houdende met de invoer van produkten.*Lid 2*
 
 1. Het is in overeenstemming met artikel VII aan te nemen dat de „werkelijke waarde” zich laat weergeven door het factuurbedrag, vermeerderd met de daarin niet opgenomen wettige kosten die daadwerkelijk deel uitmaken van de „werkelijke waarde” en voorts vermeerderd met eventuele ongebruikelijke kortingen op of andere abnormale verlagingen van de gewone concurrerende prijs.  
 
@@ -2200,37 +2167,37 @@ Elke binnenlandse belasting of andere binnenlandse heffing of elke wet, elke ver
 
 3. De norm „volledige vrije mededinging” verleent een verdragsluitende partij de bevoegdheid prijzen waarin bijzondere kortingen voor alleenvertegenwoordigers zijn begrepen, buiten beschouwing te laten.  
 
-4. Het gestelde sub (a) en (b) verleent een verdragsluitende partij de bevoegdheid de waarde voor de toepassing van de douaneformaliteiten op gelijkvormige wijze vast te stellen, hetzij (1) op basis van de door een bepaalde exporteur berekende prijs der ingevoerde goederen, hetzij (2) op basis van het algemene prijspeil van gelijksoortige goederen.   
+4. Het gestelde sub (a) en (b) verleent een verdragsluitende partij de bevoegdheid de waarde voor de toepassing van de douaneformaliteiten op gelijkvormige wijze vast te stellen, hetzij (1) op basis van de door een bepaalde exporteur berekende prijs der ingevoerde goederen, hetzij (2) op basis van het algemene prijspeil van gelijksoortige goederen.  
 ###Ad artikel VIII
 
-1. Hoewel artikel VIII geen betrekking heeft op het gebruik van meervoudige wisselkoersen als zodanig, veroordelen de leden 1 en 4 de heffing van belastingen of retributies op valutatransacties als een middel om meervoudige wisselkoersen toe te passen; indien echter een verdragsluitende partij met goedkeuring van het Internationale Monetaire Fonds meervoudige wisselkoersretributies heft ter bescherming van haar betalingsbalans, wordt haar positie geheel veilig gesteld door het bepaalde in lid 9 (a) van artikel XV.  
+1.Hoewel artikel VIII geen betrekking heeft op het gebruik van meervoudige wisselkoersen als zodanig, veroordelen de leden 1 en 4 de heffing van belastingen of retributies op valutatransacties als een middel om meervoudige wisselkoersen toe te passen; indien echter een verdragsluitende partij met goedkeuring van het Internationale Monetaire Fonds meervoudige wisselkoersretributies heft ter bescherming van haar betalingsbalans, wordt haar positie geheel veilig gesteld door het bepaalde in lid 9 (a) van artikel XV.
 
-2. Het is in overeenstemming met lid 1 indien bij de invoer van produkten uit het gebied van een verdragsluitende partij naar het gebied van een andere verdragsluitende partij, certificaten van oorsprong slechts worden geëist voor zover zulks strikt noodzakelijk is.   
+2.Het is in overeenstemming met lid 1 indien bij de invoer van produkten uit het gebied van een verdragsluitende partij naar het gebied van een andere verdragsluitende partij, certificaten van oorsprong slechts worden geëist voor zover zulks strikt noodzakelijk is.
 ###Ad artikelen XI, XII, XIII, XIV en XVIII
 
-In de artikelen XI, XII, XIII, XIV en XVIII hebben de uitdrukkingen „invoerbeperkingen” of „uitvoerbeperkingen” eveneens betrekking op beperkingen toegepast bij staatshandelstransacties. 
-### *Artikel XI* 
+In de artikelen XI, XII, XIII, XIV en XVIII hebben de uitdrukkingen „invoerbeperkingen” of „uitvoerbeperkingen” eveneens betrekking op beperkingen toegepast bij staatshandelstransacties.
+###*Artikel XI*
 
-*Lid 2 (c)*  De uitdrukking „in enigerlei vorm” in dit lid slaat op dezelfde produkten die, wanneer zij in een vroeg stadium van verwerking verkeren en nog aan bederf onderhevig zijn, onmiddellijk concurreren met het verse produkt en waarvan de vrije invoer ertoe kan leiden dat de beperking van de invoer van het verse produkt zonder uitwerking blijft.  *Lid 2, laatste alinea*  Onder de term „bijzondere factoren” worden mede begrepen veranderingen in de produktiviteitsverhouding tussen binnenlandse en buitenlandse producenten of tussen verschillende buitenlandse producenten, maar geen veranderingen die kunstmatig zijn teweeggebracht met middelen welke krachtens deze Overeenkomst niet zijn geoorloofd. 
+*Lid 2 (c)*De uitdrukking „in enigerlei vorm” in dit lid slaat op dezelfde produkten die, wanneer zij in een vroeg stadium van verwerking verkeren en nog aan bederf onderhevig zijn, onmiddellijk concurreren met het verse produkt en waarvan de vrije invoer ertoe kan leiden dat de beperking van de invoer van het verse produkt zonder uitwerking blijft.*Lid 2, laatste alinea* Onder de term „bijzondere factoren” worden mede begrepen veranderingen in de produktiviteitsverhouding tussen binnenlandse en buitenlandse producenten of tussen verschillende buitenlandse producenten, maar geen veranderingen die kunstmatig zijn teweeggebracht met middelen welke krachtens deze Overeenkomst niet zijn geoorloofd.
 ###Ad artikel XII
 
-De VERDRAGSLUITENDE PARTIJEN nemen alle nodige maatregelen om de geheimhouding te verzekeren van ieder overleg dat ingevolge de bepalingen van dit artikel plaatsvindt.  *Lid 3 (c) (i)*  De verdragsluitende partijen die beperkingen toepassen dienen zich te beijveren om te vermijden dat ernstige schade wordt toegebracht aan de uitvoer van een produkt waarvan de economie van een verdragsluitende partij grotendeels afhankelijk is.  *Lid 4 (b)*  Het staat vast dat genoemde datum valt binnen een tijdvak van negentig dagen na de inwerkingtreding van de wijzigingen in dit artikel aangebracht door het Protocol tot wijziging van de preambule en Deel II en III van deze Overeenkomst. Mochten de VERDRAGSLUITENDE PARTIJEN echter van oordeel zijn, dat de omstandigheden zich niet lenen tot de toepassing op de voorgenomen datum van het bepaalde sub (b) van dit lid, dan kunnen zij een latere datum vaststellen; nochtans dient deze latere datum te vallen binnen een tijdvak van dertig dagen na de datum waarop de verplichtingen voortvloeiende uit de secties 2, 3 en 4 van artikel VIII van de Overeenkomst betreffende het Internationale Monetaire Fonds van toepassing worden voor die verdragsluitende partijen die lid zijn van het Fonds, waarvan de gezamenlijke buitenlandse handel ten minste vijftig ten honderd bedraagt van de gehele buitenlandse handel van alle verdragsluitende partijen.  *Lid 4 (e)*  Het staat vast dat lid 4 (e) geen nieuwe maatstaven geeft voor de instelling of de handhaving van kwantitatieve beperkingen voor betalingsbalansdoeleinden. Met dit lid wordt slechts beoogd dat volledig rekening wordt gehouden met alle externe factoren, zoals wijzigingen in de ruilvoet, kwantitatieve beperkingen, buitensporige tarieven en subsidies, welke kunnen bijdragen tot betalingsbalansmoeilijkheden van de verdragsluitende partij welke de beperkingen toepast. 
+De VERDRAGSLUITENDE PARTIJEN nemen alle nodige maatregelen om de geheimhouding te verzekeren van ieder overleg dat ingevolge de bepalingen van dit artikel plaatsvindt.*Lid 3 (c) (i)*De verdragsluitende partijen die beperkingen toepassen dienen zich te beijveren om te vermijden dat ernstige schade wordt toegebracht aan de uitvoer van een produkt waarvan de economie van een verdragsluitende partij grotendeels afhankelijk is.*Lid 4 (b)*Het staat vast dat genoemde datum valt binnen een tijdvak van negentig dagen na de inwerkingtreding van de wijzigingen in dit artikel aangebracht door het Protocol tot wijziging van de preambule en Deel II en III van deze Overeenkomst. Mochten de VERDRAGSLUITENDE PARTIJEN echter van oordeel zijn, dat de omstandigheden zich niet lenen tot de toepassing op de voorgenomen datum van het bepaalde sub (b) van dit lid, dan kunnen zij een latere datum vaststellen; nochtans dient deze latere datum te vallen binnen een tijdvak van dertig dagen na de datum waarop de verplichtingen voortvloeiende uit de secties 2, 3 en 4 van artikel VIII van de Overeenkomst betreffende het Internationale Monetaire Fonds van toepassing worden voor die verdragsluitende partijen die lid zijn van het Fonds, waarvan de gezamenlijke buitenlandse handel ten minste vijftig ten honderd bedraagt van de gehele buitenlandse handel van alle verdragsluitende partijen.*Lid 4 (e)*Het staat vast dat lid 4 (e) geen nieuwe maatstaven geeft voor de instelling of de handhaving van kwantitatieve beperkingen voor betalingsbalansdoeleinden. Met dit lid wordt slechts beoogd dat volledig rekening wordt gehouden met alle externe factoren, zoals wijzigingen in de ruilvoet, kwantitatieve beperkingen, buitensporige tarieven en subsidies, welke kunnen bijdragen tot betalingsbalansmoeilijkheden van de verdragsluitende partij welke de beperkingen toepast.
 ###Ad artikel XIII
 
-*Lid 2 (d)*  Voor de toewijzing van contingenten werden „commerciële overwegingen” niet als maatstaf genoemd, omdat men meende dat toepassing van deze maatstaf door de overheid niet altijd mogelijk zou zijn. Bovendien zou in gevallen waarin zulks uitvoerbaar is een verdragsluitende partij van deze maatstaf gebruik kunnen maken bij het streven naar overeenstemming overeenkomstig de algemene regel neergelegd in de eerste zin van lid 2.  *Lid 4*  Zie de aantekening betreffende „bijzondere factoren” in verband met de laatste alinea van lid 2 van artikel XI. 
+*Lid 2 (d)*Voor de toewijzing van contingenten werden „commerciële overwegingen” niet als maatstaf genoemd, omdat men meende dat toepassing van deze maatstaf door de overheid niet altijd mogelijk zou zijn. Bovendien zou in gevallen waarin zulks uitvoerbaar is een verdragsluitende partij van deze maatstaf gebruik kunnen maken bij het streven naar overeenstemming overeenkomstig de algemene regel neergelegd in de eerste zin van lid 2.*Lid 4*Zie de aantekening betreffende „bijzondere factoren” in verband met de laatste alinea van lid 2 van artikel XI.
 ###Ad artikel XIV
 
-*Lid 1*  De bepalingen van dit lid dienen niet zodanig te worden uitgelegd, dat de verdragsluitende partijen worden verhinderd gedurende het overleg genoemd in artikel XII, lid 4, en in artikel XVIII, lid 12, volledig rekening te houden met de aard en de uitwerking van en de redenen voor de discriminatie bij invoerbeperkingen.  *Lid 2*  Een van de omstandigheden waarop in lid 2 wordt gedoeld is die waarin een verdragsluitende partij over saldi beschikt die uit lopende transacties zijn verkregen en die zij niet kan gebruiken zonder een zekere mate van discriminatie toe te passen. 
+*Lid 1*De bepalingen van dit lid dienen niet zodanig te worden uitgelegd, dat de verdragsluitende partijen worden verhinderd gedurende het overleg genoemd in artikel XII, lid 4, en in artikel XVIII, lid 12, volledig rekening te houden met de aard en de uitwerking van en de redenen voor de discriminatie bij invoerbeperkingen.*Lid 2*Een van de omstandigheden waarop in lid 2 wordt gedoeld is die waarin een verdragsluitende partij over saldi beschikt die uit lopende transacties zijn verkregen en die zij niet kan gebruiken zonder een zekere mate van discriminatie toe te passen.
 ###Ad artikel XV
 
-*Lid 4*  Met het woord „verijdelen” wordt te kennen gegeven, dat bij voorbeeld overtredingen van de letter van een artikel van deze Overeenkomst ten gevolge van deviezenmaatregelen niet worden beschouwd als een inbreuk op dit artikel, indien er in de praktijk niet noemenswaardig van de bedoeling van het artikel wordt afgeweken. Zo zal een verdragsluitende partij die in het kader van haar ingevolge de Overeenkomst betreffende het Internationale Monetaire Fonds uitgeoefende deviezencontrole betaling voor haar uitvoer wenst te ontvangen in haar eigen munt of in de munt van een of meer leden van het Internationale Monetaire Fonds niet worden geacht daarbij in strijd te handelen met artikel XI of XIII. Een ander voorbeeld is, dat van een verdragsluitende partij die op een invoervergunning het land aangeeft vanwaar de goederen mogen worden ingevoerd, niet om een nieuw element van discriminatie in haar invoervergunningssysteem te brengen, maar om een geoorloofde deviezencontrole uit te oefenen. 
+*Lid 4*Met het woord „verijdelen” wordt te kennen gegeven, dat bij voorbeeld overtredingen van de letter van een artikel van deze Overeenkomst ten gevolge van deviezenmaatregelen niet worden beschouwd als een inbreuk op dit artikel, indien er in de praktijk niet noemenswaardig van de bedoeling van het artikel wordt afgeweken. Zo zal een verdragsluitende partij die in het kader van haar ingevolge de Overeenkomst betreffende het Internationale Monetaire Fonds uitgeoefende deviezencontrole betaling voor haar uitvoer wenst te ontvangen in haar eigen munt of in de munt van een of meer leden van het Internationale Monetaire Fonds niet worden geacht daarbij in strijd te handelen met artikel XI of XIII. Een ander voorbeeld is, dat van een verdragsluitende partij die op een invoervergunning het land aangeeft vanwaar de goederen mogen worden ingevoerd, niet om een nieuw element van discriminatie in haar invoervergunningssysteem te brengen, maar om een geoorloofde deviezencontrole uit te oefenen.
 ###Ad artikel XVI
 
-Wanneer een geëxporteerd produkt wordt vrijgesteld van rechten of belastingen welke worden geheven van een gelijksoortig voor binnenlands gebruik bestemd produkt, dan wel wanneer teruggave plaatsvindt van deze rechten of belastingen tot een bedrag dat niet hoger is dan de verschuldigde of gestorte bedragen, wordt zulks niet als een subsidie beschouwd.  *Sectie B*  
+Wanneer een geëxporteerd produkt wordt vrijgesteld van rechten of belastingen welke worden geheven van een gelijksoortig voor binnenlands gebruik bestemd produkt, dan wel wanneer teruggave plaatsvindt van deze rechten of belastingen tot een bedrag dat niet hoger is dan de verschuldigde of gestorte bedragen, wordt zulks niet als een subsidie beschouwd.*Sectie B*
 
 1. Geen enkele bepaling van sectie B verhindert een verdragsluitende partij meervoudige wisselkoersen toe te passen in overeenstemming met de Overeenkomst betreffende het Internationale Monetaire Fonds.  
 
-2. Voor de toepassing van sectie B wordt onder de uitdrukking ,,basis-produkt” verstaan elk produkt van landbouw, boswezen of visserij of elke delfstof, hetzij in zijn natuurlijke vorm, hetzij be- of verwerkt als gemeenlijk is vereist voor de afzet in aanzienlijke hoeveelheden op de internationale markten.    *Lid 3*  
+2. Voor de toepassing van sectie B wordt onder de uitdrukking ,,basis-produkt” verstaan elk produkt van landbouw, boswezen of visserij of elke delfstof, hetzij in zijn natuurlijke vorm, hetzij be- of verwerkt als gemeenlijk is vereist voor de afzet in aanzienlijke hoeveelheden op de internationale markten.  *Lid 3*
 
 1. Het feit, dat een verdragsluitende partij het betrokken produkt niet heeft uitgevoerd in de vorige basisperiode, mag op zichzelf deze verdragsluitende partij niet beletten een aandeel in de handel in genoemd produkt te verkrijgen.  
 
@@ -2238,30 +2205,30 @@ Wanneer een geëxporteerd produkt wordt vrijgesteld van rechten of belastingen w
 
 (a) het stelsel ook heeft geleid, of is opgezet om te leiden, tot de uitvoer ten verkoop van het desbetreffende produkt tegen een hogere prijs dan de vergelijkbare prijs welke voor het overeenkomstige produkt aan kopers op de binnenlandse markt in rekening wordt gebracht; en  
 
-(b) het stelsel door doelmatige regeling van de produktie of anderszins zodanig werkt, of is opgezet om zodanig te werken, dat het de uitvoer niet overmatig stimuleert of op andere wijze de belangen van andere verdragsluitende partijen ernstig schaadt.     Niettegenstaande zulk een beslissing van de VERDRAGSLUITENDE PARTIJEN zijn maatregelen welke ter uitvoering van zulk een stelsel werden genomen onderworpen aan het in lid 3 bepaalde, wanneer zij naast uit de van de producenten van het desbetreffende produkt ingevorderde gelden geheel of gedeeltelijk worden gefinancierd uit openbare middelen.  *Lid 4*  De bedoeling van lid 4 is, dat de verdragsluitende partijen vóór het einde van 1957 tot overeenstemming trachten te komen om alle overblijvende subsidies per 1 januari 1958 af te schaffen, of, bij gebreke daarvan, tot een overeenkomst te komen over de verlenging van de toepassing van de status-quo tot de datum waarop zij uiterlijk verwachten een dergelijke overeenstemming te bereiken. 
+(b) het stelsel door doelmatige regeling van de produktie of anderszins zodanig werkt, of is opgezet om zodanig te werken, dat het de uitvoer niet overmatig stimuleert of op andere wijze de belangen van andere verdragsluitende partijen ernstig schaadt.    Niettegenstaande zulk een beslissing van de VERDRAGSLUITENDE PARTIJEN zijn maatregelen welke ter uitvoering van zulk een stelsel werden genomen onderworpen aan het in lid 3 bepaalde, wanneer zij naast uit de van de producenten van het desbetreffende produkt ingevorderde gelden geheel of gedeeltelijk worden gefinancierd uit openbare middelen.*Lid 4*De bedoeling van lid 4 is, dat de verdragsluitende partijen vóór het einde van 1957 tot overeenstemming trachten te komen om alle overblijvende subsidies per 1 januari 1958 af te schaffen, of, bij gebreke daarvan, tot een overeenkomst te komen over de verlenging van de toepassing van de status-quo tot de datum waarop zij uiterlijk verwachten een dergelijke overeenstemming te bereiken.
 ###Ad artikel XVII
 
-*Lid 1*  De transacties van bureaus die door verdragsluitende partijen zijn opgericht en zich bezighouden met koop of verkoop zijn onderworpen aan de bepalingen van de alinea's (a) en (b). De werkzaamheden van bureaus die door verdragsluitende partijen zijn opgericht en niet kopen of verkopen, maar regels voor de particuliere handel stellen vallen onder de desbetreffende artikelen van deze Overeenkomst. De bepalingen van dit artikel beletten een staatsonderneming niet bij verkoop van een produkt op verschillende markten verschillende prijzen te vragen, mits zij zulks om commerciële redenen doet teneinde te beantwoorden aan de omstandigheden van vraag en aanbod op de exportmarkten.  *Lid 1 (a)*  Overheidsmaatregelen welke zijn getroffen om zekere normen van kwaliteit en doeltreffendheid bij het drijven van buitenlandse handel te waarborgen of voorrechten welke zijn verleend ten behoeve van de exploitatie van nationale natuurlijke hulpbronnen maar zonder de regering het recht toe te kennen toezicht uit te oefenen op de handelsverrichtingen van de betrokken onderneming, vormen geen „uitsluitende of bijzondere rechten".  *Lid 1 (b)*  Het staat een land dat een „gebonden lening” ontvangt vrij deze als „commerciële overweging” aan te merken bij aankoop van benodigde goederen in het buitenland.  *Lid 2*  De term „goederen” blijft beperkt tot produkten zoals men dit woord in de praktijk van de handel verstaat; genoten en verleende diensten worden daaronder niet begrepen.  *Lid 3*  Wanneer de verdragsluitende partijen ingevolge dit lid besluiten onderhandelingen te voeren, kunnen deze zijn gericht op verlaging van invoerrechten en andere heffingen op de in- en uitvoer, dan wel op het afsluiten van iedere andere wederzijds bevredigende overeenkomst die voldoet aan de bepalingen van deze Overeenkomst. (Zie lid 4 van artikel II en de op dat lid betrekking hebbende aantekening.)  *Lid 4 (b)*  De uitdrukking „prijsverhoging bij invoer” in dit lid duidt de marge aan waarmede de door het invoermonopolie voor het geïmporteerde produkt berekende prijs de prijs bij de lossing overtreft (met uitsluiting van overeenkomstig de bepalingen van artikel III geheven binnenlandse belastingen, transport- en afzetkosten en andere op koop, verkoop of verdere bewerking betrekking hebbende kosten, alsmede een redelijke winstmarge). 
+*Lid 1*De transacties van bureaus die door verdragsluitende partijen zijn opgericht en zich bezighouden met koop of verkoop zijn onderworpen aan de bepalingen van de alinea's (a) en (b). De werkzaamheden van bureaus die door verdragsluitende partijen zijn opgericht en niet kopen of verkopen, maar regels voor de particuliere handel stellen vallen onder de desbetreffende artikelen van deze Overeenkomst. De bepalingen van dit artikel beletten een staatsonderneming niet bij verkoop van een produkt op verschillende markten verschillende prijzen te vragen, mits zij zulks om commerciële redenen doet teneinde te beantwoorden aan de omstandigheden van vraag en aanbod op de exportmarkten.*Lid 1 (a)* Overheidsmaatregelen welke zijn getroffen om zekere normen van kwaliteit en doeltreffendheid bij het drijven van buitenlandse handel te waarborgen of voorrechten welke zijn verleend ten behoeve van de exploitatie van nationale natuurlijke hulpbronnen maar zonder de regering het recht toe te kennen toezicht uit te oefenen op de handelsverrichtingen van de betrokken onderneming, vormen geen „uitsluitende of bijzondere rechten".*Lid 1 (b)* Het staat een land dat een „gebonden lening” ontvangt vrij deze als „commerciële overweging” aan te merken bij aankoop van benodigde goederen in het buitenland.*Lid 2*De term „goederen” blijft beperkt tot produkten zoals men dit woord in de praktijk van de handel verstaat; genoten en verleende diensten worden daaronder niet begrepen.*Lid 3*Wanneer de verdragsluitende partijen ingevolge dit lid besluiten onderhandelingen te voeren, kunnen deze zijn gericht op verlaging van invoerrechten en andere heffingen op de in- en uitvoer, dan wel op het afsluiten van iedere andere wederzijds bevredigende overeenkomst die voldoet aan de bepalingen van deze Overeenkomst. (Zie lid 4 van artikel II en de op dat lid betrekking hebbende aantekening.)*Lid 4 (b)*De uitdrukking „prijsverhoging bij invoer” in dit lid duidt de marge aan waarmede de door het invoermonopolie voor het geïmporteerde produkt berekende prijs de prijs bij de lossing overtreft (met uitsluiting van overeenkomstig de bepalingen van artikel III geheven binnenlandse belastingen, transport- en afzetkosten en andere op koop, verkoop of verdere bewerking betrekking hebbende kosten, alsmede een redelijke winstmarge).
 ###Ad artikel XVIII
 
-De VERDRAGSLUITENDE PARTIJEN en de betrokken verdragsluitende partijen betrachten de grootst mogelijke geheimhouding met betrekking tot alle aangelegenheden die zich ingevolge dit artikel voordoen.  *Leden 1 en 4*  
+De VERDRAGSLUITENDE PARTIJEN en de betrokken verdragsluitende partijen betrachten de grootst mogelijke geheimhouding met betrekking tot alle aangelegenheden die zich ingevolge dit artikel voordoen.*Leden 1 en 4*
 
 1. Wanneer de VERDRAGSLUITENDE PARTIJEN een onderzoek instellen naar de vraag of de economie van een verdragsluitende partij „slechts een lage levensstandaard kan bieden", nemen zij de normale toestand van deze economie in aanmerking en baseren zij hun besluit niet op buitengewone omstandigheden zoals die welke kunnen voortspruiten uit het tijdelijk aanwezig zijn van bijzonder gunstige voorwaarden voor de uitvoer van het stapelprodukt of de stapelprodukten van deze verdragsluitende partij.  
 
-2. De uitdrukking „in het beginstadium van ontwikkeling” slaat niet alleen op de verdragsluitende partijen die juist aangevangen zijn met hun economische ontwikkeling, maar ook op verdragsluitende partijen die industrialiseren om aan een te sterke afhankelijkheid van de produktie van basisprodukten het hoofd te bieden.    *Leden 2, 3, 7, 13 en 22*  De verwijzing naar de oprichting van bepaalde industrieën slaat niet alleen op de oprichting van een nieuwe industrie, doch ook op de oprichting van een nieuwe tak van voortbrenging in een bestaande industrie, op een belangrijke omschakeling in een bestaande industrie, alsmede op een aanzienlijke uitbreiding van een bestaande industrie die in een betrekkelijk klein gedeelte van de binnenlandse vraag voorziet. Zij omvat ook het herstel van een industrie die is verwoest of zwaar beschadigd als gevolg van vijandelijkheden of natuurrampen.  *Lid 7 (b)*  Elke wijziging of intrekking ingevolge lid 7 (b) door een andere verdragsluitende partij dan degene bedoeld in lid 7 (a) die een verzoek daartoe heeft gedaan, moet worden ten uitvoer gelegd binnen zes maanden vanaf de datum waarop de verzoekende verdragsluitende partij de maatregelen heeft ingesteld; deze wijziging of intrekking wordt van kracht op de dertigste dag na de datum waarop de VERDRAGSLUITENDE PARTIJEN daarvan in kennis zijn gesteld.  *Lid 11*  De tweede zin in lid 11 betekent niet, dat een verdragsluitende partij gehouden is beperkingen te verzachten of af te schaffen, indien een dergelijke verzachting of afschaffing omstandigheden schept, die de verscherping, onderscheidenlijk de instelling, van beperkingen krachtens lid 9 van artikel XVIII rechtvaardigen.  *Lid 12 (b)*  De datum bedoeld in lid 12 (b) is de datum die de VERDRAGSLUITENDE PARTIJEN vaststellen overeenkomstig het bepaalde in lid 4 (b) van artikel XII van deze Overeenkomst.  *Leden 13 en 14*  Men erkent, dat een verdragsluitende partij, alvorens te beslissen over het nemen van een maatregel en daarvan overeenkomstig lid 14 kennis te geven aan de VERDRAGSLUITENDE PARTIJEN, een redelijke tijd nodig kan hebben om de situatie van de betrokken industrie uit het oogpunt van concurrentie te beoordelen.  *Leden 15 en 16*  Het is welverstaan, dat de VERDRAGSLUITENDE PARTIJEN een verdragsluitende partij die voornemens is een maatregel te nemen krachtens sectie C, uitnodigen om met hen in overleg te treden overeenkomstig lid 16, indien een verzoek daartoe tot hen wordt gericht door een verdragsluitende partij wier handel aanmerkelijk door deze maatregel wordt beïnvloed.  *Leden 16, 18, 19 en 22*  
+2. De uitdrukking „in het beginstadium van ontwikkeling” slaat niet alleen op de verdragsluitende partijen die juist aangevangen zijn met hun economische ontwikkeling, maar ook op verdragsluitende partijen die industrialiseren om aan een te sterke afhankelijkheid van de produktie van basisprodukten het hoofd te bieden.  *Leden 2, 3, 7, 13 en 22* De verwijzing naar de oprichting van bepaalde industrieën slaat niet alleen op de oprichting van een nieuwe industrie, doch ook op de oprichting van een nieuwe tak van voortbrenging in een bestaande industrie, op een belangrijke omschakeling in een bestaande industrie, alsmede op een aanzienlijke uitbreiding van een bestaande industrie die in een betrekkelijk klein gedeelte van de binnenlandse vraag voorziet. Zij omvat ook het herstel van een industrie die is verwoest of zwaar beschadigd als gevolg van vijandelijkheden of natuurrampen.*Lid 7 (b)* Elke wijziging of intrekking ingevolge lid 7 (b) door een andere verdragsluitende partij dan degene bedoeld in lid 7 (a) die een verzoek daartoe heeft gedaan, moet worden ten uitvoer gelegd binnen zes maanden vanaf de datum waarop de verzoekende verdragsluitende partij de maatregelen heeft ingesteld; deze wijziging of intrekking wordt van kracht op de dertigste dag na de datum waarop de VERDRAGSLUITENDE PARTIJEN daarvan in kennis zijn gesteld.*Lid 11* De tweede zin in lid 11 betekent niet, dat een verdragsluitende partij gehouden is beperkingen te verzachten of af te schaffen, indien een dergelijke verzachting of afschaffing omstandigheden schept, die de verscherping, onderscheidenlijk de instelling, van beperkingen krachtens lid 9 van artikel XVIII rechtvaardigen.*Lid 12 (b)* De datum bedoeld in lid 12 (b) is de datum die de VERDRAGSLUITENDE PARTIJEN vaststellen overeenkomstig het bepaalde in lid 4 (b) van artikel XII van deze Overeenkomst.*Leden 13 en 14* Men erkent, dat een verdragsluitende partij, alvorens te beslissen over het nemen van een maatregel en daarvan overeenkomstig lid 14 kennis te geven aan de VERDRAGSLUITENDE PARTIJEN, een redelijke tijd nodig kan hebben om de situatie van de betrokken industrie uit het oogpunt van concurrentie te beoordelen.*Leden 15 en 16* Het is welverstaan, dat de VERDRAGSLUITENDE PARTIJEN een verdragsluitende partij die voornemens is een maatregel te nemen krachtens sectie C, uitnodigen om met hen in overleg te treden overeenkomstig lid 16, indien een verzoek daartoe tot hen wordt gericht door een verdragsluitende partij wier handel aanmerkelijk door deze maatregel wordt beïnvloed.*Leden 16, 18, 19 en 22*
 
 1. Het is welverstaan, dat de VERDRAGSLUITENDE PARTIJEN hun toestemming tot een voorgenomen maatregel onder bepaalde voorwaarden of beperkingen kunnen verlenen. Indien de maatregel in strijd met de voorwaarden van de toestemming wordt toegepast, wordt hij te dezer zake beschouwd als een maatregel waarvoor de VERDRAGSLUITENDE PARTIJEN geen toestemming hebben verleend. In gevallen waarin de VERDRAGSLUITENDE PARTIJEN toestemming hebben verleend om een maatregel voor een bepaalde periode toe te passen, kan de betrokken verdragsluitende partij de VERDRAGSLUITENDE PARTIJEN verzoeken om een verlenging van dit tijdvak overeenkomstig de bepalingen en procedures van sectie C of D, indien zij van oordeel is, dat de toepassing van de maatregel voor een verder tijdvak noodzakelijk is om het doel waarvoor de maatregel oorspronkelijk was getroffen te verwezenlijken.  
 
-2. Men rekent erop, dat de VERDRAGSLUITENDE PARTIJEN zich als regel zullen onthouden van het verlenen van toestemming tot een maatregel waarvan aangenomen kan worden, dat hij ernstig nadeel berokkent aan de export van een produkt waarvan de economie van een verdragsluitende partij grotendeels afhankelijk is.    *Leden 18 en 22*  De zinsnede „dat de belangen van andere verdragsluitende partijen voldoende zijn gewaarborgd” heeft ten doel voldoende speelruimte te geven om in elk afzonderlijk geval te onderzoeken, welke de meest geëigende methode is om deze belangen te waarborgen. Deze methode kan bijvoorbeeld zijn het verlenen van een aanvullende concessie door de verdragsluitende partij die gebruik maakt van sectie C of D gedurende de periode waarin de afwijking van de andere artikelen van de Overeenkomst van kracht is, dan wel het tijdelijk opschorten door iedere andere in lid 18 bedoelde verdragsluitende partij van een concessie die ongeveer gelijkwaardig is aan de benadeling toegebracht door de instelling van de desbetreffende maatregel. Deze verdragsluitende partij heeft het recht haar belangen te waarborgen door een dergelijke tijdelijke opschorting van een concessie; niettemin wordt dit recht niet uitgeoefend wanneer de VERDRAGSLUITENDE PARTIJEN, indien het een maatregel betreft getroffen door een verdragsluitende partij die binnen de werkingssfeer van lid 4 (a) valt, hebben vastgesteld, dat de aangeboden compensatie voldoende is.  *Lid 19*  Het is de bedoeling dat het in lid 19 bepaalde van toepassing is in gevallen waarin een industrie reeds langer dan de „redelijke tijd” genoemd in de aantekening bij de leden 13 en 14 bestaat; dit moet niet zodanig worden uitgelegd, dat het een verdragsluitende partij die binnen de werkingssfeer van lid 4 (a) van artikel XVIII valt, het recht ontneemt met betrekking tot een nieuw opgerichte industrie gebruik te maken van de andere bepalingen van sectie C, daarbij inbegrepen lid 17, zelfs al heeft zij voordeel getrokken uit een aanvullende bescherming door beperkingen voor betalingsbalansdoeleinden.  *Lid 21*  Elke maatregel genomen overeenkomstig het bepaalde in lid 21 wordt onmiddellijk ingetrokken, indien de maatregel getroffen overeenkomstig lid 17 wordt ingetrokken of indien na afloop van de termijn van negentig dagen bedoeld in lid 17 de VERDRAGSLUITENDE PARTIJEN hun toestemming aan de voorgenomen maatregel vertenen. 
+2. Men rekent erop, dat de VERDRAGSLUITENDE PARTIJEN zich als regel zullen onthouden van het verlenen van toestemming tot een maatregel waarvan aangenomen kan worden, dat hij ernstig nadeel berokkent aan de export van een produkt waarvan de economie van een verdragsluitende partij grotendeels afhankelijk is.  *Leden 18 en 22* De zinsnede „dat de belangen van andere verdragsluitende partijen voldoende zijn gewaarborgd” heeft ten doel voldoende speelruimte te geven om in elk afzonderlijk geval te onderzoeken, welke de meest geëigende methode is om deze belangen te waarborgen. Deze methode kan bijvoorbeeld zijn het verlenen van een aanvullende concessie door de verdragsluitende partij die gebruik maakt van sectie C of D gedurende de periode waarin de afwijking van de andere artikelen van de Overeenkomst van kracht is, dan wel het tijdelijk opschorten door iedere andere in lid 18 bedoelde verdragsluitende partij van een concessie die ongeveer gelijkwaardig is aan de benadeling toegebracht door de instelling van de desbetreffende maatregel. Deze verdragsluitende partij heeft het recht haar belangen te waarborgen door een dergelijke tijdelijke opschorting van een concessie; niettemin wordt dit recht niet uitgeoefend wanneer de VERDRAGSLUITENDE PARTIJEN, indien het een maatregel betreft getroffen door een verdragsluitende partij die binnen de werkingssfeer van lid 4 (a) valt, hebben vastgesteld, dat de aangeboden compensatie voldoende is.*Lid 19* Het is de bedoeling dat het in lid 19 bepaalde van toepassing is in gevallen waarin een industrie reeds langer dan de „redelijke tijd” genoemd in de aantekening bij de leden 13 en 14 bestaat; dit moet niet zodanig worden uitgelegd, dat het een verdragsluitende partij die binnen de werkingssfeer van lid 4 (a) van artikel XVIII valt, het recht ontneemt met betrekking tot een nieuw opgerichte industrie gebruik te maken van de andere bepalingen van sectie C, daarbij inbegrepen lid 17, zelfs al heeft zij voordeel getrokken uit een aanvullende bescherming door beperkingen voor betalingsbalansdoeleinden.*Lid 21* Elke maatregel genomen overeenkomstig het bepaalde in lid 21 wordt onmiddellijk ingetrokken, indien de maatregel getroffen overeenkomstig lid 17 wordt ingetrokken of indien na afloop van de termijn van negentig dagen bedoeld in lid 17 de VERDRAGSLUITENDE PARTIJEN hun toestemming aan de voorgenomen maatregel verlenen.
 ###Ad artikel XX
 
-*Alinea (h)*  De uitzondering bedoeld in het gestelde onder (h) omvat elke goederenovereenkomst welke in overeenstemming is met de beginselen goedgekeurd door de Economische en Sociale Raad in zijn Resolutie 30 (IV) van 28 maart 1947. 
+*Alinea (h)*  De uitzondering bedoeld in het gestelde onder (h) omvat elke goederenovereenkomst welke in overeenstemming is met de beginselen goedgekeurd door de Economische en Sociale Raad in zijn Resolutie 30 (IV) van 28 maart 1947.
 ###Ad artikel XXIV
 
-*Lid 9*  Het is welverstaan, dat de bepalingen van artikel I vereisen dat, wanneer een produkt dat tegen een preferentieel recht is ingevoerd binnen het gebied van een lid van een douane-unie of een vrijhandelsgebied, weer wordt uitgevoerd naar het gebied van een ander lid van deze unie of dat gebied, laatstgenoemd lid een invoerrecht dient te heffen dat gelijk is aan het verschil tussen het reeds betaalde invoerrecht en een eventueel hoger recht dat verschuldigd zou zijn indien het produkt regelrecht in zijn gebied was geïmporteerd.  *Lid 11*  Wanneer definitieve handelsovereenkomsten tussen India en Pakistan tot stand zijn gekomen, kunnen de door deze landen genomen maatregelen ter uitvoering van bedoelde overeenkomsten van sommige bepalingen van deze Overeenkomst afwijken; deze maatregelen mogen echter over het geheel genomen niet strijdig zijn met de doelstellingen van deze Overeenkomst. 
+*Lid 9* Het is welverstaan, dat de bepalingen van artikel I vereisen dat, wanneer een produkt dat tegen een preferentieel recht is ingevoerd binnen het gebied van een lid van een douane-unie of een vrijhandelsgebied, weer wordt uitgevoerd naar het gebied van een ander lid van deze unie of dat gebied, laatstgenoemd lid een invoerrecht dient te heffen dat gelijk is aan het verschil tussen het reeds betaalde invoerrecht en een eventueel hoger recht dat verschuldigd zou zijn indien het produkt regelrecht in zijn gebied was geïmporteerd.*Lid 11* Wanneer definitieve handelsovereenkomsten tussen India en Pakistan tot stand zijn gekomen, kunnen de door deze landen genomen maatregelen ter uitvoering van bedoelde overeenkomsten van sommige bepalingen van deze Overeenkomst afwijken; deze maatregelen mogen echter over het geheel genomen niet strijdig zijn met de doelstellingen van deze Overeenkomst.
 ###Ad artikel XXVIII
 
-De VERDRAGSLUITENDE PARTIJEN en elke betrokken verdragsluitende partij dienen maatregelen te nemen, opdat de onderhandelingen en het overleg onder de grootst mogelijke geheimhouding worden gevoerd teneinde een voortijdige openbaarmaking van bijzonderheden over de voorgenomen tariefwijzigingen te voorkomen. De VERDRAGSLUITENDE PARTIJEN dienen terstond te worden ingelicht omtrent alle wijzigingen in het tarief (van invoerrechten) van een verdragsluitende partij voortvloeiende uit de gebruikmaking van dit artikel.  *Lid 1*  
+De VERDRAGSLUITENDE PARTIJEN en elke betrokken verdragsluitende partij dienen maatregelen te nemen, opdat de onderhandelingen en het overleg onder de grootst mogelijke geheimhouding worden gevoerd teneinde een voortijdige openbaarmaking van bijzonderheden over de voorgenomen tariefwijzigingen te voorkomen. De VERDRAGSLUITENDE PARTIJEN dienen terstond te worden ingelicht omtrent alle wijzigingen in het tarief (van invoerrechten) van een verdragsluitende partij voortvloeiende uit de gebruikmaking van dit artikel.*Lid 1*
 
 1. Indien de VERDRAGSLUITENDE PARTIJEN een andere dan een driejarige termijn vaststellen, kan een verdragsluitende partij op de eerste dag na die waarop deze termijn afloopt handelen volgens lid 1 of lid 3 van artikel XXVIII en duren de termijnen volgende op de aldus vastgestelde termijn drie jaar tenzij de VERDRAGSLUITENDE PARTIJEN opnieuw een bepaalde termijn hebben vastgesteld.  
 
@@ -2275,7 +2242,7 @@ De VERDRAGSLUITENDE PARTIJEN en elke betrokken verdragsluitende partij dienen ma
 
 6. Het is niet de bedoeling, dat de bepalingen inzake deelneming aan de onderhandelingen van een verdragsluitende partij die de voornaamste leverancier is en inzake overleg met een verdragsluitende partij die een aanmerkelijk belang heeft in de concessie welke de verzoekende verdragsluitende partij tracht te wijzigen of in te trekken, tot resultaat hebben laatstgenoemde verdragsluitende partij te verplichten een compensatie te geven of een vergeldingsmaatregel te doen ondergaan die zwaarder drukt dan de voorgenomen intrekking of wijziging, een en ander beschouwd in het licht van de situatie in de handel ten tijde van de voorgenomen intrekking of wijziging, rekening houdende met de door de verzoekende verdragsluitende partij in stand gehouden discriminatoire kwantitatieve beperkingen.  
 
-7. De uitdrukking „aanmerkelijk belang” leent zich niet tot een nauwkeurige definitie en kan derhalve moeilijkheden voor de VERDRAGSLUITENDE PARTIJEN opleveren. Deze uitdrukking dient evenwel zo te worden uitgelegd, dat zij slechts betrekking heeft op die verdragsluitende partijen die een aanzienlijk aandeel hebben in de handel van de verdragsluitende partij die de concessie tracht te wijzigen of in te trekken of waarvan redelijkerwijze kan worden aangenomen, dat zij er een dergelijk aandeel in hebben, namelijk in geval van afwezigheid van discriminatoire kwantitatieve beperkingen die hun export aantasten.  *Lid 4*  
+7. De uitdrukking „aanmerkelijk belang” leent zich niet tot een nauwkeurige definitie en kan derhalve moeilijkheden voor de VERDRAGSLUITENDE PARTIJEN opleveren. Deze uitdrukking dient evenwel zo te worden uitgelegd, dat zij slechts betrekking heeft op die verdragsluitende partijen die een aanzienlijk aandeel hebben in de handel van de verdragsluitende partij die de concessie tracht te wijzigen of in te trekken of waarvan redelijkerwijze kan worden aangenomen, dat zij er een dergelijk aandeel in hebben, namelijk in geval van afwezigheid van discriminatoire kwantitatieve beperkingen die hun export aantasten. *Lid 4*
 
 1. Elk verzoek tot machtiging om in onderhandeling te treden wordt vergezeld van alle noodzakelijke statistische en andere gegevens. Een beslissing op zulk een verzoek dient binnen dertig dagen na indiening te worden genomen.  
 
@@ -2288,16 +2255,16 @@ De VERDRAGSLUITENDE PARTIJEN en elke betrokken verdragsluitende partij dienen ma
 5. Het is welverstaan, dat de VERDRAGSLUITENDE PARTIJEN bij hun beslissing krachtens lid 4 (d) omtrent de vraag of een verzoekende verdragsluitende partij niet alle pogingen die redelijkerwijze mogelijk zijn in het werk heeft gesteld om een voldoende compensatie te geven, terdege rekening houden met de bijzondere positie van een verdragsluitende partij die een groot deel van zijn tarief op zeer lage rechten heeft gebonden en die mitsdien minder gelegenheid heeft om compensatie te geven dan andere verdragsluitende partijen. 
 ###Ad artikel XXVIIIbis
 
-*Lid 3*  Het is welverstaan, dat de verwijzing naar de fiscale behoeften met name betrekking heeft op het fiscale aspect van de invoerrechten en in het bijzonder op de rechten die in eerste instantie worden geheven uit belastingoogpunt of op rechten die worden geheven van produkten die in de plaats kunnen worden gesteld van produkten die aan dergelijke fiscale rechten onderworpen zijn, zulks teneinde ontduiking van deze rechten te voorkomen. 
+*Lid 3*Het is welverstaan, dat de verwijzing naar de fiscale behoeften met name betrekking heeft op het fiscale aspect van de invoerrechten en in het bijzonder op de rechten die in eerste instantie worden geheven uit belastingoogpunt of op rechten die worden geheven van produkten die in de plaats kunnen worden gesteld van produkten die aan dergelijke fiscale rechten onderworpen zijn, zulks teneinde ontduiking van deze rechten te voorkomen.
 ###Ad artikel XXIX
 
-*Lid 1*  De Hoofdstukken VII en VIII van het Handvest van Havana zijn niet in lid 1 opgenomen, aangezien zij over het algemeen handelen over de organisatie, de functies en de procedures van de Internationale Handelsorganisatie.     
+*Lid 1* De Hoofdstukken VII en VIII van het Handvest van Havana zijn niet in lid 1 opgenomen, aangezien zij over het algemeen handelen over de organisatie, de functies en de procedures van de Internationale Handelsorganisatie.  
 ###Ad DEEL IV
 
-Onder de uitdrukking „ontwikkelde verdragsluitende partijen” en de uitdrukking „minder ontwikkelde verdragsluitende partijen” als gebezigd in Deel IV wordt verstaan, ontwikkelde en minder ontwikkelde landen die partij zijn bij de Algemene Overeenkomst betreffende Tarieven en Handel. 
+Onder de uitdrukking „ontwikkelde verdragsluitende partijen” en de uitdrukking „minder ontwikkelde verdragsluitende partijen” als gebezigd in Deel IV wordt verstaan, ontwikkelde en minder ontwikkelde landen die partij zijn bij de Algemene Overeenkomst betreffende Tarieven en Handel.
 ###Ad artikel XXXVI
 
-*Lid 1*  Dit artikel is gebaseerd op de doelstellingen neergelegd in artikel I, zoals dit zal worden gewijzigd, na inwerkingtreding van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX, ingevolge sectie A van lid 1 van dit Protocol.  *Lid 4*  De uitdrukking „basisprodukten” omvat mede landbouwprodukten; zie het gestelde onder 2 in de aantekening ad artikel XVI, sectie B.  *Lid 5*  Een programma ter verlening van een bredere basis aan de economische structuur van de minder ontwikkelde verdragsluitende partijen zal over het algemeen mede omvatten een intensivering van de activiteiten voor de verwerking van basisprodukten, alsmede uitbreiding van de industrieën voor eindprodukten, een en ander in verband met de in de betrokken verdragsluitende partij heersende omstandigheden en de vooruitzichten in de wereld voor de produktie en het verbruik van de verschillende produkten.  *Lid 8*  Met de zinsnede „verwachten geen wederkerige behandeling” wordt overeenkomstig de in dit artikel neergelegde doelstellingen verstaan dat van de minder ontwikkelde verdragsluitende partijen niet verwacht mag worden dat zij bij de handelsbesprekingen een bijdrage zullen leveren, die onverenigbaar is met de behoeften van hun ontwikkeling, hun financiën en hun handelsverkeer, zulks in verband met de vroegere ontwikkelingen van het handelsverkeer. Dit lid is van toepassing bij maatregelen, genomen krachtens sectie A van artikel XVIII, artikel XXVIII, artikel XXVIII bis (welk laatste artikel artikel XXIX wordt nadat de wijziging ingevolge sectie A van paragraaf 1 van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX van kracht is geworden), artikel XXXIII of ingevolge iedere andere op grond van deze Overeenkomst vastgestelde procedure. 
+*Lid 1*Dit artikel is gebaseerd op de doelstellingen neergelegd in artikel I, zoals dit zal worden gewijzigd, na inwerkingtreding van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX, ingevolge sectie A van lid 1 van dit Protocol.*Lid 4*De uitdrukking „basisprodukten” omvat mede landbouwprodukten; zie het gestelde onder 2 in de aantekening ad artikel XVI, sectie B.*Lid 5*Een programma ter verlening van een bredere basis aan de economische structuur van de minder ontwikkelde verdragsluitende partijen zal over het algemeen mede omvatten een intensivering van de activiteiten voor de verwerking van basisprodukten, alsmede uitbreiding van de industrieën voor eindprodukten, een en ander in verband met de in de betrokken verdragsluitende partij heersende omstandigheden en de vooruitzichten in de wereld voor de produktie en het verbruik van de verschillende produkten.*Lid 8*Met de zinsnede „verwachten geen wederkerige behandeling” wordt overeenkomstig de in dit artikel neergelegde doelstellingen verstaan dat van de minder ontwikkelde verdragsluitende partijen niet verwacht mag worden dat zij bij de handelsbesprekingen een bijdrage zullen leveren, die onverenigbaar is met de behoeften van hun ontwikkeling, hun financiën en hun handelsverkeer, zulks in verband met de vroegere ontwikkelingen van het handelsverkeer. Dit lid is van toepassing bij maatregelen, genomen krachtens sectie A van artikel XVIII, artikel XXVIII, artikel XXVIII bis (welk laatste artikel artikel XXIX wordt nadat de wijziging ingevolge sectie A van paragraaf 1 van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX van kracht is geworden), artikel XXXIII of ingevolge iedere andere op grond van deze Overeenkomst vastgestelde procedure.
 ###Ad artikel XXXVII
 
-*Lid 1(a)*  Dit lid is van toepassing bij onderhandelingen voor de verlaging of de afschaffing van douanerechten of andere beperkende bepalingen op het gebied van de handel op grond van de artikelen XXVIII, XXVIII bis (welk laatste artikel artikel XXIX wordt nadat de wijziging ingevolge sectie A van paragraaf 1 van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX van kracht is geworden) en artikel XXXIII, alsmede als gevolg van ieder ander optreden van de verdragsluitende partijen, teneinde een dergelijke verlaging of afschaffing tot stand te brengen.  *Lid 3(b)*  De in dit lid bedoelde andere maatregelen kunnen concrete bepalingen bevatten ter bevordering van wijzigingen in de binnenlandse structuur, ter stimulering van het verbruik van bijzondere produkten of ter invoering van maatregelen ter bevordering van de handel.   
+*Lid 1(a)*Dit lid is van toepassing bij onderhandelingen voor de verlaging of de afschaffing van douanerechten of andere beperkende bepalingen op het gebied van de handel op grond van de artikelen XXVIII, XXVIII bis (welk laatste artikel artikel XXIX wordt nadat de wijziging ingevolge sectie A van paragraaf 1 van het Protocol tot wijziging van Deel I en de artikelen XXIX en XXX van kracht is geworden) en artikel XXXIII, alsmede als gevolg van ieder ander optreden van de verdragsluitende partijen, teneinde een dergelijke verlaging of afschaffing tot stand te brengen.*Lid 3(b)*De in dit lid bedoelde andere maatregelen kunnen concrete bepalingen bevatten ter bevordering van wijzigingen in de binnenlandse structuur, ter stimulering van het verbruik van bijzondere produkten of ter invoering van maatregelen ter bevordering van de handel.
