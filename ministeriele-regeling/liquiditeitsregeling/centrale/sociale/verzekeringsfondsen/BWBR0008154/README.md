@@ -4,11 +4,11 @@
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, de Minister van Financiën en de Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 71, Organisatiewet sociale verzekeringen, artikel 106a, Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) en [artikel 41, Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
-Voor de toepassing van deze regeling wordt verstaan onder:   a. de Lisv-cluster:  het Algemeen Arbeidsongeschiktheidsfonds, genoemd in [artikel 34 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md); het Algemeen Werkloosheidsfonds, genoemd in [artikel 103 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), het Uitvoeringsfonds voor de overheid, genoemd in [artikel 104 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het Arbeidsongeschiktheidsfonds, genoemd in [artikel 72 van de Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);    b. de SVb-cluster:  het Ouderdomsfonds en het Nabestaandenfonds, genoemd in [artikel 28 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md);    c. de Zfr-cluster:  het Algemeen Fonds Bijzondere Ziektekosten, genoemd in [artikel 38 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md) en de Algemene Kas, genoemd in [artikel 71 van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md);    d. centrale sociale verzekeringsfondsen:  de fondsen, genoemd in de in onderdeel a,b, en c genoemde clusters;    e. lening:  een lening als bedoeld in artikel 67, zesde lid, Organisatiewet sociale verzekeringen 1997.     
+Voor de toepassing van deze regeling wordt verstaan onder: a.  de Lisv-cluster:  het Algemeen Arbeidsongeschiktheidsfonds, genoemd in [artikel 34 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md); het Algemeen Werkloosheidsfonds, genoemd in [artikel 103 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), het Uitvoeringsfonds voor de overheid, genoemd in [artikel 104 van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en het Arbeidsongeschiktheidsfonds, genoemd in [artikel 72 van de Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  b.  de SVb-cluster:   het Ouderdomsfonds en het Nabestaandenfonds, genoemd in [artikel 28 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md);  c.  de Zfr-cluster:   het Algemeen Fonds Bijzondere Ziektekosten, genoemd in [artikel 38 van de Wet financiering volksverzekeringen](../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md) en de Algemene Kas, genoemd in [artikel 71 van de Ziekenfondswet](../../../../../../wet/ziekenfondswet/BWBR0002460/README.md);  d.  centrale sociale verzekeringsfondsen:   de fondsen, genoemd in de in onderdeel a,b, en c genoemde clusters;  e.  lening:   een lening als bedoeld in artikel 67, zesde lid, Organisatiewet sociale verzekeringen 1997.    
 
 ### Artikel  2  
 
@@ -25,9 +25,9 @@ Na ontvangst van de in artikel 9 bedoelde bescheiden stellen de bij de betreffen
 
 1.  De omvang van de in een kalenderjaar maximaal toelaatbare lening, bedoeld in artikel 3, is voor de centrale sociale verzekeringsfondsen gezamenlijk gelijk aan de som van de volgende twee factoren: 
 
-a. 50% van de som van de in het kalenderjaar te verwachten maximale tekorten aan liquide middelen van respectievelijk de Lisv-, SVb- en Zfr-cluster;  
+a.  50% van de som van de in het kalenderjaar te verwachten maximale tekorten aan liquide middelen van respectievelijk de Lisv-, SVb- en Zfr-cluster; 
 
-b. 50% van het in het kalenderjaar verwachte maximale tekort aan liquide middelen van de centrale sociale verzekeringsfondsen gezamenlijk.     
+b.  50% van het in het kalenderjaar verwachte maximale tekort aan liquide middelen van de centrale sociale verzekeringsfondsen gezamenlijk.    
 2.  De omvang van de voor de Lisv-, SVb- en Zfr-cluster gedurende het kalenderjaar verwachte maximale en gemiddelde tekorten aan liquide middelen wordt bepaald aan de hand van de voor de desbetreffende cluster behorende fondsen te verwachten middelenstanden per ultimo van iedere kalendermaand.   
 3.  De voor de centrale sociale verzekeringsfondsen gezamenlijk vastgestelde omvang van het maximaal toelaatbare voorschot wordt naar rato van de maximale tekorten aan liquide middelen van respectievelijk de Lisv-, SVb- en Zfr-cluster aan de betreffende cluster toegekend.   
 4.  Het gemiddeld toelaatbare bedrag voor een lening, bedoeld in artikel 3, wordt voor de Lisv-, SVb- en Zfr-cluster vastgesteld op en percentage van het maximaal toelaatbare voorschot aan deze clusters. Dit percentage is gelijk aan de verhouding tussen de gemiddeld en maximaal per kalenderjaar voor iedere cluster verwachte tekorten aan liquide middelen.   
@@ -67,19 +67,19 @@ Het besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, de Min
 
 ### Artikel  12  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ’s-Gravenhage 
 3 juli 1996    
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid,
-F.H.G. deGrave. 
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+F.H.G. de Grave  . 
 
 De 
 Minister van Financiën, 
-G.Zalm. 
+G.Zalm . 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers.    
+E.Borst-Eilers .    
