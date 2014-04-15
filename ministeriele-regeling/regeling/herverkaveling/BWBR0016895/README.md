@@ -37,7 +37,7 @@ k. particuliere terreinbeherende natuurbeschermingsorganisaties: organisaties al
 
 l. landbouwgrond: landbouwgrond als bedoeld in [artikel 1 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md);  
 
-m. LAC-signaalwaarde: waarde zoals vastgesteld door de Landbouw Advies Commissie Milieukritische Stoffen in het in december 1991 uitgebrachte rapport LAC-signaalwaarden van de werkgroep verontreinigde gronden van de Landbouw Advies Commissie Milieukritische Stoffen.    
+m. LAC-signaalwaarde: waarde zoals vastgesteld door de Landbouw Advies Commissie Milieukritische Stoffen in het in december 1991 uitgebrachte rapport LAC-signaalwaarden van de werkgroep verontreinigde gronden van de Landbouw Advies Commissie Milieukritische Stoffen.   
 
 ### Hoofdstuk  2  
 
@@ -52,11 +52,11 @@ a. aard, dikte en structuur van de bovengrond;
 b. aard en structuur van de ondergrond;  
 
 c. eventuele andere factoren, die het natuurlijk voortbrengend vermogen van de grond bepalen.     
-2.  De agrarische waarde wordt per klasse bepaald in punten of geld.   
+2.  De agrarische waarde wordt per klasse bepaald in punten of geld.  
 
 ### Artikel  3  
 
-Waardeveranderingen als bedoeld in de [artikelen 49](../../../../wet/landinrichtingswet/BWBR0003793/README.md), [71](../../../../wet/landinrichtingswet/BWBR0003793/README.md) en [117 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) worden bij de tweede schatting bepaald.  
+Waardeveranderingen als bedoeld in de [artikelen 49](../../../../wet/landinrichtingswet/BWBR0003793/README.md), [71](../../../../wet/landinrichtingswet/BWBR0003793/README.md) en [117 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) worden bij de tweede schatting bepaald. 
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ De toestand van de grond wordt bij de eerste en de tweede schatting in kwaliteit
 
 a. de ontsluiting van huiskavels, bedrijfskavels of veldkavels, en  
 
-b. de waterhuishoudkundige toestand van kavels.    
+b. de waterhuishoudkundige toestand van kavels.   
 
 ### Artikel  5  
 
@@ -78,15 +78,15 @@ c. het aantal kavels per bedrijf;
 
 d. de grootte van de kavels, en  
 
-e. de vorm van de kavels.    
+e. de vorm van de kavels.   
 
 ### Artikel  6  
 
-De minister stelt per blok nadere regels vast voor het stelsel van classificatie overeenkomstig het model dat is opgenomen als bijlage 1 bij deze regeling. Deze nadere regels per blok worden als bijlage bij deze regeling opgenomen.  
+De minister stelt per blok nadere regels vast voor het stelsel van classificatie overeenkomstig het model dat is opgenomen als bijlage 1 bij deze regeling. Deze nadere regels per blok worden als bijlage bij deze regeling opgenomen. 
 
 ### Artikel  7  
 
-Dit hoofdstuk is van overeenkomstige toepassing op een stelsel van classificatie als bedoeld in [artikel 33, eerste lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md).  
+Dit hoofdstuk is van overeenkomstige toepassing op een stelsel van classificatie als bedoeld in [artikel 33, eerste lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md). 
 
 ### Hoofdstuk  3  
 
@@ -98,15 +98,15 @@ Dit hoofdstuk is van overeenkomstige toepassing op een stelsel van classificatie
 
 ### Artikel  8  
 
-Gronden die ingevolge een vastgesteld bestemmingsplan of een ontwerpbestemmingsplan een bestemming hebben of krijgen die overeenkomt met de functie van landbouw, natuur, bos of landschap zijn uitruilbaar, voor zover [artikel 10 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) niet anders bepaalt.  
+Gronden die ingevolge een vastgesteld bestemmingsplan of een ontwerpbestemmingsplan een bestemming hebben of krijgen die overeenkomt met de functie van landbouw, natuur, bos of landschap zijn uitruilbaar, voor zover [artikel 10 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) niet anders bepaalt. 
 
 ### Artikel  9  
 
-Gronden waarop zich een weg met een openbaar karakter bevindt, die op grond van het landinrichtingsplan het openbare karakter verliest, zijn uitruilbaar.  
+Gronden waarop zich een weg met een openbaar karakter bevindt, die op grond van het landinrichtingsplan het openbare karakter verliest, zijn uitruilbaar. 
 
 ### Artikel  10  
 
-Wanneer de openbare functie van een waterloop volgens het landinrichtingsplan vervalt, zijn de gronden waarop deze waterloop zich bevindt uitruilbaar.  
+Wanneer de openbare functie van een waterloop volgens het landinrichtingsplan vervalt, zijn de gronden waarop deze waterloop zich bevindt uitruilbaar. 
 
 ### Artikel  11  
 
@@ -115,7 +115,7 @@ Wanneer de openbare functie van een waterloop volgens het landinrichtingsplan ve
 
 a. ruil met landbouwgronden die door bureau beheer landbouwgronden zijn verworven ten behoeve van de veiligstelling, aanleg of ontwikkeling van bos of natuurterreinen;  
 
-b. ruil met overige landbouwgronden.     
+b. ruil met overige landbouwgronden.    
 
 ### Artikel  12  
 
@@ -124,7 +124,7 @@ b. ruil met overige landbouwgronden.
 
 a. ruil met landbouwgronden waarvoor een eigenaar of pachter bereid is een aanvraag in te dienen voor subsidieverlening ingevolge de [Subsidieregeling agrarisch natuurbeheer](../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md);  
 
-b. ruil met overige landbouwgronden.     
+b. ruil met overige landbouwgronden.    
 
 ### Artikel  13  
 
@@ -136,7 +136,7 @@ a. ruil met landbouwgronden die door bureau beheer landbouwgronden zijn verworve
 
 b. ruil met landbouwgronden die door particuliere terreinbeherende natuurbeschermingsorganisaties zijn verworven ten behoeve van de veiligstelling, aanleg of ontwikkeling van bos of natuurterreinen;  
 
-c. ruil met landbouwgronden waarvoor een eigenaar een overeenkomst tot ontwikkeling of instandhouding van bos of natuur is aangegaan met een verplichting als bedoeld in [artikel 252 van boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ten behoeve van de Staat der Nederlanden of bureau beheer landbouwgronden.     
+c. ruil met landbouwgronden waarvoor een eigenaar een overeenkomst tot ontwikkeling of instandhouding van bos of natuur is aangegaan met een verplichting als bedoeld in [artikel 252 van boek 6 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ten behoeve van de Staat der Nederlanden of bureau beheer landbouwgronden.    
 
 ### Artikel  14  
 
@@ -147,7 +147,7 @@ c. ruil met landbouwgronden waarvoor een eigenaar een overeenkomst tot ontwikkel
 a. het geval van ernstige verontreiniging op grond van [artikel 38, eerste lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voldoende is gesaneerd en geen LAC-signaalwaarden worden overschreden; of,  
 
 b. er met betrekking tot het geval van ernstige verontreiniging op grond van [artikel 38, derde lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voldoende maatregelen zijn genomen en geen LAC-signaalwaarden worden overschreden.     
-4.  Indien het bevoegd gezag in de zin van de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) een beslissing heeft genomen als bedoeld in het derde lid, onderdeel b, kan de landinrichtingscommissie besluiten de gronden niet te ruilen, indien de gronden als gevolg van het geval van verontreiniging, bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), niet voldoen voor een redelijkerwijs vast te stellen gebruiksbestemming.   
+4.  Indien het bevoegd gezag in de zin van de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) een beslissing heeft genomen als bedoeld in het derde lid, onderdeel b, kan de landinrichtingscommissie besluiten de gronden niet te ruilen, indien de gronden als gevolg van het geval van verontreiniging, bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), niet voldoen voor een redelijkerwijs vast te stellen gebruiksbestemming.  
 
 ### Artikel  15  
 
@@ -161,7 +161,7 @@ c. gronden waarop zich spoorwegen bevinden;
 
 d. gronden met een houtopstand die groter is dan 10 are of waarvoor een herbeplantingsplicht als bedoeld in [artikel 3, eerste lid, van de Boswet](../../../../wet/boswet/BWBR0002357/README.md) geldt;  
 
-e. boomgaarden en andere gronden met meerjarige gewassen.    
+e. boomgaarden en andere gronden met meerjarige gewassen.   
 
 ### Paragraaf  2  
 
@@ -178,11 +178,11 @@ b. toedeling gericht op een zo groot mogelijke concentratie van kavels bij de hu
 
 c. toedeling gericht op een zo gering mogelijke afstand tussen de bedrijfsgebouwen en de kavels;  
 
-d. toedeling gericht op een zo gering mogelijke afstand tussen het woonhuis en de kavels.     
+d. toedeling gericht op een zo gering mogelijke afstand tussen het woonhuis en de kavels.    
 
 ### Artikel  17  
 
-De samenvoeging van kavels die ten dienste staan van één gebruiker vindt niet plaats, indien dit leidt tot een mate van versnippering van het eigendom van grond, die in redelijkheid niet van de betrokken eigenaar kan worden gevergd.  
+De samenvoeging van kavels die ten dienste staan van één gebruiker vindt niet plaats, indien dit leidt tot een mate van versnippering van het eigendom van grond, die in redelijkheid niet van de betrokken eigenaar kan worden gevergd. 
 
 ### Artikel  18  
 
@@ -190,12 +190,12 @@ De grens van een huis- of bedrijfskavel kan bij toedeling slechts na overeenstem
 
 a. het gebouw op die kavel niet meer in gebruik is of zich niet in de nabijheid van de kavelgrens bevindt, of  
 
-b. het begrenzingenplan hiertoe noodzaakt.    
+b. het begrenzingenplan hiertoe noodzaakt.   
 
 ### Artikel  19  
 
 1.  De landinrichtingscommissie handhaaft beperkte rechten als bedoeld in [artikel 150, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) indien het belang van de landinrichting zich daar niet tegen verzet.   
-2.  De landinrichtingscommissie handhaaft of vestigt erfdienstbaarheden indien niet door herverkaveling of uitvoering van werken aan de behoefte waarin deze rechten voorzien is tegemoet gekomen.   
+2.  De landinrichtingscommissie handhaaft of vestigt erfdienstbaarheden indien niet door herverkaveling of uitvoering van werken aan de behoefte waarin deze rechten voorzien is tegemoet gekomen.  
 
 ### Paragraaf  3  
 
@@ -203,11 +203,11 @@ b. het begrenzingenplan hiertoe noodzaakt.
 
 ### Artikel  20  
 
-De gemiddelde schattingswaarde per hectare van aan een eigenaar of pachter toe te delen grond wijkt maximaal twee schattingsklassen af van de gemiddelde schattingswaarde per hectare van de door die eigenaar of pachter ingebrachte grond.  
+De gemiddelde schattingswaarde per hectare van aan een eigenaar of pachter toe te delen grond wijkt maximaal twee schattingsklassen af van de gemiddelde schattingswaarde per hectare van de door die eigenaar of pachter ingebrachte grond. 
 
 ### Artikel  21  
 
-Van de artikelen 8 tot en met 20 kan worden afgeweken indien dit een doelmatige herverkaveling of realisatie van de doeleinden van het landinrichtingsplan bevordert en de minister hiermee instemt.  
+Van de artikelen 8 tot en met 20 kan worden afgeweken indien dit een doelmatige herverkaveling of realisatie van de doeleinden van het landinrichtingsplan bevordert en de minister hiermee instemt. 
 
 ### Hoofdstuk  4  
 
@@ -215,7 +215,7 @@ Van de artikelen 8 tot en met 20 kan worden afgeweken indien dit een doelmatige 
 
 ### Artikel  22  
 
-De minister stelt, gehoord de landinrichtingscommissie, de waardering van de objectieve en subjectieve factoren vast ten einde de kosten, bedoeld in [artikel 223, eerste lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te berekenen.  
+De minister stelt, gehoord de landinrichtingscommissie, de waardering van de objectieve en subjectieve factoren vast ten einde de kosten, bedoeld in [artikel 223, eerste lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te berekenen. 
 
 ### Artikel  23  
 
@@ -231,19 +231,19 @@ c. de vestiging van beperkte rechten, bedoeld in [artikel 160, tweede lid, van d
 d. andere dan agrarische waarden;  
 
 e. het verhaal van kosten in verband met een geval van verontreiniging als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md).     
-3.  De waarde van gebouwen, werken, beplantingen en houtopstanden wordt niet dan bij de tweede schatting bepaald en slechts voor zover voornoemde objecten door het plan van toedeling van eigenaar veranderen en hierover geen regeling is getroffen tussen de oude en de nieuwe eigenaar.   
+3.  De waarde van gebouwen, werken, beplantingen en houtopstanden wordt niet dan bij de tweede schatting bepaald en slechts voor zover voornoemde objecten door het plan van toedeling van eigenaar veranderen en hierover geen regeling is getroffen tussen de oude en de nieuwe eigenaar.  
 
 ### Artikel  24  
 
-De minister stelt, gehoord de landinrichtingscommissie, de hoogte van de verrekenposten vast op basis van de waarde in het maatschappelijk verkeer.  
+De minister stelt, gehoord de landinrichtingscommissie, de hoogte van de verrekenposten vast op basis van de waarde in het maatschappelijk verkeer. 
 
-### Artikel  25  
+###Artikel 25 
 
-De minister stelt per blok nadere regels vast voor de tweede schatting overeenkomstig het model dat is opgenomen als bijlage 2 bij deze regeling. Deze nadere regels per blok worden als bijlage bij deze regeling opgenomen.  
+De minister stelt per blok nadere regels vast voor de tweede schatting overeenkomstig het model dat is opgenomen als bijlage 2 bij deze regeling. Deze nadere regels per blok worden als bijlage bij deze regeling opgenomen.
 
 ### Artikel  26  
 
-Dit hoofdstuk is van overeenkomstige toepassing op een schatting als bedoeld in de [artikelen 92, tweede lid, van de Reconstructiewet Midden-Delfland](../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md) en [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md).  
+Dit hoofdstuk is van overeenkomstige toepassing op een schatting als bedoeld in de [artikelen 92, tweede lid, van de Reconstructiewet Midden-Delfland](../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md) en [107, tweede lid, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md). 
 
 ### Hoofdstuk  5  
 
@@ -251,32 +251,32 @@ Dit hoofdstuk is van overeenkomstige toepassing op een schatting als bedoeld in 
 
 ### Artikel  27  
 
-De minister kan voor een blok nadere regels vaststellen in afwijking van artikel 25, ingeval de Centrale Landinrichtingscommissie, bedoeld in [artikel 7 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) zoals die luidde onmiddellijk voorafgaand aan de inwerkingtreding van de [Wet van 22 april 2004 tot wijziging van de Landinrichtingswet en enige andere inrichtingswetten](../../../../wet/wijzigingswet/landinrichtingswet/enz./(positie/van/de/centrale/etc/BWBR0016636/README.md) (positie van de Centrale Landinrichtingscommissie; Stb. 223), vóór 11 februari 2003 een stelsel van classificatie heeft vastgesteld dat voor het desbetreffende blok voorziet in een andere waardering van de objectieve en subjectieve factoren dan die overeenkomstig het model dat is opgenomen in bijlage 2 bij deze regeling.  
+De minister kan voor een blok nadere regels vaststellen in afwijking van artikel 25, ingeval de Centrale Landinrichtingscommissie, bedoeld in [artikel 7 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md) zoals die luidde onmiddellijk voorafgaand aan de inwerkingtreding van de [Wet van 22 april 2004 tot wijziging van de Landinrichtingswet en enige andere inrichtingswetten](../../../../wet/wijzigingswet/landinrichtingswet/enz./(positie/van/de/centrale/etc/BWBR0016636/README.md) (positie van de Centrale Landinrichtingscommissie; Stb. 223), vóór 11 februari 2003 een stelsel van classificatie heeft vastgesteld dat voor het desbetreffende blok voorziet in een andere waardering van de objectieve en subjectieve factoren dan die overeenkomstig het model dat is opgenomen in bijlage 2 bij deze regeling. 
 
 ### Artikel  27a  
 
-Deze regeling berust mede op [artikel 97 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) en op [artikel 95 van de Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md).  
+Deze regeling berust mede op [artikel 97 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) en op [artikel 95 van de Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md).
 
 ### Artikel  28  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  29  
 
-Deze regeling wordt aangehaald als: Regeling herverkaveling.  
+Deze regeling wordt aangehaald als: Regeling herverkaveling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit
-C.P.Veerman   
+Minister van Landbouw, Natuur en Voedselkwaliteit 
+C.P. Veerman     
 
-### Bijlage  1  Model ten behoeve van de vaststelling van nadere regels per blok betreffende het stelsel van classificatie  
+### Bijlage 1  Model ten behoeve van de vaststelling van nadere regels per blok betreffende het stelsel van classificatie 
 
-### A  
+### A 
 
-####(De in het blok aanwezige onroerende zaken)
+####(De in het blok aanwezige onroerende zaken) 
 
-In het blok worden aangetroffen : <sup> *  op te nemen naar gelang de toestand van het blok.  </sup> 
+In het blok worden aangetroffen<sup>*op te nemen naar gelang de toestand van het blok.</sup>: 
 
 a. cultuurgronden in gebruik als bouwland, grasland, tuingrond, boomgaard en boomkwekerij;  
 
@@ -296,17 +296,17 @@ h. sport- en recreatieterreinen;
 
 i. gebouwen, werken en beplantingen;  
 
-j. overige, namelijk ..........    
+j. overige, namelijk ..........   
 
-### B  
+### B 
 
-####(De in het blok voorkomende gronden)
+####(De in het blok voorkomende gronden) 
 
-In het blok worden de volgende gronden aangetroffen: <sup> *  beknopte algemene beschrijving opnemen van de aard, de kenmerken, het gebruik en zo nodig de gesteldheid van de in het blok voorkomende gronden.  </sup>  
+In het blok worden de volgende gronden aangetroffen:<sup>*beknopte algemene beschrijving opnemen van de aard, de kenmerken, het gebruik en zo nodig de gesteldheid van de in het blok voorkomende gronden. </sup> 
 
-### C  
+### C 
 
-####(De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
+####(De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde) 
 
 Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat: 
 
@@ -332,27 +332,27 @@ h. spoorwegen en de daartoe behorende gronden op ........ per ha, als cultuurgro
 
 i. sport- en recreatieterreinen als aangrenzende grond of in de klasse ........ per ha, afhankelijk van de plaatselijke situatie;  
 
-j. overige, namelijk ..........    
+j. overige, namelijk ..........   
 
-### D  
+### D 
 
-####(Objectieve factoren)
+####(Objectieve factoren) 
 
-De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd : <sup> *  waardering in klassen die variëren van zeer goed tot slecht.  </sup> 
+De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd<sup>*waardering in klassen die variëren van zeer goed tot slecht. </sup>: 
 
 a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in ........ klassen van respectievelijk ........, ........, en ........;  
 
 b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in ........ klassen van respectievelijk ........, ........, en ........;  
 
-c. De waterhuishoudkundige toestand van de kavels in ........ klassen van respectievelijk ........, ........, en ........    
+c. De waterhuishoudkundige toestand van de kavels in ........ klassen van respectievelijk ........, ........, en ........   
 
-### Bijlage  1a  
+### Bijlage  1a 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende het stelsel van classificatie voor de herinrichting ‘Schoonebeek’
 
-### A  
+###A 
 
 ####(De in het blok aanwezige onroerende zaken)
 
@@ -376,9 +376,9 @@ h. sport- en recreatieterreinen;
 
 i. gebouwen, werken en beplantingen;  
 
-j. overige, namelijk Gasunie-/NAM locaties en NAM wegen en industrieterreinen.    
+j. overige, namelijk Gasunie-/NAM locaties en NAM wegen en industrieterreinen.   
 
-### B  
+###B 
 
 ####(De in het blok voorkomende gronden)
 
@@ -388,9 +388,9 @@ a. veengronden;
 
 b. moerige gronden;  
 
-c. zandgronden.    
+c. zandgronden.   
 
-### C  
+###C 
 
 ####(De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
 
@@ -418,9 +418,9 @@ h. spoorwegen en de daartoe behorende gronden op € 0,– per ha, als cultuurg
 
 i. sport- en recreatieterreinen als aangrenzende grond;  
 
-j. Gasunie-/NAM locaties en NAM wegen en industrieterreinen als aangrenzende grond.    
+j. Gasunie-/NAM locaties en NAM wegen en industrieterreinen als aangrenzende grond.   
 
-### D  
+###D 
 
 ####(Objectieve factoren)
 
@@ -430,155 +430,155 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 k
 
 b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
 
-c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.    
+c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.   
 
-### Bijlage  1b  
+###Bijlage 1b 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende het stelsel van classificatie voor de ruilverkaveling Zuidwolde-Noord/Beneden Egge, blok West
 
-###A. (De in het blok aanwezige onroerende zaken)
+### A. (De in het blok aanwezige onroerende zaken) 
 
-In het blok worden aangetroffen: 
+In het blok worden aangetroffen:
 
-a. cultuurgronden in gebruik als grasland, bouwland, tuingrond, boomgaard en boomkwekerij;  
+a.cultuurgronden in gebruik als grasland, bouwland, tuingrond, boomgaard en boomkwekerij;
 
-b. erven en tuinen;  
+b.erven en tuinen;
 
-c. bosgronden, houtwallen, woeste gronden en onland;  
+c.bosgronden, houtwallen, woeste gronden en onland;
 
-d. wegen;  
+d.wegen;
 
-e. waterlopen, sloten en plassen;  
+e.waterlopen, sloten en plassen;
 
-f. dijken en kaden;  
+f.dijken en kaden;
 
-g. sport- en recreatieterreinen;  
+g.sport- en recreatieterreinen;
 
-h. gebouwen, werken en beplantingen;  
+h.gebouwen, werken en beplantingen;
 
-i. overige, namelijk Gasunie- en NAM-locaties en NAM-wegen.   
+i.overige, namelijk Gasunie- en NAM-locaties en NAM-wegen.
 ###B. (De in het blok voorkomende gronden)
 
-In het blok worden de volgende gronden aangetroffen: 
+In het blok worden de volgende gronden aangetroffen:
 
-a. zandgronden: beslaan ongeveer 65% van de aanwezige cultuurgronden. Zandgronden zijn minerale gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit zand bestaan. Ze bevatten geen moerige bovengrond of tussenlaag.  
+a.zandgronden: beslaan ongeveer 65% van de aanwezige cultuurgronden. Zandgronden zijn minerale gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit zand bestaan. Ze bevatten geen moerige bovengrond of tussenlaag.
 
-b. moerige gronden: beslaan ongeveer 25% van de aanwezige cultuurgronden. Moerige gronden zijn gronden met een moerige (venige) bovengrond of een moerige tussenlaag die binnen 40 cm beneden maaiveld begint en 10 tot 40 cm dik is.  
+b.moerige gronden: beslaan ongeveer 25% van de aanwezige cultuurgronden. Moerige gronden zijn gronden met een moerige (venige) bovengrond of een moerige tussenlaag die binnen 40 cm beneden maaiveld begint en 10 tot 40 cm dik is.
 
-c. veengronden: beslaan ongeveer 10% van de aanwezige cultuurgronden. Veengronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit moerig materiaal bestaan.  
+c.veengronden: beslaan ongeveer 10% van de aanwezige cultuurgronden. Veengronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit moerig materiaal bestaan.
 
-d. oude kleigronden (keileemgronden): beslaan nog geen 1% van de aanwezige cultuurgronden. Deze keileemgronden zijn nog voor het Holoceen ontstaan. Keileemgronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit keileem bestaan.   
+d.oude kleigronden (keileemgronden): beslaan nog geen 1% van de aanwezige cultuurgronden. Deze keileemgronden zijn nog voor het Holoceen ontstaan. Keileemgronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit keileem bestaan.
 ###C. (De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
 
-Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat: 
+Rekening houdend met het bepaalde in artikel 2van de regeling worden de gronden als volgt geschat:
 
-a. cultuurgronden in klassen van € 13.000,– tot en met € 21.000,– per ha, met intervallen van € 1.000,–, zonder rekening te houden met de cultuurtoestand;  
+a.cultuurgronden in klassen van € 13.000,– tot en met € 21.000,– per ha, met intervallen van € 1.000,–, zonder rekening te houden met de cultuurtoestand;
 
-b. erven en tuinen als aangrenzende grond;  
+b.erven en tuinen als aangrenzende grond;
 
-c. bosgronden, houtwallen, woeste gronden en onland op € 3.000,– per ha, met uitzondering van houtwallen smaller dan 1,5 meter, welke worden geschat als aangrenzende grond;  
+c.bosgronden, houtwallen, woeste gronden en onland op € 3.000,– per ha, met uitzondering van houtwallen smaller dan 1,5 meter, welke worden geschat als aangrenzende grond;
 
-d. wegen, wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– per ha. De overige wegen worden als cultuurgrond of onland geschat.  
+d.wegen, wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– per ha. De overige wegen worden als cultuurgrond of onland geschat.
 
-e. waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha;  
+e.waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha;
 
-f.  particuliere sloten 
+f. particuliere sloten
 
-– met een geringere bovenbreedte dan 12,0 meter als aangrenzende grond  
+–met een geringere bovenbreedte dan 12,0 meter als aangrenzende grond
 
-– breder dan 12,0 meter voor de gehele breedte op € 0,– per hectare;    
+–breder dan 12,0 meter voor de gehele breedte op € 0,– per hectare;
 
-g. dijken en kaden als cultuurgrond of onland;  
+g.dijken en kaden als cultuurgrond of onland;
 
-h. sport- en recreatieterreinen als aangrenzende grond;  
+h.sport- en recreatieterreinen als aangrenzende grond;
 
-i. overige, namelijk Gasunie- en NAM-locaties en NAM-wegen op € 0,– per hectare.   
+i.overige, namelijk Gasunie- en NAM-locaties en NAM-wegen op € 0,– per hectare.
 ###D. (Objectieve factoren)
 
-De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd: 
+De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;
 
-b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
+b.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;
 
-c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.   
+c.De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.
 
-### Bijlage  1c  
+###Bijlage 1c 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
-###Nadere regels per blok betreffende het stelsel van classificatie voor de ruilverkaveling Zuidwolde-Noord/Beneden Egge, blok Oost
+### Nadere regels per blok betreffende het stelsel van classificatie voor de ruilverkaveling Zuidwolde-Noord/Beneden Egge, blok Oost 
 
 ###A. (De in het blok aanwezige onroerende zaken)
 
-In het blok worden aangetroffen: 
+In het blok worden aangetroffen:
 
-a. cultuurgronden in gebruik als grasland, bouwland, tuingrond, boomgaard en boomkwekerij;  
+a.cultuurgronden in gebruik als grasland, bouwland, tuingrond, boomgaard en boomkwekerij;
 
-b. erven en tuinen;  
+b.erven en tuinen;
 
-c. bosgronden, houtwallen, woeste gronden en onland;  
+c.bosgronden, houtwallen, woeste gronden en onland;
 
-d. wegen;  
+d.wegen;
 
-e. waterlopen, sloten en plassen;  
+e.waterlopen, sloten en plassen;
 
-f. dijken en kaden;  
+f.dijken en kaden;
 
-g. sport- en recreatieterreinen;  
+g.sport- en recreatieterreinen;
 
-h. gebouwen, werken en beplantingen;  
+h.gebouwen, werken en beplantingen;
 
-i. overige, namelijk Gasunie- en NAM-locaties en NAM-wegen.   
+i.overige, namelijk Gasunie- en NAM-locaties en NAM-wegen.
 ###B. (De in het blok voorkomende gronden)
 
-In het blok worden de volgende gronden aangetroffen: 
+In het blok worden de volgende gronden aangetroffen:
 
-a. zandgronden: beslaan ongeveer 65% van de aanwezige cultuurgronden. Zandgronden zijn minerale gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit zand bestaan. Ze bevatten geen moerige bovengrond of tussenlaag.  
+a.zandgronden: beslaan ongeveer 65% van de aanwezige cultuurgronden. Zandgronden zijn minerale gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit zand bestaan. Ze bevatten geen moerige bovengrond of tussenlaag.
 
-b. moerige gronden: beslaan ongeveer 25% van de aanwezige cultuurgronden. Moerige gronden zijn gronden met een moerige (venige) bovengrond of een moerige tussenlaag die binnen 40 cm beneden maaiveld begint en 10 tot 40 cm dik is.  
+b.moerige gronden: beslaan ongeveer 25% van de aanwezige cultuurgronden. Moerige gronden zijn gronden met een moerige (venige) bovengrond of een moerige tussenlaag die binnen 40 cm beneden maaiveld begint en 10 tot 40 cm dik is.
 
-c. veengronden: beslaan ongeveer 10% van de aanwezige cultuurgronden. Veengronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit moerig materiaal bestaan.  
+c.veengronden: beslaan ongeveer 10% van de aanwezige cultuurgronden. Veengronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit moerig materiaal bestaan.
 
-d. oude kleigronden (keileemgronden): beslaan nog geen 1% van de aanwezige cultuurgronden. Deze keileemgronden zijn nog voor het Holoceen ontstaan. Keileemgronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit keileem bestaan.   
+d.oude kleigronden (keileemgronden): beslaan nog geen 1% van de aanwezige cultuurgronden. Deze keileemgronden zijn nog voor het Holoceen ontstaan. Keileemgronden zijn gronden die tussen 0 en 80 cm beneden maaiveld voor meer dan de helft van hun dikte uit keileem bestaan.
 ###C. (De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
 
-Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat: 
+Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat:
 
-a. cultuurgronden in klassen van € 13.000,– tot € 21.000,– per ha, met intervallen van € 1.000,–, zonder rekening te houden met de cultuurtoestand;  
+a.cultuurgronden in klassen van € 13.000,– tot € 21.000,– per ha, met intervallen van € 1.000,–, zonder rekening te houden met de cultuurtoestand;
 
-b. erven en tuinen als aangrenzende grond;  
+b.erven en tuinen als aangrenzende grond;
 
-c. bosgronden, houtwallen, woeste gronden en onland op € 3.000,– per ha, met uitzondering van houtwallen smaller dan 1,5 meter, welke worden geschat als aangrenzende grond;  
+c.bosgronden, houtwallen, woeste gronden en onland op € 3.000,– per ha, met uitzondering van houtwallen smaller dan 1,5 meter, welke worden geschat als aangrenzende grond;
 
-d. wegen, wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– per ha. De overige wegen worden als cultuurgrond of onland geschat.  
+d.wegen, wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– per ha. De overige wegen worden als cultuurgrond of onland geschat.
 
-e. waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha;  
+e.waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha;
 
-f. particuliere sloten 
+f.particuliere sloten
 
-– met een geringere bovenbreedte dan 12,0 meter als aangrenzende grond,  
+–met een geringere bovenbreedte dan 12,0 meter als aangrenzende grond,
 
-– breder dan 12,0 meter voor de gehele breedte op € 0,– per hectare;    
+–breder dan 12,0 meter voor de gehele breedte op € 0,– per hectare;
 
-g. dijken en kaden als cultuurgrond of onland;  
+g.dijken en kaden als cultuurgrond of onland;
 
-h. sport- en recreatieterreinen als aangrenzende grond;  
+h.sport- en recreatieterreinen als aangrenzende grond;
 
-i. overige, namelijk Gasunie- en NAM-locaties en NAM-wegen op € 0,– per hectare.   
+i.overige, namelijk Gasunie- en NAM-locaties en NAM-wegen op € 0,– per hectare.
 ###D. (Objectieve factoren)
 
-De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd: 
+De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;
 
-b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
+b.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;
 
-c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.   
+c.De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.
 
-### Bijlage  1d  
+###Bijlage 1d 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
@@ -586,54 +586,54 @@ c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectieveli
 
 ###A. (De in het blok aanwezige onroerende zaken)
 
-In het blok worden aangetroffen: 
+In het blok worden aangetroffen:
 
-a. cultuurgronden in gebruik als bouwland en grasland;  
+a.cultuurgronden in gebruik als bouwland en grasland;
 
-b. erven en tuinen;  
+b.erven en tuinen;
 
-c. bosgronden, rietlanden en onland;  
+c.bosgronden, rietlanden en onland;
 
-d. wegen;  
+d.wegen;
 
-e. waterlopen, sloten en plassen;  
+e.waterlopen, sloten en plassen;
 
-f. dijken en kaden;  
+f.dijken en kaden;
 
-g. begraafplaatsen;  
+g.begraafplaatsen;
 
-h. gebouwen, werken en beplantingen.   
+h.gebouwen, werken en beplantingen.
 ###B. (De in het blok voorkomende gronden)
 
-In het blok worden de volgende gronden aangetroffen: De bodemopbouw in het herinrichtingsgebied bestaat volgens de Bodemkaart van Nederland (1 : 50.000) uit veengronden. De zandondergrond zit in dit gebied dieper dan 120 centimeter. Het grootste deel van de cultuurgronden bestaat uit Koopveengronden. Dit zijn veengronden met een veraarde bovengrond. Deze gronden zijn in het verleden vergraven en bestaan afwisselend uit veenmos- of zeggeveen. Oostelijk van de polderdijk ligt een ca. 40 meter brede strook met Weideveengronden. Dit zijn veengronden met een kleidek, waarin zich een minerale eerdlaag bevindt. Onder het kleidek begint op maximaal 40 cm. diepte de veenondergrond, die uit veenmosveen bestaat. Ten westen van de polderdijk liggen Waardveengronden, die een kleidek zonder minerale eerdlaag bezitten. Ook hier bestaat de ondergrond uit veenmosveen. Op een tweetal plaatsen wordt op de bodemkaart aangegeven dat er sprake is van aangemaakte petgaten. Dit wordt aangeduid met de bodemcode AAP. 
-###C. (De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
+In het blok worden de volgende gronden aangetroffen:De bodemopbouw in het herinrichtingsgebied bestaat volgens de Bodemkaart van Nederland (1 : 50.000) uit veengronden. De zandondergrond zit in dit gebied dieper dan 120 centimeter.Het grootste deel van de cultuurgronden bestaat uit Koopveengronden. Dit zijn veengronden met een veraarde bovengrond. Deze gronden zijn in het verleden vergraven en bestaan afwisselend uit veenmos- of zeggeveen.Oostelijk van de polderdijk ligt een ca. 40 meter brede strook met Weideveengronden. Dit zijn veengronden met een kleidek, waarin zich een minerale eerdlaag bevindt. Onder het kleidek begint op maximaal 40 cm. diepte de veenondergrond, die uit veenmosveen bestaat.Ten westen van de polderdijk liggen Waardveengronden, die een kleidek zonder minerale eerdlaag bezitten. Ook hier bestaat de ondergrond uit veenmosveen.Op een tweetal plaatsen wordt op de bodemkaart aangegeven dat er sprake is van aangemaakte petgaten. Dit wordt aangeduid met de bodemcode AAP.
+### C. (De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde) 
 
-Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat: 
+Rekening houdend met het bepaalde in artikel 2 van de regeling worden de gronden als volgt geschat:
 
-a. cultuurgronden in 2 klassen van € 14.000,– en € 15.000,– per ha, zonder rekening te houden met de cultuurtoestand;  
+a.cultuurgronden in 2 klassen van € 14.000,– en € 15.000,– per ha, zonder rekening te houden met de cultuurtoestand;
 
-b. erven en tuinen als aangrenzende grond;  
+b.erven en tuinen als aangrenzende grond;
 
-c. bosgronden, rietland en onland in 2 klassen van € 3.000,– en € 6.000,– per ha;  
+c.bosgronden, rietland en onland in 2 klassen van € 3.000,– en € 6.000,– per ha;
 
-d. wegen: wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– of € 3.000,– per hectare. De overige wegen worden als onland of als cultuurgrond geschat;  
+d.wegen: wanneer zij openbaar zijn of kennelijk als zodanig worden gebruikt, op € 0,– of € 3.000,– per hectare. De overige wegen worden als onland of als cultuurgrond geschat;
 
-e. waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha; particuliere sloten als aangrenzende grond;  
+e.waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op € 0,– per ha; particuliere sloten als aangrenzende grond;
 
-f. dijken en kaden in 4 klassen van € 3.000,– tot en met € 6.000,– per ha met intervallen van € 1.000,– per ha;  
+f.dijken en kaden in 4 klassen van € 3.000,– tot en met € 6.000,– per ha met intervallen van € 1.000,– per ha;
 
-g. begraafplaatsen als aangrenzende grond.   
-###D. (Objectieve factoren)
+g.begraafplaatsen als aangrenzende grond.
+### D. (Objectieve factoren) 
 
-De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd: 
+De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt gewaardeerd:
 
-a. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
+a.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;
 
-b. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.   
+b.De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.
 
-### Bijlage  1e  
+###Bijlage 1e 
 
-####, behorende bij artikel 6  van de Regeling herverkaveling
+####, behorende bij artikel 6  van de Regeling herverkaveling 
 
 ###Nadere regels per blok betreffende het stelsel van classificatie voor de ruilverkaveling ‘Odoorn’
 
@@ -708,7 +708,7 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk goed, matig en slecht.   
 
-### Bijlage  1f  
+### Bijlage 1f 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
@@ -767,7 +767,7 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 k
 
 b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht.   
 
-### Bijlage  1g  
+### Bijlage 1g 
 
 ####, behorende bij artikel 6  van de Regeling herverkaveling
 
@@ -844,13 +844,13 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in drie
 
 c. De waterhuishoudkundige toestand van de kavels in drie klassen van respectievelijk goed, matig en slecht.   
 
-### Bijlage  1h  
+### Bijlage 1h 
 
 ####, behorende bij artikel 6  van de Regeling Herverkaveling
 
 ####Nadere regels per blok betreffende het stelsel van classificatie voor de ruilverkaveling ‘Rijssen; blok Rijssen-West’
 
-### A  
+###A 
 
 ####(De in het blok aanwezige roerende zaken)
 
@@ -872,9 +872,9 @@ g. spoorwegen;
 
 h. recreatieterreinen;  
 
-i. gebouwen, werken en beplantingen.    
+i. gebouwen, werken en beplantingen.  
 
-### B  
+###B 
 
 ####(De in het blok voorkomende gronden)
 
@@ -882,19 +882,19 @@ In het blok worden de volgende gronden aangetroffen:
 
 a. zandgronden: minerale gronden zonder moerige bovengrond of moerige tussenlaag die tussen 0 en 80 centimeter beneden maaiveld voor meer dan de helft van hun dikte uit zand bestaan. De zandgronden in het blok worden in drie groepen onderscheiden: 
 
-– podzolgronden: zandgronden met een duidelijke podzol-B-horizont onder de humushoudende bovengrond. In het blok worden veldpodzolgronden, laarpodzolgronden, haarpodzolgronden, moderpodzolgronden, loopodzolgronden en holtpodzolgronden aangetroffen;  
+–podzolgronden: zandgronden met een duidelijke podzol-B-horizont onder de humushoudende bovengrond. In het blok worden veldpodzolgronden, laarpodzolgronden, haarpodzolgronden, moderpodzolgronden, loopodzolgronden en holtpodzolgronden aangetroffen;
 
-– eerdgronden: zandgronden zonder duidelijke podzol-B-horizont met een minerale eerdlaag en zandgronden met een donkere humushoudende bovengrond van meer dan 50 centimeter dikte. In het blok worden bruine enkeerdgronden, zwarte enkeerdgronden, gooreerdgronden en beekeerdgronden aangetroffen;  
+–eerdgronden: zandgronden zonder duidelijke podzol-B-horizont met een minerale eerdlaag en zandgronden met een donkere humushoudende bovengrond van meer dan 50 centimeter dikte. In het blok worden bruine enkeerdgronden, zwarte enkeerdgronden, gooreerdgronden en beekeerdgronden aangetroffen;
 
-– vaaggronden: zandgronden zonder duidelijke podzol B-horizont of minerale eerdlaag. In het blok worden vlakvaaggronden aangetroffen;    
+–vaaggronden: zandgronden zonder duidelijke podzol B-horizont of minerale eerdlaag. In het blok worden vlakvaaggronden aangetroffen; 
 
 b. moerige gronden: minerale gronden met een moerige bovengrond of een moerige tussenlaag die binnen 40 centimeter beneden maaiveld begint en 10 tot 40 centimeter dik is. In het blok worden moerpodzolgronden en broekeerdgronden aangetroffen;  
 
 c. veengronden: gronden die tussen 0 en 80 centimeter beneden maaiveld een moerige laag hebben van ten minste 40 centimeter dik. In het blok worden koopveengronden, madeveengronden en meerveengronden aangetroffen;  
 
-d. keileemgronden of oude kleigronden: gronden waar de keileem of oude klei binnen 40 centimeter beneden maaiveld begint en ten minste 40 centimeter dik is.    
+d. keileemgronden of oude kleigronden: gronden waar de keileem of oude klei binnen 40 centimeter beneden maaiveld begint en ten minste 40 centimeter dik is. 
 
-### C  
+###C 
 
 ####(De indeling van de te schatten gronden in klassen met vermelding van de bij elke klasse behorende agrarische waarde)
 
@@ -912,17 +912,17 @@ e. waterlopen in beheer en onderhoud bij openbare lichamen alsmede plassen op 0 
 
 f. particuliere sloten: 
 
-– met een geringere bovenbreedte dan 4 meter als aangrenzende grond;  
+–met een geringere bovenbreedte dan 4 meter als aangrenzende grond;
 
-– breder dan 4 meter voor de gehele breedte op 4000 punten per hectare;    
+–breder dan 4 meter voor de gehele breedte op 4000 punten per hectare; 
 
 g. kaden op 7000 punten per hectare;  
 
 h. spoorwegen en de daartoe behorende gronden op 0 punten per hectare, als cultuurland, of onland, afhankelijk van het gebruik;  
 
-i. recreatieterreinen als aangrenzende grond.    
+i. recreatieterreinen als aangrenzende grond. 
 
-### D  
+###D 
 
 ####(Objectieve factoren)
 
@@ -930,15 +930,15 @@ De objectieve factoren, bedoeld in artikel 4 van de regeling, worden als volgt g
 
 a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht;  
 
-b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht.    
+b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk goed, matig en slecht.  
 
-### Bijlage  2  Model ten behoeve van de vaststelling van nadere regels per blok betreffende de tweede schatting  
+### Bijlage 2  Model ten behoeve van de vaststelling van nadere regels per blok betreffende de tweede schatting 
 
-### A  
+### A 
 
-####(Objectieve en subjectieve factoren)
+####(Objectieve en subjectieve factoren) 
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten (of in geldbedragen) gewaardeerd: <sup> *  de geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van landinrichting, bedoeld in [artikel 222, vierde lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), gedeeld door het totaal aantal punten.  </sup> 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten<sup>*de geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van landinrichting, bedoeld in [artikel 222, vierde lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), gedeeld door het totaal aantal punten.</sup> (of in geldbedragen) gewaardeerd: 
 
 a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in ........ klassen van respectievelijk ........, ........, en ........ punten (*of geldbedrag*) per hectare;  
 
@@ -948,23 +948,23 @@ c. De waterhuishoudkundige toestand van de kavels in ........ klassen van respec
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in ........ klassen van ........ tot en met ........ punten (*of geldbedrag*) per hectare met intervallen van ........ punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-### B  
+### B 
 
-####(Verandering van de agrarische waarde)
+####(Verandering van de agrarische waarde) 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van ........ tot en met ........ per hectare, met intervallen van ........  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van ........ tot en met ........ per hectare, met intervallen van ........ 
 
-### C  
+### C 
 
-####(Waardeveranderingen als bedoeld in de [artikelen 49](../../../../wet/landinrichtingswet/BWBR0003793/README.md), [71](../../../../wet/landinrichtingswet/BWBR0003793/README.md) en [117 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
+####(Waardeveranderingen als bedoeld in de [artikelen 49](../../../../wet/landinrichtingswet/BWBR0003793/README.md), [71](../../../../wet/landinrichtingswet/BWBR0003793/README.md) en [117 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md)) 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van ........ tot en met ........ per hectare, met intervallen van ........  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van ........ tot en met ........ per hectare, met intervallen van ........ 
 
-### D  
+### D 
 
-####(Verrekenposten)
+####(Verrekenposten) 
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -976,365 +976,365 @@ c. erfdienstbaarheden op ........ per geval;
 
 d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag,  
 
-e. overige, namelijk ........    
+e. overige, namelijk ........   
 
-### E  
+### E 
 
-####(Overig)
+####(Overig) 
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor ........ 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor ........ 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2a  
+###Bijlage 2a 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Land van Thorn’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in geldbedragen gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in geldbedragen gewaardeerd:
 
-a. De ligging van de kavels ten opzichte van het openbare (of kennelijk openbare) wegenstelsel, rekening houdend met de wegkwaliteit in 3 klassen van respectievelijk € 0,–, € 100,– en € 200,– per hectare;  
+a.De ligging van de kavels ten opzichte van het openbare (of kennelijk openbare) wegenstelsel, rekening houdend met de wegkwaliteit in 3 klassen van respectievelijk € 0,–, € 100,– en € 200,– per hectare; 
 
-b. De ligging van de gebouwen ten opzichte van het openbare (of kennelijk openbare) wegenstelsel rekening houdend met de wegkwaliteit in 3 klassen van respectievelijk € 0,–, € 500,– en € 1.000,– per gebouw;  
+b.De ligging van de gebouwen ten opzichte van het openbare (of kennelijk openbare) wegenstelsel rekening houdend met de wegkwaliteit in 3 klassen van respectievelijk € 0,–, € 500,– en € 1.000,– per gebouw; 
 
-c. De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk € 0,–, € 100,– en € 200,– per hectare;  
+c.De waterhuishoudkundige toestand van de kavels in 3 klassen van respectievelijk € 0,–, € 100,– en € 200,– per hectare; 
 
-d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van € 0,– tot en met € 400,– per hectare met intervallen van € 100,–;  
+d.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van € 0,– tot en met € 400,– per hectare met intervallen van € 100,–; 
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,–, € 4.538,– en € 9.075,– tot en met € 22.690,– per hectare, met intervallen van € 1.135,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,–, € 4.538,– en € 9.075,– tot en met € 22.690,– per hectare, met intervallen van € 1.135,–. 
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,–, € 4.538,– en € 9.075,– tot en met € 22.690,– per hectare, met intervallen van € 1.135,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,–, € 4.538,– en € 9.075,– tot en met € 22.690,– per hectare, met intervallen van € 1.135,–. 
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van hoogspanningsmasten op € 545,– per stuk en overspanningen op € 0,11 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten op € 545,– per stuk en overspanningen op € 0,11 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook; 
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,65 per m <sup>2</sup> (vierkante meter);  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,65 per m<sup>2</sup> (vierkante meter); 
 
-c. erfdienstbaarheden tot een maximum van € 1.200,– per geval met intervallen van € 120,–;  
+c.erfdienstbaarheden tot een maximum van € 1.200,– per geval met intervallen van € 120,–; 
 
-d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+d.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag; 
 
-e. extreme schaduw- en wortelwerking, gebaseerd op een vergelijking tussen inbreng en toedeling met een nader te bepalen bedrag, gerelateerd aan de schattingswaarde van de grond;  
+e.extreme schaduw- en wortelwerking, gebaseerd op een vergelijking tussen inbreng en toedeling met een nader te bepalen bedrag, gerelateerd aan de schattingswaarde van de grond; 
 
-f. de mate van vlakligging van het maaiveld tot een maximum van € 1.130,– per ha met intervallen van € 565,–;  
+f.de mate van vlakligging van het maaiveld tot een maximum van € 1.130,– per ha met intervallen van € 565,–; 
 
-g. de aanwezigheid van beregeningsputten en leidingen op basis van een per situatie bepaalde restwaarde tot een maximum van € 703,– plus € 64,– voor iedere meter die de put dieper is dan 10 meter;  
+g.de aanwezigheid van beregeningsputten en leidingen op basis van een per situatie bepaalde restwaarde tot een maximum van € 703,– plus € 64,– voor iedere meter die de put dieper is dan 10 meter; 
 
-h. te handhaven obstakels tot een maximum van € 920,– per obstakel met intervallen van € 92,–;  
+h.te handhaven obstakels tot een maximum van € 920,– per obstakel met intervallen van € 92,–; 
 
-i. drainages tot een maximum van € 920,– per ha met intervallen van € 92,–.    
+i.drainages tot een maximum van € 920,– per ha met intervallen van € 92,–. 
 
-### E  
+###E 
 
 ####(Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,711. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,711. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2b  
+###Bijlage 2b 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Volthe’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk 0, 5, 10 en 15 punten per hectare;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk 0, 5, 10 en 15 punten per hectare; 
 
-b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 2,5; 5 en 7,5 punten per gebouw c.q. complex van gebouwen;  
+b.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 2,5; 5 en 7,5 punten per gebouw c.q. complex van gebouwen; 
 
-c. De waterhuishoudkundige toestand van de kavels in 4 klassen van respectievelijk 0, 10, 20 en 30 punten per hectare;  
+c.De waterhuishoudkundige toestand van de kavels in 4 klassen van respectievelijk 0, 10, 20 en 30 punten per hectare; 
 
-d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
+d.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten; 
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken. 
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.815,– tot en met € 28.134,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.815,– tot en met € 28.134,– per hectare, met intervallen van € 908,–. 
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in het [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.815,– tot en met € 28.134,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.815,– tot en met € 28.134,– per hectare, met intervallen van € 908,–. 
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. erfdienstbaarheden op € 500,– tot € 10.000,– per geval;  
+a.erfdienstbaarheden op € 500,– tot € 10.000,– per geval; 
 
-b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+b.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag; 
 
-c. overige, namelijk: 
+c.overige, namelijk: 
 
-– schaduw- en wortelschade in 4 klassen van € 0,– , € 4,– , € 8,– , tot € 12,– per strekkende meter perceelsrand;  
+–schaduw- en wortelschade in 4 klassen van € 0,– , € 4,– , € 8,– , tot € 12,– per strekkende meter perceelsrand; 
 
-– vlakligging van de percelen in 5 klassen van € 0,– , € 200,– , € 400,– , € 600,– , en € 800,– per hectare;  
+–vlakligging van de percelen in 5 klassen van € 0,– , € 200,– , € 400,– , € 600,– , en € 800,– per hectare; 
 
-– drainage in 5 klassen van € 0,–, € 200,– , € 400,– , € 800,– , € 1.200,– per hectare;  
+–drainage in 5 klassen van € 0,–, € 200,– , € 400,– , € 800,– , € 1.200,– per hectare; 
 
-– filterbuizen t.b.v. beregeningsinstallaties en/of veedrenking en drinkputten met een door deskundigen vast te stellen bedrag.      
+– filterbuizen t.b.v. beregeningsinstallaties en/of veedrenking en drinkputten met een door deskundigen vast te stellen bedrag. 
 
-### E  
+###E 
 
 ####(Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,71. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,71. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2c  
+###Bijlage 2c 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St. Oedenrode: blokdeel Zijtaart-Vressel’
+###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St. Oedenrode: blokdeel Zijtaart-Vressel’ 
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in geldbedragen gewaardeerd: 
 
-a. De kwaliteit van de openbare ontsluitingswegen voor kavels in 4 klassen van respectievelijk € 0,–, € 135,–, € 270,– en € 405,– per hectare;  
+a.De kwaliteit van de openbare ontsluitingswegen voor kavels in 4 klassen van respectievelijk € 0,–, € 135,–, € 270,– en € 405,– per hectare; 
 
-b. De kwaliteit van de openbare ontsluitingswegen voor woningen in 2 klassen van respectievelijk € 0,– en € 225,– per woning;  
+b.De kwaliteit van de openbare ontsluitingswegen voor woningen in 2 klassen van respectievelijk € 0,– en € 225,– per woning; 
 
-c. De kwaliteit van de openbare ontsluitingswegen voor bedrijfsgebouwen in 2 klassen van respectievelijk € 0,– en € 1.135,– per bedrijfsgebouw;  
+c.De kwaliteit van de openbare ontsluitingswegen voor bedrijfsgebouwen in 2 klassen van respectievelijk € 0,– en € 1.135,– per bedrijfsgebouw; 
 
-d. De kwaliteit van de openbare ontsluitingswegen voor woning + bedrijfsgebouwen in 2 klassen van respectievelijk € 0,– en € 1.360,–;  
+d.De kwaliteit van de openbare ontsluitingswegen voor woning + bedrijfsgebouwen in 2 klassen van respectievelijk € 0,– en € 1.360,–; 
 
-e. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van respectievelijk € 0,–, € 200,–, € 450,–, € 750,–, € 1.100,– en € 1.500,– per hectare;  
+e.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van respectievelijk € 0,–, € 200,–, € 450,–, € 750,–, € 1.100,– en € 1.500,– per hectare; 
 
-f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+f.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken. 
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
-### C  
+### C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
-### D  
+### D 
 
-####(Verrekenposten)
+####(Verrekenposten) 
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van hoogspanningsmasten van het 150 kV-net en het 380 kV-net op respectievelijk € 1.125,– en € 1.350,– per mast en de kabeloverspanningen van beide netten op € 0,15 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten van het 150 kV-net en het 380 kV-net op respectievelijk € 1.125,– en € 1.350,– per mast en de kabeloverspanningen van beide netten op € 0,15 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook; 
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,70 per m <sup>2</sup> (vierkante meter);  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,70 per m<sup>2</sup> (vierkante meter); 
 
-c. de aanwezigheid van afsluiterkooien behorende bij transportleidingen op € 412,– per kooi;  
+c.de aanwezigheid van afsluiterkooien behorende bij transportleidingen op € 412,– per kooi;
 
-d. de aanwezigheid van pootrechten op € 2,25 per strekkende meter en de geschatte houtopstanden;  
+d.de aanwezigheid van pootrechten op € 2,25 per strekkende meter en de geschatte houtopstanden;
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+e.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag. 
 
-### E  
+###E 
 
 ####(Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,–. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,–.2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2d  
+###Bijlage 2d 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Groesbeek’
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 40 en 80 punten per hectare;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 40 en 80 punten per hectare;
 
-b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 80 en 160 punten per gebouw c.q. complex van gebouwen;  
+b.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 80 en 160 punten per gebouw c.q. complex van gebouwen;
 
-c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van respectievelijk 0, 10, 20, 40, 60 en 80 punten per hectare;  
+c.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van respectievelijk 0, 10, 20, 40, 60 en 80 punten per hectare;
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
-###B. (Verandering van de agrarische waarde)
+d.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
+### B. (Verandering van de agrarische waarde) 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 11.798,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 11.798,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 11.798,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 11.798,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. De aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+a.De aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-b. Aansluiting van drinkwater of drinkput van een minimum van € 0,– tot een maximum van € 1.000,– per geval met intervallen van € 100,–;  
+b.Aansluiting van drinkwater of drinkput van een minimum van € 0,– tot een maximum van € 1.000,– per geval met intervallen van € 100,–;
 
-c. Drainages van een minimum van € 0,– tot een maximum van € 0,90 per strekkende meter, gerekend over volvelds gedraineerde percelen;  
+c.Drainages van een minimum van € 0,– tot een maximum van € 0,90 per strekkende meter, gerekend over volvelds gedraineerde percelen;
 
-d. De extreme wortel- en schaduwwerking op 45% van de waarde van schatting van de betreffende grond, te berekenen over stroken met een breedte van 5, 10, 15, 20 of 25 meter, afhankelijk van de omvang van de schade;  
+d.De extreme wortel- en schaduwwerking op 45% van de waarde van schatting van de betreffende grond, te berekenen over stroken met een breedte van 5, 10, 15, 20 of 25 meter, afhankelijk van de omvang van de schade;
 
-e. Voor het vestigen van een nieuwe erfdienstbaarheid van weg over een erf wordt € 700,– in mindering gebracht per geval, met uitzondering van wandelpaden. Voor wandelpaden geldt een verrekenpost van € 3,18 per strekkende meter;  
+e.Voor het vestigen van een nieuwe erfdienstbaarheid van weg over een erf wordt € 700,– in mindering gebracht per geval, met uitzondering van wandelpaden. Voor wandelpaden geldt een verrekenpost van € 3,18 per strekkende meter;
 
-f. Andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
+f.Andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;
 
-g. De waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.   
+g.De waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,55.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,55.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2e  
+###Bijlage 2e 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
 ###Nadere regels per blok betreffende de tweede schatting voor het blok ‘Ommelanderwijk-Zuidwending’ voor het deelgebied ‘Oude Veenkoloniën’ in de Herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën betreffende de tweede schatting
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 5 klassen van respectievelijk, –1, 0, 1, 2 en 3 punten per hectare;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 5 klassen van respectievelijk, –1, 0, 1, 2 en 3 punten per hectare;
 
-b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 20 punten per hectare met intervallen van 5 punten;  
+b.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 20 punten per hectare met intervallen van 5 punten;
 
-c. De bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.De bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.580,– tot en met € 12.252,– per hectare, met intervallen van € 567,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.580,– tot en met € 12.252,– per hectare, met intervallen van € 567,–.
 ###C. (Waardeveranderingen als bedoeld in de artikelen 24 en 25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.580,– tot en met € 12.252,– per hectare, met intervallen van € 567,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.580,– tot en met € 12.252,– per hectare, met intervallen van € 567,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op € 1.930,– per mast bij een basisoppervlakte van 10,75 meter × 10,75 meter en op € 2.870,– per mast bij een basisoppervlakte van 16 meter × 16 meter. Geen verrekening vindt plaats voor de Edon-lijn, die na het vaststaan van het plan van toedeling, doch voor de aktepassering is gesloopt;  
+a.de aanwezigheid van hoogspanningsmasten op € 1.930,– per mast bij een basisoppervlakte van 10,75 meter × 10,75 meter en op € 2.870,– per mast bij een basisoppervlakte van 16 meter × 16 meter. Geen verrekening vindt plaats voor de Edon-lijn, die na het vaststaan van het plan van toedeling, doch voor de aktepassering is gesloopt;
 
-b. erfdienstbaarheden in 5 klassen van € 1.000,– tot en met € 5.000,– met intervallen van € 1.000,–;  
+b.erfdienstbaarheden in 5 klassen van € 1.000,– tot en met € 5.000,– met intervallen van € 1.000,–;
 
-c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+c.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-d. de aanwezigheid van puin zal worden verrekend met een maximum van € 1,50 per m <sup>2</sup> (vierkante meter);  
+d.de aanwezigheid van puin zal worden verrekend met een maximum van € 1,50 per m<sup>2</sup> (vierkante meter);
 
-e. schaduw- en wortelschade zal worden verrekend op basis van € 0,35 per m <sup>2</sup> (vierkante meter) voor lichte beplanting en € 0,75 per m <sup>2</sup> (vierkante meter) voor zware beplanting;  
+e.schaduw- en wortelschade zal worden verrekend op basis van € 0,35 per m<sup>2</sup> (vierkante meter) voor lichte beplanting en € 0,75 per m<sup>2</sup> (vierkante meter) voor zware beplanting;
 
-f. de verandering in lengte van zwetsloten en -wijken met € 4,50 per eenheden van 1 meter.   
-###E. (Overig)
+f.de verandering in lengte van zwetsloten en -wijken met € 4,50 per eenheden van 1 meter.
+### E. (Overig) 
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,2.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,2.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2f  
+###Bijlage 2f 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
-###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Mars- en Westerstroom’
+### Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Mars- en Westerstroom’
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 30 en 50 punten per hectare;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 30 en 50 punten per hectare;
 
-b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 90, 220 en 440 punten per gebouw c.q. complex van gebouwen;  
+b.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 90, 220 en 440 punten per gebouw c.q. complex van gebouwen;
 
-c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
+c.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+d.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78. 
-###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78.
+### C. (Waardeveranderingen als bedoeld in artikel 71 van de wet) 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78. 
-###D. (Verrekenposten)
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78.
+### D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat. 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat.
 
-a. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+a.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-b. andere dan agrarische waarden met een zonodig door deskundigen vast te stellen bedrag;  
+b.andere dan agrarische waarden met een zonodig door deskundigen vast te stellen bedrag;
 
-c. de waarde van gebouwen, werken, beplantingen en houtopstanden met een zonodig door deskundigen vast te stellen bedrag;  
+c.de waarde van gebouwen, werken, beplantingen en houtopstanden met een zonodig door deskundigen vast te stellen bedrag;
 
-d. schaduw- en wortelschade tot een maximum van € 12,50 per strekkende meter met intervallen van € 2,50.   
-###E. (Overig)
+d.schaduw- en wortelschade tot een maximum van € 12,50 per strekkende meter met intervallen van € 2,50.
+### E. (Overig) 
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2g  
+###Bijlage 2g 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Tjabbekamp’
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten per hectare gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten per hectare gewaardeerd:
 
-a. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten met intervallen van steeds 10 punten.  
+a.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten met intervallen van steeds 10 punten.
 
-b. De waterhuishoudkundige toestand in twee klassen van 0 punten of 200 punten.   De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken. 
-###B. (Verandering van de agrarische waarde)
+b.De waterhuishoudkundige toestand in twee klassen van 0 punten of 200 punten.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
+### B. (Verandering van de agrarische waarde) 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 8 klassen van € 0,–, € 5.000,–, € 10.000,–, € 15.000,–, € 20.000,–, € 25.000,–, € 27.000,–, € 29.000,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 8 klassen van € 0,–, € 5.000,–, € 10.000,–, € 15.000,–, € 20.000,–, € 25.000,–, € 27.000,–, € 29.000,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 8 klassen van € 0,–, € 5.000,–, € 10.000,–, € 15.000,–, € 20.000,–, € 25.000,–, € 27.000,–, € 29.000,–. 
-###D. (Verrekenposten)
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 8 klassen van € 0,–, € 5.000,–, € 10.000,–, € 15.000,–, € 20.000,–, € 25.000,–, € 27.000,–, € 29.000,–.
+### D. (Verrekenposten) 
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten van het 150 kV-net op € 1.000,– per stuk en overspanningen op € 5,45 per strekkende meter zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten van het 150 kV-net op € 1.000,– per stuk en overspanningen op € 5,45 per strekkende meter zakelijk rechtstrook;
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;
 
-c. bij het opheffen van erfdienstbaarheden van € 0,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 2.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;  
+c.bij het opheffen van erfdienstbaarheden van € 0,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 2.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;
 
-d. andere dan agrarische waarden (artikel 23 lid 2 sub d Regeling herverkaveling);  
+d.andere dan agrarische waarden (artikel 23 lid 2 sub d Regeling herverkaveling);
 
-e. de aanwezigheid van markeringspaaltjes (gele kap) voor gasleidingen worden verrekend aan de hand van een reeks van € 100,– tot € 600,– met intervallen van € 100,–. Afsluiters worden verrekend aan de hand van een reeks van € 100,– tot € 400,– met intervallen van € 100,–;  
+e.de aanwezigheid van markeringspaaltjes (gele kap) voor gasleidingen worden verrekend aan de hand van een reeks van € 100,– tot € 600,– met intervallen van € 100,–. Afsluiters worden verrekend aan de hand van een reeks van € 100,– tot € 400,– met intervallen van € 100,–;
 
-f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
-###E. (Overig)
+f.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.
+### E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2h  
+###Bijlage 2h 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1342,179 +1342,179 @@ f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg voor bedrijfsgebouwen in vier klassen van 0, 6, 12 en 18 punten per gebouw of complex van gebouwen en voor woningen in vijf klassen van 0, 6, 12, 18 en 24 punten per woning;  
+a.De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg voor bedrijfsgebouwen in vier klassen van 0, 6, 12 en 18 punten per gebouw of complex van gebouwen en voor woningen in vijf klassen van 0, 6, 12, 18 en 24 punten per woning;
 
-b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 7 klassen van 0 tot en met 6 punten per hectare met intervallen van 1 punt;  
+b.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 7 klassen van 0 tot en met 6 punten per hectare met intervallen van 1 punt;
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingwerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingwerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische werken)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in twaalf klassen van € 7.714,26 tot en met € 12.705,85 per hectare, met intervallen van € 453,78. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in twaalf klassen van € 7.714,26 tot en met € 12.705,85 per hectare, met intervallen van € 453,78.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in twaalf klassen van € 7.714,26 tot en met € 12.705,85 per hectare, met intervallen van € 453,78. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in twaalf klassen van € 7.714,26 tot en met € 12.705,85 per hectare, met intervallen van € 453,78.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op € 1.270,– per stuk en overspanningen op € 11,– per strekkende meter zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten op € 1.270,– per stuk en overspanningen op € 11,– per strekkende meter zakelijk rechtstrook;
 
-b. erfdienstbaarheden van € 4.000,– tot € 8.000,– met intervallen van € 1.000,– per geval;  
+b.erfdienstbaarheden van € 4.000,– tot € 8.000,– met intervallen van € 1.000,– per geval;
 
-c. de aanwezigheid van verontreinigingen in of op de bodem, bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), met een door deskundigen vast te stellen bedrag;  
+c.de aanwezigheid van verontreinigingen in of op de bodem, bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), met een door deskundigen vast te stellen bedrag;
 
-d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
+d.andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;
 
-e. puin en/of andere materialen in of op cultuurgronden van € 0,– tot € 10,– per vierkante meter met intervallen van € 5,–;  
+e.puin en/of andere materialen in of op cultuurgronden van € 0,– tot € 10,– per vierkante meter met intervallen van € 5,–;
 
-f. onegaliteit van het maaiveld van € 0,– tot € 1.500,– per ha, in 3 klassen met intervallen van € 750,– voor het opheffen van begreppeling wordt € 750,– per ha verrekend;  
+f.onegaliteit van het maaiveld van € 0,– tot € 1.500,– per ha, in 3 klassen met intervallen van € 750,– voor het opheffen van begreppeling wordt € 750,– per ha verrekend;
 
-g. schaduw- en wortelschade voor normale beplanting van € 2,– tot € 8,– per strekkende meter, met intervallen van € 2,– en voor zware beplanting van € 8,– tot € 20,– per strekkende meter met intervallen van € 4,–.   
+g.schaduw- en wortelschade voor normale beplanting van € 2,– tot € 8,– per strekkende meter, met intervallen van € 2,– en voor zware beplanting van € 8,– tot € 20,– per strekkende meter met intervallen van € 4,–.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,6.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,6.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2i  
+###Bijlage 2i 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Haaksbergen’* 
+###*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Haaksbergen’*
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van 0; 7,5; 15 en 20 punten per hectare;  
+a.de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van 0; 7,5; 15 en 20 punten per hectare;
 
-b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van 5, 10 en 15 punten per 25 strekkende meter per gebouw c.q. complex van gebouwen;  
+b.de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van 5, 10 en 15 punten per 25 strekkende meter per gebouw c.q. complex van gebouwen;
 
-c. de waterhuishoudkundige toestand van de kavels in 5 klassen van 0, 3, 6, 9 en 12 punten per hectare;  
+c.de waterhuishoudkundige toestand van de kavels in 5 klassen van 0, 3, 6, 9 en 12 punten per hectare;
 
-d. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
+d.de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;
 
-e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+e.de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.538,– tot en met € 24.504,– per hectare, met intervallen van € 908,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.538,– tot en met € 24.504,– per hectare, met intervallen van € 908,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.538,– tot en met € 24.504,– per hectare, met intervallen van € 908,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.538,– tot en met € 24.504,– per hectare, met intervallen van € 908,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling worden als volgt geschat:
 
-a. erfdienstbaarheden op € 500,– tot en met € 2.000,– per geval, met intervallen van € 500,–;  
+a.erfdienstbaarheden op € 500,– tot en met € 2.000,– per geval, met intervallen van € 500,–;
 
-b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+b.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-c. schaduw- en wortelwerking in 4 klassen van € 0,–, € 4,–, € 8,–, tot € 12,– per strekkende meter perceelsrand;  
+c.schaduw- en wortelwerking in 4 klassen van € 0,–, € 4,–, € 8,–, tot € 12,– per strekkende meter perceelsrand;
 
-d. vlakligging van de percelen in 4 klassen van € 0,–, € 250,–, € 500,–, tot € 750,– per ha;  
+d.vlakligging van de percelen in 4 klassen van € 0,–, € 250,–, € 500,–, tot € 750,– per ha;
 
-e. drainage in 5 klassen van € 0,–, € 200,–, € 400,–, € 800,– tot € 1.200,– per ha;  
+e.drainage in 5 klassen van € 0,–, € 200,–, € 400,–, € 800,– tot € 1.200,– per ha;
 
-f. andere dan agrarische waarden.   
+f.andere dan agrarische waarden.
 ###E. (Overig)
 
-Over- en onderbedelingen worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de Landinrichtingswet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factoren 1,37 voor cultuurgrond en 0,8 voor bosgrond. Ook de onder B en C vastgestelde waardeveranderingen zullen worden verrekend na vermenigvuldiging met een factor 1,37 voor cultuurgrond en 0,8 voor bosgrond. 
+Over- en onderbedelingen worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de Landinrichtingswet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factoren 1,37 voor cultuurgrond en 0,8 voor bosgrond. Ook de onder B en C vastgestelde waardeveranderingen zullen worden verrekend na vermenigvuldiging met een factor 1,37 voor cultuurgrond en 0,8 voor bosgrond.
 
-### Bijlage  2j  
+###Bijlage 2j 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Ameland’* 
+###*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Ameland’*
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van 0, 10 en 20 punten;  
+a.de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van 0, 10 en 20 punten;
 
-b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten met intervallen van 10 punten;  
+b.de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten met intervallen van 10 punten;
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 16 klassen van € 0,–, € 1.361,–, € 3.403,–, € 5.445,–, € 6.807,–, € 7.487,–, € 8.168,–, € 8.849,–, € 9.592,–, € 10.210,–, € 10.891,–, € 11.571,–, € 12.252,–, € 12.933,–, € 13.613,– en € 14.294,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 16 klassen van € 0,–, € 1.361,–, € 3.403,–, € 5.445,–, € 6.807,–, € 7.487,–, € 8.168,–, € 8.849,–, € 9.592,–, € 10.210,–, € 10.891,–, € 11.571,–, € 12.252,–, € 12.933,–, € 13.613,– en € 14.294,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 16 klassen van € 0,–, € 1.361,–, € 3.403,–, € 5.445,–, € 6.807,–, € 7.487,–, € 8.168,–, € 8.849,–, € 9.592,–, € 10.210,–, € 10.891,–, € 11.571,–, € 12,252,–, € 12.933,–, € 13.613,– en € 14.294,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 16 klassen van € 0,–, € 1.361,–, € 3.403,–, € 5.445,–, € 6.807,–, € 7.487,–, € 8.168,–, € 8.849,–, € 9.592,–, € 10.210,–, € 10.891,–, € 11.571,–, € 12,252,–, € 12.933,–, € 13.613,– en € 14.294,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van ondergrondse kabels en leidingen waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;  
+a.de aanwezigheid van ondergrondse kabels en leidingen waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;
 
-b. bij het opheffen van erfdienstbaarheden van € 5.000,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 10.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;  
+b.bij het opheffen van erfdienstbaarheden van € 5.000,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 10.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;
 
-c. andere dan agrarische waarden (artikel 23, tweede lid, onderdeel d van de regeling);  
+c.andere dan agrarische waarden (artikel 23, tweede lid, onderdeel d van de regeling);
 
-d. de aanwezigheid van afsluiters in de waterleiding op € 350,– per geval;  
+d.de aanwezigheid van afsluiters in de waterleiding op € 350,– per geval;
 
-e. kwalitatief betere inrichting van de grond in 2 klassen van € 400,– en € 800,– per hectare;  
+e.kwalitatief betere inrichting van de grond in 2 klassen van € 400,– en € 800,– per hectare;
 
-f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
+f.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,68.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,68.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2k  
+###Bijlage 2k 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Hoeksche Waard Oost’* 
+###*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Hoeksche Waard Oost’*
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk 0, 7, 15 en 22 punten per hectare;  
+a.de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk 0, 7, 15 en 22 punten per hectare;
 
-b. de waterhuishoudkundige toestand van de kavels in 6 klassen van respectievelijk 0, 7, 15, 22, 30 en 37 punten per hectare;  
+b.de waterhuishoudkundige toestand van de kavels in 6 klassen van respectievelijk 0, 7, 15, 22, 30 en 37 punten per hectare;
 
-c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 80 punten per hectare met intervallen van 20 punten;  
+c.de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 80 punten per hectare met intervallen van 20 punten;
 
-d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+d.de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op € 2.200,– per stuk voor een grote mast (lijn Dordrecht–Europoort), € 1.350,– per stuk voor een kleine mast (lijn Dordrecht–Klaaswaal) en overspanningen op € 0,77 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten op € 2.200,– per stuk voor een grote mast (lijn Dordrecht–Europoort), € 1.350,– per stuk voor een kleine mast (lijn Dordrecht–Klaaswaal) en overspanningen op € 0,77 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook;
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,77 per m <sup>2</sup> (vierkante meter);  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,77 per m<sup>2</sup> (vierkante meter);
 
-c. erfdienstbaarheden op € 1.500,– per geval bij overpad over huis en/of bedrijfskavel bij overpad over landbouwgrond in 3 klassen respectievelijk van € 500,–, € 1.200,– en € 2.200,–, afhankelijk van de lengte van het overpad;  
+c.erfdienstbaarheden op € 1.500,– per geval bij overpad over huis en/of bedrijfskavel bij overpad over landbouwgrond in 3 klassen respectievelijk van € 500,–, € 1.200,– en € 2.200,–, afhankelijk van de lengte van het overpad;
 
-d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+d.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-e. de aanwezigheid van drainage in klassen van € 100,– tot en met € 1.000,– per ha, met intervallen van € 50,–;  
+e.de aanwezigheid van drainage in klassen van € 100,– tot en met € 1.000,– per ha, met intervallen van € 50,–;
 
-f. de schaduw- en wortelwerking in 3 klassen (zwaar, matig en licht) van respectievelijk € 3,–, € 2,–, en € 1,– per strekkende meter randbeplanting;  
+f.de schaduw- en wortelwerking in 3 klassen (zwaar, matig en licht) van respectievelijk € 3,–, € 2,–, en € 1,– per strekkende meter randbeplanting;
 
-g. de andere dan agrarische waarden door deskundigen indien van toepassing.   
+g.de andere dan agrarische waarden door deskundigen indien van toepassing.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,5 voor vrije grond en een factor van 1,25 voor verpachte grond.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,5 voor vrije grond en een factor van 1,25 voor verpachte grond.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met een der factoren, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met een der factoren, bedoeld in het eerste lid.
 
-### Bijlage  2l  
+### Bijlage  2l 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### *Nadere regels per blok betreffende de tweede schatting voor de herinrichting deelgebied ‘Westerwolde’, blok ‘Bourtange’* 
+###*Nadere regels per blok betreffende de tweede schatting voor de herinrichting deelgebied ‘Westerwolde’, blok ‘Bourtange’ *
 
 ###A. (Objectieve en subjectieve factoren)
 
@@ -1550,63 +1550,63 @@ f. andere dan agrarische waarde (artikel 23, tweede lid, van de regeling).
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in artikel 33, van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën, te vermenigvuldigen met een factor 2,1.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2m  
+###Bijlage 2m 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Walcheren’* 
+###*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Walcheren’*
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. de waterhuishoudkundige toestand van de kavels in 6 klassen van respectievelijk 0; 1,5; 6; 7,5; 12 en 13,5 punten per ha;  
+a.de waterhuishoudkundige toestand van de kavels in 6 klassen van respectievelijk 0; 1,5; 6; 7,5; 12 en 13,5 punten per ha;
 
-b. de verkaveling, omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie, in 5 klassen, van 0 tot en met 40 punten per ha met intervallen van 10 punten;  
+b.de verkaveling, omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie, in 5 klassen, van 0 tot en met 40 punten per ha met intervallen van 10 punten;
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.901,– tot en met € 16.336,– per hectare, met intervallen van € 816,80,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.901,– tot en met € 16.336,– per hectare, met intervallen van € 816,80,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.901,– tot en met € 16.336,– per hectare, met intervallen van € 816,80,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.901,– tot en met € 16.336,– per hectare, met intervallen van € 816,80,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op € 2.500,– per stuk;  
+a.de aanwezigheid van hoogspanningsmasten op € 2.500,– per stuk;
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd op € 1,– per m <sup>2</sup> (vierkante meter);  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd op € 1,– per m<sup>2</sup> (vierkante meter);
 
-c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+c.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-d. de aanwezigheid van drainage in klassen van leeftijd en drainafstand in klassen variërend van € 57,– tot en met € 1.511,– per ha;  
+d.de aanwezigheid van drainage in klassen van leeftijd en drainafstand in klassen variërend van € 57,– tot en met € 1.511,– per ha;
 
-e. de mate van vlakligging in klassen van € 0,– tot en met € 2.000,– per hectare, met intervallen van € 1.000,–-;  
+e.de mate van vlakligging in klassen van € 0,– tot en met € 2.000,– per hectare, met intervallen van € 1.000,–-;
 
-f. de aanwezigheid van een drinkwatervoorziening op € 500,– per voorziening;  
+f.de aanwezigheid van een drinkwatervoorziening op € 500,– per voorziening;
 
-g. de aanwezigheid van obstakels van € 0,– tot en met € 2.000,– per geval met intervallen van € 100,–, de aanwezigheid van extreem storende plekken van € 0,– tot en met € 2.000,– per plek met intervallen van € 100,–; de aanwezigheid van geruilde kavelpaden op € 0,65 per m <sup>2</sup> (vierkante meter) en bunkers op € 2,50 per m <sup>2</sup> (vierkante meter);  
+g.de aanwezigheid van obstakels van € 0,– tot en met € 2.000,– per geval met intervallen van € 100,–, de aanwezigheid van extreem storende plekken van € 0,– tot en met € 2.000,– per plek met intervallen van € 100,–; de aanwezigheid van geruilde kavelpaden op € 0,65 per m<sup>2</sup> (vierkante meter) en bunkers op € 2,50 per m<sup>2</sup> (vierkante meter);
 
-h. de aanwezigheid van extreme onkruidverontreiniging en van een uitzonderlijk lage bemestingstoestand elk van € 100,– tot en met € 500,– per ha, met intervallen van € 100,–;  
+h.de aanwezigheid van extreme onkruidverontreiniging en van een uitzonderlijk lage bemestingstoestand elk van € 100,– tot en met € 500,– per ha, met intervallen van € 100,–;
 
-i. de aanwezigheid van bodemziekten in extreme mate van € 100,– tot en met € 2.000,– per ha met intervallen van € 100,–;  
+i.de aanwezigheid van bodemziekten in extreme mate van € 100,– tot en met € 2.000,– per ha met intervallen van € 100,–;
 
-j. de aanwezigheid van schaduw- en/of wortelschade van € 2,– tot en met € 6,– per strekkende meter, met intervallen van € 2,–;  
+j.de aanwezigheid van schaduw- en/of wortelschade van € 2,– tot en met € 6,– per strekkende meter, met intervallen van € 2,–;
 
-k. de aanwezigheid van een kwalitatief goede zoetwaterbron op € 1.000,– per geval;  
+k.de aanwezigheid van een kwalitatief goede zoetwaterbron op € 1.000,– per geval;
 
-l. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
+l.de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,98. Daarnaast heeft de landinrichtingscommissie besloten de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom met de factor 1,188 te vermenigvuldigen.  
+1.Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,98. Daarnaast heeft de landinrichtingscommissie besloten de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom met de factor 1,188 te vermenigvuldigen.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.
 
-### Bijlage  2n  
+###Bijlage 2n 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1614,126 +1614,126 @@ l. de aanwezigheid van andere dan agrarische waarden met een door deskundigen va
 
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De stand van de kavels tot de dichtstbijzijnde openbare verharde weg in 2 klassen van respectievelijk, 0 en 1 punt per hectare;  
+a.De stand van de kavels tot de dichtstbijzijnde openbare verharde weg in 2 klassen van respectievelijk, 0 en 1 punt per hectare;
 
-b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 12 punten per hectare, met intervallen van 3 punten;  
+b.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 12 punten per hectare, met intervallen van 3 punten;
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in zes klassen van € 14.067,19 tot en met € 17.470,54 per hectare, met intervallen van € 680,67. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in zes klassen van € 14.067,19 tot en met € 17.470,54 per hectare, met intervallen van € 680,67.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in zes klassen van € 14.067,19 tot en met € 17.470,54 per hectare, met intervallen van € 680,67. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in zes klassen van € 14.067,19 tot en met € 17.470,54 per hectare, met intervallen van € 680,67.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op een bedrag van € 1.270,– per mast en voor overspanningen € 11,– per strekkende meter zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten op een bedrag van € 1.270,– per mast en voor overspanningen € 11,– per strekkende meter zakelijk rechtstrook;
 
-b. erfdienstbaarheden van € 4.000,– tot € 8.000,– met intervallen van € 1.000,– per geval;  
+b.erfdienstbaarheden van € 4.000,– tot € 8.000,– met intervallen van € 1.000,– per geval;
 
-c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+c.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-d. puin en/of andere materialen in of op cultuurgronden van € 0,– tot € 10,– per vierkante meter met intervallen van € 5,–;  
+d.puin en/of andere materialen in of op cultuurgronden van € 0,– tot € 10,– per vierkante meter met intervallen van € 5,–;
 
-e. schaduw- en wortelschade van € 5,– tot € 20,– per strekkende meter in 4 klassen met intervallen van € 5,–.   
+e.schaduw- en wortelschade van € 5,– tot € 20,– per strekkende meter in 4 klassen met intervallen van € 5,–.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,85.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,85.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2o  
+###Bijlage 2o 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Damwoude’ 
+Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Damwoude’
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van de kavels ten opzichte van de openbare (of kennelijk openbare) verharde weg in 4 klassen van 0, 10, 25 en 35 punten per hectare;  
+a.De afstand van de kavels ten opzichte van de openbare (of kennelijk openbare) verharde weg in 4 klassen van 0, 10, 25 en 35 punten per hectare;
 
-b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten per hectare met intervallen van 10 punten;  
+b.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten per hectare met intervallen van 10 punten;
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 6 klassen van € 0,–, € 1.788,–, € 3.576,–, € 5.364,–, € 8.940,–, € 12.516,–, of in 8 klassen van € 14.304,– tot en met € 20.562,–, met intervallen van € 894,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 6 klassen van € 0,–, € 1.788,–, € 3.576,–, € 5.364,–, € 8.940,–, € 12.516,–, of in 8 klassen van € 14.304,– tot en met € 20.562,–, met intervallen van € 894,–.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 6 klassen van € 0,–, € 1.788,–, € 3.576,–, € 5.364,–, € 8.940,–, € 12.516,– of in 8 klassen van € 14.304,– tot en met € 20.562,– met intervallen van € 894,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 6 klassen van € 0,–, € 1.788,–, € 3.576,–, € 5.364,–, € 8.940,–, € 12.516,– of in 8 klassen van € 14.304,– tot en met € 20.562,– met intervallen van € 894,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;  
+a.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;
 
-b. de oude landinrichtingsrente uit de voormalige ruilverkaveling Dantumadeel wordt verrekend met de lasten die opgelegd worden in het kader van de ruilverkaveling Damwoude;  
+b.de oude landinrichtingsrente uit de voormalige ruilverkaveling Dantumadeel wordt verrekend met de lasten die opgelegd worden in het kader van de ruilverkaveling Damwoude;
 
-c. bij het opheffen van erfdienstbaarheden van € 1.500,– tot € 12.000,– per geval met intervallen van € 1.500,–. Bij het vestigen van erfdienstbaarheden van € 3.000,– tot € 24.000,– per geval met intervallen van € 3.000,–;  
+c.bij het opheffen van erfdienstbaarheden van € 1.500,– tot € 12.000,– per geval met intervallen van € 1.500,–. Bij het vestigen van erfdienstbaarheden van € 3.000,– tot € 24.000,– per geval met intervallen van € 3.000,–;
 
-d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
+d.andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
+e.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,35.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,35.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2p  
+###Bijlage 2p 
 
 ####behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Midden-Opsterland’
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
-De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg (of kennelijk openbare) weg in 3 klassen van 0, 10 en 15 punten per hectare;  
+a.De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg (of kennelijk openbare) weg in 3 klassen van 0, 10 en 15 punten per hectare;
 
-b. De afstand van de gebouwen tot de dichtstbijzijnde openbare verharde weg in 8 klassen van 20 tot en met 240 punten per hectare per gebouw c.q. complex van gebouwen met intervallen van 20 of 40 punten;  
+b.De afstand van de gebouwen tot de dichtstbijzijnde openbare verharde weg in 8 klassen van 20 tot en met 240 punten per hectare per gebouw c.q. complex van gebouwen met intervallen van 20 of 40 punten;
 
-c. De waterhuishoudkundige toestand in 6 klassen van 0, 3, 4, 7, 10 en 13 punten per hectare;  
+c.De waterhuishoudkundige toestand in 6 klassen van 0, 3, 4, 7, 10 en 13 punten per hectare;
 
-d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 20 punten per hectare met intervallen van 5 punten;  
+d.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 20 punten per hectare met intervallen van 5 punten;
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 4 klassen van € 0,–, € 2.235,–, € 4.470,–, € 6.705,– en 14 klassen van € 7.152,– tot en met €12.963,– met intervallen van € 447,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 4 klassen van € 0,–, € 2.235,–, € 4.470,–, € 6.705,– en 14 klassen van € 7.152,– tot en met €12.963,– met intervallen van € 447,–.
 
-#### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+####*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 4 klassen van € 0,–, € 2.235,–, € 4.470,–, € 6.705,– en 14 klassen van € 7.152,– tot en met € 12.963,– met intervallen van € 447,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 4 klassen van € 0,–, € 2.235,–, € 4.470,–, € 6.705,– en 14 klassen van € 7.152,– tot en met € 12.963,– met intervallen van € 447,–.
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten van het 150 kV-net op € 1.000,– per stuk en overspanningen op € 5,45 per strekkende meter zakelijk rechtstrook;  
+a.de aanwezigheid van hoogspanningsmasten van het 150 kV-net op € 1.000,– per stuk en overspanningen op € 5,45 per strekkende meter zakelijk rechtstrook;
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,85 per vierkante meter zakelijk rechtstrook;
 
-c. bij het opheffen van erfdienstbaarheden van € 5.000,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 2.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;  
+c.bij het opheffen van erfdienstbaarheden van € 5.000,– tot € 8.000,– per geval met intervallen van € 1.000,–. Bij het vestigen van erfdienstbaarheden van € 2.000,– tot € 16.000,– per geval met intervallen van € 2.000,–;
 
-d. andere dan agrarische waarden (artikel 23, tweede lid, van de regeling);  
+d.andere dan agrarische waarden (artikel 23, tweede lid, van de regeling);
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+e.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
-i. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,8.  
+i.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,8.
 
-ii. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+ii.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2q  
+###Bijlage 2q 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1741,51 +1741,51 @@ ii. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden
 
 ###A. (Objectieve en subjectieve factoren)
 
-De subjectieve factoren, bedoeld in artikel 5 van de regeling, worden als volgt in punten gewaardeerd: 
+De subjectieve factoren, bedoeld in artikel 5 van de regeling, worden als volgt in punten gewaardeerd:
 
-a. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per ha met intervallen van 10 punten;  
+a.De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per ha met intervallen van 10 punten;
 
-b. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+b.De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.764,69 tot en met € 13.613,41 per hectare, met intervallen van € 680,67. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.764,69 tot en met € 13.613,41 per hectare, met intervallen van € 680,67.
 ###C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.764,69 tot en met € 13.613,41 per hectare, met intervallen van € 680,67. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.764,69 tot en met € 13.613,41 per hectare, met intervallen van € 680,67.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling worden als volgt geschat:
 
-a. de aanwezigheid van hoogspanningsmasten op € 3.000,– per stuk;  
+a.de aanwezigheid van hoogspanningsmasten op € 3.000,– per stuk;
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd op € 1,– per m <sup>2</sup> (vierkante meter);  
+b.de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd op € 1,– per m<sup>2</sup> (vierkante meter);
 
-c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+c.de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;
 
-d. de aanwezigheid van drainage in klassen van € 0,– tot en met € 780,– per hectare met intervallen van € 130,–;  
+d.de aanwezigheid van drainage in klassen van € 0,– tot en met € 780,– per hectare met intervallen van € 130,–;
 
-e. de mate van vlakligging in klassen van € 0,– tot en met € 2.000,– per hectare, met intervallen van € 1.000,–;  
+e.de mate van vlakligging in klassen van € 0,– tot en met € 2.000,– per hectare, met intervallen van € 1.000,–;
 
-f. de aanwezigheid van een drinkwatervoorziening op € 500,– per voorziening;  
+f.de aanwezigheid van een drinkwatervoorziening op € 500,– per voorziening;
 
-g. de aanwezigheid van obstakels van € 0,– tot en met € 2.000,– per geval met intervallen van € 100,–;  
+g.de aanwezigheid van obstakels van € 0,– tot en met € 2.000,– per geval met intervallen van € 100,–;
 
-h. de aanwezigheid van extreme onkruidverontreiniging of van een uitzonderlijk lage bemestingstoestand elk van € 0,– tot en met € 500,– per ha, met intervallen van € 100,–;  
+h.de aanwezigheid van extreme onkruidverontreiniging of van een uitzonderlijk lage bemestingstoestand elk van € 0,– tot en met € 500,– per ha, met intervallen van € 100,–;
 
-i. de aanwezigheid van bodemziekten in extreme mate van € 0,– tot en met € 2.000,– per ha met intervallen van € 100,–;  
+i.de aanwezigheid van bodemziekten in extreme mate van € 0,– tot en met € 2.000,– per ha met intervallen van € 100,–;
 
-j. de aanwezigheid van een opslagplaats of bietendam op € 1.500,– per geval;  
+j.de aanwezigheid van een opslagplaats of bietendam op € 1.500,– per geval;
 
-k. de aanwezigheid van schaduw- en/of wortelschade van € 0,– tot en met € 5,– per strekkende meter, met intervallen van € 0,50;  
+k.de aanwezigheid van schaduw- en/of wortelschade van € 0,– tot en met € 5,– per strekkende meter, met intervallen van € 0,50;
 
-l. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
+l.de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,65. Daarnaast wordt de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom met de factor (1.00) vermenigvuldigd.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,65. Daarnaast wordt de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom met de factor (1.00) vermenigvuldigd.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.
 
-### Bijlage  2r  
+### Bijlage 2r 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1825,9 +1825,9 @@ e. schaduw- en wortelschade op € 0,–; € 2,50; € 5,–; € 7,50 of �
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,2.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2s  
+### Bijlage  2s 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1865,11 +1865,11 @@ d. andere dan agrarische waarden met een zonodig door deskundigen vast te stelle
 e. schaduw- en wortelschade op € 0,–; € 2,50; € 5,–; € 7,50 of € 12,50 per strekkende meter.   
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33, van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,6.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33, van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,6.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bjilage  2t  
+### Bjilage  2t 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -1907,15 +1907,15 @@ d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,25.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2u  
+###Bijlage 2u 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-#### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St. Oedenrode: blokdeel Liempde-Nijnsel’* 
+####*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St. Oedenrode: blokdeel Liempde-Nijnsel’*
 
-### A  
+### A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -1931,27 +1931,27 @@ d. De kwaliteit van de openbare ontsluitingswegen voor woning en bedrijfsgebouwe
 
 e. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van respectievelijk: € 0,–; € 200,–; € 450,–; € 750,–; € 1.100,– en € 1.500,– per hectare;  
 
-f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+### B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
-### D  
+### D 
 
 ####(Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van hoogspanningsmasten van het 150 kV-net en het 380 kV-net op respectievelijk € 1.125,– en € 1.350,– per mast en de kabeloverspanningen van beide netten op € 0,15 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a. de aanwezigheid van hoogspanningsmasten van het 150 kV-net en het 380 kV-net op respectievelijk € 1.125,– en € 1.350,– per mast en de kabeloverspanningen van beide netten op € 0,15 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,70 per m <sup>2</sup> (vierkante meter);  
+b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,70 per m<sup>2</sup> (vierkante meter);  
 
 c. de aanwezigheid van afsluiterkooien behorende bij transportleidingen op € 412,– per kooi;  
 
@@ -1959,23 +1959,23 @@ d. de aanwezigheid van pootrechten op € 2,25 per strekkende meter en daarnaas
 
 e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.  
 
-### E  
+### E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,20.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2v  
+### Bijlage 2v 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-#### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Marshoek-Hoonhorst’* 
+####*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Marshoek-Hoonhorst’*
 
-### A  
+### A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -1987,21 +1987,21 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+### B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.361,– tot en met € 21.781,– per hectare, met intervallen van € 681,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.361,– tot en met € 21.781,– per hectare, met intervallen van € 681,–.
 
-### C  
+### C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.361,– tot en met € 21.781,– per hectare, met intervallen van € 681,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.361,– tot en met € 21.781,– per hectare, met intervallen van € 681,–.
 
-### D  
+### D 
 
 ####(Verrekenposten)
 
@@ -2017,23 +2017,23 @@ d. schaduw- en wortelschade in 4 klassen van € 0,–; € 4,–; € 8,– 
 
 e. drainage in 5 klassen van € 0,–; € 200,–; € 400,–; € 800,– en € 1.200,– per hectare;  
 
-f. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.    
+f. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.  
 
-### E  
+### E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,76.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2w  
+###Bijlage 2w 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-#### *Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Raarhoek-Veldhoek’* 
+####*Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Raarhoek-Veldhoek’*
 
-### A  
+### A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -2045,25 +2045,25 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 6 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+### B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 23.597,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 23.597,– per hectare, met intervallen van € 908,–.
 
-### C  
+### C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 23.597,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 23.597,– per hectare, met intervallen van € 908,–.
 
-### D  
+### D 
 
 ####(Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat:
 
 a. erfdienstbaarheden op € 250,–; € 750,–; € 1.000,–; € 1.250,–; € 1.500,–; € 10.000,–; € 12.000,–; €14.000,– of € 16.000,– per geval;  
 
@@ -2075,23 +2075,23 @@ d. schaduw- en wortelwerking in 4 klassen van € 0,–; € 4,–; € 8,–
 
 e. drainage in 4 klassen van € 0,–; € 200,–; € 400,– en € 800,– per hectare;  
 
-f. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.    
+f. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.  
 
-### E  
+### E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,22.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2x  
+###Bijlage 2x 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Den Ham-Lemele’ 
 
-### A  
+### A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -2105,21 +2105,21 @@ c. De waterhuishoudkundige toestand van de kavels in 4 klassen van respectieveli
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-### B  
+### B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.361,– tot en met € 20.420,– per hectare, met intervallen van € 681,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 1.361,– tot en met € 20.420,– per hectare, met intervallen van € 681,–. 
 
-### C  
+### C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.361,– tot en met € 20.420,– per hectare, met intervallen van € 681,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 1.361,– tot en met € 20.420,– per hectare, met intervallen van € 681,–. 
 
-### D  
+### D 
 
 ####(Verrekenposten)
 
@@ -2137,23 +2137,23 @@ e. vlakligging van de percelen in 4 klassen van € 0,–; € 250,–; € 5
 
 f. drainage in 5 klassen van € 0,–; € 200,–; € 400,–; € 800,– en € 1.200,– per hectare;  
 
-g. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.    
+g. filterbuizen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag.   
 
-### E  
+### E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,35.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2y  
+###Bijlage 2y 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Duiven-Westervoort’ 
 
-### A  
+### A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -2165,21 +2165,21 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 5 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-### B  
+### B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 15.882,– tot en met € 29.496,– per hectare, met intervallen van € 1.134,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 15.882,– tot en met € 29.496,– per hectare, met intervallen van € 1.134,–. 
 
-### C  
+### C 
 
 ####(Waardeveranderingen als bedoeld in artikel 49 van de wet)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 15.882,– tot en met € 29.496,– per hectare, met intervallen van € 1.134,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 15.882,– tot en met € 29.496,– per hectare, met intervallen van € 1.134,–. 
 
-### D  
+### D 
 
 ####(Verrekenposten)
 
@@ -2195,21 +2195,21 @@ d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 e. de extreme wortel- en schaduwwerking op € 8.000,– per ha, waarbij de oppervlakte met wortel- en schaduwwerking wordt berekend op basis van stroken van 10, 20 en 30 meter, afhankelijk van de omvang van de schade;  
 
-f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
-### E  
+### E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,7.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2z  
+###Bijlage 2z 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Salland-West’ 
+Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Salland-West’
 
 ####A. (Objectieve en subjectieve factoren)
 
@@ -2221,15 +2221,15 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 9 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 2.273,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 2.273,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/wet/bodembescherming/BWBR0003994/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 2.723,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 2.723,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
 ####D. (Verrekenposten)
 
@@ -2243,19 +2243,19 @@ c. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag
 
 d. schaduw- en wortelschade in 4 klassen van € 0,–; € 6,–; € 12,– en € 18,– per strekkende meter perceelsrand;  
 
-e. drainage in 5 klassen van € 0,–; € 200,–; € 400,–; € 800,– en € 1.200,– per hectare.    
+e. drainage in 5 klassen van € 0,–; € 200,–; € 400,–; € 800,– en € 1.200,– per hectare.   
 
 ####E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in artikel 166 van de wet, te vermenigvuldigen met een factor 2,08.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2aa  
+###Bijlage 2aa 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor het blok A ‘Wedde’ van het deelgebied ‘Westerwolde’ in de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën 
+Nadere regels per blok betreffende de tweede schatting voor het blok A ‘Wedde’ van het deelgebied ‘Westerwolde’ in de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën
 
 ####A. (Objectieve en subjectieve factoren)
 
@@ -2265,15 +2265,15 @@ a. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 b. De verkaveling omvattende ontsluiting, vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 4 punten per hectare met intervallen van 1 punt;  
 
-c. De bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. De bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.126,03 tot en met € 12.932,74 per hectare, met intervallen van € 680,67.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.126,03 tot en met € 12.932,74 per hectare, met intervallen van € 680,67. 
 
 ####C. (Waardeveranderingen als bedoeld in de [artikelen 24](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) en [25 van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.126,03 tot en met € 12.932,74 per hectare, met intervallen van € 680,67.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.126,03 tot en met € 12.932,74 per hectare, met intervallen van € 680,67. 
 
 ####D. (Verrekenposten)
 
@@ -2285,21 +2285,21 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. schaduw- en wortelwerking van € 5,– tot € 20,– met intervallen van € 5,– per strekkende meter afhankelijk van de ligging van de houtopstanden;  
 
-d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 2,2.  
+1.  Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 2,2.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2.  De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2bb  
+### Bijlage 2bb 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+#### , behorende bij artikel 25  van de Regeling herverkaveling
 
 Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Twijzel-Buitenpost’ 
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -2309,21 +2309,21 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 k
 
 b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten tot en met 40 punten met intervallen van 10 punten per hectare;  
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van € 0,–; € 1.361,–; € 3.403,–; € 5.445,– en € 7.487,– of 10 klassen van € 8.168,– tot en met € 14.294,– met intervallen van € 680,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van € 0,–; € 1.361,–; € 3.403,–; € 5.445,– en € 7.487,– of 10 klassen van € 8.168,– tot en met € 14.294,– met intervallen van € 680,–.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van € 0,–; € 1.361,–; € 3.403,–; € 5.445,– en € 7.487,– of 10 klassen van € 8.168,– tot en met € 14.294,– met intervallen van € 680,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van € 0,–; € 1.361,–; € 3.403,–; € 5.445,– en € 7.487,– of 10 klassen van € 8.168,– tot en met € 14.294,– met intervallen van € 680,–.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -2337,23 +2337,23 @@ c. bij het opheffen van erfdienstbaarheden gelden de volgende bedragen: € 1.0
 
 d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,204.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2cc  
+### Bijlage  2cc 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Rijssen, blok Rectum’ 
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -2365,21 +2365,21 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 9 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -2391,23 +2391,23 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. de andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-d. schaduw- en wortelschade in 4 klassen van € 0,–; € 6,–; € 12,– en € 18,– per strekkende meter perceelsrand.    
+d. schaduw- en wortelschade in 4 klassen van € 0,–; € 6,–; € 12,– en € 18,– per strekkende meter perceelsrand.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in artikel 166 van de wet, te vermenigvuldigen met een factor 0,9.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2dd  
+### Bijlage  2dd 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Ooijpolder’
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
@@ -2415,17 +2415,17 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 5 k
 
 b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 10.210,– tot en met € 24.958,– per hectare, met intervallen van € 1.135,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 10.210,– tot en met € 24.958,– per hectare, met intervallen van € 1.135,–. 
 
-#### *C. (Waardeveranderingen als bedoeld in artikel 49 van de wet)* 
+####*C. (Waardeveranderingen als bedoeld in artikel 49 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 10.210,– tot en met € 24.958,– per hectare, met intervallen van € 1.135,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 10.210,– tot en met € 24.958,– per hectare, met intervallen van € 1.135,–. 
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -2439,37 +2439,37 @@ d. erfdienstbaarheden van een weg over een erf op € 700,– per geval;
 
 e. de aanwezigheid van extreem storende plekken van € 0,– tot en met € 2.000,– per plek met intervallen van € 100,–;  
 
-f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,79.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2ee  
+### Bijlage  2ee 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Oud-Vossemeer’
 
-#### *A. (Subjectieve factoren)* 
+####*A. (Subjectieve factoren)*
 
 De subjectieve factoren, bedoeld in artikel 5, van de regeling, worden als volgt in punten gewaardeerd: 
 
 a. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-b. De bepaling van de waardeveranderingen als gevolg van landinrichting in de subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+b. De bepaling van de waardeveranderingen als gevolg van landinrichting in de subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.538,– tot en met € 18.151,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 4.538,– tot en met € 18.151,– per hectare, met intervallen van € 908,–. 
 
-#### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+####*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.538,– tot en met € 18.151,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 4.538,– tot en met € 18.151,– per hectare, met intervallen van € 908,–. 
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -2493,23 +2493,23 @@ i. de aanwezigheid van een verharde opslagplaats of een geschikte bietendam op �
 
 j. de aanwezigheid van schaduw- en/of wortelschade van € 0,– tot en met € 10,– per strekkende meter, met intervallen van € 1,–;  
 
-k. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+k. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,33. Voor de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom wordt de factor 0,8 gehanteerd.  
 
 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.  
 
-3. Bij de bepaling van het nut van de verkaveling wordt voor de inbrengsituatie bij kavelruilen, vanaf kavelruil Tholen no. 17, voorzover deze binnen en naar de ruilverkaveling Oud-Vossemeer voorafgaand aan het plan van toedeling, hebben plaatsgevonden, uitgegaan van de situatie als zou deze kavelruil niet hebben plaatsgevonden.    
+3. Bij de bepaling van het nut van de verkaveling wordt voor de inbrengsituatie bij kavelruilen, vanaf kavelruil Tholen no. 17, voorzover deze binnen en naar de ruilverkaveling Oud-Vossemeer voorafgaand aan het plan van toedeling, hebben plaatsgevonden, uitgegaan van de situatie als zou deze kavelruil niet hebben plaatsgevonden.   
 
-### Bijlage  2ff  
+### Bijlage  2ff 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Nieuwleusen-Ruitenveen’
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
@@ -2519,17 +2519,17 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 3.630,– tot en met € 22.698,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 3.630,– tot en met € 22.698,– per hectare, met intervallen van € 908,–. 
 
-#### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+####*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -2537,21 +2537,21 @@ a. erfdienstbaarheden op € 250,– tot en met € 1.500,– per geval met in
 
 b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-c. de andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+c. de andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,70.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2gg  
+### Bijlage  2gg 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St.-Oedenrode: blokdeel Schijndel’
+#### Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘St.-Oedenrode: blokdeel Schijndel’ 
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in geldbedragen gewaardeerd: 
 
@@ -2565,17 +2565,17 @@ d. De kwaliteit van de openbare ontsluitingswegen voor woning en bedrijfsgebouwe
 
 e. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 6 klassen van € 0,–; € 200,–; € 450,–; € 750,–; € 1.100,– en € 1.500,– per hectare;  
 
-f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.698,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.698,– per hectare, met intervallen van € 908,–. 
 
-#### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+####*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.698,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.698,– per hectare, met intervallen van € 908,–. 
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -2589,17 +2589,17 @@ d. de aanwezigheid van pootrechten op € 2,25 per strekkende meter en daarnaas
 
 e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,30.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2hh  
+### Bijlage 2hh 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+#### , behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Kollumerland’
 
@@ -2615,15 +2615,15 @@ c. De waterhuishoudkundige toestand van de kavels in 4 klassen van respectieveli
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten per hectare tot en met 20 punten per hectare met intervallen van 5 punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van € 0,–; € 1.350,–; € 3.405,–; € 5.445,– en € 7.485,– of 10 klassen van € 8.170,– tot en met € 14.295,– met intervallen van € 680,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van € 0,–; € 1.350,–; € 3.405,–; € 5.445,– en € 7.485,– of 10 klassen van € 8.170,– tot en met € 14.295,– met intervallen van € 680,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van € 0,–; € 1.350,–; € 3.405,–; € 5.445,– en € 7.485,– of 10 klassen van € 8.170,– tot en met € 14.295,– met intervallen van € 680,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van € 0,–; € 1.350,–; € 3.405,–; € 5.445,– en € 7.485,– of 10 klassen van € 8.170,– tot en met € 14.295,– met intervallen van € 680,–. 
 
 ####D. (Verrekenposten)
 
@@ -2641,13 +2641,13 @@ e. het opheffen van erfdienstbaarheden op € 1.250,–; € 2.500,–; € 3
 
 f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-g. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+g. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,204. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,204. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2ii  
+### Bijlage  2ii 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2663,15 +2663,15 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 7 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de verkavelingsfactor geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de verkavelingsfactor geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare met intervallen van € 908,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–. 
 
 ####D. (Verrekenposten)
 
@@ -2689,13 +2689,13 @@ e. drainage in 4 klassen van € 0,–; € 200,–; € 400,– en € 800,
 
 f. filterbuizen en leidingen ten behoeve van beregeningsinstallaties met een door deskundigen vast te stellen bedrag;  
 
-g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,6. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,6. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2jj  
+### Bijlage  2jj 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2719,15 +2719,15 @@ f. De hoofdontsluiting van het glastuinbouwgebied door aangelegde en verbeterde 
 
 g. De ontsluiting van de individuele bedrijven door verdichtingswegen in 3 klassen van respectievelijk 0, 100 en 200 punten per hectare;  
 
-h. Gemeenschappelijke voorzieningen (waterberging en ruimte voor nutsvoorzieningen) ten behoeve van de ontwikkeling van het tuinbouwgebied in 2 klassen van 0 en 75 punten per hectare.    
+h. Gemeenschappelijke voorzieningen (waterberging en ruimte voor nutsvoorzieningen) ten behoeve van de ontwikkeling van het tuinbouwgebied in 2 klassen van 0 en 75 punten per hectare.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 10 van de Reconstructiewet Midden-Delfland](../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
 
 ####D. (Verrekenposten)
 
@@ -2741,13 +2741,13 @@ c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-e. kaden, gelegen bij een woonhuis in 3 klassen van respectievelijk € 200,–; € 50,– en € 10,– per vierkante meter.    
+e. kaden, gelegen bij een woonhuis in 3 klassen van respectievelijk € 200,–; € 50,– en € 10,– per vierkante meter.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 49 van de Reconstructiewet Midden-Delfland](../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md), te vermenigvuldigen met een factor 2,63 voor eigendom en met een factor 1,97 voor verpachte grond. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 49 van de Reconstructiewet Midden-Delfland](../../../../wet/reconstructiewet/midden-delfland/BWBR0003094/README.md), te vermenigvuldigen met een factor 2,63 voor eigendom en met een factor 1,97 voor verpachte grond. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid. 
 
-### Bijlage  2kk  
+### Bijlage 2kk 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2765,15 +2765,15 @@ c. De waterhuishoudkundige toestand in 4 klassen van respectievelijk 3, 7, 11 en
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten per hectare tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat voor cultuurgrond in 7 klassen van € 25.000,– tot en met € 31.000,– met intervallen van € 1.000,– en voor de overige gronden in 6 klassen van € 0,– tot en met € 25.000,– met intervallen van € 5.000,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat voor cultuurgrond in 7 klassen van € 25.000,– tot en met € 31.000,– met intervallen van € 1.000,– en voor de overige gronden in 6 klassen van € 0,– tot en met € 25.000,– met intervallen van € 5.000,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 7 klassen van € 25.000,– tot en met € 31.000,– met intervallen van € 1.000,– en voor de overige gronden in 6 klassen van € 0,– tot en met € 25.000,– met intervallen van € 5.000,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 7 klassen van € 25.000,– tot en met € 31.000,– met intervallen van € 1.000,– en voor de overige gronden in 6 klassen van € 0,– tot en met € 25.000,– met intervallen van € 5.000,–. 
 
 ####D. (Verrekenposten)
 
@@ -2787,13 +2787,13 @@ c. bij het opheffen van erfdienstbaarheden gelden de volgende bedragen: € 750
 
 d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,05. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,05. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2ll  
+### Bijlage  2ll 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2809,15 +2809,15 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 5 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 28.100,– tot en met € 36.500,– per hectare, met intervallen van € 1.200,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 28.100,– tot en met € 36.500,– per hectare, met intervallen van € 1.200,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 28.100,– tot en met € 36.500,– per hectare, met intervallen van € 1.200,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 28.100,– tot en met € 36.500,– per hectare, met intervallen van € 1.200,–. 
 
 ####D. (Verrekenposten)
 
@@ -2833,13 +2833,13 @@ d. de extreme wortel- en schaduwwerking op € 8.000,– per hectare te bereken
 
 e. extreem storende plekken;  
 
-f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,2. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,2. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2mm  
+### Bijlage  2mm 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2855,15 +2855,15 @@ b. De waterhuishoudkundige toestand van de kavels in drie klassen van respectiev
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in vijf klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 18.151,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 18.151,– per hectare, met intervallen van € 908,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 18.151,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 18.151,– per hectare, met intervallen van € 908,–. 
 
 ####D. (Verrekenposten)
 
@@ -2877,13 +2877,13 @@ c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 d. de andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-e. de kwaliteit van het onderhoud en de bewerkbaarheid van percelen in 7 klassen van € 0.– tot en met € 3.000,– per hectare met intervallen van € 500,– per hectare.    
+e. de kwaliteit van het onderhoud en de bewerkbaarheid van percelen in 7 klassen van € 0.– tot en met € 3.000,– per hectare met intervallen van € 500,– per hectare.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 2,45. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 2,45. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2nn  
+### Bijlage  2nn 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2899,15 +2899,15 @@ b. De waterhuishoudkundige toestand van de kavels in drie klassen van respectiev
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in vijf klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ####B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 17.244,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 908,– tot en met € 17.244,– per hectare, met intervallen van € 908,–. 
 
 ####C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 17.244,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 908,– tot en met € 17.244,– per hectare, met intervallen van € 908,–. 
 
 ####D. (Verrekenposten)
 
@@ -2927,15 +2927,15 @@ f. de kwaliteit van het onderhoud van de percelen met een aftrek in 4 klassen va
 
 g. de mate van vlakligging van de percelen met een aftrek in 4 klassen van € 0,– tot en met € 2.250,– per hectare met intervallen van € 750,– per hectare;  
 
-h. de aanwezigheid en de kwaliteit van de drainage met een toeslag in 4 klassen van € 0,– tot en met € 900,– per hectare met intervallen van € 300,– per hectare.    
+h. de aanwezigheid en de kwaliteit van de drainage met een toeslag in 4 klassen van € 0,– tot en met € 900,– per hectare met intervallen van € 300,– per hectare.   
 
 ####E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 2,2. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 2,2. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2oo  
+### Bijlage 2oo 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+#### , behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Westzaan’
 
@@ -2973,9 +2973,9 @@ e. de kwaliteit van het onderhoud en de bewerkbaarheid van percelen op € 1.00
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,08.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2pp  
+### Bijlage 2pp 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -2999,7 +2999,7 @@ f. De bepaling van de waardeveranderingen als gevolg van herinrichting in de obj
 ###B. (Verandering van de agrarische waarde)
 
 Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.806,70 tot en met € 10.436,94 per hectare, met intervallen van € 453,78. 
-###C. (Waardeveranderingen als bedoeld in de [artikelen 24](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) en [25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md)
+###C. (Waardeveranderingen als bedoeld in de [artikelen 24](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) en[ 25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md)
 
 De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.806,70 tot en met € 10.436,94 per hectare, met intervallen van € 453,78. 
 ###D. (Verrekenposten)
@@ -3021,9 +3021,9 @@ f. andere dan agrarische waarde met een door deskundigen vast te stellen bedrag.
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,3  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2qq  
+### Bijlage 2qq 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3071,9 +3071,9 @@ h. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,93.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2rr  
+### Bijlage 2rr 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3111,15 +3111,15 @@ e. schaduw- en wortelwerking in 2 klassen van € 3,– en € 5,– per meter
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met factor 2,31.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2ss  
+### Bijlage  2ss 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ### Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Echtener en Groote Veenpolder’  
 
-### *A. (Objectieve en subjectieve factoren)* 
+###*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
@@ -3131,14 +3131,14 @@ c. De waterhuishoudkundige toestand van de kavels in 2 klassen van respectieveli
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 punten per hectare tot en met 20 punten per hectare met intervallen van 5 punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
-### *B. (Verandering van de agrarische waarde)* 
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
+###*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0, € 1.815 of € 4.538 per hectare, of in 12 klassen van € 4.538 tot en met € 14.520 per hectare met intervallen van € 907. 
-### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0, € 1.815 of € 4.538 per hectare, of in 12 klassen van € 4.538 tot en met € 14.520 per hectare met intervallen van € 907.
+###*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0, € 1.815 of € 4.538 per hectare, of in 12 klassen van € 4.538 tot en met € 14.520 per hectare met intervallen van € 907. 
-### *D. (Verrekenposten)* 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0, € 1.815 of € 4.538 per hectare, of in 12 klassen van € 4.538 tot en met € 14.520 per hectare met intervallen van € 907.
+###*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -3154,20 +3154,20 @@ e. het opheffen van erfdienstbaarheden op € 1.250, € 2.500, € 3.750, �
 
 f. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-g. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.   
-### *E. (Overig)* 
+g. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.  
+###*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,8.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2tt  
+### Bijlage  2tt 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-### Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Hupsel-Zwolle’  
+###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Hupsel-Zwolle’ 
 
-### *A. (Objectieve en subjectieve factoren)* 
+###*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
@@ -3177,14 +3177,14 @@ b. De afstand van de gebouwen tot de dichtstbijzijnde openbare verharde weg in 5
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
-### *B. (Verandering van de agrarische waarde)* 
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
+###*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 20.875 tot en met 31.765 per hectare, met intervallen van € 1361. 
-### *C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 20.875 tot en met 31.765 per hectare, met intervallen van € 1361.
+###*C. (Waardeveranderingen als bedoeld in artikel 71 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 20.875 tot en met 31.765 per hectare, met intervallen van € 1361. 
-### *D. (Verrekenposten)* 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 20.875 tot en met 31.765 per hectare, met intervallen van € 1361.
+###*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
@@ -3198,16 +3198,16 @@ d. Erfdienstbaarheid van een weg over een erf op € 1000, € 2000, € 3000
 
 e. Extreem storende plekken van € 0 tot en met € 2000 per plek met intervallen van € 100;  
 
-f. Andere dan agrarische waarde met een door deskundigen vast te stellen bedrag.   
-### *E. (Overig)* 
+f. Andere dan agrarische waarde met een door deskundigen vast te stellen bedrag.  
+###*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,146.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2uu  
+###Bijlage 2uu 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+#### , behorende bij artikel 25  van de Regeling herverkaveling
 
 Nadere regels per blok betreffende de tweede schatting voor de aanpassingsinrichting ‘Borssele’ 
 ###A. (Subjectieve factoren)
@@ -3252,13 +3252,13 @@ k. de aanwezigheid van andere dan agrarische waarden met een door deskundigen va
 
 1. Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,17. Voor de schattingswaarde van over- en onderbedelingen ter zake van verpacht eigendom wordt de factor 0,70 gehanteerd.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.  
 
-### Bijlage  2vv  
+### Bijlage  2vv 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Driebruggen’ 
+Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Driebruggen’
 ###A. (Objectieve en subjectieve factoren)
 
 De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
@@ -3269,13 +3269,13 @@ b. De waterhuishoudkundige toestand van de kavels in 3 klassen van 0, 15 en 30 p
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 80 punten per hectare, met intervallen van 20 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907 tot en met € 21.781 per hectare, met intervallen van € 907. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 907 tot en met € 21.781 per hectare, met intervallen van € 907.
 ###C. (Waardeveranderingen als bedoeld in artikel 49 van de wet)
 
-De waarde van de onroerende zaken, die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907 tot en met € 21.781 per hectare, met intervallen van € 907. 
+De waarde van de onroerende zaken, die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 907 tot en met € 21.781 per hectare, met intervallen van € 907.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -3288,18 +3288,18 @@ c. andere dan agrarische waarden met een door een deskundige vast te stellen bed
 
 d. de aanwezigheid van archeologische sites, met een door een deskundige vast te stellen bedrag;  
 
-e. oppervlakteverkleining van huiskavels als gevolg van de toewijzing van wegen en/of van water in het begrenzingenplan met de schattingswaarde 0, in klassen van respectievelijk € 0, € 0,50, € 1, € 1,50, € 5, € 10, € 25, € 50, en € 75 per vierkante meter.   
+e. oppervlakteverkleining van huiskavels als gevolg van de toewijzing van wegen en/of van water in het begrenzingenplan met de schattingswaarde 0, in klassen van respectievelijk € 0, € 0,50, € 1, € 1,50, € 5, € 10, € 25, € 50, en € 75 per vierkante meter.  
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,8. 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
+1. Over- en onderbedeling worden verrekend door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,8.  2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2ww  
+### Bijlage 2ww 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Rouveen’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -3311,21 +3311,21 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 9 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in de [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 3.630,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -3337,24 +3337,24 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. de andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-d. schaduw- en wortelschade in 4 klassen van € 0,– , € 6,– , € 12,– en € 18,– per strekkende meter perceelsrand.    
+d. schaduw- en wortelschade in 4 klassen van € 0,– , € 6,– , € 12,– en € 18,– per strekkende meter perceelsrand.  
 
-### E  
+###E 
 
 ####(Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,08.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,08. 
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid. 
 
-### Bijlage  2xx  
+### Bijlage 2xx 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Sauwerd’ 
+Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Sauwerd’
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: <sup> 2  De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.  </sup> 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten<sup> 2De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.</sup> gewaardeerd: 
 
 a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 5 klassen van respectievelijk 0, 15, 30, 45 en 60 punten per hectare;  
 
@@ -3377,25 +3377,25 @@ a. de aanwezigheid van hoogspanningsmasten op € 2.500,– per stuk;
 
 b. de aanwezigheid van verontreiniging in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door een deskundige vast te stellen bedrag;  
 
-c. de aanwezigheid van puin of afval in cultuurgronden in 3 klassen van € 0,80 per m <sup>2</sup>, € 1,60 per m <sup>2</sup> en € 2,50 per m <sup>2</sup>;  
+c. de aanwezigheid van puin of afval in cultuurgronden in 3 klassen van € 0,80 per m<sup>2</sup>, € 1,60 per m<sup>2</sup> en € 2,50 per m<sup>2</sup>;  
 
-d. schaduw- en wortelschade zal worden verrekend op basis van € 0,35 per m <sup>2</sup> voor lichte beplanting en € 0,75 per m <sup>2</sup> voor zware beplanting;  
+d. schaduw- en wortelschade zal worden verrekend op basis van € 0,35 per m<sup>2</sup> voor lichte beplanting en € 0,75 per m<sup>2</sup> voor zware beplanting;  
 
 e. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.   
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,2.  
+1.  Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,2.  
 
 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2yy  
+### Bijlage 2yy 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Doniawerstal’ 
+Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Doniawerstal’
 ###A. (Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: <sup> 2  de geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.  </sup> 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten<sup>2de geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.</sup> gewaardeerd:
 
 a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 klassen van respectievelijk 0, 6, 12, en 18 punten per hectare;  
 
@@ -3407,16 +3407,16 @@ d. De waterhuishoudkundige toestand van de kavels in 4 klassen van respectieveli
 
 e. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 20 punten per hectare, met intervallen van 5 punten;  
 
-f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+f. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 4 klassen van € 0,–, € 2.722,–, € 5.445,– en € 8.168,– per hectare of in 9 klassen van € 11.789,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 4 klassen van € 0,–, € 2.722,–, € 5.445,– en € 8.168,– per hectare of in 9 klassen van € 11.789,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.
 ###C. (Waardeverandering als bedoeld in [artikel 71 van de Landinrichtingswet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 4 klassen van € 0,–, € 2.722,–, € 5.445,– en € 8.168,– per hectare of in 9 klassen van € 11.789,– tot en met € 19.058,– per hectare, met intervallen van € 907,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 4 klassen van € 0,–, € 2.722,–, € 5.445,– en € 8.168,– per hectare of in 9 klassen van € 11.789,– tot en met € 19.058,– per hectare, met intervallen van € 907,–.
 ###D. (Verrekenposten)
 
-De verrekenposten, bedoeld in artikel 23, eerste lid, van de regeling, worden als volgt geschat: 
+De verrekenposten, bedoeld in artikel 23, eerste lid, van de regeling, worden als volgt geschat:
 
 a. de aanwezigheid van hoogspanningsmasten van het 150kV-net op € 1.000,– per stuk en overspanningen op € 5,45 per strekkende meter zakelijk rechtstrook;  
 
@@ -3432,21 +3432,21 @@ f. drainage op € 500,– per hectare;
 
 g. vlakligging op € 1.000,– per hectare;  
 
-h. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.   
+h. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.  
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,57.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,57.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2zz  
+### Bijlage 2zz 
 
 ####, behorende bij artikel 27  van de Regeling herverkaveling
 
-Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Hoek’ 
+Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Hoek’
 ###A. (Subjectieve factoren)
 
-De subjectieve factoren, bedoeld in artikel 5 van de regeling, worden als volgt in punten gewaardeerd: <sup> 1  De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.  </sup> 
+De subjectieve factoren, bedoeld in artikel 5 van de regeling, worden als volgt in punten<sup>1De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.</sup> gewaardeerd: 
 
 a. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare, met intervallen van 10 punten;  
 
@@ -3486,17 +3486,17 @@ k. schaduw- en wortelschade zal worden verrekend op basis van € 0,– tot en 
 l. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.   
 ###E. (Overig)
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,75.  
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,75.   
 
 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2aaa  
+### Bijlage 2aaa 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-#### *Nadere regels per blok betreffende de tweede schatting voor de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën, deelgebied ‘Emmen’, blok ‘Noord’* 
+####*Nadere regels per blok betreffende de tweede schatting voor de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën, deelgebied ‘Emmen’, blok ‘Noord’*
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
 De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: 
 
@@ -3506,17 +3506,17 @@ b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare, met intervallen van 25 punten;  
 
-d. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78.
 
-#### *C. (Waardeverandering als bedoeld in artikel 24 en 25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)* 
+####*C. (Waardeverandering als bedoeld in artikel 24 en 25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 12.252,07 per hectare, met intervallen van € 453,78. 
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, eerste lid, van de regeling, worden als volgt geschat: 
 
@@ -3526,23 +3526,23 @@ b. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door de
 
 c. schaduw- en wortelschade van € 0,– tot een maximum van € 15,00 per strekkende meter, met intervallen van € 3,–;  
 
-d. de andere dan agrarische waarde met een door deskundigen vast te stellen bedrag.    
+d. de andere dan agrarische waarde met een door deskundigen vast te stellen bedrag.  
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
-1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 2,15.  
+1.Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 2,15.
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2.De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.
 
-### Bijlage  2bbb  
+###Bijlage 2bbb 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
-#### *Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Lemsterpolders’* 
+####*Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Lemsterpolders’*
 
-#### *A. (Objectieve en subjectieve factoren)* 
+####*A. (Objectieve en subjectieve factoren)*
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: <sup> 1  De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.  </sup> 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten<sup>1De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in artikel 222, vierde lid, van de wet, gedeeld door het totaal aantal punten.</sup> gewaardeerd: 
 
 a. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 40 en 80 punten per hectare;  
 
@@ -3550,17 +3550,17 @@ b. de waterhuishoudkundige toestand van de kavels in 2 klassen van respectieveli
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare, met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-#### *B. (Verandering van de agrarische waarde)* 
+####*B. (Verandering van de agrarische waarde)*
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 14.000,– en € 15.000,– per hectare of in 5 klassen van € 0,–, € 3.000,–, € 4.000,–, € 5.000 en € 6.000,– per hectare.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 14.000,– en € 15.000,– per hectare of in 5 klassen van € 0,–, € 3.000,–, € 4.000,–, € 5.000 en € 6.000,– per hectare.
 
-#### *C. (Waardeverandering als bedoeld in artikel 49 van de wet)* 
+####*C. (Waardeverandering als bedoeld in artikel 49 van de wet)*
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 14.000,– en € 15.000,– per hectare of in 5 klassen van € 0,–, € 3.000,–, € 4.000,–, € 5.000 en € 6.000,– per hectare.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 14.000,– en € 15.000,– per hectare of in 5 klassen van € 0,–, € 3.000,–, € 4.000,–, € 5.000 en € 6.000,– per hectare.
 
-#### *D. (Verrekenposten)* 
+####*D. (Verrekenposten)*
 
 De verrekenposten, bedoeld in artikel 23, eerste lid, van de regeling, worden als volgt geschat: 
 
@@ -3572,21 +3572,21 @@ c. het opheffen van erfdienstbaarheden op € 1.250,–, € 2.500, € 3.750,�
 
 d. de aanwezigheid van verontreiniging in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-e. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.    
+e. de andere dan agrarische waarde met een door een deskundige vast te stellen bedrag.  
 
-#### *E. (Overig)* 
+####*E. (Overig)*
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,32.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2ccc  
+###Bijlage 2ccc 
 
 ####, behorende bij artikel 25  van de Regeling Herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Oude Veenkoloniën; blok IV Hoogezand’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -3600,21 +3600,21 @@ c. de afstand van woningen en/of woongedeelten van boerderijen tot de dichtstbij
 
 d. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van respectievelijk 0, 25, 50, 75 en 100 punten per hectare;  
 
-e. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.352,92 tot en met € 11.798,29 per hectare, met intervallen van € 544,53.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 6.352,92 tot en met € 11.798,29 per hectare, met intervallen van € 544,53.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in de [artikelen 24](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md) en [25 van de Herinrichtingswet Oost Groningen en de Gronings-Drentse Veenkoloniën)](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.352,92 tot en met € 11.798,29 per hectare, met intervallen van € 544,53.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 6.352,92 tot en met € 11.798,29 per hectare, met intervallen van € 544,53.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -3632,47 +3632,47 @@ e. schaduw- en wortelschade op € 0,50 per vierkante meter voor lichte beplant
 
 f. andere dan agrarische waarde met een door een deskundige vast te stellen bedrag;  
 
-g. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.    
+g. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 1,3.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2ddd  
+###Bijlage 2ddd 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Kromme Rijn’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
-De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten gewaardeerd: <sup> 2  De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in [artikel 222, vierde lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), gedeeld door het totaal aantal punten.  </sup> 
+De objectieve en subjectieve factoren, bedoeld in artikel 4 en 5 van de regeling, worden als volgt in punten<sup>2  De geldwaarde van een punt is de breuk van het totaal van de ten laste van de gezamenlijke eigenaren komende kosten van de landinrichting, bedoeld in [artikel 222, vierde lid, van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), gedeeld door het totaal aantal punten.</sup> gewaardeerd:
 
 a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 10 en 20 punten per hectare;  
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in vijf klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 2.500,– en € 15.000,– per hectare of in 11 klassen van € 40.000,– tot en met € 50.000,– per hectare, met intervallen van € 1.000,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 2.500,– en € 15.000,– per hectare of in 11 klassen van € 40.000,– tot en met € 50.000,– per hectare, met intervallen van € 1.000,–.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 2.500,– en € 15.000,– per hectare of in 11 klassen van € 40.000,– tot en met € 50.000,– per hectare, met intervallen van € 1.000,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 2.500,– en € 15.000,– per hectare of in 11 klassen van € 40.000,– tot en met € 50.000,– per hectare, met intervallen van € 1.000,–.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -3688,17 +3688,17 @@ d. de kwaliteit van het onderhoud en de bewerkbaarheid van percelen in 7 klassen
 
 e. schaduw- en wortelschade in 4 klassen van € 0,– tot en met € 12,– per strekkende meter, afhankelijk van de ligging van het perceel, met intervallen van € 4,– per strekkende meter;  
 
-f. de aanwezigheid van fruitteeltopstanden met een door deskundigen vast te stellen bedrag.    
+f. de aanwezigheid van fruitteeltopstanden met een door deskundigen vast te stellen bedrag.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,00.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2eee  
+###Bijlage 2eee 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3714,19 +3714,19 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 7 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
 ### D  
 
@@ -3744,7 +3744,7 @@ d. de waarde van gebouwen met een door een deskundige vast te stellen bedrag;
 
 e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-f. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+f. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.  
 
 ### E  
 
@@ -3752,9 +3752,9 @@ f. de aanwezigheid van andere dan agrarische waarden met een door deskundigen va
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,85.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2fff  
+###Bijlage 2fff 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3770,19 +3770,19 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 7 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 22.689,– per hectare, met intervallen van € 908,–.
 
 ### D  
 
@@ -3802,7 +3802,7 @@ e. de waarde van gebouwen met een door een deskundige vast te stellen bedrag;
 
 f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.  
 
 ### E  
 
@@ -3810,9 +3810,9 @@ g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen va
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,7.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2ggg  
+###Bijlage 2ggg 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3832,19 +3832,19 @@ c. de waterhuishoudkundige toestand van de kavels in 2 klassen van respectievel
 
 d. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 16.500,– tot en met € 33.000,– per hectare, met intervallen van € 1.500,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 16.500,– tot en met € 33.000,– per hectare, met intervallen van € 1.500,–.
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 16.500,– tot en met € 33.000,– per hectare, met intervallen van € 1.500,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 16.500,– tot en met € 33.000,– per hectare, met intervallen van € 1.500,–.
 
 ### D.  
 
@@ -3860,7 +3860,7 @@ c. de aanwezigheid van hoogspanningsmasten op € 1.502,– per mast en overspa
 
 d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-e. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.    
+e. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.  
 
 ### E  
 
@@ -3868,9 +3868,9 @@ e. andere dan agrarische waarden met een door een deskundige vast te stellen bed
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,78.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2hhh  
+###Bijlage 2hhh 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -3890,19 +3890,19 @@ c. de waterhuishoudkundige toestand van de kavels in 2 klassen van respectieveli
 
 d. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 11.000,– tot en met € 22.000,– per hectare, met intervallen van € 1.000,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 11.000,– tot en met € 22.000,– per hectare, met intervallen van € 1.000,–.
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 11.000,– tot en met € 22.000,– per hectare, met intervallen van € 1.000,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 11.000,– tot en met € 22.000,– per hectare, met intervallen van € 1.000,–.
 
 ### D  
 
@@ -3916,7 +3916,7 @@ b. schaduw- en wortelschade op € 0,– per strekkende meter of in drie klasse
 
 c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-d. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.    
+d. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.  
 
 ### E  
 
@@ -3924,9 +3924,9 @@ d. andere dan agrarische waarden met een door een deskundige vast te stellen bed
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,14.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2iii  
+### Bijlage 2iii 
 
 ####, behorende bij artikel 27  van de Regeling herverkaveling
 
@@ -3940,19 +3940,19 @@ De subjectieve factoren, bedoeld in artikel 5 van de regeling, worden als volgt 
 
 a. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 7 klassen van respectievelijk 0, 5, 10, 15, 20, 30 en 40 punten per hectare;  
 
-b. de bepaling van de waardeveranderingen als gevolg van landinrichting in de subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+b. de bepaling van de waardeveranderingen als gevolg van landinrichting in de subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 10.000,– tot en met € 40.000,– per hectare, met intervallen van € 1.000,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 10.000,– tot en met € 40.000,– per hectare, met intervallen van € 1.000,–. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in artikel 49 van de wet)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 10.000,– tot en met € 40.000,– per hectare, met intervallen van € 1.000,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 10.000,– tot en met € 40.000,– per hectare, met intervallen van € 1.000,–. 
 
 ### D  
 
@@ -3960,7 +3960,7 @@ De waarde van de onroerende zaken die een waardeverandering als bedoeld in artik
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m <sup>2</sup> (vierkante meter);  
+a. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m<sup>2</sup> (vierkante meter);  
 
 b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
@@ -3972,7 +3972,7 @@ e. de aanwezigheid van een uitzonderlijk lage bemestingstoestand van € 0,– 
 
 f. de aanwezigheid van schaduw- en/of wortelschade in 11 klassen van € 0,– tot en met € 5,– per strekkende meter met intervallen van € 0,50;  
 
-g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.    
+g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
 
 ### E  
 
@@ -3980,9 +3980,9 @@ g. de aanwezigheid van andere dan agrarische waarden met een door deskundigen va
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,93. Voor de verrekening van over- en onderbedeling van eigendom waarop geregistreerde pacht rust, bedoeld in [artikel 151 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), wordt de waarde van de schatting vermenigvuldigd met een factor 0,65.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factoren, bedoeld in het eerste lid.   
 
-### Bijlage  2jjj  
+### Bijlage 2jjj 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4000,19 +4000,19 @@ b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 3 kl
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 18.000 tot en met € 33.000 per hectare, met intervallen van € 1.000,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 18.000 tot en met € 33.000 per hectare, met intervallen van € 1.000,–. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 18.000 tot en met € 33.000 per hectare, met intervallen van € 1.000,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 18.000 tot en met € 33.000 per hectare, met intervallen van € 1.000,–. 
 
 ### D  
 
@@ -4032,7 +4032,7 @@ e. de aanwezigheid van puin of afval in of op cultuurgronden op € 2,–, €�
 
 f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-g. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.    
+g. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag.   
 
 ### E  
 
@@ -4040,11 +4040,11 @@ g. andere dan agrarische waarden met een door een deskundige vast te stellen bed
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 0,8.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2kkk  
+### Bijlage 2kkk 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën, deelgebied ‘Emmen’, blok ‘Zuid’
 
@@ -4060,19 +4060,19 @@ b. de afstand van woningen en/of woongedeelten van boerderijen tot de dichtstbij
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-d. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. de bepaling van de waardeveranderingen als gevolg van herinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde herinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 11.798,29 per hectare, met intervallen van € 453,78.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 7.260,48 tot en met € 11.798,29 per hectare, met intervallen van € 453,78. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in de artikelen 24 en 25 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 11.798,29 per hectare, met intervallen van € 453,78.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 7.260,48 tot en met € 11.798,29 per hectare, met intervallen van € 453,78. 
 
 ### D  
 
@@ -4086,7 +4086,7 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-d. schaduw- en wortelschade van € 0,– tot een maximum van € 15,– m <sup>1</sup> (per strekkende meter) met een door een deskundige vast te stellen bedrag.    
+d. schaduw- en wortelschade van € 0,– tot een maximum van € 15,– m<sup>1</sup> (per strekkende meter) met een door een deskundige vast te stellen bedrag.   
 
 ### E  
 
@@ -4094,11 +4094,11 @@ d. schaduw- en wortelschade van € 0,– tot een maximum van € 15,– m <su
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 33 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](../../../../wet/herinrichtingswet/oost-groningen/en/de/gronings-drentse/veenkoloniën/BWBR0003143/README.md), te vermenigvuldigen met een factor 2,5.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2lll  
+### Bijlage 2lll 
 
-####, nadere regels bij artikel 25  van de Regeling herverkaveling
+####, nadere regels bij artikel 25  van de Regeling herverkaveling 
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Centraal Plateau’
 
@@ -4112,19 +4112,19 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 2 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 4.538,– per hectare of in 8 klassen van € 13.614,– tot en met € 24.730,– per hectare, met intervallen van € 1.588,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 4.538,– per hectare of in 8 klassen van € 13.614,– tot en met € 24.730,– per hectare, met intervallen van € 1.588,–. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in artikel 49 van de wet)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 4.538,– per hectare of in 8 klassen van € 13.614,– tot en met € 24.730,– per hectare, met intervallen van € 1.588,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 4.538,– per hectare of in 8 klassen van € 13.614,– tot en met € 24.730,– per hectare, met intervallen van € 1.588,–. 
 
 ### D  
 
@@ -4132,9 +4132,9 @@ De waarde van de onroerende zaken die een waardeverandering als bedoeld in artik
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van hoogspanningsmasten op € 560,– per stuk en overspanningen op € 0,17 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a. de aanwezigheid van hoogspanningsmasten op € 560,– per stuk en overspanningen op € 0,17 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m <sup>2</sup> (vierkante meter);  
+b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m<sup>2</sup> (vierkante meter);  
 
 c. erfdienstbaarheden in 11 klassen van €250,–, € 750,–, € 1.000,–, 1.250,–, € 1.500,–, € 4.000,–, € 6.000,–, € 8.000,–, € 10.000,– € 12.000,– en € 16.000,– per geval;  
 
@@ -4146,7 +4146,7 @@ f. de aanwezigheid van andere dan agrarische waarde met een door deskundigen vas
 
 g. inkomens- en/of vermogensschade als gevolg van toewijzing van gronden aan openbare lichamen wordt verrekend tussen de opkomende en afgaande eigenaar met een door deskundigen vast te stellen bedrag;  
 
-h. de aanwezigheid van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.    
+h. de aanwezigheid van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.   
 
 ### E  
 
@@ -4154,9 +4154,9 @@ h. de aanwezigheid van gebouwen, werken, beplantingen en houtopstanden met een d
 
 1. Over- en onderbedeling worden verrekend door de in een eurobedrag uitgedrukte waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,52.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2mmm  
+### Bijlage 2mmm 
 
 ####, nadere regels bij artikel 25  van de Regeling herverkaveling
 
@@ -4172,19 +4172,19 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in twe
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in zes klassen van 0 tot en met 50 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 2.269,– en € 9.076,– per hectare of in 11 klassen van € 22.689,– tot en met € 31.765,– per hectare, met intervallen van € 907,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 2.269,– en € 9.076,– per hectare of in 11 klassen van € 22.689,– tot en met € 31.765,– per hectare, met intervallen van € 907,–. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in artikel 49 van de wet)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 2.269,– en € 9.076,– per hectare of in 11 klassen van € 22.689,– tot en met € 31.765,– per hectare, met intervallen van € 907,– .  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 2.269,– en € 9.076,– per hectare of in 11 klassen van € 22.689,– tot en met € 31.765,– per hectare, met intervallen van € 907,– . 
 
 ### D  
 
@@ -4200,7 +4200,7 @@ c. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag
 
 d. de aanwezigheid van hoogspanningsmasten op € 660,– per stuk;  
 
-e. oppervlakteverkleining van huiskavels als gevolg van de toewijzing in het begrenzingenplan van wegbermen met de schattingswaarde 0, of van water met de schattingswaarde 0, in acht klassen van respectievelijk € 0,–, € 2,50, € 4,–, € 5,–, € 10,–, € 25,–, € 50,– en € 75,– per vierkante meter.    
+e.oppervlakteverkleining van huiskavels als gevolg van de toewijzing in het begrenzingenplan van wegbermen met de schattingswaarde 0, of van water met de schattingswaarde 0, in acht klassen van respectievelijk € 0,–, € 2,50, € 4,–, € 5,–, € 10,–, € 25,–, € 50,– en € 75,– per vierkante meter. 
 
 ### E  
 
@@ -4208,9 +4208,9 @@ e. oppervlakteverkleining van huiskavels als gevolg van de toewijzing in het beg
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 1,22.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2nnn  
+### Bijlage 2nnn 
 
 ####, nadere regels bij artikel 25  van de Regeling herverkarveling
 
@@ -4228,19 +4228,19 @@ b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 9 kl
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 #### *(Verandering van de agrarische waarde)* 
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten. 
 
 ### C  
 
 #### *(Waardeveranderingen als bedoeld in artikel 71 van de wet)* 
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van 3.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten. 
 
 ### D  
 
@@ -4254,7 +4254,7 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. de andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-d. schaduw- en wortelschade in 4 klassen van € 0,– , € 6,– , € 12,– en € 18,– per strekkende meter perceelsrand.    
+d. schaduw- en wortelschade in 4 klassen van € 0,– , € 6,– , € 12,– en € 18,– per strekkende meter perceelsrand.   
 
 ### E  
 
@@ -4262,9 +4262,9 @@ d. schaduw- en wortelschade in 4 klassen van € 0,– , € 6,– , € 12,�
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,12.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2ooo  
+### Bijlage 2ooo 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4284,19 +4284,19 @@ c. De waterhuishoudkundige toestand van de kavels in 2 klassen van respectieveli
 
 d. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 100 punten per hectare met intervallen van 25 punten;  
 
-e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 9.075,60 tot en met € 14.520,97 per hectare, met intervallen van € 907,56.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 9.075,60 tot en met € 14.520,97 per hectare, met intervallen van € 907,56. 
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 49 van de wet)](../../../../wet/landinrichtingswet/BWBR0003793/README.md)
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 9.075,60 tot en met € 14.520,97 per hectare, met intervallen van € 907,56.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 9.075,60 tot en met € 14.520,97 per hectare, met intervallen van € 907,56. 
 
 ### D  
 
@@ -4310,11 +4310,11 @@ b. de aanwezigheid van puin of afval in cultuurgronden in drie klassen van respe
 
 c. schaduw- en wortelschade van € 0,– tot een maximum van € 21,– per strekkende meter met intervallen van € 7,–;  
 
-d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming ](../../../../wet/wet/bodembescherming/BWBR0003994/README.md)met een door deskundigen vast te stellen bedrag;  
 
 e. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door een deskundige vast te stellen bedrag.    
+f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door een deskundige vast te stellen bedrag.   
 
 ### E  
 
@@ -4322,9 +4322,9 @@ f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door ee
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,66.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2ppp  
+### Bijlage 2ppp 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4338,20 +4338,20 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 2 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 4.537,80 per hectare of in 13 klassen van € 16.336,09 tot en met € 24.504,13 per hectare, met intervallen van € 680,67. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 4.537,80 per hectare of in 13 klassen van € 16.336,09 tot en met € 24.504,13 per hectare, met intervallen van € 680,67.
 ###C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 4.537,80 per hectare of in 13 klassen van € 16.336,09 tot en met € 24.504,13 per hectare, met intervallen van € 680,67. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 4.537,80 per hectare of in 13 klassen van € 16.336,09 tot en met € 24.504,13 per hectare, met intervallen van € 680,67.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
 
-a. de aanwezigheid van hoogspanningsmasten op € 560,– per stuk en overspanningen op € 0,17 per m <sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
+a. de aanwezigheid van hoogspanningsmasten op € 560,– per stuk en overspanningen op € 0,17 per m<sup>2</sup> (vierkante meter) zakelijk rechtstrook;  
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m <sup>2</sup> (vierkante meter);  
+b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,88 per m<sup>2</sup> (vierkante meter);  
 
 c. erfdienstbaarheden in 11 klassen van € 250,–, € 750,–, € 1.000,–, 1.250,–, € 1.500,–, € 4.000,–, € 6.000,–, € 8.000,–, € 10.000,– € 12.000,– en € 16.000,– per geval;  
 
@@ -4363,14 +4363,14 @@ f. de aanwezigheid van andere dan agrarische waarde met een door deskundigen vas
 
 g. inkomens- en/of vermogensschade als gevolg van toewijzing van gronden aan openbare lichamen, wordt verrekend tussen de opkomende en afgaande eigenaar, met een door deskundigen vast te stellen bedrag;  
 
-h. de aanwezigheid van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.   
+h. de aanwezigheid van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de in een eurobedrag uitgedrukte waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,454.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C, worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2qqq  
+### Bijlage 2qqq 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4384,13 +4384,13 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 5 k
 
 b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 4 klassen van 0 tot en met 45 punten per hectare met intervallen van 15 punten;  
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 7 klassen van € 18.700,– tot en met € 25.300,– per hectare, met intervallen van € 1.100,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 7 klassen van € 18.700,– tot en met € 25.300,– per hectare, met intervallen van € 1.100,–.
 ###C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 18.700,– tot en met € 25.300,– per hectare, met intervallen van € 1.100,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 18.700,– tot en met € 25.300,– per hectare, met intervallen van € 1.100,–.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4407,14 +4407,14 @@ e. schaduw- en wortelschade op € 0,50 of € 0,75 per vierkante meter;
 
 f. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-g. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door een deskundige vast te stellen bedrag.   
+g. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door een deskundige vast te stellen bedrag.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,0.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2rrr  
+### Bijlage 2rrr 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4428,13 +4428,13 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 7 
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 27.227,– per hectare, met intervallen van € 1.361,–. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 27.227,– per hectare, met intervallen van € 1.361,–.
 ###C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 27.227,– per hectare, met intervallen van € 1.361,–. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 27.227,– per hectare, met intervallen van € 1.361,–.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4447,14 +4447,14 @@ c. de waarde van gebouwen, werken en beplantingen met een door een deskundige va
 
 d. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
-e. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.   
+e. de aanwezigheid van andere dan agrarische waarden met een door deskundigen vast te stellen bedrag.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,96.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2sss  
+### Bijlage 2sss 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4468,13 +4468,13 @@ a. De afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 k
 
 b. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 4 klassen van 0 tot en met 45 punten per hectare met intervallen van 15 punten of in 1 klasse van 11,2 punten per hectare;  
 
-c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavel-verbeteringswerken.   
+c. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavel-verbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 9.756,27 tot en met € 15.882,31 per hectare, met intervallen van € 680,67. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 9.756,27 tot en met € 15.882,31 per hectare, met intervallen van € 680,67.
 ###C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 9.756,27 tot en met € 15.882,31 per hectare, met intervallen van € 680,67. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 9.756,27 tot en met € 15.882,31 per hectare, met intervallen van € 680,67.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4489,14 +4489,14 @@ d. schaduw - en wortelschade op € 0,50 of € 0,75 per vierkante meter;
 
 e. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.   
+f. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,7.  
 
 2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.   
 
-### Bijlage  2ttt  
+### Bijlage  2ttt 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
@@ -4512,19 +4512,19 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 4 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelwerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelwerken.  
 
 ### B  
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– per hectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– per hectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).
 
 ### C  
 
 ####(Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– perhectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 14.500,– tot en met € 28.000,– per hectare, met intervallen van € 1.500,– (cultuurgrond ‘binnendijks’) of in klassen van € 24.000,– tot en met € 34.000,– perhectare, met intervallen van € 2.000,– (cultuurgrond ‘buitendijks, grenzend aan de Noordoostpolder’).
 
 ### D  
 
@@ -4540,7 +4540,7 @@ c. de aanwezigheid van puin of afval in of op cultuurgronden in 3 klassen van �
 
 d. de aanwezigheid van andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.    
+e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 
 ### E  
 
@@ -4548,15 +4548,15 @@ e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door de
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,51.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2uuu  
+### Bijlage  2uuu 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Land van Maas en Waal’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -4566,21 +4566,21 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten, of in 1 klasse van 25 punten per hectare;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 8.000,– en € 10.000,– per hectare, of in 9 klassen van € 20.000,– tot en met € 30.000,– per hectare met intervallen van € 1.250,–.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 3 klassen van € 0,–, € 8.000,– en € 10.000,– per hectare, of in 9 klassen van € 20.000,– tot en met € 30.000,– per hectare met intervallen van € 1.250,–.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 8.000,– en € 10.000,– per hectare, of in 9 klassen van € 20.000,– tot en met € 30.000,– per hectare met intervallen van € 1.250,–.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 3 klassen van € 0,–, € 8.000,– en € 10.000,– per hectare, of in 9 klassen van € 20.000,– tot en met € 30.000,– per hectare met intervallen van € 1.250,–.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -4588,29 +4588,29 @@ De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden al
 
 a. de aanwezigheid van hoogspanningsmasten op € 1.280 per stuk;  
 
-b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,93 per m <sup>2</sup> (vierkante meter);  
+b. de aanwezigheid van ondergrondse kabels en leidingen, waarvoor een beperkt recht is gevestigd, op € 0,93 per m<sup>2</sup> (vierkante meter);  
 
 c. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
 
 d. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.    
+e. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,86.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2vvv  
+### Bijlage  2vvv 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
 
 ###Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Baarderadeel’
 
-### A  
+###A 
 
 ####(Objectieve en subjectieve factoren)
 
@@ -4624,21 +4624,21 @@ c. de afstand van particuliere woningen en woongedeelten van boerderijen tot de 
 
 d. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van respectievelijk 0, 5, 10, 15 en 20 punten per hectare;  
 
-e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.    
+e. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 
-### B  
+###B 
 
 ####(Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 6 klassen van € 0,–, € 1.815,12, € 3.630,24, € 5.445,36, € 9.983,16 en € 14.520,97 of in 6 klassen van € 16.336,09 tot en met € 20.873,89 met intervallen van € 907,56.  
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 6 klassen van € 0,–, € 1.815,12, € 3.630,24, € 5.445,36, € 9.983,16 en € 14.520,97 of in 6 klassen van € 16.336,09 tot en met € 20.873,89 met intervallen van € 907,56.
 
-### C  
+###C 
 
 ####(Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 6 klassen van € 0,–, € 1.815,12, € 3.630,24, € 5.445,36, € 9.983,16 en € 14.520,97 of in 6 klassen van € 16.336,09 tot en met € 20.873,89 met intervallen van € 907,56.  
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 6 klassen van € 0,–, € 1.815,12, € 3.630,24, € 5.445,36, € 9.983,16 en € 14.520,97 of in 6 klassen van € 16.336,09 tot en met € 20.873,89 met intervallen van € 907,56.
 
-### D  
+###D 
 
 ####(Verrekenposten)
 
@@ -4652,21 +4652,19 @@ c. het opheffen van erfdienstbaarheden op € 1.000,–, € 2.000,–, € 4
 
 d. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.    
+e. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag.  
 
-### E  
+###E 
 
 ####(Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,84.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2www  
+###Bijlage 2www 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
-
-Treedt in werking per 01-04-2014   
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Over Betuwe Oost’
 
@@ -4680,13 +4678,13 @@ b. de afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 7 kl
 
 c. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten, of in 1 klasse van 25 punten per hectare;  
 
-d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+d. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom of per bedrijf door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 11.344,51 per hectare, of in 11 klassen van € 18.151,21 tot en met € 29.495,71 per hectare met intervallen van € 1.134,45. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 2 klassen van € 0,– en € 11.344,51 per hectare, of in 11 klassen van € 18.151,21 tot en met € 29.495,71 per hectare met intervallen van € 1.134,45.
 ###C. (Waardeveranderingen als bedoeld in [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 11.344,51 per hectare, of in 11 klassen van € 18.151,21 tot en met € 29.495,71 per hectare met intervallen van € 1.134,45. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan wordt met inachtneming van het stelsel van classificatie geschat in 2 klassen van € 0,– en € 11.344,51 per hectare, of in 11 klassen van € 18.151,21 tot en met € 29.495,71 per hectare met intervallen van € 1.134,45.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4705,18 +4703,16 @@ f. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 g. andere dan agrarische waarden met een door deskundigen vast te stellen bedrag;  
 
-h. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.   
+h. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 2,56.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2xxx  
+###Bijlage 2xxx 
 
 ####, behorende bij artikel 25  van de Regeling herverkaveling
-
-Treedt in werking per 01-04-2014   
 
 ####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Haren’
 
@@ -4728,13 +4724,13 @@ a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 k
 
 b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 4 klassen van 0 tot en met 3 punten per hectare met intervallen van 1 punt;  
 
-c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van al uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van al uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0 tot en met € 25.500 per hectare met intervallen van € 1.500. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0 tot en met € 25.500 per hectare met intervallen van € 1.500.
 ###C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0 tot en met € 25.500 per hectare met intervallen van € 1.500. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0 tot en met € 25.500 per hectare met intervallen van € 1.500.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4745,18 +4741,16 @@ De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden al
 
 3. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag;  
 
-4. schaduw- en wortelschade in 4 klassen van € 0,–, € 2,–, € 10,– en € 15,– per strekkende meter perceelsrand.   
+4. schaduw- en wortelschade in 4 klassen van € 0,–, € 2,–, € 10,– en € 15,– per strekkende meter perceelsrand.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,55.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
 
-### Bijlage  2yyy  
+###Bijlage 2yyy 
 
-####, behorende bij artikel 25  van de Regeling herverkaveling
-
-Treedt in werking per 01-04-2014   
+####, behorende bij artikel 25  van de Regeling herverkaveling 
 
 ####Nadere regels per blok betreffende de tweede schatting voor de ruilverkaveling ‘Rijssen; blok Rijssen-West’
 
@@ -4770,13 +4764,13 @@ b. De afstand van gebouwen tot de dichtstbijzijnde openbare verharde weg in 9 kl
 
 c. De verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 5 klassen van 0 tot en met 40 punten per hectare met intervallen van 10 punten;  
 
-d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.   
+d. De bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
 ###B. (Verandering van de agrarische waarde)
 
-Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van 0, 3.000, 4.000, 5.000 en 7.000 punten per hectare, of in 10 klassen van 35.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten. 
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in 5 klassen van 0, 3.000, 4.000, 5.000 en 7.000 punten per hectare, of in 10 klassen van 35.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.
 ###C. (Waardeveranderingen als bedoeld in de [artikel 71 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
 
-De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van 0, 3.000, 4.000, 5.000 en 7.000 punten per hectare, of in 10 klassen van 35.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten. 
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in 5 klassen van 0, 3.000, 4.000, 5.000 en 7.000 punten per hectare, of in 10 klassen van 35.000 punten tot en met 44.000 punten per hectare, met intervallen van 1.000 punten.
 ###D. (Verrekenposten)
 
 De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
@@ -4787,10 +4781,52 @@ b. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artik
 
 c. de andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
 
-d. schaduw- en wortelschade in 4 klassen van € 0,–, € 6,–, € 12,– en € 18,– per strekkende meter perceelsrand.   
+d. schaduw- en wortelschade in 4 klassen van € 0,–, € 6,–, € 12,– en € 18,– per strekkende meter perceelsrand.  
 ###E. (Overig)
 
 1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met een factor 1,24.  
 
-2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.    
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+
+###Bijlage 2zzz 
+
+####, behorende bij artikel 25  van de Regeling herverkaveling
+
+Treedt in werking per 01-07-2014 
+
+####Nadere regels per blok betreffende de tweede schatting voor de herinrichting ‘Midden-Groningen, blok 2 (Schildwolde-Slochteren)’
+
+###A. (Objectieve en subjectieve factoren)
+
+De objectieve en subjectieve factoren, bedoeld in de artikelen 4 en 5 van de regeling worden als volgt in punten gewaardeerd: 
+
+a. de afstand van de kavels tot de dichtstbijzijnde openbare verharde weg in 3 klassen van respectievelijk 0, 1 en 2 punten per hectare;  
+
+b. de verkaveling omvattende vorm, grootte, aantal, afstand tot de gebouwen en mate van kavelconcentratie in 4 klassen van respectievelijk 0, 5, 10 en 15 punten per hectare;  
+
+c. de bepaling van de waardeveranderingen als gevolg van landinrichting in de objectieve en subjectieve factoren geschiedt per eigendom (of per bedrijf) door vergelijking van de toegedeelde kavels met de ingebrachte kavels. Bij de beoordeling van de ingebrachte kavels wordt de invloed van reeds uitgevoerde landinrichtingswerken geëlimineerd, behoudens die van kavelverbeteringswerken.  
+###B. (Verandering van de agrarische waarde)
+
+Een verandering van de agrarische waarde, bedoeld in artikel 2 van de regeling, wordt bepaald op het verschil tussen de waarde bij de eerste schatting en de waarde bij de tweede schatting, waarbij laatstgenoemde waarde met inachtneming van het stelsel van classificatie wordt geschat in klassen van € 0,– tot en met € 34.000,– per hectare, met intervallen van € 1.000,–.
+###C. (Waardeveranderingen als bedoeld in [artikel 49 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md))
+
+De waarde van de onroerende zaken die een waardeverandering als bedoeld in artikel 3 van de regeling ondergaan, wordt met inachtneming van het stelsel van classificatie geschat in klassen van € 0,– tot en met € 34.000,– per hectare, met intervallen van € 1.000,–.
+###D. (Verrekenposten)
+
+De verrekenposten, bedoeld in artikel 23, tweede lid, van de regeling, worden als volgt geschat: 
+
+a. de aanwezigheid van verontreinigingen in of op de bodem als bedoeld in [artikel 1 van de Wet Bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met een door deskundigen vast te stellen bedrag;  
+
+b. de aanwezigheid van puin of afval in of op cultuurgronden in 3 klassen van € 0,80, € 1,60 en € 2,40 per vierkante meter;  
+
+c. andere dan agrarische waarden met een door een deskundige vast te stellen bedrag;  
+
+d. de waarde van gebouwen, werken, beplantingen en houtopstanden met een door deskundigen vast te stellen bedrag.  
+###E. (Overig)
+
+1. Over- en onderbedeling worden verrekend, door de waarde van de schatting, bedoeld in [artikel 166 van de wet](../../../../wet/landinrichtingswet/BWBR0003793/README.md), te vermenigvuldigen met de factor 1,0.  
+
+2. De vastgestelde waardeveranderingen, bedoeld in de onderdelen B en C worden verrekend na vermenigvuldiging met de factor, bedoeld in het eerste lid.  
+
+3. Het bedrag van de afkoop van ruilverkavelingsrenten van de voormalige ruilverkaveling Slochteren wordt verrekend.  
 

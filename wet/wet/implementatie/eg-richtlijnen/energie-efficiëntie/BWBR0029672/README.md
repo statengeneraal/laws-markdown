@@ -20,21 +20,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken;  
+a.  *Onze Minister:* Onze Minister van Economische Zaken;  
 
-b. *energie:* alle vormen van in de handel verkrijgbare energie, waaronder elektriciteit, aardgas (met inbegrip van vloeibaar aardgas en LPG), brandstoffen voor verwarming of koeling (met inbegrip van stadsverwarming en -koeling), steenkool en bruinkool, turf, transportbrandstof (met uitzondering van bunkerbrandstoffen voor het lucht- en zeevervoer) en biomassa;  
+b.  *energie:* alle vormen van in de handel verkrijgbare energie, waaronder elektriciteit, aardgas (met inbegrip van vloeibaar aardgas en LPG), brandstoffen voor verwarming of koeling (met inbegrip van stadsverwarming en -koeling), steenkool en bruinkool, turf, transportbrandstof (met uitzondering van bunkerbrandstoffen voor het lucht- en zeevervoer) en biomassa;  
 
-c. *biomassa:* de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van de landbouw – met inbegrip van plantaardige en dierlijke stoffen –, de bosbouw en aanverwante bedrijfstakken, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;  
+c.  *biomassa:* de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van de landbouw – met inbegrip van plantaardige en dierlijke stoffen –, de bosbouw en aanverwante bedrijfstakken, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;  
 
-d. *warmte:* warm water bestemd voor ruimteverwarming en warm tapwater bestemd voor huishoudelijke doeleinden;  
+d.  *warmte:* warm water bestemd voor ruimteverwarming en warm tapwater bestemd voor huishoudelijke doeleinden;  
 
-e. *koude:* koud water bestemd voor ruimtekoeling;  
+e.  *koude:* koud water bestemd voor ruimtekoeling;  
 
-f. *eindafnemer:* een natuurlijke persoon of rechtspersoon die energie koopt voor eigen eindgebruik;  
+f.  *eindafnemer:* een natuurlijke persoon of rechtspersoon die energie koopt voor eigen eindgebruik;  
 
-g. *energiegerelateerd product:* een in de Europese Unie in de handel gebrachte of in gebruik genomen zaak die tijdens het gebruik een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in onder deze wet vallende energiegerelateerde producten te worden ingebouwd en die ten behoeve van eindgebruikers in de handel worden gebracht of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;  
+g.  *energiegerelateerd product:* een in de Europese Unie in de handel gebrachte of in gebruik genomen zaak die tijdens het gebruik een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in onder deze wet vallende energiegerelateerde producten te worden ingebouwd en die ten behoeve van eindgebruikers in de handel worden gebracht of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;  
 
-h. *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt.    
+h.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md).   
 
 ### §  2  
 
@@ -59,7 +59,7 @@ b. de tarieven voor de koop of het gebruik van een meetinrichting als bedoeld in
 3.  Een beheerder van een koudenet voorziet in een transparante, eenvoudige en goedkope procedure voor de behandeling van klachten van eindafnemers over de betrouwbaarheid van de meetinrichting.   
 4.  Indien een meetrichting die op afstand uitleesbaar is door een beheerder van een koudenet aan een eindafnemer ter beschikking wordt gesteld, kan die eindafnemer deze meter weigeren. In dat geval wordt door een beheerder van een koudenet een niet op afstand uitleesbare meter ter beschikking gesteld.   
 5.  Een beheerder van een koudenet leest meetgegevens van een eindafnemer, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de eindafnemer hierom verzoekt.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens. 
 
 ### §  3  
 
@@ -75,7 +75,7 @@ b. de frequentie van een verbruiks- en indicatief kostenoverzicht inzake het ver
 
 c. het verstrekken van gegevens over het verbruik van koude, en  
 
-d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,   welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.  
+d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,   welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c. 
 
 ### §  4  
 
@@ -83,7 +83,7 @@ d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,  
 
 ### Artikel  5  
 
-Bij algemene maatregel van bestuur worden regels gesteld over de informatie die netbeheerders, leveranciers van of handelaren in energie met uitzondering van elektriciteit en gas als bedoeld in artikel 1, onderdeel b, van de Gaswet, verstrekken in of bij contracten, facturen of ontvangstbewijzen over energie, welke regels per energiesoort en per categorie eindafnemers kunnen verschillen.  
+Bij algemene maatregel van bestuur worden regels gesteld over de informatie die netbeheerders, leveranciers van of handelaren in energie met uitzondering van elektriciteit en gas als bedoeld in [artikel 1, onderdeel b, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md), verstrekken in of bij contracten, facturen of ontvangstbewijzen over energie, welke regels per energiesoort en per categorie eindafnemers kunnen verschillen. 
 
 ### §  5  
 
@@ -93,15 +93,15 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 De artikelen 2, eerste lid en tweede lid, onderdeel a, 3, 4 en 5 zijn van overeenkomstige toepassing ten aanzien van elektriciteit, gas en warmte, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in artikel 1, onderdeel k, van de Elektriciteitswet 1998;  
+a.  *beheerder van een elektriciteitsnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-b. *beheerder van een gasnet:* de netbeheerder, bedoeld in artikel 1, onderdeel e, van de Gaswet;  
+b.  *beheerder van een gasnet:* de netbeheerder, bedoeld in [artikel 1, onderdeel e, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in artikel 95a, eerste lid, van de Elektriciteitswet 1998;  
+c. *eindafnemer van elektriciteit:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 95a, eerste lid, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in artikel 43, eerste lid, van de Gaswet;  
+d. *eindafnemer van gas:* een afnemer, niet zijnde een afnemer als bedoeld in [artikel 43, eerste lid, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md); 
 
-e. *eindafnemer van warmte:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft die groter is dan 100 kW.    
+e.  *eindafnemer van warmte:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft die groter is dan 100 kW.  
 
 ### §  6  
 
@@ -117,7 +117,7 @@ b. maatregelen ter verbetering van de energie-efficiëntie;
 
 c. overige maatregelen ter verbetering van energiebesparing.     
 2.  Onze Minister gebruikt gegevens of inlichtingen, welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van de taak, bedoeld in het eerste lid, uitsluitend voor de uitvoering van die taak.   
-3.  Ter uitvoering van de taak, bedoeld in het eerste lid, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent: 
+3.  Ter uitvoering van de taak, bedoeld in het eerste lid, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent:
 
 a. degenen van wie Onze Minister kan verlangen dat zij hem gegevens en inlichtingen verstrekken;  
 
@@ -127,12 +127,12 @@ c. de termijn waarbinnen de gegevens en inlichtingen aan Onze Minister worden ve
 
 d. de wijze waarop de gegevens en inlichtingen aan Onze Minister worden verstrekt;  
 
-e. de vorm waarin de gegevens en inlichtingen aan Onze Minister worden verstrekt.     
+e. de vorm waarin de gegevens en inlichtingen aan Onze Minister worden verstrekt.    
 
 ### Artikel  8  
 
 1.  Onze Minister kan een ander opdragen werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in artikel 7, eerste lid. In dat geval zijn artikel 7, tweede en derde lid, van overeenkomstige toepassing.   
-2.  Indien de taak, bedoeld in artikel 7, eerste lid, aan een ander is opgedragen en deze bij de uitvoering van deze taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.   
+2.  Indien de taak, bedoeld in artikel 7, eerste lid, aan een ander is opgedragen en deze bij de uitvoering van deze taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.  
 
 ### Hoofdstuk  2  
 
@@ -151,7 +151,7 @@ a. indien het energiegerelateerde product niet voldoet aan de bij of krachtens h
 
 b. indien het energiegerelateerde product dan wel het type, waartoe het energiegerelateerde product behoort, niet bij een keuring is goedgekeurd.     
 3.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende het verbod categorieën van energiegerelateerde producten te installeren of te gebruiken op een bepaalde plaats of wijze of onder bepaalde omstandigheden.   
-4.  De regels, bedoeld in het eerste lid, zijn niet van toepassing op het gebruik van energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding of een daarmee bij algemene maatregel van bestuur gelijk te stellen huishouding.   
+4.  De regels, bedoeld in het eerste lid, zijn niet van toepassing op het gebruik van energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding of een daarmee bij algemene maatregel van bestuur gelijk te stellen huishouding.  
 
 ### Artikel  11  
 
@@ -171,7 +171,7 @@ a. het gebruik van aanduidingen inzake de goedkeuring;
 
 b. de gevallen waarin een goedkeuring kan worden geschorst of ingetrokken;  
 
-c. de wijze waarop een goedkeuring kan worden geschorst of ingetrokken;     
+c. de wijze waarop een goedkeuring kan worden geschorst of ingetrokken;    
 
 ### Artikel  12  
 
@@ -184,7 +184,7 @@ b. de normen volgens welke de controle plaatsvindt;
 
 c. de vergoeding van de voor de controle gemaakte kosten van de ingevolge artikel 11, eerste lid, aangewezen instelling.     
 3.  De ingevolge artikel 11, eerste lid, aangewezen instelling wijst de personen aan, die met de controle zullen zijn belast.   
-4.  De vervaardiger of de importeur van de energiegerelateerde producten is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die energiegerelateerde producten te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.   
+4.  De vervaardiger of de importeur van de energiegerelateerde producten is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die energiegerelateerde producten te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.  
 
 ### Artikel  13  
 
@@ -211,16 +211,16 @@ f. het verbod in de onderdelen a of b bedoelde gevallen gegevens als bedoeld in 
 
 g. de verplichting om in de bij of krachtens het besluit aangegeven gevallen op een bij of krachtens het besluit aangegeven wijze het bij of krachtens het besluit aangegeven kenmerk te vermelden of gegevens te verstrekken ter identificatie van de partij of serie, waartoe energiegerelateerde producten behoren, of van het type van energiegerelateerde producten, dan wel de bij of krachtens het besluit aangewezen gegevens ter identificatie van de vervaardiger, de importeur of een ander van wie de energiegerelateerde producten afkomstig zijn.     
 3.  De eisen, bedoeld in het tweede lid, onderdelen a of b, kunnen worden gesteld met betrekking tot een bij of krachtens het besluit aangegeven groep van energiegerelateerde producten. Daarbij kunnen regels worden gesteld volgens welke bij een onderzoek als bedoeld in het tweede lid, onderdeel d, aan de hand van onderzoek met betrekking tot een uit die groep genomen steekproef kan worden getoetst of aan de eisen is voldaan.   
-4.  Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is artikel 12 van overeenkomstige toepassing.   
+4.  Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is artikel 12 van overeenkomstige toepassing.  
 
 ### Artikel  14  
 
 1.  De regels, bedoeld in de artikelen 10, eerste lid, en 13, eerste lid, zijn niet van toepassing op energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gelijkstelling met een huishouding als bedoeld in het eerste lid.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gelijkstelling met een huishouding als bedoeld in het eerste lid.  
 
 ### Artikel  15  
 
-Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.  
+Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn. 
 
 ### §  2  
 
@@ -232,21 +232,21 @@ Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels over de vrijstelling en ontheffing worden gesteld.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de aanvraag, bedoeld in het eerste lid.   
 4.  Een ontheffing als bedoeld in het eerste lid kan onder beperkingen worden verleend.   
-5.  Aan een ontheffing als bedoeld in het eerste lid kan voorschriften worden verbonden.   
+5.  Aan een ontheffing als bedoeld in het eerste lid kan voorschriften worden verbonden.  
 
 ### Artikel  17  
 
 1.  Bij algemene maatregel van bestuur kan een bedrag worden vastgesteld, dat ter zake van een verzoek, gedaan op grond van op dit hoofdstuk berustende bepalingen, door de verzoeker dient te worden betaald.   
 2.  Bij een maatregel als bedoeld in het eerste lid wordt aangewezen degene, aan wie het bedrag, bedoeld in het eerste lid, dient te worden voldaan.   
-3.  Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld omtrent het tijdstip en de wijze van de betaling van het bedrag, bedoeld in het eerste lid.   
+3.  Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld omtrent het tijdstip en de wijze van de betaling van het bedrag, bedoeld in het eerste lid.  
 
 ### Artikel  17a  
 
-Voor zover energiegerelateerde producten bij of krachtens titel 9.4 van de Wet milieubeheer voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing.  
+Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing. 
 
 ### Artikel  18  
 
-(vervallen)  
+(vervallen) 
 
 ### Hoofdstuk  3  
 
@@ -256,26 +256,26 @@ Voor zover energiegerelateerde producten bij of krachtens titel 9.4 van de Wet m
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 is belast de Autoriteit Consument en Markt.   
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
-3.  Van een besluit als bedoeld in het tweede wordt mededeling gedaan door plaatsing in de Staatscourant.   
+3.  Van een besluit als bedoeld in het tweede wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  21  
 
-1.  De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde.   
+1. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde.  
 2.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
-3.  Afdeling 5.4.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+3.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
 
 ### Artikel  22  
 
-De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde of van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000.  
+De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000. 
 
 ### Artikel  28  
 
 1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt.   
-2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.   
+2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  30  
 
-Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete.  
+Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete. 
 
 ### Hoofdstuk  4  
 
@@ -284,11 +284,11 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 ### Artikel  31  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 10 tot en met 17 zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
-2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  32  
 
-Van elk krachtens artikel 5:18 van de Algemene wet bestuursrecht onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd.  
+Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd. 
 
 ### Artikel  33  
 
@@ -306,7 +306,7 @@ b. de desbetreffende groep of een deel daarvan niet mag worden afgeleverd alvore
 
 c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de artikelen 10 en 13 bepaalde;  
 
-d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel wordt genomen, of niet in gebruik genomen mag worden.     
+d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel wordt genomen, of niet in gebruik genomen mag worden.   
 
 ### Hoofdstuk  5  
 
@@ -314,7 +314,7 @@ d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel 
 
 ### Artikel  34a  
 
-De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Hoofdstuk  6  
 
@@ -322,11 +322,11 @@ De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van
 
 ### Artikel  35  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.
 
 ### Artikel  36  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Hoofdstuk  7  
 
@@ -334,62 +334,62 @@ Wijzigt de Wet milieubeheer.
 
 ### Artikel  37  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  38  
 
-Wijzigt de Wet energiebesparing toestellen.   
+Wijzigt de Wet energiebesparing toestellen. 
 
 ### Artikel  39  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  40  
 
 Na de inwerkingtreding van deze wet berust: 
 
-a. het Besluit energie-efficiëntienormen koel- en vriesapparatuur op de artikelen 10, 13 en 18 van deze wet;  
+a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](../../../../../../AMvB/besluit/energie-efficiëntienormen/koel-/en/vriesapparatuur/BWBR0008756/README.md) op de artikelen 10, 13 en 18 van deze wet;  
 
-b. het Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen op de artikelen 10, 13 en 18 van deze wet;  
+b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](../../../../../../AMvB/besluit/energierendementseisen/voorschakelapparaten/voor/etc/BWBR0012851/README.md) op de artikelen 10, 13 en 18 van deze wet;  
 
-c. het Besluit Energy Star-etiketteringsprogramma op de artikelen 13 en 18 van deze wet;  
+c. het [Besluit Energy Star-etiketteringsprogramma](../../../../../../AMvB/besluit/energy/star-etiketteringsprogramma/BWBR0013503/README.md) op de artikelen 13 en 18 van deze wet;  
 
-d. het Besluit etikettering energiegebruik personenauto’s op artikel 13 van deze wet;  
+d. het [Besluit etikettering energiegebruik personenauto’s](../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) op artikel 13 van deze wet;  
 
-e. het Besluit gastoestellen op de artikelen 10, 11, 12, 13, 14, 15 en 18 van deze wet;  
+e. het [Besluit gastoestellen](../../../../../../AMvB/besluit/gastoestellen/BWBR0005384/README.md) op de artikelen 10, 11, 12, 13, 14, 15 en 18 van deze wet;  
 
-f. het Besluit rendementseisen cv-ketels op de artikelen 10, 13 en 18 van deze wet;  
+f. het [Besluit rendementseisen cv-ketels](../../../../../../AMvB/besluit/rendementseisen/cv-ketels/BWBR0005828/README.md) op de artikelen 10, 13 en 18 van deze wet;  
 
-g. het Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur op de artikelen 13 en 18 van deze wet.    
+g. het [Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur](../../../../../../AMvB/kaderbesluit/etikettering/energiegebruik/huishoudelijke/apparatuur/BWBR0007551/README.md) op de artikelen 13 en 18 van deze wet.   
 
 ### Artikel  41  
 
-Indien artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten) (Kamerstukken II 2006/07, 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop artikel 10 van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt: 
+Indien [artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)](../../../../../../wet/implementatiewet/eg-richtlijn/ecologisch/ontwerp/energieverbruikende/etc/BWBR0022654/README.md) (Kamerstukken II 2006/07, 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop artikel 10 van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt: 
 
-a. het Besluit energie-efficiëntienormen koel- en vriesapparatuur op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer;  
+a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](../../../../../../AMvB/besluit/energie-efficiëntienormen/koel-/en/vriesapparatuur/BWBR0008756/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-b. het Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer;  
+b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](../../../../../../AMvB/besluit/energierendementseisen/voorschakelapparaten/voor/etc/BWBR0012851/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-c. het Besluit rendementseisen cv-ketels op de artikelen 10, 13 en 18 van deze wet en artikel 9.4.4, eerste lid, van de Wet milieubeheer.    
+c. het [Besluit rendementseisen cv-ketels](../../../../../../AMvB/besluit/rendementseisen/cv-ketels/BWBR0005828/README.md) op de artikelen 10, 13 en 18 van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 
 ### Artikel  43  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  44  
 
-Deze wet wordt aangehaald als: Wet implementatie EU-richtlijnen energie-efficiëntie.  
+Deze wet wordt aangehaald als: Wet implementatie EU-richtlijnen energie-efficiëntie. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 26 februari 2011  
 Beatrix  
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
 de *vierde* maart 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

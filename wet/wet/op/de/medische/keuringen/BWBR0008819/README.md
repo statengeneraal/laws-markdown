@@ -13,9 +13,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. keuring: vragen over de gezondheidstoestand van de keurling en het verrichten van medisch onderzoek in verband met het aangaan of wijzigen van: 
+a. keuring: vragen over de gezondheidstoestand van de keurling en het verrichten van medisch onderzoek in verband met het aangaan of wijzigen van:  
 
-1°. een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als dienstbetrekking wordt aangemerkt,  
+1°. een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als dienstbetrekking wordt aangemerkt,   
 
 2°. een aanstelling in openbare dienst,  
 
@@ -35,12 +35,12 @@ d. keurend arts: de geneeskundige die de keuring verricht en de keuringvrager zi
 
 e. geneeskundig adviseur: de persoon die aan de keuringvrager in diens opdracht op basis van de keuring van de keurend arts de mededeling, bedoeld in het derde lid van artikel 10, doet;  
 
-f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar beneden de in artikel 5 genoemde vragen niet mogen worden gesteld en het in artikel 6 genoemde onderzoek niet mag worden verricht.    
+f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar beneden de in artikel 5 genoemde vragen niet mogen worden gesteld en het in artikel 6 genoemde onderzoek niet mag worden verricht.   
 
 ### Artikel  2  
 
 1.  Keuringen worden naar hun aard, inhoud en omvang beperkt tot het doel waarvoor zij worden verricht.   
-2.  Keuringsgegevens mogen slechts worden gebruikt voor het doel waarvoor zij zijn verkregen.   
+2.  Keuringsgegevens mogen slechts worden gebruikt voor het doel waarvoor zij zijn verkregen.  
 
 ### Artikel  3  
 
@@ -49,7 +49,7 @@ f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar be
 
 a. onderzoek waarvan het te verwachten belang voor de keuringvrager niet opweegt tegen de risico's daarvan voor de keurling, waaronder begrepen onderzoek specifiek gericht op het verkrijgen van kennis over de kans op een ernstige ziekte waarvoor geen geneeswijze voorhanden is, dan wel waarvan de ontwikkeling niet door medisch ingrijpen kan worden voorkomen of in evenwicht gehouden, of van kennis over een aanwezige, niet behandelbare ernstige ziekte welke naar verwachting eerst na langere tijd manifest zal worden;  
 
-b. onderzoek dat anderszins voor de keurling een onevenredig zware belasting met zich meebrengt.     
+b. onderzoek dat anderszins voor de keurling een onevenredig zware belasting met zich meebrengt.    
 
 ### Artikel  4  
 
@@ -58,12 +58,12 @@ b. onderzoek dat anderszins voor de keurling een onevenredig zware belasting met
 3.  Geen keuring vindt plaats voor deelneming aan een pensioenregeling ten aanzien waarvan [artikel 5 van de Wet verplichte beroepspensioenregeling](../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) toepassing heeft gevonden of de pensioenregeling waaraan deelneming verplicht is op grond van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) dan wel voor de deelneming aan een pensioenregeling als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md). Indien de pensioenvoorziening keuzemogelijkheden biedt voor een individuele deelnemer kan, in afwijking van de eerste volzin, indien het een deelnemer betreft met een arbeidsovereenkomst voor onbepaalde tijd die een wijziging wenst ten aanzien van een eerder gemaakte keuze, wel een keuring plaatsvinden.   
 4.  Voor zover niet ondergebracht bij een pensioenvoorziening dan wel pensioenregeling, als bedoeld in het derde lid, vindt geen keuring plaats voor deelneming aan een aanvullende arbeidsongeschiktheidsverzekering die aan de burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als dienstbetrekking wordt aangemerkt, of in verband met een aanstelling in openbare dienst is verbonden.   
 5.  Voorzover sprake is van een arbeidsverhouding die bij of krachtens de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als dienstbetrekking wordt aangemerkt of van een aanstelling in openbare dienst, vindt geen keuring plaats in verband met een door de werkgever te sluiten of gesloten verzekering ter dekking van het risico van doorbetaling van loon als bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), of van de betaling van een uitkering als bedoeld in [artikel 83 van de Wet werk en inkomen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) naar arbeidsvermogen dan wel betaling van arbeidsongeschiktheidsuitkering als bedoeld in [artikel 75a van de Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
-6.  Geen uitsluiting of vermindering van rechten op grond van ziekten, aandoeningen of gebreken wordt bedongen door de verzekeraar bij de deelneming aan een voorziening dan wel regeling als bedoeld in het derde lid en bij het aangaan of wijzigen van een verzekering als bedoeld in het vierde en vijfde lid, voorzover ingevolge deze leden een keuringsverbod geldt.   
+6.  Geen uitsluiting of vermindering van rechten op grond van ziekten, aandoeningen of gebreken wordt bedongen door de verzekeraar bij de deelneming aan een voorziening dan wel regeling als bedoeld in het derde lid en bij het aangaan of wijzigen van een verzekering als bedoeld in het vierde en vijfde lid, voorzover ingevolge deze leden een keuringsverbod geldt.  
 
 ### Artikel  5  
 
 1.  Bij een keuring in verband met het aangaan of wijzigen van een verzekering mogen geen vragen worden gesteld over in artikel 3, tweede lid, onderdeel a, genoemde ziekten, voor zover die op erfelijkheid betrekking hebben, bij de bloedverwanten van de aspirant-verzekerde en, tenzij de ziekte manifest is, bij de aspirant-verzekerde zelf en over onderzoek bij de aspirant-verzekerde en bij diens bloedverwanten gericht op de erfelijke aanleg voor ziekte en de resultaten van dergelijk onderzoek, indien de te sluiten verzekering de vragengrens niet overschrijdt. Bij de behandeling van de aanvrage voor het aangaan of wijzigen van een verzekering en bij een keuring in dat verband mogen geen uit andere hoofde reeds bij de keuringvrager, de keurend arts of geneeskundig adviseur aanwezige erfelijke gegevens over de aspirantverzekerde en diens bloedverwanten worden gebruikt.   
-2.  Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder artikel 4, vierde lid, bedraagt de vragengrens € 36 249,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.   
+2.  Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder artikel 4, vierde lid, bedraagt de vragengrens € 36 249,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.  
 
 ### Artikel  6  
 
@@ -71,42 +71,42 @@ In afwijking van artikel 3 mag bij het aangaan of wijzigen van een verzekering a
 
 a. indien de te sluiten verzekering de vragengrens, bedoeld in artikel 5, tweede lid, overschrijdt, of  
 
-b. indien de te sluiten verzekering de vragengrens, bedoeld in artikel 5, tweede lid, niet overschrijdt, maar het antwoord van de keurling op de in het licht van de artikelen 2 en 3, eerste lid, gerechtvaardigde vragen daartoe aanleiding geeft.    
+b. indien de te sluiten verzekering de vragengrens, bedoeld in artikel 5, tweede lid, niet overschrijdt, maar het antwoord van de keurling op de in het licht van de artikelen 2 en 3, eerste lid, gerechtvaardigde vragen daartoe aanleiding geeft.   
 
 ### Artikel  7  
 
-In afwijking van artikel 3 kan, indien dit vanwege een dringend algemeen belang noodzakelijk is, Onze Minister van Volksgezondheid, Welzijn en Sport ten aanzien van een zich nieuw voordoende ziekte die valt onder artikel 3, tweede lid, onderdeel a, bij ministeriële regeling bepalen dat artikel 6 van overeenkomstige toepassing is, totdat over deze ziekte afspraken als bedoeld in artikel 9 zijn gemaakt. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal.  
+In afwijking van artikel 3 kan, indien dit vanwege een dringend algemeen belang noodzakelijk is, Onze Minister van Volksgezondheid, Welzijn en Sport ten aanzien van een zich nieuw voordoende ziekte die valt onder artikel 3, tweede lid, onderdeel a, bij ministeriële regeling bepalen dat artikel 6 van overeenkomstige toepassing is, totdat over deze ziekte afspraken als bedoeld in artikel 9 zijn gemaakt. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. 
 
 ### Artikel  8  
 
 1.  De keuringvrager legt met inachtneming van de artikelen 2, 3, 4, 5, 6 en 7 het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld, en de medische onderzoeken welke mogen worden verricht, schriftelijk vast.   
-2.  Tijdig voor de aanvang van de keuring wordt aan de keurling op begrijpelijke wijze schriftelijk informatie gegeven over doel, vragen en onderzoeken, als bedoeld in het eerste lid, en over diens rechten bij keuringen.   
+2.  Tijdig voor de aanvang van de keuring wordt aan de keurling op begrijpelijke wijze schriftelijk informatie gegeven over doel, vragen en onderzoeken, als bedoeld in het eerste lid, en over diens rechten bij keuringen.  
 
 ### Artikel  9  
 
-Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars, representatieve organisaties van werknemers, respectievelijk de consumenten en patiënten en de representatieve organisatie van de artsen kunnen afspraken maken over de omschrijving van het doel van de keuring, als bedoeld in het eerste lid van artikel 2, het verrichten van keuringen als bedoeld in het eerste lid van artikel 4, en over de vragen en medische onderzoeken, als bedoeld in de artikelen 3, 5, 6, 7 en 8.  
+Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars, representatieve organisaties van werknemers, respectievelijk de consumenten en patiënten en de representatieve organisatie van de artsen kunnen afspraken maken over de omschrijving van het doel van de keuring, als bedoeld in het eerste lid van artikel 2, het verrichten van keuringen als bedoeld in het eerste lid van artikel 4, en over de vragen en medische onderzoeken, als bedoeld in de artikelen 3, 5, 6, 7 en 8. 
 
 ### Artikel  10  
 
 1.  De keurend arts en de geneeskundig adviseur oefenen hun taak uit met behoud van hun zelfstandig oordeel op het gebied van hun deskundigheid en van hun onafhankelijkheid ten opzichte van de keuringvrager.   
 2.  De keurend arts en de geneeskundig adviseur zijn verplicht tot geheimhouding van hetgeen hen over de keurling bekend is, en dragen zorg voor een zodanige bewaring van de desbetreffende gegevens dat deze niet voor derden toegankelijk zijn.   
-3.  De keurend arts, respectievelijk de geneeskundig adviseur delen aan de keuringvrager niet meer mee dan voor het doel van de keuring strikt noodzakelijk is.   
+3.  De keurend arts, respectievelijk de geneeskundig adviseur delen aan de keuringvrager niet meer mee dan voor het doel van de keuring strikt noodzakelijk is.  
 
 ### Artikel  11  
 
-De keurling heeft het recht medewerking te weigeren aan een keuring of een onderdeel daarvan indien ten aanzien daarvan niet voldaan is aan de artikelen 2, 3, 4, 5, 6, 7 of 8.  
+De keurling heeft het recht medewerking te weigeren aan een keuring of een onderdeel daarvan indien ten aanzien daarvan niet voldaan is aan de artikelen 2, 3, 4, 5, 6, 7 of 8. 
 
 ### Artikel  12  
 
 1.  Indien aan de keuring een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde beperkingen wordt verbonden, heeft de keurling het recht op herkeuring. De keurling maakt zijn wens daartoe met redenen omkleed kenbaar binnen een week nadat de genoemde gevolgtrekking aan hem is medegedeeld. De keuringvrager treft een regeling voor herkeuring door een onafhankelijk geneeskundige.   
 2.  De door de keuringvrager te nemen beslissing wordt uitgesteld totdat de uitslag van de herkeuring hem is medegedeeld.   
-3.  De kosten van de herkeuring worden gedragen door de keuringvrager. Deze mag echter een redelijke bijdrage van de keurling verlangen.   
+3.  De kosten van de herkeuring worden gedragen door de keuringvrager. Deze mag echter een redelijke bijdrage van de keurling verlangen.  
 
 ### Artikel  13  
 
-1.  De in artikel 9 bedoelde organisaties kunnen een onafhankelijke klachtencommissie instellen, voor zover de klachtenbehandeling geen betrekking heeft op een keuring als bedoeld in artikel 4, eerste lid.   
+1.  De in artikel 9 bedoelde organisaties kunnen een onafhankelijke klachtencommissie instellen, voor zover de klachtenbehandeling geen betrekking heeft op een keuring als bedoeld in artikel 4, eerste lid.  
 2.  De commissie neemt klachten met betrekking tot het in of op grond van deze wet geregelde en de afspraken bedoeld in artikel 9 in ontvangst en doet aan de klager en degene over wie is geklaagd, haar oordeel over de klacht toekomen.   
-3.  De in artikel 9 bedoelde organisaties stellen het reglement van de klachtencommissie vast.   
+3.  De in artikel 9 bedoelde organisaties stellen het reglement van de klachtencommissie vast.  
 
 ### Artikel  14  
 
@@ -116,7 +116,7 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 a. kan de medewerking van de Sociaal-Economische Raad worden ingeroepen; en  
 
 b. kunnen voor de klachtencommissie in afwijking van [artikel 37 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) ook personen van niet in de Sociaal-Economische Raad vertegenwoordigde organisaties worden aangezocht.     
-3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de artikelen 2, 3, 4, 5, 6, 7, 8 en 13, tweede en derde lid.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de artikelen 2, 3, 4, 5, 6, 7, 8 en 13, tweede en derde lid. 
 
 ### Artikel  16  
 
@@ -125,22 +125,22 @@ b. kunnen voor de klachtencommissie in afwijking van [artikel 37 van de Wet op d
 
 ### Artikel  17  
 
-Deze wet wordt aangehaald als: Wet op de medische keuringen.  
+Deze wet wordt aangehaald als: Wet op de medische keuringen. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
-E. Borst-Eilers   
+E. Borst-Eilers    
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-F. H. G. de Grave   
+F. H. G. de Grave    
 
 De Minister van Financiën, 
-G. Zalm   
+G. Zalm    
 
 De Minister van Justitie, 
 W. Sorgdrager   
