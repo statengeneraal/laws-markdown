@@ -15,13 +15,13 @@ Besluit:
 
 Voor de toepassing van deze regeling gelden de begripsbepalingen van de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Besluit voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md), het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md). Voorts wordt verstaan onder: 
 
-a. *Wet:*[Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a.  *Wet:* [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. *RDW:* Dienst Wegverkeer;  
+b.  *RDW:* Dienst Wegverkeer;  
 
-c. *controlekeuring:* eenmalige keuring van hetzelfde voertuig door de RDW binnen 6 weken nadat het betreffende voertuig bij de eerste keuring dan wel kentekenonderzoek nog niet voor goedkeuring in aanmerking komt;  
+c.  *controlekeuring:* eenmalige keuring van hetzelfde voertuig door de RDW binnen 6 weken nadat het betreffende voertuig bij de eerste keuring dan wel kentekenonderzoek nog niet voor goedkeuring in aanmerking komt;  
 
-d. *erkenning:* de door de RDW afgegeven erkenningen en bevoegdheden op grond van de [Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), te weten: 
+d.  *erkenning:* de door de RDW afgegeven erkenningen en bevoegdheden op grond van de [Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), te weten: 
 
 1. APK-erkenning, erkenning als bedoeld in [artikel 83 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij APK-I staat voor voertuigen met een toegestane maximum massa van 3.500 kg of meer en APK-II voor voertuigen met een maximum massa van niet meer dan 3.500 kg;  
 
@@ -49,27 +49,27 @@ d. *erkenning:* de door de RDW afgegeven erkenningen en bevoegdheden op grond va
 
 13. bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad, namens de aanvrager, een aanvraag van een tenaamstelling in te dienen, TV: bevoegdheid als bedoelt in [artikel 46, tweede lid, onder d, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);    
 
-e. *handelaarskenteken:* kenteken als bedoeld in [artikel 3 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+e.  *handelaarskenteken:* kenteken als bedoeld in [artikel 3 van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
 
-f. *kentekenonderzoek:* onderzoek verricht ten behoeve van de inschrijving in het kentekenregister en tenaamstelling als bedoeld in [artikel 48 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+f.  *kentekenonderzoek:* onderzoek verricht ten behoeve van de inschrijving in het kentekenregister en tenaamstelling als bedoeld in [artikel 48 van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-g. *keuringsplaats:* hetgeen daaronder in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md) wordt verstaan;  
+g.  *keuringsplaats:* hetgeen daaronder in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md) wordt verstaan;  
 
-h. *mobiele keuringseenheid, ME:* keuringseenheid als bedoeld in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);  
+h.  *mobiele keuringseenheid, ME:* keuringseenheid als bedoeld in [artikel 1 van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);  
 
-i. *mobiele installatie-eenheid, MAE:* installatie-eenheid als bedoeld in de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+i.  *mobiele installatie-eenheid, MAE:* installatie-eenheid als bedoeld in de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
 
-j. *RDW registers:* de registers als bedoeld in [artikel 42](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 70k](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 126](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 129a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+j.  *RDW registers:* de registers als bedoeld in [artikel 42](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 70k](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 126](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 129a van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-k. *recall:* handelingen en verstrekkingen in verband de uitvoering van [artikel 25e van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+k.  *recall:* handelingen en verstrekkingen in verband de uitvoering van [artikel 25e van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-l. *taxi:* personenauto, bestemd voor taxivervoer als bedoeld in [artikel 1, onderdeel j, van de Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+l.  *taxi:* personenauto, bestemd voor taxivervoer als bedoeld in [artikel 1, onderdeel j, van de Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
 
-m. *werkplaats, WP:* inrichting waarin een bedrijf werkzaamheden verricht als bedoeld in de [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md), de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
+m.  *werkplaats, WP:* inrichting waarin een bedrijf werkzaamheden verricht als bedoeld in de [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md), de [Regeling controleapparaten 2005](../../../../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) dan wel de [Regeling werkplaatsen BCT](../../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md);  
 
-n. *voertuig licht:* voertuigen met een toegestane maximum massa van 3.500 kg;  
+n.  *voertuig licht:* voertuigen met een toegestane maximum massa van 3.500 kg;  
 
-o. *voertuig zwaar:* voertuigen met een toegestane maximum massa van meer dan 3.500 kg.    
+o.  *voertuig zwaar:* voertuigen met een toegestane maximum massa van meer dan 3.500 kg.   
 
 ### Artikel  2  
 
@@ -79,7 +79,7 @@ o. *voertuig zwaar:* voertuigen met een toegestane maximum massa van meer dan 3.
 2.  De tarieven zijn weergegeven in euro.   
 3.  Bij betaling in contant geld aan de balie van de RDW, wordt het totaalbedrag afgerond op een veelvoud van € 0,05.   
 4.  Bij betaling op rekening wordt een opslag van € 6,50 in rekening gebracht.   
-5.  Bij automatische incasso wordt een korting van € 2,00 verleend.   
+5.  Bij automatische incasso wordt een korting van € 2,00 verleend.  
 
 ### Artikel  3  
 
@@ -95,13 +95,13 @@ c. uurtarief ICT specialist, technisch inspecteur en beoordelingen aanwijzing br
 
 d. uurtarief administratieve medewerkers: € 92,00;  
 
-e. uurtarief consultancy/projectmanagement: € 138,00.     
+e. uurtarief consultancy/projectmanagement: € 138,00.    
 
 ### Artikel  4  
 
 ####Kosten van derden
 
-Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven opgenomen, worden deze, in aanvulling op de in deze regeling genoemde tarieven, in rekening gebracht.  
+Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven opgenomen, worden deze, in aanvulling op de in deze regeling genoemde tarieven, in rekening gebracht. 
 
 ### Artikel  5  
 
@@ -110,7 +110,7 @@ Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven
 1.  Voor het uitvoeren van werkzaamheden buiten de RDW-keuringslocaties worden reis- en zo nodig verblijfkosten in rekening gebracht.   
 2.  Voor keuringen buiten een RDW-locatie door medewerkers van een RDW-keuringslocatie, worden voorrijkosten in rekening gebracht.   
 3.  Voor keuringen en andere werkzaamheden door technisch inspecteurs van de RDW geldt dat onderscheid wordt gemaakt in afstand tot en boven een geografische straal van 225 kilometer vanaf de hoofdvestiging van de RDW te Zoetermeer alsmede de wijze van vervoer.   
-4.  Indien sprake is van een programma waarbij meerdere inspecteurs separaat werken, worden de kosten als bedoeld in het eerste lid per inspecteur in rekening gebracht.   
+4.  Indien sprake is van een programma waarbij meerdere inspecteurs separaat werken, worden de kosten als bedoeld in het eerste lid per inspecteur in rekening gebracht.  
 
 ### Artikel  6  
 
@@ -119,32 +119,32 @@ Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven
 1.  Degene, aan wie een erkenning, bevoegdheid of handelaarskenteken als bedoeld in de [Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [Wet Personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) dan wel [Arbeidstijdenwet](../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) is verleend, dan wel gebruik maakt van een beveiligde aansluiting en wiens erkenning, bevoegdheid of beveiligingsmaatregel niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd.   
 2.  Indien een erkenning wordt geschorst, tijdelijk of voor onbepaalde tijd wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende kalenderjaar.   
 3.  Indien een abonnement als bedoeld in deze regeling geschorst, tijdelijk of definitief wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende aantal maanden van het abonnement.   
-4.  Degene die op grond van hoofdstuk III van de Wet aan toezicht is onderworpen en wiens aanwijzing dan wel goedkeuring niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd. Het bepaalde in het tweede lid is van overeenkomstige toepassing.   
+4.  Degene die op grond van hoofdstuk III van de Wet aan toezicht is onderworpen en wiens aanwijzing dan wel goedkeuring niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari van het jaar waarin deze regeling van kracht is, is voor de instandhouding van het voor dat kalenderjaar geldende toezicht tarief verschuldigd. Het bepaalde in het tweede lid is van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
 ####Wijziging in producten
 
-Indien gedurende het van kracht zijn van deze regeling nieuwe dan wel gewijzigde producten ontstaan, die niet in deze regeling zijn opgenomen, is het bepaalde in artikel 3 tot en met 5 van toepassing.  
+Indien gedurende het van kracht zijn van deze regeling nieuwe dan wel gewijzigde producten ontstaan, die niet in deze regeling zijn opgenomen, is het bepaalde in artikel 3 tot en met 5 van toepassing. 
 
 ### Artikel  8  
 
 ####Tarief bij niet verschijnen
 
 1.  Indien de aanvrager van een keuring niet verschijnt op de met de RDW afgesproken tijd en plaats, of indien een niet geheel gereed voertuig ter keuring wordt aangeboden waardoor niet tot keuring wordt overgegaan, dan wordt het voor de aangevraagde keuring vastgestelde tarief in rekening gebracht.   
-2.  Het eerste lid is niet van toepassing in geval van verrichtingen uit te voeren door de divisie Voertuigtechniek of door de betrokken keuringslocatie van de RDW, indien uiterlijk twee werkdagen vóór de afgesproken tijd bericht van verhindering is ontvangen door de RDW.   
+2.  Het eerste lid is niet van toepassing in geval van verrichtingen uit te voeren door de divisie Voertuigtechniek of door de betrokken keuringslocatie van de RDW, indien uiterlijk twee werkdagen vóór de afgesproken tijd bericht van verhindering is ontvangen door de RDW.  
 
 ### Artikel  9  
 
 ####Tarief centrale servicenummer RDW
 
-Degene, die gebruik maakt van het centrale servicenummer 0900-0739 is hiervoor € 0,10 per minuut verschuldigd.  
+Degene, die gebruik maakt van het centrale servicenummer 0900-0739 is hiervoor € 0,10 per minuut verschuldigd. 
 
 ### Artikel  10  
 
 ####Open Data
 
-Het tarief voor de specifieke dienst waarbij op basis van een proef en op basis van de principes van Open Data een set niet-gevoelige gegevens ter beschikking wordt gesteld voor hergebruik is: € 0,00.  
+Het tarief voor de specifieke dienst waarbij op basis van een proef en op basis van de principes van Open Data een set niet-gevoelige gegevens ter beschikking wordt gesteld voor hergebruik is: € 0,00. 
 
 ### §  2  
 
@@ -154,13 +154,13 @@ Het tarief voor de specifieke dienst waarbij op basis van een proef en op basis 
 
 ####Tarieven Bijlage I , erkenningen, bevoegdheden handelaarskentekens en toezicht
 
-De tarieven met betrekking tot de aanvraag van en het toezicht op erkenningen en bevoegdheden, de diensten en producten ten behoeve van het gebruik en het toezicht op erkenningen en bevoegdheden als bedoeld in artikel 1 van deze regeling alsmede de handelaarskentekens, zijn vermeld in Bijlage I.  
+De tarieven met betrekking tot de aanvraag van en het toezicht op erkenningen en bevoegdheden, de diensten en producten ten behoeve van het gebruik en het toezicht op erkenningen en bevoegdheden als bedoeld in artikel 1 van deze regeling alsmede de handelaarskentekens, zijn vermeld in Bijlage I. 
 
 ### Artikel  12  
 
 ####Tarieven Bijlage II , individuele keuringen en onderzoeken
 
-De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, periodieke keuringen en ADR-keuringen zijn vermeld in Bijlage II.  
+De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, periodieke keuringen en ADR-keuringen zijn vermeld in Bijlage II. 
 
 ### Artikel  13  
 
@@ -168,31 +168,31 @@ De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, pe
 
 1.  De tarieven met betrekking tot de typegoedkeuringen en individuele goedkeuringen zijn vermeld in Bijlage III.   
 2.  De tarieven met betrekking tot het gebruik van het Testcentrum Lelystad zijn vermeld in Bijlage IV.   
-3.  Onverminderd het bepaalde in het eerste en tweede lid is het bepaalde in artikel 3 en 4 alsmede het bepaalde in § 3 van toepassing.   
+3.  Onverminderd het bepaalde in het eerste en tweede lid is het bepaalde in artikel 3 en 4 alsmede het bepaalde in § 3 van toepassing.  
 
 ### Artikel  14  
 
 ####Tarieven Bijlage V , Ontheffingen
 
-De tarieven met betrekking tot de ontheffingen en daarvoor benodigde documenten zijn, vermeld in Bijlage V.  
+De tarieven met betrekking tot de ontheffingen en daarvoor benodigde documenten zijn, vermeld in Bijlage V. 
 
 ### Artikel  15  
 
 ####Tarieven Bijlage VI , Inschrijving, tenaamstelling en schorsing, kenteken-, rij- en registratiebewijzen
 
-De tarieven met betrekking tot aanvragen inschrijving in het kentekenregister en tenaamstelling, kentekenbewijzen, rijbewijzen, registratiebewijzen en schorsing tenaamstelling in het kentekenregister alsmede verval tenaamstelling in het kentekenregister, zijn vermeld in bijlage VI.  
+De tarieven met betrekking tot aanvragen inschrijving in het kentekenregister en tenaamstelling, kentekenbewijzen, rijbewijzen, registratiebewijzen en schorsing tenaamstelling in het kentekenregister alsmede verval tenaamstelling in het kentekenregister, zijn vermeld in bijlage VI. 
 
 ### Artikel  16  
 
 ####Tarieven Bijlage VII , Gegevensverstrekking
 
-De tarieven voor de gegevensverstrekking uit de RDW registers zijn opgenomen in Bijlage VII.  
+De tarieven voor de gegevensverstrekking uit de RDW registers zijn opgenomen in Bijlage VII. 
 
 ### Artikel  17  
 
 ####Tarieven Bijlage VIII, Kennisnemingen
 
-De tarieven voor kennisneming uit het rijbewijs- en kentekenregister zijn opgenomen in Bijlage VIII.  
+De tarieven voor kennisneming uit het rijbewijs- en kentekenregister zijn opgenomen in Bijlage VIII. 
 
 ### §  3  
 
@@ -208,7 +208,7 @@ Het tarief van een test is opgebouwd uit drie componenten:
 
 2. De administratieve kosten op basis van een stuks tarief;  
 
-3. Een toeslag voor het gebruik van de faciliteiten, indien van toepassing op basis van het betreffende uurtarief.    
+3. Een toeslag voor het gebruik van de faciliteiten, indien van toepassing op basis van het betreffende uurtarief.   
 
 ### Artikel  19  
 
@@ -226,13 +226,13 @@ b. een uurtarief tijdens reis uren;
 
 c. verblijfskosten op basis van daadwerkelijk gemaakte kosten;  
 
-d. indien van toepassing 50% van het uurtarief technisch inspecteur als bedoeld in artikel 3 onder c, voor verblijfskosten in het weekend en tijdens feestdagen met een maximum van 8 uur.    
+d. indien van toepassing 50% van het uurtarief technisch inspecteur als bedoeld in artikel 3 onder c, voor verblijfskosten in het weekend en tijdens feestdagen met een maximum van 8 uur.   
 
 ### Artikel  20  
 
 ####Werkzaamheden na 18.00 uur
 
-Indien het werkzaamheden betreft, die op verzoek van de aanvrager worden verricht tussen 18.00 uur en 07.00 uur, wordt een toeslag van 100% op basis van het geldende uurtarief berekend. Dit geldt tevens voor de werkzaamheden die worden verricht in het weekend en op feestdagen.  
+Indien het werkzaamheden betreft, die op verzoek van de aanvrager worden verricht tussen 18.00 uur en 07.00 uur, wordt een toeslag van 100% op basis van het geldende uurtarief berekend. Dit geldt tevens voor de werkzaamheden die worden verricht in het weekend en op feestdagen. 
 
 ### Artikel  21  
 
@@ -240,7 +240,7 @@ Indien het werkzaamheden betreft, die op verzoek van de aanvrager worden verrich
 
 1.  De tarieven vermeld in Bijlage III zijn van toepassing op de desbetreffende producten waarbij elk onderdeel van de test eenmalig wordt uitgevoerd.   
 2.  Extra (deel-)testen worden aan de hand van het uurtarief aan de rekening toegevoegd.   
-3.  Voor testen waar een significant deel van de test achterwege kan worden gelaten zal het tarief dienovereenkomstig worden verlaagd.   
+3.  Voor testen waar een significant deel van de test achterwege kan worden gelaten zal het tarief dienovereenkomstig worden verlaagd.  
 
 ### Artikel  22  
 
@@ -251,19 +251,19 @@ Indien het werkzaamheden betreft, die op verzoek van de aanvrager worden verrich
 
 a. een juiste naleving van de in het contract tussen de aanvrager en RDW opgenomen criteria voor de staffelkorting en kwaliteitseisen;  
 
-b. de korting wordt eens per jaar achteraf door middel van een staffelkorting vastgesteld waarbij deze korting in het daaropvolgende jaar over de aanvragen in dat jaar worden verstrekt.     
+b. de korting wordt eens per jaar achteraf door middel van een staffelkorting vastgesteld waarbij deze korting in het daaropvolgende jaar over de aanvragen in dat jaar worden verstrekt.    
 
 ### Artikel  23  
 
 ####Negatief resultaat
 
-Voor een test met een negatief resultaat en eventueel een geweigerde goedkeuring worden de desbetreffende tarieven in rekening gebracht.  
+Voor een test met een negatief resultaat en eventueel een geweigerde goedkeuring worden de desbetreffende tarieven in rekening gebracht. 
 
 ### Artikel  24  
 
 ####Berekening extra tijd
 
-De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW medewerker in de gelegenheid wordt gesteld efficiënt te werken. Indien de werkzaamheden aanzienlijk langer duren dan de door de RDW vastgestelde norm tijd wordt extra tijd aan de hand van het uurtarief apart in rekening gebracht.  
+De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW medewerker in de gelegenheid wordt gesteld efficiënt te werken. Indien de werkzaamheden aanzienlijk langer duren dan de door de RDW vastgestelde norm tijd wordt extra tijd aan de hand van het uurtarief apart in rekening gebracht. 
 
 ### §  4  
 
@@ -273,26 +273,26 @@ De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW medewerk
 
 ####Overgangsbepaling
 
-Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regeling en die zijn ingediend vóór de datum van inwerkingtreding van deze regeling, is het tarief zoals geldend op datum aanvraag van toepassing.  
+Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regeling en die zijn ingediend vóór de datum van inwerkingtreding van deze regeling, is het tarief zoals geldend op datum aanvraag van toepassing. 
 
 ### Artikel  26  
 
 ####Intrekking regeling
 
 1.  De [Regeling tarieven Dienst Wegverkeer 2013](../../../../../../../zbo/regeling/tarieven/dienst/wegverkeer/2013/BWBR0032592/README.md) wordt ingetrokken met ingang van 1 januari 2014.   
-2.  De Regeling wijze van betaling tarieven Dienst Wegverkeer van 9 oktober 1996/nr. VIZ96/1655 wordt ingetrokken.   
+2.  De Regeling wijze van betaling tarieven Dienst Wegverkeer van 9 oktober 1996/nr. VIZ96/1655 wordt ingetrokken.  
 
 ### Artikel  27  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2014.  
+Deze regeling treedt in werking met ingang van 1 januari 2014. 
 
 ### Artikel  28  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling tarieven Dienst Wegverkeer 2014.  
+Deze regeling wordt aangehaald als: Regeling tarieven Dienst Wegverkeer 2014. 
 Deze regeling wordt met Bijlagen, Legenda en toelichting in de Staatscourant geplaatst.  
 
 De directie van de RDW, 
@@ -429,7 +429,7 @@ Algemeen Directeur.
 | Afgifte individueel ADR inspectierapport van periodieke dichtheidsbeproeving bij een erkend bedrijf  | STK  | 108,00  |
 | Afgifte individueel vervangend document in verband met vermissing, onleesbaarheid of een vol document  | STK  | 15,00  |
 | Aanvraag voor elke tank (voertuig) conform een TGK of serie  | STK  | 89,00  |
-|  *Dierenvervoer*   | --- | --- |
+|  *Dierenvervoer *   | --- | --- |
 | Keuring van een wegvoertuig voor het vervoer van levende dieren  | STK  | 82,00  |
 | Keuring van een wegvoertuig voor het vervoer van levende dieren naar aanleiding van een schorsing  | STK  | 27,00  |
 | Vervangend certificaat voor het vervoer van levende dieren  | STK  | 15,00  |
@@ -646,12 +646,11 @@ Algemeen Directeur.
 | Aanvraag op geautomatiseerde wijze aangevraagd en verstrekt op een door de RDW te bepalen wijze  | STK  | 0,37  |
 | Schriftelijke of telefonische aanvraag informatie verzekering van een afzonderlijk motorrijtuig  | STK  | 4,60  |
 |  *Recall*   | --- | --- |
-| Selecteren van gegevens voor het uitvoeren van een recall in geval van gebreken aan voertuigen  | 1 selectie voertuigen  | 495,00  |
 | Opmaak van een brief in het kader van een recall  | STK  | 85,00  |
 | Brief voor het uitvoeren van een recall, exclusief de kosten van een eventuele aangetekende verzending  | Brief  | 0,45  |
 | Detailinformatie in het kader van een recall voor de zakelijke markt indien de aanvraag en verstrekking door middel van geautomatiseerd berichtenverkeer loopt  | Kenteken  | 1,00  |
 | Detailinformatie in het kader van een recall voor burgers via RDW.nl te benaderen en door middel van een pdf document geleverd  | Kenteken  | 1,95  |
-| Overzicht van een geregistreerde recall met voertuigen en statusinformatie  | STK  | 495,00  |
+| Selecteren van gegevens voor het uitvoeren van een recall in geval van gebreken aan voertuigen  | 1 selectie voertuigen  | 495,00  |
 | Afmelding reparatie defect terugroepactie door herstelbedrijf  | STK  | 0,24  |
 |  *Kentekenregister*   | --- | --- |
 | Informatie via batchverwerking aan informatieproviders voertuigbranche  | P/1.000  | 9,50  |

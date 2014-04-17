@@ -21,7 +21,7 @@ In deze regeling wordt verstaan onder:
 
 *Stimuleringsfonds:* Stimuleringsfonds voor de pers, genoemd in [artikel 8.1 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md);  
 
-*wet:*[Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md).    
+*wet:* [Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -35,7 +35,7 @@ In deze regeling wordt verstaan onder:
 
 ####Indiening concessiebeleidsplan
 
-De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen.  
+De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen. 
 
 ### Artikel  3  
 
@@ -43,14 +43,14 @@ De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../.
 
 1.  Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.   
 2.  Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.   
-3.  De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.   
+3.  De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.  
 
-### Artikel  3a  
+### Artikel 3a  
 
 ####Inrichting aanvraag erkenning
 
 1.  Een aanvraag als bedoeld in artikel 3, eerste lid, bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.   
-2.  Een aanvraag gaat vergezeld van vier kopieën.   
+2.  Een aanvraag gaat vergezeld van vier kopieën.  
 
 ### Artikel  4  
 
@@ -78,7 +78,7 @@ e. in geval van een samenwerkingsomroep:
 
 5°. notariële akten en overeenkomsten, anders dan bedoeld onder 1° tot en met 4°, die betrekking hebben op de samenwerking binnen de samenwerkingsomroep.       
 2.  In geval van een aanvraag voor een voorlopige erkenning bevat de aanvraag de notariële akten en overeenkomsten die betrekking hebben op de samenwerking met de NTR of de omroeporganisatie waaraan de aanvrager de verzorging van haar media-aanbod heeft opgedragen.   
-3.  Een aanvraag gaat vergezeld van vier kopieën.   
+3.  Een aanvraag gaat vergezeld van vier kopieën.  
 
 ### Afdeling  2.2  
 
@@ -100,7 +100,7 @@ b. een overzicht van de belangrijkste in de gemeente respectievelijk provincie v
 
 c. een overzicht van de leden van het orgaan, bedoeld in [artikel 2.61, tweede lid, onderdeel c, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md); en  
 
-d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden verspreid.    
+d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden verspreid.   
 
 ### Artikel  6  
 
@@ -109,25 +109,25 @@ d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden versprei
 1.  Het Commissariaat legt een aanvraag voor een aanwijzing van een regionale publieke media-instelling respectievelijk een lokale publieke media-instelling binnen vier weken na ontvangst daarvan ter advisering voor aan de desbetreffende provinciale staten respectievelijk gemeenteraad.   
 2.  Provinciale staten brengen respectievelijk de gemeenteraad brengt binnen achttien weken na ontvangst van de aanvraag advies uit aan het Commissariaat.   
 3.  Provinciale staten verklaren in het advies of zij bereid zijn om voor de bekostiging van de regionale publieke media-instelling in te staan.   
-4.  Het Commissariaat beslist binnen vier weken na ontvangst van het advies, bedoeld in het tweede lid, op de aanvraag en bepaalt daarbij de ingangsdatum van de aanwijzing.   
+4.  Het Commissariaat beslist binnen vier weken na ontvangst van het advies, bedoeld in het tweede lid, op de aanvraag en bepaalt daarbij de ingangsdatum van de aanwijzing.  
 
 ### Artikel  7  
 
 ####Indiening aanvraag aansluitende periode
 
-Als een aangewezen regionale of lokale publieke media-instelling voor een aansluitende periode van vijf jaar aangewezen wil worden, dient zij uiterlijk zes maanden voor het einde van de lopende aanwijzingsperiode de aanvraag voor een nieuwe aanwijzing in.  
+Als een aangewezen regionale of lokale publieke media-instelling voor een aansluitende periode van vijf jaar aangewezen wil worden, dient zij uiterlijk zes maanden voor het einde van de lopende aanwijzingsperiode de aanvraag voor een nieuwe aanwijzing in. 
 
 ### Artikel  8  
 
 ####Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van artikel 6.  
+Het Commissariaat kan in bijzondere gevallen afwijken van artikel 6. 
 
 ### Artikel  9  
 
 ####Intrekken aanwijzing
 
-Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.68. eerste lid, onderdelen a en b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat onmiddellijk in.  
+Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.68. eerste lid, onderdelen a en b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat onmiddellijk in. 
 
 ### §  2.2.2  
 
@@ -144,7 +144,7 @@ a. de kosten en opbrengsten van de exploitatie van reclame- en telewinkelboodsch
 
 b. de kosten en opbrengsten van ander media-aanbod; en  
 
-c. de kosten en opbrengsten van alle andere activiteiten.     
+c. de kosten en opbrengsten van alle andere activiteiten.    
 
 ### Artikel  11  
 
@@ -152,7 +152,7 @@ c. de kosten en opbrengsten van alle andere activiteiten.
 
 1.  Lokale en regionale media-instellingen die reclame- en telewinkelboodschappen in het media-aanbod opnemen, zenden jaarlijks vóór 1 juni de jaarrekening aan het Commissariaat.   
 2.  De jaarrekening gaat vergezeld van een verklaring van een accountant-administratieconsulent of een registeraccountant omtrent de getrouwheid ervan.   
-3.  Het Commissariaat kan voor bepaalde categorieën lokale en regionale media-instellingen vrijstelling verlenen van het tweede lid.   
+3.  Het Commissariaat kan voor bepaalde categorieën lokale en regionale media-instellingen vrijstelling verlenen van het tweede lid.  
 
 ### Afdeling  2.3  
 
@@ -165,25 +165,25 @@ c. de kosten en opbrengsten van alle andere activiteiten.
 1.  De landelijke publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. De raad van bestuur kan hiervan afwijken.   
 2.  De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in [artikel 2.147 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en zonodig een liquiditeitsprognose van de desbetreffende instelling.   
 3.  Indien de raad van bestuur hierom verzoekt, zenden de landelijke publieke media-instellingen voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan de raad van bestuur.   
-4.  Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.   
+4.  Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.  
 
 ### Artikel  13  
 
 ####Berekening uren en budget
 
-Het moment, bedoeld in de [artikelen 2.51, eerste lid, onderdeel a](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.152 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), is 1 januari 2014.  
+Het moment, bedoeld in de [artikelen 2.51, eerste lid, onderdeel a](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.152 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), is 1 januari 2014. 
 
-### Artikel  13a  
+### Artikel 13a  
 
 ####Indiening begroting
 
-De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in [artikel 2.125 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), dient jaarlijks vóór 15 september een begroting in.  
+De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in [artikel 2.125 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), dient jaarlijks vóór 15 september een begroting in. 
 
 ### Artikel  14  
 
 ####Evaluatiecommissies
 
-De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaande aan het jaar waarin de concessieperioden, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen, rapport als bedoeld in [artikel 2.187, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uit.  
+De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaande aan het jaar waarin de concessieperioden, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), eindigen, rapport als bedoeld in [artikel 2.187, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), uit. 
 
 ### Hoofdstuk  3  
 
@@ -205,13 +205,13 @@ b. een opgave van de feitelijke vestigingsplaats als deze afwijkt van de statuta
 
 c. een aanduiding of de aanvraag voor toestemming betrekking heeft op televisieomroep of op radio-omroep; en  
 
-d. een overzicht van de organisatorische en juridische structuur van de aanvrager en een overzicht van zijn bestuurders en aandeelhouders.    
+d. een overzicht van de organisatorische en juridische structuur van de aanvrager en een overzicht van zijn bestuurders en aandeelhouders.   
 
 ### Artikel  16  
 
 ####Indiening aanvraag aansluitende periode
 
-Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), heeft verkregen, dient de aanvraag voor een toestemming voor een aansluitende periode uiterlijk vijf maanden voor het einde van de lopende toestemmingsperiode in.  
+Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), heeft verkregen, dient de aanvraag voor een toestemming voor een aansluitende periode uiterlijk vijf maanden voor het einde van de lopende toestemmingsperiode in. 
 
 ### §  3.2  
 
@@ -219,7 +219,7 @@ Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, 
 
 ### Artikel  17  
 
-Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage.  
+Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage. 
 
 ### Hoofdstuk  4  
 
@@ -230,17 +230,17 @@ Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in
 ####Aanvraag aanwijzing
 
 1.  De aanvraag voor aanwijzing van uren ten behoeve van overheidsvoorlichting, bedoeld in [artikel 6.5, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), wordt ingediend in de maand september.   
-2.  Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.   
+2.  Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.  
 
-### Hoofdstuk  4a  
+### Hoofdstuk 4a  
 
 ####Commissariaat voor de Media
 
-### Artikel  18a  
+### Artikel 18a  
 
 ####Indiening begroting
 
-Het Commissariaat dient jaarlijks vóór 15 september een begroting in.  
+Het Commissariaat dient jaarlijks vóór 15 september een begroting in. 
 
 ### Hoofdstuk  5  
 
@@ -254,7 +254,7 @@ Het Commissariaat dient jaarlijks vóór 15 september een begroting in.
 
 ####Percentage inkomsten voor Stimuleringsfonds
 
-Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), bedraagt nul. In afwijking van de eerste volzin wordt in het jaar 2009 ten hoogste vier procent van de inkomsten uit reclame- en telewinkelboodschappen van de landelijke publieke mediadienst in 2008 uitgekeerd ten behoeve van het Stimuleringsfonds voor de pers.  
+Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), bedraagt nul. In afwijking van de eerste volzin wordt in het jaar 2009 ten hoogste vier procent van de inkomsten uit reclame- en telewinkelboodschappen van de landelijke publieke mediadienst in 2008 uitgekeerd ten behoeve van het Stimuleringsfonds voor de pers. 
 
 ### §  5.2  
 
@@ -279,14 +279,14 @@ e. een activiteitenplan als bedoeld in [artikel 8.11, tweede lid](../../../../we
 
 a. als bij de aanvraag een of meerdere persorganen zijn betrokken, de gegevens, bedoeld in het eerste lid, onderdelen a tot en met d; en  
 
-b. een voorstel voor opzet en uitvoering van het beoogde onderzoek en een voorstel voor de wijze van bekendmaking van de resultaten.     
+b. een voorstel voor opzet en uitvoering van het beoogde onderzoek en een voorstel voor de wijze van bekendmaking van de resultaten.    
 
 ### Artikel  21  
 
 ####Behandeling aanvraag
 
 1.  Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.   
-2.  Als bij de aanvraag gegevens als bedoeld in artikel 20 niet kunnen worden ingediend, blijkt uit de aanvraag waarom.   
+2.  Als bij de aanvraag gegevens als bedoeld in artikel 20 niet kunnen worden ingediend, blijkt uit de aanvraag waarom.  
 
 ### Artikel  22  
 
@@ -294,7 +294,7 @@ b. een voorstel voor opzet en uitvoering van het beoogde onderzoek en een voorst
 
 1.  Het Stimuleringsfonds beslist binnen dertien weken na ontvangst op een aanvraag.   
 2.  Aanvragen worden op volgorde van ontvangst behandeld, tenzij het Stimuleringsfonds een andere wijze van vaststellen heeft vastgesteld. Als het voor een jaar beschikbare bedrag voor subsidies volledig is verleend, worden volgende aanvragen afgewezen.   
-3.  Een besluit tot vaststelling van een andere wijze van behandeling wordt door het Stimuleringsfonds in de Staatscourant en op zijn website bekend gemaakt.   
+3.  Een besluit tot vaststelling van een andere wijze van behandeling wordt door het Stimuleringsfonds in de Staatscourant en op zijn website bekend gemaakt.  
 
 ### Artikel  23  
 
@@ -308,25 +308,25 @@ b. de wijze waarop en de termijn waarbinnen de gesubsidieerde activiteiten worde
 
 c. verslaglegging over de activiteiten en de financiële verantwoording daarvan; en  
 
-d. wijzigingen in de financiële structuur van de aanvrager.    
+d. wijzigingen in de financiële structuur van de aanvrager.   
 
 ### Artikel  24  
 
 ####Voorschotten
 
-Het Stimuleringsfonds kan voorschotten verstrekken tot ten hoogste vijftig procent van het verleende subsidiebedrag.  
+Het Stimuleringsfonds kan voorschotten verstrekken tot ten hoogste vijftig procent van het verleende subsidiebedrag. 
 
 ### Artikel  25  
 
 ####Intrekken subsidieverlening
 
-Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorschotten terugvorderen als binnen een jaar na de subsidieverlening een surseance van betaling of een faillissement van de aanvrager is uitgesproken.  
+Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorschotten terugvorderen als binnen een jaar na de subsidieverlening een surseance van betaling of een faillissement van de aanvrager is uitgesproken. 
 
-### Artikel  25a  
+### Artikel 25a  
 
 ####Indiening begroting
 
-Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.  
+Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in. 
 
 ### Hoofdstuk  6  
 
@@ -336,24 +336,24 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ####Aanvraag om bekostiging door regionale omroepen voor 2014
 
-Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften.  
+Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften. 
 
 ### Artikel  27  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  28  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Mediaregeling 2008.  
+Deze regeling wordt aangehaald als: Mediaregeling 2008. 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
 ### Bijlage  
 
@@ -367,8 +367,8 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 | Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | >500.000  | --- |
-| Marktaandeel <sup>**</sup>  | --- | <0,3%  | <0,3%  | <0,3%  | <0,3%  | <0,3%  | >=0,3%  |
+| Aantal huishoudens<sup>*</sup>   | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | >500.000  | --- |
+| Marktaandeel<sup>**</sup>   | --- | <0,3%  | <0,3%  | <0,3%  | <0,3%  | <0,3%  | >=0,3%  |
 | Uitzenduren***  | <12 uur  | 400  | 800  | 1600  | 3200  | 6400  | 12.800  |
 | --- | >=12 uur  | 800  | 1600  | 3200  | 6400  | 12.800  | 25.600  |
 
@@ -380,7 +380,7 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 | Uitzenduren**  | < 12 uur  | 4200  | 8400  |
 | --- | >= 12 uur  | 8400  | 8400  |
 
-* Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. Als een televisieomroepdienst zich op meerdere landen richt, is het hoogste marktaandeel in één land van toepassing. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
+* Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. Als een televisieomroepdienst zich op meerdere landen richt, is het hoogste marktaandeel in één land van toepassing. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
 ### Artikel  2  
 
@@ -390,7 +390,7 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 | Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
+| Aantal huishoudens<sup>*</sup>   | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
 | Uitzenduren**  | <12 uur  | 200  | 400  | 800  | 1600  | 3200  | 6400  |
 | --- | >=12 uur  | 400  | 800  | 1600  | 3200  | 6400  | 12.800  |
 
@@ -401,7 +401,7 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 | Uitzenduren*  | < 12 uur  | 2100  |
 | --- | >= 12 uur  | 4200  |
 
-* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
 ### Artikel  3  
 
@@ -411,18 +411,18 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 | Tariefgroep  |--- | A  | B  | C  | D  | E  | F  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| Aantal huishoudens <sup>*</sup>  | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
+| Aantal huishoudens<sup>*</sup>   | --- | <25.000  | 25.000–50.000  | 50.000–100.000  | 100.000–500.000  | 500.000–3.000.000  | >3.000.000  |
 | Uitzenduren**  | <12 uur  | 200  | 200  | 400  | 800  | 1600  | 3200  |
 | --- | >=12 uur  | 200  | 400  | 800  | 1600  | 3200  | 6400  |
 
-* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  Tabel 6. Toezichtskosten kabelkranten die zich uitsluitend of in overwegende mate op het buitenland richten 
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen. ** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar. Tabel 6. Toezichtskosten kabelkranten die zich uitsluitend of in overwegende mate op het buitenland richten 
 
 | --- | --- | --- |
 |:---|:---|:---|
 | Uitzenduren*  | < 12 uur  | 2100  |
 | --- | >= 12 uur  | 4200  |
 
-* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.  
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
 ### Artikel  4  
 
@@ -432,31 +432,31 @@ Een commerciële media-instelling die toestemmingen heeft voor het verzorgen van
 
 a. deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten wat betreft inhoud nagenoeg identiek zijn; en  
 
-b. deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten onder dezelfde naam worden verspreid,   is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.  
+b. deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten onder dezelfde naam worden verspreid,   is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.
 
-### Artikel  5  
+###Artikel 5 
 
 ####Evenredige vaststelling
 
-Als een toestemming voor het verzorgen van een commeriële omroepdienst in de loop van een kalenderjaar is verleend, vervallen of ingetrokken, worden de bedragen in de tabellen van de artikelen 1 tot en 3 naar evenredigheid van de overgebleven maanden in het kalenderjaar vastgesteld, met een minimum van 200 euro voor radio-omroepdiensten en voor televisieomroepdiensten als bedoeld in tabel 5 van artikel 3 en een minimum van 400 euro voor overige televisie-omroepdiensten.  
+Als een toestemming voor het verzorgen van een commeriële omroepdienst in de loop van een kalenderjaar is verleend, vervallen of ingetrokken, worden de bedragen in de tabellen van de artikelen 1 tot en 3 naar evenredigheid van de overgebleven maanden in het kalenderjaar vastgesteld, met een minimum van 200 euro voor radio-omroepdiensten en voor televisieomroepdiensten als bedoeld in tabel 5 van artikel 3 en een minimum van 400 euro voor overige televisie-omroepdiensten.
 
-### Artikel  6  
+###Artikel 6 
 
 ####Omroepdiensten uitsluitend via open internet
 
 1. In afwijking van de artikelen 1 tot en met 5 is een commerciële media-instelling per toestemming voor het verzorgen van een omroepdienst die uitsluitend via het open internet wordt verspreid jaarlijks aan het Commissariaat een bedrag van 200 euro verschuldigd.  
 
-2. Voor de toepassing van dit artikel wordt onder verspreiding via het open internet verstaan: technische verspreiding via het internetprotocol op zodanige wijze dat het publiek zonder extra betalingen ten behoeve van de verzorger van de omroepdienst of de aanschaf of gebruik van specifieke apparatuur de omroepdienst kan ontvangen.    
+2. Voor de toepassing van dit artikel wordt onder verspreiding via het open internet verstaan: technische verspreiding via het internetprotocol op zodanige wijze dat het publiek zonder extra betalingen ten behoeve van de verzorger van de omroepdienst of de aanschaf of gebruik van specifieke apparatuur de omroepdienst kan ontvangen.  
 
-### Artikel  7  
+###Artikel 7 
 
 ####Mediadiensten op aanvraag
 
-Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.  
+Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.
 
-### Artikel  8  
+###Artikel 8 
 
 ####Indexering
 
-De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.  
+De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
 

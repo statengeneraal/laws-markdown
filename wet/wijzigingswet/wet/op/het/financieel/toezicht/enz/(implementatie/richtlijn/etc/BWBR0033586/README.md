@@ -6,40 +6,40 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat richtlijn nr. 2011/61 /EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr.  1095/2010 (PbEU 2011, L 174) welke voorziet in een geharmoniseerd kader voor de vergunningverlening aan en het toezicht op beheerders van beleggingsinstellingen en beoogt de desbetreffende risico's en de gevolgen ervan voor de beleggers en markten in de Europese Unie op samenhangende wijze aan te pakken, in Nederland dient te worden geïmplementeerd;
+Alzo Wij in overweging genomen hebben, dat richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174) welke voorziet in een geharmoniseerd kader voor de vergunningverlening aan en het toezicht op beheerders van beleggingsinstellingen en beoogt de desbetreffende risico's en de gevolgen ervan voor de beleggers en markten in de Europese Unie op samenhangende wijze aan te pakken, in Nederland dient te worden geïmplementeerd;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  II  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  IIa  
 
-Wijzigt de Wet bekostiging financieel toezicht.   
+Wijzigt de Wet bekostiging financieel toezicht. 
 
 ### Artikel  IIb  
 
-Wijzigt de Wet toezicht accountantsorganisaties.   
+Wijzigt de Wet toezicht accountantsorganisaties. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  IV  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  V  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet op de dividendbelasting 1965.   
+Wijzigt de Wet op de dividendbelasting 1965. 
 
 ### Artikel  VII  
 
@@ -63,22 +63,22 @@ b. indien door de Stichting Autoriteit Financiële Markten na 22 juli 2014 op d
 
 a. een buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is die een Nederlandse beleggingsinstelling beheert; of  
 
-b. een beheerder van een beleggingsinstelling welke beheerder zetel in Nederland heeft en een beleggingsinstelling met zetel in een lidstaat beheert, voor zover die beleggingsinstelling geen vergunning bezit of is geregistreerd;   een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat waarin de beleggingsinstelling is gevestigd.   
+b. een beheerder van een beleggingsinstelling welke beheerder zetel in Nederland heeft en een beleggingsinstelling met zetel in een lidstaat beheert, voor zover die beleggingsinstelling geen vergunning bezit of is geregistreerd;   een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat waarin de beleggingsinstelling is gevestigd. 
 
 ### Artikel  VIIa  
 
-1.   Wijzigt deze wet.    
-2.   Wijzigt de Implementatiewet richtlijn solvabiliteit II.    
-3.   Wijzigt deze wet.    
-4.   Wijzigt de Implementatiewet richtlijn solvabiliteit II.    
-5.   Wijzigt deze wet.    
+1. Wijzigt deze wet.
+2. Wijzigt de Implementatiewet richtlijn solvabiliteit II. 
+3. Wijzigt deze wet.
+4. Wijzigt de Implementatiewet richtlijn solvabiliteit II.
+5. Wijzigt deze wet.
 
 ### Artikel  VIII  
 
 1.  Deze wet, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
-2.  Artikel I, onderdelen AJ, AO, AP, AT en BB, treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  Artikel I, onderdelen AJ, AO, AP, AT en BB, treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 12 juni 2013  
