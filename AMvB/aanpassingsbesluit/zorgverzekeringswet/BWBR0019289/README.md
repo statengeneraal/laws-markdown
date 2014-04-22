@@ -82,118 +82,118 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.   
+Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.
 
 ### Artikel  1.2  
 
-Wijzigt het Besluit bijdrage AWBZ-gemeenten.   
+Wijzigt het Besluit bijdrage AWBZ-gemeenten. 
 
 ### Artikel  1.3  
 
-Wijzigt het Besluit donorregister.   
+Wijzigt het Besluit donorregister. 
 
 ### Artikel  1.4  
 
-1.  Het [Besluit opheffing contracteerplicht extramurale zorg AWBZ](../../../../AMvB/besluit/opheffing/contracteerplicht/extramurale/zorg/awbz/BWBR0017107/README.md) berust met ingang van de datum van inwerkingtreding van de [Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) op [artikel 16b, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
-2.  I Wijzigt het Besluit opheffing contracteerplicht extramurale zorg AWBZ.   
+1.  Het [Besluit opheffing contracteerplicht extramurale zorg AWBZ](../../../../AMvB/besluit/opheffing/contracteerplicht/extramurale/zorg/awbz/BWBR0017107/README.md) berust met ingang van de datum van inwerkingtreding van de [Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) op [artikel 16b, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). 
+2. IWijzigt het Besluit opheffing contracteerplicht extramurale zorg AWBZ.
 
 ### Artikel  1.5  
 
-Wijzigt het Besluit opleidingseisen verpleegkundige.   
+Wijzigt het Besluit opleidingseisen verpleegkundige. 
 
 ### Artikel  1.6  
 
-Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.   
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999. 
 
 ### Artikel  1.7  
 
-Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering.   
+Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering. 
 
 ### Artikel  1.8  
 
-Het [Besluit werkingssfeer maximumtarieven WTG](../../../../AMvB/besluit/werkingssfeer/maximumtarieven/BWBR0005343/README.md) wordt ingetrokken.  
+Het [Besluit werkingssfeer maximumtarieven WTG](../../../../AMvB/besluit/werkingssfeer/maximumtarieven/BWBR0005343/README.md) wordt ingetrokken. 
 
 ### Artikel  1.9  
 
-Wijzigt het Besluit werkingssfeer WTG 1992.   
+Wijzigt het Besluit werkingssfeer WTG 1992. 
 
 ### Artikel  1.10  
 
-Wijzigt het Besluit zorgaanspraken AWBZ.   
+Wijzigt het Besluit zorgaanspraken AWBZ. 
 
 ### Artikel  1.11  
 
-Wijzigt het Besluit zorgverzekering.   
+Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  1.12  
 
-Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.   
+Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz. 
 
 ### Artikel  1.13  
 
-Wijzigt het Bijdragebesluit zorg.   
+Wijzigt het Bijdragebesluit zorg. 
 
 ### Artikel  1.14  
 
-Wijzigt het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992.   
+Wijzigt het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992. 
 
 ### Artikel  1.15  
 
-Wijzigt het Opiumwetbesluit.   
+Wijzigt het Opiumwetbesluit. 
 
 ### Artikel  1.16  
 
-Wijzigt het Registratiebesluit BIG.   
+Wijzigt het Registratiebesluit BIG. 
 
 ### Artikel  1.17  
 
-Wijzigt het Tijdelijk besluit tegemoetkoming buitengewone uitgaven.   
+Wijzigt het Tijdelijk besluit tegemoetkoming buitengewone uitgaven. 
 
 ### Artikel  1.18  
 
-Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.   
+Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg. 
 
 ### Artikel  1.19  
 
-Wijzigt het Vrijstellingsbesluit WTG.   
+Wijzigt het Vrijstellingsbesluit WTG. 
 
 ### Artikel  1.20  
 
-Wijzigt het Zorgindicatiebesluit.   
+Wijzigt het Zorgindicatiebesluit. 
 
 ### Artikel  1.21  
 
 Ingetrokken worden: 
 
-a. het [Besluit van 19 december 1991, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering](../../../../AMvB/wijzigingsbesluit/inschrijvingsbesluit/ziekenfondsverzekering/BWBR0005336/README.md) (Stb. 723);  
+a.het [Besluit van 19 december 1991, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering](../../../../AMvB/wijzigingsbesluit/inschrijvingsbesluit/ziekenfondsverzekering/BWBR0005336/README.md) (Stb. 723);
 
-b. het [Besluit van 19 december 1991, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/BWBR0005339/README.md) (Stb. 1987, 227) (Stb. 727);  
+b.het [Besluit van 19 december 1991, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/BWBR0005339/README.md) (Stb. 1987, 227) (Stb. 727);
 
-c. het Besluit van 23 december 1991, houdende wijziging van het Besluit uitbreiding en beperking van de toegang tot particuliere ziektekostenverzekeringen (Stb. 773);  
+c.het Besluit van 23 december 1991, houdende wijziging van het Besluit uitbreiding en beperking van de toegang tot particuliere ziektekostenverzekeringen (Stb. 773);
 
-d. het [Besluit van 9 mei 1994, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering alsmede het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992](../../../../AMvB/wijzigingsbesluit/inschrijvingsbesluit/ziekenfondsverzekering/(enz.)/BWBR0006663/README.md) (Stb. 355);  
+d.het [Besluit van 9 mei 1994, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering alsmede het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992](../../../../AMvB/wijzigingsbesluit/inschrijvingsbesluit/ziekenfondsverzekering/(enz.)/BWBR0006663/README.md) (Stb. 355);
 
-e. het [Besluit van 18 december 1995, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet in verband met de invoering van de Wet privatisering ABP (invoering WAO-conforme regeling)](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/etc/BWBR0007755/README.md) (Stb. 1996, 6);  
+e.het [Besluit van 18 december 1995, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet in verband met de invoering van de Wet privatisering ABP (invoering WAO-conforme regeling)](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/etc/BWBR0007755/README.md) (Stb. 1996, 6);
 
-f. het [Besluit van 16 augustus 1996, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering en het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992](../../../../AMvB/besluit/wijziging/inschrijvingsbesluit/ziekenfondsverzekering/en/etc/BWBR0008206/README.md) (Stb. 437);  
+f.het [Besluit van 16 augustus 1996, houdende wijziging van het Inschrijvingsbesluit ziekenfondsverzekering en het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992](../../../../AMvB/besluit/wijziging/inschrijvingsbesluit/ziekenfondsverzekering/en/etc/BWBR0008206/README.md) (Stb. 437);
 
-g. het [Besluit van 24 oktober 1996 tot wijziging van het Verstrekkingenbesluit ziekenfondsverzekering en het Vergoedingenbesluit particulier verzekerden in verband met invoering van een algemeen systeem van eigen bijdragen](../../../../AMvB/wijzigingsbesluit/verstrekkingenbesluit/ziekenfondsverzekering/en/het/etc/BWBR0008297/README.md) (Stb. 541);  
+g.het [Besluit van 24 oktober 1996 tot wijziging van het Verstrekkingenbesluit ziekenfondsverzekering en het Vergoedingenbesluit particulier verzekerden in verband met invoering van een algemeen systeem van eigen bijdragen](../../../../AMvB/wijzigingsbesluit/verstrekkingenbesluit/ziekenfondsverzekering/en/het/etc/BWBR0008297/README.md) (Stb. 541);
 
-h. het [Besluit van 15 november 1996, tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden en enige andere besluiten in verband met regeling van de aanspraak op thuiszorg](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0008334/README.md) (Stb. 595);  
+h.het [Besluit van 15 november 1996, tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden en enige andere besluiten in verband met regeling van de aanspraak op thuiszorg](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0008334/README.md) (Stb. 595);
 
-i. het [Besluit van 27 augustus 1997 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden, het Besluit indicatiebeoordeling verpleging en verzorging en het Administratiebesluit Bijzondere Ziektekostenverzekering in verband met aanpassing van de aanspraak op thuiszorg en de daarvoor verschuldigde bijdragen (aanpassing aanspraak thuiszorg)](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0008890/README.md) (Stb. 388);  
+i.het [Besluit van 27 augustus 1997 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden, het Besluit indicatiebeoordeling verpleging en verzorging en het Administratiebesluit Bijzondere Ziektekostenverzekering in verband met aanpassing van de aanspraak op thuiszorg en de daarvoor verschuldigde bijdragen (aanpassing aanspraak thuiszorg)](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0008890/README.md) (Stb. 388);
 
-j. het [Besluit van 7 november 1997 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden en enige andere besluiten in verband met wijziging van de aanspraak op thuiszorg en enige andere wijzigingen (wijziging aanspraak thuiszorg)](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0009002/README.md) (Stb. 530);  
+j.het [Besluit van 7 november 1997 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, het Bijdragebesluit zorg, het Verstrekkingenbesluit ziekenfondsverzekering, het Vergoedingenbesluit particulier verzekerden en enige andere besluiten in verband met wijziging van de aanspraak op thuiszorg en enige andere wijzigingen (wijziging aanspraak thuiszorg)](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0009002/README.md) (Stb. 530);
 
-k. het [Besluit van 16 december 1997, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet en het Besluit beperking kring verzekerden Ziekenfondswet in verband met het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/etc/BWBR0009171/README.md) (Stb. 715);  
+k.het [Besluit van 16 december 1997, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet en het Besluit beperking kring verzekerden Ziekenfondswet in verband met het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet/etc/BWBR0009171/README.md) (Stb. 715);
 
-l. het [Besluit van 16 december 1997, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet en enige andere besluiten in verband met aanpassing van de gronden voor ziekenfondsverzekering](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet./etc/BWBR0009172/README.md) (Stb. 716);  
+l.het [Besluit van 16 december 1997, houdende wijziging van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet en enige andere besluiten in verband met aanpassing van de gronden voor ziekenfondsverzekering](../../../../AMvB/wijzigingsbesluit/aanwijzingsbesluit/verplicht-verzekerden/ziekenfondswet./etc/BWBR0009172/README.md) (Stb. 716);
 
-m. het [Besluit van 17 mei 2000 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering en enige andere besluiten in verband met het regelen van de aanspraak op zorg door een verzorgingshuis en het flexibiliseren van de aanspraak op verzorging en verpleging](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0011361/README.md) (Stb. 221);  
+m.het [Besluit van 17 mei 2000 tot wijziging van het Besluit zorgaanspraken bijzondere ziektekostenverzekering en enige andere besluiten in verband met het regelen van de aanspraak op zorg door een verzorgingshuis en het flexibiliseren van de aanspraak op verzorging en verpleging](../../../../AMvB/wijzigingsbesluit/besluit/zorgaanspraken/bijzondere/etc/BWBR0011361/README.md) (Stb. 221);
 
-n. het [Besluit van 23 mei 2001 tot wijziging van het Zorgindicatiebesluit in verband met de uitbreiding van de vormen van zorg waarop dat besluit van toepassing is](../../../../AMvB/wijzigingsbesluit/zorgindicatiebesluit/(uitbreiding/vormen/van/zorg)/BWBR0012518/README.md) (Stb. 265);  
+n.het [Besluit van 23 mei 2001 tot wijziging van het Zorgindicatiebesluit in verband met de uitbreiding van de vormen van zorg waarop dat besluit van toepassing is](../../../../AMvB/wijzigingsbesluit/zorgindicatiebesluit/(uitbreiding/vormen/van/zorg)/BWBR0012518/README.md) (Stb. 265);
 
-o. het [Besluit invoering individuele tarifering apotheekhoudenden WTG](../../../../AMvB/besluit/werkingssfeer/maximumtarieven/BWBR0005343/README.md).    
+o.het [Besluit invoering individuele tarifering apotheekhoudenden WTG](../../../../AMvB/besluit/werkingssfeer/maximumtarieven/BWBR0005343/README.md).
 
 ### Artikel  1.22  
 
@@ -202,12 +202,12 @@ o. het [Besluit invoering individuele tarifering apotheekhoudenden WTG](../../..
 a. de verlening van de zorg op of voor die dag is begonnen, of  
 
 b. het zorg betreft waarop hij aansluitend aan of in plaats van de onder a bedoelde zorg in redelijkheid is aangewezen.     
-2.  De [artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) zijn van overeenkomstige toepassing.   
+2.  De [artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  1.23  
 
 1.  De zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verlangt van een verzekerde als bedoeld in [artikel 1, onderdeel f, van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die op de dag voorafgaande aan de inwerkingtreding van de in [artikel 4.3, tweede lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) genoemde bepalingen van [dat besluit](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) in het bezit was van een indicatiebesluit, een door een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) verleende toestemming of een verwijzing voor de in [dat artikel](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) geregelde zorg, niet dat toestemming wordt gevraagd of een verwijzing wordt overgelegd. Het indicatiebesluit, de toestemming of de verwijzing gelden als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor het indicatiebesluit, de toestemming of de verwijzing geldt.   
-2.  Indien een verzekerde als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) ingevolge de zorgverzekering recht heeft op de levering van zorg door zijn zorgverzekeraar en op de dag voorafgaande aan de inwerkingtreding van de in [artikel 4.3, tweede lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) genoemde bepalingen van [dat besluit](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) als verzekerde ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) in dat artikel geregelde zorg ontving van een zorgaanbieder met welke de zorgverzekeraar daartoe geen overeenkomst heeft gesloten, heeft de verzekerde desalniettemin recht op zorgverlening door die zorgaanbieder voor rekening van de zorgverzekeraar.   
+2.  Indien een verzekerde als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) ingevolge de zorgverzekering recht heeft op de levering van zorg door zijn zorgverzekeraar en op de dag voorafgaande aan de inwerkingtreding van de in [artikel 4.3, tweede lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) genoemde bepalingen van [dat besluit](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) als verzekerde ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) in dat artikel geregelde zorg ontving van een zorgaanbieder met welke de zorgverzekeraar daartoe geen overeenkomst heeft gesloten, heeft de verzekerde desalniettemin recht op zorgverlening door die zorgaanbieder voor rekening van de zorgverzekeraar.  
 
 ### Hoofdstuk  2  
 
@@ -215,35 +215,35 @@ b. het zorg betreft waarop hij aansluitend aan of in plaats van de onder a bedoe
 
 ### Artikel  2.1  
 
-Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.   
+Wijzigt het Besluit draagkrachtcriteria rechtsbijstand. 
 
 ### Artikel  2.2  
 
-Wijzigt het Besluit tarieven in strafzaken 2003.   
+Wijzigt het Besluit tarieven in strafzaken 2003.
 
 ### Artikel  2.3  
 
-Wijzigt het Besluit voorzieningen Remigratiewet.   
+Wijzigt het Besluit voorzieningen Remigratiewet. 
 
 ### Artikel  2.4  
 
-Wijzigt het Besluit ex artikel 162 Wetboek van Strafvordering.   
+Wijzigt het Besluit ex artikel 162 Wetboek van Strafvordering. 
 
 ### Artikel  2.5  
 
-Wijzigt het Besluit aanwijzing instanties of personen die de raden voor de kinderbescherming kosteloos inlichtingen verschaffen.   
+Wijzigt het Besluit aanwijzing instanties of personen die de raden voor de kinderbescherming kosteloos inlichtingen verschaffen. 
 
 ### Artikel  2.6  
 
-Wijzigt de Penitentiaire maatregel.   
+Wijzigt de Penitentiaire maatregel. 
 
 ### Artikel  2.7  
 
-Wijzigt het Reglement verpleging ter beschikking gestelden.   
+Wijzigt het Reglement verpleging ter beschikking gestelden. 
 
 ### Artikel  2.8  
 
-Wijzigt het Uitvoeringsbesluit Remigratiewet.   
+Wijzigt het Uitvoeringsbesluit Remigratiewet. 
 
 ### Hoofdstuk  3  
 
@@ -251,11 +251,11 @@ Wijzigt het Uitvoeringsbesluit Remigratiewet.
 
 ### Artikel  3.1  
 
-Wijzigt het Besluit BIBOB.   
+Wijzigt het Besluit BIBOB. 
 
 ### Artikel  3.2  
 
-Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.   
+Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens. 
 
 ### Hoofdstuk  4  
 
@@ -263,7 +263,7 @@ Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.
 
 ### Artikel  4.1  
 
-Wijzigt het Besluit studiefinanciering 2000.   
+Wijzigt het Besluit studiefinanciering 2000. 
 
 ### Hoofdstuk  5  
 
@@ -271,15 +271,15 @@ Wijzigt het Besluit studiefinanciering 2000.
 
 ### Artikel  5.1  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  5.2  
 
-Wijzigt het Uitvoeringsbesluit loonbelasting 1965.   
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  5.3  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968. 
 
 ### Hoofdstuk  6  
 
@@ -287,23 +287,23 @@ Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Artikel  6.1  
 
-Wijzigt het Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden.   
+Wijzigt het Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden. 
 
 ### Artikel  6.2  
 
-Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.   
+Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning. 
 
 ### Artikel  6.3  
 
-Wijzigt het Besluit woon- en verblijfsgebouwen milieubeheer.   
+Wijzigt het Besluit woon- en verblijfsgebouwen milieubeheer. 
 
 ### Artikel  6.4  
 
-Wijzigt het Huursubsidiebesluit.   
+Wijzigt het Huursubsidiebesluit. 
 
 ### Artikel  6.5  
 
-Wijzigt het Waterleidingbesluit.   
+Wijzigt het Waterleidingbesluit. 
 
 ### Hoofdstuk  7  
 
@@ -311,7 +311,7 @@ Wijzigt het Waterleidingbesluit.
 
 ### Artikel  7.1  
 
-Wijzigt het Handelsregisterbesluit 1996.   
+Wijzigt het Handelsregisterbesluit 1996. 
 
 ### Hoofdstuk  8  
 
@@ -319,35 +319,35 @@ Wijzigt het Handelsregisterbesluit 1996.
 
 ### Artikel  8.1  
 
-Wijzigt het Besluit aanspraken van schepelingen die niet verzekerd zijn ingevolge de Ziektewet.   
+Wijzigt het Besluit aanspraken van schepelingen die niet verzekerd zijn ingevolge de Ziektewet. 
 
 ### Artikel  8.2  
 
-Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.   
+Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998. 
 
 ### Artikel  8.3  
 
-Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.   
+Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen. 
 
 ### Artikel  8.4  
 
-Wijzigt het Besluit verstrekking financiële informatie aan ondernemingsraden 1985.   
+Wijzigt het Besluit verstrekking financiële informatie aan ondernemingsraden 1985. 
 
 ### Artikel  8.5  
 
-Wijzigt het Inkomensbesluit IOAW.   
+Wijzigt het Inkomensbesluit IOAW. 
 
 ### Artikel  8.6  
 
-Wijzigt het Inkomensbesluit Toeslagenwet.   
+Wijzigt het Inkomensbesluit Toeslagenwet. 
 
 ### Artikel  8.7  
 
-Wijzigt het Inkomens- en samenloopbesluit Anw.   
+Wijzigt het Inkomens- en samenloopbesluit Anw. 
 
 ### Artikel  8.8  
 
-Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.   
+Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten. 
 
 ### Hoofdstuk  9  
 
@@ -355,11 +355,11 @@ Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
 ### Artikel  9.1  
 
-Ten aanzien van aanspraken, rechten en verplichtingen welke voor het tijdstip van inwerkingtreding van dit besluit zijn ontstaan krachtens bij dit besluit ingetrokken algemene maatregelen van bestuur, dan wel na dat tijdstip zijn ontstaan terzake van de afwikkeling van zodanige maatregelen, blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip, behoudens voor zover in dit besluit afwijkende regels zijn gesteld.  
+Ten aanzien van aanspraken, rechten en verplichtingen welke voor het tijdstip van inwerkingtreding van dit besluit zijn ontstaan krachtens bij dit besluit ingetrokken algemene maatregelen van bestuur, dan wel na dat tijdstip zijn ontstaan terzake van de afwikkeling van zodanige maatregelen, blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip, behoudens voor zover in dit besluit afwijkende regels zijn gesteld. 
 
 ### Artikel  9.3  
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit Zorgverzekeringswet.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit Zorgverzekeringswet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -367,7 +367,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 15 december 2005  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport , 
+De Minister van Volksgezondheid, Welzijn en Sport ,  
 J. F. Hoogervorst   
 
 de *tweeëntwintigste* december 2005 

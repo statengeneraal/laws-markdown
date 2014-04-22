@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling aanwijzing doelgroepen Remigratiewet.   
+Wijzigt de Regeling aanwijzing doelgroepen Remigratiewet. 
 
 ### Artikel  II  
 
-[Artikel 2 van de Regeling aanwijzing doelgroepen Remigratiewet](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/doelgroepen/remigratiewet/BWBR0011204/README.md), zoals dat luidde op de dag voor de datum van inwerkingtreding van deze regeling, blijft van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling zijn geremigreerd, of een aanvraag tot toekenning van de basisvoorzieningen of de remigratievoorzieningen bij de Sociale verzekeringsbank hebben ingediend.  
+[Artikel 2 van de Regeling aanwijzing doelgroepen Remigratiewet](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/doelgroepen/remigratiewet/BWBR0011204/README.md), zoals dat luidde op de dag voor de datum van inwerkingtreding van deze regeling, blijft van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling zijn geremigreerd, of een aanvraag tot toekenning van de basisvoorzieningen of de remigratievoorzieningen bij de Sociale verzekeringsbank hebben ingediend. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 26 oktober 2011   
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner     

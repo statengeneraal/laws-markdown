@@ -3,7 +3,7 @@
 ##Nadere voorschriften op de praktijkopleidingen
 
 Het bestuur van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op artikel 25 van de Verordening op de praktijkopleidingen;
+Gelet op [artikel 25 van de Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);
 Stelt de volgende nadere voorschriften vast:     
 ### Hoofdstuk  1  
 
@@ -13,69 +13,69 @@ Stelt de volgende nadere voorschriften vast:
 
 In deze nadere voorschriften wordt verstaan onder: 
 
-– *accountant:* een accountant als bedoeld in artikel 1 van de wet;  
+–  *accountant:* een accountant als bedoeld in [artikel 1 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *accountantsafdeling:* een accountantsafdeling als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
+–  *accountantsafdeling:* een accountantsafdeling als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
 
-– *accountantspraktijk:* een accountantspraktijk als bedoeld in artikel 1 van de Verordening op de ledengroepen;  
+–  *accountantspraktijk:* een accountantspraktijk als bedoeld in [artikel 1 van de Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
 
-– *afstudeerscriptie:* een afstudeerscriptie als bedoeld in artikel 14, vierde lid van de verordening;  
+–  *afstudeerscriptie:* een afstudeerscriptie als bedoeld in [artikel 14, vierde lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *aan assurance verwante opdrachten:* aan assurance verwante opdrachten als bedoeld in de Verordening op de ledengroepen;  
+–  *aan assurance verwante opdrachten:* aan assurance verwante opdrachten als bedoeld in de [Verordening op de ledengroepen](../../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
 
-– *assurance-opdrachten:* assurance-opdrachten als bedoeld in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten;  
+–  *assurance-opdrachten:* assurance-opdrachten als bedoeld in de [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](../../../../../../../pbo/verordening/inzake/de/onafhankelijkheid/van/accountants/bij/etc/BWBR0034652/README.md);  
 
-– *beoordelaar:* een beoordelaar als bedoeld in artikel 12, derde lid en 14, derde lid van de verordening;  
+–  *beoordelaar:* een beoordelaar als bedoeld in [artikel 12, derde lid en 14, derde lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid van de wet;  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *beroepsproduct:* het resultaat van een werkproces van een trainee of het resultaat van een werkproces waar de trainee een bijdrage aan heeft geleverd;  
+–  *beroepsproduct:* het resultaat van een werkproces van een trainee of het resultaat van een werkproces waar de trainee een bijdrage aan heeft geleverd;  
 
-– *bestuur:* het bestuur van de beroepsorganisatie;  
+–  *bestuur:* het bestuur van de beroepsorganisatie;  
 
-– *competentie:* het geheel van kennis, vaardigheden, waarden, ethiek en beroepshouding zoals deze worden gedemonstreerd in een professionele omgeving op het niveau van een beginnend beroepsbeoefenaar;  
+–  *competentie:* het geheel van kennis, vaardigheden, waarden, ethiek en beroepshouding zoals deze worden gedemonstreerd in een professionele omgeving op het niveau van een beginnend beroepsbeoefenaar;  
 
-– *competentiematrix:* het in een elektronische leeromgeving opgenomen overzicht waarin de door een trainee verkregen competenties schematisch zijn weergegeven;  
+–  *competentiematrix:* het in een elektronische leeromgeving opgenomen overzicht waarin de door een trainee verkregen competenties schematisch zijn weergegeven;  
 
-– *controle-opdracht:* een opdracht als bedoeld in artikel 1, onderdeel o of onderdeel p, van de Wet toezicht accountantsorganisaties;  
+–  *controle-opdracht:* een opdracht als bedoeld in [artikel 1, onderdeel o of onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *eindtermen:* de eindtermen, bedoeld in artikel 49, tweede lid, onderdeel a van de wet;  
+–  *eindtermen:* de eindtermen, bedoeld in [artikel 49, tweede lid, onderdeel a van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– *elektronische leeromgeving:* een door het bestuur ter beschikking gestelde elektronische omgeving waarin een trainee de vorderingen gedurende de praktijkopleiding registreert en de op te leveren documenten plaatst;  
+–  *elektronische leeromgeving:* een door het bestuur ter beschikking gestelde elektronische omgeving waarin een trainee de vorderingen gedurende de praktijkopleiding registreert en de op te leveren documenten plaatst;  
 
-– *jaarplan:* een jaarplan als bedoeld in artikel 53, derde lid;  
+–  *jaarplan:* een jaarplan als bedoeld in artikel 53, derde lid;  
 
-– *kritische beroepssituaties:* kritische beroepssituaties als bedoeld in de Verordening op het beroepsprofiel AA;  
+–  *kritische beroepssituaties:* kritische beroepssituaties als bedoeld in de [Verordening op het beroepsprofiel AA](../../../../../../../pbo/verordening/op/het/beroepsprofiel/aa/BWBR0025186/README.md);  
 
-– *mondeling examen:* het mondeling examen, bedoeld in artikel 15, tweede lid, onderdeel b of artikel 17, tweede lid, onderdeel c, van de verordening;  
+–  *mondeling examen:* het mondeling examen, bedoeld in [artikel 15, tweede lid, onderdeel b](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) of [artikel 17, tweede lid, onderdeel c, van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *NBA Stagebureau:* het stagebureau, bedoeld in artikel 5, tweede lid van de verordening;  
+–  *NBA Stagebureau:* het stagebureau, bedoeld in [artikel 5, tweede lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *niveau van beginnend beroepsbeoefenaar:* het niveau van beginnend beroepsbeoefenaar, bedoeld in de eindtermen;  
+–  *niveau van beginnend beroepsbeoefenaar:* het niveau van beginnend beroepsbeoefenaar, bedoeld in de eindtermen;  
 
-– *periodieke rapportage:* een periodieke rapportage als bedoeld in artikel 12, tweede lid, of 14, tweede lid, van de verordening;  
+–  *periodieke rapportage:* een periodieke rapportage als bedoeld in [artikel 12, tweede lid](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), of [14, tweede lid, van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *persoonlijk ontwikkelingsplan:* een persoonlijk ontwikkelingsplan als bedoeld in artikel 12, tweede lid van de verordening;  
+–  *persoonlijk ontwikkelingsplan:* een persoonlijk ontwikkelingsplan als bedoeld in [artikel 12, tweede lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *portfolio:* een portfolio als bedoeld in artikel 12, tweede lid, of artikel 14, tweede lid, van de verordening;  
+–  *portfolio:* een portfolio als bedoeld in [artikel 12, tweede lid](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), of [artikel 14, tweede lid, van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *praktijkbegeleider:* een praktijkbegeleider als bedoeld in artikel 8, tweede lid van de verordening;  
+–  *praktijkbegeleider:* een praktijkbegeleider als bedoeld in [artikel 8, tweede lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *praktijkopleiding:* de praktijkopleiding AA en de praktijkopleiding RA;  
+–  *praktijkopleiding:* de praktijkopleiding AA en de praktijkopleiding RA;  
 
-– *praktijkopleiding AA:* de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;  
+–  *praktijkopleiding AA:* de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;  
 
-– *praktijkopleiding RA:* de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;  
+–  *praktijkopleiding RA:* de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;  
 
-– *rapportageperiode:* een semester of een praktijkopleidingsjaar;  
+–  *rapportageperiode:* een semester of een praktijkopleidingsjaar;  
 
-– *samenstellingsopdracht:* een samenstellingsopdracht als bedoeld in de Nadere voorschriften controle- en overige standaarden;  
+–  *samenstellingsopdracht:* een samenstellingsopdracht als bedoeld in de Nadere voorschriften controle- en overige standaarden;  
 
-– *trainee:* een trainee als bedoeld in artikel 1 van de verordening;  
+–  *trainee:* een trainee als bedoeld in [artikel 1 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *verordening:* de Verordening op de praktijkopleidingen;  
+–  *verordening:* de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md);  
 
-– *wet:* de Wet op het accountantsberoep.    
+–  *wet:* de [Wet op het accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -88,17 +88,17 @@ In deze nadere voorschriften wordt verstaan onder:
 ### Artikel  2  
 
 1.  De trainee volgt de praktijkopleiding bij een accountantspraktijk, een accountantsafdeling of de Belastingdienst.   
-2.  Op schriftelijk verzoek van de trainee, kan het bestuur de trainee toestemming verlenen om een gedeelte van de praktijkopleiding te volgen bij een andere, aan een accountantspraktijk of accountantsafdeling gelijkwaardige werkomgeving.   
+2.  Op schriftelijk verzoek van de trainee, kan het bestuur de trainee toestemming verlenen om een gedeelte van de praktijkopleiding te volgen bij een andere, aan een accountantspraktijk of accountantsafdeling gelijkwaardige werkomgeving.  
 
 ### Artikel  3  
 
-Een trainee volgt de praktijkopleiding onder begeleiding van een praktijkbegeleider.  
+Een trainee volgt de praktijkopleiding onder begeleiding van een praktijkbegeleider. 
 
 ### Artikel  4  
 
 1.  De praktijkopleiding duurt niet meer dan negen jaren.   
 2.  De praktijkopleiding wordt opgedeeld in praktijkopleidingsjaren. Een praktijkopleidingsjaar bestaat uit twee semesters van zes maanden.   
-3.  Een praktijkopleidingsjaar of een semester vangt aan op de eerste dag van een kalendermaand.   
+3.  Een praktijkopleidingsjaar of een semester vangt aan op de eerste dag van een kalendermaand.  
 
 ### Artikel  5  
 
@@ -110,39 +110,39 @@ a. een semester korter dan vier maanden duurt;
 b. de eerste vier semesters gezamenlijk minder dan vierentwintig maanden duren; of  
 
 c. het vijfde en zesde semester gezamenlijk minder dan twaalf maanden duren.     
-3.  De uren die een trainee in enig semester aan de praktijkopleiding besteedt boven het aantal uren, bedoeld in artikel 13, eerste lid van de verordening, worden niet vooruitgewenteld naar een volgend semester.   
+3.  De uren die een trainee in enig semester aan de praktijkopleiding besteedt boven het aantal uren, bedoeld in [artikel 13, eerste lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), worden niet vooruitgewenteld naar een volgend semester.  
 
 ### Artikel  6  
 
 1.  De trainee ontwikkelt tijdens zijn praktijkopleiding in elk geval de vaardigheden en de kennis, bedoeld in de eindtermen.   
-2.  De trainee streeft tijdens de praktijkopleiding naar spreiding van zijn werkzaamheden naar bedrijfstypen, soorten werkzaamheden en diverse opdrachtgevers. De werkzaamheden sluiten aan bij het tot dan toe bereikte theoretische niveau. Het laatste praktijkopleidingsjaar omvat in ieder geval alle fasen van een controle-cyclus op het niveau van een beginnend beroepsbeoefenaar.   
+2.  De trainee streeft tijdens de praktijkopleiding naar spreiding van zijn werkzaamheden naar bedrijfstypen, soorten werkzaamheden en diverse opdrachtgevers. De werkzaamheden sluiten aan bij het tot dan toe bereikte theoretische niveau. Het laatste praktijkopleidingsjaar omvat in ieder geval alle fasen van een controle-cyclus op het niveau van een beginnend beroepsbeoefenaar.  
 
 ### Artikel  7  
 
 1.  De trainee geeft er in de periodieke rapportages blijk van dat de leerdoelstellingen, die zijn opgenomen in het persoonlijk ontwikkelingsplan of de jaarplannen, zijn bereikt en dat de daarmee gepaard gaande vaardigheden worden beheerst.   
-2.  In de werkzaamheden van de trainee is gedurende de praktijkopleiding sprake van ontwikkeling, waaronder in elk geval wordt verstaan: meer verantwoordelijkheid, meer zelfstandigheid, meer planning en coördinatie naarmate de praktijkopleiding vordert. Deze ontwikkeling is waarneembaar in de periodieke rapportages, in samenhang met geformuleerde leerdoelstellingen.   
+2.  In de werkzaamheden van de trainee is gedurende de praktijkopleiding sprake van ontwikkeling, waaronder in elk geval wordt verstaan: meer verantwoordelijkheid, meer zelfstandigheid, meer planning en coördinatie naarmate de praktijkopleiding vordert. Deze ontwikkeling is waarneembaar in de periodieke rapportages, in samenhang met geformuleerde leerdoelstellingen.  
 
 ### Artikel  8  
 
 1.  Het bestuur kan voor trainees cursussen op door het bestuur te bepalen onderwerpen verplicht stellen.   
-2.  Uren besteed aan cursussen als bedoeld in het eerste lid, worden gerekend tot de uren, bedoeld in artikel 11, derde lid van de verordening of artikel 13, eerste lid van de verordening.   
+2.  Uren besteed aan cursussen als bedoeld in het eerste lid, worden gerekend tot de uren, bedoeld in [artikel 11, derde lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) of [artikel 13, eerste lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md).  
 
 ### Artikel  9  
 
-Een trainee houdt zijn portfolio bij in een elektronische leeromgeving.  
+Een trainee houdt zijn portfolio bij in een elektronische leeromgeving. 
 
 ### Artikel  10  
 
-Onverminderd het bepaalde in artikel 11, derde lid en 13, eerste lid van de verordening, kan een trainee die ten minste twintig uur per week werkzaam is in het kader van de praktijkopleiding, de praktijkopleiding in deeltijd volgen.  
+Onverminderd het bepaalde in [artikel 11, derde lid](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en [13, eerste lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), kan een trainee die ten minste twintig uur per week werkzaam is in het kader van de praktijkopleiding, de praktijkopleiding in deeltijd volgen. 
 
 ### Artikel  11  
 
-Een trainee verzoekt het bestuur de praktijkopleiding in het buitenland te mogen volgen.  
+Een trainee verzoekt het bestuur de praktijkopleiding in het buitenland te mogen volgen. 
 
 ### Artikel  12  
 
 1.  Mondelinge examens kunnen worden bijgewoond door een door het bestuur aan te wijzen waarnemer.   
-2.  Op verzoek van het bestuur, stuurt de trainee een kopie van zijn portfolio en indien van toepassing een afschrift van de met een voldoende beoordeelde afstudeerscriptie aan de waarnemer, bedoeld in het eerste lid.   
+2.  Op verzoek van het bestuur, stuurt de trainee een kopie van zijn portfolio en indien van toepassing een afschrift van de met een voldoende beoordeelde afstudeerscriptie aan de waarnemer, bedoeld in het eerste lid.  
 
 ### Paragraaf  2.2  
 
@@ -150,13 +150,13 @@ Een trainee verzoekt het bestuur de praktijkopleiding in het buitenland te mogen
 
 ### Artikel  13  
 
-Een trainee verzoekt om toelating tot de praktijkopleiding en overlegt daarbij de door het bestuur verlangde gegevens en bescheiden.  
+Een trainee verzoekt om toelating tot de praktijkopleiding en overlegt daarbij de door het bestuur verlangde gegevens en bescheiden. 
 
 ### Artikel  14  
 
 1.  Als de trainee de praktijkopleiding volgt op basis van een arbeidsovereenkomst, gaan de trainee en zijn werkgever de praktijkopleidingsovereenkomst aan zoals deze als bijlage bij deze nadere voorschriften is gevoegd.   
 2.  Als de trainee de praktijkopleiding niet op basis van een arbeidsovereenkomst volgt, overlegt hij een door het bestuur vastgestelde verklaring.   
-3.  Als de trainee een dienstverband aangaat met een andere werkgever, gaan de trainee en de nieuwe werkgever een overeenkomst aan als bedoeld in het eerste lid.   
+3.  Als de trainee een dienstverband aangaat met een andere werkgever, gaan de trainee en de nieuwe werkgever een overeenkomst aan als bedoeld in het eerste lid.  
 
 ### Paragraaf  2.3  
 
@@ -193,7 +193,7 @@ e. het namens het bestuur aanwijzen van beoordelaars;
 f. het namens het bestuur (doen) aanwijzen van praktijkbegeleiders; en  
 
 g. de kwaliteitsbewaking van de praktijkopleiding.     
-12.  Een stagebureau houdt een register van praktijkbegeleiders en beoordelaars bij.   
+12.  Een stagebureau houdt een register van praktijkbegeleiders en beoordelaars bij.  
 
 ### Paragraaf  2.4  
 
@@ -208,7 +208,7 @@ a. op verzoek van de praktijkbegeleider of de beoordelaar;
 
 b. in het geval het bestuur de benoeming van een praktijkbegeleider of een beoordelaar niet verlengt;  
 
-c. na het onherroepelijk worden van een door de accountantskamer aan een beoordelaar of praktijkbegeleider opgelegde tuchtrechtelijke maatregel.     
+c. na het onherroepelijk worden van een door de accountantskamer aan een beoordelaar of praktijkbegeleider opgelegde tuchtrechtelijke maatregel.    
 
 ### Artikel  17  
 
@@ -221,7 +221,7 @@ a. een periodieke rapportage een getrouw beeld geeft van de werkelijkheid;
 b. de werkzaamheden passen bij de fase van de praktijkopleiding waarin de trainee zich bevindt; en  
 
 c. de trainee zich zodanig ontwikkelt dat in de loop van het derde praktijkopleidingsjaar het niveau van beginnend beroepsbeoefenaar wordt bereikt.     
-4.  Het oordeel, bedoeld in het tweede lid, wordt samen met de desbetreffende periodieke rapportage bij de beoordelaar ter goedkeuring aangeboden.   
+4.  Het oordeel, bedoeld in het tweede lid, wordt samen met de desbetreffende periodieke rapportage bij de beoordelaar ter goedkeuring aangeboden.  
 
 ### Artikel  18  
 
@@ -229,17 +229,17 @@ c. de trainee zich zodanig ontwikkelt dat in de loop van het derde praktijkoplei
 2.  Een stagebureau en een praktijkbegeleider gaan een praktijkbegeleidersovereenkomst aan.   
 3.  Als praktijkbegeleider kan optreden: 
 
-a. in het eerste praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in artikel 36, tweede lid, onderdeel i van de wet, een wettelijk auditor uit een andere lidstaat van de EU als bedoeld in artikel 10 van EU- richtlijn 2006/43/EG of een andere deskundige op het gebied van accountancy;  
+a. in het eerste praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in [artikel 36, tweede lid, onderdeel i van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), een wettelijk auditor uit een andere lidstaat van de EU als bedoeld in artikel 10 van EU-richtlijn 2006/43/EG of een andere deskundige op het gebied van accountancy;  
 
-b. in het tweede praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in artikel 36, tweede lid, onderdeel i van de wet of een wettelijk auditor uit een andere lidstaat van de EU als bedoeld in artikel 10 van EU- richtlijn 2006/43/EG;  
+b. in het tweede praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in [artikel 36, tweede lid, onderdeel i van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) of een wettelijk auditor uit een andere lidstaat van de EU als bedoeld in artikel 10 van EU-richtlijn 2006/43/EG;  
 
-c. in het derde praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in artikel 36, tweede lid, onderdeel i van de wet.     
+c. in het derde praktijkopleidingsjaar: een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in [artikel 36, tweede lid, onderdeel i van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).     
 4.  Een praktijkbegeleider treedt niet op als praktijkbegeleider van een trainee met wie hij in een zakelijke of persoonlijke relatie staat die een bedreiging vormt voor een goede uitoefening van zijn taken.   
-5.  Het bestuur wijst een andere praktijkbegeleider aan als hij de praktijkbegeleider ongeschikt acht om als praktijkbegeleider van desbetreffende trainee op te treden. Het bestuur stelt hiervan de trainee en de praktijkbegeleider schriftelijk op de hoogte.   
+5.  Het bestuur wijst een andere praktijkbegeleider aan als hij de praktijkbegeleider ongeschikt acht om als praktijkbegeleider van desbetreffende trainee op te treden. Het bestuur stelt hiervan de trainee en de praktijkbegeleider schriftelijk op de hoogte.  
 
 ### Artikel  19  
 
-Een trainee die in zijn werkomgeving niet kan beschikken over een praktijkbegeleider, kan gebruik maken van een externe praktijkbegeleider.  
+Een trainee die in zijn werkomgeving niet kan beschikken over een praktijkbegeleider, kan gebruik maken van een externe praktijkbegeleider. 
 
 ### Artikel  20  
 
@@ -247,7 +247,7 @@ Een trainee die in zijn werkomgeving niet kan beschikken over een praktijkbegele
 2.  Een beoordelaar kan worden aangesteld met tevens een bevoegdheid om namens het stagebureau waaraan de beoordelaar is verbonden, toezicht te houden op de kwaliteit van de taakuitoefening door de aan het stagebureau verbonden praktijkbegeleiders.   
 3.  Een beoordelaar treedt niet op als beoordelaar van een trainee met wie hij in een zakelijke of persoonlijke relatie staat die een bedreiging vormt voor een goede uitoefening van zijn taken.   
 4.  Een beoordelaar treedt niet tevens op als praktijkbegeleider binnen een stagebureau waaraan hij als beoordelaar is verbonden.   
-5.  Het bestuur wijst een andere beoordelaar aan als het bestuur de beoordelaar ongeschikt acht om als beoordelaar op te treden. Het bestuur stelt hiervan de beoordelaar en de trainee schriftelijk op de hoogte.   
+5.  Het bestuur wijst een andere beoordelaar aan als het bestuur de beoordelaar ongeschikt acht om als beoordelaar op te treden. Het bestuur stelt hiervan de beoordelaar en de trainee schriftelijk op de hoogte.  
 
 ### Artikel  21  
 
@@ -266,10 +266,10 @@ e. de behaalde studieresultaten steeds worden vermeld en dat de gevolgen hiervan
 
 f. de op het vereiste niveau bereikte vaardigheden zijn verkregen in overeenstemming met het desbetreffende deel van de theoretische opleiding dan wel na voltooiing daarvan; en  
 
-g. de periodieke rapportage voldoet aan de eisen die daaraan bij en krachtens de verordening mogen worden gesteld.     
+g. de periodieke rapportage voldoet aan de eisen die daaraan bij en krachtens de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) mogen worden gesteld.     
 3.  De beoordelaar bevestigt de goedkeuring van een periodieke rapportage.   
 4.  Als de beoordelaar de periodieke rapportage niet goedkeurt, voorziet deze de periodieke rapportage van een commentaar.   
-5.  De trainee past een periodieke rapportage die niet door de beoordelaar is goedgekeurd, aan in overeenstemming met het commentaar van de beoordelaar en legt de rapportage binnen zes weken na ontvangst van het commentaar opnieuw ter goedkeuring voor.   
+5.  De trainee past een periodieke rapportage die niet door de beoordelaar is goedgekeurd, aan in overeenstemming met het commentaar van de beoordelaar en legt de rapportage binnen zes weken na ontvangst van het commentaar opnieuw ter goedkeuring voor.  
 
 ### Paragraaf  2.5  
 
@@ -277,13 +277,13 @@ g. de periodieke rapportage voldoet aan de eisen die daaraan bij en krachtens de
 
 ### Artikel  22  
 
-1.  Een trainee verzoekt het bestuur schriftelijk om toepassing van artikel 20 of 22 van de verordening.   
-2.  Het bestuur beslist binnen zes weken op een verzoek als bedoeld in het eerste lid. Het bestuur kan aan toepassing van artikel 20 of 22 van de verordening voorwaarden verbinden.   
+1.  Een trainee verzoekt het bestuur schriftelijk om toepassing van [artikel 20](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) of [22 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md).   
+2.  Het bestuur beslist binnen zes weken op een verzoek als bedoeld in het eerste lid. Het bestuur kan aan toepassing van [artikel 20](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) of [22 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) voorwaarden verbinden.  
 
 ### Artikel  23  
 
-1.  Een trainee verzoekt het bestuur schriftelijk om toepassing van artikel 23 van de verordening en overlegt daarbij bewijsstukken.   
-2.  Aan de verlening van een vrijstelling als bedoeld in artikel 23 van de verordening, kan het bestuur voorwaarden verbinden.   
+1.  Een trainee verzoekt het bestuur schriftelijk om toepassing van [artikel 23 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en overlegt daarbij bewijsstukken.   
+2.  Aan de verlening van een vrijstelling als bedoeld in [artikel 23 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), kan het bestuur voorwaarden verbinden.  
 
 ### Paragraaf  2.6  
 
@@ -305,29 +305,29 @@ e. de rapportages van de praktijkbegeleider;
 
 f. rapportages en beoordelingen van de beoordelaars;  
 
-g. ingeval een verzoek als bedoeld in artikel 20 of 22 van de verordening is toegekend, de verklaringen, bedoeld in artikel 22;  
+g. ingeval een verzoek als bedoeld in [artikel 20](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) of [22 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) is toegekend, de verklaringen, bedoeld in artikel 22;  
 
-h. de correspondentie welke betrekking heeft op de uitvoering van de verordening en de daarop gebaseerde regels; en  
+h. de correspondentie welke betrekking heeft op de uitvoering van de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en de daarop gebaseerde regels; en  
 
-i. formulieren en verklaringen welke een trainee krachtens deze nadere voorschriften heeft moeten overleggen.    
+i. formulieren en verklaringen welke een trainee krachtens deze nadere voorschriften heeft moeten overleggen.   
 
 ### Artikel  25  
 
-Een trainee informeert het bestuur over tijdelijke onderbrekingen van de praktijkopleiding.  
+Een trainee informeert het bestuur over tijdelijke onderbrekingen van de praktijkopleiding. 
 
 ### Artikel  26  
 
-Het bestuur kan de praktijkopleiding van een trainee stopzetten in geval van onvoldoende vordering van de praktijkopleiding.  
+Het bestuur kan de praktijkopleiding van een trainee stopzetten in geval van onvoldoende vordering van de praktijkopleiding. 
 
 ### Artikel  27  
 
 1.  Een trainee meldt een voortijdige beëindiging van de praktijkopleiding aan het bestuur.   
-2.  Een voortijdige beëindiging van de praktijkopleiding geeft geen aanspraak op restitutie van bedragen die voorafgaand aan de beëindiging van de praktijkopleiding reeds verschuldigd waren op grond van de Verordening op de geldelijke bijdragen praktijkopleidingen.   
-3.  In afwijking van het tweede lid, kan degene die de praktijkopleiding beëindigt een bedrag gelijk aan de helft van de deelnamebijdrage, bedoeld in artikel 2 eerste lid van de Verordening op de geldelijke bijdragen praktijkopleidingen terugvorderen, mits hij zich binnen een halfjaar na aanvang van de praktijkopleiding afmeldt.   
+2.  Een voortijdige beëindiging van de praktijkopleiding geeft geen aanspraak op restitutie van bedragen die voorafgaand aan de beëindiging van de praktijkopleiding reeds verschuldigd waren op grond van de [Verordening op de geldelijke bijdragen praktijkopleidingen](../../../../../../../pbo/verordening/op/de/geldelijke/bijdragen/praktijkopleidingen/BWBR0034622/README.md).   
+3.  In afwijking van het tweede lid, kan degene die de praktijkopleiding beëindigt een bedrag gelijk aan de helft van de deelnamebijdrage, bedoeld in [artikel 2 eerste lid van de Verordening op de geldelijke bijdragen praktijkopleidingen](../../../../../../../pbo/verordening/op/de/geldelijke/bijdragen/praktijkopleidingen/BWBR0034622/README.md) terugvorderen, mits hij zich binnen een halfjaar na aanvang van de praktijkopleiding afmeldt.  
 
 ### Artikel  28  
 
-Anders dan gegevens die nodig zijn voor de uitvoering van de verordening en de daarop berustende bepalingen, bevat een periodieke rapportage, een persoonlijk ontwikkelingsplan, een jaarplan of een afstudeerscriptie geen gegevens betreffende geïdentificeerde natuurlijke personen, rechtspersonen of samenwerkingsverbanden.  
+Anders dan gegevens die nodig zijn voor de uitvoering van de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en de daarop berustende bepalingen, bevat een periodieke rapportage, een persoonlijk ontwikkelingsplan, een jaarplan of een afstudeerscriptie geen gegevens betreffende geïdentificeerde natuurlijke personen, rechtspersonen of samenwerkingsverbanden. 
 
 ### Paragraaf  2.7  
 
@@ -336,11 +336,11 @@ Anders dan gegevens die nodig zijn voor de uitvoering van de verordening en de d
 ### Artikel  29  
 
 1.  De trainee toont tijdens het mondeling examen aan op het niveau van beginnend beroepsbeoefenaar te kunnen functioneren.   
-2.  Een trainee kan tijdens het mondeling examen worden bevraagd over zijn ervaringen zoals deze zijn vastgelegd in de periodieke rapportages en andere stukken uit het portfolio.   
+2.  Een trainee kan tijdens het mondeling examen worden bevraagd over zijn ervaringen zoals deze zijn vastgelegd in de periodieke rapportages en andere stukken uit het portfolio.  
 
 ### Artikel  30  
 
-Een beoordelaar of een examinator kan aan de toelating van een trainee tot een tweede of volgend mondeling examen, de voorwaarde verbinden dat de trainee het portfolio op basis waarvan de trainee is toegelaten tot een eerste mondeling examen, aanpast in overeenstemming met de instructies van de beoordelaar of de examinator.  
+Een beoordelaar of een examinator kan aan de toelating van een trainee tot een tweede of volgend mondeling examen, de voorwaarde verbinden dat de trainee het portfolio op basis waarvan de trainee is toegelaten tot een eerste mondeling examen, aanpast in overeenstemming met de instructies van de beoordelaar of de examinator. 
 
 ### Hoofdstuk  3  
 
@@ -352,11 +352,11 @@ Een beoordelaar of een examinator kan aan de toelating van een trainee tot een t
 
 ### Artikel  31  
 
-De artikelen in dit hoofdstuk zijn uitsluitend van toepassing op de praktijkopleiding AA.  
+De artikelen in dit hoofdstuk zijn uitsluitend van toepassing op de praktijkopleiding AA. 
 
 ### Artikel  32  
 
-Onverminderd het bepaalde in artikel 46 van de wet, kan de praktijkopleiding AA worden gevolgd in een Brede MKB-variant of in een MKB controlevariant.  
+Onverminderd het bepaalde in [artikel 46 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), kan de praktijkopleiding AA worden gevolgd in een Brede MKB-variant of in een MKB controlevariant. 
 
 ### Artikel  33  
 
@@ -377,11 +377,11 @@ Onverminderd het bepaalde in artikel 46 van de wet, kan de praktijkopleiding AA 
 
 – het verrichten twee complexe controle-opdrachten op het niveau van beginnend beroepsbeoefenaar;  
 
-– 1.000 uren te besteden aan werkzaamheden met betrekking tot assurance-opdrachten.     
+– 1.000 uren te besteden aan werkzaamheden met betrekking tot assurance-opdrachten.    
 
 ### Artikel  34  
 
-Voor de toepassing van de verordening en de daarop berustende bepaling, is het een trainee toegestaan twee controle-opdrachten uit te voeren in een simulatieomgeving, welke door het bestuur wordt vastgesteld.  
+Voor de toepassing van de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en de daarop berustende bepaling, is het een trainee toegestaan twee controle-opdrachten uit te voeren in een simulatieomgeving, welke door het bestuur wordt vastgesteld. 
 
 ### Paragraaf  3.2  
 
@@ -391,17 +391,17 @@ Voor de toepassing van de verordening en de daarop berustende bepaling, is het e
 
 1.  Bij de aanvang van de praktijkopleiding stelt de trainee in overleg met de praktijkbegeleider een persoonlijk ontwikkelingsplan op.   
 2.  Een persoonlijk ontwikkelingsplan wordt uiterlijk ingediend en door de praktijkbegeleider beoordeeld binnen zes weken na de aanvang van de praktijkopleiding AA.   
-3.  Uit een persoonlijk ontwikkelingsplan blijkt de planning van de trainee over de wijze waarop hij zal voldoen aan de bij en krachtens de verordening gestelde eisen.   
-4.  De trainee kan in overleg met de praktijkbegeleider het persoonlijk ontwikkelingsplan aanpassen. De aanpassing vindt plaats door een nieuw persoonlijk ontwikkelingsplan in te dienen danwel in het essay aan te geven waar van het persoonlijk ontwikkelingsplan wordt afgeweken.   
+3.  Uit een persoonlijk ontwikkelingsplan blijkt de planning van de trainee over de wijze waarop hij zal voldoen aan de bij en krachtens de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen.   
+4.  De trainee kan in overleg met de praktijkbegeleider het persoonlijk ontwikkelingsplan aanpassen. De aanpassing vindt plaats door een nieuw persoonlijk ontwikkelingsplan in te dienen danwel in het essay aan te geven waar van het persoonlijk ontwikkelingsplan wordt afgeweken.  
 
 ### Artikel  36  
 
 1.  Een persoonlijk ontwikkelingsplan behoeft de goedkeuring van de beoordelaar. De beoordelaar bevestigt de goedkeuring van een persoonlijk ontwikkelingsplan.   
 2.  De beoordelaar beoordeelt een persoonlijk ontwikkelingsplan binnen zes weken na ontvangst, met inachtneming van de bevindingen van de praktijkbegeleider.   
-3.  Bij de beoordeling van het persoonlijk ontwikkelingsplan stelt de beoordelaar vast dat de voorgenomen werkzaamheden voldoen aan de bij of krachtens de verordening gestelde eisen.   
+3.  Bij de beoordeling van het persoonlijk ontwikkelingsplan stelt de beoordelaar vast dat de voorgenomen werkzaamheden voldoen aan de bij of krachtens de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen.   
 4.  Een beoordelaar voorziet een persoonlijk ontwikkelingsplan na beoordeling van commentaar.   
 5.  De trainee past een persoonlijk ontwikkelingsplan dat door de beoordelaar niet is goedgekeurd, aan in overeenstemming met het commentaar van de beoordelaar en legt het persoonlijk ontwikkelingsplan opnieuw ter goedkeuring voor.   
-6.  Indien een trainee de praktijkopleiding onderbreekt of een dienstverband aangaat met een andere werkgever, stelt de trainee een aangepast persoonlijk ontwikkelingsplan op.   
+6.  Indien een trainee de praktijkopleiding onderbreekt of een dienstverband aangaat met een andere werkgever, stelt de trainee een aangepast persoonlijk ontwikkelingsplan op.  
 
 ### Paragraaf  3.3  
 
@@ -409,14 +409,14 @@ Voor de toepassing van de verordening en de daarop berustende bepaling, is het e
 
 ### Artikel  37  
 
-Periodieke rapportages bestaan uit gespreksverslagen als bedoeld in artikel 38, vierde lid, en essays als bedoeld in artikel 39, eerste lid.  
+Periodieke rapportages bestaan uit gespreksverslagen als bedoeld in artikel 38, vierde lid, en essays als bedoeld in artikel 39, eerste lid. 
 
 ### Artikel  38  
 
 1.  Gedurende een praktijkopleidingsjaar, voert een trainee ten minste twee gesprekken met de praktijkbegeleider.   
 2.  Het gesprek bedoeld in het vorige lid, wordt gevoerd op basis van een door het bestuur vastgestelde agenda.   
 3.  De gesprekken hebben betrekking op de verworven competenties van de trainee in het praktijkopleidingsjaar.   
-4.  De trainee maakt een gespreksverslag van de gesprekken, bedoeld in het eerste lid.   
+4.  De trainee maakt een gespreksverslag van de gesprekken, bedoeld in het eerste lid.  
 
 ### Artikel  39  
 
@@ -426,21 +426,21 @@ Periodieke rapportages bestaan uit gespreksverslagen als bedoeld in artikel 38, 
 4.  Een essay wordt uiterlijk zes weken na afloop van het praktijkopleidingsjaar ingediend.   
 5.  Het tweede praktijkopleidingsjaar vangt aan op een tijdstip als bedoeld in artikel 4, derde lid, mits het essay met betrekking tot het eerste praktijkopleidingsjaar binnen zes weken na de afronding van laatstbedoeld praktijkopleidingsjaar in de elektronische leeromgeving is geplaatst.   
 6.  Het derde praktijkopleidingsjaar vangt aan op een tijdstip als bedoeld in artikel 4, derde lid, mits het essay met betrekking tot het tweede praktijkopleidingsjaar binnen zes weken na de afronding van laatstbedoeld praktijkopleidingsjaar in de elektronische leeromgeving is geplaatst.   
-7.  Als een trainee gedurende een opleidingsjaar een dienstverband aangaat met een andere werkgever, stelt de trainee een essay op met betrekking tot elk dienstverband in het desbetreffende opleidingsjaar.   
+7.  Als een trainee gedurende een opleidingsjaar een dienstverband aangaat met een andere werkgever, stelt de trainee een essay op met betrekking tot elk dienstverband in het desbetreffende opleidingsjaar.  
 
 ### Artikel  40  
 
 1.  Onverminderd het bepaalde in artikel 39, derde lid behoeft een essay de goedkeuring van een beoordelaar.   
 2.  Bij de beoordeling van een essay, beoordeelt een beoordelaar ten minste de in het praktijkopleidingsjaar door de trainee verworven competenties ten opzichte van het persoonlijk ontwikkelingsplan van de trainee.   
-3.  Een beoordelaar kan bij een goedkeuring als bedoeld in het eerste lid, een trainee opdragen in een volgend praktijkopleidingsjaar aan de verwerking van nader te noemen competenties bijzondere aandacht te besteden.   
+3.  Een beoordelaar kan bij een goedkeuring als bedoeld in het eerste lid, een trainee opdragen in een volgend praktijkopleidingsjaar aan de verwerking van nader te noemen competenties bijzondere aandacht te besteden.  
 
 ### Artikel  41  
 
-Na indiening van het essay, registreert de trainee de verworven competenties zoals die blijken uit het essay, in de competentiematrix.  
+Na indiening van het essay, registreert de trainee de verworven competenties zoals die blijken uit het essay, in de competentiematrix. 
 
 ### Artikel  42  
 
-Een praktijkbegeleider vermeldt na afloop van een praktijkopleidingsjaar in de elektronische leeromgeving of de trainee heeft voldaan aan de eisen als bedoeld in artikel 11 van de verordening.  
+Een praktijkbegeleider vermeldt na afloop van een praktijkopleidingsjaar in de elektronische leeromgeving of de trainee heeft voldaan aan de eisen als bedoeld in [artikel 11 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md). 
 
 ### Artikel  43  
 
@@ -451,7 +451,7 @@ a. artikel 35, eerste lid, met betrekking tot het persoonlijk ontwikkelingsplan 
 b. artikel 38, eerste lid, met betrekking tot de gespreksverslagen met betrekking tot het eerste en tweede praktijkopleidingsjaar; en  
 
 c. artikel 39, eerste lid, met betrekking tot de essays na afloop van het eerste en tweede praktijkopleidingsjaar.     
-2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid.   
+2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid.  
 
 ### Artikel  44  
 
@@ -462,11 +462,11 @@ a. artikel 35, eerste lid;
 b. artikel 38, eerste lid; en  
 
 c. artikel 39, eerste lid.     
-2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid en toont daarbij door middel van overlegging van beroepsproducten en een essay aan dat wordt voldaan aan de eisen, bedoeld in het eerste lid.   
+2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid en toont daarbij door middel van overlegging van beroepsproducten en een essay aan dat wordt voldaan aan de eisen, bedoeld in het eerste lid.  
 
 ### Artikel  45  
 
-Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortzetting van de praktijkopleiding AA in een volgend praktijkopleidingsjaar door een trainee die de afronding van de praktijkopleiding RA tot op niet meer dan een praktijkopleidingsjaar is genaderd en beslist over de toepassing van de artikelen 35, 38 en 39.  
+Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortzetting van de praktijkopleiding AA in een volgend praktijkopleidingsjaar door een trainee die de afronding van de praktijkopleiding RA tot op niet meer dan een praktijkopleidingsjaar is genaderd en beslist over de toepassing van de artikelen 35, 38 en 39. 
 
 ### Paragraaf  3.4  
 
@@ -474,8 +474,8 @@ Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortz
 
 ### Artikel  46  
 
-1.  Het mondeling examen als bedoeld in artikel 15, tweede lid, onderdeel b van de verordening wordt afgenomen in de vorm van een eindgesprek.   
-2.  Een eindgesprek duurt ten hoogste vijfenveertig minuten.   
+1.  Het mondeling examen als bedoeld in [artikel 15, tweede lid, onderdeel b van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) wordt afgenomen in de vorm van een eindgesprek.   
+2.  Een eindgesprek duurt ten hoogste vijfenveertig minuten.  
 
 ### Artikel  47  
 
@@ -483,7 +483,7 @@ Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortz
 
 a. de trainee het portfolio heeft voltooid;  
 
-b. de trainee getuigschriften heeft overgelegd waaruit blijkt dat de trainee de opleiding tot accountant, bedoeld in artikel 46 van de wet, niet zijnde de praktijkopleiding, bedoeld in artikel 47 van de wet, succesvol heeft afgerond;  
+b. de trainee getuigschriften heeft overgelegd waaruit blijkt dat de trainee de opleiding tot accountant, bedoeld in [artikel 46 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), niet zijnde de praktijkopleiding, bedoeld in [artikel 47 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), succesvol heeft afgerond;  
 
 c. de trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan de cursussen als bedoeld in artikel 8, eerste lid; en  
 
@@ -506,14 +506,14 @@ a. vier gespreksverslagen; en
 
 b. twee essays, voorzien van een goedkeuring als bedoeld in artikel 40, eerste lid.     
 5.  In afwijking van het tweede lid, onderdeel a en b, is een portfolio van een trainee waarop artikel 44 van toepassing is, voltooid als daarin een essay, voorzien van een goedkeuring als bedoeld in artikel 40, eerste lid is opgenomen.   
-6.  Een tweede beoordelaar kan aan zijn instemming de voorwaarde verbinden dat de trainee het portfolio op onderdelen aanvult.   
+6.  Een tweede beoordelaar kan aan zijn instemming de voorwaarde verbinden dat de trainee het portfolio op onderdelen aanvult.  
 
 ### Artikel  48  
 
 1.  Een eindgesprek wordt afgenomen door de beoordelaar en de tweede beoordelaar.   
 2.  De beoordelaar en de tweede beoordelaar bespreken voor het eindgesprek de inhoud van het eindgesprek.   
 3.  Een trainee is geslaagd voor het examen ter afronding van de praktijkopleiding AA als de beoordelaar en de tweede beoordelaar aan het eindgesprek een ‘voldoende’ toekennen.   
-4.  Indien de beoordelaar en de tweede beoordelaar niet tot een unanieme beslissing komen, beslist de tweede beoordelaar.   
+4.  Indien de beoordelaar en de tweede beoordelaar niet tot een unanieme beslissing komen, beslist de tweede beoordelaar.  
 
 ### Paragraaf  3.5  
 
@@ -521,16 +521,16 @@ b. twee essays, voorzien van een goedkeuring als bedoeld in artikel 40, eerste l
 
 ### Artikel  49  
 
-1.  Voor de toepassing van artikel 20 van de verordening wordt voor de toelating tot het examen ter afronding van de praktijkopleiding AA in de Brede MKB-variant onder beroepswerkzaamheden verstaan de werkzaamheden die: 
+1.  Voor de toepassing van [artikel 20 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) wordt voor de toelating tot het examen ter afronding van de praktijkopleiding AA in de Brede MKB-variant onder beroepswerkzaamheden verstaan de werkzaamheden die: 
 
 a. gedurende vier jaren zijn verricht op het gebied van accountancy, waarvan ten minste drie jaren vallen in de periode van vijf jaren voorafgaand aan toelating tot de praktijkopleiding; en  
 
 b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van controle-opdrachten of samenstellingsopdrachten, waarvan ten minste 100 uren zijn besteed in de periode nadat de trainee voldoet aan de voorwaarden voor toelating tot het eerste jaar van de praktijkopleiding.     
-2.  Voor de toepassing van artikel 20 van de verordening wordt voor de toelating tot het examen ter afronding van de praktijkopleiding AA in de MKB controlevariant onder beroepswerkzaamheden verstaan de werkzaamheden die: 
+2.  Voor de toepassing van [artikel 20 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) wordt voor de toelating tot het examen ter afronding van de praktijkopleiding AA in de MKB controlevariant onder beroepswerkzaamheden verstaan de werkzaamheden die: 
 
 a. gedurende vier jaren zijn verricht op het gebied van accountancy, waarvan ten minste drie jaren vallen in de periode van vijf jaren voorafgaand aan toelating tot de praktijkopleiding; en  
 
-b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van controle-opdrachten, waarvan ten minste 100 uren zijn besteed in de periode nadat de trainee voldoet aan de voorwaarden voor toelating tot het eerste jaar van de praktijkopleiding.     
+b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van controle-opdrachten, waarvan ten minste 100 uren zijn besteed in de periode nadat de trainee voldoet aan de voorwaarden voor toelating tot het eerste jaar van de praktijkopleiding.    
 
 ### Artikel  50  
 
@@ -554,7 +554,7 @@ c. artikel 39;
 
 d. artikel 41;  
 
-e. artikel 47.     
+e. artikel 47.    
 
 ### Hoofdstuk  4  
 
@@ -566,7 +566,7 @@ e. artikel 47.
 
 ### Artikel  51  
 
-De artikelen in dit hoofdstuk zijn uitsluitend van toepassing op de praktijkopleiding RA.  
+De artikelen in dit hoofdstuk zijn uitsluitend van toepassing op de praktijkopleiding RA. 
 
 ### Artikel  52  
 
@@ -577,7 +577,7 @@ De artikelen in dit hoofdstuk zijn uitsluitend van toepassing op de praktijkople
 a. in alle vakken van het postinitiële deel van een aangewezen accountantsopleiding en van de hieraan voorafgaande masteropleiding alle (deel)tentamens heeft afgelegd en maximaal één (deel)tentamen dient te herkansen om alle vakken te hebben behaald; en  
 
 b. naar verwachting van de praktijkbegeleider, die betrokken is bij het opstellen van het derde jaarplan van de trainee, gedurende het derde stagejaar het niveau van beginnend beroepsbeoefenaar zal bereiken.     
-4.  Het bestuur beslist schriftelijk op verzoeken als bedoeld in het eerste en tweede lid.   
+4.  Het bestuur beslist schriftelijk op verzoeken als bedoeld in het eerste en tweede lid.  
 
 ### Paragraaf  4.2  
 
@@ -587,18 +587,18 @@ b. naar verwachting van de praktijkbegeleider, die betrokken is bij het opstelle
 
 1.  Voorafgaand aan een praktijkopleidingsjaar stelt de trainee in overleg met de praktijkbegeleider een jaarplan op.   
 2.  Een jaarplan wordt uiterlijk ingediend en door de praktijkbegeleider beoordeeld binnen zes weken na de aanvang van het praktijkopleidingsjaar waarop het jaarplan betrekking heeft.   
-3.  Uit een jaarplan als bedoeld in het eerste lid, blijkt de planning van de trainee over de wijze waarop hij zal voldoen aan de bij en krachtens de verordening gestelde eisen.   
+3.  Uit een jaarplan als bedoeld in het eerste lid, blijkt de planning van de trainee over de wijze waarop hij zal voldoen aan de bij en krachtens de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen.   
 4.  In het jaarplan wordt onderscheid gemaakt naar semesters.   
-5.  De trainee kan in overleg met de praktijkbegeleider het jaarplan aanpassen. De aanpassing blijkt uit de semesterverslagen met betrekking tot het desbetreffende praktijkopleidingsjaar.   
+5.  De trainee kan in overleg met de praktijkbegeleider het jaarplan aanpassen. De aanpassing blijkt uit de semesterverslagen met betrekking tot het desbetreffende praktijkopleidingsjaar.  
 
 ### Artikel  54  
 
 1.  Een jaarplan behoeft de goedkeuring van de beoordelaar. De beoordelaar bevestigt de goedkeuring van een jaarplan.   
 2.  De beoordelaar beoordeelt een jaarplan binnen zes weken na ontvangst, met inachtneming van de bevindingen van de praktijkbegeleider.   
-3.  Bij de beoordeling van het jaarplan stelt de beoordelaar vast dat de voorgenomen werkzaamheden voldoen aan de bij of krachtens de verordening gestelde eisen.   
+3.  Bij de beoordeling van het jaarplan stelt de beoordelaar vast dat de voorgenomen werkzaamheden voldoen aan de bij of krachtens de [verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen.   
 4.  Een beoordelaar voorziet een jaarplan na beoordeling van commentaar.   
 5.  De trainee past een jaarplan dat door de beoordelaar niet is goedgekeurd, aan in overeenstemming met het commentaar van de beoordelaar en legt het jaarplan opnieuw ter goedkeuring voor.   
-6.  Indien een trainee gedurende een praktijkopleidingsjaar de praktijkopleiding onderbreekt of een dienstverband aangaat met een andere werkgever, stelt de trainee een aangepast jaarplan op voor het praktijkopleidingsjaar waarin de onderbreking heeft plaatsgevonden of een ander dienstverband is aangegaan.   
+6.  Indien een trainee gedurende een praktijkopleidingsjaar de praktijkopleiding onderbreekt of een dienstverband aangaat met een andere werkgever, stelt de trainee een aangepast jaarplan op voor het praktijkopleidingsjaar waarin de onderbreking heeft plaatsgevonden of een ander dienstverband is aangegaan.  
 
 ### Paragraaf  4.3  
 
@@ -606,7 +606,7 @@ b. naar verwachting van de praktijkbegeleider, die betrokken is bij het opstelle
 
 ### Artikel  55  
 
-Periodieke rapportages als bedoeld in artikel 14, tweede lid van de verordening, bestaan uit semesterverslagen als bedoeld in artikel 56, eerste lid.  
+Periodieke rapportages als bedoeld in [artikel 14, tweede lid van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), bestaan uit semesterverslagen als bedoeld in artikel 56, eerste lid. 
 
 ### Artikel  56  
 
@@ -631,16 +631,16 @@ f. een verklaring zoals deze als bijlage bij deze nadere voorschriften is gevoeg
 7.  Onverminderd het bepaalde in het eerste lid stelt de trainee na afloop van het tweede, derde, vierde en vijfde semester een essay als bedoeld in artikel 57 op.   
 8.  Een essay wordt ingediend tezamen met het semesterverslag dat betrekking heeft op de semesters bedoeld in het vorige lid, en maakt onderdeel uit van het desbetreffende semesterverslag.   
 9.  Een semesterverslag dat na afloop van het zesde semester wordt opgesteld, bevat naast de hiervoor opgenomen onderdelen tevens een recapitulatie van de volledige praktijkopleiding. Hierin beschrijft de trainee zijn ervaringen in de vorm van een weergave van zijn persoonlijke en vaktechnische ontwikkeling tot het niveau van beginnend beroepsbeoefenaar gedurende de praktijkopleiding.   
-10.  Een semester wordt gesplitst als een trainee gedurende een semester een dienstverband aangaat met een andere werkgever. De trainee stelt per deel van het semester een afzonderlijk semesterverslag op. Indien het semesterverslag vergezeld gaat van een essay als bedoeld in artikel 58, wordt het essay slechts bij één van de afzonderlijke semesterverslagen gevoegd.   
+10.  Een semester wordt gesplitst als een trainee gedurende een semester een dienstverband aangaat met een andere werkgever. De trainee stelt per deel van het semester een afzonderlijk semesterverslag op. Indien het semesterverslag vergezeld gaat van een essay als bedoeld in artikel 58, wordt het essay slechts bij één van de afzonderlijke semesterverslagen gevoegd.  
 
 ### Artikel  57  
 
-Een essay omvat een beschrijving van een beroepssituatie die zich tijdens het desbetreffende semester heeft voorgedaan.  
+Een essay omvat een beschrijving van een beroepssituatie die zich tijdens het desbetreffende semester heeft voorgedaan. 
 
 ### Artikel  58  
 
 1.  Een overschrijding van de termijn als bedoeld in artikel 56, derde lid, die te wijten is aan de trainee, heeft tot gevolg dat de startdatum van een volgend semester even ver opschuift als de termijn waarmee de termijn als bedoeld in artikel 56, derde lid wordt overschreden.   
-2.  Het bestuur kan beslissen dat het niet of niet tijdig inleveren van een periodieke rapportage tot gevolg heeft dat het semester waarop de periodieke rapportage betrekking heeft, vervalt. Het semester vervalt in ieder geval nadat de termijn met zes maanden is overschreden, indien de overschrijding te wijten is aan de trainee.   
+2.  Het bestuur kan beslissen dat het niet of niet tijdig inleveren van een periodieke rapportage tot gevolg heeft dat het semester waarop de periodieke rapportage betrekking heeft, vervalt. Het semester vervalt in ieder geval nadat de termijn met zes maanden is overschreden, indien de overschrijding te wijten is aan de trainee.  
 
 ### Artikel  59  
 
@@ -654,7 +654,7 @@ c. artikel 56, zevende lid, met betrekking tot het essay na afloop van het tweed
 
 d. artikel 5, tweede lid, onderdeel b waarbij artikel 5, tweede lid, onderdeel c van overeenkomstige toepassing is op het derde en vierde semester.     
 2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid.   
-3.  Een verzoek als bedoeld in het tweede lid wordt afgewezen als tussen de ontvangst van het verzoek en de afronding van de praktijkopleiding AA meer dan achtenveertig maanden zijn verstreken.   
+3.  Een verzoek als bedoeld in het tweede lid wordt afgewezen als tussen de ontvangst van het verzoek en de afronding van de praktijkopleiding AA meer dan achtenveertig maanden zijn verstreken.  
 
 ### Artikel  60  
 
@@ -668,11 +668,11 @@ c. artikel 56, zevende lid, met betrekking tot het essay na afloop van het tweed
 
 d. artikel 5, tweede lid, onderdeel b.     
 2.  Een trainee verzoekt het bestuur schriftelijk om toepassing van het eerste lid.   
-3.  Een verzoek als bedoeld in het tweede lid wordt afgewezen als tussen de ontvangst van het verzoek en de afronding van de praktijkopleiding AA meer dan achtenveertig maanden zijn verstreken.   
+3.  Een verzoek als bedoeld in het tweede lid wordt afgewezen als tussen de ontvangst van het verzoek en de afronding van de praktijkopleiding AA meer dan achtenveertig maanden zijn verstreken.  
 
 ### Artikel  61  
 
-Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortzetting in een aansluitend praktijkopleidingsjaar van de praktijkopleiding RA door een trainee die één of twee praktijkopleidingsjaren van de praktijkopleiding AA heeft afgerond.  
+Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortzetting in een aansluitend praktijkopleidingsjaar van de praktijkopleiding RA door een trainee die één of twee praktijkopleidingsjaren van de praktijkopleiding AA heeft afgerond. 
 
 ### Paragraaf  4.4  
 
@@ -683,7 +683,7 @@ Het bestuur stelt in overleg met de beoordelaar nadere voorwaarden aan de voortz
 1.  Een examinator voldoet aan het door het bestuur vastgestelde competentieprofiel voor examinatoren.   
 2.  Een natuurlijk persoon verzoekt het bestuur schriftelijk om een aanwijzing tot examinator en maakt daarbij gebruik van het formulier dat door het bestuur ter beschikking is gesteld.   
 3.  Een examinator wordt ten hoogste voor vier jaren benoemd. Een examinator kan worden herbenoemd. Het bestuur kan bij de benoeming van een examinator een kortere benoemingstermijn vaststellen.   
-4.  Een examinator treedt niet op als examinator van een trainee met wie hij in een zakelijke of persoonlijke relatie staat die een bedreiging vormt voor een goede uitoefening van zijn taken.   
+4.  Een examinator treedt niet op als examinator van een trainee met wie hij in een zakelijke of persoonlijke relatie staat die een bedreiging vormt voor een goede uitoefening van zijn taken.  
 
 ### Artikel  63  
 
@@ -691,7 +691,7 @@ De benoeming van een examinator eindigt:
 
 a. op verzoek van de examinator;  
 
-b. na het onherroepelijk worden van een door de accountantskamer aan de examinator opgelegde tuchtrechtelijke maatregel.    
+b. na het onherroepelijk worden van een door de accountantskamer aan de examinator opgelegde tuchtrechtelijke maatregel.   
 
 ### Paragraaf  4.5  
 
@@ -699,7 +699,7 @@ b. na het onherroepelijk worden van een door de accountantskamer aan de examinat
 
 ### Artikel  64  
 
-Een trainee wordt bij het concipiëren van zijn afstudeerscriptie begeleid door de eerste examinator, bedoeld in artikel 72, eerste lid.  
+Een trainee wordt bij het concipiëren van zijn afstudeerscriptie begeleid door de eerste examinator, bedoeld in artikel 72, eerste lid. 
 
 ### Artikel  65  
 
@@ -708,17 +708,17 @@ Een trainee wordt bij het concipiëren van zijn afstudeerscriptie begeleid door 
 3.  Het bestuur kan een afschrift van de bijlage als bedoeld in het tweede lid aan een door het bestuur aan te wijzen waarnemer sturen.   
 4.  De waarnemer, bedoeld in het vorige lid, kan het bestuur adviseren over het onderwerp en opzet van de afstudeerscriptie.   
 5.  Het bestuur informeert de trainee binnen zes weken na ontvangst van het formulier als bedoeld in het eerste lid en de bijlage als bedoeld in het tweede lid, over de goedkeuring van de opzet van de afstudeerscriptie. Indien de opzet van de afstudeerscriptie geheel of gedeeltelijk wordt afgekeurd, ontvangt de eerste examinator, bedoeld in artikel 72, eerste lid een afschrift van het oordeel.   
-6.  De trainee kan de opzet van de afstudeerscriptie in overleg met de eerste examinator, bedoeld in artikel 72, eerste lid aanpassen aan het commentaar van het bestuur en opnieuw ter beoordeling voorleggen.   
+6.  De trainee kan de opzet van de afstudeerscriptie in overleg met de eerste examinator, bedoeld in artikel 72, eerste lid aanpassen aan het commentaar van het bestuur en opnieuw ter beoordeling voorleggen.  
 
 ### Artikel  66  
 
 1.  In de afstudeerscriptie toont de trainee aan de verworven theoretische kennis op eindniveau in de praktijk toe te kunnen passen en op basis van zijn kennis en ervaring naar eigen inzicht tot aanvaardbare oplossingen te kunnen komen op het niveau van een beginnend beroepsbeoefenaar. Hierbij getuigt de trainee van een voldoende mate van zelfstandigheid en een kritische beroepshouding.   
 2.  Elke afstudeerscriptie bevat een verklaring zoals deze is opgenomen in de bijlage bij deze nadere voorschriften.   
-3.  De afstudeerscriptie omvat in zijn geheel ongeveer 9.000 woorden.   
+3.  De afstudeerscriptie omvat in zijn geheel ongeveer 9.000 woorden.  
 
 ### Artikel  67  
 
-Een afstudeerscriptie wordt beoordeeld door de eerste en tweede examinator.  
+Een afstudeerscriptie wordt beoordeeld door de eerste en tweede examinator. 
 
 ### Paragraaf  4.6  
 
@@ -726,22 +726,22 @@ Een afstudeerscriptie wordt beoordeeld door de eerste en tweede examinator.
 
 ### Artikel  68  
 
-Voor de toepassing van artikel 22 van de verordening wordt onder beroepswerkzaamheden verstaan de werkzaamheden die: 
+Voor de toepassing van [artikel 22 van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) wordt onder beroepswerkzaamheden verstaan de werkzaamheden die: 
 
 a. gedurende vier jaren zijn verricht op het gebied van accountancy, waarvan ten minste drie jaren vallen in de periode van vijf jaren voorafgaand aan toelating tot de praktijkopleiding; en  
 
-b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van controle-opdrachten, waarvan ten minste 100 uren zijn besteed in de periode nadat de trainee voldoet aan de voorwaarden voor toelating tot het eerste jaar van de praktijkopleiding.    
+b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van controle-opdrachten, waarvan ten minste 100 uren zijn besteed in de periode nadat de trainee voldoet aan de voorwaarden voor toelating tot het eerste jaar van de praktijkopleiding.   
 
 ### Artikel  69  
 
 1.  Een trainee verdedigt zijn afstudeerscriptie tijdens het mondeling examen.   
 2.  Het is de trainee toegestaan aan het begin van het mondeling examen gedurende ten hoogste tien minuten een presentatie te houden over zijn afstudeerscriptie.   
-3.  Het voornemen van de trainee tot een presentatie bedoeld in het vorige lid, wordt vooraf besproken met de examinatoren. De presentatie voegt daadwerkelijk iets toe aan de inhoud van de afstudeerscriptie.   
+3.  Het voornemen van de trainee tot een presentatie bedoeld in het vorige lid, wordt vooraf besproken met de examinatoren. De presentatie voegt daadwerkelijk iets toe aan de inhoud van de afstudeerscriptie.  
 
 ### Artikel  70  
 
 1.  De trainee kan een verzoek tot afname van een mondeling examen indienen nadat de afstudeerscriptie voldoende is beoordeeld.   
-2.  Met inachtneming van het vorige lid, vindt het mondeling examen ten minste vier weken na indiening van het verzoek plaats.   
+2.  Met inachtneming van het vorige lid, vindt het mondeling examen ten minste vier weken na indiening van het verzoek plaats.  
 
 ### Artikel  71  
 
@@ -749,7 +749,7 @@ b. voor ten minste 333 uren hebben bestaan uit werkzaamheden in het kader van co
 
 a. de trainee het portfolio heeft voltooid;  
 
-b. de trainee getuigschriften heeft overgelegd waaruit blijkt dat de trainee de opleiding tot accountant, bedoeld in artikel 46 van de wet, niet zijnde de praktijkopleiding, bedoeld in artikel 47 van de wet, succesvol heeft afgerond;  
+b. de trainee getuigschriften heeft overgelegd waaruit blijkt dat de trainee de opleiding tot accountant, bedoeld in [artikel 46 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), niet zijnde de praktijkopleiding, bedoeld in [artikel 47 van de wet](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), succesvol heeft afgerond;  
 
 c. de trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan de cursussen als bedoeld in artikel 8, eerste lid;  
 
@@ -773,7 +773,7 @@ b. de essays met betrekking tot het derde, vierde en vijfde semester.
 a. twee semesterverslagen voorzien van een goedkeuring als bedoeld in artikel 56, tweede lid; en  
 
 b. een essay met betrekking tot het vijfde semester.     
-5.  Een tweede examinator kan aan zijn instemming de voorwaarde verbinden dat de trainee het portfolio op onderdelen aanvult.   
+5.  Een tweede examinator kan aan zijn instemming de voorwaarde verbinden dat de trainee het portfolio op onderdelen aanvult.  
 
 ### Artikel  72  
 
@@ -781,7 +781,7 @@ b. een essay met betrekking tot het vijfde semester.
 2.  Een mondeling examen duurt minimaal een uur en ten hoogste anderhalf uur.   
 3.  Examinatoren nemen ten hoogste vier keer per jaar in dezelfde samenstelling een mondeling examen ter afsluiting van de praktijkopleiding RA af.   
 4.  De tweede examinator staat tot de trainee niet in een relatie die de objectieve oordeelsvorming over het kennen en kunnen van de trainee tijdens het examen in de weg kan staan.   
-5.  De examinatoren bespreken vooraf de inhoud van het mondeling examen ter afsluiting van de praktijkopleiding RA en de rolverdeling tijdens het examen.   
+5.  De examinatoren bespreken vooraf de inhoud van het mondeling examen ter afsluiting van de praktijkopleiding RA en de rolverdeling tijdens het examen.  
 
 ### Artikel  73  
 
@@ -790,7 +790,7 @@ b. een essay met betrekking tot het vijfde semester.
 3.  Indien de examinatoren niet tot een unanieme beslissing komen, beslist de tweede examinator.   
 4.  Een trainee is geslaagd voor het mondeling examen wanneer hij daarvoor ten minste het cijfer 6,0 heeft behaald.   
 5.  De examinatoren informeren de trainee onverwijld van het cijfer dat zij aan het mondeling examen hebben toegekend.   
-6.  Het bestuur informeert de trainee binnen drie weken na afloop van het mondeling examen schriftelijk over het cijfer voor het mondeling examen.   
+6.  Het bestuur informeert de trainee binnen drie weken na afloop van het mondeling examen schriftelijk over het cijfer voor het mondeling examen.  
 
 ### Hoofdstuk  5  
 
@@ -798,12 +798,12 @@ b. een essay met betrekking tot het vijfde semester.
 
 ### Artikel  74  
 
-De termijnen genoemd in artikel 21, vijfde lid, en artikel 39, vierde, vijfde en zesde lid, treden in werking met ingang van 1 januari 2015.  
+De termijnen genoemd in artikel 21, vijfde lid, en artikel 39, vierde, vijfde en zesde lid, treden in werking met ingang van 1 januari 2015. 
 
 ### Artikel  75  
 
-1.  Artikel 4, eerste lid is niet van toepassing op de praktijkopleiding van een trainee die de praktijkopleiding RA is gestart voor 1 januari 2008, met dien verstande dat op bedoelde praktijkopleiding artikel 18 van de Nadere voorschriften op de praktijkstage zoals deze luidden voor 1 januari 2014 van toepassing blijft.   
-2.  Op een mondeling examen als bedoeld in artikel 17, tweede lid, onderdeel c, van de verordening dat wordt afgenomen voor 1 april 2014, blijven de artikelen 32, achtste lid, onderdeel d en 34 van de Nadere voorschriften op de praktijkstage van toepassing, zoals deze luidden voor 1 januari 2014.   
+1.  Artikel 4, eerste lid is niet van toepassing op de praktijkopleiding van een trainee die de praktijkopleiding RA is gestart voor 1 januari 2008, met dien verstande dat op bedoelde praktijkopleiding [artikel 18 van de Nadere voorschriften op de praktijkstage](../../../../../../../pbo/nadere/voorschriften/op/de/praktijkstage/BWBR0030385/README.md) zoals deze luidden voor 1 januari 2014 van toepassing blijft.   
+2.  Op een mondeling examen als bedoeld in [artikel 17, tweede lid, onderdeel c, van de verordening](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) dat wordt afgenomen voor 1 april 2014, blijven de [artikelen 32, achtste lid, onderdeel d](../../../../../../../pbo/nadere/voorschriften/op/de/praktijkstage/BWBR0030385/README.md) en [34 van de Nadere voorschriften op de praktijkstage](../../../../../../../pbo/nadere/voorschriften/op/de/praktijkstage/BWBR0030385/README.md) van toepassing, zoals deze luidden voor 1 januari 2014.  
 
 ### Artikel  76  
 
@@ -811,12 +811,12 @@ De termijnen genoemd in artikel 21, vijfde lid, en artikel 39, vierde, vijfde en
 2.  Artikel 16, eerste lid is niet van toepassing op praktijkbegeleiders en beoordelaars die voor 1 januari 2014 zijn benoemd, met dien verstande dat de termijn, bedoeld in artikel 16, eerste lid, eerste volzin, aanvangt op het moment dat een praktijkbegeleider of een beoordelaar na 1 januari 2014 wordt belast met de begeleiding van een trainee respectievelijk wordt belast met de beoordeling van de vorderingen van de praktijkopleiding van een trainee.   
 3.  Artikel 18, derde lid is slechts van toepassing op de begeleiding van een trainee van de praktijkopleiding AA waarmee een praktijkbegeleider na de inwerkingtreding van deze nadere voorschriften is belast.   
 4.  Een beoordelaar die de vorderingen van trainees van de praktijkopleiding AA beoordeelt, voldoet per 1 januari 2015 aan artikel 20, vierde lid.   
-5.  Tot de vaststelling van het competentieprofiel, bedoeld in artikel 62, eerste lid, voldoet een examinator aan artikel 26a van de Nadere voorschriften op de praktijkstage zoals deze luidden voor 1 januari 2014.   
+5.  Tot de vaststelling van het competentieprofiel, bedoeld in artikel 62, eerste lid, voldoet een examinator aan [artikel 26a van de Nadere voorschriften op de praktijkstage](../../../../../../../pbo/nadere/voorschriften/op/de/praktijkstage/BWBR0030385/README.md) zoals deze luidden voor 1 januari 2014.  
 
 ### Artikel  77  
 
 1.  Deze nadere voorschriften treden in werking op de dag na publicatie in de Staatscourant.   
-2.  Deze nadere voorschriften worden aangehaald als: Nadere voorschriften op de praktijkopleidingen.   
+2.  Deze nadere voorschriften worden aangehaald als: Nadere voorschriften op de praktijkopleidingen.  
 
 ####Bijlage 1 bij de nadere voorschriften op de praktijkopleidingen
 
@@ -824,9 +824,9 @@ De termijnen genoemd in artikel 21, vijfde lid, en artikel 39, vierde, vijfde en
 
 Partijen [NAAM WERKGEVER], gevestigd te [KANTOORADRES], vertegenwoordigd door [NAAM VERTEGENWOORDIGER], hierna te noemen: werkgever, en [NAAM TRAINEE], geboren te [GEBOORTEPLAATS], op [GEBOORTEDATUM], wonende te [ADRES EN WOONPLAATS], hierna te noemen: trainee, Gelet op 
 
-– de artikelen 3, aanhef en onderdeel d, 46 en 47 van de Wet op het accountantsberoep;  
+– de [artikelen 3, aanhef en onderdeel d](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md), [46](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [47 van de Wet op het accountantsberoep](../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-– de Verordening op de praktijkopleidingen en de daarop berustende bepalingen; en  
+– de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en de daarop berustende bepalingen; en  
 
 – de reeds bestaande arbeidsovereenkomst tussen partijen.   Komen als volgt overeen: 
 
@@ -836,19 +836,19 @@ Werkgever verklaart:
 
 a. zijn volledige medewerking te zullen verlenen aan een goed verloop van de praktijkopleiding als onderdeel van de opleiding tot accountant of het resterende deel van de praktijkopleiding als onderdeel van de opleiding tot accountant;  
 
-b. de bij of krachtens de Verordening op de praktijkopleidingen gestelde eisen na te leven;  
+b. de bij of krachtens de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen na te leven;  
 
-c. de trainee in staat te stellen aan de bij of krachtens de Verordening op de praktijkopleidingen gestelde te voldoen;  
+c. de trainee in staat te stellen aan de bij of krachtens de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde te voldoen;  
 
-d. zijn medewerking te verlenen aan een passende oplossing in het geval de trainee in zijn functie niet kan voldoen aan de bij of krachtens de Verordening op de praktijkopleidingen gestelde eisen, zo nodig buiten de werkkring van trainee.    
+d. zijn medewerking te verlenen aan een passende oplossing in het geval de trainee in zijn functie niet kan voldoen aan de bij of krachtens de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen, zo nodig buiten de werkkring van trainee.   
 
 ####Artikel 2
 
-Trainee verklaart de bij of krachtens de Verordening op de praktijkopleidingen gestelde eisen na te leven.  
+Trainee verklaart de bij of krachtens de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) gestelde eisen na te leven. 
 
 ####Artikel 3
 
-Deze overeenkomst vangt aan op het moment waarop de praktijkopleiding van trainee aanvangt en wordt aangegaan voor de duur van de praktijkopleiding van trainee.  
+Deze overeenkomst vangt aan op het moment waarop de praktijkopleiding van trainee aanvangt en wordt aangegaan voor de duur van de praktijkopleiding van trainee. 
 
 ####Artikel 4
 
@@ -860,7 +860,7 @@ b. in het geval trainee naar zijn oordeel onvoldoende vorderingen boekt bij de p
 
 c. bij een ingrijpende wijziging in de organisatie van werkgever waardoor werkgever niet meer kan voldoen aan de in artikel 1 gestelde eisen.    
 
-2. In het geval werkgever deze overeenkomst wenst te beëindigen op grond van het eerste lid, voert hij voorafgaand overleg met het bestuur van de NBA of het orgaan dat door de NBA is belast met de uitvoering van de Verordening op de praktijkopleidingen.    
+2. In het geval werkgever deze overeenkomst wenst te beëindigen op grond van het eerste lid, voert hij voorafgaand overleg met het bestuur van de NBA of het orgaan dat door de NBA is belast met de uitvoering van de [Verordening op de praktijkopleidingen](../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md).   
 
 ####Artikel 5
 
@@ -873,7 +873,7 @@ b. de praktijkopleiding van trainee wordt stopgezet;
 c. de arbeidsovereenkomst met trainee eindigt.   Aldus overeengekomen en ondertekend te [PLAATS ONDERTEKENIG] op [DATUM ONDERTEKENING],  
 
 |--- |--- |
-|---|---|
+|:---|:---|
 | Werkgever,  | Trainee,  |
 | --- | --- |
 |  *[HANDTEKENING]*   |  *[HANDTEKENING]*   |
@@ -882,11 +882,11 @@ c. de arbeidsovereenkomst met trainee eindigt.   Aldus overeengekomen en onderte
 
 ####Verklaring van authenticiteit praktijkopleidingsverslag
 
-Ik heb dit praktijkopleidingsverslag (inclusief het essay) zelf geschreven en ik heb geen teksten overgenomen uit andere praktijkopleidingsverslagen, scripties, overige geschriften en literatuur zonder de bron te hebben vermeld. De inhoud van dit praktijkopleidingsverslag (inclusief het essay) komt, voor wat betreft de feiten (m.u.v. in het kader van anonimisering gefingeerde bedrijfsgegevens) en verrichte werkzaamheden, geheel overeen met de werkelijkheid. De beschreven door mij uitgevoerde werkzaamheden zijn daadwerkelijk door mij verricht. Handtekening <naam trainee>  
+Ik heb dit praktijkopleidingsverslag (inclusief het essay) zelf geschreven en ik heb geen teksten overgenomen uit andere praktijkopleidingsverslagen, scripties, overige geschriften en literatuur zonder de bron te hebben vermeld. De inhoud van dit praktijkopleidingsverslag (inclusief het essay) komt, voor wat betreft de feiten (m.u.v. in het kader van anonimisering gefingeerde bedrijfsgegevens) en verrichte werkzaamheden, geheel overeen met de werkelijkheid. De beschreven door mij uitgevoerde werkzaamheden zijn daadwerkelijk door mij verricht. Handtekening <naam trainee> 
 
 ####Bijlage 3 bij de nadere voorschriften op de praktijkopleidingen
 
 ####Verklaring van authenticiteit praktijkscriptie
 
-Ik heb deze praktijkscriptie zelf geschreven en ik heb geen teksten overgenomen uit andere stageverslagen, scripties, overige geschriften en literatuur zonder de bron te hebben vermeld. De inhoud van deze praktijkscriptie komt, voor wat betreft de feiten (m.u.v. in het kader van anonimisering gefingeerde bedrijfsgegevens) en verrichte werkzaamheden, geheel overeen met de werkelijkheid. De beschreven door mij uitgevoerde werkzaamheden zijn daadwerkelijk door mij verricht. Handtekening <naam trainee>  
+Ik heb deze praktijkscriptie zelf geschreven en ik heb geen teksten overgenomen uit andere stageverslagen, scripties, overige geschriften en literatuur zonder de bron te hebben vermeld. De inhoud van deze praktijkscriptie komt, voor wat betreft de feiten (m.u.v. in het kader van anonimisering gefingeerde bedrijfsgegevens) en verrichte werkzaamheden, geheel overeen met de werkelijkheid. De beschreven door mij uitgevoerde werkzaamheden zijn daadwerkelijk door mij verricht. Handtekening <naam trainee> 
 

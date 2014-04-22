@@ -3,16 +3,16 @@
 ##Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel
 
 De Minister voor Grote Steden- en Integratiebeleid;  
-Gelet op artikel 6 van het Uitvoeringsbesluit Remigratiewet,
-Besluit:    
+Gelet op [artikel 6 van het Uitvoeringsbesluit Remigratiewet](../../../../../../../../../../../AMvB/uitvoeringsbesluit/remigratiewet/BWBR0011222/README.md),
+Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
-In deze regeling wordt verstaan onder besluit: het Uitvoeringsbesluit Remigratiewet.  
+In deze regeling wordt verstaan onder besluit: het [Uitvoeringsbesluit Remigratiewet](../../../../../../../../../../../AMvB/uitvoeringsbesluit/remigratiewet/BWBR0011222/README.md).  
 
-### Artikel  2  
+###Artikel  2  
 
-1.  Tot de categorie van vreemdelingen, bedoeld in artikel 6 van het besluit, behoort de vreemdeling aan wie een verblijfsvergunning voor bepaalde tijd is verleend als bedoeld in artikel 14 van de Vreemdelingenwet 2000 onder een beperking die samenhangt met: 
+1.  Tot de categorie van vreemdelingen, bedoeld in [artikel 6 van het besluit](../../../../../../../../../../../AMvB/uitvoeringsbesluit/remigratiewet/BWBR0011222/README.md), behoort de vreemdeling aan wie een verblijfsvergunning voor bepaalde tijd is verleend als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking die samenhangt met: 
 
 a. uitwisseling, al dan niet in het kader van een verdrag;  
 
@@ -42,7 +42,7 @@ m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doe
 
 n. medische behandeling;  
 
-o. het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap;  
+o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
 
 p. tijdelijke humanitaire gronden;  
 
@@ -52,23 +52,23 @@ r. het afwachten van herstel en hervatting van de arbeid in loondienst aan boord
 
 s. het afwachten van herstel van medische behandeling;  
 
-t. verblijfsrecht op grond van artikel 3.4, derde lid, van het Vreemdelingenbesluit.     
-2.  Tot de categorie van vreemdelingen, bedoeld in artikel 6 van het besluit, behoren tevens de partner van de vreemdeling, bedoeld in het eerste lid, en hun kinderen, die met de vreemdeling naar Nederland zijn gekomen of die naar Nederland zijn gekomen om zich bij de vreemdeling te voegen.   
+t. verblijfsrecht op grond van [artikel 3.4, derde lid, van het Vreemdelingenbesluit](../../../../../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
+2.  Tot de categorie van vreemdelingen, bedoeld in [artikel 6 van het besluit](../../../../../../../../../../../AMvB/uitvoeringsbesluit/remigratiewet/BWBR0011222/README.md), behoren tevens de partner van de vreemdeling, bedoeld in het eerste lid, en hun kinderen, die met de vreemdeling naar Nederland zijn gekomen of die naar Nederland zijn gekomen om zich bij de vreemdeling te voegen.   
 
-### Artikel  3  
+###Artikel  3  
 
-1.  Onder verblijf voor het verrichten van arbeid in loondienst als bedoeld in artikel 2, eerste lid, onderdeel e, wordt het verblijf verstaan van de vreemdeling ten behoeve van wiens tewerkstelling over een geldige tewerkstellingsvergunning als bedoeld in artikel 2 van de Wet arbeid vreemdelingen dient te worden beschikt.   
-2.  Onder verblijf voor het verrichten van arbeid als zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel k, wordt het verblijf verstaan van de vreemdeling, bedoeld in artikel 3, eerste lid, onderdeel b, van de Wet arbeid vreemdelingen.   
+1.  Onder verblijf voor het verrichten van arbeid in loondienst als bedoeld in artikel 2, eerste lid, onderdeel e, wordt het verblijf verstaan van de vreemdeling ten behoeve van wiens tewerkstelling over een geldige tewerkstellingsvergunning als bedoeld in [artikel 2 van de Wet arbeid vreemdelingen](../../../../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) dient te worden beschikt.   
+2.  Onder verblijf voor het verrichten van arbeid als zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel k, wordt het verblijf verstaan van de vreemdeling, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Wet arbeid vreemdelingen](../../../../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).   
 
-### Artikel  4  
+###Artikel  4  
 
 Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt.  
 
-### Artikel  5  
+###Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister voor Grote Steden- en Integratiebeleid, 
-R.H.L.M. vanBoxtel    
+Minister voor Grote Steden- en Integratiebeleid,
+R.H.L.M. van Boxtel      
