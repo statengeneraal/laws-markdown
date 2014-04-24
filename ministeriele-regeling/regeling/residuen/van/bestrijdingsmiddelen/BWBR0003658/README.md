@@ -6,11 +6,11 @@ De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur en de Staatssecretar
 Gelet op [artikel 1 van het Residubesluit](../../../../../../AMvB/residubesluit/BWBR0002449/README.md) (Stb. 1964, 319)1Laatstelijk gewijzigd bij besluit van 23 april 1975 (Stcrt. 250).,
 
 Gehoord de Bestrijdingsmiddelencommissie;
-Besluiten:    
+Besluiten:  
 
 ### Artikel  1  
 
-1.  De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in: 
+1. De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in: 
 
 a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: 
 
@@ -20,36 +20,36 @@ a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van:
 
 3. de waren, bedoeld in de [Warenwetregeling zuigelingenvoeding 2007](../../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/2007/BWBR0021907/README.md);  
 
-4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](../../../../../../ministeriele-regeling/warenwetregeling/babyvoeding/BWBR0008503/README.md);   voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in Bijlage II zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;  
+4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](../../../../../../ministeriele-regeling/warenwetregeling/babyvoeding/BWBR0008503/README.md);   voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in Bijlage II zijn genoemd, mag niet hoger zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven; 
 
-b. bewerkte eet- of drinkwaren, waarvoor in Bijlage II geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;  
+b. bewerkte eet- of drinkwaren, waarvoor in Bijlage II geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor; 
 
-c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens Bijlage II, toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.     
-2.  Deze regeling berust op [artikel 13a, derde lid, onder a, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](../../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md).   
-3.  Deze regeling is niet van toepassing op bestrijdingsmiddelenresiduen die vallen onder de werkingssfeer van verordening (EG) 396/2005.   
+c.  samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens Bijlage II, toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.   
+2.  Deze regeling berust op [artikel 13a, derde lid, onder a, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](../../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md).  
+3.  Deze regeling is niet van toepassing op bestrijdingsmiddelenresiduen die vallen onder de werkingssfeer van verordening (EG) 396/2005. 
 
 ### Artikel  2  
 
-Bij de vaststelling van het ingevolge Bijlage II toegelaten maximumgehalte dienen de bepalingen in Bijlage I in acht te worden genomen.  
+Bij de vaststelling van het ingevolge Bijlage II toegelaten maximumgehalte dienen de bepalingen in Bijlage I in acht te worden genomen. 
 
 ### Artikel  3  
 
-Producten, bedoeld in artikel 49, eerste lid, van verordening (EG) 396/2005, voldoen aan de Warenwetregeling residuen van bestrijdingsmiddelen zoals die onmiddellijk voor 1 september 2008 luidde.  
+Producten, bedoeld in artikel 49, eerste lid, van verordening (EG) 396/2005, voldoen aan de Warenwetregeling residuen van bestrijdingsmiddelen zoals die onmiddellijk voor 1 september 2008 luidde. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Warenwetregeling residuen van bestrijdingsmiddelen.  
+Deze regeling wordt aangehaald als: Warenwetregeling residuen van bestrijdingsmiddelen. 
 
 Leidschendam 
 31 januari 1984    
 
 De 
-Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,
+Staatssecretaris van  Welzijn, Volksgezondheid en Cultuur, 
 J. P. van derReijden 
 
 De 
-Staatssecretaris van Landbouw en Visserij, 
-A.Ploeg   
+Staatssecretaris van Landbouw en Visserij,
+A.  Ploeg   
 
 ### Bijlage  I  
 
@@ -220,7 +220,7 @@ A.Ploeg
 | --- | - Tomaten  | --- |
 | --- | - Pepers (paprika's)  | --- |
 | --- | - Aubergines  | --- |
-| --- | – Okra  | --- |
+| --- |  – Okra  | --- |
 | --- | - Andere  | --- |
 | --- | Cucurbitaceae met eetbare  | --- |
 | --- | schil  | --- |
@@ -270,8 +270,8 @@ A.Ploeg
 | --- | - Veldsla  | --- |
 | --- | - Sla  | --- |
 | --- | - Andijvie  | --- |
-| --- | - Bladeren en stengels van koolsoorten, inclusief raapstelen  | --- |
-| --- | - Rucola  | --- |
+| --- |- Bladeren en stengels van koolsoorten, inclusief raapstelen | --- |
+| --- |- Rucola | --- |
 | --- | - Groenlof  | --- |
 | --- | - Radicchio rosso  | --- |
 | --- | - Andere  | --- |
@@ -321,7 +321,7 @@ A.Ploeg
 | --- | Bonen  | --- |
 | --- | Linzen  | --- |
 | --- | Erwten  | --- |
-| --- | Lupine  | --- |
+| --- |Lupine | --- |
 | --- | Andere  | --- |
 | --- | --- | --- |
 | 4. Oliehoudende zaden  | --- | --- |
@@ -344,7 +344,7 @@ A.Ploeg
 | --- | Mosterdzaad  | --- |
 | --- | Katoenzaad  | --- |
 | --- | Hennepzaad  | --- |
-| --- | pompoenzaad  | --- |
+| --- |pompoenzaad | --- |
 | --- | Andere  | --- |
 | ii) Plantaardige olien e  | n vetten  | Het gehele product  |
 | --- | --- | --- |
@@ -369,7 +369,7 @@ A.Ploeg
 | niet-geconcentreerd  | --- | --- |
 | poeder  | --- | --- |
 | --- | --- | --- |
-| 8. Specerijen  <sup> (*)   zie artikel 1, onder a, van de Regling residuen van bestrijdingsmiddelen .    </sup> | Komijnzaad  | Het gehele product  |
+| 8. Specerijen <sup>(*)  zie artikel 1, onder a, van de Regling residuen van bestrijdingsmiddelen .  </sup>  | Komijnzaad  | Het gehele product  |
 | --- | Jeneverbes  | --- |
 | --- | Nootmuskaat  | --- |
 | --- | Peper, zwart; peper, wit  | --- |
@@ -511,48 +511,48 @@ A.Ploeg
 | --- | Levertraan  | --- |
 | iv) HONING  | --- | --- |
 
-### Bijlage  IA  
+###Bijlage IA  
 
-Door vernummering vervallen.  
+Door vernummering vervallen. 
 
 ### Bijlage  II  
 
 Deze bijlage behoort bij de artikelen 1, eerste lid, en 2, van de Warenwetregeling residuen van bestrijdingsmiddelen. 
 
-#### *Inleidende opmerkingen* 
+####*Inleidende opmerkingen*
 
-1. De aanduiding * achter een toelaatbare hoeveelheid betekent dat een bestrijdingsmiddel op een eet- of drinkwaar al dan niet gebruikt mag worden zonder dat een aantoonbaar residu achterblijft. De opgegeven waarde, die de ondergrens van de bepaling aangeeft, wordt beschouwd als de hoogste concentratie waarbij nog aan deze eis geacht wordt te zijn voldaan.  
+1.De aanduiding * achter een toelaatbare hoeveelheid betekent dat een bestrijdingsmiddel op een eet- of drinkwaar al dan niet gebruikt mag worden zonder dat een aantoonbaar residu achterblijft. De opgegeven waarde, die de ondergrens van de bepaling aangeeft, wordt beschouwd als de hoogste concentratie waarbij nog aan deze eis geacht wordt te zijn voldaan.
 
-2. Voor zover van toepassing zijn ten aanzien van de in de eerste kolom genoemde bestrijdingsmiddelen de zouten en esters ervan inbegrepen.    
+2.Voor zover van toepassing zijn ten aanzien van de in de eerste kolom genoemde bestrijdingsmiddelen de zouten en esters ervan inbegrepen.
 
 | Bestrijdingsmiddel, bestanddeel daarvan of omzettingsproduct  | Omzettingsproducten inbegrepen in toegelaten maximumgehalten  | Maximumgehalten aan residuen uitgedrukt als  | Toegelaten maximumgehalten aan residuen (mg/kg)  |
 |:---|:---|:---|:---|
 | chlooramine – T  | p-tolueensulfonamide  | p-tolueensulfonamide  | zie natrium-p-tolueensulfonchlooramide  |
-| p-chloor-m-cresol  | geen  | p-chloor-m-cresol  | alle  | 0,1*  |
-| cloquintoceet-mexyl  | 5-chloor-8-quino-linyloxy-azijnzuur  | cloquintoceet-mexyl  | alle  | 0,1*  |
-| cresolen  | geen  | cresol  | alle  | 0,1*  |
-| N,N-diallyldichlooraceetamide  | geen  | N,N-diallyldichlooraceetamide  | alle  | 0,05*  |
+| p-chloor-m-cresol  | geen  | p-chloor-m-cresol  | alle  |0,1* |
+| cloquintoceet-mexyl  | 5-chloor-8-quino-linyloxy-azijnzuur  | cloquintoceet-mexyl  | alle  |0,1* |
+| cresolen  | geen  | cresol  | alle  |0,1* |
+| N,N-diallyldichlooraceetamide  | geen  | N,N-diallyldichlooraceetamide  | alle  |0,05* |
 | dichloor-  isocyanuurzuur  | isocyanuurzuur  | isocyanuurzuur  | zie isocyanuurzuur  |
-| fenchlorazool-ethyl  | geen  | fenchlorazool-ethyl  | alle  | 0,1*  |
-| isocyanuurzuur  | geen  | isocyanuurzuur  | alle  | 1*  |
-| jodium  | jodide  | jodium  | melk  | 0,3  |
-| monobroomazijnzuur  | geen  | monobroomazijnzuur  | alle  | 0,05*  |
-| natrium-p-tolueensulfonchlooramide  | p-tolueensulfonamide  | p-tolueensulfonamide  | alle  | 0,1* <sup>1</sup>  |
+| fenchlorazool-ethyl  | geen  | fenchlorazool-ethyl  | alle  |0,1* |
+| isocyanuurzuur  | geen  | isocyanuurzuur  | alle  |1* |
+| jodium  | jodide  | jodium  | melk  |0,3 |
+| monobroomazijnzuur  | geen  | monobroomazijnzuur  | alle  |0,05* |
+| natrium-p-tolueensulfonchlooramide  | p-tolueensulfonamide  | p-tolueensulfonamide  | alle  |0,1*<sup>1</sup> |
 | perazijnzuur  | geen  | peroxide  | zie peroxide  |
-| peroxide  | geen  | peroxide  | alle  | 1* <sup>1</sup>  |
-| piperonyl-butoxide  | geen  | piperonyl-butoxide  | noten  | 8  |
-| overig fruit  | 3  |
-| groenten  | 3  |
-| granen  | 10  |
-| oliehoudende zaden  | 8  |
-| tropische zaden  | 1  |
-| overige  | 0,05*  |
-| quaternaire ammoniumverbindingen  | geen  | cetryltrimethylammoniumchloride  | alle  | 0,5* <sup>1</sup>  |
+| peroxide  | geen  | peroxide  | alle  |1*<sup>1</sup> |
+| piperonyl-butoxide  | geen  | piperonyl-butoxide  | noten  |8 |
+|overig fruit |3 |
+|groenten  |3 |
+|granen  |10 |
+|oliehoudende zaden  |8 |
+|tropische zaden  |1 |
+|overige |0,05* |
+| quaternaire ammoniumverbindingen  | geen  | cetryltrimethylammoniumchloride  | alle  |0,5*<sup>1</sup> |
 | trichloorisocyanuurzuur  | geen  | isocyanuurzuur  | zie isocyanuurzuur  |
 | waterstofperoxide  | geen  | peroxide  | zie peroxide  |
 
-<sup>1</sup> Geldt uitsluitend voor residuen die het gevolg zijn van het gebruik als biocide. 
+<sup>1</sup> Geldt uitsluitend voor residuen die het gevolg zijn van het gebruik als biocide.
 
-### Bijlage  IIA  
+###Bijlage IIA  
 
-Door vernummering vervallen.  
+Door vernummering vervallen. 

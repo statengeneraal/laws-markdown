@@ -8,23 +8,23 @@ Besluit:
 
 ### Artikel  1  
 
-Het Uitvoeringsinstituut werknemersverzekeringen voert bij de uitvoering van de wettelijke ontslagtaak een beleid als opgenomen in de bijlage ‘Beleidsregels ontslagtaak UWV 2012’.  
+Het Uitvoeringsinstituut werknemersverzekeringen voert bij de uitvoering van de wettelijke ontslagtaak een beleid als opgenomen in de bijlage ‘Beleidsregels ontslagtaak UWV 2012’. 
 
 ### Artikel  2  
 
-De bijlage, bedoeld in artikel 1, ligt ter inzage bij de vestigingen van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.werk.nl.  
+De bijlage, bedoeld in artikel 1, ligt ter inzage bij de vestigingen van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.werk.nl. 
 
 ### Artikel  3  
 
-Het [Besluit beleidsregels ontslagtaak UWV 2010](../../../../../../../zbo/besluit/beleidsregels/ontslagtaak/uwv/2010/BWBR0026804/README.md) wordt ingetrokken.  
+Het [Besluit beleidsregels ontslagtaak UWV 2010](../../../../../../../zbo/besluit/beleidsregels/ontslagtaak/uwv/2010/BWBR0026804/README.md) wordt ingetrokken. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als Besluit beleidsregels ontslagtaak UWV 2012.  
+Dit besluit wordt aangehaald als Besluit beleidsregels ontslagtaak UWV 2012. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 september 2012.  
+Dit besluit treedt in werking met ingang van 1 september 2012. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.   
 
 Amsterdam 
@@ -33,8 +33,8 @@ Amsterdam
 B.J. Bruins,  
 Voorzitter Raad van Bestuur UWV.   
 
-### Bijlage  
+###Bijlage 
 
 ####Beleidsregels ontslagtaak UWV 2012
 
-Ligt ter inzage bij het UWV en is gepubliceerd op www.werk.nl.  
+Ligt ter inzage bij de vestigingen van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.werk.nl.

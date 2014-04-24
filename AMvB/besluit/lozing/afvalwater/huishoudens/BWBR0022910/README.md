@@ -65,11 +65,11 @@ i. zuiveringsvoorziening: werk voor het zuiveren van afvalwater, dat geen zuiver
 
 a. een woonschip dat uit hoofde van zijn feitelijke bestemming plaatsgebonden is, en  
 
-b. een voor recreatiedoeleinden bestemde woonruimte die geen onderdeel uitmaakt van een inrichting als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
+b. een voor recreatiedoeleinden bestemde woonruimte die geen onderdeel uitmaakt van een inrichting als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
 
 ### Artikel  1a  
 
-Dit besluit berust mede op de [artikelen 6.2, eerst lid, onderdeel b, en tweede lid, onderdeel b](../../../../../../wet/waterwet/BWBR0025458/README.md), [6.6](../../../../../../wet/waterwet/BWBR0025458/README.md) en [6.7 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md).  
+Dit besluit berust mede op de [artikelen 6.2, eerst lid, onderdeel b, en tweede lid, onderdeel b](../../../../../../wet/waterwet/BWBR0025458/README.md), [6.6](../../../../../../wet/waterwet/BWBR0025458/README.md) en [6.7 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -79,9 +79,8 @@ Dit besluit berust mede op de [artikelen 6.2, eerst lid, onderdeel b, en tweede 
 
 1.  Vrijstelling van het verbod, bedoeld in [artikel 10.2, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt verleend voor het lozen vanuit een particulier huishouden op of in de bodem.   
 2.  De verboden, bedoeld in [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), gelden niet voor het lozen vanuit een particulier huishouden in een oppervlaktewaterlichaam.   
-3.  Vrijstelling van het verbod, bedoeld in [artikel 10.30, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt verleend voor het lozen vanuit een particulier huishouden in een voorziening voor de inzameling en het transport van afvalwater, met uitzondering van het lozen van afvalwater als bedoeld in [artikel 10.30, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-4.  Degene die loost vanuit een particulier huishouden, voldoet aan de regels die bij of krachtens dit besluit zijn gesteld.   
-5.  Dit besluit is niet van toepassing op: 
+3.  Degene die loost vanuit een particulier huishouden, voldoet aan de regels die bij of krachtens dit besluit zijn gesteld.   
+4.  Dit besluit is niet van toepassing op: 
 
 a. het lozen vanuit een inrichting;  
 
@@ -95,7 +94,7 @@ c. het lozen in een oppervlaktewaterlichaam ten gevolge van reinigingswerkzaamhe
 
 d. het lozen vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en het lozen vanuit een bodemsanering in de zin van de Wet bodembescherming;  
 
-e. het lozen buiten een inrichting ten gevolge van een gesloten bodemenergiesysteem als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en het [Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md).     
+e. het lozen buiten een inrichting ten gevolge van een gesloten bodemenergiesysteem als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en het [Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md).   
 
 ### Artikel  3  
 
@@ -108,22 +107,27 @@ a. de samenstelling, eigenschappen of hoeveelheid van het te lozen afvalwater;
 b. de voorafgaand aan het lozen van het afvalwater te treffen maatregelen, en  
 
 c. de plaats van het lozingspunt.     
-4.  Het eerste lid is niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van [artikel 6.4](../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 6.5, onderdeel b, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), dan wel een vergunning op grond van een verordening van het waterschap voorschriften zijn gesteld.   
+4.  Het eerste lid is niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van [artikel 6.4](../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 6.5, onderdeel b, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), dan wel een vergunning op grond van een verordening van het waterschap voorschriften zijn gesteld.  
 
 ### Artikel  4  
 
-1.  Onverminderd het bij of krachtens hoofdstuk 3 bepaalde wordt vanuit een particulier huishouden uitsluitend geloosd, indien door de samenstelling, eigenschappen of hoeveelheid van de lozing de nadelige gevolgen voor de kwaliteit van de bodem en een oppervlaktewaterlichaam zoveel mogelijk worden beperkt en de doelmatige werking van de voorzieningen voor het beheer van afvalwater niet wordt belemmerd.   
-2.  Onverminderd artikel 11, derde lid, kan het bevoegd gezag met het oog op de bescherming van de kwaliteit van de bodem en een oppervlaktewaterlichaam maatwerkvoorschriften stellen met betrekking tot: 
+1.  Degene die loost en weet of redelijkerwijs had kunnen weten dat door het lozen nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan, die niet of onvoldoende worden voorkomen of beperkt door naleving van de bij of krachtens dit besluit gestelde voorschriften, voorkomt die gevolgen of beperkt die voor zover voorkomen niet mogelijk is en voor zover dit redelijkerwijs van hem kan worden gevergd.   
+2.  Onder het voorkomen of beperken van het ontstaan van nadelige gevolgen voor het milieu, bedoeld in het eerste lid, wordt verstaan: 
 
-a. de samenstelling, eigenschappen of hoeveelheid van het te lozen afvalwater;  
+a. het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van bodemverontreiniging;  
 
-b. de voorafgaand aan het lozen van het afvalwater te treffen maatregelen, en  
+b. het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van verontreiniging van het grondwater;  
 
-c. de plaats van het lozingspunt.     
+c. het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de verontreiniging van een oppervlaktewaterlichaam;  
+
+d. de bescherming van de doelmatige werking van de voorzieningen voor het beheer van afvalwater;  
+
+e. het doelmatig beheer van afvalwater.     
+3.  Het bevoegd gezag kan met betrekking tot de verplichting, bedoeld in het eerste lid, maatwerkvoorschriften stellen voor zover het betreffende aspect bij of krachtens dit besluit niet uitputtend is geregeld. Deze maatwerkvoorschriften kunnen mede inhouden een verplichting de activiteiten die met het lozen samenhangen te beschrijven, alsmede metingen, berekeningen of tellingen te verrichten ter bepaling van de mate waarin het lozen nadelige gevolgen voor het milieu veroorzaakt.  
 
 ### Artikel  5  
 
-Indien bij of krachtens dit besluit is bepaald dat een daarbij aangegeven maatregel ter bescherming van het milieu moet worden toegepast, kan een andere maatregel worden toegepast, indien het bevoegd gezag heeft beslist dat met die maatregel ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt.  
+Indien bij of krachtens dit besluit is bepaald dat een daarbij aangegeven maatregel ter bescherming van het milieu moet worden toegepast, kan een andere maatregel worden toegepast, indien het bevoegd gezag heeft beslist dat met die maatregel ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt. 
 
 ### Hoofdstuk  3  
 
@@ -135,7 +139,7 @@ Indien bij of krachtens dit besluit is bepaald dat een daarbij aangegeven maatre
 
 ### Artikel  6  
 
-Huishoudelijk afvalwater, afkomstig van het bereiden van voedingsmiddelen en daarmee samenhangende activiteiten, dat afvalstoffen bevat, die door versnijdende of vermalende apparatuur zijn versneden of vermalen, wordt niet geloosd.  
+Huishoudelijk afvalwater, afkomstig van het bereiden van voedingsmiddelen en daarmee samenhangende activiteiten, dat afvalstoffen bevat, die door versnijdende of vermalende apparatuur zijn versneden of vermalen, wordt niet geloosd. 
 
 ### §  2  
 
@@ -149,17 +153,17 @@ Huishoudelijk afvalwater, afkomstig van het bereiden van voedingsmiddelen en daa
 a. vanaf de kadastrale grens van het perceel waar het huishoudelijk afvalwater vrijkomt; en  
 
 b. langs de kortste lijn waarlangs de afvoerleidingen zonder overwegende bezwaren kunnen worden aangelegd.     
-3.  In afwijking van het eerste lid kan het bevoegd gezag, indien het belang van de bescherming van de bodem zich daartegen niet verzet, op een daartoe strekkende aanvraag bij maatwerkvoorschrift het lozen op of in de bodem toestaan voor een door hem vast te stellen termijn, gebaseerd op het nog niet verstreken deel van een afschrijvingstermijn van de voor de aanleg van het vuilwaterriool of het zuiveringtechnisch werk reeds bestaande zuiveringsvoorziening.   
+3.  In afwijking van het eerste lid kan het bevoegd gezag, indien het belang van de bescherming van de bodem zich daartegen niet verzet, op een daartoe strekkende aanvraag bij maatwerkvoorschrift het lozen op of in de bodem toestaan voor een door hem vast te stellen termijn, gebaseerd op het nog niet verstreken deel van een afschrijvingstermijn van de voor de aanleg van het vuilwaterriool of het zuiveringtechnisch werk reeds bestaande zuiveringsvoorziening.  
 
 ### Artikel  8  
 
 1.  Voorafgaand aan het lozen op of in de bodem wordt huishoudelijk afvalwater door een zuiveringsvoorziening geleid.   
-2.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de zuiveringsvoorziening, bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de zuiveringsvoorziening, bedoeld in het eerste lid.  
 
 ### Artikel  9  
 
 1.  Lozen op of in de bodem vindt plaats door middel van een infiltratievoorziening.   
-2.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de infiltratievoorziening, bedoeld in het eerste lid.   
+2.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de infiltratievoorziening, bedoeld in het eerste lid.  
 
 ### §  3  
 
@@ -173,7 +177,7 @@ b. langs de kortste lijn waarlangs de afvoerleidingen zonder overwegende bezware
 a. vanaf de kadastrale grens van het perceel waar het huishoudelijk afvalwater vrijkomt; en  
 
 b. langs de kortste lijn waarlangs de afvoerleidingen zonder overwegende bezwaren kunnen worden aangelegd.     
-3.  In afwijking van het eerste lid kan het bevoegd gezag, indien het belang van de bescherming van een oppervlaktewaterlichaam zich daartegen niet verzet, op een daartoe strekkende aanvraag bij maatwerkvoorschrift het lozen in een oppervlaktewaterlichaam toestaan voor een door hem vast te stellen termijn, gebaseerd op het nog niet verstreken deel van een afschrijvingstermijn van de voor de aanleg van het vuilwaterriool of het zuiveringtechnisch werk reeds bestaande zuiveringsvoorziening.   
+3.  In afwijking van het eerste lid kan het bevoegd gezag, indien het belang van de bescherming van een oppervlaktewaterlichaam zich daartegen niet verzet, op een daartoe strekkende aanvraag bij maatwerkvoorschrift het lozen in een oppervlaktewaterlichaam toestaan voor een door hem vast te stellen termijn, gebaseerd op het nog niet verstreken deel van een afschrijvingstermijn van de voor de aanleg van het vuilwaterriool of het zuiveringtechnisch werk reeds bestaande zuiveringsvoorziening.  
 
 ### Artikel  11  
 
@@ -185,7 +189,7 @@ b. langs de kortste lijn waarlangs de afvoerleidingen zonder overwegende bezware
 a. door middel van een minder vergaande zuiveringsvoorziening; of  
 
 b. zonder een zuiveringsvoorziening.     
-5.  Een toestemming als bedoeld in het vierde lid, onderdeel b, blijft achterwege, indien niet binnen een afzienbare periode alsnog op het vuilwaterriool of een zuiveringtechnisch werk wordt aangesloten.   
+5.  Een toestemming als bedoeld in het vierde lid, onderdeel b, blijft achterwege, indien niet binnen een afzienbare periode alsnog op het vuilwaterriool of een zuiveringtechnisch werk wordt aangesloten.  
 
 ### §  4  
 
@@ -193,7 +197,7 @@ b. zonder een zuiveringsvoorziening.
 
 ### Artikel  12  
 
-Afvalwater afkomstig uit een zwembad waaraan desinfectiemiddelen of andere chemicaliën zijn toegevoegd wordt, indien dit mogelijk is, in een openbaar vuilwaterriool geloosd.  
+Afvalwater afkomstig uit een zwembad waaraan desinfectiemiddelen of andere chemicaliën zijn toegevoegd wordt, indien dit mogelijk is, in een openbaar vuilwaterriool geloosd. 
 
 ### Hoofdstuk  4  
 
@@ -214,7 +218,7 @@ b. het adres van het gebouw waaruit het lozen zal gaan plaatsvinden;
 
 c. gegevens waaruit kan worden afgeleid hoeveel meter de afstand tot het dichtstbijzijnde vuilwaterriool of het zuiveringtechnisch werk bedraagt, en  
 
-d. gegevens met betrekking tot de zuiveringsvoorziening waardoor het huishoudelijk afvalwater voorafgaand aan het lozen wordt geleid.     
+d. gegevens met betrekking tot de zuiveringsvoorziening waardoor het huishoudelijk afvalwater voorafgaand aan het lozen wordt geleid.    
 
 ### §  2  
 
@@ -222,23 +226,23 @@ d. gegevens met betrekking tot de zuiveringsvoorziening waardoor het huishoudeli
 
 ### Artikel  14  
 
-Wijzigt het Besluit lozingsvoorschriften niet-inrichtingen milieubeheer.   
+Wijzigt het Besluit lozingsvoorschriften niet-inrichtingen milieubeheer. 
 
 ### Artikel  15  
 
-Wijzigt het Lozingenbesluit bodembescherming.   
+Wijzigt het Lozingenbesluit bodembescherming. 
 
 ### Artikel  16  
 
-Wijzigt het Uitvoeringsbesluit artikel 1, derde lid, Wet verontreiniging oppervlaktewateren.   
+Wijzigt het Uitvoeringsbesluit artikel 1, derde lid, Wet verontreiniging oppervlaktewateren. 
 
 ### Artikel  17  
 
-Wijzigt het Besluit landbouw milieubeheer.   
+Wijzigt het Besluit landbouw milieubeheer. 
 
 ### Artikel  18  
 
-Wijzigt het Besluit glastuinbouw.   
+Wijzigt het Besluit glastuinbouw. 
 
 ### Hoofdstuk  5  
 
@@ -252,16 +256,16 @@ Wijzigt het Besluit glastuinbouw.
 
 1.  Een ontheffing als bedoeld in [artikel 5, derde lid, van het Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) ten aanzien van het lozen vanuit een particulier huishouden, wordt gelijkgesteld met een maatwerkvoorschrift als bedoeld in artikel 7, derde lid.   
 2.  Een nadere eis als bedoeld in [artikel 6, tweede lid, van het Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md) ten aanzien van het lozen vanuit een particulier huishouden, wordt aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 11, derde lid.   
-3.  Indien op het tijdstip van de inwerkingtreding van dit besluit het lozen van huishoudelijk afvalwater in het oppervlaktewater was toegestaan op grond van [artikel 14 van het Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md), blijft die toestemming gelden gedurende de termijn die volgt uit de toepassing van [dat artikel](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md).   
+3.  Indien op het tijdstip van de inwerkingtreding van dit besluit het lozen van huishoudelijk afvalwater in het oppervlaktewater was toegestaan op grond van [artikel 14 van het Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md), blijft die toestemming gelden gedurende de termijn die volgt uit de toepassing van [dat artikel](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md).  
 
 ### Artikel  20  
 
-Voor het lozen vanuit een particulier huishouden waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit een vergunning op grond van [artikel 1 van de Wet verontreiniging oppervlaktewateren](../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md) in werking en onherroepelijk was, worden de voorschriften van die vergunning aangemerkt als maatwerkvoorschriften op grond van dit besluit, mits de voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.  
+Voor het lozen vanuit een particulier huishouden waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit een vergunning op grond van [artikel 1 van de Wet verontreiniging oppervlaktewateren](../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md) in werking en onherroepelijk was, worden de voorschriften van die vergunning aangemerkt als maatwerkvoorschriften op grond van dit besluit, mits de voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften. 
 
 ### Artikel  21  
 
 1.  In afwijking van artikel 7, tweede lid, onderdeel a, wordt bij lozen van huishoudelijk afvalwater op of in de bodem dat voor 1 juli 1990 regelmatig plaatsvond de afstand berekend vanaf het gedeelte van het gebouw dat zich het dichtst bij een vuilwaterriool of een zuiveringtechnisch werk bevindt.   
-2.  In afwijking van artikel 10, tweede lid, onderdeel a, wordt bij lozen van huishoudelijk afvalwater in het oppervlaktewater dat voor 1 maart 1997 plaatsvond de afstand berekend vanaf het gedeelte van het gebouw dat zich het dichtst bij een vuilwaterriool of een zuiveringtechnisch werk bevindt.   
+2.  In afwijking van artikel 10, tweede lid, onderdeel a, wordt bij lozen van huishoudelijk afvalwater in het oppervlaktewater dat voor 1 maart 1997 plaatsvond de afstand berekend vanaf het gedeelte van het gebouw dat zich het dichtst bij een vuilwaterriool of een zuiveringtechnisch werk bevindt.  
 
 ### §  2  
 
@@ -269,11 +273,11 @@ Voor het lozen vanuit een particulier huishouden waarvoor onmiddellijk voorafgaa
 
 ### Artikel  22  
 
-Dit besluit treedt in werking met ingang van 1 januari 2008, met uitzondering van artikel 16, dat met ingang van 1 januari 2009 in werking treedt.  
+Dit besluit treedt in werking met ingang van 1 januari 2008, met uitzondering van artikel 16, dat met ingang van 1 januari 2009 in werking treedt. 
 
 ### Artikel  23  
 
-Dit besluit wordt aangehaald als: Besluit lozing afvalwater huishoudens.  
+Dit besluit wordt aangehaald als: Besluit lozing afvalwater huishoudens. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -284,7 +288,7 @@ Beatrix
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
 J. M. Cramer   
 
-De Staatssecretaris van Verkeer en Waterstaat , 
+De Staatssecretaris van Verkeer en Waterstaat ,  
 J. C. Huizinga-Heringa   
 
 de *negenentwintigste* november 2007 

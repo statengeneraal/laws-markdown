@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Activiteitenbesluit milieubeheer.   
+Wijzigt het Activiteitenbesluit milieubeheer. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bodemkwaliteit.   
+Wijzigt het Besluit bodemkwaliteit. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit hernieuwbare energie vervoer.   
+Wijzigt het Besluit hernieuwbare energie vervoer. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit lozen buiten inrichtingen.   
+Wijzigt het Besluit lozen buiten inrichtingen. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit lozing afvalwater huishoudens.   
+Wijzigt het Besluit lozing afvalwater huishoudens. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit omgevingsrecht.   
+Wijzigt het Besluit omgevingsrecht. 
 
 ### Artikel  VII  
 
-Wijzigt het Waterbesluit.   
+Wijzigt het Waterbesluit. 
 
 ### Artikel  VIII  
 
@@ -68,7 +68,7 @@ j. de stand van zaken met betrekking tot de erkenning van bedrijven en de aanwij
 
 k. het gebruik van de bevoegdheid tot het stellen van maatwerkvoorschriften;  
 
-l. het gebruik van de bevoegdheid op een aanvraag om een watervergunning te besluiten volgens de procedure van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+l. het gebruik van de bevoegdheid op een aanvraag om een watervergunning te besluiten volgens de procedure van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
 
 ### Artikel  IX  
 
@@ -78,11 +78,11 @@ l. het gebruik van de bevoegdheid op een aanvraag om een watervergunning te besl
 a. die aanvraag is ingediend voorafgaand aan het tijdstip van inwerkingtreding van artikel VI, onderdeel B, en  
 
 b. op die aanvraag vóór het tijdstip, bedoeld in onderdeel a, nog niet onherroepelijk is beslist.     
-3.  In gevallen als bedoeld in het tweede lid wordt een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onderdeel e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit op grond van artikel 2.1, eerste lid, aanhef en onderdeel i, van die wet op het tijdstip waarop de omgevingsvergunning onherroepelijk is geworden. De voorschriften die aan die omgevingsvergunning zijn verbonden, worden overeenkomstig [artikel 6.1, eerste of vierde lid, van het Activiteitenbesluit milieubeheer](../../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) aangemerkt als maatwerkvoorschriften.   
+3.  In gevallen als bedoeld in het tweede lid wordt een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onderdeel e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit op grond van artikel 2.1, eerste lid, aanhef en onderdeel i, van die wet op het tijdstip waarop de omgevingsvergunning onherroepelijk is geworden. De voorschriften die aan die omgevingsvergunning zijn verbonden, worden overeenkomstig [artikel 6.1, eerste of vierde lid, van het Activiteitenbesluit milieubeheer](../../../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) aangemerkt als maatwerkvoorschriften.  
 
 ### Artikel  X  
 
-Dit besluit treedt in werking met ingang van 1 juli 2013.  
+Dit besluit treedt in werking met ingang van 1 juli 2013. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -90,10 +90,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 25 maart 2013  
 Beatrix  
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M.H. Schultz van Haegen-Maas Geesteranus   
 
 de *negenentwintigste* maart 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
