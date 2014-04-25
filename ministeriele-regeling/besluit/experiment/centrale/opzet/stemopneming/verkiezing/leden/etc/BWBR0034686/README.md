@@ -3,13 +3,13 @@
 ##Besluit tot het houden van een experiment met een centrale opzet van de stemopneming bij de verkiezing van de leden van de gemeenteraden in 2014
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de artikel 2, eerste lid, aanhef en onderdeel b, en tweede lid, van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming;
+Gelet op de [artikel 2, eerste lid, aanhef en onderdeel b, en tweede lid, van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md);
 Besluit:    
 
-### Enig  artikel  
+### Enig artikel  
 
-Bij de verkiezing van de leden van de raad van de gemeenten Hardenberg, Kampen, Ouder-Amstel, Raalte en Sittard-Geleen, met als dag van stemming 19 maart 2014, wordt in die gemeenten een experiment gehouden met als doel de invoering van een centrale opzet van de stemopneming als bedoeld in artikel 2, eerste lid, onderdeel b, van de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming.  
+Bij de verkiezing van de leden van de raad van de gemeenten Hardenberg, Kampen, Ouder-Amstel, Raalte en Sittard-Geleen, met als dag van stemming 19 maart 2014, wordt in die gemeenten een experiment gehouden met als doel de invoering van een centrale opzet van de stemopneming als bedoeld in [artikel 2, eerste lid, onderdeel b, van de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md). 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-R.H.A.Plasterk   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+R.H.A. Plasterk     
