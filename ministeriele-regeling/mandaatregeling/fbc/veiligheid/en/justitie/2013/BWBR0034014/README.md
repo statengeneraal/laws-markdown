@@ -8,27 +8,27 @@ Besluit:
 
 ### Artikel  1  
 
-Van het ingevolge artikel 1, onderdeel c, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Financiën, Bedrijfsvoering en Control verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen mandaat verleend aan: 
+Van het ingevolge [artikel 1, onderdeel c, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Financiën, Bedrijfsvoering en Control verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen mandaat verleend aan: 
 
 a. het hoofd van de afdeling Control;  
 
-b. het hoofd van de afdeling Planning, Control en Managementinformatie.    
+b. het hoofd van de afdeling Planning, Control en Managementinformatie.   
 
 ### Artikel  2  
 
-De in artikel 1, onder a en b, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.  
+De in artikel 1, onder a en b, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden. 
 
 ### Artikel  3  
 
-De Mandaatregeling DIRR Veiligheid en Justitie wordt ingetrokken.  
+De Mandaatregeling DIRR Veiligheid en Justitie wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Mandaatregeling FBC Veiligheid en Justitie 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling FBC Veiligheid en Justitie 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

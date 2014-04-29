@@ -8,25 +8,25 @@ Besluit:
 
 ### Artikel  1  
 
-Van het ingevolge artikel 1, onderdeel e, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Veiligheid en Bestuur verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
+Van het ingevolge [artikel 1, onderdeel e, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Veiligheid en Bestuur verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
 
 a. het hoofd van de afdeling Integrale veiligheid (IV);  
 
 b. het hoofd van de afdeling Bestuurlijke aanpak (BA);  
 
-c. het hoofd van de afdeling Keteninformatievoorziening (KIV).    
+c. het hoofd van de afdeling Keteninformatievoorziening (KIV).   
 
 ### Artikel  2  
 
-De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.  
+De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 12 april 2013.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 12 april 2013. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Mandaatregeling DVB Veiligheid en Justitie 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling DVB Veiligheid en Justitie 2013. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

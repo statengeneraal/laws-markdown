@@ -18,15 +18,15 @@ c. de manager Matching;
 
 d. de manager Expertise & Dienstencentrum Digitale Archivering (EDDA);  
 
-e. de manager Justitiële Documentatie & Informatie Beheer (JD&IB).    
+e. de manager Justitiële Documentatie & Informatie Beheer (JD&IB).   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Mandaatregeling Strategie en Middelen Justid 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling Operatie Justid 2013. 
 Deze regeling zal met de *toelichting* in de Staatscourant worden geplaatst.  
 
 De directeur Operatie van de Justitiële Informatiedienst van het Ministerie van Veiligheid en Justitie, 

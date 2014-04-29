@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008 nr. IZ/2008/35314, houdende de inrichting van de directie Internationale Zaken, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit Directie Internationale Zaken 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de artikelen 3, eerste lid, onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009;
+Gelet op de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md);
 Besluit:     
 ### §  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie IZ: de directie Internationale Zaken.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie IZ: de directie Internationale Zaken. 
 
 ### §  2  
 
@@ -25,9 +25,9 @@ a. de afdeling Europese Aangelegenheden;
 
 b. de afdeling Internationale Aangelegenheden;  
 
-c. de afdeling Permanente Vertegenwoordiging & Ambassade;  
+c. het cluster Permanente Vertegenwoordiging, gevestigd te Brussel;  
 
-d. het secretariaat, de administratieve ondersteuning en het logistiek management.    
+d. het secretariaat, de administratieve ondersteuning en het logistiek management.   
 
 ### Artikel  3  
 
@@ -39,13 +39,13 @@ b. het voeren van het inhoudelijke, procesmatige en logistieke secretariaat ten 
 
 c. het toetsen van nationale voornemens aan Europese kaders en ontwikkelingen;  
 
-d. het samen met de afdeling PV&A voeren van de regie over het proces tussen de beleidsdirecties en de EU;  
+d. de functionele aansturing van het cluster Permanente Vertegenwoordiging en het in samenwerking met het cluster Permanente Vertegenwoordiging voeren van de regie over het proces tussen de beleidsdirecties en de Europese Unie;  
 
 e. het onderhouden van het bilaterale netwerk waarbij de focus ligt bij prioritaire landen in de huidige en toekomstige lidstaten van de Europese Unie;  
 
 f. het mede vormgeven en bewaken van de Europese institutionele kaders;  
 
-g. het toerusten van het ministerie met het oog op EU-activiteiten.    
+g. het toerusten van het ministerie met het oog op EU-activiteiten.   
 
 ### Artikel  4  
 
@@ -63,31 +63,27 @@ e. het coördineren en voorbereiden van de verdragsrapportages met betrekking to
 
 f. het coördineren van de politiek beleidsmatige aspecten van internationale sociale (zekerheids)fraudebestrijding;  
 
-g. het toerusten van het ministerie met name met het oog op de activiteiten in de internationale organisaties;  
-
-h. het voeren van de regie met betrekking tot internationale bilaterale projecten die ondergebracht zijn bij het Agentschap SZW, inclusief de aansturing en het periodieke afstemmingsoverleg met het Agentschap SZW.    
+g. het toerusten van het ministerie met name met het oog op de activiteiten in de internationale organisaties.   
 
 ### Artikel  5  
 
-Het hoofd van de afdeling Permanente Vertegenwoordiging & Ambassade is verantwoordelijk voor: 
+Het cluster Permanente Vertegenwoordiging is verantwoordelijk voor: 
 
 a. het vertegenwoordigen van Nederland en het onderhandelen namens Nederland op het sociaal-economisch terrein bij de Europese Unie;  
 
 b. het onderhouden van contacten met diverse significante actoren op het niveau van de Europese Unie, te weten de Europese Commissie, het Europees Parlement, het Economisch en Sociaal Comité, andere lidstaten en de Europese sociale partners;  
 
-c. het gezamenlijk met EA voeren van de regie over het proces met de beleidsdirecties;  
+c. het onder functionele aansturing van het hoofd van de afdeling Europese Aangelegenheden voeren van de regie over het proces met de beleidsdirecties;  
 
 d. het signaleren en rapporteren over ontwikkelingen in de Europese Unie;  
 
 e. het toerusten van het ministerie met name met het oog op de activiteiten in de Europese Unie;  
 
-f. het monitoren van ontwikkelingen in belendende percelen het informeren van de politieke en ambtelijke leiding van actuele ontwikkelingen in het Brusselse circuit inclusief de relaties naar andere raden waar dat relevant en van strategisch belang is;  
-
-g. het onderhouden van de bilaterale relaties met België.    
+f. het monitoren van ontwikkelingen in belendende percelen het informeren van de politieke en ambtelijke leiding van actuele ontwikkelingen in het Brusselse circuit inclusief de relaties naar andere raden waar dat relevant en van strategisch belang is.   
 
 ### Artikel  6  
 
-Vanuit de afdelingen wordt voorzien in de administratieve en secretariële ondersteuning. De directiesecretaris is verantwoordelijk voor de ondersteuning van het managementteam en belast met inhoudelijke coördinatie, beleids- en procesondersteuning op het brede directieterrein.  
+Vanuit de afdelingen wordt voorzien in de administratieve en secretariële ondersteuning. De directiesecretaris is verantwoordelijk voor de ondersteuning van het managementteam en belast met inhoudelijke coördinatie, beleids- en procesondersteuning op het brede directieterrein. 
 
 ### §  3  
 
@@ -103,7 +99,7 @@ b. het houden van manager–medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.    
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.   
 
 ### Artikel  8  
 
@@ -111,7 +107,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 a. het afdoen van informatieve brieven, die betrekking hebben op de taken van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie Internationale Zaken geen voortouw in heeft, met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Internationale Zaken afgedaan moeten worden.    
+b. het paraferen van stukken waar de directie Internationale Zaken geen voortouw in heeft, met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Internationale Zaken afgedaan moeten worden.   
 
 ### Artikel  9  
 
@@ -121,19 +117,19 @@ a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en
 
 b. het afsluiten van koop-, huur- en lease-overeenkomsten voor de directie Internationale Zaken met een waarde van ten hoogste € 10.000,– per overeenkomst;  
 
-c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Internationale Zaken welke voortvloeien uit het vastgestelde opleidingsplan van de directie Internationale Zaken.    
+c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Internationale Zaken welke voortvloeien uit het vastgestelde opleidingsplan van de directie Internationale Zaken.   
 
 ### Artikel  10  
 
-De directiesecretaris is gevolmachtigd tot het raadplegen van alle personele aangelegenheden, de directie betreffende zowel fysieke als elektronische dossiers en heeft daartoe een vergelijkbare autorisatie als de directeur Internationale Zaken en daarmee toegang tot alle (elektronische) informatiesystemen en personele overzichten.  
+De directiesecretaris is gevolmachtigd tot het raadplegen van alle personele aangelegenheden, de directie betreffende zowel fysieke als elektronische dossiers en heeft daartoe een vergelijkbare autorisatie als de directeur Internationale Zaken en daarmee toegang tot alle (elektronische) informatiesystemen en personele overzichten. 
 
 ### Artikel  11  
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur Internationale Zaken.  
+Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur Internationale Zaken. 
 
 ### Artikel  12  
 
-Bij afwezigheid of verhindering van de directeur Internationale Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.  
+Bij afwezigheid of verhindering van de directeur Internationale Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur. 
 
 ### §  4  
 
@@ -142,7 +138,7 @@ Bij afwezigheid of verhindering van de directeur Internationale Zaken worden, vo
 ### Artikel  13  
 
 1.  Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Directie Internationale Zaken 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Directie Internationale Zaken 2009.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -150,5 +146,5 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
-directeur Internationale Zaken, 
-L.C.Beets   
+directeur Internationale Zaken,
+L.C. Beets     

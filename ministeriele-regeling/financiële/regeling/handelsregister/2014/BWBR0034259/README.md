@@ -32,7 +32,11 @@ g. voor het door middel van internet inzien van het bedrijfsprofiel: minimaal �
 
 h. voor het door middel van internet ontvangen van een digitaal gewaarmerkt uittreksel: € 7,50 per uittreksel;  
 
-i. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (‘In het kort’): € 0,50 per inzage.    
+i. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (‘In het kort’): € 0,50 per inzage;  
+
+j. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (‘In het kort’), indien het raadplegen geschiedt via een internetapplicatie die bedoeld is voor mobiele kanalen: € 0,99 per inzage;  
+
+k. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (‘Inschrijving’ en ‘Vestiging’), indien het raadplegen geschiedt via een internetapplicatie die bedoeld is voor mobiele kanalen: € 1,99 per inzage.  
 
 ### Artikel  2  
 
@@ -42,7 +46,7 @@ a. voor afschriften: € 12,– per dossier of gedeelte daarvan, ongeacht het a
 
 b. voor uittreksels op papier: € 12,– per uittreksel;  
 
-c. voor een schriftelijke mededeling met betrekking tot hetgeen in het handelsregister is ingeschreven of daarbij is gedeponeerd: € 5,– per dossier.    
+c. voor een schriftelijke mededeling met betrekking tot hetgeen in het handelsregister is ingeschreven of daarbij is gedeponeerd: € 5,– per dossier.   
 
 ### Artikel  3  
 
@@ -180,32 +184,32 @@ a. voor een overzicht verstrekt op cd of dvd: € 45,– per cd of dvd;
 
 b. voor een overzicht verstrekt via e-mail: bij maximaal 5.000 records: € 11,– per e-mail en bij meer dan 5.000 records: € 22,– per e-mail;  
 
-c. voor een overzicht verstrekt via de downloadservice van de Kamer van Koophandel: € 11,– per download.     
+c. voor een overzicht verstrekt via de downloadservice van de Kamer van Koophandel: € 11,– per download.    
 
 ### Artikel  4  
 
-De kosten van het accountantsonderzoek, bedoeld in [artikel 41, eerste lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden voor de helft vergoed door de Minister van Economische Zaken, tot een maximum van € 15.000,–.  
+De kosten van het accountantsonderzoek, bedoeld in [artikel 41, eerste lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden voor de helft vergoed door de Minister van Economische Zaken, tot een maximum van € 15.000,–. 
 
 ### Artikel  4a  
 
-De inschrijfvergoeding, bedoeld in [artikel 1, eerste lid, van het Financieel besluit handelsregister 2014](../../../../../../AMvB/financieel/besluit/handelsregister/2014/BWBR0034829/README.md), bedraagt € 50,00.  
+De inschrijfvergoeding, bedoeld in [artikel 1, eerste lid, van het Financieel besluit handelsregister 2014](../../../../../../AMvB/financieel/besluit/handelsregister/2014/BWBR0034829/README.md), bedraagt € 50,00. 
 
 ### Artikel  5  
 
-De [Financiële regeling handelsregister 2013](../../../../../../ministeriele-regeling/financiële/regeling/handelsregister/2013/BWBR0032169/README.md) wordt ingetrokken.  
+De [Financiële regeling handelsregister 2013](../../../../../../ministeriele-regeling/financiële/regeling/handelsregister/2013/BWBR0032169/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014.  
+Deze regeling treedt in werking met ingang van 1 januari 2014. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Financiële regeling handelsregister 2014.  
+Deze regeling wordt aangehaald als: Financiële regeling handelsregister 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 29 november 2013   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp   
+Minister van Economische Zaken, 
+H.G.J. Kamp     

@@ -12,15 +12,15 @@ Van het ingevolge [artikel 1 van de Mandaatregeling Justid 2013](../../../../../
 
 a. de manager Informatie, Technologie en Innovatie;  
 
-b. de teamleider Ontwikkeling.    
+b. de teamleider Ontwikkeling.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Mandaatregeling Technologie Justid 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling Technologie Justid 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De algemene directeur van de Justitiële Informatiedienst van het Ministerie van Veiligheid en Justitie, 

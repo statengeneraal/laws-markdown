@@ -8,29 +8,29 @@ Besluit:
 
 ### Artikel  1  
 
-Van het ingevolge artikel 1, onderdeel b, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Rechtsbestel verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
+Van het ingevolge [artikel 1, onderdeel b, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Rechtsbestel verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
 
 a. het hoofd van de afdeling Strafrechtelijk bestel en Arbeidsvoorwaarden;  
 
 b. het hoofd van de afdeling Rechtspraak en Geschiloplossing;  
 
-c. het hoofd van de afdeling Toegang Rechtsbestel.    
+c. het hoofd van de afdeling Toegang Rechtsbestel.   
 
 ### Artikel  2  
 
-De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.  
+De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden. 
 
 ### Artikel  3  
 
-De Mandaatregeling DRB Veiligheid en Justitie wordt ingetrokken.  
+De Mandaatregeling DRB Veiligheid en Justitie wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Mandaatregeling DRB Veiligheid en Justitie 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling DRB Veiligheid en Justitie 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

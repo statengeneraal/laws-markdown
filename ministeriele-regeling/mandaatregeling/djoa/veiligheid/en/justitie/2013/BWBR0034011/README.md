@@ -8,29 +8,29 @@ Besluit:
 
 ### Artikel  1  
 
-Van het ingevolge artikel 1, onderdeel d, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Juridische en Operationele Aangelegenheden verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
+Van het ingevolge [artikel 1, onderdeel d, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Juridische en Operationele Aangelegenheden verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
 
 a. het hoofd van de afdeling Bestuurlijke en Juridische Zaken (BJZ);  
 
 b. het hoofd van de afdeling Operationele Zaken en Incidentenmanagement (OZI);  
 
-c. het hoofd van de afdeling Internationale Rechtshulp in Strafzaken (IRS).    
+c. het hoofd van de afdeling Internationale Rechtshulp in Strafzaken (IRS).   
 
 ### Artikel  2  
 
-De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde, bevoegdheden.  
+De in artikel 1, onder a tot en met c, genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde, bevoegdheden. 
 
 ### Artikel  3  
 
-De Mandaatregeling DJOA Veiligheid en Justitie wordt ingetrokken.  
+De Mandaatregeling DJOA Veiligheid en Justitie wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Mandaatregeling DJOA Veiligheid en Justitie 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling DJOA Veiligheid en Justitie 2013. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

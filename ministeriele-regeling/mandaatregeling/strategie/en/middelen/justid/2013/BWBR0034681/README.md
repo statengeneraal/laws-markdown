@@ -18,15 +18,15 @@ c. de manager beleid keteninformatisering;
 
 d. de manager Platform Interceptie Decryptie en Signaalanalyse (PIDS) en Servicecentrum Privacy en Veiligheid (SPV);  
 
-e. de manager Projecten en Informatiemanagement.    
+e. de manager Projecten en Informatiemanagement.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Mandaatregeling Strategie en Middelen Justid 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling Strategie en Middelen Justid 2013. 
 Deze regeling zal met de *toelichting* in de Staatscourant worden geplaatst.  
 
 De directeur Strategie en Middelen van de Justitiële Informatiedienst van het Ministerie van Veiligheid en Justitie, 
