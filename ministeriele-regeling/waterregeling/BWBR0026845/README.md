@@ -13,11 +13,11 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*[Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md);  
+*besluit:* [Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md);  
 
 *minister:* minister van Infrastructuur en Milieu;  
 
-*SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh.    
+*SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh.  
 
 ### Hoofdstuk  2  
 
@@ -25,7 +25,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2.1  
 
-Als categorieën van bedrijven of bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden aangewezen de bedrijven en bedrijfsactiviteiten die zijn vermeld in bijlage I bij deze regeling.  
+Als categorieën van bedrijven of bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden aangewezen de bedrijven en bedrijfsactiviteiten die zijn vermeld in bijlage I bij deze regeling. 
 
 ### Hoofdstuk  3  
 
@@ -43,13 +43,13 @@ In deze paragraaf wordt verstaan onder:
 
 *waterkwantiteitsbeheer:* uitvoeren en handhaven van bij of krachtens de [wet](../../../wet/waterwet/BWBR0025458/README.md) gestelde regels ten aanzien van peilbesluiten of het brengen van water in of het onttrekken van water uit oppervlaktewaterlichamen;  
 
-*waterstaatkundig beheer:* beheer van oppervlaktewaterlichamen, anders dan waterkwaliteitsbeheer of waterkwantiteitsbeheer.    
+*waterstaatkundig beheer:* beheer van oppervlaktewaterlichamen, anders dan waterkwaliteitsbeheer of waterkwantiteitsbeheer.   
 
 ### Artikel  3.2  
 
 1.  Het waterkwaliteitsbeheer van de in [artikel 3.1 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze gelegen zijn binnen de grenzen als aangegeven op de kaart in bijlage II bij deze regeling.   
 2.  Het waterkwantiteitsbeheer van de in [artikel 3.1 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in bijlage III bij deze regeling.   
-3.  Het waterstaatkundig beheer van de in [artikel 3.1 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in bijlage IV bij deze regeling.   
+3.  Het waterstaatkundig beheer van de in [artikel 3.1 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in bijlage IV bij deze regeling.  
 
 ### Artikel  3.3  
 
@@ -58,14 +58,14 @@ In deze paragraaf wordt verstaan onder:
 
 a. de binnen de in bijlage II opgenomen begrenzing van drogere oevergebieden vallende oppervlaktewaterlichamen;  
 
-b. de kunstwerken die deel uitmaken van die oppervlaktewaterlichamen.     
+b. de kunstwerken die deel uitmaken van die oppervlaktewaterlichamen.    
 
 ### Artikel  3.4  
 
 1.  In afwijking van artikel 3.2 wordt de grens van het oppervlaktewaterlichaam Noordzee aan de zeezijde gevormd door de grenzen van de Nederlandse Exclusieve Economische Zone en de grenzen van de Nederlandse territoriale wateren.   
 2.  In afwijking van artikel 3.2 wordt de grens van de oppervlaktewaterlichamen Noordzee en de Waddenzee aan de landzijde gevormd door de duinvoet, voor zover zij niet overgaan in andere oppervlaktewaterlichamen in beheer bij het Rijk. Indien geen duinvoet aanwezig is, worden de grenzen van deze oppervlaktewaterlichamen gevormd door de buitenkruinlijn van de primaire waterkering. Het gebied tussen de duinvoet en de grenzen als aangegeven op de kaarten in de bijlagen II, III en IV bij deze regeling is in beheer bij het Rijk.   
 3.  In afwijking van het eerste en tweede lid worden op en rond de Waddeneilanden de grenzen van de oppervlaktewaterlichamen Noordzee en Waddenzee gevormd door de op de kaarten in de bijlagen II, III, en IV opgenomen grenzen.   
-4.  Het beheer van de Noordzee, de Waddenzee, de Eems en de Dollard in de gebieden die zijn aangewezen op de kaarten in de bijlagen II, III en IV van deze regeling, berust bij het Rijk voor zover de Staat der Nederlanden bevoegdheden heeft op grond van het Eems-Dollard Verdrag.   
+4.  Het beheer van de Noordzee, de Waddenzee, de Eems en de Dollard in de gebieden die zijn aangewezen op de kaarten in de bijlagen II, III en IV van deze regeling, berust bij het Rijk voor zover de Staat der Nederlanden bevoegdheden heeft op grond van het Eems-Dollard Verdrag.  
 
 ### Artikel  3.5  
 
@@ -88,15 +88,15 @@ b. de losstoep in de Ballumerbocht;
 
 c. het fietspad door de duinen lopend vanaf de zuidzijde van het Hollumerbos tot de Oerderduinen;  
 
-d. de binnen de gemeente Ameland gelegen 36 strandovergangen, met bijbehorende werken en voorzieningen.     
+d. de binnen de gemeente Ameland gelegen 36 strandovergangen, met bijbehorende werken en voorzieningen.    
 
 ### Artikel  3.6  
 
-In afwijking van artikel 3.2, is de begrenzing van het beheergebied van het Rijk voor waterkwaliteitsbeheer, waterkwantiteitsbeheer en waterstaatkundig beheer in het oppervlaktewaterlichaam Grensmaas gelijk aan de landsgrens tussen Nederland en België.  
+In afwijking van artikel 3.2, is de begrenzing van het beheergebied van het Rijk voor waterkwaliteitsbeheer, waterkwantiteitsbeheer en waterstaatkundig beheer in het oppervlaktewaterlichaam Grensmaas gelijk aan de landsgrens tussen Nederland en België. 
 
 ### Artikel  3.7  
 
-In afwijking van artikel 3.2, tweede lid, berust het waterkwantiteitsbeheer, voor zover dat in het reglement van het waterschap Blija Buitendijks aan dat waterschap is opgedragen, niet bij het Rijk.  
+In afwijking van artikel 3.2, tweede lid, berust het waterkwantiteitsbeheer, voor zover dat in het reglement van het waterschap Blija Buitendijks aan dat waterschap is opgedragen, niet bij het Rijk. 
 
 ### §  2  
 
@@ -108,7 +108,7 @@ In afwijking van artikel 3.2, tweede lid, berust het waterkwantiteitsbeheer, voo
 2.  De resultaten, bedoeld in [artikel 3.4, tweede lid, onderdeel b, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden uiterlijk op 22 juni 2013 en vervolgens elke 6 jaar verstrekt.   
 3.  De gegevens, bedoeld in [artikel 3.4, tweede lid, onderdeel c, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden uiterlijk op 22 juni 2012 en vervolgens elke 6 jaar verstrekt.   
 4.  De website, bedoeld in [artikel 3.4, derde lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), is het KRW-portaal http://krw.ncqi.nl.   
-5.  Voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, tweede lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), wordt gebruik gemaakt van de in bijlage V bij deze regeling opgenomen formulieren.   
+5.  Voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, tweede lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), wordt gebruik gemaakt van de in bijlage V bij deze regeling opgenomen formulieren.  
 
 ### Hoofdstuk  4  
 
@@ -116,7 +116,7 @@ In afwijking van artikel 3.2, tweede lid, berust het waterkwantiteitsbeheer, voo
 
 ### Artikel  4.1  
 
-Een regionaal waterplan omvat mede een overzicht van de toestandsklasse per stof en kwaliteitselement van elk waterlichaam waarop het plan betrekking heeft, bepaald over de voorgaande planperiode overeenkomstig het monitoringsprogramma, bedoeld in [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md).  
+Een regionaal waterplan omvat mede een overzicht van de toestandsklasse per stof en kwaliteitselement van elk waterlichaam waarop het plan betrekking heeft, bepaald over de voorgaande planperiode overeenkomstig het monitoringsprogramma, bedoeld in [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md). 
 
 ### Artikel  4.2  
 
@@ -128,7 +128,7 @@ b. het Overlegorgaan Water en Noordzee, bedoeld in [artikel 1, onderdeel a, van 
 
 c. het Productschap voor Vis en Visproducten (Productschap Vis), bedoeld in [artikel 1, eerste lid, van de Instellingswet Productschap voor Vis en Visproducten](../../../wet/instellingswet/productschap/voor/vis/en/visproducten/BWBR0002220/README.md), en  
 
-d. de Regionale adviesraad Noordzee, bedoeld in artikel 2, onderdeel c, van het besluit nr. 2004, 2004/585/EG van de Raad van de Europese Unie van 19 juli tot oprichting van regionale adviesraden in het kader van het gemeenschappelijk visserijbeleid (PbEU L 256/17).    
+d. de Regionale adviesraad Noordzee, bedoeld in artikel 2, onderdeel c, van het besluit nr. 2004, 2004/585/EG van de Raad van de Europese Unie van 19 juli tot oprichting van regionale adviesraden in het kader van het gemeenschappelijk visserijbeleid (PbEU L 256/17).   
 
 ### Hoofdstuk  5  
 
@@ -145,27 +145,25 @@ d. de Regionale adviesraad Noordzee, bedoeld in artikel 2, onderdeel c, van het 
 
 In een vergunning krachtens [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) wordt bepaald dat de vergunning geldt voor een daarbij te bepalen termijn van ten hoogste tien jaar, indien zij wordt afgegeven voor het in een oppervlaktewaterlichaam brengen van een of meer stoffen, behorende tot lijst I van bijlage I van richtlijn 2006/11/EG van het Europees Parlement en de Raad van de Europese Unie van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEU L 64), waarvoor grenswaarden zijn vastgesteld in: 
 
-a. richtlijn nr. 82/176/EEG van de Raad van 22 maart 1982, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van de sector elektrolyse van alkalichloriden (PbEG L 81);  
+a.  richtlijn nr. 82/176/EEG van de Raad van 22 maart 1982, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van de sector elektrolyse van alkalichloriden (PbEG L 81);  
 
-b. richtlijn 83/513/EEG van de Raad van 26 september 1983 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van cadmium (PbEG L 291);  
+b.  richtlijn 83/513/EEG van de Raad van 26 september 1983 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van cadmium (PbEG L 291);  
 
-c. richtlijn nr. 84/156/EEG van de Raad van 8 maart 1984, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van andere sectoren dan de elektrolyse van alkalichloriden (PbEG L 74);  
+c.  richtlijn nr. 84/156/EEG van de Raad van 8 maart 1984, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van andere sectoren dan de elektrolyse van alkalichloriden (PbEG L 74);  
 
-d. richtlijn nr. 84/491/EEG van de Raad van 9 oktober 1984 betreffende de grenswaarden en kwaliteitsdoelstellingen voor de lozing van hexachloorcyclohexaan (PbEG L 274); of  
+d.  richtlijn nr. 84/491/EEG van de Raad van 9 oktober 1984 betreffende de grenswaarden en kwaliteitsdoelstellingen voor de lozing van hexachloorcyclohexaan (PbEG L 274); of  
 
-e. richtlijn nr. 86/280/EEG van de Raad van 12 juni 1986 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van bepaalde onder lijst I van de bijlage van Richtlijn 76/464/EEG vallende gevaarlijke stoffen (PbEG L 181).    
+e.  richtlijn nr. 86/280/EEG van de Raad van 12 juni 1986 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van bepaalde onder lijst I van de bijlage van Richtlijn 76/464/EEG vallende gevaarlijke stoffen (PbEG L 181).   
 
 ### Artikel  6.2  
 
-Het bevoegd gezag beziet vier jaar nadat een vergunning als bedoeld in artikel 6.1 is verleend, en vervolgens ten minste elke vier jaar, of die vergunning nog toereikend is, gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.  
+Het bevoegd gezag beziet vier jaar nadat een vergunning als bedoeld in artikel 6.1 is verleend, en vervolgens ten minste elke vier jaar, of die vergunning nog toereikend is, gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu. 
 
 ### §  2  
 
 ####Het brengen van stedelijk afvalwater in oppervlaktewaterlichamen
 
-### Artikel  6.3  
-
-Het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de resultaten daarvan, bedoeld in [artikel 6.7 van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), geschiedt overeenkomstig de voorschriften van bijlage VI bij deze regeling.  
+Vervallen per 01-03-2014 
 
 ### §  3  
 
@@ -175,22 +173,22 @@ Het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de 
 
 [Artikel 6.10a, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op het onttrekken van grondwater ten behoeve van: 
 
-a. een bronbemaling of proefbemaling, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 100 m <sup>3</sup> per uur en in totaal niet meer bedraagt dan 100.000 m <sup>3</sup>;  
+a. een bronbemaling of proefbemaling, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 100 m<sup>3</sup> per uur en in totaal niet meer bedraagt dan 100.000 m<sup>3</sup>;  
 
-b. beregening, bevloeiing of veedrenking, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 60 m <sup>3</sup> per uur;  
+b. beregening, bevloeiing of veedrenking, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 60 m<sup>3</sup> per uur;  
 
-c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 10 m <sup>3</sup> per uur.    
+c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 10 m<sup>3</sup> per uur.   
 
 ### Artikel  6.4  
 
 1.  Bij een melding van het onttrekken van grondwater als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden de gegevens genoemd in artikel 6.27 verstrekt.   
-2.  Indien een melding als bedoeld in het eerste lid betrekking heeft op het onttrekken van grondwater ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden tevens de gegevens, genoemd in artikel 6.29, verstrekt.   
-3.  Bij een melding van het infiltreren van water als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden de gegevens genoemd in artikel 6.28 verstrekt.   
+2.  Indien een melding als bedoeld in het eerste lid betrekking heeft op het onttrekken van grondwater ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden tevens de gegevens, genoemd in artikel 6.29, verstrekt.  
+3.  Bij een melding van het infiltreren van water als bedoeld in [artikel 6.11, eerste lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) worden de gegevens genoemd in artikel 6.28 verstrekt.  
 
 ### Artikel  6.5  
 
 1.  Degene die water infiltreert, meet de kwaliteit van het te infiltreren water door het nemen van representatieve monsters en het analyseren van de in bijlage VII bij deze regeling opgenomen parameters met de in die bijlage genoemde frequentie.   
-2.  De analyse van de monsters vindt plaats overeenkomstig [bijlage 4 van de Drinkwaterregeling](../../../ministeriele-regeling/drinkwaterregeling/BWBR0030152/README.md).   
+2.  De analyse van de monsters vindt plaats overeenkomstig [bijlage 4 van de Drinkwaterregeling](../../../ministeriele-regeling/drinkwaterregeling/BWBR0030152/README.md).  
 
 ### §  4  
 
@@ -200,11 +198,11 @@ c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrek
 
 In deze paragraaf wordt verstaan onder: 
 
-*vaarweg:* voor het openbaar verkeer met schepen openstaand water.    
+*vaarweg:* voor het openbaar verkeer met schepen openstaand water.   
 
 ### Artikel  6.7  
 
-Als gebieden als bedoeld in [artikel 6.16, tweede lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden aangewezen de gebieden die op de kaarten in bijlage IV bij deze regeling zijn opgenomen.  
+Als gebieden als bedoeld in [artikel 6.16, tweede lid, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), worden aangewezen de gebieden die op de kaarten in bijlage IV bij deze regeling zijn opgenomen. 
 
 ### §  4.1  
 
@@ -228,7 +226,7 @@ f. tijdens de activiteit of werkzaamheden het oppervlaktewaterlichaam of bijbeho
 
 g. bestaand gebruik op de desbetreffende locatie redelijkerwijs zo min mogelijk hinder ondervindt, en  
 
-h. het gebruikte materiaal en materieel tijdig wordt verwijderd bij zodanig hoog water dat overstroming of wegslag hiervan dreigt.    
+h. het gebruikte materiaal en materieel tijdig wordt verwijderd bij zodanig hoog water dat overstroming of wegslag hiervan dreigt.   
 
 ### Artikel  6.9  
 
@@ -246,11 +244,11 @@ e. geen hinderlijke uitstraling van verlichting voor het scheepvaartverkeer word
 
 f. geen open vuur of vuurwerk boven de vaarweg wordt aangestoken, en  
 
-g. geen werken of onderdelen daarvan, materiaal of materieel uit de damwand steken.    
+g. geen werken of onderdelen daarvan, materiaal of materieel uit de damwand steken.   
 
 ### Artikel  6.10  
 
-[Artikel 6.12, tweede lid, aanhef en onderdeel a, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op kanalen.  
+[Artikel 6.12, tweede lid, aanhef en onderdeel a, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) is niet van toepassing op kanalen. 
 
 ### §  4.2  
 
@@ -270,7 +268,7 @@ d. het plaatsen van een steiger, vlonder of aanmeervoorziening, inclusief de bij
 
 e. het plaatsen van informatieborden, informatiezuilen, reclameborden, reclamezuilen, sport- en speeltoestellen, gedenktekens, kunstobjecten, vlaggenmasten, tuin- en straatmeubilair of in aard en omvang hiermee vergelijkbare objecten, waarvoor geen of een beperkte fundering vereist is;  
 
-f. terreinophogingen van minder dan 50 m <sup>3</sup> per kadastraal perceel;  
+f. terreinophogingen van minder dan 50 m<sup>3</sup> per kadastraal perceel;  
 
 g. het plaatsen van visfuiken of visnetten;  
 
@@ -286,10 +284,10 @@ j. het plaatsen van kabels en leidingen mits:
 
 3°. deze niet aangelegd worden middels boring, waarbij lagen met verschillende stijghoogtes worden doorkruist;    
 
-k. onderzoeken die niet langer duren dan zes maanden, en  
+k. onderzoeken die niet langer duren dan zes maanden, en 
 
-l. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.     
-2.  Het bepaalde in het eerste lid, onderdelen d, e en g, is niet van toepassing op kanalen.   
+l. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.    
+2.  Het bepaalde in het eerste lid, onderdelen d, e en g, is niet van toepassing op kanalen.  
 
 ### Artikel  6.12  
 
@@ -303,19 +301,19 @@ c. het maken van zandbanketten op het strand ten behoeve van niet-permanente beb
 
 d. het oprichten en in stand houden van niet-permanente bebouwing in de periode van 1 april tot 1 oktober;  
 
-e. het verplaatsen van zand op het strand, anders dan bedoeld in onderdeel c, tot een hoeveelheid van maximaal 20m <sup>3</sup> per strekkende meter, en  
+e. het verplaatsen van zand op het strand, anders dan bedoeld in onderdeel c, tot een hoeveelheid van maximaal 20m<sup>3</sup> per strekkende meter, en  
 
-f. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.     
+f.  andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.    
 2.  Zandverplaatsingen als bedoeld in het eerste lid, onderdelen c en e, worden binnen één kalenderjaar niet gecombineerd uitgevoerd.   
-3.  De activiteiten, bedoeld in het eerste lid, worden uitgevoerd in de zone tussen de duinvoet en de laagwaterlijn.   
+3.  De activiteiten, bedoeld in het eerste lid, worden uitgevoerd in de zone tussen de duinvoet en de laagwaterlijn.  
 
 ### Artikel  6.12a  
 
-Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.14, tweede lid](../../../AMvB/waterbesluit/BWBR0026872/README.md), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) zijn: activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundig beheer.  
+Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.14, tweede lid](../../../AMvB/waterbesluit/BWBR0026872/README.md), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) zijn: activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundig beheer. 
 
 ### Artikel  6.13  
 
-De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), zijn de stroomvoerende delen van de wateren, bedoeld in bijlage VIII bij deze regeling.  
+De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), zijn de stroomvoerende delen van de wateren, bedoeld in bijlage VIII bij deze regeling. 
 
 ### §  4.3  
 
@@ -334,7 +332,7 @@ c. de aard en omvang van de activiteit of het werk, en
 
 d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats en ligging van de activiteit of het werk ten opzichte van de omgeving is aangegeven en die voorzien is van een noordpijl.     
 3.  De minister kan degene die een melding doet verzoeken om nadere informatie te verstrekken over de uit te voeren activiteit of het werk, om te kunnen bepalen of maatwerkvoorschriften moeten worden gesteld.   
-4.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
+4.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.  
 
 ### Artikel  6.15  
 
@@ -352,7 +350,7 @@ e. de mogelijkheden van het verplaatsen van het werk in verband met hoogwater, o
 
 f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.     
 2.  De overeenkomstig het eerste lid te stellen maatwerkvoorschriften leiden er niet toe dat de activiteit of het werk grotendeels of in het geheel geen doorgang kan vinden, tenzij die activiteit naar het oordeel van de beheerder ontoelaatbaar nadelige gevolgen heeft voor het betrokken waterstaatswerk.   
-3.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.   
+3.  Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.  
 
 ### §  5  
 
@@ -360,15 +358,15 @@ f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.
 
 ### Artikel  6.16  
 
-Het is verboden om zonder vergunning van de minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) meer dan 5000 m <sup>3</sup> water per uur te brengen in, of meer dan 100 m <sup>3</sup> water per uur te onttrekken aan een oppervlaktewaterlichaam in beheer bij het Rijk, indien: 
+Het is verboden om zonder vergunning van de minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) meer dan 5000 m<sup>3</sup> water per uur te brengen in, of meer dan 100 m<sup>3</sup> water per uur te onttrekken aan een oppervlaktewaterlichaam in beheer bij het Rijk, indien: 
 
 a. de instroomsnelheid meer bedraagt dan 0,3 m/s, of  
 
-b. de handeling plaatsvindt in samenhang met een activiteit waarvoor op grond van [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) een vergunning is vereist.    
+b. de handeling plaatsvindt in samenhang met een activiteit waarvoor op grond van [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) een vergunning is vereist.   
 
 ### Artikel  6.17  
 
-1.  Degene die water brengt in of onttrekt aan oppervlaktewaterlichamen in beheer bij het Rijk, waarvoor geen vergunning is vereist krachtens artikel 6.16, meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister indien op de voorgenomen wijze meer dan 5000 m <sup>3</sup> water per uur wordt ingebracht of meer dan 100 m <sup>3</sup> water per uur wordt onttrokken.   
+1.  Degene die water brengt in of onttrekt aan oppervlaktewaterlichamen in beheer bij het Rijk, waarvoor geen vergunning is vereist krachtens artikel 6.16, meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister indien op de voorgenomen wijze meer dan 5000 m<sup>3</sup> water per uur wordt ingebracht of meer dan 100 m<sup>3</sup> water per uur wordt onttrokken.   
 2.  Bij de melding worden de volgende gegevens verstrekt: 
 
 a. de naam, het adres, het telefoonnummer en het e-mailadres van degene die voornemens is het water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk;  
@@ -378,7 +376,7 @@ b. het tijdstip waarop met het inbrengen of onttrekken van water wordt begonnen 
 c. het doel, de in- of uitstroomsnelheid en omvang van het inbrengen of het onttrekken van water, en  
 
 d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats en ligging van het inbrengen of het onttrekken van water is aangegeven en die is voorzien van een noordpijl.     
-3.  Ten aanzien van het brengen dan wel onttrekken van water, bedoeld in het eerste lid, kan de minister maatwerkvoorschriften stellen ten aanzien van de locatie en de periode, mits deze er niet toe leiden dat het brengen of onttrekken van water geen doorgang kan vinden.   
+3.  Ten aanzien van het brengen dan wel onttrekken van water, bedoeld in het eerste lid, kan de minister maatwerkvoorschriften stellen ten aanzien van de locatie en de periode, mits deze er niet toe leiden dat het brengen of onttrekken van water geen doorgang kan vinden.  
 
 ### §  6  
 
@@ -386,10 +384,10 @@ d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats 
 
 ### Artikel  6.18  
 
-1.  Indien een aanvraag voor een watervergunning niet langs elektronische weg wordt ingediend, wordt gebruik gemaakt van een door Onze Minister vastgesteld formulier dat wordt gepubliceerd op en kan worden gedownload van www.omgevingsloket.nl. Het bevoegd gezag stelt op verzoek van de aanvrager het formulier aan hem ter beschikking.   
-2.  Een aanvraag voor een watervergunning langs elektronische wijze wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht.   
-3.  Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.   
-4.  Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening is het bevoegd gezag verantwoordelijk in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+1.   Indien een aanvraag voor een watervergunning niet langs elektronische weg wordt ingediend, wordt gebruik gemaakt van een door Onze Minister vastgesteld formulier dat wordt gepubliceerd op en kan worden gedownload van www.omgevingsloket.nl. Het bevoegd gezag stelt op verzoek van de aanvrager het formulier aan hem ter beschikking.  
+2. Een aanvraag voor een watervergunning langs elektronische wijze wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht.
+3. Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.
+4. Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening is het bevoegd gezag verantwoordelijk in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
 
 ### Artikel  6.19  
 
@@ -415,7 +413,7 @@ e. de periode waarvoor vergunning wordt gevraagd;
 
 f. indien de handeling wordt uitgevoerd door een ander dan de aanvrager: zijn naam, adres, woonplaats en telefoonnummer, alsmede zijn e-mailadres;  
 
-g. indien de aanvraag wordt ingediend door een gemachtigde: zijn naam, adres, woonplaats en telefoonnummer, alsmede het e-mailadres van de gemachtigde indien de aanvraag met een elektronisch formulier wordt ingediend.    
+g. indien de aanvraag wordt ingediend door een gemachtigde: zijn naam, adres, woonplaats en telefoonnummer, alsmede het e-mailadres van de gemachtigde indien de aanvraag met een elektronisch formulier wordt ingediend.   
 
 ### Artikel  6.20  
 
@@ -428,7 +426,7 @@ b. scans: TIFF, JPG, PDF/A-1a, PDF/A-1b en PDF 1.4;
 c. officedocumenten: PDF/A-1a en PDF 1.4;  
 
 d. tekeningen: PDF/X en PDF 1.4.     
-2.  Indien de bestanden langs elektronische weg worden aangeleverd, worden deze uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt.   
+2.  Indien de bestanden langs elektronische weg worden aangeleverd, worden deze uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt. 
 
 ### Artikel  6.21  
 
@@ -456,11 +454,11 @@ j. een beschrijving van de wijze waarop de lozing wordt vastgesteld en geregistr
 
 k. een opgave van de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen met betrekking tot de lozing die voor de beslissing op de aanvraag van belang kunnen zijn, en  
 
-l. een niet-technische samenvatting van de in dit artikel bedoelde gegevens.    
+l. een niet-technische samenvatting van de in dit artikel bedoelde gegevens.   
 
 ### Artikel  6.22  
 
-Indien de exploitatie van een installatie, van waaruit de lozing waarvoor de vergunning wordt aangevraagd plaatsvindt, belangrijke nadelige gevolgen voor het milieu in een andere lidstaat van de Europese Unie kan veroorzaken, dan wel indien een andere lidstaat van de Europese Unie die belangrijke nadelige gevolgen voor het milieu van de exploitatie van een installatie kan ondervinden daarom verzoekt, verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende stukken aan de betreffende lidstaat op het tijdstip waarop daarvan in Nederland kennis wordt gegeven dan wel op het tijdstip waarop de aanvraag met de daarbij behorende stukken in Nederland ter inzage wordt gelegd.  
+Indien de exploitatie van een installatie, van waaruit de lozing waarvoor de vergunning wordt aangevraagd plaatsvindt, belangrijke nadelige gevolgen voor het milieu in een andere lidstaat van de Europese Unie kan veroorzaken, dan wel indien een andere lidstaat van de Europese Unie die belangrijke nadelige gevolgen voor het milieu van de exploitatie van een installatie kan ondervinden daarom verzoekt, verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende stukken aan de betreffende lidstaat op het tijdstip waarop daarvan in Nederland kennis wordt gegeven dan wel op het tijdstip waarop de aanvraag met de daarbij behorende stukken in Nederland ter inzage wordt gelegd. 
 
 ### Artikel  6.23  
 
@@ -470,7 +468,7 @@ a. een omschrijving van de locatie van herkomst en de beoogde verspreidingslocat
 
 b. een karakterisering naar aard, samenstelling, eigenschappen en hoeveelheid van de stoffen;  
 
-c. een omschrijving van het onderzoeksprotocol en de onderzoeksstrategie als bedoeld in NEN 5720.    
+c. een omschrijving van het onderzoeksprotocol en de onderzoeksstrategie als bedoeld in NEN 5720.   
 
 ### Artikel  6.24  
 
@@ -482,7 +480,7 @@ b. een toelichtende tekening met het ontwerp en de afmetingen van het werk, of h
 
 c. een boorplan in het geval een waterstaatswerk wordt gekruist door een HDD-boring, en  
 
-d. een stabiliteitsberekening van de kade of waterkering.    
+d. een stabiliteitsberekening van de kade of waterkering.   
 
 ### Artikel  6.25  
 
@@ -490,7 +488,7 @@ Indien een aanvraag als bedoeld in artikel 6.24 betrekking heeft op werkzaamhede
 
 a. een opgave van de hoeveelheid te verwijderen materiaal, en  
 
-b. een aanduiding van het totaal te baggeren oppervlak in m <sup>2</sup>.    
+b. een aanduiding van het totaal te baggeren oppervlak in m<sup>2</sup>.   
 
 ### Artikel  6.26  
 
@@ -498,7 +496,7 @@ Indien een aanvraag als bedoeld in artikel 6.24 betrekking heeft op het gebruik 
 
 a. een beschrijving van de gevolgen voor rechtmatig gebruik van de zee door derden, en  
 
-b. een oprichtings- en inrichtingsplan, waarin wordt ingegaan op het onderhoud van het werk, veiligheidswaarborgen, verlichtingsmaatregelen, maatregelen ter voorkoming en beperking van calamiteiten, en de wijze waarop verwijdering van de installatie zal plaatsvinden.    
+b. een oprichtings- en inrichtingsplan, waarin wordt ingegaan op het onderhoud van het werk, veiligheidswaarborgen, verlichtingsmaatregelen, maatregelen ter voorkoming en beperking van calamiteiten, en de wijze waarop verwijdering van de installatie zal plaatsvinden.   
 
 ### Artikel  6.27  
 
@@ -514,11 +512,11 @@ d. de diepte van de onderkant en de bovenkant van de filters van iedere put ten 
 
 e. de diameter en de lengte van de filters in iedere put;  
 
-f. de pompcapaciteit in m <sup>3</sup> per uur en het te installeren vermogen in m <sup>3</sup> per uur per put;  
+f. de pompcapaciteit in m<sup>3</sup> per uur en het te installeren vermogen in m<sup>3</sup> per uur per put;  
 
 g. de maximaal te onttrekken hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar, en  
 
-h. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de onttrekking te voorkomen of te beperken.    
+h. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de onttrekking te voorkomen of te beperken.   
 
 ### Artikel  6.28  
 
@@ -532,7 +530,7 @@ c. de diepte van de onderkant en de bovenkant van de filters van iedere put ten 
 
 d. de diameter en de lengte van de filters in iedere put;  
 
-e. de pompcapaciteit in m <sup>3</sup> per uur;  
+e. de pompcapaciteit in m<sup>3</sup> per uur;  
 
 f. de maximaal te infiltreren hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar;  
 
@@ -540,13 +538,13 @@ g. de wijze waarop water wordt geïnfiltreerd;
 
 h. de herkomst en de samenstelling van het te infiltreren water, en  
 
-i. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de infiltratie te voorkomen of te beperken.    
+i. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de infiltratie te voorkomen of te beperken.   
 
 ### Artikel  6.29  
 
-1.  Indien een aanvraag voor een vergunning betrekking heeft op het onttrekken van grondwater of het brengen van water in de bodem ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden onverminderd het bepaalde in de artikelen 6.27 en 6.28, de volgende gegevens verstrekt: 
+1. Indien een aanvraag voor een vergunning betrekking heeft op het onttrekken van grondwater of het brengen van water in de bodem ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden onverminderd het bepaalde in de artikelen 6.27 en 6.28, de volgende gegevens verstrekt: 
 
-a. de capaciteit van de pomp waarmee het water in de bodem wordt gebracht in m <sup>3</sup> per uur;  
+a. de capaciteit van de pomp waarmee het water in de bodem wordt gebracht in m<sup>3</sup> per uur;  
 
 b. de maximaal in de bodem te brengen hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar;  
 
@@ -560,9 +558,9 @@ f. de minimum-, gemiddelde en maximumtemperaturen van het in de bodem te brengen
 
 g. de omvang van de behoefte aan warmte en koude waarin het bodemenergiesysteem voorziet, en  
 
-h. het energierendement, uitgedrukt als de Seasonal Performance Factor (SPF), dat het bodemenergiesysteem zal behalen bij voorzien gebruik van het bouwwerk overeenkomstig de bestemming waarvoor het systeem is ontworpen, blijkend uit een schriftelijke verklaring van de installateur.     
-2.  Bij de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel h, over het energierendement dat een open bodemenergiesysteem bij de levering van warmte of koude aan een bouwwerk behaalt, wordt het energierendement bepaald overeenkomstig de volgende formule:   ![252268](http://wetten.overheid.nl/Illustration/252268)
-waarbij wordt verstaan onder: *Q <sub>w</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid warmte per jaar in MWh; *Q <sub>k</sub>*: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid koude per jaar in MWh; *E*: de door het bodemenergiesysteem verbruikte hoeveelheid elektriciteit per jaar in MWh; *G*: de door het bodemenergiesysteem verbruikte hoeveelheid gas per jaar in MWh.   
+h. het energierendement, uitgedrukt als de Seasonal Performance Factor (SPF), dat het bodemenergiesysteem zal behalen bij voorzien gebruik van het bouwwerk overeenkomstig de bestemming waarvoor het systeem is ontworpen, blijkend uit een schriftelijke verklaring van de installateur.   
+2.  Bij de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel h, over het energierendement dat een open bodemenergiesysteem bij de levering van warmte of koude aan een bouwwerk behaalt, wordt het energierendement bepaald overeenkomstig de volgende formule: ![252268](http://wetten.overheid.nl/Illustration/252268)
+waarbij wordt verstaan onder:  *Q<sub>w</sub> * : de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid warmte per jaar in MWh;  *Q<sub>k</sub> *: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid koude per jaar in MWh;  *E*: de door het bodemenergiesysteem verbruikte hoeveelheid elektriciteit per jaar in MWh;  *G*: de door het bodemenergiesysteem verbruikte hoeveelheid gas per jaar in MWh. 
 
 ### Artikel  6.30  
 
@@ -572,7 +570,7 @@ a. een onderbouwing van de noodzaak tot het brengen van water in een oppervlakte
 
 b. een beschrijving en toelichtende tekening van de in- en uitstroomvoorzieningen waaronder een opgave van de pompcapaciteit, de afmetingen en de ligging, en  
 
-c. een aanduiding van de maximaal te onttrekken of te lozen waterhoeveelheden in m <sup>3</sup> per uur, te onderscheiden naar perioden.    
+c. een aanduiding van de maximaal te onttrekken of te lozen waterhoeveelheden in m<sup>3</sup> per uur, te onderscheiden naar perioden.   
 
 ### Hoofdstuk  7  
 
@@ -594,19 +592,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 *gesloten meetsysteem:* meetsysteem dat het debiet meet in een gesloten leiding of in een gesloten drukleiding, waarbij het afvalwater niet in contact staat met de buitenlucht;  
 
-*open meetsysteem:* meetsysteem waarbij het oppervlak van het stromende afvalwater in contact staat met de buitenlucht.    
+*open meetsysteem:* meetsysteem waarbij het oppervlak van het stromende afvalwater in contact staat met de buitenlucht.   
 
 ### Artikel  7.2  
 
 1.  Het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik, VeO, wordt berekend door de som van het aantal gedurende elk etmaal van het heffingsjaar afgevoerde hoeveelheden zuurstofverbruik, uitgedrukt in kilogrammen, te delen door 54,8 kilogram.   
-2.  De gedurende een etmaal afgevoerde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule:   ![245797](http://wetten.overheid.nl/Illustration/245797)
-waarbij: Q = het debiet in m <sup>3</sup> /etmaal; CZV = het chemisch zuurstofverbruik bepaald volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l; N <sub>Kj</sub> = de som van ammonium-stikstof en organisch gebonden stikstof, bepaald volgens de in artikel 7.16 vermelde analysevoorschriften, in mg/l.   
-3.  Indien de CZV-waarde voor ten minste 25% afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen in het afvalwater, wordt op die waarde een correctie toegepast door deze te vermenigvuldigen met de breuk   ![245798](http://wetten.overheid.nl/Illustration/245798)
+2.  De gedurende een etmaal afgevoerde hoeveelheid zuurstofverbruik, uitgedrukt in kilogrammen, wordt berekend volgens de formule: ![245797](http://wetten.overheid.nl/Illustration/245797)
+waarbij: Q = het debiet in m<sup>3</sup>/etmaal; CZV = het chemisch zuurstofverbruik bepaald volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l; N<sub>Kj</sub> = de som van ammonium-stikstof en organisch gebonden stikstof, bepaald volgens de in artikel 7.16 vermelde analysevoorschriften, in mg/l.   
+3.  Indien de CZV-waarde voor ten minste 25% afkomstig is van biologisch niet of nagenoeg niet afbreekbare stoffen in het afvalwater, wordt op die waarde een correctie toegepast door deze te vermenigvuldigen met de breuk ![245798](http://wetten.overheid.nl/Illustration/245798)
 waarbij: T = het percentage CZV, afkomstig van biologisch niet of nagenoeg niet afbreekbare stoffen. T wordt berekend bij: 
 
 a. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen, vanuit een inrichting, in gebruik bij een provincie, een gemeente, een waterschap of een ander openbaar lichaam of het brengen van zuurstofbindende stoffen met biochemisch zuurstofverbruik van niet meer dan 20 mg/l vanuit een bedrijfsruimte als bedoeld in [artikel 7.1, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md), met behulp van de methode van het biochemisch zuurstofverbruik na vijf dagen, volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l;  
 
-b. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen in andere dan de onder a bedoelde gevallen met behulp van een andere toereikende bepalingsmethode.     
+b. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen in andere dan de onder a bedoelde gevallen met behulp van een andere toereikende bepalingsmethode.    
 
 ### Artikel  7.3  
 
@@ -615,13 +613,13 @@ b. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen in ande
 a. 1,00 kilogram voor de groep van stoffen chroom, koper, lood, nikkel en zink;  
 
 b. 0,100 kilogram voor de groep van stoffen arseen, cadmium en kwik.     
-2.  De gedurende een etmaal afgevoerde gewichtshoeveelheden stoffen arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink, uitgedrukt in kilogrammen, wordt berekend volgens de formule:   ![245799](http://wetten.overheid.nl/Illustration/245799)
-waarbij: Q = het debiet in m <sup>3</sup> /etmaal; c = de concentratie van respectievelijk de stoffen arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink, bepaald volgens de in artikel 7.4 van deze regeling vermelde analysevoorschriften in mg/l.   
+2.  De gedurende een etmaal afgevoerde gewichtshoeveelheden stoffen arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink, uitgedrukt in kilogrammen, wordt berekend volgens de formule: ![245799](http://wetten.overheid.nl/Illustration/245799)
+waarbij: Q = het debiet in m<sup>3</sup>/etmaal; c = de concentratie van respectievelijk de stoffen arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink, bepaald volgens de in artikel 7.4 van deze regeling vermelde analysevoorschriften in mg/l.  
 
 ### Artikel  7.4  
 
-Voor de berekening van de frequentie van meting, bemonstering en analyse als bedoeld in [artikel 7.5, eerste en tweede lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) wordt gebruik gemaakt van de volgende formule:   ![245800](http://wetten.overheid.nl/Illustration/245800)
-waarbij: n = het berekende aantal meetdagen tso = toelaatbare statische onnauwkeurigheid = 35/e ^0,000175*VeO, met dien verstande dat VeO vervangen kan worden door respectievelijk VeZ en VeG, waarbij VeO = vervuilingswaarde met betrekking tot het zuurstofverbruik in een jaar van de in de oppervlaktelichamen geloosde stoffen. Onder VeG respectievelijk VeZ wordt verstaan de vervuilingswaarde in een jaar van de in de oppervlaktewaterlichamen geloosde stoffen met betrekking tot de gewichtshoeveelheden van de stoffen chroom, koper, lood, nikkel en zink respectievelijk van de stoffen arseen, cadmium en kwik; N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen wordet geloosd; σ = spreidingspercentage in de meetwaarden, uitgedrukt ten opzichte van het gemiddelde van de hoeveelheden zuurstofverbruik van de afgevoerde stoffen in de etmalen waarop gedurende het heffingsjaar onderzoek heeft plaatsgehad.  
+Voor de berekening van de frequentie van meting, bemonstering en analyse als bedoeld in [artikel 7.5, eerste en tweede lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) wordt gebruik gemaakt van de volgende formule: ![245800](http://wetten.overheid.nl/Illustration/245800)
+waarbij: n = het berekende aantal meetdagen tso = toelaatbare statische onnauwkeurigheid = 35/e ^0,000175*VeO, met dien verstande dat VeO vervangen kan worden door respectievelijk VeZ en VeG, waarbij VeO = vervuilingswaarde met betrekking tot het zuurstofverbruik in een jaar van de in de oppervlaktelichamen geloosde stoffen. Onder VeG respectievelijk VeZ wordt verstaan de vervuilingswaarde in een jaar van de in de oppervlaktewaterlichamen geloosde stoffen met betrekking tot de gewichtshoeveelheden van de stoffen chroom, koper, lood, nikkel en zink respectievelijk van de stoffen arseen, cadmium en kwik; N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen wordet geloosd; σ = spreidingspercentage in de meetwaarden, uitgedrukt ten opzichte van het gemiddelde van de hoeveelheden zuurstofverbruik van de afgevoerde stoffen in de etmalen waarop gedurende het heffingsjaar onderzoek heeft plaatsgehad. 
 
 ### Artikel  7.5  
 
@@ -665,7 +663,7 @@ d. het heffingsjaar of de heffingsjaren, ten aanzien waarvan dat besluit van toe
 
 a. de besluiten, bedoeld in het tweede en zesde lid, wijzigen of intrekken, in verband met het bepaalde in het eerste lid;  
 
-b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit artikel 7.4 leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.     
+b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit artikel 7.4 leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.    
 
 ### Artikel  7.6  
 
@@ -679,12 +677,12 @@ c. worden regelmatig schoongemaakt, en
 
 d. zijn altijd veilig toegankelijk.     
 2.  De bemonsteringsvoorzieningen zijn ondergebracht in een afsluitbare ruimte of kast.   
-3.  De heffingplichtige brengt de wijze van debietmeting en bemonstering met een beschrijving van de daarvoor te gebruiken apparatuur, voor aanvang van het heffingsjaar, ter kennis aan de heffingsambtenaar.   
+3.  De heffingplichtige brengt de wijze van debietmeting en bemonstering met een beschrijving van de daarvoor te gebruiken apparatuur, voor aanvang van het heffingsjaar, ter kennis aan de heffingsambtenaar.  
 
 ### Artikel  7.7  
 
 1.  Het debiet wordt in de afvalwaterstroom gemeten.   
-2.  In afwijking van het eerste lid kan het debiet worden bepaald op basis van meting van de hoeveelheid water in het watertoevoersysteem van het bedrijf of van de bedrijfsonderdelen. De per etmaal afgevoerde hoeveelheid afvalwater is niet groter dan de in dezelfde periode toegevoerde hoeveelheid water.   
+2.  In afwijking van het eerste lid kan het debiet worden bepaald op basis van meting van de hoeveelheid water in het watertoevoersysteem van het bedrijf of van de bedrijfsonderdelen. De per etmaal afgevoerde hoeveelheid afvalwater is niet groter dan de in dezelfde periode toegevoerde hoeveelheid water.  
 
 ### Artikel  7.8  
 
@@ -697,7 +695,7 @@ b. momentane debieten in het etmaal, gemeten bij overstorthoogten van minder dan
 3.  Bij toepassing van een meetgoot bedragen de momentane debieten in het etmaal, van minder dan 16,4% van het maximaal mogelijk momentane debiet, gesommeerd, minder dan 10% van het gemeten debiet.   
 4.  De apparatuur voor de hoogtemeting wordt ten minste éénmaal per jaar bij overstorthoogten van 5, 10, 15, 20 en 25 centimeter droog gekalibreerd.   
 5.  In het kalibratierapport wordt voor elke overstorthoogte een vergelijking gemaakt tussen de gemeten hoeveelheid afvalwater gedurende de periode van het kalibreren, en de bij de desbetreffende overstorthoogte met behulp van de afvoerrelatie van de meetvoorziening berekende hoeveelheid afvalwater over de periode van het kalibreren. Zowel het absolute als het procentuele verschil wordt hierbij aangegeven.   
-6.  Bij ultrasone hoogtemeting wordt ook de temperatuurmeting en de temperatuurcorrectie gecontroleerd en gecorrigeerd bij afwijking.   
+6.  Bij ultrasone hoogtemeting wordt ook de temperatuurmeting en de temperatuurcorrectie gecontroleerd en gecorrigeerd bij afwijking.  
 
 ### Artikel  7.9  
 
@@ -710,7 +708,7 @@ a. het controleren van de meetversterker en het registeren en corrigeren van afw
 b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de meetbuis op vervuiling waarbij de in de meetbuis aanwezige vervuiling wordt daarbij verwijderd.     
 4.  De meetapparatuur wordt ten minste éénmaal voor 1 januari 2014 nat gekalibreerd in ingebouwde toestand en daarna ten minste éénmaal per vijf jaar.   
 5.  Voor debietmeters in mobiele meetapparatuur vindt de natte kalibratie in ingebouwde toestand plaats op een door het Nederlands Meetinstituut of een daarmee vergelijkbare instelling gecertificeerde installatie.   
-6.  Van een debietmeter wordt het meest recente kalibratierapport overgelegd.   
+6.  Van een debietmeter wordt het meest recente kalibratierapport overgelegd.  
 
 ### Artikel  7.10  
 
@@ -718,19 +716,19 @@ b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de me
 2.  Het bemonsteringsinterval wordt zodanig ingesteld dat een etmaalverzamelmonster wordt verkregen dat bestaat uit ten minste 100 deelmonsters.   
 3.  Het volume per deelmonster wordt zodanig ingesteld dat de herhaalbaarheid maximaal 5% van het ingestelde volume bedraagt. Bij vacuümmonstername-apparatuur bedraagt het volume per deelmonster minimaal 50 milliliter. Bij ‘in-line’-bemonstering bedraagt het volume per deelmonster minimaal 20 milliliter en wordt een etmaalverzamelmonster verkregen dat bestaat uit ten minste 250 deelmonsters.   
 4.  Het monsterverzamelvat heeft een zodanige inhoud dat het vat gedurende het etmaal niet overloopt.   
-5.  Zowel het monsterverzamelvat als andere onderdelen van de monstername-apparatuur die met het afvalwater in aanraking komen, zijn gemaakt van gemakkelijk te reinigen, inert materiaal, dat de uit te voeren analyse niet beïnvloedt. Het monsterverzamelvat kan gemakkelijk uitgenomen worden en is uitgevoerd als emmer of als vat met een wijde hals zodat met een monsterschep gemakkelijk kan worden geroerd en geschept. Tijdens het etmaal is het monsterverzamelvat afgesloten met een goed afsluitende deksel.   
+5.  Zowel het monsterverzamelvat als andere onderdelen van de monstername-apparatuur die met het afvalwater in aanraking komen, zijn gemaakt van gemakkelijk te reinigen, inert materiaal, dat de uit te voeren analyse niet beïnvloedt. Het monsterverzamelvat kan gemakkelijk uitgenomen worden en is uitgevoerd als emmer of als vat met een wijde hals zodat met een monsterschep gemakkelijk kan worden geroerd en geschept. Tijdens het etmaal is het monsterverzamelvat afgesloten met een goed afsluitende deksel.  
 
 ### Artikel  7.11  
 
 1.  Het aanzuigpunt van een open meetsysteem bevindt zich zo dicht mogelijk stroomafwaarts van de obstructie. Op het aanzuigpunt stroomt het afvalwater turbulent.   
 2.  Bij gebruik van vacuümmonstername-apparatuur is de aanzuigleiding zo kort mogelijk en onder afschot gelegd. De aanzuigleiding is beschermd tegen bevriezing en direct zonlicht. In de aanzuigleiding bevinden zich geen knikken of overbodige bochten. Het aanzuigpunt bevindt zich onder het vloeistofoppervlak.   
 3.  De diameter van alle doorstroomde delen van de monstername-apparatuur van het aanzuigpunt tot het punt waar het monster wordt afgeleverd in het monsterverzamelvat bedraagt minimaal 13 millimeter. Bij gebruik van vacuümmonstername-apparatuur bedraagt de gemiddelde aanzuigsnelheid minimaal 0,3 meter per seconde.   
-4.  Bij het afvoeren van het deelmonster naar het monsterverzamelvat wordt voorkomen dat het monster wordt belucht.   
+4.  Bij het afvoeren van het deelmonster naar het monsterverzamelvat wordt voorkomen dat het monster wordt belucht.  
 
 ### Artikel  7.12  
 
 1.  Bij bemonstering met behulp van ‘in-line’-monstername-apparatuur bevindt het bemonsteringspunt zich niet in een bocht of een vernauwing in de leiding. Indien het te bemonsteren afvalwater wordt afgevoerd met behulp van een pomp dan bevindt het bemonsteringspunt zich aan de perszijde van deze pomp.   
-2.  Als een gesloten meetsysteem wordt gecombineerd met vacuümmonstername-apparatuur bevindt het aanzuigpunt zich op het punt waar de gesloten leiding uitmondt in een open afvoersysteem of er is vanuit de gesloten leiding een aftakking gemaakt, uitmondend in een doorstroomd buffervat waaruit wordt bemonsterd. De stroomsnelheid van het afvalwater in de aftakking is in dat geval ten minste gelijk aan die in de hoofdleiding.   
+2.  Als een gesloten meetsysteem wordt gecombineerd met vacuümmonstername-apparatuur bevindt het aanzuigpunt zich op het punt waar de gesloten leiding uitmondt in een open afvoersysteem of er is vanuit de gesloten leiding een aftakking gemaakt, uitmondend in een doorstroomd buffervat waaruit wordt bemonsterd. De stroomsnelheid van het afvalwater in de aftakking is in dat geval ten minste gelijk aan die in de hoofdleiding.  
 
 ### Artikel  7.13  
 
@@ -738,7 +736,7 @@ b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de me
 2.  Bemonsteringsbenodigdheden die in aanraking komen met het afvalwater zijn gemaakt van eenvoudig te reinigen inert materiaal dat de later uit te voeren analyses niet beïnvloedt.   
 3.  De monsters uit het etmaalverzamelmonster zijn binnen een uur na afloop van het etmaal genomen.   
 4.  De monsters worden met een voldoende grote monsterschep genomen. De gehele inhoud van het monsterverzamelvat wordt elke keer, voordat geschept wordt, zodanig geroerd worden dat al het eventueel bezonken materiaal wordt opgemengd. Daarbij wordt de monsterlepel afwisselend links- en rechtsom geroerd.   
-5.  De monsterflessen bestemd voor analyse door de heffingplichtige en voor contra-analyse vanwege de heffingsambtenaar moeten om en om gevuld worden.   
+5.  De monsterflessen bestemd voor analyse door de heffingplichtige en voor contra-analyse vanwege de heffingsambtenaar moeten om en om gevuld worden.  
 
 ### Artikel  7.14  
 
@@ -754,16 +752,16 @@ b. het uitbouwen van de flowmeter en het controleren van de binnenkant van de me
 | T ≤ -18°  | Invriezen  | 72 uur  |
 | Chemisch zuurstof-verbruik (CZV)  | 0 < T ≤ 4°  | Koelen  | 48 uur  |
 | --- | --- | --- |
-| 0 < T ≤ 4°  | Aanzuren met geconcentreerd H <sub>2</sub> SO <sub>4</sub> (18M) tot pH < 2  | 5 dagen  |
+| 0 < T ≤ 4°  | Aanzuren met geconcentreerd H<sub>2</sub>SO<sub>4</sub> (18M) tot pH < 2  | 5 dagen  |
 | --- | --- | --- |
 | T ≤ -18°  | Invriezen  | 5 dagen  |
 | Kjeldahlstikstof (N-Kj)  | 0 < T ≤ 4°  | Koelen  | 48 uur  |
 | --- | --- | --- |
-| 0 < T ≤ 4°  | Aanzuren met geconcentreerd H <sub>2</sub> SO <sub>4</sub> (18M) tot pH < 2  | 5 dagen  |
+| 0 < T ≤ 4°  | Aanzuren met geconcentreerd H<sub>2</sub>SO<sub>4</sub> (18M) tot pH < 2  | 5 dagen  |
 | --- | --- | --- |
 | T ≤ -18°  | Invriezen  | 5 dagen  |
-| Cadmium, arseen, chroom, koper, lood, nikkel, zilver en zink  | 0 < T ≤ 4°  | Aanzuren met HNO <sub>3</sub> (15M) tot pH < 2  | 1 maand  |
-| Kwik (Hg)  | 0 < T ≤ 4°  | Aanzuren met HNO <sub>3</sub> (15M) tot pH < 2 en minimaal 0,5 g K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> per liter toevoegen  | 1 maand  |
+| Cadmium, arseen, chroom, koper, lood, nikkel, zilver en zink  | 0 < T ≤ 4°  | Aanzuren met HNO<sub>3</sub> (15M) tot pH < 2  | 1 maand  |
+| Kwik (Hg)  | 0 < T ≤ 4°  | Aanzuren met HNO<sub>3</sub> (15M) tot pH < 2 en minimaal 0,5 g K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> per liter toevoegen  | 1 maand  |
 
 ### Artikel  7.15  
 
@@ -808,24 +806,24 @@ c. indien de concentratie voor één of meer van de stoffen cadmium, chroom, kop
 ### Artikel  8.1  
 
 1.  Van een vergunning als bedoeld in [artikel 20 van de Uitvoeringsregeling waterhuishouding](../../../AMvB/uitvoeringsregeling/waterhuishouding/BWBR0004778/README.md) die voor het tijdstip van inwerkingtreding van artikel 6.16 en 6.17 onherroepelijk is, worden voor handelingen als bedoeld in artikel 6.17, eerste lid, de voorschriften van die vergunning aangemerkt als maatwerkvoorschriften gesteld krachtens artikel 6.17, derde lid, voor zover die voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften krachtens dat artikel.   
-2.  Het eerste lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig [artikel 2.29 van de Invoeringswet Waterwet](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) is verleend en onherroepelijk is geworden.   
+2.  Het eerste lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig [artikel 2.29 van de Invoeringswet Waterwet](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) is verleend en onherroepelijk is geworden.  
 
 ### Artikel  8.2  
 
-Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van artikel 6.18, tweede, derde en vierde lid, dat in werking treedt met ingang van 10 oktober 2011.  
+Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van artikel 6.18, tweede, derde en vierde lid, dat in werking treedt met ingang van 10 oktober 2011. 
 
 ### Artikel  8.3  
 
-Deze regeling wordt aangehaald als: Waterregeling.  
+Deze regeling wordt aangehaald als: Waterregeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen II, III, IV en IX die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa 
+J.C. Huizinga-Heringa   
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
 ### Bijlage  I  
 
@@ -857,113 +855,19 @@ J.M.Cramer
 
 ####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij artikel 3.2, eerste lid , en 3.3  van de Waterregeling)
 
-Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl. 
 
 ### Bijlage  III  
 
 ####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij artikel 3.2, tweede lid , van de Waterregeling)
 
-Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl. 
 
 ### Bijlage  IV  
 
 ####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert (bijlage bij artikel 3.2, derde lid , en artikel 6.7  van de Waterregeling)
 
-Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl.  
-
-### Bijlage  VI  
-
-####Voorschriften voor het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de resultaten daarvan (bijlage bij artikel 6.3  van de Waterregeling)
-
-### Voorschrift  1  
-
-####Wijze van bemonsteren en analyseren
-
-a. De plaats van bemonstering wordt daar gekozen, waar een zo representatief mogelijk beeld van de concentraties van de te bepalen parameters in het te zuiveren onderscheidenlijk het te lozen stedelijk afvalwater kan worden verkregen. Het door het zuiveringtechnisch werk te zuiveren stedelijk afvalwater wordt volumeproportioneel over 24 uur bemonsterd. Het te lozen stedelijk afvalwater kan tijdproportioneel worden bemonsterd. Ingeval het een zuiveringtechnisch werk met een ontwerpcapaciteit van meer dan 100000 i.e. betreft, geschiedt bemonstering van het te lozen stedelijk afvalwater volumeproportioneel over 24 uur. Onder het te zuiveren stedelijk afvalwater wordt hier verstaan het aangevoerde stedelijk afvalwater vóór eventuele vermenging met één of meer deelstromen die bij het zuiveringsproces vrijkomen en op het zuiveringtechnisch werk moeten worden teruggevoerd.  
-
-b. Het minimum aantal monsters per maand wordt vastgesteld naar gelang de grootte van het zuiveringstechnisch werk en wordt gedurende de maand met geregelde tussenpozen genomen: 
-
-1°. met betrekking tot de vaststelling van de per zuiveringtechnisch werk geloosde hoeveelheid totaal-fosfaat of totaal-stikstof:  
-
-| --- | --- |
-|:---|:---|
-| – 2000 tot 4999 i.e.:  | minimaal 1 per maand  |
-| – 5000 tot 49999 i.e.:  | minimaal 2 per maand  |
-| – 50000 tot en met 100000 i.e.:  | minimaal 4 per maand  |
-| – meer dan 100000 i.e.:  | minimaal 5 per maand  |
-
-2°. met betrekking tot de vaststelling van het biochemisch zuurstofverbruik gedurende vijf dagen (BZV <sub>5</sub>) of chemisch zuurstofverbruik (CZV) en de geloosde hoeveelheid onopgeloste bestanddelen:  
-
-| --- | --- |
-|:---|:---|
-| – 2000 tot 9999 i.e.:  | minimaal 1 per maand in het eerste jaar  |
-| --- | na het eerste jaar:  |
-| --- | – indien de monsters aan de grenswaarden, genoemd in [artikel 6.3, eerste lid, van het Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) voldoen: 1 monster per 3 maanden  |
-| --- | – indien één monster niet aan de grenswaarden, genoemd in [artikel 6.3, eerste lid, van het Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md) voldoet, wordt 1 monster per maand genomen in het daarop volgende jaar  |
-| – 10000 tot 49999 i.e.:  | minimaal 1 per maand  |
-| – 50000 i.e. of meer:  | minimaal 2 per maand  |
-
-c. Er worden goede internationale laboratoriumpraktijken toegepast, die gericht zijn op een zo gering mogelijke achteruitgang van het monster tussen de monsterneming en de analyse.  
-
-d. Etmaalmonsters worden individueel geanalyseerd. De chemische analyses worden uitgevoerd volgens de op de desbetreffende parameter van toepassing zijnde methoden, opgenomen in de hieronder genoemde, door het Nederlands Normalisatie-instituut uitgegeven, normbladen (NEN-normen). De hieronder aangegeven verwijzing naar een NEN-norm heeft betrekking op de laatst uitgegeven NEN-norm met de daarop uitgegeven aanvullingen en correctiebladen. Een uitgegeven aanvulling respectievelijk correctieblad wordt eerst van toepassing op 1 januari van het jaar volgende op dat waarin de uitgifte heeft plaatsgevonden.  
-
-| --- | --- |
-|:---|:---|
-| BZV <sub>5</sub>  | NEN 6634  |
-| CZV  | NEN 6633  |
-| onopgeloste bestanddelen  | NEN 6621  |
-| totaal-fosfaat  | NEN 6663  |
-| Kjeldahl-N  | NEN-ISO 5663 (EN 25663)  |
-| NO <sub>2</sub> -N  | NEN 6653  |
-| NO <sub>3</sub> -N  | NEN 6652  |
-
-e. Indien op grond van metingen aangetoond kan worden, dat in het te zuiveren stedelijk afvalwater het gehalte aan nitriet- en nitraatstikstof voortdurend zeer gering is (minder dan 1%) ten opzichte van het gehalte aan Kjeldahlstikstof, dan kan voor het te zuiveren stedelijk afvalwater worden volstaan met de meting van het gehalte aan Kjeldahlstikstof.    
-
-### Voorschrift  2  
-
-####Beoordeling van de resultaten
-
-a. Het te lozen stedelijk afvalwater wordt geacht te voldoen aan de eisen betreffende relevante parameters indien voor iedere relevante parameter afzonderlijk uit monsters van het stedelijk afvalwater blijkt dat het als volgt voldoet aan de relevante parameterwaarde. 
-
-1°. Voor het biochemisch zuurstofverbruik gedurende vijf dagen (BZV5), het chemisch zuurstofverbruik (CZV) en de totale hoeveelheid onopgeloste bestanddelen, wijken niet meer monsters af van de grenswaarde, bedoeld in [artikel 6.5, eerste lid van het Waterbesluit](../../../AMvB/waterbesluit/BWBR0026872/README.md), behorende bij de betrokken parameter, dan het in tabel 2.1 van deze bijlage opgenomen maximale aantal monsters.  Tabel 2.1 Maximaal toegestaan aantal monsters dat niet voldoet 
-
-| Aantal gedurende een jaar genomen monsters  | Maximaal toegestaan aantal monsters dat niet voldoet  |
-|:---|:---|
-| 4–7  | 1  |
-| 8–16  | 2  |
-| 17–28  | 3  |
-| 29–40  | 4  |
-| 41–53  | 5  |
-| 54–67  | 6  |
-| 68–81  | 7  |
-| 82–95  | 8  |
-| 96–110  | 9  |
-| 111–125  | 10  |
-| 126–140  | 11  |
-| 141–155  | 12  |
-| 156–171  | 13  |
-| 172–187  | 14  |
-| 188–203  | 15  |
-| 204–219  | 16  |
-| 220–235  | 17  |
-| 236–251  | 18  |
-| 252–268  | 19  |
-| 269–284  | 20  |
-| 285–300  | 21  |
-| 303–317  | 22  |
-| 318–334  | 23  |
-| 335–350  | 24  |
-| 351–365  | 25  |
-
-2°. Het afwijken, bedoeld onder 1°, mag voor onopgeloste bestanddelen ten hoogste 150 procent en voor de overige parameters ten hoogste 100 procent van de grenswaarde bedragen.  
-
-3°. De concentratie totaal-fosfaat in te lozen stedelijk afvalwater wordt uitgedrukt als de voortschrijdend gemiddelde concentratie totaal-fosfaat in 10 opeenvolgende etmaalmonsters van stedelijk afvalwater.  
-
-4°. De concentratie totaal-stikstof in te lozen stedelijk afvalwater wordt uitgedrukt in de over het kalenderjaar berekende jaargemiddelde concentratie totaal-stikstof in dit afvalwater.    
-
-b. Het zuiveringsrendement wordt berekend als volgt:   ![245804](http://wetten.overheid.nl/Illustration/245804)
-waarin: V <sub>i</sub> = hoeveelheid totaal-fosfaat respectievelijk totaal-stikstof in het per beheerder te zuiveren stedelijk afvalwater, in kg per jaar. V <sub>e</sub> = hoeveelheid totaal-fosfaat respectievelijk totaal-stikstof in het per beheerder te lozen stedelijk afvalwater, in kg per jaar. V <sub>i</sub> en V <sub>e</sub> worden berekend met de onderstaande formules:   ![245805](http://wetten.overheid.nl/Illustration/245805)
-waarin: r = het betrokken zuiveringtechnische werk n = het aantal zuiveringtechnische werken van een beheerder d = de betrokken bemonsteringsdag M <sub>r</sub> = het aantal bemonsteringsdagen per jaar voor inrichting r i <sub>rd</sub> = concentratie in het te zuiveren stedelijk afvalwater op dag d voor inrichting r in g/m <sup>3</sup> E <sub>rd</sub> = geloosde hoeveelheid stedelijk afvalwater op dag d door inrichting r in m <sup>3</sup> e <sub>rd</sub> = concentratie in het te lozen stedelijk afvalwater op dag d voor inrichting r in g/m <sup>3</sup> Voor de meting van de geloosde hoeveelheid stedelijk afvalwater (in m <sup>3</sup>) wordt een methode gehanteerd waarvan de onnauwkeurigheid in de debietmeting kleiner is dan 5%. Dit wordt door ijking vastgesteld.    
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl. 
 
 ### Bijlage  VII  
 
@@ -977,16 +881,16 @@ waarin: r = het betrokken zuiveringtechnische werk n = het aantal zuiveringtechn
 | geleidingsvermogen voor elektriciteit  | --- | 4 wekelijks  |
 | temperatuur  | T  | 4 wekelijks  |
 | zuurgraad  | pH  | 4 wekelijks  |
-| opgelost zuurstof  | O <sub>2</sub>  | 4 wekelijks  |
+| opgelost zuurstof  | O<sub>2</sub>   | 4 wekelijks  |
 | totaal organisch koolstof  | TOC  | 4 wekelijks  |
-| bicarbonaat  | HCO <sub>3</sub>  | 4 wekelijks  |
-| nitriet  | NO <sub>2</sub>  | 4 wekelijks  |
-| nitraat  | NO <sub>3</sub>  | 4 wekelijks  |
-| ammonium  | NH <sub>4</sub>  | 4 wekelijks  |
+| bicarbonaat  | HCO<sub>3</sub>   | 4 wekelijks  |
+| nitriet  | NO<sub>2</sub>   | 4 wekelijks  |
+| nitraat  | NO<sub>3</sub>   | 4 wekelijks  |
+| ammonium  | NH<sub>4</sub>   | 4 wekelijks  |
 | totaal fosfaat  | Totaal P  | 4 wekelijks  |
 | fluoride  | F  | 3 maandelijks  |
 | chloride  | Cl  | 4 wekelijks  |
-| sulfaat  | SO <sub>4</sub>  | 3 maandelijks  |
+| sulfaat  | SO<sub>4</sub>   | 3 maandelijks  |
 | natrium  | Na  | 3 maandelijks  |
 | ijzer  | Fe  | 3 maandelijks  |
 | mangaan  | Mn  | 3 maandelijks  |
