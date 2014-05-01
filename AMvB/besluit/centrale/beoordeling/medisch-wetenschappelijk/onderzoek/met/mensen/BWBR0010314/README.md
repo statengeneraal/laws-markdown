@@ -25,28 +25,28 @@ c. wetenschappelijk onderzoek waarbij middelen waarop [artikel 2](../../../../..
 
 d. wetenschappelijk onderzoek met geslachtscellen;  
 
-e. wetenschappelijk onderzoek gericht op de ontwikkeling van een vaccin;  
+e.wetenschappelijk onderzoek gericht op de ontwikkeling van een vaccin;
 
-f. wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;  
+f.wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;
 
-g. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) bevat.    
+g.wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) bevat. 
 
-### Artikel  2  
+###Artikel 2 
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-### Artikel  3  
+###Artikel 3 
 
-Dit besluit wordt aangehaald als: Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.  
+Dit besluit wordt aangehaald als: Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 5 maart 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
-E. Borst-Eilers   
+E. Borst-Eilers    
 
 De Minister van Justitie, 
 A.H. Korthals   
@@ -54,4 +54,4 @@ A.H. Korthals
 de dertiende april 1999 
 
 De Minister van Justitie, 
-A.H. Korthals    
+A.H. Korthals     

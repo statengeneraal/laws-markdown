@@ -66,11 +66,11 @@ In dit besluit wordt verstaan onder:
 
 *Vistuig:*  Alle materieel geschikt om te vissen.  
 
-*Zones:*  De te onderscheiden gebieden zone I, II en III binnen het Natura 2000-gebied Noordzeekustzone, zoals aangegeven in de bijlage behorend bij dit besluit en daarbij middels coördinaten weergegeven.    
+*Zones:*  De te onderscheiden gebieden zone I, II en III binnen het Natura 2000-gebied Noordzeekustzone, zoals aangegeven in de bijlage behorend bij dit besluit en daarbij middels coördinaten weergegeven.   
 
 ### Artikel  2  
 
-De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone I* -gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is in of boven deze gebieden activiteiten van welke aard ook te verrichten, met uitzondering van de hierna genoemde activiteiten: 
+De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone I*-gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is in of boven deze gebieden activiteiten van welke aard ook te verrichten, met uitzondering van de hierna genoemde activiteiten: 
 
 a) met betrekking tot visserij: 
 
@@ -100,11 +100,11 @@ d) met betrekking tot vaartuigen:
 
 e) met betrekking tot vliegverkeer: 
 
-– burgerluchtvaartverkeer vliegend boven 300 meter conform ‘Gedragscode verantwoord vliegen’ en vliegend boven 450 meter zodra dit wettelijk wordt verplicht.      
+– burgerluchtvaartverkeer vliegend boven 300 meter conform ‘Gedragscode verantwoord vliegen’ en vliegend boven 450 meter zodra dit wettelijk wordt verplicht.     
 
 ### Artikel  3  
 
-De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone II* -gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is voor bodemberoerende visserij en andere bodemberoerende activiteiten, met uitzondering van de hierna genoemde activiteiten: 
+De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone II*-gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is voor bodemberoerende visserij en andere bodemberoerende activiteiten, met uitzondering van de hierna genoemde activiteiten: 
 
 a) met betrekking tot visserij: 
 
@@ -138,11 +138,11 @@ c) met betrekking tot aanleg en onderhoud van kabels en (pijp)leidingen:
 
 d) met betrekking tot vaartuigen: 
 
-– doorvaart en ankeren van vaartuigen.      
+– doorvaart en ankeren van vaartuigen.     
 
 ### Artikel  4  
 
-De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone III* -gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is voor bodemberoerende visserij en andere bodemberoerende activiteiten, met uitzondering van de hierna genoemde activiteiten: 
+De toegang tot de binnen het Natura 2000-gebied Noordzeekustzone gelegen *zone III*-gebieden wordt beperkt in die zin dat het gedurende het gehele jaar verboden is voor bodemberoerende visserij en andere bodemberoerende activiteiten, met uitzondering van de hierna genoemde activiteiten: 
 
 a) met betrekking tot visserij: 
 
@@ -176,11 +176,11 @@ c) met betrekking tot aanleg en onderhoud van kabels en (pijp)leidingen:
 
 d) met betrekking tot vaartuigen: 
 
-– doorvaart en het ankeren van vaartuigen.      
+– doorvaart en het ankeren van vaartuigen.     
 
 ### Artikel  5  
 
-De toegang tot het Natura 2000-gebied Noordzeekustzone dat gelegen is buiten de zone I-, II- en III-gebieden, als bedoeld in de artikelen respectievelijk 2, 3 en 4, is gedurende het gehele jaar toegestaan voor alle vormen van visserij, mits, voor zover vergunningplichtig, hiervoor een vergunning op grond van de [Natuur(beschermings)wet](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is verleend, dan wel dat de betreffende visserij is opgenomen in een beheerplan, waarbij geldt dat de gesleepte visserij met wekkerkettingen uiterlijk tot 1 januari 2016 is toegestaan.  
+De toegang tot het Natura 2000-gebied Noordzeekustzone dat gelegen is buiten de zone I-, II- en III-gebieden, als bedoeld in de artikelen respectievelijk 2, 3 en 4, is gedurende het gehele jaar toegestaan voor alle vormen van visserij, mits, voor zover vergunningplichtig, hiervoor een vergunning op grond van de [Natuur(beschermings)wet](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) is verleend, dan wel dat de betreffende visserij is opgenomen in een beheerplan, waarbij geldt dat de gesleepte visserij met wekkerkettingen uiterlijk tot 1 januari 2016 is toegestaan. 
 
 ### Artikel  6  
 
@@ -190,28 +190,28 @@ In het Natura 2000-gebied Vlakte van de Raan is de toegang tot dat gebied, zonde
 
 – schelpdiervisserij, vaste vistuigenvisserij en mosselzaadinvanginstallaties, voor zover gereguleerd via een vergunning op grond van de Natuur(beschermings)wet dan wel gereguleerd via het beheerplan;  
 
-– overige vormen van beroepsmatige visserij op basis van een vergunning op grond van de [Natuur(beschermings)wet](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) dan wel gereguleerd via het desbetreffende beheerplan.    
+– overige vormen van beroepsmatige visserij op basis van een vergunning op grond van de [Natuur(beschermings)wet](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) dan wel gereguleerd via het desbetreffende beheerplan.   
 
 ### Artikel  7  
 
-Voor zover onderzoek in de onderzoeksgebieden eerder is afgerond dan 1 januari 2016, dan gelden vanaf dat eerdere moment de beperkingen van de onderzoeksgebieden niet langer, maar wederom de toegangsbeperkingen geldend voor de desbetreffende zone I dan wel II dan wel III.  
+Voor zover onderzoek in de onderzoeksgebieden eerder is afgerond dan 1 januari 2016, dan gelden vanaf dat eerdere moment de beperkingen van de onderzoeksgebieden niet langer, maar wederom de toegangsbeperkingen geldend voor de desbetreffende zone I dan wel II dan wel III. 
 
 ### Artikel  8  
 
-Beroepsmatige visserijvaartuigen met een lengte van 12 meter of meer, dienen bij aanwezigheid binnen de Natura 2000-gebieden Noordzeekustzone en Vlakte van de Raan te beschikken over in werking zijnde operationele volgapparatuur, zulks minimaal overeenkomstig Europese richtlijnen.  
+Beroepsmatige visserijvaartuigen met een lengte van 12 meter of meer, dienen bij aanwezigheid binnen de Natura 2000-gebieden Noordzeekustzone en Vlakte van de Raan te beschikken over in werking zijnde operationele volgapparatuur, zulks minimaal overeenkomstig Europese richtlijnen. 
 
 ### Artikel  9  
 
-De toegangsbeperkingen uit dit besluit gelden, op grond van [artikel 20, vierde lid, van de Nb-wet 1998](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), gedurende het gehele jaar niet voor de aanwezigheid voor uitvoering van overheidstaken al of niet met behulp van vaartuigen van overheidswege of in opdracht van de overheid, voor zover noodzakelijk voor de uitvoering van beheer en onderhoud, markeren, monitoren, reddings-, inspectie-, toezicht-, opsporings- en defensietaken.  
+De toegangsbeperkingen uit dit besluit gelden, op grond van [artikel 20, vierde lid, van de Nb-wet 1998](../../../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), gedurende het gehele jaar niet voor de aanwezigheid voor uitvoering van overheidstaken al of niet met behulp van vaartuigen van overheidswege of in opdracht van de overheid, voor zover noodzakelijk voor de uitvoering van beheer en onderhoud, markeren, monitoren, reddings-, inspectie-, toezicht-, opsporings- en defensietaken. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking op de dag volgende op de bekendmaking van de beschikking in de Staatscourant en is geldig tot 1 januari 2016.  
+Dit besluit treedt in werking op de dag volgende op de bekendmaking van de beschikking in de Staatscourant en is geldig tot 1 januari 2016. 
 
 ### Artikel  11  
 
-In die gevallen waar een vergunning noodzakelijk is en desbetreffende activiteiten reeds zijn meebeoordeeld in de vergunningprocedure voor Nederlandse vergunninghouders, kan aan die vergunningverplichting door buitenlandse vissers voldaan worden middels een meldingsprocedure. Dit geldt tevens ten aanzien van visserijactiviteiten in het Natura 2000-gebied Voordelta, buiten het bodembeschermingsgebied.  
+In die gevallen waar een vergunning noodzakelijk is en desbetreffende activiteiten reeds zijn meebeoordeeld in de vergunningprocedure voor Nederlandse vergunninghouders, kan aan die vergunningverplichting door buitenlandse vissers voldaan worden middels een meldingsprocedure. Dit geldt tevens ten aanzien van visserijactiviteiten in het Natura 2000-gebied Voordelta, buiten het bodembeschermingsgebied. 
 
 De 
-Staatssecretaris van Economische Zaken,
-S.A.M.Dijksma   
+Staatssecretaris van Economische Zaken, 
+S.A.M. Dijksma     

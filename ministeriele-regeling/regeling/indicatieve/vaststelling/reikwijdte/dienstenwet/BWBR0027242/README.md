@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De Dienstenwet is van toepassing op de in de bijlage bij deze regeling opgenomen eisen en vergunningstelsels.  
+De Dienstenwet is van toepassing op de in de bijlage bij deze regeling opgenomen eisen en vergunningstelsels. 
 
 ### Artikel  2  
 
@@ -27,15 +27,15 @@ a. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepal
 
 b. een ontheffing als bedoeld in [artikel 1.3, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-c. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) die betrekking heeft op een activiteit als bedoeld in [artikel 1.3a, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
+c. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) die betrekking heeft op een activiteit als bedoeld in [artikel 1.3a, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 maart 2010.  
+Deze regeling treedt in werking met ingang van 1 maart 2010. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.  
+Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -43,7 +43,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven  
+M.J.A. van der Hoeven    
 
 ### Bijlage  
 
@@ -57,312 +57,312 @@ M.J.A. van derHoeven
 
 ####– Vergunningstelsels van de Rijksoverheid
 
-| Regelgever  | Naam regelgeving  | Bepaling/artikel (nummer)  |
+| Regelgever   | Naam regelgeving   | Bepaling/artikel (nummer)   |
 |:---|:---|:---|
-| Ministerie van Defensie  |  [Besluit luchtfotografie](../../../../../../../AMvB/besluit/luchtfotografie/BWBR0002327/README.md)   | artikel 2, aanhef (eerste lid)  |
-| Ministerie van Economische Zaken  | Aansluitvoorwaarden Gas-LNB  | artikel 3.5.2  |
-| Ministerie van Economische Zaken  | Aansluitvoorwaarden Gas-RNB  | artikel 2.1.5  |
-| Ministerie van Economische Zaken  |  [Besluit biotechnologie bij dieren](../../../../../../../AMvB/besluit/biotechnologie/bij/dieren/BWBR0008392/README.md)   | artikel 11a  |
-| Ministerie van Economische Zaken  |  [Besluit diervoeders](../../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md)   | artikel 28, eerste lid, onderdeel b  |
-| Ministerie van Economische Zaken  |  [Besluit doden van dieren](../../../../../../../AMvB/besluit/doden/van/dieren/BWBR0008686/README.md)   | artikel 8, tweede lid  |
-| Ministerie van Economische Zaken  |  [Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md)   | artikelen 2, 3 en 9  |
-| Ministerie van Economische Zaken  |  [Besluit gebruik meststoffen](../../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md)   | artikel 4b  |
-| Ministerie van Economische Zaken  |  [Besluit gebruik Sera en entstoffen](../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md)   | artikel 2  |
-| Ministerie van Economische Zaken  | Besluit gebruik Sera en entstoffen  | artikel 3  |
-| Ministerie van Economische Zaken  |  [Besluit informatie-uitwisseling ondergrondse netten](../../../../../../../AMvB/besluit/informatie-uitwisseling/ondergrondse/netten/BWBR0024041/README.md)   | artikel 3, eerste lid  |
-| Ministerie van Economische Zaken  |  [Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](../../../../../../../AMvB/besluit/in-/uit-/en/doorvoer/van/radioactieve/afvalstoffen/en/bestraalde/etc/BWBR0025680/README.md)   | artikel 3, eerste lid  |
-| Ministerie van Economische Zaken  |  [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md)   | artikel 21  |
-| Ministerie van Economische Zaken  | Besluit kerninstallaties, splijtstoffen en ertsen  | artikel 42, derde lid  |
-| Ministerie van Economische Zaken  |  [Besluit paraveterinairen](../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md)   | artikelen 2 en 3  |
-| Ministerie van Economische Zaken  | Besluit paraveterinairen  | artikelen 6, 7, 9 en 10  |
-| Ministerie van Economische Zaken  | Besluit paraveterinairen;   [Regeling paraveterinairen](../../../../../../../ministeriele-regeling/regeling/paraveterinairen/BWBR0006492/README.md)   | artikel 2 Besluit paraveterinairen;  artikelen 2 en 19, derde lid Regeling paraveterinairen  |
-| Ministerie van Economische Zaken  | Besluit paraveterinairen;  Regeling paraveterinairen  | artikelen 6 en 9 Besluit paraveterinairen;  artikelen 15, 18, 19, derde lid, Regeling paraveterinairen  |
-| Ministerie van Economische Zaken  |  [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md)   | artikel 4, eerste en zevende lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 7a, eerste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 8, eerste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 12, derde lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 23, eerste en tweede lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 24  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 25, eerste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 31, derde lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 35, eerste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 37, eerste, zesde, zevende en achtste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 88, eerste lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 91, tweede lid  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 107  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 123  |
-| Ministerie van Economische Zaken  |  [Boswet](../../../../../../../wet/boswet/BWBR0002357/README.md)   | artikelen 2 en 13  |
-| Ministerie van Economische Zaken  |  [Dierentuinenbesluit](../../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md)   | artikel 4, eerste lid  |
+| Ministerie van Defensie   | [Besluit luchtfotografie](../../../../../../../AMvB/besluit/luchtfotografie/BWBR0002327/README.md)   | artikel 2, aanhef (eerste lid)   |
+| Ministerie van Economische Zaken   | Aansluitvoorwaarden Gas-LNB   | artikel 3.5.2  |
+| Ministerie van Economische Zaken   | Aansluitvoorwaarden Gas-RNB   | artikel 2.1.5   |
+| Ministerie van Economische Zaken   | [Besluit biotechnologie bij dieren](../../../../../../../AMvB/besluit/biotechnologie/bij/dieren/BWBR0008392/README.md)   | artikel 11a  |
+| Ministerie van Economische Zaken   | [Besluit diervoeders](../../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md)   | artikel 28, eerste lid, onderdeel b   |
+| Ministerie van Economische Zaken   | [Besluit doden van dieren](../../../../../../../AMvB/besluit/doden/van/dieren/BWBR0008686/README.md)   | artikel 8, tweede lid   |
+| Ministerie van Economische Zaken   | [Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md)   | artikelen 2, 3 en 9   |
+| Ministerie van Economische Zaken   | [Besluit gebruik meststoffen](../../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md)  | artikel 4b   |
+| Ministerie van Economische Zaken   | [Besluit gebruik Sera en entstoffen](../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md)   | artikel 2   |
+| Ministerie van Economische Zaken   | Besluit gebruik Sera en entstoffen   | artikel 3   |
+| Ministerie van Economische Zaken   | [Besluit informatie-uitwisseling ondergrondse netten](../../../../../../../AMvB/besluit/informatie-uitwisseling/ondergrondse/netten/BWBR0024041/README.md)   | artikel 3, eerste lid   |
+| Ministerie van Economische Zaken   | [Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](../../../../../../../AMvB/besluit/in-/uit-/en/doorvoer/van/radioactieve/afvalstoffen/en/bestraalde/etc/BWBR0025680/README.md)   | artikel 3, eerste lid  |
+| Ministerie van Economische Zaken   | [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md)   | artikel 21   |
+| Ministerie van Economische Zaken   | Besluit kerninstallaties, splijtstoffen en ertsen   | artikel 42, derde lid   |
+| Ministerie van Economische Zaken   | [Besluit paraveterinairen](../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md)   | artikelen 2 en 3   |
+| Ministerie van Economische Zaken   | Besluit paraveterinairen   | artikelen 6, 7, 9 en 10   |
+| Ministerie van Economische Zaken   | Besluit paraveterinairen;  [Regeling paraveterinairen](../../../../../../../ministeriele-regeling/regeling/paraveterinairen/BWBR0006492/README.md)   | artikel 2 Besluit paraveterinairen;  artikelen 2 en 19, derde lid Regeling paraveterinairen  |
+| Ministerie van Economische Zaken   | Besluit paraveterinairen;  Regeling paraveterinairen   | artikelen 6 en 9 Besluit paraveterinairen;  artikelen 15, 18, 19, derde lid, Regeling paraveterinairen  |
+| Ministerie van Economische Zaken   | [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md)   | artikel 4, eerste en zevende lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 7a, eerste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 8, eerste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 12, derde lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 23, eerste en tweede lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 24   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 25, eerste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 31, derde lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 35, eerste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 37, eerste, zesde, zevende en achtste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 88, eerste lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 91, tweede lid   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 107   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 123   |
+| Ministerie van Economische Zaken  | [Boswet](../../../../../../../wet/boswet/BWBR0002357/README.md)  | artikelen 2 en 13  |
+| Ministerie van Economische Zaken  | [Dierentuinenbesluit](../../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md)  | artikel 4, eerste lid  |
 | Ministerie van Economische Zaken  | [Wet dieren](../../../../../../../wet/wet/dieren/BWBR0030250/README.md);  Regeling diergeneesmiddelen  | Artikel 2.19, eerste lid, Wet dieren  Artikelen 2.1 en 2.2 Regeling diergeneesmiddelen  |
-| Ministerie van Economische Zaken  |  [Flora- en Faunawet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   | artikelen 13, 64, tweede lid, en 75, derde lid  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  [Besluit prepareren dieren](../../../../../../../AMvB/besluit/prepareren/van/dieren/BWBR0011852/README.md);   [Regeling prepareren van dieren](../../../../../../../ministeriele-regeling/regeling/prepareren/van/dieren/BWBR0013138/README.md)   | artikelen 13, eerste lid, en 63, eerste en tweede lid, Flora- en Faunawet;  artikelen 6 en 7 Besluit prepareren dieren;  artikel 3 Regeling prepareren van dieren  |
+| Ministerie van Economische Zaken  | [Flora- en Faunawet](../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)  | artikelen 13, 64, tweede lid, en 75, derde lid  |
+| Ministerie van Economische Zaken  | Flora- en Faunawet;  [Besluit prepareren dieren](../../../../../../../AMvB/besluit/prepareren/van/dieren/BWBR0011852/README.md);  [Regeling prepareren van dieren](../../../../../../../ministeriele-regeling/regeling/prepareren/van/dieren/BWBR0013138/README.md)  | artikelen 13, eerste lid, en 63, eerste en tweede lid, Flora- en Faunawet;  artikelen 6 en 7 Besluit prepareren dieren;  artikel 3 Regeling prepareren van dieren  |
 | Ministerie van Economische Zaken  | Flora- en Faunawet;  [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md);  | artikelen 13 en 75, eerste lid, Flora- en Faunawet;  artikelen 10 en 11, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten;  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten;   [Regeling afgifte en kenmerken gesloten pootringen en andere merktekens](../../../../../../../ministeriele-regeling/regeling/afgifte/en/kenmerken/gesloten/pootringen/en/andere/merktekens/BWBR0013484/README.md)   | artikelen 13 en 75, eerste lid, Flora- en Faunawet;  artikelen 5, eerste lid en 7 Besluit vrijstelling beschermde dier- en plantensoorten;  artikel 8 Regeling afgifte en kenmerken gesloten pootringen en andere merktekens  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  [Jachtbesluit](../../../../../../../AMvB/jachtbesluit/BWBR0011848/README.md);  Regeling prepareren dieren;   [Jachtregeling](../../../../../../../ministeriele-regeling/jachtregeling/BWBR0013181/README.md)   | artikelen 40, eerste lid, en 62, tweede lid, Flora- en Faunawet;  artikel 7 Jachtbesluit;  artikelen 2, 3, 4, eerste lid, en lid 2a Regeling prepareren dieren;  artikel 7 Jachtregeling  |
-| Ministerie van Economische Zaken  |  [Fokkerijbesluit](../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md)   | artikel 3  |
-| Ministerie van Economische Zaken  |  [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)   | artikelen 3.4.1 en 3.4.2  |
-| Ministerie van Economische Zaken  | Gaswet  | artikel 66b, eerste en tweede lid  |
-| Ministerie van Economische Zaken  |  [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)   | artikel 40, eerste lid  |
+| Ministerie van Economische Zaken  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten;  [Regeling afgifte en kenmerken gesloten pootringen en andere merktekens](../../../../../../../ministeriele-regeling/regeling/afgifte/en/kenmerken/gesloten/pootringen/en/andere/merktekens/BWBR0013484/README.md)  | artikelen 13 en 75, eerste lid, Flora- en Faunawet;  artikelen 5, eerste lid en 7 Besluit vrijstelling beschermde dier- en plantensoorten;  artikel 8 Regeling afgifte en kenmerken gesloten pootringen en andere merktekens  |
+| Ministerie van Economische Zaken  | Flora- en Faunawet;  [Jachtbesluit](../../../../../../../AMvB/jachtbesluit/BWBR0011848/README.md);  Regeling prepareren dieren;  [Jachtregeling](../../../../../../../ministeriele-regeling/jachtregeling/BWBR0013181/README.md)  | artikelen 40, eerste lid, en 62, tweede lid, Flora- en Faunawet;  artikel 7 Jachtbesluit;  artikelen 2, 3, 4, eerste lid, en lid 2a Regeling prepareren dieren;  artikel 7 Jachtregeling  |
+| Ministerie van Economische Zaken  | [Fokkerijbesluit](../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md)  | artikel 3  |
+| Ministerie van Economische Zaken   | [Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md)  | artikelen 3.4.1 en 3.4.2  |
+| Ministerie van Economische Zaken   | Gaswet  | artikel 66b, eerste en tweede lid  |
+| Ministerie van Economische Zaken  | [Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)  | artikel 40, eerste lid  |
 | Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren  | artikel 41, eerste lid  |
 | Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren  | artikel 61 jo. artikel 107  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren  | artikel 81f  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren  | artikel 107  |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren   | artikel 81f   |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren   | artikel 107   |
 | Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;  Besluit doden van dieren  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 3, 4, 5, en 6 Besluit doden van dieren  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;   [Besluit ritueel slachten](../../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md)   | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 5, 8, tweede en derde lid, 9, eerste en derde lid, Besluit ritueel slachten;  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;   [Besluit voortplantingstechnieken bij dieren](../../../../../../../AMvB/besluit/voortplantingstechnieken/bij/dieren/BWBR0007863/README.md)   | artikel 107 Gezondheids- en Welzijnswet voor Dieren  jo. artikel 3, tweede lid, Besluit voortplantingstechnieken bij dieren;  |
-| Ministerie van Economische Zaken  | Gezondheids- en Welzijnswet voor Dieren;  Besluit voortplantingstechnieken bij dieren  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikel 5, eerste en tweede lid, Besluit voortplantingstechnieken bij dieren  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;   [Honden- en kattenbesluit 1999](../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md)   | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2, 3, 4, 5 en 6 Honden- en kattenbesluit 1999  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;  Honden- en kattenbesluit 1999  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2, 8 tot en met 18, 19, 21, 22, 25 en 26 Honden- en kattenbesluit 1999  |
-| Ministerie van Economische Zaken  | Gezondheids- en Welzijnswet voor Dieren;   [Kalverenbesluit](../../../../../../../AMvB/kalverenbesluit/BWBR0006805/README.md)   | artikel 107 Gezondheids- en Welzijnswet voor Dieren;  artikelen 5, 6, 8,9 en 10 Kalverenbesluit  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;   [Varkensbesluit](../../../../../../../AMvB/varkensbesluit/BWBR0006806/README.md)   | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2a, 2aa, 4, eerste, tweede en vierde lid, 5, eerste vier leden, 8 en 11 Varkensbesluit  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;   [Vrijstellingsregeling dierenwelzijn](../../../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md)   | artikel 44, vierde tot en met achtste lid Gezondheids- en welzijnswet voor dieren;  artikel 9 Vrijstellingsregeling dierenwelzijn  |
-| Ministerie van Economische Zaken  |  [Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)   | artikelen 9 tot en met 17 jo. artikelen 35 tot en met 41  |
-| Ministerie van Economische Zaken  | Handelsregisterwet 2007  | artikel 18  |
-| Ministerie van Economische Zaken  | Handelsregisterwet 2007;   [Handelsregisterbesluit 2008](../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md)   | artikelen 5 tot en met 8 jo. artikelen 9 tot en met 17 Handelsregisterwet 2007;  artikel 1 jo. artikelen 11 tot en met 32 en 35 tot en met 41 Handelsregisterbesluit 2008  |
-| Ministerie van Economische Zaken  | [Kaderwet diervoeders](../../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);   [Regeling diervoeders](../../../../../../../ministeriele-regeling/regeling/diervoeders/BWBR0017259/README.md)   | artikel 23 Kaderwet diervoeders  jo. artikel 99 Regeling diervoeders  |
-| Ministerie van Economische Zaken  |  [Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md)   | artikel 15  |
-| Ministerie van Economische Zaken  | Kernenergiewet  | artikelen 22, vierde lid, en 33, vierde lid  |
-| Ministerie van Economische Zaken  | Kernenergiewet  | artikel 29, eerste lid  |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  [Besluit ritueel slachten](../../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md)   | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 5, 8, tweede en derde lid, 9, eerste en derde lid, Besluit ritueel slachten;   |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  [Besluit voortplantingstechnieken bij dieren](../../../../../../../AMvB/besluit/voortplantingstechnieken/bij/dieren/BWBR0007863/README.md)   | artikel 107 Gezondheids- en Welzijnswet voor Dieren  jo. artikel 3, tweede lid, Besluit voortplantingstechnieken bij dieren;  |
+| Ministerie van Economische Zaken   | Gezondheids- en Welzijnswet voor Dieren;  Besluit voortplantingstechnieken bij dieren   | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikel 5, eerste en tweede lid, Besluit voortplantingstechnieken bij dieren  |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  [Honden- en kattenbesluit 1999](../../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md)  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2, 3, 4, 5 en 6 Honden- en kattenbesluit 1999  |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  Honden- en kattenbesluit 1999  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2, 8 tot en met 18, 19, 21, 22, 25 en 26 Honden- en kattenbesluit 1999  |
+| Ministerie van Economische Zaken  | Gezondheids- en Welzijnswet voor Dieren;  [Kalverenbesluit](../../../../../../../AMvB/kalverenbesluit/BWBR0006805/README.md)  | artikel 107 Gezondheids- en Welzijnswet voor Dieren;  artikelen 5, 6, 8,9 en 10 Kalverenbesluit  |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  [Varkensbesluit](../../../../../../../AMvB/varkensbesluit/BWBR0006806/README.md)  | artikel 107 Gezondheids- en welzijnswet voor dieren;  artikelen 2a, 2aa, 4, eerste, tweede en vierde lid, 5, eerste vier leden, 8 en 11 Varkensbesluit  |
+| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;  [Vrijstellingsregeling dierenwelzijn](../../../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md)  | artikel 44, vierde tot en met achtste lid Gezondheids- en welzijnswet voor dieren;  artikel 9 Vrijstellingsregeling dierenwelzijn  |
+| Ministerie van Economische Zaken   | [Handelsregisterwet 2007](../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  | artikelen 9 tot en met 17 jo. artikelen 35 tot en met 41   |
+| Ministerie van Economische Zaken   | Handelsregisterwet 2007   | artikel 18   |
+| Ministerie van Economische Zaken   | Handelsregisterwet 2007;  [Handelsregisterbesluit 2008](../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md)  | artikelen 5 tot en met 8 jo. artikelen 9 tot en met 17 Handelsregisterwet 2007;  artikel 1 jo. artikelen 11 tot en met 32 en 35 tot en met 41 Handelsregisterbesluit 2008  |
+| Ministerie van Economische Zaken   | [Kaderwet diervoeders](../../../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md);  [Regeling diervoeders](../../../../../../../ministeriele-regeling/regeling/diervoeders/BWBR0017259/README.md)   | artikel 23 Kaderwet diervoeders  jo. artikel 99 Regeling diervoeders   |
+| Ministerie van Economische Zaken   | [Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md)   | artikel 15   |
+| Ministerie van Economische Zaken   | Kernenergiewet   | artikelen 22, vierde lid, en 33, vierde lid   |
+| Ministerie van Economische Zaken   | Kernenergiewet   | artikel 29, eerste lid   |
 | Ministerie van Economische Zaken  | Meetcode Elektriciteit  | artikelen 1.2 en 1.5  |
-| Ministerie van Economische Zaken  | Meetcode Elektriciteit  | artikel 1.3  |
-| Ministerie van Economische Zaken  | Meetcode Elektriciteit  | artikel 1.4  |
-| Ministerie van Economische Zaken  | Meetcode Elektriciteit  | artikel 1.8  |
-| Ministerie van Economische Zaken  | Meetvoorwaarden Gas-RNB  | artikelen 2.1 en 2.4  |
-| Ministerie van Economische Zaken  | Meetvoorwaarden Gas-RNB  | artikel 2.2  |
-| Ministerie van Economische Zaken  |  [Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md)   | artikel 27, tweede lid  |
-| Ministerie van Economische Zaken  |  [Mijnbouwbesluit](../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md)   | artikel 44  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikel 45  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 94 tot en met 96  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 151 tot en met 153 jo. artikel 149  |
-| Ministerie van Economische Zaken  |  [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   | artikel 1, onderdeel l, jo. artikel 25  |
-| Ministerie van Economische Zaken  | Mijnbouwwet  | artikel 39 jo. artikelen 34 en 36  |
-| Ministerie van Economische Zaken  | Mijnbouwwet  | artikel 40, tweede lid  |
-| Ministerie van Economische Zaken  |  [Natuurbeschermingswet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)   | artikel 16  |
-| Ministerie van Economische Zaken  | Natuurbeschermingswet 1998  | artikel 17  |
-| Ministerie van Economische Zaken  | Natuurbeschermingswet 1998  | Artikel 46b, eerste lid  |
-| Ministerie van Economische Zaken  | Natuurbeschermingswet 1998;   [Besluit tot beperking toegankelijkheid natuurgebieden](../../../../../../../ministeriele-regeling/besluit/beperking/toegankelijkheid/natuurgebieden/ex/art./20/nbwet/natura/etc/BWBR0020122/README.md)   | artikelen 20, 41 en 43 Natuurbeschermingswet 1998;  artikel 7 Besluit tot beperking toegankelijkheid natuurgebieden  |
-| Ministerie van Economische Zaken  |  [Regeling doden van dieren](../../../../../../../ministeriele-regeling/regeling/doden/van/dieren/BWBR0008834/README.md)   | artikelen 2, 3, 4 en 5  |
-| Ministerie van Economische Zaken  |  [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md)   | artikelen 2 en 3.1  |
-| Ministerie van Economische Zaken  | Regeling erkenning en aanwijzing veterinaire laboratoria  | artikel 6.1  |
-| Ministerie van Economische Zaken  | Regeling meldings- en herplantingsplicht  | artikelen 2 en 3, eerste lid  |
-| Ministerie van Economische Zaken  |  [Regeling nucleaire drukapparatuur](../../../../../../../ministeriele-regeling/regeling/nucleaire/drukapparatuur/BWBR0022812/README.md)   | artikel 3  |
-| Ministerie van Economische Zaken  | Regeling nucleaire drukapparatuur  | artikelen 6 en 8  |
-| Ministerie van Economische Zaken  |  [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)   | artikelen 18, 21, 22, 23 en 25  |
-| Ministerie van Economische Zaken  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's  | artikelen 18, 21, 22, 23 en 26  |
-| Ministerie van Economische Zaken  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's  | artikelen 59 tot en met 62 en bijlage 9a  |
-| Ministerie van Economische Zaken  | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;   [Regeling tijdelijke maatregelen dierziekten](../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md)   | artikelen 44, 45, en 46 Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoönosen en TSE’s;  artikelen 2.5, eerste lid, tweede lid, onderdeel a, en derde lid, Regeling tijdelijke maatregelen dierziekten  |
-| Ministerie van Economische Zaken  |  [Besluit dierlijke producten](../../../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md)   | Artikel 2.5  |
-| Ministerie van Economische Zaken  |  [Rijksoctrooiwet 1995](../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)   | artikel 23a  |
-| Ministerie van Economische Zaken  | Rijksoctrooiwet 1995  | artikel 23b  |
-| Ministerie van Economische Zaken  | Systeemcode Elektriciteit  | artikelen 3.2.1 tot en met 3.2.15  |
-| Ministerie van Economische Zaken  |  [Tijdelijke regeling informatie-uitwisseling ondergrondse netten](../../../../../../../ministeriele-regeling/tijdelijke/regeling/informatie-uitwisseling/ondergrondse/netten/BWBR0024089/README.md)   | artikelen 2, 6, tweede lid, 10 en 11  |
-| Ministerie van Economische Zaken  |  [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)   | artikelen 2, 3, 4 en 5  |
-| Ministerie van Economische Zaken  |  [Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee en biologische legkippen en legkippen met vrije uitloop](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md)   | artikelen 5, 7 tot en met 13, 15 en 19  |
-| Ministerie van Economische Zaken  |  [Uitvoeringsregeling Meststoffenwet](../../../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md)   | artikelen 27, eerste en tweede lid, en 125  |
-| Ministerie van Economische Zaken  | Uitvoeringsregeling Meststoffenwet  | artikelen 32, tweede lid, 33, eerste lid, en 125  |
+| Ministerie van Economische Zaken   | Meetcode Elektriciteit   | artikel 1.3  |
+| Ministerie van Economische Zaken   | Meetcode Elektriciteit   | artikel 1.4  |
+| Ministerie van Economische Zaken   | Meetcode Elektriciteit   | artikel 1.8   |
+| Ministerie van Economische Zaken   | Meetvoorwaarden Gas-RNB   | artikelen 2.1 en 2.4   |
+| Ministerie van Economische Zaken   | Meetvoorwaarden Gas-RNB   | artikel 2.2   |
+| Ministerie van Economische Zaken   | [Meststoffenwet](../../../../../../../wet/meststoffenwet/BWBR0004054/README.md)   | artikel 27, tweede lid   |
+| Ministerie van Economische Zaken   | [Mijnbouwbesluit](../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md)   | artikel 44  |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikel 45  |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 94 tot en met 96   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 151 tot en met 153 jo. artikel 149   |
+| Ministerie van Economische Zaken   | [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   | artikel 1, onderdeel l, jo. artikel 25   |
+| Ministerie van Economische Zaken   | Mijnbouwwet   | artikel 39 jo. artikelen 34 en 36   |
+| Ministerie van Economische Zaken   | Mijnbouwwet   | artikel 40, tweede lid   |
+| Ministerie van Economische Zaken   | [Natuurbeschermingswet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)   | artikel 16   |
+| Ministerie van Economische Zaken   | Natuurbeschermingswet 1998   | artikel 17   |
+| Ministerie van Economische Zaken   | Natuurbeschermingswet 1998   | Artikel 46b, eerste lid   |
+| Ministerie van Economische Zaken  | Natuurbeschermingswet 1998;  [Besluit tot beperking toegankelijkheid natuurgebieden](../../../../../../../ministeriele-regeling/besluit/beperking/toegankelijkheid/natuurgebieden/ex/art./20/nbwet/natura/etc/BWBR0020122/README.md)  | artikelen 20, 41 en 43 Natuurbeschermingswet 1998;  artikel 7 Besluit tot beperking toegankelijkheid natuurgebieden  |
+| Ministerie van Economische Zaken  | [Regeling doden van dieren](../../../../../../../ministeriele-regeling/regeling/doden/van/dieren/BWBR0008834/README.md)  | artikelen 2, 3, 4 en 5  |
+| Ministerie van Economische Zaken   | [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md)   | artikelen 2 en 3.1   |
+| Ministerie van Economische Zaken   | Regeling erkenning en aanwijzing veterinaire laboratoria   | artikel 6.1   |
+| Ministerie van Economische Zaken   | Regeling meldings- en herplantingsplicht   | artikelen 2 en 3, eerste lid   |
+| Ministerie van Economische Zaken   | [Regeling nucleaire drukapparatuur](../../../../../../../ministeriele-regeling/regeling/nucleaire/drukapparatuur/BWBR0022812/README.md)   | artikel 3  |
+| Ministerie van Economische Zaken   | Regeling nucleaire drukapparatuur   | artikelen 6 en 8  |
+| Ministerie van Economische Zaken   | [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)   | artikelen 18, 21, 22, 23 en 25   |
+| Ministerie van Economische Zaken   | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's   | artikelen 18, 21, 22, 23 en 26   |
+| Ministerie van Economische Zaken   | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's   | artikelen 59 tot en met 62 en bijlage 9a   |
+| Ministerie van Economische Zaken   | Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;  [Regeling tijdelijke maatregelen dierziekten](../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md)   | artikelen 44, 45, en 46 Regeling preventie, bestrijding en monitoring besmettelijke dierziekten en zoönosen en TSE’s;  artikelen 2.5, eerste lid, tweede lid, onderdeel a, en derde lid, Regeling tijdelijke maatregelen dierziekten   |
+| Ministerie van Economische Zaken   | [Besluit dierlijke producten](../../../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md)  | Artikel 2.5  |
+| Ministerie van Economische Zaken  | [Rijksoctrooiwet 1995](../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)  | artikel 23a  |
+| Ministerie van Economische Zaken   | Rijksoctrooiwet 1995  | artikel 23b   |
+| Ministerie van Economische Zaken   | Systeemcode Elektriciteit   | artikelen 3.2.1 tot en met 3.2.15   |
+| Ministerie van Economische Zaken  | [Tijdelijke regeling informatie-uitwisseling ondergrondse netten](../../../../../../../ministeriele-regeling/tijdelijke/regeling/informatie-uitwisseling/ondergrondse/netten/BWBR0024089/README.md)  | artikelen 2, 6, tweede lid, 10 en 11  |
+| Ministerie van Economische Zaken   | [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)   | artikelen 2, 3, 4 en 5   |
+| Ministerie van Economische Zaken   | [Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee en biologische legkippen en legkippen met vrije uitloop](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/vaccinatie/hobbypluimvee/biologische/etc/BWBR0019657/README.md)   | artikelen 5, 7 tot en met 13, 15 en 19   |
+| Ministerie van Economische Zaken   | [Uitvoeringsregeling Meststoffenwet](../../../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md)   | artikelen 27, eerste en tweede lid, en 125   |
+| Ministerie van Economische Zaken   | Uitvoeringsregeling Meststoffenwet   | artikelen 32, tweede lid, 33, eerste lid, en 125   |
 | Ministerie van Economische Zaken  | Uitvoeringsregeling Meststoffenwet  | artikelen 77 en 80, eerste lid jo. artikelen 81, derde lid, en 125  |
-| Ministerie van Economische Zaken  |  [Warmtewet](../../../../../../../wet/warmtewet/BWBR0033729/README.md)   | artikelen 9 en 10, eerste lid  |
-| Ministerie van Economische Zaken  |  [Warmtewet](../../../../../../../wet/warmtewet/BWBR0033729/README.md)   | artikel 10, vijfde lid  |
-| Ministerie van Economische Zaken  |  [Wet informatie-uitwisseling ondergrondse netten](../../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md)   | artikel 2, derde lid, onderdeel a, jo. artikel 8  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 3, eerste lid  |
-| Ministerie van Economische Zaken  | Wet op de uitoefening van de diergeneeskunde  | artikelen 2, 4, 8, tweede lid, en 15  |
-| Ministerie van Economische Zaken  | [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);   [Regeling aanmelding tot uitoefening der diergeneeskunde](../../../../../../../ministeriele-regeling/regeling/aanmelding/tot/uitoefening/der/diergeneeskunde/BWBR0005297/README.md)   | artikel 9 van de Wet op de uitoefening van de diergeneeskunde 1990 en de Regeling aanmelding tot uitoefening der diergeneeskunde  |
-| Ministerie van Economische Zaken  |  [Wet ruimtevaartactiviteiten](../../../../../../../wet/wet/ruimtevaartactiviteiten/BWBR0021418/README.md)   | artikel 3  |
-| Ministerie van Economische Zaken  | Wet ruimtevaartactiviteiten  | artikel 11, eerste en tweede lid  |
-| Ministerie van Economische Zaken  | Wet strategische diensten  | artikelen 2, vierde lid, 3, derde lid, 4, derde tot en met het vijfde lid, 5, eerste en tweede lid, en 6  |
+| Ministerie van Economische Zaken  | [Warmtewet](../../../../../../../wet/warmtewet/BWBR0033729/README.md)  | artikelen 9 en 10, eerste lid  |
+| Ministerie van Economische Zaken  | [Warmtewet](../../../../../../../wet/warmtewet/BWBR0033729/README.md)  | artikel 10, vijfde lid  |
+| Ministerie van Economische Zaken   | [Wet informatie-uitwisseling ondergrondse netten](../../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md)   | artikel 2, derde lid, onderdeel a, jo. artikel 8   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 3, eerste lid   |
+| Ministerie van Economische Zaken   | Wet op de uitoefening van de diergeneeskunde   | artikelen 2, 4, 8, tweede lid, en 15   |
+| Ministerie van Economische Zaken   | [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  [Regeling aanmelding tot uitoefening der diergeneeskunde](../../../../../../../ministeriele-regeling/regeling/aanmelding/tot/uitoefening/der/diergeneeskunde/BWBR0005297/README.md)   | artikel 9 van de Wet op de uitoefening van de diergeneeskunde 1990 en de Regeling aanmelding tot uitoefening der diergeneeskunde   |
+| Ministerie van Economische Zaken   | [Wet ruimtevaartactiviteiten](../../../../../../../wet/wet/ruimtevaartactiviteiten/BWBR0021418/README.md)   | artikel 3   |
+| Ministerie van Economische Zaken   | Wet ruimtevaartactiviteiten   | artikel 11, eerste en tweede lid   |
+| Ministerie van Economische Zaken   | Wet strategische diensten   | artikelen 2, vierde lid, 3, derde lid, 4, derde tot en met het vijfde lid, 5, eerste en tweede lid, en 6   |
 | Ministerie van Economische Zaken  | Wijziging Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s in verband met de herziening van de preventieregels voor eenhoevigen  | artikelen 21, zesde lid, 23, eerste lid, onderdeel c en 24, eerste lid, onderdeel c  |
-| Ministerie van Financiën  |  [Besluit toezicht accountantsorganisaties](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | artikelen 1 en 27  |
-| Ministerie van Financiën  |  [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | artikel 5  |
-| Ministerie van Financiën  | Wet toezicht accountantsorganisaties  | artikel 27  |
-| Ministerie van Infrastructuur en Milieu  |  [Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)   | artikel 1.10  |
-| Ministerie van Infrastructuur en Milieu  | Activiteitenbesluit milieubeheer  | artikelen 3.20 en 4.80  |
-| Ministerie van Infrastructuur en Milieu  | Activiteitenbesluit milieubeheer  | artikel 4.18  |
-| Ministerie van Infrastructuur en Milieu  | [Besluit bodemkwaliteit](../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [Regeling bodemkwaliteit](../../../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md)  | artikelen 9, 15, 38 en 40  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit brandveilig gebruik bouwwerken](../../../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md)   | artikel 2.12.1  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit broeikasgassen Wms 2003](../../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md)   | artikel 1, derde en vierde lid  |
-| Ministerie van Infrastructuur en Milieu  | Besluit emissie-eisen stookinstallaties milieubeheer  | voorschrift 10.2.2 van de bijlage  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit emissie-eisen stookinstallaties milieubeheer A](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/a/BWBR0004147/README.md)   | artikel 30b, vijfde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit emissie-eisen stookinstallaties milieubeheer B](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004833/README.md)   | voorschriften 10.3.2 en 10.3.12 van de bijlage  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md)   | artikel 4  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)   | voorschrift 1.3.6, bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 1.6.2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 2.4.2, bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 3.2.7, bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw;   [Besluit landbouw milieubeheer](../../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)   | voorschrift 3.2.7 van bijlage 2 Besluit glastuinbouw;  voorschriften 1.3.13 en 3.2.6 van bijlage Besluit landbouw milieubeheer  |
-| Ministerie van Infrastructuur en Milieu  | [Besluit handel in emissierechten](../../../../../../../AMvB/besluit/handel/in/emissierechten/BWBR0017779/README.md);   [Regeling monitoring handel in emissierechten](../../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md)   | artikelen 9 en 16 Besluit handel in emissierechten;  artikelen 17 en 47 Regeling monitoring handel in emissierechten  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../AMvB/besluit/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0003716/README.md)   | artikel 10  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md)   | artikel 9, onderdeel a  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9, onderdeel a jo. artikel 10  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9 onderdeel b  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9, onderdeel c  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw milieubeheer  | voorschrift 1.3.13, bijlage  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw milieubeheer  | voorschrift 2.1.1, bijlage en Richtlijnen mestbassins  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw Milieubeheer  | voorschrift 2.9.2, bijlage  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw Milieubeheer  | voorschriften 3.2.10 en 3.2.11, bijlage  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md)   | voorschrift 1.2, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit mestbassins milieubeheer](../../../../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md)   | voorschriften 1.5 en 2.1, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit mobiel breken bouw- en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   | artikelen 3 en 4  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md)   | artikel 5, vierde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md)   | artikel 11h, derde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../AMvB/besluit/typekeuring/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007465/README.md)   | artikelen 1 tot en met 8  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  | hoofdstuk 4  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  | hoofdstuk 4  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 7000 Uitvoering van bodemsaneringen  | hoofdstuk 4  |
-| Ministerie van Infrastructuur en Milieu  | BRL 7500 Bewerken van grond  | hoofdstuk 4  |
-| Ministerie van Infrastructuur en Milieu  |  [Inzamelingsregeling CFK en halonen](../../../../../../../ministeriele-regeling/inzamelingsregeling/cfk/en/halonen/BWBR0013984/README.md)   | artikelen 1, onderdeel f, en 4, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Productenregeling Asbest](../../../../../../../ministeriele-regeling/productenregeling/asbest/BWBR0018026/README.md)   | artikel 2  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling algemene regels voor inrichtingen milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 3.14  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikelen 1.12 en 1.13  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   | artikel 5, eerste, tweede en vierde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   | artikelen 3.1, 3.2 en 3.6  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling merkteken niet-herbruikbaar en niet-verbrandbaar bouw- en sloopafval](../../../../../../../ministeriele-regeling/regeling/merkteken/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/etc/BWBR0011352/README.md)   | artikel 3, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling verkeersregelaars 2009](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/2009/BWBR0025299/README.md)   | artikel 2, onderdelen a en b  |
-| Ministerie van Infrastructuur en Milieu  | Regeling verkeersregelaars 2009  | artikelen 3, 4, 5, 6 en 14  |
-| Ministerie van Infrastructuur en Milieu  | Regeling verkeersregelaars 2009  | artikel 5  |
-| Ministerie van Infrastructuur en Milieu  | Regeling verkeersregelaars 2009  | artikel 6  |
-| Ministerie van Infrastructuur en Milieu  | Regeling verkeersregelaars 2009  | artikel 7  |
-| Ministerie van Infrastructuur en Milieu  | Regeling verkeersregelaars 2009  | artikel 8  |
-| Ministerie van Infrastructuur en Milieu  |  [Stortbesluit bodembescherming](../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md)   | artikel 10  |
-| Ministerie van Infrastructuur en Milieu  | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer  | artikelen 2 en 18  |
-| Ministerie van Infrastructuur en Milieu  |  [Vrijstellingsregeling waterige fracties en reinigingswater 1998](../../../../../../../ministeriele-regeling/vrijstellingsregeling/waterige/fracties/en/reinigingswater/1998/BWBR0009351/README.md)   | artikel 8, eerste lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Vuurwerkbesluit](../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md)   | artikelen 3.3.2 en 3.3.3  |
-| Ministerie van Infrastructuur en Milieu  | Vuurwerkbesluit  | artikel 3.3.2, derde lid, en 3.3.4  |
-| Ministerie van Infrastructuur en Milieu  | Vuurwerkbesluit  | bijlage 1, voorschrift 5.2 en bijlage 2, voorschrift 1.5  |
-| Ministerie van Infrastructuur en Milieu  | Vuurwerkbesluit  | bijlage 1, voorschrift 5.3 en bijlage 2, voorschrift 1.6  |
-| Ministerie van Infrastructuur en Milieu  |  [Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md)   | artikel 6.10  |
-| Ministerie van Infrastructuur en Milieu  | Waterbesluit  | artikelen 6.13 en 6.14  |
-| Ministerie van Infrastructuur en Milieu  |  [Waterleidingbesluit](../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md)   | artikel 10, eerste en tweede lid  |
+| Ministerie van Financiën   | [Besluit toezicht accountantsorganisaties](../../../../../../../AMvB/besluit/toezicht/accountantsorganisaties/BWBR0020184/README.md)   | artikelen 1 en 27   |
+| Ministerie van Financiën   | [Wet toezicht accountantsorganisaties](../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)   | artikel 5   |
+| Ministerie van Financiën   | Wet toezicht accountantsorganisaties   | artikel 27   |
+| Ministerie van Infrastructuur en Milieu   | [Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)   | artikel 1.10   |
+| Ministerie van Infrastructuur en Milieu   | Activiteitenbesluit milieubeheer   | artikelen 3.20 en 4.80   |
+| Ministerie van Infrastructuur en Milieu   | Activiteitenbesluit milieubeheer   | artikel 4.18   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit bodemkwaliteit](../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [Regeling bodemkwaliteit](../../../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md)   | artikelen 9, 15, 38 en 40   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit brandveilig gebruik bouwwerken](../../../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md)   | artikel 2.12.1   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit broeikasgassen Wms 2003](../../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md)   | artikel 1, derde en vierde lid   |
+| Ministerie van Infrastructuur en Milieu   | Besluit emissie-eisen stookinstallaties milieubeheer   | voorschrift 10.2.2 van de bijlage   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit emissie-eisen stookinstallaties milieubeheer A](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/a/BWBR0004147/README.md)   | artikel 30b, vijfde lid   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit emissie-eisen stookinstallaties milieubeheer B](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004833/README.md)   | voorschriften 10.3.2 en 10.3.12 van de bijlage   |
+| Ministerie van Infrastructuur en Milieu  | [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md)  | artikel 4  |
+| Ministerie van Infrastructuur en Milieu   | [Besluit glastuinbouw](../../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)   | voorschrift 1.3.6, bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 1.6.2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 2.4.2, bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 3.2.7, bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw;  [Besluit landbouw milieubeheer](../../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)   | voorschrift 3.2.7 van bijlage 2 Besluit glastuinbouw;  voorschriften 1.3.13 en 3.2.6 van bijlage Besluit landbouw milieubeheer   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit handel in emissierechten](../../../../../../../AMvB/besluit/handel/in/emissierechten/BWBR0017779/README.md);  [Regeling monitoring handel in emissierechten](../../../../../../../ministeriele-regeling/regeling/monitoring/handel/in/emissierechten/BWBR0017699/README.md)   | artikelen 9 en 16 Besluit handel in emissierechten;  artikelen 17 en 47 Regeling monitoring handel in emissierechten   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../AMvB/besluit/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0003716/README.md)   | artikel 10   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md)   | artikel 9, onderdeel a   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9, onderdeel a jo. artikel 10   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9 onderdeel b   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9, onderdeel c   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw milieubeheer   | voorschrift 1.3.13, bijlage   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw milieubeheer   | voorschrift 2.1.1, bijlage en Richtlijnen mestbassins   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw Milieubeheer  | voorschrift 2.9.2, bijlage   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw Milieubeheer  | voorschriften 3.2.10 en 3.2.11, bijlage   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md)   | voorschrift 1.2, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit mestbassins milieubeheer](../../../../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md)   | voorschriften 1.5 en 2.1, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit mobiel breken bouw- en sloopafval](../../../../../../../AMvB/besluit/mobiel/breken/bouw-/en/sloopafval/BWBR0016292/README.md)   | artikelen 3 en 4   |
+| Ministerie van Infrastructuur en Milieu  | [Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md)  | artikel 5, vierde lid  |
+| Ministerie van Infrastructuur en Milieu   | [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md)   | artikel 11h, derde lid   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../AMvB/besluit/typekeuring/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007465/README.md)   | artikelen 1 tot en met 8   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek   | hoofdstuk 4   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering   | hoofdstuk 4   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 7000 Uitvoering van bodemsaneringen   | hoofdstuk 4   |
+| Ministerie van Infrastructuur en Milieu   | BRL 7500 Bewerken van grond   | hoofdstuk 4   |
+| Ministerie van Infrastructuur en Milieu   | [Inzamelingsregeling CFK en halonen](../../../../../../../ministeriele-regeling/inzamelingsregeling/cfk/en/halonen/BWBR0013984/README.md)   | artikelen 1, onderdeel f, en 4, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | [Productenregeling Asbest](../../../../../../../ministeriele-regeling/productenregeling/asbest/BWBR0018026/README.md)   | artikel 2   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling algemene regels voor inrichtingen milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 3.14   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikelen 1.12 en 1.13   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   | artikel 5, eerste, tweede en vierde lid   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   | artikelen 3.1, 3.2 en 3.6   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling merkteken niet-herbruikbaar en niet-verbrandbaar bouw- en sloopafval](../../../../../../../ministeriele-regeling/regeling/merkteken/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/etc/BWBR0011352/README.md)   | artikel 3, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling verkeersregelaars 2009](../../../../../../../ministeriele-regeling/regeling/verkeersregelaars/2009/BWBR0025299/README.md)   | artikel 2, onderdelen a en b   |
+| Ministerie van Infrastructuur en Milieu   | Regeling verkeersregelaars 2009  | artikelen 3, 4, 5, 6 en 14   |
+| Ministerie van Infrastructuur en Milieu   | Regeling verkeersregelaars 2009   | artikel 5   |
+| Ministerie van Infrastructuur en Milieu   | Regeling verkeersregelaars 2009   | artikel 6   |
+| Ministerie van Infrastructuur en Milieu   | Regeling verkeersregelaars 2009   | artikel 7   |
+| Ministerie van Infrastructuur en Milieu   | Regeling verkeersregelaars 2009   | artikel 8   |
+| Ministerie van Infrastructuur en Milieu   | [Stortbesluit bodembescherming](../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md)   | artikel 10   |
+| Ministerie van Infrastructuur en Milieu   | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer   | artikelen 2 en 18   |
+| Ministerie van Infrastructuur en Milieu   | [Vrijstellingsregeling waterige fracties en reinigingswater 1998](../../../../../../../ministeriele-regeling/vrijstellingsregeling/waterige/fracties/en/reinigingswater/1998/BWBR0009351/README.md)   | artikel 8, eerste lid   |
+| Ministerie van Infrastructuur en Milieu   | [Vuurwerkbesluit](../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md)   | artikelen 3.3.2 en 3.3.3   |
+| Ministerie van Infrastructuur en Milieu   | Vuurwerkbesluit   | artikel 3.3.2, derde lid, en 3.3.4   |
+| Ministerie van Infrastructuur en Milieu   | Vuurwerkbesluit   | bijlage 1, voorschrift 5.2 en bijlage 2, voorschrift 1.5   |
+| Ministerie van Infrastructuur en Milieu   | Vuurwerkbesluit   | bijlage 1, voorschrift 5.3 en bijlage 2, voorschrift 1.6   |
+| Ministerie van Infrastructuur en Milieu   | [Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md)   | artikel 6.10   |
+| Ministerie van Infrastructuur en Milieu   | Waterbesluit   | artikelen 6.13 en 6.14   |
+| Ministerie van Infrastructuur en Milieu  | [Waterleidingbesluit](../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md)  | artikel 10, eerste en tweede lid  |
 | Ministerie van Infrastructuur en Milieu  | Waterleidingbesluit  | artikel 10, vierde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md)   | artikel 6.4  |
-| Ministerie van Infrastructuur en Milieu  | Waterwet;  Waterbesluit  | artikel 6.2 Waterwet  jo. artikelen 6.2 tot en met 6.6 Waterbesluit  |
-| Ministerie van Infrastructuur en Milieu  | Waterwet;  Waterbesluit  | artikel 6.3 Waterwet  jo. artikelen 6.8, eerste lid, en 6.9, eerste lid, Waterbesluit  |
-| Ministerie van Infrastructuur en Milieu  |  [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)   | artikel 2.1, eerste lid, onder d en e  |
-| Ministerie van Infrastructuur en Milieu  | [Wet bescherming Antarctica](../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en [Besluit bescherming Antarctica](../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md)  | artikel 8, eerste lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   | artikelen 5 en 6  |
-| Ministerie van Infrastructuur en Milieu  | Wet explosieven voor civiel gebruik  | artikelen 10, 11 en 15  |
-| Ministerie van Infrastructuur en Milieu  | Wet explosieven voor civiel gebruik  | artikelen 17 tot en met 19  |
-| Ministerie van Infrastructuur en Milieu  |  [Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md)   | artikel 10  |
-| Ministerie van Infrastructuur en Milieu  |  [Wet op de waterhuishouding](../../../../../../../wet/wet/op/de/waterhuishouding/BWBR0004575/README.md)   | artikelen 11, derde lid, onderdeel e, 12 en 24  |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  |  [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)   | artikel 45  |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  |  [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)   | artikelen 1.45, 1.47, 1.49, 1.50, 1.51, 1.55 en 1.56  |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  | Wet kinderopvang en kwaliteitseisen peuterspeelzalen  | artikelen 1.48 en 1.48a  |
-| Ministerie van Onderwijs, Cultuur en Wetenschap  |  [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   | artikelen 1.12 en 1.12a  |
+| Ministerie van Infrastructuur en Milieu   | [Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md)   | artikel 6.4   |
+| Ministerie van Infrastructuur en Milieu   | Waterwet;  Waterbesluit   | artikel 6.2 Waterwet  jo. artikelen 6.2 tot en met 6.6 Waterbesluit   |
+| Ministerie van Infrastructuur en Milieu   | Waterwet;  Waterbesluit  | artikel 6.3 Waterwet  jo. artikelen 6.8, eerste lid, en 6.9, eerste lid, Waterbesluit  |
+| Ministerie van Infrastructuur en Milieu   | [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)   | artikel 2.1, eerste lid, onder d en e   |
+| Ministerie van Infrastructuur en Milieu   | [Wet bescherming Antarctica](../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en [Besluit bescherming Antarctica](../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md)   | artikel 8, eerste lid   |
+| Ministerie van Infrastructuur en Milieu   | [Wet explosieven voor civiel gebruik](../../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md)   | artikelen 5 en 6   |
+| Ministerie van Infrastructuur en Milieu   | Wet explosieven voor civiel gebruik   | artikelen 10, 11 en 15   |
+| Ministerie van Infrastructuur en Milieu   | Wet explosieven voor civiel gebruik   | artikelen 17 tot en met 19   |
+| Ministerie van Infrastructuur en Milieu   | [Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md)   | artikel 10   |
+| Ministerie van Infrastructuur en Milieu   | [Wet op de waterhuishouding](../../../../../../../wet/wet/op/de/waterhuishouding/BWBR0004575/README.md)   | artikelen 11, derde lid, onderdeel e, 12 en 24   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap   | [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md)   | artikel 45   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap   | [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)   | artikelen 1.45, 1.47, 1.49, 1.50, 1.51, 1.55 en 1.56   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap   | Wet kinderopvang en kwaliteitseisen peuterspeelzalen   | artikelen 1.48 en 1.48a   |
+| Ministerie van Onderwijs, Cultuur en Wetenschap   | [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)   | artikelen 1.12 en 1.12a   |
 | Ministerie van Onderwijs, Cultuur en Wetenschap  | Wet op het hoger onderwijs en wetenschappelijk onderzoek  | artikel 6.9 jo. artikel 1.11  |
-| Ministerie van Veiligheid en Justitie  |  [Advocatenwet](../../../../../../../wet/advocatenwet/BWBR0002093/README.md)   | artikel 2, eerste lid  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikel 2 tweede lid  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikelen 2, tweede lid, en 2a, vijfde lid  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikelen 9a, 9aa en 9b  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikel 12, eerste en vierde lid  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikelen 16g tot en met 16k  |
-| Ministerie van Veiligheid en Justitie  |  [Besluit DNA-onderzoek in strafzaken](../../../../../../../AMvB/besluit/dna-onderzoek/in/strafzaken/BWBR0012791/README.md)   | artikel 7, eerste en tweede lid  |
-| Ministerie van Veiligheid en Justitie  |  [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md)   | artikelen 23b tot en met 23k  |
-| Ministerie van Veiligheid en Justitie  |  [Samenwerkingsverordening 1993](../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md)   | artikelen 4, onderdeel c, jo. artikel 5, jo. artikel 6  |
-| Ministerie van Veiligheid en Justitie  | Samenwerkingsverordening 1993  | artikel 7  |
-| Ministerie van Veiligheid en Justitie  | Samenwerkingsverordening 1993  | artikel 9, tweede lid  |
-| Ministerie van Veiligheid en Justitie  |  [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   | artikel 4  |
-| Ministerie van Veiligheid en Justitie  |  [Stageverordening verordening op de praktijkrechtspersoon](../../../../../../../pbo/verordening/op/de/praktijkrechtspersoon/BWBR0007831/README.md)   | artikel 4, vierde lid  |
-| Ministerie van Veiligheid en Justitie  | Stageverordening 1988/ [2005](../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/directie/kennis/BWBR0018276/README.md)  | artikel 4, eerste lid  |
-| Ministerie van Veiligheid en Justitie  | Stageverordening 1988/2005  | artikel 4, vijfde lid  |
-| Ministerie van Veiligheid en Justitie  | Stageverordening 1988/2005  | artikel 10, tweede lid  |
-| Ministerie van Veiligheid en Justitie  | Stageverordening 1988/2005  | artikel 11a  |
-| Ministerie van Veiligheid en Justitie  |  [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md)   | artikelen 2, 3, 4 en 5  |
-| Ministerie van Veiligheid en Justitie  |  [Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md)   | artikelen 30h, 30i en 30t  |
-| Ministerie van Veiligheid en Justitie  | Wet op de kansspelen;  [Speelautomatenbesluit 2000](../../../../../../../AMvB/speelautomatenbesluit/2000/BWBR0011373/README.md);   [Speelautomatenregeling](../../../../../../../ministeriele-regeling/speelautomatenregeling/2000/BWBR0011382/README.md)   | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6 en 7 jo. artikelen 4 en 9 tot en met 13 en 16 Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  |
-| Ministerie van Veiligheid en Justitie  |  [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   | artikelen 2, 4, 3b en 14  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 5, vierde lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 7, eerste lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 7, tweede lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 9, derde lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 10, eerste jo. vijfde lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus;   [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md)   | artikel 6 Wet particuliere beveiligingsorganisaties en recherchebureaus jo. artikel 20, eerste en tweede lid, Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  |  [Wet wapens en munitie](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   | artikel 14, eerste lid  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Drank- en Horecawet](../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)   | artikel 23  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Drank- en Horecawet  | artikel 35  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Drank- en Horecawet;   [Regeling aanvraagformulieren Drank- en Horecawet](../../../../../../../ministeriele-regeling/regeling/aanvraaggegevens/en/formulieren/drank-/en/horecawet/BWBR0007743/README.md)   | artikelen 3, 4, 5 en 7 Drank- en Horeacwet;  artikelen 2, 3 en 4 Regeling aanvraagformulieren Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | [Warenwetbesluit attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) en [nadere regels attractie en speeltoestellen](../../../../../../../ministeriele-regeling/nadere/regels/attractie-/en/speeltoestellen/BWBR0008545/README.md)  | artikelen 8, 10, 11, 12, 13 en 19, eerste lid, onderdeel a  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  | artikelen 8, 10, 11, 12, 13 en 19, eerste lid, onderdeel b  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md)   | artikel 6d, eerste lid, onderdeel b  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md);   [Warenwetbesluit tatoeëren en piercen](../../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md)   | artikel 24 Warenwet;  artikelen 3, 6 en 9  Warenwetbesluit tatoeëren en piercen  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)   | artikel 2  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven  | artikelen 10, 10b, 10d, 10e, 11 en 16 Wet op de dierproeven  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven;   [Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md)   | artikelen 10a, 10c, en 18a tot en met 18g Wet op de dierproeven;  artikel 2a Dierproevenbesluit  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven;  Dierproevenbesluit  | artikel 11a Wet op de dierproeven;  artikel 11a Dierproevenbesluit  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven;  Dierproevenbesluit;   [Regeling erkenning diploma's Dierproevenbesluit](../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md)   | artikelen 12, 13, 15 en 16 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 2 Regeling erkenning diploma's Dierproevenbesluit  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven;  Dierproevenbesluit;  Regeling registratie proefdieren en dierproeven  | artikel 9 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 1 Regeling registratie proefdieren en dierproeven  |
+| Ministerie van Veiligheid en Justitie   | [Advocatenwet](../../../../../../../wet/advocatenwet/BWBR0002093/README.md)   | artikel 2, eerste lid   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikel 2 tweede lid   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikelen 2, tweede lid, en 2a, vijfde lid   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikelen 9a, 9aa en 9b   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikel 12, eerste en vierde lid   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikelen 16g tot en met 16k   |
+| Ministerie van Veiligheid en Justitie   | [Besluit DNA-onderzoek in strafzaken](../../../../../../../AMvB/besluit/dna-onderzoek/in/strafzaken/BWBR0012791/README.md)   | artikel 7, eerste en tweede lid   |
+| Ministerie van Veiligheid en Justitie   | [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md)   | artikelen 23b tot en met 23k   |
+| Ministerie van Veiligheid en Justitie   | [Samenwerkingsverordening 1993](../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md)   | artikelen 4, onderdeel c, jo. artikel 5, jo. artikel 6   |
+| Ministerie van Veiligheid en Justitie   | Samenwerkingsverordening 1993   | artikel 7   |
+| Ministerie van Veiligheid en Justitie   | Samenwerkingsverordening 1993   | artikel 9, tweede lid   |
+| Ministerie van Veiligheid en Justitie   | [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   | artikel 4   |
+| Ministerie van Veiligheid en Justitie   | [Stageverordening verordening op de praktijkrechtspersoon](../../../../../../../pbo/verordening/op/de/praktijkrechtspersoon/BWBR0007831/README.md)   | artikel 4, vierde lid   |
+| Ministerie van Veiligheid en Justitie   | Stageverordening 1988/[2005](../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/directie/kennis/BWBR0018276/README.md)   | artikel 4, eerste lid   |
+| Ministerie van Veiligheid en Justitie   | Stageverordening 1988/2005   | artikel 4, vijfde lid   |
+| Ministerie van Veiligheid en Justitie   | Stageverordening 1988/2005  | artikel 10, tweede lid   |
+| Ministerie van Veiligheid en Justitie   | Stageverordening 1988/2005   | artikel 11a   |
+| Ministerie van Veiligheid en Justitie   | [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md)   | artikelen 2, 3, 4 en 5   |
+| Ministerie van Veiligheid en Justitie   | [Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md)  | artikelen 30h, 30i en 30t  |
+| Ministerie van Veiligheid en Justitie   | Wet op de kansspelen;  [Speelautomatenbesluit 2000](../../../../../../../AMvB/speelautomatenbesluit/2000/BWBR0011373/README.md);  [Speelautomatenregeling](../../../../../../../ministeriele-regeling/speelautomatenregeling/2000/BWBR0011382/README.md)  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6 en 7 jo. artikelen 4 en 9 tot en met 13 en 16 Speelautomatenbesluit 2000;  artikelen 3 en 4 Speelautomatenregeling  |
+|  Ministerie van Veiligheid en Justitie   | [Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md)   | artikelen 2, 4, 3b en 14   |
+|  Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 5, vierde lid   |
+|  Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 7, eerste lid   |
+|  Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 7, tweede lid   |
+|  Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 9, derde lid   |
+|  Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 10, eerste jo. vijfde lid   |
+| Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus;  [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md)   | artikel 6 Wet particuliere beveiligingsorganisaties en recherchebureaus jo. artikel 20, eerste en tweede lid, Regeling particuliere beveiligingsorganisaties en recherchebureaus   |
+|  Ministerie van Veiligheid en Justitie   | [Wet wapens en munitie](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)   | artikel 14, eerste lid   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Drank- en Horecawet](../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md)   | artikel 23   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Drank- en Horecawet   | artikel 35   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Drank- en Horecawet;  [Regeling aanvraagformulieren Drank- en Horecawet](../../../../../../../ministeriele-regeling/regeling/aanvraaggegevens/en/formulieren/drank-/en/horecawet/BWBR0007743/README.md)   | artikelen 3, 4, 5 en 7 Drank- en Horeacwet;  artikelen 2, 3 en 4 Regeling aanvraagformulieren Drank- en Horecawet   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Warenwetbesluit attractie- en speeltoestellen](../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) en [nadere regels attractie en speeltoestellen](../../../../../../../ministeriele-regeling/nadere/regels/attractie-/en/speeltoestellen/BWBR0008545/README.md)   | artikelen 8, 10, 11, 12, 13 en 19, eerste lid, onderdeel a  |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen   | artikelen 8, 10, 11, 12, 13 en 19, eerste lid, onderdeel b  |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Warenwetbesluit persoonlijke beschermingsmiddelen](../../../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md)   | artikel 6d, eerste lid, onderdeel b   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md);  [Warenwetbesluit tatoeëren en piercen](../../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md)   | artikel 24 Warenwet;  artikelen 3, 6 en 9  Warenwetbesluit tatoeëren en piercen   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Wet op de dierproeven](../../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)   | artikel 2   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven   | artikelen 10, 10b, 10d, 10e, 11 en 16 Wet op de dierproeven   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven;  [Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md)   | artikelen 10a, 10c, en 18a tot en met 18g Wet op de dierproeven;  artikel 2a Dierproevenbesluit   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven;  Dierproevenbesluit   | artikel 11a Wet op de dierproeven;  artikel 11a Dierproevenbesluit   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven;  Dierproevenbesluit;  [Regeling erkenning diploma's Dierproevenbesluit](../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md)   | artikelen 12, 13, 15 en 16 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 2 Regeling erkenning diploma's Dierproevenbesluit   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven;  Dierproevenbesluit;  Regeling registratie proefdieren en dierproeven   | artikel 9 Wet op de dierproeven;  artikel 10 Dierproevenbesluit;  artikel 1 Regeling registratie proefdieren en dierproeven   |
 
 ### §  1.2  
 
 ####– Eisen van de Rijksoverheid
 
-| Regelgever  | Naam regelgeving  | Bepaling/artikel (nummer)  |
+| Regelgever   | Naam regelgeving   | Bepaling/artikel (nummer)   |
 |:---|:---|:---|
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  |  [Besluit huurprijzen woonruimte](../../../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md)   | artikelen 5 en 12  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  |  [Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md)   | n.v.t.  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  |  [Uitvoeringsregeling huurprijzen woonruimte](../../../../../../../ministeriele-regeling/uitvoeringsregeling/huurprijzen/woonruimte/BWBR0015386/README.md)   | artikelen 2 tot en met 6  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  |  [Uitvoeringswet huurprijzen woonruimte](../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md)   | artikel 10  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  [Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md);   [Regeling gemeentelijke basisadministratie persoonsgegevens](../../../../../../../ministeriele-regeling/regeling/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006935/README.md)   | artikel 15 Wet gemeentelijke basisadministratie persoonsgegevens;  artikel 50 tot en met 53 Besluit gemeentelijke basisadministratie persoonsgegevens;  artikelen 18 tot en met 30 Regeling gemeentelijke basisadministratie persoonsgegevens  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  | Wet gemeentelijke basisadministratie persoonsgegevens;  Besluit gemeentelijke basisadministratie persoonsgegevens;  Regeling gemeentelijke basisadministratie persoonsgegevens  | artikel 120a, tweede lid, Wet Gemeentelijke basisadministratie persoonsgegevens; artikel 53b Besluit Gemeentelijke basisadministratie persoonsgegevens;  artikelen 25 tot en met 41 Regeling gemeentelijke basisadministratie persoonsgegevens  |
-| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties  |  [Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md)   | artikel 5  |
-| Ministerie van Economische Zaken  |  [Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md)   | artikel 6  |
-| Ministerie van Economische Zaken  |  [Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md)   | artikelen 8 en 10  |
-| Ministerie van Economische Zaken  |  [Besluit informatie-uitwisseling ondergrondse netten](../../../../../../../AMvB/besluit/informatie-uitwisseling/ondergrondse/netten/BWBR0024041/README.md)   | artikel 2, eerste, tweede en derde lid, jo. artikel 5, eerste tot en met zesde lid  |
-| Ministerie van Economische Zaken  | Besluit informatie-uitwisseling ondergrondse netten  | artikel 7, eerste en derde lid  |
-| Ministerie van Economische Zaken  | Besluit informatie-uitwisseling ondergrondse netten  | artikel 7, vierde lid  |
-| Ministerie van Economische Zaken  | Besluit informatie-uitwisseling ondergrondse netten  | artikel 7, zesde lid  |
-| Ministerie van Economische Zaken  | Besluit informatie-uitwisseling ondergrondse netten  | artikel 7, zevende lid  |
-| Ministerie van Economische Zaken  |  [Besluit ritueel slachten](../../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md)   | artikelen 5 en 9, derde lid  |
-| Ministerie van Economische Zaken  | Besluit ritueel slachten  | artikelen 8, tweede en derde lid, en artikel 9, eerste lid  |
-| Ministerie van Economische Zaken  |  [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md)   | artikel 31, eerste, tweede en vierde lid,  |
-| Ministerie van Economische Zaken  | Besluit stralingsbescherming  | artikel 120  |
-| Ministerie van Economische Zaken  |  [Besluit tot vaststelling meettarieven elektriciteit 2008](../../../../../../../ministeriele-regeling/regeling/meettarieven/elektriciteit/2008/BWBR0022315/README.md)   | punt 7  |
-| Ministerie van Economische Zaken  | Besluit tot wijziging van het Besluit identificatie en registratie van honden in verband met het verplicht stellen van identificatie en registratie van honden  | artikelen 4b, 4c, vierde lid, en 4k  |
-| Ministerie van Economische Zaken  |  [Elektriciteitswet](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md)   | artikel 16c, derde lid  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet  | artikelen 13 en 75, eerste lid  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  | artikelen 13 en 75, eerste lid Flora- en Faunawet;  artikelen 4, 5, eerste lid, en 9 Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  | artikelen 13 en 75, eerste lid, Flora- en Faunawet;  artikelen 10 en 11, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken  | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten  | artikel 14, derde en vierde lid, Flora- en faunawet;  artikel 9a Besluit vrijstelling beschermde dier- en plantensoorten  |
-| Ministerie van Economische Zaken  | Gaswet  | artikel 66b, tweede, vierde en vijfde lid  |
-| Ministerie van Economische Zaken  | Gaswet  | artikelen 80a en 81e  |
-| Ministerie van Economische Zaken  | Gezondheids- en welzijnswet voor dieren;  Besluit biotechnologie bij dieren  | artikel 66 Gezondheids- en welzijnswet voor dieren;  artikel 11a Besluit biotechnologie bij dieren  |
-| Ministerie van Economische Zaken  |  Handelsregisterwet   | artikel 19  |
-| Ministerie van Economische Zaken  | [Ingrepenbesluit](../../../../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md);  Vrijstellingsregeling dierenwelzijn  | artikelen 2, 3 en 4 Ingrepenbesluit;  artikelen 1 en 2 Vrijstellingsregeling dierenwelzijn  |
-| Ministerie van Economische Zaken  | Kernenergiewet  | artikel 28  |
-| Ministerie van Economische Zaken  | Meetcode Elektriciteit  | artikel 5.1  |
-| Ministerie van Economische Zaken  | Meetvoorwaarden Gas-RNB  | artikelen 3.1 tot en met 3.6 en bijlage 1  |
-| Ministerie van Economische Zaken  | Meststoffenwet  | artikel 27, eerste lid  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 4 en 5  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikel 23, eerste lid  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 26 en 27  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 35, tweede en derde lid, 39 en 40  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikel 46 tot en met 54 en 57 tot en met 66  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 66 en 67  |
-| Ministerie van Economische Zaken  | Mijnbouwbesluit  | artikelen 108 tot en met 119  |
-| Ministerie van Economische Zaken  |  [Mijnbouwregeling](../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md)   | artikelen 2.2.1 tot en met 2.2.4  |
-| Ministerie van Economische Zaken  |  [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   | artikel 33  |
-| Ministerie van Economische Zaken  | Mijnbouwwet  | artikel 41  |
-| Ministerie van Economische Zaken  | Natuurbeschermingswet 1998  | artikel 21, tweede lid  |
-| Ministerie van Economische Zaken  |  [Postregeling 2009](../../../../../../../ministeriele-regeling/postregeling/2009/BWBR0025578/README.md)   | artikelen 17a en 17b  |
-| Ministerie van Economische Zaken  |  [Postwet](../../../../../../../wet/postwet/BWBR0004423/README.md)   | artikel 4  |
-| Ministerie van Economische Zaken  |  [Regeling detectie radioactief besmet schroot](../../../../../../../ministeriele-regeling/regeling/detectie/radioactief/besmet/schroot/BWBR0014983/README.md)   | artikel 4  |
-| Ministerie van Economische Zaken  | Regeling detectie radioactief besmet schroot  | artikel 4 en bijlage  |
-| Ministerie van Economische Zaken  | Regeling detectie radioactief besmet schroot  | artikel 5  |
-| Ministerie van Economische Zaken  |  [Regeling eisen aan administratie inzake zoetwatervis](../../../../../../../ministeriele-regeling/regeling/eisen/aan/administratie/inzake/zoetwatervis/BWBR0014543/README.md)   | artikel 2, eerste lid  |
-| Ministerie van Economische Zaken  | Regeling eisen aan administratie inzake zoetwatervis  | artikel 2, tweede lid  |
-| Ministerie van Economische Zaken  |  [Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md)   | artikel 25, tweede en vierde lid  |
-| Ministerie van Economische Zaken  | Regeling erkenning en aanwijzing veterinaire laboratoria  | artikelen 14, 15 en 16  |
-| Ministerie van Economische Zaken  | Regeling nucleaire drukapparatuur  | artikel 4  |
-| Ministerie van Economische Zaken  |  [Regeling preventie, bestrijding, monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)   | artikelen 19 en 20  |
-| Ministerie van Economische Zaken  |  [Regeling universele dienstverlening en eindgebruikersbelangen](../../../../../../../ministeriele-regeling/regeling/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016709/README.md)   | artikel 3.2g, eerste lid, onderdeel b, en tweede lid  |
-| Ministerie van Economische Zaken  | Regeling vleeskeuring  | artikel 9  |
-| Ministerie van Economische Zaken  | Regeling vleeskeuring  | artikel 9, eerste lid  |
-| Ministerie van Economische Zaken  |  [Reglement voor de binnenvisserij 1985](../../../../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md)   | artikel 10a  |
-| Ministerie van Economische Zaken  |  [Reglement zee- en kustvisserij 1977](../../../../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md)   | artikel 5  |
-| Ministerie van Economische Zaken  | Systeemcode Elektriciteit  | artikel 3.1.5  |
-| Ministerie van Economische Zaken  | Systeemcode Elektriciteit  | artikel 3.1.10  |
-| Ministerie van Economische Zaken  |  [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)   | artikelen 2, 3, 4 en 6  |
-| Ministerie van Economische Zaken  | Tijdelijke vrijstellingsregeling gasverdoving biggen  | artikelen 2, 3, 4 en 7  |
-| Ministerie van Economische Zaken  | Uitvoeringsregeling Meststoffenwet  | artikel 27  |
-| Ministerie van Economische Zaken  | Uitvoeringsregeling Meststoffenwet  | artikel 81, eerste lid  |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Besluit huurprijzen woonruimte](../../../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md)   | artikelen 5 en 12   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md)   | n.v.t.   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Uitvoeringsregeling huurprijzen woonruimte](../../../../../../../ministeriele-regeling/uitvoeringsregeling/huurprijzen/woonruimte/BWBR0015386/README.md)   | artikelen 2 tot en met 6   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Uitvoeringswet huurprijzen woonruimte](../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md)   | artikel 10   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md);  [Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md);  [Regeling gemeentelijke basisadministratie persoonsgegevens](../../../../../../../ministeriele-regeling/regeling/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006935/README.md)   | artikel 15 Wet gemeentelijke basisadministratie persoonsgegevens;  artikel 50 tot en met 53 Besluit gemeentelijke basisadministratie persoonsgegevens;  artikelen 18 tot en met 30 Regeling gemeentelijke basisadministratie persoonsgegevens   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | Wet gemeentelijke basisadministratie persoonsgegevens;  Besluit gemeentelijke basisadministratie persoonsgegevens;  Regeling gemeentelijke basisadministratie persoonsgegevens   | artikel 120a, tweede lid, Wet Gemeentelijke basisadministratie persoonsgegevens; artikel 53b Besluit Gemeentelijke basisadministratie persoonsgegevens;  artikelen 25 tot en met 41 Regeling gemeentelijke basisadministratie persoonsgegevens   |
+| Ministerie van Binnenlandse Zaken en Koninkrijksrelaties   | [Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md)   | artikel 5   |
+| Ministerie van Economische Zaken   | [Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md)   | artikel 6   |
+| Ministerie van Economische Zaken   | [Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md)   | artikelen 8 en 10   |
+| Ministerie van Economische Zaken   | [Besluit informatie-uitwisseling ondergrondse netten](../../../../../../../AMvB/besluit/informatie-uitwisseling/ondergrondse/netten/BWBR0024041/README.md)   | artikel 2, eerste, tweede en derde lid, jo. artikel 5, eerste tot en met zesde lid   |
+| Ministerie van Economische Zaken   | Besluit informatie-uitwisseling ondergrondse netten   | artikel 7, eerste en derde lid   |
+| Ministerie van Economische Zaken   | Besluit informatie-uitwisseling ondergrondse netten   | artikel 7, vierde lid   |
+| Ministerie van Economische Zaken   | Besluit informatie-uitwisseling ondergrondse netten   | artikel 7, zesde lid   |
+| Ministerie van Economische Zaken   | Besluit informatie-uitwisseling ondergrondse netten   | artikel 7, zevende lid   |
+| Ministerie van Economische Zaken   | [Besluit ritueel slachten](../../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md)   | artikelen 5 en 9, derde lid   |
+| Ministerie van Economische Zaken   | Besluit ritueel slachten   | artikelen 8, tweede en derde lid, en artikel 9, eerste lid   |
+| Ministerie van Economische Zaken   | [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md)   | artikel 31, eerste, tweede en vierde lid,   |
+| Ministerie van Economische Zaken   | Besluit stralingsbescherming   | artikel 120   |
+| Ministerie van Economische Zaken   | [Besluit tot vaststelling meettarieven elektriciteit 2008](../../../../../../../ministeriele-regeling/regeling/meettarieven/elektriciteit/2008/BWBR0022315/README.md)   | punt 7   |
+| Ministerie van Economische Zaken  | Besluit tot wijziging van het Besluit identificatie en registratie van honden in verband met het verplicht stellen van identificatie en registratie van honden   | artikelen 4b, 4c, vierde lid, en 4k   |
+| Ministerie van Economische Zaken   | [Elektriciteitswet](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md)   | artikel 16c, derde lid   |
+| Ministerie van Economische Zaken   | Flora- en Faunawet   | artikelen 13 en 75, eerste lid   |
+| Ministerie van Economische Zaken   | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten   | artikelen 13 en 75, eerste lid Flora- en Faunawet;  artikelen 4, 5, eerste lid, en 9 Besluit vrijstelling beschermde dier- en plantensoorten   |
+| Ministerie van Economische Zaken   | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten   | artikelen 13 en 75, eerste lid, Flora- en Faunawet;  artikelen 10 en 11, tweede lid, Besluit vrijstelling beschermde dier- en plantensoorten   |
+| Ministerie van Economische Zaken   | Flora- en Faunawet;  Besluit vrijstelling beschermde dier- en plantensoorten   | artikel 14, derde en vierde lid, Flora- en faunawet;  artikel 9a Besluit vrijstelling beschermde dier- en plantensoorten   |
+| Ministerie van Economische Zaken   | Gaswet   | artikel 66b, tweede, vierde en vijfde lid   |
+| Ministerie van Economische Zaken   | Gaswet   | artikelen 80a en 81e   |
+| Ministerie van Economische Zaken   | Gezondheids- en welzijnswet voor dieren;  Besluit biotechnologie bij dieren   | artikel 66 Gezondheids- en welzijnswet voor dieren;  artikel 11a Besluit biotechnologie bij dieren   |
+| Ministerie van Economische Zaken   | Handelsregisterwet   | artikel 19   |
+| Ministerie van Economische Zaken   | [Ingrepenbesluit](../../../../../../../AMvB/ingrepenbesluit/BWBR0007864/README.md);  Vrijstellingsregeling dierenwelzijn   | artikelen 2, 3 en 4 Ingrepenbesluit;  artikelen 1 en 2 Vrijstellingsregeling dierenwelzijn   |
+| Ministerie van Economische Zaken   | Kernenergiewet   | artikel 28   |
+| Ministerie van Economische Zaken   | Meetcode Elektriciteit   | artikel 5.1   |
+| Ministerie van Economische Zaken   | Meetvoorwaarden Gas-RNB   | artikelen 3.1 tot en met 3.6 en bijlage 1   |
+| Ministerie van Economische Zaken   | Meststoffenwet   | artikel 27, eerste lid   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 4 en 5   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikel 23, eerste lid   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 26 en 27   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 35, tweede en derde lid, 39 en 40   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikel 46 tot en met 54 en 57 tot en met 66   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 66 en 67   |
+| Ministerie van Economische Zaken   | Mijnbouwbesluit   | artikelen 108 tot en met 119   |
+| Ministerie van Economische Zaken   | [Mijnbouwregeling](../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md)   | artikelen 2.2.1 tot en met 2.2.4   |
+| Ministerie van Economische Zaken   | [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md)   | artikel 33   |
+| Ministerie van Economische Zaken   | Mijnbouwwet   | artikel 41   |
+| Ministerie van Economische Zaken   | Natuurbeschermingswet 1998   | artikel 21, tweede lid   |
+| Ministerie van Economische Zaken  | [Postregeling 2009](../../../../../../../ministeriele-regeling/postregeling/2009/BWBR0025578/README.md)  | artikelen 17a en 17b  |
+| Ministerie van Economische Zaken   | [Postwet](../../../../../../../wet/postwet/BWBR0004423/README.md)   | artikel 4   |
+| Ministerie van Economische Zaken   | [Regeling detectie radioactief besmet schroot](../../../../../../../ministeriele-regeling/regeling/detectie/radioactief/besmet/schroot/BWBR0014983/README.md)   | artikel 4   |
+| Ministerie van Economische Zaken   | Regeling detectie radioactief besmet schroot   | artikel 4 en bijlage   |
+| Ministerie van Economische Zaken   | Regeling detectie radioactief besmet schroot   | artikel 5   |
+| Ministerie van Economische Zaken   | [Regeling eisen aan administratie inzake zoetwatervis](../../../../../../../ministeriele-regeling/regeling/eisen/aan/administratie/inzake/zoetwatervis/BWBR0014543/README.md)   | artikel 2, eerste lid   |
+| Ministerie van Economische Zaken   | Regeling eisen aan administratie inzake zoetwatervis   | artikel 2, tweede lid   |
+| Ministerie van Economische Zaken   | [Regeling eisen, administratie en registratie inzake uitoefening visserij](../../../../../../../ministeriele-regeling/regeling/eisen/administratie/en/registratie/inzake/uitoefening/visserij/BWBR0020043/README.md)   | artikel 25, tweede en vierde lid   |
+| Ministerie van Economische Zaken   | Regeling erkenning en aanwijzing veterinaire laboratoria   | artikelen 14, 15 en 16   |
+| Ministerie van Economische Zaken   | Regeling nucleaire drukapparatuur   | artikel 4   |
+| Ministerie van Economische Zaken   | [Regeling preventie, bestrijding, monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  | artikelen 19 en 20   |
+| Ministerie van Economische Zaken  | [Regeling universele dienstverlening en eindgebruikersbelangen](../../../../../../../ministeriele-regeling/regeling/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016709/README.md)  | artikel 3.2g, eerste lid, onderdeel b, en tweede lid  |
+| Ministerie van Economische Zaken   | Regeling vleeskeuring   | artikel 9   |
+| Ministerie van Economische Zaken   | Regeling vleeskeuring   | artikel 9, eerste lid   |
+| Ministerie van Economische Zaken   | [Reglement voor de binnenvisserij 1985](../../../../../../../AMvB/reglement/voor/de/binnenvisserij/1985/BWBR0009027/README.md)   | artikel 10a   |
+| Ministerie van Economische Zaken   | [Reglement zee- en kustvisserij 1977](../../../../../../../AMvB/reglement/zee-/en/kustvisserij/1977/BWBR0003144/README.md)   | artikel 5   |
+| Ministerie van Economische Zaken   | Systeemcode Elektriciteit   | artikel 3.1.5   |
+| Ministerie van Economische Zaken   | Systeemcode Elektriciteit   | artikel 3.1.10   |
+| Ministerie van Economische Zaken   | [Tijdelijke vrijstellingsregeling gasverdoving biggen](../../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/gasverdoving/biggen/2008/BWBR0024406/README.md)   | artikelen 2, 3, 4 en 6   |
+| Ministerie van Economische Zaken   | Tijdelijke vrijstellingsregeling gasverdoving biggen   | artikelen 2, 3, 4 en 7   |
+| Ministerie van Economische Zaken   | Uitvoeringsregeling Meststoffenwet   | artikel 27   |
+| Ministerie van Economische Zaken   | Uitvoeringsregeling Meststoffenwet   | artikel 81, eerste lid   |
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 2, eerste tot en met zevende lid jo artikel 5, eerste lid  |
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 4, eerste en tweede lid  |
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 6, eerste lid jo artikel 5 Warmtebesluit  |
@@ -375,150 +375,150 @@ M.J.A. van derHoeven
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 12a, eerste lid  |
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 12b, eerste lid  |
 | Ministerie van Economische Zaken  | Warmtewet  | artikel 12b, zesde lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 2, tweede lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 3, eerste lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 6, tweede lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 10  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 13, eerste lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 15, eerste lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 16  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 17, eerste lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 17, derde lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 18, eerste lid  |
-| Ministerie van Economische Zaken  | Wet informatie-uitwisseling ondergrondse netten  | artikel 18, derde lid  |
-| Ministerie van Economische Zaken  | Wet ruimtevaartactiviteiten  | artikel 10, eerste en tweede lid  |
-| Ministerie van Infrastructuur en Milieu  | AP04- Accreditatieprogramma Bouwstoffenbesluit  | AP 04 (5.38)  |
-| Ministerie van Infrastructuur en Milieu  |  [Asbestverwijderingsbesluit 2005](../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md)   | artikel 6, eerste lid  |
-| Ministerie van Infrastructuur en Milieu  | AS SIKB 3000 Accreditatieschema Laboratoriumanalyse voor milieuhygiënisch bodemonderzoek  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | AS SIKB 3000 Accreditatieschema Laboratoriumanalyse voor milieuhygiënisch bodemonderzoek  | hoofdstuk 3  |
-| Ministerie van Infrastructuur en Milieu  | Activiteitenbesluit milieubeheer  | artikelen 2.3 en 2.8  |
-| Ministerie van Infrastructuur en Milieu  | Activiteitenbesluit milieubeheer  | artikel 3.15  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit  | artikel 28, eerste lid, onderdeel d, en derde lid  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  | artikel 17  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  | artikel 18  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  | artikelen 18, 25, 29 Besluit bodemkwaliteit;  artikel 2.7 en bijlage Regeling bodemkwaliteit  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  | artikel 19 en 20 besluit bodemkwaliteit;  artikel 2.6 Regeling bodemkwaliteit  |
-| Ministerie van Infrastructuur en Milieu  | Besluit bodemkwaliteit en Regeling bodemkwaliteit  | artikel 32 en 42  |
-| Ministerie van Infrastructuur en Milieu  | Besluit brandveilig gebruik bouwwerken  | artikel 2.4.2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit brandveilig gebruik bouwwerken  | artikel 2.7.1  |
-| Ministerie van Infrastructuur en Milieu  | Besluit emissie-eisen stookinstallaties milieubeheer A  | artikel 30b, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  | Besluit emissie-eisen stookinstallaties milieubeheer A  | artikel 30b, zesde lid  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 3.2.2 van bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 3.2.3 van bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit glastuinbouw  | voorschrift 3.2.7 van bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | Besluit handel in emissierechten  | artikelen 12 en 16  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 2 tot en met 7  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9, onderdeel a  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9, onderdeel b  |
-| Ministerie van Infrastructuur en Milieu  | Besluit inzamelen afvalstoffen  | artikel 9, onderdeel c  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw milieubeheer  | voorschrift 3.2.2 van de bijlage  |
-| Ministerie van Infrastructuur en Milieu  | Besluit landbouw milieubeheer  | voorschrift 3.2.6 van de bijlage  |
-| Ministerie van Infrastructuur en Milieu  | Besluit LPG-tankstations milieubeheer  | voorschrift 2.1 en 2.4, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  | Besluit LPG-tankstations milieubeheer  | voorschrift 2.3, 2.5 en 2.6, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  | Besluit LPG-tankstations milieubeheer  | voorschrift 3.2 en 3.3, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  | [Besluit melden bedrijfsafvalstoffen en gevaarlijke stoffen](../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) (1.29)  | artikelen 2 tot en met 7  |
-| Ministerie van Infrastructuur en Milieu  | Besluit mestbassins milieubeheer  | voorschrift 1.3, bijlage I  |
-| Ministerie van Infrastructuur en Milieu  | Besluit mobiel breken bouw- en sloopafval  | artikelen 3 en 4  |
-| Ministerie van Infrastructuur en Milieu  | Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden  | artikelen 1 tot en met 9  |
-| Ministerie van Infrastructuur en Milieu  | Besluit van 15 maart 2012 houdende wijziging van het Vuurwerkbesluit en enkele andere algemene maatregelen van bestuur  | voorschriften 5.2, 5.3 en 5.7 van bijlage 1, onderdeel B, en voorschriften 1.5, 1.6 en 1.15 van bijlage 2  |
-| Ministerie van Infrastructuur en Milieu  | BRL K903/07 (Installatie ondergrondse en bovengrondse tanks)  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL K903/07 (Installatie ondergrondse en bovengrondse tanks)  | paragraaf 4.4  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit  | paragraaf 3.3  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit  | paragrafen 3.11 tot en met 3.14  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit  | hoofdstuk 4  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  | hoofdstuk 3  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek  | paragrafen 3.11 tot en met 3.14  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering  | hoofdstuk 3  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 7000 Uitvoering van bodemsaneringen  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL SIKB 7000 Uitvoering van bodemsaneringen  | hoofdstuk 3  |
-| Ministerie van Infrastructuur en Milieu  | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen  | paragraaf 4.4  |
-| Ministerie van Infrastructuur en Milieu  | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen  | hoofdstuk 6  |
-| Ministerie van Infrastructuur en Milieu  | BRL 7500 Bewerken van grond  | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | BRL 7500 Bewerken van grond  | hoofdstuk 3  |
-| Ministerie van Infrastructuur en Milieu  | BRL 7500 Bewerken van grond  | paragraaf 3.1  |
-| Ministerie van Infrastructuur en Milieu  | CUR/PBV-Aanbeveling 44  | CUR/PBV-Aanbeveling 44  |
-| Ministerie van Infrastructuur en Milieu  | Inzamelingsregeling CFK en halonen  | artikelen 1, onderdeel g, en 4, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  | Inzamelingsregeling CFK en halonen  | artikelen 4 tot en met 7  |
-| Ministerie van Infrastructuur en Milieu  |  [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md)   | artikelen 5 tot en met 18  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md)   | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik](../../../../../../../ministeriele-regeling/regeling/aanvraag/erkenning/en/onkostenvergoeding/goedkeuring/wet/etc/BWBR0006962/README.md)   | artikelen 19, eerste lid, onderdelen a en b, en 32  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling acceptatie afvalstoffen op stortplaatsen](../../../../../../../ministeriele-regeling/regeling/acceptatie/afvalstoffen/op/stortplaatsen/BWBR0026131/README.md)   | artikelen 22 tot en met 29 en 30  |
-| Ministerie van Infrastructuur en Milieu  |  [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 2.2  |
-| Ministerie van Infrastructuur en Milieu  |  [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 3.9  |
-| Ministerie van Infrastructuur en Milieu  |  [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 3.10  |
-| Ministerie van Infrastructuur en Milieu  |  [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)   | artikel 3.13  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling beoordeling reinigbaarheid grond 2006](../../../../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md)   | hoofdstuk 2  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling bepalingsmethode cadmiumgehalte van producten Wms 2000](../../../../../../../ministeriele-regeling/regeling/bepalingsmethode/cadmiumgehalte/van/producten/wms/2000/BWBR0011638/README.md)   | artikel 1 tweede lid jo. bijlage B, onderdeel III, en artikel 2  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling bepalingsmethoden organisch-halogeengehalte van brandstoffen](../../../../../../../ministeriele-regeling/regeling/bepalingsmethoden/organisch-halogeengehalte/van/brandstoffen/BWBR0004524/README.md)   | artikel 2 en bijlage B, onderdeel 2  |
-| Ministerie van Infrastructuur en Milieu  | Regeling bodemkwaliteit  | artikelen 3.1.1 tot en met 3.2.3, 3.3.1, 3.3.2, 3.9.10, 4.1.1 en 4.3.4  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikelen 1.12 en 1.13  |
-| Ministerie van Infrastructuur en Milieu  | Regeling bouwbesluit 2003  | artikel 1.14  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikel 7 jo. artikel 1  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   | artikel 5, eerste, tweede en vierde lid  |
-| Ministerie van Infrastructuur en Milieu  | Regeling houdende wijziging van de Regeling melden bedrijfafvalstoffen en gevaarlijke afvalstoffen  | artikelen 6b, 6c en 6e  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   | artikelen 3.1, 3.2, 3.6 en 5.1  |
-| Ministerie van Infrastructuur en Milieu  | Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006  | artikel 3.3, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling lekdichtheidsvoorschriften koelinstallaties op schepen](../../../../../../../ministeriele-regeling/regeling/lekdichtheidsvoorschriften/koelinstallaties/1997/BWBR0008743/README.md)   | artikelen 1 tot en met 3  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A 2005](../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md)   | artikel 1 tot en met 28  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer B](../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004795/README.md)   | artikelen 1 tot en met 24  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling meetmethoden verbranden afvalstoffen](../../../../../../../ministeriele-regeling/regeling/meetmethoden/verbranden/afvalstoffen/BWBR0017448/README.md)   | artikelen 1 tot en met 16  |
-| Ministerie van Infrastructuur en Milieu  | [Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md) (1.72)  | artikel 2, eerste lid  |
-| Ministerie van Infrastructuur en Milieu  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  | artikel 2, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  | artikel 3, eerste lid  |
-| Ministerie van Infrastructuur en Milieu  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  | artikel 3, tweede lid  |
-| Ministerie van Infrastructuur en Milieu  | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)  | artikel 3, derde, vierde en vijfde lid  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling niet herbruikbaar en niet verbrandbaar bouw- en sloopafval](../../../../../../../ministeriele-regeling/regeling/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/sloopafval/BWBR0010765/README.md)   | artikel 3 en bijlage  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling niet-reinigbaar straalgrit](../../../../../../../ministeriele-regeling/regeling/niet-reinigbaar/straalgrit/BWBR0009203/README.md)   | artikel 3 en bijlage  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling risico's zware ongevallen 1999](../../../../../../../ministeriele-regeling/regeling/risico's/zware/ongevallen/1999/BWBR0010579/README.md)   | artikel 6  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling stortplaatsen voor baggerspecie op land](../../../../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md)   | artikel 17  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling uniforme saneringen](../../../../../../../ministeriele-regeling/regeling/uniforme/saneringen/BWBR0019507/README.md)   | artikel 1.5  |
-| Ministerie van Infrastructuur en Milieu  | Regeling uniforme saneringen  | hoofdstukken 3 en 4  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling verwijdering PCB's](../../../../../../../ministeriele-regeling/regeling/verwijdering/pcb's/BWBR0009821/README.md)   | artikel 5.1  |
-| Ministerie van Infrastructuur en Milieu  |  [Regeling voorwaarden inzamelen huishoudelijke afvalstoffen nabij elk perceel](../../../../../../../ministeriele-regeling/regeling/voorwaarden/inzamelen/huishoudelijke/afvalstoffen/nabij/elk/etc/BWBR0009965/README.md)   | artikelen 2 tot en met 4  |
-| Ministerie van Infrastructuur en Milieu  |  [Reken- en meetvoorschrift geluidhinder](../../../../../../../ministeriele-regeling/reken-/en/meetvoorschrift/geluidhinder/2006/BWBR0020773/README.md)   | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  |  [Richtlijn decontaminatie apparatuur ziekenhuisafval](../../../../../../../circulaire/richtlijn/decontaminatie/apparatuur/ziekenhuisafval/BWBR0022549/README.md)   | n.v.t.  |
-| Ministerie van Infrastructuur en Milieu  | Stortbesluit bodembescherming  | artikel 13  |
-| Ministerie van Infrastructuur en Milieu  | [Typekeuringsregeling verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../ministeriele-regeling/typekeuringsregeling/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007781/README.md) (48B)  | artikelen 2 tot en met 30 en bijlage  |
-| Ministerie van Infrastructuur en Milieu  | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer  | artikelen 2 en 18  |
-| Ministerie van Infrastructuur en Milieu  |  [Uitvoeringsregeling Stortbesluit bodembescherming](../../../../../../../ministeriele-regeling/uitvoeringsregeling/stortbesluit/bodembescherming/BWBR0005877/README.md)   | artikelen 3, 10 en 14a  |
-| Ministerie van Infrastructuur en Milieu  | Vrijstellingsregeling waterige fracties en reinigingswater  | artikel 8, derde lid  |
-| Ministerie van Infrastructuur en Milieu  | Vrijstellingsregeling waterige fracties en reinigingswater 1998  | artikel 9  |
-| Ministerie van Infrastructuur en Milieu  | Vuurwerkbesluit  | artikel 3.3.6  |
-| Ministerie van Infrastructuur en Milieu  | Wet explosieven voor civiel gebruik  | artikel 21  |
-| Ministerie van Infrastructuur en Milieu  | [Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);   [Regeling inburgering](../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md)   | artikelen 1, eerste lid, onderdeel j, en 9 Wet inburgering;  artikel 1.2 Regeling inburgering:  |
-| Ministerie van Infrastructuur en Milieu  |  [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   | artikel 16.14  |
-| Ministerie van Infrastructuur en Milieu  | Wet milieubeheer  | artikel 16.49, tweede lid, jo. artikel 16.14  |
-| Ministerie van Veiligheid en Justitie  | Advocatenwet  | artikel 12, tweede lid  |
-| Ministerie van Veiligheid en Justitie  |  [Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   | artikelen 2, eerste en derde lid, 3 en 4  |
-| Ministerie van Veiligheid en Justitie  | Wet beëdigde tolken en vertalers;   [Besluit beëdigde tolken en vertalers](../../../../../../../AMvB/besluit/beëdigde/tolken/en/vertalers/BWBR0024896/README.md)   | artikelen 8, 12, 15, 30, 31, 33 en 36 Wet beëdigde tolken en vertalers;  artikel 11 Besluit beëdigde tolken en vertalers  |
-| Ministerie van Veiligheid en Justitie  | Wet informatie-uitwisseling ondergrondse netten  | artikel 2, tweede lid  |
-| Ministerie van Veiligheid en Justitie  | Wet informatie-uitwisseling ondergrondse netten  | artikel 3, eerste lid  |
-| Ministerie van Veiligheid en Justitie  | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling  | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 Speelautomatenbesluit 2000  artikelen 3 en 4 Speelautomatenregeling  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 3.6  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 9, achtste lid  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus  | artikel 18  |
-| Ministerie van Veiligheid en Justitie  | Wet particuliere beveiligingsorganisaties en recherchebureaus;  Regeling particuliere beveiligingsorganisaties en recherchebureaus  | artikel 6, onderdelen b, c en j Wet particuliere beveiligingsorganisaties en recherchebureaus;  artikel 20 Regeling particuliere beveiligingsorganisaties en recherchebureaus  |
-| Ministerie van Veiligheid en Justitie  | Wet wapens en munitie  | artikelen 4, 6, 7, 9, eerste lid, en 13  |
-| Ministerie van Veiligheid en Justitie  | Wet wapens en munitie  | artikelen 6, 7 en 13  |
-| Ministerie van Veiligheid en Justitie  | Wet wapens en munitie;   [Regeling wapens en munitie](../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md)   | artikelen 6, 7, 9, eerste, tweede, derde en vijfde lid, 10 en 12 Wet wapens en munitie; artikelen 8, 8a, 9, 10, 11, 12, 14, 15, 16 en 48 Regeling wapens en munitie  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Drank- en Horecawet  | artikelen 12 tot en met 22, 24 en 25  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Drank- en horecawet;   Besluit eisen inrichting Drank- en Horecawet   | artikel 10 Drank- en horecawet;  artikel 2 Besluit eisen inrichting Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Drank- en horecawet;   [Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet](../../../../../../../AMvB/besluit/kennis/en/inzicht/sociale/hygiëne/drank-/en/horecawet/BWBR0007689/README.md)   | artikelen 8, vierde lid, Drank- en horecawet;  artikelen 1 en 2 Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Infectieziektenwet](../../../../../../../wet/infectieziektenwet/BWBR0009684/README.md)   | artikel 25  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Regeling tabaksreclame in of aan tabaksspeciaalzaken en tabaksverkooppunten  | artikelen 1 tot en met 5  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  | artikel 3a, 15, 16 en 20  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen  | artikelen 8, 10, 11, 12, 13, 19, eerste lid, onderdeel a  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Warenwetbesluit machines](../../../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)   | artikel 6g, eerste lid, onderdeel a  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetbesluit machines;   [Warenregeling machines](../../../../../../../ministeriele-regeling/warenwetregeling/machines/BWBR0006022/README.md)   | artikel 6g Warenwetbesluit machines;  artikel 2b Warenwetregeling machines  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetbesluit persoonlijke beschermingsmiddelen  | artikel 6d, eerste lid, onderdeel a  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Warenwetregeling  | artikel 4  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Warenwetregeling persoonlijke beschermingsmiddelen](../../../../../../../ministeriele-regeling/warenwetregeling/persoonlijke/beschermingsmiddelen/BWBR0006134/README.md)   | artikel 3  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  | Wet op de dierproeven;  Dierproevenbesluit;  Regeling erkenning diploma's  | artikelen 9 en 14 Wet op de dierproeven;  artikelen 2, 3 en 5 Dierproevenbesluit;  artikelen 1 en 1a Regeling erkenning diploma's Dierproevenbesluit  |
-| Ministerie van Volksgezondheid, Welzijn en Sport  |  [Wet publieke gezondheid](../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)   | artikelen 38 en 51 tot en met 55  |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 2, tweede lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 3, eerste lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 6, tweede lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 10   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 13, eerste lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 15, eerste lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 16   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 17, eerste lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 17, derde lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 18, eerste lid   |
+| Ministerie van Economische Zaken   | Wet informatie-uitwisseling ondergrondse netten   | artikel 18, derde lid   |
+| Ministerie van Economische Zaken   | Wet ruimtevaartactiviteiten   | artikel 10, eerste en tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | AP04- Accreditatieprogramma Bouwstoffenbesluit   | AP 04 (5.38)   |
+| Ministerie van Infrastructuur en Milieu   | [Asbestverwijderingsbesluit 2005](../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md)   | artikel 6, eerste lid   |
+| Ministerie van Infrastructuur en Milieu   | AS SIKB 3000 Accreditatieschema Laboratoriumanalyse voor milieuhygiënisch bodemonderzoek   | n.v.t.  |
+| Ministerie van Infrastructuur en Milieu   | AS SIKB 3000 Accreditatieschema Laboratoriumanalyse voor milieuhygiënisch bodemonderzoek   | hoofdstuk 3  |
+| Ministerie van Infrastructuur en Milieu   | Activiteitenbesluit milieubeheer   | artikelen 2.3 en 2.8   |
+| Ministerie van Infrastructuur en Milieu   | Activiteitenbesluit milieubeheer   | artikel 3.15   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit   | artikel 28, eerste lid, onderdeel d, en derde lid   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit en Regeling bodemkwaliteit   | artikel 17   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit en Regeling bodemkwaliteit   | artikel 18   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit en Regeling bodemkwaliteit   | artikelen 18, 25, 29 Besluit bodemkwaliteit;  artikel 2.7 en bijlage Regeling bodemkwaliteit   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit en Regeling bodemkwaliteit   | artikel 19 en 20 besluit bodemkwaliteit;  artikel 2.6 Regeling bodemkwaliteit   |
+| Ministerie van Infrastructuur en Milieu   | Besluit bodemkwaliteit en Regeling bodemkwaliteit   | artikel 32 en 42   |
+| Ministerie van Infrastructuur en Milieu   | Besluit brandveilig gebruik bouwwerken   | artikel 2.4.2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit brandveilig gebruik bouwwerken   | artikel 2.7.1   |
+| Ministerie van Infrastructuur en Milieu   | Besluit emissie-eisen stookinstallaties milieubeheer A   | artikel 30b, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | Besluit emissie-eisen stookinstallaties milieubeheer A   | artikel 30b, zesde lid   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 3.2.2 van bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 3.2.3 van bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit glastuinbouw   | voorschrift 3.2.7 van bijlage 2   |
+| Ministerie van Infrastructuur en Milieu   | Besluit handel in emissierechten   | artikelen 12 en 16   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 2 tot en met 7   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9, onderdeel a  |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9, onderdeel b   |
+| Ministerie van Infrastructuur en Milieu   | Besluit inzamelen afvalstoffen   | artikel 9, onderdeel c   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw milieubeheer   | voorschrift 3.2.2 van de bijlage   |
+| Ministerie van Infrastructuur en Milieu   | Besluit landbouw milieubeheer   | voorschrift 3.2.6 van de bijlage   |
+| Ministerie van Infrastructuur en Milieu   | Besluit LPG-tankstations milieubeheer   | voorschrift 2.1 en 2.4, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | Besluit LPG-tankstations milieubeheer   | voorschrift 2.3, 2.5 en 2.6, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | Besluit LPG-tankstations milieubeheer   | voorschrift 3.2 en 3.3, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | [Besluit melden bedrijfsafvalstoffen en gevaarlijke stoffen](../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) (1.29)   | artikelen 2 tot en met 7   |
+| Ministerie van Infrastructuur en Milieu   | Besluit mestbassins milieubeheer   | voorschrift 1.3, bijlage I   |
+| Ministerie van Infrastructuur en Milieu   | Besluit mobiel breken bouw- en sloopafval   | artikelen 3 en 4   |
+| Ministerie van Infrastructuur en Milieu   | Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden   | artikelen 1 tot en met 9   |
+|Ministerie van Infrastructuur en Milieu  |Besluit van 15 maart 2012 houdende wijziging van het Vuurwerkbesluit en enkele andere algemene maatregelen van bestuur  |voorschriften 5.2, 5.3 en 5.7 van bijlage 1, onderdeel B, en voorschriften 1.5, 1.6 en 1.15 van bijlage 2  |
+| Ministerie van Infrastructuur en Milieu   | BRL K903/07 (Installatie ondergrondse en bovengrondse tanks)   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL K903/07 (Installatie ondergrondse en bovengrondse tanks)   | paragraaf 4.4   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit   | paragraaf 3.3   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit   | paragrafen 3.11 tot en met 3.14   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 1000 Monsterneming voor partijkeuringen Bouwstoffenbesluit   | hoofdstuk 4   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek   | hoofdstuk 3   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 2000 Veldwerk voor milieuhygiënisch bodemonderzoek   | paragrafen 3.11 tot en met 3.14   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 6000 Beoordelingsrichtlijn milieukundige begeleiding en evaluatie van bodemsanering   | hoofdstuk 3   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 7000 Uitvoering van bodemsaneringen   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL SIKB 7000 Uitvoering van bodemsaneringen   | hoofdstuk 3   |
+| Ministerie van Infrastructuur en Milieu   | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen   | paragraaf 4.4  |
+| Ministerie van Infrastructuur en Milieu   | BRL 2319, 62, 71, 72 Aanleg van vloeistofdichte voorzieningen   | hoofdstuk 6  |
+| Ministerie van Infrastructuur en Milieu   | BRL 7500 Bewerken van grond   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | BRL 7500 Bewerken van grond   | hoofdstuk 3   |
+| Ministerie van Infrastructuur en Milieu   | BRL 7500 Bewerken van grond   | paragraaf 3.1   |
+| Ministerie van Infrastructuur en Milieu   | CUR/PBV-Aanbeveling 44   | CUR/PBV-Aanbeveling 44   |
+| Ministerie van Infrastructuur en Milieu   | Inzamelingsregeling CFK en halonen   | artikelen 1, onderdeel g, en 4, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | Inzamelingsregeling CFK en halonen   | artikelen 4 tot en met 7   |
+| Ministerie van Infrastructuur en Milieu   | [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md)   | artikelen 5 tot en met 18   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling aanpassing voertuigen](../../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md)   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik](../../../../../../../ministeriele-regeling/regeling/aanvraag/erkenning/en/onkostenvergoeding/goedkeuring/wet/etc/BWBR0006962/README.md)   | artikelen 19, eerste lid, onderdelen a en b, en 32   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling acceptatie afvalstoffen op stortplaatsen](../../../../../../../ministeriele-regeling/regeling/acceptatie/afvalstoffen/op/stortplaatsen/BWBR0026131/README.md)   | artikelen 22 tot en met 29 en 30   |
+| Ministerie van Infrastructuur en Milieu   | [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)  | artikel 2.2   |
+| Ministerie van Infrastructuur en Milieu   | [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)  | artikel 3.9   |
+| Ministerie van Infrastructuur en Milieu   | [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)  | artikel 3.10   |
+| Ministerie van Infrastructuur en Milieu   | [Activiteitenregeling milieubeheer](../../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)  | artikel 3.13   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling beoordeling reinigbaarheid grond 2006](../../../../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md)   | hoofdstuk 2   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling bepalingsmethode cadmiumgehalte van producten Wms 2000](../../../../../../../ministeriele-regeling/regeling/bepalingsmethode/cadmiumgehalte/van/producten/wms/2000/BWBR0011638/README.md)   | artikel 1 tweede lid jo. bijlage B, onderdeel III, en artikel 2   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling bepalingsmethoden organisch-halogeengehalte van brandstoffen](../../../../../../../ministeriele-regeling/regeling/bepalingsmethoden/organisch-halogeengehalte/van/brandstoffen/BWBR0004524/README.md)   | artikel 2 en bijlage B, onderdeel 2   |
+| Ministerie van Infrastructuur en Milieu   | Regeling bodemkwaliteit   | artikelen 3.1.1 tot en met 3.2.3, 3.3.1, 3.3.2, 3.9.10, 4.1.1 en 4.3.4   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling bouwbesluit 2003](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikelen 1.12 en 1.13   |
+| Ministerie van Infrastructuur en Milieu   | Regeling bouwbesluit 2003   | artikel 1.14   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md)   | artikel 7 jo. artikel 1   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling geluidemissie buitenmaterieel](../../../../../../../ministeriele-regeling/regeling/geluidemissie/buitenmaterieel/BWBR0012766/README.md)   | artikel 5, eerste, tweede en vierde lid   |
+| Ministerie van Infrastructuur en Milieu   | Regeling houdende wijziging van de Regeling melden bedrijfafvalstoffen en gevaarlijke afvalstoffen   | artikelen 6b, 6c en 6e   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)   | artikelen 3.1, 3.2, 3.6 en 5.1   |
+| Ministerie van Infrastructuur en Milieu   | Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006   | artikel 3.3, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling lekdichtheidsvoorschriften koelinstallaties op schepen](../../../../../../../ministeriele-regeling/regeling/lekdichtheidsvoorschriften/koelinstallaties/1997/BWBR0008743/README.md)   | artikelen 1 tot en met 3   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer A 2005](../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/a/2005/BWBR0018523/README.md)   | artikel 1 tot en met 28   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling meetmethoden emissie-eisen stookinstallaties milieubeheer B](../../../../../../../ministeriele-regeling/regeling/meetmethoden/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004795/README.md)   | artikelen 1 tot en met 24   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling meetmethoden verbranden afvalstoffen](../../../../../../../ministeriele-regeling/regeling/meetmethoden/verbranden/afvalstoffen/BWBR0017448/README.md)   | artikelen 1 tot en met 16   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md) (1.72)   | artikel 2, eerste lid   |
+| Ministerie van Infrastructuur en Milieu   | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)   | artikel 2, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)   | artikel 3, eerste lid   |
+| Ministerie van Infrastructuur en Milieu   | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)   | artikel 3, tweede lid   |
+| Ministerie van Infrastructuur en Milieu   | Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen (1.72)   | artikel 3, derde, vierde en vijfde lid   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling niet herbruikbaar en niet verbrandbaar bouw- en sloopafval](../../../../../../../ministeriele-regeling/regeling/niet-herbruikbaar/en/niet-verbrandbaar/bouw-/en/sloopafval/BWBR0010765/README.md)   | artikel 3 en bijlage   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling niet-reinigbaar straalgrit](../../../../../../../ministeriele-regeling/regeling/niet-reinigbaar/straalgrit/BWBR0009203/README.md)   | artikel 3 en bijlage   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling risico's zware ongevallen 1999](../../../../../../../ministeriele-regeling/regeling/risico's/zware/ongevallen/1999/BWBR0010579/README.md)   | artikel 6   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling stortplaatsen voor baggerspecie op land](../../../../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md)   | artikel 17   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling uniforme saneringen](../../../../../../../ministeriele-regeling/regeling/uniforme/saneringen/BWBR0019507/README.md)   | artikel 1.5   |
+| Ministerie van Infrastructuur en Milieu   | Regeling uniforme saneringen   | hoofdstukken 3 en 4   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling verwijdering PCB's](../../../../../../../ministeriele-regeling/regeling/verwijdering/pcb's/BWBR0009821/README.md)   | artikel 5.1   |
+| Ministerie van Infrastructuur en Milieu   | [Regeling voorwaarden inzamelen huishoudelijke afvalstoffen nabij elk perceel](../../../../../../../ministeriele-regeling/regeling/voorwaarden/inzamelen/huishoudelijke/afvalstoffen/nabij/elk/etc/BWBR0009965/README.md)   | artikelen 2 tot en met 4   |
+| Ministerie van Infrastructuur en Milieu   | [Reken- en meetvoorschrift geluidhinder](../../../../../../../ministeriele-regeling/reken-/en/meetvoorschrift/geluidhinder/2006/BWBR0020773/README.md)   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | [Richtlijn decontaminatie apparatuur ziekenhuisafval](../../../../../../../circulaire/richtlijn/decontaminatie/apparatuur/ziekenhuisafval/BWBR0022549/README.md)   | n.v.t.   |
+| Ministerie van Infrastructuur en Milieu   | Stortbesluit bodembescherming   | artikel 13   |
+| Ministerie van Infrastructuur en Milieu   | [Typekeuringsregeling verwarmingstoestellen luchtverontreiniging stikstofoxiden](../../../../../../../ministeriele-regeling/typekeuringsregeling/verwarmingstoestellen/luchtverontreiniging/etc/BWBR0007781/README.md) (48B)   | artikelen 2 tot en met 30 en bijlage   |
+| Ministerie van Infrastructuur en Milieu   | Uitvoeringsregeling gefluoreerde broeikasgassen en gereguleerde stoffen milieubeheer   | artikelen 2 en 18   |
+| Ministerie van Infrastructuur en Milieu   | [Uitvoeringsregeling Stortbesluit bodembescherming](../../../../../../../ministeriele-regeling/uitvoeringsregeling/stortbesluit/bodembescherming/BWBR0005877/README.md)   | artikelen 3, 10 en 14a   |
+| Ministerie van Infrastructuur en Milieu   | Vrijstellingsregeling waterige fracties en reinigingswater   | artikel 8, derde lid   |
+| Ministerie van Infrastructuur en Milieu   | Vrijstellingsregeling waterige fracties en reinigingswater 1998   | artikel 9   |
+| Ministerie van Infrastructuur en Milieu   | Vuurwerkbesluit   | artikel 3.3.6   |
+| Ministerie van Infrastructuur en Milieu   | Wet explosieven voor civiel gebruik   | artikel 21   |
+| Ministerie van Infrastructuur en Milieu   | [Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  [Regeling inburgering](../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md)   | artikelen 1, eerste lid, onderdeel j, en 9 Wet inburgering;  artikel 1.2 Regeling inburgering:   |
+| Ministerie van Infrastructuur en Milieu   | [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)   | artikel 16.14   |
+| Ministerie van Infrastructuur en Milieu   | Wet milieubeheer   | artikel 16.49, tweede lid, jo. artikel 16.14   |
+| Ministerie van Veiligheid en Justitie   | Advocatenwet   | artikel 12, tweede lid   |
+| Ministerie van Veiligheid en Justitie   | [Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md)   | artikelen 2, eerste en derde lid, 3 en 4   |
+| Ministerie van Veiligheid en Justitie   | Wet beëdigde tolken en vertalers;  [Besluit beëdigde tolken en vertalers](../../../../../../../AMvB/besluit/beëdigde/tolken/en/vertalers/BWBR0024896/README.md)   | artikelen 8, 12, 15, 30, 31, 33 en 36 Wet beëdigde tolken en vertalers;  artikel 11 Besluit beëdigde tolken en vertalers   |
+| Ministerie van Veiligheid en Justitie   | Wet informatie-uitwisseling ondergrondse netten   | artikel 2, tweede lid   |
+| Ministerie van Veiligheid en Justitie   | Wet informatie-uitwisseling ondergrondse netten   | artikel 3, eerste lid   |
+| Ministerie van Veiligheid en Justitie   | Wet op de kansspelen;  Speelautomatenbesluit 2000;  Speelautomatenregeling   | artikelen 30h, 30i en 30t Wet op de kansspelen;  artikelen 6, 7 jo. 4, 8 tot en met 13 en 16 Speelautomatenbesluit 2000  artikelen 3 en 4 Speelautomatenregeling  |
+| Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 3.6   |
+| Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 9, achtste lid   |
+| Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus   | artikel 18   |
+| Ministerie van Veiligheid en Justitie   | Wet particuliere beveiligingsorganisaties en recherchebureaus;  Regeling particuliere beveiligingsorganisaties en recherchebureaus   | artikel 6, onderdelen b, c en j Wet particuliere beveiligingsorganisaties en recherchebureaus;  artikel 20 Regeling particuliere beveiligingsorganisaties en recherchebureaus   |
+| Ministerie van Veiligheid en Justitie   | Wet wapens en munitie   | artikelen 4, 6, 7, 9, eerste lid, en 13   |
+| Ministerie van Veiligheid en Justitie   | Wet wapens en munitie   | artikelen 6, 7 en 13   |
+| Ministerie van Veiligheid en Justitie   | Wet wapens en munitie;  [Regeling wapens en munitie](../../../../../../../ministeriele-regeling/regeling/wapens/en/munitie/BWBR0008800/README.md)   | artikelen 6, 7, 9, eerste, tweede, derde en vijfde lid, 10 en 12 Wet wapens en munitie; artikelen 8, 8a, 9, 10, 11, 12, 14, 15, 16 en 48 Regeling wapens en munitie   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Drank- en Horecawet   | artikelen 12 tot en met 22, 24 en 25   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Drank- en horecawet;  Besluit eisen inrichting Drank- en Horecawet   | artikel 10 Drank- en horecawet;  artikel 2 Besluit eisen inrichting Drank- en Horecawet   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Drank- en horecawet;  [Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet](../../../../../../../AMvB/besluit/kennis/en/inzicht/sociale/hygiëne/drank-/en/horecawet/BWBR0007689/README.md)   | artikelen 8, vierde lid, Drank- en horecawet;  artikelen 1 en 2 Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Infectieziektenwet](../../../../../../../wet/infectieziektenwet/BWBR0009684/README.md)   | artikel 25   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Regeling tabaksreclame in of aan tabaksspeciaalzaken en tabaksverkooppunten   | artikelen 1 tot en met 5   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen   | artikel 3a, 15, 16 en 20   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetbesluit attractie- en speeltoestellen en nadere regels attractie en speeltoestellen   | artikelen 8, 10, 11, 12, 13, 19, eerste lid, onderdeel a   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Warenwetbesluit machines](../../../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)   | artikel 6g, eerste lid, onderdeel a   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetbesluit machines;  [Warenregeling machines](../../../../../../../ministeriele-regeling/warenwetregeling/machines/BWBR0006022/README.md)   | artikel 6g Warenwetbesluit machines;  artikel 2b Warenwetregeling machines   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetbesluit persoonlijke beschermingsmiddelen   | artikel 6d, eerste lid, onderdeel a   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Warenwetregeling   | artikel 4   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Warenwetregeling persoonlijke beschermingsmiddelen](../../../../../../../ministeriele-regeling/warenwetregeling/persoonlijke/beschermingsmiddelen/BWBR0006134/README.md)   | artikel 3   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | Wet op de dierproeven;  Dierproevenbesluit;  Regeling erkenning diploma's   | artikelen 9 en 14 Wet op de dierproeven;  artikelen 2, 3 en 5 Dierproevenbesluit;  artikelen 1 en 1a Regeling erkenning diploma's Dierproevenbesluit   |
+| Ministerie van Volksgezondheid, Welzijn en Sport   | [Wet publieke gezondheid](../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)   | artikelen 38 en 51 tot en met 55   |
 
 ### HOOFDSTUK  2  
 
@@ -4854,22 +4854,22 @@ M.J.A. van derHoeven
 | Groengebied Amstelland  | Algemene Verordening Groengebied Amstelland  | artikel 4:3  |
 | Havenschap Moerdijk  | Toetsingskader "Goedkeuring en toestemming bedrijfsvestigingen, wijziging van bedrijfsactiviteiten, bedrijfsverplaatsingen en grondvervreemdingen"  | n.v.t.  |
 | Nederlandse Orde van Advocaten  | Stageverordening 1988/2005  | artikel 11a  |
-| Nederlandse Orde van Advocaten  |  [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)   | artikel 4  |
-| Productschap Dranken  |  [Verordening W registratie handelaren in wijn 2003](../../../../../../../pbo/verordening/w/registratie/wijnhandelaren/2003/BWBR0014807/README.md)   | n.v.t.  |
-| Productschap Vee en Vlees  |  [Verordening bestrijding vesiculaire varkensziekte (PVV) 2004](../../../../../../../pbo/verordening/bestrijding/vesiculaire/varkensziekte/(pvv)/2004/BWBR0017336/README.md)   | artikel 2, derde lid  |
-| Productschap Vee en Vlees  |  [Verordening zelfcontrole runderen op het verbod gebruik van bepaalde stoffen](../../../../../../../pbo/verordening/zelfcontrole/runderen/op/het/verbod/gebruik/van/bepaalde/etc/BWBR0010608/README.md)   | artikelen, derde lid, en 4, derde lid  |
-| Productschap Vee en Vlees  |  [Verordening ziekte van Aujeszky 2006](../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2006/BWBR0020988/README.md)   | artikel 3, eerste lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening hygiënevoorschriften kalkoenhouderij industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md)   | artikel 2, eerste, tweede en derde lid  |
+| Nederlandse Orde van Advocaten  | [Verordening op de Permanente Opleiding 2000](../../../../../../../pbo/verordening/op/de/permanente/opleiding/2000/BWBR0010191/README.md)  | artikel 4  |
+| Productschap Dranken  | [Verordening W registratie handelaren in wijn 2003](../../../../../../../pbo/verordening/w/registratie/wijnhandelaren/2003/BWBR0014807/README.md)  | n.v.t.  |
+| Productschap Vee en Vlees  | [Verordening bestrijding vesiculaire varkensziekte (PVV) 2004](../../../../../../../pbo/verordening/bestrijding/vesiculaire/varkensziekte/(pvv)/2004/BWBR0017336/README.md)  | artikel 2, derde lid  |
+| Productschap Vee en Vlees  | [Verordening zelfcontrole runderen op het verbod gebruik van bepaalde stoffen](../../../../../../../pbo/verordening/zelfcontrole/runderen/op/het/verbod/gebruik/van/bepaalde/etc/BWBR0010608/README.md)  | artikelen, derde lid, en 4, derde lid  |
+| Productschap Vee en Vlees  | [Verordening ziekte van Aujeszky 2006](../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2006/BWBR0020988/README.md)  | artikel 3, eerste lid  |
+| Productschap voor pluimvee en eieren  | [Verordening hygiënevoorschriften kalkoenhouderij industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/1999/BWBR0011073/README.md)  | artikel 2, eerste, tweede en derde lid  |
 | Productschap voor pluimvee en eieren  | Verordening hygiënevoorschriften kalkoenhouderij industrie 1999  | artikel 4, eerste, derde en zesde lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening hygiëne voorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md)   | artikel 3, vierde, vijfde en zesde lid  |
+| Productschap voor pluimvee en eieren  | [Verordening hygiëne voorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md)  | artikel 3, vierde, vijfde en zesde lid  |
 | Productschap voor pluimvee en eieren  | Verordening hygiëne voorschriften pluimveehouderij 1999  | artikel 6, derde en zevende lid  |
 | Productschap voor pluimvee en eieren  | Verordening hygiëne voorschriften pluimveehouderij 2000  | artikel 3, derde en zesde lid  |
 | Productschap voor pluimvee en eieren  | Verordening hygiënevoorschriften pluimveeverwerkende industrie 1999  | artikel 6a, eerste en tweede lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening monitoring Aviaire influzenza (PPE) 2005](../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md)   | artikelen 2, eerste, tweede en derde lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening welzijnsnormen konijnen (PPE) 2006](../../../../../../../pbo/verordening/welzijnsnormen/konijnen/(ppe)/2006/BWBR0019560/README.md)   | artikel 10, eerste lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening welzijnsnormen nertsen (PPE) 2003](../../../../../../../pbo/verordening/welzijnsnormen/nertsen/(ppe)/2003/BWBR0016065/README.md)   | artikelen 10a, eerste lid, 10b, eerste en tweede lid  |
-| Productschap voor pluimvee en eieren  |  [Verordening welzijnsnormen vleeskalkoenen 2003](../../../../../../../pbo/verordening/welzijnsnormen/vleeskalkoenen/2003/BWBR0015121/README.md)   | artikelen 12a, eerste lid, 12b, eerste en tweede lid  |
-| Productschap Zuivel  |  [Zuivelverordening 2010](../../../../../../../pbo/zuivelverordening/2010/subsidieverstrekking/BWBR0029081/README.md)   | artikel 12  |
+| Productschap voor pluimvee en eieren  | [Verordening monitoring Aviaire influzenza (PPE) 2005](../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md)  | artikelen 2, eerste, tweede en derde lid  |
+| Productschap voor pluimvee en eieren  | [Verordening welzijnsnormen konijnen (PPE) 2006](../../../../../../../pbo/verordening/welzijnsnormen/konijnen/(ppe)/2006/BWBR0019560/README.md)  | artikel 10, eerste lid  |
+| Productschap voor pluimvee en eieren  | [Verordening welzijnsnormen nertsen (PPE) 2003](../../../../../../../pbo/verordening/welzijnsnormen/nertsen/(ppe)/2003/BWBR0016065/README.md)  | artikelen 10a, eerste lid, 10b, eerste en tweede lid  |
+| Productschap voor pluimvee en eieren  | [Verordening welzijnsnormen vleeskalkoenen 2003](../../../../../../../pbo/verordening/welzijnsnormen/vleeskalkoenen/2003/BWBR0015121/README.md)  | artikelen 12a, eerste lid, 12b, eerste en tweede lid  |
+| Productschap Zuivel  | [Zuivelverordening 2010](../../../../../../../pbo/zuivelverordening/2010/subsidieverstrekking/BWBR0029081/README.md)  | artikel 12  |
 | Recreatieschap Alkmaarder- en Uitgeestermeer  | Algemene Verordening Recreatieschap Alkmaarder- en Uitgeestermeer  | artikel 2, eerste lid  |
 | Recreatieschap Alkmaarder- en Uitgeestermeer  | Algemene Verordening Recreatieschap Alkmaarder- en Uitgeestermeer  | artikel 2:2  |
 | Recreatieschap Alkmaarder- en Uitgeestermeer  | Algemene Verordening Recreatieschap Alkmaarder- en Uitgeestermeer  | artikel 2:3  |
@@ -4905,15 +4905,15 @@ M.J.A. van derHoeven
 | Bedrijfschap Horeca en Catering  | [Hotelclassificatiebesluit 2003](../../../../../../../pbo/hotelclassificatiebesluit/2003/BWBR0016125/README.md) e.a.  | n.v.t.  |
 | Bedrijfschap Horeca en Catering  | [Registratieverordening Bedrijfschap Horeca en Catering 2003](../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2003/BWBR0014802/README.md) en [Registratiereglement Bedrijfschap Horeca en Catering](../../../../../../../pbo/registratiereglement/bedrijfschap/horeca/en/catering/BWBR0026757/README.md)  | n.v.t.  |
 | Hoofdbedrijfschap Afbouw en Onderhoud  | [Verordening registratie en inzage van boeken en bescheiden](../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) Hoofdbedrijfschap Afbouw en Onderhoud  | n.v.t.  |
-| Hoofdbedrijfschap Ambachten  |  [Registratieverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../../pbo/registratieverordening/hoofdbedrijfschap/ambachten/2004/BWBR0016480/README.md)   | n.v.t.  |
-| Koninklijk Nederlands Instituut van Registeraccountants  |  [Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten](../../../../../../../pbo/nadere/voorschriften/accountantskantoren/ter/zake/van/assurance-opdrachten/BWBR0027001/README.md)   | artikel 35  |
-| Koninklijk Nederlands Instituut van Registeraccountants  |  [Verordening gedragscode](../../../../../../../ministeriele-regeling/wijzigingsregeling/tijdelijke/subsidieregeling/innovatieketen/water/BWBR0026628/README.md)   | n.v.t.  |
+| Hoofdbedrijfschap Ambachten  | [Registratieverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../../pbo/registratieverordening/hoofdbedrijfschap/ambachten/2004/BWBR0016480/README.md)  | n.v.t.  |
+| Koninklijk Nederlands Instituut van Registeraccountants  | [Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten](../../../../../../../pbo/nadere/voorschriften/accountantskantoren/ter/zake/van/assurance-opdrachten/BWBR0027001/README.md)  | artikel 35  |
+| Koninklijk Nederlands Instituut van Registeraccountants  | [Verordening gedragscode](../../../../../../../ministeriele-regeling/wijzigingsregeling/tijdelijke/subsidieregeling/innovatieketen/water/BWBR0026628/README.md)  | n.v.t.  |
 | Koninklijk Nederlands Instituut van Registeraccountants  | Verordening gedragscode  | artikel 15  |
 | Koninklijk Nederlands Instituut van Registeraccountants  | Verordening gedragscode  | artikel B1-291.1  |
 | Nederlandse Orde van Accountants-Administratieconsulenten  | Nadere voorschriften accountantskantoren  | artikel 35  |
-| Nederlandse Orde van Accountants-Administratieconsulenten  |  [Verordening gedragscode](../../../../../../../pbo/verordening/gedragscode/BWBR0026536/README.md)   | artikel 15  |
+| Nederlandse Orde van Accountants-Administratieconsulenten  | [Verordening gedragscode](../../../../../../../pbo/verordening/gedragscode/BWBR0026536/README.md)  | artikel 15  |
 | Nederlandse Orde van Accountants-Administratieconsulenten  | Verordening gedragscode  | artikel B1-291.1  |
 | NIVRA en NOvAA  | Verordening gedragscode, [Verordening accountantsorganisaties](../../../../../../../pbo/verordening/accountantsorganisaties/BWBR0026502/README.md) en Nadere voorschriften onafhankelijkheid van de openbaar accountant  | n.v.t.  |
-| Productschap Dranken  |  [Registratie, verstrekking van gegevens en inzage in boeken en bescheiden Productschap Dranken / Cie gedestilleerd](../../../../../../../pbo/verordening/registratie/verstrekking/van/gegevens/en/inzage/van/boeken/en/etc/BWBR0028281/README.md)   | n.v.t.  |
-| Productschap Dranken  |  [Verordening registratie, verstrekking van gegevens en inzage in boeken en bescheiden Productschap Dranken / Commissie Frisdranken en Waters 2003](../../../../../../../pbo/verordening/registratie/verstrekking/van/gegevens/en/inzage/van/boeken/en/etc/BWBR0014246/README.md)   | n.v.t.  |
+| Productschap Dranken  | [Registratie, verstrekking van gegevens en inzage in boeken en bescheiden Productschap Dranken / Cie gedestilleerd](../../../../../../../pbo/verordening/registratie/verstrekking/van/gegevens/en/inzage/van/boeken/en/etc/BWBR0028281/README.md)  | n.v.t.  |
+| Productschap Dranken  | [Verordening registratie, verstrekking van gegevens en inzage in boeken en bescheiden Productschap Dranken / Commissie Frisdranken en Waters 2003](../../../../../../../pbo/verordening/registratie/verstrekking/van/gegevens/en/inzage/van/boeken/en/etc/BWBR0014246/README.md)  | n.v.t.  |
 
