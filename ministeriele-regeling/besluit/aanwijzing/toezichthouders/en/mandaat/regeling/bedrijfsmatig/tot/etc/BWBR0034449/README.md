@@ -10,35 +10,36 @@ Besluit:
 
 ### Artikel  1  
 
-Met het toezicht op de naleving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](../../../../../../../../../../../ministeriele-regeling/regeling/bedrijfsmatig/tot/ontbranding/brengen/van/vuurwerk/BWBR0031686/README.md) zijn belast de functionarissen, genoemd in de bij dit besluit behorende bijlage 1.  
+Met het toezicht op de naleving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](../../../../../../../../../../../ministeriele-regeling/regeling/bedrijfsmatig/tot/ontbranding/brengen/van/vuurwerk/BWBR0031686/README.md) zijn belast de functionarissen, genoemd in de bij dit besluit behorende bijlage 1. 
 
 ### Artikel  2  
 
 1.  Aan de functionarissen genoemd, in de bij dit besluit behorende bijlage 2, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van de overige daarmee verband houdende handelingen ter bestuursrechtelijke handhaving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](../../../../../../../../../../../ministeriele-regeling/regeling/bedrijfsmatig/tot/ontbranding/brengen/van/vuurwerk/BWBR0031686/README.md).   
-2.  Het eerste lid is niet van toepassing op het nemen van beslissingen op bezwaarschriften.   
+2.  De functionarissen, bedoeld in het eerste lid, kunnen voor de in het eerste lid bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan onder hen ressorterende functionarissen.  
+3.  Het eerste lid is niet van toepassing op het nemen van beslissingen op bezwaarschriften.  
 
 ### Artikel  3  
 
-Het krachtens mandaat en volmacht ondertekenen van stukken luidt als volgt: DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU, namens deze, gevolgd door de aanduiding van de gemandateerde functionaris.  
+Het krachtens mandaat en volmacht ondertekenen van stukken luidt als volgt: DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU, namens deze, gevolgd door de aanduiding van de gemandateerde functionaris. 
 
 ### Artikel  4  
 
-De gemandateerde neemt bij de uitoefening van het mandaat, de volmacht en de machtiging de instructies van de inspecteur-generaal Leefomgeving en Transport in acht.  
+De gemandateerde neemt bij de uitoefening van het mandaat, de volmacht en de machtiging de instructies van de inspecteur-generaal Leefomgeving en Transport in acht. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 9 december 2013.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 9 december 2013. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld  
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld    
 
-### Bijlage  1  
+### Bijlage  1 
 
 ####bedoeld in artikel 1, eerste lid 
 
@@ -51,28 +52,28 @@ W.J.Mansveld
 | Overijssel  | Medewerker beleidsuitvoering  |
 | Gelderland  | Medewerker handhaving A  Medewerker handhaving C  Medewerker handhaving D  |
 | Friesland  | Toezichthouder A  Toezichthouder B  |
-| Limburg  | Milieu-inspecteur 1  Milieu-inspecteur 2  Milieu-inspecteur 3  Milieu-inspecteur 4  |
+| Limburg  | Limburg Milieu-inspecteur  Toezichthouder |
 | Zeeland  | t/m 31-12-2013:  – Inspecteur A  – Inspecteur B  – Inspecteur C  – Medewerker Regionale Samenwerking  vanaf 01-01-2014:  – Inspecteur A  – Inspecteur B  – Inspecteur C  |
 | Drenthe  | t/m 31-12-2013:  – Handhaver zware en middelzware bedrijven  vanaf 01-01-2014:  – Handhaver 1  |
 | Groningen  | Projectmedewerker A  Projectmedewerker B  Projectmedewerker C  |
-| Zuid-Holland  | DCMR:  – 1 <sup>e</sup> medewerker toezicht en handhaving  – Medewerker toezicht en handhaving  Omgevingsdienst Haaglanden  – Toezichthouder milieu B  – Toezichthouder milieu C  Omgevingsdienst West Holland  – Milieutechnisch medewerker toezicht  – Adviseur bedrijven  – Medewerker handhaving  Omgevingsdienst Midden Holland:  – Vakspecialist A  – Vakspecialist B  Omgevingsdienst Zuid-Holland zuid  – Senior inspecteur  – Inspecteur  – Junior inspecteur  |
+| Zuid-Holland  | DCMR:  – 1<sup>e</sup> medewerker toezicht en handhaving  – Medewerker toezicht en handhaving  – Senior medewerker toezicht en handhaving Omgevingsdienst Haaglanden  – Toezichthouder milieu B  – Toezichthouder milieu C  Omgevingsdienst West Holland  – Milieutechnisch medewerker toezicht  – Adviseur bedrijven  – Medewerker handhaving  Omgevingsdienst Midden Holland:  – Vakspecialist A  – Vakspecialist B  – Vakspecialist D  Omgevingsdienst Zuid-Holland zuid  – Senior inspecteur  – Inspecteur  – Junior inspecteur  |
 
-### Bijlage  2  
+### Bijlage  2 
 
-####bedoeld in artikel 2, eerste lid 
+####, bedoeld in artikel 2, eerste lid 
 
-| Provincie  | Functiebeschrijving  |
+| Provincie  | Functionarissen  |
 |:---|:---|
-| Gelderland  | Directeur Omgevingsdienst regio Arnhem  |
-| Brabant  | Afdelingsmanager van de Omgevingsdienst  midden en west Brabant  Teammanager van de Omgevingsdienst  midden en west Brabant  |
-| Utrecht  | Afdelingsmanager VEH  Teamleider A  Teamleider B  |
-| Noord-Holland  | Sectormanager A  Sectormanager B  Sectormanager C  Sectormanager D  |
-| Zuid-Holland  | Directeur Regionale Uitvoeringsdienst Zuid-Holland  |
-| Overijssel  | Teamleider Handhaving  |
-| Groningen  | Hoofd Afdeling Omgeving en Milieu  |
-| Drenthe  | t/m 31-12-2013:  Teamleider VTH Bedrijven  vanaf 01-01-2014  Directeur Regionale Uitvoeringsdienst Drenthe  |
+| Friesland  | Directeur Friese Uitvoeringsdienst Milieu en Omgeving  |
+| Groningen  | Hoofd afdeling Omgeving en Milieu, Provincie Groningen  |
+| Drenthe  | Directeur Regionale Uitvoeringsdienst Drenthe  |
 | Flevoland  | Directeur Omgevingsdienst Flevoland & Gooi en Vechtstreek  |
-| Zeeland  | t/m 31-12-2013:  – Werkveldmanager Uitvoering  – Algemeen Directeur  vanaf 01-01-2014:  – Directeur  |
-| Limburg  | Afdelinghoofd Toezicht en Handhaving a.i.  Regionale Uitvoeringsdienst Zuid-Limburg  |
-| Friesland  | Directeur van de Omgevingsdienst Friesland/FUMO  Afdelingshoofd Toezicht en Handhaving  |
+| Overijssel  | Teamleider Handhaving, Provincie Overijssel  |
+| Gelderland  | Directeur Omgevingsdienst regio Arnhem  |
+| Utrecht  | Directeur Provincie Utrecht, dan wel diens rechtsopvolger  |
+| Noord-Holland  | Directeur Provincie Noord-Holland  |
+| Zuid-Holland  | Directeuren:  – Omgevingsdienst Midden-Holland  – Omgevingsdienst West-Holland   – DCMR Milieudienst Rijnmond   – Omgevingsdienst Zuid-Holland Zuid  – Omgevingsdienst Haaglanden   |
+| Zeeland  | Directeur Regionale Uitvoeringsdienst Zeeland  |
+| Noord-Brabant  | Directeur Omgevingsdienst Midden- en West-Brabant  |
+| Limburg  | Directeuren:  – Regionale Uitvoeringsdienst Limburg-Noord  – Regionale Uitvoeringsdienst Zuid-Limburg  |
 

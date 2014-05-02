@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 23 december 1993, nr. EB93/3035, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op richtlijn nr. 82/501/EEG van de Raad van de Europese Gemeenschappen van 24 juni 1982 inzake de risico's van zware ongevallen bij bepaalde industriële activiteiten (*PbEG* L 230), richtlijn nr. 89/618 /Euratom van de Raad van de Europese Gemeenschappen van 27 november 1989 betreffende de informatie van de bevolking over de bij stralingsgevaar toepasselijke maatregelen ter bescherming van de gezondheid en over de alsdan te volgen gedragslijn (*PbEG* L 357) en richtlijn nr. 90/219/EEG van de Raad van de Europese Gemeenschappen van 23 april 1990 inzake het ingeperkte gebruik van genetisch gemodificeerde micro-organismen (*PbEG* L 117);
+Gelet op richtlijn nr. 82/501/EEG van de Raad van de Europese Gemeenschappen van 24 juni 1982 inzake de risico's van zware ongevallen bij bepaalde industriële activiteiten (*PbEG* L 230), richtlijn nr. 89/618/Euratom van de Raad van de Europese Gemeenschappen van 27 november 1989 betreffende de informatie van de bevolking over de bij stralingsgevaar toepasselijke maatregelen ter bescherming van de gezondheid en over de alsdan te volgen gedragslijn (*PbEG* L 357) en richtlijn nr. 90/219/EEG van de Raad van de Europese Gemeenschappen van 23 april 1990 inzake het ingeperkte gebruik van genetisch gemodificeerde micro-organismen (*PbEG* L 117);
 
-Gelet op de [artikelen 2a, vierde lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), [2c, tweede lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), [11a vierde lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), en [11b, derde lid, van de Rampenwet](../../../../../../wet/rampenwet/BWBR0003765/README.md) en de [artikelen 8.40, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [8.44, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op de [artikelen 2a, vierde lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), [2c, tweede lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), [11a vierde lid](../../../../../../wet/rampenwet/BWBR0003765/README.md), en [11b, derde lid, van de Rampenwet](../../../../../../wet/rampenwet/BWBR0003765/README.md) en de [artikelen 8.40, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) , en [8.44, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
 
 De Raad van State gehoord (advies van 22 maart 1994, nr. W04.94.0023);
 
@@ -20,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit wordt verstaan onder: 
+1.  In dit besluit wordt verstaan onder:  
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
 b. inrichting: een inrichting als bedoeld in [artikel 8 van het Besluit risicos zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);  
 
-c. gevaarlijke micro-organismen: niet genetisch gemodificeerde cellulaire en niet-cellulaire micro-biologische entiteiten met het vermogen tot vermenigvuldiging of tot overbrenging van genetisch materiaal, daaronder mede begrepen virussen en viroïden, die: 
+c. gevaarlijke micro-organismen: niet genetisch gemodificeerde cellulaire en niet-cellulaire micro-biologische entiteiten met het vermogen tot vermenigvuldiging of tot overbrenging van genetisch materiaal, daaronder mede begrepen virussen en viroïden, die:  
 
 1°. voor wat betreft humane pathogenen worden ingedeeld in categorie 3 of 4 als bedoeld in [artikel 4.84, derde lid, onder c en d, en vierde lid, van het Arbeidsomstandighedenbesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), en  
 
@@ -40,8 +40,8 @@ f. toepassing op grote schaal: handelingen met kweekculturen van gevaarlijke mic
 
 g. gebruiker: natuurlijke persoon of rechtspersoon die op grote schaal gevaarlijke micro-organismen toepast dan wel een activiteit verricht met genetisch gemodificeerde organismen;  
 
-h. ramp met stralingsgevaar: een ongeval als bedoeld in [artikel 38, onder *b*, van de Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md) met een categorie B-object als bedoeld in [artikel 38, onder d, van die wet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md).     
-2.  In dit besluit wordt onder bevolking tevens de beheerders van voor publiek opengestelde inrichtingen, waaronder scholen en ziekenhuizen, verstaan.   
+h. ramp met stralingsgevaar: een ongeval als bedoeld in [artikel 38, onder *b*, van de Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md) met een categorie B-object als bedoeld in [artikel 38, onder d, van die wet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md).    
+2. In dit besluit wordt onder bevolking tevens de beheerders van voor publiek opengestelde inrichtingen, waaronder scholen en ziekenhuizen, verstaan.  
 3.  Dit besluit is uitsluitend van toepassing op activiteiten met genetisch gemodificeerde organismen op het bij ministeriële regeling krachtens het [Besluit genetisch gemodificeerde organismen](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) aangewezen hoogste of op een na hoogste niveau in: 
 
 a. laboratoria voor de vervaardiging van en handelingen met genetisch gemodificeerde micro-organismen;  
@@ -52,7 +52,7 @@ c. plantenkassen waarin genetisch gemodificeerde micro-organismen worden toegepa
 
 d. dierverblijven waarin genetisch gemodificeerde micro-organismen worden toegepast;  
 
-e. procesinstallaties waarin genetisch gemodificeerde micro-organismen worden toegepast.     
+e. procesinstallaties waarin genetisch gemodificeerde micro-organismen worden toegepast.    
 
 ### Hoofdstuk  II  
 
@@ -74,14 +74,14 @@ c. een beschrijving van de aan de werknemers verstrekte informatie;
 
 d. de informatie die naar het oordeel van het bestuur van de veiligheidsregio overigens nodig is om plannen ter bestrijding van een ramp op te stellen.   Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.   
 2.  Onverminderd het eerste lid, verschaft de gebruiker die een activiteit verricht met genetisch gemodificeerde organismen aan het bestuur van de veiligheidsregio waarin een activiteit plaatsheeft, tevens de procedures en plannen ter verificatie van de onverminderde doeltreffendheid van de inperkingsmaatregelen. Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.   
-3.  Indien de gebruiker de beschikking krijgt over nieuwe relevante veiligheidstechnische gegevens die een ander inzicht kunnen geven in de risico's voor de bevolking of het milieu die aan een toepassing op grote schaal van gevaarlijke micro-organismen dan wel een activiteit met genetisch gemodificeerde organismen zijn verbonden, stelt hij het bestuur van de veiligheidsregio hiervan zo spoedig mogelijk op de hoogte.   
-4.  De gebruiker zendt de ingevolge het eerste, tweede en derde lid verstrekte informatie onmiddellijk tevens aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+3.   Indien de gebruiker de beschikking krijgt over nieuwe relevante veiligheidstechnische gegevens die een ander inzicht kunnen geven in de risico's voor de bevolking of het milieu die aan een toepassing op grote schaal van gevaarlijke micro-organismen dan wel een activiteit met genetisch gemodificeerde organismen zijn verbonden, stelt hij het bestuur van de veiligheidsregio hiervan zo spoedig mogelijk op de hoogte.   
+4.   De gebruiker zendt de ingevolge het eerste, tweede en derde lid verstrekte informatie onmiddellijk tevens aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
 
 ### Artikel  3  
 
 1.  De gebruiker kan het bestuur van de veiligheidsregio verzoeken bepaalde informatie vertrouwelijk te behandelen, indien de openbaarmaking van deze gegevens nadelige invloed kan hebben op zijn concurrentiepositie. In dit geval moeten aantoonbare redenen worden aangevoerd.   
-2.  Het bestuur van de veiligheidsregio bepaalt na overleg met de gebruiker welke informatie, bedoeld in het eerste lid, vertrouwelijk zal worden behandeld, en brengt de gebruiker op de hoogte van zijn besluit.   
-3.  De volgende informatie wordt in geen geval vertrouwelijk behandeld: 
+2.   Het bestuur van de veiligheidsregio bepaalt na overleg met de gebruiker welke informatie, bedoeld in het eerste lid, vertrouwelijk zal worden behandeld, en brengt de gebruiker op de hoogte van zijn besluit.   
+3.   De volgende informatie wordt in geen geval vertrouwelijk behandeld:  
 
 a. de beschrijving van de toegepaste gevaarlijke micro-organismen dan wel genetisch gemodificeerde organismen;  
 
@@ -91,7 +91,7 @@ c. de plaats en het doel van de toepassing;
 
 d. de methoden en plannen met betrekking tot het toezicht op de gevaarlijke micro-organismen dan wel genetisch gemodificeerde organismen, en de noodmaatregelen;  
 
-e. de conclusies met betrekking tot de te verwachten effecten, met name de pathogene effecten en milieuschade.     
+e. de conclusies met betrekking tot de te verwachten effecten, met name de pathogene effecten en milieuschade.    
 
 ### §  2  
 
@@ -113,13 +113,13 @@ a. de aard en de hoeveelheid van de betrokken gevaarlijke stoffen respectievelij
 
 b. de getroffen noodmaatregelen.   Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.   
 4.  Degene die de informatie, bedoeld in het tweede en derde lid, heeft verschaft werkt deze informatie bij en verschaft de bijgewerkte informatie aan de burgemeester, indien uit nader onderzoek nieuwe gegevens naar voren komen die in de informatie of de daaruit getrokken conclusies wijziging brengen.   
-5.  Indien in een inrichting of tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen een ramp heeft plaatsgevonden, stelt degene die de inrichting drijft respectievelijk de gebruiker het bestuur van de veiligheidsregio waarin de ramp zich heeft voorgedaan, op zijn verzoek dan wel eigener beweging op de hoogte van: 
+5.  Indien in een inrichting of tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen een ramp heeft plaatsgevonden, stelt degene die de inrichting drijft respectievelijk de gebruiker het bestuur van de veiligheidsregio waarin de ramp zich heeft voorgedaan, op zijn verzoek dan wel eigener beweging op de hoogte van:  
 
 a. de maatregelen die worden overwogen om de gevolgen van de ramp op middellange en lange termijn te ondervangen;  
 
 b. de maatregelen die worden overwogen om een herhaling van een dergelijke ramp te voorkomen en de gevolgen ervan te ondervangen.     
 6.  De gebruiker zendt de ingevolge het tweede tot en met vijfde lid verschafte informatie onmiddellijk tevens aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
-7.  Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is artikel 3 van overeenkomstige toepassing.   
+7.  Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is artikel 3 van overeenkomstige toepassing.  
 
 ### Hoofdstuk  III  
 
@@ -131,7 +131,7 @@ b. de maatregelen die worden overwogen om een herhaling van een dergelijke ramp 
 
 ### Artikel  5  
 
-1.  De informatie die het bestuur van de veiligheidsregio over mogelijke rampen en crises aan de bevolking verschaft, omvat in ieder geval: 
+1. De informatie die het bestuur van de veiligheidsregio over mogelijke rampen en crises aan de bevolking verschaft, omvat in ieder geval: 
 
 a. gegevens die inzicht verschaffen in de oorsprong, de omvang en de te verwachten gevolgen voor de bevolking of het milieu van een dergelijke ramp of crisis;  
 
@@ -145,8 +145,8 @@ e. een verwijzing naar en een globale toelichting op het crisisplan, bedoeld in 
 
 f. de identiteit van de persoon die de informatie verschaft onder vermelding van zijn functie;  
 
-g. gegevens over de wijze waarop, waar en bij wie aanvullende ter zake dienende informatie kan worden verkregen.     
-2.  De informatie wordt door het bestuur van de veiligheidsregio in de meest passende vorm verschaft.   
+g. gegevens over de wijze waarop, waar en bij wie aanvullende ter zake dienende informatie kan worden verkregen.   
+2. De informatie wordt door het bestuur van de veiligheidsregio in de meest passende vorm verschaft.
 
 ### §  2  
 
@@ -154,7 +154,7 @@ g. gegevens over de wijze waarop, waar en bij wie aanvullende ter zake dienende 
 
 ### Artikel  6  
 
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in artikel 5, in ieder geval: 
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in artikel 5, in ieder geval:  
 
 a. de naam van degene die de inrichting drijft en de naam en het adres van de desbetreffende inrichting;  
 
@@ -170,21 +170,21 @@ f. de benaming van de stoffen die in de inrichting een ramp kunnen veroorzaken, 
 
 g. specifiek op de rampenbestrijding gerichte informatie die is gebaseerd op gegevens die zijn ontleend aan het veiligheidsrapport, bedoeld in [artikel 10 van het Besluit risico's zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md);  
 
-h. een bevestiging van het feit dat voldaan is aan hetgeen in het [Besluit risico's zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) omtrent het opstellen van een intern noodplan is bepaald en dat de inrichting gehouden is de nodige contacten te leggen met de hulpverleningsdiensten, een en ander ten einde ongevallen het hoofd te bieden en de gevolgen zo gering mogelijk te houden.    
+h. een bevestiging van het feit dat voldaan is aan hetgeen in het [Besluit risico's zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) omtrent het opstellen van een intern noodplan is bepaald en dat de inrichting gehouden is de nodige contacten te leggen met de hulpverleningsdiensten, een en ander ten einde ongevallen het hoofd te bieden en de gevolgen zo gering mogelijk te houden.   
 
-### §  2a  
+###§ 2a 
 
 ####Verschaffen van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een afvalvoorziening categorie A
 
-### Artikel  6a  
+### Artikel 6a 
 
-Artikel 6 is van overeenkomstige toepassing op een mogelijke ramp in een afvalvoorziening categorie A, met dien verstande dat: 
+Artikel 6 is van overeenkomstige toepassing op een mogelijke ramp in een afvalvoorziening categorie A, met dien verstande dat:
 
-a. in onderdeel b in plaats van « [Besluit risico’s zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) » wordt gelezen « [Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md) » en in plaats van «een veiligheidsrapport» wordt gelezen: het document, bedoeld in [artikel 3, vijfde lid, van het Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md);  
+a.in onderdeel b in plaats van «[Besluit risico’s zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md)» wordt gelezen «[Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md)» en in plaats van «een veiligheidsrapport» wordt gelezen: het document, bedoeld in [artikel 3, vijfde lid, van het Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md);
 
-b. in onderdeel g in plaats van «het veiligheidsrapport, bedoeld in [artikel 10 van het besluit risico’s zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) » wordt gelezen: het document, bedoeld in [artikel 3, vijfde lid van het Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md);  
+b.in onderdeel g in plaats van «het veiligheidsrapport, bedoeld in [artikel 10 van het besluit risico’s zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md)» wordt gelezen: het document, bedoeld in [artikel 3, vijfde lid van het Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md);
 
-c. in onderdeel h in plaats van « [Besluit risico's zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) » wordt gelezen: [Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md).    
+c.in onderdeel h in plaats van «[Besluit risico's zware ongevallen 1999](../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md)» wordt gelezen: [Besluit beheer winningsafvalstoffen](../../../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md).
 
 ### §  3  
 
@@ -192,15 +192,15 @@ c. in onderdeel h in plaats van « [Besluit risico's zware ongevallen 1999](../.
 
 ### Artikel  7  
 
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in artikel 5: 
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in artikel 5:  
 
 a. basiskennis over radioactiviteit en de gevolgen daarvan voor de bevolking of het milieu;  
 
-b. de verschillende in aanmerking genomen gevallen van stralingsgevaar en hun gevolgen voor de bevolking of het milieu.    
+b. de verschillende in aanmerking genomen gevallen van stralingsgevaar en hun gevolgen voor de bevolking of het milieu.   
 
 ### Artikel  8  
 
-Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoeld in de artikelen 5, 6, 6a en 7, permanent toegankelijk is voor het publiek.  
+Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoeld in de artikelen 5, 6, 6a en 7, permanent toegankelijk is voor het publiek. 
 
 ### §  4  
 
@@ -210,9 +210,9 @@ Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoe
 
 1.  De informatie, bedoeld in artikel 5, onder b en c, wordt ten minste één maal per jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.   
 2.  De informatie als bedoeld in het eerste lid die betrekking of mede betrekking heeft op een inrichting of een afvalvoorziening categorie A wordt ten minste één maal per drie jaar opnieuw bezien en zo nodig bijgewerkt. Bijwerking vindt voorts in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting of een afvalvoorziening categorie A worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.   
-3.  De informatie, bedoeld in de artikelen 5, onder a en d tot en met g, en 7, wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.   
+3.  De informatie, bedoeld in de artikelen 5, onder a en d tot en met g, en 7, wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.    
 4.  De verschaffing van informatie als bedoeld in artikel 5, onder a en d tot en met g, die betrekking of mede betrekking heeft op een inrichting of een afvalvoorziening categorie A alsmede van de informatie, bedoeld in de artikelen 6 en 6a, geschiedt ten minste één maal in de vijf jaar en voorts telkens wanneer de informatie is bijgewerkt. Ten minste één maal per drie jaar wordt bezien of bijwerking nodig is. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting of een afvalvoorziening categorie A worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.   
-5.  Het bestuur van de veiligheidsregio verschaft de informatie, bedoeld in het derde en vierde lid, eerder en werkt deze eerder bij, indien naar zijn oordeel ontwikkelingen in de kennis over de veiligheid en over de beoordeling van risico’s en over een doelmatige rampenbestrijding hiertoe nopen.   
+5.  Het bestuur van de veiligheidsregio verschaft de informatie, bedoeld in het derde en vierde lid, eerder en werkt deze eerder bij, indien naar zijn oordeel ontwikkelingen in de kennis over de veiligheid en over de beoordeling van risico’s en over een doelmatige rampenbestrijding hiertoe nopen.  
 
 ### §  5  
 
@@ -227,7 +227,7 @@ a. een verzoek aan de bevolking doen naar de radio te luisteren of naar de telev
 b. voorbereidende instructies geven aan instellingen met bijzondere collectieve taken;  
 
 c. aanbevelingen doen aan bijzonder betrokken beroepen.     
-2.  Indien daartoe voldoende tijd beschikbaar is, worden de informatie en instructies, bedoeld in het eerste lid, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.   
+2.   Indien daartoe voldoende tijd beschikbaar is, worden de informatie en instructies, bedoeld in het eerste lid, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.  
 
 ### §  6  
 
@@ -254,15 +254,15 @@ c. een beschrijving van de maatregelen die de bevolking dient te treffen om de s
 5°. evacuatie;    
 
 d. speciale instructies voor bepaalde bevolkingsgroepen.     
-2.  De informatie, bedoeld in het eerste lid, wordt zo spoedig mogelijk en bij herhaling verschaft.   
+2.   De informatie, bedoeld in het eerste lid, wordt zo spoedig mogelijk en bij herhaling verschaft.  
 
 ### Paragraaf  7  
 
-####Verschaffing van informatie over een in het buitenland gelegen inrichting
+####Verschaffing van informatie over een in het buitenland gelegen inrichting 
 
-### Artikel  11a  
+###Artikel 11a 
 
-De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking heeft op een calamiteit in een inrichting die in een andere staat is gelegen, welke calamiteit tot een ramp in Nederland kan leiden, voor zover mogelijk toegepast.  
+De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking heeft op een calamiteit in een inrichting die in een andere staat is gelegen, welke calamiteit tot een ramp in Nederland kan leiden, voor zover mogelijk toegepast.
 
 ### Hoofdstuk  IV  
 
@@ -271,10 +271,10 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 ### Artikel  12  
 
 1.  Het verschaffen van informatie, bedoeld in [artikel 46, derde lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), door het bestuur van de veiligheidsregio aan de bij rampenbestrijding en crisisbeheersing betrokken personen geschiedt schriftelijk. Deze informatie wordt geregeld bijgewerkt.   
-2.  Het verschaffen van informatie geschiedt zodanig, dat de bij de rampenbestrijding en crisisbeheersing betrokken personen beseffen welke risico's hun inzet kan hebben voor hun gezondheid en dat zij in staat zijn op adequate wijze uitvoering te geven aan hun taken.   
+2.   Het verschaffen van informatie geschiedt zodanig, dat de bij de rampenbestrijding en crisisbeheersing betrokken personen beseffen welke risico's hun inzet kan hebben voor hun gezondheid en dat zij in staat zijn op adequate wijze uitvoering te geven aan hun taken.   
 3.  De informatie, bedoeld in [artikel 46, derde lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), wordt ten tijde van een ramp of crisis met relevante informatie aangevuld, rekening houdend met de omstandigheden van het specifieke geval.   
-4.  Indien zich een ramp met stralingsgevaar voordoet of dreigt voor te doen, wordt bij de informatie, bedoeld in het derde lid, in ieder geval rekening gehouden met de verschillende gevallen van stralingsgevaar die zich kunnen voordoen.   
-5.  Indien daartoe voldoende tijd beschikbaar is, wordt de informatie die ten tijde van een ramp of crisis wordt verschaft, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.   
+4.   Indien zich een ramp met stralingsgevaar voordoet of dreigt voor te doen, wordt bij de informatie, bedoeld in het derde lid, in ieder geval rekening gehouden met de verschillende gevallen van stralingsgevaar die zich kunnen voordoen.   
+5.   Indien daartoe voldoende tijd beschikbaar is, wordt de informatie die ten tijde van een ramp of crisis wordt verschaft, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.  
 
 ### Hoofdstuk  V  
 
@@ -298,8 +298,8 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 ### Artikel  14  
 
 1.  Indien de bevolking of het milieu van een andere staat wordt getroffen of dreigt te worden getroffen door een ramp of crisis, verschaft de voorzitter van de veiligheidsregio de informatie, bedoeld in de artikelen 11 en 12, derde en vierde lid, tevens aan Onze Minister.   
-2.  Onze Minister verstrekt de informatie, bedoeld in het eerste lid, aan de betrokken staat.   
-3.  Voor zover het betreft een ramp in een inrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verstrekt Onze Minister de informatie, bedoeld in het tweede lid, na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+2.  Onze Minister verstrekt de informatie, bedoeld in het eerste lid, aan de betrokken staat.  
+3.   Voor zover het betreft een ramp in een inrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verstrekt Onze Minister de informatie, bedoeld in het tweede lid, na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
 
 ### Hoofdstuk  VI  
 
@@ -311,19 +311,19 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ### Artikel  16  
 
-Handelen in strijd met artikel 2 en handelen in strijd met artikel 4, derde tot en met vijfde lid, door degene die de inrichting drijft dan wel de gebruiker, en handelen in strijd met artikel 4, tweede lid, door degene die een afvalvoorziening categorie A drijft, is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).  
+Handelen in strijd met artikel 2 en handelen in strijd met artikel 4, derde tot en met vijfde lid, door degene die de inrichting drijft dan wel de gebruiker, en handelen in strijd met artikel 4, tweede lid, door degene die een afvalvoorziening categorie A drijft, is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md). 
 
 ### Artikel  16a  
 
-Dit besluit berust mede op de [artikelen 7, vierde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [46, vijfde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [47, derde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [48, zesde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [49, eerste lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en [50, derde lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+Dit besluit berust mede op de [artikelen 7, vierde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [46, vijfde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [47, derde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [48, zesde lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), [49, eerste lid](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), en [50, derde lid, van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md). 
 
-### Artikel  17  
+###Artikel 17 
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ### Artikel  18  
 
-Dit besluit wordt aangehaald als: Besluit informatie inzake rampen en crises.  
+Dit besluit wordt aangehaald als: Besluit informatie inzake rampen en crises. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
