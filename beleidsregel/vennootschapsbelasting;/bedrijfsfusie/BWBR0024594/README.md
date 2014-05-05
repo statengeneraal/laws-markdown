@@ -93,7 +93,7 @@ a. er moet sprake zijn van cumulatief preferente aandelen;
 
 b. het nominale bedrag van de cumulatief preferente aandelen vermeerderd met eventueel agio (en het nominale bedrag van gewone aandelen) wordt in overleg met de inspecteur zodanig bepaald dat de waarde van deze aan de overdrager uitgereikte aandelen gelijk is aan de waarde in het economische verkeer van de overgedragen onderneming; zie in dit verband ook paragraaf 3.4.2.;  
 
-c. aan deze aandelen is een dividendpercentage verbonden dat op zakelijke wijze is bepaald ; het cumulatief preferente dividend wordt berekend over het nominale bedrag van de aandelen vermeerderd met eventueel agio; <sup> 1  Dit percentage is onder andere afhankelijk van de branche en de voor de onderneming specifieke omstandigheden.  </sup>  
+c. aan deze aandelen is een dividendpercentage verbonden dat op zakelijke wijze is bepaald<sup>1Dit percentage is onder andere afhankelijk van de branche en de voor de onderneming specifieke omstandigheden.</sup>; het cumulatief preferente dividend wordt berekend over het nominale bedrag van de aandelen vermeerderd met eventueel agio;  
 
 d. er wordt daadwerkelijk dividend uitgekeerd.      
 ### 3.4.4  
@@ -328,9 +328,9 @@ Met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](../.
 
 De vereisten luiden als volgt: 
 
-1. de overdrager draagt zijn gehele onderneming in het kader van een bedrijfsfusie in de zin van [artikel 14 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) over aan de overnemer; <sup> 2  In het geval de overdrager een buitenlandse belastingplichtige is: de gehele in Nederland gedreven onderneming.  </sup>  
+1. de overdrager draagt zijn gehele onderneming<sup>2In het geval de overdrager een buitenlandse belastingplichtige is: de gehele in Nederland gedreven onderneming.</sup> in het kader van een bedrijfsfusie in de zin van [artikel 14 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) over aan de overnemer;  
 
-2. door de overdracht eindigt de belastingplicht voor de vennootschapsbelasting van de overdrager ; <sup> 3  In het geval de overdrager na de overdracht buitenlands belastingplichtig is op grond van artikel 17, derde lid, onderdeel b, van de Wet Vpb, is geen sprake van einde belastingplicht.  </sup>  
+2. door de overdracht eindigt de belastingplicht voor de vennootschapsbelasting van de overdrager<sup>3In het geval de overdrager na de overdracht buitenlands belastingplichtig is op grond van artikel 17, derde lid, onderdeel b, van de Wet Vpb, is geen sprake van einde belastingplicht.</sup>;  
 
 3. de overdracht is niet in overwegende mate gericht op het ontgaan of uitstellen van belastingheffing als bedoeld in [artikel 14, vierde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).      
 ### B  
@@ -400,11 +400,11 @@ Den Haag
 29 september 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen  
+J. Thunnissen    
 
-### Bijlage  1  
+### Bijlage 1  
 
 #### *Voorwaarden voor de toepassing van artikel 14, tweede lid, van de Wet op de vennootschapsbelasting 1969 (bedrijfsfusie)* 
 
@@ -412,7 +412,7 @@ In deze voorwaarden wordt verstaan onder: Wet Vpb: de [Wet op de vennootschapsbe
 
 #### *Onderlinge vorderingen en schulden* 
 
-1. Vorderingen van de overnemer op de overdrager dan wel vorderingen van de overdrager op de overnemer, die als gevolg van de bedrijfsfusie door schuldvermenging tenietgaan, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op de bedrijfswaarde, doch niet hoger dan de nominale waarde. Schulden welke staan tegenover de in de vorige volzin bedoelde vorderingen, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op het bedrag waarvoor die vorderingen zijn gewaardeerd.    
+1. Vorderingen van de overnemer op de overdrager dan wel vorderingen van de overdrager op de overnemer, die als gevolg van de bedrijfsfusie door schuldvermenging tenietgaan, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op de bedrijfswaarde, doch niet hoger dan de nominale waarde. Schulden welke staan tegenover de in de vorige volzin bedoelde vorderingen, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op het bedrag waarvoor die vorderingen zijn gewaardeerd.   
 
 #### *Verrekening van verliezen, buitenlandse resultaten, bronbelasting en deelnemingsverrekening* 
 
@@ -428,15 +428,15 @@ In deze voorwaarden wordt verstaan onder: Wet Vpb: de [Wet op de vennootschapsbe
 
 #### *Aanspraak op verliezen* 
 
-2c. Voor zover de nog te verrekenen verliezen van de overnemer reeds vóór het overgangstijdstip bij de overdrager tot uitdrukking zijn gekomen, worden deze verliezen niet verrekend met de winst van de overnemer.    
+2c. Voor zover de nog te verrekenen verliezen van de overnemer reeds vóór het overgangstijdstip bij de overdrager tot uitdrukking zijn gekomen, worden deze verliezen niet verrekend met de winst van de overnemer.   
 
 #### *Verticale verrekening van verliezen* 
 
-2d. De vóór het overgangstijdstip geleden verliezen van de overnemer worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van de winst van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming, behalve voor zover de verrekening van deze verliezen op grond van andere regelingen is beperkt.    
+2d. De vóór het overgangstijdstip geleden verliezen van de overnemer worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van de winst van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming, behalve voor zover de verrekening van deze verliezen op grond van andere regelingen is beperkt.   
 
 #### *Stallingsregeling en bronbelasting* 
 
-2e. De overbrenging van buitenlandse winsten en verliezen van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting vindt uitsluitend plaats voor zover van de positieve binnenlandse winst respectievelijke de positieve buitenlandse winst van de overnemer een overeenkomstig de voorwaarden 2a. en 2b. bepaald deel betrekking heeft op de onderneming van de desbetreffende rechtspersoon. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar volgende jaren. Bij deze overbrenging vindt de vorige volzin dienovereenkomstig toepassing. De overbrenging van bronbelasting van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting wordt bij de overnemer in aanmerking genomen tot ten hoogste het bedrag dat tot de belasting welke door de overnemer zou zijn verschuldigd zonder deze overbrenging in dezelfde verhouding staat als het bedrag van de dividenden, interest en royalty’s verminderd met de daarop rechtstreeks drukkende kosten, die deel uitmaken van de overeenkomstig de onderdelen a. en b. berekende winst van de onderneming van de rechtspersoon van wie de bronbelasting afkomstig is, staat tot de winst verminderd met de op de voet van [hoofdstuk IV van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te verrekenen verliezen, voor zover deze bestaan uit negatieve winst van de overnemer. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.    
+2e. De overbrenging van buitenlandse winsten en verliezen van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting vindt uitsluitend plaats voor zover van de positieve binnenlandse winst respectievelijke de positieve buitenlandse winst van de overnemer een overeenkomstig de voorwaarden 2a. en 2b. bepaald deel betrekking heeft op de onderneming van de desbetreffende rechtspersoon. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar volgende jaren. Bij deze overbrenging vindt de vorige volzin dienovereenkomstig toepassing. De overbrenging van bronbelasting van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting wordt bij de overnemer in aanmerking genomen tot ten hoogste het bedrag dat tot de belasting welke door de overnemer zou zijn verschuldigd zonder deze overbrenging in dezelfde verhouding staat als het bedrag van de dividenden, interest en royalty’s verminderd met de daarop rechtstreeks drukkende kosten, die deel uitmaken van de overeenkomstig de onderdelen a. en b. berekende winst van de onderneming van de rechtspersoon van wie de bronbelasting afkomstig is, staat tot de winst verminderd met de op de voet van [hoofdstuk IV van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te verrekenen verliezen, voor zover deze bestaan uit negatieve winst van de overnemer. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.   
 
 #### *Deelnemingsverrekening* 
 
@@ -446,41 +446,41 @@ a. het bedrag van de gezamenlijk gebruteerde voordelen;
 
 b. het bedrag van de bij de winstbepaling van het jaar in aftrek gekomen kosten ter zake van de laagbelaste beleggingsdeelnemingen;  
 
-c. en het belastbare bedrag.   Bij de in de vorige volzin bedoelde toerekening vindt voorwaarde 2a. overeenkomstige toepassing. Op grond van deze voorwaarde niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.    
+c. en het belastbare bedrag.   Bij de in de vorige volzin bedoelde toerekening vindt voorwaarde 2a. overeenkomstige toepassing. Op grond van deze voorwaarde niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.   
 
 #### *Aandelenbezit verdwijnt* 
 
-3. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager aandelen bezit in de overnemer en deze rechtspersoon de aandelen verkrijgt, worden deze aandelen op dat tijdstip gewaardeerd tegen de waarde in het economische verkeer en wordt het voordeel waarop de deelnemingsvrijstelling geen toepassing vindt tot de winst van de overdrager gerekend.    
+3. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager aandelen bezit in de overnemer en deze rechtspersoon de aandelen verkrijgt, worden deze aandelen op dat tijdstip gewaardeerd tegen de waarde in het economische verkeer en wordt het voordeel waarop de deelnemingsvrijstelling geen toepassing vindt tot de winst van de overdrager gerekend.   
 
 #### *Aandelenbezit is artikel 13c-deelneming, dan wel artikel 13ca-deelneming* 
 
-4. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager een deelneming als bedoeld in [artikel 13c, eerste lid en vierde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel in [artikel 13ca, eerste lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), heeft in een overnemer en deze rechtspersoon de aandelen verkrijgt, wordt op dat tijdstip geacht zich een omstandigheid voor te doen als aangeduid in [artikel 13c, tweede lid, eerste volzin van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel moet op dat tijdstip het in [artikel 13ca, vijfde lid, eerste volzin, (voorheen vierde lid, eerste volzin) van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) genoemde verschil tot de winst worden gerekend.    
+4. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager een deelneming als bedoeld in [artikel 13c, eerste lid en vierde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel in [artikel 13ca, eerste lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), heeft in een overnemer en deze rechtspersoon de aandelen verkrijgt, wordt op dat tijdstip geacht zich een omstandigheid voor te doen als aangeduid in [artikel 13c, tweede lid, eerste volzin van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel moet op dat tijdstip het in [artikel 13ca, vijfde lid, eerste volzin, (voorheen vierde lid, eerste volzin) van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) genoemde verschil tot de winst worden gerekend.   
 
 #### *Latent liquidatieverlies* 
 
-5. Indien tot de onderneming van de overnemer respectievelijk de naar de overnemer overgedragen onderneming een deelneming behoort waarop de deelnemingsvrijstelling van toepassing is en waarvan op het tijdstip waarop de voorovereenkomst of intentieverklaring is geregistreerd de onderneming geheel of nagenoeg geheel is gestaakt, dan wel daartoe besloten is, of indien op een dergelijke onderneming het bepaalde in [artikel 13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van toepassing is, komt, onverminderd het bepaalde in [artikelen 13d](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), een liquidatieverlies uit hoofde van die deelneming bij de bepaling van de winst van de overnemer slechts in aanmerking tot het bedrag van de (overige) winst dat met inachtneming van de in de tweede voorwaarde omschreven winstsplitsing aan de desbetreffende onderneming is toe te rekenen. Het resterende bedrag wordt als liquidatieverlies in mindering gebracht op en tot ten hoogste de positieve belastbare bedragen van de overnemer van het voorafgaande jaar en de negen volgende jaren, in de volgorde waarin deze zijn ontstaan, voor zover er winst met inachtneming van de winstsplitsing is toe te rekenen aan de desbetreffende onderneming. Hierbij geldt tevens dat voor zover het winst betreft afkomstig van de onderneming van de overdrager, niet verder wordt teruggegaan dan tot het overgangstijdstip. Voor zover een liquidatieverlies in een voorafgaand jaar op het belastbaar bedrag in mindering wordt gebracht, zal de aanslag over dat jaar worden herzien. Over het bedrag van de herziening wordt geen heffingsrente vergoed.    
+5. Indien tot de onderneming van de overnemer respectievelijk de naar de overnemer overgedragen onderneming een deelneming behoort waarop de deelnemingsvrijstelling van toepassing is en waarvan op het tijdstip waarop de voorovereenkomst of intentieverklaring is geregistreerd de onderneming geheel of nagenoeg geheel is gestaakt, dan wel daartoe besloten is, of indien op een dergelijke onderneming het bepaalde in [artikel 13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van toepassing is, komt, onverminderd het bepaalde in [artikelen 13d](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), een liquidatieverlies uit hoofde van die deelneming bij de bepaling van de winst van de overnemer slechts in aanmerking tot het bedrag van de (overige) winst dat met inachtneming van de in de tweede voorwaarde omschreven winstsplitsing aan de desbetreffende onderneming is toe te rekenen. Het resterende bedrag wordt als liquidatieverlies in mindering gebracht op en tot ten hoogste de positieve belastbare bedragen van de overnemer van het voorafgaande jaar en de negen volgende jaren, in de volgorde waarin deze zijn ontstaan, voor zover er winst met inachtneming van de winstsplitsing is toe te rekenen aan de desbetreffende onderneming. Hierbij geldt tevens dat voor zover het winst betreft afkomstig van de onderneming van de overdrager, niet verder wordt teruggegaan dan tot het overgangstijdstip. Voor zover een liquidatieverlies in een voorafgaand jaar op het belastbaar bedrag in mindering wordt gebracht, zal de aanslag over dat jaar worden herzien. Over het bedrag van de herziening wordt geen heffingsrente vergoed.   
 
 #### *Deelnemingsvrijstelling na bedrijfsfusie* 
 
-6. Indien de overdrager aandelen bezit die geen deelneming of een laagbelaste beleggingsdeelneming vormen, welke geheel dan wel gedeeltelijk worden overgedragen, wordt de waarde waarvoor deze aandelen ten tijde van de bedrijfsfusie te boek zijn gesteld, voor een evenredig gedeelte toegerekend aan de aandelen die de overnemer direct na de bedrijfsfusie heeft. Indien de overdrager aandelen bezit die een deelneming vormen waarop de deelnemingsvrijstelling van toepassing is, welke geheel dan wel gedeeltelijk worden overgedragen, treedt de overnemer voor het geheel, en voor de toepassing van [artikel 13ca van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en de verdeling van het opgeofferde bedrag naar evenredigheid verdeeld over de overdrager en de overnemer, in de plaats van de overdrager, met uitzondering van het bepaalde in [artikel 13, tweede, derde en vijfde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), mits de aandelen tot het vermogen van haar in Nederland gedreven onderneming gaan behoren.    
+6. Indien de overdrager aandelen bezit die geen deelneming of een laagbelaste beleggingsdeelneming vormen, welke geheel dan wel gedeeltelijk worden overgedragen, wordt de waarde waarvoor deze aandelen ten tijde van de bedrijfsfusie te boek zijn gesteld, voor een evenredig gedeelte toegerekend aan de aandelen die de overnemer direct na de bedrijfsfusie heeft. Indien de overdrager aandelen bezit die een deelneming vormen waarop de deelnemingsvrijstelling van toepassing is, welke geheel dan wel gedeeltelijk worden overgedragen, treedt de overnemer voor het geheel, en voor de toepassing van [artikel 13ca van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en de verdeling van het opgeofferde bedrag naar evenredigheid verdeeld over de overdrager en de overnemer, in de plaats van de overdrager, met uitzondering van het bepaalde in [artikel 13, tweede, derde en vijfde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), mits de aandelen tot het vermogen van haar in Nederland gedreven onderneming gaan behoren.   
 
 #### *De overdrager is stichting of vereniging* 
 
-7. Ten laste van de winst van hetzij de overnemer of haar rechtsopvolger(s) onder algemene of bijzondere titel ter zake van (een deel van) de overgedragen onderneming, hetzij van een vennootschap die tot deze in een verhouding staat als omschreven in [artikel 8, achtste lid, onderdelen b en c van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), komen, zolang de overdrager of haar rechtsopvolger(s) onder algemene of bijzondere titel in het bezit is/zijn van aandelen in de overnemer of haar rechtsopvolger(s), geen betalingen die direct of indirect betrekking hebben op vermogensbestanddelen welke toebehoren aan de overdrager en/of haar rechtsopvolger(s), indien en voor zover de daartegenover staande ontvangsten bij de overdrager dan wel haar rechtsopvolger(s) niet aan de heffing van vennootschapsbelasting zijn onderworpen.    
+7. Ten laste van de winst van hetzij de overnemer of haar rechtsopvolger(s) onder algemene of bijzondere titel ter zake van (een deel van) de overgedragen onderneming, hetzij van een vennootschap die tot deze in een verhouding staat als omschreven in [artikel 8, achtste lid, onderdelen b en c van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), komen, zolang de overdrager of haar rechtsopvolger(s) onder algemene of bijzondere titel in het bezit is/zijn van aandelen in de overnemer of haar rechtsopvolger(s), geen betalingen die direct of indirect betrekking hebben op vermogensbestanddelen welke toebehoren aan de overdrager en/of haar rechtsopvolger(s), indien en voor zover de daartegenover staande ontvangsten bij de overdrager dan wel haar rechtsopvolger(s) niet aan de heffing van vennootschapsbelasting zijn onderworpen.   
 
 #### *Overgedragen vermogensbestanddelen zijn na de overdracht niet meer aan de heffing van vennootschapsbelasting onderworpen* 
 
-8. Voor zover tot de overgedragen onderneming vermogensbestanddelen behoren die na de overdracht niet meer aan de Nederlandse heffing van vennootschapsbelasting zijn onderworpen, is de vrijstelling niet van toepassing op de overdrachtswinst die betrekking heeft op die vermogensbestanddelen.    
+8. Voor zover tot de overgedragen onderneming vermogensbestanddelen behoren die na de overdracht niet meer aan de Nederlandse heffing van vennootschapsbelasting zijn onderworpen, is de vrijstelling niet van toepassing op de overdrachtswinst die betrekking heeft op die vermogensbestanddelen.   
 
-### Bijlage  2  
+### Bijlage 2  
 
 #### *Inwilliging; beschikking met voorwaarden* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -489,17 +489,17 @@ Onderwerp: Vennootschapsbelasting. Beschikking bedrijfsfusie. Geachte <naam>, Na
 
 – Op grond van [artikel 14, tweede lid, van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) willig ik uw verzoek in onder het stellen van de voorwaarden zoals opgenomen in bijlage I bij het besluit met nummer CPP2008/1008 (als bijlage bij deze beschikking gevoegd).  
 
-– Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen.  Bijlage: voorwaarden bedrijfsfusie   
+– Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen. Bijlage: voorwaarden bedrijfsfusie 
 
-### Bijlage  3  
+### Bijlage 3  
 
 #### *Inwilliging; beschikking met aangepaste voorwaarden in verband met overdracht binnenlandse vaste inrichting* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -510,17 +510,17 @@ Onderwerp: Vennootschapsbelasting. Beschikking bedrijfsfusie. Geachte <naam>, Na
 
 – de overdrager: de overdragende belastingplichtige, voor zover deze zijn onderneming in Nederland uitoefent;  
 
-– overgedragen onderneming c.q. onderneming van de overdrager: de in Nederland met behulp van een vaste inrichting door de overdrager uitgeoefende onderneming.   Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden. Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen.  Bijlage: voorwaarden bedrijfsfusie   
+– overgedragen onderneming c.q. onderneming van de overdrager: de in Nederland met behulp van een vaste inrichting door de overdrager uitgeoefende onderneming.   Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden. Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen. Bijlage: voorwaarden bedrijfsfusie 
 
-### Bijlage  4  
+### Bijlage 4  
 
 #### *Afwijzing* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -566,9 +566,9 @@ Aan de voorwaarden voor de vrijstelling wordt niet voldaan, omdat:
 
 – het eerste boekjaar van de overnemer feitelijk de resultaten van meer dan 24 maanden omvat;  
 
-– met het verlenen van terugwerkende kracht een incidenteel fiscaal voordeel wordt behaald;   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen.  
+– met het verlenen van terugwerkende kracht een incidenteel fiscaal voordeel wordt behaald;   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ………… Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen. 
 
-### Bijlage  5  
+### Bijlage 5  
 
 #### *Ambtsbericht* 
 
@@ -603,7 +603,7 @@ B) Bevinden zich onder de uit te reiken aandelen andere dan ‘gewone’ aandele
 
 11. Heeft de overdracht (civielrechtelijke inbreng) al plaatsgevonden? Zo ja, wanneer?  
 
-12. Gegevens over al eerder afgegeven beschikkingen/uitspraken/beslissingen dan wel nog lopende verzoeken betreffende [artikel 14](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) / [14a](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) / [14b](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) / [14c](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) / [15 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) of [artikel 3.65 van de Wet IB 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
+12. Gegevens over al eerder afgegeven beschikkingen/uitspraken/beslissingen dan wel nog lopende verzoeken betreffende [artikel 14](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)/[14a](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)/[14b](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)/[14c](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)/[15 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) of [artikel 3.65 van de Wet IB 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).  
 
 13. 
 
@@ -611,17 +611,17 @@ A) Is de termijn voor het geven van een beschikking ingevolge [artikel 4:15 van 
 
 B) Is een mededeling als bedoeld in [artikel 4:14 van de Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gedaan? Zo ja, welke nadere termijn is daarbij aangegeven?    
 
-14. Reden(en) waarom het verzoek niet op grond van de algemene toestemming op het kantoor kan worden afgedaan en andere bij de beoordeling van het verzoek mogelijk van belang zijnde punten.    
+14. Reden(en) waarom het verzoek niet op grond van de algemene toestemming op het kantoor kan worden afgedaan en andere bij de beoordeling van het verzoek mogelijk van belang zijnde punten.   
 
-### Bijlage  6  
+### Bijlage 6  
 
 #### *Inwilliging verzoek om voorwaartse verliesverrekening bij einde belastingplicht overdrager* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -642,17 +642,17 @@ Onderwerp: Vennootschapsbelasting. Bedrijfsfusie. Voorwaartse verliesverrekening
 
 3. Deze goedkeuring geldt slechts in het geval dat de overdracht van de onderneming plaatsvindt met toepassing van [artikel 14 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).  
 
-4. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur …………  
+4. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ………… 
 
-### Bijlage  7  
+### Bijlage 7  
 
 #### *Inwilliging verzoek om achterwaartse verliesverrekening bij einde belastingplicht overdrager* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -667,23 +667,23 @@ Onderwerp: Vennootschapsbelasting. Bedrijfsfusie. Achterwaartse verliesverrekeni
 
 2b. Indien de winst van de overnemer negatief is, wordt het aldus uit bovenstaande winstsplitsing eventueel voortvloeiende positieve deel, voor zover mogelijk, in mindering gebracht op het negatieve deel.  
 
-2c. De voor het overgangstijdstip behaalde winsten van de overdrager worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van het verlies van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overdrager gedreven onderneming, behalve voor zover de verrekening van deze verliezen uit anderen hoofde is beperkt. Deze verrekening is echter uitgesloten indien dat verlies al is verrekend met winsten van de overnemer.  
+2c. De voor het overgangstijdstip behaalde winsten van de overdrager worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van het verlies van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overdrager gedreven onderneming, behalve voor zover de verrekening van deze verliezen uit anderen hoofde is beperkt.  Deze verrekening is echter uitgesloten indien dat verlies al is verrekend met winsten van de overnemer.  
 
 2d. Indien verrekening van verlies heeft plaatsgevonden overeenkomstig voorwaarde 2c. vervalt de mogelijkheid dat verlies te verrekenen met winsten van de overnemer.    
 
 3. Deze goedkeuring geldt slechts in het geval dat de overdracht van de onderneming heeft plaatsgevonden met toepassing van [artikel 14 van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).  
 
-4. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur …………  
+4. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ………… 
 
-### Bijlage  8  
+### Bijlage 8  
 
 #### *Goedkeuring te laat ingediend verzoek om toepassing artikel 14, tweede lid, van de Wet op de vennootschapsbelasting 1969* 
 
 | --- | --- |
 |:---|:---|
 | Belastingdienst/<Regio>/<kantoor>  | --- |
-| Uw brief van:  | Datum:  |
-| Uw kenmerk:  | Ons kenmerk:  |
+| Uw brief van:   | Datum:  |
+| Uw kenmerk:   | Ons kenmerk:  |
 | <naam geadresseerde>  | --- |
 | <adres>  | --- |
 | <postcode + plaats>  | --- |
@@ -692,11 +692,11 @@ Onderwerp: Vennootschapsbelasting. Bedrijfsfusie. Goedkeuring te laat ingediend 
 
 #### *In de plaats treding* 
 
-1. De overnemer treedt met betrekking tot al hetgeen in het kader van de overdracht is verkregen in de plaats van de overnemer, voor zover hiervan niet bij een hierna gestelde voorwaarde wordt afgeweken.    
+1. De overnemer treedt met betrekking tot al hetgeen in het kader van de overdracht is verkregen in de plaats van de overnemer, voor zover hiervan niet bij een hierna gestelde voorwaarde wordt afgeweken.   
 
 #### *Onderlinge vorderingen en schulden* 
 
-2. Vorderingen van de overnemer op de overdrager dan wel vorderingen van de overdrager op de overnemer, die als gevolg van de bedrijfsfusie door schuldvermenging tenietgaan, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op de bedrijfswaarde, doch niet hoger dan de nominale waarde. Schulden welke staan tegenover de in de vorige volzin bedoelde vorderingen, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op het bedrag waarvoor die vorderingen zijn gewaardeerd.    
+2. Vorderingen van de overnemer op de overdrager dan wel vorderingen van de overdrager op de overnemer, die als gevolg van de bedrijfsfusie door schuldvermenging tenietgaan, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op de bedrijfswaarde, doch niet hoger dan de nominale waarde. Schulden welke staan tegenover de in de vorige volzin bedoelde vorderingen, worden onmiddellijk voorafgaand aan het overgangstijdstip gewaardeerd op het bedrag waarvoor die vorderingen zijn gewaardeerd.   
 
 #### *Verrekening van verliezen, buitenlandse resultaten, bronbelasting en deelnemingsverrekening* 
 
@@ -704,23 +704,23 @@ Onderwerp: Vennootschapsbelasting. Bedrijfsfusie. Goedkeuring te laat ingediend 
 
 #### *Winstsplitsing* 
 
-3a. De winst van de overnemer wordt elk jaar gesplitst in een deel dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming en een deel dat betrekking heeft op de door de overdrager overgedragen onderneming (hierna: winstsplitsing). Deze winstsplitsing vindt plaats alsof de bedrijfsfusie niet heeft plaatsgevonden, waarbij slechts winst aan de onderneming van de overdrager of de overnemer kan worden toegerekend voor zover deze als zodanig bij de overnemer tot uitdrukking komt.    
+3a. De winst van de overnemer wordt elk jaar gesplitst in een deel dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming en een deel dat betrekking heeft op de door de overdrager overgedragen onderneming (hierna: winstsplitsing). Deze winstsplitsing vindt plaats alsof de bedrijfsfusie niet heeft plaatsgevonden, waarbij slechts winst aan de onderneming van de overdrager of de overnemer kan worden toegerekend voor zover deze als zodanig bij de overnemer tot uitdrukking komt.   
 
 #### *Horizontale verrekening van verliezen* 
 
-3b. Indien de winst van de overnemer positief is, wordt het uit bovenstaande winstsplitsing eventueel voortvloeiende negatieve deel, voor zoveel mogelijk, in mindering gebracht op het positieve deel.    
+3b. Indien de winst van de overnemer positief is, wordt het uit bovenstaande winstsplitsing eventueel voortvloeiende negatieve deel, voor zoveel mogelijk, in mindering gebracht op het positieve deel.   
 
 #### *Aanspraak op verliezen* 
 
-3c. Voor zover de nog te verrekenen verliezen van de overnemer reeds vóór het overgangstijdstip bij de overdrager tot uitdrukking zijn gekomen, worden deze verliezen niet verrekend met de winst van de overnemer.    
+3c. Voor zover de nog te verrekenen verliezen van de overnemer reeds vóór het overgangstijdstip bij de overdrager tot uitdrukking zijn gekomen, worden deze verliezen niet verrekend met de winst van de overnemer.   
 
 #### *Verticale verrekening van verliezen* 
 
-3d. De vóór het overgangstijdstip geleden verliezen van de overnemer worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van de winst van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming, behalve voor zover de verrekening van deze verliezen op grond van andere regelingen is beperkt.    
+3d. De vóór het overgangstijdstip geleden verliezen van de overnemer worden slechts verrekend met het overeenkomstig de voorwaarden 2a. en 2b. bepaalde deel van de winst van de overnemer dat betrekking heeft op de vóór het overgangstijdstip door de overnemer gedreven onderneming, behalve voor zover de verrekening van deze verliezen op grond van andere regelingen is beperkt.   
 
 #### *Stallingsregeling en bronbelasting* 
 
-3e. De overbrenging van buitenlandse winsten en verliezen van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting vindt uitsluitend plaats voor zover van de positieve binnenlandse winst respectievelijke de positieve buitenlandse winst van de overnemer een overeenkomstig de voorwaarden 2a. en 2b. bepaald deel betrekking heeft op de onderneming van de desbetreffende rechtspersoon. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar volgende jaren. Bij deze overbrenging vindt de vorige volzin dienovereenkomstig toepassing. De overbrenging van bronbelasting van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting wordt bij de overnemer in aanmerking genomen tot ten hoogste het bedrag dat tot de belasting welke door de overnemer zou zijn verschuldigd zonder deze overbrenging in dezelfde verhouding staat als het bedrag van de dividenden, interest en royalty’s verminderd met de daarop rechtstreeks drukkende kosten, die deel uitmaken van de overeenkomstig de onderdelen a. en b. berekende winst van de onderneming van de rechtspersoon van wie de bronbelasting afkomstig is, staat tot de winst verminderd met de op de voet van [hoofdstuk IV van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te verrekenen verliezen, voor zover deze bestaan uit negatieve winst van de overnemer. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.    
+3e. De overbrenging van buitenlandse winsten en verliezen van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting vindt uitsluitend plaats voor zover van de positieve binnenlandse winst respectievelijke de positieve buitenlandse winst van de overnemer een overeenkomstig de voorwaarden 2a. en 2b. bepaald deel betrekking heeft op de onderneming van de desbetreffende rechtspersoon. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar volgende jaren. Bij deze overbrenging vindt de vorige volzin dienovereenkomstig toepassing. De overbrenging van bronbelasting van de overdrager respectievelijk de overnemer uit het jaar voorafgaande aan het overgangstijdstip ingevolge voorschriften ter voorkoming van dubbele belasting wordt bij de overnemer in aanmerking genomen tot ten hoogste het bedrag dat tot de belasting welke door de overnemer zou zijn verschuldigd zonder deze overbrenging in dezelfde verhouding staat als het bedrag van de dividenden, interest en royalty’s verminderd met de daarop rechtstreeks drukkende kosten, die deel uitmaken van de overeenkomstig de onderdelen a. en b. berekende winst van de onderneming van de rechtspersoon van wie de bronbelasting afkomstig is, staat tot de winst verminderd met de op de voet van [hoofdstuk IV van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te verrekenen verliezen, voor zover deze bestaan uit negatieve winst van de overnemer. Op grond van de vorige volzin niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.   
 
 #### *Deelnemingsverrekening* 
 
@@ -730,38 +730,38 @@ a. het bedrag van de gezamenlijk gebruteerde voordelen;
 
 b. het bedrag van de bij de winstbepaling van het jaar in aftrek gekomen kosten ter zake van de laagbelaste beleggingsdeelnemingen;  
 
-c. en het belastbare bedrag.   Bij de in de vorige volzin bedoelde toerekening vindt voorwaarde 2a. overeenkomstige toepassing. Op grond van deze voorwaarde niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.    
+c. en het belastbare bedrag.   Bij de in de vorige volzin bedoelde toerekening vindt voorwaarde 2a. overeenkomstige toepassing. Op grond van deze voorwaarde niet overgebrachte bedragen worden overgebracht naar het volgende jaar. Bij deze overbrenging vindt de vorige volzin dienovereenkomstige toepassing.   
 
 #### *Aandelenbezit verdwijnt* 
 
-4. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager aandelen bezit in de overnemer en deze rechtspersoon de aandelen verkrijgt, worden deze aandelen op dat tijdstip gewaardeerd tegen de waarde in het economische verkeer en wordt het voordeel waarop de deelnemingsvrijstelling geen toepassing vindt tot de winst van de overdrager gerekend.    
+4. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager aandelen bezit in de overnemer en deze rechtspersoon de aandelen verkrijgt, worden deze aandelen op dat tijdstip gewaardeerd tegen de waarde in het economische verkeer en wordt het voordeel waarop de deelnemingsvrijstelling geen toepassing vindt tot de winst van de overdrager gerekend.   
 
 #### *Aandelenbezit is artikel 13c-deelneming, dan wel artikel 13ca-deelneming* 
 
-5. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager een deelneming als bedoeld in [artikel 13c, eerste en vierde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel in [artikel 13ca, eerste lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), heeft in een overnemer en deze rechtspersoon de aandelen verkrijgt, wordt op dat tijdstip geacht zich een omstandigheid voor te doen als aangeduid in [artikel 13c, tweede lid, eerste volzin van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel moet op dat tijdstip het in [artikel 13ca, vijfde lid, eerste volzin, (voorheen vierde lid, eerste volzin) van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) genoemde verschil tot de winst worden gerekend.    
+5. Indien onmiddellijk voorafgaand aan het overgangstijdstip de overdrager een deelneming als bedoeld in [artikel 13c, eerste en vierde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel in [artikel 13ca, eerste lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), heeft in een overnemer en deze rechtspersoon de aandelen verkrijgt, wordt op dat tijdstip geacht zich een omstandigheid voor te doen als aangeduid in [artikel 13c, tweede lid, eerste volzin van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), dan wel moet op dat tijdstip het in [artikel 13ca, vijfde lid, eerste volzin, (voorheen vierde lid, eerste volzin) van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) genoemde verschil tot de winst worden gerekend.   
 
 #### *Latent liquidatieverlies* 
 
-6. Indien tot de onderneming van de overnemer respectievelijk de naar de overnemer overgedragen onderneming een deelneming behoort waarop de deelnemingsvrijstelling van toepassing is en waarvan op het tijdstip waarop de voorovereenkomst of intentieverklaring is geregistreerd de onderneming geheel of nagenoeg geheel is gestaakt, dan wel daartoe besloten is, of indien op een dergelijke onderneming het bepaalde in [artikel 13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van toepassing is, komt, onverminderd het bepaalde in [artikelen 13d](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), een liquidatieverlies uit hoofde van die deelneming bij de bepaling van de winst van de overnemer slechts in aanmerking tot het bedrag van de (overige) winst dat met inachtneming van de in de tweede voorwaarde omschreven winstsplitsing aan de desbetreffende onderneming is toe te rekenen. Het resterende bedrag wordt als liquidatieverlies in mindering gebracht op en tot ten hoogste de positieve belastbare bedragen van de overnemer van het voorafgaande jaar en de negen volgende jaren, in de volgorde waarin deze zijn ontstaan, voor zover er winst met inachtneming van de winstsplitsing is toe te rekenen aan de desbetreffende onderneming. Hierbij geldt tevens dat voor zover het winst betreft afkomstig van de onderneming van de overdrager, niet verder wordt teruggegaan dan tot het overgangstijdstip. Voor zover een liquidatieverlies in een voorafgaand jaar op het belastbaar bedrag in mindering wordt gebracht, zal de aanslag over dat jaar worden herzien. Over het bedrag van de herziening wordt geen heffingsrente vergoed.    
+6. Indien tot de onderneming van de overnemer respectievelijk de naar de overnemer overgedragen onderneming een deelneming behoort waarop de deelnemingsvrijstelling van toepassing is en waarvan op het tijdstip waarop de voorovereenkomst of intentieverklaring is geregistreerd de onderneming geheel of nagenoeg geheel is gestaakt, dan wel daartoe besloten is, of indien op een dergelijke onderneming het bepaalde in [artikel 13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van toepassing is, komt, onverminderd het bepaalde in [artikelen 13d](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [13e van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), een liquidatieverlies uit hoofde van die deelneming bij de bepaling van de winst van de overnemer slechts in aanmerking tot het bedrag van de (overige) winst dat met inachtneming van de in de tweede voorwaarde omschreven winstsplitsing aan de desbetreffende onderneming is toe te rekenen. Het resterende bedrag wordt als liquidatieverlies in mindering gebracht op en tot ten hoogste de positieve belastbare bedragen van de overnemer van het voorafgaande jaar en de negen volgende jaren, in de volgorde waarin deze zijn ontstaan, voor zover er winst met inachtneming van de winstsplitsing is toe te rekenen aan de desbetreffende onderneming. Hierbij geldt tevens dat voor zover het winst betreft afkomstig van de onderneming van de overdrager, niet verder wordt teruggegaan dan tot het overgangstijdstip. Voor zover een liquidatieverlies in een voorafgaand jaar op het belastbaar bedrag in mindering wordt gebracht, zal de aanslag over dat jaar worden herzien. Over het bedrag van de herziening wordt geen heffingsrente vergoed.   
 
 #### *Deelnemingsvrijstelling na bedrijfsfusie* 
 
-7. Indien de overdrager aandelen bezit die geen deelneming of een laagbelaste beleggingsdeelneming vormen, welke geheel dan wel gedeeltelijk worden overgedragen, wordt de waarde waarvoor deze aandelen ten tijde van de bedrijfsfusie te boek zijn gesteld, voor een evenredig gedeelte toegerekend aan de aandelen die de overnemer direct na de bedrijfsfusie heeft. Indien de overdrager aandelen bezit die een deelneming vormen waarop de deelnemingsvrijstelling van toepassing is, welke geheel dan wel gedeeltelijk worden overgedragen, treedt de overnemer voor het geheel, en voor de toepassing van [artikel 13ca van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en de verdeling van het opgeofferde bedrag naar evenredigheid verdeeld over de overdrager en de overnemer, in de plaats van de overdrager, met uitzondering van het bepaalde in [artikel 13, tweede, derde en vijfde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), mits de aandelen tot het vermogen van haar in Nederland gedreven onderneming gaan behoren.    
+7. Indien de overdrager aandelen bezit die geen deelneming of een laagbelaste beleggingsdeelneming vormen, welke geheel dan wel gedeeltelijk worden overgedragen, wordt de waarde waarvoor deze aandelen ten tijde van de bedrijfsfusie te boek zijn gesteld, voor een evenredig gedeelte toegerekend aan de aandelen die de overnemer direct na de bedrijfsfusie heeft. Indien de overdrager aandelen bezit die een deelneming vormen waarop de deelnemingsvrijstelling van toepassing is, welke geheel dan wel gedeeltelijk worden overgedragen, treedt de overnemer voor het geheel, en voor de toepassing van [artikel 13ca van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en de verdeling van het opgeofferde bedrag naar evenredigheid verdeeld over de overdrager en de overnemer, in de plaats van de overdrager, met uitzondering van het bepaalde in [artikel 13, tweede, derde en vijfde lid, van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), mits de aandelen tot het vermogen van haar in Nederland gedreven onderneming gaan behoren.   
 
 #### *De overdrager is stichting of vereniging* 
 
-8. Ten laste van de winst van hetzij de overnemer of haar rechtsopvolger(s) onder algemene of bijzondere titel ter zake van (een deel van) de overgedragen onderneming, hetzij van een vennootschap die tot deze in een verhouding staat als omschreven in [artikel 8, achtste lid, onderdelen b en c van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), komen, zolang de overdrager of haar rechtsopvolger(s) onder algemene of bijzondere titel in het bezit is/zijn van aandelen in de overnemer of haar rechtsopvolger(s), geen betalingen die direct of indirect betrekking hebben op vermogensbestanddelen welke toebehoren aan de overdrager en/of haar rechtsopvolger(s), indien en voor zover de daartegenover staande ontvangsten bij de overdrager dan wel haar rechtsopvolger(s) niet aan de heffing van vennootschapsbelasting zijn onderworpen.    
+8. Ten laste van de winst van hetzij de overnemer of haar rechtsopvolger(s) onder algemene of bijzondere titel ter zake van (een deel van) de overgedragen onderneming, hetzij van een vennootschap die tot deze in een verhouding staat als omschreven in [artikel 8, achtste lid, onderdelen b en c van de Wet Vpb](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), komen, zolang de overdrager of haar rechtsopvolger(s) onder algemene of bijzondere titel in het bezit is/zijn van aandelen in de overnemer of haar rechtsopvolger(s), geen betalingen die direct of indirect betrekking hebben op vermogensbestanddelen welke toebehoren aan de overdrager en/of haar rechtsopvolger(s), indien en voor zover de daartegenover staande ontvangsten bij de overdrager dan wel haar rechtsopvolger(s) niet aan de heffing van vennootschapsbelasting zijn onderworpen.   
 
 #### *Overgedragen vermogensbestanddelen zijn na de overdracht niet meer aan de heffing van vennootschapsbelasting onderworpen* 
 
-9. Voor zover tot de overgedragen onderneming vermogensbestanddelen behoren die na de overdracht niet meer aan de Nederlandse heffing van vennootschapsbelasting zijn onderworpen, is de vrijstelling niet van toepassing op de overdrachtswinst die betrekking heeft op die vermogensbestanddelen.    
+9. Voor zover tot de overgedragen onderneming vermogensbestanddelen behoren die na de overdracht niet meer aan de Nederlandse heffing van vennootschapsbelasting zijn onderworpen, is de vrijstelling niet van toepassing op de overdrachtswinst die betrekking heeft op die vermogensbestanddelen.   
 
 #### *Overgangstijdstip* 
 
-10. Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden.    
+10. Het overgangstijdstip stel ik vast op <datum>, mits – ingeval van overdracht aan een daartoe op te richten lichaam – de oprichting en overdracht binnen 15 maanden na het overgangstijdstip plaatsvinden.   
 
 #### *Aanvaardingsvoorwaarde* 
 
-11. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.    
-Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur …………  
+11. De overdrager en de overnemer verklaren binnen twee maanden na dagtekening van de goedkeuring schriftelijk aan de bevoegde inspecteur dat zij instemmen met deze goedkeuring en de daarbij gestelde voorwaarden.   
+Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ………… 
 

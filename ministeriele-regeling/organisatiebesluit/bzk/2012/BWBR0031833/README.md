@@ -3,7 +3,7 @@
 ##Organisatiebesluit BZK 2012
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Immigratie, Integratie en Asiel,  
-Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;
+Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
 Besluit vast te stellen het navolgende Organisatiebesluit:     
 ### Hoofdstuk  1  
 
@@ -17,7 +17,7 @@ a. *Ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
 b. *bewindspersonen:* Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst;  
 
-c. *capaciteitsplan:* schriftelijk stuk waarin de uitwerking van de flexibele organisatiestructuur van een dienstonderdeel wordt vastgelegd evenals de verdeling van de formatie binnen deze structuur.    
+c. *capaciteitsplan:* schriftelijk stuk waarin de uitwerking van de flexibele organisatiestructuur van een dienstonderdeel wordt vastgelegd evenals de verdeling van de formatie binnen deze structuur.   
 
 ### Hoofdstuk  2  
 
@@ -43,16 +43,16 @@ g. de Dienst Concernstaf en Bedrijfsvoering (DCB);
 
 h. de baten-lastendienst Dienst van de Huurcommissie (DHC);  
 
-i. het Rijksvastgoedbedrijf i.o..     
+i. het Rijksvastgoedbedrijf i.o..    
 2.  De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in artikel 16, tweede lid.   
 3.  Het onder lid 1 sub a genoemde onderdeel ressorteert onder de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 4.  De in het eerste lid onder b, c, f en i genoemde dienstonderdelen ressorteren wat betreft beleid en uitvoering onder de Minister voor Wonen en Rijksdienst.   
-5.  De overige in het eerste lid genoemde dienstonderdelen ressorteren onder de Algemene Leiding van het Ministerie, met uitzondering van de DHC die ressorteert onder het bestuur van de Huurcommissie.   
+5.  De overige in het eerste lid genoemde dienstonderdelen ressorteren onder de Algemene Leiding van het Ministerie, met uitzondering van de DHC die ressorteert onder het bestuur van de Huurcommissie.  
 
 ### Artikel  3  
 
 1.  Er is een Bestuursraad Binnenlandse Zaken en Koninkrijksrelaties (BR).   
-2.  De Bestuursraad is samengesteld uit de Secretaris-generaal, de directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen en Bouwen, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur Dienst Concernstaf en Bedrijfsvoering. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers of, in uitzonderlijke gevallen, door een andere rechtstreeks onder hen ressorterende functionaris. De directeur Financieel-economische Zaken heeft een permanente uitnodiging tot het als adviseur bijwonen van de Bestuursraad.   
+2.  De Bestuursraad is samengesteld uit de Secretaris-generaal, de directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen en Bouwen het Rijksvastgoedbedrijf i.o., het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur Dienst Concernstaf en Bedrijfsvoering. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers of, in uitzonderlijke gevallen, door een andere rechtstreeks onder hen ressorterende functionaris. De directeur Financieel-economische Zaken heeft een permanente uitnodiging tot het als adviseur bijwonen van de Bestuursraad.   
 3.  Het overleg in de Bestuursraad heeft, onverminderd het bepaalde in de departementale mandaat- en volmachtbesluiten over de bevoegdheden van de afzonderlijke leden van de Bestuursraad ten aanzien van de onderwerpen die in het overleg aan de orde komen, ten doel het bespreken van respectievelijk het bereiken van overeenstemming over de departementale beleids- en beheerskaders en het toezien op de uitvoering van deze kaders.   
 4.  Daarnaast heeft de Bestuursraad ten doel het bespreken respectievelijk het bereiken van overeenstemming over aspecten van het departementale personeelsbeleid en personele aangelegenheden alsmede het toezien op de uitvoering hiervan. In het overleg komen in ieder geval de volgende aangelegenheden aan de orde: 
 
@@ -62,10 +62,10 @@ b. de beleidsontwikkeling van management-development bij het Ministerie;
 
 c. de benoeming van kandidaten bij BZK in vacatures opengesteld door de Algemene Bestuursdienst;  
 
-d. de werkzaamheden van de Bestuursraad met betrekking tot de personeelsschouw, zoals aangegeven in het departementale beleid terzake.     
+d. de werkzaamheden van de Bestuursraad met betrekking tot de personeelsschouw, zoals aangegeven in het departementale beleid terzake.    
 5.  Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of uit de wet voortvloeit.   
 6.  De directeur Bestuursondersteuning voert het secretariaat van de Bestuursraad.   
-7.  De Bestuursraad regelt de eigen werkwijze.   
+7.  De Bestuursraad regelt de eigen werkwijze.  
 
 ### Artikel  5  
 
@@ -95,7 +95,7 @@ e. de uitkomsten van de bedrijfsvoeringonderzoeken en de verwerking ervan.
 
 8. De directie Financieel-economische Zaken voert het secretariaat van het Audit Comité.  
 
-9. Het Audit Comité regelt de eigen werkwijze.    
+9. Het Audit Comité regelt de eigen werkwijze.  
 
 ### Hoofdstuk  3  
 
@@ -122,7 +122,7 @@ e. het voorzitterschap van de Bestuursraad en het Audit Comité;
 
 f. het zorgdragen voor het nemen van besluiten over - en het geven van algemene aanwijzingen ten aanzien van het algemene beleid en beheer inzake de bedrijfsvoering en de formatie van het Ministerie;  
 
-g. het voeren van overleg met de Groepsondernemingsraad (als bestuurder in de zin van de WOR) en de centrales van verenigingen van ambtenaren, bedoeld in artikel 113 van het Algemeen Rijksambtenarenreglement;  
+g. het voeren van overleg met de Groepsondernemingsraad (als bestuurder in de zin van de [WOR](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)) en de centrales van verenigingen van ambtenaren, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 h. het optreden als gemachtigd ambtenaar in de zin van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken;  
 
@@ -131,7 +131,7 @@ i. het plegen van inhoudelijke afstemming met het gemeenschappelijke secretariaa
 j. het toezicht op het beheer van de Kiesraad (KR) en toezicht op het Bureau Architectenregister;  
 
 k. het beheersmatig aansturen van de kabinetten van de Gouverneurs, de Vertegenwoordigingen, de Rijksdienst Caribisch Nederland en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.     
-3.  De in dit artikel, tweede lid onder onderdeel i genoemde organisatieonderdelen, vallen onder beheersmatige leiding van de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering.   
+3.  De in dit artikel, tweede lid onder onderdeel i genoemde organisatieonderdelen, vallen onder beheersmatige leiding van de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering.  
 
 ### Paragraaf  3.2  
 
@@ -159,17 +159,17 @@ d. de directie Informatiseringsbeleid Rijk (IR);
 
 e. de programmadirectie Opdrachtgeverschap Rijkskantoren (POR);  
 
-f. de Shared Services Organisatie ICT (SSO-ICT);  
+f. het Shared Service Centrum ICT Haaglanden (SSC-ICT Haaglanden);  
 
 g. de baten-lastendienst P-Direkt;  
 
-h. de baten-lastendienst de Werkmaatschappij (DWM);  
+h. de baten-lastendienst Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR);  
 
 i. de baten-lastendienst Doc-Direkt (D-Direkt);  
 
 j. de baten-lastendienst Logius;  
 
-k. de baten-lastendienst FM-Haaglanden (FMH);     
+k. de baten-lastendienst FM-Haaglanden (FMH);    
 
 ### Paragraaf  3.3  
 
@@ -196,7 +196,7 @@ g. het zorgdragen voor goede relaties met - en coördinatie van de samenwerking 
 
 h. het verlenen van brede (bedrijfsvoerings)dienstverlening en/of -capaciteit aan (het primaire proces) van de departementale units alsmede politie en brandweer in Caribisch Nederland;  
 
-i. het ter beschikking stellen van mensen en middelen aan de Hoge Raad van Adel en het College Financieel Toezicht.     
+i. het ter beschikking stellen van mensen en middelen aan de Hoge Raad van Adel en het College Financieel Toezicht Curaçao en Sint Maarten onderscheidenlijk het College Financieel Toezicht Bonaire, Sint Eustatius en Saba.     
 3.  Het directoraat-generaal bestaat uit de volgende organisatieonderdelen: 
 
 a. het bureau Directeur-generaal Bestuur en Koninkrijksrelaties (BDGBK);  
@@ -213,8 +213,10 @@ f. de directie Koninkrijksrelaties (KR);
 
 g. de Rijksdienst Caribisch Nederland (RCN);  
 
-h. de baten-lastendienst Basisadministratie, Persoonsgegevens en Reisdocumenten (BPR).     
-4.  De directie Koninkrijksrelaties wordt beleidsinhoudelijk en beheersmatig aangestuurd door de Secretaris-generaal.   
+h. de baten-lastendienst Basisadministratie, Persoonsgegevens en Reisdocumenten (BPR);  
+
+i. het secretariaat van het College Financieel Toezicht Curaçao en Sint Maarten onderscheidenlijk het College Financieel Toezicht Bonaire, Sint Eustatius en Saba.   
+4.  De directie Koninkrijksrelaties wordt beleidsinhoudelijk en beheersmatig aangestuurd door de Secretaris-generaal. 
 
 ### Paragraaf  3.4  
 
@@ -248,7 +250,7 @@ c. de directie Woningmarkt (Wm);
 
 d. de directie Kennis en Verkenningen (K&V);  
 
-e. de directie Woon- en Leefomgeving (W&L).     
+e. de directie Woon- en Leefomgeving (W&L).    
 
 ### Paragraaf  3.5  
 
@@ -256,7 +258,7 @@ e. de directie Woon- en Leefomgeving (W&L).
 
 ### Artikel  10  
 
-1.  Het Rijksvastgoedbedrijf in oprichting staat onder leiding van een Chief Executive Officer/directeur-generaal a.i..   
+1.  Het Rijksvastgoedbedrijf in oprichting staat onder leiding van een directeur-generaal.   
 2.  Het Rijksvastgoedbedrijf in oprichting draagt zorg voor het efficiënt beheren, onderhouden en gebruiken van Rijksvastgoed.   
 3.  Het Rijksvastgoedbedrijf in oprichting bestaat uit de volgende organisatieonderdelen: 
 
@@ -264,13 +266,13 @@ a. het Rijksvastgoed- en Ontwikkelingsbedrijf (RVOB);
 
 b. de directie Rijksvastgoed;  
 
-c. de Rijksgebouwendienst.     
+c. de Rijksgebouwendienst.    
 
 ### Paragraaf  3.6  
 
 ####Rijksgebouwendienst
 
-Vervallen per 06-11-2013   
+Vervallen per 06-11-2013 
 
 ### Paragraaf  3.7  
 
@@ -278,9 +280,9 @@ Vervallen per 06-11-2013
 
 ### Artikel  12  
 
-1.  De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de Uitvoeringswet huurprijzen woonruimte.   
-2.  De Dienst van de Huurcommissie heeft de taken bedoeld in de artikelen 4 en 5 van de Uitvoeringswet huurprijzen woonruimte.   
-3.  De Dienst van de Huurcommissie is als baten-lastendienst in beheersmatige zin ondergebracht bij het directoraat-generaal Wonen, Bouwen en Integratie.   
+1.  De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de [Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
+2.  De Dienst van de Huurcommissie heeft de taken bedoeld in de [artikelen 4](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [5 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
+3.  De Dienst van de Huurcommissie is als baten-lastendienst in beheersmatige zin ondergebracht bij het directoraat-generaal Wonen en Bouwen.  
 
 ### Paragraaf  3.8  
 
@@ -289,7 +291,7 @@ Vervallen per 06-11-2013
 ### Artikel  13  
 
 1.  De Algemene Inlichtingen- en Veiligheidsdienst staat onder leiding van een hoofd en een plaatsvervangend hoofd.   
-2.  De Algemene Inlichtingen- en Veiligheidsdienst heeft de taken, bedoeld in artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
+2.  De Algemene Inlichtingen- en Veiligheidsdienst heeft de taken, bedoeld in [artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
 3.  De Algemene Inlichtingen- en Veiligheidsdienst bestaat uit de volgende organisatieonderdelen: 
 
 a. de Eenheid Strategie en Beleid (S&B);  
@@ -312,7 +314,7 @@ i. de Eenheid Trendanalyse & Fenomeenonderzoek (Terra);
 
 j. de Eenheid Operationele Expertise & Ondersteuning (OPEX);  
 
-k. de Eenheid Informatie Management (IM).     
+k. de Eenheid Informatie Management (IM).    
 
 ### Paragraaf  3.9  
 
@@ -348,7 +350,7 @@ d. afdeling Advies en Interim Management;
 
 e. afdeling MD Politie;  
 
-f. ABD Topconsult.     
+f. ABD Topconsult.    
 
 ### Paragraaf  3.10  
 
@@ -381,14 +383,14 @@ i. de directie Communicatie (C);
 j. de directie Personeel en Organisatie (PO);  
 
 k. het gemeenschappelijk secretariaat van de Raad voor het openbaar bestuur (Rob) en de Raad voor de financiële verhoudingen (Rfv)     
-4.  De hoofddirecteur Dienst Concernstaf en Bedrijfsvoering bekleedt de functie van coördinerend directeur Inkoop (CDI). Deze is verantwoordelijk voor: 
+4.  De directeur Financieel-economische Zaken bekleedt de functie van coördinerend directeur Inkoop (CDI). Deze is verantwoordelijk voor: 
 
 a. het stellen van kaders voor het inkoopbeleid van het ministerie;  
 
 b. de coördinatie van de inkoopfunctie en het contractbeheer van het ministerie;  
 
 c. de centrale ondersteuning en advisering bij inkoopvraagstukken.     
-5.  De hoofddirecteur Dienst Concernstaf en Bedrijfsvoering bekleedt de functie van departementale Chief Information Officer (CIO). Deze is verantwoordelijk voor: 
+5.  De directeur Bestuursondersteuning bekleedt de functie van departementale Chief Information Officer (CIO). Deze is verantwoordelijk voor: 
 
 a. het opstellen en coördineren van de departementale strategie en visie op de informatievoorziening voor bedrijfsvoering en beleid;  
 
@@ -396,7 +398,7 @@ b. het adviseren over risicobeheersing op het gebied van ICT en bij projecten of
 
 c. het toezicht houden op en handhaven van de kaderstelling op de informatievoorziening en ICT binnen bedrijfsvoering en beleid;  
 
-d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.     
+d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.    
 
 ### Hoofdstuk  4  
 
@@ -408,9 +410,9 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 ### Artikel  16  
 
-1.  De Minister stelt de inrichting van de organisatie vast conform het bepaalde in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011.   
-2.  De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de onder het directoraat-generaal Organisatie en Bedrijfsvoering Rijk, het directoraat-generaal Bestuur en Koninkrijksrelaties, het directoraat-generaal Wonen en Bouwen, het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, het Bureau Algemene Bestuursdienst en de Dienst Concernstaf en Bedrijfsvoering ressorterende organisatieonderdelen, na advisering door de directeur Personeel en Organisatie. De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de Algemene Inlichtingen- en Veiligheidsdienst op voordracht van het hoofd van die dienst en na advisering van de directeur Personeel en Organisatie.   
-3.  De directeuren-generaal Organisatie en Bedrijfsvoering Rijk, Bestuur en Koninkrijksrelaties, Algemene Bestuursdienst, Wonen en Bouwen alsmede de Chief Executive Officer/directeur-generaal a.i. van het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, stellen met inachtneming van dit besluit ten behoeve van hun dienst- of organisatieonderdelen een capaciteitsplan vast.   
+1.  De Minister stelt de inrichting van de organisatie vast conform het bepaalde in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md).  
+2.  De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de onder de directoraten-generaal, het Bureau Algemene Bestuursdienst en de Dienst Concernstaf en Bedrijfsvoering ressorterende organisatieonderdelen, na advisering door de directeur Personeel en Organisatie. De Secretaris-generaal is bevoegd tot het nader vaststellen van de inrichting van de Algemene Inlichtingen- en Veiligheidsdienst op voordracht van het hoofd van die dienst en na advisering van de directeur Personeel en Organisatie. 
+3.  De directeuren-generaal stellen met inachtneming van dit besluit ten behoeve van hun dienst- of organisatieonderdelen een capaciteitsplan vast. 
 
 ### Paragraaf  4.2  
 
@@ -418,8 +420,8 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 ### Artikel  17  
 
-1.  Tot de taak van de directoraten-generaal, het Rijksvastgoedbedrijf i.o., het Rijksvastgoed- en Ontwikkelingsbedrijf, de directie Rijksvastgoed, de Algemene Inlichtingen- en Veiligheidsdienst, het bureau Algemene Bestuursdienst en de dienst Concernstaf en Bedrijfsvoering, behoort voorts de uitvoering van andere taken dan hiervoor genoemd, in opdracht van een bewindspersoon of de Secretaris-generaal, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
-2.  Tot de taak van de in dit besluit genoemde organisatieonderdelen, ressorterend onder de dienstonderdelen genoemd in het eerste lid, behoort voorts de uitvoering van andere taken dan vermeld, in opdracht van de bewindspersonen, de Secretaris-generaal of het diensthoofd, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
+1.  Tot de taak van de directoraten-generaal, het Rijksvastgoedbedrijf i.o., de Algemene Inlichtingen- en Veiligheidsdienst, het bureau Algemene Bestuursdienst en de dienst Concernstaf en Bedrijfsvoering, behoort voorts de uitvoering van andere taken dan hiervoor genoemd, in opdracht van een bewindspersoon of de Secretaris-generaal, voor zover hogere wet- en regelgeving zich daartegen niet verzet.   
+2.  Tot de taak van de in dit besluit genoemde organisatieonderdelen, ressorterend onder de dienstonderdelen genoemd in het eerste lid, behoort voorts de uitvoering van andere taken dan vermeld, in opdracht van de bewindspersonen, de Secretaris-generaal of het diensthoofd, voor zover hogere wet- en regelgeving zich daartegen niet verzet.  
 
 ### Paragraaf  4.3  
 
@@ -429,11 +431,11 @@ d. het volgen en vertalen van ICT-ontwikkelingen voor BZK.
 
 1.  De directeur Personeel en Organisatie is belast met het beheer van dit besluit.   
 2.  De Secretaris-generaal, de directeurengeneraal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur van de dienst Concernstaf en Bedrijfsvoering, ieder voor zover het hen aangaat, zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directeur Personeel en Organisatie van de gegevens die een goed beheer van dit besluit mogelijk maken.   
-3.  Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.   
+3.  Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.  
 
 ### Artikel  19  
 
-Wijziging van dit besluit is voorbehouden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Wonen en Rijksdienst, en geschiedt op voordracht van de directeur Personeel en Organisatie.  
+Wijziging van dit besluit is voorbehouden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister voor Wonen en Rijksdienst, en geschiedt op voordracht van de directeur Personeel en Organisatie. 
 
 ### Paragraaf  4.4  
 
@@ -441,17 +443,17 @@ Wijziging van dit besluit is voorbehouden aan de Minister van Binnenlandse Zaken
 
 ### Artikel  20  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 oktober 2010.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 oktober 2010. 
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als: Organisatiebesluit BZK 2012.  
+Dit besluit wordt aangehaald als: Organisatiebesluit BZK 2012. 
 
 ### Artikel  22  
 
-Het Organisatiebesluit BZK 2009 wordt ingetrokken.  
+Het [Organisatiebesluit BZK 2009](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2009/BWBR0027412/README.md) wordt ingetrokken. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.W.E.Spies   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.W.E. Spies     

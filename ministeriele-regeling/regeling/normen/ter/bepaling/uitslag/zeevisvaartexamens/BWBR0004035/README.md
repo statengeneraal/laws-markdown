@@ -9,32 +9,32 @@ Besluit:
 ### Artikel  1  
 
 1.  Ter bepaling van de uitslag van de examens, genoemd in het [Examenreglement zeevisvaart](../../../../../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md), worden de normen toegepast zoals die zijn vermeld in de bij deze regeling behorende bijlage.   
-2.  Een kandidaat is geslaagd indien hij voor alle vakken van het examen dan wel een deel daarvan, ten minste een zes heeft behaald, behoudens de toegestane vijven, vermeld in de voorlaatste horizontale kolom van de bijlage.   
+2.  Een kandidaat is geslaagd indien hij voor alle vakken van het examen dan wel een deel daarvan, ten minste een zes heeft behaald, behoudens de toegestane vijven, vermeld in de voorlaatste horizontale kolom van de bijlage.  
 
 ### Artikel  2  
 
-In deze regeling wordt verstaan onder ‘vakken’: de genummerde onderdelen van het betreffende examenprogramma, zoals die zijn vermeld in de [bijlage bij het Examenreglement zeevisvaart](../../../../../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md).  
+In deze regeling wordt verstaan onder ‘vakken’: de genummerde onderdelen van het betreffende examenprogramma, zoals die zijn vermeld in de [bijlage bij het Examenreglement zeevisvaart](../../../../../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md). 
 
 ### Artikel  3  
 
-De regeling treedt in werking met ingang van de tweede dag na verschijning van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 1982.  
+De regeling treedt in werking met ingang van de tweede dag na verschijning van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 1982. 
 
 ### Artikel  4  
 
-De regeling kan worden aangehaald als ‘Regeling normen ter bepaling uitslag zeevisvaartexamens’. Deze regeling zal met de bijlage worden geplaatst in de Nederlandse Staatscourant.  
+De regeling kan worden aangehaald als ‘Regeling normen ter bepaling uitslag zeevisvaartexamens’. Deze regeling zal met de bijlage worden geplaatst in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 29 september 1986    
 
 De 
 minister voornoemd, 
-N.Smit-Kroes   
+N. Smit-Kroes     
 
 ### Bijlage  
 
 ####Schema examenvakken en normen voor de zeevisvaartexamens
 
-|  *Examen voor de verklaring*   |  *S VII*   |  *SW VI-A*   |  *SW VI-B*   |  *SW VI-V*   |  *SW V-A*   |  *SW V-B*   |  *SW V-V*   | Benaming der vakken  | Nummering der vakken van de examenprogramma's  |
+| *Examen voor de verklaring*  | *S VII*  | *SW VI-A*  | *SW VI-B*  | *SW VI-V*  | *SW V-A*  | *SW V-B*  | *SW V-V*  | Benaming der vakken  | Nummering der vakken van de examenprogramma's  |
 |---|---|---|---|---|---|---|---|---|---|
 | Nederlands  | –  | 1  | –  | 1  | –  | –  | –  |
 | Engels  | –  | –  | –  | –  | 1  | –  | 1  |
@@ -44,7 +44,7 @@ N.Smit-Kroes
 | Instrumenten  | –  | –  | *12  | *12  | –  | *8  | *8  |
 | Meteorologie  | –  | --- | –  | –  | –  | *9  | *9  |
 | Cijferen  | –  | –  | –  | –  | –  | *10  | *10  |
-| Scheepsbouw, tuig en uitrusting  | –  | –  | *13  | *13  | –  | *11  | *11  |
+| Scheepsbouw, tuig en uitrusting   | –  | –  | *13  | *13  | –  | *11  | *11  |
 | Stabiliteit  | –  | –  | *14  | *14  | –  | *12  | *12  |
 | Manoeuvreren  | –  | –  | *15  | *15  | –  | *13  | *13  |
 | Praktische navigatie  | –  | –  | *16  | *16  | –  | *14  | *14  |
@@ -67,7 +67,7 @@ N.Smit-Kroes
 | Aantal toegestane vijven in de vakken zonder*  | –  | 3  | –  | 3  | 1  | –  | 1  |
 | Aantal vakken waarvoor een herexamen kan worden toegestaan  | –  | 2  | 2  | 4  | 1  | 3  | 4  |
 
-|  *Examen voor de verklaring*   |  *S IV-v-A*   |  *S IV-v-B*   |  *S IV-v-V*   |  *W IV-v-A*   |  *W IV-v-B*   |  *W IV-v-V*   | Benaming der vakken  | Nummering der vakken van de examenprogramma's  |
+| *Examen voor de verklaring*  | *S IV-v-A*  | *S IV-v-B*  | *S IV-v-V*  | *W IV-v-A*  | *W IV-v-B*  | *W IV-v-V*  | Benaming der vakken  | Nummering der vakken van de examenprogramma's  |
 |---|---|---|---|---|---|---|---|---|
 | Nederlands  | 1  | –  | 1  | 1  | –  | –  |
 | Engels  | 2  | –  | *2  | *2  | –  | *2  |
@@ -100,7 +100,7 @@ N.Smit-Kroes
 | Aantal toegestane vijven in de vakken zonder*  | 1  | –  | 1  | 2  | –  | 2  |
 | Aantal vakken waarvoor een herexamen kan worden toegestaan  | 2  | 2  | 4  | 1  | 2  | 3  |
 
-|  *Verklaring der afkortingen*   |
+| *Verklaring der afkortingen*  |
 |---|
 | S VII  | – Verklaring bekendheid met de bepalingen ter voorkoming van aanvaringen op zee S VII  |
 | SW VI  | – Verklaring voor de zeevisvaart SW VI  |
