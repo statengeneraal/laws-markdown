@@ -18,19 +18,19 @@ c. de afdelingsmanager Planning, Financiën en Control (PFC);
 
 d. de afdelingsmanager Informatievoorziening (IV);  
 
-e. de afdelingsmanager Facilitaire Zaken (FacZ).    
+e. de afdelingsmanager Stafbureau.   
 
 ### Artikel  2  
 
-De Mandaatregeling hoofd afdeling Bedrijfsvoering en Uitvoeringsbeleid Dienst Justis 2007 wordt ingetrokken.  
+De Mandaatregeling hoofd afdeling Bedrijfsvoering en Uitvoeringsbeleid Dienst Justis 2007 wordt ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Mandaatregeling sector Bedrijfsvoering en Uitvoeringsbeleid Dienst Justis 2013.  
+Deze regeling wordt aangehaald als: Mandaatregeling sector Bedrijfsvoering en Uitvoeringsbeleid Dienst Justis 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De directeur van de sector Bedrijfsvoering en Uitvoeringsbeleid van de Dienst Justis van het Ministerie van Veiligheid en Justitie, 

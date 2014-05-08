@@ -10,58 +10,58 @@ Besluit:
 
 ####Definitie
 
-In deze regeling wordt onder protonentherapie verstaan: een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.  
+In deze regeling wordt onder protonentherapie verstaan: een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast. 
 
 ### Artikel  2  
 
 ####Behoefteraming
 
-De omvang van de behoefte aan de verrichting protonentherapie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in bijlage 1.  
+De omvang van de behoefte aan de verrichting protonentherapie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in bijlage 1. 
 
 ### Artikel  3  
 
 ####Voorwaarden
 
-De voorwaarden waaraan een vergunningaanvrager dient te voldoen zijn neergelegd in bijlage 2.  
+De voorwaarden waaraan een vergunningaanvrager dient te voldoen zijn neergelegd in bijlage 2. 
 
 ### Artikel  4  
 
 ####Verleningsprocedure
 
-De vergunningverleningsprocedure is neergelegd in bijlage 2.  
+De vergunningverleningsprocedure is neergelegd in bijlage 2. 
 
 ### Artikel  5  
 
 ####Voorschriften
 
-De voorschriften die verbonden zullen worden aan een vergunning voor de verrichting protonentherapie zijn neergelegd in de beleidsregels in bijlage 3.  
+De voorschriften die verbonden zullen worden aan een vergunning voor de verrichting protonentherapie zijn neergelegd in de beleidsregels in bijlage 3. 
 
 ### Artikel  6  
 
-Wijzigt het Planningsbesluit radiotherapie 2009.   
+Wijzigt het Planningsbesluit radiotherapie 2009. 
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling protonentherapie.  
+Deze regeling wordt aangehaald als: Regeling protonentherapie. 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers  
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij de Regeling protonentherapie
 
 ####Behoefteraming (artikel 2 )
 
-Het College voor zorgverzekeringen (CVZ) heeft op 23 maart 2010 een eerste rapport over protonentherapie uitgebracht. Daarin werd vastgesteld dat protonentherapie voor de intra-oculaire tumoren, chordomen/chondrosarcomen en pedriatische tumoren voldoet aan de stand van de wetenschap en praktijk. Deze therapie werd daarmee onderdeel van het basispakket. Het gaat daarbij om ca. 250 patiënten per jaar. In het tweede rapport over protonentherapie van 22 augustus 2011 (Tweede Kamer, vergaderjaar 2011-2012, 29 689, nr. 364) breidde het CVZ het aantal erkende behandelingen uit met specifieke indicaties binnen de aandoeningen longkanker, mammacarcinoom, prostaatkanker en hoofd-halstumoren. Het aantal patiënten dat in aanmerking kan komen, afhankelijk van individuele beoordeling, voor protonentherapie nam daarmee toe tot ca 3450 patiënten per jaar. Dit aantal is gebaseerd op de incidentiecijfers voor kanker van 2005. De ramingen na 2005 zullen hoger uitvallen vanwege de jaarlijkse toename van de kankerincidentie in Nederland. In Nederland bestaan nu nog geen faciliteiten om protonentherapie aan te bieden. Rekening houdend met de voorbereiding en bouwtijd voor een protonenfaciliteit kunnen naar verwachting de eerste patiënten medio 2016 in Nederland met protonentherapie worden behandeld. Ik ga er vanuit dat in 2019 – drie jaar na de start – een protonenversneller vol in bedrijf zal kunnen zijn. Hoewel het CVZ aangeeft dat ongeveer 3450 patiënten per jaar in aanmerking komen voor protonentherapie, en dat aantal nog kan stijgen, wil ik het aantal zorgaanbieders dat protonentherapie aanbiedt beperken. De reden is dat ik de opbouw van ervaring met deze nieuwe verrichting geconcentreerd wil laten plaatsvinden. Op deze wijze kan sneller dan bij een bredere verspreiding van de protonentherapie duidelijkheid worden verkregen over de meerwaarde ervan en de kosteneffectiviteit. Ook de aanzienlijke investeringen die nodig zijn per zorgaanbieder en het huidige economische klimaat zijn aanleiding om het aanbod te beperken. Daarnaast is het van groot belang de kwaliteit beheerst te ontwikkelen in nauwe samenhang met onderzoek naar de meerwaarde van protonentherapie en de kosteneffectiviteit ervan. Ik acht daarom de afgifte van maximaal vier vergunningen aan zorgaanbieders, met een maximum behandelcapaciteit van in totaal 2200 patiënten per jaar, voldoende als een beheerste start van protonentherapie in Nederland. Om de toegankelijkheid van deze vorm van zorg te optimaliseren dienen de vergunninghoudende zorgaanbieders regionaal verspreid over Nederland te zijn. Ik acht het wenselijk de capaciteit als volgt te verdelen: één zorgaanbieder in het noorden van Nederland met een capaciteit van 600 patiënten per jaar, twee zorgaanbieders in de Randstad met ieder een capaciteit van 600 patiënten per jaar, en één zorgaanbieder in het zuiden van Nederland met een capaciteit van 400 patiënten per jaar. Het aantal patiënten met intra-oculaire tumoren en pedriatische tumoren is zodanig beperkt, dat de behandeling van betreffende patiënten moet worden geconcentreerd bij maximaal twee zorgaanbieders per genoemde patiëntencategorie. Indien betreffende patiënten zouden worden verdeeld over alle zorgaanbieders, dan was het aantal patiënten per zorgaanbieder te beperkt om voldoende ervaring op te bouwen. Ik houd de mogelijkheid open om ook de behandeling van patiënten met andere indicaties in de toekomst verder te concentreren. Zoals gezegd is het van groot belang dat de beheerste introductie wordt gekoppeld aan het doen van onderzoek naar kosteneffectiviteit. De uitkomsten ervan zijn richtinggevend voor de beoordeling of – en zo ja, in welke omvang – de behoefteraming op termijn dient te worden bijgesteld. Een eerste herbeoordeling van de capaciteit zal pas plaatsvinden 6 jaar nadat de vergunningverlening op basis van deze regeling heeft plaatsgevonden. De studie naar kosteneffectiviteit kan betrekking hebben zowel op de meerwaarde van protonentherapie ten opzichte van bestaande behandelingen zoals fotonentherapie, als op het onderzoek naar vergroting van de behandelcapaciteit van de protonenfaciliteit door verbetering van techniek en logistiek. Ik heb in bijlage 2 als vergunningvoorwaarde opgenomen dat de vergunninghoudende zorgaanbieder kosteneffectiviteitstudies uitvoert bij beide vormen van onderzoek.  
+Het College voor zorgverzekeringen (CVZ) heeft op 23 maart 2010 een eerste rapport over protonentherapie uitgebracht. Daarin werd vastgesteld dat protonentherapie voor de intra-oculaire tumoren, chordomen/chondrosarcomen en pedriatische tumoren voldoet aan de stand van de wetenschap en praktijk. Deze therapie werd daarmee onderdeel van het basispakket. Het gaat daarbij om ca. 250 patiënten per jaar. In het tweede rapport over protonentherapie van 22 augustus 2011 (Tweede Kamer, vergaderjaar 2011-2012, 29 689, nr. 364) breidde het CVZ het aantal erkende behandelingen uit met specifieke indicaties binnen de aandoeningen longkanker, mammacarcinoom, prostaatkanker en hoofd-halstumoren. Het aantal patiënten dat in aanmerking kan komen, afhankelijk van individuele beoordeling, voor protonentherapie nam daarmee toe tot ca 3450 patiënten per jaar. Dit aantal is gebaseerd op de incidentiecijfers voor kanker van 2005. De ramingen na 2005 zullen hoger uitvallen vanwege de jaarlijkse toename van de kankerincidentie in Nederland. In Nederland bestaan nu nog geen faciliteiten om protonentherapie aan te bieden. Rekening houdend met de voorbereiding en bouwtijd voor een protonenfaciliteit kunnen naar verwachting de eerste patiënten medio 2016 in Nederland met protonentherapie worden behandeld. Ik ga er vanuit dat in 2019 – drie jaar na de start – een protonenversneller vol in bedrijf zal kunnen zijn. Hoewel het CVZ aangeeft dat ongeveer 3450 patiënten per jaar in aanmerking komen voor protonentherapie, en dat aantal nog kan stijgen, wil ik het aantal zorgaanbieders dat protonentherapie aanbiedt beperken. De reden is dat ik de opbouw van ervaring met deze nieuwe verrichting geconcentreerd wil laten plaatsvinden. Op deze wijze kan sneller dan bij een bredere verspreiding van de protonentherapie duidelijkheid worden verkregen over de meerwaarde ervan en de kosteneffectiviteit. Ook de aanzienlijke investeringen die nodig zijn per zorgaanbieder en het huidige economische klimaat zijn aanleiding om het aanbod te beperken. Daarnaast is het van groot belang de kwaliteit beheerst te ontwikkelen in nauwe samenhang met onderzoek naar de meerwaarde van protonentherapie en de kosteneffectiviteit ervan. Ik acht daarom de afgifte van maximaal vier vergunningen aan zorgaanbieders, met een maximum behandelcapaciteit van in totaal 2200 patiënten per jaar, voldoende als een beheerste start van protonentherapie in Nederland. Om de toegankelijkheid van deze vorm van zorg te optimaliseren dienen de vergunninghoudende zorgaanbieders regionaal verspreid over Nederland te zijn. Ik acht het wenselijk de capaciteit als volgt te verdelen: één zorgaanbieder in het noorden van Nederland met een capaciteit van 600 patiënten per jaar, twee zorgaanbieders in de Randstad met ieder een capaciteit van 600 patiënten per jaar, en één zorgaanbieder in het zuiden van Nederland met een capaciteit van 400 patiënten per jaar. Het aantal patiënten met intra-oculaire tumoren en pedriatische tumoren is zodanig beperkt, dat de behandeling van betreffende patiënten moet worden geconcentreerd bij maximaal twee zorgaanbieders per genoemde patiëntencategorie. Indien betreffende patiënten zouden worden verdeeld over alle zorgaanbieders, dan was het aantal patiënten per zorgaanbieder te beperkt om voldoende ervaring op te bouwen. Ik houd de mogelijkheid open om ook de behandeling van patiënten met andere indicaties in de toekomst verder te concentreren. Zoals gezegd is het van groot belang dat de beheerste introductie wordt gekoppeld aan het doen van onderzoek naar kosteneffectiviteit. De uitkomsten ervan zijn richtinggevend voor de beoordeling of – en zo ja, in welke omvang – de behoefteraming op termijn dient te worden bijgesteld. Een eerste herbeoordeling van de capaciteit zal pas plaatsvinden 6 jaar nadat de vergunningverlening op basis van deze regeling heeft plaatsgevonden. De studie naar kosteneffectiviteit kan betrekking hebben zowel op de meerwaarde van protonentherapie ten opzichte van bestaande behandelingen zoals fotonentherapie, als op het onderzoek naar vergroting van de behandelcapaciteit van de protonenfaciliteit door verbetering van techniek en logistiek. Ik heb in bijlage 2 als vergunningvoorwaarde opgenomen dat de vergunninghoudende zorgaanbieder kosteneffectiviteitstudies uitvoert bij beide vormen van onderzoek. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij de Regeling protonentherapie
 
@@ -95,13 +95,13 @@ c) De protonenbehandeling zich verder kan ontwikkelen. Dit vergt onderzoek naar 
 
 10. De vergunningaanvrager toont aan dat hij over expertise en ervaring met betrekking tot klinisch en technologisch wetenschappelijk onderzoek beschikt, dat relevant is voor protonentherapie. De relevantie heeft ondermeer betrekking op verbetering van beeldvormende technieken. De vergunningaanvrager toont tevens aan dat klinisch en technologisch onderzoek en ontwikkeling goed zijn geïntegreerd.  *Toelichting*  Internationale acceptatie van de meerwaarde van protonenbehandeling binnen de medische wereld vereist dat de kwaliteit van het onderzoek goed is en dat de resultaten worden gepubliceerd in peer reviewed internationale tijdschriften. Zorgaanbieders die willen starten met protonentherapie moeten kunnen laten zien dat zij in staat zijn om zelfstandig prospectieve klinische studies te doen, af te ronden en hierover te kunnen rapporteren in peer reviewed internationale tijdschriften. De vergunningaanvragers moeten beschikken over een aantoonbare en sterke reputatie op het gebied van wetenschappelijk onderzoek, dat relevant is voor protonentherapie, in de vorm van publicaties. Dit biedt de beste garantie dat wetenschappelijke onderzoeksprojecten met betrekking tot protonenradiotherapie succesvol kunnen worden afgerond en ook daadwerkelijk leiden tot publicaties in internationale peer reviewed tijdschriften. Ter beoordeling van de expertise en ervaring op dit vlak worden als relevante publicaties in acht genomen de publicaties van de laatste 5 jaar, die elektronisch beschikbaar zijn via PubMed (periode 2007 tot nu) en/of andere elektronische databases. De publicatie moet zijn geschreven door (een) medewerker(s) van de vergunningaanvrager.  
 
-11. De vergunningaanvrager dient een onderzoeksprogramma voor te leggen naar de mogelijkheden om de behandelcapaciteit van de protonenfaciliteit verder te vergroten.  *Toelichting*  Het onderzoek is gericht op verbetering van de techniek en logistiek van de patiëntenstroom om meer patiënten met protonentherapie te kunnen behandelen. Daarmee kunnen ook de kosten van de behandeling worden verlaagd. De ambitie van de vergunningaanvrager moet zijn om het aantal patiënten per jaar op termijn substantieel te verhogen met inachtneming van de indicatiestelling. De (tussen)resultaten van het onderzoeksprogramma dienen eind 2020 te zijn opgeleverd.    
+11. De vergunningaanvrager dient een onderzoeksprogramma voor te leggen naar de mogelijkheden om de behandelcapaciteit van de protonenfaciliteit verder te vergroten.  *Toelichting*  Het onderzoek is gericht op verbetering van de techniek en logistiek van de patiëntenstroom om meer patiënten met protonentherapie te kunnen behandelen. Daarmee kunnen ook de kosten van de behandeling worden verlaagd. De ambitie van de vergunningaanvrager moet zijn om het aantal patiënten per jaar op termijn substantieel te verhogen met inachtneming van de indicatiestelling. De (tussen)resultaten van het onderzoeksprogramma dienen eind 2020 te zijn opgeleverd.   
 
 ####Vergunningverleningsprocedure (artikel 4 )
 
-Zorgaanbieders die in aanmerking willen komen voor een vergunning voor protonentherapie kunnen hiervoor tot en met 30 augustus 2013 een aanvraag indienen bij de Minister van VWS, p/a de directeur Curatieve Zorg, Postbus 20350, 2500 EJ Den Haag. Zij dienen bij de vergunningaanvraag aan te tonen dat zij voldoen aan de voorwaarden, die in bijlage 2 zijn opgenomen. Om voor een vergunning in aanmerking te komen dient een vergunningaanvrager te voldoen aan alle voorwaarden. Ik zal een commissie, samengesteld uit externe deskundigen en vertegenwoordigers van de Inspectie voor de Gezondheidszorg, vragen de vergunningaanvragen te toetsen aan de voorwaarden, de vergunningaanvragen aldus te beoordelen en mij daarover te adviseren.  
+Zorgaanbieders die in aanmerking willen komen voor een vergunning voor protonentherapie kunnen hiervoor tot en met 30 augustus 2013 een aanvraag indienen bij de Minister van VWS, p/a de directeur Curatieve Zorg, Postbus 20350, 2500 EJ Den Haag. Zij dienen bij de vergunningaanvraag aan te tonen dat zij voldoen aan de voorwaarden, die in bijlage 2 zijn opgenomen. Om voor een vergunning in aanmerking te komen dient een vergunningaanvrager te voldoen aan alle voorwaarden. Ik zal een commissie, samengesteld uit externe deskundigen en vertegenwoordigers van de Inspectie voor de Gezondheidszorg, vragen de vergunningaanvragen te toetsen aan de voorwaarden, de vergunningaanvragen aldus te beoordelen en mij daarover te adviseren. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bij de Regeling protonentherapie
 
@@ -115,5 +115,5 @@ Zorgaanbieders die in aanmerking willen komen voor een vergunning voor protonent
 
 4. De vergunninghouder stelt in de opstartfase halfjaarlijks een rapportage op over de voortgang van de bouw van de protonenfaciliteit. Is de vergunninghouder gestart met de behandeling dan stelt hij jaarlijks een rapportage op over de behandeling van de patiënten en over de voortgang van het onderzoeken naar kosteneffectiviteit en meerwaarde van de behandeling. De rapportages dienen uiterlijk twee maanden na het verstrijken van de rapportageperiode bij VWS te zijn ingediend.  
 
-5. Vergezeld van documenten die dat aantonen, stuurt de vergunninghouder uiterlijk zes maanden na afgifte van de vergunning de minister schriftelijk bericht, dat financiering rond is. Indien op de datum van vergunningafgifte de tarieven voor de DBC DOT producten voor protonentherapie nog niet bekend blijken te zijn, gaat de periode van maximaal 6 maanden in op de datum waarop de DBC/ DOT tarieven formeel zijn vastgesteld. Indien blijkt dat de vergunninghouder niet binnen de gestelde periode van zes maanden schriftelijk heeft aangetoond dat de financiering rond is, zal de verstrekte vergunning worden ingetrokken.    
+5. Vergezeld van documenten die dat aantonen, stuurt de vergunninghouder uiterlijk zes maanden na afgifte van de vergunning de minister schriftelijk bericht, dat financiering rond is. Indien op de datum van vergunningafgifte de tarieven voor de DBC DOT producten voor protonentherapie nog niet bekend blijken te zijn, gaat de periode van maximaal 6 maanden in op de datum waarop de DBC/ DOT tarieven formeel zijn vastgesteld. Indien blijkt dat de vergunninghouder niet binnen de gestelde periode van zes maanden schriftelijk heeft aangetoond dat de financiering rond is, zal de verstrekte vergunning worden ingetrokken.   
 
