@@ -12,13 +12,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *wet:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-b. *opleidingsdomein:* een opleidingsdomein als bedoeld in [artikel 1.1.1, onder t2, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *opleidingsdomein:* een opleidingsdomein als bedoeld in [artikel 1.1.1, onder t2, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-c. *kwalificatie:* een kwalificatie, als bedoeld in [artikel 1.1.1, onder t, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *kwalificatie:* een kwalificatie, als bedoeld in [artikel 1.1.1, onder t, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-d. *kwalificatiedossier:* een kwalificatiedossier, als bedoeld in [artikel 1.1.1, onder t1, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+d.  *kwalificatiedossier:* een kwalificatiedossier, als bedoeld in [artikel 1.1.1, onder t1, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
@@ -57,7 +57,7 @@ n. Toerisme en recreatie;
 o. Zorg en welzijn;  
 
 p. Voedsel, natuur en leefomgeving.     
-2.  In bijlage 1 behorende bij deze regeling wordt per kwalificatiedossier vastgesteld tot welk opleidingsdomein als bedoeld in het eerste lid het kwalificatiedossier behoort, met uitzondering van die kwalificatiedossiers, die uitsluitend gericht zijn op de kwalificatie voor entree op de arbeidsmarkt.   
+2.  In bijlage 1 behorende bij deze regeling wordt per kwalificatiedossier vastgesteld tot welk opleidingsdomein als bedoeld in het eerste lid het kwalificatiedossier behoort, met uitzondering van die kwalificatiedossiers, die uitsluitend gericht zijn op de kwalificatie voor entree op de arbeidsmarkt.  
 
 ### Artikel  3  
 
@@ -76,7 +76,7 @@ d. de hoogte van de studielast, bedoeld in [artikel 7.2.4, negende lid, van de w
 
 e. of toepassing is gegeven aan [artikel 7.2.6, eerste lid, van de wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
 
-f. de prijsfactor, bedoeld in [artikel 2.2.3, vierde lid van het Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).     
+f. de prijsfactor, bedoeld in [artikel 2.2.3, vierde lid van het Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).    
 
 ### Artikel  4  
 
@@ -147,25 +147,25 @@ y. 95400 Mediamanagement;
 
 z. 90660 Horeca-assistent;  
 
-aa. 94140 Medewerker bediening/café-bar;  
+aa.  94140 Medewerker bediening/café-bar;  
 
-bb. 94150 Medewerker bediening/café-bar;  
+bb.  94150 Medewerker bediening/café-bar;  
 
-cc. 94160 Medewerker bediening/café-bar;  
+cc.  94160 Medewerker bediening/café-bar;  
 
-dd. 90760 Kok;  
+dd.  90760 Kok;  
 
-ee. 95420 Kok;  
+ee.  95420 Kok;  
 
-ff. 95100 Kok;  
+ff.  95100 Kok;  
 
-gg. 94110 Leisure & hospitality;  
+gg.  94110 Leisure & hospitality;  
 
-hh. 94120 Leisure & hospitality;  
+hh.  94120 Leisure & hospitality;  
 
 ii. 94960 Watersportindustrie;  
 
-jj. 93370 Watersportindustrie.     
+jj.  93370 Watersportindustrie.     
 3.  Voor de volgende beroepsopleidingen worden de eindtermen 2011–2012 die op grond van [artikel IV van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur](../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/enz./(beroepsgerichte/etc/BWBR0030698/README.md) van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 4 behorende bij deze regeling: 
 
 a. 10207 Machinaal Verspaner / Kotteraar;  
@@ -190,24 +190,24 @@ j. 10245 Eerste monteur elektrotechnische panelen;
 
 k. 10262 Monteur middenspanningsinstallaties;  
 
-l. 10250 Eerste monteur middenspanningsinstallaties.     
+l. 10250 Eerste monteur middenspanningsinstallaties.    
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de wijzigingen die zijn aangebracht in de bijlagen 3 en 4, die terug werken tot en met 1 augustus 2011.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de wijzigingen die zijn aangebracht in de bijlagen 3 en 4, die terug werken tot en met 1 augustus 2011. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012.  
+Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012. 
 Deze regeling zal met de bijlagen 1 en 4 en de toelichting in de Staatscourant worden geplaatst. Bijlage 1 zal ook gepubliceerd worden op www.ocwduo.nl. De bijlagen 2, 3 en 4 worden gepubliceerd op www.kwalificatiesmbo.nl.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart    
 
 ### Bijlagen  
 
@@ -226,11 +226,11 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 
 | Wijzigingen in crebolijst opleidingsdomeinen, kwalificatiedossiers en kwalificaties geldig vanaf 2013  | Soort opleiding  | Leerweg  | Niveau  | SBU's  | Beroepsvereisten  | Prijsfactor  | BRIN Kenniscentrum  | Crebo nummer  | Kwalificatiedossier  | Crebo nummer  | Kwalificatie  | Opleidingsdomein  3. Techniek en procesindustrie 79020  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 22061  | Vliegtuigonderhoud  | --- | --- | --- | BOL/BBL  | --- | --- | --- | 1,70  | 02PR  |
-| --- | --- | 95766  | Monteur  | basisberoepsopleiding  | BOL/BBL  | 2  | 3200  | --- | 1,70  | 02PR  |
-| --- | --- | 95762  | Eerste monteur  | vakopleiding  | BOL/BBL  | 3  | 4800  | --- | 1,70  | 02PR  |
-| --- | --- | 95763  | Technicus avionica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
-| --- | --- | 95764  | Technicus mechanica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
+|  22061  | Vliegtuigonderhoud  | --- | --- | --- | BOL/BBL  | --- | --- | --- | 1,70  | 02PR  |
+| --- | --- |  95766  | Monteur  | basisberoepsopleiding  | BOL/BBL  | 2  | 3200  | --- | 1,70  | 02PR  |
+| --- | --- |  95762  | Eerste monteur  | vakopleiding  | BOL/BBL  | 3  | 4800  | --- | 1,70  | 02PR  |
+| --- | --- |  95763  | Technicus avionica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
+| --- | --- |  95764  | Technicus mechanica  | middenkaderopleiding  | BOL/BBL  | 4  | 6400  | --- | 1,70  | 02PR  |
 
 ![252981](http://wetten.overheid.nl/Illustration/252981)
 ![253124](http://wetten.overheid.nl/Illustration/253124)
@@ -254,19 +254,19 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 ![253142](http://wetten.overheid.nl/Illustration/253142)
 ![253143](http://wetten.overheid.nl/Illustration/253143)
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####: Inhoud van de kwalificatiedossiers 2012–2013
 
-Gepubliceerd op www.ocwduo.nl.  
+Gepubliceerd op www.ocwduo.nl.
 
-### Bijlage  3  
+###Bijlage 3 
 
 ####: Inhoud gerectificeerde kwalificatiedossiers 2011–2012
 
-Gepubliceerd op www.kwalificatiesmbo.nl.  
+Gepubliceerd op www.kwalificatiesmbo.nl.
 
-### Bijlage  4  
+###Bijlage 4 
 
 ####conform artikel 4; derde lid  van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012
 
@@ -276,17 +276,17 @@ Gepubliceerd op www.kwalificatiesmbo.nl.
 | Frezer  | 10108  | 50490  | 5  | Genoemde eindterm niet meer handhaven.  |
 | Scheepsmetaalbewerker  | 10115  | 50507  | 7  | Eindterm uitsluitend in context *nieuwbouw* toetsen. Consequentie is dat een leerling werkzaam bij een nieuwbouw bedrijf geen reparatie hoeft te doen.  |
 | 8  | Eindterm uitsluitend in context *reparatie* toetsen. Consequentie is dat een leerling werkzaam bij een reparatie bedrijf geen nieuwbouw hoeft te doen.  |
-| Werktuigbouwkunde  | 10055  | 50267  | 1,8,9,10  | Genoemde eindtermen niet meer handhaven omdat:  ○ Zwenkbuigen met de hand komt weinig meer voor.  ○ Klinken als techniek wordt nauwelijks toegepast.  ○ Drukvoegen wordt alleen in gespecialiseerde bedrijven toegepast (machines).  ○ Hechtvouwverbindingen worden nagenoeg niet meer toegepast.  ○ De plaatwerker allround fit geen klein pijpwerk.  ○ Wikkelbuigen van staf en pijp is specialistisch werk, het hoort het niet in de reguliere opleiding.  |
+| Werktuigbouwkunde   | 10055  | 50267  | 1,8,9,10  | Genoemde eindtermen niet meer handhaven omdat:  ○ Zwenkbuigen met de hand komt weinig meer voor.  ○ Klinken als techniek wordt nauwelijks toegepast.  ○ Drukvoegen wordt alleen in gespecialiseerde bedrijven toegepast (machines).  ○ Hechtvouwverbindingen worden nagenoeg niet meer toegepast.  ○ De plaatwerker allround fit geen klein pijpwerk.  ○ Wikkelbuigen van staf en pijp is specialistisch werk, het hoort het niet in de reguliere opleiding.  |
 | 50268  | 12,13  |
 | Constructie en Apparatenbouwer  | 10114  | 50267  | 1,8,9,10  | Genoemde eindtermen niet meer handhaven omdat  zwenkbuigen met de hand weinig meer voorkomt.  Genoemde eindtermen niet meer handhaven omdat:  ○ Klinken als techniek wordt nauwelijks toegepast.  ○ Drukvoegen wordt alleen in gespecialiseerde bedrijven toegepast (machines).  ○ Hechtvouwverbindingen worden nagenoeg niet meer toegepast.  ○ De plaatwerker allround fit geen klein pijpwerk.  ○ Wikkelbuigen van staf en pijp is specialistisch werk, het hoort het niet in de reguliere opleiding.  |
 | 50268  | 12,13  |
 | Plaatwerker  | 10113  | 50267  | 1,8,9,10  | Genoemde eindtermen niet meer handhaven omdat:  ○ Zwenkbuigen met de hand komt weinig meer voor.  ○ Klinken als techniek wordt nauwelijks toegepast.  ○ Drukvoegen wordt alleen in gespecialiseerde bedrijven toegepast (machines).  ○ Hechtvouwverbindingen worden nagenoeg niet meer toegepast.  ○ De plaatwerker allround fit geen klein pijpwerk.  ○ Wikkelbuigen van staf en pijp is specialistisch werk, het hoort het niet in de reguliere opleiding.  |
 | 50268  | 12,13  |
-| Scheepsbouwer  | 10111  | 50495  50496  | 2,9,10,12  5,6,7,8,9,10,11  | Genoemde eindtermen niet meer handhaven omdat in de praktijk eindtermen voor deze deelkwalificaties niet of zeer moeilijk kunnen worden getoetst.  |
-| Machinaal Verspaner  | 10100  | 50270  | 2,3,4  | Eindterm anders formuleren omdat uitvoering op CNC machines niet uitvoerbaar is. Eindterm wordt: uitvoeren alleen voor stalenwerkstukken.  |
+| Scheepsbouwer   | 10111  | 50495  50496  | 2,9,10,12  5,6,7,8,9,10,11  | Genoemde eindtermen niet meer handhaven omdat in de praktijk eindtermen voor deze deelkwalificaties niet of zeer moeilijk kunnen worden getoetst.  |
+| Machinaal Verspaner   | 10100  | 50270  | 2,3,4  | Eindterm anders formuleren omdat uitvoering op CNC machines niet uitvoerbaar is. Eindterm wordt: uitvoeren alleen voor stalenwerkstukken.  |
 | --- | --- | 50274  | Alle eindtermen  | Deelkwalificatie 50274 niet meer handhaven omdat dit praktisch niet uitvoerbaar is en het beroep waar het betrekking op heeft is veranderd door het gebruik van CNC-machines.  |
-| Monteur Elektrotechnische Panelen  | 10258  | 56103  | Alle eindtermen  | Eindtermen niet meer handhaven omdat printen tegenwoordig in de panelenbouw compleet gemonteerd aangeleverd worden en zich niet meer onderscheiden van andere gangbare componenten. Het herkennen en omgaan met printen in niet gemonteerde vorm is daarom niet meer mogelijk.  |
-| Eerste Monteur Elektrotechnische Panelen  | 10245  | 56103  | Alle eindtermen  | Eindtermen niet meer handhaven omdat printen tegenwoordig in de panelenbouw compleet gemonteerd aangeleverd worden en zich niet meer onderscheiden van andere gangbare componenten. Het herkennen en omgaan met printen in niet gemonteerde vorm is daarom niet meer mogelijk.  |
+| Monteur Elektrotechnische Panelen  | 10258  | 56103  | Alle eindtermen  | Eindtermen niet meer handhaven omdat printen tegenwoordig in de panelenbouw compleet gemonteerd aangeleverd worden en zich niet meer onderscheiden van andere gangbare componenten. Het herkennen en omgaan met printen in niet gemonteerde vorm is daarom niet meer mogelijk.   |
+| Eerste Monteur Elektrotechnische Panelen  | 10245  | 56103  | Alle eindtermen  | Eindtermen niet meer handhaven omdat printen tegenwoordig in de panelenbouw compleet gemonteerd aangeleverd worden en zich niet meer onderscheiden van andere gangbare componenten. Het herkennen en omgaan met printen in niet gemonteerde vorm is daarom niet meer mogelijk.   |
 | Monteur Middenspanningsinstallaties  | 10262  | 50948  | Alle eindtermen  | Eindtermen niet meer handhaven omdat dit technisch niet meer uitvoerbaar is. Middenspanningsinstallaties in open aanleg worden in Nederland nauwelijks meer aangelegd. Het monteren van deze railsystemen zoals beschreven in deze deelkwalificatie kan daarom niet meer worden uitgevoerd.  |
 | Eerste Monteur Middenspanningsinstallaties  | 10250  | 50948  | Alle eindtermen  | Eindtermen niet meer handhaven omdat dit technisch niet meer uitvoerbaar is. Middenspanningsinstallaties in open aanleg worden in Nederland nauwelijks meer aangelegd. Het monteren van deze railsystemen zoals beschreven in deze deelkwalificatie kan daarom niet meer worden uitgevoerd.  |
 

@@ -8,25 +8,25 @@
 
 ####Grondslag
 
-Op grond van [artikel 36](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [37](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [38 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.  
+Op grond van [artikel 36](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [37](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [38 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast. 
 
 ### Artikel  2  
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op instellingen voor medisch specialistische zorg (met uitzondering van sanatoria en abortusklinieken), instellingen voor erfelijkheidsadvisering, op audiologische centra, instellingen die geriatrische revalidatiezorg leveren en trombosediensten. <sup> 1  Per 1 januari 2014 moeten huisartsenlaboratoria ook aan artikel 17.2 van deze regeling voldoen voor het declareren van prestaties voor eerstelijnsdiagnostiek.  </sup> Deze regeling is ook van toepassing op zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden. Deze regeling is ook van toepassing op zorgaanbieders die geneeskundige zorg leveren bestaande uit handelingen op het gebied van de individuele gezondheidszorg of werkzaamheden in het kader van de beroepsuitoefening voor zover deze handelingen en werkzaamheden niet zijn begrepen onder het hierboven genoemde. <sup> 2  Het betreft hier de handelingen bedoeld in artikel 1, sub b, nr. 2o, van de Wmg.  </sup> <sup> 3  Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef, en sub d, van het Besluit uitbreiding en beperking werkingssfeer Wmg.  </sup> Deze regeling is niet van toepassing op tweedelijns curatieve geestelijke gezondheidszorg (GGZ). Hieronder valt de tweedelijns curatieve GGZ als omschreven bij of krachtens de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die wordt geleverd door gebudgetteerde en niet-gebudgetteerde zorgaanbieders als bedoeld in de beleidsregel ‘Overgang curatieve GGZ naar Zvw en invoering DBC’s’, en niet verplicht verzekerde tweedelijns curatieve GGZ.  
+Deze regeling is van toepassing op instellingen voor medisch specialistische zorg<sup> 1 Per 1 januari 2014 moeten huisartsenlaboratoria ook aan artikel 17.2 van deze regeling voldoen voor het declareren van prestaties voor eerstelijnsdiagnostiek. </sup> (met uitzondering van sanatoria en abortusklinieken), instellingen voor erfelijkheidsadvisering, op audiologische centra, instellingen die geriatrische revalidatiezorg leveren en trombosediensten. Deze regeling is ook van toepassing op zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden. Deze regeling is ook van toepassing op zorgaanbieders die geneeskundige zorg leveren bestaande uit handelingen op het gebied van de individuele gezondheidszorg<sup> 2 Het betreft hier de handelingen bedoeld in artikel 1, sub b, nr. 2o, van de Wmg. </sup> of werkzaamheden in het kader van de beroepsuitoefening<sup> 3 Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef, en sub d, van het Besluit uitbreiding en beperking werkingssfeer Wmg. </sup> voor zover deze handelingen en werkzaamheden niet zijn begrepen onder het hierboven genoemde. Deze regeling is niet van toepassing op tweedelijns curatieve geestelijke gezondheidszorg (GGZ). Hieronder valt de tweedelijns curatieve GGZ als omschreven bij of krachtens de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die wordt geleverd door gebudgetteerde en niet-gebudgetteerde zorgaanbieders als bedoeld in de beleidsregel ‘Overgang curatieve GGZ naar Zvw en invoering DBC’s’, en niet verplicht verzekerde tweedelijns curatieve GGZ. 
 
 ### Artikel  3  
 
 ####Doel
 
-In deze regeling legt de NZa regels vast die een zorgaanbieder in acht moet houden bij het leveren van prestaties en tarieven van medisch specialistische zorg, zorg in het kader van erfelijkheidsadvisering, audiologische zorg, geriatrische revalidatiezorg.  
+In deze regeling legt de NZa regels vast die een zorgaanbieder in acht moet houden bij het leveren van prestaties en tarieven van medisch specialistische zorg, zorg in het kader van erfelijkheidsadvisering, audiologische zorg, geriatrische revalidatiezorg. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 januari 2014. Met de inwerkingtreding van deze regeling wordt de [regeling ‘Medisch specialistisch zorg’](../../../../../../zbo/regeling/medisch/specialistische/zorg/BWBR0033982/README.md) met kenmerk NR/CU-237 ingetrokken. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt deze regeling in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin de mededeling wordt geplaatst. Deze regeling kan worden aangehaald als ‘Regeling medisch specialistische zorg’.  
+De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 januari 2014. Met de inwerkingtreding van deze regeling wordt de [regeling ‘Medisch specialistisch zorg’](../../../../../../zbo/regeling/medisch/specialistische/zorg/BWBR0033982/README.md) met kenmerk NR/CU-237 ingetrokken. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt deze regeling in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin de mededeling wordt geplaatst. Deze regeling kan worden aangehaald als ‘Regeling medisch specialistische zorg’. 
 
 ### Artikel  5  
 
@@ -44,7 +44,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 5.5  *DBC-zorgproduct*  Een DBC-zorgproduct is een declarabele prestatie die is afgeleid uit een subtraject met zorgactiviteiten via de beslisbomen. Een subtraject leidt in combinatie met de geleverde zorgactiviteiten tot een declarabel DBC-zorgproduct als het voldoet aan de voorwaarden van de beslisbomen.  
 
-5.6  *DBC-zorgproductcode*  Het unieke nummer van een DBC-zorgproduct dat bestaat uit negen posities. De code is opgebouwd uit een DBC-zorgproductgroepcode (zes posities) en een code voor het specifieke DBC-zorgproduct binnen een DBC-zorgproductgroep (drie posities).  
+5.6  * DBC-zorgproductcode*  Het unieke nummer van een DBC-zorgproduct dat bestaat uit negen posities. De code is opgebouwd uit een DBC-zorgproductgroepcode (zes posities) en een code voor het specifieke DBC-zorgproduct binnen een DBC-zorgproductgroep (drie posities).  
 
 5.7  *DBC-zorgproductgroep*  Een DBC-zorgproductgroep is een verzameling van DBC-zorgproducten. Deze is geclusterd op basis van medische kenmerken zoals ICD-10 diagnose, WBMV-indicatie of andere (zogenaamde pre-MDC) criteria. Elke DBC-zorgproductgroep heeft een eigen beslisboom.  
 
@@ -52,7 +52,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 5.9  *Declaratiedataset*  De verzameling gegevens die nodig is om één of meerdere declarabele prestaties af te leiden in een grouper.  
 
-5.10  *Diagnose-combinatietabel*  Een niet-limitatieve opsomming van diagnoses waarvoor geen parallelle DBC-zorgproducten mogen worden gedeclareerd.  
+5.10  * Diagnose-combinatietabel*  Een niet-limitatieve opsomming van diagnoses waarvoor geen parallelle DBC-zorgproducten mogen worden gedeclareerd.  
 
 5.11  *Eigen patiënt*  Een patiënt geldt voor een medisch specialist of instelling als eigen patiënt als deze patiënt zich met een zorgvraag heeft gewend tot de medisch specialist. Deze medisch specialist wordt aangemerkt als hoofdbehandelaar wanneer deze specialist voor het verlenen van (medische) zorg op dat moment in de instelling zijn praktijk uitoefent.  
 
@@ -64,7 +64,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 5.15  *Hoofdbehandelaar*  Zorgaanbieder die, in reactie op de zorgvraag van een patiënt, bij een patiënt de diagnose stelt en die verantwoordelijk is voor de behandeling.  
 
-5.16  *CD-10*  ICD-10: De tiende editie van de International Statistical Classification of Diseases and Related Health Problems (ICD-10) wordt onderhouden door de World Health Organisation (WHO). ICD-10 is gebruikt als basis voor de productstructuur.  
+5.16   *CD-10*  ICD-10: De tiende editie van de International Statistical Classification of Diseases and Related Health Problems (ICD-10) wordt onderhouden door de World Health Organisation (WHO). ICD-10 is gebruikt als basis voor de productstructuur.  
 
 5.17  *Kostenbedrag (of kostencomponent)*  Het bedrag per zorgproduct dat in rekening gebracht mag worden ter vergoeding van de instellingskosten. Al dan niet in combinatie met het honorariumbedrag vormt dit het tarief per zorgproduct.  
 
@@ -76,9 +76,9 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 5.19  *Ondersteunend specialist*  Een ondersteunend specialist is een specialist die niet als poortspecialist fungeert. Een ondersteunend specialist voert medisch specialistische handelingen uit in het kader van het zorgtraject van een poortspecialist en heeft geen eigen zorgtraject. In bepaalde gevallen kan een ondersteunend specialist wel fungeren als poortspecialist en is er sprake van een eigen zorgtraject, namelijk bij radiologie (0362), anesthesiologie (0389) en klinische genetica (0390). Als ondersteunende specialismen worden de volgende specialismen onderscheiden: radiologie (0362), nucleaire geneeskunde (0363), klinische chemie (0386), medische microbiologie (0387), pathologie (0388), anesthesiologie (0389) en klinische genetica (0390).  
 
-5.20  *Overige zorgproducten (OZP)*  Een prestatie binnen de medisch specialistische zorg, niet zijnde een DBC-zorgproduct. Overige zorgproducten zijn per 2013 onderverdeeld in vier hoofdcategorieën: supplementaire producten, eerstelijnsdiagnostiek (ELD), paramedische behandeling en onderzoek, en overige verrichtingen. <sup> 4  Tot en met 2012 bestonden overige zorgproducten uit vijf categorieën: add-ons, ondersteunende producten (OP), overige producten (OVP), overige trajecten en overige verrichtingen.  </sup>  
+5.20  *Overige zorgproducten (OZP)*  Een prestatie binnen de medisch specialistische zorg, niet zijnde een DBC-zorgproduct. Overige zorgproducten zijn per 2013 onderverdeeld in vier hoofdcategorieën: supplementaire producten, eerstelijnsdiagnostiek (ELD), paramedische behandeling en onderzoek, en overige verrichtingen.<sup> 4 Tot en met 2012 bestonden overige zorgproducten uit vijf categorieën: add-ons, ondersteunende producten (OP), overige producten (OVP), overige trajecten en overige verrichtingen. </sup>   
 
-5.21  *Poortspecialist*  Een poortspecialist is de medisch specialist naar wie een patiënt wordt verwezen voor medisch specialistische zorg. Als poortspecialismen worden de volgende specialismen onderscheiden: oogheelkunde (0301), KNO (0302), heelkunde/chirurgie (0303), plastische chirurgie (0304), orthopedie (0305), urologie (0306), gynaecologie (0307), neurochirurgie (0308), dermatologie (0310), inwendige geneeskunde (0313), kindergeneeskunde/neonatologie (0316), gastro-enterologie/MDL (0318), cardiologie (0320), longgeneeskunde (0322), reumatologie (0324), allergologie (0326), revalidatie (0327), cardio-pulmonale chirurgie (0328), consultatieve psychiatrie (0329), neurologie (0330), klinische geriatrie (0335), radiotherapie (0361). <sup> 5  Tandarts-specialisten voor mondziekten en kaakchirurgie kunnen ook een poortfunctie hebben, maar declareren alleen overige zorgproducten.  </sup>  
+5.21  *Poortspecialist*  Een poortspecialist is de medisch specialist naar wie een patiënt wordt verwezen voor medisch specialistische zorg. Als poortspecialismen worden de volgende specialismen onderscheiden: oogheelkunde (0301), KNO (0302), heelkunde/chirurgie (0303), plastische chirurgie (0304), orthopedie (0305), urologie (0306), gynaecologie (0307), neurochirurgie (0308), dermatologie (0310), inwendige geneeskunde (0313), kindergeneeskunde/neonatologie (0316), gastro-enterologie/MDL (0318), cardiologie (0320), longgeneeskunde (0322), reumatologie (0324), allergologie (0326), revalidatie (0327), cardio-pulmonale chirurgie (0328), consultatieve psychiatrie (0329), neurologie (0330), klinische geriatrie (0335), radiotherapie (0361).<sup> 5 Tandarts-specialisten voor mondziekten en kaakchirurgie kunnen ook een poortfunctie hebben, maar declareren alleen overige zorgproducten. </sup>   
 
 5.22  *Poortfunctie*  De poortfunctie kan door een poortspecialist, medisch specialist van een ondersteunend specialisme, klinisch fysicus audioloog of een specialist ouderengeneeskunde worden uitgevoerd indien de NZa voor dat specialisme of dat type van zorg, een typeringslijst heeft vastgesteld. Dit geldt voor: radiologie (0362), anesthesiologie (0389), klinische genetica (0390), audiologie (1900) en geriatrische revalidatiezorg (8418). De zorgverlener die de poortfunctie uitvoert is verantwoordelijk voor een juiste typering van een zorgtraject/subtraject bij de geleverde zorg.  
 
@@ -94,13 +94,13 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 5.28  *Vrij segment*  Het geheel van prestaties waarvoor de NZa geen tarieven vaststelt voor het kostendeel.  
 
-5.29  *Zorgactiviteit*  De zorgactiviteiten zijn de bouwstenen van het DBC-zorgproduct en vormen gezamenlijk het profiel van een DBC-zorgproduct. Ze bepalen in combinatie met het geregistreerde subtraject welke prestatie is geleverd en welk DBC-zorgproduct kan worden gedeclareerd. Daarnaast vormt de onderverdeling in zorgactiviteiten de basis voor overige zorgproducten.  
+5.29  * Zorgactiviteit*  De zorgactiviteiten zijn de bouwstenen van het DBC-zorgproduct en vormen gezamenlijk het profiel van een DBC-zorgproduct. Ze bepalen in combinatie met het geregistreerde subtraject welke prestatie is geleverd en welk DBC-zorgproduct kan worden gedeclareerd. Daarnaast vormt de onderverdeling in zorgactiviteiten de basis voor overige zorgproducten.  
 
 5.30  *Zorgproduct*  Een aanduiding van prestaties binnen de medisch specialistisch zorg. Zorgproducten zijn onderverdeeld in DBC-zorgproducten en overige zorgproducten.  
 
 5.31  *Zorgprofiel*  Alle geregistreerde zorgactiviteiten binnen een DBC-zorgproduct.  
 
-5.32  *Zorgtraject*  Een zorgtraject typeert het geheel van prestaties van zorginstelling en medisch specialist, voortvloeiend uit de zorgvraag waarvoor de patiënt de zorginstelling consulteert. Een zorgtraject is geen declarabele prestatie, maar bestaat uit één of meerdere declarabele subtrajecten.    
+5.32  *Zorgtraject*  Een zorgtraject typeert het geheel van prestaties van zorginstelling en medisch specialist, voortvloeiend uit de zorgvraag waarvoor de patiënt de zorginstelling consulteert. Een zorgtraject is geen declarabele prestatie, maar bestaat uit één of meerdere declarabele subtrajecten.   
 
 ####Registreren
 
@@ -108,16 +108,16 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 ####Algemene registratiebepalingen
 
-6.1.  De registratie van het zorgtraject start op het moment dat een patiënt zich met een nieuwe zorgvraag bij de medisch specialist meldt óf, indien dat eerder is, op het moment dat de eerste zorgactiviteit plaatsvindt in het kader van deze nieuwe zorgvraag. <sup> 6  Waar in de artikelen 6 tot en met 11 van deze regeling wordt gesproken over ‘medisch specialist’ kan daarmee ook worden bedoeld: de klinisch fysicus audioloog of de specialist ouderengeneeskunde.  </sup>   
+6.1.  De registratie van het zorgtraject start op het moment dat een patiënt zich met een nieuwe zorgvraag bij de medisch specialist<sup> 6 Waar in de artikelen 6 tot en met 11 van deze regeling wordt gesproken over ‘medisch specialist’ kan daarmee ook worden bedoeld: de klinisch fysicus audioloog of de specialist ouderengeneeskunde. </sup> meldt óf, indien dat eerder is, op het moment dat de eerste zorgactiviteit plaatsvindt in het kader van deze nieuwe zorgvraag.   
 6.2.  Wanneer er bij de behandeling van de zorgvraag van de patiënt meer poortspecialismen zijn betrokken als hoofdbehandelaar, opent elk poortspecialisme een eigen zorgtraject als sprake is van een eigen zorgvraag, diagnosestelling én behandeling.   
-6.3.  De verleende zorg wordt vastgelegd in door de NZa vastgestelde zorgactiviteiten. <sup> 7  Onder vastleggen wordt hier ook een juiste vertaling van lokale verrichtingen naar zorgactiviteiten bedoeld.  </sup>   
+6.3.  De verleende zorg wordt vastgelegd<sup> 7 Onder vastleggen wordt hier ook een juiste vertaling van lokale verrichtingen naar zorgactiviteiten bedoeld. </sup> in door de NZa vastgestelde zorgactiviteiten.   
 6.4.  Indien meerdere specialismen bijdragen aan het uitvoeren van één zorgactiviteit, mag deze zorgactiviteit eenmaal voor de afleiding van een DBC-zorgproduct worden benut.   
 6.5.  De medisch specialist is verantwoordelijk voor het vaststellen of er bij de behandeling van een patiënt aan de medische indicatie vereisten wordt voldaan op basis van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De medisch specialist is ook verantwoordelijk om dit op een juiste wijze vast te leggen bij de registratie van de zorgactiviteit.   
-6.6.  De poortspecialist is verantwoordelijk voor de juiste registratie van het zorgtype, de zorgvraag en de diagnose. Daarbij beperkt de specialist zich tot de typeringslijst die geldt voor dat specialisme of type van zorg. <sup> 8  Ieder specialisme heeft een eigen typeringslijst.  </sup>   
+6.6.  De poortspecialist is verantwoordelijk voor de juiste registratie van het zorgtype, de zorgvraag en de diagnose. Daarbij beperkt de specialist zich tot de typeringslijst die geldt voor dat specialisme of type van zorg.<sup> 8 Ieder specialisme heeft een eigen typeringslijst. </sup>    
 6.7.  De administratieve organisatie is zo ingericht dat een audit-trail mogelijk is. De NZa en de zorgverzekeraar moeten altijd de mogelijkheid hebben om de typering en vastgelegde zorgactiviteiten op juistheid te controleren.   
-6.8.  Een add-on kan uitsluitend worden geregistreerd in combinatie met een subtraject. Dit geldt niet voor een add-on intensive care, met zorgtype 52. <sup> 9  Deze voorwaarde is niet van toepassing als een geneesmiddel met een add-on declaratietitel in het buitenland wordt toegediend en de add-on in Nederland wordt gedeclareerd.  </sup>   
-6.9.  De zorgaanbieder zorgt ervoor dat de declaratiedataset die aan een grouper wordt aangeboden uitsluitend zorgactiviteiten bevat die zijn uitgevoerd ter beantwoording van de zorgvraag waarop het subtraject betrekking heeft. <sup> 10  Met inachtneming van de bepalingen van deze regeling.  </sup>   
-6.10.  Een uitgevoerde zorgactiviteit mag slechts aan één subtraject worden gekoppeld.   
+6.8.  Een add-on kan uitsluitend worden geregistreerd in combinatie met een subtraject.<sup> 9 Deze voorwaarde is niet van toepassing als een geneesmiddel met een add-on declaratietitel in het buitenland wordt toegediend en de add-on in Nederland wordt gedeclareerd. </sup> Dit geldt niet voor een add-on intensive care, met zorgtype 52.   
+6.9.  De zorgaanbieder zorgt ervoor dat de declaratiedataset die aan een grouper wordt aangeboden uitsluitend zorgactiviteiten bevat die zijn uitgevoerd ter beantwoording van de zorgvraag waarop het subtraject betrekking heeft.<sup> 10 Met inachtneming van de bepalingen van deze regeling. </sup>    
+6.10.  Een uitgevoerde zorgactiviteit mag slechts aan één subtraject worden gekoppeld.  
 
 ### Artikel  7  
 
@@ -134,13 +134,13 @@ De regels voor het openen van een zorgtraject zijn afhankelijk van het zorgtype 
 | --- |
 | De ondersteunende specialismen radiologie en anesthesiologie kunnen in de rol van poortspecialist zelfstandig behandelen en daarvoor zorgproducten declareren. Het betreft hier de interventie-radioloog en de anesthesist als pijnbestrijder.  |
 
-a. Een parallel zorgtraject (met bij behorende subtrajecten ZT11 en ZT21) bij eenzelfde specialisme mag alleen worden gedeclareerd indien er vanuit het medisch dossier aantoonbaar sprake is van een andere zorgvraag dan waarvoor de patiënt al wordt behandeld en voor deze zorgvraag een separaat zorgtraject (diagnosestelling en behandeling) noodzakelijk is. Daarbij geldt ook dat aan beide onderstaande voorwaarden moet worden voldaan: <sup> 11  Indien er bij een specialisme (bijvoorbeeld kindergeneeskunde) sprake is van één zorgvraag waarbij verschillende subspecialismen zijn betrokken, mag er één zorgtraject worden geregistreerd.  </sup> 
+a. Een parallel zorgtraject (met bij behorende subtrajecten ZT11 en ZT21) bij eenzelfde specialisme mag alleen worden gedeclareerd indien er vanuit het medisch dossier aantoonbaar sprake is van een andere zorgvraag dan waarvoor de patiënt al wordt behandeld en voor deze zorgvraag een separaat zorgtraject<sup> 11 Indien er bij een specialisme (bijvoorbeeld kindergeneeskunde) sprake is van één zorgvraag waarbij verschillende subspecialismen zijn betrokken, mag er één zorgtraject worden geregistreerd. </sup> (diagnosestelling en behandeling) noodzakelijk is. Daarbij geldt ook dat aan beide onderstaande voorwaarden moet worden voldaan: 
 
 – Het subtraject van het parallelle zorgtraject dient een zorgprofiel te hebben met eigen zorgactiviteiten met:  
 
 – minimaal één zorgactiviteit uit de groep operatieve verrichtingen en/of,  
 
-– minimaal één zorgactiviteit uit zorgprofielklasse 1, 2 of 3.* <sup> 12  Zorgprofielklasse 1 staat voor een polikliniekbezoek/consult, zorgprofielklasse 2 staat voor een dagverpleging en zorgprofielklasse 3 staat voor een verpleegdag.  </sup> 
+– minimaal één zorgactiviteit uit zorgprofielklasse<sup> 12 Zorgprofielklasse 1 staat voor een polikliniekbezoek/consult, zorgprofielklasse 2 staat voor een dagverpleging en zorgprofielklasse 3 staat voor een verpleegdag. </sup> 1, 2 of 3.* 
 
 * In uitzondering hierop geldt dat ook in de volgende situaties aan deze voorwaarde wordt voldaan: 
 
@@ -169,7 +169,7 @@ c. Bij parallelliteit tijdens een klinische periode moeten de verpleegdagen aan 
 | --- |
 | De diagnoses ‘multitrauma ISS ≥ 16’ (diagnose 602) en ‘traumascreening’ (diagnose 294) omvatten het traject rondom de traumaopvang volgens de ATLS. Deze diagnoses kunnen parallel geregistreerd worden aan diagnoses die geconstateerd worden bij de screening.  |
 
-7.2 Een zorgtraject met subtraject ZT13 wordt door de poortspecialist geopend bij een intercollegiaal consult (ICC) voor een patiënt die klinisch is opgenomen. Hierbij geldt het volgende: <sup> 13  Het specialisme geriatrische revalidatiezorg beschikt niet over het zorgtype 13. Het ICC valt voor dit specialisme onder zorgtype 11.  </sup> 
+7.2 Een zorgtraject met subtraject ZT13<sup> 13 Het specialisme geriatrische revalidatiezorg beschikt niet over het zorgtype 13. Het ICC valt voor dit specialisme onder zorgtype 11. </sup> wordt door de poortspecialist geopend bij een intercollegiaal consult (ICC) voor een patiënt die klinisch is opgenomen. Hierbij geldt het volgende: 
 
 – Een ICC mag alleen worden geregistreerd bij een klinische opname waarbij één of meer verpleegdagen en/of IC-behandeldagen zijn geregistreerd.  
 
@@ -225,7 +225,7 @@ Een subtraject wordt geopend:
 
 – Bij het openen van een zorgtraject (zie artikel 6) of;  
 
-– Als een reguliere behandeling of controletraject na het afsluiten van een subtraject met ZT11 of ZT21 , wordt vervolgd (zie artikel 8). <sup> 14  Het specialisme consultatieve psychiatrie beschikt niet over het zorgtype 21.  </sup>   Op het moment dat binnen 365 dagen na afsluiten van het voorgaande subtraject een zorgactiviteit wordt geregistreerd in het kader van de zorgvraag van het betreffende zorgtraject moet aansluitend op het voorgaande subtraject met ZT11 of ZT21 een vervolg subtraject worden geopend.  
+– Als een reguliere behandeling of controletraject na het afsluiten van een subtraject met ZT11 of ZT21<sup> 14 Het specialisme consultatieve psychiatrie beschikt niet over het zorgtype 21. </sup>, wordt vervolgd (zie artikel 8).   Op het moment dat binnen 365 dagen na afsluiten van het voorgaande subtraject een zorgactiviteit wordt geregistreerd in het kader van de zorgvraag van het betreffende zorgtraject moet aansluitend op het voorgaande subtraject met ZT11 of ZT21 een vervolg subtraject worden geopend.  
 
 |
 |
@@ -240,7 +240,7 @@ Een subtraject wordt geopend:
 
 a. Bij een klinisch subtraject met ZT11 en 21: 
 
-– Op de 42e dag na ontslagdatum. <sup> 15  De ontslagdatum is de datum dat de laatste verpleegdag of IC-behandeldag is geregistreerd. Het werkelijke ontslag kan op een latere datum plaatsvinden, bijvoorbeeld indien er sprake is van ‘verkeerde bed’.  </sup>  
+– Op de 42e dag na ontslagdatum.<sup> 15 De ontslagdatum is de datum dat de laatste verpleegdag of IC-behandeldag is geregistreerd. Het werkelijke ontslag kan op een latere datum plaatsvinden, bijvoorbeeld indien er sprake is van ‘verkeerde bed’. </sup>   
 
 – Wanneer binnen deze 42-dagen periode na (de laatste) ontslagdatum nog een dagverpleging (1 of meer) of operatieve ingreep (1 of meer) plaatsvindt, dan wordt toch afgesloten op de 42e dag na ontslag uit de kliniek.  
 
@@ -259,7 +259,7 @@ c. Bij een niet-klinisch subtraject (dagverpleging of polikliniek) met een conse
 – met ZT21: op de 365e dag na de opening van het subtraject.    
 
 d. Op de 365e dag indien het subtraject na 365 dagen nog open staat. Eventueel kan op de volgende dag een volgend subtraject worden geopend.     
-9.2.  Van de in artikel 9.1 vermelde algemene afsluitregels mag uitsluitend worden afgeweken indien zich één of meer van de in dit artikellid opgesomde uitzonderingen voordoen. Dan geldt de genoemde afsluitingsregel. <sup> 16  Het nummer achter de uitzonderingregel correspondeert met het registratieaddendum van DBC-Onderhoud (zie bijlage 2).  </sup> 
+9.2.  Van de in artikel 9.1 vermelde algemene afsluitregels mag uitsluitend worden afgeweken indien zich één of meer van de in dit artikellid opgesomde uitzonderingen voordoen. Dan geldt de genoemde afsluitingsregel.<sup> 16 Het nummer achter de uitzonderingregel correspondeert met het registratieaddendum van DBC-Onderhoud (zie bijlage 2). </sup>  
 
 a. Sluitingsregels voor medicinale oncologische behandelingen, te weten (1.0000.1): 
 
@@ -300,7 +300,7 @@ Voor orale oncologische medicatie gelden de algemene regels voor het afsluiten v
 
 – een toediening per infuus of injectie tijdens een heropname binnen 42 dagen na ontslag van de voorgaande opname;  
 
-– een toediening per infuus of injectie in een niet klinische setting (dagverpleging of polikliniek) binnen 42 dagen na ontslag uit de kliniek.   Behandeling binnen een niet klinisch subtraject: Een niet klinisch subtraject ZT21 met een medicinale oncologische behandeling per infuus of injectie wordt 42 dagen na toediening per infuus of injectie afgesloten (behalve bij acute leukemie). Dit geldt niet indien er een nieuwe toediening per infuus of injectie binnen 42 dagen plaatsvindt, ongeacht of dit klinisch of niet klinisch gebeurt. Het subtraject wordt in die situatie één dag voor de datum van de nieuwe toediening gesloten en er wordt aansluitend een nieuw subtraject geopend. Voor orale oncologische medicatie geldt dat het subtraject ZT21 42 dagen na de uitvoerdatum van de eerste begeleidingszorgactiviteit binnen het subtraject afgesloten wordt. Alleen bij overgang naar een andere soort orale medicinale oncologische behandeling of na een toediening per infuus of injectie wordt het subtraject een dag voor de start van de andere therapie/toedieningsvorm gesloten en aansluitend een nieuw subtraject geopend. Bijvoorbeeld als een hormonale therapie wordt vervolgd door een chemotherapie of wanneer van orale chemotherapie wordt overgegaan op chemotherapie per infuus of injectie. <sup> 17  Zoals omschreven in registratieaddendum (zie bijlage 2).  </sup> Sluitingsregels voor medicinale oncologische behandeling per infuus of injectie van acute leukemie: Bij een medicinale oncologische behandeling van acute leukemie per infuus of injectie wordt het subtraject ZT21 gesloten op iedere 30ste behandeldag (klinische dag respectievelijk dagverpleging dag) of 42 dagen na de laatste behandeldag indien er minder dan 30 behandeldagen zijn geweest.  
+– een toediening per infuus of injectie in een niet klinische setting (dagverpleging of polikliniek) binnen 42 dagen na ontslag uit de kliniek.   Behandeling binnen een niet klinisch subtraject: Een niet klinisch subtraject ZT21 met een medicinale oncologische behandeling per infuus of injectie wordt 42 dagen na toediening per infuus of injectie afgesloten (behalve bij acute leukemie). Dit geldt niet indien er een nieuwe toediening per infuus of injectie binnen 42 dagen plaatsvindt, ongeacht of dit klinisch of niet klinisch gebeurt. Het subtraject wordt in die situatie één dag voor de datum van de nieuwe toediening gesloten en er wordt aansluitend een nieuw subtraject geopend. Voor orale oncologische medicatie geldt dat het subtraject ZT21 42 dagen na de uitvoerdatum van de eerste begeleidingszorgactiviteit<sup> 17 Zoals omschreven in registratieaddendum (zie bijlage 2). </sup> binnen het subtraject afgesloten wordt. Alleen bij overgang naar een andere soort orale medicinale oncologische behandeling of na een toediening per infuus of injectie wordt het subtraject een dag voor de start van de andere therapie/toedieningsvorm gesloten en aansluitend een nieuw subtraject geopend. Bijvoorbeeld als een hormonale therapie wordt vervolgd door een chemotherapie of wanneer van orale chemotherapie wordt overgegaan op chemotherapie per infuus of injectie. Sluitingsregels voor medicinale oncologische behandeling per infuus of injectie van acute leukemie: Bij een medicinale oncologische behandeling van acute leukemie per infuus of injectie wordt het subtraject ZT21 gesloten op iedere 30ste behandeldag (klinische dag respectievelijk dagverpleging dag) of 42 dagen na de laatste behandeldag indien er minder dan 30 behandeldagen zijn geweest.  
 
 |
 |
@@ -317,13 +317,13 @@ e. Bij niet-klinische subtrajecten urologie voor behandeling met blaasspoelingen
 
 f. Bij niet-klinische subtrajecten urologie voor behandeling met APD- of andere bisfosfonaat infusen wordt het subtraject telkens na 90 dagen afgesloten (1.0306.3).  
 
-g. Bij prenatale diagnostiek en intra-uteriene ingrepen (diagnosen Z14, Z15 en Z16 ) wordt het subtraject gynaecologie afgesloten één dag voor de andere prenatale diagnostiek of intra-uteriene ingreep, of conform de algemene regel als vermeld in artikel 9.1 indien de andere diagnostiek of ingreep later dan dit moment start (1.0307.1). <sup> 18  Zie bijlage 2 bij de beleidsregel ‘prestaties en tarieven medisch specialistische zorg’, typeringslijst gynaecologie.  </sup>  
+g. Bij prenatale diagnostiek en intra-uteriene ingrepen (diagnosen Z14, Z15 en Z16<sup> 18 Zie bijlage 2 bij de beleidsregel ‘prestaties en tarieven medisch specialistische zorg’, typeringslijst gynaecologie. </sup>) wordt het subtraject gynaecologie afgesloten één dag voor de andere prenatale diagnostiek of intra-uteriene ingreep, of conform de algemene regel als vermeld in artikel 9.1 indien de andere diagnostiek of ingreep later dan dit moment start (1.0307.1).  
 
 h. Een subtraject neonatologie wordt afgesloten op de dag van ontslag (ontslagdatum) van de neonaat uit het ziekenhuis (1.0316.1). Zie voor kindergeneeskunde ook de overige uitzonderingen in dit artikellid.  
 
 i. De looptijd van kinderoncologische subtrajecten in een centrum voor Kindergeneeskunde Oncologische behandeling met SKION stratificatie is altijd 365 dagen (1.0316.2). Zie voor kindergeneeskunde ook de overige uitzonderingen in dit artikellid.  
 
-j. Voor het specialisme cardiologie gelden voor subtrajecten met ZT11 en ZT21 niet de algemene afsluitregels maar wordt het subtraject als volgt afgesloten (1.0320.1) : <sup> 19  De algemene registratiebepalingen zoals beschreven in artikel 6 zijn voor alle specialismen van toepassing, waaronder cardiologie.  </sup> Bij opname in de kliniek of dagverpleging (geen hartrevalidatie) wordt het subtraject afgesloten: 
+j. Voor het specialisme cardiologie gelden voor subtrajecten met ZT11 en ZT21 niet de algemene afsluitregels maar wordt het subtraject als volgt afgesloten (1.0320.1)<sup> 19 De algemene registratiebepalingen zoals beschreven in artikel 6 zijn voor alle specialismen van toepassing, waaronder cardiologie. </sup>: Bij opname in de kliniek of dagverpleging (geen hartrevalidatie) wordt het subtraject afgesloten: 
 
 – op datum van ontslag uit de kliniek of dagverpleging behalve bij vervolg subtrajecten (ZT21) op de dagverpleging in het kader van diagnostiek of elektrocardioversie;  
 
@@ -365,7 +365,7 @@ s. Incongruentie gender Voor het conservatieve deel van genderzorg wordt een apa
 
 – Fase 2: de diagnostiek genderidentiteitsstoornis  
 
-– Fase 3: de real life of hormonale behandeling   Binnen een subtraject voor fase 1 dient bij het eerste face-to-face contact met de medisch psycholoog de zorgactiviteit 194162 ‘Intake face-to-face medisch psycholoog’ geregistreerd te worden. Een subtraject voor fase 1 heeft een looptijd van 365 dagen, tenzij binnen 365 dagen de diagnostiek genderidentiteitsstoornis start. In dat geval wordt het subtraject afgesloten één dag voor de registratie van de zorgactiviteit 036870 ‘Tentatieve diagnostische fase genderincongruentie’. Een subtraject voor fase 2 heeft een looptijd van 365 dagen tenzij binnen 365 dagen de real life of hormoon behandeling start (fase 3). In dat geval wordt het subtraject afgesloten op de dag van registratie van de zorgactiviteit 19005 “MDO”. Een subtraject voor fase 3 sluit volgens de algemene regels en wordt vervolgd zolang patiënt onderbehandeling is (in principe levenslang) (1.0000.5). <sup> 20  Voor subtrajecten voor de operatieve genderbehandelingen gelden de algemene afsluitregels.  </sup>  
+– Fase 3: de real life of hormonale behandeling   Binnen een subtraject voor fase 1 dient bij het eerste face-to-face contact met de medisch psycholoog de zorgactiviteit 194162 ‘Intake face-to-face medisch psycholoog’ geregistreerd te worden. Een subtraject voor fase 1 heeft een looptijd van 365 dagen, tenzij binnen 365 dagen de diagnostiek genderidentiteitsstoornis start. In dat geval wordt het subtraject afgesloten één dag voor de registratie van de zorgactiviteit 036870 ‘Tentatieve diagnostische fase genderincongruentie’. Een subtraject voor fase 2 heeft een looptijd van 365 dagen tenzij binnen 365 dagen de real life of hormoon behandeling start (fase 3). In dat geval wordt het subtraject afgesloten op de dag van registratie van de zorgactiviteit 19005 “MDO”. Een subtraject voor fase 3 sluit volgens de algemene regels en wordt vervolgd zolang patiënt onderbehandeling is (in principe levenslang) (1.0000.5).<sup> 20 Voor subtrajecten voor de operatieve genderbehandelingen gelden de algemene afsluitregels. </sup>   
 
 t. Bij de hierna volgende in tempi behandelingen van diverse specialismen mag het subtraject na één van de beschreven in tempi behandelingen worden afgesloten wanneer de volgende in tempi behandeling van start gaat. Wachten op het algemeen geldende sluitmoment als omschreven in artikel 9.1 (42, 90 of 365 dagen) is hier niet nodig. Wanneer de volgende deelbehandeling eerder start dan het in artikel 9.1 voorgeschreven afsluitmoment, dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende deelbehandeling start. Wanneer de volgende deelbehandeling later dan het algemeen geldende sluitmoment, als omschreven in artikel 9.1, start geldt deze algemene regel.  *Stamceltransplantatie (2.0000.1)*  Voor stamceltransplantatie (bij ontvanger) wordt een zorg/subtraject geopend (zo nodig parallel aan het medicinale (cytostatica) behandeltraject). De volgende drie fasen worden bij stamceltransplantatie onderscheiden: 
 
@@ -373,7 +373,7 @@ t. Bij de hierna volgende in tempi behandelingen van diverse specialismen mag he
 
 – Fase 2: transplantatie;  
 
-– Fase 3: nazorg (posttransplantatie).   Na iedere fase van de behandeling wordt het subtraject afgesloten op het bij artikel 9.2.t genoemde moment. Fase 3 wordt op de 365e dag na opening van het nazorgtraject afgesloten tenzij hertransplantatie (een nieuwe fase 1 en/of 2) plaatsvindt. In dat geval wordt het subtraject van fase 3 afgesloten één dag voor de dag dat fase 1 of fase 2 start.  *Begeleiding orgaantransplantatiezorg door beschouwende specialismen (2.0000.2)*  Voor de begeleiding van ontvangers rond orgaantransplantaties wordt door de specialismen cardiologie, inwendige geneeskunde, longgeneeskunde, MDL en kindergeneeskunde een eigen (eventueel) parallel) zorg/subtraject geopend. Hierbij worden drie fasen van behandeling onderscheiden: <sup> 21  Betreft transplantaties van darm, eilandjes, (partiële) lever, nier, pancreas en transplantaties van nier en pancreas.  </sup> 
+– Fase 3: nazorg (posttransplantatie).   Na iedere fase van de behandeling wordt het subtraject afgesloten op het bij artikel 9.2.t genoemde moment. Fase 3 wordt op de 365e dag na opening van het nazorgtraject afgesloten tenzij hertransplantatie (een nieuwe fase 1 en/of 2) plaatsvindt. In dat geval wordt het subtraject van fase 3 afgesloten één dag voor de dag dat fase 1 of fase 2 start.  *Begeleiding orgaantransplantatiezorg door beschouwende specialismen (2.0000.2)*  Voor de begeleiding van ontvangers rond orgaantransplantaties<sup> 21 Betreft transplantaties van darm, eilandjes, (partiële) lever, nier, pancreas en transplantaties van nier en pancreas. </sup> wordt door de specialismen cardiologie, inwendige geneeskunde, longgeneeskunde, MDL en kindergeneeskunde een eigen (eventueel) parallel) zorg/subtraject geopend. Hierbij worden drie fasen van behandeling onderscheiden: 
 
 – Fase 1: pretransplantatie fase/screening ontvangers;  
 
@@ -394,7 +394,7 @@ t. Bij de hierna volgende in tempi behandelingen van diverse specialismen mag he
 Oogheelkunde (2.0301.1) Bij behandeling met intravitreale injecties (diagnose 503, 609, 652, 655, 657, 659, 704, 705, 707, 709, 754, 755, 757 en 759) wordt per intravitreale injectie een subtraject geopend. Wanneer de behandeling met intravitreale injecties eerder start dan het in artikel 9.1 voorgeschreven afsluitmoment, dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende intravitreale injectie plaatsvindt. Oogheelkunde (2.0301.2) Bij behandeling van (sub)retinale pathologie (diagnose 659 en 704) met fotodynamische therapie wordt per fotodynamische therapie een subtraject geopend. Wanneer de fotodynamische therapie bij (sub)retinale pathologie eerder start dan het in artikel 9.1 voorgeschreven afsluitmoment, dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende fotodynamische therapie plaatsvindt. Oogheelkunde (2.0301.3) Wanneer de operatieve tempi behandeling van strabismus (diagnosecodes 204, 205, 209) eerder start dan het in artikel 9.1 voorgeschreven afsluitmoment, dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende strabismus operatie plaatsvindt. Oogheelkunde (2.0301.4) Wanneer de operatieve tempi behandeling van retina defect/-retinaloslating (diagnosecodes 654) eerder start dan het in artikel 9.1 voorgeschreven afsluitmoment, dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende operatieve behandeling van het retina defect/retinaloslating. Plastische chirurgie (2.0304.1) Bij mammareconstructie vindt afsluiting van het subtraject na iedere operatieve tempi behandeling plaats op het bij artikel 9.2.t genoemde moment. Plastische chirurgie (2.0304.2) Bij meer transplantatiesessies bij de behandeling van uitgebreide (brand)wonden wordt na iedere transplantatiesessie het subtraject afgesloten op het bij artikel 9.2.t genoemde moment. Urologie (2.0306.1) Bij niet-klinische ESWL behandeling van urinewegstenen wordt per ESWL behandeling een subtraject geopend. Wanneer de volgende ESWL behandeling eerder start dan het in artikel 9.1 voorgeschreven moment dan mag het subtraject worden afgesloten één dag voor de dag dat de volgende ESWL behandeling plaatsvindt. Dit geldt ook wanneer een niet-klinische ESWL gevolgd wordt door een operatieve ingreep voor urinewegstenen. Gynaecologie (2.0307.1) De subtrajecten bij diagnose F21 ‘gespecialiseerde technieken’ voor stimulatie respectievelijk de IUI/IVF/ICSI technieken en ovulatie-inductie met gonadotrofines worden per cyclus geopend en gesloten (dus 1 subtraject per cyclus). Indien de behandeling in meer ziekenhuizen (transport-IVF/ICSI) plaatsvindt opent ieder ziekenhuis de (deel)behandeling die daar wordt uitgevoerd. Het subtraject wordt gesloten op de 42e dag na de start van behandelcyclus tenzij binnen 42 dagen een nieuwe behandelcyclus start. Het subtraject wordt dan één dag voor de datum van start van de nieuwe behandelcyclus gesloten en aansluitend wordt een nieuw subtraject geopend. Kindergeneeskunde (2.0316.1) Voor de niet-klinische chronische verstrekking van geneesmiddelen per infuus of per injectie (voor niet oncologische indicatie), wordt per drie verstrekkingen een subtraject geopend. Wanneer de vierde verstrekking eerder plaatsvindt dan het in artikel 9.1 voorgeschreven afsluitmoment dan wordt het subtraject afgesloten één dag voor de dag dat de volgende verstrekking per infuus of injectie plaatsvindt (dus op het in artikel 9.2.t genoemde moment). Kindergeneeskunde (2.0316.2) Voor de niet-klinische behandeling met bloedtransfusies op niet oncologische indicatie wordt per drie bloedtransfusies een subtraject geopend. Wanneer de vierde bloedtransfusie eerder plaatsvindt dan het in artikel 8.s voorgeschreven afsluitmoment dan wordt het subtraject afgesloten één dag voor de dag dat de volgende bloedtransfusie gegeven wordt (dus op het in artikel 9.2.t genoemde moment). Kindergeneeskunde (2.0316.3) Voor de niet-klinische behandeling met bloedtransfusies op oncologische indicatie in centra zonder SKION stratificatie, wordt per bloedtransfusie een subtraject geopend. Wanneer de volgende bloedtransfusie eerder plaatsvindt dan het in artikel 9.1 voorgeschreven afsluitmoment dan wordt het subtraject afgesloten één dag voor de dag dat de volgende bloedtransfusie gegeven wordt (dus op het in artikel 9.2.t genoemde moment). Kindergeneeskunde (2.0316.4) Bij behandeling middels plasmafiltratie en LDL aferese wordt per drie behandelingen een subtraject geopend. Wanneer de vierde behandeling eerder plaatsvindt dan het in artikel 9.1 voorgeschreven afsluitmoment dan wordt het subtraject afgesloten één dag voor de dag dat de vierde behandeling plaatsvindt (dus op het in artikel 9.2.t genoemde moment). Zie voor kindergeneeskunde ook de overige uitzonderingen in dit artikellid.     
 9.3.  Een subtraject met ZT13 (intercollegiaal consult) wordt afgesloten wanneer de klinische opname van het bijbehorende zorgtraject wordt beëindigd.   
 9.4.  Een subtraject met ZT41 (bij levering van een overig zorgproduct door een poortspecialist op verzoek van de eerstelijn of een specialisme werkzaam binnen dezelfde instelling waarvoor de DBC-systematiek niet geldt) wordt afgesloten wanneer het bijbehorende zorgtraject wordt afgesloten.   
-9.5.  Een subtraject met ZT51 en 52, met betrekking tot de opname op een IC-afdeling, wordt afgesloten wanneer het bijbehorende IC-zorgtraject wordt afgesloten. Een subtraject met ZT51 met betrekking tot het leveren van zorg in het kader van ondersteuning aan de hoofdbehandelaar, wordt afgesloten wanneer het bijbehorende zorgtraject wordt afgesloten.   
+9.5.  Een subtraject met ZT51 en 52, met betrekking tot de opname op een IC-afdeling, wordt afgesloten wanneer het bijbehorende IC-zorgtraject wordt afgesloten. Een subtraject met ZT51 met betrekking tot het leveren van zorg in het kader van ondersteuning aan de hoofdbehandelaar, wordt afgesloten wanneer het bijbehorende zorgtraject wordt afgesloten.  
 
 ### Artikel  10  
 
@@ -416,7 +416,7 @@ c. Voor het poortspecialisme cardiologie gelden specifieke afsluitregels voor zo
 
 10.4 Een zorgtraject met een subtraject met ZT51 of 52, met betrekking tot een opname op de IC-afdeling en een IC intercollegiaal consult buiten de IC, wordt afgesloten op het moment dat de patiënt van de IC-afdeling wordt ontslagen of op de dag van uitvoering van het IC intercollegiaal consult. Als het IC zorg/subtraject 51 nog loopt terwijl het bovenliggende subtraject van de hoofdbehandelaar wordt afgesloten, wordt het zorg/subtraject 51 afgesloten op hetzelfde moment als het bovenliggende subtraject van de hoofdbehandelaar. Gelijktijdig met het openen van een vervolg subtraject voor de hoofdbehandelaar wordt een nieuw IC zorg/subtraject 51 geopend. Daarbij geldt dat het subtraject ZT51 met de zorgactiviteiten tegelijk met het bovenliggende subtraject van de hoofdbehandelaar naar een grouper gestuurd dient te worden. Dit mag pas nadat het subtraject van de hoofdbehandelaar is afgesloten conform de afsluitregels in artikel 8.5.  
 
-10.5 en zorgtraject met een subtraject met ZT51 met betrekking tot het leveren van zorg in het kader van ondersteuning aan de hoofdbehandelaar wordt afgesloten wanneer het subtraject van de hoofdbehandelaar wordt afgesloten conform de afsluitregels in artikel 9.1. Daarbij geldt dat het subtraject met de zorgactiviteiten tegelijk met het subtraject van de hoofdbehandelaar naar een grouper gestuurd dient te worden. Dit mag pas nadat het subtraject van de hoofdbehandelaar is afgesloten conform de afsluitregels in artikel 9.1.    
+10.5 en zorgtraject met een subtraject met ZT51 met betrekking tot het leveren van zorg in het kader van ondersteuning aan de hoofdbehandelaar wordt afgesloten wanneer het subtraject van de hoofdbehandelaar wordt afgesloten conform de afsluitregels in artikel 9.1. Daarbij geldt dat het subtraject met de zorgactiviteiten tegelijk met het subtraject van de hoofdbehandelaar naar een grouper gestuurd dient te worden. Dit mag pas nadat het subtraject van de hoofdbehandelaar is afgesloten conform de afsluitregels in artikel 9.1.   
 
 ### Artikel  11  
 
@@ -426,7 +426,7 @@ c. Voor het poortspecialisme cardiologie gelden specifieke afsluitregels voor zo
 
 11.2 Openen zorgtrajecten in 2013 van voortdurende behandelingen uit 2012 Lopende behandelingen voor GRZ gestart in 2012, moeten per 1 januari 2013 worden vastgelegd in zorgactiviteiten voor GRZ (zorgactiviteitcodes 194800 t/m 194842) volgens de DBC registratievoorschriften. Als openingsdatum van deze zorgtrajecten moet 1 januari 2013 worden gebruikt.  
 
-11.3 Openen zorgtrajecten voor behandelingen gestart in 2013 Behandelingen voor GRZ die gestart zijn in 2013, worden vastgelegd in zorgactiviteiten zoals weergegeven in de DBC-zorgproductgroep ‘Geriatrische revalidatiezorg’ (998418). Als openingsdatum van deze zorgtrajecten moet een datum vanaf 2 januari 2013 worden gebruikt.    
+11.3 Openen zorgtrajecten voor behandelingen gestart in 2013 Behandelingen voor GRZ die gestart zijn in 2013, worden vastgelegd in zorgactiviteiten zoals weergegeven in de DBC-zorgproductgroep ‘Geriatrische revalidatiezorg’ (998418). Als openingsdatum van deze zorgtrajecten moet een datum vanaf 2 januari 2013 worden gebruikt.   
 
 ####Afleiden
 
@@ -437,7 +437,7 @@ c. Voor het poortspecialisme cardiologie gelden specifieke afsluitregels voor zo
 12.1.  De zorgaanbieder gebruikt voor de afleiding uitsluitend een grouper waarvan is gegarandeerd dat deze een 100% betrouwbare, juiste en verifieerbare afleiding verzorgt. De afleiding moet op basis van de beslisbomen, -tabellen, en -afsluitregels die gelden op het moment van opening van het subtraject.   
 12.2.  Een grouper als bedoeld in het vorige lid, voldoet aantoonbaar aan de volgende voorwaarden en specificaties: 
 
-a. Een grouper komt alleen tot afleiding als de input valide is. <sup> 22  Onder input wordt de data verstaan die aan een grouper wordt aangeboden, zoals een subtraject en zorgactiviteiten.  </sup>  
+a. Een grouper komt alleen tot afleiding als de input<sup> 22 Onder input wordt de data verstaan die aan een grouper wordt aangeboden, zoals een subtraject en zorgactiviteiten. </sup> valide is.  
 
 b. Een grouper past geen zorgactiviteiten of typeringen van subtrajecten aan.  
 
@@ -451,7 +451,7 @@ f. Een grouper voorziet in een functionaliteit om proefaanleveringen en bepaling
 
 g. Er bestaat een formele gestandaardiseerde procedure voor de communicatie en uitlevering van nieuwe versies van stamtabellen of softwarespecificaties. Hierin is altijd inzichtelijk welke stamtabellen en specificaties toegepast zijn.     
 12.3.  Van een gedeclareerd DBC-zorgproduct moet altijd, middels een hash-functionaliteit, traceerbaar zijn dat het is afgeleid door een bepaalde grouper.   
-12.4.  Op eerste verzoek wordt er middels een audit aangetoond dat er wordt voldaan aan de specificaties, zoals genoemd in artikel 12.1 t/m 12.3.   
+12.4.  Op eerste verzoek wordt er middels een audit aangetoond dat er wordt voldaan aan de specificaties, zoals genoemd in artikel 12.1 t/m 12.3.  
 
 ####Declareren en betalen
 
@@ -462,13 +462,13 @@ g. Er bestaat een formele gestandaardiseerde procedure voor de communicatie en u
 13.1.  De zorginstelling declareert in één integrale declaratie het totale tarief van het zorgproduct, inclusief het honorarium (indien van toepassing) voor specialisten werkzaam in de instelling. Intramurale vrijgevestigd medisch specialisten declareren de honorariumbedragen aan of via de zorginstelling volgens de [regeling ‘Beheersmodel honoraria vrijgevestigd medisch specialisten’](../../../../../../zbo/beheersmodel/honoraria/vrijgevestigd/medisch/specialisten/BWBR0034152/README.md).   
 13.2.  Het honorariumbedrag mag uitsluitend via de zorginstelling worden betaald.   
 13.3.  De zorgaanbieder (niet een grouper) als bedoeld in artikel 2 is verantwoordelijk voor de juiste declaratie van een DBC-zorgproduct en/of overig zorgproduct.   
-13.4.  Indien sprake is van onderlinge dienstverlening, kan de uitvoerder de vergoeding daarvoor uitsluitend in rekening brengen aan de (medisch specialist binnen de) instelling die de patiënt in behandeling heeft en de prestatie bij de uitvoerder heeft aangevraagd.   
+13.4.  Indien sprake is van onderlinge dienstverlening, kan de uitvoerder de vergoeding daarvoor uitsluitend in rekening brengen aan de (medisch specialist binnen de) instelling die de patiënt in behandeling heeft en de prestatie bij de uitvoerder heeft aangevraagd.  
 
 ### Artikel  14  
 
 ####Declaratiebepalingen voor DBC-zorgproducten
 
-14.1.  De startdatum van het DBC-zorgproduct bepaalt bij welke zorgverzekeraar wordt gedeclareerd. <sup> 23  Indien op de openingsdatum van het DBC-zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het DBC-zorgproduct bij de patiënt worden gedeclareerd.  </sup>   
+14.1.  De startdatum van het DBC-zorgproduct bepaalt bij welke zorgverzekeraar wordt gedeclareerd.<sup> 23 Indien op de openingsdatum van het DBC-zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het DBC-zorgproduct bij de patiënt worden gedeclareerd. </sup>    
 14.2.  Een zorgaanbieder mag een DBC-zorgproduct alleen declareren indien de prestatie is vastgelegd volgens de in deze regeling vastgestelde registratiebepalingen.   
 14.3.  Bij declaratie van een DBC-zorgproduct vermeldt de zorgaanbieder het subtrajectnummer.   
 14.4.  Declaratie van parallelle DBC-zorgproducten is niet toegestaan indien de onderliggende diagnoses voorkomen in de diagnose-combinatietabel.   
@@ -477,22 +477,22 @@ g. Er bestaat een formele gestandaardiseerde procedure voor de communicatie en u
 14.7.  Wanneer een cardioloog en een cardiochirurg samen een AICD-implantatie uitvoeren, dan kan hiervoor één DBC-zorgproduct worden gedeclareerd.   
 14.8.  Een DBC-zorgproduct voor topreferente kinderoncologie (990116005, 990116009, 990116010, 990116014, 990116015, 990116016, 990116019, 990116020, 990116022, 990116023, 990116025, 990116027 en 990116029) kan niet in combinatie met een ander DBC-zorgproduct kindergeneeskunde (zorgproductgroep 990116) worden gedeclareerd.   
 14.9.  Wanneer een kinderarts en een neuroloog samen een epilepsie behandeling (zorgproductgroep 69899) uitvoeren, dan kan hiervoor één DBC-zorgproduct uit de zorgproductgroep 69899 worden gedeclareerd.   
-14.10.  Een DBC-zorgproduct voor multitrauma (199299002) mag per instelling door één specialisme worden gedeclareerd.   
+14.10.  Een DBC-zorgproduct voor multitrauma (199299002) mag per instelling door één specialisme worden gedeclareerd.  
 
 ### Artikel  15  
 
 ####Declaratiebepalingen voor overige zorgproducten
 
-15.1.  Een overig zorgproduct wordt gedeclareerd bij de zorgverzekeraar waar de verzekering liep op het moment van de uitvoerdatum van het overige zorgproduct. <sup> 24  Indien op de uitvoeringsdatum van het overige zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het overige zorgproduct bij de patiënt worden gedeclareerd.  </sup>   
+15.1.  Een overig zorgproduct wordt gedeclareerd bij de zorgverzekeraar waar de verzekering liep op het moment van de uitvoerdatum van het overige zorgproduct.<sup> 24 Indien op de uitvoeringsdatum van het overige zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het overige zorgproduct bij de patiënt worden gedeclareerd. </sup>    
 15.2.  Een overig zorgproduct uit de categorieën eerstelijns diagnostiek en paramedische zorg en behandeling, kan alleen in rekening worden gebracht als er sprake is van: 
 
-a. Een verzoek voor het uitvoeren van dit overige zorgproduct van de eerstelijn, waarbij dit overige zorgproduct niet binnen één week na uitvoering leidt tot opening van een zorgtraject, of <sup> 25  Voor een overig zorgproduct spermaonderzoek (070801, 078012, 078013 en 078110) is een verwijzing van de eerstelijn niet noodzakelijk als dit onderzoek wordt uitgevoerd op verzoek van de gynaecoloog in het kader van een fertiliteitsspreekuur. Als een overig zorgproduct INR-bepaling (079995) wordt uitgevoerd in het kader van een reguliere controle bij een patiënt die al in behandeling is bij een trombosedienst, is geen nieuwe verwijzing nodig. Bij het initieel in behandeling nemen van de patiënt in een trombosedienst is wel een verwijzing nodig.  </sup>  
+a. Een verzoek voor het uitvoeren van dit overige zorgproduct van de eerstelijn,<sup> 25 Voor een overig zorgproduct spermaonderzoek (070801, 078012, 078013 en 078110) is een verwijzing van de eerstelijn niet noodzakelijk als dit onderzoek wordt uitgevoerd op verzoek van de gynaecoloog in het kader van een fertiliteitsspreekuur. Als een overig zorgproduct INR-bepaling (079995) wordt uitgevoerd in het kader van een reguliere controle bij een patiënt die al in behandeling is bij een trombosedienst, is geen nieuwe verwijzing nodig. Bij het initieel in behandeling nemen van de patiënt in een trombosedienst is wel een verwijzing nodig. </sup> waarbij dit overige zorgproduct niet binnen één week na uitvoering leidt tot opening van een zorgtraject, of  
 
 b. Een verzoek voor het uitvoeren van dit overige zorgproduct van een specialisme werkzaam binnen dezelfde instelling, waarvoor de DBC-systematiek niet geldt, of  
 
 c. Verpleging in de thuissituatie, noodzakelijk in verband met medisch specialistische zorg zoals beschreven in de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met Medisch-specialistische zorg‘, of  
 
-d. Directe toegang tot ergotherapie, fysiotherapie, logopedie, dieetadvisering, orthoptie of prenatale screening, waarbij betreffende zorgactiviteiten niet uitgevoerd worden in het kader van een zorgtraject of op aanvraag van een hoofdbehandelaar. <sup> 26  De zorgaanbieder moet altijd kunnen aantonen dat de uitgevoerde behandeling i.h.k.v. directe toegang niet voortvloeit uit de zorgvraag van een bestaand zorgtraject.  </sup>     
+d. Directe toegang tot ergotherapie, fysiotherapie, logopedie, dieetadvisering, orthoptie of prenatale screening, waarbij betreffende zorgactiviteiten niet uitgevoerd worden in het kader van een zorgtraject of op aanvraag van een hoofdbehandelaar.<sup> 26 De zorgaanbieder moet altijd kunnen aantonen dat de uitgevoerde behandeling i.h.k.v. directe toegang niet voortvloeit uit de zorgvraag van een bestaand zorgtraject. </sup>      
 15.3.  Indien er sprake is van onderlinge dienstverlening kan door de uitvoerende instelling geen DBC-zorgproduct of overig zorgproduct worden gedeclareerd. Alleen door de instelling waar de patiënt als eigen patiënt onder behandeling is, wordt een DBC-zorgproduct of overig zorgproduct in rekening gebracht. Deze bepaling is niet van toepassing op WBMV-zorg. In dat geval mag de uitvoerende instelling wel een DBC-zorgproduct in rekening brengen en een zorgtraject openen volgens de algemeen geldende regels.   
 15.4.  Een add-on mag tussentijds, dat wil zeggen ‘na uitvoering’ en ‘los van het zorgproduct’ worden gedeclareerd.   
 15.5.  Een add-on IC mag per kalenderdag worden gedeclareerd.   
@@ -500,7 +500,7 @@ d. Directe toegang tot ergotherapie, fysiotherapie, logopedie, dieetadvisering, 
 15.7.  Bij declaratie van een add-on wordt het subtrajectnummer van het zorgproduct waarop het betrekking heeft meegestuurd. Indien er sprake is van een IC met zorgtype 52 wordt het (eigen) subtrajectnummer meegestuurd.   
 15.8.  Als er geen contractuele overeenkomst is tussen de instelling voor medisch specialistische zorg en de zorgverzekeraar, mag alleen de IC behandeldag ‘licht’ in rekening worden gebracht.   
 15.9.  De toeslag ECMO kan alleen in rekening gebracht worden als op een kalenderdag op enig moment sprake is geweest van Extra Corporele Membraan Oxygenatie therapie bij een patiënt op neonatale IC of pediatrische IC. De therapie wordt uitgevoerd in aansluiting op een cardiale chirurgische of bij pulmonale of niet-operatieve cardiale problematiek waarbij de kwaliteitsindicator voorschrijft dat er minimaal 1x per maand een ECMO therapie op neonatale IC of pediatrische IC moet worden uitgevoerd. De therapie start bij de voorbereiding van de canulatie (12 uur voorafgaand aan ECMO) en eindigt 24 uur na decanulatie. De ECMO prestatie kan als zijnde een toeslag naast de Neonatale intensive care of Pediatrische intensive care gedeclareerd worden.   
-15.10.  Een add-on weesgeneesmiddel mag alleen worden gedeclareerd indien geleverd door een daartoe in een tariefbeschikking aangewezen instelling. <sup> 27  Deze declaratiebepaling is niet van toepassing op een add-on voor het weesgeneesmiddel lenalidomide (zorgproductcodes 194600 t/m 194603).  </sup>   
+15.10.  Een add-on weesgeneesmiddel mag alleen worden gedeclareerd indien geleverd door een daartoe in een tariefbeschikking aangewezen instelling.<sup> 27 Deze declaratiebepaling is niet van toepassing op een add-on voor het weesgeneesmiddel lenalidomide (zorgproductcodes 194600 t/m 194603). </sup>    
 15.11.  Een overig zorgproduct uit de categorie supplementaire producten kan naast een DBC-zorgproduct worden gedeclareerd.   
 15.12.  Een overig zorgproduct (039702 t/m 039736, 039741 t/m 039752, 039760 t/m 039793, 039796 t/m 039806, 039863 en 039864) voor klinische neurofysiologie (KNF) mag naast een DBC-zorgproduct worden gedeclareerd, indien: 
 
@@ -522,7 +522,7 @@ d. Directe toegang tot ergotherapie, fysiotherapie, logopedie, dieetadvisering, 
 15.17.  Het overig zorgproduct toeslag op ordertarief bij decentrale afname van patiëntmateriaal (079990) mag alleen in combinatie met het overig zorgproduct ordertarief klinisch-chemische en microbiologische laboratorium (079991) worden gedeclareerd. Deze prestatie mag niet in combinatie met het overig zorgproduct huisbezoek (079992) worden gedeclareerd.   
 15.18.  Voor de SOA-tests voor Chlamydia, Gonorroe, Herpes Genitalis en Trichomoras mag alleen de prestatie DNA-amplificatie, kwalitatief, geautomatiseerd (070003) worden gedeclareerd. Hiervoor mogen niet de overige zorgproducten 070004, 070005 of 070006 worden gedeclareerd.   
 15.19.  Bij de overige zorgproducten ten behoeve van de standaardprestatie rijbewijskeuring (119027 en 119028) kan de prestatie ‘toeslag rijbewijskeuring’ (119029 en 119030) in rekening worden gebracht, wanneer de patiëntgebonden tijd meer dan 15 minuten bedraagt. De standaardprestatie bestaat uit 15 minuten indirecte tijd en 15 minuten patiëntgebonden tijd. De zorgverlener dient de patiënt te informeren wanneer hij verwacht gebruik te maken van deze toeslag bovenop de standaardprestatie. Deze toeslagprestatie kan meerdere keren in rekening worden gebracht, per 15 minuten patiëntgebonden tijd dat de keuring langer duurt dan de standaardprestatie.   
-15.20.  Naast de declaratiebepalingen voor een overig zorgproduct in deze regeling, gelden ook de specifieke prestatieomschrijvingen zoals vermeld in de Beleidsregel ‘prestaties en tarieven medisch specialistische zorg’.   
+15.20.  Naast de declaratiebepalingen voor een overig zorgproduct in deze regeling, gelden ook de specifieke prestatieomschrijvingen zoals vermeld in de Beleidsregel ‘prestaties en tarieven medisch specialistische zorg’.  
 
 ### Artikel  16  
 
@@ -530,14 +530,14 @@ d. Directe toegang tot ergotherapie, fysiotherapie, logopedie, dieetadvisering, 
 
 16.1.  Een zorgaanbieder mag een DBC-zorgproduct vóór de, algemene sluitingsregels uit artikel 9.1 declareren indien is voldaan aan onderstaande voorwaarden: 
 
-a. De zorgaanbieder heeft geen overeenkomst met een zorgverzekeraar, en <sup> 28  Onder overeenkomst wordt verstaan: een overeenkomst voor de levering van (bepaalde) zorg.  </sup>  
+a. De zorgaanbieder heeft geen overeenkomst<sup> 28 Onder overeenkomst wordt verstaan: een overeenkomst voor de levering van (bepaalde) zorg. </sup> met een zorgverzekeraar, en  
 
 b. De behandelend specialist heeft vastgesteld dat de feitelijke behandeling in het kader van het betreffende subtraject is beëindigd; en  
 
 c. Alle registratieregels zijn in acht genomen (met dien verstande dat de sluitingsdatum een toekomstige datum is); en  
 
 d. Er is geen sprake van uitzonderingen op de afsluitregels, zoals genoemd in artikel 9.2.     
-16.2.  De terugvaloptie in artikel 16.1 vervalt met terugwerkende kracht als de onder b bedoelde behandeling vóór de onder c bedoelde toekomstige sluitingsdatum wordt hervat.   
+16.2.  De terugvaloptie in artikel 16.1 vervalt met terugwerkende kracht als de onder b bedoelde behandeling vóór de onder c bedoelde toekomstige sluitingsdatum wordt hervat.  
 
 ####Informeren
 
@@ -559,9 +559,9 @@ e. DBC-declaratiecode: Een 6-cijferige code die het zorgproduct en het geregulee
 
 f. Subtrajectnummer: Een uniek nummer waarmee het subtraject binnen de instelling wordt geïdentificeerd.  
 
-g. Hash-code : Een code welke aangeeft dat de prestatie door een grouper is afgeleid. <sup> 29  Indien er tussen de zorgaanbieder en zorgverzekeraar afspraken zijn vastgelegd om het gebruik van een grouper te borgen, is het vermelden van de hash-code bij de declaratie niet verplicht.  </sup>  
+g. Hash-code<sup> 29 Indien er tussen de zorgaanbieder en zorgverzekeraar afspraken zijn vastgelegd om het gebruik van een grouper te borgen, is het vermelden van de hash-code bij de declaratie niet verplicht. </sup>: Een code welke aangeeft dat de prestatie door een grouper is afgeleid.  
 
-h. Kostenbedrag en honorariumbedrag: Op de declaratie dient het totale DBC-zorgproduct tarief uitgesplitst te zijn in een kostenbedrag voor de zorginstelling, en een bedrag voor de honoraria voor de medisch specialisten. Het totaalbedrag voor de honoraria voor de medisch specialisten dient gelijk te zijn aan de optelling van de honorariumbedragen per specialisme. <sup> 30  De verplichting voor uitsplitsing geldt niet als het zorgproduct alleen een kostenbedrag (integrale tarieven) heeft zoals een groot deel van de producten voor (geriatrische) revalidatiegeneeskunde en klinische genetica.  </sup>  
+h. Kostenbedrag en honorariumbedrag: Op de declaratie dient het totale DBC-zorgproduct tarief uitgesplitst te zijn<sup> 30 De verplichting voor uitsplitsing geldt niet als het zorgproduct alleen een kostenbedrag (integrale tarieven) heeft zoals een groot deel van de producten voor (geriatrische) revalidatiegeneeskunde en klinische genetica. </sup> in een kostenbedrag voor de zorginstelling, en een bedrag voor de honoraria voor de medisch specialisten. Het totaalbedrag voor de honoraria voor de medisch specialisten dient gelijk te zijn aan de optelling van de honorariumbedragen per specialisme.  
 
 i. DBC-zorgproductcode: De DBC-zorgproductcode is opgebouwd uit een DBC-zorgproductgroepcode (zes posities) aangevuld met de code van het DBC-zorgproduct binnen de groep (drie posities).  
 
@@ -585,7 +585,7 @@ l. Type verwijzer: Op de declaratie dient het type verwijzer vermeld te worden n
 
 7. Eigen patiënt (bijvoorbeeld ingeval vervolg traject of nieuwe zorgvraag van eigen patiënt).  
 
-8. Verwezen patiënt niet-SEH vanuit eerstelijn, maar verwijzer heeft geen AGB-code (bijvoorbeeld ingeval van optometristen). <sup> 31  Dit type verwijzer kan ook worden gebruikt voor een verwijzer uit het buitenland die geen AGB-code heeft.  </sup>    
+8. Verwezen patiënt niet-SEH vanuit eerstelijn, maar verwijzer heeft geen AGB-code (bijvoorbeeld ingeval van optometristen).<sup> 31 Dit type verwijzer kan ook worden gebruikt voor een verwijzer uit het buitenland die geen AGB-code heeft. </sup>     
 
 m. AGB-code verwijzer: Indien er sprake is van type verwijzer genoemd onder l3, l4 en l6 dient op de declaratie een AGB-code (8 posities) van de verwijzende zorgaanbieder (instelling/praktijk) of zorgverlener (natuurlijk persoon) vermeld te worden.  
 
@@ -636,7 +636,7 @@ h. AGB-code verwijzer: Indien er sprake is van type verwijzer genoemd onder f5 e
 
 i. AGB-code verwijzend specialisme: Indien er sprake is van type verwijzer genoemd onder f5, f6 of f7 dient op de declaratie ook een AGB-code (4 posities) van het specialisme vermeld te worden.  
 
-j. Kostenbedrag en honorariumbedrag: Op de declaratie dient het totale zorgproduct tarief uitgesplitst te zijn in een kostenbedrag voor de zorginstelling en een bedrag voor de honoraria voor de medisch specialistische zorg. Daarbij dient duidelijk herkenbaar te zijn welk deel van het tarief honorarium van medisch specialisten betreft. <sup> 32  De verplichting voor uitsplitsing geldt niet als het overige zorgproduct alleen een kostenbedrag kent.  </sup>     
+j. Kostenbedrag en honorariumbedrag: Op de declaratie dient het totale zorgproduct tarief uitgesplitst te zijn<sup> 32 De verplichting voor uitsplitsing geldt niet als het overige zorgproduct alleen een kostenbedrag kent. </sup> in een kostenbedrag voor de zorginstelling en een bedrag voor de honoraria voor de medisch specialistische zorg. Daarbij dient duidelijk herkenbaar te zijn welk deel van het tarief honorarium van medisch specialisten betreft.     
 17.3.  Overzicht minimale informatieverplichting per soort overige zorgproduct De minimale informatieverplichting bij declaratie van overige zorgproducten wordt weergegeven in onderstaande tabel. Voor de add-on IC en add-on dure en weesgeneesmiddelen geldt een aanvullende informatieverplichting. De letters in de kolommen corresponderen met de onderdelen van artikel 17.2.  Tabel 1. Informatieverplichting overige zorgproducten 
 
 |--- | a  | b  | c  | d  | e  | f  | g  | h  | i  | j  |
@@ -663,11 +663,11 @@ d. De standaard prijslijst bevat de geldende prijzen en de datum waarop deze in 
 
 e. Indien de zorgaanbieder een website heeft, plaatst de zorgaanbieder de standaard prijslijst van jaar t en t-1 op de website.  
 
-f. De zorgaanbieder draagt er zorg voor dat het voor een consument op eenvoudige wijze mogelijk is om voor aanvang van een behandelingsovereenkomst op afstand kennis te nemen van de standaard prijslijst. Op aanvraag informeert de zorgaanbieder een consument via de telefoon over de prijzen op de standaard prijslijst. Op aanvraag stuurt de zorgaanbieder een consument binnen achtenveertig uur per post of digitaal de gevraagde prijsinformatie toe.      
+f. De zorgaanbieder draagt er zorg voor dat het voor een consument op eenvoudige wijze mogelijk is om voor aanvang van een behandelingsovereenkomst op afstand kennis te nemen van de standaard prijslijst. Op aanvraag informeert de zorgaanbieder een consument via de telefoon over de prijzen op de standaard prijslijst. Op aanvraag stuurt de zorgaanbieder een consument binnen achtenveertig uur per post of digitaal de gevraagde prijsinformatie toe.     
 
-Nederlandse Zorgautoriteit, 
-T.W.Langejan,
-voorzitter Raad van Bestuur.  
+Nederlandse Zorgautoriteit,
+T.W. Langejan,  
+voorzitter Raad van Bestuur.   
 
 ### Bijlage  1  
 
