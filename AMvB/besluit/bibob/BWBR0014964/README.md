@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 oktober 2002, nr. EA2002/88934, directoraat-generaal Openbare Orde en Veiligheid, mede namens Onze Minister van Justitie, in overeenstemming met Onze Minister van Verkeer en Waterstaat;
 
-Gelet op de artikelen 1, tweede lid, 5, tweede lid, 7, tweede lid, 16, tweede lid, 27, eerste lid, onderdeel i, en vijfde lid, en 46 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;
+Gelet op de [artikelen 1, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [5, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md),[ 7, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [16, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [27, eerste lid, onderdeel i, en vijfde lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), en [46 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
 
 De Raad van State gehoord (advies van 28 november 2002, nr. W04.02.0448/I);
 
@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder «wet»: de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.  
+In dit besluit wordt verstaan onder «wet»: de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
 
 ### Artikel  2  
 
-Als rechtspersoon met een overheidstaak als bedoeld in artikel 1, tweede lid, van de wet, worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen.  
+Als rechtspersoon met een overheidstaak als bedoeld in [artikel 1, tweede lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen. 
 
 ### Artikel  3  
 
-Als sectoren als bedoeld in artikel 5, tweede lid, van de wet, worden aangewezen: 
+Als sectoren als bedoeld in [artikel 5, tweede lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen: 
 
 a. de bouw,  
 
@@ -33,7 +33,7 @@ c. het milieu.
 
 ### Artikel  5  
 
-Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in artikel 16 van de wet, vast aan de hand van: 
+Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in [artikel 16 van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), vast aan de hand van: 
 
 a. de werkelijk gemaakte kosten die het Bureau voor de behandeling van de aanvraag heeft moeten maken,  
 
@@ -41,11 +41,11 @@ b. het aantal aanvragen dat in het afgelopen kalenderjaar is ingediend,
 
 c. het verwachte totale aantal aanvragen dat in het lopende kalenderjaar zal worden ingediend,  
 
-d. het verwachte aantal aanvragen dat in het eerstvolgende kalenderjaar zal worden ingediend.    
+d. het verwachte aantal aanvragen dat in het eerstvolgende kalenderjaar zal worden ingediend.   
 
 ### Artikel  6  
 
-Als bestuursorganen als bedoeld in artikel 27, eerste lid, onderdeel i, van de wet, worden aangewezen: 
+Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen: 
 
 a. Onze Minister van Veiligheid en Justitie, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door het Centraal Justitieel Incasso Bureau;  
 
@@ -53,20 +53,20 @@ b. Onze Minister van Infrastructuur en Milieu, voor zover het bestanden betreft 
 
 c. de Inspectie Leefomgeving en Transport, domeinen Transport;  
 
-d. de Dienst Wegverkeer.    
+d. de Dienst Wegverkeer.   
 
 ### Artikel  7  
 
-1.  De bestuursorganen, genoemd in artikel 6, en de bestuursorganen, genoemd in artikel 27, eerste lid, van de wet, alsmede de gerechten bedoeld in artikel 27a van de wet, verstrekken de gegevens, bedoeld in de aanhef van artikel 27, eerste lid, van de wet, binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.   
+1.  De bestuursorganen, genoemd in artikel 6, en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), alsmede de gerechten bedoeld in [artikel 27a van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.   
 2.  Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.   
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel 6, onderdelen b. en c., dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel 6, onderdelen b. en c., dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit Bibob.  
+Dit besluit wordt aangehaald als: Besluit Bibob. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -83,7 +83,7 @@ J. P. H. Donner
 de achtste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
 
 ### Bijlage  
 
@@ -97,7 +97,7 @@ J. P. H. Donner
 
 – Stichting Administratie Indonesische Pensioenen  
 
-– Stichting Bureau Architectenregister    
+– Stichting Bureau Architectenregister   
 
 ####Ministerie van Economische Zaken, Landbouw en Innovatie (EL&I)
 
@@ -121,7 +121,7 @@ J. P. H. Donner
 
 – Stichting SKAL  
 
-– Verispect BV    
+– Verispect BV   
 
 ####Ministerie van Financiën
 
@@ -131,7 +131,7 @@ J. P. H. Donner
 
 – Stichting Waarborgfonds Motorverkeer  
 
-– Waarderingskamer    
+– Waarderingskamer   
 
 ####Ministerie van Infrastructuur en Milieu (I&M)
 
@@ -139,7 +139,7 @@ J. P. H. Donner
 
 – Luchtverkeersleiding Nederland  
 
-– RDW (Dienst Wegverkeer)    
+– RDW (Dienst Wegverkeer)   
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap (OCW)
 
@@ -167,13 +167,13 @@ J. P. H. Donner
 
 – Stimuleringsfonds Nederlandse Culturele Mediaproducties  
 
-– Stimuleringsfonds voor de Pers    
+– Stimuleringsfonds voor de Pers   
 
 ####Ministerie van Sociale Zaken en Werkgelegenheid (SZW)
 
 – Sociale Verzekeringsbank  
 
-– Uitvoeringsinstituut Werknemersverzekeringen    
+– Uitvoeringsinstituut Werknemersverzekeringen   
 
 ####Ministerie van Veiligheid en Justitie (V&J)
 
@@ -187,9 +187,9 @@ J. P. H. Donner
 
 – Politieacademie (v/h Landelijk Selectie- en Opleidingsinstituut Politie, LSOP)  
 
-– Raad voor rechtsbijstand  
+– Raad voor rechtsbijstand 
 
-– Instituut Fysieke Veiligheid (IFV)    
+– Instituut Fysieke Veiligheid (IFV)  
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport (VWS)
 
@@ -197,7 +197,7 @@ J. P. H. Donner
 
 – College sanering zorginstellingen  
 
-– College voor Zorgverzekeringen  
+– Zorginstituut Nederland  
 
 – Nederlandse Transplantatie Stichting  
 
@@ -207,5 +207,5 @@ J. P. H. Donner
 
 – Uitvoeringsorganen AWBZ (Cluster)  
 
-– Zorg Onderzoek Nederland/ Medische Wetenschappen    
+– Zorg Onderzoek Nederland/ Medische Wetenschappen   
 

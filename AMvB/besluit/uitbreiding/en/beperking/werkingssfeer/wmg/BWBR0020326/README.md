@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2006, kenmerk MC/MO-2686388;
 
-Gelet op artikel 2, eerste en tweede lid, van de Wet marktordening gezondheidszorg;
+Gelet op [artikel 2, eerste en tweede lid, van de Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
 
 De Raad van State gehoord (advies van 29 juni 2006 nummer W13.06.0169/III);
 
@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder wet: Wet marktordening gezondheidszorg.  
+In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md). 
 
 ### Artikel  2  
 
-Als zorg in de zin van de wet worden aangewezen de werkzaamheden van: 
+Als zorg in de zin van de [wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) worden aangewezen de werkzaamheden van: 
 
-a. de SBOH, voor zover het betreft de toepassing van artikel 56a van de wet ten behoeve van de opleiding tot huisartsen en van de opleiding tot specialisten ouderengeneeskunde;  
+a. de SBOH, voor zover het betreft de toepassing van [artikel 56a van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) ten behoeve van de opleiding tot huisartsen en van de opleiding tot specialisten ouderengeneeskunde;  
 
 b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;  
 
-c. personen ingeschreven in een register als bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg of door personen als bedoeld in artikel 34 van die wet, voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder artikel 1, onder b, van de wet.    
+c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of door personen als bedoeld in [artikel 34 van die wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).  
 
 ### Artikel  3  
 
-1.  De artikelen 50 tot en met 56 van de wet zijn niet van toepassing op: 
+1.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn niet van toepassing op: 
 
 a. farmaceutische zorg: 
 
-1°. anders dan advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onder s, van de Geneesmiddelenwet of de terhandstelling van die geneesmiddelen,  
+1°. anders dan advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) of de terhandstelling van die geneesmiddelen,  
 
 2°. waarop de Wet inzake bloedtransfusie van toepassing is;    
 
 b. zorg waarvoor subsidie wordt verleend door: 
 
-1. Onze Minister op grond van een regeling als bedoeld in artikel 3 van de Kaderwet VWS-subsidies;  
+1. Onze Minister op grond van een regeling als bedoeld in [artikel 3 van de Kaderwet VWS-subsidies](../../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);  
 
-2. het College voor zorgverzekeringen op grond van een regeling als bedoeld in artikel 44 van de Algemene Wet Bijzondere Ziektekosten of artikel 68 van de Zorgverzekeringswet;    
+2. het Zorginstituut op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [artikel 68 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);    
 
 c. de vaccinatie ten behoeve van de preventie van influenza;  
 
 d. hulpmiddelenzorg;  
 
-e. vervoer, anders dan ten aanzien waarvan de Tijdelijke wet ambulancezorg van toepassing is;  
+e. vervoer, anders dan ten aanzien waarvan de [Tijdelijke wet ambulancezorg](../../../../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) van toepassing is;  
 
-f. vervoer als omschreven in artikel 10 van het Besluit zorgaanspraken AWBZ;  
+f. vervoer als omschreven in [artikel 10 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
 
-g. doventolkzorg als omschreven in artikel 12 van het Besluit zorgaanspraken AWBZ;  
+g. doventolkzorg als omschreven in [artikel 12 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
 
 h. orthoptie;  
 
@@ -62,33 +62,33 @@ j. ergotherapie;
 k. huidtherapie;  
 
 l. optometrie.     
-2.  De artikelen 50 tot en met 56 van de wet zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f en h tot en met l, geleverd wordt door of vanwege een instelling in de zin van de Wet toelating zorginstellingen of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.   
+2.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f en h tot en met l, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.  
 
 ### Artikel  4  
 
-1.  De artikelen 50 tot en met 56 van de wet zijn niet van toepassing op zorg voorzover verleend onder eigen verantwoordelijkheid door: 
+1.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn niet van toepassing op zorg voorzover verleend onder eigen verantwoordelijkheid door: 
 
 a. radiodiagnostisch laboranten;  
 
 b. radiotherapeutisch laboranten.     
-2.  De artikelen 50 tot en met 56 van de wet zijn wel van toepassing indien de zorg, bedoeld in het eerste lid, geleverd wordt door of vanwege een instelling in de zin van de Wet toelating zorginstellingen of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.   
+2.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.  
 
 ### Artikel  5  
 
-1.  De artikelen 50 tot en met 56 van de wet zijn niet van toepassing op zorg verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg.   
-2.  De artikelen 50 tot en met 56 van de wet zijn wel van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg is als omschreven in de artikelen 4, 5 en 6 van het Besluit zorgaanspraken AWBZ.   
+1.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn niet van toepassing op zorg verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg.   
+2.  De [artikelen 50 tot en met 56 van de wet](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn wel van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg is als omschreven in de [artikelen 4](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [6 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).  
 
 ### Artikel  6  
 
-Artikel 3, vierde lid, 34, 38, eerste en derde tot en met zevende lid, 40 tot en met 43 en paragraaf 6.2 tot en met 6.5 zijn niet van toepassing op forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg.  
+[Artikel 3, vierde lid](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [34](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [38, eerste en derde tot en met zevende lid](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [40 tot en met 43](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [paragraaf 6.2 tot en met 6.5](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md). 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op het tijdstip waarop de Wet marktordening gezondheidszorg in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) in werking treedt. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG.  
+Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -96,7 +96,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 21 september 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport , 
+De Minister van Volksgezondheid, Welzijn en Sport ,  
 J. F. Hoogervorst   
 
 de *achtentwintigste* september 2006 

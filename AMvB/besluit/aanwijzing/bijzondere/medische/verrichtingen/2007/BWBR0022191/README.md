@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 januari 2007 , kenmerk CZ/IZ-2737805;
 
-Gelet op artikel 2, tweede lid, van de Wet op bijzondere medische verrichtingen;
+Gelet op [artikel 2, tweede lid, van de Wet op bijzondere medische verrichtingen](../../../../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md);
 
 De Raad van State gehoord (advies van 13 februari 2007, nummer W13.07.0012/I;
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Het is verboden zonder vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren: 
+1. Het is verboden zonder vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren: 
 
 a. orgaantransplantatie, inhoudende transplantatie van hart, nier, pancreas, long, lever of dunne darm, dan wel delen of cellen van deze organen;  
 
@@ -57,30 +57,30 @@ h. klinisch genetisch onderzoek en erfelijkheidsadvisering, inhoudende:
 
 i. in-vitrofertilisatie, voor zover dit betreft het buiten het lichaam tot stand brengen van menselijke embryo’s;  
 
-j. neonatale intensive care met uitzondering van neonatale chirurgische zorg.     
+j. neonatale intensive care met uitzondering van neonatale chirurgische zorg.    
 2.  In afwijking van het eerste lid, aanhef, en onder d, is het niet verboden om zonder vergunning celtransplantatie toe te passen indien ten aanzien van de gebruikte cellen: 
 
-a. een handelsvergunning op grond van artikel 40, eerste lid, van de Geneesmiddelenwet is verkregen;  
+a. een handelsvergunning op grond van [artikel 40, eerste lid, van de Geneesmiddelenwet](../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) is verkregen;  
 
-b. op grond van artikel 40, derde lid, onder d of f, van de Geneesmiddelenwet geen handelsvergunning nodig is voor het in voorraad hebben, verkopen, ter hand stellen of invoeren van het geneesmiddel; of  
+b. op grond van [artikel 40, derde lid, onder d of f, van de Geneesmiddelenwet](../../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) geen handelsvergunning nodig is voor het in voorraad hebben, verkopen, ter hand stellen of invoeren van het geneesmiddel; of  
 
-c. goedkeuring van een bevoegde instantie als bedoeld in artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen is verkregen voor een onderzoeksprotocol als bedoeld in artikel 2, eerste lid, van die wet, waarvan het gebruik van die cellen deel uitmaakt.     
+c. goedkeuring van een bevoegde instantie als bedoeld in [artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) is verkregen voor een onderzoeksprotocol als bedoeld in artikel 2, eerste lid, van die wet, waarvan het gebruik van die cellen deel uitmaakt.   
 
 ### Artikel  2  
 
-Het Besluit aanwijzing bijzondere medische verrichtingen wordt ingetrokken.  
+Het [Besluit aanwijzing bijzondere medische verrichtingen](../../../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Vergunningen, verleend ingevolge het in artikel 2 genoemde besluit, ingevolge het Planningsbesluit klinisch-genetisch onderzoek en erfelijkheidsadvisering, de Regeling stamceltransplantatie, de Regeling transplantatie pancreas en dunne darm of ingevolge de Regeling transplantatie eilandjes van Langerhans, worden gelijkgesteld met vergunningen, verleend ingevolge het onderhavige besluit.  
+Vergunningen, verleend ingevolge het in artikel 2 genoemde [besluit](../../../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md), ingevolge het [Planningsbesluit klinisch-genetisch onderzoek en erfelijkheidsadvisering](../../../../../../../../ministeriele-regeling/planningsbesluit/klinisch/genetisch/onderzoek/en/erfelijkheidsadvisering/BWBR0014594/README.md), de [Regeling stamceltransplantatie](../../../../../../../../ministeriele-regeling/regeling/stamceltransplantatie/BWBR0020462/README.md), de [Regeling transplantatie pancreas en dunne darm](../../../../../../../../ministeriele-regeling/regeling/transplantatie/pancreas/en/dunne/darm/BWBR0018464/README.md) of ingevolge de [Regeling transplantatie eilandjes van Langerhans](../../../../../../../../ministeriele-regeling/regeling/transplantatie/eilandjes/van/langerhans/BWBR0015947/README.md), worden gelijkgesteld met vergunningen, verleend ingevolge het onderhavige besluit. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat, indien voor de verrichtingen, genoemd in artikel 1, onder b en d, binnen drie maanden na die inwerkingtreding een vergunning is aangevraagd, die verrichtingen mogen worden uitgevoerd tot onherroepelijk op die aanvraag is beslist.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat, indien voor de verrichtingen, genoemd in artikel 1, onder b en d, binnen drie maanden na die inwerkingtreding een vergunning is aangevraagd, die verrichtingen mogen worden uitgevoerd tot onherroepelijk op die aanvraag is beslist. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing bijzondere medische verrichtingen 2007.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing bijzondere medische verrichtingen 2007. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -88,10 +88,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 juni 2007  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+A. Klink   
 
 de *tiende* juli 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

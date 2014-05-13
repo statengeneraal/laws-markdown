@@ -18,13 +18,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 a. de wet: de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
 b. gebruikelijke zorg: de normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden;  
 
-c. mantelzorg: langdurige zorg die niet in het kader van een hulpverlenend beroep wordt geboden aan een hulpbehoevende door personen uit diens directe omgeving, waarbij de zorgverlening rechtstreeks voortvloeit uit de sociale relatie en de gebruikelijke zorg overstijgt.    
+c. mantelzorg: langdurige zorg die niet in het kader van een hulpverlenend beroep wordt geboden aan een hulpbehoevende door personen uit diens directe omgeving, waarbij de zorgverlening rechtstreeks voortvloeit uit de sociale relatie en de gebruikelijke zorg overstijgt.  
 
 ### Hoofdstuk  II  
 
@@ -44,7 +44,7 @@ d. behandeling als omschreven in artikel 8;
 
 e. verblijf als omschreven in artikel 9;  
 
-f. kortdurend verblijf als omschreven in artikel 9a;  
+f. kortdurend verblijf als omschreven in artikel 9a; 
 
 g. vervoer als omschreven in artikel 10;  
 
@@ -56,14 +56,14 @@ j. zorg als omschreven in artikel 15;
 
 k. een neonatale hielprik;  
 
-l. vaccinaties als omschreven in artikel 18.     
-2.  De verzekerde heeft geen aanspraak op de zorg, bedoeld in het eerste lid, indien hij ter zake van die zorg een aanspraak heeft op forensische zorg als bedoeld in [artikel 2](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) juncto [artikel 5, eerste lid, van het Interimbesluit forensische zorg](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md).   
+l. vaccinaties als omschreven in artikel 18.    
+2. De verzekerde heeft geen aanspraak op de zorg, bedoeld in het eerste lid, indien hij ter zake van die zorg een aanspraak heeft op forensische zorg als bedoeld in [artikel 2](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md) juncto [artikel 5, eerste lid, van het Interimbesluit forensische zorg](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md). 
 3.  De aanspraak op zorg bestaat slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen.   
-4.  Bij ministeriële regeling kan de aanspraak op de zorg, bedoeld in het eerste lid, nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.   
+4.  Bij ministeriële regeling kan de aanspraak op de zorg, bedoeld in het eerste lid, nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.  
 
 ### Artikel  3  
 
-De inhoud en de omvang van de zorg, bedoeld in artikel 2, wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.  
+De inhoud en de omvang van de zorg, bedoeld in artikel 2, wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten. 
 
 ### Artikel  4  
 
@@ -71,7 +71,7 @@ Persoonlijke verzorging omvat het ondersteunen bij of het overnemen van activite
 
 ### Artikel  5  
 
-Verpleging omvat verpleging in verband met een somatische of psychogeriatrische aandoening of beperking of een lichamelijke handicap, gericht op herstel of voorkoming van verergering van de aandoening, beperking of handicap.  
+Verpleging omvat verpleging in verband met een somatische of psychogeriatrische aandoening of beperking of een lichamelijke handicap, gericht op herstel of voorkoming van verergering van de aandoening, beperking of handicap. 
 
 ### Artikel  6  
 
@@ -93,40 +93,40 @@ a. het ondersteunen bij of het oefenen met vaardigheden of handelingen,
 
 b. het ondersteunen bij of het oefenen met het aanbrengen van structuur of het voeren van regie, of  
 
-c. het overnemen van toezicht op de verzekerde.     
+c. het overnemen van toezicht op de verzekerde.    
 
 ### Artikel  8  
 
-Behandeling omvat door een instelling te verlenen behandeling van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard gericht op herstel of voorkoming van verergering van een somatische of psychogeriatrische aandoening of beperking of van een verstandelijke, lichamelijke of zintuiglijke handicap, waaronder voorkoming van verergering van gedragsproblemen in verband met een zodanige aandoening, beperking of handicap.  
+Behandeling omvat door een instelling te verlenen behandeling van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard gericht op herstel of voorkoming van verergering van een somatische of psychogeriatrische aandoening of beperking of van een verstandelijke, lichamelijke of zintuiglijke handicap, waaronder voorkoming van verergering van gedragsproblemen in verband met een zodanige aandoening, beperking of handicap. 
 
 ### Artikel  9  
 
 1.  Verblijf omvat verblijf in een instelling met samenhangende zorg bestaande uit persoonlijke verzorging, verpleging, begeleiding of behandeling, voor een verzekerde met een somatische, psychogeriatrische of psychiatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap, indien die verzekerde aangewezen is op een beschermende woonomgeving, een therapeutisch leefklimaat of permanent toezicht.   
-2.  Op verblijf bestaat slechts aanspraak indien de verzekerde meer dan drie etmalen per week daarop is aangewezen.   
-3.  De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.   
+2.  Op verblijf bestaat slechts aanspraak indien de verzekerde meer dan drie etmalen per week daarop is aangewezen. 
+3.  De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.  
 
 ### Artikel  9a  
 
 1.  Kortdurend verblijf omvat logeren in een instelling gedurende maximaal drie etmalen per week, gepaard gaande met persoonlijke verzorging, verpleging of begeleiding voor een verzekerde met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, of een verstandelijke, lichamelijke of zintuiglijke handicap, indien de verzekerde aangewezen is op permanent toezicht.   
-2.  Op de zorg, bedoeld in het eerste lid, bestaat slechts aanspraak indien ontlasting van de persoon die gebruikelijke zorg of mantelzorg aan de verzekerde levert, noodzakelijk is.   
+2.  Op de zorg, bedoeld in het eerste lid, bestaat slechts aanspraak indien ontlasting van de persoon die gebruikelijke zorg of mantelzorg aan de verzekerde levert, noodzakelijk is.  
 
 ### Artikel  10  
 
 Indien de verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van de instelling indien daarvoor een medische noodzaak bestaat.  
 
-### Artikel  12  
+###Artikel 12 
 
-Doventolkzorg omvat zorg door een doventolk bij het voeren van een gesprek in de leefsituatie.  
+Doventolkzorg omvat zorg door een doventolk bij het voeren van een gesprek in de leefsituatie.
 
 ### Artikel  13  
 
 1.  Voortgezet verblijf omvat verblijf in een instelling gepaard gaande met medisch noodzakelijke geneeskundige zorg in aansluiting op verblijf als bedoeld in het [Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) voor zover dit verblijf een ononderbroken periode van 365 dagen te boven gaat, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.   
 2.  In afwijking van het eerste lid, bestaat het voortgezet verblijf, indien er sprake is van behandeling van een psychiatrische aandoening, uit zorg als omschreven in artikel 9, eerste en tweede lid.   
-3.  Voor de berekening van de 365 dagen geldt een onderbreking niet langer dan dertig dagen niet als onderbreking, doch deze dagen tellen voor de berekening van de 365 dagen evenmin mee. Indien de periode van 365 dagen is verstreken en binnen dertig dagen opnieuw verblijf nodig is, is er evenmin sprake van een onderbreking.   
+3.  Voor de berekening van de 365 dagen geldt een onderbreking niet langer dan dertig dagen niet als onderbreking, doch deze dagen tellen voor de berekening van de 365 dagen evenmin mee. Indien de periode van 365 dagen is verstreken en binnen dertig dagen opnieuw verblijf nodig is, is er evenmin sprake van een onderbreking.  
 
-### Artikel  14  
+###Artikel  14 
 
-Op verzoek van de verzekerde die in het bezit is van een indicatiebesluit voor verblijf als bedoeld in artikel 9, eerste lid, kan de instelling in afwijking van die bepalingen het verblijf en overige zorg ten huize van de verzekerde leveren.  
+Op verzoek van de verzekerde die in het bezit is van een indicatiebesluit voor verblijf als bedoeld in artikel 9, eerste lid, kan de instelling in afwijking van die bepalingen het verblijf en overige zorg ten huize van de verzekerde leveren.
 
 ### Artikel  15  
 
@@ -134,28 +134,28 @@ Op verzoek van de verzekerde die in het bezit is van een indicatiebesluit voor v
 
 a. geneeskundige zorg van algemeen medische aard, niet zijnde paramedische zorg;  
 
-b. behandeling van een psychiatrische aandoening indien de behandeling integraal onderdeel uitmaakt van de behandeling van een van de in artikel 8 genoemde aandoeningen of handicaps;  
+b.behandeling van een psychiatrische aandoening indien de behandeling integraal onderdeel uitmaakt van de behandeling van een van de in artikel 8 genoemde aandoeningen of handicaps;
 
 c. farmaceutische zorg;  
 
 d. hulpmiddelen, noodzakelijk in verband met de in de instelling gegeven zorg;  
 
-e. tandheelkundige zorg;  
+e. tandheelkundige zorg;   
 
 f. kleding, verband houdende met het karakter en de doelstelling van de instelling;  
 
 g. het individueel gebruik van een rolstoel.     
-2.  De zorg, bedoeld in het eerste lid, aanhef, omvat niet het verkrijgen van onderwijs, kleedgeld en zakgeld.   
+2.  De zorg, bedoeld in het eerste lid, aanhef, omvat niet het verkrijgen van onderwijs, kleedgeld en zakgeld.  
 
 ### Artikel  17  
 
 1.  Een neonatale hielprik omvat onderzoek bij pasgeborenen naar bij ministeriële regeling aan te wijzen ernstige zeldzame ziekten.   
-2.  Onze Minister draagt zorg voor de uitvoering van het onderzoek.   
+2.  Onze Minister draagt zorg voor de uitvoering van het onderzoek.  
 
 ### Artikel  18  
 
-1.  Vaccinaties omvatten de vaccinaties, opgenomen in een bij ministeriële regeling vast te stellen vaccinatieprogramma, waarin wordt aangegeven welke groepen van verzekerden voor vaccinatie in aanmerking komen alsmede hoe de uitvoering van dat programma plaatsvindt.   
-2.  Onze Minister draagt zorg voor de vaccinaties.   
+1.  Vaccinaties omvatten de vaccinaties, opgenomen in een bij ministeriële regeling vast te stellen vaccinatieprogramma, waarin wordt aangegeven welke groepen van verzekerden voor vaccinatie in aanmerking komen alsmede hoe de uitvoering van dat programma plaatsvindt.  
+2. Onze Minister draagt zorg voor de vaccinaties. 
 
 ### Hoofdstuk  III  
 
@@ -164,8 +164,8 @@ g. het individueel gebruik van een rolstoel.
 ### Artikel  19  
 
 1.  Ten aanzien van de verzekerde die als gezinslid van een militair met toestemming van Onze Minister van Defensie in het buitenland verblijft bij de aldaar geplaatste militair en voor wie de militair ingevolge de Regeling ziektekostenverzekering militairen aanspraak heeft op vergoeding van geneeskundige verstrekkingen, treedt die aanspraak, voor zover de geneeskundige verstrekkingen zijn verleend door de militair geneeskundige dienst van de Nederlandse krijgsmacht ter plaatse, in de plaats van de aanspraken op zorg ingevolge dit besluit.   
-2.  Onze Minister en Onze Minister van Defensie stellen regelen vast inzake een jaarlijkse uitkering door het College zorgverzekeringen aan Onze Minister van Defensie ten laste van het Algemeen Fonds Bijzondere Ziektekosten in verband met het vervallen van aanspraken op grond van [artikel 7, eerste en tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
-3.  Onze Minister en Onze Minister van Defensie kunnen nadere regelen vaststellen met betrekking tot de uitvoering van dit artikel.   
+2.  Onze Minister en Onze Minister van Defensie stellen regelen vast inzake een jaarlijkse uitkering door het Zorginstituut aan Onze Minister van Defensie ten laste van het Algemeen Fonds Bijzondere Ziektekosten in verband met het vervallen van aanspraken op grond van [artikel 7, eerste en tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+3.  Onze Minister en Onze Minister van Defensie kunnen nadere regelen vaststellen met betrekking tot de uitvoering van dit artikel.  
 
 ### Artikel  20  
 
@@ -189,57 +189,57 @@ e. gezinsleden: onderdeel d is van overeenkomstige toepassing op een verzekerde 
 f. spoedeisende zorg bij tijdelijk verblijf: een verzekerde die gedurende een tijdelijk verblijf buiten het Europese deel van Nederland onvoorzien en onmiddellijk noodzakelijke zorg moet inroepen die gelet op de gezondheidstoestand van betrokkene en het te verwachten verloop daarvan, niet kan worden uitgesteld tot de verzekerde is teruggekeerd in het Europese deel van Nederland, kan deze gedurende ten hoogste dertien weken voortzetten. Deze termijn kan door de zorgverzekeraar worden verlengd indien de verzekerde om medische redenen niet gerepatrieerd kan worden.   De in rekening gebrachte kosten worden vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten.   
 3.  Het in het vorige lid in de onderdelen d, e en f bepaalde, is slechts van toepassing indien door een onafhankelijk arts is vastgesteld dat en in welke omvang de verzekerde op de desbetreffende zorg is aangewezen.   
 4.  Indien de verzekerde op grond van het [Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.   
-5.  Aan een verzekerde die zorg inroept op de in [artikel 10, tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze, worden de in rekening gebrachte kosten vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten. Het derde en het vierde lid zijn van overeenkomstige toepassing.   
+5.  Aan een verzekerde die zorg inroept op de in [artikel 10, tweede lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) omschreven wijze, worden de in rekening gebrachte kosten vergoed tot ten hoogste de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten. Het derde en het vierde lid zijn van overeenkomstige toepassing. 
 
 ### Artikel  20a  
 
-De verzekerde heeft gedurende het reizen of het tijdelijk verblijven buiten het Europese deel van Nederland geen aanspraak op zorg als bedoeld in de artikelen 4 tot en met 8, of op een vergoeding van de kosten daarvan, indien de zorg aan de verzekerde wordt verleend door een instelling als bedoeld in [artikel 1, eerste deel, onderdeel e, 1° van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
+De verzekerde heeft gedurende het reizen of het tijdelijk verblijven buiten het Europese deel van Nederland geen aanspraak op zorg als bedoeld in de artikelen 4 tot en met 8, of op een vergoeding van de kosten daarvan, indien de zorg aan de verzekerde wordt verleend door een instelling als bedoeld in [artikel 1, eerste deel, onderdeel e, 1° van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). 
 
 ### Artikel  21  
 
 1.  De verplichting als bedoeld in [artikel 16b, eerste lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), geldt niet voor zover de instelling zorg verleent als bedoeld in de artikelen 4 tot en met 18.   
-2.  Voor de instellingen, bedoeld in het eerste lid, geldt niet de verplichting, bedoeld in [artikel 16c, eerste lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
+2.  Voor de instellingen, bedoeld in het eerste lid, geldt niet de verplichting, bedoeld in [artikel 16c, eerste lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
 
 ### Hoofdstuk  IV  
 
 ####Slot- en overgangsbepalingen
 
-### Artikel  33  
+###Artikel 33 
 
-1.  De artikelen 1 tot en met 20 en de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze artikelen komen te luiden na inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31, zijn slechts van toepassing voor verzekerden voor wie op of na het tijdstip waarop die artikelen in werking treden, een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) aangevraagd wordt.   
-2.  Het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en de daarop gebaseerde regelgeving alsmede de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31 blijven, gedurende de geldigheidsduur van hun indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en voor de in hun indicatiebesluit geïndiceerde zorg, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, geïndiceerd waren voor een of meer vormen van zorg als bedoeld in het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).   
-3.  De [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en de daarop gebaseerde regelgeving blijven, zolang zij hun recht hierop tot gelding kunnen brengen, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, een recht op zorg als bedoeld in de [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) tot gelding konden brengen.   
+1. De artikelen 1 tot en met 20 en de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze artikelen komen te luiden na inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31, zijn slechts van toepassing voor verzekerden voor wie op of na het tijdstip waarop die artikelen in werking treden, een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) aangevraagd wordt. 
+2. Het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) en de daarop gebaseerde regelgeving alsmede de [artikelen 1](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [2](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [6](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), [9](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en [13 van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van de onderdelen A, B, E, G en K van artikel 31 blijven, gedurende de geldigheidsduur van hun indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en voor de in hun indicatiebesluit geïndiceerde zorg, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, geïndiceerd waren voor een of meer vormen van zorg als bedoeld in het [Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).
+3. De [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) en de daarop gebaseerde regelgeving blijven, zolang zij hun recht hierop tot gelding kunnen brengen, van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop de artikelen 1 tot en met 20 en artikel 31, onderdelen A, B, E, G en K, in werking treden, een recht op zorg als bedoeld in de [artikelen 20 tot en met 20g van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) tot gelding konden brengen.
 
 ### Artikel  34  
 
 1.  In dit artikel wordt verstaan onder: 
 
-a. *ADL:* algemene dagelijkse levensverrichtingen;  
+a.  *ADL:* algemene dagelijkse levensverrichtingen;  
 
-b. *ADL-woning:* woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen die tot stand zijn gekomen met behulp van subsidie uit de Regeling Geldelijke Steun Huisvesting Gehandicapten of het Algemeen Fonds Bijzondere Ziektekosten;  
+b.  *ADL-woning:* woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen die tot stand zijn gekomen met behulp van subsidie uit de Regeling Geldelijke Steun Huisvesting Gehandicapten of het Algemeen Fonds Bijzondere Ziektekosten;  
 
-c. *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare persoonlijke assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning.     
-2.  Een verzekerde die in een ADL-woning woont, en voldoet aan de voorwaarden, bedoeld in [artikel 2.9.3, eerste lid, onderdelen a tot en met d, van de Regeling subsidies AWBZ](../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md), zoals dat artikel luidde voor 1 januari 2012, heeft aanspraak op ADL-assistentie.   
+c.  *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare persoonlijke assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning.     
+2.  Een verzekerde die in een ADL-woning woont, en voldoet aan de voorwaarden, bedoeld in [artikel 2.9.3, eerste lid, onderdelen a tot en met d, van de Regeling subsidies AWBZ](../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md), zoals dat artikel luidde voor 1 januari 2012, heeft aanspraak op ADL-assistentie.  
 
-### Artikel  35  
+###Artikel 35 
 
-Het [Besluit regeling vergoeding Bijzondere Ziektekostenverzekering](../../../../../AMvB/besluit/regeling/vergoeding/bijzondere/ziektekostenverzekering/BWBR0002777/README.md) blijft van toepassing op de verzekerde die onmiddellijk voorafgaande aan het tijdstip waarop artikel 32, derde lid, in werking trad, aanspraak had op een vergoeding als bedoeld in dat besluit.  
+Het [Besluit regeling vergoeding Bijzondere Ziektekostenverzekering](../../../../../AMvB/besluit/regeling/vergoeding/bijzondere/ziektekostenverzekering/BWBR0002777/README.md) blijft van toepassing op de verzekerde die onmiddellijk voorafgaande aan het tijdstip waarop artikel 32, derde lid, in werking trad, aanspraak had op een vergoeding als bedoeld in dat besluit.
 
 ### Artikel  37  
 
-Wijzigt dit besluit.   
+Wijzigt dit besluit. 
 
-### Artikel  39  
+###Artikel 39 
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ### Artikel  39a  
 
-Dit besluit berust mede op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Dit besluit berust mede op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
 
-### Artikel  40  
+###Artikel 40 
 
-Dit besluit wordt aangehaald als: Besluit zorgaanspraken AWBZ.  
+Dit besluit wordt aangehaald als: Besluit zorgaanspraken AWBZ.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
