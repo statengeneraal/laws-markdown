@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 15 juni 2010, nr. 3093158, gedaan mede namens Onze Ministers van Verkeer en Waterstaat en van Justitie en in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Economische Zaken;
 
-Gelet op de artikelen 1.2, 2.2, eerste lid, 2.3, zesde lid, 2.4, eerste en derde lid, 2.9, eerste lid, onderdeel b, 2.18 en 5.1, eerste lid, van de Crisis- en herstelwet en de artikelen 105 en 107 van de Wet geluidhinder;
+Gelet op de [artikelen 1.2](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [2.2, eerste lid](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [2.3, zesde lid](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [2.4, eerste en derde lid](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [2.9, eerste lid, onderdeel b](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [2.18](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) en [5.1, eerste lid, van de Crisis- en herstelwet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) en de [artikelen 105](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [107 van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);
 
 De Raad van State gehoord (advies van 30 juni 2010, no. W01.10.0253/I);
 
@@ -22,15 +22,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *bijlage:* bij dit besluit behorende bijlage;  
 
-*eco iglo:* gebouw bestaande uit een drijfelement van ten hoogste 400 m <sup>2</sup> waarop een staal-glas of koolstof-glas constructie in de vorm van een halve bol is geplaatst, waarbij in de binnen het bouwwerk benodigde energie wordt voorzien door middel van aardwarmte, zonnecellen of miniwindturbines en in het binnen het bouwwerk benodigde water wordt voorzien door middel van een hemelwateropvanginstallatie, gecombineerd met nanofiltratie ten behoeve van de water- of drinkwatervoorziening;  
+*eco iglo:* gebouw bestaande uit een drijfelement van ten hoogste 400 m<sup>2</sup> waarop een staal-glas of koolstof-glas constructie in de vorm van een halve bol is geplaatst, waarbij in de binnen het bouwwerk benodigde energie wordt voorzien door middel van aardwarmte, zonnecellen of miniwindturbines en in het binnen het bouwwerk benodigde water wordt voorzien door middel van een hemelwateropvanginstallatie, gecombineerd met nanofiltratie ten behoeve van de water- of drinkwatervoorziening;  
 
-*mini windturbine:* windturbine met een rotordiameter van ten hoogste 5 meter en een rotoroppervlak van ten hoogste 20 m <sup>2</sup>, met een horizontale of verticale rotoras, ten behoeve van levering van elektriciteit achter de meter of aan een accu ten behoeve van eigen gebruik, welke windturbine gecertificeerd is volgens IEC 61400-12 (2006), dan wel gecertificeerd is volgens de standaarden van de American Wind Energy Association of de British Wind Energy Association of het Kleinwind keur heeft op basis van de Nederlandse beoordelingsrichtlijn Kleine Windturbines, en met een tiphoogte van niet meer dan tien meter, gemeten vanaf de nokhoogte van het gebouw waaraan die miniwindturbine elektriciteit levert;  
+*mini windturbine:* windturbine met een rotordiameter van ten hoogste 5 meter en een rotoroppervlak van ten hoogste 20 m<sup>2</sup>, met een horizontale of verticale rotoras, ten behoeve van levering van elektriciteit achter de meter of aan een accu ten behoeve van eigen gebruik, welke windturbine gecertificeerd is volgens IEC 61400-12 (2006), dan wel gecertificeerd is volgens de standaarden van de American Wind Energy Association of de British Wind Energy Association of het Kleinwind keur heeft op basis van de Nederlandse beoordelingsrichtlijn Kleine Windturbines, en met een tiphoogte van niet meer dan tien meter, gemeten vanaf de nokhoogte van het gebouw waaraan die miniwindturbine elektriciteit levert;  
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-*wet:*Crisis- en herstelwet;  
+*wet:* [Crisis- en herstelwet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md);  
 
-*zuigercompressor-windturbinecombinatie:* windturbine met een rotordiameter van ten hoogste vijf meter en een rotoroppervlak van ten hoogste 20 m <sup>2</sup>, met een horizontale of verticale rotoras met een hoogte van niet meer dan 25 meter, gemeten vanaf de voet van de windturbine tot de tip van de rotor, waarbij het mechanisch vermogen van de rotor direct wordt gebruikt voor de aandrijving van een zuigercompressor of een ozongenerator en die klimaatbeheersing en ammoniakreductie in melkrundveehouderijen als functie heeft, of ten doel heeft water of drinkwater te winnen uit de lucht.    
+*zuigercompressor-windturbinecombinatie:* windturbine met een rotordiameter van ten hoogste vijf meter en een rotoroppervlak van ten hoogste 20 m<sup>2</sup>, met een horizontale of verticale rotoras met een hoogte van niet meer dan 25 meter, gemeten vanaf de voet van de windturbine tot de tip van de rotor, waarbij het mechanisch vermogen van de rotor direct wordt gebruikt voor de aandrijving van een zuigercompressor of een ozongenerator en die klimaatbeheersing en ammoniakreductie in melkrundveehouderijen als functie heeft, of ten doel heeft water of drinkwater te winnen uit de lucht.   
 
 ### Paragraaf  2  
 
@@ -38,7 +38,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Als ontwikkelingsgebied als bedoeld in artikel 2.2, eerste lid, van de wet worden voor de duur van tien jaar aangewezen: 
+1.  Als ontwikkelingsgebied als bedoeld in [artikel 2.2, eerste lid, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) worden voor de duur van tien jaar aangewezen: 
 
 a. Stadshavens Rotterdam, omvattende het Waal-Eemhavengebied, de Rijn- en Maashaven, het Merwehaven-Vierhavensgebied en het RDM-terrein (Heijplaat) zoals aangegeven op de kaart in bijlage 1;  
 
@@ -56,15 +56,15 @@ g. Doetinchem Hamburgerbroek zoals aangegeven op de kaart in bijlage 10;
 
 h. Maasdonk Nuland-Oost zoals aangegeven op de kaart in bijlage 11;  
 
-i. Vliegbasis Soest en Zeist en Soesterberg-Noord zoals aangegeven op de kaart in bijlage 12;  
+i. Vliegbasis Soest en Zeist en Soesterberg-Noord zoals aangegeven op de kaart in bijlage 12; 
 
-j. Amersfoort Kop van Isselt zoals aangegeven op de kaart in bijlage 16;  
+j.Amersfoort Kop van Isselt zoals aangegeven op de kaart in bijlage 16;
 
-k. Apeldoorn Kanaalzone zoals aangegeven op de kaart in bijlage 17;  
+k.Apeldoorn Kanaalzone zoals aangegeven op de kaart in bijlage 17;
 
-l. Stichtse Vecht Gebiedsontwikkeling Vreeland Oost zoals aangegeven op de kaart in bijlage 18;  
+l.Stichtse Vecht Gebiedsontwikkeling Vreeland Oost zoals aangegeven op de kaart in bijlage 18;
 
-m. Veghel Gebiedsontwikkeling Heilig Hartplein en Noordkade zoals aangegeven op de kaart in bijlage 19;  
+m.Veghel Gebiedsontwikkeling Heilig Hartplein en Noordkade zoals aangegeven op de kaart in bijlage 19;
 
 n. Deelgebied de Eilanden van Waterfront Harderwijk zoals aangegeven op de kaart in bijlage 20;  
 
@@ -72,7 +72,7 @@ o. Centrumplan Eerbeek Brummen zoals aangegeven op de kaart in bijlage 21;
 
 p. Spoorzone Tilburg zoals aangegeven op de kaart in bijlage 13;  
 
-q. Oostelijk Centrumgebied Arnhem zoals aangegeven op de kaart in bijlage 22;  
+q. Oostelijk Centrumgebied Arnhem zoals aangegeven op de kaart in bijlage 22; 
 
 r. Havengebied Rotterdam inclusief de Tweede Maasvlakte zoals aangegeven op de kaart in bijlage 24;  
 
@@ -80,31 +80,33 @@ s. Dijklaan Bergambacht zoals aangegeven op de kaart in bijlage 25;
 
 t. Blokhoeve Nieuwegein zoals aangegeven op de kaart in bijlage 26;  
 
-u. Haarlemmermeer Masterplan Badhoevedorp-Centrum zoals aangegeven op de kaart in bijlage 27.     
-2.  Als categorieën van gevallen als bedoeld in artikel 2.3, negende lid, van de wet worden aangegeven alle gevallen waarin een ander bestuursorgaan dan burgemeester en wethouders bevoegd zou zijn te beslissen als bedoeld in artikel 2.3, negende lid, van de wet.   
-3.  Een ander bestuursorgaan als bedoeld in het tweede lid kan categorieën van gevallen aangeven waarin een verklaring van geen bedenkingen niet is vereist.   
+u. Haarlemmermeer Masterplan Badhoevedorp-Centrum zoals aangegeven op de kaart in bijlage 27; 
+
+v. Haven- en industriegebied Oosterhorn Delfzijl en Haven- en industriegebied Eemshaven Eemsmond, zoals aangegeven op de kaarten in bijlage 36<sup>A en B</sup>.    
+2.  Als categorieën van gevallen als bedoeld in [artikel 2.3, negende lid, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) worden aangegeven alle gevallen waarin een ander bestuursorgaan dan burgemeester en wethouders bevoegd zou zijn te beslissen als bedoeld in artikel 2.3, negende lid, van de wet.   
+3.  Een ander bestuursorgaan als bedoeld in het tweede lid kan categorieën van gevallen aangeven waarin een verklaring van geen bedenkingen niet is vereist.  
 
 ### Artikel  2a  
 
-De bepalingen, bedoeld in artikel 2.3, zevende lid, van de wet, zijn: 
+De bepalingen, bedoeld in [artikel 2.3, zevende lid, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), zijn: 
 
-a. artikel 16 van de Natuurbeschermingwet 1998;  
+a. [artikel 16 van de Natuurbeschermingwet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
 
-b. artikel 5.18, eerste lid, van het Besluit omgevingsrecht, met dien verstande dat de termijn, bedoeld in dat lid, op ten hoogste vijftien jaar wordt gesteld;  
+b. [artikel 5.18, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), met dien verstande dat de termijn, bedoeld in dat lid, op ten hoogste vijftien jaar wordt gesteld;  
 
-c. onderstaande bepalingen van de Wet bodembescherming voor zover de afwijking van die bepalingen geen gevaar voor de gezondheid van mens of dier oplevert: 
+c. onderstaande bepalingen van de [Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor zover de afwijking van die bepalingen geen gevaar voor de gezondheid van mens of dier oplevert: 
 
-1°. artikel 1,  
+1°. [artikel 1](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md),  
 
-2°. de artikelen 13 en 27 voor zover de bodem is of wordt verontreinigd of aangetast door één of meerdere bemalingen die ten behoeve van bouw-, sloop- of onderzoekswerkzaamheden worden uitgevoerd of die het gevolg zijn van de onttrekking of infiltratie van grondwater door één of meerdere warmte koude opslagsystemen, en  
+2°. de [artikelen 13](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [27](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor zover de bodem is of wordt verontreinigd of aangetast door één of meerdere bemalingen die ten behoeve van bouw-, sloop- of onderzoekswerkzaamheden worden uitgevoerd of die het gevolg zijn van de onttrekking of infiltratie van grondwater door één of meerdere warmte koude opslagsystemen, en  
 
-3°. de artikelen 28, 29, 37, 38, 39, tweede lid, 39b, 40, en 42;    
+3°. de [artikelen 28](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [29](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [37](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [38](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [39, tweede lid](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [39b](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [40](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), en [42](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);    
 
-d. de hoofdstukken V en VI van de Wet geluidhinder voor zover de betrokken bepalingen een ten hoogste toelaatbare geluidsbelasting inhouden;  
+d. de [hoofdstukken V](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [VI van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) voor zover de betrokken bepalingen een ten hoogste toelaatbare geluidsbelasting inhouden;  
 
-e. de artikelen 4.9 tot en met 4.16 van het Besluit geluidhinder voor zover die bepalingen een ten hoogste toelaatbare geluidsbelasting inhouden, en  
+e. de [artikelen 4.9 tot en met 4.16 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) voor zover die bepalingen een ten hoogste toelaatbare geluidsbelasting inhouden, en  
 
-f. artikel 20.3, eerste lid, van de Wet milieubeheer ten aanzien van besluiten met betrekking tot de bodem.    
+f. [artikel 20.3, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten aanzien van besluiten met betrekking tot de bodem.   
 
 ### Paragraaf  3  
 
@@ -118,43 +120,45 @@ a. Amersfoort;
 
 b. Houten;  
 
-c. Leusden;  
+c. Leusden; 
 
 d. Nieuwegein;  
 
-e. Nijmegen;  
+e. Nijmegen; 
 
 f. Utrecht, en  
 
 g. Woerden.     
 2.  De aanwijzing vindt plaats uiterlijk drie maanden na het tijdstip van inwerkingtreding van dit besluit.   
-3.  Het verbod, gesteld in artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht geldt voor de duur van tien jaar niet voor het bouwen van een mini windturbine. Bij het bouwen van een mini windturbine wordt het bepaalde krachtens artikel 2.6, tweede lid, van de wet in acht genomen.   
-4.  Behoudens in gevallen waarin sprake is van een inrichting type B als bedoeld in artikel 1.2 van het Activiteitenbesluit milieubeheer, kan voor de duur van tien jaar worden afgeweken van paragraaf 3.2.3 van het Activiteitenbesluit milieubeheer voor het in werking hebben van een mini windturbine op de inrichting of op het terrein behorende bij de inrichting.   
-5.  De geluidbelasting door mini windturbines op de dichtstbijzijnde gevel van een geluidgevoelige bestemming is niet groter dan 47 db L <sub>den</sub>, te bepalen overeenkomstig bij ministeriële regeling te stellen regels.   
+3.  Het verbod, gesteld in [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geldt voor de duur van tien jaar niet voor het bouwen van een mini windturbine. Bij het bouwen van een mini windturbine wordt het bepaalde krachtens [artikel 2.6, tweede lid, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) in acht genomen.  
+4.  Behoudens in gevallen waarin sprake is van een inrichting type B als bedoeld in [artikel 1.2 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), kan voor de duur van tien jaar worden afgeweken van [paragraaf 3.2.3 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voor het in werking hebben van een mini windturbine op de inrichting of op het terrein behorende bij de inrichting.   
+5.  De geluidbelasting door mini windturbines op de dichtstbijzijnde gevel van een geluidgevoelige bestemming is niet groter dan 47 db L<sub>den</sub>, te bepalen overeenkomstig bij ministeriële regeling te stellen regels.  
 
 ### Artikel  4  
 
-Ten behoeve van het bouwen van een eco iglo in de gemeente Leeuwarden kan voor de duur van tien jaar worden afgeweken van de artikelen 2.129, 2.130, 3.22, 3.23, 3.41, eerste lid, 6.11, eerste lid, 6.13, 6.14 en 5.2, eerste en tweede lid, van het Bouwbesluit 2012.  
+Ten behoeve van het bouwen van een eco iglo in de gemeente Leeuwarden kan voor de duur van tien jaar worden afgeweken van de [artikelen 2.129](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [2.130](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.22](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.23](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.41, eerste lid](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.11, eerste lid](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.13](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.14](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [5.2, eerste en tweede lid, van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 
 
 ### Artikel  5  
 
 1.  Dit artikel is van toepassing binnen het grondgebied van de gemeente Leeuwarden.   
-2.  Het verbod, gesteld in artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht geldt voor de duur van tien jaar niet voor het bouwen van een zuigercompressor-windturbinecombinatie met ten hoogste 400 kg ammoniak als koudemiddel: 
+2.  Het verbod, gesteld in [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) geldt voor de duur van tien jaar niet voor het bouwen van een zuigercompressor-windturbinecombinatie met ten hoogste 400 kg ammoniak als koudemiddel: 
 
-a. op of in directe nabijheid van een inrichting die tot een krachtens artikel 1.1, derde lid, van de Wet milieubeheer aangewezen categorie behoort en die uitsluitend of in hoofdzaak is bestemd voor het houden van melkrundvee, of  
+a. op of in directe nabijheid van een inrichting die tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie behoort en die uitsluitend of in hoofdzaak is bestemd voor het houden van melkrundvee, of  
 
 b. met als doel (drink)water te winnen uit de lucht.     
-3.  Behoudens in gevallen waarin sprake is van een inrichting type B als bedoeld in artikel 1.2 van het Activiteitenbesluit milieubeheer, blijft paragraaf 3.2.3 van het Activiteitenbesluit milieubeheer voor de duur van tien jaar buiten toepassing voor het in werking hebben van een zuigercompressor-windturbinecombinatie op de inrichting of in de directe nabijheid daarvan.   
+3.  Behoudens in gevallen waarin sprake is van een inrichting type B als bedoeld in [artikel 1.2 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), blijft [paragraaf 3.2.3 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) voor de duur van tien jaar buiten toepassing voor het in werking hebben van een zuigercompressor-windturbinecombinatie op de inrichting of in de directe nabijheid daarvan.  
 
 ### Artikel  6  
 
 1.  In een omgevingsvergunning ten behoeve van het bevorderen van duurzame en innovatieve toepassingen binnen: 
 
-a. het plangebied Spoorzone in de gemeente Eindhoven of  
+a. het plangebied Spoorzone in de gemeente Eindhoven,  
 
-b. het CHV-terrein in de gemeente Veghel,   die met toepassing van artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht kan worden verleend, wordt in afwijking van artikel 5.18, eerste lid, van het Besluit omgevingsrecht bepaald dat zij geldt voor een in de vergunning opgenomen termijn van ten hoogste vijftien jaar.   
-2.  In het plangebied Spoorzone in de gemeente Eindhoven is op de aanvraag om een omgevingsvergunning waarbij toepassing wordt gegeven aan artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht, artikel 3.10, eerste lid, onderdeel a, van die wet niet van toepassing.   
-3.  Een omgevingsvergunning voor een windturbine in de provincie Flevoland, die met toepassing van artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht wordt verleend, geldt in afwijking van artikel 5.18, eerste lid, van het Besluit omgevingsrecht voor een daarin aangegeven termijn van ten hoogste vijfentwintig jaar.   
+b. het CHV-terrein in de gemeente Veghel of  
+
+c. het project Dijckerwaal in de gemeente Westland,   die met toepassing van [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan worden verleend, wordt in afwijking van [artikel 5.18, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) bepaald dat zij geldt voor een in de vergunning opgenomen termijn van ten hoogste vijftien jaar.   
+2.  In het plangebied Spoorzone in de gemeente Eindhoven en het project Dijckerwaal in de gemeente Westland is op de aanvraag om een omgevingsvergunning waarbij toepassing wordt gegeven aan [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [artikel 3.10, eerste lid, onderdeel a, van die wet](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) niet van toepassing.  
+3.  Een omgevingsvergunning voor een windturbine in de provincie Flevoland, die met toepassing van [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt verleend, geldt in afwijking van [artikel 5.18, eerste lid, van het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) voor een daarin aangegeven termijn van ten hoogste vijfentwintig jaar. 
 
 ### Artikel  6a  
 
@@ -168,45 +172,45 @@ c. het plangebied Spoorzone in de gemeente Eindhoven zoals aangegeven op de kaar
 
 d. de uitvoering van de «Visie op de ondergrond» van de gemeente Zwolle zoals aangegeven op de kaart in bijlage 15,   kunnen burgemeester en wethouders ten behoeve van gebiedsgericht bodembeheer of grondwaterbeheer voor de duur van ten hoogste vijftien jaar besluiten tot afwijking van de artikelen: 
 
-1°. 1 van de Wet bodembescherming,  
+1°. [1 van de Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md),  
 
-2°. 13 en 27 van de Wet bodembescherming voor zover de bodem is of wordt verontreinigd of aangetast door één of meerdere bemalingen die ten behoeve van bouw-, sloop- of onderzoekswerkzaamheden worden uitgevoerd of die het gevolg zijn van de onttrekking of infiltratie van grondwater door één of meerdere warmte koude opslagsystemen,  
+2°. [13](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [27 van de Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) voor zover de bodem is of wordt verontreinigd of aangetast door één of meerdere bemalingen die ten behoeve van bouw-, sloop- of onderzoekswerkzaamheden worden uitgevoerd of die het gevolg zijn van de onttrekking of infiltratie van grondwater door één of meerdere warmte koude opslagsystemen,  
 
-3°. 28, 29, 37, 38, 39, tweede lid, 39b, 40, 42 en 88 van de Wet bodembescherming,   voor zover die afwijking geen gevaar voor de gezondheid van mens of dier oplevert. Artikel 20.3, eerste lid, van de Wet milieubeheer is niet van toepassing op de besluiten met betrekking tot de bodem ten aanzien van deze gebieden.  
+3°. [28](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [29](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [37](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [38](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [39, tweede lid](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [39b](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [40](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [42](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [88 van de Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md),   voor zover die afwijking geen gevaar voor de gezondheid van mens of dier oplevert. [Artikel 20.3, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is niet van toepassing op de besluiten met betrekking tot de bodem ten aanzien van deze gebieden. 
 
 ### Artikel  6b  
 
-Voor woningen die worden gebouwd in het project De Mars in Zutphen geldt, in afwijking van tabel 5.1 bij artikel 5.2 van het Bouwbesluit 2012, als grenswaarde voor de energieprestatiecoëfficiënt, 75 procent van de op grond van die tabel geldende grenswaarde.  
+Voor woningen die worden gebouwd in het project De Mars in Zutphen geldt, in afwijking van tabel 5.1 bij [artikel 5.2 van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), als grenswaarde voor de energieprestatiecoëfficiënt, 75 procent van de op grond van die tabel geldende grenswaarde. 
 
 ### Artikel  6c  
 
 1.  Dit artikel is voor de duur van ten hoogste vijftien jaar vanaf het tijdstip van zijn inwerkingtreding van toepassing op de bouw van gebouwen in het nieuwbouwproject Nieuwveense landen in de gemeente Meppel.   
-2.  In afwijking van artikel 5.3, tweede en derde lid, van het Bouwbesluit 2012 geldt voor een constructie als bedoeld in die leden een weerstand van ten minste 4,5 m <sup>2</sup> • K/W, voor zover die waarde hoger is dan de waarde bedoeld in die leden.   
-3.  Het bevoegd gezag voor de omgevingsvergunning, bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht kan de aanvrager verplichten om een ventilatieprestatiekeuring over te leggen. De ventilatieprestatiekeuring wordt opgesteld overeenkomstig BRL8010.   
-4.  In afwijking van artikel 5.3, vierde lid, van het Bouwbesluit 2012 geldt voor ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen als bedoeld in dat lid een warmtecoëfficiënt van ten hoogste 2,0 W/m <sup>2</sup> • K, voor zover die waarde lager is dan de waarde genoemd in dat lid. Voor vensterglas geldt een U-waarde van ten hoogste 0,9.   
-5.  Artikel 5.6 van het Bouwbesluit 2012 wordt als volgt gelezen: «Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing.»   
+2.  In afwijking van [artikel 5.3, tweede en derde lid, van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) geldt voor een constructie als bedoeld in die leden een weerstand van ten minste 4,5 m<sup>2</sup> • K/W, voor zover die waarde hoger is dan de waarde bedoeld in die leden.   
+3.  Het bevoegd gezag voor de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan de aanvrager verplichten om een ventilatieprestatiekeuring over te leggen. De ventilatieprestatiekeuring wordt opgesteld overeenkomstig BRL8010.   
+4.  In afwijking van [artikel 5.3, vierde lid, van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) geldt voor ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen als bedoeld in dat lid een warmtecoëfficiënt van ten hoogste 2,0 W/m<sup>2</sup> • K, voor zover die waarde lager is dan de waarde genoemd in dat lid. Voor vensterglas geldt een U-waarde van ten hoogste 0,9.   
+5.  [Artikel 5.6 van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt als volgt gelezen: «Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van [artikel 5.2](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) niet van toepassing.»  
 
 ### Artikel  6d  
 
-Op de drijvende autarkische recreatiebungalow die wordt gebouwd naast de camping «De Kleine Wielen», De Groene Ster 14 te Leeuwarden, zijn voor de duur van ten hoogste vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel de artikelen 5.2, 6.11 tot en met 6.14 en 6.16 van het Bouwbesluit 2012 niet van toepassing.  
+Op de drijvende autarkische recreatiebungalow die wordt gebouwd naast de camping «De Kleine Wielen», De Groene Ster 14 te Leeuwarden, zijn voor de duur van ten hoogste vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel de [artikelen 5.2](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.11 tot en met 6.14](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [6.16 van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) niet van toepassing. 
 
 ### Artikel  6e  
 
-In de gemeenten Almere, Castricum en Den Haag zijn tot 25 oktober 2017 voor te bouwen grondgebonden woonfuncties in particulier opdrachtgeverschap als bedoeld in artikel 1.1.1 van het Besluit ruimtelijke ordening de artikelen 2.129, 2.130, 3.20, 3.21, 3.23, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.41, 3.42, 3.43, 3.62, 3.63, 3.68, 3.69, 3.70, 3.74, 3.75, 4.8, 4.9, 4.10, 4.11, 4.17, 4.18, 4.19, 4.21, 4.22, 4.23, 4.24, 4.25, 4.26, 4.27, 4.28, 4.37, 4.38, 4.39, 6.7, 6.8, 6.9, 6.10, 6.11, 6.12, 6.13, 6.14, 6.15, 6.16, 6.17 en 6.18 van het Bouwbesluit 2012 niet van toepassing.  
+In de gemeenten Almere, Castricum en Den Haag zijn tot 25 oktober 2017 voor te bouwen grondgebonden woonfuncties in particulier opdrachtgeverschap als bedoeld in [artikel 1.1.1 van het Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) de [artikelen 2.129](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [2.130](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.20](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.21](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.23](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.28](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.29](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.30](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.31](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.32](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.33](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.34](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.41](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.42](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.43](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.62](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.63](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.68](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.69](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.70](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.74](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.75](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.8](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.9](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.10](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.11](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.17](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.18](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.19](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.21](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.22](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.23](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.24](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.25](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.26](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.27](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.28](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.37](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.38](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [4.39](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.7](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.8](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.9](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.10](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.11](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.12](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.13](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.14](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.15](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.16](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.17](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [6.18 van het Bouwbesluit 2012](../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) niet van toepassing. 
 
 ### Artikel  6f  
 
 1.  Dit artikel is voor de duur van tien jaar van toepassing op de op het Bedrijventerrein Newtonpark IV in de gemeente Leeuwarden gelegen experimenteerinrichting, gesitueerd op het perceel met de kavelaanduidingen 11, 12 en 13 binnen de percelen, kadastraal bekend: Leeuwarden HzmE 2008, Leeuwarden HzmE 1714 en Leeuwarden HzmE 1692.   
-2.  De experimenteerinrichting wordt in afwijking van artikel 1.1, vierde lid, tweede volzin, van de Wet milieubeheer aangemerkt als een inrichting als bedoeld in artikel 1.1 van de Wet algemene bepalingen omgevingsrecht.   
-3.  De artikelen 2.4, tweede lid, en 2.14, eerste lid, onderdeel c, onder 1°, van de Wet algemene bepalingen omgevingsrecht zijn niet van toepassing.   
-4.  Het bepaalde krachtens artikel 2.8 van de Wet algemene bepalingen omgevingsrecht is niet van toepassing voor zover dat een omschrijving van de activiteiten of mogelijke maatregelen vereist.   
+2.  De experimenteerinrichting wordt in afwijking van [artikel 1.1, vierde lid, tweede volzin, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangemerkt als een inrichting als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+3.  De [artikelen 2.4, tweede lid](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [2.14, eerste lid, onderdeel c, onder 1°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn niet van toepassing.   
+4.  Het bepaalde krachtens [artikel 2.8 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing voor zover dat een omschrijving van de activiteiten of mogelijke maatregelen vereist.  
 
 ### Artikel  6g  
 
-1.  Dit artikel is voor een periode van vijf jaar van toepassing in de gemeenten Almere, Delft, Eindhoven, Haarlem, Haarlemmermeer, Schijndel en Zoetermeer.   
-2.  Artikel 2.10, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht is niet van toepassing, indien een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, van die wet betrekking heeft op: 
+1.  Dit artikel is tot 6 maart 2018 van toepassing in de gemeenten Almere, Delft, Eindhoven, Haarlem, Haarlemmermeer, Hoogeveen, Schijndel en Zoetermeer.   
+2.  [Artikel 2.10, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing, indien een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, van die wet](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) betrekking heeft op: 
 
-a. een op de grond staand bijbehorend bouwwerk als bedoeld in artikel 1, eerste lid, van bijlage II bij het Besluit omgevingsrecht, mits niet hoger dan 5 meter;  
+a. een op de grond staand bijbehorend bouwwerk als bedoeld in [artikel 1, eerste lid, van bijlage II bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), mits niet hoger dan 5 meter;  
 
 b. een dakkapel;  
 
@@ -225,27 +229,31 @@ h. een sport- of speeltoestel voor uitsluitend particulier gebruik, mits uitslui
 i. een erf- of perceelafscheiding;  
 
 j. een vlaggenmast.     
-3.  Op een aanvraag om een omgevingsvergunning als bedoeld in het tweede lid is artikel 2.2 van de Regeling omgevingsrecht niet van toepassing.   
+3.  Op een aanvraag om een omgevingsvergunning als bedoeld in het tweede lid is [artikel 2.2 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) niet van toepassing.  
+
+### Artikel  6h  
+
+In afwijking van [artikel 3.5, eerste volzin, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kunnen binnen de provincie Flevoland bij een bestemmingsplan gebieden worden aangewezen waarbinnen de daar aanwezige windturbines, die economisch of technisch zijn afgeschreven, dienen te worden gemoderniseerd of vervangen door windturbines met meer bouwmassa. 
 
 ### Artikel  7  
 
-1.  In de jaarlijkse voortgangsrapportage over de uitvoering van de wet geeft Onze Minister, indien daartoe aanleiding bestaat, aan in hoeverre afwijkingen bij wege van experiment van het bepaalde bij of krachtens de betrokken in artikel 2.4, eerste lid, van de wet genoemde wetten aan haar doel beantwoorden en of de overeenkomstig artikel 2.4, derde lid, van de wet vastgestelde ten hoogste toegestane tijdsduur van die afwijkingen aanpassing behoeft.   
-2.  Het eerste lid is niet van toepassing op het experiment duurzaam stortbeheer, bedoeld in artikel 17b, eerste lid, van het Stortbesluit bodembescherming.   
+1.  In de jaarlijkse voortgangsrapportage over de uitvoering van de wet geeft Onze Minister, indien daartoe aanleiding bestaat, aan in hoeverre afwijkingen bij wege van experiment van het bepaalde bij of krachtens de betrokken in [artikel 2.4, eerste lid, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) genoemde wetten aan haar doel beantwoorden en of de overeenkomstig artikel 2.4, derde lid, van de wet vastgestelde ten hoogste toegestane tijdsduur van die afwijkingen aanpassing behoeft.   
+2.  Het eerste lid is niet van toepassing op het experiment duurzaam stortbeheer, bedoeld in [artikel 17b, eerste lid, van het Stortbesluit bodembescherming](../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md). 
 
 ### Artikel  7a  
 
 1.  In het kader van een Platform 31-experiment «Flexibele bestemmingsplannen» kunnen de raden van de betrokken gemeenten bij het vaststellen van een bestemmingsplan besluiten tot afwijking van de volgende artikelen: 
 
-a. van de Wet ruimtelijke ordening: 3.1, eerste lid, voor zover het daarbij gaat om het verplicht aanwijzen van bestemmingen, 3.7, vierde lid, en 6.12, eerste lid;  
+a. van de [Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md): [3.1, eerste lid](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor zover het daarbij gaat om het verplicht aanwijzen van bestemmingen, [3.7, vierde lid](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en [6.12, eerste lid](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
-b. van het Besluit ruimtelijke ordening: 1.2.1, 1.2.1a, 1.2.6, 3.1.3, 3.1.4 en 3.1.6, eerste lid, onder a en f en vierde lid, onder c. Bij afwijking van artikel 1.2.1, 1.2.1a, 1.2.6 of 3.1.6, eerste lid, onder a, geldt als voorwaarde dat het flexibele bestemmingsplan in ieder geval via de gemeentelijke website digitaal raadpleegbaar is.     
+b. van het [Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md): [1.2.1](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), [1.2.1a](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), [1.2.6](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), [3.1.3](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), [3.1.4](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md) en [3.1.6, eerste lid, onder a en f en vierde lid, onder c](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md). Bij afwijking van artikel 1.2.1, 1.2.1a, 1.2.6 of 3.1.6, eerste lid, onder a, geldt als voorwaarde dat het flexibele bestemmingsplan in ieder geval via de gemeentelijke website digitaal raadpleegbaar is.     
 2.  Voor de in het experiment betrokken bestemmingsplannen geldt dat indien daarin onbenutte bouw- of gebruiksmogelijkheden worden wegbestemd, de planschade in ieder geval als voorzienbaar in de zin van artikel 6.3, aanhef en onder a, wordt aangemerkt, indien: 
 
 a. deze herziening ten minste drie jaar voor de vaststelling van het bestemmingsplan is aangekondigd;  
 
 b. van de voorgenomen herziening kennis is gegeven aan de eigenaren in het gebied, en c. gedurende deze termijn de mogelijkheid bestond de bouw- of gebruiksmogelijkheden te realiseren.     
-3.  In afwijking van artikelen 3.1, tweede lid, van de Wet ruimtelijke ordening geldt voor het bestemmingsplan een looptijd van twintig jaar.   
-4.  In afwijking van artikel 3.2 van de Wet ruimtelijke ordening geldt een voorlopige bestemming voor een termijn van ten hoogste tien jaar.   
+3.  In afwijking van [artikelen 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) geldt voor het bestemmingsplan een looptijd van twintig jaar.   
+4.  In afwijking van [artikel 3.2 van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) geldt een voorlopige bestemming voor een termijn van ten hoogste tien jaar.   
 5.  Dit artikel is van toepassing op de volgende bestemmingsplangebieden, voor zover deze bestemmingsplannen vóór 1 juli 2016 zijn vastgesteld: 
 
 a. het voormalige bedrijventerrein Cruquiusgebied in de gemeente Amsterdam zoals aangegeven op de kaart in bijlage 28;  
@@ -258,15 +266,105 @@ d. het voormalige NAVO-terrein in de gemeente Maastricht zoals aangegeven op de 
 
 e. de kernen Zetten en Hemmen in de gemeente Overbetuwe zoals aangegeven op de kaart in bijlage 32;  
 
-f. «De Bronnen» in de gemeente Tynaarloo zoals aangegeven op de kaart in bijlage 33.     
+f. «De Bronnen» in de gemeente Tynaarloo zoals aangegeven op de kaart in bijlage 33.    
 
 ### Artikel  7b  
 
-In afwijking van artikel 3.1, tweede lid, van de Wet ruimtelijke ordening geldt voor de volgende bestemmingsplannen een looptijd van twintig jaar: 
+In afwijking van [artikel 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) geldt voor de volgende bestemmingsplannen een looptijd van twintig jaar: 
 
 a. bestemmingsplan Havenkwartier, gemeente Assen, zoals aangegeven op de kaart in bijlage 34;  
 
-b. bestemmingsplan Valkenburg, gemeente Katwijk, zoals aangegeven op de kaart in bijlage 35.    
+b. bestemmingsplan Valkenburg, gemeente Katwijk, zoals aangegeven op de kaart in bijlage 35.   
+
+### Artikel  7c  
+
+1.  In aanvulling op [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) kunnen in het bestemmingsplan ook regels worden gesteld, die strekken ten behoeve van het: 
+
+a. bereiken en in stand houden van een veilige en gezonde fysieke leefomgeving en een goede omgevingskwaliteit, en  
+
+b. doelmatig beheren, gebruiken en ontwikkelen van de fysieke leefomgeving ter vervulling van maatschappelijke functies.     
+2.  In afwijking van [artikel 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt de bestemming van gronden, met inbegrip van de met het oog daarop gestelde regels, binnen een periode van twintig jaar opnieuw vastgesteld. Artikel 3.1, derde tot en met vijfde lid, van de Wet ruimtelijke ordening is niet van toepassing.   
+3.  In afwijking van [artikel 3.2 van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) geldt een voorlopige bestemming voor een termijn van ten hoogste tien jaar.   
+4.  Het bestemmingsplan kan de door het gemeentebestuur gestelde regels als bedoeld in [artikel 108 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) bevatten die geheel of gedeeltelijk betrekking hebben op de fysieke leefomgeving.   
+5.  De regels in het bestemmingsplan kunnen voorts inhouden een verbod om zonder voorafgaande melding aan burgemeester en wethouders een daarbij aangewezen activiteit te verrichten.   
+6.  In het bestemmingsplan kunnen tevens regels worden gesteld waarvan de uitleg bij de uitoefening van een bij die regels aan te geven bevoegdheid afhankelijk wordt gesteld van beleidsregels. Daarbij kan worden bepaald dat de beleidsregels worden vastgesteld door de raad of door burgemeester en wethouders.   
+7.  Als de regels, bedoeld in het zesde lid, betrekking hebben op het uiterlijk van bouwwerken en bij de toepassing een interpretatie behoeven, stelt de raad de criteria vast die worden toegepast bij de beoordeling van het uiterlijk van een bouwwerk waarop de aanvraag om een omgevingsvergunning voor een bouwactiviteit betrekking heeft. Deze criteria zijn zoveel mogelijk toegesneden op de onderscheiden bouwwerken. In afwijking van [artikel 12b van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) wordt het advies van de welstandscommissie dan wel de stadsbouwmeester slechts op die criteria gebaseerd.   
+8.  Voor de in het experiment betrokken bestemmingsplannen geldt dat indien daarin onbenutte bouw- of gebruiksmogelijkheden worden wegbestemd, de planschade in ieder geval als voorzienbaar in de zin van [artikel 6.3, aanhef en onder a, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) wordt aangemerkt, indien: 
+
+a. deze herziening ten minste drie jaar voor de vaststelling van het bestemmingsplan is aangekondigd;  
+
+b. van de voorgenomen herziening kennis is gegeven aan de eigenaren in het gebied, en  
+
+c. gedurende deze termijn de mogelijkheid bestond de bouw- of gebruiksmogelijkheden te realiseren.     
+9.  Bij de voorbereiding, vormgeving, inrichting en beschikbaarstelling van het bestemmingsplan kan worden afgeweken van: 
+
+a. de volgende artikelen van het [Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md): 
+
+1°. [1.2.1, tweede lid](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), en [1.2.1a, onderdeel a](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), onder de voorwaarde dat het ontwerp van het bestemmingplan of het vastgestelde bestemmingsplan elektronisch op een algemeen toegankelijke wijze beschikbaar wordt gesteld en blijft op een door de raad te bepalen internetadres. In dat geval bevat de landelijke voorziening, bedoeld in artikel 1.2.1, tweede lid, een verwijzing naar dit internetadres;  
+
+2°. [3.1.6, eerste lid, onder f, en vierde lid, onder c](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);    
+
+b. de bij de ministeriële regeling, bedoeld in [artikel 1.2.6 van het Besluit ruimtelijke ordening](../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), gestelde regels of nadere regels.  
+
+c. [hoofdstuk VIIIa van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), met dien verstande dat: 
+
+1°. in afwijking van [afdeling 1 van dat hoofdstuk](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) een besluit als bedoeld in [artikel 110a van die wet](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) deel kan uitmaken van het bestemmingsplan, en dat  
+
+2°. in afwijking van [afdeling 2 van dat hoofdstuk](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) de mate van detail van de ten behoeve van de vaststelling van de geluidbelasting te verrichten akoestische onderzoeken kan worden afgestemd op het detailniveau en de fase van voorbereiding van het bestemmingsplan;    
+
+d. [artikel 5.4 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), met dien verstande dat: 
+
+1°. een besluit als bedoeld in [artikel 110a van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) deel kan uitmaken van het bestemmingsplan en  
+
+2°. de mate van detail van de ten behoeve van de vaststelling van de geluidbelasting te verrichten akoestische onderzoeken kan worden afgestemd op het detailniveau en de fase van voorbereiding van het bestemmingsplan.       
+10.  Bij de vaststelling van het bestemmingsplan kan de raad besluiten af te wijken van [artikel 6.12, eerste en derde lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met dien verstande dat een exploitatieplan door burgemeester en wethouders kan worden vastgesteld bij een omgevingsvergunning voor het bouwen.   
+11.  [Artikel 8.42b van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikel 2.19 van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) zijn op het bestemmingsplan van overeenkomstige toepassing.   
+12.  De raad kan de bevoegdheid tot het wijzigen van onderdelen van het bestemmingsplan delegeren aan burgemeester en wethouders.   
+13.  Dit artikel is van toepassing op de volgende plangebieden: 
+
+a. Oosterwold in de gemeenten Almere en Zeewolde, zoals aangegeven op de kaart in bijlage 37;  
+
+b. Weerwater in de gemeente Almere, zoals aangegeven op de kaart in bijlage 38;  
+
+c. Toeristisch, recreatieve zone (inclusief het TT-circuit) in de gemeente Assen, zoals aangegeven op de kaart in bijlage 39;  
+
+d. Spoorzone in de gemeente Culemborg, zoals aangegeven op de kaart in bijlage 40;  
+
+e. Binckhorst in de gemeente Den Haag, zoals aangegeven op de kaart in bijlage 41;  
+
+f. luchthaven Twente in de gemeente Enschede, zoals aangegeven op de kaart in bijlage 42;  
+
+g. Bloemendalerpolder in de gemeenten Muiden en Weesp, zoals aangegeven op de kaart in bijlage 43;  
+
+h. Hembrugterrein in de gemeente Zaandstad, zoals aangegeven op de kaart in bijlage 44.    
+
+### Artikel  7d  
+
+Bij het vaststellen van de bestemmingsplannen voor Binckhorst respectievelijk voor het Hembrugterrein, genoemd in artikel 7c, twaalfde lid, onderdeel e, respectievelijk onderdeel h, kan de raad van de gemeente Den Haag respectievelijk van de gemeente Zaanstad besluiten tot afwijking gedurende een periode van maximaal tien jaar van: 
+
+a. [artikel 45, eerste lid, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), met dien verstande dat de ter plaatse ten hoogste toelaatbare geluidbelasting, bedoeld in [artikel 44 van die wet](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), voor woningen in stedelijk gebied niet hoger mag worden vastgesteld dan 65 dB(A);  
+
+b. [artikel 83, eerste lid, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) met dien verstande dat: 
+
+1°. niet afgeweken kan worden van de ter plaatse ten hoogste toelaatbare geluidbelasting voor woningen, die gelegen zijn in zones langs wegen waarvoor geluidproductieplafonds als bedoeld in [artikel 11.19 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gelden, en  
+
+2°. de ter plaatse ten hoogste toelaatbare geluidbelasting, bedoeld in [artikel 82, eerste lid, van die wet](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) niet hoger mag worden vastgesteld dan 63 dB;    
+
+c. [artikel 3.2, eerste lid, onder b, van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), met dien verstande dat: 
+
+1°. niet afgeweken kan worden van de ter plaatse ten hoogste toelaatbare geluidbelasting voor andere geluidgevoelige objecten in zones langs wegen waarvoor geluidproductieplafonds als bedoeld in [artikel 11.19 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gelden en  
+
+2°. de ten hoogste toelaatbare geluidbelasting niet hoger mag worden vastgesteld dan 68 dB.     
+
+### Artikel  7e  
+
+Indien binnen de op de kaarten in bijlage 45<sup>A en B</sup> aangegeven gebieden Amstel III en Teleport in de gemeente Amsterdam bij een herziening van een bestemmingsplan onbenutte bouwmogelijkheden worden wegbestemd, wordt de planschade aangemerkt als voorzienbaar in de zin van [artikel 6.3, aanhef en onder a](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), indien: 
+
+a. deze herziening ten minste drie jaar voor de vaststelling van het bestemmingsplan is aangekondigd;  
+
+b. van de voorgenomen herziening kennis is gegeven aan de eigenaren in het gebied, en  
+
+c. gedurende deze termijn de mogelijkheid bestond de bouw- of gebruiksmogelijkheden te realiseren.   
 
 ### Paragraaf  4  
 
@@ -274,7 +372,7 @@ b. bestemmingsplan Valkenburg, gemeente Katwijk, zoals aangegeven op de kaart in
 
 ### Artikel  8  
 
-1.  Als categorieën andere projecten van maatschappelijke betekenis als bedoeld in artikel 2.9, eerste lid, onderdeel b, van de wet worden aangewezen: 
+1.  Als categorieën andere projecten van maatschappelijke betekenis als bedoeld in [artikel 2.9, eerste lid, onderdeel b, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) worden aangewezen: 
 
 a. onderwijsgebouwen;  
 
@@ -289,7 +387,7 @@ e. medische centra;
 f. poliklinieken, en  
 
 g. medische kleuterdagverblijven.     
-2.  Indien een project als bedoeld in het eerste lid tevens voorziet in een beperkte mate van woningbouw, doet dat geen afbreuk aan de kwalificatie van het project als project van maatschappelijke betekenis als bedoeld in dat lid.   
+2.  Indien een project als bedoeld in het eerste lid tevens voorziet in een beperkte mate van woningbouw, doet dat geen afbreuk aan de kwalificatie van het project als project van maatschappelijke betekenis als bedoeld in dat lid.  
 
 ### Paragraaf  5  
 
@@ -297,13 +395,13 @@ g. medische kleuterdagverblijven.
 
 ### Artikel  9  
 
-Als lokaal project met nationale betekenis als bedoeld in artikel 2.18 juncto artikel 2.19 van de wet worden aangewezen: 
+Als lokaal project met nationale betekenis als bedoeld in [artikel 2.18](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) juncto [artikel 2.19 van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) worden aangewezen: 
 
-a. FlorijnAs te Assen, omvattende de gebieden Stadsboulevard, het Stadsbedrijvenpark, het Havenkwartier, de Blauwe As 2 <sup>e</sup> fase, het Stationsgebied, Assen-Zuid en het Nationaal landschap Drentsche Aa ten oosten van de stad zoals aangegeven op de kaart in bijlage 5;  
+a. FlorijnAs te Assen, omvattende de gebieden Stadsboulevard, het Stadsbedrijvenpark, het Havenkwartier, de Blauwe As 2<sup>e</sup> fase, het Stationsgebied, Assen-Zuid en het Nationaal landschap Drentsche Aa ten oosten van de stad zoals aangegeven op de kaart in bijlage 5;  
 
 b. Rotterdam Central District omvattende de projecten Schiekadeblok, Weenapoint, Kruispleingarage, Delftseplein, OV Terminal, Conradstraat, Calypso zoals aangegeven op de kaart in bijlage 6, en  
 
-c. Stationsgebied Utrecht omvattende gebied 1 (Vredenburg-Catharijnesingel, Smakkelaarsveld/Nieuwe Stationsstraat, OV-terminal, Knoopkazerne, Van Sijpesteijnkwartier, Kop Jaarbeursterrein) en gebied 2 (Jaarbeurskwartier inclusief parkeerterrein en parkeergarage overzijde Merwedekanaal, Lombokplein en Paardenveld) zoals aangegeven op de kaart in bijlage 7.    
+c. Stationsgebied Utrecht omvattende gebied 1 (Vredenburg-Catharijnesingel, Smakkelaarsveld/Nieuwe Stationsstraat, OV-terminal, Knoopkazerne, Van Sijpesteijnkwartier, Kop Jaarbeursterrein) en gebied 2 (Jaarbeurskwartier inclusief parkeerterrein en parkeergarage overzijde Merwedekanaal, Lombokplein en Paardenveld) zoals aangegeven op de kaart in bijlage 7.   
 
 ### Paragraaf  6  
 
@@ -311,45 +409,45 @@ c. Stationsgebied Utrecht omvattende gebied 1 (Vredenburg-Catharijnesingel, Smak
 
 ### Artikel  10  
 
-Onder besluiten als bedoeld in artikel 1.1, eerste lid, onderdelen a en b, van de wet worden in ieder geval niet verstaan besluiten omtrent planschade en nadeelcompensatie.  
+Onder besluiten als bedoeld in [artikel 1.1, eerste lid, onderdelen a en b, van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) worden in ieder geval niet verstaan besluiten omtrent planschade en nadeelcompensatie. 
 
 ### Artikel  11  
 
-1.  Indien afdeling 2 van hoofdstuk 1 van de wet op een besluit van toepassing is, wordt dit bij het besluit en bij de bekendmaking of mededeling van het besluit vermeld.   
+1.  Indien [afdeling 2 van hoofdstuk 1 van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) op een besluit van toepassing is, wordt dit bij het besluit en bij de bekendmaking of mededeling van het besluit vermeld.   
 2.  Indien tegen het besluit beroep openstaat, wordt bij het besluit en bij de bekendmaking van het besluit voorts vermeld dat: 
 
 a. de beroepsgronden in het beroepschrift worden opgenomen;  
 
-b. het beroep niet-ontvankelijk wordt verklaard, indien binnen de beroepstermijn geen gronden zijn ingediend, en  
+b. het beroep niet-ontvankelijk wordt verklaard, indien binnen de beroepstermijn geen gronden zijn ingediend, en 
 
-c. deze na afloop van de beroepstermijn niet meer kunnen worden aangevuld.     
+c. deze na afloop van de beroepstermijn niet meer kunnen worden aangevuld.    
 
 ### Artikel  12  
 
-1.  Indien afdeling 2 van hoofdstuk 1 van de wet van toepassing is op het hoger beroep tegen een uitspraak van de rechtbank, wordt dit in de uitspraak vermeld.   
+1.  Indien [afdeling 2 van hoofdstuk 1 van de wet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) van toepassing is op het hoger beroep tegen een uitspraak van de rechtbank, wordt dit in de uitspraak vermeld.   
 2.  De uitspraak vermeldt voorts dat: 
 
 a. de beroepsgronden in het beroepschrift worden opgenomen;  
 
-b. het beroep niet-ontvankelijk wordt verklaard, indien binnen de beroepstermijn geen gronden zijn ingediend, en  
+b. het beroep niet-ontvankelijk wordt verklaard, indien binnen de beroepstermijn geen gronden zijn ingediend, en 
 
-c. deze na afloop van de beroepstermijn niet meer kunnen worden aangevuld.     
+c. deze na afloop van de beroepstermijn niet meer kunnen worden aangevuld.    
 
 ### Artikel  13  
 
-Wijzigt de Crisis- en herstelwet.   
+Wijzigt de Crisis- en herstelwet. 
 
 ### Artikel  14  
 
-Wijzigt het Besluit geluidhinder.   
+Wijzigt het Besluit geluidhinder. 
 
 ### Artikel  15  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  16  
 
-Dit besluit wordt aangehaald als: Besluit uitvoering Crisis- en herstelwet.  
+Dit besluit wordt aangehaald als: Besluit uitvoering Crisis- en herstelwet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -371,270 +469,342 @@ de *zestiende* juli 2010
 De Minister van Justitie , 
 E. M. H. Hirsch Ballin    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij Besluit uitvoering Crisis- en herstelwet
 
 ####kaart Stadshavens Rotterdam
 
-![]()
+![246996](http://wetten.overheid.nl/Illustration/246996)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij Besluit uitvoering Crisis- en herstelwet
 
 ####kaart Spoorzone Deventer
 
-![]()
+![246997](http://wetten.overheid.nl/Illustration/246997)
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bij Besluit uitvoering Crisis- en herstelwet
 
 ####kaart Spoorzone Zwolle
 
-![]()
+![246998](http://wetten.overheid.nl/Illustration/246998)
 
-### Bijlage  4  
+### Bijlage 4 
 
 ####bij Besluit uitvoering Crisis- en herstelwet
 
 ####kaart Zaanstad Midden
 
-![]()
+![246999](http://wetten.overheid.nl/Illustration/246999)
 
-### Bijlage  5  
+### Bijlage 5 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Assen Florijnas
 
-![]()
+![251658](http://wetten.overheid.nl/Illustration/251658)
 
-### Bijlage  6  
+### Bijlage 6 
 
 ####bij Besluit uitvoering Crisis- en herstelwet
 
 ####kaart Rotterdam Central District
 
-![]()
+![247001](http://wetten.overheid.nl/Illustration/247001)
 
-### Bijlage  7  
+### Bijlage 7 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Utrecht Stationsgebied
 
-![]()
+![251237](http://wetten.overheid.nl/Illustration/251237)
 
-### Bijlage  8  
+###Bijlage 8 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Almere Weerwater
 
-![]()
+![248822](http://wetten.overheid.nl/Illustration/248822)
 
-### Bijlage  9  
+###Bijlage 9 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Amsterdam Buiksloterham
 
-![]()
+![248823](http://wetten.overheid.nl/Illustration/248823)
 
-### Bijlage  10  
+###Bijlage 10 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Doetinchem Hamburgerbroek
 
-![]()
+![248824](http://wetten.overheid.nl/Illustration/248824)
 
-### Bijlage  11  
+###Bijlage 11 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Maasdonk Nuland Oost
 
-![]()
+![248825](http://wetten.overheid.nl/Illustration/248825)
 
-### Bijlage  12  
+###Bijlage 12 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Vliegbasis Soesterberg, Vliegbasis Zeist en Soesterberg Noord
 
-![]()
+![251238](http://wetten.overheid.nl/Illustration/251238)
 
-### Bijlage  13  
+###Bijlage 13 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Tilburg Spoorzone
 
-![]()
+![248827](http://wetten.overheid.nl/Illustration/248827)
 
-### Bijlage  14  
+###Bijlage 14 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Eindhoven - spoorzone
 
-![]()
+![251659](http://wetten.overheid.nl/Illustration/251659)
 
-### Bijlage  15  
+###Bijlage 15 
 
 ####bij Besluit uitvoering Crisis en Herstelwet
 
 ####Kaart Zwolle Bodemenergie
 
-![]()
+![248829](http://wetten.overheid.nl/Illustration/248829)
 
-### Bijlage  16  
-
-####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
-
-![]()
-Kaart Amersfoort kop van Isselt  
-
-### Bijlage  17  
+###Bijlage 16 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
 
-![]()
-Kaart Apeldoorn Kanaalzone  
+![250673](http://wetten.overheid.nl/Illustration/250673)
+Kaart Amersfoort kop van Isselt
 
-### Bijlage  18  
-
-####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
-
-![]()
-Kaart Stichtse Vecht gebiedsontwikkeling Vreeland Oost  
-
-### Bijlage  19  
+###Bijlage 17 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
 
-![]()
-Kaart Veghel gebiedsontwikkeling Heilig Hartplein en Noordkade  
+![250674](http://wetten.overheid.nl/Illustration/250674)
+Kaart Apeldoorn Kanaalzone
 
-### Bijlage  20  
+###Bijlage 18 
+
+####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
+
+![250675](http://wetten.overheid.nl/Illustration/250675)
+Kaart Stichtse Vecht gebiedsontwikkeling Vreeland Oost
+
+###Bijlage 19 
+
+####bij Besluit uitvoering Crisis- en Herstelwet, derde tranche
+
+![250676](http://wetten.overheid.nl/Illustration/250676)
+Kaart Veghel gebiedsontwikkeling Heilig Hartplein en Noordkade
+
+###Bijlage 20 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Harderwijk Waterfront De Eilanden
 
-![]()
+![251239](http://wetten.overheid.nl/Illustration/251239)
 
-### Bijlage  21  
+###Bijlage 21 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Brummen – Centrumplan Eerbeek
 
-![]()
+![251240](http://wetten.overheid.nl/Illustration/251240)
 
-### Bijlage  22  
+###Bijlage 22 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Arnhem – Oostelijk centrumgebied
 
-![]()
+![251242](http://wetten.overheid.nl/Illustration/251242)
 
-### Bijlage  23  
+###Bijlage 23 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Tilburg – Gebiedsgericht grondwaterbeheer
 
-![]()
+![251241](http://wetten.overheid.nl/Illustration/251241)
 
-### Bijlage  24  
+###Bijlage 24 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Rotterdam - Haven- en industriecomplex
 
-![]()
+![251661](http://wetten.overheid.nl/Illustration/251661)
 
-### Bijlage  25  
+###Bijlage 25 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Bergambacht - Dijklaan 83-87
 
-![]()
+![251662](http://wetten.overheid.nl/Illustration/251662)
 
-### Bijlage  26  
+###Bijlage 26 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Nieuwegein - Blokhoeve
 
-![]()
+![251663](http://wetten.overheid.nl/Illustration/251663)
 
-### Bijlage  27  
+###Bijlage 27 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
 ####Kaart Haarlemmermeer - Badhoevedorp
 
-![]()
+![251664](http://wetten.overheid.nl/Illustration/251664)
 
-### Bijlage  28  
-
-####bij Besluit uitvoering Crisis- en Herstelwet
-
-![]()
-Kaart Amsterdam, Cruquiusgebied  
-
-### Bijlage  29  
+###Bijlage 28 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
-![]()
-Kaart Beuningen, Gebied Laan 1914  
+![252155](http://wetten.overheid.nl/Illustration/252155)
+Kaart Amsterdam, Cruquiusgebied
 
-### Bijlage  30  
-
-####bij Besluit uitvoering Crisis- en Herstelwet
-
-![]()
-Kaart Den Helder, Nieuwe Den Helder  
-
-### Bijlage  31  
+###Bijlage 29 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
-![]()
-Kaart Maastricht, Voormalig NAVO-terrein  
+![252156](http://wetten.overheid.nl/Illustration/252156)
+Kaart Beuningen, Gebied Laan 1914
 
-### Bijlage  32  
-
-####bij Besluit uitvoering Crisis- en Herstelwet
-
-![]()
-Kaart Overbetuwe  
-
-### Bijlage  33  
+###Bijlage 30 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
-![]()
-Kaart Tynaarlo  
+![252157](http://wetten.overheid.nl/Illustration/252157)
+Kaart Den Helder, Nieuwe Den Helder
 
-### Bijlage  34  
-
-####bij Besluit uitvoering Crisis- en Herstelwet
-
-![]()
-Kaart Assen, Bestemmingsplan Havenkwartier  
-
-### Bijlage  35  
+###Bijlage 31 
 
 ####bij Besluit uitvoering Crisis- en Herstelwet
 
-![]()
-Kaart Katwijk, Bestemmingsplan Valkenburg  
+![252158](http://wetten.overheid.nl/Illustration/252158)
+Kaart Maastricht, Voormalig NAVO-terrein
+
+###Bijlage 32 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![252159](http://wetten.overheid.nl/Illustration/252159)
+Kaart Overbetuwe
+
+###Bijlage 33 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![252160](http://wetten.overheid.nl/Illustration/252160)
+Kaart Tynaarlo
+
+###Bijlage 34 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![252161](http://wetten.overheid.nl/Illustration/252161)
+Kaart Assen, Bestemmingsplan Havenkwartier
+
+###Bijlage 35 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+![252162](http://wetten.overheid.nl/Illustration/252162)
+Kaart Katwijk, Bestemmingsplan Valkenburg 
+
+###Bijlage  36 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253681](http://wetten.overheid.nl/Illustration/253681)
+A. Kaart Delfzijl, Zeehaven- en industriegebieden Oosterhorn en Eemshaven![253682](http://wetten.overheid.nl/Illustration/253682)
+B. Kaart Delfzijl, Zeehaven- en industriegebieden Oosterhorn en Eemshaven
+
+###Bijlage  37 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253683](http://wetten.overheid.nl/Illustration/253683)
+Kaart Almere, Oosterwold
+
+###Bijlage  38 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253684](http://wetten.overheid.nl/Illustration/253684)
+Kaart Almere, Weerwater
+
+###Bijlage  39 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253685](http://wetten.overheid.nl/Illustration/253685)
+Kaart Assen, Toeristisch-recreatieve zone incl. TT-circuit
+
+###Bijlage  40 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253686](http://wetten.overheid.nl/Illustration/253686)
+Kaart Culemborg, Spoorzone
+
+###Bijlage  41 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253687](http://wetten.overheid.nl/Illustration/253687)
+Kaart Den Haag, Binckhorst
+
+###Bijlage  42 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253688](http://wetten.overheid.nl/Illustration/253688)
+Kaart Enschede, Luchthaven Twente
+
+###Bijlage  43 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253689](http://wetten.overheid.nl/Illustration/253689)
+Kaart Weesp, Bloemendalerpolder
+
+###Bijlage  44 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253690](http://wetten.overheid.nl/Illustration/253690)
+Kaart Zaanstad, Hembrugterrein
+
+###Bijlage  45 
+
+#### * bij Besluit uitvoering Crisis- en Herstelwet* 
+
+![253691](http://wetten.overheid.nl/Illustration/253691)
+A. Kaart Amsterdam, Amstel III en Telepoort![253692](http://wetten.overheid.nl/Illustration/253692)
+B. Kaart Amsterdam, Amstel III en Telepoort

@@ -16,29 +16,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken;  
+a.  *Onze Minister:* Onze Minister van Economische Zaken;  
 
-b. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
+b.  *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
-c. *warmtenet:* het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;  
+c.  *warmtenet:* het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;  
 
-d. *warmte:* warm water of tapwater bestemd voor ruimteverwarming, sanitaire doeleinden en huishoudelijk gebruik;  
+d.  *warmte:* warm water of tapwater bestemd voor ruimteverwarming, sanitaire doeleinden en huishoudelijk gebruik;  
 
-e. *levering van warmte:* de aflevering van warmte aan verbruikers;  
+e.  *levering van warmte:* de aflevering van warmte aan verbruikers;  
 
-f. *ontwikkelaar:* een persoon die een bouwproject ontwikkelt in een gebied waar de gebouwverwarming door middel van een warmtenet verzorgd wordt of zal worden;  
+f.  *ontwikkelaar:* een persoon die een bouwproject ontwikkelt in een gebied waar de gebouwverwarming door middel van een warmtenet verzorgd wordt of zal worden;  
 
-g. *verbruiker:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft van maximaal 100 kilowatt;  
+g.  *verbruiker:* een persoon die warmte afneemt van een warmtenet en een aansluiting heeft van maximaal 100 kilowatt;  
 
-h. *leverancier:* een persoon die zich bezighoudt met de levering van warmte;  
+h.  *leverancier:* een persoon die zich bezighoudt met de levering van warmte;  
 
-i. *producent:* een persoon die zich bezighoudt met de productie van warmte;  
+i.  *producent:* een persoon die zich bezighoudt met de productie van warmte;  
 
-j. *vergunninghouder:* de houder van een vergunning als bedoeld in artikel 9;  
+j.  *vergunninghouder:* de houder van een vergunning als bedoeld in artikel 9;  
 
-k. *representatieve organisatie:* een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;  
+k.  *representatieve organisatie:* een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;  
 
-l. *verhuurder:* een toegelaten instelling als bedoeld in artikel 70, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden.    
+l.  *verhuurder:* een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden.  
 
 ### Hoofdstuk  2  
 
@@ -46,7 +46,7 @@ l. *verhuurder:* een toegelaten instelling als bedoeld in artikel 70, eerste li
 
 ### §  2.1  
 
-####Algemene bepalingen ten aanzien van de levering van warmte
+####Algemene bepalingen ten aanzien van de levering van warmte 
 
 ### Artikel  2  
 
@@ -63,7 +63,7 @@ c. het tarief voor de meting van het warmteverbruik, bedoeld in artikel 8, vijf
 5.  Een leverancier stelt verbruikers op toereikende wijze in kennis van elke wijziging van de prijzen voor levering van warmte en van elk voornemen tot wijziging van de aan de leveringsovereenkomst verbonden voorwaarden voor levering van warmte.   
 6.  De boekhouding van een leverancier bevat betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over de integrale kosten en opbrengsten die verband houden met de levering van warmte en het verrichten van de aansluiting.   
 7.  Een leverancier houdt een storingsregistratie bij betreffende de levering van warmte en publiceert deze jaarlijks op geschikte wijze.   
-8.  Een producent aangesloten op een warmtenet is verplicht op verzoek van de leverancier te onderhandelen over het beschikbaar stellen van warmte tegen redelijke prijzen en voorwaarden.   
+8.  Een producent aangesloten op een warmtenet is verplicht op verzoek van de leverancier te onderhandelen over het beschikbaar stellen van warmte tegen redelijke prijzen en voorwaarden.  
 
 ### Artikel  3  
 
@@ -78,37 +78,37 @@ c. de voorwaarden voor opschorting of beëindiging van de overeenkomst;
 d. een omschrijving van de toepasselijke vergoedingen, waaronder de uitkering van compensatie bij een ernstige storing in de levering van warmte, en terugbetalingsregelingen als de geleverde goederen en diensten niet aan de overeengekomen kwaliteitsniveaus voldoen.     
 2.  In een overeenkomst wordt in ieder geval bepaald dat, onverminderd de bevoegdheid van de burgerlijke rechter, verbruikers geschillen die voortvloeien uit de desbetreffende overeenkomst kunnen voorleggen aan een onafhankelijke geschillencommissie. De geschillenprocedure dient snel, transparant, eenvoudig en goedkoop te zijn. De overeenkomst vermeldt de wijze waarop geschillenprocedures aanhangig kunnen worden gemaakt.   
 3.  Op een overeenkomst tot levering van warmte is Nederlands recht van toepassing. Elk andersluidend beding is nietig.   
-4.  Bij ministeriële regeling wordt de hoogte vastgesteld van de compensatie bij een ernstige storing in de levering van warmte, bedoeld in het eerste lid, onder d, die voor storingen van verschillende tijdsduur verschillend kan worden vastgesteld.   
+4.  Bij ministeriële regeling wordt de hoogte vastgesteld van de compensatie bij een ernstige storing in de levering van warmte, bedoeld in het eerste lid, onder d, die voor storingen van verschillende tijdsduur verschillend kan worden vastgesteld.  
 
 ### Artikel  4  
 
 1.  De leverancier stelt al hetgeen redelijkerwijs in zijn vermogen ligt in het werk om afsluiting dan wel onderbreking van de levering van warmte te voorkomen, of indien een onderbreking van de levering van warmte optreedt, deze zo snel mogelijk te verhelpen. Afsluiting van een verbruiker wordt in het bijzonder voorkomen in de periode van 1 oktober tot 1 april van enig jaar.   
 2.  De leverancier stelt een verbruiker tenminste drie dagen van tevoren op de hoogte van door hem geplande werkzaamheden waarbij de levering van warmte aan de verbruiker moet worden onderbroken.   
-3.  Bij ministeriële regeling worden regels gesteld over afsluiting van de levering van een verbruiker van warmte alsmede over preventieve maatregelen om de afsluiting van een verbruiker waar mogelijk te voorkomen.   
+3.  Bij ministeriële regeling worden regels gesteld over afsluiting van de levering van een verbruiker van warmte alsmede over preventieve maatregelen om de afsluiting van een verbruiker waar mogelijk te voorkomen.  
 
 ### Artikel  5  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt de maximumprijs vast die een leverancier ten hoogste zal berekenen voor de levering van warmte. Het besluit tot vaststelling van een maximumprijs wordt bekendgemaakt in de Staatscourant.   
+1.  De Autoriteit Consument en Markt stelt de maximumprijs vast die een leverancier ten hoogste zal berekenen voor de levering van warmte. Het besluit tot vaststelling van een maximumprijs wordt bekendgemaakt in de Staatscourant.   
 2.  De maximumprijs: 
 
 a. is gebaseerd op de integrale kosten die een verbruiker zou moeten maken voor het verkrijgen van dezelfde hoeveelheid warmte bij het gebruik van gas als energiebron. Deze kosten worden bepaald met de rendementsmethode;  
 
 b. is opgebouwd uit een gebruiksafhankelijk deel, uitgedrukt in een bedrag in euro per gigajoule, en een gebruiksonafhankelijk deel uitgedrukt in een bedrag in euro.     
-3.  De maximumprijs treedt in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en geldt tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs. Indien op 1 januari de maximumprijs voor dat jaar nog niet is vastgesteld, geldt de laatst vastgestelde maximumprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs voor het volgende jaar.   
+3.  De maximumprijs treedt in werking op een door de Autoriteit Consument en Markt te bepalen datum en geldt tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs. Indien op 1 januari de maximumprijs voor dat jaar nog niet is vastgesteld, geldt de laatst vastgestelde maximumprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs voor het volgende jaar.   
 4.  Na de inwerkingtreding van het besluit tot vaststelling van de maximumprijs, bedoeld in het derde lid, worden de prijzen voor levering van warmte die hoger zijn dan de maximumprijs van rechtswege gesteld op die maximumprijs.   
-5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de elementen en wijze van berekening van de maximumprijs, bedoeld in het eerste lid. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de elementen en wijze van berekening van de maximumprijs, bedoeld in het eerste lid. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  6  
 
 1.  Indien door een leverancier bij een individuele afnemer een eenmalige aansluitbijdrage in rekening wordt gebracht voor een onvoorziene aansluiting op een bestaand warmtenet, bedraagt deze bijdrage maximaal hetgeen een gasverbruiker zou bijdragen in de situatie waarbij sprake is van aansluiting op een gasnet.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de aansluitbijdrage en de toepassing van het eerste lid.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de aansluitbijdrage en de toepassing van het eerste lid.  
 
 ### Artikel  7  
 
-1.  De raad van bestuur van de mededingingsautoriteit verzamelt, analyseert en bewerkt inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen in de warmteleveringsmarkt. De raad brengt binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar aan Onze Minister verslag uit van de monitoring.   
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
-4.   Dit lid is nog niet in werking getreden.    
+1.  De Autoriteit Consument en Markt verzamelt, analyseert en bewerkt inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen in de warmteleveringsmarkt. De Autoriteit Consument en Markt brengt binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar aan Onze Minister verslag uit van de monitoring.   
+2.  Dit lid is nog niet in werking getreden.   
+3.  Dit lid is nog niet in werking getreden.   
+4.  Dit lid is nog niet in werking getreden.  
 
 ### Artikel  8  
 
@@ -129,8 +129,8 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 3.  Indien een meetinrichting die op afstand uitleesbaar is door een leverancier aan een verbruiker ter beschikking wordt gesteld, kan die verbruiker deze meter weigeren. In dat geval wordt door de leverancier een niet op afstand uitleesbare meter ter beschikking gesteld.   
 4.  Een leverancier leest meetgegevens van een verbruiker, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de verbruiker hierom verzoekt.   
 5.  Het tarief voor de meting van het warmteverbruik wordt vastgesteld op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.   
-6.   Dit lid is nog niet in werking getreden.    
-7.  Het is anderen dan de desbetreffende leverancier verboden een taak uit te voeren als bedoeld in het eerste en tweede lid.   
+6.  Dit lid is nog niet in werking getreden.   
+7.  Het is anderen dan de desbetreffende leverancier verboden een taak uit te voeren als bedoeld in het eerste en tweede lid.  
 
 ### Artikel  8a  
 
@@ -143,11 +143,11 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 7.  Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier de werking van de warmtekostenverdelers controleren door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige. De toedeling van de kosten van dit onderzoek tussen verbruikers en leverancier vindt plaats op basis van de conclusie van het onderzoek.   
 8.  Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Nederlandse Mededingingsautoriteit worden gevraagd om deze aan te wijzen.   
 9.  De leverancier verleent aan het onderzoek de nodige medewerking.   
-10.  Indien bestaande technische voorzieningen als bedoeld in het vijfde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.   
+10.  Indien bestaande technische voorzieningen als bedoeld in het vijfde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.  
 
 ### §  2.2  
 
-####Bijzondere bepalingen ten aanzien van vergunninghouders
+####Bijzondere bepalingen ten aanzien van vergunninghouders 
 
 ### Artikel  9  
 
@@ -158,7 +158,7 @@ a. warmte levert aan ten hoogste 10 verbruikers tegelijk,
 
 b. per jaar niet meer warmte levert dan 10.000 gigajoules, of  
 
-c. de verhuurder of de eigenaar is van het gebouw, ten behoeve waarvan de warmte wordt geleverd.     
+c. de verhuurder of de eigenaar is van het gebouw, ten behoeve waarvan de warmte wordt geleverd.    
 
 ### Artikel  10  
 
@@ -170,7 +170,7 @@ b. redelijkerwijs in staat kan worden geacht de verplichtingen als opgenomen in 
 2.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van en de procedure voor aanvraag van een vergunning en de criteria, bedoeld in het eerste lid.   
 3.  Onze Minister kan voorschriften en beperkingen verbinden aan een vergunning. Aan de vergunning wordt in ieder geval een voorschrift verbonden omtrent de minimum- en maximumtemperatuur van de te leveren warmte. De minimum- en maximumtemperatuur van de te leveren warmte kan voor ieder warmtenet of deel van een warmtenet verschillen.   
 4.  Onze Minister kan de aan een vergunning verbonden voorschriften of beperkingen wijzigen.   
-5.  Een vergunning kan slechts worden overgedragen met toestemming van Onze Minister. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing.   
+5.  Een vergunning kan slechts worden overgedragen met toestemming van Onze Minister. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
@@ -186,23 +186,23 @@ c. de vergunninghouder de opgedragen voorzieningen, bedoeld in artikel 12b, twe
 d. de vergunninghouder bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;  
 
 e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet langer in staat moet worden geacht de vergunde activiteit of in de vergunning opgenomen voorschriften na te komen.     
-3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de criteria voor het intrekken van een vergunning en de procedure bij intrekking van een vergunning. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de criteria voor het intrekken van een vergunning en de procedure bij intrekking van een vergunning. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  12  
 
 1.  Een vergunninghouder biedt verbruikers een ruime keuze uit betalingswijzen.   
 2.  De vergunninghouder zorgt jegens verbruikers voor een goede bereikbaarheid. De vergunninghouder handelt correspondentie van verbruikers binnen tien werkdagen af. Indien een oplossing in deze periode niet mogelijk is, ontvangt de verbruiker binnen vijf werkdagen bericht binnen welke termijn een adequate reactie kan worden verwacht.   
-3.  De vergunninghouder gebruikt aan hem verstrekte gegevens over verbruikers uitsluitend voor het uitvoeren van de in deze wet aan de vergunninghouder opgedragen taken.   
+3.  De vergunninghouder gebruikt aan hem verstrekte gegevens over verbruikers uitsluitend voor het uitvoeren van de in deze wet aan de vergunninghouder opgedragen taken.  
 
 ### Artikel  12a  
 
 1.  De vergunninghouder voert een afzonderlijke boekhouding met betrekking tot de levering van warmte en, indien van toepassing, voor de levering van koude.   
 2.  De vergunninghouder publiceert een jaarrekening en een jaarverslag. Het jaarverslag bevat betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over de door de vergunninghouder bij verbruikers in rekening gebrachte prijs en omtrent de integrale kosten en opbrengsten die verband houden met de levering van warmte. De in het jaarverslag opgenomen informatie is voorzien van een accountantsverklaring.   
-3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en artikel 2, zesde lid.   
+3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en artikel 2, zesde lid.  
 
 ### §  2.3  
 
-####Noodvoorziening
+####Noodvoorziening 
 
 ### Artikel  12b  
 
@@ -212,7 +212,7 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 4.  Indien de leverancier niet voldoet aan een opdracht als bedoeld in het tweede lid of indien naar het oordeel van Onze Minister door de bedrijfsvoering van deze leverancier de continuïteit of de betrouwbaarheid van de warmtelevering in gevaar komt en onverwijld ingrijpen noodzakelijk is, kan Onze Minister de leverancier aanzeggen dat hij vanaf een bepaald tijdstip voor een bepaalde termijn de opdrachten dient op te volgen die aan hem worden verstrekt door een door Onze Minister aangewezen persoon.   
 5.  Bij de aanzegging, bedoeld in het vierde lid, geeft Onze Minister aan ter bescherming van welk belang de aanzegging geschiedt. De aangewezen persoon verstrekt uitsluitend opdrachten ter bescherming van dit belang. Bij de aanzegging kunnen voorschriften en beperkingen worden gesteld aan de te geven opdrachten.   
 6.  De leverancier verschaft de door Onze Minister aangewezen persoon desgevraagd alle medewerking.   
-7.  Voor schade ten gevolge van handelingen die zijn verricht in strijd met een opdracht als bedoeld in het vierde lid, zijn bestuurders persoonlijk aansprakelijk tegenover de leverancier.   
+7.  Voor schade ten gevolge van handelingen die zijn verricht in strijd met een opdracht als bedoeld in het vierde lid, zijn bestuurders persoonlijk aansprakelijk tegenover de leverancier.  
 
 ### Artikel  12c  
 
@@ -221,13 +221,13 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 3.  Onze Minister kan voorwaarden en beperkingen verbinden aan de aanwijzing, bedoeld in het eerste lid, en stelt bij de aanwijzing een redelijke vergoeding vast voor de uitvoering van de opgedragen taak.   
 4.  Onze Minister kan een producent opdragen warmte te produceren en deze warmte ter beschikking te stellen aan een door hem aangewezen noodleverancier.   
 5.  Onze Minister kan voorwaarden en beperkingen verbinden aan de opdracht, bedoeld in het vierde lid, en stelt bij de opdracht een redelijke vergoeding vast voor de uitvoering van de opgedragen taak.   
-6.  Een ieder is verplicht medewerking te verlenen aan de noodleverancier, bedoeld in het eerste lid, of de producent, bedoeld in het vierde lid, voor zover dit redelijkerwijs van hem kan worden verlangd.   
+6.  Een ieder is verplicht medewerking te verlenen aan de noodleverancier, bedoeld in het eerste lid, of de producent, bedoeld in het vierde lid, voor zover dit redelijkerwijs van hem kan worden verlangd.  
 
 ### Artikel  12d  
 
-1.  Onze Minister kan een netbeheerder als bedoeld in artikel 2, eerste lid, van de Gaswet, opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
+1.  Onze Minister kan een netbeheerder als bedoeld in [artikel 2, eerste lid, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md), opdracht geven tot het aanleggen van een gastransportnet in het door hem aangewezen gebied. Verbruikers ontvangen een gehele of gedeeltelijke tegemoetkoming in verband met de kosten van de aansluiting op het gastransportnet.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de hoogte van de vergoeding, bedoeld in het eerste lid en over de wijze waarop de betrokken verbruikers een gehele of gedeeltelijke tegemoetkoming ontvangen, waarbij de hoogte van de tegemoetkoming voor verschillende groepen verbruikers verschillend kan worden vastgesteld.   
-3.  De opdracht, bedoeld in het eerste lid, wordt niet gegeven dan nadat Onze Minister onderzocht heeft of anders dan door aanleg van een gastransportnet voorzien kan worden in een volwaardig alternatief voor het warmtenet. Indien uit dit onderzoek blijkt dat een volwaardig alternatief beschikbaar is dat uit oogpunt van duurzaamheid, kosten of een ander publiek belang de voorkeur verdient bevordert Onze Minister de totstandkoming van dat alternatief.   
+3.  De opdracht, bedoeld in het eerste lid, wordt niet gegeven dan nadat Onze Minister onderzocht heeft of anders dan door aanleg van een gastransportnet voorzien kan worden in een volwaardig alternatief voor het warmtenet. Indien uit dit onderzoek blijkt dat een volwaardig alternatief beschikbaar is dat uit oogpunt van duurzaamheid, kosten of een ander publiek belang de voorkeur verdient bevordert Onze Minister de totstandkoming van dat alternatief.  
 
 ### Hoofdstuk  3  
 
@@ -235,14 +235,14 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  13  
 
-1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in artikel 2 van de Elektriciteitswet 1998.   
+1.  Onze Minister kan van een producent, een leverancier of een verbruiker de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van deze wet en voor het opstellen van het energierapport, bedoeld in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
 2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door Onze Minister te stellen redelijke termijn alle medewerking te verlenen die hij redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
-3.  Onze Minister gebruikt gegevens of inlichtingen welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet uitsluitend voor de uitoefening van die taak.   
+3.  Onze Minister gebruikt gegevens of inlichtingen welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken op grond van deze wet uitsluitend voor de uitoefening van die taak.  
 
 ### Artikel  14  
 
-1.  Artikel 13 is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet.   
-2.  De raad van bestuur van de mededingautoriteit kan van een gasbedrijf als bedoeld in artikel 1, onderdeel j, van de Gaswet verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van deze wet.   
+1. Artikel 13, eerste en tweede lid, is van overeenkomstige toepassing op de Autoriteit Consument en Markt voor zover zij inlichtingen en gegevens nodig heeft voor de uitvoering van haar taken op grond van deze wet.  
+2.  De Autoriteit Consument en Markt kan van een gasbedrijf als bedoeld in [artikel 1, onderdeel j, van de Gaswet](../../../wet/gaswet/BWBR0011440/README.md) verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die zij nodig heeft voor de uitvoering van deze wet. 
 
 ### Hoofdstuk  4  
 
@@ -250,34 +250,34 @@ e. de vergunninghouder naar het oordeel van Onze Minister om andere redenen niet
 
 ### Artikel  15  
 
-1.  De raad van bestuur van de mededingingsautoriteit is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet.   
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren.   
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+1. De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet.  
+2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
+3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant. 
 
 ### Artikel  16  
 
-De raad van bestuur van de mededingingsautoriteit kan bij een producent, leverancier of verbruiker metingen verrichten of doen verrichten. De producent, leverancier of verbruiker gedoogt dat de metingen in zijn leidingen, installaties of hulpmiddelen worden verricht.  
+De Autoriteit Consument en Markt kan bij een producent, leverancier of verbruiker metingen verrichten of doen verrichten. De producent, leverancier of verbruiker gedoogt dat de metingen in zijn leidingen, installaties of hulpmiddelen worden verricht. 
 
 ### Artikel  17  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan een bindende aanwijzing geven in verband met de naleving van deze wet.   
-2.  Van een beschikking als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.   
+1.  De Autoriteit Consument en Markt kan een bindende aanwijzing geven in verband met de naleving van deze wet.   
+2.  Van een beschikking als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.  
 
 ### Artikel  18  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen.   
-2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.   
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen.   
+2.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
 3.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-4.  Indien de raad van bestuur van de mededingingsautoriteit vaststelt dat een overtreding, bedoeld in het eerste lid, is begaan, maakt hij daarvan een rapport op.   
-5.  Afdeling 5.4.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
-6.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 14, 17 en 40 alsmede artikel 5:20 van de Algemene wet bestuursrecht, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-7.  De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek.   
+4.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding, bedoeld in het eerste lid, is begaan, maakt zij daarvan een rapport op.   
+5.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+6.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 2, 5, eerste en vierde lid, 9, eerste lid, 13, 14, 17 en 40 alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
+7.  De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
 
 ### Artikel  19  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt een handhavingsplan op. Het plan beschrijft de procedure en de wijze waarop de raad van bestuur van de mededingingsautoriteit zijn in deze wet toegekende handhavingsbevoegdheden toepast. Het handhavingsplan gaat uit van een hoog niveau van bescherming van verbruikers.   
+1.  De Autoriteit Consument en Markt stelt een handhavingsplan op. Het plan beschrijft de procedure en de wijze waarop de Autoriteit Consument en Markt haar in deze wet toegekende handhavingsbevoegdheden toepast. Het handhavingsplan gaat uit van een hoog niveau van bescherming van verbruikers.   
 2.  Het handhavingsplan behoeft goedkeuring van Onze Minister.   
-3.  Het besluit tot goedkeuring wordt bekendgemaakt in de Staatscourant.   
+3.  Het besluit tot goedkeuring wordt bekendgemaakt in de Staatscourant.  
 
 ### Hoofdstuk  5  
 
@@ -286,13 +286,13 @@ De raad van bestuur van de mededingingsautoriteit kan bij een producent, leveran
 ### Artikel  20  
 
 1.  Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in artikel 10, eerste lid, alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.   
-2.  Het verschuldigde bedrag kan worden ingevorderd bij dwangbevel.   
+2.  Het verschuldigde bedrag kan worden ingevorderd bij dwangbevel.  
 
 ### Hoofdstuk  6  
 
 ####Geschillenbeslechting
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Hoofdstuk  7  
 
@@ -300,38 +300,38 @@ Vervallen per 01-01-2014
 
 ### Artikel  23  
 
-Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.  
+Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet. 
 
 ### Artikel  24  
 
 1.  In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de artikelen 2, derde lid, 4, eerste lid, of 5, eerste lid en dat nadeel toebrengt aan de collectieve belangen van verbruikers.   
 2.  Op verzoek van een representatieve organisatie kan het College van Beroep voor het bedrijfsleven bevelen dat een inbreuk door de leverancier die de inbreuk maakt wordt gestaakt.   
 3.  Het College kan eveneens worden verzocht degene die de inbreuk maakt te veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, zulks op een door het College te bepalen wijze en op kosten van de door het College aan te geven partij of partijen.   
-4.  Geschillen terzake de tenuitvoerlegging van de in het eerste en tweede lid bedoelde veroordelingen worden bij uitsluiting door het College van Beroep voor het bedrijfsleven beslist.   
+4.  Geschillen terzake de tenuitvoerlegging van de in het eerste en tweede lid bedoelde veroordelingen worden bij uitsluiting door het College van Beroep voor het bedrijfsleven beslist.  
 
 ### Hoofdstuk  8  
 
 ####Doelmatige warmtevoorziening
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Paragraaf  1:  
 
 ####Subsidie
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Paragraaf  2:  
 
 ####Tarieven
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Paragraaf  3:  
 
 ####Lozing van restwarmte
 
-Vervallen per 01-01-2014   
+Vervallen per 01-01-2014 
 
 ### Hoofdstuk  9  
 
@@ -339,19 +339,19 @@ Vervallen per 01-01-2014
 
 ### Artikel  33  
 
-Wijzigt de Elektriciteitswet 1998.   
+Wijzigt de Elektriciteitswet 1998. 
 
 ### Artikel  34  
 
-Wijzigt de Gaswet.   
+Wijzigt de Gaswet. 
 
 ### Artikel  36  
 
-Wijzigt de boeken 5, 6, 7 en 8 van het Burgerlijk Wetboek.   
+Wijzigt de boeken 5, 6, 7 en 8 van het Burgerlijk Wetboek. 
 
 ### Artikel  37  
 
-Wijzigt de Mededingingswet.   
+Wijzigt de Mededingingswet. 
 
 ### Hoofdstuk  10  
 
@@ -359,60 +359,60 @@ Wijzigt de Mededingingswet.
 
 ### Artikel  38  
 
-Voor de toepassing van de Belemmeringenwet Verordeningen en de Belemmeringenwet Privaatrecht worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut.  
+Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken, die worden of zijn uitgevoerd ten behoeve van de levering van warmte, aangemerkt als openbare werken van algemeen nut. 
 
 ### Artikel  39  
 
 1.  Provinciale staten en de gemeenteraad zijn niet bevoegd de productie en levering van warmte in het belang van de energievoorziening aan regels te binden.   
-2.  Het eerste lid laat onverlet de bevoegdheden van provinciale staten en gemeenteraden bij aanleg, herstel, uitbreiding of vernieuwing van netten.   
+2.  Het eerste lid laat onverlet de bevoegdheden van provinciale staten en gemeenteraden bij aanleg, herstel, uitbreiding of vernieuwing van netten.  
 
 ### Artikel  40  
 
-Een leverancier meldt zo spoedig mogelijk na inwerkingtreding van deze wet aan de raad van bestuur van de mededingingsautoriteit: 
+Een leverancier meldt zo spoedig mogelijk na inwerkingtreding van deze wet aan de Autoriteit Consument en Markt: 
 
 a. de naam en het adres van de leverancier, en  
 
-b. een beschrijving van de door leverancier te exploiteren warmtenetten waarbij in ieder geval het aantal verbruikers en het aantal aan verbruikers geleverde gigajoules is opgenomen.    
+b. een beschrijving van de door leverancier te exploiteren warmtenetten waarbij in ieder geval het aantal verbruikers en het aantal aan verbruikers geleverde gigajoules is opgenomen.   
 
 ### Artikel  41  
 
-1.  Het in artikel 2 van de Elektriciteitswet 1998 bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
-2.  Het energierapport bevat in ieder geval een overzicht van de prijsontwikkelingen met betrekking tot levering van warmte.   
+1.  Het in [artikel 2 van de Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) bedoelde energierapport geeft mede richting aan van rijkswege te nemen beslissingen in de periode, bedoeld in dat artikel, voor zover daarbij het belang van het betrouwbaar, duurzaam, milieuhygiënisch en doelmatig functioneren van de warmtevoorziening in beschouwing moet of kan worden genomen.   
+2.  Het energierapport bevat in ieder geval een overzicht van de prijsontwikkelingen met betrekking tot levering van warmte.  
 
 ### Artikel  42  
 
 1.  Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van artikel 9 vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in artikel 10, eerste lid.   
-2.  Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in paragraaf 2.2.   
+2.  Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in paragraaf 2.2.  
 
 ### Artikel  43  
 
-Onze Minister kan, in overeenstemming met Onze Minister van Infrastuctuur en Milieu, aan een producent eisen stellen met betrekking tot het nuttig gebruik van restwarmte. Bij of krachtens algemene maatregel van bestuur kunnen ter zake nadere regels worden gesteld; deze kunnen tevens betrekking hebben op het instellen van een heffing ter zake van lozing van restwarmte dan wel op een verbod daarvan.  
+Onze Minister kan, in overeenstemming met Onze Minister van Infrastuctuur en Milieu, aan een producent eisen stellen met betrekking tot het nuttig gebruik van restwarmte. Bij of krachtens algemene maatregel van bestuur kunnen ter zake nadere regels worden gesteld; deze kunnen tevens betrekking hebben op het instellen van een heffing ter zake van lozing van restwarmte dan wel op een verbod daarvan.
 
 ### Artikel  44  
 
 1.  Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud van het verslag. Het verslag bevat in ieder geval een evaluatie van de doeltreffendheid en de effecten van de wet met betrekking tot de prijsstelling van warmte.   
-3.  De raad van bestuur van de mededingingsautoriteit is belast met de uitvoering van de evaluatie.   
+3.  De Autoriteit Consument en Markt is belast met de uitvoering van de evaluatie.  
 
 ### Artikel  45  
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Het koninklijk besluit waardoor artikel 7, tweede tot en met vierde lid, in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+2.  Het koninklijk besluit waardoor artikel 7, tweede tot en met vierde lid, in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  46  
 
-Deze wet wordt aangehaald als: Warmtewet.  
+Deze wet wordt aangehaald als: Warmtewet. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 17 juni 2013  
 Willem-Alexander  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
 de *eenendertigste* juli 2013 
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven    

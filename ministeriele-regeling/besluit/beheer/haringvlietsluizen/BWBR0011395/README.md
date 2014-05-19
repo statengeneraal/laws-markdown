@@ -52,7 +52,7 @@ Besluit: het beheer van de Haringvlietsluizen als volgt te wijzigen:
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md) en [Hoofdstuk 4 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md).  
+Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md) en [Hoofdstuk 4 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md). 
 
 ### Artikel  2  
 
@@ -65,15 +65,15 @@ Onder het in artikel 1, lid 1 bedoelde gewijzigde sluisbeheer wordt ernaar gestr
 3.  Ter bewaking van de functionaliteit van de bedoelde innamepunten, noodinlaten en intrekzones zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in artikel 1, lid 1, een continu werkend meetnet voor in elk geval chloride functioneren.   
 4.  In het in lid 2 bedoelde protocol worden regels gesteld ten aanzien van onder meer: 
 
-de inrichting van het meetnet;  
+de inrichting van het meetnet;
 
-de wijze waarop het chloridegehalte en/of eventuele andere parameters worden vastgesteld;  
+de wijze waarop het chloridegehalte en/of eventuele andere parameters worden vastgesteld;
 
-de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;  
+de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;
 
-de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in artikel 1, lid 2, wordt afgeweken van het sluisbeheer;  
+de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in artikel 1, lid 2, wordt afgeweken van het sluisbeheer;
 
-de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest.   Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betrokken waterbedrijven en met instemming van de regionale Inspectie voor de Milieuhygiëne te Zuid-Holland, uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer, door de Hoofdingenieur-Directeur van de Rijkswaterstaat directie Zuid-Holland vastgesteld.   
+de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest. Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betrokken waterbedrijven en met instemming van de regionale Inspectie voor de Milieuhygiëne te Zuid-Holland, uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer, door de Hoofdingenieur-Directeur van de Rijkswaterstaat directie Zuid-Holland vastgesteld.   
 
 ### Artikel  4  
 
@@ -82,15 +82,15 @@ de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit
 3.  Ter bewaking van de functionaliteit van de bedoelde innamepunten, zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in artikel 1, lid 1, een continu werkend meetnet voor in elk geval chloride functioneren.   
 4.  In het in lid 2 bedoelde protocol worden regels gesteld ten aanzien van onder meer: 
 
-de inrichting van het meetnet;  
+de inrichting van het meetnet;
 
-de wijze waarop het chloridegehalte en/of eventuele andere parameters worden vastgesteld;  
+de wijze waarop het chloridegehalte en/of eventuele andere parameters worden vastgesteld;
 
-de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;  
+de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;
 
-de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in artikel 1, lid 2, wordt afgeweken van het sluisbeheer;  
+de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in artikel 1, lid 2, wordt afgeweken van het sluisbeheer;
 
-de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest.   Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betrokken waterschappen, uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer, door de Hoofdingenieur-Directeur van de Rijkswaterstaat directie Zuid-Holland vastgesteld.   
+de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest. Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betrokken waterschappen, uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer, door de Hoofdingenieur-Directeur van de Rijkswaterstaat directie Zuid-Holland vastgesteld.   
 
 ### Artikel  5  
 
@@ -113,25 +113,25 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  9  
 
-Dit besluit kan worden aangehaald als Besluit Beheer Haringvlietsluizen.  
+Dit besluit kan worden aangehaald als Besluit Beheer Haringvlietsluizen. 
 
 Den Haag 
 5 juni 2000    
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries   
+J.M. de Vries     
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####Sluisbeheer volgens ‘de Kier’
 
-Vergelijking van de sluisopeningen bij verschillend beheer; huidige situatie (LPH’84), het programma volgens het MER en het HOP.   ![119949](http://wetten.overheid.nl/Illustration/119949)
+Vergelijking van de sluisopeningen bij verschillend beheer; huidige situatie (LPH’84), het programma volgens het MER en het HOP.![119949](http://wetten.overheid.nl/Illustration/119949)
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.

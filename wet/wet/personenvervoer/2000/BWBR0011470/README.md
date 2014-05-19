@@ -56,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *vervoerder:* degene die openbaar vervoer of besloten busvervoer verricht, niet in de hoedanigheid van bestuurder van een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;  
 
-*vervoersmanager:* vervoersmanager als bedoeld in artikel 2 van verordening 1071/2009/EG.    
+*vervoersmanager:* vervoersmanager als bedoeld in artikel 2 van verordening 1071/2009/EG.   
 
 ### §  2  
 
@@ -72,9 +72,9 @@ b. openbaar vervoer over railwegen;
 
 c. openbaar vervoer langs geleidesystemen.     
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat deze wet of de daarop berustende bepalingen geheel of gedeeltelijk mede van toepassing zijn op vervoer dat overeenkomst vertoont met het in het eerste lid bedoelde vervoer of dat deze wet of de daarop berustende bepalingen geheel of gedeeltelijk niet van toepassing zijn op bepaalde soorten van het in het eerste lid bedoelde vervoer.   
-3.  Deze wet is in afwijking van het eerste lid voor wat betreft de onderdelen betreffende de uitvoering van verordening 1371/2007/EG ook van toepassing op ander vervoer van personen langs railwegen dan openbaar vervoer.   
-4.  Bij algemene maatregel van bestuur kan worden bepaald dat verordening (EG) 1370/2007 of artikelen daarvan van toepassing zijn op vervoer dat overeenkomst vertoont met het in het eerste lid bedoelde vervoer.   
-5.  De wet is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat, tenzij vorenstaande wordt verricht in de uitoefening van een beroep of bedrijf. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kosten van de auto en eventuele bijkomende kosten.   
+3.  Deze wet is in afwijking van het eerste lid voor wat betreft de onderdelen betreffende de uitvoering van verordening 1371/2007/EG ook van toepassing op ander vervoer van personen langs railwegen dan openbaar vervoer.  
+4.  Bij algemene maatregel van bestuur kan worden bepaald dat verordening (EG) 1370/2007 of artikelen daarvan van toepassing zijn op vervoer dat overeenkomst vertoont met het in het eerste lid bedoelde vervoer.  
+5.  De wet is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat, tenzij vorenstaande wordt verricht in de uitoefening van een beroep of bedrijf. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kosten van de auto en eventuele bijkomende kosten.  
 
 ### Artikel  3  
 
@@ -87,7 +87,7 @@ c. openbaar vervoer langs geleidesystemen.
 
 ### Artikel  3a  
 
-Deze paragraaf is van toepassing op openbaar vervoer, anders dan per trein, en besloten busvervoer.  
+Deze paragraaf is van toepassing op openbaar vervoer, anders dan per trein, en besloten busvervoer. 
 
 ### Artikel  4  
 
@@ -95,19 +95,19 @@ Deze paragraaf is van toepassing op openbaar vervoer, anders dan per trein, en b
 2.  Voor de toepassing van het eerste lid wordt met het verrichten van besloten busvervoer gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.   
 3.  Onze Minister is de bevoegde instantie voor verordening 1071/2009/EG.   
 4.  Bij algemene maatregel van bestuur kan met inachtneming van artikel 1, vijfde lid, van verordening 1071/2009/EG vrijstelling van die verordening worden verleend.   
-5.  Bij algemene maatregel van bestuur kunnen regels worden gegeven voor de eisen met betrekking tot betrouwbaarheid, vakbekwaamheid en financiële draagkracht voor het openbaar vervoer anders dan per bus of per trein.   
+5.  Bij algemene maatregel van bestuur kunnen regels worden gegeven voor de eisen met betrekking tot betrouwbaarheid, vakbekwaamheid en financiële draagkracht voor het openbaar vervoer anders dan per bus of per trein.  
 
 ### Artikel  4a  
 
 1.  Een vervoerder heeft geen toegang tot het beroep van wegvervoerondernemer indien op basis van het tweede lid, [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) jegens de vervoerder toepassing vindt.   
-2.  Onze Minister weigert de verlening of verlenging van een communautaire vergunning of gaat over tot intrekking of schorsing van die vergunning in het geval en onder de voorwaarden van [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+2.  Onze Minister weigert de verlening of verlenging van een communautaire vergunning of gaat over tot intrekking of schorsing van die vergunning in het geval en onder de voorwaarden van [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  
 
 ### Artikel  4b  
 
 1.  Onze Minister weigert de verlening of verlenging van de communautaire vergunning indien de vervoerder niet of niet meer voldoet aan de vereisten voor de uitoefening van het beroep van wegvervoerondernemer, bedoeld in artikel 3 van verordening 1071/2009/EG.   
 2.  Onze Minister verklaart een vervoersmanager ongeschikt om leiding te hebben over de vervoersactiviteiten van een vervoerder indien hij niet langer voldoet aan de eis van betrouwbaarheid van verordening 1071/2009/EG.   
 3.  Onze Minister gaat over tot intrekking of schorsing van de communautaire vergunning volgens de daarvoor geldende procedure van verordening 1071/2009/EG indien de vervoerder definitief niet meer voldoet aan de vereisten voor de uitoefening van het beroep van wegvervoerondernemer van die verordening.   
-4.  Onze Minister stelt bij een besluit tot intrekking van de communautaire vergunning een termijn voor rehabilitatie vast.   
+4.  Onze Minister stelt bij een besluit tot intrekking van de communautaire vergunning een termijn voor rehabilitatie vast.  
 
 ### Artikel  5  
 
@@ -138,16 +138,16 @@ e. het ontbreken van een veroordeling en sanctie als bedoeld in het eerste lid, 
 a. een afschrift van een uitspraak waarbij is vastgesteld dat de vervoerder de geldende voorschriften inzake de financiële arbeidsvoorwaarden niet is nagekomen, en  
 
 b. een uitspraak waarbij een in onderdeel a bedoelde uitspraak is vernietigd.     
-4.  Voor de toepassing van het eerste lid, onderdelen c en d, en het tweede lid, onderdelen c, d en e, worden veroordelingen en sancties die vóór 4 december 2011 onherroepelijk zijn geworden, niet in aanmerking genomen.   
+4.  Voor de toepassing van het eerste lid, onderdelen c en d, en het tweede lid, onderdelen c, d en e, worden veroordelingen en sancties die vóór 4 december 2011 onherroepelijk zijn geworden, niet in aanmerking genomen.  
 
-### Artikel  5a  
+###Artikel 5a 
 
 1.  Onze Minister verklaart in afwijking van artikel 5, eerste lid, een vervoerder die niet voldoet aan onderdelen b of c van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.   
 2.  Onze Minister verklaart, in afwijking van artikel 5, tweede lid, een vervoersmanager, die niet voldoet aan onderdelen b, c of e van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.   
 3.  De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoerder geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot schorsing of intrekking van de communautaire vergunning.   
 4.  De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoersmanager geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot ongeschiktverklaring van de vervoersmanager.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de toepassing van het eerste en tweede lid waarbij wordt aangegeven wanneer het verlies van betrouwbaarheid in ieder geval een onevenredig strenge sanctie is.   
-6.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het vijfde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.   
+6.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het vijfde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  5b  
 
@@ -155,18 +155,18 @@ b. een uitspraak waarbij een in onderdeel a bedoelde uitspraak is vernietigd.
 2.  Een vervoersmanager die vanwege het niet voldoen aan de betrouwbaarheidseis door Onze Minister ongeschikt is verklaard om de leiding te hebben over de vervoeractiviteiten van een vervoerder, is na het verstrijken van de termijn van die ongeschiktverklaring voor de toepassing van verordening 1071/2009/EG en van deze wet gerehabiliteerd.   
 3.  Een vervoerder waarvan de communautaire vergunning vanwege het niet voldoen aan de betrouwbaarheidseis door Onze Minister is ingetrokken, is na het verstrijken van de termijn, bedoeld in artikel 4b, vierde lid, voor de toepassing van verordening 1071/2009/EG, verordening 1073/2009/EG en van deze wet gerehabiliteerd.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen andere maatregelen voor rehabilitatie of maatregelen van gelijke werking en nadere regels voor de betrouwbaarheid worden vastgesteld.   
-5.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het vierde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.   
+5.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het vierde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  5c  
 
 1.  Onze Minister verwerkt persoonsgegevens ten behoeve van uitvoering van verordening 1071/2009/EG en verordening 1073/2009/EG en het bij of krachtens deze wet gestelde, in het bijzonder in het belang van de handhaving van de vereisten voor de toegang tot het beroep van vervoerder en de betrouwbaarheid van de vervoersmanager.   
 2.  Onze Minister is verantwoordelijke als bedoeld in [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor de in het eerste lid bedoelde gegevens.   
-3.  Bij regeling van Onze Minister kunnen regels worden gegeven voor de toepassing van het eerste lid.   
+3.  Bij regeling van Onze Minister kunnen regels worden gegeven voor de toepassing van het eerste lid.  
 
 ### Artikel  6  
 
 1.  Onze Minister wijst een exameninstituut aan dat verantwoordelijk is voor de organisatie en de certificering van de examens, bedoeld in artikel 8, eerste lid, van verordening 1071/2009/EG.   
-2.  Onze Minister kan de aanwijzing, bedoeld in het eerste lid, intrekken indien het exameninstituut zijn taak ernstig verwaarloost of niet voldoet aan artikel 8 en de bijlagen I tot en met III van verordening 1071/2009/EG.   
+2.  Onze Minister kan de aanwijzing, bedoeld in het eerste lid, intrekken indien het exameninstituut zijn taak ernstig verwaarloost of niet voldoet aan artikel 8 en de bijlagen I tot en met III van verordening 1071/2009/EG.  
 
 ### Artikel  7  
 
@@ -174,7 +174,7 @@ b. een uitspraak waarbij een in onderdeel a bedoelde uitspraak is vernietigd.
 2.  Het is verboden openbaar vervoer anders dan per trein of besloten busvervoer te verrichten zonder de aanwezigheid in het voertuig van een eensluidend gewaarmerkt afschrift van de communautaire vergunning, bedoeld in het eerste lid.   
 3.  Het is verboden een gewaarmerkt afschrift van een communautaire vergunning al dan niet tegen betaling ter beschikking te stellen van een derde ten behoeve van het verrichten van vervoer als bedoeld in het eerste lid.   
 4.  Het derde lid is van overeenkomstige toepassing op degene aan wie door de houder van een communautaire vergunning een gewaarmerkt afschrift van de communautaire vergunning ter beschikking is gesteld.   
-5.  Ter uitvoering van besluiten van volkenrechtelijke organisaties kan bij algemene maatregel van bestuur vrijstelling worden verleend van het eerste en tweede lid.   
+5.  Ter uitvoering van besluiten van volkenrechtelijke organisaties kan bij algemene maatregel van bestuur vrijstelling worden verleend van het eerste en tweede lid.  
 
 ### Artikel  8  
 
@@ -188,7 +188,7 @@ b. een bijzondere vorm van geregeld vervoer als bedoeld in artikel 2 van verorde
 c. ongeregeld vervoer als bedoeld in artikel 2 van verordening 1073/2009/EG te verrichten in strijd met het bij of krachtens die verordening bepaalde, en  
 
 d. vervoer voor eigen rekening als bedoeld in artikel 2 van verordening 1073/2009/EG te verrichten in strijd met het bij of krachtens die verordening bepaalde.     
-3.  Op cabotagevervoer door een in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde vervoerder, dat in Nederland op grond van verordening 1073/2009/EG is toegestaan, is hoofdstuk III van deze wet niet van toepassing.   
+3.  Op cabotagevervoer door een in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde vervoerder, dat in Nederland op grond van verordening 1073/2009/EG is toegestaan, is hoofdstuk III van deze wet niet van toepassing.  
 
 ### Artikel  9  
 
@@ -201,7 +201,7 @@ b. het in behandeling nemen van een aanvraag tot verlening van een afschrift van
 
 c. het in behandeling nemen van een op grond van verordening 1073/2009/EG af te geven attest voor het vervoer voor eigenrekening, en  
 
-d. het in behandeling nemen van een aanvraag voor een op grond van verordening 1073/2009/EG af te geven reisbladenboekje.     
+d. het in behandeling nemen van een aanvraag voor een op grond van verordening 1073/2009/EG af te geven reisbladenboekje.    
 
 ### §  4  
 
@@ -210,43 +210,43 @@ d. het in behandeling nemen van een aanvraag voor een op grond van verordening 1
 ### Artikel  12  
 
 1.  De vervoerder voorziet, al dan niet in samenwerking met andere vervoerders, in het op verzoek behandelen van geschillen over de totstandkoming of de uitvoering van een vervoersovereenkomst als bedoeld in de [artikelen 80, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), en [100, eerste lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), door instelling van een geschillencommissie.   
-2.  Voor zover geschillen als bedoeld in het eerste lid voortvloeien uit de uitvoering van verordening (EU) nr. 181/2011 worden deze in eerste instantie voorgelegd aan de in dat lid bedoelde geschillencommissie.   
+2.  Voor zover geschillen als bedoeld in het eerste lid voortvloeien uit de uitvoering van verordening (EU) nr. 181/2011 worden deze in eerste instantie voorgelegd aan de in dat lid bedoelde geschillencommissie.  
 3.  De geschillencommissie bestaat uit een oneven aantal leden, waarvan ten minste één voldoet aan de vereisten voor benoembaarheid tot rechterlijk ambtenaar, bedoeld in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en waarvan de voorzitter onafhankelijk is van de overige leden.   
 4.  Bij de samenstelling van de geschillencommissie wordt aan geen van de bij het geschil betrokken partijen een bevoorrechte positie toegekend.   
 5.  De geschillencommissie beslecht een aan haar voorgelegd geschil door het uitbrengen van een bindend advies of door het bewerkstelligen van een minnelijke schikking tussen partijen.   
-6.  De geschillencommissie stelt een reglement vast over de wijze waarop een geschil wordt behandeld.   
+6.  De geschillencommissie stelt een reglement vast over de wijze waarop een geschil wordt behandeld.  
 
 ### Artikel  13  
 
-1.  De vervoerder maakt op een naar de aard van het vervoer geëigende wijze kenbaar op welke wijze klachten over het verrichten van personenvervoer worden behandeld.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.   
+1. De vervoerder maakt op een naar de aard van het vervoer geëigende wijze kenbaar op welke wijze klachten over het verrichten van personenvervoer worden behandeld. 
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.
 
 ### Artikel  14  
 
 1.  De vervoerder verstrekt onder redelijke en objectief gerechtvaardigde voorwaarden gegevens omtrent het door hem te verrichten vervoer aan degene die hierom verzoekt ten behoeve van het voeden en actualiseren van een reisinformatiesysteem.   
 2.  Vervoerders die openbaar vervoer verrichten dragen op zodanige wijze financieel bij aan een door Onze Minister aan te wijzen exploitant van een reisinformatiesysteem met een landelijk bereik, dat daardoor de instandhouding van dat systeem is gewaarborgd.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de aard van gegevens als bedoeld in het eerste lid, de gevallen waarin Onze Minister een exploitant aanwijst, en over de wijze waarop aan het tweede lid toepassing wordt gegeven.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de aard van gegevens als bedoeld in het eerste lid, de gevallen waarin Onze Minister een exploitant aanwijst, en over de wijze waarop aan het tweede lid toepassing wordt gegeven.  
 
 ### Artikel  14a  
 
 1.  Het jaarlijks te publiceren overzichtsverslag, bedoeld in artikel 7, eerste lid, van verordening (EG) 1370/2007 is voor eenieder elektronisch toegankelijk.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het in het eerste lid bedoelde overzichtsverslag.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het in het eerste lid bedoelde overzichtsverslag.  
 
 ### Artikel  14b  
 
-De concessieverleners, bedoeld in artikel 20, tweede en derde lid, verstrekken desgevraagd aan Onze Minister gegevens voor zover hij die nodig heeft om te kunnen voldoen aan een verzoek van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 6, tweede lid, van verordening (EG) 1370/2007.  
+De concessieverleners, bedoeld in artikel 20, tweede en derde lid, verstrekken desgevraagd aan Onze Minister gegevens voor zover hij die nodig heeft om te kunnen voldoen aan een verzoek van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 6, tweede lid, van verordening (EG) 1370/2007. 
 
 ### §  5  
 
 ####Taken van de Autoriteit Consument en Markt
 
-### Artikel  15  
+###Artikel 15 
 
-De Autoriteit Consument en Markt verricht taken ter uitvoering van deze wet.  
+De Autoriteit Consument en Markt verricht taken ter uitvoering van deze wet. 
 
-### Artikel  16  
+###Artikel 16 
 
-Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken.  
+Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken. 
 
 ### Hoofdstuk  II  
 
@@ -281,7 +281,7 @@ b. het hoofdzakelijk vervoer betreft van reizigers die de Nederlandse grens pass
 c. de omzet van het openbaar vervoer hoofdzakelijk afkomstig is van de reizigers, bedoeld in onderdeel b.     
 8.  Het economisch evenwicht van een of meer verleende concessies komt in het gedrang indien overeenkomstig bij algemene maatregel van bestuur te stellen regels het aantal reizigers of de omzet van een of meer betrokken concessiehouders in betekenisvolle mate afneemt.   
 9.  Het vierde tot en met achtste lid is van overeenkomstige toepassing op wijzigingen van het grensoverschrijdend personenvervoer per trein.   
-10.  De voordracht voor een krachtens het zevende of achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+10.  De voordracht voor een krachtens het zevende of achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  19a  
 
@@ -292,7 +292,7 @@ a. internationaal passagiersvervoer als hoofddoel heeft, of
 
 b. het daarvan deel uitmakende vervoer van passagiers tussen stations in Nederland het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt.     
 3.  De Autoriteit Consument en Markt is bevoegd de inlichtingen te vorderen en de inzage van zakelijke gegevens en bescheiden te vorderen die zij redelijkerwijs nodig heeft voor de behandeling van een aanvraag als bedoeld in het tweede lid.   
-4.  Een ieder, met uitzondering van de personen, bedoeld in a [rtikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is verplicht binnen redelijke termijn de door de Autoriteit Consument en Markt gevorderde inlichtingen te verstrekken of de gevorderde inzage van zakelijke gegevens en bescheiden te verlenen.   
+4.  Een ieder, met uitzondering van de personen, bedoeld in a[rtikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is verplicht binnen redelijke termijn de door de Autoriteit Consument en Markt gevorderde inlichtingen te verstrekken of de gevorderde inzage van zakelijke gegevens en bescheiden te verlenen.   
 5.  De Autoriteit Consument en Markt geeft de beschikking op de aanvraag binnen acht weken na ontvangst van de overeenkomstig het derde lid gevorderde gegevens en bescheiden.   
 6.  De Autoriteit Consument en Markt doet mededeling van de aanvraag, en van de beschikking, bedoeld in het vijfde lid, aan de betrokken beheerder, bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en doet mededeling van die beschikking in de Staatscourant.   
 7.  Onze Minister kan, binnen acht weken na de mededeling bedoeld in het zesde lid, van een beschikking als bedoeld in het tweede lid, onderdeel b, besluiten om het vervoer van passagiers tussen stations in Nederland te beperken, mits: 
@@ -304,7 +304,7 @@ b. Onze Minister hierbij de beschikbare kwaliteit voor de reiziger en de financi
 c. de gestelde beperkingen niet verder gaan dan noodzakelijk is om het in gedrang komen van het economisch evenwicht van een of meer concessies van een spoorwegonderneming te voorkomen.   Onze Minister kan binnen de genoemde termijn van acht weken besluiten om deze termijn met ten hoogste zes weken te verlengen.   
 8.  Onze Minister beperkt het vervoer van passagiers tussen stations in Nederland voor grensoverschrijdend openbaar vervoer per trein zonder concessie op het traject waarvoor de aan HSA beheer N.V. verleende concessie voor de duur van vijftien jaar, met aanvangsdatum 1 juli 2009, van toepassing is.   
 9.  Het tweede lid, onderdeel b, en het zevende lid zijn niet van toepassing op het vervoer, bedoeld in het achtste lid.   
-10.  Het personenvervoer per trein in strijd met de krachtens het zevende dan wel het achtste lid vastgestelde beperkingen is verboden.   
+10.  Het personenvervoer per trein in strijd met de krachtens het zevende dan wel het achtste lid vastgestelde beperkingen is verboden.  
 
 ### §  2  
 
@@ -314,16 +314,16 @@ c. de gestelde beperkingen niet verder gaan dan noodzakelijk is om het in gedran
 
 1.  Bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer per trein is Onze Minister.   
 2.  Bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer, anders dan openbaar vervoer per trein, zijn gedeputeerde staten, met uitzondering van concessies voor openbaar vervoer in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat. De concessies in die plusregio’s worden verleend, gewijzigd of ingetrokken door het dagelijks bestuur van de desbetreffende plusregio.   
-3.  In afwijking van het eerste lid is het bestuur, bedoeld in het tweede lid, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein voor de bij algemene maatregel van bestuur dan wel in overeenstemming met het betrokken bestuur bij besluit van Onze Minister aangewezen vervoersdiensten die de daarbij aangeven stations verbinden.   
+3.  In afwijking van het eerste lid is het bestuur, bedoeld in het tweede lid, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein voor de bij algemene maatregel van bestuur dan wel in overeenstemming met het betrokken bestuur bij besluit van Onze Minister aangewezen vervoersdiensten die de daarbij aangeven stations verbinden.  
 
 ### Artikel  21  
 
-Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van de plusregio’s, bedoeld in artikel 20.  
+Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van de plusregio’s, bedoeld in artikel 20. 
 
 ### Artikel  22  
 
-1.  De concessieverleners, bedoeld in artikel 20, zijn bevoegd subsidies te verstrekken voor het in een concessie omschreven openbaar vervoer.   
-2.  Een concessiehouder verstrekt desgevraagd binnen een door de concessieverlener te bepalen termijn aan hem de gegevens voor zover die noodzakelijk zijn voor de uitvoering van de artikelen 6 en 7 van verordening (EG) 1370/2007.   
+1. De concessieverleners, bedoeld in artikel 20, zijn bevoegd subsidies te verstrekken voor het in een concessie omschreven openbaar vervoer.  
+2.  Een concessiehouder verstrekt desgevraagd binnen een door de concessieverlener te bepalen termijn aan hem de gegevens voor zover die noodzakelijk zijn voor de uitvoering van de artikelen 6 en 7 van verordening (EG) 1370/2007. 
 
 ### Artikel  23  
 
@@ -334,40 +334,40 @@ a. van wie een geheel of gedeeltelijke eigenaar, dan wel een bestuurder of commi
 b. voor wie een vertegenwoordiger of adviseur werkzaam is die betrokken is bij het meedingen naar of het verwerven van die concessie, en die tevens het lidmaatschap bekleedt van een algemeen vertegenwoordigend orgaan van een openbaar lichaam waarvan een bestuursorgaan bevoegd is tot het verlenen van die concessie.     
 2.  Het eerste lid, onderdeel b, is van overeenkomstige toepassing op de burgemeester en de commissaris van de Koning.   
 3.  Het eerste lid, onderdeel a, is niet van toepassing ten aanzien van een bestuurder of commissaris bij een vervoerder aan wie op grond van artikel 63a een concessie is verleend bij verlening van concessies waaraan geen procedure van aanbesteding vooraf is gegaan.   
-4.  Het eerste lid geldt niet ten aanzien van het verlenen van concessies voor openbaar vervoer per trein op grond van artikel 20, eerste lid.   
+4.  Het eerste lid geldt niet ten aanzien van het verlenen van concessies voor openbaar vervoer per trein op grond van artikel 20, eerste lid. 
 
 ### Artikel  24  
 
-De concessieverlener verleent overeenkomstig de artikelen 4, derde en vierde lid, en 5, zesde lid, van verordening (EG) 1370/2007, een concessie voor beperkte duur.  
+De concessieverlener verleent overeenkomstig de artikelen 4, derde en vierde lid, en 5, zesde lid, van verordening (EG) 1370/2007, een concessie voor beperkte duur. 
 
 ### Artikel  25  
 
 1.  Een concessie bevat, onverminderd artikel 4 van verordening (EG) 1370/2007, een omschrijving van het openbaar vervoer, van het gebied en de duur waarvoor de concessie is verleend, en, indien van toepassing, de prijs die de concessiehouder betaalt voor de concessie.   
 2.  Een concessie kan tevens betrekking hebben op het verrichten van openbaar vervoer van en naar het gebied, bedoeld in het eerste lid, indien dit is overeengekomen met de concessieverleners die het betreft.   
 3.  In afwijking van het eerste lid bevat een concessie voor openbaar vervoer per trein, in plaats van een omschrijving van het gebied waarvoor de concessie is verleend, een omschrijving van de stations waartussen het openbaar vervoer wordt afgewikkeld.   
-4.  De omschrijving, bedoeld in het derde lid, kan ook stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie is gegeven.   
-5.  Bij de concessie en de daarbij behorende financiële afspraken wordt rekening gehouden met de voor de concessiehouder geldende gebruiksvergoeding, bedoeld in [artikel 62 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+4.  De omschrijving, bedoeld in het derde lid, kan ook stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie is gegeven.  
+5.  Bij de concessie en de daarbij behorende financiële afspraken wordt rekening gehouden met de voor de concessiehouder geldende gebruiksvergoeding, bedoeld in [artikel 62 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).  
 
 ### Artikel  26  
 
 1.  Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in artikel 20, tweede en derde lid, overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.   
-2.  Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in artikel 25, tweede lid.   
+2.  Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in artikel 25, tweede lid.  
 
 ### Artikel  27  
 
 1.  Voordat een concessie wordt verleend of gewijzigd, vraagt de concessieverlener advies aan consumentenorganisaties die voldoen aan bij algemene maatregel van bestuur gestelde voorwaarden, over de aan de concessie te verbinden voorschriften.   
 2.  De concessieverlener stelt de consumentenorganisaties in de gelegenheid met hem overleg te voeren voordat advies wordt uitgebracht.   
 3.  Het advies, bedoeld in het tweede lid, wordt gevraagd op een zodanig tijdstip dat het advies van wezenlijke invloed kan zijn op het voornemen.   
-4.  De consumentenorganisaties worden door de concessieverlener zo spoedig mogelijk in kennis gesteld van de wijze waarop aan het uitgebrachte advies gevolg wordt gegeven.   
+4.  De consumentenorganisaties worden door de concessieverlener zo spoedig mogelijk in kennis gesteld van de wijze waarop aan het uitgebrachte advies gevolg wordt gegeven.  
 
 ### Artikel  27a  
 
 1.  Voordat een concessie voor openbaar vervoer per trein over de hoofdspoorweginfrastructuur wordt verleend, vraagt de concessieverlener advies aan de betrokken beheerder, bedoeld in [artikel 1 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
-2.  Artikel 27, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+2.  Artikel 27, tweede tot en met vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  28  
 
-De concessieverlener informeert ten minste eenmaal per jaar de consumentenorganisaties, bedoeld in artikel 27, over de resultaten van bij algemene maatregel van bestuur te omschrijven maatregelen die door hem zijn genomen en die de belangen van de reiziger raken.  
+De concessieverlener informeert ten minste eenmaal per jaar de consumentenorganisaties, bedoeld in artikel 27, over de resultaten van bij algemene maatregel van bestuur te omschrijven maatregelen die door hem zijn genomen en die de belangen van de reiziger raken. 
 
 ### Artikel  29  
 
@@ -375,11 +375,11 @@ De concessieverlener informeert ten minste eenmaal per jaar de consumentenorgani
 2.  De concessieverlener kan de ontheffing wijzigen of intrekken.   
 3.  Een ontheffing wordt verleend voor een bepaalde tijd.   
 4.  Een ontheffing wordt onverminderd het eerste lid, slechts geweigerd, indien naar het oordeel van de concessieverlener de vervoersvoorziening waarvoor een ontheffing is aangevraagd, een zodanige gelijkenis vertoont met openbaar vervoer waarvoor een concessie is verleend voor het gebied, bedoeld in het eerste lid, dat daarmee een onevenredige afbreuk wordt gedaan aan de exploitatie van die concessie.   
-5.  De concessieverlener kan de ontheffing onder beperkingen verlenen of aan de ontheffing voorschriften verbinden.   
+5.  De concessieverlener kan de ontheffing onder beperkingen verlenen of aan de ontheffing voorschriften verbinden.  
 
 ### Artikel  29a  
 
-Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een aanbesteding is gehouden, kan worden genomen indien de vervoerder niet binnen vier dagen na de dag waarop het voorgenomen besluit aan hem is bekendgemaakt aan de concessieverlener heeft doen blijken dat hij de concessie niet zonder voorbehoud aanvaardt.  
+Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een aanbesteding is gehouden, kan worden genomen indien de vervoerder niet binnen vier dagen na de dag waarop het voorgenomen besluit aan hem is bekendgemaakt aan de concessieverlener heeft doen blijken dat hij de concessie niet zonder voorbehoud aanvaardt. 
 
 ### §  3  
 
@@ -390,7 +390,7 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over nationale vervoerbewijzen, de daaraan te stellen eisen, de daarbij behorende tarieven en vervoersvoorwaarden, alsmede het gebied waarbinnen deze geldig zijn.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de invoering, de acceptatie, de uitgifte, de exploitatie of het beheer van elektronische nationale vervoerbewijzen.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de erkenning van een of meer instellingen die elektronische nationale vervoerbewijzen uitgeven, exploiteren of beheren, alsmede over de voorschriften waaraan dergelijke instellingen moeten voldoen.   
-4.  De houder van een concessie, verleend door een concessieverlener als bedoeld in artikel 20, tweede lid, is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.   
+4.  De houder van een concessie, verleend door een concessieverlener als bedoeld in artikel 20, tweede lid, is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.  
 
 ### Artikel  31  
 
@@ -400,7 +400,7 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 4.  Het advies, bedoeld in het eerste lid, wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op de door de concessiehouder te nemen beslissing.   
 5.  Indien na het advies van de consumentenorganisaties een beslissing wordt genomen ten aanzien van de onderwerpen, bedoeld in het eerste lid, worden de consumentenorganisaties door de concessiehouder zo spoedig mogelijk, doch uiterlijk zes weken voor deze gevolg geeft aan de beslissing, schriftelijk hiervan in kennis gesteld. Indien het advies van de consumentenorganisaties niet of niet geheel is gevolgd, wordt aan de consumentenorganisaties tevens meegedeeld, waarom van dat advies is afgeweken en wordt hen de gelegenheid geboden nader te overleggen met de concessiehouder alvorens deze gevolg geeft aan de beslissing.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de termijnen die bij de adviesprocedure en de overlegprocedure, bedoeld in dit artikel, in acht worden genomen.   
-7.  Indien een voorgenomen wijziging van een dienstregeling, het tarief en overige in de concessie geregelde onderwerpen door de concessieverlener is geïnitieerd, vraagt in afwijking van het eerste lid die concessieverlener advies aan de in dat lid bedoelde consumentenorganisaties. Het tweede tot en met het zesde lid zijn van overeenkomstige toepassing.   
+7.  Indien een voorgenomen wijziging van een dienstregeling, het tarief en overige in de concessie geregelde onderwerpen door de concessieverlener is geïnitieerd, vraagt in afwijking van het eerste lid die concessieverlener advies aan de in dat lid bedoelde consumentenorganisaties. Het tweede tot en met het zesde lid zijn van overeenkomstige toepassing. 
 
 ### Artikel  32  
 
@@ -423,41 +423,41 @@ g. de eisen aan de toegankelijkheid van het openbaar vervoer ten behoeve van rei
 
 h. het waarborgen van een verantwoorde mate van veiligheid ten behoeve van zowel de reizigers als het personeel binnen het openbaar vervoer;  
 
-i. punctualiteit;  
+i.  punctualiteit;  
 
-j. een procentuele beschikbaarheidsgarantie van zitplaatsen;  
+j.  een procentuele beschikbaarheidsgarantie van zitplaatsen;  
 
-k. het zowel op stations als in de trein aan reizigers geboden serviceniveau.     
+k.  het zowel op stations als in de trein aan reizigers geboden serviceniveau.     
 3.  Bij algemene maatregel van bestuur worden regels gesteld over het minimale niveau van toegankelijkheid van het openbaar vervoer dat concessieverleners middels voorschriften dienen veilig te stellen bij concessieverlening. Deze regels bevatten in ieder geval eisen aan de toegankelijkheid van het openbaar vervoer ten behoeve van reizigers met een handicap en eisen aan de toegankelijkheid van het openbaar vervoer ten behoeve van reizigers met een fiets.   
-4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de aan een concessie te verbinden voorschriften.   
+4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de aan een concessie te verbinden voorschriften.    
 5.  Aan een concessie kan het voorschrift worden verbonden dat de concessiehouder, indien hij tekortschiet in het verrichten van bepaalde prestaties, gehouden is een geldsom te voldoen aan de concessieverlener.   
-6.  Indien toepassing is gegeven aan het vijfde lid is de concessieverlener niet bevoegd ten aanzien van het verrichten van de desbetreffende prestaties aan de concessiehouder een last onder dwangsom op te leggen. [Artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+6.  Indien toepassing is gegeven aan het vijfde lid is de concessieverlener niet bevoegd ten aanzien van het verrichten van de desbetreffende prestaties aan de concessiehouder een last onder dwangsom op te leggen. [Artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### Artikel  32a  
 
-Onverminderd artikel 32 bevat een concessie voor openbaar vervoer voorschriften tot regeling van de integratie van vervoerbewijzen in het openbaar vervoer.  
+Onverminderd artikel 32 bevat een concessie voor openbaar vervoer voorschriften tot regeling van de integratie van vervoerbewijzen in het openbaar vervoer. 
 
 ### Artikel  32b  
 
-Een concessie voor openbaar vervoer per trein kan het voorschrift bevatten dat de in de concessie aan te duiden natuurlijke personen die de feitelijke leiding zullen uitoefenen over de uitvoering van de concessie, niet als zodanig krachtens een arbeidsovereenkomst met de concessiehouder werkzaam zijn.  
+Een concessie voor openbaar vervoer per trein kan het voorschrift bevatten dat de in de concessie aan te duiden natuurlijke personen die de feitelijke leiding zullen uitoefenen over de uitvoering van de concessie, niet als zodanig krachtens een arbeidsovereenkomst met de concessiehouder werkzaam zijn. 
 
 ### Artikel  33  
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent een maximum gemiddeld tarief voor het openbaar vervoer, zonodig per concessiegebied.  
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent een maximum gemiddeld tarief voor het openbaar vervoer, zonodig per concessiegebied. 
 
 ### Artikel  34  
 
 1.  De concessiehouder is verplicht openbaar vervoer te verrichten volgens hetgeen in de concessie is bepaald en is verplicht de daaraan verbonden voorschriften na te leven.   
-2.  Voor zolang reizigers ernstig in hun belang worden geschaad als gevolg van de afwijking van de dienstregeling door werkzaamheden op de in de dienstregeling voorziene trajecten of door bijzondere omstandigheden, draagt de concessiehouder zorg voor vervangend vervoer voor zover dat redelijkerwijs mogelijk is.   
+2.  Voor zolang reizigers ernstig in hun belang worden geschaad als gevolg van de afwijking van de dienstregeling door werkzaamheden op de in de dienstregeling voorziene trajecten of door bijzondere omstandigheden, draagt de concessiehouder zorg voor vervangend vervoer voor zover dat redelijkerwijs mogelijk is.  
 
 ### Artikel  35  
 
-Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur te bepalen infrastructuur met uitzondering van hoofdspoorweginfrastructuur als bedoeld in de [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), waarover openbaar vervoer per trein plaatsvindt, is verplicht het gebruik daarvan door de concessiehouder redelijkerwijs te gedogen voorzover dit voor de goede uitvoering van de concessie nodig is.  
+Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur te bepalen infrastructuur met uitzondering van hoofdspoorweginfrastructuur als bedoeld in de [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), waarover openbaar vervoer per trein plaatsvindt, is verplicht het gebruik daarvan door de concessiehouder redelijkerwijs te gedogen voorzover dit voor de goede uitvoering van de concessie nodig is. 
 
 ### Artikel  35a  
 
 1.  De concessiehouder van een concessie voor openbaar vervoer per trein als bedoeld in artikel 20, eerste lid, stelt een vervoerplan op conform de in de hem verleende concessie vastgelegde voorschriften.   
-2.  Aan de concessie, bedoeld in het eerste lid, wordt een voorschrift verbonden ten aanzien van de duur van het vervoerplan.   
+2.  Aan de concessie, bedoeld in het eerste lid, wordt een voorschrift verbonden ten aanzien van de duur van het vervoerplan.  
 
 ### §  4  
 
@@ -466,12 +466,12 @@ Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur t
 ### Artikel  36  
 
 1.  Voor de toepassing van deze paragraaf wordt onder overgang van een concessie verstaan: het geheel of gedeeltelijk eindigen van een concessie gevolgd door het ingaan van geheel of gedeeltelijk dezelfde concessie als gevolg van verlening van deze concessie aan een andere vervoerder.   
-2.  De artikelen 37 en 38 zijn van toepassing op de overgang van een concessie, tenzij iets anders voortvloeit uit een overeenkomst tussen de voormalige concessiehouder, de nieuwe concessiehouder en de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), welke overeenkomst is tot stand gekomen binnen een maand na het besluit tot verlening van een concessie als bedoeld in het eerste lid.   
+2.  De artikelen 37 en 38 zijn van toepassing op de overgang van een concessie, tenzij iets anders voortvloeit uit een overeenkomst tussen de voormalige concessiehouder, de nieuwe concessiehouder en de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), welke overeenkomst is tot stand gekomen binnen een maand na het besluit tot verlening van een concessie als bedoeld in het eerste lid.  
 
 ### Artikel  36a  
 
 1.  Bij een overgang van openbaar vervoer met een concessie naar een situatie als bedoeld in artikel 19, tweede lid, in samenhang met artikel 5, vijfde lid, van verordening(EG) 1370/2007, is geen sprake van een overgang van een concessie.   
-2.  Bij een overgang van openbaar vervoer zonder concessie als bedoeld in artikel 19, tweede lid, naar de situatie dat openbaar vervoer wordt verricht met een daartoe verleende concessie, zijn de artikelen 36 en 37 tot en met 40 van overeenkomstige toepassing.   
+2.  Bij een overgang van openbaar vervoer zonder concessie als bedoeld in artikel 19, tweede lid, naar de situatie dat openbaar vervoer wordt verricht met een daartoe verleende concessie, zijn de artikelen 36 en 37 tot en met 40 van overeenkomstige toepassing.  
 
 ### Artikel  37  
 
@@ -483,7 +483,7 @@ b. een indirect ten behoeve van de verrichting van het openbaar vervoer waarvoor
 2.  Tenzij bij de in artikel 36, eerste lid, bedoelde concessieverlening aan de andere vervoerder anders is bepaald, geschiedt de vaststelling van het aantal personen als bedoeld in het eerste lid, onderdeel b, op basis van de verhouding tussen de verminderde omzet ten gevolge van de overgang van de concessie en de totale omzet van de voormalige concessiehouder ten aanzien van het openbaar vervoer, berekend over het laatst afgesloten boekjaar voorafgaand aan het jaar waarin de concessieovergang plaatsvindt. [Artikel 10a van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing.   
 3.  De concessieverlener oefent zijn in het tweede lid neergelegde afwijkingsbevoegdheid slechts uit, indien hij voorafgaand aan de toepassing van artikel 27 dan wel artikel 44, derde lid, ter zake een beleidsregel heeft vastgesteld.   
 4.  Indien toepassing van het eerste lid leidt tot overgang van een arbeidsplaats die niet herleidbaar is tot een individu, gaan naar de nieuwe concessiehouder over de rechten en verplichtingen, omschreven in artikel 38, die op dat tijdstip voor de voormalige concessiehouder voortvloeien uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen hem en de persoon die, ware er sprake van een beëindiging van de arbeidsverhouding waarop het [Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) van toepassing is wegens bedrijfseconomische redenen, waarbij die arbeidsplaatsen zouden komen te vervallen, voor ontslag in aanmerking zou komen met inachtneming van de daarvoor geldende regels.   
-5.  De voormalige concessiehouder is gedurende een jaar na de overgang naast de nieuwe concessiehouder hoofdelijk verbonden voor de nakoming van de verplichtingen uit de arbeidsverhouding die zijn ontstaan voor dat tijdstip.   
+5.  De voormalige concessiehouder is gedurende een jaar na de overgang naast de nieuwe concessiehouder hoofdelijk verbonden voor de nakoming van de verplichtingen uit de arbeidsverhouding die zijn ontstaan voor dat tijdstip.  
 
 ### Artikel  38  
 
@@ -494,18 +494,18 @@ a. zijn op de overgang van een concessie de [artikelen 14a, eerste en tweede lid
 b. gaan door de overgang van de concessie de rechten en verplichtingen welke op het tijdstip van overgang van concessie voor de voormalige concessiehouder ten aanzien van een persoon als bedoeld in artikel 37, eerste lid, voortvloeien uit bedrijfsregelingen, van rechtswege over op de nieuwe concessiehouder.     
 2.  Indien de voormalige concessiehouder een vervoerder is aan wie op grond van artikel 63a een concessie is verleend, handhaaft de nieuwe concessiehouder na de overgang van een concessie ten aanzien van een persoon als bedoeld in artikel 37, eerste lid, een samenstel van rechten en verplichtingen gelijkwaardig aan die welke voor het tijdstip van de overgang voor de voormalige concessiehouder uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen de voormalige concessiehouder en die persoon voortvloeiden, voor zover deze rechten en verplichtingen voortvloeiden uit collectieve regelingen inzake arbeidsvoorwaarden.   
 3.  Op het eindigen van de rechten en verplichtingen, bedoeld in het tweede lid, zijn de [artikelen 14a, tweede en vierde lid, van de Wet op de collectieve arbeidsovereenkomst](../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md) en [2a, tweede en derde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) van overeenkomstige toepassing.   
-4.  De [artikelen 662](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [663 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van overeenkomstige toepassing, indien de voormalige concessiehouder een vervoerbedrijf is als bedoeld in artikel 64, tweede lid, onderdeel a.   
+4.  De [artikelen 662](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [663 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van overeenkomstige toepassing, indien de voormalige concessiehouder een vervoerbedrijf is als bedoeld in artikel 64, tweede lid, onderdeel a.  
 
 ### Artikel  39  
 
 1.  Op verzoek van de concessieverlener verstrekt de concessiehouder binnen de bij verzoek te bepalen termijn aan de concessieverlener ten behoeve van het programma van eisen een openbare schriftelijke opgave van de rechten en verplichtingen, bedoeld in artikel 38, met betrekking tot de ten behoeve van het verrichte openbaar vervoer werkzame personen, met inbegrip van een gemotiveerde toelichting van de wijze waarop de loonkosten zijn samengesteld, alsmede van de samenstelling en het aantal van het met toepassing van artikel 37, eerste lid, onderdelen a en b, voor overgang in aanmerking komend personeel.   
 2.  De in het eerste lid bedoelde opgave geschiedt naar de toestand op het tijdstip van de opgave en naar de te verwachten toestand op het tijdstip van het eindigen van de concessie. De opgave gaat vergezeld van een verklaring van één of meer onafhankelijke deskundigen, dat de opgave is opgesteld overeenkomstig het eerste lid.   
 3.  De in het tweede lid bedoelde deskundigen worden aangewezen door de concessieverlener en hun kosten komen voor rekening van de concessieverlener. De concessiehouder is verplicht aan de deskundigen alle door dezen gewenste inlichtingen te verstrekken.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gegevens die de in het eerste lid bedoelde opgave ten minste moet bevatten.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gegevens die de in het eerste lid bedoelde opgave ten minste moet bevatten. 
 
 ### Artikel  40  
 
-Binnen een maand na het besluit tot verlening van een concessie treden de voormalige en de nieuwe concessiehouder met elkaar en met de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), in overleg teneinde een goede uitvoering van de artikelen 37 en 38 dan wel van de overeenkomst, bedoeld in artikel 36, tweede lid, te bevorderen.  
+Binnen een maand na het besluit tot verlening van een concessie treden de voormalige en de nieuwe concessiehouder met elkaar en met de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), in overleg teneinde een goede uitvoering van de artikelen 37 en 38 dan wel van de overeenkomst, bedoeld in artikel 36, tweede lid, te bevorderen. 
 
 ### Artikel  41  
 
@@ -514,7 +514,7 @@ Binnen een maand na het besluit tot verlening van een concessie treden de voorma
 3.  De concessiehouder kan de concessie niet overdragen dan na schriftelijke toestemming van de concessieverlener.   
 4.  Toestemming voor overdracht van een concessie die is verleend na aanbesteding wordt onthouden, indien de andere vervoerder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. De artikelen 52 tot en met 56, eerste lid, en 57 tot en met 60 zijn van overeenkomstige toepassing.   
 5.  Toestemming als bedoeld in het derde lid kan voorts slechts worden onthouden, indien redelijkerwijs te verwachten is dat de vervoerder de bij of krachtens deze wet gestelde verplichtingen niet of onvoldoende in acht zal nemen.   
-6.  De concessiehouder is naast de andere vervoerder hoofdelijk verbonden voor de nakoming van de uit de concessie voortvloeiende verplichtingen door de andere vervoerder die zijn ontstaan voor het tijdstip van overdracht.   
+6.  De concessiehouder is naast de andere vervoerder hoofdelijk verbonden voor de nakoming van de uit de concessie voortvloeiende verplichtingen door de andere vervoerder die zijn ontstaan voor het tijdstip van overdracht.  
 
 ### Artikel  42  
 
@@ -529,7 +529,7 @@ c. zodra een besluit tot intrekking van de verklaring van geen bezwaar inzake de
 ### Artikel  43  
 
 1.  Een concessie kan geheel of gedeeltelijk worden ingetrokken, indien is gebleken dat de concessiehouder de concessie niet naar behoren uitvoert of heeft uitgevoerd.   
-2.  Een beschikking tot gehele of gedeeltelijke intrekking van een concessie treedt niet eerder in werking dan dertien weken na de datum van haar bekendmaking. Zij werkt niet terug.   
+2.  Een beschikking tot gehele of gedeeltelijke intrekking van een concessie treedt niet eerder in werking dan dertien weken na de datum van haar bekendmaking. Zij werkt niet terug.  
 
 ### Artikel  43a  
 
@@ -546,7 +546,7 @@ b. een methode waarmee de waarde op het moment van overgang van de concessie wor
 
 a. ten behoeve van de voormalige concessiehouder voor de betaling van de waarde van de rechten en verplichtingen, bedoeld in artikel 43b, tweede lid, of  
 
-b. ten behoeve van de opvolgende concessiehouder voor de ongestoorde uitoefening van gebruiksrechten van productiemiddelen, voor zover de nieuwe concessiehouder rechten of verplichtingen ten aanzien van die productiemiddelen zal behouden.     
+b. ten behoeve van de opvolgende concessiehouder voor de ongestoorde uitoefening van gebruiksrechten van productiemiddelen, voor zover de nieuwe concessiehouder rechten of verplichtingen ten aanzien van die productiemiddelen zal behouden.    
 
 ### Artikel  43b  
 
@@ -556,12 +556,12 @@ b. ten behoeve van de opvolgende concessiehouder voor de ongestoorde uitoefening
 4.  De nieuwe concessiehouder is gehouden aan de overdracht en vestiging mee te werken.   
 5.  De kosten van de overdracht en vestiging zijn voor rekening van de nieuwe concessiehouder.   
 6.  Indien als gevolg van de overdracht van rechten en verplichtingen sprake is van overgang van een onderneming waarop [titel 10, afdeling 8, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing is en dientengevolge rechten en verplichtingen ten aanzien van personen als bedoeld in artikel 32b overgaan op de nieuwe concessiehouder, is de voormalige concessiehouder jegens de nieuwe concessiehouder ter zake gehouden hem de kosten te vergoeden die gemaakt zijn om de desbetreffende arbeidsovereenkomst te beëindigen. Daarenboven is de voormalige concessiehouder jegens de nieuwe concessiehouder per geval een direct opeisbare geldsom verschuldigd van € 100 000.   
-7.  In afwijking van het vierde lid is de nieuwe concessiehouder niet gehouden aan de overdracht van materieel mee te werken, indien het de eerste aanbesteding van een concessie voor regionaal openbaar vervoer op een gedecentraliseerde lijn betreft na de inwerkingtreding van dit artikel.   
+7.  In afwijking van het vierde lid is de nieuwe concessiehouder niet gehouden aan de overdracht van materieel mee te werken, indien het de eerste aanbesteding van een concessie voor regionaal openbaar vervoer op een gedecentraliseerde lijn betreft na de inwerkingtreding van dit artikel.  
 
 ### Artikel  43c  
 
 1.  Aan een concessie kunnen nadere voorschriften worden verbonden ten aanzien van de toepassing van de artikelen 43a en 43b.   
-2.  In een concessie voor openbaar vervoer per trein kan de toepasselijkheid van artikel 43a worden uitgesloten.   
+2.  In een concessie voor openbaar vervoer per trein kan de toepasselijkheid van artikel 43a worden uitgesloten.  
 
 ### Hoofdstuk  III  
 
@@ -586,43 +586,43 @@ d. de afstemming met milieudoelstellingen van de concessieverlener;
 
 e. de te benutten infrastructurele voorzieningen.     
 3.  Voordat het programma van eisen wordt vastgesteld, vraagt de concessieverlener overeenkomstig artikel 27, tweede tot en met vierde lid, ter zake advies aan consumentenorganisaties die voldoen aan bij algemene maatregel van bestuur gestelde voorwaarden. Bij de verlening van de desbetreffende concessie is artikel 27 niet van toepassing.   
-4.  Een concessieverlener publiceert het programma van eisen dat is opgesteld voor een concessie voor openbaar vervoer die wordt verleend zonder dat daarvoor een aanbesteding wordt gehouden voorafgaand aan de verlening van die concessie.   
+4.  Een concessieverlener publiceert het programma van eisen dat is opgesteld voor een concessie voor openbaar vervoer die wordt verleend zonder dat daarvoor een aanbesteding wordt gehouden voorafgaand aan de verlening van die concessie. 
 
 ### Artikel  45  
 
-Overleg als bedoeld in artikel 26 over het verlenen van een concessie vindt plaats voordat een concessieverlener het programma van eisen vaststelt.  
+Overleg als bedoeld in artikel 26 over het verlenen van een concessie vindt plaats voordat een concessieverlener het programma van eisen vaststelt. 
 
 ### Artikel  46  
 
 1.  Een concessiehouder verstrekt desgevraagd binnen een door de concessieverlener te bepalen termijn aan de concessieverlener gegevens voor zover deze noodzakelijk zijn voor de voorbereiding van de verlening van een concessie.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de gegevens die worden verstrekt en de wijze waarop controle op die gegevens wordt uitgeoefend.   
 3.  De gegevens kunnen openbaar worden gemaakt in het programma van eisen, voor zover het belang van openbaarmaking opweegt tegen het belang van het voorkomen van een onevenredige benadeling van de concessiehouder. [Artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is niet van toepassing.   
-4.  Dit artikel is van overeenkomstige toepassing op een vervoerder die openbaar vervoer verricht zonder daartoe verleende concessie, indien de gegevens noodzakelijk zijn voor de voorbereiding van de verlening van een concessie voor dat openbaar vervoer.   
+4.  Dit artikel is van overeenkomstige toepassing op een vervoerder die openbaar vervoer verricht zonder daartoe verleende concessie, indien de gegevens noodzakelijk zijn voor de voorbereiding van de verlening van een concessie voor dat openbaar vervoer.  
 
 ### Artikel  49  
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aanbesteding van concessies plaatsvindt.  
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop aanbesteding van concessies plaatsvindt. 
 
 ### Artikel  50  
 
-De concessieverlener stelt een aanbestedingsreglement vast voor de procedure van aanbesteding van concessies.  
+De concessieverlener stelt een aanbestedingsreglement vast voor de procedure van aanbesteding van concessies. 
 
 ### §  2  
 
 ####De verklaring van geen bezwaar
 
-### Artikel  51   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  51  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Het is verboden openbaar vervoer te verrichten op grond van een concessie die is verleend na aanbesteding, indien de concessiehouder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie.  
+Het is verboden openbaar vervoer te verrichten op grond van een concessie die is verleend na aanbesteding, indien de concessiehouder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. 
 
-### Artikel  52   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  52  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Een concessie als bedoeld in artikel 51 wordt uitsluitend verleend aan een vervoerder die beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie.  
+Een concessie als bedoeld in artikel 51 wordt uitsluitend verleend aan een vervoerder die beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. 
 
-### Artikel  53   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  53  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een verklaring van geen bezwaar wordt uitsluitend verleend aan een vervoerder wiens marktaandeel in de Nederlandse markt voor openbaar vervoer niet groter is dan het aandeel zoals dat krachtens bij algemene maatregel van bestuur als bedoeld in artikel 55, eerste lid, te stellen regels is vastgesteld.   
 2.  Onverminderd het eerste lid wordt een verklaring aan een vervoerbedrijf als bedoeld in artikel 64 uitsluitend verleend, indien: 
@@ -630,7 +630,7 @@ Treedt in werking op een nader te bepalen tijdstip
 a. het openbaar vervoer dat op de dag voor de inwerkingtreding van deze wet door het vervoerbedrijf werd verricht, inmiddels wordt verricht krachtens een concessie die is verleend na een procedure van aanbesteding, of  
 
 b. een gedeelte van het openbaar vervoer, bedoeld in onderdeel a, wordt verricht krachtens een concessie die is verleend na een procedure van aanbesteding en de omvang van de concessie waartoe het vervoerbedrijf een verklaring van geen bezwaar heeft aangevraagd naar omzet berekend niet meer beloopt dan anderhalf maal de omzet van dat gedeelte van het openbaar vervoer.     
-3.  Met een concessie die is verleend na een procedure van aanbesteding als bedoeld in het tweede lid, onderdelen a en b, wordt gelijkgesteld een concessie waarvan een kennisgeving tot de opdracht van aanbesteding van een concessie is gepubliceerd mits de in de kennisgeving vermelde ingangsdatum van de concessie is gelegen binnen een redelijke termijn na de datum van die kennisgeving.   
+3.  Met een concessie die is verleend na een procedure van aanbesteding als bedoeld in het tweede lid, onderdelen a en b, wordt gelijkgesteld een concessie waarvan een kennisgeving tot de opdracht van aanbesteding van een concessie is gepubliceerd mits de in de kennisgeving vermelde ingangsdatum van de concessie is gelegen binnen een redelijke termijn na de datum van die kennisgeving.  
 
 ### Artikel  54  
 
@@ -638,10 +638,10 @@ Onverminderd artikel 53 wordt een verklaring van geen bezwaar geweigerd aan:
 
 a. een vervoerder die gevestigd is in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is;  
 
-b. een vervoerder die gevestigd is in een andere staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover dit voortvloeit uit een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie dan wel uit een door of vanwege de regering gemaakte internationale afspraak.    
+b. een vervoerder die gevestigd is in een andere staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover dit voortvloeit uit een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie dan wel uit een door of vanwege de regering gemaakte internationale afspraak.   
 
-### Artikel  55   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  55  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Op de voordracht van Onze Minister in overeenstemming met Onze Minister van Economische Zaken worden bij algemene maatregel van bestuur regels gesteld over de afbakening van de Nederlandse markt voor openbaar vervoer en het maximaal voor een vervoerder te verkrijgen aandeel in de Nederlandse markt voor openbaar vervoer.   
 2.  Voor de toepassing van artikel 53, eerste lid, wordt het aandeel in de Nederlandse markt voor openbaar vervoer van een vervoerder bepaald aan de hand van de omzet die is behaald of is te verwachten met het verrichten van openbaar vervoer op basis van concessies of ander bij algemene maatregel van bestuur te bepalen vervoer.   
@@ -660,7 +660,7 @@ b. de vervoerder waarin de betrokken vervoerder rechtstreeks of middellijk:
 
 4°. het recht heeft de onderneming te leiden;  
 
-5°. op andere wijze dan bedoeld in het eerste, tweede, derde of vierde onderdeel, de mogelijkheid heeft, al dan niet in een gemeenschappelijke onderneming, een beslissende invloed uit te oefenen op de onderneming;    
+5°. op andere wijze dan bedoeld in het eerste, tweede, derde of vierde onderdeel, de mogelijkheid heeft, al dan niet in een gemeenschappelijke onderneming, een beslissende invloed uit te oefenen op de onderneming;     
 
 c. de vervoerders die ten aanzien van de betrokken vervoerder over de in onderdeel b bedoelde rechten of bevoegdheden beschikken;  
 
@@ -670,7 +670,7 @@ e. de vervoerders waarin een andere onderneming als bedoeld in [artikel 1 van de
 
 f. vervoerders waarbij ten minste twee vervoerders onderscheidenlijk ondernemingen als bedoeld in de onderdelen a tot en met d gezamenlijk over de in onderdeel b bedoelde rechten of bevoegdheden beschikken.     
 5.  Voor de berekening van de omzet van de in het eerste en vierde lid bedoelde vervoerders, blijft buiten beschouwing de omzet die is behaald in het tijdvak, bedoeld in artikel 47.   
-6.  Op de voordracht van Onze Minister in overeenstemming met Onze Minister van Economische Zaken worden bij algemene maatregel van bestuur nadere regels gesteld over de wijze waarop het aandeel van de vervoerder, bedoeld in het tweede lid, in de Nederlandse markt voor openbaar vervoer wordt vastgesteld.   
+6.  Op de voordracht van Onze Minister in overeenstemming met Onze Minister van Economische Zaken worden bij algemene maatregel van bestuur nadere regels gesteld over de wijze waarop het aandeel van de vervoerder, bedoeld in het tweede lid, in de Nederlandse markt voor openbaar vervoer wordt vastgesteld.  
 
 ### §  3  
 
@@ -679,36 +679,36 @@ f. vervoerders waarbij ten minste twee vervoerders onderscheidenlijk onderneming
 ### Artikel  56  
 
 1.  De Autoriteit Consument en Markt geeft op aanvraag een verklaring van geen bezwaar af, indien de aanvrager voldoet aan de in artikel 53 gestelde eisen en er geen omstandigheden aanwezig zijn als bedoeld in artikel 54.   
-2.  Een aanvraag om een verklaring van geen bezwaar kan niet eerder worden ingediend dan nadat de kennisgeving van de aanbesteding van de desbetreffende concessie is gepubliceerd.   
+2.  Een aanvraag om een verklaring van geen bezwaar kan niet eerder worden ingediend dan nadat de kennisgeving van de aanbesteding van de desbetreffende concessie is gepubliceerd.  
 
-### Artikel  57   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  57  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een aanvraag om een verklaring van geen bezwaar worden verstrekt.   
 2.  Indien de aanvrager reeds eerder een aanvraag om een verklaring van geen bezwaar heeft ingediend en daarbij gegevens heeft verstrekt die ook nodig zijn voor de beslissing op een nieuwe aanvraag en deze gegevens niet zijn gewijzigd, kan hij, in plaats van deze gegevens wederom te verstrekken, bij die nieuwe aanvraag volstaan met een verwijzing naar de eerdere aanvraag.   
-3.  Onverwijld na ontvangst van de aanvraag zendt de directeur-generaal de aanvrager een bericht van ontvangst, waarin de datum van ontvangst is vermeld.   
+3.  Onverwijld na ontvangst van de aanvraag zendt de directeur-generaal de aanvrager een bericht van ontvangst, waarin de datum van ontvangst is vermeld.  
 
-### Artikel  58   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  58  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De directeur-generaal beslist binnen vier weken na ontvangst van een aanvraag om een verklaring van geen bezwaar. De directeur-generaal stelt de verlener van de concessie waarop de aanvraag betrekking heeft, in kennis van zijn besluit.   
 2.  De in het eerste lid bedoelde termijn vangt aan met ingang van de eerstvolgende dag na ontvangst van de aanvraag, die niet een zaterdag, zondag of algemeen erkende feestdag is in de zin van de [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md).   
-3.  De directeur-generaal kan binnen de in het eerste lid bedoelde termijn, die termijn met vier weken verlengen.   
+3.  De directeur-generaal kan binnen de in het eerste lid bedoelde termijn, die termijn met vier weken verlengen.    
 4.  Het niet tijdig nemen van een beschikking op de aanvraag wordt gelijkgesteld met het afgeven van een verklaring van geen bezwaar.   
-5.  Op aanvraag van de concessieverlener deelt de directeur-generaal hem mee of het vierde lid van toepassing is op een bepaalde aanvraag.   
+5.  Op aanvraag van de concessieverlener deelt de directeur-generaal hem mee of het vierde lid van toepassing is op een bepaalde aanvraag.  
 
-### Artikel  59   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  59  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De directeur-generaal kan een verklaring van geen bezwaar intrekken, indien de aanvrager onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens zou hebben geleid tot een andere beschikking op de aanvraag om een verklaring van geen bezwaar.   
 2.  De directeur-generaal deelt zijn voornemen een verklaring van geen bezwaar in te trekken schriftelijk en met redenen omkleed mee aan belanghebbenden.   
 3.  In afwijking van afdeling 4.1.2. van de Algemene wet bestuursrecht stelt de directeur-generaal, alvorens toepassing te geven aan het eerste lid, degene aan wie de verklaring van geen bezwaar is verleend en de concessieverlener in de gelegenheid schriftelijk of mondeling hun zienswijze naar voren te brengen.   
-4.  Een beschikking tot intrekking van een verklaring van geen bezwaar treedt niet eerder in werking dan dertien weken na de datum van haar bekendmaking. Zij werkt niet terug.   
+4.  Een beschikking tot intrekking van een verklaring van geen bezwaar treedt niet eerder in werking dan dertien weken na de datum van haar bekendmaking. Zij werkt niet terug.  
 
-### Artikel  60   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  60  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtingen die hij nodig heeft voor de uitoefening van de hem in deze paragraaf toegekende bevoegdheden.  
+Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtingen die hij nodig heeft voor de uitoefening van de hem in deze paragraaf toegekende bevoegdheden. 
 
 ### §  4  
 
@@ -719,7 +719,7 @@ Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtin
 1.  Concessies voor openbaar vervoer worden slechts verleend nadat daartoe een aanbesteding is gehouden, tenzij artikel 63a of artikel 64, eerste lid, van toepassing is.   
 2.  In bij of krachtens algemene maatregel van bestuur bepaalde gevallen kan het eerste lid buiten toepassing worden gelaten voor de verlening van een concessie voor regionaal openbaar vervoer per trein als bedoeld in artikel 20, derde lid.   
 3.  Indien het openbaar vervoer uitvalt of dreigt uit te vallen kan, in afwijking van het eerste lid, een aanbesteding van dat openbaar vervoer achterwege blijven. Artikel 5, vijfde lid, van verordening (EG) 1370/2007 is van toepassing.   
-4.  In afwijking van het eerste lid kan een concessie voor openbaar vervoer, anders dan per trein, worden verleend zonder dat daartoe een aanbesteding is gehouden, indien die concessie voldoet aan een van de kenmerken, bedoeld in artikel 5, vierde lid, van verordening (EG) 1370/2007.   
+4.  In afwijking van het eerste lid kan een concessie voor openbaar vervoer, anders dan per trein, worden verleend zonder dat daartoe een aanbesteding is gehouden, indien die concessie voldoet aan een van de kenmerken, bedoeld in artikel 5, vierde lid, van verordening (EG) 1370/2007.  
 
 ### Artikel  62  
 
@@ -728,13 +728,13 @@ Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtin
 3.  Een concessieverlener of een bestuursorgaan kan een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft, uitsluiten van de aanbesteding van vervoer binnen het grondgebied van de plusregio waar de concessie op grond van artikel 63a verleend is, ook indien die invloed slechts minimaal is.   
 4.  Een concessieverlener als bedoeld in artikel 20, tweede lid, sluit een vervoerder uit van een aanbesteding als bedoeld in het eerste of tweede lid, indien die vervoerder is gevestigd in een andere staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is.   
 5.  Het eerste, tweede en derde lid zijn niet van toepassing indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.   
-6.  Het vijfde lid is van overeenkomstige toepassing op een gemeentelijk vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md).   
+6.  Het vijfde lid is van overeenkomstige toepassing op een gemeentelijk vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md).  
 
 ### Artikel  63  
 
 1.  Onze Minister kan de raad van bestuur van de mededingingsautoriteit verzoeken een rapportage uit te brengen inzake de effecten voor de mededinging op de Nederlandse markt voor openbaar vervoer of een deel daarvan, van een op een aanvraag als bedoeld in artikel 61, tweede lid te nemen besluit.   
 2.  De rapportage is niet eerder openbaar dan nadat Onze Minister een besluit over de aanvraag heeft genomen.   
-3.  De rapportage wordt meegezonden met de beslissing op de aanvraag.   
+3.  De rapportage wordt meegezonden met de beslissing op de aanvraag.  
 
 ### §  4a  
 
@@ -742,7 +742,7 @@ Concessieverleners en vervoerders verstrekken de directeur-generaal de inlichtin
 
 ### Artikel  63a  
 
-In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente Amsterdam, ’s-Gravenhage, Rotterdam of Utrecht omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden indien deze concessie wordt verleend aan een vervoerder waarop de desbetreffende plusregio net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing.  
+In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente Amsterdam, ’s-Gravenhage, Rotterdam of Utrecht omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden indien deze concessie wordt verleend aan een vervoerder waarop de desbetreffende plusregio net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing. 
 
 ### §  4b  
 
@@ -751,7 +751,7 @@ In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar
 ### Artikel  63ab  
 
 1.  De raad van bestuur van de mededingingsautoriteit voert een prestatievergelijking uit van vervoerders aan wie op grond van artikel 63a een concessie is verleend, die betrekking heeft op de klantenservice, kostenefficiëntie en doelmatigheid van de vervoerders.   
-2.  Bij ministeriele regeling kunnen nadere regels worden gesteld ten behoeve van de onderlinge vergelijkbaarheid van de verschillende vervoerders en de frequentie van de prestatievergelijking.   
+2.  Bij ministeriele regeling kunnen nadere regels worden gesteld ten behoeve van de onderlinge vergelijkbaarheid van de verschillende vervoerders en de frequentie van de prestatievergelijking.  
 
 ### Artikel  63b  
 
@@ -762,7 +762,7 @@ a. concessies voor openbaar vervoer buiten de plusregio waar de concessie, bedoe
 b. concessies voor openbaar vervoer binnen de plusregio waar de concessie, bedoeld in de aanhef, verleend is indien de concessieverlener dit heeft uitgesloten als bedoeld in artikel 62, derde lid.  
 
 c. vervoer buiten het grondgebied van de plusregio waar de concessie verleend is waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel van toepassing is verklaard.     
-2.  In afwijking van het eerste lid mag een vervoerder aan wie op grond van artikel 63a een concessie is verleend, meedoen aan een aanbesteding indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.   
+2.  In afwijking van het eerste lid mag een vervoerder aan wie op grond van artikel 63a een concessie is verleend, meedoen aan een aanbesteding indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.  
 
 ### Artikel  63c  
 
@@ -794,7 +794,7 @@ b. voldoet aan de in onderdeel 5 van de bijlage bij verordening (EG) 1370/2007 g
 
 a. die op grond van de artikelen 3 of 19, tweede lid, openbaar vervoer verricht op een andere grondslag dan op grond van een concessie;  
 
-b. die vervoerder verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in de onderdelen a of b bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.     
+b. die vervoerder verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in de onderdelen a of b bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.    
 
 ### §  5  
 
@@ -811,14 +811,14 @@ a. de keuze van de voor het verlenen van een concessie te volgen procedures;
 b. de criteria voor toelating van ondernemingen tot de procedure voor het verlenen van een concessie, waaronder de uitsluiting van ondernemingen die door hun marktmacht of concurrentiepositie een eerlijke competitie belemmeren;  
 
 c. de criteria voor het verlenen van een concessie.     
-4.  Een concessie voor het hoofdrailnet wordt door Onze Minister niet eerder verleend, dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+4.  Een concessie voor het hoofdrailnet wordt door Onze Minister niet eerder verleend, dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  65  
 
 1.  In deze paragraaf wordt verstaan onder het hoofdrailnet: de spoorvervoerdiensten die als zodanig bij koninklijk besluit zijn aangewezen.   
-2.  De krachtens het eerste lid aangewezen spoorvervoerdiensten kunnen met ingang van 1 januari 2015 mede de diensten met stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie, is gegeven.   
+2.  De krachtens het eerste lid aangewezen spoorvervoerdiensten kunnen met ingang van 1 januari 2015 mede de diensten met stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie, is gegeven.  
 3.  Onze Minister kan bepalen dat een door hem verleende concessie voor het hoofdrailnet geheel of voor een door Onze Minister daarbij te bepalen aanmerkelijk gedeelte door de concessiehouder zal worden uitgevoerd met gebruikmaking van een of meer door Onze Minister aan te wijzen rechtspersonen.   
-4.  Een in het eerste lid bedoeld koninklijk besluit wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overlegd.   
+4.  Een in het eerste lid bedoeld koninklijk besluit wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overlegd.  
 
 ### Artikel  66  
 
@@ -836,24 +836,24 @@ d. een beschrijving van de te volgen procedure van concessieverlening; en
 e. of Onze Minister voornemens is artikel 69b, tweede lid, toe te passen.     
 3.  Voordat Onze Minister het beleidsvoornemen vaststelt, legt hij dit voornemen ter advisering voor aan de in artikel 27 bedoelde consumentenorganisaties. Artikel 27 is van overeenkomstige toepassing.   
 4.  Onze Minister legt het vastgestelde beleidsvoornemen voor aan de Tweede Kamer der Staten-Generaal. Indien binnen 30 dagen na deze voorlegging ten minste 30 leden te kennen geven nadere inlichtingen te willen ontvangen over de voorgenomen concessieverlening, zal de aanvang van procedure tot concessieverlening niet eerder plaatsvinden dan dat veertien dagen zijn verstreken na het verstrekken van die inlichtingen.   
-5.  Indien binnen 30 dagen na de voorlegging of binnen 14 dagen na de verstrekking van de inlichtingen, bedoeld in het vierde lid, de Kamer als haar oordeel uitspreekt dat de concessieverlening machtiging bij wet behoeft, wordt de concessie eerst verleend nadat die machtiging is verleend.   
+5.  Indien binnen 30 dagen na de voorlegging of binnen 14 dagen na de verstrekking van de inlichtingen, bedoeld in het vierde lid, de Kamer als haar oordeel uitspreekt dat de concessieverlening machtiging bij wet behoeft, wordt de concessie eerst verleend nadat die machtiging is verleend.  
 
 ### Artikel  66a  
 
 1.  Voorafgaand aan de verlening van een concessie voor het hoofdrailnet, stelt Onze Minister een programma van eisen vast als bedoeld in artikel 44, tweede lid.   
-2.  Voordat Onze Minister het programma van eisen vaststelt, legt hij dit programma voor aan de Tweede Kamer der Staten-Generaal.   
+2.  Voordat Onze Minister het programma van eisen vaststelt, legt hij dit programma voor aan de Tweede Kamer der Staten-Generaal.  
 
 ### Artikel  67  
 
 1.  Dit artikel is van toepassing op de verlening van de eerste concessie voor het hoofdrailnet na de inwerkingtreding van de [Concessiewet personenvervoer per trein](../../../../../wet/concessiewet/personenvervoer/per/trein/BWBR0015008/README.md).   
 2.  Onze Minister verleent de in het eerste lid bedoelde concessie aan de N.V. Nederlandse Spoorwegen of aan een bij koninklijk besluit te bepalen onderdeel van de N.V. Nederlandse Spoorwegen zonder dat daartoe de procedure van de paragrafen 1 tot en met 3 van dit hoofdstuk of artikel 69c wordt toegepast. Deze concessie vangt aan op een bij koninklijk besluit te bepalen datum en eindigt op 1 januari 2015.   
-3.  Onze Minister kan van het tweede lid afwijken; alsdan wordt artikel 69c toegepast.   
+3.  Onze Minister kan van het tweede lid afwijken; alsdan wordt artikel 69c toegepast.  
 
-### §  6  
+###§ 6 
 
 ####Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
 
-Vervallen per 01-01-2013   
+Vervallen per 01-01-2013 
 
 ### Hoofdstuk  IV  
 
@@ -862,19 +862,19 @@ Vervallen per 01-01-2013
 ### Artikel  70  
 
 1.  Het is verboden zonder hiervoor geldig vervoerbewijs gebruik te maken van het openbaar vervoer, alsmede, voor zover de vervoerder zulks duidelijk kenbaar heeft gemaakt, van de daartoe behorende voorzieningen.   
-2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing in de bij algemene maatregel van bestuur bepaalde gevallen.   
+2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing in de bij algemene maatregel van bestuur bepaalde gevallen.  
 
 ### Artikel  71  
 
-Het is verboden een onbevoegd gewijzigd of anderszins bewerkt vervoerbewijs te gebruiken, een vervoerbewijs te misbruiken of de controle van vervoerbewijzen te belemmeren of te verhinderen.  
+Het is verboden een onbevoegd gewijzigd of anderszins bewerkt vervoerbewijs te gebruiken, een vervoerbewijs te misbruiken of de controle van vervoerbewijzen te belemmeren of te verhinderen. 
 
 ### Artikel  72  
 
-Het is een ieder verboden zich in een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig dan wel in of in de onmiddellijke nabijheid van een station, halteplaats, of een andere bij het openbaar vervoer behorende voorziening en de daarbij behorende perrons, trappen, tunnels en liften zodanig te gedragen dat orde, rust, veiligheid of een goede bedrijfsgang wordt of kan worden verstoord.  
+Het is een ieder verboden zich in een auto, bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig dan wel in of in de onmiddellijke nabijheid van een station, halteplaats, of een andere bij het openbaar vervoer behorende voorziening en de daarbij behorende perrons, trappen, tunnels en liften zodanig te gedragen dat orde, rust, veiligheid of een goede bedrijfsgang wordt of kan worden verstoord. 
 
 ### Artikel  73  
 
-Een ieder is verplicht de aanwijzingen betreffende de orde, rust, veiligheid of een goede bedrijfsgang op te volgen die door of vanwege de vervoerder duidelijk kenbaar zijn gemaakt.  
+Een ieder is verplicht de aanwijzingen betreffende de orde, rust, veiligheid of een goede bedrijfsgang op te volgen die door of vanwege de vervoerder duidelijk kenbaar zijn gemaakt. 
 
 ### Artikel  74  
 
@@ -887,7 +887,7 @@ b. de wijze waarop de in artikel 73 bedoelde aanwijzingen onder meer kunnen word
 
 a. het gebruik van vervoerbewijzen;  
 
-b. de verplichting tot betaling en het recht op terugbetaling.     
+b. de verplichting tot betaling en het recht op terugbetaling.    
 
 ### Hoofdstuk  V  
 
@@ -900,7 +900,7 @@ b. de verplichting tot betaling en het recht op terugbetaling.
 ### Artikel  75  
 
 1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt met het verrichten van taxivervoer gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.   
-2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder «de vervoerder die taxivervoer verricht» verstaan: degene die taxivervoer verricht, niet in de hoedanigheid van bestuurder van een auto.   
+2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder «de vervoerder die taxivervoer verricht» verstaan: degene die taxivervoer verricht, niet in de hoedanigheid van bestuurder van een auto.  
 
 ### Artikel  76  
 
@@ -909,7 +909,7 @@ b. de verplichting tot betaling en het recht op terugbetaling.
 3.  De vervoerder die taxivervoer verricht, alsmede de bestuurder van een auto waarmee taxivervoer wordt verricht, draagt er zorg voor dat in de auto waarmee dat vervoer wordt verricht het vergunningbewijs zichtbaar voor de reiziger aanwezig is.   
 4.  Een in het eerste lid bedoelde vergunning wordt, behoudens in bij algemene maatregel van bestuur bepaalde gevallen, slechts verleend aan een vervoerder die voldoet aan eisen van betrouwbaarheid en vakbekwaamheid.   
 5.  Onze Minister kan vrijstelling of ontheffing verlenen van het derde lid en van de in het vierde lid bedoelde eis van vakbekwaamheid.   
-6.  Een vrijstelling of ontheffing als bedoeld in het vijfde lid kan onder beperkingen worden verleend en er kunnen voorschriften aan worden verbonden.   
+6.  Een vrijstelling of ontheffing als bedoeld in het vijfde lid kan onder beperkingen worden verleend en er kunnen voorschriften aan worden verbonden.  
 
 ### Artikel  76a  
 
@@ -918,7 +918,7 @@ b. de verplichting tot betaling en het recht op terugbetaling.
 3.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
 4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
 5.  Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
-6.  De beperkingen waaronder een vergunning wordt verleend en de aan een vergunning verbonden voorschriften kunnen ambtshalve of op aanvraag worden gewijzigd, geschorst of ingetrokken.   
+6.  De beperkingen waaronder een vergunning wordt verleend en de aan een vergunning verbonden voorschriften kunnen ambtshalve of op aanvraag worden gewijzigd, geschorst of ingetrokken.  
 
 ### Artikel  76b  
 
@@ -934,7 +934,7 @@ d. zodra degene aan wie de vergunning is verleend, zijn activiteiten als vervoer
 2.  Belanghebbenden kunnen binnen zes maanden na het overlijden of na het intreden van de wettelijke onbekwaamheid bij Onze Minister een aanvraag indienen om de vergunning te stellen op naam van de erfgenaam of, indien er meer erfgenamen zijn, op naam van de gezamenlijke erven, dan wel op naam van één of meer door de belanghebbenden aangewezen vertegenwoordigers.   
 3.  Onze Minister beslist binnen drie maanden op de aanvraag, bedoeld in het tweede lid. Indien Onze Minister de aanvraag inwilligt, geschiedt dat voor een periode van ten hoogste één jaar na het verstrijken van de in het eerste lid, onderdeel a, bedoelde periode.   
 4.  De in het derde lid bedoelde periode van één jaar kan door Onze Minister eenmaal met ten hoogste een half jaar worden verlengd.   
-5.  Het eerste lid vindt geen toepassing zolang Onze Minister nog niet onherroepelijk op de in het tweede lid bedoelde aanvraag heeft beslist.   
+5.  Het eerste lid vindt geen toepassing zolang Onze Minister nog niet onherroepelijk op de in het tweede lid bedoelde aanvraag heeft beslist.  
 
 ### Artikel  76c  
 
@@ -946,7 +946,7 @@ b. de termijn waarbinnen op een aanvraag wordt beslist;
 
 c. de afgifte, geldigheid en het gebruik van vergunningbewijzen voor auto's, en  
 
-d. de vergoeding die de aanvrager is verschuldigd voor de behandeling van een aanvraag als bedoeld in onderdeel a en voor de afgifte van vergunningbewijzen.    
+d. de vergoeding die de aanvrager is verschuldigd voor de behandeling van een aanvraag als bedoeld in onderdeel a en voor de afgifte van vergunningbewijzen.   
 
 ### Artikel  76d  
 
@@ -955,13 +955,13 @@ d. de vergoeding die de aanvrager is verschuldigd voor de behandeling van een aa
 a. de eisen van betrouwbaarheid en vakbekwaamheid;  
 
 b. de vergoeding die is verschuldigd voor de behandeling van de aanvraag om verlening van een ontheffing alsmede voor afgifte van verklaringen van Onze Minister betreffende het voldoen aan eisen van vakbekwaamheid.     
-2.  Voor zover dit noodzakelijk is om vast te stellen of wordt voldaan aan de eisen van betrouwbaarheid en vakbekwaamheid, kan Onze Minister gegevens omtrent gedrag en strafvorderlijke en justitiële gegevens verwerken.   
+2.  Voor zover dit noodzakelijk is om vast te stellen of wordt voldaan aan de eisen van betrouwbaarheid en vakbekwaamheid, kan Onze Minister gegevens omtrent gedrag en strafvorderlijke en justitiële gegevens verwerken.  
 
 ### Artikel  76e  
 
 1.  Het is de houder van een vergunning verboden te handelen in strijd met een vergunning, de beperkingen waaronder een vergunning is verleend, de aan een vergunning verbonden voorschriften en met de in artikel 76, zesde lid, bedoelde beperkingen en voorschriften.   
 2.  Het is de houder van een vergunning verboden een vergunningbewijs al dan niet tegen betaling ter beschikking te stellen van een derde ten behoeve van het verrichten van taxivervoer.   
-3.  Het tweede lid is van overeenkomstige toepassing op degene aan wie door de houder van een vergunning een vergunningbewijs ter beschikking is gesteld.   
+3.  Het tweede lid is van overeenkomstige toepassing op degene aan wie door de houder van een vergunning een vergunningbewijs ter beschikking is gesteld.  
 
 ### §  2  
 
@@ -971,12 +971,12 @@ b. de vergoeding die is verschuldigd voor de behandeling van de aanvraag om verl
 
 1.  De vervoerder die taxivervoer verricht voorziet, al dan niet in samenwerking met andere vervoerders, in het op verzoek behandelen van geschillen over de totstandkoming of de uitvoering van een vervoersovereenkomst als bedoeld in de [artikelen 80, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), en [100, eerste lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), door instelling van een geschillencommissie.   
 2.  Artikel 12, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.  
 
 ### Artikel  78  
 
 1.  De vervoerder die taxivervoer verricht, maakt op een naar de aard van het vervoer geëigende wijze kenbaar op welke wijze klachten over het verrichten van taxivervoer worden behandeld.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste lid.  
 
 ### §  3  
 
@@ -1009,11 +1009,11 @@ b. het gebruik van zodanige apparatuur en voorzieningen met inbegrip van de afzo
 
 c. de keuring van zodanige apparatuur en voorzieningen dan wel de installatie daarvan.     
 3.  De in het eerste lid bedoelde regels kunnen verschillen al naar gelang de aard van het taxivervoer of de locatie waar taxivervoer wordt verricht.   
-4.  Voor zover dit noodzakelijk is ter toetsing van de geschiktheid van bestuurders, kunnen in het kader van de in het eerste lid, onder e, bedoelde eisen en verplichtingen, onder meer gegevens betreffende de gezondheid en het gedrag van bestuurders worden verwerkt. Het bestuursorgaan dat bevoegd is tot toetsing aan deze eisen, is verantwoordelijk voor de verwerking van de gegevens als bedoeld in de Wet bescherming persoonsgegevens.   
+4.  Voor zover dit noodzakelijk is ter toetsing van de geschiktheid van bestuurders, kunnen in het kader van de in het eerste lid, onder e, bedoelde eisen en verplichtingen, onder meer gegevens betreffende de gezondheid en het gedrag van bestuurders worden verwerkt. Het bestuursorgaan dat bevoegd is tot toetsing aan deze eisen, is verantwoordelijk voor de verwerking van de gegevens als bedoeld in de Wet bescherming persoonsgegevens.  
 
 ### Artikel  80  
 
-Het is verboden taxivervoer te verrichten in strijd met de bij of krachtens de artikelen 79, 81, 81a, 82a en 82b gestelde regels.  
+Het is verboden taxivervoer te verrichten in strijd met de bij of krachtens de artikelen 79, 81, 81a, 82a en 82b gestelde regels. 
 
 ### §  4  
 
@@ -1028,7 +1028,7 @@ a. de wijze waarop het tarief is opgebouwd;
 b. de verplichting om de tariefopbouw toe te passen;  
 
 c. een toe te passen maximumtarief.     
-2.  Het eerste lid heeft geen betrekking op tarieven voor taxivervoer dat wordt verricht ter uitvoering van een schriftelijke overeenkomst, waarbij gedurende een bij die overeenkomst vastgestelde periode meermalen taxivervoer wordt verricht tegen een in die overeenkomst vastgelegd tarief.   
+2.  Het eerste lid heeft geen betrekking op tarieven voor taxivervoer dat wordt verricht ter uitvoering van een schriftelijke overeenkomst, waarbij gedurende een bij die overeenkomst vastgestelde periode meermalen taxivervoer wordt verricht tegen een in die overeenkomst vastgelegd tarief.  
 
 ### §  4a  
 
@@ -1042,7 +1042,7 @@ a. de invoering, de vaststelling, de uitgifte, de exploitatie of het beheer van 
 
 b. het gebruik, de geldigheid of de acceptatie;  
 
-c. de erkenning van een of meer instellingen die deze vervoerbewijzen uitgeven, exploiteren of beheren, alsmede de voorschriften waaraan dergelijke instellingen moeten voldoen.    
+c. de erkenning van een of meer instellingen die deze vervoerbewijzen uitgeven, exploiteren of beheren, alsmede de voorschriften waaraan dergelijke instellingen moeten voldoen.   
 
 ### §  5  
 
@@ -1051,7 +1051,7 @@ c. de erkenning van een of meer instellingen die deze vervoerbewijzen uitgeven, 
 ### Artikel  82  
 
 1.  Bij of krachtens gemeentelijke verordening kunnen regels worden gesteld die in het belang zijn van de kwaliteit van op de gemeentelijke openbare weg aangeboden taxivervoer.   
-2.  De in het eerste lid bedoelde regels strekken tot aanvulling van de bij of krachtens deze wet vastgestelde bepalingen en hebben geen betrekking op andere onderwerpen dan die van de artikelen 82a en 82b.   
+2.  De in het eerste lid bedoelde regels strekken tot aanvulling van de bij of krachtens deze wet vastgestelde bepalingen en hebben geen betrekking op andere onderwerpen dan die van de artikelen 82a en 82b.  
 
 ### Artikel  82a  
 
@@ -1073,7 +1073,7 @@ e. de vergoedingen die zijn verschuldigd voor de uitvoeringskosten die samenhang
 
 a. de voorwaarden en beperkingen van de toepassing van de in het eerste lid bedoelde bevoegdheden;  
 
-b. de aansluiting op bij of krachtens artikel 79 gestelde regels.     
+b. de aansluiting op bij of krachtens artikel 79 gestelde regels.    
 
 ### Artikel  82b  
 
@@ -1110,11 +1110,11 @@ j. de wijze van vastlegging van en verantwoording over de in de onderdelen a tot
 a. de voorwaarden en beperkingen van de toepassing van de in het eerste, derde en zevende lid, bedoelde bevoegdheden;  
 
 b. de aansluiting op bij of krachtens artikel 79 gestelde regels.     
-10.  Dit artikel is uitsluitend van toepassing op bij ministeriële regeling aangewezen gemeenten.   
+10.  Dit artikel is uitsluitend van toepassing op bij ministeriële regeling aangewezen gemeenten.  
 
 ### Artikel  82c  
 
-In afwijking van artikel 93 is het college van burgemeester en wethouders van de desbetreffende gemeente bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze paragraaf gestelde verplichtingen.  
+In afwijking van artikel 93 is het college van burgemeester en wethouders van de desbetreffende gemeente bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze paragraaf gestelde verplichtingen. 
 
 ### Hoofdstuk  VI  
 
@@ -1129,7 +1129,7 @@ a. openbaar vervoer, besloten busvervoer en taxivervoer dat de Nederlandse grens
 b. openbaar vervoer, besloten busvervoer en taxivervoer dat door een in Nederland gevestigde vervoerder geheel buiten Nederland of door een buiten Nederland gevestigde vervoerder geheel in Nederland wordt verricht;  
 
 c. het rijden met een lege bus of auto over voor het openbaar verkeer openstaande wegen in Nederland of het rijden met een lege bus of auto door een in Nederland gevestigde vervoerder geheel of ten dele buiten Nederland of door een buiten Nederland gevestigde vervoerder geheel of ten dele in Nederland, voor zover dat verband houdt met het verrichten van openbaar vervoer, besloten busvervoer of taxivervoer.     
-2.  De regels, bedoeld in het eerste lid, kunnen mede betrekking hebben op de vergoeding die de aanvrager is verschuldigd voor de behandeling van de aanvraag om verlening of wijziging van de voor dat vervoer benodigde documenten.   
+2.  De regels, bedoeld in het eerste lid, kunnen mede betrekking hebben op de vergoeding die de aanvrager is verschuldigd voor de behandeling van de aanvraag om verlening of wijziging van de voor dat vervoer benodigde documenten.  
 
 ### Hoofdstuk  VII  
 
@@ -1147,13 +1147,13 @@ a. de bij besluit van Onze Minister aangewezen personen;
 
 b. de bij besluit van de bestuursorganen, bedoeld in artikel 20, tweede en derde lid, aangewezen personen, voor zover het de door hen verleende concessies betreft, voor het bepaalde bij of krachtens de artikelen 19, 29, 30 tot en met 40, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid voor zover niet de Autoriteit Consument en Markt is belast met dat toezicht en  
 
-c. de bij besluit van het college van burgemeester en wethouders van de desbetreffende gemeenten aangewezen personen, voor zover het betreft het toezicht op naleving van het bepaalde bij of krachtens de artikelen 82a en 82b.     
+c. de bij besluit van het college van burgemeester en wethouders van de desbetreffende gemeenten aangewezen personen, voor zover het betreft het toezicht op naleving van het bepaalde bij of krachtens de artikelen 82a en 82b.    
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van verordening 1071/2009/EG en van verordening 1073/2009/EG zijn voorts belast de in [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren en de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) aangewezen ambtenaren.   
 3.  Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de artikelen 70 tot en met 74 bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.   
-4.  Met het toezicht op de naleving van het bepaalde bij verordening 1371/2007/EG zijn de bij besluit van Onze Minister aangewezen personen belast.   
+4.  Met het toezicht op de naleving van het bepaalde bij verordening 1371/2007/EG zijn de bij besluit van Onze Minister aangewezen personen belast.  
 5.  Met het toezicht op de naleving van het bepaalde bij of krachtens artikel 63c, vierde, zesde tot en met tiende lid en elfde lid, onderdeel c, voor zover artikel 87, vierde lid, op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.   
-6.  Met het toezicht op de naleving van verordening (EU) nr. 181/2011 zijn belast de bij besluit van Onze Minister aangewezen personen.   
-7.  Van een besluit als bedoeld in het eerste, vierde, vijfde of zesde lid, wordt mededeling gedaan in de Staatscourant.   
+6.  Met het toezicht op de naleving van verordening (EU) nr. 181/2011 zijn belast de bij besluit van Onze Minister aangewezen personen.  
+7.  Van een besluit als bedoeld in het eerste, vierde, vijfde of zesde lid, wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  88  
 
@@ -1164,19 +1164,19 @@ c. de bij besluit van het college van burgemeester en wethouders van de desbetre
 
 1.  Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn voorts belast de bij besluit van Onze Minister en Onze Minister van Justitie gezamenlijk aangewezen personen.   
-3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  90  
 
-De in artikel 87 bedoelde ambtenaren en personen beschikken niet over de bevoegdheden, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De in artikel 87 bedoelde ambtenaren en personen beschikken niet over de bevoegdheden, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  91  
 
-De [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15 tot en met 5:17](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:19](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in artikel 89 bedoelde ambtenaren en personen.  
+De [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15 tot en met 5:17](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:19](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in artikel 89 bedoelde ambtenaren en personen. 
 
-### Artikel  92  
+###Artikel 92 
 
-De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplicht op de eerste vordering van de artikelen 87 en 89 bedoelde ambtenaren en personen die hebben vastgesteld dat de reiziger heeft gehandeld in strijd met de artikelen 70 of  71, een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aan te bieden.  
+De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplicht op de eerste vordering van de artikelen 87 en 89 bedoelde ambtenaren en personen die hebben vastgesteld dat de reiziger heeft gehandeld in strijd met de artikelen 70 of 71, een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) ter inzage aan te bieden.
 
 ### §  2  
 
@@ -1186,43 +1186,43 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 
 1.  Onze Minister is de handhavende instantie, bedoeld in de artikelen 30 van verordening 1371/2007/EG en 28, eerste lid, van verordening (EU) nr. 181/2011.   
 2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van verordening 1371/2007/EG, verordening 1071/2009/EG, verordening 1073/2009/EG, verordening (EU) nr. 181/2011 en van de bij of krachtens deze wet gestelde verplichtingen.   
-3.  De Autoriteit Consument en Markt is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van artikel 19a, vierde lid.   
+3.  De Autoriteit Consument en Markt is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van artikel 19a, vierde lid. 
 
 ### Artikel  93a  
 
-Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en derde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de Autoriteit Consument en Markt is toegekend.  
+Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en derde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de Autoriteit Consument en Markt is toegekend. 
 
 ### Artikel  94  
 
 1.  In geval van overtreding van artikel 63c, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 94 op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt aan de overtreder een last onder dwangsom opleggen.   
 2.  Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
-3.  Een last geldt voor een door de Autoriteit Consument en Markt te bepalen termijn van ten hoogste twee jaar.   
+3.  Een last geldt voor een door de Autoriteit Consument en Markt te bepalen termijn van ten hoogste twee jaar.  
 
 ### Artikel  95  
 
 1.  De Autoriteit Consument en Markt deelt haar voornemen een beschikking te geven als bedoeld in artikel 94, eerste lid, schriftelijk en met redenen omkleed mee aan belanghebbenden.   
-2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt, alvorens te besluiten omtrent toepassing van artikel 94, eerste lid, belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.   
+2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt, alvorens te besluiten omtrent toepassing van artikel 94, eerste lid, belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.  
 
 ### Artikel  96  
 
 1.  De Autoriteit Consument en Markt kan een last onder dwangsom wijzigen of intrekken.   
-2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt, alvorens toepassing te geven aan het eerste lid, belanghebbenden in de gelegenheid mondeling of schriftelijk hun zienswijze kenbaar te maken.   
+2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de Autoriteit Consument en Markt, alvorens toepassing te geven aan het eerste lid, belanghebbenden in de gelegenheid mondeling of schriftelijk hun zienswijze kenbaar te maken.  
 
 ### Artikel  96a  
 
 1.  In geval van overtreding van artikel 63c, eerste, tweede, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 96a op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de Autoriteit Consument en Markt een bestuurlijke boete opleggen van ten hoogste € 450 000,– of indien dat meer is, 1% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
-2.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
 
 ### Artikel  97  
 
-Indien naar het oordeel van de in de artikelen 87 of  89 bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen.  
+Indien naar het oordeel van de in de artikelen 87 of 89 bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen. 
 
 ### Artikel  98  
 
 1.  Indien de reiziger handelt in strijd met de artikelen 70 tot en met 74 zijn de in de artikelen 87 en 89 bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het gehele openbaar vervoer te ontzeggen.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de duur van een ontzegging als bedoeld in het eerste lid.   
-3.  Het is verboden in strijd te handelen met een op grond van het eerste lid opgelegde ontzegging.   
-4.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.   
+3.  Het is verboden in strijd te handelen met een op grond van het eerste lid opgelegde ontzegging.  
+4.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.  
 
 ### Artikel  99  
 
@@ -1233,25 +1233,25 @@ a. indien is gehandeld in strijd met het bij of krachtens deze wet bepaalde;
 b. indien niet langer wordt voldaan aan een van de in artikel 76, vierde lid, bedoelde eisen, tenzij een vrijstelling of ontheffing als bedoeld in het vijfde lid voor zover het de eis van vakbekwaamheid betreft, is verleend;  
 
 c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
-2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
 
 ### Artikel  100  
 
 1.  Onverminderd artikel 43, eerste lid, kan een concessie worden ingetrokken, indien aan de concessiehouder ter zake van overtreding van het bepaalde bij of krachtens deze wet een sanctie is opgelegd. Artikel 43, tweede lid, is van toepassing.   
-2.  De concessieverlener kan een ontheffing als bedoeld in artikel 29 intrekken, indien de vervoerder in strijd handelt met het bij of krachtens deze wet ten aanzien van de vervoerder bepaalde dan wel met de ontheffing of de aan de ontheffing verbonden beperkingen of voorschriften.   
+2.  De concessieverlener kan een ontheffing als bedoeld in artikel 29 intrekken, indien de vervoerder in strijd handelt met het bij of krachtens deze wet ten aanzien van de vervoerder bepaalde dan wel met de ontheffing of de aan de ontheffing verbonden beperkingen of voorschriften.  
 
 ### Artikel  101  
 
 1.  Niet naleving van de artikelen 70 tot en met 73 en 98, derde lid, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
-2.  Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de artikelen 87 en 89, is vastgesteld dat hij in strijd handelt met de artikelen 70 of  71, niet voldoet aan de verplichting, bedoeld in artikel 92, worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.   
+2.  Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de artikelen 87 en 89, is vastgesteld dat hij in strijd handelt met de artikelen 70 of 71, niet voldoet aan de verplichting, bedoeld in artikel 92, worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.  
 
 ### Artikel  102  
 
-Bij algemene maatregel van bestuur kan worden bepaald dat het recht tot strafvordering wegens overtreding van de artikelen 70 of  71 vervalt door voldoening op een daarbij aan te geven wijze van een bij of krachtens die maatregel vast te stellen geldsom aan de vervoerder.  
+Bij algemene maatregel van bestuur kan worden bepaald dat het recht tot strafvordering wegens overtreding van de artikelen 70 of 71 vervalt door voldoening op een daarbij aan te geven wijze van een bij of krachtens die maatregel vast te stellen geldsom aan de vervoerder. 
 
 ### Artikel  103  
 
-Overtreding van de artikelen 7, eerste, derde en vierde lid, 76, eerste lid, en 76e, tweede en derde lid, wordt aangemerkt als een misdrijf.  
+Overtreding van de artikelen 7, eerste, derde en vierde lid, 76, eerste lid, en 76e, tweede en derde lid, wordt aangemerkt als een misdrijf. 
 
 ### Hoofdstuk  VIII  
 
@@ -1284,11 +1284,11 @@ a. representatieve organisaties van werkgevers en werknemers in het openbaar ver
 
 b. provincies, regionaal openbare lichamen en gemeenten;  
 
-c. representatieve organisaties die de belangen van gebruikers van het openbaar vervoer, het besloten busvervoer en het taxivervoer behartigen.    
+c. representatieve organisaties die de belangen van gebruikers van het openbaar vervoer, het besloten busvervoer en het taxivervoer behartigen.   
 
 ### Artikel  107  
 
-De voordracht voor een eerste vaststelling van een algemene maatregel van bestuur op grond van deze wet wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.  
+De voordracht voor een eerste vaststelling van een algemene maatregel van bestuur op grond van deze wet wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  108  
 
@@ -1296,17 +1296,17 @@ De voordracht voor een eerste vaststelling van een algemene maatregel van bestuu
 2.  Onverminderd het eerste lid zendt Onze Minister voor 1 december 2004 aan de Staten-Generaal een verslag over de effecten in de praktijk van aanbesteding van concessies als bedoeld in deze wet.   
 3.  Met het oog op de besluitvorming inzake de invoering van een plicht tot aanbesteding van concessies met ingang van 1 januari 2006 zendt Onze Minister voor 1 december 2004 aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van aanbesteding van concessies.   
 4.  Onze Minister kan onderzoek doen naar de ontwikkeling van de concurrentieverhoudingen op de Nederlandse markt voor openbaar vervoer.   
-5.  De concessieverleners en de concessiehouders verstrekken ten behoeve van de verslagen, bedoeld in het eerste, tweede en derde lid, of het onderzoek, bedoeld in het vierde lid, desgevraagd de informatie die Onze Minister nodig acht.   
+5.  De concessieverleners en de concessiehouders verstrekken ten behoeve van de verslagen, bedoeld in het eerste, tweede en derde lid, of het onderzoek, bedoeld in het vierde lid, desgevraagd de informatie die Onze Minister nodig acht.  
 
 ### Artikel  110  
 
-Bij ministeriële regeling kan worden bepaald dat artikel 53, tweede lid, buiten toepassing blijft. Na het tot stand komen van die regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.  
+Bij ministeriële regeling kan worden bepaald dat artikel 53, tweede lid, buiten toepassing blijft. Na het tot stand komen van die regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet. 
 
 ### Artikel  110a  
 
 1.  Onze Minister wijst de terminals aan, bedoeld in artikel 12 van verordening (EU) nr. 181/2011.   
 2.  Onze Minister is tot 1 maart 2021 bevoegd tot het verlenen van de vrijstellingen als bedoeld in de artikelen 2, vierde en vijfde lid, van verordening (EU) nr. 181/2011.   
-3.  Onze Minister is tot 1 maart 2018 bevoegd tot het verlenen van de vrijstellingen als bedoeld in artikel 16, tweede lid, van verordening (EU) nr. 181/2011.   
+3.  Onze Minister is tot 1 maart 2018 bevoegd tot het verlenen van de vrijstellingen als bedoeld in artikel 16, tweede lid, van verordening (EU) nr. 181/2011.  
 
 ### §  2  
 
@@ -1315,91 +1315,91 @@ Bij ministeriële regeling kan worden bepaald dat artikel 53, tweede lid, buiten
 ### Artikel  111  
 
 1.  Een jaar na inwerkingtreding van artikel 127 vervallen de overeenkomsten ter uitvoering van de artikelen 12 en 17 van de Wet personenvervoer, zoals die artikelen luidden voor de inwerkingtreding van artikel 127, die bestaan tussen een overheid die op grond van de Wet personenvervoer bevoegd was tot het vaststellen van dienstregelingen en een vervoerder.   
-2.  De overheid, bedoeld in het eerste lid, kan de overeenkomst op een eerder tijdstip beëindigen ten behoeve van het verlenen van een concessie aan de vervoerder, bedoeld in het eerste lid, dan wel een andere vervoerder.   
+2.  De overheid, bedoeld in het eerste lid, kan de overeenkomst op een eerder tijdstip beëindigen ten behoeve van het verlenen van een concessie aan de vervoerder, bedoeld in het eerste lid, dan wel een andere vervoerder.  
 
 ### Artikel  113  
 
-Een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van artikel 127 is verleend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van artikel 127, geldt, onverminderd mogelijke wijziging, schorsing, intrekking of het van rechtswege vervallen, met ingang van de datum van inwerkingtreding van artikel 127, als een vergunning verleend ingevolge artikel 4.  
+Een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van artikel 127 is verleend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van artikel 127, geldt, onverminderd mogelijke wijziging, schorsing, intrekking of het van rechtswege vervallen, met ingang van de datum van inwerkingtreding van artikel 127, als een vergunning verleend ingevolge artikel 4. 
 
 ### Artikel  115  
 
-Een aanvraag voor een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van artikel 127 is ingediend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van artikel 127, en waarop op de datum van de inwerkingtreding van artikel 127 nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag voor een vergunning voor het verrichten van taxivervoer ingevolge artikel 5.  
+Een aanvraag voor een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van artikel 127 is ingediend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van artikel 127, en waarop op de datum van de inwerkingtreding van artikel 127 nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag voor een vergunning voor het verrichten van taxivervoer ingevolge artikel 5. 
 
 ### Artikel  116  
 
 1.  Een ontheffing van de eis van vakbekwaamheid die voor 1 januari 1988 is verleend op grond van artikel 56a, eerste lid, van de Wet Autovervoer Personen, en die met ingang van die dag is aangemerkt als een ontheffing als bedoeld in artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van artikel 127 als een ontheffing als bedoeld in artikel 9, tweede lid.   
 2.  Degene die op grond van artikel 68 van de Wet Autovervoer Personen werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 56a, eerste lid, van die wet, en op grond van artikel 105 van de Wet personenvervoer werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 9, eerste lid, van die wet, voldoet aan de eis van vakbekwaamheid, bedoeld in artikel 9, eerste lid.   
-3.  Een ontheffing van de eis van vakbekwaamheid die is verleend op grond van artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van artikel 113 als een ontheffing als bedoeld in artikel 9, tweede lid.   
+3.  Een ontheffing van de eis van vakbekwaamheid die is verleend op grond van artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van artikel 113 als een ontheffing als bedoeld in artikel 9, tweede lid.  
 
 ### Artikel  118  
 
 1.  Een dienstregeling voor het lokaal of interlokaal openbaar vervoer zoals deze gold op de dag voor de inwerkingtreding van artikel 127, blijft geldig tot uiterlijk een jaar na die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van artikel 127 blijft van toepassing.   
 2.  Een dienstregeling waarvoor op grond van de Wet personenvervoer door de vervoerder een voorstel is ingediend, en waarop door het ingevolge die wet tot vaststellen bevoegde bestuursorgaan op de dag van inwerkingtreding van artikel 127 nog niet is beslist, wordt voor een tijdvak van ten hoogste zes maanden vastgesteld volgens het recht zoals dat gold voor die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van artikel 127 blijft van toepassing.   
-3.  Artikel 19 is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.   
+3.   Artikel 19 is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.   
 4.  De artikelen 30, derde lid, 46 en 78 zijn van overeenkomstige toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid. Artikel 19 is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.   
-5.  De artikelen 36 tot en met 40 zijn van overeenkomstige toepassing op het eindigen van het verrichten van openbaar vervoer op grond van een dienstregeling als bedoeld in het eerste of tweede lid, voor zover deze beëindiging wordt gevolgd door het ingaan van een concessie, verleend aan een andere vervoerder, voor het verrichten van een geheel of gedeeltelijk dezelfde voorziening van openbaar vervoer als dat werd verricht op grond van die dienstregeling.   
+5.  De artikelen 36 tot en met 40 zijn van overeenkomstige toepassing op het eindigen van het verrichten van openbaar vervoer op grond van een dienstregeling als bedoeld in het eerste of tweede lid, voor zover deze beëindiging wordt gevolgd door het ingaan van een concessie, verleend aan een andere vervoerder, voor het verrichten van een geheel of gedeeltelijk dezelfde voorziening van openbaar vervoer als dat werd verricht op grond van die dienstregeling.  
 
 ### Artikel  120  
 
 1.  Een besluit tot aanwijzing van een gemeente als bedoeld in artikel 39 van de Wet personenvervoer zoals dit luidde voor de inwerkingtreding van artikel 127 behoudt zijn geldigheid tot het moment waarop Onze Minister het besluit intrekt.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan de bevoegdheid tot intrekken van een besluit als bedoeld in het eerste lid.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan de bevoegdheid tot intrekken van een besluit als bedoeld in het eerste lid.  
 
 ### Artikel  121  
 
-1.  Indien een plusregio als bedoeld in artikel 20 wordt opgeheven, zijn de colleges van burgemeester en wethouders van de gemeenten die de plusregio vormden, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer ten behoeve van die gemeenten, voor zover zij daartoe door Onze Minister zijn aangewezen.   
+1.  Indien een plusregio als bedoeld in artikel 20 wordt opgeheven, zijn de colleges van burgemeester en wethouders van de gemeenten die de plusregio vormden, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer ten behoeve van die gemeenten, voor zover zij daartoe door Onze Minister zijn aangewezen.  
 2.  Een aanwijzing als bedoeld in het eerste lid wordt gedaan indien Onze Minister dit doelmatig acht.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan het eerste en tweede lid.   
-4.  Het eerste en tweede lid zijn niet van toepassing op de bevoegdheid tot het verlenen van concessies voor openbaar vervoer per trein.   
+4.  Het eerste en tweede lid zijn niet van toepassing op de bevoegdheid tot het verlenen van concessies voor openbaar vervoer per trein.  
 
 ### Artikel  121a  
 
-Artikel 51 is niet van toepassing op openbaar vervoer dat wordt verricht op grond van een concessie die is verleend na aanbesteding, indien de aanbesteding heeft plaatsgevonden voor de inwerkingtreding van artikel 51.  
+Artikel 51 is niet van toepassing op openbaar vervoer dat wordt verricht op grond van een concessie die is verleend na aanbesteding, indien de aanbesteding heeft plaatsgevonden voor de inwerkingtreding van artikel 51. 
 
 ### Artikel  122  
 
-Keuringsbewijzen, duplicaten van keuringsbewijzen en andere bewijzen die zijn afgegeven op basis van artikel 69 van de Wet personenvervoer zoals dit artikel luidde voor de inwerkingtreding van artikel 127 behouden hun geldigheid voor de duur van de termijn waarvoor zij zijn afgegeven.  
+Keuringsbewijzen, duplicaten van keuringsbewijzen en andere bewijzen die zijn afgegeven op basis van artikel 69 van de Wet personenvervoer zoals dit artikel luidde voor de inwerkingtreding van artikel 127 behouden hun geldigheid voor de duur van de termijn waarvoor zij zijn afgegeven. 
 
 ### Artikel  123  
 
 1.  Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat voor de dag van inwerkingtreding van artikel 127 is bekendgemaakt, blijft het recht zoals het gold voor die dag van toepassing.   
 2.  Ten aanzien van een bezwaar- of beroepschrift dat voor de dag van inwerkingtreding van artikel 127 is ingediend en voor zover daarop bij de inwerkingtreding van deze wet nog niet is beslist, blijft het recht zoals het gold voor die dag van toepassing.   
-3.  Ten aanzien van een bezwaar- of beroepschrift dat op of na de dag van inwerkingtreding van deze wet is ingediend en dat is gericht tegen een besluit waartegen voor die dag eveneens bezwaar is gemaakt of beroep is ingesteld, blijft het recht zoals het gold voor de dag van inwerkingtreding van artikel 127 van toepassing.   
+3.  Ten aanzien van een bezwaar- of beroepschrift dat op of na de dag van inwerkingtreding van deze wet is ingediend en dat is gericht tegen een besluit waartegen voor die dag eveneens bezwaar is gemaakt of beroep is ingesteld, blijft het recht zoals het gold voor de dag van inwerkingtreding van artikel 127 van toepassing.  
 
 ### Artikel  124  
 
-In afwijking van artikel 123 wordt een bezwaar- of beroepschrift, gericht tegen een besluit omtrent het verrichten van taxivervoer, dat op of na 1 januari 2000 op grond van de Wet personenvervoer is ingediend en voor zover daarop bij de inwerkingtreding van artikel 127 nog niet is beslist, afgehandeld volgens deze wet.  
+In afwijking van artikel 123 wordt een bezwaar- of beroepschrift, gericht tegen een besluit omtrent het verrichten van taxivervoer, dat op of na 1 januari 2000 op grond van de Wet personenvervoer is ingediend en voor zover daarop bij de inwerkingtreding van artikel 127 nog niet is beslist, afgehandeld volgens deze wet. 
 
 ### Artikel  124a  
 
 In de artikelen 124b tot en met 124e wordt verstaan onder: 
 
-*een gemeentelijk vervoerbedrijf:* een vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat artikel luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md).    
+*een gemeentelijk vervoerbedrijf:* een vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat artikel luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md).   
 
 ### Artikel  124ab  
 
-Een ontheffing die voor de datum van inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) is verleend, op grond van artikel 24, tweede lid, of artikel 61, tweede lid, zoals die artikelen luidden voor de inwerkingtreding van genoemde wet, blijft van kracht voor de duur waarvoor deze ontheffing is verleend, onverminderd mogelijke wijziging, intrekking of het van rechtswege vervallen.  
+Een ontheffing die voor de datum van inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) is verleend, op grond van artikel 24, tweede lid, of artikel 61, tweede lid, zoals die artikelen luidden voor de inwerkingtreding van genoemde wet, blijft van kracht voor de duur waarvoor deze ontheffing is verleend, onverminderd mogelijke wijziging, intrekking of het van rechtswege vervallen. 
 
 ### Artikel  124b  
 
-Een concessie die voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) aan een gemeentelijk vervoerbedrijf is verleend, blijft na de inwerkingtreding van die wet van kracht tot uiterlijk 31 december 2019, tenzij er reeds sprake is van een vervoerder aan wie op grond van artikel 63a een concessie is verleend.  
+Een concessie die voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) aan een gemeentelijk vervoerbedrijf is verleend, blijft na de inwerkingtreding van die wet van kracht tot uiterlijk 31 december 2019, tenzij er reeds sprake is van een vervoerder aan wie op grond van artikel 63a een concessie is verleend. 
 
 ### Artikel  124c  
 
-Nadat een concessieverlener als bedoeld in artikel 63a besluit dat een aan het desbetreffende gemeentelijk vervoerbedrijf verleende concessie voor het openbaar vervoer per bus wordt verleend nadat daarvoor een aanbesteding is gehouden, mag dat vervoerbedrijf meedingen naar een concessie voor openbaar vervoer die wordt verleend door middel van een aanbesteding en wordt dat vervoerbedrijf om reden van dat besluit niet uitgesloten van deelname aan aanbestedingen.  
+Nadat een concessieverlener als bedoeld in artikel 63a besluit dat een aan het desbetreffende gemeentelijk vervoerbedrijf verleende concessie voor het openbaar vervoer per bus wordt verleend nadat daarvoor een aanbesteding is gehouden, mag dat vervoerbedrijf meedingen naar een concessie voor openbaar vervoer die wordt verleend door middel van een aanbesteding en wordt dat vervoerbedrijf om reden van dat besluit niet uitgesloten van deelname aan aanbestedingen. 
 
 ### Artikel  124d  
 
 1.  Op een gemeentelijk vervoerbedrijf is artikel 69, eerste, tweede, derde, en vijfde lid, zoals dat luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) van toepassing.   
 2.  Met het toezicht op de naleving van het eerste lid, zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren van de Autoriteit Consument en Markt.   
-3.  De artikelen 94 tot en met 96a zijn van overeenkomstige toepassing in geval van niet naleving van de in het eerste lid bedoelde eisen.   
+3.  De artikelen 94 tot en met 96a zijn van overeenkomstige toepassing in geval van niet naleving van de in het eerste lid bedoelde eisen.  
 
 ### Artikel  124e  
 
-Artikel 38, tweede en derde lid, is van overeenkomstige toepassing indien een concessie is verleend aan een gemeentelijk vervoerbedrijf en deze concessie geheel of gedeeltelijk eindigt als gevolg van verlening van die concessie aan een andere vervoerder.  
+Artikel 38, tweede en derde lid, is van overeenkomstige toepassing indien een concessie is verleend aan een gemeentelijk vervoerbedrijf en deze concessie geheel of gedeeltelijk eindigt als gevolg van verlening van die concessie aan een andere vervoerder. 
 
 ### Artikel  124f  
 
-De artikelen 124a tot en met 124f vervallen met ingang van 31 december 2019.  
+De artikelen 124a tot en met 124f vervallen met ingang van 31 december 2019.
 
 ### §  3  
 
@@ -1407,67 +1407,67 @@ De artikelen 124a tot en met 124f vervallen met ingang van 31 december 2019.
 
 ### Artikel  126  
 
-Wijzigt de Wegenverkeerswet 1994.   
+Wijzigt de Wegenverkeerswet 1994.  
 
 ### Artikel  127  
 
-De Wet personenvervoer wordt ingetrokken.  
+De Wet personenvervoer wordt ingetrokken. 
 
 ### Artikel  128  
 
-Wijzigt de wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer) (Stb. 535).   
+Wijzigt de wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer) (Stb. 535).  
 
 ### Artikel  129  
 
-De wet van 13 november 1997 tot wijziging van de Wet personenvervoer (Stb. 1997, 559) wordt ingetrokken.  
+De wet van 13 november 1997 tot wijziging van de Wet personenvervoer (Stb. 1997, 559) wordt ingetrokken. 
 
 ### Artikel  130  
 
-Wijzigt de Kaderwet bestuur in verandering.   
+Wijzigt de Kaderwet bestuur in verandering.  
 
 ### Artikel  131  
 
-Wijzigt de Vervoersnoodwet.   
+Wijzigt de Vervoersnoodwet.  
 
 ### Artikel  132  
 
-Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.   
+Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.  
 
 ### Artikel  133  
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.  
 
 ### Artikel  134  
 
-Wijzigt de Mededingingswet.   
+Wijzigt de Mededingingswet.  
 
 ### Artikel  135  
 
-Wijzigt de Vestigingswet bedrijven 1954.   
+Wijzigt de Vestigingswet bedrijven 1954.  
 
 ### Artikel  136  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  137  
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.  
 
 ### Artikel  138  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns.  
 
 ### Artikel  139  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.:  
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.: 
 
 ### Artikel  140  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968.  
 
 ### Artikel  141  
 
-[Artikel 16, tweede lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) vindt geen toepassing met betrekking tot het na de totstandkoming van deze wet krachtens het eerste lid van dat artikel te nemen koninklijk besluit, dat ertoe strekt de in [artikel 1, derde lid, onderdeel b, van het Besluit uitsluiting aftrek omzetbelasting 1968](../../../../../KB/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0002636/README.md) vermelde verwijzing inzake besloten busvervoer naar de Wet personenvervoer, aan te passen in verband met de wijzigingen in deze wet.  
+[Artikel 16, tweede lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) vindt geen toepassing met betrekking tot het na de totstandkoming van deze wet krachtens het eerste lid van dat artikel te nemen koninklijk besluit, dat ertoe strekt de in [artikel 1, derde lid, onderdeel b, van het Besluit uitsluiting aftrek omzetbelasting 1968](../../../../../KB/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0002636/README.md) vermelde verwijzing inzake besloten busvervoer naar de Wet personenvervoer, aan te passen in verband met de wijzigingen in deze wet. 
 
 ### §  4  
 
@@ -1475,7 +1475,7 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ### Artikel  142  
 
-1.  Na de inwerkingtreding van artikel 127 berust de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](../../../../../ministeriele-regeling/regeling/maximumtarief/en/bekendmaking/tarieven/taxivervoer/BWBR0010998/README.md), op artikel 84 van deze wet.   
+1. Na de inwerkingtreding van artikel 127 berust de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](../../../../../ministeriele-regeling/regeling/maximumtarief/en/bekendmaking/tarieven/taxivervoer/BWBR0010998/README.md), op artikel 84 van deze wet. 
 2.  Indien Artikel I, onderdeel E, van het bij koninklijke boodschap van 21 juni 2010 ingediende voorstel van wet, inhoudende regels ter bevordering van de kwaliteit in het taxivervoer (32 424) in werking treedt, berust het [Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) mede op de artikelen 76, zesde lid, 77, derde lid, 78, tweede lid, en 79, en berust de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](../../../../../ministeriele-regeling/regeling/maximumtarief/en/bekendmaking/tarieven/taxivervoer/BWBR0010998/README.md) mede op artikel 81.   
 3.  Indien Artikel I, onderdeel E, van het bij koninklijke boodschap van 21 juni 2010 ingediende voorstel van wet, inhoudende regels ter bevordering van de kwaliteit in het taxivervoer (32 424) in werking treedt: 
 
@@ -1483,15 +1483,15 @@ a. worden in [artikel 6, eerste lid, van het Besluit personenvervoer 2000](../..
 
 b. wordt in [artikel 72a van het in onderdeel a bedoelde besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzing naar artikel 13, eerste lid, gelezen als een verwijzing naar artikel 78, eerste lid, van deze wet;  
 
-c. wordt in [artikel 115 van het in onderdeel a bedoelde besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzing naar artikel 4 gelezen als een verwijzing naar artikel 76 van deze wet.     
+c. wordt in [artikel 115 van het in onderdeel a bedoelde besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) de verwijzing naar artikel 4 gelezen als een verwijzing naar artikel 76 van deze wet.    
 
 ### Artikel  143  
 
-Indien naar het oordeel van Onze Minister redenen aanwezig zijn voor de inwerkingtreding van de artikelen 15 tot en met 18 en 51 tot en met 60, mede gelet op de naar zijn oordeel uit het in artikel 108, vierde lid, bedoelde onderzoek gebleken ontwikkelingen ter zake van de concurrentieverhoudingen op de Nederlandse markt voor openbaar vervoer en het met een of beide kamers der Staten-Generaal ter zake gevoerd overleg, wordt een ontwerp van een koninklijk besluit tot inwerkingtreding van die artikelen zo spoedig mogelijk aan beide kamers der Staten-Generaal overgelegd.  
+Indien naar het oordeel van Onze Minister redenen aanwezig zijn voor de inwerkingtreding van de artikelen 15 tot en met 18 en 51 tot en met 60, mede gelet op de naar zijn oordeel uit het in artikel 108, vierde lid, bedoelde onderzoek gebleken ontwikkelingen ter zake van de concurrentieverhoudingen op de Nederlandse markt voor openbaar vervoer en het met een of beide kamers der Staten-Generaal ter zake gevoerd overleg, wordt een ontwerp van een koninklijk besluit tot inwerkingtreding van die artikelen zo spoedig mogelijk aan beide kamers der Staten-Generaal overgelegd. 
 
 ### Artikel  144  
 
-Deze wet wordt aangehaald als: Wet personenvervoer 2000.  
+Deze wet wordt aangehaald als: Wet personenvervoer 2000. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -1505,4 +1505,4 @@ T. Netelenbos
 de *eerste* augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

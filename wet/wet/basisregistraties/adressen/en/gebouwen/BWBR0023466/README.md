@@ -28,7 +28,7 @@ e. basisregistratie: verzameling gegevens waarvan bij wet is bepaald dat deze ee
 
 f. brondocument: document waarin rechtsfeiten en andere voor de registraties relevante feiten zijn neergelegd;  
 
-g. Dienst: Dienst voor het kadaster en de openbare registers, genoemd in artikel 2 van de Organisatiewet Kadaster;  
+g. Dienst: Dienst voor het kadaster en de openbare registers, genoemd in [artikel 2 van de Organisatiewet Kadaster](../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);  
 
 h. gebouwenregister: gemeentelijk register dat brondocumenten met betrekking tot panden, verblijfsobjecten, standplaatsen, ligplaatsen en feitelijk gebruik van een terrein of plaats in het water als bedoeld in artikel 10, eerste lid, onderdeel b, onder 2° respectievelijk 3°, bevat;  
 
@@ -50,7 +50,7 @@ p. standplaats: door het bevoegde gemeentelijke orgaan als zodanig aangewezen te
 
 q. verblijfsobject: kleinste binnen één of meer panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is;  
 
-r. woonplaats: door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorzien gedeelte van het grondgebied van de gemeente.    
+r. woonplaats: door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorzien gedeelte van het grondgebied van de gemeente.   
 
 ### Artikel  2  
 
@@ -58,43 +58,43 @@ Burgemeester en wethouders houden:
 
 a. een basisregistratie adressen, bestaande uit een adressenregister en een geautomatiseerde adressenregistratie, en  
 
-b. een basisregistratie gebouwen, bestaande uit een gebouwenregister en een geautomatiseerde gebouwenregistratie.    
+b. een basisregistratie gebouwen, bestaande uit een gebouwenregister en een geautomatiseerde gebouwenregistratie.   
 
 ### Artikel  3  
 
-De basisregistraties, bedoeld in artikel 2, worden gehouden met als doel het aan eenieder beschikbaar stellen van de bij of krachtens deze wet in die basisregistraties opgenomen gegevens over adressen en gebouwen.  
+De basisregistraties, bedoeld in artikel 2, worden gehouden met als doel het aan eenieder beschikbaar stellen van de bij of krachtens deze wet in die basisregistraties opgenomen gegevens over adressen en gebouwen. 
 
 ### Artikel  4  
 
-1.  Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet zijn burgemeester en wethouders respectievelijk is het bestuur van de Dienst, ieder voor zover die verwerking onder hun respectievelijk zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.   
-2.  Artikel 35 van de Wet bescherming persoonsgegevens is niet van toepassing.   
-3.  Gegevens uit de basisregistraties, bedoeld in artikel 2, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt indien dit voortvloeit uit het doel, genoemd in artikel 3, en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens.   
+1.  Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet zijn burgemeester en wethouders respectievelijk is het bestuur van de Dienst, ieder voor zover die verwerking onder hun respectievelijk zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  [Artikel 35 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing.   
+3.  Gegevens uit de basisregistraties, bedoeld in artikel 2, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt indien dit voortvloeit uit het doel, genoemd in artikel 3, en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in [artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
 
 ### Artikel  5  
 
-In de basisregistratie gebouwen worden geen gegevens opgenomen met betrekking tot panden, verblijfsobjecten, standplaatsen of ligplaatsen die in gebruik zijn bij de krijgsmacht of bij een krijgsmacht van een bondgenootschappelijke mogendheid, voor zover tegen het opnemen van die gegevens naar het oordeel van Onze Minister van Defensie bezwaar bestaat.  
+In de basisregistratie gebouwen worden geen gegevens opgenomen met betrekking tot panden, verblijfsobjecten, standplaatsen of ligplaatsen die in gebruik zijn bij de krijgsmacht of bij een krijgsmacht van een bondgenootschappelijke mogendheid, voor zover tegen het opnemen van die gegevens naar het oordeel van Onze Minister van Defensie bezwaar bestaat. 
 
 ### Artikel  6  
 
 1.  De gemeenteraad deelt het grondgebied van de gemeente in een of meer woonplaatsen in, stelt de openbare ruimten vast en kent nummeraanduidingen toe aan de op het grondgebied van de gemeente gelegen verblijfsobjecten, standplaatsen en ligplaatsen.   
 2.  De gemeenteraad stelt de standplaatsen en de ligplaatsen vast.   
 3.  De gemeenteraad stelt de afbakening van panden, verblijfsobjecten, standplaatsen en ligplaatsen vast.   
-4.  Bij algemene maatregel van bestuur worden regels gegeven ten aanzien van de indeling, de vaststelling en de toekenning, bedoeld in het eerste en tweede lid, en kunnen regels worden gegeven ten aanzien van de afbakening, bedoeld in het derde lid.   
+4.  Bij algemene maatregel van bestuur worden regels gegeven ten aanzien van de indeling, de vaststelling en de toekenning, bedoeld in het eerste en tweede lid, en kunnen regels worden gegeven ten aanzien van de afbakening, bedoeld in het derde lid.  
 
 ### Artikel  6a  
 
-Burgemeester en wethouders dragen er in het belang van een goede registratie zorg voor dat van elke feitelijke situatie waarvan een krachtens artikel 10 aangewezen brondocument kan worden opgemaakt dat een constatering of verklaring van een daartoe aangewezen ambtenaar behelst, een zodanig brondocument wordt opgemaakt.  
+Burgemeester en wethouders dragen er in het belang van een goede registratie zorg voor dat van elke feitelijke situatie waarvan een krachtens artikel 10 aangewezen brondocument kan worden opgemaakt dat een constatering of verklaring van een daartoe aangewezen ambtenaar behelst, een zodanig brondocument wordt opgemaakt. 
 
 ### Artikel  7  
 
-Burgemeester en wethouders dragen er zorg voor dat de definitieve geometrie van panden en verblijfsobjecten binnen zes maanden nadat het pand respectievelijk het verblijfsobject gereed is gekomen dan wel een wijziging daarvan is gerealiseerd beschikbaar is en in de gebouwenregistratie is opgenomen.  
+Burgemeester en wethouders dragen er zorg voor dat de definitieve geometrie van panden en verblijfsobjecten binnen zes maanden nadat het pand respectievelijk het verblijfsobject gereed is gekomen dan wel een wijziging daarvan is gerealiseerd beschikbaar is en in de gebouwenregistratie is opgenomen. 
 
 ### Artikel  8  
 
-1.  De door burgemeester en wethouders aangewezen ambtenaren die zijn belast met de vaststelling van de geometrie, bedoeld in artikel 7, zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd artikel 2 van de Algemene wet op het binnentreden, en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.   
+1.  De door burgemeester en wethouders aangewezen ambtenaren die zijn belast met de vaststelling van de geometrie, bedoeld in artikel 7, zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.   
 2.  De eigenaar, de beperkt gerechtigde en de gebruiker van een pand of een verblijfsobject zijn verplicht aan de ambtenaren, bedoeld in het eerste lid, binnen de door dezen gestelde redelijke termijn alle medewerking te verlenen die dezen redelijkerwijs kunnen vorderen bij de uitoefening van de bevoegdheden, genoemd in het eerste lid, met dien verstande dat toegang slechts wordt verleend tussen acht uur ’s morgens en zes uur ’s avonds en dat die niet behoeft te worden verleend op zaterdagen, zondagen en algemeen erkende feestdagen.   
 3.  Indien de toegang wordt geweigerd, verschaffen de ambtenaren, bedoeld in het eerste lid, zich zo nodig toegang met behulp van de sterke arm. Indien het verrichten van de handelingen, bedoeld in het eerste lid, niet wordt toegestaan zijn de ambtenaren, bedoeld in het eerste lid, bevoegd het verrichten van die handelingen zo nodig met behulp van de sterke arm mogelijk te maken.   
-4.  De schade die uit de toepassing van het eerste lid voortvloeit, wordt door burgemeester en wethouders op verzoek vergoed. De vordering tot schadevergoeding staat ter kennisneming van de kantonrechter bij de rechtbank van het arrondissement waarin de gemeente is gelegen. Tegen de uitspraak staat geen rechtsmiddel open.   
+4.  De schade die uit de toepassing van het eerste lid voortvloeit, wordt door burgemeester en wethouders op verzoek vergoed. De vordering tot schadevergoeding staat ter kennisneming van de kantonrechter bij de rechtbank van het arrondissement waarin de gemeente is gelegen. Tegen de uitspraak staat geen rechtsmiddel open.  
 
 ### Hoofdstuk  2  
 
@@ -102,8 +102,8 @@ Burgemeester en wethouders dragen er zorg voor dat de definitieve geometrie van 
 
 ### Artikel  9  
 
-1.  Burgemeester en wethouders dragen er zorg voor dat het adressenregister en het gebouwenregister zodanig worden opgezet dat de inhoud daarvan duurzaam kan worden bewaard en te allen tijde binnen een redelijke termijn raadpleegbaar en beschikbaar is.   
-2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de administratieve inrichting van het adressenregister en het gebouwenregister.   
+1. Burgemeester en wethouders dragen er zorg voor dat het adressenregister en het gebouwenregister zodanig worden opgezet dat de inhoud daarvan duurzaam kan worden bewaard en te allen tijde binnen een redelijke termijn raadpleegbaar en beschikbaar is.  
+2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de administratieve inrichting van het adressenregister en het gebouwenregister. 
 
 ### Artikel  10  
 
@@ -122,7 +122,7 @@ b. een door een daartoe aangewezen ambtenaar opgemaakt proces-verbaal van consta
 4°. een pand, ten aanzien waarvan een krachtens onderdeel a aangewezen brondocument ontbreekt;  
 
 5°. een verblijfsobject, of zodanig gebruik van een ruimte dat deze feitelijk met een verblijfsobject kan worden gelijkgesteld, ten aanzien waarvan een krachtens onderdeel a aangewezen brondocument ontbreekt.       
-2.  Burgemeester en wethouders dragen zorg voor de inschrijving in het adressenregister respectievelijk het gebouwenregister van de in het eerste lid genoemde brondocumenten.   
+2.  Burgemeester en wethouders dragen zorg voor de inschrijving in het adressenregister respectievelijk het gebouwenregister van de in het eerste lid genoemde brondocumenten.  
 
 ### Artikel  11  
 
@@ -131,7 +131,7 @@ b. een door een daartoe aangewezen ambtenaar opgemaakt proces-verbaal van consta
 a. een aanduiding van de rechtsgrond waarop het is gebaseerd, en  
 
 b. de data, bedoeld in artikel 12, onderdeel a of c.     
-2.  Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de adressenregistratie respectievelijk de gebouwenregistratie nadere regels worden gegeven ten aanzien van krachtens artikel 10 aangewezen brondocumenten.   
+2.  Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de adressenregistratie respectievelijk de gebouwenregistratie nadere regels worden gegeven ten aanzien van krachtens artikel 10 aangewezen brondocumenten.  
 
 ### Artikel  12  
 
@@ -141,11 +141,11 @@ a. de dagtekening van het in dat brondocument opgenomen besluit,
 
 b. de dag waarop de in dat brondocument opgenomen uitspraak onherroepelijk is geworden, of  
 
-c. de dagtekening van het brondocument indien dat brondocument geen besluit of uitspraak bevat.    
+c. de dagtekening van het brondocument indien dat brondocument geen besluit of uitspraak bevat.   
 
 ### Artikel  13  
 
-Een krachtens artikel 10 aangewezen brondocument dat is ingeschreven, wordt niet uit het adressenregister respectievelijk het gebouwenregister verwijderd.  
+Een krachtens artikel 10 aangewezen brondocument dat is ingeschreven, wordt niet uit het adressenregister respectievelijk het gebouwenregister verwijderd. 
 
 ### Hoofdstuk  3  
 
@@ -158,15 +158,15 @@ Een krachtens artikel 10 aangewezen brondocument dat is ingeschreven, wordt niet
 ### Artikel  14  
 
 1.  Burgemeester en wethouders dragen zorg voor een goede beschikbaarheid, werking en beveiliging van de adressenregistratie respectievelijk de gebouwenregistratie.   
-2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de technische en administratieve inrichting van de adressenregistratie en de gebouwenregistratie.   
+2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de technische en administratieve inrichting van de adressenregistratie en de gebouwenregistratie.  
 
 ### Artikel  14a  
 
-Burgemeester en wethouders dragen zorg voor de verwerking van de gegevens opgenomen in een in het adressenregister of het gebouwenregister ingeschreven brondocument in de adressenregistratie respectievelijk de gebouwenregistratie.  
+Burgemeester en wethouders dragen zorg voor de verwerking van de gegevens opgenomen in een in het adressenregister of het gebouwenregister ingeschreven brondocument in de adressenregistratie respectievelijk de gebouwenregistratie. 
 
 ### Artikel  15  
 
-Burgemeester en wethouders dragen er zorg voor dat de weergave van een krachtens deze wet in de adressenregistratie respectievelijk de gebouwenregistratie opgenomen authentiek gegeven overeenstemt met dat gegeven als opgenomen in het desbetreffende in het adressenregister respectievelijk het gebouwenregister ingeschreven brondocument.  
+Burgemeester en wethouders dragen er zorg voor dat de weergave van een krachtens deze wet in de adressenregistratie respectievelijk de gebouwenregistratie opgenomen authentiek gegeven overeenstemt met dat gegeven als opgenomen in het desbetreffende in het adressenregister respectievelijk het gebouwenregister ingeschreven brondocument. 
 
 ### Artikel  16  
 
@@ -176,7 +176,7 @@ a. de dagtekening van het in dat brondocument opgenomen besluit,
 
 b. de dag waarop de in dat brondocument opgenomen uitspraak onherroepelijk is geworden, of  
 
-c. de dagtekening van het brondocument indien dat brondocument geen besluit of uitspraak bevat.    
+c. de dagtekening van het brondocument indien dat brondocument geen besluit of uitspraak bevat.   
 
 ### Artikel  17  
 
@@ -189,7 +189,7 @@ b. regels worden gegeven met betrekking tot de bijhouding van de adressenregistr
 
 a. de gegevensdefinities van de in paragraaf 2 en 3 van dit hoofdstuk genoemde gegevens, en  
 
-b. de beschrijving van het koppelvlak met de landelijke voorziening ten behoeve van het elektronisch berichtenverkeer met die voorziening.     
+b. de beschrijving van het koppelvlak met de landelijke voorziening ten behoeve van het elektronisch berichtenverkeer met die voorziening.    
 
 ### §  2  
 
@@ -210,12 +210,12 @@ d. een aanduiding waaruit de actuele dan wel de historische status van de woonpl
 
 a. de aanduiding dat de opneming in de adressenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over de woonplaats, en  
 
 d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de woonplaats.     
-3.  Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot de landelijke woonplaatsentabel, bedoeld in het eerste lid, onderdeel a.   
+3.  Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot de landelijke woonplaatsentabel, bedoeld in het eerste lid, onderdeel a.  
 
 ### Artikel  20  
 
@@ -234,11 +234,11 @@ e. een aanduiding waaruit de actuele dan wel de historische status van de openba
 
 a. de aanduiding dat de opneming in de adressenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over de openbare ruimte, en  
 
-d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de openbare ruimte.     
+d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de openbare ruimte.    
 
 ### Artikel  21  
 
@@ -265,11 +265,11 @@ a. de postcode;
 
 b. de aanduiding dat de opneming in de adressenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-c. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+c. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 d. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over de nummeraanduiding, en  
 
-e. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de nummeraanduiding.     
+e. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de nummeraanduiding.    
 
 ### §  3  
 
@@ -290,11 +290,11 @@ d. de status van het pand.
 
 a. de aanduiding dat de opneming in de gebouwenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over het pand, en  
 
-d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van het pand.     
+d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van het pand.    
 
 ### Artikel  23  
 
@@ -317,11 +317,11 @@ g. de status van het verblijfsobject.
 
 a. de aanduiding dat de opneming in de gebouwenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over het verblijfsobject, en  
 
-d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van het verblijfsobject.     
+d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van het verblijfsobject.    
 
 ### Artikel  24  
 
@@ -338,11 +338,11 @@ d. een aanduiding waaruit de actuele dan wel de historische status van de standp
 
 a. de aanduiding dat de opneming in de gebouwenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over de standplaats, en  
 
-d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de standplaats.     
+d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de standplaats.    
 
 ### Artikel  25  
 
@@ -359,11 +359,11 @@ d. een aanduiding waaruit de actuele dan wel de historische status van de ligpla
 
 a. de aanduiding dat de opneming in de gebouwenregistratie is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b, indien dit het geval is;  
 
-b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of  41, tweede lid;  
+b. de aantekening «in onderzoek», indien toepassing is gegeven aan artikel 39, tweede lid, of 41, tweede lid; 
 
 c. de ingangsdatum en in voorkomende gevallen de einddatum van de geldigheid van een bepaalde combinatie van gegevens over de ligplaats, en  
 
-d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de ligplaats.     
+d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag ligt aan de opneming, een wijziging of het niet langer geldig zijn van gegevens ten aanzien van de ligplaats.    
 
 ### Hoofdstuk  4  
 
@@ -375,15 +375,15 @@ d. de dagtekening en het inschrijfnummer van het brondocument dat ten grondslag 
 
 ### Artikel  26  
 
-De Dienst houdt een geautomatiseerde landelijke voorziening waarin de gegevens uit de in de gemeenten gehouden adressenregistraties en de gebouwenregistraties zijn opgenomen.  
+De Dienst houdt een geautomatiseerde landelijke voorziening waarin de gegevens uit de in de gemeenten gehouden adressenregistraties en de gebouwenregistraties zijn opgenomen. 
 
 ### Artikel  27  
 
-Het bestuur van de Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening opgenomen gegeven overeenstemt met het overeenkomstig artikel 31 door burgemeester en wethouders verstrekte gegeven.  
+Het bestuur van de Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening opgenomen gegeven overeenstemt met het overeenkomstig artikel 31 door burgemeester en wethouders verstrekte gegeven. 
 
 ### Artikel  28  
 
-Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het beheer, de vorm en de inrichting van de landelijke voorziening.  
+Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het beheer, de vorm en de inrichting van de landelijke voorziening. 
 
 ### §  2  
 
@@ -393,12 +393,12 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 1.  De Dienst beheert de landelijke voorziening in overleg met een representatieve vertegenwoordiging van burgemeester en wethouders van de gemeenten.   
 2.  Omtrent alle aangelegenheden betreffende het beheer van de basisregistraties adressen en gebouwen voert een representatieve vertegenwoordiging van burgemeester en wethouders van de gemeenten overleg met de Dienst.   
-3.  De uitkomsten van het overleg, bedoeld in het eerste en tweede lid, worden medegedeeld aan Onze Minister.   
+3.  De uitkomsten van het overleg, bedoeld in het eerste en tweede lid, worden medegedeeld aan Onze Minister.  
 
 ### Artikel  30  
 
 1.  Omtrent de werking van de landelijke voorziening en andere aangelegenheden betreffende het gebruik van de adressenregistratie en de gebouwenregistratie, voeren de Dienst en een representatieve vertegenwoordiging van burgemeester en wethouders van de gemeenten overleg met een representatieve vertegenwoordiging van de afnemers.   
-2.  De uitkomsten van het overleg, bedoeld in het eerste lid, worden medegedeeld aan Onze Minister.   
+2.  De uitkomsten van het overleg, bedoeld in het eerste lid, worden medegedeeld aan Onze Minister.  
 
 ### §  3  
 
@@ -407,7 +407,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 ### Artikel  31  
 
 1.  Burgemeester en wethouders verstrekken in de door hen gehouden adressenregistratie en gebouwenregistratie opgenomen gegevens dan wel een wijziging van die gegevens binnen een werkdag na de verwerking van die gegevens respectievelijk de wijziging van die gegevens langs elektronische weg aan de Dienst ten behoeve van opneming van die gegevens in de landelijke voorziening.   
-2.  Bij het verstrekken van de gegevens, bedoeld in het eerste lid, nemen burgemeester en wethouders in acht de beschrijving van het koppelvlak met de landelijke voorziening, bedoeld in artikel 17, tweede lid, onderdeel b.   
+2.  Bij het verstrekken van de gegevens, bedoeld in het eerste lid, nemen burgemeester en wethouders in acht de beschrijving van het koppelvlak met de landelijke voorziening, bedoeld in artikel 17, tweede lid, onderdeel b.  
 
 ### Hoofdstuk  5  
 
@@ -424,13 +424,13 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 a. verlenen burgemeester en wethouders eenieder inzage in het adressenregister, het gebouwenregister, de adressenregistratie en de gebouwenregistratie, alsmede verstrekken zij aan eenieder de in de adressenregistratie respectievelijk de gebouwenregistratie opgenomen gegevens;  
 
 b. verleent de Dienst eenieder inzage in de landelijke voorziening en verstrekt de Dienst aan eenieder de daarin opgenomen gegevens.     
-2.  Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, met dien verstande dat: 
+2.  [Artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, met dien verstande dat: 
 
-a. voor zover aan een bestuursorgaan of andere afnemer inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in artikel 10, eerste lid, onderdeel b, tweede lid, onderdeel a, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur van overeenkomstige toepassing zijn;  
+a. voor zover aan een bestuursorgaan of andere afnemer inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in [artikel 10, eerste lid, onderdeel b, tweede lid, onderdeel a, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van overeenkomstige toepassing zijn;  
 
-b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak uit de adressenregistratie of de gebouwenregistratie dan wel uit de landelijke voorziening gegevens worden verstrekt, uitsluitend de gronden, bedoeld in artikel 10, eerste lid, onderdeel b, tweede lid, onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur van overeenkomstige toepassing zijn.     
+b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak uit de adressenregistratie of de gebouwenregistratie dan wel uit de landelijke voorziening gegevens worden verstrekt, uitsluitend de gronden, bedoeld in [artikel 10, eerste lid, onderdeel b, tweede lid, onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van overeenkomstige toepassing zijn.    
 3.  Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van personen tot wie de gegevens die zijn opgenomen in de basisregistraties, bedoeld in artikel 2, herleidbaar zijn voor daarbij aangewezen gegevens of categorieën van gegevens beperkingen worden vastgesteld ten aanzien van het bepaalde in het eerste lid.   
-4.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de inzage in en het verstrekken van gegevens als bedoeld in het eerste lid.   
+4.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de inzage in en het verstrekken van gegevens als bedoeld in het eerste lid. 
 
 ### Artikel  33  
 
@@ -438,7 +438,7 @@ Bij verstrekking van gegevens als bedoeld in artikel 32, eerste lid:
 
 a. is het auteursrecht voorbehouden, en  
 
-b. zijn de rechten, bedoeld in artikel 2 van de Databankenwet, voorbehouden aan burgemeester en wethouders onderscheidenlijk de Dienst.    
+b. zijn de rechten, bedoeld in artikel 2 van de Databankenwet, voorbehouden aan burgemeester en wethouders onderscheidenlijk de Dienst.   
 
 ### Artikel  34  
 
@@ -447,7 +447,7 @@ b. zijn de rechten, bedoeld in artikel 2 van de Databankenwet, voorbehouden aan 
 
 a. verschillende gegevens, en  
 
-b. niet-commercieel en commercieel gebruik van die gegevens.     
+b. niet-commercieel en commercieel gebruik van die gegevens.    
 
 ### §  2  
 
@@ -458,7 +458,7 @@ b. niet-commercieel en commercieel gebruik van die gegevens.
 1.  Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de adressenregistratie respectievelijk de gebouwenregistratie beschikbaar is, gebruikt het dat authentieke gegeven.   
 2.  Een bestuursorgaan kan een ander gegeven gebruiken dan een krachtens deze wet beschikbaar authentiek gegeven, ingeval: 
 
-a. bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b;  
+a. bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b; 
 
 b. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
 
@@ -466,13 +466,13 @@ c. het met betrekking tot het desbetreffende authentieke gegeven een melding hee
 
 d. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of  
 
-e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.     
+e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.    
 
 ### Artikel  36  
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de adressenregistratie respectievelijk de gebouwenregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens: 
 
-a. ingeval bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b;  
+a. ingeval bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b; 
 
 b. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
 
@@ -482,7 +482,7 @@ d. in geval van dreiging van, of het zich voordoen van, een oproerige beweging, 
 
 e. ingeval bij wettelijk voorschrift anders is bepaald, of  
 
-f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.    
+f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.   
 
 ### Hoofdstuk  6  
 
@@ -496,28 +496,28 @@ f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identi
 
 a. de gevallen waarin een melding als bedoeld in het eerste of tweede lid niet hoeft te worden gedaan, en  
 
-b. een beperking van de kring van bestuursorganen die verplicht zijn toepassing te geven aan het eerste of tweede lid.     
+b. een beperking van de kring van bestuursorganen die verplicht zijn toepassing te geven aan het eerste of tweede lid.    
 
 ### Artikel  38  
 
-De belanghebbende die gerede twijfel heeft over de juistheid van een in een adressenregistratie respectievelijk een gebouwenregistratie opgenomen authentiek gegeven of het ontbreken van een authentiek gegeven in een adressenregistratie respectievelijk een gebouwenregistratie kan burgemeester en wethouders onder opgaaf van redenen verzoeken dat gegeven te wijzigen respectievelijk op te nemen in de adressenregistratie respectievelijk de gebouwenregistratie.  
+De belanghebbende die gerede twijfel heeft over de juistheid van een in een adressenregistratie respectievelijk een gebouwenregistratie opgenomen authentiek gegeven of het ontbreken van een authentiek gegeven in een adressenregistratie respectievelijk een gebouwenregistratie kan burgemeester en wethouders onder opgaaf van redenen verzoeken dat gegeven te wijzigen respectievelijk op te nemen in de adressenregistratie respectievelijk de gebouwenregistratie. 
 
 ### Artikel  39  
 
 1.  Na ontvangst van een melding als bedoeld in artikel 37 of een verzoek als bedoeld in artikel 38 besluiten burgemeester en wethouders over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.   
 2.  Indien burgemeester en wethouders niet binnen twee werkdagen na de melding, bedoeld in artikel 37, respectievelijk het verzoek, bedoeld in artikel 38, hebben besloten over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven plaatsen zij in de adressenregistratie respectievelijk de gebouwenregistratie bij dat gegeven de aantekening «in onderzoek».   
-3.  Burgemeester en wethouders onderzoeken het desbetreffende authentieke gegeven en nemen zo spoedig mogelijk doch niet later dan zes maanden na ontvangst van de melding, bedoeld in artikel 37, respectievelijk het verzoek, bedoeld in artikel 38, een beslissing omtrent wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.   
+3.  Burgemeester en wethouders onderzoeken het desbetreffende authentieke gegeven en nemen zo spoedig mogelijk doch niet later dan zes maanden na ontvangst van de melding, bedoeld in artikel 37, respectievelijk het verzoek, bedoeld in artikel 38, een beslissing omtrent wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.  
 
 ### Artikel  40  
 
 1.  Op het moment dat burgemeester en wethouders hebben beslist over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven verwijderen zij de aantekening «in onderzoek» uit de adressenregistratie respectievelijk de gebouwenregistratie.   
-2.  Burgemeester en wethouders maken hun beslissing over wijziging respectievelijk opneming van het desbetreffende authentieke gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in artikel 37, heeft gedaan respectievelijk de belanghebbende die het verzoek, bedoeld in artikel 38, heeft gedaan.   
+2.  Burgemeester en wethouders maken hun beslissing over wijziging respectievelijk opneming van het desbetreffende authentieke gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in artikel 37, heeft gedaan respectievelijk de belanghebbende die het verzoek, bedoeld in artikel 38, heeft gedaan.  
 
 ### Artikel  41  
 
 1.  De beslissing van burgemeester en wethouders over wijziging respectievelijk opneming van een gegeven naar aanleiding van een verzoek als bedoeld in artikel 38 is een besluit.   
 2.  Indien tegen een besluit als bedoeld in het eerste lid bezwaar wordt aangetekend of beroep wordt ingesteld plaatsen burgemeester en wethouders in de adressenregistratie respectievelijk de gebouwenregistratie bij dat gegeven de aantekening «in onderzoek».   
-3.  Zodra op het bezwaar respectievelijk het beroep onherroepelijk is beslist, wijzigen burgemeester en wethouders indien nodig het gegeven respectievelijk nemen zij dat gegeven op en verwijderen zij de aantekening «in onderzoek» bij dat gegeven.   
+3.  Zodra op het bezwaar respectievelijk het beroep onherroepelijk is beslist, wijzigen burgemeester en wethouders indien nodig het gegeven respectievelijk nemen zij dat gegeven op en verwijderen zij de aantekening «in onderzoek» bij dat gegeven.  
 
 ### Hoofdstuk  7  
 
@@ -536,17 +536,17 @@ b. wordt bepaald welke kosten van die controle aan de betrokken gemeente worden 
 
 c. worden eisen gesteld aan de bedrijven die in aanmerking komen om die controle te verrichten, en  
 
-d. kunnen eisen worden gesteld omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.     
+d. kunnen eisen worden gesteld omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.   
 
 ### Artikel  43  
 
 1.  Indien uit de controle, bedoeld in artikel 42, eerste lid, blijkt dat niet wordt voldaan aan het bij of krachtens deze wet bepaalde, dragen burgemeester en wethouders er zorg voor om daaraan alsnog te voldoen en laten zij binnen een jaar een hernieuwde controle uitvoeren op die onderdelen die bij de eerste controle niet voldeden. Artikel 42, tweede lid, is van overeenkomstige toepassing.   
 2.  De kosten van een hernieuwde controle als bedoeld in het eerste lid worden niet vergoed aan de betrokken gemeente.   
-3.  Bij ministeriële regeling worden regels gegeven omtrent de wijze van uitvoering van de hernieuwde controle, bedoeld in het eerste lid.   
+3.  Bij ministeriële regeling worden regels gegeven omtrent de wijze van uitvoering van de hernieuwde controle, bedoeld in het eerste lid. 
 
 ### Artikel  44  
 
-De bedrijven die voldoen aan de eisen, bedoeld in artikel 42, vierde lid, onderdeel c, hebben ten behoeve van een controle als bedoeld in artikel 42, eerste lid, respectievelijk artikel 43, eerste lid, toegang tot de registers en de registraties, bedoeld in artikel 2. Burgemeester en wethouders verlenen hiertoe de nodige medewerking.  
+De bedrijven die voldoen aan de eisen, bedoeld in artikel 42, vierde lid, onderdeel c, hebben ten behoeve van een controle als bedoeld in artikel 42, eerste lid, respectievelijk artikel 43, eerste lid, toegang tot de registers en de registraties, bedoeld in artikel 2. Burgemeester en wethouders verlenen hiertoe de nodige medewerking. 
 
 ### Hoofdstuk  8  
 
@@ -555,23 +555,23 @@ De bedrijven die voldoen aan de eisen, bedoeld in artikel 42, vierde lid, onderd
 ### Artikel  45a  
 
 1.  In afwijking van artikel 12 vindt inschrijving in het adressenregister respectievelijk het gebouwenregister van een krachtens artikel 10, eerste lid, aangewezen brondocument, dat dateert van vóór het tijdstip van de inwerkingtreding van de hoofdstukken 2 en 3 en de grondslag vormt voor een op dat tijdstip geldend gegeven als bedoeld in de artikelen 19 tot en met 25, plaats binnen vier werkdagen na dat tijdstip. Artikel 11, eerste lid, blijft buiten toepassing ten aanzien van een brondocument als in de eerste volzin bedoeld.   
-2.  In afwijking van artikel 16 vindt verwerking in de adressenregistratie respectievelijk de gebouwenregistratie van een gegeven als bedoeld in het eerste lid plaats binnen vier werkdagen na het tijdstip van de inwerkingtreding van de hoofdstukken 2 en 3.   
+2.  In afwijking van artikel 16 vindt verwerking in de adressenregistratie respectievelijk de gebouwenregistratie van een gegeven als bedoeld in het eerste lid plaats binnen vier werkdagen na het tijdstip van de inwerkingtreding van de hoofdstukken 2 en 3.  
 
 ### Artikel  45b  
 
-Indien voor een op het tijdstip van de inwerkingtreding van de hoofdstukken 2 en 3 geldend gegeven als bedoeld in de artikelen 19 tot en met 25 geen krachtens artikel 10, eerste lid, aangewezen brondocument beschikbaar is, dan wel een dergelijk brondocument slechts met een onevenredige inspanning beschikbaar kan worden gesteld, schrijven burgemeester en wethouders in plaats daarvan binnen de in artikel 45a, eerste lid, eerste volzin, gestelde termijn in het adressenregister respectievelijk het gebouwenregister als brondocument in een schriftelijke verklaring van burgemeester en wethouders waarin het desbetreffende gegeven wordt vermeld. Artikel 13 is op dit brondocument van overeenkomstige toepassing.  
+Indien voor een op het tijdstip van de inwerkingtreding van de hoofdstukken 2 en 3 geldend gegeven als bedoeld in de artikelen 19 tot en met 25 geen krachtens artikel 10, eerste lid, aangewezen brondocument beschikbaar is, dan wel een dergelijk brondocument slechts met een onevenredige inspanning beschikbaar kan worden gesteld, schrijven burgemeester en wethouders in plaats daarvan binnen de in artikel 45a, eerste lid, eerste volzin, gestelde termijn in het adressenregister respectievelijk het gebouwenregister als brondocument in een schriftelijke verklaring van burgemeester en wethouders waarin het desbetreffende gegeven wordt vermeld. Artikel 13 is op dit brondocument van overeenkomstige toepassing. 
 
 ### Artikel  46  
 
-Onze Minister zendt steeds na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt steeds na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  47  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  48  
 
-Deze wet wordt aangehaald als: Wet basisregistraties adressen en gebouwen.  
+Deze wet wordt aangehaald als: Wet basisregistraties adressen en gebouwen. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
