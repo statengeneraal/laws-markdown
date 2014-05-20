@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.  
 
 ### Artikel  II  
 
-Eet- en drinkwaren die vóór de inwerkingtreding van dit besluit zijn geëtiketteerd en voldoen aan het Warenwetbesluit Etikettering van levensmiddelen, zoals dat onmiddellijk vóór die inwerkingtreding luidde, mogen nog verhandeld worden totdat de voorraden zijn uitverkocht.  
+Eet- en drinkwaren die vóór de inwerkingtreding van dit besluit zijn geëtiketteerd en voldoen aan het Warenwetbesluit Etikettering van levensmiddelen, zoals dat onmiddellijk vóór die inwerkingtreding luidde, mogen nog verhandeld worden totdat de voorraden zijn uitverkocht. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ J. F. Hoogervorst
 de negentiende augustus 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

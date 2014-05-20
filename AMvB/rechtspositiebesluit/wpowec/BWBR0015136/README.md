@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 12 februari 2002, nr. WJZ 2002/5881 (2908), directie Wetgeving en Juridische Zaken, gedaan na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de artikelen 33, tweede lid, 64, 120, 123 en 185 van de Wet op het primair onderwijs, de artikelen 33, tweede lid, 66, 117 en 120 van de Wet op de expertisecentra, de artikelen 38a, tweede lid, 153, tweede lid, 184, 233 en 235 van de Wet op het voortgezet onderwijs, de artikelen 3, eerste en negende lid, 5, derde lid, en 18 van de Ziekenfondswet en de artikelen 125, eerste lid, en 134 van de Ambtenarenwet;
+Gelet op de [artikelen 33, tweede lid](../../../../wet/wbo/BWBR0003420/README.md),[ 64](../../../../wet/wbo/BWBR0003420/README.md), [120](../../../../wet/wbo/BWBR0003420/README.md), [123](../../../../wet/wbo/BWBR0003420/README.md) en [185 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 33, tweede lid](../../../../wet/isovso/BWBR0003549/README.md), [66](../../../../wet/isovso/BWBR0003549/README.md), [117](../../../../wet/isovso/BWBR0003549/README.md) en [120 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), de [artikelen 38a, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [153, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [184](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [233](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [235 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 3, eerste en negende lid](../../../../wet/ziekenfondswet/BWBR0002460/README.md), [5, derde lid](../../../../wet/ziekenfondswet/BWBR0002460/README.md), en [18 van de Ziekenfondswet](../../../../wet/ziekenfondswet/BWBR0002460/README.md) en de [artikelen 125, eerste lid](../../../../wet/ambtenarenwet/BWBR0001947/README.md), en [134 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md);
 
 De Raad van State gehoord (advies van 29 maart 2002, nr. WO5.02.0075/III);
 
@@ -34,11 +34,11 @@ c. vaste dienst: het dienstverband van onbepaalde duur;
 
 d. instelling: 
 
-1°. een openbare of uit de openbare kas bekostigde bijzondere basisschool of speciale school voor basisonderwijs in de zin van de Wet op het primair onderwijs;  
+1°. een openbare of uit de openbare kas bekostigde bijzondere basisschool of speciale school voor basisonderwijs in de zin van de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md);   
 
-2°. een openbare of uit de openbare kas bekostigde bijzondere instelling voor speciaal onderwijs, zijnde een school voor speciaal onderwijs, voortgezet speciaal onderwijs dan wel speciaal en voortgezet speciaal onderwijs in de zin van de Wet op de expertisecentra;  
+2°. een openbare of uit de openbare kas bekostigde bijzondere instelling voor speciaal onderwijs, zijnde een school voor speciaal onderwijs, voortgezet speciaal onderwijs dan wel speciaal en voortgezet speciaal onderwijs in de zin van de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
 
-3°. een centrale dienst als bedoeld in artikel 68 van de Wet op het primair onderwijs of artikel 69 van de Wet op de expertisecentra;    
+3°. een centrale dienst als bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 69 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);    
 
 e. betrokkene: 
 
@@ -76,17 +76,17 @@ j. bezoldiging: de som van het salaris en de toelagen, genoemd in de artikelen 9
 
 k. pensioenreglement: het pensioenreglement van de Stichting Pensioenfonds ABP;  
 
-l. pensioen: een pensioen als bedoeld in en vastgesteld bij of krachtens de Wet privatisering ABP;  
+l. pensioen: een pensioen als bedoeld in en vastgesteld bij of krachtens de [Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
 
 m. schooljaar: het administratieve schooljaar, zijnde het tijdvak van 1 augustus tot en met 31 juli;  
 
-n. benoeming of aanstelling: de benoeming in algemene dienst van een bevoegd gezag, bedoeld in artikel 34, eerste lid, van de Wet op het primair onderwijs dan wel artikel 34, eerste lid, van de Wet op de expertisecentra;  
+n. benoeming of aanstelling: de benoeming in algemene dienst van een bevoegd gezag, bedoeld in [artikel 34, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 34, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md);  
 
 o. akte van benoeming: de akte van benoeming bij het bijzonder onderwijs dan wel de akte van aanstelling bij het openbaar onderwijs, bedoeld in titel 2 van hoofdstuk 1;  
 
 p. echtgeno(o)t(e): voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede begrepen de levenspartner met wie de betrokkene samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding, dan wel de persoon met wie een geregistreerd partnerschap is aangegaan, waarbij geldt dat tegelijkertijd slechts één persoon als levenspartner of geregistreerde partner kan worden aangemerkt en waarbij tevens geldt dat Onze Minister kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten;  
 
-q. salarisschaal: de bij een functie horende schaal.    
+q. salarisschaal: de bij een functie horende schaal.   
 
 ### Titel  2  
 
@@ -236,13 +236,13 @@ q. salarisschaal: de bij een functie horende schaal.
 
 ####Begripsbepalingen
 
-In deze titel wordt onder commissie verstaan: de commissie van beroep, bedoeld in artikel 62, vijfde lid, van de Wet op het primair onderwijs, dan wel de commissie van beroep, bedoeld in artikel 65, vijfde lid, van de Wet op de expertisecentra.  
+In deze titel wordt onder commissie verstaan: de commissie van beroep, bedoeld in [ artikel 62, vijfde lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), dan wel de commissie van beroep, bedoeld in [ artikel 65, vijfde lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md). 
 
 ### Artikel  237  
 
 ####Het instellen van een commissie
 
-Een commissie wordt ingesteld door de besturen van de bijzondere instellingen waarover zij haar werkkring zal uitstrekken. De commissie deelt Onze Minister mee, welke instellingen bij haar zijn aangesloten.  
+Een commissie wordt ingesteld door de besturen van de bijzondere instellingen waarover zij haar werkkring zal uitstrekken. De commissie deelt Onze Minister mee, welke instellingen bij haar zijn aangesloten. 
 
 ### Artikel  238  
 
@@ -253,7 +253,7 @@ Een commissie wordt ingesteld door de besturen van de bijzondere instellingen wa
 3.  Om de 3 jaar treedt één van de door de instellingsbesturen en één van de door het personeel gekozen leden en plaatsvervangende leden af volgens een door de commissie op te stellen rooster.   
 4.  De voorzitter en de plaatsvervangend voorzitter worden gekozen voor de tijd van 3 jaar.   
 5.  De voorzitter en de plaatsvervangend voorzitter en de overige leden en plaatsvervangende leden zijn bij aftreden onmiddellijk herkiesbaar.   
-6.  In een opengevallen plaats wordt binnen 6 weken voorzien.   
+6.  In een opengevallen plaats wordt binnen 6 weken voorzien.  
 
 ### Artikel  239  
 
@@ -263,24 +263,24 @@ Een commissie wordt ingesteld door de besturen van de bijzondere instellingen wa
 
 a. zitting heeft in of in dienst is van het instellingsbestuur of het bestuur van een vereniging van instellingsbesturen, of deel uitmaakt van het personeel van een instelling waarover de commissie waarvan hij deel uitmaakt, haar werkkring uitstrekt;  
 
-b. in dienst is van een vereniging van onderwijzend personeel dan wel zitting heeft in een bestuur van een vereniging als bedoeld in artikel 64 van de Wet op het primair onderwijs of artikel 66 van de Wet op de expertisecentra, waarvan het lidmaatschap open staat voor personeel van instellingen waarvoor de commissie waarvan hij deel uitmaakt, is ingesteld;  
+b. in dienst is van een vereniging van onderwijzend personeel dan wel zitting heeft in een bestuur van een vereniging als bedoeld in [ artikel 64 van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 66 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), waarvan het lidmaatschap open staat voor personeel van instellingen waarvoor de commissie waarvan hij deel uitmaakt, is ingesteld;  
 
 c. deel uitmaakt van de rijksinspectie.     
-2.  Voorzitter en plaatsvervangend voorzitter kan slechts zijn hij die de hoedanigheid van meester in de rechten heeft verkregen op grond van een met goed gevolg afgelegd doctoraal examen in het Nederlands recht aan een Nederlandse universiteit of hogeschool.   
+2.  Voorzitter en plaatsvervangend voorzitter kan slechts zijn hij die de hoedanigheid van meester in de rechten heeft verkregen op grond van een met goed gevolg afgelegd doctoraal examen in het Nederlands recht aan een Nederlandse universiteit of hogeschool.  
 
 ### Artikel  240  
 
 ####Kennisgeving samenstelling commissie
 
 1.  Zodra hij verkozen is, geeft de voorzitter aan Onze Minister en aan de bij de commissie aangesloten instellingsbesturen onverwijld kennis van de samenstelling van de commissie, onder vermelding van zijn adres en eventuele andere gegevens die hij van belang acht.   
-2.  Wijziging van deze gegevens deelt de voorzitter onverwijld eveneens mee.   
+2.  Wijziging van deze gegevens deelt de voorzitter onverwijld eveneens mee.  
 
 ### Artikel  241  
 
 ####Huishoudelijk reglement van de commissie
 
 1.  De commissie legt binnen 6 maanden na haar verkiezing de regeling van haar werkzaamheden vast in een huishoudelijk reglement en voorziet daarin in haar secretariaat.   
-2.  De voorzitter brengt dit reglement, alsmede wijzigingen daarvan, ter kennis van Onze Minister en van de bij de commissie aangesloten instellingsbesturen.   
+2.  De voorzitter brengt dit reglement, alsmede wijzigingen daarvan, ter kennis van Onze Minister en van de bij de commissie aangesloten instellingsbesturen.  
 
 ### Artikel  242  
 
@@ -288,7 +288,7 @@ c. deel uitmaakt van de rijksinspectie.
 
 1.  Het instellingsbestuur draagt er zorg voor, dat een kennisgeving van de samenstelling van de commissie waarbij de instelling is aangesloten en van het adres van de voorzitter, alsmede een exemplaar van het huishoudelijk reglement van de commissie steeds op een voor de betrokkene toegankelijke plaats in de instelling ter inzage beschikbaar zijn.   
 2.  Deze kennisgeving en dit huishoudelijk reglement worden steeds onverwijld aangepast aan de wijzigingen, bedoeld in artikel 240, tweede lid, en artikel 241, tweede lid.   
-3.  Stukken die moeten worden ingediend bij de voorzitter of de commissie, kunnen worden toegezonden aan het bekend gemaakte kantooradres van de secretaris.   
+3.  Stukken die moeten worden ingediend bij de voorzitter of de commissie, kunnen worden toegezonden aan het bekend gemaakte kantooradres van de secretaris.  
 
 ### Artikel  243  
 
@@ -312,7 +312,7 @@ g. de beëindiging van een verlengd tijdelijk dienstverband;
 
 h. de aanwijzing als personeelslid boven de reguliere formatie voortvloeiend uit een algemeen verbindend voorschrift, die op termijn kan leiden tot ontslag of beëindiging van een verlengd tijdelijk dienstverband;  
 
-i. de aanwijzing van een andere school of andere scholen waaraan een betrokkene werkzaamheden zal verrichten.     
+i. de aanwijzing van een andere school of andere scholen waaraan een betrokkene werkzaamheden zal verrichten.      
 2.  Indien in de gevallen, bedoeld in het eerste lid, de betrokkene voor het verstrijken van de beroepstermijn is overleden, kunnen in beroep komen zijn nagelaten betrekkingen die recht hebben op een uitkering bij overlijden.   
 3.  De appellant dient bij de voorzitter van de commissie een door hem of door zijn raadsman ondertekend beroepschrift in, waarbij wordt gevoegd: 
 
@@ -329,7 +329,7 @@ b. een zo volledig mogelijke aanduiding van de naam en het adres van de tegenpar
 
 c. een mededeling van de vordering en de gronden waarop deze berust.     
 5.  Het beroepschrift moet worden ingediend bij de voorzitter van de commissie binnen 6 weken, gerekend vanaf de dag na die waarop het bestuursbesluit waartegen het beroep wordt ingesteld, aan appellant is verzonden.   
-6.  Indien het beroepschrift niet voldoet aan de eisen gesteld in het tweede en derde lid van dit artikel, wijst de voorzitter de appellant op het gepleegde verzuim en nodigt hem uit binnen 2 weken een hersteld beroepschrift in te zenden.   
+6.  Indien het beroepschrift niet voldoet aan de eisen gesteld in het tweede en derde lid van dit artikel, wijst de voorzitter de appellant op het gepleegde verzuim en nodigt hem uit binnen 2 weken een hersteld beroepschrift in te zenden.  
 
 ### Artikel  244  
 
@@ -337,7 +337,7 @@ c. een mededeling van de vordering en de gronden waarop deze berust.
 
 1.  Indien het geschil kennelijk bij een andere commissie moet worden aangebracht, deelt de voorzitter dit onverwijld bij aangetekende brief aan de appellant mee. Over andere gevallen van onbevoegdheid beslist de commissie.   
 2.  Indien het beroepschrift na de daarvoor gestelde termijn is ingediend, laat de commissie niet-ontvankelijk verklaring op die grond achterwege, indien de appellant aantoont dat hij de voorziening in beroep heeft gevraagd zo spoedig als dit redelijkerwijs verlangd kon worden.   
-3.  Tenzij de behandeling in het eerste en tweede lid er toe leidt het beroepschrift niet in behandeling te nemen, zendt de voorzitter onmiddellijk na ontvangst van het beroepschrift of hersteld beroepschrift een exemplaar daarvan, vergezeld van de in artikel 243, derde lid, genoemde afschriften, aan het betrokken instellingsbestuur.   
+3.  Tenzij de behandeling in het eerste en tweede lid er toe leidt het beroepschrift niet in behandeling te nemen, zendt de voorzitter onmiddellijk na ontvangst van het beroepschrift of hersteld beroepschrift een exemplaar daarvan, vergezeld van de in  artikel 243, derde lid, genoemde afschriften, aan het betrokken instellingsbestuur.  
 
 ### Artikel  245  
 
@@ -352,13 +352,13 @@ c. een mededeling van de vordering en de gronden waarop deze berust.
 
 1.  De voorzitter bepaalt de dag en het uur waarop de zaak zal worden behandeld.   
 2.  Die dag zal niet later mogen worden gesteld dan zes weken na ontvangst van het beroepschrift of het hersteld beroepschrift, tenzij de betrokkene zulks verzoekt wegens niet tijdige ontvangst. Overschrijding van deze termijn wordt alleen in uitzonderlijke gevallen toegestaan en dient te worden gemotiveerd.   
-3.  De voorzitter geeft binnen twee weken na ontvangst van het beroepschrift of van het hersteld beroepschrift aan beide partijen per aangetekende brief kennis van de plaats, de dag en het uur, waarop de zaak zal worden behandeld. Overschrijding van deze termijn is slechts in uitzonderlijke gevallen toegestaan en dient te worden gemotiveerd.   
+3.  De voorzitter geeft binnen twee weken na ontvangst van het beroepschrift of van het hersteld beroepschrift aan beide partijen per aangetekende brief kennis van de plaats, de dag en het uur, waarop de zaak zal worden behandeld. Overschrijding van deze termijn is slechts in uitzonderlijke gevallen toegestaan en dient te worden gemotiveerd.  
 
 ### Artikel  247  
 
 ####Schriftelijke behandeling
 
-Met eenstemmig goedvinden van de commissie en partijen kan de behandeling van het geschil ook schriftelijk geschieden.  
+Met eenstemmig goedvinden van de commissie en partijen kan de behandeling van het geschil ook schriftelijk geschieden. 
 
 ### Artikel  248  
 
@@ -379,13 +379,13 @@ e. indien hij binnen een tijdvak van vijf jaren, voorafgaande aan de datum van o
 f. in andere gevallen waarin daartoe een ernstige reden aanwezig is.     
 2.  In dezelfde gevallen kan een lid van de commissie zich verschonen.   
 3.  Over de wraking of de verschoning wordt zo spoedig mogelijk beslist door de overige leden der commissie.   
-4.  Bij staking van stemmen wordt de wraking geacht te zijn toegewezen.   
+4.  Bij staking van stemmen wordt de wraking geacht te zijn toegewezen.  
 
 ### Artikel  249  
 
 ####Horen van getuigen en deskundigen door de commissie
 
-Indien de commissie zulks ter beslissing van de zaak nodig acht, kan zij al dan niet op grond van een daartoe strekkend verzoek van een partij getuigen en deskundigen ter zitting horen. Indien zij van deze bevoegdheid gebruik maakt, doet de voorzitter hiervan vooraf mededeling aan partijen.  
+Indien de commissie zulks ter beslissing van de zaak nodig acht, kan zij al dan niet op grond van een daartoe strekkend verzoek van een partij getuigen en deskundigen ter zitting horen. Indien zij van deze bevoegdheid gebruik maakt, doet de voorzitter hiervan vooraf mededeling aan partijen. 
 
 ### Artikel  250  
 
@@ -400,7 +400,7 @@ a. haar belangen voor te dragen of te doen voordragen;
 
 b. getuigen en deskundigen te doen horen;  
 
-c. kennis te nemen van alle op het geschil betrekking hebbende stukken, waarvan, voor zover mogelijk, ten minste 1 week voor de zitting aan partijen inzage wordt gegeven.     
+c. kennis te nemen van alle op het geschil betrekking hebbende stukken, waarvan, voor zover mogelijk, ten minste 1 week voor de zitting aan partijen inzage wordt gegeven.    
 
 ### Artikel  251  
 
@@ -412,19 +412,19 @@ c. kennis te nemen van alle op het geschil betrekking hebbende stukken, waarvan,
 4.  Een beslissing is slechts van kracht, indien genomen door ten minste 3 leden die de zaak hebben behandeld, waaronder de voorzitter of plaatsvervangend voorzitter, met dien verstande dat van de leden of plaatsvervangende leden, gekozen door de besturen en door het personeel, een gelijk getal van beide zijden aan de beslissing zal deelnemen en dat bij ongelijk getal het jongste lid in leeftijd van de zijde die het sterkst is vertegenwoordigd, zich van de stemming zal onthouden. De overige leden onthouden zich niet van stemmen, noch stemmen zij blanco.   
 5.  De beslissing wordt met redenen omkleed en door de voorzitter binnen 2 weken, nadat zij is genomen, bij aangetekend schrijven aan de partij toegezonden.   
 6.  De voorzitter zendt een afschrift van de beslissing naar Onze Minister.   
-7.  Het instellingsbestuur onderwerpt zich aan de uitspraak van de commissie.   
+7.  Het instellingsbestuur onderwerpt zich aan de uitspraak van de commissie.  
 
 ### Artikel  252  
 
 ####Kosten van de commissie
 
-De kosten van de commissie komen ten laste van de bij haar aangesloten instellingsbesturen.  
+De kosten van de commissie komen ten laste van de bij haar aangesloten instellingsbesturen. 
 
-### Artikel  252a  
+### Artikel 252a 
 
 ####Commissies van beroep voortgezet onderwijs
 
-Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bedoeld in artikel 52, eerste lid, van de Wet op het voortgezet onderwijs.  
+Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bedoeld in [artikel 52, eerste lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).
 
 ### Hoofdstuk  4  
 
@@ -472,7 +472,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bed
 
 ### §  3  
 
-####Overgangsrecht leraren aan scholen als bedoeld in de WPO en de WEC.
+####Overgangsrecht leraren aan scholen als bedoeld in de [WPO](../../../../wet/wbo/BWBR0003420/README.md) en de [WEC](../../../../wet/isovso/BWBR0003549/README.md).
 
 ### §  4  
 
@@ -492,7 +492,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bed
 
 ### §  3  
 
-####Scholen als bedoeld in de WPO en de WEC.
+####Scholen als bedoeld in de [WPO](../../../../wet/wbo/BWBR0003420/README.md) en de [WEC](../../../../wet/isovso/BWBR0003549/README.md).
 
 ### §  4  
 
@@ -510,7 +510,7 @@ Dit hoofdstuk is van overeenkomstige toepassing op de commissies van beroep, bed
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Rechtspositiebesluit WPO/WEC.  
+Dit besluit wordt aangehaald als: Rechtspositiebesluit WPO/WEC. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -524,4 +524,4 @@ M. J. A. van der Hoeven
 de zeventiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

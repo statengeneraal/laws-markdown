@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het [Aanduidingenbesluit tabaksproducten](../../../../../AMvB/aanduidingenbesluit/tabaksprodukten/BWBR0006920/README.md).   
+Wijzigt het [Aanduidingenbesluit tabaksproducten](../../../../../AMvB/aanduidingenbesluit/tabaksprodukten/BWBR0006920/README.md).  
 
 ### Artikel  II  
 
-Verpakkingen voor pijptabak met de vermelding DEFACTO kunnen op de markt worden gebracht tot uiterlijk 1 april 2006; verpakkingen voor overige tabaksproducten met de vermelding DEFACTO tot uiterlijk 1 oktober 2004.  
+Verpakkingen voor pijptabak met de vermelding DEFACTO kunnen op de markt worden gebracht tot uiterlijk 1 april 2006; verpakkingen voor overige tabaksproducten met de vermelding DEFACTO tot uiterlijk 1 oktober 2004. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ J. F. Hoogervorst
 de vijfentwintigste september 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

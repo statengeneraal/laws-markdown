@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het [Subsidiebesluit raden voor rechtsbijstand](../../../../../../../AMvB/subsidiebesluit/raad/voor/rechtsbijstand/BWBR0010393/README.md).   
+Wijzigt het [Subsidiebesluit raden voor rechtsbijstand](../../../../../../../AMvB/subsidiebesluit/raad/voor/rechtsbijstand/BWBR0010393/README.md).  
 
 ### Artikel  II  
 
-Dit besluit is mede van toepassing op de beslissing van Onze Minister op de aanvraag tot vaststelling van de subsidie die voor de inwerkingtreding van dit besluit is gedaan.  
+Dit besluit is mede van toepassing op de beslissing van Onze Minister op de aanvraag tot vaststelling van de subsidie die voor de inwerkingtreding van dit besluit is gedaan. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2003.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2003. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ J. P. H. Donner
 de negende september 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

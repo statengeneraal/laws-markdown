@@ -15,21 +15,21 @@ De Raad van State gehoord, advies van 8 januari 2004, no. W03.03 0520/I;
 Gezien het nader rapport van Onze Minister van Justitie van 28 januari 2004, nr. 5266040/04/6;
 Hebben goedgevonden en verstaan:    
 
-### Artikel  1  
+###Artikel  1 
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
-### Artikel  2  
+### Artikel  2 
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ### Artikel  3  
 
-De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2004.  
+De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2004. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2004.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2004. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

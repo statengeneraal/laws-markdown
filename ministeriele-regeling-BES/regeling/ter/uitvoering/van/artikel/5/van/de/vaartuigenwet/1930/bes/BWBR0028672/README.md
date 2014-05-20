@@ -4,7 +4,7 @@
 
 ### Artikel  1  
 
-Het register, bedoeld in artikel 5 van de Vaartuigenwet 1930 BES bevat ten minste de volgende gegevens: 
+Het register, bedoeld in [artikel 5 van de Vaartuigenwet 1930 BES](../../../../../../../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md) bevat ten minste de volgende gegevens: 
 
 a. type, naam, bouwplaats en afmeting van het vaartuig;  
 
@@ -18,10 +18,10 @@ e. type, merk en vermogen van de motor;
 
 f. ligplaats;  
 
-g. letter en nummer, bedoeld in artikel 2 van de Vaartuigenwet 1930 BES;  
+g. letter en nummer, bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](../../../../../../../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md);  
 
-h. gegevens met betrekking tot de vergunning, bedoeld in artikel 6 van de Vaartuigenwet 1930 BES.    
+h. gegevens met betrekking tot de vergunning, bedoeld in [artikel 6 van de Vaartuigenwet 1930 BES](../../../../../../../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md).   
 
 ### Artikel  2  
 
-Deze regeling berust op artikel 5, tweede lid, van de Vaartuigenwet 1930 BES.  
+Deze regeling berust op [artikel 5, tweede lid, van de Vaartuigenwet 1930 BES](../../../../../../../../../../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md). 

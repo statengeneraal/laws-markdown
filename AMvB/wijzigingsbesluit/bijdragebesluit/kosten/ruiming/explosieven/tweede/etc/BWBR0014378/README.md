@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999.   
+Wijzigt het Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999.  
 
 ### Artikel  II  
 
@@ -23,7 +23,7 @@ Bijdragen voor de kosten van opsporingen en ruimingen die zijn aangevangen vóó
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang 1 januari 2003. De onderdelen I en N van artikel I, werken terug tot en met 1 januari 2000.  
+Dit besluit treedt in werking met ingang 1 januari 2003. De onderdelen I en N van artikel I, werken terug tot en met 1 januari 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ R. H. Hessing
 de zeventiende december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

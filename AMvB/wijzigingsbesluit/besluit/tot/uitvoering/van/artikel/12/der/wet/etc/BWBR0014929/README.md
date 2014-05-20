@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945.   
+Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.   
+Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.  
 
 ### Artikel  III  
 
-De definitieve vaststelling van de inkomsten, bedoeld in [artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), tot en met het jaar 2000 geschiedt met toepassing van de [koninklijke besluiten van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../AMvB/besluit/tot/uitvoering/van/artikel/12/der/wet/buitengewoon/pensioen/etc/BWBR0002042/README.md) (Stb. I 362) en [van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../AMvB/besluit/ex/artikel/11/wet/buitengewoon/pensioen/etc/BWBR0002049/README.md) (Stb. J 418), zoals deze luidden tot aan de inwerkingtreding van dit besluit.  
+De definitieve vaststelling van de inkomsten, bedoeld in [artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), tot en met het jaar 2000 geschiedt met toepassing van de [koninklijke besluiten van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../AMvB/besluit/tot/uitvoering/van/artikel/12/der/wet/buitengewoon/pensioen/etc/BWBR0002042/README.md) (Stb. I 362) en [van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../AMvB/besluit/ex/artikel/11/wet/buitengewoon/pensioen/etc/BWBR0002049/README.md) (Stb. J 418), zoals deze luidden tot aan de inwerkingtreding van dit besluit. 
 
 ### Artikel  IV  
 
@@ -41,4 +41,4 @@ C. I. J. M. Ross-van Dorp
 de vierentwintigste april 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

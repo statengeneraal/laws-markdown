@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 september 2010, nr. WJZ/236472 (3839), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op artikel 34 van de Wet voortgezet onderwijs BES;
+Gelet op [artikel 34 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 21 oktober 2010, no. W05.10.0446/I);
 
@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ####Kerndoelen onderbouw voortgezet onderwijs BES
 
-De kerndoelen, bedoeld in artikel 34 van de Wet voortgezet onderwijs BES, worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage.  
+De kerndoelen, bedoeld in [artikel 34 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba.  
+Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit kerndoelen onderbouw VO BES.  
+Dit besluit wordt aangehaald als: Besluit kerndoelen onderbouw VO BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,23 +37,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 februari 2011  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *zestiende* februari 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
 
-### Bijlage  
+### Bijlage 
 
-####behorend bij artikel 1  van het Besluit kerndoelen onderbouw VO BES
+#### behorend bij artikel 1  van het Besluit kerndoelen onderbouw VO BES
 
 #### *Kerndoelen onderbouw voortgezet onderwijs BES* 
 
@@ -79,11 +79,11 @@ De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van d
 
 9. De leerling leert taalactiviteiten (spreken, luisteren, schrijven en lezen) planmatig voor te bereiden en uit te voeren.  
 
-10. De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.    
+10. De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.   
 
 #### *Onderdeel B: Engels* 
 
-Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader. Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Spaanse taal, Papiaments en Franse taal – die voor de leerroutes op grond van de nieuwe artikelen 21 en 22 van het Inrichtingsbesluit W.V.O. BES naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de desbetreffende andere moderne vreemde taal te lezen. 
+Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader. Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Spaanse taal, Papiaments en Franse taal – die voor de leerroutes op grond van de nieuwe [artikelen 21](../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en [22 van het Inrichtingsbesluit W.V.O. BES](../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de desbetreffende andere moderne vreemde taal te lezen. 
 
 11. De leerling leert verder vertrouwd te raken met de klank van het Engels door veel te luisteren naar gesproken en gezongen teksten.  
 
@@ -99,7 +99,7 @@ Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de
 
 17. De leerling leert informeel contact in het Engels te onderhouden via e-mail, brief en chatten.  
 
-18. De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.    
+18. De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.   
 
 #### *Onderdeel C: rekenen en wiskunde* 
 
@@ -121,7 +121,7 @@ Er zijn negen kerndoelen die betrekking hebben op rekenen en wiskunde. Er wordt 
 
 26. De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren, en leert met hun eigenschappen en afmetingen te rekenen en te redeneren.  
 
-27. De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren, en leert gegevens, representaties en conclusies kritisch te beoordelen.    
+27. De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren, en leert gegevens, representaties en conclusies kritisch te beoordelen.   
 
 #### *Onderdeel D: mens en natuur* 
 
@@ -141,7 +141,7 @@ De volgende acht kerndoelen bestrijken een groot inhoudelijk terrein, gericht op
 
 34. De leerling leert hoofdzaken te begrijpen van bouw en functie van het menselijk lichaam, verbanden te leggen met het bevorderen van lichamelijke en psychische gezondheid, en daarin een eigen verantwoordelijkheid te nemen.  
 
-35. De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden.    
+35. De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden.   
 
 #### *Onderdeel E: mens en maatschappij* 
 
@@ -169,7 +169,7 @@ In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins 
 
 46. De leerling leert over de verdeling van welvaart en armoede over de wereld, hij leert de betekenis daarvan te zien voor de bevolking en het milieu, en relaties te leggen met het eigen leven.  
 
-47. De leerling leert actuele spanningen en conflicten in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan te zien op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking.    
+47. De leerling leert actuele spanningen en conflicten in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan te zien op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking.   
 
 #### *Onderdeel F: kunst en cultuur* 
 
@@ -183,7 +183,7 @@ Met de vijf kerndoelen voor het onderdeel kunst en cultuur wordt het gemeenschap
 
 51. De leerling leert met behulp van visuele of auditieve middelen verslag te doen van deelname aan kunstzinnige activiteiten, als toeschouwer en als deelnemer.  
 
-52. De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder dat van kunstenaars.    
+52. De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder dat van kunstenaars.   
 
 #### *Onderdeel G: bewegen en sport* 
 
@@ -199,5 +199,5 @@ In de zes kerndoelen voor het onderdeel bewegen en sport gaat het om een brede o
 
 57. De leerling leert eenvoudige regelende taken te vervullen die het mogelijk maken, zelfstandig en samen met andere leerlingen bewegingsactiviteiten te beoefenen.  
 
-58. De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.    
+58. De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.   
 

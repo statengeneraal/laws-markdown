@@ -4,30 +4,30 @@
 
 ### Artikel  1  
 
-1.  Tot de voorschriften bedoeld in artikel 2, derde lid, van de Wet telecommunicatievoorzieningen BES, behoren onder andere vergoedingen in verband met het gebruik van en het toezicht op het gebruik van het frequentiespectrum door houders van een concessie. Deze vergoedingen zijn opgenomen in de bij deze beschikking behorende bijlagen.   
-2.  Als vergoedingen, bedoeld in artikel 31 van de Wet telecommunicatievoorzieningen BES, worden vastgesteld de vergoedingen die zijn opgenomen in de bij deze beschikking behorende bijlagen.   
+1.  Tot de voorschriften bedoeld in [artikel 2, derde lid, van de Wet telecommunicatievoorzieningen BES](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md), behoren onder andere vergoedingen in verband met het gebruik van en het toezicht op het gebruik van het frequentiespectrum door houders van een concessie. Deze vergoedingen zijn opgenomen in de bij deze beschikking behorende bijlagen.   
+2.  Als vergoedingen, bedoeld in [artikel 31 van de Wet telecommunicatievoorzieningen BES](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md), worden vastgesteld de vergoedingen die zijn opgenomen in de bij deze beschikking behorende bijlagen.  
 
 ### Artikel  2  
 
-Deze regeling berust op de artikelen 2, derde lid, en 31 van de Wet telecommunicatievoorzieningen BES.  
+Deze regeling berust op de [artikelen 2, derde lid](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md), en [31 van de Wet telecommunicatievoorzieningen BES](../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md). 
 
 ### Artikel  3  
 
-Voor de diensten of werkzaamheden die zijn verricht voor 10 oktober 2010 blijft het recht van toepassing zoals dat voor 10 oktober 2010 ten tijde van de verrichting van die werkzaamheden of diensten op de Nederlandse Antillen gold.  
+Voor de diensten of werkzaamheden die zijn verricht voor 10 oktober 2010 blijft het recht van toepassing zoals dat voor 10 oktober 2010 ten tijde van de verrichting van die werkzaamheden of diensten op de Nederlandse Antillen gold. 
 
 ### Artikel  4  
 
-vervallen  
+vervallen 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling vergoedingen telecommunicatievoorzieningen BES.  
+Deze regeling wordt aangehaald als: Regeling vergoedingen telecommunicatievoorzieningen BES. 
 
 ### Bijlage  1  
 
 ####behorende bij de Regeling vergoedingen telecommunicatievoorzieningen BES
 
-Toelichting tabel: I – vergoeding voor verlening van een machtiging (eenmalig) II = maandelijkse / jaarlijkse vergoeding voor het toezicht op een machtiginghouder Koers $ / Naf = 0,05587, *alle bedragen zijn afgerond op hele dollars.* zie ook 78308=gelijkwaardig  
+Toelichting tabel: I – vergoeding voor verlening van een machtiging (eenmalig) II = maandelijkse / jaarlijkse vergoeding voor het toezicht op een machtiginghouder Koers $ / Naf = 0,05587, *alle bedragen zijn afgerond op hele dollars.*  zie ook 78308=gelijkwaardig  
 
 |--- | I  | II  | II  | $  | $  | NAF  |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -72,7 +72,7 @@ Toelichting tabel: I – vergoeding voor verlening van een machtiging (eenmalig)
 | --- | --- | VHF beperkt kuststations ten behoeve van vissershavens en natuurgebieden  | $ 112  | $ 168  | Naf 300,00 per jaar  |
 | --- | --- | VHF beperkt kuststation voor commerciële doeleinden  | $ 112  | $ 838  | Naf 1 500 00 per kanaal per jaar  |
 | --- | --- | HF beperkt kuststation voor commerciële doeleinden  | $ 112  | $ 1.397  | Naf 2 500.00 per kanaal per jaar  |
-| --- | 2  | **Scheepsradiomachtigingen**    |
+| --- | 2  |  * *Scheepsradiomachtigingen* *   |
 | --- | --- | Voorlopige zendmachtiging  | $ 168  | --- | --- |
 | --- | --- | Definitieve machtiging schepen  | $ 112  | --- | --- |
 | --- | --- | Definitieve machtiging pleziervaartuigen  | $ 112  | --- | --- |
@@ -134,7 +134,7 @@ Toelichting tabel: I – vergoeding voor verlening van een machtiging (eenmalig)
 | --- | 1  |  *Machtiging*   | $ 112  | --- | --- |
 | --- | --- | Draadloze ‘Back bone’ frequenties draadloze netwerken  | --- | --- | Zie bijlage 2 lokale radioverbindingen  |
 | --- | --- | Draadloze point to point/point-to-multipoint access frequenties draadloze netwerken  | --- | $ 34  | Naf. 60,00 per abonnee  |
-| --- | 2  | **Radioverbindingen**    |
+| --- | 2  |  * *Radioverbindingen* *   |
 | --- | --- | Zend- en ontvanginrichting voor lokaal, interinsulair en internationaal verkeer  | $ 112  | --- | Zie bijlage 2  |
 | X  | --- |  *INRICHTING VOOR INDUSTRIËLE, WETENSCHAPPELIJKE EN MEDISCHE DOELEINDEN*   |
 | --- | 1  |  *Machtiging*   | $ 112  | $ 140  | Naf. 250,00 per inrichting per jaar  |

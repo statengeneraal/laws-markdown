@@ -10,9 +10,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *organisatievorm:* alle wijzen waarop een notaris zijn werkzaamheden heeft georganiseerd. Dit omvat de kantoororganisatie (kantoor) als ook de rechtsvorm en samenwerkingsvorm (samenwerkingsverband) met andere notarissen.  
+a.  *organisatievorm:* alle wijzen waarop een notaris zijn werkzaamheden heeft georganiseerd. Dit omvat de kantoororganisatie (kantoor) als ook de rechtsvorm en samenwerkingsvorm (samenwerkingsverband) met andere notarissen.  
 
-b. *klein kantoor:* een notarisorganisatie waar gedurende de laatste twee boekjaren voldaan is aan (in elk geval) twee van de volgende criteria: 
+b.  *klein kantoor:* een notarisorganisatie waar gedurende de laatste twee boekjaren voldaan is aan (in elk geval) twee van de volgende criteria: 
 
 1. door maximaal vier (kandidaat-) notarissen wordt het ondernemingsrisico gelopen. In geval van interdisciplinaire samenwerking geldt hierop een uitzondering namelijk dat door maximaal twee (kandidaat-) notarissen met maximaal drie andere zelfstandige beroepsbeoefenaren ondernemersrisico wordt gelopen;  
 
@@ -20,7 +20,7 @@ b. *klein kantoor:* een notarisorganisatie waar gedurende de laatste twee boekja
 
 3. het aantal werknemers, dat bij het notariskantoor in dienst is, dan wel op grond van een overeenkomst werkzaamheden verricht, bedraagt maximaal 20 fulltime-equivalents (fte’s).    
 
-c. *melding:* een melding als bedoeld in [artikel 25a van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md);    
+c.  *melding:* een melding als bedoeld in [artikel 25a van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md);   
 
 ####Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht ([artikel 24, vierde en vijfde lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
 
@@ -37,29 +37,29 @@ b. bevindingen in het kader van de IDS-verordening van de KNB;
 
 c. bevindingen ten aanzien van de antwoorden van de notaris op relevante toezichtvragen kantoor;  
 
-d. bevindingen ten aanzien van de in artikel 8 bedoelde melding aan het Bureau.     
+d. bevindingen ten aanzien van de in artikel 8 bedoelde melding aan het Bureau.    
 
 ####Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat ([artikel 8, vierde lid van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
 
 ### Artikel  3  
 
-De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md) bedraagt € 1.600,–.  
+De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md) bedraagt € 1.600,–. 
 
 ####Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden ([artikel 25, zevende lid van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
 
 ### Artikel  4  
 
 1.  De rente wordt berekend aan de hand van het rentepercentage dat in het normale economische verkeer gebruikelijk is, mede gelet op de omvang van het bedrag en de tijdsduur dat het bedrag op de bijzondere rekening(en) staat.   
-2.  De rente wordt berekend naar evenredigheid van hetgeen ten gunste van de rechthebbende op de bijzondere rekening(en) is gestort.   
+2.  De rente wordt berekend naar evenredigheid van hetgeen ten gunste van de rechthebbende op de bijzondere rekening(en) is gestort.  
 
 ### Artikel  5  
 
 1.  Tenzij schriftelijk anders overeengekomen, wordt de aan het aandeel van de rechthebbende op de bijzondere rekening(en) toegevoegde rente zo snel mogelijk, doch uiterlijk gelijk met het aandeel aan de rechthebbende, uitgekeerd.   
-2.  De rente over het aandeel van de rechthebbende op de bijzondere rekening(en) wordt volledig uitgekeerd aan de rechthebbende.   
+2.  De rente over het aandeel van de rechthebbende op de bijzondere rekening(en) wordt volledig uitgekeerd aan de rechthebbende.  
 
 ### Artikel  6  
 
-De eventuele kosten in verband met de renteberekening dan wel het beheer en de beschikking over de bijzondere rekening(en) mogen niet met de rente over het aandeel van de rechthebbende op de bijzondere rekening(en) worden verrekend.  
+De eventuele kosten in verband met de renteberekening dan wel het beheer en de beschikking over de bijzondere rekening(en) mogen niet met de rente over het aandeel van de rechthebbende op de bijzondere rekening(en) worden verrekend. 
 
 ### Artikel  7  
 
@@ -67,13 +67,13 @@ In afwijking van de artikelen 4 en 5 behoeft geen rente te worden vergoed in de 
 
 a. bij kortlopende transacties in geval van rente op tegoeden die maximaal vijf werkdagen onder het beheer van de notaris hebben gestaan;  
 
-b. over de overdrachtsbelasting gedurende de termijn als bedoeld in de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).    
+b. over de overdrachtsbelasting gedurende de termijn als bedoeld in de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
 
 ####Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris ([artikel 25a van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
 
 ### Artikel  8  
 
-Als zich een gebeurtenis voordoet die mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris kan hebben, meldt de notaris dit volledig en onverwijld aan het Bureau.  
+Als zich een gebeurtenis voordoet die mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris kan hebben, meldt de notaris dit volledig en onverwijld aan het Bureau. 
 
 ### Artikel  9  
 
@@ -105,24 +105,24 @@ b. een aangifte van een strafbaar feit tegen een notaris die verband houdt met z
 
 c. aanwijzingen of vermoedens van fraude of malversaties met betrokkenheid van een (of meer) personen werkzaam binnen de organisatievorm.  
 
-d. een mededeling van een melding van een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md).      
+d. een mededeling van een melding van een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md).     
 
 ### Artikel  10  
 
 1.  Naast de in artikel 9 omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een notaris kunnen hebben, aan het Bureau melden.   
-2.  Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in artikel 9 en 10 eerste lid, melden aan het Bureau.   
+2.  Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in artikel 9 en 10 eerste lid, melden aan het Bureau.  
 
 ####Indiening ontwerp-begroting Bureau
 
 ### Artikel  11  
 
-Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor het daarop volgende jaar.  
+Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor het daarop volgende jaar. 
 
 ####Vergoeding reis- en verblijfkosten leden en plaatsvervangend leden Kamers
 
 ### Artikel  12  
 
-De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
+De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
 
 ####Vergoeding kosten leden en plaatsvervangend leden van de Commissie toegang notariaat
 
@@ -130,25 +130,25 @@ De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per v
 
 1.  Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
 2.  Aan de voorzitter van de Commissie wordt per vergadering een vergoeding toegekend van 130% van het bedrag, bedoeld in het vorige lid.   
-3.  De voorzitter en overige leden van de Commissie ontvangen per vergadering een vergoeding voor reis- of verblijfkosten op grond van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).   
+3.  De voorzitter en overige leden van de Commissie ontvangen per vergadering een vergoeding voor reis- of verblijfkosten op grond van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
 
 ####Overige bepalingen
 
 ### Artikel  14  
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Regeling op het notarisambt.  
+Deze regeling wordt aangehaald als: Regeling op het notarisambt. 
 
 ### Artikel  16  
 
-Deze regeling met toelichting zal in de Staatscourant worden geplaatst.  
+Deze regeling met toelichting zal in de Staatscourant worden geplaatst. 
 
 ’s-Gravenhage 
 11 december 2012   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

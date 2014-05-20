@@ -18,14 +18,14 @@ In deze statuten wordt verstaan onder:
 
 *‘stichting’:* Stichting Nederlands Letterenfonds;  
 
-*‘minister’:* de minister die het cultuurbeleid in zijn portefeuille heeft, thans de minister van Onderwijs, Cultuur en Wetenschap.    
+*‘minister’:* de minister die het cultuurbeleid in zijn portefeuille heeft, thans de minister van Onderwijs, Cultuur en Wetenschap.   
 
 ####Naam en zetel
 
 ### Artikel  2  
 
-1.  De naam van de stichting is: *Stichting Nederlands Letterenfonds*.   
-2.  De stichting heeft haar zetel in de gemeente Amsterdam.   
+1.  De naam van de stichting is: Stichting Nederlands Letterenfonds.   
+2.  De stichting heeft haar zetel in de gemeente Amsterdam. 
 
 ####Doel en vermogen
 
@@ -59,7 +59,7 @@ a. subsidies;
 
 b. bijdragen van instellingen en particulieren;  
 
-c. andere langs wettige weg verkregen baten.     
+c. andere langs wettige weg verkregen baten.   
 
 ####Organen van de stichting
 
@@ -71,7 +71,7 @@ a. de directie, als bedoeld in artikel 5;
 
 b. de raad van toezicht, als bedoeld in artikel 10;  
 
-c. het bureau, als bedoeld in artikel 13.    
+c. het bureau, als bedoeld in artikel 13.   
 
 ####Directie: samenstelling, benoeming en ontslag
 
@@ -101,7 +101,7 @@ f. door zijn ontslag verleend door de minister;
 g. door het aanvaarden van een benoeming tot lid van de raad van toezicht;  
 
 h. door het aanvaarden van een benoeming tot directeur dan wel bestuurder of tot lid van een toezichthoudend orgaan van een instelling op het gebied van de letteren, voor welke benoeming door de raad van toezicht geen ontheffing is verleend.     
-9.  De raad van toezicht stelt de bezoldiging en verdere arbeidsvoorwaarden van de directeur vast.   
+9.  De raad van toezicht stelt de bezoldiging en verdere arbeidsvoorwaarden van de directeur vast.  
 
 ####Directie: taak en bevoegdheden
 
@@ -124,7 +124,7 @@ b. een voortschrijdend meerjaren beleidsplan;
 c. een plan inzake een adequaat risicobeheersings- en controlesysteem;  
 
 d. eventuele andere plannen als van tijd tot tijd door de raad van toezicht te bepalen.     
-10.  De plannen behoeven de goedkeuring van de raad van toezicht.   
+10.  De plannen behoeven de goedkeuring van de raad van toezicht. 
 
 ####Directie: vertegenwoordiging; tegenstrijdig belang
 
@@ -134,13 +134,13 @@ d. eventuele andere plannen als van tijd tot tijd door de raad van toezicht te b
 2.  In geval er twee directieleden zijn, komt de vertegenwoordigingsbevoegdheid ook aan ieder directielid individueel toe.   
 3.  De directie kan functionarissen met algemene of beperkte vertegenwoordigingsbevoegdheid aanstellen. Ieder van hen vertegenwoordigt de stichting met inachtneming van de begrenzing aan zijn bevoegdheid gesteld. De titulatuur van deze functionarissen wordt door de directie bepaald.   
 4.  Bij ontstentenis van alle directieleden en functionarissen als bedoeld in het vorige artikellid vertegenwoordigt de raad van toezicht de stichting.   
-5.  In alle gevallen waarin de stichting een tegenstrijdig belang heeft met een of meerdere directieleden, blijft het bepaalde in het eerste tot en met het derde lid van dit artikel onverkort van kracht. Een besluit van de directie tot het verrichten van een rechtshandeling die een tegenstrijdig belang met één of meer directieleden in privé betreft, is onderworpen aan de goedkeuring van de raad van toezicht, maar het ontbreken van zodanige goedkeuring tast de vertegenwoordigingsbevoegdheid van de directie of het directielid niet aan.   
+5.  In alle gevallen waarin de stichting een tegenstrijdig belang heeft met een of meerdere directieleden, blijft het bepaalde in het eerste tot en met het derde lid van dit artikel onverkort van kracht. Een besluit van de directie tot het verrichten van een rechtshandeling die een tegenstrijdig belang met één of meer directieleden in privé betreft, is onderworpen aan de goedkeuring van de raad van toezicht, maar het ontbreken van zodanige goedkeuring tast de vertegenwoordigingsbevoegdheid van de directie of het directielid niet aan. 
 
 ####Verlenen van subsidie
 
 ### Artikel  8  
 
-De directie beslist over het verlenen van subsidie of andere vormen van ondersteuning met inachtneming van een of meerdere reglementen met daarin de besluitvorming, de werkwijze, de procedures, de criteria voor het verstrekken van subsidies of andere vormen van ondersteuning en de verplichtingen die aan de ontvanger worden opgelegd als bedoeld in artikel 15.  
+De directie beslist over het verlenen van subsidie of andere vormen van ondersteuning met inachtneming van een of meerdere reglementen met daarin de besluitvorming, de werkwijze, de procedures, de criteria voor het verstrekken van subsidies of andere vormen van ondersteuning en de verplichtingen die aan de ontvanger worden opgelegd als bedoeld in artikel 15. 
 
 ####Goedkeuring besluiten van de directie
 
@@ -177,7 +177,7 @@ m. de beëindiging van de dienstbetrekking van een aanmerkelijk aantal (minimaal
 n. de aanvraag van faillissement en van surseance van betaling van de stichting.     
 2.  De raad van toezicht kan bepalen dat een in het eerste lid bedoeld besluit, evenwel met uitzondering van het vervreemden, verkrijgen of bezwaren van registergoederen, niet aan zijn goedkeuring is onderworpen, indien het daarmee gemoeide belang een door de raad van toezicht te bepalen en schriftelijk aan de directie op te geven waarde niet te boven gaat. Evenmin is een besluit aan de goedkeuring onderworpen wanneer dit voortvloeit uit een van de goedgekeurde plannen genoemd in artikel 6.9.   
 3.  De raad van toezicht is bevoegd ook andere besluiten dan die in het eerste lid zijn genoemd aan zijn goedkeuring te onderwerpen. Deze besluiten dienen duidelijk omschreven te worden en schriftelijk aan de directie te worden meegedeeld.   
-4.  Het ontbreken van goedkeuring van de raad van toezicht voor een besluit als bedoeld in dit artikel, evenwel met uitzondering ten aanzien van het vervreemden, verkrijgen of bezwaren van registergoederen, tast de vertegenwoordigingsbevoegdheid van de directie niet aan.   
+4.  Het ontbreken van goedkeuring van de raad van toezicht voor een besluit als bedoeld in dit artikel, evenwel met uitzondering ten aanzien van het vervreemden, verkrijgen of bezwaren van registergoederen, tast de vertegenwoordigingsbevoegdheid van de directie niet aan.  
 
 ####Raad van toezicht
 
@@ -204,7 +204,7 @@ e. doordat hij werknemer wordt van de stichting;
 
 f. door het aanvaarden van een benoeming tot directielid van de stichting;  
 
-g. bij ontslag verleend door de minister.     
+g. bij ontslag verleend door de minister.    
 
 ####Raad van toezicht: taak en bevoegdheden en besluitvorming
 
@@ -222,7 +222,7 @@ g. bij ontslag verleend door de minister.
 10.  De raad van toezicht kan in een vergadering alleen geldige besluiten nemen indien de meerderheid van de in functie zijnde leden ter vergadering aanwezig of vertegenwoordigd is.   
 11.  De vergaderingen van de raad van toezicht worden geleid door zijn voorzitter of diens plaatsvervanger. Bij hun afwezigheid wordt de voorzitter van de vergadering aangewezen door de in vergadering aanwezige leden van de raad van toezicht bij meerderheid van de uitgebrachte stemmen.   
 12.  Een lid van de raad van toezicht kan zich ter vergadering doen vertegenwoordigen door een schriftelijk gevolmachtigd ander lid. Een lid van de raad van toezicht kan ter vergadering slechts één ander lid vertegenwoordigen.   
-13.  De raad van toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de raad van toezicht alsmede regels omtrent zijn bezoldiging, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald.   
+13.  De raad van toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de raad van toezicht alsmede regels omtrent zijn bezoldiging, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald.  
 
 ####Gemeenschappelijke vergadering van directie en de leden van de raad van toezicht
 
@@ -230,29 +230,29 @@ g. bij ontslag verleend door de minister.
 
 1.  Ten minste vier maal per jaar komen de directie en de raad van toezicht in gemeenschappelijke vergadering bijeen ter bespreking van de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.   
 2.  De raad van toezicht vergadert telkenmale wanneer één van zijn leden dan wel de directie dit noodzakelijk acht.   
-3.  Tot bijeenroeping van een gemeenschappelijke vergadering zijn de directie en de voorzitter van de raad van toezicht gelijkelijk bevoegd.   
+3.  Tot bijeenroeping van een gemeenschappelijke vergadering zijn de directie en de voorzitter van de raad van toezicht gelijkelijk bevoegd.  
 
 ####Het Bureau
 
 ### Artikel  13  
 
-De directie laat zich voor het verrichten van de dagelijkse werkzaamheden bijstaan door het personeel van het bureau, waarvan de kosten ten laste komen van de stichting. Dit personeel wordt door de directie benoemd, geschorst en ontslagen.  
+De directie laat zich voor het verrichten van de dagelijkse werkzaamheden bijstaan door het personeel van het bureau, waarvan de kosten ten laste komen van de stichting. Dit personeel wordt door de directie benoemd, geschorst en ontslagen. 
 
 ####Nadere regelen
 
 ### Artikel  14  
 
-Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoudelijk reglement vast waarin in ieder geval wordt geregeld de benoeming, samenstelling en zittingstermijn van adviescolleges, alsmede de bezoldiging van adviescolleges.  
+Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoudelijk reglement vast waarin in ieder geval wordt geregeld de benoeming, samenstelling en zittingstermijn van adviescolleges, alsmede de bezoldiging van adviescolleges. 
 
 ####Subsidiereglementen
 
 ### Artikel  15  
 
 1.  Ten behoeve van het verlenen van subsidies stelt de directie één of meer subsidiereglementen vast waarin worden geregeld de werkwijze, de procedures en de criteria die de directie bij het beslissen op aanvragen voor bijdragen hanteert, alsmede de voorschriften die aan een toekenning van een subsidie worden verbonden.   
-2.  Een subsidiereglement mag niet met de wet of deze statuten in strijd zijn, met name niet met artikel 10 van de Wet op het specifiek cultuurbeleid,   
-3.  De directie is te allen tijde bevoegd een subsidiereglement te wijzigen of op te heffen, mits daarbij het bepaalde in dit artikel en het bepaalde in artikel 10 van de Wet op het specifiek cultuurbeleid in acht wordt genomen.   
+2.  Een subsidiereglement mag niet met de wet of deze statuten in strijd zijn, met name niet met [artikel 10 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),   
+3.  De directie is te allen tijde bevoegd een subsidiereglement te wijzigen of op te heffen, mits daarbij het bepaalde in dit artikel en het bepaalde in [artikel 10 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) in acht wordt genomen.   
 4.  Een subsidiereglement of wijziging daarvan behoeft de goedkeuring van de minister alvorens het in werking kan treden.   
-5.  De directie plaatst reglementen en wijzingen daarvan zo spoedig mogelijk na goedkeuring door de minister in de Staatscourant.   
+5.  De directie plaatst reglementen en wijzingen daarvan zo spoedig mogelijk na goedkeuring door de minister in de Staatscourant. 
 
 ####Boekjaar en jaarrekening
 
@@ -265,9 +265,9 @@ Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoude
 5.  De directie brengt jaarlijks verslag uit over de werkzaamheden van de stichting in het daaraan voorafgaande jaar en over het gevoerde beleid. In dit verslag, dat door de stichting openbaar wordt gemaakt, wordt een overzicht opgenomen van de verleende financiële steun, als bedoeld in artikel 8.   
 6.  In de reglementen van de directie en de raad van toezicht kunnen bepalingen opgenomen worden omtrent andere onderwerpen die in het verslag aan de orde dienen te komen.   
 7.  De jaarrekening wordt ondertekend door de directie en de voorzitter van de raad van toezicht. Ontbreekt de ondertekening van één of meer van hen, dan wordt daarvan onder opgave van reden melding gemaakt.   
-8.  De raad van toezicht verleent aan een accountant opdracht tot onderzoek van de jaarrekening en formuleert de opdracht daartoe. Het bepaalde in artikel 393 van Boek 2 van het Burgerlijk Wetboek is zoveel mogelijke van overeenkomstige toepassing.   
-9.  Onverminderd het bij of krachtens de Archiefwet 1995 gestelde is de directie verplicht de op papier gestelde jaarrekening, alsmede de hiervoor in het eerste lid bedoelde boeken, bescheiden en andere gegevensdragers gedurende zeven jaren te bewaren.   
-10.  De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde jaarrekening, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.   
+8.  De raad van toezicht verleent aan een accountant opdracht tot onderzoek van de jaarrekening en formuleert de opdracht daartoe. Het bepaalde in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is zoveel mogelijke van overeenkomstige toepassing.   
+9.  Onverminderd het bij of krachtens de [Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) gestelde is de directie verplicht de op papier gestelde jaarrekening, alsmede de hiervoor in het eerste lid bedoelde boeken, bescheiden en andere gegevensdragers gedurende zeven jaren te bewaren.   
+10.  De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde jaarrekening, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt. 
 
 ####Vaststelling en goedkeuring van de jaarrekening
 
@@ -275,7 +275,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoude
 
 1.  De directie stelt de jaarrekening vast en legt deze ter goedkeuring over aan de raad van toezicht.   
 2.  De raad van toezicht keurt de jaarrekening goed. De in dit lid bedoelde goedkeuring vindt niet plaats zolang de raad van toezicht niet met de in artikel 16.8 bedoelde accountant over diens bevindingen van gedachten heeft gewisseld.   
-3.  Na goedkeuring van de jaarrekening besluit de raad van toezicht omtrent het verlenen van kwijting aan de directie voor de uitoefening van diens taak, voor zover van die taakuitoefening blijkt uit de jaarrekening of uit informatie die anderszins voorafgaand aan de vaststelling van de jaarrekening aan de raad van toezicht is verstrekt. De reikwijdte van een verleende kwijting is onderworpen aan beperkingen op grond van de wet.   
+3.  Na goedkeuring van de jaarrekening besluit de raad van toezicht omtrent het verlenen van kwijting aan de directie voor de uitoefening van diens taak, voor zover van die taakuitoefening blijkt uit de jaarrekening of uit informatie die anderszins voorafgaand aan de vaststelling van de jaarrekening aan de raad van toezicht is verstrekt. De reikwijdte van een verleende kwijting is onderworpen aan beperkingen op grond van de wet.  
 
 ####Statutenwijziging
 
@@ -286,7 +286,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoude
 3.  Bij de oproeping tot de vergadering waarin een voorstel tot statutenwijziging zal worden gedaan, dient zulks steeds te worden vermeld. Tevens dient een afschrift van het voorstel, bevattende de woordelijke tekst van de voorgestelde wijziging, bij de oproeping te worden gevoegd. De termijn van de oproeping bedraagt ten minste twee weken.   
 4.  Een statutenwijziging treedt pas in werking nadat daarvan een notariële akte is opgemaakt. Ieder directielid is bevoegd de akte van statutenwijziging te doen verlijden.   
 5.  De directie is verplicht een authentiek afschrift van de wijziging van de gewijzigde statuten neer te leggen ten kantore van het handelsregister.   
-6.  De directie doet van de statutenwijziging zo spoedig mogelijk mededeling in de Staatscourant.   
+6.  De directie doet van de statutenwijziging zo spoedig mogelijk mededeling in de Staatscourant.  
 
 ####Ontbinding en vereffening
 
@@ -298,7 +298,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt de directie een huishoude
 4.  Voor zover de rechter geen andere vereffenaars heeft benoemd, worden de directieleden vereffenaars van het vermogen van de ontbonden stichting.   
 5.  De vereffenaars doen aan het handelsregister opgaaf van de ontbinding alsmede van hun optreden als zodanig.   
 6.  Bij het besluit tot ontbinding wordt, als onderdeel hiervan, de bestemming van het overschot na vereffening vastgesteld, welke bestemming zoveel mogelijk in overeenstemming is met het doel van de stichting. Dit besluit behoeft de goedkeuring van de minister. Tevens wordt, in overleg met de minister, een bewaarder voor de boeken, bescheiden en andere gegevensdragers van de ontbonden stichting aangewezen.   
-7.  Na ontbinding blijft de stichting voortbestaan voor zover dit tot de vereffening van haar vermogen nodig is. Gedurende de vereffening blijven de bepalingen van deze statuten zoveel mogelijk van kracht. In stukken en aankondigingen die van haar uitgaan, moeten aan de naam van de stichting worden toegevoegd de woorden “in liquidatie”.   
+7.  Na ontbinding blijft de stichting voortbestaan voor zover dit tot de vereffening van haar vermogen nodig is. Gedurende de vereffening blijven de bepalingen van deze statuten zoveel mogelijk van kracht. In stukken en aankondigingen die van haar uitgaan, moeten aan de naam van de stichting worden toegevoegd de woorden “in liquidatie”.  
 
 ####Overgangsbepaling
 
@@ -320,4 +320,4 @@ e. mevrouw M.H.M.H. Lopes Cardozo-Laane.
 4.  Voor de leden genoemd in lid 1.d. en e. geldt dat hun eerste termijn per een april tweeduizend veertien ingaat.   
 5.  De leden van het bestuur als bedoeld in lid 1.a., b. en c, alsmede mevrouw Y.R.C. van Oort en de heer P.F.M. de Jong worden per een april tweeduizend veertien als bestuurders van de stichting ontslagen.   
 6.  Bij de eerste benoemingen van leden van de raad van toezicht na een april tweeduizend veertien geldt het bepaalde in artikel 10.2.   
-7.  Als directielid wordt per een april tweeduizend veertien voor een periode van vijf jaar benoemd: de heer T.R.F.M. Perez.   
+7.  Als directielid wordt per een april tweeduizend veertien voor een periode van vijf jaar benoemd: de heer T.R.F.M. Perez. 

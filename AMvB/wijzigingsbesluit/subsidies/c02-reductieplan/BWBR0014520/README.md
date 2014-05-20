@@ -17,9 +17,9 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit subsidies CO2-reductieplan   
 
-### Artikel  II  
+###Artikel II 
 
-Artikel I geldt niet voor subsidies die zijn verstrekt voor de inwerkingtreding van dit besluit.  
+Artikel I geldt niet voor subsidies die zijn verstrekt voor de inwerkingtreding van dit besluit.
 
 ### Artikel  III  
 
@@ -37,4 +37,4 @@ J. G. Wijn
 de zesde februari 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

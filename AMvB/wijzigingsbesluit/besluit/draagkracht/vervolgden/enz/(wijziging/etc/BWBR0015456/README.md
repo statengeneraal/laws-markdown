@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het [Besluit draagkracht vervolgden](../../../../../../../../../AMvB/besluit/draagkracht/vervolgden/BWBR0002888/README.md).   
+Wijzigt het [Besluit draagkracht vervolgden](../../../../../../../../../AMvB/besluit/draagkracht/vervolgden/BWBR0002888/README.md).  
 
 ### Artikel  II  
 
-Wijzigt het [Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md).   
+Wijzigt het [Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md).  
 
 ### Artikel  III  
 
-Indien de draagkracht van een vervolgde of een burger-oorlogsslachtoffer voor 1 januari 2001 is bepaald en het recht op de tegemoetkoming op deze datum nog bestond, wordt de financiële draagkracht opnieuw bepaald. In afwijking van de eerste volzin van de [artikelen 2, tweede lid, van het Besluit draagkracht vervolgden](../../../../../../../../../AMvB/besluit/draagkracht/vervolgden/BWBR0002888/README.md) en het [Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md), wordt uitgegaan van het inkomen zoals dit is of zou worden berekend over de maand januari 2001. Bij het bepalen van de financiële draagkracht in de periode tussen 1 januari 2001 en het moment van inwerkingtreding van dit besluit wordt de in [artikel 3, tweede lid, van het Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md) genoemde vermindering op maandbasis van het vastgestelde inkomen afgetrokken.  
+Indien de draagkracht van een vervolgde of een burger-oorlogsslachtoffer voor 1 januari 2001 is bepaald en het recht op de tegemoetkoming op deze datum nog bestond, wordt de financiële draagkracht opnieuw bepaald. In afwijking van de eerste volzin van de [artikelen 2, tweede lid, van het Besluit draagkracht vervolgden](../../../../../../../../../AMvB/besluit/draagkracht/vervolgden/BWBR0002888/README.md) en het [Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md), wordt uitgegaan van het inkomen zoals dit is of zou worden berekend over de maand januari 2001. Bij het bepalen van de financiële draagkracht in de periode tussen 1 januari 2001 en het moment van inwerkingtreding van dit besluit wordt de in [artikel 3, tweede lid, van het Besluit draagkracht burger-oorlogsslachtoffers](../../../../../../../../../AMvB/besluit/draagkracht/burger-oorlogsslachtoffers/BWBR0003693/README.md) genoemde vermindering op maandbasis van het vastgestelde inkomen afgetrokken. 
 
 ### Artikel  IV  
 
@@ -41,4 +41,4 @@ C. I. J. M. Ross-van Dorp
 de zesentwintigste augustus 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

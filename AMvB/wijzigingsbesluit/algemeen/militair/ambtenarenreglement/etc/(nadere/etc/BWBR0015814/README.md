@@ -11,46 +11,46 @@ Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../../../..
 De Raad van State gehoord (advies van 25 september 2003, nr. W07.03.0342/II);
 
 Gezien het nader rapport van de Staatssecretaris van Defensie van 24 oktober 2003, nr. P/2003006977;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen.
 
-### Artikel  IV  
+###Artikel IV 
 
-Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.   
+Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.
 
-### Artikel  V  
+###Artikel V 
 
-Wijzigt het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit militairen.
 
-### Artikel  VI  
+###Artikel VI 
 
-De [Toelageregeling afschaffing tariefbeloning Defensie](../../../../../../../../../KB/besluit/van/21/februari/1983/BWBR0003574/README.md) wordt ingetrokken.  
+De [Toelageregeling afschaffing tariefbeloning Defensie](../../../../../../../../../KB/besluit/van/21/februari/1983/BWBR0003574/README.md) wordt ingetrokken.
 
-### Artikel  VII  
+###Artikel VII 
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-### Artikel  VIII  
+###Artikel VIII 
 
 ####Overgangsbepalingen
 
-A.  In afwijking van [artikel 15a, eerste lid, van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) bedraagt het percentage van de eindejaarsuitkering: 
+A. In afwijking van [artikel 15a, eerste lid, van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) bedraagt het percentage van de eindejaarsuitkering:
 
-a. voor de periode van 1 januari 2002 tot en met 31 december 2002: 1%.  
+a.voor de periode van 1 januari 2002 tot en met 31 december 2002: 1%.
 
-b. voor de periode van 1 januari 2003 tot en met 31 december 2003: 0,8%.     
-B.  In afwijking van artikel III, onderdeel D, worden in de [bijlagen A](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en [B van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 december 2002 tot en met 30 april 2003 het salarisbedrag van de vice-admiraal en luitenant-generaal bepaald op: € 8270,59 en het salarisbedrag van de luitenant-admiraal en generaal bepaald op: € 8816,11.   
+b.voor de periode van 1 januari 2003 tot en met 31 december 2003: 0,8%.
+B. In afwijking van artikel III, onderdeel D, worden in de [bijlagen A](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en [B van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 december 2002 tot en met 30 april 2003 het salarisbedrag van de vice-admiraal en luitenant-generaal bepaald op: € 8270,59 en het salarisbedrag van de luitenant-admiraal en generaal bepaald op: € 8816,11.
 
 ### Artikel  IX  
 
@@ -58,11 +58,11 @@ B.  In afwijking van artikel III, onderdeel D, worden in de [bijlagen A](../../.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat: 
 
-a. artikel II, onderdeel A, terugwerkt tot en met 1 januari 2003;  
+a. artikel II, onderdeel A, terugwerkt tot en met 1 januari 2003; 
 
-b. artikel II, onderdeel F, terugwerkt tot en met 1 juli 2003;  
+b. artikel II, onderdeel F, terugwerkt tot en met 1 juli 2003; 
 
-c. artikel III, onderdeel D, terugwerkt tot en met 1 mei 2003.    
+c. artikel III, onderdeel D, terugwerkt tot en met 1 mei 2003.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -71,7 +71,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Staatssecretaris van Defensie , 
-C. van der Knaap   
+C. van der  Knaap   
 
 de *negende* december 2003 
 

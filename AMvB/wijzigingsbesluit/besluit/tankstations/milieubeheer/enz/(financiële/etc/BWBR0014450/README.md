@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit tankstations milieubeheer.   
+Wijzigt het Besluit tankstations milieubeheer.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit opslaan in ondergrondse tanks 1998.   
+Wijzigt het Besluit opslaan in ondergrondse tanks 1998.  
 
 ### Artikel  III  
 
-Wijzigt het Besluit verplicht bodemonderzoek bedrijfsterreinen.   
+Wijzigt het Besluit verplicht bodemonderzoek bedrijfsterreinen.  
 
 ### Artikel  IV  
 
@@ -36,7 +36,7 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 
 a. de onderdelen C, E en H van artikel I, die in werking treden van ingang van 1 juli van het daarna volgende kalenderjaar;  
 
-b. onderdeel I van artikel I, dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.    
+b. onderdeel I van artikel I, dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -50,7 +50,7 @@ P. L. B. A. van Geel
 de vierentwintigste december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
 
 ####Bijlage bij Besluit van tot wijziging van het Besluit tankstations milieubeheer, het Besluit opslaan in ondergrondse tanks 1998 en het Besluit verplicht bodemonderzoek bedrijfsterreinen (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen), als bedoeld in Artikel I, onder F, onderdeel 14 
 
@@ -64,4 +64,4 @@ c. mag niet voorzien zijn van een vastzetinrichting.   4.1.13 In afwijking van v
 
 a. in een afgesloten en op voldoende wijze naar de buitenlucht geventileerde ruimte boven een vloeistofdichte bak of op een vloer die als vloeistofdichte bak is uitgevoerd, of  
 
-b. op een daartoe bestemde plaats in de buitenlucht die niet toegankelijk is voor onbevoegden, boven een vloeistofdichte bak, die op doelmatige wijze is beschermd tegen aanrijding.   4.2.4 De opvangcapaciteit van de in voorschrift 4.2.3 bedoelde vloeistofdichte bak moet ten minste gelijk zijn aan de maximale inhoud van de tank van de mobiele afleverinstallatie. 4.2.5 De mobiele afleverinstallatie mag alleen onder toezicht in bedrijf zijn. 4.2.6 Wanneer de inrichting geopend is en er toezicht aanwezig is moet een mobiele installatie op een vaste plaats in de buitenlucht zijn opgesteld. 4.2.7 Een duidelijk leesbaar bedieningsvoorschrift moet op de mobiele afleverinstallatie zijn aangebracht. 
+b. op een daartoe bestemde plaats in de buitenlucht die niet toegankelijk is voor onbevoegden, boven een vloeistofdichte bak, die op doelmatige wijze is beschermd tegen aanrijding.   4.2.4 De opvangcapaciteit van de in voorschrift 4.2.3 bedoelde vloeistofdichte bak moet ten minste gelijk zijn aan de maximale inhoud van de tank van de mobiele afleverinstallatie. 4.2.5 De mobiele afleverinstallatie mag alleen onder toezicht in bedrijf zijn. 4.2.6 Wanneer de inrichting geopend is en er toezicht aanwezig is moet een mobiele installatie op een vaste plaats in de buitenlucht zijn opgesteld. 4.2.7 Een duidelijk leesbaar bedieningsvoorschrift moet op de mobiele afleverinstallatie zijn aangebracht.  

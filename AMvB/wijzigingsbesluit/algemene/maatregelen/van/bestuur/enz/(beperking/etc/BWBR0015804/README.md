@@ -15,32 +15,33 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgaanspraken AWBZ.   
+Wijzigt het Besluit zorgaanspraken AWBZ.  
 
 ### Artikel  II  
 
-Wijzigt het Verstrekkingenbesluit ziekenfondsverzekering.   
+Wijzigt het Verstrekkingenbesluit ziekenfondsverzekering.  
 
 ### Artikel  III  
 
-Wijzigt het Vergoedingenbesluit particulier verzekerden.   
+Wijzigt het Vergoedingenbesluit particulier verzekerden.  
 
 ### Artikel  IV  
 
-Wijzigt het Besluit werkingssfeer WTG 1992.   
+Wijzigt het Besluit werkingssfeer WTG 1992.  
 
 ### Artikel  V  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Besluit werkingssfeer maximumtarieven WTG.   
+Wijzigt het Besluit werkingssfeer maximumtarieven WTG.  
 
 ### Artikel  VI  
 
-In afwijking van [artikel 8, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft de verzekerde die onmiddellijk voorafgaande aan de inwerkingtreding van dit artikel reeds was aangevangen met een psychotherapeutische behandeling nog aanspraak op ten hoogste dertig zittingen, tenzij eerder het maximum zoals dat gold tot dat tijdstip, is bereikt.  
+In afwijking van [artikel 8, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft de verzekerde die onmiddellijk voorafgaande aan de inwerkingtreding van dit artikel reeds was aangevangen met een psychotherapeutische behandeling nog aanspraak op ten hoogste dertig zittingen, tenzij eerder het maximum zoals dat gold tot dat tijdstip, is bereikt. 
 
 ### Artikel  VII  
 
 1.  De artikelen I, IV, V en VI treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  De artikelen II en III treden in werking met ingang van 1 januari 2004.   
+2.  De artikelen II en III treden in werking met ingang van 1 januari 2004.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -50,10 +51,10 @@ Beatrix
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+J. F.Hoogervorst   
 
 de achttiende november 2003 
 
 De 
 Minister van Justitie, 
-J. P. H.Donner  
+J. P. H. Donner     

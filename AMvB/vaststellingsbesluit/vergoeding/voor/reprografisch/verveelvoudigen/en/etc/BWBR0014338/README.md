@@ -16,11 +16,11 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De vergoeding, bedoeld in [artikel 16h van de Auteurswet](../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), bedraagt € 0,045 per gekopieerde pagina.   
-2.  In afwijking van het eerste lid bedraagt de vergoeding € 0,011 per gekopieerde pagina voor het reprografisch verveelvoudigen door andere onderwijsinstellingen dan instellingen die gericht zijn op het verzorgen van wetenschappelijk onderwijs en het verrichten van wetenschappelijk onderzoek.   
+2.  In afwijking van het eerste lid bedraagt de vergoeding € 0,011 per gekopieerde pagina voor het reprografisch verveelvoudigen door andere onderwijsinstellingen dan instellingen die gericht zijn op het verzorgen van wetenschappelijk onderwijs en het verrichten van wetenschappelijk onderzoek.  
 
 ### Artikel  2  
 
-De verplichting tot betaling van de vergoeding, bedoeld in het eerste artikel, rust op degene die de verveelvoudigingen vervaardigt of daartoe opdracht geeft.  
+De verplichting tot betaling van de vergoeding, bedoeld in het eerste artikel, rust op degene die de verveelvoudigingen vervaardigt of daartoe opdracht geeft. 
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ Degene die minder dan 50 000 reprografische verveelvoudigingen per jaar maakt, 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -42,4 +42,4 @@ J. P. H. Donner
 de derde december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

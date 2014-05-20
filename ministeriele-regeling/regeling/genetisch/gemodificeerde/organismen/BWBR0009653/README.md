@@ -4,7 +4,7 @@
 
 De Minister van Volkshuisvesting, Ruimtelijk Ordening en Milieubeheer,  
 Gelet op [artikel 24, derde lid van de Wet milieugevaarlijke stoffen](../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) en de artikelen 1, onderdeel h, 2, tweede lid, 3, tweede lid, 5, tweede lid, 6, eerste lid, 7, derde lid, 8, tweede lid, j° 7, [vijfde lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), van het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);
-Besluit:     
+Besluit:      
 ### Hoofdstuk  1  
 
 ####Definities en werkingssfeer
@@ -13,15 +13,15 @@ Besluit:
 
 ####Definities
 
-In deze regeling wordt verstaan onder:    *activiteiten met genetisch gemodificeerde organismen:*   vervaardiging van of handelingen met genetisch gemodificeerde organismen;     *Besluit:*   [Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);     *biologische inperking:*   eigenschappen van een organisme die de overleving en de verbreiding van dat organisme in het milieu beperken, of eigenschappen van een gastheer/vectorsysteem die de overdracht van de vector beperken;     *defect virus:*   replicatie-deficiënte vorm van een voor planten of dieren pathogeen virus dat zich uitsluitend met een helper(functie) kan vermenigvuldigen;     *Dienst Regelingen:*   Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Postbus 360, 9400 AJ Assen;     *donororganisme:*   organisme waaruit de in een gastheer te brengen of gebrachte erfelijke informatie, daaronder mede begrepen synthetisch nagemaakt erfelijk materiaal, oorspronkelijk afkomstig is;     *ecotroop muizenretrovirus:*   retrovirus dat uitsluitend cellen van muizen en ratten kan infecteren;     *fysische inperking:*   voorzieningen aangebracht aan werkruimten, installaties en apparatuur, waardoor verspreiding van organismen daaronder begrepen genetisch gemodificeerde organismen wordt tegengegaan;     *fysisch inperkend systeem:*   inperkende apparatuur voor kweek of fermentatie en downstream processing in procesinstallaties dan wel het samenste van een ingeperkte werkruimte met de zich daarin bevindende apparatuur voor kweek en fermentatie en downstream processing in procesinstallaties;     *gastheerorganisme:*   organisme waaruit een genetisch gemodificeerd organisme wordt of is vervaardigd;     *handelingen met genetisch gemodificeerde organismen:*   activiteiten bestaande uit het vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen;     *inschaling:*   het toekennen op grond van een risico-analyse van een specifiek inperkingsniveau als bedoeld in bijlage 4;    insertie:  genetisch materiaal dat door middel van genetische modificatie aan het genetisch materiaal van de gastheer wordt of is toegevoegd;     *introductie in het milieu:*   activiteiten met een genetisch gemodificeerd organisme anders dan ingeperkt gebruik;     *micro-organisme van klasse 1:*   micro-organisme dat in ieder geval voldoet aan één van de volgende voorwaarden: 
+In deze regeling wordt verstaan onder:   *activiteiten met genetisch gemodificeerde organismen:*   vervaardiging van of handelingen met genetisch gemodificeerde organismen;    *Besluit:*   [Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);    *biologische inperking:*   eigenschappen van een organisme die de overleving en de verbreiding van dat organisme in het milieu beperken, of eigenschappen van een gastheer/vectorsysteem die de overdracht van de vector beperken;    *defect virus:*   replicatie-deficiënte vorm van een voor planten of dieren pathogeen virus dat zich uitsluitend met een helper(functie) kan vermenigvuldigen;    *Dienst Regelingen:*  Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Postbus 360, 9400 AJ Assen;    *donororganisme:*   organisme waaruit de in een gastheer te brengen of gebrachte erfelijke informatie, daaronder mede begrepen synthetisch nagemaakt erfelijk materiaal, oorspronkelijk afkomstig is;    *ecotroop muizenretrovirus:*   retrovirus dat uitsluitend cellen van muizen en ratten kan infecteren;    *fysische inperking:*   voorzieningen aangebracht aan werkruimten, installaties en apparatuur, waardoor verspreiding van organismen daaronder begrepen genetisch gemodificeerde organismen wordt tegengegaan;    *fysisch inperkend systeem:*   inperkende apparatuur voor kweek of fermentatie en downstream processing in procesinstallaties dan wel het samenste van een ingeperkte werkruimte met de zich daarin bevindende apparatuur voor kweek en fermentatie en downstream processing in procesinstallaties;    *gastheerorganisme:*   organisme waaruit een genetisch gemodificeerd organisme wordt of is vervaardigd;    *handelingen met genetisch gemodificeerde organismen:*   activiteiten bestaande uit het vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen;    *inschaling:*   het toekennen op grond van een risico-analyse van een specifiek inperkingsniveau als bedoeld in bijlage 4;    insertie:   genetisch materiaal dat door middel van genetische modificatie aan het genetisch materiaal van de gastheer wordt of is toegevoegd;    *introductie in het milieu:*   activiteiten met een genetisch gemodificeerd organisme anders dan ingeperkt gebruik;    *micro-organisme van klasse 1:*   micro-organisme dat in ieder geval voldoet aan één van de volgende voorwaarden: 
 
-a. het micro-organisme behoort niet tot een soort waarvan vertegenwoordigers bekend zijn die ziekteverwekkend zijn voor mens, dier of plant;  
+a.  het micro-organisme behoort niet tot een soort waarvan vertegenwoordigers bekend zijn die ziekteverwekkend zijn voor mens, dier of plant;  
 
-b. het micro-organisme heeft een lange historie van veilig gebruik onder omstandigheden waarbij geen bijzondere inperkende maatregelen worden getroffen;  
+b.  het micro-organisme heeft een lange historie van veilig gebruik onder omstandigheden waarbij geen bijzondere inperkende maatregelen worden getroffen;  
 
-c. het micro-organisme behoort tot een soort die vertegenwoordigers bevat van klasse 2, 3 of 4, maar de stam in kwestie bevat geen genetisch materiaal dat verantwoordelijk is voor de virulentie;  
+c.  het micro-organisme behoort tot een soort die vertegenwoordigers bevat van klasse 2, 3 of 4, maar de stam in kwestie bevat geen genetisch materiaal dat verantwoordelijk is voor de virulentie;  
 
-d. van het micro-organisme is het niet-virulente karakter middels adequate tests aangetoond;       *micro-organisme van klasse 2:*   micro-organisme dat bij mensen een ziekte kan veroorzaken, waarvan het onwaarschijnlijk is dat het zich onder de bevolking verspreidt, terwijl er een effectieve profylaxe, behandeling of bestrijding bestaat, alsmede een micro-organisme dat bij planten of dieren een ziekte kan veroorzaken;     *micro-organisme van klasse 3:*   micro-organisme dat bij mensen een ernstige ziekte kan veroorzaken, waarvan het waarschijnlijk is dat die zich onder de bevolking verspreidt, terwijl er een effectieve profylaxe, behandeling of bestrijding bestaat;     *micro-organisme van klasse 4:*   micro-organisme dat bij mensen een zeer ernstige ziekte kan veroorzaken, waarvan het waarschijnlijk is dat het zich onder de bevolking verspreidt, terwijl er geen effectieve profylaxe, behandeling of bestrijding bestaat;     *Minister:*   Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;     *niet-permissief gastheer/vectorsysteem:*   gastheer/vectorsysteem dat gebruik maakt van een virale vector, en dat niet leidt tot de vorming van infectieuze virale partikels;     *shotgun experiment:*   vervaardiging van een genetisch gemodificeerd organisme waarbij sequenties worden gebruikt die geheel of gedeeltelijk bestaan uit niet-gekarakteriseerde genetische informatie;     *toxine van klasse T-1:*   toxine met een LD <sub>50</sub> voor vertebraten van 1 tot en met 100 microgram per kilogram lichaamsgewicht;     *toxine van klasse T-2:*   toxine met een LD <sub>50</sub> voor vertebraten van 100 nanogram tot en met 1 microgram per kilogram lichaamsgewicht;     *toxine van klasse T-3:*   toxine met een LD <sub>50</sub> voor vertebraten van 100 nanogram of minder per kilogram lichaamsgewicht;     *vector:*   DNA- of RNA-molecuul dat gebruikt wordt om genetisch materiaal aan een gastheer toe te voegen;     *vergunninghouder:*   de natuurlijke persoon of rechtspersoon aan wie krachtens het Besluit een vergunning is verleend;     *vervaardiging van genetisch gemodificeerde organismen:*   activiteiten die tot doel of tot gevolg hebben dat één of meerdere genetisch gemodificeerde organismen ontstaan;     *virale vector:*   vector die nucleïnezuursequenties bevat afkomstig van een voor plantaardige of dierlijke cellen infectieus virus, en die dat genetisch materiaal aan eukaryote cellen kan toevoegen, met dien verstande dat de betrokken virale sequenties kunnen leiden tot replicatie van de vector of delen hiervan, of tot integratie van genetische informatie van de vector of delen hiervan in het genetisch materiaal van de cel;     *zelfklonering:*   verwijdering van genetisch materiaal uit een organisme, gevolgd door het terugbrengen van dit genetisch materiaal of van een deel daarvan, al dan niet in vitro, enzymatisch, chemisch of mechanisch bewerkt, in cellen van hetzelfde organisme of van een nauw verwante soort die door natuurlijke fysiologische processen chromosomaal DNA kan uitwisselen met het eerstgenoemde organisme.     
+d.  van het micro-organisme is het niet-virulente karakter middels adequate tests aangetoond;      *micro-organisme van klasse 2:*   micro-organisme dat bij mensen een ziekte kan veroorzaken, waarvan het onwaarschijnlijk is dat het zich onder de bevolking verspreidt, terwijl er een effectieve profylaxe, behandeling of bestrijding bestaat, alsmede een micro-organisme dat bij planten of dieren een ziekte kan veroorzaken;    *micro-organisme van klasse 3:*   micro-organisme dat bij mensen een ernstige ziekte kan veroorzaken, waarvan het waarschijnlijk is dat die zich onder de bevolking verspreidt, terwijl er een effectieve profylaxe, behandeling of bestrijding bestaat;    *micro-organisme van klasse 4:*   micro-organisme dat bij mensen een zeer ernstige ziekte kan veroorzaken, waarvan het waarschijnlijk is dat het zich onder de bevolking verspreidt, terwijl er geen effectieve profylaxe, behandeling of bestrijding bestaat;    *Minister:*   Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    *niet-permissief gastheer/vectorsysteem:*   gastheer/vectorsysteem dat gebruik maakt van een virale vector, en dat niet leidt tot de vorming van infectieuze virale partikels;    *shotgun experiment:*   vervaardiging van een genetisch gemodificeerd organisme waarbij sequenties worden gebruikt die geheel of gedeeltelijk bestaan uit niet-gekarakteriseerde genetische informatie;    *toxine van klasse T-1:*   toxine met een LD<sub>50</sub> voor vertebraten van 1 tot en met 100 microgram per kilogram lichaamsgewicht;    *toxine van klasse T-2:*   toxine met een LD<sub>50</sub> voor vertebraten van 100 nanogram tot en met 1 microgram per kilogram lichaamsgewicht;    *toxine van klasse T-3:*   toxine met een LD<sub>50</sub> voor vertebraten van 100 nanogram of minder per kilogram lichaamsgewicht;    *vector:*   DNA- of RNA-molecuul dat gebruikt wordt om genetisch materiaal aan een gastheer toe te voegen;    *vergunninghouder:*   de natuurlijke persoon of rechtspersoon aan wie krachtens het Besluit een vergunning is verleend;    *vervaardiging van genetisch gemodificeerde organismen:*   activiteiten die tot doel of tot gevolg hebben dat één of meerdere genetisch gemodificeerde organismen ontstaan;    *virale vector:*   vector die nucleïnezuursequenties bevat afkomstig van een voor plantaardige of dierlijke cellen infectieus virus, en die dat genetisch materiaal aan eukaryote cellen kan toevoegen, met dien verstande dat de betrokken virale sequenties kunnen leiden tot replicatie van de vector of delen hiervan, of tot integratie van genetische informatie van de vector of delen hiervan in het genetisch materiaal van de cel;    *zelfklonering:*   verwijdering van genetisch materiaal uit een organisme, gevolgd door het terugbrengen van dit genetisch materiaal of van een deel daarvan, al dan niet in vitro, enzymatisch, chemisch of mechanisch bewerkt, in cellen van hetzelfde organisme of van een nauw verwante soort die door natuurlijke fysiologische processen chromosomaal DNA kan uitwisselen met het eerstgenoemde organisme.     
 
 ### Artikel  1a  
 
@@ -33,7 +33,7 @@ De fysische barrières of een combinatie van fysische met chemische of biologisc
 
 ####Ingeperkt gebruik
 
-### §  2.1  
+###§ 2.1 
 
 ####Indelingen van activiteiten in categorieën en van organismen in groepen
 
@@ -43,9 +43,9 @@ De fysische barrières of een combinatie van fysische met chemische of biologisc
 
 Activiteiten die op andere dan de gronden, bedoeld in de [bijlage I, onder C, onder 21.1, onder a, onder 2°, van het Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), gelden als kleinschalig, zijn: 
 
-a. onderzoeks- en ontwikkelingstoepassingen in procesinstallaties die een volume van 5000 liter niet overschrijden; of  
+a.  onderzoeks- en ontwikkelingstoepassingen in procesinstallaties die een volume van 5000 liter niet overschrijden; of  
 
-b. activiteiten waarvan de Minister heeft vastgesteld dat deze kleinschalig zijn.    
+b.  activiteiten waarvan de Minister heeft vastgesteld dat deze kleinschalig zijn.    
 
 ### Artikel  3  
 
@@ -59,7 +59,7 @@ b. de vectoren die zijn opgenomen in bijlage 2.1 of de vectoren waarvan de Minis
 
 c. de gastheer/vectorsystemen die zijn opgenomen in bijlage 3, en  
 
-d. de insertie of inserties, voor zover zij niet behoren tot een vector of gastheer/vectorsysteem, als bedoeld in onderdeel b respectievelijk c, en die geen sequenties bevatten als vermeld in bijlage 2, onder 2.2.    
+d. de insertie of inserties, voor zover zij niet behoren tot een vector of gastheer/vectorsysteem, als bedoeld in onderdeel b respectievelijk c, en die geen sequenties bevatten als vermeld in bijlage 2, onder 2.2.   
 
 ### Artikel  3a  
 
@@ -70,9 +70,9 @@ d. de insertie of inserties, voor zover zij niet behoren tot een vector of gasth
 a. de gastheer, vector of vectoren en de insertie of inserties waaruit het is samengesteld, gastheer, vectoren en inserties zijn als bedoeld in artikel 3, onder respectievelijk a, b en d, dan wel  
 
 b. het genetisch gemodificeerde organisme is samengesteld uit een gastheer/vectorsysteem en een of meer inserties, als bedoeld in artikel 3, onder c respectievelijk d.     
-2.  Een genetisch gemodificeerd organisme dat behoort tot groep I en dat als gastheer wordt gebruikt, wordt voor de toepassing van artikel 3 en het eerste lid gelijkgesteld met een gastheer als bedoeld in artikel 3, onder a.   
+2.  Een genetisch gemodificeerd organisme dat behoort tot groep I en dat als gastheer wordt gebruikt, wordt voor de toepassing van artikel 3 en het eerste lid gelijkgesteld met een gastheer als bedoeld in artikel 3, onder a.  
 
-### §  2.2  
+###§ 2.2 
 
 ####Interne organisatie, procedures en administratie
 
@@ -83,29 +83,29 @@ b. het genetisch gemodificeerde organisme is samengesteld uit een gastheer/vecto
 1.  De vergunninghouder voorziet in de aanstelling van één of meer door de Minister toegelaten biologische-veiligheidsfunctionarissen.   
 2.  De vergunninghouder belast de biologische-veiligheidsfunctionaris met: 
 
-a. het doen opstellen en wijzigen van nadere interne procedures en voorschriften ter uitwerking van de wettelijke bepalingen voor het veilig werken met genetisch gemodificeerde organismen;  
+a.  het doen opstellen en wijzigen van nadere interne procedures en voorschriften ter uitwerking van de wettelijke bepalingen voor het veilig werken met genetisch gemodificeerde organismen;  
 
-b. het uitoefenen van interne controle op de naleving van de wettelijke bepalingen, alsmede de procedures en voorschriften, bedoeld onder a;  
+b.  het uitoefenen van interne controle op de naleving van de wettelijke bepalingen, alsmede de procedures en voorschriften, bedoeld onder a;  
 
-c. het optreden bij incidenten, ongevallen en schendingen van de geldende regels;  
+c.  het optreden bij incidenten, ongevallen en schendingen van de geldende regels;  
 
-d. de evaluatie en rapportage over onderdeel c, aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid;  
+d.  de evaluatie en rapportage over onderdeel c, aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid;  
 
-e. het geven van interne voorlichting over biologische veiligheid; en  
+e.  het geven van interne voorlichting over biologische veiligheid; en  
 
-f. het onverwijld melden aan de vergunninghouder van situaties, waarbij een risico voor mens of milieu aanwezig kan zijn.     
+f.  het onverwijld melden aan de vergunninghouder van situaties, waarbij een risico voor mens of milieu aanwezig kan zijn.     
 3.  De vergunninghouder draagt zorg voor de uitvoering van de taken, genoemd in het tweede lid, geeft de biologische-veiligheidsfunctionaris daartoe instructies en verschaft hem tenminste de volgende bevoegdheden die nodig zijn voor het uitoefenen van de taken, genoemd in dit hoofdstuk: 
 
-a. de bevoegdheid om te allen tijde alle ruimten en plaatsen die tot de inrichting behoren te betreden, alsmede inzage te hebben in alle daar aanwezige schriftelijke bescheiden;  
+a.  de bevoegdheid om te allen tijde alle ruimten en plaatsen die tot de inrichting behoren te betreden, alsmede inzage te hebben in alle daar aanwezige schriftelijke bescheiden;  
 
-b. de bevoegdheid om zelfstandig en direct op te treden in noodsituaties, waarvan direct melding aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, wordt gedaan.     
+b.  de bevoegdheid om zelfstandig en direct op te treden in noodsituaties, waarvan direct melding aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, wordt gedaan.     
 4.  De vergunninghouder verschaft elke biologische-veiligheidsfunctionaris een zodanig onafhankelijke positie dat: 
 
-a. deze voor de uitoefening van zijn functie rechtstreeks kan rapporteren aan de vergunninghouder;  
+a.  deze voor de uitoefening van zijn functie rechtstreeks kan rapporteren aan de vergunninghouder;  
 
-b. onafhankelijk is ten opzichte van degene wiens activiteiten hij controleert; en  
+b.  onafhankelijk is ten opzichte van degene wiens activiteiten hij controleert; en  
 
-c. deze niet tevens optreedt als verantwoordelijk medewerker als bedoeld in artikel 4a, eerste lid.     
+c.  deze niet tevens optreedt als verantwoordelijk medewerker als bedoeld in artikel 4a, eerste lid.     
 5.  Een biologische-veiligheidsfunctionaris moet zijn dagelijkse werkzaamheden uitvoeren binnen de instelling waar hij als biologische-veiligheidsfunctionaris optreedt.   
 
 ### Artikel  4a  
@@ -121,35 +121,35 @@ c. deze niet tevens optreedt als verantwoordelijk medewerker als bedoeld in arti
 
 1.  De vergunninghouder voorziet in het opstellen van procedures voor: 
 
-a. de onverwijlde interne melding aan de biologische-veiligheidsfunctionaris van afwijkingen van de wettelijke voorschriften en de daarop gebaseerde interne procedures; en  
+a.  de onverwijlde interne melding aan de biologische-veiligheidsfunctionaris van afwijkingen van de wettelijke voorschriften en de daarop gebaseerde interne procedures; en  
 
-b. het onverwijld melden aan de Minister van situaties waarbij mogelijk ernstig risico voor mens en milieu is ontstaan.     
+b.  het onverwijld melden aan de Minister van situaties waarbij mogelijk ernstig risico voor mens en milieu is ontstaan.     
 2.  De vergunninghouder voorziet in het opstellen van procedures voor: 
 
-a. het uitoefenen van de interne controle op de naleving van de relevante wettelijke voorschriften en de daarop gebaseerde interne procedures;  
+a.  het uitoefenen van de interne controle op de naleving van de relevante wettelijke voorschriften en de daarop gebaseerde interne procedures;  
 
-b. de wijze van optreden bij incidenten, ongevallen en afwijkingen van de geldende regels, alsmede de evaluatie en rapportage hierover aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid;  
+b.  de wijze van optreden bij incidenten, ongevallen en afwijkingen van de geldende regels, alsmede de evaluatie en rapportage hierover aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid;  
 
-c. het indienen respectievelijk wijzigen van een kennisgeving;  
+c.  het indienen respectievelijk wijzigen van een kennisgeving;  
 
-d. het beoordelen van de vakbekwaamheid van medewerkers met betrekking tot het veilig werken met genetisch gemodificeerde organismen, waarbij, voor zover nodig, nadere instructie of scholing van de medewerkers wordt voorgeschreven; en  
+d.  het beoordelen van de vakbekwaamheid van medewerkers met betrekking tot het veilig werken met genetisch gemodificeerde organismen, waarbij, voor zover nodig, nadere instructie of scholing van de medewerkers wordt voorgeschreven; en  
 
-e. de beoordeling en goedkeuring door de biologische-veiligheidsfunctionaris van interne procedures en veiligheidsvoorschriften als bedoeld in artikel 4, en wijzigingen daarvan, die door de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, zijn opgesteld.     
+e.  de beoordeling en goedkeuring door de biologische-veiligheidsfunctionaris van interne procedures en veiligheidsvoorschriften als bedoeld in artikel 4, en wijzigingen daarvan, die door de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, zijn opgesteld.     
 3.  De vergunninghouder voorziet in het opstellen van veiligheidsvoorschriften voor: 
 
-a. de wijze van inactivering van genetisch gemodificeerde organismen en de wijze van ontsmetting van materiaal dat met genetisch gemodificeerde organismen in aanraking is geweest;  
+a.  de wijze van inactivering van genetisch gemodificeerde organismen en de wijze van ontsmetting van materiaal dat met genetisch gemodificeerde organismen in aanraking is geweest;  
 
 b. het opslaan en het ter onmiddellijke verbranding aan een verbrandingsinstallatie aanbieden van afval dat genetisch gemodificeerde organismen bevat of kan bevatten als bedoeld in bijlage 8;  
 
-c. het schoonhouden en ontsmetten van de werkruimte en apparatuur;  
+c.  het schoonhouden en ontsmetten van de werkruimte en apparatuur;  
 
-d. de wijze waarop de reinheid dan wel de juiste identiteit van gebruikte micro-organismen en de bij de constructie van genetisch gemodificeerde organismen gebruikte nucleïnezuurpreparaten worden gegarandeerd;  
+d.  de wijze waarop de reinheid dan wel de juiste identiteit van gebruikte micro-organismen en de bij de constructie van genetisch gemodificeerde organismen gebruikte nucleïnezuurpreparaten worden gegarandeerd;  
 
-e. de bij incidenten en ongevallen te nemen maatregelen;  
+e.  de bij incidenten en ongevallen te nemen maatregelen;  
 
-f. het testen van de goede werking en het onderhoud van de gebruikte inperkingsapparatuur; en  
+f.  het testen van de goede werking en het onderhoud van de gebruikte inperkingsapparatuur; en  
 
-g. de regeling van de toegang tot de werkruimten.     
+g.  de regeling van de toegang tot de werkruimten.     
 
 ### Artikel  6  
 
@@ -157,60 +157,60 @@ g. de regeling van de toegang tot de werkruimten.
 
 1.  De vergunninghouder voorziet in een op één plaats binnen de inrichting gehouden toegankelijke administratie, waarin tenminste zijn opgenomen: 
 
-a. de op schrift gestelde aanstellingen, aanwijzingen, bevoegdheden, instructies, procedures en voorschriften als bedoeld in de artikelen 4, 4a en 5;  
+a.  de op schrift gestelde aanstellingen, aanwijzingen, bevoegdheden, instructies, procedures en voorschriften als bedoeld in de artikelen 4, 4a en 5;  
 
-b. een actuele plattegrond van de inrichting waarbij is aangegeven: 
+b.  een actuele plattegrond van de inrichting waarbij is aangegeven: 
 
 1º de werkruimten waar met genetisch gemodificeerde organismen mag worden gewerkt onder vermelding van het inperkingsniveau van die ruimten; en  
 
 2º de plaatsen waar genetisch gemodificeerde organismen buiten die werkruimten worden opgeslagen onder vermelding van de wijze van opslag;    
 
-c. de resultaten van een periodieke inventarisatie, uitgevoerd over de gehele inrichting, van de organisatie-onderdelen die activiteiten met genetisch gemodificeerde organismen uitvoeren;  
+c.  de resultaten van een periodieke inventarisatie, uitgevoerd over de gehele inrichting, van de organisatie-onderdelen die activiteiten met genetisch gemodificeerde organismen uitvoeren;  
 
-d. de resultaten van de controle op de uitvoering van de procedures voor indienen of wijzigen van kennisgevingen, bedoeld in artikel 5, tweede lid, onder c;  
+d.  de resultaten van de controle op de uitvoering van de procedures voor indienen of wijzigen van kennisgevingen, bedoeld in artikel 5, tweede lid, onder c;  
 
-e. gegevens, onder vermelding van de datum, betreffende: 
+e.  gegevens, onder vermelding van de datum, betreffende: 
 
-1º de uitvoering van de interne controle, bedoeld in artikel 5, tweede lid, onder a; en  
+1º  de uitvoering van de interne controle, bedoeld in artikel 5, tweede lid, onder a; en  
 
 2º incidenten, ongevallen en schendingen van de geldende regels, bedoeld in artikel 5, eerste lid en tweede lid, onder b, alsmede de evaluatie en rapportage daarvan aan de vergunninghouder en de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid; en    
 
-f. een overzicht van de in de inrichting bijgehouden administratieve gegevens als bedoeld in het tweede lid onder vermelding van de ruimte waar deze gegevens zich bevinden.     
+f.  een overzicht van de in de inrichting bijgehouden administratieve gegevens als bedoeld in het tweede lid onder vermelding van de ruimte waar deze gegevens zich bevinden.     
 2.  De vergunninghouder voorziet in het bijhouden van actuele en inzichtelijke administratieve gegevens, betreffende: 
 
-a. de voorhanden zijnde genetisch gemodificeerde organismen, per genetisch gemodificeerd organisme of groep van genetisch gemodificeerde organismen inhoudende tenminste de volgende gegevens: 
+a.  de voorhanden zijnde genetisch gemodificeerde organismen, per genetisch gemodificeerd organisme of groep van genetisch gemodificeerde organismen inhoudende tenminste de volgende gegevens: 
 
-1º de gastheren die zijn gebruikt, met de namen waaronder de van de gastheren afgeleide genetisch gemodificeerde organismen bekend zijn;  
+1º  de gastheren die zijn gebruikt, met de namen waaronder de van de gastheren afgeleide genetisch gemodificeerde organismen bekend zijn;  
 
 2º het genetisch materiaal dat is gebruikt bij de vervaardiging van het genetisch gemodificeerde organisme en een omschrijving van de samenstellende delen onder vermelding van de donoren;  
 
 3º indien het een genetisch gemodificeerd organisme van groep I betreft, waarvan uitsluitend een verslag wordt bijgehouden: onder vermelding van ’groep I’, de functie of functies van de geïnserteerde genen; en  
 
-4º indien het een genetisch gemodificeerd organisme betreft waarvan kennisgeving is gedaan: het nummer dat de Minister aan de betreffende kennisgeving heeft gegeven;    
+4º  indien het een genetisch gemodificeerd organisme betreft waarvan kennisgeving is gedaan: het nummer dat de Minister aan de betreffende kennisgeving heeft gegeven;    
 
-b. relevante gegevens van de medewerkers die activiteiten met genetisch gemodificeerde organismen verrichten, waarbij per medewerker tenminste de volgende informatie wordt vastgelegd: 
+b.  relevante gegevens van de medewerkers die activiteiten met genetisch gemodificeerde organismen verrichten, waarbij per medewerker tenminste de volgende informatie wordt vastgelegd: 
 
 1º naam;  
 
-2º relevante opleiding, training en ervaring;  
+2º  relevante opleiding, training en ervaring;  
 
 3º de inperkingsniveaus van de projecten waarbij de medewerker betrokken is; en  
 
-4º een door de biologische-veiligheidsfunctionaris getekende verklaring voor welke functie(s) en activiteiten met genetisch gemodificeerde organismen de medewerker vakbekwaam wordt geacht;    
+4º  een door de biologische-veiligheidsfunctionaris getekende verklaring voor welke functie(s) en activiteiten met genetisch gemodificeerde organismen de medewerker vakbekwaam wordt geacht;    
 
-c. een lijst met de namen van andere personen dan bedoeld onder b, die activiteiten met genetisch gemodificeerde organismen verrichten, onder vermelding van de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, onder wiens dagelijkse leiding zij de activiteiten verrichten en de periode gedurende welke zij in de inrichting werkzaam zijn;  
+c.  een lijst met de namen van andere personen dan bedoeld onder b, die activiteiten met genetisch gemodificeerde organismen verrichten, onder vermelding van de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, onder wiens dagelijkse leiding zij de activiteiten verrichten en de periode gedurende welke zij in de inrichting werkzaam zijn;  
 
-d. de vastlegging van de data en resultaten van de uitvoering van de voorschriften, bedoeld in artikel 5, derde lid, onder e en g;  
+d.  de vastlegging van de data en resultaten van de uitvoering van de voorschriften, bedoeld in artikel 5, derde lid, onder e en g;  
 
-e. de werkprotocollen die door de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, zijn opgesteld;  
+e.  de werkprotocollen die door de verantwoordelijk medewerker, bedoeld in artikel 4a, eerste lid, zijn opgesteld;  
 
-f. een overzicht per werkruimte van de nummers van de vergunningen die betrekking hebben op de activiteiten die in de ruimte worden uitgevoerd;  
+f.  een overzicht per werkruimte van de nummers van de vergunningen die betrekking hebben op de activiteiten die in de ruimte worden uitgevoerd;  
 
-g. een overzicht, gegroepeerd per opslagfaciliteit, van opgeslagen genetisch gemodificeerde organismen; en  
+g.  een overzicht, gegroepeerd per opslagfaciliteit, van opgeslagen genetisch gemodificeerde organismen; en  
 
-h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organismen bevat of kan bevatten als bedoeld in bijlage 8, onder 8.1.d, 8.2.d, 8.3.d en 8.4.d.     
+h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organismen bevat of kan bevatten als bedoeld in bijlage 8, onder 8.1.d, 8.2.d, 8.3.d en 8.4.d.    
 
-### §  2.3  
+###§ 2.3 
 
 ####Inschalingen
 
@@ -218,26 +218,26 @@ h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organism
 
 ####Activiteiten met genetisch gemodificeerde organismen
 
-1.  Activiteiten met genetisch gemodificeerde organismen worden uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 4, voor de categorie van fysische inperking bepaald overeenkomstig de inschalingsregels, vermeld in bijlage 5, voor zover in de vergunning krachtens [§ 2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) voor de betrokken activiteiten niet anders is bepaald.   
+1.  Activiteiten met genetisch gemodificeerde organismen worden uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 4, voor de categorie van fysische inperking bepaald overeenkomstig de inschalingsregels, vermeld in bijlage 5, voor zover in de vergunning krachtens [§ 2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) voor de betrokken activiteiten niet anders is bepaald.    
 2.  Aan een vergunning krachtens [§ 2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) kunnen voorschriften worden verbonden die afwijken van de voorschriften, vermeld in bijlage 4, of van de uitkomst van de toepassing van de regels, bedoeld in bijlage 5, voor zover de betrokken activiteiten niet of minder goed met toepassing van die voorschriften of regels kunnen worden uitgevoerd of ingeschaald. Indien voorschriften als bedoeld in bijlage 4 of de regels, bedoeld in bijlage 5, ingevolge de eerste volzin niet van toepassing zijn op de in de vergunning krachtens § 2 van het Besluit bedoelde handelingen of activiteiten met betrekking tot een genetisch gemodificeerd organisme, worden die handelingen of activiteiten uitgevoerd in overeenstemming met de voorschriften die daaromtrent aan de vergunning zijn verbonden, en de overige in de vergunning opgenomen voorschriften.   
 3.  Bij een beschikking krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), kan een aanduiding worden aangegeven met het oog op de toepassing van bijlage 4 of bijlage 5.   
 4.  In beschikkingen krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), afgegeven voor de inwerkingtreding van de [regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juli 2010, nr. BJZ2010019151, tot wijziging van de Regeling genetisch gemodificeerde organismen (herziening lijst van micro-organismen in bijlage 1 en actualisering indeling handelingen in procesinstallaties)](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/genetisch/gemodificeerde/organismen/etc/BWBR0028026/README.md), wordt de aanduiding waarmee activiteiten van categorie ‘A’ of ‘A en B’ mogen worden uitgevoerd, gelezen als respectievelijk: 
 
 – ‘waarmee onder de voorwaarden, genoemd in bijlage 5, inschalingsartikel 5.7.2, handelingen op MI-II niveau of hoger mogen worden verricht’, en  
 
-– ‘waarmee onder de voorwaarden, genoemd in bijlage 5, inschalingsartikel 5.7.1, handelingen op MI-I niveau of hoger mogen worden verricht’.     
-5.  Voor de toepassing van bijlage 4 geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in een krachtens het [Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) verleend vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door de Minister – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.   
+– ‘waarmee onder de voorwaarden, genoemd in bijlage 5, inschalingsartikel 5.7.1, handelingen op MI-I niveau of hoger mogen worden verricht’.    
+5.  Voor de toepassing van bijlage 4 geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in een krachtens het [Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) verleend vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door de Minister – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.  
 
-### §  2.4  
+###§ 2.4 
 
 ####Overige bepalingen over ingeperkt gebruik
 
-### Artikel  8a  
+###Artikel 8a  
 
 1.  Degene die een inrichting drijft als bedoeld in [bijlage I, onder C, onder 21.1, van het Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) voldoet aan de voorschriften die zijn opgenomen in bijlage 4 bij deze regeling. Voor de toepassing van die bijlage geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in de vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door het bevoegd gezag in het kader van de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.   
-2.  De Minister kan nadere eisen stellen met betrekking tot de in bijlage 4 geregelde onderwerpen.   
-3.  De nadere eisen gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de nadere eisen worden nageleefd.   
-4.  De Minister kan de nadere eisen wijzigen of aanvullen in het belang van de bescherming van het milieu, of wijzigen of intrekken, indien het belang van de bescherming van het milieu zich daartegen niet verzet.   
+2.   De Minister kan nadere eisen stellen met betrekking tot de in bijlage 4 geregelde onderwerpen.   
+3.   De nadere eisen gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de nadere eisen worden nageleefd.   
+4.   De Minister kan de nadere eisen wijzigen of aanvullen in het belang van de bescherming van het milieu, of wijzigen of intrekken, indien het belang van de bescherming van het milieu zich daartegen niet verzet.  
 
 ### Artikel  9  
 
@@ -250,9 +250,9 @@ h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organism
 
 ####Wijziging van bestaande vergunningen
 
-In afwijking van het bepaalde in een vergunning verleend krachtens [§ 2.5 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) zijn op handelingen als bedoeld in bijlage 10 de voor die handelingen genoemde voorschriften met ingang van de datum van inwerkingtreding van deze regeling van toepassing.  
+In afwijking van het bepaalde in een vergunning verleend krachtens [§ 2.5 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) zijn op handelingen als bedoeld in bijlage 10 de voor die handelingen genoemde voorschriften met ingang van de datum van inwerkingtreding van deze regeling van toepassing. 
 
-### Hoofdstuk  3  
+###Hoofdstuk 3 
 
 ####Introductie in het milieu
 
@@ -277,7 +277,7 @@ e. het onverwijld melden aan de vergunninghouder van iedere wijziging van gegeve
 f. het beoordelen van de vakbekwaamheid van medewerkers met betrekking tot het veilig werken met genetisch gemodificeerde organismen in het milieu, waarbij, voor zover nodig, nadere instructie of scholing van de medewerkers wordt voorgeschreven; en  
 
 g. het zich verzekeren van de volledige zeggenschap over de werkzaamheden met genetisch gemodificeerde organismen.     
-4.  De milieuveiligheidsfunctionaris houdt bij klinische toepassingen een actuele plattegrond van de inrichting ter beschikking, waarop zijn aangegeven: 
+4.  De milieuveiligheidsfunctionaris houdt bij klinische toepassingen een actuele plattegrond van de inrichting ter beschikking, waarop zijn aangegeven:  
 
 1°. de werkruimten waarin met de genetisch gemodificeerde organismen wordt gewerkt, en  
 
@@ -294,7 +294,7 @@ a. deze voor de uitoefening van zijn functie rechtstreeks kan rapporteren aan de
 b. onafhankelijk is ten opzichte van degene wiens activiteiten hij controleert;  
 
 c. deze niet tevens optreedt als de persoon die verantwoordelijk is voor de uitvoering van de handelingen met de genetisch gemodificeerde organismen.     
-7.  Een milieuveiligheidsfunctionaris moet zijn aangesteld bij de instelling waarvoor hij taken uitvoert.   
+7.  Een milieuveiligheidsfunctionaris moet zijn aangesteld bij de instelling waarvoor hij taken uitvoert.  
 
 ### Artikel  12  
 
@@ -308,26 +308,26 @@ a. terinzagelegging;
 b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-huisbladen.     
 3.  De persoon of rechtspersoon die, of het samenwerkingsverband van personen of rechtspersonen dat genetisch gemodificeerde organismen waarvoor een vergunning als bedoeld in [paragraaf 3.3 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) is verleend, gaat telen, doet daarvan melding aan de Minister, door inzending van een formulier als bedoeld in [artikel 5d, tweede lid, van de Regeling administratieve verplichtingen Meststoffenwet](../../../../../../ministeriele-regeling/regeling/administratieve/verplichtingen/meststoffenwet/BWBR0009228/README.md), op te vragen bij de Dienst Regelingen, dat overeenkomstig de daarbij aangegeven wijze volledig en juist wordt ingevuld en ingediend bij de Dienst Regelingen.   
 4.  De melding, bedoeld in het derde lid, wordt uiterlijk dertig dagen na aanvang van de teelt gedaan.   
-5.  Het derde en vierde lid zijn van overeenkomstige toepassing op een wijziging van de gemelde gegevens.   
+5.  Het derde en vierde lid zijn van overeenkomstige toepassing op een wijziging van de gemelde gegevens.  
 
-### Artikel  13  
+###Artikel 13 
 
 ####Beschikkingen
 
-1.  Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 23c, eerste lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2003/701/EG van de Commissie van de Europese Gemeenschappen van 29 september 2003 (PbEU L 254).   
-2.  Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 24, eerste lid, onderdeel b](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 28, eerste lid, onderdeel b, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/623/EG van de Commissie van de Europese Gemeenschappen van 24 juli 2002 (PbEG L 200).   
-3.  Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 25, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 94/730/EG van de Commissie van de Europese Gemeenschappen van 4 november 1994 (PbEG L 292).   
-4.  Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel e](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 32, eerste lid, onderdeel f, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/811/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).   
-5.  Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel g, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/812/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).   
+1. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 23c, eerste lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2003/701/EG van de Commissie van de Europese Gemeenschappen van 29 september 2003 (PbEU L 254).
+2. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 24, eerste lid, onderdeel b](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 28, eerste lid, onderdeel b, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/623/EG van de Commissie van de Europese Gemeenschappen van 24 juli 2002 (PbEG L 200).
+3. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 25, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 94/730/EG van de Commissie van de Europese Gemeenschappen van 4 november 1994 (PbEG L 292).
+4. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel e](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 32, eerste lid, onderdeel f, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/811/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
+5. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel g, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/812/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
 
-### Hoofdstuk  4  
+###Hoofdstuk 4 
 
 ####Overige bepalingen
 
 ### Artikel  14  
 
 1.  Vervoer van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het [Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md) geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onder 1, bij deze regeling.   
-2.  Het vervoer van genetisch gemodificeerde organismen, niet zijnde micro-organismen, buiten een inrichting als bedoeld in het [Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onderdeel 2, bij deze regeling.   
+2.  Het vervoer van genetisch gemodificeerde organismen, niet zijnde micro-organismen, buiten een inrichting als bedoeld in het [Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onderdeel 2, bij deze regeling.  
 
 ### Artikel  15  
 
@@ -337,9 +337,9 @@ b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-
 2.  Een besluit dat is genomen onder de werking van de regeling, bedoeld in het eerste lid, wordt beheerst door de overeenkomstige bepalingen van deze regeling.   
 3.  Een persoon die is toegelaten als biologische-veiligheidsfunctionaris onder de werking van de regeling, bedoeld in het eerste lid, mag gedurende een periode van een jaar na de datum waarop deze regeling in werking treedt zonder een toelating als bedoeld in artikel 4, eerste lid, in die hoedanigheid blijven optreden.   
 
-### Artikel  15a  
+### Artikel 15a  
 
-Deze regeling berust op de [artikelen 8.40](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.41](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.1, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), juncto [21.6, zesde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en op de [artikelen 1, onderdeel h](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [2, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [3, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [5, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [6, eerste lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [7, derde lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [8, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), juncto [7, vijfde lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md).  
+Deze regeling berust op de [artikelen 8.40](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.41](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.1, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), juncto [21.6, zesde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en op de [artikelen 1, onderdeel h](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [2, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [3, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [5, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [6, eerste lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [7, derde lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [8, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), juncto [7, vijfde lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md).
 
 ### Artikel  16  
 
@@ -351,7 +351,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling genetisch gemodificeerde organismen.  
+Deze regeling wordt aangehaald als: Regeling genetisch gemodificeerde organismen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Bezoekadres: Rijnstraat 8, Den Haag.   
 
 ’s-Gravenhage 
@@ -359,9 +359,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-Margaretha deBoer   
+Margaretha deBoer    
 
-### Bijlage  1  
+###Bijlage 1  
 
 ####Gastheren die geschikt zijn voor de vervaardiging van genetisch gemodificeerde organismen die behoren tot groep I
 
@@ -3481,205 +3481,205 @@ B: de gastheer is geschikt voor de vervaardiging van een genetisch gemodificeerd
 | paucivorans  | A  |
 | raffinosivorans  | A  |
 
-### Bijlage  2  
+###Bijlage 2  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag. 
 
-### Bijlage  3  
+###Bijlage 3  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag. 
 
-### Bijlage  4  
+###Bijlage 4  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
-### Bijlage  4a  
+###Bijlage 4a  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeher te Den Haag.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeher te Den Haag. 
 
-### Bijlage  5  
+###Bijlage 5  
 
 ####Inschaling van activiteiten met genetisch gemodificeerde organismen (behorend bij artikel 7  van de Regeling genetisch gemodificeerde organismen)
 
-#### *5.1 Activiteiten met een genetisch gemodificeerd micro-organisme waarvan de gastheer staat vermeld in bijlage 1 en de vector staat vermeld in bijlage 2, onder 2.1.1, en waarin zich geen insertie bevindt die vermeld staat in bijlage 2, onder 2.2* 
+####*5.1 Activiteiten met een genetisch gemodificeerd micro-organisme waarvan de gastheer staat vermeld in bijlage 1 en de vector staat vermeld in bijlage 2, onder 2.1.1, en waarin zich geen insertie bevindt die vermeld staat in bijlage 2, onder 2.2*
 
-Inschaling: ML-I.  
+Inschaling: ML-I.
 
-#### *5.2 Activiteiten met een genetisch gemodificeerd micro-organisme waarvan de gastheer staat vermeld in bijlage 1 en de vector staat vermeld in bijlage 2, onder 2.1.1 of een vector die voldoet aan de criteria vermeld in bijlage 2, onder 2.1* 
-
-Activiteiten waarbij ongekarakteriseerde donorsequenties worden gebruikt: 
-
-a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II.  
-
-b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
-
-c. De donor is een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-II, ML-I, ML-I.  
-
-d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
-
-e. De donor is een organisme dat geen schadelijk genproduct bevat. Inschaling: ML-I.   Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
-
-f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II.  
-
-g. De sequentie bevat, in combinatie met sequenties van d de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
-
-h. De sequentie bevat, in combinatie met sequenties van d de gastheer of de vector, genetische informatie voor de vorming van een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-II, ML-I, ML-I.  
-
-i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct. Inschaling: ML-I.    
-
-#### *5.3 Activiteiten met een genetisch gemodificeerd micro-organisme van klasse 4, 3, 2 of 1 (uitgezonderd virussen infectieus voor hogere eukaryoten)* 
+####*5.2 Activiteiten met een genetisch gemodificeerd micro-organisme waarvan de gastheer staat vermeld in bijlage 1 en de vector staat vermeld in bijlage 2, onder 2.1.1 of een vector die voldoet aan de criteria vermeld in bijlage 2, onder 2.1*
 
 Activiteiten waarbij ongekarakteriseerde donorsequenties worden gebruikt: 
 
-a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de gastheer is een micro-organisme van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-III klasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II.  
+a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II. 
 
-b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: de gastheer is een micro-organisme van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-IV, ML-III, ML-III klasse 2: respectievelijk ML-IV, ML-III, ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-IV, ML-III, ML-II.  
+b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-c. De donor is een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: de gastheer is een micro-organisme van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-III, ML-III, ML-III klasse 2: respectievelijk ML-III, ML-II, ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-II, ML-II, ML-II.  
+c. De donor is een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-II, ML-I, ML-I. 
 
-d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2. Inschaling: de gastheer is een micro-organisme van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-IV, ML-III, ML-III klasse 2: respectievelijk ML-IV, ML-III, ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-III, ML-II, ML-II.  
+d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-e. De donor is een organisme dat geen schadelijk genproduct bevat. Inschaling: de gastheer is een micro-organisme van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II.   Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
+e. De donor is een organisme dat geen schadelijk genproduct bevat.Inschaling: ML-I. Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
 
-f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de gastheer is een micro-organisme van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-III klasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II.  
+f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II. 
 
-g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: de gastheer is een micro-organisme van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-IV, ML-III, ML-III klasse 2: respectievelijk ML-IV, ML-III, ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-IV, ML-III, ML-II.  
+g. De sequentie bevat, in combinatie met sequenties van d de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2. Inschaling: de gastheer is een micro-organisme van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-III, ML-III, ML-III klasse 2: respectievelijk ML-III, ML-II, ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-II, ML-II, ML-II.  
+h. De sequentie bevat, in combinatie met sequenties van d de gastheer of de vector, genetische informatie voor de vorming van een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-II, ML-I, ML-I. 
 
-i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct. Inschaling: de gastheer is een micro-organisme van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II klasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II.    
+i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct.Inschaling: ML-I. 
 
-#### *5.4 Activiteiten met genetisch gemodificeerde animale cellen dan wel plantencellen* 
-
-#### *5.4.1 De vector is een plasmide* 
+####*5.3 Activiteiten met een genetisch gemodificeerd micro-organisme van klasse 4, 3, 2 of 1 (uitgezonderd virussen infectieus voor hogere eukaryoten)*
 
 Activiteiten waarbij ongekarakteriseerde donorsequenties worden gebruikt: 
 
-a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II.  
+a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de gastheer is een micro-organisme vanklasse 4: ML-IVklasse 3: ML-IIIklasse 2: ML-IIIklasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II. 
 
-b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en aanwezigheid van het genetisch materiaal van de donor in de gastheer kan leiden tot de vorming van autonoom replicerende virusdeeltjes. Inschaling: respectievelijk ML-IV, ML-III, ML-II.  
+b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: de gastheer is een micro-organisme vanklasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-IV, ML-III, ML-IIIklasse 2: respectievelijk ML-IV, ML-III, ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-IV, ML-III, ML-II. 
 
-c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en aanwezigheid van het genetisch materiaal van de donor in de gastheer kan niet leiden tot de vorming van autonoom replicerende virusdeeltjes. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
+c. De donor is een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: de gastheer is een micro-organisme vanklasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-III, ML-III, ML-IIIklasse 2: respectievelijk ML-III, ML-II, ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-II, ML-II, ML-II. 
 
-d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
+d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2.Inschaling: de gastheer is een micro-organisme vanklasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-IV, ML-III, ML-IIIklasse 2: respectievelijk ML-IV, ML-III, ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-III, ML-II, ML-II. 
 
-e. De donor is een organisme dat geen schadelijk genproduct bevat. Inschaling: ML-I.   Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
+e. De donor is een organisme dat geen schadelijk genproduct bevat.Inschaling: de gastheer is een micro-organisme vanklasse 4: ML-IVklasse 3: ML-IIIklasse 2: ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II. Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
 
-f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II.  
+f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de gastheer is een micro-organisme vanklasse 4: ML-IVklasse 3: ML-IIIklasse 2: ML-IIIklasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II. 
 
-g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: respectievelijk ML-IV, ML-III, ML-II.  
+g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: de gastheer is een micro-organisme vanklasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-IV, ML-III, ML-IIIklasse 2: respectievelijk ML-IV, ML-III, ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-IV, ML-III, ML-II. 
 
-h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: respectievelijk ML-III, ML-II, ML-I.  
+h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een defect, voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2.Inschaling: de gastheer is een micro-organisme vanklasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-III, ML-III, ML-IIIklasse 2: respectievelijk ML-III, ML-II, ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: respectievelijk ML-II, ML-II, ML-II. 
 
-i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct. Inschaling: ML-I.    
+i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct.Inschaling: de gastheer is een micro-organisme vanklasse 4: ML-IVklasse 3: ML-IIIklasse 2: ML-IIklasse 1, nog niet erkend als geschikt voor bijlage 1: ML-II.  
 
-#### *5.4.2 De combinatie van gastheercel en virale vector is biologisch ingeperkt* 
+####*5.4 Activiteiten met genetisch gemodificeerde animale cellen dan wel plantencellen*
 
-a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is afgeleid van een virus van klasse 4: ML-III klasse 3: ML-II klasse 2: ML-II klasse 1: ML-II.  
-
-b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is afgeleid van een virus van klasse 4: respectievelijk ML-IV, ML-III, ML-III klasse 3: respectievelijk ML-IV, ML-III, ML-II klasse 2: respectievelijk ML-IV, ML-III, ML-II klasse 1: respectievelijk ML-IV, ML-III, ML-II.  
-
-c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is afgeleid van een virus van klasse 4: respectievelijk ML-III, ML-III, ML-III klasse 3: respectievelijk ML-III, ML-II, ML-II klasse 2: respectievelijk ML-III, ML-II, ML-I klasse 1: respectievelijk ML-II, ML-II, ML-I .  
-
-d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2. Inschaling: de virale vector is afgeleid van een virus van klasse 4: respectievelijk ML-III, ML-III, ML-III klasse 3: respectievelijk ML-III, ML-II, ML-II klasse 2: respectievelijk ML-III, ML-II, ML-I klasse 1: respectievelijk ML-II, ML-II, ML-I.  
-
-e. De donor is een organisme dat geen schadelijk genproduct bevat. Inschaling: de virale vector is afgeleid van een virus van klasse 4: ML-III klasse 3: ML-II klasse 2: ML-I klasse 1: ML-I.   Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
-
-f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is afgeleid van een virus van klasse 4: ML-III klasse 3: ML-II klasse 2: ML-II klasse 1: ML-II.  
-
-g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende virusdeeltjes. Inschaling: de virale vector is afgeleid van een virus van klasse 4: respectievelijk ML-IV, ML-III, ML-III klasse 3: respectievelijk ML-IV, ML-III, ML-II klasse 2: respectievelijk ML-IV, ML-III, ML-II klasse 1: respectievelijk ML-IV, ML-III, ML-II.  
-
-h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende virusdeeltjes. Inschaling: de virale vector is afgeleid van een virus van klasse 4: respectievelijk ML-III, ML-III, ML-III klasse 3: respectievelijk ML-III, ML-II, ML-II klasse 2: respectievelijk ML-III, ML-II, ML-I klasse 1: respectievelijk ML-II, ML-II, ML-I.  
-
-i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct. Inschaling: de virale vector is afgeleid van een virus van klasse 4: ML-III klasse 3: ML-II klasse 2: ML-I klasse 1: ML-I.    
-
-#### *5.4.3 De combinatie van gastheercel en virale vector is biologisch niet ingeperkt* 
+####*5.4.1 De vector is een plasmide*
 
 Activiteiten waarbij ongekarakteriseerde donorsequenties worden gebruikt: 
 
-a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-III.  
+a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II. 
 
-b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-IV, ML-III, ML-III klasse 2: respectievelijk ML-IV, ML-III, ML-II.  
+b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en aanwezigheid van het genetisch materiaal van de donor in de gastheer kan leiden tot de vorming van autonoom replicerende virusdeeltjes.Inschaling: respectievelijk ML-IV, ML-III, ML-II. 
 
-c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-III, ML-III, ML-III klasse 2: respectievelijk ML-III, ML-II, ML-II.  
+c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en aanwezigheid van het genetisch materiaal van de donor in de gastheer kan niet leiden tot de vorming van autonoom replicerende virusdeeltjes.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2. Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-III, ML-III, ML-III klasse 2: respectievelijk ML-III, ML-II, ML-II.  
+d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-e. De donor is een organisme dat geen schadelijk genproduct bevat Inschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II.   Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
+e. De donor is een organisme dat geen schadelijk genproduct bevat.Inschaling: ML-I.  Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
 
-f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-III.  
+f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: ML-II. 
 
-g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-IV, ML-III, ML-III klasse 2: respectievelijk ML-IV, ML-III, ML-II.  
+g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: respectievelijk ML-IV, ML-III, ML-II. 
 
-h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes. Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IV klasse 3: respectievelijk ML-III, ML-III, ML-III klasse 2: respectievelijk ML-III, ML-II, ML-II.  
+h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: respectievelijk ML-III, ML-II, ML-I. 
 
-i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct. Inschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II.    
+i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct.Inschaling: ML-I.  
 
-#### *5.4.4 Activiteiten met al dan niet genetisch gemodificeerde animale cellen dan wel plantencellen al dan niet in associatie met een genetisch gemodificeerd micro-organisme* 
+####*5.4.2 De combinatie van gastheercel en virale vector is biologisch ingeperkt*
 
-a. Celkweek van cellen afkomstig van genetisch gemodificeerde dieren die gehouden worden in een D-I inrichting. Inschaling: ML-I indien gebracht onder omstandigheden dat replicatie dan wel overdracht van genetisch materiaal mogelijk is.  
+a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is afgeleid van een virus vanklasse 4: ML-IIIklasse 3: ML-IIklasse 2: ML-IIklasse 1: ML-II. 
 
-b. Cellen afkomstig van al dan niet genetisch gemodificeerde dieren in associatie met een genetisch gemodificeerd micro-organisme die gehouden worden in een DM-IV, DM-III, DM-II, DM-I inrichting. Inschaling: ML niveau waarop het genetisch gemodificeerde micro-organisme gehanteerd moet worden.  
+b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: respectievelijk ML-IV, ML-III, ML-IIIklasse 3: respectievelijk ML-IV, ML-III, ML-IIklasse 2: respectievelijk ML-IV, ML-III, ML-IIklasse 1: respectievelijk ML-IV, ML-III, ML-II. 
 
-c. Celkweek van cellen afkomstig van genetisch gemodificeerde planten die gekweekt worden in een PL, PC-I, PK-I, PK-II inrichting. Inschaling: PL dan wel ML-I indien gebracht onder omstandigheden dat replicatie dan wel overdracht van genetisch materiaal mogelijk is.  
+c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: respectievelijk ML-III, ML-III, ML-IIIklasse 3: respectievelijk ML-III, ML-II, ML-IIklasse 2: respectievelijk ML-III, ML-II, ML-Iklasse 1: respectievelijk ML-II, ML-II, ML-I . 
 
-d. Cellen afkomstig van al dan niet genetisch gemodificeerde planten in associatie met een genetisch gemodificeerd micro-organisme die gekweekt worden in een PCM-IV/PKM-IV, PCM-III/PKM-III, PCM-II/PKM-II, PCM-I/PKM-I inrichting. Inschaling: ML niveau waarop het genetisch gemodificeerde micro-organisme gehanteerd moet worden.    
+d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: respectievelijk ML-III, ML-III, ML-IIIklasse 3: respectievelijk ML-III, ML-II, ML-IIklasse 2: respectievelijk ML-III, ML-II, ML-Iklasse 1: respectievelijk ML-II, ML-II, ML-I. 
 
-#### *5.5 Handelingen met planten* 
+e. De donor is een organisme dat geen schadelijk genproduct bevat.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: ML-IIIklasse 3: ML-IIklasse 2: ML-Iklasse 1: ML-I.  Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
 
-#### *5.5.1 Handelingen met genetisch gemodificeerde planten* 
+f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is afgeleid van een virus vanklasse 4: ML-IIIklasse 3: ML-IIklasse 2: ML-IIklasse 1: ML-II. 
 
-a. Genetisch gemodificeerde planten die het stadium van bloei niet bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling: 
+g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende virusdeeltjes.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: respectievelijk ML-IV, ML-III, ML-IIIklasse 3: respectievelijk ML-IV, ML-III, ML-IIklasse 2: respectievelijk ML-IV, ML-III, ML-IIklasse 1: respectievelijk ML-IV, ML-III, ML-II. 
+
+h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende virusdeeltjes.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: respectievelijk ML-III, ML-III, ML-IIIklasse 3: respectievelijk ML-III, ML-II, ML-IIklasse 2: respectievelijk ML-III, ML-II, ML-Iklasse 1: respectievelijk ML-II, ML-II, ML-I. 
+
+i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct.Inschaling: de virale vector is afgeleid van een virus vanklasse 4: ML-IIIklasse 3: ML-IIklasse 2: ML-Iklasse 1: ML-I.  
+
+####*5.4.3 De combinatie van gastheercel en virale vector is biologisch niet ingeperkt*
+
+Activiteiten waarbij ongekarakteriseerde donorsequenties worden gebruikt: 
+
+a. De donor bevat een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is een virus vanklasse 4: ML-IV klasse 3: ML-IIIklasse 2: ML-III. 
+
+b. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-IV, ML-III, ML-IIIklasse 2: respectievelijk ML-IV, ML-III, ML-II. 
+
+c. De donor is een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-III, ML-III, ML-IIIklasse 2: respectievelijk ML-III, ML-II, ML-II. 
+
+d. De donor is een niet-viraal pathogeen van respectievelijk klasse 4, 3 of 2.Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-III, ML-III, ML-IIIklasse 2: respectievelijk ML-III, ML-II, ML-II. 
+
+e. De donor is een organisme dat geen schadelijk genproduct bevatInschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II.  Activiteiten waarbij gekarakteriseerde donorsequenties worden gebruikt: 
+
+f. De sequentie bevat genetische informatie voor een schadelijk genproduct dat werkzaam kan zijn in deze gastheer. Inschaling: de virale vector is een virus van klasse 4: ML-IVklasse 3: ML-IIIklasse 2: ML-III. 
+
+g. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-IV, ML-III, ML-IIIklasse 2: respectievelijk ML-IV, ML-III, ML-II. 
+
+h. De sequentie bevat, in combinatie met sequenties van de gastheer of de vector, genetische informatie voor de vorming van een voor eukaryote cellen infectieus virus van respectievelijk klasse 4, 3 of 2, en de in de gastheer gebrachte virale sequenties kunnen niet leiden tot de vorming van autonoom replicerende deeltjes.Inschaling: de virale vector is een virus van klasse 4: respectievelijk ML-IV, ML-IV, ML-IVklasse 3: respectievelijk ML-III, ML-III, ML-IIIklasse 2: respectievelijk ML-III, ML-II, ML-II. 
+
+i. De sequentie bevat geen genetische informatie die codeert voor een schadelijk genproduct.Inschaling: de virale vector is een virus van klasse 4: ML-IV klasse 3: ML-III klasse 2: ML-II.  
+
+####*5.4.4 Activiteiten met al dan niet genetisch gemodificeerde animale cellen dan wel plantencellen al dan niet in associatie met een genetisch gemodificeerd micro-organisme*
+
+a. Celkweek van cellen afkomstig van genetisch gemodificeerde dieren die gehouden worden in een D-I inrichting. Inschaling: ML-I indien gebracht onder omstandigheden dat replicatie dan wel overdracht van genetisch materiaal mogelijk is. 
+
+b. Cellen afkomstig van al dan niet genetisch gemodificeerde dieren in associatie met een genetisch gemodificeerd micro-organisme die gehouden worden in een DM-IV, DM-III, DM-II, DM-I inrichting.Inschaling: ML niveau waarop het genetisch gemodificeerde micro-organisme gehanteerd moet worden. 
+
+c. Celkweek van cellen afkomstig van genetisch gemodificeerde planten die gekweekt worden in een PL, PC-I, PK-I, PK-II inrichting.Inschaling: PL dan wel ML-I indien gebracht onder omstandigheden dat replicatie dan wel overdracht van genetisch materiaal mogelijk is. 
+
+d. Cellen afkomstig van al dan niet genetisch gemodificeerde planten in associatie met een genetisch gemodificeerd micro-organisme die gekweekt worden in een PCM-IV/PKM-IV, PCM-III/PKM-III, PCM-II/PKM-II, PCM-I/PKM-I inrichting.Inschaling: ML niveau waarop het genetisch gemodificeerde micro-organisme gehanteerd moet worden.  
+
+####*5.5 Handelingen met planten*
+
+####*5.5.1 Handelingen met genetisch gemodificeerde planten*
+
+a. Genetisch gemodificeerde planten die het stadium van bloei niet bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling:
 
 – handelingen in laboratoria: PL  
 
 – handelingen in kweekcellen: PC-I  
 
-– handelingen in kassen: PK-I.    
+– handelingen in kassen: PK-I.   
 
-b. Genetisch gemodificeerde planten die het stadium van bloei bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling: 
+b. Genetisch gemodificeerde planten die het stadium van bloei bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling:
 
 – handelingen in kweekcellen: PC-I  
 
-– handelingen in kassen: PK-I of PK-II afhankelijk van de eigenschappen van de plantensoort.    
+– handelingen in kassen: PK-I of PK-II afhankelijk van de eigenschappen van de plantensoort.  
 
-c. Genetisch gemodificeerde planten die genetische informatie coderend voor een schadelijk genproduct kan bevatten. Inschaling: PC-I of PK-II aangepast op het schadelijke effect.    
+c. Genetisch gemodificeerde planten die genetische informatie coderend voor een schadelijk genproduct kan bevatten. Inschaling: PC-I of PK-II aangepast op het schadelijke effect. 
 
-#### *5.5.2 Handelingen met al dan niet genetisch gemodificeerde planten in associatie met genetisch gemodificeerde micro-organismen* 
+####*5.5.2 Handelingen met al dan niet genetisch gemodificeerde planten in associatie met genetisch gemodificeerde micro-organismen*
 
-a. Planten in associatie met genetisch gemodificeerde disarmed A.tumefaciens waarin geen volledige genomische kloon van een plantenvirus geïnserteerd is in het T-DNA. Inschaling: PC-I in gesealde containers.  
+a. Planten in associatie met genetisch gemodificeerde disarmed A.tumefaciens waarin geen volledige genomische kloon van een plantenvirus geïnserteerd is in het T-DNA. Inschaling: PC-I in gesealde containers. 
 
-b. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-I niveau moeten worden gehanteerd. Inschaling: PCM-I/ PKM-I.  
+b. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-I niveau moeten worden gehanteerd.Inschaling: PCM-I/ PKM-I. 
 
-c. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-II niveau moeten worden gehanteerd. Inschaling: PCM-II/PKM-II of PCM-III/PKM-III in geval van aerogene verspreiding van het micro-organisme.  
+c. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-II niveau moeten worden gehanteerd.Inschaling: PCM-II/PKM-II of PCM-III/PKM-III in geval van aerogene verspreiding van het micro-organisme. 
 
-d. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-III niveau moeten worden gehanteerd. Inschaling: PCM-III/PKM-III.  
+d. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-III niveau moeten worden gehanteerd.Inschaling: PCM-III/PKM-III. 
 
-e. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-IV niveau moeten worden gehanteerd. Inschaling: PCM-IV/PKM-IV.    
+e. Planten in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-IV niveau moeten worden gehanteerd.Inschaling: PCM-IV/PKM-IV.  
 
-#### *5.6 Handelingen met dieren* 
+####*5.6 Handelingen met dieren*
 
-#### *5.6.1 Handelingen met genetisch gemodificeerde dieren* 
+####*5.6.1 Handelingen met genetisch gemodificeerde dieren*
 
-a. Handelingen met genetisch gemodificeerde dieren die geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling: D-I.  
+a. Handelingen met genetisch gemodificeerde dieren die geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling: D-I. 
 
-b. Genetisch gemodificeerde dieren die genetische informatie bevatten die voor een schadelijk genproduct kan coderen. Inschaling: D-I aangepast op het schadelijke effect.    
+b. Genetisch gemodificeerde dieren die genetische informatie bevatten die voor een schadelijk genproduct kan coderen.Inschaling: D-I aangepast op het schadelijke effect.  
 
-#### *5.6.2 Handelingen met al dan niet genetisch gemodificeerde dieren in associatie met genetisch gemodificeerde organismen* 
+####*5.6.2 Handelingen met al dan niet genetisch gemodificeerde dieren in associatie met genetisch gemodificeerde organismen*
 
 a. Dieren in associatie met plasmide of getransfecteerde cellen afkomstig van hogere eukaryoten, waarbij door de combinatie van het dier en de genetisch gemodificeerde vector of cel biologische inperking is verkregen. Inschaling: D-I.   Als aan a. niet voldaan wordt: 
 
-b. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-I niveau moeten worden gehanteerd. Inschaling: DM-I.  
+b. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-I niveau moeten worden gehanteerd. Inschaling: DM-I. 
 
-c. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-II niveau moeten worden gehanteerd; Inschaling: DM-II; DM-III in geval van aërogene verspreiding van het micro-organisme.  
+c. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-II niveau moeten worden gehanteerd;Inschaling: DM-II;DM-III in geval van aërogene verspreiding van het micro-organisme. 
 
-d. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-III niveau moeten worden gehanteerd; Inschaling: DM-III.  
+d. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-III niveau moeten worden gehanteerd;Inschaling: DM-III.
 
-e. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-IV niveau moeten worden gehanteerd; Inschaling: DM-IV.    
+e. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder laboratorium omstandigheden op ML-IV niveau moeten worden gehanteerd;Inschaling: DM-IV.  
 
-#### *5.7 Handelingen in procesinstallaties* 
+####*5.7 Handelingen in procesinstallaties*
 
-#### *5.7.1 Het genetisch gemodificeerde organisme voldoet aan elk van de volgende voorwaarden:* 
+####*5.7.1 Het genetisch gemodificeerde organisme voldoet aan elk van de volgende voorwaarden:*
 
 a. het genetisch gemodificeerde organisme behoort tot groep I;  
 
@@ -3689,9 +3689,9 @@ c. het genetisch gemodificeerde organisme is niet pathogeen;
 
 d. het genetisch gemodificeerde organisme is in de installatie en het productieproces ten minste even veilig voor de gezondheid van de mens en het milieu als de gastheer of ouderstammen;  
 
-e. het genetisch gemodificeerde organisme heeft ten opzichte van het wildtype organisme waarvan het is afgeleid, een beperkte overlevingskans buiten het fysisch inperkend systeem.   *Inschaling:* MI-I.  
+e. het genetisch gemodificeerde organisme heeft ten opzichte van het wildtype organisme waarvan het is afgeleid, een beperkte overlevingskans buiten het fysisch inperkend systeem.  *Inschaling:* MI-I. 
 
-#### *5.7.2 Het genetisch gemodificeerde organisme voldoet aan elk van de volgende voorwaarden:* 
+####*5.7.2 Het genetisch gemodificeerde organisme voldoet aan elk van de volgende voorwaarden:*
 
 a. het genetisch gemodificeerde organisme behoort tot groep I;  
 
@@ -3699,25 +3699,25 @@ b. de gebruikte gastheer en vector(en) zijn overeenkomstig bijlage 1 respectieve
 
 c. het genetisch gemodificeerde organisme is niet pathogeen;  
 
-d. het genetisch gemodificeerde organisme is ten minste even veilig voor de gezondheid van de mens en het milieu als de gastheer of de ouderstammen.   *Inschaling:* MI-II  
+d. het genetisch gemodificeerde organisme is ten minste even veilig voor de gezondheid van de mens en het milieu als de gastheer of de ouderstammen.   *Inschaling: *MI-II 
 
-#### *5.7.3 Het genetisch gemodificeerde organisme voldoet niet aan de voorwaarden vermeld onder 5.7.1 of 5.7.2* 
+####*5.7.3 Het genetisch gemodificeerde organisme voldoet niet aan de voorwaarden vermeld onder 5.7.1 of 5.7.2*
 
-a. Handelingen met het genetisch gemodificeerd organisme in laboratoria kunnen worden verricht in een ML-I of ML-II werkruimte. Inschaling: MI-III.  
+a. Handelingen met het genetisch gemodificeerd organisme in laboratoria kunnen worden verricht in een ML-I of ML-II werkruimte. Inschaling: MI-III. 
 
-b. Handelingen met het genetisch gemodificeerd organisme in laboratoria moeten worden verricht in een ML-III werkruimte. Inschaling: MI-IV.    
+b. Handelingen met het genetisch gemodificeerd organisme in laboratoria moeten worden verricht in een ML-III werkruimte.Inschaling: MI-IV.  
 
-### Bijlage  7  
+###Bijlage 7  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
-### Bijlage  8  
+###Bijlage 8  
 
-####Het opslaan van afval dat genetisch gemodificeerde organismen bevat of kan bevatten, buiten een geclassificeerde ruimte
+#### Het opslaan van afval dat genetisch gemodificeerde organismen bevat of kan bevatten, buiten een geclassificeerde ruimte
 
 (behorend bij de artikelen 5, 6 en 9 van de Regeling genetisch gemodificeerde organismen) In afwachting van inactivatie binnen de instelling of vervoer naar een afvalverbrandingsinstallatie moet afval dat genetisch gemodificeerde organismen bevat of kan bevatten worden opgeslagen overeenkomstig onderstaande voorschriften behorend bij het inperkingniveau waarin het afval geproduceerd is. Afval dat genetisch gemodificeerde micro-organismen van klasse 3 of 4 bevat of kan bevatten wordt gehanteerd volgens bijlage 4, zoals vermeld onder de werkvoorschriften behorend bij het inperkingniveau waaruit het betreffende afval afkomstig is. Het vervoer van afval, dat genetisch gemodificeerde organismen bevat, of kan bevatten, naar een afvalverbrandingsinstallatie geschiedt conform de [Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) dan wel conform bijlage 9 van de Regeling genetisch gemodificeerde organismen. 
 
-#### *8.1 Afval afkomstig uit ML-I en ML-II:* 
+####*8.1 Afval afkomstig uit ML-I en ML-II:*
 
 a. Het opslaan van het afval geschiedt in een voor onbevoegden ontoegankelijk deel van de inrichting, dat op grond van een omgevingsvergunning bestemd is voor activiteiten met genetisch gemodificeerde organismen en dat niet bestemd is als specifieke werkruimten als bedoeld in bijlage 4;  
 
@@ -3733,9 +3733,9 @@ c. Opslaan van afval geschiedt:
 
 d. Gegevens met betrekking tot herkomst, aard en omvang van het afval en de datum waarop het afval oorspronkelijk is opgeslagen, worden bijgehouden in een logboek dat ter beschikking wordt gehouden van de biologische veiligheidsfunctionaris en toezichthoudende ambtenaren.  
 
-e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.        
+e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.      
 
-#### *8.2 Afval afkomstig uit PL, PC-I, PK-I en PK-II:* 
+####*8.2 Afval afkomstig uit PL, PC-I, PK-I en PK-II:*
 
 Onderstaande voorschriften zijn van toepassing op afval dat reproductieve plantendelen bevat of kan bevatten. 
 
@@ -3747,9 +3747,9 @@ c. Opslaan van afval geschiedt voor maximaal 6 maanden, bij omgevingstemperatuur
 
 d. Gegevens met betrekking tot herkomst, aard en omvang van het afval en de datum waarop het afval oorspronkelijk is opgeslagen, worden bijgehouden in een logboek dat ter beschikking wordt gehouden van de biologische veiligheidsfunctionaris en toezichthoudende ambtenaren.  
 
-e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.    
+e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.  
 
-#### *8.3 Afval afkomstig uit PCM- en PKM-inrichtingen waarin planten in associatie met micro-organismen van klasse 1 en 2 gehanteerd worden:* 
+####*8.3 Afval afkomstig uit PCM- en PKM-inrichtingen waarin planten in associatie met micro-organismen van klasse 1 en 2 gehanteerd worden:*
 
 a. Het opslaan van het afval geschiedt in een voor onbevoegden ontoegankelijk deel van de inrichting, dat op grond van een omgevingsvergunning bestemd is voor activiteiten met genetisch gemodificeerde organismen en dat niet bestemd is als specifieke werkruimten als bedoeld in bijlage 4;  
 
@@ -3761,13 +3761,13 @@ c. Opslaan van afval geschiedt:
 
 – maximaal 2 weken, bij een maximale temperatuur van 20° C;  
 
-– maximaal 1 week, indien de temperatuur in de opslagruimte boven de 20° C kan komen;    
+– maximaal 1 week, indien de temperatuur in de opslagruimte boven de 20° C kan komen;   
 
 d. Gegevens met betrekking tot herkomst, aard en omvang van het afval en de datum waarop het afval oorspronkelijk is opgeslagen, worden bijgehouden in een logboek dat ter beschikking wordt gehouden van de biologische veiligheidsfunctionaris en toezichthoudende ambtenaren.  
 
-e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.    
+e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden. 
 
-#### *8.4 Afval afkomstig uit DM-inrichtingen waarin dieren in associatie met micro-organismen van klasse 1 en 2 gehanteerd worden:* 
+####*8.4 Afval afkomstig uit DM-inrichtingen waarin dieren in associatie met micro-organismen van klasse 1 en 2 gehanteerd worden:*
 
 a. Het opslaan van het afval geschiedt in een voor onbevoegden ontoegankelijk deel van de inrichting, dat op grond van een omgevingsvergunning bestemd is voor activiteiten met genetisch gemodificeerde organismen en dat niet bestemd is als specifieke werkruimten als bedoeld in bijlage 4;  
 
@@ -3777,17 +3777,17 @@ c. Opslaan van afval geschiedt:
 
 – maximaal 2 maanden, bij een maximale temperatuur van –18° C;  
 
-– maximaal 1 week, bij een maximale temperatuur van 4° C;    
+– maximaal 1 week, bij een maximale temperatuur van 4° C;   
 
 d. Gegevens met betrekking tot herkomst, aard en omvang van het afval en de datum waarop het afval oorspronkelijk is opgeslagen, worden bijgehouden in een logboek dat ter beschikking wordt gehouden van de biologische veiligheidsfunctionaris en toezichthoudende ambtenaren.  
 
-e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden.    
+e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt ter onmiddellijke verbranding aangeboden. 
 
-### Bijlage  9  
+###Bijlage 9  
 
 ####Vervoer van Genetisch Gemodificeerde Organismen (behorend bij artikel 14  van de Regeling genetisch gemodificeerde organismen)
 
-### 1  
+###1 
 
 Het vervoeren van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het [Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) geschiedt onder de volgende voorschriften: 
 
@@ -3803,9 +3803,9 @@ e. planten of dieren in associatie met genetisch gemodificeerde micro-organismen
 
 f. afval dat genetisch gemodificeerde micro-organismen bevat of kan bevatten wordt vervoerd in gesloten, breukvaste, lekdichte houders, waarbij de vervoerseenheid voor het vervoer uitwendig wordt ontsmet;  
 
-g. afval dat genetisch gemodificeerde organismen bevat of kan bevatten anders dan genetisch gemodificeerde micro-organismen wordt vervoerd in gesloten, breukvaste, lekdichte houders.    
+g. afval dat genetisch gemodificeerde organismen bevat of kan bevatten anders dan genetisch gemodificeerde micro-organismen wordt vervoerd in gesloten, breukvaste, lekdichte houders.  
 
-### 2  
+###2 
 
 Het vervoeren van genetisch gemodificeerde organismen buiten inrichtingen die zijn bestemd voor activiteiten met genetisch gemodificeerde organismen geschiedt onder de volgende voorschriften: 
 
@@ -3825,8 +3825,8 @@ g. planten in associatie met genetisch gemodificeerde micro-organismen worden ve
 
 h. dieren in associatie met genetisch gemodificeerde micro-organismen worden vervoerd in een gesloten, breukvaste, lekdichte vervoerseenheid die direct na het sluiten uitwendig wordt ontsmet. Ventilatieopeningen zijn voorzien van een voor het betreffende micro-organisme afdoend filter;  
 
-i. voor het vervoer conform a tot en met h geldt dat op de verpakking of in de begeleidende papieren aangegeven dient te zijn dat het vervoer betreft van genetisch gemodificeerde organismen.    
+i. voor het vervoer conform a tot en met h geldt dat op de verpakking of in de begeleidende papieren aangegeven dient te zijn dat het vervoer betreft van genetisch gemodificeerde organismen.  
 
-### Bijlage  10  
+###Bijlage 10  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 

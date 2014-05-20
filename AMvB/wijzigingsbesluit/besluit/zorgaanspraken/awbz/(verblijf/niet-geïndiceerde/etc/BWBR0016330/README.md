@@ -11,23 +11,23 @@ Gelet op de [artikelen 6, eerste lid](../../../../../../../../../wet/algemene/we
 De Raad van State gehoord (advies van 11 december 2003, no. W13.03.0475/III);
 
 Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 januari 2004, Z/VU-2446723;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgaanspraken AWBZ.   
+Wijzigt het Besluit zorgaanspraken AWBZ.
 
 ### Artikel  II  
 
-Wijzigt het Zorgindicatiebesluit.   
+Wijzigt het Zorgindicatiebesluit. 
 
 ### Artikel  III  
 
-[Artikel 9, tweede lid, tweede volzin, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) is van overeenkomstige toepassing op personen die op het tijdstip van inwerkingtreding van dit besluit reeds in een instelling verbleven en bij het begin van dat verblijf echtgenoot waren van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in die instelling verbleef.  
+[Artikel 9, tweede lid, tweede volzin, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) is van overeenkomstige toepassing op personen die op het tijdstip van inwerkingtreding van dit besluit reeds in een instelling verbleven en bij het begin van dat verblijf echtgenoot waren van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in die instelling verbleef.
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

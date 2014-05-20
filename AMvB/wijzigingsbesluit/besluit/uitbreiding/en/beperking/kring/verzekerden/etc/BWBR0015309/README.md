@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/werknemersverzekeringen/etc/BWBR0004613/README.md)
+####Wijziging [Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/werknemersverzekeringen/etc/BWBR0004613/README.md) 
 
-Wijzigt het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990.   
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990.  
 
 ### Artikel  II  
 
-####Wijziging [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md)
+####Wijziging [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) 
 
-Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.   
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.  
 
 ### Artikel  III  
 
@@ -59,4 +59,4 @@ G. Zalm
 de eenendertigste juli 2003 
 
 De Minister van Justitie a.i., 
-G. Zalm    
+G. Zalm     

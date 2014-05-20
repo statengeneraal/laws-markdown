@@ -2,9 +2,9 @@
 
 ##Regeling houdende regels inzake historische luchtvaart
 
-De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 17 en 22 onderdelen a, b en c van het Besluit luchtwaardigheid, artikel 56 van het Luchtverkeersreglement, artikel 116 van de Regeling Toezicht Luchtvaart en artikel 7 van het Besluit ongeregeld luchtvervoer;
-Besluit:     
+De Minister van Verkeer en Waterstaat,
+Gelet op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 17](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [22 onderdelen a, b en c van het Besluit luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [artikel 56 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 116 van de Regeling Toezicht Luchtvaart](../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) en [artikel 7 van het Besluit ongeregeld luchtvervoer](../../../../../AMvB/besluit/ongeregeld/luchtvervoer/BWBR0002965/README.md);
+Besluit: 
 ### §  1  
 
 ####Algemene bepalingen
@@ -28,33 +28,33 @@ a. uitsluitend de vervoerskosten en de kosten van het trainen van de bemanning w
 b. het uitsluitend vervoer betreft van sponsors van een organisatie tot instandhouding van historische luchtvaart en hun genodigden, alsmede van leden van een vereniging of begunstigers van een stichting met als een statutair doel instandhouding van historische luchtvaart;    
 
 – vervoerskosten: de kosten van verzekering, brandstof, onderhouds- en reparatiekosten alsmede landingsgelden.     
-2.  Een historisch luchtvaartuig verkeert in originele staat, tenzij de minister heeft ingestemd met bepaalde aanpassingen of deze voorschrijft in verband met de vliegveiligheid.   
+2.  Een historisch luchtvaartuig verkeert in originele staat, tenzij de minister heeft ingestemd met bepaalde aanpassingen of deze voorschrijft in verband met de vliegveiligheid.  
 
 ### Artikel  1a  
 
-Deze regeling berust op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 9 en 13, onderdelen a, b en c, van het Besluit luchtvaartuigen 2008, artikel 56 van het Luchtverkeersreglement, artikel 7 van het Besluit vluchtuitvoering en artikel 7 van het Besluit ongeregeld luchtvervoer.  
+Deze regeling berust op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 9](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [13, onderdelen a, b en c, van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [artikel 56 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 7 van het Besluit vluchtuitvoering](../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) en [artikel 7 van het Besluit ongeregeld luchtvervoer](../../../../../AMvB/besluit/ongeregeld/luchtvervoer/BWBR0002965/README.md). 
 
-### §  2  
+###§ 2 
 
 ####Speciaal-BvL
 
 ### Artikel  2  
 
 1.  Met betrekking tot een historisch luchtvaartuig dat als een luchtvaartuig met een duidelijk historisch belang als bedoeld in bijlage II bij de verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van de Europese Unie van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) dient te worden aangemerkt, kan na de beoordeling van de luchtwaardigheid van dat luchtvaartuig een speciaal-BvL worden afgegeven.   
-2.  Ten aanzien van straalvliegtuigen en van helikopters van buitenlands militair ontwerp, niet voorzien van een bewijs van luchtwaardigheid of slechts voorzien van een bewijs van luchtwaardigheid, dat door een buitenlandse militaire autoriteit is afgegeven, wordt geen speciaal-BvL afgegeven.   
+2.  Ten aanzien van straalvliegtuigen en van helikopters van buitenlands militair ontwerp, niet voorzien van een bewijs van luchtwaardigheid of slechts voorzien van een bewijs van luchtwaardigheid, dat door een buitenlandse militaire autoriteit is afgegeven, wordt geen speciaal-BvL afgegeven.  
 
-### Artikel  3  
+###Artikel 3 
 
-1.  De aanvraag van een speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen.   
-2.  De aanvraag van een speciaal-BvL gaat vergezeld van de door de minister met betrekking tot het desbetreffende luchtvaartuig voor de beoordeling van dat luchtvaartuig nodig geachte bescheiden.   
-3.  Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende bijlage.   
+1. De aanvraag van een speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen.
+2. De aanvraag van een speciaal-BvL gaat vergezeld van de door de minister met betrekking tot het desbetreffende luchtvaartuig voor de beoordeling van dat luchtvaartuig nodig geachte bescheiden.
+3. Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende bijlage.
 
-### Artikel  4  
+###Artikel 4 
 
-1.  De aanvraag van een wijziging van het speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen. Bij de aanvraag worden de voor de beoordeling van de aanvraag noodzakelijke gegevens gevoegd.   
-2.  De aanvraag van verlenging van de termijn van geldigheid van een speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen. Artikel 3, tweede lid, is van overeenkomstige toepassing.   
+1. De aanvraag van een wijziging van het speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen. Bij de aanvraag worden de voor de beoordeling van de aanvraag noodzakelijke gegevens gevoegd.
+2. De aanvraag van verlenging van de termijn van geldigheid van een speciaal-BvL wordt ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen. Artikel 3, tweede lid, is van overeenkomstige toepassing.
 
-### §  3  
+###§ 3 
 
 ####Vluchtuitvoering
 
@@ -77,61 +77,61 @@ a. gedurende werkdagen voor 08.00 uur en na 18.00 uur,
 b. op zaterdagen voor 09.00 uur en na 16.00 uur, en  
 
 c. op zondagen.     
-8.  Onverminderd het bovenstaande mogen met een historisch luchtvaartuig slechts vluchten worden uitgevoerd met inachtneming van de gebruiksbeperkingen die in het vlieghandboek van de fabrikant zijn opgenomen en op dat luchtvaartuig betrekking hebben.   
+8.  Onverminderd het bovenstaande mogen met een historisch luchtvaartuig slechts vluchten worden uitgevoerd met inachtneming van de gebruiksbeperkingen die in het vlieghandboek van de fabrikant zijn opgenomen en op dat luchtvaartuig betrekking hebben. 
 
-### Artikel  6  
+###Artikel 6 
 
-Ten behoeve van niet-commercieel vervoer met een historisch luchtvaartuig beschikt de desbetreffende organisatie over een kwaliteitshandboek waarin die organisatie heeft vastgelegd op welke wijze zij de veilige exploitatie van dat historisch luchtvaartuig verzekert.  
+Ten behoeve van niet-commercieel vervoer met een historisch luchtvaartuig beschikt de desbetreffende organisatie over een kwaliteitshandboek waarin die organisatie heeft vastgelegd op welke wijze zij de veilige exploitatie van dat historisch luchtvaartuig verzekert.
 
-### Artikel  7  
+###Artikel 7 
 
-1.  De sponsor van een organisatie tot instandhouding van historische luchtvaart maakt voor de vluchtuitvoering zijn naam en de naam van zijn genodigden schriftelijk aan de organisatie bekend.   
-2.  De leden van een vereniging en de begunstigers van een stichting met als een statutair doel instandhouding van historische luchtvaart moeten voor, tijdens en na de vlucht kunnen aantonen dat zij lid van de desbetreffende vereniging respectievelijk begunstiger van de desbetreffende stichting zijn.   
+1. De sponsor van een organisatie tot instandhouding van historische luchtvaart maakt voor de vluchtuitvoering zijn naam en de naam van zijn genodigden schriftelijk aan de organisatie bekend.
+2. De leden van een vereniging en de begunstigers van een stichting met als een statutair doel instandhouding van historische luchtvaart moeten voor, tijdens en na de vlucht kunnen aantonen dat zij lid van de desbetreffende vereniging respectievelijk begunstiger van de desbetreffende stichting zijn.
 
-### Artikel  8  
+###Artikel 8 
 
-De organisatie, de vereniging of de stichting moet kunnen aantonen, dat elke passagier een redelijke tijd voor de vluchtuitvoering zowel mondeling als schriftelijk in een voor elke passagier begrijpelijke taal op de hoogte is gesteld van het feit dat het vervoer met een historisch luchtvaartuig betreft dat voldoet aan gedateerde en dus ten opzichte van de ten tijde van de desbetreffende vlucht geldende luchtwaardigheidseisen lagere luchtwaardigheidseisen.  
+De organisatie, de vereniging of de stichting moet kunnen aantonen, dat elke passagier een redelijke tijd voor de vluchtuitvoering zowel mondeling als schriftelijk in een voor elke passagier begrijpelijke taal op de hoogte is gesteld van het feit dat het vervoer met een historisch luchtvaartuig betreft dat voldoet aan gedateerde en dus ten opzichte van de ten tijde van de desbetreffende vlucht geldende luchtwaardigheidseisen lagere luchtwaardigheidseisen.
 
-### §  4  
+###§ 4 
 
 ####Diverse bepalingen
 
-### Artikel  9  
+###Artikel 9 
 
-De houder van het historisch luchtvaartuig, die particulier of niet-commercieel vervoer verzorgt, is verplicht ten behoeve van elke vervoersactiviteit verzekerd te zijn tegen de aansprakelijkheid tegenover de vervoerde passagiers ten belope van de bij de ‘Wet houdende voorzieningen inzake luchtvervoer’ gestelde limieten alsmede tegen de aansprakelijkheid voor schade, veroorzaakt aan derden.  
+De houder van het historisch luchtvaartuig, die particulier of niet-commercieel vervoer verzorgt, is verplicht ten behoeve van elke vervoersactiviteit verzekerd te zijn tegen de aansprakelijkheid tegenover de vervoerde passagiers ten belope van de bij de ‘Wet houdende voorzieningen inzake luchtvervoer’ gestelde limieten alsmede tegen de aansprakelijkheid voor schade, veroorzaakt aan derden.
 
-### Artikel  10  
+###Artikel 10 
 
-Handelen in strijd met artikel 5, 6, 7, 8 of 9 vormt een strafbaar feit.  
+Handelen in strijd met artikel 5, 6, 7, 8 of 9 vormt een strafbaar feit.
 
-### §  5  
+###§ 5 
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  11  
+###Artikel 11 
 
-Speciaal-BvL’s met betrekking tot historische luchtvaartuigen, die op het tijdstip van inwerkingtreding van deze regeling geldig zijn, worden aangemerkt als speciaal-BvL’s op grond van a rtikel 2 van deze regeling.  
+Speciaal-BvL’s met betrekking tot historische luchtvaartuigen, die op het tijdstip van inwerkingtreding van deze regeling geldig zijn, worden aangemerkt als speciaal-BvL’s op grond van artikel 2 van deze regeling.
 
-### Artikel  12  
+###Artikel 12 
 
-Op een aanvraag voor een speciaal-BvL met betrekking tot een historisch luchtvaartuig waarop op het tijdstip van inwerkingtreding van deze regeling nog niet is beslist, wordt beslist overeenkomstig deze regeling.  
+Op een aanvraag voor een speciaal-BvL met betrekking tot een historisch luchtvaartuig waarop op het tijdstip van inwerkingtreding van deze regeling nog niet is beslist, wordt beslist overeenkomstig deze regeling.
 
-### Artikel  13  
+###Artikel 13 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-### Artikel  14  
+###Artikel 14 
 
-Deze regeling wordt aangehaald als: Regeling historische luchtvaart.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Regeling historische luchtvaart.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H.Peijs
 
-### Bijlage  
+### Bijlage 
 
 ####, bedoeld in artikel 3, derde lid 
 
-![]()
+![251351](http://wetten.overheid.nl/Illustration/251351)
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 april 2003, VGB/P&L 2373505, gedaan in overeenstemming met Onze Minister van Economische Zaken;
 
-Gelet op artikel 4, eerste tot en met derde lid, 5, eerste en tweede lid, en 14 van de Warenwet;
+Gelet op [artikel 4, eerste tot en met derde lid](../../../../wet/warenwet/BWBR0001969/README.md), [5, eerste en tweede lid](../../../../wet/warenwet/BWBR0001969/README.md), en [14 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
 
 De Raad van State gehoord (advies van 14 juli 2003, nr. W13.03.0152/III);
 
@@ -27,15 +27,15 @@ d. steriel: vrij van levensvatbare organismen, virussen inbegrepen;
 
 e. houder: verpakking van tatoeagekleurstof die rechtstreeks in aanraking komt met de tatoeagekleurstof;  
 
-f. cosmeticaverordening: Verordening (EU) nr. 1223/2009 van het Europees Parlement en de Raad van 30 november 2009 betreffende cosmetische producten (PbEU 2009, L 342).    
+f. cosmeticaverordening: Verordening (EU) nr. 1223/2009 van het Europees Parlement en de Raad van 30 november 2009 betreffende cosmetische producten (PbEU 2009, L 342).  
 
 ### Artikel  2  
 
-Het is verboden tatoeagekleurstoffen te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling, hoedanigheid, eigenschappen of aan te brengen vermeldingen.  
+Het is verboden tatoeagekleurstoffen te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling, hoedanigheid, eigenschappen of aan te brengen vermeldingen. 
 
 ### Artikel  3  
 
-Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid en eigenschappen en zijn van zodanige vermeldingen voorzien, dat zij bij een gelet op hun bestemming redelijkerwijs te verwachten gebruik, geen gevaar voor de gezondheid of veiligheid van de mens opleveren.  
+Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid en eigenschappen en zijn van zodanige vermeldingen voorzien, dat zij bij een gelet op hun bestemming redelijkerwijs te verwachten gebruik, geen gevaar voor de gezondheid of veiligheid van de mens opleveren. 
 
 ### Artikel  4  
 
@@ -49,12 +49,12 @@ c. geen stoffen bevatten die voorkomen in bijlage II van de cosmeticaverordening
 
 d. geen stoffen bevatten die worden aangeduid in de voorwaardenkolom g van bijlage IV van de cosmeticaverordening;  
 
-e. geen stoffen bevatten die als kankerverwekkend, mutageen of vergiftig voor de voortplanting zijn ingedeeld in categorie 1A, 1B en 2 in deel 3 van bijlage VI bij verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);  
+e.geen stoffen bevatten die als kankerverwekkend, mutageen of vergiftig voor de voortplanting zijn ingedeeld in categorie 1A, 1B en 2 in deel 3 van bijlage VI bij verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353); 
 
 f. geen conserveermiddelen bevatten; en  
 
 g. steriel zijn.     
-2.  Het eerste lid, onder g, is niet van toepassing op de voor applicatie bij een en dezelfde persoon bereide en gerede hoeveelheid tatoeagekleurstof.   
+2.  Het eerste lid, onder g, is niet van toepassing op de voor applicatie bij een en dezelfde persoon bereide en gerede hoeveelheid tatoeagekleurstof.  
 
 ### Artikel  5  
 
@@ -72,24 +72,24 @@ e. een vermelding van de ingrediënten in volgorde van afnemend gewicht op het t
 2.  De in het eerste lid genoemde vermeldingen worden duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar op de houder en de eventuele verpakking daarvan aangebracht.   
 3.  Indien de houder een eigen verpakking heeft, wordt de vermelding, bedoeld in het eerste lid, onderdeel e, uitsluitend op die verpakking aangebracht.   
 4.  Indien het redelijkerwijs onmogelijk is de vermelding, bedoeld in het eerste lid, onderdeel e, op de houder of de verpakking daarvan aan te brengen, wordt deze aangebracht op een bijsluiter. Op de houder en de mogelijke verpakking daarvan, wordt verwezen naar die bijsluiter.   
-5.  De verhandelaar beschikt te allen tijde over de bijsluiter. Bij iedere aflevering wordt de bijsluiter aan de afnemer verstrekt.   
+5.  De verhandelaar beschikt te allen tijde over de bijsluiter. Bij iedere aflevering wordt de bijsluiter aan de afnemer verstrekt.  
 
 ### Artikel  6  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de kleurstoffen al dan niet is voldaan aan bij of krachtens dit besluit gestelde regels, worden methoden aangewezen op het gebied van chemisch en microbiologisch onderzoek.   
-2.  Onze Minister kan omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.   
+2.  Onze Minister kan omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.  
 
 ### Artikel  8  
 
-In afwijking van artikel 2 mogen tatoeagekleurstoffen die niet voldoen aan artikel 5, tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld.  
+In afwijking van artikel 2 mogen tatoeagekleurstoffen die niet voldoen aan artikel 5, tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen.  
+Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -103,14 +103,14 @@ J. F. Hoogervorst
 de tweede september 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
 
 ### Bijlage  I  
 
 ####als bedoeld in artikel 4 lid 1 onderdeel a  van het Warenwetbesluit tatoeagekleurstoffen
 
-| CAS-nummer  | Catalogusnummer  | EG-nummer  | Stoffen  |
-|---|---|---|---|
+|  CAS-nummer  | Catalogusnummer  | EG-nummer  | Stoffen  |
+|:---|:---|:---|:---|
 | 92–67–1  | 612–072–00–6  | 202–177–1  | Biphenyl-4-ylamine4-aminobifenylxenylamine  |
 | 92–87–5  | 612–042–00–2  | 202–199–1  | Benzidine  |
 | 95–69–2  | --- | 202–411–6  | 4-chloor-o-toluïdine  |
@@ -123,7 +123,7 @@ J. P. H. Donner
 | 91–94–1  | 612–068–00–4  | 202–109–0  | 3,3'-dichloorbenzidine 3,3'-dichloorbifenyl-4,4'-yleendiamine  |
 | 119–90–4  | 612–036–00-X  | 204–355–4  | 3,3'-dimethoxybenzidine o-dianisidine  |
 | 119–93–7  | 612–041–00–7  | 204–358–0  | 3,3'-dimethylbenzidine 4,4'-bi-o- toluïdine  |
-| 838–88–0  | 612–085–00–7  | 212–658–8  | 4,4'-methyleendi-o- toluïdine  |
+| 838–88–0  | 612–085–00–7  | 212–658–8  | 4,4'-methyleendi-o- toluïdine   |
 | 120–71–8  | --- | 204–419–1  | 6-methoxy-m- toluïdine p-cresidine  |
 | 101–14–4  | 612–078–00–9  | 202–918–9  | 4,4'-methyleen-bis- (2-chlooraniline) 2,2'-dichloor-4,4'-methyleendianiline  |
 | 101–80–4  | --- | 202–977–0  | 4,4'-oxydianiline  |
@@ -131,15 +131,15 @@ J. P. H. Donner
 | 95–53–4  | 612–091–00-X  | 202–429–0  | o- toluïdine 2-aminotolueen  |
 | 95–80–7  | 612–099–00–3  | 202–453–1  | 4-methyl-m-fenyleendiamine  |
 | 137–17–7  | --- | 205–282–0  | 2,4,5-trimethylaniline  |
-| 90–04–4  | 612–035–00–4  | 201–963–1  | o-anisidine 2-methoxyaniline  |
+| 90–04–4  | 612–035–00–4  | 201–963–1  | o-anisidine 2-methoxyaniline   |
 | 60–09–3  | --- | --- | 4-aminoazobenzeen 4-amino-3-fluorphenol  |
 
 ### Bijlage  II  
 
 ####als bedoeld in artikel 4 lid 1 onderdeel b  van het Warenwetbesluit tatoeagekleurstoffen
 
-| CAS-nummer  | EG-nummer  | mogelijke CI Naam  |
-|---|---|---|
+|  CAS-nummer  | EG-nummer  | mogelijke CI Naam  |
+|:---|:---|:---|
 | 12768–78–4  | --- | Acid Green 16  |
 | 3761–53–3  | 223–178–3  | Acid Red 26  |
 | 4129–84–4  | 223–942–6  | Acid Violet 17  |

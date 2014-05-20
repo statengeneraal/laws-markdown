@@ -15,25 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bekostigingsbesluit WPO.   
+Wijzigt het Bekostigingsbesluit WPO. 
 
 ### Artikel  II  
 
-Wijzigt het Bekostigingsbesluit WEC.   
+Wijzigt het Bekostigingsbesluit WEC. 
 
 ### Artikel  III  
 
-Het [Formatiebesluit WPO](../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) en het [Formatiebesluit WEC](../../../../../../../../AMvB/formatiebesluit/wec/BWBR0005442/README.md) worden ingetrokken.  
+Het [Formatiebesluit WPO](../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) en het [Formatiebesluit WEC](../../../../../../../../AMvB/formatiebesluit/wec/BWBR0005442/README.md) worden ingetrokken. 
 
 ### Artikel  IV  
 
-De artikelen I en II zijn voor het eerst van toepassing op de bekostiging voor het schooljaar 2006–2007.  
+De artikelen I en II zijn voor het eerst van toepassing op de bekostiging voor het schooljaar 2006–2007. 
 
 ### Artikel  V  
 
 ####Inwerkingtreding
 
-De artikelen van dit besluit treden in werking met ingang van een bij koninklijk besluit te bepalen datum, die voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking met ingang van een bij koninklijk besluit te bepalen datum, die voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

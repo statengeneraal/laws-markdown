@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.   
+Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.  
 
 ### Artikel  II  
 
-[Artikel 1, onderdeel d, van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../AMvB/besluit/centrale/beoordeling/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0010314/README.md) zoals dat door dit Besluit komt te luiden, is niet van toepassing op wetenschappelijk onderzoek met geslachtscellen waarvan het onderzoeksprotocol vóór de datum van inwerkingtreding van dit besluit bij de ingevolge de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie ter beoordeling is ingediend.  
+[Artikel 1, onderdeel d, van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../AMvB/besluit/centrale/beoordeling/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0010314/README.md) zoals dat door dit Besluit komt te luiden, is niet van toepassing op wetenschappelijk onderzoek met geslachtscellen waarvan het onderzoeksprotocol vóór de datum van inwerkingtreding van dit besluit bij de ingevolge de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie ter beoordeling is ingediend. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,4 +40,4 @@ J. P. H. Donner
 de vierentwintigste april 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

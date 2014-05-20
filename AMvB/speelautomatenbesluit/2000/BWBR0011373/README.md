@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 4 november 1999, nr. WJZ/W 99062493;
 
-Gelet op de artikelen 30c, derde lid, 30d, derde en vierde lid, 30i, 30n, 30o, derde en vierde lid, 30u, derde lid, en 30z, vierde lid, van de Wet op de kansspelen;
+Gelet op de [artikelen 30c, derde lid](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30d, derde en vierde lid](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30i](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30n](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30o, derde en vierde lid](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30u, derde lid](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en [30z, vierde lid, van de Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
 
 De Raad van State gehoord (advies van 17 februari 2000, nr. W10.99.0557/II);
 
@@ -14,21 +14,21 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 19 mei 2000
 Hebben goedgevonden en verstaan:     
 ### §  1  
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
 ### Artikel  1  
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. aanwezigheidsvergunning: de in artikel 30b, eerste lid, van de wet bedoelde vergunning voor het aanwezig hebben van een of meer speelautomaten;  
+a. aanwezigheidsvergunning: de in [artikel 30b, eerste lid, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bedoelde vergunning voor het aanwezig hebben van een of meer speelautomaten;  
 
 b. basisspel: de fase van het spel van een kansspelautomaat, die meteen na de start van het spel aanvangt en op zichzelf tot een spelresultaat leidt;  
 
-c. exploitatievergunning: de in artikel 30h, eerste lid, van de wet bedoelde vergunning voor het exploiteren van speelautomaten;  
+c. exploitatievergunning: de in [artikel 30h, eerste lid, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) bedoelde vergunning voor het exploiteren van speelautomaten;  
 
 d. gekoppelde-jackpotsysteem: een voorziening, gemeenschappelijk aan ten minste twee kansspelautomaten, die op toevalsbasis, zelfstandig of op basis van een door een aan het systeem gekoppelde kansspelautomaat gegenereerde wincombinatie, een prijs kan toekennen aan een van de aan het systeem gekoppelde automaten of, indien het een automaat betreft waarop meerdere spelers tegelijk een spel kunnen spelen met als basis een centraal toevalsproces, aan een eenheid van een dergelijke automaat waaraan één speler plaats kan nemen;  
 
-e. keuringsinstelling: een krachtens artikel 30o, vijfde lid, van de wet aangewezen instelling;  
+e. keuringsinstelling: een krachtens [artikel 30o, vijfde lid, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) aangewezen instelling;  
 
 f. onderbroken spel: een spel waarbij het vervolgspel niet aansluitend wordt gespeeld op het speldeel waarin het spelresultaat, waarmee wordt gespeeld, is ontstaan, of een spel dat vervolgd wordt tegelijk met het starten van een nieuw basisspel;  
 
@@ -36,11 +36,11 @@ g. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
 h. prijs: een verzilverbaar spelresultaat;  
 
-i. raad: de raad van bestuur van de kansspelautoriteit, bedoeld in artikel 33a van de wet;  
+i. raad: de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md); 
 
-j. speelautomatenhal: een inrichting als bedoeld in artikel 30c, eerste lid, onder c, van de wet;  
+j. speelautomatenhal: een inrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-k. speelcasino: een inrichting als bedoeld in artikel 27g, tweede lid, van de wet;  
+k. speelcasino: een inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
 l. speelinformatiesysteem: het onderdeel van een kansspelautomaat dat de speler informatie geeft over de speellimiet, de verstreken speelduur en het geleden verlies, onderscheidenlijk de behaalde winst;  
 
@@ -52,17 +52,17 @@ o. teller: de bewaareenheid waarin de gegevens met betrekking tot de inworpen, u
 
 p. vervolgspel: de fase van het spel van een kansspelautomaat waarin met het spelresultaat van het basisspel wordt gespeeld;  
 
-q. wet: de Wet op de kansspelen;  
+q. wet: de [Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-r. winbank: het onderdeel van een kansspelautomaat waarop de speler gewonnen prijzen kan verzamelen, die uitsluitend uitbetaald kunnen worden.    
+r. winbank: het onderdeel van een kansspelautomaat waarop de speler gewonnen prijzen kan verzamelen, die uitsluitend uitbetaald kunnen worden.   
 
 ### §  2  
 
-####Aanwezigheidsvergunning
+####Aanwezigheidsvergunning 
 
 ### Artikel  2  
 
-Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan drie biljarttafels aanwezig zijn en waarvoor ingevolge artikel 3, eerste lid, onder a of c, van de Drank- en Horecawet vergunning is verleend en deze nog van kracht is, of waarvan de ondernemer inschrijfplichtig en ingeschreven is bij het Bedrijfschap Horeca.  
+Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan drie biljarttafels aanwezig zijn en waarvoor ingevolge [artikel 3, eerste lid, van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) vergunning is verleend en deze nog van kracht is, of waarvan de ondernemer inschrijfplichtig en ingeschreven is bij het Bedrijfschap Horeca. 
 
 ### Artikel  3  
 
@@ -72,7 +72,7 @@ a. indien de vergunning voor één speelautomaat geldt, ten hoogste €  56,50;
 
 b. indien de vergunning voor twee of meer speelautomaten geldt, ten hoogste € 22,50, vermeerderd met het product van het aantal speelautomaten, waarvoor de vergunning geldt, en een bedrag van ten hoogste € 34.     
 2.  Het eerste lid is van overeenkomstige toepassing, indien de vergunning geldt voor een tijdvak, korter dan 12 maanden of langer dan 12 maanden doch ten hoogste vier jaar, met dien verstande dat de in het eerste lid bedoelde maximumbedragen naar evenredigheid van het verschil in looptijd van de vergunning verlaagd onderscheidenlijk verhoogd worden.   
-3.  Het eerste lid is van overeenkomstige toepassing, indien de vergunning geldt voor een tijdvak van meer dan vier jaar of voor onbepaalde tijd, met dien verstande dat voor de toepassing van onderdeel a in plaats van € 56,50 een bedrag van € 226,50 en voor de toepassing van onderdeel b in plaats van € 22,50 een bedrag van € 90,50 en in plaats van € 34 een bedrag van € 136 geldt.   
+3.  Het eerste lid is van overeenkomstige toepassing, indien de vergunning geldt voor een tijdvak van meer dan vier jaar of voor onbepaalde tijd, met dien verstande dat voor de toepassing van onderdeel a in plaats van € 56,50 een bedrag van € 226,50 en voor de toepassing van onderdeel b in plaats van € 22,50 een bedrag van € 90,50 en in plaats van € 34 een bedrag van € 136 geldt.  
 
 ### Artikel  4  
 
@@ -82,51 +82,53 @@ a. onder curatele staat,
 
 b. in enig opzicht van slecht levensgedrag is,  
 
-c. met toepassing van artikel 37 van het Wetboek van Strafrecht in een psychiatrisch ziekenhuis is geplaatst,  
+c. met toepassing van [artikel 37 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) in een psychiatrisch ziekenhuis is geplaatst,  
 
-d. met toepassing van artikel 37a van het Wetboek van Strafrecht ter beschikking is gesteld, of  
+d. met toepassing van [artikel 37a van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) ter beschikking is gesteld, of  
 
-e. een gedetineerde is als bedoeld in artikel 1, onder e, van de Penitentiaire beginselenwet.     
-2.  Aan degene die wegens misdrijf onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door de rechter in Nederland, de Nederlandse Antillen of Aruba wordt binnen vijf jaar na die veroordeling een vergunning als in het eerste lid bedoeld niet verleend.   
+e. een gedetineerde is als bedoeld in [artikel 1, onder e, van de Penitentiaire beginselenwet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).     
+2.  Aan degene die wegens misdrijf onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door de rechter in Nederland, Aruba, Curaçao of Sint Maarten wordt binnen vijf jaar na die veroordeling een vergunning als in het eerste lid bedoeld niet verleend.   
 3.  Met een veroordeling als bedoeld in het tweede lid worden gelijkgesteld: 
 
-a. een onherroepelijke veroordeling tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een andere rechter wegens een misdrijf waarvoor naar Nederlands recht een bevel tot voorlopige hechtenis ingevolge artikel 67, eerste lid, van het Wetboek van Strafvordering is toegelaten;  
+a. een onherroepelijke veroordeling tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door een andere rechter wegens een misdrijf waarvoor naar Nederlands recht een bevel tot voorlopige hechtenis ingevolge [artikel 67, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is toegelaten;  
 
 b. een bevel tot tenuitvoerlegging van een zodanige voorwaardelijke vrijheidsstraf.     
-4.  Aan degene die bij rechterlijke uitspraak onherroepelijk is veroordeeld tot een onvoorwaardelijke geldboete van € 450 of meer of tot een andere hoofdstraf als bedoeld in artikel 9, eerste lid, onder a, van het Wetboek van Strafrecht, op grond van of wegens of mede wegens overtreding van: 
+4.  Aan degene die bij rechterlijke uitspraak onherroepelijk is veroordeeld tot een onvoorwaardelijke geldboete van € 450 of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), op grond van of wegens of mede wegens overtreding van: 
 
-a. artikel 31 van de wet;  
+a. [artikel 36 van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-b. de artikelen 3, 10, 12, 16, 18juncto 73, 21, 37, derde lid, 38, derde lid, 43, tweede lid, 44, tweede lid, en 56 van de Drank- en Horecawet;  
+b. de [artikelen 3](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [10](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [12](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [16](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [18](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [20](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [21](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) en [24 van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
 
-c. de artikelen 140, 240b, 250ter, 252, 416, 417 of  417bis van het Wetboek van Strafrecht;  
+c. de [artikelen 140](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [240b](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [252](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [417bis van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
-d. de artikelen 2 en 5, tweede en vierde lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus;  
+d. de [artikelen 2](../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) en [5, tweede en vierde lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md);  
 
-e. de artikelen 54 en 55 van de Wet wapens en munitie en binnen vijf jaar na deze veroordeling opnieuw wordt veroordeeld tot een straf als hiervoor bedoeld, wordt een vergunning als in het eerste lid bedoeld niet verleend, totdat vijf jaar zijn verstreken sinds de aan deze laatste veroordeling voorafgaande eerdere veroordeling.     
-5.  Met een veroordeling als bedoeld in het vierde lid wordt gelijkgesteld betaling van een geldsom als bedoeld in artikel 74, tweede lid, onder a, van het Wetboek van Strafrecht, tenzij de geldsom minder bedraagt dan € 340.   
+e. de artikelen 54 en 55 van de Wet wapens en munitie   en binnen vijf jaar na deze veroordeling opnieuw wordt veroordeeld tot een straf als hiervoor bedoeld, wordt een vergunning als in het eerste lid bedoeld niet verleend, totdat vijf jaar zijn verstreken sinds de aan deze laatste veroordeling voorafgaande eerdere veroordeling;  
+
+f. de [artikelen 2](../../../../wet/opiumwet/BWBR0001941/README.md) en [3 van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md).    
+5.  Met een veroordeling als bedoeld in het vierde lid wordt gelijkgesteld betaling van een geldsom als bedoeld in [artikel 74, tweede lid, onder a, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), tenzij de geldsom minder bedraagt dan € 340.   
 6.  Met een veroordeling tot een onvoorwaardelijke geldboete van € 450 of meer als bedoeld in het vierde lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige voorwaardelijke straf.   
-7.  Aan degene die de houder van een aanwezigheidsvergunning voor of bedrijfsleider of beheerder was van een inrichting waarvoor de vergunning onherroepelijk is ingetrokken op grond van artikel 30f, tweede lid, onder b, van de wet of artikel 31, eerste lid, onder d, van de Drank- en Horecawet of die voor tenminste een maand is gesloten op grond van artikel 174 van de Gemeentewet of van een op grond van artikel 149 van de Gemeentewet vastgestelde verordening, wordt binnen drie jaar na die intrekking of sluiting een vergunning als in het eerste lid bedoeld niet verleend, tenzij aannemelijk wordt gemaakt dat hem ter zake geen verwijt treft.   
-8.  De eisen van het eerste tot en met het zevende lid zijn van overeenkomstige toepassing op bedrijfsleiders en beheerders van een hoogdrempelige inrichting of een speelautomatenhal.   
+7.  Aan degene die de houder van een aanwezigheidsvergunning voor of bedrijfsleider of beheerder was van een inrichting waarvoor de vergunning onherroepelijk is ingetrokken op grond van [artikel 30f, tweede lid, onder b, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) of [artikel 31, eerste lid, onder c, van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) of die voor tenminste een maand is gesloten op grond van [artikel 174 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) of van een op grond van [artikel 149 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening, wordt binnen drie jaar na die intrekking of sluiting een vergunning als in het eerste lid bedoeld niet verleend, tenzij aannemelijk wordt gemaakt dat hem ter zake geen verwijt treft.   
+8.  De eisen van het eerste tot en met het zevende lid zijn van overeenkomstige toepassing op bedrijfsleiders en beheerders van een hoogdrempelige inrichting of een speelautomatenhal.  
 
 ### §  3  
 
-####Exploitatievergunning
+####Exploitatievergunning 
 
 ### Artikel  6  
 
 1.  De aanvrager van een exploitatievergunning verstrekt bij de aanvraag gegevens betreffende zijn onderneming en de personen die met de dagelijkse leiding van de onderneming zijn belast, alsmede over de in artikel 8 bedoelde faciliteiten.   
 2.  Bij de indiening van de aanvraag van een exploitatievergunning is de aanvrager een vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning verschuldigd van € 1 815,12.   
-3.  Bij de indiening van de aanvraag van een exploitatievergunning is de aanvrager tevens een vergoeding voor de kosten verbonden aan het toezicht op de naleving door hem van de bij of krachtens titel VA van de wet vastgestelde voorschriften verschuldigd ten bedrage van € 453,78 maal het aantal jaren waarvoor de vergunning geldt.   
-4.  In de exploitatievergunning kan worden bepaald dat het in het derde lid bedoelde verschuldigde bedrag in jaarlijkse termijnen van € 453,78 wordt betaald en dat de betalingsverplichting vervalt nadat de vergunning voortijdig is ingetrokken of vervallen.   
+3.  Bij de indiening van de aanvraag van een exploitatievergunning is de aanvrager tevens een vergoeding voor de kosten verbonden aan het toezicht op de naleving door hem van de bij of krachtens  titel VA van de wet vastgestelde voorschriften verschuldigd ten bedrage van € 453,78 maal het aantal jaren waarvoor de vergunning geldt.   
+4.  In de exploitatievergunning kan worden bepaald dat het in het derde lid bedoelde verschuldigde bedrag in jaarlijkse termijnen van € 453,78 wordt betaald en dat de betalingsverplichting vervalt nadat de vergunning voortijdig is ingetrokken of vervallen.  
 
 ### Artikel  7  
 
-Artikel 4 is van overeenkomstige toepassing op de aanvrager van een exploitatievergunning en de bedrijfsleiders en beheerders van een exploitatie.  
+Artikel 4 is van overeenkomstige toepassing op de aanvrager van een exploitatievergunning en de bedrijfsleiders en beheerders van een exploitatie. 
 
 ### Artikel  8  
 
-De houder van een exploitatievergunning heeft de beschikking over een werkplaats met een oppervlakte van ten minste 35 m <sup>2</sup> en over testapparatuur en overige gereedschappen, nodig voor onderhoud en reparatie van speelautomaten, dan wel heeft permanent de mogelijkheid een derde in te schakelen die over dergelijke faciliteiten beschikt.  
+De houder van een exploitatievergunning heeft de beschikking over een werkplaats met een oppervlakte van ten minste 35 m<sup>2</sup> en over testapparatuur en overige gereedschappen, nodig voor onderhoud en reparatie van speelautomaten, dan wel heeft permanent de mogelijkheid een derde in te schakelen die over dergelijke faciliteiten beschikt.  
 
 ### §  4  
 
@@ -134,12 +136,12 @@ De houder van een exploitatievergunning heeft de beschikking over een werkplaats
 
 ### §  4.1  
 
-####Speelautomaten algemeen
+####Speelautomaten algemeen 
 
 ### Artikel  9  
 
 1.  Op het model van een speelautomaat wordt op een voor de speler zichtbare plaats en op een voor hem duidelijke wijze informatie gegeven met betrekking tot de wijze waarop het spel gespeeld wordt, het spelverloop en de mogelijke spelresultaten.   
-2.  Tekens, voorstellingen of opschriften op het model van een speelautomaat, die winstmogelijkheden aangeven, zijn niet misleidend en geven niet anderszins aanleiding tot misvatting.   
+2.  Tekens, voorstellingen of opschriften op het model van een speelautomaat, die winstmogelijkheden aangeven, zijn niet misleidend en geven niet anderszins aanleiding tot misvatting.  
 
 ### Artikel  10  
 
@@ -149,19 +151,19 @@ De houder van een exploitatievergunning heeft de beschikking over een werkplaats
 a. het spelproces slechts beïnvloed kan worden met behulp van in het kader van dat proces aan de speler geboden middelen;  
 
 b. ingeval een of meer karakteristieke eigenschappen van het model gewijzigd worden, dit een zodanige wijziging van het model ten gevolge heeft dat het niet meer overeenstemt met het toegelaten model.     
-3.  Met betrekking tot de in het eerste en tweede lid geregelde onderwerpen kan Onze Minister nadere regels stellen.   
+3.  Met betrekking tot de in het eerste en tweede lid geregelde onderwerpen kan Onze Minister nadere regels stellen.  
 
 ### §  4.2  
 
-####Speelautomaten bestemd voor opstelling in speelcasino's
+####Speelautomaten bestemd voor opstelling in speelcasino's 
 
 ### Artikel  11  
 
-In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een speelcasino worden voorschriften gegeven, welke gelden als voorwaarden tot toelating van het model van de kansspelautomaten, bestemd voor de opstelling in speelcasino's. De artikelen 9 en 10 zijn van toepassing.  
+In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een speelcasino worden voorschriften gegeven, welke gelden als voorwaarden tot toelating van het model van de kansspelautomaten, bestemd voor de opstelling in speelcasino's. De artikelen 9 en 10 zijn van toepassing. 
 
 ### §  4.3  
 
-####Kansspelautomaten niet bestemd voor opstelling in speelautomatenhallen of speelcasino's
+####Kansspelautomaten niet bestemd voor opstelling in speelautomatenhallen of speelcasino's 
 
 ### Artikel  12  
 
@@ -181,7 +183,7 @@ f. de totale waarde van de aan spelers uit te keren prijzen gemiddeld ten minste
 
 g. de speler gemiddeld per uur niet meer verlies kan lijden dan € 40;  
 
-h. de tijd die verstrijkt tussen de start van een basisspel en het moment waarop het volgende basisspel gestart kan worden, ten minste drie en een halve seconde bedraagt en gemiddeld ten minste vier seconden;  
+h. de tijd die verstrijkt tussen de start van een basisspel en het moment waarop het volgende basisspel gestart kan worden, ten minste drie en een halve seconde bedraagt en gemiddeld ten minste vier seconden;   
 
 i. het spelproces, nadat het in werking is gesteld, kan verlopen zonder beïnvloeding door de speler, anders dan nodig is voor het maken van de keuze tussen beëindiging en onbeïnvloede voortzetting van het spel;  
 
@@ -235,7 +237,7 @@ gg. geen gekoppelde-jackpotsysteem aanwezig is;
 
 hh. in de automaat een elektro-mechanische niet-resetbare teller aanwezig is die alle inworpen, uitbetalingen en gespeelde spellen registreert;  
 
-ii. inworp van bankbiljetten niet mogelijk is indien het tegoed op de kredietmeter hoger is dan een bij ministeriële regeling te bepalen bedrag.     
+ii. inworp van bankbiljetten niet mogelijk is indien het tegoed op de kredietmeter hoger is dan een bij ministeriële regeling te bepalen bedrag.    
 2.  Op het model van een kansspelautomaat als bedoeld in het eerste lid, zijn op een voor de speler zichtbare plaats aan de voorzijde daarvan opschriften aanwezig met de duidelijk leesbare tekst «Het toevalskarakter is niet te beïnvloeden», «Voorkom gokverslaving – Speel met mate» en «Spelen onder de 18 jaar is niet toegestaan».   
 3.  In afwijking van het eerste lid, onder h, m, n, p, q, u, z, aa en ff, wordt het model van de kansspelautomaat, indien het een model betreft waarvan het uitkeringspercentage als bedoeld in het eerste lid, onder f, ten minste 70% en het uurverlies, bedoeld in het eerste lid, onder g, ten hoogste € 30 bedraagt, zodanig geconstrueerd dat: 
 
@@ -256,11 +258,11 @@ g. wanneer een basisspel gestart wordt, de som van de waarde van de te innen pri
 h. bij simultaan afspelen van onderbroken spellen, per handeling een prijs behaald kan worden van maximaal 300 maal de inzet van het basisspel waarbij per handeling de som van de waarde van de te innen prijzen en de volgens statistische methoden gewaardeerde kansen op prijzen niet meer kan bedragen dan 300 maal de inzet van het basisspel; en  
 
 i. presentatie of suggestie van spelresultaten hoger dan 300 maal de inzet van het basisspel niet mogelijk is.     
-4.  Onze Minister kan nadere regels stellen over de in het eerste tot en met derde lid genoemde onderwerpen.   
+4.  Onze Minister kan nadere regels stellen over de in het eerste tot en met derde lid genoemde onderwerpen. 
 
 ### §  4.4  
 
-####Kansspelautomaten bestemd voor opstelling in speelautomatenhallen
+####Kansspelautomaten bestemd voor opstelling in speelautomatenhallen 
 
 ### Artikel  13  
 
@@ -314,7 +316,7 @@ w. indien het één automaat betreft waarop meerdere spelers tegelijk een spel k
 
 x. indien het één automaat betreft waarop meerdere spelers tegelijk een spel kunnen spelen met als basis een centraal toevalsproces, geen onderlinge beïnvloeding kan plaatsvinden van de kansen of prijzen tussen de afzonderlijke eenheden waaraan één speler kan plaatsnemen;  
 
-y. de automaat ten hoogste aan één gekoppelde-jackpotsysteem kan worden aangesloten;  
+y. de automaat ten hoogste aan één gekoppelde-jackpotsysteem kan worden aangesloten;   
 
 z. een gekoppelde-jackpotsysteem alleen kan werken als ten minste twee daaraan gekoppelde automaten in werking zijn gesteld en bespeeld kunnen worden;  
 
@@ -330,7 +332,7 @@ ee. voor een gekoppelde-jackpotsysteem een aanvangsbedrag van maximaal € 200 
 
 ff. na inworp van een bankbiljet een bij ministeriële regeling te bepalen wachttijd volgt, gedurende welke op die spelersplaats geen verdere inworp mogelijk is en geen nieuw basisspel of vervolgspel gestart kan worden; en  
 
-gg. inworp van bankbiljetten niet mogelijk is indien het tegoed op de kredietmeter hoger is dan een bij ministeriële regeling te bepalen bedrag.     
+gg. inworp van bankbiljetten niet mogelijk is indien het tegoed op de kredietmeter hoger is dan een bij ministeriële regeling te bepalen bedrag.    
 2.  In afwijking van het eerste lid, onder e en s, is, indien het één automaat betreft waarop meerdere spelers tegelijk een spel kunnen spelen met als basis een centraal toevalsproces, de kansspelautomaat zodanig geconstrueerd dat: 
 
 a. de inzet per basisspel per eenheid waaraan één speler plaats kan nemen niet meer bedraagt dan een derde van de minimale duur in seconden van een door de automaat aangeboden spel, gemeten van de start van een basisspel tot de start van het volgende basisspel, vermenigvuldigd met €  0,20, waarbij een maximum geldt van € 8;  
@@ -345,7 +347,7 @@ a. de som van de waarde aan prijzen, die in één spel gewonnen kan worden en de
 b. bij simultaan afspelen van onderbroken spellen, per handeling een prijs behaald kan worden van maximaal 400 maal de inzet van het basisspel waarbij per handeling de som van de waarde van de te innen prijzen en de volgens statistische methoden gewaardeerde kansen op prijzen niet meer kan bedragen dan 400 maal de inzet van het basisspel;  
 
 c. per spel niet meer uitgekeerd kan worden aan prijzen dan een waarde van 400 maal de inzet van het basisspel.     
-6.  Onze Minister kan nadere regels stellen over de in het eerste tot en met vijfde lid genoemde onderwerpen.   
+6.  Onze Minister kan nadere regels stellen over de in het eerste tot en met vijfde lid genoemde onderwerpen. 
 
 ### Artikel  14  
 
@@ -360,7 +362,7 @@ b. een maximum kan worden gesteld aan de hoogte van het tegoed op de kredietmete
 c. een maximum kan worden gesteld aan de hoogte van het spelerstegoed;  
 
 d. de speler tijdens openingstijden te allen tijde het tegoed kan laten uitbetalen.     
-4.  De mechanische, elektrische en elektronische processen die gepaard gaan met een centraal inworp- en uitbetalingsmechanisme zijn onderworpen aan een voorafgaande goedkeuring en periodiek controle door een door de raad aan te wijzen onafhankelijke deskundige of keuringsinstelling.   
+4.  De mechanische, elektrische en elektronische processen die gepaard gaan met een centraal inworp- en uitbetalingsmechanisme zijn onderworpen aan een voorafgaande goedkeuring en periodiek controle door een door de raad aan te wijzen onafhankelijke deskundige of keuringsinstelling. 
 
 ### Artikel  15  
 
@@ -370,11 +372,11 @@ d. de speler tijdens openingstijden te allen tijde het tegoed kan laten uitbetal
 
 a. speelautomatenhallen waar uitsluitend behendigheidsautomaten staan opgesteld;  
 
-b. van een speelautomatenhal deel uitmakende afgescheiden ruimten, waar uitsluitend behendigheidsautomaten staan opgesteld en welke men uitsluitend kan betreden of verlaten zonder de overige ruimten van de speelautomatenhal te betreden.     
+b. van een speelautomatenhal deel uitmakende afgescheiden ruimten, waar uitsluitend behendigheidsautomaten staan opgesteld en welke men uitsluitend kan betreden of verlaten zonder de overige ruimten van de speelautomatenhal te betreden.    
 
 ### §  4.5  
 
-####Behendigheidsautomaten
+####Behendigheidsautomaten 
 
 ### Artikel  16  
 
@@ -385,46 +387,46 @@ a. het spelproces, ook nadat het in werking is gesteld, door de speler kan worde
 b. geen onderdelen aanwezig zijn, die functioneren of kunnen functioneren als een mechanisme voor de uitkering van prijzen dan wel die indruk wekken;  
 
 c. uitsluitend spelresultaten worden weergegeven die geheel of vrijwel geheel zijn verkregen door het inzicht en de behendigheid van de speler.     
-2.  Met betrekking tot de in het eerste lid geregelde onderwerpen kan Onze Minister nadere regels stellen.   
+2.  Met betrekking tot de in het eerste lid geregelde onderwerpen kan Onze Minister nadere regels stellen.  
 
 ### §  4.6  
 
-####Procedures
+####Procedures 
 
 ### Artikel  17  
 
 1.  De aanvraag om toelating van een model van een speelautomaat gaat vergezeld van een keuringsrapport van een keuringsinstelling.   
-2.  Voor de keuring is de aanvrager een vergoeding als bedoeld in artikel 30o, vierde lid, van de wet verschuldigd ten bedrage van € 13 613,40, indien de keuring het model van een kansspelautomaat betreft, en van € 294,96, indien de keuring het model van een behendigheidsautomaat betreft.   
-3.  De vergoeding die verschuldigd is voor de keuring wordt verminderd, indien de aard en de omvang van de werkzaamheden, verbonden aan het onderzoek van het model, daartoe naar het oordeel van de keuringsinstelling aanleiding geven.   
+2.  Voor de keuring is de aanvrager een vergoeding als bedoeld in [artikel 30o, vierde lid, van de wet](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) verschuldigd ten bedrage van € 13 613,40, indien de keuring het model van een kansspelautomaat betreft, en van € 294,96, indien de keuring het model van een behendigheidsautomaat betreft.   
+3.  De vergoeding die verschuldigd is voor de keuring wordt verminderd, indien de aard en de omvang van de werkzaamheden, verbonden aan het onderzoek van het model, daartoe naar het oordeel van de keuringsinstelling aanleiding geven.  
 
 ### Artikel  18  
 
 1.  De aanvrager van de keuring van het model van een speelautomaat doet de keuringsinstelling op haar verzoek het model van de speelautomaat toekomen.   
 2.  De aanvrager van de keuring van het model van een speelautomaat stelt de keuringsinstelling in de gelegenheid het aantal met het model overeenstemmende speelautomaten of onderdelen daarvan te onderzoeken, dat naar haar oordeel voor een deugdelijk onderzoek met het oog op de toelating nodig is.   
-3.  De aanvrager van de keuring van het model van een speelautomaat stelt de keuringsinstelling op haar verzoek alle hulpmiddelen, faciliteiten en informatie ter beschikking die voor het onderzoek noodzakelijk zijn.   
+3.  De aanvrager van de keuring van het model van een speelautomaat stelt de keuringsinstelling op haar verzoek alle hulpmiddelen, faciliteiten en informatie ter beschikking die voor het onderzoek noodzakelijk zijn.  
 
 ### §  5  
 
-####Overgangs- en slotbepalingen
+####Overgangs- en slotbepalingen 
 
 ### Artikel  19  
 
-Wijzigt het Besluit inlichtingen justitiële documentatie.   
+Wijzigt het Besluit inlichtingen justitiële documentatie.  
 
 ### Artikel  20  
 
-1.  In afwijking van artikel 6, tweede lid, is degene die gedurende de overgangstermijn van artikel IV, tweede lid, van de wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten) (Stb. 1999, 9) een exploitatievergunning aanvraagt ter vervanging van een aan het einde van de overgangstermijn ingevolge dat artikellid nog geldende exploitatievergunning, voor die aanvraag geen vergoeding verschuldigd voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning.   
+1.  In afwijking van artikel 6, tweede lid, is degene die gedurende de overgangstermijn van [artikel IV, tweede lid, van de wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten) (Stb. 1999, 9)](../../../../wet/wijzigingswet/wet/op/de/kansspelen/(speelautomaten)/BWBR0010183/README.md) een exploitatievergunning aanvraagt ter vervanging van een aan het einde van de overgangstermijn ingevolge dat artikellid nog geldende exploitatievergunning, voor die aanvraag geen vergoeding verschuldigd voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning.   
 2.  In afwijking van artikel 6, derde lid, is degene die gedurende de in het eerste lid bedoelde overgangstermijn een aanvraag als in dat lid bedoeld indient, bij de indiening van deze aanvraag een vergoeding voor de kosten verbonden aan het toezicht op de naleving door hem van de bij of krachtens titel VA van de wet vastgestelde voorschriften verschuldigd ten bedrage van € 453,78 maal het aantal jaren waarvoor de vergunning geldt, alsmede een éénmalig bedrag van € 453,78 maal de breuk die gevormd wordt door het aantal dagen dat gelegen is tussen de laatste keer dat de aanvrager € 453,78 op grond van artikel 12 van het Speelautomatenbesluit heeft betaald en het begin van de overgangstermijn, bedoeld in het eerste lid, en 365.   
 3.  Indien op een aanvraag van een exploitatievergunning die voor de inwerkingtreding van dit besluit is ingediend, na de inwerkingtreding van dit besluit wordt beslist, is, in afwijking van artikel 6, derde lid, de in dat artikellid bedoelde vergoeding verschuldigd bij de verlening van de exploitatievergunning.   
-4.  Artikel 4, tweede tot en met achtste lid, en artikel 7 juncto artikel 4, tweede tot en met achtste lid, gelden ten aanzien van hen, die op het tijdstip van inwerkingtreding van dit besluit houder waren van een aanwezigheidsvergunning respectievelijk een exploitatievergunning, dan wel werkzaam waren als bedrijfsleider of beheerder van een inrichting waarvoor een dergelijke vergunning wordt aangevraagd of is verleend, niet met betrekking tot feiten als in artikel 4, tweede tot en met zevende lid, bedoeld die een grond zijn een vergunning te weigeren, die zich voorgedaan hebben vóór de inwerkingtreding van dit besluit.   
+4.   Artikel 4, tweede tot en met achtste lid, en artikel 7 juncto artikel 4, tweede tot en met achtste lid, gelden ten aanzien van hen, die op het tijdstip van inwerkingtreding van dit besluit houder waren van een aanwezigheidsvergunning respectievelijk een exploitatievergunning, dan wel werkzaam waren als bedrijfsleider of beheerder van een inrichting waarvoor een dergelijke vergunning wordt aangevraagd of is verleend, niet met betrekking tot feiten als in artikel 4, tweede tot en met zevende lid, bedoeld die een grond zijn een vergunning te weigeren, die zich voorgedaan hebben vóór de inwerkingtreding van dit besluit.  
 
 ### Artikel  21  
 
-Het Speelautomatenbesluit wordt ingetrokken.  
+Het Speelautomatenbesluit wordt ingetrokken. 
 
 ### Artikel  22  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  23  
 
@@ -434,7 +436,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 23 mei 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Economische Zaken, 
 A. Jorritsma-Lebbink   
@@ -442,4 +444,4 @@ A. Jorritsma-Lebbink
 de dertigste mei 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

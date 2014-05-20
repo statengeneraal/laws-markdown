@@ -8,21 +8,16 @@ Voor de toepassing van deze algemene maatregel van bestuur wordt verstaan onder 
 
 (a) drank, die bij een temperatuur van vijftien graden van de honderddelige schaal meer dan een en twintig volumen procenten alcohol bevat;  
 
-(b) onvermengde, door overhaling verkregen alcoholhoudende drank, alsmede likeur en bitter, voor zover niet reeds vallende onder de onder (a) bedoelde definitie van sterke drank.    
+(b) onvermengde, door overhaling verkregen alcoholhoudende drank, alsmede likeur en bitter, voor zover niet reeds vallende onder de onder (a) bedoelde definitie van sterke drank.   
 
 ### Artikel  2  
 
 1.  Reclame boodschappen voor sterke drank mogen niet gericht zijn tot minderjarigen.   
-2.  Reclame boodschappen voor sterke drank mogen slechts uitgezonden worden tussen 22.00 en 01.00 uur.   
-3.  In bijzondere gevallen kan Onze Minister bij beschikking ontheffing verlenen van het bepaalde in het vorige lid.   
+2.  Reclame boodschappen voor sterke drank mogen slechts uitgezonden worden tussen 22.00 en 01.00 uur.  
 
 ### Artikel  3  
 
-De tijdsduur van een reclame boodschap voor sterke drank mag nimmer de duur van 60 seconden overschrijden, terwijl tussen twee zodanige boodschappen tenminste 10 minuten moeten verlopen.  
-
-### Artikel  4  
-
-Aan bonafide maatschappelijke organisaties met een niet-commercieel doel die zich via de televisie tegen het gebruik van sterke drank wensen uit te spreken, zal desverzocht gelegenheid dienen te worden geboden hun mening terzake te doen kenbaar maken.  
+De tijdsduur van een reclame boodschap voor sterke drank mag nimmer de duur van 60 seconden overschrijden, terwijl tussen twee zodanige boodschappen tenminste 10 minuten moeten verlopen. 
 
 ### Artikel  5  
 
@@ -33,12 +28,12 @@ Aan bonafide maatschappelijke organisaties met een niet-commercieel doel die zic
 
 – het uitloven van sterke drank als prijs of geschenk;  
 
-– het aanbieden van geschenken of prijzen ter stimulering van de verkoop van sterke drank.     
+– het aanbieden van geschenken of prijzen ter stimulering van de verkoop van sterke drank.    
 
 ### Artikel  6  
 
-Dit besluit berust op artikel 7, vijfde lid, van de Mediawet BES.  
+Een ontheffing die is verleend op grond van artikel 2, derde lid, van het Landsbesluit houdende algemene maatregelen van de 24ste november 1972 ter uitvoering van artikel 5, lid 1, onder f, van de Televisie-landsverordening (P.B. 1971, no. 33) (P.B. 1972, no. 237) of op grond van het Besluit televisie- en radioreclame voor sterke drank BES, geldt tot en met een jaar na het tijdstip van inwerkingtreding van het [Mediabesluit BES](../../../../../../../../../../AMvB-BES/mediabesluit/bes/BWBR0029602/README.md). 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit televisie- en radioreclame voor sterke drank BES.  
+Dit besluit wordt aangehaald als: Besluit televisie- en radioreclame voor sterke drank BES. 

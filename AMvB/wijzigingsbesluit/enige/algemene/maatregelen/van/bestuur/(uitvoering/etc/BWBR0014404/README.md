@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit onkostenvergoeding rechterlijke ambtenaren.   
+Wijzigt het Besluit onkostenvergoeding rechterlijke ambtenaren.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.   
+Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.  
 
 ### Artikel  III  
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.   
+Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.  
 
 ### Artikel  IV  
 
@@ -39,7 +39,7 @@ d. voor de in [artikel 4, eerste lid, van genoemd besluit](../../../../../../../
 
 e. voor de in [artikel 5, eerste lid, van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren: f 1338;  
 
-f. voor de in [artikel 6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren in opleiding: f 966.    
+f. voor de in [artikel 6 van genoemd besluit](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedoelde rechterlijke ambtenaren in opleiding: f 966.   
 
 ### Artikel  V  
 
@@ -60,15 +60,15 @@ f. voor de in [artikel 6 van genoemd besluit](../../../../../../../../../../AMvB
 ### Artikel  VI  
 
 1.  In afwijking van [artikel 7, eerste lid, van het Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) wordt aan de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak, de onkostenvergoeding toegekend die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige taak.   
-2.  Het eerste lid is niet van toepassing op de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak en die op of na het tijdstip van inwerkingtreding van dit besluit een nieuwe aanstelling krijgen voor het vervullen van minder dan de helft van een volledige taak.   
+2.  Het eerste lid is niet van toepassing op de rechterlijke ambtenaren die voor de inwerkingtreding van dit besluit zijn aangesteld voor het vervullen van minder dan de helft van een volledige taak en die op of na het tijdstip van inwerkingtreding van dit besluit een nieuwe aanstelling krijgen voor het vervullen van minder dan de helft van een volledige taak.  
 
 ### Artikel  VII  
 
-In afwijking van artikel 7a van het Besluit onkostenvergoeding rechterlijke ambtenaren heeft de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, die voor de inwerkingtreding van dit besluit ongeschikt was tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend.  
+In afwijking van artikel 7a van het Besluit onkostenvergoeding rechterlijke ambtenaren heeft de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, die voor de inwerkingtreding van dit besluit ongeschikt was tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend. 
 
 ### Artikel  VIII  
 
-In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak hebben de in dat artikel genoemde personen, die voor de inwerkingtreding van dit besluit ongeschikt waren tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding en een representatievergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend.  
+In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak hebben de in dat artikel genoemde personen, die voor de inwerkingtreding van dit besluit ongeschikt waren tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding en een representatievergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend. 
 
 ### Artikel  IX  
 
@@ -80,13 +80,13 @@ In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen
 1.  Over het jaar 2000 wordt de eindejaarsuitkering, bedoeld in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, verhoogd met 0,7% van het in dat jaar genoten salaris.   
 2.  Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van een volledige taak, wordt de eindejaarsuitkering over het jaar 2000 verhoogd met een bedrag van f 206 bruto.   
 3.  Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van minder dan een volledige taak, wordt de eindejaarsuitkering over het jaar 2000 verhoogd met een met hun werktijd overeenkomend deel van het in het tweede lid genoemde bedrag.   
-4.  De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2000.   
+4.  De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2000.  
 
 ### Artikel  XI  
 
 1.  Voor de in artikel 1 van het Besluit eindejaarsuitkering, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van een volledige taak, wordt de eindejaarsuitkering over het jaar 2001 verhoogd met een bedrag van f 1165 bruto alsmede met een bedrag van f 564 bruto.   
 2.  Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van minder dan een volledige taak, wordt de eindejaarsuitkering over het jaar 2001 verhoogd met een met hun werktijd overeenkomend deel van het in het eerste lid genoemde bedrag.   
-3.  De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2001.   
+3.  De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2001.  
 
 ### Artikel  XII  
 
@@ -94,22 +94,22 @@ In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen
 2.  Het aantal uren waarmee het totale aantal in een jaar gespaarde uren kan worden verlaagd, bedraagt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding maximaal het totale aantal opgespaarde uren. Het aantal in een jaar opgespaarde uren kan alleen worden verlaagd met een aantal uren dat deelbaar is door het getal vier.   
 3.  Onze Minister van Justitie stelt vast voor welke datum verzoeken als bedoeld in het eerste lid kunnen worden ingediend.   
 4.  De functionele autoriteit beslist op of na de in het derde lid bedoelde datum gelijktijdig op de voor die datum ingediende verzoeken.   
-5.  De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur waarmee zijn totale aantal in een jaar opgespaarde uren overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister van Justitie krachtens het derde lid vastgestelde datum.   
+5.  De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur waarmee zijn totale aantal in een jaar opgespaarde uren overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister van Justitie krachtens het derde lid vastgestelde datum.  
 
 ### Artikel  XIII  
 
 1.  De rechterlijk ambtenaar die in de jaren 2001 of 2002 werkzaamheden verricht als rechter-commissaris in strafzaken of piketofficier ontvangt een tijdelijke toelage.   
 2.  Onze Minister van Justitie stelt de hoogte van de tijdelijke toelage vast.   
-3.  Onze Minister van Justitie stelt vast voor welke datum de functionele autoriteit de opdracht tot uitbetaling van de tijdelijke toelage aan de in het eerste lid bedoelde rechterlijk ambtenaar geeft.   
+3.  Onze Minister van Justitie stelt vast voor welke datum de functionele autoriteit de opdracht tot uitbetaling van de tijdelijke toelage aan de in het eerste lid bedoelde rechterlijk ambtenaar geeft.  
 
 ### Artikel  XIV  
 
 1.  Een rechterlijk ambtenaar kan een eenmalige toelage ontvangen vanwege de extra inspanningen in verband met de modernisering en reorganisatie van de rechterlijke organisatie.   
-2.  Onze Minister van Justitie stelt de hoogte van de eenmalige toelage vast.   
+2.  Onze Minister van Justitie stelt de hoogte van de eenmalige toelage vast.  
 
 ### Artikel  XV  
 
-De [Regeling ziektekostenvoorziening rechterlijke ambtenaren](../../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rechterlijke/ambtenaren/BWBR0008815/README.md) wordt ingetrokken.  
+De [Regeling ziektekostenvoorziening rechterlijke ambtenaren](../../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/rechterlijke/ambtenaren/BWBR0008815/README.md) wordt ingetrokken. 
 
 ### Artikel  XVI  
 
@@ -121,7 +121,7 @@ b. wat de artikelen III, onderdeel I, V, XI, XII en XIII betreft: tot en met 1 
 
 c. wat de artikelen IV en X betreft: tot en met 1 januari 2000.     
 2.  Artikel III, onderdeel C, treedt in werking met ingang van 1 januari 2003.   
-3.  Artikel III, onderdeel E, onder d, treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 april 2002.   
+3.  Artikel III, onderdeel E, onder d, treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 april 2002.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -135,4 +135,4 @@ J. P. H. Donner
 de zeventiende december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit Infrastructuurfonds.   
+Wijzigt het Besluit Infrastructuurfonds.  
 
 ### Artikel  IV  
 
-In afwijking van [artikel 36, vijfde lid, van het Besluit Infrastructuurfonds](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) kan, Onze Minister van Verkeer en Waterstaat de doeluitkering die vóór de inwerkingtreding van dit besluit is verstrekt terugvorderen indien deze niet binnen vier jaar na inwerkingtreding van dit besluit is verplicht overeenkomstig [artikel 29](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) of [artikel 31 van het Besluit Infrastructuurfonds](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md).  
+In afwijking van[ artikel 36, vijfde lid, van het Besluit Infrastructuurfonds](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) kan, Onze Minister van Verkeer en Waterstaat de doeluitkering die vóór de inwerkingtreding van dit besluit is verstrekt terugvorderen indien deze niet binnen vier jaar na inwerkingtreding van dit besluit is verplicht overeenkomstig [artikel 29](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) of [artikel 31 van het Besluit Infrastructuurfonds](../../../../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md). 
 
 ### Artikel  VI  
 
 1.  De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Dit besluit kan voor wat betreft artikel I, onderdeel N, terugwerken tot en met een in het koninklijk besluit, bedoeld in het eerste lid, te bepalen tijdstip.   
+2.  Dit besluit kan voor wat betreft artikel I, onderdeel N, terugwerken tot en met een in het koninklijk besluit, bedoeld in het eerste lid, te bepalen tijdstip.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -33,9 +33,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Minister van Verkeer en Waterstaat, 
-R. H. de Boer   
+R. H. de Boer    
 
 de negentiende december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

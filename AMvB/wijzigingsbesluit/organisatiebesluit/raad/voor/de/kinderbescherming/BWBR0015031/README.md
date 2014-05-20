@@ -15,12 +15,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Organisatiebesluit raad voor de kinderbescherming.   
+Wijzigt het Organisatiebesluit raad voor de kinderbescherming.  
 
 ### Artikel  II  
 
 1.  Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet van 26 september 2002 houdende wijziging van de Wet op de jeugdhulpverlening in verband met de advies- en meldpunten kindermishandeling](../../../../../../../../wet/wijzigingswet/wet/op/de/jeugdhulpverlening/(advies-/en/meldpunten/etc/BWBR0014071/README.md) (Stb. 2002, 515) in werking treedt.   
-2.  In afwijking van het eerste lid, doet de raad voor de kinderbescherming uiterlijk zes maanden na inwerkingtreding in situaties als bedoeld in [artikel 2a, derde lid](../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/BWBR0008125/README.md), mededeling aan het advies- en meldpunt kindermishandeling dat werkzaam is in de provincie waarin de jeugdige duurzaam verblijft.   
+2.  In afwijking van het eerste lid, doet de raad voor de kinderbescherming uiterlijk zes maanden na inwerkingtreding in situaties als bedoeld in [artikel 2a, derde lid](../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/BWBR0008125/README.md), mededeling aan het advies- en meldpunt kindermishandeling dat werkzaam is in de provincie waarin de jeugdige duurzaam verblijft.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -34,4 +34,4 @@ J. P. H. Donner
 de twintigste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

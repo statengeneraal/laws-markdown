@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen.   
+Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen.  
 
 ### Artikel  II  
 
-Op de aanvraag om een vergunning als bedoeld in [artikel 23 van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) die is ingediend voor de datum van inwerkingtreding van dit besluit, wordt beslist overeenkomstig het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.  
+Op de aanvraag om een vergunning als bedoeld in [artikel 23 van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) die is ingediend voor de datum van inwerkingtreding van dit besluit, wordt beslist overeenkomstig het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ P. L. B. A. van Geel
 de zesde maart 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

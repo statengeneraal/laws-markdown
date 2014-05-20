@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 5 september 2003, VGB/VL 2405520, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
 
-Gelet op richtlijn nr. 2001/110/EG van de Raad van de Europese Unie van 20 december 2001 inzake honing (PbEG 2002, L 10), alsmede op artikel 8, onder a, en c, artikel 12, artikel 13, onder a, en artikel 32b, eerste lid, van de Warenwet;
+Gelet op richtlijn nr. 2001/110/EG van de Raad van de Europese Unie van 20 december 2001 inzake honing (PbEG 2002, L 10), alsmede op [artikel 8, onder a, en c](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 12](../../../../wet/warenwet/BWBR0001969/README.md), [artikel 13, onder a](../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 32b, eerste lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
 
 De Raad van State gehoord (advies van 20 oktober 2003, nummer W13.03.0376/III);
 
@@ -18,14 +18,14 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder *honing*: de natuurlijke zoete stof, bereid uit bloemennectar of uit afscheidingsproducten van levende plantendelen of uitscheidingsproducten van plantensapzuigende insecten op de levende plantendelen, welke grondstoffen door de bijensoort Apis mellifera worden vergaard, verwerkt door vermenging met eigen specifieke stoffen, gedehydreerd, en in de honingraten opgeslagen en achtergelaten om te rijpen.  
+In dit besluit wordt verstaan onder *honing*: de natuurlijke zoete stof, bereid uit bloemennectar of uit afscheidingsproducten van levende plantendelen of uitscheidingsproducten van plantensapzuigende insecten op de levende plantendelen, welke grondstoffen door de bijensoort Apis mellifera worden vergaard, verwerkt door vermenging met eigen specifieke stoffen, gedehydreerd, en in de honingraten opgeslagen en achtergelaten om te rijpen. 
 
 ### Artikel  2  
 
 1.  Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun kenmerken en samenstelling.   
 2.  Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met in achtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.   
 3.  Het is verboden met gebruikmaking van de bij dit besluit gegeven aanduidingen andere waren te verhandelen dan die waren waaraan die aanduidingen bij dit besluit zijn voorbehouden.   
-4.  Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld, met betrekking tot het bezigen van vermeldingen of voorstellingen, betreffende de aard, de samenstelling, uitvoering of hoedanigheid van de waar.   
+4.  Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld, met betrekking tot het bezigen van vermeldingen of voorstellingen, betreffende de aard, de samenstelling, uitvoering of hoedanigheid van de waar.  
 
 ### §  2  
 
@@ -51,7 +51,7 @@ f. aan de waar zijn geen pollen noch enig ander bestanddeel dat specifiek is voo
 
 a. de waar is zoveel mogelijk vrij van organische of anorganische vreemde bestanddelen; en  
 
-b. de zuurtegraad van de waar is niet kunstmatig gewijzigd.     
+b. de zuurtegraad van de waar is niet kunstmatig gewijzigd.    
 
 ### Artikel  4  
 
@@ -63,13 +63,13 @@ b. is vloeibaar, dikvloeibaar, of – gedeeltelijk of geheel – gekristalliseer
 
 c. heeft een smaak en een aroma die zijn afgeleid van de plant van oorsprong; en  
 
-d. heeft een kleur die varieert van bijna kleurloos tot donkerbruin.    
+d. heeft een kleur die varieert van bijna kleurloos tot donkerbruin.   
 
 ### Artikel  5  
 
 1.  De soortelijke elektrische geleiding van de krachtens § 3 als honing, bloemenhoning, nectarhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar, bedraagt ten hoogste 0,8 mS/cm.   
 2.  In afwijking van het eerste lid bedraagt de soortelijke elektrische geleiding van honing die krachtens § 3 tevens mag worden aangeduid als honingdauwhoning en van de als kastanjebloesemhoning aangeduide waar en mengsels daarvan, ten minste 0,8 mS/cm.   
-3.  Het tweede lid is niet van toepassing voorzover een daar bedoeld mengsel is verkregen uit de aardbeiboom (Arbutus unedo), dopheide (Erica), eucalyptys, lindebloesem (Tilia spp.), struikheide (Calluna vulgaris), Leptospermum of Melaleuca spp..   
+3.  Het tweede lid is niet van toepassing voorzover een daar bedoeld mengsel is verkregen uit de aardbeiboom (Arbutus unedo), dopheide (Erica), eucalyptys, lindebloesem (Tilia spp.), struikheide (Calluna vulgaris), Leptospermum of Melaleuca spp..  
 
 ### Artikel  6  
 
@@ -77,7 +77,7 @@ d. heeft een kleur die varieert van bijna kleurloos tot donkerbruin.
 2.  In afwijking van het eerste lid bedraagt wat betreft honing met een gering natuurlijk enzymgehalte en een hydroxymethylfurfural (HMF) van niet meer dan 15 milligram per kilo, de diastase-index ten minste 3.   
 3.  Het gehalte aan hydroxymethylfurfural van de in het eerste lid bedoelde waren bedraagt ten hoogste 40 milligram per kilo, onverminderd het bepaalde in het tweede lid.   
 4.  Het gehalte aan hydroxymethylfurfural bedraagt wat betreft honing waarbij als plaats van oorsprong wordt gebezigd een gebied met een tropisch klimaat en mengsels daarvan ten hoogste 80 milligram per kilogram.   
-5.  De diastase-index en het gehalte aan hydroxymehylfurfural worden vastgesteld na bereiding en vermenging van de in dit artikel bedoelde waren.   
+5.  De diastase-index en het gehalte aan hydroxymehylfurfural worden vastgesteld na bereiding en vermenging van de in dit artikel bedoelde waren.  
 
 ### Artikel  7  
 
@@ -87,7 +87,7 @@ a. levensmiddeleningrediënten;
 
 b. levensmiddelenadditieven; en  
 
-c. andere stoffen dan honing.    
+c. andere stoffen dan honing.   
 
 ### §  3  
 
@@ -105,7 +105,7 @@ d. De aanduiding *lekhoning* wordt gebezigd voor honing die is verkregen door he
 
 e. De aanduiding *slingerhoning* wordt gebezigd voor honing die is verkregen door het slingeren van geopende raten zonder broed.  
 
-f. De aanduiding *gefilterde honing* wordt gebezigd voor honing die is verkregen door zodanige verwijdering van vreemde anorganische of organische stoffen dat een aanzienlijk deel van de pollen is verwijderd.    
+f. De aanduiding *gefilterde honing* wordt gebezigd voor honing die is verkregen door zodanige verwijdering van vreemde anorganische of organische stoffen dat een aanzienlijk deel van de pollen is verwijderd.   
 
 ### Artikel  9  
 
@@ -118,7 +118,7 @@ b. vocht van ten hoogste 20%, of van ten hoogste 23% voor honing van de struikhe
 c. niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en  
 
 d. vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 g.     
-2.  De aanduiding gefilterde honing wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.   
+2.  De aanduiding gefilterde honing wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.  
 
 ### Artikel  10  
 
@@ -142,7 +142,7 @@ c. een gehalte aan vocht van:
 
 d. een gehalte aan niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en  
 
-e. een gehalte aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.    
+e. een gehalte aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.   
 
 ### Artikel  11  
 
@@ -156,7 +156,7 @@ c. vocht van ten hoogste 20%;
 
 d. niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en  
 
-e. vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.    
+e. vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.   
 
 ### Artikel  12  
 
@@ -168,7 +168,7 @@ b. vocht van ten hoogste 20%;
 
 c. aan niet in water oplosbare stoffen van ten hoogste 0,5 g/100 g; en  
 
-d. aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.    
+d. aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.   
 
 ### Artikel  13  
 
@@ -188,17 +188,17 @@ c. niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en
 
 d. vrije zuren van ten hoogste 80 milli-equivalenten zuur per 1000 gram.     
 4.  De in het eerste lid bedoelde aanduiding wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.   
-5.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
-6.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.   
+5.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
+6.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.  
 
 ### Artikel  14  
 
 1.  In afwijking van de artikelen 8 tot en met 12 mag wat betreft bloemenhoning of nectarhoning, honingdauwhoning, lekhoning, slingerhoning of pershoning worden volstaan met het bezigen van de aanduiding *honing*.   
-2.  Bij een op de voet van deze paragraaf aangeduide waar mag de term honing in de aanduiding worden vervangen door de term *honig*.   
+2.  Bij een op de voet van deze paragraaf aangeduide waar mag de term honing in de aanduiding worden vervangen door de term *honig*.  
 
 ### Artikel  15  
 
-1.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen: 
+1.  Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md): 
 
 a. mogen de in deze paragraaf bedoelde aanduidingen worden aangevuld met een vermelding van de bloemen of planten waarvan de waar voor het geheel of voor het grootste deel van afkomstig is, voor zover de waar daaraan zijn organoleptische, fysisch-chemische en microscopische kenmerken ontleent;  
 
@@ -208,7 +208,7 @@ c. mogen de aanduidingen uit deze paragraaf worden aangevuld met een vermelding 
 
 d. worden de landen van oorsprong waar de honing is vergaard op het etiket vermeld.     
 2.  De in het eerste lid, onder d bedoelde vermelding mag wat betreft honing die afkomstig is uit meer dan één lidstaat of derde land worden vervangen door een van de volgende vermeldingen: «1°. gemengde EG-honing»; «2°. gemengde niet-EG-honing»; «3°. gemengde EG- en niet-EG-honing».   
-3.  Het eerste lid, onder a en b is niet van toepassing op de als bakkershoning en gefilterde honing aangeduide waar.   
+3.  Het eerste lid, onder a en b is niet van toepassing op de als bakkershoning en gefilterde honing aangeduide waar.  
 
 ### §  4  
 
@@ -218,32 +218,32 @@ d. worden de landen van oorsprong waar de honing is vergaard op het etiket verme
 
 1.  Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen internationaal erkende gevalideerde methoden.   
 2.  Voor zover internationaal erkende gevalideerde methoden ontbreken, worden voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels worden aangewezen microbiologische onderzoekingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lidstaat van de Europese Unie aangewezen methoden.   
-3.  Onze Minister kan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het tweede lid bedoelde methoden nadere regels stellen.   
+3.  Onze Minister kan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het tweede lid bedoelde methoden nadere regels stellen.  
 
 ### Artikel  17  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten. 
 
 ### Artikel  18  
 
-Waren die voor 1 augustus 2004 rechtmatig zijn geëtiketteerd overeenkomstig het Honingbesluit (Warenwet) mogen verhandeld worden totdat de voorraden daarvan zijn opgebruikt.  
+Waren die voor 1 augustus 2004 rechtmatig zijn geëtiketteerd overeenkomstig het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) mogen verhandeld worden totdat de voorraden daarvan zijn opgebruikt. 
 
 ### Artikel  19  
 
-Het Honingbesluit (Warenwet) wordt ingetrokken.  
+Het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) wordt ingetrokken. 
 
 ### Artikel  20  
 
-Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan het Honingbesluit (Warenwet) mogen nog verhandeld worden totdat de voorraden daarvan zijn uitverkocht.  
+Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan het [Honingbesluit (Warenwet)](../../../../AMvB/honingbesluit/(warenwet)/BWBR0003204/README.md) mogen nog verhandeld worden totdat de voorraden daarvan zijn uitverkocht. 
 
 ### Artikel  21  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
-2.  In afwijking van het eerste lid treedt artikel 17 twee maanden na de inwerkingtreding van dit besluit in werking.   
+2.  In afwijking van het eerste lid treedt artikel 17 twee maanden na de inwerkingtreding van dit besluit in werking.  
 
 ### Artikel  22  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit honing.  
+Dit besluit wordt aangehaald als: Warenwetbesluit honing. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

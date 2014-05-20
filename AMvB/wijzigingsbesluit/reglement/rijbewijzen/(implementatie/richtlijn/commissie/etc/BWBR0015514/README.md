@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-[Wijzigt het Reglement rijbewijzen.](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md)    
+[Wijzigt het Reglement rijbewijzen.](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) 
 
 ### Artikel  II  
 
-Wijzigt het [Reglement rijbewijzen.](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md)   
+Wijzigt het [Reglement rijbewijzen.](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) 
 
 ### Artikel  III  
 
-Ten aanzien van voertuigen onderscheidenlijk combinaties van voertuigen, vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit in gebruik als examenvoertuig onderscheidenlijk als examencombinatie voor het praktijkexamen voor de rijbewijscategorieën C, E bij C, D en E bij D blijven de [artikelen 73](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [74](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [76](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [77 van het Reglement rijbewijzen](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) zoals die artikelen luidden vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit, van kracht tot 30 september 2013.  
+Ten aanzien van voertuigen onderscheidenlijk combinaties van voertuigen, vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit in gebruik als examenvoertuig onderscheidenlijk als examencombinatie voor het praktijkexamen voor de rijbewijscategorieën C, E bij C, D en E bij D blijven de [artikelen 73](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [74](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [76](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [77 van het Reglement rijbewijzen](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) zoals die artikelen luidden vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit, van kracht tot 30 september 2013. 
 
 ### Artikel  IV  
 
-A. De artikelen I, onderdelen A tot en met C en G tot en met L, en III treden in werking met ingang van 30 september 2003. B. De artikelen I, onderdelen D tot en met F en M tot en met O, en II treden in werking met ingang van 1 april 2004.  
+A. De artikelen I, onderdelen A tot en met C en G tot en met L, en III treden in werking met ingang van 30 september 2003. B. De artikelen I, onderdelen D tot en met F en M tot en met O, en II treden in werking met ingang van 1 april 2004. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -41,4 +41,4 @@ K. M. H. Peijs
 de vierde september 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

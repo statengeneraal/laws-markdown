@@ -20,28 +20,28 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. *suiker*: gezuiverde en gekristalliseerde sacharose;  
+a.  *suiker*: gezuiverde en gekristalliseerde sacharose;  
 
-b. *vloeibare suiker*: waterige oplossing van sacharose;  
+b.  *vloeibare suiker*: waterige oplossing van sacharose;  
 
-c. *vloeibare invertsuiker*: waterige oplossing van door hydrolyse gedeeltelijk geïnverteerde sacharose;  
+c.  *vloeibare invertsuiker*: waterige oplossing van door hydrolyse gedeeltelijk geïnverteerde sacharose;  
 
-d. *invertsuikerstroop*: waterige, eventueel gekristalliseerde oplossing van door hydrolyse gedeeltelijk geïnverteerde sacharose;  
+d.  *invertsuikerstroop*: waterige, eventueel gekristalliseerde oplossing van door hydrolyse gedeeltelijk geïnverteerde sacharose;  
 
-e. *glucosestroop*: gezuiverde en geconcentreerde waterige oplossing van voedingssuikers, verkregen uit zetmeel of inuline;  
+e.  *glucosestroop*: gezuiverde en geconcentreerde waterige oplossing van voedingssuikers, verkregen uit zetmeel of inuline;  
 
-f. *dextrose*: gezuiverde en gekristalliseerde D-glucose;  
+f.  *dextrose*: gezuiverde en gekristalliseerde D-glucose;  
 
-g. *fructose*: gezuiverde en gekristalliseerde D-fructose;  
+g.  *fructose*: gezuiverde en gekristalliseerde D-fructose;  
 
-h. *verordening (EG) 1265/69*: verordening (EEG) nr. 1265/69 van de Commissie van de Europese Gemeenschappen van 1 juli 1969 betreffende de methoden welke van toepassing zijn bij de bepaling van de kwaliteit voor door de interventiebureaus gekochte suiker (PbEG L 163).     
-2.  Dit besluit is niet van toepassing op in paragraaf 2 bedoelde waren in de vorm van poedersuiker, kandijsuiker of suikerbroden.   
+h.  *verordening (EG) 1265/69*: verordening (EEG) nr. 1265/69 van de Commissie van de Europese Gemeenschappen van 1 juli 1969 betreffende de methoden welke van toepassing zijn bij de bepaling van de kwaliteit voor door de interventiebureaus gekochte suiker (PbEG L 163).      
+2.  Dit besluit is niet van toepassing op in paragraaf 2 bedoelde waren in de vorm van poedersuiker, kandijsuiker of suikerbroden.  
 
 ### Artikel  2  
 
 1.  Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.   
 2.  Het is verboden met gebruikmaking van bij dit besluit bedoelde aanduidingen andere eet- en drinkwaren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.   
-3.  Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de samenstelling of hoedanigheid van de waar.   
+3.  Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de samenstelling of hoedanigheid van de waar.  
 
 ### §  2  
 
@@ -55,7 +55,7 @@ a. de polarisatie bedraagt ten minste 99,5 °Z;
 
 b. het gehalte aan invertsuiker bedraagt ten hoogste 0,1 gewichtsprocent; en  
 
-c. het verlies bij het drogen bedraagt ten hoogste 0,1 gewichtsprocent.    
+c. het verlies bij het drogen bedraagt ten hoogste 0,1 gewichtsprocent.   
 
 ### Artikel  4  
 
@@ -67,7 +67,7 @@ b. het gehalte aan invertsuiker bedraagt ten hoogste 0,04 gewichtsprocent;
 
 c. het verlies bij het drogen bedraagt ten hoogste 0,06 gewichtsprocent; en  
 
-d. het kleurtype bedraagt ten hoogste negen punten.    
+d. het kleurtype bedraagt ten hoogste negen punten.   
 
 ### Artikel  5  
 
@@ -99,7 +99,7 @@ b. het gehalte aan invertsuiker met een fructose/dextroseverhouding van 1,0 ±�
 c. het conductometrisch bepaalde asgehalte bedraagt ten hoogste 0,1 gewichtsprocent van de droge stof; en  
 
 d. de kleur van de oplossing bedraagt ten hoogste 45 ICUMSA-eenheden.     
-2.  Bij een als *vloeibare suiker* aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.   
+2.  Bij een als *vloeibare suiker* aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.  
 
 ### Artikel  7  
 
@@ -110,7 +110,7 @@ a. de hoeveelheid droge stof bedraagt ten minste 62 gewichtsprocent;
 b. het gehalte aan invertsuiker met een fructose/dextroseverhouding van 1,0 ± 0,1, bedraagt meer dan 3 maar niet meer dan 50 gewichtsprocent van de droge stof; en  
 
 c. het conductometrisch bepaalde asgehalte bedraagt ten hoogste 0,4 gewichtsprocent van de droge stof.     
-2.  Bij een als *vloeibare invertsuiker* aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.   
+2.  Bij een als *vloeibare invertsuiker* aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.  
 
 ### Artikel  8  
 
@@ -125,7 +125,7 @@ c. het gehalte aan invertsuiker met een fructose/dextroseverhouding van 1,0 ± 0
 
 a. worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar; en  
 
-b. wordt, voorzover de oplossing daarvan kristallen bevat, de vermelding« gekristalliseerd» gebezigd.     
+b. wordt, voorzover de oplossing daarvan kristallen bevat, de vermelding« gekristalliseerd» gebezigd.    
 
 ### Artikel  9  
 
@@ -135,12 +135,12 @@ a. de hoeveelheid droge stof bedraagt ten minste 70 gewichtsprocent;
 
 b. de dextrose-equivalent bedraagt ten minste 20 gewichtsprocent van de droge stof, uitgedrukt in D-glucose; en  
 
-c. de hoeveelheid sulfaatas bedraagt ten hoogste 1 gewichtsprocent van de droge stof.     
+c. de hoeveelheid sulfaatas bedraagt ten hoogste 1 gewichtsprocent van de droge stof.      
 2.  Indien de in het eerste lid bedoelde glucosestroop meer dan 5 gewichtsprocenten van de droge stof aan fructose bevat: 
 
-a. moet, in afwijking van het eerste lid, de aanduiding *glucose-fructosestroop* of *fructose-glucosestroop* worden gebezigd; en  
+a. moet, in afwijking van het eerste lid, de aanduiding *glucose-fructosestroop* of *fructose-glucosestroop*worden gebezigd; en  
 
-b. wordt de waar in de lijst van ingrediënten vermeld met de aanduiding *glucose-fructosestroop* of *fructose-glucosestroop;*   teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.   
+b. wordt de waar in de lijst van ingrediënten vermeld met de aanduiding *glucose-fructosestroop* of *fructose-glucosestroop;*    teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.  
 
 ### Artikel  10  
 
@@ -155,7 +155,7 @@ c. de hoeveelheid sulfaatas bedraagt ten hoogste 1 gewichtsprocent van de droge 
 
 a. moet, in afwijking van het eerste lid, de aanduiding *gedroogde glucose-fructosestroop* of *gedroogde fructose-glucosestroop* worden gebezigd; en  
 
-b. wordt de waar in de lijst van ingrediënten vermeld met de aanduiding gedroogde *glucose-fructosestroop* of *gedroogdefructose-glucosestroop;*   teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.   
+b. wordt de waar in de lijst van ingrediënten vermeld met de aanduiding gedroogde *glucose-fructosestroop* of *gedroogdefructose-glucosestroop;*    teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.  
 
 ### Artikel  11  
 
@@ -165,7 +165,7 @@ a. de hoeveelheid dextrose bedraagt ten minste 99,5 gewichtsprocent van de droge
 
 b. de hoeveelheid droge stof bedraagt ten minste 90 gewichtsprocenten; en  
 
-c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.    
+c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.   
 
 ### Artikel  12  
 
@@ -175,7 +175,7 @@ a. de hoeveelheid dextrose bedraagt ten minste 99,5 gewichtsprocent van de droge
 
 b. de hoeveelheid droge stof bedraagt ten minste 98 gewichtsprocenten; en  
 
-c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.    
+c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.   
 
 ### Artikel  13  
 
@@ -185,9 +185,9 @@ a. de hoeveelheid fructose bedraagt ten minste 98%;
 
 b. de hoeveelheid glucose bedraagt ten hoogste 0,5%;  
 
-c. het verlies bij het drogen bedraagt ten hoogste 0,5 gewichtsprocent; en  
+c. het verlies bij het drogen bedraagt ten hoogste 0,5 gewichtsprocent; en   
 
-d. conductometrisch bepaald asgehalte bedraagt ten hoogste 0,1 gewichtsprocent.    
+d. conductometrisch bepaald asgehalte bedraagt ten hoogste 0,1 gewichtsprocent.   
 
 ### Artikel  14  
 
@@ -199,7 +199,7 @@ b. vloeibare invertsuiker of invertsuikerstroop, bedoeld in artikel 7 onderschei
 
 1° het conductometrisch bepaalde asgehalte niet hoger is dan 0,1%; en  
 
-2° de kleurintensiteit ten hoogste 25 ICUMSA-eenheden bedraagt.      
+2° de kleurintensiteit ten hoogste 25 ICUMSA-eenheden bedraagt.     
 
 ### Artikel  15  
 
@@ -207,11 +207,11 @@ Onverminderd de artikelen 3 tot en met 14 mogen, voorzover de consument daardoor
 
 a. de in deze paragraaf bedoelde waren ook worden aangeduid met andere in de lidstaten van de Europese Unie ter zake gebruikelijke aanduidingen;  
 
-b. de in deze paragraaf bedoelde aanduidingen ook worden gebruikt in aanduidingen waarmee, overeenkomstig bestaande gebruiken, andere dan in deze paragraaf bedoelde waren worden aangeduid.    
+b. de in deze paragraaf bedoelde aanduidingen ook worden gebruikt in aanduidingen waarmee, overeenkomstig bestaande gebruiken, andere dan in deze paragraaf bedoelde waren worden aangeduid.   
 
 ### Artikel  16  
 
-In afwijking van [artikel 5, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), hoeft bij in deze paragraaf bedoelde, voorverpakte waren, met een gewicht van minder dan 20 g, geen vermelding te worden gebezigd inzake de netto-hoeveelheid.  
+In afwijking van [artikel 5, eerste lid, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md), hoeft bij in deze paragraaf bedoelde, voorverpakte waren, met een gewicht van minder dan 20 g, geen vermelding te worden gebezigd inzake de netto-hoeveelheid. 
 
 ### §  3  
 
@@ -226,7 +226,7 @@ a. wat het kleurtype betreft, met 0,5 eenheid volgens de methode van het Institu
 
 b. wat het asgehalte betreft, met 0,0018% volgens de methode van de International Commission for Uniform Methods of Sugar Analysis (ICUMSA), als omschreven in deel A, punt 1, van de bijlage bij verordening (EG) 1265/69;  
 
-c. wat de kleur van de oplossing betreft, met 7,5 eenheden volgens de methode van de International Commission for Uniform Methods of Sugar Analysis (ICUMSA-methode), als omschreven in deel A, punt 3, van de bijlage bij verordening (EG) 1265/69.     
+c. wat de kleur van de oplossing betreft, met 7,5 eenheden volgens de methode van de International Commission for Uniform Methods of Sugar Analysis (ICUMSA-methode), als omschreven in deel A, punt 3, van de bijlage bij verordening (EG) 1265/69.    
 
 ### Artikel  18  
 
@@ -234,21 +234,21 @@ Het [Suiker- en stroopbesluit (Warenwet) 1977](../../../../KB/suiker-/en/stroopb
 
 ### Artikel  19  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.  
 
 ### Artikel  20  
 
-Wijzigt het Warenwetbesluit Cacao en chocolade, het Deegwarenbesluit (Warenwet), het Warenwetbesluit Frisdranken en het Warenwetbesluit Verduurzaamde vruchtenprodukten.   
+Wijzigt het Warenwetbesluit Cacao en chocolade, het Deegwarenbesluit (Warenwet), het Warenwetbesluit Frisdranken en het Warenwetbesluit Verduurzaamde vruchtenprodukten.  
 
 ### Artikel  21  
 
 1.  Dit besluit treedt in werking met ingang van 12 juli 2003.   
 2.  In afwijking van het eerste lid treden artikel 2, artikel 18, artikel 19 en artikel 20 in werking met ingang van 12 juli 2004, met dien verstande dat waren die niet voldoen aan dit besluit, maar die vóór 12 juli 2004 zijn geëtiketteerd overeenkomstig het [Suiker- en stroopbesluit (Warenwet) 1977](../../../../KB/suiker-/en/stroopbesluit/(warenwet)/1977/BWBR0003089/README.md) zoals dat onmiddellijk voor dat tijdstip luidde, in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.   
-3.  Het [Suiker- en stroopbesluit (Warenwet) 1977](../../../../KB/suiker-/en/stroopbesluit/(warenwet)/1977/BWBR0003089/README.md) is vanaf 12 juli 2003 niet van toepassing op waren die voldoen aan dit besluit.   
+3.  Het [Suiker- en stroopbesluit (Warenwet) 1977](../../../../KB/suiker-/en/stroopbesluit/(warenwet)/1977/BWBR0003089/README.md) is vanaf 12 juli 2003 niet van toepassing op waren die voldoen aan dit besluit.  
 
 ### Artikel  22  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit suikers.  
+Dit besluit wordt aangehaald als: Warenwetbesluit suikers. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -262,4 +262,4 @@ C. I. J. M. Ross-van Dorp
 de vierentwintigste april 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
