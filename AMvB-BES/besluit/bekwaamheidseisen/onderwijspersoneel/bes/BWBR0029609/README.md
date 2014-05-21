@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236442 (4874), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op artikel 35, eerste en vierde lid, van de Wet primair onderwijs BES, de artikelen 85 en 86 van de Wet voortgezet onderwijs BES en artikel 4.2.3, eerste en derde lid, van de Wet educatie en beroepsonderwijs BES;
+Gelet op [artikel 35, eerste en vierde lid, van de Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), de [artikelen 85](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [86 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [artikel 4.2.3, eerste en derde lid, van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0461/I);
 
@@ -22,15 +22,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *school:* school als bedoeld in de Wet primair onderwijs BES of in de Wet voortgezet onderwijs BES;  
+a.  *school:* school als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) of in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-b. *instelling:* instelling als bedoeld in artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES.    
+b.  *instelling:* instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).   
 
 ### Artikel  1.2  
 
 ####Reikwijdte
 
-Dit besluit heeft geen betrekking op leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs.  
+Dit besluit heeft geen betrekking op leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs. 
 
 ### Hoofdstuk  2  
 
@@ -58,7 +58,7 @@ e. competentie in het samenwerken met collega’s;
 
 f. competentie in het samenwerken met de omgeving;  
 
-g. competentie in reflectie en ontwikkeling.    
+g. competentie in reflectie en ontwikkeling.   
 
 ### Titel  2  
 
@@ -68,8 +68,8 @@ g. competentie in reflectie en ontwikkeling.
 
 ####Reikwijdte titel 2
 
-1.  Deze titel heeft, onverminderd het tweede lid, betrekking op het basisonderwijs, bedoeld in de Wet primair onderwijs BES.   
-2.  Deze titel omvat zintuiglijke en lichamelijke oefening in het primair onderwijs uitsluitend voor het onderwijs in de groepen 1 en 2 van het basisonderwijs.   
+1.  Deze titel heeft, onverminderd het tweede lid, betrekking op het basisonderwijs, bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md).   
+2.  Deze titel omvat zintuiglijke en lichamelijke oefening in het primair onderwijs uitsluitend voor het onderwijs in de groepen 1 en 2 van het basisonderwijs.  
 
 ### Artikel  2.3  
 
@@ -77,9 +77,9 @@ g. competentie in reflectie en ontwikkeling.
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar:* leraar als bedoeld in de Wet primair onderwijs BES;  
+a.  *leraar:* leraar als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md);  
 
-b. *primair onderwijs:* onderwijs als bedoeld in de Wet primair onderwijs BES.    
+b.  *primair onderwijs:* onderwijs als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md).   
 
 ### Artikel  2.4  
 
@@ -100,7 +100,7 @@ b. beschikt de leraar over de volgende kennis:
 
 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van de kinderen, en  
 
-2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.       
+2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.      
 
 ### Artikel  2.5  
 
@@ -129,7 +129,7 @@ b. beschikt de leraar over de volgende kennis:
 
 3°. hij is bekend met ontwikkelings- en opvoedingstheorieën van het jonge en oudere kind, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van die theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar, en  
 
-4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind én van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind én van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.6  
 
@@ -168,7 +168,7 @@ b. beschikt de leraar over de volgende kennis:
 
 8°. hij heeft een praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen, en  
 
-9°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind, en van de culturele bepaaldheid daarvan en hij weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+9°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind, en van de culturele bepaaldheid daarvan en hij weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.7  
 
@@ -185,7 +185,7 @@ a. kan de leraar de volgende handelingen verrichten:
 
 3°. hij houdt een planning aan die bij de kinderen bekend is en gaat adequaat om met tijd;    
 
-b. is hij bekend met die aspecten van klassenmanagement die voor zijn onderwijs relevant zijn.     
+b. is hij bekend met die aspecten van klassenmanagement die voor zijn onderwijs relevant zijn.    
 
 ### Artikel  2.8  
 
@@ -212,7 +212,7 @@ b. beschikt de leraar over de volgende kennis:
 
 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het primair onderwijs, en  
 
-4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.       
+4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.      
 
 ### Artikel  2.9  
 
@@ -233,7 +233,7 @@ b. beschikt de leraar over de volgende kennis:
 
 1°. hij is bekend met de leefwereld van ouders of verzorgers en met de culturele achtergronden van de kinderen en weet hoe hij daar rekening mee moet houden in zijn doen en laten als leraar, en  
 
-2°. hij is op de hoogte van de professionele infrastructuur waar zijn school onderdeel van is.       
+2°. hij is op de hoogte van de professionele infrastructuur waar zijn school onderdeel van is.      
 
 ### Artikel  2.10  
 
@@ -256,7 +256,7 @@ b. beschikt de leraar over de volgende kennis:
 
 2°. hij is op de hoogte van de onderwijspraktijk in andere scholen voor primair onderwijs en vervolgscholen en ook van actuele ontwikkelingen op het gebied van pedagogiek, didactiek, inhouden, werkwijzen en organisatievormen in het primair onderwijs, en  
 
-3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van pedagogiek en didactiek die relevant zijn voor zijn onderwijs.       
+3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van pedagogiek en didactiek die relevant zijn voor zijn onderwijs.      
 
 ### Titel  3  
 
@@ -268,9 +268,9 @@ b. beschikt de leraar over de volgende kennis:
 
 Deze titel heeft betrekking op: 
 
-a. het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, en het praktijkonderwijs, bedoeld in de Wet voortgezet onderwijs BES;  
+a. het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, en het praktijkonderwijs, bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-b. de educatie en het beroepsonderwijs, bedoeld in de Wet educatie en beroepsonderwijs BES.    
+b. de educatie en het beroepsonderwijs, bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).   
 
 ### Artikel  2.12  
 
@@ -278,15 +278,15 @@ b. de educatie en het beroepsonderwijs, bedoeld in de Wet educatie en beroepsond
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar vo:* leraar als bedoeld in de Wet voortgezet onderwijs BES;  
+a.  *leraar vo:* leraar als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-b. *bve:* beroepsonderwijs en educatie als bedoeld in de Wet educatie en beroepsonderwijs BES;  
+b.  *bve:* beroepsonderwijs en educatie als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
 
-c. *docent bve:* docent als bedoeld in de Wet educatie en beroepsonderwijs BES;  
+c.  *docent bve:* docent als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
 
-d. *leerling:* leerling als bedoeld in de Wet voortgezet onderwijs BES;  
+d.  *leerling:* leerling als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-e. *deelnemer:* deelnemer als bedoeld in de Wet educatie en beroepsonderwijs BES.    
+e.  *deelnemer:* deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).   
 
 ### Artikel  2.13  
 
@@ -307,7 +307,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van zijn leerlingen of deelnemers en in de praktijk of beroepspraktijk waar zij zich op voorbereiden, en  
 
-2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.       
+2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.      
 
 ### Artikel  2.14  
 
@@ -338,7 +338,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 4°. hij is bekend met ontwikkelings- en opvoedingstheorieën, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van die theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar vo of als docent bve, en  
 
-5°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+5°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.15  
 
@@ -379,7 +379,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 9°. hij heeft praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen en weet hoe hij daar mee om kan gaan, en  
 
-10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.16  
 
@@ -400,7 +400,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 1°. hij is bekend met die aspecten van groeps- of klassenmanagement die voor zijn vorm van onderwijs relevant zijn, en  
 
-2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school en in het leerbedrijf, zoals open leercentrum, werkplekkenstructuur, beroepspraktijkvorming en praktijklessen.       
+2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school en in het leerbedrijf, zoals open leercentrum, werkplekkenstructuur, beroepspraktijkvorming en praktijklessen.      
 
 ### Artikel  2.17  
 
@@ -427,7 +427,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het voortgezet onderwijs en bve, en  
 
-4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.       
+4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.      
 
 ### Artikel  2.18  
 
@@ -456,7 +456,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 4°. hij is bekend met de regelgeving en samenwerkingsprocedures tussen zijn school en bedrijven en instellingen waarmee wordt samengewerkt, en  
 
-5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen of deelnemers goed op elkaar zijn afgestemd.       
+5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen of deelnemers goed op elkaar zijn afgestemd.      
 
 ### Artikel  2.19  
 
@@ -481,7 +481,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van de pedagogiek en de didactiek die relevant zijn voor zijn onderwijs, en  
 
-4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.       
+4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.      
 
 ### Titel  4  
 
@@ -491,7 +491,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 ####Reikwijdte titel 4
 
-Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in artikel 12, eerste lid, van de Wet voortgezet onderwijs BES.  
+Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in [artikel 12, eerste lid, van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md). 
 
 ### Artikel  2.21  
 
@@ -499,9 +499,9 @@ Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in art
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar:* leraar als bedoeld in de Wet voortgezet onderwijs BES;  
+a.  *leraar:* leraar als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-b. *leerling:* leerling als bedoeld in de Wet voortgezet onderwijs BES.    
+b.  *leerling:* leerling als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).   
 
 ### Artikel  2.22  
 
@@ -522,7 +522,7 @@ b. beschikt de leraar over de volgende kennis:
 
 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van zijn leerlingen, en  
 
-2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent vooral ook de implicaties daarvan voor zijn eigen doen en laten.       
+2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent vooral ook de implicaties daarvan voor zijn eigen doen en laten.      
 
 ### Artikel  2.23  
 
@@ -551,7 +551,7 @@ b. beschikt de leraar over de volgende kennis:
 
 3°. hij is bekend met ontwikkelings- en opvoedingstheorieën, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van deze theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar, en  
 
-4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.24  
 
@@ -592,7 +592,7 @@ b. beschikt de leraar over de volgende kennis:
 
 9°. hij heeft een praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen en weet hoe hij daar mee om kan gaan, en  
 
-10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.       
+10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.      
 
 ### Artikel  2.25  
 
@@ -613,7 +613,7 @@ b. beschikt de leraar over de volgende kennis:
 
 1°. hij is bekend met die aspecten van groeps- of klassenmanagement die voor zijn vorm van onderwijs relevant zijn, en  
 
-2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school.       
+2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school.      
 
 ### Artikel  2.26  
 
@@ -640,7 +640,7 @@ b. beschikt de leraar over de volgende kennis:
 
 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het voorbereidend hoger onderwijs, en  
 
-4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.       
+4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.      
 
 ### Artikel  2.27  
 
@@ -669,7 +669,7 @@ b. beschikt de leraar over de volgende kennis:
 
 4°. hij is bekend met de regelgeving en samenwerkingsprocedures tussen zijn school en bedrijven en instellingen waarmee wordt samengewerkt, en  
 
-5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen goed op elkaar zijn afgestemd.       
+5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen goed op elkaar zijn afgestemd.      
 
 ### Artikel  2.28  
 
@@ -694,7 +694,7 @@ b. beschikt de leraar over de volgende kennis:
 
 3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van de pedagogiek en de didactiek die relevant zijn voor zijn onderwijs, en  
 
-4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.       
+4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.      
 
 ### Hoofdstuk  3  
 
@@ -704,12 +704,12 @@ b. beschikt de leraar over de volgende kennis:
 
 ####Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
-1.  Het bevoegd gezag van een school voor voortgezet onderwijs kan toestaan dat de leraar die ten aanzien van een vak of combinatie van vakken in het voorbereidend wetenschappelijk onderwijs of het hoger algemeen voortgezet onderwijs wel voor de eerste drie leerjaren maar niet voor het voorbereidend hoger onderwijs voldoet aan de bekwaamheidseisen van artikel 84, eerste en vierde lid, van de Wet op het voortgezet onderwijs BES, dat onderwijs gedurende ten hoogste één schooljaar ook geeft in die hogere leerjaren.   
+1.  Het bevoegd gezag van een school voor voortgezet onderwijs kan toestaan dat de leraar die ten aanzien van een vak of combinatie van vakken in het voorbereidend wetenschappelijk onderwijs of het hoger algemeen voortgezet onderwijs wel voor de eerste drie leerjaren maar niet voor het voorbereidend hoger onderwijs voldoet aan de bekwaamheidseisen van [artikel 84, eerste en vierde lid, van de Wet op het voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), dat onderwijs gedurende ten hoogste één schooljaar ook geeft in die hogere leerjaren.   
 2.  Voorwaarde voor toepassing van het eerste lid is dat: 
 
 a. de werkzaamheden waarmee de leraar is belast binnen zijn betrekkingsomvang voor het grootste gedeelte zijn gelegen buiten het voorbereidend hoger onderwijs, en  
 
-b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op grond van het eerste lid, in het betrokken schooljaar niet groter is dan 5% van het totale aantal lessen dat wordt gegeven in die hogere leerjaren.     
+b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op grond van het eerste lid, in het betrokken schooljaar niet groter is dan 5% van het totale aantal lessen dat wordt gegeven in die hogere leerjaren.    
 
 ### Hoofdstuk  4  
 
@@ -719,7 +719,7 @@ b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op
 
 ####Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
-De op grond van artikel 3, eerste lid onder b.1°, van de Wet primair onderwijs BES aan te wijzen onderwijsactiviteiten, bedoeld in de artikelen 11 of 12 van die wet, zijn: 
+De op grond van [artikel 3, eerste lid onder b.1°, van de Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) aan te wijzen onderwijsactiviteiten, bedoeld in de [artikelen 11](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md) of [12 van die wet](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), zijn: 
 
 a. tekenen;  
 
@@ -741,13 +741,13 @@ i. Duitse taal;
 
 j. Franse taal;  
 
-k. Spaanse taal.    
+k. Spaanse taal.   
 
 ### Artikel  4.2  
 
 ####Aanwijzing onderwijsactiviteiten leerkrachten praktijkonderwijs
 
-De op grond van artikel 80, derde lid, van de Wet voortgezet onderwijs BES aan te wijzen vakken zijn: 
+De op grond van [artikel 80, derde lid, van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) aan te wijzen vakken zijn: 
 
 a. tekenen;  
 
@@ -769,7 +769,7 @@ i. biologie;
 
 j. verzorging; en  
 
-k. praktijkoriënterende vakken.    
+k. praktijkoriënterende vakken.   
 
 ### Hoofdstuk  5  
 
@@ -779,13 +779,13 @@ k. praktijkoriënterende vakken.
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba.  
+Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  5.2  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit bekwaamheidseisen onderwijspersoneel BES.  
+Dit besluit wordt aangehaald als: Besluit bekwaamheidseisen onderwijspersoneel BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -793,13 +793,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 februari 2011  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *zestiende* februari 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

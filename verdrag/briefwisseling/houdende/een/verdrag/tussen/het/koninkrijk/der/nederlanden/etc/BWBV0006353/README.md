@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de VN Economische Commissie voor Europa (VN/ECE) inzake de vijfde zitting van de Vergadering van Partijen bij het Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang tot de rechter inzake milieuaangelegenheden (Verdrag van Aarhus), de tweede zitting van de Vergadering van Partijen bij het Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, en de voorbereidende overleggen daarvan, te Maastricht, Nederland, van 29 juni tot 4 juli 2014
+##Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de VN Economische Commissie voor Europa (VN/ECE) inzake de vijfde zitting van de Vergadering van Partijen bij het Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang tot de rechter inzake milieuaangelegenheden (Verdrag van Aarhus), de tweede zitting van de Vergadering van Partijen bij het Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, en de voorbereidende overleggen daarvan, te Maastricht, Nederland, van 29 juni tot 4 juli 2014 
 
 ### Nr.  I  
 
-UNITED NATIONS ECONOMIC COMMISSION FOR EUROPE The Executive Secretary Under-Secretary General 11 February 2014 Ref. ECE / EVN / 2014 / 37 Excellency, I have the honour to refer to the fifth session of the Meeting of the Parties to the Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters (Aarhus Convention), second session of the Meeting of the Parties to the Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention (Protocol on PRTRs) and their associated preparatory meetings to be held, at the invitation of your Government, in Maastricht, the Netherlands, from 29 June to 4 July 2014. With the present letter, I would like to obtain your Government’s acceptance of the following arrangements. 
+UNITED NATIONS ECONOMIC COMMISSION FOR EUROPE The Executive Secretary Under-Secretary General 11 February 2014 Ref. ECE / EVN / 2014 / 37 Excellency, I have the honour to refer to the fifth session of the Meeting of the Parties to the [Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) (Aarhus Convention), second session of the Meeting of the Parties to the [Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) (Protocol on PRTRs) and their associated preparatory meetings to be held, at the invitation of your Government, in Maastricht, the Netherlands, from 29 June to 4 July 2014. With the present letter, I would like to obtain your Government’s acceptance of the following arrangements. 
 
-I. Participants in the fifth session of the Meeting of the Parties to the Aarhus Convention and the second session of the Meeting of the Parties to the Protocol on PRTRs and their associated preparatory meetings (hereafter unless it is stated otherwise- meetings) will be invited by the Executive Secretary of the United Nations Economic Commission for Europe (ECE) in accordance with the rules of procedure of the Meetings of the Parties to the Convention and to the Protocol on PRTRs and would include up to 500 participants, including: 
+I. Participants in the fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and the second session of the Meeting of the Parties to the Protocol on [PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) and their associated preparatory meetings (hereafter unless it is stated otherwise- meetings) will be invited by the Executive Secretary of the United Nations Economic Commission for Europe (ECE) in accordance with the rules of procedure of the Meetings of the Parties to the Convention and to the Protocol on PRTRs and would include up to 500 participants, including: 
 
 a) 56 delegations from ECE member States comprising up to 220 delegates;  
 
@@ -28,17 +28,17 @@ b) the payment (in local currency) to the United Nations officials of subsistenc
 
 c) the cost of shipping any necessary equipment, supplies and documents.    
 
-4. The Convention of 13 February 1946 on the Privileges and Immunities of the United Nations, to which the Netherlands is a party, shall be applicable, mutatis mutandis, in respect of the meetings except for article II, section 3. In particular: 
+4. The [Convention of 13 February 1946 on the Privileges and Immunities of the United Nations](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md), to which the Netherlands is a party, shall be applicable, mutatis mutandis, in respect of the meetings except for [article II, section 3](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md). In particular: 
 
-a) Representatives of States shall enjoy the privileges and immunities provided under Article IV of the Convention;  
+a) Representatives of States shall enjoy the privileges and immunities provided under [Article IV of the Convention](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md);  
 
-b) Officials of the United Nations participating in or performing functions in connection with the Work Session shall enjoy the privileges and immunities provided under Articles V and VII of the Convention;  
+b) Officials of the United Nations participating in or performing functions in connection with the Work Session shall enjoy the privileges and immunities provided under [Articles V](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md) and [VII of the Convention](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md);  
 
 c) Participants invited by the United Nations shall enjoy the privileges and immunities accorded to experts on mission for the United Nations by Article VI of the Convention;  
 
-d) Officials of the specialized agencies participating in the meetings shall be accorded the privileges and immunities provided under articles VI and VIII of the Convention on the Privileges and Immunities of the Specialized Agencies.    
+d) Officials of the specialized agencies participating in the meetings shall be accorded the privileges and immunities provided under [articles VI](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md) and [VIII of the Convention](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md) on the Privileges and Immunities of the Specialized Agencies.    
 
-5. Without prejudice to the provisions of the Convention on the Privileges and Immunities of the United Nations (safe for – as above mentioned – article II, section 3), all participants and persons performing functions in connection with the meetings shall enjoy such privileges and immunities, facilities and courtesies as are necessary for the independent exercise of their functions in connection with the meetings.  
+5. Without prejudice to the provisions of the [Convention on the Privileges and Immunities of the United Nations](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md) (safe for – as above mentioned – [article II, section 3](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md)), all participants and persons performing functions in connection with the meetings shall enjoy such privileges and immunities, facilities and courtesies as are necessary for the independent exercise of their functions in connection with the meetings.  
 
 6. Personnel provided by the Government pursuant to this Agreement shall enjoy immunity from legal process in respect of words spoken or written and any act performed by them in their official capacity in connection with the meetings.  
 
@@ -46,11 +46,11 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 8. The Government will be responsible for dealing with any action, claim or other demand against the United Nations arising out of (i) injury to person or damage to property in conference or office premises provided for the meetings; (ii) the employment for the meetings of personnel provided or arranged by the Government; and the Government shall hold the United Nations and its personnel harmless in respect of any such action, claim or other demand.  
 
-9. The rooms, offices and related localities and facilities put at the disposal of the meetings by the Government shall be the Conference Area which will constitute United Nations Premises within the meaning of Article II, Section 3, of the Convention on the Privileges and Immunities of the United Nations of 13 February 1946 for the duration of the Session, including the preparation and winding-up stages.  
+9. The rooms, offices and related localities and facilities put at the disposal of the meetings by the Government shall be the Conference Area which will constitute United Nations Premises within the meaning of [Article II, Section 3, of the Convention on the Privileges and Immunities of the United Nations](../../../../../../../../../../../../verdrag/convention/on/the/privileges/and/immunities/of/the/united/nations./BWBV0005561/README.md) of 13 February 1946 for the duration of the Session, including the preparation and winding-up stages.  
 
 10. The Government shall notify the local authorities of the convening of the meetings and, at its expense, provide security as may be required to ensure the safety of the participants and the effective functioning of the meetings. While such security shall be under the direct supervision and control of a senior officer provided by the Government, this officer shall work in close co-operation with a designated senior official of the United Nations.  
 
-11. Any dispute concerning the interpretation or implementation of these arrangements, except for a dispute subject to the appropriate provisions of the Convention on the Privileges and Immunities of the United Nations or of any other applicable agreement, shall be settled through negotiations and mutual agreement. In case such agreement cannot be reached, the dispute shall be referred at the request of either party for final decision to a tribunal of three arbitrators, one to be named by the Secretary-General of the United Nations, one to be named by the Government and the third, who shall be the Chairman, to be chosen by the first two arbitrators. If either party fails to appoint an arbitrator within 60 days of the appointment by the other party, or if these two arbitrators should fail to agree on the third arbitrator within 60 days of their appointment, the President of the International Court of Justice may make any necessary appointments at the request of either party.   I have the honour to propose that this letter and your confirmation in writing of the above shall constitute an agreement between the United Nations and the Government of the Netherlands regarding the hosting and organization of the fifth session of the Meeting of the Parties to the Aarhus Convention, second session of the Meeting of the Parties to the Protocol on PRTRs and their associated preparatory meetings (Maastricht, the Netherlands, 29 June – 4 July 2014). The agreement shall take effect upon the date of your reply and shall remain in effect for the duration of the meetings and for such additional period as is necessary for its preparation and winding up, the total duration of this Agreement, however, not to exceed one year. Please accept, Excellency, the assurances of my highest consideration. SVEN ALKALAJ Enclosures: Annexes I and II  *Her Excellency*   *Ms. Melanie Schultz van Haegen-Maas Geesteranus*   *Minister for Infrastructure and the Environment of the Netherlands*   *The Hague*    
+11. Any dispute concerning the interpretation or implementation of these arrangements, except for a dispute subject to the appropriate provisions of the Convention on the Privileges and Immunities of the United Nations or of any other applicable agreement, shall be settled through negotiations and mutual agreement. In case such agreement cannot be reached, the dispute shall be referred at the request of either party for final decision to a tribunal of three arbitrators, one to be named by the Secretary-General of the United Nations, one to be named by the Government and the third, who shall be the Chairman, to be chosen by the first two arbitrators. If either party fails to appoint an arbitrator within 60 days of the appointment by the other party, or if these two arbitrators should fail to agree on the third arbitrator within 60 days of their appointment, the President of the International Court of Justice may make any necessary appointments at the request of either party.   I have the honour to propose that this letter and your confirmation in writing of the above shall constitute an agreement between the United Nations and the Government of the Netherlands regarding the hosting and organization of the fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md), second session of the Meeting of the Parties to the [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) and their associated preparatory meetings (Maastricht, the Netherlands, 29 June – 4 July 2014). The agreement shall take effect upon the date of your reply and shall remain in effect for the duration of the meetings and for such additional period as is necessary for its preparation and winding up, the total duration of this Agreement, however, not to exceed one year. Please accept, Excellency, the assurances of my highest consideration. SVEN ALKALAJ Enclosures: Annexes I and II *Her Excellency * *Ms. Melanie Schultz van Haegen-Maas Geesteranus* *Minister for Infrastructure and the Environment of the Netherlands* *The Hague*   
 
 ### Annex  I  
 
@@ -64,23 +64,23 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 ####Participation
 
-1.1. Participation in the respective meetings will include delegates from the Parties to the Aarhus Convention and from the Parties to the Protocol on PRTRs and, in accordance with rule 6 of the rules of procedure of the Meeting of the Parties to the Convention (AC RoP) and rule 6 of the rules of procedure of the Meeting of the Parties to the Protcol on PRTRs (RoPP), will also include Signatories and other States, regional economic integration organizations, the United Nations, its specialized agencies and the International Atomic Energy Agency, and relevant intergovernmental and non-governmental organizations. The staff of the UNECE secretariat to the Aarhus Convention and Protocol on PRTRs (hereafter UNECE secretariat) will service the meetings.  
+1.1. Participation in the respective meetings will include delegates from the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and from the Parties to the [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) and, in accordance with rule 6 of the rules of procedure of the Meeting of the Parties to the Convention (AC RoP) and rule 6 of the rules of procedure of the Meeting of the Parties to the Protcol on PRTRs (RoPP), will also include Signatories and other States, regional economic integration organizations, the United Nations, its specialized agencies and the International Atomic Energy Agency, and relevant intergovernmental and non-governmental organizations. The staff of the UNECE secretariat to the Aarhus Convention and Protocol on PRTRs (hereafter UNECE secretariat) will service the meetings.  
 
 1.2. In accordance with rules 7 and 23 of the AC RoP and rules 7 and 23 of the RoPP, the meetings shall be open to members of the public. The Government will collaborate with the UNECE secretariat to establish appropriate registration procedures aimed at facilitating access to members of the public, while at the same time ensuring adequate security.  
 
-1.3. Having regard to rule 7, paragraph 2, of the AC RoP, the Government may consider the possibility of providing the necessary technical equipment for broadcasting or video podcasting the proceedings of the meetings via the Internet or using other audio-visual means to the public.    
+1.3. Having regard to rule 7, paragraph 2, of the AC RoP, the Government may consider the possibility of providing the necessary technical equipment for broadcasting or video podcasting the proceedings of the meetings via the Internet or using other audio-visual means to the public.   
 
 ### 2  
 
 ####Meeting venue facilities
 
-2.1. The fifth session of the Meeting of the Parties to the Aarhus Convention will cover the period from 30 June to 2 July 2014 and the second session of the Meeting of the Parties to the Protocl on PRTRs will cover the period from 2 to 4 July 2014. The high-level segment of the Meetings of the Parties to the Aarhus Convention and to the Protocol on PRTRs will take place on 2 July 2014. The meetings of the subsidiary bodies of the Aarhus Convention and the Protocol on PRTRs will take place on 29 June 2014 and of 1 July 2014 respectively.  
+2.1. The fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) will cover the period from 30 June to 2 July 2014 and the second session of the Meeting of the Parties to the [Protocl on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) will cover the period from 2 to 4 July 2014. The high-level segment of the Meetings of the Parties to the Aarhus Convention and to the Protocol on PRTRs will take place on 2 July 2014. The meetings of the subsidiary bodies of the Aarhus Convention and the Protocol on PRTRs will take place on 29 June 2014 and of 1 July 2014 respectively.  
 
 2.1. The meeting venue, including all meeting rooms and offices, should be made fully accessible for setting up purposes at least 24 hours before the opening of the registration on 28 June 2014 afternoon.  
 
 2.2. The venue facilities will include the following: 
 
-2.2.1. The first meeting room (Salle I) for the fifth session of the Meeting of the Parties to the Aarhus Convention and the second session of the Meeting of the Parties to the Protocol on PRTRs, with seating for approximately 400 delegates, including sufficient table space for each delegation (including observer delegations under rule 6 of the AC RoP and rule 6 RoPP), equipped for simultaneous interpretation into English, French and Russian and in accordance with the arrangements specified in paragraph 3.2. The interpretation equipment will be of a standard similar to that of the Palais des Nations, Geneva, with a sufficient number of microphones and headphones to enable all delegations to join in the discussions from their seats. The interpretation booths will be well insulated. In addition, 100 seats will be provided at the side or back of the room for non-participatory observers and press. The room will be accessible 24 hours per day, from 29 June to 4 July 2014;  
+2.2.1. The first meeting room (Salle I) for the fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and the second session of the Meeting of the Parties to the [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md), with seating for approximately 400 delegates, including sufficient table space for each delegation (including observer delegations under rule 6 of the AC RoP and rule 6 RoPP), equipped for simultaneous interpretation into English, French and Russian and in accordance with the arrangements specified in paragraph 3.2. The interpretation equipment will be of a standard similar to that of the Palais des Nations, Geneva, with a sufficient number of microphones and headphones to enable all delegations to join in the discussions from their seats. The interpretation booths will be well insulated. In addition, 100 seats will be provided at the side or back of the room for non-participatory observers and press. The room will be accessible 24 hours per day, from 29 June to 4 July 2014;  
 
 2.2.2. The second meeting room (Salle II) able to seat approximately 180 people for the final preparatory meetings, side-events and press conferences as needed. This will be accessible 24 hours per day, from 29 June 2014 to 3 July 2014. The meeting room will be equipped for simultaneous interpretation into English, French and Russian and in accordance with the arrangements specified in paragraph 3.3. The interpretation equipment will be of a standard similar to that of the Palais des Nations, Geneva, with a sufficient number of microphones and headphones to enable all delegations to join in the discussions from their seats. The interpretation booths will be well insulated;  
 
@@ -122,7 +122,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 2.3. All meeting rooms and offices will have good sound proofing and ventilation.  
 
-2.4. Payment, equipment, other details of requirements for the side events are subject to an agreement between the side events organizers and the Government.    
+2.4. Payment, equipment, other details of requirements for the side events are subject to an agreement between the side events organizers and the Government.   
 
 ### B  
 
@@ -182,7 +182,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 3.6.2. Two data projector and two-four screens;  
 
-3.6.3. Name plates and stands for delegations and officers, for tables in the meeting room (provided by the Government on the basis of the information provided by UNECE).      
+3.6.3. Name plates and stands for delegations and officers, for tables in the meeting room (provided by the Government on the basis of the information provided by UNECE).     
 
 ### 4  
 
@@ -198,7 +198,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 4.1.4. Seven mobiles with local SIM cards for the UNECE staff members for local communications as well as 1 phone with international landlines and a fax machine in the UNECE secretariat offices, with call costs covered by the Government;  
 
-4.1.5. Office supplies for the offices of the UNECE secretariat and Host Country secretariat (see above) (paper, pens, staples, correcting fluid, etc.).      
+4.1.5. Office supplies for the offices of the UNECE secretariat and Host Country secretariat (see above) (paper, pens, staples, correcting fluid, etc.).     
 
 ### 5  
 
@@ -212,7 +212,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 5.1.3. Secure wireless internet access for the entire meeting venue, providing enough IP addresses for the meeting participants.    
 
-5.2. Payment for the above-mentioned communication services is subject to a decision by the Government.    
+5.2. Payment for the above-mentioned communication services is subject to a decision by the Government.   
 
 ### 6  
 
@@ -220,7 +220,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 6.1. The Government will be responsible for printing sufficient copies of official revised and other necessary documents produced during the meetings (UNECE secretariat to provide documents electronically), in numbers to be specified at the appropriate time by the UNECE secretariat. The estimated quantity is about 150,000 pages. The printing and collation of all documents will be carried out by the Host Country secretariat. Quality control to be provided by the UNECE secretariat.  
 
-6.2. A photocopying and printing room for use by delegates. Payment is subject to a decision by the Host Government.    
+6.2. A photocopying and printing room for use by delegates. Payment is subject to a decision by the Host Government.   
 
 ### 7  
 
@@ -230,9 +230,9 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 – eighteenth meeting of the Working Group of the Parties (29 June 2014);  
 
-– fifth session of the Meeting of the Parties to the Aarhus Convention (30 June – 2 July 2014);  
+– fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) (30 June – 2 July 2014);  
 
-– second meeting of the Meeting of the Parties to the Protocol on PRTRs (2 – 4 July 2014);  
+– second meeting of the Meeting of the Parties to the [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) (2 – 4 July 2014);  
 
 – side events upon agreement.   This requires not only the teams of interpreters, but also interpretation facilities in the respective meeting rooms (see paragraphs 2.2.1, 2.2.2, 2.2.3 and 2.2.5).  
 
@@ -244,7 +244,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 7.5. On call translators capable of translating documents that are prepared during the meetings into and from the three official languages of UNECE (most probably from English into French and Russian) upon the request of the UNECE secretariat.  
 
-7.6. The quality standard of the interpretation and translation must meet the standards of the official UN interpretation and translation services.    
+7.6. The quality standard of the interpretation and translation must meet the standards of the official UN interpretation and translation services.   
 
 ### 8  
 
@@ -252,7 +252,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 8.1. Shipment of official publications of the UNECE secretariat will be taken care of by the Government through the facilities of the Permanent Mission of the Netherlands to the United Nations in Geneva with no expense to the UN.  
 
-8.2. The Government will ensure that all printed and electronic materials (e.g. CD-ROMs) that are sent into the country by delegations for official meetings’ purposes, including for exhibitions and side events, are delivered to the meeting venue in a timely manner and without additional cost to the sender (other details of requirements to be subject to an agreement between the delegations and the Government).    
+8.2. The Government will ensure that all printed and electronic materials (e.g. CD-ROMs) that are sent into the country by delegations for official meetings’ purposes, including for exhibitions and side events, are delivered to the meeting venue in a timely manner and without additional cost to the sender (other details of requirements to be subject to an agreement between the delegations and the Government).   
 
 ### 9  
 
@@ -274,7 +274,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 9.8. Photographer to take photos during the meetings, including a “family photo” of all high-level officials and one of all participants (provided by the Government);  
 
-9.9. Signs and posters regarding the fifth session of the Meeting of the Parties to the Aarhus Convention and the second session of the Meeting of the Parties to the Protocol on PRTRs.    
+9.9. Signs and posters regarding the fifth session of the Meeting of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and the second session of the Meeting of the Parties to the [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md).   
 
 ### 10  
 
@@ -282,7 +282,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 10.1. Contacting with local and national media to inform them of the event;  
 
-10.2. Organizing press conference(s) in cooperation with the UNECE secretariat.    
+10.2. Organizing press conference(s) in cooperation with the UNECE secretariat.   
 
 ### 11  
 
@@ -296,7 +296,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 11.1.3. Unlimited access for the Host Country secretariat and the UNECE secretariat personnel within the meeting premises (subject to the identity check).    
 
-11.2. Sufficient capacity of security staff and equipment to prevent delays of delegates entering the meeting venue.    
+11.2. Sufficient capacity of security staff and equipment to prevent delays of delegates entering the meeting venue.   
 
 ### C  
 
@@ -308,17 +308,17 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 12.1. Up to ten members of the UNECE secretariat will come from Geneva to service the meetings, namely: 
 
-12.1.1. two UNECE staff servicing the Aarhus Convention and Protocol on PRTRs for the period of 26 June – 5 July 2014 to participate in the meeting with the Host Country secretariat and to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
+12.1.1. two UNECE staff servicing the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) for the period of 26 June – 5 July 2014 to participate in the meeting with the Host Country secretariat and to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
 
-12.1.2. four UNECE staff servicing the Aarhus Convention and Protocol on PRTRs for the period of 27 June – 5 July 2014 to participate in the meeting with the Host Country secretariat and to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
+12.1.2. four UNECE staff servicing the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) for the period of 27 June – 5 July 2014 to participate in the meeting with the Host Country secretariat and to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
 
-12.1.3. two UNECE staff servicing the Aarhus Convention and Protocol on PRTRs for the period of 28 June – 5 July 2014 to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
+12.1.3. two UNECE staff servicing the Aarhus Convention and Protocol on PRTRs for the period of 28 June – 5 July 2014 to service the associated preparatory meetings and the Meetings of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and its [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md);  
 
-12.1.4. one senior UNECE staff from the Environment Division for the period of 28 June – 5 July 2014 to service the associated preparatory meetings and the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs;  
+12.1.4. one senior UNECE staff from the Environment Division for the period of 28 June – 5 July 2014 to service the associated preparatory meetings and the Meetings of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and its [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md);  
 
-12.1.5. one high-level UNECE official for the period of 1 – 3 July 2014 to participate in the high level segment of the the Meetings of the Parties to the Aarhus Convention and its Protocol on PRTRs.    
+12.1.5. one high-level UNECE official for the period of 1 – 3 July 2014 to participate in the high level segment of the the Meetings of the Parties to the [Aarhus Convention](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) and its [Protocol on PRTRs](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md).    
 
-12.2. Within the overall period of the combined meetings, small adjustments to the travel dates maybe made.    
+12.2. Within the overall period of the combined meetings, small adjustments to the travel dates maybe made.   
 
 ### 13  
 
@@ -334,7 +334,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 13.5. Liaison officer responsible for interpretation and on-call English/French/Russian translation of official document(s) on the spot, upon request of the UNECE secretariat (for more information, see section 7 on interpretation and translation needs);  
 
-13.6. Technical personnel responsible for the functioning of equipment, including PCs, printers, photocopying machines, video, audio, communication, sound and light technicians.    
+13.6. Technical personnel responsible for the functioning of equipment, including PCs, printers, photocopying machines, video, audio, communication, sound and light technicians.   
 
 ### D  
 
@@ -374,7 +374,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 
 14.2.8. prepare press releases, special UNECE weekly and contact with international media to inform them of the event;  
 
-14.2.9. arrange for providing UN flags.      
+14.2.9. arrange for providing UN flags.     
 
 ### Annex  II  
 
@@ -383,7 +383,7 @@ d) Officials of the specialized agencies participating in the meetings shall be 
 to be held in Maastricht, the Netherlands, from 29 June to 4 July 2014  
 
 |  *DESCRIPTION OF ITEMS*   |  *Unit Cost (in US$)*   |  *No. of days/Qty*   |  *No. of staff*   |  *Total estimated costs (in US$)*   |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 |  *I.*   |  *Estimated Direct Supplementary Travel Costs (item 1 below)*   | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- |  *A*   |  *UN staff (10)*   | --- | --- | --- | --- | --- |
@@ -405,7 +405,7 @@ to be held in Maastricht, the Netherlands, from 29 June to 4 July 2014
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- |  *Sub-total: Air ticket costs for UN officials*   | --- | --- | --- | --- |  *6,000*   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *NB:*   | The names of the above staff will be communicated to the Host Government by the UNECE in time for the prompt issuance of air tickets in accordance with paragraph 12 of Annex I  to the Host Country Agreement  | --- | --- | --- | --- | --- |
+| --- |  *NB:*   |  The names of the above staff will be communicated to the Host Government by the UNECE in time for the prompt issuance of air tickets in accordance with paragraph 12 of Annex I  to the Host Country Agreement   | --- | --- | --- | --- | --- |
 |  *II.*   | --- |  *Estimated costs of Daily Subsistence Allowance (item 3 below) (DSA) and terminal expenses*   | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- |  *A*   |  *UN staff (10)*   | --- | --- | --- | --- | --- |
@@ -435,4 +435,4 @@ to be held in Maastricht, the Netherlands, from 29 June to 4 July 2014
 
 ### Nr.  II  
 
-PERMANENT REPRESENTATION OF THE KINGDOM OF THE NETHERLANDS TO THE UNITED NATIONS OFFICE AND OTHER INTERNATIONAL ORGANIZATIONS IN GENEVA Geneva, 29 April 2014 NV: GEV-EA 112/2014 The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva presents its compliments to the Acting Executive Secretary of the United Nations Economic Commission for Europe (UNECE) and has the honour to refer to the letter of Mr Sven Alkalaj with reference ECE/ENV/2014/37 of 11 February 2014, relating to an Agreement to be concluded between the Kingdom of the Netherlands and the UNECE concerning the fifth session of the Meeting of the Parties to the Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters (Aarhus Convention), second session of the Meeting of the Parties to the Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention (Protocol on PRTRs) and their associated preparatory meetings to be held in Maastricht, the Netherlands, from 29 June to 4 July 2014. The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva is authorized by the Government of the Netherlands to state that it agrees to the proposal in the letter of 11 February, 2014 (including Annex I and II), regarding the organization of the fifth session of the Meeting of the Parties to the Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters, second session of the Meeting of the Parties to the Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention and their associated preparatory meetings. Further, the Permanent Representation of the Kingdom of the Netherlands to the United Nations and other International Organizations in Geneva is authorized to state that the Government of the Netherlands considers your letter and this reply as together constituting an Agreement between the Kingdom of the Netherlands and the UNECE concerning the fifth session of the Meeting of the Parties to the Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters, second session of the Meeting of the Parties to the Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention and their associated preparatory meetings, which shall enter into force on the date of this reply and shall remain in force for the duration of the meeting and for such additional period as is necessary for its preparation and winding up, the total duration of this Agreement, however, not to exceed one year. The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva avails itself of this opportunity to renew to the Acting Executive Secretary of the United Nations Economic Commission for Europe the assurances of its highest consideration.  *Acting Executive Secretary*   *Mr. Michael Møller*   *United Nations Economic Commission for Europe*   *Palais des Nations*   *1211 Geneva 10*   *Switzerland*    
+PERMANENT REPRESENTATION OF THE KINGDOM OF THE NETHERLANDS TO THE UNITED NATIONS OFFICE AND OTHER INTERNATIONAL ORGANIZATIONS IN GENEVA Geneva, 29 April 2014 NV: GEV-EA 112/2014 The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva presents its compliments to the Acting Executive Secretary of the United Nations Economic Commission for Europe (UNECE) and has the honour to refer to the letter of Mr Sven Alkalaj with reference ECE/ENV/2014/37 of 11 February 2014, relating to an Agreement to be concluded between the Kingdom of the Netherlands and the UNECE concerning the fifth session of the Meeting of the Parties to the [Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md) (Aarhus Convention), second session of the Meeting of the Parties to the [Protocol on Pollutant Release and Transfer Registers](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) to the Aarhus Convention (Protocol on PRTRs) and their associated preparatory meetings to be held in Maastricht, the Netherlands, from 29 June to 4 July 2014. The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva is authorized by the Government of the Netherlands to state that it agrees to the proposal in the letter of 11 February, 2014 (including Annex I and II), regarding the organization of the fifth session of the Meeting of the Parties to the [Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md), second session of the Meeting of the Parties to the [Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) and their associated preparatory meetings. Further, the Permanent Representation of the Kingdom of the Netherlands to the United Nations and other International Organizations in Geneva is authorized to state that the Government of the Netherlands considers your letter and this reply as together constituting an Agreement between the Kingdom of the Netherlands and the UNECE concerning the fifth session of the Meeting of the Parties to the [Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters](../../../../../../../../../../../../verdrag/convention/on/access/to/information/public/participation/in/etc/BWBV0001700/README.md), second session of the Meeting of the Parties to the [Protocol on Pollutant Release and Transfer Registers to the Aarhus Convention](../../../../../../../../../../../../verdrag/protocol/on/pollutant/release/and/transfer/registers/BWBV0002912/README.md) and their associated preparatory meetings, which shall enter into force on the date of this reply and shall remain in force for the duration of the meeting and for such additional period as is necessary for its preparation and winding up, the total duration of this Agreement, however, not to exceed one year. The Permanent Representation of the Kingdom of the Netherlands to the United Nations Office and other International Organizations in Geneva avails itself of this opportunity to renew to the Acting Executive Secretary of the United Nations Economic Commission for Europe the assurances of its highest consideration. *Acting Executive Secretary* *Mr. Michael Møller* *United Nations Economic Commission for Europe* *Palais des Nations* *1211 Geneva 10* *Switzerland*   
