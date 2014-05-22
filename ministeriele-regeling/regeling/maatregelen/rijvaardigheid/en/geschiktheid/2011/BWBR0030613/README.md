@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 31 oktober 2011, nr. IENM/BSK-IENM/BSK-2011/145875, houdende vaststelling van de Regeling maatregelen rijvaardigheid en geschiktheid 2011
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op de artikelen 130, eerste en derde lid, 131, eerste en derde lid, 132, tweede lid, 132a, tweede, derde en vijfde lid, 132b, vijfde lid, 132c, vijfde, zesde, zevende en negende lid, 132d, eerste, tweede, derde en vijfde lid, 133, vierde en vijfde lid, 134, tweede, derde, zevende en achtste lid, van de Wegenverkeerswet 1994;
+Gelet op de [artikelen 130, eerste en derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [131, eerste en derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132, tweede lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132a, tweede, derde en vijfde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132b, vijfde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132c, vijfde, zesde, zevende en negende lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132d, eerste, tweede, derde en vijfde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [133, vierde en vijfde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [134, tweede, derde, zevende en achtste lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van de Wegenverkeerswet 1994;
 Besluit:     
 ### §  1  
 
@@ -13,28 +13,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*ademalcoholgehalte:* ademalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in artikel 8, tweede lid, onderdeel a, of derde lid, onderdeel a, van de wet;  
+*ademalcoholgehalte:* ademalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in [artikel 8, tweede lid, onderdeel a, of derde lid, onderdeel a, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-*beginnende bestuurder:* bestuurder als bedoeld in artikel 8, derde lid, van de wet;  
+*beginnende bestuurder:* bestuurder als bedoeld in [artikel 8, derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-*bloedalcoholgehalte:* bloedalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in artikel 8, tweede lid, onderdeel b, of derde lid, onderdeel b, van de wet;  
+*bloedalcoholgehalte:* bloedalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in [artikel 8, tweede lid, onderdeel b, of derde lid, onderdeel b, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 *directeur:* de directeur van het Centraal Bureau Rijvaardigheidsbewijzen (CBR);  
 
-*handset:* handset als bedoeld in artikel 1 van bijlage XII bij de Regeling voertuigen;  
+*handset:* handset als bedoeld in artikel 1 van [bijlage XII bij de Regeling voertuigen](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
 *hertest:* in het kader van het alcoholslotprogramma tijdens de rit afgeven van een ademmonster in het in het motorrijtuig ingebouwde alcoholslot;  
 
-*initieel ademmonster:* initieel ademmonster als bedoeld in artikel 1 van bijlage XII bij de Regeling voertuigen;  
+*initieel ademmonster:* initieel ademmonster als bedoeld in artikel 1 van [bijlage XII bij de Regeling voertuigen](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
-*vaste eenheid:* vaste eenheid als bedoeld in artikel 1 van bijlage XII bij de Regeling voertuigen;  
+*vaste eenheid:* vaste eenheid als bedoeld in artikel 1 van [bijlage XII bij de Regeling voertuigen](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
-*wet:*Wegenverkeerswet 1994.    
+*wet: * [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
 
 ### Artikel  2  
 
-1.  Een vermoeden als bedoeld in artikel 130, eerste lid, van de wet wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende bijlage 1.   
-2.  Indien een vermoeden als bedoeld in het eerste lid wordt gebaseerd op het gestelde in de bij deze regeling behorende bijlage 1, onder B, onderdeel III, ‘Drogerende stoffen Alcohol’, dient betrokkene bij minimaal één feit bestuurder te zijn geweest van een motorrijtuig waarvoor een rijbewijs is vereist.   
+1.  Een vermoeden als bedoeld in [artikel 130, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende bijlage 1.   
+2.  Indien een vermoeden als bedoeld in het eerste lid wordt gebaseerd op het gestelde in de bij deze regeling behorende bijlage 1, onder B, onderdeel III, ‘Drogerende stoffen Alcohol’, dient betrokkene bij minimaal één feit bestuurder te zijn geweest van een motorrijtuig waarvoor een rijbewijs is vereist.  
 
 ### Artikel  3  
 
@@ -47,17 +47,17 @@ b. gegevens afkomstig van de officier van justitie, of
 c. door de politie nagetrokken gegevens uit andere bron.     
 2.  Feiten of omstandigheden als bedoeld in artikel 2 kunnen voor zover het de geschiktheid betreft bovendien blijken uit: 
 
-a. gegevens door de directeur verkregen in het kader van aanvragen van verklaringen van geschiktheid als bedoeld in artikel 97 van het Reglement rijbewijzen;  
+a. gegevens door de directeur verkregen in het kader van aanvragen van verklaringen van geschiktheid als bedoeld in [artikel 97 van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
 
 b. gegevens, door de directeur van een arts verkregen, of  
 
 c. gegevens, door de directeur uit andere bron verkregen.     
-3.  Het meest recente feit, bedoeld in artikel 2, is ten tijde van de mededeling niet langer dan zes maanden geleden geconstateerd. Indien het een mededeling betreft van de officier van justitie inzake bijlage 1, onder IV, dient de mededeling uiterlijk binnen zes maanden nadat de laatste afdoening onherroepelijk is geworden, te worden gedaan. Een uitzondering is slechts mogelijk, indien in de aard van de zaak gelegen omstandigheden dit rechtvaardigen.   
+3.  Het meest recente feit, bedoeld in artikel 2, is ten tijde van de mededeling niet langer dan zes maanden geleden geconstateerd. Indien het een mededeling betreft van de officier van justitie inzake bijlage 1, onder IV, dient de mededeling uiterlijk binnen zes maanden nadat de laatste afdoening onherroepelijk is geworden, te worden gedaan. Een uitzondering is slechts mogelijk, indien in de aard van de zaak gelegen omstandigheden dit rechtvaardigen.  
 
 ### Artikel  4  
 
-1.  De mededeling, bedoeld in artikel 130, eerste lid, van de wet kan schriftelijk worden gedaan volgens het model, opgenomen in de bij deze regeling behorende bijlage 2, of op andere wijze, mits daarbij dezelfde gegevens als in dat model worden vermeld. Hieronder wordt tevens verstaan aanlevering via geautomatiseerde systemen, dan wel via digitale gegevensdragers.   
-2.  De in artikel 130, derde lid, van de wet bedoelde toezending aan het CBR van een ingevorderd rijbewijs geschiedt bij aangetekende brief.   
+1.  De mededeling, bedoeld in [artikel 130, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan schriftelijk worden gedaan volgens het model, opgenomen in de bij deze regeling behorende bijlage 2, of op andere wijze, mits daarbij dezelfde gegevens als in dat model worden vermeld. Hieronder wordt tevens verstaan aanlevering via geautomatiseerde systemen, dan wel via digitale gegevensdragers.   
+2.  De in [artikel 130, derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde toezending aan het CBR van een ingevorderd rijbewijs geschiedt bij aangetekende brief.  
 
 ### §  2  
 
@@ -65,7 +65,7 @@ c. gegevens, door de directeur uit andere bron verkregen.
 
 ### Artikel  5  
 
-1.  Een vordering tot overgifte van het rijbewijs, bedoeld in artikel 130, tweede lid, van de wet geschiedt in de volgende gevallen: 
+1. Een vordering tot overgifte van het rijbewijs, bedoeld in [artikel 130, tweede lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geschiedt in de volgende gevallen: 
 
 a. betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;  
 
@@ -89,21 +89,21 @@ j. bij betrokkene wordt als bestuurder van een motorrijtuig een adem- of bloedal
 
 k. bij betrokkene wordt, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰;  
 
-l. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8 van de wet, tenzij de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM;  
+l. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in [artikel 8 van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), tenzij de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM;  
 
-m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste vier maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;  
+m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste vier maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;  
 
 n. betrokkene heeft drie maal als beginnende bestuurder een of meer van de in bijlage 1, onderdeel IV, opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, dan wel is voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijke strafbeschikking uitgevaardigd;  
 
-o. ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, derde juncto vierde lid, van de wet of artikel 9, negende lid, van de wet;  
+o. ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, derde juncto vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of [artikel 9, negende lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-p. betrokkene, die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik - al dan niet in combinatie met het gebruik van een andere stof - de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.     
+p. betrokkene, die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik - al dan niet in combinatie met het gebruik van een andere stof - de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.   
 2.  In de gevallen, bedoeld in het eerste lid, onderdeel j, vindt geen vordering tot overgifte plaats, indien de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM en het een adem- of bloedalcoholgehalte betreft dat gelijk is aan dan wel hoger is dan 570 µg/l respectievelijk 1,3‰, maar lager dan 785 µg/l respectievelijk 1,8‰.   
-3.  In de gevallen, bedoeld in het eerste lid, onderdeel k, vindt geen vordering tot overgifte plaats, indien de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM en het een adem- of bloedalcoholgehalte betreft dat gelijk is aan dan wel hoger is dan 435 µg/l respectievelijk 1,0‰, maar lager dan 785 µg/l respectievelijk 1,8‰.   
+3.  In de gevallen, bedoeld in het eerste lid, onderdeel k, vindt geen vordering tot overgifte plaats, indien de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM en het een adem- of bloedalcoholgehalte betreft dat gelijk is aan dan wel hoger is dan 435 µg/l respectievelijk 1,0‰, maar lager dan 785 µg/l respectievelijk 1,8‰. 
 
 ### Artikel  6  
 
-In de gevallen, bedoeld in artikel 5, schorst het CBR overeenkomstig artikel 131, tweede lid, van de wet de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij een educatieve maatregel als bedoeld in artikel 131, eerste lid, onderdeel a, van de wet wordt opgelegd of het rijbewijs ongeldig wordt verklaard op grond van artikel 132b, tweede lid, van de wet.  
+In de gevallen, bedoeld in artikel 5, schorst het CBR overeenkomstig [artikel 131, tweede lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij een educatieve maatregel als bedoeld in artikel 131, eerste lid, onderdeel a, van de wet wordt opgelegd of het rijbewijs ongeldig wordt verklaard op grond van [artikel 132b, tweede lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 
 
 ### §  3  
 
@@ -115,7 +115,7 @@ Het CBR besluit tot een lichte educatieve maatregel alcohol en verkeer indien:
 
 a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 350 µg/l, respectievelijk 0,8‰, maar lager is dan 435 µg/l, respectievelijk 1,0‰;  
 
-b. bij betrokkene, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 220 µg/l, respectievelijk 0,5‰, maar lager is dan 350 µg/l, respectievelijk 0,8‰.    
+b. bij betrokkene, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 220 µg/l, respectievelijk 0,5‰, maar lager is dan 350 µg/l, respectievelijk 0,8‰.   
 
 ### Artikel  8  
 
@@ -137,7 +137,7 @@ g. hij naar het oordeel van een medisch deskundige lijdt aan een ernstige psychi
 
 h. het vermoeden bestaat dat er bij betrokkene sprake is van alcoholafhankelijkheid, of  
 
-i. het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.    
+i. het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.   
 
 ### Artikel  9  
 
@@ -147,13 +147,13 @@ a. de kosten van de educatieve maatregel niet heeft voldaan binnen de termijn of
 
 b. onder invloed van alcohol of andere drogerende stoffen op de desbetreffende cursus verschijnt;  
 
-c. niet of niet binnen de door het CBR gestelde termijn meewerkt aan de educatieve maatregel zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven;  
+c. niet of niet binnen de door het CBR gestelde termijn meewerkt aan de educatieve maatregel zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven; 
 
 d. demonstratief niet aan de cursus deelneemt;  
 
 e. zich tijdens de cursus agressief gedraagt, of  
 
-f. tijdens de cursus op andere wijze het groepsproces verstoort.    
+f. tijdens de cursus op andere wijze het groepsproces verstoort.   
 
 ### Artikel  10  
 
@@ -163,7 +163,7 @@ a. kosten van het opleggen van de maatregel, die € 318,– bedragen en
 
 b. kosten van de uitvoering van de maatregel, die € 208,– bedragen.     
 2.  Alle in het eerste lid bedoelde kosten worden betaald binnen vijf weken nadat het besluit tot oplegging van de lichte educatieve maatregel alcohol en verkeer aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.   
-3.  De in het tweede lid bedoelde termijn kan niet worden verlengd.   
+3.  De in het tweede lid bedoelde termijn kan niet worden verlengd.  
 
 ### §  4  
 
@@ -181,8 +181,10 @@ c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste twee ma
 
 d. betrokkene op grond van artikel 8, onderdeel c, niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;  
 
-e. betrokkene op grond van artikel 18, onderdeel g, niet in aanmerking komt voor het alcoholslotprogramma en er niet eerder een mededeling als bedoeld in artikel 130, eerste lid, van de wet is uitgebracht ten aanzien van de betrokken rijbewijshouder, gebaseerd dan wel mede gebaseerd op bijlage 1, onderdeel B, subonderdeel III, bij deze Regeling, die heeft geleid tot het opleggen van een educatieve maatregel alcohol en verkeer.     
-2.  Artikel 9 is van overeenkomstige toepassing.   
+e. betrokkene op grond van artikel 18, eerste lid, onderdeel g, niet in aanmerking komt voor het alcoholslotprogramma en aan hem de afgelopen vijf jaar niet eerder een educatieve maatregel alcohol en verkeer is opgelegd; 
+
+f. betrokkene op grond van artikel 18, eerste lid, onderdeel h, niet in aanmerking komt voor het alcoholslotprogramma en aan hem de afgelopen vijf jaar niet eerder een educatieve maatregel alcohol en verkeer is opgelegd.    
+2.  Artikel 9 is van overeenkomstige toepassing.  
 
 ### Artikel  12  
 
@@ -202,7 +204,7 @@ f. hij naar het oordeel van een medisch deskundige lijdt aan een ernstige psychi
 
 g. het vermoeden bestaat dat er bij betrokkene sprake is van alcoholafhankelijkheid, of  
 
-h. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.    
+h. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.   
 
 ### Artikel  13  
 
@@ -212,7 +214,7 @@ a. kosten met betrekking tot het opleggen van de maatregel, die € 318,– bed
 
 b. kosten met betrekking tot de uitvoering van de maatregel, die € 522,– bedragen.     
 2.  Alle in het eerste lid bedoelde kosten worden betaald binnen tien weken nadat het besluit tot oplegging van de educatieve maatregel aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.   
-3.  Indien betrokkene zich in een dusdanig financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan voor de kosten, bedoeld in het eerste lid, onderdeel b, de in het tweede lid genoemde termijn worden verlengd.   
+3.  Indien betrokkene zich in een dusdanig financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan voor de kosten, bedoeld in het eerste lid, onderdeel b, de in het tweede lid genoemde termijn worden verlengd.  
 
 ### §  5  
 
@@ -231,7 +233,7 @@ c. ten aanzien van betrokkene als bestuurder van een bromfiets een overschrijdin
 d. ten aanzien van betrokkene als bestuurder van een motorrijtuig een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden,.  
 
 e. de uitslag van het ingevolge artikel 23, tweede lid, opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs.     
-2.  Artikel 9 is van overeenkomstige toepassing.   
+2.  Artikel 9 is van overeenkomstige toepassing.  
 
 ### Artikel  15  
 
@@ -249,7 +251,7 @@ e. hij naar het oordeel van een medisch deskundige lijdt aan een ernstige psychi
 
 f. het vermoeden bestaat dat er bij betrokkene sprake is van alcoholafhankelijkheid, of  
 
-g. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.    
+g. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebruikt.   
 
 ### Artikel  16  
 
@@ -258,7 +260,7 @@ g. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebrui
 a. kosten met betrekking tot het opleggen van de maatregel, die € 318,– bedragen en  
 
 b. kosten met betrekking tot de uitvoering van de maatregel, die € 684,– bedragen.     
-2.  Artikel 13, tweede en derde lid, is van overeenkomstige toepassing.   
+2.  Artikel 13, tweede en derde lid, is van overeenkomstige toepassing.  
 
 ### §  6  
 
@@ -266,30 +268,30 @@ b. kosten met betrekking tot de uitvoering van de maatregel, die € 684,– be
 
 ### Artikel  17  
 
-1.  Het CBR besluit dat betrokkene zich dient te onderwerpen aan het alcoholslotprogramma indien: 
+1. Het CBR besluit dat betrokkene zich dient te onderwerpen aan het alcoholslotprogramma indien:
 
 a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 570 µg/l, respectievelijk 1,3‰, maar lager is dan 785 µg/l, respectievelijk 1,8‰;  
 
 b. bij betrokkene, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰, maar lager is dan 785 µg/l, respectievelijk 1,8‰;  
 
-c. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+c. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-d. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste drie maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in dat artikel;  
+d. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste drie maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in dat artikel;  
 
 e. betrokkene op grond van artikel 8, onderdelen a, d of h, niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;  
 
 f. betrokkene op grond van artikel 12, onderdelen a, c of g, niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer, of  
 
-g. de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs, tenzij oplegging van dit onderzoek heeft plaatsgevonden op grond van artikel 23, eerste lid, onderdelen b, onder I, of c, onder I.     
-2.  In afwijking van artikel 18, onderdeel b, komt betrokkene in aanmerking voor oplegging van het alcoholslotprogramma indien: 
+g. de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs, tenzij oplegging van dit onderzoek heeft plaatsgevonden op grond van artikel 23, eerste lid, onderdelen b, onder I, of c, onder I.   
+2. In afwijking van artikel 18, eerste lid, onderdeel b, komt betrokkene in aanmerking voor oplegging van het alcoholslotprogramma indien: 
 
 a. hem in de afgelopen vijf jaar op grond van artikel 7 deelname aan een lichte educatieve maatregel alcohol en verkeer is opgelegd, maar hij op grond van artikel 23, eerste lid, onderdeel b, onder I, een onderzoek naar de geschiktheid heeft ondergaan;  
 
-b. hem in de afgelopen vijf jaar op grond van artikel 11 deelname aan een lichte educatieve maatregel alcohol en verkeer is opgelegd, maar hij op grond van artikel 23, eerste lid, onderdeel c, onder I, een onderzoek naar de geschiktheid heeft ondergaan.     
+b. hem in de afgelopen vijf jaar op grond van artikel 11 deelname aan een educatieve maatregel alcohol en verkeer is opgelegd, maar hij op grond van artikel 23, eerste lid, onderdeel c, onder I, een onderzoek naar de geschiktheid heeft ondergaan.  
 
 ### Artikel  18  
 
-Betrokkene komt niet in aanmerking voor het alcoholslotprogramma indien: 
+1. Betrokkene komt niet in aanmerking voor het alcoholslotprogramma indien: 
 
 a. hij de afgelopen vijf jaar aan het alcoholslotprogramma heeft deelgenomen, tenzij de doorverwijzing naar het alcoholslotprogramma plaatsvindt op basis van de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek;  
 
@@ -299,19 +301,30 @@ c. hij naar het oordeel van een medisch deskundige lijdt aan een ernstige psychi
 
 d. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen, anders dan alcohol, gebruikt;  
 
-e. hij uitsluitend de beschikking had over een rijbewijs voor de categorie A, het rijbewijs voor de categorie AM niet meegerekend, of  
+e. hij uitsluitend de beschikking had over een rijbewijs voor de categorieën A1, A2 of A, het rijbewijs voor de categorie AM niet meegerekend;  
 
-f. hij beschikt over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs, maar op het moment van het nemen van het besluit, bedoeld in artikel 131, eerste lid, onderdeel b, van de wet niet in Nederland woonachtig is;  
+f.hij beschikt over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs, maar op het moment van het nemen van het besluit, bedoeld in [artikel 131, eerste lid, onderdeel b, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet in Nederland woonachtig is;
 
-g. de overtreding waarop de mededeling is gebaseerd, is begaan als bestuurder van een motorrijtuig van de categorie AM.    
+g. de overtreding waarop de mededeling is gebaseerd, is begaan als bestuurder van een motorrijtuig van de categorie AM; 
+
+h. naar het oordeel van het CBR is aangetoond dat betrokkene op het tijdstip van het nemen van het besluit dan wel het nemen van de beslissing op bezwaar voor zijn inkomen afhankelijk was van het rijbewijs voor een of meer van de categorieën C1, C, D1 of D.   
+2.  De in het eerste lid, onderdeel h, bedoelde inkomensafhankelijkheid kan in ieder geval worden aangetoond door: 
+
+a. een of meer werkgeversverklaringen,  
+
+b. loonstrookjes,  
+
+c. een bewijs van inschrijving bij de Kamer van Koophandel, dat niet ouder is dan vier weken en waaruit blijkt dat betrokkene ingeschreven was op het in het eerste lid, onderdeel h, bedoelde tijdstip, of  
+
+d. opdrachten waaruit blijkt dat betrokkene voor het inkomen van dat rijbewijs afhankelijk is.   
 
 ### Artikel  19  
 
 1.  Het alcoholslotprogramma omvat de volgende onderdelen: 
 
-a. de inbouw van een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet;  
+a. de inbouw van een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. de periodieke uitlezing van de gegevens uit het alcoholslot door de erkenninghouder, bedoeld in artikel 132k, eerste lid, van de wet;  
+b. de periodieke uitlezing van de gegevens uit het alcoholslot door de erkenninghouder, bedoeld in [artikel 132k, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 c. het volgen van het begeleidingsprogramma.     
 2.  Voor de toepassing van dit artikel wordt het alcoholslotprogramma verdeeld in perioden van zes maanden.   
@@ -338,13 +351,13 @@ d. het motorrijtuig is gestart zonder dat vooraf een geldig ademmonster is afgeg
 
 e. de bestuurder niet heeft voldaan aan het verzoek een hertest af te leggen;  
 
-f. een hertest is afgelegd, maar uit het bij de hertest afgegeven ademmonster blijkt dat het gemeten ademalcoholgehalte hoger was dan 88 µg/l.     
+f. een hertest is afgelegd, maar uit het bij de hertest afgegeven ademmonster blijkt dat het gemeten ademalcoholgehalte hoger was dan 88 µg/l.    
 
 ### Artikel  20  
 
-Betrokkene verleent onder meer niet de vereiste medewerking, bedoeld in artikel 132, eerste lid, van de wet aan het alcoholslotprogramma indien: 
+Betrokkene verleent onder meer niet de vereiste medewerking, bedoeld in [artikel 132, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan het alcoholslotprogramma indien: 
 
-a. hij de kosten, bedoeld in artikel 132c, zesde en zevende lid, van de wet niet, niet binnen de gestelde termijn of niet op de voorgeschreven dan wel overeengekomen wijze voldoet;  
+a. hij de kosten, bedoeld in [artikel 132c, zesde en zevende lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet, niet binnen de gestelde termijn of niet op de voorgeschreven dan wel overeengekomen wijze voldoet;  
 
 b. hij niet of niet binnen de gestelde termijn meewerkt aan de uitlezing van de gegevens uit het alcoholslot, met uitzondering van de in artikel 19, zesde lid, onderdelen a, b of c, genoemde gevallen;  
 
@@ -360,25 +373,25 @@ g. hij tijdens de vastgestelde bijeenkomsten op andere wijze het groepsproces ve
 
 h. hij tijdens het alcoholslotprogramma een motorrijtuig bestuurt waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets: 
 
-I. dat niet is voorzien van een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet, of  
+I. dat niet is voorzien van een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of  
 
-II. waarin een zodanig alcoholslot is ingebouwd waarvan door een van de in artikel 159, onderdeel a, van de wet bedoelde personen is geconstateerd dat het niet functioneert, of  
+II. waarin een zodanig alcoholslot is ingebouwd waarvan door een van de in [artikel 159, onderdeel a, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde personen is geconstateerd dat het niet functioneert, of  
 
 III. waarin wel een alcoholslot is ingebouwd, maar waarvan het kenteken niet in het kader van het alcoholslotprogramma aan de bestuurder is gekoppeld;  
 
-IV. en door een van de in artikel 159, onderdeel a, van de wet bedoelde personen proces-verbaal is opgemaakt op basis van eigen constatering, dan wel op basis van een bekentenis van de bestuurder of van een verklaring of verklaringen van getuigen, dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in artikel 132e, eerste lid, van de wet;    
+IV. en door een van de in [artikel 159, onderdeel a, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde personen proces-verbaal is opgemaakt op basis van eigen constatering, dan wel op basis van een bekentenis van de bestuurder of van een verklaring of verklaringen van getuigen, dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);    
 
-i. ten aanzien van hem, tijdens het alcoholslotprogramma, bedoeld in artikel 132b, eerste lid, van de wet na een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰, dan wel indien hij tijdens de duur van het alcoholslotprogramma heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+i. ten aanzien van hem, tijdens het alcoholslotprogramma, bedoeld in [artikel 132b, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) na een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰, dan wel indien hij tijdens de duur van het alcoholslotprogramma heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
 
 j. ten aanzien van hem tijdens het alcoholslotprogramma een rijontzegging van kracht is geworden;  
 
-k. het op zijn naam gestelde rijbewijs van rechtswege ongeldig is geworden op grond van artikel 123b van de wet of indien een aantekening is gemaakt op grond van artikel 123b, derde lid, van de wet;  
+k. het op zijn naam gestelde rijbewijs van rechtswege ongeldig is geworden op grond van [artikel 123b van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of indien een aantekening is gemaakt op grond van artikel 123b, derde lid, van de wet;  
 
 l. tijdens het alcoholslotprogramma vier of meer foutieve hertesten zijn geregistreerd;  
 
 m. hij de meting of de werking van het alcoholslot heeft omzeild;  
 
-n. indien tijdens het alcoholslotprogramma uitbouw van het alcoholslot heeft plaatsgevonden zonder dat een ander alcoholslot als bedoeld in artikel 132e, van de wet is ingebouwd;  
+n. indien tijdens het alcoholslotprogramma uitbouw van het alcoholslot heeft plaatsgevonden zonder dat een ander alcoholslot als bedoeld in [artikel 132e, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is ingebouwd;  
 
 o. indien tijdens de duur van het alcoholslotprogramma is geconstateerd dat: 
 
@@ -390,7 +403,7 @@ III. de software van het alcoholslot zodanig is aangepast of omzeild dat het mot
 
 IV. kan worden gereden zonder dat periodiek een hertest moet worden afgelegd;    
 
-p. indien tijdens het alcoholslotprogramma is gebleken dat voor de tweede keer bedrading is onderbroken of beschadigd, de behuizing van het alcoholslot is beschadigd of onregelmatigheden zijn geconstateerd betreffende de aansluitpunten tussen de vaste eenheid en de uitleesapplicatie.    
+p. indien tijdens het alcoholslotprogramma is gebleken dat voor de tweede keer bedrading is onderbroken of beschadigd, de behuizing van het alcoholslot is beschadigd of onregelmatigheden zijn geconstateerd betreffende de aansluitpunten tussen de vaste eenheid en de uitleesapplicatie.   
 
 ### Artikel  21  
 
@@ -398,17 +411,17 @@ p. indien tijdens het alcoholslotprogramma is gebleken dat voor de tweede keer b
 
 a. kosten met betrekking tot het opleggen van het alcoholslotprogramma, die € 318,– bedragen;  
 
-b. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132c, vierde lid, van de wet bedoelde periode, die € 760,– bedragen;  
+b. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in [artikel 132c, vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde periode, die € 760,– bedragen;  
 
-c. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132d, tweede of vierde lid, van de wet bedoelde verlenging, die per verlenging € 170,– bedragen;  
+c. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in [artikel 132d, tweede of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde verlenging, die per verlenging € 170,– bedragen;  
 
-d. kosten verbonden aan het in stand houden van het alcoholslotregister, welke kostenbij of krachtens de Wegenverkeerswet 1994 zijn vastgesteld.     
-2.  De kosten, bedoeld in het eerste lid, worden betaald in termijnen op de wijze zoals door het CBR aangegeven bij het besluit, bedoeld in artikel 132c, eerste lid, van de wet, dan wel bij het besluit, bedoeld in artikel 132d, tweede of vierde lid, van de wet.   
-3.  De in het tweede lid bedoelde termijnen kunnen niet worden verlengd.   
+d. kosten verbonden aan het in stand houden van het alcoholslotregister, welke kostenbij of krachtens de [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)zijn vastgesteld.     
+2.  De kosten, bedoeld in het eerste lid, worden betaald in termijnen op de wijze zoals door het CBR aangegeven bij het besluit, bedoeld in [artikel 132c, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dan wel bij het besluit, bedoeld in [artikel 132d, tweede of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+3.  De in het tweede lid bedoelde termijnen kunnen niet worden verlengd.  
 
 ### Artikel  22  
 
-Het CBR besluit tot verlenging van het alcoholslotprogramma indien uit de in artikel 132d, eerste of derde lid, van de wet bedoelde evaluatie is gebleken dat in de laatste zes maanden dan wel tijdens de verlenging van het alcoholslotprogramma tenminste één blaaspoging, niet zijnde een hertest, is geregistreerd hoger dan 88 µg/l.  
+Het CBR besluit tot verlenging van het alcoholslotprogramma indien uit de in [artikel 132d, eerste of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde evaluatie is gebleken dat in de laatste zes maanden dan wel tijdens de verlenging van het alcoholslotprogramma tenminste één blaaspoging, niet zijnde een hertest, is geregistreerd hoger dan 88 µg/l. 
 
 ### §  7  
 
@@ -416,42 +429,42 @@ Het CBR besluit tot verlenging van het alcoholslotprogramma indien uit de in art
 
 ### Artikel  23  
 
-1.  Het CBR besluit dat betrokkene zich dient te onderwerpen aan een onderzoek naar de geschiktheid, bedoeld in artikel 131, eerste lid, van de wet indien: 
+1.  Het CBR besluit dat betrokkene zich dient te onderwerpen aan een onderzoek naar de geschiktheid, bedoeld in [artikel 131, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) indien: 
 
 a. bij betrokkene, al dan niet in hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
 
 b. betrokkene niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer op grond van: 
 
-I. artikel 8, onderdeel b,  
+I.artikel 8, onderdeel b,
 
-II, artikel 8, onderdeel e,  
+II,artikel 8, onderdeel e,
 
-III. artikel 8, onderdeel f,  
+III.artikel 8, onderdeel f,
 
-IV. artikel 8, onderdeel g of  
+IV.artikel 8, onderdeel g of
 
-V. artikel 8, onderdeel i;     
+V.artikel 8, onderdeel i; 
 
 c. betrokkene niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer op grond van: 
 
-I. artikel 12, onderdeel b,  
+I.artikel 12, onderdeel b,
 
-II, artikel 12, onderdeel d,  
+II,artikel 12, onderdeel d,
 
-III. artikel 12, onderdeel e,  
+III.artikel 12, onderdeel e,
 
-IV. artikel 12, onderdeel f of  
+IV.artikel 12, onderdeel f of
 
-V. artikel 12, onderdeel h;     
+V.artikel 12, onderdeel h; 
 
-d. betrokkene op grond van artikel 18 niet in aanmerking komt voor een alcoholslotprogramma, tenzij artikel 11, eerste lid, onderdeel e, van toepassing is.     
+d. betrokkene op grond van artikel 18, eerste lid, niet in aanmerking komt voor een alcoholslotprogramma, tenzij artikel 11, eerste lid, onderdeel e, van toepassing is.     
 2.  Het CBR besluit voorts dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid, meer in het bijzonder het rijgedrag, indien betrokkene op grond van artikel 15, onderdeel d, niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.   
 3.  Het CBR besluit ten slotte dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid dan wel geschiktheid: 
 
 a. in geval van feiten of omstandigheden als genoemd in de bij deze regeling behorende bijlage 1, anders dan die vermeld onder A, onderdeel III, Rijgedrag, of onder B, onderdeel III, Drogerende stoffen ‘Alcohol’, alsmede  
 
 b. indien betrokkene op grond van artikel 15, onderdelen a, b, c, e, f of g, niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.     
-4.  Indien de mededeling, bedoeld in artikel 130, eerste lid, van de wet is gedaan op basis van feiten en omstandigheden als genoemd in de bij deze regeling behorende bijlage 1, vermeld onder A, onderdeel IV, Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens, kan het CBR besluiten af te zien van het opleggen van een onderzoek, indien daarvoor dringende redenen aanwezig zijn.   
+4.  Indien de mededeling, bedoeld in [artikel 130, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is gedaan op basis van feiten en omstandigheden als genoemd in de bij deze regeling behorende bijlage 1, vermeld onder A, onderdeel IV, Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens, kan het CBR besluiten af te zien van het opleggen van een onderzoek, indien daarvoor dringende redenen aanwezig zijn.  
 
 ### Artikel  24  
 
@@ -459,7 +472,7 @@ Betrokkene verleent onder meer niet de vereiste medewerking aan het onderzoek na
 
 a. de kosten bedoeld in artikel 25, eerste lid, niet, niet tijdig of niet op de voorgeschreven dan wel overeengekomen wijze voldoet, of  
 
-b. niet of niet binnen de door het CBR gestelde termijn meewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven.    
+b. niet of niet binnen de door het CBR gestelde termijn meewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven.   
 
 ### Artikel  25  
 
@@ -474,13 +487,13 @@ a. kosten met betrekking tot het opleggen van het onderzoek, die € 318,– be
 
 b. kosten met betrekking tot de uitvoering van die maatregel, die € 702,– bedragen.     
 3.  Artikel 13, tweede en derde lid, is van overeenkomstige toepassing.   
-4.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden voor de verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, genoemd in het tweede lid, onderdeel b, en het in dit lid bedoelde bedrag wordt door het CBR terugbetaald aan degene die het in het tweede lid, onderdeel b, genoemde bedrag heeft betaald.   
+4.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden voor de verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, genoemd in het tweede lid, onderdeel b, en het in dit lid bedoelde bedrag wordt door het CBR terugbetaald aan degene die het in het tweede lid, onderdeel b, genoemde bedrag heeft betaald. 
 
 ### Artikel  26  
 
-1.  De kosten van het tweede onderzoek, bedoeld in artikel 134, derde lid, van de wet bedragen € 653,–’.   
-2.  De kosten van het tweede onderzoek worden betaald binnen twee weken na de mededeling van het CBR, bedoeld in artikel 134, derde lid, van de wet, op de wijze zoals bij die mededeling is aangegeven. Deze termijn wordt niet verlengd.   
-3.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, bedoeld in het eerste lid, en het in dit lid genoemde bedrag wordt door het CBR terugbetaald aan degene die het in het eerste lid genoemde bedrag heeft betaald.   
+1.  De kosten van het tweede onderzoek, bedoeld in [artikel 134, derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedragen € 653,–’.   
+2.  De kosten van het tweede onderzoek worden betaald binnen twee weken na de mededeling van het CBR, bedoeld in [artikel 134, derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op de wijze zoals bij die mededeling is aangegeven. Deze termijn wordt niet verlengd.   
+3.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, bedoeld in het eerste lid, en het in dit lid genoemde bedrag wordt door het CBR terugbetaald aan degene die het in het eerste lid genoemde bedrag heeft betaald. 
 
 ### §  8  
 
@@ -488,11 +501,11 @@ b. kosten met betrekking tot de uitvoering van die maatregel, die € 702,– b
 
 ### Artikel  27  
 
-Het CBR besluit tot ongeldigverklaring van het rijbewijs, bedoeld in artikel 134, derde lid, van de wet, indien de uitslag van het onderzoek, respectievelijk de onderzoeken, inhoudt dat betrokkene: 
+Het CBR besluit tot ongeldigverklaring van het rijbewijs, bedoeld in [artikel 134, derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), indien de uitslag van het onderzoek, respectievelijk de onderzoeken, inhoudt dat betrokkene: 
 
 a. niet de rijvaardigheid bezit voor de desbetreffende categorie of categorieën motorrijtuigen;  
 
-b. niet voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijk en geestelijke geschiktheid voor het besturen van een of meer categorieën motorrijtuigen.    
+b. niet voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijk en geestelijke geschiktheid voor het besturen van een of meer categorieën motorrijtuigen.   
 
 ### §  9  
 
@@ -500,20 +513,20 @@ b. niet voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekk
 
 ### Artikel  28  
 
-De Regeling maatregelen rijvaardigheid en geschiktheid wordt ingetrokken.  
+De [Regeling maatregelen rijvaardigheid en geschiktheid](../../../../../../../../ministeriele-regeling/regeling/maatregelen/rijvaardigheid/en/geschiktheid/BWBR0008003/README.md) wordt ingetrokken. 
 
 ### Artikel  29  
 
-Deze regeling treedt in werking op het tijdstip waarop de artikelen I, onderdelen A, E tot en met DD, en GG tot en met PP, en II tot en met VIII, van de wet van 4 juni 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanpassing van de vorderingsprocedure en de invoering van het alcoholslotprogramma (Stb. 259) in werking treden.  
+Deze regeling treedt in werking op het tijdstip waarop de [artikelen I, onderdelen A, E tot en met DD, en GG tot en met PP](../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(aanpassing/vorderingsprocedure/en/etc/BWBR0027867/README.md), en [II tot en met VIII, van de wet van 4 juni 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanpassing van de vorderingsprocedure en de invoering van het alcoholslotprogramma](../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(aanpassing/vorderingsprocedure/en/etc/BWBR0027867/README.md) (Stb. 259) in werking treden. 
 
 ### Artikel  30  
 
-Deze regeling wordt aangehaald als: Regeling maatregelen rijvaardigheid en geschiktheid 2011.  
+Deze regeling wordt aangehaald als: Regeling maatregelen rijvaardigheid en geschiktheid 2011. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  1  
 
@@ -539,7 +552,7 @@ Feiten dan wel omstandigheden, die een vermoeden rechtvaardigen dat betrokkene n
 
 3. een onjuiste bediening van de rem, waardoor bij herhaling abrupt wordt vertraagd en gestopt of met blokkerende wielen wordt geremd;  
 
-4. een onjuist gebruik of nalaten van het gebruik van mechanismen en apparatuur van het motorrijtuig die van belang zijn voor de verkeersveiligheid, zoals ruitenwissers, richtingaanwijzers, verlichting en voorruitverwarming.    
+4. een onjuist gebruik of nalaten van het gebruik van mechanismen en apparatuur van het motorrijtuig die van belang zijn voor de verkeersveiligheid, zoals ruitenwissers, richtingaanwijzers, verlichting en voorruitverwarming.   
 
 ### I.2  
 
@@ -563,7 +576,7 @@ a. het motorrijtuig niet onder controle houden;
 
 b. bij herhaling op onjuiste wijze keren, achteruitrijden of parkeren;  
 
-c. bij herhaling veroorzaken van aanrijdingen.      
+c. bij herhaling veroorzaken van aanrijdingen.     
 
 ### II  
 
@@ -601,11 +614,11 @@ g. onvoldoende anticiperen op het gedrag van andere deelnemers;
 
 h. niet adequaat reageren op bijzondere verkeerssituaties, zoals filevorming;  
 
-i. niet tijdig onderkennen van de invloed van externe of interne factoren.      
+i. niet tijdig onderkennen van de invloed van externe of interne factoren.     
 
 ### III  
 
-####rijgedrag
+#### rijgedrag
 
 1. Gevaarzettend rijgedrag waardoor: 
 
@@ -665,7 +678,7 @@ h. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschri
 
 i. het als bestuurder van een motorrijtuig overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden;  
 
-j. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom.      
+j. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom.     
 
 ### IV  
 
@@ -673,17 +686,17 @@ j. het als bestuurder van een bromfiets overschrijden van de toegestane maximums
 
 In de hoedanigheid van beginnende bestuurder, onverminderd het overigens in deze bijlage bepaalde, drie maal een of meer van de navolgende feiten hebben begaan waarvoor hij tijdens of na de in artikel 1, onder beginnende bestuurder, genoemde termijn onherroepelijk is veroordeeld, dan wel indien voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking is uitgevaardigd: 
 
-a. overtreding van artikel 5 van de wet;  
+a. overtreding van [artikel 5 van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. overtreding van artikel 6 van de wet;  
+b. overtreding van [artikel 6 van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-c. overtreding van artikel 19 van het RVV 1990;  
+c. overtreding van [artikel 19 van het RVV 1990](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
 
-d. overtreding van de artikelen 20, 21 en 22 RVV 1990;  
+d. overtreding van de [artikelen 20](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [21](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [22 RVV 1990](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
 
-e. overtredingen van artikel 62 juncto de borden A1 en A3 van het RVV 1990;  
+e. overtredingen van [artikel 62](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) juncto de borden A1 en A3 van het RVV 1990;  
 
-f. overige overtredingen van het RVV 1990 indien daarbij letsel aan personen is ontstaan of schade aan goederen is toegebracht.    
+f. overige overtredingen van het [RVV 1990](../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) indien daarbij letsel aan personen is ontstaan of schade aan goederen is toegebracht.   
 
 ### B  
 
@@ -715,11 +728,11 @@ i. lichamelijk gebrek of functieverlies terwijl op het rijbewijs niet is vermeld
 
 – een motorrijtuig mag besturen onder gebruikmaking van kunst- of hulpstukken;    
 
-j. uit een medische verklaring blijkt van sterke aanwijzingen voor een verhoogd risico op een situatie als bedoeld onder a tot en met i.    
+j. uit een medische verklaring blijkt van sterke aanwijzingen voor een verhoogd risico op een situatie als bedoeld onder a tot en met i.   
 
 ### II  
 
-####geestelijke geschiktheid
+#### geestelijke geschiktheid
 
 a. verwardheid, geheugenstoornissen, oriëntatiestoornissen;  
 
@@ -733,7 +746,7 @@ e. paniekaanvallen;
 
 f. abnormale opwindingstoestanden;  
 
-g. poging tot zelfdoding in het verkeer.    
+g. poging tot zelfdoding in het verkeer.   
 
 ### III  
 
@@ -745,23 +758,23 @@ a. bij betrokkene is een adem- of bloedalcoholgehalte geconstateerd dat gelijk i
 
 b. bij betrokkene is in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 220 µg/l, respectievelijk 0,5‰;  
 
-c. ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste twee maal proces-verbaal is opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, of dat hoger is dan 88 µg/l, respectievelijk 0,2‰, indien tenminste een van de feiten is begaan als beginnende bestuurder;  
+c. ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste twee maal proces-verbaal is opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, of dat hoger is dan 88 µg/l, respectievelijk 0,2‰, indien tenminste een van de feiten is begaan als beginnende bestuurder;  
 
-d. betrokkene weigert mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+d. betrokkene weigert mee te werken aan een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 e. uit een verklaring van een medisch deskundige blijkt dat betrokkene alcoholafhankelijk is;  
 
-f. bij betrokkene is, als deelnemer aan het alcoholslotprogramma, een adem- of bloedalcoholgehalte geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰ of betrokkene heeft geweigerd mee te werken aan een alcoholonderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet, of  
+f. bij betrokkene is, als deelnemer aan het alcoholslotprogramma, een adem- of bloedalcoholgehalte geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰ of betrokkene heeft geweigerd mee te werken aan een alcoholonderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of  
 
 g. betrokkene heeft tijdens de duur van het alcoholslotprogramma: 
 
-– een motorrijtuig bestuurd waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets, dat niet is voorzien van een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet;  
+– een motorrijtuig bestuurd waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets, dat niet is voorzien van een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-– een motorrijtuig bestuurd, niet zijnde een bromfiets, waarvan het kenteken in het in artikel 129a bedoelde register aan hem is gekoppeld, terwijl het motorrijtuig is voorzien van een niet functionerend alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet;  
+– een motorrijtuig bestuurd, niet zijnde een bromfiets, waarvan het kenteken in het in [artikel 129a](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde register aan hem is gekoppeld, terwijl het motorrijtuig is voorzien van een niet functionerend alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 – een motorrijtuig bestuurd, niet zijnde een bromfiets, waarin wel een zodanig alcoholslot is ingebouwd, maar waarvan het kenteken niet in het kader van het alcoholslotprogramma aan de bestuurder is gekoppeld, of  
 
-– een motorrijtuig, niet zijnde een bromfiets, bestuurd, terwijl door een van de in artikel 159, onderdeel a, van de wet bedoelde personen is geconstateerd dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in artikel 132e, eerste lid, van de wet.      
+– een motorrijtuig, niet zijnde een bromfiets, bestuurd, terwijl door een van de in [artikel 159, onderdeel a, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde personen is geconstateerd dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).     
 
 ####Andere drogerende stoffen
 
@@ -771,7 +784,7 @@ b. betrokkene is in het bezit van een gebruikershoeveelheid drogerende stoffen e
 
 c. betrokkene staat bij de politie bekend als gebruiker van drogerende stoffen;  
 
-d. betrokkene is staande gehouden of aangehouden onder invloed van drogerende stoffen.    
+d. betrokkene is staande gehouden of aangehouden onder invloed van drogerende stoffen.   
 
 ### Bijlage  2  
 
@@ -779,17 +792,17 @@ d. betrokkene is staande gehouden of aangehouden onder invloed van drogerende st
 
 ####Model mededeling
 
-Centraal Bureau Rijvaardigheidsbewijzen Divisie Vorderingen Postbus 3012 2280 GA RIJSWIJK (ZH) Politie / Openbaar Ministerie / CBR: Afdeling / district: PL-code: Contactpersoon: Adres: Postcode + Plaatsnaam: Telefoonnummer: Ons kenmerk:  
+Centraal Bureau Rijvaardigheidsbewijzen Divisie Vorderingen Postbus 3012 2280 GA RIJSWIJK (ZH) Politie / Openbaar Ministerie / CBR: Afdeling / district: PL-code: Contactpersoon: Adres: Postcode + Plaatsnaam: Telefoonnummer: Ons kenmerk: 
 
-####Mededeling als bedoeld in artikel 130, eerste lid, van de Wegenverkeerswet 1994
+####Mededeling als bedoeld in [artikel 130, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
 
-□ De korpschef, bedoeld in artikel 27 van de Politiewet 2012, en de door hem voor dit doel aangewezen plaatsvervangers,  
+□ De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de door hem voor dit doel aangewezen plaatsvervangers,  
 
-□ De commandant, bedoeld in artikel 4, derde lid, van de Politiewet 2012, en de door hem voor dit doel aangewezen plaatsvervangers,  
+□ De commandant, bedoeld in [artikel 4, derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de door hem voor dit doel aangewezen plaatsvervangers,  
 
 □ De officier van justitie,  
 
-□ De directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, doet mededeling van het vermoeden dat de hierna genoemde houder van een rijbewijs verder genoemd betrokkene) niet langer beschikt over de rijvaardigheid vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven, dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven.    *Gegevens betrokkene*  Naam: Voornamen: Geslacht: Geboortedatum: Geboorteplaats: Adres: Postcode: Woonplaats:  *Rijbewijsgegevens*  Rijbewijsnummer: Burger Service Nummer: Afgifte autoriteit: Afgegeven op: Geldig tot: Categorie(ën): /.. / ../.. /  
+□ De directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, doet mededeling van het vermoeden dat de hierna genoemde houder van een rijbewijs verder genoemd betrokkene) niet langer beschikt over de rijvaardigheid vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven, dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven.    *Gegevens betrokkene*  Naam: Voornamen: Geslacht: Geboortedatum: Geboorteplaats: Adres: Postcode: Woonplaats:  *Rijbewijsgegevens*  Rijbewijsnummer: Burger Service Nummer: Afgifte autoriteit: Afgegeven op: Geldig tot: Categorie(ën): /.. / ../.. / 
 
 ####Datum feit of feiten
 
@@ -799,26 +812,26 @@ Centraal Bureau Rijvaardigheidsbewijzen Divisie Vorderingen Postbus 3012 2280 GA
 
 □ bij betrokkene is in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 220 µg/l, respectievelijk 0,5‰;  
 
-□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, of dat hoger is dan 88 µg/l, respectievelijk 0,2‰, indien tenminste een van de feiten is begaan als beginnende bestuurder;  
+□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, of dat hoger is dan 88 µg/l, respectievelijk 0,2‰, indien tenminste een van de feiten is begaan als beginnende bestuurder;  
 
-□ betrokkene weigert mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+□ betrokkene weigert mee te werken aan een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 □ uit een verklaring van een medisch deskundige blijkt dat betrokkene alcoholafhankelijk is;  
 
-□ bij betrokkene is, als deelnemer aan het alcoholslotprogramma, een adem- of bloedalcoholgehalte geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰ of betrokkene heeft geweigerd mee te werken aan een alcoholonderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+□ bij betrokkene is, als deelnemer aan het alcoholslotprogramma, een adem- of bloedalcoholgehalte geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰ of betrokkene heeft geweigerd mee te werken aan een alcoholonderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
 □ betrokkene heeft tijdens de duur van het alcoholslotprogramma: 
 
-− een motorrijtuig bestuurd waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets, dat niet is voorzien van een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet;  
+− een motorrijtuig bestuurd waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets, dat niet is voorzien van een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-− een motorrijtuig bestuurd, niet zijnde een bromfiets, waarvan het kenteken in het in artikel 129a van de wet bedoelde register aan hem is gekoppeld, terwijl het motorrijtuig is voorzien van een niet-werkend alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet, of  
+− een motorrijtuig bestuurd, niet zijnde een bromfiets, waarvan het kenteken in het in [artikel 129a van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde register aan hem is gekoppeld, terwijl het motorrijtuig is voorzien van een niet-werkend alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of  
 
 − een motorrijtuig bestuurd, niet zijnde een bromfiets, waarin wel een zodanig alcoholslot is ingebouwd, maar waarvan het kenteken niet in het kader van het alcoholslotprogramma aan de bestuurder is gekoppeld, of  
 
-− een motorrijtuig, niet zijnde een bromfiets, bestuurd, terwijl door een van de in artikel 159, onderdeel a, van de wet bedoelde personen is geconstateerd dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in artikel 132e, eerste lid, van de wet.      
+− een motorrijtuig, niet zijnde een bromfiets, bestuurd, terwijl door een van de in [artikel 159, onderdeel a, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde personen is geconstateerd dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in [artikel 132e, eerste lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).      
 
 | --- | --- | --- | --- |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | --- | --- | --- | --- |
 | Datum:  | Ademalcoholgehalte:  | Bloedalcoholgehalte:  | Weigering:  |
 | ....  | ....  | ....  | ....  |
@@ -913,7 +926,7 @@ j. het als bestuurder van een bromfiets overschrijden van de toegestane maximums
 
 – nader te bekijken op bijgaande kopie van een video-opname.    *Vordering in het kader van begeleid rijden*  
 
-– Betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.    *Indien van toepassing:*  Invordering als bedoeld in artikel 130, tweede en derde lid, van de Wegenverkeerswet 1994 heeft op grond van het volgende plaatsgevonden: 
+– Betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.    *Indien van toepassing:*  Invordering als bedoeld in [artikel 130, tweede en derde lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) heeft op grond van het volgende plaatsgevonden: 
 
 □ betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;  
 
@@ -937,13 +950,13 @@ j. het als bestuurder van een bromfiets overschrijden van de toegestane maximums
 
 □ bij betrokkene wordt in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan dan wel hoger is dan 435 µg/l, respectievelijk 1,0‰;  
 
-□ betrokkene heeft geweigerd mee te werken naar een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
+□ betrokkene heeft geweigerd mee te werken naar een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste vier maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij betrokkene ten tijde van de laatste verdenking houder van een rijbewijs was;  
+□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste vier maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarbij betrokkene ten tijde van de laatste verdenking houder van een rijbewijs was;  
 
-□ betrokkene heeft drie maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel IV, bij de Regeling maatregelen rijvaardigheid en geschiktheid en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, van die regeling genoemde termijn onherroepelijk veroordeeld, dan wel voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijke strafbeschikking uitgevaardigd;  
+□ betrokkene heeft drie maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel IV, bij de [Regeling maatregelen rijvaardigheid en geschiktheid](../../../../../../../../ministeriele-regeling/regeling/maatregelen/rijvaardigheid/en/geschiktheid/BWBR0008003/README.md) en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, van die regeling genoemde termijn onherroepelijk veroordeeld, dan wel voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijke strafbeschikking uitgevaardigd;  
 
-□ ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, derde juncto vierde lid, van de wet of van artikel 9, negende lid, van de wet;  
+□ ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, derde juncto vierde lid, van de wet](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of van [artikel 9, negende lid, van de wet](../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md);  
 
 □ betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.    *Overige:*  
 
@@ -954,7 +967,7 @@ j. het als bestuurder van een bromfiets overschrijden van de toegestane maximums
 □ betrokkene beheerst de volgende taal of talen (alleen invullen indien betrokkene de Nederlandse taal niet beheerst): ...........    
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Aantal bijlage(n) meegestuurd:  | ...........  |
 | Plaats:  | ...........  |
 | Datum:  | ...........  |
