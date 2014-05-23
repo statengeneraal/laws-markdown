@@ -32,8 +32,8 @@ Hebben goedgevonden en verstaan:
 
 *kaart:* kaart opgenomen als bijlage bij dit besluit;  
 
-*wet:*[Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).     
-2.  In dit besluit en de daarop berustende bepalingen wordt onder bestemmingsplan mede verstaan: 
+*wet:* [Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).     
+2.   In dit besluit en de daarop berustende bepalingen wordt onder bestemmingsplan mede verstaan: 
 
 a. wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de wet](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
@@ -44,7 +44,7 @@ c. beheersverordening als bedoeld in [artikel 3.38 van de wet](../../../../../..
 d. projectuitvoeringsbesluit als bedoeld in [artikel 2.10 van de Crisis- en herstelwet](../../../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md).     
 3.  In dit besluit en de daarop berustende bepalingen wordt onder toelichting bij een bestemmingsplan mede verstaan de ruimtelijke onderbouwing, bedoeld in [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 4.  In dit besluit en de daarop berustende bepalingen wordt onder bestemming mede verstaan regels met het oog op de bestemming, tenzij anders is bepaald.   
-5.  Een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, voldoet aan dit besluit, tenzij in dit besluit anders is bepaald.   
+5.  Een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, voldoet aan dit besluit, tenzij in dit besluit anders is bepaald. 
 
 ### Artikel  1.2  
 
@@ -54,7 +54,7 @@ Dit besluit is niet van toepassing op:
 
 a. een omgevingsvergunning als bedoeld in de [artikelen 2.12, eerste lid, onderdeel a, onder 3°, en 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) die wordt verleend door Onze Minister, Onze Minister wie het aangaat of Onze Minister wie het aangaat in overeenstemming met Onze Minister;  
 
-b. een bestemmingsplan, voor zover dat strekt ter uitvoering van een tracébesluit als bedoeld in de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), dan wel ter uitvoering van een wegaanpassingsbesluit als bedoeld in [artikel 9, eerste lid, van de Spoedwet wegverbreding](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), dan wel een plan als bedoeld in [artikel 6, vijfde lid, van die wet](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md).    
+b. een bestemmingsplan, voor zover dat strekt ter uitvoering van een tracébesluit als bedoeld in de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), dan wel ter uitvoering van een wegaanpassingsbesluit als bedoeld in [artikel 9, eerste lid, van de Spoedwet wegverbreding](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), dan wel een plan als bedoeld in [artikel 6, vijfde lid, van die wet](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md).  
 
 ### Hoofdstuk  2  
 
@@ -74,7 +74,7 @@ b. een bestemmingsplan, voor zover dat strekt ter uitvoering van een tracébeslu
 
 *rijksvaarweg:* voor het openbaar verkeer van schepen openstaand oppervlaktewaterlichaam in beheer bij het Rijk als bedoeld in [artikel 3.1 van het Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), uitgezonderd de Noordzee, de Waddenzee, de Westerschelde en het IJsselmeer;  
 
-*vrijwaringszone:* zone aan weerszijden grenzend aan een rijksvaarweg.     
+*vrijwaringszone:* zone aan weerszijden grenzend aan een rijksvaarweg.    
 
 ### Artikel  2.1.2  
 
@@ -91,7 +91,7 @@ c. 25 meter aan weerszijden van een rijksvaarweg van CEMT-klasse IV, V of VI;
 
 d. 40 meter aan weerszijden van een zeehaventoegang;  
 
-e. 50 meter aan weerszijden van een rijksvaarweg binnen een afstand van 300 meter van een vaarwegsplitsing of havenuitvaart.     
+e. 50 meter aan weerszijden van een rijksvaarweg binnen een afstand van 300 meter van een vaarwegsplitsing of havenuitvaart.    
 
 ### Artikel  2.1.3  
 
@@ -107,7 +107,7 @@ c. het contact van de scheepvaart met bedienings- en begeleidingsobjecten;
 
 d. de toegankelijkheid van de rijksvaarweg voor hulpdiensten, en  
 
-e. het uitvoeren van beheer en onderhoud van de rijksvaarweg.    
+e. het uitvoeren van beheer en onderhoud van de rijksvaarweg.   
 
 ### Titel  2.2  
 
@@ -117,7 +117,7 @@ e. het uitvoeren van beheer en onderhoud van de rijksvaarweg.
 
 ####(aanwijzing en begrenzing landaanwinningsgebied)
 
-Als landaanwinningsgebied wordt aangewezen het gebied in de Noordzee aansluitend op het op het tijdstip van inwerkingtreding van dit besluit bestaande havengebied, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.  
+Als landaanwinningsgebied wordt aangewezen het gebied in de Noordzee aansluitend op het op het tijdstip van inwerkingtreding van dit besluit bestaande havengebied, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1. 
 
 ### Artikel  2.2.2  
 
@@ -126,31 +126,31 @@ Als landaanwinningsgebied wordt aangewezen het gebied in de Noordzee aansluitend
 1.  Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het gebied, bedoeld in artikel 2.2.1, kan de bestemming bedrijventerrein aanwijzen op een zodanige wijze dat in het landaanwinningsgebied voor ten hoogste 1000 hectare netto uitgeefbaar haven- en industrieterrein ontstaat.   
 2.  Indien de gronden binnen de begrenzing van het gebied begrepen zijn in meer dan één bestemmingsplan, bedraagt de optelsom van het door deze plannen in het gebied toegewezen aantal hectaren netto uitgeefbaar haven- en industrieterrein ten hoogste 1000 hectare.   
 3.  Voor het netto uitgeefbaar haven- en industrieterrein kunnen geen andere bestemmingen worden toegewezen dan die welke deep sea gebonden activiteiten mogelijk maken.   
-4.  In afwijking van het derde lid kan voor het netto uitgeefbaar haven- en industrieterrein onder bijzondere omstandigheden en op basis van een zorgvuldige afweging een andere bestemming worden aangewezen.   
+4.  In afwijking van het derde lid kan voor het netto uitgeefbaar haven- en industrieterrein onder bijzondere omstandigheden en op basis van een zorgvuldige afweging een andere bestemming worden aangewezen.  
 
 ### Artikel  2.2.3  
 
 ####(aanwijzing en begrenzing duincompensatiegebied)
 
-Als gebied voor de compensatie van de effecten van de landaanwinning op open droog duin worden de gronden aangewezen waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.  
+Als gebied voor de compensatie van de effecten van de landaanwinning op open droog duin worden de gronden aangewezen waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1. 
 
 ### Artikel  2.2.4  
 
 ####(bestemmingen duincompensatiegebied)
 
-Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het gebied, bedoeld in artikel 2.2.3, bevat geen bestemmingen waardoor een belemmering kan ontstaan voor de aanleg of verdere ontwikkeling van 100 hectare duincompensatie voor de ontwikkeling van de landaanwinning.  
+Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het gebied, bedoeld in artikel 2.2.3, bevat geen bestemmingen waardoor een belemmering kan ontstaan voor de aanleg of verdere ontwikkeling van 100 hectare duincompensatie voor de ontwikkeling van de landaanwinning. 
 
 ### Artikel  2.2.5  
 
 ####(aanwijzing en begrenzing bodembeschermingsgebied)
 
-Als gebied voor de compensatie van het verlies aan zeenatuur als gevolg van de landaanwinning worden de gronden aangewezen binnen de Voordelta, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.  
+Als gebied voor de compensatie van het verlies aan zeenatuur als gevolg van de landaanwinning worden de gronden aangewezen binnen de Voordelta, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1. 
 
 ### Artikel  2.2.6  
 
 ####(bestemmingen bodembeschermingsgebied)
 
-Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het gebied, bedoeld in artikel 2.2.5, bevat geen bestemmingen waardoor een belemmering kan ontstaan voor de instelling en verdere ontwikkeling zeenatuur van 31.250 hectare zeenatuur als compensatie voor de aanleg en ontwikkeling van de landaanwinning.  
+Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het gebied, bedoeld in artikel 2.2.5, bevat geen bestemmingen waardoor een belemmering kan ontstaan voor de instelling en verdere ontwikkeling zeenatuur van 31.250 hectare zeenatuur als compensatie voor de aanleg en ontwikkeling van de landaanwinning. 
 
 ### Artikel  2.2.7  
 
@@ -158,7 +158,7 @@ Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het
 
 1.  Als openbaar toegankelijk natuur- en recreatiegebied Midden-IJsselmonde wordt aangewezen het gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.   
 2.  Als openbaar toegankelijk natuur- en recreatiegebied Schiebroekse en Zuidpolder wordt aangewezen het gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.   
-3.  Als openbaar toegankelijk natuur- en recreatiegebied Schiezone wordt aangewezen het gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.   
+3.  Als openbaar toegankelijk natuur- en recreatiegebied Schiezone wordt aangewezen het gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 1.  
 
 ### Artikel  2.2.8  
 
@@ -176,7 +176,7 @@ b. een dubbelbestemming aanwijzen ten behoeve van leidingen voor telecommunicati
 6.  Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het openbaar toegankelijk natuur- en recreatiegebied Schiebroekse en Zuidpolder bevat voor een totale grondoppervlakte van circa 100 hectare een bestemming voor natuur en recreatie en stelt met het oog daarop regels omtrent het gebruik van die gronden.   
 7.  Indien de gronden, bedoeld in het zesde lid, begrepen zijn in meer dan één bestemmingsplan, bedraagt de som van het aantal hectaren dat in die bestemmingsplannen gezamenlijk bestemd is voor natuur en recreatie en daaraan dienstbare functies circa 100 hectare.   
 8.  Een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van het openbaar toegankelijk natuur- en recreatiegebied Schiezone bevat voor een totale grondoppervlakte van circa 50 hectare een bestemming voor natuur en recreatie en stelt met het oog daarop regels omtrent het gebruik van die gronden.   
-9.  Indien de gronden, bedoeld in het achtste lid, begrepen zijn in meer dan één bestemmingsplan, bedraagt de som van het aantal hectaren dat in die bestemmingsplannen gezamenlijk bestemd is voor natuur en recreatie en daaraan dienstbare functies circa 50 hectare.   
+9.  Indien de gronden, bedoeld in het achtste lid, begrepen zijn in meer dan één bestemmingsplan, bedraagt de som van het aantal hectaren dat in die bestemmingsplannen gezamenlijk bestemd is voor natuur en recreatie en daaraan dienstbare functies circa 50 hectare.  
 
 ### Titel  2.3  
 
@@ -197,20 +197,20 @@ b. een dubbelbestemming aanwijzen ten behoeve van leidingen voor telecommunicati
 *primaire waterkering:* primaire waterkering als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover gelegen op het kustfundament;  
 
 *stedelijk gebied:* bij bestemmingsplan toegelaten stedenbouwkundig samenstel van bebouwing ten behoeve van wonen, dienstverlening, bedrijvigheid, detailhandel en horeca, alsmede de daarbij behorende openbare of sociaal-culturele voorzieningen en infrastructuur, met uitzondering van stedelijk groen aan de rand van dat samenstel en met uitzondering van lineaire bebouwing langs wegen, waterwegen of dijken.     
-2.  Deze titel is van toepassing op gronden binnen de begrenzing van het kustfundament.   
+2.  Deze titel is van toepassing op gronden binnen de begrenzing van het kustfundament.  
 
 ### Artikel  2.3.2  
 
 ####(afwegingskader)
 
-In een bestemmingsplan dat een wijziging inhoudt ten opzichte van het daaraan voorafgaande bestemmingsplan worden geen activiteiten mogelijk gemaakt die een belemmering vormen voor het uitzicht op de vrije horizon vanaf de gemiddelde hoogwaterlijn met de blik op zee.  
+In een bestemmingsplan dat een wijziging inhoudt ten opzichte van het daaraan voorafgaande bestemmingsplan worden geen activiteiten mogelijk gemaakt die een belemmering vormen voor het uitzicht op de vrije horizon vanaf de gemiddelde hoogwaterlijn met de blik op zee. 
 
 ### Artikel  2.3.3  
 
 ####(primaire waterkering)
 
 1.  Een bestemmingsplan geeft de bestemming «waterkering» aan gronden waarop een primaire waterkering ligt of die de functie van primaire waterkering hebben.   
-2.  Een bestemmingsplan dat betrekking heeft op gronden die deel uitmaken van een beschermingszone duidt die gronden aan met de gebiedsaanduiding «vrijwaringzone – duin», indien de primaire waterkering een duin is, de gebiedsaanduiding «vrijwaringzone – dijk», indien de primaire waterkering een dijk is en in overige gevallen de gebiedsaanduiding «vrijwaringzone – waterstaatswerk».   
+2.  Een bestemmingsplan dat betrekking heeft op gronden die deel uitmaken van een beschermingszone duidt die gronden aan met de gebiedsaanduiding «vrijwaringzone – duin», indien de primaire waterkering een duin is, de gebiedsaanduiding «vrijwaringzone – dijk», indien de primaire waterkering een dijk is en in overige gevallen de gebiedsaanduiding «vrijwaringzone – waterstaatswerk».  
 
 ### Artikel  2.3.4  
 
@@ -220,7 +220,7 @@ Met betrekking tot gronden waarop een primaire waterkering ligt of die de functi
 
 a. de instandhouding of versterking van het zandige deel van het kustfundament, of  
 
-b. het onderhoud, de veiligheid of mogelijkheden voor versterking van de primaire waterkering.    
+b. het onderhoud, de veiligheid of mogelijkheden voor versterking van de primaire waterkering.   
 
 ### Artikel  2.3.5  
 
@@ -240,13 +240,13 @@ c. bouwwerken voor het openbaar belang voor zover deze bouwwerken niet buiten de
 2°. bouwwerken voor het operationeel beheer van natuur of van hulpdiensten;  
 
 3°. bouwwerken voor de waterstaatkundige functie van het kustfundament.       
-3.  Het eerste lid is niet van toepassing voor zover nieuwe bebouwing bijdraagt aan versterking van het zandige deel van het kustfundament.   
+3.  Het eerste lid is niet van toepassing voor zover nieuwe bebouwing bijdraagt aan versterking van het zandige deel van het kustfundament.  
 
 ### Artikel  2.3.6  
 
 ####(afwijkende regels voor de Friese Waddeneilanden)
 
-Bij verordening van de provincie Fryslân kunnen met inachtneming van artikel 2.3.4 en titel 2.5 voor de Friese Waddeneilanden andere regels worden gesteld ter zake van de onderwerpen geregeld in artikel 2.3.5.  
+Bij verordening van de provincie Fryslân kunnen met inachtneming van artikel 2.3.4 en titel 2.5 voor de Friese Waddeneilanden andere regels worden gesteld ter zake van de onderwerpen geregeld in artikel 2.3.5. 
 
 ### Titel  2.4  
 
@@ -261,13 +261,13 @@ Bij verordening van de provincie Fryslân kunnen met inachtneming van artikel 2.
 *rivierbed:* gebied dat begrensd is overeenkomstig [artikel 3.1, tweede lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md), en waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3;  
 
 *stroomvoerend deel van het rivierbed:* gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3.     
-2.  Deze titel is van toepassing op gronden binnen de begrenzing van het rivierbed.   
+2.  Deze titel is van toepassing op gronden binnen de begrenzing van het rivierbed.  
 
 ### Artikel  2.4.2  
 
 ####(relatie met watervergunning)
 
-De artikelen 2.4.1 tot en met 2.4.5 hebben uitsluitend betrekking op activiteiten in het rivierbed waarop [artikel 6.12, eerste lid](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), of de bij of krachtens [artikel 6.15 van het Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) gestelde regels van toepassing zijn.  
+De artikelen 2.4.1 tot en met 2.4.5 hebben uitsluitend betrekking op activiteiten in het rivierbed waarop [artikel 6.12, eerste lid](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), of de bij of krachtens [artikel 6.15 van het Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) gestelde regels van toepassing zijn. 
 
 ### Artikel  2.4.3  
 
@@ -283,7 +283,7 @@ c. een zodanige situering van de bestemming dat de waterstandverhoging of de afn
 
 d. een zodanige situering van de bestemming dat de ecologische toestand van het oppervlaktewaterlichaam niet verslechtert.     
 2.  Bij toepassing van het eerste lid worden resterende waterstandeffecten of afname van het bergend vermogen gecompenseerd.   
-3.  In een bestemmingsplan wordt vastgelegd hoe de effecten op de waterstand en de afname van het bergend vermogen worden gecompenseerd.   
+3.  In een bestemmingsplan wordt vastgelegd hoe de effecten op de waterstand en de afname van het bergend vermogen worden gecompenseerd.  
 
 ### Artikel  2.4.4  
 
@@ -315,27 +315,27 @@ k. activiteiten van een zwaarwegend bedrijfseconomisch belang voor bestaande gro
 
 l. een functieverandering binnen de bestaande bebouwing;  
 
-m. activiteiten die onderdeel uitmaken van de lijst van maatregelen opgenomen in de Bijlage bij de planologische kernbeslissing Ruimte voor de Rivier en waarvan de uitvoering wordt gefinancierd door Onze Minister.    
+m. activiteiten die onderdeel uitmaken van de lijst van maatregelen opgenomen in de Bijlage bij de planologische kernbeslissing Ruimte voor de Rivier en waarvan de uitvoering wordt gefinancierd door Onze Minister.   
 
 ### Artikel  2.4.5  
 
 ####(stroomvoerend deel rivierbed, niet riviergebonden activiteiten met per saldo meer ruimte voor de rivier)
 
 1.  Onverminderd artikel 2.4.3 maakt een bestemmingsplan dat betrekking heeft op het stroomvoerend deel van het rivierbed ten opzichte van het daaraan voorafgaande bestemmingsplan geen wijziging mogelijk, die andere bestemmingen dan bedoeld in artikel 2.4.4, onder j tot en met m, toestaat tenzij daarbij activiteiten worden mogelijk gemaakt die per saldo meer ruimte voor de rivier opleveren op een vanuit rivierkundig oogpunt bezien zo gunstig mogelijke locatie.   
-2.  Aan het eerste lid wordt slechts toepassing gegeven voor zover in het bestemmingsplan is vastgelegd welke maatregelen die per saldo meer ruimte voor de rivier opleveren worden genomen.   
+2.  Aan het eerste lid wordt slechts toepassing gegeven voor zover in het bestemmingsplan is vastgelegd welke maatregelen die per saldo meer ruimte voor de rivier opleveren worden genomen.  
 
 ### Artikel  2.4.6  
 
 ####(aanwijzing en begrenzing gebiedsreserveringen voor de lange termijn)
 
-1.  Als gebiedsreservering voor de lange termijn voor de Rijntakken worden aangewezen de gebieden waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3.   
-2.  Als gebiedsreservering voor de lange termijn voor de Maas worden aangewezen de gebieden waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3.   
+1. Als gebiedsreservering voor de lange termijn voor de Rijntakken worden aangewezen de gebieden waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3.  
+2.  Als gebiedsreservering voor de lange termijn voor de Maas worden aangewezen de gebieden waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 3. 
 
 ### Artikel  2.4.7  
 
 ####(geen grootschalige en kapitaalintensieve ontwikkelingen in bestemmingsplannen)
 
-Een bestemmingsplan dat betrekking heeft op reservering van een gebied voor de lange termijn bevat geen wijziging van de bestemming die ten opzichte van het daaraan voorafgaande bestemmingsplan kan leiden tot grootschalige of kapitaalintensieve ontwikkelingen die het treffen van rivierverruimende maatregelen kunnen belemmeren.  
+Een bestemmingsplan dat betrekking heeft op reservering van een gebied voor de lange termijn bevat geen wijziging van de bestemming die ten opzichte van het daaraan voorafgaande bestemmingsplan kan leiden tot grootschalige of kapitaalintensieve ontwikkelingen die het treffen van rivierverruimende maatregelen kunnen belemmeren. 
 
 ### Titel  2.5  
 
@@ -357,7 +357,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 *waddengebied:* gebied als bedoeld in artikel 2.5.3, eerste lid;  
 
-*Waddenzee:* gebied als bedoeld in artikel 2.5.3, tweede lid.    
+*Waddenzee:* gebied als bedoeld in artikel 2.5.3, tweede lid.   
 
 ### Artikel  2.5.2  
 
@@ -382,14 +382,14 @@ b. de overige voor het gebied kenmerkende cultuurhistorische structuren en eleme
 
 6°. systeem van historische vaar- en uitwateringsgeulen, en  
 
-7°. kapen.       
+7°. kapen.      
 
 ### Artikel  2.5.3  
 
 ####(aanwijzing en begrenzing waddengebied en Waddenzee)
 
 1.  Als waddengebied wordt aangewezen het gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 4.   
-2.  Als Waddenzee wordt aangewezen het gebied binnen het waddengebied, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 4.   
+2.  Als Waddenzee wordt aangewezen het gebied binnen het waddengebied, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 4.  
 
 ### Artikel  2.5.4  
 
@@ -397,7 +397,7 @@ b. de overige voor het gebied kenmerkende cultuurhistorische structuren en eleme
 
 1.  Bij de voorbereiding van een bestemmingsplan dat betrekking heeft op de Waddenzee en dat gebruik of bebouwing mogelijk maakt, die afzonderlijk of in combinatie met ander gebruik of andere bebouwing significante gevolgen kan hebben voor de landschappelijke of cultuurhistorische kwaliteiten, bedoeld in artikel 2.5.2, wordt een beoordeling gemaakt van de gevolgen voor die kwaliteiten van het gebied.   
 2.  De beoordeling kan onderdeel uitmaken van een voor dat bestemmingsplan voorgeschreven milieueffectrapportage of van een passende beoordeling als bedoeld in de [Natuurbeschermingswet 1998](../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
-3.  Het eerste lid is niet van toepassing indien voor het gebruik of de bebouwing waarop dat voorgenomen bestemmingsplan betrekking heeft, reeds eerder een beoordeling is gemaakt en voor zover een nieuwe beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren omtrent de desbetreffende significante gevolgen.   
+3.  Het eerste lid is niet van toepassing indien voor het gebruik of de bebouwing waarop dat voorgenomen bestemmingsplan betrekking heeft, reeds eerder een beoordeling is gemaakt en voor zover een nieuwe beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren omtrent de desbetreffende significante gevolgen.  
 
 ### Artikel  2.5.5  
 
@@ -411,32 +411,32 @@ a. sprake is van zwaarwegende redenen van groot openbaar belang, waaronder worde
 
 b. geen reële alternatieven voor handen zijn voor de noodzakelijk geachte activiteiten, en  
 
-c. de optredende schade of andere negatieve effecten zoveel mogelijk worden beperkt.     
+c. de optredende schade of andere negatieve effecten zoveel mogelijk worden beperkt.    
 
 ### Artikel  2.5.6  
 
 ####(externe werking)
 
-Op een bestemmingsplan dat betrekking heeft op het waddengebied, dat nieuw gebruik of nieuwe bebouwing dan wel een wijziging van bestaand gebruik of bestaande bebouwing mogelijk maakt en daardoor afzonderlijk of in combinatie met ander gebruik of andere bebouwing significante gevolgen kan hebben voor de landschappelijke of cultuurhistorische kwaliteiten, bedoeld in artikel 2.5.2, zijn de artikelen 2.5.4 en 2.5.5 van overeenkomstige toepassing.  
+Op een bestemmingsplan dat betrekking heeft op het waddengebied, dat nieuw gebruik of nieuwe bebouwing dan wel een wijziging van bestaand gebruik of bestaande bebouwing mogelijk maakt en daardoor afzonderlijk of in combinatie met ander gebruik of andere bebouwing significante gevolgen kan hebben voor de landschappelijke of cultuurhistorische kwaliteiten, bedoeld in artikel 2.5.2, zijn de artikelen 2.5.4 en 2.5.5 van overeenkomstige toepassing. 
 
 ### Artikel  2.5.7  
 
 ####(geen inpoldering)
 
-Een bestemmingsplan dat betrekking heeft op de Waddenzee regelt voor de aan die gronden te geven bestemming dat het verboden is die gronden in te polderen, te bedijken of in te dijken.  
+Een bestemmingsplan dat betrekking heeft op de Waddenzee regelt voor de aan die gronden te geven bestemming dat het verboden is die gronden in te polderen, te bedijken of in te dijken. 
 
 ### Artikel  2.5.8  
 
 ####(aanlegverbod vliegvelden)
 
 1.  Een bestemmingsplan dat betrekking heeft op het waddengebied maakt geen aanleg van een nieuw vliegveld mogelijk.   
-2.  Een bestemmingsplan dat betrekking heeft op vliegvelden in de gemeenten Texel en Ameland, maakt uitbreiding van die vliegvelden slechts mogelijk, voor zover die uitbreiding noodzakelijk is voor het waarborgen van de vliegveiligheid.   
+2.  Een bestemmingsplan dat betrekking heeft op vliegvelden in de gemeenten Texel en Ameland, maakt uitbreiding van die vliegvelden slechts mogelijk, voor zover die uitbreiding noodzakelijk is voor het waarborgen van de vliegveiligheid.  
 
 ### Artikel  2.5.9  
 
 ####(booreilanden)
 
-Een bestemmingsplan dat betrekking heeft op de Waddenzee regelt voor de aan die gronden te geven bestemming dat het verboden is booreilanden en andere offshore-installaties te parkeren.  
+Een bestemmingsplan dat betrekking heeft op de Waddenzee regelt voor de aan die gronden te geven bestemming dat het verboden is booreilanden en andere offshore-installaties te parkeren. 
 
 ### Artikel  2.5.10  
 
@@ -456,7 +456,7 @@ b. een vergunning krachtens de [Natuurbeschermingswet 1998](../../../../../../..
 
 c. de uitbreiding afzonderlijk of in combinatie met andere activiteiten geen significante negatieve effecten heeft op de landschappelijke of  
 
-d. cultuurhistorische kwaliteiten als bedoeld in artikel 2.5.2 op de Waddenzee en het binnendijks gelegen gebied.     
+d. cultuurhistorische kwaliteiten als bedoeld in artikel 2.5.2 op de Waddenzee en het binnendijks gelegen gebied.    
 
 ### Artikel  2.5.11  
 
@@ -472,7 +472,7 @@ b. bouwwerken voor alternatieve mosselzaadbronnen;
 c. bouwwerken voor een adequate afwatering van het vasteland;  
 
 d. wadwachtposten, voor zover het een locatie betreft die niet vanaf het vaste land of een Waddeneiland bewaakt kan worden.     
-3.  Het eerste lid is niet van toepassing op het bestemmingsplan, bedoeld in artikel 2.5.10, tweede lid, of een bestemmingsplan als bedoeld in artikel 2.5.16, derde lid.   
+3.  Het eerste lid is niet van toepassing op het bestemmingsplan, bedoeld in artikel 2.5.10, tweede lid, of een bestemmingsplan als bedoeld in artikel 2.5.16, derde lid.  
 
 ### Artikel  2.5.12  
 
@@ -483,7 +483,7 @@ d. wadwachtposten, voor zover het een locatie betreft die niet vanaf het vaste l
 a. in het stedelijk gebied: regels die ertoe strekken dat de maximaal toelaatbare bouwhoogten aansluiten bij de hoogte van de bestaande bebouwing, en  
 
 b. buiten het stedelijk gebied: regels die ertoe strekken dat de maximaal toelaatbare bouwhoogten alsmede de aard of de functie van nieuwe bebouwing passen bij de aard van het omringende landschap.     
-2.  Een bestemmingsplan voor zover het betrekking heeft op havengerelateerde en stedelijke bebouwing in Den Helder, Harlingen, Delfzijl en de Eemshaven kan afwijken van het eerste lid, aanhef, en onder a, met dien verstande dat de nieuwe bebouwing blijft binnen de verticale bebouwingscontour.   
+2.  Een bestemmingsplan voor zover het betrekking heeft op havengerelateerde en stedelijke bebouwing in Den Helder, Harlingen, Delfzijl en de Eemshaven kan afwijken van het eerste lid, aanhef, en onder a, met dien verstande dat de nieuwe bebouwing blijft binnen de verticale bebouwingscontour.  
 
 ### Artikel  2.5.13  
 
@@ -495,13 +495,13 @@ b. buiten het stedelijk gebied: regels die ertoe strekken dat de maximaal toelaa
 a. er wetenschappelijk gezien redelijkerwijs geen twijfel bestaat dat er geen schadelijke gevolgen zijn voor de natuur- en landschapswaarden van de Waddenzee, en  
 
 b. de benodigde op te richten bouwwerken, waaronder de tijdelijke plaatsing van boorinstallaties, zorgvuldig worden ingepast in het landschap ter bescherming van de unieke openheid daarvan, met behulp van de best beschikbare technieken.     
-3.  Een bestemmingsplan dat betrekking heeft op gronden buiten de Waddenzee kan geen bestemmingen bevatten die nieuwe opsporing of winning onder de Waddenzee van andere diepe delfstoffen dan gas toestaan tot het moment waarop wetenschappelijk gezien redelijkerwijs geen twijfel bestaat dat er geen schadelijke gevolgen zijn voor de natuur- en landschapswaarden van de Waddenzee.   
+3.  Een bestemmingsplan dat betrekking heeft op gronden buiten de Waddenzee kan geen bestemmingen bevatten die nieuwe opsporing of winning onder de Waddenzee van andere diepe delfstoffen dan gas toestaan tot het moment waarop wetenschappelijk gezien redelijkerwijs geen twijfel bestaat dat er geen schadelijke gevolgen zijn voor de natuur- en landschapswaarden van de Waddenzee.  
 
 ### Artikel  2.5.14  
 
 ####(windturbines)
 
-Een bestemmingsplan dat betrekking heeft op de Waddenzee maakt geen plaatsing van nieuwe windturbines mogelijk.  
+Een bestemmingsplan dat betrekking heeft op de Waddenzee maakt geen plaatsing van nieuwe windturbines mogelijk. 
 
 ### Artikel  2.5.15  
 
@@ -511,7 +511,7 @@ Een bestemmingsplan dat betrekking heeft op de Waddenzee regelt voor de aan die 
 
 a. het winnen van zand ten behoeve van het regulier onderhoud van vaargeulen of ten behoeve van bij of krachtens dit besluit toegestane bebouwing in de Waddenzee, en  
 
-b. het winnen van schelpen beneden het peil van NAP –5 meter.    
+b. het winnen van schelpen beneden het peil van NAP –5 meter.   
 
 ### Artikel  2.5.16  
 
@@ -519,7 +519,7 @@ b. het winnen van schelpen beneden het peil van NAP –5 meter.
 
 1.  Een bestemmingsplan dat betrekking heeft op de Waddenzee of gronden die direct grenzen aan de Waddenzee bevat geen bestemmingen die de aanleg van een nieuwe jachthaven toestaan.   
 2.  Een bestemmingsplan dat betrekking heeft op de Waddenzee bevat geen bestemmingen die zeewaartse uitbreiding van bestaande jachthavens toestaan.   
-3.  Het tweede lid is niet van toepassing op een bestemmingsplan dat betrekking heeft op een bestaande jachthaven op een Waddeneiland, voor zover het een beperkte zeewaartse uitbreiding van die haven betreft, die noodzakelijk is voor de veiligheid, en voor zover er geen andere passende oplossing mogelijk is.   
+3.  Het tweede lid is niet van toepassing op een bestemmingsplan dat betrekking heeft op een bestaande jachthaven op een Waddeneiland, voor zover het een beperkte zeewaartse uitbreiding van die haven betreft, die noodzakelijk is voor de veiligheid, en voor zover er geen andere passende oplossing mogelijk is.  
 
 ### Artikel  2.5.17  
 
@@ -529,13 +529,13 @@ In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning als be
 
 a. van een bestemmingsplan als bedoeld in de artikelen 2.5.7 tot en met 2.5.16 ten behoeve van tijdelijke bebouwing voor wetenschappelijk onderzoek en monitoring;  
 
-b. van een bestemmingsplan als bedoeld in artikel 2.5.15 ten behoeve van een incidentele verdere verdieping van een hoofdvaargeul.    
+b. van een bestemmingsplan als bedoeld in artikel 2.5.15 ten behoeve van een incidentele verdere verdieping van een hoofdvaargeul.  
 
 ### Artikel  2.5.18  
 
 ####(relatie met regels kustfundament)
 
-Artikel 2.3.4 is niet van toepassing wanneer toepassing van deze bepaling zou leiden tot strijdigheid met de regels die bij of krachtens deze titel zijn gesteld.  
+Artikel 2.3.4 is niet van toepassing wanneer toepassing van deze bepaling zou leiden tot strijdigheid met de regels die bij of krachtens deze titel zijn gesteld. 
 
 ### Titel  2.6  
 
@@ -573,7 +573,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 *radarverstoringsgebied voor een radarstation:* gebied als bedoeld in artikel 2.6.9, tweede lid;  
 
-*zend- en ontvangstinstallatie buiten militair luchtvaartterrein:* gebied als bedoeld in artikel 2.6.8, eerste lid.    
+*zend- en ontvangstinstallatie buiten militair luchtvaartterrein:* gebied als bedoeld in artikel 2.6.8, eerste lid.   
 
 ### Artikel  2.6.2  
 
@@ -590,14 +590,14 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 9.  Als radarverstoringsgebieden worden aangewezen de in de ministeriële regeling van Onze Minister in overeenstemming met Onze Minister van Defensie, genoemde radarverstoringsgebieden, waarvan de geometrische plaatsbepaling is vervat in het daarachter genoemde GML-bestand en is verbeeld op de daarachter genoemde kaart.   
 10.  De begrenzingen van de laagvliegroutes voor jacht- en transportvliegtuigen zijn opgenomen in de ministeriële regeling van Onze Minister in overeenstemming met Onze Minister van Defensie, en vervat in het GML-bestand en verbeeld op de daarachter genoemde kaart.   
 11.  Als munitieopslagplaats worden aangewezen de in de ministeriële regeling van Onze Minister in overeenstemming met Onze Minister van Defensie, genoemde munitieopslagplaatsen waarvan de geometrische plaatsbepaling is vervat in het daarachter genoemde GML-bestand en is verbeeld op de daarachter genoemde kaart.   
-12.  Als inrichting voor activiteiten met explosieven worden aangewezen de in de ministeriële regeling van Onze Minister genoemde inrichtingen waarvan de geometrische plaatsbepaling is vervat in het daarachter genoemde GML-bestand en is verbeeld op de daarachter genoemde kaart.   
+12.  Als inrichting voor activiteiten met explosieven worden aangewezen de in de ministeriële regeling van Onze Minister genoemde inrichtingen waarvan de geometrische plaatsbepaling is vervat in het daarachter genoemde GML-bestand en is verbeeld op de daarachter genoemde kaart.  
 
 ### Artikel  2.6.3  
 
 ####(militaire terreinen)
 
 1.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een militair terrein wordt voor die gronden de bestemming «Maatschappelijk – militair terrein» opgenomen en worden geen bestemmingen opgenomen die een belemmering kunnen vormen voor de functionele bruikbaarheid van dat terrein.   
-2.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een onveilig gebied buiten militair terrein, wordt voor die gronden de gebiedsaanduiding «veiligheidszone – onveilig gebied» opgenomen en worden geen bestemmingen opgenomen die het gebruik als onveilig gebied belemmeren.   
+2.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een onveilig gebied buiten militair terrein, wordt voor die gronden de gebiedsaanduiding «veiligheidszone – onveilig gebied» opgenomen en worden geen bestemmingen opgenomen die het gebruik als onveilig gebied belemmeren.  
 
 ### Artikel  2.6.4  
 
@@ -606,7 +606,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 1.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een militair luchtvaartterrein wordt voor die gronden de bestemming «Maatschappelijk – militaire luchthaven» opgenomen en worden geen bestemmingen opgenomen die een belemmering kunnen vormen voor de functionele bruikbaarheid van dat terrein.   
 2.  Bij de eerstvolgende herziening van een bestemmingsplan ter zake van gronden gelegen in het beperkingengebied van een militair luchtvaartterrein worden de voor het betrokken militaire luchtvaartterrein op grond van de [Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en de [Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) vastgestelde geluidzones en de beperkingen, bedoeld in het vierde en vijfde lid, in acht genomen.   
 3.  Bij de eerstvolgende herziening van een bestemmingsplan ter zake van gronden gelegen in het beperkingengebied van de buitenlandse militaire luchtvaartterreinen Geilenkirchen en Brüggen worden de voor het betrokken militaire luchtvaartterrein vastgestelde geluidzone en de beperkingen, bedoeld in het vierde en het vijfde lid, in acht genomen.   
-4.  De maximaal toelaatbare hoogte van objecten in, op of boven de grond in een obstakelbeheergebied is in overeenstemming met [artikel 16 van het Besluit militaire luchthavens](../../../../../../../AMvB/besluit/militaire/luchthavens/BWBR0025302/README.md).   
+4.  De maximaal toelaatbare hoogte van objecten in, op of boven de grond in een obstakelbeheergebied is in overeenstemming met [artikel 16 van het Besluit militaire luchthavens](../../../../../../../AMvB/besluit/militaire/luchthavens/BWBR0025302/README.md).  
 
 ### Artikel  2.6.5  
 
@@ -614,7 +614,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 1.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een munitieopslagplaats wordt voor die gronden de bestemming «Maatschappelijk – militair munitiedepot» opgenomen, voor zover die munitieopslagplaats niet ligt op gronden als bedoeld in de artikelen 2.6.3 en 2.6.4, en worden geen bestemmingen opgenomen die een belemmering kunnen vormen voor de functionele bruikbaarheid van de munitieopslagplaats.   
 2.  Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie, worden voor elke munitieopslagplaats drie veiligheidszones aangewezen, aan te duiden als A-zone, B-zone en C-zone, waarbij de A-zone de kleinste afstand tot de munitieopslagplaats heeft en de C-zone de grootste afstand.   
-3.  In afwijking van het tweede lid kan afhankelijk van de aard van de opgeslagen munitie, sprake zijn van minder dan drie veiligheidszones.   
+3.  In afwijking van het tweede lid kan afhankelijk van de aard van de opgeslagen munitie, sprake zijn van minder dan drie veiligheidszones.  
 
 ### Artikel  2.6.6  
 
@@ -622,7 +622,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 1.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een inrichting voor activiteiten met explosieven wordt voor die gronden de bestemming «Maatschappelijk – Explosieven en munitie» opgenomen en worden geen bestemmingen opgenomen die een belemmering kunnen vormen voor de functionele bruikbaarheid van de inrichting.   
 2.  Bij regeling van Onze Minister worden voor elke inrichting voor activiteiten met explosieven drie veiligheidszones aangewezen, aan te duiden als A-zone, B-zone en C-zone, waarbij de A-zone de kleinste afstand tot de inrichting voor activiteiten met explosieven heeft en de C-zone de grootste afstand.   
-3.  In afwijking van het tweede lid kan, afhankelijk van de aard van de opgeslagen munitie, sprake zijn van minder dan drie veiligheidszones.   
+3.  In afwijking van het tweede lid kan, afhankelijk van de aard van de opgeslagen munitie, sprake zijn van minder dan drie veiligheidszones.  
 
 ### Artikel  2.6.7  
 
@@ -636,14 +636,14 @@ a. geen bestemmingen opgenomen die het oprichten van kwetsbare of beperkt kwetsb
 b. geen agrarische bestemmingen opgenomen die niet kunnen worden gerealiseerd zonder een meer dan incidentele aanwezigheid van enkele personen.     
 3.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op gronden binnen begrenzing van de B-zone worden geen bestemmingen opgenomen die het oprichten van kwetsbare of beperkt kwetsbare objecten als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) toestaan.   
 4.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op gronden binnen de begrenzing van de C-zone worden geen bestemmingen opgenomen die het oprichten van bouwwerken mogelijk maken met vlies- of gordijngevelconstructies of grote glasoppervlakten en waarbinnen zich doorgaans een groot aantal personen bevindt.   
-5.  Onze Minister, in overeenstemming met Onze Minister van Defensie, kan regels stellen voor de beoordeling van de veiligheidssituatie en het risico van activiteiten in de veiligheidszones.   
+5.  Onze Minister, in overeenstemming met Onze Minister van Defensie, kan regels stellen voor de beoordeling van de veiligheidssituatie en het risico van activiteiten in de veiligheidszones.  
 
 ### Artikel  2.6.8  
 
 ####(zend- en ontvangstinstallaties en beperkingen in de nabijheid daarvan)
 
 1.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een zend- en ontvangstinstallatie buiten een militair luchtvaartterrein, wordt voor die gronden de bestemming «Maatschappelijk – militaire zend- en ontvangstinstallatie» opgenomen en worden geen bestemmingen opgenomen die een belemmering kunnen vormen voor de functionele bruikbaarheid van die zend- en ontvangstinstallatie.   
-2.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een bouwbeperkingengebied rondom een zend- en ontvangstinstallatie buiten een militair luchtvaartterrein, worden geen bestemmingen opgenomen die een wijziging bewerkstelligen die het oprichten van bouwwerken hoger dan 22 meter gemeten vanaf het maaiveld mogelijk maken.   
+2.  Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een bouwbeperkingengebied rondom een zend- en ontvangstinstallatie buiten een militair luchtvaartterrein, worden geen bestemmingen opgenomen die een wijziging bewerkstelligen die het oprichten van bouwwerken hoger dan 22 meter gemeten vanaf het maaiveld mogelijk maken.  
 
 ### Artikel  2.6.9  
 
@@ -659,17 +659,17 @@ b. geen agrarische bestemmingen opgenomen die niet kunnen worden gerealiseerd zo
 
 a. die op het tijdstip van inwerkingtreding van dit besluit reeds in het radarverstoringsgebied, bedoeld in het derde lid, onder a, aanwezig waren;  
 
-b. waarvoor de bouwvergunning vóór dat tijdstip is verleend, of waarvan de bouw in het op dat tijdstip geldende bestemmingsplan is toegestaan.     
+b. waarvoor de bouwvergunning vóór dat tijdstip is verleend, of waarvan de bouw in het op dat tijdstip geldende bestemmingsplan is toegestaan.    
 
 ### Artikel  2.6.10  
 
 ####(beperkingen in verband met militaire laagvliegroutes jacht- en transportvliegtuigen)
 
-Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een laagvliegroute voor jacht- en transportvliegtuigen worden geen bestemmingen opgenomen die het oprichten van bouwwerken met een hoogte van meer dan 40 meter te meten vanaf het maaiveld mogelijk maken.  
+Bij de eerstvolgende herziening van een bestemmingsplan dat betrekking heeft op een laagvliegroute voor jacht- en transportvliegtuigen worden geen bestemmingen opgenomen die het oprichten van bouwwerken met een hoogte van meer dan 40 meter te meten vanaf het maaiveld mogelijk maken. 
 
 ### Titel  2.7  
 
-####Hoofdwegen en landelijke spoorwegen
+#### Hoofdwegen en landelijke spoorwegen 
 
 ### Artikel  2.7.1  
 
@@ -681,7 +681,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 *hoofdweg:* weg als bedoeld in [artikel 1, eerste lid, van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-*landelijke spoorweg:* spoorweg als bedoeld in [artikel 1, eerste lid, van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md).    
+*landelijke spoorweg:* spoorweg als bedoeld in [artikel 1, eerste lid, van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md).   
 
 ### Artikel  2.7.2  
 
@@ -697,14 +697,14 @@ b. 38 meter aan weerszijden van de hoofdweg ten behoeve van de mogelijke verbred
 c. 41 meter aan weerszijden van de hoofdweg ten behoeve van de mogelijke verbreding per rijrichting met drie rijstroken, of  
 
 d. 45 meter aan weerszijden van de hoofdweg ten behoeve van de mogelijke verbreding per rijrichting met vier rijstroken.     
-3.  Van een reserveringsgebied als bedoeld in het eerste lid, wordt de geometrische plaatsbepaling vastgelegd in een GML-bestand en op kaart verbeeld.   
+3.  Van een reserveringsgebied als bedoeld in het eerste lid, wordt de geometrische plaatsbepaling vastgelegd in een GML-bestand en op kaart verbeeld.  
 
 ### Artikel  2.7.3  
 
 ####(aanwijzing reserveringsgebieden nieuwe infrastructuur)
 
 1.  Bij ministeriële regeling worden ten behoeve van de mogelijke aanleg van nieuwe hoofdwegen of landelijke spoorwegen reserveringsgebieden aangewezen.   
-2.  Van een reserveringsgebied als bedoeld in het eerste lid, wordt de geometrische plaatsbepaling vastgelegd in een GML-bestand en op kaart verbeeld.   
+2.  Van een reserveringsgebied als bedoeld in het eerste lid, wordt de geometrische plaatsbepaling vastgelegd in een GML-bestand en op kaart verbeeld.  
 
 ### Artikel  2.7.4  
 
@@ -716,11 +716,11 @@ a. het bouwen van een bouwwerk waarvoor een omgevingsvergunning als bedoeld in [
 
 b. stortplaats voor afvalstoffen;  
 
-c. bergingsgebied als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md).    
+c. bergingsgebied als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md).   
 
 ### Titel  2.8  
 
-####Elektriciteitsvoorziening
+#### Elektriciteitsvoorziening 
 
 ### Artikel  2.8.1  
 
@@ -734,7 +734,7 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 *hoogspanningsverbinding:* verbinding met een spanning van ten minste 220 kV en de daarmee verbonden schakel- en transformatorstations en andere hulpmiddelen;  
 
-*kernenergiecentrale:* elektriciteitsproductie-eenheid waar elektriciteit wordt opgewekt met behulp van splijting of versmelting van atoomkernen.    
+*kernenergiecentrale:* elektriciteitsproductie-eenheid waar elektriciteit wordt opgewekt met behulp van splijting of versmelting van atoomkernen.   
 
 ### Artikel  2.8.2  
 
@@ -785,7 +785,7 @@ t. Maasvlakte II (gemeente Rotterdam);
 u. Rijnmond/Rotterdams Havengebied (gemeente Rotterdam);  
 
 v. Terneuzen/Sas van Gent (gemeente Terneuzen).     
-2.  De gebieden, bedoeld in het eerste lid, worden vastgelegd in een GML-bestand.   
+2.  De gebieden, bedoeld in het eerste lid, worden vastgelegd in een GML-bestand.  
 
 ### Artikel  2.8.3  
 
@@ -797,7 +797,7 @@ a. laat grootschalige elektriciteitsopwekking toe;
 
 b. voorziet in de fysieke ruimte daartoe, en  
 
-c. bevat geen hoogtebeperkingen voor installaties voor grootschalige elektriciteitsopwekking.    
+c. bevat geen hoogtebeperkingen voor installaties voor grootschalige elektriciteitsopwekking.   
 
 ### Artikel  2.8.4  
 
@@ -810,7 +810,7 @@ a. Borssele/Vlissingen (gemeenten Borsele en Vlissingen);
 b. Eemshaven (gemeente Eemsmond);  
 
 c. Maasvlakte I (gemeente Rotterdam).     
-2.  De gebieden, bedoeld in het eerste lid, worden vastgelegd in een GML-bestand.   
+2.  De gebieden, bedoeld in het eerste lid, worden vastgelegd in een GML-bestand.  
 
 ### Artikel  2.8.5  
 
@@ -835,11 +835,11 @@ a. gebouwen bestemd voor het verblijf, al dan niet gedurende een gedeelte van de
 
 b. gebouwen waarin doorgaans grote aantallen personen gedurende een groot gedeelte van de dag aanwezig zijn, waartoe in ieder geval behoren: 
 
-1°. kantoorgebouwen en hotels met een bruto vloeroppervlak van meer dan 1500 m <sup>2</sup> per object, of  
+1°. kantoorgebouwen en hotels met een bruto vloeroppervlak van meer dan 1500 m<sup>2</sup> per object, of  
 
-2°. complexen waarin meer dan 5 winkels zijn gevestigd en waarvan het gezamenlijk bruto vloeroppervlak meer dan 1000 m <sup>2</sup> bedraagt en winkels met een totaal bruto vloeroppervlak van meer dan 2000 m <sup>2</sup> per winkel, voor zover in die complexen of in die winkels een supermarkt, hypermarkt of warenhuis is gevestigd, en    
+2°. complexen waarin meer dan 5 winkels zijn gevestigd en waarvan het gezamenlijk bruto vloeroppervlak meer dan 1000 m<sup>2</sup> bedraagt en winkels met een totaal bruto vloeroppervlak van meer dan 2000 m<sup>2</sup> per winkel, voor zover in die complexen of in die winkels een supermarkt, hypermarkt of warenhuis is gevestigd, en    
 
-c. kampeer- en andere recreatieterreinen bestemd voor het verblijf van meer dan 50 personen gedurende meerdere aaneengesloten dagen.     
+c. kampeer- en andere recreatieterreinen bestemd voor het verblijf van meer dan 50 personen gedurende meerdere aaneengesloten dagen.    
 
 ### Artikel  2.8.6  
 
@@ -897,7 +897,7 @@ x. Eemshaven – Noorwegen;
 
 y. Maasvlakte – Groot-Brittannië.     
 2.  De tracés, bedoeld in het eerste lid, worden vastgelegd in een GML-bestand.   
-3.  Een aansluiting tussen een vestigingsplaats als bedoeld in artikel 2.8.2, eerste li d, en het hoogspanningsnet wordt gelijkgesteld met een hoogspanningsverbinding.   
+3.  Een aansluiting tussen een vestigingsplaats als bedoeld in artikel 2.8.2, eerste lid, en het hoogspanningsnet wordt gelijkgesteld met een hoogspanningsverbinding.  
 
 ### Artikel  2.8.7  
 
@@ -905,7 +905,7 @@ y. Maasvlakte – Groot-Brittannië.
 
 1.  Een bestemmingsplan dat betrekking heeft op een hoogspanningsverbinding als bedoeld in artikel 2.8.6, eerste of derde lid, bevat het tracé van die hoogspanningsverbinding en laat het gebruik als hoogspanningsverbinding toe.   
 2.  Een bestemmingsplan wijst geen ander tracé van de hoogspanningsverbinding aan.   
-3.  In afwijking van het tweede lid kan, na schriftelijk advies van de beheerder van het hoogspanningsnet, een ander tracé van de hoogspanningsverbinding worden aangewezen, mits de hoogspanningsverbinding als zodanig in het bestemmingsplan wordt gehandhaafd, het bestemmingsplan het gebruik van dat gewijzigde tracé als hoogspanningsverbinding toelaat en het tracé aansluit op het tracé van de hoogspanningsverbinding in de naastliggende bestemmingsplannen.   
+3.  In afwijking van het tweede lid kan, na schriftelijk advies van de beheerder van het hoogspanningsnet, een ander tracé van de hoogspanningsverbinding worden aangewezen, mits de hoogspanningsverbinding als zodanig in het bestemmingsplan wordt gehandhaafd, het bestemmingsplan het gebruik van dat gewijzigde tracé als hoogspanningsverbinding toelaat en het tracé aansluit op het tracé van de hoogspanningsverbinding in de naastliggende bestemmingsplannen.  
 
 ### Titel  2.9  
 
@@ -928,21 +928,21 @@ Gereserveerd
 *nieuwe bebouwing:* het oprichten van bouwwerken, anders dan het vervangen van bouwwerken door bouwwerken van gelijke omvang;  
 
 *wezenlijke kenmerken en waarden:* aanwezige natuurwaarden en, voor gebieden met een bestemming natuur, tevens potentiële natuurwaarden en de daarvoor vereiste bodem- en watercondities, voor zover deze natuurwaarden en condities in het licht van de internationale biodiversiteitdoelstellingen relevant zijn.     
-2.  Deze titel is niet van toepassing op de wateren, genoemd in [bijlage II, onderdeel 1, van het Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), het Lauwersmeer, het Veerse meer, het Vuile Gat in het Haringvliet en de zeegeul naar het Haringvliet, genaamd het Slijkgat, met uitzondering van de bijbehorende uiterwaarden en de Brabantse, Dordtsche en Sliedrechtse Biesbosch.   
+2.  Deze titel is niet van toepassing op de wateren, genoemd in [bijlage II, onderdeel 1, van het Waterbesluit](../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), het Lauwersmeer, het Veerse meer, het Vuile Gat in het Haringvliet en de zeegeul naar het Haringvliet, genaamd het Slijkgat, met uitzondering van de bijbehorende uiterwaarden en de Brabantse, Dordtsche en Sliedrechtse Biesbosch.  
 
 ### Artikel  2.10.2  
 
 ####(begrenzing)
 
 1.  Bij provinciale verordening worden de gebieden aangewezen die de ecologische hoofdstructuur vormen. De ligging van die gebieden wordt geometrisch vastgelegd.   
-2.  Geen onderdeel van de ecologische hoofdstructuur vormen de militaire terreinen, aangewezen bij regeling van Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Defensie.   
+2.  Geen onderdeel van de ecologische hoofdstructuur vormen de militaire terreinen, aangewezen bij regeling van Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Defensie.  
 
 ### Artikel  2.10.3  
 
 ####(wezenlijke kenmerken en waarden)
 
 1.  Bij provinciale verordening worden de wezenlijke kenmerken en waarden van de gebieden, bedoeld in artikel 2.10.2, eerste lid, aangewezen.   
-2.  Bij provinciale verordening worden in het belang van de bescherming, instandhouding en ontwikkeling van de wezenlijke kenmerken en waarden regels gesteld omtrent de inhoud van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt afgeweken.   
+2.  Bij provinciale verordening worden in het belang van de bescherming, instandhouding en ontwikkeling van de wezenlijke kenmerken en waarden regels gesteld omtrent de inhoud van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt afgeweken.  
 
 ### Artikel  2.10.4  
 
@@ -955,7 +955,7 @@ a. er sprake is van een groot openbaar belang,
 b. er geen reële alternatieven zijn, en  
 
 c. de negatieve effecten op de wezenlijke kenmerken en waarden, oppervlakte en samenhang worden beperkt en de overblijvende effecten gelijkwaardig worden gecompenseerd.     
-2.  Ten aanzien van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken die ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan nieuwe bebouwing of terreinverharding binnen omheinde militaire terreinen mogelijk maken, stelt de verordening uitsluitend de voorwaarde, bedoeld in het eerste lid, onderdeel c.   
+2.  Ten aanzien van bestemmingsplannen en omgevingsvergunningen waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken die ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan nieuwe bebouwing of terreinverharding binnen omheinde militaire terreinen mogelijk maken, stelt de verordening uitsluitend de voorwaarde, bedoeld in het eerste lid, onderdeel c.  
 
 ### Artikel  2.10.5  
 
@@ -977,11 +977,11 @@ b. ten behoeve van een kleinschalige ontwikkeling, voor zover:
 
 3°. de oppervlakte van de ecologische hoofdstructuur ten minste gelijk blijft;    
 
-c. ten behoeve van de toepassing van de krachtens artikel 2.10.4, eerste lid, gestelde regels.    
+c. ten behoeve van de toepassing van de krachtens artikel 2.10.4, eerste lid, gestelde regels.   
 
 ### Titel  2.11  
 
-####Primaire waterkeringen buiten het kustfundament
+#### Primaire waterkeringen buiten het kustfundament 
 
 ### Artikel  2.11.1  
 
@@ -994,20 +994,20 @@ c. ten behoeve van de toepassing van de krachtens artikel 2.10.4, eerste lid, ge
 *kustfundament:* gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 2;  
 
 *primaire waterkering:* primaire waterkering als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md).     
-2.  Deze titel is van toepassing op gronden buiten het kustfundament.   
+2.  Deze titel is van toepassing op gronden buiten het kustfundament.  
 
 ### Artikel  2.11.2  
 
 ####(hoofdbestemming primaire waterkering en aanduiding beschermingszones)
 
 1.  Een bestemmingsplan bevat de bestemming «waterkering» voor gronden waarop een primaire waterkering ligt of die de functie van primaire waterkering hebben.   
-2.  Een bestemmingsplan dat betrekking heeft op gronden die deel uitmaken van een beschermingszone duidt die gronden aan met de gebiedsaanduiding «vrijwaringszone – dijk», indien de primaire waterkering een dijk is en in de overige gevallen met de gebiedsaanduiding «vrijwaringszone – waterstaatswerk».   
+2.  Een bestemmingsplan dat betrekking heeft op gronden die deel uitmaken van een beschermingszone duidt die gronden aan met de gebiedsaanduiding «vrijwaringszone – dijk», indien de primaire waterkering een dijk is en in de overige gevallen met de gebiedsaanduiding «vrijwaringszone – waterstaatswerk».  
 
 ### Artikel  2.11.3  
 
 ####(regels primaire waterkering en gronden in de beschermingszone)
 
-Met betrekking tot gronden waarop een primaire waterkering ligt of die de functie van primaire waterkering hebben, of een beschermingszone, kan een bestemmingsplan worden vastgesteld dat een wijziging inhoudt ten opzichte van het ten tijde van inwerkingtreding van deze titel geldende bestemmingsplan, voor zover bij de verwezenlijking daarvan geen belemmeringen kunnen ontstaan voor het onderhoud, de instandhouding of de versterking van de primaire waterkering.  
+Met betrekking tot gronden waarop een primaire waterkering ligt of die de functie van primaire waterkering hebben, of een beschermingszone, kan een bestemmingsplan worden vastgesteld dat een wijziging inhoudt ten opzichte van het ten tijde van inwerkingtreding van deze titel geldende bestemmingsplan, voor zover bij de verwezenlijking daarvan geen belemmeringen kunnen ontstaan voor het onderhoud, de instandhouding of de versterking van de primaire waterkering. 
 
 ### Titel  2.12  
 
@@ -1022,7 +1022,7 @@ Met betrekking tot gronden waarop een primaire waterkering ligt of die de functi
 *IJsselmeergebied:* gebied waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 6;  
 
 *nieuwe bebouwing:* het oprichten van bouwwerken, anders dan het vervangen van bouwwerken door bouwwerken van gelijke omvang.     
-2.  Deze titel is van toepassing op gronden binnen het IJsselmeergebied.   
+2.  Deze titel is van toepassing op gronden binnen het IJsselmeergebied.  
 
 ### Artikel  2.12.2  
 
@@ -1055,7 +1055,7 @@ f. 5 hectare voor niet in dit lid genoemde gemeenten ten behoeve van:
 
 2°. andere bestemmingen dan natuurontwikkeling, aansluitend op de bestaande bebouwing.       
 3.  Het eerste lid is niet van toepassing op overstroombare natuurontwikkeling en projecten van nationaal belang met betrekking tot windenergie.   
-4.  Voor de toepassing van het tweede lid geldt de gemeentelijke indeling op 22 december 2009.   
+4.  Voor de toepassing van het tweede lid geldt de gemeentelijke indeling op 22 december 2009.  
 
 ### Titel  2.13  
 
@@ -1070,7 +1070,7 @@ f. 5 hectare voor niet in dit lid genoemde gemeenten ten behoeve van:
 *erfgoed van uitzonderlijke universele waarde:* gebied als bedoeld in artikel 2.13.2;  
 
 *kernkwaliteiten:* essentiële landschappelijke en cultuurhistorische kenmerken van een erfgoed van uitzonderlijke universele waarde.     
-2.  Deze titel is van toepassing op gronden binnen de grenzen van de erfgoederen van uitzonderlijke universele waarde.   
+2.  Deze titel is van toepassing op gronden binnen de grenzen van de erfgoederen van uitzonderlijke universele waarde.  
 
 ### Artikel  2.13.2  
 
@@ -1086,13 +1086,13 @@ c. Werelderfgoed De Beemster, waarvan de geometrische plaatsbepaling is vastgele
 
 d. Werelderfgoed De Stelling van Amsterdam, waarvan de geometrische plaatsbepaling is vastgelegd in het GML-bestand en is verbeeld op kaart 7.     
 2.  Bij verordening werken de desbetreffende provinciale staten de begrenzing van de erfgoederen, bedoeld in het eerste lid, onderdelen a en b, geometrisch nader uit.   
-3.  Indien de nadere plaatsbepaling en begrenzing, bedoeld in het tweede lid, niet binnen de termijn, bedoeld in artikel 3.5, derde lid zijn vastgesteld, stellen Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap de nadere plaatsbepaling en begrenzing bij ministeriële regeling vast.   
+3.  Indien de nadere plaatsbepaling en begrenzing, bedoeld in het tweede lid, niet binnen de termijn, bedoeld in artikel 3.5, derde lid zijn vastgesteld, stellen Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap de nadere plaatsbepaling en begrenzing bij ministeriële regeling vast.  
 
 ### Artikel  2.13.3  
 
 ####(kernkwaliteiten)
 
-In bijlage 8 zijn voor ieder erfgoed van uitzonderlijke universele waarde de kernkwaliteiten in hoofdlijnen beschreven.  
+In bijlage 8 zijn voor ieder erfgoed van uitzonderlijke universele waarde de kernkwaliteiten in hoofdlijnen beschreven. 
 
 ### Artikel  2.13.4  
 
@@ -1100,9 +1100,9 @@ In bijlage 8 zijn voor ieder erfgoed van uitzonderlijke universele waarde de ker
 
 1.  Bij provinciale verordening worden de kernkwaliteiten uitgewerkt en geobjectiveerd.   
 2.  Bij provinciale verordening worden in het belang van de instandhouding en versterking van de kernkwaliteiten regels gesteld omtrent de inhoud van of de toelichting bij bestemmingsplannen en de inhoud van omgevingsvergunningen waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken.   
-3.  Bij de verordening worden in ieder geval regels gesteld die bewerkstelligen dat een bestemmingsplan of omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken geen activiteiten mogelijk maakt ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan die de kernkwaliteiten, bedoeld in het eerste lid, aantasten.   
+3.  Bij de verordening worden in ieder geval regels gesteld die bewerkstelligen dat een bestemmingsplan of omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken geen activiteiten mogelijk maakt ten opzichte van het ten tijde van inwerkingtreding van de verordening geldende bestemmingsplan die de kernkwaliteiten, bedoeld in het eerste lid, aantasten.  
 
-### Titel  2.14  
+###Titel  2.14  
 
 ####Ruimtereservering parallelle Kaagbaan
 
@@ -1111,13 +1111,13 @@ In bijlage 8 zijn voor ieder erfgoed van uitzonderlijke universele waarde de ker
 ####(reserveringsgebied parallelle Kaagbaan)
 
 1.  Met betrekking tot gronden gelegen binnen het gebied waarvan de begrenzingen zijn verbeeld op de kaart in bijlage 9 en waarvan de geometrische plaatsbepaling is vervat in een GML-bestand, wordt geen bestemmingsplan vastgesteld dat een wijziging of afwijking inhoudt ten opzichte van het ten tijde van de inwerkingtreding van deze titel geldende bestemmingsplan.   
-2.  Het eerste lid is niet van toepassing op de vaststelling van een bestemmingsplan dat de aanleg van de Boerenlandvariant, bedoeld in de mededeling inzake de Overeenkomst voorwaarden aanleg Boerenlandvariant N201 (Stcrt. 2010, 20211) mogelijk maakt.   
+2.  Het eerste lid is niet van toepassing op de vaststelling van een bestemmingsplan dat de aanleg van de Boerenlandvariant, bedoeld in de mededeling inzake de Overeenkomst voorwaarden aanleg Boerenlandvariant N201 (Stcrt. 2010, 20211) mogelijk maakt.  
 
 ### Artikel  2.14.2  
 
 ####(tijdelijke afwijking)
 
-In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning waarbij met toepassing van [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, van een bestemmingsplan dat betrekking heeft op gronden gelegen binnen het gebied, bedoeld in artikel 2.14.1, eerste lid, worden afgeweken, tot uiterlijk 1 januari 2024.  
+In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning waarbij met toepassing van [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken, van een bestemmingsplan dat betrekking heeft op gronden gelegen binnen het gebied, bedoeld in artikel 2.14.1, eerste lid, worden afgeweken, tot uiterlijk 1 januari 2024. 
 
 ### Hoofdstuk  3  
 
@@ -1127,26 +1127,26 @@ In afwijking van artikel 1.1, vijfde lid, kan met een omgevingsvergunning waarbi
 
 ####(termijn uitvoering algemene regels)
 
-Voor zover een bepaling in dit besluit verplicht tot aanpassing van een geldend bestemmingsplan, stelt de gemeenteraad uiterlijk binnen drie jaar na het tijdstip van inwerkingtreding van de desbetreffende bepaling een bestemmingsplan vast met in achtneming van dit besluit, tenzij in dit besluit een andere termijn is bepaald.  
+Voor zover een bepaling in dit besluit verplicht tot aanpassing van een geldend bestemmingsplan, stelt de gemeenteraad uiterlijk binnen drie jaar na het tijdstip van inwerkingtreding van de desbetreffende bepaling een bestemmingsplan vast met in achtneming van dit besluit, tenzij in dit besluit een andere termijn is bepaald. 
 
 ### Artikel  3.2  
 
 ####(ontheffingsbevoegdheid)
 
 1.  Onze Minister in overeenstemming met Onze Minister die het aangaat, kan op aanvraag van burgemeester en wethouders of van gedeputeerde staten ontheffing verlenen van de bepalingen van hoofdstuk 2, indien de verwezenlijking van het gemeentelijk onderscheidenlijk provinciaal ruimtelijk beleid wegens bijzondere omstandigheden onevenredig wordt belemmerd in verhouding tot de met die bepalingen te dienen nationale belangen.   
-2.  Aan de ontheffing kunnen voorschriften worden verbonden indien de betrokken nationale belangen dat met het oog op een goede ruimtelijke ordening noodzakelijk maken.   
+2.  Aan de ontheffing kunnen voorschriften worden verbonden indien de betrokken nationale belangen dat met het oog op een goede ruimtelijke ordening noodzakelijk maken.  
 
 ### Artikel  3.3  
 
 ####(uitvoeringsregels)
 
-Indien in dit besluit geregelde onderwerpen in het belang van een goede uitvoering van dit besluit nadere regeling behoeven, kan deze geschieden bij ministeriële regeling.  
+Indien in dit besluit geregelde onderwerpen in het belang van een goede uitvoering van dit besluit nadere regeling behoeven, kan deze geschieden bij ministeriële regeling. 
 
 ### Artikel  3.4  
 
 ####(samenloop)
 
-Indien er sprake is van strijdigheid van het bepaalde bij of krachtens titel 2.3, 2.4 of 2.5 met het bepaalde bij of krachtens titel 2.6, geldt het bepaalde bij of krachtens titel 2.6.  
+Indien er sprake is van strijdigheid van het bepaalde bij of krachtens titel 2.3, 2.4 of 2.5 met het bepaalde bij of krachtens titel 2.6, geldt het bepaalde bij of krachtens titel 2.6. 
 
 ### Artikel  3.5  
 
@@ -1155,19 +1155,19 @@ Indien er sprake is van strijdigheid van het bepaalde bij of krachtens titel 2.3
 1.  Provinciale staten stellen een verordening als bedoeld in artikel 2.3.6 vast uiterlijk negen maanden na het tijdstip van inwerkingtreding van dat artikel.   
 2.  Provinciale staten stellen een verordening als bedoeld in titel 2.10 vast uiterlijk op 30 juni 2013, dan wel drie maanden na het tijdstip van inwerkingtreding van titel 2.10, indien deze titel na 30 juni 2013 in werking treedt.   
 3.  Provinciale staten van de provincies waarin de erfgoederen, bedoeld in artikel 2.13.2, eerste lid, onderdelen a en b, zijn gelegen, stellen een verordening als bedoeld in artikel 2.13.2, tweede lid, en artikel 2.13.4 vast uiterlijk op 1 januari 2014, dan wel drie maanden na het tijdstip van inwerkingtreding van titel 2.13, indien deze titel na 1 januari 2014 in werking treedt.   
-4.  Provinciale staten van de provincies waarin de erfgoederen, bedoeld in artikel 2.13.2, eerste lid, onderdelen c en d, zijn gelegen, stellen een verordening als bedoeld in artikel 2.13.4 vast uiterlijk op 1 juli 2013, dan wel drie maanden na het tijdstip van inwerkingtreding van titel 2.13, indien deze titel na 1 juli 2013 in werking treedt.   
+4.  Provinciale staten van de provincies waarin de erfgoederen, bedoeld in artikel 2.13.2, eerste lid, onderdelen c en d, zijn gelegen, stellen een verordening als bedoeld in artikel 2.13.4 vast uiterlijk op 1 juli 2013, dan wel drie maanden na het tijdstip van inwerkingtreding van titel 2.13, indien deze titel na 1 juli 2013 in werking treedt.  
 
 ### Artikel  3.6  
 
 ####(inwerkingtreding)
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  3.7  
 
 ####(citeertitel)
 
-Dit besluit wordt aangehaald als: Besluit algemene regels ruimtelijke ordening.  
+Dit besluit wordt aangehaald als: Besluit algemene regels ruimtelijke ordening. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -1175,19 +1175,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 augustus 2011  
 Beatrix  
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *zesentwintigste* augustus 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
 
-### Bijlagen  
+### Bijlagen 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
-Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart kustfundament Bijlage 3 – Kaart grote rivieren Bijlage 4 – Kaart Waddenzee en waddengebied Bijlage 5 – Kaarten elektriciteitsvoorziening Bijlage 6 – Kaart IJsselmeergebied Bijlage 7 – Kaart erfgoederen van uitzonderlijke universele waarde Bijlage 8 – Kernkwaliteiten van de erfgoederen van uitzonderlijke universele waarde Bijlage 9 – Kaart reserveringsgebied parallelle Kaagbaan 
+Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam   Bijlage 2 – Kaart kustfundament   Bijlage 3 – Kaart grote rivieren   Bijlage 4 – Kaart Waddenzee en waddengebied   Bijlage 5 – Kaarten elektriciteitsvoorziening   Bijlage 6 – Kaart IJsselmeergebied   Bijlage 7 – Kaart erfgoederen van uitzonderlijke universele waarde   Bijlage 8 – Kernkwaliteiten van de erfgoederen van uitzonderlijke universele waarde Bijlage 9 – Kaart reserveringsgebied parallelle Kaagbaan
 
 ### Bijlage  1  
 
@@ -1221,7 +1221,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![249300](http://wetten.overheid.nl/Illustration/249300)
 
-### Bijlage  5  
+###Bijlage  5 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1229,7 +1229,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250795](http://wetten.overheid.nl/Illustration/250795)
 
-### Bijlage  5.1  
+###Bijlage  5.1 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1237,7 +1237,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250770](http://wetten.overheid.nl/Illustration/250770)
 
-### Bijlage  5.2  
+###Bijlage  5.2 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1245,7 +1245,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250771](http://wetten.overheid.nl/Illustration/250771)
 
-### Bijlage  5.3  
+###Bijlage  5.3 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1253,7 +1253,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250772](http://wetten.overheid.nl/Illustration/250772)
 
-### Bijlage  5.4  
+###Bijlage  5.4 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1261,7 +1261,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250773](http://wetten.overheid.nl/Illustration/250773)
 
-### Bijlage  5.5  
+###Bijlage  5.5 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1269,7 +1269,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250774](http://wetten.overheid.nl/Illustration/250774)
 
-### Bijlage  5.6  
+###Bijlage  5.6 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1277,7 +1277,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250775](http://wetten.overheid.nl/Illustration/250775)
 
-### Bijlage  5.7  
+###Bijlage  5.7 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1285,7 +1285,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250776](http://wetten.overheid.nl/Illustration/250776)
 
-### Bijlage  5.8  
+###Bijlage  5.8 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1293,7 +1293,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250777](http://wetten.overheid.nl/Illustration/250777)
 
-### Bijlage  5.9  
+###Bijlage  5.9 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1301,7 +1301,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250778](http://wetten.overheid.nl/Illustration/250778)
 
-### Bijlage  5.10  
+###Bijlage  5.10 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1309,7 +1309,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250779](http://wetten.overheid.nl/Illustration/250779)
 
-### Bijlage  5.11  
+###Bijlage  5.11 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1317,7 +1317,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250780](http://wetten.overheid.nl/Illustration/250780)
 
-### Bijlage  5.12  
+###Bijlage  5.12 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1325,7 +1325,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250781](http://wetten.overheid.nl/Illustration/250781)
 
-### Bijlage  5.13  
+###Bijlage  5.13 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1333,7 +1333,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250782](http://wetten.overheid.nl/Illustration/250782)
 
-### Bijlage  5.14  
+###Bijlage  5.14 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1341,7 +1341,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250783](http://wetten.overheid.nl/Illustration/250783)
 
-### Bijlage  5.15  
+###Bijlage  5.15 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1349,7 +1349,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250784](http://wetten.overheid.nl/Illustration/250784)
 
-### Bijlage  5.16  
+###Bijlage  5.16 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1357,7 +1357,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250785](http://wetten.overheid.nl/Illustration/250785)
 
-### Bijlage  5.17  
+###Bijlage  5.17 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1365,7 +1365,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250786](http://wetten.overheid.nl/Illustration/250786)
 
-### Bijlage  5.18  
+###Bijlage  5.18 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1373,7 +1373,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250787](http://wetten.overheid.nl/Illustration/250787)
 
-### Bijlage  5.19  
+###Bijlage  5.19 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1381,7 +1381,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250788](http://wetten.overheid.nl/Illustration/250788)
 
-### Bijlage  5.20  
+###Bijlage  5.20 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1389,7 +1389,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250789](http://wetten.overheid.nl/Illustration/250789)
 
-### Bijlage  5.21  
+###Bijlage  5.21 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1397,7 +1397,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250790](http://wetten.overheid.nl/Illustration/250790)
 
-### Bijlage  5.22  
+###Bijlage  5.22 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1405,7 +1405,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250791](http://wetten.overheid.nl/Illustration/250791)
 
-### Bijlage  5.23  
+###Bijlage  5.23 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1413,7 +1413,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250792](http://wetten.overheid.nl/Illustration/250792)
 
-### Bijlage  5.24  
+###Bijlage  5.24 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1421,7 +1421,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250793](http://wetten.overheid.nl/Illustration/250793)
 
-### Bijlage  5.25  
+###Bijlage  5.25 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 
@@ -1429,7 +1429,7 @@ Bijlage 1 – Kaart Project Mainportontwikkeling Rotterdam Bijlage 2 – Kaart k
 
 ![250794](http://wetten.overheid.nl/Illustration/250794)
 
-### Bijlage  6  
+###Bijlage  6 
 
 ####bij het Besluit algemene regels ruimtelijke ordening
 

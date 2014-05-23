@@ -3,38 +3,38 @@
 ##Regeling aanwijzing normen pleziervaartuigen 2009
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op artikel 5 van richtlijn nr. 94/25/EG van het Europees Parlement en de Raad van 16 juni 1994 inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen (PbEG L 164) en artikel 4, eerste lid, van de Wet pleziervaartuigen;
+Gelet op artikel 5 van richtlijn nr. 94/25/EG van het Europees Parlement en de Raad van 16 juni 1994 inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen (PbEG L 164) en [artikel 4, eerste lid, van de Wet pleziervaartuigen](../../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md);
 Besluit:    
 
 ### Artikel  1  
 
-De normen, bedoeld in artikel 4, eerste lid, van de Wet pleziervaartuigen, zijn de normen, opgenomen in de bijlage.  
+De normen, bedoeld in [artikel 4, eerste lid, van de Wet pleziervaartuigen](../../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md), zijn de normen, opgenomen in de bijlage. 
 
 ### Artikel  2  
 
-De Aanwijzing nationale referentienummers normen pleziervaartuigen (Stcrt. 2008, 163) wordt ingetrokken.  
+De [Aanwijzing nationale referentienummers normen pleziervaartuigen](../../../../../../../ministeriele-regeling/regeling/aanwijzing/nationale/referentienummers/normen/pleziervaartuigen/BWBR0024389/README.md) (Stcrt. 2008, 163) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing normen pleziervaartuigen 2009.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing normen pleziervaartuigen 2009. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 30 april 2009.  
+Deze regeling treedt in werking met ingang van 30 april 2009. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa  
+J.C. Huizinga-Heringa    
 
-### Bijlage  
+### Bijlage 
 
-####als bedoeld in artikel 1  van de Regeling aanwijzing normen pleziervaartuigen 2009
+####als bedoeld in artikel 1  van de Regeling aanwijzing normen pleziervaartuigen 2009 
 
-*Titels en referentienummers van geharmoniseerde normen in het kader van richtlijn 94/25/EG van het Europees Parlement en de Raad inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen*   
+*Titels en referentienummers van geharmoniseerde normen in het kader van richtlijn 94/25/EG van het Europees Parlement en de Raad inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen* 
 
-| Referentienr. Nederlandse norm  | ENO <sup>(1)</sup>  | Referentienr. en titel van de norm (en referentie document)  | Eerste bekendmaking PB  | Referentienr.van de vervangen norm  | Datum waarop het vermoeden van overeenstemming ten aanzien van de vervangen norm vervalt  Noot 1  |
-|---|---|---|---|---|---|
+| Referentienr. Nederlandse norm  | ENO <sup>(1)</sup>   | Referentienr. en titel van de norm (en referentie document)  | Eerste bekendmaking PB  | Referentienr.van de vervangen norm  | Datum waarop het vermoeden van overeenstemming ten aanzien van de vervangen norm vervalt  Noot 1  |
+|:---|:---|:---|:---|:---|:---|
 | NEN-EN-ISO 6185-1:2002  | CEN  | EN ISO 6185-1:2001 Opblaasbare boten – Deel 1: Boten met een maximaal motorvermogen van 4,5 kW (ISO 6185-1:2001)  | 17.4.2002  | --- | --- |
 | NEN-EN-ISO 6185-2:2002  | CEN  | EN ISO 6185-2:2001 Opblaasbare boten – Deel 2: Boten met een maximaal motorvermogen van 4,5 kW tot en met 15 kW (ISO 6185-2:2001)  | 17.4.2002  | --- | --- |
 | NEN-EN-ISO 6185-3:2002  | CEN  | EN ISO 6185-3:2001 Pleziervaartuigen – Opblaasbare boten met een totale lengte kleiner dan 8 m met een minimaal drijfvermogen van 1 800 N – Deel 3: Maximaal motorvermogen van 15 kW en groter (ISO 6185-3:2001)  | 17.4.2002  | --- | --- |
@@ -103,7 +103,7 @@ J.C.Huizinga-Heringa
 | NEN-EN-ISO 15652:2005  | CEN  | EN ISO 15652:2005 Kleine vaartuigen – Afstandbesturingssystemen voor boten met waterstraalaandrijving (ISO 15652:2003)  | 7.9.2005  | --- | --- |
 | NEN-EN-ISO 16147:2002  | CEN  | EN ISO 16147:2002 Kleine vaartuigen – Binnenboord dieselmotoren – Op de motor gemonteerde onderdelen van het brandstof- en elektrisch systeem (ISO 16147:2002)  | 3.4.2003  | --- | --- |
 | NEN-EN- ISO 21487:2012  | CEN  | EN ISO 21487:2012 Kleine vaartuigen – Vast ingebouwde benzine- en dieselbrandstoftanks (ISO 21487:2012)  | 13.3.2013  | EN ISO 21487:2006 Noot 2.1  | 31.5.2013  |
-| NEN-EN-ISO 25197:2012  | CEN  | EN ISO 25197:2012 Pleziervaartuigen – Elektrisch/elektronisch controlesysteem voor sturing, shift en gashendel (ISO 25197:2012)  | 13.3.2013  | --- | --- |
+| NEN-EN-ISO 25197:2012  |CEN | EN ISO 25197:2012 Pleziervaartuigen – Elektrisch/elektronisch controlesysteem voor sturing, shift en gashendel (ISO 25197:2012)  | 13.3.2013  | --- | --- |
 | NEN-ISO 8846:1993  | CEN  | EN 28846:1993 Pleziervaartuigen – Elektrische apparatuur – Bescherming tegen ontbranding van omringende brandbare gassen (ISO 8846:1990)  | 30.9.1995  | --- | --- |
 | NEN-ISO 8846:1993/A1:2000  | EN 28846:1993/A1:2000  | 11.5.2001  | Noot 3  | Datum verstreken  (31.3.2001)  |
 | NEN-EN ISO 8848:1993  | CEN  | EN 28848:1993 Pleziervaartuigen – Afstandbesturingssystemen (ISO 8848:1990)  | 30.9.1995  | --- | --- |
@@ -112,4 +112,4 @@ J.C.Huizinga-Heringa
 | NEN-EN-ISO 9775:1993/A1:2000  | EN 29775:1993/A1:2000  | 11.5.2001  | Noot 3  | Datum verstreken  (31.3.2001)  |
 | NEN-EN-IEC 60092-507:2000  | CEN  | EN 60092-507:2000 Elektrische installaties aan boord van schepen – Deel 507: Pleziervaartuigen IEC 60092-507:2000  | 12.6.2003  | --- | --- |
 
-¹ ENO: Europese Normalisatie Organisatie: – CEN: Avenue Marnix 17, 1000 Brussel, BELGIË, Tel. +32 25500811; Fax +32 25500819 (http://www.cen.eu) – Cenelec: Avenue Marnix 17, 1000 Brussel, BELGIË, Tel. +32 25196871; Fax +32 25196919 (http://www.cenelec.eu) – ETSI: 650 route des Lucioles, 06921 Sophia Antipolis, FRANCE, Tel. +33 492944200; Fax +33 493654716 (http://www.etsi.eu) Noot 1: In het algemeen is de datum waarop het vermoeden van overeenstemming ten aanzien van de vervangen norm vervalt, de door de Europese normalisatie-instituten vastgestelde datum van intrekking, maar gebruikers van de norm worden erop gewezen dat dit in bepaalde uitzonderlijke gevallen anders kan zijn. Noot 2.1: De nieuwe (of gewijzigde) norm heeft dezelfde werkingssfeer als de vervangen norm. Op de aangegeven datum vervalt het ten aanzien van de vervangen norm bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn. Noot 2.2: De nieuwe norm heeft een ruimere werkingssfeer dan de vervangen normen. Op de aangegeven datum vervalt het ten aanzien van de vervangen normen bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn. Noot 2.3: De nieuwe norm heeft een beperktere werkingssfeer dan de vervangen norm. Op de aangegeven datum vervalt het ten aanzien van de (gedeeltelijk) vervangen norm bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn voor de producten die binnen de werkingssfeer van de nieuwe norm vallen. Het vermoeden van overeenstemming met de essentiële eisen van de richtlijn voor producten die binnen de werkingssfeer van de (gedeeltelijk) vervangen norm vallen maar niet binnen de werkingssfeer van de nieuwe norm vallen, blijft bestaan. Noot 3: In het geval van wijzigingsbladen is de norm waarnaar verwezen wordt EN CCCCC:YYYY, de voorafgaande wijzigingsbladen, indien die er zijn, en het nieuw genoemde wijzigingsblad. De vervangen norm (kolom 3) bestaat daarom uit EN CCCCC:YYYY en de voorafgaande wijzigingsbladen, indien die er zijn, maar zonder het nieuw genoemde wijzigingsblad. Op genoemde datum eindigt het vermoeden van overeenstemming met de essentiële eisen van de richtlijn van de vervangen norm. 
+¹ ENO: Europese Normalisatie Organisatie:– CEN: Avenue Marnix 17, 1000 Brussel, BELGIË, Tel. +32 25500811; Fax +32 25500819 (http://www.cen.eu)– Cenelec: Avenue Marnix 17, 1000 Brussel, BELGIË, Tel. +32 25196871; Fax +32 25196919 (http://www.cenelec.eu)– ETSI: 650 route des Lucioles, 06921 Sophia Antipolis, FRANCE, Tel. +33 492944200; Fax +33 493654716 (http://www.etsi.eu)Noot 1: In het algemeen is de datum waarop het vermoeden van overeenstemming ten aanzien van de vervangen norm vervalt, de door de Europese normalisatie-instituten vastgestelde datum van intrekking, maar gebruikers van de norm worden erop gewezen dat dit in bepaalde uitzonderlijke gevallen anders kan zijn. Noot 2.1: De nieuwe (of gewijzigde) norm heeft dezelfde werkingssfeer als de vervangen norm. Op de aangegeven datum vervalt het ten aanzien van de vervangen norm bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn. Noot 2.2: De nieuwe norm heeft een ruimere werkingssfeer dan de vervangen normen. Op de aangegeven datum vervalt het ten aanzien van de vervangen normen bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn. Noot 2.3: De nieuwe norm heeft een beperktere werkingssfeer dan de vervangen norm. Op de aangegeven datum vervalt het ten aanzien van de (gedeeltelijk) vervangen norm bestaande vermoeden van overeenstemming met de essentiële eisen van de richtlijn voor de producten die binnen de werkingssfeer van de nieuwe norm vallen. Het vermoeden van overeenstemming met de essentiële eisen van de richtlijn voor producten die binnen de werkingssfeer van de (gedeeltelijk) vervangen norm vallen maar niet binnen de werkingssfeer van de nieuwe norm vallen, blijft bestaan. Noot 3: In het geval van wijzigingsbladen is de norm waarnaar verwezen wordt EN CCCCC:YYYY, de voorafgaande wijzigingsbladen, indien die er zijn, en het nieuw genoemde wijzigingsblad. De vervangen norm (kolom 3) bestaat daarom uit EN CCCCC:YYYY en de voorafgaande wijzigingsbladen, indien die er zijn, maar zonder het nieuw genoemde wijzigingsblad. Op genoemde datum eindigt het vermoeden van overeenstemming met de essentiële eisen van de richtlijn van de vervangen norm.
