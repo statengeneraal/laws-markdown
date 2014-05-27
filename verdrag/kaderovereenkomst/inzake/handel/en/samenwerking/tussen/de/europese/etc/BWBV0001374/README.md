@@ -391,8 +391,8 @@ De Europese Gemeenschap spreekt haar bezorgdheid uit over en is erg begaan met d
 
 De Republiek Korea verklaart met betrekking tot de bepalingen inzake maritiem vervoer in artikel 7, lid 2, sub a, dat zij in toekomstige bilaterale overeenkomsten met derde landen die betrekking hebben op het handelsverkeer in droge en vloeibare bulkgoederen, slechts in uitzonderlijke gevallen bepalingen zal opnemen inzake vrachtverdeling, namelijk wanneer Koreaanse scheepvaartmaatschappijen anders geen reële kans zouden krijgen om aan het handelsverkeer van en naar het betrokken derde land deel te nemen.
 
-###Interpretatieve verklaring 
+####Interpretatieve verklaring
 
-####Verklaring van de Republiek Korea betreffende artikel 9, lid 2
+Verklaring van de Republiek Korea betreffende artikel 9, lid 2 
 
 „Law on Protection of Geographical Indications, die op 1 juli 1998 in werking treedt, onder voorbehoud van de wetgevingsprocedure” betekent dat de Republiek Korea uiterlijk op 1 juli 1998 alle noodzakelijke, juridisch bindende maatregelen zal treffen om te voldoen aan de bepalingen betreffende de bescherming van geografische aanduidingen, uit hoofde van de [WTO](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)/[TRIP’s-Overeenkomst](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).

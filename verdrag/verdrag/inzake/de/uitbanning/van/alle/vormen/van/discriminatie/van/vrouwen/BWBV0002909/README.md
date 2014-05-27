@@ -316,7 +316,7 @@ De Staten die partij zijn bij dit Verdrag, nemen op alle gebieden, in het bijzon
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om:
 
-(a)het sociale en culturele gedragspatroon van de man en de vrouw te veranderen ten einde te komen tot de uitbanning van vooroordelen, van gewoonten en van alle andere gebruiken, die zijn gebaseerd op de gedachte van de minderwaardigheid of meerderwaardigheid van één van beide geslachten of op de stereotiepe rollen van mannen en vrouwen;
+(a)het sociale en culturele gedragspatroon van de man en de vrouw te veranderen ten einde te komen tot de uitbanning van vooroordelen, van gewoonten en van alle andere gebruiken, die zijn gebaseerd op de gedachte van de minderwaardigheid of meerderwaardigheid van één van beide geslachten of op de stereotiepe rollen voor mannen en vrouwen;
 
 (b)ervoor zorg te dragen dat onderwijs over het gezin een juist begrip van het moederschap als sociale functie, en de erkenning van de gezamenlijke verantwoordelijkheid van mannen en vrouwen bij het grootbrengen en de ontwikkeling van hun kinderen bevat, met dien verstande dat het belang van de kinderen in alle gevallen vooropstaat.
 
@@ -351,7 +351,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om te
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen uit te bannen ten einde vrouwen rechten te verzekeren die gelijk zijn aan die van mannen op het gebied van onderwijs en vorming, en in het bijzonder, op basis van gelijkheid van mannen en vrouwen, het volgende te garanderen:
 
-(a)dezelfde mogelijkheden inzake loopbaan- en beroepskeuze en inzake toelating tot het onderwijs en inzake het verwerven van diploma's aan alle categorieën onderwijsinstellingen zowel op het platteland als in stedelijke gebieden; deze gelijkheid dient te worden verzekerd in de aan de school voorafgaande vorming, het algemeen vormend en het technisch onderwijs, het hoger beroepsonderwijs en het hoger technisch onderwijs, zowel als in alle andere soorten beroepsopleiding;
+(a)dezelfde mogelijkheden inzake beroepskeuzevoorlichting en inzake toelating tot het onderwijs en inzake het verwerven van diploma's aan alle categorieën onderwijsinstellingen zowel op het platteland als in stedelijke gebieden; deze gelijkheid dient te worden verzekerd in de aan de school voorafgaande vorming, het algemeen vormend en het technisch onderwijs, het hoger beroepsonderwijs en het hoger technisch onderwijs, zowel als in alle andere soorten beroepsopleiding;
 
 (b)toegang tot dezelfde onderwijsprogramma's, dezelfde examens, tot onderwijs door leerkrachten met dezelfde soort bevoegdheden, en tot schoolgebouwen en uitrusting van dezelfde kwaliteit;
 
@@ -434,8 +434,8 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 ### Artikel  15  
 
 1. De Staten die partij zijn bij dit Verdrag, verlenen de vrouw gelijkheid aan de man voor de wet.
-2. De Staten die partij zijn bij dit Verdrag, verlenen aan vrouwen in burgerlijke aangelegenheden rechtsbevoegdheid die gelijk is aan die van mannen, en dezelfde mogelijkheden om die bevoegdheid uit te oefenen. In het bijzonder verlenen zij vrouwen gelijke rechten om overeenkomsten te sluiten en bezittingen te beheren, en behandelen hen in alle stadia van gerechtelijke procedures op dezelfde wijze.
-3. De Staten die partij zijn bij dit Verdrag komen overeen dat iedere overeenkomst en ieder ander particulier document van welke aard ook, waaraan een rechtsgevolg is verbonden, gericht op beperking van de rechtsbevoegdheid van vrouwen, als nietig dient te worden beschouwd.
+2. De Staten die partij zijn bij dit Verdrag, verlenen aan vrouwen in burgerlijke aangelegenheden handelingsbekwaamheid die gelijk is aan die van mannen, en dezelfde mogelijkheden om die bevoegdheid uit te oefenen. In het bijzonder verlenen zij vrouwen gelijke rechten om overeenkomsten te sluiten en bezittingen te beheren, en behandelen hen in alle stadia van gerechtelijke procedures op dezelfde wijze.
+3. De Staten die partij zijn bij dit Verdrag komen overeen dat iedere overeenkomst en ieder ander particulier document van welke aard ook, waaraan een rechtsgevolg is verbonden, gericht op beperking van de handelingsbekwaamheid van vrouwen, als nietig dient te worden beschouwd.
 4. De Staten die partij zijn bij dit Verdrag, verlenen mannen en vrouwen dezelfde rechten met betrekking tot de wetgeving inzake de bewegingsvrijheid van personen en de vrijheid hun woon- en verblijfplaats te kiezen.
 
 ### Artikel  16  
@@ -463,43 +463,43 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 ### Artikel  17  
 
-1. Ten behoeve van de beoordeling van de voortgang die wordt gemaakt bij de uitvoering van dit Verdrag wordt een Commissie voor de uitbanning van discriminatie van vrouwen (hierna te noemen de Commissie) ingesteld, die op het tijdstip van inwerkingtreding van dit Verdrag zal bestaan uit 18, en na de bekrachtiging hiervan of de toetreding hiertoe door de vijfendertigste Staat die partij is bij dit Verdrag, uit 23 deskundigen van hoog zedelijk aanzien en uitzonderlijke bekwaamheid op het terrein dat door dit Verdrag wordt bestreken. De deskundigen worden door de Staten die partij zijn bij dit Verdrag, gekozen uit hun onderdanen en hebben zitting in hun persoonlijke hoedanigheid, waarbij rekening wordt gehouden met een billijke geografische verdeling en met de vertegenwoordiging van de verschillende beschavingsvormen en de belangrijkste rechtstelsels.
-2. De leden van de Commissie worden bij geheime stemming gekozen uit een lijst van door de Staten die partij zijn bij dit Verdrag, voorgedragen personen. Iedere Staat die partij is bij dit Verdrag, kan uit zijn eigen onderdanen één persoon voordragen.
+1. Ten behoeve van de beoordeling van de voortgang die wordt gemaakt bij de uitvoering van dit Verdrag wordt een Commissie voor de uitbanning van discriminatie van vrouwen (hierna te noemen het Comité) ingesteld, dat op het tijdstip van inwerkingtreding van dit Verdrag zal bestaan uit 18, en na de bekrachtiging hiervan of de toetreding hiertoe door de vijfendertigste Staat die partij is bij dit Verdrag, uit 23 deskundigen van hoog zedelijk aanzien en uitzonderlijke bekwaamheid op het terrein dat door dit Verdrag wordt bestreken. De deskundigen worden door de Staten die partij zijn bij dit Verdrag, gekozen uit hun onderdanen en hebben zitting in hun persoonlijke hoedanigheid, waarbij rekening wordt gehouden met een billijke geografische verdeling en met de vertegenwoordiging van de verschillende beschavingsvormen en de belangrijkste rechtstelsels.
+2. De leden van het Comité worden bij geheime stemming gekozen uit een lijst van door de Staten die partij zijn bij dit Verdrag, voorgedragen personen. Iedere Staat die partij is bij dit Verdrag, kan uit zijn eigen onderdanen één persoon voordragen.
 3. De eerste verkiezing wordt gehouden zes maanden na de datum van inwerkingtreding van dit Verdrag. De Secretaris-Generaal van de Verenigde Naties zendt ten minste drie maanden voor de datum van iedere verkiezing de Staten die partij zijn bij dit Verdrag een brief waarin hun wordt verzocht binnen twee maanden een voordracht te doen. De Secretaris-Generaal stelt een alfabetische lijst op van alle aldus voorgedragen personen, onder vermelding van de Staten die hen hebben voorgedragen, en legt deze voor aan de Staten die partij zijn bij dit Verdrag.
-4. Verkiezing van de leden van de Commissie heeft plaats op een door de Secretaris-Generaal op de zetel van de Verenigde Staten te beleggen vergadering van de Staten die partij zijn bij dit Verdrag. Op die vergadering, waarvoor twee derde van het aantal Staten die partij zijn bij dit Verdrag een quorum vormen, zijn die voorgedragen personen in de Commissie gekozen, die het grootste aantal stemmen op zich verenigen en die een volstrekte meerderheid verkrijgen van de stemmen van de aanwezige, hun stem uitbrengende vertegenwoordigers van de Staten die partij zijn bij dit Verdrag.
-5. De leden van de Commissie worden gekozen voor een tijdvak van vier jaar. De ambtstermijn van negen van de bij de eerste verkiezing gekozen leden loopt evenwel na twee jaar af; onmiddellijk na de eerste verkiezing worden deze negen leden bij loting aangewezen door de voorzitter van de Commissie.
-6. Verkiezing van de vijf extra leden van de Commissie heeft plaats overeenkomstig het bepaalde in het tweede, derde en vierde lid van dit artikel na de vijfendertigste bekrachtiging of toetreding. De ambstermijn van twee van de bij die gelegenheid gekozen extra leden loopt na twee jaar af; deze beide leden worden bij loting aangewezen door de voorzitter van de Commissie.
-7. Om te voorzien in tussentijds ontstane vacatures benoemt de Staat die Partij is bij dit Verdrag en wiens deskundige niet langer optreedt als lid van de Commissie uit zijn onderdanen een andere deskundige, onder voorbehoud van de goedkeuring van de Commissie.
-8. De leden van de Commissie ontvangen, met goedkeuring van de Algemene Vergadering, uit de middelen van de Verenigde Naties emolumenten op door de Algemene Vergadering vast te stellen voorwaarden waarbij rekening wordt gehouden met de belangrijkheid van de taken van de Commissie.
-9. De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de andere voorzieningen, benodigd voor een doelmatige uitoefening van de taken van de Commissie krachtens dit Verdrag.
+4. Verkiezing van de leden van het Comité heeft plaats op een door de Secretaris-Generaal op de zetel van de Verenigde Naties te beleggen vergadering van de Staten die partij zijn bij dit Verdrag. Op die vergadering, waarvoor twee derde van het aantal Staten die partij zijn bij dit Verdrag een quorum vormen, zijn die voorgedragen personen in het Comité gekozen, die het grootste aantal stemmen op zich verenigen en die een volstrekte meerderheid verkrijgen van de stemmen van de aanwezige, hun stem uitbrengende vertegenwoordigers van de Staten die partij zijn bij dit Verdrag.
+5. De leden van het Comité worden gekozen voor een tijdvak van vier jaar. De ambtstermijn van negen van de bij de eerste verkiezing gekozen leden loopt evenwel na twee jaar af; onmiddellijk na de eerste verkiezing worden deze negen leden bij loting aangewezen door de voorzitter van het Comité.
+6. Verkiezing van de vijf extra leden van het Comité heeft plaats overeenkomstig het bepaalde in het tweede, derde en vierde lid van dit artikel na de vijfendertigste bekrachtiging of toetreding. De ambstermijn van twee van de bij die gelegenheid gekozen extra leden loopt na twee jaar af; deze beide leden worden bij loting aangewezen door de voorzitter van het Comité.
+7. Om te voorzien in tussentijds ontstane vacatures benoemt de Staat die Partij is bij dit Verdrag en wiens deskundige niet langer optreedt als lid van het Comité uit zijn onderdanen een andere deskundige, onder voorbehoud van de goedkeuring van het Comité.
+8. De leden van het Comité ontvangen, met goedkeuring van de Algemene Vergadering, uit de middelen van de Verenigde Naties emolumenten op door de Algemene Vergadering vast te stellen voorwaarden waarbij rekening wordt gehouden met de belangrijkheid van de taken van het Comité.
+9. De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de andere voorzieningen, benodigd voor een doelmatige uitoefening van de taken van het Comité krachtens dit Verdrag.
 
 ### Artikel  18  
 
-1. De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich aan de Secretaris-Generaal van de Verenigde Naties ter bestudering door de Commissie, een verslag over te leggen betreffende de wetgevende, rechterlijke, bestuurlijke of andere maatregelen die zij hebben genomen ter uitvoering van de bepalingen van dit Verdrag en met betrekking tot de in dit opzicht geboekte vooruitgang:
+1. De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich aan de Secretaris-Generaal van de Verenigde Naties ter bestudering door het Comité, een verslag over te leggen betreffende de wetgevende, rechterlijke, bestuurlijke of andere maatregelen die zij hebben genomen ter uitvoering van de bepalingen van dit Verdrag en met betrekking tot de in dit opzicht geboekte vooruitgang:
 
 (a)binnen een jaar na de inwerkingtreding voor de desbetreffende Staat;
 
-(b)vervolgens ten minste eenmaal in de vier jaar en voorts telkens wanneer de Commissie dit verzoekt.
+(b)vervolgens ten minste eenmaal in de vier jaar en voorts telkens wanneer het Comité dit verzoekt.
 2. In de verslagen kunnen de factoren en moeilijkheden worden vermeld, die van invloed zijn op de mate waarin aan de in dit Verdrag vervatte verplichtingen wordt voldaan.
 
 ### Artikel  19  
 
-1. De Commissie stelt haar eigen huishoudelijk reglement vast.
-2. De Commissie kiest haar functionarissen voor een tijdvak van twee jaar.
+1. Het Comité stelt zijn eigen huishoudelijk reglement vast.
+2. Het Comité kiest zijn functionarissen voor een tijdvak van twee jaar.
 
 ### Artikel  20  
 
-1. De Commissie komt in de regel bijeen gedurende een periode van ten hoogste twee weken per jaar ten einde de overeenkomstig artikel 18 van dit Verdrag overgelegde verslagen te bestuderen.
-2. De vergaderingen van de Commissie worden in de regel gehouden op de zetel van de Verenigde Naties of op een andere passende, door de Commissie te bepalen plaats.
+1. Het Comité komt in de regel bijeen gedurende een periode van ten hoogste twee weken per jaar ten einde de overeenkomstig artikel 18 van dit Verdrag overgelegde verslagen te bestuderen.
+2. De vergaderingen van het Comité worden in de regel gehouden op de zetel van de Verenigde Naties of op een andere passende, door het Comité te bepalen plaats.
 
 ### Artikel  21  
 
-1. De Commissie brengt door tussenkomst van de Economische en Sociale Raad jaarlijks aan de Algemene Vergadering van de Verenigde Naties verslag uit omtrent haar werkzaamheden en kan voorstellen en algemene aanbevelingen doen, gebaseerd op de bestudering van de verslagen en de inlichtingen die zij heeft ontvangen van de Staten die partij zijn bij dit Verdrag. Zodanige voorstellen en algemene aanbevelingen worden opgenomen in het verslag van de Commissie, te zamen met de eventuele commentaren van de Staten die partij zijn bij dit Verdrag.
-2. De Secretaris-Generaal zendt de verslagen van de Commissie ter informatie door aan de Commissie inzake de rechtspositie van de vrouw.
+1. Het Comité brengt door tussenkomst van de Economische en Sociale Raad jaarlijks aan de Algemene Vergadering van de Verenigde Naties verslag uit omtrent zijn werkzaamheden en kan voorstellen en algemene aanbevelingen doen, gebaseerd op de bestudering van de verslagen en de inlichtingen die het heeft ontvangen van de Staten die partij zijn bij dit Verdrag. Zodanige voorstellen en algemene aanbevelingen worden opgenomen in het verslag van het Comité, te zamen met de eventuele commentaren van de Staten die partij zijn bij dit Verdrag.
+2. De Secretaris-Generaal zendt de verslagen van het Comité ter informatie door aan het Comité inzake de rechtspositie van de vrouw.
 
 ### Artikel  22  
 
-De gespecialiseerde organisaties hebben het recht vertegenwoordigd te zijn tijdens de bestudering van de uitvoering van die bepalingen van dit Verdrag die binnen het kader van hun werkzaamheden liggen. De Commissie kan de gespecialiseerde organisaties uitnodigen verslagen over te leggen omtrent de uitvoering van het Verdrag op de gebieden die binnen het kader van hun werkzaamheden liggen.
+De gespecialiseerde organisaties hebben het recht vertegenwoordigd te zijn tijdens de bestudering van de uitvoering van die bepalingen van dit Verdrag die binnen het kader van hun werkzaamheden liggen. Het Comité kan de gespecialiseerde organisaties uitnodigen verslagen over te leggen omtrent de uitvoering van het Verdrag op de gebieden die binnen het kader van hun werkzaamheden liggen.
 
 ### DEEL  VI  
 
@@ -509,7 +509,7 @@ Geen enkele bepaling van dit Verdrag maakt inbreuk op bepalingen die in sterkere
 
 (a)in de wetgeving van een Staat die partij is bij dit Verdrag; of
 
-(b)in enig ander internationaal verdrag, dat of in enige andere internationale overeenkomst die voor die Staat van kracht is.
+(b)in enig ander internationaal verdrag dat of in enige andere internationale overeenkomst die voor die Staat van kracht is.
 
 ### Artikel  24  
 
@@ -524,7 +524,7 @@ De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich, op nat
 
 ### Artikel  26  
 
-1. Iedere Staat kan te allen tijde een verzoek tot herziening van dit Verdrag indienen door middel van een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties.
+1. Iedere Staat die partij is bij dit Verdrag kan te allen tijde een verzoek tot herziening van dit Verdrag indienen door middel van een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties.
 2. De Algemene Vergadering van de Verenigde Naties beslist welke stappen eventueel dienen te worden genomen naar aanleiding van een zodanig verzoek.
 
 ### Artikel  27  

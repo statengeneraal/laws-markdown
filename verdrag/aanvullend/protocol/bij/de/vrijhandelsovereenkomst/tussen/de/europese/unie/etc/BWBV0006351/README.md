@@ -37,7 +37,7 @@ Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, en
 ### Artikel  4  
 Wordt voorlopig toegepast per 01-07-2013 
 
-1.   De bepalingen van de overeenkomst kunnen worden toegepast op goederen die van Korea naar Kroatië of van Kroatië naar Korea worden uitgevoerd, wanneer die goederen voldoen aan de bepalingen van het [protocol betreffende oorsprongsregels bij de overeenkomst](../../../../../../../../../../../../verdrag/vrijhandelsovereenkomst/tussen/de/europese/unie/en/haar/lidstaten/etc/BWBV0005188/README.md) , en op 1 juli 2013 ofwel onderweg waren of in tijdelijke opslag waren in een douane-entrepot of in een vrije zone in Korea of Kroatië.    
+1.   De bepalingen van de overeenkomst kunnen worden toegepast op goederen die van Korea naar Kroatië of van Kroatië naar Korea worden uitgevoerd, wanneer die goederen voldoen aan de bepalingen van het [protocol betreffende oorsprongsregels bij de overeenkomst](../../../../../../../../../../../../verdrag/vrijhandelsovereenkomst/tussen/de/europese/unie/en/haar/lidstaten/etc/BWBV0005188/README.md), en op 1 juli 2013 ofwel onderweg waren of in tijdelijke opslag waren in een douane-entrepot of in een vrije zone in Korea of Kroatië.    
 2.  In dergelijke gevallen wordt preferentiële behandeling verleend, mits binnen twaalf maanden na 1 juli 2013 bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven.  
 
 ### AFDELING  III  
