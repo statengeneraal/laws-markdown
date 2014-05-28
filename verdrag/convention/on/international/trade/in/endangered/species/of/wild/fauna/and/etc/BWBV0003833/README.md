@@ -2199,7 +2199,7 @@ b) nationale, niet van overheidswege ingestelde instanties of instellingen, die 
 
 ####Het Secretariaat
 
-1.  Bij de inwerkingtreding van dit Verdrag voorziet de algemeen directeur van het Milieuprogrmma van de Verenigde Naties in een Secretariaat. Voor zover hij dit nodig acht, kan hij terzijde worden gestaan door internationale of nationale, hiertoe geschikte wel of niet van overheidswege ingestelde bevoegde en op het gebied van bescherming, behoud en beheer van wilde dier- en plantesoorten technisch gekwalificeerde instanties.   
+1.  Bij de inwerkingtreding van dit Verdrag voorziet de algemeen directeur van het Milieuprogramma van de Verenigde Naties in een Secretariaat. Voor zover hij dit nodig acht, kan hij terzijde worden gestaan door internationale of nationale, hiertoe geschikte wel of niet van overheidswege ingestelde bevoegde en op het gebied van bescherming, behoud en beheer van wilde dier- en plantesoorten technisch gekwalificeerde instanties.   
 2.  Het Secretariaat heeft de volgende taken: 
 
 a) het organiseren van de conferenties der Partijen en het verlenen van de daarbij behorende diensten;  
@@ -2325,7 +2325,7 @@ Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van 
 
 1.Deze Overeenkomst staat open voor toetreding door organisaties voor regionale economische integratie, opgericht door soevereine Staten, die bevoegd zijn met betrekking tot het onderhandelen overen het sluiten en het ten uitvoer leggen van internationale overeenkomsten betreffende aangelegenheden aan hen overgedragen door hun Lid-Staten en vallend onder deze Overeenkomst.
 
-2.In hun akten van toetreding geven deze organisaties de reikwijdte aan van hun bevoegdheid met betrekking tot de door de Overeenkomst geregelde aangelegenheden. Deze organisaties stellen ook de depotRegering in kennis van alle belangrijke wijzigingen in de reikwijdte van hun bevoegdheid. Kennisgevingen van organisaties voor regionale economische integratie betreffende hun bevoegdheid met betrekking tot aangelegenheden, geregeld door deze Overeenkomst, en wijzigingen in deze bevoegdheid, worden door de depot-Regering toegezonden aan de Partijen.
+2.In hun akten van toetreding geven deze organisaties de reikwijdte aan van hun bevoegdheid met betrekking tot de door de Overeenkomst geregelde aangelegenheden. Deze organisaties stellen ook de depot-Regering in kennis van alle belangrijke wijzigingen in de reikwijdte van hun bevoegdheid. Kennisgevingen van organisaties voor regionale economische integratie betreffende hun bevoegdheid met betrekking tot aangelegenheden, geregeld door deze Overeenkomst, en wijzigingen in deze bevoegdheid, worden door de depot-Regering toegezonden aan de Partijen.
 
 3.In binnen hun bevoegdheid vallende aangelegenheden oefenen deze organisaties voor regionale economische integratie de rechten uit en vervullen zij de verplichtingen die deze Overeenkomst toekent respectievelijk oplegt aan hun Lid-Staten die Partij bij de Overeenkomst zijn. In zulke gevallen zijn de Lid-Staten van de organisaties niet gerechtigd zulke rechten afzonderlijk uit te oefenen.
 

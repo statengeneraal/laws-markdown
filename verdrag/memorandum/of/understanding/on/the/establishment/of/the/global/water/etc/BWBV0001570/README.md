@@ -4,15 +4,11 @@
 
 ####Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Preamble The Parties signatory hereto, Noting that the Global Water Partnership Network is a Network without legal personality which links interested Partners from the public sector, the private sector, and civil society concerned with water affairs around the world, Wishing to support and work with the Network in its fulfilment of its objective while retaining the flexible and pragmatic character of the operation of the Network, Having been invited to form an organisation for the purpose of supporting the Network, Have agreed as follows:     
 
 ### Article  I  
 
 ####Establishment
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The Parties to this Agreement hereby establish the Global Water Partnership Organisation as an Intergovernmental Organisation.   
 2.   The Parties hereby accept the Statutes for the Global Water Partnership Network and the Global Water Partnership Organisation. These Statutes are attached as Annex 1 to this Agreement and form an integral part of this Agreement.   
@@ -22,15 +18,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Withdrawal
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 A Party to this Agreement may withdraw from it, thereby also withdrawing from membership of the Organisation. Such withdrawal shall become effective three months after the date on which this has been notified to the Depositary referred to in Article 20 of the Statutes. Upon withdrawal such Party shall cease to be a Sponsoring Partner of the Organisation. 
 
 ### Article  III  
 
 ####Accession
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 A State or an Intergovernmental Organisation may at any time notify the Depositary of its request to accede to this Agreement. If the request is approved by a Meeting of the Sponsoring Partners held in accordance with the Statutes, the Agreement will enter into force for that State or Intergovernmental Organisation thirty days after the date of the deposit of its instrument of accession. 
 
@@ -38,31 +30,23 @@ A State or an Intergovernmental Organisation may at any time notify the Deposita
 
 ####Amendments
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Any amendment to the Statutes for the Global Water Partnership Network and the Global Water Partnership Organisation shall be adopted in accordance with the procedure provided for in Article 17 of the Statutes. Provided that the amendment has been adopted by the Network Meeting, it shall enter into force one year after the decision of the Meeting of the Sponsoring Partners to adopt the amendment, unless one third of the Sponsoring Partners within nine months of the said decision notify the Depositary of their objection to the amendment. The Depositary shall inform the Partners and the Sponsoring Partners of the date of entry into force of the amendment or of the fact that the amendment will not enter into force, as may be the case. 
 
 ### Article  V  
 
 ####Entry into force
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   This Agreement shall be open for signature by the States and Intergovernmental Organisation listed in Annex 2, having been invited by the Swedish Government, in consultation with the presiding Chair of the Global Water Partnership Network, to sign this Agreement, until 31 March 2002.   
 2.   This Agreement shall enter into force on the day upon which at least three signatories as referred to in paragraph 1 of this Article, including two States, have provided the Depositary with notification that the formalities required by their national legislation or their governing statutes have been completed.   
 3.   After the entry into force of this Agreement, any State and Intergovernmental Organisation, referred to in paragraph 1, shall become a Party to it immediately after receipt by the Depositary of notification that the formalities required by their national legislation or their governing statutes have been completed.  
 
-IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed a copy of this Agreement in the English language, which shall be deposited with the Depositary, who shall send certified copies thereof to all signatories. This Agreement has been opened for signature in Stockholm on 9 December 2001.  
+IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed a copy of this Agreement in the English language, which shall be deposited with the Depositary, who shall send certified copies thereof to all signatories. This Agreement has been opened for signature in Stockholm on 21 March 2002.  
 
 ####Statutes for the Global Water Partnership Network and the Global Water Partnership Organisation 
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### Article  1  
 
 ####Legal status
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   These Statutes regulate the functions and organisation of the Global Water Partnership Network (the Network) and of the Global Water Partnership Organisation (the Organisation), and the relation between the two.   
 2.   The Network does not have legal personality.   
@@ -71,8 +55,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  2  
 
 ####Objectives
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The objective of the Network is to develop and promote the principles of integrated water resources management and to that end: 
 
@@ -88,8 +70,6 @@ d) Strengthen mechanisms for sharing information and experience.
 ### Article  3  
 
 ####Partners of the Network
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Any entity, except individuals, may become a Partner of the Network. Partners of the Network may include States, national, regional and local Governmental Institutions, Intergovernmental Organisations, international and national Non-Governmental Organisations, Academic Institutions and Research Institutions, Companies, and service providers in the public sector.    
 2.   Any entity of the character referred to in paragraph 1 of this Article, which recognises the principles of integrated water resources management endorsed by the Network and is committed to implement these principles, may become a Partner of the Network, subject to a decision by the Executive Secretary.   
@@ -115,8 +95,6 @@ c) Give advice and professional contributions to the Network, the Organisation a
 
 ####Sponsoring Partners of the Organisation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Members of the Organisation are called Sponsoring Partners.   
 2.   States and Intergovernmental Organisations, which are Partners of the Network and which have been invited to sign the Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation, and have become Parties to that agreement in accordance with Article I thereof, are original Sponsoring Partners.   
 3.   Other States and Intergovernmental Organisations may become Sponsoring Partners, subject to a decision by the Annual Meeting of the Sponsoring Partners and after accession to the Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation. Such membership is open to: 
@@ -130,17 +108,13 @@ b) Other Intergovernmental Organisations, which are Partners of the Network, hav
 
 ####General provision on organic structure
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   The Network is a network of interested Partners, from the public sector, the private sector, and civil society, concerned with water affairs around the world. The Network operates through co-operation with Partners and through the Network Meeting and any groups and committees established by it. It further operates through relations with accredited Regional Water Partnerships, Regional Technical Committees and Country Water Partnerships, and other separate co-operating entities that have been given a role in the Network in accordance with these Statutes.   
 2.   The Organisation consists of the Meeting of the Sponsoring Partners, the Chair, the Steering Committee, the Nomination Committee, the Executive Secretary, the Secretariat and such other organs that the Steering Committee may decide to establish in accordance with these Statutes.   
-3.   The Network and its operations are managed by the Chair, the Executive Committee and other organs of the Organisation as well as by the Network Meeting, as provided for in these Statutes. Other entities operating wit or within the Network are not parts of the Organisation.  
+3.   The Network and its operations are managed by the Chair, the Executive Committee and other organs of the Organisation as well as by the Network Meeting, as provided for in these Statutes. Other entities operating with or within the Network are not parts of the Organisation.  
 
 ### Article  6  
 
 ####The Global Water Partnership Chair
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The Global Water Partnership Chair (the Chair) is the head and spokesperson for the Network as well as the Organisation. The Chair represents the Network and the Organisation in all forums, and chairs the Network Meeting and the meetings of the Steering Committee.   
 2.   The Chair shall be appointed by the Annual Meeting of the Sponsoring Partners for a period that shall not exceed three years, which may be subject to renewal.   
@@ -149,8 +123,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  7  
 
 ####The Steering Committee
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The executive body of the Organisation is the Steering Committee. The Steering Committee develops, steers and organises the work of the Organisation and guides the co-operation between the Partners within the Network. The Steering Committee shall facilitate for the Network to attain its objective and shall implement the strategic directions and policies adopted by the Network Meeting.    
 2.   The Steering Committee shall consist of a minimum of eleven and a maximum of twenty-one members, as decided by the Meeting of the Sponsoring Partners. The Steering Committee shall include, as ex officio members, the Chair, the Executive Secretary, one representative of the United Nations Sub-Committee on Water Resources, one member representing all Regional Water Partnerships and Regional Technical Committees, and the Chair of the Technical Committee.   
@@ -193,14 +165,12 @@ o) Present a yearly activity report to the Partners and the Sponsoring Partners;
 p) Present a yearly financial statement to the Partners for information and to the Sponsoring Partners for approval at the Meeting of Sponsoring Partners;  
 
 q) Comment on and distribute the audit report or reports to the Partners and to the Meeting of Sponsoring Partners.     
-8.   Decisions of the Steering Committee shall be taken by simple majority. Decisions require the presence of at least half of the members plus one, when taken at a meeting, and require participation of three-quarters of the members when taken through distant communication.   
+8.   Decisions of the Steering Committee shall be taken by simple majority. Decisions require the presence of at least half of its members plus one, when taken at a meeting, and require participation of three-quarters of the members when taken through distant communication.   
 9.   Decisions of the Steering Committee shall be based on available financial and human resources within the Organisation and shall take into consideration the need to safeguard the efficient use of these resources.  
 
 ### Article  8  
 
 ####The Nomination Committee
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The Nomination Committee shall consist of five or seven members, as decided by the Steering Committee.   
 2.   The members of the Nomination Committee shall be appointed by the Steering Committee for a period that shall not exceed three years, which may be subject to renewal one time. The terms of the first members shall be staggered in order to establish gradual rotation of membership.   
@@ -222,8 +192,6 @@ d) Nominate representatives of the Partners as Internal Auditors, if so requeste
 
 ####The Network Meeting
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   The Partners shall hold an Annual Network Meeting on the convocation of the Steering Committee, unless otherwise decided. An extraordinary Network Meeting shall be convened: 
 
 a) When the Steering Committee finds it necessary;  
@@ -243,8 +211,6 @@ d) Consider and decide on the expulsion of Partners from the Network, after reco
 ### Article  10  
 
 ####The Meeting of the Sponsoring Partners
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The Sponsoring Partners shall hold an Annual Meeting as notified by the Steering Committee. An extraordinary meeting of the Sponsoring Partners shall be held:  
 
@@ -285,8 +251,6 @@ b) Take into consideration the member's capacity to take active part in the work
 
 ####The Executive Secretary and the Secretariat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   The Executive Secretary is the chief executive officer of the Organisation and the head of the Secretariat. The Executive Secretary shall serve as the secretary of the Steering Committee and shall report to and be responsible to the Steering Committee for the activities of the Secretariat.   
 2.   The Executive Secretary shall be appointed by the Steering Committee for a period that shall not exceed five years, which may be subject to renewal.   
 3.   The Executive Secretary shall: 
@@ -311,15 +275,11 @@ h) Make an oral presentation at the Annual Network Meeting of the yearly activit
 
 ####Location
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Secretariat of the Organisation shall be located in Stockholm.  
 
 ### Article  13  
 
 ####Privileges and immunities
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 The Organisation and its staff shall enjoy such privileges and immunities in the Host State as shall be stipulated in the Headquarters Agreement referred to in Article 1, paragraph 3. 
 
@@ -327,16 +287,12 @@ The Organisation and its staff shall enjoy such privileges and immunities in the
 
 ####Finance
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   The operation of the Organisation shall be financed by voluntary contributions and donations from governments and others. Other sources of financing may be sought by the Steering Committee provided that they are compatible with the objectives of the Network and the Organisation.   
 2.   The Partners and the Sponsoring Partners shall not be required to provide financial support to the Network or to the Organisation beyond voluntary contributions.  
 
 ### Article  15  
 
 ####External auditor
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   A full audit of the financial management and transactions of the Organisation shall be conducted on an annual basis.   
 2.   The audit shall be conducted by External Auditors from an independent international accounting firm appointed by the Meeting of the Sponsoring Partners. The External Auditor shall be appointed for a period of one year, which shall be subject to automatic renewal, unless the Meeting of the Sponsoring Partners decided otherwise.   
@@ -346,16 +302,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Dissolution
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   The Network may be dissolved by a four-fifths majority vote of the Partners. A decision to dissolve the Network may be taken through distant communication.   
 2.   The Steering Committee shall, within a year after the decision to dissolve the Network, invite the Sponsoring Partners to an extraordinary meeting where it shall present a proposal for the dissolution or remodelling of the Organisation, including such financial dispositions that are in conformity with the objective of the Network according to these Statutes and that have been approved by the financial contributors of the Organisation.  
 
 ### Article  17  
 
 ####Amendments
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Any amendment to these Statutes may be adopted by a two-thirds majority vote of the Network Meeting and an unanimous decision of the Meeting of the Sponsoring Partners preceding or subsequent to the said Network Meeting. A proposal for an amendment shall be circulated to the Partners and Sponsoring Partners four weeks in advance of the respective meeting.   
 2.   Any amendment adopted in accordance with the preceding paragraph shall enter into force in accordance with Article IV of the Memorandum of Understanding referred to under paragraph 2 of Article 19.  
@@ -364,16 +316,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Withdrawal
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Any Partner may withdraw from the Network. Such withdrawal shall become effective upon the written notification to the Executive Secretary.   
 2.   Any Sponsoring Partner may withdraw from the Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation on the terms established in Article II of that agreement.  
 
 ### Article  19  
 
 ####Entry into force
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   The proposal to create the Organisation under the mandate set out in these Statutes has been endorsed and the content of these Statutes has been approved by the Partners of the Network at their meeting in Stockholm on 14–16 August 2001.   
 2.   These Statutes have been accepted in a Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation by Partners invited to become original Sponsoring Partners of the Organisation.   
@@ -383,27 +331,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Depositary
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Executive Secretary shall be the depositary of these Statutes and the Memorandum of Understanding on the Establishment of the Global Water Partnership Organisation. The Depositary shall communicate all notifications relating to the Statutes and the Memorandum of Understanding to all Parties to the Memorandum of Understanding. The Depositary shall also present a summary of these notifications to the Network Meeting. 
 
 ####List of invited States and Intergovernmental Organisations to become original Sponsoring Partners of the Global Water Partnership Organisation 
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The following States and Intergovernmental Organisations have been invited by the Swedish Government, in consultation with the presiding Chair of the Global Water Partnership Network, to become original Sponsoring Partners of the Global Water Partnership Organisation: Argentina Brazil Chile Denmark France Germany Hungary India Japan Jordan The Netherlands Pakistan South Africa Spain The United Kingdom The World Bank The World Meteorological Organization 
 
 ####Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Preambule De ondertekenende Partijen hierbij, Erop wijzende dat het Netwerk Mondiaal Samenwerkingsverband Water een Netwerk is zonder rechtspersoonlijkheid, dat belanghebbende partners uit de overheidssector, de particuliere sector en de civiele samenleving verenigt die betrokken zijn bij waterzaken overal ter wereld;  Geleid door de wens het Netwerk te steunen en daarmee samen te werken bij de verwezenlijking van zijn doelstelling met handhaving van het soepele en pragmatische karakter van de wijze van functioneren van het Netwerk; Ertoe aangezocht een organisatie op te zetten om het Netwerk te steunen; Zijn het volgende overeengekomen:    
 
 ### Artikel  I  
 
 ####Oprichting
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   De Partijen bij dit Memorandum richten hierbij de Organisatie Mondiaal Samenwerkingsverband Water op in de vorm van een intergouvernementele organisatie.   
 2.   De Partijen hierbij aanvaarden de Statuten voor het Netwerk Mondiaal Samenwerkingsverband Water en de Organisatie Mondiaal Samenwerkingsverband Water. Deze Statuten zijn als Bijlage I aan dit Memorandum gehecht en vormen een integrerend deel van dit Memorandum.   
@@ -413,15 +353,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uittreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een Partij bij dit Memorandum kan hieruit uittreden, en treedt daarbij tevens uit als lid van de Organisatie. Deze uittreding wordt van kracht drie maanden na de datum waarop hiervan is kennis gegeven aan de Depositaris bedoeld in artikel 20 van de Statuten. Na uittreding is deze Partij niet langer een Bijdragende Partner van de Organisatie. 
 
 ### Artikel  III  
 
 ####Toetreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een Staat of een intergouvernementele organisatie kan te allen tijde de Depositaris in kennis stellen van zijn verzoek tot toetreding tot dit Memorandum. Indien het verzoek wordt ingewilligd door een overeenkomstig de Statuten gehouden Vergadering van Bijdragende Partners, treedt het Memorandum voor die Staat of intergouvernementele organisatie dertig dagen na de datum van nederlegging van haar akte van toetreding in werking.  
 
@@ -429,31 +365,23 @@ Een Staat of een intergouvernementele organisatie kan te allen tijde de Deposita
 
 ####Wijzigingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigingen van de Statuten voor het Netwerk Mondiaal Samenwerkingsverband Water en de Organisatie Mondiaal Samenwerkingsverband Water worden aangenomen in overeenstemming met de procedure zoals bepaald in artikel 17 van de Statuten. Mits de wijziging is aangenomen door de Netwerkvergadering, treedt die een jaar na het besluit van de Vergadering van Bijdragende Partners om de wijziging aan te nemen, in werking, tenzij eenderde van de Bijdragende Partners binnen negen maanden na genoemd besluit de Depositaris in kennis stelt van hun bezwaar tegen de wijziging. De Depositaris stelt de Partners en de Bijdragende Partners in kennis van de datum van vankrachtwording van de wijziging of, in voorkomend geval, van het feit dat de wijziging niet van kracht zal worden. 
 
 ### Artikel  V  
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Dit Memorandum staat tot en met 31 maart 2002 open voor ondertekening voor de Staten en intergouvernementele organisaties opgenoemd in bijlage 2, die door de Zweedse Regering, in overleg met de fungerend Voorzitter van het Netwerk Mondiaal Samenwerkingsverband Water, zijn aangezocht om dit Memorandum te ondertekenen.   
 2.   Dit Memorandum treedt in werking op de dag waarop ten minste drie ondertekenaars zoals bedoeld in het eerste lid van dit artikel, waaronder twee Staten, de Depositaris ervan in kennis hebben gesteld dat de door hun nationale wetgeving of voor hen geldende statuten vereiste formaliteiten zijn vervuld.   
 3.   Na de inwerkingtreding van dit Memorandum wordt een Staat of intergouvernementele organisatie zoals bedoeld in het eerste lid, Partij bij dit Memorandum onmiddellijk nadat de Depositaris de kennisgeving heeft ontvangen dat de door hun nationale wetgeving of voor hen geldende grondwettelijk vereiste formaliteiten zijn vervuld.  
 
-TEN BLIJKE WAARVAN de ondergetekenden, hiertoe naar behoren gemachtigd, een exemplaar van dit Memorandum in de Engelse taal hebben ondertekend, dat zal worden nedergelegd bij de Depositaris, die gewaarmerkte afschriften ervan aan alle ondertekenaars zal zenden. Dit Memorandum is op 9 december 2001 in Stockholm opengesteld voor ondertekening.  
+TEN BLIJKE WAARVAN de ondergetekenden, hiertoe naar behoren gemachtigd, een exemplaar van dit Memorandum in de Engelse taal hebben ondertekend, dat zal worden nedergelegd bij de Depositaris, die gewaarmerkte afschriften ervan aan alle ondertekenaars zal zenden. Dit Memorandum is op 21 maart 2002 in Stockholm opengesteld voor ondertekening.  
 
 ####Statuten voor het Netwerk Mondiaal Samenwerkingsverband Water en de Organisatie Mondiaal Samenwerkingsverband Water 
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### Artikel  1  
 
 ####Juridische status
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Deze Statuten regelen de taken en organisatie van het Netwerk Mondiaal Samenwerkingsverband Water (het Netwerk) en van de Organisatie Mondiaal Samenwerkingsverband Water (de Organisatie), en de relatie tussen beide.   
 2.   Het Netwerk heeft geen rechtspersoonlijkheid.   
@@ -462,8 +390,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2  
 
 ####Doelstellingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   De doelstelling van het Netwerk is de principes van het integrale beheer van zoetwatervoorraden te ontwikkelen en te promoten en daartoe: 
 
@@ -479,8 +405,6 @@ d. de methoden voor de uitwisseling van informatie en ervaring te versterken.
 ### Artikel  3  
 
 ####Partners van het Netwerk
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Alle entiteiten, met uitzondering van natuurlijke personen, kunnen Partner van het Netwerk worden. Tot Partners van het Netwerk kunnen behoren Staten, nationale, regionale en lokale overheidsinstellingen, intergouvernementele organisaties, internationale en nationale niet-gouvernementele organisaties, academische instellingen en instellingen voor wetenschappelijk onderzoek, bedrijven en leveranciers van diensten in de overheidssector.   
 2.   Alle entiteiten met de hoedanigheid bedoeld in het eerste lid van dit artikel, die de door het Netwerk onderschreven principes van integraal beheer van de zoetwatervoorraden erkennen en zich ertoe verbinden deze principes ten uitvoer te leggen, kunnen Partner van het Netwerk worden, onder voorbehoud van een beslissing van de Uitvoerend Secretaris.   
@@ -506,8 +430,6 @@ c. geeft advies en levert vakkundige bijdragen aan het Netwerk, de Organisatie e
 
 ####Bijdragende Partners van de Organisatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De Leden van de Organisatie worden Bijdragende Partners genoemd.   
 2.   De Staten en intergouvernementele organisaties die Partners van het Netwerk zijn en die aangezocht zijn het Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water te ondertekenen, en die Partij bij dat Memorandum zijn geworden overeenkomstig artikel 1 daarvan, zijn oorspronkelijke Bijdragende Partners.   
 3.   Andere Staten en intergouvernementele organisaties kunnen Bijdragende Partners worden, onder voorbehoud van een besluit van de Jaarvergadering van Bijdragende Partners en na toetreding tot het Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water. Dit lidmaatschap staat open voor: 
@@ -521,8 +443,6 @@ b. andere intergouvernementele organisaties, die Partners zijn van het Netwerk, 
 
 ####Algemene bepaling inzake de organische structuur
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Het Netwerk is een netwerk van belanghebbende Partners uit de overheidssector, de particuliere sector en de civiele samenleving, die betrokken zijn bij waterzaken overal ter wereld. Het Netwerk functioneert door middel van samenwerking met Partners, de Netwerkvergadering en de door het Netwerk opgerichte groepen en commissies. Verder opereert het Netwerk via betrekkingen met officieel erkende Regionale Samenwerkingsverbanden Water, Regionale Technische Commissies en Landelijke Samenwerkingsverbanden Water, en andere aparte samenwerkende entiteiten waaraan een functie in het Netwerk is toegekend overeenkomstig deze Statuten.   
 2.   De Organisatie bestaat uit de Vergadering van Bijdragende Partners, de Voorzitter, de Stuurgroep, de Nominatiecommissie, de Uitvoerend Secretaris, het Secretariaat en andere organen tot oprichting waarvan de Stuurgroep kan besluiten overeenkomstig deze Statuten.   
 3.   Het bestuur over het Netwerk en de verrichtingen ervan wordt gevoerd door de Voorzitter, de Uitvoerende Commissie en andere organen van de Organisatie, alsmede door de Netwerkvergadering, zoals voorzien in deze Statuten. Andere entiteiten die met of binnen het Netwerk werkzaam zijn, maken geen deel uit van de Organisatie.  
@@ -531,8 +451,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De Voorzitter van het Mondiaal Samenwerkingsverband Water
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De Voorzitter van het Mondiaal Samenwerkingsverband Water (de Voorzitter) is hoofd en woordvoerder van het Netwerk alsmede van de Organisatie. De Voorzitter vertegenwoordigt het Netwerk en de Organisatie in alle fora en zit de Netwerkvergadering en de vergaderingen van de Stuurgroep voor.    
 2.   De Voorzitter wordt benoemd door de Jaarvergadering van Bijdragende Partners voor een periode van ten hoogste drie jaar, die eventueel verlengd kan worden.   
 3.   De Voorzitter treedt op in zijn of haar persoonlijke hoedanigheid.  
@@ -540,8 +458,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  7  
 
 ####De Stuurgroep
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Het uitvoerend lichaam van de Organisatie is de Stuurgroep. De Stuurgroep ontwikkelt, stuurt en organiseert het werk van de Organisatie en leidt de samenwerking tussen de Partners binnen het Netwerk. De Stuurgroep helpt het Netwerk zijn doelstelling te bereiken en voert de door de Netwerkvergadering aangenomen strategische koersen en beleidslijnen uit.   
 2.   De Stuurgroep bestaat uit minimaal elf en maximaal eenentwintig leden, als besloten door de vergadering van Bijdragende Partners. De Stuurgroep omvat als ex officio leden de Voorzitter, de Uitvoerend Secretaris, een vertegenwoordiger van het Subcomité zoetwatervoorraden van de Verenigde Naties, een lid dat alle Regionale Samenwerkingsverbanden Water en Regionale Technische Commissies vertegenwoordigt en de Voorzitter van de Technische Commissie.   
@@ -591,8 +507,6 @@ q. geeft toelichting bij en verstrekt het accountantsverslag of de accountantsve
 
 ####De Nominatiecommissie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De Nominatiecommissie bestaat uit vijf of zeven leden, zoals besloten wordt door de Stuurgroep.   
 2.   De leden van de Nominatiecommissie worden aangesteld door de Stuurgroep voor een periode van ten hoogste drie jaar, die eenmaal verlengd kan worden. De termijnen van de eerste leden variëren in lengte ten opzichte van elkaar, teneinde een geleidelijke wisseling van het lidmaatschap in te stellen.   
 3.   De leden van de Nominatiecommissie treden op in hun persoonlijke hoedanigheid.   
@@ -613,8 +527,6 @@ d. nomineert vertegenwoordigers van de Partners als interne accountants indien h
 
 ####De Netwerkvergadering
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De Partners houden een Jaarlijkse Netwerkvergadering op uitnodiging van de Stuurgroep, tenzij anders wordt besloten. Een buitengewone Netwerkvergadering wordt bijeengeroepen: 
 
 a. wanneer de Stuurgroep dit noodzakelijk acht;  
@@ -634,8 +546,6 @@ d. overwegen de Partners uitzetting van Partners uit het Netwerk en nemen beslui
 ### Artikel  10  
 
 ####De vergadering van Bijdragende Partners
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   De Bijdragende Partners houden een Jaarvergadering zoals aangekondigd door de Stuurgroep.  Een buitengewone vergadering van Bijdragende Partners wordt gehouden: 
 
@@ -676,8 +586,6 @@ b. beoordeelt de Vergadering van Bijdragende Partners het vermogen van de persoo
 
 ####De Uitvoerend Secretaris en het Secretariaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De Uitvoerend Secretaris heeft de hoogste uitvoerende bevoegdheid van de Organisatie en staat aan het hoofd van het Secretariaat. De Uitvoerend Secretaris treedt op als secretaris van de Stuurgroep, brengt de Stuurgroep verslag uit van de activiteiten van het Secretariaat en is hiervoor aan de Stuurgroep verantwoording verschuldigd.   
 2.   De Uitvoerend Secretaris wordt benoemd door de Stuurgroep voor een periode van ten hoogste vijf jaar, die verlengd kan worden.   
 3.   De Uitvoerend Secretaris: 
@@ -702,15 +610,11 @@ h. houdt een mondelinge presentatie van de jaarlijkse activiteiten van het Netwe
 
 ####Vestiging
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Het Secretariaat van de Organisatie wordt gevestigd in Stockholm. 
 
 ### Artikel  13  
 
 ####Voorrechten en immuniteiten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De Organisatie en haar personeelsleden genieten de voorrechten en immuniteiten in de Gaststaat zoals bepaald in de Zetelovereenkomst bedoeld in artikel 1, derde lid. 
 
@@ -718,16 +622,12 @@ De Organisatie en haar personeelsleden genieten de voorrechten en immuniteiten i
 
 ####Financiën
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   De werkzaamheden van de Organisatie worden gefinancierd door vrijwillige bijdragen en giften van regeringen en anderen. De Stuurgroep kan andere financieringsbronnen zoeken, op voorwaarde dat deze in overeenstemming zijn met de doelstellingen van het Netwerk en de Organisatie.   
 2.   Van de Partners en de Bijdragende Partners wordt niet geëist dat zij financiële steun geven aan het Netwerk noch aan de Organisatie, buiten vrijwillige bijdragen om.  
 
 ### Artikel  15  
 
 ####Externe accountant
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Op jaarbasis wordt een volledig accountantsonderzoek van het financiële beleid en de transacties van de Organisatie uitgevoerd.   
 2.   Het accountantsonderzoek wordt uitgevoerd door externe accountants van een onafhankelijk internationaal accountantskantoor, aangesteld door de Vergadering van Bijdragende Partners. De externe accountant wordt aangesteld voor een periode van een jaar, die automatisch verlengd wordt, tenzij de Vergadering van Bijdragende Partners anders besluit.   
@@ -737,16 +637,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ontbinding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Het Netwerk kan worden ontbonden door een viervijfde meerderheid van stemmen van de Partners. Een besluit om het Netwerk te ontbinden kan worden genomen met behulp van telecommunicatie.   
 2.   De Stuurgroep nodigt binnen een jaar na het besluit het Netwerk te ontbinden, de Bijdragende Partners uit voor een buitengewone vergadering waar deze een voorstel doet voor ontbinding of reorganisatie van de Organisatie, met inbegrip van financiële bepalingen die in overeenstemming zijn met de doelstelling van het Netwerk overeenkomstig deze Statuten en die zijn goedgekeurd door de financiële contribuanten van de Organisatie.  
 
 ### Artikel  17  
 
 ####Wijzigingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Wijzigingen van deze Statuten kunnen worden aangenomen bij een tweederde meerderheid van stemmen van de Netwerkvergadering en een unaniem besluit van de Vergadering van Bijdragende Partners voorafgaand aan of volgend op de genoemde Netwerkvergadering. Vier weken voor de desbetreffende Vergadering wordt een voorstel voor een wijziging aan de Partners en de Bijdragende Partners verstrekt.   
 2.   Wijzigingen die aangenomen worden overeenkomstig het voorgaande lid worden van kracht overeenkomstig artikel IV van het Memorandum van overeenstemming zoals bedoeld in het tweede lid van artikel 19.  
@@ -755,16 +651,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Uitbreiding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.   Een Partner kan uittreden uit het Netwerk. Een dergelijke uittreding wordt van kracht na schriftelijke kennisgeving aan de Uitvoerend Secretaris.   
 2.   Een Bijdragende Partner kan uittreden uit het Memorandum van overeenstemming inzake de oprichting van het Mondiaal Samenwerkingsverband Water onder de voorwaarden bepaald in artikel II van dat Memorandum.  
 
 ### Artikel  19  
 
 ####Inwerkingtreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.   Het voorstel een Organisatie op te richten onder het in deze Statuten uiteengezette mandaat, is aangenomen en de inhoud van deze Statuten is goedgekeurd door de Partners van het Netwerk op hun vergadering in Stockholm d.d. 14–16 augustus 2001.   
 2.   Deze Statuten zijn aanvaard in een Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water door Partners die aangezocht zijn om oorspronkelijke Bijdragende Partners van de Organisatie te worden.   
@@ -774,12 +666,8 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Depositaris
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Uitvoerend Secretaris is Depositaris van deze Statuten en het Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water. De Depositaris stelt alle Partijen bij het Memorandum van overeenstemming op de hoogte van alle kennisgevingen inzake de Statuten en het Memorandum van overeenstemming. De Depositaris presenteert tevens een samenvatting van deze kennisgevingen aan de Netwerkvergadering. 
 
 ####Lijst van Staten en intergouvernementele organisaties die aangezocht worden om oorspronkelijk Bijdragende Partners van de Organisatie Mondiaal Samenwerkingsverband Water te worden 
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende Staten en intergouvernementele organisaties zijn door de Zweedse Regering, in overleg met de fungerend Voorzitter van het Netwerk Mondiaal Samenwerkingsverband Water, aangezocht om oorspronkelijke Bijdragende Partners van de Organisatie Mondiaal Samenwerkingsverband Water te worden: Argentinië Brazilië Chili Denemarken Frankrijk Duitsland Hongarije India Japan Jordanië Nederland Pakistan Zuid-Afrika Spanje Het Verenigd Koninkrijk De Wereldbank De Wereld Meteorologische Organisatie 
