@@ -32,7 +32,7 @@ j.  *bandbreedte:* het frequentieverschil tussen de hoogste en de laagste freque
 
 k.  *ongewenste hoogfrequentuitstralingen:* alle hoogfrequente uitstralingen op andere frequenties dan de zendfrequentie en de frequentie in de frequentiebanden die noodzakelijkerwijs in verband met het modulatieproces in beslag worden genomen;  
 
-l. 
+l. *zendvermogen:*
 
 – bij toepassing van frequentie- of fasemodulatie: het door de direct met de antenne-inrichting te koppelen trap van de zendinrichting afgegeven gemiddelde vermogen;  
 
@@ -420,7 +420,7 @@ Ingeval van internationale communicatie gelden mede de voorschriften opgenomen i
 
 ### Artikel  27  
 
-Het is een strafbaar feit als bedoeld in artikel 35, vierde lid, van de wet om: 
+Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md) om: 
 
 a. een verbod als omschreven in artikel 12, tweede lid, te overtreden; en  
 

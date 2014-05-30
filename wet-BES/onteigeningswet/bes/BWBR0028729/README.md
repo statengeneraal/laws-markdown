@@ -14,8 +14,8 @@ In het publiek belang als in artikel 1 omschreven kan ook ten name van bijzonder
 
 ### Artikel  3  
 
-1.  Als eigenaar van een onroerende zaak, en als rechthebbende op een recht als in artikel 4, eerste lid, omschreven, worden zij beschouwd, die als zodanig in de openbare registers, bedoeld in artikel 16 van Boek 3 van het Burgerlijk Wetboek BES staan vermeld.   
-2.  Desniettemin kan een ieder die beweert eigenaar te zijn, of rechthebbende op een recht als in artikel 4, eerste lid, omschreven, en niet is opgeroepen, aan de rechter verzoeken in het geding van onteigening te mogen tussenkomen, zolang de eindconclusies door partijen niet genomen zijn. Hetzelfde recht hebben derde belanghebbenden, waaronder zijn te verstaan beperkt gerechtigden, huurders, onderhuurders, bezitters, eigenaren in geval van mandeligheid volgens artikel 60, tweede lid, van Boek 5 van het Burgerlijk Wetboek BES, schuldeisers als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek BES, en zij die op het te onteigenen goed of op een recht waaraan dat is onderworpen, beslag hebben gelegd. Deze laatsten kunnen in hun verzoek alleen worden ontvangen, indien zij daarbij een notaris of deurwaarder aanwijzen aan wie kan worden betaald.   
+1.  Als eigenaar van een onroerende zaak, en als rechthebbende op een recht als in artikel 4, eerste lid, omschreven, worden zij beschouwd, die als zodanig in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) staan vermeld.   
+2.  Desniettemin kan een ieder die beweert eigenaar te zijn, of rechthebbende op een recht als in artikel 4, eerste lid, omschreven, en niet is opgeroepen, aan de rechter verzoeken in het geding van onteigening te mogen tussenkomen, zolang de eindconclusies door partijen niet genomen zijn. Hetzelfde recht hebben derde belanghebbenden, waaronder zijn te verstaan beperkt gerechtigden, huurders, onderhuurders, bezitters, eigenaren in geval van mandeligheid volgens [artikel 60, tweede lid, van Boek 5 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/5/BWBR0028748/README.md), schuldeisers als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), en zij die op het te onteigenen goed of op een recht waaraan dat is onderworpen, beslag hebben gelegd. Deze laatsten kunnen in hun verzoek alleen worden ontvangen, indien zij daarbij een notaris of deurwaarder aanwijzen aan wie kan worden betaald.   
 3.  Bij tegenspraak der hoedanigheid van eigenaar, rechthebbende of derde belanghebbende, wordt de onteigening met de overigen voortgezet, en zal hij, die beweert gerechtigde te zijn, zijn recht alleen op de schadevergoeding kunnen uitoefenen, die in dat geval wordt geconsigneerd.  
 
 ### Artikel  4  
@@ -26,7 +26,7 @@ In het publiek belang als in artikel 1 omschreven kan ook ten name van bijzonder
 
 ### Artikel  5  
 
-De bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES zijn op het geding tot onteigening toepasselijk, voor zoveel daarvan bij deze wet niet is afgeweken. 
+De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) zijn op het geding tot onteigening toepasselijk, voor zoveel daarvan bij deze wet niet is afgeweken. 
 
 ### Artikel  5a  
 
@@ -121,9 +121,9 @@ De onteigenende partij tracht hetgeen onteigend moet worden bij minnelijke overe
 ### Artikel  18  
 
 1.  Is hetgeen onteigend moet worden niet bij minnelijke overeenkomst verkregen, dan doet de onteigenende partij de in het besluit aangewezen eigenaar voor de rechter in eerste aanleg, op een aan deze ingediend verzoekschrift oproepen, teneinde de onteigening te horen uitspreken en het bedrag der schadeloosstelling te horen bepalen. Betreft de onteigening een recht, dan wordt zij ingesteld tegen de in het besluit aangewezen rechthebbende; van deze vordering wordt kennisgenomen door de rechter in eerste aanleg.   
-2.  Bij onteigening van een onroerende zaak waarop blijkens de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek BES, een eeuwigdurende erfpacht rust, wordt ook de erfpachter opgeroepen.   
+2.  Bij onteigening van een onroerende zaak waarop blijkens de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), een eeuwigdurende erfpacht rust, wordt ook de erfpachter opgeroepen.   
 3.  De vordering tot onteigening moet op straffe van verval worden ingesteld binnen de termijn, bepaald bij de in artikel 11 bedoelde wet.   
-4.  Het verzoekschrift wordt betekend aan degenen die als houder van op het te onteigenen goed rustende hypotheken in de openbare registers bedoeld in titel 1, afdeling 2, van Boek 3 van het Burgerlijke Wetboek BES zijn ingeschreven en aan de in die registers ingeschreven beslagleggers op het te onteigenen goed.  
+4.  Het verzoekschrift wordt betekend aan degenen die als houder van op het te onteigenen goed rustende hypotheken in de openbare registers bedoeld in [titel 1, afdeling 2, van Boek 3 van het Burgerlijke Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) zijn ingeschreven en aan de in die registers ingeschreven beslagleggers op het te onteigenen goed.  
 
 ### Artikel  19  
 
@@ -203,7 +203,7 @@ Partijen kunnen aan de rechter-commissaris en de deskundigen al die stukken mede
 
 ### Artikel  30  
 
-De formaliteiten, bij het Wetboek van Burgerlijke Rechtsvordering BES voorgeschreven omtrent het getuigenverhoor en het bericht van deskundigen, zijn ten deze niet toepasselijk. 
+De formaliteiten, bij het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) voorgeschreven omtrent het getuigenverhoor en het bericht van deskundigen, zijn ten deze niet toepasselijk. 
 
 ### Artikel  31  
 
@@ -231,7 +231,7 @@ Gedurende die veertien dagen kunnen partijen en derde belanghebbenden hun bezwar
 
 1.  Na afloop dier veertien dagen brengt de rechter-commissaris in de eerstvolgende, voor de behandeling van burgerlijke zaken bestemde terechtzitting zijn rapport uit, zonder dat er enige verdere oproeping van partijen vereist wordt.   
 2.  Op dezelfde terechtzitting kunnen derde belanghebbenden optreden, en, zowel als partijen, het aangevoerde nader bij pleidooi ontwikkelen.   
-3.  Uiterlijk veertien dagen na die terechtzitting doet de rechter, indien hij geen gebruik heeft gemaakt van de bevoegdheid, in artikel 174b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES toegekend, uitspraak over de onteigening en over de schadeloosstelling, aan de eigenaars en derde belanghebbenden uit te keren.   
+3.  Uiterlijk veertien dagen na die terechtzitting doet de rechter, indien hij geen gebruik heeft gemaakt van de bevoegdheid, in [artikel 174b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) toegekend, uitspraak over de onteigening en over de schadeloosstelling, aan de eigenaars en derde belanghebbenden uit te keren.   
 4.  Van deze uitspraak is hoger beroep uiterlijk binnen veertien dagen toegelaten.  
 
 ### Artikel  36  
@@ -287,17 +287,17 @@ Voor zover de volgende artikelen niet anders meebrengen, zijn de artikelen 38 to
 
 ### Artikel  46  
 
-1.  De hypotheekhouder en de ingeschreven beslaglegger hebben geen recht op afzonderlijke schadevergoeding. Slechts indien zij zijn tussengekomen, kunnen zij zich jegens de onteigenaar beroepen op hun rechten uit artikel 229 van Boek 3 van het Burgerlijk Wetboek BES en artikel 507a van het Wetboek van Burgerlijke Rechtsvordering BES. Zij oefenen die rechten uit op het bedrag van de werkelijke waarde en de waardevermindering van het overblijvende, zoals dat bedrag toekomt aan de hypotheekgever, de beslagene en de beperkt gerechtigde, wiens recht niet tegen hen kan worden ingeroepen.   
-2.  Indien alle in het vorige lid vermelde belanghebbenden tot overeenstemming omtrent de verdeling zijn gekomen, bepaalt de rechter wat aan ieder van hen moet worden betaald. Is geen overeenstemming bereikt, dan worden de bedragen in hun geheel toegewezen aan de tussengekomen hypotheekhouder, hoogste in rang, dan wel, zo geen hypotheekhouder is tussengekomen, aan de daartoe door de eerst ingeschreven beslaglegger aangewezen notaris of deurwaarder, en vindt verdeling plaats met toepassing van de regels betreffende de verdeling van een zodanig opbrengst in het Wetboek van Burgerlijke Rechtsvordering BES.   
-3.  Een beslaglegger behoeft voor de toepassing van het vorige lid niet tussen te komen, indien hij aan de onteigenaar bij exploit meedeelt zijn rechten uit artikel 507a van het Wetboek van Burgerlijke Rechtsvordering BES te bepalen tot het deel van de in het eerste lid bedoelde bedragen, dat voor de beslagene bestemd is.  
+1.  De hypotheekhouder en de ingeschreven beslaglegger hebben geen recht op afzonderlijke schadevergoeding. Slechts indien zij zijn tussengekomen, kunnen zij zich jegens de onteigenaar beroepen op hun rechten uit [artikel 229 van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [artikel 507a van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md). Zij oefenen die rechten uit op het bedrag van de werkelijke waarde en de waardevermindering van het overblijvende, zoals dat bedrag toekomt aan de hypotheekgever, de beslagene en de beperkt gerechtigde, wiens recht niet tegen hen kan worden ingeroepen.   
+2.  Indien alle in het vorige lid vermelde belanghebbenden tot overeenstemming omtrent de verdeling zijn gekomen, bepaalt de rechter wat aan ieder van hen moet worden betaald. Is geen overeenstemming bereikt, dan worden de bedragen in hun geheel toegewezen aan de tussengekomen hypotheekhouder, hoogste in rang, dan wel, zo geen hypotheekhouder is tussengekomen, aan de daartoe door de eerst ingeschreven beslaglegger aangewezen notaris of deurwaarder, en vindt verdeling plaats met toepassing van de regels betreffende de verdeling van een zodanig opbrengst in het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+3.  Een beslaglegger behoeft voor de toepassing van het vorige lid niet tussen te komen, indien hij aan de onteigenaar bij exploit meedeelt zijn rechten uit [artikel 507a van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) te bepalen tot het deel van de in het eerste lid bedoelde bedragen, dat voor de beslagene bestemd is.  
 
 ### Artikel  47  
 
-Bij de bepaling van de schadeloosstelling wegens het vervallen van een erfdienstbaarheid of een recht als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek BES, wordt rekening gehouden met hetgeen te verwachten is omtrent de wijziging of de opheffing krachtens de artikelen 78 en 79 van Boek 5, dan wel de artikelen 258 en 259 van Boek 6 van dat wetboek en de daaraan te verbinden voorwaarden. De artikelen 41 en 42 missen in zoverre toepassing. Overigens wordt rekening gehouden met de mogelijkheid de erfdienstbaarheid of het recht als bedoeld in artikel 252 van Boek 6 van dat wetboek door een andere erfdienstbaarheid of een ander recht te vervangen. 
+Bij de bepaling van de schadeloosstelling wegens het vervallen van een erfdienstbaarheid of een recht als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), wordt rekening gehouden met hetgeen te verwachten is omtrent de wijziging of de opheffing krachtens de [artikelen 78](../../../../wet-BES/burgerlijk/wetboek/bes/boek/5/BWBR0028748/README.md) en [79 van Boek 5](../../../../wet-BES/burgerlijk/wetboek/bes/boek/5/BWBR0028748/README.md), dan wel de [artikelen 258](../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) en [259 van Boek 6 van dat wetboek](../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) en de daaraan te verbinden voorwaarden. De artikelen 41 en 42 missen in zoverre toepassing. Overigens wordt rekening gehouden met de mogelijkheid de erfdienstbaarheid of het recht als bedoeld in artikel 252 van Boek 6 van dat wetboek door een andere erfdienstbaarheid of een ander recht te vervangen. 
 
 ### Artikel  48  
 
-1.  De vruchtgebruiker kan zich jegens de onteigenaar slechts op verkrijging van een vruchtgebruik op de vordering tot schadeloosstelling voor de hoofdgerechtigde krachtens artikel 213 van Boek 3 van het Burgerlijk Wetboek BES beroepen, indien hij is tussengekomen.   
+1.  De vruchtgebruiker kan zich jegens de onteigenaar slechts op verkrijging van een vruchtgebruik op de vordering tot schadeloosstelling voor de hoofdgerechtigde krachtens [artikel 213 van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) beroepen, indien hij is tussengekomen.   
 2.  Bij onteigening van fideicommissaire goederen doet de bezwaarde erfgenaam de schadeloosstelling bij een instelling te zijner keuze inschrijven.  
 
 ### Artikel  49  
@@ -318,7 +318,7 @@ De kosten komen ten laste van de onteigenende partij, tenzij de rechter in de om
 
 ### Artikel  53  
 
-Wanneer het vonnis bij verstek is gewezen, kan men daartegen binnen acht dagen na de betekening op de wijze in het Wetboek van Burgerlijke Rechtsvordering BES voorgeschreven, in verzet komen. 
+Wanneer het vonnis bij verstek is gewezen, kan men daartegen binnen acht dagen na de betekening op de wijze in het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) voorgeschreven, in verzet komen. 
 
 ### Hoofdstuk  IV  
 
@@ -509,7 +509,7 @@ Artikel 10 is ten deze van toepassing, met dien verstande, dat hetgeen daar van 
 
 ### Artikel  85  
 
-Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk op de wijze, bedoeld in artikel 142, tweede lid, van de Wet openbare lichamen BES, vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd. 
+Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk op de wijze, bedoeld in [artikel 142, tweede lid, van de Wet openbare lichamen BES](../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd. 
 
 ### Artikel  86  
 
@@ -521,7 +521,7 @@ Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt g
 1.  Indien de eilandsraad naar aanleiding van een tot onteigening strekkend verzoek van een vereniging, vennootschap of stichting niet tot onteigening besluit, kan door de aanvrager binnen drie maanden na verloop van de termijn genoemd in artikel 82 maar niet eerder dan een maand na verloop van die termijn, voorziening bij Onze Minister wie het aangaat worden gevraagd.   
 2.  Wordt door Onze Minister wie het aangaat onteigening toegestaan, zo vindt artikel 84 overeenkomstige toepassing.   
 3.  Het koninklijk besluit omtrent de goedkeuring van het raadsbesluit wordt in de Staatscourant bekendgemaakt en in afschrift of afdruk gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam.   
-4.  Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk op de wijze, bedoeld in artikel 142, tweede lid, van de Wet openbare lichamen BES, vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.  
+4.  Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk op de wijze, bedoeld in [artikel 142, tweede lid, van de Wet openbare lichamen BES](../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.  
 
 ### Artikel  88  
 

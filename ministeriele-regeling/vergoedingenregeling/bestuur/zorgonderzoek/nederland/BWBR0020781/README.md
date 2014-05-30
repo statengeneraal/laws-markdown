@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-De voorzitter van het bestuur van ZorgOnderzoek Nederland ontvangt een vaste vergoeding. De vergoeding wordt vastgesteld op maximaal de bezoldiging van een lid van de topmanagementgroep van een departement van algemeen bestuur als bedoeld in [Bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De deeltijdfactor wordt vastgesteld op 0,2. 
+De voorzitter van het bestuur van ZorgOnderzoek Nederland ontvangt een vaste vergoeding. De vergoeding wordt vastgesteld op maximaal de bezoldiging van een lid van de topmanagementgroep van een departement van algemeen bestuur als bedoeld in [Bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De deeltijdfactor wordt vastgesteld op 0,4. 
 
 ### Artikel  2  
 

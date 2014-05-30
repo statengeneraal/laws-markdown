@@ -147,6 +147,19 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 1.  Als administraties, bedoeld in [artikel 2d, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [2t, eerste lid, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de administraties vermeld in kolom A van bijlage 20 bij deze regeling.   
 2.  Als gegevens en bescheiden, bedoeld in [artikel 2d, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [2t, vierde lid, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn aangewezen de gegevens en bescheiden vermeld in kolom B van bijlage 20 bij deze regeling.  
 
+### Hoofdstuk 1a  
+
+####Nationale visa
+
+Treedt in werking per 01-06-2014 
+
+### Artikel  1.17  
+Treedt in werking per 01-06-2014 
+
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van € 142 verschuldigd.   
+2.  In afwijking van het eerste lid is de vreemdeling die valt onder [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md), geen leges verschuldigd.   
+3.  In afwijking van het eerste lid is de vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 2963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971,70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie, een bedrag van € 41 verschuldigd.  
+
 ### Hoofdstuk 2  
 
 ####Toegang

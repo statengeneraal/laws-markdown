@@ -4828,7 +4828,7 @@ De IND verleent de verblijfsvergunning als bedoeld in [artikel 3.31 Vb](../../..
 
 * de vreemdeling op grond van dat huwelijk of (geregistreerd) partnerschap was toegelaten; en  
 
-* de vreemdeling één jaar direct voorafgaande aan ontwrichting van het huwelijk of (geregistreerd) partnerschap rechtmatig verblijf had als bedoeld in [artikel 8, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+* de vreemdeling één jaar direct voorafgaande aan ontwrichting van het huwelijk of (geregistreerd) partnerschap rechtmatig verblijf had als bedoeld in [artikel 8, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
 ### 3  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
@@ -4844,7 +4844,7 @@ Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-r
 De verblijfsvergunning regulier onder de beperking ‘ verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’ verleend aan de vermogende vreemdeling betreft een tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5, vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).
 ###Geldigheidsduur
 
-Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van vijf jaar aan economisch niet-actieve langdurig ingezetenen. Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van één jaar aan de vermogende vreemdeling. Op grond van [artikel 3.59, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verlengt de IND de verblijfsvergunning voor de duur van vijf jaar aan de vermogende vreemdeling. Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van ten hoogste één jaar voor het verrichten van arbeid al dan niet in loondienst.  
+Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van vijf jaar aan economisch niet-actieve langdurig ingezetenen. Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van één jaar aan de vermogende vreemdeling. Op grond van [artikel 3.59, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verlengt de IND de verblijfsvergunning voor de duur van vijf jaar aan de vermogende vreemdeling. Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van ten hoogste één jaar voor het verrichten van arbeid al dan niet in loondienst.   
 ### 4  
 
 ####Bewijsmiddelen
@@ -4893,7 +4893,64 @@ De IND beschouwt het gestelde in paragraaf B1/8.3.4 als bewijsmiddel waaruit moe
 
 * bewijsstukken waaruit de eigen inbreng en mate van actieve betrokkenheid van de vermogende vreemdeling bij de onderneming blijkt zoals specifieke kennis, referenties, patenten, netwerk en afnemers.   De IND beschouwt als bewijsmiddel waarmee de vreemdeling de herkomst van zijn vermogen kan aantonen: 
 
-* een accountantsverklaring, afgegeven door Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), met een vestiging in het land van herkomst of het land van bestendig verblijf van de vreemdeling, waarin staat dat niet gebleken is dat het te investeren vermogen een malafide herkomst heeft of dat is gebleken dat de herkomst van het vermogen niet-malafide is.     
+* een accountantsverklaring, afgegeven door Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), met een vestiging in het land van herkomst of het land van bestendig verblijf van de vreemdeling, waarin staat dat niet gebleken is dat het te investeren vermogen een malafide herkomst heeft of dat is gebleken dat de herkomst van het vermogen niet-malafide is.   
+### 5  
+
+####Verlenging
+
+Treedt in werking per 01-06-2014 
+
+### 5.1  
+
+####Vermogende vreemdeling
+
+Treedt in werking per 01-06-2014 
+
+De IND wijst de aanvraag voor verlenging van de geldigheidsduur van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’ in ieder geval af als: 
+
+1. Het geïnvesteerde vermogen van minimaal € 1.250.000 is teruggetrokken; of  
+
+2. De investering heeft volgens de Rijksdienst voor Ondernemend Nederland geen toegevoegde waarde voor de Nederlandse economie; of  
+
+3. De vreemdeling is betrokken bij een door de Financial Intelligence Unit-Nederland verdacht verklaarde transacties.  
+###Ad. 2
+
+De Rijksdienst voor Ondernemend Nederland adviseert positief bij een investering in een onderneming of in een contractueel samenwerkingsverband als aan alle volgende voorwaarden wordt voldaan: 
+
+1. De onderneming of het contractueel samenwerkingsverband is ingeschreven bij de Nederlandse Kamer van Koophandel;  
+
+2. De investering is conform het investeringsplan nog aanwezig in de onderneming of in het contractueel samenwerkingsverband; en  
+
+3. De beoogde arbeidscreatie is voor 20% gerealiseerd en het is aannemelijk dat de overige 80% in de komende vier jaren wordt gerealiseerd.  
+###5.2 
+
+####Bewijsmiddelen
+
+Treedt in werking per 01-06-2014 
+
+De IND beschouwt als bewijsmiddel waarmee de vreemdeling bij de aanvraag om verlenging van de geldigheidsduur van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’, kan aantonen dat aan de voorwaarden wordt voldaan: Bewijsmiddelen bij een investering in een onderneming: 
+
+* een verklaring van de bestuurders dat het door de vreemdeling geïnvesteerde vermogen conform het investeringsplan aanwezig is in de onderneming;  
+
+* een beschrijving van de resultaten met betrekking tot arbeidscreatie;  
+
+* een beschrijving van de resultaten van de niet-financiële inbreng door de vreemdeling (indien van toepassing).   Bewijsmiddelen bij een investering in een contractueel samenwerkingsverband dat investeert in een of meerdere onderneming(en): 
+
+* een recente jaarrekening van de onderneming(en) waarin is geïnvesteerd;  
+
+* een bewijs dat de vreemdeling is aangesloten bij het samenwerkingsverband;  
+
+* een verklaring van de bestuurders dat het geïnvesteerde vermogen conform het investeringsplan nog aanwezig is in het contractueel samenwerkingsverband;  
+
+* een beschrijving van de resultaten met betrekking tot de realisatie van arbeidscreatie;  
+
+* een beschrijving van de resultaten van de niet-financiële inbreng door de vreemdeling (indien van toepassing).   Bewijsmiddelen bij een investering in een seedfonds: 
+
+* een bewijs van deelname aan een seedfonds.   Bewijsmiddelen bij een investering in een participatiefonds: 
+
+* een bewijs van deelname aan een participatiefonds dat is aangesloten bij de Nederlandse Vereniging van Participatiemaatschappijen (NVP);  
+
+* een bewijs dat de investering nog aanwezig is in het participatiefonds.    
 ### B12  
 
 ####De verblijfsvergunning regulier onbepaalde tijd

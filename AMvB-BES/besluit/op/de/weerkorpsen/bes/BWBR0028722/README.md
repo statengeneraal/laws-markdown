@@ -14,7 +14,7 @@ c.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties
 
 ### Artikel  2  
 
-1.  Onze Minister kan een organisatie toelaten als weerkorps in de zin van artikel 1, onderdeel c, van de Wet op de weerkorpsen BES.   
+1.  Onze Minister kan een organisatie toelaten als weerkorps in de zin van [artikel 1, onderdeel c, van de Wet op de weerkorpsen BES](../../../../../../../wet-BES/wet/op/de/weerkorpsen/bes/BWBR0028240/README.md).   
 2.  Geen toelating vindt plaats, indien: 
 
 a. de organisatie geen rechtpersoonlijkheid bezit of de organisatie niet wordt ondersteund door een rechtspersoon;  
@@ -71,13 +71,13 @@ b. de te houden marsen en parades.
 
 ### Artikel  9  
 
-1.  In afwijking van de artikelen 2, eerste en tweede lid, en 2a worden de organisaties, bekend als «Vrijwilligers Korps Bonaire» en «Vrijwilligers Korps Sint Eustatius«, toegelaten als weerkorps in de zin van artikel 1, onderdeel c, van de Wet op de weerkorpsen BES voor de duur van zes maanden met ingang van het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.   
+1.  In afwijking van de artikelen 2, eerste en tweede lid, en 2a worden de organisaties, bekend als «Vrijwilligers Korps Bonaire» en «Vrijwilligers Korps Sint Eustatius«, toegelaten als weerkorps in de zin van [artikel 1, onderdeel c, van de Wet op de weerkorpsen BES](../../../../../../../wet-BES/wet/op/de/weerkorpsen/bes/BWBR0028240/README.md) voor de duur van zes maanden met ingang van het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.   
 2.  De toelating, bedoeld in het eerste lid, geschiedt onder de voorwaarde dat elk weerkorps ervoor zorg draagt dat zo spoedig mogelijk wordt voldaan aan de voorwaarden voor toelating als weerkorps, bedoeld in de artikelen 2, tweede lid, en 2a, eerste en tweede lid. Het Vrijwilligers Korps Bonaire en het Vrijwilligers Korps Sint Eustatius alsmede de korpscommandanten van beide weerkorpsen verstrekken Onze Minister de nodige inlichtingen ten behoeve van beoordeling van de toelating als weerkorps.   
 3.  Onze Minister kan de termijn, genoemd in het eerste lid, eenmalig voor de duur van maximaal vier maanden verlengen.  
 
 ### Artikel  10  
 
-Dit besluit berust op artikel 2, tweede lid, van de Wet op de weerkorpsen BES. 
+Dit besluit berust op [artikel 2, tweede lid, van de Wet op de weerkorpsen BES](../../../../../../../wet-BES/wet/op/de/weerkorpsen/bes/BWBR0028240/README.md). 
 
 ### Artikel  11  
 

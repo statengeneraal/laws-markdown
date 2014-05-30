@@ -25,7 +25,7 @@ De bepaling van artikel 1 is niet toepasselijk:
 
 5°. op hen, die deel uitmaken van schietverenigingen met volledige rechtsbevoegdheid, die in het bezit zijn van de in artikel 2a bedoelde vergunning, doch slechts gedurende de tijd voor oefeningen bestemd, daaronder begrepen de tijd om zich naar en van de oefenplaatsen te begeven;  
 
-6°. op hen, die een vuurwapen vervoeren overeenkomstig de Vuurwapenregeling BES;  
+6°. op hen, die een vuurwapen vervoeren overeenkomstig de [Vuurwapenregeling BES](../../../../ministeriele-regeling-BES/vuurwapenregeling/bes/BWBR0028694/README.md);  
 
 7°. op hen, die andere dan vuurwapenen vervoeren zodanig ingepakt, dat zij niet voor dadelijk gebruik kunnen worden aangewend;  
 
@@ -102,7 +102,7 @@ c. voorschriften stellen voor personen, die een beroep maken van het afleveren v
 
 1.  Met het toezicht op de naleving van het bij en krachtens deze wet bepaalde zijn belast: 
 
-a. de bij artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren;  
+a. de bij [artikel 184 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen ambtenaren;  
 
 b. de douaneambtenaren.     
 2.  De in het eerste lid bedoelde ambtenaren zijn bevoegd alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, waar, naar zij redelijkerwijs kunnen vermoeden, in verband met de uitoefening van een bedrijf, wapenen aanwezig zijn, te betreden, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Wordt hun de toegang geweigerd, dan verschaffen zij zich die desnoods met behulp van de sterke arm.   
