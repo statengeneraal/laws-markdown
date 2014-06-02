@@ -708,13 +708,13 @@ b. onderzoek en verificatie ter plekke.
 
 ####Ontwikkelingsperspectief, deskundigen en inrichting commissies
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  34.7  
 
 ####Ontwikkelingsperspectief
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Het ontwikkelingsperspectief, bedoeld in [artikel 40a van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bevat ten minste informatie over naar welke onderwijssoort in het voortgezet onderwijs dan wel welk uitstroomprofiel van het voortgezet speciaal onderwijs, bedoeld in [artikel 14, eerste lid, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), uitstroom van de leerling wordt verwacht, en de onderbouwing daarvan.   
 2.  De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.  
@@ -723,7 +723,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Deskundigen samenwerkingsverband
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md) zijn een orthopedagoog of een psycholoog en afhankelijk van de leerling over wiens toelaatbaarheid wordt geadviseerd ten minste een tweede deskundige, te weten een kinder- of jeugdpsycholoog, een pedagoog, een kinderpsychiater, een maatschappelijk werker of een arts. 
 
@@ -731,7 +731,7 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](../../../../../w
 
 ####Tijdelijke landelijke geschillencommissie toelating en verwijdering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  De geschillencommissie, bedoeld in [artikel 43 van de wet](../../../../../wet/wbo/BWBR0003420/README.md), bestaat uit ten minste 7 leden met verschillende deskundigheden. De leden worden benoemd op gezamenlijke bindende voordracht van de landelijke ouderorganisaties, de landelijke patiënten- en gehandicaptenorganisaties en de sectororganisaties.   
 2.  De leden worden benoemd en ontslagen door Onze Minister.   

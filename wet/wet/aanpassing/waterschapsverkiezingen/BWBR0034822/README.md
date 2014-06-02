@@ -10,27 +10,27 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat gecombineerde st
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt de Kieswet. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt de Waterschapswet. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt de Wet financiering politieke partijen. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.   Het register van aanduidingen van het stembureau, bedoeld in [artikel 18 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), zoals dit luidde voor de inwerkingtreding van artikel II, onderdeel B, van deze wet wordt binnen twee maanden na de inwerkingtreding van artikel I, onderdeel L, door de voorzitter van het stembureau overgedragen aan het centraal stembureau voor de verkiezing van de leden van het algemeen bestuur van een waterschap, behorende bij de categorie, bedoeld in [artikel 12, tweede lid, onderdeel a, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md).   
 2.   De instelling van het stembureau, bedoeld in [artikel 18 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), zoals dit luidde voor de inwerkingtreding van artikel II, onderdeel C, van deze wet, en de benoeming van de leden van dat stembureau worden gelijkgesteld aan de instelling van het stembureau en de benoeming van de leden van het hoofdstembureau, bedoeld in [artikel E 6a van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md).   
@@ -38,18 +38,18 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Op de zittingsduur van een zittend algemeen bestuur van een waterschap dat is ingesteld in de periode tussen 1 januari 2013 en voor het tijdstip waarop artikel II, onderdeel G, in werking treedt, blijft [artikel 29, derde en vierde lid, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) van toepassing zoals dit luidde voor de inwerkingtreding van artikel II, onderdeel G, van deze wet.  
 
 ### Artikel  VI  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt deze wet. 
 
 ### Artikel  VII  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  Wijzigt de Waterschapswet.  
 
 ### Artikel  VIII  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Deze wet wordt aangehaald als: Wet aanpassing waterschapsverkiezingen. 
 

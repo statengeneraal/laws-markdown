@@ -779,7 +779,7 @@ De IND beoordeelt of de vreemdeling het hoofdverblijf, als bedoeld in [artikel 1
 
 * de vreemdeling heeft voor het derde achtereenvolgende jaar meer dan vier achtereenvolgende maanden buiten Nederland verbleven, tenzij hij aannemelijk maakt dat het centrum van zijn activiteiten niet naar het buitenland is verlegd.   De IND neemt aan dat geen sprake is van verplaatsing van het hoofdverblijf buiten Nederland als de vreemdeling: 
 
-a. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en in het kader van de voltooiing van zijn studie in Nederland tijdelijk hoger onderwijs in het buitenland gaat volgen. Tijdelijkheid wordt niet aangenomen als de periode van het volgen van hoger onderwijs in het buitenland langer is dan een jaar aaneengesloten.  
+a. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en in het kader van de voltooiing van zijn studie in Nederland tijdelijk hoger onderwijs in het buitenland gaat volgen. Tijdelijkheid wordt niet aangenomen als de periode van het volgen van hoger onderwijs in het buitenland langer is dan een jaar aaneengesloten;  
 
 b. een verblijfsvergunning regulier voor bepaalde tijd heeft voor het verrichten van arbeid die geheel of gedeeltelijk buiten Nederland plaatsvindt;  
 
@@ -787,12 +787,14 @@ c. de echtgenoot/partner is van een ambtenaar, bedoeld in artikel 17, eerste lid
 
 d. is achtergelaten in het land van herkomst en zich zo snel mogelijk tot de Nederlandse overheid (gemeente, diplomatieke of consulaire vertegenwoordiging, IND of Vreemdelingenpolitie) heeft gewend om naar Nederland te kunnen terugkeren;  
 
-e. Nederland heeft verlaten voor de vervulling van de militaire dienstplicht en binnen zes maanden na beëindiging van de dienstplicht naar Nederland is teruggekeerd; of  
+e. Nederland heeft verlaten voor de vervulling van de militaire dienstplicht en binnen zes maanden na beëindiging van de dienstplicht naar Nederland is teruggekeerd;  
 
-f. buiten Nederland gedetineerd is of is geweest en binnen zes maanden na beëindiging van de detentie naar Nederland is teruggekeerd.  
+f. buiten Nederland gedetineerd is of is geweest en binnen zes maanden na beëindiging van de detentie naar Nederland is teruggekeerd;  
 
-g. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ heeft die langer dan zes maanden arbeid buiten Nederland verricht mits de vreemdeling aan de voorwaarden blijft voldoen.   
-### Ad c.
+g. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ heeft en langer dan zes maanden arbeid buiten Nederland verricht mits de vreemdeling aan de voorwaarden blijft voldoen;  
+
+h. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’ heeft en niet langer dan acht maanden buiten Nederland verblijft mits de vreemdeling aan de voorwaarden blijft voldoen.  
+###Ad d.
 
 Wat ‘zo snel mogelijk’ is, beoordeelt de IND per geval, waarbij de IND rekening houdt met de moeilijkheden die de positie van de achtergelaten vreemdeling met zich mee heeft gebracht.  
 ### 6.2.2  
@@ -1333,11 +1335,11 @@ De IND neemt aan dat de uitwisselingsjongere die niet als au pair verblijft, nie
 
 ####WHS/WHP
 
-Op grond van [artikel 3.43, eerste lid, aanhef en onder d, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd van een vreemdeling, die in het kader van de internationale overeenkomsten WHS (Nieuw-Zeeland en Australië) of WHP (Canada) in Nederland verblijft of wil verblijven, af als de vreemdeling: 
+Op grond van [artikel 3.43, eerste lid, aanhef en onder d, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd van een vreemdeling, die in het kader van de internationale overeenkomsten WHS (Nieuw-Zeeland en Australië) of WHP (Canada en Zuid-Korea) in Nederland verblijft of wil verblijven, af als de vreemdeling: 
 
 * geen retourticket heeft; of  
 
-* de middelen van bestaan hiervoor niet heeft.   De aanvraag tot verblijf in het kader van het WHP en het WHS kan worden afgewezen als blijkt dat de vreemdeling voorafgaande aan de aanvraag in Nederland heeft verbleven zonder in het bezit te zijn geweest van verblijfsrecht op grond van [artikel 8 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+* niet de middelen van bestaan heeft voor de aanschaf van een retourticket.   De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd in het kader van het WHP met Zuid-Korea af als op het moment van de indiening van de aanvraag het quotum voor het aantal inwilligingen in het kader van het WHP met Zuid-Korea is bereikt.   
 ### 3  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
@@ -4777,58 +4779,83 @@ In aanvulling op [artikel 3.29a, eerste lid, aanhef en onder b, Vb](../../../../
 
 In aanvulling op [artikel 3.29a, tweede lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de vreemdeling als aan alle volgende voorwaarden wordt voldaan: 
 
-1. de vreemdeling investeert een bedrag van minimaal € 1.250.000 in een onderneming gevestigd in Nederland;  
+1. de vreemdeling investeert een bedrag van minimaal € 1.250.000 in een in Nederland gevestigd(e): 
+
+a. innovatieve onderneming; of  
+
+b. contractueel samenwerkingsverband dat investeert in één of meerdere innovatieve onderneming(en); of  
+
+c. door de Minister van Economische Zaken erkend seedfonds; of  
+
+d. participatiefonds dat is aangesloten bij de Nederlandse Vereniging van Participatiemaatschappijen (NVP).    
 
 2. het te investeren bedrag is gestort op een bankrekening van een Nederlandse bank of een bank van een EU-lidstaat met een vestiging in Nederland die onder toezicht staan van De Nederlandsche Bank;  
 
 3. de investering heeft volgens de Rijksdienst voor Ondernemend Nederland een toegevoegde waarde voor de Nederlandse economie; en  
 
 4. niet is gebleken dat het vermogen waaruit wordt geïnvesteerd een malafide herkomst heeft.  
-###Ad 3.
+###Ad 1 en 3
 
-De Rijksdienst voor Ondernemend Nederland toetst of de investering een toegevoegde waarde heeft voor de Nederlandse economie. De toets bestaat uit de volgende onderdelen:
+De Rijksdienst voor Ondernemend Nederland (RVO) adviseert de IND of de investering in een innovatieve onderneming (voorwaarde 1 sub a) of de investering in een contractueel samenwerkingsverband (voorwaarde 1 sub b) een toegevoegde waarde heeft voor de Nederlandse economie. 
+
+1. Een investering door de vermogende vreemdeling in een innovatieve onderneming. De toets door RVO bestaat uit de volgende onderdelen:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| *A. Primaire toets *  | *Vereist: J J J, anders volgt negatief advies*  |
-| *Criteria*  | --- | --- | --- |
-| *De onderneming is ingeschreven bij de Nederlandse Kamer van Koophandel.*  | *J/N*  |
-| *Aard investering(sovereenkomst) is positief voor de Nederlandse economie.*  | *J/N*  |
-| *De continuïteit van de onderneming na de investering is aangetoond. *  | *J/N*  |
-| *B. Secundaire toets*  | *Vereist: minimaal 25 (maximaal te behalen 50 punten).*  |
-| *B1. Effecten investering*  | --- | --- | --- |
-| *Criteria*  | --- | --- | --- |
-| *Arbeidscreatie *  | *Aantal extra arbeidsplaatsen (excl. aanvrager):*  | --- | --- |
+|  *A. Primaire toets*   |  *Vereist: J J J, anders volgt negatief advies*   |
+|  *Criteria voor de investering in een onderneming*   | --- | --- | --- |
+|  *De onderneming is ingeschreven bij de Nederlandse Kamer van Koophandel.*   |  *J/N*   |
+|  *Aard investering(sovereenkomst) is positief voor de Nederlandse economie.*   |  *J/N*   |
+|  *De continuïteit van de onderneming na de investering is aangetoond. *   |  *J/N*   |
+|  *B. Secundaire toets*   |  *Vereist: minimaal 25 punten (maximaal te behalen 50)*   |
+|  *B1. Effecten investering*   | --- | --- | --- |
+|  *Criteria*   | --- | --- | --- |
+|  *Arbeidscreatie *   |  *Aantal extra arbeidsplaatsen (excl. aanvrager):*   | --- | --- |
 | (max. 15 punten)  | --- | --- |
 | --- | <1 fte  | 0  | --- |
 | --- | 1 – <5 fte  | 5  | --- |
 | --- | 5 – < 10 fte  | 10  | --- |
 | --- | > 10 fte  | 15  | --- |
-| *Innovativiteit*  | --- | --- | --- |
+|  *Innovativiteit*   | --- | --- | --- |
 | (max. 30 punten)  | inbreng of aanschaf octrooi  | 10  | --- |
 | --- | investering in innovatie, zowel technologisch als niet-technologisch  | 10  | --- |
 | --- | investering in topsector  | 10  | --- |
-| *B2. Niet- financiële inbreng vreemdeling in de onderneming*  | --- | --- | --- |
+|  *B2. Niet- financiële inbreng vreemdeling in de onderneming*   | --- | --- | --- |
 | (max. 5 punten)  | (kennis, netwerken, afnemers, actieve betrokkenheid)  | --- | --- |
 | --- |
 
-De beoogde investering heeft toegevoegde waarde voor de Nederlandse economie als alle delen van onderdeel A positief worden beoordeeld en ten minste 25 punten worden behaald uit onderdeel B. 
+De beoogde investering heeft toegevoegde waarde voor de Nederlandse economie als alle delen van onderdeel A positief worden beoordeeld en ten minste 25 punten worden behaald uit onderdeel B.  
+
+2. Een investering in een contractueel samenwerkingsverband dat investeert in één of meerdere innovatieve ondernemingen. De toets door RVO bestaat uit de volgende onderdelen: 
+
+* Een check of het contractueel samenwerkingsverband staat ingeschreven bij de Nederlandse Kamer van Koophandel.  
+
+* Het beoordelen van de innovatieve aard van het contractueel samenwerkingsband en de ondernemingen waarin wordt geïnvesteerd, waarbij het bovenstaand puntensysteem bij de beoordeling wordt betrokken.  
+
+* Het beoordelen van de arbeidscreatie, waarbij bij meerdere investeringen in één of meerdere innovatieve ondernemingen de arbeidscreatie naar rato van de inbreng van de vermogende vreemdeling wordt berekend.    
+
+3. De investering in een door het Ministerie van Economische Zaken erkend seedfonds in oprichting heeft toegevoegde waarde voor de Nederlandse economie.  
+
+4. De investering in een participatiefonds dat is aangesloten bij de Nederlandse Vereniging van Participatiemaatschappijen heeft toegevoegde waarde voor de Nederlandse economie.  
 ###Ad 4.
 
-De IND vraagt de vreemdeling om toestemming om onderzoek te laten verrichten in het buitenland of dat het vermogen waaruit geïnvesteerd wordt een mogelijk criminele herkomst heeft. De IND wijst de aanvraag om een verblijfsvergunning af als de vreemdeling geen toestemming geeft. De IND verzoekt de Financial Intelligence Unit Nederland te toetsen of ten aanzien van de vreemdeling verdacht verklaarde transacties bekend zijn. De IND verstrekt daartoe de volgende gegevens aan de FIU: 
+De IND vraagt de vreemdeling om toestemming om onderzoek te laten verrichten in het buitenland of dat het vermogen waaruit geïnvesteerd wordt een mogelijk criminele herkomst heeft. De IND wijst de aanvraag om een verblijfsvergunning af als de vreemdeling geen toestemming geeft. De IND verzoekt de Financial Intelligence Unit Nederland (FIU) te toetsen of ten aanzien van de vreemdeling verdacht verklaarde transacties bekend zijn. De IND verstrekt daartoe de volgende gegevens aan de FIU: 
 
 * persoonsgegevens van de vreemdeling; en  
 
-* gegevens omtrent het te investeren vermogen.   De IND verleent de verblijfsvergunning niet of trekt deze in als de FIU meldt dat gebleken is dat de vreemdeling is verbonden aan één, of meerdere, als verdacht verklaarde transactie(s). Als de FIU meldt dat geen informatie uit het land van herkomst of het land van bestendig verblijf kan worden verkregen met betrekking tot het vermogen van de vreemdeling, wordt de verblijfsvergunning evenmin verleend.
+* gegevens omtrent het te investeren vermogen.   De IND verleent de verblijfsvergunning niet of trekt deze in als de FIU meldt dat gebleken is dat de vreemdeling betrokken is bij één, of meerdere, als verdacht verklaarde transactie(s). Als de FIU meldt dat geen informatie uit het land van herkomst of het land van bestendig verblijf kan worden verkregen met betrekking tot het vermogen van de vreemdeling, wordt in de regel de verblijfsvergunning evenmin verleend.
 ###Het zoeken en verrichten van arbeid al dan niet in loondienst
 
-De IND verleent de verblijfsvergunning als bedoeld in [artikel 3.31 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) aan de vreemdeling op wie artikel 13  Besluit 1/80 van toepassing is, als:
+De IND verleent de verblijfsvergunning als bedoeld in [artikel 3.31 Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) aan de vreemdeling op wie artikel 13 Besluit 1/80 van toepassing is, als: 
 
 * diens huwelijk of (geregistreerd) partnerschap met een hoofdpersoon met niet-tijdelijk verblijfsrecht na drie jaar is ontwricht of ontbonden;  
 
 * de vreemdeling op grond van dat huwelijk of (geregistreerd) partnerschap was toegelaten; en  
 
-* de vreemdeling één jaar direct voorafgaande aan ontwrichting van het huwelijk of (geregistreerd) partnerschap rechtmatig verblijf had als bedoeld in [artikel 8, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+* de vreemdeling één jaar direct voorafgaande aan ontwrichting van het huwelijk of (geregistreerd) partnerschap rechtmatig verblijf had als bedoeld in artikel 8, onder a, Vw.  
+###Middelen van bestaan
+
+Als de vreemdeling voldoet aan de voorwaarden voor de verblijfsvergunning regulier voor bepaalde tijd onder de beperking: ‘vermogende vreemdeling’ neemt de IND aan dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.    
 ### 3  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
@@ -4838,10 +4865,7 @@ De IND verleent de verblijfsvergunning als bedoeld in [artikel 3.31 Vb](../../..
 Op grond van [artikel 3.4, eerste lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning regulier voor bepaalde tijd onder de beperking: ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’. Op grond van [artikel 3.4, eerste lid, aanhef en onder m, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning regulier voor bepaalde tijd onder de beperking: ‘het zoeken en verrichten van arbeid al dan niet in loondienst’. 
 ###Arbeidsmarktaantekening
 
-Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) luidt de arbeidsmarktaantekening voor economisch niet-actieve langdurig ingezetenen en vermogende vreemdelingen: ‘Arbeid vrij toegestaan, TWV niet vereist’. Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) luidt de arbeidsmarktaantekening voor het zoeken of verrichten van arbeid al dan niet in loondienst: ‘Arbeid vrij toegestaan, TWV niet vereist’.
-###Aard van het verblijfsrecht
-
-De verblijfsvergunning regulier onder de beperking ‘ verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’ verleend aan de vermogende vreemdeling betreft een tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5, vierde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).
+Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) luidt de arbeidsmarktaantekening voor economisch niet-actieve langdurig ingezetenen en vermogende vreemdelingen: 'Arbeid vrij toegestaan, TWV niet vereist'. Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) luidt de arbeidsmarktaantekening voor het zoeken of verrichten van arbeid al dan niet in loondienst: 'Arbeid vrij toegestaan, TWV niet vereist'.
 ###Geldigheidsduur
 
 Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van vijf jaar aan economisch niet-actieve langdurig ingezetenen. Op grond van [artikel 3.58, achtste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van één jaar aan de vermogende vreemdeling. Op grond van [artikel 3.59, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verlengt de IND de verblijfsvergunning voor de duur van vijf jaar aan de vermogende vreemdeling. Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), verleent de IND de verblijfsvergunning voor de duur van ten hoogste één jaar voor het verrichten van arbeid al dan niet in loondienst.   
@@ -4853,19 +4877,19 @@ De IND beschouwt het gestelde in paragraaf B1/8.3.4 als bewijsmiddel waaruit moe
 
 * een kopie van de door de andere lidstaat afgegeven EG-verblijfsvergunning voor langdurig ingezetenen met de aantekening: ‘ EG-langdurig ingezetene’, in de taal van die lidstaat.   De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling een investering van minimaal € 1.250.000 doet in een onderneming in Nederland: 
 
-* een verklaring van de Nederlandse vestiging van de bank die beschikt over een DNB vergunning of gebruikt maakt van een Europees paspoort, waaruit blijkt dat het te investeren bedrag van minimaal € 1.250.000 in Nederland is gestort;  
+* een verklaring van de Nederlandse vestiging van de bank die beschikt over een vergunning van De Nederlandsche Bank of gebruikt maakt van een Europees paspoort, waaruit blijkt dat het te investeren bedrag van minimaal € 1.250.000 in Nederland is gestort;  
 
-* een verklaring van een Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), met een vestiging in het land van herkomst of het land van bestendig verblijf van de vreemdeling, over de identiteit van de vreemdeling, de herkomst en grootte van zijn vermogen en de mogelijkheid om dit te investeren.   De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij de Rijksdienst voor Ondernemend Nederland: 
+* een verklaring van een Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants over de identiteit van de vreemdeling, de herkomst en grootte van zijn vermogen. Het gaat daarbij om de zogenoemde beoordelingsverklaring bij een vermogensopstelling, waaruit blijkt: 
 
-* een verklaring van de Nederlandse vestiging van de bank die beschikt over een DNB vergunning of de bank van een EU-lidstaat met een vestiging in Nederland die gebruikt maakt van een Europees paspoort, waaruit blijkt dat het te investeren bedrag van minimaal € 1.250.000 in Nederland is gestort;  
+a. de opbouw van het vermogen;  
 
-* een verklaring van een Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), met een vestiging in het land van herkomst of het land van bestendig verblijf van de vreemdeling, over de identiteit van de vreemdeling, de herkomst, grootte van zijn vermogen en de mogelijkheid om dit te investeren (de investering mag geen lening of garantie zijn of bestaan uit het kopen van aandelen, tenzij de aandelen door de onderneming zelf worden uitgegeven in ruil voor de risicodragende financiële bijdrage);  
+b. dat de herkomst van zijn vermogen niet aantoonbaar malafide is; en  
 
-* de intentieverklaring of investeringsovereenkomst die door betrokken partijen (investeerder en onderneming) is ondertekend en waaruit het doel van de investering blijkt;  
+c. de wijze waarop vermogen ook daadwerkelijk beschikbaar is voor de investering.     Daarnaast dient de accountantsverklaring een prognose te bevatten waaruit blijkt dat de vreemdeling de mogelijkheid heeft om over een periode van ten minste 15 maanden € 1.250.000 te investeren in een Nederlands bedrijf. De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij de Rijksdienst voor Ondernemend Nederland bij investering in een onderneming: 
 
-* een recent uittreksel van de inschrijving van de onderneming bij de Kamer van Koophandel;  
+* de investeringsovereenkomst die door betrokken partijen (investeerder en onderneming) is ondertekend en waaruit het doel van de investering blijkt;  
 
-* een ondernemingsplan dat informatie bevat over: 
+* als de onderneming korter dan drie jaar geleden is opgericht, een ondernemingsplan dat informatie bevat over: 
 
 * persoonlijke gegevens en achtergrond van het ondernemingsmanagement (opleiding, ervaring);  
 
@@ -4873,38 +4897,50 @@ De IND beschouwt het gestelde in paragraaf B1/8.3.4 als bewijsmiddel waaruit moe
 
 * een marktanalyse toegespitst op het eigen product of dienst;  
 
-* beschrijving van prijsopbouw met alle kosten daarin verdisconteert en prijsbeleid;  
+* beschrijving van prijsbeleid/-opbouw met alle kosten daarin verdisconteerd;  
 
 * organisatie;  
 
 * balans;  
 
-* exploitatieoverzichten (realisaties en prognoses)  
+* exploitatieoverzichten (realisaties en prognoses);  
 
 * omzet- en liquiditeitsprognose inclusief berekeningen;  
 
-* specificatie en begroting arbeidscreatie en investeringen.  
+* specificatie en begroting arbeidscreatie en investeringen.    
 
-* jaarrekeningen van de afgelopen drie jaren, geverifieerd door een onafhankelijke externe partij;  
+* door een onafhankelijke externe partij geverifieerde jaarrekeningen van de afgelopen drie jaren of als de onderneming korter dan drie jaar geleden is opgericht de beschikbare jaarrekeningen;  
 
-* investeringsplan van de onderneming waarin het doel van de investering wordt beschreven (kan geïntegreerd worden in het ondernemingsplan);  
+* investeringsplan van de onderneming waarin het doel van de investering wordt beschreven (kan geïntegreerd worden in het ondernemingsplan of in de investeringsovereenkomst);  
 
 * gegevens waaruit blijkt wat de verwachte effecten van de investering zijn in omvang en tijd met betrekking tot de vermogenspositie, omzet, resultaat (netto winst), werkgelegenheid en/of innovatie, zowel technologisch als niet-technologisch (bijv. patenten, octrooien);  
 
-* bewijsstukken waaruit de eigen inbreng en mate van actieve betrokkenheid van de vermogende vreemdeling bij de onderneming blijkt zoals specifieke kennis, referenties, patenten, netwerk en afnemers.   De IND beschouwt als bewijsmiddel waarmee de vreemdeling de herkomst van zijn vermogen kan aantonen: 
+* bewijsstukken waaruit de eigen inbreng en mate van actieve betrokkenheid van de vermogende vreemdeling bij de onderneming blijkt zoals specifieke kennis, referenties, patenten, netwerk en afnemers.   De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij de Rijksdienst voor Ondernemend Nederland bij investering in een contractueel samenwerkingsverband dat investeert in één of meerdere onderneming(en): 
 
-* een accountantsverklaring, afgegeven door Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), met een vestiging in het land van herkomst of het land van bestendig verblijf van de vreemdeling, waarin staat dat niet gebleken is dat het te investeren vermogen een malafide herkomst heeft of dat is gebleken dat de herkomst van het vermogen niet-malafide is.   
+* de overeenkomst tussen de deelnemers aan het samenwerkingsverband waaruit de omvang en de voorwaarden blijken;  
+
+* een fondsplan waaruit blijkt wat de aard van de organisatie en de investeringen is, en welke voorwaarden daaraan verbonden zijn;  
+
+* bewijs van continuïteit van het contractuele samenwerkingsverband zoals jaarrekeningen;  
+
+* gegevens waaruit blijkt wat de verwachte effecten van de investering zijn in omvang en tijd met betrekking tot de vermogenspositie, omzet, resultaat (netto winst), werkgelegenheid en/of innovatie, zowel technologisch als niet-technologisch (bijv. patenten, octrooien);  
+
+* bewijsstukken waaruit de eigen inbreng en mate van actieve betrokkenheid van de vermogende vreemdeling bij de onderneming blijkt zoals specifieke kennis, referenties, patenten, netwerk en afnemers.   De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling deelneemt aan een erkend seedfonds: 
+
+* een verklaring waaruit blijkt dat het seedfonds is erkend door het Ministerie van Economische Zaken.   De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling deelneemt aan een participatiefonds: 
+
+* een bewijs van deelname aan een participatiefonds dat is aangesloten bij de Nederlandse Vereniging van Participatiemaatschappijen;  
+
+* een bewijs van het lidmaatschap van de Nederlandse Vereniging van Participatiemaatschappijen van het participatiefonds.   De IND beschouwt als bewijsmiddel waarmee de vreemdeling de herkomst van zijn vermogen kan aantonen: 
+
+* een accountantsverklaring, afgegeven door Nederlands accountantskantoor, geregistreerd bij de Nederlandse Beroepsorganisatie van Accountants (NBA), waarin staat dat niet gebleken is dat het te investeren vermogen een malafide herkomst heeft of dat is gebleken dat de herkomst van het vermogen niet-malafide is. De rapportage bevat een beoordelingsverklaring bij een vermogensopstelling en een onderzoeksrapport bij een prognose over de mogelijkheid te investeren.    
 ### 5  
 
 ####Verlenging
 
-Treedt in werking per 01-06-2014 
-
 ### 5.1  
 
 ####Vermogende vreemdeling
-
-Treedt in werking per 01-06-2014 
 
 De IND wijst de aanvraag voor verlenging van de geldigheidsduur van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’ in ieder geval af als: 
 
@@ -4925,8 +4961,6 @@ De Rijksdienst voor Ondernemend Nederland adviseert positief bij een investering
 ###5.2 
 
 ####Bewijsmiddelen
-
-Treedt in werking per 01-06-2014 
 
 De IND beschouwt als bewijsmiddel waarmee de vreemdeling bij de aanvraag om verlenging van de geldigheidsduur van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’, kan aantonen dat aan de voorwaarden wordt voldaan: Bewijsmiddelen bij een investering in een onderneming: 
 

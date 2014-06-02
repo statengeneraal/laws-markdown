@@ -96,7 +96,7 @@ cc. voor deelname aan operaties van de Verenigde Naties:
 
 11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011; 
 
-12°. de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgehad in en rondom El Gorah, Egypte, vanaf 14 januari 2013;  
+12°.de United Nations Disengagement Observers Force ‘UNDOF’, voor zover deze deelname heeft plaatsgevonden op en rondom Camp Faouar in Syrië en op en rondom Camp Ziouani in Libanon, vanaf 25 september 2013; 
 
 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 23 september 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;   
 
@@ -112,7 +112,9 @@ dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin; 
 
-6°.de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;  
+6°.de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011;
+
+7°.de Patriot missie Active Fence, 1(NL) Ballistic Missile Defence Task Force, voor zover deze deelname heeft plaatsgevonden op en rondom Incirlik Airbase te Adana, Turkije, vanaf 21 januari 2013: NAVO OPERATIES;  
 
 ee. voor deelname aan operaties van de Europese Unie: 
 
@@ -154,7 +156,9 @@ gg. voor deelname aan operaties in Multinationaal verband:
 
 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank; 
 
-4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011: MULTINATIONALE OPERATIES;  
+4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011; 
+
+5°.de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgevonden in en rondom El Gorah, Egypte, vanaf 14 januari 2013: MULTINATIONALE OPERATIES; 
 
 hh.voor deelname aan SSR operaties van Nederland:
 

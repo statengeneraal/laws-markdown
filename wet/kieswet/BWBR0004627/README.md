@@ -63,7 +63,7 @@ b. de Nederlander die in Nederlandse openbare dienst in Aruba, Curaçao of Sint 
 De leden van provinciale staten worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van de provincie, mits zij Nederlander zijn en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.  
 
 ### Artikel  B 2a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De leden van het algemeen bestuur worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het waterschap en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.   
 2.  Artikel B 3, tweede lid, aanhef en onderdeel a, en derde lid, is van toepassing.  
@@ -374,7 +374,7 @@ d. voor de laatstgehouden verkiezing van de leden van provinciale staten geen ge
 8.   Op de veertigste dag vóór de kandidaatstelling voor de verkiezing van de leden van de gemeenteraad, brengt het centraal stembureau de door hem geregistreerde aanduidingen van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is, alsmede de namen van de gemachtigden en hun plaatsvervangers ter openbare kennis in de Staatscourant.   
 
 ### Artikel  G 2a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Een politieke groepering die een vereniging met volledige rechtsbevoegdheid of een stichting is, en waarvan de aanduiding niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, kan aan het centraal stembureau voor de verkiezing van de leden van het algemeen bestuur, schriftelijk verzoeken de aanduiding waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, in te schrijven in een register dat door het centraal stembureau wordt bijgehouden. Verzoeken ontvangen na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.   
 2.  Voor de in het eerste lid bedoelde registratie moet een waarborgsom van € 225 dan wel, indien het een groepering betreft die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, een waarborgsom van USD 225 worden betaald aan het waterschap. Degene die de betaling heeft verricht, ontvangt een bewijs daarvan. Na inlevering van een geldige kandidatenlijst voor de eerstkomende verkiezing na de beslissing op het verzoek wordt hem de waarborgsom teruggegeven.   
@@ -579,7 +579,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ### Artikel  H 13a  
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Indien het betreft de verkiezing van het algemeen bestuur, moet voor elke lijst een waarborgsom van € 225,– worden betaald aan het waterschap.   
 2.  Artikel H 4, achtste lid, is van overeenkomstige toepassing.   
@@ -828,12 +828,12 @@ Behoudens in de gevallen, genoemd in de hoofdstukken K, L en M, neemt de kiezer 
 De gemeenteraad kan bepalen dat tegelijk met de stemming in het stemlokaal een andere, door de gemeenteraad uitgeschreven, stemming plaatsvindt. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van de stemmingen.  
 
 ### Artikel  J 6a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De stemmingen voor de verkiezing van de leden van provinciale staten en de verkiezing van de leden van het algemeen bestuur vinden in dezelfde stemlokalen plaats. 
 
 ### Artikel  J 6b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van stemmingen als bedoeld in de artikelen J 6 en J 6a. 
 
@@ -2317,7 +2317,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 3.   Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van provinciale staten te onderwerpen.   
 
 ### Artikel  X 4a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Wanneer een lid van het algemeen bestuur komt te verkeren in een van de gevallen, genoemd in het eerste lid van artikel X 1, geeft hij hiervan kennis aan het vertegenwoordigend orgaan van het waterschap, met vermelding van de reden.   
 2.  Indien de kennisgeving niet is gedaan en de voorzitter van het vertegenwoordigend orgaan van het waterschap van oordeel is, dat een lid van het algemeen bestuur verkeert in een van de gevallen, genoemd in het eerste lid van artikel X 1, waarschuwt hij de belanghebbende schriftelijk.   
@@ -2343,7 +2343,7 @@ Leden van provinciale staten en van de gemeenteraad die hun ontslag hebben ingez
 6.   Indien een lid van provinciale staten op grond van dit artikel onherroepelijk van zijn lidmaatschap vervallen is verklaard, doet de commissaris van de Koning daarvan mededeling aan de voorzitter van het centraal stembureau.   
 
 ### Artikel  X 7a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Het lid van het algemeen bestuur dat in strijd met [artikel 33, eerste lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) handelt, kan in zijn betrekking worden geschorst door de voorzitter van het vertegenwoordigend orgaan van het waterschap. De voorzitter onderwerpt de zaak aan het oordeel van het vertegenwoordigend orgaan in zijn eerstvolgende vergadering.   
 2.  Het vertegenwoordigend orgaan van het waterschap kan, na de geschorste in de gelegenheid te hebben gesteld zich mondeling te verdedigen, hem van zijn lidmaatschap vervallen verklaren. Indien hij daartoe geen aanleiding vindt, heft hij de schorsing op.   
