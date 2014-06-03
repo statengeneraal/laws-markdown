@@ -89,7 +89,7 @@ In dit besluit wordt verstaan onder:
 
 ####Inzet regionaal zorgbudget
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Het samenwerkingsverband verdeelt het regionaal zorgbudget over de scholen binnen het samenwerkingsverband overeenkomstig het ondersteuningsplan. 
 

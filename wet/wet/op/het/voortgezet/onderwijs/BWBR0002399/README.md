@@ -169,7 +169,7 @@ Een onderwijsprogramma in het voortgezet onderwijs omvat mede een maatschappelij
 
 ####Meetellen onderwijstijd
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Indien een leerling gedurende een deel van de week onderwijs ontvangt op een school voor voortgezet speciaal onderwijs, op een school voor speciaal en voortgezet speciaal onderwijs, dan wel op een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), telt de tijd gedurende welke de leerling dit onderwijs ontvangt mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen. 
 
@@ -1326,7 +1326,7 @@ b. dat de leerling binnen 8 weken na de aanvang van de periode van 5 weken geen 
 
 ####Tijdelijke geschillencommissie toelating en verwijdering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Er is tot een bij koninklijk besluit te bepalen tijdstip een landelijke commissie voor geschillen waarbij elke school, school als bedoeld in de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en school als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) is aangesloten.   
 2.  De commissie neemt kennis van geschillen tussen ouders en bevoegd gezag van een school die ontstaan bij de toepassing van: 

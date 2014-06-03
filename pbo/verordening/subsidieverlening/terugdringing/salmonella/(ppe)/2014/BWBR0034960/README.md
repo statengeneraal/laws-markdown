@@ -171,9 +171,9 @@ voorzitter
 B.M. Dellaert  
 secretaris   
 
-###Bijlage I 
+###Bijlage  I  
 
-####Waardetabel ouderdieren legrassen (januari 2014) <sup>* (1)</sup><sup>(2)</sup><sup>(3)</sup>
+####Waardetabel ouderdieren legrassen (januari 2014) * <sup>(1)(2)(3)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -196,9 +196,9 @@ secretaris
 |15 |12,00 |
 |16 |12,26 |
 |17 |12,53 |
-|18 |12,82 / 13,71 <sup>* (4)</sup>  |
-|19 |13,10 / 13,88 <sup>* (4)</sup>  |
-|20 |13,41 / 14,06 <sup>* (4)</sup>  |
+|18 |12,82 / 13,71 * <sup>(4)</sup> |
+|19 |13,10 / 13,88 * <sup>(4)</sup> |
+|20 |13,41 / 14,06 * <sup>(4)</sup> |
 |21 |14,24 |
 |22 |14,42 |
 |23 |14,62 |
@@ -250,20 +250,11 @@ secretaris
 |69 |0,95 |
 |70 |0,95 |
 
-Voetnoten
-
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+Voetnoten*<sup>(1)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief toegediende vaccinaties.*<sup>(2)</sup> De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven.*<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier.*<sup>(4)</sup> Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0.
 
 ###Bijlage  II  
 
-####Waardetabel ouderdieren vleesrassen (januari 2014) <sup>* (1) </sup><sup>(3)</sup>
+####Waardetabel ouderdieren vleesrassen (januari 2014) *<sup> (1)(3)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -286,9 +277,9 @@ Voetnoten
 |15 |8,49 |
 |16 |8,85 |
 |17 |9,23 |
-|18 |9,57 / 11,01 <sup>* (4)</sup>  |
-|19 |9,94 / 11,20 <sup>* (4)</sup>  |
-|20 |10,36 / 11,38 <sup>* (4)</sup>  |
+|18 |9,57 / 11,01 * <sup>(4)</sup> |
+|19 |9,94 / 11,20 * <sup>(4)</sup> |
+|20 |10,36 / 11,38 * <sup>(4)</sup> |
 |21 |11,83 |
 |22 |12,52 |
 |23 |13,07 |
@@ -335,20 +326,11 @@ Voetnoten
 |64 |2,96 |
 |65 |2,96 |
 
-Voetnoten
-
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+Voetnoten*<sup>(1)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief toegediende vaccinaties.*<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier.*<sup>(4)</sup> Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0.
 
 ###Bijlage  III  
 
-####Waardetabel grootouderdieren legrassen (januari 2014) <sup>* (1) </sup> <sup>(3)</sup>
+####Waardetabel grootouderdieren legrassen (januari 2014) * <sup>(1)(3)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -371,9 +353,9 @@ Voetnoten
 |15 |66,54 |
 |16 |67,10 |
 |17 |67,66 |
-|18 |68,25 / 70,76 <sup>* (4)</sup>  |
-|19 |68,84 / 71,23 <sup>* (4)</sup>  |
-|20 |69,45 / 71,70 <sup>* (4)</sup>  |
+|18 |68,25 / 70,76 * <sup>(4)</sup> |
+|19 |68,84 / 71,23 * <sup>(4)</sup> |
+|20 |69,45 / 71,70 * <sup>(4)</sup> |
 |21 |72,17 |
 |22 |72,64 |
 |23 |73,26 |
@@ -420,20 +402,11 @@ Voetnoten
 |64 |3,00 |
 |65 |0,95 |
 
-Voetnoten
+Voetnoten*<sup>(1)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief toegediende vaccinaties.*<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier.*<sup>(4)</sup> Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0.
 
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+###Bijlage  IV  
 
-###Bijlage IV 
-
-####Waardetabel grootouderdieren vleesrassen (januari 2014) <sup>* (1)</sup><sup>(3)</sup>
+####Waardetabel grootouderdieren vleesrassen (januari 2014) * <sup>(1)(3)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -456,9 +429,9 @@ Voetnoten
 |15 |45,36 |
 |16 |46,09 |
 |17 |46,83 |
-|18 |47,60 / 49,45 <sup>* (4)</sup>  |
-|19 |48,38 / 50,03 <sup>* (4)</sup>  |
-|20 |49,19 / 50,60 <sup>* (4)</sup>  |
+|18 |47,60 / 49,45 * <sup>(4)</sup> |
+|19 |48,38 / 50,03 * <sup>(4)</sup> |
+|20 |49,19 / 50,60 * <sup>(4)</sup> |
 |21 |51,18 |
 |22 |51,75 |
 |23 |52,47 |
@@ -500,20 +473,11 @@ Voetnoten
 |59 |4,58 |
 |60 |2,92 |
 
-Voetnoten
+Voetnoten*<sup>(1)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief toegediende vaccinaties.*<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier.*<sup>(4)</sup> Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0.
 
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+###Bijlage  V  
 
-###Bijlage V 
-
-####Waardetabel (opfok) leghennen kooi (januari 2014) <sup>* (3)</sup><sup>(5)</sup>
+####Waardetabel (opfok) leghennen kooi (januari 2014) * <sup>(3)(5)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -535,12 +499,12 @@ Voetnoten
 |14 |2,99 |
 |15 |3,18 |
 |16 |3,37 |
-|17 |3,57 / 3,95 <sup>* (6)</sup>  |
-|18 |3,79 / 4,39 <sup>* (6)</sup>  |
-|19 |4,02 / 4,58 <sup>* (6)</sup>  |
-|20 |4,26 / 4,68 <sup>* (6)</sup>  |
-|21 |4,51 / 4,78 <sup>* (6)</sup>  |
-|22 |4,77 / 4,82 <sup>* (6)</sup>  |
+|17 |3,57 / 3,95 * <sup>(6)</sup> |
+|18 |3,79 / 4,39 * <sup>(6)</sup> |
+|19 |4,02 / 4,58 * <sup>(6)</sup> |
+|20 |4,26 / 4,68 * <sup>(6)</sup> |
+|21 |4,51 / 4,78 * <sup>(6)</sup> |
+|22 |4,77 / 4,82 * <sup>(6)</sup> |
 |23 |4,84 |
 |24 |4,84 |
 |25 |4,84 |
@@ -563,20 +527,11 @@ Voetnoten
 |42 |3,77 |
 |43 |3,63 |
 
-Voetnoten
+Voetnoten*<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier.*<sup>(5)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week.*<sup>(6)</sup> Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0.
 
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+###Bijlage  VI 
 
-###Bijlage VI 
-
-####Waardetabel (opfok) leghennen scharrel (binnen gehouden én met buitenloop) (januari 2014) <sup>* (3)</sup><sup>(5)</sup> 
+#### Waardetabel (opfok) leghennen scharrel (binnen gehouden én met buitenloop) (januari 2014) * <sup>(3)(5)</sup>
 
 | --- | --- |
 |:---|:---|
@@ -598,12 +553,12 @@ Voetnoten
 |14 |3,42 |
 |15 |3,63 |
 |16 |3,85 |
-|17 |4,07 / 4,50 <sup>* (6)</sup>  |
-|18 |4,31 / 4,90 <sup>* (6)</sup>  |
-|19 |4,57 / 5,22 <sup>* (6)</sup>  |
-|20 |4,83 / 5,40 <sup>* (6)</sup>  |
-|21 |5,11 / 5,44 <sup>* (6)</sup>  |
-|22 |5,39 / 5,49 <sup>* (6)</sup>  |
+|17 |4,07 / 4,50 * <sup>(6)</sup> |
+|18 |4,31 / 4,90 * <sup>(6)</sup> |
+|19 |4,57 / 5,22 * <sup>(6)</sup> |
+|20 |4,83 / 5,40 * <sup>(6)</sup> |
+|21 |5,11 / 5,44 * <sup>(6)</sup> |
+|22 |5,39 / 5,49 * <sup>(6)</sup> |
 |23 |5,49 |
 |24 |5,50 |
 |25 |5,49 |
@@ -626,20 +581,11 @@ Voetnoten
 |42 |4,23 |
 |43 |4,12 |
 
-Voetnoten
+Voetnoten *<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. *<sup>(5)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. *<sup>(6)</sup> Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0.
 
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
+###Bijlage  VII  
 
-###Bijlage VII 
-
-####Waardetabel (opfok) leghennen biologisch (januari 2014) <sup>* (3)</sup><sup>(5)</sup>
+####Waardetabel (opfok) leghennen biologisch (januari 2014) * <sup>(3)(5)</sup> 
 
 | --- | --- |
 |:---|:---|
@@ -661,12 +607,12 @@ Voetnoten
 |14 |5,78 |
 |15 |6,20 |
 |16 |6,62 |
-|17 |7,06 / 7,48 <sup>* (6)</sup>  |
-|18 |7,53 / 8,38 <sup>* (6)</sup>  |
-|19 |8,02 / 8,98 <sup>* (6)</sup>  |
-|20 |8,53 / 9,36 <sup>* (6)</sup>  |
-|21 |9,06 / 9,73 <sup>* (6)</sup>  |
-|22 |9,61 / 10,10 <sup>* (6)</sup>  |
+|17 |7,06 / 7,48 * <sup>(6)</sup>  |
+|18 |7,53 / 8,38 * <sup>(6)</sup> |
+|19 |8,02 / 8,98 * <sup>(6)</sup> |
+|20 |8,53 / 9,36 * <sup>(6)</sup> |
+|21 |9,06 / 9,73 * <sup>(6)</sup> |
+|22 |9,61 / 10,10 * <sup>(6)</sup> |
 |23 |10,35 |
 |24 |10,35 |
 |25 |10,35 |
@@ -689,14 +635,4 @@ Voetnoten
 |42 |8,08 |
 |43 |7,87 |
 
-Voetnoten
-
-| --- | --- |
-|:---|:---|
-|* (1) |Bedragen zijn exclusief BTW.  De waarde is inclusief toegediende vaccinaties. |
-|*(2) |De tabel is gebaseerd op een aankoopprijs van een eendagskuiken van € 7,75 per dier (excl. BTW). Is de werkelijke aankoop (volgens factuur) hoger, dan kan de waarde in de tabel (week 0 t/m week 26) met het verschil verhoogd worden. Vanaf week 26 wordt het verschil in 35 weken afgeschreven. |
-|* (3) |Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. |
-|* (4) |Rond week 18 worden de dieren getransporteerd van het opfokbedrijf naar het productiebedrijf. De hogere vergoeding waarin wordt voorzien in week 18 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in drie weken af tot 0. |
-|* (5) |Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. |
-|* (6) |Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0. |
-
+Voetnoten *<sup>(3)</sup> Uitgangspunt bij de bepaling van de marktwaarde is de leeftijd van de geruimde dieren in dagen op de dag van vaststelling van de besmetting met Salmonella. In de waardetabellen is de waarde vermeld op basis van de leeftijd in hele weken. Als de leeftijd van de dieren tussen twee weken in ligt dan wordt de waarde vastgesteld naar rato van het verschil in waarden tussen de voorgaande en de volgende week. Indien de besmetting bijvoorbeeld is vastgesteld bij een koppel dieren dat op de dag van vaststelling een leeftijd van drie weken en vier dagen heeft, dan bedraagt de waarde van de vergoeding per dier het bedrag dat in de tabel bij de leeftijd van drie weken is vermeld, plus 4/7 van het verschil in waarde tussen week drie en week vier. *<sup>(5)</sup> Bedragen zijn exclusief BTW. De waarde is inclusief het basispakket vaccinaties, maar exclusief alle injectie-vaccinaties. Deze laatsten worden apart vergoed volgens de waardetabel injectie entingen (opfok)leghennen. Vanaf 23 weken leeftijd wordt de waarde van de entingen verminderd met 2% per week. *<sup>(6)</sup> Rond week 17 worden de dieren getransporteerd van het opfoklegbedrijf naar het legbedrijf. De hogere vergoeding waarin wordt voorzien in week 17 geldt slechts wanneer de dieren reeds zijn verplaatst. Het verschil in waarde tussen reeds verplaatste stalkoppels en stalkoppels die nog aanwezig zijn op het opfokbedrijf neemt vervolgens in enkele weken af tot 0.

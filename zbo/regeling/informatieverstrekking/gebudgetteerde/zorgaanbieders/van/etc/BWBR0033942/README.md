@@ -64,9 +64,9 @@ Gebudgetteerde zorgaanbieders verstrekken de NZa overeenkomstig de beleidsregels
 
 4.1 Gebudgetteerde zorgaanbieders verstrekken vóór, doch uiterlijk 1 juni 2014 een opgave van de realisatie van de doorloop DBC’s 2012. Daarvoor dient gebruik te worden gemaakt van het formulier ‘Nacalculatie doorloop DBC’s GGZ Zvw 2012’. Er wordt aan de aanleververplichting voldaan, indien deze tenminste de volgende onderdelen bevat, respectievelijk aan de volgende eisen voldoet: 
 
-– een ondertekend voorblad van het formulier;  
+– een ondertekeningsdocument met handtekening dat beschikbaar wordt gesteld via de applicatie;  
 
-– een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad en de beveiliging van het Exceldocument intact is gelaten;  
+– de datumtijdstempel (voorheen controlegetal) op het ondertekeningsdocument moet overeenkomen met de ingediende aanvraag;  
 
 – de bijbehorende controleverklaring op de realisatie van de doorloop DBC’s (zie artikel 5).   Voor het formulier ‘Nacalculatie doorloop DBC’s GGZ Zvw 2012’ geldt dat de representerende zorgverzekeraar, die over het jaar 2012 de 1<sup>e</sup> representerende zorgverzekeraar was voor een zorgaanbieder, enkel medeondertekent voor een eventuele aanpassing van de rekenfactor doorloop DBC’s 2012 zoals bedoeld in artikel 4.3 en 4.4 van de beleidsregel ‘Nacalculatie doorloop DBC’s 2012 en nacalculatie DBC’s 2013’. Voor wat betreft de opgave van de realisatie van de doorloop DBC’s 2012 geeft de accountant een controleverklaring af op juistheid van de verstrekte gegevens en inlichtingen.  
 
