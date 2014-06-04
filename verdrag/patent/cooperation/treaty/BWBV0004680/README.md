@@ -3311,34 +3311,34 @@ d) If the applicant complies with the invitation within the time limit under par
 
 ####The Handling Fee
 
-57.1.   *Requirement to Pay*  Each demand for international preliminary examination shall be subject to the payment of a fee for the benefit of the International Bureau (“handling fee”).   
-57.2.   *Amount* 
+57.1.   *Requirement to Pay*  Each demand for international preliminary examination shall be subject to the payment of a fee for the benefit of the International Bureau (“handling fee”) to be collected by the International Preliminary Examining Authority to which the demand is submitted.   
+57.2.   *Amount*  
 
-(a) The amount of the handling fee is as set out in the Schedule of Fees.  
+a) The amount of the handling fee is as set out in the Schedule of Fees.  
 
-(b) The handling fee shall be payable in the currency or one of the currencies prescribed by the International Preliminary Examining Authority (“prescribed currency”).  
+b) The handling fee shall be payable in the currency or one of the currencies prescribed by the International Preliminary Examining Authority (“prescribed currency”).  
 
-(c)Where the prescribed currency is the Swiss franc, the Authority shall promptly transfer the said fee to the International Bureau in Swiss francs.
+c) Where the prescribed currency is the Swiss franc, the Authority shall promptly transfer the said fee to the International Bureau in Swiss francs.  
 
-(d) Where the prescribed currency is a currency other than the Swiss franc and that currency: 
+d) Where the prescribed currency is a currency other than the Swiss franc and that currency: 
 
-(i) is freely convertible into Swiss francs, the Director General shall establish, for each Authority which prescribes such a currency for the payment of the handling fee, an equivalent amount of that fee in the prescribed currency according to directives given by the Assembly, and the amount in that currency shall promptly be transferred by the Authority to the International Bureau;  
+(i)is freely convertible into Swiss francs, the Director General shall establish, for each Authority which prescribes such a currency for the payment of the handling fee, an equivalent amount of that fee in the prescribed currency according to directives given by the Assembly, and the amount in that currency shall promptly be transferred by the Authority to the International Bureau;
 
-(ii) is not freely convertible into Swiss francs, the Authority shall be responsible for the conversion of the handling fee from the prescribed currency into Swiss francs and shall promptly transfer that fee in Swiss francs, in the amount set out in the Schedule of Fees, to the International Bureau. Alternatively, if the Authority so wishes, it may convert the handling fee from the prescribed currency into euros or US dollars and promptly transfer the equivalent amount of that fee in euros or US dollars, as established by the Director General according to directives given by the Assembly as referred to in item (i), to the International Bureau.      
-57.3.   *Time Limit for Payment; Amount Payable* 
+(ii)is not freely convertible into Swiss francs, the Authority shall be responsible for the conversion of the handling fee from the prescribed currency into Swiss francs and shall promptly transfer that fee in Swiss francs, in the amount set out in the Schedule of Fees, to the International Bureau. Alternatively, if the Authority so wishes, it may convert the handling fee from the prescribed currency into euros or US dollars and promptly transfer the equivalent amount of that fee in euros or US dollars, as established by the Director General according to directives given by the Assembly as referred to in item (i), to the International Bureau.    
+57.3.   *Time Limit for Payment; Amount Payable*  
 
-a) Subject to paragraphs b) and c), the handling fee shall be paid within one month from the date on which the demand was submitted or 22 months from the priority date, whichever expires later.  
+a)Subject to paragraphs b) and c), the handling fee shall be paid within one month from the date on which the demand was submitted or 22 months from the priority date, whichever expires later.
 
-b) Subject to paragraph c), where the demand was transmitted to the International Preliminary Examining Authority under Rule 59.3, the handling fee shall be paid within one month from the date of receipt by that Authority or 22 months from the priority date, whichever expires later. 
+b)Subject to paragraph c), where the demand was transmitted to the International Preliminary Examining Authority under Rule 59.3, the handling fee shall be paid within one month from the date of receipt by that Authority or 22 months from the priority date, whichever expires later.
 
-c) Where, in accordance with Rule 69.1b), the International Preliminary Examining Authority wishes to start the international preliminary examination at the same time as the international search, that Authority shall invite the applicant to pay the handling fee within one month from the date of the invitation.  
+c)Where, in accordance with Rule 69.1b), the International Preliminary Examining Authority wishes to start the international preliminary examination at the same time as the international search, that Authority shall invite the applicant to pay the handling fee within one month from the date of the invitation.
 
-d) The amount of the handling fee payable shall be the amount applicable on the date of payment.    
-57.4.  *Refund*The International Preliminary Examining Authority shall refund the handling fee to the applicant: 
+d)The amount of the handling fee payable shall be the amount applicable on the date of payment.   
+57.4.  *Refund*  The International Preliminary Examining Authority shall refund the handling fee to the applicant:
 
-(i) if the demand is withdrawn before the demand has been sent by that Authority to the International Bureau, or  
+(i)if the demand is withdrawn before the demand has been sent by that Authority to the International Bureau, or
 
-(ii) if the demand is considered, under Rule 54.4 or 54*bis*.1(b), not to have been submitted.    
+(ii)if the demand is considered, under Rule 54.4 or 54bis.1(b), not to have been submitted. 
 
 ### Rule  58  
 
@@ -3346,11 +3346,11 @@ d) The amount of the handling fee payable shall be the amount applicable on the 
 
 58.1.   *Right to Ask for a Fee*  
 
-(a) Each International Preliminary Examining Authority may require that the applicant pay a fee (“preliminary examination fee”) for its own benefit for carrying out the international preliminary examination and for performing all other tasks entrusted to International Preliminary Examining Authorities under the Treaty and these Regulations.  
+a) Each International Preliminary Examining Authority may require that the applicant pay a fee (“preliminary examination fee”) for its own benefit for carrying out the international preliminary examination and for performing all other tasks entrusted to International Preliminary Examining Authorities under the Treaty and these Regulations.  
 
-(b) The amount of the preliminary examination fee, if any, shall be fixed by the International Preliminary Examining Authority. As to the time limit for payment of the preliminary examination fee and the amount payable, the provisions of Rule 57.3 relating to the handling fee shall apply mutatis mutandis.  
+b) The amount of the preliminary examination fee, if any, shall be fixed by the International Preliminary Examining Authority. As to the time limit for payment of the preliminary examination fee and the amount payable, the provisions of Rule 57.3 relating to the handling fee shall apply mutatis mutandis.  
 
-(c) The preliminary examination fee shall be payable directly to the International Preliminary Examining Authority. Where that Authority is a national Office, it shall be payable in the currency prescribed by that Office, and where the Authority is an intergovernmental organization, it shall be payable in the currency of the State in which the intergovernmental organization is located or in any other currency which is freely convertible into the currency of the said State.    
+c) The preliminary examination fee shall be payable directly to the International Preliminary Examining Authority. Where that Authority is a national Office, it shall be payable in the currency prescribed by that Office, and where the Authority is an intergovernmental organization, it shall be payable in the currency of the State in which the intergovernmental organization is located or in any other currency which is freely convertible into the currency of the said State.    
 58.2. Vervallen.
 58.3. *Refund*The International Preliminary Examining Authorities shall inform the International Bureau of the extent, if any, to which, and the conditions, if any, under which, they will refund any amount paid as a preliminary examination fee where the demand is considered as if it had not been submitted and the International Bureau shall promptly publish such information.
 
@@ -3439,18 +3439,18 @@ g) Where the statement concerning amendments contains an indication that amendme
 
 61.1.   *Notification to the International Bureau and the Applicant*  
 
-(a)The International Preliminary Examining Authority shall indicate on the demand the date of receipt or, where applicable, the date referred to in Rule 60.1b). The International Preliminary Examining Authority shall promptly either send the demand to the International Bureau and keep a copy in its files or send a copy to the International Bureau and keep the demand in its files.
+a)The International Preliminary Examining Authority shall indicate on the demand the date of receipt or, where applicable, the date referred to in Rule 60.1b). The International Preliminary Examining Authority shall promptly either send the demand to the International Bureau and keep a copy in its files or send a copy to the International Bureau and keep the demand in its files.
 
-(b)The International Preliminary Examining Authority shall promptly notify the applicant of the date of receipt of the demand. Where the demand has been considered under Rules 54.4, 55.2d), 58*bis*.1b) or 60.1c) as if it had not been submitted, the International Preliminary Examining Authority shall notify the applicant and the International Bureau accordingly.    
+b)The International Preliminary Examining Authority shall promptly notify the applicant of the date of receipt of the demand. Where the demand has been considered under Rules 54.4, 55.2d), 58bis.1b) or 60.1c) as if it had not been submitted, the International Preliminary Examining Authority shall notify the applicant and the International Bureau accordingly.    
 61.2.   *Notification to the Elected Offices*  
 
-(a) The notification provided for in Article 31(7) shall be effected by the International Bureau.  
+a) The notification provided for in Article 31(7) shall be effected by the International Bureau.  
 
-(b) The notification shall indicate the number and filing date of the international application, the name of the applicant, the filing date of the application whose priority is claimed (where priority is claimed) and the date of receipt by the International Preliminary Examining Authority of the demand.  
+b) The notification shall indicate the number and filing date of the international application, the name of the applicant, the filing date of the application whose priority is claimed (where priority is claimed) and the date of receipt by the International Preliminary Examining Authority of the demand.  
 
-(c) The notification shall be sent to the elected Office together with the communication provided for in Article 20. Elections effected after such communication shall be notified promptly after they have been made.  
+c) The notification shall be sent to the elected Office together with the communication provided for in Article 20. Elections effected after such communication shall be notified promptly after they have been made.  
 
-(d)Where the applicant makes an express request to an elected Office under Article 40(2) prior to the international publication of the international application, the International Bureau shall, upon request of the applicant or the elected Office, promptly effect the communication provided for in Article 20 to that Office.   
+d)Where the applicant makes an express request to an elected Office under Article 40(2) prior to the international publication of the international application, the International Bureau shall, upon request of the applicant or the elected Office, promptly effect the communication provided for in Article 20 to that Office.   
 61.3.  *Information for the Applicant *  The International Bureau shall inform the applicant in writing of the notification referred to in Rule 61.2 and of the elected Offices notified under Article 31(7).   
 61.4.  *Publication in the Gazette *  The International Bureau shall, promptly after the filing of the demand but not before the international publication of the international application, publish in the Gazette information on the demand and the elected States concerned, as provided in the Administrative Instructions.  
 
@@ -4444,6 +4444,12 @@ c)The International Bureau shall, if so requested by an elected Office, furnish 
 (a) At the request of the International Bureau, any designated or elected Office shall provide it with a copy of the translation of the international application furnished by the applicant to that Office.  
 
 (b) The International Bureau may, upon request and subject to reimbursement of the cost, furnish to any person copies of the translations received under paragraph *(a)*.    
+
+### Rule  96  
+
+####The Schedule of Fees
+
+96.1.   *Schedule of Fees Annexed to Regulations*  The amounts of the fees referred to in Rules 15, 45*bis*.2 and 57 shall be expressed in Swiss currency. They shall be specified in the Schedule of Fees which is annexed to these Regulations and forms an integral part thereof.  
 
 ####Schedule of fees 
 
@@ -7772,34 +7778,34 @@ d. Indien de aanvrager binnen de in paragraaf c genoemde termijn aan de uitnodig
 
 ####De behandelingstaks
 
-57.1.   *Vereiste van betaling* Voor elk verzoek om een internationale voorlopige beoordeling is een taks ten gunste van het Internationale Bureau („behandelingstaks”) verschuldigd.   
+57.1.   *Vereiste van betaling*  Voor elk verzoek om een internationale voorlopige beoordeling is een taks ten gunste van het Internationale Bureau („behandelingstaks”) verschuldigd, te innen door de Instantie voor de Internationale Voorlopige Beoordeling waarbij het verzoek is ingediend.   
 57.2.   *Bedrag*  
 
-a) Het bedrag van de behandelingstaks is vermeld in de Taksenschaal.  
+a. Het bedrag van de behandelingstaks is vermeld in de Taksenschaal.  
 
-b) De behandelingstaks dient te worden betaald in de valuta of een van de valuta’s die door de Instantie voor de Internationale Voorlopige Beoordeling zijn voorgeschreven („voorgeschreven valuta”).  
+b. De behandelingstaks dient te worden betaald in de valuta of een van de valuta’s die door de Instantie voor de Internationale Voorlopige Beoordeling zijn voorgeschreven („voorgeschreven valuta”).  
 
-c)Indien de Zwitserse frank de voorgeschreven valuta is, maakt de Instantie de bedoelde taks onverwijld in Zwitserse frank over naar het Internationale Bureau.
+c. Indien de Zwitserse frank de voorgeschreven valuta is, maakt de Instantie de bedoelde taks onverwijld in Zwitserse frank over naar het Internationale Bureau.  
 
-d)Indien een andere dan de Zwitserse frank de voorgeschreven valuta is en die valuta: 
+d.Indien een andere dan de Zwitserse frank de voorgeschreven valuta is en die valuta:
 
-i. vrijelijk kan worden omgewisseld in Zwitserse frank, stelt de Directeur-Generaal voor elke Instantie die een dergelijke valuta voorschrijft voor de betaling van de behandelingstaks, een equivalent bedrag van die taks in de voorgeschreven valuta vast overeenkomstig de door de Algemene Vergadering gegeven richtlijnen en wordt het bedrag in die valuta onverwijld door de Instantie naar het Internationale Bureau overgemaakt;  
+i.vrijelijk kan worden omgewisseld in Zwitserse frank, stelt de Directeur-Generaal voor elke Instantie die een dergelijke valuta voorschrijft voor de betaling van de behandelingstaks, een equivalent bedrag van die taks in de voorgeschreven valuta vast overeenkomstig de door de Algemene Vergadering gegeven richtlijnen en wordt het bedrag in die valuta onverwijld door de Instantie naar het Internationale Bureau overgemaakt;
 
-ii. niet vrijelijk kan worden omgewisseld in Zwitserse frank, is de Instantie verantwoordelijk voor het omwisselen van de behandelingstaks van de voorgeschreven valuta in Zwitserse frank en maakt zij die taks in het bedrag als vermeld in de Taksenschaal in Zwitserse frank onverwijld over naar het Internationale Bureau.  Als alternatief kan de Instantie desgewenst de behandelingstaks van de voorgeschreven valuta omwisselen in euro of Amerikaanse dollar en het equivalente bedrag van die taks zoals vastgesteld door de Directeur-Generaal overeenkomstig door de Algemene Vergadering gegeven richtlijnen, als bedoeld onder i, onverwijld in euro of Amerikaanse dollar overmaken naar het Internationale Bureau.   
+ii.niet vrijelijk kan worden omgewisseld in Zwitserse frank, is de Instantie verantwoordelijk voor het omwisselen van de behandelingstaks van de voorgeschreven valuta in Zwitserse frank en maakt zij die taks in het bedrag als vermeld in de Taksenschaal in Zwitserse frank onverwijld over naar het Internationale Bureau.Als alternatief kan de Instantie desgewenst de behandelingstaks van de voorgeschreven valuta omwisselen in euro of Amerikaanse dollar en het equivalente bedrag van die taks zoals vastgesteld door de Directeur-Generaal overeenkomstig door de Algemene Vergadering gegeven richtlijnen, als bedoeld onder i, onverwijld in euro of Amerikaanse dollar overmaken naar het Internationale Bureau.  
 57.3.  *Termijn voor betaling; te betalen bedrag* 
 
-a. Onverminderd het bepaalde onder de paragrafen b en c dient de behandelingstaks te worden betaald binnen een maand na de datum waarop het verzoek is ingediend of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.  
+a.Onverminderd het bepaalde onder de paragrafen b en c dient de behandelingstaks te worden betaald binnen een maand na de datum waarop het verzoek is ingediend of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.
 
-b. Onverminderd het bepaalde onder paragraaf c dient, wanneer het verzoek ingevolge Regel 59.3 verzonden is aan de Instantie voor de Internationale Voorlopige Beoordeling, de behandelingstaks te worden betaald binnen een maand na de datum van ontvangst door die Instantie of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.  
+b.Onverminderd het bepaalde onder paragraaf c dient, wanneer het verzoek ingevolge Regel 59.3 verzonden is aan de Instantie voor de Internationale Voorlopige Beoordeling, de behandelingstaks te worden betaald binnen een maand na de datum van ontvangst door die Instantie of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.
 
-c. Wanneer, in overeenstemming met Regel 69.1 b de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling gelijktijdig met het internationale nieuwheidsonderzoek wenst te starten, nodigt deze Instantie de aanvrager uit de behandelingstaks binnen 1 maand na de datum van de uitnodiging te betalen.  
+c.Wanneer, in overeenstemming met Regel 69.1 b de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling gelijktijdig met het internationale nieuwheidsonderzoek wenst te starten, nodigt deze Instantie de aanvrager uit de behandelingstaks binnen 1 maand na de datum van de uitnodiging te betalen.
 
-d. Het bedrag van de behandelingstaks is het bedrag dat van toepassing is op de datum van betaling.     
-57.4. * Terugbetaling* De Instantie voor de Internationale Voorlopige Beoordeling betaalt de behandelingstaks aan de aanvrager terug: 
+d.Het bedrag van de behandelingstaks is het bedrag dat van toepassing is op de datum van betaling.
+57.4. *Terugbetaling*De Instantie voor de Internationale Voorlopige Beoordeling betaalt de behandelingstaks aan de aanvrager terug:
 
-i. indien het verzoek wordt ingetrokken voordat het door die Instantie is toegezonden aan het Internationale Bureau, of  
+i.indien het verzoek wordt ingetrokken voordat het door die Instantie is toegezonden aan het Internationale Bureau, of
 
-ii. indien het verzoek ingevolge Regel 54.4 of 54*bis*.l b als niet ingediend wordt beschouwd.   
+ii.indien het verzoek ingevolge Regel 54.4 of 54bis.l b als niet ingediend wordt beschouwd.
 
 ### Regel  58  
 
@@ -7807,11 +7813,11 @@ ii. indien het verzoek ingevolge Regel 54.4 of 54*bis*.l b als niet ingediend wo
 
 58.1.   *Het recht een taks te vragen*  
 
-a) Elke Instantie voor de Internationale Voorlopige Beoordeling kan verlangen dat de aanvrager te haren gunste een taks betaalt („taks voor voorlopige beoordeling”) voor het verrichten van de internationale voorlopige beoordeling en voor het vervullen van alle andere taken die ingevolge het Verdrag en dit Reglement aan Instanties voor de Internationale Voorlopige Beoordeling zijn opgedragen.  
+a. Elke Instantie voor de Internationale Voorlopige Beoordeling kan verlangen dat de aanvrager te haren gunste een taks betaalt („taks voor voorlopige beoordeling”) voor het verrichten van de internationale voorlopige beoordeling en voor het vervullen van alle andere taken die ingevolge het Verdrag en dit Reglement aan Instanties voor de Internationale Voorlopige Beoordeling zijn opgedragen.  
 
-b) Het bedrag van de taks voor voorlopige beoordeling, indien verschuldigd, wordt vastgesteld door de Instantie voor de Internationale Voorlopige Beoordeling. Met betrekking tot de termijn voor betaling van de taks voor voorlopige beoordeling en het te betalen bedrag zijn de bepalingen van Regel 57.3 inzake de behandelingstaks van overeenkomstige toepassing.  
+b. Het bedrag van de taks voor voorlopige beoordeling, indien verschuldigd, wordt vastgesteld door de Instantie voor de Internationale Voorlopige Beoordeling. Met betrekking tot de termijn voor betaling van de taks voor voorlopige beoordeling en het te betalen bedrag zijn de bepalingen van Regel 57.3 inzake de behandelingstaks van overeenkomstige toepassing.  
 
-c) De taks voor voorlopige beoordeling dient rechtstreeks aan de Instantie voor de Internationale Voorlopige Beoordeling te worden betaald. Wanneer deze Instantie een nationaal bureau is, dient de taks te worden betaald in de door dat bureau voorgeschreven valuta en wanneer de Instantie een intergouvernementele organisatie is, dient de taks te worden betaald in de valuta van de Staat waarin de intergouvernementele organisatie is gevestigd of in een andere valuta die vrij inwisselbaar is in de valuta van de genoemde Staat.    
+c. De taks voor voorlopige beoordeling dient rechtstreeks aan de Instantie voor de Internationale Voorlopige Beoordeling te worden betaald. Wanneer deze Instantie een nationaal bureau is, dient de taks te worden betaald in de door dat bureau voorgeschreven valuta en wanneer de Instantie een intergouvernementele organisatie is, dient de taks te worden betaald in de valuta van de Staat waarin de intergouvernementele organisatie is gevestigd of in een andere valuta die vrij inwisselbaar is in de valuta van de genoemde Staat.    
 58.2. Vervallen.
 58.3. *Terugbetaling*De Instantie voor de Internationale Voorlopige Beoordeling deelt het Internationale Bureau mede of zij, en zo ja, in welke mate en onder welke voorwaarden, een bedrag dat als taks voor voorlopige beoordeling is betaald zal terugbetalen, indien het verzoek als niet ingediend wordt beschouwd, en het Internationale Bureau zal zodanige mededeling onverwijld publiceren.
 
@@ -8905,6 +8911,12 @@ c. Indien zulks is verzocht door een gekozen bureau, verstrekt het Internationaa
 a) Op verzoek van het Internationale Bureau dient elk aangewezen of gekozen bureau het Internationale Bureau een afschrift te verstrekken van de vertaling van de internationale aanvrage die de aanvrager aan dat aangewezen of gekozen bureau heeft verstrekt.  
 
 b) Het Internationale Bureau kan, op verzoek en tegen vergoeding van de kosten, een persoon afschriften van de ingevolge het bepaalde onder paragraaf *a)* ontvangen vertalingen verstrekken.    
+
+### Regel  96  
+
+####De taksenschaal
+
+96.1.   *Taksenschaal als bijlage bij het Reglement*  De bedragen van de taksen bedoeld in de Regels 15, 45*bis*.2 en 57 worden uitgedrukt in Zwitserse valuta. Zij worden vastgelegd in de Taksenschaal die als Bijlage bij dit Reglement is gevoegd en er een integrerend onderdeel van uitmaakt.  
 
 ####Taksenschaal 
 

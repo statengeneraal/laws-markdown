@@ -987,7 +987,7 @@ De personen, die schuldenaren zijn ingevolge artikel 2.69 tot en met 2.73, zijn 
 
 ### Artikel  2.82  
 
-1.  Elke bestuurder van een lichaam als bedoeld in artikel 1.3 van de Belastingwet BES, is hoofdelijk aansprakelijk voor door dat lichaam verschuldigde invoerrechten, bestuurlijke boeten, interest en kosten.   
+1.  Elke bestuurder van een lichaam als bedoeld in [artikel 1.3 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is hoofdelijk aansprakelijk voor door dat lichaam verschuldigde invoerrechten, bestuurlijke boeten, interest en kosten.   
 2.  Voor de toepassing van dit artikel wordt ingeval een lichaam als bedoeld in het eerste lid zelf bestuurder is, onder bestuurder mede verstaan ieder van de bestuurders van laatstbedoeld lichaam.   
 3.  Onder bestuurders van een lichaam zijn begrepen allen, die bij of na het ontstaan van de verschuldigdheid bestuurders waren, ook voor zover zij zijn af- of uitgetreden, rekening hebben gedaan of décharge hebben bekomen.  
 
@@ -1036,8 +1036,8 @@ c. een beschikking op grond van deze wet;   kan binnen twee maanden na de medede
 
 ### Artikel  2.87  
 
-1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij de Raad van Beroep voor belastingzaken, bedoeld in artikel 8.97 van de Belastingwet BES.   
-2.  Bij de instelling van het beroep bij de Raad van Beroep voor belastingzaken zijn de bepalingen van hoofdstuk VIII, titel 8, afdelingen 2 en 3, van de Belastingwet BES van overeenkomstige toepassing.   
+1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij de Raad van Beroep voor belastingzaken, bedoeld in [artikel 8.97 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
+2.  Bij de instelling van het beroep bij de Raad van Beroep voor belastingzaken zijn de bepalingen van [hoofdstuk VIII, titel 8, afdelingen 2](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [3, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.   
 3.  De inspecteur of de ontvanger is belast met de uitvoering van de uitspraak van de Raad van Beroep voor belastingzaken.  
 
 ### Titel  6  
@@ -1437,7 +1437,7 @@ d. voldoening aan het Rijk van een geldsom gelijk aan of lager dan het geschatte
 
 e. het alsnog voldoen aan een uit deze wet voortvloeiende verplichting.     
 3.  De inspecteur bepaalt telkens de termijn waarbinnen aan de gestelde voorwaarden moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop ervan een keer worden verlengd.   
-4.  De in het tweede lid bedoelde geldsommen worden ingevorderd op de wijze voorzien in hoofdstuk VIII, titel 5, van de Belastingwet BES. Daartoe wordt een afschrift van de beschikking, bedoeld in het tweede lid, aan de ontvanger ter hand gesteld.  
+4.  De in het tweede lid bedoelde geldsommen worden ingevorderd op de wijze voorzien in [hoofdstuk VIII, titel 5, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). Daartoe wordt een afschrift van de beschikking, bedoeld in het tweede lid, aan de ontvanger ter hand gesteld.  
 
 ### Artikel  2.148  
 
@@ -3594,7 +3594,7 @@ f. de vergunninghouder daarom verzoekt.
 ### Artikel  4.33  
 
 1.  Het verlenen, het aanpassen en het intrekken van een vergunning voor een accijnsgoederenplaats alsmede het afwijzen van een verzoek daartoe geschieden bij beschikking.   
-2.  In afwijking van hoofdstuk VIII van de Belastingwet BES geeft de inspecteur binnen acht weken na ontvangst van het verzoek een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.   
+2.  In afwijking van [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) geeft de inspecteur binnen acht weken na ontvangst van het verzoek een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.   
 3.  Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.  
 
 ### Afdeling  3  
@@ -3669,7 +3669,7 @@ De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitsl
 ### Artikel  4.44  
 
 1.  De vergunninghouder van een accijnsgoederenplaats heeft voor de accijns die is begrepen in de verkoopprijs van de door hem geleverde accijnsgoederen, zolang hij ter zake geen betaling heeft ontvangen doch niet langer dan een half jaar nadat hij die accijns verschuldigd is geworden, voorrecht op alle goederen van de koper.   
-2.  Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van artikel 8.55 van de Belastingwet BES.  
+2.  Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van [artikel 8.55 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
 
 ### Artikel  4.45  
 
@@ -3762,7 +3762,7 @@ b. degene die buiten Bonaire tabaksproducten van accijnszegels voorziet.
 3.  Het bedrag van de zekerheid wordt vastgesteld door de inspecteur. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.   
 4.  Met betrekking tot de zekerheid, bedoeld in het tweede lid, zijn de artikelen 4.40 tot en met 4.43 van overeenkomstige toepassing.   
 5.  Indien de vergunninghouder van een accijnsgoederenplaats zekerheid heeft gesteld op de voet van artikel 4.39 kan die zekerheid mede dienen als zekerheid als bedoeld in het tweede lid.   
-6.  Op de verschuldigd geworden betaling is titel 5 van hoofdstuk VIII van de Belastingwet BES van toepassing als ware de betaling accijns.  
+6.  Op de verschuldigd geworden betaling is [titel 5 van hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van toepassing als ware de betaling accijns.  
 
 ### Artikel  4.55  
 
@@ -3824,7 +3824,7 @@ In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden 
 ### Artikel  4.61  
 
 1.  Accijnsgoederenplaatsen en plaatsen ten aanzien waarvan het aldaar vervaardigen of voorhanden hebben van accijnsgoederen is onderworpen aan beperkende bepalingen zijn onderworpen aan onderzoek.   
-2.  Aan onderzoek zijn mede onderworpen vervoermiddelen. Artikel 8.85, eerste lid, van de Belastingwet BES is van overeenkomstige toepassing.   
+2.  Aan onderzoek zijn mede onderworpen vervoermiddelen. [Artikel 8.85, eerste lid, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) is van overeenkomstige toepassing.   
 3.  Ten behoeve van het onderzoek, bedoeld in het tweede lid, is, overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels, op vordering van de inspecteur of een door hem aangewezen ambtenaar: 
 
 a. de gezagvoerder van een schip gehouden het schip terstond vaart te doen minderen, te doen bijdraaien of te doen stilhouden en aanleggen;  

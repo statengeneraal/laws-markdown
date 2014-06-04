@@ -290,7 +290,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij CS-traangas tegen een persoon z
 a. de surveillancedienst,  
 
 b. het optreden van ambtenaren die zijn belast met het optreden ter handhaving van de openbare orde en hulpverlening bij grootschalige manifestaties en evenementen, het uitvoeren van evacuaties, het bewaken en beveiligen van objecten, het optreden tijdens tampen en crises, het uitvoeren van zoekacties en het aanhouden van ordeverstoorders na toestemming van het bevoegd gezag.     
-2.  Het inzetten van een politiehond bij het optreden van ambtenaren als bedoeld in artikel 6 van het Besluit beheer politiekorps BES of een bijstandseenheid is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van deze ambtenaren of een dergelijke eenheid.   
+2.  Het inzetten van een politiehond bij het optreden van ambtenaren als bedoeld in [artikel 6 van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md) of een bijstandseenheid is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van deze ambtenaren of een dergelijke eenheid.   
 3.  De geleider dient in het bezit te zijn van een krachtens [artikel 41, eerste lid, van de rijkswet](../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) vastgesteld certificaat.  
 
 ### Artikel  27  
@@ -417,8 +417,8 @@ b.  *ingeslotene:* degene die rechtens van zijn vrijheid is beroofd.
 
 ### Artikel  41  
 
-1.  De ambtenaar handelt jegens de ingeslotene overeenkomstig het gestelde bij of krachtens artikel 9 van het Besluit beheer politiekorps BES.   
-2.  De ambtenaar registreert de gegevens die krachtens artikel 9, zesde lid, van het Besluit beheer politiekorps BES zijn aangewezen.  
+1.  De ambtenaar handelt jegens de ingeslotene overeenkomstig het gestelde bij of krachtens [artikel 9 van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md).   
+2.  De ambtenaar registreert de gegevens die krachtens [artikel 9, zesde lid, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md) zijn aangewezen.  
 
 ### Artikel  42  
 

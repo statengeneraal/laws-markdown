@@ -150,11 +150,11 @@ Besluit:
 
 –  *verordening nr. 1026/2012:* Verordening (EU) nr. 1026/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende bepaalde maatregelen met het oog op de instandhouding van visbestanden ten aanzien van landen die niet-duurzame visserij toelaten (PbEU L, 316);  
 
-–*basisverordening:* Verordening van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van Verordeningen (EG) nr. 1954/2003 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordeningen (EG) nr. 2371/2002 en (EG) nr. 639/2004;  
+–*basisverordening:* Verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van Verordeningen (EG) nr. 1954/2003 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordeningen (EG) nr. 2371/2002 en (EG) nr. 639/2004 van de Raad en Besluit 2004/585/EG van de Raad (PbEU L, 354);  
 
-–*GMO-verordening:* Verordening van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten, tot wijziging van Verordeningen (EG) nr. 1184/2006 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordening (EG) nr. 104/2000 van de Raad;  
+–*GMO-verordening:* Verordening (EU) nr. 1379/2013 van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten, tot wijziging van Verordeningen (EG) nr. 1184/2006 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordening (EG) nr. 104/2000 van de Raad (PbEU L, 354);  
 
-–*verordening vangstmogelijkheden:* Verordening van de Raad van 17 december 2013 tot vaststelling, voor 2014, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de EU-wateren en, voor EU-vaartuigen, in bepaalde wateren buiten de EU van toepassing zijn.   
+–*verordening vangstmogelijkheden:* Verordening (EU) nr. 43/2014 van de Raad van 20 januari 2014 tot vaststelling, voor 2014, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn (PbEU L, 24).   
 
 ### Artikel  2  
 
@@ -349,7 +349,7 @@ c. de personen op wier naam de vaartuigen staan geregistreerd in het visserijreg
 1.  Het is verboden met een vissersvaartuig met een lengte van over alles van ten minste 10 meter te vissen in de gebieden, bedoeld in artikel 3 van verordening nr. 1342/2008, met typen vistuig behorend tot de in punt 1 van bijlage I bij verordening nr. 1342/2008 vermelde vistuigcategorieën en die typen vistuig aan boord te houden.   
 2.  Het eerste lid is niet van toepassing ten aanzien van een vissersvaartuig, indien: 
 
-a. de voor de beheersperiode, genoemd in artikel 1, eerste lid, onderdeel b, van de verordening vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden, vermeld in bijlage 7, nog niet is opgebruikt;  
+a. de voor de beheersperiode, genoemd in artikel 1, tweede lid, onderdeel b, van de verordening vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden, vermeld in bijlage 7, nog niet is opgebruikt;  
 
 b. voor zover het de vistuigcategorieën TR1 en TR2 betreft, het vissersvaartuig in tijdvakken van twee aaneengesloten weken telkens ten hoogste tien kalenderdagen in een gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, aanwezig is; en  
 
@@ -1784,7 +1784,8 @@ c. het vangstdocument, bedoeld in artikel 3, onderdeel b, van verordening nr. 1
 3.  De minister verleent de erkenning, bedoeld in het tweede lid, slechts indien de marktdeelnemer voldoet aan artikel 16, derde lid, onderdelen a tot en met g, van verordening nr. 1005/2008 en de artikelen 9 tot en met 13 van verordening nr. 1010/2009.   
 4.  De minister schorst de erkenning, bedoeld in het tweede lid, indien zich één van de in de artikelen 22 tot en met 26 van verordening nr. 1010/2009 bedoelde gevallen voordoet.   
 5.  De minister trekt de erkenning in indien zich één van de in artikel 27 van verordening nr. 1010/2009 bedoelde gevallen voordoet.   
-6.  Het aantal invoeroperaties, bedoeld in artikel 16, derde lid, onderdeel b, van verordening nr. 1005/2008, bedraagt 50.  
+6.  Het aantal invoeroperaties, bedoeld in artikel 16, derde lid, onderdeel b, van verordening nr. 1005/2008, bedraagt 50.   
+7.  Het volume van een invoeroperatie, bedoeld in artikel 16, derde lid, onderdeel b, van verordening nr. 1005/2008, bedraagt minimaal 500 kg. 
 
 ### Artikel  138  
 
@@ -2183,41 +2184,424 @@ Nieuwe Statenzijl (gemeente Reiderland) Noordpolderzijl (gemeente Eemsmond) De C
 
 ### Bijlage  4  
 
-Vangstverboden voor het kalenderjaar 2014 op de vissoorten, bedoeld in artikel 10, eerste lid, van de Uitvoeringsregeling zeevisserij   Voor de met een asterisk gemarkeerde bestanden geldt een vangstverbod voor alle vissersvaartuigen, Nederlands of niet-Nederlands.   Voor de niet met een asterisk gemarkeerde bestanden geldt een vangstverbod voor Nederlandse vissersvaartuigen  ![253072](http://wetten.overheid.nl/Illustration/253072)
-![253073](http://wetten.overheid.nl/Illustration/253073)
-![253074](http://wetten.overheid.nl/Illustration/253074)
-![253075](http://wetten.overheid.nl/Illustration/253075)
-![253076](http://wetten.overheid.nl/Illustration/253076)
-![253077](http://wetten.overheid.nl/Illustration/253077)
-![253078](http://wetten.overheid.nl/Illustration/253078)
-![253079](http://wetten.overheid.nl/Illustration/253079)
+####Vangstverboden voor het kalenderjaar 2014 op de vissoorten, bedoeld in artikel 10, eerste lid , van de Uitvoeringsregeling zeevisserij
+
+*Voor de met een asterisk gemarkeerde bestanden geldt een vangstverbod voor alle vissersvaartuigen, Nederlands of niet-Nederlands.*   *Voor de niet met een asterisk gemarkeerde bestanden geldt een vangstverbod voor Nederlandse vissersvaartuigen.*   
+
+|  *Vissoort*   | Gebied  |
+|:---|:---|
+|  *Alaskapollak**   | volle zee van de Beringzee  |
+|  *Theragra chalcogramma*   | --- |
+|  *Amerikaanse schol**   | NAFO gebied 3M  |
+|  *Hippoglossoides platessoides*   | NAFO gebieden 3L, 3N en 3O  |
+|  *Andere soorten**   | Antarctische wateren van FAO gebied 58.5.2.  |
+| --- | EU-wateren van ICES gebieden IIa, IV en VIa ten noorden van 56°30' NB  |
+| --- | EU-wateren van ICES gebieden Vb, VI en VII  |
+|  *Andere soorten*   | Noorse wateren van ICES gebieden I en II  |
+| --- | Wateren van de Faeröer in ICES gebied Vb  |
+|  *Ansjovis*   | ICES gebied VIII  |
+|  *Engraulis encrasicolus*   | ICES gebieden IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Antarctische ijsheek**   | FAO gebied 48.4 – Zuidelijke Antarctische wateren  |
+|  *Dissostichus mawsoni*   | --- |
+|  *Antarctische krill**   | Antarctische wateren van FAO gebied 58.4.1  Antarctische wateren van FAO gebied 58.4.2  |
+|  *Euphausia superba*   | --- |
+|  *Antarctische krill*   | Antarctische wateren van FAO gebied 48  |
+|  *Euphausia superba*   | --- |
+|  *Atlantische slijmkop**   | EU-wateren en internationale wateren van ICES gebied VI  |
+|  *Hoplostethus atlanticus*   | EU-wateren en internationale wateren van ICES gebied VII  |
+| --- | EU-wateren en internationale wateren van ICES gebieden I, II, III, IV, V, VIII, IX, X, XII en XIV  |
+| --- | SEAFO deelsector B1  |
+| --- | SEAFO gebied met uitzondering van deelsector B1  |
+|  *Beryciden**   | SEAFO-verdragsgebied  |
+|  *Beryx spp.*   | --- |
+|  *Beryciden*   | EU-wateren en internationale wateren van ICES gebieden III, IV, V, VI, VII, VIII, IX, X, XII en XIV  |
+|  *Beryx spp.*   | --- |
+|  *Blauwe leng*   | EU-wateren en internationale wateren van ICES gebied III  |
+|  *Molva dypterygia*   | --- |
+|  *Blauwe marlijn*   | Atlantische Oceaan  |
+|  *Makaira nigricans*   | --- |
+|  *Blauwe wijting**   | EU-wateren van ICES gebieden II, IVa, V, VI, ten noorden van 56°30' NB en ICES gebied VII ten westen van 12 WL  |
+|  *Micromesistius poutassou*   | Noorse wateren van ICES gebieden II en IV  |
+|  *Blauwe wijting*   | ICES gebieden VIIIc, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Micromesistius poutassou*   | Atlantische Oceaan ten oosten van 45 W en Middellandse Zee  |
+|  *Blauwvintonijn*   | EU-wateren en internationale wateren van ICES gebied X  |
+|  *Thunnus thynnus*   | --- |
+|  *Diepzeehaaien**   | EU-wateren en internationale wateren van ICES gebieden V, VI, VII, VIII, en IX  |
+|  *Elasmobranchii spp*   | Internationale wateren van ICES gebied XII  |
+| --- | SEAFO-verdragsgebied  |
+|  *Doornhaai**   | EU-wateren en internationale wateren van ICES gebieden I, V, VI, VII, VIII, XII en XIV  |
+|  *Squalus acanthias*   | EU-wateren van ICES gebied IIIa  |
+| --- | EU-wateren van ICES gebieden IIa en IV  |
+| --- | SEAFO-verdragsgebied  |
+|  *Europese heek*   | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  |
+|  *Merluccius merluccius*   | ICES gebieden VIIIc, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Evervissen*   | EU-wateren en internationale wateren van ICES gebieden VI, VII en VIII  |
+|  *Caproidae*   | --- |
+|  *Fluweelijshaai**   | SEAFO-verdragsgebied  |
+|  *Scymnodon squamulosus*   | --- |
+|  *Gaffelkabeljauw*   | EU-wateren en internationale wateren van ICES gebieden I, II, III en IV  |
+|  *Phycis blennoides*   | EU-wateren en internationale wateren van ICES gebieden V, VI en VII  |
+| --- | EU-wateren en internationale wateren van ICES gebieden VIII en IX  |
+| --- | EU-wateren en internationale wateren van ICES gebieden X en XII  |
+|  *Geelstaartschar**   | NAFO gebieden 3L, 3N en 3O  |
+|  *Limanda ferruginea*   | --- |
+|  *Gemarmerde zuidpoolkabeljauw* *   | Antarctische wateren van FAO gebied 48.3  |
+|  *Notothenia rossii*   | --- |
+|  *Georgia-ijsvis**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Pseudochaenichthys georgianus*   | Antarctische wateren van FAO gebied 48.3  |
+|  *Gevlekte gladde lantaarnhaai* *   | SEAFO-verdragsgebied  |
+|  *Etmopterus bigelowi*   | --- |
+|  *Gitaarroggen**   | EU-wateren van ICES-deelgebieden I, II, III, IV, V, VI, VII, VIII, IX, X en XII  |
+|  *Rhinobatidae*   | --- |
+|  *Gladde lantaarnhaai**   | SEAFO-verdragsgebied  |
+|  *Etmopterus pusillus*   | --- |
+|  *Golfrog**   | EU-wateren van de ICES-deelgebieden VI, IX en X  |
+|  *Raja undulata*   | --- |
+|  *Grenadiervis*   | EU-wateren en internationale wateren van ICES gebied III  |
+|  *Coryphaenoides rupestris*   | EU-wateren en internationale wateren van ICES gebieden I, II en IV  |
+| --- | EU-wateren en internationale wateren van ICES gebieden VIII, IX, X, XII en XIV  |
+|  *Grenadiervissen**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Macrourus spp.*   | Antarctische wateren van FAO gebied 58.5.2.  |
+| --- | Groenlandse wateren van ICES gebieden V en XIV  |
+|  *Grenadiervissen*   | Groenlandse wateren in NAFO gebied 1  |
+|  *Macrourus spp.*   | Groenlandse wateren van ICES gebieden V en XIV  |
+|  *Grijze zuidpoolkabeljauw**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Lepidonotothen squamifrons*   | Antarctische wateren van FAO gebied 58.5.2.  |
+|  *Groene zuidpoolkabeljauw**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Gobionotothen gibberifrons*   | --- |
+|  *Groenlandse heilbot/Zwarte heilbot* *   | Internationale wateren van ICES gebieden I en II  |
+|  *Reinhardtius hippoglossoides*   | --- |
+|  *Groenlandse heilbot/Zwarte heilbot *   | EU-wateren van ICES gebieden IIa en IV; EU-wateren en internationale wateren van ICES gebieden Vb en VI  |
+|  *Reinhardtius hippoglossoides*   | Groenlandse wateren in NAFO gebied 1  |
+| --- | Groenlandse wateren van ICES gebieden V en XIV  |
+| --- | NAFO gebieden 3L, 3M, 3N en 3O  |
+| --- | Noorse wateren van ICES gebieden I en II  |
+|  *Grootoog-voshaai**   | ICCAT-verdragsgebied  |
+|  *Alopias superciliosus*   | --- |
+|  *Grootoogtonijn*   | Atlantische Oceaan  |
+|  *Thunnus obesus*   | --- |
+|  *Grote lantaarnhaai**   | SEAFO-verdragsgebied  |
+|  *Etmopterus princeps*   | --- |
+|  *Hamerhaaien**   | ICCAT-verdragsgebied  |
+|  *Sphyrna spp*   | --- |
+|  *Haring*   | EU-wateren van deelsectoren 25-27, 28.2, 29 en 32 in ICES gebied IIId  |
+|  *Clupea harengus*   | ICES gebied IIIa  |
+| --- | ICES gebied IIIa (Bijvangstquotum)  |
+| --- | ICES gebied IIId – deelsector 28.1  |
+| --- | ICES gebied IIId – deelsectoren 30 en 31  |
+| --- | ICES gebied VIIa  |
+| --- | ICES gebieden IIIb, c en d – deelsectoren 22-24  |
+| --- | ICES gebieden VIIe en VIIf  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+| --- | Wateren van Clyde in ICES gebied VIa  |
+|  *Haringhaai**   | Wateren van Frans-Guyana, Kattegat, EU-wateren van het Skagerrak  |
+|  *Lamna nasus*   | ICES gebieden I, II, III, IV, V, VI, VII, VIII, IX, X, XII en XIV  |
+| --- | EU-wateren van CECAF gebieden 34.1.1, 34.1.2 en 34.2  |
+| --- | alle wateren  |
+|  *Heilbot*   | Groenlandse wateren in NAFO gebied 1  |
+|  *Hippoglossus hippoglossus*   | Groenlandse wateren van ICES gebieden V en XIV  |
+|  *Horsmakrelen*   | EU-wateren van CECAF gebied 34.1.2 onder jurisdictie van Madeira  |
+|  *Trachurus spp.*   | ICES gebied IX  |
+| --- | ICES gebied VIIIc  |
+| --- | ICES gebied X en EU-wateren van CECAF gebied 34.2 onder jurisdictie van de Azoren  |
+|  *IJsvis**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Champsocephalus gunnari*   | Antarctische wateren van FAO gebied 58.5.2.  |
+|  *Industriële vis*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Kabeljauw**   | ICES gebied VIa en EU-wateren en internationale wateren van ICES gebied Vb ten oosten van 12°W  |
+|  *Gadus morhua*   | NAFO gebieden 2J, 3K en 3L  |
+| --- | NAFO gebieden 3N en 3O  |
+|  *Kabeljauw*   | Groenlandse wateren van NAFO gebied 1 en Groenlandse wateren van ICES gebied XIV  |
+|  *Gadus morhua*   | ICES gebied IIIaS  |
+| --- | ICES gebied IIId – deelsectoren 25-32  |
+| --- | ICES gebied VIIa  |
+| --- | ICES gebied VIb en EU-wateren en internationale wateren van ICES gebied Vb ten westen van 12° WL en van ICES gebieden XII en XIV  |
+| --- | ICES gebieden IIIb, c en d – deelsectoren 22-24  |
+| --- | NAFO gebied 3M  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+| --- | Noorse wateren van ICES gebieden I en II  |
+|  *Kabeljauw en schelvis*   | Wateren van de Faeröer in ICES gebied Vb  |
+|  *Gadus morhua & Melanogrammus aeglefinus *   | --- |
+|  *Kever**   | ICES gebied IIIa; EU-wateren van ICES gebieden IIa en IV  |
+|  *Trisopterus esmarki*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Koolvis**   | Internationale wateren van ICES gebieden I en II  |
+|  *Pollachius virens*   | --- |
+|  *Koolvis*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+|  *Pollachius virens*   | ICES gebieden VII, VIII, IX, X en EU wateren van CECAF gebied 34.1.1  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+| --- | Noorse wateren van ICES gebieden I en II  |
+|  *Kortstaartlantaarnhaai**   | SEAFO-verdragsgebied  |
+|  *Etmopterus brachyurus*   | --- |
+|  *Kortvinpijlinktvis*   | NAFO gebieden 3 en 4  |
+|  *Illex illecebrosus*   | --- |
+|  *Krabben**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Paralomis spp.*   | --- |
+|  *Langoustine*   | ICES gebied VI en EU- en internationale wateren van ICES gebied Vb  |
+|  *Nephrops norvegicus*   | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  |
+| --- | ICES gebied VII  |
+| --- | ICES gebied VIIIc  |
+| --- | ICES gebieden IX en X en EU wateren van CECAF gebied 34.1.1  |
+| --- | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Langsnuit-ijsvis**   | Antarctische wateren van FAO gebied 58.5.2.  |
+|  *Channichthys rhinoceratus*   | --- |
+|  *Leng*   | EU-wateren en internationale wateren van ICES gebied V  |
+|  *Molva molva*   | EU-wateren en internationale wateren van ICES gebieden VI, VII, VIII, IX, X, XII en XIV  |
+| --- | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  |
+|  *Leng en blauwe leng*   | Wateren van de Faeröer in ICES gebied Vb  |
+|  *Molva molva & Molva dypterygia*   | --- |
+|  *Lodde**   | Groenlandse wateren van ICES gebieden V en XIV  |
+|  *Mallotus villosus*   | ICES gebied IIb  |
+| --- | NAFO gebieden 3N en 3O  |
+|  *Lom*   | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  |
+|  *Brosme brosme*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Makreel*   | ICES gebieden VIIIc, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Scomber scombrus*   | Noorse wateren van ICES gebieden IIa  |
+|  *Manta**   | alle wateren  |
+|  *Manta birostris*   | --- |
+|  *Noorse garnaal**   | NAFO-gebied 3M  |
+|  *Pandalus borealis*   | --- |
+|  *Noorse garnaal*   | Groenlandse wateren in NAFO gebied 1  |
+|  *Pandalus borealis*   | Groenlandse wateren van ICES gebieden V en XIV  |
+| --- | ICES gebied IIIa  |
+| --- | NAFO gebied 3L  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Pacifische sneeuwkrabben*   | Groenlandse wateren in NAFO gebied 1  |
+|  *Chionoecetes spp.*   | --- |
+|  *Peneïde garnalen*   | Frans-Guyana  |
+|  *Penaeus spp.*   | --- |
+|  *Platvissen*   | Wateren van de Faeröer in ICES gebied Vb  |
+|  *Pleuronectiformes*   | --- |
+|  *Reuzenhaai**   | alle wateren  |
+|  *Cetorhinus maximus*   | --- |
+|  *Rode diepzeekrabben**   | SEAFO deelsector B1  |
+|  *Geryon spp.*   | SEAFO gebied met uitzondering van deelsector B1  |
+|  *Rogachtigen**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Rajiformes*   | Antarctische wateren van FAO gebied 58.5.2.  |
+|  *Rogachtigen*   | EU-wateren van ICES gebied IIIa  |
+|  *Rajiformes*   | EU-wateren van ICES gebieden VIII en IX  |
+|  *Roggen**   | SEAFO-verdragsgebied  |
+|  *Rajidae*   | --- |
+|  *Roggen*   | NAFO gebieden 3L, 3N en 3O  |
+|  *Raja spp*   | --- |
+|  *Roodbaarzen**   | IJslandse wateren van ICES gebied Va  |
+|  *Sebastes spp.*   | Internationale wateren van ICES gebieden I en II  |
+| --- | NAFO deelgebied 2, sectoren 1F en 3K  |
+| --- | Ondiep pelagische vis in EU-wateren en internationale wateren van ICES gebied V en in internationale wateren van ICES gebieden XII en XIV  |
+|  *Roodbaarzen*   | Diep pelagische vis in EU-wateren en internationale wateren van ICES gebied V en in internationale wateren van ICES gebieden XII en XIV  |
+|  *Sebastes spp.*   | Groenlandse wateren van NAFO gebied 1F en Groenlandse wateren van ICES gebieden V en XIV (demersaal)  |
+| --- | Groenlandse wateren van NAFO gebied 1F en Groenlandse wateren van ICES gebieden V en XIV (pelagisch)  |
+| --- | NAFO gebied 3M  |
+| --- | NAFO gebied 3O  |
+| --- | NAFO gebieden 3L en 3N  |
+| --- | Noorse wateren van ICES gebieden I en II  |
+| --- | Wateren van de Faeröer in ICES gebied Vb  |
+|  *Scharretongen*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+|  *Lepidorhombus spp.*   | ICES gebied VII  |
+| --- | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  |
+| --- | ICES gebieden VIIIc, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Schelvis*   | EU-wateren en Internationale wateren van ICES gebieden VIb, XII en XIV  |
+|  *Melanogrammus aeglefinus*   | EU-wateren en internationale wateren van ICES gebieden Vb en VIa  |
+| --- | ICES gebied VIIa  |
+| --- | ICES gebieden VIIb-k, VIII, IX en X en EU wateren van CECAF gebied 34.1.1  |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+| --- | Noorse wateren van ICES gebieden I en II  |
+|  *Schol**   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Pleuronectes platessa*   | --- |
+|  *Schol*   | ICES gebied IIIaS  |
+|  *Pleuronectes platessa*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+| --- | ICES gebied VIIa  |
+| --- | ICES gebieden IIIb, c en d – exclusief MU3  |
+| --- | ICES gebieden VIII, IX en X en de EU wateren van CECAF gebied 34.1.1  |
+| --- | ICES gebieden VIIb en VIIc  |
+| --- | ICES gebieden VIId en VIIe  |
+| --- | ICES gebieden VIIf en VIIg  |
+| --- | ICES gebieden VIIh, VIIj en VIIk  |
+|  *Scotiazee-ijsvis**   | Antarctische wateren van FAO gebied 48.3  |
+|  *Chaenocephalus aceratus*   | --- |
+|  *Spitsneusrog**   | EU-wateren van de ICS-deelgebieden VI, VII, VIII, IX en X  |
+|  *Raja alba*   | --- |
+|  *Spookkathaai**   | SEAFO-verdragsgebied  |
+|  *Apristurus manis*   | --- |
+|  *Sprot*   | EU-wateren in de Zwarte Zee (FAO gebied 37.4.2)  |
+|  *Sprattus sprattus*   | ICES gebied IIIa  |
+| --- | ICES gebieden IIIb, c en d – exclusief MU3  |
+|  *Tarbot*   | EU-wateren in de Zwarte Zee (FAO gebied 37.4.2)  |
+|  *Psetta maxima*   | --- |
+|  *Tong*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+|  *Solea solea*   | ICES gebied VIIa  |
+| --- | ICES gebied VIId  |
+| --- | ICES gebied VIIe  |
+| --- | ICES gebieden VIIIa en VIIIb  |
+| --- | ICES gebieden VIIb en VIIc  |
+| --- | ICES gebieden VIIf en VIIg  |
+| --- | ICES gebieden VIIh, VIIj en VIIk  |
+|  *Tongen*   | ICES gebieden VIIIc, VIIId, VIIIe, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Solea spp.*   | --- |
+|  *Vleet**   | EU-wateren van de ICES-sector IIa en ICES-deelgebieden III, IV, VI, VII, VIII, IX en X  |
+|  *Dipturus batis*   | --- |
+|  *Voshaaien**   | ICCAT-verdragsgebied  |
+|  *Alopias spp*   | IOTC-verdragsgebied  |
+|  *Wijting**   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Merlangius merlangus*   | --- |
+|  *Wijting*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+|  *Merlangius merlangus*   | ICES gebied VIII  |
+| --- | ICES gebied VIIa  |
+| --- | ICES gebieden IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Wijting en witte koolvis*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Merlangius merlangus & Pollachius pollachius *   | --- |
+|  *Witje**   | NAFO gebieden 2J, 3K en 3L  |
+|  *Glyptocephalus cynoglossus*   | NAFO gebieden 3N en 3O  |
+|  *Witpunthaai**   | IATTC-verdragsgebied  |
+|  *Carcharhinus longimanus*   | ICCAT-verdragsgebied  |
+| --- | IOTC-verdragsgebied  |
+|  *Witte haai**   | alle wateren  |
+|  *Carcharodon carcharias*   | --- |
+|  *Witte heek*   | NAFO gebieden 3N en 3O  |
+|  *Urophycis tenuis*   | --- |
+|  *Witte koolvis*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  |
+|  *Pollachius pollachius*   | ICES gebied VII  |
+| --- | ICES gebied VIIIc  |
+| --- | ICES gebieden IX en X en EU wateren van CECAF gebied 34.1.1  |
+| --- | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  |
+|  *Witte marlijn*   | Atlantische Oceaan  |
+|  *Tetrapturus albidus*   | --- |
+|  *Witte tonijn*   | Atlantische oceaan ten noorden van 5° noorderbreedte  |
+|  *Thunnus alalunga*   | Atlantische oceaan ten zuiden van 5° noorderbreedte  |
+|  *Zalm*   | EU-wateren van deelsectoren 22-31 (Oostzee excl. Golf van Finland)  |
+|  *Salmo salar*   | ICES gebied IIId – Golf van Finland (deelsector 32)  |
+|  *Zandspieringen**   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  |
+|  *Ammodytes spp.*   | --- |
+|  *Zandspieringen*   | ICES gebied IIIa, EU-wateren van ICES gebieden IIa en IV  |
+|  *Ammodytes spp.*   | --- |
+|  *Zee-engel**   | EU-wateren  |
+|  *Squatina squatina*   | --- |
+|  *Zeebrasem*   | EU-wateren en internationale wateren van ICES gebied IX  |
+|  *Pagellus bogaraveo*   | EU-wateren en internationale wateren van ICES gebied X  |
+|  *Zeeduivels*   | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  |
+|  *Lophiidae*   | ICES gebieden VIIIc, IX en X en EU wateren van CECAF gebied 34.1.1  |
+|  *Zijdehaai**   | ICCAT-verdragsgebied  |
+|  *Carcharhinus falciformis*   | --- |
+|  *Zuidelijke blauwvintonijn*   | alle gebieden van het zuidelijke blauwvintonijn gebied (FAO gebieden 41,48,51,57,58 en 81)  |
+|  *Thunnus maccoyii*   | --- |
+|  *Zwaardvis*   | Atlantische oceaan ten noorden van 5° noorderbreedte  |
+|  *Xiphias gladius*   | Atlantische oceaan ten zuiden van 5° noorderbreedte  |
+| --- | WCFPC verdragsgebied ten zuiden van 20 ° ZB  |
+|  *Zwarte Patagonische ijsheek* *   | Antarctische wateren van FAO gebied 48.3  |
+|  *Dissostichus eleginoides*   | Antarctische wateren van FAO gebied 58.5.2.  |
+| --- | FAO gebied 48.4 – Noordelijke Antarctische wateren  |
+| --- | FAO gebied 48.4 – Zuidelijke Antarctische wateren  |
+| --- | SEAFO-verdragsgebied  |
+|  *Zwarte haarstaart*   | EU-wateren en internationale wateren van CECAF gebied 34.1.2  |
+|  *Aphanopus carbo*   | EU-wateren en internationale wateren van ICES gebieden I, II, III en IV  |
+| --- | EU-wateren en internationale wateren van ICES gebieden VIII, IX en X  |
 
 ### Bijlage  5  
 
-Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2014 (x 1.000 kg in levend gewicht) als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij  ![253080](http://wetten.overheid.nl/Illustration/253080)
-![253081](http://wetten.overheid.nl/Illustration/253081)
-![253082](http://wetten.overheid.nl/Illustration/253082)
-
-### Bijlage  6  
-
-Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2014 als bedoeld in artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij   
+####Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2014 (x 1.000 kg in levend gewicht) als bedoeld in artikel 1, eerste lid , van de Uitvoeringsregeling zeevisserij
 
 | Vissoort  | Gebied  | Hoeveelheid  |
 |:---|:---|:---|
-| Blauwe leng   *Molva dypterygia*   | EU-wateren en internationale wateren van de ICES gebieden II en IV  | 41<sup>1</sup>   |
-| Internationale wateren van ICES gebied XII  | 2<sup>1</sup>   |
-| EU-wateren en internationale wateren van ICES gebieden Vb, VI en VII  | 6<sup>1</sup>   |
-| Grenadiersvis   *Coryphaenoides rupestris*   | EU-wateren en internationale wateren van ICES gebieden Vb, VI en VII  | 8<sup>1</sup>   |
-| Kabeljauw   *Gadus morhua*   | ICES gebieden I en IIb  | 250  |
-| --- | --- | --- |
-| Leng   *Molva molva*   | EU- en internationale wateren van de ICES gebieden I en II  | 4<sup>1</sup>   |
-| Lom   *Brosme brosme*   | EU-wateren van ICES gebied IV  | 6<sup>1</sup>   |
-| EU-wateren en internationale wateren van ICES gebieden I, II en XIV  | 3<sup>1</sup>   |
-| EU-wateren en internationale wateren van ICES gebieden V, VI en VII  | 8<sup>1</sup>   |
-| Zeebrasem   *Pagellus bogaraveo*   | EU-wateren en internationale wateren van ICES gebieden VI, VII en VIII  | 5<sup>1</sup>   |
-| Zwarte haarstaartvis *Aphanopus carbo*   | EU-wateren en internationale wateren van ICES gebieden V, VI, VII en XII  | 12<sup>1</sup>   |
+|  *Andere soorten*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  | 290  |
+|  *Blauwe wijting*   | wateren van de Faeröer  | 84  |
+|  *Micromesistius poutassou*   | EU-wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 34.539  |
+| --- | Bijzondere voorwaarde: 21.206,95 ton van dit quotum mag worden gevangen in Noorse Economische Zone en visserijzone rond Jan Mayen.  | --- |
+|  *Chileense horsmakreel*   | SPRFMO-verdragsgebied  | 7.101,78  |
+|  *Trachurus murphyi*   | --- | --- |
+|  *Europese heek*   | ICES gebieden VI, VII, EU-wateren en internationale wateren van ICES gebied Vb en de internationale wateren van ICES gebieden XII en XIV  | 272  |
+|  *Merluccius merluccius*   | Bijzondere voorwaarde: 27 ton van dit quotum mag worden gevangen in ICES gebieden VIIIa, VIIIb, VIIId en VIIIe.  | --- |
+| --- | ICES gebieden VIIIa, VIIIb, VIIId en VIIIe  | 27  |
+| --- | Bijzondere voorwaarde: 8 ton van dit quotum mag worden gevangen in ICES gebieden VI en VII, EU wateren van ICES gebied Vb en internationale wateren van ICES gebieden XII en XIV.  | --- |
+| --- | EU-wateren van ICES gebieden IIa en IV  | 95  |
+|  *Grote zilvervis*   | EU- en internationale wateren van de ICES gebieden I en II  | 19  |
+|  *Argentina silus*   | EU-wateren van ICES gebieden III en IV  | 43  |
+| --- | EU wateren en internationale wateren van ICES gebieden V, VI en VII  | 3.434  |
+|  *Haring*   | EU- en internationale en Noorse wateren van de ICES gebieden I en II  | 3.341  |
+|  *Clupea harengus*   | EU-wateren en Noorse wateren van ICES gebied IV benoorden 53°30' NB.  | 59.291  |
+| --- | Uitsluitend voor aanlanding van haring gevangen met vistuig met een maaswijdte gelijk aan of groter dan 32 mm.  | --- |
+| --- | ICES gebieden VIa-Zuid, VIIb en VIIc  | 334  |
+| --- | ICES gebieden VIIg, VIIh, VIIj en VIIk  | 1.380  |
+| --- | Bijvangsten in ICES gebieden IV en VIId en in de EU-wateren van ICES gebied IIa  | 65  |
+| --- | Uitsluitend voor aanlanding van haring gevangen als bijvangst met vistuig met een maaswijdte kleiner dan 32 mm.  | --- |
+| --- | EU-wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 3.137  |
+| --- | ICES gebieden IVc en VIId  | 22.837  |
+| --- | Uitsluitend voor aanlanding van haring gevangen met vistuig met een maaswijdte gelijk aan of groter dan 32 mm.  | --- |
+| --- | Bijzondere voorwaarde: 11.418,5 ton van dit quotum mag worden gevangen in ICES gebied IVb.  | --- |
+|  *Horsmakrelen*   | EU-wateren van ICES gebieden IIa, IVa, VI, VIIa-c, VIIe-k, VIIIabde, de EU- en internationale wateren van ICES gebied Vb en de internationale wateren van ICES gebieden XII en XIV  | 35.790  |
+|  *Trachurus spp.*   | Ten minste 95% van de van dit quotum afgeboekte aangelande hoeveelheid bestaat uit horsmakreel. Bijvangsten van evervissen, schelvis, wijting en makreel worden in mindering gebracht op de resterende 5% van dit quotum.  | --- |
+| --- | Bijzondere voorwaarde: 1.789,5 ton van dit quotum mag worden gevangen in ICES gebied VIId.  | --- |
+| --- | EU-wateren van ICES gebieden IVb, IVc en VIId  | 8.065  |
+| --- | Ten minste 95% van de van dit quotum afgeboekte aangelande hoeveelheid bestaat uit horsmakreel. Bijvangsten van evervissen, schelvis, wijting en makreel worden in mindering gebracht op de resterende 5% van dit quotum.  | --- |
+|  *Kabeljauw*   | ICES gebied VIId  | 40  |
+|  *Gadus morhua*   | ICES gebied IV, EU-wateren van ICES gebied IIa en ICES gebied IIIa tot aan het Skagerrak  | 2.667  |
+| --- | ICES gebieden VIIb-c en VIIe-k, VIII, IX, X en EU-wateren van CECAF 34.1.1  | 1  |
+| --- | Skagerrak  | 20  |
+|  *Kever*   | ICES gebied IIIa, EU-wateren van ICES gebieden IIa en IV  | 78  |
+|  *Trisopterus esmarki*   | Ten minste 95% van de van dit quotum afgeboekte aangelande hoeveelheid bestaat uit kever. Bijvangsten van schelvis en wijting worden in mindering gebracht op de resterende 5% van dit quotum.  | --- |
+|  *Koolvis*   | Wateren van de Faeröer in ICES gebied Vb  | 60  |
+|  *Pollachius virens*   | ICES gebieden IIIa en IV, EU-wateren van de ICES gebieden IIa, IIIb, IIIc en deelsectoren 22-32  | 81  |
+|  *Langoustine*   | EU-wateren van ICES gebieden IIa en IV  | 417  |
+|  *Nephrops norvegicus*   | --- | --- |
+|  *Leng*   | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  | 1  |
+|  *Molva molva*   | EU-wateren van ICES gebied IV  | 5  |
+|  *Makreel*   | ICES gebieden IIIa en IV, EU-wateren van de ICES gebieden IIa, IIIb, IIIc en deelsectoren 22-32  | 2.434  |
+|  *Scomber scombrus*   | Bijzondere voorwaarde: binnen de limieten van dit quotum mag in Noorse wateren van het ICES gebied IV niet meer worden gevangen dan 247 ton.  | --- |
+| --- | Bijzondere voorwaarde: binnen de limieten van dit quotum mag in ICES gebieden IIIa, IVb en IVc niet meer worden gevangen dan 490 ton.  | --- |
+| --- | ICES gebieden VI, VII en VIIIa, VIIIb, VIIId, VIIIe, de EU-wateren en internationale wateren van ICES gebied Vb en de internationale wateren van ICES gebieden IIa, XII en XIV  | 45.922  |
+| --- | Bijzondere voorwaarde: 27.715 ton van dit quotum mag worden gevangen in EU-wateren van ICES gebied IVa.  | --- |
+| --- | Bijzondere voorwaarde: 3.727 ton van dit quotum mag worden gevangen in Noorse wateren van ICES gebied IIa.  | --- |
+|  *Noorse garnaal*   | EU-wateren van ICES gebieden IIa en IV  | 17  |
+|  *Pandalus borealis*   | --- | --- |
+|  *Rogachtigen*   | EU-wateren van ICES gebieden IIa en IV  | 180  |
+|  *Rajiformes*   | ICES gebied VIId  | 4  |
+| --- | EU-wateren van ICES gebieden VIa-b en VIIa-c en VIIe-k  | 3  |
+|  *Schar en bot*   | EU-wateren van ICES gebieden IIa en IV  | 11.421  |
+|  *Limanda limanda & Platichthys flesus *   | --- | --- |
+|  *Scharretongen*   | EU-wateren van ICES gebieden IIa en IV  | 27  |
+|  *Lepidorhombus spp.*   | --- | --- |
+|  *Schelvis*   | ICES gebied IV en EU-wateren van ICES gebied IIa  | 179  |
+|  *Melanogrammus aeglefinus*   | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  | 2  |
+|  *Schol*   | ICES gebied IV, EU-wateren van ICES gebied IIa en ICES gebied IIIa tot aan het Skagerrak  | 40.045  |
+|  *Pleuronectes platessa*   | Skagerrak  | 1.506  |
+|  *Sprot*   | EU-wateren van ICES gebieden IIa en IV  | 1.546  |
+|  *Sprattus sprattus*   | ICES gebieden VIId en VIIe  | 361  |
+|  *Tarbot en griet*   | EU-wateren van ICES gebieden IIa en IV  | 2.579  |
+|  *Psetta maxima & Scopthalmus rhombus *   | --- | --- |
+|  *Tong*   | ICES gebied IIIa, EU-wateren van deelsectoren 22-32  | 28  |
+|  *Solea solea*   | EU-wateren van de ICES gebieden IIa en IV  | 8.945  |
+|  *Tongschar en witje*   | EU-wateren van ICES gebieden IIa en IV  | 794  |
+|  *Microstomus kitt & Glyptocephalus cynoglossus *   | --- | --- |
+|  *Wijting*   | ICES gebied IV en EU-wateren van ICES gebied IIa  | 815  |
+|  *Merlangius merlangus*   | ICES gebieden VIIb, VIIc, VIId, VIIe, VIIf, VIIg, VIIh, VIIj en VIIk  | 101  |
+| --- | ICES gebied IIIa  | 3  |
+|  *Zeeduivels*   | ICES gebied VI en de EU-wateren en internationale wateren van ICES gebieden Vb, XII en XIV  | 153  |
+|  *Lophiidae*   | EU-wateren van ICES gebieden IIa en IV  | 209  |
+| --- | Bijzondere voorwaarde: 20,9 ton van dit quotum mag worden gevangen in bijzondere voorwaarde inzake VI; EU-wateren en internationale wateren van Vb; internationale wateren van XII en XIV.  | --- |
+| --- | ICES gebied VII  | 401  |
+| --- | Bijzondere voorwaarde: 20,05 ton van dit quotum mag worden gevangen in ICES gebieden VIIIa, VIIIb, VIIId en VIIIe.  | --- |
+| --- | Noorse wateren van ICES gebied IV (ten zuiden van 62°NB)  | 16  |
 
-<sup>1</sup> Uitsluitend voor bijvangsten, gerichte visserij niet toegestaan.
+### Bijlage  6  
+
+####Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2014 als bedoeld in artikel 1, eerste lid , van de Uitvoeringsregeling zeevisserij
+
+| Vissoort  | Gebied  | Hoeveelheid  |
+|:---|:---|:---|
+|  *Blauwe leng*   | EU-wateren en internationale wateren van de ICES gebieden II en IV  | 4 ton  |
+|  *Molva dypterygia*   | Internationale wateren van ICES gebied XII  | 2 ton  |
+| --- | EU-wateren en internationale wateren van ICES gebieden Vb, VI en VII  | 6 ton  |
+|  *Grenadiervis*   | EU-wateren en internationale wateren van ICES gebieden Vb, VI en VII  | 8 ton  |
+|  *Coryphaenoides rupestris*   | --- | --- |
+|  *Kabeljauw*   | ICES gebieden I en Iib  | 250 ton  |
+|  *Gadus morhua*   | --- | --- |
+|  *Leng*   | EU- en internationale wateren van de ICES gebieden I en II  | 4 ton  |
+|  *Molva molva*   | --- | --- |
+|  *Lom*   | EU-wateren van ICES gebied IV  | 6 ton  |
+|  *Brosme brosme*   | EU-wateren en internationale wateren van ICES gebieden I, II en XIV  | 3 ton  |
+| --- | EU-wateren en internationale wateren van ICES gebieden V, VI en VII  | 13 ton  |
+|  *Zeebrasem*   | EU-wateren en internationale wateren van ICES gebieden VI, VII en VIII  | 5 ton  |
+|  *Pagellus bogaraveo*   | --- | --- |
+|  *Zwarte haarstaart*   | EU-wateren en internationale wateren van ICES gebieden V, VI, VII en XII  | 12 ton  |
+|  *Aphanopus carbo*   | --- | --- |
 
 ### Bijlage  7  
 
@@ -2242,39 +2626,39 @@ Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vist
 
 ### Bijlage  8  
 
-De vissoorten, bedoeld in artikel 21, eerste lid, de vangstgebieden, bedoeld in artikel 1, eerste lid, en de percentages, bedoeld in artikel 29, eerste lid, van de Uitvoeringsregeling zeevisserij voor het kalenderjaar 2014   
+####De vissoorten, bedoeld in artikel 21, eerste lid , de vangstgebieden, bedoeld in artikel 1, eerste lid , en de percentages, bedoeld in artikel 29, eerste lid , van de Uitvoeringsregeling zeevisserij voor het kalenderjaar 2014
 
 | Vissoort  | Gebied  | Percentage  |
 |:---|:---|:---|
-| Blauwe wijting  | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 135.8983  |
-| Grote Zilversmelt  | EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 100.0000  |
+| Blauwe wijting  | EU wateren en internationale wateren van de ICES gebieden I, II, III, IV, V, VI, VII, VIIIa, VIIIb, VIIId, VIIIe, XII en XIV  | 159,9370  |
+| Grote Zilversmelt  | EU wateren en internationale wateren van de ICES gebieden V, VI en VII  | 100.000  |
 | Haring  | EU wateren en internationale wateren van de ICES gebieden I en II  | 67.6005  |
-| --- | EU wateren van het ICES gebied IV ten noorden van 53°30'NB  | 76.0787  |
-| --- | ICES gebieden IVc en VIId  | 64.5329  |
-| --- | EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 102.1264  |
-| --- | ICES gebieden VIa-Zuid, VIIb en VIIc  | 263.6464  |
-| --- | ICES gebieden VIIg, VIIh, VIIj en VIIk  | 130.3726  |
+| EU wateren van het ICES gebied IV ten noorden van 53°30'NB  | 98,8262  |
+| ICES gebieden IVc en VIId  | 98,1127  |
+| EU wateren en internationale wateren van de ICES gebieden Vb, VIb en VIa-Noord  | 102.1264  |
+| ICES gebieden VIa-Zuid, VIIb en VIIc  | 263.6464  |
+| ICES gebieden VIIg, VIIh, VIIj en VIIk  | 130.3726  |
 | Horsmakreel  | EU wateren van de ICES gebieden IIa, IVa, VI, VIIa, VIIb, VIIc, VIIe, VIIf, VIIg, VIIh, VIIj, VIIk, VIIIa, VIIIb, VIIId, VIIIe en de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden XII en XIV  | 72.4853  |
-| --- | EU wateren van de ICES gebieden IVb, IVc en VIId  | 80.7805  |
-| Kabeljauw  | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 69.8393  |
-| Makreel  | ICES gebieden VI, VII, VIIIa, VIIIb, VIIId en VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 113.0049  |
-| Schol  | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 79.6509  |
+| EU wateren van de ICES gebieden IVb, IVc en VIId  | 80.7805  |
+| Kabeljauw  | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 105,0395  |
+| Makreel  | ICES gebieden VI, VII, VIIIa, VIIIb, VIIId en VIIIe, de EU wateren en internationale wateren van het ICES gebied Vb en de internationale wateren van de ICES gebieden IIa, XII en XIV  | 181,7955  |
+| Schol  | ICES gebied IV, de EU wateren van het ICES gebied IIa en het ICES gebied IIIa tot aan het Skagerrak  | 114,1463  |
 | Tong  | EU wateren van de ICES gebieden II en IV  | 84.8464  |
-| Wijting  | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 59.5504  |
+| Wijting  | ICES gebied IV en de EU wateren van het ICES gebied IIa  | 89,1086  |
 
 ### Bijlage  9  
 
-De hoeveelheden, bedoeld in de artikelen 25, 26 en 27 van de Uitvoeringsregeling zeevisserij voor het kalenderjaar 2014   
+####De hoeveelheden, bedoeld in de artikelen 25 , 26  en 27  van de Uitvoeringsregeling zeevisserij voor het kalenderjaar 2014
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Artikel 25, eerste lid, onderdeel a   | Kabeljauw:  | 88 kilogram per maand  |
-| Wijting:  | 36 kilogram per maand  |
-| Artikel 25, eerste lid, onderdeel b   | Kabeljauw:  | 27.632 kilogram per jaar  |
-| Wijting:  | 6.218 kilogram per jaar  |
-| Artikel 26, eerste lid, onderdeel a   | Makreel:  | 151 kilogram per maand  |
-| Artikel 26, eerste lid, onderdeel b   | Makreel:  | 4.947 kilogram per jaar  |
-| Artikel 27, eerste lid   | Horsmakreel:  | 317.125 kilogram per jaar  |
+| Artikel 25, eerste lid, onderdeel a   | Kabeljauw:  | 155 kilogram per maand  |
+| Wijting:  | 64 kilogram per maand  |
+| Artikel 25, eerste lid, onderdeel b   | Kabeljauw:  | 41.558 kilogram per jaar  |
+| Wijting:  | 9.303 kilogram per jaar  |
+| Artikel 26, eerste lid, onderdeel a   | Makreel:  | 271 kilogram per maand  |
+| Artikel 26, eerste lid, onderdeel b   | Makreel:  | 7.741 kilogram per jaar  |
+| Artikel 27, eerste lid   | Horsmakreel:  | 321.195 kilogram per jaar  |
 
 ### Bijlage  10  
 

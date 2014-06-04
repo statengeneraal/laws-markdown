@@ -286,9 +286,9 @@ b. het verbranden van afvalstoffen: nihil.
 
 ### Artikel  29  
 
-1. Vrijgesteld is de verwijdering van baggerspecie.
-2. Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.
-3. De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+1.  Vrijgesteld is de verwijdering van baggerspecie.   
+2.  Indien baggerspecie ter verwijdering wordt afgegeven aan inrichtingen waar op grond van de voor die inrichting geldende omgevingsvergunning voor een inrichting als bedoeld in de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), ook andere afvalstoffen dan baggerspecie mogen worden gestort, wordt door de aanbieder van de baggerspecie aan de houder van de inrichting een verklaring overgelegd waaruit blijkt dat sprake is van baggerspecie.   
+3.  De in het tweede lid bedoelde verklaring wordt verstrekt door Onze Minister van Infrastructuur en Milieu. 
 
 ### Afdeling  6*  
 

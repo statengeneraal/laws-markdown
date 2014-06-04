@@ -319,7 +319,7 @@ Het aantal leerlingen, bedoeld in [artikel 134, zevende lid, van de wet](../../.
 ####Omvang vergoeding uitgaven materiële voorzieningen ten behoeve van de instandhouding
 
 1.  De vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding wordt bepaald volgens de programma’s van eisen, bedoeld in [artikel 113, derde lid, van de wet](../../../../../wet/wbo/BWBR0003420/README.md).    
-2.  De vergoeding, bedoeld in het eerste lid, wordt voor elke leerling met een leerlinggebonden budget die op de school is ingeschreven verhoogd volgens de onderstaande tabel:  Basisscholen (bedragen met ingang van 1-8-2010) 
+2.  De vergoeding, bedoeld in het eerste lid, wordt voor elke leerling met een leerlinggebonden budget die op de school is ingeschreven verhoogd volgens de onderstaande tabel:   Basisscholen (bedragen met ingang van 1-8-2010) 
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag exclusief her te besteden bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|

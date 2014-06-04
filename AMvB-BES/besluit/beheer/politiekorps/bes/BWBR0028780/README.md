@@ -150,7 +150,7 @@ c. gevraagd en ongevraagd aan de korpsbeheerder politie advies uit te brengen en
 
 ### Artikel  13  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de Veiligheidswet BES in werking treedt. 
+Dit besluit treedt in werking met ingang van het tijdstip waarop de [Veiligheidswet BES](../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) in werking treedt. 
 
 ### Artikel  14  
 

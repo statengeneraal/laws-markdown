@@ -662,7 +662,7 @@ De verdragsluitende partijen beschermen en behouden, zowel afzonderlijk als coll
 .1De verdragsluitende partijen verbieden het storten van afval of andere stoffen, met uitzondering van die welke worden genoemd in Bijlage 1.
 
 .2Voor het storten van afval of andere stoffen genoemd in Bijlage 1 is een vergunning vereist. De verdragsluitende partijen nemen administratieve of wettelijke maatregelen aan om ervoor zorg te dragen dat de verlening van vergunningen en de bijbehorende vergunningsvoorwaarden in overeenstemming zijn met de bepalingen van Bijlage 2. Bijzondere aandacht dient te worden besteed aan de mogelijkheden storten te voorkomen en in plaats daarvan alternatieven te benutten die uit milieu-oogpunt de voorkeur genieten.
-2. Geen enkele bepaling van dit Protocol mag worden geïnterpreteerd als beletsel voor een verdragsluitende partij om, wat haar betreft, het storten van afval of andere stoffen die in Bijlage 1 zijn genoemd te verbieden. De desbetreffende Partij stelt de Organisatie in kennis van dergelijke verbodsmaatregelen.
+2. Geen enkele bepaling van dit Protocol mag worden geïnterpreteerd als beletsel voor een verdragsluitende partij om, wat haar betreft, het storten van afval of andere stoffen die in Bijlage 1 zijn genoemd te verbieden. De desbetreffende verdragsluitende partij stelt de Organisatie in kennis van dergelijke verbodsmaatregelen.
 
 ###Artikel 5 
 
@@ -674,7 +674,7 @@ De verdragsluitende partijen verbieden de verbranding op zee van afval of andere
 
 ####Uitvoer van afval of andere stoffen
 
-De Partijen staan de uitvoer van afval of andere stoffen naar andere landen voor het storten in of verbranden op zee niet toe.
+De verdragsluitende partijen staan de uitvoer van afval of andere stoffen naar andere landen voor het storten in of verbranden op zee niet toe.
 
 ###Artikel 7 
 
