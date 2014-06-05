@@ -151,10 +151,7 @@ De aanvrager om erkenning als referent legt desgevraagd een verklaring omtrent h
 
 ####Nationale visa
 
-Treedt in werking per 01-06-2014 
-
 ### Artikel  1.17  
-Treedt in werking per 01-06-2014 
 
 1.  Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van € 142 verschuldigd.   
 2.  In afwijking van het eerste lid is de vreemdeling die valt onder [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](../../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md), geen leges verschuldigd.   
@@ -502,7 +499,8 @@ b. de wijze waarop de referent invulling geeft aan de zorgplicht;
 
 c. de aard en omvang van de werkzaamheden die de vreemdeling gaat verrichten, en  
 
-d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen.    
+d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen.     
+4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in [artikel 3.42, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md). 
 
 ### Artikel  3.24a  
 
@@ -556,7 +554,7 @@ Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen ondersch
 | m. ‘het zoeken en verrichten van arbeid al dan niet in loondienst’  | € 608  | niet van toepassing  |
 | n. ‘uitwisseling, al dan niet in het kader van een verdrag’  | € 608  | niet van toepassing  |
 | o. ‘medische behandeling’  | € 962  | € 380  |
-| p. ‘tijdelijke humanitaire gronden’  | € 0  | € 0  |
+| p. ‘tijdelijke humanitaire gronden’  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  |
 | q. ‘het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)’  | € 962  | € 380  |
 | r. ‘niet-tijdelijke humanitaire gronden’  | € 962  | € 380  |
 | s. alle overige verblijfsdoelen  | € 962  | € 380  |
@@ -572,7 +570,7 @@ In afwijking van artikel 3.34 geldt voor de navolgende categorieën vreemdelinge
 | c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) aanvraagt  | € 152  | € 152  |
 | d. vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie  | € 53  | € 53  |
 | e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md)  | € 53  | € 53  |
-| f. vreemdeling met de nationaliteit van Australië, Canada dan wel Nieuw-Zeeland die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Programme  | € 53  | niet van toepassing  |
+| f. vreemdeling met de nationaliteit van Australië, Canada, Nieuw-Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Program  | € 53  | niet van toepassing  |
 | g. vreemdeling met de nationaliteit van Canada die het verblijfsdoel ‘lerend werken’ aanvraagt, in het kader van het Young Workers Exchange Programme  | € 53  | niet van toepassing  |
 | h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
 | i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
@@ -600,7 +598,7 @@ b. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld
 c. als minderjarige vreemdeling een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van ondervonden huiselijk geweld of eergerelateerd geweld;  
 
 d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van achterlating.   
-2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 228 verschuldigd. 
+2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van [artikel 3.50, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of [artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 228 verschuldigd. 
 
 ### Artikel 3.34d  
 
@@ -803,7 +801,7 @@ e. de wijze waarop hij kan voldoen aan zijn verplichting tot het indienen van de
 
 ### Artikel  3.43c  
 
-1.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 253 verschuldigd.   
+1.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
 2.  Ter zake van de afgifte ter uitvoering van [artikel 4.22, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
 3.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, een bedrag van € 53 verschuldigd.   
 4.  In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder c of d, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) blijkt, een bedrag van € 53 verschuldigd.  
@@ -1557,7 +1555,7 @@ a. voor de beoordeling van het bij een aanvraag om een verblijfsvergunning als b
 
 b. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in de [artikelen 28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor de beoordeling van een aanvraag om verlenging van de geldigheidsduur alsmede voor de beoordeling van de algemene weigeringsgronden of intrekking van de verblijfsvergunning en ambtshalve beoordelingen;  
 
-c. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in artikel 45a van de Wet, alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de EU-verblijfsvergunning voor langdurig ingezetenen en ambtshalve beoordelingen; 
+c. voor het beoordelen van een aanvraag om een verblijfsvergunning als bedoeld in [artikel 45a van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), alsmede voor de beoordeling van de algemene weigeringsgronden of intrekkingsgronden van de EU-verblijfsvergunning voor langdurig ingezetenen en ambtshalve beoordelingen; 
 
 d. voor het beoordelen van de gronden voor het ongewenst verklaren van een vreemdeling en de opheffing van de ongewenstverklaring;  
 
@@ -1571,7 +1569,9 @@ h. voor de beoordeling van de voorwaarden voor verblijf in de vrije termijn als 
 
 i. bij de uitoefening van de bevoegdheid tot het uitzetten van een vreemdeling als bedoeld in [6.1 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), daaronder begrepen de verwerking van bijzondere gegevens in het kader van de beoordeling of de uitzetting achterwege dient te blijven als bedoeld in [artikel 64 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-j. voor de beoordeling van de voorwaarden voor de erkenning als referent, bedoeld in [artikel 2c van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+j. voor de beoordeling van de voorwaarden voor de erkenning als referent, bedoeld in [artikel 2c van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); 
+
+k. voor de beoordeling van de gronden voor het uitvaardigen van een inreisverbod tegen een vreemdeling en de opheffing of tijdelijke opheffing van het inreisverbod.    
 2.  De bijzondere persoonsgegevens worden ten behoeve van de in het eerste lid bedoelde doeleinden opgenomen in documenten die in een persoonsgebonden dossier en in een geautomatiseerd bestand worden neergelegd. De gegevens in het geautomatiseerde bestand worden gebruikt voor het opstellen van beschikkingen.  
 
 ### Artikel  7.1b  

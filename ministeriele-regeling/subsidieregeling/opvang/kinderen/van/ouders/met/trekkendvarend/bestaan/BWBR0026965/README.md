@@ -197,7 +197,7 @@ De [Subsidieregeling schippersinternaten](../../../../../../../../../../minister
 
 ### Artikel  23  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2017 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt. 
 
 ### Artikel  24  
 

@@ -64,7 +64,8 @@ Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006. 
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006.  
+2.  Deze regeling vervalt met ingang van 1 juli 2017 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt. 
 
 ### Artikel  8  
 

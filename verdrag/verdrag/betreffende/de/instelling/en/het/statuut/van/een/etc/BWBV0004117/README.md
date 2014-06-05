@@ -111,7 +111,7 @@ Het Beneluxhof kan kennis nemen van een verzoek tot uitleg, zelfs indien de besl
 
 ### Artikel  9  
 
-1. Wannneer het voor de uitleg van een op grond van artikel 1 aangewezen rechtsregel nodig is een rechtsinstelling of de daaruit voortvloeiende rechtsbetrekkingen te kwalificeren en die kwalificatie niet door een zodanige rechtsregel bepaald is, zal die kwalificatie door het Beneluxhof geschieden overeenkomstig de wet van het land waar de beslissing waarbij uitleg wordt gevraagd, is gegeven.
+1. Wanneer het voor de uitleg van een op grond van artikel 1 aangewezen rechtsregel nodig is een rechtsinstelling of de daaruit voortvloeiende rechtsbetrekkingen te kwalificeren en die kwalificatie niet door een zodanige rechtsregel bepaald is, zal die kwalificatie door het Beneluxhof geschieden overeenkomstig de wet van het land waar de beslissing waarbij uitleg wordt gevraagd, is gegeven.
 2. Het Beneluxhof is niet bevoegd om te beoordelen of de toepassing van enig voorschrift, waarnaar een krachtens artikel 1 aangewezen rechtsregel verwijst, in strijd is met de openbare orde.
 
 ### HOOFDSTUK  IV  

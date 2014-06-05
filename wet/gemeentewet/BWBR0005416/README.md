@@ -1721,6 +1721,15 @@ b. dat de minderjarige zich op bepaalde dagen gedurende een aangegeven tijdvak t
 4.  Bij de bekendmaking van het besluit worden belanghebbenden in de gelegenheid gesteld binnen een te stellen termijn maatregelen te treffen waardoor de verstoring van de openbare orde wordt beëindigd. De eerste volzin is niet van toepassing, indien voorafgaande bekendmaking in spoedeisende gevallen niet mogelijk is.    
 5.  De [artikelen 5:25 tot en met 5:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. De burgemeester kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigde kosten invorderen bij dwangbevel.  
 
+### Artikel  174b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, kan de burgemeester in een onvoorziene, spoedeisende situatie een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, voor ten hoogste twaalf uur aanwijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [51, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [52, derde lid, van de Wet wapens en munitie](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) toepassen.   
+2.  Voordat de burgemeester het gebied aanwijst, overlegt hij met de officier van justitie.   
+3.  De aanwijzing kan mondeling worden gegeven. In dat geval wordt de aanwijzing zo spoedig mogelijk op schrift gesteld en bekendgemaakt.   
+4.  De burgemeester brengt de gebiedsaanwijzing zo spoedig mogelijk ter kennis van de raad.   
+5.  Artikel 151b, derde en zesde lid, zijn van overeenkomstige toepassing.  
+
 ### Artikel  175  
 
 1.  In geval van oproerige beweging, van andere ernstige wanordelijkheden of van rampen, dan wel van ernstige vrees voor het ontstaan daarvan, is de burgemeester bevoegd alle bevelen te geven die hij ter handhaving van de openbare orde of ter beperking van gevaar nodig acht. Daarbij kan van andere dan bij de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) gestelde voorschriften worden afgeweken.    

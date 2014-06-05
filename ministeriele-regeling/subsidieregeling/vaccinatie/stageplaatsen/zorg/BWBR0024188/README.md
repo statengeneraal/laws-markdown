@@ -103,7 +103,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ### Artikel  14  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juli 2017 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt. 
 
 ### Artikel  15  
 

@@ -138,7 +138,7 @@ Deze regeling wordt uitgevoerd door de Nederlandse Transplantatie Stichting.
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 1 juni 2009. 
+Deze regeling treedt in werking met ingang van 1 juni 2009 en vervalt met ingang van 1 juli 2017 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt. 
 
 ### Artikel  11  
 

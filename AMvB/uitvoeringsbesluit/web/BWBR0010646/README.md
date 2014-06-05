@@ -462,19 +462,19 @@ Waarbij wordt verstaan onder:
 
 ####Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Paragraaf  1  
 
 ####Algemene bepalingen en berekeningswijze
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  2b.1.1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -486,7 +486,7 @@ b.  *uitkeringskosten:* kosten van werkloosheidsuitkeringen alsmede uitkeringen 
 
 ####Vaststelling en verdeling rijksbijdragedeel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van uitkeringskosten voor het beroepsonderwijs en het voortgezet algemeen volwassenenonderwijs.   
 2.  Onze Minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
@@ -937,13 +937,13 @@ c. de uitkomsten van de berekeningen op grond van de onderdelen a en b worden re
 
 ####Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  6.2a.1  
 
 ####Begripsbepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Op deze paragraaf is artikel 2b.1.1 van toepassing. 
 
@@ -951,7 +951,7 @@ Op deze paragraaf is artikel 2b.1.1 van toepassing.
 
 ####Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2015–2016
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Onze Minister verdeelt het voor het kalenderjaar 2015 respectievelijk 2016 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
 
@@ -964,7 +964,7 @@ b. op grond van artikel 6.2.1, eerste lid, respectievelijk artikel 6.2.2, eerste
 
 ####Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2017–2018
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Onze Minister verdeelt het voor het kalenderjaar 2017 respectievelijk 2018 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
 
