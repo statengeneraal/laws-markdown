@@ -282,6 +282,14 @@ c. leerlingen die vier jaar of korter in Nederland zijn en om die reden de Neder
 9.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften omtrent de centrale eindtoets worden vastgesteld.   
 10.  Tot een bij koninklijk besluit te bepalen datum zijn het eerste tot en met het negende lid, niet van toepassing op leerlingen van een speciale school voor basisonderwijs.  
 
+### Artikel  9c  
+
+####Voorhang algemene maatregel van bestuur
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De voordracht voor een krachtens artikel 8, zevende lid, en artikel 9b, achtste en negende lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
+
 ### Artikel  10  
 
 ####Kwaliteit onderwijs
