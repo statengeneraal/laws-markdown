@@ -12,11 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten 
 
+Materieel uitgewerkt per 01-08-1999 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-08-1999 
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven. Anloo Beilen Borger Coevorden Dalen Diever Dwingeloo Eelde Emmen Gasselte Gieten Havelte Meppel Norg Nijeveen Odoorn Oosterhesselen Peize Roden Rolde Ruinen Ruinerwold Schoonebeek Sleen  Smilde Vledder Vries Westerbork De Wijk Zuidlaren Zuidwolde Zweeloo 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-08-1999 
 
 1.  Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld. Aa en Hunze Borger-Odoorn Coevorden Emmen Meppel Middenveld Noordenveld Westerveld De Wolden Zuidlaren   
 2.  In de onderstaande tabel is aangegeven uit het gebied van welke op te heffen gemeenten het gebied van elk der nieuwe gemeenten bestaat, met dien verstande dat de grenzen van de nieuwe gemeenten komen te lopen zoals aangegeven op de bij de wet behorende kaart.   *Tabel 1. gebiedsbepaling nieuwe gemeenten*   
@@ -47,7 +51,10 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 ####Grenswijzigingen van een gemeente die niet wordt opgeheven 
 
+Materieel uitgewerkt per 01-08-1999 
+
 ### Artikel  3  
+Materieel uitgewerkt per 01-08-1999 
 
 De grenzen van de gemeenten Assen en Hoogeveen worden gewijzigd als aangegeven op de bij deze wet behorende kaart. 
 
@@ -55,7 +62,10 @@ De grenzen van de gemeenten Assen en Hoogeveen worden gewijzigd als aangegeven o
 
 ####Bepalingen in verband met de toepassing van de [Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) 
 
+Materieel uitgewerkt per 01-08-1999 
+
 ### Artikel  4  
+Materieel uitgewerkt per 01-08-1999 
 
 In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de instructies en reglementen, bedoeld in dat artikel.   *Tabel 2. aanwijzing op te heffen gemeenten*   
 
@@ -73,6 +83,7 @@ In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten
 | Zuidlaren  | Zuidlaren  |
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-08-1999 
 
 In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
@@ -111,11 +122,13 @@ f. artikel 71, derde lid, in verband met de overgang van de gemeentelijke basisa
 | Zuidlaren  | Eelde Vries Zuidlaren  |
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-08-1999 
 
 1.   [Artikel 41, eerste lid van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) is van overeenkomstige toepassing ten aanzien van gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door gemeenten waarvan het gebied grotendeels tot een en dezelfde gemeente komt te behoren.   
 2.  Voor de toepassing van [artikel 41, derde lid, van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), zijn voor de op te heffen gemeenten de nieuwe gemeenten aangewezen overeenkomstig de bij artikel 5 behorende tabel.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-08-1999 
 
 1.  Voor de nieuwe gemeenten die bij deze wet worden ingesteld, alsmede in de gemeente Hoogeveen, worden tussentijdse raadsverkiezingen als bedoeld in [artikel 52 van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) gehouden.   
 2.  Met de voorbereiding van de tussentijdse raadsverkiezingen voor de nieuwe gemeenten zijn de op te heffen gemeenten belast overeenkomstig de bij artikel 4 behorende tabel.   
@@ -126,29 +139,37 @@ f. artikel 71, derde lid, in verband met de overgang van de gemeentelijke basisa
 
 ####Overige bepalingen 
 
+Materieel uitgewerkt per 01-08-1999 
+
 ### Artikel  8  
+Materieel uitgewerkt per 01-08-1999 
 
 De gemeenteraden van de in artikel 2, eerste lid, en artikel 3 genoemde gemeenten nemen in de belastingverordening op de onroerende-zaakbelastingen ter zake van de kalenderjaren 1998 tot en met 2000 voor de onderscheidene toegevoegde gebieden dezelfde waardepeildata op als voor deze gebieden zijn gehanteerd bij de vaststelling van de waarden van de onroerende zaken, als bedoeld in [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor het tijdvak dat aanvangt op 1 januari 1997. [Artikel 41, tweede tot en met zevende lid, van de Wet waardering onroerende zaken](../../../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) zijn van overeenkomstige toepassing voor de onderscheidene toegevoegde gebieden. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-08-1999 
 
 Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-08-1999 
 
 Wijzigt de Politiewet 1993.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-08-1999 
 
 Gedeputeerde staten van Drenthe kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 10, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken onverwijld in kennis van de aangebrachte verbeteringen. 
 
 ### Artikel  12  
+Materieel uitgewerkt per 01-08-1999 
 
 1.  Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt op de wijze als aangegeven in de [artikelen 56](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), tweede lid, [107*a* ](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [107*b*, tweede lid, van de Wet op het basisonderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) de stichtings- en opheffingsnormen voor scholen voor basisonderwijs vast voor de bij deze wet betrokken gemeenten onderscheidenlijk delen van gemeenten.   
 2.  Indien de raad van een bij deze wet betrokken gemeente binnen drie maanden na de datum van herindeling een besluit neemt tot splitsing van de gemeente, stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen voor de beide gebiedsdelen een afzonderlijke opheffingsnorm vast. [Artikel 107*b*, eerste lid, eerste, tweede en vierde volzin, tweede lid, eerste en derde volzin, derde lid, eerste, derde en vierde volzin, en vierde lid, van de Wet op het basisonderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) is van overeenkomstige toepassing, met dien verstande dat in het vierde lid voor «6 maanden» telkens wordt gelezen: 3 maanden.   
 3.  De ingevolge het eerste en tweede lid vastgestelde stichtings- en opheffingsnormen treden in de plaats van de voor de betrokken gemeenten op grond van [artikel 56](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), tweede, derde, vierde en vijfde lid, [107](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), tweede lid, [107](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) *b *en [107*c* van de Wet op het basisonderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) vastgestelde normen. De nieuwe normen gelden met ingang van 1 januari volgend op de datum van herindeling. Tot en met 31 december volgend op de datum van herindeling blijven op de scholen in de bij deze wet betrokken gemeenten de normen van toepassing die golden op de dag voorafgaande aan de datum van herindeling.  
 
 ### Artikel  13  
+Materieel uitgewerkt per 01-08-1999 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -169,5 +190,7 @@ W. Sorgdrager
 ### Kaart  
 
 ####behorend bij de artikelen 2, tweede lid, en 3 van de wet van 19 juni 1997 tot gemeentelijke herindeling in de provincie Drenthe (Stb. 283.)
+
+Materieel uitgewerkt per 01-08-1999 
 
 Voor de kaart, raadpleeg de kaart bij het Staatsblad.  

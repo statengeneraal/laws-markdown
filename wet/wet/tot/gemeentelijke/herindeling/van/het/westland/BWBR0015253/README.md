@@ -12,11 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten
 
+Materieel uitgewerkt per 01-09-2005 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-09-2005 
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven: De Lier 's-Gravenzande Maasland Monster Naaldwijk Schipluiden Wateringen 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-09-2005 
 
 1.  Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld: Westland Midden-Delfland   
 2.  De nieuwe gemeente Westland bestaat uit het grondgebied van de op te heffen gemeenten De Lier, 's-Gravenzande, Monster, Naaldwijk en Wateringen en de nieuwe gemeente Midden-Delfland bestaat uit het grondgebied van de op te heffen gemeenten Maasland en Schipluiden, met dien verstande dat de grenzen van de nieuwe gemeenten komen te lopen zoals aangegeven op de bij deze wet behorende kaart.   
@@ -25,7 +29,10 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 ####Grenswijzigingen van gemeenten die niet worden opgeheven
 
+Materieel uitgewerkt per 01-09-2005 
+
 ### Artikel  3  
+Materieel uitgewerkt per 01-09-2005 
 
 De grenzen van de gemeenten Delft en Maassluis worden gewijzigd zoals aangegeven op de bij deze wet behorende kaart. 
 
@@ -33,11 +40,15 @@ De grenzen van de gemeenten Delft en Maassluis worden gewijzigd zoals aangegeven
 
 ####Bepalingen in verband met de toepassing van de Wet algemene regels herindeling
 
+Materieel uitgewerkt per 01-09-2005 
+
 ### Artikel  4  
+Materieel uitgewerkt per 01-09-2005 
 
 Voor de nieuwe gemeenten Westland respectievelijk Midden-Delfland worden de op te heffen gemeenten Naaldwijk respectievelijk Schipluiden aangewezen in verband met de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de instructies en reglementen, bedoeld in [dat artikel](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-09-2005 
 
 Voor de op te heffen gemeenten De Lier, 's-Gravenzande, Monster, Naaldwijk en Wateringen, respectievelijk Maasland en Schipluiden worden de nieuwe gemeenten Westland respectievelijk Midden-Delfland aangewezen in verband met de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
@@ -56,6 +67,7 @@ f.  [artikel 70, eerste lid](../../../../../../../../../wet/wet/algemene/regels/
 g.  [artikel 71, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overdracht van de gemeentelijke basisadministratie persoonsgegevens.   
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-09-2005 
 
 1.  Voor de nieuwe gemeenten Midden-Delfland en Westland worden tussentijdse raadsverkiezingen bedoeld in [artikel 52, tweede lid, onder a, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) gehouden.   
 2.  Met de voorbereiding van de tussentijdse raadsverkiezingen voor de nieuwe gemeenten Westland respectievelijk Midden-Delfland worden de op te heffen gemeenten Naaldwijk respectievelijk Schipluiden belast.   
@@ -66,19 +78,25 @@ g.  [artikel 71, eerste lid](../../../../../../../../../wet/wet/algemene/regels/
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 01-09-2005 
+
 ### Artikel  7  
+Materieel uitgewerkt per 01-09-2005 
 
 Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-09-2005 
 
 Wijzigt de Politiewet 1993.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-09-2005 
 
 Gedeputeerde Staten van Zuid-Holland kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties onverwijld in kennis van de aangebrachte verbeteringen. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-09-2005 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -97,6 +115,8 @@ De Minister van Justitie a.i.,
 G. Zalm     
 
 ####Kaart genoemd in de wet tot gemeentelijke herindeling van het Westland
+
+Materieel uitgewerkt per 01-09-2005 
 
 ![36392](http://wetten.overheid.nl/Illustration/36392)
 

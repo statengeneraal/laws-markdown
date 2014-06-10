@@ -12,15 +12,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing gemeenten en instelling nieuwe gemeenten 
 
+Materieel uitgewerkt per 17-09-1995 
+
 ### Artikel  1  
+Materieel uitgewerkt per 17-09-1995 
 
 Met ingang van de datum van herindeling worden de gemeenten Megen c.a., Oss, Berghem, Schaijk, Zeeland, Grave, Beers, Cuijk c.a., Haps, Heesch, Nistelrode, Heeswijk-Dinther, Oeffelt, Boxmeer, Wanroij, Oploo c.a., Veghel en Erp opgeheven.  
 
 ### Artikel  2  
+Materieel uitgewerkt per 17-09-1995 
 
 Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd, Grave, Cuijk, Boxmeer, St. Anthonis, Veghel en Heesch ingesteld.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 17-09-1995 
 
 1.   *De nieuwe gemeente Oss* bestaat uit het gebied van de op te heffen gemeenten Oss, Berghem en Megen c.a. en delen van de op te heffen gemeenten Heesch, Schaijk en Nistelrode en van de gemeenten Lith en Ravenstein, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.    
 2.   De grens met de gemeente Lith volgt:  
@@ -61,6 +66,7 @@ d. Van daar af in westelijke richting de gemeenschappelijke grens van de percele
 7.   De grens met de gemeente Maasdonk volgt vanaf het punt, dat in het zesde lid onder *d* het laatst is beschreven, in noordelijke richting de bestaande grens tot aan de gemeente Lith.   
 
 ### Artikel  4  
+Materieel uitgewerkt per 17-09-1995 
 
 1.   *De nieuwe gemeente Landerd* bestaat uit het gebied van de op te heffen gemeenten Schaijk en Zeeland, delen van de op te heffen gemeenten Grave, Oss en Nistelrode en een deel van de gemeenten Ravenstein en Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.    
 2.   De grens met de gemeente Ravenstein volgt:  
@@ -113,6 +119,7 @@ e. Van daar af in noordelijke richting de gemeenschappelijke grens van de percel
 7.   De grens met de nieuwe gemeente Oss komt te lopen als beschreven in artikel 3, vijfde lid.   
 
 ### Artikel  5  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente Grave* bestaat uit het gebied van de op te heffen gemeente Grave en delen van de op te heffen gemeenten Beers en Schaijk en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met zesde lid.    
 2.   De grens met de gemeente Ravenstein volgt de bestaande grens tussen de op te heffen gemeente Grave en de gemeente Ravenstein.    
@@ -140,6 +147,7 @@ c. Van daar af de bestaande grens tot in het punt, waar de percelen, kadastraal 
 6.   De grens met de nieuwe gemeente Landerd komt te lopen als beschreven in artikel 4, derde lid.   
 
 ### Artikel  6  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente Cuijk* bestaat uit het gebied van de op te heffen gemeenten Cuijk c.a. en Haps en delen van de op te heffen gemeente Beers en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zesde lid.    
 2.   De grens met de provincies Gelderland en Limburg begint in het punt dat in artikel 5, derde lid, het laatst is beschreven en volgt van daar af in oostelijke en zuidoostelijke richting de bestaande provinciegrenzen tot aan de op te heffen gemeente Oeffelt.    
@@ -163,6 +171,7 @@ e. Van daar af de middellijn van de percelen, kadastraal bekend gemeente Beers, 
 6.   De grens met de nieuwe gemeente Grave komt te lopen als beschreven in artikel 5, vierde lid.   
 
 ### Artikel  7  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente Boxmeer* bestaat uit het gebied van de op te heffen gemeenten Boxmeer en Oeffelt en delen van de op te heffen gemeente Wanroij en van de gemeente Vierlingsbeek, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het vijfde lid.    
 2.   De grens met de provincie Limburg begint in het punt dat in artikel 6, tweede lid, het laatst is beschreven en volgt in overwegend zuidelijke richting de bestaande provinciegrens tot aan de gemeente Vierlingsbeek.    
@@ -199,6 +208,7 @@ g. Van daar af in noordoostelijke en noordwestelijke richting de middellijn van 
 5.   De grens met de nieuwe gemeente Cuijk komt te lopen als beschreven in artikel 6, derde lid.   
 
 ### Artikel  8  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente St. Anthonis* bestaat uit het gebied van de op te heffen gemeente Oploo c.a., een deel van de op te heffen gemeente Wanroij en een deel van het gebied van de gemeente Vierlingsbeek met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het tiende lid.    
 2.   De grens met de nieuwe gemeente Cuijk valt samen met de bestaande grens tussen de op te heffen gemeenten Haps en Wanroij.    
@@ -222,6 +232,7 @@ e. Van daar af in westelijke en zuidelijke richting de bestaande grens tot in he
 10.   De grens met de gemeente Mill c.a. volgt beginnend op de bestaande grens tussen de op te heffen gemeente Wanroij en de gemeente Uden en Mill c.a. in noordoostelijke richting de bestaande grens tot in het punt, waar de percelen, kadastraal bekend gemeente Wanroij, sectie K, nr. 731 en Mill, sectie D, nr. 2084 aan elkaar grenzen. Vervolgens in noordwestelijke, noordelijke, noordoostelijke, noordwestelijke en noordoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Mill, sectie D, nrs. 2084 en 2085 tot de bestaande grens. Vervolgens in noordoostelijke richting tot in het punt, waar de percelen, kadastraal bekend gemeente Wanroij, sectie K, nrs. 78 en 490 en Mill, sectie C, nr. 1087 aan elkaar grenzen. Vervolgens in oostelijke, zuidelijke, oostelijke, noordwestelijke, noordoostelijke, en zuidoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Wanroij, sectie K, nrs. 490, 8, 623, 9, 5 en 621 en Mill, sectie C, nrs. 1466 en 1454 enerzijds en Wanroij, sectie K, nrs. 78, 678, 11, 4 en 413 en Mill, sectie C, nrs. 1528 en 1464 anderzijds tot de bestaande grens.   
 
 ### Artikel  9  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente Veghel* bestaat uit het gebied van de op te heffen gemeenten Veghel en Erp en delen van de gemeenten Uden en Sint-Oedenrode, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het negende lid.    
 2.   De grens met de gemeente Schijndel valt samen met de bestaande grens tussen de op te heffen gemeente Veghel en de gemeente Schijndel.    
@@ -260,6 +271,7 @@ b. Van daar af in westelijke richting de gemeenschappelijke grens van de percele
 c. Van daar af in noordelijke richting de middellijn van deze waterloop, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nr. 2772, Veghel, sectie E, nr. 3962 en Sint-Oedenrode, sectie D, nr. 2732 tot de verlengde noordgrens van het perceel, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nr. 2838. Vervolgens in westelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nrs. 2732, 2838 en 2841 aan elkaar grenzen en vervolgens in overwegend westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nrs. 2838, 2842 en 2660 enerzijds en nrs. 2841, 2840, 2518 en 2678 anderzijds tot de bestaande grens.     
 
 ### Artikel  10  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De *nieuwe gemeente Heesch* bestaat uit het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode, delen van de op te heffen gemeenten Schaijk en Veghel en delen van het gebied van de gemeente Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het achtste lid.    
 2.   De grens met de gemeente Maasdonk volgt:  
@@ -294,18 +306,23 @@ c. Van daar af in zuidelijke richting de gemeenschappelijke grens van de percele
 
 ####Grenswijzigingen van niet op te heffen gemeenten 
 
+Materieel uitgewerkt per 17-09-1995 
+
 ### Artikel  11  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Lith worden gewijzigd als beschreven in het tweede en derde lid.    
 2.   De grens met de nieuwe gemeente Oss komt te lopen als beschreven in artikel 3, tweede lid.   
 
 ### Artikel  12  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Ravenstein worden gewijzigd als beschreven in het tweede en het derde lid.    
 2.   De grens met de nieuwe gemeente Landerd komt te lopen als beschreven in artikel 4, tweede lid.    
 3.   De grens met de nieuwe gemeente Oss komt te lopen als aangegeven in artikel 3, vierde lid.   
 
 ### Artikel  13  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Mill c.a. worden gewijzigd als beschreven in het tweede, derde lid en vierde lid.    
 2.   De grens met de nieuwe gemeente Grave komt te lopen als beschreven in artikel 5, vijfde lid.    
@@ -313,12 +330,14 @@ c. Van daar af in zuidelijke richting de gemeenschappelijke grens van de percele
 4.   De grens met de nieuwe gemeente St. Anthonis komt te lopen als beschreven in artikel 8, tiende lid.   
 
 ### Artikel  14  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Vierlingsbeek worden gewijzigd als beschreven in het tweede en het derde lid.    
 2.   De grens met de nieuwe gemeente Boxmeer komt te lopen als beschreven in artikel 7, derde lid.    
 3.   De grens met de nieuwe gemeente St. Anthonis komt te lopen als beschreven in artikel 8, vierde lid.   
 
 ### Artikel  15  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grens van de gemeente Boekel wordt gewijzigd als beschreven in het tweede lid.    
 2.   De grens met de gemeente Uden volgt:  
@@ -334,6 +353,7 @@ d. Van daar af in zuidelijke richting een rechte lijn tot in het punt, waar de p
 e. Van daar af in oostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Boekel, sectie L, nr. 8 enerzijds en nr. 33 anderzijds tot de bestaande grens en vervolgens deze bestaande grens tot de bestaande grens tussen de gemeente Boekel en de op te heffen gemeente Wanroij.     
 
 ### Artikel  16  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Uden worden gewijzigd als beschreven in het tweede tot en met het vijfde lid.    
 2.   De grens met de nieuwe gemeente Landerd komt te lopen als beschreven in artikel 4, vijfde lid.    
@@ -342,11 +362,13 @@ e. Van daar af in oostelijke richting de gemeenschappelijke grens van de percele
 5.   De grens met de nieuwe gemeente Heesch komt te lopen als beschreven in artikel 10, vijfde lid.   
 
 ### Artikel  17  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De grenzen van de gemeente Sint-Oedenrode worden gewijzigd als beschreven in het tweede lid.    
 2.   De grens met de nieuwe gemeente Veghel komt te lopen als beschreven in artikel 9, negende lid.   
 
 ### Artikel  18  
+Materieel uitgewerkt per 17-09-1995 
 
 De grens van de gemeente Maasdonk wordt gewijzigd als beschreven in artikel 10, tweede lid.  
 
@@ -354,7 +376,10 @@ De grens van de gemeente Maasdonk wordt gewijzigd als beschreven in artikel 10, 
 
 ####Overige bepalingen 
 
+Materieel uitgewerkt per 17-09-1995 
+
 ### Artikel  19  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 36, eerste en tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen de op te heffen gemeente:  
 
@@ -375,6 +400,7 @@ g. Veghel, voor de toepassing van die leden op de nieuwe gemeente Veghel;
 h. Heesch, voor de toepassing van die leden op de nieuwe gemeente Heesch.    
 
 ### Artikel  20  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 39, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), wordt aangewezen de nieuwe gemeente:  
 
@@ -395,6 +421,7 @@ g. Veghel, voor het gebied van de op te heffen gemeenten Veghel en Erp;
 h. Heesch voor het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.    
 
 ### Artikel  21  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  Met ingang van de datum van herindeling vervallen de gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:  
 
@@ -433,6 +460,7 @@ g. Veghel in de plaats van de op te heffen gemeenten Veghel en Erp;
 h. Heesch in de plaats van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.     
 
 ### Artikel  22  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 44, eerste lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), en [45, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen de nieuwe gemeente:  
 
@@ -453,6 +481,7 @@ g. Veghel, met betrekking tot rechten en verplichtingen van de op te heffen geme
 h. Heesch, met betrekking tot rechten en verplichtingen van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.    
 
 ### Artikel  23  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 48, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) treedt de nieuwe gemeente:  
 
@@ -473,6 +502,7 @@ g. Veghel in de plaats van de op te heffen gemeenten Veghel en Erp;
 h. Heesch in de plaats van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.    
 
 ### Artikel  24  
+Materieel uitgewerkt per 17-09-1995 
 
 1.   Een verkiezing als bedoeld in [artikel 52, eerste lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt gehouden voor de nieuwe gemeenten die bij deze wet worden ingesteld. Krachtens hetzelfde lid wordt aangewezen de op te heffen gemeente:  
 
@@ -494,11 +524,13 @@ h. Heesch, met het oog op de voorbereiding van de verkiezing voor de nieuwe geme
 2.   Indien de datum van herindeling valt binnen een jaar voor de datum waarop de verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) moeten worden gehouden, vinden deze verkiezingen niet plaats in de gemeenten die bij deze wet zijn ingesteld.   
 
 ### Artikel  25  
+Materieel uitgewerkt per 17-09-1995 
 
 1.  De gewone zittingsperiode van de gemeenteraadsleden die zijn gekozen bij een verkiezing als bedoeld in artikel 24, eerste lid, eindigt tegelijk met de zittingsperiode van de gemeenteraadsleden die zijn gekozen bij de reguliere verkiezingen ingevolge de [Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md).    
 2.   Het eerste lid is van overeenkomstige toepassing op de wethouders die zijn benoemd uit gemeenteraden die zijn gekozen bij verkiezingen als bedoeld in artikel 24, eerste lid.   
 
 ### Artikel  26  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 59, eerste lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen de nieuwe gemeente:  
 
@@ -519,6 +551,7 @@ g. Veghel, wat betreft de ambtenaren van de op te heffen gemeenten Veghel en Erp
 h. Heesch, wat betreft de ambtenaren van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.    
 
 ### Artikel  27  
+Materieel uitgewerkt per 17-09-1995 
 
 Krachtens [artikel 70, eerste lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen de nieuwe gemeente:  
 
@@ -539,18 +572,22 @@ g. Veghel, wat betreft de archiefbescheiden van de op te heffen gemeenten Veghel
 h. Heesch, wat betreft de archiefbescheiden van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.    
 
 ### Artikel  29  
+Materieel uitgewerkt per 17-09-1995 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  30  
+Materieel uitgewerkt per 17-09-1995 
 
 Ter voldoening aan het bepaalde in artikel 17, eerste lid, van de Tijdelijke wet bekostiging nieuwe basisscholen wordt de stichtingsnorm voor de nieuwe gemeente Oss met ingang van de datum van herindeling vastgesteld op 250.  
 
 ### Artikel  31  
+Materieel uitgewerkt per 17-09-1995 
 
 Onze Minister van Binnenlandse Zaken kan, indien nodig, binnen dertig dagen na inwerkingtreding van deze wet verbeteringen aanbrengen in de grensbeschrijving.  
 
 ### Artikel  32  
+Materieel uitgewerkt per 17-09-1995 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
 

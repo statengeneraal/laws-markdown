@@ -12,11 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten
 
+Materieel uitgewerkt per 22-09-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 22-09-2008 
 
 Met ingang van de datum van herindeling worden de gemeenten Haelen, Heel, Heythuysen, Hunsel, Maasbracht, Roggel en Neer, en Thorn opgeheven. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 22-09-2008 
 
 1.  Met ingang van de datum van herindeling worden de nieuwe gemeenten Leudal en Maasgouw ingesteld.   
 2.  De nieuwe gemeente Leudal bestaat uit het grondgebied van de op te heffen gemeenten Haelen, Heythuysen, Hunsel en Roggel en Neer, zoals aangegeven op de bij deze wet behorende kaart. De nieuwe gemeente Maasgouw bestaat uit het grondgebied van de op te heffen gemeenten Heel, Maasbracht en Thorn, zoals aangegeven op de bij deze wet behorende kaart.  
@@ -25,11 +29,15 @@ Met ingang van de datum van herindeling worden de gemeenten Haelen, Heel, Heythu
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 22-09-2008 
+
 ### Artikel  3  
+Materieel uitgewerkt per 22-09-2008 
 
 Voor de nieuwe gemeenten Leudal en Maasgouw worden de op te heffen gemeente Heythuysen, respectievelijk Maasbracht aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de toepassing van de instructies en reglementen, bedoeld in [dat artikel](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
 
 ### Artikel  4  
+Materieel uitgewerkt per 22-09-2008 
 
 Voor de op te heffen gemeenten Haelen, Heythuysen, Hunsel en Roggel en Neer en de op te heffen gemeenten Heel, Maasbracht en Thorn worden de nieuwe gemeenten Leudal, respectievelijk Maasgouw aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
@@ -40,6 +48,7 @@ b. [artikel 41, derde lid](../../../../../../../../wet/wet/algemene/regels/herin
 c. [artikel 45, tweede lid](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de overgang van de rechten en verplichtingen in verband met de voorziening van drinkwater, elektriciteit en gas.   
 
 ### Artikel  5  
+Materieel uitgewerkt per 22-09-2008 
 
 1.  Voor de nieuwe gemeenten Leudal en Maasgouw worden tussentijdse raadsverkiezingen als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) gehouden.   
 2.  Met de voorbereiding van de tussentijdse raadsverkiezing voor de nieuwe gemeenten Leudal en Maasgouw worden de op te heffen gemeenten Heythuysen, respectievelijk Maasbracht belast.   
@@ -47,14 +56,17 @@ c. [artikel 45, tweede lid](../../../../../../../../wet/wet/algemene/regels/heri
 4.  De zittingsperiode van de leden van de raden van de nieuwe gemeenten eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 22-09-2008 
 
 Wijzigt de Wet op de rechterlijke indeling. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 22-09-2008 
 
 Wijzigt de Politiewet 1993. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 22-09-2008 
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
@@ -75,6 +87,8 @@ J. P. H. Donner
 ### Kaart 
 
 ####behorende bij artikel 2  van de Wet tot gemeentelijke herindeling van een aantal gemeenten in het westelijk deel van Midden-Limburg
+
+Materieel uitgewerkt per 22-09-2008 
 
 ![241534](http://wetten.overheid.nl/Illustration/241534)
 

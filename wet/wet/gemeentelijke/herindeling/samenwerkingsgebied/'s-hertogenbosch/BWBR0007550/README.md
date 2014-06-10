@@ -12,27 +12,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten
 
+Materieel uitgewerkt per 15-09-1997 
+
 ### Artikel  1  
+Materieel uitgewerkt per 15-09-1997 
 
 Met ingang van de datum van herindeling worden de gemeenten Berlicum, Boxtel, Den Dungen, Esch, Haaren, Helvoirt, 's-Hertogenbosch, Liempde, Rosmalen en Sint-Michielsgestel opgeheven. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 15-09-1997 
 
 Met ingang van de datum van herindeling worden de nieuwe gemeenten Boxtel, Haaren, 's-Hertogenbosch en Sint-Michielsgestel ingesteld. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 15-09-1997 
 
 De nieuwe gemeente Boxtel bestaat uit het gebied van de op te heffen gemeenten Boxtel en Liempde, met dien verstande dat haar grens komt te lopen als aangegeven op de bij deze wet behorende kaart. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 15-09-1997 
 
 De nieuwe gemeente Haaren bestaat uit het gebied van de op te heffen gemeenten Esch, Haaren en Helvoirt, met dien verstande dat haar grens komt te lopen als aangegeven op de bij deze wet behorende kaarten. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 15-09-1997 
 
 De nieuwe gemeente 's-Hertogenbosch bestaat uit het gebied van de op te heffen gemeenten 's-Hertogenbosch en Rosmalen, met dien verstande dat haar grens komt te lopen als aangegeven op de bij deze wet behorende kaarten. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 15-09-1997 
 
 De nieuwe gemeente Sint-Michielsgestel bestaat uit het gebied van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel, met dien verstande dat haar grens komt te lopen als aangegeven op de bij deze wet behorende kaarten. 
 
@@ -40,7 +48,10 @@ De nieuwe gemeente Sint-Michielsgestel bestaat uit het gebied van de op te heffe
 
 ####Grenswijzigingen van gemeenten die niet worden opgeheven
 
+Materieel uitgewerkt per 15-09-1997 
+
 ### Artikel  7  
+Materieel uitgewerkt per 15-09-1997 
 
 De grenzen van de gemeenten Drunen, Heesch, Lith, Maasdonk, Schijndel, Sint-Oedenrode, Veghel, Vlijmen en Vught worden gewijzigd als aangegeven op de bij deze wet behorende kaarten. 
 
@@ -48,7 +59,10 @@ De grenzen van de gemeenten Drunen, Heesch, Lith, Maasdonk, Schijndel, Sint-Oede
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 15-09-1997 
+
 ### Artikel  8  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 36, eerste en tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen:  
 
@@ -61,6 +75,7 @@ c. de op te heffen gemeente 's-Hertogenbosch, voor de toepassing van die leden o
 d. de op te heffen gemeente Sint-Michielsgestel, voor de toepassing van die leden op de nieuwe gemeente Sint-Michielsgestel.   
 
 ### Artikel  9  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 39, tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen:  
 
@@ -73,6 +88,7 @@ c. de nieuwe gemeente 's-Hertogenbosch voor het gebied van de op te heffen gemee
 d. de nieuwe gemeente Sint-Michielsgestel, voor het gebied van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel.   
 
 ### Artikel  10  
+Materieel uitgewerkt per 15-09-1997 
 
 1.  Ter uitvoering van [artikel 41, tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) vervallen met ingang van de datum van herindeling de gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:  
 
@@ -95,6 +111,7 @@ c. de nieuwe gemeente 's-Hertogenbosch in de plaats van de op te heffen gemeente
 d. de nieuwe gemeente Sint-Michielsgestel in de plaats van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel.    
 
 ### Artikel  11  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 44, eerste lid](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), en [artikel 45, tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen:  
 
@@ -107,6 +124,7 @@ c. de nieuwe gemeente 's-Hertogenbosch, met betrekking tot de rechten en verplic
 d. de nieuwe gemeente Sint-Michielsgestel, met betrekking tot de rechten en verplichtingen van de op het heffen gemeenten Berlicum, Den Dongen en Sint-Michielsgestel.   
 
 ### Artikel  12  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 48, tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) treedt:  
 
@@ -119,14 +137,17 @@ c. de nieuwe gemeente 's-Hertogenbosch in de plaats van de op te heffen gemeente
 d. de nieuwe gemeente Sint-Michielsgestel in de plaats van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel.   
 
 ### Artikel  13  
+Materieel uitgewerkt per 15-09-1997 
 
 Ingevolge [artikel 52, tweede lid, onder *a*, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) worden tussentijdse raadsverkiezingen gehouden voor de nieuwe gemeenten Boxtel, Haaren, 's-Hertogenbosch en Sint-Michielsgestel, met de voorbereiding waarvan de op te heffen gemeenten Boxtel, Haaren, 's-Hertogenbosch en Sint-Michielsgestel worden belast. 
 
 ### Artikel  14  
+Materieel uitgewerkt per 15-09-1997 
 
 De zittingsperiode van de raadsleden die zijn gekozen bij de verkiezing, bedoeld in artikel 13, eindigt tegelijk met de zittingsperiode van de raadsleden die zijn gekozen bij reguliere verkiezingen ingevolge de [Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md). 
 
 ### Artikel  15  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 59, eerste lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen:  
 
@@ -139,6 +160,7 @@ c. de nieuwe gemeente 's-Hertogenbosch, ten aanzien van de ambtenaren van de op 
 d. de nieuwe gemeente Sint-Michielsgestel, ten aanzien van de ambtenaren van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel.   
 
 ### Artikel  16  
+Materieel uitgewerkt per 15-09-1997 
 
 Ter uitvoering van [artikel 70, eerste lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) wordt aangewezen:  
 
@@ -151,22 +173,27 @@ c. de nieuwe gemeente 's-Hertogenbosch, ten aanzien van de archiefbescheiden van
 d. de nieuwe gemeente Sint-Michielsgestel, ten aanzien van de archiefbescheiden van de op te heffen gemeenten Berlicum, Den Dungen en Sint-Michielsgestel.   
 
 ### Artikel  17  
+Materieel uitgewerkt per 15-09-1997 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  18  
+Materieel uitgewerkt per 15-09-1997 
 
 Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  19  
+Materieel uitgewerkt per 15-09-1997 
 
 Gedeputeerde staten van Noord-Brabant kunnen bij vaststelling van de grensbeschrijving, bedoeld in [artikel 10, tweede lid, van de Wet algemene regels herindeling](../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij zenden de verbeterde kaart zo spoedig mogelijk naar Onze Minister van Binnenlandse Zaken. 
 
 ### Artikel  20  
+Materieel uitgewerkt per 15-09-1997 
 
 Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt op de wijze als aangegeven in de [Wet op het basisonderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) de stichtings- en opheffingsnorm voor scholen voor basisonderwijs vast voor de bij deze wet betrokken gemeenten. De ingevolge de eerste volzin vastgestelde stichtings- en opheffingsnormen treden in de plaats van de voor de betrokken gemeenten in de bijlage bij de [Wet op het basisonderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) opgenomen normen. De nieuwe normen gelden met ingang van de datum van herindeling. 
 
 ### Artikel  21  
+Materieel uitgewerkt per 15-09-1997 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

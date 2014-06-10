@@ -52,7 +52,7 @@ j. het verlenen van een erkenning van beroepskwalificaties als bedoeld in [artik
 
 ### Artikel  4  
 
-1.  Het College bestaat uit een voorzitter en vier leden.   
+1.  Het College bestaat uit een voorzitter en vijf leden.   
 2.  Het College kan zich bij de uitvoering van zijn taken laten ondersteunen op een door het College te bepalen wijze.   
 3.  Onze Minister benoemt, na voordracht van het College, de voorzitter en de leden van het College.  
 

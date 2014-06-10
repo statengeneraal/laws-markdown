@@ -12,15 +12,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten 
 
+Materieel uitgewerkt per 29-07-2000 
+
 ### Artikel  1  
+Materieel uitgewerkt per 29-07-2000 
 
 Met ingang van de datum van herindeling worden de gemeenten Deventer en Diepenveen opgeheven.  
 
 ### Artikel  2  
+Materieel uitgewerkt per 29-07-2000 
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Deventer ingesteld zoals aangegeven op de bij de wet behorende kaart.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 29-07-2000 
 
 De nieuwe gemeente Deventer bestaat uit het grondgebied van de op te heffen gemeenten Deventer en Diepenveen, met dien verstande dat de grenzen van de nieuwe gemeente komen te lopen zoals aangegeven op de bij de wet behorende kaart.  
 
@@ -28,7 +33,10 @@ De nieuwe gemeente Deventer bestaat uit het grondgebied van de op te heffen geme
 
 ####Grenswijzigingen van een gemeente die niet wordt opgeheven 
 
+Materieel uitgewerkt per 29-07-2000 
+
 ### Artikel  4  
+Materieel uitgewerkt per 29-07-2000 
 
 De grenzen van de gemeente Bathmen worden gewijzigd als aangegeven op de bij de wet behorende kaart.  
 
@@ -36,11 +44,15 @@ De grenzen van de gemeente Bathmen worden gewijzigd als aangegeven op de bij de 
 
 ####Overige bepalingen 
 
+Materieel uitgewerkt per 29-07-2000 
+
 ### Artikel  5  
+Materieel uitgewerkt per 29-07-2000 
 
 Voor de nieuwe gemeente Deventer wordt de op te heffen gemeente Deventer aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de toepassing van de instructies en reglementen bedoeld in dat artikel.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 29-07-2000 
 
 Voor de op te heffen gemeenten Deventer en Diepenveen wordt de nieuwe gemeente Deventer aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md):  
 
@@ -51,19 +63,23 @@ b.  [artikel 41, derde lid](../../../../../../../../../../../wet/wet/algemene/re
 c.  [artikel 45, tweede lid](../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de overgang van de voorziening van drinkwater, elektriciteit en gas.    
 
 ### Artikel  7  
+Materieel uitgewerkt per 29-07-2000 
 
 1.  Voor de nieuwe gemeente Deventer en de gemeente Bathmen worden tussentijdse raadsverkiezingen gehouden.    
 2.  Met de voorbereiding van de tussentijdse raadsverkiezing voor de nieuwe gemeente Deventer wordt de op te heffen gemeente Deventer belast.   
 
 ### Artikel  8  
+Materieel uitgewerkt per 29-07-2000 
 
 Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 29-07-2000 
 
 Wijzigt de Politiewet 1993.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 29-07-2000 
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
 
@@ -82,5 +98,7 @@ De Minister van Justitie,
 W. Sorgdrager     
 
 ####Kaart genoemd in artikel 2 van de wet tot gemeentelijke herindeling van de gemeenten Deventer, Diepenveen en Bathmen
+
+Materieel uitgewerkt per 29-07-2000 
 
 Raadpleeg voor de kaart het gedrukte staatsblad, Stb. 1998/460.  

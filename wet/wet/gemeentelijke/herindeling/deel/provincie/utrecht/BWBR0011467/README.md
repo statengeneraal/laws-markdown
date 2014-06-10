@@ -12,11 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten
 
+Materieel uitgewerkt per 21-07-2002 
+
 ### Artikel  1  
+Materieel uitgewerkt per 21-07-2002 
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven: De Bilt Harmelen Maartensdijk Utrecht Vleuten-De Meern Woerden 
 
 ### Artikel  2  
+Materieel uitgewerkt per 21-07-2002 
 
 1.  Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld: Utrecht De Bilt Woerden   
 2.  In de onderstaande tabel is aangegeven uit het gebied van welke op te heffen gemeenten het gebied van elk der nieuwe gemeenten bestaat, met dien verstande dat de grenzen van de nieuwe gemeenten komen te lopen zoals aangegeven op de bij deze wet behorende kaart.   *Tabel 1. Gebiedsbepaling nieuwe gemeenten*   
@@ -36,11 +40,15 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 21-07-2002 
+
 ### Artikel  3  
+Materieel uitgewerkt per 21-07-2002 
 
 Voor de nieuwe gemeenten Utrecht, De Bilt en Woerden worden de op te heffen gemeenten met dezelfde naam aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de instructies en reglementen, bedoeld in dat artikel. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 21-07-2002 
 
 In de onderstaande tabel worden voor de op te heffen gemeenten de nieuwe gemeenten aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
@@ -70,6 +78,7 @@ g.  [artikel 71, derde lid](../../../../../../../../wet/wet/algemene/regels/heri
 | --- | Woerden  |
 
 ### Artikel  5  
+Materieel uitgewerkt per 21-07-2002 
 
 1.  Voor de nieuwe gemeenten worden tussentijdse raadsverkiezingen gehouden als bedoeld in [artikel 52, van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).   
 2.  Met de voorbereiding van de tussentijdse raadsverkiezingen worden de op te heffen gemeenten met dezelfde naam belast.   
@@ -77,18 +86,22 @@ g.  [artikel 71, derde lid](../../../../../../../../wet/wet/algemene/regels/heri
 4.  De zittingsperiode van de leden van de raden van de nieuwe gemeenten eindigt in het in het derde lid bedoelde geval gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 21-07-2002 
 
 Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 21-07-2002 
 
 Wijzigt de Politiewet 1993.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 21-07-2002 
 
 Gedeputeerde staten van Utrecht kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 10, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 21-07-2002 
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
@@ -109,5 +122,7 @@ A. H. Korthals
 ### Kaart  
 
 ####genoemd in de wet gemeentelijke herindeling in een deel van de provincie Utrecht
+
+Materieel uitgewerkt per 21-07-2002 
 
 Raadpleeg voor de kaart het gedrukte Staatsblad 2000/301.  

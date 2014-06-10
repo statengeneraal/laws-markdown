@@ -12,11 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Opheffing en instelling van gemeenten
 
+Materieel uitgewerkt per 01-09-2006 
+
 ###Artikel 1 
+Materieel uitgewerkt per 01-09-2006 
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven:AaltenAngerloBathmenBerghBorculoDeventerDidamDinxperloDoetinchemEibergenGendringenGorsselGroenloHengeloHummelo en KeppelLichtenvoordeLochemNeedeRuurloSteenderenVordenWarnsveldWehlWischZelhemZevenaarZutphen
 
 ###Artikel 2 
+Materieel uitgewerkt per 01-09-2006 
 
 1. Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld:AaltenBerkellandBronckhorstDeventerDoetinchemGroenloLochemMontferlandOude IJsselstreekZevenaarZutphen
 2. In de onderstaande tabel is aangegeven uit het gebied van welke op te heffen gemeenten het gebied van elk der nieuwe gemeenten bestaat, met dien verstande dat de grenzen van de nieuwe gemeenten komen te lopen zoals aangegeven op de bij de wet behorende kaart.Tabel 1. gebiedsbepaling nieuwe gemeenten
@@ -39,7 +43,10 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 ####Grenswijziging van gemeenten die niet worden opgeheven
 
+Materieel uitgewerkt per 01-09-2006 
+
 ###Artikel 3 
+Materieel uitgewerkt per 01-09-2006 
 
 De grens van de gemeente Rijnwaarden wordt gewijzigd als aangegeven op de bij deze wet behorende kaart.
 
@@ -47,7 +54,10 @@ De grens van de gemeente Rijnwaarden wordt gewijzigd als aangegeven op de bij de
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 01-09-2006 
+
 ###Artikel 4 
+Materieel uitgewerkt per 01-09-2006 
 
 In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met instructies en reglementen, bedoeld in [dat artikel](../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).Tabel 2. aanwijzing op te heffen gemeenten
 
@@ -64,6 +74,7 @@ In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten
 |Zutphen |Zutphen |
 
 ###Artikel 5 
+Materieel uitgewerkt per 01-09-2006 
 
 In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md):
 
@@ -96,6 +107,7 @@ g.[artikel 71, derde lid](../../../../../../../../../../../../../wet/wet/algemen
 |Zutphen |Warnsveld Zutphen |
 
 ###Artikel 6 
+Materieel uitgewerkt per 01-09-2006 
 
 1. Voor de nieuwe gemeenten worden tussentijdse raadsverkiezingen als bedoeld in [artikel 52 van de Wet algemene regels herindeling](../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) gehouden.
 2. Met de voorbereiding van de tussentijdse raadsverkiezingen voor de nieuwe gemeenten zijn de op te heffen gemeenten belast overeenkomstig de bij artikel 4 behorende tabel.
@@ -103,22 +115,27 @@ g.[artikel 71, derde lid](../../../../../../../../../../../../../wet/wet/algemen
 4. De zittingsperiode van de leden van de raden van de nieuwe gemeenten eindigt in het in het derde lid bedoelde geval gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
 ###Artikel 7 
+Materieel uitgewerkt per 01-09-2006 
 
 Wijzigt de Wet op de rechterlijke indeling.
 
 ###Artikel 8 
+Materieel uitgewerkt per 01-09-2006 
 
 Advocaten en procureurs die kantoor houden in een gemeente die ingevolge deze wet is overgegaan naar een ander arrondissement, worden door de zorg van de betrokken griffiers ingeschreven bij de rechtbank van het nieuwe arrondissement. De procureurs blijven tot vijf jaren na de datum van herindeling tevens ingeschreven bij de rechtbank van het oude arrondissement. [Artikel 61, tweede lid, tweede volzin, van de Advocatenwet](../../../../../../../../../../../../../wet/advocatenwet/BWBR0002093/README.md) blijft buiten toepassing.
 
 ###Artikel 9 
+Materieel uitgewerkt per 01-09-2006 
 
 Wijzigt de Politiewet 1993.
 
 ###Artikel 10 
+Materieel uitgewerkt per 01-09-2006 
 
 Gedeputeerde staten van Gelderland kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen.
 
 ###Artikel 11 
+Materieel uitgewerkt per 01-09-2006 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -137,5 +154,6 @@ De Minister van Justitie ,
 J. P. H.Donner
 
 ###Bijlage 
+Materieel uitgewerkt per 01-09-2006 
 
 Raadpleeg voor de kaart het gedrukte Staatsblad 2004/414.
