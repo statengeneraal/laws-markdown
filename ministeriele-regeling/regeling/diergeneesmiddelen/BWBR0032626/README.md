@@ -1661,6 +1661,163 @@ b. bewijzen, waaronder de facturen bij de ontvangst en de kopieën van facturen 
 3.  In de administratie worden de gegevens, bedoeld in het tweede lid, onderdeel b, onder 3, voor elk voormengsel met medicinale werking, voor elk halffabricaat met medicinale werking en voor elk gemedicineerd voeder afzonderlijk vermeld.   
 4.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende drie jaar bewaard.  
 
+### Artikel  7.4  
+
+####Opslag voormengsel voor diervoeder met medicinale werking en diervoeder met medicinale werking
+
+Treedt in werking per 01-07-2014 
+
+Voormengsels voor diervoeders met medicinale werking en diervoeders met medicinale werking worden op zodanige wijze opgeslagen dat: 
+
+a. een goede kwaliteit van de producten gewaarborgd wordt;  
+
+b. de producten geïdentificeerd kunnen worden;  
+
+c. verwisseling met andere producten wordt vermeden.   
+
+### Artikel  7.5  
+
+####Vervoer diervoeder met medicinale werking
+
+Treedt in werking per 01-07-2014 
+
+Wanneer een diervoeder met medicinale werking wordt vervoerd met een transportmiddel waarmee producten zijn vervoerd die bij vermenging met het diervoeder met medicinale werking schade kunnen toebrengen aan dit diervoeder met medicinale werking, wordt het transportmiddel op de aanwezigheid van de producten gecontroleerd en indien nodig, gereinigd. 
+
+### Artikel  7.6  
+
+####Bedrijfshygiëne
+
+Treedt in werking per 01-07-2014 
+
+Een houder van een vergunning voor vervaardiging als bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) neemt passende maatregelen opdat een optimale bedrijfshygiëne wordt verzekerd en ongewenste wisselwerking tussen diergeneesmiddelen en diervoeders uitgesloten wordt. 
+
+### Artikel  7.7  
+
+####Bedrijfsinterne controle
+
+Treedt in werking per 01-07-2014 
+
+1.  Een houder van een vergunning voor vervaardiging als bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) stelt een controleprogramma vast en voert dit uit.   
+2.  Het controleprogramma, bedoeld in het eerste lid, heeft tot doel te borgen dat diervoeders met medicinale werking voldoen aan het bepaalde bij of krachtens de [artikelen 7.2 tot en met 7.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
+3.  De resultaten van de controles, bedoeld in het eerste lid, worden gedurende twee jaar bewaard.  
+
+### Artikel  7.8  
+
+####Etikettering
+
+Treedt in werking per 01-07-2014 
+
+1.  De verpakking van een diervoeder met medicinale werking vermeldt: 
+
+a. de vermelding ‘diervoeder met medicinale werking’;  
+
+b. de diersoort waarvoor het diervoeder met medicinale werking uitsluitend is bestemd;  
+
+c. de uiterste gebruiksdatum;  
+
+d. het netto gewicht;  
+
+e. de naam of handelsnaam en de woonplaats of plaats van vestiging van de houder van de vergunning voor vervaardiging als bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md);  
+
+f. het nummer van de vergunning voor het in de handel brengen van het in het diervoeder met medicinale werking verwerkte diergeneesmiddel, vooraf gegaan door de letters ‘Reg. NL’;  
+
+g. de concentratie en de farmaceutische vorm van het in het diervoeder met medicinale werking verwerkte diergeneesmiddel;  
+
+h. de vermelding ‘wachttijd, zie recept’;  
+
+i. de vermelding ‘op recept van een dierenarts’.     
+2.  Indien het diervoeder met medicinale werking in losgestorte vorm in de handel wordt gebracht, worden de gegevens, genoemd in het eerste lid, vermeld op een geleidedocument.  
+
+### §  2  
+
+####Verstrekking vergunning
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  7.9  
+
+####Aanvraag van een vergunning voor vervaardiging of invoer
+
+Treedt in werking per 01-07-2014 
+
+1.  Een aanvraag om een vergunning voor vervaardiging of invoer als bedoeld in [artikel 7.1 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt ingediend met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
+2.  Een aanvraag bevat ten minste een beschrijving van het proces van vervaardiging van diervoeders met medicinale werking.   
+3.  De melding, bedoeld in [artikel 7.9, derde lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt gedaan met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.  
+
+### §  3  
+
+####Uitvoer
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  7.10  
+
+####Verklaring voor uitvoer
+
+Treedt in werking per 01-07-2014 
+
+Een aanvraag om een verklaring als bedoeld in [artikel 7.10, tweede lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt ingediend met behulp van een door de minister vastgesteld formulier. 
+
+### §  4  
+
+####Afleveren op recept
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  7.11  
+
+####Afleveren diervoeder met medicinale werking op recept
+
+Treedt in werking per 01-07-2014 
+
+1.  Een diervoeder met medicinale werking wordt uitsluitend aan een houder van dieren afgeleverd overeenkomstig een recept van een dierenarts.   
+2.  Indien het een diervoeder met medicinale werking betreft dat is bestemd voor de behandeling van dieren waarvan het vlees, de slachtafvalleen of de producten bestemd zijn voor menselijke consumptie, levert een houder van een vergunning voor vervaardiging of invoer, bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), niet meer diervoeder af dan de hoeveelheid die overeenkomstig het recept nodig is om de dieren gedurende één maand te behandelen.  
+
+### Artikel  7.12  
+
+####Recept voor een diervoeder met medicinale werking
+
+Treedt in werking per 01-07-2014 
+
+1.  Het recept voor de aflevering van een diervoeder met medicinale werking wordt vastgesteld overeenkomstig bijlage A bij Richtlijn 90/167/EEG, wordt voorzien van de datum van dagtekening van het recept en bestaat uit een origineel en drie afschriften.   
+2.  Het origineel en één afschrift van het recept zijn bestemd voor de houder van een vergunning voor vervaardiging of invoer, bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), van het voorgeschreven diervoeder met medicinale werking.   
+3.  De overige twee afschriften van het recept zijn bestemd voor de dierenarts en de houder van dieren.   
+4.  De houder van een vergunning voor vervaardiging of invoer, bedoeld in het tweede lid, overlegt het afschrift van het recept aan de houder van de dieren bij de aflevering van het voorgeschreven diervoeder met medicinale werking.   
+5.  Een recept geeft slechts eenmalig recht op aflevering van het diervoeder met medicinale werking en behandeling van het betrokken dier met het voorgeschreven diervoeder met medicinale werking binnen een termijn van drie maanden na dagtekening van het recept.   
+6.  In het recept is de hoeveelheid af te leveren diervoeder met medicinale werking beperkt tot hetgeen noodzakelijk is om het met de behandeling beoogde doel te bereiken.   
+7.  Bij het uitschrijven van het recept vergewist de dierenarts zich ervan dat het diervoeder met medicinale werking niet dezelfde antibiotica of dezelfde coccidiostatica als werkzame stof bevat als die welke zijn verwerkt in de diervoeders die gewoonlijk worden gebruikt voor het voederen van de betreffende dieren.  
+
+### §  5  
+
+####Administratie
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  7.13  
+
+####Administratie vervaardiging diervoeder met medicinale werking
+
+Treedt in werking per 01-07-2014 
+
+1.  Een houder van een vergunning voor het vervaardigen van een diervoeder met medicinale werking, voert een administratie inzake iedere transactie met diervoeders met medicinale werking.   
+2.  De administratie, bedoeld in het eerste lid, bevat: 
+
+a. het recept, bedoeld in artikel 7.12, eerste lid, en  
+
+b. bewijzen, waaronder de facturen bij de ontvangst en de kopieën van facturen voor de aflevering, met ten minste de volgende gegevens: 
+
+1°. aard en hoeveelheid van de bereide en afgeleverde diervoeders met medicinale werking,  
+
+2°. aard en hoeveelheid van de diervoeders met medicinale werking die op het bedrijf opgeslagen zijn,  
+
+3°. aard en hoeveelheid van de diervoeders en de voormengsels voor diervoeders met medicinale werking die bij de bereiding van diervoeders met medicinale werking zijn gebruikt,  
+
+4°. naam en adres van de ontvanger, en  
+
+5°. naam en adres van de dierenarts door wie het recept voor het diervoeder met medicinale werking werd uitgeschreven.       
+3.  In de administratie worden de gegevens, bedoeld in het tweede lid, onderdeel b, onder 3, voor elk voormengsel voor een diervoeder met medicinale werking en voor elk diervoeder met medicinale werking afzonderlijk vermeld.   
+4.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende drie jaar bewaard.  
+
 ### Hoofdstuk  8  
 
 ####Onderzoeken, controle, toezicht op de naleving en sancties

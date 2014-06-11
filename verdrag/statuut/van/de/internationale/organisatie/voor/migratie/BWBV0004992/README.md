@@ -220,7 +220,7 @@ The Council may, by a three-quarters majority vote of its members, decide to dis
 
 ### Article  29  
 
-This Constitution shall come into force, for those Governments Members of the Intergovernmental Committee for European Migration which have accepted it in accordance with their respective constitutional processes, on the day of the first meeting of that Committee after: 
+<sup>*Articles 34 [Red: per 21 november 2013: artikel 29] and 35 [Red: per 21 november 2013: artikel 30] were implemented at the time of the entry into force of the Constitution on 30 November 1954.</sup>This Constitution shall come into force, for those Governments Members of the Intergovernmental Committee for European Migration which have accepted it in accordance with their respective constitutional processes, on the day of the first meeting of that Committee after: 
 
 (a) at least two-thirds of the Members of the Committee, and  
 
@@ -228,7 +228,7 @@ This Constitution shall come into force, for those Governments Members of the In
 
 ### Article  30  
 
-Those Governments Members of the Intergovernmental Committee for European Migration which have not by the date of coming into force of this Constitution communicated to the Director their acceptance of this Constitution may remain Members of the Committee for a period of one year from that date if they contribute to the administrative requirements of the Committee in accordance with paragraph 2 of Article 25 per 21 november 2013: artikel 20, tweede lid, and they shall retain during that period the right to accept the Constitution. 
+<sup>*Articles 34 [Red: per 21 november 2013: artikel 29] and 35 [Red: per 21 november 2013: artikel 30] were implemented at the time of the entry into force of the Constitution on 30 November 1954.</sup>Those Governments Members of the Intergovernmental Committee for European Migration which have not by the date of coming into force of this Constitution communicated to the Director their acceptance of this Constitution may remain Members of the Committee for a period of one year from that date if they contribute to the administrative requirements of the Committee in accordance with paragraph 2 of Article 25 per 21 november 2013: artikel 20, tweede lid, and they shall retain during that period the right to accept the Constitution. 
 
 ###Article 31 
 
@@ -527,7 +527,7 @@ De Raad kan, met een meerderheid van stemmen van drievierde van zijn leden, besl
 
 ### Artikel  29  
 
-Ten aanzien van de Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en dit Statuut hebben aanvaard in overeenstemming met hun onderscheiden constitutionele voorschriften, treedt dit Statuut in werking op de dag waarop deze Commissie voor het eerst bijeenkomt, nadat: 
+<sup>*)De artikelen 34 [Red: per 21 november 2013: artikel 29] en 35 [Red: per 21 november 2013: artikel 30] werden tenuitvoergelegd op het tijdstip van de inwerkingtreding van het Statuut op 30 november 1954.</sup>Ten aanzien van de Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en dit Statuut hebben aanvaard in overeenstemming met hun onderscheiden constitutionele voorschriften, treedt dit Statuut in werking op de dag waarop deze Commissie voor het eerst bijeenkomt, nadat: 
 
 (a) ten minste tweederde van de leden van de Commissie, en  
 
@@ -535,7 +535,7 @@ Ten aanzien van de Regeringen die lid zijn van de Intergouvernementele Commissie
 
 ### Artikel  30  
 
-De Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en op de datum van inwerkingtreding van dit Statuut de Directeur nog niet in kennis hebben gesteld van hun aanvaarding van dit Statuut, kunnen gedurende een tijdvak van één jaar, te rekenen van deze datum, lid blijven van de Commissie, indien zij bijdragen in de administratieve kosten van de Commissie overeenkomstig artikel 25, tweede lid per 21 november 2013: artikel 20, tweede lid, en behouden gedurende dit tijdvak het recht het Statuut te aanvaarden.
+<sup>*)De artikelen 34 [Red: per 21 november 2013: artikel 29] en 35 [Red: per 21 november 2013: artikel 30] werden tenuitvoergelegd op het tijdstip van de inwerkingtreding van het Statuut op 30 november 1954.</sup>De Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en op de datum van inwerkingtreding van dit Statuut de Directeur nog niet in kennis hebben gesteld van hun aanvaarding van dit Statuut, kunnen gedurende een tijdvak van één jaar, te rekenen van deze datum, lid blijven van de Commissie, indien zij bijdragen in de administratieve kosten van de Commissie overeenkomstig artikel 25, tweede lid per 21 november 2013: artikel 20, tweede lid, en behouden gedurende dit tijdvak het recht het Statuut te aanvaarden.
 
 ###Artikel 31 
 

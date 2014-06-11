@@ -1472,6 +1472,12 @@ a. wordt geacht te zijn erkend ingevolge artikel 26;
 
 b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 26, tweede lid, in bij de NVWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.    
 
+### Artikel  115c  
+Treedt in werking per 01-07-2014 
+
+1.  Besluiten tot vrijstelling of ontheffing, niet inhoudende een algemeen verbindend voorschrift, genomen krachtens [artikel 7, eerste lid van de Verordening monitoring aviaire influenza (PPE) 2005](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) of [artikel 12, eerste lid van de Verordening vaccinatie Newcastle disease (PPE) 2006](../../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md), die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 juli 2014 geacht te zijn genomen op grond van [artikel 107, eerste in samenhang met derde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), onder dezelfde voorschriften, beperkingen en voorwaarden.   
+2.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen tot het nemen van een besluit als bedoeld in het eerste lid, worden met ingang van 1 juli 2014 overeenkomstig [artikel 107 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) door de minister behandeld met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag.  
+
 ###Artikel 116 
 
 Wijzigt de Regeling toegelaten handelingen.

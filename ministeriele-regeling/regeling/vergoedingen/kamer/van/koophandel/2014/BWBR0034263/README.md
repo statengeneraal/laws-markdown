@@ -60,7 +60,9 @@ p. een advies van de bedrijfshuuradviescommissie:
 
 – bij een huurprijs van € 50.000,– tot € 100.000,–: € 7.500,– per advies;  
 
-– bij een huurprijs boven € 100.000,–: € 10.000,– per advies.       
+– bij een huurprijs boven € 100.000,–: € 10.000,– per advies;    
+
+q. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister (Legal Entity Identifier): € 150,– voor de eerste aanvraag en € 100,– voor de jaarlijkse verlenging.    
 2.  Het uurtarief voor de uitvoering van de taken, bedoeld in de [artikelen 5](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), [24 tot en met 28, eerste lid](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), [30](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md) en [31 van de Wet op de Kamer van Koophandel](../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), wordt berekend volgens de tabel in de bijlage bij deze regeling.  
 
 ### Artikel  3  

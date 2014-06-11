@@ -20,7 +20,7 @@ The law of the country in which the cheque is payable determines the persons on 
 
 ###Article 4 
 
-The form of any contract arising out of a cheque is regulated by the laws of the territory in which the contract has been signed. Nevertheless, it shall be sufficient if the forms prescribed by the law of the place of payment are observed.If, however, the obligations entered into by means of a cheque are not valid according to the provisions of the preceding paragraph, but are in conformity with the laws of the territory in which a subsequent contract has been entered into, the circumstance that the previous contracts are irregular in form shall not invalidate the subsequent contract.Each of the High Contracting Parties may prescribe that contracts by means of a cheque entered into abroad by one of his nationals shall be valid, in respect of another of his nationals in his territory, provided that they are in the form laid down by the national law.
+The form of any contract arising out of a cheque is regulated by the laws of the territory in which the contract has been signed. Nevertheless, it shall be sufficient if the forms prescribed by the law of the place of payment are observed.If, however, the obligations entered into by means of a cheque are not valid according to the provisions of the preceding paragraph, but are in conformity with the laws of the territory in which a subsequent contract has been entered into, the circumstance that the previous contracts are irregular in form shall not invalidate the subsequent contract.Each of the High Contracting Parties may prescribe that contracts by means of a cheque entered into abroad by one of his nationals shall be valid in respect of another of his nationals in his territory, provided that they are in the form laid down by the national law.
 
 ###Article 5 
 
@@ -134,7 +134,7 @@ De Hooge Verdragsluitende Partijen verbinden zich jegens elkander voor de oploss
 
 ###Artikel 2 
 
-De bekwaamheid van een persoon om zich bij chèque te verbinden wordt bepaald door zijn nationale wet. Indien deze nationale wet de wet van een ander land bevoegd verklaart, is deze laatste wet toepasselijk.De persoon, die onbekwaam zou zijn volgens de wet, in het voorgaande lid genoemd, is desniettemin rechtsgeldig verbonden, indien de handteekening is geplaatst op het grondgebied van een land, volgens welks wetgeving de persoon bekwaam zou zijn geweest.Ieder der Hooge Verdragsluitende Partijen is bevoegd, de rechtsgeldigheid te ontkennen van een door ëén harer onderdanen aangegane verbintenis ten aanzien van chèques, welke op het grondgebied der andere Hooge Verdragsluitende Partijen slechts door toepassing van het voorgaande lid van dit artikel geldig zou zijn.
+De bekwaamheid van een persoon om zich bij chèque te verbinden wordt bepaald door zijn nationale wet. Indien deze nationale wet de wet van een ander land bevoegd verklaart, is deze laatste wet toepasselijk.De persoon, die onbekwaam zou zijn volgens de wet, in het voorgaande lid genoemd, is desniettemin rechtsgeldig verbonden, indien de handteekening is geplaatst op het grondgebied van een land, volgens welks wetgeving de persoon bekwaam zou zijn geweest.Ieder der Hooge Verdragsluitende Partijen is bevoegd, de rechtsgeldigheid te ontkennen van een door één harer onderdanen aangegane verbintenis ten aanzien van chèques, welke op het grondgebied der andere Hooge Verdragsluitende Partijen slechts door toepassing van het voorgaande lid van dit artikel geldig zou zijn.
 
 ###Artikel 3 
 

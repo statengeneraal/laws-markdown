@@ -134,7 +134,8 @@ De ambtenaren, bedoeld in artikel 9, eerste lid, en al degenen die verder bij de
 
 ### Artikel  11a  
 
-Degene aan wie een administratieve sanctie wordt opgelegd, is administratiekosten verschuldigd. De omvang van deze kosten wordt bepaald bij ministeriële regeling. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de administratieve sanctie, het toezicht en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de administratieve sanctie in rekening gebracht. 
+1. Degene aan wie een administratieve sanctie wordt opgelegd, is administratiekosten verschuldigd. De omvang van deze kosten wordt bepaald bij ministeriële regeling. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de administratieve sanctie, het toezicht en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de administratieve sanctie in rekening gebracht.  
+2.  Gedane betalingen strekken in de eerste plaats tot voldoening van de administratiekosten, vervolgens tot voldoening van eventuele verhogingen en ten slotte tot voldoening van de administratieve sanctie. 
 
 ### Artikel  11b  
 
