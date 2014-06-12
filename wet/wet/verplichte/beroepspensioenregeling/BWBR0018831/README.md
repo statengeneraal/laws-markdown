@@ -1747,6 +1747,14 @@ b.de hoogte van de totale gedempte premie, bedoeld in artikel 123, tweede lid; e
 
 c.de hoogte van de totale feitelijke premie. 
 
+### Artikel  125a  
+
+####Vermelding premiecomponenten
+
+Treedt in werking per 01-01-2015 
+
+Onverminderd artikel 125 vermeldt een beroepspensioenfonds in zijn jaarrekening en jaarverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
+
 ### Artikel  126  
 
 ####Minimaal vereist eigen vermogen

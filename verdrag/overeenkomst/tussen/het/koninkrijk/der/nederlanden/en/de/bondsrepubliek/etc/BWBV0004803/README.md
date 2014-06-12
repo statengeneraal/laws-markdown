@@ -95,7 +95,7 @@ De Bondsrepubliek Duitsland waarborgt de vrije toegang tot de in de Bondsrepubli
 
 1. Familieleden van een in Duitse gevangenschap overleden gedeporteerde burger kunnen eenmaal per jaar op de in artikel 16 vervatte voorwaarden een bezoek brengen aan de in de Bondsrepubliek Duitsland gelegen begraafplaatsen en gedenkplaatsen.
 2. Het aantal van de door de Nederlandse autoriteiten aan te wijzen bezoekers waarop de in artikel 16 vervatte tegemoetkomingen van toepassing zijn mag per jaar niet meer dan duizend bedragen.
-3. Nadat een periode van tien jaar na de inwerkingtreding van deze Overeenkomst is verstreken en daarna telkens na het verstrijken van een periode van vijf jaar, zullen de Overeenkomstsluitende Partijen te zijner tijd een regeling treffen intake het aantal bezoekers dat dan nog jaarlijks tot deze reizen kan worden toegelaten.
+3. Nadat een periode van tien jaar na de inwerkingtreding van deze Overeenkomst is verstreken en daarna telkens na het verstrijken van een periode van vijf jaar, zullen de Overeenkomstsluitende Partijen te zijner tijd een regeling treffen inzake het aantal bezoekers dat dan nog jaarlijks tot deze reizen kan worden toegelaten.
 
 ### Artikel  16  
 

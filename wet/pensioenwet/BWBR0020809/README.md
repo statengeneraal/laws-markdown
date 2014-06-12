@@ -759,6 +759,15 @@ b. een opgave van de reglementair te bereiken pensioenaanspraken uit hoofde van 
 c. de toeslagverlening.     
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.  
 
+### Artikel  45a  
+
+####Informatie over uitvoeringskosten
+
+Treedt in werking per 01-01-2015 
+
+1.  Een pensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het voorafgaande verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.  
+
 ### Artikel  46  
 
 ####Informatie op verzoek
@@ -2000,6 +2009,14 @@ a. de hoogte van de totale kostendekkende premie, bedoeld in artikel 128, eerste
 b. de hoogte van de totale gedempte premie, bedoeld in artikel 128, tweede lid; en  
 
 c. de hoogte van de totale feitelijke premie.   
+
+### Artikel  130a  
+
+####Vermelding premiecomponenten
+
+Treedt in werking per 01-01-2015 
+
+Onverminderd artikel 130 vermeldt een pensioenfonds in zijn jaarrekening en jaarverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
 
 ### Artikel  131  
 

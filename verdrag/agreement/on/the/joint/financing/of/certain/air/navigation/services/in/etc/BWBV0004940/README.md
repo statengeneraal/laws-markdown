@@ -245,7 +245,7 @@ Telecommunication services to be provided as follows:*A. Reykjavik*
 
 1.Collection of meteorological reports from jointly financed synoptic stations in Iceland and their re-transmission to Regional Telecommunications Hub Bracknell.
 
-2.Reception of meteorological reports from jointly financed synoptic stations in Greenland and their re-transmission to Regional Telecommunications Hub Bracknell.<sup> 1  Reception performed using the AFTN Retransmission to Regional Telecommunications Hub Bracknell using the circuit listed in A 7. </sup> 
+2.Reception of meteorological reports from jointly financed synoptic stations in Greenland and their re-transmission to Regional Telecommunications Hub Bracknell.<sup> 1 Reception performed using the AFTN Retransmission to Regional Telecommunications Hub Bracknell using the circuit listed in A 7. </sup> 
 
 3.Reception of meteorological messages originating in Europe and North America (except Greenland) from Regional Telecommunications Hub Bracknell.
 
@@ -284,7 +284,7 @@ c)Reykjavik OACC - Gander OACC.<sup> 2 The services listed under A 6 d), e), f) 
 
 1.Aeronautical mobile service with aircraft on HF and VHF extended range. The VHF extended range system comprises stations at Hafell, Thorbjorn, Gagnheidi and Thverfjall as well as the lines necessary for their remote control from Gufunes.
 
-2.Landline teletypewriter services:<sup> 4  The Gufunes (Reykjavik) AFTN station is to provide automatic relaying of message traffic. </sup> 
+2.Landline teletypewriter services:<sup> 4 The Gufunes (Reykjavik) AFTN station is to provide automatic relaying of message traffic. </sup> 
 
 a)Gufunes - ATC Reykjavik.
 

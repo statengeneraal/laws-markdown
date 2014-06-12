@@ -38,25 +38,25 @@ d.het aanwezig hebben en exploiteren van kansspelautomaten in de onder a. tot en
 
 1.  In een speelcasino worden uitsluitend de volgende casinospelen aangeboden: 
 
-a.  Franse roulette;  
+a. Franse roulette;  
 
-b.  Amerikaanse roulette;  
+b. Amerikaanse roulette;  
 
-c.  Black jack;  
+c. Black jack;  
 
-d.  Baccara/chemin de fer;  
+d. Baccara/chemin de fer;  
 
-e.  Punto banco;  
+e. Punto banco;  
 
-f.  Sic bo;  
+f. Sic bo;  
 
 g. Money Wheel;  
 
-h.  Red dog;  
+h. Red dog;  
 
-i.  Keno;  
+i. Keno/Bingo;  
 
-j.  Poker; 
+j. Poker; 
 
 k. Casino War.     
 2.  De stichting stelt een spelreglement op betreffende de wijze waarop de in het eerste lid bedoelde casinospelen worden gespeeld.   

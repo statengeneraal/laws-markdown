@@ -837,7 +837,7 @@ Doel van dit Verdrag is het volledige genot door alle personen met een handicap 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Voor de toepassing van dit Verdrag: „communicatie” omvat talen, weergave van tekst, braille, tactiele communicatie, grootletterdruk, toegankelijke multimedia, alsmede geschreven teksten, audioteksten, eenvoudige taal, gesproken tekst, ondersteunende communicatie en alternatieve methoden, middelen en vormen voor communicatie, waaronder toegankelijke informatie- en communicatietechnologieën; „taal” omvat gesproken taal, gebarentaal alsmede andere vormen van niet-gesproken taal; „discriminatie op grond van handicap”: elk onderscheid en elke uitsluiting of beperking op grond van een handicap dat of die ten doel of tot gevolg heeft dat de erkenning, het genot of de uitoefening, op voet van gelijkheid met anderen van de mensenrechten en fundamentele vrijheden in het politieke, economische, sociale, culturele of burgerlijke leven, of op andere gebieden aangetast of onmogelijk gemaakt wordt. Het omvat alle vormen van discriminatie, met inbegrip van de weigering van redelijke aanpassingen; „redelijke aanpassingen”: noodzakelijke en passende wijzigingen, en aanpassingen die geen disproportionele of onevenredige, of onnodige last opleggen, indien zij in een specifiek geval nodig zijn om te waarborgen dat personen met een handicap alle mensenrechten en fundamentele vrijheden op voet van gelijkheid met anderen kunnen genieten of uitoefenen; „universeel ontwerp”: ontwerpen van producten, omgevingen, programma’s en diensten die door iedereen in de ruimst mogelijke zin gebruikt kunnen worden zonder dat aanpassing of een speciaal ontwerp nodig is. “Universeel ontwerp” omvat tevens ondersteunende middelen voor specifieke groepen personen met een handicap, indien die nodig zijn. 
+Voor de toepassing van dit Verdrag: „communicatie” omvat talen, weergave van tekst, braille, tactiele communicatie, grootletterdruk, toegankelijke multimedia, alsmede geschreven teksten, audioteksten, eenvoudige taal, gesproken tekst, ondersteunende communicatie en alternatieve methoden, middelen en vormen voor communicatie, waaronder toegankelijke informatie- en communicatietechnologieën; „taal” omvat gesproken talen en gebarentalen en andere vormen van niet-gesproken taal; „discriminatie op grond van handicap”: elk onderscheid en elke uitsluiting of beperking op grond van een handicap dat of die ten doel of tot gevolg heeft dat de erkenning, het genot of de uitoefening, op voet van gelijkheid met anderen van de mensenrechten en fundamentele vrijheden in het politieke, economische, sociale, culturele of burgerlijke leven, of op andere gebieden aangetast of onmogelijk gemaakt wordt. Het omvat alle vormen van discriminatie, met inbegrip van de weigering van redelijke aanpassingen; „redelijke aanpassingen”: noodzakelijke en passende wijzigingen, en aanpassingen die geen disproportionele of onevenredige, of onnodige last opleggen, indien zij in een specifiek geval nodig zijn om te waarborgen dat personen met een handicap alle mensenrechten en fundamentele vrijheden op voet van gelijkheid met anderen kunnen genieten of uitoefenen; „universeel ontwerp”: ontwerpen van producten, omgevingen, programma’s en diensten die door iedereen in de ruimst mogelijke zin gebruikt kunnen worden zonder dat aanpassing of een speciaal ontwerp nodig is. “Universeel ontwerp” omvat tevens ondersteunende middelen voor specifieke groepen personen met een handicap, indien die nodig zijn. 
 
 ### Artikel  3  
 
@@ -920,7 +920,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Staten die Partij zijn nemen alle nodige maatregelen om te waarborgen dat kinderen met een handicap op voet van gelijkheid met andere kinderen ten volle alle mensenrechten en fundamentele vrijheden genieten.   
-2.  Bij alle beslissingen betreffende kinderen met een handicap vormen de belangen van het kind de eerste overweging.   
+2.  Bij alle beslissingen betreffende kinderen met een handicap vormen de belangen van het kind een eerste overweging.   
 3.  De Staten die Partij zijn waarborgen dat kinderen met een handicap het recht hebben vrijelijk blijk te geven van hun opvattingen over alle aangelegenheden die hen betreffen, waarbij op voet van gelijkheid met andere kinderen en in overeenstemming met hun leeftijd en ontwikkeling naar behoren rekening wordt gehouden met hun opvattingen en waarbij zij bij hun handicap en leeftijd passende ondersteuning krijgen om dat recht te realiseren.  
 
 ### Artikel  8  
@@ -1028,7 +1028,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. het recht op vrijheid en veiligheid van hun persoon genieten;  
 
-b. niet onrechtmatig of willekeurig van hun vrijheid worden beroofd, en dat iedere vorm van vrijheidsontneming geschiedt in overeenstemming met de wet, en dat het bestaan van een handicap in geen geval vijheidsontneming rechtvaardigt.     
+b. niet onrechtmatig of willekeurig van hun vrijheid worden beroofd, en dat iedere vorm van vrijheidsontneming geschiedt in overeenstemming met de wet, en dat het bestaan van een handicap in geen geval vrijheidsontneming rechtvaardigt.     
 2.  De Staten die Partij zijn waarborgen dat indien personen met een handicap op grond van enig proces van hun vrijheid worden beroofd, zij op voet van gelijkheid met anderen recht hebben op de waarborgen in overeenstemming met internationale mensenrechtenverdragen en in overeenstemming met de doelstellingen en beginselen van dit Verdrag worden behandeld, met inbegrip van de verschaffing van redelijke aanpassingen.  
 
 ### Artikel  15  
@@ -1131,7 +1131,7 @@ e. het gebruik van gebarentalen te erkennen en te bevorderen.
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Geen enkele persoon met een handicap, ongeacht zijn of haar woonplaats of woonsituatie, zal worden blootgesteld aan willekeurige of onrechtmatige inmenging in zijn of haar privé-leven, gezinsleven, woning of correspondentie, of andere vormen van communicatie, of aan onrechtmatige aantasting van zijn of haar eer en reputatie. Personen met een handicap hebben recht op wettelijke bescherming tegen dergelijke vormen van inmenging of aantasting.   
+1.  Geen enkele persoon met een handicap, ongeacht zijn of haar woonplaats of woonsituatie, zal worden blootgesteld aan willekeurige of onrechtmatige inmenging in zijn of haar privéleven, gezinsleven, woning of correspondentie, of andere vormen van communicatie, of aan onrechtmatige aantasting van zijn of haar eer en reputatie. Personen met een handicap hebben recht op wettelijke bescherming tegen dergelijke vormen van inmenging of aantasting.   
 2.  De Staten die Partij zijn beschermen de privacy van personen met een handicap met betrekking tot persoonsgegevens en informatie omtrent hun gezondheid en revalidatie op voet van gelijkheid met anderen.  
 
 ### Artikel  23  
@@ -1194,15 +1194,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 De Staten die Partij zijn erkennen dat personen met een handicap zonder discriminatie op grond van hun handicap recht hebben op het genot van het hoogst haalbare niveau van gezondheid. De Staten die Partij zijn nemen alle passende maatregelen om personen met een handicap de toegang te waarborgen tot diensten op het gebied van seksespecifieke gezondheidszorg, met inbegrip van revalidatie. In het bijzonder zullen de Staten die Partij zijn: 
 
-a. personen met een handicap voorzien van hetzelfde aanbod met dezelfde kwaliteit en volgens dezelfde normen voor gratis of betaalbare gezondheidszorg en –programma’s die aan anderen worden verstrekt, waaronder op het gebied van seksuele en reproductieve gezondheid, en op de populatie toegesneden programma’s op het gebied van volkgezondheid;  
+a. personen met een handicap voorzien van hetzelfde aanbod met dezelfde kwaliteit en volgens dezelfde normen voor gratis of betaalbare gezondheidszorg en –programma’s die aan anderen worden verstrekt, waaronder op het gebied van seksuele en reproductieve gezondheid, en op de populatie toegesneden programma’s op het gebied van volksgezondheid;  
 
-b. die diensten op het gebied van gezondheidszorg verschaffen die personen met een handicap in het bijzonder vanwege hun handicap behoeven, waaronder vroegtijdig opsporen en, zonodig, ingrijpen, diensten om het ontstaan van nieuwe handicaps te beperken en te voorkomen, ook onder kinderen en ouderen;  
+b. die diensten op het gebied van gezondheidszorg verschaffen die personen met een handicap in het bijzonder vanwege hun handicap behoeven, waaronder vroegtijdig opsporen en, zo nodig, ingrijpen, diensten om het ontstaan van nieuwe handicaps te beperken en te voorkomen, ook onder kinderen en ouderen;  
 
 c. deze gezondheidsdiensten zo dicht mogelijk bij de eigen gemeenschap van de mensen verschaffen, ook op het platteland;  
 
 d. van vakspecialisten in de gezondheidszorg eisen dat zij aan personen met een handicap zorg van dezelfde kwaliteit verlenen als aan anderen, met name dat zij de in vrijheid, op basis van goede informatie, gegeven toestemming verkrijgen van de betrokken gehandicapte, door onder andere het bewustzijn bij het personeel van de mensenrechten, waardigheid, autonomie en behoeften van personen met een handicap te vergroten door middel van training en het vaststellen van ethische normen voor de publieke en private gezondheidszorg;  
 
-e. discriminatie van personen met een handicap bij de acceptatie voor een ziektekostenverzekering en levensverzekering verbieden, indien een dergelijke verzekering is toegestaan volgens het nationale recht en op basis van redelijkheid en billijkheid wordt verstrekt;  
+e. discriminatie van personen met een handicap verbieden bij de verstrekking van een ziektekostenverzekering, en van een levensverzekering indien een dergelijke verzekering is toegestaan volgens het nationale recht, welke verstrekking naar redelijkheid en billijkheid zal plaatsvinden;  
 
 f. voorkomen dat gezondheidszorg, gezondheidsdiensten, voedsel en vloeistoffen op discriminatoire gronden vanwege een handicap worden ontzegd.   
 
@@ -1238,7 +1238,7 @@ d. personen met een handicap in staat te stellen effectieve toegang te krijgen t
 
 e. de kans op werk en carrièremogelijkheden voor personen met een handicap op de arbeidsmarkt te bevorderen, alsmede hen te ondersteunen bij het vinden, verwerven en behouden van werk, dan wel de terugkeer naar werk;  
 
-f. de kansen te bevorderen om te werken als zelfstandige, op het ondernemerschap, het ontwikkelen van samenwerkingverbanden en een eigen bedrijf te beginnen;  
+f. de kansen te bevorderen om te werken als zelfstandige, op het ondernemerschap, het ontwikkelen van samenwerkingsverbanden en een eigen bedrijf te beginnen;  
 
 g. personen met een handicap in dienst te nemen in de publieke sector;  
 
@@ -1249,7 +1249,7 @@ i. te waarborgen dat op de werkplek wordt voorzien in redelijke aanpassingen voo
 j. te bevorderen dat personen met een handicap werkervaring kunnen opdoen op de vrije arbeidsmarkt;  
 
 k. de beroepsmatige en professionele re-integratie van en programma’s ten behoeve van het behoud van hun baan en terugkeer naar werk voor personen met een handicap te bevorderen.     
-2..  De Staten die Partij zijn waarborgen dat personen met een handicap niet in slavernij worden gehouden of anderszins worden gedwongen tot het verrichten van arbeid en op voet van gelijkheid met anderen worden beschermd tegen gedwongen of verplichte arbeid.  
+2.  De Staten die Partij zijn waarborgen dat personen met een handicap niet in slavernij worden gehouden of anderszins worden gedwongen tot het verrichten van arbeid en op voet van gelijkheid met anderen worden beschermd tegen gedwongen of verplichte arbeid.  
 
 ### Artikel  28  
 
@@ -1268,7 +1268,7 @@ c. voor personen met een handicap en hun gezinnen die in armoede leven de toegan
 
 d. de toegang voor personen met een handicap te waarborgen tot volkshuisvestingsprogramma’s;  
 
-e. de toegang voor personen met een handicap te waarborgen tot pensioensuitkeringen en -programma’s.    
+e. de toegang voor personen met een handicap te waarborgen tot pensioenuitkeringen en -programma’s.    
 
 ### Artikel  29  
 
