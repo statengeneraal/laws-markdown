@@ -33,7 +33,7 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie Zeeland-West-Brabant.   
 2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  6  

@@ -6096,6 +6096,28 @@ Onverminderd het bepaalde in deze Titel wordt het arbitraal geding gevoerd op de
 1. De partijen kunnen voor het scheidsgerecht in persoon verschijnen of zich doen vertegenwoordigen door een advocaat dan wel door een bijzonderlijk daartoe schriftelijk gevolmachtigde. 
 2.  De partijen kunnen zich in het geding door personen van keuze doen bijstaan. 
 
+### Artikel  1038a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tenzij de partijen anders zijn overeengekomen, worden de eiser en de verweerder door het scheidsgerecht in de gelegenheid gesteld een memorie van eis respectievelijk een memorie van antwoord in te dienen.   
+2.  Tenzij de partijen anders zijn overeengekomen, is het scheidsgerecht vrij te bepalen of nadere memoriën kunnen worden ingediend.  
+
+### Artikel  1038b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het scheidsgerecht stelt, op verzoek van een der partijen of uit eigen beweging, de partijen in de gelegenheid hun zaak op een zitting mondeling toe te lichten, tenzij de partijen anders zijn overeengekomen. 
+
+### Artikel  1038c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een tegenvordering is toelaatbaar indien daarop dezelfde arbitrageovereenkomst als waarop de vordering is gebaseerd van toepassing is dan wel diezelfde arbitrageovereenkomst door de partijen uitdrukkelijk of stilzwijgend van toepassing is verklaard.   
+2.  Tenzij de partijen anders zijn overeengekomen, wordt een tegenvordering als bedoeld in het eerste lid dadelijk bij memorie van antwoord ingediend.  
+
+### Artikel  1038d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een partij kan zijn vordering respectievelijk tegenvordering of de gronden daarvan veranderen of vermeerderen gedurende de arbitrale procedure, op voorwaarde dat de wederpartij daardoor in zijn verdediging niet onredelijk wordt bemoeilijkt of het geding daardoor niet onredelijk wordt vertraagd. 
+
 ###Artikel 1039 
 
 1. De partijen worden op voet van gelijkheid behandeld. Het scheidsgerecht geeft iedere partij de gelegenheid, voor haar rechten op te komen en haar stellingen voor te dragen. 
@@ -6117,6 +6139,14 @@ Onverminderd het bepaalde in deze Titel wordt het arbitraal geding gevoerd op de
 3.  De griffier van de rechtbank zendt ten spoedigste afschrift van het verslag van het verhoor aan het scheidsgerecht en aan de partijen. 
 4.  Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het verslag van het verhoor heeft ontvangen. 
 
+### Artikel  1041a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien een getuige niet vrijwillig verschijnt dan wel, verschenen zijnde, weigert een verklaring af te leggen, kan het scheidsgerecht aan de partij die dit verzoekt, toestaan om zich, binnen een door het scheidsgerecht te bepalen termijn, te wenden tot de voorzieningenrechter van de rechtbank met het verzoek een rechter-commissaris te benoemen voor wie het getuigenverhoor zal plaatsvinden.   
+2.  Het verhoor vindt plaats op dezelfde wijze als in gewone zaken, met dien verstande dat de arbiter of arbiters door de griffier van de rechtbank in de gelegenheid worden gesteld bij het getuigenverhoor aanwezig te zijn en aan de getuige vragen te stellen.   
+3.  De griffier van de rechtbank zendt ten spoedigste het proces-verbaal van het verhoor aan het scheidsgerecht en aan de partijen.   
+4.  Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het verslag van het verhoor heeft ontvangen.  
+
 ###Artikel 1042 
 
 1. Het scheidsgerecht kan een of meer deskundigen benoemen tot het uitbrengen van een advies. Het scheidsgerecht zendt ten spoedigste afschrift van de benoeming en van de aan deskundigen gegeven opdracht aan de partijen. 
@@ -6126,9 +6156,31 @@ Onverminderd het bepaalde in deze Titel wordt het arbitraal geding gevoerd op de
 5.  Het scheidsgerecht stelt de partijen in de gelegenheid, de deskundigen vragen te stellen en harerzijds deskundigen voor te brengen. 
 6. Artikel 1041, eerste lid, is van overeenkomstige toepassing. 
 
+### Artikel  1042a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, in of buiten Nederland, een plaatselijke gesteldheid opnemen of zaken bezichtigen, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht stelt de partijen in de gelegenheid bij de plaatsopneming of bezichtiging aanwezig te zijn. 
+
 ###Artikel 1043 
 
 Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning van de partijen bevelen voor het geven van inlichtingen dan wel teneinde een vergelijk te beproeven. 
+
+### Artikel  1043a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Blijft de eiser, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke zijn eisen in te dienen of naar behoren toe te lichten, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht bij vonnis, of op een andere wijze die het scheidsgerecht daartoe geschikt acht, een einde maken aan het arbitraal geding.   
+2.  Blijft de verweerder, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke verweer te voeren, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht aanstonds vonnis wijzen.   
+3.  Bij het vonnis, bedoeld in het tweede lid, wordt de eis toegewezen, tenzij deze aan het scheidsgerecht onrechtmatig of ongegrond voorkomt. Het scheidsgerecht kan, alvorens vonnis te wijzen, van de eiser het bewijs van een of meer van zijn stellingen verlangen.  
+
+### Artikel  1043b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tijdens een aanhangig arbitraal geding ten gronde kan het scheidsgerecht, op verzoek van een der partijen, een voorlopige voorziening, met uitzondering van bewarende maatregelen als bedoeld in de vierde titel van het Derde Boek, treffen. De voorlopige voorziening moet samenhangen met de vordering of tegenvordering in het aanhangige arbitraal geding.   
+2.  Bij overeenkomst kunnen de partijen een afzonderlijk daartoe te benoemen scheidsgerecht, binnen de grenzen gesteld bij artikel 254, eerste lid, de bevoegdheid verlenen, ongeacht of het arbitraal geding ten gronde aanhangig is, op verzoek van een der partijen, een voorlopige voorziening te treffen, met uitzondering van bewarende maatregelen als bedoeld in de vierde titel van het Derde Boek.   
+3.  Het scheidsgerecht, bedoeld in het eerste en tweede lid, kan in samenhang met de voorlopige voorziening van iedere partij het stellen van afdoende zekerheid verlangen.   
+4.  Tenzij het scheidsgerecht anders bepaalt, geldt een uitspraak van het scheidsgerecht over het verzoek een voorlopige voorziening te treffen als een arbitraal vonnis; daarop zijn de bepalingen van de derde tot en met de vijfde afdeling van deze titel van toepassing.   
+5.  Het scheidsgerecht kan, op eenparig verzoek van de partijen, onder vermelding van het verzoek, in plaats van een uitspraak over een voorlopige voorziening dadelijk een uitspraak ten gronde doen. Een zodanige uitspraak ten gronde geldt als een arbitraal vonnis; daarop zijn de bepalingen van de derde tot en met de vijfde afdeling van deze titel van toepassing.   
+6.  Het scheidsgerecht kan, op eenparig verzoek van de partijen, onder vermelding van het verzoek, een arbitraal vonnis als bedoeld in het vierde lid omzetten in een arbitraal vonnis als bedoeld in het vijfde lid.  
 
 ### Artikel  1044  
 
@@ -6141,6 +6193,15 @@ Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning
 2.  Een partij kan een derde in vrijwaring oproepen. De oproep wordt ten spoedigste in afschrift gezonden aan het scheidsgerecht en aan de wederpartij. 
 3.  De voeging, tussenkomst of vrijwaring kan slechts door het scheidsgerecht, de partijen gehoord, worden toegelaten indien de derde bij schriftelijke overeenkomst met de partijen tot de overeenkomst tot arbitrage is toegetreden. 
 4.  Door de toelating van de voeging, tussenkomst of vrijwaring wordt de derde in het arbitraal geding partij. Het scheidsgerecht regelt de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien. 
+
+### Artikel  1045a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Op schriftelijk verzoek van een partij kan het scheidsgerecht deze toestaan een derde schriftelijk in vrijwaring op te roepen, mits tussen de belanghebbende partij en de derde dezelfde arbitrageovereenkomst geldt of van kracht wordt als tussen de oorspronkelijke partijen.   
+2.  De oproep wordt ten spoedigste in afschrift gezonden aan het scheidsgerecht en aan de wederpartij.   
+3.  Het scheidsgerecht stelt de partijen en de derde in de gelegenheid hun mening kenbaar te maken.   
+4.  Het scheidsgerecht laat de vrijwaring niet toe indien het scheidsgerecht het op voorhand onaannemelijk acht dat de derde verplicht zal zijn de nadelige gevolgen van een eventuele veroordeling van de belanghebbende partij te dragen dan wel van oordeel is dat door een vrijwaringsprocedure onredelijke of onnodige vertraging van het geding te verwachten valt.   
+5.  Na de toelating van een vrijwaring regelt het scheidsgerecht de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien.  
 
 ### Artikel  1046  
 
@@ -6158,6 +6219,11 @@ Ingeval van arbitrage omtrent zaken als bedoeld in artikel 1020, vierde lid, ond
 ###Artikel 1048 
 
 De bepaling van het tijdstip, waarop het vonnis zal worden gewezen, is het scheidsgerecht voorbehouden. 
+
+### Artikel  1048a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een partij die in het geding is verschenen maakt zonder onredelijke vertraging bezwaar bij het scheidsgerecht met een afschrift aan de wederpartij zodra zij weet of redelijkerwijs behoort te weten dat is gehandeld in strijd met of is nagelaten te handelen overeenkomstig enige bepalingen van de tweede afdeling van deze titel, de overeenkomst tot arbitrage dan wel een opdracht, beslissing of maatregel van het scheidsgerecht. Laat een partij dit na, dan vervalt het recht daarop nadien, in het arbitraal geding of bij de gewone rechter, alsnog een beroep te doen. 
 
 ### Derde  afdeling  
 
@@ -6290,6 +6356,15 @@ b.het origineel van een geheel of gedeeltelijk eindvonnis wordt nedergelegd ter 
 4.   Tegen een arbitraal tussenvonnis kan de vordering tot vernietiging slechts worden ingesteld te zamen met de vordering tot vernietiging van het geheel of gedeeltelijk arbitraal eindvonnis.    
 5.   Alle gronden tot vernietiging moeten, op straffe van verval van het recht daartoe in de dagvaarding worden voorgedragen.   
 
+### Artikel  1064a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De vordering tot vernietiging wordt ingesteld bij het gerechtshof van het ressort waarin de plaats van arbitrage is gelegen.   
+2.  De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt drie maanden na de dag van verzending van het vonnis. Indien de partijen zijn overeengekomen gebruik te maken van het in artikel 1058, eerste lid, onderdeel b, bepaalde, vervalt deze bevoegdheid drie maanden na de dag van nederlegging van het vonnis. Wordt echter het vonnis, voorzien van een verlof tot tenuitvoerlegging, aan de wederpartij betekend, dan kan die partij, ongeacht het verstreken zijn van de termijn van drie maanden genoemd in de vorige zin, alsnog binnen drie maanden na deze betekening de vordering tot vernietiging instellen.   
+3.  Tegen een arbitraal tussenvonnis kan de vordering tot vernietiging slechts worden ingesteld tezamen met de vordering tot vernietiging van het geheel of gedeeltelijk eindvonnis.   
+4.  Alle gronden tot vernietiging moeten, op straffe van verval van het recht daartoe, in de dagvaarding worden voorgedragen.   
+5.  Tegen een uitspraak op grond van het eerste lid kan beroep in cassatie worden ingesteld. Partijen kunnen overeenkomen dat geen beroep in cassatie kan worden ingesteld tegen een uitspraak op grond van het eerste lid, tenzij een van hen een natuurlijk persoon is niet handelend in de uitoefening van een beroep of bedrijf.  
+
 ###Artikel 1065 
 
 1. Vernietiging kan slechts plaatsvinden op een of meer van de navolgende gronden: 
@@ -6309,6 +6384,14 @@ e.het vonnis, of de wijze waarop dit tot stand kwam, strijdt met de openbare ord
 5.  Indien het scheidsgerecht meer of anders heeft toegewezen dan werd gevorderd, wordt het arbitraal vonnis gedeeltelijk vernietigd, voorzover het meer of anders toegewezene kan worden gescheiden van het overige gedeelte van het vonnis. 
 6.  Indien en voorzover het scheidsgerecht heeft nagelaten, uitspraak te doen omtrent een of meer zaken welke aan zijn oordeel waren onderworpen, kan de vordering tot vernietiging op de grond, bedoeld in het eerste lid, onder *c*, slechts worden ingesteld indien een aanvullend vonnis, bedoeld in artikel 1061, eerste lid, is gewezen dan wel een verzoek tot aanvulling, bedoeld in artikel 1061, eerste lid, geheel of ten dele is afgewezen. 
 7.  In afwijking van het bepaalde in artikel 1064, derde lid, tweede zin, vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van nederlegging ter griffie van de rechtbank van het aanvullend vonnis dan wel van het afschrift van de mededeling der afwijzing, als bedoeld in artikel 1061, vijfde lid. 
+
+### Artikel  1065a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het gerechtshof kan, op verzoek van een partij of uit eigen beweging, de vernietigingsprocedure schorsen voor een door het gerechtshof te bepalen termijn om het scheidsgerecht in staat te stellen de grond tot vernietiging ongedaan te maken door het heropenen van het arbitraal geding dan wel door het nemen van een andere maatregel als het scheidsgerecht geraden acht. Tegen een beslissing van het gerechtshof staat geen hogere voorziening open.   
+2.  Voordat het scheidsgerecht beslist, stelt het de partijen in de gelegenheid te worden gehoord.   
+3.  Indien het scheidsgerecht van oordeel is dat de grond tot vernietiging ongedaan kan worden gemaakt, wijst het een dienovereenkomstig arbitraal vonnis dat in plaats komt van het vonnis waarvan vernietiging is gevorderd.   
+4.  Na de schorsing van de vernietigingsprocedure, beslist het gerechtshof overeenkomstig hetgeen het, de omstandigheden in aanmerking genomen, passend acht.  
 
 ### Artikel  1066  
 
@@ -6366,6 +6449,28 @@ In de gevallen bedoeld in de  artikelen 1026, tweede en vierde lid, 1027, derde 
 
 De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rechtbank als bevoegde voorzieningenrechter aanwijzen voor zaken als bedoeld in de  artikelen 1026, tweede en vierde lid, 1027, derde lid, 1028, 1029, tweede en vierde lid, 1031, tweede lid, 1035, tweede lid, en 1041, tweede lid.  
 
+### Artikel  1072a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Voorzover in deze titel niet anders is bepaald, zijn de artikelen 261 tot en met 291 van toepassing op zaken welke ingevolge het bij deze titel bepaalde met een verzoekschrift worden ingeleid. 
+
+### Artikel  1072b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de geadresseerde kenbaar heeft gemaakt dat hij daarvoor langs deze weg bereikbaar is en het scheidsgerecht daarmee instemt, kan, voorzover in enige bepaling van deze titel voor een overeenkomst, processtuk, mededeling, verzoek of handeling de schriftelijke vorm wordt vereist, dit ook op elektronische wijze geschieden, behalve voorzover het een handeling betreft die geschiedt in een gerechtelijke procedure, tenzij dit wordt toegestaan in laatstgenoemde procedure. De bereikbaarheid langs deze weg geldt voor de duur van het arbitraal geding, tenzij de geadresseerde meedeelt dat hij haar wijzigt of, voor zover partijen deze mogelijkheid zijn overeengekomen, intrekt.   
+2.  Onder bescheiden als bedoeld in deze titel worden mede verstaan op een gegevensdrager aangebrachte gegevens, alsmede langs elektronische weg ingediende gegevens.   
+3.  Het vonnis als bedoeld in artikel 1057, tweede lid, kan ook in elektronische vorm worden opgemaakt door het te voorzien van een elektronische handtekening die voldoet aan het bepaalde in [artikel 15a, eerste en tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+4.  In plaats van een persoonlijke verschijning van een getuige, een deskundige of een partij, kan het scheidsgerecht bepalen dat de desbetreffende persoon door middel van elektronische middelen rechtstreeks in contact staat met het scheidsgerecht en, voorzover van toepassing, met anderen. Het scheidsgerecht bepaalt, in overleg met de betrokkenen, welke elektronische middelen daartoe worden gebruikt en op welke wijze dit geschiedt.   
+5.  Een mededeling of handeling die langs elektronische weg geschiedt of een processtuk dat langs elektronische weg wordt ingediend, wordt geacht te zijn verzonden op het tijdstip waarop het bericht een systeem voor gegevensverwerking heeft bereikt waarvoor de verzender geen verantwoordelijkheid draagt.  
+
+### Artikel  1072c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het overlijden van een partij doet de overeenkomst tot arbitrage noch de opdracht van het scheidsgerecht eindigen, tenzij de partijen anders zijn overeengekomen.   
+2.  Het scheidsgerecht schorst het geding voor een door hem te bepalen termijn. Het scheidsgerecht kan, op verzoek van de rechtsopvolgers van een overleden partij, deze termijn verlengen. Het scheidsgerecht stelt de wederpartij in de gelegenheid, op het verzoek te worden gehoord.   
+3.  Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen.   
+4.  Indien de partij die gronden heeft de vernietiging of herroeping van een arbitraal vonnis te vorderen binnen de termijnen genoemd in artikel 1064a, tweede lid, en artikel 1065, zevende lid, respectievelijk artikel 1068, tweede lid, overlijdt, is artikel 341 van overeenkomstige toepassing.  
+
 ###Artikel 1073 
 
 1. Het in deze Titel bepaalde is van toepassing indien de plaats van arbitrage in Nederland is gelegen. 
@@ -6379,6 +6484,26 @@ De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rec
 
 1. De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is onder het op die overeenkomst toepasselijke recht. 
 2.  De overeenkomst, bedoeld in het eerste lid, belet niet dat een partij de Nederlandse rechter verzoekt om een maatregel tot bewaring van recht dan wel zich wendt tot de voorzieningenrechter van de rechtbank in kort geding overeenkomstig artikel 254. 
+
+### Artikel  1074a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De overeenkomst waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt om een maatregel tot bewaring van recht of zich wendt tot de voorzieningenrechter van de rechtbank of de kantonrechter in kort geding overeenkomstig artikel 254. 
+
+### Artikel  1074b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt een voorlopig getuigenverhoor, een voorlopig deskundigenbericht of een voorlopige plaatsopneming en bezichtiging in Nederland te bevelen. 
+
+### Artikel  1074c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de gewone rechter verzoekt een rechter-commissaris te benoemen indien een getuige die in Nederland woont of feitelijk verblijf houdt, niet vrijwillig verschijnt. In dat geval zijn de bepalingen van artikel 1041a, eerste tot en met derde lid, van overeenkomstige toepassing. 
+
+### Artikel  1074d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien in de gevallen, genoemd in de artikelen 1074a tot en met 1074c, een partij zich voor alle weren beroept op het bestaan van een overeenkomst tot arbitrage, verklaart de rechter zich uitsluitend bevoegd, indien de gevraagde beslissing niet of niet tijdig in arbitrage kan worden gekregen. 
 
 ###Artikel 1075 
 

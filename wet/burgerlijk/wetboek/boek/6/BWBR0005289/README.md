@@ -1333,7 +1333,7 @@ Indien er sprake is van commerciële communicatie, reclame of marketing daaronde
 
 a.[artikel 15d leden 1 en 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [artikel 15e lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);
 
-b.[artikel 46c lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);
+b. artikelen 230m lid 1, onderdelen a, b en c, e tot en met h, o en p en 230v, leden 1 tot en met 3, 5, alsmede lid 6, eerste zin, en lid 7, van Boek 6; 
 
 c.[artikel 501 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);
 
@@ -1428,7 +1428,7 @@ d.een consument die op grond van een verzekeringspolis een vordering indient, om
 
 e.kinderen in reclame er rechtstreeks toe aanzetten om geadverteerde producten te kopen of om hun ouders of andere volwassenen ertoe over te halen die producten voor hen te kopen;
 
-f.vragen om onmiddellijke dan wel uitgestelde betaling of om terugzending of bewaring van producten die de handelaar heeft geleverd, maar waar de consument niet om heeft gevraagd, tenzij het product een vervangingsgoed is als bedoeld in [artikel 46f lid 3 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);
+f.vragen om onmiddellijke dan wel uitgestelde betaling of om terugzending of bewaring van producten die de handelaar heeft geleverd, maar waar de consument niet om heeft gevraagd;
 
 g.de consument uitdrukkelijk meedelen dat, als hij het product of de dienst niet koopt, de baan of de bestaansmiddelen van de handelaar in het gedrang komen;
 
@@ -1441,7 +1441,8 @@ h.de bedrieglijke indruk wekken dat de consument al een prijs heeft gewonnen of 
 ### Artikel 193j 
 
 1. Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in [artikel 305d lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
-2. Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
+2. Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt. 
+3.  Een overeenkomst die als gevolg van een oneerlijke handelspraktijk tot stand is gekomen, is vernietigbaar. 
 
 ### Afdeling  4  
 
@@ -1885,16 +1886,11 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 ####Bepalingen voor overeenkomsten tussen handelaren en consumenten
 
-Treedt in werking per 13-06-2014 
-
 ### Paragraaf  1  
 
 ####– Algemene bepalingen
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230g  
-Treedt in werking per 13-06-2014 
 
 1.  In deze afdeling wordt verstaan onder: 
 
@@ -1944,7 +1940,6 @@ q.  *richtlijn nr. 2002/65/EG:* richtlijn nr. 2002/65/EG van het Europees Parlem
 2.  Voor de toepassing van deze afdeling gelden voor een overeenkomst die zowel de levering van roerende zaken als het verrichten van diensten betreft, met uitzondering van artikel 230s lid 4, slechts de bepalingen die van toepassing zijn op consumentenkoop.  
 
 ### Artikel  230h  
-Treedt in werking per 13-06-2014 
 
 1.  Deze afdeling is van toepassing op overeenkomsten gesloten tussen een handelaar en een consument.   
 2.  Deze afdeling is niet van toepassing op een overeenkomst: 
@@ -1979,7 +1974,6 @@ m. die wordt gesloten met telecommunicatie-exploitanten door middel van openbare
 5.  Op de overeenkomst van personenvervoer zijn slechts de artikelen 230i lid 1, 230j, 230k lid 1 en 230v leden 2 en 3 van toepassing.  
 
 ### Artikel  230i  
-Treedt in werking per 13-06-2014 
 
 1.  Van het bepaalde bij of krachtens deze afdeling kan niet ten nadele van de consument worden afgeweken.   
 2.  Op de termijnen genoemd in deze afdeling is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.   
@@ -1987,12 +1981,10 @@ Treedt in werking per 13-06-2014
 4.  De uit deze afdeling voortvloeiende informatieverplichtingen gelden onverminderd de informatieverplichtingen op grond van de [artikelen 15d tot en met 15f van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de artikelen 227b en 227c alsmede afdeling 2A van titel 5 van Boek 6. In geval van strijd naar inhoud en wijze waarop de informatie wordt verstrekt, zijn de bepalingen van deze afdeling van toepassing.  
 
 ### Artikel  230j  
-Treedt in werking per 13-06-2014 
 
 De consument is niet zonder zijn uitdrukkelijke instemming gebonden aan een verbintenis tot een aanvullende betaling van een geldsom ter verkrijging van een prestatie die niet de kern van de prestatie is. Uit het gebruik van standaardopties die de consument moet afwijzen, kan geen uitdrukkelijke instemming worden afgeleid. 
 
 ### Artikel  230k  
-Treedt in werking per 13-06-2014 
 
 1.  De vergoeding die de handelaar aan de consument vraagt voor het gebruik van een bepaald betaalmiddel bedraagt ten hoogste de kosten van het gebruik daarvan voor de handelaar.   
 2.  De vergoeding die de handelaar bij de consument in rekening brengt voor telefonisch contact over de tussen hem en de consument gesloten overeenkomst bedraagt ten hoogste het basistarief. Bij ministeriële regeling kunnen nadere regels over de samenstelling en hoogte van het basistarief worden vastgesteld.  
@@ -2001,10 +1993,7 @@ Treedt in werking per 13-06-2014
 
 ####– Bepalingen voor overeenkomsten anders dan op afstand of buiten de verkoopruimte
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230l  
-Treedt in werking per 13-06-2014 
 
 Voordat de consument door enige andere overeenkomst dan een overeenkomst op afstand of buiten de verkoopruimte, dan wel een daartoe strekkend aanbod, is gebonden, verstrekt de handelaar de consument op duidelijke en begrijpelijke wijze de volgende informatie, voor zover deze niet reeds duidelijk uit de context blijkt: 
 
@@ -2028,10 +2017,7 @@ h. voor zover van toepassing, de relevante interoperabiliteit van digitale inhou
 
 ####– Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230m  
-Treedt in werking per 13-06-2014 
 
 1.  Voordat de consument gebonden is aan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte, dan wel aan een daartoe strekkend aanbod, verstrekt de handelaar de consument op duidelijke en begrijpelijke wijze de volgende informatie: 
 
@@ -2077,7 +2063,6 @@ t. voor zover van toepassing, de mogelijkheid van toegang tot buitengerechtelijk
 2.  Bij een openbare veiling kan aan de in lid 1 in onderdelen b, c en d, bedoelde informatieverplichting worden voldaan door de overeenkomstige gegevens van de veilingmeester te verstrekken.  
 
 ### Artikel  230n  
-Treedt in werking per 13-06-2014 
 
 1.  Aan de in artikel 230m lid 1, onderdelen h, i en j, bedoelde verplichtingen kan worden voldaan door verstrekking van door de handelaar ingevulde modelinstructies voor ontbinding als bedoeld in bijlage I deel A van de richtlijn.   
 2.  De in artikel 230m lid 1 bedoelde informatie vormt een integraal onderdeel van de overeenkomst op afstand of van de overeenkomst buiten de verkoopruimte en wordt niet gewijzigd, tenzij de partijen in de overeenkomst uitdrukkelijk anders overeenkomen.   
@@ -2085,7 +2070,6 @@ Treedt in werking per 13-06-2014
 4.  Op de handelaar rust de bewijslast voor de juiste en tijdige verstrekking van de in deze paragraaf genoemde informatie.  
 
 ### Artikel  230o  
-Treedt in werking per 13-06-2014 
 
 1.  De consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder opgave van redenen ontbinden tot een termijn van veertien dagen is verstreken, vanaf: 
 
@@ -2108,7 +2092,6 @@ c. bij een overeenkomst tot levering van water, gas of elektriciteit, die niet g
 5.  Op de consument rust de bewijslast voor de juiste en tijdige uitoefening van het in lid 1 bedoelde recht.  
 
 ### Artikel  230p  
-Treedt in werking per 13-06-2014 
 
 De consument heeft geen recht van ontbinding bij: 
 
@@ -2149,13 +2132,11 @@ f. een consumentenkoop betreffende:
 g. de levering van digitale inhoud die niet op een materiële drager is geleverd, voor zover de nakoming is begonnen met uitdrukkelijke voorafgaande toestemming van de consument en de consument heeft verklaard dat hij daarmee afstand doet van zijn recht van ontbinding.   
 
 ### Artikel  230q  
-Treedt in werking per 13-06-2014 
 
 1.  In afwijking van artikel 219 kan een aanbod van de consument tot het aangaan van een overeenkomst aan de handelaar op de in artikel 230o bepaalde wijze worden herroepen.   
 2.  Door een ontbinding overeenkomstig artikel 230o worden van rechtswege alle aanvullende overeenkomsten ontbonden.  
 
 ### Artikel  230r  
-Treedt in werking per 13-06-2014 
 
 1.  De handelaar vergoedt na ontbinding van de overeenkomst overeenkomstig artikel 230o onverwijld doch uiterlijk binnen veertien dagen na de dag van ontvangst van de verklaring tot ontbinding alle van de consument ontvangen betalingen, met inbegrip van de leveringskosten.   
 2.  De handelaar komt de in lid 1 bedoelde verbintenis na, met gebruikmaking van hetzelfde betaalmiddel als door de consument is gebruikt ter voldoening van de voor de ontbinding op de consument rustende verbintenissen, tenzij de consument uitdrukkelijk met een ander betaalmiddel heeft ingestemd en met dien verstande dat de consument hierdoor geen kosten mag hebben.   
@@ -2163,7 +2144,6 @@ Treedt in werking per 13-06-2014
 4.  Tenzij de handelaar heeft aangeboden de op basis van de ontbonden overeenkomst geleverde zaken zelf af te halen, kan de consument eerst nakoming vorderen van de in lid 1 bedoelde verbintenis nadat de handelaar de zaken heeft ontvangen of de consument heeft aangetoond dat hij de zaken heeft teruggezonden, naar gelang welk tijdstip het eerst valt.  
 
 ### Artikel  230s  
-Treedt in werking per 13-06-2014 
 
 1.  Tenzij de handelaar heeft aangeboden de op basis van de ontbonden overeenkomst geleverde zaken zelf af te halen, zendt de consument onverwijld en in ieder geval binnen veertien dagen na het uitbrengen van de in artikel 230o lid 3 bedoelde verklaring de door hem ontvangen zaken terug of overhandigt deze aan de handelaar of aan een persoon die door de handelaar is gemachtigd om de zaken in ontvangst te nemen.   
 2.  De consument draagt de rechtstreekse kosten van het terugzenden van de zaak, tenzij de handelaar heeft nagelaten de consument mee te delen dat hij deze kosten moet dragen.   
@@ -2190,10 +2170,7 @@ b. de volledige of gedeeltelijke levering van digitale inhoud die niet op een ma
 
 ####– Aanvullende bepalingen voor overeenkomsten buiten de verkoopruimte
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230t  
-Treedt in werking per 13-06-2014 
 
 1.  Bij de overeenkomst buiten de verkoopruimte verstrekt de handelaar de in artikel 230m lid 1 genoemde informatie in duidelijke en begrijpelijke taal en in leesbare vorm aan de consument op papier of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager.   
 2.  De handelaar verstrekt aan de consument op papier, of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager, een afschrift van de ondertekende overeenkomst of de bevestiging van de overeenkomst, met inbegrip van de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument waarmee hij afstand doet van zijn recht van ontbinding overeenkomstig artikel 230p onderdeel g, voor zover van toepassing.   
@@ -2206,7 +2183,6 @@ b. de zaak naar zijn aard niet met de gewone post kan worden teruggezonden.
 5.  Behalve in het in artikel 230s lid 4 bedoelde geval, kan pas na het verstrijken van de ontbindingstermijn nakoming worden gevorderd van de uit de overeenkomst voortvloeiende verbintenis van de consument tot betaling.  
 
 ### Artikel  230u  
-Treedt in werking per 13-06-2014 
 
 Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst buiten de verkoopruimte te doen indien hij weet of redelijkerwijs moet vermoeden dat de verplichtingen die daaruit voor de consument kunnen voortvloeien, niet in overeenstemming zijn met diens draagkracht. 
 
@@ -2214,10 +2190,7 @@ Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst bu
 
 ####– Aanvullende bepalingen voor overeenkomsten op afstand
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230v  
-Treedt in werking per 13-06-2014 
 
 1.  Bij een overeenkomst op afstand verstrekt de handelaar de in artikel 230m lid 1 genoemde informatie aan de consument op een wijze die passend is voor de gebruikte middelen voor communicatie op afstand en in een duidelijke en begrijpelijke taal. Verstrekt de handelaar deze informatie op een duurzame gegevensdrager, dan is zij in leesbare vorm opgesteld.   
 2.  Voordat op elektronische wijze een overeenkomst op afstand wordt gesloten waaruit een betalingsverplichting voor de consument voortvloeit, wijst de handelaar de consument op een duidelijke en in het oog springende manier en onmiddellijk voordat de consument zijn bestelling plaatst, op de in artikel 230m lid 1, onderdelen a, e, o en p, genoemde informatie   
@@ -2236,10 +2209,7 @@ b. voor zover van toepassing, de bevestiging van de uitdrukkelijke voorafgaande 
 
 ####– Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
 
-Treedt in werking per 13-06-2014 
-
 ### Artikel  230w  
-Treedt in werking per 13-06-2014 
 
 1.  Deze paragraaf is slechts van toepassing op overeenkomsten inzake: 
 
@@ -2253,7 +2223,6 @@ c. fondsvorming ter voldoening van de verzorging van de uitvaart van een natuurl
 4.  De toepasselijkheid op de overeenkomst van een recht dat de door de richtlijn nr. 2002/65/EG voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de consument dan wel de wederpartij de bescherming verliest die hem krachtens richtlijn nr. 2002/65/EG wordt geboden door de dwingende bepalingen van het recht van de lidstaat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.  
 
 ### Artikel  230x  
-Treedt in werking per 13-06-2014 
 
 1.  Een consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende veertien kalenderdagen vanaf de dag waarop die overeenkomst is aangegaan dan wel, indien dit later is, gedurende veertien kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dient te verstrekken, door hem is ontvangen.   
 2.  In afwijking van lid 1 kan een consument een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte inzake een levensverzekering zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende dertig kalenderdagen vanaf de dag waarop hij van het tot stand komen van de overeenkomst in kennis is gesteld dan wel, indien dit later is, gedurende dertig kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dient te verstrekken, door hem is ontvangen.   
@@ -2275,7 +2244,6 @@ f. bij algemene maatregel van bestuur aan te wijzen andere overeenkomsten inzake
 6.  Artikel 230v lid 6, eerste zin, is van overeenkomstige toepassing.  
 
 ### Artikel  230y  
-Treedt in werking per 13-06-2014 
 
 1.  Met de uitvoering van een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte wordt pas na toestemming van de consument een begin gemaakt.   
 2.  Indien de consument gebruik maakt van zijn in artikel 230x lid 1 of lid 2 bedoelde recht, kan de financiële onderneming uitsluitend een vergoeding vragen voor het financieel product dat ter uitvoering van de overeenkomst op afstand of buiten de verkoopruimte is geleverd. Deze vergoeding is: 
@@ -2292,7 +2260,6 @@ b. op uitdrukkelijk verzoek van de consument met de uitvoering van de overeenkom
 5.  Indien de consument gebruik maakt van het in artikel 230x lid 1 of lid 2 bedoelde recht geeft hij de financiële onderneming zo spoedig mogelijk, doch uiterlijk binnen dertig kalenderdagen nadat hij de kennisgeving van de ontbinding heeft verzonden, alle geldbedragen en goederen terug die hij van de financiële onderneming op grond van de overeenkomst heeft ontvangen.  
 
 ### Artikel  230z  
-Treedt in werking per 13-06-2014 
 
 1.  Het is een kredietgever of een kredietbemiddelaar verboden om door persoonlijk bezoek dan wel door of in samenhang met de aanprijzing van een geldkrediet als bedoeld in onderdeel a van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of van een zaak of een dienst in een groep van ter plaatse van de aanprijzing aanwezige personen te trachten een ander te bewegen tot het als kredietnemer deelnemen aan een geldkrediet, dan wel een ander die handelingen te doen verrichten.   
 2.  Voor de toepassing van het vorige lid wordt als persoonlijk bezoek niet aangemerkt het persoonlijk bezoek, dat in overwegende mate voortvloeit uit een initiatief van degene, die wordt bezocht, tenzij de bezoeker degene, die hij bezoekt, tracht te bewegen tot het sluiten van een overeenkomst betreffende een ander goed of een andere dienst dan het goed of de dienst, in verband waarmee om het bezoek is verzocht en degene, die wordt bezocht, toen hij het initiatief tot dat bezoek nam niet wist en redelijkerwijs niet kon weten, dat het sluiten van overeenkomsten betreffende dat andere goed of die andere dienst tot de bedrijfs- of beroepsuitoefening van de bezoeker behoorde.   

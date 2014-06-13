@@ -1384,7 +1384,7 @@ Indien na beëindiging van de verschuldigdheid van de bestuursrechtelijke premie
 
 ### Artikel  6.5.3a  
 
-Het Zorginstituut stort over 2014 23 procent van de in het desbetreffende kalenderjaar geïnde bestuursrechtelijke premies, bedoeld in [artikel 18d van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), in 's Rijks kas. 
+Het Zorginstituut Nederland stort over 2014 23 procent van de in het desbetreffende kalenderjaar geïnde bestuursrechtelijke premies, bedoeld in [artikel 18d van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), in 's Rijks kas. 
 
 ### Artikel  6.5.4  
 

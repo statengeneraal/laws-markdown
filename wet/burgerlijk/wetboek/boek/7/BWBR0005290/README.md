@@ -56,15 +56,17 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 ### Artikel  5  
 
-1.  In deze titel wordt verstaan onder "consumentenkoop": de koop met betrekking tot een roerende zaak, elektriciteit, warmte en koude daaronder begrepen, die wordt gesloten door een verkoper die handelt in de uitoefening van een beroep of bedrijf, en een koper, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf.    
+1.  In deze titel wordt verstaan onder consumentenkoop: de koop met betrekking tot een roerende zaak die wordt gesloten door een verkoper die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, en een koper, natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit.   
 2.   Wordt de zaak verkocht door een gevolmachtigde die handelt in de uitoefening van beroep of bedrijf, dan wordt de koop aangemerkt als een consumentenkoop, tenzij de koper ten tijde van het sluiten van de overeenkomst weet dat de volmachtgever niet handelt in de uitoefening van een beroep of bedrijf.    
 3.   De vorige leden zijn niet van toepassing indien de overeenkomst door leidingen naar de verbruiker aangevoerd water betreft.    
-4.  Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 750, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.  
+4.  Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 750, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.   
+5.  Met uitzondering van de artikelen 9, 11 en 19a, zijn de bepalingen over consumentenkoop van overeenkomstige toepassing op de levering van elektriciteit, warmte en koude en gas, voor zover deze niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, alsmede op de levering van stadsverwarming en de levering van digitale inhoud die niet op een materiële drager is geleverd, aan een natuurlijk persoon, die handelt voor doeleinden buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.   
+6.  Voor de toepassing van de artikelen 9, 11 en 19a wordt een overeenkomst tussen enig persoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, en de natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, die zowel de levering van roerende zaken als het verrichten van diensten betreft, uitsluitend aangemerkt als consumentenkoop. 
 
 ### Artikel  6  
 
 1.  Bij een consumentenkoop kan van de afdelingen 1-7 van deze titel niet ten nadele van de koper worden afgeweken en kunnen de rechten en vorderingen die de wet aan de koper ter zake van een tekortkoming in de nakoming van de verplichtingen van de verkoper toekent, niet worden beperkt of uitgesloten.    
-2.   Lid 1 is niet van toepassing op de artikelen 11, 12, 13, 26 en 35, doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.    
+2.   Lid 1 is niet van toepassing op de artikelen 12, 13, eerste en tweede zin, 26 en 35, doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.    
 3.  De toepasselijkheid op de consumentenkoop van een recht dat de door de richtlijn nr. 99/44/EG van het Europees Parlement en de Raad van de Europese Unie van 25 mei 1999 betreffende bepaalde aspecten van de verkoop van en de garanties voor consumptiegoederen (PbEG L 171) voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper de bescherming verliest die hem krachtens deze richtlijn wordt geboden door de dwingende bepalingen van het recht van de lidstaat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.  
 
 ### Artikel  6a  
@@ -82,9 +84,8 @@ b.producent: de fabrikant van de zaak, degene die de zaak in de Europese Economi
 ### Artikel  7  
 
 1.  Degene aan wie een zaak is toegezonden en die redelijkerwijze mag aannemen dat deze toezending is geschied ten einde hem tot een koop te bewegen, is ongeacht enige andersluidende mededeling van de verzender jegens deze bevoegd de zaak om niet te behouden, tenzij het hem is toe te rekenen dat de toezending is geschied.    
-2.  De toezending aan een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf van een niet door deze bestelde zaak met het verzoek tot betaling van een prijs, terugzending of bewaring, is niet toegestaan. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste volzin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing.   
-3.  Indien de ontvanger in de gevallen, bedoeld in de leden 1–2, de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.   
-4.  Lid 2 is van overeenkomstige toepassing op het verrichten ten behoeve van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf van een niet door deze opgedragen dienst.   
+2.  Geen verplichting tot betaling ontstaat voor een natuurlijke persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, bij de ongevraagde levering van zaken, financiële producten, water, gas, elektriciteit, stadsverwarming of digitale inhoud, dan wel de ongevraagde verrichting van diensten, als bedoeld in [artikel 193i onderdeel f van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md). Het uitblijven van een reactie van een natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, op de ongevraagde levering of verstrekking wordt niet als aanvaarding aangemerkt. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste zin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing.   
+3.  Indien de ontvanger in de gevallen, bedoeld in de leden 1–2, de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.  
 
 ### Artikel  8  
 
@@ -98,7 +99,8 @@ Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak 
 
 1.  De verkoper is verplicht de verkochte zaak met toebehoren in eigendom over te dragen en af te leveren. Onder toebehoren zijn de aanwezige titelbewijzen en bescheiden begrepen; voor zover de verkoper zelf daarbij belang behoudt, is hij slechts verplicht om aan de koper op diens verlangen en op diens kosten een afschrift of uittreksel af te geven.    
 2.   Onder aflevering wordt verstaan het stellen van de zaak in het bezit van de koper.    
-3.   In geval van koop met eigendomsvoorbehoud wordt onder aflevering verstaan het stellen van de zaak in de macht van de koper.   
+3.   In geval van koop met eigendomsvoorbehoud wordt onder aflevering verstaan het stellen van de zaak in de macht van de koper.    
+4.  Bij een consumentenkoop levert de verkoper de zaken onverwijld en in ieder geval binnen dertig dagen na het sluiten van de overeenkomst af. De partijen kunnen een andere termijn overeenkomen. Op de termijn van dertig dagen is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing. 
 
 ### Artikel  10  
 
@@ -109,7 +111,8 @@ Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak 
 
 ### Artikel  11  
 
-Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkoper of een door deze aangewezen vervoerder, is de zaak pas voor risico van de koper van de bezorging af, zelfs al was zij reeds eerder afgeleverd in de zin van artikel 9.  
+1.  Bij een consumentenkoop waarbij de zaak bij de koper wordt bezorgd, is de zaak voor het risico van de koper vanaf het moment dat de koper of een door hem aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen.   
+2.  In geval de koper een vervoerder aanwijst en de keuze voor deze vervoerder niet door de verkoper wordt aangeboden, gaat het risico over op de koper op het moment van ontvangst van de zaak door de vervoerder.  
 
 ### Artikel  12  
 
@@ -118,7 +121,7 @@ Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkop
 
 ### Artikel  13  
 
-Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkoper of een door deze aangewezen vervoerder, kunnen daarvoor slechts kosten worden gevorderd, voor zover zij bij het sluiten van de overeenkomst door de verkoper afzonderlijk zijn opgegeven of door de verkoper de gegevens zijn verschaft op grond waarvan zij door hem worden berekend. Hetzelfde geldt voor kosten, verschuldigd voor andere werkzaamheden die de verkoper in verband met de koop voor de koper verricht.  
+Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkoper of een door deze aangewezen vervoerder, kunnen daarvoor slechts kosten worden gevorderd, voor zover zij bij het sluiten van een overeenkomst anders dan op afstand of buiten de verkoopruimte, bedoeld in [artikel 230g lid 1, onderdelen e en f, van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) door de verkoper afzonderlijk zijn opgegeven of door de verkoper de gegevens zijn verschaft op grond waarvan zij door hem worden berekend. Hetzelfde geldt voor kosten, verschuldigd voor andere werkzaamheden die de verkoper in verband met de koop voor de koper verricht. Voor een consumentenkoop die tevens voldoet aan de omschrijving van een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zijn, overeenkomstig de [artikelen 230m lid 1, onderdeel e](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en [230n lid 3 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), evenmin bijkomende kosten verschuldigd voor zover deze niet zijn opgegeven. 
 
 ### Artikel  14  
 
@@ -156,6 +159,18 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 ### Afdeling  3  
 
 ####Bijzondere gevolgen van niet-nakoming van de verplichtingen van de verkoper 
+
+### Artikel  19a  
+
+1.  Komt bij de verkoper bij een consumentenkoop de in artikel 9 lid 4 gestelde of overeengekomen termijn niet na, dan is hij in verzuim wanneer hij door de koper in gebreke wordt gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering wordt gesteld, en nakoming binnen deze termijn uitblijft.   
+2.  Het verzuim van de verkoper treedt zonder ingebrekestelling in wanneer: 
+
+a. de verkoper heeft geweigerd de zaken te leveren;  
+
+b. aflevering binnen de overeengekomen levertermijn essentieel is, alle omstandigheden rond de sluiting van de overeenkomst in aanmerking genomen; of  
+
+c. de koper aan de verkoper voor het sluiten van de overeenkomst heeft medegedeeld dat aflevering voor of op een bepaalde datum essentieel is.     
+3.  Bij de ontbinding van een consumentenkoop wegens een tekortkoming in de nakoming van de in artikel 9 lid 4 bedoelde verbintenis vergoedt de verkoper onverwijld alle van de koper ontvangen betalingen.  
 
 ### Artikel  20  
 
@@ -339,140 +354,7 @@ Zolang de koop niet definitief is, is de zaak voor risico van de verkoper.
 
 ####Overeenkomsten op afstand
 
-### Artikel  46a  
-
-In deze afdeling wordt verstaan onder: 
-
-a. overeenkomst op afstand: de overeenkomst waarbij, in het kader van een door de verkoper of dienstverlener georganiseerd systeem voor verkoop of dienstverlening op afstand, tot en met het sluiten van de overeenkomst uitsluitend gebruik wordt gemaakt van één of meer technieken voor communicatie op afstand;  
-
-b. koop op afstand: de overeenkomst op afstand die een consumentenkoop is;  
-
-c. overeenkomst op afstand tot het verrichten van diensten: de tot het verrichten van diensten strekkende overeenkomst op afstand tussen een dienstverlener die handelt in de uitoefening van een beroep of bedrijf en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf;  
-
-d. financiële dienst: iedere dienst van bancaire aard of op het gebied van kredietverstrekking, verzekering, individuele pensioenen, beleggingen en betalingen;
-
-e. techniek voor communicatie op afstand: een middel dat zonder gelijktijdige persoonlijke aanwezigheid van partijen kan worden gebruikt voor het sluiten van de overeenkomst op afstand;  
-
-f. communicatietechniekexploitant: een natuurlijke persoon of rechtspersoon die zijn bedrijf maakt van het ter beschikking stellen van één of meer technieken voor communicatie op afstand aan verkopers of dienstverleners;  
-
-g. richtlijn nr. 97/7/EG: richtlijn nr. 97/7/EG van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1997 betreffende de bescherming van de consument bij op afstand gesloten overeenkomsten (PbEG L 144);  
-
-h. richtlijn nr. 2002/65/EG: richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271). 
-
-### Artikel  46b  
-
-1.   Artikel 5 lid 3 is niet van toepassing op koop op afstand.   
-2.  Deze afdeling is niet van toepassing op de koop op afstand: 
-
-a. die wordt gesloten met gebruikmaking van distributieautomaten of geautomatiseerde handelsruimten;  
-
-b. op een veiling.     
-3.  De artikelen 46c-46e en 46f lid 1 zijn niet van toepassing op de koop op afstand van hoofdzakelijk levensmiddelen die worden afgeleverd aan de koper op diens woon- of verblijfplaats of werkplek door frequent en op gezette tijden langskomende bezorgers.  
-
-### Artikel  46c  
-
-1.  Tijdig voordat de koop op afstand wordt gesloten, moeten aan de wederpartij met alle aan de gebruikte techniek voor communicatie op afstand aangepaste middelen en op duidelijke en begrijpelijke wijze, de volgende gegevens worden verstrekt, waarvan het commerciële oogmerk ondubbelzinnig moet blijken: 
-
-a. de identiteit en, indien de koop op afstand verplicht tot vooruitbetaling van de prijs of een gedeelte daarvan, het adres van de verkoper;  
-
-b. de belangrijkste kenmerken van de zaak;  
-
-c. de prijs, met inbegrip van alle belastingen, van de zaak;  
-
-d. voor zover van toepassing: de kosten van aflevering;  
-
-e. de wijze van betaling, aflevering of uitvoering van de koop op afstand;  
-
-f. het al dan niet van toepassing zijn van de mogelijkheid van ontbinding overeenkomstig de artikelen 46d lid 1 en 46e;   
-
-g. indien de kosten van het gebruik van de techniek voor communicatie op afstand worden berekend op een andere grondslag dan het basistarief: de hoogte van het geldende tarief;  
-
-h. de termijn voor de aanvaarding van het aanbod, dan wel de termijn voor het gestand doen van de prijs;  
-
-i. voor zover van toepassing, in geval van een koop op afstand die strekt tot voortdurende of periodieke aflevering van zaken: de minimale duur van de overeenkomst.     
-2.  Tijdig bij de nakoming van de koop op afstand en, voor zover het niet aan derden af te leveren zaken betreft, uiterlijk bij de aflevering, moeten aan de koper op duidelijke en begrijpelijke wijze schriftelijk of, voor zover het de in de onderdelen a en c-e bedoelde gegevens betreft, op een andere te zijner beschikking staande en voor hem toegankelijke duurzame gegevensdrager, de volgende gegevens worden verstrekt, behoudens voor zover zulks reeds is geschied voordat de koop op afstand werd gesloten: 
-
-a. de gegevens, bedoeld in de onderdelen a-f van lid 1;  
-
-b. de vereisten voor de gebruikmaking van het recht tot ontbinding overeenkomstig de artikelen 46d lid 1 en 46e lid 2;  
-
-c. het bezoekadres van de vestiging van de verkoper waar de koper een klacht kan indienen;  
-
-d. voor zover van toepassing: gegevens omtrent de garantie en omtrent in het kader van de koop op afstand aangeboden diensten;  
-
-e. indien de koop op afstand een duur heeft van meer dan een jaar dan wel een onbepaalde duur: de vereisten voor opzegging van de overeenkomst.    
-
-### Artikel  46d  
-
-1.  Gedurende zeven werkdagen na de ontvangst van de zaak heeft de koper het recht de koop op afstand zonder opgave van redenen te ontbinden. Indien niet is voldaan aan alle in artikel 46c lid 2 gestelde eisen, bedraagt deze termijn drie maanden. De eerste zin is van overeenkomstige toepassing vanaf de voldoening binnen de in de tweede zin bedoelde termijn aan alle in artikel 46c lid 2 gestelde eisen.   
-2.  In geval van ontbinding overeenkomstig lid 1 kan de verkoper, behoudens ten hoogste de rechtstreekse kosten van het terugzenden van de zaak, aan de koper geen vergoeding in rekening brengen.   
-3.  In geval van ontbinding overeenkomstig lid 1 heeft de koper recht op kosteloze teruggave van het door hem aan de verkoper betaalde. De teruggave moet zo spoedig mogelijk en in ieder geval binnen dertig dagen na de ontbinding plaatsvinden.   
-4.  De leden 1–3 zijn niet van toepassing op de koop op afstand: 
-
-a. van zaken waarvan de prijs gebonden is aan de schommelingen op de financiële markt, waarop de verkoper geen invloed heeft;  
-
-b. van zaken die: 
-
-1°. zijn tot stand gebracht overeenkomstig specificaties van de koper;  
-
-2°. duidelijk persoonlijk van aard zijn;  
-
-3°. door hun aard niet kunnen worden teruggezonden;  
-
-4°. snel kunnen bederven of verouderen;    
-
-c. van audio- en video-opnamen en computerprogrammatuur, indien de koper hun verzegeling heeft verbroken;  
-
-d. van kranten en tijdschriften.    
-
-### Artikel  46e  
-
-1.  Ontbinding van de koop op afstand overeenkomstig artikel 46d lid 1 brengt van rechtswege en zonder dat de koper een boete is verschuldigd de ontbinding mee van een overeenkomst die ertoe strekt dat de verkoper aan de koper ten behoeve van de voldoening van de prijs een geldsom leent.   
-2.  In geval van ontbinding van de koop op afstand overeenkomstig artikel 46d lid 1 heeft de koper tevens het recht een ingevolge een overeenkomst tussen de verkoper en een derde aangegane overeenkomst die ertoe strekt dat de derde aan de koper ten behoeve van de voldoening van de prijs een geldsom leent, zonder boete te ontbinden.  
-
-### Artikel  46f  
-
-1.  Het verzuim van de verkoper treedt zonder ingebrekestelling in, wanneer de koop op afstand niet uiterlijk binnen dertig dagen, te rekenen van de dag waarop de koper zijn bestelling bij de verkoper heeft gedaan, is nagekomen, behalve voor zover de vertraging de verkoper niet kan worden toegerekend of nakoming reeds blijvend onmogelijk is.   
-2.  Indien nakoming onmogelijk is doordat de gekochte zaak niet beschikbaar is, moet de koper daarvan zo spoedig mogelijk worden kennis gegeven en heeft hij recht op kosteloze teruggave van het door hem aan de verkoper betaalde. De teruggave moet zo spoedig mogelijk en in ieder geval binnen dertig dagen na de kennisgeving plaatsvinden.   
-3.  Indien in het in lid 2 bedoelde geval de verkoper krachtens een voor dan wel bij het sluiten van de koop op afstand gemaakt beding de bevoegdheid heeft, een zaak van gelijke kwaliteit en prijs te geven, komen de kosten van het terugzenden van de zaak in geval van ontbinding van de koop op afstand overeenkomstig artikel 46d lid 1 ten laste van de verkoper. De koper moet daarvan op duidelijke en begrijpelijke wijze worden kennis gegeven.  
-
-### Artikel  46h  
-
-1.  Aan een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf moeten bij het gebruik van de telefoon voor het doen van ongevraagde oproepen ter bevordering van de totstandkoming van een koop op afstand, aan het begin van elk gesprek duidelijk de identiteit van de verkoper, alsmede het commerciële oogmerk van de oproep worden medegedeeld.   
-2.  Het gebruik van automatische oproepsystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor het overbrengen van ongevraagde communicatie, ter bevordering van de totstandkoming van een koop op afstand, aan een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, is uitsluitend toegestaan, indien de desbetreffende persoon daarvoor voorafgaand toestemming heeft verleend onverminderd hetgeen is bepaald in lid 3.   
-3.  Een ieder die elektronische contactgegevens voor elektronische berichten heeft verkregen in het kader van de verkoop van een zaak mag deze gegevens gebruiken voor het overbrengen van communicatie ter bevordering van de totstandkoming van een koop op afstand met betrekking tot eigen gelijksoortige zaken, mits bij de verkrijging van de contactgegevens aan de klant duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, indien de klant hiervan geen gebruik heeft gemaakt, hem bij elke overgebrachte communicatie de mogelijkheid wordt geboden om onder dezelfde voorwaarden verzet aan te tekenen tegen het verder gebruik van zijn elektronische contactgegevens. [Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
-4.  Bij het gebruik van elektronische berichten ter bevordering van de totstandkoming van een koop op afstand dienen te allen tijde de volgende gegevens te worden vermeld: 
-
-a. de werkelijke identiteit van degene namens wie de communicatie wordt overgebracht, en 
-
-b. een geldig postadres of nummer waaraan de ontvanger een verzoek tot beëindiging van dergelijke communicatie kan richten.  
-5.  Het gebruik van andere dan de in lid 2 genoemde technieken voor communicatie op afstand voor het overbrengen van ongevraagde communicatie of het doen van ongevraagde mededelingen, ter bevordering van de totstandkoming van een koop op afstand, aan een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, is toegestaan, tenzij de desbetreffende persoon te kennen heeft gegeven dat hij communicatie of mededelingen waarbij van deze technieken gebruik wordt gemaakt, niet wenst te ontvangen.   
-6.  Degene die ongevraagd communicatie overbrengt of mededelingen doet ter bevordering van de totstandkoming van een koop op afstand, neemt passende maatregelen om ten minste eenmaal per jaar de personen, bedoeld in lid 5, bekend te maken met de mogelijkheden tot het doen van een kennisgeving als bedoeld in lid 5. De bekendmaking kan via een of meer dag-, nieuws- of huis-aan-huisbladen of op een andere geschikte wijze plaatsvinden.   
-7.  Aan de maatregelen, bedoeld in de leden 2 en 5, zijn voor de in die leden bedoelde personen geen kosten verbonden. 
-
-### Artikel  46i  
-
-1.  De artikelen 46b lid 2, 46c, 46d leden 1–3 en 4, onderdeel a, 46e en 46f leden 1 en 2 zijn van overeenkomstige toepassing op de overeenkomst op afstand tot het verrichten van diensten die niet een financiële dienst zijn. De artikelen 46g–46h zijn van overeenkomstige toepassing op overeenkomsten op afstand tot het verrichten van diensten.  
-2.  In afwijking van lid 1 zijn de in dat lid genoemde artikelen niet van toepassing op de overeenkomst op afstand: 
-
-a. tot het verrichten van diensten, die wordt gesloten met een telecommunicatie-exploitant door gebruikmaking van een openbare telefoon;  
-
-b. tot aanneming van werk die strekt tot de bouw van een onroerende zaak.     
-3.  In afwijking van lid 1 zijn de artikelen 46c-46e en 46f lid 1 niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten die logies, vervoer, het restaurantbedrijf of vrijetijdsbesteding betreft, indien de dienstverlener zich er bij het sluiten van de overeenkomst toe verplicht, deze diensten te verrichten op een bepaalde datum of tijdens een bepaalde periode.   
-4.  In afwijking van lid 1 is artikel 46c lid 2 niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten die in één keer worden verricht met behulp van een techniek voor communicatie op afstand en die in rekening worden gebracht door de communicatietechniekexploitant. Desalniettemin moet aan de wederpartij steeds het bezoekadres van de vestiging van de dienstverlener waar de wederpartij een klacht kan indienen, worden medegedeeld.   
-5.  In afwijking van lid 1 is artikel 46d niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten: 
-
-a. waarvan de nakoming met instemming van de wederpartij is begonnen voordat de in artikel 46d lid 1, eerste en derde volzin, bedoelde termijn is verstreken;  
-
-b. betreffende weddenschappen en loterijen.     
-6.  In geval van een overeenkomst op afstand tot het verrichten van diensten lopen de in artikel 46d lid 1, eerste en tweede volzin, bedoelde termijnen vanaf het sluiten van de overeenkomst.   
-7. Een beding in een overeenkomst op afstand tot het verrichten van financiële diensten dat de wederpartij belast met het bewijs ter zake van de naleving van de verplichtingen die krachtens richtlijn nr. 2002/65/EG op de dienstverlener rusten, is vernietigbaar.
-
-### Artikel  46j  
-
-1.  Van deze afdeling kan niet ten nadele van de koper dan wel de wederpartij worden afgeweken.   
-2.  Lid 1 is niet van toepassing op artikel 46f lid 1.   
-3.  De toepasselijkheid op de overeenkomst van een recht dat de door richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper dan wel de wederpartij de bescherming verliest die hem krachtens richtlijn nr. 97/7/EG respectievelijk richtlijn nr. 2002/65/EG wordt geboden door de dwingende bepalingen van het recht van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.  
+Vervallen per 13-06-2014 
 
 ### Afdeling  10  
 
@@ -998,7 +880,7 @@ b. de dag waarop de consument de contractuele voorwaarden en informatie overeenk
 
 ### Artikel  67  
 
-1.  Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig artikel 46d lid 1 of 50d lid 1, [artikel 4:28 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) dan wel [artikel 25 van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md), is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.   
+1.  Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig [artikel 230o](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) of [artikel 230x van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) dan wel overeenkomstig artikel 50d lid 1 van Boek 7 van het Burgerlijk Wetboek, is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.   
 2.  Indien onder de gelieerde kredietovereenkomsten vallende goederen niet of slechts gedeeltelijk geleverd worden of niet beantwoorden aan de voorwaarden van de overeenkomst voor de levering van de goederen en de consument zijn rechten ter zake daarvan jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij volgens de genoemde overeenkomst recht heeft, is de consument gerechtigd zijn rechten jegens de kredietgever geldend te maken.   
 3.  Indien onder de gelieerde kredietovereenkomsten vallende diensten niet of slechts gedeeltelijk verricht worden of niet beantwoorden aan de voorwaarden van de overeenkomst voor het verrichten van de diensten en de consument zijn rechten ter zake daarvan jegens de dienstenaanbieder heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij volgens de genoemde overeenkomst recht heeft, is de consument gerechtigd zijn rechten jegens de kredietgever geldend te maken.   
 4.  Lid 1 is niet van toepassing op overeenkomsten betreffende effectenkrediet.  

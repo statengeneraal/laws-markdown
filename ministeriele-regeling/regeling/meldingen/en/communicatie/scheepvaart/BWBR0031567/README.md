@@ -177,6 +177,14 @@ Wijzigingen in de op grond van artikel 11 aangeleverde gegevens en wijzigingen v
 2.  Een melding als bedoeld in het eerste lid bevat in elk geval de gegevens, bedoeld in artikel 17, tweede lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.   
 3.  Een melding als bedoeld in [artikel 12, eerste lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) bevat naast de gegevens, bedoeld in het tweede lid, ook de genomen maatregelen met betrekking tot assistentie en berging en de hoeveelheid en soort van de olie, de schadelijke vloeistof, de schadelijke stof in verpakte vorm of de gevaarlijke stoffen aan boord.  
 
+### Artikel  15a  
+
+####Melding overige incidenten aan Kustwachtcentrum
+
+Treedt in werking per 18-06-2014 
+
+De melding van het verlies of de lozing van vistuig, bedoeld in voorschrift 10.6 van Bijlage V bij het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), wordt gedaan bij het Kustwachtcentrum in Den Helder. 
+
 ### Hoofdstuk  4  
 
 ####Internationale uitwisseling van scheepvaartgegevens

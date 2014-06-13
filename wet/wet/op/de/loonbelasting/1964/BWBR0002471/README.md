@@ -1564,6 +1564,11 @@ Artikel 19b, eerste lid, is niet van toepassing op een bij [artikel 66 van de In
 
 In afwijking in zoverre van artikel 18d, eerste lid, onderdeel b, wordt de mate van variatie in de hoogte van een pensioen dat vóór 1 januari 2013 is ingegaan ten laatste bij het bereiken van de 65-jarige leeftijd vastgesteld. 
 
+### Artikel  38m  
+Treedt in werking per 01-01-2015 
+
+In afwijking in zoverre van de artikelen 18a, 18b, 18c en 18e kunnen een ouderdomspensioen, een partnerpensioen, een wezenpensioen en een deelnemingsjarenpensioen meer bedragen dan de aldaar opgenomen maxima voor zover zulks het gevolg is van de omstandigheid dat artikel 18ga tot 1 januari 2015 niet van toepassing was. 
+
 ### Artikel  39  
 
 Artikel 13a, tweede lid, is niet van toepassing op:
@@ -1614,6 +1619,11 @@ b. in geval van een bedrag als bedoeld in artikel 11a, eerste lid, zoals dat op 
 
 2°. een beheerder van een beleggingsinstelling als bedoeld in artikel 11a, tweede lid, onderdelen b en c, zoals dat op 31 december 2013 luidde.       
 5.  Voor de toepassing van het vierde lid wordt een bedrag mede geacht voor 15 november 2013 door de inhoudingsplichtige, bedoeld in het vierde lid, te zijn overgemaakt naar een verzekeraar als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, zoals dat op 31 december 2013 luidde, ingeval die inhoudingsplichtige zich voor 15 november 2013 heeft verplicht als zodanige verzekeraar van de betreffende aanspraak op te treden.  
+
+### Artikel  39g  
+Treedt in werking per 01-01-2015 
+
+Artikel 10, vijfde lid, zoals dat luidde op 31 december 2014, blijft van toepassing op uitkeringen en verstrekkingen uit een voordien niet tot het loon gerekende aanspraak ingevolge een pensioenregeling als bedoeld in artikel 32bc, zoals dat luidde op 31 december 2014. 
 
 ### Artikel  40  
 

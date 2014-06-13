@@ -40,7 +40,7 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 ### Artikel  6  
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en een korte wapenstok. Het gebruikmaken van de korte wapenstok vervalt een jaar na het tijdstip van inwerkingtreding van dit besluit. 
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste lid en derde lid, van de Politiewet 2012](../../../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en een korte wapenstok. 
 
 ### Artikel  7  
 

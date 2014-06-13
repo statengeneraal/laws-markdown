@@ -4898,6 +4898,16 @@ b. indien de belastingplichtige een niet in Nederland wonende artiest of beroeps
 2. De prijsindexcijfers zijn de cijfers uit de «Consumentenprijsindex Alle Huishoudens, afgeleid» van het Centraal Bureau voor de Statistiek. De gemiddelde prijsindexcijfers worden berekend uit de prijsindexcijfers vermeld in het nummer van het Statistisch Bulletin, waarin het indexcijfer van de zevende respectievelijk negentiende aan het kalenderjaar voorafgaande maand voor het eerst, al dan niet voorlopig, wordt gepubliceerd.
 3. Indien de basis voor de prijsindexcijfers wijzigt, wordt bij ministeriële regeling aangegeven op welke wijze wordt overgegaan op de nieuwe reeks prijsindexcijfers.
 
+### Artikel  10.2a*  
+
+####Contractloonontwikkelingscorrectie
+
+Treedt in werking per 01-01-2016 
+
+1.  Het bedrag, genoemd in artikel 3.68, eerste lid, wordt bij het begin van het kalenderjaar bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het na toepassing van het tweede lid in artikel 3.127, derde lid, eerstvermelde bedrag, verminderd met het na toepassing van artikel 10.1 in artikel 3.127, derde lid, laatstvermelde bedrag, te vermenigvuldigen met het na toepassing van artikel 3.68, vierde lid, in artikel 3.68, eerste lid, genoemde percentage en vervolgens de nodig geachte afronding aan te brengen.   
+2.  Bij het begin van het kalenderjaar wordt het in artikel 3.127, derde lid, eerstvermelde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de contractloonontwikkelingsfactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.   
+3.  De contractloonontwikkelingsfactor is de verhouding van het bedrag, genoemd in artikel 8, eerste lid, onderdeel a, van de [Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), bij het begin van het kalenderjaar tot het bedrag, genoemd in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), bij het begin van het voorafgaande kalenderjaar.  
+
 ### Artikel  10.2a  
 
 ####Jaarlijkse aanpassing correctie tarief aftrekbare kosten eigen woning

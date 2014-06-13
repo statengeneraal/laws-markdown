@@ -25,13 +25,13 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 Wijzigt de Wet op de loonbelasting 1964. 
 
-### Artikel  V  
-
-Het in artikel I, onderdeel B, onder 1, eerstgenoemde bedrag en het in artikel I, onderdeel C, onder 2, laatstgenoemde bedrag worden per 1 januari 2014 bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en vervolgens de nodig geachte afronding aan te brengen. 
-
 ### Artikel  VI  
 
 Het in artikel I, onderdeel B, onder 1, laatstgenoemde bedrag wordt per 1 januari 2015 bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het per 1 januari 2015 in [artikel 3.127, derde lid, van de Wet inkomstenbelasting 2001](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) eerstgenoemde bedrag, verminderd met het na toepassing van [artikel 10.1 van die wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) per 1 januari 2015 in artikel 3.127, derde lid, van die wet laatstgenoemde bedrag, te vermenigvuldigen met het na toepassing van [artikel 3.68, vierde lid, van die wet](../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) per 1 januari 2015 in artikel 3.68, eerste lid, van die wet genoemde percentage en vervolgens de nodig geachte afronding aan te brengen. 
+
+### Artikel  VIa  
+
+Wijzigt de Successiewet 1956.
 
 ### Artikel  VII  
 
@@ -45,9 +45,13 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 Wijzigt de Invoerings- en aanpassingswet Pensioenwet. 
 
+### Artikel  IXa  
+
+Wijzigt de Wet financiering sociale verzekeringen.
+
 ### Artikel  X  
 
-Deze wet treedt in werking met ingang van 1 januari 2014. 
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  XI  
 

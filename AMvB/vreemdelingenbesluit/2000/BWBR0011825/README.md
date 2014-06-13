@@ -2173,14 +2173,15 @@ e.op grond van [artikel 6, eerste lid, onder a of b, van de Wet inburgering](../
 4.  Gedurende de rust- en voorbereidingstermijn kan onderzoek plaatsvinden naar de identiteit, vingerafdrukken en nationaliteit van de vreemdeling, naar de bij hem aangetroffen of door hem overgelegde documenten en bescheiden, dan wel naar de vraag of artikel 30, eerste lid kan worden toegepast.  
 5.  Van de vreemdeling die de in het eerste lid bedoelde aanvraag heeft ingediend, worden door Onze Minister een gezichtsopname gemaakt en vingerafdrukken afgenomen en opgeslagen. De vreemdeling verleent hieraan zijn medewerking.   
 6.  De vreemdeling die de in het eerste lid bedoelde aanvraag heeft ingediend wordt een medisch onderzoek aangeboden. Voor dit onderzoek is de schriftelijke toestemming van de vreemdeling vereist.   
-7.  In afwijking van het eerste lid wordt geen rust- en voorbereidingstermijn gegeven: 
+7.  In afwijking van het eerste lid wordt geen rust- en voorbereidingstermijn gegeven indien: 
 
 a. de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid;  
 
-b. de vreemdeling overlast bezorgt aan vreemdelingen die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen; of  
+b. de vreemdeling overlast bezorgt aan vreemdelingen die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen;  
 
-c. de vreemdeling rechtens zijn vrijheid is ontnomen op grond van [artikel 59](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [59a van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij de aanvraag wordt ingediend in een Aanmeldcentrum.     
-8.  Bij ministeriële regeling kan worden bepaald dat geen rust en voorbereidingstermijn wordt gegeven indien de aanvraag wordt ingediend in het Aanmeldcentrum Schiphol.  
+c. de vreemdeling rechtens zijn vrijheid is ontnomen op grond van [artikel 59](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [59a van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij de aanvraag wordt ingediend in een Aanmeldcentrum; of  
+
+d. de vreemdeling de aanvraag heeft ingediend nadat tegen hem een overdrachtsbesluit is uitgevaardigd en hem rechtens zijn vrijheid is ontnomen op grond van [artikel 6a](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [59a van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Artikel  3.110  
 
@@ -2944,7 +2945,7 @@ b. het zich laten fotograferen en het laten afnemen van vingerafdrukken.
 
 a. geen rechtmatig verblijf heeft en in afwachting is van de feitelijke mogelijkheid tot vertrek of uitzetting, of   
 
-b. rechtmatig verblijft als bedoeld in [artikel 8, onder f, g of h, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+b. rechtmatig verblijft als bedoeld in [artikel 8, onder f, g, h of m van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
 2.  De vreemdeling, bedoeld in het eerste lid, meldt zich wekelijks, tenzij Onze Minister een andere termijn stelt, dan wel ontheffing verleent.   
 3.  Het eerste lid is niet van toepassing, indien de vreemdeling rechtens zijn vrijheid is ontnomen.  
 4. Het eerste lid is niet van toepassing op onderdanen van een staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland.

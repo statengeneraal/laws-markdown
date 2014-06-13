@@ -233,6 +233,14 @@ a. met betrekking tot een lozing in de Nederlandse territoriale zee niet van toe
 
 b. met betrekking tot een lozing in de Nederlandse exclusieve economische zone en op volle zee van toepassing voor de eigenaar, de kapitein of de bemanning.   
 
+### Artikel  13a  
+
+####Nadere regels voor lozingen als onderdeel van een emissiereductiemethode
+
+Treedt in werking per 18-06-2014 
+
+Schepen die gebruik maken van emissiereductiemethoden als bedoeld in artikel 14, tweede lid, onderdeel c, lozen het in het kader van deze methoden ontstane afvalwater in overeenstemming met de in bijlage II van richtlijn 1999/32/EG opgenomen lozingscriteria. 
+
 ### Artikel  14  
 
 1.  In aanvulling op het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), is het verboden om: 
@@ -336,6 +344,23 @@ De ingevolge artikel 33, derde lid, van het besluit toepasselijke voorschriften 
 ####Uitvoering verordening (EG) 782/2003 
 
 Als besluit als bedoeld in [artikel 13, derde lid, van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt aangewezen artikel 6, eerste lid, onderdeel b, in samenhang met het tweede lid, tweede alinea, van verordening (EG) 782/2003. 
+
+### Artikel  16a  
+
+####Uitvoering Bijlage V bij het Verdrag
+
+Treedt in werking per 18-06-2014 
+
+Als stof als bedoeld in [artikel 12, eerste lid, van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt aangewezen vistuig als bedoeld in voorschrift 1 van Bijlage V bij het Verdrag. 
+
+### Artikel  16b  
+
+####Regels met betrekking tot het toezicht op de naleving
+
+Treedt in werking per 18-06-2014 
+
+1.  Bij het houden van toezicht op de naleving van [artikel 31, tweede lid, aanhef en onder a van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) en artikel 14 van deze regeling wordt artikel 6 van richtlijn 1999/32 in acht genomen.   
+2.  Bij het houden van toezicht op de naleving van de [artikelen 12b](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) en [12c van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt artikel 11 van de richtlijn havenontvangstvoorzieningen in acht genomen.  
 
 ### Hoofdstuk  7  
 

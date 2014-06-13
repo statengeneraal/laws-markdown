@@ -1143,3 +1143,19 @@ Voor zover de aansprakelijkheid ter zake van een aanvaring in volle zee niet wor
 1.  De rechten, genoemd in het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86) worden erkend onder de voorwaarden en met de gevolgen in dat verdrag vermeld.   
 2.  Deze erkenning werkt niet ten nadele van een beslagleggende crediteur of van de koper ter executie, wanneer de vestiging of overdracht van bedoelde rechten geschiedde door de geëxecuteerde, terwijl hij kennis droeg van het beslag.  
 
+###Titel 16 
+
+####Arbitrage
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  166  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 154 is een overeenkomst tot arbitrage materieel geldig als zij geldig is naar het recht dat partijen hebben gekozen of naar het recht van de plaats van arbitrage of, indien partijen geen rechtskeuze hebben gedaan, naar het recht dat van toepassing is op de rechtsbetrekking waarop de arbitrageovereenkomst betrekking heeft. 
+
+### Artikel  167  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien een Staat, andere publiekrechtelijke rechtspersoon of staatsonderneming partij is bij een overeenkomst tot arbitrage, kan hij geen beroep doen op zijn wet of regelgeving teneinde zijn bekwaamheid of bevoegdheid tot het aangaan van de overeenkomst tot arbitrage of de vatbaarheid van het geschil voor beslissing door arbitrage te betwisten, indien de wederpartij deze regeling kende noch behoorde te kennen. 
+

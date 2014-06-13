@@ -199,10 +199,6 @@ Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
 
 Wijzigt de Fiscale verzamelwet 2013. 
 
-### Artikel  XXXIII  
-
-Wijzigt de Wet verlaging maximumopbouw- en premiepercentages pensioen en maximering pensioengevend inkomen (kst. 33610). 
-
 ### Artikel  XXXIIIa  
 
 Wijzigt de Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten (afschaffing algmene tegemoetkoming chronisch zieken en gehandicapten, enz.) (kst. 33726). 
@@ -264,9 +260,7 @@ j. de artikelen XXIXA en XXX toepassing vinden voordat [artikel II van het Belas
 
 k. artikel XXXI, onderdeel A, toepassing vindt voordat [artikel XXVA van de Wet uitwerking autobrief](../../../../wet/wet/uitwerking/autobrief/BWBR0030923/README.md) wordt toegepast;  
 
-l. artikel XXXII toepassing vindt voordat [artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](../../../../wet/wet/uitwerking/fiscale/maatregelen/begrotingsakkoord/2013/BWBR0031798/README.md) wordt toegepast;  
-
-m. artikel XXXIII toepassing vindt voordat artikel V van de Wet verlaging maximumopbouw- en premiepercentages pensioen en maximering pensioengevend inkomen wordt toegepast.     
+l. artikel XXXII toepassing vindt voordat [artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](../../../../wet/wet/uitwerking/fiscale/maatregelen/begrotingsakkoord/2013/BWBR0031798/README.md) wordt toegepast.     
 2.  Artikel XIV, onderdeel B, werkt terug tot en met 29 oktober 2012.   
 3.  De artikelen I, onderdeel Ea, en XXVIIA, onderdeel C, werken terug tot en met 1 januari 2013.   
 4.  Artikel I, onderdeel F, en artikel XIV, onderdeel C, werken terug tot en met 1 oktober 2013.   
