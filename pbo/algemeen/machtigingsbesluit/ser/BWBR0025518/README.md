@@ -37,6 +37,11 @@ b. wet: [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorg
 1. Het dagelijks bestuur wordt mandaat verleend met betrekking tot het nemen van besluiten ten aanzien van de taken en bevoegdheden die in de statuten van de Stichting Certificering Opleiding Ondernemingsraden aan de Raad zijn opgedragen.
 2. Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.
 
+###Artikel 2c 
+
+1. Het dagelijks bestuur wijst, ten behoeve van de controle van de jaarrekening en de daarop betrekking hebbende boeken en bescheiden, namens de Raad een accountant aan, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).
+2. Het dagelijks bestuur verstrekt namens de Raad jaarlijks voor 1 juli een raming van de inkomsten en uitgaven van de Raad in het volgende begrotingsjaar aan de Minister van Sociale Zaken en Werkgelegenheid.
+
 ###Artikel 3 
 
 Het dagelijks bestuur is gemachtigd namens de Raad voordrachten te doen voor benoeming van leden en plaatsvervangende leden van adviesorganen van de Europese Unie, indien daartoe een verzoek wordt ontvangen. 

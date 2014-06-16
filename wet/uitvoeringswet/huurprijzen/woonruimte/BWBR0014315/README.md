@@ -323,6 +323,12 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 2.  De artikelen 11, tweede lid, en 13, vierde lid, zijn van overeenkomstige toepassing.   
 3.  Indien de huurcommissie van oordeel is dat niet een huurprijs is overeengekomen, vermeldt zij in haar uitspraak dat de door haar uitgesproken huurprijs en het voorschotbedrag voor de servicekosten in de plaats treden van de overeengekomen prijs met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
 
+### Artikel  17a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ingeval bij een verzoek als bedoeld in [artikel 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:253](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:254](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:255](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:257, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:260](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of [7:261, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), blijkt dat de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurcommissie, voordat een uitspraak wordt gegeven, ambtshalve de huurprijs vaststellen op 55% van de overeengekomen prijs en, voor zover nodig, het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter en servicekosten op 25% van de overeengekomen prijs.   
+2.  Artikel 17, tweede lid, is van overeenkomstige toepassing.  
+
 ### §  8  
 
 ####De betalingsverplichting met betrekking tot de servicekosten

@@ -107,17 +107,17 @@ Any of the following products are subject to the 1973 Intervention Protocol if t
 
 2. *Noxious Liquid Substances*, as defined in [Annex II to MARPOL 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), as amended, when carried in bulk, and identified: 
 
-.1as Pollution Category A or B, in:
+.1 as Pollution Category X or Y, in: 
 
-.1Chapter 17 of the International Bulk Chemical Code (IBC Code); or  
+.1 Chapter 17 of the International Bulk Chemical Code (IBC Code); or  
 
-.2Lists 1 to 4 of MEPC.2/Circulars, issued annually in December; or  
+.2 Lists 1 to 4 of MEPC.2/Circulars, issued annually in December; or    
 
-.2in the composite list of GESAMP Hazard Profiles, issued periodically as BLG Circulars, with either:
+.2 in the composite list of GESAMP Hazard Profiles, issued periodically as BLG circulars, with either: 
 
-.1a ‘2’ in column B and .XX. in column E; or  
+.1 a “2” in column B1 and “2” in column E3; or  
 
-.2‘XXX’ in column E;  
+.2 “3” in column E3;     
 
 3. *Harmful substances*, in packaged form, as defined in [Annex III to MARPOL 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), as amended, and which have been identified as Severe Marine Pollutants (PP) in the International Maritime Dangerous Goods Code (IMDG Code) or which meet the criteria for such as defined in the IMDG Code;  
 

@@ -265,21 +265,21 @@ b)ATC Reykjavik - MET Reykjavik.
 
 c)MET Reykjavik - MET Keflavik.
 
-d)ATC Reykjavik - ATC Gander (Søndre Stremfjørd) - (omnibus).<sup>2  The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
+d)ATC Reykjavik - ATC Gander (Søndre Stremfjørd) - (omnibus).<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
 
-e) ATC Reykjavik - OAC Prestwick/Shanwick - (omnibus).<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup> 
+e) ATC Reykjavik - OAC Prestwick/Shanwick - (omnibus).<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup> 
 
-f)ATC Reykjavik - ATC Gander (Edmonton).<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
+f)ATC Reykjavik - ATC Gander (Edmonton).<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
 
-g)ATC Reykjavik - ATC Prestwick/Scottish - (Stavanger) - (Bodø).<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
+g)ATC Reykjavik - ATC Prestwick/Scottish - (Stavanger) - (Bodø).<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
 
 7.Satellite, telegraph and data services:
 
 a)Regional Telecommunications Hub Bracknell - MET receiving unit Reykjavik.
 
-b)Reykjavik OACC - Prestwick/Shanwick OACC.<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
+b)Reykjavik OACC - Prestwick/Shanwick OACC.<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
 
-c)Reykjavik OACC - Gander OACC.<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup> 
+c)Reykjavik OACC - Gander OACC.<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup> 
 ### *B. Gufunes* 
 
 1.Aeronautical mobile service with aircraft on HF and VHF extended range. The VHF extended range system comprises stations at Hafell, Thorbjorn, Gagnheidi and Thverfjall as well as the lines necessary for their remote control from Gufunes.
@@ -314,9 +314,9 @@ a) Gufunes - Rjupnahaed: 15 lines.
 
 a)Duplex teletypewriter service between the Gufunes (Reykjavik) AFTN station and the AFTN station at Søndre Strømfjord.<sup> 3 Service performed using landlines from Gufunes to Keflavik and tropo scatter from there to Søndre Strømfjord. </sup>
 
-b)Duplex teletypewriter service between the Gufunes (Reykjavik) AFTN station and the AFTN station at Montreal.<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System. </sup>
+b)Duplex teletypewriter service between the Gufunes (Reykjavik) AFTN station and the AFTN station at Montreal.<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>
 
-c)Duplex teletypewriter service between the Gufunes (Reykjavik) AFTN station and the AFTN station at London.<sup> 2 The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System. </sup> 
+c)Duplex teletypewriter service between the Gufunes (Reykjavik) AFTN station and the AFTN station at London<sup>2The services listed under A 6 d), e), f) and g) and B 6 a), b) and c) are to be provided by landlines from ATC Reykjavik and COM Gufunes to the Civil Communications Centre of the PTT in Reykjavik, and from there by microwave radio links to the Earth Station Skyggnir, where connexion is made with the United Kingdom and Canada through the INTELSAT System.</sup>. 
 ### *C. Rjupnahead* 
 
 HF transmitting station.    

@@ -181,5 +181,5 @@ Dit Protocol maakt wezenlijk onderdeel uit van het op 31 maart 1965 te Brussel g
 
 Met ingang van de dag waarop dit Protocol in werking treedt, wordt het Protocol van 1974 betreffende de rechtsbescherming van de personen in dienst van het Benelux-Merkenbureau en het Benelux Bureau voor Tekeningen of Modellen beëindigd. 
 
-TEN BLIJKE WAARVAN, de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Brussel, op 24 oktober 2008, in drievoud in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. *Voor de Regering van het Koninkrijk België,* K. DE GUCHT *Voor de Regering van het Groothertogdom Luxemburg,* J. ASSELBORN *Voor de Regering van het Koninkrijk der Nederlanden,* mevr. J.H.M. POLLMANN-ZAAL  
+TEN BLIJKE WAARVAN, de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Brussel, op 24 oktober 2008, in drievoud in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.  
 

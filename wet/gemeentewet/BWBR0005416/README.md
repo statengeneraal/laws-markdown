@@ -1722,7 +1722,7 @@ b. dat de minderjarige zich op bepaalde dagen gedurende een aangegeven tijdvak t
 5.  De [artikelen 5:25 tot en met 5:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. De burgemeester kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigde kosten invorderen bij dwangbevel.  
 
 ### Artikel  174b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, kan de burgemeester in een onvoorziene, spoedeisende situatie een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, voor ten hoogste twaalf uur aanwijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [51, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [52, derde lid, van de Wet wapens en munitie](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) toepassen.   
 2.  Voordat de burgemeester het gebied aanwijst, overlegt hij met de officier van justitie.   
