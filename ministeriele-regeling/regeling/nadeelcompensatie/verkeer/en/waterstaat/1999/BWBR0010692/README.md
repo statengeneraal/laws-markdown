@@ -11,7 +11,7 @@ De Minister van Verkeer en Waterstaat,  Besluit tot vaststelling van de navolgen
 
 ####Begripsomschrijvingen
 
-In deze regeling wordt verstaan onder:   de minister:   de Minister van Verkeer en Waterstaat;    de commissie:   het adviesorgaan bedoeld in artikel 15, eerste lid;    verzoek:   een verzoek om schadevergoeding als bedoeld in artikel 13, dan wel artikel 20;    verzoeker:   de indiener van een verzoek als bedoeld in artikel 13 dan wel artikel 20.     
+In deze regeling wordt verstaan onder:   de minister:  de Minister van Infrastructuur en Milieu;    de commissie:   het adviesorgaan bedoeld in artikel 15, eerste lid;  de normkosten:de kosten die naar redelijke verwachting gemaakt zouden zijn, indien de schadeoorzaak, bedoeld in artikel 2, eerste lid, niet had plaatsgevonden;de normomzet:de omzet die naar redelijke verwachting behaald zou zijn, indien de schadeoorzaak, bedoeld in artikel 2, eerste lid, niet had plaatsgevonden;  verzoek:   een verzoek om schadevergoeding als bedoeld in artikel 13, dan wel artikel 20;    verzoeker:   de indiener van een verzoek als bedoeld in artikel 13 dan wel artikel 20.     
 
 ### Artikel 2  
 
@@ -25,7 +25,17 @@ In deze regeling wordt verstaan onder:   de minister:   de Minister van Verkeer 
 
 ####Abnormale last
 
-Binnen het normale maatschappelijk risico of het normale ondernemersrisico vallende schade komt niet voor vergoeding in aanmerking.  
+1.  Binnen het normaal maatschappelijk risico of het normaal ondernemersrisico vallende schade komt niet voor vergoeding in aanmerking.   
+2.  Schade die minder bedraagt dan € 1.000,– valt in ieder geval binnen het normaal maatschappelijk risico of het normaal ondernemersrisico.  
+
+### Artikel  3a  
+
+####Ondernemersrisico en tijdelijke schade door infrastructurele maatregelen
+
+1.  Onverminderd artikel 2, eerste lid, valt schade ten gevolge van een infrastructurele maatregel in ieder geval binnen het normaal ondernemersrisico indien de schade het gevolg is van een tijdelijke omzetdaling dan wel een tijdelijke kostenstijging en die omzetdaling dan wel kostenstijging niet uitgaat boven de drempelwaarde van 15% van de normomzet op jaarbasis dan wel de normkosten op jaarbasis.   
+2.  Indien de infrastructurele maatregel naar aard, duur of voorzienbaarheid bijzonder dan wel uitzonderlijk is, kan de Minister een lager drempelpercentage dan bedoeld in het eerste lid toepassen.   
+3.  Voorts kan de Minister een lager drempelpercentage dan bedoeld in het eerste en tweede lid, toepassen, indien op aangeven van verzoeker bijzondere omstandigheden, die verband houden met de ernst van de schade voor de onderneming van verzoeker, daartoe aanleiding geven.   
+4.  Indien de omzetdaling dan wel kostenstijging de drempelwaarde, bedoeld in het eerste, tweede of derde lid, overstijgt, wordt door de Minister ter bepaling van het normaal ondernemersrisico een kortingspercentage gehanteerd ten aanzien van de geleden schade.  
 
 ### Artikel 4  
 
@@ -186,7 +196,7 @@ d.  de vraag of vergoeding van de schade niet, of niet voldoende, anderszins is 
 
 ####Citeertitel
 
-Deze regeling kan worden aangehaald als: Regeling nadeelcompensatie Verkeer en Waterstaat 1999.  
+Deze regeling wordt aangehaald als: Beleidsregel nadeelcompensatie Infrastructuur en Milieu 2014. 
 
 ### Artikel 22  
 

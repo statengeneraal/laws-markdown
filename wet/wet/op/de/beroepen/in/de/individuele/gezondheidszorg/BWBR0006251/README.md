@@ -152,7 +152,7 @@ c. de datum waarop de schorsing is geëindigd of vanaf welke het bevel, de in ee
 ### Artikel  10  
 
 1. Iedere inschrijving, aantekening of doorhaling in een register geschiedt op grond van een daartoe strekkende gedagtekende beschikking. 
-2. Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).
+2. Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en, indien de inschrijving, aantekening of doorhaling een arts of een psychotherapeut betreft, de beheerder van de autorisatielijst van jeugdzorgaanbieders, bedoeld in [artikel 2y van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).
 
 ### Artikel  11  
 

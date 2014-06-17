@@ -958,6 +958,13 @@ c. de naam en adresgegevens van degene aan wie de transponder is geleverd;
 
 d. de naam van de instantie, bedoeld in artikel 38v, derde of vierde lid, dat het identificatiedocument van de paardachtige waarbij de transponder is ingebracht, heeft afgegeven.    
 
+### Artikel  38bb  
+Treedt in werking per 01-07-2014 
+
+1.  Indien paarden worden aangevoerd op een slachthuis, controleert de houder, overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer of de paarden overeenkomstig artikel 13, eerste lid, onderdeel d, zijn geïdentificeerd en geregistreerd.   
+2.  Indien bij de in het eerste lid bedoelde controle blijkt dat paarden niet volledig zijn geïdentificeerd en geregistreerd of op grond van de identificatie en registratie niet geslacht mogen worden voor menselijke consumptie, doet de houder hiervan terstond melding aan de NVWA.   
+3.  De paarden, bedoeld in het tweede lid, worden terstond afgezonderd van de overige paarden in het slachthuis. De ambtenaar van de NVWA kan ter zake aanwijzingen geven.  
+
 ### § 8 
 
 ####Overige bepalingen over de identificatie en registratie

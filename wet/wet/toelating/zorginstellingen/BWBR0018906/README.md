@@ -95,7 +95,7 @@ Indien het verlenen van een toelating niet mogelijk is op grond van artikel 7, d
 a. de exploitatie past in de beleidsregels, bedoeld in artikel 4;  
 
 b. het organisatorisch verband voldoet aan bij algemene maatregel van bestuur te stellen eisen omtrent de bestuursstructuur, alsmede omtrent waarborgen voor een ordelijke en controleerbare bedrijfsvoering.     
-2.  Van de verleende toelatingen doet Onze Minister mededeling in de Staatscourant en aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).  
+2.  Van de verleende toelatingen doet Onze Minister mededeling in de Staatscourant en aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) alsmede, indien de toelating een instelling met artsen of psychotherapeuten betreft, de beheerder van de autorisatielijst van jeugdzorgaanbieders, bedoeld in [artikel 2y van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
 
 ### Artikel  10  
 
@@ -141,7 +141,7 @@ c. beperkingen wijzigen of intrekken;
 
 d. een toelating intrekken.     
 2.  Alvorens over te gaan tot een maatregel als bedoeld in het eerste lid, onder b of d, stelt Onze Minister de zorgverzekeraars in de zin van [artikel 1, onderdeel b, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), waarmee de instelling een overeenkomst heeft gesloten, het college van burgemeester en wethouders van de gemeente waarin de instelling zich bevindt, en het bestuur en medewerkers van de betrokken instelling de gelegenheid om binnen een door Onze Minister te bepalen termijn hun opmerkingen omtrent dit voornemen aan hem kenbaar te maken.   
-3.  Onze Minister doet van een beslissing tot beperking of intrekking van een toelating op grond van het eerste lid, onder b of d, mededeling in de Staatscourant en zendt een afschrift van deze beschikking aan het College sanering en aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).  
+3.  Onze Minister doet van een beslissing tot beperking of intrekking van een toelating op grond van het eerste lid, onder b of d, mededeling in de Staatscourant en zendt een afschrift van deze beschikking aan het College sanering en aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet gebruik burgerservicenummer in de zorg](../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) alsmede, indien het een beslissing tot beperking of intrekking van een toelating van een instelling met artsen of psychotherapeuten betreft, de beheerder van de autorisatielijst van jeugdzorgaanbieders, bedoeld in [artikel 2y van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
 
 ### Artikel  15  
 

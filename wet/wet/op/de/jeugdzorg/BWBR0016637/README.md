@@ -22,6 +22,8 @@ accommodatie: een accommodatie als bedoeld in artikel 29k, eerste lid;
 
 bureau jeugdzorg: een bureau als bedoeld in artikel 4; 
 
+burgerservicenummer: burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md); 
+
 cliënt: jeugdige, zijn ouders of stiefouders of anderen die een jeugdige als behorend tot hun gezin verzorgen en opvoeden, met uitzondering van pleegouders; 
 
 experiment: het ontwikkelen en in de praktijk beproeven van nieuwe en het verbeteren van bestaande methoden, werkvormen of hulpmiddelen ten behoeve van het functioneren van bureaus jeugdzorg en van jeugdzorg waarop ingevolge deze wet aanspraak bestaat; 
@@ -96,9 +98,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *jeugdige:* persoon die de leeftijd van 23 jaar nog niet heeft bereikt;  
 
-b.  *burgerservicenummer:* burgerservicenummer als bedoeld in [artikel 1, onder d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
-
-c.  *hulp, zorg of bijsturing:* werkzaamheden die een meldingsbevoegde op grond van de voor hem geldende regelgeving ten behoeve van een jeugdige verricht.   
+b.  *hulp, zorg of bijsturing:* werkzaamheden die een meldingsbevoegde op grond van de voor hem geldende regelgeving ten behoeve van een jeugdige verricht.   
 
 ### Artikel  2b  
 
@@ -276,16 +276,11 @@ c. zo spoedig mogelijk na het overlijden van de jeugdige.
 
 ####Het gebruik van het burgerservicenummer in de jeugdzorg
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  1  
 
 ####Het gebruik van het burgerservicenummer
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2r  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Stichtingen en zorgaanbieders gebruiken het burgerservicenummer van een cliënt met het doel te waarborgen dat de in het kader van de uitvoering van deze wet te verwerken persoonsgegevens op die cliënt betrekking hebben.   
 2.  Het eerste lid is niet van toepassing op een stichting, voor zover deze ter uitvoering van de taken, bedoeld in artikel 10, eerste lid, onderdelen c en d, persoonsgegevens uitwisselt van verdachten en veroordeelden ten behoeve van de toepassing van het strafrecht.  
@@ -294,20 +289,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Het vaststellen van het burgerservicenummer
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2s  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De stichting stelt het burgerservicenummer van een cliënt vast wanneer de cliënt voor de eerste maal contact met haar heeft in het kader van de uitvoering van deze wet. 
 
 ### Artikel  2t  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De zorgaanbieder stelt het burgerservicenummer van een cliënt vast wanneer de cliënt voor de eerste maal contact met hem heeft ter verkrijging van jeugdzorg waarop ingevolge deze wet aanspraak bestaat. 
 
 ### Artikel  2u  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Teneinde het burgerservicenummer van de cliënt vast te stellen, raadplegen de zorgaanbieder en de stichting het nummerregister en de voorzieningen, bedoeld in [artikel 3, eerste lid, onder b en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).   
 2.  De zorgaanbieder en de stichting kunnen de raadpleging, bedoeld in het eerste lid, achterwege laten, indien: 
@@ -317,7 +307,6 @@ a. het burgerservicenummer is verstrekt door een gebruiker als bedoeld in [artik
 b. zij het burgerservicenummer hebben verkregen uit een basisadministratie van persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).    
 
 ### Artikel  2v  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien aan een cliënt geen burgerservicenummer is toegekend: 
 
@@ -334,7 +323,6 @@ a. nemen stichtingen en zorgaanbieders in ieder geval de volgende gegevens van d
 b. vermelden stichtingen en zorgaanbieders de gegevens, bedoeld in onderdeel a, bij het verstrekken van persoonsgegevens met betrekking tot de verlening van, indicatiestelling voor of verzekering van zorg aan een zorgaanbieder, een indicatieorgaan, als bedoeld in [artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of [artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), of een zorgverzekeraar.   
 
 ### Artikel  2w  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij ministeriële regeling wordt bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de artikelen 2r en 2v, voldoet. 
 
@@ -342,10 +330,7 @@ Bij ministeriële regeling wordt bepaald aan welke beveiligingseisen de gegevens
 
 ####Spoedeisende jeugdzorg
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2x  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Stichtingen en zorgaanbieders kunnen van de bij de artikelen 2r tot en met 2v gestelde verplichtingen afwijken voor zolang dit noodzakelijk is met betrekking tot gevallen als bedoeld in artikel 3, vijfde lid. 
 
@@ -353,15 +338,11 @@ Stichtingen en zorgaanbieders kunnen van de bij de artikelen 2r tot en met 2v ge
 
 ####Autorisatielijst
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2y  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Onze Minister van Volksgezondheid, Welzijn en Sport of een door hem aangewezen instelling beheert een autorisatielijst van jeugdzorgaanbieders, waarin een zorgaanbieder op zijn verzoek wordt opgenomen teneinde gebruik te kunnen maken van het nummerregister en de voorzieningen, bedoeld in [artikel 3, eerste lid, onder b en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md). 
 
 ### Artikel  2z  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over: 
 
@@ -1159,7 +1140,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de stichtingen, de zor
 
 1.  De stichtingen verstrekken ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens aan gedeputeerde staten van de betrokken provincie en de betrokken zorgverzekeraars.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat de raad voor de kinderbescherming en de justitiële jeugdinrichtingen, bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens verstrekken aan Onze Minister van Veiligheid en Justitie of de provincies. Bij die maatregel kan worden geregeld dat zorgaanbieders gegevens verstrekken aan gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, tweede lid, en aanbieders van andere zorg aan de betrokken zorgverzekeraars ten behoeve van de verwerking bedoeld in artikel 42, derde lid.   
-3.  Gedeputeerde staten verstrekken gegevens aan Onze Ministers ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
+3.  Gedeputeerde Staten en zorgaanbieders bij wie een machtiging ten uitvoer kan worden gelegd, verstrekken gegevens aan Onze Ministers ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.  
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat de zorgverzekeraars gegevens verstrekken aan Onze Ministers of gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, eerste of tweede lid.   
 5.  Onze Ministers verstrekken de gegevens aan de provincies en de betrokken zorgverzekeraars ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
 6.  Bij of krachtens algemene maatregel van bestuur wordt met het oog op de verwerking, bedoeld in artikel 42, bepaald: 
@@ -1216,12 +1197,14 @@ d. het toezicht op de naleving van [artikel 9 van de Wet Centraal Orgaan opvang 
 10.  De inspectie stelt jaarlijks een verslag op van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdzorg nodig acht. Het verslag wordt gezonden aan de provinciebesturen, Onze Ministers en de Tweede Kamer der Staten-Generaal.   
 11.  Onze Ministers kunnen regels stellen omtrent de organisatie van de inspectie.  
 
-###Artikel 48 
+### Artikel  48  
 
-1. De stichtingen en de zorgaanbieders verstrekken desgevraagd alle inlichtingen en leggen desgevraagd alle bescheiden die voor een juiste taakuitoefening noodzakelijk zijn te achten over aan de door gedeputeerde staten aangewezen ambtenaren die belast zijn met de controle op de rechtmatige en doelmatige besteding van de door gedeputeerde staten verleende subsidies.
-2. De stichtingen en de zorgaanbieders verlenen de in het eerste lid bedoelde ambtenaren desgevraagd toegang tot de gebouwen waarin zij hun werkzaamheden verrichten.
-3. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich van het geven van inlichtingen of het overleggen van inzage verschonen, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.
-4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op de subsidies, bedoeld in artikel 38.
+1.  De stichtingen en de zorgaanbieders verstrekken desgevraagd alle inlichtingen en leggen desgevraagd alle bescheiden die voor een juiste taakuitoefening noodzakelijk zijn te achten over aan de door gedeputeerde staten aangewezen ambtenaren die belast zijn met de controle op de rechtmatige en doelmatige besteding van de door gedeputeerde staten verleende subsidies.   
+2.  De stichtingen en de zorgaanbieders verlenen de in het eerste lid bedoelde ambtenaren desgevraagd toegang tot de gebouwen waarin zij hun werkzaamheden verrichten.   
+3.  Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich van het geven van inlichtingen of het overleggen van inzage verschonen, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.   
+4.  In afwijking van het derde lid en van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zijn de door Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen ambtenaren die belast zijn met de controle op de rechtmatige en doelmatige besteding van de door Onze Minister van Volksgezondheid, Welzijn en Sport verleende subsidies bevoegd tot inzage van cliëntdossiers, waaronder gegevens als bedoeld in artikel 45, tweede lid, voor zover dat noodzakelijk is voor de controle op de rechtmatige en doelmatige besteding van subsidies die zijn verleend aan zorgaanbieders bij wie een machtiging ten uitvoer kan worden gelegd. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.   
+5.  Op de verwerking van de gegevens, bedoeld in het vierde lid, is artikel 45, derde lid, van overeenkomstige toepassing.  
+6.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op de subsidies, bedoeld in artikel 38.  
 
 ### Hoofdstuk  IX  
 
@@ -1731,7 +1714,6 @@ d.het bestaan van wachtlijsten, en
 e.een evaluatie van de werking van de bekostigingssystematiek.
 
 ### Artikel  110a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onverminderd artikel 2v stelt de zorgaanbieder het burgerservicenummer van een persoon die op de datum van inwerkingtreding van hoofdstuk 1b reeds een cliënt van de zorgaanbieder is, vast binnen 12 weken na laatstgenoemde datum, tenzij redelijkerwijs niet te verwachten is dat de betrokken cliënt op 1 januari 2015 nog aanspraak zal hebben op jeugdzorg.   
 2.  Onverminderd de artikelen 2r, tweede lid, en 2v stelt de stichting het burgerservicenummer van een persoon die beschikt over een door de stichting afgegeven indicatiebesluit als bedoeld in artikel 5, vast binnen 12 weken na de datum van inwerkingtreding van hoofdstuk 1b, tenzij redelijkerwijs niet te verwachten is dat betrokkene op 1 januari 2015 nog aanspraak zal hebben op jeugdzorg.  

@@ -24,7 +24,11 @@ aanvrager: degene die de aanvraag indient voor een indicatiebesluit;
 
 advies- en meldpunt kindermishandeling: de stichting bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
 
+autorisatielijst: autorisatielijst van jeugdzorgaanbieders, bedoeld in [artikel 2y van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+
 de wet: de [Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+
+geautoriseerde: in de autorisatielijst opgenomen zorgaanbieder; 
 
 gekwalificeerde gedragswetenschapper: degene die lid is van het Nederlands Instituut voor Psychologen en is opgenomen in het Register Klinisch Psychologen of het register Kinder- en Jeugdpsychologen en beschikt over de Basisaantekening Psychodiagnostiek van dit instituut of degene die lid is van de Nederlandse Vereniging van Orthopedagogen en Onderwijskundigen en geregistreerd is als Orthopedagoog-Generalist dan wel een BIG-geregistreerde gezondheidszorgpsycholoog; 
 
@@ -45,6 +49,10 @@ jeugdreclasseringswerker: medewerker van de stichting die belast is met de uitvo
 melding: een melding van kindermishandeling of van een vermoeden daarvan; 
 
 observatiediagnostiek: observatiediagnostiek als bedoeld in artikel 5; 
+
+SBV-Z: sectorale berichtenvoorziening in de zorg, bedoeld in [artikel 11 van het Besluit gebruik burgerservicenummer in de zorg](../../../../../../../AMvB/besluit/burgerservicenummer/BWBR0022829/README.md); 
+
+toegangsmiddel: middel als bedoeld in artikel 24g, met inbegrip van de drager van het middel; 
 
 verblijf: verblijf als bedoeld in artikel 4;  
 
@@ -348,6 +356,85 @@ a. verblijf bij een pleegouder van een jeugdige die al langer dan twee jaar bij 
 b. een aanspraak op een vorm van zorg als bedoeld in [artikel 5, tweede lid, onder b, van de wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in verband met een aandoening die maakt dat een jeugdige langer dan twee jaar is aangewezen op eenzelfde vorm van zorg en voorzien wordt dat de jeugdige op deze vorm van zorg aangewezen blijft.     
 2.  De in het eerste lid bedoelde termijn is met betrekking tot rechtmatig in Nederland verblijvende minderjarige vreemdelingen wier verblijf tijdelijk is als bedoeld in [artikel 3.5, tweede lid, aanhef en onder i, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ten hoogste een half jaar.   
 3.  De in het eerste lid bedoelde termijn is met betrekking tot vreemdelingen, bedoeld in artikel 7, in overeenstemming met de verwachte duur van het verblijf in Nederland, en ten hoogste een half jaar.  
+
+### Hoofdstuk  8a  
+
+####Burgerservicenummer
+
+### §  1  
+
+####De autorisatielijst
+
+### Artikel  24  
+
+Bij regeling van Onze Minister wordt bepaald welke gegevens en bescheiden worden verstrekt bij de aanvraag om te worden opgenomen in de autorisatielijst. 
+
+### Artikel  24a  
+
+1.  Onze Minister stelt, aan de hand van bij of krachtens de wet gestelde vereisten voor de hoedanigheid van de zorgaanbieder, vast of de aanvraag, bedoeld in artikel 24, is gedaan door een zorgaanbieder.   
+2.  De aanvraag wordt in ieder geval afgewezen indien deze niet is gedaan door een zorgaanbieder.  
+
+### Artikel  24b  
+
+1.  In de autorisatielijst wordt per inschrijving opgenomen: 
+
+a. indien de geautoriseerde een natuurlijke persoon is: 
+
+1°. geslachtsnaam;  
+
+2°. voornamen;  
+
+3°. geboortedatum;  
+
+4°. geboorteplaats;  
+
+5°. titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);    
+
+b. indien de geautoriseerde een rechtspersoon is: de naam.     
+2.  In de autorisatielijst wordt voorts per inschrijving opgenomen: 
+
+a. aard van de gegevens en bescheiden aan de hand waarvan is vastgesteld dat de geautoriseerde een zorgaanbieder is;  
+
+b. datum van opname in de autorisatielijst;  
+
+c. adres van vestiging;  
+
+d. gegevens met betrekking tot verstrekte en ingetrokken toegangsmiddelen.     
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de opname en verwerking van gegevens in de autorisatielijst.  
+
+### Artikel  24c  
+
+De geautoriseerde stelt Onze Minister onmiddellijk op de hoogte van een wijziging van de in de autorisatielijst opgenomen gegevens en van omstandigheden die van belang kunnen zijn voor het schorsen of doorhalen van de opname. 
+
+### Artikel  24d  
+
+1.  Verwijdering van de autorisatielijst vindt slechts plaats: 
+
+a. op verzoek van de geautoriseerde, of  
+
+b. indien de geautoriseerde geen zorgaanbieder meer is.     
+2.  Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), is geschorst, is zijn opname in de autorisatielijst van jeugdzorgaanbieders geschorst.  
+
+### Artikel  24e  
+
+1.  Onze Minister deelt aan een ieder die daarom verzoekt mede of: 
+
+a. een zorgaanbieder is opgenomen op de autorisatielijst;  
+
+b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.     
+2.  Indien het verzoek wordt gedaan door de voorzieningen als bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.  
+
+### §  2  
+
+####SBV-Z en toegangsmiddelen
+
+### Artikel  24f  
+
+Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) uitsluitend door tussenkomst van de SBV-Z. 
+
+### Artikel  24g  
+
+Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De [artikelen 18 tot en met 25](../../../../../../../AMvB/besluit/gebruik/burgerservicenummer/in/de/zorg/BWBR0023902/README.md) en [33 van het Besluit gebruik burgerservicenummer in de zorg](../../../../../../../AMvB/besluit/gebruik/burgerservicenummer/in/de/zorg/BWBR0023902/README.md) zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
 
 ###Hoofdstuk 9 
 

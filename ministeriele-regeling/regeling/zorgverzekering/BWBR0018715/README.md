@@ -1433,7 +1433,7 @@ e. het verrichten van fraudeonderzoek.
 
 a. naam, adres, postcode en woonplaats;  
 
-b. polisnummer, burgerservicenummer of, bij het ontbreken daarvan, sociaal-fiscaalnummer, geslacht en geboortedatum;  
+b. polisnummer, burgerservicenummer, geslacht en geboortedatum;  
 
 c. de prestatiebeschrijving van de aan de verzekerde geleverde prestatie;  
 
@@ -1472,7 +1472,7 @@ b. de verzekerde, indien de zorgaanbieder het tarief voor de geleverde prestatie
 
 De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een uitkering als bedoeld in [artikel 118a van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt verstrekt, van zijn verzekerden of gewezen verzekerden die in dat jaar de leeftijd van achttien jaar hebben bereikt of nog zullen bereiken en die in de twee kalenderjaren, voorafgaande aan dat jaar voldoen aan de voorwaarden, bedoeld in artikel 8.3, eerste lid, of in een DKG als bedoeld in artikel 8.3, tweede lid, zijn ingedeeld, de volgende persoonsgegevens:
 
-a.het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer,
+a.het burgerservicenummer;
 
 b.het bank- of girorekeningnummer.
 

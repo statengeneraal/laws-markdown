@@ -121,13 +121,19 @@ b. een aan een geregistreerde verstrekt toegangsmiddel geldig is.
 
 ####SBV-Z
 
+### Artikel  10a  
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
+
+*jeugdzorgaanbieder:* natuurlijke persoon of rechtspersoon die jeugdzorg verleent waarop aanspraak bestaat ingevolge de [Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+
 ### Artikel  11  
 
 1.  Onze Minister draagt zorg voor de inrichting en instandhouding van een sectorale berichtenvoorziening in de zorg, waarvan deel uitmaken: 
 
-a. voorzieningen door tussenkomst waarvan zorgaanbieders, indicatieorganen en zorgverzekeraars gebruik kunnen maken van de beheervoorziening;  
+a. voorzieningen door tussenkomst waarvan zorgaanbieders, indicatieorganen, zorgverzekeraars en jeugdzorgaanbieders gebruik kunnen maken van de beheervoorziening;  
 
-b. voorzieningen met behulp waarvan aan een cliënt een overzicht gegeven kan worden van het gebruik dat zorgaanbieders, indicatieorganen en zorgverzekeraars van de voorzieningen, bedoeld onder a, hebben gemaakt teneinde het burgerservicenummer van de cliënt vast te stellen.     
+b. voorzieningen met behulp waarvan aan een cliënt een overzicht gegeven kan worden van het gebruik dat zorgaanbieders, indicatieorganen, zorgverzekeraars en jeugdzorgaanbieders van de voorzieningen, bedoeld onder a, hebben gemaakt teneinde het burgerservicenummer van de cliënt vast te stellen.     
 2.  Onze Minister is verantwoordelijk voor de SBV-Z.  
 
 ### Artikel  12  
@@ -137,9 +143,9 @@ b. voorzieningen met behulp waarvan aan een cliënt een overzicht gegeven kan wo
 
 a. de hoofdlijnen van de inrichting van de SBV-Z;  
 
-b. de inrichting en werking van de voorzieningen, bedoeld in artikel 11, eerste lid, met inbegrip van de wijze waarop de uitwisseling van gegevens door de SBV-Z met een zorgaanbieder, indicatieorgaan of zorgverzekeraar enerzijds en de beheervoorziening anderzijds, plaatsvindt;  
+b. de inrichting en werking van de voorzieningen, bedoeld in artikel 11, eerste lid, met inbegrip van de wijze waarop de uitwisseling van gegevens door de SBV-Z met een zorgaanbieder, indicatieorgaan, zorgverzekeraar of jeugdzorgaanbieder enerzijds en de beheervoorziening anderzijds, plaatsvindt;  
 
-c. de wijze waarop de SBV-Z het geautomatiseerde systeem van een zorgaanbieder, indicatieorgaan of zorgverzekeraar in staat stelt aan te sluiten op de SBV-Z;  
+c. de wijze waarop de SBV-Z het geautomatiseerde systeem van een zorgaanbieder, indicatieorgaan, zorgverzekeraar of jeugdzorgaanbieder in staat stelt aan te sluiten op de SBV-Z;  
 
 d. de gevallen waarin en de wijze waarop aantekening wordt gehouden van het gebruik dat van de SBV-Z wordt gemaakt;  
 
@@ -175,7 +181,7 @@ Zorgaanbieders, indicatieorganen en zorgverzekeraars kunnen uitsluitend door tus
 
 ### Artikel  16  
 
-De zorgaanbieder, het indicatieorgaan en de zorgverzekeraar die is aangesloten op de SBV-Z draagt zorg dat de verbinding van zijn geautomatiseerde systeem met de SBV-Z en de uitwisseling van gegevens tussen zijn geautomatiseerde systeem en de SBV-Z functioneren op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd. 
+De zorgaanbieder, het indicatieorgaan, de zorgverzekeraar en de jeugdzorgaanbieder die is aangesloten op de SBV-Z draagt zorg dat de verbinding van zijn geautomatiseerde systeem met de SBV-Z en de uitwisseling van gegevens tussen zijn geautomatiseerde systeem en de SBV-Z functioneren op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd. 
 
 ### Artikel  17  
 

@@ -57,7 +57,7 @@ a. beschermde archeologische monumenten: € 800.000,
 
 b. groene monumenten: € 5 miljoen,  
 
-c. overige beschermde monumenten: € 42,7 miljoen.     
+c. overige beschermde monumenten: € 44,7 miljoen euro.     
 2.  Indien in enig jaar een beschikbaar bedrag niet geheel wordt verleend, wordt het resterende bedrag aan het desbetreffende subsidieplafond voor het volgende jaar toegevoegd.  
 
 ### Artikel  4  

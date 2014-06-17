@@ -45,7 +45,7 @@ m. indicatiebesluit: een beschikking als bedoeld in [artikel 1, aanhef en onder
 
 n. Keurmerkinstituut: het te Zoetermeer gevestigde Keurmerkinstituut B.V.;  
 
-o. leefeenheid: twee of meer bewoners van één woonadres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), in de volgende samenstelling: 
+o. leefeenheid: twee of meer bewoners van één woonadres als bedoeld in [artikel 1.1 van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), in de volgende samenstelling: 
 
 1°. een of meer gehuwde verzekerden, al dan niet tezamen met een of meer minderjarige verzekerden,  
 
@@ -67,7 +67,7 @@ u. kleinschalig wooninitiatief: een woonsituatie waarbij
 
 a. minimaal 3 en maximaal 26 bewoners een persoonsgebonden budget ontvangen voor ten minste de functies persoonlijke verzorging en begeleiding individueel en hiervoor door bundeling van persoonsgebonden budgetten gezamenlijk de zorg inkopen, en  
 
-b. de bewoners verblijven op één woonadres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), of op meerdere woonadressen binnen een straal van 100 meter, waarin ten minste één gemeenschappelijke verblijfsruimte aanwezig is die geschikt is voor het ontplooien van gezamenlijke activiteiten;   
+b. de bewoners verblijven op één woonadres als bedoeld in [artikel 1.1 van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), of op meerdere woonadressen binnen een straal van 100 meter, waarin ten minste één gemeenschappelijke verblijfsruimte aanwezig is die geschikt is voor het ontplooien van gezamenlijke activiteiten;   
 
 v. Sociale verzekeringsbank: Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
@@ -685,7 +685,7 @@ h. de verzekerde, of, indien de verzekerde jonger is dan 18 jaar, één van dien
 
 i. ten aanzien van de verzekerde of, indien de verzekerde jonger is dan 18 jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;  
 
-j. de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres;  
+j. de verzekerde blijkens de basisregistratie personen niet beschikt over een woonadres;  
 
 k. de verzekerde het zorgkantoor geen toestemming geeft om zijn persoonsgegevens door te geven aan het CAK, genoemd in [artikel 48, eerste lid, van de AWBZ](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), ten behoeve van de vaststelling van de op het bruto persoonsgebonden budget in mindering te brengen eigen bijdrage en, voor het geval een trekkingsrecht wordt aangevraagd, de Sociale verzekeringsbank ten behoeve van het doen van de betalingen uit en de verantwoording over het persoonsgebonden budget;  
 
@@ -812,7 +812,7 @@ c. de verzekerde sluit een schriftelijke overeenkomst met de zorgverlener of zor
 
 2°. declaraties voor verleende zorg worden niet betaald indien zij niet binnen zes weken na de maand waarin de zorg is verleend bij de verzekerde zijn ingediend,  
 
-3°. een declaratie van een zorgverlener bevat een overzicht van de dagen waarop is gewerkt, het uurtarief, het aantal te betalen uren, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaal nummer en de naam van de zorgverlener, en wordt door de zorgverlener ondertekend,  
+3°. een declaratie van een zorgverlener bevat een overzicht van de dagen waarop is gewerkt, het uurtarief, het aantal te betalen uren, het burgerservicenummer en de naam van de zorgverlener, en wordt door de zorgverlener ondertekend,  
 
 4°. een declaratie van een zorgverlenende instantie bevat het nummer waarmee die instantie staat ingeschreven bij de Kamer van Koophandel, een overzicht van de dagen waarop is gewerkt, het tarief, het aantal te betalen uren, dagdelen of etmalen, en de naam en het adres van de zorgverlenende instantie, en wordt namens de zorgverlenende instantie ondertekend;    
 
@@ -820,7 +820,7 @@ d. de verzekerde stelt, op verzoek van het zorgkantoor, de in onderdeel c bedoe
 
 e. de verzekerde legt door middel van invulling en ondertekening van een daartoe door het zorgkantoor toegezonden formulier verantwoording af over de besteding van het verleende persoonsgebonden budget;  
 
-f. bij de verantwoording over de laatste verantwoordingsperiode van een kalenderjaar voegt de verzekerde per zorgverlener of zorgverlenende instantie een formulier waarop hij naam, adres en burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaal nummer van de zorgverlener respectievelijk naam, adres en het nummer van de Kamer van Koophandel van de zorgverlenende instantie heeft aangetekend, alsmede het in dat kalenderjaar aan die zorgverlener of die zorgverlenende instantie betaalde bedrag;  
+f. bij de verantwoording over de laatste verantwoordingsperiode van een kalenderjaar voegt de verzekerde per zorgverlener of zorgverlenende instantie een formulier waarop hij naam, adres en burgerservicenummer van de zorgverlener respectievelijk naam, adres en het nummer van de Kamer van Koophandel van de zorgverlenende instantie heeft aangetekend, alsmede het in dat kalenderjaar aan die zorgverlener of die zorgverlenende instantie betaalde bedrag;  
 
 g. de verzekerde brengt gedurende de subsidieperiode voor de vormen van zorg waarvoor het budget is verleend niet tevens een AWBZ-aanspraak op zorg tot gelding;  
 
@@ -947,7 +947,7 @@ b.met ingang van de dag waarop de verzekerde, of, indien de verzekerde jonger is
 
 c.met ingang van de dag waarop ten aanzien van de verzekerde of, indien de verzekerde jonger is dan achttien jaar, ten aanzien van één van diens ouders of voogden, de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend;
 
-d.met ingang van de dag waarop de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over een woonadres.  
+d.met ingang van de dag waarop de verzekerde blijkens de basisregistratie personen niet beschikt over een woonadres.  
 
 ### Artikel  2.6.13  
 
