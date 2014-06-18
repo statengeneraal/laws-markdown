@@ -29,7 +29,7 @@ f. verordening (EU) 530/2012: verordening (EU) nr. 530/2012 van het Europees Par
 
 g.  verordening (EG) 782/2003: verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115);  
 
-h. emissiereductietechnologie: technische methode als bedoeld in artikel 2 van richtlijn 1999/32/EG;  
+h. emissiereductiemethode: technische methode als bedoeld in artikel 2 van richtlijn 1999/32/EG;  
 
 i. gebied voor emissiebeheersing voor SO<sub>x</sub> en fijnstof: gebied als bedoeld in voorschrift 14 van Bijlage VI van het Verdrag, waar bijzondere verplichte maatregelen voor emissies door schepen gelden teneinde lucht verontreiniging door SO<sub>x</sub> en fijnstof en de daarmee gepaard gaande schadelijke invloed op de volksgezondheid en het milieu te voorkomen, beperken en beheersen;  
 
@@ -43,7 +43,19 @@ m.resolutie A.446(XI): resolutie A.446(XI) van de Algemene Vergadering van de IM
 
 n.resolutie A.673(16): resolutie A.673(16) van de Algemene Vergadering van de IMO, houdende Richtlijnen voor het vervoer en de behandeling van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk door offshore ondersteuningsschepen;
 
-o.Minister: Minister van Verkeer en Waterstaat. 
+o.Minister: Minister van Infrastructuur en Milieu. 
+
+### Artikel  1a*  
+
+####Toepassing op Caribisch-Nederlandse schepen
+
+Treedt in werking per 01-07-2014 
+
+De artikelen 2, 5a tot en met 5g, 11, 12a, 12b, 13, 14a, 14b en 15a tot en met 15e zijn tevens van toepassing op Caribisch-Nederlandse schepen, met dien verstande dat: 
+
+a. voor het aanmerken van de dag waarop een met de kiellegging vergelijkbaar stadium is bereikt als bedoeld in artikel 2, slechts de op grond van deze regeling toepasselijke code en resoluties in acht worden genomen;  
+
+b. bij het toestaan van afwijking als bedoeld in artikel 5g slechts de op grond van deze regeling toepasselijke code en resoluties in acht worden genomen.   
 
 ### Artikel  1a  
 
@@ -161,15 +173,29 @@ a. is voorzien van het in bijlage D van richtlijn 96/98/EG weergegeven merk van 
 b. vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving als bedoeld in de [artikelen 20](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md) en [21 van de Wet scheepsuitrusting](../../../../../../../wet/wet/scheepsuitrusting/BWBR0011301/README.md).     
 2.  Gebruik van uitrusting waarvoor een certificaat van gelijkwaardigheid of een certificaat ten behoeve van beproeving is afgegeven, is slechts toegestaan met inachtneming van de aan het desbetreffende certificaat verbonden voorschriften of beperkingen.   
 3.  Indien een schip zich in een haven buiten de Europese Unie bevindt en het vanuit het oogpunt van tijd, vertraging en kosten redelijkerwijs niet uitvoerbaar is om uitrusting aan boord te plaatsen waarvoor overeenkomstig richtlijn 96/98/EG een EG-typegoedkeuring is verleend, mogen noodzakelijke vervangingen van uitrusting in afwijking van het eerste lid geschieden door het aan boord plaatsen van niet overeenkomstig richtlijn 96/98/EG goedgekeurde uitrusting, mits daarbij wordt voldaan aan de in artikel 16, eerste en tweede lid, van die richtlijn genoemde voorwaarden.   
-4.  Het eerste tot en met derde lid zijn niet van toepassing op de plaatsing van emissiereductietechnologieën aan boord van schepen die niet behoren tot de categorie schepen waarvoor een certificaat wordt afgegeven als bedoeld in [artikel 12, vierde lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md). 
+4.  Het eerste tot en met derde lid zijn niet van toepassing op de plaatsing van emissiereductiemethoden aan boord van schepen die niet behoren tot de categorie schepen waarvoor een certificaat wordt afgegeven als bedoeld in [artikel 12, vierde lid, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md). 
 
 ### Artikel  8  
 
 ####Nationale typegoedkeuringen voor scheepsuitrusting
 
-1.  Uitrusting, niet zijnde uitrusting als bedoeld in bijlage A.1 van richtlijn 96/98/EG of niet zijnde een emissiereductietechnologie, is van een door de Minister goedgekeurd type.   
+1.  Uitrusting, niet zijnde uitrusting als bedoeld in bijlage A.1 van richtlijn 96/98/EG of niet zijnde een emissiereductiemethode, is van een door de Minister goedgekeurd type.   
 2.  De Minister kan in afwijking van artikel 7 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen die behoren tot de categorie schepen waarvoor mede in verband met het voldoen aan de eisen met betrekking tot de betreffende uitrusting een van de certificaten wordt verstrekt als bedoeld in [artikel 12 van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor het milieu mogelijk is.   
 3.  Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.  
+
+### Artikel  8a  
+
+####Typegoedkeuringen Caribisch-Nederlandse schepen
+
+Treedt in werking per 01-07-2014 
+
+1.  Uitrusting waarvoor bij plaatsing aan boord van een Caribisch-Nederlands schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist, is van een door de Minister goedgekeurd type.   
+2.  Met uitrusting van een door de Minister goedgekeurd type wordt gelijkgesteld uitrusting: 
+
+a. die is voorzien van het in bijlage D van richtlijn 96/98/EG weergegeven merk van overeenstemming;  
+
+b. met betrekking waartoe een daaraan gelijkwaardige typegoedkeuring is verleend door de bevoegde autoriteit van de Verenigde Staten of van Canada, met inachtneming van de voor die goedkeuring opgestelde richtlijnen en standaarden van de IMO.     
+3.  Aan een typegoedkeuring als bedoeld in het eerste lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.  
 
 ### Artikel  9  
 
@@ -181,8 +207,8 @@ Met een door de Minister verleende typegoedkeuring wordt gelijkgesteld een daara
 
 ####Goedkeuring voor emissiereductietechnologieën
 
-1.  Emissiereductietechnologieën zijn van een door de Europese Commissie goedgekeurd type.   
-2.  Proefnemingen met emissiereductietechnologieën worden goedgekeurd door de Minister in overeenstemming met artikel 4 quater, eerste lid, van richtlijn 1999/32/EG. Artikel 9 is van overeenkomstige toepassing.  
+1.  Emissiereductiemethoden zijn van een door de Europese Commissie goedgekeurd type.   
+2.  Proefnemingen met emissiereductiemethoden worden goedgekeurd door de Minister in overeenstemming met artikel 4 sexies, van richtlijn 1999/32/EG. Artikel 9 is van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
@@ -237,35 +263,31 @@ b. met betrekking tot een lozing in de Nederlandse exclusieve economische zone e
 
 ####Nadere regels voor lozingen als onderdeel van een emissiereductiemethode
 
-Treedt in werking per 18-06-2014 
-
 Schepen die gebruik maken van emissiereductiemethoden als bedoeld in artikel 14, tweede lid, onderdeel c, lozen het in het kader van deze methoden ontstane afvalwater in overeenstemming met de in bijlage II van richtlijn 1999/32/EG opgenomen lozingscriteria. 
 
 ### Artikel  14  
 
 1.  In aanvulling op het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), is het verboden om: 
 
-a. brandstofolie te gebruiken met een zwavelgehalte van meer dan 1% aan boord van Nederlandse schepen en buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren;  
+a. brandstofolie te gebruiken met een zwavelgehalte van meer dan 1,00% aan boord van Nederlandse schepen en buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren;  
 
-b. brandstofolie te gebruiken met een zwavelgehalte van meer dan 0,1% aan boord van Nederlandse en buitenlandse schepen op hun ligplaats in havens, waarbij de bemanning voldoende tijd wordt gegeven om zo spoedig mogelijk na de aankomst op de ligplaats en zo laat mogelijk vóór vertrek indien nodig om te schakelen van of op andere brandstoffen.     
-2.  De verboden, bedoeld in het eerste lid, zijn niet van toepassing op: 
+b. brandstofolie te gebruiken met een zwavelgehalte van meer dan 0,10% aan boord van Nederlandse en buitenlandse schepen op hun ligplaats in havens, waarbij de bemanning voldoende tijd wordt gegeven om zo spoedig mogelijk na de aankomst op de ligplaats en zo laat mogelijk vóór vertrek indien nodig om te schakelen van of op andere brandstoffen.    
+2. De verboden, bedoeld in het eerste lid, en het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) wat betreft het gebruik van brandstofolie in de Nederlandse territoriale zee en de Nederlandse EEZ, waaronder de gebieden voor emissiebeheersing van zwavel en fijnstof, zijn niet van toepassing op: 
 
 a. brandstoffen als bedoeld in artikel 1, tweede lid, onderdelen a en c, van richtlijn 1999/32/EG;  
 
-b. het gebruik van brandstoffen als bedoeld in artikel 1, tweede lid, onderdeel g, van richtlijn 1999/32.     
+b. het gebruik van brandstoffen als bedoeld in artikel 1, tweede lid, onderdelen f en g, van richtlijn 1999/32/EG;  
+
+c. het gebruik van brandstoffen aan boord van schepen die gebruik maken van emissiereductiemethoden overeenkomstig artikel 4 quater van richtlijn 1999/32/EG.    
 3.  Het verbod, bedoeld in het eerste lid, onderdeel b, is niet van toepassing op: 
 
 a. schepen die volgens een gepubliceerde dienstregeling minder dan twee uur op hun ligplaats zullen liggen;  
 
-b. schepen die alle motoren uitschakelen en gebruikmaken van stroomvoorzieningen van het vasteland terwijl zij in een haven op hun ligplaats liggen.     
-4.  De Minister kan ten aanzien van Nederlandse schepen afwijking toestaan van de verboden, bedoeld in het eerste lid, en het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) wat betreft de eisen ten aanzien van het gebruik van brandstofolie in gebieden voor emissiebeheersing voor zwavel en fijnstof: 
-
-a. indien aan boord van het schip door de Europese Commissie goedgekeurde emissiereductietechnologieën worden toegepast overeenkomstig artikel 4 quater, vierde lid, van richtlijn 1999/32/EG;  
-
-b. voor proefnemingen met emissiereductietechnologieën, die worden toegepast overeenkomstig artikel 4 quater, eerste lid, van richtlijn 1999/32/EG.     
-5.  De afwijking, bedoeld in het vierde lid, aanhef en onder b, kan ook worden toegestaan ten aanzien van buitenlandse schepen in de Nederlandse territoriale zee en de Nederlandse exclusieve economische zone.   
-6.  De uitoefening van de bevoegdheid, bedoeld in artikel 5, aanhef en onder b, geschiedt in overeenstemming met artikel 4 quater, eerste lid, van richtlijn 1999/32/EG.   
-7.  Goedgekeurde emissiereductietechnologieën en toegestane proefnemingen met emissiereductietechnologieën worden toegepast overeenkomstig artikel 4 quater, eerste lid, van richtlijn 1999/32/EG.  
+b. schepen die alle motoren uitschakelen en gebruikmaken van stroomvoorzieningen van het vasteland terwijl zij in een haven op hun ligplaats liggen.    
+4. In afwijking van het tweede lid, aanhef en onderdeel c, geldt in geval van het gebruik van brandstofolie met een zwavelgehalte van meer dan 3,50% aan boord van schepen, de in deze aanhef en dit onderdeel bedoelde uitzondering alleen voor zover deze schepen gebruik maken van emissiereductiemethoden in een gesloten systeem. 
+5. De Minister kan afwijking toestaan van de verboden, bedoeld in het eerste lid, en het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), van het besluit wat betreft het gebruik van brandstofolie in de Nederlandse territoriale zee en de Nederlandse EEZ, waaronder de gebieden voor emissiebeheersing van zwavel en fijnstof, voor proefnemingen met nieuwe emissiereductiemethoden.  
+6.  De uitoefening van de bevoegdheid, bedoeld in het vijfde lid, geschiedt in overeenstemming met artikel 4 sexies, van richtlijn 1999/32/EG.   
+7.  Toegestane proefnemingen met nieuwe emissiereductiemethoden worden toegepast overeenkomstig artikel 4 sexies van richtlijn 1999/32/EG.  
 
 ### Artikel  14a  
 
@@ -291,9 +313,8 @@ De vaarsnelheid van ten minste 4 knopen als bedoeld in voorschrift 11.1.1 van Bi
 
 ####Voorschriften voor het bijhouden van journaals
 
-1.  De vrijstelling van voorschrift 14.7 in samenhang met voorschrift 14.6 van Bijlage VI van het Verdrag, is wat betreft het beheersgebied voor SO<sub>x</sub>-emissie van de Noordzee niet van toepassing.   
-2.  De verplichting, bedoeld in artikel 36, zesde lid, van het besluit is met ingang van 1 januari 2010 van overeenkomstige toepassing op kapiteins wanneer brandstofolie wordt gebruikt op de ligplaats van hun schip in een Nederlandse haven, met dien verstande dat de verplichting betrekking heeft op het gebruik van verschillende soorten brandstofolie teneinde te voldoen aan het bepaalde in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) in samenhang met artikel 14, vierde lid, aanhef en onderdeel c, en dat de overschakeling betrekking heeft op brandstofolie met een zwavelgehalte van minder dan of gelijk aan 1,5% en brandstofolie met een zwavelgehalte van niet meer dan 0,1%.   
-3.  Het tweede lid is ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.  
+1.  De verplichting, bedoeld in artikel 36, zesde lid, van het besluit is met ingang van 1 januari 2010 van overeenkomstige toepassing op kapiteins wanneer brandstofolie wordt gebruikt op de ligplaats van hun schip in een Nederlandse haven, met dien verstande dat de verplichting betrekking heeft op het gebruik van verschillende soorten brandstofolie teneinde te voldoen aan het bepaalde in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) in samenhang met artikel 14, eerste lid, aanhef en onderdeel b, en dat de overschakeling betrekking heeft op brandstofolie met een zwavelgehalte van minder dan of gelijk aan 1% en brandstofolie met een zwavelgehalte van niet meer dan 0,10%.   
+2.  Het tweede lid is ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.  
 
 ### Artikel  15a  
 
@@ -319,17 +340,23 @@ In alle bescheiden die betrekking hebben op het vervoer van een schadelijke stof
 
 3°. de hoeveelheden van die stoffen en, wanneer zij in transporttanks of vrachtcontainers worden vervoerd, de identificatietekens daarvan.   
 
+### Artikel  15d  
+
+####Voorschriften voor de melding van het niet beschikbaar zijn van brandstofolie in verband met Bijlage VI bij het Verdrag.
+
+Het ingevolge [artikel 34 van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) toepasselijke voorschrift 18.2.4 van Bijlage VI bij het Verdrag is mede van toepassing op de kapitein van een buitenlands schip dat zich in een Nederlandse haven bevindt. 
+
 ### § 2 
 
 ####Vrijstellingen van operationele voorschriften
 
-### Artikel  15d  
+### Artikel  15e  
 
 ####Vrijstelling van operationele voorschriften voor offshore ondersteuningsschepen
 
 De ingevolge artikel 33, tweede lid, van het besluit toepasselijke voorschriften van Bijlage II bij het Verdrag met betrekking tot het vervoer van schadelijke vloeistoffen in bulk, gelden niet voor het vervoer in bulk van beperkte hoeveelheden van de schadelijke stoffen, bedoeld in resolutie A.673(16) door offshore ondersteuningsschepen als bedoeld in die resolutie, mits dit vervoer voldoet aan de in die resolutie neergelegde eisen. 
 
-### Artikel  15e  
+### Artikel  15f  
 
 ####Vrijstelling van operationele voorschriften voor vervoer van schadelijke stoffen in verpakte vorm
 
@@ -349,15 +376,11 @@ Als besluit als bedoeld in [artikel 13, derde lid, van de wet](../../../../../..
 
 ####Uitvoering Bijlage V bij het Verdrag
 
-Treedt in werking per 18-06-2014 
-
 Als stof als bedoeld in [artikel 12, eerste lid, van de wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt aangewezen vistuig als bedoeld in voorschrift 1 van Bijlage V bij het Verdrag. 
 
 ### Artikel  16b  
 
 ####Regels met betrekking tot het toezicht op de naleving
-
-Treedt in werking per 18-06-2014 
 
 1.  Bij het houden van toezicht op de naleving van [artikel 31, tweede lid, aanhef en onder a van het besluit](../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md) en artikel 14 van deze regeling wordt artikel 6 van richtlijn 1999/32 in acht genomen.   
 2.  Bij het houden van toezicht op de naleving van de [artikelen 12b](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) en [12c van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) wordt artikel 11 van de richtlijn havenontvangstvoorzieningen in acht genomen.  

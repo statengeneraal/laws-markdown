@@ -663,6 +663,11 @@ Indien door de keurmeester de in de artikelen 25 tot en met 32 neergelegde verpl
 
 ####Overgangs en slotbepalingen
 
+### Artikel  46a  
+Treedt in werking per 01-07-2014 
+
+Voor erkenningen verleend aan een natuurlijke of rechtspersoon voor één of meer in Nederland op naam van de erkenninghouder geregistreerde mobiele keuringseenheden afgegeven vóór 1 juli 2014, geldt dat hiervan tot 1 juli 2025 gebruik kan worden gemaakt, mits wordt voldaan aan de eisen en voorschriften opgenomen in deze regeling. 
+
 ### Artikel  47  
 
 Erkenningen en bevoegdheden die zijn verleend krachtens de [Erkenningsregeling APK](../../../../../../../ministeriele-regeling/erkenningsregeling/apk/BWBR0011158/README.md), zoals die regeling luidde voor de inwerkingtreding van deze regeling, worden gelijkgesteld met erkenningen en bevoegdheden die zijn verleend krachtens deze regeling. 

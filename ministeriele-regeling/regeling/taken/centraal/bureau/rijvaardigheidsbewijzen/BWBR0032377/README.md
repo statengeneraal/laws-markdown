@@ -91,7 +91,7 @@ Wijzigt de Regeling vakbekwaamheid beroepspersonenvervoer, de Regeling wegvervoe
 
 ####Wijziging artikel 1 
 
-Treedt in werking per 01-07-2014 
+Treedt in werking per 01-01-2016 
 
 Wijzigt deze regeling. 
 

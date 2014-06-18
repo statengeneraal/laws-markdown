@@ -149,6 +149,34 @@ c. voor booreenheden, gebouwd op of na 1 januari 2012: het veiligheidscertificaa
 1.  Voor een schip ten aanzien waarvan op grond van artikel 12a is gekozen voor toepassing van de LY2-Code is een certificaat van overeenstemming als bedoeld in de LY2-Code benodigd.   
 2.  Voor een schip als bedoeld in [artikel 6 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) treedt het certificaat van overeenstemming in de plaats van het nationaal veiligheidscertificaat.  
 
+### Artikel  5c  
+
+####Certificaten op grond van CCSS-Code (CMOU)
+
+Treedt in werking per 01-07-2014 
+
+1.  Voor vrachtschepen ten aanzien waarvan op grond van artikel 12b voor toepassing van de CCSS-Code is gekozen, is het bij die Code behorende veiligheidscertificaat benodigd.   
+2.  Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.  
+
+### Artikel  5d  
+
+####Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
+
+Treedt in werking per 01-07-2014 
+
+1.  Voor een passagiersschip waarmee internationale reizen worden ondernomen en ten aanzien waarvan op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, is tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (*notification of equivalency*) benodigd.   
+2.  Voor een passagiersschip waarmee nationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, het certificaat van inspectie, behorend bij de SCV-Code, benodigd.   
+3.  Voor een schip als bedoeld in het tweede lid treedt het certificaat van inspectie, behorend bij de SCV-Code, in de plaats van het nationaal veiligheidscertificaat.  
+
+### Artikel  5e  
+
+####Certificaten voor vrachtschepen op grond van SCV-Code (IMO)
+
+Treedt in werking per 01-07-2014 
+
+1.  Voor een vrachtschip van minder dan 24 meter waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, is het certificaat van inspectie, behorend bij de SCV-Code, benodigd.   
+2.  Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.  
+
 ### Artikel  6  
 
 ####Certificaten op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
@@ -251,6 +279,33 @@ c.voor schepen, bestemd voor bijzondere doeleinden als bedoeld in de SPS-Code 20
 
 1.  De eigenaar van een beroepsmatig gebruikt, zeegaand schip van minder dan 3000 GT met een loodlijnlengte van 24 meter of meer en dat ontworpen en gebouwd is en gebruikt wordt voor uitsluitend het vervoer van niet meer dan 12 passagiers kan ervoor kiezen om dat te schip te laten onderzoeken en certificeren met inachtneming van de LY2-Code, die als bijlage 2 bij deze regeling is gevoegd.   
 2.  Indien ten aanzien van een schip overeenkomstig het eerste lid is gekozen voor toepassing van de LY2-Code, strekken de in de [artikelen 13 tot en met 15 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) bedoelde onderzoeken er mede toe om na te gaan of aan de eisen van die Code is voldaan.  
+
+### Artikel  12b  
+
+####Onderzoeken op grond van CCSS-Code (CMOU)
+
+Treedt in werking per 01-07-2014 
+
+1.  De eigenaar van een vrachtschip, van minder dan 500 GT en met een lengte van 24 meter of meer, waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de CCSS-Code.   
+2.  Indien ten aanzien van een vrachtschip is gekozen voor toepassing van de CCSS-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 15, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.  
+
+### Artikel  12c  
+
+####Onderzoeken van passagiersschepen op grond van SCV-Code (IMO)
+
+Treedt in werking per 01-07-2014 
+
+1.  De eigenaar van een passagiersschip met een lengte van minder dan 24 meter, waarmee uitsluitend reizen in de Caribische handelszone worden ondernomen, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de SCV-Code.   
+2.  Het eerste lid is niet van toepassing op schepen, gebruikt voor het vervoer van meer dan 150 passagiers, en schepen met nachtaccommodatie voor meer dan 50 passagiers.   
+3.  Indien ten aanzien van een passagiersschip is gekozen voor toepassing van de SCV-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 14, eerste lid](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), of [15, eerste lid, van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) bedoelde onderzoeken.  
+
+### Artikel  12d  
+
+####Onderzoeken van vrachtschepen tot 24 m op grond van SCV-Code (IMO)
+
+Treedt in werking per 01-07-2014 
+
+Een vrachtschip waarvoor het certificaat van inspectie, behorend bij de SCV-Code, benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in die Code voorgeschreven onderzoeken. 
 
 ### Artikel  13  
 
@@ -449,7 +504,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 2.  Toepassing van de ISPS-Code geschiedt met inachtneming van de ingevolge artikel 3, vijfde lid, van verordening (EG) 725/2004 verplichte bepalingen van deel B van die Code.   
 3.  Beveiligingsverklaringen als bedoeld in voorschrift XI-2/1.15 van het SOLAS-verdrag worden minimaal 3 maanden bewaard, of zoveel langer als nodig is om aan voorschrift XI-2/9.2.3 van dat verdrag te voldoen. De minimumtermijn voor het bewaren van de in voorschrift A/10.1 van de ISPS-Code bedoelde documentatie bedraagt drie jaren.  
 
-###§ 3 
+### §  3  
 
 ####Toelatingseisen voor scheepsuitrusting
 
@@ -479,6 +534,21 @@ b.vergezeld gaat van een certificaat van gelijkwaardigheid of een certificaat te
 1. Uitrusting, niet zijnde uitrusting als bedoeld in bijlage A.1 van richtlijn 96/98/EG, is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.
 2. Het Hoofd van de Scheepvaartinspectie kan in afwijking van artikel 33 toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) benodigd is, uitrusting wordt geplaatst die niet aan de prestatie- en beproevingsnormen uit bijlage A.1 van richtlijn 96/98/EG voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor die schepen en hun opvarenden mogelijk is.
 3. Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.
+
+### Artikel  34a  
+
+####Typegoedkeuringen voor scheepsuitrusting op Caribisch-Nederlandse schepen
+
+Treedt in werking per 01-07-2014 
+
+1.  Uitrusting waarvoor bij plaatsing aan boord van een Caribisch-Nederlands schip, gelet op de op dat schip toepasselijk eisen, een typegoedkeuring vereist is, is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.   
+2.  Onder uitrusting waarvoor een typegoedkeuring vereist is, wordt mede verstaan uitrusting als bedoeld in voorschrift V/18.7 van het SOLAS-verdrag.   
+3.  Met uitrusting van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type wordt gelijkgesteld uitrusting: 
+
+a. die is voorzien van het in bijlage D van richtlijn 96/98/EG weergegeven merk van overeenstemming;  
+
+b. met betrekking waartoe een daaraan gelijkwaardige typegoedkeuring is verleend door de bevoegde autoriteit van de Verenigde Staten of van Canada, met inachtneming van de voor die goedkeuring opgestelde richtlijnen en standaarden van de IMO.     
+4.  Aan een typegoedkeuring als bedoeld in het eerste lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.  
 
 ###Artikel 35 
 
@@ -603,6 +673,21 @@ c. indien van toepassing: [artikel 41, eerste lid, van het besluit](../../../../
 ####Vrijstellingen betreffende de veiligheid van navigatie
 
 Wachtalarminstallaties op de brug, die voor 1 juli 2009 zijn geplaatst, zijn vrijgesteld van de eisen van resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende uitvoeringsnormen betreffende de wachtalarminstallatie op de brug (Performance standards for a bridge navigational watch alarm system (BNWAS)) of daaraan gelijkwaardige uitvoeringsnormen. 
+
+### Artikel  41b  
+
+####Vaart rond de eilanden van Caribisch-Nederland
+
+Treedt in werking per 01-07-2014 
+
+1.  Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de [hoofdstukken 3 tot en met 5 van het besluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) en hoofdstuk 3 van deze regeling, mits voldaan wordt aan de eisen, bedoeld in bijlage 6.   
+2.  De gebiedsbegrenzingen, bedoeld in het eerste lid zijn: 
+
+a. voor Bonaire: het gebied, begrensd door de lijnen gaande van de meest oostelijke punt van Bonaire (68-12'W) in de richting zuid tot de parallel van 12-00' noorderbreedte, vandaar in de richting west tot de meridiaan van 68-17' westerlengte, vandaar in de richting 327 naar een punt op 12-15' noorderbreedte en 68-27' westerlengte, vandaar in de richting 022 naar een punt op 12-20' noorderbreedte en 68-25' westerlengte en vandaar in de richting van de vuurtoren Seroe Ventana.  
+
+b. voor Sint Eustatius: het gebied, begrensd door de parallellen 17-27' en 17-33' noorderbreedte en de meridianen van 62-55' en 63-02' westerlengte;  
+
+c. voor Saba: het gebied, begrensd door de parallellen van 17-35' en 17-41' noorderbreedte en de meridiaan van 63-11' en 63-17' westerlengte.    
 
 ###Hoofdstuk 4 
 
@@ -839,7 +924,7 @@ c. Saba: het gebied, begrensd door de parallellen van 17-35' en 17-41' noorderbr
 
 Certificaten van deugdelijkheid, afgegeven op grond van de Landsverordening veiligheidsvoorschriften voor kleine schepen (P.B. 191, no. 185, laatstelijk gewijzigd bij P.B. 1997, no. 251) gelden voor de duur, aangegeven op het betreffende certificaat, als een certificaat van deugdelijkheid als bedoeld in artikel 59b, onder toepassing van dit hoofdstuk. 
 
-###Hoofdstuk 7 
+### Hoofdstuk  7  
 
 ####Slotbepalingen
 
@@ -862,6 +947,15 @@ Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Co
 
 1.  Een wijziging van een op grond van deze regeling toepasselijke richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 2.  Uitrusting van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type, waarop door een wijziging van bijlage A.1 van richtlijn 96/98/EG de voorschriften van die richtlijn van toepassing zijn geworden, mag in afwijking van artikel 33 nog gedurende een termijn van twee jaar, gerekend vanaf de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, aan boord van schepen worden geplaatst, mits zij voor die dag werd vervaardigd en ook de typegoedkeuring voor die dag werd verleend.  
+
+### Artikel  62a  
+
+####Overgangsrecht voor Caribisch-Nederlandse schepen
+
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van artikel 3a worden op een Caribisch-Nederlands schip waarvoor op grond van hoofdstuk 6a een certificaat van deugdelijkheid is afgegeven, de bepalingen van hoofdstuk 6a, zoals dat luidde tot 1 juli 2014, toegepast tot de geldigheidsduur van het certificaat op grond van artikel 59e afloopt.   
+2.  Een Caribisch-Nederlands schip dat niet buiten de in artikel 41b, tweede lid, bedoelde gebiedsbegrenzingen wordt gebracht, is tot 1 januari 2016 vrijgesteld van de in artikel 3a bedoelde verplichting alsmede de in bijlage 6 opgenomen eisen.  
 
 ###Artikel 63 
 
@@ -1186,4 +1280,64 @@ Tabel 2. Verpleeg- en verbandmiddelen
 | II.9.11  | MFAG, laatste editie incl. aanvullingen als bedoeld in artikel 25  van de Regeling veiligheid zeeschepen  | [1]  | [1]  | –  | –  | [1]  | [1]  | –  |
 | II.9.12  | EHBO-boekje Oranje Kruis, laatste editie  | –  | –  | 1  | –  | –  | 1  | –  |
 | II.9.13  | Hersluitbare waterdichte medicijnkist, bestemd voor alle artikelen uit kolom R met inhoudsopgave en behandelingsvoorschrift gedrukt op waterbestendig materiaal.  | –  | –  | –  | –  | –  | –  | 1  |
+
+### Bijlage  6  
+
+####Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij artikel 41b, eerste lid , van de Regeling veiligheid zeeschepen
+
+Een Caribisch-Nederlands schip, als bedoeld in artikel 41b, eerste lid, voldoet aan de volgende eisen: 
+
+1. De eigenaar van het schip draagt er zorg voor dat het schip en de inrichting in deugdelijke staat is en dat het geschikt is voor de reizen die met dat schip worden ondernomen. Dit houdt in dat luiken, patrijspoorten en andere openingen waterdicht, dan wel in geval van openingen naar de machinekamer luchtdicht kunnen worden afgesloten; dat er een goed bevestigde reling aanwezig is; dat de aanwezige brandblus- en lenspompen operationeel zijn; dat er geen beschadigingen zijn die de veiligheid kunnen beïnvloeden; dat de voortstuwingsinstallatie bedrijfsvaardig is en voorzien van voldoende brandstof en dat het schip niet meer personen vervoert dan is toegestaan volgens de voorschriften van de fabrikant. De eigenaar van het schip draagt zorg dat onveilige situaties worden voorkomen en dat passende maatregelen worden genomen om risico’s te beheersen. Hij draagt er tevens zorg voor dat alle opvarenden voor vertrek bekend zijn met de veiligheidsprocedures bij noodsituaties.  
+
+2. De eigenaar kan aantonen dat de constructie, uitwatering en stabiliteit van het schip voldoen aan de eisen die door de bouwer, het klassenbureau, richtlijn 94/25/EG van het Europees Parlement en de Raad van de Europese Unie van 16 juni 1994 inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten met betrekking tot pleziervaartuigen (PbEG 1994, L 164) of het Hoofd van de Scheepvaartinspectie zijn gesteld. Het maximum toegestaan aantal opvarenden is vast op de buitenkant van het schip aangegeven.  
+
+3. De eigenaar van het schip draagt er zorg voor dat de voortstuwingsinstallatie en de aanwezige uitrusting in goede staat verkeert en wordt onderhouden of gekeurd conform de instructies van de fabrikant. Motoren en voortstuwingsinstallaties ondergaan jaarlijks een servicebeurt door een deskundige waarbij bijzondere aandacht aan de brandveiligheid wordt besteed.  
+
+4. Op het schip is de volgende uitrusting aanwezig: 
+
+– ten minste één goedgekeurde poederblusser van 5 kg en één goedgekeurde CO<sub>2</sub>-brandblusser van 6 liter nabij de toegang tot de machinekamer of een schuimblusser ingeval van een buitenboordmotor;  
+
+– tenminste één brandslang met spuitstuk of indien geen brandbluspomp aanwezig is één puts met lijn;  
+
+– indien sprake is van een kombuis, tenminste een branddeken;  
+
+– goedgekeurde reddingvesten voor alle opvarenden; in geval er kinderen aan boord zijn worden deze voor alle kinderen aangevuld met reddingvesten geschikt voor gebruik door kinderen;  
+
+– ten minste één goedgekeurde reddingboei, voorzien van de naam van het schip en de thuishaven; de boei is uitgerust met een drijvende lijn van 30 meter voorzien van een werpring en, indien in het donker gevaren wordt, van een licht;  
+
+– een trapje waarmee drenkelingen terug aan boord kunnen worden genomen;  
+
+– een zaklantaarn waarmee seinen kunnen worden gegeven en een seinspiegel;  
+
+– een set goedgekeurde noodsignalen bestaande uit tenminste twee handstakellichten en twee valschermsignalen of lichtkogels;  
+
+– een radarreflector inclusief voorzieningen om deze op een hoogte van tenminste een meter boven de romp te bevestigen;  
+
+– een voor het vaartuig geschikt anker met ankerkettingvoorloop en ankerlijn van voldoende lengte;  
+
+– een doelmatige lensmogelijkheid, bestaande uit tenminste één mechanische of handpomp per compartiment; voor eenvoudige vaartuigen kan worden volstaan met een hoosvat of emmer;  
+
+– een goedgekeurde vast opgestelde VHF radio installatie voorzien van een elektrische krachtbron om gedurende tenminste drie uur stroom te leveren;  
+
+– voldoende drinkwater voor de duur van de reis voor alle opvarenden;  
+
+– een lijst met reddingseinen en noodprocedures;  
+
+– navigatieverlichting, middelen voor het geven van geluidssignalen en dagmerken in overeenstemming met het Aanvaringsverdrag;  
+
+– een deugdelijk kompas, geschikt voor maritiem gebruik;  
+
+– tenminste twee meerlijnen van voldoende sterkte en lengte; en  
+
+– een EHBO kist met de in bijlage 8 bij de SCV-Code voorgeschreven medische uitrusting en de daarbij behorende handleiding.    
+
+5. Benzine als brandstof is alleen toegestaan voor niet vast aangebrachte buitenboordmotoren. Deze motoren moeten zijn voorzien van een deugdelijke en veilige aansluiting met de benzinetank.  
+
+6. Indien het schip is uitgerust met één enkel ingebouwd voortstuwingswerktuig is het schip tevens voorzien van peddels of roeiriemen en een drijfanker met lijn. Indien het schip is voorzien van één buitenboordmotor als voortstuwingswerktuig is er tevens een reserve buitenboordmotor aanwezig.  
+
+7. Opslag van benzine aan boord van een schip, dat gebruik maakt van een buitenboordmotor, geschiedt in goedgekeurde opslagtanks aan dek.   
 

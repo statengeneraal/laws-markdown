@@ -122,7 +122,7 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 ### Article  12  
 
 1. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to health care services, including those related to family planning.
-2. Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropiate services in connexion with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
+2. Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connexion with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
 
 ### Article  13  
 
@@ -147,7 +147,7 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
 (d)To obtain all types of training and education, formal and non-formal, including that relating to functional literacy, as well as, *inter alia,* the benefit of all community and extension services, in order to increase their technical proficiency;
 
-(e)To organize self-help groups and co-operatives in order to obtain equal access to economic opportunities through exployment or self-employment;
+(e)To organize self-help groups and co-operatives in order to obtain equal access to economic opportunities through employment or self-employment;
 
 (f)To participate in all community activities;
 
@@ -396,7 +396,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 ### Artikel  12  
 
 1. De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen op het gebied van de gezondheidszorg uit te bannen, ten einde te verzekeren dat vrouwen, op basis van gelijkheid van mannen en vrouwen, gebruik kunnen maken van medische zorg, met inbegrip van die welke verband houden met geboortenregeling.
-2. Niettegenstaande het bepaalde in het eerste lid van dit artikel waarborgen de Staten die partij zijn bij dit Verdrag aan vrouwen passende, zonodig kosteloze dienstverlening in verband met zwangerschap, bevalling en de hierop volgende periode, alsmede passende voeding gedurende de zwangerschap en de tijd waarin zij hun zuigelingen voeden.
+2. Niettegenstaande het bepaalde in het eerste lid van dit artikel waarborgen de Staten die partij zijn bij dit Verdrag aan vrouwen passende, zo nodig kosteloze dienstverlening in verband met zwangerschap, bevalling en de hierop volgende periode, alsmede passende voeding gedurende de zwangerschap en de tijd waarin zij hun zuigelingen voeden.
 
 ### Artikel  13  
 
@@ -468,7 +468,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 3. De eerste verkiezing wordt gehouden zes maanden na de datum van inwerkingtreding van dit Verdrag. De Secretaris-Generaal van de Verenigde Naties zendt ten minste drie maanden voor de datum van iedere verkiezing de Staten die partij zijn bij dit Verdrag een brief waarin hun wordt verzocht binnen twee maanden een voordracht te doen. De Secretaris-Generaal stelt een alfabetische lijst op van alle aldus voorgedragen personen, onder vermelding van de Staten die hen hebben voorgedragen, en legt deze voor aan de Staten die partij zijn bij dit Verdrag.
 4. Verkiezing van de leden van het Comité heeft plaats op een door de Secretaris-Generaal op de zetel van de Verenigde Naties te beleggen vergadering van de Staten die partij zijn bij dit Verdrag. Op die vergadering, waarvoor twee derde van het aantal Staten die partij zijn bij dit Verdrag een quorum vormen, zijn die voorgedragen personen in het Comité gekozen, die het grootste aantal stemmen op zich verenigen en die een volstrekte meerderheid verkrijgen van de stemmen van de aanwezige, hun stem uitbrengende vertegenwoordigers van de Staten die partij zijn bij dit Verdrag.
 5. De leden van het Comité worden gekozen voor een tijdvak van vier jaar. De ambtstermijn van negen van de bij de eerste verkiezing gekozen leden loopt evenwel na twee jaar af; onmiddellijk na de eerste verkiezing worden deze negen leden bij loting aangewezen door de voorzitter van het Comité.
-6. Verkiezing van de vijf extra leden van het Comité heeft plaats overeenkomstig het bepaalde in het tweede, derde en vierde lid van dit artikel na de vijfendertigste bekrachtiging of toetreding. De ambstermijn van twee van de bij die gelegenheid gekozen extra leden loopt na twee jaar af; deze beide leden worden bij loting aangewezen door de voorzitter van het Comité.
+6. Verkiezing van de vijf extra leden van het Comité heeft plaats overeenkomstig het bepaalde in het tweede, derde en vierde lid van dit artikel na de vijfendertigste bekrachtiging of toetreding. De ambtstermijn van twee van de bij die gelegenheid gekozen extra leden loopt na twee jaar af; deze beide leden worden bij loting aangewezen door de voorzitter van het Comité.
 7. Om te voorzien in tussentijds ontstane vacatures benoemt de Staat die Partij is bij dit Verdrag en wiens deskundige niet langer optreedt als lid van het Comité uit zijn onderdanen een andere deskundige, onder voorbehoud van de goedkeuring van het Comité.
 8. De leden van het Comité ontvangen, met goedkeuring van de Algemene Vergadering, uit de middelen van de Verenigde Naties emolumenten op door de Algemene Vergadering vast te stellen voorwaarden waarbij rekening wordt gehouden met de belangrijkheid van de taken van het Comité.
 9. De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de andere voorzieningen, benodigd voor een doelmatige uitoefening van de taken van het Comité krachtens dit Verdrag.

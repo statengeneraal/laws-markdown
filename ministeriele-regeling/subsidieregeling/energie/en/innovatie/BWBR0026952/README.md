@@ -1616,6 +1616,487 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  Voor de rangschikking wordt het aantal punten gegeven voor eerste lid, onderdeel a, vermenigvuldigd met 15, het eerste lid, onderdeel b, vermenigvuldigd met 30, het eerste lid, onderdeel c, vermenigvuldigd met 30 en het eerste lid, onderdeel d, vermenigvuldigd met 25 en vervolgens opgeteld.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
 
+### Subparagraaf  2.4.18  
+
+####Demonstratie energie-innovatie (DEI)
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.18.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder DEI-project: demonstratieproject of combinatie van industrieel onderzoek, experimentele ontwikkeling en demonstratieproject, dat respectievelijk die past binnen de in de bijlage 2.4.19 (Demonstratie energie-innovatie) opgenomen beschrijving van demonstratie energie-innovatie. 
+
+### Artikel  2.4.18.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie voor het uitvoeren van een DEI-project aan: 
+
+a. een ondernemer die zelfstandig een DEI-project zal uitvoeren;  
+
+b. een deelnemer in een samenwerkingsverband.     
+2.  Een samenwerkingsverband dat een DEI-project uitvoert, bevat ten minste één onderneming.  
+
+### Artikel  2.4.18.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een DEI-project ten hoogste: 
+
+a. voor een demonstratieproject: 
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
+
+– 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;    
+
+b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van [artikel 14a, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+3.  De in het eerste lid genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
+4.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
+5.  De subsidie bedraagt minimaal € 125.000 en maximaal € 4.000.000 per DEI-project.  
+
+### Artikel  2.4.18.4  
+Treedt in werking per 01-07-2014 
+
+De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
+
+### Artikel  2.4.18.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar. 
+
+### Artikel  2.4.18.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.18.7, eerste lid, minder dan drie punten per criterium, zijn toegekend;  
+
+b. eerder op grond van deze regeling een subsidie is verstrekt voor een soortgelijk project;  
+
+c. het project lager is gerangschikt dan een soortgelijk project;  
+
+d. bij een DEI-project dat bestaat uit een combinatie van industrieel onderzoek, experimentele ontwikkeling en een demonstratieproject, niet ten minste 70% van de subsidiabele kosten is toe te rekenen aan het demonstratieproject.   
+
+### Artikel  2.4.18.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
+
+b. het project meer bijdraagt aan verduurzaming van de energiehuishouding en maatschappelijk relevanter is, binnen de context van de overgang naar een duurzame energievoorziening;  
+
+c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
+
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid en de deelnemende partijen.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
+3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 50, het eerste lid, onderdeel b, vermenigvuldigd met 15, het eerste lid, onderdeel c, vermenigvuldigd met 15 en het eerste lid, onderdeel d, vermenigvuldigd met 20 en vervolgens opgeteld.   
+4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Subparagraaf  2.4.19  
+
+####Systeemintegratie
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.19.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder systeemintegratieproject: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de in bijlage 2.4.20 (Programmalijnen Systeemintegratie) opgenomen programmalijnen. 
+
+### Artikel  2.4.19.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een systeemintegratieproject.   
+2.  Eensamenwerkingsverband dat een systeemintegratieproject uitvoert, bevat ten minste één onderneming.  
+
+### Artikel  2.4.19.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een systeemintegratieproject ten hoogste: 
+
+a. 75% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+
+b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
+
+d. voor een demonstratieproject: 
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
+
+– 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van [artikel 14a, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+3.  De in het eerste lid, onderdelen b, c en d, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.   
+4.  De in het eerste lid, onderdelen b, c en d, genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
+5.  Onverminderd het derde en vierde lid, wordt het in het eerste lid, onderdeel c, bedoelde percentage voor MKB-ondernemingen met 10 procentpunten verhoogd indien: 
+
+a. sprake is van samenwerking tussen twee onderling onafhankelijke ondernemingen en geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor zijn rekening moet nemen, of  
+
+b. het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.     
+6.  De subsidie bedraagt maximaal € 500.000 per systeemintegratieproject.  
+
+### Artikel  2.4.19.4  
+Treedt in werking per 01-07-2014 
+
+De minister verdeelt het subsidieplafond per programmalijn, genoemd in bijlage 2.4.20, op volgorde van rangschikking van de aanvragen. 
+
+### Artikel  2.4.19.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is drie jaar. 
+
+### Artikel  2.4.19.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.19.7, eerste lid, minder dan 12 punten zijn toegekend;  
+
+b. niet ten minste 25% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
+
+c. eerder op grond van deze regeling een subsidie is verstrekt voor een soortgelijk project;  
+
+d. de subsidie minder bedraagt dan € 100.000;  
+
+e. na toepassing van artikel 2.4.19.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project;  
+
+f. meer dan 30% van de subsidiabele kosten toe te rekenen is aan fundamenteel onderzoek.   
+
+### Artikel  2.4.19.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. het project meer bijdraagt aan de generieke doelstellingen van het programma systeemintegratie en aan de doelstellingen van ten minste één van de programmalijnen, genoemd in bijlage 2.4.20;  
+
+b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
+
+c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
+
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
+3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 2.   
+4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Subparagraaf  2.4.20  
+
+####Energiebesparing industrie: joint industry projects
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.20.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder jip-energiebesparing industrieproject: project, bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 2.4.21 (Programmalijnen Energiebesparing industrie: joint industry projects) opgenomen programmalijnen. 
+
+### Artikel  2.4.20.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie aan een onderzoeksorganisatie of een ondernemer met als hoofdactiviteit het ontwikkelen van kennis en technologie voor derden, in een samenwerkingsverband voor het uitvoeren van een jip-energiebesparing industrieproject.   
+2.  Een samenwerkingsverband bestaat uit ten minste vier ondernemingen en ten minste één onderzoeksorganisatie of ondernemer met als hoofdactiviteit het ontwikkelen van kennis en technologie voor derden.  
+
+### Artikel  2.4.20.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een jip-energiebesparing industrieproject ten hoogste: 
+
+a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+
+b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
+
+d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
+2.  De in het eerste lid, onderdelen b en c, genoemde percentages worden met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
+3.  De in het eerste lid, onderdelen b en c, genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.  
+
+### Artikel  2.4.20.4  
+Treedt in werking per 01-07-2014 
+
+De minister verdeelt het subsidieplafond per programmalijn, genoemd in bijlage 2.4.21, op volgorde van rangschikking van de aanvragen. 
+
+### Artikel  2.4.20.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar. 
+
+### Artikel  2.4.20.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.20.7, eerste lid, minder dan 12 punten zijn toegekend;  
+
+b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
+
+c. eerder op grond van deze paragraaf een subsidie is verstrekt voor een soortgelijk project;  
+
+d. in onvoldoende mate is voorzien in een kwalitatief goede kennisverspreiding;  
+
+e. na toepassing van artikel 2.4.20.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
+
+### Artikel  2.4.20.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van bijlage 2.4.21;  
+
+b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
+
+c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
+
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en het plan voor de kennisverspreiding.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
+3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Subparagraaf  2.4.21  
+
+####Wind op zee: joint industry projects
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.21.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder wind op zee jip: project bestaande uit industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 3.7.1 (Programmalijnen Wind op zee) opgenomen innovatiethema’s. 
+
+### Artikel  2.4.21.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie aan een onderzoeksorganisatie in een samenwerkingsverband voor het uitvoeren van een wind op zee jip.   
+2.  Een samenwerkingsverband bestaat uit ten minste drie ondernemingen en ten minste één onderzoeksorganisatie.   
+3.  De penvoerder van het samenwerkingsverband is een onderzoeksorganisatie in het samenwerkingsverband.   
+4.  De penvoerder geeft in de aanvraag aan binnen welke van de in bijlage 3.7.1 genoemde innovatiethema’s de aanvraag valt.  
+
+### Artikel  2.4.21.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een wind op zee jip ten hoogste: 
+
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+2.  De subsidie bedraagt per wind op zee jip ten hoogste: 
+
+a. € 1.000.000 indien het valt in innovatiethema 1 (Ondersteuningsconstructies) of innovatiethema 5 (Beheer en onderhoud);  
+
+b. € 500.000 indien het valt in innovatiethema 2 (Optimalisatie van de windcentrale) of innovatiethema 3 (Intern elektrisch netwerk en aansluiting op het hoogspanningsnet);  
+
+c. € 1.500.000 indien het valt in innovatiethema 4 (Transport, Installatie en Logistiek).    
+
+### Artikel  2.4.21.4  
+Treedt in werking per 01-07-2014 
+
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
+
+### Artikel  2.4.21.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar. 
+
+### Artikel  2.4.21.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.21.7, eerste lid, minder dan 2,5 punten per criterium zijn toegekend;  
+
+b. na toepassing van artikel 2.4.21.7, eerste lid, minder dan 12 punten zijn toegekend;  
+
+c. niet ten minste 50% van de financiering van de subsidiabele projectkosten bestaat uit een financiële bijdrage door ondernemingen;  
+
+d. eerder op grond van deze regeling een subsidie is verstrekt voor een soortgelijk project;  
+
+e. na toepassing van artikel 2.4.21.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project;  
+
+f. de aanvrager niet aannemelijk heeft gemaakt dat het wind op zee jip leidt tot duurzame energieproductie in 2023 en tot een besparing op de uitgaven aan subsidies in het kader van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), die groter is dan de aangevraagde subsidie onder deze paragraaf.   
+
+### Artikel  2.4.21.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. het project meer bijdraagt aan de kwantitatieve reductie van de kostprijs van windenergie op zee in 2020;  
+
+b. het project meer bijdraagt aan omzet en werkgelegenheid van de Nederlandse windenergie op zee sector in 2020;  
+
+c. de kwaliteit van het project beter is, blijkend uit de samenstelling van het samenwerkingsverband, deelname van cruciale partijen uit de waardeketen of het MKB, het publicatieplan en de plannen voor intellectueel eigendom, de technische of wetenschappelijke onderzoeksmethode, het projectplan en de projectorganisatie;  
+
+d. de projectopzet kosteneffectiever is en het aandeel van de financiering door ondernemingen in de totale projectfinanciering groter is.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
+3.  De minister kent per project 0,5 extra punten toe indien het valt in de programmalijnen 1 (Ondersteuningsconstructies) of 5 (Beheer en onderhoud) en één extra punt indien het valt in programmalijn 4 (Transport, installatie en logistiek).   
+4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Subparagraaf  2.4.22  
+
+####EnerGO: compacte conversie en opslag
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.22.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder EnerGO CCO-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject, of een combinatie van deze vormen, dat past binnen de in bijlage 2.4.22 (Programmalijnen EnerGO: compacte conversie en opslag) opgenomen programmalijnen. 
+
+### Artikel  2.4.22.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een EnerGO CCO-project.   
+2.  Een samenwerkingsverband voor een EnerGO CCO-project bestaat uit ten minste één onderneming en ten minste één onderzoeksorganisatie.  
+
+### Artikel  2.4.22.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een EnerGO CCO-project ten hoogste: 
+
+a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+
+b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
+
+d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties;  
+
+e. voor een demonstratieproject: 
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
+
+– 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De in het eerste lid, onderdelen b, c en e, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een MKB-onderneming is en de subsidiabele kosten worden gemaakt en betaald door de MKB-onderneming.   
+3.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van [artikel 14a, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+4.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
+5.  De subsidie bedraagt maximaal € 3.100.000 per EnerGO CCO-project.  
+
+### Artikel  2.4.22.4  
+Treedt in werking per 01-07-2014 
+
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
+
+### Artikel  2.4.22.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar. 
+
+### Artikel  2.4.22.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.22.7, eerste lid, op de onderdelen a tot en met d, minder dan drie punten per criterium zijn toegekend;  
+
+b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
+
+c. eerder op grond van deze regeling een subsidie is verstrekt voor een soortgelijk project;  
+
+d. na toepassing van artikel 2.4.22.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
+
+### Artikel  2.4.22.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
+
+b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
+
+c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
+
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet;  
+
+e. het project meer kenmerken bevat van de programmatische aanpak zoals beschreven in bijlage 2.4.22.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
+3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Subparagraaf  2.4.23  
+
+####Smart grids
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  2.4.23.1  
+Treedt in werking per 01-07-2014 
+
+In deze subparagraaf wordt verstaan onder smart-grids-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject, of een combinatie daarvan, dat past binnen de in bijlage 2.4.23 (Programmalijnen Smart Grids) opgenomen programmalijnen. 
+
+### Artikel  2.4.23.2  
+Treedt in werking per 01-07-2014 
+
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een smart-grids-project.   
+2.  Een samenwerkingsverband bestaat uit ten minste één onderneming en ten minste één onderzoeksorganisatie.  
+
+### Artikel  2.4.23.3  
+Treedt in werking per 01-07-2014 
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een smart-grids-project ten hoogste: 
+
+a. 80% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+
+b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
+
+d. voor een demonstratieproject: 
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
+
+– 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+– 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van [artikel 14a, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+3.  De in het eerste lid, onderdelen b tot en met d, genoemde percentages, worden verhoogd met 10 procentpunten, indien de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
+4.  De subsidie bedraagt maximaal € 1.000.000 per smart-grids-project.  
+
+### Artikel  2.4.23.4  
+Treedt in werking per 01-07-2014 
+
+Per programmalijn, genoemd in bijlage 2.4.23, verdeelt de minister het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
+
+### Artikel  2.4.23.5  
+Treedt in werking per 01-07-2014 
+
+De termijn, bedoeld in [artikel 23, eerste lid, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is vier jaar. 
+
+### Artikel  2.4.23.6  
+Treedt in werking per 01-07-2014 
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. na toepassing van artikel 2.4.23.7, eerste lid, op de onderdelen a, b, c of d, minder dan vijf punten per criterium zijn toegekend;  
+
+b. de subsidie minder bedraagt dan € 125.000;  
+
+c. reeds eerder op grond van deze regeling subsidie is verstrekt voor een soortgelijk project;  
+
+d. na toepassing van artikel 2.4.23.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
+
+### Artikel  2.4.23.7  
+Treedt in werking per 01-07-2014 
+
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
+
+a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
+
+b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
+
+c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
+
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid en de deelnemende partijen;  
+
+e. de aanvrager verhoudingsgewijs minder subsidie vraagt dan op basis van de regeling is toegestaan.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
+3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdelen a en b, elk vermenigvuldigd met 2,5, het eerste lid, onderdelen c en d, elk vermenigvuldigd met twee en vervolgens opgeteld.   
+4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
 ### Hoofdstuk  3  
 
 ####Investering
@@ -3877,6 +4358,317 @@ Bijdrage aan de verdere ontwikkeling van dit gedeelte van de Nederlandse PV sect
 ####Applicatieontwikkeling en demonstratie van Nederlandse PV-technologieën
 
 Ontwikkelen en demonstreren van innovatieve PV-producten die voornamelijk zijn gebaseerd op Nederlandse kennis en kunde, zodat deze succesvoller en sneller op de markt kunnen worden gebracht en vóór 2020 (ook in Nederland) geïmplementeerd kunnen worden. Er wordt met name gezocht naar PV-producten die een exportpotentieel hebben. Hierbij is met name de ‘bankability’ van Nederlandse innovaties belangrijk De focus van dit thema ligt op applicatieontwikkeling en demonstratie. 
+
+### Bijlage 2.4.19 
+
+####(Demonstratie energie-innovatie)
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij Subparagraaf 2.4.18  Demonstratie energie-innovatie (DEI) van de Subsidieregeling energie en innovatie
+
+De doelstelling van de subparagraaf Demonstratie energie-innovatieprojecten is om in Nederland een 'etalage’ van energie-innovaties te creëren waardoor Nederlandse bedrijven gemakkelijker de sprong naar internationaal succes kunnen maken met producten, processen of diensten die zij ontwikkeld hebben. Voor Nederland nieuwe (toepassingen van) apparaten, systemen of technieken, die energie besparen of die het gebruik van hernieuwbare energiebronnen bevorderen, worden door het bedrijfsleven in de praktijk toegepast. De demonstratieprojecten moeten technologieën bevatten die potentie hebben voor versterking van de Nederlandse economie, wat betreft omzet, werkgelegenheid en export van en door Nederlandse fabrikanten, technische dienstverleners of leveranciers. Op deze wijze dragen de projecten bij aan de economische (groene) groei in Nederland. De projecten moeten gaan over energietechnologie die bijdraagt aan de verduurzaming van de energiehuishouding. Productiemachines voor energiebesparende of duurzame energieproducten komen niet in aanmerking voor subsidie. De projecten kunnen bijdragen aan de programmalijnen van de zeven Topconsortia voor kennis en innovatie (TKI’s) binnen de topsector energie: bio-energie, wind op zee, smart grids, zonne-energie, energiebesparing in de gebouwde omgeving, gas en energiebesparing in de industrie, maar zijn niet hiertoe beperkt. Ook andere technologieën die energie besparen of het gebruik van hernieuwbare energiebronnen stimuleren, zijn toegestaan. Hernieuwbare energiebronnen die in aanmerking komen, zijn: windenergie, zonne-energie, aerothermische (warmte in de omgevingslucht), hydrothermische (warmte in het oppervlaktewater), geothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolzuiveringsinstallaties en biogas. Projecten op het gebied van biobrandstoffen die onder de bijmengverplichting vallen, komen niet in aanmerking voor subsidie. 
+
+### Bijlage 2.4.20 
+
+####(Programmalijnen Systeemintegratie)
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij Subparagraaf 2.4.19  Systeemintegratie van de Subsidieregeling energie en innovatie
+
+De aanleiding voor het opstellen van een themabeschrijving voor systeemintegratie is het feit dat diverse ontwikkelingen, zoals de snelle toename van duurzaam, de veranderende rol van consumenten m.b.t. energie, en allerlei ontwikkelingen op de internationale energiemarkt, ertoe leiden dat de energievoorziening complexer wordt. Het ‘traditionele’ systeem met haar (verouderde) *assets*, actoren, verdienmodellen, regulering en maatschappelijke rollenverdeling voldoet waarschijnlijk niet meer om deze ontwikkelingen te kunnen faciliteren. De vraag is wat de verschillende TKI’s Energie vanuit hun eigen werkveld én hun gezamenlijke TKI-overschrijdende kennis en expertise kunnen doen om de ontwikkelingen en aanpassingen die in de energievoorziening gewenst en nodig zijn, te accommoderen en de kansen die hier liggen voor de BV Nederland te verzilveren? Systeemintegratie richt zich op het vinden van antwoorden op deze vragen. Het doel is *nieuwe kennis, diensten en producten ontwikkelen rondom systeeminnovaties die nodig zijn om de energievoorziening van de toekomst zodanig in te richten dat deze zoveel mogelijk gebruik maakt van het potentieel voor duurzame energie, betrouwbaar en betaalbaar blijft en de transitie naar een duurzame energievoorziening optimaal faciliteert. *Deze innovaties zijn gericht op de integratieaspecten en moeten ertoe leiden dat de uitdagingen in de snel veranderende energievoorziening adequaat worden geadresseerd en dat kennis, diensten en producten worden ontwikkeld om de energievoorziening toekomstbestendig te maken. Systeemintegratie richt zich – schematisch en sterk vereenvoudigd -op de volgende energiefuncties (de grijze blokken geven de focus van het thema weer): ![253757](http://wetten.overheid.nl/Illustration/253757)
+
+1.  *Hybride energie-infrastructuren:* hierbij staat de interactie tussen energie-infrastructuren (elektriciteit, gas, warmte, koude) centraal en hun rol in de energiewaardeketen.  
+
+2.  *Energieopslag:* bevat verschillende vormen van energieopslag en hun interactie met de energiewaardeketen. In het subsidieprogramma worden deze 2 functies gezamenlijk behandeld vanwege de nauw relatie tussen beide: het is één programmalijn ‘Hybride energie-infrastructuren en Energieopslag’. Het is echter mogelijk om op één of beide functies voorstellen in te dienen.  
+
+3.  *Keteninteracties:* ontwikkeling van modellen, studies, scenario’s, MKBA’s, wet- en regelgeving die de energiewaardeketen en de interacties daarbinnen integraal beschrijven, analyseren en oplossingen ontwikkelen. Deze functies worden breed ‘aangevlogen’, d.w.z. dat technische, economische, ecologische, institutionele en maatschappelijke aspecten kunnen worden verkend. Er is ruimte voor een breed scala aan projecten: technologische (techniek, ICT), financieel/economische, ecologische, institutionele, maatschappelijke en systeemtechnische innovaties worden gestimuleerd voor zover passend binnen de steunkaders. Projecten kunnen zich richten op het totale systeem maar ook op specifieke elementen waarbij de relatie tot het systeem goed onderbouwd moet worden. Er wordt ruimte geboden aan fundamenteel, industrieel onderzoek en experimentele ontwikkeling en experimentele toepassing. Dat betekent dat naast modellen en analyses ook ontwikkelings-, pilot- en demonstratieprojecten kunnen worden gehonoreerd. Het thema Systeemintegratie draagt bij aan versterking van de positie van Nederlandse bedrijven en kennisinstellingen. Het programma combineert de sterkten uit de individuele TKI’s Energie waardoor de basis aanwezig is om TKI-overstijgend en integraal een sterke ‘poot’ rond systeemintegraties te bouwen.   De subsidieregeling staat open voor voorstellen op de volgende programmalijnen: 
+
+1.  *Hybride Energie-infrastructuren en Energieopslag*  Inhoudelijk richt dit onderwerp zich op transport en opslag van elektriciteit via gasvormige energiedragers (Power2Gas), via warmte/koude (Power2Heat/Cold), via chemische processen/producten en allerlei andere/nieuwe opties. Hierbij staat het vraagstuk centraal op welke wijze er meer flexibiliteit kan worden gecreëerd in de energievoorziening door deze opties te ontwikkelen en optimaal te benutten. Hieronder worden ter illustratie enkele voorbeelden gegeven. 
+
+a.  *Transport en opslag van elektriciteit via gas (Power2Gas):* hierbij valt te denken aan Power2Gas via elektrolyse en andere technologieën, waarbij de waardeketens gasvormige energiedragers zijn (waterstof, methaan, synthesegas etc). Ook de opslag in/via lucht bijvoorbeeld (w.o. CAES) wordt hierbij inbegrepen;  
+
+b.  *Transport en opslag van elektriciteit via warmte/koude (Power2Heat/Cold):* hierbij valt te denken aan de conversie van elektriciteit in warm water of stoom, en koude incl. opslag van deze energiedragers. Dit thema wordt deels reeds gedekt door het TKI Energo;  
+
+c.  *Transport en opslag van elektriciteit via chemische processen/producten (Power2Chemicals)*: dit thema heeft raakvlakken met programmalijn i. (Power2Gas) maar er bestaan ook specifieke chemische processen (bijvoorbeeld productie van ethyleen via plasmaprocessen) die hier passen;  
+
+d.  *Transport en opslag via nieuwe opties: *hieronder vallen onderwerpen waarbij de combinatie wordt gemaakt van elektriciteit en/of gas in meerdere energiedragers, zoals warmte, koude, elektriciteit en chemicaliën (voorbeeld zijn tri-generatie van gas naar elektriciteit, warmte en koude, of de conversie van elektriciteit naar gas, warmte en chemicaliën).   De subparagraaf EnerGO: compacte conversie en opslag richt zich op thermische opslag, zowel op gebiedsniveau als op gebouwniveau (thermochemische opslag). Deze optie sec komt daarom niet in aanmerking voor subsidie binnen de subparagraaf Systeemintegratie. De subparagraaf Smart grids richt zich op de waarde die met verschillende vormen van opslag kan worden gecreëerd en hoe die zich vertalen naar flexibiliteitsdiensten (valorisatie van opslag en conversie, business modellen). Voorstellen op dit terrein komen daarom niet voor subsidie in aanmerking onder de subparagraaf Systeemintegratie.  
+
+2.  *Keteninteracties*  Het onderwerp Keteninteracties richt zich op de integratie-aspecten van alle basiselementen in de hele keten of van deelketens. Het programma zoekt naar nieuwe methodieken, tools en modellen (al dan niet ICT-ondersteund) om ketens te analyseren en te beschrijven, modelleringstechnieken die keteninteracties (simulatiemodellen, optimalisatiemodellen, andere ICT-mogelijkheden) simuleren, maatschappelijke kosten-baten analyses (mkba’s) en scenario-analyses. Ook is het van belang om zicht te krijgen op de (beleid)instrumenten die de ontwikkeling van duurzaam en fossiel in een bepaalde richting kunnen beïnvloeden, zoals wet- en regelgeving. Binnen deze systeemtechnische onderwerpen passen ook vragen die samenhangen met businessmodellen (bedrijfseconomische aspecten), de barrières die innovaties en oplossingen belemmeren en hoe deze op te lossen zijn, en vragen omtrent de regievorming over de keten om tot optimale oplossingen te komen. Geografisch gezien zijn naast de Nederlandse dimensie ook ontwikkelingen en invloeden van andere NW Europese landen/regio’s mogelijk. Voorbeelden hiervan zijn de ontwikkeling van (NW) Europese productiecapaciteit, uitbreiding van interconnectie, Europees beleid en regelgeving en emissiehandel.   
+
+### Bijlage 2.4.21 
+
+####(Programmalijnen Energiebesparing industrie: joint industry projects)
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij Subparagraaf 2.4.20  Energiebesparing industrie: joint industry projects van de Subsidieregeling energie en innovatie
+
+De doelstelling van de regeling is het ondersteunen van een samenwerkingsverband voor het uitvoeren van een Joint Industry Program (JIP) -energiebesparing industrieproject gericht op nieuw toegepast R&D onderzoek. De projecten vallen binnen de scope van de hieronder genoemde programmalijnen van het TKI-ISPT gericht op verbetering van de industriële energie-efficiency: 
+
+* nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie;  
+
+* intensifiëren van processen en optimaliseren van warmte- en stofoverdracht;  
+
+* energie-efficiënte manier van gasscheiding en gasbehandeling;  
+
+* verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping;  
+
+* nieuwe generatie warmtegebruik systemen.   ![253758](http://wetten.overheid.nl/Illustration/253758)
+De regeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Er wordt gekeken naar vier aspecten; bijdrage duurzaamheid, innovativiteit, economische potentie en projectkwaliteit. In de volgende paragrafen zijn de onderzoeksvragen beschreven zoals door de industrie zijn gedefinieerd. 
+
+####Programmalijn Nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie
+
+Industriële processen voor het scheiden van vloeistoffen gebruiken grote hoeveelheden energie. Destillatie en indamping worden in de huidige industriële praktijk op grote schaal toegepast, maar zijn zeer energie-intensief. Sterke energiebesparing is mogelijk door het toepassen van andere scheidingsprincipes. Te denken valt aan affiniteitsscheidingen (zoals bijvoorbeeld extractie, adsorptie, absorptie) en de toepassing van membranen. Ook hybride technologieën, waarbij destillatie gecombineerd wordt met andere technologie, zoals extractieve destillatie of de combinatie van membranen met destillatie, kunnen bijdragen aan het terugbrengen van het huidige energiegebruik van vloeistofscheiding. Voor grootschalige toepassing van deze technologieën in de industrie is onderzoek en ontwikkeling noodzakelijk. Deze call vraagt daarom om een set van activiteiten binnen een JIP-energiebesparing industrieproject, waarbij kan worden gedacht aan: 
+
+* het verkrijgen van bredere kennis bij affiniteitscheidingen is nodig ten behoeve van de selectie van het extractiemiddelen, in samenhang met de eigenschappen van de te verwijderen component en het procesontwerp van de affiniteitscheiding. Fundamenteel begrip van moleculaire interacties die een rol spelen bij affiniteitscheidingen en case studies kunnen toepassing aanzienlijk versnellen;  
+
+* bredere toepassing van membraantechnologie, zoals nanofiltratie, vraagt om membranen die beter voldoen aan de toepassingseisen, zoals stabiliteit, levensduur, flux en selectiviteit. Ontwikkeling van materialen die aan deze eisen voldoen, alsmede het opschalen, moduleontwerp en het testen met industrieel relevante mengsels, zijn belangrijke stappen in de richting van implementatie.   
+
+####Programmalijn Intensifiëren van processen en optimaliseren van warmte- en stofoverdracht
+
+*Achtergrondinformatie en specifieke uitdagingen:*  Energie en grondstoffen zijn relatief schaars in Europa, terwijl de groei in de bulkchemie relatief laag is in een overwegend verzadigde markt. Dientengevolge dient de bulkchemische sector voortdurend de efficiëntie van zijn overwegend continue en kapitaalintensieve processen te verhogen en efficiënter om te gaan met grond- en hulpstoffen. Tegelijkertijd vindt er een verschuiving plaats naar de produktie van fijn- en speciaalchemicaliën met een hogere toegevoegde waarde die typisch in batchprocessen worden geproduceerd. Verder maakt de ‘bio-based economy’ opgang met uitdagingen op het gebied van gedistribueerde beschikbaarheid van grondstoffen, de verwerking van verdunde processtromen, etc. Procesintensivering (PI) richt zich op de conceptualisering, verkenning en ontwikkeling van nieuwe innovatieve technologie waarmee deze uitdagingen tegemoet getreden kunnen worden. Potentiele energiepesparingen door PI worden hoog ingeschat [*SPIRE Roadmap, * http://www.spire2030.eu]. De potentiële energiebesparing ten gevolge van PI in de Nederlandse chemische industrie wordt geschat op 30–60 PJ per jaar [*De Sleutelrol waarmaken – Routekaart Chemie 2012–2013: Energie en klimaat, * http://www.routekaartchemie.nl/]. De call is erop gericht om te komen tot een set van activiteiten binnen een JIP-energiebesparing industrieproject met als mogelijke onderwerpen: 
+
+* Warmte- en massatransport zijn sterk afhankelijk van de hydrodynamica via de directe invloed daarvan op de warmte- en stofoverdrachtscoëfficienten en de oppervlakken waarover deze werkzaam zijn. Ook (micro)menging wordt sterk door de hydrodynamica bepaald. Externe krachtenvelden in het algemeen en centrifugaalvelden in het bijzonder bieden de mogelijkheid om deze processen te intensiveren door het bevorderen van de turbulentie en/of het verhogen van het beschikbare oppervlak. Toepassing van deze technologie op b.v. desorptie (stripping), absorptie, reactie en precipitatie biedt potentiële voordelen ten aanzien van de hoogte van investeringen en energieverbruik.  
+
+* De conversie in veel chemische processen (zowel in de bulk- als in de fijnchemie) is thermodynamisch gelimiteerd en maakt het gebruik van meerdere reactoren, grote recycle stromen, integratie van warmtestromen en scheiding van producten en reactanten in energie-intensieve processen noodzakelijk. Bekende voorbeelden zijn b.v. de productie van ammoniak, methanol, de ‘water-gas-shift’ reactie, ‘stream reforming’, transesterificaties, veresteringen, etc. Intensivering van deze conversieprocessen door het in-situ verwijderen van een van de reactieproducten (zoals met b.v. reactieve destillatie, membraanreactoren, ‘sorption-enhanced’ reactoren, etc.) kan leiden tot aanzienlijk hogere conversies en daarmee tot aanzienlijke energiebesparingen.  
+
+* Veel fijn- en speciaalchemicaliën worden geproduceerd in batchprocessen. Intensivering van deze processen middels een overgang naar continue produktie op kleine schaal biedt vele voordelen ten aanzien van veiligheid, efficiëntie, consistentie, procescondities, time-to-market, etc. Deze overgang wordt momenteel mogelijk gemaakt door de opkomst van geïntensifeerde reactoren zoals o.a. spinning disc reactoren, micro- en milli-reactoren en oscillating baffle flow reactoren voor enkelvoudige en meervoudige reacties. De naschakeling van continue geïntensiveerde scheidingstechnologieën is een volgende stap in deze overgang. Door uit te gaan van flexibele en modulaire concepten wordt het verlies aan schaalvoordeel goedgemaakt en kan mogelijk ook de supply chain worden geoptimaliseerd door de introductie van gedecentraliseerde produktie (‘on demand’ en zo dicht mogelijk bij de klant).   De scope voor de projectvoorstellen zullen zich richten op het aantonen van de industriële haalbaarheid van bovengenoemde geïntensiveerde technologieën, het demonstreren van de technologie op TRL 4-5 en het aantonen van de potentiële energiebesparing. 
+
+####Programmalijn Energie-efficiënte manier van gasscheiding en gasbehandeling
+
+####Terugwinning van waardevolle verbindingen uit lage druk gasstromen
+
+In de energie-intensieve industriële sector worden in veel gevallen gasvormige bijproducten gevormd. Dit zijn gassen die voor het specifieke bedrijf van geringe waarde zijn. Voor een ander bedrijf kunnen deze stromen echter wel waardevolle componenten bevatten. Door toename van een industriële symbiose kan de waarde hiervan benut worden, leidend tot een hogere energie en grondstof efficiency. Een van de huidige belemmeringen is een gebrek aan kennis omtrent economische en technische haalbaarheid van het terugwinnen van de pure componenten uit deze, vaak lage druk, gasstromen. Deze call richt zich op JIP-energiebesparing industrieproject met hierbinnen activiteiten van korte duur waarin verschillende technologieën experimenteel worden verkend. Hierbij bestaat er een voorkeur voor de terugwinning van waterstof en koolmonoxide. Een techno-economische evaluatie in vergelijking met de huidige gebruikelijke praktijk vormt een essentieel onderdeel van de studie, waarin met name de energie en grondstofefficiency een belangrijke rol spelen. 
+
+####Programmalijn Verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping
+
+Deze call vraagt om een set van activiteiten binnen een JIP-energiebesparing industrieproject waarin meerdere partijen gezamenlijk gaan investeren en werken aan het praktisch inzetbaar maken (van TRL 4 naar TRL 7 brengen) c.q verbeteren (van TRL 3 naar TRL 5 brengen) van een door de industrie verlangde innovatieve procestechnologie voor het behandelen van proceswaterstromen in de procesindustrie. Dit moet resulteren in meer(terugwinnen en hergebruiken van nuttige en waardevolle producten en proceswater, het sluiten van interne processtromen (inclusief de water cyclus) en een sterk gereduceerd en schoner aanbod van stromen aan publieke zuivering installaties (RWZI). Uitgangspunt daarbij is een aantoonbaar gezonde en duurzame business case. Het JIP-energiebesparing industrieproject moet binnen 6 jaar leiden tot een besparing van 25% op het energieverbruik dat nu nodig is (bij toepassen van thans commercieel beschikbare bewezen procestechnologie in dezelfde processen) om dezelfde mate van prestatie bij (terug)winning en hergebruik te bereiken. In het bijzonder wordt gedacht aan een combinatie van activiteiten gericht op (een aantal van) de volgende onderwerpen:  
+
+| --- | --- |
+|:---|:---|
+| 1.  | Vrijmaken van complexe moleculen (zouten, metalen, organische stoffen) uit complexe stromen  |
+| 2.  | Opstellen van een beslisboom welke technologie in welke omstandigheid toe te passen  |
+| 3.  | Onttrekken en hergebruiken van organische componenten uit proceswaterstromen  |
+| 4.  | Technologieën en systemen voor het terugwinnen en hergebruiken voor optimale valorisatie van waardevolle organische componenten als aanwezig in (zij-, rest- en afval) waterstromen van industriële processen.  |
+| 5.  | Op meest optimale wijze verwijderen en recyclen van anorganische componenten (mineralen, zuren, basen, zouten, zoals fosfaat) uit proceswaterstromen en het beschikbaar maken daarvan voor andere toepassingen  |
+| 6.  | Terugwinnen en hergebruiken van zouten, zuren, basen en metaal ionen vanuit rest- en afval- waterstromen van industriële processen (Voorbeeld: Het terugwinnen en hergebruiken van zoutstromen die vrijkomen bij de preperatie van proces en boiler water (ketelwater; bijvoorbeeld bij de-mineralisatie en regeneratie van ionenwisselaars).  |
+| 7.  | Recycling van water en sluiten van de watercycles: Water zelf beschouwen als de waardevolle en terug te winnen component. Gebruikt proces water zuiveren en omzetten naar schoon en her te gebruiken water  |
+| 8.  | Voorkomen van accumulatie van storende componenten bij hergebruik van water (kringloopsluiting)  |
+| 9.  | Optimale energie winning en hergebruik van water via osmotische gedreven membraan processen bijvoorbeeld in vergelijking met omgekeerde elektrodialyse (Blue Energy)  |
+| 10.  | Ontwikkelen en toepassen van betere concentratiemethoden in relatie tot behandeling van proceswater (realisatie van her te gebruiken geconcentreerde stromen en schoon water).  |
+| 11.  | Het onttrekken en hergebruiken van nutriënten en andere stoffen uit een van een algenkweek afkomstige waterstroom inclusief het geschikt maken van die waterstroom voor hergebruik.  |
+| 12.  | Ontwikkelen van nieuwe en alternatieve schoonmaakprocessen ten einde de productieverliezen, en gebruik van water, chemicaliën en energie te minimaliseren (cleaning without product loss, m.n. Food en Farma)  |
+
+Een set van activiteiten kan desgewenst op verschillende wijze gegroepeerd worden. Bijvoorbeeld methoden gericht op behandeling van de hoofd processtroom (1, 3, 5, 7, 10, 11)of op behandeling van rest- en afvalstromen (4, 6, 8, 12). Indien concreet kan worden gemaakt hoe de voorgestelde set van activiteiten die passen in de call gecombineerd gaan worden met soortgelijke/gerelateerde activiteiten welke door FISCH (Flanders Innovation Hub for Sustainable Chemistry) in België worden gestart kan dit de beoordeling van het rangschikkingscriterium ‘kwaliteit van het project’ positief beïnvloeden. Toelichting: ![253759](http://wetten.overheid.nl/Illustration/253759)
+Door afscheiden en hergebruik van nuttige en waardevolle componenten uit proceswaterstromen, kan meer waarde worden gehaald uit die stromen. Tevens wordt een substantiële reductie in energieverbruik gerealiseerd en kan gezuiverd water worden ingezet voor hergebruik. Winning van gewenste organische producten uit water gebaseerde processtromen kan ernstig worden gehinderd door aanwezigheid van andere storende componenten. Conversie en scheiding in processen zijn nooit volledig. Nuttig en waardevol materiaal komt terecht in zij- en reststromen. Betere (terug)winning van waardevolle componenten en meer zuiveren van water voor hergebruik blijft nu vaak achterwege omdat het economisch niet aantrekkelijk is, terwijl door inzetten en toepasbaar maken van nieuwe procestechnologie en het verbeteren daarvan deze horde kan worden genomen. Door het ontwikkelen en toepassen van dergelijke technologie kan de toch al sterke expertpositie van Nederland op het gebied van waterbehandeling en omgang met water (Nederland ‘waterland’) worden versterkt. Dit leidt tot toename van exportkansen en extra werkgelegenheid bij Nederlandse toeleveringsbedrijven, Daarnaast ontstaat concurrentievoordeel voor Nederlandse eindgebruikers bij toepassing van de nieuwe technologie. 
+
+####Programmalijn Nieuwe generatie warmtegebruik systemen
+
+In deze programmalijn wordt gestreefd naar: 
+
+* reductie van (fossiel) energieverbruik voor de productie en het gebruik van industriële warmte;  
+
+* verbeteren van het concurrentievermogen van de belanghebbenden door reductie van de energiekosten;  
+
+* creëren van nieuwe marktmogelijkheden voor fabrikanten van apparatuur;  
+
+* verbeteren van de energie-efficiëntie van industriële processen.   Het geschatte energiebesparingspotentieel komt overeen met 100 PJ / jaar. Het gebruik van warmte binnen de industrie is verantwoordelijk voor meer dan 80% van het uiteindelijke energieverbruik. Warmte wordt gebruikt voor verwarming van grondstoffen, het mogelijk maken van reacties en het aandrijven van scheidingsprocessen. Het gewenste temperatuurniveau omvat een breed bereik, afhankelijk van het specifieke proces. Tegelijkertijd komen grote hoeveelheden afvalwarmte vrij naar de omgevingsatmosfeer die niet op economische wijze kunnen worden hergebruikt. Hergebruik van restwarmte: Het terugwinnen en hergebruiken van industriële restwarmte wordt belemmerd door technologische en economische barrières. Verschillende mogelijke paden kunnen worden voorzien die starten vanuit economisch warmteterugwinning van restwarmte. Vervolgens kan restwarmte worden omgezet in proceswarmte, proceskoude of vermogen. Tenslotte kan warmteopslag en distributie worden gerealiseerd. Binnen de call voor deze programmalijn wordt gevraagd naar een set van activiteiten binnen een JIP-energiebesparing industrieproject waarin gezamenlijk gewerkt gaat worden aan onderstaande onderwerpen; 
+
+### A  
+
+####Warmteterugwinning
+
+Een deel van de vrijkomende restwarmte uit industriële processen is momenteel niet of moeilijk winbaar. Dit wordt veroorzaakt doordat de restwarmtestromen problemen leveren qua temperatuur (thermische, mechanische stabiliteit), qua samenstelling (corrosie, fouling, vocht) of qua fase (m.n. vaste stoffen). Dit limiteert het hergebruik van deze restwarmte voor nuttige doeleinden. Benodigde activiteiten op dit gebied, zijn technologieën die op kosteneffectieve wijze warmte kunnen terugwinnen uit ‘moeilijke’ (hoge temperatuur, corrosief, hoge vochtpercentages, vaste stoffen) stromen. 
+
+### B  
+
+####Warmteconversies
+
+Indien het temperatuurniveau van de vrijkomende industriële restwarmte te laag is voor hergebruik kunnen een aantal conversies worden ingezet om weer tot een nuttige inzet te komen. Drie verschillende conversies worden hier onderscheiden: 
+
+1. Restwarmte naar proceswarmte; Restwarmte kan worden opgewaardeerd naar proceswarmte middels een warmtepomp. Conventionele warmtepompen zijn gelimiteerd in zowel temperatuurverhoging als leveringstemperatuur. Daarnaast zijn de condities bij de eindgebruikers zeer divers, zowel qua temperatuurniveau, qua vermogen als qua aard van de warmtestromen (voelbaar, latent). Dit leidt tot de behoefte aan een portfolio van activiteiten aan warmtepomptechnologieën voor de diversiteit voor toepassingen binnen de industrie. De leveringstemperatuur moet omhoog van de huidige 100°C naar 200°C (afhankelijk van de toepassing). Ook zijn temperatuurverhogingen van 50°C of meer noodzakelijk om het toepassingspotentieel van industriële warmtepompen te vergroten. Daar waar mogelijk moeten warmtepompen worden geïntegreerd in het proces (bijvoorbeeld in combinatie met drogen).  
+
+2. Restwarmte naar koude; Conversie van restwarmte naar koude is een bekende technologie en commercieel beschikbaar. De technologie is vaak weinig flexibel en de investeringskosten zijn hoog. Bij deze activiteiten is er behoefte aan kostenreductie en een meer flexibele technologie ten aanzien van temperatuurniveaus.  
+
+3. Restwarmte naar kracht; De nu beschikbare commerciële technieken om elektriciteit te produceren uit restwarmte zijn momenteel, vanwege relatief lage elektriciteitsprijzen, economisch niet haalbaar. Qua efficiency zijn er, thermodynamisch gezien, maar beperkte mogelijkheden tot verbetering. Activiteiten gericht op het bewerkstelligen van een significante kostenreductie zijn nodig om tot een economisch rendabele conversietechnologie te komen voor industriële eindgebruikers.   
+
+### C  
+
+####Warmteopslag
+
+Binnen het energiesysteem en ook bij industriële eindgebruikers ontstaat steeds meer behoefte aan flexibilisering ten aanzien van de inzet van energiedragers. Warmteopslag (en distributie) maakt het mogelijk om deze flexibilisering in tijd en plaats op te vangen. Dit kan worden ingezet binnen (batch) processen, maar ook tussen sites of sectoren. Hierbij is er behoefte aan compact opslagtechnologieën tegen lage kosten. Om tot dit te komen zullen activiteiten binnen het JIP-energiebesparing industrieproject kunnen worden ontplooit om met een diversiteit aan oplossingen te komen tot op temperatuurniveaus van 250°C. 
+
+### Bijlage 2.4.22 
+
+####(Programmalijnen EnerGO: compacte conversie en opslag)
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij Subparagraaf 2.4.22  EnerGO: compacte conversie en opslag van de Subsidieregeling energie en innovatie
+
+### 1  
+
+####Doelstelling TKI EnerGO
+
+EnerGO projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de gebouwde omgeving: 
+
+– Halvering van het totale energiegebruik in de gebouwde omgeving in 2035.  
+
+– Energie neutrale gebouwde omgeving medio deze eeuw.  
+
+– Energie neutrale nieuwbouw (woningbouw en utiliteit) in 2020.   De tenderregeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Primaire aandacht gaat uit naar de warmte en koude oplossingen in de *bestaande bouw* (woningen + utiliteit) omdat de impact daarvan het hoogst is. 
+
+### 2  
+
+####TKI EnerGO programmalijnen en de focus van deze tender
+
+Om een energieneutrale gebouwde omgeving mogelijk te maken is het noodzakelijk dat de energievraag in gebouwen wordt gereduceerd en dat duurzame energiebronnen zo effectief en efficiënt mogelijk worden ingezet. Om aan de warmte/koude vraag die resteert na verhoging van de energie-efficiëntie zo effectief en duurzaam mogelijk te voldoen, zijn *compacte* *warmtepompen* een essentieel onderdeel van het toekomstige energiesysteem. Daarnaast is essentieel voor energieneutraliteit gedurende het hele jaar op gebiedsniveau, het opvangen van het tijdverschil in de vraag en het aanbod van duurzame energie. Lokale *compacte thermische opslag* van een overschot aan duurzame energie maakt het mogelijk om te voorzien in de thermische vraag op momenten dat de vraag hoger is dan het beschikbare aanbod. Daarbij ontlasten lokale oplossingen voor energieopslag het elektriciteitsnetwerk. Vooral in de bestaande bouw vraagt het behalen van energieneutraliteit om nieuwe technologieën en systeemoplossingen. Deze tender richt zich specifiek op thermische energie (warmte/koude); en dan met name op oplossingen voor *compacte conversie (warmtepompen) en (compacte) opslag* en inpassing (fysiek & energiesysteem) hiervan in installatiecomponenten, gebouwen en gebied om daarmee energieneutraliteit op gebiedsniveau te realiseren, niet alleen op jaarbasis, maar ook momentaan. Projecten die passen binnen deze tender ondersteunen: 
+
+* een verhoogde inzet van effectieve PV- en zonthermische systemen;  
+
+* maximale benutting van eigen duurzame energie productie achter de meter (in verband met mogelijke toekomstige begrenzingen van de salderingsmogelijkheden);  
+
+* het voorkomen van onbalans in energienetten;  
+
+* een beperking van de dimensionering van installaties (of componenten daarbinnen door extreme vraag af te vangen);  
+
+* een beperking van de dimensionering van elektriciteits- en warmtenetwerken (en daarmee een verlaging van upgradekosten); mogelijk geleidelijke uitfasering van het gasnet in een gebied (en daarmee renovatiekosten beperken) bij teruglopende beschikbaarheid van gas in de komende decennia.   Hieronder worden de vijf lijnen van TKI EnerGO genoemd, daarna wordt de focus van deze tender nader aangegeven. ![253760](http://wetten.overheid.nl/Illustration/253760)
+*figuur 1: programmalijnen TKI EnerGO*   
+
+| Lijnen in TKI-EnerGO  |
+|:---|
+|  *1. De ‘warmtebatterij’ is de integratie van Duurzame Compacte Conversietechnologie en Compacte Opslag.*   |
+|  *Onderdeel van deze tender.* In het verleden waren dit twee afzonderlijke programmalijnen die nu zijn geïntegreerd in een programmalijn.  De focus ligt op:  a) duurzame compacte conversie, met name kleine, hoog efficiënte componenten en warmtepompen geschikt voor bestaande bouw. De oplossingen moeten inpasbaar zijn in bestaande woningen en utiliteitsbouw. Belangrijk is ook de regeling in samenhang met andere onderdelen van het lokale energiesysteem, in het bijzonder compacte thermische opslag.  Specifieke prestaties die verbeterd moeten worden zijn de:  – efficiency van de conversietechnieken  – afmetingen van installaties (compactere systemen zijn essentieel voor inpassing in de gebouwde omgeving)  – geluidsniveaus van installaties (in woningen moeten installaties niet hoorbaar zijn)  – onderhoudsfrequentie van installaties (betrouwbare technieken en lagere onderhoudskosten maken de business case voor de toepassingen interessanter)  – efficiënte bereiding van warm tapwater  Mogelijke benaderingen hiervoor kunnen zich richten op de toepassing van magnetocalorische materialen, microchannels en nanofluids. Daarnaast kunnen er onderdelen in het voorstel zijn die zich meer richten op het optimaliseren van bestaande warmtepompen als eerste stappen naar producten op basis van principes waarmee prestaties zoals hierboven beschreven verder verbeterd kunnen worden.  b) compacte verliesvrije thermische opslag, met name materialen, componenten (waaronder warmtewisselaars) en reactoren voor thermochemische opslag geschikt voor bestaande bouw. Belangrijk is ook de regeling in samenhang met andere onderdelen van het lokale energiesysteem, in het bijzonder compacte warmtepompen.  Specifieke zaken die verbeterd moeten worden zijn:  – het vergroten van de opslagdichtheid  – het verkorten van de laadtijd  – het verlagen van de laadtemperatuur  – het verhogen van de ontlaadtemperatuur  – het verlengen van de levensduur / stabiliteit van systemen vergroten  – de mogelijkheid om momentaan de energetische beladingsgraad te bepalen op basis van bestaande sensoring technieken  – de capaciteit/vermogen ratio.  In ieder geval wordt een lijn van werken verwacht aan systemen op basis van hydratatie van zouten. Daarnaast kunnen er onderdelen in het voorstel zijn die zich meer richten op het optimaliseren van bestaande producten voor compacte opslag als eerste stappen naar producten of systemen op basis van principes waarmee prestaties als boven bedoeld verder verbeterd kunnen worden (bijvoorbeeld PCM toepassingen).  c) De integratie van aspecten van onderdeel a) en b)  |
+|  *2. Compacte Opslag (dit is nu geïntegreerd in programmalijn 1)*   |
+| --- |
+|  *3. Regeling Energieprestatie en Control*   |
+|  *Niet* in deze tender.  |
+|  *4. Multifunctionele bouwdelen*   |
+|  *Niet* in deze tender.  |
+|  *5. Energieopwekking, distributie en opslag op gebiedsniveau*   |
+|  *Niet* in deze tender.  |
+
+Ontwikkelingen zijn niet alleen gericht op componenten, maar ook op de uiteindelijke totale systemen, producten en diensten. Projecten mogen bijdragen aan één of meerdere van de onderdelen 1a, 1b of 1c. 
+
+### 3  
+
+####Kenmerken van een programmatische aanpak
+
+Bij de beoordeling van voorstellen worden in deze tender extra punten toegekend indien het CCO-project beter tegemoet komt aan de programmatische aanpak (zie artikel 2.4.22.7 lid 1 onderdeel e van de hoofdtekst van deze regeling). Dit extra aantal punten is maximaal 5 en is hoger naarmate een programma meer van de hieronder beschreven kenmerken heeft. Voor het gemak wordt in deze bijlage over een ‘Programma’ gesproken indien het CCO-project de onderstaande kenmerken van de programmatische aanpak in zich heeft. Voorstellen die niet voldoen aan de programmatische aanpak missen de extra punten die gelden voor een programma, maar worden wel degelijk opgenomen in de uiteindelijke ranking. Voor alle CCO-projecten geldt dat de activiteiten en begroting volledig uitgewerkt dienen te worden. Onder een Programmatische aanpak (of programma) wordt hier verstaan: het ontwikkelen en uitvoeren van een meerjaren*programma* / roadmap waarin partijen zich committeren aan onderzoeks- en ontwikkellijnen voor nieuwe materialen, componenten & apparaten en systemen die compacte conversie en opslag van thermische energie in de gebouwde omgeving mogelijk maken. Het meerjarenprogramma / de roadmap richt zich op innovaties voor alle drie de hierboven genoemde onderdelen 1a, 1b en 1c. Een Programma kenmerkt zich door een samenhangende aanpak waarin de consortiumleden: 
+
+– samenwerken aan de uitvoering van een gemeenschappelijke roadmap en het actueel houden van de roadmap (zie paragraaf 3.1);  
+
+– samenwerken aan pre-competitieve en ketengeïntegreerde onderdelen, toegang regelen tot elkaars faciliteiten voor het betreffende programmadeel, informatie delen en activiteiten afstemmen (zie paragraaf 3.2);  
+
+– een besluitvormingsproces opnemen in haar aanpak voor inhoudelijke afstemming omtrent het programma / de roadmap en voor eventuele toetreding en uittreding van consortiumleden (zie paragraaf 3.3);  
+
+– toezeggingen doen over zowel de financiële bijdrage alsmede de inzet van kennis die onderzoeksorganisaties opdoen in programmagerelateerde activiteiten (paragraaf 3.4 en 3.5).   De bovengenoemde kenmerken van een programmatische aanpak worden hieronder nader toegelicht. Herkenbaarheid en hardheid van deze kenmerken in het voorstel versterken het programmatische karakter. 
+
+### 3.1  
+
+####Een programma op basis van een ‘product roadmap’
+
+Een *roadmap* is een gestructureerde aanpak waarbij, op basis op een marktgerichte en prestatiegedreven visie, ontwikkelpaden, productinnovaties en onderzoeksprogramma’s worden gedefinieerd om tegemoet te komen aan prestatie-eisen die volgen uit de visie. De routekaart beschrijft (zie figuur 3): 
+
+– de ontwikkeling van prestatie-eisen / markteisen in de tijd (op basis van een marktvisie);  
+
+– ontwikkelpaden, productinnovaties en concepten waarmee tegemoet gekomen wordt aan de prestatie-eisen;  
+
+– het actieprogramma met de benodigde research op het gebied van materialen, componenten, apparaten en systemen om de productinnovaties met gewenste specificaties te kunnen realiseren.   Kenmerkend voor de aanpak is de prestatiegedreven werkwijze waarbij de diverse belanghebbenden en experts de routekaart uitwerken en visualiseren. Het consortium ontwikkelt op basis van een uitwerking van de visie die ten grondslag ligt aan deze tender een specificatie van prestatie-eisen, gewenste productinnovaties met bijbehorende ontwikkelpaden en business cases. Dit mondt uit in het (jaarlijks) actieprogramma van het consortium (zie figuur 2).  ![253761](http://wetten.overheid.nl/Illustration/253761)
+*figuur 2: proces voor een ‘product roadmap’*  De prestatie-eisen en gewenste productinnovaties met bijbehorende benodigde onderzoek wordt vastgelegd in een regelmatig te actualiseren (product) roadmap (zie figuur 3).  ![253762](http://wetten.overheid.nl/Illustration/253762)
+*figuur 3: opbouw van een ‘product roadmap’*   
+
+### 3.2  
+
+####Een programma heeft pre-competitieve en ketengeïntegreerde onderdelen
+
+Het programma omvat in ieder geval de volgende 2 typen samenwerking: 
+
+* precompetitief onderzoek waarbij meerdere bedrijven binnen 1 schakel in de keten kunnen samenwerken;  
+
+* onderzoek waarbij bedrijven uit verschillende schakels in de keten samenwerken.   ![253763](http://wetten.overheid.nl/Illustration/253763)
+Afstemming tussen activiteiten, gezamenlijke kennisopbouw, kennisuitwisseling en het delen van onderzoeksfaciliteiten zijn essentieel om te komen tot een efficiënt en effectief onderzoeks- en innovatieprogramma. 
+
+### 3.3  
+
+####Governance
+
+Alle deelnemers in het programma zijn vertegenwoordigd in een toezichtsraad die ondermeer de volgende taken en bevoegdheden heeft: 
+
+* ziet toe op de organisatie en het besluitvormingsproces van het consortium;  
+
+* ontwikkelt de visie en actualiseert en stelt jaarlijks het kader voor de deelprogramma’s vast (Warmtepompen en Opslag);  
+
+* stelt eenmalig een protocol vast voor toe- en uittreding;  
+
+* besluit over de hoogte van de toetredingsprijs en de jaarlijkse cash bijdrage van bedrijven per deelprogramma.   Voor elk van de deelprogramma's (Warmtepompen en Opslag) zal er een deelprogrammacommissie uit de deelnemers worden gevormd die ondermeer jaarlijks het deelprogramma actualiseert en toeziet op de uitvoering daarvan. Indien er gedurende de uitvoering van het programma wijzigingen / aanpassingen nodig zijn in het programma, dan stemt de penvoerder de herverdeling van de financiële middelen (in cash en in kind) af met het consortiumleden en met de subsidieverlener. Ook besluiten over toe- en uittreding van consortialeden worden via de penvoerder afgestemd met de subsidieverlener. 
+
+### 3.4  
+
+####Eigen en financiële bijdragen van bedrijven
+
+Het programmavoorstel dient een sluitende begroting te hebben voor de opgenomen activiteiten. Ook moet per consortiumlid duidelijk zijn hoeveel deze bijdraagt (in cash en in kind) aan het programma. Voor bedrijven zal de bijdrage aan het programma minimaal bestaan uit een substantiële inbreng in cash (waarbij verschil gemaakt mag worden tussen de bijdrage van grote ondernemingen en MKB bedrijven). 
+
+### 3.5  
+
+####Relevante gerelateerde inzet van onderzoeksorganisaties
+
+Deelnemende onderzoeksorganisaties dienen tijdens de uitvoering van het programma aantoonbaar voldoende relevante kennis te ontwikkelen via substantiële aan het programma gerelateerde projecten of programma’s. Dit dient zichtbaar gemaakt te worden door in het projectplan aan te geven aan welk substantiële en relevante activiteiten de betrokken onderzoeksorganisaties zich reeds hebben gecommitteerd voor de komende jaren. Per activiteit dient helder te zijn: 
+
+a. wat de inhoudelijke focus is van het gerelateerde programma of project;  
+
+b. wat de looptijd is van de betreffende programma’s of projecten;  
+
+c. wat de programma of projectenkosten zijn voor de organisatie.   Uitgangspunt voor een substantiële bijdrage in de context van het programma voor TNO en ECN is een eigen speurwerkprogramma in gerelateerd onderzoek. Voor Universiteiten geldt als uitgangspunt voor een relevante bijdrage vanuit gerelateerde kennistrajecten de inzet van promovendi/postdocs, gefinancierd vanuit een 1<sup>e</sup> of 2<sup>e</sup> geldstroom (zoals NWO, STW, FOM) in voor dit Programma relevante promotie- en/of postdoc-programma's. Voor andere kennisinstellingen geldt als uitgangspunt dat zij jaarlijks een substantiële hoeveelheid aan algemene kennismiddelen inzetten in relevante en gerelateerde kennisontwikkeling. De partijen dienen in het projectvoorstel aan te geven in hoeverre de kennis uit deze gerelateerde projecten en programma’s daadwerkelijk beschikbaar is voor het programma en/of er beperkingen gelden op het delen van kennis in verband met afspraken rond het intellectuele eigendom (IP). 
+
+### Bijlage 2.4.23 
+
+####(Programmalijnen Smart grids)
+
+Treedt in werking per 01-07-2014 
+
+####Bijlage behorend bij Subparagraaf 2.4.23  Smart grids van de Subsidieregeling energie en innovatie
+
+De ambitie van het TKI S2SG is het realiseren van een significant (15%-30%) flexibeler energiesysteem door innovaties in 1) energiemanagementsystemen gericht op energie- consumenten, en 2) informatiediensten en control systems gericht op exploitanten van de energie infrastructuur. Dat resulteert in energiebesparing door bewustwording bij energieconsumenten, grote investeringsbesparingen in de energie infrastructuur en nieuwe omzet uit ‘flexibilisering’ voor nieuwe, opkomende, en ‘veranderende’ energiebedrijven. TKI S2SG zet daarbij in op het ontwikkelen van een ecosysteem waarin bedrijven, kennisinstellingen en overheden samenwerken aan zowel technisch-economische als socio-economische aspecten van smart grids. De kracht van Nederland ligt bij het innoveren op systeemniveau, het werken aan oplossingen die passen in het grotere geheel en het maken van afspraken over hoe dat dan moet (standaardisatie). Een belangrijk aandachtspunt hierbij is opschaling. De TKI S2SG programmalijnen zijn op bovenstaande gericht: het faciliteren van innovaties in de ontsluiting van flexibiliteit in het energiesysteem. De innovaties zullen zorgen voor het ontstaan van product- en marktcombinaties voor energieconsumenten en voor bedrijven. De programmering van het TKI S2SG bestaat uit twee programmalijnen, die ieder weer zijn onderverdeeld in een drietal speerpunten. Projecten dienen gericht te zijn op de speerpunten binnen één programmalijn. Een project kan zich niet op meer dan één programmalijn richten. In de programmalijnen gaat het om innoveren en waarde creëren in de keten (waarbij elke stap/ product/dienst in de keten exportmogelijkheden biedt): van toeleveranciers naar leveranciers van systeemflexibiliteitdiensten naar energieconsumenten (programmalijn 1) en van toeleveranciers naar leveranciers van energie-infrastructuur-flexibiliteit-diensten naar exploitanten van de energie- infrastructuur (programmalijn 2). Zie figuur 1 met de programmalijnen in de keten. ![253764](http://wetten.overheid.nl/Illustration/253764)
+Figuur 1: de programmalijnen in de keten 
+
+### Programmalijn  1:  
+
+####Energiemanagement voor flexibiliteit in het energiesysteem
+
+In 2020 gebruikt een substantieel aandeel van de energieconsumenten smart grids diensten die flexibiliteit ontsluiten. Daarmee zal ook een deel energie kunnen worden bespaard. Deze lijn gaat bijvoorbeeld over de product/markt combinaties: energiemanagementsystemen, software voor peak shaving, energievraag en -aanbod, ‘smart charging’ van elektrische auto’s. De speerpunten van programmalijn 1: 
+
+– beter benutten bestaande infrastructuur en lokale energieopslag;  
+
+– integreren van decentrale duurzame productie;  
+
+– beheersen van energiestromen (energiemanagement).   Kenmerken van deze programmalijn: 
+
+– producten betreffen het (near) real time managen van de energievraag (demand response) voor klein, middelgrote en grootverbruikers en het managen van gedecentraliseerd aanbod op verschillende schaalgroottes, beiden in combinatie met het benutten van opslag en conversie. Naast technologie is de aandacht ook gericht op de inrichting van Lokale, Regionale, Nationale en Internationale markten die deze flexibiliteit ondersteunen;  
+
+– eindproducten worden geleverd aan energieconsumenten.   
+
+### Programmalijn  2:  
+
+####Informatie en control systems voor flexibiliteit in de energie-infrastructuur
+
+Het doel van deze programmalijn is de kosten van netwerkaanpassingen voor de integratie van duurzame energie substantieel te reduceren en het ondersteunen van de totstandkoming van nieuwe dienstverlening voor tientallen (MKB) bedrijven. Deze lijn richt zich op bijvoorbeeld de product/marktcombinaties: ICT platformen, informatiesystemen, meet- en regelsystemen, sensors, slimme meter datamanagement, markt control mechanisme, slimme kabels, smart inverters, software voor ‘dynamic billing’. De speerpunten van programmalijn 2: 
+
+– beschikbaar stellen of leveren van informatie en datamanagement;  
+
+– inzetten van prijsmechanismen en dynamische verrekeningen;  
+
+– flexibiliseren van de energie infrastructuur.   Kenmerken van deze programmalijn: 
+
+– producten betreffen inzicht geven in de toestand van de infrastructuren, beschikbaar stellen van informatie uit de infrastructuren en flexibeler omgaan met de infrastructuur zelf;  
+
+– eindproducten worden geleverd aan exploitanten van de energie infrastructuur.   
+
+####Essentiële randvoorwaarden voor projecten in het programma
+
+Over de programmalijnen heen is een aantal essentiële aandachtspunten gedefinieerd die richting geven aan de innovaties in de programmalijnen. Projecten zullen aandacht moeten besteden aan zoveel mogelijk van deze aandachtpunten: schaalbaarheid, standaardisatie, privacy en security, wet- en regelgeving, markten, business- en verdienmodellen, tools en modellen voor systeemintegratie. 
 
 ### Bijlage 3.1.1 
 
