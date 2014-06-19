@@ -451,7 +451,7 @@ b. Beheer van munitie Teneinde een zo goed mogelijke betrouwbaarheid van ontplof
 
 i Ontplofbare munitie moet, waar nodig, in veilige voorzieningen of geschikte containers worden opgeslagen die de ontplofbare munitie en de onderdelen ervan, indien nodig, in een beheerste atmosfeer beschermen.  
 
-ii Een staat moet ontplofbare munitie op zodanige wijze van en naar vervaardigings- of opslagslocaties en van en naar het inzetgebied vervoeren dat de ontplofbare munitie zo min mogelijk wordt beschadigd.  
+ii Een staat moet ontplofbare munitie op zodanige wijze van en naar vervaardigings- of opslaglocaties en van en naar het inzetgebied vervoeren dat de ontplofbare munitie zo min mogelijk wordt beschadigd.  
 
 iii Bij de aanleg van voorraden en het vervoer van ontplofbare munitie moeten, waar nodig, geschikte containers en geconditioneerde omgevingen worden gebruikt.  
 
@@ -464,7 +464,7 @@ vi Opgeslagen ontplofbare munitie moet, waar dienstig, periodiek worden beproefd
 vii Submunitie van opgeslagen ontplofbare munitie moet, waar dienstig, in een laboratorium worden beproefd om te waarborgen dat de munitie naar wens functioneert.  
 
 viii Teneinde de betrouwbaarheid van opgeslagen ontplofbare munitie te handhaven, moeten, waar nodig, naar aanleiding van informatie die is verkregen uit de registratie-, tracerings- en beproevingsprocedures, passende maatregelen worden genomen, waaronder aanpassing van de verwachte levensduur van de munitie.  
-c. Opleiding De juiste opleiding van al het personeel dat betrokken is bij het hanteren, vervoeren en gebruiken van ontplofbare munitie is een belangrijke factor bij het streven naar zekerheid omtrent de betrouwbaarheid van de beoogde werking ervan. Daarom moeten de staten geschikte opleidingsprogramma's invoeren en instandhouden, om ervoor te zorgen dat het personeel naar behoren is opgeleid op het gebied van de munitie waarmee zij moeten omgaan.
+c. Opleiding De juiste opleiding van al het personeel dat betrokken is bij het hanteren, vervoeren en gebruiken van ontplofbare munitie is een belangrijke factor bij het streven naar zekerheid omtrent de betrouwbaarheid van de beoogde werking ervan. Daarom moeten de staten geschikte opleidingsprogramma's invoeren en in stand houden, om ervoor te zorgen dat het personeel naar behoren is opgeleid op het gebied van de munitie waarmee zij moeten omgaan.
 d. Overdracht Een staat die van plan is ontplofbare munitie naar een andere staat over te dragen die voordien die soort ontplofbare munitie niet bezat, moet ernaar streven te waarborgen dat de ontvangende staat de benodigde capaciteit heeft om die ontplofbare munitie op de juiste wijze op te slaan, in stand te houden en te gebruiken.
 e. Toekomstige vervaardiging Met het oog op het bereiken van een zo groot mogelijke betrouwbaarheid moet een staat manieren en middelen onderzoeken ter verbetering van de betrouwbaarheid van ontplofbare munitie die hij voornemens is te vervaardigen of aan te schaffen.
 

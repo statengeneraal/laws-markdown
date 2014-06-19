@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Beneluxverdrag inzake de intellectuele eigendom (merken en tekeningen of modellen)
+##Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen)
 
 ####Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) 
 

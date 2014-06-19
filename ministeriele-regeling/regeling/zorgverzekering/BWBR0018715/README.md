@@ -15284,7 +15284,7 @@ Voorwaarde: uitsluitend voor een verzekerde met diabetes mellitus type 2 en een 
 
 ####Dapagliflozine en canagliflozine
 
-Voorwaarde uitsluitend voor een verzekerde met diabetes mellitus type 2 die niet behandeld kan worden met de combinatie van sulfonylureumderivaat en metformine vanwege contra-indicaties of intolerantie voor het sulfonylureumderivaat en dit middel gebruikt als tweevoudige behandeling in combinatie met metformine of in een vaste combinatie met metformine.
+Voorwaarde uitsluitend voor een verzekerde met diabetes mellitus type 2 die niet behandeld kan worden met de combinatie van sulfonylureumderivaat en metformine vanwege contra-indicaties of intolerantie voor het sulfonylureumderivaat en dit middel gebruikt als tweevoudige behandeling in combinatie met metformine.
 
 ### 87  
 

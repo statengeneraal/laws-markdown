@@ -93,15 +93,15 @@ De additionele kosten van de inzet van de QRA onder verantwoordelijkheid van de 
 
 Deze regeling berust op [artikel 58, tweede lid, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
-###Artikel 8 
+### Artikel  8  
 
 ####Slotbepaling
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-###Artikel 9 
+### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling bijstand bestrijding luchtvaartterrorisme.
+Deze regeling wordt aangehaald als: Regeling bijstand bestrijding luchtvaartterrorisme. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag
