@@ -191,6 +191,7 @@ Treedt in werking per 01-07-2014
 | Nicaragua  | E  |
 | Nieuw-Zeeland  | F  |
 | Oekraïne  | B  |
+|Oezbekistan  |A |
 | Oman  | D  |
 | Oostenrijk  | C  |
 | Pakistan  | D  |

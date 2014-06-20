@@ -43,8 +43,8 @@ b.toezending van de in artikel 3, tweede lid, bedoelde bescheiden.
 
 ### Artikel  5  
 
-1.  De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op € 900.000 aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen of naar die lidstaten verzonden goederen.   
-2.  De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2013 en 2014.  
+1.  De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op € 1.500.000 aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen of naar die lidstaten verzonden goederen.   
+2.  De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2014 en 2015.  
 
 ###Artikel 6 
 

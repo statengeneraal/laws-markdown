@@ -16,13 +16,13 @@ Hebben goedgevonden en verstaan:
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  1.1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -100,19 +100,19 @@ b. maximaal 30 weken wanneer het dieren van legkippenrassen betreft;
 
 ####Ingrepen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### §  1  
 
 ####Toegestane ingrepen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  2.1  
 
 ####Aanwijzing toegestane ingrepen algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -134,7 +134,7 @@ g. het verrichten van lichamelijke ingrepen betreffende een transvaginale follik
 
 ####Aanwijzing toegestane ingrepen gevogelte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -176,7 +176,7 @@ f. het aanbrengen van een neuskapje bij fazanten, mits het dier gehouden wordt o
 
 ####Aanwijzing toegestane ingrepen varkens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -216,7 +216,7 @@ d. het aanbrengen van een gladde roestvrijstalen neusring bij mannelijke varkens
 
 ####Aanwijzing toegestane ingrepen runderen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -232,7 +232,7 @@ b. het aanbrengen van een gladde roestvrijstalen neusring bij mannelijke rundere
 
 ####Aanwijzing toegestane ingrepen overige dieren
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -258,7 +258,7 @@ e. het nemen van schubben bij vissen, mits dit geschiedt met het oog op leeftijd
 
 ####Aanwijzing toegestane ingrepen ter identificatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen: 
 
@@ -298,7 +298,7 @@ n. het verwijderen van de kammen bij wit bevederde mannelijke kippen, mits:
 
 ####Voorwaarden uitvoeren ingrepen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De ingrepen, bedoeld in de artikelen 2.1 tot en met 2.6, worden uitgevoerd op zodanige wijze dat bij het dier geen onnodige pijn of onnodig letsel wordt veroorzaakt en dat het dier niet meer dan nodig is in zijn functioneren wordt belemmerd.   
 2.  Bij een dier worden ten hoogste twee lichamelijke ingrepen ter identificatie als bedoeld in artikel 2.6 verricht.   
@@ -312,13 +312,13 @@ b. het subcutaan of intramusculair aanbrengen van micro-elektronica bij honden e
 
 ####Verrichten van diergeneeskundige handelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  2.8  
 
 ####Beroepsmatig verrichten van diergeneeskundige handelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
 
@@ -347,19 +347,19 @@ h. het beroepsmatig toepassen van een diergeneesmiddel waarvan toepassing kracht
 
 ####Diergeneeskundigen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### §  1  
 
 ####Dierenartsassistent paraveterinair
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.1  
 
 ####Toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister laat tot het beroepsmatig verrichten van de in het tweede lid bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificatie van dierenartsassistent paraveterinair.   
 2.  De handelingen, bedoeld in het eerste lid, zijn: 
@@ -380,7 +380,7 @@ e. inbrengen van een injectienaald ten behoeve van het afnemen van bloed.
 
 ####Betrokkenheid van de dierenarts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De diergeneeskundige handelingen, bedoeld in artikel 3.1, tweede lid, onderdelen a, b en e, worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.   
 2.  De diergeneeskundige handelingen, bedoeld in artikel 3.1, tweede lid, onderdelen b, voor zover het betreft de toepassing van een diergeneesmiddel teneinde een dier te verdoven of bedwelmen, c en d, worden uitsluitend uitgevoerd onder leiding van en in directe aanwezigheid van een dierenarts.  
@@ -389,7 +389,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Diergeneeskundige handelingen tijdens de opleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), worden aangewezen het uitvoeren van de handelingen, bedoeld in artikel 3.1, tweede lid, onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.1, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd. 
 
@@ -397,13 +397,13 @@ Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de
 
 ####Dierenfysiotherapeut
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.4  
 
 ####Voorwaarden voor de toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister laat tot het beroepsmatig verrichten van de in het tweede lid bedoelde diergeneeskundige handeling, toe, degene die: 
 
@@ -426,7 +426,7 @@ c. de voorwaarden waaraan is voldaan teneinde een examen als bedoeld in het eers
 
 ####Betrokkenheid van de dierenarts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Het uitoefenen van dierfysiotherapie wordt uitsluitend toegepast bij een dier na een verwijzing door een dierenarts. 
 
@@ -434,13 +434,13 @@ Het uitoefenen van dierfysiotherapie wordt uitsluitend toegepast bij een dier na
 
 ####Embryotransplanteur/-winner
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.6  
 
 ####Voorwaarden voor de toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister laat tot het beroepsmatig verrichten van de in het tweede lid bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde kwalificatie van embryotransplanteur of embryotransplanteur/-winner, dan wel onderdelen van de kwalificatie waaraan een certificaat is verbonden.   
 2.  De handelingen, bedoeld in het eerste lid zijn: 
@@ -461,7 +461,7 @@ c. voorwaarden waaraan is voldaan teneinde de kwalificatie of onderdelen van de 
 
 ####Betrokkenheid van de dierenarts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De diergeneeskundige handelingen, bedoeld in artikel 3.6, tweede lid, worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de dierenarts wordt geïnformeerd over de verrichte diergeneeskundige handelingen, bedoeld in artikel 3.6, tweede lid, alsmede over de omstandigheden waaronder deze plaatsvinden.  
@@ -470,7 +470,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Diergeneeskundige handelingen tijdens de opleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), worden aangewezen het uitvoeren van de handelingen, bedoeld in artikel 3.6, tweede lid, onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.6, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd. 
 
@@ -478,13 +478,13 @@ Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de
 
 ####Activiteiten in kader van de georganiseerde dierziektebestrijding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.9  
 
 ####Voorwaarden voor de toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister kan voor zover dat voor de wering en de bestrijding van besmettelijke dierziekten noodzakelijk is voor een periode van ten hoogste één jaar personen of categorieën van personen toelaten tot het beroepsmatig verrichten van door Onze Minister daarbij aan te wijzen diergeneeskundige handelingen.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de opleiding die is gevolgd alsmede het examen of de onderdelen daarvan die met goed gevolg zijn afgelegd door de personen of categorieën van personen, bedoeld in het eerste lid.   
@@ -494,7 +494,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Betrokkenheid van de dierenarts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij ministeriële regeling kunnen regels worden gesteld over de betrokkenheid van de dierenarts bij het verrichten van de diergeneeskundige handelingen, bedoeld in artikel 3.9, eerste lid. 
 
@@ -502,13 +502,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over de betrokkenheid va
 
 ####Diergeneeskundigen met een buiten de EER of Zwitserland verkregen bevoegdheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.11  
 
 ####Toelating diergeneeskundigen derde landen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister kan tot het beroepsmatig verrichten van diergeneeskundige handelingen, bedoeld in [artikel 4.1, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), personen toelaten die buiten de Europees Economische Ruimte of Zwitserland de bevoegdheid tot uitoefening van de diergeneeskunde hebben verkregen.   
 2.  Voor de toepassing van de [wet](../../../../wet/wet/dieren/BWBR0030250/README.md) en de daarop berustende bepalingen worden personen die buiten de Europees Economische Ruimte of Zwitserland de bevoegdheid tot uitoefening van de diergeneeskunde in haar volle omvang hebben verkregen en op grond van het eerste lid zijn toegelaten, gelijk gesteld met dierenartsen.  
@@ -517,13 +517,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Opleiding tot dierenarts
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.12  
 
 ####Diergeneeskundige handelingen tijdens de opleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), worden aangewezen het uitvoeren van diergeneeskundige handelingen, onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in [artikel 1.1, derde streepje, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) gedurende de periode waarbinnen de opleiding wordt gevolgd. 
 
@@ -531,13 +531,13 @@ Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de
 
 ####Toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.13  
 
 ####Aanvraag toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Een toelating als bedoeld in de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6, eerste lid, en 3.11, eerste lid, wordt op aanvraag verleend. 
 
@@ -545,7 +545,7 @@ Een toelating als bedoeld in de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6,
 
 ####Wijziging gegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Degene die is toegelaten krachtens de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6, eerste lid, en 3.11, eerste lid, stelt Onze Minister binnen een maand in kennis van: 
 
@@ -557,7 +557,7 @@ b. de datum waarop het beroepsmatig verrichten van diergeneeskundige handelingen
 
 ####Intrekken toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Een toelating als bedoeld in de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6, eerste lid, en 3.11, eerste lid kan door Onze Minister worden ingetrokken, indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest. 
 
@@ -565,7 +565,7 @@ Een toelating als bedoeld in de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6,
 
 ####Nadere regels toelating
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in artikel 3.13, of een wijziging als bedoeld in artikel 3.14, wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt. 
 
@@ -573,7 +573,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 ####Toelating artikel 3.9 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De artikelen 3.14 tot en met 3.16 zijn van overeenkomstige toepassing op een toelating als bedoeld in artikel 3.9. 
 
@@ -581,13 +581,13 @@ De artikelen 3.14 tot en met 3.16 zijn van overeenkomstige toepassing op een toe
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  3.18  
 
 ####Regels ter uitvoering van EU-rechtshandelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij ministeriële regeling worden, ter uitvoering van EU-rechtshandelingen, regels gesteld over het beroepsmatig verrichten van diergeneeskundige handelingen en de toelating daartoe, die betrekking hebben op beroepskwalificaties en diensten. 
 
@@ -595,19 +595,19 @@ Bij ministeriële regeling worden, ter uitvoering van EU-rechtshandelingen, rege
 
 ####Registratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### §  1  
 
 ####Dierenartsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  4.1  
 
 ####Registratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Een registratie als bedoeld in [artikel 4.3, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) van een persoon die met goed gevolg een opleiding op het gebied van de diergeneeskunde in haar volle omvang heeft voltooid, vindt op aanvraag plaats. 
 
@@ -615,7 +615,7 @@ Een registratie als bedoeld in [artikel 4.3, eerste lid, van de wet](../../../..
 
 ####Doorhalen registratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Onze Minister draagt er zorg voor dat een registratie als bedoeld in artikel 4.1, wordt doorgehaald indien de desbetreffende persoon het beroepsmatig verrichten van diergeneeskundige handelingen, bedoeld in [artikel 4.1, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), heeft beëindigd.   
 2.  Onze Minister kan een registratie als bedoeld in artikel 4.1 doorhalen indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest.  
@@ -624,7 +624,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging gegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Degene die is geregistreerd krachtens artikel 4.1, stelt Onze Minister binnen vier weken in kennis van: 
 
@@ -636,7 +636,7 @@ b. de datum waarop het beroepsmatig verrichten van diergeneeskundige handelingen
 
 ####Nadere regels registratie dierenartsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in artikel 4.1, of een wijziging als bedoeld in artikel 4.3, wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt. 
 
@@ -644,13 +644,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 ####Diergeneeskundigen niet zijnde dierenartsen, en dierenartsen als bedoeld in artikel 3.11 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  4.5  
 
 ####Registratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Onze Minister draagt er zorg voor dat degene die krachtens de artikelen 3.1, eerste lid, 3.4, eerste lid, 3.6, eerste lid, of 3.11, eerste lid, is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen wordt ingeschreven in het openbaar register, bedoeld in [artikel 4.3, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md). 
 
@@ -658,7 +658,7 @@ Onze Minister draagt er zorg voor dat degene die krachtens de artikelen 3.1, eer
 
 ####Doorhalen registratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in artikel 4.5 wordt doorgehaald indien: 
 
@@ -670,13 +670,13 @@ b. de toelating tot het beroepsmatig verrichten van diergeneeskundige handelinge
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  4.7  
 
 ####Opname gegevens in register
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  In het register, bedoeld in [artikel 4.3, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), worden de volgende gegevens opgenomen: 
 
@@ -709,7 +709,7 @@ b. voorwaarden of beperkingen waaronder een toelating is verleend.
 
 ####Verstrekken gegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Aan de betrokkene wordt op diens verzoek medegedeeld wat te zijnen aanzien in het register vermeld staat.   
 2.  Aan een ieder die zulks verlangt, wordt medegedeeld: 
@@ -732,13 +732,13 @@ b. indien een persoon in het register, bedoeld in [artikel 4.1, eerste lid, van 
 
 ####Diergeneesmiddelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  5.1  
 
 ####Cascade voor dieren die niet voor de productie van levensmiddelen zijn bestemd
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Een dierenarts kan bij wijze van uitzondering in afwijking van de vergunning voor het in de handel brengen van een diergeneesmiddel, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) bij dieren waarvoor de dierenarts de verantwoording heeft en die niet voor de productie van levensmiddelen zijn bestemd, met name teneinde deze dieren onaanvaardbaar lijden te besparen, voor een aandoening waarvoor in Nederland geen diergeneesmiddel in de handel is gebracht, een dier behandelen met een diergeneesmiddel: 
 
@@ -759,7 +759,7 @@ d. dat ex tempore als bedoeld in [artikel 1.1 van het Besluit diergeneesmiddelen
 
 ####Cascade voor dieren die voor de productie van levensmiddelen zijn bestemd
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Een dierenarts kan bij wijze van uitzondering in afwijking van de vergunning voor het in de handel brengen van een diergeneesmiddel, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) bij dieren van een bepaald bedrijf waarvoor de dierenarts de verantwoording heeft en die voor de productie van levensmiddelen zijn bestemd, met name teneinde deze dieren onaanvaardbaar lijden te besparen, voor een aandoening waarvoor in Nederland geen diergeneesmiddel in de handel is gebracht, een dier behandelen met een diergeneesmiddel: 
 
@@ -791,7 +791,7 @@ d. 500 graaddagen voor visvlees.
 
 ####Wachttermijn homeopathische diergeneesmiddelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  In afwijking van artikel 5.2, vijfde lid, bedraagt de wachttermijn na toepassing van een homeopathisch diergeneesmiddel als bedoeld in de [artikelen 3.4](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en [3.5 van het Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) nul dagen, indien de toepassing van de farmacologisch werkzame stof in het diergeneesmiddel bij het betrokken dier in overeenstemming is met een krachtens artikel 27, eerste lid, van Verordening (EU) 470/2009 vastgestelde EU-verordening.   
 2.  Bij ministeriële regeling worden in het belang van de volksgezondheid, diergezondheid, dierenwelzijn of het milieu regels gesteld voor de toepassing van homeopathische diergeneesmiddelen als bedoeld in het eerste lid, waarvoor overeenkomstig artikel 16, eerste lid, van Richtlijn 2001/82/EG vóór 31 december 1993 of met toepassing van artikel 19, tweede lid, van Richtlijn 2001/82/EG, met betrekking tot gezelschapsdieren of exotische dieren, een vergunning voor het in de handel brengen is verstrekt.   
@@ -801,7 +801,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bevoegdheid diergeneeskundigen, niet zijnde dierenartsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Een persoon die een beroep uitoefent als bedoeld in de artikelen 3.1, 3.6, 7.4 of 7.5, past een diergeneesmiddel of diervoeder met medicinale werking in de uitoefening van dat beroep slechts toe in de gevallen die zijn aangewezen krachtens [artikel 5.8, eerste lid, onderdelen a en c, van het Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md). 
 
@@ -809,7 +809,7 @@ Een persoon die een beroep uitoefent als bedoeld in de artikelen 3.1, 3.6, 7.4 o
 
 ####Administratie dierenartsen en andere personen die diergeneeskundige handelingen verrichten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Bij ministeriële regeling worden regels gesteld inzake de administratie van de ontvangst, aflevering en toepassing van diergeneesmiddelen, voormengsels voor diervoeder met medicinale werking en diervoeders met medicinale werking door dierenartsen en andere personen, die bevoegd zijn tot het verrichten van diergeneeskundige handelingen.   
 2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op een gecentraliseerd registratiesysteem als bedoeld in [artikel 2.8, vierde lid, onderdeel f, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md).  
@@ -818,7 +818,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Te verstrekken inlichtingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Dierenartsen en andere personen die bevoegd zijn tot het verrichten van diergeneeskundige handelingen verstrekken, onverminderd [artikel 8.4, tweede lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), aan de door Onze Minister krachtens [artikel 8.1, eerste lid](../../../../wet/wet/dieren/BWBR0030250/README.md), en [artikel 8.14, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen ambtenaren en aan de dierenarts verbonden aan de Nederlandse Voedsel- en Warenautoriteit desgevraagd alle inlichtingen over het voorschrijven van diergeneesmiddelen en het uitvoeren van behandelingen met diergeneesmiddelen bij dieren die voor de productie van levensmiddelen bestemd zijn en aan laatstgenoemde meer bepaald de inlichtingen betreffende de naleving door een bepaald bedrijf van krachtens [artikel 8.5, tweede lid, van het Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) gestelde eisen. 
 
@@ -826,7 +826,7 @@ Dierenartsen en andere personen die bevoegd zijn tot het verrichten van diergene
 
 ####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Bij ministeriële regeling kunnen diergeneesmiddelen aangewezen worden die niet zonder voorafgaande kiemisolatie en gevoeligheidsbepaling door een dierenarts of andere persoon als bedoeld in [artikel 4.1, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) mogen worden toegepast.   
 2.  Bij ministeriële regeling kunnen regels gesteld worden ten aanzien van de kwaliteit, betrouwbaarheid en controleerbaarheid met betrekking tot de uitvoering van de kiemisolatie en gevoeligheidsbepaling.   
@@ -838,13 +838,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overig
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  6.1  
 
 ####Ontstentenis leden veterinair tuchtcollege en veterinair beroepscollege
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, kunnen dierenartsen zitting nemen in het veterinair tuchtcollege, dan wel het veterinair beroepscollege. 
 
@@ -852,19 +852,19 @@ Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, 
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### §  1  
 
 ####Overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  7.1  
 
 ####Ingrepen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Artikel 2.2, onderdeel a, vervalt met ingang van 1 januari 2018.   
 2.  In artikel 2.2, onderdeel b, vervallen met ingang van 1 januari 2015 de woorden: of voor de productie van vaccineieren.   
@@ -879,7 +879,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Diergeneeskundigen niet zijnde dierenartsen en diergeneeskundigen derde landen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Tot het beroepsmatig verrichten van de handelingen, bedoeld in de artikelen 3.1, tweede lid, 3.4, tweede lid, 3.6, tweede lid, 3.9, eerste lid en 3.11, eerste lid, zijn toegelaten personen aan wie het verrichten van die handelingen tot het tijdstip van inwerkingtreding van [artikel 2.9, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md) ingevolge de [artikelen 5](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en [6 van de Wet op de uitoefening van de diergeneeskunde](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) en de [artikelen 2](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md), [6](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) en [9, eerste lid, van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) is toegestaan.   
 2.  Dierenartsassistenten paraveterinair, dierenfysiotherapeuten en embryotransplanteurs die op het tijdstip van inwerkingtreding van dit besluit zijn ingeschreven in het register van praktiserende dierenfysiotherapeuten, embryotransplanteurs, onderscheidenlijk dierenartsassistenten paraveterinair, bedoeld in [artikel 20 van de Regeling paraveterinairen](../../../../ministeriele-regeling/regeling/paraveterinairen/BWBR0006492/README.md), zijn van rechtswege ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md).   
@@ -889,7 +889,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toelating op basis van opleiding deelkwalificaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in artikel 3.1, tweede lid bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning dierenartsassistent paraveterinair als bedoeld in [artikel 9, eerste lid, van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.   
 2.  Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in artikel 3.6, tweede lid bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning embryotransplanteur of embryotransplanteur/-winner als bedoeld in [artikel 6 van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.   
@@ -899,7 +899,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Dierverloskundigen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Degenen die op het tijdstip van inwerkingtreding van dit artikel in het bezit zijn van een geldige, hun ingevolge [artikel 5, tweede lid, van de Wet op de Uitoefening van de Diergeneeskunst](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) verleende vergunning tot uitoefening van de verloskunde, zijn toegelaten tot het verlenen van hulp met betrekking tot de geboorte of verwijdering van een vrucht van dieren van in die vergunning genoemde soorten, voor zover deze hulp bestaat uit het beroepsmatig verrichten van de in het tweede lid bedoelde diergeneeskundige handelingen.   
 2.  De handelingen, bedoeld in het eerste lid zijn: 
@@ -927,7 +927,7 @@ b. de datum waarop de werkzaamheden, bedoeld in het eerste lid, zijn beëindigd.
 
 ####Castreurs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Degenen die op het tijdstip van inwerkingtreding van dit artikel in het bezit zijn van een geldige, hun ingevolge [artikel 5, tweede lid, van de Wet op de Uitoefening van de Diergeneeskunst](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) verleende vergunning tot het castreren, zijn toegelaten tot het beroepsmatig verrichten van de in het tweede lid bedoelde diergeneeskundige handelingen.   
 2.  De handelingen, bedoeld in het eerste lid zijn: 
@@ -947,7 +947,7 @@ b. de datum waarop de werkzaamheden, bedoeld in het eerste lid, zijn beëindigd.
 
 ####Registratie dierverloskundigen en castreurs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Dierverloskundigen en castreurs die onmiddellijk voor het tijdstip van inwerkingtreding van dit artikel zijn ingeschreven in het register van dierverloskundigen en castreurs, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md), zijn van rechtswege ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md).   
 2.  Artikel 4.6, eerste lid, aanhef en onderdeel a, is van overeenkomstige toepassing op dierverloskundigen en castreurs.  
@@ -956,13 +956,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging andere besluiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  7.7  
 
 ####Wijziging [Besluit diergeneesmiddelen](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Wijzigt het Besluit diergeneesmiddelen. 
 
@@ -970,13 +970,13 @@ Wijzigt het Besluit diergeneesmiddelen.
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 ### Artikel  7.8  
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
@@ -984,7 +984,7 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Dit besluit wordt aangehaald als: Besluit diergeneeskundigen. 
 

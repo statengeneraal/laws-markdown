@@ -208,7 +208,7 @@ h. een omschrijving van de wijze van financiering van structurele maatregelen di
 
 ####Weigering van de subsidie
 
-Een aanvraag tot verlening van subsidie wordt in ieder geval afgewezen, indien naar het oordeel van de minister: 
+Een aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeeltelijk afgewezen, indien naar het oordeel van de minister: 
 
 a. de subsidieaanvraag niet voldoet aan de daaraan bij en krachtens deze regeling gestelde eisen;  
 
@@ -317,8 +317,9 @@ c. opleidingsbenodigdheden;
 
 d. begeleiding en advisering van opleidingstrajecten.     
 2.  De maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag niet meer dan 2 miljoen euro per onderneming per opleidingsproject bedraagt.   
-3.  Artikel 1.2, vijfde lid en artikel 5.2, eerste lid, onderdeel c, zijn niet van toepassing indien het opleidingsproject een BBL betreft waarmee niet binnen zes maanden na de datum van de subsidiebeschikking, bedoeld in artikel 2.4, een aanvang kan worden gemaakt, mits de BBL aanvangt binnen twaalf maanden na de datum van de subsidiebeschikking. In afwijking van artikel 5.5, eerste lid, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronische formulier.   
-4.  In afwijking van het eerste lid en artikel 5.1, eerste lid, bedraagt de subsidie voor een BBL 20% van de subsidiabele kosten, waarbij de subsidiabele kosten uitsluitend bestaan uit de loonkosten gedurende de eerste twee jaren van diegene die de opleiding volgt, waarbij het component brutoloon van de loonkosten dat voor subsidie in aanmerking komt, is gemaximeerd op het voor die persoon geldende wettelijk minimumloon. 
+3.  Artikel 1.2, vijfde lid, en artikel 5.2, eerste lid, onderdeel c, zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van BBL, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in artikel 2.4, een aanvang wordt gemaakt met de uitvoering. In afwijking van artikel 5.5, eerste lid, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronische formulier.   
+4.  In afwijking van het eerste lid en artikel 5.1, eerste lid, bedraagt de subsidie voor een BBL 20% van de subsidiabele kosten, waarbij de subsidiabele kosten uitsluitend bestaan uit de loonkosten gedurende de eerste twee jaren van diegene die de opleiding volgt, waarbij het component brutoloon van de loonkosten dat voor subsidie in aanmerking komt, is gemaximeerd op het voor die persoon geldende wettelijk minimumloon.  
+5.  Indien een BBL later aanvangt dan twaalf maanden na de datum van de subsidiebeschikking, bedoeld in artikel 2.4, en vierentwintig maanden of langer duurt, kan deze BBL voor cofinanciering in aanmerking komen voor de duur van de BBL, doch maximaal voor een periode tot 36 maanden na de datum van de subsidiebeschikking. 
 
 ### Artikel  4.4  
 

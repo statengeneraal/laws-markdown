@@ -258,7 +258,7 @@ bijlage 1: Boomstructuur 2012–2013 (Lijst met de indeling van kwalificatiedoss
 
 ####: Inhoud van de kwalificatiedossiers 2012–2013
 
-Gepubliceerd op www.ocwduo.nl.
+Gepubliceerd op www.duo.nl.
 
 ###Bijlage 3 
 

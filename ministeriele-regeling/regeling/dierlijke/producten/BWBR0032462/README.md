@@ -194,7 +194,7 @@ b. Dit onderdeel is nog niet in werking getreden.
 
 ####Stichting Skal
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De Stichting Skal is de controlerende autoriteit, bedoeld in artikel 27, vierde lid, onderdeel a, van verordening (EG) nr. 834/2007. 
 
@@ -202,7 +202,7 @@ De Stichting Skal is de controlerende autoriteit, bedoeld in artikel 27, vierde 
 
 ####Verbodsbepaling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Het is verboden bij het in de handel brengen of etiketteren van of reclame maken voor producten te verwijzen naar de biologische productiemethode, bedoeld in verordening (EG) nr. 834/2007 en het logo, bedoeld in artikel 25 van die verordening, tenzij is voldaan aan de voorschriften van die verordening, van verordening (EG) nr. 889/2008, verordening (EG) nr. 1235/2008 en deze paragraaf. 
 
@@ -210,7 +210,7 @@ Het is verboden bij het in de handel brengen of etiketteren van of reclame maken
 
 ####Deelname controlesysteem
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  De inkennisstelling, bedoeld in artikel 28, eerste lid, onderdeel a, van verordening (EG) nr. 834/2007, wordt gedaan bij Stichting Skal.   
 2.  Met toepassing van artikel 28, tweede lid, van verordening (EG) nr. 834/2007 is artikel 28, eerste lid, van die verordening niet van toepassing op marktdeelnemers die producten direct aan de eindconsument of eindgebruiker verkopen, mits zij deze producten niet produceren, bereiden of opslaan op een plaats die geen verband houdt met het verkooppunt, of dergelijke activiteiten aan een derde partij hebben uitbesteed.  
@@ -219,7 +219,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aanvragen vergunningen en ontheffingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Een aanvraag voor een vergunning als bedoeld in artikel 29, eerste lid, van verordening (EG) nr. 889/2008 wordt ingediend bij de minister.   
 2.  Een aanvraag voor ontheffing om gelijkwaardige producten als bedoeld in artikel 19, eerste lid, van verordening (EG) nr. 1235/2008 overeenkomstig dat artikel in de handel te brengen, wordt ingediend bij de minister.  
@@ -228,7 +228,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vrijstellingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 1.  Met toepassing van artikel 39 van verordening (EG) nr. 889/2008 mogen bedrijven met ten hoogste tien runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel.   
 2.  Met toepassing van artikel 27, vierde lid, van verordening 889/2008 is het tijdens de drie maanden die voorafgaan aan Pasen toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en lakmiddelen.  
@@ -237,7 +237,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Veebezetting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md). 
 
@@ -245,7 +245,7 @@ De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in ar
 
 ####Uitlopen pluimvee
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De duur van de periode waarin de uitlopen van pluimveestallen leeg moeten blijven, bedoeld in artikel 23, vijfde lid, van verordening (EG) nr. 889/2008 bedraagt telkens na het houden van een koppel: 
 
@@ -760,7 +760,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ####Overgangsrecht biologische productiemethode
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Met toepassing van artikel 95, eerste en tweede lid van verordening (EG) nr. 889/2008 kan de Stichting Skal tot en met 30 december 2013 op aanvraag toestemming verlenen om: 
 

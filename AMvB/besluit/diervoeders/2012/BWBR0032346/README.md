@@ -127,7 +127,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de productie
 
 ####Controles en bewijsstukken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 De Stichting Skal is: 
 
@@ -139,7 +139,7 @@ b. bevoegd tot het uitreiken van bewijsstukken ten aanzien van de kwaliteit van 
 
 ####Overeenkomstige toepassing [Landbouwkwaliteitswet](../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
 Op de uitvoering van het toezicht en de keuring, bedoeld in artikel 2.4 door de Stichting Skal, zijn van overeenkomstige toepassing: 
 

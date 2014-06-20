@@ -5,47 +5,47 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
 
-Gelet op artikel 7.2.4, tweede lid, en artikel 7.2.4a, vierde lid, van de Wet educatie en beroepsonderwijs alsmede artikel 2.2.2, vijfde lid en artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB;
+Gelet op [artikel 7.2.4, tweede lid](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 7.2.4a, vierde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) alsmede [artikel 2.2.2, vijfde lid](../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [artikel 2.2.3, vierde lid, van het Uitvoeringsbesluit WEB](../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
 Besluit:    
 
-### Artikel  1   
-Treedt in werking per 01-08-2014   
+### Artikel  1  
+Treedt in werking per 01-08-2014 
 
-Voor de middenkaderopleidingen, opgenomen in bijlage 1 bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.  
+Voor de middenkaderopleidingen, opgenomen in bijlage 1 bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren. 
 
 ### Artikel  2  
 
-Wijzigt de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012.   
+Wijzigt de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012. 
 
-### Artikel  3   
-Treedt in werking per 01-08-2014   
+### Artikel  3  
+Treedt in werking per 01-08-2014 
 
 1.  Deze regeling treedt in werking met ingang van 1 augustus 2014, met uitzondering van artikel 2, onderdeel B, sub 3.   
-2.  Artikel 2, onderdeel B, sub 3, treedt in werking de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 augustus 2013.   
+2.  Artikel 2, onderdeel B, sub 3, treedt in werking de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 augustus 2013.  
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Treedt in werking per 01-08-2014   
+Treedt in werking per 01-08-2014 
 
-Deze regeling wordt aangehaald als: Regeling vaststelling vierjarige beroepsopleidingen.  
+Deze regeling wordt aangehaald als: Regeling vaststelling vierjarige beroepsopleidingen. 
 Deze regeling zal met bijlage 1 en 2 alsmede de toelichting in de Staatscourant worden geplaatst. De bijlagen 1, 2, 4 en 5 worden gepubliceerd op www.duo.nl.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker    
 
-### Bijlage  1  
+### Bijlage   1  
 
 ####Vierjarige middenkaderopleidingen, geldig vanaf 1 augustus 2014
 
-Treedt in werking per 01-08-2014   
+Treedt in werking per 01-08-2014 
 
 *(gebaseerd op kwalificatiedossiers geldig vanaf 2013)*   
 
-| Kwalificatiedossier  | Kwalificaties  | Penvoerend kenniscentrum <sup>1</sup>  |
-|---|---|---|
+| Kwalificatiedossier  | Kwalificaties  | Penvoerend kenniscentrum<sup>1</sup>   |
+|:---|:---|:---|
 |  *1. Bouw en infra*   |
 | Middenkaderfunctionaris bouw en infra (22012)  | Middenkaderfunctionaris bouw (94051)  Middenkaderfunctionaris infra (94052)  Middenkaderfunctionaris landmeetkunde (94053)  Middenkaderfunctionaris restauratie (94055)  Middenkaderfunctionaris verkeer en stedenbouw (94054)  | Fundeon  |
 |  *2. Afbouw, hout en onderhoud*   |
@@ -113,13 +113,13 @@ Treedt in werking per 01-08-2014
 | Milieu en ruimte (22222)  | Toezichthouder milieu en ruimte (97371)  Milieufunctionaris (97372)  | Aequor (PMLF)  |
 | Paraveterinaire ondersteuning (22238)  | Dierenartsassistent paraveterinair (97590)  | Aequor  |
 
-<sup>1</sup> Tussen haakjes is het participerend kenniscentrum (of participerende kenniscentra) benoemd. 
+<sup>1</sup>Tussen haakjes is het participerend kenniscentrum (of participerende kenniscentra) benoemd.
 
-### Bijlage  2  
+### Bijlage   2  
 
 ####Totstandkoming van het advies
 
-Treedt in werking per 01-08-2014   
+Treedt in werking per 01-08-2014 
 
 Het advies is tot stand gekomen middels een nauwkeurig doorlopen proces. Uitgangspunt was de lijst van advies van februari 2012. Vervolgens zijn de kwalificaties bekeken waarover nog aanvullend advies uitgebracht zou worden. Dit zijn: 
 
@@ -140,7 +140,7 @@ Het advies is tot stand gekomen middels een nauwkeurig doorlopen proces. Uitgang
 – Manager biologisch-dynamisch bedrijf.   Ook betrof dit de kwalificatie Technisch Specialist Bedrijfsauto's waarvan de minister SBB verzocht nog eens naar te kijken, dit na signalen van BOVAG/Innovam. Daarnaast zijn de kwalificaties bekeken met voornamelijk bbl-studenten waar een vierjarige opleiding voor noodzakelijk is. Dit zijn de Orthopedisch technicus, Orthopedisch schoentechnicus, Tandtechnicus kroon- en brugwerk, Tandtechnicus prothese en de Opticien. Om tot een keuze te komen of bovenstaande kwalificaties toegevoegd moesten worden op de lijst zijn dezelfde processtappen gebruikt als voor het advies van 2012. Voor de kwalificaties zijn de volgende stappen doorlopen:  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | Stap 1:  | Selectie op grond van gemiddelde verblijfstijd per student per kwalificatie (zowel bol als bbl, cohort 2006–2010). Als mediaan is gekozen voor een gemiddelde verblijfstijd van 42 maanden.  |
 | Stap 2:  | De kwalificaties zijn vergeleken met de situatie zoals deze gold voor 1995.  |
 | Stap 3:  | Kwalificaties zijn toegevoegd waarop wettelijke beroepsvereisten van toepassing zijn.  |
@@ -151,7 +151,7 @@ Het advies is tot stand gekomen middels een nauwkeurig doorlopen proces. Uitgang
 De kwalificaties zijn vervolgens, na het succesvol doorlopen van de stappen, toegevoegd aan de lijst. Het conceptadvies is vervolgens voor finale controle voorgelegd aan de paritaire commissies onderwijs-bedrijfsleven. Op basis van reacties van de paritaire commissies, waarin een verscherpte visie op de uitvoering heeft plaatsgevonden, is voor enkele kwalificaties geconstateerd dat snelle studenten zullen worden benadeeld bij een vierjarige geprogrammeerde opleiding. De volgende kwalificaties zijn om deze reden van de lijst afgehaald: ICT Beheerder, Netwerk- en mediabeheerder, Commercieel technicus en de Baggermeester. Het geactualiseerde advies telt 83 kwalificaties. Dit betreft zo'n 15% meer kwalificaties (van het aantal niveau 4 opleidingen) dan het advies van 2012. Dit heeft te maken met het behoud van de herkenbaarheid van beroepen waardoor enkele verwachte clustering in het advies van 2012 niet doorgevoerd zijn. Ook zijn kwalificaties toegevoegd aan de lijst. Door een goed doorlopen proces met nauwe betrokkenheid van betrokken partijen is er echter draagvlak voor deze lijst bij zowel onderwijs als bedrijfsleven.  
 
 | Wijzigingen in crebolijst opleidingsdomeinen, kwalificatiedossiers en kwalificaties geldig vanaf 2014  | Soort opleiding  | Leerweg  | Niveau  | SBU's  | Beroepsvereisten  | Prijsfactor  | BRIN Kenniscentrum  | Crebo nummer  | Kwalificatiedossier  | Crebo nummer  | Kwalificatie  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  *Opleidingsdomein*    *8. Transport, Scheepvaart en logistiek 79070*   |
 | --- |
 | 22268  | Stuurman werktuigkundige zeevisvaart sw 6  | --- | --- | --- | BOL/BBL  | --- | --- | --- | 1,70  | 25HV  |

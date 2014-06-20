@@ -127,6 +127,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 |  Nieuw-Zeeland  |  770,-  |  515,-  |  75,-  |
 |Noorwegen |130,– |65,– |13,– |
 |Oekraïne | 194,–  | 97,–  | 19,–  |
+|Oezbekistan  |950,– |475,– |95,– |
 |Oman |550,- |275,- |55,- |
 | Oostenrijk  | 405,-  | 200,-  | 40,-   |
 | Pakistan  | 815,-  | 405,-  | 80,-  |
@@ -227,6 +228,7 @@ De normbedragen van de kosten van vervoer van de remigrant, zijn partner en hun 
 | Nieuw-Zeeland  |  65,-  | 30,-  | 5,-  |
 |Noorwegen |115,– |55,– |15,– |
 |Oekraïne | 30,–  | 12,–  | 5,–  |
+|Oezbekistan  |40,– |20,– |5,– |
 |Oman |28.- |13,- |5,- |
 | Oostenrijk  |  65,-  | 30,-  | 5,-  |
 | Pakistan  | 45,-  | 25,-  | 5,-  |
@@ -327,6 +329,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 | Nieuw-Zeeland  | 490,-  | 90,-  |
 |Noorwegen |315,– |135,– |
 |Oekraïne | 298,–  | 37,–  |
+|Oezbekistan  |351,– |60,– |
 |Oman |353,- |40,- |
 | Oostenrijk  |  280,-   | 65,-  |
 | Pakistan  | 375,-  | 80,-  |
@@ -425,6 +428,7 @@ De normbedragen van het vervoer van de bagage per kubieke meter worden vastgeste
 | Nicaragua  | E  |
 | Nieuw-Zeeland  | F  |
 | Oekraïne  | B  |
+|Oezbekistan  |A |
 | Oman  | D  |
 | Oostenrijk  | C  |
 | Pakistan  | D  |

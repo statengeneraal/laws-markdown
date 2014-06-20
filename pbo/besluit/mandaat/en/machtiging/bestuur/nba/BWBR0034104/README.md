@@ -38,7 +38,7 @@ Het bestuur verleent mandaat en machtiging aan de directie om besluiten te nemen
 
 ### Artikel  7  
 
-1.  Het bestuur verleent mandaat en machtiging aan de Raad voor de Praktijkopleidingen om besluiten te nemen en handelingen te verrichten ter uitvoering van de bevoegdheden of taken van de [Verordening op de praktijkopleidingen](../../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md), met uitzondering van het bepaalde in [artikel 6, derde lid, van die verordening](../../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md).   
+1.  Het bestuur verleent mandaat en machtiging aan de Raad voor de Praktijkopleidingen om besluiten te nemen en handelingen te verrichten ter uitvoering van de bevoegdheden of taken van de Verordening op de praktijkopleidingen, met uitzondering van het bepaalde in [artikel 6, derde lid, van die verordening](../../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md) en de Nadere voorschriften op de praktijkopleidingen.   
 2.  Het bestuur verleent mandaat en machtiging aan de directie om besluiten te nemen en handelingen te verrichten ter uitvoering van het bepaalde in [artikel 6, derde lid, van de Verordening op de praktijkopleidingen](../../../../../../../../pbo/verordening/op/de/praktijkopleidingen/BWBR0033795/README.md).  
 
 ### Artikel  8  

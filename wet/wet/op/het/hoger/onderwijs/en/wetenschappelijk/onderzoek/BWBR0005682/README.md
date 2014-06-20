@@ -342,7 +342,7 @@ d. het bestuur en de inrichting.
 
 1.  Het instellingsbestuur van een in artikel 1.2, onder a, b en d, bedoelde instelling draagt er zorg voor dat, zoveel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling, mede door onafhankelijke deskundigen, van de kwaliteit van de werkzaamheden van de instelling. De beoordeling bij instellingen voor hoger onderwijs geschiedt mede aan de hand van het oordeel van studenten over de kwaliteit van het onderwijs van de instelling. Voorzover die beoordeling mede geschiedt door onafhankelijke deskundigen, zijn de uitkomsten daarvan openbaar. Indien het instellingsbestuur van een instelling voor hoger onderwijs gebruik maakt van de mogelijkheid, bedoeld in artikel 5a.13a, vindt de beoordeling ten minste plaats op basis van het deel van het accreditatiekader voor de instellingstoets kwaliteitszorg en de aspecten van kwaliteit, bedoeld in artikel 5a.13b, tweede lid.   
 2.  Onze minister ziet toe op de uitvoering van het eerste lid met uitzondering van de laatste volzin. Hij kan onderzoek laten verrichten naar de kwaliteit van de werkzaamheden van de instellingen voorzover het betreft de instellingen, bedoeld in artikel 1.2, onderdeel d.   
-3.  Het instellingsbestuur van een in artikel 1.2, onderdelen a en b, bedoelde instelling draagt er tevens zorg voor dat, zoveel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling, door onafhankelijke deskundigen, van de kwaliteit van de opleidingen, daaronder begrepen de Ad-programma’s. De tweede volzin van het eerste lid is van overeenkomstige toepassing en de uitkomsten van de beoordeling zijn openbaar. De beoordeling bevat een samenvattend oordeel. De beoordeling vindt ten minste plaats op basis van het deel van het accreditatiekader voor accreditatie op grond van artikel 5a.8 of artikel 5a.13f en de aspecten van kwaliteit, bedoeld in 5a.8, tweede lid, of 5a.13f, eerste lid.  
+3.  Het instellingsbestuur van een in artikel 1.2, onderdelen a en b, bedoelde instelling draagt er tevens zorg voor dat in samenwerking met andere instellingen binnen een visitatiegroep, wordt voorzien in een regelmatige beoordeling, door onafhankelijke deskundigen, van de kwaliteit van de opleidingen, daaronder begrepen de Ad-programma’s. De tweede volzin van het eerste lid is van overeenkomstige toepassing en de uitkomsten van de beoordeling zijn openbaar. De beoordeling bevat een samenvattend oordeel. De beoordeling vindt ten minste plaats op basis van het deel van het accreditatiekader voor accreditatie op grond van artikel 5a.8 of artikel 5a.13f en de aspecten van kwaliteit, bedoeld in 5a.8, tweede lid, of 5a.13f, eerste lid.  
 
 ### Titel  4  
 
@@ -709,7 +709,7 @@ Vervallen per 01-09-2002
 ####Instelling en taken accreditatieorgaan
 
 1.  Er is een accreditatieorgaan dat is belast met activiteiten in het kader van het verlenen van accreditatie, de toets nieuwe opleiding, de toets nieuw Ad-programma en de instellingstoets kwaliteitszorg op grond van titel 2 of 2a van dit hoofdstuk en overige hem bij of krachtens de wet opgedragen taken. Het accreditatieorgaan bezit rechtspersoonlijkheid.   
-2.   Het accreditatieorgaan is tevens belast met het instellen van een commissie van deskundigen, die adviseert over de aanvraag om toets nieuwe opleiding, de toets nieuw Ad-programma of de instellingstoets kwaliteitszorg. Daarnaast stemt het accreditatieorgaan in met een door het instellingsbestuur samengestelde commissie van deskundigen, voor de beoordeling, bedoeld in artikel 1.18, derde lid, ten behoeve van de aanvraag om accreditatie, indien het accreditatieorgaan zich ervan verzekerd heeft dat de commissie van deskundigen onafhankelijk en deskundig is. Van de in de vorige volzinnen bedoelde commissies van deskundigen maakt een student deel uit.   
+2.  Het accreditatieorgaan is tevens belast met het instellen van een commissie van deskundigen, die adviseert over de aanvraag om toets nieuwe opleiding, de toets nieuw Ad-programma of de instellingstoets kwaliteitszorg. Daarnaast stemt het accreditatieorgaan in met een door de instellingsbesturen binnen een visitatiegroep gezamenlijk samengestelde commissie van deskundigen, voor de beoordeling, bedoeld in artikel 1.18, derde lid, ten behoeve van de aanvraag om accreditatie, indien het accreditatieorgaan zich ervan verzekerd heeft dat de commissie van deskundigen onafhankelijk en deskundig is. Indien het instellingsbestuur er niet in slaagt in samenwerking met andere instellingen binnen een visitatiegroep een commissie van deskundigen samen te stellen, doet het accreditatieorgaan een bindende voordracht voor de samenstelling van de commissie. Van de in de vorige volzinnen bedoelde commissies van deskundigen maakt een student deel uit.   
 2a.  Het accreditatieorgaan toetst bij de accreditatie en de toets nieuwe opleiding van een opleiding in het hoger beroepsonderwijs tevens: 
 
 a. de door een instellingsbestuur voorgestelde toevoeging aan een graad als bedoeld in artikel 7.10a, tweede en derde lid, op internationale herkenbaarheid aan de hand van een referentielijst die bij ministeriële regeling wordt vastgesteld;  
@@ -726,7 +726,7 @@ b. of de door het instellingsbestuur gehanteerde naam van de opleiding voldoende
 
 ####Accreditatiekader
 
-1.  Het accreditatieorgaan legt zijn werkwijze voor het verlenen van accreditatie, toets nieuwe opleiding, toets nieuw Ad-programma en instellingstoets kwaliteitszorg en de uitwerking van de criteria, bedoeld in artikel 5a.8, tweede lid, 5a.10a, tweede lid, 5a.13b, tweede lid, 5a.13f, eerste lid en 5a.13g, eerste lid, vast in het accreditatiekader, waarbij voor de beoordeling ten minste onderscheid wordt gemaakt tussen het wetenschappelijk onderwijs en het hoger beroepsonderwijs, tussen bacheloropleidingen en masteropleidingen en waarbij het verschil in de wijze van beoordeling van aanvragen op grond van titel 2a ten opzichte van titel 2 wordt opgenomen.   
+1.  Het accreditatieorgaan legt zijn werkwijze voor het verlenen van accreditatie, toets nieuwe opleiding, toets nieuw Ad-programma en instellingstoets kwaliteitszorg, de samenstelling van een visitatiegroep en de uitwerking van de criteria, bedoeld in artikel 5a.8, tweede lid, 5a.10a, tweede lid, 5a.13b, tweede lid, 5a.13f, eerste lid en 5a.13g, eerste lid, vast in het accreditatiekader, waarbij voor de beoordeling ten minste onderscheid wordt gemaakt tussen het wetenschappelijk onderwijs en het hoger beroepsonderwijs, tussen bacheloropleidingen en masteropleidingen en waarbij het verschil in de wijze van beoordeling van aanvragen op grond van titel 2a ten opzichte van titel 2 wordt opgenomen.   
 2.  Alvorens het accreditatiekader vast te stellen of te wijzigen, voert het accreditatieorgaan overleg met vertegenwoordigers van de instellingen en andere betrokkenen, waaronder studentenorganisaties als bedoeld in artikel 3.3 en de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel.   
 3.  Het accreditatiekader of een wijziging daarvan behoeft de goedkeuring van Onze minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Onze minister verleent zijn goedkeuring niet dan nadat vier weken zijn verstreken nadat zijn voornemen daartoe aan de beide kamers der Staten-Generaal is voorgelegd. Het besluit omtrent goedkeuring wordt binnen 17 weken na de verzending ter goedkeuring bekendgemaakt aan het accreditatieorgaan.   
 4.  Het accreditatiekader of de wijziging daarvan wordt bekendgemaakt door plaatsing in de Staatscourant.  
@@ -772,24 +772,28 @@ a. het beoogde eindniveau van de opleiding, gelet op hetgeen internationaal gewe
 
 b. de inhoud en opzet van het onderwijsprogramma,  
 
-c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is, alsmede de deugdelijkheid van beoordeling, toetsing en examinering van de studenten,  
+c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is,  
 
-d. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,  
+d. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten, 
 
-e. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en  
+e. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,  
 
-f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.    
+f. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en  
+
+g. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.    
 
 ### Artikel  5a.9  
 
 1.  Accreditatie wordt verleend op aanvraag van het instellingsbestuur.   
-2.  Dit lid is nog niet in werking getreden.   
+2.  Een aanvraag om accreditatie wordt voor een door het accreditatieorgaan te bepalen datum bij het accreditatieorgaan ingediend. De datum kan per visitatiegroep verschillen.   
 3.  Het besluit tot het verlenen van accreditatie wordt gebaseerd op de beoordeling, bedoeld in artikel 1.18, derde lid.   
 4.  Het accreditatieorgaan neemt binnen drie maanden na de uiterste aanvraagdatum een besluit op de aanvraag. Het besluit treedt in werking met ingang van de dag waarop het besluit is genomen.   
 5.  Het accreditatieorgaan verleent geen accreditatie indien een van de criteria, bedoeld in artikel 5a.8, tweede lid, onder c en d, door hem als onvoldoende is beoordeeld.   
 6.  Indien het accreditatieorgaan besluit dat geen accreditatie wordt verleend omdat bij de beoordeling, bedoeld in artikel 1.18, derde lid, door de onafhankelijke deskundigen artikel 1.18, derde lid, vierde volzin, niet in acht is genomen, treedt, in afwijking van het vierde lid, dat besluit in werking met ingang van de dag van bekendmaking daarvan en kan binnen een jaar na die bekendmaking, een nieuwe aanvraag om accreditatie worden ingediend. In afwijking van het zevende lid, is de periode van de accreditatie alsdan verlengd tot het moment dat, onder de voorwaarden van het achtste lid, op de aanvraag om accreditatie is beslist.   
 7.  Het besluit tot het verlenen van accreditatie vervalt zes jaar na de dag van inwerkingtreding van het besluit.   
-8.  Indien een instellingsbestuur voor de datum, bedoeld in het tweede lid, een aanvraag om accreditatie heeft ingediend, is, in afwijking van het zevende lid, de periode van de accreditatie verlengd tot het moment dat op de aanvraag om accreditatie is beslist indien het accreditatieorgaan niet voor afloop van de periode, bedoeld in het zevende lid, een besluit heeft genomen. In dat geval wordt de periode van de accreditatie verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar het accreditatieorgaan niet voor afloop van de periode, bedoeld in het zevende lid, een besluit heeft genomen. In dat geval wordt de periode van de accreditatie verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar.  
+8.  Indien een instellingsbestuur voor de datum, bedoeld in het tweede lid, een aanvraag om accreditatie heeft ingediend, is, in afwijking van het zevende lid, de periode van de accreditatie verlengd tot het moment dat op de aanvraag om accreditatie is beslist indien het accreditatieorgaan niet voor afloop van de periode, bedoeld in het zevende lid, een besluit heeft genomen. In dat geval wordt de periode van de accreditatie verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar het accreditatieorgaan niet voor afloop van de periode, bedoeld in het zevende lid, een besluit heeft genomen. In dat geval wordt de periode van de accreditatie verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar.   
+9.  De instelling is het accreditatieorgaan een vergoeding verschuldigd van de kosten van de aanvraag om accreditatie en visitatie waaronder begrepen de kosten van de commissie van deskundigen, bedoeld in artikel 5a.2, tweede lid, overeenkomstig een door Onze Minister, na overleg met het accreditatieorgaan, vast te stellen tarief.   
+10.  In afwijking van het zevende lid kan Onze Minister de termijn van accreditatie verlengen met maximaal twee jaar ten behoeve van de gelijktijdige beoordeling van de visitatiegroep.  
 
 ### Artikel  5a.10  
 
@@ -831,7 +835,11 @@ d. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeels
 e. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en  
 
 f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.     
-3.  Dit lid is nog niet in werking getreden.   
+3.  Indien de toets nieuwe opleiding is aangevraagd voor een opleiding waaraan op het moment van de aanvraag al feitelijk onderwijs wordt verzorgd, worden in plaats van de in het tweede lid onder a en c genoemde aspecten beoordeeld: 
+
+a. het gerealiseerde niveau, gelet op hetgeen internationaal gewenst en gangbaar is, en  
+
+b. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.     
 4.  Indien de toets nieuwe opleiding is aangevraagd voor een opleiding waaraan op het moment van de aanvraag nog geen feitelijk onderwijs wordt verzorgd en de opleiding wordt verzorgd door een instelling die niet beschikt over een instellingstoets kwaliteitszorg of een instellingstoets kwaliteitszorg onder voorwaarden, worden drie jaar nadat de toets nieuwe opleiding is verleend, de volgende aspecten van kwaliteit beoordeeld: 
 
 a. het gerealiseerde niveau, gelet op hetgeen internationaal gewenst en gangbaar is, en  
@@ -844,7 +852,7 @@ b. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.
 ####Toets nieuwe opleiding
 
 1.  De toets nieuwe opleiding wordt verleend op aanvraag van het instellingsbestuur. Een toets nieuwe opleiding is niet vereist in het geval sprake is van het ongedaan maken van een samenvoeging als bedoeld in artikel 6.2, vijfde lid.   
-2.  Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag om de toets nieuwe opleiding een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, naar zijn oordeel voor de opleiding passend is.   
+2.  Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag om de toets nieuwe opleiding een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, naar zijn oordeel voor de opleiding passend is en tot welke visitatiegroep de opleiding wordt gerekend.   
 3.  Het accreditatieorgaan besluit gedurende drie jaar geen toets nieuwe opleiding te verlenen, indien uit de gegevens van de desbetreffende aanvraag blijkt dat de instelling voornemens is een opleiding te verzorgen die geheel of in hoofdzaak overeenstemt met een opleiding, verzorgd door diezelfde instelling, waarvoor geen accreditatie is verleend of het besluit tot het verlenen van accreditatie is ingetrokken.   
 4.  Het accreditatieorgaan kan een toets nieuwe opleiding onder voorwaarden verlenen. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen het accreditatieorgaan een toets nieuwe opleiding onder voorwaarden kan verlenen en welke voorwaarden hieraan gesteld kunnen worden. Indien binnen ten hoogste twee jaar naar het oordeel van het accreditatieorgaan niet aan de gestelde voorwaarden is voldaan, verliest de opleiding de toets nieuwe opleiding met ingang van de dag waarop het accreditatieorgaan dat oordeel in een besluit heeft vastgelegd. Artikel 5a.12, vijfde lid, is van overeenkomstige toepassing. Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in de tweede volzin voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat dertig dagen na die voorlegging zijn verstreken.   
 5.  Met een besluit tot het verlenen van een toets nieuwe opleiding laat het instellingsbestuur die opleiding als nieuwe opleiding registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.   
@@ -857,8 +865,10 @@ b. een jaar na de dag waarop het besluit tot het verlenen van een toets nieuwe o
 c. na tien maanden, indien het instellingsbestuur de bekostigde opleiding niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, of  
 
 d. na zes maanden, indien het instellingsbestuur een opleiding, niet zijnde een opleiding onder c, niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.     
-7.  De artikelen 5a.9, negende lid en 5a.10 zijn van overeenkomstige toepassing.   
-8.  Indien een toets nieuwe opleiding wordt aangevraagd voor een masteropleiding in het hoger beroepsonderwijs die de voortzetting vormt van een postinitiële masteropleiding in het hoger beroepsonderwijs, waarvoor accreditatie is verleend, verleent het accreditatieorgaan de toets nieuwe opleiding zonder nader onderzoek voor dezelfde termijn als gold voor de accreditatie.  
+7.  De toets nieuwe opleiding vervalt eveneens als de beoordeling, bedoeld in artikel 5a.10a, vierde lid, van een of beide aspecten in dat lid genoemd onder a en b, onvoldoende is, tenzij het accreditatieorgaan besluit een herstelperiode toe te kennen als bedoeld in artikel 5a.12a. De herstelperiode bedraagt in dat geval ten hoogste een jaar. Artikel 5a.12a is voor het overige van overeenkomstige toepassing.  
+8.  De artikelen 5a.9, negende lid en 5a.10 zijn van overeenkomstige toepassing.   
+9.  Indien een toets nieuwe opleiding wordt aangevraagd voor een masteropleiding in het hoger beroepsonderwijs die de voortzetting vormt van een postinitiële masteropleiding in het hoger beroepsonderwijs, waarvoor accreditatie is verleend, verleent het accreditatieorgaan de toets nieuwe opleiding zonder nader onderzoek voor dezelfde termijn als gold voor de accreditatie.   
+10.  Onze Minister kan de termijn van het besluit toets nieuwe opleidingen met maximaal twee jaar verlengen in verband met de gelijktijdige beoordeling van de visitatiegroep. 
 
 ### Artikel  5a.12  
 
@@ -972,10 +982,12 @@ d. de voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten me
 
 a. het beoogde eindniveau, gelet op hetgeen internationaal gewenst of gangbaar is,  
 
-b. de inhoud en opzet van het onderwijsprogramma, de kwaliteit en kwantiteit van het ingezette personeel en de opleidingsspecifieke voorzieningen, en  
+b. de inhoud en opzet van het onderwijsprogramma, de kwaliteit en kwantiteit van het ingezette personeel en de opleidingsspecifieke voorzieningen,  
 
-c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is, alsmede de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.     
-2.  De artikelen 5a.8, eerste lid, 5a.9, 5a.10, 5a.12 en 5a.12a zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.  
+c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is, en  
+
+d. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.    
+2.  De artikelen 5a.8, tweede lid, 5a.9, 5a.10, 5a.12 en 5a.12a zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.  
 
 ### Artikel  5a.13g  
 
@@ -1280,6 +1292,7 @@ c. indien de specifieke aard, de inrichting of de kwaliteit van het onderwijs da
 2.   Een opleiding is een samenhangend geheel van onderwijseenheden, gericht op de verwezenlijking van welomschreven doelstellingen op het gebied van kennis, inzicht en vaardigheden waarover degene die de opleiding voltooit, dient te beschikken. Een onderwijseenheid kan betrekking hebben op de praktische voorbereiding op de beroepsuitoefening en op de beroepsuitoefening in verband met het onderwijs in een duale opleiding, voorzover deze activiteiten onder begeleiding van het instellingsbestuur plaatsvinden.    
 3.   Aan elke opleiding is een examen verbonden. Aan elke onderwijseenheid is een tentamen verbonden.    
 4.  Elke opleiding wordt op de voet van titel 3 van hoofdstuk 6 geregistreerd in het Centraal register opleidingen hoger onderwijs.   
+5.  Het examen, bedoeld in het derde lid, dat met goed gevolg is afgelegd en de met het oog daarop vervaardigde werkstukken worden door het instellingsbestuur gedurende een periode van ten minste zeven jaar bewaard.  
 5.  Het instellingsbestuur kan de naam van een opleiding wijzigen in het kader van het verlenen van accreditatie of tussentijds als daarmee wordt bereikt dat de naam beter aansluit bij wat binnen de visitatiegroep of de sector gebruikelijk is. Tussentijdse wijziging kan slechts plaatsvinden na instemming door het accreditatieorgaan. Het accreditatieorgaan stemt in als wordt voldaan aan de criteria, bedoeld in artikel 5a.2, lid 2a, onder b. 
 
 ### Artikel  7.3a  
