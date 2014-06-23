@@ -504,7 +504,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  3a1  
 
-![253602](http://wetten.overheid.nl/Illustration/253602)
+![253813](http://wetten.overheid.nl/Illustration/253813)
 
 ### Bijlage 3b  
 
@@ -512,7 +512,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  3b1  
 
-![253603](http://wetten.overheid.nl/Illustration/253603)
+![253814](http://wetten.overheid.nl/Illustration/253814)
 
 ### Bijlage 3c  
 
@@ -520,7 +520,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  3c1  
 
-![253604](http://wetten.overheid.nl/Illustration/253604)
+![253815](http://wetten.overheid.nl/Illustration/253815)
 
 ### Bijlage 4a  
 
@@ -528,7 +528,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  4a1  
 
-![253605](http://wetten.overheid.nl/Illustration/253605)
+![253816](http://wetten.overheid.nl/Illustration/253816)
 
 ### Bijlage 4b  
 
@@ -536,7 +536,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  4b1  
 
-![253606](http://wetten.overheid.nl/Illustration/253606)
+![253817](http://wetten.overheid.nl/Illustration/253817)
 
 ### Bijlage 4c  
 
@@ -544,11 +544,11 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  4c1  
 
-![253607](http://wetten.overheid.nl/Illustration/253607)
+![253818](http://wetten.overheid.nl/Illustration/253818)
 
 ### Bijlage 5  
 
-![253595](http://wetten.overheid.nl/Illustration/253595)
+![253819](http://wetten.overheid.nl/Illustration/253819)
 
 ### Bijlage 6  
 
@@ -564,7 +564,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  8a1  
 
-![253608](http://wetten.overheid.nl/Illustration/253608)
+![253820](http://wetten.overheid.nl/Illustration/253820)
 
 ### Bijlage 8b  
 
@@ -572,7 +572,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  8b1  
 
-![253609](http://wetten.overheid.nl/Illustration/253609)
+![253821](http://wetten.overheid.nl/Illustration/253821)
 
 ### Bijlage 8c  
 
@@ -580,19 +580,19 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  8c1  
 
-![253610](http://wetten.overheid.nl/Illustration/253610)
+![253824](http://wetten.overheid.nl/Illustration/253824)
 
 ### Bijlage 9a  
 
-![253596](http://wetten.overheid.nl/Illustration/253596)
+![253825](http://wetten.overheid.nl/Illustration/253825)
 
 ### Bijlage 9b  
 
-![253597](http://wetten.overheid.nl/Illustration/253597)
+![253826](http://wetten.overheid.nl/Illustration/253826)
 
 ### Bijlage 9c  
 
-![253598](http://wetten.overheid.nl/Illustration/253598)
+![253827](http://wetten.overheid.nl/Illustration/253827)
 
 ###Bijlage 10a 
 
@@ -612,7 +612,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  11a1  
 
-![253611](http://wetten.overheid.nl/Illustration/253611)
+![253828](http://wetten.overheid.nl/Illustration/253828)
 
 ###Bijlage 11b 
 
@@ -620,11 +620,11 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  11b1  
 
-![253612](http://wetten.overheid.nl/Illustration/253612)
+![253829](http://wetten.overheid.nl/Illustration/253829)
 
 ### Bijlage  11c1  
 
-![253613](http://wetten.overheid.nl/Illustration/253613)
+![253830](http://wetten.overheid.nl/Illustration/253830)
 
 ###Bijlage 12a 
 
@@ -632,7 +632,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  12a1  
 
-![253614](http://wetten.overheid.nl/Illustration/253614)
+![253831](http://wetten.overheid.nl/Illustration/253831)
 
 ###Bijlage 12b 
 
@@ -640,7 +640,7 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  12b1  
 
-![253615](http://wetten.overheid.nl/Illustration/253615)
+![253832](http://wetten.overheid.nl/Illustration/253832)
 
 ###Bijlage 12c 
 
@@ -648,19 +648,19 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden
 
 ### Bijlage  12c1  
 
-![253616](http://wetten.overheid.nl/Illustration/253616)
+![253833](http://wetten.overheid.nl/Illustration/253833)
 
 ###Bijlage 13a 
 
-![253599](http://wetten.overheid.nl/Illustration/253599)
+![253834](http://wetten.overheid.nl/Illustration/253834)
 
 ###Bijlage 13b 
 
-![253600](http://wetten.overheid.nl/Illustration/253600)
+![253835](http://wetten.overheid.nl/Illustration/253835)
 
 ###Bijlage 13c 
 
-![253601](http://wetten.overheid.nl/Illustration/253601)
+![253836](http://wetten.overheid.nl/Illustration/253836)
 
 ###Bijlage 14a 
 

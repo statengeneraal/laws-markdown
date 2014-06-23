@@ -372,8 +372,9 @@ Bij het stellen van regelen en het voorschrijven van maatregelen krachtens dit h
 ####Algemene bepalingen 
 
 ### Artikel  33  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Het is verboden dieren te houden, tenzij deze behoren tot bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren.    
 2.   Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat het houden slechts onder bepaalde voorwaarden is toegestaan.   
 
@@ -451,9 +452,9 @@ Bij algemene maatregel van bestuur worden regelen gesteld omtrent embryotranspla
 ####Het doden van dieren 
 
 ### Artikel  43  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
-Het is verboden om dieren te doden in andere dan bij algemene maatregel van bestuur aangewezen gevallen.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Het is verboden om dieren te doden in andere dan bij algemene maatregel van bestuur aangewezen gevallen.  
 
 ### Artikel  44  
 
@@ -512,15 +513,17 @@ b. voor zover het betreft het slachten volgens de islamitische ritus: door perso
 6.   Tenzij bij een maatregel als bedoeld in het eerste of derde lid of een regeling als bedoeld in het vierde lid anders wordt bepaald, is het bepaalde bij of krachtens de artikelen 46 tot en met 54 niet van toepassing in het geval voor de dieren van de aangewezen soort of categorie van dieren bij die maatregel of regeling, regelen zijn gesteld omtrent de huisvesting.   
 
 ### Artikel  46  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Het is verboden een seriematig vervaardigd huisvestingssysteem voor dieren van bij algemene maatregel van bestuur aangewezen soorten of categorieën van dieren, voorhanden te hebben, ten verkoop in voorraad te hebben, te verkopen, af te leveren of te gebruiken.    
 2.   Het verbod, bedoeld in het eerste lid, geldt niet indien een huisvestingssysteem is toegelaten.    
 3.   Het verbod, bedoeld in het eerste lid, geldt eveneens niet ten aanzien van huisvestingssystemen die worden doorgevoerd of kennelijk bestemd zijn voor uitvoer.   
 
 ### Artikel  47  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Een huisvestingssysteem wordt slechts toegelaten indien op grond van de door de aanvrager overgelegde gegevens met redelijke zekerheid mag worden aangenomen dat het systeem geen schadelijke effecten heeft op het welzijn van dieren waarvoor het bestemd is, in een mate die niet aanvaardbaar is. Bij het bepalen van de mate van aanvaardbaarheid wordt mede rekening gehouden met de uit het betrokken huisvestingssysteem voortvloeiende gevolgen voor andere belangen dan het welzijn van dieren.    
 2.   Over de toelating van een huisvestingssysteem beslist Onze Minister op aanvraag van de fabrikant, de importeur of een handelaar, gehoord de Commissie toelating huisvestingssystemen landbouwhuisdieren, bedoeld in artikel 50.    
 3.   Een aanvraag voor een toelating dient in ieder geval vergezeld te gaan van een door of vanwege de aanvrager opgestelde rapportage ter zake van dat huisvestingssysteem over de effecten op het welzijn van dieren waarvoor het bestemd is.    
@@ -551,14 +554,16 @@ d. in welke gevallen een aanvraag voor een toelating niet ontvankelijk wordt ver
 6.   Aan een toelating kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend.   
 
 ### Artikel  48  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Huisvestingssystemen waarvan kan worden aangetoond dat zij vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn, zijn toegelaten voor een door Onze Minister vastgestelde termijn. Deze termijn kan verschillen naar gelang het huisvestingssysteem en naar gelang de in de eerste volzin genoemde handeling.    
 2.   Onze Minister stelt regelen omtrent de wijze waarop dient te worden aangetoond dat huisvestingssystemen vóór de inwerkingtreding van een maatregel als bedoeld in artikel 46, eerste lid, voorhanden zijn, ten verkoop in voorraad zijn gehouden, zijn verkocht, zijn afgeleverd dan wel in gebruik zijn.   
 
 ### Artikel  49  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Onze Minister kan een toelating intrekken, indien ter zake daarvan:  
 
 a. bij de aanvraag zodanig onjuiste gegevens zijn verstrekt dat, indien deze ten tijde van de toelating bekend zouden zijn geweest, de aanvraag zou zijn afgewezen;   
@@ -569,31 +574,33 @@ c. een ander huisvestingssysteem is toegelaten dat uit een oogpunt van welzijn v
 2.   Onze Minister kan bepalen dat een huisvestingssysteem waarvan de toelating ingevolge het eerste lid is ingetrokken, nog gedurende een daarbij vast te stellen termijn voorhanden mag worden gehouden, ten verkoop in voorraad mag worden gehouden, mag worden verkocht, mag worden afgeleverd of mag worden gebruikt. Deze termijn kan verschillen naar gelang de in de eerste volzin genoemde handeling.   
 
 ### Artikel  50  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Er is een Commissie toelating huisvestingssystemen landbouwhuisdieren die is belast met de advisering van Onze Minister over de toelating van huisvestingssystemen en de intrekking daarvan.    
 2.   Bij algemene maatregel van bestuur worden regelen gesteld omtrent onder meer de samenstelling en de werkwijze van de commissie, bedoeld in het eerste lid. Deze regelen hebben mede betrekking op de zittingsduur, de schorsing en het ontslag van de leden van de commissie.   
 
 ### Artikel  51  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
-Van een toelating of intrekking daarvan wordt mededeling gedaan in de Staatscourant.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Van een toelating of intrekking daarvan wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  52  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345. 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld betreffende het voorhanden hebben, ten verkoop in voorraad hebben, verkopen, afleveren of gebruiken van huisvestingssystemen die kennelijk in een proefstadium verkeren. Daarbij kan worden afgeweken van het bepaalde bij of krachtens deze wet.    
 2.   Voor zover krachtens het eerste lid wordt bepaald dat proefnemingen slechts na daartoe gedane aanvraag kunnen worden toegestaan, kunnen de kosten voortvloeiende uit deze aanvraag ten laste van de aanvrager worden gebracht volgens door Onze Minister gestelde regelen.   
 
 ### Artikel  53  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
-Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van het bepaalde in de artikelen 46 tot en met 49.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van het bepaalde in de artikelen 46 tot en met 49.  
 
 ### Artikel  54  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2014 
 
-Bij algemene maatregel van bestuur kan worden bepaald dat het bepaalde bij of krachtens de artikelen 46 tot en met 53 geheel of gedeeltelijk van overeenkomstige toepassing is voor bij die maatregel aangewezen seriematig vervaardigde onderdelen van dan wel aangewezen seriematig vervaardigde voorzieningen binnen huisvestingssystemen.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/345.Bij algemene maatregel van bestuur kan worden bepaald dat het bepaalde bij of krachtens de artikelen 46 tot en met 53 geheel of gedeeltelijk van overeenkomstige toepassing is voor bij die maatregel aangewezen seriematig vervaardigde onderdelen van dan wel aangewezen seriematig vervaardigde voorzieningen binnen huisvestingssystemen.  
 
 ### Afdeling  5  
 

@@ -812,6 +812,15 @@ Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepar
 ![249680](http://wetten.overheid.nl/Illustration/249680)
 Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein antennepark Schoorl  
 
+### Bijlage 6.10a 
+
+####bij de Regeling algemene regels ruimtelijke ordening
+
+Treedt in werking per 01-07-2014 
+
+![253776](http://wetten.overheid.nl/Illustration/253776)
+Kaart zend- en ontvangstinstallatie buiten militair luchtvaartterrein Antennepark Zeewolde
+
 ### Bijlage  6.11  
 
 ####bij de Regeling algemene regels ruimtelijke ordening
@@ -1420,3 +1429,12 @@ Militaire terreinen die geen onderdeel vormen van de ecologische hoofdstructuur
 
 ![250810](http://wetten.overheid.nl/Illustration/250810)
 Kaart militair terrein – oefenterrein Oirschotse Heide (gedeelte COT en ‘vak B’)
+
+###Bijlage 19 
+
+####als bedoeld in artikel 4.1  van de Regeling algemene regels ruimtelijke ordening
+
+Kaarten met voorkeurstracés voor de aanleg van buisleidingen van nationaal belang voor het vervoer van gevaarlijke stoffen 
+Treedt in werking per 01-07-2014 
+
+Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl, door via ‘een plan bekijken/algemene regels overheden’ onder ‘naam/zoek op plannaam’ te zoeken op ‘regeling algemene regels ruimtelijke ordening’ dan wel rechtstreeks via http://www.ruimtelijkeplannen.nl/?dossierid=NL.IMRO.0000.IMmr11Rarro. 

@@ -18,7 +18,7 @@ It is prohibited to employ laser weapons specifically designed, as their sole co
 
 ### Article  2  
 
-In the employment of laser systems, the High Contracting Parties shall take all feasible precautions to avoid the incidence of permanent blindness to unenhanced vision. Such precautions shall include training fo their armed forces and other practical measures. 
+In the employment of laser systems, the High Contracting Parties shall take all feasible precautions to avoid the incidence of permanent blindness to unenhanced vision. Such precautions shall include training of their armed forces and other practical measures. 
 
 ### Article  3  
 

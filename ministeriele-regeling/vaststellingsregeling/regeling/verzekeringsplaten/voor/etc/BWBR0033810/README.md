@@ -12,7 +12,7 @@ Een verzekeringsplaat als bedoeld in [artikel 2, eerste lid, onder a, van het Be
 
 ### Artikel  2  
 
-Op de verzekeringsplaat worden drie hoofdletters naast elkaar en daaronder drie cijfers naast elkaar geplaatst. Deze letters en cijfers zijn ten minste 24 mm hoog en ten minste 16 mm breed, met dien verstande dat het cijfer 1 ten minste 7 mm breed moet zijn. De letters A, C, E, I, K, O, U en Y worden niet gebruikt. 
+Op de verzekeringsplaat worden drie hoofdletters naast elkaar en daaronder drie cijfers naast elkaar geplaatst. Deze letters en cijfers zijn ten minste 24 mm hoog en ten minste 16 mm breed, met dien verstande dat het cijfer 1 ten minste 7 mm breed moet zijn. 
 
 ### Artikel  3  
 
@@ -41,6 +41,10 @@ d. Regeling van 1 september 2003, nr. HDJZ/AWW/2003-1785, tot wijziging van de 
 ### Artikel  6  
 
 Deze regeling treedt in werking met ingang van 1 januari 2014. 
+
+### Artikel  7  
+
+Deze regeling wordt aangehaald als: Regeling verzekeringsplaten voor niet-kentekenplichtige motorrijtuigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

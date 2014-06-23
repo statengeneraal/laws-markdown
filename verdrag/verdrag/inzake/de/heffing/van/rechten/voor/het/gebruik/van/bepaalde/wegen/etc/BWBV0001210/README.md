@@ -4,7 +4,7 @@
 
 ####Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens
 
-De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, op grond van de gemeenschappelijke verklaring van de Belgische, de Deense, de Duitse, de Luxemburgse en de Nederlandse delegatie inzake een gemeenschappelijk stelsel van gebruiksrechten, afgelegd tijdens de 1.668e zitting van de Raad van de Europese Gemeenschappen op 7, 8 en 19 juni 1993 te Luxemburg, op grond van de gemeenschappelijke verklaring van de Regeringen van België, Denemarken, Duitsland, Luxemburg, Nederland en Zweden om alles in het werk te stellen om hun gemeenschappelijk stelsel van gebruiksrechten aan te passen aan de maximumbedragen genoemd in artikel 7, zevende lid, en Bijlage II bij de Richtlijn, afgelegd tijdens de 2142ste zitting van de Raad van de Europese Unie op 30 november en 1 december 1998,zijn het volgende overeengekomen:    
+De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, zoals laatst gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006, op grond van de gemeenschappelijke verklaring van de Belgische, de Deense, de Duitse, de Luxemburgse en de Nederlandse delegatie inzake een gemeenschappelijk stelsel van gebruiksrechten, afgelegd tijdens de 1.668e zitting van de Raad van de Europese Gemeenschappen op 7, 8 en 19 juni 1993 te Luxemburg, op grond van de gemeenschappelijke verklaring van de Regeringen van België, Denemarken, Duitsland, Luxemburg, Nederland en Zweden om alles in het werk te stellen om hun gemeenschappelijk stelsel van gebruiksrechten aan te passen aan de maximumbedragen genoemd in artikel 7, zevende lid, en Bijlage II bij de Richtlijn, afgelegd tijdens de 2142ste zitting van de Raad van de Europese Unie op 30 november en 1 december 1998,zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
@@ -16,16 +16,16 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ####Begripsbepalingen
 
-1.  De begripsbepalingen van artikel 2 van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen zijn van toepassing op dit Verdrag.   
-2.  Overigens wordt voor de toepassing van dit Verdrag verstaan onder: „grondgebied van de Verdragsluitende Partijen" het onderscheiden Europese grondgebied van het Koninkrijk België, van het Koninkrijk Denemarken, van de Bondsrepubliek Duitsland, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden.   
+1°.  De begripsbepalingen van artikel 2, punten a), c), e) en f) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006, zijn van toepassing op dit verdrag.   
+2°.  Overigens wordt voor de toepassing van dit verdrag verstaan onder: „grondgebied van de verdragsluitende partijen”: het onderscheiden Europese grondgebied van het Koninkrijk België, van het Koninkrijk Denemarken, van het Groothertogdom Luxemburg, van het Koninkrijk der Nederlanden en van het Koninkrijk Zweden; „voertuig”: een motorvoertuig of een samenstel van voertuigen bedoeld of uitsluitend gebruikt voor het vervoer over de weg van goederen en waarvan het maximaal toegestaan totaalgewicht minstens 12 ton bedraagt, overeenkomstig artikel 2, punt (d) en artikel 7, tweede lid, punt (a) van de Richtlijn, zoals gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006. 
 
 ### Artikel  3  
 
 ####Verplichting tot het betalen van het gebruiksrecht
 
-1.  De Verdragsluitende Partijen heffen binnen hun grondgebied overeenkomstig dit Verdrag vanaf 1 januari 1995 een gemeenschappelijk gebruiksrecht voor het gebruik van autosnelwegen met voertuigen in de zin van artikel 2 van de richtlijn. Autosnelwegen naar of vanaf een grensovergang met Lid-Staten van de Europese Unie waar het gemeenschappelijk gebruiksrecht niet wordt geheven, kunnen binnen het grondgebied van de Verdragsluitende Partijen vanaf de grensovergang tot aan de eerstvolgende aansluiting op het wegennet waar het gebruiksrecht niet wordt geheven, overeenkomstig de procedure als bedoeld in artikel 7, tweede lid, onder b, ii), van de richtlijn worden vrijgesteld van het gebruiksrecht.    
-2.  Elk der Verdragsluitende Partijen kan de heffing van het gemeenschappelijke gebruiksrecht overeenkomstig artikel 7, tweede lid, onder b, i), van de richtlijn eveneens toepassen voor het gebruik van andere wegen.    
-3.  Elk der Verdragsluitende Partijen kan voor binnen haar grondgebied geregistreerde voertuigen overeenkomstig artikel 7, zesde lid, van de richtlijn gebruiksrechten heffen voor het gebruik van haar gehele wegennet.    
+1.  Overeenkomstig de bepalingen van dit verdrag heffen de verdragsluitende partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van het trans-Europees wegennet door voertuigen in de zin van artikel 2, punt (d), van de Richtlijn maar met een maximaal toegestaan totaalgewicht van minstens 12 ton, overeenkomstig artikel 7, tweede lid, punt (a), van diezelfde Richtlijn.   
+2.  Elk der Verdragsluitende Partijen kan de heffing van het gemeenschappelijke gebruiksrecht overeenkomstig artikel 7, eerste lid, van de richtlijn eveneens toepassen voor het gebruik van andere wegen.    
+3.  Vervallen.   
 4.  Het gebruiksrecht wordt betaald voor een bepaald voertuig. Het kan niet op een ander voertuig worden overgedragen.   
 
 ### Artikel  4  
@@ -122,33 +122,32 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 |c. EURO II en schoner: |33 euro. |
 
 4.  Het gebruiksrecht met inbegrip van administratiekosten voor één dag is gelijk voor alle voertuigklassen en bedraagt 8 euro.   
-5.  Voor voertuigen die in Griekenland geregistreerd staan wordt een reductie van 50% toegepast op de tarieven van de gebruiksrechten genoemd in de leden 1 tot en met 4 gedurende een periode van twee jaar volgend op de inwerkingtreding van de richtlijn. De Partijen bij dit Verdrag kunnen besluiten de overgangsperiode van jaar tot jaar te verlengen onder voorwaarde dat de Europese Commissie een dergelijke verlenging goedkeurt.   
+5.  Vervallen.   
 6.  Verdragsluitende Partijen die voor binnen hun grondgebied geregistreerde voertuigen alleen jaarlijkse gebruiksrechten heffen, kunnen de vaststelling van de te betalen gebruiksrechten als bedoeld in het eerste lid baseren op de grootst mogelijke combinatie van voertuigen waarvan een motorvoertuig waarvoor betaling van het gebruiksrecht verplicht is, deel kan uitmaken.    
 7.  Voor de toepassing van dit Verdrag wordt de wisselkoers van de euro in de nationale munt vastgesteld overeenkomstig artikel 10 van de richtlijn.   
 
 ### Artikel  9  
 
-####Bewijs van betaling van het gebruiksrecht
+####Betaling van het gebruiksrecht
 
-1.  Er wordt een certificaat afgegeven als bewijs van betaling van het gebruiksrecht.    
-2.  In het in het eerste lid bedoelde certificaat dienen te zijn vermeld:  
+1°. Om een compleet systeem voor het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen te voeren, wordt een centrale elektronische database in het leven geroepen. De verdragsluitende partijen dragen er zorg voor dat de centrale database wordt voorzien van de relevante informatie wanneer betalingen van het gebruiksrecht worden ontvangen.
+2°. De centrale database wordt met betrekking tot iedere betaling van het gebruiksrecht voorzien van de volgende informatie:
 
-1.datum en tijdstip van afgifte, 
+1) plaats, datum en tijdstip van de boeking,  
 
-2.het tijdvak waarover het gebruiksrecht wordt betaald, 
+2) geldigheidsduur,  
 
-3.de klasse van het gebruiksrecht, 
+3) aantal assen en Euroklasse van het voertuig,  
 
-4.de hoogte van het gebruiksrecht, 
+4) bedrag van het gebruiksrecht in Euro’s, Deense of Zweedse Kronen,  
 
-5.het kenteken van het motorvoertuig alsook de nationaliteit.   
-3.  De bestuurder van het voertuig dient het in het eerste lid bedoelde certificaat tijdens het gebruik van wegen waarvoor betaling van het gebruiksrecht verplicht is, met zich mee te voeren en op verzoek te tonen.   
+5) kentekennummer en nationaliteit van het voertuig. Tegelijk met de betaling van het gebruiksrecht voorziet het systeem in een bewijs van betaling.
 
 ### Artikel  10  
 
 ####Terugbetaling bij niet-gebruik
 
-1.  Het gebruiksrecht wordt op verzoek terugbetaald indien het certificaat vóór het verstrijken van het betalingstijdvak wordt teruggegeven. Terugbetaling is uitgesloten indien het gebruiksrecht voor minder dan een jaar is betaald.    
+1.  De verdragsluitende partijen voorzien in een terugbetaling van het gebruiksrecht wanneer de aanvraag tot terugbetaling is ingediend vóór het einde van de periode waarvoor het recht is voldaan.   
 2.  Het terug te betalen bedrag wordt berekend op basis van alleen het resterende aantal volledige maanden van het betalingstijdvak, en bestaat uit deelbedragen per maand ter hoogte van een twaalfde van het gebruiksrecht bedoeld in artikel 8, eerste lid. Voor de behandeling van het verzoek tot terugbetaling worden administratiekosten in rekening gebracht ad 25 euro.    
 3.  Verdragsluitende Partijen die alleen een jaarlijks gebruiksrecht heffen voor op hun grondgebied geregistreerde voertuigen, kunnen ten aanzien van deze voertuigen afzien van terugbetaling.   
 
@@ -164,7 +163,7 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 
 ####Sancties
 
-De Verdragsluitende Partijen verzekeren dat niet-nakoming van de verplichting tot het betalen van het gebruiksrecht alsmede van de verplichting het certificaat met zich mee te voeren, wordt gestraft. 
+De verdragsluitende partijen verzekeren dat niet-nakoming van de verplichting tot het betalen van het gebruiksrecht wordt gestraft. 
 
 ### Artikel  13  
 
@@ -172,17 +171,17 @@ De Verdragsluitende Partijen verzekeren dat niet-nakoming van de verplichting to
 
 1.  Inkomsten uit het gebruiksrecht die worden verworven binnen het grondgebied van een Verdragsluitende Partij waar het gemeenschappelijk gebruiksrecht wordt geheven, vallen toe aan deze Verdragsluitende Partij.  De inkomsten die afkomstig zijn van de vervoersondernemingen van de Verdragsluitende Partijen binnen wier grondgebied het gemeenschappelijk gebruiksrecht wordt geheven, worden tussen deze Verdragsluitende Partijen gecorrigeerd overeenkomstig het tweede lid. Inkomsten uit het gebruiksrecht die afkomstig zijn van voertuigen die geregistreerd staan buiten het grondgebied van de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven, worden overeenkomstig het derde lid vastgesteld en tussen deze Verdragsluitende Partijen verdeeld.   
 2.  Inkomsten uit het gebruiksrecht die afkomstig zijn van de vervoersondernemingen van de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven, worden tussen twee Verdragsluitende Partijen gecorrigeerd op basis van de hoogte van het gebruiksrecht, het gemiddelde aantal afgelegde kilometers per motorvoertuig en het aantal kilometers dat de vervoersondernemingen van de ene Verdragsluitende Partij in 1992 hebben afgelegd binnen het grondgebied van een andere Verdragsluitende Partij. De Verdragsluitende Partijen verstrekken elkaar hiertoe de vereiste statistische gegevens. Twee of meer Verdragsluitende Partijen kunnen besluiten af te zien van correctie van de inkomsten uit het gemeenschappelijk gebruiksrecht.  De correctie geschiedt aan de hand van de volgende formule: C (D-E) = F, waarbij C = A/B A = jaarlijks gebruiksrecht ad 1.250 euro, B = gemiddeld afgelegde afstand van 130.000 km per jaar, C = hoogte van het gemeenschappelijk gebruiksrecht per afgelegde kilometer, D = aantal kilometers afgelegd in Verdragsluitende Partij A door voertuigen uit Verdragsluitende Partij B, E = aantal kilometers afgelegd in Verdragsluitende Partij B door voertuigen uit Verdragsluitende Partij A, F = te corrigeren bedrag.   
-3.  Ten behoeve van de verdeling stellen de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven, eerst de hoogte vast van de aan hen betaalde gebruiksrechten voor voertuigen die geregistreerd staan buiten het grondgebied van deze Verdragsluitende Partijen. De vaststelling geschiedt steeds aan het eind van het lopende kalenderjaar, voor het eerst op 31 december 1995, voor het afgelopen jaarlijkse betalingstijdvak. Zij doen hiervan binnen drie maanden een mededeling toekomen aan de andere Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven. Deze Verdragsluitende Partijen controleren gezamenlijk de opgestelde mededelingen en stellen gezamenlijk de juistheid ervan vast. De aldus vastgestelde inkomsten uit het gebruiksrecht worden als volgt onder de Verdragsluitende Partijen verdeeld: 
+3.  Ten behoeve van de verdeling stellen de Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven, eerst de hoogte vast van de aan hen betaalde gebruiksrechten voor voertuigen die geregistreerd staan buiten het grondgebied van deze Verdragsluitende Partijen. De vaststelling geschiedt steeds aan het eind van het lopende kalenderjaar, voor het eerst op 31 december 1995, voor het afgelopen jaarlijkse betalingstijdvak. Zij doen hiervan binnen drie maanden een mededeling toekomen aan de andere Verdragsluitende Partijen waar het gemeenschappelijk gebruiksrecht wordt geheven. Deze Verdragsluitende Partijen controleren gezamenlijk de opgestelde mededelingen en stellen gezamenlijk de juistheid ervan vast. De aldus vastgestelde inkomsten uit het gebruiksrecht worden als volgt onder de verdragsluitende partijen verdeeld:
 
-- het Koninkrijk België ontvangt 13% van deze inkomsten;   
+– Het Koninkrijk België ontvangt 39,92 % van deze inkomsten;  
 
-- het Koninkrijk Denemarken ontvangt 4% van deze inkomsten;   
+– Het Koninkrijk Denemarken ontvangt 12,29 % van deze inkomsten;  
 
-- de Bondsrepubliek Duitsland ontvangt 73% van deze inkomsten;   
+– Het Groothertogdom Luxemburg ontvangt 3,14 % van deze inkomsten;  
 
-- het Groothertogdom Luxemburg ontvangt 1% van deze inkomsten;   
+– Het Koninkrijk der Nederlanden ontvangt 27,63 % van deze inkomsten;  
 
-- het Koninkrijk der Nederlanden ontvangt 9% van deze inkomsten.  Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages worden veranderd op basis van statistische gegevens waaruit blijkt in hoeverre de desbetreffende vervoersondernemingen gebruik hebben gemaakt van de infrastructuur van iedere Verdragsluitende Partij die het gemeenschappelijk stelsel van gebruiksrechten toepast. In dat geval verstrekken de Verdragsluitende Partijen elkaar hiertoe de vereiste statistische gegevens.   
+– Het Koninkrijk Zweden ontvangt 17,02 % van deze inkomsten.    Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages worden veranderd op basis van statistische gegevens waaruit blijkt in hoeverre de desbetreffende vervoersondernemingen gebruik hebben gemaakt van de infrastructuur van iedere Verdragsluitende Partij die het gemeenschappelijk stelsel van gebruiksrechten toepast. In dat geval verstrekken de Verdragsluitende Partijen elkaar hiertoe de vereiste statistische gegevens.   
 4.  De Verdragsluitende Partijen stellen de volgens de hierboven beschreven methoden berekende verrekeningsbedragen unaniem vast en voeren de verrekening uit binnen een maand na de vaststelling van de verrekeningsbedragen.   
 
 ### Artikel  14  
