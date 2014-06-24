@@ -23,18 +23,15 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 ###Artikel  2 
 
 1.  De ondernemer die in het jaar 2014 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een heffing verschuldigd tegen het in het tweede lid bepaalde tarief ten behoeve van de daarbij gegeven bestemming. 
-2.  De in het eerste lid bedoelde heffing bedraagt: 
+2. De in het eerste lid bedoelde heffing bedraagt:
 
-a. € 1,00 per rund, waarvan € 0,15 voor het fonds afzetbevordering, € 0,85 voor het fonds gezondheidszorg, en € 0,00 voor het fonds kwaliteitsverbetering is bestemd.  
+a.€ 0,85 per rund, waarvan€ 0,00 voor het fonds afzetbevordering,€ 0,85 voor het fonds gezondheidszorg, en€ 0,00 voor het fonds kwaliteitsverbetering is bestemd. 
 
-b. € 0,37 per kalf V, waarvan € 0,15 voor het fonds afzetbevordering, € 0,11 voor het fonds gezondheidszorg, en € 0,11 voor het fonds kwaliteitsverbetering is bestemd. 
+b.€ 0,22 per kalf V, waarvan€ 0,00 voor het fonds afzetbevordering,€ 0,11 voor het fonds gezondheidszorg, en€ 0,11 voor het fonds kwaliteitsverbetering is bestemd. 
 
-c. € 0,37 per kalf Z, waarvan € 0,15 voor het fonds afzetbevordering, € 0,11 voor het fonds gezondheidszorg, en € 0,11 voor het fonds kwaliteitsverbetering is bestemd.  
+c.€ 0,22 per kalf Z, waarvan€ 0,00 voor het fonds afzetbevordering,€ 0,11 voor het fonds gezondheidszorg, en€ 0,11 voor het fonds kwaliteitsverbetering is bestemd. 
 
-d. € 0,33 per jong kalf, waarvan € 0,11 voor het fonds afzetbevordering, € 0,11 voor het fonds gezondheidszorg, en € 0,11 voor het fonds kwaliteitsverbetering is bestemd.  
-3.  Van de in het tweede lid, onder a., bedoelde heffing ten behoeve van het fonds afzetbevordering mag € 0,04 niet als zodanig in mindering worden gebracht op de aan de leverancier uit te betalen prijs.  
-4.  Van de in het tweede lid, onder b. en c., bedoelde heffing ten behoeve van het fonds afzetbevordering mag € 0,05 niet als zodanig in mindering worden gebracht op de aan de leverancier uit te betalen prijs. 
-5.  Van de in het tweede lid, onder d., bedoelde heffing ten behoeve van het fonds afzetbevordering mag € 0,01 niet als zodanig in mindering worden gebracht op de aan de leverancier uit te betalen prijs. 
+d.€ 0,22 per jong kalf, waarvan€ 0,00 voor het fonds afzetbevordering,€ 0,11 voor het fonds gezondheidszorg, en€ 0,11 voor het fonds kwaliteitsverbetering is bestemd. 
 
 ###Artikel  3 
 

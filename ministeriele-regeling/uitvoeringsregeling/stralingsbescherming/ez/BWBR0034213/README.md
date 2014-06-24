@@ -2575,6 +2575,974 @@ Om te voldoen aan de kerncompetenties om buitengewoon ingeschreven als algemeen 
 
 4. globaal bekend is met de brontermen en handelingen of werkzaamheden in de (inter)nationale nucleaire industrie; de medische toepassingen (nucleaire geneeskunde incl. cyclotron, radiotherapie, radiodiagnostiek); de industriële wereld (olie/gas, bagger, niet-destructief onderzoek) en de luchtvaart.   
 
+### Bijlage 3.2 
+
+####, behorende bij de artikelen 3.16 tot en met 3.19 
+
+Treedt in werking per 01-07-2014 
+
+*Verklaring van het cijfer en de notatie in de tweede kolom in de tabel van de onderdelen A tot en met D van deze bijlage:*   
+
+| Cijfer / notatie  | behandelingswijze  | doelstelling  | Betekenis  |
+|:---|:---|:---|:---|
+|  *1*   |  *globaal, kwalitatief*   |  *bekendheid met begrip*   | --- |
+|  *2*   |  *belangrijkste aspecten*    *kwantitatief*   |  *met onderwerp kunnen werken*   | --- |
+|  *3*   |  *gedetailleerd, kwantitatief*   |  *goede bekendheid met het onderwerp*   | --- |
+| +  | --- | --- |  *noodzakelijk*   |
+| ±  | --- | --- |  *facultatief*   |
+
+### Onderdeel  A:  
+
+####Opleiding op het gebied van stralingsbescherming voor röntgentoestellen en ingekapselde bronnen met een matig risico (niveau 4A)
+
+| Onderwerp  | Cijfer / Notatie  |
+|:---|:---|
+|  *Wiskunde*   | --- |
+| – Exponentiële functies  | 2  |
+| – Grafieken (lineaire en logaritmische assen)  | 2  |
+| – Statistiek (verdelingen, standaardafwijking)  | 1  |
+|  *Algemene fysische en chemische onderwerpen*   | --- |
+| – Bouw van de materie  | 3  |
+| – Ionisatie, excitatie  | 3  |
+| – Nuclidenkaart  | 3  |
+|  *Radioactiviteit*   | --- |
+| – Verhouding protonen – neutronen  | 1  |
+| – Radioactief verval, halveringstijd  | 3  |
+| – Vervalformule met halveringstijd  | 3  |
+| – Vervalformule en -constante  | 3  |
+| – Moeder-dochterverbanden  | 1  |
+| – Specifieke activiteit  | 3  |
+| – α-, β-, γ-verval, elektronenvangst  | 2  |
+| – Karakteristieke röntgenstraling  | 2  |
+| – Augerelektronen  | 1  |
+| – Vervalschema's  | 2  |
+| – Deeltjes- en energiefluentie en -dichtheid  | 2  |
+|  *Natuurlijke radioactiviteit*   | --- |
+| – U- en Th-vervalreeksen  | 1  |
+| – Kosmogene radionucliden  | 1  |
+| – Andere natuurlijke radionucliden  | 1  |
+| – Kosmische straling  | 1  |
+| – Doses t.g.v. natuurlijke radioactiviteit  | 2  |
+|  *Kunstmatige radioactiviteit en röntgenstraling*   | --- |
+| – Kernsplijting, splijtingsproducten  | 1  |
+| – Kernreacties, werkzame doorsneden  | 1  |
+| – Overige bronnen  | 1  |
+| – Doses t.g.v. kunstmatige radioactiviteit en röntgenstraling  | 2  |
+|  *β- en elektronenstraling*   | --- |
+| – Energiespectra β-stralers  | 2  |
+| – Wisselwerking met materie (ioniserende vermogen, LET, stopping power)  | 2  |
+| – Dracht  | 3  |
+| – Remstraling  | 2  |
+| – Elektronenversnellers  | 1  |
+|  *Röntgen- en γ-straling*   | --- |
+| – Elektromagnetische straling, duale karakter, energiespectrum  | 2  |
+| – Kwadratenwet  | 3  |
+| – Wisselwerkingsprocessen met materie  | 2  |
+| – Afhankelijkheid effecten van de energie  | 2  |
+| – Verzwakkingscoëfficiënten  | 3  |
+| – Halveringsdikte  | 3  |
+|  *Opwekken van röntgenstraling:*   | --- |
+| – Röntgenbuis  | 2  |
+| – Energiespectrum  | 2  |
+| – Stralingskwaliteit  | 2  |
+| – Invloed buisspanning, buisstroom, mAs-getal, veldgrootte, DOP, anodemateriaal, filters  | 2  |
+|  *Zwaardere geladen deeltjes (o.a. alfa’s)*   | --- |
+| – Wisselwerking met materie  | 1  |
+| – Dracht  | 2  |
+| – Kernreacties, werkzame doorsneden  | 1  |
+| – Deeltjesversnellers  | 1  |
+|  *Neutronen*   | --- |
+| – Soorten neutronen (energiegroepen)  | 1  |
+| – Wisselwerking met materie  | 1  |
+| – Neutronenbronnen en -generatoren  | 1  |
+|  *Detectiemethoden*   | --- |
+|  *Met gas gevulde detectoren:*   | --- |
+| – Verband pulshoogte en buisspanning  | 3  |
+| – Ionisatiekamers  | 3  |
+| – Proportionele telbuizen  | 2  |
+| – G.M. telbuizen  | 3  |
+|  *Scintillatiedetectoren:*   | --- |
+| – Anorganische en organische kristallen  | 2  |
+| – Vloeistofscintillatietellers  | 2  |
+| – Halfgeleiderdetectoren  | 2  |
+| – Detectiemethoden, berustend op fotografische effecten  | 2  |
+| – Thermoluminescentie detectoren  | 2  |
+| – Detectiemethoden voor neutronen  | 2  |
+| – Dode tijd, geometrie, zelfabsorptie  | 2  |
+| – Telrendement, (intrinsiek-)  | 2  |
+| – Telstatistiek  | 1  |
+| – Spectrometrie, pulshoogteanalyse  | 2  |
+|  *Dosimetrie*   | --- |
+| – Geabsorbeerde dosis  | 3  |
+| – stralingsweegfactoren en weefselweegfactoren  | 3  |
+| – Equivalente dosis  | 3  |
+| – Kerma  | 1  |
+| – Effectieve dosis  | 3  |
+| – Exposie  | 1  |
+| – β-dosimetrie  | 3  |
+| – Vuistregels m.b.t. β-dosimetrie  | 3  |
+| – γ-dosimetrie  | 3  |
+| – Verband exposie en geabsorbeerde energie in verschillende materialen  | 2  |
+| – Vuistregels m.b.t. γ-dosimetrie  | 3  |
+| – Specifieke Γ-stralingsconstante  | 3  |
+|  *Dosismeters*   | --- |
+| – Ionisatiekamers  | 2  |
+| – TLD  | 2  |
+| – Energieafhankelijkheid dosismeters  | 2  |
+| – IJkmethoden detectoren  | 3  |
+| – Principe van Bragg-Gray  | 1  |
+| – Ongevallendosimetrie  | 1  |
+|  *Biologische gevolgen van straling*   | --- |
+| – Begrippen: somatische/genetische – vroege/late effecten  | 1  |
+| – Begrippen: stochastische/ deterministische effecten  | 2  |
+| – Weefselweegfactoren  | 2  |
+| – Factoren van invloed op het biologisch effect: stralingscondities en omgevingsfactoren  | 1  |
+| – Somatische effecten: Vroege effecten bij globale en partiële bestraling  | 2  |
+| – Late effecten  | 2  |
+| – Genetische effecten  | 2  |
+| – Epidemiologische gegevens  | 1  |
+| – Dosis-effectrelaties  | 1  |
+| – Risicoschattingen  | 2  |
+|  *Normen en wettelijke regelingen, (inter)nationale organisaties*   | --- |
+| – (Inter)nationale organisaties m.b.t. stralingsveiligheid, samenhang  | 1  |
+| – Historische ontwikkeling  | 1  |
+|  *Aanbevelingen ICRP:*   | --- |
+| – Uitgangspunten stralingsbescherming  | 2  |
+|  *Voor Nederland geldende internationale regelingen:*   | --- |
+| – Europese basic safety standards  | 1  |
+|  *Nederlandse wetgeving:*   | --- |
+| – Kernenergiewet (KEW)  | 1  |
+| – Besluit stralingsbescherming en uitvoeringsregelingen stralingsbescherming  | 3  |
+| – Vergunningsvoorschriften  | 3  |
+| – Vervoersovereenkomsten (Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, ADR klasse 7)  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *a) uitwendige bestraling*    *1. Theorie*   | --- |
+| – Principe beschermingsmaatregelen (tijd, afstand, afscherming); afscherming van β-deeltjes  | 2  |
+| – Elektronen  | 2  |
+| – Zware deeltjes  | 2  |
+|  *Afscherming van fotonenstraling:*   | --- |
+| – Smalle-bundelgeometrie  | 3  |
+| – Brede-bundelgeometrie; puntbron, opbouwfactoren (buildup factor)  | 2  |
+| – Keuze materiaalsoort als functie van fotonenergie  | 2  |
+| – Berekening van verstrooide straling  | 2  |
+| – Gebruik van grafieken betreffende verzwakking en transmissie  | 3  |
+| – Afscherming van neutronenstraling  | 1  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling (factoren tijd-afstand-afscherming)  | 3  |
+| Praktische uitvoering afschermingen voor:  | --- |
+| – Geladen deeltjes  | 1  |
+| – Fotonen  | 3  |
+| – Neutronen  | 1  |
+| Specifieke beschermingsmaatregelen bij:  | --- |
+| – Sterke β-bronnen; bronnen voor radiografie  | 2  |
+| – Röntgentoestellen  | 2  |
+| – Deeltjesversnellers  | 1  |
+| – Persoonlijke controlemiddelen  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *b) Inwendige besmetting*   | --- |
+|  *Praktijkaspect*   | --- |
+| – lektest ingekapselde bronnen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *c) Vervoer van radioactieve stoffen *   | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *d) Risico-evaluatie*   | --- |
+| – Ingekapselde bronnen  | 2  |
+| – Röntgentoestellen  | 2  |
+| – deeltjesversnellers  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *e) Maatregelen bij ongevallen*   | --- |
+|  *Persoonlijke stralingsongevallen*   | --- |
+| – Uitwendige bestraling  | 2  |
+| – Organisatorische maatregelen, intern en extern  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *f) Organisatorische aspecten*   | --- |
+| – Taken en verantwoordelijkheden toezichthoudend en coördinerend deskundige  | 2  |
+| – Uitvoering administratie en beheer  | 2  |
+|  *Praktische vaardigheid / Practicumonderwerpen*   | --- |
+|  *1. Werking en gebruik van stralingsmeetapparatuur voor:*   | --- |
+|  *a. Equivalent dosistempo*   | --- |
+| – Fotonen  |  *+*   |
+| – Elektronen  | +  |
+|  *b Activiteitsmeting, vaste en vloeistofmonsters*   | --- |
+| – β-straling, hard  | ±  |
+| – β-straling, zacht  | ±  |
+| – fotonen  |  *+*   |
+|  *c Energiespectrometrie*   | --- |
+| – fotonen  | ±  |
+|  *2. Bescherming tegen uitwendige bestraling:*   | --- |
+|  *a. Afscherming van straling*   | --- |
+| – elektronen, β-straling, dracht, remstraling  |  *+*   |
+| fotonen:  | --- |
+| – halveringsdikte  |  *+*   |
+| – smalle en brede bundels  |  *+*   |
+|  *b. Invloed van afstand tussen bron en object *   |  *+*   |
+|  *c. Ontwerpen en construeren van een afscherming bij: *   | --- |
+| radioactieve bronnen:  | --- |
+| – fotonen  |  *+*   |
+| röntgenapparaten:  | --- |
+| – wetenschappelijk, industrieel  | ±  |
+| – medisch  | ±  |
+|  *d. Veilig hanteren van:*   | --- |
+| – ingekapselde radioactieve bronnen  |  *+*   |
+| – röntgenapparaten  |  *+*   |
+|  *3. Bescherming tegen inwendige besmetting:*   | --- |
+|  *Veilig hanteren van niet ingekapselde bronnen*   | --- |
+| – gebruik van persoonlijke beschermingsmiddelen  | +  |
+|  *4. Praktische probleembenadering*   | --- |
+|  *a. Activiteitsbepaling van*   | --- |
+| – vast monster  | ±  |
+|  *b. Persoonsbesmettingen*   | --- |
+| – controle van lichaamsdelen en kleding  | ±  |
+
+### Onderdeel  B:  
+
+####Opleiding op het gebied van stralingsbescherming voor radioactieve bronnen met een matig risico (niveau 4B)
+
+| Onderwerp  | Cijfer / Notatie  |
+|:---|:---|
+|  *Wiskunde*   | --- |
+| – Exponentiële functies  | 2  |
+| – Grafieken (lineaire en logaritmische assen)  | 2  |
+| – Statistiek (verdelingen, standaardafwijking)  | 1  |
+|  *Algemene fysische en chemische onderwerpen*   | --- |
+| – Bouw van de materie  | 3  |
+| – Ionisatie, excitatie  | 3  |
+| – Nuclidenkaart  | 3  |
+|  *Radioactiviteit*   | --- |
+| – Verhouding protonen – neutronen  | 1  |
+| – Radioactief verval, halveringstijd  | 3  |
+| – Vervalformule met halveringstijd  | 3  |
+| – Vervalformule en -constante  | 3  |
+| – Moeder-dochterverbanden  | 1  |
+| – Specifieke activiteit  | 3  |
+| – α-, β-, γ-verval, elektronenvangst  | 2  |
+| – Karakteristieke röntgenstraling  | 2  |
+| – Augerelektronen  | 1  |
+| – Vervalschema's  | 2  |
+| – Deeltjes- en energiefluentie en -dichtheid  | 2  |
+|  *Natuurlijke radioactiviteit*   | --- |
+| – U- en Th-vervalreeksen  | 1  |
+| – Kosmogene radionucliden  | 2  |
+| – Andere natuurlijke radionucliden  | 2  |
+| – Kosmische straling  | 2  |
+| – Doses t.g.v. natuurlijke radioactiviteit  | 2  |
+|  *Kunstmatige radioactiviteit en röntgenstraling*   | --- |
+| – Kernsplijting, splijtingsproducten  | 1  |
+| – Kernreacties, werkzame doorsneden  | 1  |
+| – Overige bronnen  | 1  |
+| – Doses t.g.v. kunstmatige radioactiviteit en röntgenstraling  | 2  |
+|  *β- en elektronenstraling*   | --- |
+| – Energiespectra β-stralers  | 2  |
+| – Wisselwerking met materie (ioniserende vermogen, LET, stopping power)  | 2  |
+| – Dracht  | 3  |
+| – Remstraling  | 2  |
+| – Elektronenversnellers  | 1  |
+|  *Röntgen- en γ-straling*   | --- |
+| – Elektromagnetische straling, duale karakter, energiespectrum  | 2  |
+| – Kwadratenwet  | 3  |
+| – Wisselwerkingsprocessen met materie  | 2  |
+| – Afhankelijkheid effecten van de energie  | 2  |
+| – Verzwakkingscoëfficiënten  | 3  |
+| – Halveringsdikte  | 3  |
+|  *Zwaardere geladen deeltjes (o.a. alfa’s)*   | --- |
+| – Wisselwerking met materie  | 1  |
+| – Dracht  | 2  |
+| – Kernreacties, werkzame doorsneden  | 1  |
+|  *Neutronen*   | --- |
+| – Soorten neutronen (energiegroepen)  | 1  |
+| – Wisselwerking met materie  | 1  |
+| – Neutronenbronnen en -generatoren  | 1  |
+|  *Detectiemethoden*   | --- |
+|  *Met gas gevulde detectoren:*   | --- |
+| – Verband pulshoogte en buisspanning  | 3  |
+| – Ionisatiekamers  | 3  |
+| – Proportionele telbuizen  | 3  |
+| – G.M. telbuizen  | 3  |
+|  *Scintillatiedetectoren:*   | --- |
+| – Anorganische en organische kristallen  | 3  |
+| – Vloeistofscintillatietellers  | 2  |
+| – Halfgeleiderdetectoren  | 2  |
+| – Detectiemethoden, berustend op fotografische effecten  | 2  |
+| – Thermoluminescentie detectoren  | 2  |
+| – Detectiemethoden voor neutronen  | 2  |
+| – Dode tijd, geometrie, zelfabsorptie  | 2  |
+| – Telrendement, (intrinsiek-)  | 2  |
+| – Telstatistiek  | 2  |
+| – Spectrometrie, pulshoogteanalyse  | 2  |
+| – Totale-lichaamstellers  | 1  |
+|  *Dosimetrie*   | --- |
+| – Geabsorbeerde dosis  | 3  |
+| – stralingsweegfactoren en weefselweegfactoren  | 3  |
+| – Equivalente dosis  | 3  |
+| – Kerma  | 1  |
+| – Volgdosis  | 3  |
+| – Effectieve dosis  | 3  |
+| – Exposie  | 1  |
+| – β-dosimetrie  | 3  |
+| – Vuistregels m.b.t. β-dosimetrie  | 3  |
+| – γ-dosimetrie  | 3  |
+| – Verband exposie en geabsorbeerde energie in verschillende materialen  | 2  |
+| – Vuistregels m.b.t. γ-dosimetrie  | 3  |
+| – Specifieke Γ-stralingsconstante  | 3  |
+|  *Dosismeters*   | --- |
+| – Ionisatiekamers  | 2  |
+| – TLD  | 2  |
+| – Energieafhankelijkheid dosismeters  | 2  |
+| – IJkmethoden detectoren  | 3  |
+| – Ongevallendosimetrie  | 1  |
+|  *Biologische gevolgen van straling*   | --- |
+| – Begrippen: somatische/genetische – vroege/late effecten  | 1  |
+| – Begrippen: Stochastische/ deterministische effecten en weefselfactoren  | 2  |
+| – Factoren van invloed op het biologisch effect: stralingscondities en omgevingsfactoren  | 1  |
+| – Somatische effecten: vroege effecten bij globale en partiële bestraling  | 2  |
+| – Late effecten  | 2  |
+| – Genetische effecten  | 2  |
+| – Epidemiologische gegevens  | 1  |
+| – Dosis-effectrelaties  | 1  |
+| – Risicoschattingen  | 2  |
+|  *Normen en wettelijke regelingen, (inter)nationale*    *organisaties*   | --- |
+| – (Inter)nationale organisaties m.b.t. stralingsveiligheid, samenhang  | 1  |
+| – Historische ontwikkeling  | 1  |
+|  *Aanbevelingen ICRP:*   | --- |
+| – Uitgangspunten stralingsbescherming  | 2  |
+| – Inwendige bestraling  | 2  |
+|  *Voor Nederland geldende internationale regelingen:*   | --- |
+| – Europese basic safety standards  | 1  |
+|  *Nederlandse wetgeving:*   | --- |
+| – Kernenergiewet (KEW)  | 1  |
+| – Besluit stralingsbescherming en uitvoeringsregelingen stralingsbescherming  | 3  |
+| – Vergunningsvoorschriften  | 3  |
+| – Vervoersovereenkomsten (Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, ADR klasse 7)  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *a) uitwendige bestraling*    *1. Theorie*   | --- |
+| – Principe beschermingsmaatregelen (tijd, afstand, afscherming); afscherming van β-deeltjes  | 2  |
+| – Elektronen  | 2  |
+| – Zware deeltjes  | 1  |
+|  *Afscherming van fotonenstraling:*   | --- |
+| – Smalle-bundelgeometrie  | 2  |
+| – Brede-bundelgeometrie; puntbron, opbouwfactoren (buildup factor)  | 2  |
+| – Keuze materiaalsoort als functie van fotonenergie  | 2  |
+| – Berekening van verstrooide straling  | 2  |
+| – Gebruik van grafieken betreffende verzwakking en transmissie  | 3  |
+| – Afscherming van neutronenstraling  | 1  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling (factoren tijd-afstand-afscherming)  | 3  |
+| Praktische uitvoering afschermingen voor:  | --- |
+| – Geladen deeltjes  | 1  |
+| – Fotonen  | 3  |
+| – Neutronen  | 1  |
+| Specifieke beschermingsmaatregelen bij:  | --- |
+| – Sterke β-bronnen; bronnen voor radiografie  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *b) Inwendige besmetting*   | --- |
+|  *1. Theorie*   | --- |
+| – Incorporatieroutes; begrippen metabolisme, concentratie, retentie en excretie  | 2  |
+| – Standaardmens  | 2  |
+|  *Algemeen transportmodel van de ICRP, transfercoëfficiënten, dosimetriemodellen van de ICRP:*   | 1  |
+| – Algemeen  | 1  |
+| – Longen  | 1  |
+| – Maag-darmkanaal  | 1  |
+| – Bot  | 1  |
+| – ‘Submersion’  | 1  |
+|  *Achtergrond en gebruik van tabellen e.a. gegevens van ICRP voor dosisberekeningen bij:*   | --- |
+| – Inhalatie en ingestie  | 1  |
+| – Wondbesmetting  | 1  |
+| – ‘Submersion’  | 1  |
+| – Gebruik van retentie- en excretiemodellen van ICRP  | 1  |
+| – Radiotoxiciteit  | 1  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling, algemene principes  | 2  |
+| – Richtlijn Radionuclidenlaboratoria  | 2  |
+| – Indeling nuclidenlaboratoria  | 2  |
+| – Maximaal toelaatbare oppervlaktebesmetting  | 1  |
+| – Inrichtingseisen voor nuclidenlaboratoria  | 1  |
+| – Persoonlijke beschermingsmaatregelen  | 1  |
+| – Werkmethoden, hygiënische voorzorgen  | 1  |
+| – Afvalbehandeling, lozingsnormen  | 1  |
+| – Decontaminatiemethoden  | 1  |
+|  *Controlemethoden*   | --- |
+| – oppervlaktebesmettingen  | 1  |
+| – luchtbesmetting  | 1  |
+| – lozingen  | 1  |
+| – lektest ingekapselde bronnen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *c) Vervoer van radioactieve stoffen *   | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *d) Risico-evaluatie*   | --- |
+| – Ingekapselde bronnen  | 2  |
+| – Niet-ingekapselde bronnen  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *e) Maatregelen bij ongevallen*   | --- |
+|  *Persoonlijke stralingsongevallen*   | --- |
+| – Uitwendige bestraling  | 2  |
+| – Besmetting van kleding en huid; decontaminatie  | 2  |
+| – Inwendige besmetting  | 2  |
+| – Organisatorische maatregelen, intern en extern  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *f) Organisatorische aspecten*   | --- |
+| – Taken en verantwoordelijkheden toezichthoudend en coördinerend deskundige  | 2  |
+| – Uitvoering administratie en beheer  | 2  |
+|  *Praktische vaardigheid / Practicumonderwerpen*   | --- |
+|  *1. Werking en gebruik van stralingsmeetapparatuur voor:*   | --- |
+|  *a. Equivalent dosistempo*   | --- |
+| – Fotonen  | +  |
+| – Elektronen  | +  |
+|  *b. Activiteitsmeting, vaste en vloeistofmonsters*   | --- |
+| – β-straling, hard  | ±  |
+| – β-straling, zacht  | ±  |
+| – fotonen  | +  |
+|  *c. Meting van besmetting op oppervlakken*   | --- |
+| – α-straling  | +  |
+| – β-straling  | +  |
+| – fotonen  | +  |
+|  *d. Energiespectrometrie*   | --- |
+| – fotonen  | +  |
+|  *2. Bescherming tegen uitwendige bestraling:*   | --- |
+|  *a. Afscherming van straling*   | --- |
+| – elektronen, β-straling, dracht, remstraling  | +  |
+| fotonen:  | --- |
+| – halveringsdikte  | +  |
+| – smalle en brede bundels  | +  |
+|  *b. Invloed van afstand tussen bron en object *   | +  |
+|  *c. Ontwerpen en construeren van een afscherming bij: *   | --- |
+| radioactieve bronnen:  | --- |
+| – fotonen  | +  |
+|  *d. Veilig hanteren van:*   | --- |
+| – ingekapselde radioactieve bronnen  | +  |
+|  *3. Bescherming tegen inwendige besmetting:*   | --- |
+|  *a. Veilig hanteren van niet ingekapselde bronnen*   | --- |
+| – gebruik van persoonlijke beschermingsmiddelen  | +  |
+|  *b. Gebruik van laboratoriumvoorzieningen*   | --- |
+| – zuurkast  | +  |
+| – handschoenenkast  | ±  |
+|  *4. Praktische probleembenadering*   | --- |
+|  *a. Identificatie van radioactieve nuclide(n) in monsters*   | ±  |
+|  *b. Activiteitsbepaling van*   | --- |
+| – vast monster  | +  |
+| – vloeistofmonster  | +  |
+|  *c. Aanpak van lokale laboratoriumbesmetting*   | --- |
+| – veiligheidsmaatregelen, organisatie  | +  |
+| – bepaling aard en omvang besmetting  | +  |
+| – decontaminatie  | +  |
+|  *d. Persoonsbesmettingen*   | --- |
+| – controle van lichaamsdelen en kleding  | +  |
+| – decontaminatie van eenvoudige huidbesmettingen  | ±  |
+
+### Onderdeel  C:  
+
+####Opleiding op het gebied van stralingsbescherming voor röntgentoestellen en ingekapselde bronnen met gering risico (niveau 5A)
+
+| Onderwerp  | Cijfer / Notatie  |
+|:---|:---|
+|  *Wiskunde*   | --- |
+| – Grafieken (lineaire en logaritmische assen)  | 2  |
+|  *Algemene fysische en chemische onderwerpen*   | --- |
+| – Bouw van de materie  | 1  |
+| – Ionisatie, excitatie  | 1  |
+| – Nuclidenkaart  | 1  |
+|  *Radioactiviteit*   | --- |
+| – Verhouding protonen – neutronen  | 1  |
+| – Radioactief verval, halveringstijd  | 2  |
+| – Vervalformule met halveringstijd  | 2  |
+| – Specifieke activiteit  | 1  |
+| – α-, β-, γ-verval, elektronenvangst  | 1  |
+| – Karakteristieke röntgenstraling  | 1  |
+| – Vervalschema's  | 1  |
+|  *Natuurlijke radioactiviteit*   | --- |
+| – Doses t.g.v. natuurlijke radioactiviteit  | 1  |
+|  *Kunstmatige radioactiviteit en röntgenstraling*   | --- |
+| – Doses t.g.v. kunstmatige radioactiviteit en röntgenstraling  | 1  |
+|  *β- en elektronenstraling*   | --- |
+| – Energiespectra β-stralers  | 1  |
+| – Wisselwerking met materie (ioniserende vermogen, LET, stopping power)  | 1  |
+| – Dracht  | 2  |
+| – Remstraling  | 1  |
+| – Elektronenversnellers  | 1  |
+|  *Röntgen- en γ-straling*   | --- |
+| – Elektromagnetische straling, duale karakter, energiespectrum  | 1  |
+| – Kwadratenwet  | 3  |
+| – Wisselwerkingsprocessen met materie  | 1  |
+| – Afhankelijkheid effecten van de energie  | 1  |
+| – Halveringsdikte  | 2  |
+|  *Opwekken van röntgenstraling:*   | --- |
+| – Röntgenbuis  | 1  |
+| – Energiespectrum  | 1  |
+| – Stralingskwaliteit  | 1  |
+| – Invloed buisspanning, buisstroom, mAs-getal, veldgrootte, DOP, anodemateriaal, filters  | 1  |
+|  *Zwaardere geladen deeltjes (o.a. alfa’s)*   | --- |
+| – Wisselwerking met materie  | 1  |
+| – Dracht  | 1  |
+|  *Detectiemethoden*   | --- |
+|  *Met gas gevulde detectoren:*   | --- |
+| – Ionisatiekamers  | 1  |
+| – G.M. telbuizen  | 1  |
+|  *Scintillatiedetectoren:*   | --- |
+| – Vloeistofscintillatietellers  | 1  |
+| – Detectiemethoden, berustend op fotografische effecten  | 1  |
+| – Thermoluminescentie detectoren  | 1  |
+| – Telrendement, (intrinsiek-)  | 1  |
+| – Spectrometrie, pulshoogteanalyse  | 1  |
+|  *Dosimetrie*   | --- |
+| – Geabsorbeerde dosis  | 2  |
+| – stralingsweegfactoren en weefselweegfactoren  | 2  |
+| – Equivalente dosis  | 2  |
+| – Effectieve dosis  | 2  |
+| – Vuistregels m.b.t. β-dosimetrie  | 2  |
+| – γ-dosimetrie  | 2  |
+| – Vuistregels m.b.t. γ-dosimetrie  | 2  |
+| – Specifieke Γ-stralingsconstante  | 2  |
+|  *Dosismeters*   | --- |
+| – Ionisatiekamers  | 1  |
+| – TLD  | 1  |
+| – IJkmethoden detectoren  | 2  |
+|  *Biologische gevolgen van straling*   | --- |
+| – Begrippen: stochastische/ deterministische effecten  | 2  |
+| – Weefselweegfactoren  | 2  |
+| – Somatische effecten: Vroege effecten bij globale en partiële bestraling  | 1  |
+| – Late effecten  | 1  |
+| – Genetische effecten  | 1  |
+| – Dosis-effectrelaties  | 1  |
+| – Risicoschattingen  | 1  |
+|  *Normen en wettelijke regelingen, (inter)nationale*    *organisaties*   | --- |
+| – (Inter)nationale organisaties m.b.t. stralingsveiligheid, samenhang  | 1  |
+|  *Aanbevelingen ICRP:*   | --- |
+| – Uitgangspunten stralingsbescherming  | 1  |
+|  *Voor Nederland geldende internationale regelingen:*   | --- |
+| – Europese basic safety standards  | 1  |
+|  *Nederlandse wetgeving:*   | --- |
+| – Kernenergiewet (KEW)  | 1  |
+| – Besluit stralingsbescherming en uitvoeringsregelingen stralingsbescherming  | 2  |
+| – Vergunningsvoorschriften  | 3  |
+| – Vervoersovereenkomsten (Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, ADR klasse 7)  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *a) uitwendige bestraling*    *1. Theorie*   | --- |
+| – Principe beschermingsmaatregelen (tijd, afstand, afscherming); afscherming van β-deeltjes  | 2  |
+| – Elektronen  | 1  |
+| – Zware deeltjes  | 1  |
+|  *Afscherming van fotonenstraling:*   | --- |
+| – Smalle-bundelgeometrie  | 1  |
+| – Brede-bundelgeometrie; puntbron, opbouwfactoren (buildup factor)  | 1  |
+| – Keuze materiaalsoort als functie van fotonenergie  | 1  |
+| – Gebruik van grafieken betreffende verzwakking en transmissie  | 2  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling (factoren tijd-afstand-afscherming)  Praktische uitvoering afschermingen voor:  | 3  |
+| – Geladen deeltjes  | 1  |
+| – Fotonen  | 2  |
+| – Neutronen  | 1  |
+| Specifieke beschermingsmaatregelen bij:  | --- |
+| – Sterke β-bronnen; bronnen voor radiografie  | 1  |
+| – Röntgentoestellen  | 1  |
+| – Persoonlijke controlemiddelen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *b) Inwendige besmetting*   | --- |
+|  *Praktijkaspect:*   | --- |
+| – lektest ingekapselde bronnen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *c) Vervoer van radioactieve stoffen *   | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *d) Risico-evaluatie*   | --- |
+| – Ingekapselde bronnen  | 2  |
+| – Röntgentoestellen  | 2  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *e) Maatregelen bij ongevallen*   | --- |
+|  *Persoonlijke stralingsongevallen*   | --- |
+| – Uitwendige bestraling  | 1  |
+| – Organisatorische maatregelen, intern en extern  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *f) Organisatorische aspecten*   | --- |
+| – Taken en verantwoordelijkheden toezichthoudend en coördinerend deskundige  | 1  |
+| – Uitvoering administratie en beheer  | 1  |
+|  *Praktische vaardigheid / Practicumonderwerpen*   | --- |
+|  *1. Werking en gebruik van stralingsmeetapparatuur voor:*   | --- |
+|  *Equivalent dosistempo*   | --- |
+| – Fotonen  | +  |
+| – Elektronen  | +  |
+|  *2. Bescherming tegen uitwendige bestraling:*   | --- |
+|  *a. Afscherming van straling*   | --- |
+| – elektronen, β-straling, dracht, remstraling  | +  |
+| fotonen:  | --- |
+| – halveringsdikte  | +  |
+| – smalle en brede bundels  | +  |
+|  *b. Invloed van afstand tussen bron en object *   | +  |
+|  *c. Ontwerpen en construeren van een afscherming bij: *   | --- |
+| radioactieve bronnen:  | --- |
+| – fotonen  | ±  |
+| röntgenapparaten:  | --- |
+| – wetenschappelijk, industrieel  | ±  |
+| – medisch  | ±  |
+|  *d. Veilig hanteren van:*   | --- |
+| – ingekapselde radioactieve bronnen  | +  |
+| – röntgenapparaten  | +  |
+|  *3. Bescherming tegen inwendige besmetting:*   | --- |
+|  *Veilig hanteren van niet ingekapselde bronnen*   | --- |
+| – gebruik van persoonlijke beschermingsmiddelen  | +  |
+|  *4. Praktische probleembenadering*   | --- |
+|  *Activiteitsbepaling van*   | --- |
+| – vast monster  | ±  |
+
+### Onderdeel  D:  
+
+####Opleiding op het gebied van stralingsbescherming voor radioactieve bronnen met gering risico (niveau 5B)
+
+| Onderwerp  | Cijfer / Notatie  |
+|:---|:---|
+|  *Wiskunde*   | --- |
+| – Grafieken (lineaire en logaritmische assen)  | 2  |
+|  *Algemene fysische en chemische onderwerpen*   | --- |
+| – Bouw van de materie  | 1  |
+| – Ionisatie, excitatie  | 1  |
+| – Nuclidenkaart  | 1  |
+|  *Radioactiviteit*   | --- |
+| – Verhouding protonen – neutronen  | 1  |
+| – Radioactief verval, halveringstijd  | 2  |
+| – Vervalformule met halveringstijd  | 2  |
+| – Specifieke activiteit  | 1  |
+| – α-, β-, γ-verval, elektronenvangst  | 1  |
+| – Karakteristieke röntgenstraling  | 1  |
+| – Vervalschema's  | 1  |
+|  *Natuurlijke radioactiviteit*   | --- |
+| – U- en Th-vervalreeksen  | 1  |
+| – Kosmogene radionucliden  | 1  |
+| – Andere natuurlijke radionucliden  | 1  |
+| – Kosmische straling  | 1  |
+| – Doses t.g.v. natuurlijke radioactiviteit  | 1  |
+|  *Kunstmatige radioactiviteit en röntgenstraling*   | --- |
+| – Doses t.g.v. kunstmatige radioactiviteit en röntgenstraling  | 1  |
+|  *β- en elektronenstraling*   | --- |
+| – Energiespectra β-stralers  | 1  |
+| – Wisselwerking met materie (ioniserende vermogen, LET, stopping power)  | 1  |
+| – Dracht  | 2  |
+| – Remstraling  | 1  |
+| – Elektronenversnellers  | 1  |
+|  *Röntgen- en γ-straling*   | --- |
+| – Elektromagnetische straling, duale karakter, energiespectrum  | 1  |
+| – Kwadratenwet  | 3  |
+| – Wisselwerkingsprocessen met materie  | 1  |
+| – Afhankelijkheid effecten van de energie  | 1  |
+| – Halveringsdikte  | 2  |
+|  *Zwaardere geladen deeltjes (o.a. alfa’s)*   | --- |
+| – Wisselwerking met materie  | 1  |
+| – Dracht  | 1  |
+|  *Detectiemethoden*   | --- |
+|  *Met gas gevulde detectoren:*   | --- |
+| – Ionisatiekamers  | 1  |
+| – G.M. telbuizen  | 1  |
+|  *Scintillatiedetectoren:*   | --- |
+| – Vloeistofscintillatietellers  | 1  |
+| – Detectiemethoden, berustend op fotografische effecten  | 1  |
+| – Thermoluminescentie detectoren  | 1  |
+| – Telrendement, (intrinsiek-)  | 1  |
+| – Spectrometrie, pulshoogteanalyse  | 1  |
+|  *Dosimetrie*   | --- |
+| – Geabsorbeerde dosis  | 2  |
+| – stralingsweegfactoren en weefselweegfactoren  | 2  |
+| – Equivalente dosis  | 2  |
+| – Volgdosis  | 2  |
+| – Effectieve dosis  | 2  |
+| – Vuistregels m.b.t. β-dosimetrie  | 2  |
+| – γ-dosimetrie  | 2  |
+| – Vuistregels m.b.t. γ-dosimetrie  | 2  |
+| – Specifieke Γ-stralingsconstante  | 2  |
+|  *Dosismeters*   | --- |
+| – Ionisatiekamers  | 1  |
+| – TLD  | 1  |
+| – IJkmethoden detectoren  | 2  |
+|  *Biologische gevolgen van straling*   | --- |
+| – Begrippen: Stochastische/ deterministische effecten  | 2  |
+| – Weefselweegfactoren  | 2  |
+| – Somatische effecten: Vroege effecten bij globale en partiële bestraling  | 1  |
+| – Late effecten  | 1  |
+| – Genetische effecten  | 1  |
+| – Dosis-effectrelaties  | 1  |
+| – Risicoschattingen  | 1  |
+|  *Normen en wettelijke regelingen, (inter)nationale*    *organisaties*   | --- |
+| – (Inter)nationale organisaties m.b.t. stralingsveiligheid, samenhang  | 1  |
+|  *Aanbevelingen ICRP:*   | --- |
+| – Uitgangspunten stralingsbescherming  | 1  |
+|  *Voor Nederland geldende internationale regelingen:*   | --- |
+| – Europese basic safety standards  | 1  |
+|  *Nederlandse wetgeving:*   | --- |
+| – Kernenergiewet (KEW)  | 1  |
+| – Besluit stralingsbescherming en uitvoeringsregelingen stralingsbescherming  | 2  |
+| – Vergunningsvoorschriften  | 2  |
+| – Vervoersovereenkomsten (Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, ADR klasse 7)  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *a) uitwendige bestraling*    *1. Theorie*   | --- |
+| – Principe beschermingsmaatregelen (tijd, afstand, afscherming); afscherming van β-deeltjes  | 2  |
+| – Elektronen  | 1  |
+| – Zware deeltjes  | 1  |
+|  *Afscherming van fotonenstraling:*   | --- |
+| – Smalle-bundelgeometrie  | 1  |
+| – Brede-bundelgeometrie; puntbron, opbouwfactoren (buildup factor)  | 1  |
+| – Keuze materiaalsoort als functie van fotonenergie  | 1  |
+| – Gebruik van grafieken betreffende verzwakking en transmissie  | 2  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling (factoren tijd-afstand-afscherming)  | 3  |
+| Praktische uitvoering afschermingen voor:  | --- |
+| – Geladen deeltjes  | 1  |
+| – Fotonen  | 2  |
+| – Neutronen  | 1  |
+| Specifieke beschermingsmaatregelen bij:  | --- |
+| – Sterke β-bronnen; bronnen voor radiografie  | 1  |
+| – Persoonlijke controlemiddelen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *b) Inwendige besmetting*   | --- |
+|  *1. Theorie*   | --- |
+|  *Achtergrond en gebruik van tabellen e.a. gegevens van ICRP voor dosisberekeningen bij:*   | --- |
+| – Inhalatie en ingestie  | 1  |
+| – Wondbesmetting  | 1  |
+| – Radiotoxiciteit  | 1  |
+|  *2. Praktijkaspecten*   | --- |
+| – Beperking blootstelling, algemene principes  | 1  |
+| – Richtlijn Radionuclidenlaboratoria  | 1  |
+| – Indeling nuclidenlaboratoria  | 1  |
+| – Maximaal toelaatbare oppervlaktebesmetting  | 1  |
+| – Inrichtingseisen voor nuclidenlaboratoria  | 1  |
+| – Persoonlijke beschermingsmaatregelen  | 1  |
+| – Werkmethoden, hygiënische voorzorgen  | 1  |
+| – Afvalbehandeling, lozingsnormen  | 1  |
+| – Decontaminatiemethoden  | 1  |
+|  *Controlemethoden*   | --- |
+| – oppervlaktebesmettingen  | 1  |
+| – luchtbesmetting  | 1  |
+| – lozingen  | 1  |
+| – lektest ingekapselde bronnen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *c) Vervoer van radioactieve stoffen *   | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *d) Risico-evaluatie*   | --- |
+| – Ingekapselde bronnen  | 2  |
+| – Niet-ingekapselde bronnen  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *e) Maatregelen bij ongevallen*   | --- |
+|  *Persoonlijke stralingsongevallen*   | --- |
+| – Uitwendige bestraling  | 1  |
+| – Besmetting van kleding en huid; decontaminatie  | 1  |
+| – Inwendige besmetting  | 1  |
+| – Organisatorische maatregelen, intern en extern  | 1  |
+|  *Praktische stralingshygiëne; veiligheidsmaatregelen*    *f) Organisatorische aspecten*   | --- |
+| – Taken en verantwoordelijkheden toezichthoudend en coördinerend deskundige  | 1  |
+| – Uitvoering administratie en beheer  | 1  |
+|  *Praktische vaardigheid / Practicumonderwerpen*   | --- |
+|  *1. Werking en gebruik van stralingsmeetapparatuur voor:*   | --- |
+|  *a. Equivalent dosistempo*   | --- |
+| – Fotonen  | +  |
+| – Elektronen  | +  |
+|  *b. Activiteitsmeting, vaste en vloeistofmonsters*   | --- |
+| – β-straling, hard  | ±  |
+| – β-straling, zacht  | ±  |
+| – fotonen  | +  |
+|  *c. Meting van besmetting op oppervlakken*   | --- |
+| – β-straling  | +  |
+| – fotonen  | +  |
+|  *d. Energiespectrometrie*   | --- |
+| – fotonen  | +  |
+|  *2. Bescherming tegen uitwendige bestraling:*   | --- |
+|  *a. Afscherming van straling*   | --- |
+| – elektronen, β-straling, dracht, remstraling  | +  |
+| fotonen:  | --- |
+| – halveringsdikte  | +  |
+| – smalle en brede bundels  | ±  |
+|  *b. Invloed van afstand tussen bron en object *   | +  |
+|  *c. Ontwerpen en construeren van een afscherming bij: *   | --- |
+| radioactieve bronnen:  | --- |
+| – fotonen  | ±  |
+|  *d. Veilig hanteren van:*   | --- |
+| – ingekapselde radioactieve bronnen  | +  |
+|  *3. Bescherming tegen inwendige besmetting:*   | --- |
+|  *a. Veilig hanteren van niet ingekapselde bronnen*   | --- |
+| – gebruik van persoonlijke beschermingsmiddelen  | +  |
+|  *b. Gebruik van laboratoriumvoorzieningen*   | --- |
+| – zuurkast  | +  |
+| – handschoenenkast  | ±  |
+|  *4. Praktische probleembenadering*   | --- |
+|  *a. Identificatie van radioactieve nuclide(n) in monsters*   | ±  |
+|  *b. Activiteitsbepaling van*   | --- |
+| – vast monster  | +  |
+| – vloeistofmonster  | +  |
+|  *c. Aanpak van lokale laboratoriumbesmetting*   | --- |
+| – veiligheidsmaatregelen, organisatie  | +  |
+| – bepaling aard en omvang besmetting  | +  |
+| – decontaminatie  | +  |
+|  *d. Persoonsbesmettingen*   | --- |
+| – controle van lichaamsdelen en kleding  | +  |
+| – decontaminatie van eenvoudige huidbesmettingen  | ±  |
+
+### Bijlage 3.3 
+
+####, behorende bij artikel 3.20 
+
+Treedt in werking per 01-07-2014 
+
+### Onderdeel  A:  
+
+####Opleiding Stralingshygiëne voor Medisch Specialisten die gebruik maken van röntgenapparatuur
+
+De eindtermen zijn voorzien van de aanduidingen K = kennis (knowledge); V = vaardigheden (skills) en C = competenties (competences). Deze drie categorieën zijn in de genoemde volgorde hiërarchisch ondergeschikt: een hogere categorie-aanduiding impliceert dat ook aan de voorgaande moet zijn voldaan (K < V < C).  
+
+| --- |
+|:---|
+|  *Kerncompetentie 1*    *De medisch specialist verricht zijn op de juiste wijze gerechtvaardigde medische procedure op zodanige manier, dat de patiënt een redelijk lage stralingsbelasting ontvangt, waarbij het totale risico van de procedure voor de patiënt zo laag mogelijk wordt gehouden (het ALARA-principe). Bovendien gebruikt de medisch specialist de binnen de klinische context geschikte beeldacquisitietechniek met de geschikte diagnostische beeldkwaliteit (C).*   |
+
+####Nadere typering van de context
+
+De procedures onder doorlichting zullen doorgaans worden uitgevoerd in daartoe geschikte ruimtes (bewaakte of gecontroleerde zones), zoals operatiekamers, katheterisatiekamers of angioruimtes. Vaak – maar niet altijd en overal, afhankelijk van de lokale afspraken – wordt de doorlichting uitgevoerd of ondersteund door een MBB’er, een verpleegkundige of een OK-assistent. Gedurende de procedure is de aanwezige medisch specialist (de opdrachtgever conform de Wet BIG) verantwoordelijk voor (optimalisatie van) zowel de dosis die de patiënt ontvangt als die van de in de onderzoeks- of behandelruimte aanwezige medewerkers.  *In deze context gaat het erom dat de medisch specialist* <sup> 1 In de beschrijving van de eindtermen is voor de mannelijke persoonsvorm gekozen ter vermijding van telkens hij/zij. </sup>: 
+
+1. volgens geaccepteerde professionele medische standaarden handelt met betrekking tot de rechtvaardiging van de blootstelling. Hierbij wordt het PROLARA-concept<sup> 2 PROgnosis-based Lifetime Attributable Risk Approximation. </sup> gehanteerd, hetgeen inhoudt, dat het stralingsrisico wordt afgewogen naar de totale uitkomst van de medische procedure betreffende risico’s en levensverwachting (C);  
+
+2. de medische procedure uitvoert met daartoe geschikte (bijvoorbeeld qua projectiemogelijkheden) en voor het specifieke doel optimaal ingestelde doorlichtapparatuur, zoals voor pediatrische behandelingen, langdurige procedures (V);  
+
+3. de röntgenapparatuur op de geschikte wijze voor een specifiek doorlichtprotocol gebruikt, daarbij gebruik makend van de aanwezige opties en hulpmiddelen tot dosisreductie (V);  
+
+4. zorg draagt voor juiste patiëntpositionering zonder gebruik te maken van doorlichting en de gewenste projectiestanden indien mogelijk direct kiest zonder de proefondervindelijke methode met doorlichting te gebruiken (C);  
+
+5. handelt volgens standaarden (Good Medical Practice) voor specifieke doorlichtprocedures teneinde de totale doorlichttijd te beperken (C).    *Daarvoor is het nodig dat de medisch specialist<sup> 3 De items genoemd onder deze en de twee hierna volgende, analoge rubrieken zijn de feitelijke leerdoelen van de stralingshygiënecursus. </sup>:*  
+
+6. de aard van röntgenstraling begrijpt en de wijze waarop deze wordt geproduceerd en verder het elektromagnetische spectrum, röntgenspectra, interactie van röntgenstraling met materie, achtergrondstraling (K);  
+
+7. de functie beschrijft van de onderdelen van de beeldvormende keten (K);  
+
+8. beeldkwaliteit globaal beschrijft in termen van resolutie (spatieel en temporeel), signaal-ruisverhouding en contrast en het onderscheid benoemd en herkent tussen bijvoorbeeld hoog- en laagcontrastbeelden, etc. (K/V);  
+
+9. bekend is met de invloed die het aanpassen van verschillende instelparameters of het gebruik van diverse opties heeft op beeldkwaliteit en patiëntendosis en dit toepast: buisspanning, kilovolt (kV); buisstroom (mA); filters (extra bundelopharding); wigfilters, diafragma (beperken veldgrootte); gepulste doorlichting (pulshoogte, -lengte, -frequentie); beeldfrequentie; vastzetten laatste beeld (Last Image Hold); filmmodus (cine; vastzetten belichtingswaarde (set point)); hoge-dosis/lage-dosisbelichtingsregeling; vergroting; strooistralenrooster; projectie- en angulatiestanden (PA, LAT etc.); automatische belichtingsregeling; geometrie (positie röntgenbuis/positie beeldontvanger en omgekeerde kwadratenwet), het gebruik van contrast; routeplanning (road mapping) en deze waar nodig toepast (V);  
+
+10. de principes van de stralingsbescherming kent en toepast: rechtvaardiging; ALARA, dosislimieten voor werkers (K/V);  
+
+11. bekend is met de relevante basis- en operationele grootheden (geabsorbeerde dosis, intreehuiddosis, orgaandosis (equivalente dosis), effectieve dosis, dosis-oppervlakte-product, detectordosis) (K);  
+
+12. globaal de dosisverdeling in en rond de patiënt beschrijft (verzwakkingscurve, bijdragen van strooistraling) (K);  
+
+13. de functie kent van de in de röntgenopstelling ingebouwde dosismeter (Dosis-Oppervlakte-Product, DOP); op de hoogte is van dosisreferentiewaarden voor diagnostische procedures en in voorkomende situaties een klinisch fysicus raadpleegt, bijvoorbeeld wanneer een schatting van een orgaandosis of de effectieve dosis nodig is na een intensieve/lange doorlichtprocedure (K/V);  
+
+14. zich realiseert, dat er speciale pediatrische doorlichtprotocollen bestaan en de doorlichtparameters aanpast bij het doorlichten van kinderen in diverse leeftijdsklassen (V);  
+
+15. de procedure kent en die volgt indien onjuiste of onbedoelde blootstelling heeft plaatsgevonden (V/C);  
+
+16. de voor- en nadelen kent van het toepassen van afscherming op de patiënt (bijvoorbeeld gonadenafscherming, bismut-afdekking, etc.) (K);  
+
+17. niet terughoudend is bij het behandelen van een urgente (zwangere) patiënt waarbij doorlichting nodig is (V).    
+
+| --- |
+|:---|
+|  *Kerncompetentie 2*    *De medisch specialist werkt op een veilige manier volgens het ALARA-principe met röntgenstraling om onnodige blootstelling van zichzelf, de andere aanwezige werkers en eventuele ondersteuners te voorkomen (C).*   |
+
+####Nadere typering van de context
+
+In het algemeen zal het werken volgens gebruikelijke protocollen (Good Medical Practice) leiden tot geoptimaliseerde patiëntendoses en relatief lage doses voor de medewerkers, met andere woorden: dosisreductie voor de patiënt is meestal congruent met een lagere dosis voor de arts en de omloopmedewerker. Desondanks moet er – zeker bij een hoog werkaanbod en bij bepaalde procedures – extra aandacht worden gegeven aan beschermende maatregelen voor de medewerkers. De dosislimieten voor de medisch specialist en de medewerkers mogen niet worden overschreden.  *In deze context gaat het erom dat de medisch specialist:*  
+
+18. een persoonsdosismeter draagt indien noodzakelijk of verplicht (V);  
+
+19. uitslagen van persoonsdosimetrie relateert aan werkbelasting en type van uitgevoerde procedures op specifieke doorlichtapparatuur (V);  
+
+20. de geschikte afschermingshulpmiddelen gebruikt (bijvoorbeeld een aan het plafond gemonteerd beweegbaar loodglas) (C);  
+
+21. zich bewust is van de positie die alle medewerkers innemen rondom een patiënt die wordt doorlicht en dat hij de voor de procedure niet essentiële omstanders een grotere afstand laat houden of vraagt de ruimte te verlaten (C);  
+
+22. niet terughoudend is in de zorg voor en de (acute) behandeling van patiënten die (mogelijk) radioactief zijn vanwege een voorafgaand nucleair-geneeskundig onderzoek of ten gevolge van stralingsincidenten/ongevallen (V);  
+
+23. speciale aandacht geeft aan zwangere medewerkers (dosislimiet foetus, toepassen van het ALARA-principe, voldoen aan de gestelde (ziekenhuis)regels, risicoperceptie) (C).    *Daarvoor is het nodig dat de medisch specialist:*  
+
+24. de basisprincipes van de stralingsbescherming (tijd, afstand, afscherming) kent en in de praktijk toepast om onnodige blootstelling te vermijden (V);  
+
+25. de relevante dosislimieten kent (effectieve dosis en equivalente dosis voor geselecteerde organen, bijvoorbeeld extremiteiten, ooglens) voor blootgestelde (radiologisch) werkers en niet-blootgestelde werkers (niet-radiologisch werkers, zoals verpleging, helpers) (K);  
+
+26. weet welke posities rond een patiënt beter kunnen worden vermeden tijdens doorlichten (indien mogelijk) en dit toepast (K/V);  
+
+27. de specifieke maatregelen kent die genomen moeten worden indien medewerkers zwanger zijn (K);  
+
+28. vertrouwd is met de relevante operationele dosisgrootheden (persoonsdosisequivalent, H<sub>p</sub>(10) en omgevingsdosisequivalent, H*(10))(K);  
+
+29. de relatie begrijpt tussen de uitslag van een persoonsdosismeting en de effectieve dosis (afhankelijk van de draagpositie van de dosismeter, loodequivalent van het loodschort, kV-instelling enzovoort) en hiermee rekening houdt (V);  
+
+30. bekend is met de risico’s van radioactiviteit die in speciale medische procedures wordt toegepast, zoals de schildwachtkliermethode (sentinel node) met <sup>99m</sup>Tc en de lokalisatie van niet-palpabele tumoren met <sup>125</sup>I en hiermee zodanig omgaat, dat het risico laag blijft (V);  
+
+31. de functie en de doelmatigheid kent van de beschikbare afschermingshulpmiddelen (loodschorten, schildklierkraag, loodglasbril) (K).    
+
+| --- |
+|:---|
+|  *Kerncompetentie 3*    *De medisch specialist legt op verzoek of indien noodzakelijk stralingsrisico’s globaal uit aan de patiënt, diens familie of andere betrokkenen.*    *Daarnaast communiceert de medisch specialist met klinisch fysici, MBB’ers, verpleegkundigen/OK-assistenten en stralingsdeskundigen*    *over het optimaliseren van de stralingsbescherming op de afdeling. Daarbij wordt behalve patiëntenblootstelling ook de blootstelling van de medewerkers en derden in ogenschouw genomen, evenals de wettelijke begrenzingen. De medisch specialist aarzelt niet om wanneer nodig experts (klinisch fysicus, radioloog) te consulteren (C).*   |
+
+####Nadere typering van de context
+
+Aangezien de medisch specialist verantwoordelijk is voor de toegediende stralingsdosis aan de patiënt, moet hij de risico’s hiervan kennen en kunnen uitleggen. Omdat een deel van de kennis een beperkte houdbaarheid heeft, is het van belang dat de medisch specialist de funderende principes uit de stralingshygiëne en aanverwante vakgebieden begrijpt, zodat hij in staat is zijn kennis bij te houden.  *In deze context gaat het erom dat de medisch specialist:*  
+
+32. de grenzen van zijn eigen kennis en deskundigheid betreffende de effecten van straling kent en erkent, de juiste vragen daarover weet te formuleren en zo nodig ondersteuning vraagt bij de aangewezen deskundigen (zoals MBB’er of klinisch fysicus) (C);  
+
+33. indien noodzakelijk met alle betrokkenen communiceert over zaken betreffende stralingsbescherming (V);  
+
+34. stralingsrisico’s in het perspectief ziet van de andere aanwezige risico’s en de maatschappelijke context (V);  
+
+35. op zijn eigen stralingsrisicoperceptie reflecteert (C).    *Daarvoor is het nodig dat de medisch specialist:*  
+
+36. aan een borstvoeding gevende patiënt uitlegt, dat blootstelling aan röntgenstraling geen reden is om de borstvoeding te onderbreken of staken, maar een toegediend contrastmiddel eventueel wel (K, V);  
+
+37. de verschillende meebepalende factoren van (stralings)risicoperceptie kent en tevens rekening houdt met de valkuilen om effectief te communiceren over stralingsrisico’s (V);  
+
+38. een globale kennis heeft van de niet-ioniserende stralingsrisico’s in vergelijking met die van ioniserende straling (K);  
+
+39. onderscheid weet te maken tussen feiten en aannames betreffende de risico's van ioniserende straling (K);  
+
+40. herkent dat er een gecompliceerde relatie is tussen enerzijds wetenschappelijke kennis over stralingsbescherming en anderzijds de soms oplaaiende maatschappelijke onrust en persoonlijke emoties hierover (K);  
+
+41. de rechtvaardiging als de sleutel tot acceptatie van medische blootstelling aan ioniserende straling beschouwt (K);  
+
+42. zich bewust is van de verschillende professionele rollen van MBB’ers, klinisch fysici, toezichthoudend deskundigen enz. (K);  
+
+43. kennis heeft van de effectieve-dosiswaarden van de belangrijkste, meest voorkomende medische procedures (K);  
+
+44. de dosisbegrippen begrijpt die in de stralingsbescherming worden gebruikt (geabsorbeerde dosis, equivalente dosis, effectieve dosis, orgaandosis, intree-huiddosis, foetale dosis, ooglensdosis, extremiteitendosis) (K);  
+
+45. fundamentele kennis heeft van de relevante aspecten van de radiobiologie van de mens: stochastische effecten, weefselreacties, teratogene en genetische effecten (K);  
+
+46. op de hoogte is van de relevante wet- en regelgeving betreffende medische stralingstoepassingen (K).   
+
+### Onderdeel  B:  
+
+####opleiding stralingshygiëne voor Tandartsen en Orthodontisten
+
+####Niveau
+
+Gebruikte aanduiding voor niveau van kennis en vaardigheid: L = laag, een globaal bekend zijn met principes. M = middel, voldoende kennis van onderwerp om toe te kunnen passen in praktijk. H = hoog, gedetailleerde kennis en begrip, voldoende om anderen te kunnen instrueren. In de initiële opleiding is vaardigheid verkregen in de praktische uitvoering van genoemde onderwerpen, inclusief interpretatie van het normale beeld en beelden van afwijkingen (pathologie). Voor nascholing kan de praktische vaardigheid aanwezig verondersteld worden en kan worden volstaan met updating/refreshment.  
+
+|--- | Onderwerp  | Niveau  |
+|:---|:---|:---|
+| 1  | Atomaire structuur, stralingsproductie en interactie van straling  – Bouw van materie  – Ionisatie, excitatie  – Elektromagnetische straling  – Kwadratenwet  – Wisselwerking straling met materie; foto–en comptoneffect  – Afhankelijkheid effecten van fotonenergie  – Verzwakkingscoëfficienten en transmissie  | L  |
+| --- | --- | --- |
+| 2  | Radiologische grootheden en eenheden  – Geabsorbeerde dosis  – Stralingsweegfactor en equivalente dosis  – Weefselweegfactoren en effectieve dosis  – Gray, sievert  | L  |
+| --- | --- | --- |
+| 3  | Fysische eigenschappen van röntgentoestellen  – Bouw en werking röntgenbuis; productie van straling  – Stralingskwaliteit en energiespectrum  – Invloed buisspanning op dosis en contrast  – Invloed van buisstroom op dosis en contrast  – Effect van filtering  – Bundelbegrenzing  | M  |
+| --- | --- | --- |
+| 4  | Principes van stralingsdetectie  – Dosismeters (zowel persoonlijk als ruimtedosimetrie)  – Gebruik van dosismeters (zowel persoonlijk als ruimtedosimetrie)  – Beeldvormende systemen (film, SPP, CCD, CMOS e.a.).  | L  |
+| --- | --- | --- |
+| 5  | Principe van en procedures voor rechtvaardiging  – Kosten–baten analyse (rechtvaardiging van het protocol/procedure in het algemeen en voor de specifieke patiënt in het bijzonder).  | H  |
+| --- | --- | --- |
+| 6  | Principes van radiobiologie, biologische effecten van straling  – Interactie van straling en levend weefsel  – Factoren van invloed op het biologisch effect  – Stochastische en deterministische effecten  – Principe van lineaire dosis–effect relatie  | L  |
+| --- | --- | --- |
+| 7  | Risico’s op tumoren en erfelijke afwijkingen  – Latentietijd  – Genetische effecten  | M  |
+| --- | --- | --- |
+| 8  | Optreden van weefselreacties (deterministische effecten)  | L  |
+| --- | --- | --- |
+| 9  | Algemene principes van stralingsbescherming inclusief optimalisatie  – Effect van afstand  – Effect van filtering  – Effect van diafragmering  – Rechtvaardiging, ALARA en dosislimieten  – Afschermende werking van materialen  | H  |
+| --- | --- | --- |
+| 10  | Toepassing van stralingsbescherming  – Stralingsrisicoinventarisatie en –-nalyse  – Persoonsdosimetrie  – Ruimtedosimetrie  – Organisatorische maatregelen  –  | H  |
+| --- | --- | --- |
+| 11  | Toepassing van stralingsbescherming ten opzichte van patiënten  – Toepassing rechtvaardigingsprincipe  – Keuze apparatuur  – Keuze opnametechniek in relatie tot diagnostische vraagstelling  – Bundelbegrenzing  – Effecten van filtering  – Keuze receptor  – Keuze opnametechniek  – Beleid van röntgenopnamen en zwangerschap  – Kwaliteitsbewaking en foutherkenning  – Gebruik van loodkraag (schild) en loodschort  – Bepaling van noodzaak overige beschermende maatregelen  | H  |
+| --- | --- | --- |
+| 12  | Toepassing van stralingsbescherming ten opzichte van personeel en medewerkers  – Wanneer is persoonsdosimetrie noodzakelijk  – Stralingshandelingen bij zwangerschap  – Bouwkundige aspecten  | H  |
+| --- | --- | --- |
+| 13  | Diagnostische referentieniveaus  – Intra–orale opnamen  – Extra–orale opnamen  – Bijzondere opnamen (o.a. CBCT)  – Vergelijking met andere opnametechnieken  | M  |
+| --- | --- | --- |
+| 14  | Risico bij zwangerschap en voor de foetus  | M  |
+| --- | --- | --- |
+| 15  | Kwaliteitsbewaking en kwaliteitsbevordering  – Referentiedoses  – Praktijkinstructies en protocollen  – Standaardisatie van opnametechniek  – Beeldoptimalisatie en beeldbewerking  | M  |
+| --- | --- | --- |
+| 16  | Nationale regelgeving en (inter)nationale richtlijnen  – ICRP-Europese richtlijnen  – KeW en Besluit stralingsbescherming  – Melding en vergunning  – Praktijkrichtlijn NMT en veldnormen  | M  |
+
+### Onderdeel  C:  
+
+####opleiding Stralingshygiëne voor het gebruik van CBCT toestellen door tandartsen
+
+|--- | Onderwerp  | niveau  |
+|:---|:---|:---|
+| 0  | De inhoud van het niveau Stralingshygiene voor tandartsen en orthodontisten wordt bekend verondersteld  | --- |
+| --- | --- | --- |
+| 3  | Fysische eigenschappen van CBCT  – Principe van CBCT  – CBCT systemen  – Mogelijkheden voor belichtingsinstellingen  – Selectie volume en resolutie  – Effect van buisspanning  – Effect van buisstroom  – Effect van beam hardening  | M  |
+| --- | --- | --- |
+| 4  | Principes van stralingsdetectie bij CBCT  – Beeldacquisitiesystemen  – Principe van CT-beeldreconstructie  – Partial volume effect  – 3D-rendering en visualisatie  | M  |
+| --- | --- | --- |
+| 5  | Principe van en procedures voor rechtvaardiging  – Kosten–baten analyse (rechtvaardiging van het protocol/procedure in het algemeen en voor de specifieke patiënt in het bijzonder) met betrekking tot CBCT.  | H  |
+| --- | --- | --- |
+| 10  | Toepassing van stralingsbescherming bij CBCT  – Effect van bundelbegrenzing en beperking Volume of Interest  – Effect van aantal basisprojecties  – Effect van opnamehoek  – Resolutie  – Risicoanalyse en vereiste afscherming rondom toestel.  | H  |
+| --- | --- | --- |
+| 11  | Toepassing van stralingsbescherming ten opzichte van patiënten  – Effecten van belichtingsinstellingen op de patiëntendosis  | H  |
+| --- | --- | --- |
+| 12  | Toepassing van stralingsbescherming ten opzichte van personeel en medewerkers  – Stralingsbelasting op de omgeving bij CBCT-toestellen  – Effecten van belichtingsinstellingen op de omgevingsdosis  | H  |
+| --- | --- | --- |
+| 13  | Diagnostische referentieniveaus  – Voor verrichtingen met CBCT  | --- |
+| --- | --- | --- |
+| 15  | Kwaliteitsbewaking en kwaliteitsbevordering bij een CBCT  – Controle op goede werking  – Vereiste training van gebruiker  | H  |
+| --- | --- | --- |
+| 16  | Nationale regelgeving en (inter)nationale richtlijnen  – Besluit stralingsbescherming  – Risicoanalyse  – Afscherming rondom CBCT-toestel  – Melding/vergunning  – Rechtvaardiging  – SedentexCT  – Vergelijking met andere opnamemodaliteiten  – Praktijkinstructies en protocollen  | H  |
+| --- | --- | --- |
+| 17  | Interpretatie en diagnostiek  – Anatomie en het normale beeld  – Implantologie  – Endodontologie  – Gnathologie  – Traumatologie  – Overige pathologie  – Herkennen van fouten in belichtingsinstelling, positionering en gevolgen van mechanische problemen.  – Artefacten  | H  |
+
 ### Bijlage 5.1 
 
 ####, behorende bij artikel 5.2 

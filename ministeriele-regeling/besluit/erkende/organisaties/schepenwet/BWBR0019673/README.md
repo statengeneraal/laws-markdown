@@ -18,15 +18,13 @@ a. American Bureau of Shipping (ABS) Europe Ltd te Londen, Verenigd Koninkrijk;
 
 b. Bureau Veritas (BV) te Parijs, Frankrijk;  
 
-c. Det Norske Veritas (DNV) te Oslo, Noorwegen;  
+c. DNV GL AS te Høvik, Noorwegen;  
 
-d. Germanischer Lloyd (GL) AG te Hamburg, Duitsland;  
+d. Lloyd’s Register of Shipping (LR) te Londen, Verenigd Koninkrijk;  
 
-e. Lloyd’s Register of Shipping (LR) te Londen, Verenigd Koninkrijk;  
+e. Nippon Kaiji Kyokai (NKK) te Tokio, Japan;  
 
-f. Nippon Kaiji Kyokai (NKK) te Tokio, Japan;  
-
-g. Registro Italiano Navale (RINA) te Genua, Italië.     
+f. Registro Italiano Navale (RINA) te Genua, Italië.     
 2.  De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) en [13 tot en met 18 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.  
 
 ### Artikel  2  
@@ -56,12 +54,16 @@ i. Koninklijke Marine- Marinebedrijf te Den Helder;
 
 j. VEVC te Urk;  
 
-k. De Wolf Products B.V. te Yerseke.     
+k. De Wolf Products B.V. te Yerseke;  
+
+l. Survitec B.V. te Grou;  
+
+m. Survitec B.V. te Rotterdam.    
 3.  Als testing ASP voor het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V/19.1 van het SOLAS-verdrag worden aangewezen: 
 
 a. Alewijnse Marine Systems B.V., te Krimpen aan den IJssel;  
 
-b. Radio Holland Netherlands B.V., te Rotterdam;  
+b. Imtech Marine Netherlands B.V., te Rotterdam;  
 
 c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in combinatie met de rechtspersonen, genoemd in de onderdelen a en b;  
 
@@ -70,19 +72,27 @@ d. Alphatron Marine B.V., te Rotterdam;
 e. SAM Electronics Nederland B.V., te Rotterdam;  
 
 f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.    
-4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Enkhuizen.  
-5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
-6.  Als keuringsinstantie voor reddingmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingmiddelen als bedoeld in circulaire MSC.1/Circ.1206/Rev.1 van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen: Willem Pot B.V. te Rotterdam.   
-7.  Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
+4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Steenwijk.  
+5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Steenwijk.   
+6.  Als keuringsinstantie voor reddingmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingmiddelen als bedoeld in circulaire MSC.1/Circ.1206/Rev.1 van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen: 
+
+a. Willem Pot B.V. te Rotterdam;  
+
+b. Polyrep te Hellevoetsluis;  
+
+c. Harding Safety Netherlands B.V. te Houten.     
+7.  Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland B.V. te Steenwijk.   
 8.  Als keuringsinstantie voor radio-uitrusting, bevoegd tot het verrichten van onderzoeken in verband met het certificeren van de radio-uitrusting van vissersvaartuigen en schepen voor zover zij niet door een klassenbureau als bedoeld in artikel 1, eerste lid, worden onderzocht, worden aangewezen: 
 
-a. Radio Holland Netherlands B.V. te Rotterdam;  
+a. Imtech Marine Netherlands B.V. te Rotterdam;  
 
 b. Alphatron Marine B.V. te Rotterdam;  
 
 c. SAM Electronics Netherlands B.V. te Rotterdam;  
 
-d. Pro Nautas B.V. te Barendrecht.     
+d. Pro Nautas B.V. te Barendrecht;  
+
+e. NavCom Inspection & Consultancy B.V. te IJmuiden.    
 9.  Aan de aanwijzingen, bedoeld in het derde tot en met het achtste lid, zijn de voorschriften verbonden, opgenomen in de bijlage bij dit besluit.   
 10.  Buiten het Koninkrijk zijn aangewezen als keuringsinstantie voor opblaasbare reddingmiddelen en keuringsinstantie voor reddingmiddelen als bedoeld in het tweede respectievelijk het zesde lid, de door de bevoegde autoriteiten ter plaatse erkende organisaties. 
 

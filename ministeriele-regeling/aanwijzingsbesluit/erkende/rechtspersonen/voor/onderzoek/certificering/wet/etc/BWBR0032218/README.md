@@ -14,15 +14,13 @@ a. American Bureau of Shipping (ABS) te Houston, USA;
 
 b. Bureau Veritas (BV) te Neuilly-sur-Seine, Frankrijk;  
 
-c. Det Norske Veritas (DNV) te Oslo, Noorwegen;  
+c. DNV GL AS te Høvik, Noorwegen;  
 
-d. Germanischer Lloyd (GL) SE te Hamburg, Duitsland;  
+d. Lloyds Register EMEA (LR) te Londen, Verenigd Koninkrijk;  
 
-e. Lloyds Register EMEA (LR) te Londen, Verenigd Koninkrijk;  
+e. Nippon Kaiji Kyokai (NK) te Tokio, Japan;  
 
-f. Nippon Kaiji Kyokai (NK) te Tokio, Japan;  
-
-g. Registro Italiano Navale (RINA) te Genua, Italië.   
+f. Registro Italiano Navale (RINA) te Genua, Italië.   
 
 ### Artikel  2  
 

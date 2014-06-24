@@ -129,6 +129,41 @@ Het Commissariaat kan in bijzondere gevallen afwijken van artikel 6.
 
 Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), en [2.68. eerste lid, onderdelen a en b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), gaat onmiddellijk in. 
 
+### §  2.2.1a  
+
+####Bekostiging regionale publieke mediadiensten
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  9a  
+
+####Aanvraag bekostiging
+
+Treedt in werking per 01-07-2014 
+
+1.  Een regionale publieke media-instelling dient jaarlijks vóór 15 september een aanvraag in bij het Commissariaat voor een bijdrage als bedoeld in [artikel 2.170, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
+2.  De aanvraag gaat vergezeld van een begroting en een activiteitenplan.   
+3.  Het activiteitenplan bevat een overzicht van de activiteiten waarvoor een bijdrage wordt gevraagd.  
+
+### Artikel  9b  
+
+####Begroting
+
+Treedt in werking per 01-07-2014 
+
+1.  Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als bijlage II bij deze regeling is gevoegd.   
+2.  De begroting bevat in elk geval: 
+
+a. een beschrijving van de wijze waarop door de regionale publieke media-instelling invulling wordt gegeven aan het voorgenomen media-aanbod met in achtneming van het bepaalde bij of krachtens de wet;  
+
+b. een raming van de financiële middelen die voor het volgend kalenderjaar nodig zijn om het voorgenomen media-aanbod te verwezenlijken en een raming voor de daarop volgende vier jaar;  
+
+c. een toelichting op de onderscheiden onderdelen en begrotingsposten;  
+
+d. een beschrijving van de samenwerking met landelijke en lokale publieke media-instellingen en anderen; en  
+
+e. een toelichting op voorgenomen investeringen, leningen of onttrekkingen van reserves.    
+
 ### §  2.2.2  
 
 ####Reclame- en telewinkelboodschappen
@@ -166,6 +201,17 @@ c. de kosten en opbrengsten van alle andere activiteiten.
 2.  De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in [artikel 2.147 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en zonodig een liquiditeitsprognose van de desbetreffende instelling.   
 3.  Indien de raad van bestuur hierom verzoekt, zenden de landelijke publieke media-instellingen voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan de raad van bestuur.   
 4.  Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.  
+
+### Artikel  12a  
+
+####Voorschotten regionale publieke media-instellingen
+
+Treedt in werking per 01-07-2014 
+
+1.  De regionale publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. Het Commissariaat kan hiervan afwijken.   
+2.  Het Commissariaat bepaalt de hoogte van de voorschotten mede op basis van de begroting en zo nodig een liquiditeitsprognose van de desbetreffende instelling.   
+3.  De regionale publieke media-instellingen zenden voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan het Commissariaat.   
+4.  Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget van de desbetreffende regionale publieke media-instelling.  
 
 ### Artikel  13  
 
@@ -459,4 +505,54 @@ Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan h
 ####Indexering
 
 De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
+
+### Bijlage II 
+
+####behorende bij artikel 9b 
+
+Treedt in werking per 01-07-2014 
+
+Model – Begroting 
+
+|--- | Begroting T+1  | Begroting T  (lopend jaar)  | Realisatie T-1  |
+|:---|:---|:---|:---|
+|  *BATEN*   | --- | --- | --- |
+| – bekostiging  – subsidies  | --- | --- | --- |
+| Reclamebaten  | --- | --- | --- |
+| Overige baten:  – Bijdragen van derden/ sponsorbijdragen  – Barteringbaten  – Baten uit nevenactiviteiten  – Overige  | --- | --- | --- |
+|  *Som der baten*   | --- | --- | --- |
+| --- | --- | --- | --- |
+|  *LASTEN*   | --- | --- | --- |
+| Personeelslasten  – Lonen en salarissen  – Sociale lasten  – Pensioenlasten  – Overige personeelslasten  | --- | --- | --- |
+| Directe productielasten (programmalasten)  | --- | --- | --- |
+| PR en Promotie  | --- | --- | --- |
+| Facilitaire lasten (distributie- en uitzendlasten)  | --- | --- | --- |
+| Huisvestingslasten  | --- | --- | --- |
+| Afschrijvingslasten op materiële vaste activa  | --- | --- | --- |
+| Algemene lasten  | --- | --- | --- |
+|  *Som der bedrijfslasten*   | --- | --- | --- |
+| --- | --- | --- | --- |
+|  *Financiële baten en lasten*   | --- | --- | --- |
+| Rentebaten en soortgelijke baten  | --- | --- | --- |
+| Rentelasten en soortgelijke lasten  | --- | --- | --- |
+|  *Financieel resultaat*   | --- | --- | --- |
+| --- | --- | --- | --- |
+|  *Resultaat uit gewone bedrijfsuitoefening voor belastingen (*)*   | --- | --- | --- |
+| Belastingen resultaat gewone bedrijfsuitoefening (*)  | --- | --- | --- |
+|  *Resultaat uit gewone bedrijfsuitoefening na Belastingen (*)*   | --- | --- | --- |
+| --- | --- | --- | --- |
+| Buitengewone baten  | --- | --- | --- |
+| Buitengewone lasten  | --- | --- | --- |
+| Belastingen buitengewoon resultaat  | --- | --- | --- |
+| --- | --- | --- | --- |
+|  *Resultaat na belastingen*   | --- | --- | --- |
+
+Model – Meerjarenbegroting 
+
+|--- |  *Begroting T+2*   |  *Begroting T+3*   T+2  |  *Begroting T+4*   |  *Begroting T+5*   T+2  |
+|:---|:---|:---|:---|:---|
+|  *BATEN*   | --- | --- | --- | --- |
+| – bekostiging  – overig  | --- | --- | --- | --- |
+|  *LASTEN*   | --- | --- | --- | --- |
+|  *RESULTAAT*   | --- | --- | --- | --- |
 

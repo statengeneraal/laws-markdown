@@ -1883,7 +1883,7 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in ar
 
 ### Artikel  2.177  
 
-1.  Gelden die in strijd met het bepaalde bij of krachtens deze wet zijn gebruikt of die in strijd met de artikelen 2.174, tweede lid, 2.174a, eerste lid, en 2.175, eerste lid, zijn gereserveerd, of die in strijd met artikel 2.174a, tweede lid, tweede volzin, niet zijn ontvangen, vordert het Commissariaat van de landelijke publieke media-instelling terug.   
+1.  Gelden die in strijd met het bepaalde bij of krachtens deze wet zijn gebruikt of die in strijd met de artikelen 2.174, tweede lid, 2.174a, eerste lid, en 2.175, eerste lid, zijn gereserveerd, of die in strijd met artikel 2.174a, tweede lid, tweede volzin, niet zijn ontvangen, vordert het Commissariaat van de NPO of de landelijke of regionale publieke media-instelling terug.   
 2.  Teruggevorderde gelden worden toegevoegd aan de algemene mediareserve.   
 
 ### Paragraaf  2.6.6.3  
@@ -1892,9 +1892,10 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in ar
 
 ### Artikel  2.178  
 
-1.  De landelijke en regionale en regionale publieke media-instellingen richten hun organisatie zodanig in dat een deugdelijke inrichting, sturing en beheersing van de bedrijfsprocessen gewaarborgd is.   
-2.  De raad van bestuur en het Commissariaat bevorderen dat onderscheidenlijk de landelijke publieke media-instellingen en de regionale publieke media-instellingen een eenduidige financiële boekhouding voeren.   
-3.  De raad van bestuur bevordert dat de landelijke publieke media-instellingen een eenduidige financiële boekhouding voeren.  
+1.  De landelijke en regionale publieke media-instellingen richten hun organisatie zodanig in dat een deugdelijke inrichting, sturing en beheersing van de bedrijfsprocessen gewaarborgd is.   
+2.  De landelijke en regionale publieke media-instellingen voeren een deugdelijke administratie waaruit te allen tijde Onze Minister, de raad van bestuur en het Commissariaat elk de benodigde informatie die zij voor de uitvoering van hun taken nodig hebben, op eenduidige wijze kunnen verkrijgen.   
+3.  De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, overeenkomstig het eerste en tweede lid handelen.   
+4.  De raad van bestuur en het Commissariaat bevorderen dat onderscheidenlijk de landelijke publieke media-instellingen en de regionale publieke media-instellingen een eenduidige financiële boekhouding voeren.  
 
 ### Afdeling  2.6.7  
 

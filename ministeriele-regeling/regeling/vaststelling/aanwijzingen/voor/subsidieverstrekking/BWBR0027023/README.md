@@ -90,7 +90,7 @@ Ten aanzien van subsidies die worden verstrekt
 
 a. op basis van of in nauwe samenhang met een bindend besluit van de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen;  
 
-b. in het kader van cofinanciering van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen goedgekeurd programma, zijn deze aanwijzingen van toepassing voor zover zij niet strijdig zijn met de voor de bedoelde subsidies geldende Europese voorschriften.   
+b. in het kader van cofinanciering van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen goedgekeurd programma,    zijn deze aanwijzingen van toepassing voor zover zij niet strijdig zijn met de voor de bedoelde subsidies geldende Europese voorschriften.
 
 ####Toelichting: 
 

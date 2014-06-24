@@ -34,27 +34,27 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 ###Artikel  2 
 
 1.  De ondernemer die in het jaar 2014 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap ter dekking van zijn huishoudelijke uitgaven over die dieren een heffing verschuldigd. 
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
+2. Het tarief van de in het eerste lid bedoelde heffing bedraagt:
 
-a. € 0,65 per rund, waarvan € 0,05 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+a.€ 0,00 per rund, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-b. € 1,00 per kalf V, waarvan € 0,04 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+b.€ 0,73 per kalf V, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-c. € 1,00 per kalf Z, waarvan € 0,04 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+c.€ 0,73 per kalf Z, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-d. € 0,41 per jong kalf, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+d.€ 0,40 per jong kalf, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-e. € 0,09 per varken, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+e.€ 0,00 per varken, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-f. € 0,09 per zeug, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+f.€ 0,00 per zeug, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-g. € 0,09 per big, waarvan € 0,01 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+g.€ 0,00 per big, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-h. € 0,30 per schaap, waarvan € 0,02 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs; 
+h.€ 0,00 per schaap, waarvan € 0,00 niet als zodanig in mindering mag worden gebracht op de aan de leverancier uit te betalen prijs;
 
-i. € 0,10 per geit; 
+i.€ 0,00 per geit;
 
-j. € 0,05 per jonge geit. 
+j.€ 0,00 per jonge geit.  
 3.  Als ondernemer die uitvoert als bedoeld in het eerste lid, wordt aangemerkt degene die één of meer dieren  
 
 a. in het handelsverkeer brengt, dan wel 

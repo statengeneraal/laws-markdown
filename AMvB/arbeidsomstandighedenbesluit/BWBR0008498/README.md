@@ -3118,6 +3118,28 @@ d.de namen van de werknemers en personen, bedoeld in artikel 4.54d, vijfde en ze
 
 Indien uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van asbeststof in de lucht waaraan werknemers in verband met de arbeid worden blootgesteld, hoger is dan 1 vezel per kubieke centimeter, uitgaande van een referentieperiode van acht uur, is in aanvulling op de paragrafen 3 en 4 tevens deze paragraaf van toepassing.
 
+### Artikel  4.53b  
+
+####Aanvullende maatregelen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien, gelet op de aard van de werkzaamheden, overschrijding van de grenswaarde, bedoeld in artikel 4.46, tweede lid, kan worden verwacht ondanks preventieve technische maatregelen ter beperking van de asbestconcentratie in de lucht, neemt de werkgever, doeltreffende maatregelen ter bescherming van de betrokken werknemers. 
+
+### Artikel  4.53c  
+
+####Eindbeoordeling
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 4.51a, tweede lid, betreft de eindbeoordeling een visuele inspectie gevolgd door een eindmeting, teneinde vast te stellen of de concentratie van de amfibole asbestvezels actinoliet, amosiet, anthofylliet, tremoliet en crocidoliet in de lucht gezamenlijk lager is dan 300 vezels per kubieke meter.   
+2.  Het eerste lid is niet van toepassing indien: 
+
+a. uitsluitend sprake is van verwijdering van kleine losliggende oppervlakken onbeschadigd product waarvoor geen bewerkingen nodig zijn; of  
+
+b. uit de beoordeling, bedoeld in artikel 4.2, eerste lid, blijkt dat de concentratie van de amfibole asbestvezels actinoliet, amosiet, anthofylliet, tremoliet en crocidoliet in de lucht waaraan werknemers in verband met de arbeid kunnen worden blootgesteld, beperkt is.     
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het tweede lid.  
+
 ### Artikel  4.54  
 
 ####Verzwaarde eindbeoordeling

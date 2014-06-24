@@ -82,12 +82,12 @@ d. de Centrale van Middelbare en Hogere Functionarissen bij Overheid, Onderwijs,
 3.   Vanaf de dag waarop het voornemen tot uitsluiting aan het bestuur van de centrale is kenbaar gemaakt, neemt het betrokken lid of plaatsvervangend lid niet meer deel aan het overleg.    
 4.   Na de uitsluiting wijst het bestuur van de centrale een ander lid of plaatsvervangend lid aan als zijn vertegenwoordiger in de sectorcommissie.   
 
-###Artikel 7 
+### Artikel  7  
 
-1. Het overleg met de sectorcommissie staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan de hoofddirecteur personeel van het ministerie, indien de aard van de te bespreken aangelegenheden dit toelaat. 
-2.  Onze Minister wijst functionarissen aan die hem, of de functionaris die namens hem het overleg voert, bij het overleg terzijde staan. 
-3.  Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter van het overleg door andere dan de in de vorige leden bedoelde personen aan het overleg worden deelgenomen. 
-4.  De voorzitter van het overleg kan aan de leden van de sectorcommissie toestemming verlenen zich bij de behandeling van een bepaald onderwerp ter vergadering door deskundigen te laten bijstaan. 
+1.  Het overleg met de sectorcommissie staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan de hoofddirecteur personeel van het ministerie, indien de aard van de te bespreken aangelegenheden dit toelaat.    
+2.   Onze Minister wijst functionarissen aan die hem, of de functionaris die namens hem het overleg voert, bij het overleg terzijde staan.    
+3.   Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter van het overleg door andere dan de in de vorige leden bedoelde personen aan het overleg worden deelgenomen.    
+4.   De voorzitter van het overleg kan aan de leden van de sectorcommissie toestemming verlenen zich bij de behandeling van een bepaald onderwerp ter vergadering door deskundigen te laten bijstaan.   
 
 ### Artikel  8  
 

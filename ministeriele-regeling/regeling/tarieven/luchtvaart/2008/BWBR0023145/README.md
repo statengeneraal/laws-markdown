@@ -246,6 +246,14 @@ b. Part-66-AML € 140.
 | Wijziging operator  | € 1.008  |
 | Herafgifte certificaat na verlies of beschadiging  | € 269  |
 
+7.  Voor de behandeling van een aanvraag voor de afgifte van een erkenning als ATO door een bevoegde opleidingsinstelling voor luchtvarenden voor Europese bewijzen van bevoegdheid van PPL of lager, zijn de volgende tarieven verschuldigd:  Tabel 6 
+
+| Omschrijving  |--- |
+|:---|:---|
+| Zelfstandige ATO:  – Goedkeuring gewijzigd handboek per deel of subdeel  | € 424  |
+| Geformaliseerd samenwerkingsverband:  – Goedkeuring gewijzigd (uniform)handboek opgesteld door het geformaliseerd samenwerkingsverband  | € 424  |
+| ATO participant geformaliseerd samenwerkingsverband  – Goedkeuring gewijzigd handboek op basis van het reeds goedgekeurd uniform handboek  | € 84,80  |
+
 ### §  2.2.2  
 
 ####Onderhoudstechnici
