@@ -1170,7 +1170,7 @@ Elk lid van de groep (elke Partij, indien er geen groep is) kan aan de groep (de
 
 - de genomen maatregelen niet in overeenstemming is met de overeenkomst; of  
 
-- de noodzakelijke maatregelen ter verwezenlijking van de doelstellingen van de overeenkomst niet zijn genomen.   Indien de Partijen geen overeenstemming kunnen bereiken, kan het geschil worden voorgelegd aan een bemiddelinfiscommissie belast met de waarborging van de naleving van de aangegane verbintenissen. 
+- de noodzakelijke maatregelen ter verwezenlijking van de doelstellingen van de overeenkomst niet zijn genomen.   Indien de Partijen geen overeenstemming kunnen bereiken, kan het geschil worden voorgelegd aan een bemiddelingscommissie belast met de waarborging van de naleving van de aangegane verbintenissen. 
 
 ###*Orgaan van toezicht*
 

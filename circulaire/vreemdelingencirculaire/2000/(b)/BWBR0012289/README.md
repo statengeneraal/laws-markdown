@@ -1686,7 +1686,7 @@ Op grond van [artikel 3.31, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbes
 
 * tussentijdse, in Nederland doorgebrachte perioden van werkloosheid van elk ten hoogste zes maanden; of  
 
-* tussentijdse perioden van tewerkstelling buiten de desbetreffende sector van de internationale arbeidsmarkt van, bij elkaar opgeteld, ten hoogste twaalf maanden.    
+* tussentijdse perioden van tewerkstelling buiten de desbetreffende sector van de internationale arbeidsmarkt van, bij elkaar opgeteld, ten hoogste twaalf maanden.     
 ### 2.1.2  
 
 ####Arbeid op grond van een zetelovereenkomst
@@ -1695,7 +1695,25 @@ Op grond van [artikel 3.31, vijfde lid, Vb](../../../../../AMvB/vreemdelingenbes
 
 * werkzaamheden verricht als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25); of  
 
-* werkzaamheden verricht als bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228).   De IND wijst de aanvraag voor een verblijfsvergunning niet af op grond van [artikel 16, eerste lid, onder c, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.   
+* werkzaamheden verricht als bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228).   De IND wijst de aanvraag voor een verblijfsvergunning niet af op grond van [artikel 16, eerste lid, onder c, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan. 
+### 2.1.3  
+
+####Intra-concern uitzendingen
+
+Treedt in werking per 01-07-2014 
+
+###Algemeen
+
+De IND verstaat onder een intra-concern uitzending een vorm van uitzending waarbij de werkgever de vreemdeling tijdelijk overplaatst van een buitenlandse vestiging naar een vestiging in Nederland. Op grond van paragraaf 24, van [Bijlage 1 Uitvoeringsregels behorende bij de RuWav 2014](../../../../../ministeriele-regeling/regeling/uitvoering/wet/arbeid/vreemdelingen/2014/BWBR0034945/README.md), gaat het om de volgende categorieën vreemdelingen: 
+
+* sleutelpersoneel;  
+
+* trainees; en  
+
+* specialisten.  
+###Middelen van bestaan
+
+De IND neemt aan dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan in de zin van [artikel 3.74, eerste lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) juncto [artikel 3.19, eerste lid, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) als het UWV een TWV heeft verleend voor de te verrichten arbeid.  
 ### 2.2  
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
@@ -3776,7 +3794,64 @@ De IND wijst de aanvraag om verlenging van de verblijfsvergunning regulier voor 
 
 ####Beperking, arbeidsmarktaantekening en geldigheidsduur
 
-Op grond van [artikel 3.4, eerste lid, aanhef en onder p, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de hoofdpersoon en haar ouders onder de beperking ‘tijdelijke humanitaire gronden’. Op grond van [artikel 3.4, eerste lid, aanhef en onder a, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de broer(s) en/of zus(sen) onder de beperking ‘verblijf als familie- of gezinslid’ (bij de hoofdpersoon). Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de hoofdpersoon en haar ouders met een geldigheidsduur van één jaar. Op grond van artikel 3.58, negende lid, aanhef en onder a, Vb verleent de IND de verblijfsvergunning aan de broer(s) en/of zus(sen) voor de duur van één jaar. Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), luidt de arbeidsmarktaantekening van de hoofdpersoon, haar ouders en de broer(s) en/of zus(sen) ‘arbeid vrij toegestaan, TWV niet vereist’.  
+Op grond van [artikel 3.4, eerste lid, aanhef en onder p, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de hoofdpersoon en haar ouders onder de beperking ‘tijdelijke humanitaire gronden’. Op grond van [artikel 3.4, eerste lid, aanhef en onder a, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de broer(s) en/of zus(sen) onder de beperking ‘verblijf als familie- of gezinslid’ (bij de hoofdpersoon). Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning aan de hoofdpersoon en haar ouders met een geldigheidsduur van één jaar. Op grond van artikel 3.58, negende lid, aanhef en onder a, Vb verleent de IND de verblijfsvergunning aan de broer(s) en/of zus(sen) voor de duur van één jaar. Op grond van [artikel 3.1, derde lid, onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md), luidt de arbeidsmarktaantekening van de hoofdpersoon, haar ouders en de broer(s) en/of zus(sen) ‘arbeid vrij toegestaan, TWV niet vereist’. 
+### 11  
+
+####Plaatsing in een pleeggezin of instelling in Nederland
+
+Treedt in werking per 01-07-2014 
+
+### 11.1  
+
+####Plaatsing in een pleeggezin of instelling op verzoek van een ander land op grond van het Haags Kinderbeschermingsverdrag 1996 (HKBV)
+
+Treedt in werking per 01-07-2014 
+
+De IND verleent op grond van [artikel 3.48, tweede lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een verblijfsvergunning regulier voor bepaalde tijd aan een minderjarige vreemdeling die vanuit een ander land op grond van het HKBV wordt geplaatst in een pleeggezin of in een instelling in Nederland, als alle volgende voorwaarden wordt voldaan: 
+
+* de Nederlandse Centrale autoriteit heeft een verklaring afgegeven, waarin staat dat de Nederlandse Centrale autoriteit instemt met de plaatsing van de vreemdeling in een pleeggezin of instelling in Nederland (instemmingsverklaring);  
+
+* de Centrale autoriteit van het land van herkomst van de vreemdeling heeft het besluit genomen om in te stemmen met de plaatsing van de vreemdeling in een pleeggezin of in een instelling in Nederland (instemmingsbesluit);  
+
+* het betreft een plaatsing met een tijdelijke duur;  
+
+* het gezag over de vreemdeling moet door de autoriteiten van het land van herkomst zijn geregeld;  
+
+* de aspirant-pleegouders hebben rechtmatig verblijf, als bedoeld [artikel 8, onder a tot en met e, dan wel l, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of zijn Nederlander.   De IND wijst de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd op grond van [artikel 3.48, tweede lid, aanhef onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) niet af wegens het ontbreken van voldoende middelen van bestaan.
+### 11.2  
+
+####Beperking, arbeidsmarktbeperking en geldigheidsduur
+
+Treedt in werking per 01-07-2014 
+
+###Beperking
+
+Op grond van [artikel 3.4, eerste lid, aanhef en onder p, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning voor bepaalde tijd op grond van [artikel 3.48, tweede lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) onder de beperking: tijdelijk humanitaire gronden.
+###Arbeidsmarktaantekening
+
+Op grond van [artikel 3.1, derde lid, aanhef en onder a, VV](../../../../../ministeriele-regeling/voorschrift/vreemdelingen/2000/BWBR0012002/README.md) luidt de arbeidsmarktaantekening op het verblijfsdocument: ‘Arbeid vrij toegestaan. TWV niet vereist’.
+###Geldigheidsduur
+
+Op grond van [artikel 3.58, zesde lid, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verleent de IND de verblijfsvergunning regulier voor bepaalde tijd op grond van [artikel 3.48, tweede lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) met de geldigheidsduur van één jaar.
+### 11.3  
+
+####Verlenging en intrekking
+
+Treedt in werking per 01-07-2014 
+
+###Verlenging
+
+De IND verlengt de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd op grond van [artikel 3.48, tweede lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) alleen als nog steeds sprake is van plaatsing in een pleeggezin of instelling in Nederland.
+###Intrekking
+
+De IND trekt de verblijfsvergunning regulier voor bepaalde tijd op grond van [artikel 3.48, tweede lid, aanhef en onder b, Vb](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) in als de plaatsing in een pleeggezin of instelling in Nederland is geëindigd.
+### 11.4  
+
+####Bewijsmiddelen
+
+Treedt in werking per 01-07-2014 
+
+De IND beschouwt de instemmingsverklaring van de Nederlandse Centrale autoriteit als bewijsmiddel dat de Nederlandse Centrale autoriteit heeft ingestemd met de plaatsing van de vreemdeling in een pleeggezin of instelling in Nederland. De IND beschouwt het instemmingsbesluit van de Centrale autoriteit van het land van herkomst van de vreemdeling als bewijsmiddel dat de Centrale autoriteit van het land van herkomst van de vreemdeling heeft besloten om in te stemmen de plaatsing van de vreemdeling in een pleeggezin of instelling in Nederland. De IND beschouwt een verklaring van de Nederlandse Centrale autoriteit dat de plaatsing tijdelijk is als bewijsmiddel dat het gaat om tijdelijke plaatsing. De IND beschouwt een verklaring van de bevoegde autoriteiten van het land van herkomst als bewijsmiddel dat het gezag over de vreemdeling is geregeld.  
 ### B9  
 
 ####Humanitair niet-tijdelijk

@@ -226,24 +226,24 @@ De Commissie inzake de Bescherming van het Mariene Milieu, Gelet op de 26ste Res
 
 Alle hieronder genoemde producten vallen onder het Interventieprotocol van 1973 indien ze als lading of als residu van zulke eerder vervoerde producten worden vervoerd aan boord van een schip: 
 
-1. *Olie*, zoals omschreven in [Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol daarbij van 1978](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) (MARPOL 73/78), zoals gewijzigd, indien vervoerd in bulk, met inbegrip van de stoffen vermeld in [Aanhangsel I](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), met uitzondering van ruwe olie, stookolie, dieselolie en smeerolie die vallen onder het [Interventieverdrag van 1969](../../../../verdrag/interventieverdrag/1969/BWBV0003246/README.md);  
+1.  *Olie* , zoals omschreven in [Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol daarbij van 1978](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) (MARPOL 73/78), zoals gewijzigd, indien vervoerd in bulk, met inbegrip van de stoffen vermeld in [Aanhangsel I](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), met uitzondering van ruwe olie, stookolie, dieselolie en smeerolie die vallen onder het [Interventieverdrag van 1969](../../../../verdrag/interventieverdrag/1969/BWBV0003246/README.md);   
 
-2. *Schadelijke vloeistoffen*, zoals omschreven in [Bijlage II bij Marpol 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd, indien vervoerd in bulk en aangeduid: 
+2.  *Schadelijke vloeistoffen* , zoals omschreven in [Bijlage II bij Marpol 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd, indien vervoerd in bulk en aangeduid:  
 
-.1als Verontreinigingscategorie A of B, in  
+.1 als Verontreinigingscategorie X of Y, in: 
 
-.1Hoofdstuk 17 van de International Bulk Chemical Code (IBC-code); of
+.1 Hoofdstuk 17 van de International Bulk Chemical Code (IBC-code); of  
 
-.2de lijsten 1 tot en met 4 van de MEPC.2 circulaires, die jaarlijks verschijnen in december; of  
+.2 de lijsten 1 tot en met 4 van de MEPC.2 circulaires, die jaarlijks verschijnen in december; of    
 
-.2de Samengestelde Lijst van Gevarenprofielen van de Gemeenschappelijke Groep van Deskundigen inzake de Wetenschappelijke aspecten van verontreiniging van de zee (GESAMP Hazard Profiles), die periodiek worden uitgegeven als BLG-circulaires met hetzij
+.2 in de Samengestelde Lijst van Gevarenprofielen van de Gemeenschappelijke Groep van Deskundigen inzake de Wetenschappelijke aspecten van verontreiniging van de zee (GESAMP Hazard Profiles), die periodiek worden uitgegeven als BLG-circulaires, met hetzij: 
 
-.1en .2. in kolom B en .XX. in kolom E; hetzij
+.1 een „2” in kolom B1 en een „2” in kolom E3; of  
 
-.2.XXX. in kolom E;    
+.2 een „3” in kolom E3;      
 
-3. *Schadelijke stoffen*, in verpakte vorm, zoals omschreven in [Bijlage III bij MARPOL 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd, en die zijn aangeduid als de zeer ernstig verontreinigende stoffen (PP) in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-code) of die voldoen aan de criteria ervoor zoals omschreven in de IMDG-code;   
+3.  *Schadelijke stoffen* , in verpakte vorm, zoals omschreven in [Bijlage III bij MARPOL 73/78](../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), zoals gewijzigd, en die zijn aangeduid als de zeer ernstig verontreinigende stoffen (PP) in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-code) of die voldoen aan de criteria ervoor zoals omschreven in de IMDG-code;   
 
-4. *Radioactieve stoffen* die worden vervoerd in verpakkingen van type B of C of als splijtstoffen, of ingevolge een bijzondere regeling, zoals vallend onder de bepalingen van klasse 7 van de IMDG-code, en  
+4.  *Radioactieve stoffen* die worden vervoerd in verpakkingen van type B of C of als splijtstoffen, of ingevolge een bijzondere regeling, zoals vallend onder de bepalingen van klasse 7 van de IMDG-code, en   
 
-5. *Vloeibaar gemaakte gassen*, vermeld in hoofdstuk 19 van de International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk, 1983 (IGC-code, Internationale code inzake de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren), zoals gewijzigd, indien vervoerd in bulk, en de producten waarvoor de betrokken Administratie en havenautoriteiten voorlopige passende voorwaarden hebben voorgeschreven in overeenstemming met paragraaf 1.1.6. van de IGC-code.  
+5.  *Vloeibaar gemaakte gassen* , vermeld in hoofdstuk 19 van de International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk, 1983 (IGC-code, Internationale code inzake de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren), zoals gewijzigd, indien vervoerd in bulk, en de producten waarvoor de betrokken Administratie en havenautoriteiten voorlopige passende voorwaarden hebben voorgeschreven in overeenstemming met paragraaf 1.1.6. van de IGC-code.    

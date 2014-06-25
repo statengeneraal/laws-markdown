@@ -193,6 +193,21 @@ h.de verhuurderheffing.
 3.  De in het tweede lid bedoelde verplichting geldt niet indien de inspecteur een papieren aangiftebiljet uitreikt. De inspecteur kan een papieren aangiftebiljet uitreiken indien de aangifte betrekking heeft op een gedeelte van een tijdvak.   
 4.  Het tweede lid is niet van toepassing met betrekking tot pseudo-eindheffing als bedoeld in [artikel 32bb](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 32bc van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
 
+### Artikel  20a  
+Treedt in werking per 01-07-2014 
+
+De Belastingdienst kan ondersteuning verlenen bij het doen van aangifte. Deze ondersteuning vindt plaats in het algemeen belang als bedoeld in [artikel 25h, vijfde lid, van de Mededingingswet](../../../../../../../../wet/mededingingswet/BWBR0008691/README.md). Onder ondersteuning bij het doen van aangifte wordt in elk geval mede verstaan: 
+
+a. het ter beschikking stellen van middelen om aangifte te doen;  
+
+b. het ter beschikking stellen van middelen voor het elektronisch indienen en ondertekenen van aangiften;  
+
+c. het ter beschikking stellen van middelen ten behoeve van de betrouwbare toegang tot de middelen, bedoeld in de onderdelen a en b;  
+
+d. het bieden van hulp bij het doen van aangifte, en  
+
+e. het ondersteunen van partijen die hulp bieden bij het doen van aangifte zonder dat daar een vergoeding tegenover staat.   
+
 ### Artikel  21  
 
 1.  Met betrekking tot de erfbelasting en de schenkbelasting verleent de inspecteur ontheffing van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden indien:  
@@ -285,6 +300,17 @@ b. voor de natuurlijke persoon ter zake van de loonbelasting van de werknemer di
 c. voor de ouder ter zake van de loonbelasting van zijn in zijn onderneming werkzame kinderen voorzover de belasting is geheven door inhouding volgens [artikel 27, zesde lid, van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): het kalenderjaar;  
 
 d. voor de natuurlijke persoon ter zake van de loonbelasting van de werknemer die uitsluitend diensten verricht in het kader van voorzieningen als bedoeld in [artikel 35, tweede lid, onderdelen b en d, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md): het kalenderjaar. 
+
+###Hoofdstuk 6a 
+
+####Vaststelling aanslag voor toekenning tegemoetkoming
+
+Treedt in werking per 01-07-2014 
+
+### Artikel  29a  
+Treedt in werking per 01-07-2014 
+
+Voor de toepassing van [artikel 19 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) worden aanslagen inkomstenbelasting over het kalenderjaar 2013 geacht zes maanden na de dagtekening te zijn vastgesteld. 
 
 ### Hoofdstuk  7  
 
