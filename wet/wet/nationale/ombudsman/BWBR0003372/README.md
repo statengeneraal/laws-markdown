@@ -210,10 +210,10 @@ b.een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voor zover d
 
 ####De Veteranenombudsman
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 ### Artikel  11f  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 In dit hoofdstuk wordt verstaan onder: 
 
@@ -222,7 +222,7 @@ a.  *veteraan:* een veteraan als bedoeld in [artikel 1 van de Veteranenwet](../.
 b.  *relaties van een veteraan:* relaties als bedoeld in [artikel 1 van de Veteranenwet](../../../../../wet/veteranenwet/BWBR0031401/README.md).   
 
 ### Artikel  11g  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  De Veteranenombudsman is bevoegd: 
 
@@ -233,7 +233,7 @@ b. gevraagd en ongevraagd advies te geven aan de regering en de beide Kamers der
 c. de wijze waarop klachten van veteranen of hun relaties door de daartoe bevoegde instanties, niet zijnde de ombudsman, worden behandeld te monitoren en te analyseren en de regering en de Tweede Kamer in te lichten over zijn bevindingen.    
 
 ### Artikel  11h  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Een veteraan of namens deze, een relatie van een veteraan, die meent niet behoorlijk behandeld te zijn door: 
 
@@ -248,7 +248,7 @@ b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voorzover d
 3.  Een gedraging van een medewerker van een rechtspersoon als bedoeld in het eerste lid, onder b, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van die rechtspersoon.  
 
 ### Artikel  11i  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Op de behandeling van klachten over en onderzoek uit eigen beweging naar organen van rechtspersonen als bedoeld in artikel 11h, eerste lid, onder b, door de Veteranenombudsman zijn artikel 15 alsmede [titel 9.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 2.  De in [artikel 9:33 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in artikel 11h, eerste lid, onder b.  

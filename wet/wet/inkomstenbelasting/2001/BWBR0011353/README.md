@@ -1050,10 +1050,10 @@ b. indien de onderneming die de ondernemer voor eigen rekening drijft wel deel u
 6.  De energie-investeringsaftrek is van toepassing indien de energie-investering is aangemeld bij Onze Minister van Economische Zaken.   
 7.  Bij ministeriële regeling kunnen: 
 
-a. in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie regels worden gesteld met betrekking tot de in het eerste lid bedoelde verklaring en  
+a. in overeenstemming met Onze Minister van Economische Zaken regels worden gesteld met betrekking tot de in het eerste lid bedoelde verklaring en  
 
 b. regels worden gesteld met betrekking tot het zesde lid.     
-8.  Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken, Landbouw en Innovatie beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.  
+8.  Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.  
 
 ### Artikel  3.42a  
 

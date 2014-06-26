@@ -17,7 +17,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -39,7 +39,7 @@ g.  *persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke:* hetg
 
 ####Erkenning en waardering voor veteranen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister voert een beleid dat is gericht op het bevorderen van erkenning van de verdiensten van veteranen, van erkenning van de mogelijke gevolgen van de inzet voor hun gezondheid en van waardering die veteranen op grond van hun verdiensten toekomt.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld in ieder geval betreffende: 
@@ -54,7 +54,7 @@ c. het faciliteren van de deelname van veteranen en hun relaties aan bijeenkomst
 
 ####Zorgplicht voor en tijdens inzet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister heeft een zorgplicht voor militairen die worden ingezet. Deze zorgplicht houdt in dat militairen en hun relaties goed worden voorbereid op de inzet en goed worden begeleid tijdens de inzet.   
 2.  Ter uitvoering van de in het eerste lid genoemde zorgplicht worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende: 
@@ -75,7 +75,7 @@ f. het informeren van militairen en hun relaties over de zorg die voor hen besch
 
 ####Zorgplicht na inzet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister heeft een zorgplicht voor veteranen die zijn ingezet. Deze zorgplicht houdt in dat veteranen en hun relaties goed worden begeleid na afloop van de inzet.   
 2.  Ter uitvoering van de in het eerste lid genoemde zorgplicht worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende: 
@@ -92,7 +92,7 @@ d. het faciliteren van de deelname van veteranen en hun relaties aan bijeenkomst
 
 ####Bijzondere zorgplicht voor veteranen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister heeft een bijzondere zorgplicht voor veteranen die als gevolg van de inzet zorg nodig hebben. Deze zorgplicht houdt in dat veteranen en hun relaties worden bijgestaan bij hun revalidatie en re-integratie en bij het verkrijgen van materiële zorg, maatschappelijke ondersteuning of geestelijke gezondheidszorg.   
 2.  Ter uitvoering van de in het eerste lid genoemde zorgplicht worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende: 
@@ -107,7 +107,7 @@ c. het begeleiden van veteranen en hun relaties bij het verkrijgen van maatschap
 
 ####Afbakening zorg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 De zorgplichten, bedoeld in de artikelen 3, 4 en 5, laten de materiële zorg op grond van wettelijke voorschriften in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit en overlijden, op grond van de [Militaire ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) of de [Kaderwet militaire pensioenen](../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) en de zorg op het gebied van maatschappelijke ondersteuning en geestelijke gezondheidszorg onverlet en liggen in het verlengde daarvan. 
 
@@ -115,7 +115,7 @@ De zorgplichten, bedoeld in de artikelen 3, 4 en 5, laten de materiële zorg op 
 
 ####Inkomensvoorziening in verband met zorg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister treft voor de veteraan een passende inkomensvoorziening voor de duur die nodig is in verband met de revalidatie, re-integratie en de begeleiding van de veteraan als bedoeld in artikel 5.   
 2.  Ter uitvoering van de in het eerste lid genoemde inkomensvoorziening worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende: 
@@ -130,7 +130,7 @@ c. de verrekening van andere inkomsten met de inkomensvoorziening.
 
 ####Samenwerking veteranenzorg (veteranenloket en zorgcoördinatie)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Onze Minister bevordert vanwege de bijzondere zorgplicht, bedoeld in artikel 5, de samenwerking tussen de bij de revalidatie en re-integratie en de materiële zorg betrokken uitvoeringsinstanties en de bij de maatschappelijke ondersteuning en geestelijke gezondheidszorg betrokken zorginstellingen.   
 2.  Na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende: 
@@ -147,7 +147,7 @@ d. het toewijzen van zorgcoördinatoren ten behoeve van de persoonlijke begeleid
 
 ####Veteranenregistratiesysteem
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 1.  Ten behoeve van de identificatie van veteranen en van de mogelijkheid tot het informeren van veteranen over de toepassing van de artikelen 2 tot en met 8 en ten behoeve van wetenschappelijk onderzoek worden, persoonsgegevens van veteranen verwerkt in het veteranenregistratiesysteem. Onze Minister is verantwoordelijke voor deze verwerking.   
 2.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inrichting en het beheer van het veteranenregistratiesysteem en de mogelijkheid van verstrekking van persoonsgegevens aan derden die activiteiten verrichten in het kader van erkenning en waardering voor veteranen.  
@@ -156,7 +156,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wetenschappelijk onderzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelateerd kunnen zijn aan de uitoefening van de dienst onder omstandigheden en bij een missie als bedoeld in artikel 1, onder c. 
 
@@ -164,7 +164,7 @@ Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelat
 
 ####Wijziging [Wet Nationale Ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Wijzigt de Wet Nationale ombudsman. 
 
@@ -172,7 +172,7 @@ Wijzigt de Wet Nationale ombudsman.
 
 ####Wijziging van de [Militaire ambtenarenwet 1931](../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Wijzigt de Militaire Ambtenarenwet 1931. 
 
@@ -180,7 +180,7 @@ Wijzigt de Militaire Ambtenarenwet 1931.
 
 ####Voorhang
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 
@@ -188,7 +188,7 @@ De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van
 
 ####Verantwoording
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
@@ -196,7 +196,7 @@ Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet, en ver
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Deze wet wordt aangehaald als: Veteranenwet. 
 
@@ -204,7 +204,7 @@ Deze wet wordt aangehaald als: Veteranenwet.
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

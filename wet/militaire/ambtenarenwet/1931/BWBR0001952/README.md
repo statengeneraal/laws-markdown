@@ -337,7 +337,7 @@ d.Indien onze Minister overweegt de militair ambtenaar te ontslaan om een reden 
 e.in buitengewone omstandigheden.
 
 ### Artikel  12n  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 28-06-2014 
 
 Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](../../../../../wet/veteranenwet/BWBR0031401/README.md) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt. 
 

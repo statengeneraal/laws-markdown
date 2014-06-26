@@ -23,7 +23,7 @@ b.  *hogeschool:* een bekostigde instelling voor hoger beroepsonderwijs als bedo
 
 ####Te subsidiëren activiteiten
 
-De minister kan voor de periode van 1 mei 2010 tot en met uiterlijk 31 december 2013 subsidie verlenen voor het in financiële zin of anderzins stimuleren van: 
+De minister kan voor de periode van 1 mei 2010 tot en met uiterlijk 31 mei 2014 subsidie verlenen voor het in financiële zin of anderzins stimuleren van: 
 
 a. kennisuitwisseling tussen hogescholen en het midden- en kleinbedrijf en tussen hogescholen en de publieke sector;  
 
