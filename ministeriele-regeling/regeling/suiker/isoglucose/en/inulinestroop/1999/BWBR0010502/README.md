@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. Minister: Minister van Economische Zaken;b. verordening 967/2006: Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);c. Raad: Raad van de Europese Unie;d. verordening: Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);e. Commissie: Commissie van de Europese Gemeenschappen;f.Dienst Regelingen: directeur van de Dienst Regelingen van het Ministerie van Economische Zaken;g. suiker: de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;h.verordening 1360/2013: Verordening (EU) nr. 1360/2013 van de Raad van 2 december 2013 tot vaststelling van de bedragen van de productieheffingen in de sector suiker voor de verkoopseizoenen 2001/2002, 2002/2003, 2003/2004, 2004/2005 en 2005/2006, de coëfficiënt voor de berekening van de aanvullende heffing voor de verkoopseizoenen 2001/2002 en 2004/2005 en de bedragen die de suikerfabrikanten aan de suikerbietenverkopers moeten betalen vanwege het verschil tussen de maximumheffing en de te innen heffing voor de verkoopseizoenen 2002/2003, 2003/2004 en 2005/2006.  
+In deze regeling wordt verstaan onder: a. Minister: Minister van Economische Zaken;b. verordening 967/2006: Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);c. Raad: Raad van de Europese Unie;d. verordening: Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);e. Commissie: Commissie van de Europese Gemeenschappen;f. suiker: de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;g.verordening 1360/2013: Verordening (EU) nr. 1360/2013 van de Raad van 2 december 2013 tot vaststelling van de bedragen van de productieheffingen in de sector suiker voor de verkoopseizoenen 2001/2002, 2002/2003, 2003/2004, 2004/2005 en 2005/2006, de coëfficiënt voor de berekening van de aanvullende heffing voor de verkoopseizoenen 2001/2002 en 2004/2005 en de bedragen die de suikerfabrikanten aan de suikerbietenverkopers moeten betalen vanwege het verschil tussen de maximumheffing en de te innen heffing voor de verkoopseizoenen 2002/2003, 2003/2004 en 2005/2006.  
 
 ### §  1  
 
@@ -67,11 +67,11 @@ De Minister verricht de aankopen tegen de gegarandeerde prijs van preferentiële
 ### Artikel  5  
 
 1.  De Minister verleent op verzoek een erkenning aan producenten van suiker, isoglucose of aan de verwerkers van deze producten tot de producten, bedoeld in de bijlage van verordening 967/2006.   
-2.  De erkende ondernemingen verstrekken aan Dienst Regelingen maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.  
+2.  De erkende ondernemingen verstrekken aan de Minister maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.  
 
 ### Artikel  5a  
 
-Een erkende suikeronderneming die over een productiequotum beschikt en een erkende onderneming die industriële suiker verwerkt geeft aan Dienst Regelingen, overeenkomstig verordening 967/2006, maandelijks gegevens door over het gehanteerde prijsniveau. 
+Een erkende suikeronderneming die over een productiequotum beschikt en een erkende onderneming die industriële suiker verwerkt geeft aan de Minister, overeenkomstig verordening 967/2006, maandelijks gegevens door over het gehanteerde prijsniveau. 
 
 ### §  3  
 
@@ -79,7 +79,7 @@ Een erkende suikeronderneming die over een productiequotum beschikt en een erken
 
 ### Artikel  5b  
 
-1.  Voor 14 april van elk jaar deelt een producent van suiker de hoeveelheid suiker mee die hij boven zijn productiequotum heeft geproduceerd in het lopende verkoopseizoen aan Dienst Regelingen.   
+1.  Voor 14 april van elk jaar deelt een producent van suiker de hoeveelheid suiker mee die hij boven zijn productiequotum heeft geproduceerd in het lopende verkoopseizoen aan de Minister.   
 2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening.  
 
 ### Artikel  5c  

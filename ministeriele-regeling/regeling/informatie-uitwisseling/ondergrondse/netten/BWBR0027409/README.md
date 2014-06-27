@@ -23,9 +23,7 @@ c.  *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 1, onder
 
 d.  *IMKL:* het Informatiemodel Kabels en Leidingen, opgenomen bij deze regeling als bijlage 1;  
 
-e.  *BMKL:* het Berichtenmodel Kabels en Leidingen, opgenomen bij deze regeling als bijlage 2;  
-
-f.  *Dienst Regelingen:* de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie.  
+e.  *BMKL:* het Berichtenmodel Kabels en Leidingen, opgenomen bij deze regeling als bijlage 2.   
 
 ### §  2  
 
@@ -75,7 +73,7 @@ Van de verplichtingen van de [artikelen 6, tweede lid](../../../../../../wet/wet
 
 1.  De Dienst verstrekt bij de ontvangstbevestiging aan degene die een oriëntatieverzoek of een graafmelding heeft gedaan een overzicht van de beheerders aan wie het desbetreffende graafbericht is gezonden.   
 2.  Bij het doen van een oriëntatieverzoek of een graafmelding wordt gebruik gemaakt van de daarvoor door de Dienst vastgestelde formulieren.   
-3.  Het eerste en tweede lid zijn niet van toepassing op graafmeldingen die overeenkomstig [artikel 12 van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) gezamenlijk worden gedaan door tussenkomst van Dienst Regelingen. In deze gevallen verstrekt Dienst Regelingen het overzicht van de beheerders aan wie het graafbericht is gezonden, bij de verstrekking van de gebiedsinformatie. 
+3.  Het eerste en tweede lid zijn niet van toepassing op graafmeldingen die overeenkomstig [artikel 12 van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) gezamenlijk worden gedaan door tussenkomst van de minister. In deze gevallen verstrekt de minister het overzicht van de beheerders aan wie het graafbericht is gezonden, bij de verstrekking van de gebiedsinformatie. 
 
 ### Artikel  6  
 
@@ -92,7 +90,7 @@ De Dienst voegt ten behoeve van de verstrekking van de gebiedsinformatie aan de 
 
 ### Artikel  7a  
 
-Voor het geval graafmeldingen overeenkomstig [artikel 12 van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) gezamenlijk worden gedaan door tussenkomst van Dienst Regelingen, wordt vrijstelling verleend van de verplichtingen ten aanzien van de termijnen, bepaald in de [artikelen 8, eerste lid](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), [9](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), [10, eerste lid](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), en [11, eerste lid, van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md). 
+Voor het geval graafmeldingen overeenkomstig [artikel 12 van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md) gezamenlijk worden gedaan door tussenkomst van de minister, wordt vrijstelling verleend van de verplichtingen ten aanzien van de termijnen, bepaald in de [artikelen 8, eerste lid](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), [9](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), [10, eerste lid](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), en [11, eerste lid, van de wet](../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md). 
 
 ### §  4  
 

@@ -29,11 +29,9 @@ besluit: [Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit
 
 champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld; 
 
-combinatienummer: nummer dat door de Dienst Regelingen ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens; 
+combinatienummer: nummer dat door de minister ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van artikel 45, vierde en zesde lid, verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens; 
 
-derogatiebeschikking: beschikking van de Europese Commissie tot verlening van een door Nederland gevraagde derogatie op grond van Bijlage III, punt 2, onder b, van richtlijn 91/676/EEG op grond waarvan onder voorwaarden een grotere hoeveelheid dierlijke mest op of in de bodem mag worden gebracht dan bepaald in punt 2, tweede alinea, inleidende zinnen en onder a) van Bijlage III bij richtlijn 91/676/EEG; 
-
-Dienst Regelingen: Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+derogatiebeschikking: beschikking van de Europese Commissie tot verlening van een door Nederland gevraagde derogatie op grond van Bijlage III, punt 2, onder b, van richtlijn 91/676/EEG op grond waarvan onder voorwaarden een grotere hoeveelheid dierlijke mest op of in de bodem mag worden gebracht dan bepaald in punt 2, tweede alinea, inleidende zinnen en onder a) van Bijlage III bij richtlijn 91/676/EEG;  
 
 diereenheid: één varkenseenheid of 14,8 pluimvee-eenheden; 
 
@@ -51,7 +49,7 @@ mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eerste 
 
 mineralenconcentraat: door middel van ultrafiltratie of gelijkwaardige industriële technieken, gevolgd door omgekeerde osmose uit dierlijke meststoffen als eindproduct vervaardigd concentraat; 
 
-minister: Minister van Economische Zaken, Landbouw en Innovatie;  
+minister: Minister van Economische Zaken;  
 
 productielocatie: gebouw of afgescheiden gedeelte daarvan als bedoeld in [artikel 1, eerste lid, onderdeel i, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), dat onderdeel uitmaakt van een bedrijf; 
 
@@ -315,9 +313,9 @@ a. voor zover het het gewas suikerbieten betreft, de gemiddelde opbrengst van he
 
 b. voor zover het de in bijlage A, tabel 5, genoemde consumptieaardappelrassen betreft, de gemiddelde opbrengst van het totale areaal van deze consumptieaardappelrassen dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 50 ton per hectare bedroeg;  
 
-c. de landbouwer de in het tweede lid bedoelde afnemers heeft gemachtigd om desgevraagd gegevens over de afgenomen hoeveelheden suikerbieten of consumptieaardappelen te verstrekken aan de Dienst Regelingen;  
+c. de landbouwer de in het tweede lid bedoelde afnemers heeft gemachtigd om desgevraagd gegevens over de afgenomen hoeveelheden suikerbieten of consumptieaardappelen te verstrekken aan de minister;  
 
-d. de landbouwer het desbetreffende bedrijf uiterlijk op 15 mei van het desbetreffende kalenderjaar heeft aangemeld bij de Dienst Regelingen;  
+d. de landbouwer het desbetreffende bedrijf uiterlijk op 15 mei van het desbetreffende kalenderjaar heeft aangemeld bij de minister;  
 
 e. de landbouwer bij de melding, bedoeld in onderdeel d, heeft verklaard dat ten aanzien van het desbetreffende bedrijf is voldaan aan de onderdelen a, b, in samenhang met het tweede lid, en aan onderdeel c;  
 
@@ -352,17 +350,17 @@ b. 75 kilogram fosfaat in 2015 en per volgende jaren.
 
 ### Artikel  30  
 
-1.  In afwijking van artikel 29a, eerste lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de Dienst Regelingen verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.   
-2.  In afwijking van artikel 29a, tweede lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de Dienst Regelingen verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.  
+1.  In afwijking van artikel 29a, eerste lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.   
+2.  In afwijking van artikel 29a, tweede lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.  
 
 ### Artikel  31  
 
 1.  De fosfaatgebruiksnorm, bedoeld in artikel 30, is uitsluitend van toepassing gedurende vier kalenderjaren, met ingang van het kalenderjaar waarin de melding, bedoeld in artikel 32, eerste lid, is gedaan, indien is voldaan aan elk van de voorwaarden, bedoeld in de artikelen 32 en 33, eerste en derde lid.   
-2.  Indien de percelen dan wel de gewaspercelen, bedoeld in artikel 30, eerste en tweede lid, in de in het eerste lid bedoelde periode in gebruik zijn genomen door een andere landbouwer, is de fosfaatgebruiksnorm, bedoeld in artikel 30, gedurende het restant van die periode van toepassing, indien de landbouwer de ingebruikneming van de percelen dan wel de gewaspercelen onder opgave van de oppervlakte en de ligging ervan uiterlijk de eerstvolgende 15 mei na de datum van ingebruikneming heeft gemeld aan de Dienst Regelingen.  
+2.  Indien de percelen dan wel de gewaspercelen, bedoeld in artikel 30, eerste en tweede lid, in de in het eerste lid bedoelde periode in gebruik zijn genomen door een andere landbouwer, is de fosfaatgebruiksnorm, bedoeld in artikel 30, gedurende het restant van die periode van toepassing, indien de landbouwer de ingebruikneming van de percelen dan wel de gewaspercelen onder opgave van de oppervlakte en de ligging ervan uiterlijk de eerstvolgende 15 mei na de datum van ingebruikneming heeft gemeld aan de minister.  
 
 ### Artikel  32  
 
-1.  Uiterlijk op 15 mei van het eerste kalenderjaar van de in artikel 31, eerste lid, bedoelde periode van vier kalenderjaren waarin de fosfaatgebruiksnorm, bedoeld in artikel 30, eerste of tweede lid, wordt toegepast, meldt de landbouwer bij de Dienst Regelingen: 
+1.  Uiterlijk op 15 mei van het eerste kalenderjaar van de in artikel 31, eerste lid, bedoelde periode van vier kalenderjaren waarin de fosfaatgebruiksnorm, bedoeld in artikel 30, eerste of tweede lid, wordt toegepast, meldt de landbouwer bij de minister: 
 
 a. de oppervlakte en de ligging van de percelen dan wel gewaspercelen grasland waarop de landbouwer de in artikel 30, eerste lid, bedoelde fosfaatgebruiksnorm toepast;  
 
@@ -422,8 +420,8 @@ b. in de jaren 2006 tot en met 2009 50 procent van de hoeveelheid fosfaat in sch
 
 1.  In de periode van 1 januari 2009 tot en met 31 december 2014 vindt een onderzoek plaats naar de landbouwkundige en milieukundige effecten met betrekking tot de productie, de afzet en het gebruik van mineralenconcentraat.   
 2.  Aan het onderzoek kan worden deelgenomen door ten hoogste tien producenten van mineralenconcentraat.   
-3.  Een producent van mineralenconcentraat die wil deelnemen aan het onderzoek kan zich hiertoe, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer, uiterlijk 15 april 2009 aanmelden bij de Dienst Regelingen.   
-4.  In afwijking van het derde lid, kunnen twee producenten van mineralenconcentraat zich in de periode van 1 oktober 2012 tot en met 1 november 2012 aanmelden bij de Dienst Regelingen, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer.  
+3.  Een producent van mineralenconcentraat die wil deelnemen aan het onderzoek kan zich hiertoe, onder vermelding van het door de minister ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer, uiterlijk 15 april 2009 aanmelden bij de minister.   
+4.  In afwijking van het derde lid, kunnen twee producenten van mineralenconcentraat zich in de periode van 1 oktober 2012 tot en met 1 november 2012 aanmelden bij de minister, onder vermelding van het door de minister ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer.  
 5.  Bij de aanmelding overlegt de producent gegevens over: 
 
 a. de naam, het correspondentie- en e-mailadres van de contactpersoon;  
@@ -467,7 +465,7 @@ e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de
 
 1.  Een aangewezen producent verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in artikel 35a, eerste lid, bedoelde onderzoek.   
 2.  Een aangewezen producent produceert overeenkomstig de op grond van artikel 35a, vijfde tot en met zevende lid, overgelegde gegevens en beschrijvingen.   
-3.  De aangewezen producent meldt de wijzigingen in de gegevens, bedoeld in artikel 35a, vijfde lid, binnen 30 dagen aan de Dienst Regelingen.   
+3.  De aangewezen producent meldt de wijzigingen in de gegevens, bedoeld in artikel 35a, vijfde lid, binnen 30 dagen aan de minister.   
 4.  Wijzigingen in de elementen, bedoeld in artikel 35a, zesde lid, vinden niet plaats dan na instemming van de minister.   
 5.  De aangewezen producent draagt er zorg voor dat op het vervoersbewijs dierlijke mest uitsluitend de in bijlage I voor mineralenconcentraat opgenomen mestcode wordt vermeld, indien het mineralenconcentraat is vervaardigd overeenkomstig de op grond van artikel 35a, zesde lid, overgelegde beschrijving van het productieproces, en indien het mineralenconcentraat wordt afgevoerd naar een gebruiker waarmee hij een overeenkomst tot afname van het mineralenconcentraat heeft gesloten.   
 6.  Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de van het bedrijf of van de onderneming van de producent afgevoerde hoeveelheid mineralenconcentraat wordt bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de artikelen 78 tot en met 81.   
@@ -481,7 +479,7 @@ De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat bet
 ### Artikel  35f  
 
 1.  De landbouwer heeft met een overeenkomstig artikel 35b aangewezen producent van mineralenconcentraat een schriftelijke overeenkomst gesloten tot afname van het mineralenconcentraat.   
-2.   Het desbetreffende bedrijf van de landbouwer is voor de toepassing van artikel 35e elektronisch bij de Dienst Regelingen aangemeld, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer. Deze aanmelding geschiedt voordat de eerste vracht mineralenconcentraat op het bedrijf wordt aangevoerd.   
+2.   Het desbetreffende bedrijf van de landbouwer is voor de toepassing van artikel 35e elektronisch bij de minister aangemeld, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer. Deze aanmelding geschiedt voordat de eerste vracht mineralenconcentraat op het bedrijf wordt aangevoerd.   
 3.  Het mineralenconcentraat is rechtstreeks vanaf het bedrijf of de onderneming van de in het eerste lid bedoelde producent op het bedrijf van de landbouwer aangevoerd.   
 4.  Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de op het bedrijf van de landbouwer aangevoerde hoeveelheid mineralenconcentraat worden bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de artikelen 78 tot en met 81.   
 5.  Op het vervoersbewijs dierlijke meststoffen dat de desbetreffende aangevoerde vracht vergezelt, is de in bijlage I voor mineralenconcentraat opgenomen mestcode vermeld.   
@@ -508,14 +506,14 @@ Deze paragraaf vervalt met ingang van 1 januari 2015.
 
 ### Artikel  37  
 
-1.  De aanmelding, bedoeld in [artikel 31, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de Dienst Regelingen.   
+1.  De aanmelding, bedoeld in [artikel 31, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
 2.  Indien een landbouwbedrijf wordt opgericht na 1 januari 2006, geschiedt de aanmelding, bedoeld in het eerste lid, uiterlijk 30 dagen na oprichting.   
 3.  De gegevens, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede: 
 
 a. het adres van de bedrijfsgebouwen waar dierlijke mest wordt geproduceerd; en  
 
 b. het correspondentieadres van de landbouwer, indien dit afwijkt van het adres, bedoeld in onderdeel a.     
-4.  Wijzigingen in de ingevolge [artikel 31 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan deze dienst.  
+4.  Wijzigingen in de ingevolge [artikel 31 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.  
 
 ### Artikel  37a  
 
@@ -543,11 +541,11 @@ b. de oppervlakte en de ligging van de percelen van zijn bedrijf waarop zuiverin
 
 ### Artikel  41  
 
-De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalenderjaar een perceel landbouwgrond in gebruik neemt dat voor deze periode in gebruik was bij een ander bedrijf of een derde, doet hiervan binnen 30 dagen melding aan de Dienst Regelingen. 
+De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalenderjaar een perceel landbouwgrond in gebruik neemt dat voor deze periode in gebruik was bij een ander bedrijf of een derde, doet hiervan binnen 30 dagen melding aan de minister. 
 
 ### Artikel  42  
 
-1.  De landbouwer, bedoeld in [artikel 35, eerste lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in artikel 24, eerste lid, is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de Dienst Regelingen overeenkomstig artikel 25, eerste lid, verstrekt jaarlijks vóór 1 februari aan de Dienst Regelingen met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
+1.  De landbouwer, bedoeld in [artikel 35, eerste lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in artikel 24, eerste lid, is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de minister overeenkomstig artikel 25, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
 
 a. de aan het eind van het kalenderjaar op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar: 
 
@@ -564,7 +562,7 @@ b. de hoeveelheden meststoffen, anders dan dierlijke meststoffen, zuiveringsslib
 c. het gemiddelde aantal in het kalenderjaar op het bedrijf gehouden dieren, anders dan varkens, schapen, geiten en runderen, onderscheiden naar diersoort en diercategorieën per soort voor zover dit onderscheid wordt gemaakt in bijlage D, tabel I; en  
 
 d. het aantal aan- of afgevoerde staldieren, anders dan varkens of vleeskalveren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in bijlage D, tabel I.     
-2.  De landbouwer op wiens bedrijf op 31 december 2005 pluimveerechten, varkensrechten of niet-gebonden mestproductierechten rustten of wiens bedrijf overeenkomstig artikel 25, eerste lid, is aangemeld voor toepassing in 2006 van de gebruiksnorm, bedoeld in artikel 24, eerste lid, verstrekt vóór 1 februari 2006 aan de Dienst Regelingen gegevens uit de administratie over de op 1 januari 2006 op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar meststoffen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4°.   
+2.  De landbouwer op wiens bedrijf op 31 december 2005 pluimveerechten, varkensrechten of niet-gebonden mestproductierechten rustten of wiens bedrijf overeenkomstig artikel 25, eerste lid, is aangemeld voor toepassing in 2006 van de gebruiksnorm, bedoeld in artikel 24, eerste lid, verstrekt vóór 1 februari 2006 aan de minister gegevens uit de administratie over de op 1 januari 2006 op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar meststoffen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4°.   
 3.  De landbouwer die op het eigen bedrijf geproduceerde koemelk zelf verwerkt tot eindproducten en die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de [Regeling superheffing en melkpremie 2004](../../../../ministeriele-regeling/regeling/superheffing/BWBR0016539/README.md), verstrekt aan de minister gegevens met betrekking tot de op het bedrijf geproduceerde hoeveelheid koemelk.  
 
 ### Artikel  43  
@@ -591,7 +589,7 @@ b. inscharing van de schapen vindt slechts gedurende één aaneengesloten period
 
 ### Artikel  45  
 
-1.  De aanmelding, bedoeld in [artikel 38, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de Dienst Regelingen.   
+1.  De aanmelding, bedoeld in [artikel 38, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
 2.  Indien een intermediaire onderneming wordt opgericht na 1 januari 2006, geschiedt de aanmelding, bedoeld in het eerste lid, uiterlijk 30 dagen na oprichting.   
 3.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede: 
 
@@ -606,7 +604,7 @@ a. het kenteken en de meldcode, zoals deze zijn vermeld op het voor het betrokke
 
 b. het chassisnummer van het betrokken transportmiddel, voor zover het een ander transportmiddel betreft.    
 7. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de intermediair behalve de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), tevens een omschrijving van de in [artikel 16, eerste lid, van het beslui](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md)t bedoelde behandelingsmethode voor zuiveringsslib. 
-8.  Wijzigingen in de ingevolge [artikel 38 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het zesde of zevende lid geregistreerde gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de Dienst Regelingen ter identificatie van de onderneming verstrekte relatienummer, gemeld aan deze dienst.   
+8.  Wijzigingen in de ingevolge [artikel 38 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het zesde of zevende lid geregistreerde gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.   
 9.  De [artikelen 38](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [39 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.  
 
 ### Artikel  45a  
@@ -615,11 +613,11 @@ De intermediair stelt in Nederland zijn administratie voor controle beschikbaar 
 
 ### Artikel  46  
 
-1.  De gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bijgehouden op het daartoe door de Dienst Regelingen verstrekte formulier.   
+1.  De gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bijgehouden op het daartoe door de minister verstrekte formulier.   
 2.  In plaats van het in het eerste lid bedoelde formulier kunnen andere gegevensdragers worden gebruikt, onder de voorwaarde dat daarbij dezelfde berekeningswijze wordt gehanteerd als bij gebruik van het in het eerste lid bedoelde formulier, het geval zou zijn geweest.   
 3.  Voor zover het hoeveelheden dierlijke meststoffen, zuiveringsslib of compost betreft, worden de gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), ingevuld zoals deze ook zijn vermeld op het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs dierlijke meststoffen, onderscheidenlijk vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten.   
 4.  Voor zover het hoeveelheden mestkorrels, overige organische meststoffen en anorganische meststoffen betreft, worden de gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), overgenomen van het etiket op de verpakking, dan wel van het begeleidend document bij de meststoffen.   
-5.  Behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie met betrekking tot de overdracht van een opslagruimte voor meststoffen, bedoeld in [artikel 39, tweede lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), het door de Dienst Regelingen ter identificatie verstrekte relatienummer van de bij deze overdracht betrokken intermediaire onderneming.  
+5.  Behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie met betrekking tot de overdracht van een opslagruimte voor meststoffen, bedoeld in [artikel 39, tweede lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), het door de minister ter identificatie verstrekte relatienummer van de bij deze overdracht betrokken intermediaire onderneming.  
 6. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) tevens gegevens over:
 
 a. de in [artikel 16, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde behandelingsmethode voor zuiveringsslib;  
@@ -642,21 +640,21 @@ b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en
 
 ### Artikel  48  
 
-1.  De intermediair verstrekt jaarlijks vóór 1 februari aan de Dienst Regelingen met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
+1.  De intermediair verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
 
 a. de hoeveelheden meststoffen, anders dan dierlijke meststoffen, zuiveringsslib en compost, die in het kader van de onderneming zijn aan- en afgevoerd;  
 
-b. de hoeveelheden meststoffen die bij de overdracht van een opslagruimte voor meststoffen aan of van een andere intermediair op het moment van overdracht in de desbetreffende opslagruimte aanwezig waren, onderscheiden naar meststoffen als bedoeld in artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°, alsmede het door de Dienst Regelingen ter identificatie verstrekte relatienummer van bij deze overdracht betrokken andere intermediaire onderneming; en  
+b. de hoeveelheden meststoffen die bij de overdracht van een opslagruimte voor meststoffen aan of van een andere intermediair op het moment van overdracht in de desbetreffende opslagruimte aanwezig waren, onderscheiden naar meststoffen als bedoeld in artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°, alsmede het door de minister ter identificatie verstrekte relatienummer van bij deze overdracht betrokken andere intermediaire onderneming; en  
 
 c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid meststoffen onderscheiden naar meststoffen als bedoeld in artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°.     
-2.  De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de Dienst Regelingen gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.  
+2.  De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.  
 3. Het tweede lid is niet van toepassing indien de in het tweede lid bedoelde gegevens zijn verstrekt door het laboratorium dat de analyses heeft verricht.
-4. De Dienst Regelingen is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
-5.  De intermediair die verschillende partijen vloeibaar zuiveringsslib, waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de Dienst Regelingen het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
+4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
+5.  De intermediair die verschillende partijen vloeibaar zuiveringsslib, waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
 
 ### Artikel  49  
 
-1.  Op de opslagruimten voor meststoffen, bedoeld in [artikel 38, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden de door de Dienst Regelingen verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
+1.  Op de opslagruimten voor meststoffen, bedoeld in [artikel 38, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
 2.  De opslagruimten voor meststoffen worden in de administratie en bij de verstrekking van gegevens mede aangeduid met het registratienummer van de opslagruimte, bedoeld in het eerste lid.  
 
 ### Hoofdstuk  7  
@@ -665,11 +663,11 @@ c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid 
 
 ### Artikel  50  
 
-1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de Dienst Regelingen.   
+1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.   
 2.  De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens artikel 118 gestelde regels.   
-3.  De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na 1 januari 2008 bij de Dienst Regelingen. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.  
+3.  De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na 1 januari 2008 bij de minister. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.  
 4. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de ondernemer behalve de gegevens, bedoeld in [artikel 43, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), tevens een omschrijving van de in [artikel 16, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde behandelingsmethode voor zuiveringsslib. 
-5.  Wijzigingen in de ingevolge [artikel 43 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het vierde lid geregistreerde gegevens worden door de desbetreffende ondernemer, uiterlijk 30 dagen na de datum van de wijziging onder vermelding van het door de Dienst Regelingen ter identificatie van de onderneming verstrekte relatienummer, gemeld aan deze dienst.  
+5.  Wijzigingen in de ingevolge [artikel 43 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het vierde lid geregistreerde gegevens worden door de desbetreffende ondernemer, uiterlijk 30 dagen na de datum van de wijziging onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.  
 6. De [artikelen 43](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [44 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.
 
 ### Artikel  50a  
@@ -690,28 +688,28 @@ a. de hoeveelheid geproduceerde, behandelde compost; en
 b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 3, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen in de compost.  
 3. De gegevens, bedoeld in [artikel 44, vijfde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen in het zuiveringsslib. 
 4.  Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) voor zover hij verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, de hoeveelheden vloeibaar zuiveringsslib die in iedere afzonderlijke opslagruimte zijn aangevoerd en de hoeveelheden vloeibaar zuiveringsslib die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid vloeibaar zuiveringsslib zich in de opslagruimte bevindt.   
-5.  De gegevens, bedoeld in het vierde lid, worden bijgehouden op het daartoe door de Dienst Regelingen verstrekte formulier en worden overgenomen van het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten. Artikel 46, tweede en derde lid, is van overeenkomstige toepassing.  
+5.  De gegevens, bedoeld in het vierde lid, worden bijgehouden op het daartoe door de minister verstrekte formulier en worden overgenomen van het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten. Artikel 46, tweede en derde lid, is van overeenkomstige toepassing.  
 6.  Wijzigingen in de gegevens die de administratie ingevolge [artikel 44 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het eerste tot en met het derde lid bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.   
 7.  Wijzigingen in de gegevens, die de administratie ingevolge het vierde lid bevat, worden binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in het vijfde lid bedoelde formulier verwerkt. 
 
 ### Artikel  51a  
 
-1.  Op de opslagruimten voor vloeibaar zuiveringsslib, bedoeld in artikel 51, vierde lid, worden de door de Dienst Regelingen verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
+1.  Op de opslagruimten voor vloeibaar zuiveringsslib, bedoeld in artikel 51, vierde lid, worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
 2.  De opslagruimten voor vloeibaar zuiveringsslib worden in de administratie en bij de verstrekking van gegevens mede aangeduid met het registratienummer van de opslagruimte, bedoeld in het eerste lid.  
 
 ### Artikel  52  
 
-1. De ondernemer, bedoeld in artikel 50, eerste lid, verstrekt jaarlijks vóór 1 februari aan de Dienst Regelingen per bedrijf met staldieren waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over: 
+1. De ondernemer, bedoeld in artikel 50, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister per bedrijf met staldieren waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over: 
 
-a. de naam, het adres en het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer van het bedrijf, waaraan diervoeder is geleverd;  
+a. de naam, het adres en het door de minister ter identificatie van het bedrijf verstrekte relatienummer van het bedrijf, waaraan diervoeder is geleverd;  
 
 b. de hoeveelheid geleverd mengvoeder bestemd voor staldieren, onderscheiden naar diersoort; en  
 
 c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.   
-2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de Dienst Regelingen gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.
+2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.
 3. Het tweede lid is niet van toepassing indien de in het tweede lid bedoelde gegevens zijn verstrekt door het laboratorium dat de analyses heeft verricht.
-4. De Dienst Regelingen is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
-5.  De ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de Dienst Regelingen het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 51, vijfde lid, bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
+4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
+5.  De ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 51, vijfde lid, bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
 
 ### Hoofdstuk  8  
 
@@ -744,7 +742,7 @@ b. de gegevens ter identificatie van de monsterverpakking; en
 
 c. het combinatienummer.     
 3.  De vervoerder draagt er zorg voor dat bij het vervoer van drijfmest de door de satellietvolgapparatuur gegenereerde gegevens voortdurend en automatisch in de AGR-apparatuur worden vastgelegd.   
-4.  De vervoerder draagt er zorg voor dat op het tijdstip van het laden en het lossen van drijfmest door de AGR-apparatuur de door de satellietvolgapparatuur gegenereerde gegevens inzake de locatie, de datum en het tijdstip van het laden van het transportmiddel, onderscheidenlijk de locatie, de datum en het tijdstip van het lossen van het transportmiddel automatisch worden vastgelegd en met de in het eerste en tweede lid bedoelde gegevens elektronisch aan de Dienst Regelingen worden verzonden.   
+4.  De vervoerder draagt er zorg voor dat op het tijdstip van het laden en het lossen van drijfmest door de AGR-apparatuur de door de satellietvolgapparatuur gegenereerde gegevens inzake de locatie, de datum en het tijdstip van het laden van het transportmiddel, onderscheidenlijk de locatie, de datum en het tijdstip van het lossen van het transportmiddel automatisch worden vastgelegd en met de in het eerste en tweede lid bedoelde gegevens elektronisch aan de minister worden verzonden.   
 5.  De vastlegging van de op een vracht dierlijke meststoffen betrekking hebbende gegevens in de AGR-apparatuur geschiedt zodanig dat er een eenduidig verband is tussen de in het eerste tot en met het vierde lid bedoelde gegevens.  
 
 ### Artikel  56  
@@ -755,17 +753,17 @@ a. de gegevens, bedoeld in het tweede lid, onderdeel b, van dat artikel, niet au
 
 b. de gegevens, bedoeld in het tweede lid, onderdeel c, van dat artikel, niet behoeven te worden vastgelegd; en  
 
-c. de gegevens, bedoeld in het vierde lid, van dat artikel, niet automatisch door de AGR-apparatuur, maar door de vervoerder elektronisch in de AGR-apparatuur worden vastgelegd en elektronisch aan de Dienst Regelingen worden verzonden.     
-2.  Indien een vracht dierlijke meststoffen buiten Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het lossen van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie, de datum en het tijdstip, waar onderscheidenlijk waarop het transportmiddel het Nederlandse grondgebied verlaat in de AGR-apparatuur vastgelegd en elektronisch aan de Dienst Regelingen verzonden.   
-3.  Indien een vracht dierlijke meststoffen binnen Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie waar en de datum en het tijdstip waarop het transportmiddel het Nederlandse grondgebied binnen komt in de AGR-apparatuur vastgelegd en elektronisch aan de Dienst Regelingen verzonden.   
-4.  Het tweede en derde lid zijn niet van toepassing, indien door de vervoerder de plaats van de locatie en de datum en het tijdstip van het lossen, onderscheidenlijk van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, in de AGR-apparatuur worden vastgelegd en elektronisch aan de Dienst Regelingen worden verzonden.  
+c. de gegevens, bedoeld in het vierde lid, van dat artikel, niet automatisch door de AGR-apparatuur, maar door de vervoerder elektronisch in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.     
+2.  Indien een vracht dierlijke meststoffen buiten Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het lossen van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie, de datum en het tijdstip, waar onderscheidenlijk waarop het transportmiddel het Nederlandse grondgebied verlaat in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
+3.  Indien een vracht dierlijke meststoffen binnen Nederland wordt gebracht, worden in plaats van de locatie, de datum en het tijdstip van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, de locatie waar en de datum en het tijdstip waarop het transportmiddel het Nederlandse grondgebied binnen komt in de AGR-apparatuur vastgelegd en elektronisch aan de minister verzonden.   
+4.  Het tweede en derde lid zijn niet van toepassing, indien door de vervoerder de plaats van de locatie en de datum en het tijdstip van het lossen, onderscheidenlijk van het laden van het transportmiddel, bedoeld in artikel 55, vierde lid, in de AGR-apparatuur worden vastgelegd en elektronisch aan de minister worden verzonden.  
 
 ### Artikel  57  
 
-1. Vervoerders, die voornemens zijn dierlijke meststoffen anders dan mestkorrels binnen Nederland te brengen, doen van dit voornemen mededeling aan de Dienst Regelingen.
+1. Vervoerders, die voornemens zijn dierlijke meststoffen anders dan mestkorrels binnen Nederland te brengen, doen van dit voornemen mededeling aan de minister.
 2. Bij de in het eerste lid bedoelde mededeling worden in ieder geval de volgende gegevens verstrekt: 
 
-a. naam, adres en de door de Dienst Regelingen ter identificatie verstrekte relatienummers van de betrokken vervoerder en van de afnemers;  
+a. naam, adres en de door de minister ter identificatie verstrekte relatienummers van de betrokken vervoerder en van de afnemers;  
 
 b. een overzicht van de buiten Nederland gevestigde leveranciers;  
 
@@ -777,10 +775,10 @@ e. de periode waarop de onder d bedoelde toestemming betrekking heeft.
 
 ### Artikel 57a  
 
-1. De vervoerder, die overeenkomstig artikel 57 mededeling heeft gedaan, doet ten minste twaalf uur voordat de dierlijke meststoffen daadwerkelijk binnen Nederland worden gebracht hiervan elektronisch mededeling aan de Dienst Regelingen.
+1. De vervoerder, die overeenkomstig artikel 57 mededeling heeft gedaan, doet ten minste twaalf uur voordat de dierlijke meststoffen daadwerkelijk binnen Nederland worden gebracht hiervan elektronisch mededeling aan de minister.
 2. Bij de in het eerste lid bedoelde mededeling worden in ieder geval de volgende gegevens verstrekt: 
 
-a. naam, adres en voor zover van toepassing de door de Dienst Regelingen ter identificatie verstrekte relatienummers van de vervoerder en de afnemer van de desbetreffende vracht dierlijke meststoffen;  
+a. naam, adres en voor zover van toepassing de door de minister ter identificatie verstrekte relatienummers van de vervoerder en de afnemer van de desbetreffende vracht dierlijke meststoffen;  
 
 b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in bijlage I;  
 
@@ -791,7 +789,7 @@ d. het kenteken van het motorrijtuig, bedoeld in [artikel 1, eerste lid, onderde
 
 ### Artikel  57b  
 
-1.  In geval van vervoer van dierlijke meststoffen buiten Nederland doet de vervoerder ten minste drie werkdagen voordat de vracht dierlijke meststoffen wordt geladen hiervan elektronisch mededeling aan de Dienst Regelingen en de Voedsel en Waren Autoriteit.   
+1.  In geval van vervoer van dierlijke meststoffen buiten Nederland doet de vervoerder ten minste drie werkdagen voordat de vracht dierlijke meststoffen wordt geladen hiervan elektronisch mededeling aan de minister en de Voedsel en Waren Autoriteit.   
 2.  Bij de in het eerste lid bedoelde mededeling worden in ieder geval de volgende gegevens verstrekt: 
 
 a. naam, adres en indien van toepassing de door de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), verstrekte KvK-nummers van de betrokken vervoerder en van de leveranciers;  
@@ -801,7 +799,7 @@ b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze vo
 c. de postcode van de laadplaats van de desbetreffende vracht dierlijke meststoffen, en  
 
 d. de datum waarop het laden van de dierlijke meststoffen aanvangt.     
-3.  Uiterlijk twaalf uur voordat de vracht dierlijke meststoffen wordt geladen, kan de vervoerder de transportdatum uit de in het tweede lid bedoelde mededeling aan de Dienst Regelingen en de Voedsel en Waren Autoriteit elektronisch wijzigen.   
+3.  Uiterlijk twaalf uur voordat de vracht dierlijke meststoffen wordt geladen, kan de vervoerder de transportdatum uit de in het tweede lid bedoelde mededeling aan de minister en de Voedsel en Waren Autoriteit elektronisch wijzigen.   
 4.  Indien de vracht bestaat uit dierlijke meststoffen waarvoor ingevolge Verordening (EG) nr. 1069/2009 geen gezondheidscertificaat is voorgeschreven, kan de in het eerste lid bedoelde mededeling worden gedaan ten minste twaalf uur voordat de vracht dierlijke meststoffen wordt geladen, en blijft het derde lid buiten toepassing.   
 5.  Indien het vervoer niet dan wel niet overeenkomstig de verstrekte gegevens plaatsvindt, trekt de desbetreffende vervoerder de in het eerste lid bedoelde mededeling voordat de vracht dierlijke meststoffen wordt geladen, elektronisch in.  
 
@@ -814,10 +812,10 @@ d. de datum waarop het laden van de dierlijke meststoffen aanvangt.
 
 ### Artikel  58  
 
-1.  Indien de vervoerder ingevolge artikel 51, tweede lid, van het besluit verplicht is van het vervoer mededeling te doen, geschiedt de mededeling uiterlijk 24 uur voordat het laden van het transportmiddel plaatsvindt aan de Dienst Regelingen.   
+1.  Indien de vervoerder ingevolge artikel 51, tweede lid, van het besluit verplicht is van het vervoer mededeling te doen, geschiedt de mededeling uiterlijk 24 uur voordat het laden van het transportmiddel plaatsvindt aan de minister.   
 2.  Bij de mededeling van het vervoer worden de volgende gegevens verstrekt: 
 
-a. de door de Dienst Regelingen ter identificatie verstrekte relatienummers van de onderneming van de vervoerder, het bedrijf of de onderneming van de leverancier en het bedrijf of de onderneming van de afnemer;  
+a. de door de minister ter identificatie verstrekte relatienummers van de onderneming van de vervoerder, het bedrijf of de onderneming van de leverancier en het bedrijf of de onderneming van de afnemer;  
 
 b. de datum waarop het vervoer plaatsvindt;  
 
@@ -893,7 +891,7 @@ e. de grootte van een vracht wordt vooraf aan het vervoer bepaald en is ten hoog
 ### Artikel  60  
 
 1.  Als vervoersbewijs als bedoeld in [artikel 53, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in bijlage F, onderdeel A.   
-2.  Het vervoersbewijs dierlijke meststoffen wordt door de Dienst Regelingen verstrekt en is voorzien van een uniek nummer.   
+2.  Het vervoersbewijs dierlijke meststoffen wordt door de minister verstrekt en is voorzien van een uniek nummer.   
 3.  Indien de dierlijke meststoffen buiten Nederland worden gebracht, wordt ter zake van het vervoer, in afwijking van het tweede lid,: 
 
 a. het referentienummer van het gezondheidscertificaat of handelsdocument, bedoeld in artikel 21, van verordening (EG) nr. 1069/2009, dat betrekking heeft op dezelfde vracht dierlijke meststoffen als het vervoersbewijs dierlijke meststoffen, bedoeld in het tweede lid, vermeld op dat vervoersbewijs;  
@@ -971,10 +969,10 @@ De vervoerder van een vracht dierlijke meststoffen, onderscheidenlijk van meerde
 
 ### Artikel  64  
 
-1.  De op het vervoersbewijs dierlijke meststoffen ingevulde gegevens worden door de vervoerder uiterlijk 30 werkdagen na het vervoer van de vracht dierlijke meststoffen op elektronische wijze bij de Dienst Regelingen ingediend.   
+1.  De op het vervoersbewijs dierlijke meststoffen ingevulde gegevens worden door de vervoerder uiterlijk 30 werkdagen na het vervoer van de vracht dierlijke meststoffen op elektronische wijze bij de minister ingediend.   
 2.  De elektronisch in te dienen gegevens bevatten mede de code van het laboratorium dat de analyse van de dierlijke meststoffen waarop het vervoersbewijs dierlijke meststoffen betrekking heeft, heeft uitgevoerd, en de op basis van deze analyse vastgestelde hoeveelheid dierlijke meststoffen.   
-3.  Indien de hoeveelheid van de dierlijke meststoffen overeenkomstig de artikelen 84 tot en met 91 wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, worden de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van het eerste lid, uiterlijk tien werkdagen na het vervoer van de vracht of vrachten dierlijke meststoffen bij de Dienst Regelingen ingediend.   
-4.  In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van[ artikel 53, zesde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de Dienst Regelingen, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in artikel 62a betreft.  
+3.  Indien de hoeveelheid van de dierlijke meststoffen overeenkomstig de artikelen 84 tot en met 91 wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, worden de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van het eerste lid, uiterlijk tien werkdagen na het vervoer van de vracht of vrachten dierlijke meststoffen bij de minister ingediend.   
+4.  In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van[ artikel 53, zesde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de minister, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in artikel 62a betreft.  
 
 ### Artikel  65  
 
@@ -982,7 +980,7 @@ In afwijking van [artikel 53, vijfde lid, van het besluit](../../../../AMvB/uitv
 
 a. de machtiging geschiedt voordat het vervoer van de vracht waarop de machtiging betrekking heeft plaatsvindt;  
 
-b. er wordt een schriftelijk bewijsstuk van de machtiging opgemaakt dat door de betrokken partijen is ondertekend en dat in ieder geval de datum en de duur van de machtiging en de door de Dienst Regelingen ter identificatie van de bedrijven of ondernemingen van de betrokken partijen verstrekte relatienummers bevat; en  
+b. er wordt een schriftelijk bewijsstuk van de machtiging opgemaakt dat door de betrokken partijen is ondertekend en dat in ieder geval de datum en de duur van de machtiging en de door de minister ter identificatie van de bedrijven of ondernemingen van de betrokken partijen verstrekte relatienummers bevat; en  
 
 c. een afschrift van het bewijsstuk van de machtiging, bedoeld onder b, wordt tijdens het vervoer van de vracht dierlijke meststoffen waarop de machtiging betrekking heeft desgevraagd aan een ambtenaar als bedoeld in artikel 129 verstrekt.   
 
@@ -1034,7 +1032,7 @@ c. uit dierlijke meststoffen afkomstig van paarden of pony's geproduceerde grond
 
 1°. de naam, het adres en de woonplaats van de leverancier;  
 
-2°. het door de Dienst Regelingen ter identificatie verstrekte relatienummer van de afnemer;  
+2°. het door de minister ter identificatie verstrekte relatienummer van de afnemer;  
 
 3°. het gewicht van de hoeveelheid afgeleverd product in tonnen of in kilogrammen; en  
 
@@ -1051,12 +1049,12 @@ e. vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% cham
 ### Artikel  68  
 
 1. Als vervoersbewijs als bedoeld in [artikel 55, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs zuiveringsslib en compost dat overeenkomt met het model dat is opgenomen in bijlage G, onderdeel A.
-2. Het vervoersbewijs zuiveringsslib en compost wordt door de Dienst Regelingen verstrekt en is voorzien van een uniek nummer. 
+2. Het vervoersbewijs zuiveringsslib en compost wordt door de minister verstrekt en is voorzien van een uniek nummer. 
 
 ### Artikel  69  
 
 1. Uiterlijk bij het laden van meststoffen worden de onderdelen 1, 3a, 3b en 3c, met uitzondering van het gewicht van de vracht, de hoeveelheden fosfaat en stikstof en het drogestofgehalte, van het vervoersbewijs zuiveringsslib en compost ingevuld en wordt het vervoersbewijs door de leverancier ondertekend. In voorkomend geval wordt bij onderdeel 1 het registratienummer van de desbetreffende opslag ingevuld.
-2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in artikel 92b, derde lid, dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, het ter zake van de ontvangst van de overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, verstrekte gegevens door de Dienst Regelingen uitgegeven samenstellingnummer.
+2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in artikel 92b, derde lid, dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, het ter zake van de ontvangst van de overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, verstrekte gegevens door de minister uitgegeven samenstellingnummer.
 3. Het netto gewicht van de vracht wordt terstond na de weging bij onderdeel 3 van het op de vracht betrekking hebbende vervoersbewijs zuiveringsslib en compost ingevuld.
 4. Uiterlijk bij het lossen van de meststoffen worden de onderdelen 3d en 5 van het op die vracht betrekking hebbende en overeenkomstig het eerste lid ingevulde vervoersbewijs zuiveringsslib en compost ingevuld en wordt het vervoersbewijs door de vervoerder en de afnemer ondertekend. Ingeval de afnemer een intermediair is, wordt bij onderdeel 5, in voorkomend geval, het registratienummer van de desbetreffende opslag ingevuld.
 5. Met de ondertekening verklaren de leverancier en de vervoerder dat de desbetreffende vracht zuiveringsslib of compost voldoet aan [artikel 16](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) onderscheidenlijk [artikel 17 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).
@@ -1066,7 +1064,7 @@ e. vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% cham
 ### Artikel  69a  
 
 1. De vervoerder van een vracht zuiveringsslib of compost verstrekt uiterlijk tien werkdagen na het vervoer de leverancier en de afnemer een afschrift van het op die vracht betrekking hebbende vervoersbewijs.
-2. De op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens worden door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht zuiveringsslib of compost op elektronische wijze bij de Dienst Regelingen ingediend.
+2. De op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens worden door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht zuiveringsslib of compost op elektronische wijze bij de minister ingediend.
 3. In afwijking van [artikel 55, vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), kunnen de leverancier of de afnemer, de vervoerder ter zake van de ondertekening van het vervoersbewijs zuiveringsslib en compost machtigen. Artikel 65 is op deze machtiging van overeenkomstige toepassing. 
 
 ### Artikel 69b  
@@ -1141,14 +1139,14 @@ De periode, bedoeld in [artikel 57 van het besluit](../../../../AMvB/uitvoerings
 
 ### Artikel  72f  
 
-1.  In een mestverwerkingsovereenkomst, als bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en in een overeenkomst, als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), zijn opgenomen de door de Dienst Regelingen ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
+1.  In een mestverwerkingsovereenkomst, als bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en in een overeenkomst, als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), zijn opgenomen de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
 2.  De gegevens die in het kader van [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden gemeld zijn: 
 
 a. het kalenderjaar waarop de overeenkomst ziet;  
 
 b. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de overeenkomst is gesloten;  
 
-c. de door de Dienst Regelingen ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers, waarbij per relatienummer is aangegeven het soort partij, bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) dan wel de soort landbouwer, bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).    
+c. de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers, waarbij per relatienummer is aangegeven het soort partij, bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) dan wel de soort landbouwer, bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).    
 
 ### Hoofdstuk  9  
 
@@ -1187,7 +1185,7 @@ De [artikelen 44, eerste, derde en vierde lid](../../../../AMvB/uitvoeringsbeslu
 ### Artikel  75b  
 
 1.  Op basis van de vaststelling van een melkcontrolestation berekent een ontvanger van boerderijmelk het gewogen gemiddelde ureumgehalte van de leverantie van boerderijmelk van een melkveehouder in een kalenderjaar.   
-2.  Een ontvanger van boerderijmelk verstrekt de berekening vóór 1 februari van het kalenderjaar dat volgt op het kalenderjaar waarop de berekening betrekking heeft aan Dienst Regelingen.  
+2.  Een ontvanger van boerderijmelk verstrekt de berekening vóór 1 februari van het kalenderjaar dat volgt op het kalenderjaar waarop de berekening betrekking heeft aan de minister.  
 
 ### Artikel  75c  
 
@@ -1240,7 +1238,7 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 
 ### Artikel  81  
 
-1.  Het laboratorium analyseert de monsters uiterlijk vijf werkdagen na ontvangst en zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de vervoerder, de leverancier, de afnemer en elektronisch aan de Dienst Regelingen.   
+1.  Het laboratorium analyseert de monsters uiterlijk vijf werkdagen na ontvangst en zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister.   
 2.  Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Algemene Inspectiedienst de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Algemene Inspectiedienst ter zake verstrekte aanwijzingen op.   
 3.  Het laboratorium voldoet aan de overigens in het in artikel 80, eerste lid, bedoelde accreditatieprogramma gestelde eisen.   
 4.  Uiterlijk tien werkdagen na verzending van de analyseresultaten door het laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het laboratorium dat de analyse heeft uitgevoerd.   
@@ -1329,7 +1327,7 @@ c. de afstand tussen het in Nederland gelegen perceel en de grens met Duitsland 
 
 d. het perceel is in het kader van een normale bedrijfsvoering daadwerkelijk bij het bedrijf waarvan de meststoffen afkomstig zijn, in gebruik;  
 
-e. het perceel behoort blijkens registratie bij Dienst Regelingen toe aan het bedrijf in België, danwel Duitsland.    
+e. het perceel behoort blijkens registratie bij de minister toe aan het bedrijf in België, danwel Duitsland.    
 
 ### Artikel  88  
 
@@ -1413,13 +1411,13 @@ c. het stikstofgehalte, het fosfaatgehalte alsmede het drogestofgehalte ten mins
 1. Het laboratorium, bedoeld in artikel 92a, analyseert de monsters uiterlijk vijf werkdagen na ontvangst overeenkomstig het protocol, dat is opgenomen in bijlage Ia, onderdeel A, of door middel van een methode die tenminste dezelfde waarborgen omvat.
 2. Indien dit ten aanzien van het monster overeenkomstig artikel 92a, zesde lid, is aangegeven, berekent het laboratorium op basis van de meest recente analyseresultaten, het gemiddelde stikstof-, fosfaat- en drogestofgehalte over de afgelopen twaalf maanden overeenkomstig de in bijlage Ia, onderdeel B, opgenomen berekeningsmethode.
 3. Het laboratorium voorziet de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten van een uniek analysenummer van ten hoogste twaalf posities.
-4. Indien het monster afkomstig is uit een afzonderlijk geproduceerde partij zendt het laboratorium de analyseresultaten uiterlijk tien werkdagen na analyse elektronisch aan de Dienst Regelingen en aan de producent van de desbetreffende meststof, onder vermelding van het unieke analysenummer, bedoeld in het derde lid.
-5. Indien het monster afkomstig is uit een hoeveelheid die in een continu proces is geproduceerd, zendt het laboratorium de in het tweede lid bedoelde gehaltes, uiterlijk tien werkdagen na afloop van de desbetreffende kalendermaand elektronisch aan de Dienst Regelingen en aan de producent van de desbetreffende meststof, onder vermelding van het unieke analysenummer, bedoeld in het derde lid en het unieke analysenummer dat betrekking heeft op het in voorgaande kalendermaand met betrekking tot de desbetreffende hoeveelheid berekende gemiddelde.
+4. Indien het monster afkomstig is uit een afzonderlijk geproduceerde partij zendt het laboratorium de analyseresultaten uiterlijk tien werkdagen na analyse elektronisch aan de minister en aan de producent van de desbetreffende meststof, onder vermelding van het unieke analysenummer, bedoeld in het derde lid.
+5. Indien het monster afkomstig is uit een hoeveelheid die in een continu proces is geproduceerd, zendt het laboratorium de in het tweede lid bedoelde gehaltes, uiterlijk tien werkdagen na afloop van de desbetreffende kalendermaand elektronisch aan de minister en aan de producent van de desbetreffende meststof, onder vermelding van het unieke analysenummer, bedoeld in het derde lid en het unieke analysenummer dat betrekking heeft op het in voorgaande kalendermaand met betrekking tot de desbetreffende hoeveelheid berekende gemiddelde.
 6. Het laboratorium bewaart de monsters totdat tien werkdagen na verzending van de analyseresultaten door het laboratorium zijn verstreken.
 
 ### Artikel  92c  
 
-Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van [artikel 68, eerste lid van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, aan de Dienst Regelingen is verstrekt. 
+Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van [artikel 68, eerste lid van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, aan de minister is verstrekt. 
 
 ### Artikel  93  
 
@@ -1577,7 +1575,7 @@ b. bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenome
 
 ### Artikel  103b  
 
-1.  Het laboratorium dat de in artikel 103a bedoelde vaststelling heeft verricht, verstrekt de landbouwer het analyserapport en verstrekt desgevraagd gegevens over die vaststelling aan de Dienst Regelingen.   
+1.  Het laboratorium dat de in artikel 103a bedoelde vaststelling heeft verricht, verstrekt de landbouwer het analyserapport en verstrekt desgevraagd gegevens over die vaststelling aan de minister.   
 2.  De landbouwer meldt de fosfaattoestand van het desbetreffende perceel gebaseerd op het op grond van artikel 103a, derde lid, geldige analyserapport, uiterlijk 15 mei van het desbetreffende kalenderjaar.   
 3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).  
 
@@ -1616,10 +1614,10 @@ f. het laboratorium in het analyserapport de naam vermeldt van degene die de wer
 
 ### Artikel  104  
 
-1.  De kennisgeving van overgang, bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geschiedt bij de Dienst Regelingen.   
+1.  De kennisgeving van overgang, bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geschiedt bij de minister.   
 2.  Bij de kennisgeving van overgang worden door partijen in ieder geval de volgende gegevens verstrekt: 
 
-a. de door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummers;  
+a. de door de minister ter identificatie van het bedrijf verstrekte relatienummers;  
 
 b. het aantal varkenseenheden of pluimvee-eenheden waarop de kennisgeving betrekking heeft;  
 
@@ -1644,7 +1642,7 @@ h. een afschrift van de omgevingsvergunning voor de behandelingsinstallatie of v
 
 ### Artikel  104a  
 
-Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de Dienst Regelingen en verstrekt de overeenkomstige gegevens bedoeld, in artikel 104, tweede en derde lid. 
+Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de minister en verstrekt de overeenkomstige gegevens bedoeld, in artikel 104, tweede en derde lid. 
 
 ### §  2  
 
@@ -1653,8 +1651,8 @@ Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/mes
 ### Artikel  105  
 
 1.  Alvorens de minister een kennisgeving van overgang in behandeling neemt, doet hij van deze kennisgeving schriftelijk mededeling aan iedere hypotheekhouder die het bedrijf van de vervreemder van het productierecht bij de minister voor de toepassing van deze paragraaf ter registratie heeft aangemeld, indien overeenkomstig artikel 106, eerste lid, registratie door de minister daadwerkelijk heeft plaatsgevonden. De minister neemt de kennisgeving van overgang niet in behandeling gedurende 30 dagen na dagtekening van deze mededeling.   
-2.  De termijn van 30 dagen wordt verlengd tot negentig dagen na dagtekening van de mededeling, indien een hypotheekhouder binnen de termijn van 30 dagen een verzoek aan de minister bij de Dienst Regelingen indient.   
-3.  De termijn van negentig dagen wordt eenmalig met negentig dagen verlengd, indien de hypotheekhouder die het in het tweede lid bedoelde verzoek heeft gedaan een verzoek daartoe aan de minister bij de Dienst Regelingen indient onder gelijktijdige overlegging van: 
+2.  De termijn van 30 dagen wordt verlengd tot negentig dagen na dagtekening van de mededeling, indien een hypotheekhouder binnen de termijn van 30 dagen een verzoek bij de minister indient.   
+3.  De termijn van negentig dagen wordt eenmalig met negentig dagen verlengd, indien de hypotheekhouder die het in het tweede lid bedoelde verzoek heeft gedaan een verzoek daartoe bij de minister indient onder gelijktijdige overlegging van: 
 
 a. een rechterlijke uitspraak waaruit blijkt dat degene op wiens bedrijf het verzoek betrekking heeft de desbetreffende overgang geen doorgang kan laten vinden; of  
 
@@ -1664,12 +1662,12 @@ b. een schriftelijke verklaring van een notaris, waarin deze stelt dat hij van d
 
 ### Artikel  106  
 
-1.  De aanmelding ter registratie, bedoeld in artikel 105, eerste lid, geschiedt bij de Dienst Regelingen.   
+1.  De aanmelding ter registratie, bedoeld in artikel 105, eerste lid, geschiedt bij de minister.   
 2.  Bij de aanmelding, bedoeld in het eerste lid, worden in ieder geval de volgende gegevens verstrekt: 
 
 a. het adres waar de hypotheekhouder is gevestigd;  
 
-b. het door de Dienst Regelingen ter identificatie verstrekte relatienummer van het bedrijf waarop het verzoek betrekking heeft; en  
+b. het door de minister ter identificatie verstrekte relatienummer van het bedrijf waarop het verzoek betrekking heeft; en  
 
 c. het correspondentieadres van het in onderdeel b bedoelde bedrijf.     
 3.  De in het eerste lid bedoelde aanmelding wordt voor akkoord medeondertekend door degene op wiens bedrijf de registratie betrekking heeft.  
@@ -1679,7 +1677,7 @@ c. het correspondentieadres van het in onderdeel b bedoelde bedrijf.
 1.  Indien de aanmelding, bedoeld in artikel 106, eerste lid, niet voor akkoord is medeondertekend door degene op wiens bedrijf de aanmelding betrekking heeft, wordt het bedrijf slechts geregistreerd, indien de hypotheekhouder bij het verzoek tevens een uittreksel van het in [artikel 260, eerste lid, van boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare register overlegt, waaruit blijkt op welke registergoederen behorend tot het bedrijf een hypotheekrecht is gevestigd.   
 2.  De minister doet van de registratie, bedoeld in het eerste lid, schriftelijk mededeling aan degene op wiens bedrijf de registratie betrekking heeft. Indien deze binnen 30 dagen na dagtekening van deze mededeling aan de minister verklaart dat de geregistreerde gegevens niet juist zijn, gelden in plaats van artikel 105 de volgende leden.   
 3.  De minister neemt een kennisgeving van overgang, gedaan door degene op wiens bedrijf de registratie betrekking heeft, niet in behandeling zolang de hypotheekhouder de registratie niet laat doorhalen, doch hoogstens gedurende negentig dagen na dagtekening van de schriftelijke mededeling, bedoeld in het tweede lid.   
-4.  De termijn, bedoeld in het derde lid, wordt eenmalig met negentig dagen verlengd indien de hypotheekhouder daartoe binnen de eerstgenoemde termijn een verzoek doet aan de minister bij de Dienst Regelingen, onder gelijktijdige overlegging van een rechterlijke uitspraak of een verklaring van een notaris als bedoeld in artikel 105, derde lid.   
+4.  De termijn, bedoeld in het derde lid, wordt eenmalig met negentig dagen verlengd indien de hypotheekhouder daartoe binnen de eerstgenoemde termijn een verzoek doet aan de minister, onder gelijktijdige overlegging van een rechterlijke uitspraak of een verklaring van een notaris als bedoeld in artikel 105, derde lid.   
 5.  De registratie wordt doorgehaald na afloop van de in het derde, dan wel in voorkomend geval in het vierde lid bedoelde termijn.   
 6.  Ter zake van een bedrijf, waarvan overeenkomstig het vijfde lid de registratie is doorgehaald, wordt door de minister geen nieuw verzoek tot registratie van dezelfde hypotheekhouder in behandeling genomen, tenzij deze voor akkoord is medeondertekend door degene op wiens bedrijf de registratie betrekking heeft. Dit voor akkoord medeondertekende verzoek tot registratie geldt tevens als intrekking van het niet-medeondertekende verzoek tot registratie, indien deze registratie nog niet is doorgehaald.  
 
@@ -1687,7 +1685,7 @@ c. het correspondentieadres van het in onderdeel b bedoelde bedrijf.
 
 1.  Op verzoek van de hypotheekhouder wordt de registratie van het bedrijf voor de toepassing van deze paragraaf door de minister doorgehaald.   
 2.  Indien het recht van hypotheek op grond waarvan de registratie van het bedrijf plaatsvond is tenietgegaan, wordt de registratie van het bedrijf voor de toepassing van deze paragraaf door de minister doorgehaald.   
-3.  De hypotheekhouder doet van het tenietgaan van het recht van hypotheek binnen 30 dagen mededeling aan de Dienst Regelingen.   
+3.  De hypotheekhouder doet van het tenietgaan van het recht van hypotheek binnen 30 dagen mededeling aan de minister.   
 4.  Indien de in het tweede lid bedoelde mededeling niet binnen 30 dagen na het tenietgaan van het recht van hypotheek door de minister is ontvangen, kan de minister ten aanzien van de hypotheekhouder besluiten hem of haar voor de duur van ten hoogste twee jaar van de toepassing van deze paragraaf uit te sluiten.  
 
 ### Artikel  109  
@@ -1708,10 +1706,10 @@ d. de indiening of het achterwege blijven van de verklaring bedoeld in artikel 1
 
 ### Artikel  110  
 
-1.  De kennisgeving, bedoeld in [artikel 31, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), geschiedt bij de Dienst Regelingen.   
+1.  De kennisgeving, bedoeld in [artikel 31, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), geschiedt bij de minister.   
 2.  Bij de kennisgeving, bedoeld in het eerste lid, worden in ieder geval de volgende gegevens verstrekt: 
 
-a. het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer; en  
+a. het door de minister ter identificatie van het bedrijf verstrekte relatienummer; en  
 
 b. indien een gedeelte van het productierecht komt te vervallen, het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden dat komt te vervallen.    
 
@@ -1721,8 +1719,8 @@ b. indien een gedeelte van het productierecht komt te vervallen, het aantal vark
 
 ### Artikel  111  
 
-1.  Een kennisgeving van overgang, bedoeld in artikel 104, eerste lid, wordt eerst geregistreerd nadat de verwerver een bedrag van € 250 aan de Dienst Regelingen heeft voldaan.   
-2.  Een aanmelding ter registratie, bedoeld in artikel 105, eerste lid, wordt voor de toepassing van paragraaf 2 eerst in behandeling genomen nadat een bedrag van € 35 aan de Dienst Regelingen is voldaan.   
+1.  Een kennisgeving van overgang, bedoeld in artikel 104, eerste lid, wordt eerst geregistreerd nadat de verwerver een bedrag van € 250 aan de minister heeft voldaan.   
+2.  Een aanmelding ter registratie, bedoeld in artikel 105, eerste lid, wordt voor de toepassing van paragraaf 2 eerst in behandeling genomen nadat een bedrag van € 35 aan de minister is voldaan.   
 3.  Indien de minister op grond van [artikel 29, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.   
 4.  Het bedrag, bedoeld in het tweede lid, geldt per verzoek per bedrijf.  
 
@@ -1748,9 +1746,9 @@ f. de geproduceerde hoeveelheid dierlijke mestststoffen, in verband met de overg
 
 g. de eindproducten die bij de mestbehandeling of mestvergisting ontstaan, worden niet binnen de markt voor dierlijke mest afgezet;  
 
-h. indien de mestbehandeling of de vergisting van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de Dienst Regelingen, en  
+h. indien de mestbehandeling of de vergisting van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister, en  
 
-i. wijzigingen in de ingevolge artikel 104 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan deze dienst.     
+i. wijzigingen in de ingevolge artikel 104 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.     
 2.  Indien niet wordt voldaan aan de voorwaarden, genoemd in het eerste lid, wordt van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat volgens [artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen het concentratiegebied.  
 
 ### Artikel  111b  
@@ -1774,7 +1772,7 @@ Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bep
 
 ###Artikel 114 
 
-Aanvragen voor een ontheffing kunnen onder vermelding van het door de Dienst Regelingen ter identificatie van het desbetreffende bedrijf verstrekte relatienummer vanaf 1 maart 2006 tot en met 30 april 2006 bij de Dienst Regelingen worden ingediend: 
+Aanvragen voor een ontheffing kunnen onder vermelding van het door de minister ter identificatie van het desbetreffende bedrijf verstrekte relatienummer vanaf 1 maart 2006 tot en met 30 april 2006 bij de minister worden ingediend: 
 
 a. door een landbouwer die voornemens is: 
 
@@ -1784,7 +1782,7 @@ a. door een landbouwer die voornemens is:
 
 b. ten aanzien van een door deze landbouwer gevoerd bedrijf: 
 
-1°. dat op 13 april 2005 op naam van de desbetreffende landbouwer was geregistreerd bij de Dienst Regelingen;  
+1°. dat op 13 april 2005 op naam van de desbetreffende landbouwer was geregistreerd bij de minister;  
 
 2°. dat op de datum, genoemd onder 1°, beschikte over een varkensrecht of een pluimveerecht, voor zover de aanvraag betrekking heeft op varkenseenheden onderscheidenlijk op pluimvee-eenheden; en  
 
@@ -1809,7 +1807,7 @@ f. een beschrijving van de eindproducten die bij de mestverbranding of mestverwe
 g. gegevens of bescheiden op grond waarvan is verzekerd dat de producten, bedoeld in onderdeel f, niet worden afgevoerd naar of op of in de bodem worden gebracht op in Nederland gelegen landbouwgrond of natuurterrein; en  
 
 h. indien de verbrandings- of verwerkingsinstallatie nog niet operationeel is, gegevens waarmee aannemelijk wordt gemaakt dat de installatie wordt gerealiseerd vóór 1 mei 2009, onderscheidenlijk 1 november 2007.     
-2.  Indien de dierlijke meststoffen niet op het eigen bedrijf worden verbrand of verwerkt gaat de aanvraag vergezeld van een verklaring van de intermediair met wie de landbouwer voornemens is een overeenkomst aan te gaan tot mestverbranding of mestverwerking, waarin deze dit voornemen bevestigt, onder vermelding van het door de Dienst Regelingen ter identificatie van de intermediair verstrekte relatienummer.  
+2.  Indien de dierlijke meststoffen niet op het eigen bedrijf worden verbrand of verwerkt gaat de aanvraag vergezeld van een verklaring van de intermediair met wie de landbouwer voornemens is een overeenkomst aan te gaan tot mestverbranding of mestverwerking, waarin deze dit voornemen bevestigt, onder vermelding van het door de minister ter identificatie van de intermediair verstrekte relatienummer.  
 3.  Door of namens de minister kunnen nadere gegevens worden gevraagd. 
 
 ###Artikel 116 
@@ -1849,22 +1847,22 @@ g. indien de dierlijke meststoffen niet op het eigen bedrijf worden verbrand of 
 
 h. in de in onderdeel g bedoelde situatie voert de landbouwer de hoeveelheid dierlijke meststoffen die hij ingevolge de overeenkomst verplicht is te leveren daadwerkelijk af aan de verbrander of de verwerker, die de meststoffen ter verbranding of verwerking in zijn installatie afneemt;  
 
-i. indien de verbranding of de verwerking van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de Dienst Regelingen; en  
+i. indien de verbranding of de verwerking van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister; en  
 
-j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de Dienst Regelingen ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan deze dienst..     
+j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.     
 2.  De landbouwer bewaart een afschrift van de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
 3.  Aan de ontheffing kunnen nadere voorschriften worden verbonden. 
 
 ###Artikel 119 
 
 1.  De ontheffing geldt voor een periode van 10 jaar.   
-2.  De periode vangt aan op het tijdstip waarop blijkens een aan de Dienst Regelingen te overleggen verklaring voldaan wordt aan de voorschriften, bedoeld in artikel 118. 
+2.  De periode vangt aan op het tijdstip waarop blijkens een aan de minister te overleggen verklaring voldaan wordt aan de voorschriften, bedoeld in artikel 118. 
 
 ###Artikel 120 
 
 1.  De ontheffing kan geheel of gedeeltelijk worden ingetrokken indien in strijd wordt gehandeld met één of meer bij of krachtens artikel 118 gestelde voorschriften of indien overigens in strijd wordt gehandeld met de bij of krachtens de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md).   
 2.  De ontheffing wordt ingetrokken indien de producent, die de aanvraag om ontheffing heeft ingediend, het bedrijf ten aanzien waarvan de ontheffing is verleend, niet langer voert.   
-3.  In afwijking van het tweede lid, gaan indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwer de rechten en voorschriften verbonden aan de ontheffing op hem over indien partijen zulks ter zake van de registratie van de overgang van het op dat bedrijf rustende productierecht aan de Dienst Regelingen hebben gemeld.   
+3.  In afwijking van het tweede lid, gaan indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwer de rechten en voorschriften verbonden aan de ontheffing op hem over indien partijen zulks ter zake van de registratie van de overgang van het op dat bedrijf rustende productierecht aan de minister hebben gemeld.   
 4.  De ontheffing vervalt indien niet binnen 36 of 18 maanden, te rekenen vanaf het tijdstip waarop over de aanvraag is beslist met de mestverbranding onderscheidenlijk mestverwerking is begonnen. 
 
 ###Artikel 121 
@@ -1913,15 +1911,15 @@ De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld
 
 ### Artikel  122  
 
-1.  De in [artikel 26, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de Dienst Regelingen van het ingevulde en ondertekende daartoe bestemde formulier, dat door deze dienst wordt verstrekt.   
-2.  Indien de in het eerste lid bedoelde handelingen op elektronische wijze geschieden, wordt gebruik gemaakt van het door de Dienst Regelingen daartoe ter beschikking gestelde elektronische portaal.   
-3.  De in [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde elektronische verstrekking van gegevens, de in de artikelen 55, vierde lid, 56, 81, eerste lid, en 92b, vierde en vijfde lid, bedoelde elektronische verzending van gegevens, de in de artikelen 48, vijfde lid, 52, 57a en 58 bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen 28a, onderdeel e, en 35f, tweede lid, bedoelde elektronische aanmelding en de in de artikelen 64 en 69a, bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de Dienst Regelingen daartoe ter beschikking gestelde elektronische portaal.   
+1.  De in [artikel 26, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.   
+2.  Indien de in het eerste lid bedoelde handelingen op elektronische wijze geschieden, wordt gebruik gemaakt van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
+3.  De in [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde elektronische verstrekking van gegevens, de in de artikelen 55, vierde lid, 56, 81, eerste lid, en 92b, vierde en vijfde lid, bedoelde elektronische verzending van gegevens, de in de artikelen 48, vijfde lid, 52, 57a en 58 bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen 28a, onderdeel e, en 35f, tweede lid, bedoelde elektronische aanmelding en de in de artikelen 64 en 69a, bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
 4.  De elektronische verzending wordt door de vervoerder ondertekend door middel van een persoonlijke gebruikerscode, die overeenkomstig artikel 123 door de minister op naam van de desbetreffende vervoerder is geregistreerd.  
 
 ### Artikel  123  
 
-1.  De aanvraag tot registratie van een persoonlijke gebruikerscode als bedoeld in artikel 122, derde lid, geschiedt bij de Dienst Regelingen.   
-2.  De Dienst Regelingen zendt de aanvrager een bevestiging van de registratie.  
+1.  De aanvraag tot registratie van een persoonlijke gebruikerscode als bedoeld in artikel 122, derde lid, geschiedt bij de minister.   
+2.  De minister zendt de aanvrager een bevestiging van de registratie.  
 
 ### Artikel  124  
 
@@ -1960,7 +1958,7 @@ De volgende regelingen worden ingetrokken: a. de [Vrijstellingsregeling mestbe- 
 
 ### Artikel  133  
 
-Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig [artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij](../../../../ministeriele-regeling/regeling/leges/en/blokkade/wet/herstructurering/varkenshouderij/BWBR0009801/README.md) of [artikel 3 van de Regeling leges en blokkade pluimveerechten](../../../../ministeriele-regeling/regeling/leges/en/blokkade/pluimveerechten/meststoffenwet/BWBR0012009/README.md), zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van artikel 106, eerste lid, voor de toepassing van artikel 105, zonder voorafgaand verzoek daartoe geregistreerd bij de Dienst Regelingen. 
+Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig [artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij](../../../../ministeriele-regeling/regeling/leges/en/blokkade/wet/herstructurering/varkenshouderij/BWBR0009801/README.md) of [artikel 3 van de Regeling leges en blokkade pluimveerechten](../../../../ministeriele-regeling/regeling/leges/en/blokkade/pluimveerechten/meststoffenwet/BWBR0012009/README.md), zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van artikel 106, eerste lid, voor de toepassing van artikel 105, zonder voorafgaand verzoek daartoe geregistreerd bij de minister. 
 
 ### Artikel  135  
 
@@ -3512,7 +3510,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 #### *6. Versturen van mesttransportgegevens* 
 
-6.1. De AGR-apparatuur beschikt over een voorziening waarmee terstond nadat de gegevens in de AGR-apparatuur zijn geregistreerd, zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de Dienst Regelingen wordt verstuurd. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
+6.1. De AGR-apparatuur beschikt over een voorziening waarmee terstond nadat de gegevens in de AGR-apparatuur zijn geregistreerd, zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de minister wordt verstuurd. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
 
 – het nummer van het Vervoersbewijs dierlijke meststoffen;  
 
@@ -3548,7 +3546,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van Economische Zaken, Landbouw en Innovatie, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de Dienst Regelingen worden verstrekt, aan op het ontvangstportaal bij Dienst Regelingen. 
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van Economische Zaken, Landbouw en Innovatie, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
 
 #### *7. Signalering van storingen* 
 
@@ -3578,7 +3576,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 #### *6. Versturen van mesttransportgegevens* 
 
-6.1. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de Dienst Regelingen wordt verstuurd terstond nadat de desbetreffende gegevens door de AGR-apparatuur zijn geregistreerd. 6.2. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
+6.1. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen automatisch, zonder tussenkomst van menselijk handelen en zonder dat menselijk ingrijpen mogelijk is een elektronisch databericht naar de minister wordt verstuurd terstond nadat de desbetreffende gegevens door de AGR-apparatuur zijn geregistreerd. 6.2. Het tijdens het laden te versturen elektronisch databericht ‘laden van mest’ bevat de volgende gegevens: 
 
 – het nummer van het Vervoersbewijs dierlijke meststoffen;  
 
@@ -3610,7 +3608,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.4. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.5. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van LNV, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.6. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de Dienst Regelingen worden verstrekt, aan op het ontvangstportaal bij Dienst Regelingen. 
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.4. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.5. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van LNV, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.6. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
 
 #### *7. Signalering van storingen* 
 
@@ -3737,7 +3735,7 @@ In het accreditatieprogramma zijn alle verrichtingen, die in het kader van het s
 
 #### *4. Controle en registratie inkomende monsters* 
 
-4.1. Controle monsterverpakking Het laboratorium controleert of de verpakking van een monster voldoet aan de eisen. Gecontroleerd moet worden of de verpakking nog gesloten is. Verder dient gelet te worden op beschadigingen aan de verpakking die wijzen op mogelijke fraude. De verpakking dient in dusdanige staat te verkeren dat geen vermoeden bestaat dat het monster toegankelijk is geweest. Bij evidente ondeugdelijkheid van de verpakking wordt het monster niet in bewerking genomen. In geval van een mengmonster worden ook de bijbehorende monsters niet in bewerking genomen. Binnen 24 uur wordt melding gedaan aan de Algemene Inspectiedienst (AID) en het monster of de monsters worden gedurende maximaal 28 dagen gekoeld opgeslagen. De AID beslist wat verder met de monsters dient te gebeuren. 4..2 Controle hoeveelheid monster Het laboratorium controleert of de inkomende monsters de vereiste minimale hoeveelheid mest bevatten. Elk monster dient gewogen te worden. Het gewicht wordt geregistreerd en tegelijk met de analyseresultaten gerapporteerd aan de vervoerder en in de periodieke rapportage aan Dienst Regelingen. 4.3. Registratie van gegevens Het laboratorium registreert van elk inkomende monster de volgende gegevens: 
+4.1. Controle monsterverpakking Het laboratorium controleert of de verpakking van een monster voldoet aan de eisen. Gecontroleerd moet worden of de verpakking nog gesloten is. Verder dient gelet te worden op beschadigingen aan de verpakking die wijzen op mogelijke fraude. De verpakking dient in dusdanige staat te verkeren dat geen vermoeden bestaat dat het monster toegankelijk is geweest. Bij evidente ondeugdelijkheid van de verpakking wordt het monster niet in bewerking genomen. In geval van een mengmonster worden ook de bijbehorende monsters niet in bewerking genomen. Binnen 24 uur wordt melding gedaan aan de Algemene Inspectiedienst (AID) en het monster of de monsters worden gedurende maximaal 28 dagen gekoeld opgeslagen. De AID beslist wat verder met de monsters dient te gebeuren. 4..2 Controle hoeveelheid monster Het laboratorium controleert of de inkomende monsters de vereiste minimale hoeveelheid mest bevatten. Elk monster dient gewogen te worden. Het gewicht wordt geregistreerd en tegelijk met de analyseresultaten gerapporteerd aan de vervoerder en in de periodieke rapportage aan de minister. 4.3. Registratie van gegevens Het laboratorium registreert van elk inkomende monster de volgende gegevens: 
 
 o datum ontvangst  
 
@@ -3903,7 +3901,7 @@ Drijfmest, die verdund is met water voor het verkrijgen van een goed analysemons
 
 – berekende hoeveelheid fosfaat van de partij  
 
-– berekende hoeveelheid stikstof van de partij.   Het laboratorium stuurt het analyserapport aan de vervoerder van de vracht of partij mest waar de analyse betrekking op heeft. Dit kan op papier of elektronisch. 7.3. Heranalyse De bewaartermijn van de analysemonsters is 14 dagen na verzending van het analyserapport aan de leverancier, vervoerder en afnemer van de vracht of partij mest. Producenten en afnemers van de mest kunnen tot tien dagen na verzending van het analyserapport bij het laboratorium een verzoek indienen om heranalyse(s) uit te voeren. Dit verzoek moet schriftelijk via de vervoerder worden ingediend. Heranalyse is slechts één maal mogelijk en vindt in hetzelfde laboratorium plaats als waar het monster voor analyse is aangeboden. Heranalyse vindt plaats in duplo onder herhaalbaarheidscondities, op het gekoeld bewaarde analysemonster, binnen 21 dagen na de eerste verslaglegging. De duploresultaten van de heranalyse dienen te voldoen aan de eisen voor de herhaalbaarheid, voor stikstof 4% en voor fosfor 6%. Voldoet een monster niet aan deze eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste 2 meetresultaten. De eerder gevonden duploresultaten worden dan verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de 4 meetresultaten. Bij de eventuele rapportage wordt hiervan melding gemaakt. Indien het gemiddelde meetresultaat van de heranalyse voor stikstof en fosfor niet meer dan 6,4% resp. 9,8% afwijkt van het resultaat de eerste analyse, is er sprake van een bevestiging van het resultaat. De aanvrager van de heranalyse ontvangt in dat geval van het laboratorium bericht van de bevestiging waarbij aangegeven wordt dat het eerder gerapporteerde resultaat onverkort van toepassing blijft. Wanneer de analyseresultaten niet worden bevestigd, wordt door het laboratorium een gewijzigd analyserapport verzonden aan de leverancier, vervoerder en afnemer van de vracht of partij mest en daarmee vervalt het eerste analyseresultaat. Op het analyserapport wordt aangegeven dat het een heranalyse betreft. 7.4. Rapportage aan Dienst Regelingen Periodiek moet het laboratorium in ieder geval de volgende gegevens aan Dienst Regelingen rapporteren: 
+– berekende hoeveelheid stikstof van de partij.   Het laboratorium stuurt het analyserapport aan de vervoerder van de vracht of partij mest waar de analyse betrekking op heeft. Dit kan op papier of elektronisch. 7.3. Heranalyse De bewaartermijn van de analysemonsters is 14 dagen na verzending van het analyserapport aan de leverancier, vervoerder en afnemer van de vracht of partij mest. Producenten en afnemers van de mest kunnen tot tien dagen na verzending van het analyserapport bij het laboratorium een verzoek indienen om heranalyse(s) uit te voeren. Dit verzoek moet schriftelijk via de vervoerder worden ingediend. Heranalyse is slechts één maal mogelijk en vindt in hetzelfde laboratorium plaats als waar het monster voor analyse is aangeboden. Heranalyse vindt plaats in duplo onder herhaalbaarheidscondities, op het gekoeld bewaarde analysemonster, binnen 21 dagen na de eerste verslaglegging. De duploresultaten van de heranalyse dienen te voldoen aan de eisen voor de herhaalbaarheid, voor stikstof 4% en voor fosfor 6%. Voldoet een monster niet aan deze eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste 2 meetresultaten. De eerder gevonden duploresultaten worden dan verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de 4 meetresultaten. Bij de eventuele rapportage wordt hiervan melding gemaakt. Indien het gemiddelde meetresultaat van de heranalyse voor stikstof en fosfor niet meer dan 6,4% resp. 9,8% afwijkt van het resultaat de eerste analyse, is er sprake van een bevestiging van het resultaat. De aanvrager van de heranalyse ontvangt in dat geval van het laboratorium bericht van de bevestiging waarbij aangegeven wordt dat het eerder gerapporteerde resultaat onverkort van toepassing blijft. Wanneer de analyseresultaten niet worden bevestigd, wordt door het laboratorium een gewijzigd analyserapport verzonden aan de leverancier, vervoerder en afnemer van de vracht of partij mest en daarmee vervalt het eerste analyseresultaat. Op het analyserapport wordt aangegeven dat het een heranalyse betreft. 7.4. Rapportage aan de minister Periodiek moet het laboratorium in ieder geval de volgende gegevens aan de minister rapporteren: 
 
 – Nummer vervoersbewijs  
 
@@ -4458,7 +4456,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | Niet volledig aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M152  | € 200  |
 | --- | --- | --- | Niet naar waarheid aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M153  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 39, art. 41 onderdeel b en c, art. 34 lid 1  | Art. 2, art. 45a, 46, art. 47. art. 94 lid 3, art. 95 lid 3, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M162  | € 300  |
+| --- | Art. 39, art. 41 onderdeel b en c, art. 34 lid 1  | Art. 2, art. 45a, 46, art. 47. art. 94 lid 3, art. 95 lid 3, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders door de intermediair, waaronder een administratie (H1-staat, formulier de minister) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M162  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 40,  art. 41 onderdeel d  | Art. 48,  art. 124 lid 1  | Niet verstrekken van de gevraagde gegevens door de intermediair  | M162  | € 300  |
 | --- | --- | --- | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de intermediair  | M163  | € 100  |
@@ -4546,7 +4544,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs dierlijke meststoffen door de vervoerder  | M303  | € 300  |
 | --- | --- | --- | Niet ondertekenen van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  |  M304  |  € 200  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 53 lid 3  | Art. 60 lid 1 en 2  | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van het voorgeschreven model voor het vervoersbewijs dierlijke meststoffen dat door Dienst Regelingen is verstrekt en is voorzien van een uniek nummer  | M306  | € 100  |
+| --- | Art. 53 lid 3  | Art. 60 lid 1 en 2  | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van het voorgeschreven model voor het vervoersbewijs dierlijke meststoffen dat door de minister is verstrekt en is voorzien van een uniek nummer  | M306  | € 100  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 53 lid 4  | --- | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer  | M305  | € 300  |
 | --- | --- | --- | --- | --- | --- |
@@ -4580,7 +4578,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | Niet volledig opmaken of niet ondertekenen van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M402  | € 200  |
 | --- | --- | --- | Niet naar waarheid opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer  | M403  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 55 lid 3  | Art. 68  | Niet gebruikmaken van het voorgeschreven model voor het vervoersbewijs zuiveringsslib en compost dat wordt verstrekt door Dienst Regelingen en is voorzien van een uniek nummer  | M405  | € 100  |
+| --- | Art. 55 lid 3  | Art. 68  | Niet gebruikmaken van het voorgeschreven model voor het vervoersbewijs zuiveringsslib en compost dat wordt verstrekt door de minister en is voorzien van een uniek nummer  | M405  | € 100  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 55 lid 4  | --- | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder of de afnemer  | M406  | € 300  |
 | --- | --- | --- | --- | --- | --- |
@@ -4637,8 +4635,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | Art. 81 lid 1  | Niet na ontvangst van het mestmonster analyseren van het monster door het laboratorium  | M518  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | Niet uiterlijk 5 werkdagen na ontvangst van het mestmonster analyseren van het monster door het laboratorium  | M519  | € 100  |
-| --- | --- | --- | Niet na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen  | M520  | € 300  |
-| --- | --- | --- | Niet uiterlijk 5 werkdagen na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen  | M521  | € 100  |
+| --- | --- | --- | Niet na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister  | M520  | € 300  |
+| --- | --- | --- | Niet uiterlijk 5 werkdagen na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister  | M521  | € 100  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 81 lid 2  | Niet rapporteren van beschadigingen m.b.t. de monsterverpakking door het laboratorium aan de AID  | M522  | € 300  |
 | --- | --- | --- | Niet opvolgen van de door de AID verstrekte aanwijzingen door het laboratorium  | M523  | € 300  |
@@ -4691,8 +4689,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 92b lid 3  | Niet of niet op de juiste wijze voorzien van een analysenummer van de analyseresultaten door het laboratorium  | M568  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 92b lid 4 en lid 5  | Niet na analyse van het monster toezenden van de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen  | M570  | € 300  |
-| --- | --- | --- | Niet binnen 10 werkdagen na analyse dan wel 10 werkdagen na afloop van de kalendermaand toezenden van de analyseresultaten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen  | M571  | € 100  |
+| --- | --- | Art. 92b lid 4 en lid 5  | Niet na analyse van het monster toezenden van de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten door het laboratorium aan de producent en elektronisch aan de minister  | M570  | € 300  |
+| --- | --- | --- | Niet binnen 10 werkdagen na analyse dan wel 10 werkdagen na afloop van de kalendermaand toezenden van de analyseresultaten door het laboratorium aan de producent en elektronisch aan de minister  | M571  | € 100  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 92b lid 6  | Niet of niet lang genoeg bewaren van de monsters na verzending van de analyseresultaten  | M572  | € 300  |
 | --- | --- | --- | --- | --- | --- |
@@ -4730,9 +4728,9 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | --- | --- | --- |
 | Overige bepalingen  |
 | --- |
-| Art. 34 en 37  | --- | Art. 122 lid 1  | Niet op voorgeschreven wijze doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. indiening van het daartoe bestemde formulier  | M600  | € 50  |
+| Art. 34 en 37  | --- | Art. 122 lid 1  | Niet op voorgeschreven wijze doorgeven van gegevens en wijzigingen in gegevens aan de minister d.m.v. indiening van het daartoe bestemde formulier  | M600  | € 50  |
 | --- | --- | --- | --- | --- | --- |
-| --- |artikel 60, onderdeel b | Art. 122 lid 2 en 3  | Niet op voorgeschreven wijze elektronisch doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. het daartoe ter beschikking gestelde elektronische portaal  | M601  | € 50  |
+| --- |artikel 60, onderdeel b | Art. 122 lid 2 en 3  | Niet op voorgeschreven wijze elektronisch doorgeven van gegevens en wijzigingen in gegevens aan de minister d.m.v. het daartoe ter beschikking gestelde elektronische portaal  | M601  | € 50  |
 | --- | --- | --- | --- | --- | --- |
 | --- |artikel 60, onderdeel b | Art. 122 lid 4  | Niet ondertekenen van de elektronische verzending d.m.v. een persoonlijke gebruikerscode door de vervoerder  | M602  | € 50  |
 | --- | --- | --- | --- | --- | --- |

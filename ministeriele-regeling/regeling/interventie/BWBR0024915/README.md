@@ -56,29 +56,27 @@ g.  *Verordening 826/2008:* Verordening (EG) Nr. 826/2008 van de Commissie van 
 
 h.  *minister:* Minister van Economische Zaken;  
 
-i.  *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken;  
+i.  *contractant:* degene die met de minister in het kader van deze regeling een contract sluit;  
 
-j.  *contractant:* degene die met de minister in het kader van deze regeling een contract sluit;  
+j.  *melk en zuivelproducten:* boter, room, mageremelkpoeder en ondermelk;  
 
-k.  *melk en zuivelproducten:* boter, room, mageremelkpoeder en ondermelk;  
+k.  *openbare opslag:* aankoop door de minister van boter of mageremelkpoeder tegen een op grond van Europese besluiten vastgestelde gegarandeerde prijs waarna de minister deze producten opslaat;  
 
-l.  *openbare opslag:* aankoop door de minister van boter of mageremelkpoeder tegen een op grond van Europese besluiten vastgestelde gegarandeerde prijs waarna Dienst Regelingen deze producten opslaat;  
+l.  *particuliere opslag:* tijdelijk door de contractant voor eigen rekening en risico opslaan van boter;  
 
-m.  *particuliere opslag:* tijdelijk door de contractant voor eigen rekening en risico opslaan van boter;  
+m.  *bijzondere steun:* verlening van steun op grond van de in dit artikel bedoelde Europese verordeningen voor bepaalde, in die verordeningen genoemde maatregelen ter bevordering van de afzet van melk en zuivelproducten, al dan niet uit openbare opslag;  
 
-n.  *bijzondere steun:* verlening van steun op grond van de in dit artikel bedoelde Europese verordeningen voor bepaalde, in die verordeningen genoemde maatregelen ter bevordering van de afzet van melk en zuivelproducten, al dan niet uit openbare opslag;  
+n.  *interventie:* samenstel van openbare opslag, particuliere opslag en bijzondere steun;  
 
-o.  *interventie:* samenstel van openbare opslag, particuliere opslag en bijzondere steun;  
+o.  *productiebedrijf:* productiebedrijf van boter, ondermelk, mageremelkpoeder of meerdere van deze producten of mengvoeder;  
 
-p.  *productiebedrijf:* productiebedrijf van boter, ondermelk, mageremelkpoeder of meerdere van deze producten of mengvoeder;  
+p.  *NVWA:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-q.  *NVWA:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
+q.  *COKZ:* Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
 
-r.  *COKZ:* Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
+r.  *RIKILT:* Rijks-Kwaliteitsinstituut voor Land- en Tuinbouwproducten;  
 
-s.  *RIKILT:* Rijks-Kwaliteitsinstituut voor Land- en Tuinbouwproducten;  
-
-t. Verordening 1272/2009: Verordening (EU) nr. 1272/2009 van de Commissie van 11 december 2009 tot vaststelling van gemeenschappelijke uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de aankoop en de verkoop van landbouwproducten in het kader van de openbare interventie (PbEU L 349).  
+s. Verordening 1272/2009: Verordening (EU) nr. 1272/2009 van de Commissie van 11 december 2009 tot vaststelling van gemeenschappelijke uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de aankoop en de verkoop van landbouwproducten in het kader van de openbare interventie (PbEU L 349).  
 
 ### Paragraaf  2  
 
@@ -147,9 +145,9 @@ Een erkenning is geldig vanaf de datum van afgifte.
 
 Indien boter in een andere lidstaat van de Europese Unie is vervaardigd en in Nederland een bestemming krijgt op grond van deze regeling: 
 
-a. verstrekt de aanbieder, bedoeld in artikel 20, het originele certificaat, bedoeld in Bijlage IV, Deel I, punt 6, eerste alinea, van Verordening 1272/2009, aan Dienst Regelingen, of  
+a. verstrekt de aanbieder, bedoeld in artikel 20, het originele certificaat, bedoeld in Bijlage IV, Deel I, punt 6, eerste alinea, van Verordening 1272/2009, aan de minister, of  
 
-b. verstrekt de contractant het certificaat, bedoeld in Bijlage II van Verordening 826/2008, aan Dienst Regelingen.   
+b. verstrekt de contractant het certificaat, bedoeld in Bijlage II van Verordening 826/2008, aan de minister.   
 
 ### Artikel  11  
 
@@ -187,12 +185,12 @@ Opslagpartijen boter, vermeld op de inslagopgave, bedoeld in artikel 82, eerste 
 
 ### Artikel  17  
 
-1.  Betalingen van op grond van deze regeling verschuldigde bedragen worden gedaan op rekeningnummer 56.99.95.884 van Dienst Regelingen te Den Haag.   
+1.  Betalingen van op grond van deze regeling verschuldigde bedragen worden gedaan aan de minister.   
 2.  Als dag van betaling geldt de datum waarop het verschuldigde bedrag op het in het eerste lid bedoelde rekeningnummer is bijgeschreven.  
 
 ### Artikel  18  
 
-1.  Onverminderd het bepaalde in artikel 17 kunnen de op grond van deze regeling verschuldigde zekerheden tevens worden gesteld hetzij door betaling in contanten hetzij in de vorm van een aan Dienst Regelingen gericht telefaxbericht, inhoudende een garantie van onbeperkte duur, uitsluitend door die hoofdkantoren van banken, die daartoe met de minister een overeenkomst hebben gesloten.   
+1.  Onverminderd het bepaalde in artikel 17 kunnen de op grond van deze regeling verschuldigde zekerheden tevens worden gesteld hetzij door betaling in contanten hetzij in de vorm van een aan de minister gericht telefaxbericht, inhoudende een garantie van onbeperkte duur, uitsluitend door die hoofdkantoren van banken, die daartoe met de minister een overeenkomst hebben gesloten.   
 2.  Indien de zekerheid wordt gesteld door middel van overschrijving op het in artikel 17, eerste lid, bedoelde rekeningnummer wordt daarbij melding gemaakt van het woord ‘Zekerheid’, en zodanig dat de aard van de zekerheid kenbaar is, in voorkomend geval in combinatie met het desbetreffende contractnummer.  
 
 ### Hoofdstuk  2  
@@ -213,13 +211,13 @@ In dit hoofdstuk wordt onder aanbieder verstaan: degene die boter of mageremelkp
 
 ### Artikel  21  
 
-1.  Een offerte of inschrijving, bedoeld in artikel 5 van Verordening 1272/2009, wordt schriftelijk of per fax gedaan bij Dienst Regelingen met een door Dienst Regelingen vastgesteld formulier.   
+1.  Een offerte of inschrijving, bedoeld in artikel 5 van Verordening 1272/2009, wordt schriftelijk of per fax gedaan bij de minister met een door de minister vastgesteld formulier.   
 2.  Op de enveloppe van een niet per fax ingediende inschrijving vermeldt de aanbieder de zinsnede ‘Inschrijving aankoop boter’.  
 
 ### Artikel  22  
 
 1.  De aanbieder kan partijen boter, bestemd voor aankoop in openbare opslag, schriftelijk of per telefax aanmelden uiterlijk iedere woensdag vóór 17:00 uur voorafgaand aan de week waarin aanlevering aan het door de minister aan te wijzen vrieshuis zal geschieden.   
-2.  De aanbieder dient de in het eerste lid bedoelde vooraanmelding bij Dienst Regelingen in conform een bij Dienst Regelingen op te vragen formulier.  
+2.  De aanbieder dient de in het eerste lid bedoelde vooraanmelding bij de minister in conform een bij de minister op te vragen formulier.  
 
 ### Artikel  23  
 
@@ -237,7 +235,7 @@ c. de kosten van de opslag voor de periode van de dag van inslag in het door de 
 
 ### Artikel  25  
 
-1.  Indien een aanbieder een vooraanmelding, bedoeld in artikel 22 heeft gedaan maar de boter niet is aangeboden, niet aan de voorwaarden bedoeld in artikel 21 is voldaan, of de inschrijving niet kan worden toegewezen op grond van artikel 20 van Verordening 1272/2009, en indien de betreffende boter geen onderwerp meer kan vormen voor een volgende inschrijving, neemt de aanbieder de betreffende boter terug binnen 14 dagen na de datum van het daartoe strekkend bericht van Dienst Regelingen.   
+1.  Indien een aanbieder een vooraanmelding, bedoeld in artikel 22 heeft gedaan maar de boter niet is aangeboden, niet aan de voorwaarden bedoeld in artikel 21 is voldaan, of de inschrijving niet kan worden toegewezen op grond van artikel 20 van Verordening 1272/2009, en indien de betreffende boter geen onderwerp meer kan vormen voor een volgende inschrijving, neemt de aanbieder de betreffende boter terug binnen 14 dagen na de datum van het daartoe strekkend bericht van de minister.   
 2.  In de in het eerste lid bedoelde situatie brengt de minister de kosten van inslag, opslag en uitslag en de bemonsterings- en analysekosten bij de aanbieder in rekening.  
 
 ### Artikel  26  
@@ -255,7 +253,7 @@ Het in Bijlage V, Deel I, punt 6, van Verordening 1272/2009 bedoelde certificaat
 
 ### Artikel  28  
 
-1.  Een offerte of inschrijving, bedoeld in artikel 5 van Verordening 1272/2009, wordt schriftelijk tegen bewijs van ontvangst of per fax gedaan bij Dienst Regelingen met een door Dienst Regelingen vastgesteld formulier.   
+1.  Een offerte of inschrijving, bedoeld in artikel 5 van Verordening 1272/2009, wordt schriftelijk tegen bewijs van ontvangst of per fax gedaan bij de minister met een door de minister vastgesteld formulier.   
 2.  Op de enveloppe van een niet per fax ingediende inschrijving vermeldt de aanbieder de zinsnede ‘Inschrijving aankoop mageremelkpoeder’.  
 
 ### Paragraaf  4  
@@ -353,7 +351,7 @@ Indien de boter of het mageremelkpoeder niet in aanmerking komt voor overname in
 
 ### Artikel  42  
 
-1.  Een inschrijving voor boter en mageremelkpoeder uit openbare opslag, zoals bedoeld in artikel 42 van Verordening 1272/2009, wordt bij Dienst Regelingen ingediend ofwel schriftelijk tegen bewijs van ontvangst, ofwel per fax.   
+1.  Een inschrijving voor boter en mageremelkpoeder uit openbare opslag, zoals bedoeld in artikel 42 van Verordening 1272/2009, wordt bij de minister ingediend ofwel schriftelijk tegen bewijs van ontvangst, ofwel per fax.   
 2.  Op de enveloppe van de niet per telefax ingediende inschrijving vermeldt de aanbieder, voor zover de inschrijving is gericht op de aankoop van mageremelkpoeder: ‘Inschrijving verkoop mageremelkpoeder’ en, voor zover de inschrijving is gericht op de aankoop van boter: ‘Inschrijving verkoop boter’.  
 
 ### Artikel  43  
@@ -362,7 +360,7 @@ In de situatie als bedoeld in artikel 51, derde lid, van Verordening 1272/2009 w
 
 ### Artikel  44  
 
-De koper van het mageremelkpoeder of de boter informeert Dienst Regelingen schriftelijk over de door hem met het vrieshuis of opslagpand overeengekomen datum en het tijdstip van daadwerkelijke uitslag uit het opslagpand of vrieshuis ten minste één werkdag van tevoren, vóór 10:00 uur, onder vermelding van de naam van het opslagpand of vrieshuis, de dag en het tijdstip van uitslag, het verkoopfactuurnummer en de hoeveelheid. 
+De koper van het mageremelkpoeder of de boter informeert de minister schriftelijk over de door hem met het vrieshuis of opslagpand overeengekomen datum en het tijdstip van daadwerkelijke uitslag uit het opslagpand of vrieshuis ten minste één werkdag van tevoren, vóór 10:00 uur, onder vermelding van de naam van het opslagpand of vrieshuis, de dag en het tijdstip van uitslag, het verkoopfactuurnummer en de hoeveelheid. 
 
 ### Artikel  45  
 
@@ -383,7 +381,7 @@ De in artikel 41, derde lid, van Verordening 1272/2009 bedoelde berichten worden
 
 ### Artikel  48  
 
-De koper van het mageremelkpoeder informeert Dienst Regelingen schriftelijk over de door hem met het opslagpand overeengekomen datum en het tijdstip van daadwerkelijke uitslag uit het opslagpand ten minste één werkdag van tevoren, vóór 10:00 uur, onder vermelding van de naam van het opslagpand, de dag en het tijdstip van uitslag, het verkoopfactuurnummer en de hoeveelheid. 
+De koper van het mageremelkpoeder informeert de minister schriftelijk over de door hem met het opslagpand overeengekomen datum en het tijdstip van daadwerkelijke uitslag uit het opslagpand ten minste één werkdag van tevoren, vóór 10:00 uur, onder vermelding van de naam van het opslagpand, de dag en het tijdstip van uitslag, het verkoopfactuurnummer en de hoeveelheid. 
 
 ### Artikel  49  
 
@@ -395,13 +393,13 @@ De koper betaalt het bedrag als bedoeld in artikel 34, tweede lid, van Verordeni
 
 ### Artikel  51  
 
-1.  Het in artikel 28, tweede lid, van Verordening 2799/1999 bedoelde bod wordt bij Dienst Regelingen ingediend ofwel schriftelijk tegen bewijs van ontvangst ofwel per telefax, ofwel door persoonlijke afgifte tegen bewijs van ontvangst.   
+1.  Het in artikel 28, tweede lid, van Verordening 2799/1999 bedoelde bod wordt bij de minister ingediend ofwel schriftelijk tegen bewijs van ontvangst ofwel per telefax, ofwel door persoonlijke afgifte tegen bewijs van ontvangst.   
 2.  Op de enveloppe van de niet per telefax ingediende bieding wordt vermeld: ‘Inschrijving verkoop mageremelkpoeder’.  
 
 ### Artikel  52  
 
-1.  Het bedrijf dat mageremelkpoeder denatureert dient wekelijks en op de derde dag na de periode als bedoeld in artikel 60, eerste lid, het verwerkingsoverzicht conform een bij Dienst Regelingen op te vragen formulier in bij Dienst Regelingen. Van dit verwerkingsoverzicht worden de kolommen A en B en de vervolgbladen A en B ingevuld.   
-2.  Het bedrijf dat mageremelkpoeder rechtstreeks verwerkt tot mengvoeders dient vierwekelijks en op de derde dag na de periode als bedoeld in artikel 60, derde lid, het verwerkingsoverzicht conform een bij Dienst Regelingen op te vragen formulier in bij Dienst Regelingen. Van dit verwerkingsoverzicht worden de kolommen A en C en de vervolgbladen A en C ingevuld.   
+1.  Het bedrijf dat mageremelkpoeder denatureert dient wekelijks en op de derde dag na de periode als bedoeld in artikel 60, eerste lid, het verwerkingsoverzicht conform een bij de minister op te vragen formulier in bij de minister. Van dit verwerkingsoverzicht worden de kolommen A en B en de vervolgbladen A en B ingevuld.   
+2.  Het bedrijf dat mageremelkpoeder rechtstreeks verwerkt tot mengvoeders dient vierwekelijks en op de derde dag na de periode als bedoeld in artikel 60, derde lid, het verwerkingsoverzicht conform een bij de minister op te vragen formulier in bij de minister. Van dit verwerkingsoverzicht worden de kolommen A en C en de vervolgbladen A en C ingevuld.   
 3.  De indiening van het in het eerste respectievelijk tweede lid bedoelde verwerkingsoverzicht geldt tevens als verzoek om vrijgave van de verwerkingszekerheid.  
 
 ### Artikel  53  
@@ -420,7 +418,7 @@ d. de dag van aflevering en de afgeleverde hoeveelheden mengvoeder alsmede de na
 
 ### Artikel  54  
 
-Het in artikel 26, vierde lid, van Verordening 2799/1999 bedoelde bericht wordt geplaatst op het internetadres www.drloket.nl. 
+Het in artikel 26, vierde lid, van Verordening 2799/1999 bedoelde bericht wordt door de minister bekendgemaakt. 
 
 ### Hoofdstuk  3  
 
@@ -429,7 +427,7 @@ Het in artikel 26, vierde lid, van Verordening 2799/1999 bedoelde bericht wordt 
 ### Artikel  55  
 
 1.  Aan degenen die mageremelkpoeder of ondermelk verwerken of doen verwerken tot mengvoeder dan wel magere melkpoeder voor veevoederdoeleinden denatureren of doen denatureren verleent de minister op aanvraag op grond van artikel 99 van Verordening 1234/2007 ter zake van die denaturatie of verwerking steun indien is gebleken dat is voldaan aan de voorwaarden die dienaangaande in Verordening 2799/1999 zijn gesteld.   
-2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij Dienst Regelingen.  
+2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij de minister.  
 
 ### Artikel  56  
 
@@ -442,7 +440,7 @@ Indien aan alle voorwaarden voor het ontvangen van steun is voldaan, betaalt de 
 
 ### Artikel  58  
 
-1.  Het bedrijf dat mageremelkpoeder verwerkt tot mengvoeder dient de aanvraag als bedoeld in artikel 12 van Verordening 2799/1999 in bij Dienst Regelingen.   
+1.  Het bedrijf dat mageremelkpoeder verwerkt tot mengvoeder dient de aanvraag als bedoeld in artikel 12 van Verordening 2799/1999 in bij de minister.   
 2.  De leverancier voegt bij de in artikel 60, eerste lid, bedoelde verwerkingsstaat een overzicht van alle in de desbetreffende periode gedane leveranties als bedoeld in artikel 12 van Verordening 2799/1999. In dit overzicht worden vermeld: 
 
 a. de betreffende factuurnummers;  
@@ -464,9 +462,9 @@ e. de hoeveelheden en de percentages mageremelkpoeder in de betreffende mengvoed
 
 ### Artikel  60  
 
-1.  Het bedrijf dat mageremelkpoeder denatureert, houdt per periode van een kalendermaand een verwerkingsstaat bij conform een bij Dienst Regelingen op te vragen formulier.   
-2.  Het bedrijf dat mageremelkpoeder of ondermelk tot mengvoeder verwerkt, houdt per periode van vier weken een verwerkingsstaat bij conform een bij Dienst Regelingen op te vragen formulier.   
-3.  Een verzoek om steun als bedoeld in artikel 55, eerste lid, wordt tegelijk ingediend met een verwerkingsstaat als bedoeld in het eerste of het tweede lid, conform een formulier dat beschikbaar is op het internetadres www.drloket.nl.  
+1.  Het bedrijf dat mageremelkpoeder denatureert, houdt per periode van een kalendermaand een verwerkingsstaat bij conform een bij de minister op te vragen formulier.   
+2.  Het bedrijf dat mageremelkpoeder of ondermelk tot mengvoeder verwerkt, houdt per periode van vier weken een verwerkingsstaat bij conform een bij de minister op te vragen formulier.   
+3.  Een verzoek om steun als bedoeld in artikel 55, eerste lid, wordt tegelijk ingediend met een verwerkingsstaat als bedoeld in het eerste of het tweede lid, conform een door de minister beschikbaar gesteld formulier.  
 
 ### Artikel  61  
 
@@ -488,7 +486,7 @@ Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoerings
 
 ### Artikel  75  
 
-Een aanvraag om de in artikel 74 bedoelde steun wordt ingediend bij Dienst Regelingen. 
+Een aanvraag om de in artikel 74 bedoelde steun wordt ingediend bij de minister. 
 
 ### Artikel  76  
 
@@ -534,7 +532,7 @@ c. beschikken over een bemonsteringsruimte.
 ### Artikel  79  
 
 1.  Het vrieshuis kan de minister verzoeken om boter onder de in Bijlage 1 vermelde voorwaarden in stellingen op te mogen slaan die na de inslagcontrole door de NVWA worden verzegeld.   
-2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij Dienst Regelingen.  
+2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de minister.  
 
 ### Artikel  80  
 
@@ -542,7 +540,7 @@ De op de inslagopgave, bedoeld in artikel 82, eerste lid, vermelde opslagpartije
 
 ### Artikel  82  
 
-1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk achtentwintig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of per telefax door gebruikmaking van een bij Dienst Regelingen op te vragen formulier.   
+1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk achtentwintig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of per telefax door gebruikmaking van een bij de minister op te vragen formulier.   
 2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
 
 ### Artikel  83  
@@ -576,18 +574,18 @@ De uitslag bedraagt ten minste 1.000 kilogram per opslagpartij met dien verstand
 ### Artikel  85  
 
 1.  De kennisgeving bedoeld in artikel 29 van Verordening 826/2008 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de boter wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
-2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een bij Dienst Regelingen op te vragen formulier.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een bij de minister op te vragen formulier.   
 3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 30 van Verordening 826/2008.   
-4.  Ook de uitslag van partijen boter waarvoor geen steun kan worden verleend, wordt aan Dienst Regelingen gemeld.  
+4.  Ook de uitslag van partijen boter waarvoor geen steun kan worden verleend, wordt aan de minister gemeld.  
 
 ### Artikel  86  
 
-Zo spoedig mogelijk na de uitslag zendt het vrieshuis bevestiging van de uitslag aan Dienst Regelingen. 
+Zo spoedig mogelijk na de uitslag zendt het vrieshuis bevestiging van de uitslag aan de minister. 
 
 ### Artikel  87  
 
 1.  De minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 31 van Verordening 826/2008.   
-2.  De contractant dient een verzoek om een voorschot in bij Dienst Regelingen conform een bij Dienst Regelingen op te vragen formulier.   
+2.  De contractant dient een verzoek om een voorschot in bij de minister conform een bij de minister op te vragen formulier.   
 3.  Het voorschot wordt berekend over alle opslagpartijen waarvan de contractuele opslag in één kalendermaand aanvangt.  
 
 ### Hoofdstuk  6  
@@ -609,12 +607,12 @@ Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoerings
 
 ### Artikel  90  
 
-De aanvraag bedoeld in artikel 89 wordt ingediend conform een daartoe bij Dienst Regelingen op te vragen formulier. 
+De aanvraag bedoeld in artikel 89 wordt ingediend conform een daartoe bij de minister op te vragen formulier. 
 
 ### Artikel  91  
 
 1.  De minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 31 van Verordening 826/2008.   
-2.  De contractant dient een verzoek om een voorschot in bij Dienst Regelingen conform een bij Dienst Regelingen op te vragen formulier.  
+2.  De contractant dient een verzoek om een voorschot in bij de minister conform een bij de minister op te vragen formulier.  
 
 ### Paragraaf  2  
 
@@ -628,7 +626,7 @@ a. het uitbenen, versnijden en verpakken van het rundvlees vindt plaats in een u
 
 b. het bedrijf moet op de locatie waar wordt uitgebeend, versneden en verpakt beschikken over geijkte weegschalen met een afdrukeenheid en afleeseenheid van ten hoogste 100 gram ten behoeve van de afzonderlijke weging van voorvoeten en achtervoeten en dozen met uitgebeend rundvlees;  
 
-c. ten behoeve van de toetsing van een juiste gewichtsvaststelling beschikt de uitsnijderij over van een geldig ijkmerk voorziene toetsgewichten van ten minste 5 kilogram en ten hoogste 25 kilogram, elk voor een totaal gewicht van ten minste 100 kilogram;d. per uit te benen of te versnijden partij rundvlees worden door de uitsnijderij dagelijks bijgewerkte paklijsten opgemaakt volgens een bij Dienst Regelingen op te vragen formulier;  
+c. ten behoeve van de toetsing van een juiste gewichtsvaststelling beschikt de uitsnijderij over van een geldig ijkmerk voorziene toetsgewichten van ten minste 5 kilogram en ten hoogste 25 kilogram, elk voor een totaal gewicht van ten minste 100 kilogram;d. per uit te benen of te versnijden partij rundvlees worden door de uitsnijderij dagelijks bijgewerkte paklijsten opgemaakt volgens een bij de minister op te vragen formulier;  
 
 e. de werkzaamheden van het uitbenen en verpakken vinden plaats op werkdagen tussen 07.00 uur en 17.00 uur en uitsluitend onder toezicht van een ambtenaar van de NVWA;  
 
@@ -649,11 +647,11 @@ h. tijdens het uitbenen en verpakken van het betrokken vlees mag in de uitsnijru
 
 ### Artikel  94  
 
-De contractant meldt de dag, het tijdstip en de plaats van inslag, en, in voorkomend geval, de plaats van de uitbening of versnijding, ten minste 2 werkdagen van tevoren uiterlijk om 10.00 uur schriftelijk aan Dienst Regelingen. Deze melding gebeurt conform een bij Dienst Regelingen op te vragen formulier. 
+De contractant meldt de dag, het tijdstip en de plaats van inslag, en, in voorkomend geval, de plaats van de uitbening of versnijding, ten minste 2 werkdagen van tevoren uiterlijk om 10.00 uur schriftelijk aan de minister. Deze melding gebeurt conform een bij de minister op te vragen formulier. 
 
 ### Artikel  95  
 
-1.  Iedere voor de particuliere opslag aangeboden partij rundvlees gaat vergezeld van een door of namens de contractant opgesteld overzicht conform een bij Dienst Regelingen op te vragen formulier.   
+1.  Iedere voor de particuliere opslag aangeboden partij rundvlees gaat vergezeld van een door of namens de contractant opgesteld overzicht conform een bij de minister op te vragen formulier.   
 2.  Ingeval het in het eerste lid bedoelde formulier betrekking heeft op buitenlandse runderen legt de contractant de volgende documenten over: 
 
 a. een overzicht uit de slachthuisadministratie waarop is vermeld: 
@@ -706,7 +704,7 @@ De contractant toont, op eerste verzoek van de NVWA, door middel van documenten 
 
 ### Artikel  100  
 
-De contractant verstrekt aan Dienst Regelingen per contract een inslagopgave van alle ingeslagen partijen varkensvlees en rundvlees. Hiervoor wordt gebruik gemaakt van een bij Dienst Regelingen op te vragen document. 
+De contractant verstrekt aan de minister per contract een inslagopgave van alle ingeslagen partijen varkensvlees en rundvlees. Hiervoor wordt gebruik gemaakt van een bij de minister op te vragen document. 
 
 ### Artikel  101  
 
@@ -788,9 +786,9 @@ Indien het varkensvlees of rundvlees op een andere plaats wordt ingevroren dan w
 ### Artikel  106  
 
 1.  De kennisgeving bedoeld in artikel 29 van Verordening 826/2008 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer het varkensvlees of rundvlees wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
-2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een bij Dienst Regelingen op te vragen formulier.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een bij de minister op te vragen formulier.   
 3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 30 van Verordening 826/2008.   
-4.  Ook de uitslag van partijen varkensvlees en rundvlees waarvoor geen steun kan worden verleend, wordt aan Dienst Regelingen gemeld.  
+4.  Ook de uitslag van partijen varkensvlees en rundvlees waarvoor geen steun kan worden verleend, wordt aan de minister gemeld.  
 
 ### Paragraaf  5  
 
@@ -807,7 +805,7 @@ Als dag van uitslag als bedoeld in artikel 28, derde lid, van Verordening 826/20
 
 ### Artikel  109  
 
-1.  De contractant verstrekt uiterlijk de vrijdag volgende op de week van feitelijke uitslag aan Dienst Regelingen per afzonderlijk contract een uitslagopgave van de wekelijks uitgeslagen hoeveelheden. Hiertoe wordt gebruik gemaakt van een bij Dienst Regelingen op te vragen formulier.   
+1.  De contractant verstrekt uiterlijk de vrijdag volgende op de week van feitelijke uitslag aan de minister per afzonderlijk contract een uitslagopgave van de wekelijks uitgeslagen hoeveelheden. Hiertoe wordt gebruik gemaakt van een bij de minister op te vragen formulier.   
 2.  De uitslagopgave wordt gevalideerd door het vrieshuis.  
 
 ### Hoofdstuk  6a  
@@ -875,7 +873,7 @@ e. weipoeder dat volgens het verstuivingsprocedé is bereid, van gebruikelijke h
 
 ### Artikel  117  
 
-1.  In het geval een van toepassing zijnde verordening als bedoeld in artikel 1 een beroep op overmacht mogelijk maakt in verband met het niet nakomen van verplichtingen of het niet voldoen aan gestelde voorwaarden, meldt de belanghebbende een geval van overmacht zo spoedig mogelijk schriftelijk aan Dienst Regelingen.   
+1.  In het geval een van toepassing zijnde verordening als bedoeld in artikel 1 een beroep op overmacht mogelijk maakt in verband met het niet nakomen van verplichtingen of het niet voldoen aan gestelde voorwaarden, meldt de belanghebbende een geval van overmacht zo spoedig mogelijk schriftelijk aan de minister.   
 2.  De minister is bevoegd te beslissen of sprake is van overmacht.  
 
 ### Paragraaf  3  
@@ -947,7 +945,7 @@ G. Verburg
 
 – naam en handtekening.   Wanneer na de uitslag van de desbetreffende aangemelde (deel)-hoeveelheid van de partij zich nog boter in de desbetreffende stelling bevindt zal deze bij een volgende controle door de NVWA aan een intensieve controle worden onderworpen.  
 
-10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag bij zowel de vrieshuishouder als bij Dienst Regelingen schriftelijk kenbaar te worden gemaakt.   
+10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag bij zowel de vrieshuishouder als bij de minister schriftelijk kenbaar te worden gemaakt.   
 
 ### Bijlage 2 
 
@@ -999,7 +997,7 @@ G. Verburg
 
 – naam en handtekening. Wanneer na de uitslag van de desbetreffende aangemelde (deel)-hoeveelheid van de partij zich nog vlees in de desbetreffende stelling bevindt, zal deze bij een volgende controle door de NVWA aan een intensieve controle worden onderworpen.    
 
-10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag aan zowel de vrieshuishouder als aan Dienst Regelingen schriftelijk kenbaar te worden gemaakt.    
+10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag aan zowel de vrieshuishouder als aan de minister schriftelijk kenbaar te worden gemaakt.    
 
 ### Bijlage 3 
 
@@ -1011,11 +1009,11 @@ Voor partijen vlees, die buiten de plaats van definitieve opslag worden ingevror
 
 1. Onmiddellijk na de weging wordt met betrekking tot de ingeslagen hoeveelheden door het vrieshuis een inslagbewijs opgemaakt. Dit inslagbewijs bevat ten minste de gegevens zoals vermeld in artikel 97, tweede lid.  
 
-2. Alvorens Dienst Regelingen kan overgaan tot het in behandeling nemen van een aanmelding voor verplaatsing moet Dienst Regelingen in het bezit zijn van de inslagopgave, zoals vermeld in artikel 100.  
+2. Alvorens de minister kan overgaan tot het in behandeling nemen van een aanmelding voor verplaatsing moet de minister in het bezit zijn van de inslagopgave, zoals vermeld in artikel 100.  
 
 3. Na het invriezen wordt het vlees, in afwachting van het verplaatsen naar een ander vrieshuis per contract afzonderlijk en duidelijk gescheiden van andere voorraden, opgeslagen. Elke opslageenheid is voorzien van een kaart, waarop duidelijk leesbaar de gegevens zijn vermeld, bedoeld in artikel 101, tweede lid.  
 
-4. De dag, het tijdstip en de naam en plaats van het vrieshuis, alsmede het contractnummer en de hoeveelheid vlees dat zal worden overgebracht, wordt ten minste 2 werkdagen tevoren uiterlijk om 10.00 uur schriftelijk aan Dienst Regelingen gemeld. De totale hoeveelheid van een contract wordt op dezelfde dag verplaatst.  
+4. De dag, het tijdstip en de naam en plaats van het vrieshuis, alsmede het contractnummer en de hoeveelheid vlees dat zal worden overgebracht, wordt ten minste 2 werkdagen tevoren uiterlijk om 10.00 uur schriftelijk aan de minister gemeld. De totale hoeveelheid van een contract wordt op dezelfde dag verplaatst.  
 
 5. Uitsluitend de gehele hoeveelheid vlees waarvoor een contract is gesloten kan worden verplaatst, met dien verstande dat de overbrenging naar het vrieshuis van opslag binnen de voor varkensvlees en rundvlees geldende inslagtermijn moet hebben plaatsgevonden.  
 
@@ -1023,7 +1021,7 @@ Voor partijen vlees, die buiten de plaats van definitieve opslag worden ingevror
 
 7. Het nieuwe vrieshuis bewaart de onder punt 6 bedoelde inslagbewijzen, tezamen met de inslagbewijzen die door het nieuwe vrieshuis zijn opgemaakt, en legt deze op verzoek van de NVWA tijdens de opslagcontrole aan hem over.   
 
-8. De contractant verstrekt van de inslag in het definitieve vrieshuis aan Dienst Regelingen een inslagopgave zoals bedoeld in artikel 100. Op de inslagopgave vermeldt de contractant tevens: ‘verplaatsing’. Deze inslagopgave is uiterlijk één maand na de inslag in het definitieve vrieshuis in het bezit van Dienst Regelingen.  
+8. De contractant verstrekt van de inslag in het definitieve vrieshuis aan de minister een inslagopgave zoals bedoeld in artikel 100. Op de inslagopgave vermeldt de contractant tevens: ‘verplaatsing’. Deze inslagopgave is uiterlijk één maand na de inslag in het definitieve vrieshuis in het bezit van de minister.  
 
 9. De opslagperiode gaat in op de dag volgend op de dag van inslag in het definitieve vrieshuis van opslag.   
 

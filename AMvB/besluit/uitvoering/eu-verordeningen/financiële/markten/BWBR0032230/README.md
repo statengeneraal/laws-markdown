@@ -441,6 +441,8 @@ Artikelen 465, 467 tot en met 481, 492, 499 en 500.
 | Artikel 14, eerste en tweede lid  | 2  |
 | Artikel 16  | 1  |
 
+#### Verordening (EU) nr. 575/2013 (Kapitaalvereisten) 
+
 ### Deel  1  
 
 #### *Algemene bepalingen* 

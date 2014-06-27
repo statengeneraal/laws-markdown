@@ -50,14 +50,15 @@ G.H. Faber
 
 ### Bijlage 2  
 
-![249776](http://wetten.overheid.nl/Illustration/249776)
-![249777](http://wetten.overheid.nl/Illustration/249777)
-![249778](http://wetten.overheid.nl/Illustration/249778)
+####behorende bij artikel 1, tweede lid , van de Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
+
+![253859](http://wetten.overheid.nl/Illustration/253859)
 
 ### Bijlage 3  
 
-![249779](http://wetten.overheid.nl/Illustration/249779)
-![249780](http://wetten.overheid.nl/Illustration/249780)
+####behorende bij artikel 1, derde lid , van de Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
+
+![253860](http://wetten.overheid.nl/Illustration/253860)
 
 ### Bijlage 4  
 

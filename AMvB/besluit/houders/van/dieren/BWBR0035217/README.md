@@ -1637,17 +1637,270 @@ c. heeft voldoende oppervlak en hoogte voor de hond of honden die erin wordt geh
 
 ### Artikel  3.4  
 
-####fokken met gezelschapsdieren
+####Fokken met gezelschapsdieren
 
 Treedt in werking per 01-07-2014 
 
-Degene die anders dan in de uitoefening van een beroep of een bedrijf met een gezelschapsdier fokt, voorkomt voor zover mogelijk dat de gezondheid en het welzijn van de nakomelingen of het ouderdier wordt benadeeld door bij de wijze waarop met het dier wordt gefokt rekening te houden met de anatomische, fysiologische en gedragskenmerken. 
+1.  Het is verboden te fokken met gezelschapsdieren op een wijze waarop het welzijn en de gezondheid van het ouderdier of de nakomelingen wordt benadeeld.   
+2.  In ieder geval wordt bij het fokken, bedoeld in het eerste lid, voor zover mogelijk voorkomen dat: 
+
+a. ernstige erfelijke afwijkingen en ziekten worden doorgegeven aan of kunnen ontstaan bij nakomelingen;  
+
+b. uiterlijke kenmerken worden doorgegeven aan of kunnen ontstaan bij nakomelingen die schadelijke gevolgen hebben voor welzijn of gezondheid van de dieren;  
+
+c. ernstige gedragsafwijkingen worden doorgegeven aan of kunnen ontstaan bij nakomelingen;  
+
+d. voortplanting op onnatuurlijke wijze plaatsvindt;  
+
+e. het aantal nesten of nakomelingen dat een gezelschapsdier krijgt de gezondheid of het welzijn van dat dier of de nakomelingen benadeelt.     
+3.  Een hond krijgt binnen een aaneengesloten periode van twaalf maanden ten hoogste één nest.   
+4.  Een kat krijgt binnen een aaneengesloten periode van twaalf maanden ten hoogste twee nesten of ten hoogste drie nesten in een aaneengesloten periode van vierentwintig maanden.   
+5.  Op het fokken van paarden (inclusief pony’s) en ezels die anders dan voor landbouwdoeleinden worden gehouden, zijn het eerste en tweede lid, met uitzondering van het tweede lid, onder d, van toepassing.  
 
 ### §  2  
 
-####gereserveerd
+####Het bedrijfsmatig verkopen, afleveren, houden ten behoeve van opvang van of fokken met gezelschapsdieren
 
 Treedt in werking per 01-07-2014 
+
+### Artikel  3.5  
+
+####Begripsbepalingen
+
+Treedt in werking per 01-07-2014 
+
+In deze paragraaf wordt verstaan onder: 
+
+– *beheerder:* degene die dagelijks leiding geeft aan in artikel 3.6, eerste lid, bedoelde activiteiten;  
+
+– *inrichting:* aan één locatie gebonden ruimte of ruimtes, bestemd voor de in artikel 3.6 bedoelde activiteiten.   
+
+### Artikel  3.6  
+
+####Verbod en uitzondering voor niet-bedrijfsmatig handelen
+
+Treedt in werking per 01-07-2014 
+
+1.  Het is verboden gezelschapsdieren te verkopen, ten verkoop in voorraad te houden, af te leveren, te houden ten behoeve van opvang, of te fokken ten behoeve van de verkoop of aflevering van nakomelingen, tenzij daarbij wordt voldaan aan deze paragraaf.   
+2.  Deze paragraaf is niet van toepassing indien degene onder wiens verantwoordelijkheid gezelschapsdieren worden verkocht, ten verkoop in voorraad worden gehouden, afgeleverd, gehouden ten behoeve van opvang, of gefokt ten behoeve van de verkoop of aflevering van nakomelingen, aannemelijk maakt dat er bij de uitoefening van die activiteiten geen sprake is van bedrijfsmatig handelen.  
+
+### Artikel  3.7  
+
+####Verrichten bedrijfsmatige activiteiten in inrichting of onder voorwaarden op tentoonstelling, beurs of markt
+
+Treedt in werking per 01-07-2014 
+
+1.  De activiteiten, bedoeld in artikel 3.6, eerste lid, worden verricht in een inrichting die bij Onze Minister overeenkomstig artikel 3.8 is aangemeld.   
+2.  In afwijking van het eerste lid, is het toegestaan gezelschapsdieren te verkopen, ten verkoop in voorraad te houden of af te leveren buiten een inrichting indien dit plaatsvindt op een tentoonstelling, beurs of markt, voor zover daarbij is voldaan aan de artikelen 3.8, vijfde lid, 3.11, vierde lid, 3.12, derde lid, 3.14, zesde lid, en 3.17 tot en met 3.20.  
+
+### Artikel  3.8  
+
+####Aanmelding inrichting en tentoonstelling, beurs of markt
+
+Treedt in werking per 01-07-2014 
+
+1.  De aanmelding van een inrichting geschiedt door degene onder wiens verantwoordelijkheid de in artikel 3.6, eerste lid, bedoelde activiteiten worden verricht of door de beheerder, indien dat degene is onder wiens verantwoordelijkheid de activiteiten worden verricht. Na de aanmelding wordt aan de inrichting een uniek nummer toegekend.   
+2.  Bij de in het eerste lid bedoelde aanmelding wordt opgave gedaan van de volgende gegevens: 
+
+a. de naam, adres, woonplaats, het burgerservicenummer of het nummer van de inschrijving in het handelsregister van degene onder wiens verantwoordelijkheid de in artikel 3.6 bedoelde activiteiten worden verricht, of, indien die activiteiten worden verricht onder de verantwoordelijkheid van een rechtspersoon, de naam en het adres van vestiging van de rechtspersoon en het nummer van de inschrijving in het handelsregister;  
+
+b. het adres van de inrichting en een beschrijving van de gebouwen en voorzieningen die voor het houden van gezelschapsdieren worden gebruikt of zullen worden gebruikt;  
+
+c. de naam, adres, woonplaats en geboortedatum van de beheerder;  
+
+d. de onder dit besluit vallende activiteiten die in de inrichting worden verricht;  
+
+e. de diergroep of diergroepen waarmee de activiteiten worden verricht;  
+
+f. een kopie van het bewijs van vakbekwaamheid als bedoeld in artikel 3.11, eerste lid, van de op de inrichting werkzame beheerder;  
+
+g. de datum waarop met de uitoefening van de activiteiten een aanvang wordt gemaakt.     
+3.  Voor de aanmelding, bedoeld in het eerste lid, wordt gebruik gemaakt van een middel dat door Onze Minister beschikbaar wordt gesteld.   
+4.  Aanmelding van een inrichting geschiedt voor aanvang van de in artikel 3.6 bedoelde activiteiten.   
+5.  Degene die een tentoonstelling, beurs of markt als bedoeld in artikel 3.7, tweede lid, organiseert, doet uiterlijk twee weken voor het tijdstip waarop de tentoonstelling, beurs of markt aanvang neemt, een melding van het houden van de tentoonstelling, beurs of markt bij Onze Minister en doet daarbij opgave van de volgende gegevens: 
+
+a. de naam, adres, woonplaats en het burgerservicenummer of het nummer van de inschrijving in het handelsregister van degene onder wiens verantwoordelijkheid de tentoonstelling, beurs of markt wordt gehouden, of, indien die activiteiten worden verricht onder de verantwoordelijkheid van een rechtspersoon, de naam en het adres van vestiging van de rechtspersoon en het nummer van de inschrijving in het handelsregister;  
+
+b. het adres en plaats waar de tentoonstelling, beurs of markt plaatsvindt;  
+
+c. de datum of data waarop de tentoonstelling, beurs of markt wordt georganiseerd;  
+
+d. de diergroep of diergroepen die aanwezig zullen zijn op de tentoonstelling, beurs of markt;  
+
+e. een kopie van het bewijs van vakbekwaamheid van de persoon die aanwezig is op de beurs of tentoonstelling, beurs of markt, bedoeld in artikel 3.11, vierde lid.    
+
+### Artikel  3.9  
+
+####Wijziging gegevens
+
+Treedt in werking per 01-07-2014 
+
+1.  Bij wijziging van één of meer van de gegevens, bedoeld in artikel 3.8, tweede lid, wordt binnen vier weken na het intreden daarvan aan Onze Minister melding gemaakt van de wijziging door degene die ten tijde van het intreden van die wijziging op de inrichting verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten.   
+2.  Op de melding, bedoeld in het eerste lid, is artikel 3.8, derde lid, van overeenkomstige toepassing.  
+
+### Artikel  3.10  
+
+####Administratie
+
+Treedt in werking per 01-07-2014 
+
+1.  In een inrichting wordt een deugdelijke administratie bijgehouden van de gezelschapsdieren die in de inrichting verblijven met daarin in ieder geval de volgende gegevens: 
+
+a. naam, adres en woonplaats van degene van wie de gezelschapsdieren afkomstig zijn;  
+
+b. bewijs van inenting van honden en katten.     
+2.  De in het eerste lid bedoelde gegevens worden ten minste twee jaar schriftelijk of digitaal in de administratie van de inrichting bewaard vanaf het tijdstip dat een dier niet meer in de inrichting aanwezig is.   
+3.  Van het bewijs van inenting, bedoeld in het eerste lid, onderdeel b, wordt gedurende een periode van twee jaar schriftelijk of digitaal een kopie in de administratie van de inrichting bewaard.   
+4.  Het eerste lid, onderdeel a, is niet van toepassing op inrichtingen waar gezelschapsdieren gehouden worden ten behoeve van opvang en onbekend is van wie de gezelschapsdieren afkomstig zijn.   
+5.  Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van inrichtingen waar honden worden gehouden ten behoeve van de in artikel 3.6, eerste lid, bedoelde activiteiten, indien de honden overeenkomstig [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) geregistreerd zijn.  
+
+### Artikel  3.11  
+
+####Vakbekwaamheid
+
+Treedt in werking per 01-07-2015 
+
+1.  In de inrichting is een beheerder werkzaam die in het bezit is van een door Onze Minister erkend bewijs van vakbekwaamheid voor de diergroep waarmee activiteiten in de inrichting worden verricht.   
+2.  Een kopie van het in het eerste lid bedoelde bewijs van vakbekwaamheid wordt bij een inspectie ter naleving van dit besluit aan de daartoe aangewezen ambtenaar ter beschikking gesteld.   
+3.  Bij langdurige ziekte, ontslag of overlijden van de beheerder kan, voor de duur van een periode van ten hoogste 12 aaneengesloten maanden, worden afgeweken van het eerste lid met dien verstande dat de persoon die dagelijks leiding in de inrichting geeft over de in artikel 3.6 bedoelde handelingen over voldoende relevante werkervaring beschikt en dit kan aantonen.   
+4.  Degene die een tentoonstelling, beurs of markt als bedoeld in artikel 3.7, tweede lid, organiseert, draagt zorg voor de aanwezigheid van een persoon die een erkend bewijs van vakbekwaamheid bezit als bedoeld in het eerste lid.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het in het eerste lid bedoelde bewijs van vakbekwaamheid.  
+
+### Artikel  3.12  
+
+####Huisvesting en verzorging
+
+Treedt in werking per 01-07-2014 
+
+1.  Onverminderd de artikelen 1.5 tot en met 1.8 wordt een gezelschapsdier gehouden in een daarvoor geschikte ruimte. Dit houdt tenminste in dat: 
+
+a. het dier over voldoende bewegingsruimte beschikt;  
+
+b. de ruimte en de daarin gebruikte materialen zijn aangepast aan de fysiologische en ethologische behoeften van het dier;  
+
+c. het dier zo nodig bescherming wordt geboden tegen slechte weersomstandigheden, roofdieren en gezondheidsrisico’s;  
+
+d. bij huisvesting van een hoogdrachtig of zogend dier, het met haar jongen de beschikking heeft over voldoende en geschikte nestruimte;  
+
+e. het dier niet tengevolge van de wijze waarop het gehuisvest is onnodige angst en stress ervaart;  
+
+f. het aantal en de samenstelling van dieren en diersoorten per verblijf zodanig is dat dit niet het welzijn of de gezondheid van het dier nadelig beïnvloedt.     
+2.  Degene die een tentoonstelling, beurs of markt als bedoeld in artikel 3.7, tweede lid, organiseert, draagt zorg voor geschikte huisvesting van dieren gedurende de tentoonstelling, beurs of markt, die voldoet aan de artikelen 1.5 tot en met 1.8 en het eerste lid, met dien verstande dat dieren als bedoeld in onderdeel d niet worden toegelaten.  
+
+### Artikel  3.13  
+
+####Huisvesting zieke of van ziekte verdachte gezelschapsdieren
+
+Treedt in werking per 01-07-2014 
+
+1.  Een inrichting beschikt over ten minste drie afzonderlijke ruimtes voor het huisvesten en verzorgen van zieke of van ziekte verdachte gezelschapsdieren in afzondering van andere dieren, dan wel over de mogelijkheid deze ruimtes in te richten zodra dit nodig is.   
+2.  De in het eerste lid bedoelde ruimtes zijn: 
+
+a. een quarantaineruimte voor gezelschapsdieren waarvan bij binnenkomst in de inrichting de gezondheidstatus onbekend is of de vaccinatiestatus onbekend of onvolledig is;  
+
+b. een isolatieruimte voor gezelschapsdieren verdacht van een besmettelijke ziekte en dieren met klinische verschijnselen van een besmettelijke ziekte;  
+
+c. een ruimte voor huisvesting van gezelschapsdieren die ziek zijn, maar geen besmettelijke ziekte hebben of niet verdacht worden van het dragen van een besmettelijke ziekte.     
+3.  Gezelschapsdieren geplaatst in de in het tweede lid bedoelde ruimtes, worden solitair gehuisvest, tenzij dat vanuit veterinair oogpunt niet noodzakelijk is.   
+4.  De ruimtes, bedoeld in het tweede lid, onderdelen a en b, vormen een volledig afgescheiden onderdeel van een inrichting.   
+5.  De ruimte, bedoeld in het tweede lid, onderdeel c, kan bestaan uit een gedeelte van het binnenverblijf dat kan worden afgescheiden van overige binnenverblijven en dieren.  
+
+### Artikel  3.14  
+
+####Gezondheid
+
+Treedt in werking per 01-07-2014 
+
+1.  In de inrichting wordt gebruik gemaakt van een protocol waaruit blijkt dat de gezondheid van gezelschapsdieren die in de inrichting verblijven dagelijks gecontroleerd wordt, maatregelen ter voorkoming van ziekten worden genomen en zieke gezelschapsdieren op passende wijze worden verzorgd.   
+2.  Indien verzorging geen of onvoldoende verbetering in de toestand van een ziek gezelschapsdier bewerkstelligt, wordt zo spoedig mogelijk een dierenarts geraadpleegd.   
+3.  Gezelschapsdieren waarvan bij binnenkomst in een inrichting de gezondheid- of vaccinatiestatus onbekend of onvolledig is, worden onmiddellijk in quarantaine geplaatst.   
+4.  Gezelschapsdieren verdacht van een besmettelijke ziekte en dieren met klinische verschijnselen van een besmettelijke ziekte worden na binnenkomst in de inrichting onmiddellijk in een isolatieruimte geplaatst.   
+5.  Een hond of kat mag de quarantaineruimte van de inrichting niet verlaten gedurende ten minste 7 dagen nadat de in artikel 3.15, onderdeel a, bedoelde inentingen hebben plaatsgevonden, tenzij het de teruggave aan de eigenaar betreft.   
+6.  Degene die een tentoonstelling, beurs of markt, als bedoeld in artikel 3.7, tweede lid, organiseert, draagt zorg voor een veterinaire gezondheidscontrole van de dieren voordat toegang wordt verstrekt en laat geen dieren toe verdacht van een besmettelijke ziekte of dieren met klinische verschijnselen van een besmettelijke ziekte.  
+
+### Artikel  3.15  
+
+####Inenting honden en katten
+
+Treedt in werking per 01-07-2014 
+
+Bij ministeriële regeling worden regels gesteld met betrekking tot: 
+
+a. inentingen voor honden en katten die in de inrichting verblijven;  
+
+b. het bewijs van inenting van honden en katten;  
+
+c. inentingen die plaats vinden voordat honden en katten worden verkocht of afgeleverd.   
+
+### Artikel  3.16  
+
+####Huisvesting honden
+
+Treedt in werking per 01-07-2014 
+
+Een hond wordt, passend bij zijn ethologische en fysiologische behoefte, dagelijks in de gelegenheid gesteld tijd door te brengen buiten de ruimte waarin deze gehouden wordt, indien de gezondheidstoestand van de hond zich daar niet tegen verzet. 
+
+### Artikel  3.17  
+
+####Informatieverstrekking bij verkoop of aflevering
+
+Treedt in werking per 01-07-2014 
+
+1.  Bij de verkoop of aflevering van een gezelschapsdier, wordt aan een koper of degene aan wie de aflevering plaatsvindt schriftelijke informatie over het verkochte of afgeleverde gezelschapsdier verstrekt teneinde hem in staat te stellen het gezelschapsdier zo goed mogelijk te verzorgen.   
+2.  Het eerste lid is niet van toepassing indien de koper of degene aan wie de aflevering plaatsvindt een overeenkomstig deze paragraaf geregistreerde inrichting, een circus of een dierentuin is.   
+3.  De in het eerste lid bedoelde informatie heeft in ieder geval betrekking op de verzorging, de huisvesting en het gedrag van het gezelschapsdier en de kosten die gemoeid gaan met het houden van het gezelschapsdier.  
+
+### Artikel  3.18  
+
+####Informatieverstrekking over gezondheidsstatus
+
+Treedt in werking per 01-07-2014 
+
+Bij de verkoop of aflevering van een gezelschapsdier, wordt aan de koper of degene aan wie de aflevering plaatsvindt alle relevante informatie verstrekt met betrekking tot de gezondheidsstatus van het verkochte of afgeleverde gezelschapsdier, waaronder ten minste het bewijs van inenting, bedoeld in artikel 3.15, onderdeel b. 
+
+### Artikel  3.19  
+
+####Verkoopverbod aan personen jonger dan zestien jaar
+
+Treedt in werking per 01-07-2014 
+
+Een gezelschapsdier wordt niet verkocht aan een persoon jonger dan zestien jaar. 
+
+### Artikel  3.20  
+
+####Verpakking
+
+Treedt in werking per 01-07-2014 
+
+Indien een gezelschapsdier bij verkoop of aflevering wordt verpakt, vindt dit op zodanige wijze plaats dat het welzijn of de gezondheid van het gezelschapsdier niet onnodig worden benadeeld. 
+
+### Artikel  3.21  
+
+####Verbod huisvesting of tentoonstelling in etalageruimte
+
+Treedt in werking per 01-07-2014 
+
+Gezelschapsdieren worden niet in een etalageruimte van een inrichting gehuisvest of tentoongesteld. 
+
+### Artikel  3.22  
+
+####Socialisatie
+
+Treedt in werking per 01-07-2014 
+
+Indien een gezelschapsdier in een inrichting verblijft tijdens de periode waarin het dier ontvankelijk is voor socialisatie, wordt ervoor zorg gedragen dat het dier: 
+
+a. went aan de omgang met de mens en relevante diersoorten en aan houderijomstandigheden en  
+
+b. in voldoende mate in de gelegenheid is tot het leren en tonen van soorteigen gedrag.   
+
+### Artikel  3.23  
+
+####Huisvesting honden en katten buiten inrichting
+
+Treedt in werking per 01-07-2014 
+
+Honden en katten die tijdelijk gehouden worden ten behoeve van opvang omdat daarvan afstand is gedaan, of omdat de eigenaar op het moment van opvang onbekend is, kunnen in afwijking van artikel 3.7, eerste lid, en artikel 3.14, derde tot en met vijfde lid, tijdelijk buiten de inrichting gehuisvest worden ten behoeve van socialisatie, resocialisatie, behandeling van gedragsproblemen of intensieve zorgverlening in geval van ziekte, mits de locatie en verblijfsduur uit de administratie van de inrichting blijken. 
 
 ### Hoofdstuk  4  
 
@@ -2057,6 +2310,63 @@ Treedt in werking per 01-07-2014
 
 1.  Inrichtingen waaraan op het tijdstip van inwerkintreding van artikel 5.5 krachtens [artikel 107 van de Gezondheids- en welzijnswet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor dieren vrijstelling van de [artikelen 44, vierde tot en met zevende lid en achtste lid, onderdeel b, tweede volzin, van die wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), is verleend behoeven geen melding als bedoeld in artikel 5.5, eerste lid, te doen.   
 2.  Het eerste lid is niet van toepassing indien in de desbetreffende inrichting vanaf de datum waarop paragraaf 2 van hoofdstuk 5 in werking treedt, meer dan een jaar geen dieren zonder voorafgaande bedwelming volgens de islamitische of israëlitische ritus zijn geslacht.  
+
+### Artikel  6.5  
+
+####Eisen aan tentoonstellingen, beurzen en markten voor gezelschapsdieren
+
+Treedt in werking per 01-07-2014 
+
+1.  De artikelen 3.8, vijfde lid, 3.12, derde lid, en 3.14, zesde lid, zijn gedurende vier maanden vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.   
+2.  Artikel 3.11, vierde lid, is ten aanzien van: 
+
+a. honden en katten gedurende vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing;  
+
+b. andere gezelschapsdieren dan honden en katten gedurende een periode van vijf jaar vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing.    
+
+### Artikel  6.6  
+
+####Vakbekwaamheid bedrijfsmatige activiteiten met gezelschapsdieren
+
+Treedt in werking per 01-07-2014 
+
+1.  Artikel 3.11, eerste lid, is gedurende een periode van vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel niet van toepassing: 
+
+a. indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat de inrichting voor het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit;  
+
+b. ten aanzien van andere gezelschapsdieren dan honden en katten, indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat het een inrichting betreft waarvoor een aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, waar ook andere gezelschapsdieren werden gehouden dan honden en katten.     
+2.  Het erkende bewijs van vakbekwaamheid op basis van het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als bewijs van vakbekwaamheid als bedoeld in artikel 3.11, voor zover activiteiten worden verricht met honden en katten.  
+
+### Artikel  6.7  
+
+####Aanmelding inrichting
+
+Treedt in werking per 01-07-2014 
+
+1.  Een aanmelding bij Onze Minister die is verricht op grond van [artikel 3, eerste lid van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als een aanmelding als bedoeld in artikel 3.8, eerste lid, voor activiteiten met honden of katten, voor zover die activiteiten bij die eerdere aanmelding zijn gemeld.   
+2.  Artikel 3.8, vierde lid, is gedurende een periode van vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing op een inrichting, indien degene onder wiens verantwoordelijkheid de in artikel 3.6 bedoelde activiteiten op die inrichting worden verricht: 
+
+a. desgevraagd kan aantonen dat de inrichting vóór het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), en  
+
+b. binnen vier maanden na het tijdstip van inwerkingtreding van dat artikel, de inrichting bij Onze Minister aanmeldt.    
+
+### Artikel  6.8  
+
+####Huisvesting zieke of van ziekte verdachte gezelschapsdieren
+
+Treedt in werking per 01-07-2014 
+
+1.  Artikel 3.13, eerste lid, en artikel 3.14, derde en vierde lid, zijn gedurende een periode van drie jaar vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.   
+2.  De [artikelen 9](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) en [10 van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor intrekking van dat besluit, blijven van toepassing, gedurende drie jaar vanaf het tijdstip van inwerkingtreding van de artikelen 3.13 en 3.14.  
+
+### Artikel  6.9  
+
+####Intrekking [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) en uitgestelde werking Honden- en kattenbesluit in verband met wijziging [Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)
+
+Treedt in werking per 01-07-2014 
+
+1.  Het [Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) wordt ingetrokken.   
+2.  In afwijking van het eerste lid blijven de artikelen van het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) van toepassing, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, op inrichtingen van waaruit honden en katten worden betrokken door inrichtingen die dierproeven verrichten, met inachtneming van [artikel 27 van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), tot het tijdstip waarop de wijziging van de Wet op de dierproeven ter implementatie van Richtlijn 2010/63 van het Europees Parlement en de Raad van 22 september 2010 betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt (PbEU L 276) in werking is getreden.  
 
 ### Hoofdstuk  7  
 

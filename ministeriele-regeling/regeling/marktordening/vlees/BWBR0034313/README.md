@@ -17,9 +17,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken;  
-
 *merk:* merk als bedoeld in de [artikelen 1, onderdeel w](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), en [8, eerste tot en met vierde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+
+*minister*: Minister van Economische Zaken;
 
 *NMi:* Nederlands Meetinstituut N.V.;  
 
@@ -291,7 +291,7 @@ e. indien van toepassing, het afkeurgewicht.
 
 ### Artikel  2:19  
 
-1.  Een be- of verwerker meldt de tijd van een geplande slachting tijdig aan Dienst Regelingen.   
+1.  Een be- of verwerker meldt de tijd van een geplande slachting tijdig aan de minister.   
 2.  Een be- of verwerker stelt een geschikte kantoorruimte ter beschikking aan de NVWA.   
 3.  Een be- of verwerker zorgt voor zodanige arbeidsomstandigheden dat de minister zijn werkzaamheden goed kan verrichten.  
 
@@ -373,7 +373,7 @@ b. per geclassificeerd slachtrund:
 
 ### Artikel  2:27  
 
-1.  Een be- of verwerker informeert Dienst Regelingen per geslacht slachtrund over: 
+1.  Een be- of verwerker informeert de minister per geslacht slachtrund over: 
 
 a. het nummer van het merk;  
 
@@ -383,8 +383,8 @@ c. de categorie, en
 
 d. het gewicht.     
 2.  Een be- of verwerker controleert of zijn administratie overeenstemt met de gegevens van de classificatielijst, bedoeld in Artikel 2:26, eerste lid.   
-3.  Een be- of verwerker meldt op grond van het tweede lid geconstateerde verschillen aan Dienst Regelingen. Indien van het laatste niet is gebleken wordt aan de classificatielijst, bedoeld in Artikel 2:26, eerste lid, doorslaggevend belang toegekend.   
-4.  De be- of verwerker verzendt de in Artikel 2:26, eerste lid, bedoelde gegevens dagelijks aan Dienst Regelingen.  
+3.  Een be- of verwerker meldt op grond van het tweede lid geconstateerde verschillen aan de minister. Indien van het laatste niet is gebleken wordt aan de classificatielijst, bedoeld in Artikel 2:26, eerste lid, doorslaggevend belang toegekend.   
+4.  De be- of verwerker verzendt de in Artikel 2:26, eerste lid, bedoelde gegevens dagelijks aan de minister.  
 
 ### Artikel  2:28  
 
@@ -399,7 +399,7 @@ d. het gewicht.
 
 ### Artikel  2:29  
 
-1.  Een exploitant van een slachthuis waarin jaarlijks ten minste 20.000 runderen worden geslacht en een grossier die jaarlijks tenminste 10.000 runderen in een slachthuis laat slachten melden de volgende gegevens voor woensdag 9.00 uur aan Dienst Regelingen: 
+1.  Een exploitant van een slachthuis waarin jaarlijks ten minste 20.000 runderen worden geslacht en een grossier die jaarlijks tenminste 10.000 runderen in een slachthuis laat slachten melden de volgende gegevens voor woensdag 9.00 uur aan de minister: 
 
 a. de marktprijs, zijnde het aankoopbedrag franco abattoir, exclusief BTW;  
 
@@ -712,7 +712,7 @@ Het is niet toegestaan wijzingen aan te brengen in de documenten, bedoeld in Art
 
 ### Artikel  3:19  
 
-1.  De exploitant van het slachthuis en de leverancier melden de marktprijs, bedoeld in artikel 25, eerste lid, van Verordening 1249/2008, zijnde het aankoopbedrag franco abattoir, exclusief BTW, elke woensdag voor 9.00 uur aan Dienst Regelingen.   
+1.  De exploitant van het slachthuis en de leverancier melden de marktprijs, bedoeld in artikel 25, eerste lid, van Verordening 1249/2008, zijnde het aankoopbedrag franco abattoir, exclusief BTW, elke woensdag voor 9.00 uur aan de minister.   
 2.  De gegevens, bedoeld in het eerste lid, hebben betrekking op de periode van maandag tot en met zondag die direct aan de woensdag is voorafgegaan.  
 
 ### §  7  
@@ -812,10 +812,10 @@ c. indien van toepassing, het type, bedoeld in Artikel 3:24, tweede lid.
 
 ### Artikel  3:30  
 
-1.  Een be- of verwerker meldt wijzigingen in de bedrijfsvoering die van invloed kunnen zijn op het toezicht op de naleving of de uitvoering van de classificatiewerkzaamheden zo spoedig mogelijk aan Dienst Regelingen.   
+1.  Een be- of verwerker meldt wijzigingen in de bedrijfsvoering die van invloed kunnen zijn op het toezicht op de naleving of de uitvoering van de classificatiewerkzaamheden zo spoedig mogelijk aan de minister.   
 2.  Een be- of verwerker stelt de minister een door hem af te sluiten en alleen voor hem toegankelijke, vochtvrije ruimte ter beschikking. Deze ruimte moet voldoende groot zijn om zowel te kunnen dienen als opslagruimte, als voor het kunnen uitoefenen van de benodigde administratieve werkzaamheden.   
 3.  Een be- of verwerker stelt door de minister benodigde elektriciteit en water om niet ter beschikking.   
-4.  Een be- of verwerker meldt de geplande tijden van slachtingen aan Dienst Regelingen.   
+4.  Een be- of verwerker meldt de geplande tijden van slachtingen aan de minister.   
 5.  Een be- of verwerker draagt zorg voor zodanige arbeidsomstandigheden dat op grond van deze regeling uit te voeren werkzaamheden goed kunnen worden verricht door de minister.  
 
 ### §  9  

@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-Als de beheersinstantie, bedoeld in artikel 5, eerste lid, van de wet wordt aangewezen de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit. 
+Als de beheersinstantie, bedoeld in [artikel 5, eerste lid, van de wet](../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md) wordt aangewezen de Minister van Economische Zaken. 
 
 ### Artikel  3  
 

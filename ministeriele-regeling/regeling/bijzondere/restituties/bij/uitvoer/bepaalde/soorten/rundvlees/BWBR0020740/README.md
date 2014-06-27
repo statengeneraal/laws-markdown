@@ -307,8 +307,8 @@ b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.
 1.  Bij de vervulling van de douaneformaliteiten voor uitvoer wordt één enkel attest uitgebeend vlees, dat betrekking heeft op de totale hoeveelheid uitgebeend vlees overgelegd.   
 2.  Het vervullen van de douaneformaliteiten voor uitvoer voor de totale hoeveelheid vlees waarop het attest uitgebeend vlees betrekking heeft, vindt plaats op hetzelfde tijdstip bij hetzelfde douanekantoor.   
 3.  Na beëindiging van de verificatie viseert de douaneambtenaar het origineel van het identificatieattest onderscheidenlijk het attest uitgebeend vlees door invulling van het daartoe bestemde vak.   
-4.  De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met de aangifte ten invoer toe aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.   
-5.  In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de directeur van de Dienst Regelingen van het Ministerie van Economische Zaken.  
+4.  De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met de aangifte ten invoer toe aan de Minister.   
+5.  In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de Minister.  
 
 ### Paragraaf  5  
 

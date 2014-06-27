@@ -19,8 +19,6 @@ In deze regeling wordt verstaan onder:
 
 –  *minister:* Minister van Economische Zaken;  
 
-–  *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken;  
-
 –  *verordening 1234/2007:* Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PBEU 2007, L 299);  
 
 –  *verordening 543/2011:* Verordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PBEU 2007, L 157);  
@@ -154,7 +152,7 @@ a. voor producentenorganisaties die zijn erkend voor 1 januari 2008 tenminste v
 b. voor producentenorganisaties die zijn erkend na 1 januari 2008 tenminste tien leden, met een gezamenlijke waarde van de afgezette productie van € 25.000.000.     
 2.  Rechtspersonen die eigendom zijn van één natuurlijke persoon worden bij de beoordeling van de erkenningsaanvraag gezamenlijk door de minister aangemerkt als één lid.   
 3.  Indien een lid van een producentenorganisatie een rechtspersoon is waarbij meerdere producenten zijn aangesloten, kan de minister besluiten deze producenten bij de beoordeling van de erkenningsaanvraag mee te tellen bij de bepaling van het aantal leden, bedoeld in het eerste lid.   
-4.  Producentenorganisaties houden een ledenlijst bij volgens een door de minister vastgesteld model, dat verkrijgbaar is bij Dienst Regelingen.  
+4.  Producentenorganisaties houden een ledenlijst bij volgens een door de minister vastgesteld model, dat verkrijgbaar is bij de minister.  
 
 ### Artikel  6  
 
@@ -498,7 +496,7 @@ Indien de minister op grond van artikel 26, tweede lid, aanvullende bewijsstukke
 
 ### Artikel  28  
 
-De producentenorganisatie informeert Dienst Regelingen onverwijld over: 
+De producentenorganisatie informeert de minister onverwijld over: 
 
 a. wijzigingen in hun statuten;  
 
@@ -508,7 +506,7 @@ c. voornemens tot fusie of samenwerking.
 
 ### Artikel  29  
 
-1.  De producentenorganisatie overlegt jaarlijks voor 1 maart de volgende stukken aan Dienst Regelingen: 
+1.  De producentenorganisatie overlegt jaarlijks voor 1 maart de volgende stukken aan de minister: 
 
 a. de statuten;  
 
@@ -525,7 +523,7 @@ f. de evaluatie, bedoeld in artikel 13, zevende lid;
 g. de evaluatie, bedoeld in artikel 21, vijfde lid, en  
 
 h. de jaarrekening over het afgelopen boekjaar.     
-2.  De producentenorganisatie rapporteert jaarlijks uiterlijk op 1 juli van het eerste jaar na het jaar waarop de controles, bedoeld in artikel 13, derde lid, betrekking hebben, aan Dienst Regelingen: 
+2.  De producentenorganisatie rapporteert jaarlijks uiterlijk op 1 juli van het eerste jaar na het jaar waarop de controles, bedoeld in artikel 13, derde lid, betrekking hebben, aan de minister: 
 
 a. de namen van bij de producentenorganisatie aangesloten leden die weigeren om de in artikel 13, derde lid, onderdeel a, bedoelde verklaring te overleggen;  
 
@@ -534,7 +532,7 @@ b. de namen van bij de producentenorganisatie uitgetreden leden die weigeren om 
 c. de voorlopige bevindingen van de producentenorganisatie over de naleving van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 door haar leden, en  
 
 d. de door de producentenorganisatie opgelegde sancties wegens niet naleving van artikel 125 bis, eerste lid, onderdeel c, van verordening 1234/2007 door haar leden.     
-3.  De producentenorganisatie rapporteert jaarlijks uiterlijk op 1 mei van het tweede jaar na het jaar waarop het in artikel 13, vierde lid, bedoelde onderzoek betrekking heeft aan Dienst Regelingen: 
+3.  De producentenorganisatie rapporteert jaarlijks uiterlijk op 1 mei van het tweede jaar na het jaar waarop het in artikel 13, vierde lid, bedoelde onderzoek betrekking heeft aan de minister: 
 
 a. de aantallen producenten per productgroep die aan een onderzoek door een accountant als bedoeld in artikel 13, vierde lid, zijn onderworpen, alsmede hun afzonderlijke omzetcijfers;  
 
@@ -608,8 +606,7 @@ b. na de referentieperiode, bedoeld in artikel 33, voor de producten waarvoor de
 
 a. een overzicht verstrekt van de waarde van de voor het individuele lid afgezette producten waarvoor het lid bij de nieuwe producentenorganisatie is aangesloten, met gebruikmaking van een door de minister vastgesteld model, en  
 
-b. een rapportage verstrekt van een extern accountant waarin de juistheid van het in onderdeel a bedoelde overzicht wordt bevestigd.     
-3.  Het in het tweede lid, onderdeel a, bedoelde model is verkrijgbaar bij Dienst Regelingen.  
+b. een rapportage verstrekt van een extern accountant waarin de juistheid van het in onderdeel a bedoelde overzicht wordt bevestigd.    
 
 ### Artikel  37  
 
@@ -660,8 +657,7 @@ De waarde van de afgezette productie die is gerealiseerd door verkoop van produc
 
 a. de definitieve opgave van de waarde van de afgezette productie, met gebruikmaking van een door de minister vastgesteld model, en  
 
-b. de in het eerste lid bedoelde controleverklaring.     
-3.  De in het eerste en tweede lid, onderdeel a, bedoelde modellen zijn verkrijgbaar bij Dienst Regelingen.  
+b. de in het eerste lid bedoelde controleverklaring.    
 
 ### Titel  2  
 
@@ -674,8 +670,7 @@ b. de in het eerste lid bedoelde controleverklaring.
 a. bijdragen naar rato van waarde of hoeveelheid van de door het lid binnen het grondgebied van de Europese Unie geproduceerde en via de producentenorganisatie afgezette producten waarvoor de producentenorganisatie is erkend, en  
 
 b. absolute bijdragen per lid.     
-2.  De producentenorganisatie stelt ter uitvoering van artikel 69, tweede lid, onderdeel c, van verordening 543/2011, met gebruikmaking van een door de minister vastgesteld model, een overzicht op van de financiële bijdrage aan het actiefonds van de leden en de producentenorganisatie zelf.   
-3.  Het in het tweede lid bedoeld model is verkrijgbaar bij Dienst Regelingen.  
+2.  De producentenorganisatie stelt ter uitvoering van artikel 69, tweede lid, onderdeel c, van verordening 543/2011, met gebruikmaking van een door de minister vastgesteld model, een overzicht op van de financiële bijdrage aan het actiefonds van de leden en de producentenorganisatie zelf.  
 
 ### Artikel  42  
 
@@ -1042,8 +1037,7 @@ a. bouwtekeningen welk deel van de uitgaven subsidiabele ruimten en subsidiabele
 
 b. facturen op naam van de producentenorganisatie de aanneem- of bouwsom, en  
 
-c. een uitsplitsing, met gebruikmaking van een model vastgesteld door de minister, van subsidiabele en niet subsidiabele oppervlakte en elementen en bijbehorende uitgaven.     
-5.  Het model, bedoeld in het derde lid, onderdeel c, en het vierde lid, onderdeel c, is verkrijgbaar bij Dienst Regelingen.  
+c. een uitsplitsing, met gebruikmaking van een model vastgesteld door de minister, van subsidiabele en niet subsidiabele oppervlakte en elementen en bijbehorende uitgaven.    
 
 ### Artikel  68  
 
@@ -1134,8 +1128,7 @@ b. wat het capaciteitsbeslag en het gebruik van de subsidiabele applicaties is.
 
 ### Artikel  76  
 
-1.  Producentenorganisaties houden voor alle duurzame productiemiddelen die zijn opgenomen in een lopend operationeel programma, met gebruikmaking van een door de minister vastgesteld model, een actueel register bij.   
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+Producentenorganisaties houden voor alle duurzame productiemiddelen die zijn opgenomen in een lopend operationeel programma, met gebruikmaking van een door de minister vastgesteld model, een actueel register bij.
 
 ### Paragraaf  2  
 
@@ -1154,8 +1147,7 @@ c. een energiebalans, op basis van een door een deskundige:
 
 1° opgestelde technische specificatie, en  
 
-2° gemaakte berekeningen van de verwachte energiestromen en de verwachte energiebesparing.       
-3.  Het in het eerste lid bedoelde formulier is verkrijgbaar bij Dienst Regelingen.  
+2° gemaakte berekeningen van de verwachte energiestromen en de verwachte energiebesparing.      
 
 ### Artikel  78  
 
@@ -1195,9 +1187,7 @@ De minister kan uitgaven voor investeringen in energiebesparingen niet subsidiab
 
 a. de offertes behorend bij de aanvraag, en  
 
-b. de verwachte waterbesparing per systeem.    
-
-3. Het in het eerste lid bedoelde formulier is verkrijgbaar bij Dienst Regelingen.   
+b. de verwachte waterbesparing per systeem.     
 
 ### Artikel  84  
 
@@ -1214,8 +1204,7 @@ b. een overzicht van de bereikte waterbesparing aan de hand van een vergelijking
 1° een meting van de beginsituatie, en  
 
 2° een meting van de gerealiseerde situatie na ingebruikname van de investering.       
-2.  In geval van leidingwater wordt de bereikte waterbesparing, bedoeld in het eerste lid, onderdeel b, onderbouwd aan de hand van de jaarafrekening van het waterleidingbedrijf.   
-3.  Het formulier, bedoeld, in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+2.  In geval van leidingwater wordt de bereikte waterbesparing, bedoeld in het eerste lid, onderdeel b, onderbouwd aan de hand van de jaarafrekening van het waterleidingbedrijf.  
 
 ### Artikel  86  
 
@@ -1386,8 +1375,7 @@ b. op welke locatie(s) het plantgoed is aangeplant, gemarkeerd op een bedrijfska
 c. hoeveel areaal er is aangeplant, en  
 
 d. hoeveel planten er per ras zijn aangeplant.     
-2.  Op verzoek van de minister overlegt de producentenorganisatie voor de zaden en het plantgoed, bedoeld in het eerste lid, het plantenpaspoort, bedoeld in richtlijn 2000/29.   
-3.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+2.  Op verzoek van de minister overlegt de producentenorganisatie voor de zaden en het plantgoed, bedoeld in het eerste lid, het plantenpaspoort, bedoeld in richtlijn 2000/29.  
 
 ### Artikel  98  
 
@@ -1461,8 +1449,7 @@ d. licentiecontract(en) en het marketingplan vooraf ter goedkeuring voorlegt.
 
 4° het aantal planten per ras.     
 3.  Op verzoek van de minister verstrekt de producentenorganisatie het plantenpaspoort, bedoeld in richtlijn 2000/29, van de zaden en het plantgoed, bedoeld in het eerste lid.   
-4.  Uitgaven van de producentenorganisatie voor een volledige overname van een licentie zijn niet subsidiabel.   
-5.  Het model, bedoeld in het tweede lid, is verkrijgbaar bij Dienst Regelingen.  
+4.  Uitgaven van de producentenorganisatie voor een volledige overname van een licentie zijn niet subsidiabel.  
 
 ### Artikel  104  
 
@@ -1541,14 +1528,12 @@ c. vochtmeetapparatuur;
 d. apparatuur voor het bepalen van het mineralengehalte en pH, of  
 
 e. voorzieningen voor dosering en menging van meststoffen.     
-3.  De producentenorganisatie overlegt bij de indiening van het operationeel programma aan de minister, met gebruik van een door de minister vastgesteld formulier, per lid een projectplan met projectbegroting, voorzien van bijbehorende offertes.   
-4.  Het formulier, bedoeld in het derde lid, is verkrijgbaar bij Dienst Regelingen.  
+3.  De producentenorganisatie overlegt bij de indiening van het operationeel programma aan de minister, met gebruik van een door de minister vastgesteld formulier, per lid een projectplan met projectbegroting, voorzien van bijbehorende offertes.  
 
 ### Artikel  110  
 
 1.  De producentenorganisatie overlegt bij de indiening van de steunaanvraag aan de minister, met gebruikmaking van een door de minister vastgesteld formulier, voor de investering, bedoeld in artikel 109, een opgave van de gerealiseerde besparing op het meststoffenverbruik.   
-2.  De berekening van de gerealiseerde besparing op het meststoffenverbruik, bedoeld in het eerste lid, vindt plaats op basis van een mineralenregistratie voor zover het mineralenverbruik in het jaar voor de uitvoering van de investering vergeleken is met het mineralenverbruik gedurende één jaar na ingebruikname van de investering.   
-3.  Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+2.  De berekening van de gerealiseerde besparing op het meststoffenverbruik, bedoeld in het eerste lid, vindt plaats op basis van een mineralenregistratie voor zover het mineralenverbruik in het jaar voor de uitvoering van de investering vergeleken is met het mineralenverbruik gedurende één jaar na ingebruikname van de investering.  
 
 ### Artikel  111  
 
@@ -1572,8 +1557,7 @@ c. afdekzeilen van bassins en silo’s voor wateropslag ter voorkoming van algen
 
 a. een omschrijving van de verwachte verbetering van de waterkwaliteit per systeem, en  
 
-b. een technische specificatie van de leverancier van het systeem of een erkende deskundige ten behoeve van de beoordeling van de te bereiken waterbesparing.     
-3.  Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+b. een technische specificatie van de leverancier van het systeem of een erkende deskundige ten behoeve van de beoordeling van de te bereiken waterbesparing.    
 
 ### Artikel  113  
 
@@ -1585,8 +1569,7 @@ b. de gerealiseerde waterbesparing.
 2.  De opgave, bedoeld in het eerste lid, vindt plaats aan de hand van berekeningen en metingen op basis van een vergelijking tussen het moment voor de ingebruikname van de investering en het moment één jaar na ingebruikname van de investering.   
 3.  In geval van omgekeerde osmose als bedoeld in artikel 111, tweede lid, onderdeel a, overlegt de producentenorganisatie aan de minister bij de indiening van de steunaanvraag een opgave van de reductie van natrium en chloor aan de hand van een vergelijking van de metingen voor uitvoering van de investering en één jaar na ingebruikname van de investering.   
 4.  In geval van afdekzeilen als bedoeld in artikel 111, tweede lid, onderdeel c, overlegt de producentenorganisatie aan de minister bij de indiening van de steunaanvraag een opgave van de reductie van algengroei op basis van een vergelijking tussen het moment voor de ingebruikname van de investering en het moment één jaar na ingebruikname van de investering.   
-5.  De vergelijking, bedoeld in het vierde lid, vindt plaats op basis van metingen van O<sub>2</sub> gehalte, welke minimaal 80% is, en de troebelheid, welke lager of gelijk is aan 1 Nephelometric Turbidity Unit, genomen in de periode van juni tot en met september bij een watertemperatuur van tenminste 15 °C.   
-6.  Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+5.  De vergelijking, bedoeld in het vierde lid, vindt plaats op basis van metingen van O<sub>2</sub> gehalte, welke minimaal 80% is, en de troebelheid, welke lager of gelijk is aan 1 Nephelometric Turbidity Unit, genomen in de periode van juni tot en met september bij een watertemperatuur van tenminste 15 °C.  
 
 ### Artikel  114  
 
@@ -1868,7 +1851,7 @@ m. Milieukeur bestemd voor bewerkte en verwerkte producten.
 
 ### Artikel  136  
 
-1.  Bij de indiening van de steunaanvraag overlegt de producentenorganisatie, met gebruikmaking van een model vastgesteld door de minister, voor de uitgaven, bedoeld in artikel 135, eerste lid, aan de minister een overzicht van: 
+Bij de indiening van de steunaanvraag overlegt de producentenorganisatie, met gebruikmaking van een model vastgesteld door de minister, voor de uitgaven, bedoeld in artikel 135, eerste lid, aan de minister een overzicht van: 
 
 a. het aantal deelnemende tot de producentenorganisatie of haar leden behorende bedrijven per zorgsysteem;  
 
@@ -1876,8 +1859,7 @@ b. de toe- en afname van het aantal deelnemers ten opzichte van het voorgaand ja
 
 c. het aantal gecertificeerde deelnemers, en  
 
-d. het aantal en percentage gecertificeerde bedrijven ten opzichte van het totaal aantal tot de producentenorganisatie of haar leden behorende bedrijven.     
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+d. het aantal en percentage gecertificeerde bedrijven ten opzichte van het totaal aantal tot de producentenorganisatie of haar leden behorende bedrijven.   
 
 ### Artikel  137  
 
@@ -1911,8 +1893,7 @@ b. een kwaliteitsmanager;
 c. een kwaliteitsspecialist, en  
 
 d. een interne auditor.     
-3.  Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie aan de minister, met gebruikmaking van een formulier vastgesteld door de minister, een opgave van het aantal gekeurde partijen per product en het percentage van de afgekeurde partijen.   
-4.  Het formulier, bedoeld in het tweede lid, onderdeel b, en derde lid, is verkrijgbaar bij Dienst Regelingen.  
+3.  Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie aan de minister, met gebruikmaking van een formulier vastgesteld door de minister, een opgave van het aantal gekeurde partijen per product en het percentage van de afgekeurde partijen.  
 
 ### Artikel  141  
 
@@ -2008,8 +1989,7 @@ c. de niet-gedeclareerde monsters of analyses die wel onderdeel uitmaken van het
 d. de uitkomsten van de uitgevoerde analyses en percentage afwijkingen bij de waardering van het totale aantal uitgevoerde analyses, en  
 
 e. de acties die de producentenorganisatie heeft ondernomen als gevolg van de uitkomsten, bedoeld in onderdeel d.     
-2.  De producentenorganisatie verstrekt op verzoek van de minister bij de steunaanvraag rapporten van de uitgevoerde analyses, bedoeld in het eerste lid.   
-3.  Het model, bedoeld in het eerste lid, onderdeel a, is verkrijgbaar bij Dienst Regelingen.  
+2.  De producentenorganisatie verstrekt op verzoek van de minister bij de steunaanvraag rapporten van de uitgevoerde analyses, bedoeld in het eerste lid.  
 
 ### Artikel  149  
 
@@ -2271,8 +2251,7 @@ a. een overzicht, met gebruikmaking van een model vastgesteld door de minister, 
 
 b. het resultaat van het marketingplan waaruit blijkt hoe de producentenorganisatie zich in de markt met het betreffende ras heeft onderscheiden.     
 3.  De producentenorganisatie beschikt over de afleverbonnen voor de in het eerste lid bedoelde zaden en plantgoed.   
-4.  Uitgaven als bedoeld in het eerste lid voor een volledige overname van een licentie zijn niet subsidiabel.   
-5.  Het model, bedoeld in het tweede lid, onderdeel a, is verkrijgbaar bij Dienst Regelingen.  
+4.  Uitgaven als bedoeld in het eerste lid voor een volledige overname van een licentie zijn niet subsidiabel.  
 
 ### Artikel  167  
 
@@ -2763,12 +2742,11 @@ b. de beoogde effecten, en
 
 c. de resultaten met betrekking tot de onderdelen kwaliteitsverbetering en milieureducties over gewasbeschermingsmiddelen, mineralen en energie.     
 3.  Bij de indiening van de steunaanvraag zendt de producentenorganisatie op verzoek van de minister een selectie van de evaluatierapporten, bedoeld in het eerste lid.   
-4.  De evaluatierapporten, bedoeld in het eerste lid, van elk deelnemend lid zijn opgenomen in de administratie van de producentenorganisatie.   
-5.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+4.  De evaluatierapporten, bedoeld in het eerste lid, van elk deelnemend lid zijn opgenomen in de administratie van de producentenorganisatie.  
 
 ### Artikel  207  
 
-1.  Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie in geval van de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212, 214 en 222, met gebruikmaking van een door de minister vastgesteld model, aan de minister: 
+Bij de indiening van de steunaanvraag verstrekt de producentenorganisatie in geval van de uitgaven voor advies en begeleiding ten behoeve van de teelt, bedoeld in de artikelen 208, 209, 211, 212, 214 en 222, met gebruikmaking van een door de minister vastgesteld model, aan de minister: 
 
 a. de naam en aanvoernummer of nummer van het lid;  
 
@@ -2788,8 +2766,7 @@ e. conform de overeenkomst tussen producentenorganisatie en voorlichter:
 
 f. het totaalbedrag per lid per gewas en indien van toepassing met inbegrip van het door de voorlichter rechtstreeks aan het lid gefactureerde gedeelte, en  
 
-g. het subsidiabele percentage.     
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+g. het subsidiabele percentage.   
 
 ### Paragraaf  2  
 
@@ -2883,8 +2860,7 @@ d. het areaal;
 
 e. het totaalbedrag per lid per gewas en indien van toepassing met inbegrip van het door de voorlichter teeltbegeleider rechtstreeks aan het lid gefactureerde gedeelte, en  
 
-f. het subsidiabele percentage.     
-3.  Het model, bedoeld in het tweede lid, is verkrijgbaar bij Dienst Regelingen.  
+f. het subsidiabele percentage.    
 
 ### Artikel  214  
 
@@ -3135,8 +3111,7 @@ i. de totale waarde van het verzekerde risico;
 
 j. het percentage van de betaalde premie ten opzichte van het verzekerd bedrag, en  
 
-k. het percentage subsidiabel deel ten opzichte van het verzekerd bedrag.     
-5.  Het model, bedoeld in het vierde lid, is verkrijgbaar bij Dienst Regelingen.  
+k. het percentage subsidiabel deel ten opzichte van het verzekerd bedrag.    
 
 ### Paragraaf  5  
 
@@ -3422,7 +3397,7 @@ c. een opgave per deelnemende producent van:
 | d.  | biologisch geteelde witlofpennen  | 50%  |
 
 3.  De producentenorganisatie onderbouwt de uitgaven aan de hand van de tarieven, bedoeld in het tweede lid, bij de indiening van de steunaanvraag, met gebruikmaking van een door de minister vastgesteld model.   
-4.  Het in het derde lid bedoelde model is verkrijgbaar bij Dienst Regelingen.   
+4.  Vervallen.   
 5.  Uitgaven voor uitgangsmateriaal van rassen en proefrassen zijn niet subsidiabel, indien de rassen of proefrassen niet: 
 
 a. in het Nederlandse rassenregister zijn ingeschreven, of  
@@ -3482,13 +3457,12 @@ a. de meerkosten, bedoeld in het eerste lid, door middel van een vergelijking tu
 
 b. de uitgaven, bedoeld in het tweede lid.     
 4.  De kosten van gecoat zaad worden bij de prijsvergelijking, bedoeld in het derde lid, onderdeel a, buiten beschouwing gelaten.   
-5.  De producentenorganisatie beschikt over de afleverbonnen of plantenpaspoorten van het zaad, bedoeld in artikel 260, eerste lid.   
-6.  Het model, bedoeld in het derde lid, is verkrijgbaar bij Dienst Regelingen.  
+5.  De producentenorganisatie beschikt over de afleverbonnen of plantenpaspoorten van het zaad, bedoeld in artikel 260, eerste lid.  
 
 ### Artikel  262  
 
 1.  De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag de uitgaven, bedoeld in artikel 260, eerste lid, met gebruikmaking van een door de minister vastgesteld model.   
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.   
+2.  Vervallen.   
 3.  De producentenorganisatie beschikt over de afleverbonnen of plantenpaspoorten van het zaad, bedoeld in het eerste lid.  
 
 ### Artikel  263  
@@ -3519,7 +3493,7 @@ b. officieel zijn toegelaten op de lijst van autorisaties voor het in het verkee
 ### Artikel  265  
 
 1.  De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag de uitgaven, bedoeld in artikel 263, eerste lid, met gebruikmaking van een door de minister vastgesteld model.   
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.   
+2.  Vervallen.   
 3.  De producentenorganisatie beschikt over de afleverbonnen of plantenpaspoorten van het plantmateriaal, bedoeld in artikel 263, eerste lid.  
 
 ### Artikel  266  
@@ -3566,13 +3540,11 @@ Voor de uitgaven, bedoeld in artikel 266 en 267, eerste lid, geldt een forfaitai
 ### Artikel  269  
 
 1.  De producentenorganisatie verzoekt de minister bij het meedelen van de raming van de middelen, bedoeld in artikel 103 octies, tweede lid, van verordening 1234/2007 om goedkeuring van de lijst van overige biologische gewasbeschermingsmiddelen als bedoeld in artikel 266.   
-2.  De producentenorganisatie onderbouwt het effect van biologische en geïntegreerde bestrijding als bedoeld in artikel 266 en artikel 267, eerste lid, op het terugdringen van het gebruik van werkzame stof uit chemische gewasbeschermingsmiddelen, met gebruikmaking van een door de minister vastgesteld model, aan de hand van een jaarlijkse opgave van het totale gebruik aan werkzame stof in kilogram per hectare opgeven, uitgesplitst naar gewas(groep) aan de hand van registraties van de teeltbedrijven.   
-3.  Het in het derde lid bedoelde model is verkrijgbaar bij Dienst Regelingen.  
+2.  De producentenorganisatie onderbouwt het effect van biologische en geïntegreerde bestrijding als bedoeld in artikel 266 en artikel 267, eerste lid, op het terugdringen van het gebruik van werkzame stof uit chemische gewasbeschermingsmiddelen, met gebruikmaking van een door de minister vastgesteld model, aan de hand van een jaarlijkse opgave van het totale gebruik aan werkzame stof in kilogram per hectare opgeven, uitgesplitst naar gewas(groep) aan de hand van registraties van de teeltbedrijven.  
 
 ### Artikel  270  
 
-1.  De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag de uitgaven, bedoeld in artikel 266 en artikel 267, eerste lid, met gebruikmaking van een door de minister vastgesteld model.   
-2.  Het model, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+De producentenorganisatie onderbouwt bij de indiening van de steunaanvraag de uitgaven, bedoeld in artikel 266 en artikel 267, eerste lid, met gebruikmaking van een door de minister vastgesteld model. 
 
 ### Artikel  271  
 
@@ -3607,8 +3579,7 @@ c. de uitgaven onderdeel uitmaken van een operationeel programma dat is goedgeke
 a. of zij declareert op ingaande of uitgaande fuststromen, en  
 
 b. wat de verhouding is tussen ingaande en uitgaande fuststromen.     
-2.  De producentenorganisatie overlegt bij indiening van de steunaanvraag, met gebruikmaking van een door de minister vastgesteld model, een overzicht van roulaties per type fust.   
-3.  Het model, bedoeld in het tweede lid, is verkrijgbaar bij Dienst Regelingen.  
+2.  De producentenorganisatie overlegt bij indiening van de steunaanvraag, met gebruikmaking van een door de minister vastgesteld model, een overzicht van roulaties per type fust.  
 
 ### Paragraaf  6  
 
@@ -3638,8 +3609,7 @@ a. ISO 14001 Milieu, en
 
 b. Skal bereiding, verpakking, handel en opslag.     
 4.  Uitgaven voor GLN codes in het kader van GlobalGAP en uitgaven voor certificering van groenlabelkassen zijn niet subsidiabel.   
-5.  De producentenorganisatie overlegt bij de indiening van de steunaanvraag, met gebruikmaking van een model vastgesteld door de minister, cijfers met betrekking tot de deelname van producenten aan de systemen, bedoeld in het tweede lid.   
-6.  Het model, bedoeld in het vierde lid, is verkrijgbaar bij Dienst Regelingen.  
+5.  De producentenorganisatie overlegt bij de indiening van de steunaanvraag, met gebruikmaking van een model vastgesteld door de minister, cijfers met betrekking tot de deelname van producenten aan de systemen, bedoeld in het tweede lid.  
 
 ### Artikel  276  
 
@@ -3784,7 +3754,7 @@ f. wat de gevolgen van deze wijziging zijn voor de uitvoering van het operatione
 
 1.  Wijzigingen van subactiviteiten die zijn opgenomen in titel 3 van dit hoofdstuk worden door de producentenorganisatie: 
 
-a. gemeld aan Dienst Regelingen in de eerst volgende kwartaalrapportage, en  
+a. gemeld aan de minister in de eerst volgende kwartaalrapportage, en  
 
 b. in geval van nieuwe investeringen en aanvullende acties gemotiveerd aan de hand van offertes of facturen.    
 
@@ -3812,25 +3782,22 @@ b. geheel buiten de invloedsfeer van de producentenorganisatie liggen, en
 c. niet het gevolg zijn van een risicovolle planning door de producentenorganisatie.     
 2.  Producentenorganisaties laten een extern accountant een controle uitvoeren en een controleverklaring afleggen, met gebruikmaking van een door de minister vastgesteld model, over de naleving van de in het eerste lid bedoelde voorwaarden.   
 3.  Producentenorganisaties overleggen de verklaring, bedoeld in het derde lid, uiterlijk op 15 mei van het jaar na het jaar waarvoor de subsidie wordt aangevraagd aan de minister.   
-4.  De minister besluit of de uitgaven, bedoeld in het eerste lid, subsidiabel zijn.   
-5.  Het model, bedoeld in het derde lid, is verkrijgbaar bij Dienst Regelingen.  
+4.  De minister besluit of de uitgaven, bedoeld in het eerste lid, subsidiabel zijn.  
 
 ### Artikel  291  
 
 1.  Producentenorganisaties laten een extern accountant de juistheid van de bewijsstukken, bedoeld in artikel 69, tweede lid, onderdelen a, c, d, f, en i, van verordening 543/2011, controleren en laten de bewijsstukken door de accountant waarmerken.   
 2.  Producentenorganisaties laten een extern accountant een controle uitvoeren op de naleving van de punten, bedoeld in artikel 69, tweede lid, onderdelen e, g en h van verordening 543/2011.   
 3.  De in het eerste en tweede lid bedoelde accountant stelt op basis van de door hem uitgevoerde controle een controleverklaring op met gebruikmaking van een door de minister vastgesteld model.   
-4.  De in het derde lid bedoelde controleverklaring geldt als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdelen a en c tot en met i van verordening 543/2011.   
-5.  Het model, bedoeld in het derde lid, is verkrijgbaar bij Dienst Regelingen.  
+4.  De in het derde lid bedoelde controleverklaring geldt als bewijsstuk als bedoeld in artikel 69, tweede lid, onderdelen a en c tot en met i van verordening 543/2011.  
 
 ### Artikel  292  
 
-1.  Producentenorganisaties overleggen ter uitvoering van artikel 106, eerste lid, van verordening 543/2011 jaarlijks tegelijk met de indiening van de steunaanvraag: 
+Producentenorganisaties overleggen ter uitvoering van artikel 106, eerste lid, van verordening 543/2011 jaarlijks tegelijk met de indiening van de steunaanvraag: 
 
 a. een digitale ledenlijst per 31 december van het jaar waarop de steunaanvraag betrekking heeft met gebruikmaking van een door de minister vastgesteld formulier, en  
 
-b. een parafenlijst van tekeningbevoegde personen binnen de producentenorganisatie.     
-2.  Het formulier, bedoeld in het eerste lid, onderdeel a, is verkrijgbaar bij Dienst Regelingen.  
+b. een parafenlijst van tekeningbevoegde personen binnen de producentenorganisatie.   
 
 ### Artikel  293  
 
@@ -3894,8 +3861,7 @@ a. eerste rapportage: 15 mei van het jaar waarop het verzoek om gedeeltelijke b
 
 b. tweede rapportage: 15 augustus van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft, en  
 
-c. derde rapportage: 15 november van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft.     
-6.  Het model, bedoeld in het vierde lid, is verkrijgbaar bij Dienst Regelingen.  
+c. derde rapportage: 15 november van het jaar waarop het verzoek om gedeeltelijke betaling betrekking heeft.    
 
 ### Artikel  296  
 
@@ -3908,7 +3874,7 @@ c. derde rapportage: 15 november van het jaar waarop het verzoek om gedeeltelij
 
 ### Artikel  297  
 
-1.  Producentenorganisaties overleggen jaarlijks ter uitvoering van artikel 97, eerste lid, van verordening 543/2011 uiterlijk op 15 februari een jaarverslag als bedoeld in artikel 96, eerste lid, van verordening 543/2011, aan Dienst Regelingen.   
+1.  Producentenorganisaties overleggen jaarlijks ter uitvoering van artikel 97, eerste lid, van verordening 543/2011 uiterlijk op 15 februari een jaarverslag als bedoeld in artikel 96, eerste lid, van verordening 543/2011, aan de minister.   
 2.  Het jaarverslag, bedoeld in het eerste lid, bevat ten aanzien van de tijdens het vorig jaar uitgevoerde operationele programma, bedoeld in artikel 96, tweede lid, van verordening 543/2011: 
 
 a. een beschrijving van de geplande en daadwerkelijke uitgevoerde werkzaamheden voor het betreffende jaar per activiteit;  
@@ -3934,17 +3900,15 @@ h. een motivering van afwijkingen tussen de geplande en daadwerkelijk gerealisee
 
 ### Artikel  298  
 
-Producentenorganisaties overleggen uiterlijk op 15 februari van het jaar dat volgt op het laatste jaar van uitvoering van het operationeel programma, het eindverslag, bedoeld in artikel 96, vierde lid, van verordening 543/2011, aan Dienst Regelingen. 
+Producentenorganisaties overleggen uiterlijk op 15 februari van het jaar dat volgt op het laatste jaar van uitvoering van het operationeel programma, het eindverslag, bedoeld in artikel 96, vierde lid, van verordening 543/2011, aan de minister. 
 
 ### Artikel  299  
 
-1.  Ter uitvoering van artikel 97, onderdeel b, van verordening 543/2011 overleggen producentenorganisaties jaarlijks, uiterlijk op 25 oktober, aan Dienst Regelingen de informatie, bedoeld in bijlage XIV van verordening 543/2011, met gebruikmaking van een door de minister vastgesteld formulier.   
-2.  Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+Ter uitvoering van artikel 97, onderdeel b, van verordening 543/2011 overleggen producentenorganisaties jaarlijks, uiterlijk op 25 oktober, aan de minister de informatie, bedoeld in bijlage XIV van verordening 543/2011, met gebruikmaking van een door de minister vastgesteld formulier.
 
 ### Artikel  300  
 
-1.  De producentenorganisatie overlegt in het laatste uitvoeringsjaar van het operationeel programma uiterlijk op 15 februari, met gebruikmaking van een door de minister vastgesteld formulier, een tussenevaluatie als bedoeld in artikel 126, derde lid, van verordening 543/2011 aan de minister.   
-2.  Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij Dienst Regelingen.  
+De producentenorganisatie overlegt in het laatste uitvoeringsjaar van het operationeel programma uiterlijk op 15 februari, met gebruikmaking van een door de minister vastgesteld formulier, een tussenevaluatie als bedoeld in artikel 126, derde lid, van verordening 543/2011 aan de minister.
 
 ### Hoofdstuk  7  
 
@@ -4462,7 +4426,7 @@ De forfaits zijn bepaald op basis van de berekeningen door het LEI van de meerop
 
 ####Indiening van aanvragen voor rassen, die nog niet in de lijst zijn opgenomen
 
-De lijst kan door de minister uitgebreid worden met nog niet beoordeelde rassen. Producentenorganisaties kunnen hiervoor per email een verzoek indienen bij het Dienst Regelingen. Het verzoek dient onderbouwd te worden met een NAK rasbeschrijving of een rasbeschrijving van het zaadbedrijf, waaruit in ieder geval de naam van het ras (of de voorlopige aanduiding), het type tomaat en het vruchtgewicht blijken. Rassen die niet ingeschreven zijn in ‘het Nederlandse rassenregister of ‘de Lijst Autorisaties voor het in het verkeer brengen van rassen die nog niet officieel zijn toegelaten’ worden niet in aanmerking genomen. 
+De lijst kan door de minister uitgebreid worden met nog niet beoordeelde rassen. Producentenorganisaties kunnen hiervoor per email een verzoek indienen bij de minister. Het verzoek dient onderbouwd te worden met een NAK rasbeschrijving of een rasbeschrijving van het zaadbedrijf, waaruit in ieder geval de naam van het ras (of de voorlopige aanduiding), het type tomaat en het vruchtgewicht blijken. Rassen die niet ingeschreven zijn in ‘het Nederlandse rassenregister of ‘de Lijst Autorisaties voor het in het verkeer brengen van rassen die nog niet officieel zijn toegelaten’ worden niet in aanmerking genomen. 
 
 ### Bijlage  V  
 

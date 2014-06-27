@@ -22,7 +22,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Voor de melding, bedoeld in [artikel 3](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md) en [artikel 4, onderdeel e, van de wet](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md), wordt gebruik gemaakt van het voor de desbetreffende melding door de Dienst Regelingen van het ministerie verstrekte formulier.   
+1.  Voor de melding, bedoeld in [artikel 3](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md) en [artikel 4, onderdeel e, van de wet](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md), wordt gebruik gemaakt van het voor de desbetreffende melding door de Minister verstrekte formulier.   
 2.  De melding geschiedt door toezending van een volledig ingevuld en ondertekend formulier en eventuele bijlagen.   
 3.  De melding, bedoeld in [artikel 4, onderdeel e, van de wet](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md), vindt plaats binnen vier weken na de verplaatsing van de nertsenhouderij.  
 
@@ -40,7 +40,7 @@ b. een kopie van een verklaring afgelegd door de vervreemder waaruit blijkt dat 
 
 Als ambtenaren als bedoeld in [artikel 5 van de wet](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md), belast met het toezicht op de naleving van [die wet](../../../../../../../wet/wet/verbod/pelsdierhouderij/BWBR0032739/README.md) en de daarop berustende bepalingen, worden aangewezen: 
 
-a. de ambtenaren van de Dienst Regelingen van het ministerie;  
+a. de ambtenaren van de Rijksdienst voor Ondernemend Nederland van het ministerie;  
 
 b. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het ministerie.   
 

@@ -8,9 +8,9 @@ Overwegende, dat het gewenst is een nieuwe regeling vast te stellen voor het ver
 Gehoord het Bosschap en de Bosbouwvoorlichtingsraad;
 Besluiten:    
 
-###Artikel 1 
+### Artikel  1  
 
-In deze regeling wordt verstaan onder:*minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;*eigenaar:* natuurlijke persoon of rechtspersoon die krachtens eigendom of enig ander zakelijk recht dan wel krachtens enig duurzaam persoonlijk recht het genot heeft van de grond.
+In deze regeling wordt verstaan onder: *minister:* Minister van Economische Zaken;*eigenaar:* natuurlijke persoon of rechtspersoon die krachtens eigendom of enig ander zakelijk recht dan wel krachtens enig duurzaam persoonlijk recht het genot heeft van de grond. 
 
 ### Artikel  2  
 
@@ -44,14 +44,14 @@ a. indien deze bestaat uit bomen behorende tot de geslachten populus of salix, t
 b. indien deze bestaat uit de andere boomsoorten genoemd in artikel 3, onder b, tussen 25 en 40 jaar na het moment van aanleg.    
 3.  In afwijking van het bepaalde in het vorige lid mag de houtopstand, nadat de minister daartoe toestemming heeft gegeven, worden geveld binnen de termijn van 15 onderscheidenlijk 25 jaar na het moment van aanleg, indien ten minste 3200 m² hout per hectare kan worden geoogst, dat geschikt is voor industriële toepassing.  
 
-###Artikel 6 
+### Artikel  6  
 
-Aanvragen voor een bijdrage als bedoeld in artikel 2, kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994. Zij dienen te worden ingediend bij Dienst Regelingen.
+Aanvragen voor een bijdrage als bedoeld in artikel 2, kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994.  
 
-###Artikel 7 
+### Artikel  7  
 
-1. De minister kan de eigenaar een termijn stellen waarbinnen de bebossing dient plaats te vinden.
-2. De bijdrage wordt uitbetaald nadat door of namens de minister is vastgesteld, dat de bebossing heeft plaatsgevonden in overeenstemming met de bepalingen van deze regeling. Hiertoe dient de eigenaar binnen vier weken na de aanleg van het bos schriftelijk te verklaren dat de bebossing heeft plaatsgevonden. Deze verklaring dient te worden gericht aan de minister en te worden ingediend bij Dienst Regelingen.
+1.  De minister kan de eigenaar een termijn stellen waarbinnen de bebossing dient plaats te vinden.   
+2.  De bijdrage wordt uitbetaald nadat door of namens de minister is vastgesteld, dat de bebossing heeft plaatsgevonden in overeenstemming met de bepalingen van deze regeling. Hiertoe dient de eigenaar binnen vier weken na de aanleg van het bos schriftelijk te verklaren dat de bebossing heeft plaatsgevonden.   
 
 ### Artikel  8  
 

@@ -43,19 +43,17 @@ n. *onderwijsbeleid:* het beleid van de Minister gericht op behoud en versterkin
 
 o. *primaire opleidingen:* opleidingen voor beroepen en ondernemerschap in de landbouw, tuinbouw en veeteelt en voor beroepen die dienstverlenend zijn aan de uitoefening van de landbouw, tuinbouw en veeteelt, die zijn opgenomen in de bijlage bij deze regeling;  
 
-p. *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken;  
+p.  *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
 
-q.  *groene opleidingsschool:* partnerschap tussen Stoas Hogeschool en instellingen en afdelingen die in gezamenlijkheid toekomstige leraren voor een groot gedeelte van hun tijd op de werkplek opleiden;  
+q.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-r.  *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie, bedoeld in [artikel 5a.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+r.  *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.  
 
-s.  *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend.  
+s. *organisatie van het bedrijfsleven:* organisatie die de belangen behartigt van het bedrijfsleven in de sectoren landbouw, natuurlijke omgeving en voedsel, waaronder in de topsectoren Agro-Food en Tuinbouw en Uitgangsmaterialen;  
 
-t. *organisatie van het bedrijfsleven:* organisatie die de belangen behartigt van het bedrijfsleven in de sectoren landbouw, natuurlijke omgeving en voedsel, waaronder in de topsectoren Agro-Food en Tuinbouw en Uitgangsmaterialen;  
+t. *landelijke agenda:* de landelijke agenda, bedoeld in artikel 17;  
 
-u. *landelijke agenda:* de landelijke agenda, bedoeld in artikel 17;  
-
-v. *meerjarig investeringsprogramma:* het programma, bedoeld in artikel 18.  
+u. *meerjarig investeringsprogramma:* het programma, bedoeld in artikel 18.  
 
 ### Paragraaf  2  
 
@@ -263,7 +261,7 @@ Aanvragen tot subsidieverlening als bedoeld in artikel 27 kunnen worden ingedien
 
 ### Artikel  30  
 
-1.  Een aanvraag tot verlening van subsidie wordt ingediend bij Dienst Regelingen door middel van een formulier dat door die dienst ter beschikking wordt gesteld formulier.   
+1.  Een aanvraag tot verlening van subsidie wordt ingediend bij de Minister door middel van een formulier dat door de Minister ter beschikking wordt gesteld.   
 2.  De aanvraag omvat tenminste de volgende onderdelen: 
 
 a. het soort activiteit, zoals bedoeld in artikel 28, waarvoor subsidie wordt gevraagd;  
@@ -306,7 +304,7 @@ h. een begroting van de uitvoering, waaruit de subsidiabele kosten, het gevraagd
 
 ### Artikel  33  
 
-1.  De ontvanger van de subsidie dient binnen vier maanden na afronding van de activiteiten waarvoor subsidie is verstrekt, of, indien de activiteiten niet zijn uitgevoerd of niet zijn afgerond, binnen vier maanden na afloop van de periode, bedoeld in artikel 32, tweede lid, bij Dienst Regelingen de aanvraag in voor de vaststelling van de subsidie met een financieel verslag, vergezeld van een activiteitenverslag.   
+1.  De ontvanger van de subsidie dient binnen vier maanden na afronding van de activiteiten waarvoor subsidie is verstrekt, of, indien de activiteiten niet zijn uitgevoerd of niet zijn afgerond, binnen vier maanden na afloop van de periode, bedoeld in artikel 32, tweede lid, bij de Minister de aanvraag in voor de vaststelling van de subsidie met een financieel verslag, vergezeld van een activiteitenverslag.   
 2.  Indien de ontvanger een instelling is neemt hij de bestemming en besteding van de subsidie tevens op in de jaarrekening, gespecificeerd naar het doel waarvoor deze is verstrekt.   
 3.  het activiteitenverslag, bedoeld in het eerste lid, omvat tenminste: 
 

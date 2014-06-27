@@ -771,30 +771,31 @@ De IND beoordeelt op grond van [artikel 3.6, vijfde lid, Vb](../../../../../AMvB
 
 ####Hoofdverblijf
 
-De IND beoordeelt of de vreemdeling het hoofdverblijf, als bedoeld in [artikel 18, eerste lid, aanhef en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft verplaatst aan de hand van feiten en omstandigheden van feitelijke aard. De IND neemt in ieder geval aan dat sprake is van verplaatsing van het hoofdverblijf buiten Nederland als één van de volgende gevallen zich voordoet: 
+De IND beoordeelt of de vreemdeling het hoofdverblijf, als bedoeld in [artikel 18, eerste lid, aanhef en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), heeft verplaatst aan de hand van feiten en omstandigheden van feitelijke aard. De IND neemt in ieder geval aan dat sprake is van verplaatsing van het hoofdverblijf buiten Nederland als één van de volgende gevallen zich voordoet: 
 
-* de vreemdeling heeft bij zijn vertrek uit Nederland gebruikgemaakt van een remigratieregeling, waaronder een regeling van de [Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md);  
+a. de vreemdeling heeft bij zijn vertrek uit Nederland gebruikgemaakt van een remigratieregeling, waaronder een regeling van de [Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md);  
 
-* de vreemdeling heeft meer dan zes achtereenvolgende maanden buiten Nederland verbleven, tenzij hij aannemelijk maakt dat de overschrijding van deze zes maanden te wijten is aan omstandigheden die buiten zijn schuld zijn gelegen; of  
+b. de vreemdeling heeft meer dan zes achtereenvolgende maanden buiten Nederland verbleven, tenzij hij aannemelijk maakt dat de overschrijding van deze zes maanden te wijten is aan omstandigheden die buiten zijn schuld zijn gelegen; of  
 
-* de vreemdeling heeft voor het derde achtereenvolgende jaar meer dan vier achtereenvolgende maanden buiten Nederland verbleven, tenzij hij aannemelijk maakt dat het centrum van zijn activiteiten niet naar het buitenland is verlegd.   De IND neemt aan dat geen sprake is van verplaatsing van het hoofdverblijf buiten Nederland als de vreemdeling: 
+c. de vreemdeling heeft voor het derde achtereenvolgende jaar meer dan vier achtereenvolgende maanden buiten Nederland verbleven, tenzij hij aannemelijk maakt dat het centrum van zijn activiteiten niet naar het buitenland is verlegd.   
+### *Ad b.* 
+
+De IND merkt verblijf buiten Nederland als gevolg van detentie aan als een omstandigheid die te wijten is aan de vreemdeling, mits de detentie het gevolg is van een daadwerkelijke rechterlijke veroordeling voor het plegen van een strafbaar feit. Bij lagere strafoplegging door een hogere rechterlijke instantie wordt het gedeelte van de straf dat ten onrechte is opgelegd, buiten beschouwing gelaten. De IND merkt verblijf buiten Nederland als gevolg van detentie niet aan als een omstandigheid die te wijten is aan de vreemdeling als de detentie het gevolg is van een veroordeling wegens een gedraging die in Nederland niet strafbaar is gesteld. De IND neemt aan dat geen sprake is van verplaatsing van het hoofdverblijf buiten Nederland als de vreemdeling: 
 
 a. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en in het kader van de voltooiing van zijn studie in Nederland tijdelijk hoger onderwijs in het buitenland gaat volgen. Tijdelijkheid wordt niet aangenomen als de periode van het volgen van hoger onderwijs in het buitenland langer is dan een jaar aaneengesloten;  
 
 b. een verblijfsvergunning regulier voor bepaalde tijd heeft voor het verrichten van arbeid die geheel of gedeeltelijk buiten Nederland plaatsvindt;  
 
-c. de echtgenoot/partner is van een ambtenaar, bedoeld in artikel 17, eerste lid, of artikel 8, derde of vierde lid, van het reglement van dienst van het Ministerie van BUZA, die uitgezonden is (geweest) naar een Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland;  
+c. de echtgenoot/partner is van een ambtenaar, bedoeld in artikel 17, eerste lid, of artikel 8, derde of vierde lid, van het reglement van dienst van het Ministerie van BUZA, die uitgezonden is (geweest) naar een Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland;  
 
 d. is achtergelaten in het land van herkomst en zich zo snel mogelijk tot de Nederlandse overheid (gemeente, diplomatieke of consulaire vertegenwoordiging, IND of Vreemdelingenpolitie) heeft gewend om naar Nederland te kunnen terugkeren;  
 
 e. Nederland heeft verlaten voor de vervulling van de militaire dienstplicht en binnen zes maanden na beëindiging van de dienstplicht naar Nederland is teruggekeerd;  
 
-f. buiten Nederland gedetineerd is of is geweest en binnen zes maanden na beëindiging van de detentie naar Nederland is teruggekeerd;  
+f. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ heeft en langer dan zes maanden arbeid buiten Nederland verricht mits de vreemdeling aan de voorwaarden blijft voldoen;  
 
-g. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘arbeid als kennismigrant’ heeft en langer dan zes maanden arbeid buiten Nederland verricht mits de vreemdeling aan de voorwaarden blijft voldoen;  
-
-h. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’ heeft en niet langer dan acht maanden buiten Nederland verblijft mits de vreemdeling aan de voorwaarden blijft voldoen.  
-###Ad d.
+g. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘vermogende vreemdeling’ heeft en niet langer dan acht maanden buiten Nederland verblijft mits de vreemdeling aan de voorwaarden blijft voldoen.   
+### *Ad d.* 
 
 Wat ‘zo snel mogelijk’ is, beoordeelt de IND per geval, waarbij de IND rekening houdt met de moeilijkheden die de positie van de achtergelaten vreemdeling met zich mee heeft gebracht.  
 ### 6.2.2  

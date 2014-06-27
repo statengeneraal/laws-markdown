@@ -752,6 +752,16 @@ De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassi
 
 De artikelen 4a, eerste lid, onderdeel c, en 38, zoals deze luidden op de dag voor de inwerkingtreding van de [Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md), blijven van toepassing op de alleenstaande ouder die op de dag voor inwerkingtreding van de Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden een ontheffing heeft op grond van artikel 38, gedurende de duur van de ontheffing, doch ten hoogste gedurende zes maanden na inwerkingtreding van die wet. 
 
+### Artikel  63h  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten aanzien van de persoon wiens eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van artikel XXXI van de Wet werk en zekerheid blijft artikel 5 van toepassing zoals dat luidde op de dag voor inwerkingtreding. 
+
+### Artikel  63i  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten aanzien van de persoon wiens recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is ontstaan voor de dag van inwerkingtredingvan artikel XXXI van de Wet werk en zekerheid blijft artikel 5 van toepassing zoals dat luidde op de dag voor inwerkingtreding. 
+
 ### Hoofdstuk  VIII  
 
 ####Slotbepalingen 

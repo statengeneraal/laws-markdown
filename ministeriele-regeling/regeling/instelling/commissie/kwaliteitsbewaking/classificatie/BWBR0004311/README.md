@@ -21,7 +21,7 @@ c. het doen afnemen van periodieke vergelijkende indelingen, in elk geval voorzo
 
 d. het verstrekken van certificaten, indien het de commissie is gebleken, dat is voldaan aan de in onderdeel a bedoelde vereisten, dan wel in voorkomend geval het intrekken daarvan; 
 
-e. het aan Dienst Regelingen in voorkomende gevallen mededeling doen van afwijkingen welke zijn geconstateerd bij de uitoefening van de in onderdeel c van dit lid bedoelde werkzaamheden.   
+e. het aan de Minister van Economische Zaken in voorkomende gevallen mededeling doen van afwijkingen welke zijn geconstateerd bij de uitoefening van de in onderdeel c van dit lid bedoelde werkzaamheden.   
 
 ### Artikel  1a  
 

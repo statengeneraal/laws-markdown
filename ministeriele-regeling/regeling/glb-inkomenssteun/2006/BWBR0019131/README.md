@@ -31,7 +31,7 @@ Besluit:
 
 a.  *minister:*minister van Economische Zaken;  
 
-b.  *DR:* Dienst Regelingen van het Ministerie van Economische Zaken;  
+b.  *Rijksdienst voor Ondernemend Nederland:* Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken;  
 
 c.  *NVWA:* de Nederlandse Voedsel- en Warenautoriteit;  
 
@@ -111,8 +111,8 @@ b. de in artikel 6 van verordening 73/2009 bedoelde minimumeisen inzake de goede
 ### Artikel  4  
 
 1.  De minister kan met inachtneming van artikel 4, eerste lid, van verordening 1122/2009 bepalen dat het landbouwers verboden is blijvend grasland om te zetten in land voor andere vormen van grondgebruik, behoudens voorafgaande ontheffing.   
-2.  Een verzoek tot ontheffing wordt ingediend op een door DR vastgesteld formulier dat door de landbouwer volledig en naar waarheid is ingevuld, ondertekend en gedagtekend.   
-3.  Bij de indiening van het verzoek tot ontheffing legt de landbouwer alle bewijsstukken over die DR nodig acht voor de beoordeling van het verzoek.  
+2.  Een verzoek tot ontheffing wordt ingediend op een door de minister vastgesteld formulier dat door de landbouwer volledig en naar waarheid is ingevuld, ondertekend en gedagtekend.   
+3.  Bij de indiening van het verzoek tot ontheffing legt de landbouwer alle bewijsstukken over die de minister nodig acht voor de beoordeling van het verzoek.  
 
 ### Artikel  5  
 
@@ -462,7 +462,7 @@ c. de installatie van het noodzakelijke materieel voor de werking van de integra
 1.  De landbouwer kan slechts één aanvraag tot steunverlening per jaar indienen op grond van deze paragraaf.   
 2.  De landbouwer komt alleen voor steun op grond van artikel 29, eerste lid, in aanmerking voor activiteiten die zijn verricht op of na de beslissing, bedoeld in artikel 34, derde lid.   
 3.  De landbouwer realiseert het investeringsplan of de door de minister bepaalde onderdelen daarvan binnen de termijn die de minister heeft gesteld in de beschikking tot steunverlening.   
-4.  De landbouwer dient de aanvragen op grond van deze paragraaf in bij de Directeur DR met gebruikmaking van een daartoe door DR verstrekt formulier en verklaart daarbij dat hij zich bewust is van de voorwaarden voor verkrijging van deze steun.  
+4.  De landbouwer dient de aanvragen op grond van deze paragraaf in bij de minister met gebruikmaking van een daartoe door de minister verstrekt formulier en verklaart daarbij dat hij zich bewust is van de voorwaarden voor verkrijging van deze steun.  
 
 ### Artikel  32  
 
@@ -646,7 +646,7 @@ Een landbouwer komt uitsluitend in aanmerking voor steun op grond van deze parag
 
 a. de totale oppervlakte van de vaarpercelen waarvoor hij steun op grond van deze paragraaf ontvangt tenminste 0,5 hectare bedraagt;  
 
-b. hij in de verzamelaanvraag heeft aangegeven in te stemmen met de verwerking door DR van de persoonsgegevens die betrekking hebben op de subsidie voor het uitrijden van ruige mest die DR heeft verkregen in het kader van de subsidieaanvraag op grond van de Subsidieverordening natuur- en landschapsbeheer, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies.   
+b. hij in de verzamelaanvraag heeft aangegeven in te stemmen met de verwerking door de minister van de persoonsgegevens die betrekking hebben op de subsidie voor het uitrijden van ruige mest die de minister heeft verkregen in het kader van de subsidieaanvraag op grond van de Subsidieverordening natuur- en landschapsbeheer, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies.   
 
 ### Paragraaf  6  
 
@@ -813,9 +813,9 @@ Vervallen per 01-04-2009
 
 1.  De landbouwer die aanspraak maakt op steun in het kader van een van de in artikel 2, eerste lid, onder 2, bedoelde steunregelingen, maakt gebruik van de verzamelaanvraag, tenzij deze regeling een specifieke aanvraagprocedure voorschrijft.   
 2.  Voor de verzamelaanvraag maakt de landbouwer gebruik van een door de minister vastgesteld formulier dat door de landbouwer volledig en naar waarheid is ingevuld, ondertekend en gedagtekend.   
-3.  De verzamelaanvraag wordt in de periode van 1 april tot en met 15 mei ingediend bij DR.   
+3.  De verzamelaanvraag wordt in de periode van 1 april tot en met 15 mei ingediend bij de minister.   
 4.  Bij de verzamelaanvraag legt de landbouwer alle bewijsstukken over die het betrokken betaalorgaan nodig acht voor de beoordeling van de aanvraag.   
-5.  Van de wijziging, verbetering of intrekking van de verzamelaanvraag overeenkomstig Deel II, Titel II, van verordening 1122/2009 stelt de landbouwer DR schriftelijk in kennis.   
+5.  Van de wijziging, verbetering of intrekking van de verzamelaanvraag overeenkomstig Deel II, Titel II, van verordening 1122/2009 stelt de landbouwer de minister schriftelijk in kennis.   
 6.  De landbouwer die aanspraak maakt op steun, bedoeld in artikel 24, eerste lid, verstrekt tevens de volgende informatie bij de verzamelaanvraag: 
 
 a. toestemming aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling,  
@@ -839,7 +839,7 @@ c. de verklaring, bedoeld in artikel 38i, derde lid, onderdeel d.
 
 ### Artikel  55a  
 
-1.  De landbouwer die gebruik wil maken van artikel 10, maar geen toeslagrechten in eigendom heeft op 15 mei 2010, vraagt toeslagrechten aan door het indienen van een door DR vastgesteld aanvraagformulier bij de Directeur DR.   
+1.  De landbouwer die gebruik wil maken van artikel 10, maar geen toeslagrechten in eigendom heeft op 15 mei 2010, vraagt toeslagrechten aan door het indienen van een door de minister vastgesteld aanvraagformulier bij de minister.   
 2.  De landbouwer dient het aanvraagformulier, bedoeld in het eerste lid, uiterlijk in op 15 mei 2010.  
 
 ### Artikel  55b  
@@ -849,7 +849,7 @@ c. de verklaring, bedoeld in artikel 38i, derde lid, onderdeel d.
 3.  Een aanvraag en de gegevens, bedoeld in het tweede lid, mogen met expliciete toestemming van de verkoper ook met aanvraag van de koper worden ingediend.   
 4.  De landbouwer die gebruik wil maken van artikel 11, eerste lid, onderdeel c, verstrekt een kopie van het verhuurcontract en het aantal hectaren waarvoor hij de toeslagrechten verhuurt.   
 5.  De landbouwer die gebruik wil maken van artikel 16, eerste lid, verstrekt ten genoegen van de minister de benodigde informatie voor het vaststellen van het voldoen aan de voorwaarden van deze regeling.   
-6.  De landbouwer dient de gegevens, bedoeld in dit artikel in voor 15 mei 2010, met een door DR vastgesteld formulier, bij de Directeur DR.  
+6.  De landbouwer dient de gegevens, bedoeld in dit artikel in voor 15 mei 2010, met een door de minister vastgesteld formulier, bij de minister.  
 
 ### Artikel  55c  
 
@@ -858,7 +858,7 @@ c. de verklaring, bedoeld in artikel 38i, derde lid, onderdeel d.
 
 ### Artikel  55d  
 
-1.  Aanvragen of gegevensverstrekkingen op grond van dit artikel worden bij de minister ingediend met gebruikmaking van het daartoe door DR verstrekte formulier en gaan vergezeld van een verklaring dat de landbouwer zich bewust is van alle voorwaarden voor het verkrijgen van de steun.   
+1.  Aanvragen of gegevensverstrekkingen op grond van dit artikel worden bij de minister ingediend met gebruikmaking van het daartoe door de minister verstrekte formulier en gaan vergezeld van een verklaring dat de landbouwer zich bewust is van alle voorwaarden voor het verkrijgen van de steun.   
 2.  De landbouwer die steun aanvraagt op grond van artikel 29, eerste lid, of artikel 37a, eerste lid: 
 
 a. dient de aanvraag, bedoeld in artikel 30, eerste lid, respectievelijk artikel 38, eerste lid, in bij de minister in de periode van 1 maart 2014 tot en met 31 maart 2014;  
@@ -877,10 +877,10 @@ De aanvraag, bedoeld in artikel 26, eerste lid, wordt uiterlijk vóór 15 decem
 
 ### Artikel  55f  
 
-1.  Landbouwers die vragen om toepassing van artikel 15b of artikel 15c, verstrekken de benodigde informatie uiterlijk op 15 mei 2012 op een daartoe door DR vastgesteld formulier.   
+1.  Landbouwers die vragen om toepassing van artikel 15b of artikel 15c, verstrekken de benodigde informatie uiterlijk op 15 mei 2012 op een daartoe door de minister vastgesteld formulier.   
 2.  Landbouwers die vragen om toepassing van artikel 15b, verstrekken daarbij ten genoegen van de minister de benodigde informatie ten behoeve van de vaststelling van het relevante jaar of de relevante jaren.   
 3.  Landbouwers die vragen om toepassing van artikel 15c, verstrekken daarbij de gegevens als bedoeld in artikel 26, tweede en derde lid, van verordening 1120/2009, respectievelijk de gegevens als bedoeld in artikel 27, tweede en derde lid, van verordening 1120/2009.   
-4.  Met expliciete toestemming van de verkoper mag een koper het verzoek en de gegevens, bedoeld in artikel 26, derde lid, van verordening 1120/2009, indienen op een daartoe door DR vastgesteld formulier.  
+4.  Met expliciete toestemming van de verkoper mag een koper het verzoek en de gegevens, bedoeld in artikel 26, derde lid, van verordening 1120/2009, indienen op een daartoe door de minister vastgesteld formulier.  
 
 ### Artikel  56  
 
@@ -888,7 +888,7 @@ Bewijsstukken als bedoeld in artikel 55, vierde lid, overlegt de landbouwer schr
 
 ### Artikel  57  
 
-De landbouwer, verzekeraar, verantwoordelijke voor een certificeringssysteem of controleur ten behoeve van een certificeringssysteem zijn verplicht op verzoek van DR alle gewenste nadere inlichtingen, ter zake van de gegevens verschaft bij de ingediende aanvragen op grond van deze regeling, terstond en naar waarheid te verstrekken. 
+De landbouwer, verzekeraar, verantwoordelijke voor een certificeringssysteem of controleur ten behoeve van een certificeringssysteem zijn verplicht op verzoek van de minister alle gewenste nadere inlichtingen, ter zake van de gegevens verschaft bij de ingediende aanvragen op grond van deze regeling, terstond en naar waarheid te verstrekken. 
 
 ### Artikel  58  
 
@@ -900,20 +900,20 @@ De landbouwer, verzekeraar, verantwoordelijke voor een certificeringssysteem of 
 1.  Indien een bedrijf volledig wordt overgedragen nadat een verzamelaanvraag is ingediend en voordat aan alle voorwaarden voor het verstrekken van subsidie is voldaan, of indien een bedrijf volledig wordt overgedragen nadat de voor de toekenning van de steun vereiste handelingen zijn begonnen, maar voordat aan alle voorwaarden voor de toekenning van de steun is voldaan, wordt de aangevraagde subsidie overeenkomstig het tweede en derde lid verstrekt aan de overnemer, bedoeld in artikel 82 van verordening 1122/2009, dan wel aan de oorspronkelijke aanvrager.   
 2.  De desbetreffende aangevraagde subsidie wordt verstrekt aan de overnemer indien: 
 
-a. DR de schriftelijke melding van de overdracht uiterlijk op de laatste dag van de in artikel 55, derde lid, bedoelde termijn voor het indienen van de verzamelaanvraag ontvangt van de overnemer,  
+a. de minister de schriftelijke melding van de overdracht uiterlijk op de laatste dag van de in artikel 55, derde lid, bedoelde termijn voor het indienen van de verzamelaanvraag ontvangt van de overnemer,  
 
 b. de overnemer het betrokken betaalorgaan uiterlijk op de laatste dag van de in artikel 55, derde lid, bedoelde termijn verzoekt om betaling van de door de wederpartij aangevraagde subsidie,  
 
-c. de overnemer alle door DR verlangde bewijsstukken overlegt, en  
+c. de overnemer alle door de minister verlangde bewijsstukken overlegt, en  
 
 d. wordt voldaan aan alle voorwaarden voor de verstrekking van de steun.     
 3.  De desbetreffende aangevraagde subsidie wordt verstrekt aan de oorspronkelijke aanvrager indien: 
 
-a. DR de in het tweede lid, onder a, bedoelde melding niet of na de in artikel 55 derde lid bedoelde termijn van de overnemer heeft ontvangen,  
+a. de minister de in het tweede lid, onder a, bedoelde melding niet of na de in artikel 55 derde lid bedoelde termijn van de overnemer heeft ontvangen,  
 
 b. wordt voldaan aan alle voorwaarden voor de verstrekking van de steun, en  
 
-c. de oorspronkelijke aanvrager alle door DR verlangde bewijsstukken overlegt.    
+c. de oorspronkelijke aanvrager alle door de minister verlangde bewijsstukken overlegt.    
 
 ### Artikel  59a  
 
@@ -921,7 +921,7 @@ Een uitvoerende instantie zoals genoemd in de artikelen 63 tot en met 65 is voor
 
 ### Artikel  60  
 
-1.  Indien verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen een beroep op overmacht of uitzonderlijke omstandigheden mogelijk maken in verband met het niet nakomen van voorwaarden of verplichtingen, meldt de landbouwer een geval van overmacht of uitzonderlijke omstandigheden overeenkomstig artikel 75 van verordening 1122/2009 schriftelijk aan DR met betrekking tot de in artikel 63, bedoelde regelingen binnen 10 werkdagen na de dag vanaf welke dit voor hem mogelijk is.   
+1.  Indien verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen een beroep op overmacht of uitzonderlijke omstandigheden mogelijk maken in verband met het niet nakomen van voorwaarden of verplichtingen, meldt de landbouwer een geval van overmacht of uitzonderlijke omstandigheden overeenkomstig artikel 75 van verordening 1122/2009 schriftelijk aan de minister met betrekking tot de in artikel 63, bedoelde regelingen binnen 10 werkdagen na de dag vanaf welke dit voor hem mogelijk is.   
 2.  De landbouwer voegt bij de melding bewijsstukken bij ter ondersteuning van zijn beroep op overmacht of buitengewone omstandigheden als bedoeld in het eerste lid.  
 
 ### Artikel  61  
@@ -932,19 +932,11 @@ Een uitvoerende instantie zoals genoemd in de artikelen 63 tot en met 65 is voor
 
 ### Artikel  62  
 
-DR, organisaties die bewijsmateriaal leveren als bedoeld in artikel 46, tweede lid, van verordening 1122/2009 en de ondernemingen die betrokken zijn bij de uitvoering van steunverstrekking op grond van Hoofdstuk 2a, paragraaf 1, alsmede de instanties die belast zijn met het toezicht op de naleving van de in artikel 3 en Hoofdstuk 2a, paragraaf 1, bedoelde voorwaarden wisselen de gegevens uit betreffende aanvragers die relevant zijn in het kader van bedoeld toezicht. 
+De Rijksdienst voor Ondernemend Nederland, organisaties die bewijsmateriaal leveren als bedoeld in artikel 46, tweede lid, van verordening 1122/2009 en de ondernemingen die betrokken zijn bij de uitvoering van steunverstrekking op grond van Hoofdstuk 2a, paragraaf 1, alsmede de instanties die belast zijn met het toezicht op de naleving van de in artikel 3 en Hoofdstuk 2a, paragraaf 1, bedoelde voorwaarden wisselen de gegevens uit betreffende aanvragers die relevant zijn in het kader van bedoeld toezicht. 
 
 ### Paragraaf  2  
 
 ####Uitvoerende instanties
-
-### Artikel  63  
-
-DR is belast met de uitvoering van 
-
-a. de bedrijfstoeslagregeling;  
-
-b. de specifieke steun, bedoeld in Hoofdstuk 2a.  
 
 ### Artikel  67  
 
@@ -961,7 +953,7 @@ De NVWA is verantwoordelijk voor de coördinatie van de controles ter plaatse op
 
 ### Artikel  69  
 
-Indien een landbouwer andere dan de in artikel 68 bedoelde voorwaarden of verplichtingen voortvloeiend uit verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen niet naleeft, wordt door DR met betrekking tot de in artikel 63, eerste lid, bedoelde regelingen overeenkomstig Deel II, Titel IV, hoofdstuk II van verordening 1122/2009 een korting opgelegd op het bedrag dat op grond van de betrokken steunregeling aan de landbouwer is of moet worden toegekend. 
+Indien een landbouwer andere dan de in artikel 68 bedoelde voorwaarden of verplichtingen voortvloeiend uit verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen niet naleeft, wordt door de minister met betrekking tot de in artikel 63, eerste lid, bedoelde regelingen overeenkomstig Deel II, Titel IV, hoofdstuk II van verordening 1122/2009 een korting opgelegd op het bedrag dat op grond van de betrokken steunregeling aan de landbouwer is of moet worden toegekend. 
 
 ### Artikel  70  
 
@@ -1376,7 +1368,7 @@ a. ondiep ploegen tot maximaal 12 centimeter diep, eventueel gecombineerd met he
 
 b. toepassing van het mulchsysteem in combinatie met een buffervoorziening voor 20m<sup>3</sup> water per hectare.    
 
-2°. De landbouwer doet uiterlijk 1 januari van het lopende teeltjaar melding bij Dienst Regelingen van de getroffen maatregelen en de locatie van de buffervoorziening.    
+2°. De landbouwer doet uiterlijk 1 januari van het lopende teeltjaar melding bij de minister van de getroffen maatregelen en de locatie van de buffervoorziening.    
 
 F. Onderdeel E is niet van toepassing op land- en tuinbouwgronden, indien de landbouwer: 
 
@@ -1611,9 +1603,9 @@ C: de GVE per diercategorie bedraagt.
 
 *Kalverhouder:*   *Adres:*   *en*   *Wageningen UR Livestock Research, Edelhertweg 15, 8219 PH Lelystad, instituut binnen de rechtspersoon Stichting Dienst Landbouwkundig Onderzoek gevestigd te Wageningen, te dezen vertegenwoordigd door Dr. M.C.Th. Scholten (algemeen directeur), hierna te noemen ‘WLR’ *   *De kalverhouder en WLR komen de volgende voorwaarden overeen voor de deelname aan Fase 2 van het onderzoekproject Alternatieve Vloeren Vleeskalveren*  
 
-1. De kalverhouder die deel neemt aan het project ‘Fase 2 vloerenonderzoek bij vleeskalveren’ houdt zich gedurende de looptijd van het project aan de voorwaarden die Dienst Regelingen en WLR stellen. De kalverhouder zal zich inspannen om het verzamelen van de door WLR gewenste gegevens zo goed mogelijk te laten verlopen en WLR zal zich inspannen om de dagelijkse bedrijfsvoering van de kalverhouder niet onnodig te verstoren.  
+1. De kalverhouder die deel neemt aan het project ‘Fase 2 vloerenonderzoek bij vleeskalveren’ houdt zich gedurende de looptijd van het project aan de voorwaarden die de minister en WLR stellen. De kalverhouder zal zich inspannen om het verzamelen van de door WLR gewenste gegevens zo goed mogelijk te laten verlopen en WLR zal zich inspannen om de dagelijkse bedrijfsvoering van de kalverhouder niet onnodig te verstoren.  
 
-2. De kalverhouder is zich bewust dat bij niet naleven van de voorwaarden het risico bestaat dat het subsidiebedrag ten behoeve van de aanschaf van de vloeren niet door Dienst Regelingen zal worden vergoed.  
+2. De kalverhouder is zich bewust dat bij niet naleven van de voorwaarden het risico bestaat dat het subsidiebedrag ten behoeve van de aanschaf van de vloeren niet door de minister zal worden vergoed.  
 
 3. Na ondertekening door de kalverhouder/eigenaar van de overeenkomst met WLR mogen de betreffende afdelingen alleen worden verbouwd/aangepast/veranderd nadat hiervoor schriftelijke toestemming van WLR is verkregen. Toestemming zal niet op onredelijke gronden worden onthouden.  
 

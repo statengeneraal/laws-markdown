@@ -37,9 +37,7 @@ c.vermogensbestanddelen van de aanvrager privé, bestaande uit:
 
 3.achtergestelde leningen.
 
-– bank: binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen; 
-
-– Dienst Regelingen: Dienst regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+– bank: binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;  
 
 – Europese subsidies: subsidies: 
 
@@ -61,7 +59,7 @@ c) die als staatssteun als bedoeld in artikel 107 van het Verdrag betreffende de
 
 – landbouwsector: gehele complex van landbouwondernemingen, landbouwproducten verwerkende ondernemingen en aan de landbouw gerelateerde afzet, handel, dienstverlening, logistiek, en toeleverende industrie;  
 
-– Minister: Minister van Economische Zaken, Landbouw en Innovatie;  
+– Minister: Minister van Economische Zaken;  
 
 –plattelandsontwikkelingsprogramma: plattelandsontwikkelingsprogramma als bedoeld in artikel 15, eerste lid, van verordening (EG) nr. 1698/2005, van Nederland;
 
@@ -70,6 +68,8 @@ c) die als staatssteun als bedoeld in artikel 107 van het Verdrag betreffende de
 – project: geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de in deze regeling omschreven subsidiedoelstellingen;  
 
 – Richtlijn 2001/80/EG: Richtlijn 2001/80/EG van het Europees Parlement en de Raad van 23 oktober 2001 inzake de beperking van de emissies van bepaalde verontreinigende stoffen in de lucht door grote stookinstallaties (PbEU L 309); 
+
+– Rijksdienst voor Ondernemend Nederland: Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken; 
 
 –  verordening (EG) nr. 1698/2005: verordening (EG) nr. 1698/2005 van de Raad van de Europese Unie van 20 september 2005 inzake steun uit het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) (PbEU L 277);  
 
@@ -149,7 +149,7 @@ b. toetsingscriteria vaststellen voor rangschikking als bedoeld in artikel 1:4, 
 
 ####Indiening van een aanvraag
 
-1.  Een aanvraag tot subsidieverlening, subsidievaststelling of voorschotverlening wordt ingediend bij de Directeur van de Dienst Regelingen met gebruikmaking van een daartoe door de Dienst Regelingen verstrekt formulier.   
+1.  Een aanvraag tot subsidieverlening, subsidievaststelling of voorschotverlening wordt ingediend bij de Minister met gebruikmaking van een daartoe door de Minister verstrekt formulier.   
 2.  In aanvulling op de voorschriften, gesteld in deze regeling, kan de Minister bij de openstelling, bedoeld in artikel 1:3, eerste lid, nadere voorschriften stellen over de indiening van een aanvraag.  
 
 ### Artikel  1:9  
@@ -228,7 +228,7 @@ a. de doelstellingen, omschreven in het projectplan, betreft;
 
 b. verhoging van het bedrag van de subsidie of het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld, tot gevolg heeft.     
 4.  Bij een goedkeuring als bedoeld in het derde lid kan de Minister de beschikking tot subsidieverlening alsmede de aan de subsidieontvanger opgelegde verplichtingen wijzigen.   
-5.  Verslagen als bedoeld in het tweede lid en aanvragen tot een goedkeuring als bedoeld in het derde lid worden ingediend bij de Directeur van de Dienst Regelingen. 
+5.  Verslagen als bedoeld in het tweede lid en aanvragen tot een goedkeuring als bedoeld in het derde lid worden ingediend bij de Minister. 
 6. Bij de openstelling, bedoeld in artikel 1:3, eerste lid, kan de Minister besluiten dat een project moet zijn aangevangen of uitgevoerd binnen een andere termijn dan bepaald in deze regeling.  
 7.  Indien de subsidie minder bedraagt dan € 25.000 is het tweede lid niet van toepassing en worden er geen tussentijdse verslagen opgevraagd. 
 
@@ -596,7 +596,7 @@ e.staat ingeschreven bij een Kamer van Koophandel als organisatie die zich het g
 
 f.heeft ten minste één jaar ervaring in het verstrekken van adviezen op ten minste één van de in het eerste lid, onderdelen a tot en met c genoemde aspecten;
 
-g.is in het betrokken kalenderjaar ten minste 28 dagen voor de eerste mogelijkheid tot het doen van een aanvraag door de Minister is opengesteld, aangemeld als bedrijfsadviesdienst bij de Dienst Regelingen.   
+g.is in het betrokken kalenderjaar ten minste 28 dagen voor de eerste mogelijkheid tot het doen van een aanvraag door de Minister is opengesteld, aangemeld als bedrijfsadviesdienst bij de Minister.   
 3.  Het advies is gebaseerd op een op de betrokken landbouwonderneming of bosbouwonderneming uitgevoerd onderzoek, waarin wordt aangegeven welke eisen als bedoeld in het eerste lid op de onderneming van toepassing zijn en in hoeverre aan die eisen wordt voldaan.   
 4.  De subsidie wordt betaald aan de bedrijfsadviesdienst. 
 
@@ -897,7 +897,7 @@ c. uitsluitend vouchers die op naam staan van de onderneming voor wie de activit
 
 ####Indiening van een aanvraag
 
-Een aanvraag als bedoeld in artikel 2:22, eerste lid, of 2:25, eerste lid, wordt ingediend bij de Directeur van de Dienst Regelingen met gebruikmaking van een daartoe door de Minister vastgesteld formulier. 
+Een aanvraag als bedoeld in artikel 2:22, eerste lid, of 2:25, eerste lid, wordt ingediend bij de Minister met gebruikmaking van een daartoe door de Minister vastgesteld formulier. 
 
 ### Titel  5  
 
@@ -1094,7 +1094,7 @@ c.onderzoek naar de potentie van weidegras, graskuil, snijmais, maiszetmeel, gra
 
 ####Indiening aanvraag subsidieverlening en subsidievaststelling
 
-Aanvragen tot subsidieverlening en subsidievaststelling voor een onderzoeksproject worden in afwijking van artikel 1:8, eerste lid, ingediend bij Agentschap NL met gebruikmaking van een daartoe door Agentschap NL verstrekt formulier en gaan vergezeld van een projectplan respectievelijk eindverslag.
+Aanvragen tot subsidieverlening en subsidievaststelling voor een onderzoeksproject worden ingediend bij de Minister met gebruikmaking van een daartoe door de Minister verstrekt formulier en gaan vergezeld van een projectplan respectievelijk eindverslag.
 
 ###Artikel 2:36d 
 
@@ -1173,12 +1173,6 @@ d.een hogere kosteneffectiviteit kent;
 e.meer internationale uitwisseling van ervaringen, kennis en resultaten genereert.
 2. Voor de rangschikking weegt het in het eerste lid, onderdeel a, genoemde criterium, waarbij maximaal 35 punten te behalen zijn, mee voor 35/100, het in het eerste lid, onderdeel b, genoemde criterium, waarbij maximaal 30 punten te behalen zijn, mee voor 30/100, het in het eerste lid, onderdeel c, genoemde criterium, waarbij maximaal 15 punten te behalen zijn, mee voor 15/100, het in het eerste lid, onderdeel d, genoemde criterium, waarbij maximaal 15 punten te behalen zijn, mee voor 15/100, het in het tweede lid, onderdeel e, genoemde criterium, waarbij maximaal 5 punten te behalen zijn, mee voor 5/100. Er geldt een drempel van 60 punten.
 3. Aanvragen voor onderzoeksprojecten met minder dan 60 punten komen niet in aanmerking voor subsidie en zullen door de Minister worden afgewezen.
-
-###Artikel 2:36j 
-
-####Aanwijzing toezichthouders
-
-In afwijking van artikel 6:1 worden de ambtenaren van Agentschap NL voor deze paragraaf aangewezen als personen als bedoeld in [artikel 7, eerste lid, van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md).
 
 ### Titel  6  
 
@@ -1452,7 +1446,7 @@ De Minister verleent jaarlijks ambtshalve voorschot.
 
 ####Indiening aanvraag subsidieverlening
 
-Met de indiening van een aanvraag tot verlening van de subsidie stemt de aanvrager ermee in dat de Stichting Skal aan de Dienst Regelingen alle gegevens overlegt die betrekking hebben op de uitoefening van de biologische productiemethode op zijn landbouwonderneming. 
+Met de indiening van een aanvraag tot verlening van de subsidie stemt de aanvrager ermee in dat de Stichting Skal aan de Minister alle gegevens overlegt die betrekking hebben op de uitoefening van de biologische productiemethode op zijn landbouwonderneming. 
 
 ### Artikel  2:57  
 
@@ -1498,7 +1492,7 @@ b.  verordening (EG) nr. 510/2006 van de Raad van de Europese Unie van 20 maart 
 
 De subsidieontvanger: 
 
-a. zendt het materiaal dat hij voornemens is te gebruiken bij de activiteiten aan de Directeur van de Dienst Regelingen, en  
+a. zendt het materiaal dat hij voornemens is te gebruiken bij de activiteiten aan de Minister, en  
 
 b. gebruikt het materiaal uitsluitend binnen de Europese Unie.   
 
@@ -1708,15 +1702,15 @@ c. de liquidatie of het beheer onder gerechtelijk toezicht of overname van de ac
 
 a. betaalt de subsidie in de vorm van een lening binnen zes maanden na verstrekking terug, of  
 
-b. dient binnen twee maanden na verstrekking van de subsidie een herstructureringsplan ter goedkeuring in bij de Directeur van de Dienst Regelingen. Op het herstructureringsplan is artikel 2:69n van overeenkomstige toepassing.     
+b. dient binnen twee maanden na verstrekking van de subsidie een herstructureringsplan ter goedkeuring in bij de Minister. Op het herstructureringsplan is artikel 2:69n van overeenkomstige toepassing.     
 2.  Indien de ontvanger, bedoeld in het eerste lid, een herstructureringsplan heeft ingediend, zijn de artikelen 2:69m en 2:69o van overeenkomstige toepassing.   
-3.  Indien een onderneming nadat de subsidie zijnde reddingssteun is ontvangen, binnen de periode, bedoeld in het eerste lid, onderdeel a, haar bedrijfsvoering beëindigt, doet de ontvanger daarvan melding aan de Directeur van de Dienst Regelingen en geeft de ontvanger desgevraagd alle informatie aan de Directeur van de Dienst Regelingen.  
+3.  Indien een onderneming nadat de subsidie zijnde reddingssteun is ontvangen, binnen de periode, bedoeld in het eerste lid, onderdeel a, haar bedrijfsvoering beëindigt, doet de ontvanger daarvan melding aan de Minister en geeft de ontvanger desgevraagd alle informatie aan de Minister.  
 
 ### Artikel  2:69i  
 
 ####Aanvraag
 
-1.  De aanvrager van subsidie zijnde reddingssteun verstrekt bij de aanvraag in ieder geval de volgende gegevens aan de Directeur van de Dienst Regelingen: 
+1.  De aanvrager van subsidie zijnde reddingssteun verstrekt bij de aanvraag in ieder geval de volgende gegevens aan de Minister: 
 
 a. naam van de onderneming;  
 
@@ -1730,7 +1724,7 @@ e. een bankverklaring waarin de bank verklaart dat alle gebruikelijke financieri
 
 f. in voorkomend geval, gegevens over in het verleden verleende herstructureringssteun of daarmee vergelijkbare steun.     
 2.  In zijn aanvraag geeft de aanvrager aan wat de oorzaken zijn van de moeilijkheden en onderbouwt hij de hoogte van de aangevraagde subsidie.   
-3.  De aanvrager geeft desgevraagd aan de Directeur van de Dienst Regelingen alle informatie omtrent zijn financiële situatie.  
+3.  De aanvrager geeft desgevraagd aan de Minister alle informatie omtrent zijn financiële situatie.  
 
 ### Artikel  2:69j  
 
@@ -1812,7 +1806,7 @@ h. de verwachte resultatenrekeningen voor de eerstkomende vijf jaar met een rami
 i. naam van de opsteller van het herstructureringsplan en de datum waarop dit is opgesteld.     
 4.  In zijn aanvraag geeft de aanvrager aan wat de oorzaken zijn van de moeilijkheden en onderbouwt hij de hoogte van de aangevraagde subsidie.   
 5.  Bij zijn aanvraag verstrekt de aanvrager een bankverklaring waarin de bank verklaart dat alle gebruikelijke financieringsmogelijkheden zijn benut.   
-6.  De aanvrager geeft desgevraagd aan de Directeur van de Dienst Regelingen alle informatie omtrent zijn financiële situatie.  
+6.  De aanvrager geeft desgevraagd aan de Minister alle informatie omtrent zijn financiële situatie.  
 
 ### Artikel  2:69o  
 
@@ -1897,7 +1891,7 @@ b. voor zover rechtens is toegestaan, op alle hen toebehorende zaken goederenrec
 
 c. beschikken over de wettelijk vereiste bescheiden ter zake van de vestiging en uitoefening van de landbouwonderneming waarop de aanvraag tot garantstelling betrekking heeft, en  
 
-d. de Dienst Regelingen machtigen tot gebruik van de door hen op grond van [artikel 24, eerste lid, van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) verstrekte gegevens voor de controle van de te verlenen garantstelling. 
+d. de Minister machtigen tot gebruik van de door hen op grond van [artikel 24, eerste lid, van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) verstrekte gegevens voor de controle van de te verlenen garantstelling. 
 2. Voor de garantstelling komen natuurlijke personen in aanmerking indien:
 
 a. zij de landbouwonderneming waarop de aanvraag tot garantstelling betrekking heeft voor eigen rekening en risico beheren;  
@@ -2769,7 +2763,7 @@ d. spin-off, bestaande uit:
 
 ####Aanvraag en uitvoering
 
-1.  In afwijking van de artikelen 1:8, eerste lid, en 1:13, vijfde lid, wordt de aanvraag tot subsidieverlening of subsidievaststelling, onderscheidenlijk tot goedkeuring als bedoeld in artikel 1:13, derde lid, ingediend bij Agentschap NL met gebruikmaking van het bij Agentschap NL verkrijgbare formulier.   
+1.  De aanvraag tot subsidieverlening of subsidievaststelling, onderscheidenlijk tot goedkeuring als bedoeld in artikel 1:13, derde lid, wordt ingediend bij de Minister.   
 2.  De aanvraag tot subsidieverlening gaat, in afwijking van artikel 1:9, vergezeld van: 
 
 a. een projectplan, waarvan het model bij Agentschap NL verkrijgbaar is;  
@@ -2777,8 +2771,7 @@ a. een projectplan, waarvan het model bij Agentschap NL verkrijgbaar is;
 b. een ingevulde verklaring betreffende verordening (EG) Nr. 1998/2006 van de onderneming en indien sprake is van een samenwerkingsverband van alle deelnemers van het samenwerkingsverband, waarvan het model bij Agentschap NL verkrijgbaar is;  
 
 c. andere in het in het eerste lid bedoelde formulier genoemde gegevens en bescheiden.     
-3.  Indien ondernemingen samenwerken in een samenwerkingsverband, dienen zij hun aanvraag in via een penvoerder, met daarbij gevoegd een verklaring van de deelnemers van het samenwerkingsverband waarin een penvoerder is aangewezen.   
-4.  In afwijking van artikel 6:1 worden de ambtenaren van Agentschap NL voor deze titel aangewezen als personen als bedoeld in [artikel 7, eerste lid, van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md).  
+3.  Indien ondernemingen samenwerken in een samenwerkingsverband, dienen zij hun aanvraag in via een penvoerder, met daarbij gevoegd een verklaring van de deelnemers van het samenwerkingsverband waarin een penvoerder is aangewezen.  
 
 ###Titel 11 
 
@@ -2904,7 +2897,7 @@ De subsidieontvanger staat toe dat de Minister de informatie, bedoeld in artikel
 
 ####Indiening aanvraag subsidieverlening en uitvoering
 
-In afwijking van artikel 1:9, tweede lid, wordt, met gebruikmaking van het bij Dienst Regelingen verkrijgbare formulier, bij de aanvraag ten minste de volgende informatie verstrekt: 
+In afwijking van artikel 1:9, tweede lid, wordt, met gebruikmaking van het bij de Minister verkrijgbare formulier, bij de aanvraag ten minste de volgende informatie verstrekt: 
 
 a. naam, e-mailadres, woon- of vestigingsplaats en het burgerservicenummer of het KvK-nummer van de aanvrager;  
 
@@ -3002,9 +2995,9 @@ e. tengevolge van de beëindiging of verplaatsing van een productieve activiteit
 ####Aanwijzing van instanties
 
 1. Als beheersautoriteit als bedoeld in artikel 58, eerste lid, onderdeel a, van verordening nr. 1198/2006 wordt aangewezen de Minister.
-2. Als certificeringsautoriteit als bedoeld in artikel 58, eerste lid, onderdeel b, van verordening nr. 1198/2006 wordt aangewezen de Afdeling CA van de Dienst Regelingen.
+2. Als certificeringsautoriteit als bedoeld in artikel 58, eerste lid, onderdeel b, van verordening nr. 1198/2006 wordt aangewezen de Rijksdienst voor Ondernemend Nederland.
 3. Als auditautoriteit als bedoeld in artikel 58, eerste lid, onderdeel c, van verordening nr. 1198/2006 wordt aangewezen de Rijksauditdienst van het Ministerie van Financiën.
-4. Als bemiddelende instantie als bedoeld in artikel 58, tweede lid, van verordening nr. 1198/2006 wordt aangewezen de Dienst Regelingen.
+4. Als bemiddelende instantie als bedoeld in artikel 58, tweede lid, van verordening nr. 1198/2006 wordt aangewezen de Rijksdienst voor Ondernemend Nederland.
 
 ### Artikel  4:1b  
 
@@ -4569,7 +4562,7 @@ De aanvraag tot subsidieverlening gaat vergezeld van een beschrijving van de doe
 3.  De subsidieontvanger moet in elk geval meer dan 40% van de kosten, bedoeld in artikel 4a:9, onderdeel a, gebruiken voor docenten van de aanvragende instelling.   
 4.  De subsidieontvanger en de deelnemers aan de groene-plus lectoraten werken mee aan door of namens de Minister ingestelde activiteiten die gericht zijn op het monitoren en verspreiden van kennis.   
 5.  De subsidieontvanger brengt uiterlijk op 1 oktober van elk jaar een tussenrapportage uit van de voortgang van het groene-plus electoraat voor wat betreft de doelstelling en de subsidiabele activiteiten, bedoeld in artikel 4a:3.   
-6.  De tussenrapportages bedoeld in het vijfde lid worden ingediend bij de Directeur van de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie volgens een daartoe vastgesteld format en bevatten een beschrijving van 
+6.  De tussenrapportages bedoeld in het vijfde lid worden ingediend bij de Minister volgens een daartoe vastgesteld format en bevatten een beschrijving van 
 
 a. de activiteiten die tot dan toe zijn verricht;  
 
@@ -4790,15 +4783,13 @@ c. een bewijs van deelname aan de opleiding, training of voorlichtingsbijeenkoms
 
 ####Aanwijzing toezichthouders
 
-Als personen als bedoeld in [artikel 7, eerste lid, van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) worden aangewezen de ambtenaren van: 
+Als personen als bedoeld in [artikel 8 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md) worden aangewezen de ambtenaren van: 
 
-a. de Dienst Regelingen;  
+a. de Rijksdienst voor Ondernemend Nederland;   
 
-b. de Dienst Landelijk Gebied van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+b. de Nederlandse Voedsel en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-c. de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
-
-d. de Auditdienst van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
+c. de Auditdienst Rijk.   
 
 ### Artikel  6:2  
 
@@ -4943,17 +4934,17 @@ Onderliggend Controleprotocol controleverklaring LNV-subsidies is van toepassing
 
 ####Doelstelling
 
-Het doel van dit controleprotocol is het verstrekken van duidelijkheid over de reikwijdte en diepgang van de accountantscontrole en de in dat kader af te geven controleverklaring. De controleverklaring moet de Dienst Regelingen zekerheid geven over de juistheid en volledigheid van de gedeclareerde subsidiabele kosten. Hiertoe controleert de accountant de financiële verantwoording van de gedeclareerde subsidiabele kosten die door de eindontvanger bij het verzoek tot vaststelling (eindafrekening) is aangeleverd. De Dienst Regelingen controleert vervolgens de eindafrekening op het voldoen aan de subsidievoorwaarden en stelt de subsidie vast. 
+Het doel van dit controleprotocol is het verstrekken van duidelijkheid over de reikwijdte en diepgang van de accountantscontrole en de in dat kader af te geven controleverklaring. De controleverklaring moet de Minister zekerheid geven over de juistheid en volledigheid van de gedeclareerde subsidiabele kosten. Hiertoe controleert de accountant de financiële verantwoording van de gedeclareerde subsidiabele kosten die door de eindontvanger bij het verzoek tot vaststelling (eindafrekening) is aangeleverd. de Minister controleert vervolgens de eindafrekening op het voldoen aan de subsidievoorwaarden en stelt de subsidie vast. 
 
 ####Procedures
 
-De subsidieontvanger verzoekt de accountant een controleverklaring op te stellen op basis van het protocol controleverklaring LNV-subsidies. De eindbegunstigde levert hiertoe de aanvraag vaststelling (eindafrekening) aan de accountant aan. De accountant controleert de juistheid en volledigheid van het verzoek tot subsidievaststelling (eindafrekening) van de subsidieontvanger op basis van de richtlijnen in dit protocol. Naar aanleiding van de controle waarmerkt de accountant de eindafrekening en stelt de controleverklaring op. Hoofdstuk 3 bevat de minimaal voorgeschreven tekst van de controleverklaring. De subsidieontvanger levert het verzoek tot vaststelling (de gewaarmerkte eindafrekening) en de controleverklaring bij de Dienst Regelingen aan. Het verzoek tot vaststelling (eindafrekening) moet nadat het project is voltooid binnen de in de regeling LNV-subsidies gestelde termijn worden gedaan. Deze termijn is in de subsidieverplichtingen bij de beschikking tot subsidieverlening opgenomen. De Minister behoudt zich het recht voor een review te laten uitvoeren op de uitgevoerde accountantscontrole inzake de eindafrekening. De accountant die de controle uitvoert verstrekt desgevraagd alle inlichtingen en bescheiden zoals deze dat gewenst acht. 
+De subsidieontvanger verzoekt de accountant een controleverklaring op te stellen op basis van het protocol controleverklaring LNV-subsidies. De eindbegunstigde levert hiertoe de aanvraag vaststelling (eindafrekening) aan de accountant aan. De accountant controleert de juistheid en volledigheid van het verzoek tot subsidievaststelling (eindafrekening) van de subsidieontvanger op basis van de richtlijnen in dit protocol. Naar aanleiding van de controle waarmerkt de accountant de eindafrekening en stelt de controleverklaring op. Hoofdstuk 3 bevat de minimaal voorgeschreven tekst van de controleverklaring. De subsidieontvanger levert het verzoek tot vaststelling (de gewaarmerkte eindafrekening) en de controleverklaring bij de Minister aan. Het verzoek tot vaststelling (eindafrekening) moet nadat het project is voltooid binnen de in de regeling LNV-subsidies gestelde termijn worden gedaan. Deze termijn is in de subsidieverplichtingen bij de beschikking tot subsidieverlening opgenomen. De Minister behoudt zich het recht voor een review te laten uitvoeren op de uitgevoerde accountantscontrole inzake de eindafrekening. De accountant die de controle uitvoert verstrekt desgevraagd alle inlichtingen en bescheiden zoals deze dat gewenst acht. 
 
 ####Definities
 
 *Een accountant:* Een openbaar accountant zoals bedoeld in [artikel 393, lid 1 Burgerlijk Wetboek, boek 2](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), aan wie de eindbegunstigde de opdracht heeft toegekend de aanvraag tot vaststelling (eindafrekening) ten behoeve van de subsidieaanvraag te controleren.  
 
-*Subsidieontvanger:* Een natuurlijke of rechtspersoon of diens gemachtigde aan wie Dienst Regelingen, namens de Minister, een subsidie heeft toegekend.  
+*Subsidieontvanger:* Een natuurlijke of rechtspersoon of diens gemachtigde aan wie de Minister, een subsidie heeft toegekend.  
 
 *Gemachtigde:* Een natuurlijke of rechtspersoon welke door de eindbegunstigde is gemachtigd bepaalde activiteiten ten behoeve van de subsidieaanvraag te verrichten. De afspraken omtrent de machtiging zijn vastgelegd in een machtigingsverklaring.  
 
@@ -5002,7 +4993,7 @@ Voor de controleverklaring dient het model controleverklaring gehanteerd te word
 
 ####CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
 
-*Afgegeven ten behoeve van Dienst Regelingen*  Aan: opdrachtgever Wij hebben bijgevoegde eindafrekening van <naam instelling/persoon> te <zetel, plaats> over de periode <datum> tot <datum> met betrekking tot subsidieverlening in het kader van de Regeling LNV-subsidies <openstelling> gecontroleerd. De Minister van Economische Zaken, Landbouw en Innovatie heeft per brief <kenmerk> d.d. <datum> terzake een subsidie verleend tot een maximum van <bedrag>. 
+*Afgegeven ten behoeve van de Minister*  Aan: opdrachtgever Wij hebben bijgevoegde eindafrekening van <naam instelling/persoon> te <zetel, plaats> over de periode <datum> tot <datum> met betrekking tot subsidieverlening in het kader van de Regeling LNV-subsidies <openstelling> gecontroleerd. De Minister van Economische Zaken, Landbouw en Innovatie heeft per brief <kenmerk> d.d. <datum> terzake een subsidie verleend tot een maximum van <bedrag>. 
 ### *Verantwoordelijkheid van de subsidieontvanger* 
 
 <Het bestuur van de instelling/naam persoon> is verantwoordelijk voor het opstellen van de eindafrekening in overeenstemming met de relevante bepalingen in de Regeling LNV-subsidies. <Het bestuur van de instelling/naam persoon> is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opstellen van de eindafrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
@@ -5014,7 +5005,7 @@ Onze verantwoordelijkheid is het geven van een oordeel over de eindafrekening op
 Naar ons oordeel is de eindafrekening van <naam instelling/persoon> over de periode <datum> tot <datum> in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de begroting zoals opgenomen in brief <kenmerk> d.d. <datum> en de relevante bepalingen in de Regeling LNV-subsidies. 
 ### *Beperking in gebruik en verspreidingskring* 
 
-De eindafrekening is opgesteld voor de Dienst Regelingen met als doel <naam instelling/persoon> in staat te stellen te voldoen aan de relevante bepalingen in de Regeling LNV-subsidies. Hierdoor is de eindafrekening mogelijk niet geschikt voor andere doeleinden. Dit doet geen afbreuk aan ons oordeel. De eindafrekening met onze controleverklaring is derhalve uitsluitend bestemd voor <naam instelling/persoon> en de Dienst Regelingen en dient derhalve niet te worden verspreid of gebruikt door anderen. <Plaats, datum> <Naam accountantspraktijk> <Naam accountant > 
+De eindafrekening is opgesteld voor de Minister met als doel <naam instelling/persoon> in staat te stellen te voldoen aan de relevante bepalingen in de Regeling LNV-subsidies. Hierdoor is de eindafrekening mogelijk niet geschikt voor andere doeleinden. Dit doet geen afbreuk aan ons oordeel. De eindafrekening met onze controleverklaring is derhalve uitsluitend bestemd voor <naam instelling/persoon> en de Minister en dient derhalve niet te worden verspreid of gebruikt door anderen. <Plaats, datum> <Naam accountantspraktijk> <Naam accountant > 
 
 ###Bijlage 1a 
 
@@ -6132,7 +6123,7 @@ b.van de voor deze regeling vereiste gegevens wordt een juiste en volledige opga
 
 c.de verzekerbare fruitgewassen op de landbouwonderneming worden uiterlijk vanaf 1 november 2008 voor een aaneengesloten periode van ten minste vijf jaren verzekerd tegen vorstschade.
 
-4.De aanvrager verleent de Dienst Regelingen toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Dienst Regelingen op grond van:
+4.De aanvrager verleent de Minister toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Minister op grond van:
 
 a.[artikel 4, tweede lid](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en [artikel 7, punt a, van de Regeling Landbouwtelling en gecombineerde opgave 2005](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en
 
@@ -6266,7 +6257,7 @@ b. van de voor deze regeling vereiste gegevens wordt een juiste en volledige opg
 
 c. alle boomkwekerijgewassen op de landbouwonderneming zijn uiterlijk vanaf 15 november 2008 voor een aaneengesloten periode van ten minste vijf jaren verzekerd tegen sneeuwdrukschade.    
 
-4. De aanvrager verleent de Dienst Regelingen toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Dienst Regelingen op grond van [artikel 4, tweede lid](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en [artikel 7, onderdeel a, van de Regeling Landbouwtelling en gecombineerde opgave 2005](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md).  
+4. De aanvrager verleent de Minister toestemming om bij de controle van de aanvraag op grond van deze bijlage zijn gegevens te gebruiken voor zover deze zijn verstrekt aan de Minister op grond van [artikel 4, tweede lid](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md), en [artikel 7, onderdeel a, van de Regeling Landbouwtelling en gecombineerde opgave 2005](../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2005/BWBR0018131/README.md).  
 
 5. In zoverre in afwijking van artikel 1:3, eerste lid, geschiedt de subsidievaststelling zonder voorafgaande beschikking tot subsidieverlening.  
 
@@ -6347,7 +6338,7 @@ b. verzekeringspremie: de som van de voor- en naheffing van de verzekering, incl
 
 a.De tegemoetkoming, bedoeld in artikel 2:69, kan worden verstrekt aan landbouwondernemingen die een verzekering hebben afgesloten.
 
-b.De aanvrager verleent Dienst Regelingen toestemming om de gegevens, bedoeld in [artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md) te gebruiken ten behoeve van de aanvraag.
+b.De aanvrager verleent de Minister toestemming om de gegevens, bedoeld in [artikel 11, eerste en tweede lid, van de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003](../../../../ministeriele-regeling/subsidieregeling/nieuwe/agrarische/schadeverzekeringen/2003/BWBR0015740/README.md) te gebruiken ten behoeve van de aanvraag.
 
 c.[Artikel 4:43, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.
 

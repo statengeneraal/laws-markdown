@@ -47,17 +47,15 @@ h. vervoermiddel: voertuig, waaronder mede begrepen een combinatie van een voert
 
 i. NVWA: Nederlandse Voedsel- en Warenautoriteit; 
 
-j.Minister: Minister van Landbouw, Natuur en Voedselkwaliteit;
+j.Minister: Minister van Economische Zaken;
 
-k.DR: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+k.wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); 
 
-l.wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); 
+l.derde land: land, niet zijnde Nederland en niet zijnde een lidstaat;
 
-m.derde land: land, niet zijnde Nederland en niet zijnde een lidstaat;
+m. GD: Gezondheidsdienst voor Dieren;  
 
-n. GD: Gezondheidsdienst voor Dieren;  
-
-o.  verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L300);  
+n.  verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L300);  
 2. Deze regeling berust mede op [artikel 3.18 van het Besluit diergeneesmiddelen](../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).
 
 ### §  2  

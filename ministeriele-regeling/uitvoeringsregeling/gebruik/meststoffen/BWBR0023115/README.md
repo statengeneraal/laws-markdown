@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 a. besluit: [Besluit gebruik meststoffen](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md);  
 
-b. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
+b. minister: Minister van Economische Zaken;  
 
 c. Raad: Raad voor Accreditatie te Utrecht;  
 
@@ -41,7 +41,7 @@ f. de resultaten van de analyses alsmede de daarop gebaseerde vaststelling dat d
 
 ### Artikel  3  
 
-De in [artikel 2a van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) bedoelde melding inzake het gebruik van compost bij wijze van eenmalige gift wordt telefonisch gedaan bij de Dienst Regelingen. 
+De in [artikel 2a van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) bedoelde melding inzake het gebruik van compost bij wijze van eenmalige gift wordt gedaan bij de minister. 
 
 ### Artikel  4  
 

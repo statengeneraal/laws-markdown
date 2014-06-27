@@ -17,8 +17,6 @@ In deze regeling wordt verstaan onder:
 
 –  *besluit:* [Besluit dierlijke producten](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md);  
 
-–  *Dienst Regelingen:* Dienst Regelingen van het Ministerie van Economische Zaken; 
-
 –  *minister:* Minister van Economische Zaken;  
 
 –  *NVWA:* Nederlandse Voedsel- en Warenautoriteit;  
@@ -273,7 +271,7 @@ Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van 
 
 ####In Nederland ingediende aanvraag tot registratie of wijziging productdossier
 
-1.  Bij Dienst Regelingen worden ingediend: 
+1.  Bij de minister worden ingediend: 
 
 a. een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012;  
 
@@ -281,7 +279,7 @@ b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 53 va
 
 c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van verordening (EU) nr. 1151/2012.     
 2.  De Minister geeft kennis van een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012 en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012 in de Staatscourant.   
-3.  Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) nr. 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij Dienst Regelingen.   
+3.  Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) nr. 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij de minister.   
 4.  Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EU) nr. 1151/2012 voldoet, zendt de minister deze door naar de Europese Commissie.   
 5.  Indien de minister besluit tot doorzending van een aanvraag tot registratie of van een verzoek tot niet-minimale wijziging van een productdossier, wordt dit besluit tezamen met de versie van het productdossier waarop het besluit betrekking heeft, gepubliceerd in de Staatscourant.   
 6.  De Minister voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) nr. 1151/2012. 
@@ -291,7 +289,7 @@ c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van 
 ####Door Europese Commissie voorgenomen registratie, wijziging of annulering
 
 1.  De Minister geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in de Staatscourant.   
-2.  Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) nr. 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan Dienst Regelingen.   
+2.  Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) nr. 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.   
 3.  De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) nr. 1151/2012.  
 
 ### §  2.4  

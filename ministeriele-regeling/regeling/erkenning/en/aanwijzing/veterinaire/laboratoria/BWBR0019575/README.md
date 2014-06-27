@@ -57,7 +57,9 @@ l. beschikking 2004/558/EG: beschikking nr. 2004/558/EG van de Commissie van de 
 
 m. *NVWA*: Nederlandse Voedsel- en Warenautoriteit;  
 
-n. RvA: Raad voor Accreditatie.   
+n. RvA: Raad voor Accreditatie;  
+
+o.  *minister:* Minister van Economische Zaken.  
 
 ### Artikel  2  
 
@@ -164,7 +166,7 @@ b. geen inzage te verlenen in of geen mededelingen te doen over resultaten van d
 
 c. een elektronisch in- en uitslagregister van de monsters operationeel te hebben dat is gekoppeld aan een elektronisch register van de NVWA of van een andere door de NVWA aangewezen organisatie op een zodanige wijze dat de minister op ieder gewenst moment een koppeling kan leggen tussen de monsters en het individuele rund, waarvan het monster afkomstig is;  
 
-d. maandelijks aan de Dienst Regelingen te rapporteren over de in die maand uitgevoerde onderzoeken, bedoeld in de bijlage, onder 1, de uitslagen van die onderzoeken en de leeftijd van de onderzochte dieren, overeenkomstig een door de Dienst Regelingen opgesteld format.   
+d. maandelijks aan de minister te rapporteren over de in die maand uitgevoerde onderzoeken, bedoeld in de bijlage, onder 1, de uitslagen van die onderzoeken en de leeftijd van de onderzochte dieren, overeenkomstig een door de minister opgesteld format.   
 
 ### Artikel  16a  
 
