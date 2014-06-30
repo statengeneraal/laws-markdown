@@ -31,7 +31,7 @@ d.  *inflatiepercentage:* het onmiddellijk voorafgaand aan de datum van 1 juli,
 e.  *Onze Minister:* Onze Minister voor Wonen en Rijksdienst;  
 
 f.  *zittingscommissie:* zittingscommissie als bedoeld in artikel 21, eerste lid.     
-2.  In deze wet en de daarop berustende bepalingen wordt onder woonruimte, zelfstandige woning, woonwagen, standplaats, prijs, huurprijs, huishoudinkomen, peiljaar en servicekosten verstaan hetgeen daaronder wordt verstaan in [afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+2.  In deze wet en de daarop berustende bepalingen wordt onder woonruimte, zelfstandige woning, woonwagen, standplaats, prijs, huurprijs, huishoudinkomen, peiljaar en kosten voor nutsvoorzieningen met een individuele meter en servicekosten verstaan hetgeen daaronder wordt verstaan in [afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
 
 ### §  2  
 
@@ -133,11 +133,11 @@ d. ingevolge [artikel 7:255 van het Burgerlijk Wetboek](../../../../../wet/burge
 
 e. ingevolge [artikel 7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de in rekening te brengen huurprijs bij vermindering van het woongenot als gevolg van een gebrek;  
 
-f. ingevolge [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de huurprijs en het voorschotbedrag aan servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen;  
+f. ingevolge [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen;  
 
-g. ingevolge [artikel 7:260 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de betalingsverplichting met betrekking tot de servicekosten;  
+g. ingevolge [artikel 7:260 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten;  
 
-h. ingevolge [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over het voorschotbedrag van de servicekosten.     
+h. ingevolge [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter.     
 3.  De huurcommissie doet uitspraak in gevallen waarin als gevolg van een uitspraak als bedoeld in de [artikelen 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) de in rekening te brengen huurprijs in verband met gebreken is verlaagd, omtrent het verholpen zijn van die gebreken.   
 4.  De huurcommissie doet uitspraak indien ingevolge artikel 20, zesde lid, verzet is gedaan tegen een uitspraak van de voorzitter.  
 
@@ -175,7 +175,7 @@ b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld i
 
 ### Artikel  7  
 
-1.  Voor het door de huurcommissie doen van een uitspraak als bedoeld in artikel 4, tweede of derde lid, is door de verzoeker een voorschot op de voor hem geldende vergoeding aan de Staat, bedoeld in het tweede lid, verschuldigd of door de partij die niet de verzoeker is, de voor hem geldende vergoeding, bedoeld in dat lid. Het bedrag van dat voorschot en die vergoeding wordt bij algemene maatregel van bestuur vastgesteld, mede aan de hand van het gegeven of de verzoeker of de partij die niet de verzoeker is een natuurlijke persoon of een rechtspersoon is.  
+1.  Voor het door de huurcommissie doen van een uitspraak als bedoeld in artikel 4, tweede of derde lid, is door de verzoeker een voorschot op de voor hem geldende vergoeding aan de Staat, bedoeld in het tweede lid, verschuldigd of door de partij die niet de verzoeker is, de voor hem geldende vergoeding, bedoeld in dat lid. Het bedrag van dat voorschot en die vergoeding wordt bij algemene maatregel van bestuur vastgesteld, mede aan de hand van het gegeven of de verzoeker of de partij die niet de verzoeker is een huurder of een verhuurder is. Het bedrag van dat voorschot en die vergoeding dat voor de huurder wordt vastgesteld, geldt eveneens voor de verhuurder die door het verstrekken van bij ministeriële regeling te bepalen gegevens aantoont dat hij een natuurlijke persoon is.  
 2.  Bij het doen van een uitspraak geeft de huurcommissie gemotiveerd aan welke partij en tot welk bedrag een vergoeding aan de Staat verschuldigd is. Indien de huurcommissie van oordeel is dat de huurder niet ingevolge [artikel 7:253, tweede lid, tweede volzin, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) gegevens met betrekking tot het huishoudinkomen heeft verstrekt, kan zij gemotiveerd uitspreken dat de verhuurder deze vergoeding niet is verschuldigd. Deze vergoeding is, in andere gevallen dan dat, bedoeld in de tweede volzin, verschuldigd door de partij die naar het oordeel van de huurcommissie geheel of voor het grootste deel, gelet op de strekking van het verzoekschrift, de in het ongelijk gestelde partij is. Indien de huurcommissie, in andere gevallen dan dat, bedoeld in de tweede volzin, van oordeel is dat beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, kan zij gemotiveerd uitspreken dat elke partij de helft van de voor hem geldende vergoeding aan de Staat verschuldigd is. In gevallen waarin de voorzitter bevoegd is tot het doen van een uitspraak, komen de in de eerste tot en met vierde volzin bedoelde bevoegdheden toe aan de voorzitter.   
 3.  Indien naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift, en in andere gevallen dan die, bedoeld in het tweede lid, tweede volzin, 
 
@@ -207,7 +207,7 @@ b. beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, wordt
 
 ### Artikel  8  
 
-Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 5, vierde lid, is door de verzoeker een vergoeding aan de Staat verschuldigd, waarvan het bedrag bij algemene maatregel van bestuur wordt vastgesteld, mede aan de hand van het gegeven of de verzoeker een natuurlijke persoon of een rechtspersoon is. 
+Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 5, vierde lid, is door de verzoeker een vergoeding aan de Staat verschuldigd, waarvan het bedrag bij algemene maatregel van bestuur wordt vastgesteld, mede aan de hand van het gegeven of de verzoeker een huurder of een verhuurder is. Het bedrag van die vergoeding dat voor de huurder wordt vastgesteld, geldt eveneens voor de verhuurder die door het verstrekken van bij ministeriële regeling te bepalen gegevens aantoont dat hij een natuurlijke persoon is. 
 
 ### Hoofdstuk  III  
 
@@ -220,7 +220,10 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 ### Artikel  9  
 
 1.  Een verzoek aan de huurcommissie wordt schriftelijk ingediend.   
-2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens [titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bij de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en bij of krachtens deze wet gestelde voorschriften. 
+2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens [titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bij de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en bij of krachtens deze wet gestelde voorschriften.  
+3.  In geval van een verzoek als bedoeld in [artikel 7:260, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 36 beloopt.   
+4.  In geval van een verzoek als bedoeld in [artikel 7:261, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 3 per maand beloopt.   
+5.  De bedragen, genoemd in het derde en vierde lid, kunnen bij ministeriële regeling hoger of lager worden gesteld. 
 
 ### Artikel  9a  
 
@@ -310,43 +313,42 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 1.  In geval van een verzoek als bedoeld in [artikel 7:257, tweede lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak of zij van oordeel is dat de overeengekomen huurprijs, in verband met de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de commissie van oordeel is dat die huurprijs, in verband met de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.   
 2.  De huurcommissie neemt bij haar oordeel de krachtens artikel 12, tweede lid, vastgestelde regels in acht, met dien verstande dat de huurcommissie zich slechts een eigen oordeel over de gebreken vormt, voorzover deze aan de verhuurder door middel van de in [artikel 7:207 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde kennisgeving door de huurder zijn gemeld, alsmede over de gebreken die van zodanige aard of samenhang zijn dat ze ook zonder aanzegging aan de verhuurder bekend moesten zijn, zulks naar de toestand op het tijdstip waarop de bedoelde kennisgeving door de huurder is verzonden.   
 3.  De huurcommissie vermeldt in de uitspraak de datum van ingang van de in rekening te brengen lagere huurprijs, zijnde de eerste dag van de maand, volgend op die waarin de in het tweede lid bedoelde aanzegging door de huurder aan de verhuurder is verzonden.   
-4.  Indien ondanks door de huurcommissie geconstateerde gebreken ten aanzien van de woonruimte de huurprijs door de huurcommissie redelijk wordt geacht, omdat de overeengekomen huurprijs gelijk is aan of lager is dan de in verhouding tot die gebreken ingevolge dit artikel ten laagste in een uitspraak te vermelden in rekening te brengen huurprijs, geeft de huurcommissie die gebreken in haar uitspraak aan, vermeldt de geldende huurprijs als de in rekening te brengen huurprijs en behandelt het verzoek voor het overige met overeenkomstige toepassing van het eerste lid, tweede volzin, en het tweede lid.   
-5.   Artikel 12, vierde en vijfde lid, is van overeenkomstige toepassing.   
+4.   Artikel 12, vierde en vijfde lid, is van overeenkomstige toepassing.   
 
 ### §  7  
 
-####De huurprijs en het voorschotbedrag aan servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
+####De huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
 
 ### Artikel  17  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de vraag of partijen al dan niet een huurprijs zijn overeengekomen. Indien de huurcommissie van oordeel is dat partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, spreekt zij als huurprijs uit 55% van de geldende maximale huurprijsgrens, behorende bij de kwaliteit van de woonruimte, en spreekt zij, voorzover nodig, als voorschotbedrag voor de servicekosten uit een bedrag van 25% van die huurprijs. Indien het betreft een verzoek van de verhuurder, als bedoeld in [artikel 7:258, tweede volzin, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), spreekt de huurcommissie, in afwijking van de tweede volzin, als huurprijs en voorzover nodig als voorschotbedrag voor de servicekosten uit een bedrag van 80%, onderscheidenlijk 20%, van de overeengekomen prijs.   
-2.  De artikelen 11, tweede lid, en 13, vierde lid, zijn van overeenkomstige toepassing.   
-3.  Indien de huurcommissie van oordeel is dat niet een huurprijs is overeengekomen, vermeldt zij in haar uitspraak dat de door haar uitgesproken huurprijs en het voorschotbedrag voor de servicekosten in de plaats treden van de overeengekomen prijs met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
+1.  In geval van een verzoek als bedoeld in [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) oordeelt de huurcommissie dat de voorgestelde huurprijs redelijk is als deze niet lager dan 55% van de overeengekomen prijs en het voorgestelde voorschotbedrag voor de kosten voor nutsvoorzieningen en servicekosten niet lager dan 25% van de overeengekomen prijs is. Indien de huurcommissie van oordeel is dat de voorgestelde huurprijs niet redelijk is, stelt zij deze vast op 55% van de overeengekomen prijs en, voor zover nodig, het voorgestelde voorschotbedrag op 25% van de overeengekomen prijs.   
+2.  Indien de huurcommissie van oordeel is dat niet een huurprijs is overeengekomen, vermeldt zij in haar uitspraak dat de door haar uitgesproken huurprijs en het voorschotbedrag voor de servicekosten in de plaats treden van de overeengekomen prijs met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
 
 ### Artikel  17a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ingeval bij een verzoek als bedoeld in [artikel 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:253](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:254](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:255](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:257, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:260](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of [7:261, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), blijkt dat de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurcommissie, voordat een uitspraak wordt gegeven, ambtshalve de huurprijs vaststellen op 55% van de overeengekomen prijs en, voor zover nodig, het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter en servicekosten op 25% van de overeengekomen prijs.   
 2.  Artikel 17, tweede lid, is van overeenkomstige toepassing.  
 
 ### §  8  
 
-####De betalingsverplichting met betrekking tot de servicekosten
+####De betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten
 
 ### Artikel  18  
 
 1.  In geval van een verzoek als bedoeld in [artikel 7:260 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de betalingsverplichting van de huurder met betrekking tot de servicekosten.   
-2.  De huurcommissie toetst de servicekosten aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.  
+2.  De huurcommissie toetst de kosten voor nutsvoorzieningen met een individuele meter aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.   
+3.  Indien de verhuurder gebruik heeft gemaakt van het formulier, genoemd in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), toetst de huurcommissie de servicekosten aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.   
+4.  Indien de verhuurder geen gebruik heeft gemaakt van het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel indien dat formulier onvolledig is ingevuld, stelt de huurcommissie de servicekosten vast op een bij ministeriële regeling vastgesteld bedrag of indien de zaak of dienst door de verhuurder niet is geleverd op € 0. 
 
 ### §  9  
 
-####Het voorschotbedrag van de servicekosten
+####Het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter
 
 ### Artikel  19  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van het voorschotbedrag voor de servicekosten.   
-2.  De huurcommissie beoordeelt of het voorschotbedrag voor de servicekosten, indien nodig herleid tot een bedrag per jaar, in aanzienlijke mate afwijkt van hetgeen in redelijke verhouding staat tot de in het desbetreffende jaar te verwachten servicekosten. Indien de huurcommissie van oordeel is dat daarvan sprake is, spreekt zij uit welk voorschotbedrag van de servicekosten in redelijke verhouding staat tot de te verwachten servicekosten.   
-3.  De in het tweede lid bedoelde te verwachten servicekosten worden gesteld op het bedrag van de servicekosten, opgenomen in het laatstelijk in de drie voorafgaande kalenderjaren door de verhuurder verstrekte verrekenoverzicht inzake de desbetreffende of soortgelijke serviceposten, verhoogd met het percentage waarmee de consumentenprijsindex voor werknemersgezinnen sedertdien is verhoogd. Indien geen verrekenoverzicht in de in de eerste volzin bedoelde periode is verstrekt, worden bedoelde kosten gesteld op de daarvoor als gebruikelijk aan te merken kosten.    
+1.  In geval van een verzoek als bedoeld in [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter.   
+2.  De huurcommissie beoordeelt of het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter, indien nodig herleid tot een bedrag per jaar, in aanzienlijke mate afwijkt van hetgeen in redelijke verhouding staat tot de in het desbetreffende jaar te verwachten kosten voor nutsvoorzieningen met een individuele meter. Indien de huurcommissie van oordeel is dat daarvan sprake is, spreekt zij uit welk voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter in redelijke verhouding staat tot de te verwachten kosten voor nutsvoorzieningen met een individuele meter.   
+3.  De in het tweede lid bedoelde te verwachten kosten voor nutsvoorzieningen met een individuele meter worden gesteld op het bedrag van de kosten voor nutsvoorzieningen met een individuele meter, opgenomen in het laatstelijk in de drie voorafgaande kalenderjaren door de verhuurder verstrekte verrekenoverzicht inzake de desbetreffende of soortgelijke serviceposten, verhoogd met het percentage waarmee de consumentenprijsindex voor werknemersgezinnen sedertdien is verhoogd. Indien geen verrekenoverzicht in de in de eerste volzin bedoelde periode is verstrekt, worden bedoelde kosten gesteld op de daarvoor als gebruikelijk aan te merken kosten.    
 4.  De huurcommissie vermeldt in haar uitspraak dat het door haar uitgesproken voorschotbedrag in de plaats treedt van het overeengekomen voorschotbedrag met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
 
 ###§ 10 

@@ -1912,6 +1912,15 @@ De artikelen 43, onderdeel c, 46 en 124 zoals die luidden op de dag voorafgaand 
 1.  Ten aanzien van dienstbetrekkingen die voorafgaand aan 1 januari 2012 zijn ingegaan en waarvoor voorafgaand aan 1 januari 2012 een aanvraag voor subsidie voor loonkosten is ingediend, blijven artikel 37a van deze wet, de daarop berustende bepalingen en [artikel 30e van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zoals die luidden op 31 december 2011 gelden.   
 2.  Dit artikel vervalt vijf jaar na de dag waarop artikel IX van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.  
 
+### Artikel  133i  
+
+####Overgangsrecht in verband met artikel 59 
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien het recht op een uitkering op grond van deze wet ontstaat op of na 1 januari 2016 en voor 1 april 2019 en het aantal kalenderjaren opgebouwd arbeidsverleden op grond van artikel 59, tweede lid, onderdeel a en b, meer is dan 24, wordt de duur van de loongerelateerde uitkering van de WGA-uitkering in afwijking van artikel 59, tweede lid, als volgt berekend: A – B. Hierbij staat: A voor een maand voor ieder kalenderjaar dat op 1 januari 2016 aan opgebouwd arbeidsverleden bestaat of zou hebben bestaan, doch ten hoogste voor 38; en B voor het aantal kalenderkwartalen met ingang van 1 januari 2016 tot en met het kalenderkwartaal waarin het recht op een uitkering op grond van deze wet is ontstaan. De uitkomst wordt uitgedrukt in een aantal maanden arbeidsverleden en is ten minste 24 maanden.   
+2.  Dit artikel vervalt met ingang van 1 april 2019.  
+
 ### Hoofdstuk  14  
 
 ####Strafbepalingen

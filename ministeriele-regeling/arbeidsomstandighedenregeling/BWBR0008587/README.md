@@ -951,79 +951,7 @@ c. C.I. Basic Violet 3 met 0,1% of meer Michlers keton.
 
 ####Meetmethodes asbest
 
-### Artikel  4.21  
-
-####Algemeen
-
-De metingen, bedoeld in [artikel 4.47, derde lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) worden overeenkomstig de artikelen 4.22 tot en met 4.26 uitgevoerd.  
-
-### Artikel  4.22  
-
-####Monsterneming
-
-Monsters worden genomen uit de individuele ademzone van de werknemers, dat wil zeggen binnen een halve bol met een straal van 300 mm frontaal voor het gezicht en gemeten vanaf het midden van een lijn, die de oren verbindt.  
-
-### Artikel  4.23  
-
-####Te gebruiken materialen
-
-Bij monsterneming wordt gebruik gemaakt van: 
-
-a. membraanfilters van gemengde esters van cellulose of cellulosenitraat, met een poriëngrootte van 0,8 tot 1,2 micrometer met gedrukte vierkanten en een doorsnede van 25 mm en een optimale belasting van 100/400 vezels per mm²;  
-
-b. een open filterhouder, voorzien van een cilindervormige kap die zich tussen 33 en 44 mm voor het filter bevindt, waardoor een cirkelvormig oppervlak van ten minste 20 mm doorsnee wordt blootgesteld, waarvan de kap bij het gebruik naar beneden is gericht;  
-
-c. een draagbaar pompje met batterijvoeding dat de werknemer tijdens de monsterneming meedraagt, waarvan de luchtsnelheid regelmatig is en wordt afgesteld op 1 liter per minuut ± 5%; deze luchtsnelheid blijft tijdens de periode van de monsterneming gehandhaafd binnen ± 10% van aanvankelijke stroomsnelheid, waarbij voor de duur van de monsterneming een marge van 2% is toegestaan.   
-
-### Artikel  4.24  
-
-####Vezeltelling
-
-1.  De voor de vezeltelling te gebruiken binoculaire microscoop heeft de volgende kenmerken: 
-
-a. Koehler-verlichting;  
-
-b. onder de voorwerptafel is een centreerring, een Abbe- of achromatische fasecontrastcondensor ingebouwd, waarbij het fasecontrast onafhankelijk van het mechanisme van de condensorcentrering wordt ingesteld;  
-
-c. een positief par-focaal achromatisch fasecontrastobjectief, met een vergroting van 40 maal en met een numerieke opening van 0,65 tot 0,70 en een fase-ring-absorptie van 65 tot 85%;  
-
-d. een algeheel gecompenseerd oculair met een vergroting van 12,5;  
-
-e. ten minste één oculair is geschikt voor een graticule en moet te focussen zijn;  
-
-f. een Walton-Beckett ringvormige oculairgraticule met een zichtbare diameter in het objectvlak van 100 micrometer, ± 2 micrometer, bij gebruik van het gespecificeerde objectief en oculair, en geverifieerd met een micrometer op een voorwerptafel.     
-2.  De microscoop wordt aan het begin van de dag van gebruik opgesteld volgens de voorschriften van de fabrikant, waarbij de waarnemingsgrens wordt gecontroleerd aan de hand van een fase-contrastproefplaatje. De codes op de AIA-proefglaasjes of op de blokken op het HSE/NLP/Mark 2 proefglaasje zijn bij gebruik volgens de door de fabrikant aangegeven wijze zichtbaar tot aan code 5 respectievelijk blok 5.   
-
-### Artikel  4.25  
-
-####Voorschriften bij telling
-
-Telling van de vezels op het filter, bedoeld in artikel 4.24, vindt plaats volgens de onderstaande voorschriften:  
-
-a. alleen telbare vezels worden geteld; onder telbare vezel wordt verstaan een vezel die voldoet aan de definitie van een vezel, bedoeld in [artikel 4.37, eerste lid, onder c, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) die geen deeltje met een maximum diameter groter dan 3 micrometer raakt;  
-
-b.  telbare vezels waarvan de twee uiteinden zich binnen de graticulezone bevinden, worden als één vezel geteld;  
-
-c. telbare vezels waarvan zich één uiteinde binnen de graticulezone bevindt, worden als een halve vezel geteld;   
-
-d. een vezelcluster dat over zijn lengte op één of meer plaatsen stevig en niet gespleten schijnt te zijn maar dat op andere plaatsen in afzonderlijke vezels uiteen schijnt te vallen, is één telbare vezel indien het voldoet aan de definitie van een vezel, bedoeld in [artikel 4.37, eerste lid, onder c, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md); de diameter wordt gemeten dwars door het niet-gespleten deel en niet door het gespleten deel;  
-
-e. bij vezelclusters in de vorm van een bundel, waarin de afzonderlijke vezels elkaar raken of kruisen, worden deze vezels apart geteld indien zij voldoende van elkaar kunnen worden onderscheiden om vast te stellen dat zij voldoen aan de definitie van een vezel; wanneer dit niet het geval is, dan is de bundel een telbare vezel, indien hij als geheel aan de definitie voldoet;  
-
-f. het filter dan wel een deel daarvan wordt op een voorwerpglaasje geplaatst, doorzichtig gemaakt volgens de acetontriacetinemethode en met een dekglaasje bedekt;  
-
-g. graticulezones waar zal worden geteld, worden a-select in het hele blootgestelde oppervlak van het filter gekozen;  
-
-h. indien meer dan een achtste van een graticulezone is bedekt met een vezelcluster dan wel deeltjes wordt de graticulezone overgeslagen en wordt een andere zone geteld;  
-
-i. er worden 100 vezels geteld, waarbij minimaal 20 graticulezones worden onderzocht of er worden 100 graticulezones onderzocht.   
-
-### Artikel  4.26  
-
-####Berekening
-
-1.  Het gemiddelde aantal vezels per graticulezone wordt berekend door het aantal getelde vezels te delen door het aantal onderzochte graticulezones. De bijdrage tot het tellen als gevolg van vlekken op het filter en verontreiniging wordt beneden 3 vezels per 100 graticulezones gehouden en wordt gemeten met behulp van blancofilters.   
-2.  De concentratie van vezels in de lucht is (het gemiddeld aantal vezels per graticulezone x de gehele blootgestelde zone van het filter)/(graticulezone x doorgeleid luchtvolume).  
+Vervallen per 01-07-2014 
 
 ### Paragraaf 4.6  
 
@@ -5823,91 +5751,91 @@ B1. Lijst met wettelijke grenswaarden voor kankerverwekkende stoffen, vastgestel
 
 ####Certificatieschema
 
-voor het verwijderen van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident Document: SC-530: 2011, versie 02  *Onder beheer van:*  StichtingAscert www.Ascert.nl 
+voor het verwijderen van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident Document: SC-530  *Onder beheer van:*  StichtingAscert www.Ascert.nl 
 
 ####Inhoud
 
-| --- | --- | --- |
-|:---|:---|:---|
-| DEEL I   | ALGEMENE BEPALINGEN  | 96  |
-| --- | --- | --- |
-| 1.  | Inleiding  | 96  |
-| --- | --- | --- |
-| 2.  | Definities  | 96  |
-| 2.1  | Algemene definities  | 96  |
-| 2.2  | Werkveldspecifieke definities  | 97  |
-| 2.3  | Documenten  | 97  |
-| --- | --- | --- |
-| 3.  | Werkveldspecifieke kenmerken  | 98  |
-| 3.1  | Beschrijving schema  | 98  |
-| 3.2  | Actieve partijen  | 99  |
-| 3.3  | Risicoanalyse en afbreukcriteria  | 99  |
-| --- | --- | --- |
-| 4.  | Certificatiereglement  | 100  |
-| 4.1  | Doelstelling  | 100  |
-| 4.2  | Certificatieprocedure  | 100  |
-| 4.3  | Procedures  | 100  |
-| 4.4  | Beslissing inzake het certificaat  | 103  |
-| 4.5  | Geldigheidsduur van het certificaat  | 103  |
-| 4.6  | Geldigheidscondities  | 103  |
-| 4.7  | Klachten  | 103  |
-| 4.8  | Bezwaarschriftenprocedure  | 104  |
-| 4.9  | Norminterpretatie  | 106  |
-| --- | --- | --- |
-| 5.  | Toezicht  | 106  |
-| 5.1  | Toegang  | 106  |
-| 5.2  | Frequentie van het toezicht  | 106  |
-| 5.3  | De wijze van uitvoering van het toezicht  | 107  |
-| 5.4  | Verslag van bevindingen  | 108  |
-| 5.5  | Sancties bij geconstateerde afwijkingen  | 108  |
-| 5.6  | Kosten van onderzoek  | 110  |
-| --- | --- | --- |
-| DEEL II   | NORMEN  | 111  |
-| --- | --- | --- |
-| 6.  | Onderwerp van certificatie  | 111  |
-| --- | --- | --- |
-| 7.  | Eisen  | 111  |
-| --- | Administratieve eisen  | 111  |
-| 7.1  | Asbestverwijderingsbedrijf of -concern  | 111  |
-| 7.2  | Relaties /combinaties asbestverwijderingsbedrijf en/of -concern binnen de asbestketen  | 111  |
-| 7.3  | Werkterrein en technisch kunnen  | 112  |
-| 7.4  | Aansprakelijkheidsverzekering  | 112  |
-| 7.5  | Leverings-/contractvoorwaarden  | 112  |
-| --- | Eisen aan De beheersing en borging asbestverwijdering  | 113  |
-| 7.6  | Algemene eisen  | 113  |
-| 7.7  | Documentatie-eisen  | 113  |
-| 7.8  | Beheersing van registraties  | 114  |
-| 7.9  | Directieverantwoordelijkheid  | 114  |
-| 7.10  | Directiebeoordeling  | 115  |
-| 7.11  | Management van middelen  | 115  |
-| 7.12  | Het zorgvuldig, arbeidshygiënisch en milieuhygiënisch asbestverwijderen  | 118  |
-| 7.13  | Meting, analyse en verbetering  | 121  |
-| --- | Eisen te stellen aan asbestverwijdering  | 122  |
-| 7.14  | Voorbereiding  | 122  |
-| 7.15  | Uitvoering asbestverwijdering op de projectlocatie  | 125  |
-| 7.16  | Eindbeoordeling na asbestverwijdering  | 128  |
-| 7.17  | Afvoer asbesthoudende materiaal  | 129  |
-| --- | --- | --- |
-| 8.  | Beoordelingsmethodiek  | 129  |
-| 8.1  | Tijdsbesteding bij de beoordelingen  | 129  |
-| 8.2  | Combinatie met beoordelingen voor andere certificatieschema’s  | 129  |
-| --- | --- | --- |
-| 9.  | Het certificaat  | 23+  |
-| 9.1  | Gegevens  | 129  |
-| 9.2  | Gebruik van het certificaat  | 130  |
-| 9.3  | Ascert Certificaatregister  | 130  |
-| --- | --- | --- |
-| DEEL III   | BIJLAGEN  | 131  |
-| --- | --- | --- |
-| BIJLAGE A  | MELDINGSFORMULIER ASBESTINVENTARISATIE- EN VERWIJDERING (V)  | 131  |
-| BIJLAGE B  | DEFINITIES WERKVELDSPECIFIEK (I)  | 133  |
-| BIJLAGE C  | MODEL AANVRAAG PROJECTEN VOOR INITIËLE CERTIFICATIE (V)  | 137  |
-| BIJLAGE D  | MODEL OVEREENKOMST CKI EN CERTIFICAATHOUDER (I)  | 140  |
-| BIJLAGE E  | ASCERT PROCESCERTIFICAAT ASBESTVERWIJDERING (V)  | 142  |
-| BIJLAGE G  | MODEL WERKPLAN (V)  | 148  |
-| BIJLAGE H  | CATEGORIE INDELING SANCTIESTELSEL ASBESTVERWIJDERING TABEL 5.5.3 (V)  | 151  |
-| BIJLAGE I  | MAATREGELEN ALGEMEEN (V)  | 164  |
-| BIJLAGE J  | ONDERVERDELING VAN DE AFWIJKINGEN (V)  | 167  |
+| --- | --- |
+|:---|:---|
+| DEEL I   | ALGEMENE BEPALINGEN  |
+| --- | --- |
+| 1.  | Inleiding  |
+| --- | --- |
+| 2.  | Definities  |
+| 2.1  | Algemene definities  |
+| 2.2  | Werkveldspecifieke definities  |
+| 2.3  | Documenten  |
+| --- | --- |
+| 3.  | Werkveldspecifieke kenmerken  |
+| 3.1  | Beschrijving schema  |
+| 3.2  | Actieve partijen  |
+| 3.3  | Risicoanalyse en afbreukcriteria  |
+| --- | --- |
+| 4.  | Certificatiereglement  |
+| 4.1  | Doelstelling  |
+| 4.2  | Certificatieprocedure  |
+| 4.3  | Procedures  |
+| 4.4  | Beslissing inzake het certificaat  |
+| 4.5  | Geldigheidsduur van het certificaat  |
+| 4.6  | Geldigheidscondities  |
+| 4.7  | Klachten  |
+| 4.8  | Bezwaarschriftenprocedure  |
+| 4.9  | Norminterpretatie  |
+| --- | --- |
+| 5.  | Toezicht  |
+| 5.1  | Toegang  |
+| 5.2  | Frequentie van het toezicht  |
+| 5.3  | De wijze van uitvoering van het toezicht  |
+| 5.4  | Verslag van bevindingen  |
+| 5.5  | Sancties bij geconstateerde afwijkingen  |
+| 5.6  | Kosten van onderzoek  |
+| --- | --- |
+| DEEL II   | NORMEN  |
+| --- | --- |
+| 6.  | Onderwerp van certificatie  |
+| --- | --- |
+| 7.  | Eisen  |
+| --- | Administratieve eisen  |
+| 7.1  | Asbestverwijderingsbedrijf of -concern  |
+| 7.2  | Relaties /combinaties asbestverwijderingsbedrijf en/of -concern binnen de asbestketen  |
+| 7.3  | Werkterrein en technisch kunnen  |
+| 7.4  | Aansprakelijkheidsverzekering  |
+| 7.5  | Leverings-/contractvoorwaarden  |
+| --- | Eisen aan De beheersing en borging asbestverwijdering  |
+| 7.6  | Algemene eisen  |
+| 7.7  | Documentatie-eisen  |
+| 7.8  | Beheersing van registraties  |
+| 7.9  | Directieverantwoordelijkheid  |
+| 7.10  | Directiebeoordeling  |
+| 7.11  | Management van middelen  |
+| 7.12  | Het zorgvuldig, arbeidshygiënisch en milieuhygiënisch asbestverwijderen  |
+| 7.13  | Meting, analyse en verbetering  |
+| --- | Eisen te stellen aan asbestverwijdering  |
+| 7.14  | Voorbereiding  |
+| 7.15  | Uitvoering asbestverwijdering op de projectlocatie  |
+| 7.16  | Eindbeoordeling na asbestverwijdering  |
+| 7.17  | Afvoer asbesthoudende materiaal  |
+| --- | --- |
+| 8.  | Beoordelingsmethodiek  |
+| 8.1  | Tijdsbesteding bij de beoordelingen  |
+| 8.2  | Combinatie met beoordelingen voor andere certificatieschema’s  |
+| --- | --- |
+| 9.  | Het certificaat  |
+| 9.1  | Gegevens  |
+| 9.2  | Gebruik van het certificaat  |
+| 9.3  | Ascert Certificaatregister  |
+| --- | --- |
+| DEEL III   | BIJLAGEN  |
+| --- | --- |
+| BIJLAGE A  | MELDINGSFORMULIER ASBESTINVENTARISATIE- EN VERWIJDERING (V)  |
+| BIJLAGE B  | DEFINITIES WERKVELDSPECIFIEK (I)  |
+| BIJLAGE C  | MODEL AANVRAAG PROJECTEN VOOR INITIËLE CERTIFICATIE (V)  |
+| BIJLAGE D  | MODEL OVEREENKOMST CKI EN CERTIFICAATHOUDER (I)  |
+| BIJLAGE E  | ASCERT PROCESCERTIFICAAT ASBESTVERWIJDERING (V)  |
+| BIJLAGE G  | MODEL WERKPLAN (V)  |
+| BIJLAGE H  | CATEGORIE INDELING SANCTIESTELSEL ASBESTVERWIJDERING TABEL 5.5.3 (V)  |
+| BIJLAGE I  | MAATREGELEN ALGEMEEN (V)  |
+| BIJLAGE J  | ONDERVERDELING VAN DE AFWIJKINGEN (V)  |
 
 ### Deel  I  
 
@@ -5971,12 +5899,12 @@ Dit werkveldspecifieke certificatieschema SC-530 is door Centraal College van De
 | Opdrachtgever:  | Opdrachtgever in de zin van [artikel 1.1, tweede lid, aanhef en onder c en d van het Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md).  |
 | Project:  | een bouwwerk in de zin van [artikel 1.1, tweede lid, aanhef en onder b van het Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), waarbij de grenzen van het project worden gevormd door de gehele opdracht van de opdrachtgever.  |
 | Risicoanalyse:  | Analyse waaruit motivatie, voor te maken keuzes in werkveldspecifiek probleemgebied blijkt, op te nemen in het beoogde certificatieschema.  |
-| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501: 2011, versie 02.  |
-| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502: 2011, versie 02.  |
-| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510: 2011, versie 02.  |
-| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520: 2011, versie 02.  |
-| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530: 2011, versie 02.  |
-| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540: 2011, versie 02.  |
+| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501.  |
+| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502.  |
+| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510.  |
+| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520.  |
+| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530.  |
+| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540.  |
 | Toezicht:  | Het verzamelen van de informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren.  |
 | Toezicht en handhavende instellingen:  | (Overheids)instellingen belast met het toezicht en de handhaving op de asbestverwijdering zoals certificatie-instellingen (aangewezen door het ministerie van SZW), Inspectie SZW, Inspectie Leefomgeving en Transport, gemeenten, milieupolitie etc.  |
 | Werkveldspecifiek certificatieschema (WSSC):  | Term gebruikt door SZW voor een certificatieschema dat door de minister van SZW is geaccepteerd te gebruiken binnen een specifieke aanwijzing als CKI voor personen, producten of systemen.  |
@@ -6061,19 +5989,19 @@ Binnen de Stichting Certificatie Asbest zijn met name actief:
 
 ####Algemeen
 
-Vanwege de goede eigenschappen is Asbest in het verleden veel gebruikt, bijvoorbeeld in gebouwen en woningen. Asbestvezels kunnen bij inademing echter diep in de longen doordringen en op termijn buikvlieskanker, longvlieskanker en asbestose (stoflongen) veroorzaken. Hieraan sterven jaarlijks in Nederland naar schatting zo'n 700 mensen. De termijn tussen blootstelling en ziek worden kan tientallen jaren duren. IenM is samen met SZW en VWS verantwoordelijk voor regelgeving over asbest. Bij activiteiten in het kader van de verwijdering van asbest is er een risico dat er asbestvezels in de ademzone van werknemers komen. Het aantal vezels tijdens de activiteiten is onderscheiden in drie afzonderlijke risicoklassen: 
+Vanwege de goede eigenschappen is Asbest in het verleden veel gebruikt, bijvoorbeeld in gebouwen en woningen. Asbestvezels kunnen bij inademing echter diep in de longen doordringen en op termijn buikvlieskanker, longvlieskanker en asbestose (stoflongen) veroorzaken. Hieraan sterven jaarlijks in Nederland naar schatting zo'n 700 mensen. De termijn tussen blootstelling en ziek worden kan tientallen jaren duren. I en M is samen met SZW en VWS verantwoordelijk voor regelgeving over asbest. Bij activiteiten in het kader van de verwijdering van asbest is er een risico dat er asbestvezels in de ademzone van werknemers komen. Het aantal vezels tijdens de activiteiten is onderscheiden in drie afzonderlijke risicoklassen: 
 
-1. Risicoklasse 1: tijdens de werkzaamheden is de asbestvezelconcentratie in de ademzone van de betreffende werknemer(s) kleiner dan 0,01 vezel/cm<sup>3</sup>;  
+1. Risicoklasse 1: tijdens de werkzaamheden is de concentratie van chrysotiele asbestvezels in de ademzone van de betreffende werknemer(s) kleiner dan 2000 vezels/m<sup>3</sup> en de concentratie van amfibole asbestvezels in de ademzone van de betreffende werknemer(s) kleiner dan 10.000 vezels/m<sup>3</sup>.  
 
-2. Risicoklasse 2: tijdens de werkzaamheden is de asbestvezelconcentratie in de ademzone van de betreffende werknemer(s) tussen de 0,01 en 1 vezel/cm<sup>3</sup>;  
+2. Risicoklasse 2: tijdens de werkzaamheden is de concentratie van chrysotiele asbestvezels in de ademzone van de betreffende werknemer(s) tussen de 2000 en de 1.000.000 vezels/m<sup>3</sup> of de concentratie van amfibole asbestvezels in de ademzone van de betreffende werknemer(s) tussen de 10 000 en de 1.000.000 vezels/m<sup>3</sup>.  
 
-3. Risicoklasse 3: tijdens de werkzaamheden is de asbestvezelconcentratie in de ademzone van de betreffende werknemer(s) hoger dan 1 vezel/cm<sup>3</sup>.   Conform het [Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is aan deze drie risicoklassen (onderstaande tabel) een eigen specifiek veiligheidsregime gekoppeld.   
+3. Risicoklasse 3: tijdens de werkzaamheden is de asbestvezelconcentratie in de ademzone van de betreffende werknemer(s) hoger dan 1.000.000 vezels/m<sup>3</sup>.   Conform het [Arbeidsomstandighedenbesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) is aan deze drie risicoklassen (onderstaande tabel) een eigen specifiek veiligheidsregime gekoppeld.  
 
-| Risicoklasse  | Beschrijving van de belangrijkste kenmerken  | Lit. 2  |
+| Risicoklasse  | Beschrijving van de belangrijkste kenmerken  |--- |
 |:---|:---|:---|
-| 1  |  *Blootstellingsniveau < 0,01 vezels/cm<sup>3</sup> (10.000 vezels/m<sup>3</sup>)*   Licht regime, vergelijkbaar met de oude ‘vrijstellingsregelingen’.   | [Art. 4.44](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
-| 2  |  *Blootstellingsniveau 0,01 tot 1 vezels/cm<sup>3</sup> (10.000 tot 1.000.000 vezels/m<sup>3</sup>)*   Standaardregime conform de SC-530.   | [Art. 4.48](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
-| 3  |  *Blootstellingsniveau > 1 vezels/cm<sup>3</sup> (> 1.000.000 vezels/cm<sup>3</sup>)*   Verzwaard regime conform SC-530, uitsluitend voor verwijdering van ‘risicovolle’ niet-hechtgebonden materialen zoals spuitasbest, leiding- en ketelisolatie, brandwerend board en asbestkarton.   | [Art. 4.53a](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
+| 1  | Licht regime, vergelijkbaar met de oude ‘vrijstellingsregelingen’.  | [Art. 4.44](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
+| 2  | Standaardregime conform de SC-530.  | [Art. 4.48](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
+| 3  | Verzwaard regime conform SC-530, uitsluitend voor verwijdering van ‘risicovolle’ niet-hechtgebonden materialen zoals spuitasbest, leiding- en ketelisolatie, brandwerend board en asbestkarton.  | [Art. 4.53a](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)  |
 
 ### 3.3.2  
 
@@ -7616,7 +7544,7 @@ Ter afronding van het asbestverwijderingswerk dienen minimaal de volgende acties
 
 * Het bedrijf voert de oplevering en daarmee het einde van het asbestverwijderingswerk in het LAVS in zodra dit beschikbaar is en verplicht gesteld is;  
 
-* Indien er afwijkingen zijn van de oorspronkelijke melding, deze melden bij AI/CKI/gemeente. Toelichting: Wanneer het werk eerder gereed is of langer duurt dan is aangegeven in de oorspronkelijke melding, wordt dit aan de Inspectie SZW, Certificatie-instelling en Gemeente direct doorgegeven. Eveneens wordt opgegeven of het asbest dat in het betreffende inventarisatierapport wordt genoemd, is verwijderd. Zo niet, dan opgeven wat wel is verwijderd;  
+* Indien er afwijkingen zijn van de oorspronkelijke melding, deze melden bij Inspectie SZW/CKI/gemeente. Toelichting: Wanneer het werk eerder gereed is of langer duurt dan is aangegeven in de oorspronkelijke melding, wordt dit aan de Inspectie SZW, Certificatie-instelling en Gemeente direct doorgegeven. Eveneens wordt opgegeven of het asbest dat in het betreffende inventarisatierapport wordt genoemd, is verwijderd. Zo niet, dan opgeven wat wel is verwijderd;  
 
 * Het completeren en terugzoekbaar afleggen van het projectdossier.    
 
@@ -7808,7 +7736,7 @@ Deze gegevens worden volgtijdig door deelnemers aan het proces in het Webportaal
 | Afdichten/afschermen/inkapselen/Impregneren   | Het aanbrengen van een duurzame afscherming of impregnatie ter voorkoming van het vrijkomen van asbestvezels.  Toelichting:  Een duurzame inkapseling/impregnatie bewerkstelligt dat in een besloten ruimte gedurende de resterende gebruiksjaren van een gebouw of constructie vanuit het asbesthoudend materiaal, zelfs onder intensieve gebruikscondities, geen asbestconcentratie in de lucht ontstaat die de door het ministerie van IenM gestelde Streefwaarde uitgedrukt als een 8-uurs gemiddelde concentratie significant overschrijdt.  |
 | Afnemer  | De natuurlijke persoon of rechtspersoon aan wie het asbestinventarisatiebedrijf of het asbestverwijderingsbedrijf de dienst(en) levert.  |
 | Afvalprocedure  | Voor de omschrijving van de afvalprocedure zie document SC-531 op www.ascert.nl  |
-| Amfiboolasbest  | De vezelachtige silicaten actinoliet (Cas-nummer 77536-66-4), amosiet (Cas-nummer 12172-73-5), anthofylliet (Cas-nummer 77536-67-5), croCKIdoliet (Cas-nummer 12001-28-4) en tremoliet (Cas-nummer 77536- 68-6), alsmede producten waarin die vezelachtige silicaten zijn verwerkt.  |
+| Amfiboolasbest  | De vezelachtige silicaten actinoliet (Cas-nummer 77536-66-4), amosiet (Cas-nummer 12172-73-5), anthofylliet (Cas-nummer 77536-67-5), crocidoliet (Cas-nummer 12001-28-4) en tremoliet (Cas-nummer 77536- 68-6), alsmede producten waarin die vezelachtige silicaten zijn verwerkt.  |
 | Arbeidshygiënische criteria  | Criteria met betrekking tot de arbeidshygiënische voorzieningen bij de voorbereiding en uitvoering van asbestinventarisatie of asbestverwijderingswerk.  |
 | Asbest  | De vezelachtige silicaten actinoliet (Cas-nummer 77536-66-4), amosiet (Cas-nummer 12172-73-5), anthofylliet (Cas-nummer 77536-67-5), chrysotiel (Cas-nummer 12001-29-5), crocidoliet (Cas-nummer 12001-28- 4) en tremoliet (Cas-nummer 77536-68-6.  |
 | Asbestanalyse  | Analyse door een voor de desbetreffende verrichting RvA geaccrediteerd laboratorium (zie www.rva.nl) van een materiaal- of luchtmonster op de aanwezigheid, type en percentage/concentratie asbest.  |
@@ -7856,15 +7784,15 @@ Deze gegevens worden volgtijdig door deelnemers aan het proces in het Webportaal
 | Projectlocatie  | Locatie waar het asbestverwijderingswerk of de asbestinventarisatie plaatsvindt.  |
 | Renovatie  | Het verrichten van groot onderhoud aan een gebouw, object of constructie, waarbij gedeeltelijke sloop kan plaatsvinden zonder dat daarbij de bouwkundige integriteit verloren gaat.  |
 | Risicoklassering  | Indeling van sloop- of andere werkzaamheden met of aan asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in één van de drie risicoklassen conform het gewijzigde [Arbobesluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) inzake asbest d.d. 7 juli 2006 (SC-540).  De indeling in risicoklassen is gebaseerd op de hoogte van de blootstelling aan respirabele asbestvezels voor werkers en omgeving conform de methodiek zoals beschreven in TNO-rapport R 2004/523.  |
-| Risicobeoordeling (in niet-sloopsituaties)  | Beoordeling van het blootstellingsrisico aan asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in bouwwerken of objecten (niet-sloopsituaties) conform NEN 2991.  |
+| Risicobeoordeling (in niet-sloopsituaties)  | Beoordeling van het blootstellingsrisico aan asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in bouwwerken of objecten (niet-sloopsituaties) conform NEN 2991:2005.  |
 | Sloop  | Het geheel of gedeeltelijk afbreken van een bouwwerk of object   |
 | Transitroute   | Zie decontaminatieprocedure   |
 | Uitrusting  | Alle technische hulpmiddelen die nodig zijn voor het ten uitvoer brengen van een asbestinventarisatie of asbestverwijderingswerk.  |
 | Validatie-onderzoek (voor indeling in een risicoklasse)  | Onderzoek naar de blootstelling aan respirabele asbestvezels tijdens het uitvoeren van werkzaamheden met asbest of asbesthoudend materiaal met het doel deze werkzaamheden in één van de drie risicoklassen in te delen. Het onderzoek moet worden uitgevoerd onder voor het werk representatieve omstandigheden in de ademzone van de werkers die de werkzaamheden uitvoeren. De uitvoering geschiedt conform NEN 2939 waarin tevens de wijze van monsterneming (Persoonlijke monsterneming) en de te gebruiken analysetechniek (SEM.RMA conform ISO 14966) zijn voorgeschreven. Het toetsen van de gemeten waarden aan de voor de indeling in risicoklassen gehanteerde concentratiegrenzen geschiedt met inachtneming van de norm NEN-EN 689. Opmerking:  Een dergelijk onderzoek behoeft slechts te worden uitgevoerd wanneer het gaat om tot op heden onbekende combinaties van asbesthoudende materialen, toepassingen, saneringstechnieken, of sterk afwijkende omgevingsfactoren waarvan (nog) geen gevalideerde meetgegevens beschikbaar zijn in SMA-rt.  |
-| V&G (veiligheids- en gezondheids coördinator  | De natuurlijke persoon of rechtspersoon die belast is met de in het [Arbeidsomstandighedenbesluit, hoofdstuk 2, afdeling 5](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) (bouwplaatsen) genoemde taken inzake veiligheid en gezondheid gedurende de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een (bouw)werk / object.  |
-| V&G (veiligheids- en gezondheids) plan  | Het document waarin is opgenomen:  • een beschrijving van het werk;  • een overzicht van de bij het werk betrokken natuurlijke personen of rechtspersonen op de (bouw)plaats;  • de naam van de V&G-coördinator ontwerp- en uitvoeringsfase;  • een inventarisatie en evaluatie van gevaren conform artikel 4.1 van de Arbowet;  • de wijze waarop uitvoering wordt gegeven aan de samenwerking tussen werkgevers en eventuele zelfstandigen op de (bouw)plaats, welke voorzieningen daarbij worden getroffen en op welke wijze op die voorzieningen toezicht wordt uitgeoefend;  • de wijze waarop uitvoering wordt gegeven aan de samenwerking en het overleg tussen werkgevers en werknemers op de (bouw)plaats, en de wijze waarop voorlichting en onderricht van de werknemers plaatsvindt;  • gevaar voor derden ([artikel 11 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)).  |
+| V&G (veiligheids- en gezondheids coördinator  | De natuurlijke persoon of rechtspersoon die belast is met de in het [Arbeidsomstandighedenbesluit, hoofdstuk 2, afdeling 5](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) (bouwproces) genoemde taken inzake veiligheid en gezondheid gedurende de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een (bouw)werk / object.  |
+| V&G (veiligheids- en gezondheids) plan  | Het document waarin is opgenomen:  • een beschrijving van het werk;  • een overzicht van de bij het werk betrokken natuurlijke personen of rechtspersonen op de (bouw)plaats;  • de naam van de V&G-coördinator ontwerp- en uitvoeringsfase;  • een inventarisatie en evaluatie van gevaren conform [artikel 5 van de Arbowet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  • de wijze waarop uitvoering wordt gegeven aan de samenwerking tussen werkgevers en eventuele zelfstandigen op de (bouw)plaats, welke voorzieningen daarbij worden getroffen en op welke wijze op die voorzieningen toezicht wordt uitgeoefend;  • de wijze waarop uitvoering wordt gegeven aan de samenwerking en het overleg tussen werkgevers en werknemers op de (bouw)plaats, en de wijze waarop voorlichting en onderricht van de werknemers plaatsvindt;  • gevaar voor derden (artikel 10 van de Arbowet).  |
 | V&G (veiligheids- en gezondheids) dossier  | Het dossier inhoudende informatie die van belang is voor de veiligheid en gezondheid van werknemers die later werkzaamheden aan het (bouw)- werk/object zullen verrichten.  |
-| Vrijgavegrens  | Door de overheid vastgestelde waarde voor de asbestconcentratie in de lucht vastgesteld volgens NEN 2990: 2012, die bepalend is voor de vrijgave van een besloten ruimte na het beroepsmatig verwijderen van asbest of asbesthoudend materiaal.  Opmerking:  Door de overheid wordt thans een waarde gehanteerd van 0,01 vezel/cm<sup>3</sup>, gedefinieerd als een overschrijding van de bovengrens van het 95% betrouwbaarheidsinterval. Zowel de vrijgavegrens als de wijze van toetsing in relatie met de meetonzekerheid worden door de overheid vastgesteld en maken geen deel uit van het normatieve deel van de NEN 2990.  |
+| Vrijgavegrens  | Door de overheid vastgestelde waarde voor de asbestconcentratie in de lucht vastgesteld volgens NEN 2990: 2012, die bepalend is voor de vrijgave van een besloten ruimte na het beroepsmatig verwijderen van asbest of asbesthoudend materiaal.  Opmerking:  Door de overheid wordt thans een waarde gehanteerd van 10.000 vezels/m<sup>3</sup>, gedefinieerd als een overschrijding van de bovengrens van het 95% betrouwbaarheidsinterval. Zowel de vrijgavegrens als de wijze van toetsing in relatie met de meetonzekerheid worden door de overheid vastgesteld en maken geen deel uit van het normatieve deel van de NEN 2990.  |
 | Vrijstellingsonderzoek  | Gevalideerd onderzoek waarmee door middel van representatieve blootstellingsmetingen kan worden aangetoond dat de blootstelling aan asbest beneden het voor risicoklasse 3 maximaal toegestane blootstellingsniveau blijft.  |
 | Werkplan  | De schriftelijke weergave van de voorgenomen uitvoering van activiteiten met betrekking tot asbest met daarin vermeld het in te zetten personeel, de te gebruiken apparatuur, de materialen, materieel, te hanteren werkvoorschriften, werkmethoden en  –instructies.  |
 | Werkplek (asbestverwijdering)  | De afgebakende/afgeschermde en gemarkeerde plaats waar asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen het op arbeidshygiënisch en milieuhygiënisch verantwoorde wijze wordt verwijderd.  |
@@ -8105,7 +8033,7 @@ Aldus in tweevoud opgemaakt en ondertekend,
 
 ####Wenken voor de afnemer/opdrachtgever
 
-1) Bij de uitvoering van toezicht door CKI, AI, en/of gemeente dient de opdrachtgever de toezichthouder toegang te verlenen tot de projectlocatie;  
+1) Bij de uitvoering van toezicht door CKI, Inspectie SZW, en/of gemeente dient de opdrachtgever de toezichthouder toegang te verlenen tot de projectlocatie;  
 
 2) Beoordelingen door de Certificatie-instelling op de projectlocatie vinden altijd onaangekondigd plaats;  
 
@@ -8915,55 +8843,55 @@ Het is mogelijk dat zich in een concreet geval bijzondere omstandigheden voordoe
 
 ####Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor *Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB)* 
 
-Document: SC-502: 2011, versie 02  *Onder beheer van:*  StichtingAscert www.Ascert.nl 
+Document: SC-502  *Onder beheer van:*  StichtingAscert www.Ascert.nl 
 
 ####Inhoud
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 1.  | Inleiding  | 231  |
-| --- | --- | --- |
-| 2.  | Definities en Documenten  | 231  |
-| 2.1  | Definities  | 231  |
-| --- | --- | --- |
-| 3.  | Werkveldspecifieke kenmerken  | 232  |
-| 3.1  | Beschrijving document  | 232  |
-| 3.2  | Actieve partijen  | 232  |
-| 3.3  | Risicoanalyse procescertificatie  | 232  |
-| --- | --- | --- |
-| 4.  | Eisen ten behoeve van de aanwijzing  | 233  |
-| 4.1   | Niet van toepassing  | 233  |
-| 4.2  | Niet van toepassing  | 233  |
-| 4.3  | Procescertificatie  | 233  |
-| 4.3.1  | Uitbesteding  | 233  |
-| 4.3.2  | Certificatieprocedure  | 233  |
-| 4.3.3  | Beschikbaarheid personeel  | 233  |
-| 4.3.4  | Aanpassing van het certificatieschema  | 234  |
-| 4.3.5  | Aanvraag voor certificatie  | 234  |
-| 4.3.6  | Evaluatie  | 234  |
-| 4.3.7  | Toezicht  | 234  |
-| 4.3.8  | Licenties, certificaten, keurmerken  | 235  |
-| 4.4  | Niet van toepassing  | 235  |
-| 4.5  | Aanwijzingscriteria  | 235  |
-| 4.5.1  | Beroepsintegriteit  | 235  |
-| 4.5.2  | Verplichte gedragscode  | 235  |
-| 4.5.3  | Marktgedrag CKI  | 235  |
-| 4.5.4  | Beroepsgeheim  | 235  |
-| 4.5.5  | CKI bestuursorgaan  | 235  |
-| 4.5.6  | WA verzekering  | 235  |
-| 4.5.7  | Meldingsprocedure bij vermoeden van direct gevaar voor de veiligheid  | 236  |
-| 4.5.8  | Informatieplicht aan SZW bij beëindiging activiteiten  | 236  |
-| 4.5.9  | Zienswijze-, klachten- en bezwaarprocedure  | 236  |
-| 4.5.10  | Verplichte vertegenwoordiging in CCVD  | 236  |
-| 4.5.11  | Meldplicht intrekken of schorsen certificaten  | 236  |
-| 4.5.12  | Sanctie- en maatregelenbeleid  | 236  |
-| 4.5.13  | Verplicht Nederlands taalgebruik  | 236  |
-| 4.5.14  | Onafhankelijkheid  | 236  |
-| --- | --- | --- |
-| 5.   | Toezicht op de certificatie-instelling  | 237  |
-| 5.1  | Informatieverstrekking  | 237  |
-| --- | --- | --- |
-| 6.   | Maatregelen  | 237  |
+| --- | --- |
+|:---|:---|
+| 1.  | Inleiding  |
+| --- | --- |
+| 2.  | Definities en Documenten  |
+| 2.1  | Definities  |
+| --- | --- |
+| 3.  | Werkveldspecifieke kenmerken  |
+| 3.1  | Beschrijving document  |
+| 3.2  | Actieve partijen  |
+| 3.3  | Risicoanalyse procescertificatie  |
+| --- | --- |
+| 4.  | Eisen ten behoeve van de aanwijzing  |
+| 4.1   | Niet van toepassing  |
+| 4.2  | Niet van toepassing  |
+| 4.3  | Procescertificatie  |
+| 4.3.1  | Uitbesteding  |
+| 4.3.2  | Certificatieprocedure  |
+| 4.3.3  | Beschikbaarheid personeel  |
+| 4.3.4  | Aanpassing van het certificatieschema  |
+| 4.3.5  | Aanvraag voor certificatie  |
+| 4.3.6  | Evaluatie  |
+| 4.3.7  | Toezicht  |
+| 4.3.8  | Licenties, certificaten, keurmerken  |
+| 4.4  | Niet van toepassing  |
+| 4.5  | Aanwijzingscriteria  |
+| 4.5.1  | Beroepsintegriteit  |
+| 4.5.2  | Verplichte gedragscode  |
+| 4.5.3  | Marktgedrag CKI  |
+| 4.5.4  | Beroepsgeheim  |
+| 4.5.5  | CKI bestuursorgaan  |
+| 4.5.6  | WA verzekering  |
+| 4.5.7  | Meldingsprocedure bij vermoeden van direct gevaar voor de veiligheid  |
+| 4.5.8  | Informatieplicht aan SZW bij beëindiging activiteiten  |
+| 4.5.9  | Zienswijze-, klachten- en bezwaarprocedure  |
+| 4.5.10  | Verplichte vertegenwoordiging in CCVD  |
+| 4.5.11  | Meldplicht intrekken of schorsen certificaten  |
+| 4.5.12  | Sanctie- en maatregelenbeleid  |
+| 4.5.13  | Verplicht Nederlands taalgebruik  |
+| 4.5.14  | Onafhankelijkheid  |
+| --- | --- |
+| 5.   | Toezicht op de certificatie-instelling  |
+| 5.1  | Informatieverstrekking  |
+| --- | --- |
+| 6.   | Maatregelen  |
 
 ### 1  
 
@@ -9000,12 +8928,12 @@ Asbestinventarisatie en asbestverwijderen zijn risicovolle beroepsactiviteiten. 
 | Controle:  | Periodieke beoordeling door de nationale accreditatie-instantie van CKI’s tegen de voor beoordeling geldende regels van de minister (WDA&T).  |
 | Risicoanalyse:  | Analyse waaruit motivatie, voor te maken keuzes in werkveldspecifiek probleemgebied, blijkt, op te nemen in het beoogde werkveldspecifieke schema voor aanwijzing en toezicht.  |
 | RvA:  | Raad voor Accreditatie.   |
-| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501: 2011, versie 02.  |
-| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502: 2011, versie 02.  |
-| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510: 2011, versie 02.  |
-| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520: 2011, versie 02.  |
-| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530: 2011, versie 02.  |
-| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540: 2011, versie 02.  |
+| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501.  |
+| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502.  |
+| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510.  |
+| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520.  |
+| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530.  |
+| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540.  |
 | Toezicht:  | Het verzamelen van de informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren.  |
 | Werkveldspecifiek certificatieschema:  | Term gebruikt door SZW voor een certificatieschema dat door de minister van SZW is geaccepteerd, te gebruiken binnen een specifieke aanwijzing als certificatie-instelling voor personen, producten of systemen.  |
 | WK Asbest:  | Werkkamer Asbest. Onderwerpen van asbesttechnische aard worden door de Werkkamer Asbest voorafgaand aan de vergadering van het CCvD voorbereid en zo mogelijk voorzien van een advies.  |
@@ -9392,61 +9320,61 @@ Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan
 
 ####Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV) 
 
-Document: SC-501: 2011, versie 02  *Onder beheer van:*  Stichting Ascert www.Ascert.nl 
+Document: SC-501  *Onder beheer van:*  Stichting Ascert www.Ascert.nl 
 
 ####Inhoud
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 1.  | Inleiding  | 241  |
-| --- | --- | --- |
-| 2.  | Definities en documenten  | 241  |
-| 2.1.  | Definities  | 241  |
-| 2.2.  | Documenten  | 242  |
-| --- | --- | --- |
-| 3.  | Werkveldspecifieke kenmerken  | 243  |
-| 3.1.  | Beschrijving document  | 243  |
-| 3.2.  | Actieve partijen  | 243  |
-| 3.3.  | Risicoanalyse niveau persoonscertificatie  | 243  |
-| --- | --- | --- |
-| 4.  | Eisen ten behoeve van de aanwijzing  | 243  |
-| 4.1.  | Niet van toepassing  | 243  |
-| 4.2.  | Persoonscertificatie DTA/DAV  | 243  |
-| 4.2.1.  | Aansluiting bij Centraal College van Deskundigen Asbest  | 243  |
-| 4.2.2.  | Klachtenregeling  | 243  |
-| 4.2.3.  | Beschikbaarheid certificatiepersoneel  | 244  |
-| 4.2.4.  | Ontwikkeling en onderhoud van het schema  | 244  |
-| 4.2.5.  | Uitbesteding  | 244  |
-| 4.2.6.  | Eisen te stellen aan certificatiepersoneel  | 244  |
-| 4.2.7.  | Certificaat  | 245  |
-| 4.2.8.  | Toezicht  | 246  |
-| 4.2.9.  | Hercertificatie NEN-EN-ISO/IEC 17024: 2003 par. 6.5  | 246  |
-| 4.2.10.  | Gebruik van certificaten en logo’s NEN-EN-ISO/IEC 17024: 2003 par. 6.6  | 246  |
-| 4.2.11.  | Onpartijdigheid en onafhankelijkheid van de CKI en haar personeel  | 246  |
-| 4.3.  | Niet van toepassing  | 246  |
-| 4.4.  | Niet van toepassing  | 246  |
-| 4.5.  | Aanwijzingscriteria  | 246  |
-| 4.5.1.  | Integriteit  | 246  |
-| 4.5.2.  | Verplichte gedragscode  | 247  |
-| 4.5.3.  | Marktgedrag CKI  | 247  |
-| 4.5.4.  | Beroepsgeheim  | 247  |
-| 4.5.5.  | CKI bestuursorgaan  | 247  |
-| 4.5.6.  | WA verzekering  | 247  |
-| 4.5.7.  | Meldingsprocedure bij vermoeden van veiligheid  | 247  |
-| 4.5.8.  | Informatieplicht aan SZW bij beëindiging activiteiten  | 247  |
-| 4.5.9.  | Zienswijze-, klachten- en bezwaarschriftprocedure  | 247  |
-| 4.5.10.  | Verplichte vertegenwoordiging CKI in CCvD  | 247  |
-| 4.5.11.  | Meldplicht intrekken en schorsen certificaten aan Ascert en andere CKI’s  | 247  |
-| 4.5.12.  | Sanctie- en maatregelenbeleid  | 248  |
-| 4.5.13.  | Verplicht Nederlands taalgebruik  | 248  |
-| 4.5.14.  | Verbod op onderuitbesteding  | 248  |
-| 4.5.15.  | Onafhankelijkheid CKI  | 248  |
-| 4.5.16.  | Buitenlandse getuigschriften  | 248  |
-| --- | --- | --- |
-| 5.  | Toezicht op de certificatie-instelling  | 248  |
-| 5.1.  | Informatieverstrekking  | 248  |
-| --- | --- | --- |
-| 6.   | Maatregelen  | 249  |
+| --- | --- |
+|:---|:---|
+| 1.  | Inleiding  |
+| --- | --- |
+| 2.  | Definities en documenten  |
+| 2.1.  | Definities  |
+| 2.2.  | Documenten  |
+| --- | --- |
+| 3.  | Werkveldspecifieke kenmerken  |
+| 3.1.  | Beschrijving document  |
+| 3.2.  | Actieve partijen  |
+| 3.3.  | Risicoanalyse niveau persoonscertificatie  |
+| --- | --- |
+| 4.  | Eisen ten behoeve van de aanwijzing  |
+| 4.1.  | Niet van toepassing  |
+| 4.2.  | Persoonscertificatie DTA/DAV  |
+| 4.2.1.  | Aansluiting bij Centraal College van Deskundigen Asbest  |
+| 4.2.2.  | Klachtenregeling  |
+| 4.2.3.  | Beschikbaarheid certificatiepersoneel  |
+| 4.2.4.  | Ontwikkeling en onderhoud van het schema  |
+| 4.2.5.  | Uitbesteding  |
+| 4.2.6.  | Eisen te stellen aan certificatiepersoneel  |
+| 4.2.7.  | Certificaat  |
+| 4.2.8.  | Toezicht  |
+| 4.2.9.  | Hercertificatie NEN-EN-ISO/IEC 17024: 2003 par. 6.5  |
+| 4.2.10.  | Gebruik van certificaten en logo’s NEN-EN-ISO/IEC 17024: 2003 par. 6.6  |
+| 4.2.11.  | Onpartijdigheid en onafhankelijkheid van de CKI en haar personeel  |
+| 4.3.  | Niet van toepassing  |
+| 4.4.  | Niet van toepassing  |
+| 4.5.  | Aanwijzingscriteria  |
+| 4.5.1.  | Integriteit  |
+| 4.5.2.  | Verplichte gedragscode  |
+| 4.5.3.  | Marktgedrag CKI  |
+| 4.5.4.  | Beroepsgeheim  |
+| 4.5.5.  | CKI bestuursorgaan  |
+| 4.5.6.  | WA verzekering  |
+| 4.5.7.  | Meldingsprocedure bij vermoeden van veiligheid  |
+| 4.5.8.  | Informatieplicht aan SZW bij beëindiging activiteiten  |
+| 4.5.9.  | Zienswijze-, klachten- en bezwaarschriftprocedure  |
+| 4.5.10.  | Verplichte vertegenwoordiging CKI in CCvD  |
+| 4.5.11.  | Meldplicht intrekken en schorsen certificaten aan Ascert en andere CKI’s  |
+| 4.5.12.  | Sanctie- en maatregelenbeleid  |
+| 4.5.13.  | Verplicht Nederlands taalgebruik  |
+| 4.5.14.  | Verbod op onderuitbesteding  |
+| 4.5.15.  | Onafhankelijkheid CKI  |
+| 4.5.16.  | Buitenlandse getuigschriften  |
+| --- | --- |
+| 5.  | Toezicht op de certificatie-instelling  |
+| 5.1.  | Informatieverstrekking  |
+| --- | --- |
+| 6.   | Maatregelen  |
 
 ### 1  
 
@@ -9496,12 +9424,12 @@ Asbestverwijderen betreft een risicovolle beroepsactiviteit. Om het maatschappel
 | Examencommissie:  | Commissie binnen de structuur van de certificatie-instelling onder wiens verantwoordelijkheid de examens worden afgenomen.   |
 | Examenreglement:  | Bepalingen voor de uitvoering van examens.  |
 | Risicoanalyse:  | Analyse waaruit motivatie, voor te maken keuzes in werkveldspecifiek probleemgebied, blijkt, op te nemen in het beoogde werkveldspecifieke certificatieschema.  |
-| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501: 2011, versie 02.  |
-| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502: 2011, versie 02.  |
-| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510: 2011, versie 02.  |
-| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520: 2011, versie 02.  |
-| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530: 2011, versie 02.  |
-| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540: 2011, versie 02.  |
+| SC-501:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV). Documentnummer SC-501.  |
+| SC-502:  | Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB). Documentnummer SC-502.  |
+| SC-510:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA). Documentnummer SC-510.  |
+| SC-520:  | Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV). Documentnummer SC-520.  |
+| SC-530:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering. Documentnummer SC-530.  |
+| SC-540:  | Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie. Documentnummer SC-540.  |
 | SBP:  | Specifiek beoordelingprotocol van RvA voor werkveld asbest.  |
 | Toezicht:  | Het verzamelen van de informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren<sup> 1   Ministerie van BZK, De Kaderstellende visie op toezicht.  </sup>.  |
 | Toezichthouder theorie-examen:  | Een toezichthouder theorie-examen draagt zorg voor de naleving en uitvoering van het examenreglement, de uitvoeringsvoorschriften bij het afnemen van het theorie-examen.  |

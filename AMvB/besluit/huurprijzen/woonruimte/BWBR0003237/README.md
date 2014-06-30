@@ -27,18 +27,22 @@ Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen
 
 1. Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op:
 
-a. indien de verzoeker dan wel de partij die niet de verzoeker is een natuurlijke persoon is: € 25, dan wel  
+a. indien de verzoeker dan wel de partij die niet de verzoeker is een huurder is: € 25,  
 
-b. indien de verzoeker dan wel de partij die niet de verzoeker is een rechtspersoon is: € 450.    
+b. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is: € 450, dan wel  
+
+c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
 2.  Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), wordt vastgesteld op € 100. 
 
 ### Artikel  4a  
 
 Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), wordt vastgesteld op: 
 
-a. indien de verzoeker een natuurlijke persoon is: € 25, dan wel  
+a. indien de verzoeker dan wel de partij die niet de verzoeker is een huurder is: € 25,  
 
-b. indien de verzoeker een rechtspersoon is: € 450.   
+b. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is: € 450, dan wel  
+
+c. indien de verzoeker dan wel de partij die niet de verzoeker is een verhuurder is die op basis van de krachtens [artikel 8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) verstrekte gegevens, aantoont dat hij een natuurlijke persoon is: € 25.   
 
 ### Artikel  5  
 
@@ -55,11 +59,11 @@ c. voor woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het
 
 1.  Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge [artikel 12, eerste lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), of [artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in bijlage II van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld: 
 
-a. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie A, van dit besluit: 20% van de maximale huurprijsgrens;  
+a. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie A, van dit besluit: 20% van de overeengekomen huurprijs;  
 
-b. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie B, van dit besluit: 30% van de maximale huurprijsgrens;  
+b. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie B, van dit besluit: 30% van de overeengekomen huurprijs;  
 
-c. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie C, van dit besluit: 40% van de maximale huurprijsgrens.     
+c. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, categorie C, van dit besluit: 40% van de overeengekomen huurprijs.     
 2.  Teneinde huurder en verhuurder inzicht te bieden in het beleid van de huurcommissie inzake de in het eerste lid bedoelde categorieën en de daarbij behorende verlaging van de in rekening te brengen huurprijs die de huurcommissie doorgaans redelijk zal achten, stellen het bestuur en de zittingsvoorzitters op basis van door hen geformuleerde regels een geschrift op, genaamd gebrekenboek. Het gebrekenboek is openbaar en ligt bij de huurcommissie ter inzage.   
 3.  In het gebrekenboek, bedoeld in het tweede lid, wordt voor ieder van de in bijlage II, onder 1, categorieën A, B en C, van dit besluit bedoelde omstandigheden aangegeven welke de door de huurcommissie ten laagste uit te spreken in rekening te brengen huurprijs zal zijn.   
 4.  Indien de huurcommissie de in bijlage II, onder 1, van dit besluit beschreven categorieën heeft onderverdeeld naar de mate van de ernst waarin de bewoonbaarheid naar haar oordeel wordt geschaad, is het derde lid op die onderverdeling van overeenkomstige toepassing.   

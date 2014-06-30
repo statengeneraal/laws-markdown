@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.571,38;  
+A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.579,90;  
 
-B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.512,79;  
+B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.519,07;  
 
-C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.211,62.   
+C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.216,81.   
 
 ### Artikel  2  
 

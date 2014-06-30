@@ -29,12 +29,12 @@ De personen, werkzaam in de functie van het domein Openbaar Vervoer in dienst va
 
 ### Artikel  4  
 
-Op grond van dit besluit kunnen maximaal 180 personen als buitengewoon opsporingsambtenaar worden beëdigd. 
+Op grond van dit besluit kunnen maximaal 300 personen als buitengewoon opsporingsambtenaar worden beëdigd. 
 
 ### Artikel  5  
 
 1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen het Landelijk Parket, Team Verkeer.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de Korpschef van de Landelijke Eenheid. 
 
 ### Artikel  6  
 

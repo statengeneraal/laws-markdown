@@ -35,9 +35,9 @@ Ter voorkoming van AI kan een diergeneesmiddel worden toegepast waarvoor bij [ar
 
 Toepassing van het middel, bedoeld in artikel 2, geschiedt uitsluitend bij gevoelige vogels die worden gehouden in een dierentuin en voor zover aan een van de volgende voorwaarden is voldaan: 
 
-a. de exploitant van de dierentuin beschikt met betrekking tot die dierentuin over een vergunning als bedoeld in [artikel 4 van het Dierentuinenbesluit](../../../../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md), of  
+a. de exploitant van de dierentuin beschikt met betrekking tot die dierentuin over een vergunning als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), of  
 
-b. de exploitant van de dierentuin heeft met betrekking tot die dierentuin uiterlijk op 17 november 2005 een aanvraag tot vergunning als bedoeld in [artikel 4 van het Dierentuinenbesluit](../../../../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md) ingediend.   
+b. de exploitant van de dierentuin heeft met betrekking tot die dierentuin uiterlijk op 17 november 2005 een aanvraag tot vergunning als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) ingediend.   
 
 ### Artikel  4  
 

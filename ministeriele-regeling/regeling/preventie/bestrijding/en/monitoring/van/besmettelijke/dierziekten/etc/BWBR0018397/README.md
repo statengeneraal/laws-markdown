@@ -183,17 +183,17 @@ aq. AI-gevoelige dieren: gehouden dieren van een soort behorende tot de orde van
 
 ar. pluimveebedrijf: inrichting die wordt gebruikt voor het anders dan voor recreatieve of educatieve doeleinden fokken, opfokken of houden van fokdieren, vleesdieren of legdieren;  
 
-as. koppel: groep dieren met dezelfde gezondheids- en immuniteitsstatus, die in eenzelfde lokaal of een zelfde uitloopruimte wordt opgefokt en die een epizoötiologische eenheid vormen;  
+as. koppel: groep dieren met dezelfde gezondheids- en immuniteitsstatus en van dezelfde leeftijd, die in eenzelfde lokaal of een zelfde uitloopruimte wordt opgefokt of gehouden en die een epizoötiologische eenheid vormen;  
 
 at. eendagskuikens: dieren die nog geen 72 uur oud zijn en die nog niet zijn gevoerd;  
 
-au. vleeskuikens: kippen van 72 uur en ouder die worden opgefokt voor de productie van vlees;  
+au. vleeskuikens: kippen van 72 uur en ouder die worden opgefokt of worden gehouden voor de productie van vlees;  
 
-av. vleeskalkoenen: kalkoenen van 72 uur en ouder die worden opgefokt voor de productie van vlees;  
+av. vleeskalkoenen: kalkoenen van 72 uur en ouder die worden opgefokt of worden gehouden voor de productie van vlees;  
 
 aw. leghennen: dieren bestemd voor productie van consumptie-eieren;  
 
-ax. reproductiedieren: dieren bestemd voor productie van broedeieren;  
+ax. vermeerderingsdieren: vogels bestemd voor productie van broedeieren;  
 
 ay. keuringsdierenarts: bevoegde, door de NVWA met werkzaamheden belaste dierenarts;  
 
@@ -249,7 +249,35 @@ bx. verordening (EG) nr. 616/2009: verordening (EG) nr. 616/2009 van de Commissi
 
 by.  *verordening (EG) nr. 175/2010:* verordening (EG) nr. 175/2010 van de Commissie van de Europese Gemeenschappen van 2 maart 2010 ter uitvoering van Richtlijn 2006/88/EG van de Raad wat betreft maatregelen ter bestrijding van de verhoogde mortaliteit bij oesters van de soort Crassostrea gigas in samenhang met de detectie van het Ostreid herpesvirus 1 µvar (OsHV-1 µvar); 
 
-bz. Verordening (EG) nr. 998/2003: Verordening (EG) nr. 998/2003 van het Europees Parlement en de Raad van de Europese Unie van 26 mei 2003 inzake veterinairrechtelijke voorschriften voor het niet-commerciële verkeer van gezelschapsdieren en houdende wijziging van Richtlijn 92/95/EEG van de Raad (PbEU L 146).    
+bz. Verordening (EG) nr. 998/2003: Verordening (EG) nr. 998/2003 van het Europees Parlement en de Raad van de Europese Unie van 26 mei 2003 inzake veterinairrechtelijke voorschriften voor het niet-commerciële verkeer van gezelschapsdieren en houdende wijziging van Richtlijn 92/95/EEG van de Raad (PbEU L 146); 
+
+ca.  richtlijn 2005/94/EG: richtlijn 2005/94/EG van de Raad van 20 december 2005 betreffende communautaire maatregelen ter bestrijding van aviaire influenza en tot intrekking van Richtlijn 92/40/EG, bijlage I (PbEU 2006, L10);  
+
+cb.  verordening (EG) nr. 589/2008: verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren (PbEU 2008, L 163);  
+
+cc.  beschikking 93/152/EEG: beschikking 93/152/EEG van de Commissie van 8 februari 1993 houdende vaststelling van de eisen waaraan in het kader van de programma's inzake routinevaccinatie tegen Newcastle disease te gebruiken vaccins moeten voldoen (PbEG 1993, L 59);  
+
+cd.  ronde: periode waarbinnen vogels vanaf het uitkomen of aanvoeren op een bedrijf worden opgefokt of gehouden tot het moment waarop zij slachtrijp zijn;  
+
+ce.  vleeseenden: eenden van 72 uur en ouder die worden opgefokt of gehouden voor de productie van vlees;  
+
+cf.  kippen: dieren van de soort Gallus gallus;  
+
+cg.  kalkoenen: dieren van de soort Meleagris gallopavo;  
+
+ch.  eenden: dieren van de soort Anas platyrhynchos;  
+
+ci.  ganzen: dieren van de familie anseridae;  
+
+cj.  kwartels: dieren van het geslacht Cortunix;  
+
+ck.  parelhoenders: dieren van het geslacht Numididae;  
+
+cl.  loopvogels: dieren van de orde Struthioniformes;  
+
+cm.  dierenarts: dierenarts als bedoeld in [artikel 1.1, eerste lid, van de Wet dieren](../../../../../../../../../../../wet/wet/dieren/BWBR0030250/README.md);  
+
+cn.  dierenartsassistent paraveterinair: dierenartsassistent paraveterinair als bedoeld in [artikel 3.1, eerste lid, van het Besluit diergeneeskundigen](../../../../../../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md).    
 2.  Voor de toepassing van artikel 13 wordt onder abortus verstaan: het spontaan meer dan 21 dagen eerder dan de gemiddelde draagtijd van het desbetreffende runderras ter wereld brengen van een vrucht of vruchten door een rund, ingeval de dracht meer dan 100 dagen heeft geduurd.   
 3.  Voor de toepassing van titel 2, hoofdstuk 1, paragraaf 7, wordt verstaan onder werkzaamheden: controle als bedoeld in [artikel 18, tweede lid, van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
 
@@ -603,7 +631,7 @@ e. voldoet aan:
 
 a. voldoet aan de eisen genoemd in artikel 8bis, eerste lid, onderdeel c en e, van richtlijn nr. 91/68/EEG;  
 
-b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de [artikelen 36](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 3](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md) en [4 van het Besluit welzijn productiedieren](../../../../../../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md);  
+b. voldoet aan de artikelen 9 en 17 van verordening (EG) nr. 1/2005, de [artikelen 36](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 1.6, eerste en derde lid](../../../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.3](../../../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) en[ 2.4 van het Besluit houders van dieren](../../../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);  
 
 c. wordt geëxploiteerd conform het door de minister goedgekeurde protocol;  
 
@@ -1036,17 +1064,13 @@ e. op welke wijze er wordt voldaan aan de voorschriften van Verordening (EG) nr.
 3.  Voor zover het kwaliteitssysteem betrekking heeft op artikel 33, derde lid, dienen er minimaal 100 vervoerders deel te nemen.   
 4.  Voor zover het kwaliteitssysteem betrekking heeft op de artikelen 44, tweede lid, 45, vierde lid, artikel 46, tweede lid, of 47, tweede lid, dienen er minimaal 10 personen, rechtspersonen of samenwerkingsverbanden bestaande uit vervoerders en eigenaren of exploitanten van verzamelcentra, deel te nemen.  
 
-###Titel 3 
+### Titel  3  
 
-####Monitoring
+####Monitoring en maatregelen dierziekten
 
 ###Hoofdstuk 1 
 
-####Monitoring/controle dierziekten
-
-###§ 1 
-
-####Varkensziekten
+####Monitoring en maatregelen ziekten bij varkens
 
 ### Artikel  82  
 
@@ -1059,24 +1083,28 @@ b. een of meer varkens op een varkenshouderijbedrijf te houden, of
 c. een of meer varkens die zich op een varkenshouderijbedrijf bevinden, af te voeren.     
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing indien: 
 
-a. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, varkens die verschijnselen van een besmettelijke dierziekte vertonen, behandelt of laat behandelen, binnen 24 uur nadat die behandeling is ingesteld, bloed is afgenomen en is ingestuurd ten behoeve van onderzoek op de aanwezigheid van een besmettelijke dierziekte;  
+a. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, varkens die verschijnselen van een besmettelijke dierziekte vertonen, behandelt of laat behandelen en binnen 24 uur nadat die behandeling is ingesteld, bloed is afgenomen en is ingestuurd ten behoeve van onderzoek op de aanwezigheid van een besmettelijke dierziekte;  
 
-b. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, voorzover op dat bedrijf varkens mogelijk ten gevolge van een besmettelijke dierziekte zijn gestorven, een representatief aantal van die dieren ter sectie heeft ingestuurd ten behoeve van onderzoek op de aanwezigheid van klassieke varkenspest.    
+b. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, voor zover op dat bedrijf varkens mogelijk ten gevolge van een besmettelijke dierziekte zijn gestorven, een representatief aantal van die dieren ter sectie heeft ingestuurd ten behoeve van onderzoek op de aanwezigheid van klassieke varkenspest.    
 
-###§ 2 
+### Hoofdstuk  2  
 
-####Aviaire Influenza
+####Monitoring en maatregelen ziekten bij pluimvee
 
-###Artikel 88 
+### §  1  
 
-1. Het is verboden, onverminderd de [artikelen 19](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), AI-gevoelige dieren op een bedrijf te houden.
-2. Het in het eerste lid bedoelde verbod geldt niet indien wordt voldaan aan artikel 89 en 90.
+####Monitoring en maatregelen ziekten bij pluimvee
 
-### Artikel  89  
+### Artikel  83  
+
+1.  Het is verboden, onverminderd de [artikelen 19](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [100 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), AI-gevoelige dieren op een bedrijf te houden.   
+2.  Het in het eerste lid bedoelde verbod geldt niet indien wordt voldaan aan artikel 84.  
+
+### Artikel  84  
 
 1.  De ondernemer meldt onverwijld aan het landelijk telefoonnummer voor dierziekten elke verhoogde sterfte: 
 
-a. van leghennen, reproductiedieren of vleeskuikens, die ouder zijn dan 10 dagen op twee opeenvolgende dagen van 0,5% of meer per dag;  
+a. van leghennen, vermeerderingsdieren of vleeskuikens, die ouder zijn dan 10 dagen op twee opeenvolgende dagen van 0,5% of meer per dag;  
 
 b. van vleeskalkoenen op twee opeenvolgende dagen van 1% of meer per dag, en  
 
@@ -1087,44 +1115,286 @@ a. een klinisch probleem zichtbaar is;
 
 b. er op twee opeenvolgende dagen een reductie van voer- of drinkwateropname is van meer dan 5% per dag, en  
 
-c. voor zover het leghennen of reproductiedieren betreft, er op twee opeenvolgende dagen een reductie van de eiproductie is van 5% of meer per dag.     
-3.  Indien er geen sprake is van Aviaire Influenza of Newcastle Disease doet de dierenarts binnen acht uur melding van het klinische probleem van de desbetreffende dieren of van de omstandigheden, bedoeld in het tweede lid, onderdelen b en c, en van de naam- en adresgegevens van het bedrijf aan de Gezondheidsdienst voor Dieren.  
+c. voor zover het leghennen of vermeerderingsdieren betreft, er op twee opeenvolgende dagen een reductie van de eiproductie is van 5% of meer per dag.     
+3.  Indien er geen sprake is van aviaire influenza of Newcastle disease doet de dierenarts binnen acht uur melding van het klinische probleem van de desbetreffende dieren of van de omstandigheden, bedoeld in het tweede lid, onderdelen b en c, en van de naam- en adresgegevens van het bedrijf aan de Gezondheidsdienst voor Dieren.  
+
+### §  2  
+
+####Monitoring aviaire influenza
+
+### Artikel  85  
+
+1.  Deze paragraaf is van toepassing op een houder die bedrijfsmatig vleeskuikens, vleeseenden, vleeskalkoenen, ganzen, kwartels, parelhoenders, loopvogels, vermeerderingsdieren van de soort kip, kalkoen of eend of leghennen van de soort kip houdt, die worden opgefokt of gehouden voor de fokkerij, voor de productie van vlees of eieren.   
+2.  Deze paragraaf is van toepassing op vermeerderingsdieren van de soort kip, kalkoen of eend en leghennen van de soort kip.  
+
+### §  2.1  
+
+####Bloedonderzoek
+
+### Artikel  86  
+
+1.  De houder, bedoeld in artikel 85, eerste lid, laat overeenkomstig de artikelen 87 tot en met 92 bloed afnemen bij de dieren, bedoeld in artikel 85, eerste lid, en laat dit onderzoeken op de aanwezigheid van antistoffen tegen aviaire influenza, subtype H5 of H7, bedoeld in Richtlijn 2005/94/EG in een laboratorium dat daartoe is aangewezen in [artikel 20, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
+2.  De houder laat het bloed afnemen door een dierenarts of een dierenartsassistent paraveterinair.   
+3.  De hoeveelheid bloed die overeenkomstig het eerste lid per dier wordt afgenomen en onderzocht bedraagt ten minste 1 milliliter.   
+4.  Het bloed wordt de uiterlijk werkdag na de dag dat het bloed is afgenomen aangeleverd bij het laboratorium, bedoeld in het eerste lid.   
+5.  Bij aanlevering van het bloed worden in ieder geval de volgende gegevens aangeleverd: 
+
+a. gegevens ter identificatie van de houder van de dieren;  
+
+b. gegevens ter identificatie van de dierenarts die het bloed heeft afgenomen;  
+
+c. gegevens ter identificatie van de dieren waarbij het bloed is afgenomen;  
+
+d. gegevens omtrent de bloedmonsters;  
+
+e. de dagtekening;  
+
+f. de handtekening van de inzender van de bloedmonsters.    
+
+### Artikel  87  
+
+1.  Bij vleeskuikens, parelhoenders, loopvogels of kwartels wordt jaarlijks bloed afgenomen van ten minste 30 dieren met een leeftijd van ten minste vier weken.   
+2.  Bij vleeseenden of ganzen wordt jaarlijks bloed afgenomen van ten minste 40 dieren met een leeftijd van ten minste vier weken.  
+
+### Artikel  88  
+
+1.  Bij vleeskalkoenen wordt bij elke ronde bloed afgenomen van ten minste 30 hanen met een leeftijd van 18 weken.   
+2.  In afwijking van het eerste lid wordt, indien de houder geen andere vleeskalkoenen dan hennen houdt, bloed afgenomen van ten minste 30 hennen met een leeftijd van ten minste 13 weken.  
+
+### Artikel  89  
+
+1.  Bij vermeerderingsdieren wordt jaarlijks bloed afgenomen van ten minste 30 dieren met een leeftijd van ten minste 45 weken.   
+2.  Bij dieren die worden opgefokt tot vermeerderingsdier wordt per koppel bloed afgenomen van ten minste 30 dieren met een leeftijd van ten minste 15 weken.  
+
+### Artikel  90  
+
+1.  Bij leghennen wordt jaarlijks bloed afgenomen van ten minste 30 dieren met een leeftijd van ten minste 45 weken.   
+2.  Bij dieren die worden opgefokt tot leghen wordt per koppel bloed afgenomen van ten minste 30 dieren met een leeftijd van ten minste acht weken.  
 
 ### Artikel  91  
 
-1.  Ter uitvoering van de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
-2.  De in het eerste lid bedoelde medewerking bestaat uit het verrichten van de noodzakelijke werkzaamheden, het aanwijzen van laboratoria en het bij verordening stellen van regels, inzake het laten afnemen van bloed bij pluimvee teneinde dit te laten onderzoeken op de aanwezigheid van Aviaire Influenza.   
-3.  Het Productschap Pluimvee en Eieren kan bepalen dat bij overtreding van de [artikelen 2, eerste lid](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [3](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [4](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [5, eerste lid](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md), [6](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) en [7, tweede lid, van de Verordening monitoring Aviaire influenza (PPE) 2005](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) tuchtrechtelijke maatregelen worden toegepast.   
-4.  Het Productschap Pluimvee en Eieren kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het derde lid, tuchtrechtelijke maatregelen worden gesteld.   
-5.  Het Productschap Pluimvee en Eieren kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een vergoeding van kosten heffen.  
+In afwijking van de artikelen 87 tot en met 90 wordt bij dieren als bedoeld in artikel 85, eerste lid, die gehouden worden op een bedrijf waar onder meer dieren worden gehouden in een houderijsysteem met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van Verordening (EG) nr. 589/2008, ieder kwartaal bloed afgenomen, bij ten minste 30 dieren, ongeacht de leeftijd van de dieren. 
 
-###§ 3 
+### Artikel  92  
 
-####Newcastle Disease
+Indien de dieren, bedoeld in de artikelen 87 tot en met 91, gehouden worden in meerdere stallen, wordt bij dieren uit elke stal bloed afgenomen naar evenredigheid van het aantal dieren dat in de stallen wordt gehouden, met een minimum van 5 dieren per stal. 
 
-###Artikel 92 
+### §  2.2  
 
-In deze paragraaf wordt verstaan onder:dieren: kippen en kalkoenen.
+####Verplaatsing
 
 ### Artikel  93  
 
-1.  Ter uitvoering van de [artikelen 17](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [18](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [30 van de wet](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
-2.  De in het eerste lid bedoelde medewerking bestaat uit het stellen van regels met betrekking tot: 
+Een koppel van de dieren, bedoeld in artikel 85, eerste lid, wordt alleen verplaatst, indien kan worden aangetoond dat bloed van de dieren overeenkomstig artikel 86, eerste lid, is onderzocht en de uitslag van dit onderzoek bekend is. 
 
-a. vaccinatie van dieren ter voorkoming van een besmetting met Newcastle Disease;  
+### §  2.3  
 
-b. het nemen van bloedmonsters van dieren en het doen van bloedonderzoek ten behoeve van de controle van de effectiviteit van de gebruikte vaccins en de wijze van vaccinatie ter voorkoming van een besmetting met Newcastle Disease;  
+####Administratie
 
-c. de minimumwaarden van de immuniteit van het gevaccineerde pluimvee tegen Newcastle Disease;  
+### Artikel  94  
 
-d. het treffen van maatregelen bij te lage weerstand tegen Newcastle Disease van pluimvee;  
+Een houder bewaart de uitslag van het onderzoek, bedoeld in artikel 86, eerste lid, gedurende een periode van twee jaar. 
 
-e. de verplaatsing van gevaccineerde of nog te vaccineren dieren ter voorkoming van een besmetting met Newcastle Disease;  
+### §  3  
 
-f. de te voeren administratie betreffende de vaccinatie van dieren ter voorkoming van besmetting met Newcastle Disease.     
-3.  Het Productschap Pluimvee en Eieren kan bepalen dat bij overtreding van de artikelen 2 tot en met 10 van de Verordening Vaccinatie Newcastle Disease (PPE) 2006 tuchtrechtelijke maatregelen worden toegepast.   
-4.  Het Productschap Pluimvee en Eieren kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het derde lid, tuchtrechtelijke maatregelen worden gesteld.   
-5.  Het Productschap voor Pluimvee en Eieren kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een vergoeding van kosten heffen.  
+####Vaccinatie en monitoring Newcastle disease
+
+### Artikel  94a  
+
+1.  Deze paragraaf is van toepassing op een houder die bedrijfsmatig vermeerderingsdieren van de soort kip of kalkoen, leghennen van de soort kip, vleeskuikens of vleeskalkoenen houdt, die worden opgefokt of gehouden voor de fokkerij, voor de productie van vlees of eieren.   
+2.  Deze paragraaf is van toepassing op vermeerderingsdieren van de soort kip of kalkoen en leghennen van de soort kip.  
+
+### §  3.1  
+
+####Vaccinatie
+
+### Artikel  94b  
+
+1.  De houder, bedoeld in artikel 94a, eerste lid, draagt er zorg voor dat de dieren, bedoeld in artikel 94a, eerste lid, tegen Newcastle disease worden gevaccineerd overeenkomstig de artikelen 94c en 94d.   
+2.  Het eerste lid is niet van toepassing op dieren die voorafgaand aan de aanvoer op het bedrijf van de houder overeenkomstig het eerste lid zijn gevaccineerd, mits de houder aan kan tonen dat uit het onderzoek, bedoeld in artikel 94e, is gebleken dat de betreffende waarde, genoemd in bijlage 16 is behaald.   
+3.  Onmiddellijk na vaccinatie vult de houder een vaccinatieverklaring met gebruikmaking van een middel dat hiertoe door de minister beschikbaar is gesteld en waarop in ieder geval de volgende gegevens zijn opgenomen: 
+
+a. gegevens ter identificatie van de houder van de dieren;  
+
+b. gegevens ter identificatie van de dierenarts die de dieren heeft gevaccineerd of hiertoe een diergeneesmiddel heeft afgeleverd;  
+
+c. gegevens ter identificatie van de dieren die gevaccineerd zijn;  
+
+d. gegevens omtrent de aard van de vaccinatie;  
+
+e. gegevens omtrent het vaccin;  
+
+f. de dagtekening;  
+
+g. de handtekening van de houder en de dierenarts.    
+
+### Artikel  94c  
+
+1.  De dieren, bedoeld in artikel 94a, eerste lid, worden gevaccineerd in de periode van 3 tot 18 dagen na het uitkomen.   
+2.  In afwijking van het eerste lid worden dieren die afkomstig zijn van vermeerderingsdieren die niet zijn gevaccineerd tegen Newcastle disease onmiddellijk na plaatsing op het bedrijf gevaccineerd.   
+3.  Dieren die ouder zijn dan 18 dagen en niet gevaccineerd zijn overeenkomstig het eerste lid, omdat zij uit een ander land dan Nederland afkomstig zijn, worden onmiddellijk na plaatsing op het bedrijf gevaccineerd.   
+4.  In aanvulling op het eerste tot en met het derde lid, worden leghennen en vermeerderingsdieren: 
+
+a. voor zover het dieren, anders dan kalkoenen betreft, binnen 22 weken na het uitkomen;  
+
+b. voor zover het kalkoenen betreft, binnen 30 weken na het uitkomen;   door middel van een injectie gevaccineerd met een geïnactiveerd vaccin.  
+
+### Artikel  94d  
+
+1.  Voor de vaccinatie wordt gebruik gemaakt van een vaccin dat voldoet aan de eisen, gesteld in Beschikking 93/152/EEG.   
+2.  Van het verbod, bedoeld in de [artikelen 2, vierde lid](../../../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) en [3 van het Besluit gebruik sera en entstoffen](../../../../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md), wordt vrijstelling verleend voor het overeenkomstig deze paragraaf vaccineren van dieren.  
+
+### §  3.2  
+
+####Bloedonderzoek
+
+### Artikel  94e  
+
+1.  De houder, bedoeld in artikel 94a, eerste lid, laat overeenkomstig de artikelen 94f tot en met 94j, bloed afnemen bij de dieren, bedoeld in artikel 94a, eerste lid, en laat dit onderzoeken op de werking van de vaccinatie, bedoeld in artikel 94b, eerste lid, in een laboratorium dat daartoe is aangewezen in [artikel 20, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
+2.  De houder laat het bloed afnemen door een dierenarts of een dierenartsassistent paraveterinair.   
+3.  De hoeveelheid bloed die overeenkomstig het eerste lid per dier wordt afgenomen en onderzocht bedraagt ten minste 1 milliliter.   
+4.  Het bloed wordt uiterlijk de werkdag na de dag dat het bloed is afgenomen aangeleverd bij het laboratorium, bedoeld in het eerste lid.   
+5.  Bij aanlevering van het bloed worden in ieder geval de volgende gegevens aangeleverd: 
+
+a. gegevens ter identificatie van de houder van de dieren;  
+
+b. gegevens ter identificatie van de dierenarts die het bloed heeft afgenomen;  
+
+c. gegevens ter identificatie van de dieren waarbij het bloed is afgenomen;  
+
+d. gegevens omtrent de bloedmonsters;  
+
+e. de dagtekening;  
+
+f. de handtekening van de inzender van de bloedmonsters.    
+
+### Artikel  94f  
+
+Bij vermeerderingsdieren of dieren die worden opgefokt tot vermeerderingsdier wordt bloed afgenomen van ten minste 30 dieren per stal op de volgende momenten: 
+
+a. 70 dagen na het uitkomen, tenzij het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd;  
+
+b. binnen zes weken nadat de vaccinatie, bedoeld in artikel 94c, vierde lid, is uitgevoerd;  
+
+c. in de periode van 40 tot 48 weken na het uitkomen, voor zover het dieren, anders dan kalkoenen betreft;  
+
+d. in de periode van 50 tot 58 weken na het uitkomen, voor zover het kalkoenen betreft;  
+
+e. in de periode van 70 tot 75 weken na het uitkomen;  
+
+f. binnen 20 dagen voorafgaand aan een verplaatsing van een koppel naar een ander bedrijf waar bedrijfsmatig vogels worden gehouden, voor zover het koppel op de dag van verplaatsing 28 dagen of ouder is.   
+
+### Artikel  94g  
+
+Bij leghennen of dieren die worden opgefokt tot leghen wordt bloed afgenomen van ten minste 30 dieren per stal op de volgende momenten: 
+
+a. 70 dagen na het uitkomen, tenzij het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd;  
+
+b. binnen zes weken nadat de vaccinatie, bedoeld in artikel 94c, vierde lid, is uitgevoerd;  
+
+c. in de periode van 90 tot 95 weken na het uitkomen;  
+
+d. binnen 9 weken voordat het koppel wordt geslacht;  
+
+e. binnen 20 dagen voorafgaand aan een verplaatsing van een koppel naar een ander bedrijf waar bedrijfsmatig vogels worden gehouden, voor zover het koppel op de dag van verplaatsing 28 dagen of ouder is.   
+
+### Artikel  94h  
+
+Bij vleeskuikens wordt bloed afgenomen van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal op de volgende momenten: 
+
+a. in de periode van 4 tot 6 weken na het uitkomen;  
+
+b. 70 dagen na het uitkomen, tenzij het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd.   
+
+### Artikel  94i  
+
+Bij vleeskalkoenen wordt bloed afgenomen van ten minste 30 dieren per koppel, waaronder ten minste 5 dieren per stal op de volgende momenten: 
+
+a. vanaf dertien weken na het uitkomen;  
+
+b. binnen 20 dagen voorafgaand aan een verplaatsing van een koppel naar een ander bedrijf waar bedrijfsmatig vogels worden gehouden, voor zover het koppel op de dag van verplaatsing 28 dagen of ouder is en het onderzoek, bedoeld in onderdeel a, nog niet heeft plaatsgevonden.   
+
+### Artikel  94j  
+
+Indien het dieren, bedoeld in artikel 94c, derde lid, betreft, is de aanhef van de artikelen 94f, 94g, 94h of 94i, van overeenkomstige toepassing en wordt bloed afgenomen in de periode van 3 tot 4 weken na de datum waarop de dieren zijn gevaccineerd. 
+
+### §  3.3  
+
+####Maatregelen bij te lage waarde
+
+### Artikel  94k  
+
+1.  Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 1, bij een koppel vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen niet wordt behaald, laat de houder de dieren terstond door een dierenarts vaccineren en worden de dieren binnen vier weken na vaccinatie overeenkomstig artikel 94e in samenhang met artikel 94f, aanhef of 94g, aanhef, onderzocht.   
+2.  Indien een koppel leghennen of dieren die worden opgefokt tot leghen niet overeenkomstig het eerste lid gevaccineerd is, dan wel zijn, laat de houder bij het eerstvolgende koppel in aanvulling op artikel 94g en binnen 40 tot 42 weken na het uitkomen overeenkomstig artikel 94e bloed afnemen en onderzoeken.   
+3.  De houder stuurt uiterlijk twee weken na de vaccinatie een kopie van de vaccinatieverklaring, bedoeld in artikel 94b, derde lid, aan de Gezondheidsdienst voor dieren.  
+
+### Artikel  94l  
+
+1.  Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 2, bij een koppel vleeskuikens niet wordt behaald, maakt de houder van de dieren in overleg met een dierenarts een analyse van de mogelijke oorzaken van het niet behalen van de waarde en een plan van aanpak.   
+2.  Het plan van aanpak wordt uitgevoerd bij de eerstvolgende twee koppels vleeskuikens die op het bedrijf worden gevaccineerd.   
+3.  Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 2, bij het tweede koppel, bedoeld in het tweede lid, niet wordt behaald, herziet de houder het plan van aanpak in overleg met de Gezondheidsdienst voor dieren.   
+4.  Het herziene plan van aanpak wordt uitgevoerd bij ten minste de eerstvolgende zes koppels vleeskuikens die op het bedrijf worden gevaccineerd.   
+5.  Het plan van aanpak bevat in ieder geval: 
+
+a. maatregelen die erop zijn gericht om de betreffende waarde, genoemd in bijlage 16, onderdeel 2, bij de volgende koppels te behalen;  
+
+b. de naam en handtekening van de houder;  
+
+c. het KIPnummer, bedoeld in [artikel 2, tweede lid, van de Verordening identificatie en registratie pluimveebedrijven en levend pluimvee (PPE) 2012](../../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/en/levend/etc/BWBR0031111/README.md);  
+
+d. de datum van opstellen van het plan van aanpak.     
+6.  De houder stuurt een kopie van het plan van aanpak of het herziene plan van aanpak aan de Gezondheidsdienst voor dieren.  
+
+### Artikel  94m  
+
+1.  Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 2, bij een koppel vleeskalkoenen niet wordt behaald, laat de houder de eerstvolgende twee koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren.   
+2.  Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 2, bij een koppel vleeskalkoenen dat overeenkomstig het eerst lid gevaccineerd is, niet wordt behaald, laat de houder de eerstvolgende drie koppels vleeskalkoenen die op het bedrijf worden gevaccineerd door een dierenarts vaccineren: 
+
+a. in de periode van 10 tot 15 dagen na het uitkomen;  
+
+b. in de periode van 28 tot 35 dagen na het uitkomen;  
+
+c. in de periode van 8 tot 10 weken na het uitkomen;  
+
+d. indien het mannelijke dieren betreft, 16 weken na het uitkomen.     
+3.  De houder stuurt uiterlijk twee weken na de vaccinatie een kopie van de vaccinatieverklaring, bedoeld in artikel 94b, derde lid, aan de Gezondheidsdienst voor dieren.  
+
+### §  3.4  
+
+####Verplaatsing
+
+### Artikel  94n  
+
+Een koppel van de dieren, bedoeld in artikel 94a, eerste lid, wordt alleen verplaatst van een bedrijf naar een ander bedrijf waar deze dieren worden gehouden of naar een andere locatie van hetzelfde bedrijf, waarbij de dieren over de openbare weg worden vervoerd, indien is voldaan aan het bepaalde in de artikelen 94o tot en met 94q. 
+
+### Artikel  94o  
+
+1.  Van een koppel van de dieren, bedoeld in artikel 94a, eerste lid, dat binnen 28 dagen na het uitkomen wordt verplaatst, zijn de dieren ten minste zeven dagen voor verplaatsing gevaccineerd door middel van een spray of aërosol.   
+2.  Van een koppel van de dieren, bedoeld in artikel 94a, eerste lid, dat wordt verplaatst in de periode van 28 tot 70 dagen na het uitkomen: 
+
+a. kan worden aangetoond dat de dieren overeenkomstig artikel 94e, eerste lid zijn onderzocht en dat de waarde, bedoeld in bijlage 16, onderdeel 1, onder a of onderdeel 2, onder a, is behaald, en  
+
+b. zijn de dieren in de periode van 42 tot 7 dagen voor verplaatsing gevaccineerd door middel van een spray of aërosol.     
+3.  Het eerste lid is niet van toepassing op dieren die binnen 8 dagen na het uitkomen worden verplaatst, indien kan worden aangetoond dat de dieren afkomstig zijn van ouderdieren die overeenkomstig deze paragraaf gevaccineerd zijn.  
+
+### Artikel  94p  
+
+1.  Van een koppel vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen dat wordt verplaatst na 70 dagen na het uitkomen, kan worden aangetoond dat de dieren overeenkomstig artikel 94e, eerste lid, zijn onderzocht en dat de waarde, bedoeld in bijlage 16, onderdeel 1, onder b, c of d, is behaald.   
+2.  Van een koppel vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen dat wordt verplaatst na 70 dagen na het uitkomen, waarbij de waarde, bedoeld in bijlage 16, onderdeel 1, onder b, c of d niet is behaald, zijn de dieren sinds het uitkomen met tussenpozen van ten hoogste zes weken door middel van een spray of aërosol gevaccineerd, waarbij de laatste vaccinatie ten minste zeven dagen voor de verplaatsing is uitgevoerd.  
+
+### Artikel  94q  
+
+Van een koppel vleeskuikens of vleeskalkoenen dat wordt verplaatst na 70 dagen na het uitkomen, kan worden aangetoond dat het koppel overeenkomstig artikel 94e, eerste lid, is onderzocht en dat de waarde, bedoeld in bijlage 16, onderdeel 2, onder b, is behaald. 
+
+### §  3.5  
+
+####Administratie
+
+### Artikel  94r  
+
+1.  Een houder bewaart de vaccinatieverklaring, bedoeld in artikel 94b, derde lid, en de resultaten van het onderzoek, bedoeld in artikel 94e, eerste lid, gedurende een periode van twee jaar.   
+2.  Een houder die vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen houdt, en deze dieren aan een andere houder overdraagt, doet deze houder een kopie van de vaccinatieverklaringen, bedoeld in artikel 94b, derde lid, en resultaten van het onderzoek, bedoeld in artikel 94e, eerste lid, toekomen.   
+3.  Een houder bewaart het plan van aanpak, bedoeld in artikel 94l, tweede lid, en het herziene plan van aanpak, bedoeld in artikel 94l, vierde lid, gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.  
 
 ### Titel  4  
 
@@ -1215,7 +1485,7 @@ a.het bij verordening stellen van regels ten aanzien van het fokken van schapen 
 
 1°. het stellen van regels ten aanzien van de erkenning van een fokprogramma om te selecteren op resistentie tegen overdraagbare spongiforme encefalopathieën in de schapenpopulatie;  
 
-2°.het stellen van regels ten aanzien van de erkenning van de TSE-resistente status van koppels schapen, bedoeld in bijlage VII, hoofdstuk C, deel 4, onder 1, van verordening (EG) nr. 999/2001; 
+2°.het stellen van regels ten aanzien van de erkenning van de TSE-resistente status van schapen, bedoeld in bijlage VII, hoofdstuk C, deel 4, onder 1, van verordening (EG) nr. 999/2001; 
 
 b.het stellen van regels ten aanzien een tegemoetkoming in de kosten van genotypering als bedoeld in bijlage VII, hoofdstuk C, deel 1, onder 5, van verordening (EG) nr. 999/2001;
 
@@ -1473,7 +1743,6 @@ a. wordt geacht te zijn erkend ingevolge artikel 26;
 b. dient uiterlijk binnen drie maanden na inwerkingtreding van deze regeling het protocol, bedoeld in artikel 26, tweede lid, in bij de NVWA ter goedkeuring en werkt uiterlijk binnen zes maanden na inwerkingtreding van deze regeling overeenkomstig het door de minister goedgekeurde protocol.    
 
 ### Artikel  115c  
-Treedt in werking per 01-07-2014 
 
 1.  Besluiten tot vrijstelling of ontheffing, niet inhoudende een algemeen verbindend voorschrift, genomen krachtens [artikel 7, eerste lid van de Verordening monitoring aviaire influenza (PPE) 2005](../../../../../../../../../../../pbo/verordening/monitoring/aviaire/influenza/(ppe)/2005/BWBR0018201/README.md) of [artikel 12, eerste lid van de Verordening vaccinatie Newcastle disease (PPE) 2006](../../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md), die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 juli 2014 geacht te zijn genomen op grond van [artikel 107, eerste in samenhang met derde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), onder dezelfde voorschriften, beperkingen en voorwaarden.   
 2.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen tot het nemen van een besluit als bedoeld in het eerste lid, worden met ingang van 1 juli 2014 overeenkomstig [artikel 107 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) door de minister behandeld met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag.  
@@ -1558,25 +1827,41 @@ c.5% van het aantal overige varkens.
 
 8.Op het bedrijf is een voorziening aanwezig voor het reinigen van de gebruikte laarzen of worden bedrijfseigen laarzen gebruikt en zijn bedrijfsoveralls beschikbaar. 
 
-###Bijlage 16 
+### Bijlage 16 
 
-####Vaccinatiemethoden en voorschriften als bedoeld in artikel 93, eerste, zesde en zevende lid 
+####Te behalen waarde bij vaccinatie Newcastle disease
 
-![163994](http://wetten.overheid.nl/Illustration/163994)
+### 1  
 
-###Bijlage 17 
+####Vermeerderingsdieren, leghennen en dieren die worden opgefokt tot vermeerderingsdier of leghen
 
-####Inzendformulier bloedmonsters pluimvee als bedoeld in artikel 93, derde lid 
+a. Indien het een koppel vermeerderingsdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen betreft dat ouder is dan 28 dagen en waarop de onderdelen b, c en d niet van toepassing zijn, wordt bij ten minste één van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.  
 
-![163995](http://wetten.overheid.nl/Illustration/163995)
+b. Indien het een koppel vermeerderingsdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen betreft waarbij de vaccinatie, bedoeld in artikel 93a, vierde lid, nog niet is uitgevoerd en dat ouder is dan 70 dagen, wordt bij ten minste 83% van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald, tenzij: 
 
-###Bijlage 18 
+I. het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd, en  
 
-####Voorschriften ten aanzien van bloedonderzoek als bedoeld in artikel 93, derde lid 
+II. bij ten minste één van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.    
 
-####*Voorschriften ten aanzien van bloedonderzoek:*
+c. Indien het een koppel vermeerderingsdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen betreft waarbij de vaccinatie, bedoeld in artikel 93a, vierde lid, is uitgevoerd, wordt, binnen zes weken na deze vaccinatie, bij ten minste 83% van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald, tenzij: 
 
-De effectiviteit van de vaccinaties van reproductiedieren en leghennen van 10 weken of ouder dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel, in ieder geval te worden gecontroleerd, vóór verplaatsing van het koppel en tevens maximaal 9 weken voor de slacht. Dit geldt niet voor dieren die binnen een bedrijf naar een ander lokaal worden verplaatst, voorzover daarbij geen vervoer over de openbare weg plaatsheeft.De effectiviteit van de vaccinaties van vleeskuikens en vleeskalkoenen dient, door middel van onderzoek van bloed van ten minste 30 willekeurig gekozen dieren per koppel en ten minste 5 dieren per lokaal wanneer op het bedrijf wordt getapt en 30 willekeurig gekozen dieren per koppel wanneer op het slachthuis wordt getapt, in elk geval te worden gecontroleerd:bij vleeskuikens:vanaf een leeftijd van 4 weken op het bedrijf, dan wel aan de slachtlijn;bij vleeskalkoenen:vanaf een leeftijd van 13 weken op het bedrijf, dan wel aan de slachtlijn.Het afnemen van bloed op het bedrijf geschiedt door een dierenarts dan wel door een op aanwijzing van en onder controle van een dierenarts handelende dierenartsassistent als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md). Het afnemen van bloed aan de slachtlijn geschiedt onder verantwoordelijkheid van een dierenarts.
+I. het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd, en  
+
+II. bij ten minste één van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.    
+
+d. Indien het een koppel vermeerderingsdieren leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen betreft waarbij de vaccinatie, bedoeld in artikel 94c, vierde lid, is uitgevoerd, wordt, na zes weken na deze vaccinatie, bij ten minste 83% van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.   
+
+### 2  
+
+####Vleeskuikens en vleeskalkoenen
+
+a. Indien het een koppel vleeskuiken of vleeskalkoenen betreft dat ouder is dan 28 dagen en waarop onderdeel b niet van toepassing is, wordt bij ten minste één van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.  
+
+b. Indien het een koppel vleeskuiken of vleeskalkoenen betreft dat ouder is dan 70 dagen wordt bij ten minste 83% van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald, tenzij: 
+
+I. het koppel sinds het uitkomen met tussenpozen van ten hoogste zes weken door een dierenarts is gevaccineerd met een levende entstof en die vaccinaties door middel van een spray of aërosol zijn uitgevoerd, en  
+
+II. bij ten minste één van de onderzochte bloedmonsters, bedoeld in artikel 94e, eerste lid, een waarde van ten minste 1:8 behaald.     
 
 ###Bijlage 21 
 

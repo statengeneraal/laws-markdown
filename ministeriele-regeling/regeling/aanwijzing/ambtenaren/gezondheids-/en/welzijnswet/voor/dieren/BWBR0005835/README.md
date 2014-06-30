@@ -14,9 +14,9 @@ a. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit;
 
 b. de ambtenaren van de Dienst Regelingen; 
 
-c.de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren voorzover het betreft het toezicht op de naleving van artikel 73 van de wet;
+c.vervallen;
 
-d.de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van de [artikelen 35 tot en met 39](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [45](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [55](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [58 tot en met 59b](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), en [96](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor zover het honden betreft, en [96](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor zover het honden betreft van de [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de daarop berustende bepalingen;
+d.vervallen;
 
 e.de ambtenaren van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);
 

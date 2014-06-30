@@ -105,6 +105,7 @@ H.G.J. Kamp.
 | Artikel 7.1, in samenhang met artikel 7.4, eerste lid  | 4  |
 | Artikel 7.1, in samenhang met artikel 7.6, eerste lid, onderdelen a tot en met f, h en i  | 4  |
 | Artikel 7.1, in samenhang met artikel 7,6, eerste lid, onderdeel g  | 3  |
+|Artikel 7.10, eerste lid |4 |
 | Artikel 8A.8, eerste lid  | 3  |
 | Artikel 8A.10  | 3  |
 | Artikel 8A.12  | 3  |
@@ -142,10 +143,10 @@ H.G.J. Kamp.
 | Artikel 6.2, eerste tot en met derde lid  | 3  |
 | Artikel 6.3  | 4  |
 | Artikel 6.4, eerste en derde lid  | 4  |
-| Artikel 7.1, in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md)  | 3  |
-| Artikel 7.2, vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
-| Artikel 7.2, vijfde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
-| Artikel 7.3, eerste, derde en vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
+| Artikel 7.11, in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md)  | 3  |
+| Artikel 7.12, vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
+| Artikel 7.12, vijfde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
+| Artikel 7.13, eerste, derde en vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
 | Artikel 8.1  | 4  |
 | Artikel 8.2  | 4  |
 | Artikel 8.3, eerste lid  | 4  |
@@ -221,4 +222,113 @@ H.G.J. Kamp.
 | Artikel 57  | 4  |
 | Artikel 62  | 4  |
 | Artikel 63  | 2  |
+
+| Besluit houders van dieren  | Categorie  |
+|:---|:---|
+| Artikel 1.6, eerste tot en met vierde lid  | 2  |
+| Artikel 1.7, onderdelen a tot en met g  | 2  |
+| Artikel 1.8, eerste tot en met vierde lid  | 2  |
+| Artikel 1.13, eerste en tweede lid  | 2  |
+| Artikel 1.14, eerste lid  | 2  |
+| Artikel 1.17  | 2  |
+| Artikel 1.18  | 2  |
+| Artikel 1.22  | 3  |
+| Artikel 1.23  | 3  |
+| Artikel 1.24  | 2  |
+| Artikel 2.3  | 2  |
+| Artikel 2.4  | 2  |
+| Artikel 2.5  | 2  |
+| Artikel 2.7  | 3  |
+| Artikel 2.8  | 3  |
+| Artikel 2.9  | 3  |
+| Artikel 2.10  | 3  |
+| Artikel 2.13  | 2  |
+| Artikel 2.14  | 2  |
+| Artikel 2.15, tweede lid  | 2  |
+| Artikel 2.16  | 2  |
+| Artikel 2.17  | 2  |
+| Artikel 2.18  | 2  |
+| Artikel 2.19  | 2  |
+| Artikel 2.20  | 2  |
+| Artikel 2.21  | 2  |
+| Artikel 2.22  | 2  |
+| Artikel 2.23  | 2  |
+| Artikel 2.24  | 2  |
+| Artikel 2.25  | 2  |
+| Artikel 2.26  | 2  |
+| Artikel 2.27  | 2  |
+| Artikel 2.31  | 2  |
+| Artikel 2.32  | 2  |
+| Artikel 2.33  | 2  |
+| Artikel 2.34  | 2  |
+| Artikel 2.35, eerste lid  | 2  |
+| Artikel 2.36  | 2  |
+| Artikel 2.37  | 2  |
+| Artikel 2.38  | 2  |
+| Artikel 2.39  | 2  |
+| Artikel 2.40  | 2  |
+| Artikel 2.41  | 2  |
+| Artikel 2.42  | 2  |
+| Artikel 2.43  | 2  |
+| Artikel 2.44  | 2  |
+| Artikel 2.45  | 2  |
+| Artikel 2.46  | 3  |
+| Artikel 2.50  | 2  |
+| Artikel 2.51  | 2  |
+| Artikel 2.52, eerste en tweede lid  | 2  |
+| Artikel 2.53  | 2  |
+| Artikel 2.54, eerste tot en met vierde lid  | 2  |
+| Artikel 2.55, eerste en tweede lid  | 2  |
+| Artikel 2.56  | 2  |
+| Artikel 2.57  | 2  |
+| Artikel 2.58  | 2  |
+| Artikel 2.59  | 2  |
+| Artikel 2.61  | 2  |
+| Artikel 2.62, eerste lid  | 2  |
+| Artikel 2.63, tweede lid  | 2  |
+| Artikel 2.64, derde lid  | 2  |
+| Artikel 2.65, eerste lid  | 2  |
+| Artikel 2.68  | 2  |
+| Artikel 2.69, derde lid  | 2  |
+| Artikel 2.70  | 2  |
+| Artikel 2.71  | 2  |
+| Artikel 2.72  | 2  |
+| Artikel 2.73  | 2  |
+| Artikel 2.74  | 2  |
+| Artikel 2.75  | 2  |
+| Artikel 2.76  | 2  |
+| Artikel 3.1  | 2  |
+| Artikel 3.2  | 2  |
+| Artikel 3.3  | 2  |
+| Artikel 3.4  | 2  |
+| Artikel 4.6  | 2  |
+| Artikel 4.7  | 2  |
+| Artikel 4.8  | 2  |
+| Artikel 4.9, eerste lid  | 3  |
+| Artikel 4.9, tweede, derde en vierde lid  | 2  |
+| Artikel 4.10, tweede lid  | 2  |
+| Artikel 4.11  | 2  |
+| Artikel 4.12  | 2  |
+| Artikel 6.4  | 3  |
+| Artikel 6.5  | 3  |
+| Artikel 6.6  | 2  |
+| Artikel 6.7  | 2  |
+| Artikel 6.8  | 2  |
+
+| Regeling houders van dieren  |--- |
+|:---|:---|
+| Artikel 3.1, eerste, derde en vierde lid  | 3  |
+| Artikel 4.8, voor zover dat artikel betrekking heeft op de artikelen 3, 4, 5, 6, 7, 8, 9 en 12 alsmede Bijlagen I, II en IV, voor zover genoemd in de genoemde artikelen, van verordening (EG) nr. 1/2005  | 2  |
+| Artikel 5.3, tweede lid  | 2  |
+| Artikel 5.8, voor zover dat artikel betrekking heeft op de artikelen 3, 4, eerste en vierde lid, 5, eerste en tweede lid, 6, eerste en tweede lid, 7, 8, 9, 12, 14, eerste en tweede lid, 15, eerste, tweede en derde lid, 16, eerste tot en met vierde lid, 17, 19, 21, zesde lid, 24 en 28, eerste lid, van verordening (EG) nr. 1099/2009  | 2  |
+| Artikel 6.2, derde lid  | 2  |
+| Artikel 6.3, eerste, tweede en derde lid  | 2  |
+| Artikel 6.5, eerste lid  | 3  |
+| Artikel 6.5, tweede, derde, vijfde en zesde lid  | 2  |
+| Artikel 6.6, tweede lid, onderdelen a en b  | 2  |
+| Artikel 6.6, derde, vijfde, zesde en zevende lid  | 2  |
+| Artikel 6.8, eerste en derde lid  | 3  |
+| Artikel 6.8, tweede lid  | 2  |
+| Artikel 6.9, derde lid  | 2  |
+| Artikel 9.2  | 3  |
 

@@ -62,7 +62,8 @@ Voor de toepassing van artikel 70, zesde lid, en artikel 71, vierde lid, van Ver
 
 ### Artikel  5  
 
-1.  Opzet wordt beoordeeld aan de hand van in ieder geval één of meer van de volgende criteria: 
+1.  Een niet-naleving is opzettelijk begaan indien de landbouwer de desbetreffende niet-naleving heeft beoogd of indien de landbouwer het risico heeft aanvaard dat zijn handelen of nalaten een niet-naleving tot gevolg heeft.   
+2.  Opzet wordt beoordeeld aan de hand van in ieder geval één of meer van de volgende criteria: 
 
 a. in de omschrijving van de betrokken randvoorwaarde wordt een rechtstreeks verband met de opzettelijkheid van de niet-naleving gelegd;  
 
@@ -75,31 +76,13 @@ d. de niet-naleving veronderstelt een actieve handeling dan wel het bewust nalat
 e. de omstandigheid dat de landbouwer reeds eerder op de hoogte is gesteld van onvolkomenheden in de naleving ten aanzien van de randvoorwaarde, en  
 
 f. de mate waarin de randvoorwaarde niet wordt nageleefd.     
-2.  De niet-nalevingen van de volgende randvoorwaarden worden vermoed opzettelijk te zijn: 
+3.  In het geval waarin een niet-naleving door een derde is begaan op de landbouwgrond of in het kader van het bedrijf van een landbouwer wordt desbetreffende niet-naleving aan de landbouwer toegerekend als een opzettelijke niet-naleving indien de landbouwer blijkens: 
 
-a. [artikel 9](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) juncto [artikel 31, eerste lid, Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor wat betreft het vangen van beschermde inheemse vogels.  
+a. de keuze voor de derde,  
 
-b. [artikel 10](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) juncto [artikel 31, tweede lid, Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+b. het door de landbouwer op de derde uitgeoefende toezicht, of  
 
-c. [artikel 4](../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md), [artikel 4b](../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) en [artikel 5 Besluit gebruik meststoffen](../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md);  
-
-d. [artikel 20 Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), voor wat betreft het gebruik van een niet toegelaten gewasbeschermingsmiddel;  
-
-e. [artikel 2, eerste lid, Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  
-
-f. [artikel 44 Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) juncto [artikel 82 Diergeneesmiddelenregeling](../../../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md);  
-
-g. [artikel 46 Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) juncto [artikel 81, eerste lid, Diergeneesmiddelenregeling](../../../../../../ministeriele-regeling/diergeneesmiddelenregeling/BWBR0019277/README.md);  
-
-h. [artikel 2, eerste lid, onderdeel a, van de Regeling verbod handel met bepaalde stoffen behandelde dieren en producten](../../../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md);  
-
-i. artikel 2, eerst lid, onderdeel a, van de Verordening PVV Verbod op gebruik van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking, alsmede bèta-agonisten 1997;  
-
-j. artikel 4 juncto Bijlage 1 onder 8 van Richtlijn 2008/119/EG;  
-
-k. [artikel 3 Kalverenbesluit](../../../../../../AMvB/kalverenbesluit/BWBR0006805/README.md), en  
-
-l. [artikel 3, eerste lid, Varkensbesluit](../../../../../../AMvB/varkensbesluit/BWBR0006806/README.md).    
+c. de door de landbouwer aan de derde gegeven instructies   heeft beoogd of het risico heeft aanvaard dat de niet-naleving zou plaatsvinden.  
 
 ###Artikel 5a 
 

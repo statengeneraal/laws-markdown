@@ -1498,7 +1498,7 @@ d. wordt met bestuurder in de zin van de aanhef van lid 1 gelijkgesteld de uitvo
 
 e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming; 
 
-f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  133  
@@ -1598,7 +1598,7 @@ d. wordt met commissaris in de zin van de aanhef van lid 1 gelijkgesteld de niet
 
 e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
 
-f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  143  
@@ -2372,7 +2372,7 @@ d. wordt met bestuurder in de zin van de aanhef van lid 1 gelijkgesteld de uitvo
 
 e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
 
-f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  243  
@@ -2456,7 +2456,7 @@ d. wordt met commissaris in de zin van de aanhef van lid 1 gelijkgesteld de niet
 
 e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming; 
 
-f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
+f. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.     
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  253  
@@ -2768,7 +2768,7 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
 
-e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van artikel [105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
+e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
 4.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  297b  
@@ -2784,7 +2784,7 @@ c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze venno
 
 d. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming;  
 
-e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van artikel [105a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110a van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
+e. wordt de benoeming van een lid van de raad van toezicht of niet uitvoerende bestuurder bij een fonds als bedoeld in de algemene maatregel van bestuur op grond van [artikel 106a van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 110ca van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) geteld overeenkomstig de normering in deze algemene maatregel van bestuur.    
 3.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen. 
 
 ### Artikel  298  

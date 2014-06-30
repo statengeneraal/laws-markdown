@@ -105,7 +105,8 @@ a. ten aanzien van al deze dienstbetrekkingen een schriftelijk beding als bedoel
 
 b. al deze dienstbetrekkingen van rechtswege zijn geëindigd door inroeping van dat beding; en  
 
-c. de werknemer gedurende de tussen de elkaar opvolgende dienstbetrekkingen liggende dagen recht op ziekengeld had.   Indien de vorige zin van toepassing is dan geldt tevens als loon het ziekengeld dat is uitgekeerd gedurende de tussen elkaar opvolgende dienstbetrekkingen liggende dagen.  
+c. de werknemer gedurende de tussen de elkaar opvolgende dienstbetrekkingen liggende dagen recht op ziekengeld had.   Indien de vorige zin van toepassing is dan geldt tevens als loon het ziekengeld dat is uitgekeerd gedurende de tussen elkaar opvolgende dienstbetrekkingen liggende dagen.   
+3.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste en tweede lid, indien de werknemer bij één werkgever als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), meer opvolgende dienstbetrekkingen als bedoeld in [artikel 691 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding. 
 
 ### Artikel  4  
 
@@ -128,16 +129,16 @@ b. de vakantiebijslag als onderdeel van het periodieke loon betaalt; of
 
 c. de vakantiebijslag voldoet overeenkomstig [artikel 18, eerste lid, van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).     
 4.  D staat, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden een of meer aangiftetijdvakken kent waarin geen loon is genoten anders dan vanwege verlof, arbeidsongeschiktheid of ziekte, in afwijking van het eerste lid, voor het aantal dagloondagen van de aangiftetijdvakken waarin wel loon is genoten.   
-5.  D staat, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden, is aangevangen na afloop van het refertejaar, in afwijking van het eerste lid, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot de dag waarop de ziekte of het arbeidsurenverlies is ingetreden en A, B en C staan in dat geval, in zoverre in afwijking van artikel 3, voor het loon respectievelijk de vakantiebijslag genoten in deze dienstbetrekking na afloop van het refertejaar.   
-6.  Indien artikel 3, tweede lid, van toepassing is, staat C tevens voor het ziekengeld uitgekeerd tussen de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede lid, en staat D voor het aantal dagloondagen van de aangiftetijdvakken waarin loon als bedoeld in dat tweede lid is genoten.   
-7.  Indien het aantal dagloondagen op grond van het vijfde lid nul is, dan is het dagloon, in afwijking van het eerste lid, de uitkomst van de volgende berekening: E/F waarbij: E staat voor het overeengekomen loon in het aangiftetijdvak waarin de ziekte is ingetreden; en F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is ingetreden dan wel, indien het een aangiftetijdvak van een maand betreft, voor 21,75.  
+5.  D staat, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden, is aangevangen na afloop van het refertejaar, in afwijking van het eerste lid, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot de dag waarop de ziekte of het arbeidsurenverlies is ingetreden en A, B en C staan in dat geval, in zoverre in afwijking van artikel 3, voor het loon respectievelijk de vakantiebijslag genoten in deze dienstbetrekking na afloop van het refertejaar. Dit lid is van overeenkomstige toepassing in de situatie, bedoeld in artikel 3, tweede en derde lid.   
+6.  Indien artikel 3, tweede of derde lid, van toepassing is, staat C tevens voor het ziekengeld uitgekeerd tussen de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, en staat D voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de eerste van de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, is aangevangen tot en met de laatste dag van het refertejaar.   
+7.  Indien het aantal dagloondagen op grond van het eerste, vijfde of zesde lid nul is, dan wordt het dagloon, in afwijking van het eerste lid, als volgt berekend: E/F. Waarbij: E staat voor het overeengekomen loon in het aangiftetijdvak waarin de ziekte of het arbeidsurenverlies is ingetreden; en F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte of het arbeidsurenverlies is ingetreden dan wel, indien het een aangiftetijdvak van een maand betreft, voor 21,75.  
 
 ### Artikel  6  
 
 ####Loon in geval van ziekte of verlof tijdens een dienstbetrekking
 
-1.  Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof of omdat hij de bedongen arbeid niet heeft verricht in verband met ziekte, wordt bij de berekening van het dagloon, bedoeld in artikel 5, eerste lid, als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking in het laatste aan dat verlof of die ziekte, voorafgaande en volledig in het refertejaar gelegen aangiftetijdvak, waarin die omstandigheid zich niet heeft voorgedaan.   
-2.  Indien er geen voorafgaand aangiftetijdvak als bedoeld in het eerste lid is, wordt bij de berekening van het dagloon, bedoeld in artikel 5, eerste lid, het loon in aanmerking genomen uit dezelfde dienstbetrekking over het aangiftetijdvak direct na afloop van dat verlof of die ziekte, indien: 
+1.  Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof of omdat hij de bedongen arbeid niet heeft verricht in verband met ziekte, wordt bij de berekening van het dagloon, bedoeld in artikel 5, eerste lid, als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking of in de opvolgende dienstbetrekkingen als bedoeld in artikel 3, derde lid in het laatste aan dat verlof of die ziekte, voorafgaande en volledig in het refertejaar gelegen aangiftetijdvak, waarin die omstandigheid zich niet heeft voorgedaan.   
+2.  Indien er geen voorafgaand aangiftetijdvak als bedoeld in het eerste lid is, wordt bij de berekening van het dagloon, bedoeld in artikel 5, eerste lid, het loon in aanmerking genomen uit dezelfde dienstbetrekking of uit de opvolgende dienstbetrekkingen als bedoel in artikel 3, derde lid, over het aangiftetijdvak direct na afloop van dat verlof of die ziekte, indien: 
 
 a. dat aangiftetijdvak geheel is gelegen in het refertejaar, en  
 
@@ -363,21 +364,9 @@ b. op de eerste dag waarop recht bestaat op uitkering jonger is dan 23 jaar en h
 
 ### Artikel  27  
 
-####Wijziging [Algemeen inkomensbesluit socialezekerheidswetten](../../../../AMvB/algemeen/inkomensbesluit/socialezekerheidswetten/BWBR0029368/README.md)
+####Overgangsbepaling
 
-Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten. 
-
-### Artikel  28  
-
-####Wijziging [Besluit nadere regeling verlies van arbeidsuren](../../../../AMvB/besluit/nadere/regeling/verlies/van/arbeidsuren/BWBR0004096/README.md)
-
-Wijzigt het Besluit nadere regeling verlies van arbeidsuren. 
-
-### Artikel  29  
-
-####Intrekken [Besluit verlaagde wekeneis WW en Wet WIA](../../../../AMvB/besluit/verlaagde/wekeneis/ww/en/wet/wia/BWBR0019719/README.md)
-
-Het [Besluit verlaagde wekeneis WW en Wet WIA](../../../../AMvB/besluit/verlaagde/wekeneis/ww/en/wet/wia/BWBR0019719/README.md) wordt ingetrokken. 
+Artikelen 3, 5 en 6 van het Dagloonbesluit werknemersverzekeringen zoals deze luidden op de dag voorafgaand aan de dag van de inwerkingtreding van artikel II, onderdelen A, C en D, maar met inachtneming van de wijzigingen in artikel II, onderdeel B, van het Besluit tot wijziging van het Besluit SUWI en enige andere besluiten in verband met gegevensverstrekking aan werkgevers en verzekeraars en enige andere technische wijzigingen, blijven van toepassing op een recht op uitkering op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), waarvan de eerste uitkeringsdag is gelegen voor de dag van die inwerkingtreding. 
 
 ### Artikel  30  
 

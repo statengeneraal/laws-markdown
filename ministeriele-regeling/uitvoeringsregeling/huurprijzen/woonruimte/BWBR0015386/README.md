@@ -139,7 +139,7 @@ f. de huurder of een ander lid van dat huishouden met een verklaring van de huis
 
 ### §  7  
 
-####Vrijstelling leges
+####Leges
 
 ### Artikel  11  
 
@@ -154,6 +154,10 @@ b.een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening 
 
 Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in artikel 11. 
 
+### Artikel  12a  
+
+De gegevens, bedoeld in [artikel 7, eerste lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), worden uiterlijk binnen vier weken na de kennisgeving van ontvangst van het verzoek bij de voorzitter ingediend. De gegevens bevatten een afschrift van de huurovereenkomst. 
+
 ### §  8  
 
 ####Gegevensverstrekking door de huurder
@@ -165,6 +169,18 @@ Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk 
 a. een door de inspecteur, bedoeld in [artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), afgegeven verklaring omtrent het inkomensgegeven, bedoeld in [artikel 21, onder e, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van alle bewoners van de woning, en  
 
 b. een afschrift uit de basisregistratie personen waaruit blijkt hoeveel personen staan ingeschreven op het adres van de woning.   
+
+### §  8a  
+
+####Servicekosten
+
+### Artikel  14  
+
+Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is het formulier als opgenomen in bijlage VII. 
+
+### Artikel  14a  
+
+Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), is het bedrag, genoemd in bijlage VIII. 
 
 ### §  9  
 
@@ -559,3 +575,35 @@ Schema van redelijke huuraanpassingen per 1 juli 2013 voor woonruimte bij overg
 | IV  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs <sup>4</sup>, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs <sup>4</sup> bekend was  | IV  | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, derde lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden <sup>5</sup>  |
 
 ¹ De maximale huurprijsgrenzen, bedoeld in [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md), zoals deze gelden op de dag dat dit schema in werking treedt.² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md).³ Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. <sup>4 </sup> Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd.<sup>5</sup> Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend.
+
+### Bijlage VII  
+
+![253867](http://wetten.overheid.nl/Illustration/253867)
+![253868](http://wetten.overheid.nl/Illustration/253868)
+![253869](http://wetten.overheid.nl/Illustration/253869)
+![253870](http://wetten.overheid.nl/Illustration/253870)
+![253871](http://wetten.overheid.nl/Illustration/253871)
+![253872](http://wetten.overheid.nl/Illustration/253872)
+
+### Bijlage VIII  
+
+Het bedrag van de servicekosten, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), is:  Bij zelfstandige woonruimte 
+
+|--- |  *Normbedrag per jaar*   |
+|:---|:---|
+|  *Gas*   | Prijs van 400 m<sup>3</sup> gas*  |
+|  *Water*   | Prijs van 25 m<sup>3</sup> water*  |
+|  *Elektriciteit*   | Prijs van 800 kWh*  |
+|  *Overige servicekosten*   | 12 euro  |
+
+Bij onzelfstandige woonruimte 
+
+|--- |  *Normbedrag per jaar*   |
+|:---|:---|
+|  *Gas*   | Prijs van 250 m<sup>3</sup> gas*  |
+|  *Water*   | Prijs van 25 m<sup>3</sup> water*  |
+|  *Elektriciteit*   | Prijs van 500 kWh*  |
+|  *Overige servicekosten*   | 12 euro  |
+
+* Hierbij wordt uitgegaan van de gemiddelde prijzen voor gas, elektra en water volgens het CBS, die per jaar verschillen. 
+

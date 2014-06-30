@@ -1549,11 +1549,6 @@ Wijzigt deze wet.
 
 Ten aanzien van verzekerden die aanspraak maken op ziekengeld op grond van artikel 29, tweede lid, onderdeel e, f of g, wier eerste dag van ongeschiktheid tot het verrichten van hun arbeid wegens ziekte is gelegen voor de dag van inwerkingtreding van [artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld](../../../wet/wet/wijziging/verrekening/inkomsten/met/ziekengeld/BWBR0030113/README.md) en de werkgevers van die verzekerden is artikel 38, vierde lid, zoals dat luidde op de dag voor inwerkingtreding van artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld, van toepassing. 
 
-### Artikel  98  
-
-1.  Artikel 31, eerste en tweede lid, zoals dat luidde op de dag voor de inwerkingtreding van [artikel II, onderdeel B, van de Wet wijziging verrekening inkomsten met ziekengeld](../../../wet/wet/wijziging/verrekening/inkomsten/met/ziekengeld/BWBR0030113/README.md), blijft van toepassing op de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor de dag waarop artikel II, onderdeel B, van die wet in werking is getreden.   
-2.  Dit artikel vervalt drie jaar na de dag waarop [artikel II, onderdeel B, van de Wet wijziging verrekening inkomsten met ziekengeld](../../../wet/wet/wijziging/verrekening/inkomsten/met/ziekengeld/BWBR0030113/README.md) in werking is getreden.  
-
 ### Artikel  99  
 
 1.  Artikel 31, derde, vierde en vijfde lid, zoals dat luidde op de dag voor inwerkingtreding van [artikel VIII, onderdeel G, onder 3 en 4, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](../../../wet/wet/harmonisatie/en/vereenvoudiging/socialezekerheidswetgeving/BWBR0029334/README.md), blijft van toepassing op de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor de dag waarop artikel VIII, onderdeel G, onder 3 en 4, van die wet in werking is getreden.   
@@ -1570,8 +1565,7 @@ Ten aanzien van verzekerden die aanspraak maken op ziekengeld op grond van artik
 
 a. verzekerd is op grond van [artikel 16 van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md); of  
 
-b. recht heeft op toekenning of heropening van een arbeidsongeschiktheidsuitkering op grond van de [artikelen 19a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [20](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [43a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) onderscheidenlijk [47](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [47a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [47b van die wet](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).     
-2.  IDit lid is nog niet in werking getreden.  
+b. recht heeft op toekenning of heropening van een arbeidsongeschiktheidsuitkering op grond van de [artikelen 19a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [20](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [43a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) onderscheidenlijk [47](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [47a](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [47b van die wet](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).    
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 

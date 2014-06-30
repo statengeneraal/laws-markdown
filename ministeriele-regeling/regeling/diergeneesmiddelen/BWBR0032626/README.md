@@ -1333,11 +1333,11 @@ b. vanuit een lokaal als bedoeld in artikel 5.2 met een voor het diergeneesmidde
 
 c. vanuit een lokaal als bedoeld in artikel 5.2 met een voor het diergeneesmiddel geschikte wijze van vervoer aan huis bij de houder van het dier, indien het dier niet voor de productie wordt gehouden.   
 
-### Artikel  5.8a  
+###Artikel  5.8a  
 
 ####Gevoeligheidsbepaling bij afleveren aangewezen diergeneesmiddelen
 
-[Artikel 8a.6a van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en artikel 9a.9 zijn van overeenkomstige toepassing op het afleveren van diergeneesmiddelen. 
+[Artikel 5.6 van het Besluit diergeneeskundigen](../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) en [artikel 5.8 van de Regeling diergeneeskundigen](../../../../ministeriele-regeling/regeling/diergeneeskundigen/BWBR0035238/README.md) zijn van overeenkomstige toepassing op het afleveren van diergeneesmiddelen. 
 
 ### §  4  
 
@@ -1624,48 +1624,33 @@ b. elke door hem voorgenomen wijziging van de gegevens op grond waarvan de vergu
 
 ### Artikel  7.1  
 
-####Afleveren diervoeder met medicinale werking op recept
+####Lokalen voor opslag, bewaring of vervaardiging diervoeder met medicinale werking
 
-Een diervoeder met medicinale werking wordt uitsluitend aan een houder van dieren afgeleverd op recept van een dierenarts. 
+1.  Lokalen waarin voormengsels voor diervoeder met medicinale werking of diervoeders met medicinale werking worden opgeslagen, bewaard of vervaardigd zijn zodanig ingericht dat verschillende producten niet onbedoeld met elkaar in contact kunnen komen of verwisseld kunnen worden.   
+2.  De lokalen, bedoeld in het eerste lid, zijn zodanig ingericht dat opslagruimtes voor voormengsels voor diervoeder met medicinale werking of diervoeders met medicinale werking niet toegankelijk zijn voor het publiek.  
 
 ### Artikel  7.2  
 
-####Recept voor een diervoerder met medicinale werking
+####Installaties voor vervaardiging diervoeder met medicinale werking
 
-1.  Het recept voor de aflevering van een diervoeder met medicinale werking, bedoeld in artikel 5.8, eerste lid, onderdeel b, in samenhang met [7.5, tweede lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt vastgesteld overeenkomstig bijlage A bij Richtlijn 90/167/EEG en bestaat uit een origineel en drie afschriften.   
-2.  Het origineel en één afschrift van het recept zijn bestemd voor de bereider van het voorgeschreven diervoeder met medicinale werking.   
-3.  De overige twee afschriften van het recept zijn bestemd voor de dierenarts en de houder van de dieren.   
-4.  De bereider, bedoeld in het tweede lid, overlegt het afschrift van het recept aan de houder van de dieren bij de aflevering van het voorgeschreven diervoeder met medicinale werking.   
-5.  Een recept geeft slechts eenmalig recht op aflevering van het diervoeder met medicinale werking en behandeling van het betrokken dier met het voorgeschreven diervoeder met medicinale werking binnen een termijn van drie maanden na dagtekening van het recept.  
+Installaties die worden gebruikt voor vervaardiging van diervoeders met medicinale werking functioneren zodanig dat: 
+
+a. het gebruikte diervoeder en het voormengsel tot een homogeen en stabiel product worden vermengd;  
+
+b. versleping van stoffen andere dan stoffen, bedoeld in de [artikelen 7.3, eerste lid](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en [7.4, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) die bestemd zijn om in het betreffende diervoeder met medicinale werking verwerkt te worden, zo veel mogelijk wordt voorkomen;  
+
+c. een nauwkeurige dosering en weging mogelijk is.   
 
 ### Artikel  7.3  
 
-####Administratie vervaardiging diervoeder met medicinale werking
+####Vervaardiging diervoeder met medicinale werking
 
-1.  Een houder van een vergunning voor het vervaardigen van een diervoeder met medicinale werking, voert een administratie inzake iedere transactie met diervoeders met medicinale werking.   
-2.  De administratie, bedoeld in het eerste lid, bevat: 
-
-a. het recept, bedoeld in artikel 7.2, en  
-
-b. bewijzen, waaronder de facturen bij de ontvangst en de kopieën van facturen voor de aflevering, met ten minste de volgende gegevens: 
-
-1°. aard en hoeveelheid van de bereide en afgeleverde diervoeders met medicinale werking;  
-
-2°. aard en hoeveelheid van de diervoeders met medicinale werking die op het bedrijf opgeslagen zijn,  
-
-3°. aard en hoeveelheid van de diervoeders, de voormengsels met medicinale werking en de halffabricaten met medicinale werking die bij de bereiding van diervoeders met medicinale werking zijn gebruikt,  
-
-4°. naam en adres van de ontvanger, en  
-
-5°. naam en adres van de dierenarts door wie het recept voor het diervoeder met medicinale werking werd uitgeschreven.       
-3.  In de administratie worden de gegevens, bedoeld in het tweede lid, onderdeel b, onder 3, voor elk voormengsel met medicinale werking, voor elk halffabricaat met medicinale werking en voor elk gemedicineerd voeder afzonderlijk vermeld.   
-4.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende drie jaar bewaard.  
+1.  Het voormengsel voor een diervoeder met medicinale werking, bedoeld in [artikel 7.4, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), wordt toegevoegd aan het diervoeder, bedoeld in [artikel 7.3, eerste lid van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), zo dicht mogelijk voor of in de menger, maar na de hamermolen.   
+2.  In afwijking van het eerste lid kan van toevoeging van het voormengsel na de hamermolen worden afgeweken indien de kwaliteit van het diervoeder met medicinale werking ten minste gelijk is aan de kwaliteit van het diervoeder met medicinale werking die wordt bereikt overeenkomstig het eerste lid.  
 
 ### Artikel  7.4  
 
 ####Opslag voormengsel voor diervoeder met medicinale werking en diervoeder met medicinale werking
-
-Treedt in werking per 01-07-2014 
 
 Voormengsels voor diervoeders met medicinale werking en diervoeders met medicinale werking worden op zodanige wijze opgeslagen dat: 
 
@@ -1679,23 +1664,17 @@ c. verwisseling met andere producten wordt vermeden.
 
 ####Vervoer diervoeder met medicinale werking
 
-Treedt in werking per 01-07-2014 
-
 Wanneer een diervoeder met medicinale werking wordt vervoerd met een transportmiddel waarmee producten zijn vervoerd die bij vermenging met het diervoeder met medicinale werking schade kunnen toebrengen aan dit diervoeder met medicinale werking, wordt het transportmiddel op de aanwezigheid van de producten gecontroleerd en indien nodig, gereinigd. 
 
 ### Artikel  7.6  
 
 ####Bedrijfshygiëne
 
-Treedt in werking per 01-07-2014 
-
 Een houder van een vergunning voor vervaardiging als bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) neemt passende maatregelen opdat een optimale bedrijfshygiëne wordt verzekerd en ongewenste wisselwerking tussen diergeneesmiddelen en diervoeders uitgesloten wordt. 
 
 ### Artikel  7.7  
 
 ####Bedrijfsinterne controle
-
-Treedt in werking per 01-07-2014 
 
 1.  Een houder van een vergunning voor vervaardiging als bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) stelt een controleprogramma vast en voert dit uit.   
 2.  Het controleprogramma, bedoeld in het eerste lid, heeft tot doel te borgen dat diervoeders met medicinale werking voldoen aan het bepaalde bij of krachtens de [artikelen 7.2 tot en met 7.6 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
@@ -1704,8 +1683,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  7.8  
 
 ####Etikettering
-
-Treedt in werking per 01-07-2014 
 
 1.  De verpakking van een diervoeder met medicinale werking vermeldt: 
 
@@ -1732,13 +1709,9 @@ i. de vermelding ‘op recept van een dierenarts’.
 
 ####Verstrekking vergunning
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  7.9  
 
 ####Aanvraag van een vergunning voor vervaardiging of invoer
-
-Treedt in werking per 01-07-2014 
 
 1.  Een aanvraag om een vergunning voor vervaardiging of invoer als bedoeld in [artikel 7.1 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt ingediend met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
 2.  Een aanvraag bevat ten minste een beschrijving van het proces van vervaardiging van diervoeders met medicinale werking.   
@@ -1748,13 +1721,9 @@ Treedt in werking per 01-07-2014
 
 ####Uitvoer
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  7.10  
 
 ####Verklaring voor uitvoer
-
-Treedt in werking per 01-07-2014 
 
 Een aanvraag om een verklaring als bedoeld in [artikel 7.10, tweede lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) wordt ingediend met behulp van een door de minister vastgesteld formulier. 
 
@@ -1762,13 +1731,9 @@ Een aanvraag om een verklaring als bedoeld in [artikel 7.10, tweede lid, van het
 
 ####Afleveren op recept
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  7.11  
 
 ####Afleveren diervoeder met medicinale werking op recept
-
-Treedt in werking per 01-07-2014 
 
 1.  Een diervoeder met medicinale werking wordt uitsluitend aan een houder van dieren afgeleverd overeenkomstig een recept van een dierenarts.   
 2.  Indien het een diervoeder met medicinale werking betreft dat is bestemd voor de behandeling van dieren waarvan het vlees, de slachtafvalleen of de producten bestemd zijn voor menselijke consumptie, levert een houder van een vergunning voor vervaardiging of invoer, bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), niet meer diervoeder af dan de hoeveelheid die overeenkomstig het recept nodig is om de dieren gedurende één maand te behandelen.  
@@ -1776,8 +1741,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  7.12  
 
 ####Recept voor een diervoeder met medicinale werking
-
-Treedt in werking per 01-07-2014 
 
 1.  Het recept voor de aflevering van een diervoeder met medicinale werking wordt vastgesteld overeenkomstig bijlage A bij Richtlijn 90/167/EEG, wordt voorzien van de datum van dagtekening van het recept en bestaat uit een origineel en drie afschriften.   
 2.  Het origineel en één afschrift van het recept zijn bestemd voor de houder van een vergunning voor vervaardiging of invoer, bedoeld in [artikel 7.1, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), van het voorgeschreven diervoeder met medicinale werking.   
@@ -1791,13 +1754,9 @@ Treedt in werking per 01-07-2014
 
 ####Administratie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  7.13  
 
 ####Administratie vervaardiging diervoeder met medicinale werking
-
-Treedt in werking per 01-07-2014 
 
 1.  Een houder van een vergunning voor het vervaardigen van een diervoeder met medicinale werking, voert een administratie inzake iedere transactie met diervoeders met medicinale werking.   
 2.  De administratie, bedoeld in het eerste lid, bevat: 
@@ -2407,156 +2366,19 @@ De kosten verbonden aan de behandeling van een aanvraag van een certificaat als 
 
 ####Administratie diergeneeskundigen en andere personen
 
-### Artikel  9a.1  
-
-####Administratie dierenarts en andere personen
-
-1.  Onverminderd artikel 5.16 bevat de administratie van een dierenarts en, in voorkomend geval, een andere persoon als bedoeld in [artikel 5.8, eerste lid, onderdeel c, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md): 
-
-a. een afschrift van ieder door een dierenarts of een ander persoon opgesteld recept;  
-
-b. een afschrift van iedere uitslag van een gevoeligheidsbepaling als bedoeld in [artikel 8A.6a, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).     
-2.  Artikel 5.16 is van overeenkomstige toepassing op de toepassing van diergeneesmiddelen door een dierenarts of persoon als bedoeld in het eerste lid, met dien verstande dat in het vierde lid, onderdeel b, onder 4°, onder afgeleverde hoeveelheid wordt verstaan toegepaste hoeveelheid.   
-3.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende vijf jaar bewaard.  
-
-### Artikel  9a.2  
-
-####Administratie cascade bij toepassing bij dieren die voor de productie van levensmiddelen zijn bestemd
-
-1.  Een dierenarts houdt bij toepassing van een diergeneesmiddel bij dieren die voor de productie van levensmiddelen zijn bestemd overeenkomstig [artikel 8A.2 van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), gedurende vijf jaar in een administratie de volgende gegevens bij: 
-
-a. de datum waarop de dieren werden onderzocht;  
-
-b. naam en adres van de houder van de dieren;  
-
-c. het aantal behandelde dieren;  
-
-d. de diagnose;  
-
-e. de diergeneeskundige motivering voor de toediening van het diergeneesmiddel;  
-
-f. de voorgeschreven diergeneesmiddelen;  
-
-g. de toegediende dosering;  
-
-h. de duur van de behandeling;  
-
-i. de vastgestelde wachttermijn.     
-2.  Het eerste lid is van overeenkomstige toepassing op diervoeders met medicinale werking.   
-3.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende vijf jaar bewaard.  
-
-### Artikel  9a.3  
-
-####Aantekening door de dierenarts in administratie houder van dieren
-
-1.  Onverminderd de artikelen 5.16, 5.19 en 9A.2 tekent de dierenarts en, in voorkomend geval, een andere persoon als bedoeld in [artikel 5.8, eerste lid, onderdeel c, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) bij toepassing van een diergeneesmiddel als bedoeld in de artikelen 2.13, 2.14 en 4.12 in de administratie van de houder van dieren aan: 
-
-a. de datum van de behandeling met diergeneesmiddelen voor zover door de dierenarts uitgevoerd;  
-
-b. benaming en, in voorkomend geval, nummer van het diergeneesmiddel;  
-
-c. de identificatie van de behandelde dieren;  
-
-d. de in acht te nemen wachttermijn.     
-2.  Indien het diergeneesmiddel, bedoeld in het eerste lid een stof bevat als bedoeld in bijlage II bij Richtlijn 96/22/EG, waarvan toepassing is toegestaan op grond van artikel 4 van die richtlijn, tekent de dierenarts, onverminderd het bepaalde in het eerste lid, in de administratie, bedoeld in het eerste lid, tevens aan: 
-
-a. het doel van de behandeling;  
-
-b. de wijze van toediening van het diergeneesmiddel.     
-3.  De administratie en de bescheiden die verband houden met de aantekeningen in de administratie worden gedurende vijf jaar bewaard.  
-
-### Artikel  9a.4  
-
-####Informatie van de dierenarts aan de houder van dieren
-
-De dierenarts informeert de houder van dieren: 
-
-a. voorafgaand aan de toepassing van een diergeneesmiddel als bedoeld in de [artikelen 8A.1](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en [8A.2 van besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) over de toepassing van middelen in afwijking van de in de vergunning voor het in de handel brengen vermelde toepassing of over de ex tempore bereiding en toepassing van een diergeneesmiddel en over de mogelijk daaraan verbonden risico’s.  
-
-b. onverminderd artikelen 5.16, 9A.2 en 9A.3, bij aflevering of bij het voorschrijven van diergeneesmiddelen als bedoeld in de artikelen 2.13, 2.14 en 4.12, schriftelijk, indien de diergeneesmiddelen bestemd zijn voor dieren, die gehouden worden voor de productie van levensmiddelen over: 
-
-a. naam en hoeveelheid van het afgeleverde diergeneesmiddel, en  
-
-b. de in acht te nemen wachttermijn.     
-
-### Artikel  9a.5  
-
-####Voorschrijven diergeneesmiddel
-
-Een diergeneesmiddel kan slechts worden voorgeschreven als bedoeld in [artikel 5.8, eerste lid, onderdeel a, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), door een dierenarts, die de medische zorg op zich heeft genomen door ten minste: 
-
-a. de omstandigheden waaronder het dier of de groep dieren wordt gehouden te kennen, en  
-
-b. over de medicatiehistorie van het dier of de groep dieren te beschikken.   
-
-### Artikel  9a.6  
-
-####Dierenarts uit een andere EER-lidstaat
-
-1.  Onverminderd de artikelen 5.16, 9A.2 en 9A.3, voert de dierenarts, bedoeld in artikel 5.9, in het geval door hem een diergeneesmiddel is toegepast of afgeleverd, waarvoor in Nederland geen vergunning voor het in de handel brengen, een vrijstelling of ontheffing is verleend, een administratie die de volgende gegevens bevat: 
-
-a. de behandelde dieren;  
-
-b. naam en adres van de houder van de dieren;  
-
-c. de gestelde diagnose;  
-
-d. het toegepaste en afgeleverde diergeneesmiddel alsmede de voorgeschreven dosis;  
-
-e. de duur van de behandeling;  
-
-f. de door de dierenarts opgegeven wachttermijn, indien voor het betrokken diergeneesmiddel een wachttermijn in acht moet worden genomen.     
-2.  De dierenarts, bedoeld in artikel 5.9, houdt de administratie, bedoeld in het eerste lid, gedurende drie jaren beschikbaar en toont deze op eerste afroep aan de ingevolge [artikel 17, eerste lid, onderdeel 2, van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) met de opsporing belaste personen of aan ambtenaren.  
-
-### Artikel  9a.7  
-
-####Administratie dierenarts substantie voor paardachtigen
-
-Dierenartsen noteren in hoofdstuk IX van het identificatiedocument voor paardachtigen, bedoeld in verordening (EG) nr. 504/2008, de bijzonderheden van een behandeling met een substantie als bedoeld in artikel 2.12, onderdeel f. 
+Vervallen per 01-07-2014 
 
 ### §  2  
 
 ####Administratie houder van dieren
 
-### Artikel  9a.8  
-
-####Administratie houder van dieren
-
-1.  Een houder van dieren die dieren houdt die voor de productie van levensmiddelen zijn bestemd, voert een administratie inzake iedere transactie met diergeneesmiddelen als bedoeld in de artikelen 2.13, 2.14 en 4.12, in welke administratie de volgende documenten en gegevens zijn opgenomen: 
-
-a. voor zover een recept als bedoeld in artikel 5.13 is opgesteld, een gewaarmerkt afschrift van dat recept;  
-
-b. de facturen bij aankoop van diergeneesmiddelen;  
-
-c. een lijst met de data van de uitgevoerde behandelingen met diergeneesmiddelen en de nummers van deze diergeneesmiddelen, voor zover de behandelingen door de houder zijn uitgevoerd;  
-
-d. de identificatie van de behandelde dieren;  
-
-e. de vastgestelde wachttermijn, voor zover deze niet reeds op een recept als bedoeld in onderdeel a, is vermeld;  
-
-f. de aantekeningen, bedoeld in artikel 9A.3.     
-2.  De houder van dieren, bedoeld in het eerste lid, kan de administratie, bedoeld in het eerste lid, doen uitvoeren in de door de dierenarts overeenkomstig de artikelen 5.16, 9A.2 en 9A.3 te voeren administratie.   
-3.  Een houder van dieren die dieren houdt die bestemd zijn voor de productie van levensmiddelen, voert een administratie inzake transacties met diervoeder met medicinale werking, in welke administratie de volgende gegevens zijn opgenomen: 
-
-a. een gewaarmerkt afschrift van een recept als bedoeld in artikel 7.2 en, voor zover dit niet reeds op dat afschrift is vermeld:  
-
-b. naam en hoeveelheid van het voorgeschreven diervoeder met medicinale werking;  
-
-c. de datum waarop het diervoeder met medicinale werking werd voorgeschreven;  
-
-d. de in acht te nemen wachttermijn.     
-4.  De administratie, bedoeld in het eerste, tweede en derde lid, en de bescheiden die verband houden met de aantekeningen in de administratie, worden gedurende vijf jaar bewaard.  
+Vervallen per 01-07-2014 
 
 ### §  3  
 
 ####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
 
-### Artikel  9a.9  
-
-####Voorwaarden gevoeligheidsbepaling
-
-1.  Diergeneesmiddelen die werkzame stoffen bevatten behorende tot de groep van derde en vierde generatie cefalosporinen en fluoroquinolonen en diergeneesmiddelen als bedoeld in [artikel 8A.1, eerste lid, onderdeel b](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md), of [artikel 8A.2, eerste lid, onderdeel b, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) welke een antimicrobiële werking bezitten, worden aangewezen als diergeneesmiddelen, bedoeld in [artikel 8A.6a, eerste lid, van het besluit](../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
-2.  De gevoeligheidsbepaling wordt uitgevoerd in overeenstemming met de eisen die ingevolge de geldende goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in [artikel 8.44 van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), aan een betrouwbare gevoeligheidsbepaling worden gesteld.  
+Vervallen per 01-07-2014 
 
 ### Hoofdstuk  10  
 
@@ -2693,17 +2515,17 @@ H.G.J. Kamp
 
 ####Lijst van andere personen als bedoeld in artikel 2.18, tweede lid 
 
-1. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een embryotransplanteur als bedoeld in [artikel 5 van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) zonder recept van een dierenarts toegepast kunnen worden : 
+1. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een embryotransplanteur als bedoeld in [artikel 3.6 van het Besluit diergeneeskundigen](../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) zonder recept van een dierenarts toegepast kunnen worden : 
 
 a. diergeneesmiddelen die worden toegepast voor een epiduraalanesthesie onder leiding van en in directe aanwezigheid van een dierenarts.    
 
-2. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een dierenartsassistent als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) toegepast kunnen worden: 
+2. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een dierenartsassistent als bedoeld in [artikel 3.1 van het Besluit diergeneeskundigen](../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) toegepast kunnen worden: 
 
 a. diergeneesmiddelen die nodig zijn voor het toepassen bij een dier van een algemene of plaatselijke verdoving onder leiding van en in directe aanwezigheid van een dierenarts;  
 
 b. antimicrobiële diergeneesmiddelen.   
 
-3. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een dierverloskundige als bedoeld in [artikel 5 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) zonder recept van een dierenarts toegepast kunnen worden: 
+3. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een dierverloskundige als bedoeld in [artikel 7.4 van het Besluit diergeneeskundigen](../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) zonder recept van een dierenarts toegepast kunnen worden: 
 
 a. diergeneesmiddelen uitsluitend bestemd voor intra-uterine toediening, welke als werkzaam bestanddeel uitsluitend oxytetracycline, chloortetracycline of tetracycline hycrochloride bevatten;  
 
@@ -2725,7 +2547,7 @@ i. vloeistoffen bestemd voor intraveneuze toediening bij runderen, welke vloeist
 
 j. diergeneesmiddelen die een werkzaam bestanddeel bevatten dat bestemd is voor epiduraalanesthesie bij embryotomie.    
 
-4. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een castreur als bedoeld in [artikel 6 van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) zonder recept van een dierenarts toegepast kunnen worden: 
+4. Diergeneesmiddelen als bedoeld in artikel 2.18, tweede lid, die door een castreur als bedoeld in [artikel 7.5 van het Besluit diergeneeskundigen](../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) zonder recept van een dierenarts toegepast kunnen worden: 
 
 a. antimicrobiële diergeneesmiddelen, voor zover deze geschikt zijn voor en dienen ten behoeve van wondbehandeling ten gevolge van castratie met uitzondering van die welke chlooramphenicol bevatten;  
 
@@ -2825,7 +2647,7 @@ d. de dierenarts past het diergeneesmiddel toe overeenkomstig de voorschriften o
 
 ####Tijdelijke vrijstelling vaccin ter voorkoming van koepokken
 
-1. Van het verbod, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), wordt vrijstelling verleend voor het toepassen bij olifanten, neushoorns en tapirs, welke overeenkomstig [artikel 13 van het Dierentuinenbesluit](../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md) geregistreerd zijn en worden gehouden in een dierentuin die is aangesloten bij de Nederlandse Vereniging van Dierentuinen, van het diergeneesmiddel Modified Vaccinia Virus Ankara van het Institut für Medizinische Mikrobiologie, Infektions- und Seuchenmedizin van de Ludwig-Maximilians-Universität München, ten behoeve van het voorkomen van koepokken en met het oog daarop het voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
+1. Van het verbod, bedoeld in [artikel 2.19, eerste lid, van de wet](../../../../wet/wet/dieren/BWBR0030250/README.md), wordt vrijstelling verleend voor het toepassen bij olifanten, neushoorns en tapirs, welke overeenkomstig [artikel 4.9 van het Besluit houders van dieren](../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) geregistreerd zijn en worden gehouden in een dierentuin die is aangesloten bij de Nederlandse Vereniging van Dierentuinen, van het diergeneesmiddel Modified Vaccinia Virus Ankara van het Institut für Medizinische Mikrobiologie, Infektions- und Seuchenmedizin van de Ludwig-Maximilians-Universität München, ten behoeve van het voorkomen van koepokken en met het oog daarop het voorhanden hebben of in voorraad hebben en het afleveren van het middel onder de voorschriften, gesteld in het derde lid.  
 
 2. De vrijstelling, bedoeld in het eerste lid, geldt tot 1 januari 2018.  
 

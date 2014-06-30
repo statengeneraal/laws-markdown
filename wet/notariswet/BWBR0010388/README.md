@@ -21,7 +21,7 @@ a. notaris: de ambtenaar, bedoeld in artikel 2;
 
 b. toegevoegd notaris: de toegevoegd notaris, bedoeld in artikel 30b; 
 
-c. kandidaat-notaris: degene, niet zijnde toegevoegd notaris, die voldoet aan een van de voorwaarden, genoemd in artikel 6, tweede lid, onder a en onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden verricht, alsmede hij die geen notaris zijnde het notarisambt waarneemt; 
+c. kandidaat-notaris: degene, niet zijnde toegevoegd notaris, die voldoet aan een van de voorwaarden, genoemd in artikel 6, tweede lid, onder a en onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden verricht, alsmede hij die geen notaris of toegevoegd notaris zijnde het notarisambt waarneemt; 
 
 d. minuut: het originele exemplaar van een notariële akte;  
 
@@ -35,7 +35,7 @@ h. deeltijd: de werktijd die korter is dan de volledige arbeidsduur als bedoeld 
 
 i. de KNB: de Koninklijke Notariële Beroepsorganisatie, bedoeld in artikel 60;  
 
-j. Onze Minister: Onze Minister van Justitie;  
+j. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
 k. verordening: een verordening als bedoeld in artikel 89;  
 
@@ -60,7 +60,7 @@ b. gehuwd: geregistreerd.
 ### Artikel  3  
 
 1.  De notaris wordt als zodanig bij koninklijk besluit benoemd. In het besluit wordt de plaats van vestiging aangegeven.   
-2.  De notaris legt binnen zes maanden na de dagtekening van zijn benoeming voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af: «Ik zweer getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en eerbied voor de rechterlijke autoriteiten. Ik zweer, dat ik mij zal gedragen naar de wetten, de reglementen en de verordeningen die op het notarisambt van toepassing zijn en dat ik mijn taak eerlijk, nauwgezet en onpartijdig zal uitvoeren; dat ik geheimhouding zal betrachten ten aanzien van alles waarvan ik door mijn ambt kennis neem en dat ik voorts, middellijk noch onmiddellijk, onder enige naam of voorwendsel, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.»Als de eed niet tijdig is afgelegd, vervalt de benoeming.   
+2.  De notaris legt binnen zes maanden na de dagtekening van het benoemingsbesluit voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af: «Ik zweer getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en eerbied voor de rechterlijke autoriteiten. Ik zweer, dat ik mij zal gedragen naar de wetten, de reglementen en de verordeningen die op het notarisambt van toepassing zijn en dat ik mijn taak eerlijk, nauwgezet en onpartijdig zal uitvoeren; dat ik geheimhouding zal betrachten ten aanzien van alles waarvan ik door mijn ambt kennis neem en dat ik voorts, middellijk noch onmiddellijk, onder enige naam of voorwendsel, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.»Als de eed niet tijdig is afgelegd, vervalt de benoeming.   
 3.  Wanneer de eed, bedoeld in het tweede lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed als volgt: «Ik swar trou oan de Kening en de Grûnwet en earbied foar de rjochterlike autoriteiten. Ik swar, dat ik my hâlde en drage sil neffens de wetten, de regleminten en de oarderingen dy’t op it notarisamt fan tapassing binne en dat ik myn taak earlik, sekuer en ûnpartidich útfiere sil; dat ik geheimhâlding betrachtsje sil oangeande alles dêr’t ik troch myn amt kunde oan krij en dat ik fierders, streekrjocht noch midlik, ûnder hokker namme of útwynsel dan ek, foar it krijen fan myn beneaming oan immen eat jûn of tasein haw, noch jaan of tasizze sil.»  
 4.  De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de notaris.   
 5.  De notaris is bevoegd met ingang van de dag na de eedsaflegging. Indien in het benoemingsbesluit een latere datum is vermeld, is hij bevoegd met ingang van die dag indien tevoren de eed is afgelegd. Is hij waarnemer van het kantoor, dan is hij terstond na de eedsaflegging bevoegd.   
@@ -68,8 +68,7 @@ b. gehuwd: geregistreerd.
 
 ### Artikel  4  
 
-1.  De notaris deponeert terstond na de eedsaflegging zijn handtekening en paraaf ter griffie van de rechtbank in het arrondissement waarin zijn plaats van vestiging is gelegen.   
-2.  Het eerste lid is niet van toepassing op de notaris die binnen dit arrondissement opnieuw wordt benoemd.  
+De notaris deponeert terstond na de eedsaflegging zijn handtekening en paraaf ter griffie van de rechtbank waar hij de eed heeft afgelegd. 
 
 ### Artikel  5  
 
@@ -84,9 +83,9 @@ c. het nummer als bedoeld in [artikel 2, tweede lid, van de Wet op het centraal
 
 d. een aanwijzing tot overname van een protocol als bedoeld in artikel 15;  
 
-e. toevoeging als bedoeld in artikel 30b;  
+e. de toevoeging als bedoeld in artikel 30b;  
 
-f. waarneming als bedoeld in artikel 28;  
+f. de waarneming als bedoeld in artikel 28;  
 
 g. de eedsaflegging, bedoeld in artikel 3, met opname in het register van handtekening en paraaf;  
 
@@ -120,7 +119,7 @@ b. dat hij:
 
 2°. met goed gevolg heeft afgelegd het examen, bedoeld in artikel 33;  
 
-3°. als toegevoegd notaris of kandidaat-notaris gedurende een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan zijn verzoek om benoeming, in het Koninkrijk in Europa onder verantwoordelijkheid van een notaris of een waarnemer werkzaam is geweest of het notarisambt heeft waargenomen, dan wel als notaris gedurende die periode het notarisambt heeft vervuld, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijnen naar evenredigheid worden verlengd;  
+3°. als toegevoegd notaris of kandidaat-notaris gedurende de laatste twee jaren voorafgaand aan zijn verzoek tot benoeming, per jaar gemiddeld ten minste 21 uur per week, in het Koninkrijk in Europa onder verantwoordelijkheid van een notaris of een waarnemer werkzaam is geweest of het notarisambt heeft waargenomen, dan wel als notaris gedurende die periode het notarisambt heeft vervuld;  
 
 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van artikel 7, eerste lid, alsmede van het advies als bedoeld in artikel 7, tweede lid, alsmede    
 
@@ -137,7 +136,7 @@ d. dat hij de Nederlandse taal in voldoende mate beheerst voor een goede uitoefe
 a. dat de verzoeker over voldoende financiële middelen beschikt om een kantoor te houden dat in overeenstemming is met de eisen van het ambt; en  
 
 b. dat op redelijke gronden mag worden verwacht dat na drie jaren de praktijk kostendekkend kan worden uitgeoefend.     
-2.  Over het ondernemingsplan wordt advies uitgebracht door een door Onze Minister te benoemen Commissie van deskundigen. De KNB en het Bureau verstrekken de Commissie desgevraagd de door haar in het verband met het onderzoek van het ondernemingsplan benodigde inlichtingen. Het advies wordt als bijlage bij het ondernemingsplan gevoegd.   
+2.  Over het ondernemingsplan wordt advies uitgebracht door een door Onze Minister te benoemen Commissie van deskundigen. De KNB en het Bureau verstrekken de Commissie desgevraagd de door haar in verband met het onderzoek van het ondernemingsplan benodigde inlichtingen. Het advies wordt als bijlage bij het ondernemingsplan gevoegd.   
 3.  Voor de advisering over het ondernemingsplan door de Commissie van deskundigen worden aan de verzoeker kosten in rekening gebracht.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
 
@@ -150,11 +149,12 @@ c.de wijze waarop de kosten van de advisering worden berekend.
 ### Artikel  8  
 
 1.  Degene die voor benoeming tot notaris in aanmerking wenst te komen dient bij de KNB een daartoe strekkend verzoek in, met opgave van de gemeente waarin hij voornemens is zich als notaris te vestigen. Bij het verzoek legt hij bewijsstukken over waaruit blijkt dat hij voldoet aan de voorwaarden van artikel 6. De overlegging van bewijsstukken met betrekking tot de voorwaarden als bedoeld in artikel 6, tweede lid, onderdelen a en b, onder 1° en 2°, is niet vereist indien die reeds bij een eerder verzoek zijn overgelegd. In het verzoek doet hij tevens opgave van de werkgever of werkgevers bij wie hij als kandidaat-notaris of toegevoegd notaris in dienst is geweest. Bij indiening van het verzoek is voor de behandeling ervan door de verzoeker een vergoeding verschuldigd. De KNB geleidt het verzoek met de bewijsstukken door naar Onze Minister en doet afschriften toekomen aan de Commissie toegang notariaat en het Bureau.   
-2.  Onze Minister wint advies in omtrent de persoonlijke geschiktheid van de verzoeker voor het notarisambt bij de door hem benoemde Commissie toegang notariaat. Een beschikking tot weigering van de benoeming wordt gegeven door Onze Minister.   
+2.  Onze Minister wint advies in omtrent de persoonlijke geschiktheid van de verzoeker voor het notarisambt bij de door hem benoemde Commissie toegang notariaat. Bij onvoldoende gebleken persoonlijke geschiktheid voor het ambt van notaris of gegronde vrees voor enige schade aan de eer en het aanzien van het notarisambt, wordt het verzoek geweigerd. Een beschikking tot weigering van de benoeming wordt gegeven door Onze Minister.   
 3.  Ten behoeve van haar advies stelt de Commissie ten aanzien van de verzoeker een onderzoek in.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de Commissie en haar werkzaamheden. Bij regeling van Onze Minister wordt de hoogte vastgesteld van de vergoeding, bedoeld in het eerste lid.   
 5.  Op het verzoek wordt beslist binnen vijf maanden na ontvangst ervan.   
-6.  De KNB en het Bureau kunnen met betrekking tot het verzoek advies uitbrengen aan Onze Minister.  
+6.  De KNB en het Bureau kunnen met betrekking tot het verzoek advies uitbrengen aan Onze Minister.   
+7.  In afwijking van [artikel 8:4, derde lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een besluit tot benoeming tot notaris beroep instellen. 
 
 ### Artikel  9  
 
@@ -171,9 +171,9 @@ Een notaris kan, onverminderd de onverenigbaarheden die voortvloeien uit andere 
 
 ### Artikel  11  
 
-1.  De notaris doet opgave aan de KNB en aan de kamer voor het notariaat van het aanvaarden en beëindigen van een al dan niet bezoldigde nevenbetrekking.   
-2.  De kamer kan bij met redenen omklede beslissing de uitoefening door de notaris van een nevenbetrekking ongewenst verklaren, indien hierdoor zijn onpartijdigheid of onafhankelijkheid wordt of kan worden beïnvloed dan wel de eer of het aanzien van het ambt wordt of kan worden geschaad. Van die beslissing zendt de kamer onverwijld bij aangetekende brief een afschrift aan de notaris, de KNB en het Bureau. Daarbij deelt zij tevens mee op welke wijze de notaris tegen de beslissing beroep kan instellen.   
-3.  Binnen zes weken na de dag van verzending van het afschrift van de beslissing kan de notaris tegen de beslissing beroep instellen bij het gerechtshof Amsterdam. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.   
+1.  De notaris doet terstond opgave aan de KNB en aan de kamer voor het notariaat van het aanvaarden en beëindigen van een al dan niet bezoldigde nevenbetrekking.   
+2.  De kamer kan bij met redenen omklede beslissing de uitoefening door de notaris van een nevenbetrekking ongewenst verklaren, indien hierdoor zijn onpartijdigheid of onafhankelijkheid wordt of kan worden beïnvloed dan wel de eer of het aanzien van het ambt wordt of kan worden geschaad. Van die beslissing zendt de kamer onverwijld bij aangetekende brief een afschrift aan de notaris. Daarbij deelt zij tevens mee op welke wijze de notaris tegen de beslissing beroep kan instellen. De KNB en het Bureau ontvangen elk een afschrift van de beslissing van de kamer.   
+3.  Binnen zes weken na de dag van verzending van het afschrift van de beslissing kan de notaris tegen de beslissing beroep instellen bij het gerechtshof Amsterdam. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten. De KNB en het Bureau ontvangen elk een afschrift van de beslissing van het gerechtshof.   
 4.  Indien de beslissing onherroepelijk is geworden of in beroep is bevestigd, is de notaris verplicht de nevenbetrekking zo spoedig mogelijk te beëindigen.   
 5.  De notaris is bevoegd om, voordat hij een nevenbetrekking aanvaardt, de kamer van toezicht te verzoeken een beslissing te nemen over de vraag of de uitoefening van deze nevenbetrekking toelaatbaar is. Het derde lid is van overeenkomstige toepassing. Op de behandeling van de zaak bij de kamer voor het notariaat en bij het gerechtshof zijn de artikelen 101, 102 en 104 van overeenkomstige toepassing.   
 6.  Dit artikel is van overeenkomstige toepassing op de toegevoegd notaris en de kandidaat-notaris.  
@@ -192,7 +192,7 @@ Het is de notaris toegestaan buiten zijn plaats van vestiging ambtelijke werkzaa
 
 1.  De notaris is met ingang van de eerstvolgende maand na het bereiken van de zeventigjarige leeftijd van rechtswege ontslagen.   
 2.  Aan de notaris die voor het bereiken van de in het eerste lid genoemde leeftijd ontslag verzoekt, wordt ontslag verleend bij koninklijk besluit, dat tevens de datum van ingang daarvan vermeldt.   
-3.  Op voordracht van Onze Minister kan aan de notaris bij koninklijk besluit ontslag worden verleend, indien hij: 
+3.  Op voordracht van Onze Minister kan de notaris bij koninklijk besluit worden ontslagen, indien hij: 
 
 a. geen gevolg heeft gegeven aan de verplichting, bedoeld in artikel 11, vierde lid, om een ongewenst verklaarde nevenbetrekking te beëindigen;  
 
@@ -271,7 +271,7 @@ Notariële akten die uiterste wilsbeschikkingen inhouden, bevatten geen andere r
 
 ### Artikel  23  
 
-1.  Het is de notaris verboden, rechtstreeks of middellijk, handelingen te verrichten waarvan hij redelijkerwijs moet verwachten dat zij ertoe kunnen leiden, dat hij te eniger tijd niet zal kunnen voldoen aan zijn financiële verplichtingen.   
+1.  Het is de notaris verboden, rechtstreeks of middellijk, handelingen te verrichten of na te laten waarvan hij redelijkerwijs moet verwachten dat zij ertoe kunnen leiden, dat hij te eniger tijd niet zal kunnen voldoen aan zijn financiële verplichtingen.   
 2.  In ieder geval is het de notaris verboden: 
 
 a. leningen aan te gaan, behoudens voor zover deze redelijkerwijs nodig zijn voor de uitoefening van het ambt of voor persoonlijke doeleinden;  
@@ -287,7 +287,7 @@ c. zich borg te stellen of anderszins in te staan voor schulden van anderen, beh
 2.  Het in het vorige lid bepaalde is van overeenkomstige toepassing op het privé-vermogen van de notaris, daaronder mede begrepen het vermogen van een gemeenschap van goederen waarin hij is gehuwd.   
 3.  Bij verordening kunnen voorschriften worden vastgesteld ten aanzien van de wijze waarop de kantoor- en privé-administratie moeten worden ingericht, bijgehouden en bewaard.   
 4.  De notaris dient binnen vier maanden na afloop van elk boekjaar een verslag in bij het Bureau ten aanzien van zowel het kantoorvermogen als ten aanzien van zijn privé-vermogen. Voor wat betreft de kantoorwerkzaamheden bevat het verslag een winst- en verliesrekening. Het verslag gaat vergezeld van een verklaring danwel mededeling die is afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De termijn voor indiening van het verslag kan op verzoek van de notaris door het Bureau op grond van bijzondere omstandigheden worden verlengd met ten hoogste twee maanden. Op het verzoek wordt beslist binnen vier weken na ontvangst ervan.   
-5.  Bij regeling van Onze Minister worden regels gesteld betreffende de inhoud van het verslag en van de verklaring respectievelijk mededeling, bedoeld in het vierde lid.  
+5.  Bij regeling van Onze Minister worden regels gesteld betreffende de wijze van indiening en de inhoud van het verslag en van de verklaring respectievelijk mededeling, bedoeld in het vierde lid, alsmede de inhoud en wijze van indiening van overige gegevens aan het Bureau.  
 6.  De notaris is verplicht de in de leden 1 en 2 bedoelde boeken, bescheiden en andere gegevensdragers betreffende zijn kantoor- en privé-administratie gedurende de in [artikel 10, derde lid, van Boek 2 Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde termijn te bewaren. [Artikel 10, vierde lid, Boek 2 Burgerlijk Wetboek is van toepassing](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
 
 ### Artikel  25  
@@ -313,11 +313,11 @@ Bij regeling van Onze Minister kan aan notarissen de plicht worden opgelegd tot 
 
 ### Artikel  25b  
 
-1.  Indien de continuïteit van de praktijk van een notaris vanwege de wijze van bedrijfsvoering in gevaar dreigt te komen, kan door de voorzitter van de kamer voor het notariaat, ambtshalve naar aanleiding van een klacht dan wel op verzoek van de KNB of het Bureau, na verhoor en behoorlijke oproeping van de notaris, voor een periode van maximaal een jaar een stille bewindvoerder worden benoemd. Artikel 27, eerste lid, tweede tot en met vierde volzin, tweede lid en derde lid, is van overeenkomstige toepassing.   
+1.  Indien de continuïteit van de praktijk van een notaris vanwege de wijze van bedrijfsvoering in gevaar dreigt te komen, kan door de voorzitter van de kamer voor het notariaat, ambtshalve naar aanleiding van een klacht dan wel op verzoek van de KNB of het Bureau, na verhoor of behoorlijke oproeping van de notaris, voor een periode van maximaal een jaar een stille bewindvoerder worden benoemd. Artikel 27, eerste lid, tweede tot en met vierde volzin, tweede lid en derde lid, is van overeenkomstige toepassing.   
 2.  De stille bewindvoerder geeft de notaris advies en begeleiding bij zijn bedrijfsvoering en is tevens bevoegd om daaromtrent bindende aanwijzingen aan de notaris te geven.   
 3.  Bij de benoeming wordt een honorarium vastgesteld dat ten laste komt van de notaris.   
-4.  De kamer voor het notariaat of zijn voorzitter kan instructies geven aan de bewindvoerder met betrekking tot de bewindvoering.   
-5.  De kamer voor het notariaat of zijn voorzitter kan de bewindvoering te allen tijde opschorten of beëindigen.  
+4.  De kamer voor het notariaat of haar voorzitter kan instructies geven aan de bewindvoerder met betrekking tot de bewindvoering.   
+5.  De kamer voor het notariaat of haar voorzitter kan de bewindvoering te allen tijde opschorten of beëindigen.  
 
 ### Artikel  26  
 
@@ -338,7 +338,7 @@ d. bij rechterlijke uitspraak onder curatele is gesteld, in staat van faillissem
 
 ### Artikel  27  
 
-1.  Een notaris, die wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden kan, na verhoor of behoorlijke oproeping, door de voorzitter van de kamer voor het notariaat voor onbepaalde tijd in de uitoefening van zijn ambt worden geschorst. De kamer voor het notariaat bekrachtigt deze maatregel binnen vier weken. Op verzoek van de notaris kan de kamer voor het notariaat de schorsing te allen tijde opheffen. Op de beslissingen van de voorzitter en de kamer voor het notariaat is artikel 104, tweede lid, van overeenkomstige toepassing. Artikel 103, zesde lid, is van toepassing.   
+1.  Een notaris, die wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden kan, na verhoor of behoorlijke oproeping, door de voorzitter van de kamer voor het notariaat voor onbepaalde tijd in de uitoefening van zijn ambt worden geschorst. De kamer voor het notariaat bekrachtigt deze maatregel binnen vier weken. Op verzoek van de notaris kan de kamer voor het notariaat de schorsing te allen tijde opheffen. Op de beslissingen van de voorzitter en de kamer voor het notariaat is artikel 104, tweede lid, van overeenkomstige toepassing. Artikel 103, zevende lid, is van toepassing.   
 2.  De notaris kan binnen zes weken na de dag van verzending van het afschrift van de beslissing tot schorsing of tot weigering van de opheffing van de schorsing daartegen in beroep komen bij het gerechtshof Amsterdam. Het beroep schorst de tenuitvoerlegging van de maatregel niet. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.   
 3.  Op de behandeling van de zaak bij de kamer voor het notariaat en bij het gerechtshof zijn de artikelen 101, 102, 104, 105 en 107 van overeenkomstige toepassing.   
 4.  In geval van blijvende ongeschiktheid van de notaris voor de uitoefening van het ambt wordt hij, op voordracht van Onze Minister, de kamer voor het notariaat gehoord, bij koninklijk besluit ontslagen.  
@@ -361,11 +361,11 @@ f. in geval van zijn overlijden.
 
 ### Artikel  29  
 
-1.  Tot waarnemer is benoembaar een notaris of een toegevoegd notaris. Een kandidaat-notaris is tot waarnemer benoembaar indien hij voldoet aan het vereisten van artikel 6, eerste en tweede lid, onderdelen b, onder 1° en 2°, en c, en een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan de benoeming tot waarnemer onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of als notaris het notarisambt heeft vervuld. In afwijking van het vorenstaande kan een kandidaat-notaris tot waarnemer worden benoemd in de gevallen van artikel 28, onderdelen a en b, indien hij ten minste drie jaar heeft afgerond van de stage, bedoeld in artikel 31, en een al dan niet aaneengesloten periode van een jaar binnen het tijdsbestek van drie jaren voorafgaande aan de benoeming tot waarnemer onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of als notaris het notarisambt heeft vervuld. In geval van werkzaamheid in deeltijd, worden voorgenoemde termijnen naar evenredigheid verlengd. De kandidaat-notaris die reeds op grond van het tweede lid als waarnemer is benoemd, behoeft in geval van benoeming als waarnemer voor een andere notaris niet opnieuw te voldoen aan het vereiste van artikel 6, tweede lid, onderdeel c. Het notarisambt kan slechts worden waargenomen door degene die de zeventigjarige leeftijd nog niet heeft bereikt.   
+1.  Tot waarnemer is benoembaar een notaris of toegevoegd notaris. Een kandidaat-notaris is tot waarnemer benoembaar indien hij voldoet aan de vereisten van artikel 6, eerste en tweede lid, onderdelen b, onder 1° en 2°, en c, en gedurende de laatste twee jaren voorafgaand aan zijn verzoek tot benoeming, per jaar gemiddeld ten minste 21 uur per week onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of als notaris gedurende die periode het notarisambt heeft vervuld. In afwijking van het vorenstaande kan een kandidaat-notaris tot waarnemer worden benoemd in de gevallen van artikel 28, onderdelen a en b, indien hij ten minste drie jaar heeft afgerond van de stage, bedoeld in artikel 31, en gedurende het laatste jaar voorafgaande aan de benoeming tot waarnemer gemiddeld ten minste 21 uur per week onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of in die periode als notaris het notarisambt heeft vervuld. De kandidaat-notaris die reeds op grond van het tweede lid als waarnemer is benoemd, behoeft in geval van benoeming als waarnemer voor een andere notaris niet opnieuw te voldoen aan het vereiste van artikel 6, tweede lid, onderdeel c. Het notarisambt kan slechts worden waargenomen door degene die de zeventigjarige leeftijd nog niet heeft bereikt.   
 2.  Op verzoek van een notaris benoemt de voorzitter van de kamer voor het notariaat een of meer notarissen, toegevoegd notarissen of kandidaat-notarissen die zich daartoe bereid hebben verklaard, tot vaste waarnemer teneinde de notaris in de in artikel 28, onderdelen a en b, bedoelde gevallen te vervangen. Telkens wanneer zich een geval als bedoeld in artikel 28 voordoet benoemt de voorzitter ambtshalve één of meer waarnemers, tenzij het een geval als bedoeld in artikel 28, onderdelen a of b, betreft en er een vaste waarnemer is. Alvorens tot benoeming van een waarnemer over te gaan wint de voorzitter advies in bij de KNB. In het geval van ambtshalve benoeming tot waarnemer treft hij zo nodig een regeling omtrent het honorarium.   
-3.  De kamer voor het notariaat kan een benoeming tot waarnemer te allen tijde intrekken. Van elke benoeming van een waarnemer en van elke intrekking van een benoeming wordt onmiddellijk kennis gegeven aan de betrokkenen, de KNB en het Bureau. Tegen een beslissing tot benoeming of tot intrekking van een benoeming kan binnen dertig dagen na de dag van verzending van de brief waarbij die beslissing aan betrokkenen wordt meegedeeld beroep worden ingesteld bij het gerechtshof Amsterdam. Artikel 107, tweede tot en met vierde lid en zesde lid, is van overeenkomstige toepassing.   
+3.  De kamer voor het notariaat of zijn voorzitter kan een benoeming tot waarnemer te allen tijde intrekken. Van elke benoeming van een waarnemer en van elke intrekking van een benoeming wordt onmiddellijk kennis gegeven aan de betrokkenen, de KNB en het Bureau. Tegen een beslissing tot benoeming of tot intrekking van een benoeming kan binnen dertig dagen na de dag van verzending van de brief waarbij die beslissing aan betrokkenen wordt meegedeeld beroep worden ingesteld bij het gerechtshof Amsterdam. Artikel 107, tweede tot en met vierde lid en zesde lid, is van overeenkomstige toepassing.   
 4.  De periode van waarneming kan niet langer zijn dan één jaar in geval van een volledige waarneming. Bij waarneming in deeltijd dient de notaris zijn ambt uit te oefenen gedurende minimaal het aantal uren per week dat bij algemene maatregel van bestuur wordt vastgesteld. De kamer voor het notariaat kan van het bovenstaande in bijzondere gevallen ontheffing verlenen.   
-5.  In geval van een ambtshalve benoeming van als waarnemer kan de betrokkene slechts wegens gegronde redenen zijn benoeming weigeren.   
+5.  In geval van een ambtshalve benoeming als waarnemer kan de betrokkene slechts wegens gegronde redenen zijn benoeming weigeren.   
 6.  De ambtshalve benoemde waarnemer, die een notaris in de in artikel 28, onderdelen c, d, en e, bedoelde gevallen vervangt, kan in geval van afwezigheid, verhindering of ziekte worden vervangen door een andere waarnemer, die voldoet aan de in het eerste lid, tweede volzin, gestelde eisen. Het tweede lid, eerste volzin, is van overeenkomstige toepassing.  
 7.  Zolang de waarnemer bevoegd is, is de notaris onbevoegd met betrekking tot zijn eigen protocol het notarisambt uit te oefenen.   
 8.  De notaris meldt aan de KNB en de financiële onderneming, bedoeld in artikel 25, eerste lid, terstond de waarneming van zijn functie op grond van artikel 28 door een waarnemer als bedoeld in het tweede lid, eerste volzin. In geval van een ambtshalve benoeming tot waarnemer stelt de waarnemer terstond de financiële onderneming in kennis van zijn benoeming en van de intrekking van zijn benoeming.   
@@ -373,23 +373,22 @@ f. in geval van zijn overlijden.
 10.  De waarnemer gebruikt het zegel van de vervangen notaris en de door de waarnemer opgemaakte minuten behoren tot het protocol van de vervangen notaris.   
 11.  Bij verordening worden nadere voorschriften gegeven over de wijze waarop de overdracht en de overname van het protocol en de overige notariële bescheiden dienen te geschieden, alsmede de mogelijkheden van vrijstelling en ontheffing daarvan.  
 
-###Artikel 29a 
+### Artikel  29a  
 
-De notarispraktijk wordt voor rekening en risico van de vervangen notaris voortgezet:
+De notarispraktijk wordt voor rekening en risico van de vervangen notaris voortgezet: 
 
-a.bij waarneming in de in artikel 28, onderdelen a of b, bedoelde gevallen;
+a. bij waarneming in de in artikel 28, onderdelen a of b, bedoelde gevallen; 
 
-b.bij waarneming in de in artikel 28, onderdelen c, d of e, bedoelde gevallen, indien in het benoemingsbesluit het honorarium voor de waarnemer is vastgesteld.
+b. bij waarneming in de in artikel 28, onderdelen c, d, e of f, bedoelde gevallen, indien in het benoemingsbesluit het honorarium voor de waarnemer is vastgesteld.  
 
 ### Artikel  30  
 
-1.  De kandidaat-notaris die voor de eerste maal tot waarnemer wordt benoemd, legt in verband met de aanvaarding van zijn benoeming voor de rechtbank in het arrondissement waarin de vervangen notaris zijn plaats van vestiging heeft, de eed af. Artikel 3 is van overeenkomstige toepassing.   
-2.  De kandidaat-notaris deponeert terstond na de eedsaflegging zijn handtekening en paraaf ter griffie van de rechtbank waarbij hij de eed heeft afgelegd. Wordt een kandidaat-notaris of notaris benoemd als waarnemer voor een notaris in een ander arrondissement, dan deponeert hij binnen een week na die benoeming tevens zijn handtekening en paraaf ter griffie van de rechtbank binnen wier arrondissement de plaats van vestiging van de vervangen notaris is gelegen.   
+De kandidaat-notaris die tot waarnemer is benoemd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn benoeming de eed af voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder de te vervangen notaris ressorteert. Artikel 3, tweede tot en met vijfde lid, en artikel 4 zijn van overeenkomstige toepassing. 
 
 ### Artikel  30a  
 
-1.  Een gedefungeerde notaris verkrijgt, indien hij dit wenst, de hoedanigheid van kandidaat-notaris gedurende een jaar na zijn ontslag. Als hij tot waarnemer wordt benoemd is artikel 30, eerste lid, niet van toepassing. Een notaris die voor of na zijn defungeren tot vaste waarnemer is benoemd is één jaar na zijn defungeren van rechtswege uit deze functie ontslagen.   
-2.  Na de beëindiging van de notariële werkzaamheden zoals bedoeld in artikel 1, eerste lid, onderdeel b, behoudt de kandidaat-notaris, indien hij dit wenst, gedurende een jaar de hoedanigheid van kandidaat-notaris. Indien hij voor of na de beëindiging van zijn notariële werkzaamheden tot vaste waarnemer is benoemd is hij één jaar na die beëindiging van rechtswege uit deze functie ontslagen. Hetzelfde geldt voor de toegevoegd notaris, indien deze na de beëindiging van zijn toevoeging niet werkzaam is geweest als kandidaat-notaris.   
+1.  Een gedefungeerde notaris verkrijgt, indien hij dit wenst, de hoedanigheid van kandidaat-notaris gedurende een jaar na zijn ontslag. Als hij tot waarnemer wordt benoemd is artikel 30 niet van toepassing. Een notaris die voor of na zijn defungeren tot vaste waarnemer is benoemd is één jaar na zijn defungeren van rechtswege uit deze functie ontslagen.   
+2.  Na de beëindiging van de notariële werkzaamheden zoals bedoeld in artikel 1, eerste lid, onderdeel c, behoudt de kandidaat-notaris, indien hij dit wenst, gedurende een jaar de hoedanigheid van kandidaat-notaris. Indien hij voor of na de beëindiging van zijn notariële werkzaamheden tot vaste waarnemer is benoemd is hij één jaar na die beëindiging van rechtswege uit deze functie ontslagen. Hetzelfde geldt voor de toegevoegd notaris, indien deze na de beëindiging van zijn toevoeging niet werkzaam is geweest als kandidaat-notaris.   
 3.  Indien de gedefungeerde notaris of de gewezen toegevoegd notaris of kandidaat-notaris ambtshalve benoemd is tot waarnemer, behoudt hij de hoedanigheid van kandidaat-notaris gedurende één jaar na het einde van de laatste waarnemingsperiode.   
 4.  De gedefungeerde notaris, de gewezen toegevoegd notaris of kandidaat-notaris of de ambtshalve benoemde waarnemer die gedurende een jaar waarnemingsbevoegd wil blijven, geeft binnen een week na defungeren of de beëindiging van de notariële werkzaamheden of de waarneming, kennis aan de KNB dat hij de hoedanigheid van kandidaat-notaris wenst te verkrijgen onderscheidenlijk wenst te behouden. De KNB zendt de gedefungeerde notaris of de gewezen toegevoegd notaris of kandidaat-notaris een bewijs van ontvangst van de kennisgeving.  
 
@@ -410,7 +409,7 @@ b.bij waarneming in de in artikel 28, onderdelen c, d of e, bedoelde gevallen, i
 
 1.  Een kandidaat-notaris komt in aanmerking voor toevoeging aan een notaris indien hij voldoet aan de voorwaarden van artikel 6, met uitzondering van het tweede lid, onderdeel b, onder 4°, en indien wordt voldaan aan de voorwaarden die volgen uit artikel 30b, tweede lid.   
 2.  Het verzoek om goedkeuring van de toevoeging wordt ingediend door de notaris en de kandidaat-notaris gezamenlijk. Artikel 8 is van overeenkomstige toepassing, met dien verstande dat de bij het verzoek over te leggen bewijsstukken tevens betrekking hebben op de vervulling van de voorwaarden die volgen uit artikel 30b, tweede lid, en dat het advies van de Commissie toegang notariaat tevens ziet op de vraag of aan deze voorwaarden wordt voldaan. Aan de goedkeuring kunnen nadere voorwaarden worden verbonden.   
-3.  De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder de notaris aan wie hij wordt toegevoegd ressorteert. Artikel 3, tweede tot en met vijfde lid, is van overeenkomstige toepassing.  
+3.  De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder de notaris aan wie hij wordt toegevoegd ressorteert. Artikel 3, tweede tot en met vijfde lid, en artikel 4 zijn van overeenkomstige toepassing.  
 
 ### Artikel  30d  
 
@@ -427,7 +426,7 @@ d. onherroepelijke oplegging aan de toegevoegd notaris van een ontzegging in de 
 e. benoeming van de toegevoegd notaris tot notaris.     
 2.  Indien de toevoeging op grond van het eerste lid, onderdelen b of c, is geëindigd, kan de voorzitter van kamer voor het notariaat bij de benoeming van een waarnemer als bedoeld in artikel 29, tweede lid, de desbetreffende kandidaat-notaris met diens instemming aanwijzen als aan de waarnemer toegevoegd notaris, voor de duur van de waarneming.   
 3.  Onverminderd het bepaalde in het eerste lid, onderdeel c, wordt de toevoeging opgeschort met het ingaan van de schorsing van de notaris in de uitoefening van het ambt. De opschorting eindigt met de benoeming van een waarnemer dan wel door beëindiging van de schorsing.   
-4.  Onze minister kan de toevoeging intrekken: 
+4.  Onze Minister kan de toevoeging intrekken: 
 
 a. op verzoek van de toegevoegd notaris;  
 
@@ -453,7 +452,7 @@ a. werkzaamheden op een notariskantoor heeft aanvaard; of
 
 b. werkzaamheden in een andere vestiging van een notariskantoor heeft aanvaard; of 
 
-c. meer of minder uren per week op een notariskantoor werkzaam is, geeft hiervan binnen een week nadat hij met de uitoefening van die werkzaamheden is begonnen of nadat zijn arbeidsduur is gewijzigd, kennis aan de KNB. Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een erkenning van beroepskwalificaties over als bedoeld in [artikel 5 van de Algemene wet erkenning beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+c. meer of minder uren per week op een notariskantoor werkzaam is, geeft hiervan binnen een week nadat hij met de uitoefening van die werkzaamheden is begonnen of nadat zijn arbeidsduur is gewijzigd, kennis aan de KNB. Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een erkenning van beroepskwalificaties over als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
 2.  De kennisgeving houdt in: 
 
 a. datum en plaats van geboorte van de kandidaat-notaris;  
@@ -650,7 +649,7 @@ c. testamenten.
 
 1.  De notaris maakt proces-verbaal op van iedere voor hem plaats hebbende eedsaflegging die niet reeds onderdeel uitmaakt van een akte.   
 2.  Legalisatie van een handtekening door de notaris houdt in dat hij op het aangeboden stuk of op een daaraan aangehecht stuk een door hem gedagtekende en ondertekende verklaring stelt waarin hij de echtheid van de handtekening bevestigt.   
-3.  De handtekening van de notaris wordt overeenkomstig het bepaalde in het tweede lid desverlangd gelegaliseerd door de voorzieningenrechter van de rechtbank van het arrondissement waarin de plaats van vestiging van de notaris is gelegen.  
+3.  De handtekening van de notaris wordt overeenkomstig het bepaalde in het tweede lid desgevraagd gelegaliseerd door de president van de rechtbank in het arrondissement waar de kamer voor het notariaat is gevestigd waaronder de notaris ressorteert. Hij kan de overige presidenten van de rechtbanken in het ressort waarin de kamer is gevestigd, machtigen deze bevoegdheid uit te oefenen. [Afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
 
 ### Artikel  53  
 
@@ -840,7 +839,7 @@ Op voorstel van het bestuur van de KNB stelt de algemene ledenvergadering nadere
 
 ### Artikel  82  
 
-1.  Leden van elke ring zijn de in dat arrondissement gevestigde en werkzame notarissen, toegevoegd notarissen en kandidaat-notarissen. De ring is gevestigd in een bij algemene maatregel van bestuur vast te stellen plaats binnen het arrondissement. De ring wordt aangeduid met vermelding van het arrondissement.   
+1.  Leden van elke ring zijn de in dat arrondissement gevestigde en werkzame notarissen, toegevoegd notarissen en kandidaat-notarissen. De ring wordt aangeduid met vermelding van het arrondissement.   
 2.  De ringen kunnen door het bestuur van de KNB worden belast met de uitvoering van de in artikel 61, eerste lid, omschreven taken in het arrondissement.   
 3.  De ring heeft een bestuur en een ringvergadering. De ring is een rechtspersoon.   
 
@@ -920,18 +919,18 @@ Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, ni
 1.  De tuchtrechtspraak over de notarissen, toegevoegd notarissen en kandidaat-notarissen wordt in eerste aanleg uitgeoefend door de kamers voor het notariaat en in hoger beroep door het gerechtshof Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten.   
 2.  Ten behoeve van de uitoefening van de tuchtrechtspraak door de kamers voor het notariaat en het gerechtshof Amsterdam zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de kamers en het gerechtshof niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
 3.  In ieder ressort is een kamer voor het notariaat gevestigd, waarvan het rechtsgebied samenvalt met het ressort. De kamers zijn belast met de uitvoering van de hun in deze wet opgedragen taken. De aan de werkzaamheden van de kamers verbonden kosten komen ten laste van de Staat.   
-4.  Elke kamer van toezicht bestaat uit een voorzitter en vier leden. Er zijn ten minste twee plaatsvervangend voorzitters.   
-5.  De president van de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd, is voorzitter van deze kamer. De plaatsvervangende voorzitters worden door de voorzitter aangewezen uit de leden van de rechtbank.   
+4.  Elke kamer voor het notariaat bestaat uit een voorzitter en vier leden. Er zijn ten minste twee plaatsvervangend voorzitters.   
+5.  De president van de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd, is voorzitter van deze kamer. De plaatsvervangende voorzitters worden door de voorzitter aangewezen uit de leden van de rechtbanken die zijn gelegen in het ressort waar de desbetreffende kamer voor het notariaat is gevestigd. Indien de aanwijzing betrekking heeft op leden van een rechtbank in een ander arrondissement dan die waar de kamer voor het notariaat is gevestigd, gebeurt die aanwijzing niet dan na instemming van de president van die rechtbank.   
 6.  Twee leden worden voor de tijd van vier jaren benoemd door Onze Minister, die tevens voor elk hunner een of meer plaatsvervangers aanwijst. Een van die leden wordt benoemd uit de leden van de rechtbanken die zijn gelegen binnen het rechtsgebied van de desbetreffende kamer voor het notariaat. Het andere lid is de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kan hen door Onze Minister tussentijds ontslag worden verleend.   
 7.  De overige twee leden zijn notaris, toegevoegd notaris of kandidaat-notaris. Deze leden worden voor de tijd van vier jaren door de ledenraad van de KNB, op voordracht van de ringbesturen in het ressort van de desbetreffende kamer voor het notariaat, uit de leden van die ringen benoemd. Zij zijn bij hun aftreden eenmaal herbenoembaar. Op eigen verzoek kan hun tussentijds door de ledenraad ontslag worden verleend. De ledenraad wijst tevens uit de leden van de ringen twee of meer plaatsvervangers aan die beide leden kunnen vervangen. Bij verordening worden regels gesteld omtrent de wijze van voordracht en benoeming van deze leden en hun plaatsvervangers.   
-8.  De kamer van toezicht heeft een secretaris en zo nodig een plaatsvervangend secretaris. Zij worden door de voorzitter van de kamer aangewezen uit de gerechtssecretarissen van de rechtbank.   
-9.  Tussen de voorzitter, plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van een kamer van toezicht mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het notarisambt.   
+8.  De kamer voor het notariaat heeft een secretaris en zo nodig een of meer plaatsvervangend secretarissen. Zij worden door de voorzitter van de kamer aangewezen uit de gerechtssecretarissen van de rechtbank.   
+9.  Tussen de voorzitter, plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van een kamer voor het notariaat mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het notarisambt.   
 10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de vestigingsplaats en de inrichting van de kamers en betreffende de uitoefening van haar werkzaamheden, alsmede de de vergoeding van de reis- en verblijfkosten van de leden en andere vergoedingen.   
 
 ### Artikel  95  
 
 1.  Het lidmaatschap van de leden van de kamer voor het notariaat vervalt van rechtswege indien zij de kwaliteit verliezen waarin zij benoemd zijn, met dien verstande dat ten aanzien van een lid als bedoeld in artikel 94, vierde lid, dit kwaliteitsverlies alleen dan intreedt wanneer hij noch kandidaat-notaris, noch toegevoegd notaris, noch notaris is.   
-2.  Het in de artikelen [46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechtelijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.   
+2.  Het in de artikelen [46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.   
 3.  De [artikelen 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden, met dien verstande dat: 
 
 a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de kamer voor het notariaat; en  
@@ -943,11 +942,11 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 
 1.  Klachten tegen notarissen, toegevoegd notarissen en kandidaat-notarissen kunnen, schriftelijk en met redenen omkleed, door een ieder met enig redelijk belang worden ingediend bij de kamer voor het notariaat waaronder de notaris, toegevoegd notaris of kandidaat-notaris ressorteert. Indien de klager daarom verzoekt, is de secretaris van de kamer hem behulpzaam bij het op schrift stellen van de klacht. Van de klacht wordt een afschrift gezonden aan de KNB en het Bureau.   
 2.  Indien een klacht is ingediend met betrekking tot de leden of plaatsvervangende leden van de kamer voor het notariaat die notaris, toegevoegd notaris of kandidaat-notaris zijn, verzoekt de voorzitter van de kamer de president van het gerechtshof Amsterdam om een andere kamer aan te wijzen teneinde zich met de behandeling daarvan te belasten. De president deelt de beslissing mee aan de aangewezen kamer, aan de desbetreffende notaris, toegevoegd notaris of kandidaat-notaris, aan de voorzitter van de kamer die het verzoek tot aanwijzing heeft gedaan en aan de klager.   
 3.  Een klacht is niet ontvankelijk voorzover deze betrekking heeft op een gedraging waarvoor een boete is opgelegd als bedoeld in artikel 111b.   
-4.  Indien de klacht zich naar het oordeel van de voorzitter daartoe leent en uit de klacht blijkt dat de klacht nog niet is voorgelegd aan de geschillencommissie, bedoeld in artikel 55, tweede lid, kan de voorzitter besluiten de klacht ter behandeling neer te leggen bij de geschillencommissie en hij stelt dan de op de zaak betrekking hebbende stukken in handen van de commissie. De beslissing schorst de in het vijftiende lid bedoelde termijn. Tegen de beslissing is geen voorziening toegelaten.   
+4.  Indien de klacht zich naar het oordeel van de voorzitter daartoe leent en uit de klacht blijkt dat de klacht nog niet is voorgelegd aan de geschillencommissie, bedoeld in artikel 55, tweede lid, kan de voorzitter besluiten de behandeling van de klacht te schorsen, en de klager in de gelegenheid te stellen het geschil voor te leggen aan de geschillencommissie. De beslissing tot schorsing schorst de in het vijftiende lid bedoelde termijn. Tegen de beslissing is geen voorziening toegelaten.   
 5.  De voorzitter kan na een summier onderzoek, zo nodig na de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris te hebben gehoord, de klacht terstond bij met redenen omklede beslissing afwijzen indien hij van oordeel is dat deze kennelijk niet ontvankelijk, dan wel kennelijk ongegrond is, of van onvoldoende gewicht.   
 6.  Indien de voorzitter van oordeel is dat een klacht vatbaar is voor minnelijke schikking, roept hij de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris op teneinde een zodanige schikking te beproeven. Indien een minnelijke schikking mogelijk blijkt, wordt deze op schrift gesteld en door de klager, de notaris, toegevoegd notaris of de kandidaat-notaris tegen wie de klacht is ingediend en de voorzitter ondertekend.   
 7.  De voorzitter brengt klachten die niet zijn neergelegd bij de geschillencommissie, niet in der minne zijn geschikt of zijn afgewezen, ter kennis van de kamer.   
-8.  Van de beslissing van de voorzitter zendt de secretaris onverwijld een afschrift aan de klager en de betrokken notaris of kandidaat-notaris, in geval van afwijzing van een klacht aan de klager bij aangetekende brief. Indien de voorzitter toepassing geeft aan het vierde lid, vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de geschillencommissie de kamer te verzoeken de klacht alsnog in behandeling te nemen.   
+8.  Van de beslissing van de voorzitter zendt de secretaris onverwijld een afschrift aan de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris, in geval van afwijzing van een klacht aan de klager bij aangetekende brief. Indien de voorzitter toepassing geeft aan het vierde lid, vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de geschillencommissie de kamer te verzoeken de klacht alsnog in behandeling te nemen.   
 9.  Tegen de beslissing van de voorzitter tot afwijzing van een klacht, kan de klager binnen veertien dagen na de dag van verzending van het afschrift van de beslissing schriftelijk verzet doen bij de kamer voor het notariaat. Hij dient gemotiveerd aan te geven met welke overwegingen van de voorzitter hij zich niet kan verenigen. Hij kan daarbij vragen over zijn verzet te worden gehoord.   
 10.  Indien overeenkomstig het negende lid verzet is gedaan tegen de beslissing van de voorzitter, wijst deze een plaatsvervanger aan om hem bij de behandeling van het verzet te vervangen.   
 11.  Ten gevolge van het verzet vervalt de beslissing, tenzij de kamer voor het notariaat het verzet niet-ontvankelijk of ongegrond verklaart.   
@@ -960,7 +959,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 
 ### Artikel  99a  
 
 1.  De voorzitter van de kamer voor het notariaat kan naar aanleiding van een klacht een vooronderzoek gelasten naar een notaris, toegevoegd notaris of kandidaat-notaris, na afloop waarvan verslag wordt uitgebracht aan de kamer. Het Bureau ontvangt een afschrift van het verslag en alle daarbij behorende stukken.   
-2.  De voorzitter kan het verrichten van het vooronderzoek opdragen aan een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.   
+2.  De voorzitter kan het verrichten van het vooronderzoek opdragen aan de plaatsvervangend voorzitter, een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.   
 3.  De voorzitter bepaalt de omvang van het vooronderzoek. Het vooronderzoek kan zich mede uitstrekken tot andere dan de in de klacht vermelde feiten. De voorzitter van de kamer kan de vooronderzoeker aanwijzingen geven.   
 4.  Op het vooronderzoek en de in het tweede lid bedoelde personen zijn artikel 111a, tweede lid, alsmede de [artikelen 5:13 tot en met 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 5.  Ten behoeve van het verrichten van het vooronderzoek door de aangewezen personen, bedoeld in het tweede lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
@@ -968,7 +967,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 
 7.  De vooronderzoeker stelt de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te worden gehoord.   
 8.  De betrokkene is niet verplicht ten behoeve van het vooronderzoek verklaringen omtrent zijn onderzochte handelen of nalaten af te leggen. Voor het horen wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.   
 9.  Indien de klacht is ingediend door het Bureau, wordt het vooronderzoek niet opgedragen aan degenen die betrokken waren bij de uitoefening van het toezicht dat aanleiding gaf tot de indiening van de klacht.   
-10.  Een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.   
+10.  De plaatsvervangend voorzitter, een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.   
 11.  De voorzitter kan het vooronderzoek te allen tijde opschorten of beëindigen.  
 
 ### Artikel  100  
@@ -1011,7 +1010,7 @@ f. de ontzetting uit het ambt.
 5.  De kamer kan bij het opleggen van een waarschuwing, berisping of geldboete besluiten tot openbaarheid van de opgelegde maatregel.  
 6.  Een waarschuwing of berisping wordt door de voorzitter uitgesproken in een vergadering van de kamer, in aanwezigheid van de notaris, toegevoegd notaris of kandidaat-notaris, die daarvoor bij aangetekende brief wordt opgeroepen. Daarvan wordt proces-verbaal opgemaakt. De secretaris zendt een afschrift van het proces-verbaal bij aangetekende brief aan de notaris, toegevoegd notaris of kandidaat-notaris. Indien deze in de vergadering niet is verschenen, deelt de secretaris de inhoud van de waarschuwing of berisping bij aangetekende brief met bericht van ontvangst aan hem mee. De KNB ontvangt in beide gevallen een afschrift.   
 7.  Schorsing in de uitoefening van het ambt brengt mede verlies voor de duur van de schorsing van de betrekkingen, waarbij de hoedanigheid van notaris vereiste is voor de verkiesbaarheid of benoembaarheid. De geschorste notaris mag gedurende zijn schorsing de titel van notaris niet voeren.   
-8.  Een notaris die uit zijn ambt is ontzet kan niet meer tot waarnemer worden benoemd of aan een notaris worden toegevoegd.   
+8.  Een notaris die uit zijn ambt is ontzet kan niet meer tot notaris of waarnemer worden benoemd of aan een notaris worden toegevoegd.   
 9.  [Artikel 195 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van toepassing. 
 
 ### Artikel  103a  

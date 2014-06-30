@@ -87,6 +87,30 @@ b. arbeidsuren als bedoeld in het eerste lid niet als arbeidsuren worden aangeme
 
 c. vastgesteld wordt welke in het kader van een dienstbetrekking ontvangen bedragen in aanmerking komen voor omrekening naar arbeidsuren en hoeveel arbeidsuren deze bedragen vertegenwoordigen.    
 
+### Artikel  1b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voor de berekening van de hoogte van de uitkering waarop op grond van deze wet recht bestaat wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het arbeidsurenverlies, bedoeld in artikel 16, eerste lid, onderdeel a, is ingetreden, verdiende, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag.   
+2.  Het maandloon in een kalendermaand bedraagt: 
+
+a. indien de werknemer over de volledige kalendermaand recht op een uitkering heeft gehad 21,75 maal het dagloon;  
+
+b. indien de werknemer niet over de volledige kalendermaand recht op een uitkering heeft gehad het aantal werkdagen in die kalendermaand verminderd met het aantal werkdagen in die kalendermaand totdat het recht op uitkering is ontstaan dan wel nadat het recht op uitkering is geëindigd, vermenigvuldigd met het dagloon. Bij het bepalen van het aantal werkdagen wordt een kalenderweek geacht vijf werkdagen te hebben; of  
+
+c. indien recht bestaat op een uitkering op grond van artikel 18, eerste lid, het dagloon vermenigvuldigd met het aantal dagen dat recht op uitkering bestaat.     
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het aanmerken van kalendermaanden als volledige kalendermaanden als bedoeld in het tweede lid, onderdeel a, en met betrekking tot het aanmerken van dagen als werkdagen als bedoeld in het tweede lid, onderdeel b.   
+4.  Het inkomen in een kalendermaand bedraagt: 
+
+a. indien de werknemer over de volledige kalendermaand recht op een uitkering heeft gehad: het inkomen over de eerste tot en met de laatste dag van de kalendermaand; of  
+
+b. indien de werknemer niet over de volledige kalendermaand recht op een uitkering heeft gehad: het inkomen over de dagen in die kalendermaand waarop het recht op uitkering heeft bestaan.     
+5.  Indien de werknemer de hoedanigheid van werknemer, bedoeld in artikel 8, eerste lid, verliest of heeft verloren dan wel indien de werknemer in een kalenderweek minder beschikbaar voor arbeid is dan zijn gemiddeld aantal arbeidsuren per kalenderweek, bedoeld in artikel 16, tweede lid, wordt onder zijn inkomen in een kalendermaand tevens verstaan: (A + B) x C / D. Hierbij staat: A voor het aantal uren in een kalendermaand waarover de werknemer de hoedanigheid van werknemer verliest of heeft verloren als bedoeld in artikel 8, voor zover het uren betreft op dagen waarop recht op uitkering bestaat; B voor het aantal arbeidsuren in een kalendermaand dat de werknemer minder beschikbaar is voor arbeid wegens andere omstandigheden dan ziekte, arbeidsongeschiktheid of omdat hij deelneemt dan wel gaat deelnemen aan een naar het oordeel van het UWV noodzakelijke opleiding of scholing als bedoeld in artikel 76; C voor het dagloon waarnaar de uitkering zou zijn berekend indien dat niet gemaximeerd zou zijn op het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag; en D voor het gemiddeld aantal arbeidsuren, bedoeld in artikel 16, tweede en zesde lid, gedeeld door 5.   
+6.  Bij algemene maatregel van bestuur worden, onder meer voor artikel 18 en hoofdstuk IV, ten aanzien van de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zo nodig afwijkende regels gesteld.   
+7.  Het dagloon berekend op grond van dit artikel en de daarop berustende bepalingen wordt herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder c, van de Wet minimumloon en minimumvakantiebijslag](../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) wordt herzien.   
+8.  Onze minister maakt in de *Staatscourant* bekend met ingang van welke dag en met welk percentage een herziening als bedoeld in het zevende lid plaatsvindt.   
+9.  Een herziening van de uitkering als gevolg van een herziening van het dagloon vindt plaats zonder dat dit bij beschikking is vastgesteld.   
+10.  Bij algemene maatregel van bestuur wordt tevens bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.  
+
 ### Artikel  2  
 
 1.  Waar een natuurlijk persoon woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.    

@@ -31,7 +31,7 @@ c. personen die aan de werkzaamheden van een adviescollege onderscheidenlijk een
 2.  De in het eerste lid genoemde personen ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.   
 3.  Van de toekenning van vergoedingen als bedoeld in het eerste en tweede lid zijn uitgesloten: 
 
-a. personen die een functie vervullen bij instellingen of organisaties als bedoeld in de [artikelen 1.2 tot en met 1.5 van de Wet normering uit publieke middelen bekostigde bezoldiging topfunctionarissen](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen;  
+a. personen die een functie vervullen bij instellingen of organisaties als bedoeld in de [artikelen 1.2 tot en met 1.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen;  
 
 b. vertegenwoordigers van organisaties die gelegenheid hebben op te komen voor groepen of individuele personen wier belangen bij de arbeid van de commissie zijn betrokken, tenzij door Onze Minister in bijzondere gevallen anders wordt beslist.     
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels vastgesteld met betrekking tot de vergoedingen, bedoeld in het eerste lid.   

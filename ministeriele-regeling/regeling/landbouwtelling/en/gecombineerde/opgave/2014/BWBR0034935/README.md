@@ -45,7 +45,7 @@ c. het verstrekken van informatie of een betaalverzoek als bedoeld in een Subsid
 
 ### Artikel  3  
 
-1.  Het formulier heeft betrekking op de periode van 1 april 2014 tot en met 15 mei 2015.   
+1.  Het formulier heeft betrekking op de periode van 1 april 2014 tot en met 15 mei 2014.   
 2.  De periode, bedoeld in het eerste lid, is het tijdvak waarin de landbouwtelling, bedoeld in [artikel 25, eerste lid, van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt gehouden.  
 
 ### Artikel  4  

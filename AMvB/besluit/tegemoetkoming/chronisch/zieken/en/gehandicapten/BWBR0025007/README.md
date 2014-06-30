@@ -210,7 +210,7 @@ a. de persoon, bedoeld in [artikel 10, eerste lid, van de wet](../../../../../..
 4°. een uitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) bij een arbeidsongeschiktheid van 35% of meer;    
 
 b. de persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering naar een mate van arbeidsongeschiktheid van 35% of meer of op arbeidsondersteuning op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).     
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 348,00.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.  
 
 ### Hoofdstuk  4  

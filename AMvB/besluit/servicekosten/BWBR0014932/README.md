@@ -42,19 +42,25 @@ de eerste mei 2003
 De Minister van Justitie, 
 J. P. H. Donner     
 
-####Bijlage behorende bij artikel 1 van het Besluit servicekosten  
+### Bijlage 
+
+####behorende bij artikel 1 van het Besluit servicekosten  
 
 ### 1  
 
-#### Warmtevoorzieningen
+####Warmtevoorzieningen
 
-a. de levering van elektriciteit, gas, olie en verwarmd water, dan wel een andere vorm van energie voor het verwarmen van het woonruimtegedeelte van het gehuurde en de gemeenschappelijke gedeelten; b. het gebruik en het aflezen van warmtemeters en verbruiksmeters. 
+a. de levering van elektriciteit, gas, olie en verwarmd water, dan wel een andere vorm van energie voor het verwarmen van de gemeenschappelijke gedeelten;  
+
+b. het gebruik en het aflezen van warmtemeters en verbruiksmeters van de gemeenschappelijke gedeelten.   
 
 ### 2  
 
-#### Nutsvoorzieningen
+####Elektriciteit, gas en water
 
-a. de levering van elektriciteit, gas en water voor het verbruik in het woonruimtegedeelte van het gehuurde en in de gemeenschappelijke gedeelten en voor het gebruik van de gemeenschappelijke voorzieningen; b. het gebruik en het aflezen van meters, het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders. 
+a. de levering van elektriciteit, gas en water voor het verbruik in de gemeenschappelijke gedeelten en voor het gebruik van de gemeenschappelijke voorzieningen;  
+
+b. het gebruik en het aflezen van meters, het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders.   
 
 ### 3  
 

@@ -565,6 +565,41 @@ b. die op het moment van in dienst treden bij die werkgever 50 jaar of ouder is.
 
 De korting, bedoeld in artikel 47, eerste en tweede lid, bedraagt € 7000 per jaar. 
 
+### Artikel  48a  
+
+####Premiekorting jongere werknemer
+
+1.  De werkgever past een korting toe op het totaal van de door hem op grond van de afdelingen 2, 3 en 4 verschuldigde premies bij een dienstbetrekking met een werknemer die: 
+
+a. onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht heeft op een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+
+b. op of na 1 januari 2014 bij die werkgever in dienst is getreden maar vóór 1 januari 2016;  
+
+c. op het moment van in dienst treden bij die werkgever 18 jaar of ouder is maar nog niet de leeftijd heeft bereikt van 27 jaar, en  
+
+d. een dienstbetrekking heeft met een overeengekomen duur van minimaal zes maanden en een arbeidsduur van ten minste 32 uren per week.     
+2.  De korting wordt toegepast voor zolang de dienstbetrekking met de werknemer, bedoeld in het eerste lid, duurt met dien verstande: 
+
+a. dat voor dienstbetrekkingen die zijn aangevangen op of na 1 januari 2014 maar vóór 1 juli 2014 de korting kan worden toegepast voor de duur van de dienstbetrekking maar ten hoogste gedurende twee jaar vanaf 1 juli 2014;  
+
+b. dat voor dienstbetrekkingen die zijn aangevangen op of na 1 juli 2014 maar vóór 1 januari 2016 de korting kan worden toegepast voor de duur van de diensbetrekking maar ten hoogste gedurende twee jaar vanaf de aanvang van die dienstbetrekking;  
+
+c. dat de korting niet langer wordt toegepast dan tot en met het aangiftetijdvak dat eindigt op 31 december 2017.     
+3.  De korting wordt niet meer toegepast zodra niet meer wordt voldaan aan het eerste lid, onderdeel d.   
+4.  De werkgever bewaart bij de loonadministratie: 
+
+a. de schriftelijke arbeidsovereenkomst of de schriftelijke publiekrechtelijke aanstelling met de werknemer waaruit blijkt dat wordt voldaan aan het eerste lid, onderdeel d;  
+
+b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.     
+5.  Artikel 50a is van overeenkomstige toepassing.  
+
+### Artikel  48b  
+
+####Omvang bonus jongere werknemer
+
+1.  De korting, bedoeld in artikel 48a, bedraagt € 3.500 per jaar, met dien verstande dat de korting in de periode 1 juli 2014 tot 1 januari 2015 € 1.750 bedraagt.   
+2.  Artikel 50b, derde lid, is van overeenkomstige toepassing.  
+
 ### Artikel  49  
 
 ####Premiekorting arbeidsgehandicapte werknemer
@@ -1440,7 +1475,7 @@ j. de re-integratieinstrumenten op grond van [hoofdstuk IIB van de Wet op arbeid
 
 k. de bedragen van de kortingen oudere werknemer en arbeidsgehandicapte werknemer en van de premievrijstelling, bedoeld in artikel 122c, en de bedragen van de premievrijstelling, bedoeld in afdeling 6 van hoofdstuk 3, voor zover deze premievrijstelling wordt toegepast op de basispremie, bedoeld in artikel 36;  
 
-l. vervallen;  
+l. de bedragen van de kortingen jongere werknemer, bedoeld in artikel 48b, eerste lid;  
 
 m.de kosten die verband houden met de uitvoering van [artikel 30a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
 
@@ -1648,6 +1683,12 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor uitke
 ####Beëindiging premievrijstelling arbeid in kleine banen
 
 Artikel 52a vervalt met ingang van 1 januari 2012, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor arbeid in kleine banen. 
+
+### Artikel  122ga  
+
+####Beëindiging premiekorting jongere werknemer
+
+De artikelen 48a, 48b en 115, eerste lid, onderdeel l, vervallen met ingang van 1 januari 2018. 
 
 ### Artikel  122h  
 

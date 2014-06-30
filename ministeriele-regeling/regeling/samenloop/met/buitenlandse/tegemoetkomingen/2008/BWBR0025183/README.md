@@ -48,6 +48,14 @@ In deze regeling wordt verstaan onder:
 
 Indien met toepassing van de Verordening (EEG) nr. 1408/71 en Verordening (EEG) nr. 574/72 gezinsbijslagen in Nederland worden uitbetaald voor zover deze een gezinsbijslag of , bij meerdere gezinsbijslagen, het totale bedrag aan gezinsbijslagen op grond van een rechtens geldende regeling bestaande in een andere lidstaat overtreffen, vindt achtereenvolgens uitbetaling plaats van de kinderbijslag, de tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen, het kindgebonden budget en de kinderopvangtoeslag, tot ten hoogste het bedrag dat zou zijn uitbetaald indien het recht op grond van die verordeningen niet zou zijn geschorst. 
 
+### Artikel  4a  
+
+####Toerekening kindgebonden budget
+
+Treedt in werking per 01-01-2015 
+
+Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) een ander land dan een van de in artikel 1, onder a tot en met d, bedoelde landen als woonland in aanmerking wordt genomen, is [artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](../../../../../../../../ministeriele-regeling/regeling/woonlandbeginsel/in/de/sociale/zekerheid/2012/BWBR0031508/README.md) van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind. 
+
 ### Artikel  5  
 
 ####Overgangsbepaling

@@ -235,7 +235,6 @@ De commissie brengt elk jaar aan Onze Minister, Onze Minister van Landbouw, Natu
 De commissie heeft een secretaris, die door de voorzitter wordt benoemd en ontslagen, de commissie gehoord. De commissie heeft een bureau, dat onder leiding staat van de secretaris.  
 
 ### Artikel  2.23a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De kosten van de commissie en het bureau worden gedekt uit door de commissie vast te stellen en in rekening te brengen tarieven voor de uit te brengen adviezen.   
 2.  De in het eerste lid bedoelde tarieven hebben een rechtstreeks verband met de in dat lid bedoelde adviezen en belopen niet meer dan nodig is ter dekking van de gemaakte kosten voor die adviezen.   

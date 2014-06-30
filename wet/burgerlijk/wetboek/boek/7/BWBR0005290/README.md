@@ -952,10 +952,7 @@ Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomsti
 
 ####Overeenkomst van pandbelening
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  130  
-Treedt in werking per 01-07-2014 
 
 1.  De overeenkomst van pandbelening is de overeenkomst waarbij de ene partij, het pandhuis, aan de andere partij, de pandbelener, een geldsom ter beschikking stelt en de pandbelener daartegenover een roerende zaak, niet zijnde een registergoed, in de macht van het pandhuis brengt met het beding: 
 
@@ -965,7 +962,6 @@ b. hetzij dat de pandbelener de zaak terstond aan het pandhuis in eigendom overd
 2.  De onderhavige titel is mede van toepassing op iedere overeenkomst, aangegaan onder welke vorm of benaming dan ook, met dezelfde strekking als een overeenkomst van pandbelening als bedoeld in lid 1.  
 
 ### Artikel  131  
-Treedt in werking per 01-07-2014 
 
 In deze titel wordt verstaan onder 
 
@@ -978,12 +974,10 @@ c.  *pandbeleningsvergoeding:* alle beloningen en vergoedingen in welke vorm dan
 d.  *maand:* kalendermaand dan wel de periode tussen een dag van een kalendermaand en het einde van de overeenkomstige dag van de volgende kalendermaand.   
 
 ### Artikel  132  
-Treedt in werking per 01-07-2014 
 
 Deze titel is slechts van toepassing, indien de pandbelener een natuurlijke persoon is die niet handelt in de uitoefening van een beroep of bedrijf. 
 
 ### Artikel  133  
-Treedt in werking per 01-07-2014 
 
 Onverminderd het bepaalde in de [artikelen 193c–193e van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) stelt het pandhuis, voordat de pandbelener aan de overeenkomst van pandbelening is gebonden, deze in staat om kennis te nemen van de volgende informatie: 
 
@@ -992,7 +986,6 @@ a. de pandbeleningsvergoeding per maand uitgedrukt in een percentage van de ter 
 b. de lengte van de beleentermijn.   
 
 ### Artikel  134  
-Treedt in werking per 01-07-2014 
 
 1.  De overeenkomst van pandbelening wordt op papier of op een andere duurzame drager aangegaan. Het pandhuis verstrekt de pandbelener een exemplaar van de overeenkomst van pandbelening en behoudt zelf ook een exemplaar.   
 2.  In de overeenkomst van pandbelening worden op duidelijke en beknopte wijze vermeld: 
@@ -1018,33 +1011,27 @@ i. het recht van de pandbelener op onverwijlde afgifte bedoeld in artikel 135 li
 j. de verdere voorwaarden die op de overeenkomst van toepassing zijn.    
 
 ### Artikel  135  
-Treedt in werking per 01-07-2014 
 
 1.  De beleentermijn bedraagt ten minste twee maanden.   
 2.  Gedurende de beleentermijn en, in geval van verlenging, gedurende de verlengde beleentermijn, heeft de pandbelener te allen tijde recht op onverwijlde afgifte van de beleende zaak tegen terugbetaling van de ter beschikking gestelde geldsom en voldoening van de pandbeleningsvergoeding.  
 
 ### Artikel  136  
-Treedt in werking per 01-07-2014 
 
 Indien bij de overeenkomst van pandbelening het beding, bedoeld in artikel 130 lid 1 onder b is gemaakt, heeft volledige terugbetaling van de geldsom en volledige voldoening van de pandbeleningsvergoeding tot gevolg dat de pandbelener de eigendom van de zaak van rechtswege de zaak opnieuw verkrijgt, als ware de overdracht aan het pandhuis onder de ontbindende voorwaarde van deze terugbetaling geschied. 
 
 ### Artikel  137  
-Treedt in werking per 01-07-2014 
 
 De pandbeleningsvergoeding wordt berekend in de vorm van een maandrente van ten hoogste een bij algemene maatregel van bestuur vastgesteld percentage van de in artikel 130 lid 1 bedoelde geldsom. 
 
 ### Artikel  138  
-Treedt in werking per 01-07-2014 
 
 Op een overeenkomst van pandbelening als bedoeld in artikel 130 lid 1, aanhef en onder a, zijn de regels betreffende pandrecht op roerende zaken van toepassing behoudens de [artikelen 233](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [234](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [235](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [237](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [241](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [242](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [243 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [244](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [248](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [249](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [250](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [251](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [252](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [253](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [254](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [256 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
 
 ### Artikel  139  
-Treedt in werking per 01-07-2014 
 
 Indien de pandbelener niet binnen de beleentermijn de geldsom volledig terugbetaalt en de pandbeleningsvergoeding volledig voldoet, draagt het pandhuis het verlies dat hij ten opzichte van de in artikel 130 lid 1 bedoelde geldsom met pandbeleningsvergoeding lijdt. 
 
 ### Artikel  140  
-Treedt in werking per 01-07-2014 
 
 Van deze titel kan niet ten nadele van de pandbelener worden afgeweken. 
 
@@ -1368,7 +1355,7 @@ Onder standplaats wordt verstaan een kavel, bestemd voor het plaatsen van een wo
 
 1.  In deze afdeling wordt onder prijs verstaan het geheel van de verplichtingen die de huurder tegenover de verhuurder bij of ter zake van huur op zich neemt.   
 2.  Onder huurprijs wordt verstaan de prijs die is verschuldigd voor het enkele gebruik van de woonruimte.   
-3.  Onder servicekosten wordt verstaan de vergoeding voor de in verband met de bewoning van de woonruimte geleverde zaken en diensten. Bij algemene maatregel van bestuur kunnen zaken en diensten worden aangewezen waarvoor de vergoeding moet worden aangemerkt als servicekosten.  
+3.  In deze afdeling wordt verstaan onder kosten voor nutsvoorzieningen met een individuele meter: de vergoeding in verband met de levering van elektriciteit, gas en water voor het verbruik in het woonruimtegedeelte van het gehuurde op basis van een zich in dat gedeelte bevindende individuele meter. Onder servicekosten wordt verstaan de vergoeding voor de overige zaken en diensten die geleverd worden in verband met de bewoning van de woonruimte. Bij algemene maatregel van bestuur kunnen zaken en diensten worden aangewezen waarvoor de vergoeding moet worden aangemerkt als servicekosten.  
 
 ### Artikel  238  
 
@@ -1513,12 +1500,12 @@ c. hoger is dan het in onderdeel b bedoelde bedrag, doch gelijk is aan of lager 
 ### Artikel  253  
 
 1.  Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen, verzoekt de verhuurder aan de inspecteur om een tweede verklaring als bedoeld in artikel 252a lid 4. Indien een verzoek als bedoeld in de eerste volzin wordt gedaan, legt de verhuurder daarbij tevens de tweede verklaring over.   
-2.  De huurder kan de huurcommissie binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
+2.  De huurder kan de huurcommissie binnen vier maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
 
 a.hij noch vóór het in lid 1 eerste volzin bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
 
-b.de verhuurder hem binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt. De huurder legt bij dit verzoek een afschrift over van het voorstel, van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat huishoudinkomen. Lid 1 derde volzin is van overeenkomstige toepassing.  
-3. De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen drie maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht. 
+b.de verhuurder hem binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt. De huurder legt bij dit verzoek een afschrift over van het voorstel, van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat huishoudinkomen. Lid 1 derde volzin is van overeenkomstige toepassing.  
+3. De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen vier maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht. 
 4. Indien de huurder het in het tweede lid bedoelde verzoek doet, stelt de huurcommissie de verhuurder daarvan onverwijld in kennis. 
 5.  Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef of artikel 252a lid 1 bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.  
 
@@ -1548,29 +1535,41 @@ b. veranderingen of toevoegingen, waaronder niet wordt verstaan het verhelpen va
 
 ### Artikel  258  
 
-Indien de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, stelt de huurcommissie op verzoek van de huurder de huurprijs vast en het voorschotbedrag voor de servicekosten. Een dergelijk verzoek kan ook door de verhuurder worden gedaan, indien de overeengekomen prijs lager is dan 55% van de krachtens [artikel 10 lid 1 van de Uitvoeringswet huurprijzen woonruimte](../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) geldende maximale huurprijsgrens. 
+1.  Indien de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurder aan de verhuurder een voorstel doen tot vaststelling van de huurprijs en het voorschot van de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten.   
+2.  Een voorstel als bedoeld in lid 1 moet ten minste twee maanden voor de voorgestelde dag van ingang van de huurprijs en het voorschot van de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten schriftelijk worden gedaan en dient te vermelden: 
+
+a. de geldende prijs;  
+
+b. de voorgestelde huurprijs;  
+
+c. het voorgestelde voorschot van kosten voor de nutsvoorzieningen met een individuele meter en de servicekosten, en  
+
+d. de voorgestelde dag van ingang van de huurprijs en het voorschot van de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten.     
+3.  Indien de verhuurder niet instemt met een voorstel als bedoeld in lid 1, kan de huurder tot uiterlijk zes weken na het tijdstip waarop dit voorstel had moeten ingaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De huurcommissie stelt de huurprijs vast en, voor zover nodig, het voorschot van de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten.   
+4.  Indien een overeenkomst tot vaststelling van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 en lid 2, aanhef en onder b, c of d, blijft de voordien geldende prijs verschuldigd, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.  
 
 ### Artikel  259  
 
-1.  De betalingsverplichting van de huurder met betrekking tot servicekosten beloopt het bedrag dat door de huurder en verhuurder is overeengekomen of, bij gebreke van overeenstemming, het bedrag dat in overeenstemming is met de voor de berekening daarvan geldende wettelijke voorschriften of met hetgeen als een redelijke vergoeding voor de geleverde zaken en diensten kan worden beschouwd.   
-2.  De verhuurder verstrekt de huurder elk jaar, uiterlijk zes maanden na het verstrijken van een kalenderjaar, een naar de soort uitgesplitstoverzicht van de in dat kalenderjaar in rekening gebrachte servicekosten, met vermelding van de wijze van berekening daarvan. Indien aan de verhuurder kosten in rekening worden gebracht die niet een kalenderjaar betreffen, maar een andere periode van twaalf maanden, die een boekjaar vormt en in het verstreken kalenderjaar eindigt, neemt de verhuurder de kosten over die andere periode in het overzicht van dat verstreken kalenderjaar op.   
+1.  De betalingsverplichting van de huurder met betrekking tot kosten voor de nutsvoorzieningen met een individuele meter en de servicekosten beloopt het bedrag dat door de huurder en verhuurder is overeengekomen. Bij gebreke van overeenstemming beloopt de betalingsverplichting met betrekking tot kosten voor de nutsvoorzieningen met een individuele meter het bedrag dat in overeenstemming is met de voor de berekening daarvan geldende wettelijke voorschriften of met hetgeen als een redelijke vergoeding voor de geleverde zaken en diensten kan worden beschouwd, en met betrekking tot servicekosten het bedrag dat bij ministeriële regeling is vastgesteld.   
+2.  De verhuurder verstrekt de huurder elk jaar, uiterlijk zes maanden na het verstrijken van een kalenderjaar, een naar de soort uitgesplitstoverzicht van de in dat kalenderjaar in rekening gebrachte kosten voor nutsvoorzieningen met een individuele meter en servicekosten, met vermelding van de wijze van berekening daarvan. Indien aan de verhuurder kosten in rekening worden gebracht die niet een kalenderjaar betreffen, maar een andere periode van twaalf maanden, die een boekjaar vormt en in het verstreken kalenderjaar eindigt, neemt de verhuurder de kosten over die andere periode in het overzicht van dat verstreken kalenderjaar op.   
 3.  Bij beëindiging van de huurovereenkomst heeft het overzicht als in lid 2 bedoeld betrekking op het tijdvak van het kalenderjaar dat op het tijdstip van de beëindiging reeds is verstreken.   
 4.  De verhuurder biedt de huurder desverzocht de gelegenheid, na verstrekking van het overzicht bedoeld in lid 2, tot inzage van de aan het overzicht ten grondslag liggende boeken en andere bescheiden of van afschriften daarvan.  
 
 ### Artikel  260  
 
-1.  Indien de huurder en verhuurder geen overeenstemming hebben kunnen bereiken over een betalingsverplichting van de huurder met betrekking tot servicekosten, kan de huurder of verhuurder de huurcommissie verzoeken uitspraak daarover te doen.   
-2.  Het verzoek heeft betrekking op niet meer dan één tijdvak van ten hoogste twaalf maanden voor elke kostensoort waarop het verzoek betrekking heeft. Het verzoek kan worden gedaan tot uiterlijk vierentwintig maanden nadat de in artikel 259 lid 2 genoemde termijn voor het verstrekken van het overzicht door de verhuurder is verstreken.  
+1.  Indien de huurder en verhuurder geen overeenstemming hebben kunnen bereiken over een betalingsverplichting van de huurder met betrekking tot kosten voor nutsvoorzieningen met een individuele meter en servicekosten, kan de huurder of verhuurder de huurcommissie verzoeken uitspraak daarover te doen.   
+2.  Het verzoek heeft betrekking op niet meer dan één tijdvak van ten hoogste twaalf maanden voor elke kostensoort waarop het verzoek betrekking heeft. Het verzoek kan worden gedaan tot uiterlijk vierentwintig maanden nadat de in artikel 259 lid 2 genoemde termijn voor het verstrekken van het overzicht door de verhuurder is verstreken.   
+3.  Bij het verzoek neemt de verhuurder de betalingsverplichting van de huurder met betrekking tot de servicekosten op in een bij ministeriële regeling vastgesteld formulier. 
 
 ### Artikel  261  
 
-1.  Het voorschotbedrag dat de huurder krachtens overeenkomst of rechterlijke uitspraak ter zake van de servicekosten verschuldigd is, mag, tenzij na het ingaan van de huur anders is overeengekomen, slechts worden verhoogd: 
+1.  Het voorschotbedrag dat de huurder krachtens overeenkomst of rechterlijke uitspraak ter zake van de kosten voor nutsvoorzieningen met een individuele meter verschuldigd is, mag, tenzij na het ingaan van de huur anders is overeengekomen, slechts worden verhoogd: 
 
 a. met ingang van de dag, volgend op het einde van de betalings-termijn waarin de overeengekomen uitbreiding van de levering van zaken of diensten heeft plaatsgevonden dan wel met ingang van de betalingstermijn met ingang waarvan die uitbreiding heeft plaats gevonden;  
 
 b. met ingang van de dag, volgende op de betalingstermijn, waarin het laatste overzicht, bedoeld in artikel 259, aan de huurder is verstrekt met dien verstande dat elk overzicht slechts eenmaal tot een verhoging mag leiden.     
 2.  De huurder is gebonden aan een wijziging van de levering van zaken of diensten en het daarbij behorende gewijzigde voorschotbedrag, indien die wijziging betrekking heeft op zaken of diensten die slechts aan een aantal huurders gezamenlijk geleverd kunnen worden, en tenminste 70% van die huurders daarmee heeft ingestemd. Een huurder die niet met de wijziging heeft ingestemd, kan binnen acht weken na de schriftelijke kennisgeving van de verhuurder dat overeenstemming is bereikt met tenminste 70% van de huurders, een beslissing van de rechter vorderen omtrent de redelijkheid van het voorstel.   
-3.  Indien het door de huurder verschuldigde voorschotbedrag aanzienlijk hoger is dan de te verwachten servicekosten, kan de huurcommissie op verzoek van de huurder het voorschotbedrag verlagen tot een bedrag dat in redelijke verhouding staat tot die kosten.   
+3.  Indien het door de huurder verschuldigde voorschotbedrag aanzienlijk hoger is dan de te verwachten kosten voor nutsvoorzieningen met een individuele meter, kan de huurcommissie op verzoek van de huurder het voorschotbedrag verlagen tot een bedrag dat in redelijke verhouding staat tot die kosten.   
 
 ### Paragraaf  3  
 

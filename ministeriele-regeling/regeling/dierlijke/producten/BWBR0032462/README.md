@@ -25,12 +25,6 @@ In deze regeling wordt verstaan onder:
 
 –  *verordening (EG) nr. 834/2007:* verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007 L 189).   
 
-### Artikel  1.2  
-
-####Minister bevoegde instantie EU-verordeningen
-
-De minister is bevoegd de besluiten te nemen waartoe een voorschrift van een EU-verordening als bedoeld in de [artikelen 2.1](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md), [2.7](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) of [3.1 van het besluit](../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md) een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft of de keuze laat, tenzij in deze regeling anders is bepaald. 
-
 ### Hoofdstuk  2  
 
 ####: Voor menselijke consumptie bestemde dierlijke producten
@@ -182,7 +176,7 @@ De onderwerpen, bedoeld in [artikel 2.10 van het besluit](../../../../../AMvB/be
 
 a. voor Stichting COKZ: de bescherming van kwaliteitsaanduidingen van landbouwproducten en levensmiddelen van dierlijke oorsprong, handelsnormen voor eieren en vlees van pluimvee, zuigelingenvoeding bestemd voor derde landen en nationale kwaliteitsvoorschriften voor kaas;  
 
-b. Dit onderdeel is nog niet in werking getreden.   
+b. voor Stichting Skal: de biologische productiemethode.   
 
 ### §  2.2  
 
@@ -192,23 +186,17 @@ b. Dit onderdeel is nog niet in werking getreden.
 
 ####Stichting Skal
 
-Treedt in werking per 01-07-2014 
-
 De Stichting Skal is de controlerende autoriteit, bedoeld in artikel 27, vierde lid, onderdeel a, van verordening (EG) nr. 834/2007. 
 
 ### Artikel  2.13  
 
 ####Verbodsbepaling
 
-Treedt in werking per 01-07-2014 
-
 Het is verboden bij het in de handel brengen of etiketteren van of reclame maken voor producten te verwijzen naar de biologische productiemethode, bedoeld in verordening (EG) nr. 834/2007 en het logo, bedoeld in artikel 25 van die verordening, tenzij is voldaan aan de voorschriften van die verordening, van verordening (EG) nr. 889/2008, verordening (EG) nr. 1235/2008 en deze paragraaf. 
 
 ### Artikel  2.14  
 
 ####Deelname controlesysteem
-
-Treedt in werking per 01-07-2014 
 
 1.  De inkennisstelling, bedoeld in artikel 28, eerste lid, onderdeel a, van verordening (EG) nr. 834/2007, wordt gedaan bij Stichting Skal.   
 2.  Met toepassing van artikel 28, tweede lid, van verordening (EG) nr. 834/2007 is artikel 28, eerste lid, van die verordening niet van toepassing op marktdeelnemers die producten direct aan de eindconsument of eindgebruiker verkopen, mits zij deze producten niet produceren, bereiden of opslaan op een plaats die geen verband houdt met het verkooppunt, of dergelijke activiteiten aan een derde partij hebben uitbesteed.  
@@ -217,16 +205,12 @@ Treedt in werking per 01-07-2014
 
 ####Aanvragen vergunningen en ontheffingen
 
-Treedt in werking per 01-07-2014 
-
 1.  Een aanvraag voor een vergunning als bedoeld in artikel 29, eerste lid, van verordening (EG) nr. 889/2008 wordt ingediend bij de minister.   
 2.  Een aanvraag voor ontheffing om gelijkwaardige producten als bedoeld in artikel 19, eerste lid, van verordening (EG) nr. 1235/2008 overeenkomstig dat artikel in de handel te brengen, wordt ingediend bij de minister.  
 
 ### Artikel  2.16  
 
 ####Vrijstellingen
-
-Treedt in werking per 01-07-2014 
 
 1.  Met toepassing van artikel 39 van verordening (EG) nr. 889/2008 mogen bedrijven met ten hoogste tien runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel.   
 2.  Met toepassing van artikel 27, vierde lid, van verordening 889/2008 is het tijdens de drie maanden die voorafgaan aan Pasen toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en lakmiddelen.  
@@ -235,15 +219,11 @@ Treedt in werking per 01-07-2014
 
 ####Veebezetting
 
-Treedt in werking per 01-07-2014 
-
 De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md). 
 
 ### Artikel  2.18  
 
 ####Uitlopen pluimvee
-
-Treedt in werking per 01-07-2014 
 
 De duur van de periode waarin de uitlopen van pluimveestallen leeg moeten blijven, bedoeld in artikel 23, vijfde lid, van verordening (EG) nr. 889/2008 bedraagt telkens na het houden van een koppel: 
 
@@ -757,8 +737,6 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 ### Artikel  4.2  
 
 ####Overgangsrecht biologische productiemethode
-
-Treedt in werking per 01-07-2014 
 
 Met toepassing van artikel 95, eerste en tweede lid van verordening (EG) nr. 889/2008 kan de Stichting Skal tot en met 30 december 2013 op aanvraag toestemming verlenen om: 
 

@@ -24,8 +24,8 @@ d. akten van benoeming ingaande bij overlijden.
 e. notariële akten bevattende schenkingsovereenkomsten of andere giften met de strekking dat zij pas na het overlijden van de schenker of gever zullen worden uitgevoerd, bedingen als bedoeld in [artikel 126, tweede lid, onder a, van Boek 4 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en omzettingen als bedoeld in [artikel 126, tweede lid, onder c, van Boek 4 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md);  
 
 f. akten als bedoeld in [artikel 19a, eerste lid, onder a tot en met e, van de Consulaire Wet](../../../../../../../rijkswet/consulaire/wet/BWBR0001847/README.md) die overeenkomstig de voorschriften van het recht van Aruba, Curaçao of Sint Maarten zijn opgemaakt.     
-2.  De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), draagt zorg voor de inrichting en het bijhouden van het testamentenregister.  
-3.   Onze Minister van Justitie draagt de zorg voor de inrichting en het bijhouden van het testamentenregister.  
+2.  In het register worden voorts opgenomen de in het volgende artikel vermelde gegevens van naar het in de openbare lichamen Bonaire, Sint Eustatius en Saba geldende recht opgemaakte akten, bevattende uiterste wilsbeschikkingen en schenkingen van de gehele of de gedeeltelijke nalatenschap van de schenker, alsmede akten waarbij uiterste wilsbeschikkingen worden herroepen of olografische testamenten worden teruggenomen. Onder akten, bevattende uiterste wilsbeschikkingen, worden verstaan: uiterste willen bij openbare akte, akten van bewaargeving van uiterste wil, akten van superscriptie, onderhandse stukken als bedoeld in [artikel 961 van Boek 4 van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/4/BWBR0028746/README.md), voor zover deze na het overlijden van de erflater aan een notaris zijn ter hand gesteld en akten van benoeming ingaande bij overlijden.   
+3.  De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), draagt zorg voor de inrichting en het bijhouden van het testamentenregister.  
 
 ### Artikel  2  
 
@@ -69,11 +69,11 @@ De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet
 1.  Aan een ieder worden kosteloos inlichtingen gegeven uit de gegevens van het testamentenregister ten aanzien van personen die zijn overleden.   
 2.   De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) verstrekt aan de door Onze Minister van Financiën aan te wijzen inspecteurs van de rijksbelastingen de voor die dienst nodige gegevens omtrent overleden personen aan de hand van de door die inspecteurs in te zenden overlijdensopgaven.  
 
-### Artikel  6a*  
-
-De [artikelen 18](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [19](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [20](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [23](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [26](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [27](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [34](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [35](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [41 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van overeenkomstige toepassing op uitoefening van de taak, bedoeld in artikel 1, tweede lid. 
-
 ### Artikel  6a  
+
+De [artikelen 18](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [19](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [20](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [23](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [26](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [27](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [34](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [35](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [41 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) zijn van overeenkomstige toepassing op uitoefening van de taak, bedoeld in artikel 1, derde lid. 
+
+### Artikel  6b  
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
