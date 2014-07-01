@@ -107,7 +107,7 @@ b. die een financiële voorziening ontvangt als bedoeld in [artikel 7.51, eerste
 
 c. die een tegemoetkoming ontvangt op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
 
-d. voor wie de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag ontvangt op grond van [artikel 7, tweede lid, onderdeel a of onderdeel c, van die wet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+d. voor wie de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag ontvangt op grond van [artikel 7, tweede lid, onderdeel a of onderdeel b, van die wet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
 
 e. die, hoewel hij niet op grond van de onderdelen a tot en met d als studerende wordt aangemerkt, niettemin in verband met onderwijs of een beroepsopleiding lessen of stages volgt gedurende gemiddeld ten minste 213 klokuren per kwartaal, voor zolang hij de leeftijd van 30 jaar nog niet heeft bereikt.     
 2.  Bij algemene maatregel van bestuur kunnen ook andere dan de in het eerste lid bedoelde personen als studerende worden aangemerkt.  
@@ -661,7 +661,7 @@ b. indien hij aanspraak heeft op een financiële voorziening als bedoeld in [art
 
 c. indien hij aanspraak heeft op een tegemoetkoming op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md); of  
 
-d. indien de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) voor hem aanspraak heeft op kinderbijslag op grond van [artikel 7, tweede lid, onderdeel a of onderdeel c, van die wet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).     
+d. indien de verzekerde in de zin van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) voor hem aanspraak heeft op kinderbijslag op grond van [artikel 7, tweede lid, onderdeel a of onderdeel b, van die wet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md).     
 2.  Het eerste lid is van overeenkomstige toepassing, indien de jonggehandicapte door zijn handelen of nalaten geen aanspraak heeft als bedoeld in het eerste lid, onderdelen a tot en met c, dan wel door handelen of nalaten van de jonggehandicapte of verzekerde, bedoeld in het eerste lid, onderdeel d, deze verzekerde geen aanspraak als bedoeld in het eerste lid, onderdeel d, heeft.  
 3.  De artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid, 2:32 en 2:39, tweede, derde en vierde lid, zijn tot een bij ministeriële regeling te bepalen tijdstip niet van toepassing op de jonggehandicapte, bedoeld in het eerste lid.  
 

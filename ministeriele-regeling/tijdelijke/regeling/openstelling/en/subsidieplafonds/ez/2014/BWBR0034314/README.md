@@ -24,6 +24,9 @@ Besluit:
 | 1.4  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (tijdelijke garantie ondernemersfinanciering en garantstelling gericht op bankgaranties)  | [3.12b ](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)en [3.12v](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-12-2014  | 250.000.000  |
 | 1.5  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (seed capital technostarters)  | [4.3](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-03-2014  | 20.000.000  |
 | 1.6  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (garantie scheepsnieuwbouwfinanciering)  | [8.3](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-12-2014  | 1.000.000.000  |
+|1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.4  | MKB-ondernemer  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
+| 1.8  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.9  | innovatieve starter  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
+| 1.9  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.14  | academische innovatieve starter  | 01-09-2014 t/m 01-10-2014  | 1.900.000  |
 |  *Subsidieregeling innoveren*   |
 | 2.1  | [Subsidieregeling innoveren](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (innovatiekredieten)  | [3.2](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  | Klinische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 20.000.000  |
 | 2.2  | [Subsidieregeling innoveren](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (innovatiekredieten)  | [3.2](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  | Technische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 40.000.000  |
@@ -101,12 +104,14 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
 | 1  | 2  | 3  | 4  | 5  | Paragraaf van de Subsidieregeling Energie en innovatie  | Project  | Prioriteitsthema / programmalijn uit de bijlage  | Openstellingsperiode 2014  | Subsidieplafond  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 2.4.2  | BBE-KEW project  | --- | t/m 24 juni  | 6,8 mln  |
+|2.4.1 | BBE Innovatieproject  | --- | t/m 7 oktober  | 3,1 mln  |
+| 2.4.2  | BBE-KEW project  | --- | t/m 7 oktober  | 6,8 mln  |
 | 2.4.3  | STEM-project  | --- | t/m 17 juni  | 1,5 mln  |
 | 2.4.5  | GG-project  | --- | t/m 24 juni  | 6,7 mln  |
 | --- | GG-project  | --- | 1 juli t/m 7 oktober  | 6,7 mln  |
+|2.4.6 | Upstream-project  | --- | t/m 7 oktober  | 0,8 mln  |
 | 2.4.7  | LNG-project  | --- | t/m 17 juni  | 1,4 mln  |
-| 2.4.12  | ZEGO-project  | --- | t/m 20 mei  | 3,0 mln  |
+| 2.4.12  | ZEGO-project  | --- | t/m 16 september  | 1,0 mln  |
 | 2.4.13  | EnerGO-project  | 3.Regeling energieprestatie en control  | t/m 20 mei  | 0,4 mln  |
 | 4.Multifunctionele bouwdelen  | t/m 20 mei  | 0,6 mln  |
 | 5.Energieopwekking, distributie en opslag op gebiedsniveau  | t/m 20 mei  | 1,5 mln  |
@@ -119,6 +124,18 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 1.4: Applicatieontwikkeling en demonstratie van Nederlandse PV-technologieën  | t/m 20 mei  | 0,9 mln  |
 | 2.4.17  | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | 1 juni t/m 16 september  | 1,75 mln  |
 | 1.2: Dunne film PV technologieën  | 1 juni t/m 16 september  | 1,3 mln  |
+|2.4.18 | DEI-project  | --- | t/m 4 november  | 24,285 mln  |
+| 2.4.19  | Systeemintegratieproject  | 1. Hybride energie-infrastructuren en energieopslag  | t/m 21 oktober  | 2,0 mln  |
+| 2. Keteninteracties  | t/m 21 oktober  | 0,8 mln  |
+| 2.4.20  | Jip-energiebesparing industrieproject  | Nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie  | t/m 21 oktober  | 1,0 mln  |
+|Intensifiëren van processen en optimaliseren van warmte- en stofoverdracht |t/m 21 oktober | 0,4 mln  |
+|Energie-efficiënte manier van gasscheiding en gasbehandeling |t/m 21 oktober | 0,3 mln  |
+|Verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping |t/m 21 oktober | 0,8 mln  |
+|Nieuwe generatie warmtegebruik systemen |t/m 21 oktober | 1,0 mln  |
+|2.4.21 | Wind op zee jip  | --- | t/m 16 september  | 4,5 mln  |
+| 2.4.22  | EnerGO CCO-project  | --- | t/m 9 september  | 3,7 mln  |
+| 2.4.23  | Smart grids-project  | 1. Energiemanagement voor flexibiliteit in het energiesysteem  | t/m 21 oktober  | 2,22 mln  |
+| 2. Informatie en Control Systems voor flexibiliteit in de energie-infrastructuur  | t/m 21 oktober  | 1,48 mln  |
 | 3.7  | Wind op zee-project  | 1. Ondersteuningsconstructies  | t/m 3 juni  | 1,25 mln  |
 | 2. Optimalisatie van de windcentrale  | t/m 3 juni  | 0,5 mln  |
 | 3. Intern elektrisch netwerk en aansluiting op het hoogspanningsnet  | t/m 3 juni  | 0,5 mln  |

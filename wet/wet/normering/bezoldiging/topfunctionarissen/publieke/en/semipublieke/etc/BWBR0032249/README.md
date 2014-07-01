@@ -34,25 +34,25 @@ a.*verantwoordelijke:*
 
 b.*topfunctionaris:*
 
-1°. de secretarissen-generaal, de directeuren-generaal, de inspecteurs-generaal en de overige leden van de topmanagementgroep bij het Rijk, de vice-admiraals, de generaals, de luitenant-admiraals en de luitenant-generaals, degene of degenen die zijn belast met de dagelijkse leiding van de in [artikel 1, onderdelen e tot en met h, van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) genoemde organen, alsmede de leden van een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid en de hoogste onderschikte of de leden van de groep hoogste onderschikten aan dat orgaan en degene of degenen die zijn belast met de dagelijkse leiding van dat orgaan;  
+1°. de secretarissen-generaal, de directeuren-generaal, de inspecteurs-generaal en de overige leden van de topmanagementgroep bij het Rijk, de vice-admiraals, de generaals, de luitenant-admiraals en de luitenant-generaals, degene of degenen die zijn belast met de dagelijkse leiding van de in [artikel 1, onderdelen e tot en met h, van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) genoemde organen, alsmede de leden van een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid en de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die zijn belast met de dagelijkse leiding van dat orgaan;  
 
 2°. de secretarissen bij de provincies, de gemeenten en de waterschappen en de griffiers bij de provincies en de gemeenten;  
 
-3°. de voorzitters en secretarissen van de openbare lichamen voor beroep en bedrijf, de hoogste onderschikte of de leden van de groep hoogste onderschikten aan het bestuur en degene of degenen belast met de dagelijkse leiding;  
+3°. de voorzitters en secretarissen van de openbare lichamen voor beroep en bedrijf, de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan het bestuur en degene of degenen belast met de dagelijkse leiding van het gehele openbaar lichaam;  
 
-4°. de leden van de hoogste uitvoerende en toezichthoudende organen van een rechtspersoon als bedoeld in artikel 1.2, onderdelen f, g en h, alsmede de hoogste onderschikte of de leden van de groep hoogste onderschikten aan dat orgaan en degene of degenen belast met de dagelijkse leiding;  
+4°. de leden van de hoogste uitvoerende en toezichthoudende organen van een rechtspersoon als bedoeld in artikel 1.2, onderdelen f, g en h, alsmede de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen belast met de dagelijkse leiding van de gehele rechtspersoon;  
 
-5°. de leden van de hoogste uitvoerende en toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.3, artikel 1.4 of artikel 1.5, alsmede de hoogste onderschikte of de leden van de groep hoogste onderschikten aan dat orgaan en degene of degenen belast met de dagelijkse leiding;    
+5°. de leden van de hoogste uitvoerende en toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.3, artikel 1.4 of artikel 1.5, alsmede de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen belast met de dagelijkse leiding van de gehele rechtspersoon of de gehele instelling;    
 
-c. *partijen:* de door de verantwoordelijke vertegenwoordigde rechtspersoon en de topfunctionaris die een bezoldiging zijn overeengekomen als tegenprestatie voor de uitvoering van de aan de topfunctionaris opgedragen taken en, in de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, tevens de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking stelt;  
+c. *partijen:* de rechtspersoon waartoe de verantwoordelijke behoort en de topfunctionaris die een bezoldiging zijn overeengekomen als tegenprestatie voor de uitvoering van de aan de topfunctionaris opgedragen taken en, in de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, tevens de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking stelt;  
 
 d. *dienstverband:* aanstelling, arbeidsovereenkomst of andere titel op grond waarvan de topfunctionaris tegen betaling zijn opgedragen taken vervult;  
 
-e. *bezoldiging:* de som van de beloning, de sociale verzekeringspremies, de belastbare vaste en variabele vergoedingen en de beloningen betaalbaar op termijn;  
+e.  *bezoldiging:* de som van de beloning, de belastbare vaste en variabele onkostenvergoedingen en de beloningen betaalbaar op termijn, met uitzondering van de omzetbelasting, dan wel, indien een functie wordt vervuld anders dan op grond van een dienstbetrekking, de som van de vergoedingen voor het vervullen van de functie, met uitzondering van de vergoedingen die bij een functievervulling op grond van een dienstbetrekking onbelast zouden zijn, en met uitzondering van de omzetbelasting;  
 
-f. *beloning:* de som van de periodiek betaalde beloningen en de winstdelingen en bonusbetalingen, met uitzondering van de sociale verzekeringspremies en met uitzondering van belastbare vaste en variabele onkostenvergoedingen;  
+f.  *beloning:* de som van de periodiek betaalde beloningen en de winstdelingen en bonusbetalingen, met uitzondering van belastbare vaste en variabele onkostenvergoedingen en met uitzondering van door werkgevers wettelijk of krachtens een algemeen verbindend verklaarde collectieve arbeidsovereenkomst verschuldigde niet op de beloning ingehouden sociale verzekeringspremies;  
 
-g. *sociale verzekeringspremies:* door werkgevers wettelijk of krachtens een algemeen verbindend verklaarde collectieve arbeidsovereenkomst verschuldigde niet op de beloning ingehouden sociale verzekeringspremies;  
+g.  *dienstbetrekking:* dienstbetrekking of fictieve dienstbetrekking in de zin van de [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
 h. *beloningen betaalbaar op termijn:* het werkgeversdeel van de beloningen betaalbaar op termijn met uitzondering van het werkgeversdeel van de beloningen betaalbaar op termijn die betrekking hebben op de beëindiging van het dienstverband;  
 
@@ -60,7 +60,7 @@ i. *uitkeringen wegens beëindiging van het dienstverband:* de som van uitkering
 
 j. *financieel verslaggevingsdocument:* jaarverslag als bedoeld in [artikel 51 van de Comptabiliteitswet 2001](../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), jaarrekening als bedoeld in [artikel 201 van de Provinciewet](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), jaarrekening als bedoeld in [artikel 197 van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) of jaarrekening in de zin van [Boek 2, titel 9, van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dan wel, indien deze artikelen niet van toepassing zijn, een ander bij of krachtens de wet voorgeschreven document dat jaarlijks wordt opgesteld tot verschaffing van inzicht in de financiële positie van een rechtspersoon of een organisatie van een rechtspersoon;  
 
-k. *betaling:* ten laste van de door de verantwoordelijke vertegenwoordigde rechtspersoon verrichte betaling wegens bezoldiging of uitkering wegens beëindiging van het dienstverband 
+k. *betaling:* ten laste van de rechtspersoon waartoe de verantwoordelijke behoort verrichte betaling wegens bezoldiging of uitkering wegens beëindiging van het dienstverband 
 
 1°. aan de topfunctionaris, of  
 
@@ -75,6 +75,20 @@ m. *gelieerde rechtspersoon:* andere dan krachtens publiekrecht ingestelde recht
 1°. die door een in de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, opgenomen rechtspersoon is opgericht of mede is opgericht, of  
 
 2°. waarin een orgaan of functionaris van een in de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, opgenomen rechtspersoon namens de rechtspersoon een of meer leden in het bestuur benoemt of op andere wijze invloed heeft op het beheer of beleid;    
+
+n. *Onze minister wie het aangaat:*
+
+1°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.2, eerste lid: Onze minister, dan wel, ten aanzien van de zelfstandige bestuursorganen zonder rechtspersoonlijkheid, de openbare lichamen, bedoeld in artikel 1.2, eerste lid, onderdelen e en f, onderscheidenlijk de rechtspersonen, bedoeld in artikel 1.2, eerste lid, onderdeel h, Onze minister op wiens beleidsterrein het zelfstandig bestuursorgaan, het openbaar lichaam, het andere lichaam of de rechtspersoon werkzaam is, of, ten aanzien van een openbaar lichaam ingesteld op grond van de Wet gemeenschappelijke regelingen: Onze minister;  
+
+2°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel a: Onze minister op wiens beleidsterrein het betreffende orgaan werkzaam is;  
+
+3°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel b: Onze minister die het orgaan, bedoeld in artikel 1.3, eerste lid, onderdeel b, is dat een of meer leden van het bestuur van de rechtspersoon benoemt of op andere wijze invloed heeft op het beheer of beleid van de rechtspersoon, dan wel, indien het orgaan geen minister is, Onze minister;  
+
+4°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel c: Onze minister, dan wel, indien de rechtspersoon ten laste van de begroting van een van Onze andere ministers een of meer subsidies ontvangt van ten minste € 500.000, Onze andere minister die de hoogste subsidie verstrekt;  
+
+5°. ten aanzien van de rechtspersonen en instellingen, bedoeld in de artikelen 1.3, eerste lid, onderdeel d, 1.4, eerste lid en artikel 1.5, eerste lid: Onze minister die belast is met de leiding van het in de bijlage aangegeven ministerie;  
+
+6°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel e: Onze minister van Onderwijs, Cultuur en Wetenschap;   
 
 n. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
@@ -107,33 +121,51 @@ a. andere dan krachtens publiekrecht ingestelde rechtspersonen, waarvan een orga
 
 b. andere dan krachtens publiekrecht ingestelde rechtspersonen, waarin een orgaan van een in artikel 1.2 genoemde rechtspersoon een of meer leden in het bestuur benoemt of op andere wijze invloed heeft op het beheer of beleid, met uitzondering van naamloze en besloten vennootschappen, de Stichting Exploitatie Nederlandse Staatsloterij en de Nationale Stichting tot Exploitatie van Casinospelen in Nederland;  
 
-c. in Nederland gevestigde rechtspersonen die een of meer subsidies ontvangen als bedoeld in [artikel 4.21, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), die tezamen meer bedragen dan 50% van de jaarlijkse inkomsten van de rechtspersoon, met uitzondering van die rechtspersonen die zijn opgenomen in de bijlagen 3 of 4 en met uitzondering van naamloze en besloten vennootschappen die een op winst gerichte onderneming drijven;  
+c. in Nederland gevestigde rechtspersonen waaraan voor een periode van ten minste drie achtereenvolgende kalenderjaren een of meer subsidies zijn verleend, die samen per kalenderjaar ten minste € 500.000 bedragen en ten minste 50% uitmaken van de inkomsten van de rechtspersoon in dat kalenderjaar, met uitzondering van die rechtspersonen die zijn opgenomen in de bijlagen bij de artikelen 1.4, eerste lid, en 1.5, eerste lid, en met uitzondering van naamloze en besloten vennootschappen die een op winst gerichte onderneming drijven;  
 
 d. de in bijlage 1 bij deze wet opgenomen rechtspersonen of instellingen;  
 
 e. de in bijlage 2 bij deze wet opgenomen verenigingen van onderwijsinstellingen die voor hun leden optreden als werkgeversvertegenwoordiger bij collectieve arbeidsovereenkomsten of als vertegenwoordiger in overleg met de centrale overheid.     
-2.  Op voordracht van Onze Minister in overeenstemming met Onze Minister(s) wie het mede aangaat, kunnen bij algemene maatregel van bestuur rechtspersonen of organisaties worden toegevoegd aan de bijlage bij het eerste lid, onderdeel d, indien 
+2.  Op de voordracht van Onze minister in overeenstemming met Onze minister(s) wie het mede aangaat, kan bij algemene maatregel van bestuur de bijlage bij het eerste lid, onderdeel d, in de volgende gevallen worden gewijzigd: 
 
-a. de bekostiging van deze rechtspersonen of organisaties middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of organisaties een wettelijke taak vervullen of anderszins een publiek belang dienen, of  
+a. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien de bekostiging van deze rechtspersonen of instellingen middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of instellingen een wettelijke taak vervullen;  
 
-b. sprake is van een gelieerde rechtspersoon.     
-3.  Rechtspersonen of organisaties kunnen bij algemene maatregel van bestuur van de bijlage worden verwijderd, indien de grond voor opname op de bijlage niet langer bestaat.  
+b. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien sprake is van gelieerde rechtspersonen;  
+
+c. rechtspersonen of instellingen kunnen van de bijlage worden verwijderd indien de grond voor opname op de bijlage niet langer bestaat;  
+
+d. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van redactionele verbeteringen.     
+3.  Op de voordracht van Onze minister in overeenstemming met Onze minister(s) wie het aangaat, kan bij algemene maatregel van bestuur de bijlage bij het eerste lid, onderdeel e, in de volgende gevallen worden gewijzigd: 
+
+a. verenigingen kunnen aan de bijlage worden toegevoegd indien het verenigingen van onderwijsinstellingen betreft die voor hun leden optreden als werkgeversvertegenwoordiger bij collectieve arbeidsovereenkomsten of als vertegenwoordiger in overleg met de centrale overheid;  
+
+b. verenigingen kunnen van de bijlage worden verwijderd indien de grond voor opname niet langer bestaat;  
+
+c. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van redactionele verbeteringen.    
 
 ### Artikel  1.4  
 
 1.  De paragrafen 3 en 4 zijn van toepassing op de in de in bijlage 3 bij deze wet opgenomen rechtspersonen of instellingen.   
-2.  Op voordracht van Onze Minister in overeenstemming met Onze Minister(s) wie het mede aangaat kunnen bij algemene maatregel van bestuur rechtspersonen of organisaties worden toegevoegd aan de bijlage bij het eerste lid, indien 
+2.  Op de voordracht van Onze minister in overeenstemming met Onze minister(s) wie het mede aangaat, kan bij algemene maatregel van bestuur de bijlage bij het eerste lid in de volgende gevallen worden gewijzigd: 
 
-a. de bekostiging van deze rechtspersonen of organisaties middellijk of rechtstreeks gedeeltelijk uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of organisaties een wettelijke taak vervullen of anderszins een publiek belang dienen, maar waar een bezoldiging van de topfunctionarissen met het in artikel 2.3 bedoelde bedrag, gelet op de factoren genoemd in artikel 3.6, tweede lid, ontoereikend is, of  
+a. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien de bekostiging van deze rechtspersonen of instellingen middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of instellingen een wettelijke taak vervullen of anderszins een publiek belang dienen, maar waar een bezoldiging van de topfunctionarissen met de maximale bezoldiging, bedoeld in artikel 2.3, gelet op de factoren genoemd in artikel 3.6, tweede lid, ontoereikend is;  
 
-b. sprake is van een gelieerde rechtspersoon.     
-3.  Rechtspersonen of organisaties kunnen bij algemene maatregel van bestuur van de bijlage worden verwijderd, indien de grond voor opname op de bijlage niet langer bestaat.  
+b. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien sprake is van gelieerde rechtspersonen;  
+
+c. rechtspersonen of instellingen kunnen van de bijlage worden verwijderd indien de grond voor opname op de bijlage niet langer bestaat;  
+
+d. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van redactionele verbeteringen.    
 
 ### Artikel  1.5  
 
 1.  Paragraaf 4 is van toepassing op de in bijlage 4 bij deze wet opgenomen rechtspersonen of instellingen.   
-2.  Op voordracht van Onze Minister in overeenstemming met Onze Minister(s) wie het mede aangaat kunnen bij algemene maatregel van bestuur rechtspersonen of organisaties worden toegevoegd aan de bijlage bij het eerste lid, indien de bekostiging van deze rechtspersonen of organisaties middellijk of rechtstreeks geheel of gedeeltelijk uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of organisaties een publiek belang dienen.   
-3.  Rechtspersonen of organisaties kunnen bij algemene maatregel van bestuur van de bijlage worden verwijderd, indien de grond voor opname op de bijlage niet langer bestaat.  
+2.  Op de voordracht van Onze minister in overeenstemming met Onze minister(s) wie het mede aangaat, kan bij algemene maatregel van bestuur de bijlage bij het eerste lid in de volgende gevallen worden gewijzigd: 
+
+a. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien de bekostiging van deze rechtspersonen of instellingen middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen een publiek belang dienen;  
+
+b. rechtspersonen of instellingen kunnen van de bijlage worden verwijderd indien de grond voor opname op de bijlage niet langer bestaat;  
+
+c. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van redactionele verbeteringen.    
 
 ### Artikel  1.6  
 
@@ -165,31 +197,30 @@ Onze Minister kan bij ministeriële regeling nadere regels stellen over hetgeen 
 1.  Partijen komen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3.   
 2.  In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 3.  In geval van een dienstverband met een kortere duur dan een kalenderjaar, komen partijen geen bezoldiging overeen die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365.   
-4.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een aanstelling of een arbeidsovereenkomst, bedraagt de voor die vervulling per kalenderjaar verschuldigde vergoeding niet meer dan de maximale bezoldiging, bedoeld in artikel 2.3. Het tweede en derde lid zijn van overeenkomstige toepassing.   
+4.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3. Het tweede en derde lid zijn van overeenkomstige toepassing.   
 5.  Een topfunctionaris die tevens werkzaam is bij een gelieerde rechtspersoon of bij een rechtspersoon als bedoeld in artikel 1.3, eerste lid, onderdeel b, de betreffende verantwoordelijke en de verantwoordelijke van de gelieerde rechtspersoon of de rechtspersoon, bedoeld in artikel 1.3, eerste lid, onderdeel b, komen geen bezoldiging overeen voor zover de som van de bezoldigingen meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3.   
 6.  Het tweede tot en met vijfde lid zijn van overeenkomstige toepassing indien voor partijen op grond van artikel 2.4, 2.6 of 2.7 een van artikel 2.3 afwijkend bedrag is vastgesteld.  
 
 ### Artikel  2.2  
 
-In afwijking van artikel 2.1 komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.2, onderdelen f, g en h en artikel 1.3 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 2.3, artikel 2.6 of artikel 2.7 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten. 
+1. In afwijking van artikel 2.1, eerste lid, komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.2, onderdelen f, g en h en artikel 1.3 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 2.3, artikel 2.5, artikel 2.6 of artikel 2.7 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
+2.  Artikel 2.1, derde en vierde lid, eerste volzin, is van overeenkomstige toepassing op de bezoldiging van de in het eerste lid bedoelde leden, onderscheidenlijk voorzitters, met dien verstande dat in deze artikelleden voor «artikel 2.3» wordt gelezen «artikel 2.2 of 2.8». 
 
 ### Artikel  2.3  
 
 1.  De bezoldiging van een topfunctionaris bedraagt per kalenderjaar ten hoogste € 187 340 aan beloning, vermeerderd met 
 
-a. de sociale verzekeringspremies,  
+a. € 8263 wegens belastbare vaste en variabele onkostenvergoedingen en  
 
-b. € 8263 wegens belastbare vaste en variabele onkostenvergoedingen en  
-
-c. € 34 871 wegens de voorzieningen ten behoeve van beloningen betaalbaar op termijn.     
+b. € 34 871 wegens de voorzieningen ten behoeve van beloningen betaalbaar op termijn.     
 2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks bij ministeriële regeling gewijzigd. De wijziging wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.   
 3.  De wijzigingen, bedoeld in het tweede lid, worden als volgt berekend: 
 
 a. het bedrag, genoemd in de aanhef van het eerste lid, wordt aangepast met het percentage waarmee het salaris van het burgerlijk rijkspersoneel in de voorafgaande twaalf maanden is gewijzigd en wordt afgerond naar boven op hele euro’s.  
 
-b. het bedrag, bedoeld in het eerste lid, onderdeel b, wordt aangepast aan de hand van de consumentenprijsindex, geldend voor de maand september van het jaar, voorafgaand aan het jaar waarop de wijziging betrekking heeft, en wordt afgerond naar boven op hele euro’s.  
+b. het bedrag, bedoeld in het eerste lid, onderdeel a, wordt aangepast aan de hand van de consumentenprijsindex, geldend voor de maand september van het jaar, voorafgaand aan het jaar waarop de wijziging betrekking heeft, en wordt afgerond naar boven op hele euro’s.  
 
-c. het bedrag, bedoeld in het eerste lid, onderdeel c, wordt vastgesteld aan de hand van de door het Algemeen Burgerlijk Pensioenfonds op het moment van vaststellen van de in het tweede lid bedoelde ministeriële regeling bij de sector Rijk voor het werkgeversdeel van de premie gehanteerde premiepercentages en franchisebedragen toe te passen op het bedrag, genoemd in de aanhef van het eerste lid, zoals dat na toepassing van onderdeel a van dit lid komt te luiden en wordt afgerond naar boven op hele euro’s.    
+c. het bedrag, bedoeld in het eerste lid, onderdeel b, wordt vastgesteld aan de hand van de door het Algemeen Burgerlijk Pensioenfonds op het moment van vaststellen van de in het tweede lid bedoelde ministeriële regeling bij de sector Rijk voor het werkgeversdeel van de premie gehanteerde premiepercentages en franchisebedragen toe te passen op het bedrag, genoemd in de aanhef van het eerste lid, zoals dat na toepassing van onderdeel a van dit lid komt te luiden en wordt afgerond naar boven op hele euro’s.    
 
 ### Artikel  2.4  
 
@@ -211,11 +242,13 @@ Onze Minister wie het aangaat kan bij ministeriële regeling, in overeenstemming
 
 1.  Bij ministeriële regeling van Onze Minister wie het aangaat kunnen de verschillende rechtspersonen of organisaties binnen een bij artikel 1.3, eerste lid, onderdeel d, aangewezen categorie worden ingedeeld in klassen op grond van criteria die betrekking hebben op onder meer de omvang van de rechtspersonen of instellingen.   
 2.  Onze Minister wie het aangaat kan, gehoord Onze Minister, voor de verschillende klassen een lager bedrag vaststellen dan de maximale bezoldiging, bedoeld in artikel 2.3, of het bedrag, bedoeld in artikel 2.6, eerste lid. Onze Minister wie het aangaat stelt de bedragen jaarlijks vast in de maand november voorafgaand aan het jaar waarop de bedragen betrekking hebben.   
-3.  Onze Minister wie het aangaat kan ten aanzien van een rechtspersoon of instelling besluiten dat de toepassing van de criteria leidt tot indeling in een bepaalde klasse. Een rechtspersoon of instelling kan Onze Minister wie het aangaat verzoeken om in een andere klasse te worden ingedeeld. De ministeriële regeling bevat regels over de procedure. Van een besluit tot indeling in een andere klasse wordt mededeling gedaan door plaatsing in de Staatscourant.  
+3.  Onze Minister wie het aangaat kan ten aanzien van een rechtspersoon of instelling besluiten dat de toepassing van de criteria leidt tot indeling in een bepaalde klasse. Een rechtspersoon of instelling kan Onze Minister wie het aangaat verzoeken om in een andere klasse te worden ingedeeld. De ministeriële regeling bevat regels over de procedure.   
+4.  Onze Minister wie het aangaat kan besluiten dat partijen een bij dat besluit vast te stellen hoger bedrag mogen overeenkomen dan het toepasselijke bedrag, bedoeld in het tweede of derde lid. Het bedrag is niet hoger dan het bezoldigingsmaximum, bedoeld in artikel 2.3. Bij ministeriële regeling kunnen regels worden gesteld over de procedure.   
+5.  Van een besluit als bedoeld in het derde en vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant. 
 
 ### Artikel  2.8  
 
-Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in artikel 2.6, eerste lid, voor de toepassing van artikel 2.1, tweede lid, een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in artikel 1.1, onderdeel b, onder 4° en 5°. Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. 
+Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in artikel 2.6, eerste lid, voor de toepassing van artikel 2.1, tweede lid, een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in artikel 1.1, onderdeel b, onder 4° en 5°. Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. Het getal is niet hoger dan de in artikel 2.2 genoemde percentages, tenzij de rechtspersoon of instelling krachtens artikel 2.2 is uitgezonderd. 
 
 ### Artikel  2.9  
 
@@ -250,12 +283,13 @@ Partijen komen geen winstdelingen, bonusbetalingen of andere vormen van variabel
 2.  Indien toepassing is gegeven aan artikel 3.4, eerste lid, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor de betreffende rechtspersoon of organisatie voor dat jaar vastgesteld bedrag.   
 3.  In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgestelde bedrag, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 4.  In geval van een dienstverband met een kortere duur dan een kalenderjaar, komen partijen geen bezoldiging overeen die meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgesteld bedrag, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365.   
-5.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een aanstelling of een arbeidsovereenkomst, bedraagt de voor die vervulling per kalenderjaar verschuldigde vergoeding niet meer dan het door Onze Minister wie het aangaat voor dat jaar vastgesteld bedrag. Het derde en vierde lid zijn van overeenkomstige toepassing.   
+5.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgestelde bedrag. Het derde en vierde lid zijn van overeenkomstige toepassing.   
 6.  Een topfunctionaris die tevens werkzaam is bij een gelieerde rechtspersoon, de betreffende verantwoordelijke en de verantwoordelijke van de gelieerde rechtspersoon komen geen bezoldiging overeen voor zover de som van de bezoldigingen meer bedraagt dan het voor de op de bijlage bij artikel 1.4, eerste lid, genoemde rechtspersoon geldende bedrag, bedoeld in artikel 3.3 of artikel 3.4, tweede lid.  
 
 ### Artikel  3.2  
 
-In afwijking van artikel 3.1 komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.4 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 3.1 of artikel 3.4 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten. 
+1. In afwijking van artikel 3.1, eerste lid komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.4 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 3.1, eerste lid, artikel 3.4 of artikel 3.5 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
+2.  Artikel 3.1, vierde en vijfde lid, eerste volzin, is van overeenkomstige toepassing op de bezoldiging van de in het eerste lid bedoelde leden, onderscheidenlijk voorzitters. 
 
 ### Artikel  3.3  
 
@@ -265,11 +299,13 @@ Onze Minister wie het aangaat stelt, gehoord Onze Minister, een bedrag als bedoe
 
 1.  Bij ministeriële regeling van Onze Minister wie het aangaat kunnen de verschillende rechtspersonen of organisaties binnen een in de bijlage bij artikel 1.4, eerste lid, aangewezen categorie worden ingedeeld in klassen op grond van criteria die betrekking hebben op onder meer de omvang van de rechtspersonen of instellingen.   
 2.  Onze Minister wie het aangaat kan, gehoord Onze Minister, gelijktijdig met het bedrag, bedoeld in artikel 3.3, voor de verschillende klassen een lager bedrag vaststellen.   
-3.  Onze Minister wie het aangaat kan ten aanzien van een rechtspersoon of instelling besluiten dat de toepassing van de criteria leidt tot indeling in een bepaalde klasse. Een rechtspersoon of instelling kan Onze Minister wie het aangaat verzoeken om in een andere klasse te worden ingedeeld. De ministeriële regeling bevat regels over de procedure. Van een besluit tot indeling in een andere klasse wordt mededeling gedaan door plaatsing in de Staatscourant.  
+3.  Onze Minister wie het aangaat kan ten aanzien van een rechtspersoon of instelling besluiten dat de toepassing van de criteria leidt tot indeling in een bepaalde klasse. Een rechtspersoon of instelling kan Onze Minister wie het aangaat verzoeken om in een andere klasse te worden ingedeeld. De ministeriële regeling bevat regels over de procedure.   
+4.  Onze Minister wie het aangaat kan besluiten dat partijen een bij dat besluit vast te stellen hoger bedrag mogen overeenkomen dan het toepasselijke bedrag, bedoeld in het tweede of derde lid. Het bedrag is niet hoger dan het bezoldigingsmaximum, bedoeld in artikel 3.1. Bij ministeriële regeling kunnen regels worden gesteld over de procedure.   
+5.  Van een besluit als bedoeld in het derde en vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant. 
 
 ### Artikel  3.5  
 
-Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in artikel 3.4, eerste lid, voor de toepassing van artikel 3.1, derde lid, een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in artikel 1.1, onderdeel b, onder 4° en 5°. Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. 
+Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in artikel 3.4, eerste lid, voor de toepassing van artikel 3.1, derde lid, een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in artikel 1.1, onderdeel b, onder 4° en 5°. Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. Het getal is niet hoger dan de in artikel 3.2 genoemde percentages, tenzij de rechtspersoon of instelling krachtens artikel 3.2 is uitgezonderd. 
 
 ### Artikel  3.6  
 
@@ -306,26 +342,6 @@ a. de naam;
 
 b. de beloning;  
 
-c. de sociale verzekeringspremies,  
-
-d. de belastbare vaste en variabele onkostenvergoedingen;  
-
-e. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;  
-
-f. de functie of functies;  
-
-g. de duur en omvang van het dienstverband in het boekjaar.     
-2.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van iedere topfunctionaris en iedere gewezen topfunctionaris de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de naam en functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd.   
-3.  De verantwoordelijke zendt langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar, de gegevens bedoeld in het eerste lid aan Onze Minister, tenzij Onze Minister wie het aangaat de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
-
-### Artikel  4.2  
-
-1.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid, te boven is gegaan, de volgende gegevens: 
-
-a. de beloning;  
-
-b. de sociale verzekeringspremies,  
-
 c. de belastbare vaste en variabele onkostenvergoedingen;  
 
 d. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;  
@@ -333,22 +349,48 @@ d. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;
 e. de functie of functies;  
 
 f. de duur en omvang van het dienstverband in het boekjaar.     
+2.  In geval de functie wordt vervuld anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid van iedere topfunctionaris en iedere gewezen topfunctionaris: 
+
+a. de naam;  
+
+b. de bezoldiging;  
+
+c. de functie of functies;  
+
+d. de duur en omvang van de functievervulling in het boekjaar.    
+3.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van iedere topfunctionaris en iedere gewezen topfunctionaris de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de naam en functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd.   
+4.  Indien de bezoldiging van een topfunctionaris of een gewezen topfunctionaris meer bedraagt dan de voor de instelling bij of krachtens deze wet bepaalde maximale bezoldiging of het totaal van de uitkeringen wegens beëindiging van het dienstverband van een topfunctionaris of een gewezen topfunctionaris meer bedraagt of zal bedragen dan het bedrag, bedoeld in artikel 2.10, eerste lid, of artikel 3.7, eerste lid, motiveert de verantwoordelijke deze overschrijding in het financieel verslaggevingsdocument.  
+5.  De verantwoordelijke zendt langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar, de gegevens bedoeld in het eerste tot en met vierde lid aan Onze Minister, tenzij Onze Minister wie het aangaat de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
+
+### Artikel  4.2  
+
+1.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid, te boven is gegaan, de volgende gegevens: 
+
+a. de beloning;  
+
+b. de belastbare vaste en variabele onkostenvergoedingen;  
+
+c. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;  
+
+d. de functie of functies;  
+
+e. de duur en omvang van het dienstverband in het boekjaar.     
 2.  Het eerste lid is van overeenkomstige toepassing: 
 
 a. in geval van een dienstverband van een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, en de bezoldiging meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband;  
 
 b. in geval van een dienstverband met een kortere duur dan het kalenderjaar, en de bezoldiging meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365;  
 
-c. in geval een functie in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een aanstelling of een arbeidsovereenkomst, waarbij in het financieel verslaggevingsdocument in plaats van de bezoldiging de voor die vervulling verschuldigde vergoeding wordt vermeld, indien deze per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, zonodig aangepast overeenkomstig de onderdelen a en b.     
+c. in geval de functie in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking en de bezoldiging per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, zonodig aangepast overeenkomstig de onderdelen a en b, waarbij in het financieel verslaggevingsdocument in afwijking van het eerste lid, onderdelen a, b en c, de bezoldiging wordt vermeld.     
 3.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd van eenieder 
 
 a. wiens gegevens in enig voorafgaand jaar op grond van het eerste lid of op grond van [artikel 6, eerste lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md), zoals dat artikel luidde voorafgaand aan de inwerkingtreding van dit artikel, in het financieel verslaggevingsdocument zijn opgenomen of hadden moeten worden opgenomen, of  
 
-b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan de maximale bezoldiging, bedoeld in artikel 2.3, dat gold in het jaar waarin het dienstverband is geëindigd, indien van toepassing herrekend overeenkomstig het eerste lid, onderdeel a of onderdeel b. Het tweede lid, onderdeel c, is van overeenkomstige toepassing.     
+b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan de maximale bezoldiging, bedoeld in artikel 2.3, dat gold in het jaar waarin het dienstverband is geëindigd, indien van toepassing herrekend overeenkomstig het tweede lid, onderdeel a. Het tweede lid, onderdeel c, is van overeenkomstige toepassing.     
 4.  Indien het boekjaar niet overeenkomt met een kalenderjaar, betreft de vermelding, bedoeld in het eerste lid, de bezoldiging, de functie of functies die betrekking hebben op het kalenderjaar direct voorafgaande aan het boekjaar.   
-5.  In de gevallen, bedoeld in het eerste of tweede lid, onderdeel b, motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in artikel 2.3.   
-6.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument tevens van hen van wie de bezoldiging, de functie of functies en de duur van het dienstverband vermeld wordt, deze gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en tweede lid betrekking heeft.   
-7.  De verantwoordelijke zendt langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar, de gegevens bedoeld in het eerste lid aan Onze Minister, tenzij Onze Minister wie het aangaat de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
+5.  In de gevallen, bedoeld in het eerste of het derde lid, onderdeel b, motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in artikel 2.3.   
+6.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument tevens van hen van wie de bezoldiging, de functie of functies en de duur van het dienstverband vermeld wordt, deze gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en derde lid betrekking heeft.   
+7.  De verantwoordelijke zendt langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar, de gegevens bedoeld in het eerste, derde, vijfde en zesde lid aan Onze Minister, tenzij Onze Minister wie het aangaat de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
 
 ### §  5  
 
@@ -380,7 +422,7 @@ De Belastingdienst, pensioenfondsen, alsmede verzekeraars aan wie ten behoeve va
 
 ### Artikel  5.5  
 
-1.  Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris. De sociale verzekeringspremies worden niet opgeëist. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.   
+1.  Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.   
 2.  In de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, kan de onverschuldigde betaling worden opgeëist van de topfunctionaris en de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking heeft gesteld gezamenlijk.   
 3.  De opgeëiste bedragen worden binnen drie weken voldaan. Onze Minister wie het aangaat kan de opgeëiste bedragen bij dwangbevel invorderen. De [artikelen 5:38](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:39 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
 4.  Onze Minister wie het aangaat eist geen onverschuldigde betaling op als de vordering uit onverschuldigde betaling is verjaard. De last, bedoeld in artikel 5.4, stuit de verjaring. Onze Minister wie het aangaat kan de verjaring van de vordering uit onverschuldigde betaling stuiten door hiervan mededeling te doen aan partijen.  
@@ -417,11 +459,13 @@ b. de toepassing van deze wet door partijen.
 
 Jaarlijks voor 31 december wordt aan de Staten-Generaal een overzicht gezonden over de uitvoering van de wet. Onze Minister coördineert de verzending. Het overzicht bevat ten minste: 
 
-a. de gegevens die op grond van artikel 4.2, eerste tot en met zesde lid, zijn of hadden moeten worden opgenomen in het financieel verslaggevingsdocument over het voorafgaande jaar;  
+a. per rechtspersoon of instelling de gegevens die op grond van artikel 4.1, eerste tot en met vierde lid, zijn of hadden moeten worden opgenomen in het financieel verslaggevingsdocument over het voorafgaande jaar, met uitzondering van de naam van de topfunctionaris of gewezen topfunctionaris, voor zover de bezoldiging van de topfunctionaris of de gewezen topfunctionaris de maximale bezoldiging bedoeld in artikel 2.3, eerste lid, te boven is gegaan, dan wel, indien deze lager is, de voor hem bij of krachtens deze wet bepaalde maximale bezoldiging overschrijdt, of het totaal van de uitkeringen wegens beëindiging van het dienstverband het bedrag, bedoeld in artikel 2.10, eerste lid, of artikel 3.7, eerste lid, overschrijdt;  
 
-b. de gegevens betreffende de uitzonderingen;  
+b. per rechtspersoon of instelling de gegevens die op grond van artikel 4.2, eerste tot en met zesde lid, zijn of hadden moeten worden opgenomen in het financieel verslaggevingsdocument over het voorafgaande jaar;  
 
-c. de gegevens betreffende overtredingen en handhavingsmaatregelen.   
+c. de gegevens betreffende de uitzonderingen;  
+
+d. de gegevens betreffende overtredingen en handhavingsmaatregelen.   
 
 ### Artikel  7.2  
 
@@ -431,14 +475,15 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en ver
 
 1.  In afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, is een voorafgaand aan de inwerkingtreding van deze wet tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 2.  Indien door wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, deze wet van toepassing wordt op de tussen partijen overeengekomen bezoldiging, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de inwerkingtreding van die wijziging tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van die wijziging tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-3.  Een bezoldiging voor de leden van de hoogste toezichthoudende organen van een rechtspersoon of instelling die afwijkt van artikel 2.2, onderscheidenlijk artikel 3.2, is toegestaan, indien de bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet tussen partijen zijn overeengekomen. Het tweede lid is van overeenkomstige toepassing. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-4.  Indien toepassing wordt gegeven aan artikel 2.6, eerste lid, artikel 2.7, tweede lid, artikel 2.8, artikel 3.4, tweede lid, of artikel 3.5, is een tussen partijen overeengekomen bezoldiging die meer bedraagt dan het van toepassing zijnde bedrag, toegestaan, indien de overeenkomst is gesloten voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-5.  Indien een in een klasse als bedoeld in artikel 2.7, eerste lid, of 3.4, eerste lid, ingedeelde rechtspersoon of instelling op enig moment op grond van ongewijzigde criteria is ingedeeld in een klasse waarvoor een lager bedrag is vastgesteld, heeft die indeling onmiddellijke werking, tenzij een tussen partijen overeengekomen bezoldiging meer bedraagt dan het voor de toepasselijke klasse geldende bedrag en deze bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling. In dat geval is de overeengekomen bezoldiging toegestaan, voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-6.  Een beding in afwijking van artikel 2.10, eerste lid, onderscheidenlijk artikel 3.7, eerste lid, is toegestaan, indien het beding is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage.   
+3.  Een bezoldiging voor de leden van de hoogste toezichthoudende organen van een rechtspersoon of instelling die afwijkt van artikel 2.2, onderscheidenlijk artikel 3.2, is, indien de bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlagen bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na de inwerkingtreding van deze wet of de inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, onderscheidenlijk de wijziging van de bijlage, tussen partijen zijn overeengekomen. Het tweede lid is van overeenkomstige toepassing. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+4.  Indien toepassing wordt gegeven aan artikel 2.6, eerste lid, artikel 2.7, tweede lid, artikel 2.8, artikel 3.4, tweede lid, of artikel 3.5, is een tussen partijen overeengekomen bezoldiging die meer bedraagt dan het van toepassing zijnde bedrag, toegestaan, indien de overeenkomst is gesloten voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van de ministeriële regeling dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+5.  Indien een in een klasse als bedoeld in artikel 2.7, eerste lid, of 3.4, eerste lid, ingedeelde rechtspersoon of instelling op enig moment op grond van ongewijzigde criteria is ingedeeld in een klasse waarvoor een lager bedrag is vastgesteld, gaat die indeling in met ingang van 1 januari van het daarop volgende kalenderjaar, tenzij een tussen partijen overeengekomen bezoldiging meer bedraagt dan het voor de toepasselijke klasse geldende bedrag en deze bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling. In dat geval is de overeengekomen bezoldiging toegestaan, voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+6.  Een beding in afwijking van artikel 2.10, eerste of derde lid, onderscheidenlijk artikel 3.7, eerste of derde lid, is, indien het beding is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, dan wel voorafgaand aan de aanvraag van de subsidiebeschikking waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage dan wel de bekendmaking van de subsidiebeschikking.   
 7.  In afwijking van artikel 2.11 of artikel 3.8 is een winstdeling of bonusbetaling die tussen partijen is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet.   
-8.  Indien een in het eerste tot en met zesde lid bedoelde periode van vier jaar is verstreken, wordt de overeengekomen bezoldiging in een periode van drie jaar teruggebracht tot het voor de rechtspersoon of instelling geldende maximum. In het eerste jaar bedraagt de verlaging een vierde deel van het verschil tussen de bezoldiging die op grond van het eerste tot en met het vierde lid werd genoten en het geldende maximum. In het tweede jaar bedraagt de verlaging een derde deel van het verschil tussen de bezoldiging uit het eerste jaar en het geldende maximum. In het derde jaar bedraagt de verlaging een tweede deel van het verschil tussen de bezoldiging uit het tweede jaar en het geldende maximum. Een eventuele overeengekomen verhoging als bedoeld in het eerste tot en met vierde lid, blijft buiten toepassing.   
-9.  Indien een dienstverband waarop dit artikel van toepassing is, wordt verlengd, blijft dit artikel na de verlenging buiten verdere toepassing.   
-10.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die wordt overeengekomen tussen het tijdstip van aanvaarding van deze wet door de Tweede Kamer van de Staten-Generaal en het tijdstip waarop deze wet in werking treedt.  
+8.  Indien door de verlening van een subsidie, bedoeld in artikel 1.3, eerste lid, onderdeel c, deze wet van toepassing wordt op een rechtspersoon, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de aanvraag van die beschikking tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, toegestaan voor ten hoogste vier jaar na de bekendmaking van de subsidiebeschikking. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de aanvraag van die beschikking tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.  
+9.  Indien een in het eerste tot en met het vijfde lid bedoelde periode van vier jaar is verstreken, wordt de overeengekomen bezoldiging in een periode van drie jaar teruggebracht tot het voor de rechtspersoon of instelling geldende maximum. In het eerste jaar bedraagt de verlaging een vierde deel van het verschil tussen de bezoldiging die op grond van het eerste tot en met het vierde lid werd genoten en het geldende maximum. In het tweede jaar bedraagt de verlaging een derde deel van het verschil tussen de bezoldiging uit het eerste jaar en het geldende maximum. In het derde jaar bedraagt de verlaging een tweede deel van het verschil tussen de bezoldiging uit het tweede jaar en het geldende maximum. Een eventuele overeengekomen verhoging als bedoeld in het eerste tot en met vierde lid, blijft buiten toepassing.   
+10.  Indien een dienstverband waarop dit artikel van toepassing is, wordt verlengd, blijft dit artikel na de verlenging buiten verdere toepassing.   
+11.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, de uitkeringen wegens beëindiging van het dienstverband of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013.  
 
 ### Artikel  7.4  
 
@@ -458,7 +503,8 @@ Wijzigt de Drinkwaterwet.
 
 ### Artikel  7.8  
 
-De [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) wordt ingetrokken. 
+1. De [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) wordt ingetrokken.  
+2.  De verantwoordelijke is bevoegd in het financieel verslaggevingsdocument over 2012 de gegevens, bedoeld in [artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md), zoals dat artikel luidde op 31 december 2012, te vermelden. 
 
 ### Artikel  7.9  
 
@@ -492,27 +538,25 @@ I. W. Opstelten
 
 2. De Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel te Den Haag.  
 
-3. De Stichting Forum, Instituut voor Multiculturele Vraagstukken te Utrecht.  
+3. De Stichting Huis voor democratie en rechtsstaat te Den Haag.  
 
-4. De Stichting Huis voor democratie en rechtsstaat te Den Haag.  
+4. De Oorlogsgravenstichting te Den Haag.  
 
-5. De Oorlogsgravenstichting te Den Haag.  
+5. De Stichting Europa Decentraal, Kenniscentrum Europees Recht en Beleid voor decentrale overheden te Den Haag.  
 
-6. De Stichting Europa Decentraal, Kenniscentrum Europees Recht en Beleid voor decentrale overheden te Den Haag.  
+6. De Vereniging Nederlandse Woonbond te Amsterdam.  
 
-7. De Vereniging Nederlandse Woonbond te Amsterdam.  
+7. De Stichting A+O Fonds Rijk te Den Haag.  
 
-8. De Stichting A+O Fonds Rijk te Den Haag.  
+8. De Stichting Verbond Sectorwerkgevers Overheid (VSO) te Den Haag.  
 
-9. De Stichting Verbond Sectorwerkgevers Overheid (VSO) te Den Haag.  
+9. De Stichting Bouwkwaliteit te Rijswijk.  
 
-10. De Stichting Bouwkwaliteit te Rijswijk.  
+10. De Stichting Platform 31 te Den Haag.  
 
-11. De Stichting Platform 31 te Den Haag.  
+11. De Stichting Waarborgfonds Eigen Woningen te Zoetermeer.  
 
-12. De Stichting Waarborgfonds Eigen Woningen te Zoetermeer.  
-
-13. De Stichting Waarborgfonds Sociale Woningbouw te Hilversum.  
+12. De Stichting Waarborgfonds Sociale Woningbouw te Hilversum.  
 ### Ministerie van Infrastructuur en Milieu 
 
 1. De drinkwaterbedrijven, bedoeld in [artikel 1 van de Drinkwaterwet](../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md).  
@@ -538,43 +582,39 @@ I. W. Opstelten
 
 9. De rechtspersonen, bedoeld in [artikel 53b van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
 
-10. Het Algemeen Pedagogisch Studiecentrum (APS) te Utrecht.  
+10. Het Instituut voor Leerplanontwikkeling (SLO) te Enschede.  
 
-11 Het Katholiek Pedagogisch Centrum (KPC) te ’s-Hertogenbosch.  
+11. Het Instituut voor Toetsontwikkeling (CITO) te Arnhem.  
 
-12. Het Christelijke Pedagogisch Studiecentrum (CPS) te Amersfoort.  
+12. De Stichting Centrum voor Innovatie van Opleidingen (CINOP) te ’s-Hertogenbosch.  
 
-13. Het Instituut voor Leerplanontwikkeling (SLO) te Enschede.  
+13. De Stichting Expertisecentrum Beroepsonderwijs (ECBO) te ’s-Hertogenbosch.  
 
-14 Het Instituut voor Toetsontwikkeling (CITO) te Arnhem.  
+14. De instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1° en 2°](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
 
-15. De Stichting Centrum voor Innovatie van Opleidingen (CINOP) te ’s-Hertogenbosch.  
+15. De kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw en de natuurlijke omgeving.  
 
-16. De Stichting Expertisecentrum Beroepsonderwijs (ECBO) te ’s-Hertogenbosch.  
+16. De rechtspersonen, bedoeld in de [artikelen 2.8.1](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7.4.7 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
 
-17. De instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, onder 1° en 2°](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behoudens de privaatrechtelijke rechtspersoon die tevens is toegelaten op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  
+17. De instellingen, bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), behoudens de instellingen waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
 
-18. De kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw en de natuurlijke omgeving.  
+18. De landelijke publieke media-instellingen, NPO en de Ster, bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in [artikel 2.49, derde lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
 
-19. De rechtspersonen, bedoeld in de [artikelen 2.8.1](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [7.4.7 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+19. De instellingen, bedoeld in [artikel 2.146, onderdelen i en j, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
 
-20. De instellingen, bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), behoudens de instellingen waarvoor Onze Minister van Economische Zaken, Landbouw en Innovatie verantwoordelijk is.  
+20. De instellingen die een vierjaarlijkse instellingssubsidie ontvangen krachtens [artikel 4a van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).  
 
-21. De landelijke publieke media-instellingen, NPO en de Ster, bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), met uitzondering van de kerkgenootschappen en genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), doch met inbegrip van door deze genootschappen opgerichte rechtspersonen als bedoeld in [artikel 2.49, derde lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+21. Stichting Dedicon te Grave.  
 
-22. De instellingen, bedoeld in [artikel 2.146, onderdelen i en j, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+22. De Stichting Surf te Utrecht.  
 
-23. De instellingen die een vierjaarlijkse instellingssubsidie ontvangen krachtens [artikel 4a van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).  
+23. De Nederlands – Vlaamse Accreditatieorganisatie (NVAO) te Den Haag.  
 
-24. Stichting Dedicon te Grave.  
+24. De Stichting Nederlandse organisatie voor internationale samenwerking in het hoger onderwijs (NUFFIC) te Den Haag.  
 
-25. De Stichting Surf te Utrecht.  
+25. De Stichting Platform Bèta en Techniek te Den Haag.  
 
-26. De Nederlands – Vlaamse Accreditatieorganisatie (NVAO) te Den Haag.  
-
-27. De Stichting Nederlandse organisatie voor internationale samenwerking in het hoger onderwijs (NUFFIC) te Den Haag.  
-
-28. De Stichting Platform Bèta en Techniek te Den Haag.   
+26. De Stichting Kennisnet te Zoetermeer.  
 ### Ministerie van Economische Zaken
 
 1. De instellingen, bedoeld in [artikel 1.1.1, onderdeel b, onder 3°, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
@@ -610,15 +650,17 @@ I. W. Opstelten
 
 9. De op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten instellingen, waaronder begrepen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
 
-10. De organisaties die instellingssubsidie of projectsubsidie ontvangen krachtens de [Kaderwet VWS-subsidies](../../../../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md) en die: 
+10. De rechtspersoon, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md).  
 
-a. tot doel hebben door belangenbehartiging, voorlichting of lotgenotencontact de positie, invloed en medezeggenschap te versterken van patiënten, gehandicapten of ouderen op het gebied van gezondheidszorg, gezondheidsbescherming, gezondheidsbevordering of maatschappelijke zorg;  
+11. De Nederlandse Patiënten Consumenten Federatie te Utrecht.  
 
-b. door de Minister van Volksgezondheid, Welzijn en Sport in het kader van de subsidieverstrekking met de onder a bedoelde organisaties zijn gelijkgesteld;  
+12. Het Landelijk Platform GGz te Utrecht.  
 
-c. tot doel hebben de onder a en b bedoelde organisaties te professionaliseren of te ondersteunen.    
+13. De Stichting LOC, Zeggenschap in zorg te Utrecht.  
 
-11. De rechtspersoon, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md).   
+14. De Stichting PGOsupport te Utrecht.  
+
+15. De vereniging Ieder-In te Utrecht.   
 ### Ministerie van Veiligheid en Justitie 
 
 1. De in Nederland gevestigde particuliere justitiële jeugdinrichtingen die zijn aangewezen krachtens [artikel 3b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), behoudens de inrichtingen die onderdeel uitmaken van een rechtspersoonlijkheid bezittende zorgaanbieder als bedoeld in [artikel 18, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
@@ -647,9 +689,10 @@ c. tot doel hebben de onder a en b bedoelde organisaties te professionaliseren o
 
 1. Het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
 
-2. Het informatiecentrum, bedoeld in [artikel 27b, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
+2. Het informatiecentrum, bedoeld in [artikel 27b, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).   
+###Ministerie van Sociale Zaken en Werkgelegenheid
 
-3. In Nederland gevestigde algemeen nut beogende instellingen als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+1. De Stichting Forum, Instituut voor Multiculturele Vraagstukken te Utrecht. 
 
 ### Bijlage 2 
 
@@ -661,11 +704,11 @@ c. tot doel hebben de onder a en b bedoelde organisaties te professionaliseren o
 
 3. De vereniging MBO Raad te Woerden.  
 
-4. De vereniging HBO-raad te Den Haag.  
+4. De Vereniging Hogescholen te Den Haag.  
 
 5. De Vereniging van Samenwerkende Nederlandse Universiteiten te Den Haag.  
 
-6. De vereniging Colo, Vereniging kenniscentra beroepsonderwijs bedrijfsleven te Zoetermeer.   
+6. De Werkgeversvereniging Kenniscentra te Zoetermeer.   
 
 ### Bijlage 3 
 

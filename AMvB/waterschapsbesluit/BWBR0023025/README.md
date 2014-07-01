@@ -930,7 +930,7 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 ### Artikel  3.1  
 
-1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *bezoldiging*: bedrag per maand waarop een voorzitter of een lid van het dagelijks bestuur aanspraak kan maken;  *FPU-uitkering*: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van [artikel 2 van de Wet kaderregeling vut overheidspersoneel](../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) en onder het Pensioenreglement van de Stichting pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  *lid van het algemeen bestuur*: lid van het algemeen bestuur van een waterschap, dat niet tevens lid van het dagelijks bestuur van dat waterschap is;  *lid van het dagelijks bestuur*: lid van het dagelijks bestuur van een waterschap, dat niet tevens voorzitter is van dat waterschap;  *plaatsvervangend voorzitter*: het lid van het dagelijks bestuur dat tot plaatsvervanger van de voorzitter is aangewezen;  *salarisschaal*: een als zodanig in [bijlage B van Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermelde reeks van genummerde salarissen;  *tijdsbestedingsnorm*: het deel van de werkweek dat de voorzitter in staat dient te worden gesteld aan het voorzitterschap te besteden, uitgedrukt in een percentage van een voltijdsfunctie;   *tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur*: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen 23, tweede lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 33, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) juncto [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), en de artikelen 2.114 en 2.116;  *tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur*: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in [artikel 41, vierde en vijfde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md);  *vergoeding*: maandelijkse vergoeding voor de werkzaamheden verbonden aan het lidmaatschap van het algemeen bestuur.   
+1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *bezoldiging*: bedrag per maand waarop een voorzitter of een lid van het dagelijks bestuur aanspraak kan maken;  *FPU-uitkering*: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van [artikel 2 van de Wet kaderregeling vut overheidspersoneel](../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) en onder het Pensioenreglement van de Stichting pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  *lid van het algemeen bestuur*: lid van het algemeen bestuur van een waterschap, dat niet tevens lid van het dagelijks bestuur van dat waterschap is;  *lid van het dagelijks bestuur*: lid van het dagelijks bestuur van een waterschap, dat niet tevens voorzitter is van dat waterschap;  *plaatsvervangend voorzitter*: het lid van het dagelijks bestuur dat tot plaatsvervanger van de voorzitter is aangewezen;  *salarisschaal*: een als zodanig in [bijlage B van Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermelde reeks van genummerde salarissen;  *tijdsbestedingsnorm*: het deel van de werkweek dat de voorzitter en het lid van het dagelijks bestuur in staat dienen te worden gesteld aan hun ambt te besteden, uitgedrukt in een percentage van een voltijdsfunctie;   *tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur*: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen 23, tweede lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 33, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) juncto [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), en de artikelen 2.114 en 2.116;  *tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur*: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in [artikel 41, vierde en vijfde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md);  *vergoeding*: maandelijkse vergoeding voor de werkzaamheden verbonden aan het lidmaatschap van het algemeen bestuur.   
 2.  In dit hoofdstuk wordt onder het provinciaal bestuur onderscheidenlijk (het college van) gedeputeerde staten verstaan het provinciaal bestuur onderscheidenlijk (het college of de colleges van) gedeputeerde staten van de provincie of de provincies waarin het waterschap is gelegen.  
 
 ### §  2  
@@ -944,7 +944,12 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 ### Artikel  3.3  
 
-Het algemeen bestuur kan bij verordening tot ten hoogste 20% naar beneden afwijken van de vergoeding, bedoeld in artikel 3.2, eerste lid. 
+1.  Naast de vergoeding, bedoeld in artikel 3.2, ontvangen fractievoorzitters voor de duur van hun voorzitterschap per jaar een toelage gelijk aan 1,2% van de vergoeding op jaarbasis en een toelage gelijk aan 0,4% van de vergoeding op jaarbasis voor elk lid dat de fractie buiten de fractievoorzitter telt. De toelagen tezamen bedragen ten hoogste 6,4% van de vergoeding op jaarbasis.   
+2.  Voor de toepassing van het eerste lid stelt de voorzitter vast: 
+
+a. hoeveel leden een fractie telt;  
+
+b. de duur van het fractievoorzitterschap.    
 
 ### Artikel  3.4  
 
@@ -965,11 +970,32 @@ Het algemeen bestuur kan nadere regels stellen over het ter beschikking stellen 
 
 ### Artikel  3.8  
 
-Het algemeen bestuur kan bij verordening bepalen dat een lid van het algemeen bestuur ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering ontvangt van € 175,– per jaar. 
+1.  Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 203,21 per jaar.   
+2.  Het in het eerste lid genoemde bedrag wordt bij ministeriële regeling gewijzigd overeenkomstig de wijzigingen die de bezoldiging van het personeel in de sector Rijk ondergaat.  
+
+### Artikel  3.8a  
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan de functie verbonden werkzaamheden;  
+
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan de functie verbonden werkzaamheden.     
+2.  Een lid van het algemeen bestuur ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval: 
+
+a. voor zover deze kosten ten laste van een lid van het algemeen bestuur blijven en  
+
+b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn functie en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op het gewezen lid van het algemeen bestuur.  
 
 ### Artikel  3.9  
 
-Het algemeen bestuur kan bij verordening bepalen dat een lid van het algemeen bestuur, naar in de verordening te stellen regels, ten laste van het waterschap een tegemoetkoming ontvangt ter zake van kosten voor scholing in verband met de vervulling van het lidmaatschap van het algemeen bestuur. 
+1.  Een lid van het algemeen bestuur ontvangt een onkostenvergoeding voor de aan de uitoefening van de functie verbonden kosten van € 165 per maand.   
+2.  De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van lid van het algemeen bestuur komen ten laste van het waterschap.   
+3.  Het algemeen bestuur kan over de in het tweede lid bedoelde scholing nadere regels stellen.   
+4.  Indien een lid van het algemeen bestuur in verband met de uitoefening van de functie lid is van een beroepsvereniging vergoedt het waterschap de contributie van die beroepsvereniging.   
+5.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.  
 
 ### Artikel  3.9a  
 
@@ -981,15 +1007,35 @@ Het algemeen bestuur kan bij verordening bepalen dat een lid van het algemeen be
 1.  De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge artikel 2.118 tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan artikel 3.4, dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.   
 2.  Een tijdelijk ontslag als bedoeld in artikel 2.118 wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in artikel 3.5, tweede lid.  
 
+### Artikel  3.10a  
+
+1.  In het geval een lid van het algemeen bestuur een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangt en de na toepassing van [artikel 20 van die wet](../../../wet/werkloosheidswet/BWBR0004045/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
+2.  In het geval dat een lid van het algemeen bestuur een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
+3.  In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding, bedoeld in artikel 3.2, op verzoek van het desbetreffende lid worden verlaagd.  
+
+### Artikel  3.10b  
+
+Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen de vergoedingen, bedoeld in de artikelen 3.9, eerste, tweede en vierde lid. 
+
+### Artikel  3.10c  
+
+Indien het dagelijks bestuur ten behoeve van een veilige woon- en werkplek van een lid van het algemeen bestuur kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het waterschap. 
+
 ### §  3  
 
 ####Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
 ### Artikel  3.11  
 
-1.  Een lid van het dagelijks bestuur geniet een bezoldiging van € 3.487,84Per 31-12-2009 en met terugwerkende kracht tot en met 1 april 2009: €3.557,60., met dien verstande dat het totaal van de bezoldiging van de leden van het dagelijks bestuur, met uitzondering van de voorzitter, wordt gesteld op ten hoogste 500% van dit bedrag.   
-2.  In afwijking van het eerste lid, kan de bezoldiging van de individuele leden van het dagelijks bestuur op een hoger of lager bedrag worden gesteld, mits het totaal van de bezoldiging, met uitzondering van de voorzitter, niet meer bedraagt dan 500% van het in het eerste lid genoemde bedrag.   
+1.  De bezoldiging van een lid van het dagelijks bestuur bedraagt € 1.423,04 per maand bij een tijdsbestedingsnorm van 20%.   
+2.  Het totaal van de bezoldiging van de leden van het dagelijks bestuur, met uitzondering van de voorzitter, is gesteld op ten hoogste 300% van een voltijds bezoldigingsbedrag.   
 3.  Als de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag overeenkomstig gewijzigd.  
+
+### Artikel  3.11a  
+
+1.  Een lid van het dagelijks bestuur ontvangt een onkostenvergoeding ten bedrage van € 345 per maand, naar evenredigheid van de vastgestelde tijdsbestedingsnorm.   
+2.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.   
+3.  De vergoeding, bedoeld in het eerste lid, wordt als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangewezen.  
 
 ### Artikel  3.12  
 
@@ -997,15 +1043,19 @@ De aanspraak op de bezoldiging door het lid van het dagelijks bestuur begint op 
 
 ### Artikel  3.12a  
 
-1.  Voor 1 april van elk jaar of binnen twee maanden na zijn beëdiging verstrekt het lid van het dagelijks bestuur aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, dan wel een door hem aangewezen instantie, een opgave van de neveninkomsten welke hij verwacht over het desbetreffende kalenderjaar of gedeelte daarvan te zullen genieten, dan wel een verklaring, dat hij verwacht niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten over dat jaar of een evenredig deel daarvan over het desbetreffende gedeelte van dat jaar te zullen genieten.   
-2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, dan wel de door hem aangewezen instantie, deelt het dagelijks bestuur het bedrag van de voorlopige aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan het lid van het dagelijks bestuur.   
-3.  Het lid van het dagelijks bestuur kan een verklaring inzenden dat een opgave van neveninkomsten achterwege zal blijven. In dit geval, alsmede indien binnen de in het eerste lid bedoelde termijn geen opgave of verklaring is ingezonden, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
-4.  Zo spoedig mogelijk na afloop van het kalenderjaar zendt het lid van het dagelijks bestuur of zenden zijn nabestaanden aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, dan wel de door hem aangewezen instantie, een opgave van de neveninkomsten welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat over dat jaar niet meer dan 14% van de bezoldiging op jaarbasis of, indien het lid van het dagelijks bestuur een gedeelte van het kalenderjaar lid van het dagelijks bestuur is geweest, een evenredig deel van dit bedrag, is genoten.   
-5.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, dan wel de door hem aangewezen instantie, deelt het dagelijks bestuur zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring het bedrag van de definitieve aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan het lid van het dagelijks bestuur.   
-6.  Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
-7.  Het lid van het dagelijks bestuur zendt aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, dan wel de door hem aangewezen instantie, zo spoedig mogelijk tevens een afschrift van de aanslag voor de inkomstenbelasting over het betreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van het lid van het dagelijks bestuur, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
-8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
-9.  Dit artikel is niet van toepassing op het lid van het dagelijks bestuur op wie [artikel 173 van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) van toepassing is, en het lid van het dagelijks bestuur dat zijn ambt in deeltijd vervult.  
+1.  Zo spoedig mogelijk na afloop van het kalenderjaar, verstrekt een lid van het dagelijks bestuur aan Onze Minister dan wel aan een door hem aangewezen instantie: 
+
+a. een opgave van de neveninkomsten welke hij over dat kalenderjaar of over een gedeelte daarvan heeft genoten, dan wel  
+
+b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij het ambt van lid van het dagelijks bestuur vervulde gedurende een gedeelte van het kalenderjaar, een evenredig deel daarvan, dan wel  
+
+c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.     
+2.  In afwijking van het eerste lid, vermindert het dagelijks bestuur op verzoek van het lid zijn bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee hij verwacht dat zijn bezoldiging zal worden verrekend vanwege zijn neveninkomsten.   
+3.  Onze Minister, dan wel een door hem aangewezen instantie, deelt het dagelijks bestuur het bedrag van de bezoldiging dat teruggevorderd dient te worden mede en verstrekt een afschrift daarvan aan het lid van het dagelijks bestuur.   
+4.  Het dagelijks bestuur vordert, indien Onze Minister dan wel een door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van het lid van het dagelijks bestuur.   
+5.  Indien het lid van het dagelijks bestuur geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister, dan wel aan een door hem aangewezen instantie. Het lid van het dagelijks bestuur meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.   
+6.  In het geval genoemd in het eerste lid, onderdeel c, alsmede indien het lid van het dagelijks bestuur binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring, als bedoeld in het eerste lid, heeft ingezonden, of niet heeft voldaan aan het vijfde lid, stelt het dagelijks bestuur de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij het uit anderen hoofde kan vaststellen tot welk bedrag er verrekend zou moeten worden.   
+7.  Op verzoek van het lid van het dagelijks bestuur kan het dagelijks bestuur besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.  
 
 ### Artikel  3.13  
 
@@ -1025,18 +1075,23 @@ Op het lid van het dagelijks bestuur zijn van overeenkomstige toepassing de rege
 
 ### Artikel  3.16  
 
-1.   In geval van ziekte welke in overwegende mate haar oorzaak vindt: 
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. in de aard van de aan de functie van lid van het dagelijks bestuur verbonden werkzaamheden; of  
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;  
 
-b. in de bijzondere omstandigheden waaronder deze moesten worden verricht; en  
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.     
+2.  Een lid van het dagelijks bestuur ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval: 
 
-c. niet aan eigen schuld of onvoorzichtigheid is te wijten,   kunnen de naar het oordeel van dagelijks bestuur noodzakelijk gemaakte kosten van geneeskundige behandeling of verzorging, voor zover deze kosten ten laste van het lid van het dagelijks bestuur blijven, aan dat lid voor rekening van het waterschap worden vergoed.   
-2.  Ter zake van andere schade, voortvloeiende uit de in het eerste lid bedoelde werkzaamheden of omstandigheden, kunnen de nadere voorschriften, zoals deze door het dagelijks bestuur ten aanzien van haar ambtelijk personeel eventueel zijn vastgesteld, van overeenkomstige toepassing worden verklaard op de leden van het dagelijks bestuur.  
+a. voor zover deze kosten ten laste van het lid van het dagelijks bestuur blijven en  
+
+b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op het gewezen lid van het dagelijks bestuur.  
 
 ### Artikel  3.17  
 
-Artikel 3.9, artikel 3.9a en artikel 3.40, eerste en tweede lid, zijn van overeenkomstige toepassing. 
+De artikelen 3.9, tweede tot en met vierde lid, 3.9a, 3.10b, 3.10c en 3.40 zijn van overeenkomstige toepassing op een lid van het dagelijks bestuur, met dien verstande dat voor een lid van het algemeen bestuur respectievelijk de voorzitter wordt gelezen: het lid van het dagelijks bestuur. 
 
 ### §  4  
 
@@ -1085,8 +1140,9 @@ c. na een zorgvuldig onderzoek het niet mogelijk is gebleken om de voorzitter bi
 
 ### Artikel  3.24  
 
-1.  De voorzitter geniet een bezoldiging waarvan de hoogte overeenkomt met het maximum van salarisschaal 18, tenzij een tijdsbestedingsnorm is vastgesteld die lager ligt dan 100%. In dat geval is de bezoldiging gelijk aan het bedrag dat naar rato van de tijdsbestedingsnorm is bepaald.   
-2.  Op verzoek van het algemeen bestuur kan Onze Minister, gedeputeerde staten gehoord, een tijdsbestedingsnorm vaststellen.  
+1.  De bezoldiging van de voorzitter bedraagt € 8.541,18 per maand, naar een evenredigheid van de vastgestelde tijdsbestedingsnorm.   
+2.  Op verzoek van het algemeen bestuur kan Onze Minister, gedeputeerde staten gehoord, een tijdsbestedingsnorm vaststellen.   
+3.  Als de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag overeenkomstig gewijzigd. 
 
 ### Artikel  3.25  
 
@@ -1094,7 +1150,8 @@ De aanspraak op de bezoldiging begint op de dag dat de benoeming ingaat en eindi
 
 ### Artikel  3.26  
 
-Bij besluit van het algemeen bestuur kan de voorzitter een ambtstoelage worden toegekend voor de aan de uitoefening van het ambt verbonden kosten, tot een bedrag dat maximaal 3% bedraagt van het maximum van salarisschaal 18. 
+1.  De voorzitter ontvangt een ambtstoelage van € 375 per maand, naar evenredigheid van de vastgestelde tijdsbestedingnorm.   
+2.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.  
 
 ### Artikel  3.26a  
 
@@ -1113,6 +1170,16 @@ b. de ambtstoelage, bedoeld in artikel 3.26.
 
 Een voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging. 
 
+### Artikel  3.29  
+
+Bij de toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+
+a. verstrekt het dagelijks bestuur op aanvraag een vergoeding voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 3.15, eerste lid;  
+
+b. wordt het bedrag, genoemd in de artikelen 3.8, eerste lid, 3.9, eerste, tweede en vierde lid, 3.11a, eerste lid, en 3.26, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en  
+
+c. blijven de artikelen 3.10b, 3.11a, derde lid, en 3.26a buiten toepassing.   
+
 ### Artikel  3.31  
 
 Indien een voorzitter langer dan acht dagen wegens ziekte zijn ambt niet kan uitoefenen geeft hij daarvan kennis aan het dagelijks bestuur van het waterschap. 
@@ -1127,18 +1194,29 @@ Degene die op grond van [artikel 51a van de wet](../../../wet/waterschapswet/BWB
 
 ### Artikel  3.35  
 
-1.  In geval van ziekte welke in overwegende mate haar oorzaak vindt: 
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. in de aard van de aan de functie van voorzitter verbonden werkzaamheden, of  
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;  
 
-b. in de bijzondere omstandigheden waaronder deze moesten worden verricht, en  
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.     
+2.  De voorzitter ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval: 
 
-c. niet aan eigen schuld of onvoorzichtigheid is te wijten, kunnen de naar het oordeel van het dagelijks bestuur noodzakelijk gemaakte kosten van geneeskundige behandeling of verzorging, voor zover deze kosten ten laste van de voorzitter blijven, aan de voorzitter voor rekening van het waterschap worden vergoed.     
-2.  Het eerste lid is van overeenkomstige toepassing op de gewezen voorzitter.  
+a. voor zover deze kosten ten laste van de voorzitter blijven en  
+
+b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op de gewezen voorzitter.  
 
 ### Artikel  3.36  
 
 Aan de voorzitter wordt een ambtsjubileumgratificatie en een dienstjubileumgratificatie toegekend overeenkomstig de regeling die geldt voor de ambtenaren van het waterschap. 
+
+### Artikel  3.37  
+
+1.  Indien een voorzitter die in het buitenland verblijft, overweegt om wegens dringende redenen van dienstbelang terug te keren naar zijn waterschap, legt hij dit voor aan commissaris van de Koning.   
+2.  Indien de commissaris het in het eerste lid genoemde voornemen redelijk acht, wordt aan de voorzitter ten laste van het waterschap een schadeloosstelling toegekend.   
+3.  De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de voorzitter en in voorkomend geval die van zijn meereizende gezinsleden. Het dagelijks bestuur stelt de hoogte van de schadeloosstelling vast.  
 
 ### Artikel  3.40  
 
@@ -1147,7 +1225,7 @@ Aan de voorzitter wordt een ambtsjubileumgratificatie en een dienstjubileumgrati
 
 ### Artikel  3.41  
 
-Op de voorzitter zijn de artikelen 3.9, 3.9a, 3.12a tot en met 3.16 van overeenkomstige toepassing. 
+De artikelen 3.9, tweede tot en met vierde lid, 3.9a, 3.10b, 3.10c, 3.12a tot en met 3.15 zijn van overeenkomstige toepassing op de voorzitter, met dien verstande dat voor een lid van het algemeen respectievelijk een lid van het dagelijks bestuur, wordt gelezen: de voorzitter. 
 
 ### Hoofdstuk  4  
 

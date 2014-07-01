@@ -20,7 +20,11 @@ c. gewasbescherming C, onderdeel van de kwalificatie Manager teelt en gewasbesch
 
 d. wettelijke beroepsvereisten gezelschapsdieren HKB, onderdeel van de kwalificaties Ondernemers gezelschapsdieren of Vakbekwaam verkoper gezelschapsdieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
 
-e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificaties Recreatiedieren 3 (dierverzorger recreatiedieren) en Ondernemer/manager recreatiedieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).   
+e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificaties Recreatiedieren 3 (dierverzorger recreatiedieren) en Ondernemer/manager recreatiedieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+
+f. wettelijke beroepsvereisten gezelschapsdieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossier en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+
+g. wettelijke beroepsvereisten recreatiedieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97720 en 97730, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).  
 
 ### Artikel  2  
 
@@ -28,7 +32,7 @@ Wijzigt de Regeling uitvoering Honden- en kattenbesluit 1999.
 
 ### Artikel  3  
 
-Wijzigt de Regeling gewasbeschermingsmiddelen en biociden. 
+De resultatenlijst behorend bij een certificaat als bedoeld in artikel 1, onderdelen g en h, vermelden de diergroep, bedoeld in [artikel 8.6 van de Regeling houders van dieren](../../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md), waarvoor het onderwijs is genoten. 
 
 ### Artikel  4  
 

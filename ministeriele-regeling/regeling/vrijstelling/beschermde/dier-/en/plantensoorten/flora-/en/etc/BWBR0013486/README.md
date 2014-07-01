@@ -206,6 +206,15 @@ b.  voldaan is aan de krachtens [artikel 18 van het Besluit vrijstelling bescher
 3.  Indien een microchiptransponder of een ander merkteken als bedoeld in het eerste of tweede lid, wegens lichamelijke kenmerken van de betrokken specimens aantoonbaar niet veilig kan worden aangebracht, geldt de vrijstelling, bedoeld in het eerste lid, eveneens, indien een daartoe strekkende door de Minister of een door een overheidsorgaan van een andere lid-staat afgegeven verklaring kan worden overgelegd.   
 4.  De vrijstellingen, bedoeld in het eerste lid, zijn niet van toepassing op levende specimens van soorten, behorende tot de orde van de primaten (Primates) of de familie van de katachtigen (Felidae), behorende tot beschermde uitheemse diersoorten, genoemd in bijlage A bij de basisverordening. 
 
+### Artikel  14a  
+
+1.  Er geldt een vrijstelling van het verbod, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor het onder zich hebben van levende of dode wolven, indien kan worden aangetoond dat: 
+
+– de dieren in gevangenschap zijn geboren en gefokt, en  
+
+– dat de dieren vóór 1 juli 2014 in Nederland zijn gebracht of verkregen.     
+2.  Er geldt een vrijstelling van het verbod, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) voor het onder zich hebben van producten van wolven, indien kan worden aangetoond dat die producten afkomstig zijn van wolven als bedoeld in het eerste lid.  
+
 ### § 11  
 
 ####Vrijstelling bezitsverbod plantensoorten 

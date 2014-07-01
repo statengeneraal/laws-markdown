@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Instelling Adviesraad voor wetenschap, technologie en innovatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Er is een Adviesraad voor wetenschap, technologie en innovatie, hierna de raad.   
 2.  De raad bestaat uit een voorzitter en ten hoogste negen andere leden.  
@@ -22,7 +22,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Taak raad
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 De raad heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over het te voeren beleid in nationaal en internationaal verband ten aanzien van wetenschap, technologie en innovatie, met bijzondere aandacht voor de verbinding tussen wetenschap, technologie en innovatie en de inzet daarvan voor economische en maatschappelijke doelen. 
 
@@ -30,7 +30,7 @@ De raad heeft tot taak de regering en de beide Kamers der Staten-Generaal te adv
 
 ####Wijziging [Wet Raad voor de leefomgeving en infrastructuur](../../../../../../../../../wet/wet/raad/voor/de/leefomgeving/en/infrastructuur/BWBR0031263/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet Raad voor de leefomgeving en infrastructuur. 
 
@@ -38,7 +38,7 @@ Wijzigt de Wet Raad voor de leefomgeving en infrastructuur.
 
 ####Intrekking [Wet op de Algemene Energieraad 1997](../../../../../../../../../wet/wet/op/de/algemene/energieraad/1997/BWBR0008250/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 De [Wet op de Algemene Energieraad 1997](../../../../../../../../../wet/wet/op/de/algemene/energieraad/1997/BWBR0008250/README.md) wordt ingetrokken. 
 
@@ -46,7 +46,7 @@ De [Wet op de Algemene Energieraad 1997](../../../../../../../../../wet/wet/op/d
 
 ####Intrekking [Wet Adviesraad voor het wetenschaps- en technologie-beleid 1997](../../../../../../../../../wet/wet/adviesraad/voor/het/wetenschaps-/en/technologiebeleid/1997/BWBR0008525/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 De [Wet Adviesraad voor het wetenschaps- en technologiebeleid 1997](../../../../../../../../../wet/wet/adviesraad/voor/het/wetenschaps-/en/technologiebeleid/1997/BWBR0008525/README.md) wordt ingetrokken. 
 
@@ -54,7 +54,7 @@ De [Wet Adviesraad voor het wetenschaps- en technologiebeleid 1997](../../../../
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
@@ -62,7 +62,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Deze wet wordt aangehaald als: Wet Adviesraad voor wetenschap, technologie en innovatie. 
 

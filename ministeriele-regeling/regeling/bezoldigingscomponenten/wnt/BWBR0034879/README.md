@@ -36,7 +36,7 @@ h. terbeschikkingstelling van een auto (mede) voor privégebruik;
 
 i. belastbare vergoedingen in natura;  
 
-j. werkgeversbijdrage vrijwillige ziektekostenverzekering;  
+j. vergoedingen en verstrekkingen die als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) zijn aangemerkt;  
 
 k. werkgeversdeel premies van vrijwillige sociale verzekeringen;  
 

@@ -59,15 +59,13 @@ Indien een wethouder naast zijn bezoldiging als wethouder, tevens aanspraak heef
 
 ### Artikel  4b  
 
-1.  Voor 1 april van elk jaar of binnen twee maanden na zijn beëdiging verstrekt de wethouder aan Onze Minister, dan wel een door hem aangewezen instantie, een opgave van de neveninkomsten welke hij verwacht over het desbetreffende kalenderjaar of gedeelte daarvan te zullen genieten, dan wel een verklaring, dat hij verwacht niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten over dat jaar of een evenredig deel daarvan over het desbetreffende gedeelte van dat jaar te zullen genieten.   
-2.  Onze Minister, dan wel de door hem aangewezen instantie, deelt het college van burgemeester en wethouders het bedrag van de voorlopige aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de wethouder.   
-3.  De wethouder kan een verklaring inzenden dat een opgave van neveninkomsten achterwege zal blijven. In dit geval, alsmede indien binnen de in het eerste lid bedoelde termijn geen opgave of verklaring is ingezonden, bedraagt de bezoldiging 65% over dat kalenderjaar van de bezoldiging op jaarbasis.   
-4.  Zo spoedig mogelijk na afloop van het kalenderjaar zendt de wethouder of zenden zijn nabestaanden aan Onze Minister, dan wel de door hem aangewezen instantie, een opgave van de neveninkomsten welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat over dat jaar niet meer dan 14% van de bezoldiging op jaarbasis of, indien de wethouder een gedeelte van het kalenderjaar lid van het college van burgemeester en wethouders is geweest, een evenredig deel van dit bedrag, is genoten.   
-5.  Onze Minister, dan wel de door hem aangewezen instantie, deelt het college van burgemeester en wethouders zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring het bedrag van de definitieve aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de wethouder.   
-6.  Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
-7.  De wethouder zendt aan Onze Minister, dan wel de door hem aangewezen instantie, zo spoedig mogelijk tevens een afschrift van de aanslag voor de inkomstenbelasting over het betreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van de wethouder, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
-8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
-9.  Dit artikel is niet van toepassing op de wethouder op wie [artikel 291 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van toepassing is, en de wethouder die zijn ambt in deeltijd vervult.  
+1.  Zo spoedig mogelijk na afloop van het kalenderjaar, verstrekt de wethouder aan Onze Minister dan wel aan een door hem aangewezen instantie: een opgave van de neveninkomsten welke hij over dat kalenderjaar of over een gedeelte daarvan heeft genoten, dan wel een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij het ambt van wethouder vervulde gedurende een gedeelte van het kalenderjaar, een evenredig deel daarvan, dan wel een verklaring dat een opgave van neveninkomsten achterwege zal blijven.   
+2.  In afwijking van het eerste lid, vermindert het college van burgemeester en wethouders op verzoek van de wethouder diens bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee hij verwacht dat zijn bezoldiging zal worden verrekend vanwege zijn neveninkomsten.   
+3.  Onze Minister, dan wel een door hem aangewezen instantie, deelt het college van burgemeester en wethouders het bedrag van de bezoldiging dat teruggevorderd dient te worden, mede en verstrekt een afschrift daarvan aan de wethouder.   
+4.  Het college van burgemeester en wethouders vordert, indien Onze Minister dan wel een door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van de wethouder.   
+5.  Indien de wethouder geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister, dan wel aan een door hem aangewezen instantie. De wethouder meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.   
+6.  In het geval genoemd in het eerste lid, onderdeel c, alsmede indien de wethouder binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring, als bedoeld in het eerste lid, heeft ingezonden, of niet heeft voldaan aan het vijfde lid, stelt het college van burgemeester en wethouders de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij het uit anderen hoofde kan vaststellen tot welk bedrag er verrekend zou moeten worden.   
+7.  Op verzoek van de wethouder kan het college van burgemeester en wethouders besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.  
 
 ### Artikel  5  
 
@@ -121,27 +119,41 @@ De tijdelijke vervanger van de wethouder die verlof heeft wegens zwangerschap en
 
 ### Artikel  11  
 
-De wethouder die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten ter hoogte van de helft van het in artikel 25 bedoelde bedrag. 
+1. De wethouder die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten ter hoogte van de helft van het in artikel 25 bedoelde bedrag.  
+2.  In afwijking van [artikel XI van het Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen](../../../../AMvB/wijzigingsbesluit/rechtspositiebesluit/commissarissen/van/de/koning/enz./etc/BWBR0033575/README.md) (Stb. 2013, 222) werkt het eerste lid niet terug tot en met 3 augustus 2011. 
 
 ### §  2  
 
-####Tegemoetkoming in ziektekosten 
+####Voorzieningen in verband met ziekte, een dienstongeval of een functionele beperking
 
 ### Artikel  20  
 
-1.  In geval van ziekte welke in overwegende mate haar oorzaak vindt:  
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. in de aard van de aan de functie van wethouder verbonden werkzaamheden, of   
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;  
 
-b. in de bijzondere omstandigheden waaronder deze moesten worden verricht, en   
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.     
+2.  De wethouder ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval als bedoeld in het eerste en tweede lid: 
 
-c. niet aan eigen schuld of onvoorzichtigheid is te wijten, kunnen de naar het oordeel van burgemeester en wethouders noodzakelijk gemaakte kosten van geneeskundige behandeling of verzorging, voor zover deze kosten ten laste van de wethouder blijven, aan de wethouder voor rekening van de gemeente worden vergoed.      
-2.   Ter zake van andere schade, voortvloeiende uit de in het eerste lid bedoelde werkzaamheden of omstandigheden, kunnen de nadere voorschriften, zoals deze door het college van burgemeester en wethouders ten aanzien van haar ambtelijk personeel eventueel zijn vastgesteld, van overeenkomstige toepassing worden verklaard op de wethouder in die gemeente.   
+a. voor zover deze kosten ten laste van de wethouder blijven en  
+
+b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kan het college van burgemeester en wethouders bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in de raad.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op de gewezen wethouder.  
 
 ### Artikel  21  
 
 1.  Het college van burgemeester en wethouders kent een wethouder die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
 2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+
+###§ 2a 
+
+####Voorzieningen in verband met bewaken en beveiligen
+
+### Artikel  21a  
+
+Indien het college van burgemeester en wethouders ten behoeve van een veilige woon- en werkplek van een wethouder kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van de gemeente. 
 
 ### §  3  
 
@@ -171,16 +183,8 @@ Indien aan de wethouder een dienstauto ter beschikking is gesteld en hij voor he
 
 ### Artikel  25  
 
-1. De raad kan bij verordening bepalen dat aan een wethouder een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten wordt toegekend tot de maximumbedragen genoemd in volgende tabel:  
-
-| Aantal inwoners gemeente  | maximale onkostenvergoeding per maand  |
-|:---|:---|
-| Tot en met 8.000  | € 138,98  |
-| 8.001–14.000  | € 228,37  |
-| 14.001–18.000  | € 295,43  |
-| 18.001 of meer  | € 322,39  |
-
-2. De bedragen, genoemd in het eerste lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar.
+1.  De wethouder ontvangt een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten ten bedrage van € 345 per maand.   
+2.  Het bedrag genoemd in het eerste lid wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar. 
 
 ### Artikel  26  
 
@@ -221,7 +225,15 @@ c. de onkostenvergoeding, bedoeld in artikel 25, eerste lid;
 
 d. de verstrekkingen, bedoeld in artikel 27a, eerste en derde lid;  
 
-e. de vergoeding, bedoeld in artikel 27a, vierde lid.   
+e. de vergoeding, bedoeld in artikel 27a, vierde lid;  
+
+f. de vergoeding, bedoeld in artikel 28b, eerste en tweede lid.  
+
+### Artikel  28b  
+
+1.  Indien een wethouder in verband met de uitoefening van het ambt lid is van een beroepsvereniging, vergoedt de gemeente de contributie van die beroepsvereniging.   
+2.  De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van het ambt van wethouder komen ten laste van de gemeente.   
+3.  Het college van burgemeester en wethouders kan over de in het tweede lid bedoelde scholing nadere regels stellen.  
 
 ### Hoofdstuk  4  
 
@@ -241,7 +253,7 @@ Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../..
 
 a. wordt op aanvraag door het college van burgemeester en wethouders een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 27a, eerste en derde lid;  
 
-b. worden de bedragen, genoemd in artikel 25, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. wordt het bedrag, genoemd in artikel 25, eerste lid, of de vergoeding, bedoeld in artikel 28b, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
 
 c. bedraagt de vergoeding, bedoeld in artikel 23a, ten hoogste de gebruteerde verschuldigde loon- en inkomstenbelastingvoor het gebruik van de dienstauto;  
 

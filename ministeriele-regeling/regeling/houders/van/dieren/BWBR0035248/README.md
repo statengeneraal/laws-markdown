@@ -347,9 +347,138 @@ b. maatregelen die in het kader van de bedrijfsvoering kunnen worden genomen om 
 
 ### Hoofdstuk  8  
 
-####Bedrijfsmatig houden van dieren die anders dan voor landbouwdoeleinden worden gebruikt
+####Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
 
-(gereserveerd)    
+### Artikel  8.1  
+
+####Definitie
+
+In dit hoofdstuk wordt verstaan onder: 
+
+*aanvrager:* migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), die erkenning van beroepskwalificaties aanvraagt.   
+
+### Artikel  8.2  
+
+####Verschuldigde bedragen
+
+Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) en de melding bedoeld in artikel 3.8, vijfde lid, van het besluit, is jaarlijks een bedrag verschuldigd van € 19,00. 
+
+### Artikel  8.3  
+
+####Inenting hond
+
+1.  Voor zover een hond in een inrichting verblijft, laat de beheerder een hond inenten tegen de volgende ziekten: 
+
+a. Parvovirusinfectie;  
+
+b. de ziekte van Carré en  
+
+c. Hepatitis Contagiosia Canis.     
+2.  Onverminderd het bepaalde in [artikel 2.19, derde lid, onderdeel a, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
+3.  Een hond wordt binnen 7 weken na de geboorte tegen de in het eerste lid, onderdelen a en b, bedoelde ziekten ingeënt, met dien verstande dat, in het geval van verkoop of aflevering, de hond uiterlijk 7 dagen vóór het moment van verkoop of aflevering wordt ingeënt.   
+4.  Voor zover een hond in een inrichting verblijft, laat de beheerder de inenting, bedoeld in het eerste lid, onderdeel c, en de benodigde herhalingsentingen tegen de in het eerste lid bedoelde ziekten plaatsvinden.   
+5.  Indien bij binnenkomst van een hond de vaccinatiestatus onvolledig of onbekend is, laat de beheerder de hond binnen 5 werkdagen tegen de in het eerste lid bedoelde ziekten inenten.   
+6.  Het eerste lid, onder c, is vanaf één jaar na inwerkingtreding van deze regeling van toepassing op honden die op het tijdstip van inwerkingtreding van deze regeling in een inrichting worden gehouden en niet tegen de ziekte, bedoeld in het eerste lid onder c, zijn ingeënt.  
+
+### Artikel  8.4  
+
+####Inentingen kat
+
+1.  Voor zover een kat in een inrichting verblijft, laat de beheerder een kat inenten tegen de volgende ziekten: 
+
+a. Panleucopenievirus en  
+
+b. Feline herpes- en calicivirus.     
+2.  Onverminderd het bepaalde in [artikel 2.19, derde lid, onderdeel a, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
+3.  Een kat wordt binnen 7 weken na de geboorte tegen de in het eerste lid bedoelde ziekten ingeënt, met dien verstande dat, in het geval van verkoop of aflevering, de kat uiterlijk 7 dagen vóór het moment van verkoop of aflevering wordt ingeënt.   
+4.  Voor zover de kat in een inrichting verblijft, laat de beheerder de benodigde herhalingsentingen tegen de in het eerste lid bedoelde ziekten plaatsvinden.   
+5.  Indien bij binnenkomst van een kat de vaccinatiestatus onvolledig of onbekend is, laat de beheerder de kat binnen 5 werkdagen tegen de in het eerste lid bedoelde ziekten inenten.  
+
+### Artikel  8.5  
+
+####Bewijs van inenting
+
+1.  Het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.   
+2.  Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de artikelen 3 en 4 hebben plaatsgevonden en bevat de volgende gegevens: 
+
+– naam en praktijkadres van de dierenarts;  
+
+– de inentingsdatum, het herhalingsinterval en voor zover dat van toepassing is de hiervan gemotiveerde afwijkingen;  
+
+– geslacht van het dier;  
+
+– kleur van het dier;  
+
+– voor zover bekend, ras van het dier;  
+
+– voor zover bekend, geboortedatum van het dier en  
+
+– indien aanwezig, het identificatienummer van de chip of de cijfer- en lettercode van de tatoeage.     
+3.  Met het in het eerste lid bedoelde bewijs van inenting wordt gelijkgesteld een bewijs van inenting dat ingevolge het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) voor desbetreffende hond of kat is afgegeven.  
+
+### Artikel  8.6  
+
+####Diergroepen
+
+De volgende diergroepen, bedoeld in [artikel 3.11, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden onderscheiden: hond en kat, overige zoogdieren, vogels, vissen en herpeten. 
+
+### Artikel  8.7  
+
+####Vermelden diergroep op diploma
+
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md), vermeldt de diergroep, bedoeld in artikel 6 van deze regeling, waarvoor het onderwijs is genoten. 
+
+### Artikel  8.8  
+
+####Erkenning beroepskwalificaties
+
+1.  De artikelen 8.8 tot en met 8.10 van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.   
+2.  Artikel 8.12 van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.  
+
+### Artikel  8.9  
+
+####Aanvraag erkenning beroepskwalificaties
+
+1.  Een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wordt ingediend bij de minister.   
+2.  Bij de aanvraag overlegt de aanvrager: 
+
+a. de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a tot en met c, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en  
+
+b. indien de aanvraag en de documenten, bedoeld in [artikel 13, eerste lid, onderdelen b en c, van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.    
+
+### Artikel  8.10  
+
+####Proeve van bekwaamheid
+
+Indien de aanvrager op grond van [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een proeve van bekwaamheid moet afleggen: 
+
+a. wordt de aanvrager schriftelijk geïnformeerd over de vakken waarop de proeve van bekwaamheid betrekking heeft, over de wijze waarop de proeve van bekwaamheid wordt afgenomen en over de kosten van de proeve;  
+
+b. wordt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk meegedeeld aan de aanvrager.   
+
+### Artikel  8.11  
+
+####Aanpassingsstage
+
+Indien de aanvrager op grond van [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een aanpassingsstage moet doorlopen, wordt de aanvrager schriftelijk medegedeeld: 
+
+a. de vakken waarop de aanpassingsstage betrekking heeft;  
+
+b. de duur van de aanpassingsstage;  
+
+c. in voorkomend geval de aanvullende opleiding die deel uitmaakt van de aanpassingsstage.   
+
+### Artikel  8.12  
+
+####Eerste dienstverrichting
+
+1.  Een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) verstrekt voorafgaand aan de eerste dienstverrichting aan de minister de volgende documenten: 
+
+a. de documenten, bedoeld in [artikel 23, eerste en derde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en  
+
+b. indien de documenten, bedoeld in [artikel 23, eerste en derde lid, onderdelen b, c en d, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.     
+2.  Indien na de controle, bedoeld in [artikel 27 van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), blijkt dat de beroepskwalificaties van dienstverrichter als bedoeld in [artikel 21 van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wezenlijk verschillen van de vereiste opleiding voor de toegang tot uitoefening van het beroep beheerder van een inrichting, legt de dienstverrichter een proeve van bekwaamheid af.  
+
 ### Hoofdstuk  9  
 
 ####Overige bepalingen

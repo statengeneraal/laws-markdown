@@ -21,7 +21,7 @@ b.  *stichting:* Stichting Nederlands Onderwijs in het Buitenland (Stichting NOB
 
 c.  *toezichthouder:* Inspectie van het Onderwijs, door de minister aangewezen op grond van [artikel 10 van de Wet overige OCW-subsidies](../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);  
 
-d.  *onderwijsvoorziening:* in het buitenland gevestigde Nederlandse school, Nederlandse afdeling van een school in het buitenland waar volledig basisonderwijs, volledig voortgezet onderwijs, Nederlandse Taal en Cultuur-primair onderwijs of Nederlandse Taal en Cultuur-voortgezet onderwijs wordt gegeven;  
+d.  *onderwijsvoorziening:* in het buitenland gevestigde Nederlandse school, Nederlandse afdeling van een school in het buitenland waar volledig basisonderwijs, volledig voortgezet onderwijs, Nederlandse Taal en Cultuur-primair onderwijs of Nederlandse Taal en Cultuur-voortgezet onderwijs wordt gegeven en voorziening voor onderwijs op afstand via schriftelijke, telefonische en elektronische media;  
 
 e.  *raamschoolplan:* model van een schoolplan voor hetzij volledig basisonderwijs of volledig voortgezet onderwijs, hetzij Nederlandse Taal en Cultuur-primair onderwijs, hetzij Nederlandse Taal en Cultuur-voortgezet onderwijs, vastgesteld door de stichting na goedkeuring door de toezichthouder;  
 

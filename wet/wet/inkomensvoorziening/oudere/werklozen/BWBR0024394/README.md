@@ -673,6 +673,22 @@ d. de [Vakantieregeling WW](../../../../../../ministeriele-regeling/vakantierege
 1.  De verplichtingen die zijn opgenomen in de re-integratievisie en het re-integratieplan zoals die zijn opgesteld voor de dag waarop artikel III, onderdeel A, van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies inwerking is getreden blijven van toepassing op de aanvrager en de uitkeringsgerechtigde.   
 2.  Dit artikel vervalt vijf jaar na de dag waarop artikel III, onderdeel A, van de Wet van 21 mei 2012 tot wijziging van de Wet Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.  
 
+### Artikel  48c  
+
+####Overgangsbepaling in verband met wijzigingen in de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+
+Vervalt per 01-01-2027 
+
+Ten aanzien van de persoon wiens eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van [artikel XXXII, onderdeel C, van de Wet werk en zekerheid](../../../../../../wet/wet/werk/en/zekerheid/BWBR0035254/README.md) blijft artikel 10 van toepassing zoals dat luidde op de dag voor die inwerkingtreding. 
+
+### Artikel  48d  
+
+####Overgangsbepaling in verband met wijzigingen in de [Wet Werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
+
+Vervalt per 01-01-2027 
+
+Ten aanzien van de persoon wiens recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is ontstaan voor de dag van inwerkingtreding van [artikel XXXII, onderdeel C, van de Wet werk en zekerheid](../../../../../../wet/wet/werk/en/zekerheid/BWBR0035254/README.md) blijft artikel 10 van toepassing zoals dat luidde op de dag voor die inwerkingtreding. 
+
 ### Artikel  49  
 
 ####Evaluatie

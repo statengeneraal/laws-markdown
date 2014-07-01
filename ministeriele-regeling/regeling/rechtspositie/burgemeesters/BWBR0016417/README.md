@@ -12,10 +12,6 @@ Besluit:
 2.  De aanleg- en abonnementskosten van de internetverbinding ten behoeve van het gebruik van de computer komen ten laste van de gemeente.   
 3.  Het college van burgemeester en wethouders stelt het model van een bruikleenovereenkomst vast.  
 
-### Artikel  2  
-
-De in [artikel 30, vierde lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) bedoelde vergoeding voor het gebruik van de privé-telefoon bedraagt € 12,– bruto per maand. 
-
 ### Artikel  3  
 
 1.  De verhuiskostenvergoeding, bedoeld in [artikel 31, eerste en derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), betreft het bedrag van: 
@@ -25,6 +21,7 @@ a. de kosten voor het transport van de bagage en de inboedel van de betrokkene e
 b. andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van inrichting van de woning en tijdelijke opslag, tot een maximum van € 5.818,46.     
 2.  Kosten in verband met de aan- of verkoop van een woning en verbouwingskosten worden niet aangemerkt als kosten als bedoeld in het eerste lid.   
 3.  Het recht op de vergoeding, bedoeld in het eerste lid, vervalt indien de verhuizing niet heeft plaatsgevonden binnen twee jaar na de dag waarop de benoeming als burgemeester ingaat.  
+4. Het derde lid is niet van toepassing op degene die met de waarneming van het ambt van burgemeester is belast op grond van [artikel 78, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md).
 
 ### Artikel  3a  
 
@@ -66,6 +63,7 @@ b. bij gebruik van een eigen personenauto, een bedrag van € 0,15 per afgelegd
 4.  Er bestaat geen aanspraak op vergoeding van pensionkosten als bedoeld in het eerste lid, onder a, ingeval er aanspraak kan worden gemaakt op de tegemoetkoming, bedoeld in artikel 3a, eerste lid.   
 5.  Onder de kosten voor het gebruik van het openbaar vervoer, bedoeld in het eerste en tweede lid, worden verstaan de kosten van voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.   
 6.  Het recht op de vergoeding, bedoeld in het eerste en tweede lid, vervalt een jaar na de dag waarop de benoeming als burgemeester ingaat. 
+7. Het zesde lid is niet van toepassing op de degene die met de waarneming van het ambt van burgemeester is belast op grond van [artikel 78, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md).
 
 ### Artikel  5  
 
@@ -76,6 +74,7 @@ a. de kosten voor het gebruik van het openbaar vervoer, bedoeld in artikel 4, vi
 b. bij gebruik van een eigen personenauto een bedrag van € 0,15 per afgelegde kilometer.   
 2.  In afwijking van het eerste lid, onderdeel b, geldt voor een waarnemend burgemeester een bedrag van € 0,28 per afgelegde kilometer.  
 3.  De vergoeding, bedoeld in het eerste lid, wordt uitsluitend toegekend indien de woonplaats van de burgemeester is gelegen binnen de gemeente waarin hij is benoemd als burgemeester, met uitzondering van het eerste jaar voor zover de raad ontheffing heeft verleend van het vereiste van ingezetenschap, bedoeld in [artikel 71, tweede lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md). 
+4. Het derde lid is niet van toepassing op degene die met de waarneming van het ambt van burgemeester is belast op grond van [artikel 78, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md).
 
 ### Artikel  6  
 
@@ -123,11 +122,9 @@ Het declareren van de kosten geschiedt onder overlegging van bewijsstukken.
 
 a. ontvangt de burgemeester ten laste van de gemeente op aanvraag per jaar een tegemoetkoming van 30% van de aanschafwaarde voor de periode van maximaal drie jaar voor zover er sprake is van een belastingheffing in verband met ten laste van de gemeente ter beschikking gestelde computerapparatuur, bijbehorende apparatuur en software, dan wel communicatieapparatuur als bedoeld in [artikel 30, eerste en derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md);  
 
-b. wordt in artikel 2 voor ‘€ 12’ gelezen: € 25;  
+b. wordt in de artikelen 5, tweede lid, en 6, derde en zesde lid, voor ‘€ 0,28’ gelezen: € 0,37;  
 
-c. wordt in de artikelen 5, tweede lid, en 6, derde en zesde lid, voor ‘€ 0,28’ gelezen: € 0,37;  
-
-d. worden de bedragen, genoemd in artikel 6, tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
+c. worden de bedragen, genoemd in artikel 6, tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).     
 2.  Indien [artikel 39c van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt toegepast, kan de burgemeester op aanvraag aanspraak maken op saldering van reiskosten voor zakelijke reizen overeenkomstig de regeling voor gemeentelijk personeel. Indien geen regeling als bedoeld in de vorige zin is vastgesteld, kan de burgemeester op aanvraag aanspraak maken op een vergoeding als bedoeld in [artikel 4a van de Reisregeling binnenland](../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) en [artikel 2a van de Reisregeling buitenland](../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md).  
 
 ### Artikel  9  

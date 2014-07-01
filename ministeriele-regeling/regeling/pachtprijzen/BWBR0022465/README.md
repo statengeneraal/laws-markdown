@@ -23,9 +23,9 @@ b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbes
 
 Met betrekking tot pachtovereenkomsten voor tuinland: 
 
-a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.347,– en in de Rest van Nederland € 755,–;  
+a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.818,– en in de Rest van Nederland € 727,–;  
 
-b. is het percentage, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland –12% en in de Rest van Nederland –20%.   
+b. is het percentage, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 35% en in de Rest van Nederland –4%.   
 
 ### Artikel  3  
 
@@ -40,7 +40,7 @@ c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbe
 ### Artikel  4  
 
 1.  De hoogst toelaatbare pachtprijs per hectare van een overeenkomst voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in [artikel 16, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) komt overeen met de bedragen, genoemd in de tabel, opgenomen in bijlage 2A.   
-2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 2%. 
+2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 1,2%. 
 
 ### Hoofdstuk  2  
 
@@ -93,47 +93,47 @@ G. Verburg
 
 ####Hoogst toelaatbare pachtprijs voor land zonder woningen of andere opstallen
 
-### A 
+### A  
 
 ####pachtovereenkomsten die worden aangegaan op of na 1 september 2007
 
 | Pachtprijsgebied  | Hoogst toelaatbare pachtprijs per hectare per jaar  |
 |:---|:---|
-| Bouwhoek en Hogeland  | € 633,–  |
-| Veenkoloniën en Oldambt  | € 522,–  |
-| Noordelijk weidegebied  | € 693,–  |
-| Oostelijk veehouderijgebied  | € 573,–  |
-| Centraal veehouderijgebied  | € 527,–  |
-| IJsselmeerpolders  | € 786,–  |
-| Westelijk Holland  | € 462,–  |
-| Waterland en Droogmakerijen  | € 373,–  |
-| Hollands/Utrechts weidegebied  | € 722,–  |
-| Rivierengebied  | € 823,–  |
-| Zuidwestelijk akkerbouwgebied  | € 522,–  |
-| Zuidwest-Brabant  | € 583,–  |
-| Zuidelijk veehouderijgebied  | € 671,–  |
-| Zuid-Limburg  | € 751,–  |
+| Bouwhoek en Hogeland  | € 604,–  |
+| Veenkoloniën en Oldambt  | € 575,–  |
+| Noordelijk weidegebied  | € 652,–  |
+| Oostelijk veehouderijgebied  | € 527,–  |
+| Centraal veehouderijgebied  | € 497,–  |
+| IJsselmeerpolders  | € 941,–  |
+| Westelijk Holland  | € 542,–  |
+| Waterland en Droogmakerijen  | € 315,–  |
+| Hollands/Utrechts weidegebied  | € 708,–  |
+| Rivierengebied  | € 760,–  |
+| Zuidwestelijk akkerbouwgebied  | € 638,–  |
+| Zuidwest-Brabant  | € 607,–  |
+| Zuidelijk veehouderijgebied  | € 645,–  |
+| Zuid-Limburg  | € 854,–  |
 
-### B 
+### B  
 
 ####Percentage waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd
 
 | Pachtprijsgebied  | Veranderpercentage  |
 |:---|:---|
-| Bouwhoek en Hogeland  | –11  |
-| Veenkoloniën en Oldambt  | 9  |
-| Noordelijk weidegebied  | 15  |
-| Oostelijk veehouderijgebied  | 5  |
-| Centraal veehouderijgebied  | –15  |
-| IJsselmeerpolders  | –28  |
-| Westelijk Holland  | –10  |
-| Waterland en Droogmakerijen  | –4  |
-| Hollands/Utrechts weidegebied  | 24  |
-| Rivierengebied  | 11  |
-| Zuidwestelijk akkerbouwgebied  | –30  |
-| Zuidwest-Brabant  | –6  |
-| Zuidelijk veehouderijgebied  | 6  |
-| Zuid-Limburg  | 5  |
+| Bouwhoek en Hogeland  | –5  |
+| Veenkoloniën en Oldambt  | 10  |
+| Noordelijk weidegebied  | –6  |
+| Oostelijk veehouderijgebied  | –8  |
+| Centraal veehouderijgebied  | –6  |
+| IJsselmeerpolders  | 20  |
+| Westelijk Holland  | 17  |
+| Waterland en Droogmakerijen  | –16  |
+| Hollands/Utrechts weidegebied  | –2  |
+| Rivierengebied  | –8  |
+| Zuidwestelijk akkerbouwgebied  | 22  |
+| Zuidwest-Brabant  | 4  |
+| Zuidelijk veehouderijgebied  | –4  |
+| Zuid-Limburg  | 14  |
 
 ### Bijlage 2 
 
@@ -145,49 +145,49 @@ G. Verburg
 
 | Bedragen in euro’s  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 40  | 172,80  | 82  | 355,13  | 124  | 555,88  | 166  | 756,61  | 208  | 957,33  |
-| 41  | 177,11  | 83  | 359,91  | 125  | 560,66  | 167  | 761,40  | 209  | 962,13  |
-| 42  | 181,45  | 84  | 364,69  | 126  | 565,43  | 168  | 766,16  | 210  | 966,92  |
-| 43  | 185,77  | 85  | 369,47  | 127  | 570,22  | 169  | 770,95  | 211  | 971,67  |
-| 44  | 190,07  | 86  | 374,25  | 128  | 575,00  | 170  | 775,71  | 212  | 976,46  |
-| 45  | 194,40  | 87  | 379,03  | 129  | 579,78  | 171  | 780,51  | 213  | 981,24  |
-| 46  | 198,73  | 88  | 383,81  | 130  | 584,56  | 172  | 785,28  | 214  | 986,02  |
-| 47  | 203,04  | 89  | 388,58  | 131  | 589,33  | 173  | 790,07  | 215  | 990,80  |
-| 48  | 207,37  | 90  | 393,38  | 132  | 594,11  | 174  | 794,82  | 216  | 995,59  |
-| 49  | 211,68  | 91  | 398,15  | 133  | 598,91  | 175  | 799,63  | 217  | 1000,36  |
-| 50  | 216,00  | 92  | 402,93  | 134  | 603,67  | 176  | 804,38  | 218  | 1005,13  |
-| 51  | 220,31  | 93  | 407,71  | 135  | 608,46  | 177  | 809,19  | 219  | 1009,92  |
-| 52  | 224,64  | 94  | 412,48  | 136  | 613,22  | 178  | 813,96  | 220  | 1014,71  |
-| 53  | 228,96  | 95  | 417,26  | 137  | 618,02  | 179  | 818,74  | 221  | 1019,47  |
-| 54  | 233,28  | 96  | 422,06  | 138  | 622,77  | 180  | 823,51  | 222  | 1024,27  |
-| 55  | 237,60  | 97  | 426,81  | 139  | 627,57  | 181  | 828,31  | 223  | 1029,04  |
-| 56  | 241,93  | 98  | 431,60  | 140  | 632,35  | 182  | 833,07  | 224  | 1033,81  |
-| 57  | 246,23  | 99  | 436,39  | 141  | 637,13  | 183  | 837,87  | 225  | 1038,61  |
-| 58  | 250,56  | 100  | 441,15  | 142  | 641,89  | 184  | 842,63  | 226  | 1043,38  |
-| 59  | 254,87  | 101  | 445,94  | 143  | 646,69  | 185  | 847,42  | 227  | 1048,15  |
-| 60  | 259,22  | 102  | 450,73  | 144  | 651,46  | 186  | 852,19  | 228  | 1052,95  |
-| 61  | 263,52  | 103  | 455,50  | 145  | 656,24  | 187  | 856,98  | 229  | 1057,71  |
-| 62  | 267,83  | 104  | 460,28  | 146  | 661,03  | 188  | 861,76  | 230  | 1062,48  |
-| 63  | 272,14  | 105  | 465,06  | 147  | 665,79  | 189  | 866,55  | 231  | 1067,28  |
-| 64  | 276,46  | 106  | 469,85  | 148  | 670,57  | 190  | 871,32  | 232  | 1072,05  |
-| 65  | 280,78  | 107  | 474,62  | 149  | 675,38  | 191  | 876,10  | 233  | 1076,83  |
-| 66  | 285,11  | 108  | 479,41  | 150  | 680,13  | 192  | 880,87  | 234  | 1081,60  |
-| 67  | 289,42  | 109  | 484,18  | 151  | 684,92  | 193  | 885,66  | 235  | 1086,39  |
-| 68  | 293,73  | 110  | 488,94  | 152  | 689,70  | 194  | 890,44  | 236  | 1091,17  |
-| 69  | 298,07  | 111  | 493,74  | 153  | 694,47  | 195  | 895,22  | 237  | 1095,95  |
-| 70  | 302,37  | 112  | 498,52  | 154  | 699,25  | 196  | 899,99  | 238  | 1100,73  |
-| 71  | 306,71  | 113  | 503,29  | 155  | 704,04  | 197  | 904,77  | 239  | 1105,51  |
-| 72  | 311,02  | 114  | 508,08  | 156  | 708,81  | 198  | 909,56  | 240  | 1110,27  |
-| 73  | 315,35  | 115  | 512,86  | 157  | 713,60  | 199  | 914,34  | 241  | 1115,07  |
-| 74  | 319,65  | 116  | 517,62  | 158  | 718,37  | 200  | 919,11  | 242  | 1119,84  |
-| 75  | 323,99  | 117  | 522,42  | 159  | 723,15  | 201  | 923,90  | 243  | 1124,62  |
-| 76  | 328,29  | 118  | 527,19  | 160  | 727,92  | 202  | 928,67  | 244  | 1129,41  |
-| 77  | 332,62  | 119  | 531,97  | 161  | 732,72  | 203  | 933,44  | 245  | 1134,18  |
-| 78  | 336,95  | 120  | 536,75  | 162  | 737,49  | 204  | 938,24  | 246  | 1138,95  |
-| 79  | 341,27  | 121  | 541,53  | 163  | 742,26  | 205  | 942,99  | 247  | 1143,74  |
-| 80  | 345,58  | 122  | 546,31  | 164  | 747,05  | 206  | 947,79  | 248  | 1148,52  |
-| 81  | 350,35  | 123  | 551,10  | 165  | 751,82  | 207  | 952,57  | 249  | 1153,29  |
-| --- | --- | --- | --- | --- | --- | --- | --- | 250  | 1158,07  |
+| 40  | 177,12  | 82  | 364,01  | 124  | 569,78  | 166  | 775,53  | 208  | 981,27  |
+| 41  | 181,54  | 83  | 368,91  | 125  | 574,68  | 167  | 780,44  | 209  | 986,19  |
+| 42  | 185,99  | 84  | 373,81  | 126  | 579,57  | 168  | 785,32  | 210  | 991,10  |
+| 43  | 190,42  | 85  | 378,71  | 127  | 584,48  | 169  | 790,23  | 211  | 995,97  |
+| 44  | 194,83  | 86  | 383,61  | 128  | 589,38  | 170  | 795,11  | 212  | 1000,88  |
+| 45  | 199,26  | 87  | 388,51  | 129  | 594,28  | 171  | 800,03  | 213  | 1005,78  |
+| 46  | 203,70  | 88  | 393,41  | 130  | 599,18  | 172  | 804,92  | 214  | 1010,68  |
+| 47  | 208,12  | 89  | 398,30  | 131  | 604,07  | 173  | 809,83  | 215  | 1015,57  |
+| 48  | 212,56  | 90  | 403,22  | 132  | 608,97  | 174  | 814,70  | 216  | 1020,48  |
+| 49  | 216,98  | 91  | 408,11  | 133  | 613,89  | 175  | 819,63  | 217  | 1025,37  |
+| 50  | 221,40  | 92  | 413,01  | 134  | 618,77  | 176  | 824,49  | 218  | 1030,26  |
+| 51  | 225,82  | 93  | 417,91  | 135  | 623,68  | 177  | 829,42  | 219  | 1035,17  |
+| 52  | 230,26  | 94  | 422,80  | 136  | 628,56  | 178  | 834,31  | 220  | 1040,08  |
+| 53  | 234,69  | 95  | 427,70  | 137  | 633,48  | 179  | 839,21  | 221  | 1044,96  |
+| 54  | 239,12  | 96  | 432,62  | 138  | 638,34  | 180  | 844,10  | 222  | 1049,88  |
+| 55  | 243,54  | 97  | 437,49  | 139  | 643,26  | 181  | 849,02  | 223  | 1054,77  |
+| 56  | 247,98  | 98  | 442,39  | 140  | 648,16  | 182  | 853,90  | 224  | 1059,66  |
+| 57  | 252,39  | 99  | 447,30  | 141  | 653,06  | 183  | 858,82  | 225  | 1064,58  |
+| 58  | 256,83  | 100  | 452,18  | 142  | 657,94  | 184  | 863,70  | 226  | 1069,47  |
+| 59  | 261,25  | 101  | 457,09  | 143  | 662,86  | 185  | 868,61  | 227  | 1074,36  |
+| 60  | 265,71  | 102  | 462,00  | 144  | 667,75  | 186  | 873,50  | 228  | 1079,28  |
+| 61  | 270,11  | 103  | 466,89  | 145  | 672,65  | 187  | 878,41  | 229  | 1084,16  |
+| 62  | 274,53  | 104  | 471,79  | 146  | 677,56  | 188  | 883,31  | 230  | 1089,05  |
+| 63  | 278,95  | 105  | 476,69  | 147  | 682,44  | 189  | 888,22  | 231  | 1093,97  |
+| 64  | 283,38  | 106  | 481,60  | 148  | 687,34  | 190  | 893,11  | 232  | 1098,86  |
+| 65  | 287,80  | 107  | 486,49  | 149  | 692,27  | 191  | 898,01  | 233  | 1103,76  |
+| 66  | 292,24  | 108  | 491,40  | 150  | 697,14  | 192  | 902,90  | 234  | 1108,64  |
+| 67  | 296,66  | 109  | 496,29  | 151  | 702,05  | 193  | 907,81  | 235  | 1113,55  |
+| 68  | 301,08  | 110  | 501,17  | 152  | 706,95  | 194  | 912,71  | 236  | 1118,45  |
+| 69  | 305,53  | 111  | 506,09  | 153  | 711,84  | 195  | 917,61  | 237  | 1123,35  |
+| 70  | 309,93  | 112  | 510,99  | 154  | 716,74  | 196  | 922,49  | 238  | 1128,25  |
+| 71  | 314,38  | 113  | 515,88  | 155  | 721,65  | 197  | 927,39  | 239  | 1133,15  |
+| 72  | 318,80  | 114  | 520,79  | 156  | 726,54  | 198  | 932,30  | 240  | 1138,03  |
+| 73  | 323,24  | 115  | 525,69  | 157  | 731,44  | 199  | 937,20  | 241  | 1142,95  |
+| 74  | 327,65  | 116  | 530,57  | 158  | 736,33  | 200  | 942,09  | 242  | 1147,84  |
+| 75  | 332,09  | 117  | 535,49  | 159  | 741,23  | 201  | 947,00  | 243  | 1152,74  |
+| 76  | 336,50  | 118  | 540,37  | 160  | 746,12  | 202  | 951,89  | 244  | 1157,65  |
+| 77  | 340,94  | 119  | 545,27  | 161  | 751,04  | 203  | 956,78  | 245  | 1162,54  |
+| 78  | 345,38  | 120  | 550,17  | 162  | 755,93  | 204  | 961,70  | 246  | 1167,43  |
+| 79  | 349,81  | 121  | 555,07  | 163  | 760,82  | 205  | 966,57  | 247  | 1172,34  |
+| 80  | 354,22  | 122  | 559,97  | 164  | 765,73  | 206  | 971,49  | 248  | 1177,24  |
+| 81  | 359,11  | 123  | 564,88  | 165  | 770,62  | 207  | 976,39  | 249  | 1182,13  |
+| --- | --- | --- | --- | --- | --- | --- | --- | 250  | 1187,03  |
 
 #### *B. Puntenstelsel agrarische woningen* 
 
@@ -288,9 +288,9 @@ Hoogst toelaatbare pachtprijs per hectare voor de bedrijfsgebouwen
 
 | Aard van het bedrijf  | Doelmatigheid  |--- | Nieuw  | Zeer goed  | Goed  | Redelijk  | Matig  | Slecht  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Akkerbouw  | € 455,–  | € 358,–  | € 273,–  | € 201,–  | € 140,–  | € 81,–  |
-| Melkvee  | € 1.168,–  | € 919,–  | € 702,–  | € 515,–  | € 359,–  | € 206,–  |
-| Overig  | € 703,–  | € 554,–  | € 422,–  | € 310,–  | € 216,–  | € 124,–  |
+| Akkerbouw  | € 460,–  | € 362,–  | € 276,–  | € 203,–  | € 142,–  | € 82,–  |
+| Melkvee  | € 1.182,–  | € 930,–  | € 710,–  | € 521,–  | € 363,–  | € 208,–  |
+| Overig  | € 711,–  | € 561,–  | € 427,–  | € 314,–  | € 219,–  | € 125,–  |
 
 ### Bijlage 3 
 

@@ -223,7 +223,7 @@ H.G.J. Kamp.
 | Artikel 62  | 4  |
 | Artikel 63  | 2  |
 
-| Besluit houders van dieren  | Categorie  |
+| [Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md)  | Categorie  |
 |:---|:---|
 | Artikel 1.6, eerste tot en met vierde lid  | 2  |
 | Artikel 1.7, onderdelen a tot en met g  | 2  |
@@ -315,7 +315,7 @@ H.G.J. Kamp.
 | Artikel 6.7  | 2  |
 | Artikel 6.8  | 2  |
 
-| Regeling houders van dieren  |--- |
+| [Regeling houders van dieren](../../../../../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md)  |--- |
 |:---|:---|
 | Artikel 3.1, eerste, derde en vierde lid  | 3  |
 | Artikel 4.8, voor zover dat artikel betrekking heeft op de artikelen 3, 4, 5, 6, 7, 8, 9 en 12 alsmede Bijlagen I, II en IV, voor zover genoemd in de genoemde artikelen, van verordening (EG) nr. 1/2005  | 2  |
@@ -331,4 +331,30 @@ H.G.J. Kamp.
 | Artikel 6.8, tweede lid  | 2  |
 | Artikel 6.9, derde lid  | 2  |
 | Artikel 9.2  | 3  |
+
+| [Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md)  | Categorie  |
+|:---|:---|
+| Artikel 3.4, eerste tot en met vierde lid  | 2  |
+| Artikel 3.8, eerste tot en met derde lid  | 1  |
+| Artikel 3.8, vierde en vijfde lid  | 2  |
+| Artikel 3.9, eerste en tweede lid  | 1  |
+| Artikel 3.10, eerste tot en met derde lid  | 2  |
+| Artikel 3.11, eerste tot en met vierde lid  | 2  |
+| Artikel 3.12, eerste en tweede lid  | 2  |
+| Artikel 3.13, eerste tot en met vijfde lid  | 2  |
+| Artikel 3.14, eerste lid  | 2  |
+| Artikel 3.14, tweede lid  | 3  |
+| Artikel 3.14, vierde tot en met zesde lid  | 2  |
+| Artikel 3.16  | 2  |
+| Artikel 3.17, eerste lid  | 2  |
+| Artikel 3.18  | 2  |
+| Artikel 3.19  | 2  |
+| Artikel 3.20  | 2  |
+| Artikel 3.21  | 2  |
+| Artikel 3.22  | 2  |
+| Artikel 3.23  | 2  |
+| Regeling houders van dieren  | --- |
+| Artikel 8.3, eerste tot en met zesde lid  | 2  |
+| Artikel 8.4, eerste tot en met vijfde lid  | 2  |
+| Artikel 8.5, eerste tot en met derde lid  | 2  |
 

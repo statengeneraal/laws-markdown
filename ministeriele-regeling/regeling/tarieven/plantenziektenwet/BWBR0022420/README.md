@@ -448,15 +448,15 @@ b. ten behoeve van de monsterneming, uitgevoerd door de keurmeester, € 1,30 p
 
 c. ten behoeve van het vervoer van grondmonsters naar het laboratorium, € 17,50 per rit, en  
 
-d. ten behoeve van het laboratoriumonderzoek van de grondmonsters, € 51,30 per geanalyseerd grondmonster.   
+d. ten behoeve van het laboratoriumonderzoek van de grondmonsters, € 54,00 per geanalyseerd grondmonster.   
 
 ### Artikel  26b  
 
 Indien ten behoeve van een in artikel 20 voor export bestemde zending laboratoriumonderzoek noodzakelijk is, worden boven de in dat artikel genoemde vergoeding de volgende tarieven in rekening gebracht: 
 
-a. voor gecombineerd onderzoek naar het Arabis mosaic virus (ArMV) en het Strawberry latent ringspot virus (SLRSV), een bedrag van € 172,15 per monster;  
+a. voor gecombineerd onderzoek naar het Arabis mosaic virus (ArMV) en het Strawberry latent ringspot virus (SLRSV), een bedrag van € 154,95 per monster;  
 
-b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag van € 155,65 per monster.   
+b. voor onderzoek naar het Strawberry latent ringspot virus (SLRSV), een bedrag van € 140,00 per monster.   
 
 ### §  4.3  
 

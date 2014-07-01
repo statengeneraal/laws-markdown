@@ -86,6 +86,11 @@ c. een bedrag van tien procent van de jaarlijkse bezoldiging voor alle andere di
 2. De Rijksvertegenwoordiger heeft aanspraak op een vergoeding van kosten voor woon-werkverkeer. 
 3.  Bij ministeriële regeling worden regels gesteld over de hoogte van de vergoeding en de voorwaarden voor de aanspraak.  
 
+### Artikel  7a  
+Treedt in werking per 15-10-2014 
+
+Indien aan de Rijksvertegenwoordiger een dienstauto ter beschikking is gesteld en hij voor het gebruik van deze dienstauto loon- en inkomstenbelasting is verschuldigd, kan Onze Minister bepalen dat deze belastingheffing aan de Rijksvertegenwoordiger wordt vergoed. De vergoeding betreft ten hoogste de verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto. 
+
 ### Artikel  8  
 
 1.  Voor het bewonen van een ambtswoning wordt op de bezoldiging een korting toegepast van 18%.   
@@ -114,6 +119,34 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 ####Voorzieningen in verband met ziekte
 
 In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in artikel 2, eerste lid. 
+
+### Artikel  10a*  
+
+####Voorzieningen in verband met ziekte of een dienstongeval
+
+Treedt in werking per 15-10-2014 
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;  
+
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.     
+2.  De Rijksvertegenwoordiger ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval: 
+
+a. voor zover deze kosten ten laste van de Rijksvertegenwoordiger blijven en  
+
+b. voor zover deze ziekte of dit dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kan Onze Minister bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn ontslag is dit artikel van overeenkomstige toepassing op de gewezen Rijksvertegenwoordiger.  
+
+### Artikel  10b  
+
+####Voorzieningen in verband met bewaken en beveiligen
+
+Treedt in werking per 15-10-2014 
+
+Indien Onze Minister ten behoeve van een veilige woon- en werkplek van de Rijksvertegenwoordiger kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het Rijk. 
 
 ### Artikel  10a  
 

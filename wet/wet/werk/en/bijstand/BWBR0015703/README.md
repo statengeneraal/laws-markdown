@@ -469,18 +469,18 @@ b. er geen in aanmerking te nemen vermogen is.
 
 1.  Voor belanghebbenden jonger dan 21 jaar zonder ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande van 18, 19 of 20 jaar: € 230,98 per 1 januari 2014: € 234,01;  
+a. een alleenstaande van 18, 19 of 20 jaar: € 230,98 per 1 juli 2014: € 234,88;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 461,96 per 1 januari 2014: € 468,02;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 461,96 per 1 juli 2014: € 469,76;  
 
-c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 899,42 per 1 januari 2014: € 911,28.     
+c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 899,42 per 1 juli 2014: € 914,63.     
 2.  Voor belanghebbenden jonger dan 21 jaar met een of meer ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande ouder van 18, 19 of 20 jaar: € 498,35 per 1 januari 2014: € 504,92;  
+a. een alleenstaande ouder van 18, 19 of 20 jaar: € 498,35 per 1 juli 2014: € 506,78;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 729,33 per 1 januari 2014: € 738,93;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 729,33 per 1 juli 2014: € 741,66;  
 
-c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1 166,79 per 1 januari 2014: € 1.182,19.   
+c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1 166,79 per 1 juli 2014: € 1.186,53.   
 
 ### Artikel  21  
 
@@ -488,11 +488,11 @@ c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot
 
 Voor belanghebbenden van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande: € 668,44 per 1 januari 2014: € 677,27;  
+a. een alleenstaande: € 668,44 per 1 juli 2014: € 679,75;  
 
-b. een alleenstaande ouder: € 935,81 per 1 januari 2014: € 948,18;  
+b. een alleenstaande ouder: € 935,81 per 1 juli 2014: € 951,64;  
 
-c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1 336,87 per 1 januari 2014: € 1.354,54.  
+c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1 336,87 per 1 juli 2014: € 1.359,49.  
 
 ### Artikel  22  
 
@@ -500,13 +500,13 @@ c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde lee
 
 Voor belanghebbenden die de pensioengerechtigde leeftijd hebben bereikt is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande: € 1 026,66 per 1 januari 2014: € 1.040,16;  
+a. een alleenstaande: € 1 026,66 per 1 juli 2014: € 1.044,01;  
 
-b. een alleenstaande ouder: € 1 291,99 per 1 januari 2014: € 1.308,98;  
+b. een alleenstaande ouder: € 1 291,99 per 1 juli 2014: € 1.313,82;  
 
-c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 januari 2014: € 1.431,72;  
+c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 juli 2014: € 1.437,02;  
 
-d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2014: € 1.431,72.  
+d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2014: € 1.437,02.  
 
 ### Artikel  23  
 
@@ -514,9 +514,9 @@ d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 januari 2014: € 300,15;  
+a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 januari 2014: € 301,26;  
 
-b. gehuwden: € 460,93 per 1 januari 2014: € 466,85.     
+b. gehuwden: € 460,93 per 1 januari 2014: € 468,58.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
 a. voor een alleenstaande of een alleenstaande ouder € 49,00 per 1 januari 2014: € 39,00;  
@@ -539,7 +539,7 @@ Indien een van de gehuwden geen recht op algemene bijstand heeft, is voor de rec
 ####Alleenstaande (ouder)
 
 1.  Het college verhoogt de norm, bedoeld in artikel 21, onderdelen a en b, met een toeslag voorzover de belanghebbende hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander. Deze kosten kunnen in ieder geval niet geheel of gedeeltelijk gedeeld worden met thuisinwonende kinderen van 18 jaar of ouder die een in aanmerking te nemen inkomen hebben van ten hoogste het normbedrag voor de kosten van levensonderhoud voor hoger onderwijs, genoemd in [artikel 3.18 van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 januari 2014: € 270,91 per kalendermaand.  
+2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 juli 2014: € 271,90 per kalendermaand.  
 
 ### Artikel  26  
 
@@ -608,7 +608,7 @@ h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen 
 
 i. rente ontvangen over op grond van artikel 34, tweede lid, onderdelen b en c, niet in aanmerking genomen vermogen en spaargelden;  
 
-j.een een- of tweemalige premie van ten hoogste € 1984,00 per 1 januari 2014: € 2.305,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
+j.een een- of tweemalige premie van ten hoogste € 1984,00 per 1 juli 2014: € 2.312,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling; 
 
 k.een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste een bij ministeriële regeling vast te stellen bedrag; 
 
@@ -616,7 +616,7 @@ l. bij ministeriële regeling aan te wijzen uitkeringen en vergoedingen voor mat
 
 m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade voorzover deze naar het oordeel van het college uit een oogpunt van bijstandsverlening verantwoord zijn;  
 
-n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 januari 2014: €193,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
+n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 juli 2014: €194,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
 o. de ten behoeve van een levensloopregeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij een uitvoerder als bedoeld in [artikel 19g, derde lid, van die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals dit artikellid op 31 december 2011 luidde opgebouwde voorziening; 
 
@@ -624,7 +624,7 @@ p. een tegemoetkoming als bedoeld in [artikel 29a van de Algemene nabestaandenwe
 
 q.een uitkering als bedoeld in [artikel 118a, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of een tegemoetkoming als bedoeld in [artikel 2:52](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:10 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);
 
-r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 120,00 per 1 januari 2014: €120,89 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
+r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 120,00 per 1 juli 2014: €121,29 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
 
 1°. hij de volledige zorg heeft voor een tot zijn last komend kind tot 12 jaar,  
 
@@ -780,7 +780,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ####Netto minimumloon en consumentenprijsindex
 
 1. In deze paragraaf wordt onder netto minimumloon verstaan het minimumloon per maand, genoemd in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), verhoogd met de aanspraak op vakantiebijslag waarop een werknemer op grond van [artikel 15 van die wet](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) over dat minimumloon ten minste aanspraak kan maken, na aftrek van de daarvan in te houden loonbelasting en premies volksverzekeringen.  
-2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 188,75% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het minimumloon en de aanspraak op vakantiebijslag daarover.   
+2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 187,5% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het minimumloon en de aanspraak op vakantiebijslag daarover.   
 3.  Onder consumentenprijsindex, wordt in deze afdeling verstaan hetgeen daaronder in [artikel 13, zesde lid, van de Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) wordt verstaan.   
 4.  Met ingang van 1 juli 2012 tot 1 januari 2014 en met ingang van 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Met ingang van 1 januari 2014 tot 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 1,25 procentpunt. Van het herziene percentage doet onze Minister mededeling in de Staatscourant. Dit lid vervalt op het moment dat het percentage van 100 is bereikt. 
 

@@ -130,6 +130,11 @@ d.  zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van he
 
 ####lijst met beschermde inheemse diersoorten als bedoeld in artikel 3 
 
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
+|:---|:---|:---|
+|  ZOOGDIEREN   |  MAMMALIA   | --- |
+| Wolf  | Canis lupus  | c  |
+
 | *Nederlandse naam*  | *Wetenschappelijke naam*  | *Motief voor opname*  |
 |:---|:---|:---|
 | VISSEN  | PISCES S.L.  | --- |

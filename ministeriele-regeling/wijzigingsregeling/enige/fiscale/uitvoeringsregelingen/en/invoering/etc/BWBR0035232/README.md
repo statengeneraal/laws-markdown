@@ -13,12 +13,10 @@ Gelet op de [artikelen 3.13](../../../../../../../../../wet/wet/inkomstenbelasti
 Besluit:    
 
 ### Artikel  I  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001. 
 
 ### Artikel  II  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen. 
 
@@ -33,32 +31,26 @@ Treedt in werking per 01-01-2015
 Wijzigt de Regeling gegevensuitvraag loonaangifte. 
 
 ### Artikel  V  
-Treedt in werking per 01-07-2014 
 
 Voor de toepassing van [artikel 122ca, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) wordt niet in aanmerking genomen de door het Uitvoeringsinstituut werknemersverzekeringen aangegeven basispremie, bedoeld in [artikel 34, eerste lid, van die wet](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), die het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd over op grond van de [Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeid en zorg](../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) verstrekte uitkeringen. 
 
 ### Artikel  VI  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968. 
 
 ### Artikel  VII  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling accijns. 
 
 ### Artikel  VIII  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Algemene douaneregeling. 
 
 ### Artikel  IX  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  X  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting normalisation ‘Duizendtallen signaleren’ 1994. 
 
@@ -68,22 +60,18 @@ Treedt in werking per 01-01-2015
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken. 
 
 ### Artikel  XII  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994. 
 
 ### Artikel  XIII  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990. 
 
 ### Artikel  XIV  
-Treedt in werking per 01-07-2014 
 
 Wijzigt de Uitvoeringsregeling energie-investeringsaftrek 2001. 
 
 ### Artikel  XV  
-Treedt in werking per 01-07-2014 
 
 1.  Deze regeling treedt in werking met ingang van 1 juli 2014.   
 2.  Artikel I, onderdelen B en D, werkt terug tot en met 1 januari 2011.   

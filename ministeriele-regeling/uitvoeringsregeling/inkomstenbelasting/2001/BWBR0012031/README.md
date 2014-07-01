@@ -188,7 +188,11 @@ g. B-riders (Stcrt. 2013, 34274);
 
 h. Fietsimpuls Maastricht-beloningsysteem voor Forensen (Stcrt. 2013, 34274);  
 
-i. Stimulering E-Bike (Stcrt. 2013, 34274).  
+i. Stimulering E-Bike (Stcrt. 2013, 34274); 
+
+j. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);  
+
+k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406).  
 
 ### Artikel  7  
 
@@ -277,8 +281,7 @@ a. naam en adres van de inhoudingsplichtige;
 
 b. naam en adres van de belastingplichtige;  
 
-c. een door de inhoudingsplichtige ondertekende verklaring, die vermeldt het aantal dagen per week dat de belastingplichtige met het openbaar vervoer naar de plaats of plaatsen van werkzaamheden heeft gereisd.     
-3.   Op verzoek van de inspecteur doet de belastingplichtige de reisverklaring, alsmede de plaatsbewijzen, aan hem toekomen.   
+c. een door de inhoudingsplichtige ondertekende verklaring, die vermeldt het aantal dagen per week dat de belastingplichtige met het openbaar vervoer naar de plaats of plaatsen van werkzaamheden heeft gereisd.    
 
 ### Artikel  17  
 
@@ -445,17 +448,15 @@ c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan h
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
-a.  *inspecteur:* de voorzitter van het managementteam van de Belastingdienst/Amsterdam;  
+a. *project:* groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2010](../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md), de [Regeling groenprojecten buitenland 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/buitenland/2002/BWBR0013272/README.md) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/nederlandse/antillen/en/aruba/2002/BWBR0013273/README.md) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
 
-b.  *project:* groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2010](../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md), de [Regeling groenprojecten buitenland 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/buitenland/2002/BWBR0013272/README.md) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](../../../../../ministeriele-regeling/regeling/groenprojecten/nederlandse/antillen/en/aruba/2002/BWBR0013273/README.md) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is afgegeven;  
+b. *fonds:* groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
 
-c.  *fonds:* groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) is aangewezen;  
+c. *hoofdzakelijkheidscriterium:* de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-d.  *hoofdzakelijkheidscriterium:* de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+d. *aanloopperiode:* de periode, bedoeld in [artikel 5.14, vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-e.  *aanloopperiode:* de periode, bedoeld in [artikel 5.14, vierde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
-
-f.  *ingroeiperiode:* de periode, bedoeld in [artikel 5.14, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+e. *ingroeiperiode:* de periode, bedoeld in [artikel 5.14, vijfde lid, van de wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 
 ### Artikel  29  
 
@@ -503,8 +504,8 @@ c. indien het fonds de in dit hoofdstuk opgenomen informatieverplichtingen jegen
 3. De inspecteur bepaalt in de beschikking het tijdstip waarop de intrekking van de aanwijzing in werking treedt, met dien verstande dat de intrekking terugwerkende kracht heeft tot en met de dag waarop het eerste lid, onderdeel b of c, van toepassing is.
 4. Ingeval het fonds is aangewezen met een aanloopperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
-6. Indien het fonds de in artikel 29a, vierde lid, bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
-7. Indien het fonds de in artikel 29a, vierde lid, bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen. 
+6. Indien het fonds de in artikel 29a, zesde lid, bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+7. Indien het fonds de in artikel 29a, zesde lid, bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen. 
 8.  Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend. 
 
 ### Artikel  33b  
@@ -525,12 +526,12 @@ Als prijscourant als bedoeld in [artikel 5.21 van de wet](../../../../../wet/wet
 
 a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in [artikel 64 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) geldend maakt;  
 
-b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de [Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.     
+b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.     
 2.  Voor de toepassing van het eerste lid, onderdeel b, geldt dat: 
 
-a. de in [artikel 5a van het Samenloopbesluit kinderbijslag](../../../../../AMvB/samenloopbesluit/kinderbijslag/BWBR0005361/README.md) bedoelde persoon wiens recht op kinderbijslag niet wordt uitbetaald, zijn recht op kinderbijslag niet geldend maakt, en  
+a. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag niet wordt uitbetaald, zijn recht op kinderbijslag niet geldend maakt, en  
 
-b. de in [artikel 5a van het Samenloopbesluit kinderbijslag](../../../../../AMvB/samenloopbesluit/kinderbijslag/BWBR0005361/README.md) bedoelde persoon wiens recht op kinderbijslag aan hem geheel of gedeeltelijk wordt uitbetaald, zijn recht op kinderbijslag geheel geldend maakt.    
+b. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag aan hem geheel of gedeeltelijk wordt uitbetaald, zijn recht op kinderbijslag geheel geldend maakt.    
 3.   Het eerste lid, onderdeel b, is van overeenkomstige toepassing indien de belastingplichtige recht heeft op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) overeenkomende buitenlandse regeling.   
 
 ### Artikel  36  

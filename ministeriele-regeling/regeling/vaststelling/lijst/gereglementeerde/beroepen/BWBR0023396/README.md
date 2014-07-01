@@ -37,7 +37,7 @@ R.H.A. Plasterk
 |:---|:---|
 | Binnenlandse Zaken en Koninkrijksrelaties  | • politiekundige/politiemedewerker  |
 | Economische zaken, Landbouw en Innovatie  | • bedrijfsvoerder gewasbescherming  |
-| --- | • beheerder van een bedrijfsinrichting, asiel of pension  |
+| --- | • beheerder van een inrichting  |
 | --- | • distributeur van gewasbeschermingsmiddelen  |
 | --- | • preparateur van dieren  |
 | --- | • toepasser van gewasbeschermingsmiddelen  |

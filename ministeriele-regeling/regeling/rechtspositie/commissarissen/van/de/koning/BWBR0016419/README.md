@@ -12,10 +12,6 @@ Besluit:
 2.  De aanleg- en abonnementskosten van de internetverbinding ten behoeve van het gebruik van de computer komen ten laste van de provincie.   
 3.  Gedeputeerde staten stellen het model van een bruikleenovereenkomst vast. 
 
-### Artikel  2  
-
-De in [artikel 7, vierde lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) bedoelde vergoeding voor het gebruik van de privé-telefoon bedraagt € 12,– per maand. 
-
 ### Artikel  3  
 
 1.  De verhuiskostenvergoeding, bedoeld in [artikel 8, eerste en derde lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md), betreft het bedrag van: 
@@ -25,6 +21,7 @@ a. de kosten voor het transport van de bagage en de inboedel van de betrokkene e
 b. andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van inrichting van de woning en tijdelijke opslag, tot een maximum van € 5.818,46.     
 2.  Kosten in verband met de aan- of verkoop van een woning en verbouwingskosten worden niet aangemerkt als kosten als bedoeld in het eerste lid.   
 3.  Het recht op de vergoeding, bedoeld in het eerste lid, vervalt indien de verhuizing niet heeft plaatsgevonden binnen twee jaar na de dag waarop de benoeming ingaat.  
+4. Het derde lid is niet van toepassing op degene die met de waarneming van het ambt van commissaris is belast op grond van [artikel 76, eerste lid, van de Provinciewet](../../../../../../../../wet/provinciewet/BWBR0005645/README.md).
 
 ### Artikel  3a  
 
@@ -66,6 +63,7 @@ b. bij gebruik van een eigen personenauto, een bedrag van € 0,15 per afgelegd
 4.  Er bestaat geen aanspraak op vergoeding van pensionkosten als bedoeld in het eerste lid, onder a, ingeval er aanspraak kan worden gemaakt op de tegemoetkoming, bedoeld in artikel 3a, eerste lid.   
 5.  Onder de kosten voor het gebruik van het openbaar vervoer, bedoeld in het eerste en tweede lid, worden verstaan de kosten van voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.   
 6.  Het recht op de vergoeding, bedoeld in het eerste en tweede lid, vervalt een jaar na de dag waarop de benoeming als commissaris ingaat. 
+7. Het zesde lid is niet van toepassing op degene die met de waarneming van het ambt van commissaris is belast op grond van [artikel 76, eerste lid, van de Provinciewet](../../../../../../../../wet/provinciewet/BWBR0005645/README.md).
 
 ### Artikel  5  
 
@@ -97,9 +95,7 @@ Het declareren van de kosten geschiedt onder overlegging van bewijsstukken.
 
 a. ontvangt de commissaris van de Koning ten laste van de provincie op aanvraag per jaar een tegemoetkoming van 30% van de aanschafwaarde voor de periode van maximaal drie jaar voor zover er sprake is van een belastingheffing in verband met ten laste van de provincie ter beschikking gestelde computerapparatuur, bijbehorende apparatuur en software, dan wel communicatieapparatuur als bedoeld in [artikel 7, eerste en derde lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md);  
 
-b. wordt in artikel 2 voor ‘€ 12’ gelezen: € 25;  
-
-c. wordt in artikel 5, onderdeel b, voor ‘€ 0,28’ gelezen: € 0,37.     
+b. wordt in artikel 5, onderdeel b, voor ‘€ 0,28’ gelezen: € 0,37.     
 2.  Indien [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) wordt toegepast, kan de commissaris van de Koning op aanvraag aanspraak maken op saldering van reiskosten voor zakelijke reizen overeenkomstig de regeling voor provinciaal personeel. Indien geen regeling als bedoeld in de vorige zin is vastgesteld, kan de commissaris van de Koning op aanvraag aanspraak maken op een vergoeding als bedoeld in [artikel 4a van de Reisregeling binnenland](../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) en [artikel 2a van de Reisregeling buitenland](../../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md).  
 
 ### Artikel  8  

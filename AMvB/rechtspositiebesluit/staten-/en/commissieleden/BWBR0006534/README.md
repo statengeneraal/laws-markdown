@@ -43,14 +43,10 @@ b.indien door provinciale staten toepassing is gegeven aan artikel 4, dit lid ee
 
 ### Artikel  2  
 
-1.  Aan een lid van provinciale staten wordt een vergoeding voor de werkzaamheden toegekend die ten hoogste € 13.116,34 per jaar bedraagt.   
+1.  Aan een lid van provinciale staten wordt een vergoeding voor de werkzaamheden toegekend die € 1.093,03 per maand bedraagt.   
 2.  Het bedrag van de vergoeding voor de werkzaamheden wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september van het voorafgaande kalenderjaar vastgestelde indexcijfer CAO lonen overheid, inclusief bijzondere beloningen.   
-3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die ten hoogste € 93,12 per maand bedraagt.   
+3.  Aan een lid van provinciale staten wordt een onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten toegekend die € 165 per maand bedraagt.   
 4.  Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.  
-
-### Artikel  3  
-
-Provinciale staten kunnen bij verordening tot ten hoogste 20% naar beneden afwijken van de bedragen, genoemd in artikel 2. 
 
 ### Artikel  4  
 
@@ -58,7 +54,7 @@ Provinciale staten kunnen bij verordening bepalen dat ten hoogste 20% van de ver
 
 ### Artikel  4a  
 
-1.  Provinciale staten kunnen bij verordening bepalen dat ten aanzien van een lid van provinciale staten dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) dan wel de rekenkamerfunctie, bedoeld in [artikel 79p van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), uitoefent dan wel lid is van een onderzoekscommissie als bedoeld in [artikel 151a, derde lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), voor de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten per jaar een toelage ontvangt tot ten hoogste 5% van de vergoeding voor de werkzaamheden op jaarbasis. Aan de verordening kan terugwerkende kracht worden verleend tot en met 1 januari 2009.   
+1.  Aan een lid van provinciale staten dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) dan wel de rekenkamerfunctie, bedoeld in [artikel 79p van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), uitoefent dan wel lid is van de onderzoekscommissie als bedoeld in [artikel 151a, derde lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), wordt voor de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten per jaar ten laste van de provincie een toelage verleend van 5% van de vergoeding voor de werkzaamheden op jaarbasis.   
 2.  Voor de toepassing van het eerste lid stelt de commissaris de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten vast.  
 
 ### Artikel  5  
@@ -106,6 +102,22 @@ b. de duur van het fractievoorzitterschap.
 
 ####Secundaire voorzieningen
 
+### Artikel  8  
+
+1.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a.  *een ziekte:* een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan de functie verbonden werkzaamheden;  
+
+b.  *een dienstongeval:* een ongeval dat plaatsvindt tijdens de uitoefening van de aan de functie verbonden werkzaamheden.     
+2.  Een staten- of commissielid ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval: 
+
+a. voor zover deze kosten ten laste van staten- of commissielid blijven en  
+
+b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.     
+3.  In bijzondere gevallen kunnen gedeputeerde staten bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in provinciale staten.   
+4.  Onder overige schade valt niet het gederfde inkomen.   
+5.  Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn functie als staten- of commissielid en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op het gewezen staten- of commissielid.  
+
 ### Artikel  9  
 
 1. Provinciale staten kunnen bij verordening bepalen dat het provinciaal bestuur ten behoeve van de leden van provinciale staten één of meer collectieve verzekeringen kan afsluiten, waarbij wordt voorzien in de opbouw van een ouderdomspensioen en in geldelijke voorzieningen bij invaliditeit en overlijden.  
@@ -113,14 +125,14 @@ b. de duur van het fractievoorzitterschap.
 
 ### Artikel  10  
 
-1. Provinciale staten kunnen bij verordening bepalen dat een lid van provinciale staten ten laste van de provincie een tegemoetkoming in de kosten van een ziektekostenverzekering ontvangt van € 175 per jaar. 
-2. Indien de nominale eindejaarsuitkering van het personeel werkzaam bij de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag naar evenredigheid gewijzigd. 
+1.  Een staten- of commissielid ontvangt ten laste van de provincie een tegemoetkoming in de kosten van een ziektekostenverzekering van € 203,21 per jaar.   
+2.  Het in het eerste lid genoemde bedrag wordt bij ministeriële regeling gewijzigd overeenkomstig de wijzigingen die de bezoldiging van het personeel in de sector Rijk ondergaat.  
 
 ### Artikel  11  
 
-1.  Provinciale staten kunnen bij verordening bepalen dat in het geval dat een lid van provinciale staten een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangt en na de toepassing van artikel 20 van die wet ontstane korting op deze uitkering ten gevolge van het uitoefenen van het lidmaatschap van provinciale staten meer bedraagt dan de vergoeding voor de werkzaamheden die dit lid ontvangt van provinciale staten, deze vergoeding ten laste van de provincie wordt verhoogd tot het bedrag van bedoelde korting.   
-2.   Provinciale staten kunnen bij verordening bepalen dat in het geval dat een lid van provinciale staten een uitkering op grond van het Besluit Werkloosheid onderwijs- en onderzoekspersoneel ontvangt en de na toepassing van artikel 6, vierde lid, van dat besluit ontstane korting op deze uitkering ten gevolge van het uitoefenen van lidmaatschap van provinciale staten meer bedraagt dan de vergoeding voor de werkzaamheden die dit lid ontvangt van provinciale staten, deze vergoeding ten laste van de provincie wordt verhoogd tot het bedrag van bedoelde korting.  
-3. Provinciale staten kunnen bij verordening bepalen dat, in het geval een lid van provinciale staten een uitkering in verband met geheel of gedeeltelijke arbeidsongeschiktheid ontvangt, de vergoeding voor de werkzaamheden op verzoek van het desbetreffende lid wordt verlaagd.
+1.  In het geval een staten- of commissielid een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangt en de na toepassing van [artikel 20 van die wet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van het staten- of commissielidmaatschap meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de provincie verhoogd tot het bedrag van bedoelde korting.   
+2.  In het geval een staten- of commissielid een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie van staten- of commissielid meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de provincie verhoogd tot het bedrag van bedoelde korting.   
+3.  In het geval een staten- of commissielid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden op verzoek van het desbetreffende staten- of commissielid worden verlaagd. 
 
 ### Artikel  11a  
 
@@ -129,7 +141,9 @@ b. de duur van het fractievoorzitterschap.
 
 ### Artikel  12  
 
-Provinciale staten kunnen bij verordening bepalen dat een lid van provinciale staten, naar in de verordening te stellen regels, ten laste van de provincie een tegemoetkoming ontvangt ter zake van kosten voor scholing in verband met de vervulling van het statenlidmaatschap, alsmede ter zake van kosten voor in verband met de vervulling van het statenlidmaatschap noodzakelijke kinderopvang. 
+1.  De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van staten- of commissielid komen ten laste van de provincie.   
+2.  Provinciale Staten kunnen over de in het eerste lid bedoelde scholing nadere regels stellen.   
+3.  Indien een statenlid in verband met de uitoefening van de functie lid is van een beroepsvereniging vergoedt de provincie de contributie van die beroepsvereniging.  
 
 ### Artikel  12a  
 
@@ -139,7 +153,15 @@ a. de onkostenvergoeding, bedoeld in artikel 2, derde lid;
 
 b. de verstrekkingen, bedoeld in artikel 6a, eerste lid;  
 
-c. de vergoeding, bedoeld in artikel 6a, derde lid.   
+c. de vergoeding, bedoeld in artikel 6a, derde lid;  
+
+d. de tegemoetkoming, bedoeld in artikel 10, eerste lid;  
+
+e. de vergoeding, bedoeld in artikel 12, eerste en derde lid.  
+
+### Artikel  12b  
+
+Indien gedeputeerde staten ten behoeve van een veilige woon- en werkplek van een statenlid kosten maken, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van de provincie.
 
 ### Hoofdstuk  4  
 
@@ -147,7 +169,7 @@ c. de vergoeding, bedoeld in artikel 6a, derde lid.
 
 ### Artikel  13  
 
-Provinciale staten kunnen bij verordening bepalen dat aan een lid van een commissie een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag van € 105,43. Het artikel 2, tweede lid, is van overeenkomstige toepassing. Provinciale staten kunnen bij verordening bepalen dat artikel 6a of artikel 11 geheel of gedeeltelijk van overeenkomstige toepassing is. 
+Aan een lid van een commissie wordt ten laste van de provincie een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 105,43 per vergadering. De artikelen 2, tweede lid, 6a 11, 12 en 12b zijn van overeenkomstige toepassing. 
 
 ### Artikel  14  
 
@@ -167,7 +189,7 @@ Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../..
 
 a. wordt op aanvraag door het college van gedeputeerde staten een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 6a, eerste lid;  
 
-b. wordt het bedrag, genoemd in artikel 2, derde lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. wordt het bedrag, genoemd in artikel 2, derde lid, artikel 10, eerste lid, en de vergoeding, bedoeld in artikel 12, eerste en derde lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
 
 c. blijft artikel 12a buiten toepassing.   
 

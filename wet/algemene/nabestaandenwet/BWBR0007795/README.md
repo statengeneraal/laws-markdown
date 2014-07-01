@@ -58,7 +58,7 @@ p.  pensioengerechtigde leeftijd: de pensioengerechtigde leeftijd, bedoeld in [a
 
 a. bruto-minimumloon: het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag;   
 
-b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 188,75% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon;  
+b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies volksverzekeringen en loonbelasting. De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend 187,5% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon;  
 
 c. bruto-minimumvakantiebijslag: het bedrag waarop degene die aanspraak heeft op het bruto-minimumloon ingevolge [artikel 15 van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) aanspraak heeft;   
 
@@ -96,13 +96,13 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 7.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, wordt mede verstaan een meerderjarig aangehuwd of voormalig pleegkind van de nabestaande of een meerderjarig eigen, aangehuwd of voormalig pleegkind van de overleden verzekerde of van de persoon die met de nabestaande een gezamenlijke huishouding voert.    
 8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind waarvoor de nabestaande een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md). 
 
-###Artikel 4 
+### Artikel  4  
 
-1. In deze wet en de daarop berustende bepalingen wordt in afwijking van artikel 3, tweede tot en met zesde lid onder nabestaande mede verstaan de gewezen echtgenoot van een overleden verzekerde, indien: 
+1. In deze wet en de daarop berustende bepalingen wordt in afwijking van artikel 3, tweede tot en met zesde lid onder nabestaande mede verstaan de gewezen echtgenoot van een overleden verzekerde, indien:  
 
-a.het huwelijk anders dan door de dood is ontbonden; en 
+a. het huwelijk anders dan door de dood is ontbonden; en   
 
-b.de overleden verzekerde onmiddellijk voorafgaand aan het overlijden verplicht is levensonderhoud te verschaffen aan de gewezen echtgenoot op grond van [Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) krachtens een rechterlijke uitspraak of overeenkomst, vastgelegd in:
+b. de overleden verzekerde onmiddellijk voorafgaand aan het overlijden verplicht is levensonderhoud te verschaffen aan de gewezen echtgenoot of aan een of meer van zijn kinderen op grond van [Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) krachtens een rechterlijke uitspraak of overeenkomst, vastgelegd in:
 
 1°.een notariële akte;
 
@@ -110,9 +110,9 @@ b.de overleden verzekerde onmiddellijk voorafgaand aan het overlijden verplicht 
 
 3°.een akte waarvan door de gewezen echtgenoot aannemelijk wordt gemaakt dat die tot stand is gekomen door de inzet van een bij de echtscheiding betrokken advocaat; of
 
-4°.een document opgesteld in overleg tussen de gewezen echtgenoot en de overleden verzekerde door tussenkomst van een bemiddelaar; en
+4°.een document opgesteld in overleg tussen de gewezen echtgenoot en de overleden verzekerde door tussenkomst van een bemiddelaar; en  
 
-c.de gewezen echtgenoot overeenkomstig de bepalingen in deze wet recht op nabestaandenuitkering zou hebben gehad, indien het overlijden plaats zou hebben gehad op de dag van ontbinding van het huwelijk anders dan door de dood. 
+c. de gewezen echtgenoot overeenkomstig de bepalingen in deze wet recht op nabestaandenuitkering zou hebben gehad, indien het overlijden plaats zou hebben gehad op de dag van ontbinding van het huwelijk anders dan door de dood.     
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor het eerste lid, onderdeel b, bij ten vierde.
 
 ### Artikel  5  
@@ -252,7 +252,7 @@ c. de nabestaande de pensioengerechtigde leeftijd bereikt.
 2.  Indien de nabestaande recht heeft op uitkering op grond van artikel 14, eerste lid, onder a, wordt de bruto-nabestaandenuitkering op een zodanig bedrag vastgesteld, dat, nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon jonger dan 65 jaar, rekening houdend met de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en de alleenstaande-ouderkorting, bedoeld in [artikel 8.15, derde lid, eerste zin, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 90% van het netto-minimumloon.  
 3.  In afwijking van het eerste lid wordt de bruto-nabestaandenuitkering van de nabestaande, zolang hij een gezamenlijke huishouding ten behoeve van de verzorging van een hulpbehoevende voert, op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 50% van het netto-minimumloon.   
 4.  De bruto-nabestaandenuitkering bedraagt voor een nabestaande die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste, tweede of derde lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.  
-5.   De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande.   
+5.   De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande of een of meer van zijn kinderen.   
 
 ### Artikel  18  
 
@@ -315,7 +315,8 @@ c. een kind van 18 jaar of ouder, doch jonger dan 21 jaar, dat als leerling of d
 d. een ongehuwd kind van 16 jaar of ouder, doch jonger dan 21 jaar, dat een startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) heeft behaald dan wel op wie een van de vrijstellingen als bedoeld in onderdeel a van toepassing zijn geweest of zouden zijn geweest en wiens voor werkzaamheden beschikbare tijd grotendeels in beslag wordt genomen door het verzorgen van zijn huishouden, waartoe overigens ten minste een kind dat recht heeft op wezenuitkering, behoort.     
 3.  Voor de toepassing van het tweede lid, onderdeel d, wordt mede als ongehuwd aangemerkt het kind dat een gezamenlijke huishouding voert met een hulpbehoevende indien de overledene voor diens overlijden een huishouden met de hulpbehoevende is gaan voeren met het doel de hulpbehoevende te gaan verzorgen of indien het kind na het overlijden van de verzekerde een huishouding is gaan voeren met een hulpbehoevende met het doel de hulpbehoevende te gaan verzorgen.   
 4.  Het recht op wezenuitkering gaat in op de eerste dag van de maand waarin het kind ouderloos is geworden en aan de voorwaarden, bedoeld in het tweede lid, wordt voldaan.   
-5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede lid. 
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede lid.  
+6.  Het niet voldoen aan de verplichtingen, bedoeld in het tweede lid, onderdeel a, blijkt uit een daartoe strekkende mededeling van het college van burgemeester en wethouders van de gemeente waar het kind woont. 
 
 ### Artikel  26a  
 
