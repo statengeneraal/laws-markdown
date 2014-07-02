@@ -15,8 +15,6 @@ In deze regeling wordt verstaan onder:
 
 *de Minister:* de Minister van Economische Zaken; 
 
-*traaggroeiend pluimveeras:* pluimveeras waarvan de daartoe behorende dieren gemiddeld met maximaal 40 gram per dag groeien; 
-
 *verordening (EG) 889/2008:* verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250); 
 
 *verordening (EG) 1235/2008:* verordening (EG) 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU L 334). 
@@ -30,43 +28,11 @@ In deze regeling wordt verstaan onder:
 
 Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/2007 in samenhang met verordening (EG) 889/2008 niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 30, eerste lid, van verordening (EG) 834/2007. 
 
-### Artikel  4  
-
-1.  Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in bijlage I bij deze regeling.   
-2.  Ingeval de desbetreffende diercategorie in bijlage I ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md) van toepassing.  
-
-### Artikel  5  
-
-De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt telkens na het houden van een koppel pluimvee: 
-
-a. 60 dagen voor legkippen;  
-
-b. 30 dagen voor vleeskuikens.   
-
 ### Artikel  6  
 
 1.  De Minister kan op aanvraag een vergunning verlenen als bedoeld in artikel 29, eerste lid van verordening (EG) 889/2008.   
 2.  De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.   
-3.  De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.   
-4.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor het aanbinden van runderen overeenkomstig artikel 95, eerste lid, van verordening (EG) 889/2008.   
-5.  De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor de bezetting van de uitloop voor vleeskuikens overeenkomstig artikel 95, tweede lid, van verordening (EG) 889/2008. 
-
-### Artikel  7  
-
-Bij het in de handel brengen van of het maken van reclame voor jonge opfokhennen wordt slechts verwezen naar de biologische productiemethode indien de hennen zijn opgefokt met inachtneming van de biologische productiemethode voor het opfokken van jonge hennen zoals vastgesteld door het bestuur van de Stichting Skal. 
-
-### Artikel  7a  
-
-Bij het in de handel brengen van of het maken van reclame voor diervoeders voor honden en katten wordt slechts verwezen naar de biologische productiemethode indien de bereiding voldoet aan de biologische productiemethode zoals vastgesteld door het bestuur van de Stichting Skal. 
-
-### Artikel  7b  
-
-1.  Tot en met 31 december 2015 is in bedrijven met ten hoogste vijftig runderen het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.   
-2.  Vanaf 1 januari 2016 is in bedrijven met ten hoogste tien runderen het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.  
-
-### Artikel  8  
-
-In de periode vanaf drie maanden voorafgaand aan Pasen is het toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en lakmiddelen.  
+3.  De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.  
 
 ### Artikel  8a  
 
@@ -264,85 +230,6 @@ Den Haag
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
 G. Verburg    
-
-### Bijlage I 
-
-####als bedoeld in artikel 4  van de Landbouwkwaliteitsregeling 2007
-
-*Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4* 
-
-| Diersoorten  | Onderscheiden categorieën dieren binnen de diersoorten  | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof  |
-|:---|:---|:---|
-| I Rundvee  | Fok- en gebruiksvee  | --- |
-| --- | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken)  | 96,1  |
-| --- | In grupstal met vaste mest  | 90,6  |
-| --- | In potstal met vaste mest  | 86,4  |
-| --- | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd):  | --- |
-| --- | – jonger dan 1 jaar  | 32,3  |
-| --- | – 1 jaar en ouder  | 66,0  |
-| --- | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee):  | --- |
-| --- | – jonger dan 1 jaar  | 26,7  |
-| --- | – 1 jaar en ouder  | 51,0  |
-| --- | --- | --- |
-| --- | Roodvleesproductie  | --- |
-| --- | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid)  | 66,2  |
-| --- | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees):  | --- |
-| --- | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd)  | 6,6  |
-| --- | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden)  | 27,2  |
-| --- | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden)  | 23,4  |
-| --- | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden):  | --- |
-| --- | – jonger dan 1 jaar  | 26,4  |
-| --- | – 1 jaar en ouder  | 65,4  |
-| --- | --- | --- |
-| II Varkens  | Fokkerij/vermeerdering  | --- |
-| --- | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn):  | --- |
-| --- | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben)  | 12,0  |
-| --- | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden)  | 15,3  |
-| --- | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij):  | --- |
-| --- | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden)  | 5,9  |
-| --- | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking)  | 9,1  |
-| --- | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact  | 6,1  |
-| --- | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg)  | 5,5  |
-| --- | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden)  | 11,7  |
-| --- | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg)  | 2,0  |
-| --- | --- | --- |
-| --- | Mesterij  | --- |
-| --- | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest)  | 12,8  |
-| --- | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg)  | 6,1  |
-| --- | --- | --- |
-| III Kippen  | Legrassen  | --- |
-| --- | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld)  | 0,159  |
-| --- | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken)  | 0,371  |
-| --- | --- | --- |
-| --- | Vleesrassen  | --- |
-| --- | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld)  | 0,110  |
-| --- | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken)  | 0,411  |
-| --- | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd)  | 0,332  |
-| --- | --- | --- |
-| IV Kalkoenen  | Voor broedeieren  | --- |
-| --- | – Hennen en hanen voor de productie van broedeieren:   | --- |
-| --- | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf)  | 0,290  |
-| --- | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf)  | 1,165  |
-| --- | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder)  | 1,513  |
-| --- | --- | --- |
-| --- | Vleeskalkoenen  | --- |
-| --- | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht)  | 0,884  |
-| --- | --- | --- |
-| V Schapen  | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd)  | 10,3  |
-| --- | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders)  | 9,3  |
-| --- | --- | --- |
-| VI Geiten  | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd)  | 5,8  |
-| --- | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken)  | 3,1  |
-| --- | --- | --- |
-| VII Eenden  | – Ouderdieren van vleeseenden (opfok- en legeenden)  | 0,50  |
-| --- | – Vleeseenden (eenden die worden gehouden voor de slacht)  | 0,39  |
-| --- | --- | --- |
-| VIII Konijnen  | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt)  | 1,24  |
-| --- | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen)  | 0,75  |
-| --- | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking)  | 1,01  |
-| --- | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen)  | 0,40  |
-| --- | --- | --- |
-| IX Parelhoenders  | – Vleesparelhoenders  | 0,437  |
 
 ### Bijlage II 
 

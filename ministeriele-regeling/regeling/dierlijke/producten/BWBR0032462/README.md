@@ -212,8 +212,8 @@ Het is verboden bij het in de handel brengen of etiketteren van of reclame maken
 
 ####Vrijstellingen
 
-1.  Met toepassing van artikel 39 van verordening (EG) nr. 889/2008 mogen bedrijven met ten hoogste tien runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel.   
-2.  Met toepassing van artikel 27, vierde lid, van verordening 889/2008 is het tijdens de drie maanden die voorafgaan aan Pasen toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en lakmiddelen.  
+1.  Tot en met 31 december 2015, met toepassing van artikel 39 van verordening (EG) nr. 889/2008, mogen bedrijven met ten hoogste vijftig runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel. Vanaf 1 januari 2016, met toepassing van artikel 39 van verordening (EG) nr. 889/2008, mogen bedrijven met ten hoogste tien runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel.   
+2.  Met toepassing van artikel 27, vierde lid, van verordening 889/2008 is het tijdens de drie maanden die voorafgaan aan Pasen toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en natuurlijke bedekkingsstoffen.  
 
 ### Artikel  2.17  
 

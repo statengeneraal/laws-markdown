@@ -2310,7 +2310,7 @@ Geen bijzonderheden.
 
 ####Besluitmoratorium
 
-Ten aanzien van Tibetanen uit China geldt een besluit in de zin van [artikel 43, aanhef en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+Ten aanzien van China geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 ### 8.2  
 
 ####Artikel 1F Vluchtelingenverdrag
@@ -2329,19 +2329,35 @@ De IND beschouwt China niet als land waarin sprake is van groepsvervolging.
 
 ####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
-De IND heeft met betrekking tot China geen risicogroepen aangewezen.   
+De IND heeft met betrekking tot China geen risicogroepen aangewezen.
+### 8.3.3  
+
+####Tibetanen die te maken kunnen hebben met repressie
+
+Tibetanen kunnen te maken hebben met repressie in China, als zij: 
+
+a. als advocaat, politiek activist of blogger actief zijn geweest;  
+
+b. verdacht worden van separatistische sympathieën;  
+
+c. steun hebben betuigd aan de dalai lama in China, of daarvan verdacht worden;  
+
+d. te maken hebben gehad met religieuze activiteiten die door de overheid worden gezien als uitingen van politieke onvrede of streven naar onafhankelijkheid;  
+
+e. om andere redenen de negatieve aandacht van de Chinese autoriteiten hebben getrokken dan wel zullen trekken en de overheid deze zien als uitingen van politieke onvrede of streven naar onafhankelijkheid.   Indien een vreemdeling uit Tibet aannemelijk maakt dat hij tot een of meerdere van deze groepen behoort, komt deze in aanmerking voor een verblijfsvergunning voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 ### 8.4  
 
 ####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), aan een vreemdeling uit Tibet die aannemelijk heeft gemaakt dat hij illegaal China is uitgereisd. 
 ### 8.4.1  
 
 ####Uitzonderlijke situatie in de zin van paragraaf C2/3.3  Vc
 
-In China is geen sprake van een uitzonderlijke situatie als bedoeld in paragraaf C2/3.3.  
+In China is geen sprake van een uitzonderlijke situatie als bedoeld in paragraaf C2/3.3 Vc.  
 ### 8.4.2  
 
-####Systematische blootstelling aan in de zin van paragraaf C2/3.3  Vc
+####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
 
 In China is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.  
 ### 8.4.3  
@@ -2372,7 +2388,7 @@ In China is adequate opvang in de zin van [paragraaf B8/6 Vc](../../../../../cir
 
 ####Vertrekmoratorium
 
-Ten aanzien van Tibetanen uit China geldt een besluit in de zin van [artikel 45, vierde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
+Ten aanzien van China geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
 ### 9  
 
 ####Het beleid ten aanzien van Colombia

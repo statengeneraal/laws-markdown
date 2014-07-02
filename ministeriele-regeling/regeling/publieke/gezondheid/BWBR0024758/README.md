@@ -39,7 +39,9 @@ c. hepatitis C: alleen de vaststelling van een recente infectie wordt gemeld,
 
 d. mrsa-infectie: alleen de vaststelling van een cluster van een mrsa-infectie veroorzaakt door een bron buiten een zorginstelling wordt gemeld,  
 
-e. pneumokokkenziekte: alleen de vaststelling bij kinderen in de leeftijd tot en met 5 jaar wordt gemeld.    
+e. pneumokokkenziekte: alleen de vaststelling bij kinderen in de leeftijd tot en met 5 jaar wordt gemeld,  
+
+f.dengue: alleen de vaststelling in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gemeld.  
 2.  Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), geldt voor het Middle East respiratory syndrome coronavirus (MERS-CoV) het volgende: de meldingsplicht wordt beperkt tot de vaststelling van een infectie bij een persoon, die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis, door de behandelend arts van het ziekenhuis. 
 
 ### Artikel  3  
@@ -90,11 +92,11 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 1.  Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in [artikel 57 van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), bedraagt: 
 
-a. € 98,43 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
+a. € 98,63 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
 
-b. € 147,65 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
+b. € 147,95 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
 
-c. € 196,86 per uur, indien het onderzoek plaatsvindt op zondag.     
+c. € 197,25 per uur, indien het onderzoek plaatsvindt op zondag.     
 2.  Het aantal uren, bedoeld in het eerste lid, dat in rekening wordt gebracht, bedraagt niet meer dan: 
 
 – 4 uur bij schepen met minder dan 50 opvarenden, anders dan bemanningsleden,  
@@ -102,8 +104,8 @@ c. € 196,86 per uur, indien het onderzoek plaatsvindt op zondag.
 – 8 uur bij schepen met 50–500 opvarenden, anders dan bemanningsleden,  
 
 – 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.     
-3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 98,43.   
-4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,61 per kwartier.  
+3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 98,63.   
+4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,66 per kwartier.  
 
 ### §  3  
 

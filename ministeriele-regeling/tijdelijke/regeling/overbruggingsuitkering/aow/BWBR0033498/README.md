@@ -66,7 +66,7 @@ b. rechten op ingegane lijfrenten als bedoeld in [artikel 1, onderdeel b, van de
 
 c. polissen van levensverzekering als bedoeld in [artikel 1, onderdeel d, van de Regeling vermogenswaardering Ioaz](../../../../../../ministeriele-regeling/regeling/vermogenswaardering/ioaz/BWBR0011947/README.md), mits ter zake van de verzekering geen koopsom is voldaan en deze polissen niet dienen als basis voor de financiering van de eigen woning;  
 
-d. een bedrag van € 114.131,00 per 1 januari 2014: € 117.058,00 ten behoeve van aanvullende pensioenvoorzieningen.     
+d. een bedrag van € 117.444,00 ten behoeve van aanvullende pensioenvoorzieningen.     
 4.  Rechten op lijfrenten als bedoeld in het derde lid, onderdelen a of b, alsmede polissen van levensverzekering als bedoeld in het derde lid, onderdeel c, worden op het bedrag, genoemd in het derde lid, onderdeel d, tot ten hoogste dat bedrag in mindering gebracht.   
 5.  Tot de schulden behoren niet premies en bijdragen ter zake van rechten die op grond van het tweede en derde lid niet tot de bezittingen behoren.   
 6.  Het bedrag, genoemd in het derde lid, onderdeel d, wordt herzien met ingang van de dag waarop het netto-minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wordt herzien, met het percentage van die herziening. Van het herziene bedrag en van de dag waarop de herziening plaatsvindt, wordt door de Minister mededeling gedaan in de Staatscourant.  
@@ -150,12 +150,12 @@ b. de gehuwde rechthebbende;
 c. de ongehuwde rechthebbende die een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn.     
 2.  De bruto-overbruggingsuitkering bedraagt voor: 
 
-a. de ongehuwde rechthebbende zonder kinderen € 1114,78 per 1 januari 2014: € 1121,87;  
+a. de ongehuwde rechthebbende zonder kinderen € 1.126,68;  
 
-b. de gehuwde rechthebbende € 726,41per 1 januari 2014: € 727,49;  
+b. de gehuwde rechthebbende € 731,44;  
 
-c. de ongehuwde rechthebbende met een kind als bedoeld in het eerste lid, onderdeel c, € 1388,29 per 1 januari 2014: € 1400,73.     
-3.  De bruto-partneruitkering bedraagt € 726,41 per 1 januari 2014: € 727,49.   
+c. de ongehuwde rechthebbende met een kind als bedoeld in het eerste lid, onderdeel c, € 1.406,55.     
+3.  De bruto-partneruitkering bedraagt € 731,44.   
 4.  De bedragen, genoemd in het tweede en derde lid, worden herzien met ingang van de dag waarop het netto minimumloon, bedoeld in de [artikel 37 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), wordt herzien op zodanige wijze dat de netto-uitkering wordt herzien met het percentage van de herziening van dat netto minimumloon. Van de herziene bedragen en van de dag waarop de herziening plaatsvindt, wordt door de Minister mededeling gedaan in de Staatscourant.  
 
 ### Artikel  9  

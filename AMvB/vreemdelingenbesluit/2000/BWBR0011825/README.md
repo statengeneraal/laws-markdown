@@ -1285,13 +1285,15 @@ f. minderjarig is, voor zover in diens opvang en wettelijke vertegenwoordiging i
 
 2°. vóór indiening van de aanvraag vijf jaren rechtmatig in Nederland heeft verbleven als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of als Nederlander, voor zover Nederland naar het oordeel van Onze Minister het meest aangewezen land is voor de vreemdeling;    
 
-g. in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md), en die direct voorafgaande aan de remigratie: 
+g. in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md), mits hij niet eerder gebruik heeft gemaakt van de terugkeeroptie, zijn aanvraag tot wedertoelating is ontvangen binnen één jaar na de remigratie uit Nederland en hij direct voorafgaande aan de remigratie: 
 
-1°. gedurende drie achtereenvolgende jaren rechtmatig verblijf als bedoeld in [artikel 8, onder a, c, e dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in Nederland had;  
+1°. als remigrant uit Nederland was geremigreerd op grond van de [Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md);  
 
-2°. als het minderjarige kind van een Nederlander of van een vreemdeling met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zelf rechtmatig verblijf als bedoeld in artikel 8, onder a, c, e dan wel l, van de Wet had, ongeacht de duur daarvan, en tegelijkertijd met die Nederlander of die vreemdeling om verblijf verzoekt, of  
+2°. als meeremigerende partner van de remigrant gedurende drie achtereenvolgende jaren rechtmatig verblijf had als bedoeld in [artikel 8 van de Wet](../../../../wet/remigratiewet/BWBR0010424/README.md) of als Nederlander;  
 
-3°. als het minderjarige kind van een Nederlander of van een vreemdeling met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zelf rechtmatig verblijf als bedoeld in artikel 8, onder a, c, e dan wel l, van de Wet had, ongeacht de duur daarvan, die binnen een jaar na remigratie meerderjarig is geworden en die zelfstandig om verblijf verzoekt;    
+3°. als meeremigrerend minderjarig kind van de remigrant rechtmatig verblijf had als bedoeld in [artikel 8 van de Wet](../../../../wet/remigratiewet/BWBR0010424/README.md) of als Nederlander, ongeacht de duur daarvan, en tegelijkertijd met die remigrant om wedertoelating verzoekt, of  
+
+4°. als meeremigrerend minderjarig kind van de remigrant rechtmatig verblijf had als bedoeld in [artikel 8 van de Wet](../../../../wet/remigratiewet/BWBR0010424/README.md) of als Nederlander, ongeacht de duur daarvan, en zelfstandig om wedertoelating verzoekt indien hij binnen een jaar na remigratie meerderjarig is geworden;    
 
 h. ten minste één jaar in het bezit is geweest van een verblijfsvergunning als slachtoffer van mensenhandel die hiervan om zwaarwegende redenen geen aangifte kan of wil doen of anderszins geen medewerking kan of wil verlenen aan de strafrechtelijke opsporing en vervolging van de mensenhandelaar;  
 
@@ -1748,14 +1750,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](..
 a. voor het negentiende levensjaar tien jaren rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft gehad en wiens aanvraag is ontvangen voor het negenentwintigste levensjaar, of  
 
 b. voor het negentiende levensjaar vijf jaren rechtmatig in Nederland heeft verbleven als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en voor wie Nederland naar het oordeel van Onze Minister het meest aangewezen land is.     
-2.  De verblijfsvergunning kan eveneens worden verleend aan de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md), en die direct voorafgaande aan de remigratie: 
-
-a. als Nederlander in Nederland verbleef;  
-
-b. rechtmatig verblijf als bedoeld in [artikel 8, onder b of d, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in Nederland had, of  
-
-c. gedurende vijf jaren rechtmatig verblijf als bedoeld in [artikel 8, onder a, c, e dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in Nederland had.     
-3.  De aanvraag wordt niet afgewezen op grond van [artikel 21, eerste lid, onder a, e of f, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). 
+2.  De aanvraag wordt niet afgewezen op grond van [artikel 21, eerste lid, onder a, e of f, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). 
 
 ### Artikel  3.93  
 
@@ -1815,9 +1810,7 @@ f. meerderjarig is en:
 
 2°. voor het negentiende levensjaar vijf jaren rechtmatig in Nederland heeft verbleven als bedoeld in [artikel 8, onder a, b dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en voor wie Nederland naar het oordeel van Onze Minister het meest aangewezen land is;    
 
-g. oud-Nederlander is, die het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, dan wel door intrekking van het besluit waarbij het Nederlanderschap is verleend op de grond dat hij heeft nagelaten na de totstandkoming van zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, en die voorafgaand aan de naturalisatie ten minste vijf jaren rechtmatig verblijf in Nederland als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft gehad;  
-
-h. meerderjarig is, in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](../../../../wet/remigratiewet/BWBR0010424/README.md) en voorafgaand aan de remigratie ten minste vijf jaren rechtmatig verblijf in Nederland als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft gehad.  
+g. oud-Nederlander is, die het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, dan wel door intrekking van het besluit waarbij het Nederlanderschap is verleend op de grond dat hij heeft nagelaten na de totstandkoming van zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, en die voorafgaand aan de naturalisatie ten minste vijf jaren rechtmatig verblijf in Nederland als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft gehad.   
 3. Onze Minister kan het eerste lid voorts buiten toepassing laten, indien de vreemdeling naar zijn oordeel blijkens een door deze vreemdeling overgelegd advies als bedoeld in [artikel 2.8, eerste lid, van het Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap blijvend niet in staat is het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md) of een diploma, certificaat of ander document als bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), te behalen. 
 4. Onze Minister kan het eerste lid voorts buiten toepassing laten, voorzover toepassing daarvan naar zijn oordeel zal leiden tot een onbillijkheid van overwegende aard. 
 5. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de toepassing van het tweede lid, onder e, en derde lid.

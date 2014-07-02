@@ -159,7 +159,7 @@ o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 
 ####Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1.  De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), wordt voor het jaar 2011 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 53.175,67. De vaste formatie wordt als volgt vastgesteld: 
+1.  De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), wordt voor het jaar 2011 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 52.635,29. De vaste formatie wordt als volgt vastgesteld: 
 
 a. één formatieplaats per agrarisch opleidingscentrum; en  
 
@@ -168,18 +168,13 @@ b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan he
 c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;  
 
 d. indien de formatie van een agrarisch opleidingscentrum, berekend volgens deze regeling zoals die luidde op 1 januari 2011, hoger was dan die volgens deze regeling zoals deze luidt op 1 januari 2012, dan wordt het verschil voor het bekostigingsjaar 2012 toegevoegd aan de formatie van dat agrarisch opleidingscentrum. Voor het bekostigingsjaar 2013 wordt 75% van het verschil toegevoegd, voor het jaar 2014 50% en voor het jaar 2015 25%.     
-2.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) bedraagt per 1 januari 2011: 
+2.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) bedraagt per 1 januari 2014: 
 
-a. voor de leerling voorbereidend beroepsonderwijs € 6463,24, bestaande uit een component voor personele kosten ad € 5.484,87en een component voor materiële kosten ad € 978,37;  
+a. voor de leerling voorbereidend beroepsonderwijs € 6650,26, bestaande uit een component voor personele kosten ad € 5.565,95 en een component voor materiële kosten ad € 1.084,31;  
 
-b. voor de leerling leerwegondersteunend onderwijs€ 10.070,72,bestaande uit een component voor personele kosten ad € 8.842,35en een component voor materiële kosten ad € 1.228,37.     
-3.  De bedragen in het eerste en tweede lid worden jaarlijks als volgt aangepast: 
+b. voor de leerling leerwegondersteunend onderwijs € 10.334,44, bestaande uit een component voor personele kosten ad € 8.973,06 en een component voor materiële kosten ad € 1.361,38;  
 
-a. het bedrag in het eerste lid wordt met hetzelfde percentage aangepast als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
-
-b. de bedragen voor personele kosten, bedoeld in het tweede lid, worden aangepast met hetzelfde percentage als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
-
-c. de bedragen voor materiële kosten, bedoeld in het tweede lid, worden jaarlijks aangepast met het gemiddelde van de percentages waarmee de bedragen voor het voorbereidend beroepsonderwijs worden aangepast op grond van [artikel 86, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+c. het ondersteuningsbedrag per leerling bedraagt € 3.684,18.    
 
 ### Artikel  3.1.4  
 

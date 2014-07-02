@@ -264,7 +264,7 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 1.  Ten hoogste vier jaren voorafgaand aan 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, zijn de waarde van de fosfaattoestand en de waarde van het stikstofleverende vermogen van de bodem van de tot het bedrijf behorende oppervlakte landbouwgrond vastgesteld en vastgelegd in een analyserapport door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.   
 2.  Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig artikel 103a, eerste tot en met derde lid.   
 3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
-4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 15 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
+4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
 5.  In afwijking van het eerste lid zijn in 2014 de daar bedoelde waarden ten hoogste vier jaren, 4 maanden en 14 dagen voorafgaand aan 14 juni vastgesteld en vastgelegd in een daar bedoeld analyserapport.   
 6.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2015. 
 
@@ -663,7 +663,7 @@ c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid 
 
 ### Artikel  50  
 
-1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.   
+1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.   
 2.  De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens artikel 118 gestelde regels.   
 3.  De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na 1 januari 2008 bij de minister. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.  
 4. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de ondernemer behalve de gegevens, bedoeld in [artikel 43, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), tevens een omschrijving van de in [artikel 16, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde behandelingsmethode voor zuiveringsslib. 
@@ -676,7 +676,7 @@ De ondernemer, bedoeld in artikel 50, eerste tot en met derde lid, stelt in Nede
 
 ### Artikel  51  
 
-1.  Behalve de gegevens, bedoeld in [artikel 44, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over: 
+1.  Behalve de gegevens, bedoeld in [artikel 44, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over: 
 
 a. de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in artikel 98, eerste en tweede lid; en  
 
@@ -699,11 +699,11 @@ b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en
 
 ### Artikel  52  
 
-1. De ondernemer, bedoeld in artikel 50, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister per bedrijf met staldieren waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over: 
+1. De ondernemer, bedoeld in artikel 50, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister per bedrijf met staldieren of runderen waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over: 
 
 a. de naam, het adres en het door de minister ter identificatie van het bedrijf verstrekte relatienummer van het bedrijf, waaraan diervoeder is geleverd;  
 
-b. de hoeveelheid geleverd mengvoeder bestemd voor staldieren, onderscheiden naar diersoort; en  
+b. de hoeveelheid geleverd mengvoeder bestemd voor staldieren of runderen, onderscheiden naar diersoort; en  
 
 c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.   
 2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.
@@ -817,7 +817,7 @@ d. de datum waarop het laden van de dierlijke meststoffen aanvangt.
 
 a. de door de minister ter identificatie verstrekte relatienummers van de onderneming van de vervoerder, het bedrijf of de onderneming van de leverancier en het bedrijf of de onderneming van de afnemer;  
 
-b. de datum waarop het vervoer plaatsvindt;  
+b. de datum waarop het vervoer plaatsvindt en het tijdstip waarop de vracht dierlijke meststoffen wordt geladen;  
 
 c. de postcode en het huisnummer van de laadplaats en de losplaats; 
 
@@ -890,7 +890,7 @@ e. de grootte van een vracht wordt vooraf aan het vervoer bepaald en is ten hoog
 
 ### Artikel  60  
 
-1.  Als vervoersbewijs als bedoeld in [artikel 53, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in bijlage F, onderdeel A.   
+1.  Als vervoersbewijs als bedoeld in [artikel 53, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in bijlage F, onderdeel A.   
 2.  Het vervoersbewijs dierlijke meststoffen wordt door de minister verstrekt en is voorzien van een uniek nummer.   
 3.  Indien de dierlijke meststoffen buiten Nederland worden gebracht, wordt ter zake van het vervoer, in afwijking van het tweede lid,: 
 
@@ -1102,9 +1102,9 @@ De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld
 
 1.  Als categorieën landbouwers als bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden aangewezen: 
 
-a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b;  
+a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a;  
 
-b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a.     
+b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.     
 2.  Als categorieën afnemers als bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 2°](../../../../wet/meststoffenwet/BWBR0004054/README.md), worden aangewezen: 
 
 a. landbouwers die een bedrijf hebben waar biologisch plantaardige productie, als bedoeld in artikel 12 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) plaatsvindt;  
@@ -1212,7 +1212,7 @@ De minister draagt er zorg voor dat aan de landbouwer die 50 procent of meer van
 ### Artikel  77  
 
 1.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf of intermediaire onderneming aangevoerde hoeveelheid dierlijke meststoffen, de van een bedrijf of intermediaire onderneming afgevoerde hoeveelheid dierlijke meststoffen en de binnen een intermediaire onderneming vervoerde hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.   
-2.  Indien een vervoerder binnen een periode van ten hoogste zeven dagen van één leverancier meerdere vrachten dierlijke meststoffen, niet zijnde mineralenconcentraat afvoert naar één afnemer kan het stikstofgehalte en het fosfaatgehalte van deze vrachten worden vastgesteld door middel van analyse van een mengmonster dat op verzoek van de vervoerder door het betrokken laboratorium uit de uit deze vrachten genomen monsters is samengesteld, onder de volgende voorwaarden: 
+2.  Indien een vervoerder binnen een periode van ten hoogste zeven dagen van één leverancier meerdere vrachten dierlijke meststoffen afvoert naar één afnemer kan het stikstofgehalte en het fosfaatgehalte van deze vrachten worden vastgesteld door middel van analyse van een mengmonster dat op verzoek van de vervoerder door het betrokken laboratorium uit de uit deze vrachten genomen monsters is samengesteld, onder de volgende voorwaarden: 
 
 a. het mengmonster bestaat uit ten hoogste twaalf monsters; en  
 
@@ -1233,7 +1233,7 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 
 ### Artikel  80  
 
-1.  Het uit een vracht dierlijke meststoffen genomen monster wordt, onder vermelding van de betrokken leverancier en afnemer, alsmede van het nummer van het op deze vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, door de vervoerder uiterlijk tien werkdagen na bemonstering toegestuurd aan een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de accreditatienormen van hoofdstuk 3 van het accreditatie-programma AP05, dat is opgenomen in bijlage H.   
+1.  Het uit een vracht dierlijke meststoffen genomen monster wordt, onder vermelding van de betrokken leverancier en afnemer, alsmede van het nummer van het op deze vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, door de vervoerder uiterlijk tien werkdagen na bemonstering toegestuurd aan een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de accreditatienormen van het accreditatie-programma AP05, dat is opgenomen in bijlage H.   
 2.  De vervoerder bewaart de monsters totdat zij aan het laboratorium worden toegestuurd, zodanig dat zij in goede staat blijven verkeren.  
 
 ### Artikel  81  
@@ -1459,7 +1459,7 @@ Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het
 
 ### Artikel  97  
 
-1.  De ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md): 
+1.  De ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md): 
 
 a. bepaalt het gewicht van de desbetreffende hoeveelheid diervoeders door middel van weging met behulp van een weegwerktuig; en  
 
@@ -1719,7 +1719,7 @@ b. indien een gedeelte van het productierecht komt te vervallen, het aantal vark
 
 ### Artikel  111  
 
-1.  Een kennisgeving van overgang, bedoeld in artikel 104, eerste lid, wordt eerst geregistreerd nadat de verwerver een bedrag van € 250 aan de minister heeft voldaan.   
+1.  Een kennisgeving van overgang, bedoeld in artikel 104, eerste lid, wordt eerst geregistreerd nadat de verwerver een bedrag van € 100 aan de minister heeft voldaan.   
 2.  Een aanmelding ter registratie, bedoeld in artikel 105, eerste lid, wordt voor de toepassing van paragraaf 2 eerst in behandeling genomen nadat een bedrag van € 35 aan de minister is voldaan.   
 3.  Indien de minister op grond van [artikel 29, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.   
 4.  Het bedrag, bedoeld in het tweede lid, geldt per verzoek per bedrijf.  
@@ -2163,6 +2163,8 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |6 |Reststof die is vrijgekomen bij de productie van brood en banket en die bestaat uit resten brood, koek, banket en deegresten en die zijn uitgevallen bij het productieproces en oorspronkelijk bestemd waren om in voedingsmiddelen te verwerken en niet bestaan uit veegvuil, productievreemde delen, keukenafval en etensresten (bakkerijrestproducten). |
 |7 |Reststof die is vrijgekomen bij de bereiding van kaas, kwark of caseïne en hoofdzakelijk bestaat uit melksuiker (lactose), resten eiwit en resten melkvet en mineralen van melk. De reststof kan geconcentreerd of gedroogd zijn (wei, weiconcentraat of gedroogde wei). |
 |8 |Reststof die is vrijgekomen bij het ontkorsten van kaas afkomstig van gepasteuriseerde koeienmelk en bestemd is voor levensmiddelen en die bestaat uit kaas, kaaskorst en maximaal 3% kaaskorstbedekkingsmiddel van copolymeren van vinylacetaat en maximaal 0,0006% Natamycine (E235) bevat (kaasschaafsel). |
+|9 |Reststof die is vrijgekomen bij de productie van melkzuurbacteriën bestemd voor de productie van kaas, kwark, yoghurt of karnemelk via een fermentatieproces en waaruit melkzuurbacteriën door een centrifugestap zijn verwijderd. De reststof bestaat uit resten van een vloeibaar groeimedium voor melkzuurbacteriën (supernatant, precipitaatvrij, waterig restant van groeimedium voor melkzuurbacteriën). |
+|10 |Reststof die vrijkomt als zuiveringsslib van een aerobe zuiveringsstap op AWZI van afvalwater van een kaasfabriek met sporen afvalwater van huishoudens, gevolgd door langdurige opslag en die bestaat uit de resten van actief slib en bezonken bestanddelen uit afvalwater en waarin pathogenen afdoende zijn afgedood (zuiveringsslib van kaasfabriek). |
 |  *D*  |  *Stoffen afkomstig uit de diervoederindustrie*   |
 |  *E*  |  *Stoffen afkomstig uit andere industrieën*   |
 | 1  | Reststof die is vrijgekomen bij de fabrieksmatige winning van biodiesel uit raapzaadolie of koolzaadolie door omestering met methanol en scheiding onder invloed van de zwaartekracht (glycerine).  |
@@ -2244,6 +2246,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |7. |Reststof die is verkregen bij de verwerking van aardappelen en die in hoofdzaak bestaat uit aardappel (Solanum tuberosum. L.) en aardappelresten en die vrij is van verpakkingsmateriaal. Dierlijke vetten kunnen aanwezig zijn (aardappelrestanten met dierlijk vet) |
 |8. |Reststof die is verkregen bij de productie van aardappelen tot frites bestemd voor levensmiddel en die bestaat uit gefrituurde aardappelresten (voorgebakken frites met dierlijk vet). |
 |9. |Reststof die is verkregen bij de productie van biodiesel (methyl- of ethylesters van vetzuren), verkregen door omestering van oliën en vetten van onbepaalde dierlijke herkomst of een reststof verkregen bij oleochemische verwerking van vetten en oliën van dierlijke herkomst, inclusief omestering, hydrolyse of verzeping (reststoffen biodieselproductie). |
+|10. |Reststof die vrijkomt bij de bewerking van runderpensen bestemd voor humane consumptie en bestaat uit bij afvalwaterzuivering afgezeefde resten van pensen en maaginhoud (zuiveringsslib runderpens-verwerkende industrie). |
 | *G3* |Stoffen afkomstig uit overige bronnen |
 |1. |Restoliën die zijn verkregen bij inzamelen bij restaurants, hotels, cafetaria’s etc. en niet geschikt zijn voor consumptie (frituurolie). |
 |2. |Reststof die is verkregen bij de raffinage van oliën en vetten in de voedings- en genotsmiddelen- en veevoedingsindustrie en die bestaat uit bleekaarde van bentoniet of montmorilloniet (ontoliede bleekaarde). |
@@ -3945,7 +3948,7 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 
 ### Bijlage  I  
 
-####Forfaitaire mineralengehalten in dierlijke mest
+####Forfaitaire mineralengehalten in dierlijke mest en mestcodes
 
 #### Tabel I behorende bij de artikelen 84 t/m 91  
 
@@ -4003,14 +4006,26 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 |:---|:---|:---|:---|
 | Paardenmest  | 25  | 5,0  | 3,0  |
 | Fase 1 substraat  | 107  | 5,5  | 3,1  |
-| Fase 3 substraat<sup>*  Fase 3 substraat is het product dat van het compostbedrijf wordt vervoerd naar de champignonkwekerij. </sup>  | 109  | 8,0  | 4,4  |
-| champost<sup>** champost is het product dat van de champignonkweker wordt afgevoerd. </sup>  | 110  | 6,9  | 4,1  |
+| Fase 3 substraat<sup>*</sup>  | 109  | 8,0  | 4,4  |
+| champost<sup>**</sup>  | 110  | 6,9  | 4,1  |
+
+<sup>*</sup> Fase 3 substraat is het product dat van het compostbedrijf wordt vervoerd naar de champignonkwekerij.<sup>**</sup> champost is het product dat van de champignonkweker wordt afgevoerd.
 
 ####Tabel III behorend bij artikel 81 
 
 | Omschrijving  | Mestcode  | Kg stikstof per ton  | Kg fosfaat per ton  |
 |:---|:---|:---|:---|
-| Mineralenconcentraat <sup>xiii  mineralenconcentraat dat is geproduceerd door een overeenkomstig artikel 35b aangewezen producent en dat wordt vervoerd naar een in artikel 35f, eerste lid, bedoelde landbouwer. </sup>  | 120  | 8,0  | 1,0  |
+| Mineralenconcentraat<sup>xiii</sup>  | 120  | 8,0  | 1,0  |
+
+<sup>xiii</sup> mineralenconcentraat dat is geproduceerd door een overeenkomstig artikel 35b aangewezen producent en dat wordt vervoerd naar een in artikel 35f, eerste lid, bedoelde landbouwer.
+
+####Tabel IV behorende bij de artikelen 57 , 57a , 57b  en 61 
+
+| Omschrijving  | Mestcode  |
+|:---|:---|
+| Compost  | 111  |
+| Kunstmest  | 115  |
+| Overige mestsoorten  | 116  |
 
 ### bijlage Ia  
 
@@ -4413,7 +4428,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 |:---|:---|:---|:---|:---|:---|:---|
 | Administratieve verplichtingen landbouwers  |
 | --- |
-| Art. 33b lid 5  | Art. 34  | Art. 72f  | Niet tijdig melden van gegevens inzake de mestverwerkings-overeenkomst of de overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet  | M096  | € 100  |
+| Art. 33b lid 5  | Art. 34  | Art. 72f  | Niet tijdig melden van gegevens inzake de mestverwerkingsovereenkomst of de overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet  | M096  | € 100  |
 | --- | --- | --- | Niet volledig melden van gegevens inzake de mestverwerkingsovereenkomst of de overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet  | M097  | € 200  |
 | --- | --- | --- | Niet naar waarheid melden van gegevens inzake de mestverwerkingsovereenkomst of de overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet  | M098  | € 300  |
 | --- | --- | --- | Niet melden van gegevens inzake de mestverwerkingsovereenkomst of de overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet  | M099  | € 300  |
@@ -4446,42 +4461,40 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- |
 | Administratieve verplichtingen intermediairs  |
 | --- |
-| Art. 33b lid 5  | Art. 34  | Art. 72f  | Niet tijdig melden van gegevens inzake de mestverwerkings-overeenkomst  | M146  | € 100  |
-| --- | --- | --- | Niet volledig melden van gegevens inzake de mestverwerkings-overeenkomst  | M147  | € 200  |
-| --- | --- | --- | Niet naar waarheid melden van gegevens inzake de mestverwerkings-overeenkomst  | M148  | € 300  |
-| --- | --- | --- | Niet melden van gegevens inzake de mestverwerkings-overeenkomst  | M149  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| Art. 34 en 35  | Art. 38 lid 1 en lid 2 onderdeel a t/m i,  art. 41 onderdeel a  | Art. 45 lid 1 t/m 6,  art. 124 lid 1  | Niet aanmelden van een intermediaire onderneming ter registratie door de intermediair  | M150  | € 300  |
+| Art. 33b lid 5  | Art. 34  | Art. 72f  | Niet tijdig melden van gegevens inzake de mestverwerkingsovereenkomst  | M146  | € 100  |
+| --- | --- | --- |Niet volledig melden van gegevens inzake de mestverwerkingsovereenkomst |M147 |€ 200 |
+| --- | --- | --- |Niet naar waarheid melden van gegevens inzake de mestverwerkingsovereenkomst |M148 |€ 300 |
+| --- | --- | --- |Niet melden van gegevens inzake de mestverwerkingsovereenkomst |M149 |€ 300 |
+| Art. 34 en 35  | Art. 38 lid 1 en lid 2 onderdeel a t/m i,  art. 41 onderdeel a  | Art. 45 lid 1 t/m 6,  art. 124 lid 1  | Niet aanmelden van een intermediaire onderneming ter registratie door de intermediair  | M150  | € 300  |
 | --- | --- | --- | Niet binnen 30 dagen aanmelden van een na 1 januari 2006 opgerichte intermediaire onderneming ter registratie door de intermediair, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M151  | € 100  |
 | --- | --- | --- | Niet volledig aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M152  | € 200  |
 | --- | --- | --- | Niet naar waarheid aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M153  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 39, art. 41 onderdeel b en c, art. 34 lid 1  | Art. 2, art. 45a, 46, art. 47. art. 94 lid 3, art. 95 lid 3, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders door de intermediair, waaronder een administratie (H1-staat, formulier de minister) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M162  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | Art. 40,  art. 41 onderdeel d  | Art. 48,  art. 124 lid 1  | Niet verstrekken van de gevraagde gegevens door de intermediair  | M162  | € 300  |
+| --- | Art. 39, art. 41 onderdeel b en c, art. 34 lid 1  | Art. 2, art. 45a, 46, art. 47. art. 94 lid 3, art. 95 lid 3, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M158  | € 300  |
+| --- | --- | --- | Niet tijdig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M159  | € 100  |
+| --- | --- | --- | Niet volledig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M160  | € 200  |
+| --- | --- | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie)  | M161  | € 300  |
+| --- | Art. 40,  art. 41 onderdeel d  | Art. 48,  art. 124 lid 1  | Niet verstrekken van de gevraagde gegevens door de intermediair  | M162  | € 300  |
 | --- | --- | --- | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de intermediair  | M163  | € 100  |
 | --- | --- | --- | Niet volledig verstrekken van de gevraagde gegevens door de intermediair  | M164  | € 200  |
 | --- | --- | --- | Niet naar waarheid verstrekken van de gevraagde gegevens door de intermediair  | M165  | € 300  |
-| --- | --- | --- | --- | --- | --- |
-| --- | art. 41 onderdeel f  | Art. 49 lid 1,  art. 124 lid 1 en 2  | Niet aanbrengen of aanbrengen van onjuist registratienummer per opslagruimte voor meststoffen door de intermediair  | M166  | € 300  |
+| --- | art. 41 onderdeel f  | Art. 49 lid 1,  art. 124 lid 1 en 2  | Niet aanbrengen of aanbrengen van onjuist registratienummer per opslagruimte voor meststoffen door de intermediair  | M166  | € 300  |
 | --- | --- | --- | Niet op juiste of deugdelijke wijze aanbrengen van het registratienummer per opslagruimte voor meststoffen door de intermediair  | M168  | € 200  |
-| --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 49 lid 2,  art. 124 lid 2  | Niet aanduiden van opslagruimten voor meststoffen d.m.v. de registratienummers in de administratie van de intermediair en bij gegevensverstrekking door de intermediair  | M169  | € 300  |
 | --- |
 | Administratieve verplichtingen overige leveranciers en afnemers bedrijven  |
 | --- |
-| Art. 34, 35 en 37  | Art. 43 lid 1 en lid 2 en 3 onderdelen a t/m e,  art. 46 onderdeel a  | Art. 50 lid 1 t/m 4  | Niet aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd, verhandeld of anderszins bewerkt of verwerkt  | M200  | € 300  |
-| --- | --- | --- | Niet binnen 30 dagen aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M201  | € 100  |
-| --- | --- | --- | Niet volledig aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M202  | € 200  |
-| --- | --- | --- | Niet naar waarheid aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M203  | € 300  |
+| Art. 34, 35 en 37  | Art. 43 lid 1 en lid 2 en 3 onderdelen a t/m e,  art. 46 onderdeel a  | Art. 50 lid 1 t/m 4  | Niet aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd, verhandeld of anderszins bewerkt of verwerkt  | M200  | € 300  |
+| --- | --- | --- | Niet binnen 30 dagen aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens  | M201  | € 100  |
+| --- | --- | --- | Niet volledig aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens  | M202  | € 200  |
+| --- | --- | --- | Niet naar waarheid aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens  | M203  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 1, 2, 6, 7, art. 46 onderdeel b en c, art. 34,  | Art. 50a, 51, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M208  | € 300  |
+| --- | Art. 44 lid 1, 2, 6, 7, art. 46 onderdeel b en c, art. 34,  | Art. 50a, 51, art. 124 lid 1  | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, runderen of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) of niet in Nederland ter controle beschikbaar stellen  | M208  | € 300  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M209  | € 100  |
+| --- | Art. 44 lid 2  | --- | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, runderen of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M209  | € 100  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M210  | € 200  |
+| --- | Art. 44 lid 2  | --- | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, runderen of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M210  | € 200  |
 | --- | --- | --- | --- | --- | --- |
-| --- | Art. 44 lid 2  | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M211  | € 300  |
+| --- | Art. 44 lid 2  | --- | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, runderen of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie)  | M211  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | Art. 44 lid 3 t/m 7,  art. 46 onderdeel b en c,  art. 34  | --- | Niet bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie)  | M212  | € 300  |
 | --- | --- | --- | --- | --- | --- |

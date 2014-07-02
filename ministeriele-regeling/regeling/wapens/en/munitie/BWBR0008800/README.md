@@ -63,9 +63,9 @@ g. *ploertendoder:* een verende of uitschuifbare staaf met een verzwaard uiteind
 
 Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken dat zij voor bedreiging of afdreiging geschikt zijn, worden aangewezen: 
 
-a.  voorwerpen die voor wat betreft hun vorm en afmetingen een sprekende gelijkenis vertonen met vuurwapens of met voor ontploffing bestemde voorwerpen; 
+a.  voorwerpen die voor wat betreft hun vorm en afmetingen een sprekende gelijkenis vertonen met vuurwapens of met voor ontploffing bestemde voorwerpen, met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG; 
 
-b.  voorwerpen vermeld op lijst a of lijst b van de bij deze regeling behorende bijlage I, alsmede niet in die bijlage genoemde voorwerpen die voor wat betreft hun vorm en afmetingen daarmee een sprekende gelijkenis vertonen; 
+b.  voorwerpen vermeld op lijst a of lijst b van de bij deze regeling behorende bijlage I, alsmede niet in die bijlage genoemde voorwerpen die voor wat betreft hun vorm en afmetingen daarmee een sprekende gelijkenis vertonen, met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG; 
 
 c.  lucht-, gas- en veerdrukwapens die zodanig zijn gewijzigd dat het dragen niet of minder zichtbaar is; 
 
@@ -75,7 +75,7 @@ e.  laserwapens die specifiek zijn ontworpen om permanente blindheid te veroorza
 
 f.  werppennen; 
 
-g. alle voorwerpen die een sprekende gelijkenis vertonen met wapens, niet zijnde vuurwapens, en die door de aard en de samenstelling van het materiaal waaruit zij zijn vervaardigd, niet dan wel slecht detecteerbaar zijn door metaaldetectoren of andere electronische detectieapparatuur, met uitzondering van voorwerpen die specifiek zijn vervaardigd voor reguliere maatschappelijk aanvaarde gebruiksdoeleinden. 
+g. alle voorwerpen die een sprekende gelijkenis vertonen met wapens, niet zijnde vuurwapens, en die door de aard en de samenstelling van het materiaal waaruit zij zijn vervaardigd, niet dan wel slecht detecteerbaar zijn door metaaldetectoren of andere electronische detectieapparatuur, met uitzondering van voorwerpen die specifiek zijn vervaardigd voor reguliere maatschappelijk aanvaarde gebruiksdoeleinden en met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG. 
 
 ### 3a  
 
@@ -83,7 +83,7 @@ g. alle voorwerpen die een sprekende gelijkenis vertonen met wapens, niet zijnde
 
 ### Artikel  3a  
 
-1.  Het bepaalde in [artikel 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [27, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [32a, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [32b, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover hun het voorschrift is gegeven om tijdens de dienstuitoefening bewapend te zijn met bij of krachtens het [Besluit bewapening en uitrusting](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md) aangewezen wapens of munitie.   
+1.  Het bepaalde in [artikel 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [27, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [32a, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [32b, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover hun het voorschrift is gegeven om tijdens de dienstuitoefening bewapend te zijn met bij of krachtens het [Besluit bewapening en uitrusting politie](../../../../../../AMvB/besluit/bewapening/en/uitrusting/politie/BWBR0032136/README.md) aangewezen wapens of munitie.   
 2.  Het bepaalde in [artikel 9, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [32a, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [32b, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op: 
 
 a. de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), die belast zijn met het onderwijs, de verwerving, het vervoer of het onderhoud van wapens en munitie voor zover de in die artikelleden genoemde handelingen geschiedt uit hoofde van de dienstuitoefening;  
@@ -96,7 +96,7 @@ b. personen die werkzaam zijn bij het Landelijk selectie- en opleidingsinstituut
 
 ### Artikel  4  
 
-1.  Het bepaalde in [artikel 22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op opsporingsambtenaren van bijzondere opsporingsdiensten en buitengewoon opsporingsambtenaren, voor zover hun het voorschrift is gegeven om gedurende hun dienstuitoefening een wapen en munitie voorhanden te hebben.   
+1.  Het bepaalde in [artikel 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op opsporingsambtenaren van bijzondere opsporingsdiensten en buitengewoon opsporingsambtenaren, voor zover hun het voorschrift is gegeven om gedurende hun dienstuitoefening een wapen en munitie voorhanden te hebben.   
 2.  Het in het eerste lid bedoelde voorschrift wordt gegeven door de Minister.   
 3.  Het eerste lid geldt uitsluitend gedurende de periode dat opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en de buitengewoon opsporingsambtenaar beschikken over een titel van opsporingsbevoegdheid.  
 
@@ -108,25 +108,24 @@ b. personen die werkzaam zijn bij het Landelijk selectie- en opleidingsinstituut
 
 ### Artikel  6  
 
-Het voorschrift, bedoeld in artikel 4, eerste lid, kan uitsluitend betrekking hebben op: 
+1. Het voorschrift, bedoeld in artikel 4, eerste lid, kan uitsluitend betrekking hebben op: 
 
-a. een korte wapenstok, van een door de Minister goedgekeurd merk en type;  
+a. een korte wapenstok als bedoeld in [artikel 12 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md);  
 
-b. het door de Minister aangewezen pistool;  
+b. een pistool als bedoeld in [artikel 2, eerste lid, onder a of b, van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md);  
 
-c. de door de Minister aangewezen munitie;  
+c. de munitie als bedoeld in [artikel 3 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md);  
 
-d. door de Minister aangewezen pepperspray;  
+d. pepperspray als bedoeld in [artikel 6 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md);  
 
-e. andere wapens en munitie dan genoemd onder a tot en met d.   
+e. andere wapens en munitie dan genoemd onder a tot en met d.  
+2. Indien het voorschrift betrekking heeft op een pistool als bedoeld in het eerste lid, onder b, of pepperspray als bedoeld in het eerste lid, onder d, geldt als voorwaarde dat het pistool wordt gedragen in een daarbij horend holster als bedoeld in [artikel 7 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md) onderscheidenlijk dat pepperspray wordt gedragen in een draagmiddel als bedoeld in [artikel 6a van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md). 
 
 ### Artikel  6a  
-Treedt in werking per 01-07-2014 
 
 De [artikelen 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [27 eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) zijn niet van toepassing op opsporingsambtenaren van bijzondere opsporingsdiensten en buitengewoon opsporingsambtenaren, voor zover de in die artikelleden genoemde handelingen plaats vinden met een trainingswapen en trainingsmunitie als bedoeld in [artikel 14 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](../../../../../../ministeriele-regeling/aanwijzingsbesluit/bewapening/en/uitrusting/politie/2013/BWBR0034439/README.md), ten behoeve van de opleiding of beroepsvaardigheidstraining. 
 
 ### Artikel  6b  
-Treedt in werking per 01-07-2014 
 
 1.  De wapens en de munitie, bedoeld in artikel 6 en artikel 6a, worden door het Politiedienstencentrum aangeschaft en afgevoerd, met uitzondering van de afvoer van de pepperspray, de verdekte pepperspray en de munitie, voor zover deze na gebruik geen werkzame bestanddelen meer bevatten.   
 2.  De Minister kan in bijzondere gevallen toestemming verlenen om af te wijken van het eerste lid.   
@@ -138,7 +137,7 @@ Treedt in werking per 01-07-2014
 
 ### Artikel  7  
 
-1.   Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend aan personen die werkzaam zijn bij het Nederlands Forensisch Instituut, voor zover het doen binnenkomen of uitgaan, het vervoeren of het voorhanden hebben geschiedt uit hoofde van de dienstuitoefening.  
+1. Van het verbod van [artikel 13, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend aan personen die werkzaam zijn bij het Nederlands Forensisch Instituut, voor zover het vervaardigen, transformeren, overdragen, overdragen, doen binnenkomen of uitgaan, het vervoeren of het voorhanden hebben geschiedt uit hoofde van de dienstuitoefening.  
 2.   Het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26 eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op personen die deel uitmaken van of werkzaam zijn voor de Unit Bijstand en Ondersteuning en de Unit Vervoer van de Dienst Vervoer en Ondersteuning van de landelijke dienst Dienst Vervoer en Ondersteuning voor zover het doen binnenkomen of uitgaan, het vervoeren, het voorhanden hebben of het dragen geschiedt uit hoofde van de dienstuitoefening.  
 3.   Het verbod van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is niet van toepassing op personen, aangewezen door de directeur van een justitiële inrichting en die een toezichthoudende taak vervullen in het kader van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, voor zover het betreft wapens van de categorie IV, onder 3, en het dragen geschiedt uit hoofde van de dienstuitoefening. 
 
@@ -182,7 +181,9 @@ g.  de [Opiumwet](../../../../../../wet/opiumwet/BWBR0001941/README.md).
 
 a.  het Vakexamen voor de handel in wapens en munitie van de Leidsche Onderwijs Instellingen; 
 
-b.  het Examen inzake vakbekwaamheid voor de detailhandel in vuurwapens en munitie van de Nederlandse Vereniging voor de Wapenhandel, voor zover dat examen voor 1 januari 1989 is afgelegd.    
+b.  het Examen inzake vakbekwaamheid voor de detailhandel in vuurwapens en munitie van de Nederlandse Vereniging voor de Wapenhandel, voor zover dat examen voor 1 januari 1989 is afgelegd; 
+
+c.  het vakexamen voor de handel in wapens en munitie van de Politieacademie.    
 3.  De minister kan, al dan niet tijdelijk, gehele of gedeeltelijke ontheffing verlenen van het bepaalde in het eerste lid. Aan de ontheffing kunnen voorwaarden en beperkingen worden verbonden.   
 
 ### Artikel  10  
@@ -680,13 +681,37 @@ b.  de meegevoerde vuurwapens en munitie in Nederland krachtens een verlof voorh
 
 ### 16  
 
-####Maximum aantal wapens op verlof of jachtakte
+####Sportschutters en jagers
 
 ### Artikel  43  
 
 1.  Houders van een verlof tot het voorhanden hebben, zoals bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), mogen ten hoogste vijf wapens voorhanden hebben.   
 2.  Houders van een jachtakte, mogen ten hoogste zes wapens voorhanden hebben.   
-3.  Het eerste lid en tweede lid is niet van toepassing op houders van een verlof tot het voorhanden hebben, onderscheidenlijk een jachtakte die aantonen dat zes, respectievelijk zeven, of meer wapens voor hen onontbeerlijk zijn voor de beoefening van de schietsport, onderscheidenlijk de jacht.   
+3.  Het eerste lid en tweede lid is niet van toepassing op houders van een verlof tot het voorhanden hebben, onderscheidenlijk een jachtakte die aantonen dat zes, respectievelijk zeven, of meer wapens voor hen onontbeerlijk zijn voor de beoefening van de schietsport, onderscheidenlijk de jacht.    
+4.  Een aanvrager van een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de Wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), moet in de twaalf maanden voorafgaand aan de aanvraag minimaal achttien schietbeurten verrichten, tenzij het tekort aan schietbeurten de aanvrager van het verlof redelijkerwijs niet kan worden aangerekend.   
+5.  Een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), ten behoeve van de schietsport wordt alleen verleend voor de wapens en munitie waarmee de sportschutter binnen het verband van zijn schietvereniging, welke voldoet aan de eisen als bedoeld in artikel 43a, een schietsportdiscipline beoefent.   
+6.  Het eerste lid is niet van toepassing op een houder van een verlof tot het voorhanden hebben van wapens en munitie gedurende het eerste verlofjaar. Deze houder mag ten hoogste een wapen welke geschikt is voor een Olympische schietsportdiscipline voorhanden hebben. 
+
+###16a 
+
+####Schietvereniging
+
+### Artikel  43a  
+
+1.  Een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), kan worden verleend aan een schietvereniging, die door een door de Minister aangewezen organisatie is gecertificeerd.   
+2.  Er kan alleen een verlof worden verleend voor de wapens en munitie die zijn toegelaten bij een erkende of gereglementeerde schietsportdiscipline, welke binnen het verband van de aanvragende schietvereniging worden beoefend.   
+3.  De schietvereniging houdt een presentieregister, een wapenuitgifteregister, een munitie-uitgifteregister en een introducé-register bij, overeenkomstig een door de Minister vastgesteld model.   
+4.  Een verlof als bedoeld in het eerste lid, wordt slechts verleend aan de schietvereniging die tenminste één beheerder heeft aangesteld. Tegen deze beheerder mag geen vrees voor misbruik bestaan.   
+5.  Elke beheerder dient in het bezit te zijn van een verlof tot het voorhanden hebben van verenigingswapens.   
+6.  De beheerder draagt er zorg voor dat de wapens en munitie op het verlof slechts worden uitgeleend aan leden van de schietvereniging.   
+7.  Alvorens een lid van een schietvereniging schiet met verenigingswapens dient hij een verklaring omtrent het gedrag te hebben overgelegd aan het bestuur van de vereniging.   
+8.  De beheerder houdt toezicht op de leden tijdens hun schietbeurten met verenigingswapens.   
+9.  De beheerder ziet er op toe dat de verenigingswapens en de niet verschoten munitie onmiddellijk na afloop van de oefening of wedstrijd aan hem worden teruggegeven.   
+10.  De beheerder draagt er zorg voor dat de wapens en munitie separaat van elkaar in een deugdelijk beveiligde en afgesloten wapenkluis dan wel wapenkamer worden opgeslagen.   
+11.  In afwijking van het zesde lid kan de beheerder ook wapens en munitie die op het verlof staan, uitlenen aan een introducé van de schietvereniging.   
+12.  Een introducé mag maximaal driemaal per twaalf maanden worden geïntroduceerd.   
+13.  Aan introducés en leden die korter dan een jaar lid zijn van de schietvereniging worden alleen verenigingsvuurwapens uitgeleend, welke geschikt zijn voor Olympische schietsportdisciplines.   
+14.  Het aantal wapens op het verlof van de vereniging dient in redelijke verhouding te staan tot het aantal leden dat regelmatig gebruik maakt van die wapens.  
 
 ### 17  
 
@@ -763,7 +788,7 @@ g.  de naam en het adres van degene aan wie na afloop van de bewaring de voorwer
 
 ### Artikel  48  
 
-Voor het indienen van een verzoek om een erkenning, een consent, een vergunning of een verlof wordt gebruik gemaakt van een formulier overeenkomstig het daarvoor in bijlage III bij deze beschikking vastgestelde model.  
+Voor het indienen van een verzoek om een erkenning, een consent, een vergunning of een verlof wordt gebruik gemaakt van een formulier overeenkomstig het daarvoor in bijlage III bij deze beschikking vastgestelde model dan wel de als bijlagen bij de [Circulaire wapens en munitie](../../../../../../circulaire/circulaire/wapens/en/munitie/2013/(cwm/2013)/BWBR0032774/README.md) opgenomen formulieren.  
 
 ### Artikel  49  
 

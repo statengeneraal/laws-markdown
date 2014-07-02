@@ -78,31 +78,31 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en   
 
-b. per dag een inkomen heeft dat lager is dan € 68,30.     
+b. per dag een inkomen heeft dat lager is dan € 68,74.     
 2.   Recht op toeslag heeft een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering;  
 
 b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn, en   
 
-c. per dag een inkomen heeft dat lager is dan € 64,41.     
+c. per dag een inkomen heeft dat lager is dan € 64,67.     
 3.   Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die:  
 
 a. recht heeft op loondervingsuitkering, en   
 
 b. per dag een inkomen heeft dat lager is dan:
 
-1°.indien hij 23 jaar of ouder is: € 51,58;
+1°.indien hij 23 jaar of ouder is: € 51,81;
 
-2°.indien hij 22 jaar is: € 40,53;
+2°.indien hij 22 jaar is: € 40,86;
 
-3°.indien hij 21 jaar is: € 34,22;
+3°.indien hij 21 jaar is: € 34,43;
 
-4°.indien hij 20 jaar is: € 28,52;
+4°.indien hij 20 jaar is: € 28,81;
 
-5°.indien hij 19 jaar is: € 23,92;
+5°.indien hij 19 jaar is: € 24,12;
 
-6°.indien hij 18 jaar is: € 20,47.     
+6°.indien hij 18 jaar is: € 20,57.     
 4.   Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.    
 5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.  
 6. Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.
@@ -158,8 +158,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 68,30 en het inkomen per dag.
-2. Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 64,41 en het inkomen per dag.
+1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 68,74 en het inkomen per dag.
+2. Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 64,67 en het inkomen per dag.
 3. Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
 
 ###Artikel 8a 

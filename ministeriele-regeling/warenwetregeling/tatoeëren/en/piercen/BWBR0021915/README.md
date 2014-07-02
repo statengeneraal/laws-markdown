@@ -59,36 +59,37 @@ In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verl
 
 ### Artikel  5  
 
-1.  Vervallen.   
-2.  De retributie voor het in behandeling nemen van een aanvraag bedraagt: 
+1.  De retributie voor het in behandeling nemen van een aanvraag bedraagt: 
 
-a. € 393,72 voor een vergunning voor het gebruik van een tatoeagemachine;  
+a. €  394,51 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;  
 
-b. € 344,51 voor een vergunning voor het gebruik van pigmenteerpen;  
+b. € 345,20 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;  
 
-c.€ 393,72 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
+c. € 197,25 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;  
 
-d. € 196,86 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;  
+d. €  394,51 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;  
 
-e. € 393,72 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;  
-
-f. € 492,15, indien: 
+e. € 493,13, indien: 
 
 – de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en  
 
 – die vormen van gebruik betrekking hebben op dezelfde ruimte.       
-3.  De retributie wordt vermeerderd met € 24,61 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), in te stellen.   
-4.  Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,61 voor elk kwartier of gedeelte van een kwartier: 
+2.  De retributie wordt vermeerderd met € 24,66 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
+
+a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md) geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of  
+
+b. om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.     
+3.  Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,66 voor elk kwartier of gedeelte van een kwartier: 
 
 a. dat de voortzetting duurt, en  
 
 b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.     
-5.  De retributie wordt verminderd met een bedrag van € 98,43, indien: 
+4.  De retributie wordt verminderd met een bedrag van € 98,63, indien: 
 
 a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;  
 
 b. voor die vergunning dit lid buiten toepassing is gebleven.     
-6.  De aanvrager die in aanmerking komt voor een verlaagd tarief als bedoeld in het vijfde lid, maakt in de aanvraag melding van de in dat lid bedoelde vergunning.  
+5.  De aanvrager die in aanmerking komt voor een verlaagd tarief als bedoeld in het vijfde lid, maakt in de aanvraag melding van de in dat lid bedoelde vergunning.  
 
 ### Artikel  6  
 

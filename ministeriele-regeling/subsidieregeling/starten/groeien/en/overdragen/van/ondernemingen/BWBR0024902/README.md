@@ -1328,6 +1328,223 @@ a. subsidie op grond van artikel 9.3 is opgenomen in bijlage 9.3;
 
 b. subsidie op grond van artikel 9.7 is opgenomen in bijlage 9.4.   
 
+### Hoofdstuk  9a  
+
+####Vroegefasefinanciering
+
+### §  1  
+
+####Algemene bepalingen
+
+### Artikel  9a.1  
+
+In dit hoofdstuk wordt verstaan onder: 
+
+–  *academische innovatieve starter:* innovatieve starter van wie de economische activiteiten rechtstreeks en onmiddellijk voortkomen uit onderzoek van een universiteit, een academisch ziekenhuis als bedoeld in onderdeel j van de [Bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), een onderzoeksorganisatie als bedoeld in [artikel 4.1 van het Reglement NWO 2002](../../../../../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md), een onderzoeksinstituut van de Koninklijke Nederlandse Akademie van Wetenschappen, het Nederlands Kanker Instituut, het Max Planck Instituut voor Psycholinguïstiek te Nijmegen, onderzoekers van de Dubble-bundellijn bij de European Synchrotron Radiation Facility te Grenoble, Frankrijk, het Naturalis Biodiverity Center, of het Advanced Research Centre for NanoLithography, hetgeen blijkt uit een overeenkomst gesloten tussen de innovatieve starter en de desbetreffende universiteit, het desbetreffende academisch ziekenhuis, de desbetreffende onderzoeksorganisatie of het desbetreffende onderzoeksinstituut;  
+
+–  *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van het O&O&I-steunkader;  
+
+–  *innovatieve starter:* ondernemer als bedoeld in paragraaf 5.4 van het O&O&I-steunkader;  
+
+–  *O&O&I-steunkader:* Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU 2006, C 323);  
+
+–  *toekomstige investeerder:* persoon die in het kader van een vernieuwingsfasetraject of een vroegefasetraject van plan is na uitvoering van het vernieuwingsfaseplan of het vroegefaseplan aan de aanvrager van de subsidie financiering te verstrekken voor een bedrag dat ten minste gelijk is aan het bedrag van de maximale hoofdsom, bedoeld in de artikelen 9a.5, 9a.10 en 9a.15, voor de fase na de vernieuwingsfase of de vroegefase;  
+
+–  *vroegefaseplan:* document waarin: 
+
+a. de aanvrager van de subsidie uiteenzet op welke wijze en op welke termijn een uitvinding, een resultaat van een onderzoek, een idee of een concept zo kan worden ontwikkeld dat de toekomstige investeerder in staat is te besluiten tot de voorgenomen financiering, of;  
+
+b. indien het gaat om een uiteenzetting van een academische innovatieve starter, de vragen van toekomstige financiers omtrent de ontwikkeling worden beantwoord zodat de toekomstige financiers over financiering kunnen besluiten;    
+
+–  *vroegefasetraject:* samenhangend geheel van activiteiten beschreven in het vroegefaseplan;  
+
+–  *vernieuwingsfaseplan:* document waarin wordt uiteengezet op welke wijze en op welke termijn de MKB-ondernemer door experimentele ontwikkeling komt tot de ontwikkeling of de verdere ontwikkeling van een product, proces of dienst op basis waarvan de toekomstige investeerder definitief kan besluiten tot financiering van het vervolgtraject;  
+
+–  *vernieuwingsfasetraject:* samenhangend geheel van activiteiten beschreven in het vernieuwingsfaseplan.   
+
+### Artikel  9a.2  
+
+Een subsidie die op grond van dit hoofdstuk wordt verstrekt valt onder het O&O&I-steunkader. 
+
+### Artikel  9a.3  
+
+1.  Het formulier voor het indienen van een aanvraag om subsidie door een MKB-ondernemer is opgenomen in bijlage 9a.1.   
+2.  Het formulier voor het indienen van een aanvraag om subsidie door een innovatieve starter is opgenomen in bijlage 9a.2.   
+3.  Het formulier voor het indienen van een aanvraag om subsidie door een academische innovatieve starter is opgenomen in bijlage 9a.3.   
+4.  De uitvoeringsovereenkomst, bedoeld in artikel 9a.8 bestaat uit een samenstelling van de standaardbepalingen die zijn opgenomen in bijlage 9a.4 en andere bepalingen die strekken tot verwezenlijking van het doel van dit hoofdstuk.   
+5.  De uitvoeringsovereenkomst, bedoeld in de artikelen 9a.13 en 9a.20 bestaat uit een samenstelling van de standaardbepalingen die zijn opgenomen in bijlage 9a.5 en andere bepalingen die strekken tot verwezenlijking van het doel van dit hoofdstuk.  
+
+### §  2  
+
+####MKB-ondernemer
+
+### Artikel  9a.4  
+
+1.  De minister verstrekt op aanvraag een subsidie in de vorm van een geldlening aan een MKB-ondernemer ten behoeve van de financiering van een vernieuwingsfasetraject.   
+2.  Bij zijn aanvraag legt de MKB-ondernemer een verklaring van een toekomstige investeerder over die is opgesteld overeenkomstig het model dat in bijlage 9a.6 is opgenomen.   
+3.  De termijn, bedoeld in [artikel 23, eerste lid, onder c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt 24 maanden.   
+4.  Geen subsidie wordt verstrekt: 
+
+a. indien voor het vernieuwingsfasetraject reeds door de minister subsidie is verstrekt;  
+
+b. indien met de uitvoering van het vernieuwingsfasetraject is begonnen voor de datum van de aanvraag.    
+
+### Artikel  9a.5  
+
+1.  De subsidie bestaat uit een geldlening voor een bedrag gelijk aan: 
+
+a. 35 procent van de door de MKB-ondernemer die een middelgrote onderneming in stand houdt voorziene kosten van het vernieuwingsfasetraject doch ten hoogste € 122.500;  
+
+b. 45 procent van de door de MKB-ondernemer die een kleine onderneming in stand houdt voorziene kosten van het vernieuwingsfasetraject doch ten hoogste € 157.500.     
+2.  De kosten gemaakt door de MKB-ondernemer als natuurlijke persoon worden berekend door het aantal uren dat hij ten behoeve van het vernieuwingstraject heeft gemaakt te vermenigvuldigen met een vast uurtarief.   
+3.  Het vaste uurtarief bedoeld in het tweede lid is € 35 per uur.  
+
+### Artikel  9a.6  
+
+1.  De minister beslist afwijzend op een aanvraag: 
+
+a. indien het vernieuwingsfasetraject geen experimentele ontwikkeling vormt;  
+
+b. indien aannemelijk is dat de MKB-ondernemer de financiering waarvoor de aanvraag is ingediend zelf heeft of kan verkrijgen bij anderen;  
+
+c. indien onvoldoende aannemelijk is dat de toekomstige investeerder aan de hand van het vernieuwingsfaseplan het plan heeft opgevat de MKB-ondernemer te financieren of de toekomstige investeerder daar naar verwachting niet toe in staat zal zijn;  
+
+d. voor zover de begrote kosten van het vernieuwingsfasetraject hoger zijn dan € 350.000 of 
+
+1°. lager zijn dan € 142.000 indien de MKB-ondernemer een middelgrote onderneming in stand houdt, of  
+
+2°. lager zijn dan € 110.000 indien de MKB-ondernemer een kleine onderneming in stand houdt;    
+
+e. indien onvoldoende vertrouwen bestaat dat de MKB-ondernemer een vernieuwingsfasetraject in uitvoeringstechnische zin zo zal kunnen voltooien dat hij financiering voor de fase na het vernieuwingsfasetraject zal kunnen verkrijgen van de toekomstige investeerder;  
+
+f. indien onvoldoende vertrouwen bestaat dat de MKB-ondernemer de geldlening bedoeld in artikel 9a.4, eerste lid, kan terugbetalen.    
+
+### Artikel  9a.7  
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  9a.8  
+
+1.  De subsidieverlening vindt plaats onder de opschortende voorwaarde dat de uitvoeringsovereenkomst die bij de beschikking tot verlening van de subsidie is gevoegd en uit hoofde waarvan de geldlening wordt verstrekt binnen twee weken na die beschikking is ondertekend door de MKB-ondernemer.   
+2.  De subsidie wordt ambtshalve vastgesteld.  
+
+### §  3  
+
+####Innovatieve starter
+
+### Artikel  9a.9  
+
+1.  De minister verstrekt op aanvraag een subsidie in de vorm van een geldlening aan een innovatieve starter ten behoeve van de financiering van een vroegefasetraject.   
+2.  Bij zijn aanvraag legt de innovatieve starter een verklaring van een toekomstige investeerder over die is opgesteld overeenkomstig het model dat in bijlage 9a.6 is opgenomen.   
+3.  De termijn, bedoeld in [artikel 23, eerste lid, onder c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt 24 maanden.   
+4.  Geen subsidie wordt verstrekt: 
+
+a. indien voor het vroegefasetraject reeds door de minister subsidie is verstrekt;  
+
+b. indien met de uitvoering van het vroegefasetraject is begonnen voor de datum van de aanvraag.    
+
+### Artikel  9a.10  
+
+1.  De subsidie bestaat uit een geldlening voor een bedrag gelijk aan het totaal van de door de innovatieve starter voorziene kosten voor het vroegefasetraject doch ten hoogste € 350.000.   
+2.  De kosten gemaakt door de innovatieve starter als natuurlijke persoon worden berekend door het aantal uren dat hij ten behoeve van het vroegefasetraject heeft gemaakt te vermenigvuldigen met een vast uurtarief.   
+3.  Het vaste uurtarief bedoeld in het tweede lid is € 35 per uur.  
+
+### Artikel  9a.11  
+
+De minister beslist afwijzend op een aanvraag: 
+
+a. indien aannemelijk is dat de innovatieve starter de financiering waarvoor de aanvraag is ingediend zelf heeft of kan verkrijgen bij anderen;  
+
+b. indien onvoldoende aannemelijk is dat de toekomstige investeerder aan de hand van het vroegefaseplan het plan heeft opgevat de innovatieve starter te financieren of de toekomstige investeerder daar naar verwachting niet toe in staat zal zijn;  
+
+c. voor zover de voorziene kosten van het vroegefasetraject hoger zijn dan € 350.000 of lager zijn dan € 50.000;  
+
+d. indien onvoldoende vertrouwen bestaat dat de innovatieve starter het vroegefasetraject in uitvoeringstechnische zin zo zal kunnen voltooien dat hij financiering voor de fase na het vroegefasetraject zal kunnen verkrijgen van de toekomstige investeerder;  
+
+e. indien onvoldoende vertrouwen bestaat dat de innovatieve starter de geldlening bedoeld in artikel 9a.9, eerste lid, kan terugbetalen.   
+
+### Artikel  9a.12  
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  9a.13  
+
+1.  De subsidieverlening vindt plaats onder de opschortende voorwaarde dat de uitvoeringsovereenkomst die bij de beschikking tot verlening van de subsidie is gevoegd en uit hoofde waarvan de geldlening wordt verstrekt binnen twee weken na die beschikking is ondertekend door de innovatieve starter.   
+2.  De subsidie wordt ambtshalve vastgesteld.  
+
+### §  4  
+
+####Academische innovatieve starter
+
+### Artikel  9a.14  
+
+1.  De minister verstrekt op aanvraag een subsidie in de vorm van een geldlening aan een academische innovatieve starter ten behoeve van de financiering van een vroegefasetraject.   
+2.  Bij zijn aanvraag legt de academische innovatieve starter: 
+
+a. een rapport van een haalbaarheidsstudie over;  
+
+b. een overeenkomst over als bedoeld in de definitie van academische innovatieve starter in artikel 9a.1.     
+3.  De termijn, bedoeld in [artikel 23, eerste lid, onder c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt 24 maanden.   
+4.  Geen subsidie wordt verstrekt: 
+
+a. indien voor het vroegefasetraject reeds door de minister subsidie is verstrekt;  
+
+b. indien met de uitvoering van het vroegefasetraject is begonnen voor de datum van de aanvraag.    
+
+### Artikel  9a.15  
+
+1.  De subsidie bestaat uit een geldlening voor een bedrag gelijk aan het totaal van de door de academische innovatieve starter voorziene kosten voor het vroegefasetraject doch ten hoogste € 250.000.   
+2.  De kosten gemaakt door de academische innovatieve starter als natuurlijke persoon worden berekend door het aantal uren dat hij ten behoeve van het vroegefasetraject heeft gemaakt te vermenigvuldigen met een vast uurtarief.   
+3.  Het vaste uurtarief bedoeld in het tweede lid is € 35 per uur.  
+
+### Artikel  9a.16  
+
+De minister beslist afwijzend op een aanvraag: 
+
+a. indien aannemelijk is dat de academische innovatieve starter de financiering waarvoor de aanvraag is ingediend niet zelf heeft of kan verkrijgen bij anderen;  
+
+b. voor zover de voorziene kosten van het vroegefasetraject hoger zijn dan € 250.000 of lager dan zijn € 50.000;  
+
+c. indien onvoldoende vertrouwen bestaat dat de academische innovatieve starter het vroegefasetraject in uitvoeringstechnische zin zo zal kunnen voltooien dat hij financiering voor de fase na het vroegefasetraject zal kunnen verkrijgen;  
+
+d. indien onvoldoende vertrouwen bestaat dat de academische innovatieve starter de geldlening, bedoeld in artikel 9a.14, eerste lid, kan terugbetalen.   
+
+### Artikel  9a.17  
+
+1.  Er is een Adviescommissie vroegefasefinanciering academische innovatieve starters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de beoordeling van de aanvragen op grond van de afwijzingsgronden voor aanvragen, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en 9a.16, en de rangschikkingscriteria, bedoeld in artikel 9a.19.   
+2.  De commissie bestaat uit ten minste 3 en ten hoogste 20 leden.   
+3.  De voorzitter en de andere leden van de commissies worden door de minister voor een termijn van ten hoogste 2 jaar benoemd.  
+
+### Artikel  9a.18  
+
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
+
+### Artikel  9a.19  
+
+1.  De minister rangschikt de aanvragen waarop niet met toepassing van artikel 9a.16 afwijzend is beslist, zodanig dat een vroegefasetraject hoger gerangschikt wordt naarmate: 
+
+a. het commercieel perspectief van het vroegefasetraject groter is;  
+
+b. de wetenschappelijke innovativiteit van het vroegefasetraject groter is;  
+
+c. de kwaliteit van de academische innovatieve starter en het wetenschappelijk team dat betrokken is bij het vroegefasetraject hoger is;  
+
+d. de kwaliteit van het vroegefasetraject hoger is.     
+2.  Voor de rangschikking telt het criterium, genoemd in onderdeel a, voor 40 procent en de criteria, genoemd in de onderdelen b tot en met d, elk voor 20 procent.  
+
+### Artikel  9a.20  
+
+1.  De subsidieverlening aan een academische innovatieve starter vindt plaats onder de opschortende voorwaarde dat de uitvoeringsovereenkomst die bij de beschikking tot verlening van de subsidie subsidiebeschikking is gevoegd en uit hoofde waarvan de geldlening wordt verstrekt binnen acht weken na die beschikking tot verlening van de subsidie is ondertekend door de academische innovatieve starter.   
+2.  De subsidie wordt ambtshalve vastgesteld.  
+
+### §  4*  
+
+####Slotbepaling
+
+### Artikel  9a.21  
+
+Dit hoofdstuk vervalt met ingang van 1 november 2018, met dien verstande dat dit van toepassing blijft op subsidies die voor die datum zijn verleend. 
+
 ### Hoofdstuk  10  
 
 ####Slotbepalingen
@@ -6471,4 +6688,937 @@ Deze Overeenkomst treedt in werking door de ondertekening daarvan door de Partij
 ![249801](http://wetten.overheid.nl/Illustration/249801)
 ![249802](http://wetten.overheid.nl/Illustration/249802)
 ![249803](http://wetten.overheid.nl/Illustration/249803)
+
+### Bijlage 9a.1 
+
+####Aanvraagformulier Vroegefasefinanciering – MKB-ondernemer
+
+![253852](http://wetten.overheid.nl/Illustration/253852)
+![253853](http://wetten.overheid.nl/Illustration/253853)
+
+####Toelichting bijlagen
+
+### A)  
+
+####Ondernemingsplan
+
+In het ondernemingssplan, inclusief vernieuwingsfaseplan geeft u aan hoe u verwacht uw bedrijf substantieel te laten groeien met het nieuwe product, proces of de dienst dat u in de markt wilt zetten. Voor de onderbouwing van het ondernemingsplan gebruikt u actuele gegevens. U gaat onder andere in op de volgende aspecten: 
+
+– Productpropositie en onderscheidend vermogen  
+
+– Beschrijving van de markt; klanten, marktontwikkelingen (cq trends), concurrenten  
+
+– Beschrijving van de oprichters/ondernemers; geschiedenis, track record; persoonlijke sterkt/zwakte; netwerk  
+
+– Beschrijving van de bedrijfsactiviteiten in algemene zin; organigram met de juridische structuur en aandelen-verhoudingen  
+
+– SWOT ananalyse.  
+
+– Beschrijving van de activiteiten (inclusief planning) die worden uitgevoerd in het vernieuwingsfasetraject en welke resultaten (logische mijlpalen en daarbij een kwantificering van tussentijdse doelstellingen) deze dienen op te leveren, zodanig dat het ondernemingsplan gevalideerd is en verder gefinancierd wordt.   
+
+### B)  
+
+####Cashflow prognose
+
+Maak een cashflow prognose – financiële voorspelling van de in- en uitgaande geldstromen van de onderneming – voor een periode van maximaal 8 jaar. Maak op basis van deze prognose inzichtelijk op welke momenten, welke middelen ter beschikking staan voor het aflossen van de lening, voor nieuwe investeringen, etc. De maximale looptijd voor de uitvoering van het vernieuwingsfaseplan is 2 jaar, de maximale looptijd van de subsidie in de vorm van een lening is 8 jaar. De aflossing van de lening (de hoofdsom en de lopende rente) betaalt u terug in zes jaarlijkse termijnen. De eerste termijn wordt afgelost drie jaar na inwerkingtreding geldleningovereenkomst. 
+
+### C)  
+
+####Begroting vernieuwingsfaseplan
+
+In deze bijlage geeft u een overzicht van de kosten van het vernieuwingsfasetraject – zoals uiteengezet in het vernieuwingsfaseplan – zijnde kosten voor experimentele zoals bedoeld in het O&O&I-steunkader: 
+
+(a) personeelskosten (onderzoekers, technici en ander ondersteunend personeel voor zover zij zich met het vernieuwingsfasetraject bezighouden);  
+
+(b) kosten van apparatuur en uitrusting voor zover en voor zolang zij voor het vernieuwingsfasetraject worden gebruikt;  
+
+(c) kosten van huisvesting voor zover en voor zolang huisvesting voor het vernieuwingsfasetraject wordt gebruikt;  
+
+(d) kosten van contractonderzoek, technische kennis en octrooien die tegen marktprijzen worden verworven bij of waarvoor een licentie wordt verleend door externe bronnen, mits de transactie conform het arm's length-beginsel plaatsvindt en kosten voor consultancy en gelijkwaardige diensten die uitsluitend voor het vernieuwingsfasetraject worden gebruikt;  
+
+(e) extra algemene vaste kosten die rechtstreeks uit het vernieuwingsfasetraject voortvloeien;  
+
+(f) andere exploitatiekosten, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het vernieuwingsfasetraject voortvloeien;   
+
+### D)  
+
+####Meest recente Jaarrekening, Openingsbalans of Aangifte Inkomstenbelasting aanvrager
+
+Uit de jaarrekening, openingsbalans of aangifte inkomstenbelasting dient te blijken dat er niet voldoende liquide middelen beschikbaar zijn om de uitvoering van het vernieuwingsfasetraject geheel zelf te financieren. Voor kleine ondernemingen geldt een eigen bijdrage van 55% (max. subsidiepercentage 45%), voor middelgrote ondernemingen geldt een eigen bijdrage van 65% (max. subsidiepercentage 35%). 
+
+### E)  
+
+####Uittreksel uit het handelsregister van de Kamer van Koophandel.
+
+Sluit bij een recent gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel van de aanvrager waaruit blijkt (i) dat de onderneming is opgericht, (ii) wie de bevoegde functionaris(sen) van de onderneming is respectievelijk zijn en (III) wie de aandeelhouder(s) is respectievelijk zijn. 
+
+### F/G)  
+
+####ingevuld en ondertekend formulier MKB-toets aanvrager
+
+Om te toetsen of uw organisatie een mkb-onderneming (klein of middelgroot) is, kunt u gebruik maken van de online mkb-toets op de website van Europese Commissie: mkb-toets. Print en onderteken de resultaatpagina en voeg deze toe, incl. de bijlagen. 
+
+### H)  
+
+####Verklaring toekomstige investeerder(s)
+
+Voeg de getekende intentieverklaring van uw toekomstige investeerder toe. In deze verklaring dient specifiek (concreet) te zijn opgenomen welke resultaten het vernieuwingsfasetraject moet opleveren, zodanig dat uw financier het definitieve commitment voor de vervolgfinanciering na uitvoering van het vernieuwingsfaseplan afgeeft. De omvang van de vervolgfinanciering dient ten minste gelijk te zijn aan het bedrag van de gevraagde geldlening. U kunt hiervoor gebruik maken van model (bijlage….) 
+
+### I)  
+
+####Bewijsstukken financiële draagkracht toekomstige investeerder
+
+Voeg bewijsstukken waaruit blijkt dat de toekomstige investeerder over voldoende financiële draagkracht beschikt om de financiële toezegging aan de aanvrager na kan komen inclusief de bron van de financiering (zoals jaarrekeningen inclusief accountantsrapporten over het meest recente boekjaar). 
+
+### Bijlage 9a.2 
+
+####Aanvraagformulier Vroegefasefinanciering – Innovatieve starter
+
+![253854](http://wetten.overheid.nl/Illustration/253854)
+![253855](http://wetten.overheid.nl/Illustration/253855)
+
+####Toelichting bijlagen
+
+### A)  
+
+####Ondernemingsplan, inclusief Vroegefaseplan
+
+In het ondernemingsplan, inclusief vroegefaseplan geeft u aan hoe u verwacht uw bedrijf substantieel te laten groeien met het nieuwe product, proces of de dienst dat u in de markt wilt zetten. Voor de onderbouwing van het ondernemingsplan gebruikt u actuele gegevens. U gaat onder andere in op de volgende aspecten: 
+
+– Productpropositie en onderscheidend vermogen  
+
+– Beschrijving van de markt; klanten, marktontwikkelingen (cq trends), concurrenten  
+
+– Beschrijving van de oprichters/ondernemers; geschiedenis, track record; persoonlijke sterkt/zwakte; netwerk  
+
+– Beschrijving van de bedrijfsactiviteiten in algemene zin; organigram met de juridische structuur en aandelen-verhoudingen  
+
+– SWOT ananalyse.  
+
+– Beschrijving van de activiteiten (inclusief planning) die worden uitgevoerd in het vroegefasetraject en welke resultaten (logische mijlpalen en daarbij een kwantificering van tussentijdse doelstellingen) deze dienen op te leveren, zodanig dat het ondernemingsplan gevalideerd is en verder gefinancierd wordt.   
+
+### B)  
+
+####Cashflow prognose
+
+Maak een cashflow prognose – financiële voorspelling van de in- en uitgaande geldstromen van de onderneming – voor een periode van maximaal 8 jaar. Maak op basis van deze prognose inzichtelijk op welke momenten, welke middelen ter beschikking staan voor het aflossen van de lening, voor nieuwe investeringen, etc. De maximale looptijd voor de uitvoering van het vroegefaseplan is 2 jaar, de maximale looptijd van de subsidie in de vorm van een lening is 8 jaar. De aflossing van de lening (de hoofdsom en de lopende rente) betaalt u terug in zes jaarlijkse termijnen. De eerste termijn wordt afgelost drie jaar na inwerkingtreding geldleningovereenkomst. 
+
+### C)  
+
+####Begroting vroegefaseplan
+
+In deze bijlage geeft u een overzicht van de kosten van het vroegefasetraject, zoals uiteengezet in het vroegefase plan en gespecificeerd naar activiteit en naar type kosten (loonkosten, kosten materialen/hulpmiddelen, kosten derden, etc.). 
+
+### D)  
+
+####Meest recente Jaarrekening, Openingsbalans of Aangifte Inkomstenbelasting aanvrager
+
+Uit de jaarrekening, openingsbalans of aangifte inkomstenbelasting dient te blijken dat er niet voldoende liquide middelen beschikbaar zijn om de uitvoering van het vroegefasetraject te financieren. 
+
+### E)  
+
+####Uittreksel uit het handelsregister van de Kamer van Koophandel.
+
+Sluit bij een recent gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel van de aanvrager waaruit blijkt (i) dat de onderneming is opgericht of in oprichting is, (ii) wie de bevoegde functionaris(sen) van de onderneming is respectievelijk zijn en (III) wie de aandeelhouder(s) is respectievelijk zijn. 
+
+### F)  
+
+####S&O verklaring aanvrager of Verklaring onafhankelijke accountant
+
+We moeten vaststellen of uw bedrijf een innovatieve onderneming is. Dat kunt u aantonen met: 
+
+* de S&O-verklaring; u ontvangt deze verklaring wanneer u gebruik maakt van de WBSO (Wet Bevordering Speur- en Ontwikkelingswerk) en/of de RDA (Research en Development Aftrek).  
+
+* verklaring van onafhankelijke accountant: uw uitgaven aan onderzoek en ontwikkeling bedragen ten minste 15% van de totale exploitatiekosten in ten minsten één van de drie voorafgaande jaren   
+
+### G)  
+
+####Verklaring toekomstige investeerder(s)
+
+Voeg de getekende verklaring van uw toekomstige investeerder toe. In de overeenkomst dient specifiek (concreet) te zijn opgenomen welke resultaten het vroegefasetraject moet opleveren, zodanig dat uw toekomstig investeerder het definitieve commitment voor de financiering na het traject afgeeft. De omvang van de vervolgfinanciering dient ten minste gelijk te zijn aan het bedrag van de gevraagde geldlening. U kunt hiervoor gebruik maken van model (bijlage….) 
+
+### H)  
+
+####Bewijsstukken financiële draagkracht toekomstige investeerder
+
+Voeg bewijsstukken waaruit blijkt dat de toekomstige investeerder over voldoende financiële draagkracht beschikt om de financiële toezegging aan de aanvrager na kan komen inclusief de bron van de financiering (zoals jaarrekeningen inclusief accountantsrapporten over het meest recente boekjaar). 
+
+### Bijlage 9a.3 
+
+####Aanvraagformulier Take-Off fase 2 – vroegefasetraject
+
+####Vroegefasefinanciering academische innovatieve starter
+
+![253856](http://wetten.overheid.nl/Illustration/253856)
+![253857](http://wetten.overheid.nl/Illustration/253857)
+
+####Toelichting bijlagen
+
+### A)  
+
+####Vroegefaseplan
+
+In het vroegefaseplan geeft u aan hoe u verwacht uw bedrijf substantieel te laten groeien met het nieuwe product, proces of de dienst dat u in de markt wilt zetten. Voor de onderbouwing van het vroegefaseplan gebruikt u actuele gegevens. U gaat onder andere in op de volgende aspecten: 
+
+– Beschrijving van het onderzoek waaruit de kennis is voorgekomen die aan de basis ligt van dit vroegefasetraject. Uit de beschrijving moet duidelijk naar voren komen wat de wetenschappelijke waarde is van dit onderzoek.  
+
+– Productpropositie en onderscheidend vermogen;  
+
+– Beschrijving van de markt; klanten, marktontwikkelingen/trends, concurrenten;  
+
+– Beschrijving van de oprichters/ondernemers: geschiedenis, track record, netwerk, persoonlijke sterkte/zwakte analyse, plan t.a.v. coaching en begeleiding;  
+
+– Beschrijving van de bedrijfsdoelen en bedrijfsactiviteiten in algemene zin: organigram met de juridische structuur en aandelenverhoudingen;  
+
+– Beschrijving van IP-positie en IP-strategie (overdracht, licentie of anders) voor een periode van 5-10 jaar;  
+
+– Kasstroomprognose: financiële voorspelling van de in- en uitgaande geldstromen van de onderneming voor een periode van 5 jaar te rekenen vanaf het moment van aanvraag of in geval de onderneming nog niet gestart vanaf de beoogde start van de onderneming. Maak op basis van deze prognose inzichtelijk op welke momenten, welke middelen ter beschikking staan voor het aflossen van de lening, voor nieuwe investeringen, etc;  
+
+– Beschrijving van de activiteiten (inclusief tijdsplanning) die worden uitgevoerd binnen het Take-Off fase 2 – vroegefasetraject en welke resultaten (logische mijlpalen en daarbij een kwantificering van tussentijdse doelstellingen) deze dienen op te leveren, zodanig dat het beoogde doel (financiering van de onderneming na afloop van het vroegefasetraject gefinancierd door derden) wordt bereikt;  
+
+– Begroting Take-Off fase 2 – vroegefasetraject; overzicht van de kosten van het Take-Off fase 2 – vroegefasetraject gespecificeerd naar activiteit en naar type kosten (loonkosten, kosten materialen/hulpmiddelen, kosten derden, etc.).  
+
+– SWOT-analyse vroegefaseplan; Het vroegefaseplan is ook van belang voor het bepalen of u een innovatieve starter bent in de zin van het O&O&I-steunkader<sup> 1 Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie, 2006/c 323/01. </sup>, art. 5.4. Voor zover u niet kunt aantonen dat het percentage van uw onderzoeks- en ontwikkelingskosten van uw onderneming meer is dan 15%, zult u in uw vroegefaseplan een uiteenzetting moeten geven van wat u in de voorzienbare toekomst aan producten, diensten of procedés zal ontwikkelen die technologisch nieuw zijn of een wezenlijke verbetering inhouden ten opzichte van de state-of-the-art in uw sector in de Europese Unie en die een risico op technologische of industriële mislukking inhouden. Op basis van deze uiteenzetting kan de Adviescommissie Vroegefasefinanciering academische innovatieve starters een evaluatie verrichten. Deze commissie bestaat uit externe deskundigen die op basis van uw informatie zullen toetsen of u voldoet aan de definitie van innovatieve starter en de Minister van Economische Zaken daarover adviseren. Het niet voldoen aan de vereisten in het O&O&I-steunkader betekent immers dat de aanvraag moet worden afgewezen aangezien de subsidie uitsluitend kan worden verstrekt aan een innovatieve starter in de zin van het O&O&I-steunkader.Indien u beschikt over een S&O verklaring<sup> 2 U ontvangt deze verklaring wanneer u gebruik maakt van de WBSO (Wet Bevordering Speur- en Ontwikkelingswerk) en/of de RDA (Research en Development Aftrek). Meer informatie over de WBSO kunt u vinden op de website van RvO (http://www.rvo.nl/subsidies-regelingen/wbso-en-rda). </sup> kan deze eveneens dienen als bewijs dat u een innovatieve starter bent.   
+
+### B)  
+
+####Ingevuld en ondertekend formulier MKB-toets aanvrager
+
+Om te toetsen of uw organisatie een kleine onderneming is, kunt u gebruik maken van de online mkb-toets op de website van Europese Commissie: http://flt.uwe.be/. Print en onderteken de resultaatpagina en voeg deze toe. 
+
+### C)  
+
+####Overeenkomst tussen aanvrager en samenwerkende universiteit / academisch ziekenhuis / NWO- of KNAW-instituut / overige in artikel 1.1.1 van de NWO-regeling subsidies genoemde kennisinstellingen
+
+Voeg de getekende overeenkomst tussen u en de samenwerkende onderzoeks- of kennisinstelling toe. In de overeenkomst dient een beschrijving te zijn opgenomen van de totale bijdrage die de instelling levert aan het project. Dit kan omvatten: afspraken over IP, gebruik van faciliteiten, inzet van medewerkers van de instelling, coaching en begeleiding door de instelling of holding daarvan, deelname en zeggenschap over de starter door de instelling of holding daarvan, eventuele andere vormen van betrokkenheid van de kennisinstelling. 
+
+### D)  
+
+####Rapport haalbaarheidsstudie
+
+Rapport van haalbaarheidsstudie waaruit blijkt dat 1) de proof-of-principle/werking is aangetoond en 2) dat het beoogde product/ proces of de beoogde dienst potentieel commercieel perspectief heeft. 
+
+### E)  
+
+####Brieven van aanbeveling (optioneel)
+
+Dit zijn brieven van derden, zoals private investeerders of toekomstige klanten, waarin zij hun vertrouwen uitspreken in uw Take-Off fase 2 – vroegefasetraject. 
+
+### Bijlage 9a.4 
+
+####, behorende bij artikel 9a.8, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+####STANDAARDBEPALINGEN VOOR DE SAMENSTELLING VAN DE UITVOERINGSOVEREENKOMST UIT HOOFDE WAARVAN EEN GELDLENING ZIJNDE VROEGEFASEFINANCIERING AAN EEN MKB-ONDERNEMER WORDT VERSTREKT TEN BEHOEVE VAN EEN VERNIEUWINGSFASETRAJECT
+
+*DE ONDERGETEKENDEN:*  
+
+1. De Staat der Nederlanden, vertegenwoordigd door de Minister van Economische Zaken, hierna te noemen: Leninggever;  
+
+2. [rechtspersoon: naam] <sup> 3 Indien er sprake is van een rechtspersoon in oprichting het volgende opnemen: [naam)], i.o., vertegenwoordigd door de volgende persoon/personen [naam, adres]. NB Tevens wordt bij deze standaardbepalingen voorzien in een bepaling die meebrengt dat de uitvoeringsovereenkomst niet in werking zal treden indien niet voor de in die overeenkomst aangegeven datum is gebleken van bekrachtiging van de overeenkomst door de inmiddels opgerichte rechtspersoon. Dit houdt in dat dan moet worden aangegeven voor welke datum de uitvoeringsovereenkomst bekrachtigd moet zijn door de rechtspersoon Zie voor de in dat geval op te nemen standaardbepaling artikel 13a. </sup>, statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) vertegenwoordigd door haar bestuurder(s) de heer/mevrouw (naam), en ....., ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer),  *OF*   
+
+2. [personenvennootschap: naam], kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer),  *OF*   
+
+2. [natuurlijk persoon: handelende onder de bedrijfsnaam] Kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer)<sup> 4 Idem indien sprake is van een rechtspersoon in oprichting. </sup>,  *OF*   
+
+2. [natuurlijk persoon niet handelende onder een bedrijfsnaam: naam, adres, beroep], hierna te noemen: Leningnemer; hierna tezamen ook genoemd: Partijen;   hebben het volgende overwogen: 
+
+A. Bij beschikking van [datum], met kenmerk [kenmerk], heeft de Minister van Economische Zaken, aan Leningnemer subsidie verleend in de vorm van een geldlening voor een maximum bedrag groot EUR [bedrag] voor de financiering van de uitvoering van een vernieuwingsfasetraject op grond van artikel 9a.4 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+B. Partijen willen de bij de onder A genoemde subsidiebeschikking behorende uitvoeringsovereenkomst sluiten.  
+
+C. Leningnemer heeft in het kader van zijn subsidieaanvraag op basis waarvan de onder A genoemde subsidie is verleend een verklaring als bedoeld in artikel 9a.4, tweede lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen overgelegd waaruit blijkt dat [naam, [eventueel: statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer)]] het voornemen heeft om bij het succesvol verlopen van het vernieuwingsfasetraject een bedrag groot EUR [bedrag] te investeren in de onderneming van betrokkene.   Partijen komen het volgende overeen 
+
+### Artikel  1  
+
+####Definities
+
+1. In deze overeenkomst wordt verstaan onder: 
+
+– kosten vernieuwingsfasetraject zijnde kosten voor experimentele ontwikkeling zoals bedoeld in het O&O&I-steunkader: 
+
+(a) personeelskosten (onderzoekers, technici en ander ondersteunend personeel voor zover zij zich met het vernieuwingsfasetraject bezighouden);  
+
+(b) kosten van apparatuur en uitrusting voor zover en voor zolang zij voor het vernieuwingsfasetraject worden gebruikt;  
+
+(c) kosten van huisvesting voor zover en voor zolang huisvesting voor het vernieuwingsfasetraject wordt gebruikt;  
+
+(d) kosten van contractonderzoek, technische kennis en octrooien die tegen marktprijzen worden verworven bij of waarvoor een licentie wordt verleend door externe bronnen, mits de transactie conform het arm's length-beginsel plaatsvindt en kosten voor consultancy en gelijkwaardige diensten die uitsluitend voor het vernieuwingsfasetraject worden gebruikt;  
+
+(e) extra algemene vaste kosten die rechtstreeks uit het vernieuwingsfasetraject voortvloeien;  
+
+(f) andere exploitatiekosten, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het voorfastrajectvoortvloeien;    
+
+– EU-referentierente: de referentievoet, bedoeld in de Mededeling van de Commissie van 19 januari 2008 over de herziening van de methode waarmee de referentie- en disconteringspercentages worden vastgesteld (PbEU 2008, C 14), zoals laatstelijk vastgesteld voor Nederland;  
+
+– subsidieaanvraag: volledig ingevulde en door Leningnemer ondertekende formulier voor het indienen van een aanvraag om subsidie op grond van artikel 9a.4, eerste lid, van de Subsdieregeling starten, groeien en overdragen van ondernemingen en het daarbij overgelegde voorfaseplan en de daarbij overgelegde gegevens en documenten op basis waarvan Leningnemer subsidie heeft ontvangen op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+– subsidiebeschikking: beschikking van de Minister van Economische Zaken op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen van [datum], met kenmerk [kenmerk].    
+
+2. Voor de toepassing en de uitleg van deze overeenkomst zijn de begripsbepalingen die voorkomen in het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen zoveel mogelijk van overeenkomstige toepassing.   
+
+### Artikel  2  
+
+####Lening
+
+Leninggever verstrekt aan Leningnemer een lening (hierna: VFF-lening) in contanten met een hoofdsom groot maximaal EUR [bedrag], welke lening Leningnemer aanvaardt, met inachtneming van de bepalingen van deze overeenkomst. 
+
+### Artikel  3  
+
+####Doel
+
+De VFF-lening is uitsluitend bestemd voor het financieren van maximaal 35%<sup> 5 Indien de MKB-ondernemer een kleine onderneming in stand houdt: 45%. </sup> van de kosten van de uitvoering van het vernieuwingsfasetraject. 
+
+### Artikel  4  
+
+####Eerste tranche en tweede tranche
+
+1. Leningnemer ontvangt de eerste tranche van de hoofdsom, groot [pm bedrag],<sup> 6 De eerste tranche bedraagt 1/3 deel van het maximaal ter leen te verstrekken bedrag. </sup> binnen 14 dagen na de datum van inwerkingtreding van deze overeenkomst op het (door hem opgegeven) rekeningnummer ......  
+
+2. Leningnemer ontvangt uitsluitend een tweede tranche, nadat hij met inachtneming van artikel 7, tweede lid, ten genoegen van Leninggever heeft aangetoond dat hij voor de uitvoering van het vernieuwingsfasetraject ten minste 100/35<sup> 7 Indien Leningnemer een kleine onderneming in stand houdt: 100/45 * het bedrag van de eerste tranche. </sup> maal [pm bedrag eerste tranche] aan kosten heeft gemaakt en betaald.  
+
+3. Het als tweede tranche van de hoofdsom te verstrekken bedrag is groot [pm bedrag] of, indien Leningnemer heeft aangegeven een lager bedrag nodig te hebben, dat lagere bedrag.  
+
+4. Leninggever kan het bedrag van de tweede tranche in twee gedeelten uitkeren indien aannemelijk is geworden: 
+
+a. dat de toekomstig investeerder niet langer van plan is te investeren of  
+
+b. er een risico is dat Leningnemer per saldo te veel financiering ontvangt en dat dit risico moet worden beperkt.   Leninggever kan daarbij extra voorwaarden stellen waaraan moet zijn voldaan alvorens het tweede deel van de tweede tranche betaalbaar wordt gesteld.  
+
+5. Leningnemer ontvangt de tweede tranche van de hoofdsom, zo spoedig mogelijk nadat Leningnemer heeft voldaan aan de verplichting bedoeld in het tweede lid.   
+
+### Artikel  5  
+
+####Uiterste datum waarop een volgende tranche opvraagbaar is.
+
+Leningnemer kan de tweede tranche of het tweede deel van de tweede tranche opvragen tot uiterlijk [pm datum]<sup> 8 Datum: 2 jaar na datum inwerkingtreding. </sup>. Daarna kan Leningnemer niet meer trekken op de VFF-lening. 
+
+### Artikel  6  
+
+####Rente
+
+1. Leningnemer is over de hoofdsom een rentepercentage verschuldigd van [pm]<sup> 9 5% + referentierente zoals die is ten tijde van de subsidiebeschikking. </sup>.  
+
+2. De rente wast aan het einde van het kalenderjaar automatisch aan bij de uitstaande hoofdsom.  
+
+3. Voor de berekening van de rente zal de maand op 30 dagen en het jaar op 360 dagen worden gesteld.  
+
+4. Voor dat deel van de ter leen ontvangen bedragen waarvan Leningnemer niet, of niet met inachtneming van artikel 7, tweede lid, heeft aangetoond dat zij per saldo zijn aangewend voor de financiering van maximaal 35%<sup> 10 Indien de MKB-ondernemer een kleine onderneming in stand houdt: 45%. </sup> van de door Leningnemer voor het vernieuwingsfasetraject gemaakte en betaalde kosten, kan Leninggever de rente vaststellen op de marktrente. De verhoging treedt in werking met ingang van de eerste dag van de eerstvolgende kalendermaand.  
+
+5. De marktrente wordt bepaald als volgt: de EU-referentierente plus 1.000 basispunten.   
+
+### Artikel  7  
+
+####Verantwoording gebruik lening voor financiering vernieuwingsfasetraject
+
+1. Binnen zes maanden na beëindiging van het vernieuwingsfasetraject of na voortijdige staking van het vernieuwingsfasetraject zal Leningnemer verantwoording afleggen over de mate waarin de hoofdsom is aangewend voor financiering van het vernieuwingsfasetraject.  
+
+2. Leningnemer volgt voor de verantwoording van de kosten de instructies in de bij deze overeenkomst behorende bijlage 1.  
+
+3. In het geval de hoofdsom meer bedraagt dan € 125.000 legt Leningnemer bij zijn verantwoording van de kosten een verklaring van een accountant over die is opgesteld volgens de instructies in de bij deze overeenkomst horende bijlage 1.   
+
+### Artikel  8  
+
+####Aflossingen
+
+1. Leningnemer betaalt de lening (de hoofdsom en de rente) terug in zes jaarlijkse termijnen die telkens vervallen op 1 [pm maand en jaar] en voor het eerst op 1 [pm maand en jaar]<sup> 11 De eerste termijn wordt afgelost twee jaar en zes maanden na de datum gemeld in artikel 15, eerste lid. </sup> en voor het laatst op 1 [pm maand en jaar].  
+
+2. Het af te lossen bedrag is de eerste vijf jaar gelijk aan 20% van de som van de uitbetaalde tranches. Het in het zesde jaar af te lossen bedrag is gelijk aan het dan uitstaande bedrag van de hoofdsom en de lopende rente.  
+
+3. Gedurende de periode van aflossing kan Leninggever op verzoek van Leningnemer voor een jaar uitstel geven van de verplichting tot aflossing voor zover de som van de bedragen waarvoor per saldo uitstel is verleend niet meer gaat bedragen dan 40% van de som van de uitbetaalde tranches. Leninggever kan aan het verlenen van uitstel voorwaarden verbinden. Indien uitstel is verleend worden de data bedoeld in het tweede lid, en in voorkomende gevallen het eerste lid verlengd met de termijn waarvoor uitstel is verleend.  
+
+4. Leningnemer kan Leninggever verzoeken toe te staan dat door hem eerder onverplicht afgeloste bedragen in mindering komen op een termijn als bedoeld in het eerste lid.  
+
+5. Aflossingen geschieden door overboeking naar rekeningnummer [pm rekeningnummer en bank] ten name van [pm] onder vermelding van "Ministerie van Economische Zaken, verplichtingennummer [pm nummer]". Leningnemer zal Leninggever machtigen en gemachtigd houden tot automatische incasso van de aflossingen.  
+
+6. Leningnemer is bij te late aflossing over het niet afgeloste bedrag de wettelijke rente verschuldigd.  
+
+7. Leningnemer is gerechtigd de VFF-lening geheel of gedeeltelijk vervroegd af te lossen.  
+
+8. Aflossingen worden achtereenvolgens in mindering gebracht op wettelijke renten, indien verschuldigd, op eventueel nog lopende rente en vervolgens op de hoofdsom.   
+
+### Artikel  9  
+
+####Verplichtingen van Leningnemer gedurende de looptijd van de lening
+
+1. Leningnemer zal geen uitkeringen hoe ook genaamd doen of toezeggen aan zijn aandeelhouders behoudens voorafgaande schriftelijke goedkeuring van Leninggever.  
+
+2. Leningnemer zal Leninggever zo spoedig mogelijk informeren bij voortijdige beëindiging van het vernieuwingsfasetraject en bij de gebeurtenissen die leiden tot opeisbaarheid van de lening op grond van artikel 10.  
+
+3. Leningnemer zal zijn administratie zo inrichten dat deze aansluit bij de bij zijn subsidieaanvraag overgelegde begroting voor het vernieuwingsfasetraject. Uit de administratie blijkt te allen tijde op eenvoudige en duidelijke wijze welke kosten zijn gemaakt en betaald voor die activiteiten. Voor eventuele loonkosten is een door middel van een urenadministratie vastgestelde urenverantwoording aanwezig.  
+
+4. Op verzoek van Leninggever verschaft Leningnemer inlichtingen omtrent de voortgang of resultaten van de blijkens de aanvraag van Leningnemer voor het vernieuwingsfasetraject verrichte en nog te verrichten activiteiten.   
+
+### Artikel  10  
+
+####Opeisbaarheid
+
+1. Leninggever kan de onderhavige overeenkomst opzeggen en de lening is geheel of gedeeltelijk opeisbaar zonder dat daarbij enige termijn in acht hoeft te worden genomen indien: 
+
+a. Leningnemer enige bepaling van deze overeenkomst niet heeft nageleefd;  
+
+b. Leningnemer surséance van betaling heeft aangevraagd of ten aanzien van hem faillissement is aangevraagd;  
+
+c. Leningnemer overlijdt, wordt ontbonden of feitelijk wordt geliquideerd;  
+
+d. Leningnemer één of meerdere van zijn ondernemingen of een deel daarvan overdraagt of staakt of  
+
+e. executoriaal beslag is gelegd op enig belangrijk gedeelte van de vermogensbestanddelen van Leningnemer of aan crediteuren van Leningnemer is enig akkoord aangeboden.    
+
+2. Indien de niet-naleving door Leningnemer van enige bepaling in deze overeenkomst zich leent voor herstel zal de opzeggingsgrond, bedoeld in het eerste lid, onder a, uitsluitend worden aangewend nadat Leningnemer een redelijke termijn heeft gekregen om tot naleving over te gaan en er nog steeds sprake is van niet-nakoming.  
+
+3. In de gevallen bedoeld in het eerste lid kan Leninggever besluiten de leningsovereenkomst in stand te laten maar de lening geheel of gedeeltelijk vervroegd op te eisen.   
+
+### Artikel  11  
+
+####Financiële informatie en overige verplichtingen
+
+1. Leningnemer is verplicht aan door de minister als toezichthouder in de zin van de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aangewezen personen voor zover dezen dit redelijkerwijs noodzakelijk achten voor de vervulling van hun taak: 
+
+1.° inlichtingen te verstrekken en inzage in zakelijke gegevens en bescheiden te verstrekken en de gelegenheid te bieden daarvan kopieën te maken;  
+
+2.° toegang te verlenen tot plaatsen niet zijnde woningen;  
+
+3.° anderszins binnen de door hen gestelde termijn alle door hen gewenste medewerking te verlenen.    
+
+2. Leningnemer verstrekt alle inlichtingen over zijn financiële positie die Leninggever redelijkerwijze van hem kan verlangen.  
+
+3. Leningnemer verleent op verzoek van Leninggever medewerking aan een evaluatie van het stimuleringsbeleid van de minister.   
+
+### Artikel  12  
+
+####Kennisgevingen
+
+Kennisgevingen en mededelingen met betrekking tot deze overeenkomst worden, tenzij uitdrukkelijk anders is bepaald, gedaan aan de hierna vermelde adressen: [naam, adres, plaats Leninggever]; [naam, adres, plaats Leningnemer]. 
+
+### Artikel  13  
+
+####Diversen
+
+1. Behoudens voorafgaande schriftelijke toestemming van Leninggever is Leningnemer niet gerechtigd de rechten en verplichtingen uit hoofde van deze overeenkomst aan derden over te dragen. De rechten en verplichtingen voortvloeiende uit deze overeenkomst zijn één geheel en derhalve ondeelbaar.  
+
+2. De nietigheid van enig beding opgenomen in deze overeenkomst zal niet de nietigheid van de gehele overeenkomst met zich brengen.  
+
+3. Op deze overeenkomst en haar uitvoering is Nederlands recht van toepassing. Alle geschillen die mochten ontstaan naar aanleiding van deze overeenkomst, zullen uitsluitend worden voorgelegd aan de rechtbank Den Haag te Den Haag.   
+
+### Artikel  13a  
+
+####Bekrachtiging [Opnemen indien Leningnemer een rechtspersoon is in oprichting]
+
+1. Deze overeenkomst wordt aangegaan onder de opschortende voorwaarde dat uiterlijk op [pm datum] de ondertekenaar van Leningnemer binnen [pm aantal] weken na ondertekening van deze overeenkomst aan Leninggever heeft aangetoond dat die overeenkomst is bekrachtigd door de inmiddels opgerichte rechtspersoon.  
+
+2. Bij gebreke van de tijdige overlegging van stukken waaruit blijkt van de bekrachtiging, treedt deze overeenkomst niet meer in werking en zullen Partijen ter zake van deze overeenkomst niet meer van elkander te vorderen hebben.   
+
+### Artikel  14  
+
+####Subsidiebeschikking
+
+Deze overeenkomst wordt met terugwerkende kracht ontbonden indien de subsidiebeschikking uit hoofde waarvan deze overeenkomst van geldlening is gesloten wordt gewijzigd of ingetrokken. 
+
+### Artikel  15  
+
+####Inwerkingtreding en looptijd
+
+1. Deze overeenkomst treedt in werking met ingang van [pm datum].  
+
+2. Indien de overeenkomst op de in het eerste lid genoemde datum nog niet is ondertekend treedt de overeenkomst in werking door de ondertekening door beide Partijen en krijgt de overeenkomst terugwerkende kracht tot en met deze datum<sup> 12 NB Het kan zijn dat deze datum meebrengt dat de datum in artikel 4, eerste lid, moet worden aangepast zodat zeker is dat de betaling van de eerste tranche tijdig kan plaatsvinden. </sup>.  
+
+3. Deze overeenkomst eindigt als de uitstaande VFF-lening inclusief de lopende rente, of de wettelijke rente volledig is terugbetaald en vervolgens [pm aantal jaren] zijn verstreken waarin Leningnemer aan zijn informatieverplichtingen heeft voldaan.   
+Aldus in [pm]voud ondertekend te [plaats] op [datum] LENINGNEMER [naam/statutaire naam] [handtekening] [naam] [functie] LENINGGEVER De Minister van Economische Zaken, namens deze: [handtekening] [naam functionaris] [functie] 
+
+### Bijlage  1  
+
+####ALGEMEEN
+
+Voor de verantwoording als bedoeld in artikel 7 lid 2 van de overeenkomst dient Leningnemer binnen de in dat artikel gestelde termijn een specificatie van de kosten in. Hierbij wordt qua opzet en wijze van specificatie aangesloten bij de ingediende begroting, die onderdeel uitmaakte van de subsidieaanvraag op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen. Ook wordt inzicht gegeven in eventueel ontvangen andere bijdragen in de kosten van de verrichte activiteiten voor het vernieuwingsfasetraject. De specificatie van de kosten is voorzien van naam van de Leningnemer, aanduiding van het vernieuwingsfasetraject en het referentienummer van de Rijksdienst voor Ondernemend Nederland (RVO) respectievelijk het bestuur van Stichting STW (STW). RVO en STW zijn de uitvoerders van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen. De verantwoording sluit af met een verklaring en ondertekening door Leningnemer. In de verklaring verklaart de ondertekenaar dat hij/zij bevoegd en/of gemachtigd is om te ondertekenen en dat de verantwoording naar waarheid is ingevuld. De ondertekenaar wordt vermeld met titels, voorletter(s), tussenvoegsels en achternaam. De datum van ondertekening wordt vermeld en tot slot wordt de verklaring ondertekend met een handtekening. De aldus ondertekende verantwoording wordt toegezonden aan RVO of waarvan het adres is aangegeven op de subsidiebeschikking. 
+
+####BIJZONDER (hoofdsom van de lening groter of gelijk aan € 125.000)
+
+Indien de hoofdsom van de lening groter of gelijk is aan € 125.000 dient een verklaring van een accountant te worden bijgevoegd die is opgesteld conform het hieronder opgenomen model en met gebruikmaking van het hieronder opgenomen controleprotocol. 
+
+#### *CONTROLEPROTOCOL CONTROLEVERKLARING VROEGEFASEFINANCIERING*BEHORENDE BIJ DE UITVOERINGSOVEREENKOMST UIT HOOFDE WAARVAN EEN GELDLENING ZIJNDE VROEGEFASEFINANCIERING AAN EEN MKB-ONDERNEMER WORDT VERSTREKT TEN BEHOEVE VAN EEN VERNIEUWINGSFASETRAJECT VOOR ZOVER DE HOOFDSOM GROTER OF GELIJK IS DAN € 125.000
+
+### 1  
+
+####Uitgangspunten
+
+### 1.1  
+
+####Doelstelling
+
+Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, belast met de controle van de door de Leningnemer bij de Rijksdienst voor Ondernemend Nederland (RVO) in te dienen verantwoording over de aanwending van de hoofdsom voor de financiering van het vernieuwingsfasetraject. 
+
+### 1.2  
+
+####Definities
+
+*Accountant:* een registeraccountant of Accountant-Administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) aan wie de leningnemer de opdracht heeft toegekend de verantwoording van de aanwending van de hoofdsom te controleren.  
+
+*Leningnemer:* de MKB-ondernemer aan wie de Minister van Economische Zaken een subsidie in de vorm van een geldlening is verstrekt op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen en die op grond van dat hoofdstuk met de Staat der Nederlanden een overeenkomst tot lening heeft.  
+
+*Controleverklaring:* een schriftelijke verklaring van de accountant inhoudende een oordeel omtrent de juistheid, volledigheid en financiële rechtmatigheid van de verantwoording van de aanwending van de hoofdsom van de lening.  
+
+*Financiële rechtmatigheid:* een financiële transactie is in overeenstemming is met de in de van toepassing zijnde wet- en regelgeving (zie paragraaf 1.3) opgenomen bepalingen die de uitkomst van die financiële transactie beïnvloeden.   
+
+### 1.3  
+
+####Wet- en regelgeving
+
+Voor de controle van de financiële rechtmatigheid volgens dit protocol is de volgende wet- en regelgeving (inclusief eventuele wijzigingen hierin) van toepassing: 
+
+– Subsidieregeling starten groeien en overdragen van ondernemingen, in het bijzonder hoofdstuk 9a (SGOO);  
+
+– De uitvoeringsovereenkomst tussen de Staat der Nederlanden vertegenwoordigd door de Minister van Economische Zaken en Leningnemer, als bedoeld in artikel 9a.3, vierde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+– [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de [Kaderwet EZ-subsidies](../../../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);  
+
+– [Algemene wet Bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   Bij de uitvoering van de controle stelt de accountant tevens vast dat: 
+
+a. in de rekening en verantwoording omtrent de uitgaven en inkomsten: 
+
+1°. geen kosten zijn opgenomen die niet voor financiering in aanmerking komen op grond van de SGOO, de beschikking tot subsidieverlening en de uitvoeringsovereenkomst;  
+
+2°. uitsluitend kosten zijn opgenomen die daadwerkelijk voor rekening komen van de Leningnemer;    
+
+b. de Leningnemer opgave doet van alle inkomsten, waaronder subsidies, waarmee het vernieuwingsfasetraject waarop de lening betrekking heeft mede is gefinancierd;  
+
+c. het verniewingfasetraject is uitgevoerd.   
+
+### 2  
+
+####Controleaanpak
+
+### 2.1  
+
+####Eisen voor de controleaanpak
+
+De controle moet voldoen aan de controlestandaarden die onderdeel zijn van de nadere voorschriften Controle- en overige standaarden (NV COS), die door de Nederlandse Beroepsorganisatie van Accountants (NBA) zijn vastgesteld. Zonder de in voorgaande alinea geformuleerde voorschriften in te perken, zijn voor de controle van specifieke financiële verantwoordingen ten behoeve van de vaststelling van bijdragen vanuit EZ zoals in dit geval een subsidie in de vorm van een geldlening met name de volgende aandachtspunten van belang: 
+
+1. De accountant stelt een analyse op inzake het risico dat de specifieke financiële verantwoording een materiële afwijking bevat. Deze risicoanalyse wordt specifiek opgesteld voor deze controle; er mag niet volstaan worden met een standaard analyse. In de risicoanalyse maakt de accountant zichtbaar welke controles gericht op de geïdentificeerde (significante) risico’s zullen worden uitgevoerd.  
+
+2. De accountant ontwikkelt op grond van de risicoanalyse een controleplan waarin zijn vastgelegd: de aard, de tijdsfasering en de omvang van de controlewerkzaamheden die door leden van het controleteam moeten worden uitgevoerd om toereikende controle-informatie te verkrijgen teneinde het controlerisico tot een aanvaardbaar laag niveau te reduceren.  
+
+3. In het controleplan wordt de goedkeuringstolerantie (zie paragraaf 2.2) vertaald naar controletoleranties, waarbij de goedkeuringstolerantie het maximum is.  
+
+4. Bij de controle wordt vastgesteld of de in de financiële verantwoording opgenomen posten, met in achtneming van de controletoleranties en goedkeuringstolerantie (zie paragraaf 2.2), juist, volledig en rechtmatig (zie definitie in paragraaf 1.2) zijn.  
+
+5. De accountant controleert: 
+
+– de juiste en volledige weergave van de door andere bestuursorganen, de Europese Commissie en derden verstrekte bijdragen in de kosten van de gesubsidieerde activiteiten;    
+
+6. De accountant mag bij zijn controle gebruik maken van controlewerkzaamheden, die zijn uitgevoerd bij de controle van de jaarrekening van de Leningnemer. Een enkele verwijzing hiernaar in het controledossier met betrekking tot deze lening of incidentele subsidie in de vorm van een geldlening is onvoldoende. In het controledossier voor de specifieke verklaring moeten deze werkzaamheden worden beschreven evenals de belangrijkste relevante conclusies. Het controledossier moet zelfstandig bruikbaar zijn. Dit betekent dat de relevante stukken daarin opgenomen zijn.  
+
+7. De accountant zorgt voor adequate controledocumentatie, waaruit blijkt dat de werkzaamheden conform het controleplan zijn uitgevoerd, wat de uitkomsten van de controle zijn en dat deze zijn beoordeeld door de eindverantwoordelijke accountant. Deze documentatie omvat naast het op de risicoanalyse gebaseerde controleplan in ieder geval stukken waaruit blijkt: 
+
+– dat de cijfermatige juistheid van de verantwoording is nagegaan;  
+
+– dat de verantwoording aansluit met de financiële administratie;  
+
+– dat een cijferbeoordeling is uitgevoerd van de werkelijk verantwoorde kosten ten opzichte van de begrote kosten;  
+
+– wat de aard en de omvang zijn van verrichte systeem- en gegevensgerichte controlewerkzaamheden op in de verantwoording opgevoerde kosten.     
+
+### 2.2  
+
+####Materialiteit: goedkeuringstoleranties en gewenste zekerheid
+
+Bij zijn oordeelsvorming over de naleving van de subsidie- en leningvoorwaarden streeft de accountant naar een redelijke mate van zekerheid. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, wordt een betrouwbaarheid van 95 procent gehanteerd. Een controleverklaring met een goedkeurende strekking impliceert dat, gegeven eerder genoemde betrouwbaarheid, de maximale afwijking voor wat betreft de getrouwheid of financiële rechtmatigheid in de financiële verantwoording niet groter is dan één procent van het totaal financieel belang van die verantwoording. De hierna vermelde goedkeuringtoleranties zijn van toepassing.  
+
+| Aard van de aangelegenheid  | Controleverklaring  |--- | Goedkeurend  | Met beperking  | Oordeelonthouding  | Afkeurend  |
+|:---|:---|:---|:---|:---|:---|:---|
+|  *Afwijkingen in de verantwoording*   | <1%  | > 1% en < 3%  | N.v.t.  | > 3%  |
+|  *Het niet in staat zijn om voldoende en geschikte controle-informatie te verkrijgen *   |  *<3% *   |  *> 3% en <10% *   |  *> 10% *   |  *N.v.t.*   |
+
+Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD). 
+### *Afwijkingen in de verantwoording* 
+
+Van een afwijking in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) verantwoorde post niet voldoet aan één of meer aspecten van de geldende wet- en regelgeving (zie ook paragraaf 1.2) of dat een (gedeelte van een) post niet juist of volledig is verantwoord. Afwijkingen van wet- en regelgeving worden in absolute zin opgevat; saldering van afwijkingen is daarom niet toegestaan. 
+### *Het niet in staat zijn om voldoende en geschikte controle-informatie te verkrijgen (onzekerheden in de controle)* 
+
+Er is sprake van onzekerheden in de controle wanneer op basis van de beschikbare controle-informatie niet kan worden vastgesteld of een (gedeelte van een) post voldoet aan de eisen in de geldende wet- en regelgeving. 
+### *Omgaan met geconstateerde afwijkingen* 
+
+Het uitgangspunt is dat leningnemer de door de accountant geconstateerde afwijkingen voor zover mogelijk corrigeert. Materiële afwijkingen (conform tabel paragraaf 2.2), die niet door de leningnemer worden gecorrigeerd, leiden tot een aangepast (niet goedkeurend) oordeel door de accountant. 
+
+### 3  
+
+####Verslaglegging
+
+De accountant legt de uitkomsten van de controle vast in een controleverklaring.Verwezen wordt naar de voorbeeldtekst bij dit controleprotocol. 
+
+### 4  
+
+####Reviewbeleid
+
+De Auditdienst Rijk (ADR) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de ADR desgevraagd alle inlichtingen en bescheiden<sup> 13 Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft EZ bij rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt het recht kennis te nemen van jaarrekeningen, jaarverslagen en daaraan toegevoegde overige gegevens, verantwoordingen, gegevens en documenten nodig voor vaststelling van subsidies, leningen en garanties en verslagen van onderzoeken van accountants hiernaar en naar aanleiding hiervan nadere inlichtingen in te winnen en is EZ bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. De Minister van Economische Zaken is bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken. </sup>. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van de Minister van Economische Zaken of de Staat der Nederlanden. 
+
+####Voorbeeldtekst controleverklaring subsidie in de vorm van een geldlening (met goedkeurende strekking)
+
+Afgegeven ten behoeve van ... (naam leninggever) Aan: … (naam leningnemer) Wij hebben bijgaande verantwoording van de aanwending van de hoofdsom van de lening voor de financiering van het vroegefasetraject ingevolge de subsidiebeschikking en de uitvoeringsovereenkomst en eventuele wijzigingen ... (omschrijving, kenmerk en datum) van ... (naam Leningnemer) te ... (adres/statutaire vestigingsplaats) over 20XX (of voor een gebroken boekjaar: voor het jaar geëindigd op (datum) 20XX) gecontroleerd. 
+
+####Verantwoordelijkheid van het bestuur
+
+Leningnemer/Het bestuur van … (naam Leningnemer) is verantwoordelijk voor het opstellen van de verantwoording van de aanwending van de hoofdsom voor de financiering van het vroegefasetraject in overeenstemming met de subsidiebeschikking en de uitvoeringsovereenkomst. Leningnemer/Het bestuur van Leningnemer is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opstellen van de verantwoording van de aanwending van de hoofdsom mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
+
+####Verantwoordelijkheid van de accountant
+
+Onze verantwoordelijkheid is het geven van een oordeel over de verantwoording van de aanwending van de hoofdsom op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden, en het Controleprotocol Controleverklaring Vroegefasefinanciering. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de verantwoording geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de verantwoording van de aanwending van de hoofdsom. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de verantwoording van de aanwending van de hoofdsom een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opstellen van de verantwoording van de aanwending van de hoofdsom door de leningnemer, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de leningnemer. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor het opstellen van de verantwoording van de aanwending van de hoofdsom, alsmede een evaluatie van het algehele beeld van de verantwoording van de aanwending van de hoofdsom. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden. 
+
+####Oordeel
+
+Naar ons oordeel is de verantwoording van de aanwending van de hoofdsom van <naam instelling/persoon> over de periode <datum> tot <datum> in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de begroting zoals opgenomen in brief <kenmerk> d.d. <datum> en de relevante bepalingen in de van toepassing zijnde wet- en regelgeving. 
+
+####Beperking in gebruik en verspreidingskring
+
+De verantwoording van de aanwending van de hoofdsom is opgesteld voor ... (naam Leninggever: Staat der Nederlanden) met als doel ... (naam Leningnemer) in staat te stellen te voldoen aan de voorwaarden van de beschikking tot subsidieverlening en de uitvoeringsovereenkomst. Hierdoor is de verantwoording van de aanwending van de hoofdsom mogelijk niet geschikt voor andere doeleinden. De verantwoording van de aanwending van de hoofdsom met onze controleverklaring is derhalve uitsluitend bestemd voor ... (naam Leningnemer) en ... (naam Leninggever: Staat der Nederlanden) en dient niet te worden verspreid aan of te worden gebruikt door anderen. Plaats en datum Handtekening Naam accountant Naam accountantskantoor 
+
+### Bijlage  9a.5 
+
+####, behorende bij de artikelen 9a.13, eerste lid , en 9a.20, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+####STANDAARDBEPALINGEN VOOR DE SAMENSTELLING VAN DE UITVOERINGSOVEREENKOMST UIT HOOFDE WAARVAN EEN GELDLENING ZIJNDE VROEGEFASEFINANCIERING AAN EEN INNOVATIEVE STARTER OF ACADEMISCHE INNOVATIEVE STARTER WORDT VERSTREKT TEN BEHOEVE VAN EEN VROEGEFASETRAJECT
+
+*DE ONDERGETEKENDEN:*  
+
+1. De Staat der Nederlanden, vertegenwoordigd door de Minister van Economische Zaken, hierna te noemen: Leninggever;   
+
+2. [rechtspersoon: naam] <sup> 14 Indien er sprake is van een rechtspersoon in oprichting het volgende opnemen: [naam)], i.o., vertegenwoordigd door de volgende persoon/personen [naam, adres]. NB Tevens wordt bij deze standaardbepalingen voorzien in een bepaling die meebrengt dat de uitvoeringsovereenkomst niet in werking zal treden indien niet voor de in die overeenkomst aangegeven datum is gebleken van bekrachtiging van de overeenkomst door de inmiddels opgerichte rechtspersoon. Dit houdt in dat dan moet worden aangegeven voor welke datum de uitvoeringsovereenkomst bekrachtigd moet zijn door de rechtspersoon Zie voor de in dat geval op te nemen standaardbepaling artikel 13a. </sup>, statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) vertegenwoordigd door haar bestuurder(s) de heer/mevrouw (naam), en ....., ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer),  *OF*   
+
+2. [personenvennootschap: naam], kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer),  *OF*   
+
+2. [natuurlijk persoon: handelende onder de bedrijfsnaam] Kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer)<sup> 15 Idem indien sprake is van een rechtspersoon in oprichting. </sup>,  *OF*   
+
+2. [natuurlijk persoon niet handelende onder een bedrijfsnaam: naam, adres, beroep], hierna te noemen: Leningnemer; hierna tezamen ook genoemd: Partijen;   hebben het volgende overwogen: 
+
+A. Bij beschikking van [datum], met kenmerk [kenmerk], heeft de Minister van Economische Zaken, aan Leningnemer subsidie verleend in de vorm van een geldlening voor een maximum bedrag groot EUR [bedrag] voor de financiering van de uitvoering van een vroegefasetraject op grond van artikel 9a.4 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+B. Partijen willen de bij de onder A genoemde subsidiebeschikking behorende uitvoeringsovereenkomst sluiten.  
+
+C. Leningnemer heeft in het kader van zijn subsidieaanvraag op basis waarvan de onder A genoemde subsidie is verleend een verklaring als bedoeld in artikel 9a.4, tweede lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen overgelegd waaruit blijkt dat [naam, [eventueel: statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer)]] het voornemen heeft om bij het succesvol verlopen van het vroegefasetraject een bedrag groot EUR [bedrag] te investeren in de onderneming van betrokkene.   Partijen komen het volgende overeen 
+
+### Artikel  1  
+
+####Definities
+
+1. In deze overeenkomst wordt verstaan onder: 
+
+– kosten vroegefasetraject: alle kosten die worden gemaakt ten behoeve van voor de uitvoering van het vroegefasetraject;  
+
+– EU-referentierente: de referentievoet, bedoeld in de Mededeling van de Commissie van 19 januari 2008 over de herziening van de methode waarmee de referentie- en disconteringspercentages worden vastgesteld (PbEU 2008, C 14), zoals laatstelijk vastgesteld voor Nederland;  
+
+– subsidieaanvraag: volledig ingevulde en door Leningnemer ondertekende formulier voor het indienen van een aanvraag om subsidie op grond van artikelen 9a.9, eerste lid, en 9a.14, eerste lid, van de Subsdieregeling starten, groeien en overdragen van ondernemingen en het daarbij overgelegde vroegefaseplan en de daarbij overgelegde gegevens en documenten op basis waarvan Leningnemer subsidie heeft ontvangen op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+– subsidiebeschikking: beschikking van de Minister van Economische Zaken op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen van [datum], met kenmerk [kenmerk].    
+
+2. Voor de toepassing en de uitleg van deze overeenkomst zijn de begripsbepalingen die voorkomen in het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen zoveel mogelijk van overeenkomstige toepassing.   
+
+### Artikel  2  
+
+####Lening
+
+Leninggever verstrekt aan Leningnemer een lening (hierna: VFF-lening) in contanten met een hoofdsom groot maximaal EUR [bedrag], welke lening Leningnemer aanvaardt, met inachtneming van de bepalingen van deze overeenkomst. 
+
+### Artikel  3  
+
+####Doel
+
+De VFF-lening is uitsluitend bestemd voor het financieren van de kosten van de uitvoering van het vroegefasetraject. 
+
+### Artikel  4  
+
+####Eerste tranche en tweede tranche
+
+1. Leningnemer ontvangt de eerste tranche van de hoofdsom, groot [pm bedrag],<sup> 16 De eerste tranche bedraagt 1/3 deel van het maximaal ter leen te verstrekken bedrag. </sup> binnen 14 dagen na de datum van inwerkingtreding van deze overeenkomst op het (door hem opgegeven) rekeningnummer ......  
+
+2. Leningnemer ontvangt uitsluitend een tweede tranche, nadat hij met inachtneming van artikel 7, tweede lid, ten genoegen van Leninggever heeft aangetoond dat hij voor de uitvoering van het vroegefasetraject ten minste [pm bedrag eerste tranche] aan kosten heeft gemaakt en betaald.  
+
+3. Het als tweede tranche van de hoofdsom te verstrekken bedrag is groot [pm bedrag] of, indien Leningnemer heeft aangegeven een lager bedrag nodig te hebben dat lagere bedrag.  
+
+4. Leninggever kan het bedrag van de tweede tranche in twee gedeelten uitkeren indien aannemelijk is geworden dat er een risico is dat Leningnemer per saldo te veel financiering ontvangt en dat dit risico moet worden beperkt. Leninggever kan daarbij extra voorwaarden stellen waaraan moet zijn voldaan alvorens het tweede deel van de tweede tranche betaalbaar wordt gesteld.  
+
+5. Leningnemer ontvangt de tweede tranche van de hoofdsom, zo spoedig mogelijk nadat Leningnemer heeft voldaan aan de verplichting bedoeld in het tweede lid.   
+
+### Artikel  5  
+
+####Uiterste datum waarop een volgende tranche opvraagbaar is.
+
+Leningnemer kan de tweede tranche of het tweede deel van de tweede tranche opvragen tot uiterlijk [pm datum]<sup> 17 Datum: 2 jaar na datum inwerkingtreding. </sup>. Daarna kan Leningnemer niet meer trekken op de VVF-lening. 
+
+### Artikel  6  
+
+####Rente
+
+1. Leningnemer is over de hoofdsom een rentepercentage verschuldigd van [pm]<sup> 18 5% + referentierente zoals die is ten tijde van de subsidiebeschikking </sup>.  
+
+2. De rente wast aan het einde van het kalenderjaar automatisch aan bij de uitstaande hoofdsom.  
+
+3. Voor de berekening van de rente zal de maand op 30 dagen en het jaar op 360 dagen worden gesteld.  
+
+4. Voor dat deel van de ter leen ontvangen bedragen waarvan Leningnemer niet, of niet met inachtneming van artikel 7, tweede lid, heeft aangetoond dat zij per saldo zijn aangewend voor de financiering van maximaal [pm percentage] van de door Leningnemer voor het vroegefasetraject gemaakte en betaalde kosten, kan Leninggever de rente vaststellen op de marktrente. De verhoging treedt met ingang van de eerste dag van de eerstvolgende kalendermaand.  
+
+5. De marktrente wordt bepaald als volgt: de EU-referentierente plus 1.000 basispunten.   
+
+### Artikel  7  
+
+####Verantwoording gebruik lening voor financiering vroegefasetraject
+
+1. Binnen zes maanden na beëindiging van het vroegefasetraject of na voortijdige staking van het vroegefasetraject zal Leningnemer verantwoording afleggen over de mate waarin de hoofdsom is aangewend voor financiering van het vroegefasetraject.  
+
+2. Leningnemer volgt voor de verantwoording van de kosten de instructies in de bij deze overeenkomst behorende bijlage 1.  
+
+3. In het geval de hoofdsom € 125.000 of meer bedraagt legt Leningnemer bij zijn verantwoording van de kosten een verklaring van een accountant over die is opgesteld volgens het controleprotocol dat in de bij deze overeenkomst horende bijlage 1 is opgenomen.   
+
+### Artikel  8  
+
+####Aflossingen
+
+1. Leningnemer betaalt de lening (de hoofdsom en de rente) terug in zes jaarlijkse termijnen die telkens vervallen op 1 [maand en jaar] en voor het eerst op 1 [pm maand en jaar]<sup> 19 De eerste termijn wordt afgelost drie jaar na de datum gemeld in artikel 15, eerste lid, </sup> en voor het laatst op 1 [pm maand en jaar].  
+
+2. Het af te lossen bedrag is de eerste vijf jaar gelijk aan 20% van de som van de uitbetaalde tranches. Het in het zesde jaar af te lossen bedrag is gelijk aan het dan uitstaande bedrag van de hoofdsom en de lopende rente.  
+
+3. Gedurende de periode van aflossing kan Leninggever op verzoek van Leningnemer maximaal twee maal een jaar uitstel geven van de verplichting tot aflossing. Leninggever kan aan het verlenen van uitstel voorwaarden verbinden. Indien uitstel is verleend worden de data bedoeld in het tweede lid, en in voorkomende gevallen het eerste lid, verlengd met de termijn waarvoor uitstel is verleend.  
+
+4. Leningnemer kan Leninggever verzoeken toe te staan dat door hem eerder onverplicht afgeloste bedragen in mindering komen op een termijn als bedoeld in het eerste lid.  
+
+5. Aflossingen geschieden door overboeking naar rekeningnummer [pm rekeningnummer en bank] ten name van [pm] onder vermelding van ‘Ministerie van Economische Zaken, verplichtingennummer [pm nummer]’. Leningnemer zal Leninggever machtigen en gemachtigd houden tot automatische incasso van de aflossingen.  
+
+6. Leningnemer is bij te late aflossing over het niet afgeloste bedrag de wettelijke rente verschuldigd.  
+
+7. Leningnemer is gerechtigd de VFF-lening geheel of gedeeltelijk vervroegd af te lossen.  
+
+8. Aflossingen worden achtereenvolgens in mindering gebracht op wettelijke renten, indien verschuldigd, op eventueel nog lopende rente en vervolgens op de hoofdsom.   
+
+### Artikel  9  
+
+####Verplichtingen van Leningnemer gedurende de looptijd van de lening
+
+1. Leningnemer zal geen uitkeringen hoe ook genaamd doen of toezeggen aan zijn aandeelhouders behoudens voorafgaande schriftelijke goedkeuring van Leninggever.  
+
+2. Leningnemer zal Leninggever zo spoedig mogelijk informeren bij voortijdige beëindiging van het vroegefasetraject en bij de gebeurtenissen die leiden tot opeisbaarheid van de lening op grond van artikel 10.  
+
+3. Leningnemer zal zijn administratie zo inrichten dat deze aansluit bij de bij zijn subsidieaanvraag overgelegde begroting voor het vroegefasetraject. Uit de administratie blijkt te allen tijde op eenvoudige en duidelijke wijze welke kosten zijn gemaakt en betaald voor die activiteiten. Voor eventuele loonkosten is een door middel van een urenadministratie vastgestelde urenverantwoording aanwezig.  
+
+4. Op verzoek van Leninggever verschaft Leningnemer inlichtingen omtrent de voortgang of resultaten van de blijkens de aanvraag van Leningnemer   voor het vroegefasetraject verrichte en nog te verrichten activiteiten. 
+
+### Artikel  10  
+
+####Opeisbaarheid
+
+1. Leninggever kan de onderhavige overeenkomst opzeggen en de lening is geheel of gedeeltelijk opeisbaar zonder dat daarbij enige termijn in acht hoeft te worden genomen indien: 
+
+a. Leningnemer enige bepaling van deze overeenkomst niet heeft nageleefd;  
+
+b. Leningnemer surséance van betaling heeft aangevraagd of ten aanzien van hem faillissement is aangevraagd;  
+
+c. Leningnemer overlijdt, wordt ontbonden of feitelijk wordt geliquideerd;  
+
+d. Leningnemer één of meerdere van zijn ondernemingen of een deel daarvan overdraagt of staakt of  
+
+e. executoriaal beslag is gelegd op enig belangrijk gedeelte van de vermogensbestanddelen van Leningnemer of aan crediteuren van Leningnemer is enig akkoord aangeboden.    
+
+2. Indien de niet-naleving door Leningnemer van enige bepaling in deze overeenkomst zich leent voor herstel zal de opzeggingsgrond, bedoeld in het eerste lid, onder a, uitsluitend worden aangewend nadat Leningnemer een redelijke termijn heeft gekregen om tot naleving over te gaan en er nog steeds sprake is van niet-nakoming.  
+
+3. In de gevallen bedoeld in het eerste lid kan Leninggever besluiten de leningsovereenkomst in stand te laten maar de lening geheel of gedeeltelijk vervroegd op te eisen.   
+
+### Artikel  11  
+
+####Financiële informatie en overige verplichtingen
+
+1. Leningnemer is verplicht aan door de minister als toezichthouder in de zin van de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aangewezen personen voor zover dezen dit redelijkerwijs noodzakelijk achten voor de vervulling van hun taak: 
+
+1.° inlichtingen te verstrekken en inzage in zakelijke gegevens en bescheiden te verstrekken en de gelegenheid te bieden daarvan kopieën te maken;  
+
+2.° toegang te verlenen tot plaatsen niet zijnde woningen;  
+
+3.° anderszins binnen de door hen gestelde termijn alle door hen gewenste medewerking te verlenen.    
+
+2. Leningnemer verstrekt alle inlichtingen over zijn financiële positie die Leninggever redelijkerwijze van hem kan verlangen.  
+
+3. Leningnemer is verleent op verzoek van Leninggever medewerking aan een evaluatie van het stimuleringsbeleid van de minister.   
+
+### Artikel  12  
+
+####Kennisgevingen
+
+Kennisgevingen en mededelingen met betrekking tot deze overeenkomst worden, tenzij uitdrukkelijk anders is bepaald, gedaan aan de hierna vermelde adressen: [naam, adres, plaats Leninggever]; [naam, adres, plaats Leningnemer]. 
+
+### Artikel  13  
+
+####Diversen
+
+1. Behoudens voorafgaande schriftelijke toestemming van Leninggever is Leningnemer niet gerechtigd de rechten en verplichtingen uit hoofde van deze overeenkomst aan derden over te dragen. De rechten en verplichtingen voortvloeiende uit deze overeenkomst zijn één geheel en derhalve ondeelbaar.  
+
+2. De nietigheid van enig beding opgenomen in deze overeenkomst zal niet de nietigheid van de gehele overeenkomst met zich brengen.  
+
+3. Op deze overeenkomst en haar uitvoering is Nederlands recht van toepassing. Alle geschillen die mochten ontstaan naar aanleiding van deze overeenkomst, zullen uitsluitend worden voorgelegd aan de rechtbank Den Haag te Den Haag.   
+
+### Artikel  13a  
+
+####Bekrachtiging [Opnemen indien Leningnemer een rechtspersoon is in oprichting]
+
+1. Deze overeenkomst wordt aangegaan onder de opschortende voorwaarde dat uiterlijk op [pm datum] de ondertekenaar van Leningnemer binnen [pm aantal] weken na ondertekening van deze overeenkomst aan Leninggever heeft aangetoond dat die overeenkomst is bekrachtigd door de inmiddels opgerichte rechtspersoon.  
+
+2. Bij gebreke van de tijdige overlegging van stukken waaruit blijkt van de bekrachtiging, treedt deze overeenkomst niet meer in werking en zullen Partijen ter zake van deze overeenkomst niet meer van elkander te vorderen hebben.   
+
+### Artikel  14  
+
+####Subsidiebeschikking
+
+Deze overeenkomst wordt met terugwerkende kracht ontbonden indien de subsidiebeschikking uit hoofde waarvan deze overeenkomst van geldlening is gesloten wordt gewijzigd of ingetrokken. 
+
+### Artikel  15  
+
+####Inwerkingtreding en looptijd
+
+1. Deze overeenkomst treedt in werking met ingang van [pm datum]  
+
+2. Indien de overeenkomst op de in het eerste lid genoemde datum nog niet is ondertekend treedt de overeenkomst in werking door de ondertekening door beide Partijen en krijgt de overeenkomst terugwerkende kracht tot en met deze datum<sup> 20 NB Het kan zijn dat deze datum meebrengt dat de datum in artikel 4, eerste lid, moet worden aangepast zodat zeker is dat de betaling van de eerste tranche tijdig kan plaatsvinden. </sup>.  
+
+3. Deze overeenkomst eindigt als de uitstaande VFF-lening inclusief de lopende rente, of de wettelijke rente volledig is terugbetaald en vervolgens [pm aantal jaren] zijn verstreken waarin Leningnemer aan zijn informatieverplichtingen heeft voldaan.   
+Aldus in [pm]voud ondertekend te [plaats] op [datum] LENINGNEMER [naam/statutaire naam] [handtekening] [naam] [functie] LENINGGEVER De Minister van Economische Zaken, namens deze: [handtekening] [naam functionaris] [functie] 
+
+### Bijlage  1  
+
+####ALGEMEEN
+
+Voor de verantwoording als bedoeld in artikel 7 lid 2 van de overeenkomst dient Leningnemer binnen de in dat artikel gestelde termijn een specificatie van de kosten in. Hierbij wordt qua opzet en wijze van specificatie aangesloten bij de ingediende begroting, die onderdeel uitmaakte van de subsidieaanvraag op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen. Ook wordt inzicht gegeven in eventueel ontvangen andere bijdragen in de kosten van de verrichte activiteiten voor het vroegefasetraject. De specificatie van de kosten is voorzien van naam van de Leningnemer, aanduiding van het vroegefasetraject en het referentienummer van de Rijksdienst voor Ondernemend Nederland (RVO) respectievelijk het bestuur van Stichting STW (STW). RVO en STW zijn de uitvoerders van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen. De verantwoording sluit af met een verklaring en ondertekening door Leningnemer. In de verklaring verklaart de ondertekenaar dat hij/zij bevoegd en/of gemachtigd is om te ondertekenen en dat de verantwoording naar waarheid is ingevuld. De ondertekenaar wordt vermeld met titels, voorletter(s), tussenvoegsels en achternaam. De datum van ondertekening wordt vermeld en tot slot wordt de verklaring ondertekend met een handtekening. De aldus ondertekende verantwoording wordt toegezonden aan RVO of waarvan het adres is aangegeven op de subsidiebeschikking. 
+
+####BIJZONDER (hoofdsom van de lening groter of gelijk aan € 125.000)
+
+Indien de hoofdsom van de lening groter of gelijk is aan € 125.000 dient een verklaring van een accountant te worden bijgevoegd die is opgesteld conform het hieronder opgenomen model en met gebruikmaking van het hieronder opgenomen controleprotocol. 
+
+####CONTROLEPROTOCOL CONTROLEVERKLARING VROEGEFASEFINANCIERING BEHORENDE BIJ DE UITVOERINGSOVEREENKOMST UIT HOOFDE WAARVAN EEN GELDLENING ZIJNDE VROEGEFASEFINANCIERING AAN EEN INNOVATIEVE STARTER OF ACADEMISCHE STARTER WORDT VERSTREKT TEN BEHOEVE VAN EEN VROEGEFASETRAJECT VOOR ZOVER DE HOOFDSOM GROTER OF GELIJK IS DAN € 125.000
+
+### 1  
+
+####Uitgangspunten
+
+### 1.1  
+
+####Doelstelling
+
+Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, belast met de controle van de door de Leningnemer bij de Rijksdienst voor Ondernemend Nederland (RVO) in te dienen verantwoording over de aanwending van de hoofdsom voor de financiering van het vroegefasetraject. 
+
+### 1.2  
+
+####Definities
+
+*Accountant:* een registeraccountant of Accountant-Administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) aan wie de leningnemer de opdracht heeft toegekend de verantwoording van de aanwending van de hoofdsom te controleren.  
+
+*Leningnemer:* de innovatieve starter of academisch innovatieve starter aan wie de Minister van Economische Zaken een subsidie in de vorm van een geldlening is verstrekt op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen en die op grond van dat hoofdstuk met de Staat der Nederlanden een overeenkomst tot lening heeft.  
+
+*Controleverklaring:* een schriftelijke verklaring van de accountant inhoudende een oordeel omtrent de juistheid, volledigheid en financiële rechtmatigheid van de verantwoording van de aanwending van de hoofdsom van de lening.  
+
+*Financiële rechtmatigheid:* een financiële transactie is in overeenstemming is met de in de van toepassing zijnde wet- en regelgeving (zie paragraaf 1.3) opgenomen bepalingen die de uitkomst van die financiële transactie beïnvloeden.   
+
+### 1.3  
+
+####Wet- en regelgeving
+
+Voor de controle van de financiële rechtmatigheid volgens dit protocol is de volgende wet- en regelgeving (inclusief eventuele wijzigingen hierin) van toepassing: 
+
+– Subsidieregeling starten groeien en overdragen van ondernemingen, in het bijzonder hoofdstuk 9a (SGOO);  
+
+– De uitvoeringsovereenkomst tussen de Staat der Nederlanden vertegenwoordigd door de Minister van Economische Zaken en Leningnemer, als bedoeld in artikel 9a.3, vierde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+
+– [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de [Kaderwet EZ-subsidies](../../../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);  
+
+– [Algemene wet Bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)   Bij de uitvoering van de controle stelt de accountant tevens vast dat: 
+
+a. in de rekening en verantwoording omtrent de uitgaven en inkomsten: 
+
+1°. geen kosten zijn opgenomen die niet voor financiering in aanmerking komen op grond van de SGOO, de beschikking tot subsidieverlening en de uitvoeringsovereenkomst;  
+
+2°. uitsluitend kosten zijn opgenomen die daadwerkelijk voor rekening komen van de Leningnemer;    
+
+b. de Leningnemer opgave doet van alle inkomsten, waaronder subsidies, waarmee het vroegefasetraject waarop de lening betrekking heeft mede is gefinancierd;  
+
+c. het vroegefasetraject is uitgevoerd.   
+
+### 2  
+
+####Controleaanpak
+
+### 2.1  
+
+####Eisen voor de controleaanpak
+
+De controle moet voldoen aan de controlestandaarden die onderdeel zijn van de nadere voorschriften Controle- en overige standaarden (NV COS), die door de Nederlandse Beroepsorganisatie van Accountants (NBA) zijn vastgesteld. Zonder de in voorgaande alinea geformuleerde voorschriften in te perken, zijn voor de controle van specifieke financiële verantwoordingen ten behoeve van de vaststelling van bijdragen vanuit EZ zoals in dit geval een subsidie in de vorm van een geldlening met name de volgende aandachtspunten van belang: 
+
+1. De accountant stelt een analyse op inzake het risico dat de specifieke financiële verantwoording een materiële afwijking bevat. Deze risicoanalyse wordt specifiek opgesteld voor deze controle; er mag niet volstaan worden met een standaard analyse. In de risicoanalyse maakt de accountant zichtbaar welke controles gericht op de geïdentificeerde (significante) risico’s zullen worden uitgevoerd.  
+
+2. De accountant ontwikkelt op grond van de risicoanalyse een controleplan waarin zijn vastgelegd: de aard, de tijdsfasering en de omvang van de controlewerkzaamheden die door leden van het controleteam moeten worden uitgevoerd om toereikende controle-informatie te verkrijgen teneinde het controlerisico tot een aanvaardbaar laag niveau te reduceren.  
+
+3. In het controleplan wordt de goedkeuringstolerantie (zie paragraaf 2.2) vertaald naar controletoleranties, waarbij de goedkeuringstolerantie het maximum is.  
+
+4. Bij de controle wordt vastgesteld of de in de financiële verantwoording opgenomen posten, met in achtneming van de controletoleranties en goedkeuringstolerantie (zie paragraaf 2.2), juist, volledig en rechtmatig (zie definitie in paragraaf 1.2) zijn.  
+
+5. De accountant controleert: 
+
+– de juiste en volledige weergave van de door andere bestuursorganen, de Europese Commissie en derden verstrekte bijdragen in de kosten van de gesubsidieerde activiteiten;    
+
+6. De accountant mag bij zijn controle gebruik maken van controlewerkzaamheden, die zijn uitgevoerd bij de controle van de jaarrekening van de Leningnemer. Een enkele verwijzing hiernaar in het controledossier met betrekking tot deze lening of incidentele subsidie in de vorm van een geldlening is onvoldoende. In het controledossier voor de specifieke verklaring moeten deze werkzaamheden worden beschreven evenals de belangrijkste relevante conclusies. Het controledossier moet zelfstandig bruikbaar zijn. Dit betekent dat de relevante stukken daarin opgenomen zijn.  
+
+7. De accountant zorgt voor adequate controledocumentatie, waaruit blijkt dat de werkzaamheden conform het controleplan zijn uitgevoerd, wat de uitkomsten van de controle zijn en dat deze zijn beoordeeld door de eindverantwoordelijke accountant. Deze documentatie omvat naast het op de risicoanalyse gebaseerde controleplan in ieder geval stukken waaruit blijkt: 
+
+– dat de cijfermatige juistheid van de verantwoording is nagegaan;  
+
+– dat de verantwoording aansluit met de financiële administratie;  
+
+– dat een cijferbeoordeling is uitgevoerd van de werkelijk verantwoorde kosten ten opzichte van de begrote kosten;  
+
+– wat de aard en de omvang zijn van verrichte systeem- en gegevensgerichte controlewerkzaamheden op in de verantwoording opgevoerde kosten.     
+
+### 2.2  
+
+####Materialiteit: goedkeuringstoleranties en gewenste zekerheid
+
+Bij zijn oordeelsvorming over de naleving van de subsidie- en leningvoorwaarden streeft de accountant naar een redelijke mate van zekerheid. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, wordt een betrouwbaarheid van 95 procent gehanteerd. Een controleverklaring met een goedkeurende strekking impliceert dat, gegeven eerder genoemde betrouwbaarheid, de maximale afwijking voor wat betreft de getrouwheid of financiële rechtmatigheid in de financiële verantwoording niet groter is dan één procent van het totaal financieel belang van die verantwoording. De hierna vermelde goedkeuringtoleranties zijn van toepassing.  
+
+| Aard van de aangelegenheid  | Controleverklaring  |--- | Goedkeurend  | Met beperking  | Oordeelonthouding  | Afkeurend  |
+|:---|:---|:---|:---|:---|:---|:---|
+|  *Afwijkingen in de verantwoording*   | <1%  | > 1% en < 3%  | N.v.t.  | > 3%  |
+|  *Het niet in staat zijn om voldoende en geschikte controle-informatie te verkrijgen *   |  *<3% *   |  *> 3% en <10% *   |  *> 10% *   |  *N.v.t.*   |
+
+Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD). 
+### *Afwijkingen in de verantwoording* 
+
+Van een afwijking in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) verantwoorde post niet voldoet aan één of meer aspecten van de geldende wet- en regelgeving (zie ook paragraaf 1.2) of dat een (gedeelte van een) post niet juist of volledig is verantwoord. Afwijkingen van wet- en regelgeving worden in absolute zin opgevat; saldering van afwijkingen is daarom niet toegestaan. 
+### *Het niet in staat zijn om voldoende en geschikte controle-informatie te verkrijgen (onzekerheden in de controle)* 
+
+Er is sprake van onzekerheden in de controle wanneer op basis van de beschikbare controle-informatie niet kan worden vastgesteld of een (gedeelte van een) post voldoet aan de eisen in de geldende wet- en regelgeving. 
+### *Omgaan met geconstateerde afwijkingen* 
+
+Het uitgangspunt is dat leningnemer de door de accountant geconstateerde afwijkingen voor zover mogelijk corrigeert. Materiële afwijkingen (conform tabel paragraaf 2.2), die niet door de leningnemer worden gecorrigeerd, leiden tot een aangepast (niet goedkeurend) oordeel door de accountant. 
+
+### 3  
+
+####Verslaglegging
+
+De accountant legt de uitkomsten van de controle vast in een controleverklaring.Verwezen wordt naar de voorbeeldtekst bij dit controleprotocol. 
+
+### 4  
+
+####Reviewbeleid
+
+De Auditdienst Rijk (ADR) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de ADR desgevraagd alle inlichtingen en bescheiden<sup> 21 Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft EZ bij rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt het recht kennis te nemen van jaarrekeningen, jaarverslagen en daaraan toegevoegde overige gegevens, verantwoordingen, gegevens en documenten nodig voor vaststelling van subsidies, leningen en garanties en verslagen van onderzoeken van accountants hiernaar en naar aanleiding hiervan nadere inlichtingen in te winnen en is EZ bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. De Minister van Economische Zaken is bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken. </sup>. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van de Minister van Economische Zaken of de Staat der Nederlanden. 
+
+### Bijlage  9a.6 
+
+####, behorende bij artikelen 9a.4, tweede lid , en 9a.9, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+####Model voor de verklaring van de toekomstig investeerder als bedoeld in de artikelen 9a.4, tweede lid , en 9a.9, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+Ondergetekende, [rechtspersoon: naam], statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) vertegenwoordigd door haar bestuurder(s) de heer/mevrouw (naam), en ....., ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [personenvennootschap: naam], kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [natuurlijk persoon, handelende onder de bedrijfsnaam: bedrijfsnaam] Kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [natuurlijk persoon, niet handelende onder een bedrijfsnaam: naam, adres, beroep]; Verklaart het volgende: 
+
+1. Deze verklaring dient als bijlage bij de aanvraag van ..... [naam, adres aanvrager], hierna de Ondernemer, voor het verkrijgen van Vroegefasefinanciering (hierna: VVF) voor het vernieuwwings- of vroegefasetraject [.....]<sup> 22 Hier invoegen: een korte omschrijving van het vernieuwings- of vroegefasetraject. </sup>(hierna: traject).  
+
+2. Ondergetekende is voornemens per .....]<sup> 23 Hier invoegen: een concrete datum. </sup> aan de Ondernemer financiering te verstrekken tot een bedrag van [.....]<sup> 24 Hier invoegen: het bedrag dat Ondergetekende voornemens is te verstrekken en tevens minimaal het bedrag waarvoor de Ondernemer Vroegefasefinanciering aanvraagt. </sup>.  
+
+3. Het traject waarvoor de Ondernemer VFF aanvraagt is ook voor ondergetekende van belang omdat het helpt vragen op te lossen die van belang zijn voor het besluit van Ondergetekende inzake plannen tot financiering van de Ondernemer in de fase die volgt op het traject.  
+
+4. De Ondernemer beschikt over onvoldoende middelen om het traject zelf te bekostigen.  
+
+5. Als Ondergetekende binnen drie jaar na de datum van ondertekening van deze verklaring terugkomt op zijn voornemen tot financiering of als hij besluit dat hij geen financiering zal verstrekken zal Ondergetekende de Ondernemer en de contactpersoon van de Ondernemer bij de Rijksdienst voor Ondernemend Nederland dit schriftelijk berichten met een korte vermelding van de beweegredenen. Deze melding speelt een rol in het kader van de uitvoering van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
+
+6. Door het ondertekenen van deze verklaring gaat Ondergetekende geen verplichtingen aan jegens de Ondernemer of de Rijksdienst voor Ondernemend Nederland.   Deze verklaring is naar waarheid afgelegd te ..... op ..... ..... 
 

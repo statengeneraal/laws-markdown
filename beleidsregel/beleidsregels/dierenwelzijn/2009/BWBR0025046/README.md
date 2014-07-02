@@ -13,9 +13,7 @@ Besluit:
 
 ####(definities)
 
-In deze beleidsregels wordt verstaan onder: 
-
-*minister:* Minister van Landbouw, Natuur en Voedselkwaliteit.   
+In deze beleidsregels wordt verstaan onder minister: Minister van Economische Zaken. 
 
 ### Hoofdstuk  II  
 
@@ -30,8 +28,6 @@ In deze beleidsregels wordt verstaan onder:
 ####(definities)
 
 In dit hoofdstuk wordt verstaan onder: 
-
-– bestuurlijke boete: bestuurlijke boete als bedoeld in [artikel 120b van de wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); 
 
 –  *certificaat van goedkeuring;* certificaat van goedkeuring van het wegvervoermiddel als bedoeld in artikel 18 van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
@@ -55,15 +51,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Artikel  3  
 
-####(categorieën overtredingen)
+Voor de toepassing van deze beleidsregels wordt onderscheid gemaakt in: 
 
-Voor de toepassing van deze beleidsregels wordt onderscheidt gemaakt in: 
+a. geringe overtredingen: overtredingen van de bepalingen van de transportverordening waarbij de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu gering zijn of ontbreken;  
 
-a.  *geringe overtredingen:* overtredingen van bepalingen van de transportverordening van voornamelijk administratieve aard welke geen gevaar opleveren voor het welzijn van de vervoerde of te vervoeren dieren;  
+b. overtredingen: overtredingen van bepalingen van de transportverordening die niet zijn aan te merken als geringe of ernstige overtredingen;  
 
-b.  *overtredingen:* overtredingen van bepalingen van de transportverordening die niet zijn aan te merken als geringe of ernstige overtredingen;  
-
-c.  *ernstige overtredingen:* overtredingen van bepalingen van de transportverordening waarbij sprake is of is geweest van een ernstig risico voor de gezondheid van het dier en of ernstige aantasting van het welzijn van het dier.   
+c. ernstige overtredingen: overtredingen van bepalingen van de transportverordening waarbij de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu ernstig zijn.   
 
 ### Artikel  4  
 
@@ -256,29 +250,23 @@ a.  *plateaustal:* een stal, waarin gebruiksvarkens beschikken over twee verblij
 
 6°. een plateau is bereikbaar via een loopplank van tenminste 0,75 meter breed en zodanig geplaatst en ontworpen dat de varkens zonder veel moeite het plateau kunnen bereiken;    
 
-b.  *besluit:* [Varkensbesluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md);  
+b. besluit: [Besluit houders van dieren](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);  
 
-c.  *regeling:* [Vrijstellingsregeling dierenwelzijn](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md).   
+c. regeling: [Regeling houders van dieren](../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md).   
 
 ### Artikel  18  
 
 ####(trog)
 
-1.   Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in [artikel 7 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), worden meegerekend.   
-2.   Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in [artikel 7 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), 15 centimeter verzonken zijn.  
+1.   Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in [artikel 2.19, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.   
+2.   Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in [artikel 2.19, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), 15 centimeter verzonken zijn.  
 
 ### Artikel  19  
 
 ####(plateaustal)
 
-1.   Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in [artikel 4, tweede lid, van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [artikel 6, tweede lid](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), en [artikel 8, tweede lid van de regeling](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), worden meegerekend.   
-2.   Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in [artikel 5, derde lid, van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), en [artikel 7, tweede lid](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), en [artikel 8, vierde lid, van de regeling](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), worden meegerekend.  
-
-### Artikel  20  
-
-####(stal)
-
-Onder het begrip stal in [artikel 19 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), wordt verstaan de kleinste eenheid waarin varkens kunnen worden gehuisvest. 
+1.   Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in [artikel 2.17 van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.   
+2.   Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in [artikel 2.18, derde lid, van het besluit](../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden meegerekend.  
 
 ### Hoofdstuk  IV  
 
@@ -289,12 +277,6 @@ Onder het begrip stal in [artikel 19 van het besluit](../../../../../AMvB/varken
 ####(overgangsbepalingen)
 
 De in deze beleidsregels gehanteerde verjaringstermijn van drie jaar loopt vanaf de eerste overtreding welke wordt begaan na 1 januari 2009. 
-
-###Artikel  22  
-
-####(intrekking beleidsregels)
-
-De [beleidsregels dierenwelzijn](../../../../../beleidsregel/beleidsregels/dierenwelzijn/BWBR0013173/README.md) worden ingetrokken.
 
 ### Artikel  23  
 

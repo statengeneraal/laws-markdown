@@ -98,7 +98,9 @@ y. het vastleggen in het rijbewijzenregister van verklaringen in verband met de 
 
 z. het op basis van [artikel 25b, derde lid, van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;  
 
-aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.  
+aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie; 
+
+bb. het op verzoek van de eigenaar of houder van een motorrijtuig of aanhangwagen afgeven van een kentekencard ter vervanging van een voor 1 januari 2014 voor dat motorvoertuig of die aanhangwagen afgegeven kentekenbewijs.  
 
 ###Artikel 2a 
 
