@@ -410,6 +410,36 @@ De officier van justitie draagt, behoudens het bepaalde in artikel 16, zorg dat 
 4.   Hangende de beslissing tot het geven van een aanwijzing, kan de veroordeelde met toepassing van de artikelen 8-12 voorlopig van zijn vrijheid worden beroofd.    
 5.   De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de officier van justitie, aan wie op de voet van het bepaalde in de artikelen 15 of 17 de stukken in handen zijn gesteld.   
 
+### Artikel  43a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tenzij Onze Minister, met inachtneming van het toepasselijke verdrag, reeds aanstonds van oordeel is dat het verzoek om tenuitvoerlegging moet worden afgewezen, doet hij het verzoek met de daarbij behorende stukken toekomen aan de advocaat-generaal.   
+2.  Indien de door de vreemde staat overgelegde stukken naar het oordeel van Onze Minister onvoldoende zijn om op het verzoek een beslissing te nemen, biedt hij de autoriteiten van de verzoekende staat de gelegenheid binnen een door hem te stellen redelijke termijn aanvullende stukken of inlichtingen te verschaffen.   
+3.  De advocaat-generaal legt het verzoek met de daarbij behorende stukken onverwijld voor aan de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md). De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken in binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd aan de bijzondere kamer van het gerechtshof.   
+4.  Hangende de beslissing op het verzoek tot tenuitvoerlegging, kan de veroordeelde voorlopig worden aangehouden met toepassing van de artikelen 8 tot en met 12.  
+
+### Artikel  43b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De bijzondere kamer van het gerechtshof Arnhem-Leeuwarden beoordeelt met inachtneming van het toepasselijke verdrag: 
+
+a. of de tenuitvoerlegging in Nederland op grond van de artikelen 2, 3, 4, 6 of 7 niet kan plaatshebben;  
+
+b. welk strafbaar feit naar Nederlands recht het feit dat aan de buitenlandse veroordeling ten grondslag ligt, oplevert;  
+
+c. tot welke aanpassing van de opgelegde vrijheidsbenemende sanctie, het tweede en derde lid aanleiding geven.     
+2.  Indien de opgelegde vrijheidsbenemende sanctie een langere duur heeft dan het voor het desbetreffende feit naar Nederlands recht toepasselijke strafmaximum, wordt de duur van de vrijheidsbenemende sanctie tot dat strafmaximum verlaagd.   
+3.  Indien de aard van de opgelegde vrijheidsbenemende sanctie onverenigbaar is met het Nederlandse recht, wordt de vrijheidsbenemende sanctie gewijzigd in een straf of maatregel waarin het Nederlandse recht voorziet en die zoveel mogelijk overeenstemt met de in de vreemde staat opgelegde vrijheidsbenemende sanctie.   
+4.  De aanpassing op grond van het tweede en derde lid houdt in geen geval een verzwaring van de opgelegde vrijheidsbenemende sanctie in.   
+5.  De bijzondere kamer van het gerechtshof Arnhem-Leeuwarden doet zijn oordeel op grond van het eerste lid, schriftelijk en met redenen omkleed aan Onze Minister toekomen, binnen een termijn van zes weken nadat het verzoek en de daarbij behorende stukken zijn ontvangen.   
+6.  Onze Minister beslist op het verzoek tot tenuitvoerlegging. Voor zover de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden heeft geoordeeld dat het verzoek niet kan worden ingewilligd, wijst Onze Minister het verzoek af.  
+
+### Artikel  43c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien Onze Minister het verzoek tot tenuitvoerlegging heeft ingewilligd, geeft hij de aanwijzing tot tenuitvoerlegging of verdere tenuitvoerlegging van de in de vreemde staat opgelegde vrijheidsbenemende sanctie in Nederland.   
+2.  De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de officier van justitie in het arrondissement waar de veroordeelde zijn woonplaats heeft of zich bevindt, of, indien de veroordeelde voorlopig is aangehouden zoals bedoeld in artikel 43a, derde lid, aan de officier van justitie die in verband daarmee reeds bij de zaak betrokken is of, indien tegen de veroordeelde in Nederland een vervolging gaande is, de officier van justitie die met deze vervolging is belast of, indien de veroordeelde een in artikel 2 van de Wet militaire rechtspraak bedoelde persoon is, aan de officier van justitie bij de rechtbank die ingevolge die wet bevoegd is over de veroordeelde rechtsmacht uit te oefenen. Is op grond van het voorgaande voorshands geen bevoegde officier van justitie aan te wijzen, dan zendt Onze Minister de stukken toe aan de officier van justitie te Amsterdam.  
+
 ### Afdeling  E  
 
 ####Tenuitvoerlegging van bij verstek gewezen beslissingen 

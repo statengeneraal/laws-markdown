@@ -24,11 +24,27 @@ e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificati
 
 f. wettelijke beroepsvereisten gezelschapsdieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossier en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
 
-g. wettelijke beroepsvereisten recreatiedieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97720 en 97730, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).  
+g. wettelijke beroepsvereisten recreatiedieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97720 en 97730, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md); 
+
+h. welzijn van vleeskuikens, onderdeel van de kwalificatie Dierenhouder hokdieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).  
 
 ### Artikel  2  
 
-Wijzigt de Regeling uitvoering Honden- en kattenbesluit 1999. 
+1.  Het model voor de certificaten als bedoeld in [artikel 7.2.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt vastgesteld en ingevuld volgens bijlage 1 bij deze regeling.   
+2.  Het certificaat wordt opgemaakt op een beveiligde papiersoort met de volgende kenmerken: 
+
+a. een uniek watermerk;  
+
+b. een blinddruk;  
+
+c. UV-vezels;  
+
+d. een vloeiend kleurverloop;  
+
+e. een microtekst; en  
+
+f. een beschermlaag die verkleurt bij mechanische of chemische aantasting.     
+3.  Met het papier dat voldoet aan de veiligheidseisen in het tweede lid, als bedoeld in deze regeling wordt gelijkgesteld papier dat ten minste een gelijkwaardig beschermingsniveau biedt.  
 
 ### Artikel  3  
 
@@ -48,4 +64,53 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-H.G.J. Kamp     
+H.G.J. Kamp    
+
+###Bijlage 1 
+
+####behorende bij artikel 2  van de Regeling certificaten groen beroepsonderwijs
+
+![253889](http://wetten.overheid.nl/Illustration/253889)
+
+####Toelichting bij bijlage 1
+
+####Certificeerbare Eenheid
+
+De te hanteren benaming voor een certificeerbare eenheid is de benaming zoals vermeld in artikel 1 van de Regeling certificaten groen beroepsonderwijs. 
+
+####Kwalificatie
+
+De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs. Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie. Voor iedere certificeerbare eenheid van een kwalificatie die een examenkandidaat behaalt, wordt een apart certificaat uitgegeven, tenzij de certificeerbare eenheid onderdeel is van een afgeronde opleiding. In dat laatste geval worden de behaalde certificeerbare eenheden op het diploma en/of resultatenlijst vermeld conform de [Regeling modeldiploma mbo](../../../../../../ministeriele-regeling/regeling/modeldiploma/mbo/BWBR0031616/README.md). 
+
+####Kwalificatiedossier
+
+De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermeld in het Crebo. Als Crebocode dient te worden vermeld de in Crebo opgenomen code van het betreffende kwalificatiedossier. 
+
+####Niveau
+
+Het niveau dat moet worden ingevuld, is het niveau van de kwalificatie, bijvoorbeeld mbo-3. 
+
+####Naam examenkandidaat
+
+Op het certificaat wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ de officiële voornaam en de officiële achternaam van de examenkandidaat opgenomen, zoals deze staan vermeld in de gemeentelijke basisadministratie. De officiële namen worden volledig uitgeschreven. 
+
+####Geboortedatum en -plaats
+
+Achter ‘geboren’ wordt de geboortedatum vermeld en achter ‘te’ de geboorteplaats, zoals deze staan vermeld in de gemeentelijke basisadministratie. Indien de geboorteplaats buiten Nederland ligt, wordt achter de geboorteplaats het geboorteland vermeld. Indien de geboorteplaats niet bekend is, wordt alleen het geboorteland vermeld. 
+
+####Naamsvermelding instelling
+
+Achter het woord ‘aan’ wordt steeds de naam van de instelling vermeld. De naam van de instelling is de naam zoals geregistreerd in de Basisregistratie Instellingen (BRIN). Ook wanneer het examen is uitbesteed aan een andere instelling of exameninstelling dient de naam van de onderwijsinstelling waaraan de examenkandidaat is ingeschreven te worden vermeld. 
+
+####Wettelijke beroepsvereisten
+
+Indien op grond van een andere (wettelijke) regeling dan de [WEB](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het certificaat, dan is de instelling verplicht om de desbetreffende informatie op het certificaat te vermelden. 
+
+####Ondertekening
+
+Het waardedocument wordt ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten. Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het certificaat door de examencommissie plaatsvindt te worden ingevuld. Indien de onderwijsinstelling aan een andere instelling de examinering heeft uitbesteed, dan dient de examencommissie van de instelling waaraan is uitbesteed het certificaat te ondertekenen. 
+
+####Extra informatie
+
+Instellingen hebben de mogelijkheid om extra informatie op het certificaat te plaatsen. Hierbij kan worden gedacht aan de vermelding van bijvoorbeeld de naam van het kenniscentrum beroepsonderwijs bedrijfsleven, de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van certificaten is het van belang terughoudend te zijn bij het opnemen van extra informatie. 
+

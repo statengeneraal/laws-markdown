@@ -1158,13 +1158,6 @@ In gedingen aangevangen voor het van toepassing worden van artikel 69, derde lid
 2.  Artikel 20, derde lid, onderdeel b, zoals dat luidde op de dag voor inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](../../../../../wet/wet/harmonisatie/en/vereenvoudiging/socialezekerheidswetgeving/BWBR0029334/README.md) blijft van toepassing op de persoon die op of voor de dag van inwerkingtreding van die wet arbeidsongeschikt werd als bedoeld in artikel 20, eerste lid.   
 3.  Dit artikel vervalt met ingang van de dag gelegen tien jaar na de dag van inwerkingtreding van de [Wet harmonisatie en vereenvoudiging](../../../../../wet/wet/harmonisatie/en/vereenvoudiging/socialezekerheidswetgeving/BWBR0029334/README.md).  
 
-### Artikel  101g  
-
-####Overgangsrecht in verband met artikel 19, vijfde lid 
-
-1.  Ten aanzien van de verzekerde wiens recht op arbeidsongeschiktheidsuitkering voorafgaand aan de dag van inwerkingtreding van [artikel VII, onderdeel D, van de Verzamelwet SZW 2011](../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 19, vijfde lid, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding VII, onderdeel D, van de Verzamelwet SZW 2011, en eindigt het recht op arbeidsongeschiktheidsuitkering in afwijking van artikel 19, vijfde lid, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.  
-
 ### Hoofdstuk  11  
 
 ####Slotbepalingen 

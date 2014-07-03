@@ -1385,6 +1385,19 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 | 51-10-031  | 05-19-872  |
 | 51-10-031  | 05-18-516  |
 
+### V  
+
+####Molenrak 2
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  | OL  |
+|:---|:---|
+| 53-09-545  | 05-20-415  |
+| 53-09-839  | 05-21-673  |
+| 53-09-585  | 05-21-834  |
+| 53-09-291  | 05-20-574  |
+
 ### Bijlage  3b  
 
 ####Aanduidingen van gebieden in de Vlakte van de Raan, behorend bij artikel 13, onder b , en bij artikel 35, eerste lid 

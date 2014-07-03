@@ -35,7 +35,7 @@ Dit besluit is niet van toepassing op:
 
 a. puin, puingranulaat, bodem, grond, slib, baggerspecie en grondwater;  
 
-b. producten waaromtrent regels zijn gesteld bij of krachtens het [Besluit beheer elektrische en elektronische apparatuur](../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md).   
+b. producten waaromtrent regels zijn gesteld in de [Regeling afgedankte elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md).   
 
 ### §  2  
 

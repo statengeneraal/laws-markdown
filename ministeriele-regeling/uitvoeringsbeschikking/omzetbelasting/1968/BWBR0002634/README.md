@@ -479,7 +479,7 @@ Ingeval een lichaam als bedoeld in [artikel 24, eerste lid, van de wet](../../..
 
 ### Artikel  23a  
 
-1.   In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lid-staten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 50 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.   
+1.   In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lidstaten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 50 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.   
 2.   Het eerste lid, eerste volzin, is van overeenkomstige toepassing met betrekking tot goederen die worden afgenomen door een natuurlijke persoon die zijn normale verblijfplaats heeft in de Unie en die ten genoegen van de inspecteur kan aantonen dat hij zich binnen de in het eerste lid bedoelde termijn in een derde-land zal vestigen.   
 3.   Met betrekking tot de toepassing van het tarief van nihil is het bepaalde in [artikel 12 van het besluit](../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) van overeenkomstige toepassing, met dien verstande dat voor het aantonen van de aanspraak op toepassing daarvan in ieder geval is vereist een factuur, een kopie-factuur, of een daarmee gelijk te stellen bescheid dat, na daartoe te zijn aangeboden, voor uitvoer uit de Unie is afgetekend door een daartoe bevoegde ambtenaar.   
 
@@ -848,7 +848,7 @@ b.het verrichten van een zodanige be- of verwerking met betrekking tot in een pl
 
 ### Hoofdstuk  XIV  
 
-####Overgangsbepalingen met betrekking tot gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, in het handelsverkeer met enkele Lid-Staten
+####Overgangsbepalingen met betrekking tot gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, in het handelsverkeer met enkele lidstaten
 
 ### Artikel  36d  
 
@@ -1485,8 +1485,8 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 ###Bijlage K 
 
-|* Goederenomschrijving * |* Post (of onderverdeling) van de gecombineerde nomenclatuur* |
-|---|---|
+|* Goederenomschrijving * |* Post (of onderverdeling) van de gecombineerde nomenclatuur*  |
+|:---|:---|
 | --- | --- |
 | Ongebrande koffie  | 0901 11 00  |
 | --- | 0901 12 00;  |
@@ -1496,7 +1496,8 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 | Cacaobonen, ook indien gebroken, al dan niet  | 1801;  |
 | gebrand  | --- |
 | Molybdeenerts en concentraten daarvan  | 2613;  |
-| Anorganische chemische produkten; anorganische  | 2801 t/m 2851;  |
+|Steenkool |2701; |
+| Anorganische chemische produkten; anorganische  | 2801 t/m 2851; |
 | of organische verbindingen van edele metalen,  | --- |
 | van radioactieve elementen, van zeldzame  | --- |
 | aardmetalen en van isotopen  | --- |

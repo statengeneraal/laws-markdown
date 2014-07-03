@@ -148,7 +148,7 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 ####Terugbetaling bij niet-gebruik
 
 1.  De verdragsluitende partijen voorzien in een terugbetaling van het gebruiksrecht wanneer de aanvraag tot terugbetaling is ingediend vóór het einde van de periode waarvoor het recht is voldaan.   
-2.  Het terug te betalen bedrag wordt berekend op basis van alleen het resterende aantal volledige maanden van het betalingstijdvak, en bestaat uit deelbedragen per maand ter hoogte van een twaalfde van het gebruiksrecht bedoeld in artikel 8, eerste lid. Voor de behandeling van het verzoek tot terugbetaling worden administratiekosten in rekening gebracht ad 25 euro.    
+2.  Voor de behandeling van het verzoek tot terugbetaling worden administratiekosten in rekening gebracht ad 25 euro.    
 3.  Verdragsluitende Partijen die alleen een jaarlijks gebruiksrecht heffen voor op hun grondgebied geregistreerde voertuigen, kunnen ten aanzien van deze voertuigen afzien van terugbetaling.   
 
 ### Artikel  11  

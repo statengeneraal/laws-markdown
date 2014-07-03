@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika om internationale belastingnaleving te verbeteren en FATCA te implementeren
+##Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA 
 
 ####Agreement between the Kingdom of the Netherlands and the United States of America to improve international tax compliance and to implement FATCA
 
@@ -819,4 +819,822 @@ The following categories of accounts and products established in the Netherlands
 1. An alimony annuity, as provided by Article 6.5 and Article 6.6 of the Income Tax Act 2001 (*Wet inkomstenbelasting 2001*);  
 
 2. Any funeral insurance policy with a premium of € 1,000 per year or less.   
+
+####Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Overwegende dathet Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, (hierna elk afzonderlijk te noemen „partij” en tezamen „partijen”) reeds lang nauwe betrekkingen onderhouden ten behoeve van de wederzijdse bijstand in belastingzaken van de Verenigde Staten en Nederland en een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht door voort te bouwen op deze betrekkingen; Overwegende dat [artikel 30 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md), gesloten te Washington op 18 december 1992, zoals gewijzigd in 1993 en 2004 (het „Verdrag ter voorkoming van dubbele belasting”) en het [Verdrag inzake wederzijdse administratieve bijstand in belastingzaken](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md), gedaan te Straatsburg op 25 januari 1988 (het „WABB-verdrag”) machtigen tot het uitwisselen van informatie voor belastingdoeleinden, daaronder begrepen op automatische basis (hierna wordt met de „Verdragen” verwezen naar het Verdrag ter voorkoming van dubbele belasting en het WABB-verdrag en eventuele wijzigingen daarvan die voor beide partijen van kracht zijn); Overwegende dat de Verenigde Staten van Amerika bepalingen hebben vastgesteld die algemeen bekend staan als de Foreign Account Tax Compliance Act (de „FATCA”), waarmee een rapportageregeling voor financiële instellingen ter zake van bepaalde rekeningen wordt ingevoerd; Overwegende dat de regering van Nederland voorstander is van de onderliggende beleidsdoelstelling van de FATCA: verbetering van de naleving van de belastingplicht; Overwegende dat de FATCA diverse discussiepunten heeft opgeroepen, waaronder de vraag of de Nederlandse financiële instellingen vanwege nationale juridische belemmeringen kunnen voldoen aan bepaalde aspecten van de FATCA; Overwegende dat de regering van de Verenigde Staten van Amerika informatie verzamelt over bepaalde rekeningen van inwoners van Nederland die worden beheerd door Amerikaanse financiële instellingen en zich verbindt deze informatie met de regering van Nederland uit te wisselen en streeft naar uitwisseling op gelijkwaardig niveau; Overwegende dat de regering van de Verenigde Staten en de regering van Nederland streven naar samenwerking op de langere termijn teneinde te komen tot gezamenlijke rapportage- en due diligence-normen voor financiële instellingen; Overwegende dat de regering van de Verenigde Staten van Amerika onderkent dat de rapportageverplichtingen uit hoofde van de FATCA dienen te worden afgestemd op andere fiscale rapportageverplichtingen van Nederlandse financiële instellingen jegens de Verenigde Staten teneinde dubbele rapportage te voorkomen; Overwegende dat een intergouvernementele aanpak van de implementatie van de FATCA juridische belemmeringen zou kunnen wegnemen en de administratieve lasten voor de Nederlandse financiële instellingen zou kunnen verminderen; Overwegende dat de regeringen van de partijen een verdrag wensen te sluiten ter verbetering van de internationale naleving van de belastingplicht en voorzieningen te treffen voor de implementatie van de FATCA op basis van nationale rapportage en wederzijdse automatische uitwisseling uit hoofde van de Verdragen en met inachtneming van de vertrouwelijkheid en andere daarin voorziene beschermingsmechanismen, met inbegrip van bepalingen ter beperking van het gebruik van de uit hoofde van de Verdragen uitgewisselde informatie;   Zijn de partijen thans het volgende overeengekomen:    
+
+### Artikel  1  
+
+####Begripsomschrijvingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. Voor de toepassing van dit Verdrag en de bijlagen daarbij („Verdrag”), hebben de onderstaande uitdrukkingen de volgende betekenis:
+
+a. Onder de uitdrukking „Verenigde Staten” wordt verstaan de Verenigde Staten van Amerika, met inbegrip van de staten daarvan, maar uitgezonderd de Amerikaanse territoria. Onder de uitdrukking „een staat” van de Verenigde Staten wordt mede verstaan het District of Columbia. 
+
+b.Onder de uitdrukking „Amerikaanse territoria” wordt verstaan Amerikaans-Samoa, het Gemenebest der Noordelijke Marianen, Guam, het Gemenebest Porto Rico, en de Amerikaanse Maagdeneilanden. 
+
+c.Onder de uitdrukking „IRS” wordt verstaan de Amerikaanse federale belastingdienst (U.S. Internal Revenue Service). 
+
+d.Onder de uitdrukking „Nederland” wordt verstaan het Koninkrijk der Nederlanden, met inbegrip van de eilanden Bonaire, Sint Eustatius en Saba, en uitgezonderd Aruba, Curaçao en Sint Maarten. 
+
+e.Onder de uitdrukking „partnerstaat” wordt verstaan een staat die een geldende overeenkomst heeft met de Verenigde Staten ter bevordering van de tenuitvoerlegging van de FATCA. De IRS publiceert een lijst van alle partnerstaten. 
+
+f.Onder de uitdrukking „bevoegde autoriteit” wordt verstaan: 
+
+1.wat de Verenigde Staten betreft, de *Secretary of the Treasury* of diens gevolmachtigde; en
+
+2.wat Nederland betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger. 
+
+g.Onder de uitdrukking „financiële instelling” wordt verstaan een bewaarinstelling, een instelling die deposito’s neemt, een beleggingsentiteit of een omschreven verzekeringsmaatschappij. 
+
+h.Onder de uitdrukking „bewaarinstelling” wordt verstaan een instelling die voor rekening van derden financiële instrumenten in bewaring houdt als een wezenlijk deel van de bedrijfsactiviteiten. Een instelling houdt financiële instrumenten voor rekening van derden als wezenlijk deel van haar bedrijfsactiviteiten, wanneer haar bruto-inkomsten die verband houden met het houden van financiële instrumenten en het verlenen van de bijbehorende financiële diensten gelijk is aan of groter dan 20 percent van de bruto-inkomsten gedurende: i. de periode van drie jaar die eindigt op 31 december (of de laatste dag van het boekjaar indien dat niet gelijk loopt met het kalenderjaar) voorafgaand aan het jaar waarin de vaststelling geschiedt; of ii. de bestaansperiode van de instelling, indien deze korter is. 
+
+i.Onder de uitdrukking „een instelling die deposito’s neemt” wordt verstaan een instelling die opvorderbare gelden verkrijgt in het kader van de normale uitoefening van het bedrijf van bank of een daarmee vergelijkbaar bedrijf. 
+
+j.Onder de uitdrukking „beleggingsentiteit” wordt verstaan een entiteit (of een instelling die wordt beheerd door een dergelijke entiteit) met als bedrijfsactiviteit het voor of namens een cliënt uitvoeren van een of meer van de volgende activiteiten of transacties: 
+
+1.handel in instrumenten van de geldmarkt (cheques, wissels, depositobewijzen, derivaten, etc.), vreemde valuta’s, wisselkoersen, rentepercentage- en indexinstrumenten, overdraagbare effecten; of *commodity futures trading*;
+
+2.beheren van een individueel vermogen en collectief portefeuillebeheer; of
+
+3.andere vormen van het beleggen, administreren of beheren van fondsen of geld ten behoeve van derden. Het eerste lid, onderdeel j, wordt uitgelegd op een wijze die verenigbaar is met vergelijkbare bewoordingen vervat in de omschrijving van „financiële instelling” in de aanbevelingen van de *Financial Action Task Force*. 
+
+k.Onder de uitdrukking „omschreven verzekeringsmaatschappij” wordt verstaan een entiteit die een verzekeringsmaatschappij is (of de houdstermaatschappij van een verzekeringsmaatschappij) die een kapitaalverzekering of lijfrenteverzekering aanbiedt of verplicht is tot het betalen van uitkeringen uit hoofde van een kapitaalverzekering of lijfrenteverzekering. 
+
+l.Onder de uitdrukking „Nederlandse financiële instelling” wordt verstaan i. elke financiële instelling die inwoner is van Nederland, maar uitgezonderd elk filiaal van een dergelijke financiële instelling dat zich buiten Nederland bevindt, en ii. elk filiaal van een financiële instelling die geen inwoner is van Nederland, indien dat filiaal zich in Nederland bevindt. 
+
+m.Onder de uitdrukking „financiële instelling in een partnerstaat” wordt verstaan i. elke financiële instelling die inwoner is van een partnerstaat, maar uitgezonderd een filiaal van een dergelijke financiële instelling dat zich buiten de partnerstaat bevindt en ii. elk filiaal van een financiële instelling die geen inwoner is van de partnerstaat, indien dit filiaal zich bevindt in de partnerstaat. 
+
+n.Onder de uitdrukking „rapporterende financiële instelling” wordt verstaan een rapporterende Nederlandse financiële instelling of een rapporterende Amerikaanse financiële instelling, al naargelang de context vereist. 
+
+o.Onder de uitdrukking „rapporterende Nederlandse financiële instelling” wordt verstaan elke Nederlandse financiële instelling die geen niet-rapporterende Nederlandse financiële instelling is. 
+
+p.Onder de uitdrukking „rapporterende Amerikaanse financiële instelling” wordt verstaan i. elke financiële instelling die inwoner is van de Verenigde Staten, maar uitgezonderd een filiaal van een dergelijke financiële instelling dat zich buiten de Verenigde Staten bevindt en ii. elk filiaal van een financiële instelling die geen inwoner van de Verenigde Staten is, indien dat filiaal zich bevindt in de Verenigde Staten, mits de financiële instelling of het filiaal zeggenschap heeft over, de ontvanger is van, of het beheer voert over inkomsten ter zake waarvan informatie dient te worden uitgewisseld uit hoofde van artikel 2, tweede lid, onderdeel b, van dit Verdrag. 
+
+q.Onder de uitdrukking „niet-rapporterende Nederlandse financiële instelling” wordt verstaan elke Nederlandse financiële instelling of andere entiteit die inwoner is van Nederland en die in Bijlage II wordt omschreven als een niet-rapporterende Nederlandse financiële instelling of anderszins gekwalificeerd wordt als een FATCA-conform geachte buitenlandse financiële instelling of die ingevolge de relevante voorschriften van het Amerikaanse ministerie van Financiën als begunstigde is vrijgesteld. 
+
+r.Onder de uitdrukking „niet-participerende financiële instelling” wordt verstaan elke niet-participerende buitenlandse financiële instelling zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën, maar uitgezonderd een Nederlandse financiële instelling of een financiële instelling in een andere partnerstaat niet zijnde een financiële instelling die ingevolge artikel 5, tweede lid, onderdeel b, van dit Verdrag of de dienovereenkomstige bepaling in een verdrag tussen de Verenigde Staten en een partnerstaat wordt behandeld als niet-participerende financiële instelling. 
+
+s.Onder de uitdrukking „financiële rekening” wordt verstaan een rekening gehouden door een financiële instelling en omvat: 
+
+1.in het geval van een entiteit die uitsluitend een financiële instelling is omdat zij een beleggingsentiteit is, alle aandelen of schuldvorderingen (niet zijnde effecten die regelmatig verhandeld worden op een erkend handelsplatform) in die financiële instelling;
+
+2.In het geval van een financiële instelling die niet omschreven wordt in het eerste lid, onderdeel s, onder 1, van dit artikel, alle aandelen of schuldvorderingen in de financiële instelling (niet zijnde effecten die regelmatig verhandeld worden op erkende handelsplatformen), indien i. de waarde van de aandelen of schuldvorderingen middellijk of onmiddellijk primair bepaald wordt door de waarde van de vermogensbestanddelen die betalingen afkomstig uit de VS waarop inhouding van toepassing is, genereren en ii. de effecten werden uitgegeven teneinde de rapportageverplichting op grond van dit Verdrag te vermijden; en
+
+3.Elke kapitaalverzekering en elke lijfrenteverzekering aangeboden of beheerd door een financiële instelling, anders dan niet aan beleggingen gekoppelde, niet-overdraagbare direct ingaande lijfrenten die worden verstrekt aan natuurlijke personen en dienen voor het te gelde maken van een pensioen- of arbeidsongeschiktheidsuitkering uit hoofde van rekeningen, producten of regelingen die worden uitgezonderd van de omschrijving van financiële rekeningen in Bijlage II. Onverminderd het voorgaande omvat de uitdrukking „financiële rekening” geen rekeningen, producten of regelingen die worden uitgezonderd van de omschrijving van financiële rekening in Bijlage II. Voor de toepassing van dit Verdrag worden effecten „regelmatig verhandeld” wanneer er voortdurend een betekenisvol volume van wordt verhandeld en wordt verstaan onder een „erkend handelsplatform” een handelsplatform dat officieel erkend wordt door en onder toezicht staat van een overheidsinstantie van een staat waar het handelsplatform zich bevindt en waar jaarlijks een betekenisvolle waarde aan effecten wordt verhandeld. Voor de toepassing van het eerste lid, onderdeel s, worden effecten gehouden in een financiële instelling niet „regelmatig verhandeld” en behandeld als financiële rekening, indien de houder van de effecten (niet zijnde een financiële instelling die optreedt als tussenpersoon) geregistreerd wordt in de boeken van een dergelijke financiële instelling. De voorgaande volzin is niet van toepassing op effecten die vóór 1 juli 2014 geregistreerd zijn in de boeken van een dergelijke financiële instelling; ter zake van effecten die op of na 1 juli 2014 geregistreerd zijn in de boeken van een dergelijke financiële instelling, is een dergelijke financiële instelling niet verplicht de voorgaande volzin toe te passen vóór 1 januari 2016.
+
+t.De uitdrukking „depositorekening” omvat elke bedrijfsrekening, betaalrekening, spaarrekening, termijnrekening of spaarrekening bij een spaar- of nutsbank of een rekening waarvan een depositobewijs, een stortingsbewijs, een beleggingscertificaat of een schuldbewijs wordt overgelegd of een ander daarmee vergelijkbaar instrument aangehouden door een financiële instelling in het kader van de uitoefening van een bedrijf van bank of een daarmee vergelijkbaar bedrijf. Onder depositorekening wordt voorts verstaan een bedrag aangehouden door een verzekeringsmaatschappij uit hoofde van een contract dat terugbetaling van de hoofdsom garandeert of een vergelijkbare overeenkomst voor het betalen of ontvangen van interest over dat bedrag. 
+
+u.Onder de uitdrukking „beleggingsrekening” wordt verstaan een rekening (anders dan een verzekeringsovereenkomst of lijfrenteverzekering) ten gunste van een derde die een financieel instrument houdt of een overeenkomst inzake rechten van deelneming (met inbegrip van maar niet beperkt tot aandelen of belangen in een onderneming, waardepapier, obligatie, schuldpapier of ander schuldbewijs, een valutatransactie of *commodity transaction*, een *credit default swap*, een *swap* op basis van een niet-financiële index, een *notional principal contract*, een verzekeringsovereenkomst of lijfrenteverzekering en elke optie of ander derivaat). 
+
+v.Onder de uitdrukking „aandelenbelang” wordt in het geval van een samenwerkingsverband dat een financiële instelling is, een kapitaalbelang of een winstaandeel in het samenwerkingsverband verstaan. In het geval van een trust die een financiële instelling is, wordt een aandelenbelang geacht te worden aangehouden door degene die optreedt als *settlor* of begunstigde van de volledige trust of een deel ervan of door een derde natuurlijke persoon die uiteindelijk de feitelijke zeggenschap uitoefent over de trust. Een omschreven Amerikaanse persoon wordt behandeld als begunstigde van een buitenlandse trust indien deze omschreven Amerikaanse persoon gerechtigd is middellijk of onmiddellijk (bijvoorbeeld via een gevolmachtigde) een verplichte uitdeling te ontvangen of middellijk of onmiddellijk een discretionaire uitdeling kan ontvangen uit de trust. 
+
+w.Onder de uitdrukking „verzekeringsovereenkomst” wordt verstaan een overeenkomst (anders dan een lijfrenteverzekering) uit hoofde waarvan de uitgevende instantie zich verplicht een bedrag uit te keren indien zich een omschreven gebeurtenis voordoet aangaande overlijden, ziekte, ongeval, aansprakelijkheid of vermogensrisico’s. 
+
+x.Onder de uitdrukking „lijfrenteverzekering” wordt verstaan een overeenkomst uit hoofde waarvan de uitgevende instantie zich verplicht uitkeringen te verstrekken gedurende een tijdvak dat geheel of gedeeltelijk wordt vastgesteld op basis van de levensverwachting van een of meer natuurlijke personen. De uitdrukking omvat voorts overeenkomsten die in overeenstemming met de wet- of regelgeving of in de praktijk in de staat waar de overeenkomst werd gesloten worden aangemerkt als lijfrenteverzekering en uit hoofde waarvan de uitgevende instantie zich verplicht gedurende een termijn van jaren uitkeringen te verstrekken. 
+
+y.Onder de uitdrukking „kapitaalverzekering” wordt verstaan een verzekeringsovereenkomst (anders dan een herverzekeringsovereenkomst voor aansprakelijkheid tussen twee verzekeringsmaatschappijen) met een geldswaarde van ten minste $ 50.000. 
+
+z.Onder de uitdrukking „geldswaarde” wordt verstaan i. het bedrag waarop de houder van de polis aanspraak kan maken bij afkoop of beëindiging van de overeenkomst (vastgesteld zonder aftrek van een annuleringsvergoeding of polisbelening) en ii. het bedrag dat de polishouder kan lenen uit hoofde van of ter zake van de overeenkomst, indien dat groter is dan het eerste bedrag. Onverminderd het voorgaande wordt onder de uitdrukking „geldswaarde” niet verstaan het bedrag dat verschuldigd is uit hoofde van een verzekeringspolis bij wijze van: 
+
+1.invaliditeits-, ongevals- of ziekte-uitkering of een andere uitkering wegens economische verliezen door het optreden van de verzekerde gebeurtenis;
+
+2.teruggave aan de polishouder van een eerder betaalde premie uit hoofde van een verzekeringspolis (anders dan een levensverzekeringspolis) vanwege opzegging of beëindiging van een polis, afname van het risico gedurende de looptijd van de verzekeringspolis, of voortvloeiend uit de vaststelling van een nieuwe premie als correctie na de publicatie van onjuiste premies of soortgelijke fouten; of
+
+3.resultaatdeling voor polishouders op grond van de technische resultaten van de overeenkomst of de betrokken groep. 
+
+aa.Onder de uitdrukking „te rapporteren rekening” wordt verstaan een Amerikaanse of Nederlandse rekening, al naargelang de context vereist, waarvoor de rapportageplicht geldt. 
+
+bb.Onder de uitdrukking „Nederlandse te rapporteren rekening” wordt verstaan een financiële rekening beheerd door een rapporterende Amerikaanse financiële instelling indien: i. in het geval van een depositorekening, de rekening wordt aangehouden door een natuurlijke persoon die inwoner is van Nederland en in een willekeurig kalenderjaar meer dan $ 10 aan rente wordt gestort op die rekening; of ii. in het geval van een financiële rekening niet zijnde een depositorekening, de rekeninghouder inwoner is van Nederland, met inbegrip van entiteiten die verklaren fiscaal inwoner te zijn van Nederland, ter zake waarvan inkomsten afkomstig uit de VS worden betaald of bijgeschreven waarvoor de rapportageverplichting geldt uit hoofde van onderdeel A, hoofdstuk 3 of onderdeel F, hoofdstuk 61 van de U.S. Internal Revenue Code. 
+
+cc.Onder de uitdrukking „Amerikaanse te rapporteren rekening” wordt verstaan een financiële rekening beheerd door een rapporterende Nederlandse financiële instelling en aangehouden door een of meer omschreven Amerikaanse personen of door een niet-Amerikaanse entiteit met een of meer uiteindelijk belanghebbenden die tevens omschreven Amerikaanse persoon zijn. Onverminderd het voorgaande wordt een rekening niet behandeld als een Amerikaanse te rapporteren rekening indien deze na toepassing van de due diligence-procedures in Bijlage I niet wordt aangemerkt als een Amerikaanse te rapporteren rekening. 
+
+dd.Onder de uitdrukking „rekeninghouder” wordt verstaan de persoon die door de financiële instelling die de rekening beheert is geregistreerd of wordt geïdentificeerd als de houder van een financiële rekening. Een persoon, niet zijnde een financiële instelling die als agent, bewaarder, gevolmachtigde, ondertekenaar, beleggingsadviseur of tussenpersoon een financiële rekening houdt namens of voor rekening van een derde, wordt voor de toepassing van dit Verdrag niet aangemerkt als de houder van de rekening; de derde wordt aangemerkt als de houder van de rekening. Voor de toepassing van de voorgaande volzin wordt onder de uitdrukking „financiële instelling” niet verstaan een financiële instelling gevestigd of opgericht in een van de Amerikaanse territoria. In het geval van een kapitaalverzekering of een lijfrenteverzekering wordt als rekeninghouder aangemerkt de persoon die gerechtigd is tot de geldswaarde of tot wijziging van de begunstigde van de polis. Indien niemand gerechtigd is tot de geldswaarde of de begunstiging kan wijzigen, is de houder van de polis de persoon die in de polis genoemd wordt als eigenaar alsmede personen met een verworven recht op uitkering krachtens de polisvoorwaarden. Aan het eind van de looptijd van een kapitaalverzekering of lijfrenteverzekering wordt elke persoon die recht heeft op een uitkering volgens de polis aangemerkt als rekeninghouder. 
+
+ee.Onder de uitdrukking „Amerikaanse persoon” wordt verstaan een Amerikaanse staatsburger of natuurlijke persoon die inwoner is van de Verenigde Staten, een samenwerkingsverband of onderneming gevestigd in of opgericht naar het recht van de Verenigde Staten of een staat daarvan, een trust indien i. een rechter in de Verenigde Staten bevoegd zou zijn volgens de van toepassing zijnde wet tot bevelen of uitspraken over nagenoeg alle kwesties omtrent het beheer van de trust, en ii. een of meer Amerikaanse personen bevoegd zijn tot alle wezenlijke beslissingen omtrent de trust, of de nalatenschap van een erflater die onderdaan of inwoner was van de Verenigde Staten. Dit eerste lid, onder ee, wordt uitgelegd in overeenstemming met de U.S. Internal Revenue Code. 
+
+ff.Onder de uitdrukking „omschreven Amerikaanse persoon” wordt verstaan een Amerikaanse persoon niet zijnde: i. een onderneming waarvan de aandelen regelmatig worden verhandeld op een of meer erkende effectenbeurzen; ii. een onderneming die deel uitmaakt van dezelfde uitgebreide groep van verbonden ondernemingen, omschreven in artikel 1471(e)(2) van de U.S. Internal Revenue Code, als een onderneming omschreven onder i van dit lid; iii. de Verenigde Staten of een volledig daartoe behorend agentschap of instantie; iv. een Amerikaanse staat of een van de Amerikaanse territoria, een staatkundig onderdeel, agentschap of instantie daarvan dat of die volledig tot een van de voorgaande behoort; v. een organisatie die is vrijgesteld van belasting krachtens artikel 501(a) van de U.S. Internal Revenue Code of een individuele pensioenregeling zoals omschreven in artikel 7701(a)(37) van de U.S. Internal Revenue Code; vi. een bank zoals omschreven in artikel 581 van de U.S. Internal Revenue Code; vii. een beleggingstrust voor onroerende zaken zoals omschreven in artikel 856 van de U.S. Internal Revenue Code; viii. een gereguleerde beleggingsonderneming zoals omschreven in artikel 851 van de U.S. Internal Revenue Code of een entiteit geregistreerd bij de *U.S. Securities and Exchange Commission* uit hoofde van de* Investment Company Act* van 1940 (15 U.S.C. 80a-64); ix. een gezamenlijk trustfonds (*common trust fund*) zoals omschreven in artikel 584(a) van de U.S. Internal Revenue Code; x. een trust die is vrijgesteld van belasting krachtens artikel 664(c) van de U.S. Internal Revenue Code of die wordt omschreven in artikel 4947(a)(1) van de U.S. Internal Revenue Code; xi. een handelaar in effecten, *commodities*, of financiële derivaten (met inbegrip van *notional principal contracts*, futures, forwards en opties) die als zodanig is geregistreerd krachtens de wetgeving van de Verenigde Staten of een staat daarvan; xii. een broker zoals omschreven in artikel 6045(c) van de U.S. Internal Revenue Code, of xiii. een trust die is vrijgesteld van belasting krachtens een regeling omschreven in artikel 403(b) of artikel 457(g) van de U.S. Internal Revenue Code. 
+
+gg.Onder de uitdrukking „entiteit” wordt verstaan een rechtspersoon of een juridische overeenkomst, zoals een trust. 
+
+hh.Onder de uitdrukking „niet-Amerikaanse entiteit” wordt verstaan een entiteit die geen Amerikaanse persoon is. 
+
+ii.Onder de uitdrukking „betaling afkomstig uit de VS waarop inhouding van toepassing is” wordt verstaan elke betaling van interest (met inbegrip van kortingen bij de oorspronkelijke uitgifte), dividenden, huur, salarissen, lonen, premies, lijfrenten, vergoedingen, beloningen, emolumenten en andere vaste of bepaalbare jaarlijkse of periodieke winsten, voordelen en inkomsten, indien de betaling afkomstig is uit de VS Onverminderd het voorgaande omvat een betaling afkomstig uit de VS waarop inhouding van toepassing is geen betalingen die niet als zodanig worden aangemerkt in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën. 
+
+jj.Een entiteit is een „gelieerde entiteit” van een andere entiteit indien een van de entiteiten de andere beheerst of indien beide entiteiten dezelfde aandeelhouder hebben. Daartoe wordt onder aandeelhouder mede verstaan de directe of indirecte eigendom van meer dan 50 percent van het aantal stemmen of het vermogen in een entiteit. Onverminderd het voorgaande mag Nederland een entiteit als een niet-gelieerde entiteit van een andere entiteit behandelen indien de twee entiteiten niet behoren tot dezelfde uitgebreide groep van verbonden ondernemingen zoals omschreven in artikel 1471(e)(2) van de U.S. Internal Revenue Code. 
+
+kk.Onder de uitdrukking „U.S. TIN” wordt verstaan het identificatienummer van individuele belastingplichtigen voor de Amerikaanse federale belastingen. 
+
+ll.Onder de uitdrukking „Nederlandse TIN” wordt verstaan het door Nederland aan belastingplichtigen toegekende identificatienummer. 
+
+mm.Onder de uitdrukking „uiteindelijk belanghebbenden” worden de natuurlijke personen verstaan die zeggenschap uitoefenen over een entiteit. In het geval van trusts wordt hieronder verstaan de *settlor*, de trustees, de eventuele *protector*, de begunstigden of categorie begunstigden en eventuele andere natuurlijke personen die de feitelijke zeggenschap uitoefenen over de trust en in het geval van andere juridische overeenkomsten dan een trust wordt hieronder verstaan personen in dezelfde of een vergelijkbare positie. De uitdrukking „uiteindelijke belanghebbenden” wordt uitgelegd op een wijze die verenigbaar is met de aanbevelingen van de *Financial Action Task Force*. 
+2. Een uitdrukking die niet wordt omschreven in dit Verdrag, heeft, tenzij de context anders vereist, of indien de bevoegde autoriteiten (in overeenstemming met hun nationale wetgeving) gezamenlijk een betekenis overeenkomen, de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van de partij die dit Verdrag toepast, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven. 
+
+### Artikel  2  
+
+####Verplichtingen tot het verkrijgen en uitwisselen van informatie ten aanzien van te rapporteren rekeningen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd de bepalingen van artikel 3 van dit Verdrag verkrijgt elke partij de informatie omschreven in het tweede lid van dit artikel ter zake van alle te rapporteren rekeningen en wisselt zij deze informatie overeenkomstig beide of één van beide Verdragen jaarlijks automatisch uit met de andere partij. 
+2. De volgende informatie dient te worden verkregen en uitgewisseld: 
+
+a.In het geval van Nederland ter zake van elke Amerikaanse te rapporteren rekening bij elke rapporterende Nederlandse financiële instelling:
+
+1.naam, adres en U.S. TIN van elke omschreven Amerikaanse persoon die houder is van een dergelijke rekening en, in het geval van een niet-Amerikaanse entiteit waarvan na toepassing van de due diligence-procedures vervat in Bijlage I wordt vastgesteld dat er een of meer uiteindelijke belanghebbenden zijn die een omschreven Amerikaanse persoon zijn, naam, adres en de eventuele Amerikaanse TIN van elke desbetreffende entiteit en elke omschreven Amerikaanse persoon;
+
+2.rekeningnummer (of het functionele equivalent daarvan bij het ontbreken van een rekeningnummer);
+
+3.naam en identificatienummer van de rapporterende Nederlandse financiële instelling;
+
+4.saldo van de rekening of waarde (in het geval van een kapitaalverzekering of lijfrenteverzekering met inbegrip van de geldswaarde of waarde bij afkoop) aan het eind van het desbetreffende kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden, of indien de rekening tijdens dat jaar werd opgeheven, het saldo of de waarde onmiddellijk vóór de opheffing;
+
+5.ter zake van een beleggingsrekening:
+
+A.het totale brutobedrag aan rente, het totale brutobedrag aan dividenden en het totale brutobedrag aan overige inkomsten gegenereerd met het vermogen op de rekening, voor elk totale brutobedrag gestort of bijgeschreven op de rekening (of ter zake van de rekening) gedurende het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden; en
+
+B.de totale bruto-opbrengsten van de verkoop, terugbetaling of afkoop van vermogensbestanddelen gestort of bijgeschreven op de rekening gedurende het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden ter zake waarvan de rapporterende Nederlandse financiële instelling voor de rekeninghouder optrad als bewaarder, broker, gevolmachtigde of anderszins als agent;
+
+6.ter zake van een depositorekening, het totale brutobedrag aan rente gestort of bijgeschreven op de rekening gedurende het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden; en
+
+7. ter zake van een rekening niet omschreven in het tweede lid, onderdeel a, onder 5 of onderdeel a, onder 6, van dit artikel, het totale brutobedrag betaald of bijgeschreven op de rekening van de rekeninghouder gedurende het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden ter zake waarvan de rapporterende Nederlandse financiële instelling een betalingsverplichting heeft of debiteur is, met inbegrip van het totaalbedrag aan afbetalingen aan de rekeninghouder gedurende het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden.
+
+b.In het geval van de Verenigde Staten ter zake van elke Nederlandse te rapporteren rekening bij elke rapporterende Amerikaanse financiële instelling:
+
+1.naam, adres en Nederlandse TIN van elke persoon die inwoner is van Nederland en de rekeninghouder is van de rekening;
+
+2.rekeningnummer (of het functionele equivalent daarvan bij het ontbreken van een rekeningnummer);
+
+3.naam en identificatienummer van de rapporterende Amerikaanse financiële instelling;
+
+4.het brutobedrag aan rente betaald op een depositorekening;
+
+5.het brutobedrag aan dividenden afkomstig uit de VS gestort of bijgeschreven op de rekening; en
+
+6.het brutobedrag van andere inkomsten afkomstig uit de VS gestort of bijgeschreven op de rekening, voor zover dit valt onder de rapportageverplichting van onderdeel A, hoofdstuk 3, of onderdeel F, hoofdstuk 61, van de U.S. Internal Revenue Code.  
+
+### Artikel  3  
+
+####Tijdstip en wijze van informatie-uitwisseling
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. Ten behoeve van de verplichting tot informatie-uitwisseling in artikel 2 van dit Verdrag kunnen het bedrag en de aard van betalingen verricht ter zake van een Amerikaanse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Nederlandse belastingwetgeving, en kunnen het bedrag en de aard van betalingen verricht ter zake van een Nederlandse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Amerikaanse federale inkomstenbelastingwetgeving.
+2. Ten behoeve van de verplichting tot informatie-uitwisseling in artikel 2 van dit Verdrag dient in de uitgewisselde informatie de valuta te worden vermeld van elk relevant bedrag.
+3. In het kader van artikel 2, tweede lid, van dit Verdrag dient informatie te worden verkregen en uitgewisseld ter zake van 2014 en alle volgende jaren, met dien verstande dat:
+
+a.in het geval van Nederland:
+
+1.de informatie die ter zake van 2014 dient te worden verkregen en uitgewisseld uitsluitend is de informatie omschreven in artikel 2, tweede lid, onderdeel a, onder 1, tot en met onderdeel a, onder 4, van dit Verdrag;
+
+2.de informatie die ter zake van 2015 dient te worden verkregen en uitgewisseld is de informatie omschreven in artikel 2, tweede lid, onderdeel a, onder 1, tot en met onderdeel a, onder 7, van dit Verdrag, met uitzondering van de bruto-opbrengsten omschreven in artikel 2, onderdeel a, onder 5B, van dit Verdrag; en
+
+3.de informatie die ter zake van 2016 en volgende jaren dient te worden verkregen en uitgewisseld is de informatie omschreven in artikel 2, tweede lid, onderdeel a, onder 1, tot en met onderdeel a, onder 7 van dit Verdrag;
+
+b.in het geval van de Verenigde Staten is de informatie die ter zake van 2014 en volgende jaren dient te worden verkregen en uitgewisseld alle informatie omschreven in artikel 2, tweede lid, onderdeel b, van dit Verdrag.
+4. Onverminderd het derde lid van dit artikel zijn de partijen ter zake van elke te rapporteren rekening die op 30 juni 2014 wordt beheerd door een rapporterende financiële instelling en met inachtneming van artikel 6, vierde lid, van dit Verdrag niet verplicht de Nederlandse dan wel de U.S. TIN, naargelang hetgeen van toepassing is, van een relevante persoon te verkrijgen en op te nemen in de uit te wisselen informatie, indien het identificatienummer van de desbetreffende belastingplichtige zich niet in het dossier van de rapporterende financiële instelling bevindt. In dat geval verkrijgen de partijen de geboortedatum van de desbetreffende persoon en nemen die op in de uit te wisselen informatie, indien deze zich in het dossier van de rapporterende financiële instelling bevindt.
+5. Onverminderd het derde en vierde lid van dit artikel dient de informatie omschreven in artikel 2 van dit Verdrag te worden uitgewisseld binnen negen maanden na het eind van het kalenderjaar waarop de informatie betrekking heeft.
+6. De bevoegde autoriteiten van Nederland en de Verenigde Staten treffen een regeling uit hoofde van de procedures voor onderling overleg voorzien in [artikel 29 van het verdrag ter voorkoming van dubbele belasting](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md) en [artikel 24 van het WABB-verdrag](../../../../../../../../../../../../../../../verdrag/convention/on/mutual/administrative/assistance/in/tax/matters/BWBV0005131/README.md) waarin:
+
+a.de procedures ten behoeve van de verplichtingen omtrent de automatische uitwisseling omschreven in artikel 2 van dit Verdrag zijn vastgelegd;
+
+b.de regels en procedures worden voorgeschreven die nodig kunnen zijn voor de implementatie van artikel 5 van dit Verdrag; en
+
+c.de nodige procedures worden vastgesteld voor de uitwisseling van de informatie die wordt gerapporteerd ingevolge artikel 4, eerste lid, onderdeel b, van dit Verdrag;
+
+d.voor gevallen waarop mogelijk beide Verdragen van toepassing zijn, aangegeven wordt volgens welk verdrag de uitwisseling geschiedt.
+7. Voor alle informatie die uit hoofde van dit Verdrag wordt uitgewisseld gelden de vertrouwelijkheid en andere beschermingsmechanismen voorzien in de Verdragen, met inbegrip van bepalingen ter beperking van het gebruik van de uitgewisselde informatie. 
+
+### Artikel  4  
+
+####Toepassing van de FATCA op Nederlandse financiële instellingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. *Behandeling van rapporterende Nederlandse financiële instellingen.* Elke rapporterende Nederlandse financiële instelling wordt behandeld als een instelling die voldoet aan en niet onderworpen is aan de inhoudingsplicht van artikel 1471 van de U.S. Internal Revenue Code, mits Nederland ter zake van deze rapporterende Nederlandse financiële instelling voldoet aan zijn verplichtingen uit hoofde van de artikelen 2 en 3 van dit Verdrag en de rapporterende Nederlandse financiële instelling: 
+
+a.Amerikaanse te rapporteren rekeningen identificeert en jaarlijks de in artikel 2, tweede lid, onderdeel a, van dit Verdrag te rapporteren informatie doorgeeft aan de Nederlandse bevoegde autoriteit op het tijdstip en de wijze omschreven in artikel 3 van dit Verdrag;
+
+b.voor zowel 2015 als 2016 jaarlijks de naam van elke niet-participerende financiële instelling waaraan zij betalingen heeft verricht alsmede het totaalbedrag daarvan rapporteert aan de Nederlandse bevoegde autoriteit;
+
+c.voldoet aan de van toepassing zijnde registratievereisten op de website van de IRS voor de FATCA-registratie;
+
+d.voor zover een rapporterende Nederlandse financiële instelling i. optreedt als een qualified intermediary (voor de toepassing van artikel 1441 van de U.S. Internal Revenue Code) die besloten heeft de primaire inhoudingsplicht ingevolge hoofdstuk 3 van deel A van de U.S. Internal Revenue Code te aanvaarden, ii. een buitenlands samenwerkingsverband is dat besloten heeft op te treden als buitenlands inhoudingsplichtig samenwerkingsverband (voor de toepassing van de artikelen 1441 en 1471 van de U.S. Internal Revenue Code), of iii. een buitenlandse trust is die besloten heeft op te treden als een inhoudingsplichtige buitenlandse trust (voor de toepassing van de artikelen 1441 en 1471 van de U.S. Internal Revenue Code), 30 percent inhoudt van elke betaling aan een niet-participerende financiële instelling afkomstig uit de VS waarop inhouding van toepassing is; en
+
+e.in het geval van een rapporterende Nederlandse financiële instelling die niet omschreven wordt in het eerste lid, onderdeel d, van dit artikel en die een betaling verricht of optreedt als tussenpersoon ter zake van betalingen afkomstig uit de VS waarop inhouding van toepassing is aan een niet-participerende financiële instelling, verschaft de rapporterende Nederlandse financiële instelling de rechtstreekse betaler van deze betaling de informatie die vereist is voor de inhouding en de rapportage die ter zake van deze betaling dienen te geschieden.Onverminderd het voorgaande is op een rapporterende Nederlandse financiële instelling ter zake waarvan niet voldaan is aan de voorwaarden van dit lid niet de inhoudingsplicht ingevolge artikel 1471 van de U.S. Internal Revenue Code van toepassing, tenzij deze rapporterende Nederlandse financiële instelling ingevolge artikel 5, tweede lid, onderdeel b, van dit Verdrag door de IRS behandeld wordt als een niet-participerende financiële instelling.
+2. *Opschorting van regels voor onwillige rekeninghouders.* De Verenigde Staten verlangen niet van rapporterende Nederlandse financiële instellingen dat zij belasting inhouden uit hoofde van artikel 1471 of 1472 van de U.S. Internal Revenue Code ter zake van rekeningen van onwillige rekeninghouders (zoals omschreven in artikel 1471(d)(6) van de U.S. Internal Revenue Code), of dergelijke rekeningen opheffen, indien de Amerikaanse bevoegde Autoriteit met betrekking tot dergelijke rekeningen de informatie ontvangt die bedoeld is in artikel 2, tweede lid, onderdeel a, van dit Verdrag, overeenkomstig de bepalingen van artikel 3 van dit Verdrag.
+3. *Bijzondere behandeling van Nederlandse pensioenregelingen.* Voor de toepassing van de artikelen 1471 en 1472 van de U.S. Internal Revenue Code behandelen de Verenigde Staten de Nederlandse pensioenregelingen omschreven in Bijlage II naar gelang van het geval als FATCA-conform geachte buitenlandse financiële instellingen of als vrijgestelde begunstigden. Daartoe wordt onder een Nederlandse pensioenregeling mede verstaan een entiteit die is opgericht of zich bevindt in en valt onder de regelgeving van Nederland, of een vooraf aangewezen contractuele of wettelijke regeling die wordt aangewend voor het verstrekken van pensioenuitkeringen of het verwerven van inkomsten voor het verstrekken van dergelijke uitkeringen ingevolge de Nederlandse wetgeving en die regels bevat inzake bijdragen, uitdelingen, verslaglegging, *sponsorship* en belastingheffing.
+4. *Identificatie en behandeling van andere FATCA-conform geachte buitenlandse financiële instellingen en vrijgestelde begunstigden.* De Verenigde Staten behandelen elke niet-rapporterende Nederlandse financiële instelling als een FATCA-conform geachte buitenlandse financiële instelling of als een vrijgestelde begunstigde, naargelang van het geval, voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code.
+5. *Bijzondere regels omtrent gelieerde entiteiten en filialen die niet-participerende financiële instellingen zijn.* Indien een Nederlandse financiële instelling die voor het overige voldoet aan de vereisten omschreven in het eerste lid van dit artikel of wordt omschreven in het derde of vierde lid van dit artikel, een gelieerde entiteit of gelieerd filiaal bezit die of dat opereert in een staat die belet dat deze entiteit of dat filiaal voldoet aan de vereisten voor buitenlandse participerende financiële instellingen of FATCA-conform geachte buitenlandse financiële instellingen voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code, of een gelieerde entiteit of gelieerd filiaal bezit die of dat uitsluitend vanwege het aflopen van de overgangsregeling voor beperkte (limited) buitenlandse financiële instellingen en beperkte (limited) filialen ingevolge de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën wordt behandeld als een buitenlandse niet-participerende financiële instelling, blijft deze Nederlandse financiële instelling voldoen aan de voorwaarden van dit Verdrag en wordt deze voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code onverkort behandeld als een FATCA-conform geachte buitenlandse financiële instelling of vrijgestelde begunstigde, naargelang van hetgeen het geval is, mits:
+
+a.de Nederlandse financiële instelling dergelijke gelieerde entiteiten of filialen behandelt als afzonderlijke niet-participerende financiële instellingen ten behoeve van alle vereisten van dit Verdrag omtrent rapportage en inhouding en deze gelieerde entiteiten en filialen zich bij de inhoudingsplichtige instanties identificeren als niet-participerende financiële instellingen;
+
+b.deze gelieerde entiteiten of filialen hun Amerikaanse rekeningen identificeren en de gegevens ter zake van die rekeningen rapporteren zoals vereist ingevolge artikel 1471 van de U.S. Internal Revenue Code in de mate toegestaan ingevolge de relevante wetten die van toepassing zijn op de gelieerde entiteiten of filialen; en
+
+c.deze gelieerde entiteiten of filialen niet specifiek Amerikaanse rekeningen werven die aangehouden worden door personen die geen inwoner zijn van de staat waar de gelieerde entiteit of het gelieerde filiaal zich bevindt of rekeningen aangehouden door niet-participerende financiële instellingen die niet zijn opgericht in de staat waar de gelieerde entiteit of het gelieerde filiaal zich bevindt en deze gelieerde entiteit of dat gelieerde filiaal door de Nederlandse financiële instelling of een andere gelieerde entiteit niet wordt gebruikt om de verplichtingen uit hoofde van dit Verdrag of ingevolge artikel 1471 van de U.S. Internal Revenue Code, al naargelang hetgeen van toepassing is, te omzeilen.
+6. *Afstemming van het tijdschema.* Onverminderd het derde en vijfde lid van artikel 3 van dit Verdrag:
+
+a.is Nederland niet verplicht informatie te verkrijgen en uit te wisselen ter zake van een kalenderjaar dat voorafgaat aan het kalenderjaar ter zake waarvan uit hoofde van relevante voorschriften van het Amerikaanse ministerie van Financiën door participerende buitenlandse financiële instellingen soortgelijke informatie dient te worden gerapporteerd aan de IRS;
+
+b.is Nederland niet verplicht te beginnen met de informatie-uitwisseling vóór de datum waarop buitenlandse participerende financiële instellingen uit hoofde van relevante voorschriften van het Amerikaanse ministerie van Financiën verplicht zijn soortgelijke informatie te rapporteren aan de IRS;
+
+c.zijn de Verenigde Staten niet verplicht informatie te verkrijgen en uit te wisselen ter zake van een kalenderjaar dat voorafgaat aan het eerste kalenderjaar ter zake waarvan Nederland verplicht is informatie te verkrijgen en uit te wisselen; en
+
+d.zijn de Verenigde Staten niet verplicht te beginnen met de informatie-uitwisseling vóór de datum waarop Nederland verplicht is te beginnen met de informatie-uitwisseling.
+7. *Afstemming van begripsomschrijvingen met de voorschriften van het Amerikaanse ministerie van Financiën.* Onverminderd artikel 1 van dit Verdrag en de begripsomschrijvingen vervat in de Bijlagen bij dit Verdrag kan Nederland bij de implementatie van dit Verdrag gebruikmaken van, en Nederlandse financiële instellingen het gebruik toestaan van, een begripsomschrijving in de relevante voorschriften van het Amerikaanse ministerie van Financiën in plaats van een dienovereenkomstige begripsomschrijving in dit Verdrag, mits de toepassing ervan niet ten koste gaat van de doelstellingen van dit Verdrag. 
+
+### Artikel  5  
+
+####Samenwerking ten behoeve van naleving en handhaving
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. *Kleine en administratieve fouten.* Een bevoegde autoriteit stelt de bevoegde autoriteit van de andere partij in kennis indien de eerstgenoemde bevoegde autoriteit redenen heeft om aan te nemen dat administratieve of andere kleine fouten mogelijk hebben geleid tot onjuiste of incomplete rapportage of tot andere inbreuken op dit Verdrag. De bevoegde autoriteit van de andere partij past haar nationale recht (met inbegrip van de van toepassing zijnde sancties) toe teneinde de gecorrigeerde en/of volledige informatie te verkrijgen of andere inbreuken op dit Verdrag te verhelpen.
+2. *Significante niet-nakoming.*
+
+a.Een bevoegde autoriteit stelt de bevoegde autoriteit van de andere partij in kennis indien de eerstgenoemde bevoegde autoriteit heeft vastgesteld dat er sprake is van significante niet-nakoming van de verplichtingen uit hoofde van dit Verdrag door een rapporterende financiële instelling in de andere staat. De bevoegde autoriteit van de andere partij past haar nationale recht toe (met inbegrip van de van toepassing zijnde sancties) teneinde de in de kennisgeving omschreven significante niet-nakoming aan te pakken.
+
+b.Indien deze maatregelen, in het geval van een rapporterende Nederlandse financiële instelling, binnen een termijn van 18 maanden na de kennisgeving omtrent de significante niet-nakoming niet hebben geleid tot oplossing ervan, behandelen de Verenigde Staten de rapporterende Nederlandse financiële instelling als een niet-participerende financiële instelling overeenkomstig dit tweede lid, onderdeel b.
+3. *Externe dienstverleners.* Elke partij kan rapporterende financiële instellingen toestaan gebruik te maken van externe dienstverleners teneinde te voldoen aan de hun door een partij opgelegde verplichtingen voorzien in dit Verdrag, maar de rapporterende financiële instellingen blijven verantwoordelijk voor deze verplichtingen.
+4. *Preventieve maatregelen.* De partijen implementeren de nodige maatregelen om te voorkomen dat financiële instellingen praktijken uitoefenen die beogen de uit hoofde van dit Verdrag vereiste rapportage te omzeilen. 
+
+### Artikel  6  
+
+####Wederzijdse verplichting tot voortdurende verbetering van de effectiviteit van informatie-uitwisseling en transparantie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1. *Wederkerigheid.* De regering van de Verenigde Staten onderkent de noodzaak te bewerkstelligen dat op gelijk niveau wederzijds automatisch informatie kan worden uitgewisseld met Nederland. De regering van de Verenigde Staten heeft zich verplicht de transparantie verder te verbeteren en de betrekkingen met Nederland voor de uitwisseling te bevorderen door te streven naar het aannemen van regelgeving en het bevorderen en ondersteunen van relevante wetgeving teneinde wederzijdse automatische uitwisseling van informatie op gelijk niveau te bewerkstelligen.
+2. *Behandeling van *passthru*-betalingen en bruto-opbrengsten.* De partijen verplichten zich met elkaar en met partnerstaten samen te werken teneinde een praktische en effectieve alternatieve aanpak te ontwikkelen om de beleidsdoelstellingen omtrent inhoudingen over buitenlandse *passthru*-betalingen en bruto-opbrengsten te verwezenlijken waardoor de administratieve last tot een minimum wordt beperkt.
+3. *Ontwikkeling van een gemeenschappelijk model voor rapportage en uitwisseling.* De partijen verplichten zich samen te werken met partnerstaten, de Organisatie voor Economische Samenwerking en Ontwikkeling en de Europese Unie teneinde de voorwaarden van dit Verdrag aan te passen aan een gemeenschappelijk model voor de automatische uitwisseling van informatie, met inbegrip van normen op het gebied van rapportage en due diligence voor financiële instellingen.
+4. *Documentatie van rekeningen gehouden per 30 juni 2014.* Ten aanzien van te rapporteren rekeningen gehouden door rapporterende financiële instellingen per 30 juni 2014:
+
+a.verplichten de Verenigde Staten zich vóór 1 januari 2017 regels vast te stellen voor de rapportage ter zake van 2017 en volgende jaren die rapporterende Amerikaanse financiële instellingen verplichten de Nederlandse TIN van elke houder van een Nederlandse te rapporteren rekening te verkrijgen en te rapporteren zoals vereist ingevolge artikel 2, tweede lid, onderdeel b, onder 1, van dit Verdrag; en
+
+b.verplicht Nederland zich vóór 1 januari 2017 regels vast te stellen voor de rapportage ter zake van 2017 en volgende jaren die rapporterende Nederlandse financiële instellingen verplichten de Amerikaanse TIN van elke omschreven Amerikaanse persoon te verkrijgen zoals vereist ingevolge artikel 2, tweede lid, onderdeel a, onder 1, van dit Verdrag. 
+
+### Artikel  7  
+
+####Consistente toepassing van de FATCA op partnerstaten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Nederland verkrijgt het voordeel van enigerlei gunstiger voorwaarden onder artikel 4 of Bijlage I van dit Verdrag bij de toepassing van de FATCA op Nederlandse financiële instellingen die zijn toegekend aan een andere partnerstaat op grond van een ondertekend bilateraal verdrag uit hoofde waarvan de andere partnerstaat dezelfde verplichtingen heeft aanvaard als Nederland zoals omschreven in de artikelen 2 en 3 van dit Verdrag en onder dezelfde voorwaarden als omschreven in deze artikelen en de artikelen 5 tot en met 9 van dit Verdrag. 
+2. De Verenigde Staten stellen Nederland in kennis van deze gunstiger voorwaarden en deze zullen automatisch uit hoofde van dit Verdrag van toepassing zijn alsof zij waren omschreven in dit Verdrag en van kracht zijn met ingang van de datum van ondertekening van het verdrag dat de gunstiger voorwaarden omvat, tenzij Nederland de toepassing ervan schriftelijk afwijst. 
+
+### Artikel  8  
+
+####Overleg en wijzigingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij problemen bij de implementatie van dit Verdrag kan elke partij verzoeken om overleg teneinde passende maatregelen uit te werken om de uitvoering van dit Verdrag te waarborgen.   
+2.  Dit Verdrag kan met wederzijdse schriftelijke instemming van beide partijen worden gewijzigd. Tenzij anderszins overeengekomen, wordt een wijziging van kracht via de procedures vervat in artikel 10, eerste lid, van dit Verdrag.  
+
+### Artikel  9  
+
+####Bijlagen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De Bijlagen vormen een integrerend onderdeel van dit Verdrag. 
+
+### Artikel  10  
+
+####Looptijd van het Verdrag
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Dit Verdrag treedt in werking op de datum waarop Nederland de Verenigde Staten er schriftelijk van in kennis stelt dat Nederland de vereiste interne procedures heeft afgerond voor de inwerkingtreding van dit Verdrag en het blijft van kracht tot het wordt beëindigd. 
+2. Elk van de partijen kan dit Verdrag beëindigen door middel van een schriftelijke kennisgeving van beëindiging aan de andere partij. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twaalf maanden na de datum van de kennisgeving van beëindiging.
+3. Vóór 31 december 2016 overleggen de partijen constructief over wijzigingen van dit Verdrag die nodig mochten zijn teneinde aan te sluiten bij de voortgang omtrent de verplichtingen vervat in artikel 6 van dit Verdrag. 
+
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun respectieve regeringen, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te Den Haag, op 18 december 2013 in de Engelse taal. *Voor het Koninkrijk der Nederlanden,*F.H.H. WEEKERS*Voor de Verenigde Staten van Amerika,*A.H. STERLING 
+
+### Bijlage  I  
+
+####Verplichtingen in het kader van due diligence voor de identificatie van en rapportage over Amerikaanse te rapporteren rekeningen en betalingen aan bepaalde niet-participerende financiële instellingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### I  
+
+####Algemeen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+A. Nederland verlangt dat rapporterende Nederlandse financiële instellingen de due diligence-procedures vervat in deze Bijlage I toepassen teneinde Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen te identificeren.  
+
+B. Voor de toepassing van het Verdrag, 
+
+1. luiden alle dollarbedragen in Amerikaanse dollars en omvatten zij tevens het equivalent in andere valuta.  
+
+2. wordt, tenzij hier anders wordt bepaald, het saldo of de waarde van een rekening bepaald per de laatste dag van het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden.  
+
+3. indien uit hoofde van deze Bijlage I op 30 juni 2014 een saldo- of waardegrens dient te worden bepaald, wordt het desbetreffende saldo of de waarde bepaald per die datum of per de laatste dag van de periode waarover gerapporteerd dient te worden onmiddellijk voorafgaand aan 30 juni 2014, en indien uit hoofde van deze Bijlage een saldo- of waardegrens per de laatste dag van een kalenderjaar dient te worden vastgesteld, wordt het desbetreffende saldo of de waarde bepaald per de laatste dag van het kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden.  
+
+4. Onverminderd het bepaalde in onderdeel E.1 van deel II van deze Bijlage I wordt een rekening behandeld als een Amerikaanse te rapporteren rekening per de datum waarop zij als zodanig wordt geïdentificeerd volgens de due diligence-procedures van deze Bijlage I.  
+
+5. Tenzij anders bepaald, wordt informatie ter zake van een Amerikaanse te rapporteren rekening jaarlijks gerapporteerd in het kalenderjaar volgend op het jaar waarop de informatie betrekking heeft.    
+
+C. Bij wijze van alternatief voor de in de onderdelen van deze Bijlage I beschreven procedures kan Nederland rapporterende Nederlandse financiële instellingen toestaan de procedures toe te passen die beschreven zijn in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën teneinde vast te stellen of een rekening een Amerikaanse te rapporteren rekening is of een rekening aangehouden door een niet-participerende financiële instelling. Nederland kan rapporterende Nederlandse financiële instellingen toestaan deze keuze per onderdeel van deze Bijlage I afzonderlijk te maken, hetzij voor alle relevante financiële rekeningen tezamen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk (bijvoorbeeld per bedrijfsactiviteit of op basis van de locatie waar de rekening wordt gehouden).   
+
+### II  
+
+####Bestaande rekeningen van natuurlijke personen.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen onder bestaande rekeningen aangehouden door natuurlijke personen („bestaande rekeningen van natuurlijke personen”). 
+
+A. *Rekeningen die niet hoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij voor alle bestaande rekeningen van natuurlijke personen, hetzij voor elke duidelijk geïdentificeerde groep van dergelijke rekeningen afzonderlijk, indien de uitvoeringsregels in Nederland voorzien in een dergelijke keuze, behoeven de volgende bestaande rekeningen van natuurlijke personen niet te worden gecontroleerd, geïdentificeerd of gerapporteerd als Amerikaanse te rapporteren rekeningen: 
+
+1. onverminderd het bepaalde in onderdeel E.2 van dit deel, bestaande rekeningen van natuurlijke personen met een saldo of waarde op 30 juni 2014 van ten hoogste $ 50.000.  
+
+2. onverminderd het bepaalde in onderdeel E.2 van dit deel, bestaande rekeningen van natuurlijke personen in de vorm van een kapitaalverzekering of een lijfrenteverzekering met een saldo of waarde op 30 juni 2014 van ten hoogste $ 250.000.  
+
+3. bestaande rekeningen van een natuurlijk persoon in de vorm van een kapitaalverzekering of lijfrenteverzekering, mits de wet- of regelgeving van Nederland of de Verenigde Staten de verkoop van dergelijke verzekeringen aan Amerikaanse ingezetenen in feite belet (bijvoorbeeld indien de desbetreffende financiële instelling niet beschikt over de vereiste registratie naar Amerikaans recht en ingevolge het Nederlandse recht rapportage of inhouding vereist is ter zake van verzekeringsproducten aangehouden door inwoners van Nederland).  
+
+4. depositorekeningen met een saldo van ten hoogste $ 50.000.    
+
+B. *Controleprocedures voor bestaande rekeningen van natuurlijke personen met een saldo of waarde op 30 juni 2014 hoger dan $ 50.000 ($ 250.000 voor een kapitaalverzekering of lijfrenteverzekering), maar niet hoger dan $ 1.000.000 („lagewaarderekeningen”).* 
+
+1. *Onderzoek van elektronische dossiers.* De rapporterende Nederlandse financiële instelling dient de elektronisch doorzoekbare gegevens die worden beheerd door de rapporterende Nederlandse financiële instelling te controleren op de volgende Amerikaanse indicatoren: 
+
+a. aanmerking van de rekeninghouder als staatsburger of inwoner van de Verenigde Staten;  
+
+b. ondubbelzinnige indicator van de geboorteplaats in de Verenigde Staten;  
+
+c. huidig post- of woonadres (met inbegrip van een Amerikaanse postbus) in de Verenigde Staten;  
+
+d. huidig telefoonnummer in de Verenigde Staten;  
+
+e. vaste instructies voor de overmaking van gelden naar een rekening aangehouden in de Verenigde Staten;  
+
+f. geldige volmacht of tekenbevoegdheid verleend aan een persoon met een adres in de Verenigde Staten; of  
+
+g. een „in handen van”- of poste-restante-adres van de rekeninghouder als *enige* adres in het dossier van de rapporterende Nederlandse financiële instelling. In het geval van een reeds bestaande lagewaarderekening van een natuurlijke persoon wordt een „in handen van”-adres buiten de Verenigde Staten of een poste-restante-adres niet aangemerkt als Amerikaanse indicatoren.    
+
+2. Indien geen van de Amerikaanse indicatoren vermeld in onderdeel B.1 van dit deel wordt aangetroffen bij het elektronisch onderzoek, is geen verdere actie vereist totdat er sprake is van een verandering die ertoe leidt dat een of meer Amerikaanse indicatoren in verband worden gebracht met de rekening of indien de rekening een hogewaarderekening wordt als bedoeld in onderdeel D van dit deel.  
+
+3. Indien een van de Amerikaanse indicatoren genoemd in onderdeel B.1 van dit deel bij het elektronisch onderzoek wordt aangetroffen of indien er een verandering van omstandigheden is opgetreden die ertoe leidt dat een of meer van de Amerikaanse indicatoren in verband worden gebracht met de rekening, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening, tenzij zij besluit onderdeel B.4 van dit deel toe te passen en een van de daar genoemde uitzonderingen van toepassing is op die rekening.  
+
+4. Indien Amerikaanse indicatoren bedoeld in onderdeel B.1 van dit deel worden aangetroffen, is een rapporterende Nederlandse financiële instelling evenwel niet verplicht de rekening te behandelen als een Amerikaanse te rapporteren rekening: 
+
+a. Indien in de informatie over de rekeninghouder ondubbelzinnig een *geboorteplaats in de Verenigde Staten* wordt aangetroffen, de rapporterende Nederlandse financiële instelling verkrijgt, of eerder een dossier heeft gecontroleerd en dit bijhoudt met daarin: 
+
+1. een verklaring van de rekeninghouder dat hij noch staatsburger is van de Verenigde Staten noch fiscaal inwoner is van de Verenigde Staten (via een IRS-formulier W-8 of een vergelijkbaar overeengekomen formulier);  
+
+2. een niet-Amerikaans paspoort of een ander door de overheid verstrekt identiteitsbewijs waaruit blijkt dat de rekeninghouder staatsburger is of de nationaliteit heeft van een ander land dan de Verenigde Staten; *en*  
+
+3. een kopie van een verklaring omtrent het verlies van de Amerikaanse nationaliteit of een aannemelijke verklaring omtrent: 
+
+a. de redenen waarom de rekeninghouder niet beschikt over een dergelijke verklaring ongeacht de afstand van het Amerikaanse staatsburgerschap; *of*  
+
+b. de redenen waarom de rekeninghouder bij zijn geboorte niet het Amerikaanse staatsburgerschap heeft verworven;   
+
+b.Indien de informatie over de rekeninghouder een *huidig post- of woonadres in de Verenigde Staten bevat of er uitsluitend een of meer Amerikaanse telefoonnummers aan de rekening zijn gekoppeld*, de rapporterende Nederlandse financiële instelling verkrijgt, of eerder een dossier heeft gecontroleerd en dit bijhoudt met daarin: 
+
+1. een verklaring van de rekeninghouder dat hij noch staatsburger is van de Verenigde Staten noch fiscaal inwoner is van de Verenigde Staten (via een IRS-formulier W-8 of een vergelijkbaar overeengekomen formulier); *en*  
+
+2. bewijsstukken zoals omschreven in onderdeel D van deel VI van deze Bijlage I, waaruit blijkt dat de rekeninghouder geen staatsburger of fiscaal inwoner is van de Verenigde Staten.   
+
+c. Indien de informatie over de rekeninghouder *vaste instructies bevat voor de overmaking van gelden naar een rekening gehouden in de Verenigde Staten*, de rapporterende Nederlandse financiële instelling verkrijgt, of eerder een dossier heeft gecontroleerd en dit bijhoudt met daarin: 
+
+1. een verklaring van de rekeninghouder dat hij noch staatsburger is van de Verenigde Staten noch fiscaal inwoner is van de Verenigde Staten (via een IRS-formulier W-8 of een vergelijkbaar overeengekomen formulier); *en*  
+
+2. bewijsstukken zoals omschreven in onderdeel D van deel VI van deze Bijlage I, waaruit blijkt dat de rekeninghouder geen staatsburger of fiscaal inwoner is van de Verenigde Staten.   
+
+d. Indien de informatie over de rekeninghouder *een geldige volmacht of tekenbevoegdheid verleend aan een persoon met een adres in de Verenigde Staten of een „in handen van”- of poste-restante-adres bevat dat als enige adres gekoppeld is aan de rekeninghouder of wanneer er een of meer Amerikaanse telefoonnummers aan de rekening zijn gekoppeld (en er ook een niet-Amerikaans telefoonnummer in verband wordt gebracht met de rekening),* de rapporterende Nederlandse financiële instelling verkrijgt, of eerder een dossier heeft gecontroleerd en dit bijhoudt met daarin: 
+
+1. een verklaring van de rekeninghouder dat hij noch staatsburger is van de Verenigde Staten noch fiscaal inwoner is van de Verenigde Staten (via een IRS-formulier W-8 of een vergelijkbaar overeengekomen formulier); *of*  
+
+2. bewijsstukken zoals omschreven in onderdeel D van deel VI van deze Bijlage I, waaruit blijkt dat de rekeninghouder geen staatsburger of fiscaal inwoner is van de Verenigde Staten.       
+
+C. *Aanvullende procedures voor bestaande lagewaarderekeningen.* 
+
+1. Vóór 30 juni 2016 dienen de reeds bestaande lagewaarderekeningen te zijn onderzocht op Amerikaanse indicatoren.  
+
+2. Indien een verandering van omstandigheden is opgetreden bij een reeds bestaande lagewaarderekening van een natuurlijk persoon die ertoe leidt dat een of meer Amerikaanse indicatoren omschreven in onderdeel B.1 van dit deel in verband worden gebracht met deze rekening, dient de rapporterende Nederlandse financiële instelling deze rekening te behandelen als een Amerikaanse te rapporteren rekening, tenzij onderdeel B.4 van dit deel van toepassing is.  
+
+3. Met uitzondering van de depositorekeningen omschreven in onderdeel A.4 van dit deel, dient elke bestaande rekening van een natuurlijk persoon die ingevolge dit deel is geïdentificeerd als een Amerikaanse te rapporteren rekening alle volgende jaren als zodanig te worden behandeld, tenzij de rekeninghouder ophoudt een omschreven Amerikaanse persoon te zijn.    
+
+D. *Uitgebreide controleprocedures voor bestaande rekeningen van natuurlijke personen met een saldo of waarde hoger dan $ 1.000.000 op 30 juni 2014, of op 31 december van 2015 of van een volgend jaar („hogewaarderekeningen”).* 
+
+1. *Onderzoek van elektronische dossiers.* De rapporterende Nederlandse financiële instelling dient elektronisch doorzoekbare gegevens die worden bijgehouden door de rapporterende Nederlandse financiële instelling te controleren op de Amerikaanse indicatoren omschreven in onderdeel B.1 van dit deel.  
+
+2. *Onderzoek van papieren dossiers.* Indien de elektronisch doorzoekbare databases van de rapporterende Nederlandse financiële instelling velden bevatten waarin alle gegevens beschreven in onderdeel D.3 van dit deel zijn opgenomen, is geen onderzoek van het papieren dossier vereist. Indien niet al deze informatie is opgenomen in de elektronische databases, dient de rapporterende Nederlandse financiële instelling ter zake van hogewaarderekeningen ook de actuele stamgegevens van de desbetreffende cliënten te controleren, en indien daarin niet alle gegevens zijn opgenomen, tevens de volgende documenten te controleren die verband houden met de rekening en die de rapporterende Nederlandse financiële instelling de daaraan voorgaande vijf jaar heeft verkregen, op de Amerikaanse indicatoren omschreven in onderdeel B.1 van dit deel: 
+
+a. de meest recente bewijsstukken verzameld voor de rekening;  
+
+b. de meest recente overeenkomst of documenten omtrent de opening van de rekening;  
+
+c. de meest recente documenten verkregen door de rapporterende Nederlandse financiële instelling in het kader van AML/KYC-procedures of andere regelgeving;  
+
+d. geldige formulieren voor volmachten of tekenbevoegdheid; en  
+
+e. uitstaande vaste instructies omtrent de overdracht van gelden.    
+
+3. *Uitzondering indien de databases voldoende informatie bevatten.* Een rapporterende Nederlandse financiële instelling is niet verplicht de papieren dossiers omschreven in onderdeel D.2 van dit deel te onderzoeken indien haar elektronisch doorzoekbare informatie het volgende bevat: 
+
+a. nationaliteit of woonplaats van de rekeninghouder;  
+
+b. woonadres en postadres van de rekeninghouder zoals vastgelegd in de dossiers van de rapporterende Nederlandse financiële instelling;  
+
+c. telefoonnummer(s) van de rekeninghouder zoals vastgelegd in de huidige dossiers van de rapporterende Nederlandse financiële instelling;  
+
+d. of er vaste instructies zijn voor de overmaking van gelden op de rekening naar een andere rekening (met inbegrip van rekeningen bij filialen van de rapporterende Nederlandse financiële instelling of een andere financiële instelling);  
+
+e. of er een actueel „in handen van”- of poste-restante-adres is van de rekeninghouder; *en*  
+
+f. of er een volmacht of tekenbevoegdheid voor de rekening is.    
+
+4. *Opvragen van feitelijke kennis bij de relatiemanager.* Naast de bovenomschreven onderzoeken van de elektronische en papieren dossiers dient de rapporterende Nederlandse financiële instelling een hogewaarderekening (met inbegrip van de eventueel daarmee geaggregeerde financiële rekeningen) die is ondergebracht bij een relatiemanager te behandelen als een Amerikaanse te rapporteren rekening, indien de relatiemanager beschikt over feitelijke kennis dat de houder van de rekening een omschreven Amerikaanse persoon is.  
+
+5. *Gevolgen van het aantreffen van Amerikaanse indicatoren.* 
+
+a. Indien geen van de indicatoren genoemd in onderdeel B.1 van dit deel wordt aangetroffen bij de uitgebreide controle van hogewaarderekeningen en de houder van een rekening niet is geïdentificeerd als een omschreven Amerikaanse persoon als bedoeld in onderdeel D.4 van dit deel, zijn geen nadere maatregelen vereist, totdat een verandering van omstandigheden ertoe leidt dat een of meer Amerikaanse indicatoren in verband worden gebracht met de rekening.  
+
+b. Indien een van de Amerikaanse indicatoren genoemd in onderdeel B.1 van dit deel wordt aangetroffen bij de bovenomschreven uitgebreide controle van hogewaarderekeningen of indien er naderhand een verandering van omstandigheden is opgetreden die ertoe leidt dat een of meer van de Amerikaanse indicaties in verband worden gebracht met de rekening, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening, tenzij zij besluit onderdeel B.4 van dit deel toe te passen en een van de daar genoemde uitzonderingen van toepassing is op die rekening.  
+
+c. Met uitzondering van de depositorekeningen omschreven in onderdeel A.4 van dit deel, dient elke bestaande rekening van een natuurlijk persoon die ingevolge dit deel is geïdentificeerd als een Amerikaanse te rapporteren rekening alle volgende jaren als zodanig te worden behandeld, tenzij de rekeninghouder ophoudt een omschreven Amerikaanse persoon te zijn.      
+
+E. *Aanvullende procedures voor hogewaarderekeningen.* 
+
+1. Indien een bestaande rekening van een natuurlijk persoon op 30 juni 2014 een hogewaarderekening is, dient de rapporterende Nederlandse financiële instelling vóór 30 juni 2015 de uitgebreide controleprocedures omschreven in onderdeel D van dit deel uit te voeren. Indien een rekening op basis van deze controle op of vóór 31 december 2014 wordt geïdentificeerd als een Amerikaanse te rapporteren rekening, dient de rapporterende Nederlandse financiële instelling de vereiste informatie over deze rekening ter zake van 2014 te melden in de eerste rapportage over de rekening en vervolgens eenmaal per jaar. Ten aanzien van rekeningen die na 31 december 2014 en op of vóór 30 juni 2015 worden geïdentificeerd als Amerikaanse te rapporteren rekeningen is de rapporterende Nederlandse financiële instelling niet verplicht informatie ter zake van 2014 te rapporteren; daarna dient die informatie over de rekeningen evenwel jaarlijks te worden gerapporteerd.  
+
+2. Indien een bestaande rekening van een natuurlijk persoon op 30 juni 2014 geen hogewaarderekening is, maar op 31 december van 2015 of van een later kalenderjaar wel, dient de rapporterende Nederlandse financiële instelling binnen zes maanden na de laatste dag van het kalenderjaar waarin de bestaande rekening een hogewaarderekening werd de uitgebreide controleprocedures omschreven in onderdeel D van dit deel uit te voeren. Indien de rekening op basis van deze controle wordt geïdentificeerd als een Amerikaanse te rapporteren rekeningen, dient de rapporterende Nederlandse financiële instelling de vereiste informatie over deze rekening ter zake van het jaar waarin de rekening als Amerikaanse te rapporteren rekeningen werd geïdentificeerd te rapporteren en vervolgens eenmaal per jaar, tenzij de rekeninghouder ophoudt een omschreven Amerikaanse persoon te zijn.  
+
+3. Zodra een rapporterende Nederlandse financiële instelling de uitgebreide controleprocedures omschreven in onderdeel D van dit deel toepast op een hogewaarderekening, is de rapporterende Nederlandse financiële instelling niet verplicht de procedures, afgezien van het onderzoek van de relatiemanager omschreven in onderdeel D.4, voor deze hogewaarderekening in de volgende jaren te herhalen.  
+
+4. Indien er veranderingen optreden in de omstandigheden ten aanzien van een hogewaarderekening die ertoe leiden dat een of meer Amerikaanse indicaties omschreven in onderdeel B.1 van dit deel in verband worden gebracht met deze rekening, dient de rapporterende Nederlandse financiële instelling deze te behandelen als een Amerikaanse te rapporteren rekeningen, tenzij zij besluit onderdeel B.4 van dit deel toe te passen en een van de daarin genoemde uitzonderingen op die rekening van toepassing is.  
+
+5. Een rapporterende Nederlandse financiële instelling dient procedures te implementeren teneinde te waarborgen dat relatiemanagers veranderingen van omstandigheden ten aanzien van rekeningen identificeren. Indien een relatiemanager bijvoorbeeld een kennisgeving ontvangt dat een rekeninghouder een nieuw postadres heeft in de Verenigde Staten, dient de rapporterende Nederlandse financiële instelling het nieuwe adres te behandelen als een verandering van omstandigheden, en indien zij besluit onderdeel B.4 van dit deel toe te passen, dient zij de desbetreffende documenten van de rekeninghouder te verkrijgen.    
+
+F. *Bestaande rekeningen van natuurlijke personen waarvoor reeds voor andere doeleinden documentatie is verkregen.* Een rapporterende Nederlandse financiële instelling die reeds eerder documentatie van een rekeninghouder heeft gekregen teneinde vast te stellen dat de rekeninghouder noch een Amerikaanse staatsburger, noch een Amerikaanse inwoner is voor de verplichtingen uit hoofde van een gekwalificeerd tussenpersoon-, een inhoudingsplichtig buitenlands samenwerkingsverband- of een inhoudingsplichtige buitenlandse trust overeenkomst met de IRS, of uit hoofde van haar verplichtingen onder hoofdstuk 61 van titel 26 van de United States Code, is niet verplicht de procedures omschreven in onderdeel B.1 van dit deel uit te voeren ten aanzien van lagewaarderekeningen noch de procedures omschreven in de punten D.1 tot en met D.3 van dit deel ten aanzien van hogewaarderekeningen.   
+
+### III  
+
+####Nieuwe rekeningen van natuurlijke personen.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen onder financiële rekeningen aangehouden door natuurlijke personen geopend op of na 1 juli 2014 („nieuwe rekeningen van natuurlijke personen”). 
+
+A. *Rekeningen die niet behoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij voor alle nieuwe rekeningen van een natuurlijk persoon, hetzij voor elke duidelijk geïdentificeerde groep van dergelijke rekeningen afzonderlijk, indien de uitvoeringsregels in Nederland voorzien in een dergelijke keuze, behoeven de volgende nieuwe rekeningen van natuurlijke personen niet te worden gecontroleerd, geïdentificeerd of gerapporteerd als Amerikaanse te rapporteren rekeningen: 
+
+1. Een depositorekening, tenzij het saldo aan het eind van een kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden hoger is dan $ 50.000.  
+
+2. Een kapitaalverzekering, tenzij de geldswaarde aan het eind van een kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden hoger is dan $ 50.000.    
+
+B. *Andere nieuwe rekeningen van natuurlijke personen.* Ten aanzien van nieuwe rekeningen van natuurlijke personen die niet worden omschreven in onderdeel A van dit deel dient de rapporterende Nederlandse financiële instelling bij het openen van de rekening (of binnen 90 dagen na het eind van het kalenderjaar waarin een rekening niet langer valt onder de omschrijving van onderdeel A van dit deel) een verklaring van de rekeninghouder te verkrijgen, die deel kan uitmaken van de documentatie in het kader van het openen van nieuwe rekeningen, teneinde vast te stellen of de rekeninghouder fiscaal inwoner is van de Verenigde Staten (daartoe wordt een Amerikaanse staatsburger geacht fiscaal inwoner van de Verenigde Staten te zijn, ook als de rekeninghouder tevens fiscaal inwoner is van een andere partnerstaat) en de aannemelijkheid van deze verklaring van de rekeninghouder te bevestigen op grond van de informatie verkregen door de rapporterende Nederlandse financiële instelling in verband met het openen van de rekening, met inbegrip van documenten verzameld uit hoofde van de AML/KYC-procedures. 
+
+1. Indien aan de hand van de verklaring van de rekeninghouder wordt vastgesteld dat deze fiscaal inwoner is van de Verenigde Staten, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening en een verklaring van de rekeninghouder te verkrijgen met daarin het Amerikaanse TIN van de rekeninghouder (eventueel in de vorm van een IRS-formulier W-9 of een soortgelijk overeengekomen formulier).  
+
+2. Indien een verandering optreedt in de omstandigheden van een nieuwe rekening van een natuurlijk persoon die ertoe leidt dat het de rapporterende Nederlandse financiële instelling bekend is of dat er aanleiding is om aan te nemen dat de oorspronkelijke verklaring van de rekeninghouder onjuist of onbetrouwbaar is, kan de rapporterende Nederlandse financiële instelling zich niet baseren op de oorspronkelijke verklaring en dient zij een geldige verklaring van de rekeninghouder te verkrijgen waarmee vastgesteld wordt of de rekeninghouder staatsburger of fiscaal inwoner is van de Verenigde Staten. Indien de rapporterende Nederlandse financiële instelling niet in staat is een geldige verklaring van de rekeninghouder te verkrijgen, dient zij de rekening te behandelen als een Amerikaanse te rapporteren rekening.     
+
+### IV  
+
+####Bestaande rekeningen van entiteiten.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen onder bestaande rekeningen aangehouden door entiteiten („bestaande rekeningen van entiteiten”). 
+
+A. *Rekeningen van entiteiten die niet behoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij voor alle bestaande rekeningen van entiteiten tezamen, hetzij voor elke duidelijk omschreven groep van dat soort rekeningen afzonderlijk indien de uitvoeringsregels in Nederland in die keuze voorzien, behoeven bestaande rekeningen van entiteiten met een saldo of waarde op 30 juni 2014 van ten hoogste $ 250.000, niet te worden gecontroleerd, geïdentificeerd of gerapporteerd als Amerikaanse te rapporteren rekeningen, totdat het saldo of de waarde hoger is dan $ 1.000.000.  
+
+B. *Rekeningen van entiteiten die gecontroleerd dienen te worden.* Bestaande rekeningen van entiteiten met een saldo of waarde op 30 juni 2014 hoger dan $ 250.000, en bestaande rekeningen van entiteiten met een saldo of waarde op 30 juni 2014 niet hoger dan $ 250.000 maar waarvan het saldo of de waarde op de laatste dag van 2015 of een later jaar hoger is dan $ 1.000.000, dienen te worden gecontroleerd in overeenstemming met de procedures vervat in onderdeel D van dit deel.  
+
+C. *Rekeningen van entiteiten die gerapporteerd dienen te worden.* Ten aanzien van bestaande rekeningen van entiteiten omschreven in onderdeel B van dit deel dienen uitsluitend rekeningen aangehouden door een of meer entiteiten die omschreven Amerikaanse personen zijn of door passieve NFFE’s met een of meer uiteindelijk belanghebbenden die staatsburger of inwoner zijn van de Verenigde Staten te worden behandeld als Amerikaanse te rapporteren rekeningen. Voorts dienen rekeningen aangehouden door niet-participerende financiële instellingen te worden behandeld als rekeningen waarvan het totaal aan betalingen zoals omschreven in artikel 4, eerste lid, onderdeel b, van het Verdrag worden gerapporteerd aan de Nederlandse bevoegde autoriteit.  
+
+D. *Controleprocedures voor het identificeren van rekeningen van entiteiten die gerapporteerd dienen te worden.* Voor bestaande rekeningen van entiteiten omschreven in onderdeel B van dit deel dient de rapporterende Nederlandse financiële instelling de volgende controleprocedures toe te passen teneinde vast te stellen of een rekening wordt aangehouden door een of meer omschreven Amerikaanse personen, door passieve NFFE’s met een of meer uiteindelijk belanghebbenden die staatsburger of inwoner zijn van de Verenigde Staten of door niet-participerende financiële instellingen: 
+
+1. *Vaststellen of een entiteit een omschreven Amerikaanse persoon is.* 
+
+a. Informatie controleren die wordt bijgehouden ten behoeve van het toezicht of de klantrelatie (met inbegrip van informatie verzameld uit hoofde van de AML/KYC-procedures) teneinde vast te stellen of dit erop wijst dat de rekeninghouder een Amerikaanse persoon is. Informatie die erop wijst dat de rekeninghouder een Amerikaanse persoon is omvat daartoe mede een plaats van oprichting of vestiging in de Verenigde Staten of een adres in de Verenigde Staten.  
+
+b. Indien de informatie erop wijst dat de rekeninghouder een Amerikaanse persoon is, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening, tenzij zij een verklaring van de rekeninghouder ontvangt (via een IRS-formulier W-8 of W-9 of een vergelijkbaar overeengekomen formulier), of, redelijkerwijs kan vaststellen dat de rekeninghouder geen omschreven Amerikaanse persoon is op grond van informatie waarover zij beschikt of die publiekelijk beschikbaar is.    
+
+2. *Vaststellen of een niet-Amerikaanse entiteit een financiële instelling is.* 
+
+a. Informatie controleren die wordt bijgehouden ten behoeve van het toezicht of de klantrelatie (met inbegrip van informatie verzameld uit hoofde van de AML/KYC-procedures) teneinde vast te stellen of deze erop wijst dat de rekeninghouder een financiële instelling is.  
+
+b. Indien uit de informatie blijkt dat de rekeninghouder een financiële instelling is of indien de rapporterende Nederlandse financiële instelling het *Global Intermediary Identification Number* van de rekeninghouder op de gepubliceerde IRS-lijst van buitenlandse financiële instellingen verifieert, is de rekening geen Amerikaanse te rapporteren rekening.    
+
+3. *Vaststellen of een financiële instelling een niet-participerende financiële instelling is die betalingen ontvangt waarop de geaggregeerde rapportage uit hoofde van *artikel 4, eerste lid, onderdeel b*, van het Verdrag van toepassing is.* 
+
+a. Met inachtneming van onderdeel D.3. onder b van dit deel kan een rapporterende Nederlandse financiële instelling vaststellen dat een rekeninghouder een Nederlandse financiële instelling is of een financiële instelling van een andere partnerstaat, indien de rapporterende Nederlandse financiële instelling redelijkerwijs vaststelt dat de rekeninghouder deze status heeft op grond van het Global Intermediary Identification Number van de rekeninghouder op de gepubliceerde IRS-lijst van buitenlandse financiële instellingen of op grond van andere informatie die publiekelijk beschikbaar is of waarover de rapporterende Nederlandse financiële instelling beschikt, naargelang van hetgeen van toepassing is. In dat geval is er ten aanzien van de rekening geen nadere controle, identificatie of rapportage vereist.  
+
+b. Indien de rekeninghouder een Nederlandse financiële instelling is of een financiële instelling van een andere partnerstaat die door de IRS behandeld wordt als een niet-participerende financiële instelling, is de rekening geen Amerikaanse te rapporteren rekening, maar betalingen aan de rekeninghouder dienen te worden gerapporteerd als beschreven in artikel 4, eerste lid, onderdeel b, van het Verdrag.  
+
+c. Indien de rekeninghouder geen Nederlandse financiële instelling of een financiële instelling in een andere partnerstaat is, dient de rapporterende Nederlandse financiële instelling de rekeninghouder te behandelen als een niet-participerende financiële instelling en dienen de betalingen daaraan uit hoofde van artikel 4, eerste lid, onderdeel b, van het Verdrag te worden gerapporteerd, tenzij de rapporterende Nederlandse financiële instelling: 
+
+1. een verklaring van de rekeninghouder verkrijgt (via een IRS-formulier W-8 of een vergelijkbaar overeengekomen formulier) dat deze een erkende FATCA-conform geachte buitenlandse financiële instelling of een vrijgestelde begunstigde is, zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; *of*  
+
+2. in het geval van participerende buitenlandse financiële instellingen of geregistreerde FACTA-conform geachte buitenlandse financiële instellingen, het Global Intermediary Identification Number van de rekeninghouder op de gepubliceerde IRS-lijst van buitenlandse financiële instellingen verifieert.      
+
+4. *Vaststellen of een rekening aangehouden door een NFFE een Amerikaanse te rapporteren rekening is.* Ten aanzien van rekeninghouders van bestaande rekeningen van entiteiten die niet zijn geïdentificeerd als Amerikaanse persoon of als financiële instelling, dient de rapporterende Nederlandse financiële instelling na te gaan of i. er bij de rekeninghouder uiteindelijk belanghebbenden zijn, ii. of de rekeninghouder een passieve NFFE is en iii. of een van de uiteindelijk belanghebbenden staatsburger of inwoner is van de Verenigde Staten. Bij het vaststellen daarvan dient de rapporterende Nederlandse financiële instelling de richtsnoeren te volgen in de onderdelen D.4. onder a tot en met d van dit deel in de volgorde die het best aansluit bij de situatie. 
+
+a. Voor het vaststellen van de uiteindelijk belanghebbenden bij een rekeninghouder mag de rapporterende Nederlandse financiële instelling zich baseren op de informatie verzameld en bijgehouden overeenkomstig de AML/KYC-procedures.  
+
+b. Teneinde te bepalen of de rekeninghouder een passieve NFFE is dient de rapporterende Nederlandse financiële instelling een verklaring van de rekeninghouder te verkrijgen (bijvoorbeeld via een IRS-formulier W-8 of W-9 of een vergelijkbaar overeengekomen formulier) teneinde zijn status vast te stellen, tenzij zij op basis van informatie waarover zij beschikt of op basis van publiekelijk beschikbare informatie redelijkerwijs kan vaststellen dat de rekeninghouder een actieve NFFE is.  
+
+c. Teneinde te bepalen of uiteindelijk belanghebbenden bij een passieve NFFE staatsburger of fiscaal inwoner zijn van de Verenigde Staten, kan een rapporterende Nederlandse financiële instelling zich baseren op: 
+
+1. informatie verzameld en bijgehouden overeenkomstig de AML/KYC-procedures in het geval van bestaande rekeningen van entiteiten aangehouden door een of meer NFFE’s met een saldo of waarde van ten hoogste $ 1.000.000; *of*  
+
+2. een verklaring van de rekeninghouder of een uiteindelijk belanghebbende (via een IRS-formulier W-8 of W-9 of een vergelijkbaar overeengekomen formulier) in het geval van bestaande rekeningen van entiteiten aangehouden door een of meer NFFE’s met een saldo of waarde hoger dan $ 1.000.000.    
+
+d. Indien een uiteindelijk belanghebbende over een passieve NFFE staatsburger of inwoner is van de Verenigde Staten, dient de rekening te worden behandeld als een Amerikaanse te rapporteren rekening.      
+
+E. *Tijdstippen voor controles en aanvullende procedures die van toepassing zijn op bestaande rekeningen van entiteiten.* 
+
+1. De controle van bestaande rekeningen van entiteiten met een saldo of waarde op 30 juni 2014 hoger dan $ 250.000 dient vóór 30 juni 2016 afgerond te zijn.  
+
+2. De controle van bestaande rekeningen van entiteiten met een saldo of waarde op 30 juni 2014 niet hoger dan $ 250.000 maar op 31 december van 2015 of van een volgend jaar hoger dan $ 1.000.000 dient binnen zes maanden na de laatste dag van het kalenderjaar waarin het saldo of de waarde $ 1.000.000 overschreed afgerond te zijn.  
+
+3. Indien een verandering optreedt in de omstandigheden van een bestaande rekening van een entiteit die ertoe leidt dat het de rapporterende Nederlandse financiële instelling bekend is of dat er aanleiding is om aan te nemen dat de verklaring van de rekeninghouder of andere documentatie die verband houdt met een rekening onjuist of onbetrouwbaar is, dient de rapporterende Nederlandse financiële instelling de status van de rekening opnieuw vast te stellen in overeenstemming met de procedures vervat in onderdeel D van dit deel.     
+
+### V  
+
+####Nieuwe rekeningen van entiteiten.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende regels en procedures gelden voor het identificeren van Amerikaanse te rapporteren rekeningen en rekeningen aangehouden door niet-participerende financiële instellingen onder financiële rekeningen aangehouden door entiteiten en geopend op of na 1 juli 2014 („nieuwe rekeningen van entiteiten”). 
+
+A. *Rekeningen van entiteiten die niet behoeven te worden gecontroleerd, geïdentificeerd of gerapporteerd.* Tenzij de rapporterende Nederlandse financiële instelling anders besluit, hetzij ten aanzien van alle nieuwe rekeningen van entiteiten tezamen, hetzij voor elke duidelijk omschreven groep van deze rekeningen afzonderlijk, indien de uitvoeringsregels in Nederland voorzien in een dergelijke keuze, behoeft een creditcardrekening of een doorlopend-kredietfaciliteit die wordt behandeld als een nieuwe rekening van een entiteit niet te worden gecontroleerd, geïdentificeerd of gerapporteerd, mits de rapporterende Nederlandse financiële instelling die een dergelijke rekening beheert, beleid en procedures implementeert teneinde te voorkomen dat het saldo verschuldigd aan de rekeninghouder hoger wordt dan $ 50.000.  
+
+B. *Andere nieuwe rekeningen van entiteiten.* Ten aanzien van nieuwe rekeningen van entiteiten die niet omschreven worden in onderdeel A van dit deel dient de rapporterende Nederlandse financiële instelling te bepalen of de rekeninghouder: i. een omschreven Amerikaanse persoon; ii. een Nederlandse financiële instelling of een financiële instelling in een andere partnerstaat; iii. een participerende buitenlandse financiële instelling, een FATCA-conform geachte buitenlandse financiële instelling of een vrijgestelde begunstigde, overeenkomstig de omschrijving van deze uitdrukkingen in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; of iv. een actieve NFFE dan wel een passieve NFFE is. 
+
+1. Met inachtneming van onderdeel B.2 van dit deel kan een rapporterende Nederlandse financiële instelling vaststellen of een rekeninghouder een actieve NFFE, een Nederlandse financiële instelling dan wel een financiële instelling in een andere partnerstaat is, indien de rapporterende Nederlandse financiële instelling redelijkerwijs vaststelt dat de rekeninghouder deze status heeft op grond van het Global Intermediary Identification Number van de rekeninghouder of andere informatie die publiekelijk beschikbaar is of waarover de rapporterende Nederlandse financiële instelling beschikt, naargelang van hetgeen van toepassing is.  
+
+2. Indien de rekeninghouder een Nederlandse financiële instelling is of een financiële instelling van een andere partnerstaat die door de IRS behandeld wordt als een niet-participerende financiële instelling, is de rekening geen Amerikaanse te rapporteren rekening, maar betalingen aan de rekeninghouder dienen te worden gerapporteerd als beschreven in artikel 4, eerste lid, onderdeel b, van het Verdrag.  
+
+3. In alle overige gevallen dient de rapporterende Nederlandse financiële instelling een verklaring van de rekeninghouder te verkrijgen teneinde de status van de rekeninghouder vast te stellen. Op grond van de verklaring van de rekeninghouder zijn de volgende regels van toepassing: 
+
+a. Indien de rekeninghouder *een omschreven Amerikaanse persoon *is, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening.  
+
+b. Indien de rekeninghouder een *passieve NFFE* is, dient de rapporterende Nederlandse financiële instelling de uiteindelijk belanghebbenden te identificeren zoals bepaald onder de AML/KYC-procedures, en op grond van de verklaring van de rekeninghouder of een uiteindelijk belanghebbende te bepalen of deze persoon een staatsburger of inwoner is van de Verenigde Staten. Indien een uiteindelijk belanghebbende een staatsburger of inwoner van de Verenigde Staten is, dient de rapporterende Nederlandse financiële instelling de rekening te behandelen als een Amerikaanse te rapporteren rekening.  
+
+c. Indien de rekeninghouder: i. een Amerikaanse persoon is die geen omschreven Amerikaanse persoon is; ii. overeenkomstig onderdeel B.3 onder d van dit deel een Nederlandse financiële instelling of een financiële instelling in een andere partnerstaat is; iii. een participerende buitenlandse financiële instelling, een FATCA-conform geachte buitenlandse financiële instelling of een vrijgestelde begunstigde is, overeenkomstig de omschrijving van deze uitdrukkingen in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; iv. een actieve NFFE is of v. een passieve NFFE is waarvan geen van de uiteindelijk belanghebbenden een staatsburger of inwoner is van de Verenigde Staten, is de rekening geen Amerikaanse te rapporteren rekening en behoeft er niet gerapporteerd te worden over deze rekening.  
+
+d. Indien de rekeninghouder een niet-participerende financiële instelling is (met inbegrip van een Nederlandse financiële instelling of een financiële instelling in een andere partnerstaat die door de IRS behandeld wordt als een niet-participerende financiële instelling), is de rekening geen Amerikaanse te rapporteren rekening, maar betalingen aan de rekeninghouder dienen te worden gerapporteerd zoals beschreven in artikel 4, eerste lid, onderdeel b, van het Verdrag.       
+
+### VI  
+
+####Bijzondere regels en begripsomschrijvingen.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende aanvullende regels en begripsomschrijvingen zijn van toepassing bij de implementatie van de boven omschreven due diligence-procedures: 
+
+A. *Vertrouwen op verklaringen en bewijsstukken.* Een rapporterende Nederlandse financiële instelling mag niet vertrouwen op verklaringen of bewijsstukken indien haar bekend is of er aanleiding is om aan te nemen dat deze eigen verklaringen of bewijsstukken onjuist of onbetrouwbaar zijn.  
+
+B. *Begripsomschrijvingen.* Voor de toepassing van deze Bijlage I wordt verstaan onder: 
+
+1. *AML/KYC-Procedures*: de due diligence-procedures voor cliënten van een rapporterende Nederlandse financiële instelling uit hoofde van vereisten ter bestrijding van het witwassen van geld of daarmee vergelijkbare vereisten van Nederland die van toepassing zijn op rapporterende Nederlandse financiële instellingen.  
+
+2. *NFFE*: een niet-Amerikaanse entiteit die geen buitenlandse financiële instelling is zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën of een entiteit zoals omschreven in onderdeel B.4 onder j van dit deel, alsmede een niet-Amerikaanse entiteit die inwoner is van Nederland of gevestigd is in een andere partnerstaat en geen financiële instelling is.  
+
+3. *Passieve NFFE*: een NFFE die niet is i. een Actieve NFFE of ii. een inhoudingsplichtig samenwerkingsverband of een inhoudingsplichtige buitenlandse trust overeenkomstig de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën.  
+
+4. *Actieve NFFE*: een NFFE die voldoet aan een van de volgende criteria: 
+
+a. minder dan 50 percent van de bruto-inkomsten van de NFFE in het voorgaande kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden, bestaat uit passieve inkomsten en minder dan 50 percent van de activa van de NFFE gedurende het voorgaande kalenderjaar of een andere relevante periode waarover gerapporteerd dient te worden, bestaat uit activa die passieve inkomsten genereren of die worden aangehouden voor het genereren van passieve inkomsten;  
+
+b. de aandelen van de NFFE worden regelmatig verhandeld op een erkend handelsplatform of de NFFE is een gelieerde entiteit van een entiteit waarvan de aandelen regelmatig worden verhandeld op een erkend handelsplatform;  
+
+c. de NFFE is gevestigd in een Amerikaans territorium en alle eigenaren van de rechthebbende entiteit zijn inwoners te goeder trouw van dat Amerikaanse territorium;  
+
+d. de NFFE is een overheidsinstantie (niet zijnde de regering van de Verenigde Staten), een staatkundig onderdeel daarvan (daaronder uitdrukkelijk begrepen een staat, provincie, district of gemeente) of een publiek lichaam dat een taak van deze overheidsinstantie of dat staatkundige onderdeel verricht, een regering van een Amerikaans territorium, een internationale organisatie, een niet-Amerikaanse centrale bank of een entiteit die volledig in het bezit is van een of meer van de voorgaande instanties;  
+
+e. Een substantieel deel van de activiteiten van de NFFE bestaat uit het (geheel of gedeeltelijk) aanhouden van de geplaatste aandelen van, of het verschaffen van financiering en diensten aan, een of meer dochterondernemingen die betrokken zijn bij transacties of zakelijke activiteiten anders dan die van een financiële instelling, met dien verstande dat een entiteit niet in aanmerking komt voor de status van NFFE, indien de entiteit fungeert als een investeringsfonds (of zich als zodanig presenteert), zoals een private equity fonds, durfkapitaalfonds, een overnamefonds dat met schulden wordt gefinancierd of een investeringsvehikel met het doel ondernemingen te verwerven of te financieren en bij wijze van investering daarin vervolgens belangen aan te houden als vermogensbestanddelen;  
+
+f. de NFFE oefent nog geen bedrijfsactiviteiten uit en heeft dat ook in het verleden niet gedaan, maar investeert vermogen in activa teneinde bedrijfsactiviteiten uit te oefenen anders dan die van een financiële instelling, op voorwaarde dat de NFFE 24 maanden na de datum van haar oprichting niet in aanmerking komt voor deze uitzondering;  
+
+g. de NFFE was gedurende de voorgaande vijf jaar geen financiële instelling en is bezig met de liquidatie van haar vermogen of een reorganisatie teneinde de activiteiten voort te zetten of te hervatten, niet zijnde die van een financiële instelling;  
+
+h. de NFFE is primair betrokken bij financierings- en hedging transacties met of voor gelieerde entiteiten die geen financiële instellingen zijn en verschaft geen financiering of hedgingdiensten aan een entiteit die geen gelieerde entiteit is, mits de groep van dergelijke gelieerde entiteiten primair betrokken is bij bedrijfsactiveiten anders dan die van een financiële instelling;  
+
+i. de NFFE is een „uitgezonderde NFFE” zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; *of*  
+
+j) de NFFE voldoet aan alle volgende vereisten: 
+
+i. zij is opgericht en wordt in de staat waarvan zij inwoner is uitsluitend geëxploiteerd voor religieuze, charitatieve, wetenschappelijke, artistieke, culturele, sportieve of educatieve doeleinden; of zij is opgericht in de staat waarvan zij inwoner is en wordt daar geëxploiteerd als een professionele organisatie, bedrijfsvereniging, kamer van koophandel, arbeidsorganisatie, land- of tuinbouworganisatie, burgerorganisatie of als een organisatie uitsluitend ter bevordering van het sociaal welzijn;  
+
+ii. zij is in de staat waarvan zij inwoner is vrijgesteld van inkomstenbelasting;  
+
+iii. zij heeft geen aandeelhouders of leden die als eigenaar of rechthebbende aanspraak kunnen maken op haar inkomsten of vermogen;  
+
+iv. de van toepassing zijnde wetgeving van de staat waarvan de NFFE inwoner is of haar oprichtingsakten staan niet toe dat inkomsten of bezittingen van de NFFE worden uitgedeeld aan of aangewend ten behoeve van een particulier of een niet-charitatieve entiteit anders dan in het kader van de charitatieve activiteiten van de NFFE of ter betaling van een redelijke vergoeding voor verleende diensten of als betaling die een waarde in het economische verkeer vertegenwoordigt van bezittingen die de NFFE heeft verworven; *en*  
+
+v. de van toepassing zijnde wetgeving van de staat waarvan de NFFE inwoner is of haar oprichtingsakten vereisen dat bij liquidatie of opheffing van de NFFE alle bezittingen worden overgedragen aan een overheidslichaam of een andere non-profit organisatie of vervallen aan de overheid van de staat waarvan de NFFE inwoner is of een staatkundig onderdeel daarvan.      
+
+5. *Bestaande rekening*. een financiële rekening die op 30 juni 2014 werd beheerd door een rapporterende financiële instelling.    
+
+C. *Voorschriften voor de aggregatie van saldi en omrekening van valuta.* 
+
+1. *Aggregatie van rekeningen van natuurlijke personen.* Voor het vaststellen van het totale saldo of de totale waarde van financiële rekeningen aangehouden door natuurlijke personen is de rapporterende Nederlandse financiële instelling verplicht alle door haar of door een gelieerde entiteit beheerde financiële rekeningen te aggregeren, maar uitsluitend voor zover de computersystemen van de rapporterende Nederlandse financiële instelling de financiële rekeningen kunnen koppelen op grond van een data-element, zoals een cliëntnummer of fiscaal identificatienummer, en in staat zijn de saldi of waarden te aggregeren. Aan elke houder van een gezamenlijke financiële rekening wordt het volledige saldo of de volledige waarde van de gezamenlijke rekening toegeschreven ten behoeve van de vereiste aggregatie omschreven onder 1.  
+
+2. *Aggregatie van rekeningen van entiteiten.* Voor het vaststellen van het totale saldo of de totale waarde van financiële rekeningen aangehouden door entiteiten is een rapporterende Nederlandse financiële instelling verplicht alle door haar of door een gelieerde entiteit beheerde financiële rekeningen in aanmerking te nemen, maar uitsluitend voor zover de computersystemen van de rapporterende Nederlandse financiële instelling de financiële rekeningen kunnen koppelen op grond van een data-element, zoals cliëntnummer of fiscaal identificatienummer, en in staat zijn de saldi of waarden samen te tellen.  
+
+3. *Bijzondere aggregatieregel voor relatiemanagers.* Voor het vaststellen van het totale saldo of de totale waarde van financiële rekeningen aangehouden door een persoon teneinde te bepalen of een financiële rekening een hogewaarderekening is, is een rapporterende Nederlandse financiële instelling voorts verplicht de saldi van financiële rekeningen waarvan de relatiemanager bekend is dat of indien er aanleiding is om aan te nemen dat die rekeningen direct of indirect in het bezit zijn van, worden beheerd of zijn geopend door dezelfde persoon (anders dan als gevolmachtigde) tezamen te tellen.  
+
+4. *Regel voor de omrekening van valuta.* Voor het vaststellen van het saldo of de waarde van financiële rekeningen die luiden in valuta anders dan de Amerikaanse dollar dient een rapporterende Nederlandse financiële instelling de in deze Bijlage I in Amerikaanse dollar vermelde drempelwaarden om te rekenen met behulp van de gepubliceerde wisselkoers van de laatste dag van het kalenderjaar voorafgaand aan het jaar waarvoor de rapporterende Nederlandse financiële instelling het saldo of de waarde vaststelt.    
+
+D. *Bewijsstukken.* Voor de toepassing van deze Bijlage I omvatten aanvaardbare bewijsstukken mede: 
+
+1. een verklaring omtrent de woonplaats afgegeven door een bevoegd overheidsorgaan (bijvoorbeeld een regering, gemeente of een instantie daarvan) van de staat waarvan de rechthebbende verklaart inwoner te zijn.  
+
+2. in het geval van natuurlijke personen, een geldig identiteitsbewijs afgegeven door een bevoegd overheidsorgaan (bijvoorbeeld een regering, gemeente of een instantie daarvan) met daarop de naam van de natuurlijke persoon en dat gewoonlijk wordt gebruikt als legitimatiebewijs.  
+
+3. in het geval van entiteiten, een officieel document afgegeven door een bevoegd overheidsorgaan (bijvoorbeeld een regering, gemeente of een instantie daarvan) met daarin de naam van de entiteit en hetzij het adres van haar hoofdkantoor in de staat (of het Amerikaanse territorium) waarvan de entiteit verklaart inwoner te zijn, dan wel de staat (of het Amerikaanse territorium) waar de entiteit is opgericht of gevestigd.  
+
+4. in het geval van een financiële rekening beheerd in een staat met voorschriften tegen het witwassen van geld die door de IRS zijn goedgekeurd in verband met een Qualified Intermediary-overeenkomst (omschreven in de desbetreffende regels van het Amerikaanse ministerie van Financiën) een van de documenten genoemd in de bij die staat behorende bijlage van de QI-overeenkomst ter identificatie van natuurlijke personen of entiteiten, anders dan een W-8 of W-9-formulier.  
+
+5. een financiële verklaring, een verklaring van derden omtrent kredietwaardigheid, een faillissementsaanvraag of een rapport van de *U.S. Securities and Exchange Commission*.    
+
+E. *Alternatieve procedures voor financiële rekeningen van begunstigden van een kapitaalverzekering.* Een rapporterende Nederlandse financiële instelling mag aannemen dat de begunstigde (niet zijnde de eigenaar) van een kapitaalverzekering die een uitkering bij overlijden ontvangt geen omschreven Amerikaanse persoon is en een dergelijke financiële rekening behandelen als een niet-Amerikaanse te rapporteren rekening, tenzij haar feitelijk bekend is of als er aanleiding is om aan te nemen dat de begunstigde wel een omschreven Amerikaanse persoon is. Er is aanleiding voor een rapporterende Nederlandse financiële instelling om aan te nemen dat een begunstigde van een kapitaalverzekering een omschreven Amerikaanse persoon is, indien de door haar verzamelde informatie over de begunstigde Amerikaanse indicaties bevat zoals omschreven in onderdeel B.1 van deel II van deze Bijlage I. Indien het een rapporterende Nederlandse financiële instelling feitelijk bekend is dat of als er aanleiding is om aan te nemen dat een begunstigde van een kapitaalverzekering een omschreven Amerikaanse persoon is, dient zij de procedures omschreven in onderdeel B.3 van deel II van deze Bijlage I te volgen.  
+
+F. *Informatie van derden.* Ongeacht of een keuze is gemaakt uit hoofde van onderdeel C van deel I van deze Bijlage I, kan Nederland rapporterende Nederlandse financiële instellingen toestaan zich te baseren op door derden uitgevoerde due diligence-procedures voor zover voorzien in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën.   
+
+### Bijlage  II  
+
+####Niet-rapporterende Nederlandse financiële instellingen en producten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze Bijlage II kan worden gewijzigd met een wederzijds schriftelijk besluit van de bevoegde autoriteiten van Nederland en de Verenigde Staten: 1. teneinde aanvullende entiteiten, rekeningen en producten op te nemen die een laag risico vormen te worden gebruikt door Amerikaanse personen teneinde Amerikaanse belastingen te ontwijken en die op de datum van inwerkingtreding van het Verdrag kenmerken hebben die vergelijkbaar zijn met die van de entiteiten, rekeningen en producten beschreven in deze Bijlage II; of 2. teneinde entiteiten, rekeningen en producten te schrappen die vanwege veranderde omstandigheden niet langer een laag risico vormen te worden gebruikt door Amerikaanse personen teneinde Amerikaanse belastingen te ontwijken. Deze wijzigingen worden van kracht op de datum van ondertekening van het wederzijdse schriftelijke besluit, tenzij daarin anders wordt voorzien. De procedures voor het bereiken van een dergelijk wederzijds besluit kunnen worden opgenomen in de wederzijdse regeling omschreven in artikel 3, zesde lid, van het Verdrag. 
+
+### I  
+
+####Vrijgestelde begunstigden.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende entiteiten worden behandeld als niet-rapporterende Nederlandse financiële instellingen en als vrijgestelde begunstigden voor de toepassing van de artikelen 1471 en 1472 van de U.S. Internal Revenue Code: 
+
+### A 
+
+####Overheidslichamen
+
+1. De regering van Nederland, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam, of een agentschap of instantie daarvan dat of die volledig tot een van de voorgaande behoort.  
+
+2. Lichamen die binnen de reikwijdte van onderdeel 1 vallen zijn in elk geval: 
+
+a. Agentschap van de Generale Thesaurie;  
+
+b. Nederlandse Waterschapsbank N.V.;  
+
+c. N.V. Bank Nederlandse Gemeenten;  
+
+d. Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.;  
+
+e. Gemeentelijke Kredietbanken.     
+
+### B 
+
+####Centrale bank
+
+*De Nederlandsche Bank N.V.* en al haar 100% dochterondernemingen. 
+
+### C  
+
+####Internationale organisaties
+
+Internationale organisaties en hun volledige agentschappen of instanties zoals bedoeld in artikel 39 van de *Algemene wet inzake rijksbelastingen.* 
+
+### D 
+
+####Pensioenfondsen
+
+1. Elke entiteit die in aanmerking komt voor de voordelen ingevolge [artikel 35 (vrijgestelde pensioenfondsen) van het Verdrag ter voorkoming van dubbele belasting](../../../../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/verenigde/staten/etc/BWBV0001109/README.md);  
+
+2. Pensioenfondsen waarop de *Pensioenwet* van toepassing is;  
+
+3. Bedrijfstakpensioenfondsen zoals bedoeld in de* Pensioenwet* en de *Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000*;  
+
+4. Beroepspensioenfondsen zoals bedoeld in de *Wet verplichte beroepspensioensregeling*; een notarieel pensioenfonds zoals bedoeld in de *Wet op het notarisambt*;  
+
+5. Een premiepensioeninstelling zoals bedoeld in de* Wet op het financieel toezicht*;  
+
+6. Een entiteit zoals bedoeld in artikel 19a, tweede lid, van de *Wet op de loonbelasting 1964* die een pensioenregeling beheert voor natuurlijke personen die zowel werknemer als grootaandeelhouder zijn zoals bedoeld in artikel 1 van de *Pensioenwet*;  
+
+7. Een bedrijfspensioenfonds of een bedrijfstakpensioenfonds zoals bedoeld in de *Pensioenwet BES*.   
+
+### E 
+
+####Beleggingsentiteit waarvan de aandelen of participaties volledig in handen is van vrijgestelde begunstigden
+
+Een entiteit die uitsluitend kwalificeert als een Nederlandse financiële instelling omdat zij een beleggingsentiteit is, is op voorwaarde dat elke directe houder van een aandelenbelang in de entiteit een vrijgestelde begunstigde is en elke directe houder van een schuldvordering in een dergelijke entiteit hetzij een instelling die deposito’s neemt (ter zake van een lening aan een dergelijke entiteit) hetzij een vrijgestelde begunstigde is. 
+
+### II  
+
+####FATCA-conform geachte financiële instellingen.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+A. *FATCA-conform geachte financiële instellingen* De volgende financiële instellingen worden voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code behandeld als niet-rapporterende Nederlandse financiële instellingen en als FATCA-conform geachte buitenlandse financiële instellingen: 
+
+1. *Financiële instellingen met een lokaal cliëntenbestand* Elke financiële instelling die voldoet aan elk van de volgende vereisten: 
+
+a. de financiële instelling dient een vergunning te hebben en onder de Nederlandse wetgeving te vallen;  
+
+b. de financiële instelling mag geen vaste bedrijfsinrichting buiten Nederland hebben;  
+
+c. de financiële instelling mag geen rekeninghouders buiten Nederland werven. Bijgevolg wordt een financiële instelling enkel omdat zij een website exploiteert niet geacht rekeninghouders buiten Nederland te hebben geworven, op voorwaarde dat op de website niet specifiek vermeld wordt dat de financiële instelling rekeningen of diensten aanbiedt aan niet-ingezetenen noch anderszins gericht is op het werven van Amerikaanse cliënten;  
+
+d. de financiële instelling dient ingevolge de belastingwetgeving van Nederland hetzij verplicht te zijn tot rapportage, hetzij verplicht te zijn tot het inhouden van belastingen ter zake van rekeningen aangehouden door inwoners van Nederland, of is verplicht rekeningen van inwoners te identificeren teneinde te voldoen aan de due diligence-voorschriften van de Nederlandse AML regelgeving;  
+
+e. ten minste 98 percent van de waarde van de rekeningen beheerd door de financiële instelling, dient te worden aangehouden door inwoners (met inbegrip van inwoners die entiteiten zijn) van Nederland of een andere lidstaat van de Europese Unie;  
+
+f. overeenkomstig onderdeel 1.g hieronder opent de financiële instelling met ingang van 1 juli 2014 geen rekeningen voor i. omschreven Amerikaanse personen die geen inwoner zijn van Nederland (met inbegrip van Amerikaanse personen die inwoner van Nederland waren op het tijdstip waarop de rekening geopend werd en vervolgens ophielden inwoner van Nederland te zijn), ii. niet-participerende financiële instellingen, of iii. passieve NFFE’s met uiteindelijk belanghebbenden die staatsburger of inwoner zijn van de Verenigde Staten;  
+
+g. op of vóór 1 juli 2014 dient de financiële instelling beleid en procedures te implementeren teneinde te monitoren of zij rekeningen beheert die worden aangehouden door een persoon omschreven in onderdeel 1.f en indien een dergelijke rekening wordt ontdekt dient de financiële instelling deze rekening te rapporteren alsof zij een rapporterende Nederlandse financiële instelling is (met inbegrip van de te volgen toepasselijke registratievereisten op de website van de IRS voor FATCA-registratie) of de rekening op te heffen;  
+
+h. ter zake van rekeningen die worden aangehouden door natuurlijke personen die geen inwoner zijn van Nederland of door een entiteit, en die zijn geopend vóór de datum waarop de financiële instelling het beleid en de procedures omschreven in onderdeel 1.g hierboven implementeert, dient de financiële instelling deze rekeningen te controleren in overeenstemming met de procedures omschreven in Bijlage I die van toepassing zijn op bestaande rekeningen teneinde Amerikaanse te rapporteren rekeningen of rekeningen aangehouden door niet-participerende financiële instellingen te identificeren en dient zij de aldus geïdentificeerde rekeningen op te heffen of die te rapporteren alsof de financiële instelling een rapporterende Nederlandse financiële instelling is (met inbegrip van de te volgen toepasselijke registratievereisten op de website van de IRS voor FATCA-registratie);  
+
+i. elke gelieerde entiteit van de financiële instelling dient in Nederland te zijn opgericht of gevestigd en te voldoen aan de vereisten in dit onderdeel onder 1; en  
+
+j. de financiële instelling mag geen beleid of praktijkvoeren voor het openen of beheren van rekeningen dat discriminerend is voor natuurlijke personen die omschreven Amerikaanse personen zijn en die inwoners van Nederland zijn.   
+
+2.*Non-profit organisaties*
+
+a. een algemeen nut beogende instelling („ANBI”) zoals omschreven in artikel 5b van de *Algemene wet inzake rijksbelastingen*;  
+
+b. een sociaal belang behartigende instelling („SBBI”) zoals omschreven in artikel 5c van de *Algemene wet inzake rijksbelastingen*;  
+
+c. een steunstichting SBBI zoals omschreven in artikel 5d van de *Algemene wet inzake rijksbelastingen*;  
+
+d. een charitatieve organisatie zonder aandeelhouders, met inbegrip van religieuze, culturele of wetenschappelijke organisaties zoals bedoeld in artikel 16, eerste lid, onderdeel f, van de *Wet inkomstenbelasting BES*, opgericht in het Caribische deel van Nederland;  
+
+e. de volgende semi-overheidsorganisaties zonder winstoogmerk: 
+
+i. Stichting Stimuleringsfonds Volkshuisvesting Nederlandse Gemeenten;  
+
+ii. Stichting Nationaal Restauratiefonds;  
+
+iii. Stichting Groenfonds;  
+
+iv. Besloten vennootschap met beperkte aansprakelijkheid Nationale Maatschappij tot Behoud, Ontwikkeling en Exploitatie van Industrieel Erfgoed B.V. 
+
+3. Fondsen vrijgesteld ingevolge de *Wet op de vennootschapsbelasting 1969* en opgericht door een Nederlandse vakbond en uitsluitend ten behoeve van het beheren of verstrekken van uitkeringen aan zijn leden indien zij staken* (stakingskassen*) en waarvan de betalingen zijn vrijgesteld ingevolge artikel 3.13, eerste lid, onderdeel f, van de *Wet inkomstenbelasting 2001*. 
+
+4. *Beleggingsadviseurs en (vermogens)beheerders* een beleggingsentiteit die inwoner is van Nederland en wier activiteit uitsluitend bestaat uit het 1. verstrekken van beleggingsadvies aan en op te treden namens een cliënt, of 2. het beheren van portefeuilles voor een cliënt op basis van een volmacht of soortgelijk instrument, (bijvoorbeeld een machtiging tot beleggen) verstrekt door de houder van een financiële rekening of op basis van beleggingsbevoegdheden in de hoedanigheid van directeur ten behoeve van het beleggen, beheren of administreren van fondsen die zijn gestort namens een persoon of entiteit die de machtiging verleent of een vergelijkbaar instrument verleent aan een financiële instelling niet zijnde een niet-participerende financiële instelling. 
+
+B.*Bepaalde beleggingsinstellingen*
+
+1. In het geval dat een beleggingsinstelling inwoner is van Nederland en de deelnemingsrechten in de beleggingsinstelling (met inbegrip van schuldvorderingen hoger dan $ 50.000) worden aangehouden door een of meer, actieve NFFE’s omschreven in onderdeel B.4 van deel VI van Bijlage I, Amerikaanse personen die geen omschreven Amerikaanse personen zijn, of financiële instellingen die geen niet-participerende financiële instellingen zijn, worden dergelijke beleggingsinstellingen voor de toepassing van artikel 1471 van de U.S. Internal Revenue Code behandeld als FATCA-conform geachte buitenlandse financiële instellingen en aan de rapportageverplichtingen van een beleggingsentiteit (niet zijnde een financiële instelling die de deelnemingsrechten in de beleggingsinstelling aanhoudt) wordt geacht te zijn voldaan ter zake van de deelnemingsrechten in de beleggingsinstelling.  
+
+2. Ter zake van deelnemingsrechten in: 
+
+a. een beleggingsentiteit die ingevolge de wetgeving van een partnerstaat wordt behandeld als een beleggingsinstelling, waarvan alle deelnemingsrechten (met inbegrip van schuldvorderingen hoger dan $ 50.000) worden aangehouden door een of meer vrijgestelde begunstigden, actieve NFFE’s omschreven in onderdeel B.4 van deel VI van Bijlage I, Amerikaanse personen die geen omschreven Amerikaanse personen zijn, of financiële instellingen die geen niet-participerende financiële instellingen zijn; of  
+
+b. een beleggingsentiteit die ingevolge de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën wordt erkend als een beleggingsinstelling;   worden de rapportageverplichtingen van een beleggingsentiteit die een Nederlandse financiële instelling is (niet zijnde een financiële instelling via welke deelnemingsrechten in de beleggingsinstelling worden aangehouden) geacht te zijn voldaan. 
+
+3. In het geval dat een beleggingsinstelling inwoner is van Nederland en niet valt onder 1 of 2, overeenkomstig artikel 5, derde lid, van het Verdrag, de informatie over de deelnemingsrechten in de beleggingsinstelling die door de beleggingsinstelling dient te worden gerapporteerd uit hoofde van het Verdrag, wordt gerapporteerd door de beleggingsinstelling of een andere entiteit die valt onder de begripsomschrijving van beleggingsentiteit, dan worden alle entiteiten die vallen onder de begripsomschrijving van beleggingsentiteit geacht te hebben voldaan aan hun rapportageverplichtingen met betrekking tot de deelnemingsrechten in de beleggingsinstelling.     
+
+### III  
+
+####Vrijgestelde producten.
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De volgende categorieën rekeningen en producten geopend in Nederland en beheerd door een Nederlandse financiële instelling worden niet behandeld als financiële rekeningen en zijn bijgevolg geen Amerikaanse te rapporteren rekeningen noch rekeningen aangehouden door een niet-participerende financiële instelling overeenkomstig het Verdrag: 
+
+### A 
+
+####Bepaalde pensioenrekeningen of -producten
+
+1. Elke rekening die eigendom is van een entiteit genoemd in onderdeel I van deze Bijlage II;  
+
+2. Alle producten die pensioenuitkeringen bieden uit hoofde van de *Wet op de loonbelasting 1964* of de *Wet loonbelasting BES*;  
+
+3. Alle producten die aftrekbaar zijn in de opbouwfase en belastbaar zijn in de fase van uitkering waarop de artikelen 3.124, 3.125 en 3.126a van de *Wet inkomstenbelasting 2001* of artikel 16, eerste lid, onderdelen a en e, van de *Wet inkomstenbelasting BES* van toepassing zijn;  
+
+4. Rekeningen of producten die ingevolge een overeenkomst tussen de Verenigde Staten en een andere partnerstaat ter uitvoering van FATCA zijn uitgesloten van de omschrijving van financiële rekeningen, mits voor deze rekeningen of producten ingevolge de wetgeving van deze partnerstaten dezelfde vereisten en hetzelfde toezicht gelden als wanneer deze rekeningen en producten zouden zijn geopend in die partnerstaat en zouden worden beheerd door een financiële instelling in die partnerstaat.   
+
+### B 
+
+####Bepaalde overige fiscaal gefaciliteerde rekeningen of producten
+
+1. De Kapitaalverzekering Eigen Woning, zoals omschreven in artikel 3.116 van de *Wet Inkomstenbelasting 2001*, een Spaarrecht Eigen Woning, een Beleggingsrecht Eigen Woning, de Kapitaalverzekering Eigen Woning, zoals omschreven in artikel 3.116a van de *Wet Inkomstenbelasting 2001* en een bouwdepot;  
+
+2. Een Stamrecht, zoals omschreven in artikel 11, eerste lid, onderdeel g, en artikel 11a van de *Wet loonbelasting 1964*;  
+
+3. Levensloopproducten (waaronder een levenslooprekening, een levensloopverzekering en een levenslooprecht van deelneming), geopend en aangehouden vóór 1 januari 2012.   
+
+### C  
+
+####Overige vrijgestelde producten
+
+1. Lijfrenten, hetzij toegekend ter zake van de afkoop van alimentatie zoals bepaald in artikel 6.5 of zoals bedoeld in artikel 6.6 van de *Wet inkomstenbelasting 2001*;  
+
+2. Begrafenisverzekeringspolissen met een premie van ten hoogste € 1.000 per jaar.   
 

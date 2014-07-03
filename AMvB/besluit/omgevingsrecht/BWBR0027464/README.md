@@ -1599,7 +1599,7 @@ b. inrichtingen als bedoeld in onderdeel 8.3, onder p en q.
 
 a. het in de buitenlucht houden van honden of roofvogels of vogels van de families papegaaien, lori’s, kaketoes, pelikanen, kraanvogels, pinguïns, parelhoenders, reigers en roerdompen en het geslacht pauwen;  
 
-b. dierentuinen in de zin van [artikel 1, onder a, van het Dierentuinenbesluit](../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md);  
+b. dierentuinen als bedoeld in [artikel 4.1 van het Besluit houders van dieren](../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) waarvoor op grond van [artikel 4.2 van dat besluit](../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) een vergunning is vereist; 
 
 c. het kweken van consumptievis;  
 
@@ -2249,7 +2249,7 @@ d. neutraliseren van airbags en gordelspanners niet zijnde het ontsteken van mec
 
 e. aftanken van bij het demonteren van autowrakken of wrakken van tweewielige motorvoertuigen vrijkomende vloeibare brandstofresten ten behoeve van eigen gebruik;    
 
-9°. het opslaan van ten hoogste 100 kubieke meter afgedankte apparatuur als bedoeld in [artikel 1, onderdeel l, van de Regeling beheer elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) die overeenkomstig [artikel 3, tweede lid](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), en [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) zijn ingenomen;  
+9°. het opslaan van ten hoogste 100 kubieke meter afgedankte apparatuur als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Regeling afgedankte elektrische en elektronische apparatuur](../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md) die overeenkomstig [artikel 3, tweede lid](../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md), [artikel 4](../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md) en [artikel 5](../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md) van die regeling zijn ingenomen;  
 
 10°. het opslaan van ten hoogste 5 kubieke meter batterijen, spaarlampen en gasontladingslampen en het opslaan en bijvullen van inkt- en tonercassettes;  
 

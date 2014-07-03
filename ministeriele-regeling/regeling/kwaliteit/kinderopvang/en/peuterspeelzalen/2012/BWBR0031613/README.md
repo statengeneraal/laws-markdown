@@ -284,6 +284,14 @@ d. is te allen tijde rookvrij.
 4.  In een peuterspeelzaalgroep is ten minste één beroepskracht aanwezig.   
 5.  Bij werk in een peuterspeelzaalgroep met meer dan acht feitelijk aanwezige kinderen, doch ten hoogste zestien feitelijk aanwezige kinderen, zijn er twee beroepskrachten of een beroepskracht en een vrijwilliger aanwezig.  
 
+### Artikel  18a  
+
+####Vierogenprincipe bij peuterspeelzaal
+
+Treedt in werking per 01-07-2015 
+
+De houder van een peuterspeelzaal organiseert de opvang op zodanige wijze, dat de beroepskracht of de beroepskracht in opleiding de werkzaamheden uitsluitend kan verrichten terwijl hij gezien of gehoord kan worden door een andere volwassene. 
+
 ### Artikel  19  
 
 ####Adequate vervanging bij calamiteiten

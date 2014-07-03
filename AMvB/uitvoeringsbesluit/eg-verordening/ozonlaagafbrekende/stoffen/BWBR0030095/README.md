@@ -22,7 +22,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 *gereguleerde stoffen:* stoffen als bedoeld in artikel 3, onderdeel 4, van de EG-verordening ozonlaagafbrekende stoffen.   
 
 ### Artikel  1a  
-Treedt in werking per 01-07-2014 
 
 Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone. 
 
@@ -40,6 +39,10 @@ Onze Minister is de bevoegde instantie van een lidstaat, bedoeld in de artikelen
 6.  Het is verboden in strijd te handelen met artikel 24, eerste lid, van de EG-verordening ozonlaagafbrekende stoffen, tenzij vrijstelling als bedoeld in het tweede lid van dat artikel is verleend.   
 7.  Het is verboden in strijd te handelen met een voorschrift dat is verbonden aan een vergunning als bedoeld in de artikelen 10, zesde lid, 15, derde lid, en 17, vierde lid, van de EG-verordening ozonlaagafbrekende stoffen.   
 8.  Het is verboden in strijd te handelen met de toestemming verleend krachtens de artikelen 13, eerste lid, tweede volzin, en 14, tweede tot en met vierde lid, van de EG-verordening ozonlaagafbrekende stoffen of met de goedkeuring verleend krachtens artikel 12, eerste lid, tweede volzin, van die verordening.  
+
+### Artikel  3a  
+
+Het is verboden om chloorfluorkoolstoffen- of chloorfluorkoolwaterstoffenhoudende koel- en vriesapparatuur voor handelsdoeleinden voorhanden te hebben die afkomstig is van particuliere huishoudens of van anderen dan particuliere huishoudens voor zover deze apparatuur naar aard en hoeveelheid vergelijkbaar is met die van particuliere huishoudens. 
 
 ### Artikel  4  
 

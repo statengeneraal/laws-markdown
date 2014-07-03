@@ -27,7 +27,7 @@ f. *Aequor:* het Kenniscentrum Beroepsonderwijs – Bedrijfsleven Aequor;
 
 g. *organisatie:* een organisatie die de belangen behartigt van instellingen bedoeld onder b, c dan wel d en die voor deze instellingen als penvoerder kan optreden voor activiteiten in het kader van het onderwijsbeleid;  
 
-h. *Groene kenniscoöperatie:* de instellingen, bedoeld in onderdeel b, c, d en Wageningen Universiteit en Research centrum die samenwerken met het oog op de verspreiding van kennis en op innovatie door het groen onderwijs, en die daarover afspraken maken met de Minister;  
+h. *Groene Tafel:* de instellingen, bedoeld in onderdeel b, c, d en Wageningen Universiteit en Research centrum die samenwerken met het oog op de verspreiding van kennis en op innovatie door het groen onderwijs, en die daarover afspraken maken met de Minister;  
 
 i. *praktijkleren:* onderwijsleeractiviteiten en toetsen in het kader van examens binnen door de Minister bekostigde opleidingen, die plaatsvinden binnen daartoe specifiek ingerichte situaties buiten de instelling waar de praktijk van het beroep wordt gesimuleerd en waar gerichte instructie in, oefening van en beoordeling van praktijkvaardigheden plaatsvinden;  
 
@@ -53,7 +53,15 @@ s. *organisatie van het bedrijfsleven:* organisatie die de belangen behartigt va
 
 t. *landelijke agenda:* de landelijke agenda, bedoeld in artikel 17;  
 
-u. *meerjarig investeringsprogramma:* het programma, bedoeld in artikel 18.  
+u. *meerjarig investeringsprogramma:* het programma, bedoeld in artikel 18; 
+
+v.door verlettering vervallen;
+
+w.  *vernieuwingsopgaven:* opgaven, waarvan de onderwijsinstellingen, verenigd in de Groene Tafel hebben besloten die gezamenlijk uit te voeren;  
+
+x.  *Strategische ontwikkelagenda:* de agenda van de Groene Tafel waarin de vernieuwingsopgaven, bedoeld in onderdeel w, staan;  
+
+y.  *penvoerder:* een instelling, onderdeel van de Groene Tafel, die activiteiten verricht in verband met uitvoering van de Strategische ontwikkelingsagenda en die bij deze regeling wordt aangewezen als subsidieontvanger.  
 
 ### Paragraaf  2  
 
@@ -229,7 +237,7 @@ g. per activiteit een indicatie van de behoefte aan landelijke ondersteuning;
 
 ### Artikel  27  
 
-1.  De minister kan op aanvraag subsidie verstrekken aan een afdeling, een agrarisch opleidingscentrum, een hogeschool, een onderzoeksinstelling, Aequor, Wageningen Universiteit, de Dienst Landbouwkundig Onderzoek, de Stichting Groene Kennis Coöperatie en de Stichting Ontwikkelcentrum voor activiteiten in verband met de implementatie van zijn onderwijsbeleid.   
+1.  De minister kan op aanvraag subsidie verstrekken aan een afdeling, een agrarisch opleidingscentrum, een hogeschool, een onderzoeksinstelling, Aequor, Wageningen Universiteit, de Dienst Landbouwkundig Onderzoek, een penvoerder en de Stichting Ontwikkelcentrum voor activiteiten in verband met de implementatie van zijn onderwijsbeleid.   
 2.  De minister kan op aanvraag subsidie verstrekken aan een organisatie, bedoeld in artikel 1, onderdeel g, voor gezamenlijke activiteiten in verband met de implementatie van zijn onderwijsbeleid.   
 3.  De minister kan op aanvraag subsidie verstrekken aan een organisatie van het bedrijfsleven voor activiteiten in verband met de implementatie van zijn beleid, voor zover dit de verbetering van de aansluiting tussen de vraag naar en het aanbod van postinitiële niet bekostigde opleidingen betreft. 
 
@@ -325,18 +333,37 @@ d. een evaluatie van de mate waarin de realisatie heeft bijgedragen aan het bere
 
 ### Artikel  34  
 
-1.  De minister stelt voor het jaar 2013 aan de Stichting Groene Kennis Coöperatie ten hoogste € 371.000,– ter beschikking, en voor ieder van de jaren 2014 en 2015 € 1.200.000,– voor de kosten van het aan de stichting verbonden bureau en voor de uitvoering van haar werkzaamheden, waaronder in ieder geval voor de inventarisatie van de meerjarige investeringsprogramma’s ten behoeve van de landelijke agenda en de daaruit voortvloeiende ondersteuningsbehoeften die binnen de werkplannen van in ieder geval Groen Kennisnet en de Stichting Ontwikkelcentrum worden geprogrammeerd, en voor de inhoudelijke sturing van de onderwijsvernieuwingsprogramma’s, bedoeld in artikel 34a, tweede lid.   
-2.   De minister stelt voor ieder van de jaren 2013, 2014 en 2015 aan de Stichting Groene Kennis Coöperatie ten hoogste € 1.875.000,– ter beschikking voor de exploitatie en verdere ontwikkeling van Groen Kennisnet.  
-3.  De beschikbaarstelling geschiedt na goedkeuring van de Minister van het werkplan van de Stichting, waarin het werkplan van Groen Kennisnet afzonderlijk is opgenomen. Het werkplan wordt jaarlijks voor 1 september ingediend. De Minister beslist binnen zes weken na ontvangst van het werkplan over de beschikbaarstelling. Hij kan hieraan voorwaarden verbinden betreffende de uitvoering van het werkplan.   
-4.  De Stichting verantwoordt jaarlijks voor 1 juli de besteding en bestemming van de bedragen, bedoeld in het eerste lid, vergezeld van de jaarstukken van de Stichting.  
+1.  De Minister verleent in ieder van de jaren 2014 en 2015 een subsidiebedrag van € 500.000 aan de Aeresgroep, als penvoerder voor de ondersteuning van Groene Tafel, voor: 
+
+a. het ontwikkelen, vaststellen en onderhouden van de Strategische Ontwikkelagenda van de Groene Tafel;  
+
+b. de afstemming van de Strategische Ontwikkelagenda met het bedrijfsleven in de sector Landbouw, Natuurlijke omgeving en Voedsel;  
+
+c. het op basis van de Strategische Ontwikkelagenda afstemmen van de werkplannen, bedoeld in de artikelen 34a, derde lid, 34b, derde lid, 35a, derde lid en 35c, derde lid;  
+
+d. het monitoren van de uitvoering van de werkplannen, bedoeld in de artikelen 34a, derde lid, 34b, derde lid, 35a, derde lid en 35c, derde lid;  
+
+e. het adviseren over de resultaten van de uitvoering van de werkplannen, bedoeld in de artikelen 34a, derde lid, 34b, derde lid, 35a, derde lid en 35c, derde lid.     
+2.  De subsidieverlening geschiedt na goedkeuring door de Minister van het werkplan voor de Groene Tafel en de bijbehorende begroting.   
+3.  Het werkplan voor de Groene Tafel bevat een uitwerking van de taken, bedoeld in het eerste lid.  
 
 ### Artikel  34a  
 
-1.  De minister stelt voor ieder van de jaren 2013, 2014 en 2015 aan de Stichting Groene Kennis Coöperatie € 1.500.000,– ter beschikking voor het onderhoud en de verdere ontwikkeling van onderwijsvernieuwingsprogramma’s voor de domeinen Plant, Dier, Voedsel en Natuur en Leefomgeving en voor domeinoverstijgende thema’s.   
-2.  Een onderwijsvernieuwingprogramma heeft tot doel om op vraag vanuit de instellingen en waar voorkomend van bedrijven in de vier onderscheiden domeinen de onderwijsvernieuwing binnen de instellingen te ondersteunen met de ontsluiting en ontwikkeling van vakinhouden en kennis die dienstbaar is aan de inrichting van een actueel opleidingenaanbod binnen de instellingen.   
-3.  De Groene Kennis Coöperatie draagt zorg voor het overleg tussen de instellingen om te komen tot vaststelling en onderhoud van de onderwijsvernieuwingsprogramma’s.   
-4.  De beschikbaarstelling geschiedt na goedkeuring van de minister van het werkplan van ieder onderwijsvernieuwingsprogramma. Het werkplan wordt jaarlijks voor 1 september ingediend. De minister beslist binnen zes weken na ontvangst van het werkplan over de beschikbaarstelling. Hij kan hieraan voorwaarden verbinden betreffende de uitvoering van het werkplan.   
-5.  De Stichting Groene Kennis Coöperatie verantwoordt jaarlijks voor 1 juli de besteding en bestemming van het bedrag, bedoeld in het eerste lid, vergezeld van de jaarstukken van de Stichting en per onderwijsvernieuwingsprogramma een verslag van werkzaamheden en bereikte resultaten.  
+1.  De Minister verleent in het jaar 2015 aan Wageningen Universiteit, als penvoerder voor Groen Kennisnet, ten hoogste € 3.275.000,– subsidie te besteden in de periode van 2015 tot eind 2017 voor de exploitatie en verdere ontwikkeling van Groen Kennisnet.   
+2.  De subsidieverlening geschiedt na goedkeuring door de Minister van het werkplan voor Groen Kennisnet en de begroting daarbij.   
+3.  Het werkplan bevat een uitwerking van de taken, bedoeld in het eerste lid en wordt opgesteld in afstemming met de Groene Tafel op grond van de Strategische Ontwikkelagenda. De resultaten van deze afstemming staan in het werkplan.  
+
+### Artikel  34b  
+
+1.  De Minister verleent in het jaar 2014 ten hoogste € 250.000,– subsidie, en in het jaar 2015 ten hoogste € 2.000.000,– subsidie te besteden in de periode van 2015 tot eind 2017, aan Hogeschool Inholland, als penvoerder voor onderwijsvernieuwingsprogramma’s, voor het onderhoud en de verdere ontwikkeling van onderwijsvernieuwingsprogramma’s.   
+2.  De subsidieverlening geschiedt na goedkeuring van de Minister van het werkplan voor de onderwijsvernieuwingsprogramma’s en de begroting daarbij.   
+3.  Het werkplan bevat een uitwerking van de taken, als bedoeld in het eerste lid en wordt opgesteld in afstemming met de Groene Tafel op grond van de Strategische Ontwikkelagenda. De resultaten van deze afstemming zijn in het werkplan vermeld.  
+
+### Artikel  34c  
+
+1.  Het werkplan, bedoeld in artikel 34 en 34b, voor het jaar 2014 wordt voor 10 juli 2014 ingediend bij de Minister. Het werkplan voor het jaar 2015 wordt voor 1 oktober 2014 ingediend bij de Minister.   
+2.  Het werkplan, bedoeld in artikel 34a en 34b, gaat vergezeld van een positief advies van de Groene Tafel.   
+3.  Indien de subsidieontvanger, bedoeld in artikel 34a en 34b, de subsidie in 2015, 2016 of 2017 wil besteden, bevat hun werkplan tevens een uitwerking van taken die in 2016 en 2017 worden uitgevoerd.  
 
 ### Artikel  35  
 
@@ -344,22 +371,10 @@ De Minister stelt voor ieder van de jaren 2013, 2014 en 2015 aan de stichting In
 
 ### Artikel  35a  
 
-1.  De Minister stelt voor ieder van de jaren 2013, 2014 en 2015 aan de stichting Ontwikkelcentrum ten hoogste € 2.300.000,– ter beschikking voor de ontwikkeling en vernieuwing van leermiddelen en voor de verspreiding van leermiddelen ten dienste van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs en het educatiebeleid van de Minister.   
-2.  De beschikbaarstelling geschiedt na goedkeuring van de Minister van het werkplan van de stichting voor het komend jaar en de begroting daarbij. De stichting neemt bij de opstelling van dit werkplan de behoeften van één of meer instellingen, samengebracht door de Groene kenniscoöperatie, in acht. Het werkplan wordt niet ingediend dan na afstemming met tenminste de Groene kenniscoöperatie en met de organisaties. De resultaten van deze afstemming zijn in het werkplan vermeld.   
-3.  Het werkplan wordt jaarlijks voor 1 september ingediend en omvat tenminste de activiteiten waarvoor subsidie wordt gevraagd, onderscheiden naar de basisfunctie en de innovatiefunctie van het Ontwikkelcentrum, de doelen van deze activiteiten, het verwachte resultaat en de doorwerking hiervan op de kwaliteit van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs, het educatiebeleid van de Minister en de resultaten van de afstemming met tenminste de Groene kenniscoöperatie en met de organisaties. In het werkplan worden activiteiten waarvoor subsidie wordt gevraagd en activiteiten die de stichting in het verlengde van haar opdracht, zoals bedoeld in het eerste lid, maar voor eigen rekening verwacht te verrichten, duidelijk onderscheiden. De begroting betreft voor ten hoogste 25% de basisfunctie en tenminste 75% voor de innovatiefunctie.   
-4.  De Minister beslist binnen zes weken na ontvangst van het werkplan over de subsidieverlening.   
-5.  De Minister kan bij de subsidieverlening voorwaarden verbinden betreffende de uitvoering van het werkplan.   
-6.  De Minister verstrekt bij goedkeuring van het werkplan de subsidie in twee voorschotten. Het eerste voorschot wordt verstrekt bij goedkeuring van de aanvraag. Het tweede voorschot wordt verstrekt na ontvangst en goedkeuring van een korte voortgangsrapportage. Het totaal aan voorschotten is ten hoogste 80% van het verleende subsidiebedrag.   
-7.  De stichting Ontwikkelcentrum dient voor 1 juli een aanvraag in tot vaststelling van de subsidie, verstrekt voor het voorafgaand jaar.   
-8.  De aanvraag tot vaststelling van een subsidie gaat vergezeld van een financieel verslag betreffende bestemming en besteding van de subsidie, een accountantsverklaring, de jaarstukken van de stichting en een rapportage. Deze rapportage omvat tenminste: 
-
-a. Een verslag van de uitvoering van de activiteiten uit het werkplan, in relatie tot activiteiten die de stichting op basis van cofinanciering heeft verricht;  
-
-b. de mate van realisatie van de doelen van deze activiteiten, en  
-
-c. een evaluatie van de mate waarin deze realisatie heeft bijgedragen aan de doelen van de stichting.     
-9.  In de beschikking tot vaststelling wordt de subsidie vastgesteld op de werkelijk gemaakte en betaalde kosten tot ten hoogste het verleende subsidiebedrag.   
-10.  Een positief resultaat op de gesubsidieerde activiteiten en op producten en diensten die in het kader van een gesubsidieerde activiteit zijn ontwikkeld kan door de Minister worden bestemd voor financiering van activiteiten in het kader van toekomstige werkplannen.  
+1.  De Minister verleent voor het jaar 2015 aan de stichting Ontwikkelcentrum ten hoogste € 2.300.000,– subsidie voor de ontwikkeling en vernieuwing van leermiddelen en voor de verspreiding van leermiddelen ten dienste van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs en het educatiebeleid van de Minister.   
+2.  De subsidieverlening geschiedt na goedkeuring van de Minister van het werkplan van de stichting voor het jaar 2015 en de begroting daarbij.   
+3.  Het werkplan wordt opgesteld in afstemming met de Groene Tafel, op grond van de Strategische Ontwikkelagenda. De resultaten van deze afstemming zijn in het werkplan vermeld. Het werkplan wordt voor 1 oktober 2014 ingediend, vergezeld van een positief advies van de Groene Tafel.   
+4.  Het werkplan omvat tenminste de activiteiten waarvoor subsidie wordt gevraagd, onderscheiden naar de basisfunctie en de innovatiefunctie van het Ontwikkelcentrum, de doelen van deze activiteiten, het verwachte resultaat en de doorwerking hiervan op de kwaliteit van het door de Minister bekostigd voortgezet middelbaar beroepsonderwijs, middelbaar beroepsonderwijs en hoger beroepsonderwijs, het educatiebeleid van de Minister en de resultaten van de afstemming met tenminste de Groene Tafel en met de organisaties. In het werkplan worden activiteiten waarvoor subsidie wordt gevraagd en activiteiten die de stichting in het verlengde van haar opdracht, zoals bedoeld in het eerste lid, maar voor eigen rekening verwacht te verrichten, duidelijk onderscheiden. De begroting betreft voor ten hoogste 25% de basisfunctie en tenminste 75% voor de innovatiefunctie.  
 
 ### Artikel  35b  
 
@@ -370,10 +385,21 @@ c. een evaluatie van de mate waarin deze realisatie heeft bijgedragen aan de doe
 
 ### Artikel  35c  
 
-1.  De minister verstrekt voor ieder van de jaren 2013, 2014 en 2015 aan Aequor jaarlijks subsidie voor de verdere ontwikkeling en in stand houding van arbeidsmarktinformatie betreffende de sectoren Landbouw, Natuurlijke omgeving en Voedsel en voor de beschikbaar stelling van arbeidsinformatie voor in ieder geval de instellingen, bedrijven en organisaties in deze sectoren en voor onderwijsvragenden.   
+1.  De minister verstrekt voor het jaar 2015 aan Aequor jaarlijks subsidie voor de verdere ontwikkeling en in stand houding van arbeidsmarktinformatie betreffende de sectoren Landbouw, Natuurlijke omgeving en Voedsel en voor de beschikbaar stelling van arbeidsinformatie voor in ieder geval de instellingen, bedrijven en organisaties in deze sectoren en voor onderwijsvragenden.   
 2.  Het subsidieplafond voor deze subsidie is € 300.000 per jaar.   
-3.  Het subsidiebedrag wordt ieder jaar vastgesteld op basis van een uitvoeringsplan met begroting, dat jaarlijks voor 1 april aan de minister ter goedkeuring wordt voorgelegd.   
-4.  Aequor verantwoordt jaarlijks voor 1 juli de besteding en bestemming van het bedrag, bedoeld in het eerste lid, vergezeld van een financieel verslag en een verslag van de uitgevoerde activiteiten en bereikte resultaten.  
+3.  Het subsidiebedrag wordt vastgesteld op basis van een uitvoeringsplan en de begroting daarbij, die voor 1 april 2015 aan de Minister ter goedkeuring worden voorgelegd. Het uitvoeringsplan wordt opgesteld in afstemming met de Groene Tafel, op grond van de Strategische Ontwikkelagenda, en met organisaties van het bedrijfsleven. De resultaten van deze afstemming zijn in het uitvoeringsplan vermeld. Bij het uitvoeringsplan voegt Aequor een plan toe voor voortzetting van de activiteiten na 2015.   
+4.  Aequor verantwoordt voor 1 juli 2016 de besteding en bestemming van het bedrag, bedoeld in het eerste lid, vergezeld van een financieel verslag en een verslag van de uitgevoerde activiteiten en bereikte resultaten.  
+
+### Artikel  35d  
+
+1.  De Minister beslist binnen zes weken na ontvangst van het werkplan of uitvoeringsplan over de subsidieverlening, bedoeld in artikel 34, 34a, 34b, 35a en 35c. Hij kan hieraan voorwaarden verbinden betreffende de uitvoering van het werkplan en uitvoeringsplan.   
+2.  Indien het werkplan van 2015, bedoeld in artikel 34a en 34b een uitwerking van taken die in 2016 en 2017 worden uitgevoerd bevat, kan de Minister in de beschikking tot subsidieverlening bepalen dat een subsidie, verleend in het jaar 2015 in de jaren 2015, 2016 en 2017 besteed kan worden.  
+
+### Artikel  35e  
+
+1.  De penvoerders, bedoeld in artikel 34, 34a en 34b, 35a en 35c verantwoorden jaarlijks de bestemming en besteding van de subsidie die in de jaren 2014 en 2015 zijn verleend in hun jaarrekening volgend op het jaar van besteding, vergezeld van een beknopt verslag van uitvoering van de activiteiten waarvoor de subsidie is verleend en de bereikte resultaten en een beknopt financieel verslag.   
+2.  De Minister stelt de subsidie, bedoeld in artikel 34, 34a, 35a en 35c ambtshalve vast binnen 22 weken na het aanleveren van de jaarrekeningen en verslagen, bedoeld in het eerste lid door de penvoerders aan de Minister.   
+3.  In de beschikking tot vaststelling wordt de subsidie vastgesteld op de werkelijk gemaakte en betaalde kosten tot ten hoogste het verleende subsidiebedrag.  
 
 ### Paragraaf  8  
 
@@ -497,7 +523,8 @@ Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (
 
 ### Artikel  40b  
 
-Deze regeling vervalt met ingang van 1 januari 2016. 
+1. Deze regeling vervalt met ingang van 1 januari 2016.  
+2.  Een subsidie die is verstrekt onder de werking van de Regeling praktijkleren en Groene plus wordt beheerst door de bepalingen van die regeling. 
 
 ### Artikel  41  
 
@@ -812,94 +839,4 @@ Formele arrangementen die al zijn aangegaan met bedrijven en andere organisaties
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
-
-### Bijlage 
-2 
-
-####, behorende bij artikel 36d, eerste lid , van de Regeling prakrijkleren en Groene plus
-
-####Formulier samenstelling aanvraagdossier toetsing Groene Opleidingsschool
-
-####Gevraagde informatie
-
-Bij de aanvraag voor de toetsing van de groene opleidingsschool horen onderstaande gegevens en genoemde stukken. Het is van belang dat alle deelnemende partners, ter goedkeuring, hun handtekening op deze aanvraag zetten. Bij elk onderdeel wordt de belangrijkste informatie kernachtig beschreven. Bijlagen bevatten alleen ondersteunende informatie en dienen beperkt en beknopt te zijn. 
-
-### 1  
-
-####Algemene gegevens
-
-### 1.1  
-
-####Administratieve gegevens penvoerende instantie
-
-Naam instelling: Postadres, postcode, plaats: Bezoekadres, postcode, plaats: BRIN-nummer: Status inspectie: Gegevens contactpersoon (naam, telefoon, e-mail): Bankrekeningnummer, tenaamstelling en plaats: Handtekening: 
-
-### 1.2  
-
-####Administratieve gegevens van alle partners, weergegeven per partner:
-
-Naam instelling: Postadres, postcode, plaats: Gegevens contactpersoon (naam, telefoon, e-mail): BRIN-nummer: Status inspectie/accreditatie: Handtekening: 
-
-### 1.3  
-
-####Volume en kenmerken van het aantal studenten
-
-De groene opleidingsschool levert die gegevens waaruit blijkt dat zij voldoet aan de criteria die door het ministerie van EL&I aan volume en kenmerken van het aantal studenten zijn gesteld in de onderstaande overzichten.  *In te vullen voor het geheel van de deelnemende scholen in de Groene Opleidingsschool*   
-
-| --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
-| --- | 2011–2012  | 2012–2013  | 2013–2014  | 2014–2015  |
-| Prognose van het aantal studenten van de door Stoas Hogeschool verzorgde lerarenopleiding waarvan minimaal 40% van het curriculum op de werkplek wordt verzorgd.  | --- | --- | --- | --- |
-
-### 2  
-
-####Gegevens ten behoeve van de beoordeling van het gerealiseerd niveau
-
-2.1 Overzicht van de producten waarop de lerarenopleiding haar oordeel bepaalt over de eindkwalificaties van de student. Dit kan gaan over scripties, portfolio’s, andere vormen van toetsing. In ieder geval gaat het om een geheel van (eind)producten per student. Per product worden de te beoordelen competenties opgegeven.  
-
-2.2 Namenlijst van de afgestudeerden of indien dit er nog niet minstens 10 zijn, aangevuld met de studenten die het verst staan in hun opleiding. Er moet een lijst zijn van minstens 20 namen waaruit de NVAO er 10 kan selecteren. Het gaat om studenten die minstens een voldoende gehaald hebben voor de eindkwalificaties of tussentijdse deelkwalificaties.   Van iedere afgestudeerde of student worden de volgende gegevens in tabelvorm verstrekt: naam en per schooljaar het aantal ECTS dat werd afgelegd binnen de opleidingsschool. 
-
-### 3  
-
-####Gegevens ten behoeve van de beoordeling van de samenwerkingsovereenkomst van de opleidingsschool: de zelfevaluatie
-
-De zelfevaluatie omvat een beschrijving (sterkte-zwakte analyse) aan de hand van de criteria zoals aangegeven in het beoordelingskader. 
-
-3.1 Programma  
-
-3.2 Inzet van personeel  
-
-3.3 Voorzieningen  
-
-3.4 Interne kwaliteitszorg   
-
-####4. Bijlagen
-
-Verplichte bijlagen: 
-
-○ Samenwerkingsovereenkomst waarvan deel kunnen uitmaken: 
-
-a) een opleidingsplan, waarin onder andere: visie rond opleiden in de school, kwaliteitszorg en -borging, onderwijskundige structuur, financiële middelen;  
-
-b) afspraken over rollen, taken en verantwoordelijkheden van elk van de partners bij de uitvoering van het opleidingsplan en bij de beoordeling van de resultaten van diegenen die worden opgeleid;  
-
-c) afspraken over de borging van de kwaliteit van het personeel dat betrokken is bij de groene opleidingsschool;  
-
-d) afspraken over de ontbinding van de samenwerkingsovereenkomst en de gevolgen daarvan voor de betrokken studenten indien een of meer van de partners de primaire taak onvoldoende blijkt te hebben geborgd;  
-
-e) financiële afspraken.    
-
-○ Per deelnemende partner: een overzicht met namen van de personeelsleden die betrokken zijn bij de groene opleidingsschool, met vermelding van de functies in de groene opleidingsschool en het percentage van de aanstelling.   Mogelijke bijlagen: 
-
-○ Reeds toegekende ‘keurmerk(en)’ en de procedure en criteria die erbij gehanteerd worden;  
-
-○ Relevante beleids- en verantwoordingsdocumenten van de partners waaruit hun engagement en ambities blijken met betrekking tot de groene opleidingsschool.   
-
-####Uiterste indieningdatum
-
-De uiterste indieningdatum voor aanvragen ‘toetsing Groene Opleidingsschool’ is 15 oktober 2011. 
-
-####Aantal exemplaren en adresgegevens
-
-De opleidingsschool dient de aanvraag schriftelijk in 10-voud in op volgend adres: NVAO – Postbus 85498 – 2508 CD Den Haag Een digitale versie (in format Word of Adobe-pdf) dient te worden gemaild aan a.vanneygen@nvao.net De groene opleidingsschool stuurt ook een exemplaar van het aanvraagdossier naar het ministerie van EL&I/directie DAI.  *Bij vragen kunt u contact opnemen met mevrouw Ann van Neygen (tel. 070-3122322 of* a.vanneygen@nvao.net*)*  
 

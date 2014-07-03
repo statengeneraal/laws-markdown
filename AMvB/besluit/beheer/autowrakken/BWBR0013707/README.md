@@ -67,7 +67,7 @@ m. autowrakkenrichtlijn: richtlijn nr. 2000/53/EG van het Europees Parlement en 
 ### Artikel  2  
 
 1.  De artikelen 3, 4, 8, onder b en c, 9 tot en met 11 en 15, vierde lid, zijn niet van toepassing op voertuigen als bedoeld in artikel 1, onder a, onderdeel 2°.   
-2.  Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in het [Besluit beheer elektrische en elektronische apparatuur](../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md), de [Regeling beheer elektrische en elektronische apparatuur](../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), het [Besluit beheer batterijen of accu’s 2008](../../../../../AMvB/besluit/beheer/batterijen/en/accu's/2008/BWBR0024491/README.md) of de [Regeling beheer batterijen en accu’s 2008](../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md).  
+2.  Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in de [Regeling afgedankte elektrische en elektronische apparatuur](../../../../../ministeriele-regeling/regeling/afgedankte/elektrische/en/elektronische/apparatuur/BWBR0034782/README.md), het [Besluit beheer batterijen of accu’s 2008](../../../../../AMvB/besluit/beheer/batterijen/en/accu's/2008/BWBR0024491/README.md) of de [Regeling beheer batterijen en accu’s 2008](../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md).  
 
 ### §  2  
 
