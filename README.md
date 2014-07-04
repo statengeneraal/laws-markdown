@@ -56,11 +56,11 @@ If you need more convincing still, watch the following TED talk by Clay Shirky:
 How do I use this?
 ------------------
 
-Every law in this repository is tucked away in a folder structure that has been based on the kind of law, its shortest name, and its unique identifier. I have done this because I don't want to dump 30,000+ files in a single folder with opaque filenames, but rather give them a semantically charged path. I have made sure that the names are Windows-safe (e.g., less than 260 characters without illegal characters). Find the path to a certain ID using the daily-generated [`bwbIdList.json`](bwbIdList.json).
+Every law in this repository is tucked away in a folder structure that has been based on the kind of law, its shortest name, and its unique identifier. I have done this because I don't want to dump 30,000+ files in a single folder with opaque filenames, but rather give them a semantically charged path. I have made sure that the names are Windows-safe (e.g., less than 260 characters without illegal characters). Find the path to a certain ID using the daily-generated [`index.json`](index.json).
 
-Every commit that has a message formatted as `YYYY-MM-DD` is guaranteed to only contain the document changes corresponding to that date. Note that these changes are assumed to be a proxy for legislative changes, but also occur when additional metadata is added to a document (for instance, references are made explicit). Beware.
+Every commit that has a message formatted as `YYYY-MM-DD` is guaranteed to only contain the document changes corresponding to that date. Note that these changes are assumed to be a proxy for legislative changes, but also occur when additional metadata is added to a document (for instance, references are made explicit). Also, it is based on the 'date last modified' field provided by the government metadata. This modification date is not necessarily the date on which a change is actually *in effect*. Beware.
 
-Every commit that has a message that reads `index` is guaranteed to contain only the update of the [bwbIdList.json](bwbIdList.json) file of that day.
+Every commit that has a message that reads `index` is guaranteed to contain only the update of the [index.json](index.json) file of that day.
 
 **Note:** When trying to determine at what date a modification has happened, it is best to look at the *commit message*. Ignore the *commit date* in any case. Initial population of this repository happened somewhere in June 2014 and a lot of laws have  existed before that. I have tried to express this reality in the *author date* of a commit, but seeing as git was meant for code and not for law, modifications from before epoch (January 1st 1970) cannot be properly represented using author date. Law modifications from before this time will have an author date of 1970-01-01, but the commit message shows the actual date formatted as YYYY-MM-DD.
 
