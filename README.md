@@ -5,7 +5,7 @@ What is this?
 -------------
 
 This is a repository that tracks changes of Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book.
-
+t
 Why?
 ----
 
@@ -77,20 +77,20 @@ Something looks wrong?
 
 I have taken a lot of care to produce valid and pretty Markdown, but it's hard to find all edge cases when even official XML [doesn't validate to its own very complex schema](http://wetten.overheid.nl/xml.php?regelingID=BWBR0001842).
 
-The bulk of the work has been getting whitespaces and tables right. If you notice an error, [open an issue](https://github.com/statengeneraal/wettenbestand-markdown/issues) or tinker around with [the code](https://github.com/statengeneraal/wetten-tools) yourself.
+The bulk of the work has been getting whitespaces and tables right. If you notice an error, [open an issue](https://github.com/statengeneraal/wettenbestand-markdown/issues) or tinker around with [the code](https://github.com/statengeneraal/tools-git-updater) yourself.
 
 Also remember that laws typically have more complex markup need than Markdown allows for, so check first if Markdown even supports the desired markup. 
 
 How does it work?
 -----------------
 
-I have set up a daily script that will keep track of the law as it changes. Find the source code [here](https://github.com/statengeneraal/wetten-tools). 
+I have set up a daily script that will keep track of the law as it changes. Find the source code [here](https://github.com/statengeneraal/wetten-git-updater). 
 
 There are three sources I have used for populating this repository: 
 
 1. The [official API from the Dutch government](https://data.overheid.nl/data/dataset/basis-wetten-bestand), which produces information about laws as they are today.
 2. The [MetaLex document server](http://doc.metalex.eu/), which has been tracking Dutch law and converting it to MetaLex since 2010
-3. A [CouchDB database](https://couchdb.apache.org/) I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex documents have some whitespace issues which are relevant when converting to Markdown.  
+3. A [CouchDB database](https://couchdb.apache.org/) I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex document server has some bugs. Source code for the service is [here](https://github.com/statengeneraal/tools-laws-in-couchdb).  
 
 I have taken the XML files in these databases and converted them to the simple markup language [Markdown](http://daringfireball.net/projects/markdown/). A considerable amount of code determines the order of modifying / deleting documents. If a document is not valid anymore, it is deleted from the repository.
 
@@ -99,4 +99,4 @@ Who are you?
 
 This repository is connected to [Open State](http://openstate.eu/), a Dutch organization that promotes open data and the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group in the University of Amsterdam which operates at the intersection of artificial intelligence and law.
 
-Inquiries should go to maartenhoedjes@gmail.com.
+Inquiries go to maartenhoedjes@gmail.com.
