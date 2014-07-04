@@ -5,7 +5,7 @@ What is this?
 -------------
 
 This is a repository that tracks changes of Dutch laws since sometime in 2010. Conceptually, this repository exists somewhere between the [MetaLex Document Server](http://doc.metalex.eu/) and the plain-text of your paper law book.
-t
+
 Why?
 ----
 
