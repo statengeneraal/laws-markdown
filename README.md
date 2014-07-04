@@ -9,7 +9,7 @@ This is a repository that tracks changes of Dutch laws since sometime in 2010. C
 Why?
 ----
 
-This project was inspired by similar projects in other locales (e.g., [Utah](https://github.com/divegeek/utahcode); [Germany](http://www.wired.com/2012/08/bundestag/)). It is something of a statement about transparency through usability. In the words of [Utah code's](https://github.com/divegeek/utahcode) GitHub maintainer:
+This project was inspired by similar projects in other locales (e.g., [Utah](https://github.com/divegeek/utahcode); [Germany](http://www.wired.com/2012/08/bundestag/)). It is something of a statement about transparency. In the words of [Utah code's](https://github.com/divegeek/utahcode) GitHub maintainer:
 
 >...  Its purpose is to publish the state legal code in a way that
 makes it easy for interested individuals to access both its content
