@@ -4370,6 +4370,71 @@ c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installa
 1.  De subsidie bedraagt ten hoogste 95% van de subsidiabele kosten.   
 2.  De subsidie bedraagt ten hoogste € 4500,–.  
 
+### §  6  
+
+####Investeringen in aalbedwelmingsapparatuur
+
+### Artikel  4:66a  
+
+####Subsidiabele activiteiten
+
+1.  De Minister kan aan een onderneming die zich bezighoudt met het slachten of doden van aal voor de verkoop of een samenwerkingsverband van dergelijke ondernemingen als bedoeld in artikel 1:19, subsidie verstrekken voor de aanschaf en installatie van aalbedwelmingsapparatuur die bestemd is voor de verdoving van aal bij de slacht.   
+2.  Subsidie wordt slechts verstrekt indien: 
+
+a. de aalbedwelmingsapparatuur, bedoeld in het eerste lid, in afwijking van artikel 1:2, tweede lid, na 16 juni 2011 en uiterlijk op het moment van de subsidieaanvraag betaald, geleverd en geïnstalleerd is;  
+
+b. de onderneming of het samenwerkingsverband, bedoeld in het eerste lid, een verklaring van de bouwer van de aalbedwelmingsapparatuur kan afgeven waaruit blijkt dat door middel van een hersenfilm wetenschappelijk is aangetoond dat het desbetreffende type aalbedwelmingsapparatuur ervoor zorgt dat: 
+
+1°. een aal voorafgaand aan het doden binnen één seconde wordt verdoofd door middel van elektriciteit;  
+
+2°. een aal pas wordt blootgesteld aan de elektrische stroom op het moment dat de aal zich tussen de elektroden bevindt;  
+
+3°. de toestand van bewusteloosheid en gevoelloosheid ten gevolge van de bedwelming wordt aangehouden totdat het dodingsproces voltooid is;    
+
+c. aan de onderneming, bedoeld in het eerste lid, of aan één van de deelnemers in het samenwerkingsverband, bedoeld in het eerste lid, niet op een eerder moment al subsidie is verstrekt door een bestuursorgaan of door een orgaan van de Europese Unie voor de investering in of ontwikkeling van aalbedwelmingsapparatuur dat gebruikt wordt voor de verdoving van aal bij de slacht.    
+
+### Artikel  4:66b  
+
+####Rangschikking in volgorde van ontvangst
+
+Artikel 1:6 is van toepassing. 
+
+### Artikel  4:66c  
+
+####Indiening aanvraag tot subsidievaststelling
+
+1.  De aanvraag tot subsidievaststelling gaat vergezeld van: 
+
+a. nota's en betaalbewijzen van de aanschaf en installatie van de aalbedwelmingsapparatuur waarop de gemaakte kosten zijn gespecificeerd;  
+
+b. een verklaring van de bouwer van de aalbedwelmingsapparatuur als bedoeld in artikel 4:66a, eerste lid, onderdeel b;     
+2.  De aanvrager overlegt desgevraagd het wetenschappelijk rapport dat ten grondslag ligt aan de verklaring van de bouwer, bedoeld in artikel 4:66a, eerste lid, onder b.  
+
+### Artikel  4:66d  
+
+####Subsidiabele en niet-subsidiabele kosten
+
+1.  De volgende kosten komen in aanmerking voor de subsidie: 
+
+a. kosten voor de aanschaf van de aalbedwelmingsapparatuur;  
+
+b. kosten voor de installatie van de aalbedwelmingsapparatuur.     
+2.  Niet in aanmerking voor subsidie komen: 
+
+a. verschuldigde BTW, en  
+
+b. kosten voor eigen arbeid.     
+3.  Onder aanschaf van de aalbedwelmingsapparatuur, bedoeld in het eerste lid, onderdeel a, wordt niet verstaan aanschaf door middel van huurkoop.   
+4.  De kosten, bedoeld in het eerste lid, komen slechts voor subsidie in aanmerking, indien deze kosten minimaal € 3.000,– bedragen.  
+
+### Artikel  4:66e  
+
+####Hoogte subsidie
+
+1.  De subsidie bedraagt ten hoogste 40% van de subsidiabele kosten.   
+2.  De subsidie bedraagt ten hoogste € 30.000,– voor aalbedwelmingsapparatuur die in een slachtlijn wordt geïntegreerd en die meer dan 500 kilogram aal per dag kan verdoven.   
+3.  De subsidie bedraagt ten hoogste € 3.400,– voor alle overige aalbedwelmingsapparatuur.  
+
 ###Titel 5 
 
 ####Maatregelen voor de kust- en binnenvisserij
@@ -5962,19 +6027,15 @@ a. een tweede energiescherm;
 
 b. verticale ventilatoren;  
 
-c. een hogedruk vernevelingssysteem ten behoeve van kaskoeling;  
+c. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven), waarmee buitenlucht via warmtewisseling (voor)verwarmd, al dan niet gemengd met aangezogen kaslucht, door frequentiegeregelde ventilatoren in de kas gebracht wordt om de kaslucht op een energiezuinige manier te ontvochtigen bij gebruik van energieschermen;  
 
-d. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven), waarmee buitenlucht via warmtewisseling (voor)verwarmd, al dan niet gemengd met aangezogen kaslucht, door frequentiegeregelde ventilatoren in de kas gebracht wordt om de kaslucht op een energiezuinige manier te ontvochtigen bij gebruik van energieschermen;  
+d. diffuus glas met antireflectiecoating;  
 
-e. diffuus glas met antireflectiecoating;  
+e. de aansluiting op een warmtenetwerk of -cluster;  
 
-f. de aansluiting op een warmtenetwerk of -cluster;  
+f. de aansluiting op een biogas- of kooldioxide-netwerk of -cluster;  
 
-g. de aansluiting op een biogas- of kooldioxide-netwerk of -cluster;  
-
-h. een ketel of kachel gestookt op biomassa als bedoeld in [nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
-
-i. een warmtepomp als bedoeld in [nummers 211103, 211104 en 221103 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md).    
+g. een ketel of kachel gestookt op biomassa als bedoeld in [nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md).    
 
 2. Geen subsidie wordt verstrekt voor: 
 
@@ -5982,7 +6043,7 @@ a. gevelschermen, (teeltkundig vereiste) verduisteringsschermen of wettelijk ver
 
 b. een tweede energiescherm, indien het totale energieverbruik van de onderneming meer dan 20 kubieke meter aardgasequivalenten per vierkante meter kasoppervlak bedraagt;  
 
-c. diffuus glas met antireflectiecoating, indien de lichtdoorlatendheid van het glas lager is dan 80% ten opzichte van diffuus licht, of waarbij het PAR-licht lager is dan 90%, of de hazefactor lager is dan 25%.    
+c. diffuus glas met antireflectiecoating, indien de lichtdoorlatendheid van het glas lager is dan 80% hemisferische PAR transmissie of waarbij de loodrechte PAR transmissie lager is dan 90% of de hazefactor lager is dan 25%.    
 
 3. De maximale subsidiabele kosten per vierkante meter geïnstalleerd kasoppervlak bedragen voor: 
 
@@ -5990,11 +6051,9 @@ a. een tweede energiescherm € 5,20;
 
 b. verticale ventilatoren € 3;  
 
-c. een hogedruk vernevelingssysteem € 5;  
+c. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven) € 15;  
 
-d. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven) € 15;  
-
-e. diffuus glas met antireflectiecoating € 10;    
+d. diffuus glas met antireflectiecoating € 10;    
 
 4. Subsidie voor apparatuur, installaties of machines als bedoeld in het eerste lid, onderdeel h, wordt uitsluitend verstrekt indien: 
 
@@ -6026,13 +6085,13 @@ In aanvulling op artikel 2:40, eerste lid, van de regeling komen de door de leve
 
 1. De aanvraag tot subsidieverlening gaat vergezeld van: 
 
-a. een op naam van de aanvrager gestelde offerte van de bouwer of de leverancier, waarop is aangeven welke apparatuur, installatie of machine als bedoeld in punt A het betreft. Deze offerte bevat ook de maximale en werkelijke capaciteit van de apparatuur, installatie of machine voor de categorieën 1, 3, 5 en 7, eerste lid, onderdeel h;  
+a. een op naam van de aanvrager gestelde offerte van de bouwer of de leverancier, waarop is aangeven welke apparatuur, installatie of machine als bedoeld in punt A het betreft. Deze offerte bevat ook de maximale en werkelijke capaciteit van de apparatuur, installatie of machine voor de categorieën 1, 3, 5 en 7, eerste lid, onderdeel g;  
 
-b. een kopie van de laatste jaarafrekening waarop het energieverbruik van de landbouwonderneming staat voor de categorieën 5 en 7, eerste lid, onderdelen a en h;  
+b. een kopie van de laatste jaarafrekening waarop het energieverbruik van de landbouwonderneming staat voor de categorieën 5 en 7, eerste lid, onderdelen a en g;  
 
-c. een bedrijfskaart met daarop ingetekend de totale oppervlakte opstanden van de onderneming en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft voor categorie 7, eerste lid, onderdelen a tot en met e;  
+c. een bedrijfskaart met daarop ingetekend de totale oppervlakte opstanden van de onderneming en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft voor categorie 7, eerste lid, onderdelen a tot en met d;  
 
-d. een kaart met daarop ingetekend de totale oppervlakte van de betrokken opstand en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft inclusief opgave van lengte van de voorziening in meters en de afstand tussen de onderneming en het netwerk in meters voor categorie 7, eerste lid, onderdelen f en g.    
+d. een kaart met daarop ingetekend de totale oppervlakte van de betrokken opstand en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft inclusief opgave van lengte van de voorziening in meters en de afstand tussen de onderneming en het netwerk in meters voor categorie 7, eerste lid, onderdelen e en f.    
 
 2. De aanvraag tot subsidievaststelling gaat vergezeld van: 
 

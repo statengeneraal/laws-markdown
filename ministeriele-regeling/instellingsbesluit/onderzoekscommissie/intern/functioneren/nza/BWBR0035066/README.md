@@ -24,7 +24,9 @@ Er is een Onderzoekscommissie intern functioneren NZa, hierna te noemen: de comm
 
 a. de handelwijze van de Nederlandse Zorgautoriteit ten aanzien van de in de brief van de minister van 9 april 2014, 360903-119731-MC, bedoelde voormalige medewerker van de Nederlandse Zorgautoriteit en de daarmee verband houdende werksfeer binnen de Nederlandse Zorgautoriteit;  
 
-b. het borgen van de ICT-veiligheid en de vertrouwelijkheid van dossiers bij de Nederlandse Zorgautoriteit alsmede de beoordeling van de inmiddels door de Nederlandse Zorgautoriteit genomen maatregelen.     
+b. het borgen van de ICT-veiligheid en de vertrouwelijkheid van dossiers bij de Nederlandse Zorgautoriteit alsmede de beoordeling van de inmiddels door de Nederlandse Zorgautoriteit genomen maatregelen;  
+
+c. het aan de hand van de casus marktscan medisch specialistische zorg 2012 en het toekennen van extra financiële ruimte aan het Oogziekenhuis Rotterdam in 2011 en 2012, beoordelen van de systeemrelatie tussen de Nederlandse Zorgautoriteit en het Ministerie van VWS, tegen de achtergrond van het geldende (wettelijke) kader van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), de [Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en het Informatiestatuut VWS-NZa. Dit in aanvulling op de reeds lopende evaluatie van de NZa op basis van de Kaderwet zelfstandige bestuursorganen.    
 2.  De commissie publiceert haar onderzoeksrapport op uiterlijk 31 augustus 2014. Uiterlijk vier weken na publicatie wordt de commissie ontbonden.  
 
 ### Artikel  4  
@@ -44,8 +46,7 @@ De commissie wordt bijgestaan door een secretariaat. De commissie kan zich voort
 
 ### Artikel  6  
 
-1.  Aan de voorzitter van de commissie wordt voor de duur van zijn werkzaamheden als voorzitter van de commissie een vaste vergoeding per maand toegekend waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,4 fte.   
-2.  Aan de leden van de commissie wordt voor de duur van hun werkzaamheden als lid van de commissie een vaste vergoeding per maand toegekend waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 17 van [Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,4 fte.  
+Aan de voorzitter van de commissie wordt voor de duur van zijn werkzaamheden als voorzitter van de commissie een vaste vergoeding per maand toegekend waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,3 fte. 
 
 ### Artikel  7  
 

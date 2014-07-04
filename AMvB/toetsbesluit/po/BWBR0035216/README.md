@@ -16,13 +16,13 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 In dit besluit wordt verstaan onder: 
 
@@ -48,13 +48,13 @@ In dit besluit wordt verstaan onder:
 
 ####Centrale eindtoets en andere eindtoetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  2  
 
 ####Centrale eindtoets en andere eindtoetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Het bevoegd gezag neemt bij de leerlingen in het achtste schooljaar een centrale eindtoets of andere eindtoets af.   
 2.  Het bevoegd gezag besluit welke eindtoets aan de school wordt afgenomen.   
@@ -72,7 +72,7 @@ De eindtoets meet welk eindniveau de leerling heeft behaald ten opzichte van de 
 
 ####Kenmerken eindtoets
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Onverminderd [artikel 9b van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 18b van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), voldoet een eindtoets aan de volgende kenmerken: 
 
@@ -84,7 +84,7 @@ c. de inhoud is gebaseerd op het algemene deel in de toetswijzer, bedoeld in [ar
 
 d. de opgaven over Nederlandse taal en rekenen en wiskunde worden jaarlijks ververst,  
 
-e. het toetsresultaat geeft een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen,  
+e. dit onderdeel is nog niet in werking getreden,  
 
 f. de toets is geschikt voor alle leerlingen met uitzondering van de leerlingen bedoeld in [artikel 9b, vierde lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) en [artikel 18b, vierde lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
 
@@ -100,7 +100,7 @@ j. de inhoud van de toets wordt verantwoord in een handleiding die een beschrijv
 
 ####Afnamevoorschriften
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  De directeur neemt de eindtoets af onder verantwoordelijkheid van het bevoegd gezag en draagt zorg voor voldoende toezicht tijdens de afname van de eindtoets. Hij kan zijn taken aan een of meer toetsleiders overdragen.   
 2.  De eindtoets wordt afgenomen in overeenstemming met de afnameaanwijzingen die zijn opgenomen in het toetsreglement bij de desbetreffende toets.   
@@ -110,7 +110,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Onregelmatigheden en onvoorziene omstandigheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Indien bij de afname van de eindtoets een onregelmatigheid wordt geconstateerd, dan kan de directeur maatregelen treffen. De directeur meldt de onregelmatigheid en de getroffen maatregelen aan de inspectie.   
 2.  Indien de eindtoets naar het oordeel van de inspectie, al dan niet nadat de directeur maatregelen heeft getroffen, niet op regelmatige wijze is afgenomen, kan de inspectie besluiten dat de toets geheel of gedeeltelijk voor een of meer leerlingen opnieuw wordt afgenomen. De eindtoets is in ieder geval niet op regelmatige wijze afgenomen indien is gehandeld in strijd met het betreffende toetsreglement.   
@@ -120,7 +120,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toetsreglement
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Bij elke eindtoets wordt door de betreffende toetsaanbieder een toetsreglement vastgesteld, waarin de wijze van afnemen wordt geregeld. Daarbij worden ten minste geregeld: 
 
@@ -140,7 +140,7 @@ f. de wijze waarop door de directeur toezicht wordt gehouden op leerlingen die d
 
 ####Leerlingrapport
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  De toetsaanbieder stelt voor iedere leerling die de eindtoets aflegt een leerlingrapport op, waarin ten minste het resultaat van de eindtoets, het niveau waarop de toets is afgelegd, een advies omtrent het vervolgonderwijs en een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen als bedoeld in artikel 3 worden opgenomen.   
 2.  Het leerlingrapport maakt deel uit van het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 43, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md).  
@@ -149,13 +149,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toelating andere eindtoetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  9  
 
 ####Procedure toelating andere eindtoetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  De aanvrager dient een aanvraag om toelating van een andere eindtoets voor 1 augustus van het schooljaar van eerste afname in bij Onze minister. Bij de aanvraag toont de aanvrager aan dat de andere eindtoets voldoet aan de kenmerken, genoemd in artikel 4. De aanvraag vermeldt in ieder geval de wijze waarop de beheersing van de referentieniveaus wordt gemeten. De aanvraag gaat in ieder geval vergezeld van de handleiding, bedoeld in artikel 4, onderdeel j, een concept toetsreglement, de toetsopgaven en de normering van de toets.   
 2.  Onze minister besluit binnen dertien weken op de aanvraag. Een besluit tot toelating van een andere eindtoets wordt in de Staatscourant gepubliceerd. Een eindtoets wordt voor vier jaar toegelaten, tenzij het besluit tot toelating tussentijds wordt ingetrokken.   
@@ -166,7 +166,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Subsidie toegelaten andere eindtoetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Onze minister verstrekt subsidie aan de toetsaanbieder van een andere eindtoets die op grond van artikel 9 is toegelaten. De subsidie wordt jaarlijks verstrekt en bestaat uit een basisbedrag vermeerderd met een bedrag per leerling die de toets heeft afgelegd.   
 2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van het subsidiebedrag.   
@@ -176,13 +176,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kwaliteit toetsen leerling- en onderwijsvolgsystemen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  11  
 
 ####Kwaliteit toetsen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Onze minister wijst de commissie die hem op grond van artikel 9, derde lid, adviseert, aan om het kwaliteitsoordeel over inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering, bedoeld in [artikel 8, zevende lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 11, achtste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) te geven.   
 2.  Het kwaliteitsoordeel wordt gegeven over een enkele toets of over een reeks van toetsen. De toetsen meten in ieder geval de kennis en vaardigheden van de leerling op het terrein van Nederlandse taal en rekenen en wiskunde. De toetsen kunnen de kennis en vaardigheden van de leerling op de overige terreinen, genoemd in [artikel 8, tweede lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of [artikel 11, tweede lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), meten.   
@@ -198,13 +198,13 @@ c. de wijze waarop de leervorderingen van leerlingen voor de ouders, voogden of 
 
 ####Wijziging andere besluiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  12  
 
 ####Wijziging [Besluit bekostiging WPO](../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt het Besluit bekostiging WPO. 
 
@@ -212,7 +212,7 @@ Wijzigt het Besluit bekostiging WPO.
 
 ####Wijziging [Inrichtingsbesluit WVO](../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt het Inrichtingsbesluit WVO. 
 
@@ -220,7 +220,7 @@ Wijzigt het Inrichtingsbesluit WVO.
 
 ####Wijziging Toetsbesluit PO
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt dit besluit. 
 
@@ -228,13 +228,13 @@ Wijzigt dit besluit.
 
 ####Slot- en overgangsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 ### Artikel  15  
 
 ####Overgangsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  Tot de datum, bedoeld in [artikel 9b, tiende lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) is dit besluit niet van toepassing op leerlingen van een speciale school voor basisonderwijs.   
 2.  Tot de datum waarop [artikel II van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)](../../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(centrale/eindtoets/en/etc/BWBR0034687/README.md) (Stb 2014, 13) in werking treedt, is dit besluit niet van toepassing op leerlingen van scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs.   
@@ -244,7 +244,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
@@ -252,7 +252,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Dit besluit wordt aangehaald als: Toetsbesluit PO. 
 

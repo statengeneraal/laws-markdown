@@ -10,47 +10,47 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een ver
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet op het primair onderwijs.
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet op de expertisecentra.
 
 ### Artikel  IIA  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet College voor examens. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet subsidiëring landelijke onderwijsondersteunende activiteiten.
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  VI  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Wet op het onderwijstoezicht.
 
 ### Artikel  VII  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt de Leerplichtwet 1969.
 
 ### Artikel  VIII  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Voor de toepassing van [artikel 10a van de Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) worden de leerresultaten over een periode van 3 schooljaren 
 
@@ -62,14 +62,14 @@ c. in het derde schooljaar na inwerkingtreding van artikel I, onderdeel D, van d
 
 ### Artikel  IX  
 
-####Samenloop met het wetsvoorstel tot wijziging van onder meer de wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs
+####Samenloop met het wetsvoorstel tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Wijzigt deze wet.
 
 ### Artikel  X  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat 
 

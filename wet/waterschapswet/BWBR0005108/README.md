@@ -34,26 +34,26 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Bepalingen voor het opheffen, het instellen en het reglementeren van waterschappen 
 
-###Artikel 3 
+### Artikel  3  
 
-1. Indien naar het oordeel van gedeputeerde staten gronden aanwezig zijn om het opheffen of instellen van een waterschap, de vaststelling van een reglement voor een waterschap of een wijziging van een dergelijk reglement te overwegen, treden zij voor de bepaling van hun standpunt in overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft, alvorens zij toepassing geven aan artikel 4, eerste lid. 
-2.  Gedeputeerde staten handelen dienovereenkomstig indien zij hun standpunt moeten bepalen ten aanzien van ofwel een soortgelijk voorstel van het algemeen bestuur van een waterschap ofwel een voornemen van Onze Minister van Verkeer en Waterstaat ingevolge artikel 8, tweede lid. 
+1.  Indien naar het oordeel van gedeputeerde staten gronden aanwezig zijn om het opheffen of instellen van een waterschap, de vaststelling van een reglement voor een waterschap of een wijziging van een dergelijk reglement te overwegen, treden zij voor de bepaling van hun standpunt in overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft, alvorens zij toepassing geven aan artikel 4, eerste lid.    
+2.   Gedeputeerde staten handelen dienovereenkomstig indien zij hun standpunt moeten bepalen ten aanzien van ofwel een soortgelijk voorstel van het algemeen bestuur van een waterschap ofwel een voornemen van Onze Minister van Infrastructuur en Milieu ingevolge artikel 8, tweede lid.   
 
-###Artikel 4 
+### Artikel  4  
 
-1. Op de voorbereiding van een besluit als bedoeld in artikel 2, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.
-2.  Gedeputeerde staten voegen bij hun voorstel aan provinciale staten tot vaststelling van het besluit zowel het ontwerp-besluit als de naar voren gebrachte zienswijzen, of een samenvatting daarvan, vergezeld van hun standpunt inzake die zienswijzen. 
-3.  Gedeputeerde staten zenden het door provinciale staten vastgestelde besluit, met de in het tweede lid bedoelde stukken, binnen vier weken aan Onze Minister van Verkeer en Waterstaat. 
+1.  Op de voorbereiding van een besluit als bedoeld in artikel 2, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.   
+2.   Gedeputeerde staten voegen bij hun voorstel aan provinciale staten tot vaststelling van het besluit zowel het ontwerp-besluit als de naar voren gebrachte zienswijzen, of een samenvatting daarvan, vergezeld van hun standpunt inzake die zienswijzen.    
+3.   Gedeputeerde staten zenden het door provinciale staten vastgestelde besluit, met de in het tweede lid bedoelde stukken, binnen vier weken aan Onze Minister van Infrastructuur en Milieu.   
 
 ### Artikel  5  
 
-Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van de taak of het gebied van een waterschap behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. 
+Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van de taak of het gebied van een waterschap behoeft de goedkeuring van Onze Minister van Infrastructuur en Milieu. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. 
 
 ### Artikel  5a  
 
 1.  Bij of krachtens reglement worden in verband met de vaststelling of wijziging van de taak van een waterschap de waterstaatswerken aangewezen die op een daarbij bepaalde datum in beheer overgaan van de provincie, van een gemeente of van een onder toepassing van de Wet gemeenschappelijke regelingen ingesteld openbaar lichaam naar het waterschap.   
 2.  De oude en de nieuwe beheerder gaan, tenzij anders overeengekomen, binnen twee jaar na de in het eerste lid bedoelde datum over tot onvoorwaardelijke levering onderscheidenlijk aanvaarding van de desbetreffende onroerende goederen, voorzover deze daarvan niet bij of krachtens reglement zijn uitgezonderd.   
-3.  De oude en de nieuwe beheerder stellen, tenzij anders overeengekomen, binnen zes maanden na de in het eerste lid bedoelde datum gezamenlijk vast, of in verband met de overgang van rechten en verplichtingen een verrekening nodig is en tot welk bedrag. Bij gebreke van overeenstemming binnen die termijn beslissen, de oude en de nieuwe beheerder gehoord, gedeputeerde staten, dan wel – indien de provincie de oude beheerder is – Onze Minister van Verkeer en Waterstaat.  
+3.  De oude en de nieuwe beheerder stellen, tenzij anders overeengekomen, binnen zes maanden na de in het eerste lid bedoelde datum gezamenlijk vast, of in verband met de overgang van rechten en verplichtingen een verrekening nodig is en tot welk bedrag. Bij gebreke van overeenstemming binnen die termijn beslissen, de oude en de nieuwe beheerder gehoord, gedeputeerde staten, dan wel – indien de provincie de oude beheerder is – Onze Minister van Infrastructuur en Milieu.  
 
 ### Artikel  5b  
 
@@ -69,19 +69,19 @@ Het opheffen of instellen van een waterschap dan wel het vaststellen van een reg
 ### Artikel  7  
 
 1.  Indien de besturen van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de opheffing of instelling van een waterschap voor de waterstaatkundige verzorging van een in hun provincies gelegen gebied, dan wel over de vaststelling of wijziging van een reglement voor een dergelijk waterschap, omdat zij van mening verschillen over hetzij de noodzaak hetzij de inhoud van het te nemen besluit, kan daarin bij algemene maatregel van bestuur worden voorzien. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
-2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan artikel 4, eerste en tweede lid, en hoort hij gedeputeerde staten van de desbetreffende provincies.    
+2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Infrastructuur en Milieu overeenkomstige toepassing aan artikel 4, eerste en tweede lid, en hoort hij gedeputeerde staten van de desbetreffende provincies.    
 3.   [Artikel 4 van de Waterstaatswet 1900](../../../wet/waterstaatswet/1900/BWBR0001867/README.md) (*Stb.* 176) is op het in het eerste lid bedoelde geval niet van toepassing.   
 
 ### Artikel  8  
 
 1.  Indien het belang van een goede organisatie van de waterstaatkundige verzorging van een gebied, dat in een of meer provincies is gelegen, het opheffen of het instellen van een waterschap dan wel de vaststelling of wijziging van het reglement voor een waterschap vordert en provinciale staten van de provincie of provincies daarvoor niet de nodige besluiten nemen, kunnen zij bij koninklijk besluit, de Raad van State gehoord, worden uitgenodigd om daartoe over te gaan binnen een in dat besluit te stellen termijn. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
-2.   Indien Onze Minister van Verkeer en Waterstaat het voornemen heeft een besluit als bedoeld in het eerste lid te bevorderen, geeft hij hiervan kennis aan gedeputeerde staten der provincie of provincies wier gebied het betreft, onder mededeling van de overwegingen waarop het voornemen berust.    
-3.   Binnen twaalf weken nadat de in het tweede lid bedoelde kennisgeving is geschied, vindt overleg plaats tussen Onze Minister van Verkeer en Waterstaat en het college of de colleges van gedeputeerde staten van de desbetreffende provincie of provincies.   
+2.   Indien Onze Minister van Infrastructuur en Milieu het voornemen heeft een besluit als bedoeld in het eerste lid te bevorderen, geeft hij hiervan kennis aan gedeputeerde staten der provincie of provincies wier gebied het betreft, onder mededeling van de overwegingen waarop het voornemen berust.    
+3.   Binnen twaalf weken nadat de in het tweede lid bedoelde kennisgeving is geschied, vindt overleg plaats tussen Onze Minister van Infrastructuur en Milieu en het college of de colleges van gedeputeerde staten van de desbetreffende provincie of provincies.   
 
 ### Artikel  9  
 
 1.  Indien aan een uitnodiging als bedoeld in artikel 8, eerste lid, niet binnen de gestelde termijn gevolg is gegeven, kan, behoudens verlenging van die termijn, bij algemene maatregel van bestuur overeenkomstig de strekking van de uitnodiging een waterschap worden opgeheven of ingesteld alsmede het reglement voor een waterschap worden vastgesteld of gewijzigd. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
-2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan artikel 4, eerste tot en met vierde lid, en hoort hij gedeputeerde staten van de desbetreffende provincie of provincies.    
+2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Infrastructuur en Milieu overeenkomstige toepassing aan artikel 4, eerste tot en met vierde lid, en hoort hij gedeputeerde staten van de desbetreffende provincie of provincies.    
 3.   De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum waarop deze in het *Staatsblad* is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.   
 
 ###Titel II 
@@ -94,7 +94,8 @@ Het opheffen of instellen van een waterschap dan wel het vaststellen van een reg
 
 ### Artikel  10  
 
-Het bestuur van een waterschap bestaat uit een algemeen bestuur, een dagelijks bestuur en een voorzitter, onverminderd hetgeen het reglement bepaalt over de benaming van die onderscheidene bestuursorganen.  
+1. Het bestuur van een waterschap bestaat uit een algemeen bestuur, een dagelijks bestuur en een voorzitter, onverminderd hetgeen het reglement bepaalt over de benaming van die onderscheidene bestuursorganen.  
+2.  De voorzitter is voorzitter van het algemeen bestuur en het dagelijks bestuur. 
 
 ### Hoofdstuk  IV  
 
@@ -103,11 +104,6 @@ Het bestuur van een waterschap bestaat uit een algemeen bestuur, een dagelijks b
 ### §  1  
 
 ####De samenstelling 
-
-### Artikel  11  
-
-1. In dit hoofdstuk en de daarop berustende bepalingen wordt onder ingezetenen verstaan: zij die hun werkelijke woonplaats in het waterschap hebben. 
-2. Zij die volgens de basisregistratie personen woonachtig zijn in het gebied van het waterschap worden, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in dat waterschap.
 
 ### Artikel  12  
 
@@ -137,124 +133,102 @@ d.degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebo
 
 ### §  2  
 
-####De verkiezing 
+####De zittingsduur, het lidmaatschap en de plaatsvervanging
 
 ### Artikel  15  
 
-Deze paragraaf is van toepassing op de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onder a.
+1.  Deze paragraaf is van toepassing op vertegenwoordigers van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d.   
+2.  In deze paragraaf wordt verstaan onder: «organisatie»: organisatie als bedoeld in artikel 14, eerste tot en met derde lid, belast met de benoeming van een vertegenwoordiger van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c of d. 
 
 ### Artikel  16  
 
-De leden van het algemeen bestuur worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het waterschap en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn. [Artikel B 5, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.
+1.  De vertegenwoordigers van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, worden benoemd voor vier jaren.   
+2.  Zij treden tegelijk af met ingang van de donderdag in de periode van 23 tot en met 29 maart.   
+3.  Degene die ter vervulling van een opengevallen plaats is benoemd tot lid, treedt af op het tijdstip waarop degenen in wiens plaats hij is benoemd, zou hebben moeten aftreden.  
 
 ### Artikel  17  
 
-1. Indien een waarborging van evenwichtige vertegenwoordiging van de binnen een waterschap bestaande belangen daartoe aanleiding geeft, kan bij reglement het waterschapsgebied worden ingedeeld in kiesdistricten, onder vaststelling van het aantal zetels per kiesdistrict. 
-2. In het geval als bedoeld in het eerste lid, vindt de kandidaatstelling en stemming plaats per kiesdistrict. 
-3. Voor de verkiezing binnen een kiesdistrict zijn stemgerechtigd de ingezetenen die volgens de basisregistratie personen woonachtig zijn in het kiesdistrict en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn.
+De organisatie geeft de benoemde schriftelijk kennis van zijn benoeming. De organisatie geeft tegelijkertijd schriftelijk kennis van de benoeming aan het algemeen bestuur.  
 
 ### Artikel  18  
 
-1. Voor de verkiezing van de leden van het algemeen bestuur stelt het dagelijks bestuur een stembureau in, bestaande uit vijf leden van wie er één voorzitter en één plaatsvervangend voorzitter is. 
-2. De voorzitter van het waterschap is voorzitter van het stembureau. De plaatsvervangend voorzitter en de andere leden, alsmede drie plaatsvervangende leden worden door het dagelijks bestuur benoemd en ontslagen. 
-3. De in het tweede lid bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden. 
-4. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent de taken en werkwijze van het stembureau.
+1.  De benoemde deelt uiterlijk op de tiende dag na de dagtekening van de kennisgeving, bedoeld in artikel 17, het algemeen bestuur schriftelijk mede dat hij de benoeming aanvaardt. Bij een benoeming die plaatsvindt na de eerste samenkomst van het nieuwe algemeen bestuur, deelt de benoemde uiterlijk op de achtentwintigste dag na de dagtekening van de kennisgeving, schriftelijk aan het algemeen bestuur mede dat hij de benoeming aanvaardt.   
+2.  Tegelijk met de mededeling dat hij de benoeming aanvaart, overlegt de benoemde, een door hem ondertekend overzicht met de door hem beklede openbare betrekkingen.    
+3.  Tenzij de benoemde op het tijdstip van benoeming reeds lid was van het algemeen bestuur, legt hij tevens een gewaarmerkt afschrift over uit de basisregistratie personen, waaruit zijn woonplaats en datum en plaats van de geboorte blijken.    
+4.  Indien de benoemde geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in [artikel B 3, tweede lid, aanhef en onderdeel a, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md).   
+5.  Indien de benoemde de benoeming niet aanvaardt, doet hij daarvan binnen de in het eerste lid genoemde termijn bij brief mededeling aan de voorzitter van het algemeen bestuur. Deze geeft hiervan kennis aan de organisatie.    
+6.  Is binnen de desbetreffende vereiste termijn, bedoeld in het eerste lid, de mededeling niet gedaan, dan wordt hij geacht de benoeming niet te aanvaarden.    
+7.  Zolang nog niet tot toelating van de benoemde is besloten, kan hij bij brief aan het algemeen bestuur mededelen dat hij op de aanneming van de benoeming terugkomt. Deze mededeling geldt als niet-aanvaarding.    
+8.  De voorzitter van het algemeen bestuur deelt aan de organisatie mee dat de benoemde de benoeming heeft aanvaard dan wel dat hij dat niet heeft gedaan.  
 
 ### Artikel  19  
 
-1. De kandidaatstelling geschiedt door een belangengroepering waarvan de aanduiding is geregistreerd bij het stembureau. De belangengroepering is een vereniging met volledige rechtsbevoegdheid of een stichting. 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
-
-a.de in het eerste lid bedoelde registratie;
-
-b.het tijdstip van de kandidaatstelling;
-
-c.de kandidatenlijsten;
-
-d.het onderzoek, de nummering en de openbaarmaking van de kandidatenlijsten door het stembureau. 
-3. Bij algemene maatregel van bestuur kan worden bepaald dat voor de registratie van de in het eerste lid bedoelde aanduiding en voor de inlevering van de kandidatenlijst een waarborgsom moet worden betaald.
+1.  Het algemeen bestuur onderzoekt de kennisgeving, bedoeld in artikel 17, onmiddellijk en beslist of de benoemde als lid van dat algemeen bestuur wordt toegelaten. Daarbij gaat het na of de benoemde voldoet aan de vereisten voor het lidmaatschap, genoemd in de artikelen 31, eerste en tweede lid, en 33, eerste en tweede lid, en of de benoeming, bedoeld in artikel 14, overeenkomstig de wet en het reglement is uitgevoerd.   
+2.  Indien het algemeen bestuur besluit tot niet-toelating van een benoemde, geeft de voorzitter van het algemeen bestuur daarvan kennis aan de organisatie en de benoemde.   
+3.  Uiterlijk op de dertigste dag nadat deze kennisgeving is ontvangen, wordt door de organisatie opnieuw een vertegenwoordiger benoemd. 
 
 ### Artikel  20  
 
-1. De verkiezingen worden gehouden bij geheime stemming. 
-2. De stemming vindt plaats in een bij algemene maatregel van bestuur vastgestelde periode. 
-3. Het uitbrengen van de stem geschiedt per brief of, voorzover het waterschap de kiesgerechtigde daartoe in de gelegenheid stelt, met behulp van informatie- en communicatietechnologie.  
-4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
-
-a.het stemmen per brief;
-
-b.het stemmen met behulp van informatie- en communicatietechnologie;
-
-c.de stemopneming;
-
-d.de vaststelling en bekendmaking van de verkiezingsuitslag. 
-5. Bij de vaststelling van de verkiezingsuitslag zijn gekozen die kandidaten die een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, voor zover aan de lijst voldoende zetels zijn toegewezen.
+1.  Indien door de toepassing van de artikelen 31, derde lid, of 33, vierde lid, onherroepelijk is vastgesteld dat een lid van het algemeen bestuur opgehouden is lid te zijn, geeft de voorzitter van het algemeen bestuur hiervan onmiddellijk kennis aan de organisatie.    
+2.  Een overeenkomstige kennisgeving vindt plaats, indien door het overlijden van een lid een plaats in het algemeen bestuur is opengevallen.    
+3.  Een tot het algemeen bestuur toegelaten lid kan te allen tijde zijn ontslag nemen. Op een ingediend ontslag kan niet worden teruggekomen. Ontslagneming met terugwerkende kracht is niet mogelijk.   
+4.  Het lid bericht zijn ontslagname schriftelijk aan de voorzitter van het algemeen bestuur. Deze geeft hiervan onverwijld kennis aan de organisatie.    
+5.  Na de kennisgeving van de voorzitter van het algemeen bestuur, bedoeld in het eerste, tweede en vierde lid, wordt door de organisatie een daarvoor in aanmerking komende nieuwe vertegenwoordiger benoemd. De artikelen 17 tot en met 19 zijn op deze benoeming en toelating van toepassing.   
+6.  Leden van het algemeen bestuur die hun ontslag hebben ingezonden, behouden, ook indien zij ontslag hebben genomen met ingang van een bepaald tijdstip, hun lidmaatschap, totdat de toelating van hun opvolgers onherroepelijk is geworden.  
 
 ### Artikel  21  
 
-1. Tegen bij algemene maatregel van bestuur aangewezen besluiten, die met toepassing van die maatregel worden genomen met het oog op de verkiezing van de leden van het algemeen bestuur en die naar hun aard noodzaken tot een spoedige behandeling van de daartegen ingestelde beroepen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. 
-2.  [Titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing.  
-3. In afwijking van [artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling kan een kortere termijn stellen. 
-4. De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). [Afdeling 8.2.4.](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft buiten toepassing. Aan het dagelijks bestuur wordt terstond een afschrift van het beroepschrift gezonden. 
-5. Bij algemene maatregel van bestuur kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de termijn voor het indienen van de in het eerste lid bedoelde beroepschriften worden bekort.
+1.  De voorzitter van het algemeen bestuur verleent aan een lid van dat bestuur dat is toegelaten op diens verzoek tijdelijk ontslag wegens zwangerschap en bevalling op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling, zoals die blijkt uit een door het lid overgelegde verklaring van een arts of verloskundige. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur, bedoeld in artikel 16.   
+2.  De voorzitter van het algemeen bestuur verleent aan een lid van dat orgaan op diens verzoek tijdelijk ontslag, indien het lid wegens ziekte niet in staat is het lidmaatschap uit te oefenen en blijkens de verklaring van een arts aannemelijk is dat hij de uitoefening van het lidmaatschap niet binnen acht weken zal kunnen hervatten. Het tijdelijk ontslag gaat in op de dag na de bekendmaking van de beslissing op het verzoek. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur, bedoeld in artikel 16.   
+3.  Het lidmaatschap van het lid aan wie tijdelijk ontslag als bedoeld in het eerste lid of tweede lid is verleend, herleeft van rechtswege met ingang van de dag waarop zestien weken zijn verstreken sinds de dag van ingang van het tijdelijk ontslag.   
+4.  Aan een lid van het algemeen bestuur wordt ten hoogste drie maal per zittingsperiode tijdelijk ontslag als bedoeld in het eerste of het tweede lid verleend. 
 
 ### Artikel  22  
 
-De [artikelen Z 1 tot en met Z 5](../../../wet/kieswet/BWBR0004627/README.md), [Z 11](../../../wet/kieswet/BWBR0004627/README.md) en [Z 12 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) zijn van overeenkomstige toepassing.
+1.  De voorzitter van het algemeen bestuur beslist op een verzoek tot tijdelijk ontslag als bedoeld in artikel 21, eerste of tweede lid, uiterlijk op de veertiende dag na indiening van het verzoek.   
+2.  De beslissing op het verzoek tot tijdelijk ontslag geschiedt in overeenstemming met de verklaring van de arts of verloskundige, bedoeld in artikel 21, eerste of tweede lid.   
+3.  Een beslissing tot tijdelijk ontslag bevat de dag van ingang van het ontslag.   
+4.  De voorzitter van het algemeen bestuur geeft van een beslissing tot tijdelijk ontslag onmiddellijk kennis aan de organisatie. 
+
+### Artikel 23 
+
+1.  De organisatie benoemt een vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in de artikelen 21 en 22. De artikelen 17 tot en met 19 zijn van toepassing op de benoeming en toelating.   
+2.  Degene die als vervanger is benoemd, houdt op lid te zijn met ingang van de dag waarop zestien weken zijn verstreken sinds de dag van ingang van het tijdelijk ontslag, onverminderd de mogelijkheid dat het vervangende lidmaatschap ingevolge deze wet op een eerder tijdstip eindigt.   
+3.  Indien de vervanger van het lid van het algemeen bestuur aan wie tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, voortijdig ontslag neemt, dan wel wordt benoemd tot lid van het algemeen bestuur voor een plaats die is opengevallen anders dan als gevolg van een tijdelijk ontslag, benoemt de voorzitter van de organisatie een nieuwe tijdelijke vervanger voor de resterende periode van het tijdelijk ontslag.   
+4.  Artikel 20, zesde lid, is niet van toepassing op een vervanger. 
+
+### Artikel 24 
+
+1.  De voorzitter van het algemeen bestuur doet een afschrift van een benoemingsbesluit toekomen aan het algemeen bestuur en maakt de benoeming bekend met toepassing van artikel 73, tweede lid.    
+2.  Het lidmaatschap van de benoemde vangt aan zodra het besluit omtrent zijn toelating aan hem bekend is gemaakt. 
 
 ###§ 3 
 
 ####De zittingsduur, het begin van het lidmaatschap en de plaatsvervanging
 
-### Artikel 23 
-
-1. De zittingsduur van het algemeen bestuur is vier jaar. 
-2. De leden van het algemeen bestuur treden tegelijk af met ingang van de donderdag in de periode van 2 tot en met 8 januari.
-
-### Artikel 24 
-
-1. Het algemeen bestuur beslist of degene die is gekozen dan wel is benoemd als lid wordt toegelaten. 
-2. Toelating tot het algemeen bestuur van de in het eerste lid bedoelde persoon kan slechts worden geweigerd indien die persoon niet aan de vereisten voor het lidmaatschap voldoet of een met het lidmaatschap onverenigbare functie vervult, dan wel, voorzover dat bij algemene maatregel van bestuur is bepaald, indien sprake is van onregelmatigheden bij de voordracht of de verkiezing zelf. 
-3. Bij algemene maatregel van bestuur worden regels gesteld omtrent de toelating tot het algemeen bestuur.
-
-### Artikel 25 
-
-Bij algemene maatregel van bestuur worden regels gesteld omtrent:
-
-a.de beëindiging van het lidmaatschap van het algemeen bestuur;
-
-b.de opvolging in opengevallen plaatsen in het algemeen bestuur;
+Vervallen per 01-07-2014 
 
 ### § 4 
 
-####Bijzondere bepalingen in verband met de instelling van een waterschap tijdens de zittingsperiode
+####Bijzondere bepalingen in verband met de instelling van een waterschap
 
 ### Artikel 26 
 
-Voor de toepassing van deze paragraaf wordt aan de instelling van een nieuw waterschap gelijkgesteld de overgang van een aanmerkelijk gedeelte van het gebied van een waterschap naar dat van een ander waterschap.
-
-### Artikel 27 
-
-1. In afwijking van artikel 23 kan bij het besluit tot opheffing of instelling van een waterschap de zittingsduur van het zittende algemeen bestuur worden verkort, dan wel verlengd met ten hoogste twee jaren indien dit wenselijk is met het oog op het instellen van een nieuw waterschap. 
-2. In het geval als bedoeld in het eerste lid, treden de op de dag, voorafgaande aan de datum van instelling van het waterschap, zitting hebbende leden van het algemeen bestuur van de betrokken waterschappen met ingang van die datum af.
+1. Voor de toepassing van deze paragraaf wordt aan de instelling van een nieuw waterschap gelijkgesteld de overgang van een aanmerkelijk gedeelte van het gebied van een waterschap naar dat van een ander waterschap. 
+2.  Voor de toepassing van deze paragraaf wordt aan de opheffing van een waterschap gelijkgesteld de overgang van een aanmerkelijk gedeelte van het gebied van dat waterschap naar een ander waterschap. 
 
 ### Artikel 28 
 
-1. Bij het besluit tot instelling van een waterschap wordt het waterschap aangewezen dat met de voorbereiding van de verkiezingen belast is. 
-2. De in artikel 18, eerste lid, bedoelde bevoegdheid, onderscheidenlijk de in artikel 24, eerste lid, bedoelde bevoegdheden berusten bij het dagelijks bestuur, onderscheidenlijk het algemeen bestuur van het ingevolge het eerste lid aangewezen waterschap. 
+1. Bij het besluit tot instelling van een waterschap wordt het waterschap aangewezen dat met de voorbereiding van die instelling belast is. 
+2. De in [artikel E 6a, eerste en derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) bedoelde bevoegdheid, onderscheidenlijk de in [artikel V 4, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) en artikel 19, eerste lid, bedoelde bevoegdheden berusten bij het dagelijks bestuur, onderscheidenlijk het algemeen bestuur van het ingevolge het eerste lid aangewezen waterschap. 
 3. Voorzover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het waterschap, geschiedt dit door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het ingevolge het eerste lid aangewezen waterschap.
 
-### Artikel 29 
+### Artikel  29  
 
-1. Bij een algemene maatregel van bestuur als bedoeld in artikel 19, tweede lid, kan worden bepaald dat bij een besluit tot instelling van een waterschap kan worden afgeweken van bij die maatregel gestelde termijnen. 
-2. Bij een besluit tot instelling van een waterschap kan worden afgeweken van de krachtens artikel 20, tweede lid, gestelde stemmingsperiode, met dien verstande dat de stemming voor de datum van instelling van het nieuwe waterschap plaatsvindt. 
-3. De zittingsperiode van de leden van het algemeen bestuur van het in te stellen waterschap eindigt tegelijk met de zittingsperiode van de leden van de algemene besturen van de overige waterschappen die zitting hebben op de datum van instelling van het waterschap. 
-4.  Indien de zittingsperiode van de leden van het algemeen bestuur ingevolge het derde lid eindigt binnen twee jaren en acht dagen na de instelling van het waterschap vinden de verkiezingen niet plaats in dat waterschap en eindigt de zittingsperiode van dat algemeen bestuur in afwijking van dat lid tegelijk met de zittingsperiode van de leden van de algemene besturen van de overige waterschappen die volgt op de eerste verkiezingen voor de waterschappen na de datum van instelling.  
-5. De benoeming van de leden en de plaatsvervangende leden van het stembureau geschiedt, in afwijking van het bepaalde in artikel 18, derde lid, voor een periode die eindigt op hetzelfde tijdstip als de eerste zittingsperiode van de nieuw gekozen algemene besturen van de waterschappen.
-
-### Artikel 30 
-
-In afwijking van artikel 16, worden de leden van het algemeen bestuur van een in te stellen waterschap gekozen door degenen die op de dag van kandidaatstelling volgens de basisregistratie personen woonachtig zijn in het gebied van het in te stellen waterschap en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn.
+1.  Bij een besluit tot instelling van een waterschap als bedoeld in artikel 2, eerste lid, wordt bepaald dat een algemeen bestuur wordt aangesteld voor het in te stellen waterschap. Op de samenstelling van dit algemeen bestuur zijn de artikelen 12, 13 en 14 van toepassing, met dien verstande dat in artikel 13, eerste lid, voor «bij reglement» wordt gelezen: bij het besluit tot instelling van het waterschap.   
+2.  De verdeling van het aantal zetels van het algemeen bestuur, bedoeld in het eerste lid, bestemd voor vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel a, vindt plaats naar rato van het aantal kiesgerechtigde ingezetenen bij de laatstgehouden verkiezingen in elk op te heffen waterschap. De zetels worden toegewezen op grond van de uitslag en lijstcombinaties van deze verkiezingen. De [artikelen P 2 tot en met P 19a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) zijn hierop van toepassing.   
+3.  Het in het eerste lid bedoelde algemeen bestuur treedt af bij het eindigen van de zittingsperiode, bedoeld in [artikel C 4 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) dan wel bij het opheffen van het desbetreffende waterschap, indien dit eerder plaatsvindt.   
+4.  De commissaris van de Koning benoemt uiterlijk één maand voor de beoogde datum van instelling van het waterschap een waarnemend voorzitter. Deze voorzitter treedt af op het tijdstip dat een voorzitter wordt benoemd bij koninklijk besluit, bedoeld in artikel 46, eerste lid. 
 
 ### §  5  
 
@@ -298,7 +272,15 @@ o.ambtenaar, door of vanwege het waterschapsbestuur aangesteld of daaraan onderg
 p.ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op het waterschap;
 
 q. lid van het algemeen bestuur of van het dagelijks bestuur van een ander waterschap.   
-3.   Zodra een lid van het algemeen bestuur blijkt niet te voldoen aan een der in het eerste lid bedoelde vereisten of blijkt een in het tweede lid bedoelde betrekking te vervullen, houdt deze op lid te zijn. In dat geval is [artikel X 5 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+3.  Zodra een lid dat vertegenwoordiger is van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, niet blijkt te voldoen aan een van de in het eerste lid bedoelde vereisten of een in het tweede lid bedoelde betrekking blijkt te vervullen, houdt deze op lid te zijn. In dat geval is [artikel X 4a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.  
+
+### Artikel  31a  
+
+Leden van het dagelijks bestuur die na de stemming, bedoeld in [artikel J 6a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), niet zijn toegelaten tot lid van het algemeen bestuur zijn geen lid van dat algemeen bestuur. 
+
+### Artikel  31b  
+
+Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van het algemeen bestuur hij die na de laatstgehouden periodieke verkiezing van de leden in het algemeen bestuur, behorende bij de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel a, wegens handelen in strijd met artikel 33 van het lidmaatschap van het algemeen bestuur is vervallen verklaard. 
 
 ### Artikel  32  
 
@@ -341,11 +323,7 @@ d.rechtstreeks of middellijk een overeenkomst aangaan betreffende:
 7°.het onderhands huren of pachten van het waterschap. 
 2. Van het eerste lid, aanhef en onderdeel d, kunnen gedeputeerde staten ontheffing verlenen. 
 3. Het algemeen bestuur stelt voor zijn leden, voor de leden van het dagelijks bestuur en voor de voorzitter een gedragscode vast. 
-4. Ten aanzien van een lid dat handelt in strijd met het bepaalde in het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing, met dien verstande dat wordt gelezen voor:
-
-a.burgemeester en wethouders: het dagelijks bestuur;
-
-b.de raad: het algemeen bestuur. 
+4.  Ten aanzien van een lid dat vertegenwoordiger is van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, dat handelt in strijd met het bepaalde in het eerste lid, zijn de [artikelen X 7a, eerste tot en met vijfde lid](../../../wet/kieswet/BWBR0004627/README.md), en [X 9 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), van overeenkomstige toepassing.  
 
 ### Artikel  34  
 
@@ -429,8 +407,13 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 1.  De leden van het dagelijks bestuur, met uitzondering van de voorzitter, worden door het algemeen bestuur benoemd.    
 2.   De benoeming vindt plaats uit de leden van het algemeen bestuur.    
 3.   Gedeputeerde staten kunnen, indien het reglement dat bepaalt, ontheffing verlenen van het bepaalde in het tweede lid. Geen ontheffing wordt verleend indien het de ombudsman of een lid van de ombudscommissie betreft als bedoeld in artikel 51b, eerste lid.   
-4.   De zittingsduur van het dagelijks bestuur is vier jaar. Bij toepassing van artikel 27, eerste lid, is de zittingsduur dienovereenkomstig korter of langer. De leden van het dagelijks bestuur, met uitzondering van de voorzitter, treden af tegelijk met het optreden van de leden van het nieuwe algemeen bestuur.   
-5.   Niettemin kan het algemeen bestuur een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
+4.  De leden van het dagelijks bestuur treden in ieder geval na de stemming, bedoeld in [artikel J 6a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), af: 
+
+a. op het moment dat ten minste de helft van het door het algemeen bestuur te benoemen aantal leden van het dagelijks bestuur is benoemd en deze benoemingen zijn aanvaard; en  
+
+b. binnen drie maanden na het begin van de zittingsduur van het algemeen bestuur.     
+5.  Het algemeen bestuur kan een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
+6.  Indien het aantal leden van het dagelijks bestuur dat in functie is, minder bedraagt dan de helft van het door het algemeen bestuur vastgestelde aantal leden, treedt de voorzitter in de plaats van het dagelijks bestuur totdat dit aantal de hierbedoelde helft heeft bereikt.  
 
 ### §  2  
 
@@ -477,8 +460,8 @@ Ten aanzien van de leden van het dagelijks bestuur zijn de artikelen 38 tot en m
 
 1.  De voorzitter van het waterschap wordt benoemd en herbenoemd bij koninklijk besluit. Hij kan bij koninklijk besluit worden geschorst en ontslagen.    
 2.   De benoeming geschiedt voor de tijd van zes jaar.    
-3.  Voor de benoeming maakt het algemeen bestuur een aanbeveling op. Bij de aanbeveling zijn de naar het oordeel van het algemeen bestuur voor de geschiktheid van belang zijnde overwegingen gevoegd. Het algemeen bestuur zendt de aanbeveling aan gedeputeerde staten, die deze vergezeld van hun beschouwingen zenden aan Onze Minister van Verkeer en Waterstaat.   
-4.  Indien Onze Minister van Verkeer en Waterstaat van oordeel is dat de op de aanbeveling geplaatste persoon of personen ongeschikt zijn, verzoekt hij om een nieuwe aanbeveling.   
+3.  Voor de benoeming maakt het algemeen bestuur een aanbeveling op. Bij de aanbeveling zijn de naar het oordeel van het algemeen bestuur voor de geschiktheid van belang zijnde overwegingen gevoegd. Het algemeen bestuur zendt de aanbeveling aan gedeputeerde staten, die deze vergezeld van hun beschouwingen zenden aan Onze Minister van Infrastructuur en Milieu.   
+4.  Indien Onze Minister van Infrastructuur en Milieu van oordeel is dat de op de aanbeveling geplaatste persoon of personen ongeschikt zijn, verzoekt hij om een nieuwe aanbeveling.   
 5.  Een voordracht van een niet op de aanbeveling geplaatste persoon geschiedt niet alvorens het algemeen bestuur en gedeputeerde staten zijn gehoord.  
 
 ### Artikel  47  
@@ -834,7 +817,7 @@ e. het vaststellen van verordeningen, behoudens het bepaalde in het derde lid;
 
 f. het vaststellen van peilbesluiten;  
 
-g. het vaststellen van plannen krachtens bijzondere wetten.     
+g. het vaststellen van plannen krachtens bijzondere wetten, met uitzondering van projectplannen als bedoeld in [hoofdstuk 5 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md).     
 3.   De bevoegdheid tot het maken van keuren kan het algemeen bestuur slechts overdragen voorzover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door het algemeen bestuur in zijn verordeningen aangewezen onderwerpen.    
 4.   De voorschriften met betrekking tot de bevoegdheid van het algemeen bestuur, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de met toepassing van het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing, met uitzondering van die betreffende vergaderingen.   
 
@@ -888,7 +871,7 @@ Vervallen per 01-09-2002
 ### Artikel  94  
 
 1.  De voorzitter bevordert een goede behartiging van de taken van het waterschap.    
-2.   Hij heeft de leiding van de vergaderingen van het algemeen en van het dagelijks bestuur. In de vergadering van het algemeen bestuur heeft hij raadgevende stem.    
+2.   In de vergadering van het algemeen bestuur heeft de voorzitter een raadgevende stem.    
 3.   Hij ondertekent alle stukken welke van het algemeen en het dagelijks bestuur uitgaan.   
 
 ### Artikel  95  
@@ -915,7 +898,8 @@ De voorzitter vertegenwoordigt het waterschap in en buiten rechte. Indien de voo
 
 ### Artikel  98  
 
-Het waterschap draagt de kosten die zijn verbonden aan de behartiging van de taken die het waterschap in het reglement zijn opgedragen. Evenwel worden, voorzover de behartiging van die taken redelijkerwijs moet worden geacht het belang van het gebied van het waterschap te boven te gaan op grond dat deze tevens in belangrijke mate is de behartiging van een nationaal of provinciaal belang, aan het waterschap bijdragen verleend ten laste van de kas van het Rijk onderscheidenlijk die van de desbetreffende provincie of provincies.  
+1. Het waterschap draagt de kosten die zijn verbonden aan de behartiging van de taken die het waterschap in het reglement zijn opgedragen. Evenwel worden, voorzover de behartiging van die taken redelijkerwijs moet worden geacht het belang van het gebied van het waterschap te boven te gaan op grond dat deze tevens in belangrijke mate is de behartiging van een nationaal of provinciaal belang, aan het waterschap bijdragen verleend ten laste van de kas van het Rijk onderscheidenlijk die van de desbetreffende provincie of provincies.   
+2.  De waterschappen zijn een vergoeding verschuldigd voor de kosten van gemeenten die zijn verbonden aan de organisatie van de verkiezingen van de leden van het algemeen bestuur. Onze Minister van Infrastructuur en Milieu stelt de vergoeding vast en kan de vergoeding invorderen bij dwangbevel. Onze Minister van Infrastructuur en Milieu kan regels stellen over de berekening van de te betalen vergoeding, de wijze van betaling van de verschuldigde vergoeding en het tijdstip waarop de verschuldigde vergoeding wordt voldaan. 
 
 ###Artikel 98a 
 
@@ -1481,7 +1465,7 @@ Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de heffing ter 
 
 ### Artikel  133  
 
-In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Ministers van Verkeer en Waterstaat en van Financiën, het internationale gebruik daartoe noodzaakt, wordt vrijstelling van waterschapsbelastingen verleend. Onze genoemde Ministers kunnen gezamenlijk ter zake nadere regels stellen.  
+In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Ministers van Infrastructuur en Milieu en van Financiën, het internationale gebruik daartoe noodzaakt, wordt vrijstelling van waterschapsbelastingen verleend. Onze genoemde Ministers kunnen gezamenlijk ter zake nadere regels stellen.  
 
 ### Artikel  134  
 
@@ -1527,7 +1511,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/inv
 1.  De in [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap.    
 2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.    
 3.  Het algemeen bestuur kan bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.   
-4.  Met inachtneming van door Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Financiën, te stellen regels kan het algemeen bestuur met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
+4.  Met inachtneming van door Onze Minister van Infrastructuur en Milieu, in overeenstemming met Onze Minister van Financiën, te stellen regels kan het algemeen bestuur met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
 5.   Het dagelijks bestuur kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de ambtenaar van het waterschap, belast met de invordering van waterschapsbelastingen van de verplichting verdere pogingen tot invordering te doen.   
 
 ### Artikel  145  
@@ -1589,7 +1573,7 @@ Het waterschapsbestuur neemt opnieuw een besluit omtrent het onderwerp van het v
 ### Artikel  164  
 
 1.  Een besluit tot het instellen en reglementeren van een waterschap, waarvan het gebied in twee of meer provincies is gelegen, bevat een regeling omtrent de uitoefening van het toezicht ingevolge deze Titel hetzij van enige andere vorm van toezicht. Wordt bij dat besluit aan de colleges van gedeputeerde staten de gemeenschappelijke uitoefening van het toezicht opgedragen, dan worden daarbij tevens regels gesteld omtrent de gemeenschappelijke voorbereiding van de ter uitoefening van dat toezicht te nemen besluiten.    
-2.   Indien de colleges van gedeputeerde staten niet tot overeenstemming kunnen komen over het te nemen besluit binnen de voor de uitoefening van het toezicht geldende termijn, dan wel, indien geen termijn geldt, binnen redelijke termijn, delen zij dit schriftelijk mede aan Onze Minister van Verkeer en Waterstaat. In dat geval wordt op de voordracht van deze minister, gedaan na overleg met die colleges, het besluit genomen bij koninklijk besluit, de Raad van State gehoord. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
+2.   Indien de colleges van gedeputeerde staten niet tot overeenstemming kunnen komen over het te nemen besluit binnen de voor de uitoefening van het toezicht geldende termijn, dan wel, indien geen termijn geldt, binnen redelijke termijn, delen zij dit schriftelijk mede aan Onze Minister van Infrastructuur en Milieu. In dat geval wordt op de voordracht van deze minister, gedaan na overleg met die colleges, het besluit genomen bij koninklijk besluit, de Raad van State gehoord. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
 
 ### Titel  VI  
 
@@ -1605,19 +1589,7 @@ Artikel 44, vierde tot en met zevende lid, artikel 44a, vierde en vijfde lid, on
 
 ### Artikel  174  
 
-1.  In afwijking van artikel 23 en onverminderd artikel 27 blijft het op 31 december 2012 zittende algemeen bestuur aan tot 8 januari 2015.   
-2.  Onverminderd artikel 27 treden de leden van het in het eerste lid bedoelde algemeen bestuur tegelijk af met ingang van 8 januari 2015.  
-
-### Artikel  175  
-
-1.  Bij een besluit tot instelling van een waterschap als bedoeld in artikel 2, eerste lid, voor 1 januari 2013 kan worden bepaald dat: 
-
-a. in afwijking van de artikelen 27, tweede lid, en 28 geen verkiezingen worden gehouden ten behoeve van het in te stellen waterschap;  
-
-b. een algemeen bestuur wordt aangesteld voor het in te stellen waterschap waarbij per categorie als bedoeld in artikel 12, tweede lid, het aantal zetels wordt vastgesteld en het totaal aantal zetels niet groter is dan 30, en  
-
-c. de zetels worden toegewezen ingevolge het bepaalde krachtens deze wet zoals die luidde op 13 november 2008 op grond van de uitslag van de verkiezingen die in dat jaar zijn gehouden voor de bij het besluit op te heffen waterschappen.     
-2.  Artikel 29, vierde lid, is niet van toepassing op het eindigen van de zittingsperiode van de leden van een algemeen bestuur aangesteld met toepassing van het eerste lid en het plaatsvinden van verkiezingen in het waterschap ingesteld bij een besluit, bedoeld in het eerste lid.  
+Het op 1 januari 2013 zittende algemeen bestuur blijft aan tot 27 maart 2015. 
 
 ### Artikel  180  
 

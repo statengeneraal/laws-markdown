@@ -108,14 +108,14 @@ b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de centra
 c. de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.     
 3.  Het college kan, mits gemotiveerd, aan Onze Minister tussentijds een wijziging van het werkprogramma voorstellen.  
 
+### Artikel  9*  
+Treedt in werking per 01-08-2014 
+
+Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra. 
+
 ###Artikel 9 
 
 Wijzigt de Wet educatie en beroepsonderwijs.
-
-### Artikel  9*  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra. 
 
 ###Artikel 10 
 

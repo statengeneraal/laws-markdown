@@ -1397,7 +1397,7 @@ Indien het toezicht op de naleving of de opsporing van een overtreding van een v
 1.  De raad kan bij verordening de burgemeester de bevoegdheid verlenen om bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, aan te wijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [51, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [52, derde lid, van de Wet wapens en munitie](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) toepassen.   
 2.  De burgemeester gaat niet over tot aanwijzing als veiligheidsrisicogebied dan na overleg met de officier van justitie in het overleg, bedoeld in [artikel 13, eerste lid, van de Politiewet 2012](../../../wet/politiewet/2012/BWBR0031788/README.md).   
 3.  De aanwijzing als veiligheidsrisicogebied wordt gegeven voor een bepaalde duur die niet langer is en voor een gebied dat niet groter is dan strikt noodzakelijk voor de handhaving van de openbare orde.   
-4.  De beslissing tot gebiedsaanwijzing wordt op schrift gesteld en bevat een omschrijving van het gebied waarop deze van toepassing is alsmede de geldigheidsduur. Indien de situatie dermate spoedeisend is dat de burgemeester de beslissing tot gebiedsaanwijzing niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking daarvan.   
+4.  De beslissing tot gebiedsaanwijzing wordt op schrift gesteld en bevat een omschrijving van het gebied waarop deze van toepassing is alsmede de geldigheidsduur.   
 5.  De burgemeester brengt de gebiedsaanwijzing zo spoedig mogelijk ter kennis van de raad en van de officier van justitie, bedoeld in het tweede lid.   
 6.  Zodra de verstoring van de openbare orde door de aanwezigheid van wapens, dan wel de ernstige vrees voor het ontstaan daarvan, bedoeld in het eerste lid, is geweken, trekt de burgemeester de gebiedsaanwijzing in. Het vijfde lid is van overeenkomstige toepassing.  
 
@@ -1722,7 +1722,6 @@ b. dat de minderjarige zich op bepaalde dagen gedurende een aangegeven tijdvak t
 5.  De [artikelen 5:25 tot en met 5:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. De burgemeester kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verschuldigde kosten invorderen bij dwangbevel.  
 
 ### Artikel  174b  
-Treedt in werking per 01-07-2014 
 
 1.  Bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, kan de burgemeester in een onvoorziene, spoedeisende situatie een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, voor ten hoogste twaalf uur aanwijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [51, derde lid](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [52, derde lid, van de Wet wapens en munitie](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) toepassen.   
 2.  Voordat de burgemeester het gebied aanwijst, overlegt hij met de officier van justitie.   
@@ -1758,7 +1757,7 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 ### Artikel  177  
 
 1.  De burgemeester kan een in de gemeente dienstdoende ambtenaar van politie machtigen in zijn naam besluiten te nemen of andere handelingen te verrichten.   
-2.  Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de artikelen 151b, 154a, 172, 172a, 172b, 174, tweede lid, 174a, 175, 176 en 176a.  
+2.  Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de artikelen 151b, 154a, 172, 172a, 172b, 174, tweede lid, en 174a tot en met 176a.  
 
 ### Artikel  178  
 

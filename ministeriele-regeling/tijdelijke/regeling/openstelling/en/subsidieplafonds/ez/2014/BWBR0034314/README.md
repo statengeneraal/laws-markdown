@@ -24,9 +24,9 @@ Besluit:
 | 1.4  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (tijdelijke garantie ondernemersfinanciering en garantstelling gericht op bankgaranties)  | [3.12b ](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)en [3.12v](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-12-2014  | 250.000.000  |
 | 1.5  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (seed capital technostarters)  | [4.3](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-03-2014  | 20.000.000  |
 | 1.6  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (garantie scheepsnieuwbouwfinanciering)  | [8.3](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | --- | 01-01-2014 t/m 31-12-2014  | 1.000.000.000  |
-|1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.4  | MKB-ondernemer  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
-| 1.8  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.9  | innovatieve starter  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
-| 1.9  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | 9a.14  | academische innovatieve starter  | 01-09-2014 t/m 01-10-2014  | 1.900.000  |
+|1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | [9a.4](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | MKB-ondernemer  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
+| 1.8  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | [9a.9](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | innovatieve starter  | 01-07-2014 t/m 01-12-2014  | 2.250.000  |
+| 1.9  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | [9a.14](../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)  | academische innovatieve starter  | 01-09-2014 t/m 01-10-2014  | 1.900.000  |
 |  *Subsidieregeling innoveren*   |
 | 2.1  | [Subsidieregeling innoveren](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (innovatiekredieten)  | [3.2](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  | Klinische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 20.000.000  |
 | 2.2  | [Subsidieregeling innoveren](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md) (innovatiekredieten)  | [3.2](../../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)  | Technische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 40.000.000  |
@@ -284,6 +284,223 @@ In afwijking van [artikel 4:33f, eerste lid, van de Regeling LNV-subsidies](../.
 
 In aanvulling op [artikel 1:15, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), komen kosten die betaald zijn na 31 december 2015 niet voor subsidie in aanmerking. 
 
+###§ 3d 
+
+####Beroepsopleiding & Voorlichting
+
+### Artikel  8o  
+
+Aanvragen tot verlening van een subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 2:3, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 11 augustus 2014 tot en met 25 augustus 2014. 
+
+### Artikel  8p  
+
+Aanvragen tot verlening van een subsidie als bedoeld in artikel 8o kunnen uitsluitend worden ingediend voor de in [artikel 2:3, tweede lid, aanhef en onderdelen a, b, c, en g, van de in de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) genoemde typen bedrijfsconsulten of de in het derde lid van dat artikel genoemde opleidingen, trainingen of voorlichtingsbijeenkomsten, en uitsluitend voor zover deze activiteiten betrekking hebben op: 
+
+a. de implementatie van de regelgeving voor het verminderen van de uitstoot van ammoniak;  
+
+b. de aanpassingen in het bedrijfssysteem voor het verminderen van de uitstoot van ammoniak;  
+
+c. de financieringsmogelijkheden voor investeringen voor het verminderen van de uitstoot van ammoniak;  
+
+d. het verwerven van technische kennis en vaardigheden voor het verminderen van de uitstoot van ammoniak.   
+
+### Artikel  8q  
+
+Per landbouwonderneming kan slechts voor één activiteit een aanvraag tot subsidieverlening worden ingediend. 
+
+### Artikel  8r  
+
+In afwijking van [artikel 1:17 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden geen voorschotten verleend. 
+
+### Artikel  8s  
+
+Onverminderd [artikel 2:7 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt de subsidie ten hoogste € 250 per dagdeel. 
+
+### Artikel  8t  
+
+Het subsidieplafond bedraagt € 500.000. 
+
+### §  3e  
+
+####Meetprogramma's / meetinstrumenten (Samenwerking bij innovatieprojecten)
+
+### Artikel  8u  
+
+1.  Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2:32, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 11 augustus 2014 tot en met 10 september 2014.   
+2.  In afwijking van [artikel 2:32, tweede lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen aanvragen uitsluitend worden ingediend door een samenwerkingsverband van veehouderijen en agro-MKB-ondernemingen, die voor gezamenlijke rekening en risico een innovatieproject uitvoeren dat gericht is op het vaststellen van de vermindering van de uitstoot van ammoniak van nieuwe stalmaatregelen en nieuwe voer- en managementmaatregelen overeenkomstig het protocol voor meting van ammoniakemissie uit huisvestingssystemen in de veehouderij 2013 van nieuwe stalsystemen of nieuwe voer- en managementmaatregelen.   
+3.  De nieuwe stalmaatregelen en nieuwe voer- en managementmaatregelen, bedoeld in het tweede lid, voldoen aan de volgende voorwaarden: 
+
+a. zij beschikken niet voor zover het nieuwe stalmaatregelen betreft over een in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md) vastgestelde emissiefactor of voor zover het nieuwe voer- en managementmaatregelen betreft over een in het overzicht PAS maatregelen vastgesteld reductiepercentage voor ammoniak op basis van metingen;  
+
+b. de uitstoot van geur, fijn stof (PM10), zeer fijn stof (PM2,5), lachgas, methaan en de aspecten dierenwelzijn, diergezondheid en arbeidsomstandigheden verslechteren als gevolg van de maatregelen niet ten opzichte van overige huisvestingssystemen in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md);  
+
+c. de stalmaatregelen leiden tot een emissiewaarde van ten hoogste 75% ten opzichte van: 
+
+1°. de maximale emissiewaarde voor de specifieke diercategorie, bedoeld in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md);  
+
+2°. de emissiefactor voor overige huisvestingssystemen in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md), indien er voor de desbetreffende diercategorie geen maximale emissiewaarde is vastgesteld in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md).    
+
+d. de voer- en managementmaatregelen leiden tot een emissiewaarde van ten hoogste 90% ten opzichte van de emissiefactor voor overige huisvestingssystemen in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md).     
+4.  Geen subsidie wordt verstrekt voor activiteiten die geheel of gedeeltelijk door het Rijk worden gefinancierd op grond van een andere voorziening of op grond van het [Openstellingsbesluit LNV-subsidies 2013](../../../../../../../../../ministeriele-regeling/openstellingsbesluit/lnv-subsidies/2013/BWBR0032443/README.md).  
+
+### Artikel  8v  
+
+In afwijking van [artikel 2:34, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) vangt het project aan binnen drie maanden na de datum van subsidieverlening. 
+
+### Artikel  8w  
+
+In afwijking van [artikel 1:17 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden geen voorschotten verleend. 
+
+### Artikel  8x  
+
+In afwijking van [artikel 2:36, tweede lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt de subsidie ten hoogste € 50.000. 
+
+### Artikel  8y  
+
+Het subsidieplafond bedraagt: 
+
+a. € 250.000 voor innovatieprojecten met betrekking tot stalmaatregelen;  
+
+b. € 250.000 voor innovatieprojecten met betrekking tot voer- en managementmaatregelen.   
+
+### Artikel  8z  
+
+In afwijking van [artikel 2:35 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt subsidie verstrekt voor de kosten die de aanvrager verschuldigd is aan de meetinstantie en de betrokken laboratoria. 
+
+### Artikel  8aa  
+
+In afwijking van [artikel 2:33 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is [artikel 1:6 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) van toepassing. 
+
+### §  3f  
+
+####Integraal duurzame stallen en houderijsystemen
+
+### Artikel  8bb 
+
+1.  Aanvragen tot verlening van een subsidie voor een investering in een integraal duurzame stal of houderijsysteem als bedoeld in [bijlage 2, hoofdstuk 4, punt A, bij de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 augustus 2014 tot en met 29 augustus 2014.   
+2.  In afwijking van [bijlage 2, hoofdstuk 4, punt B, bij de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen aanvragen worden ingediend door landbouwondernemingen die werkzaam zijn in de: 
+
+a. melkveehouderij;  
+
+b. vleesveehouderij;  
+
+c. schapenhouderij;  
+
+d. geitenhouderij;  
+
+e. varkenshouderij;  
+
+f. kalverenhouderij;  
+
+g. pluimveehouderij, inclusief eenden- en kalkoenenhouderij, of  
+
+h. konijnenhouderij.     
+3.  Het tweede lid is niet van toepassing op varkens- en pluimveehouderijen gelegen in extensiveringsgebieden als bedoeld in [artikel 1 van de Reconstructiewet concentratiegebieden](../../../../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md).   
+4.  De landbouwondernemingen, bedoeld in het tweede lid, zijn ten hoogste 3.000 meter verwijderd van een gebied als beschreven in de bijlage bij deze regeling.   
+5.  De investering in een integraal duurzame stal of houderijsysteem als bedoeld in het eerste lid leidt tot een emissiewaarde van ten hoogste 75% ten opzichte van: 
+
+a. de maximale emissiewaarde voor de specifieke diercategorie, bedoeld in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md) of  
+
+b. de emissiefactor voor overige huisvesting in de [bijlage bij de Regeling ammoniak en veehouderij](../../../../../../../../../ministeriele-regeling/regeling/ammoniak/en/veehouderij/BWBR0013629/README.md) of, indien voor de desbetreffende diercategorie geen maximale emissiewaarde is vastgesteld, in [bijlage 1 bij het Besluit ammoniakemissie huisvesting veehouderij](../../../../../../../../../AMvB/besluit/ammoniakemissie/huisvesting/veehouderij/BWBR0019211/README.md).    
+
+### Artikel  8cc  
+
+1.  Er kan slechts één aanvraag worden ingediend per inrichting als bedoeld in [artikel 1:1, eerste lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+2.  Geen subsidie wordt verleend voor een integraal duurzame stal of houderijsysteem als bedoeld in [bijlage 2, hoofdstuk 4, punt A, bij de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) indien voor dezelfde subsidiabele activiteit eerder op grond van [artikel 29 van de Regeling GLB-Inkomenssteun 2006](../../../../../../../../../ministeriele-regeling/regeling/glb-inkomenssteun/2006/BWBR0019131/README.md) subsidie is verleend.  
+
+### Artikel  8dd  
+
+In afwijking van [artikel 2:41 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), bedraagt de subsidie 40% van de subsidiabele kosten, met dien verstande dat de subsidie ten hoogste € 250.000 bedraagt. 
+
+### Artikel  8ee  
+
+Het subsidieplafond bedraagt: € 9.000.000. 
+
+### Artikel  8ff  
+
+1.  De door de Minister van Economische Zaken ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 8bb, advies uit aan de Minister van Economische Zaken in de vorm van een rangschikking.   
+2.  Overeenkomstig [artikel 1:4 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) wordt een aanvraag hoger gerangschikt: 
+
+a. indien de integraal duurzame stal of het houderijsysteem waarin wordt geïnvesteerd in de beginfase van marktintroductie verkeert;  
+
+b. naarmate de investering in de integraal duurzame stal of het houderijsysteem meer economisch of technisch perspectief heeft;  
+
+c. naarmate er voor de investering in de integraal duurzame stal of het houderijsysteem een betere verhouding tussen de prijs en de kwaliteit bestaat, gezien het aangevraagde subsidiebedrag en de verbetering van het dierenwelzijn;  
+
+d. naarmate er voor de investering in de integraal duurzame stal of het houderijsysteem een betere verhouding tussen de prijs en de kwaliteit bestaat, gezien het aangevraagde subsidiebedrag en de verbetering van het milieu, de diergezondheid of de arbeidsomstandigheden;  
+
+e. naarmate de vermindering van de uitstoot van ammoniak hoger is;  
+
+f. naarmate de landbouwonderneming al dan niet in het bezit is van de in voorkomend geval noodzakelijke vergunningen voor de uitvoering van het investeringsplan dan wel deze vergunningen heeft aangevraagd op het moment van de aanvraag tot subsidieverlening.     
+3.  Aanvragen tot subsidieverlening die op grond van het tweede lid inhoudelijk gelijk zijn gewaardeerd worden gerangschikt door loting voor zover door die aanvragen het subsidieplafond wordt overschreden.   
+4.  Als beoordelingscommissie, bedoeld in het eerste lid, wordt ingesteld de beoordelingscommissie concurrerende landbouw.  
+
+### Artikel  8gg  
+
+De extra kosten, bedoeld in [bijlage 2, hoofdstuk 4, punt C, bij de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) betreffen de kosten die worden gemaakt naast de norminvesteringen met betrekking tot dierenwelzijn en, voor zover van toepassing met betrekking tot milieu of diergezondheid, in een gangbare stal, als bedoeld in de kwantitatieve informatie veehouderij. 
+
+### §  3g  
+
+####Verdergaande verduurzaming land- en tuinbouw in het kader van nieuwe uitdagingen (POP NU)
+
+### Artikel  8hh  
+
+Aanvragen tot verlening van een subsidie voor een investering als bedoeld in [bijlage 2, hoofdstuk 7, punt A, categorie 7, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 14 juli 2014 tot en met 8 augustus 2014. 
+
+### Artikel  8ii  
+
+In afwijking van [artikel 1:14, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen aanvragen tot subsidievaststelling worden ingediend tot en met 30 september 2016. 
+
+### Artikel  8jj  
+
+Per glastuinbouwonderneming, bedoeld in bijlage 2, hoofdstuk 7, punt B, onderdeel c, kan één aanvraag worden ingediend voor een investering, als bedoeld in bijlage 2, hoofdstuk 7, punt A, categorie 7. 
+
+### Artikel  8kk  
+
+In afwijking van [artikel 1:17 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) worden geen voorschotten verleend. 
+
+### Artikel  8ll  
+
+1.  In afwijking van [artikel 2:41 van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) bedraagt de subsidie 25% van de subsidiabele kosten.   
+2.  De subsidie bedraagt ten minste € 5.000 en ten hoogste € 50.000.   
+3.  In afwijking van het tweede lid bedraagt een subsidie voor de in [bijlage 2, hoofdstuk 7, punt A, categorie 7, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) opgesomde apparatuur, installaties of machines ten hoogste: 
+
+a. € 187.500 voor onderdeel c;  
+
+b. € 125.000 voor onderdeel d;  
+
+c. € 150.000 voor onderdeel e;  
+
+d. € 225.000 voor onderdeel g.    
+
+### Artikel  8mm  
+
+Het subsidieplafond bedraagt € 7.000.000. 
+
+### §  3h  
+
+####Behoud zeldzame landbouwhuisdierrassen
+
+### Artikel  8nn  
+
+Een aanvraag tot verlening van een subsidie als bedoeld in [artikel 3:61 van de Regeling-LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 14 juli 2014 tot en met 25 juli 2014. 
+
+### Artikel  8oo  
+
+Het subsidieplafond bedraagt € 120.000. 
+
+### §  3i  
+
+####Investeringen in aalbedwelmingsapparatuur
+
+### Artikel  8pp  
+
+Aanvragen tot verlening van een subsidie als bedoeld in [artikel 4:66a, eerste lid, van de Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) kunnen worden ingediend in de periode van 1 oktober 2014 tot en met 31 december 2014. 
+
+### Artikel  8qq  
+
+Het subsidieplafond bedraagt € 400.000. 
+
 ### §  4  
 
 ####Overige bepalingen
@@ -331,4 +548,138 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-H.G.J. Kamp     
+H.G.J. Kamp    
+
+###Bijlage 
+
+####, behorende bij artikel 8bb 
+
+*Tabel gebieden Programmatische Aanpak Stikstof*
+
+| Nr.  | N2000-gebieden Programmatische Aanpak Stikstof  |
+|:---|:---|
+| 55  | Aamsveen  |
+| 47  | Achter de Voort, Agelerbroek & Voltherbroek  |
+| 13  | Alde Feanen  |
+| 17  | Bakkeveense Duinen  |
+| 33  | Bargerveen  |
+| 63  | Bekendelle  |
+| 156  | Bemelerberg & Schiepersberg  |
+| 46  | Bergvennen & Brecklenkampse Veld  |
+| 112  | Biesbosch  |
+| 65  | Binnenveld  |
+| 41  | Boetelerveld  |
+| 44  | Borkeld  |
+| 144  | Boschhuizerbergen  |
+| 83  | Botshol  |
+| 128  | Brabantse Wal  |
+| 155  | Brunssummerheide  |
+| 153  | Bunder- en Elsloërbos  |
+| 53  | Buurserzand & Haaksbergerveen  |
+| 125  | Canisvliet (Drie Kreken)  |
+| 96  | Coepelduynen  |
+| 69  | De Bruuk  |
+| 35  | De Wieden  |
+| 139  | Deurnsche Peel & Mariapeel  |
+| 49  | Dinkelland  |
+| 25  | Drentse Aa-gebied  |
+| 27  | Drents-Friese Wold & Leggelderveld  |
+| 26  | Drouwenerzand  |
+| 5  | Duinen Ameland  |
+| 84  | Duinen Den Helder-Callantsoog  |
+| 2  | Duinen en Lage Land Texel  |
+| 101  | Duinen Goeree & Kwade Hoek  |
+| 6  | Duinen Schiermonnikoog  |
+| 4  | Duinen Terschelling  |
+| 3  | Duinen Vlieland  |
+| 30  | Dwingelderveld  |
+| 89  | Eilandspolder  |
+| 28  | Elperstroomgebied  |
+| 40  | Engbertsdijksvenen  |
+| 23  | Fochteloërveen  |
+| 67  | Gelderse Poort (Rijntakken)  |
+| 154  | Geleenbeekdal  |
+| 157  | Geuldal  |
+| 115  | Grevelingen  |
+| 140  | Groote Peel  |
+| 29  | Holtingerveld (Havelte-Oost)  |
+| 92  | Ilperveld, Varkensland, Oostzanerveld & Twiske  |
+| 133  | Kampina & Oisterwijkse Vennen  |
+| 135  | Kempenland-West  |
+| 88  | Kennemerland-Zuid  |
+| 81  | Kolland & Overlangbroek  |
+| 116  | Kop van Schouwen  |
+| 61  | Korenburgerveen  |
+| 114  | Krammer-Volkerak  |
+| 158  | Kunderberg  |
+| 58  | Landgoederen Brummen  |
+| 50  | Landgoederen Oldenzaal  |
+| 130  | Langstraat  |
+| 136  | Leenderbos, Groote Heide & De Plateaux  |
+| 48  | Lemselermaten  |
+| 147  | Leudal  |
+| 21  | Lieftinghsbroek  |
+| 70  | Lingegebied & Diefdijk-Zuid  |
+| 71  | Loevestein, Pompveld & Kornsche Boezem  |
+| 51  | Lonnekermeer  |
+| 131  | Loonse en Drunense Duinen & Leemkuilen  |
+| 145  | Maasduinen  |
+| 117  | Manteling van Walcheren  |
+| 31  | Mantingerbos  |
+| 32  | Mantingerzand  |
+| 97  | Meijendel & Berkheide  |
+| 149  | Meinweg  |
+| 94  | Naardermeer  |
+| 103  | Nieuwkoopse Plassen & De Haeck  |
+| 161  | Noorbeemden & Hoogbos  |
+| 87  | Noordhollands Duinreservaat  |
+| 22  | Norgerholt  |
+| 141  | Oeffelter Meent  |
+| 37  | Olde Maten & Veerslootlanden  |
+| 95  | Oostelijke Vechtplassen  |
+| 118  | Oosterschelde  |
+| 91  | Polder Westzaan  |
+| 134  | Regte Heide & Riels Laag  |
+| 150  | Roerdal  |
+| 18  | Rottige Meenthe & Brandemeer  |
+| 42  | Sallandse Heuvelrug  |
+| 146  | Sarsven en De Banen  |
+| 160  | Savelsbos  |
+| 86  | Schoorlse Duinen  |
+| 142  | Sint Jansberg  |
+| 159  | Sint Pietersberg & Jekerdal  |
+| 99  | Solleveld & Kapittelduinen  |
+| 45  | Springendal & Dal van de Mosbeek  |
+| 60  | Stelkampsveld  |
+| 137  | Strabrechtse Heide & Beuven  |
+| 148  | Swalmdal  |
+| 38  | Uiterwaarden IJssel (Rijntakken)  |
+| 82  | Uiterwaarden Lek  |
+| 66  | Uiterwaarden Neder-Rijn (Rijntakken)  |
+| 68  | Uiterwaarden Waal (Rijntakken)  |
+| 36  | Uiterwaarden Zwarte water en Vecht  |
+| 129  | Ulvenhoutse Bos  |
+| 15  | Van Oordts Mersken  |
+| 39  | Vecht en Beneden-Reggegebied  |
+| 57  | Veluwe  |
+| 132  | Vlijmens Ven, Moerputten & Bossche Broek  |
+| 113  | Voordelta  |
+| 100  | Voornes Duin  |
+| 1  | Waddenzee  |
+| 34  | Weerribben  |
+| 138  | Weerter- en Budelerbergen & Ringselven  |
+| 98  | Westduinpark & Wapendal  |
+| 122  | Westerschelde & Saeftinghe  |
+| 43  | Wierdense Veld  |
+| 16  | Wijnjeterper Schar  |
+| 62  | Willinks Weust  |
+| 54  | Witte Veen  |
+| 24  | Witterveld  |
+| 64  | Wooldse Veen  |
+| 90  | Wormer- en Jisperveld & Kalverpolder  |
+| 121  | Yerseke en Kapelse Moer  |
+| 143  | Zeldersche Driessen  |
+| 105  | Zouweboezem  |
+| 85  | Zwanenwater & Pettemerduinen  |
+| 123  | Zwin & Kievittepolder  |
+
