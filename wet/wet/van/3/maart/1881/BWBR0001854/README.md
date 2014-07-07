@@ -31,136 +31,72 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland aan b
 
 ### Artikel  4  
 
-De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:  
+De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt: 
 
-1°. aan een der misdrijven omschreven in de artikelen 92-96, 97a, 98-98c, 105 en 108-110;  
+a. aan een van de misdrijven omschreven in de artikelen 92 tot en met 96, 97a, 98 tot en met 98c, 105 en 108 tot en met 110;  
 
-2°. aan een der misdrijven omschreven in de artikelen 131 tot en met 134 en 189, indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, is een misdrijf als onder 1° bedoeld;  
+b. aan een van de misdrijven omschreven in de artikelen 131 tot en met 134 en 189, indien het strafbare feit of het misdrijf waarvan in die artikelen wordt gesproken, een misdrijf is als onder a bedoeld;  
 
-3°. aan enig misdrijf ten opzichte van muntspeciën, munt- of bankbiljetten, van rijkswege uitgegeven zegels of rijksmerken;  
+c. aan een van de misdrijven omschreven in de artikelen 208 tot en met 214 en 216 tot en met 223;  
 
-4°. aan valsheid in schuldbrieven of certificaten van schuld van de Nederlandse staat of van een Nederlandse provincie, gemeente of openbare instelling, de talons, dividend- en rentebewijzen tot deze stukken behorende, en de bewijzen, uitgegeven in plaats van deze stukken, inbegrepen, of aan het opzettelijk gebruik maken van zodanig vals of vervalst stuk als ware het echt en onvervalst;  
+d. aan een van de misdrijven omschreven in de artikelen 225 tot en met 227b en 232 indien het strafbare feit is gepleegd tegen een Nederlandse overheidsinstelling;  
 
-5°. aan een der misdrijven omschreven in de artikelen 216, tweede lid, 381-385, 409 en 410 of aan de overtreding omschreven in artikel 446a;  
+e. aan een van de misdrijven omschreven in de artikelen 381 tot en met 385b, 409 en 410 of aan de overtreding omschreven in artikel 446a;  
 
-6°. aan het misdrijf omschreven in artikel 207a;  
-
-7°. 
-
-a. aan het misdrijf omschreven in artikel 168, begaan tegen een luchtvaartuig in bedrijf, indien dit een Nederlands luchtvaartuig is of wanneer de verdachte zich in Nederland bevindt;  
-
-b. aan het misdrijf omschreven in artikel 385a, begaan aan boord van een luchtvaartuig in vlucht, wanneer de verdachte zich in Nederland bevindt;  
-
-c. aan het misdrijf omschreven in artikel 385b, indien het daar bedoelde luchtvaartuig een Nederlands luchtvaartuig is of wanneer de verdachte zich in Nederland bevindt;  
-
-d. aan het misdrijf omschreven in artikel 385c, wanneer het is begaan, hetzij tegen een Nederlands luchtvaartuig, hetzij aan boord van een luchtvaartuig dat vervolgens in Nederland landt met de verdachte aan boord;  
-
-e. aan een der misdrijven, omschreven in de artikelen 162, 162a, 166 en 385d, wanneer de verdachte zich in Nederland bevindt.   
-
-8°. 
-
-a. aan de misdrijven omschreven in de artikelen 140, 157, 161quater, 166, 168, 173a, 189, 285, 287, 288, 289, 302, 303, 350, 352, 354, 385a, vierde lid, 385b, tweede lid, 385c en 413, van deze wet, in de [artikelen 79](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en [80 van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), in de [artikelen 2, eerste en derde lid](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md), [3](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md) en [4 van de Uitvoeringswet verdrag biologische wapens](../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md) in samenhang met [artikel 1 van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), en in de [artikelen 2](../../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md) en [3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](../../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md) in samenhang met artikel 1 van de Wet op de economische delicten, indien het feit is begaan tegen een Nederlands zeegaand vaartuig, hetzij tegen of aan boord van enig ander zeegaand vaartuig en de verdachte zich in Nederland bevindt; 
-
-b. aan een der misdrijven, omschreven in de artikelen 161quater, 173a, 285, 287, 288, 289, 302, 303, 350, 352, 354, 385a, vierde lid, en 385b, tweede lid, begaan op of tegen een installatie ter zee, wanneer de verdachte zich in Nederland bevindt.   
-
-9°. aan een der misdrijven omschreven in de artikelen 177 en 177a, voor zover het feit is gepleegd tegen een Nederlander of een Nederlandse ambtenaar en daarop door de wet van het land waar het begaan is, straf is gesteld;  
-
-10°. aan een der misdrijven, omschreven in de artikelen 177, 177a, 225, 227b en 323a, voor zover het feit is gepleegd door een Nederlandse ambtenaar of door een persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie en daarop door de wet van het land waar het is begaan, straf is gesteld;  
-
-11°. aan het misdrijf, omschreven in artikel 282a, wanneer hetzij het feit is begaan met het oogmerk een Nederlandse overheid te dwingen een handeling te verrichten of zich te onthouden van het verrichten daarvan, hetzij de verdachte zich in Nederland bevindt;  
-
-12°. 
-
-a. aan een der misdrijven, omschreven in de artikelen 117, 117a, 117b en 285, voor zover het feit is gepleegd tegen een in Nederlandse dienst zijnde, of tot zijn gezin behorende, internationaal beschermd persoon als bedoeld in artikel 87b, eerste lid, of tegen diens beschermde goederen;  
-
-b. aan een der misdrijven, omschreven in de artikelen 117, 117a, 117b, 282a en 285, voor zover het feit is gepleegd tegen een internationaal beschermd persoon als bedoeld in artikel 87b, tweede lid, die Nederlander is, of tegen diens beschermde goederen;  
-
-c. aan een der misdrijven, omschreven in de artikelen 117, 117a, 117b en 285, voor zover het feit is gepleegd tegen een internationaal beschermd persoon als bedoeld in artikel 87b, eerste of tweede lid, of tegen diens beschermde goederen, wanneer de verdachte zich in Nederland bevindt;    
-
-13°. aan een terroristisch misdrijf dan wel een der misdrijven, omschreven in de artikelen 115, 117, 117b, 121 tot en met 123, 157, 161, 161bis, 161quater, 161sexies, 162, 162a, 164, 166, 168, 170, 172, 173a, 285, 287, 288, 289, 350, 350a, 351, 352, 354, 385b en 385d, voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 15 december 1997 te New York totstandgekomen Verdrag inzake de bestrijding van terroristische bomaanslagen (Trb. 1998, 84) en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in Nederland bevindt.  
-
-14°. aan het misdrijf omschreven in artikel 421 en het feit is gericht tegen een Nederlander, dan wel de verdachte zich in Nederland bevindt;  
-
-15°.aan een terroristisch misdrijf, indien het misdrijf is gepleegd met het oogmerk de bevolking of een deel der bevolking van Nederland vrees aan te jagen, een Nederlandse overheid of een in Nederland gevestigde instelling of organisatie van de Europese Unie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, of de fundamentele politieke, constitutionele, economische of sociale structuren van Nederland of een in Nederland gevestigde instelling of organisatie van de Europese Unie ernstig te ontwrichten of te vernietigen;
-
-16°. aan een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, indien het misdrijf is gepleegd met het oogmerk een terroristisch misdrijf als in onderdeel 15° omschreven voor te bereiden of gemakkelijk te maken; 
-
-17°. aan een der misdrijven, omschreven in de artikelen 157, 161quater, 284, eerste lid, 284a, 285, 310 tot en met 312, 317, 318, 321, 322, 326, en in de [artikelen 79](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en [80 van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), voor zover het feit valt onder de omschrijvingen van artikel 7 van het op 3 maart 1980 te Wenen/New York totstandgekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1980, 166), wanneer de verdachte zich in Nederland bevindt;  
-
-18°. aan een der misdrijven, omschreven in de artikelen 161quater, 173a, 284, eerste lid, 284a, 285, 310 tot en met 312, 317 en 318, en in de [artikelen 15](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [21](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [29, eerste lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [32, eerste lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [34, eerste lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [67, eerste lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [73](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [76, derde lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), en [76a van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) juncto [artikel 1a van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), en in de [artikelen 79](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en [80 van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), voor zover het feit valt onder de omschrijvingen van artikel 2 van het op 13 april 2005 te New York totstandgekomen Internationaal Verdrag ter bestrijding van daden van nucleair terrorisme (Trb. 2005, 290) en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in Nederland bevindt.   
-
-### Artikel  4a  
-
-1. De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.  
-2.  De Nederlandse strafwet is voorts toepasselijk op ieder wiens uitlevering of overlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, ontoelaatbaar is verklaard, is afgewezen of geweigerd.  
-3.  De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door het Nederlands openbaar ministerie is overgenomen op grond van een daartoe strekkend verzoek van het openbaar ministerie van Bonaire, Sint Eustatius en Saba.  
-4.  De Nederlandse strafwet is voorts toepasselijk op ieder tegen wie de strafvervolging door Nederland is overgenomen van een krachtens verdrag of besluit van een volkenrechtelijke organisatie ingesteld internationaal gerecht. 
+f. aan het misdrijf omschreven in artikel 207a.   
 
 ### Artikel  5  
 
-1.  De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt:  
-
-1°. aan een der misdrijven omschreven in de Titels I en II van het Tweede Boek, en in de artikelen 192a, 192b, 192c, 197a, 197b, 197c, 206, 237,272 en 273 alsmede – voor zover het betreft een misdrijf, gericht tegen de rechtspleging van het Internationaal Strafhof, als bedoeld in artikel 70, eerste lid, van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120) – in de artikelen 177, 177a, 178, 179, 180, 189, 200, 207a, 285a en 361;  
-
-2°. aan een feit hetwelk door de Nederlandse strafwet als misdrijf wordt beschouwd en waarop door de wet van het land waar het begaan is, straf is gesteld.  
-
-3°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;  
-
-4°.aan een der misdrijven omschreven in de artikelen 138ab, 138b, 139c, 139d, 161sexies, 225, 226, 227, 240a, 240b, 326, 326c, 350, 350a en 351, voor zover het feit valt onder de omschrijving van de artikelen 2 tot en met 10 van het op 23 november 2001 te Budapest tot stand gekomen Internationaal Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken (Trb. 2002, 18, en 2004, 290), en een der misdrijven omschreven in de artikelen 137c tot en met 137e, 261, 262, 266, 284 en 285, voor zover het feit valt onder de omschrijving van de artikelen 3 tot en met 6 van het op 28 januari 2003 te Straatsburg totstandgekomen Aanvullend Protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, betreffende de strafbaarstelling van handelingen van racistische of xenofobische aard verricht via computersystemen;
-
-5°. aan een der misdrijven omschreven in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat; 
-
-6°. aan het misdrijf omschreven in artikel 273f; 
-
-7°. aan het misdrijf omschreven in artikel 284, eerste lid.    
-2. In de gevallen, omschreven in het eerste lid, onderdelen 2°, 3°, 5°, 6° en 7°, kan de vervolging ook plaatshebben, als de verdachte eerst na het feit Nederlander wordt. 
-
-### Artikel  5a  
-
-1.  De Nederlandse strafwet is toepasselijk op de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland schuldig maakt: 
-
-1°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;  
-
-2°. een terroristisch misdrijf, dan wel een der misdrijven omschreven in de artikelen 225, derde lid, 311, eerste lid, onder 6°, 312, tweede lid, onder 5°, alsmede 317, derde lid, jo. 312, tweede lid, onder 5°;  
-
-3°. aan een der misdrijven omschreven in de artikelen 231, 321, 350 en 416 tot en met 417bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld;  
-
-4°. aan een der misdrijven omschreven in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;  
-
-5°. aan het misdrijf omschreven in artikel 237;  
-
-6°. aan het misdrijf omschreven in artikel 273f; 
-
-7°. aan het misdrijf omschreven in artikel 284, eerste lid.     
-2.  In de gevallen, omschreven in het eerste lid, onderdelen 1°, 2°, 3°, 4°, 6° en 7°, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft gekregen. 
-
-### Artikel  5b  
-
-De Nederlandse strafwet is toepasselijk op ieder die zich schuldig maakt: 
-
-1°. aan een der misdrijven omschreven in artikel 273f en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd tegen een Nederlander;  
-
-2°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en die de leeftijd van achttien jaren nog niet heeft bereikt;  
-
-3°. aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft;  
-
-4°. aan het misdrijf omschreven in artikel 284, eerste lid, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.  
+1.  De Nederlandse strafwet is toepasselijk op een ieder die zich buiten Nederland schuldig maakt aan een misdrijf tegen een Nederlander, een Nederlandse ambtenaar, een Nederlands voertuig, vaartuig of luchtvaartuig, voor zover op dit feit naar de wettelijke omschrijving een gevangenisstraf van ten minste acht jaren is gesteld en daarop door de wet van het land waar het begaan is, straf is gesteld.   
+2.  Met een Nederlander wordt voor de toepassing van het eerste lid gelijkgesteld de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.  
 
 ### Artikel  6  
 
-De Nederlandse strafwet is toepasselijk op: 
-
-1°. de Nederlandse ambtenaar die zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in Titel XXVIII van het Tweede Boek;  
-
-2°. de persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie die zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in de  artikelen 362 tot en met 364a.   
+1.  De Nederlandse strafwet is toepasselijk op een ieder die zich buiten Nederland schuldig maakt aan een feit voor zover een bij algemene maatregel van bestuur aangewezen verdrag of besluit van een volkenrechtelijke organisatie tot het vestigen van rechtsmacht over dat feit verplicht.   
+2.  In de algemene maatregel van bestuur, bedoeld in het eerste lid, worden de feiten omschreven met betrekking tot welke de bij de maatregel aangewezen verdragen en besluiten van volkenrechtelijke organisaties tot de vestiging van rechtsmacht verplichten. 
 
 ### Artikel  7  
 
-De Nederlandse strafwet is toepasselijk op de schipper en de opvarenden van een Nederlands vaartuig die zich buiten Nederland, ook buiten boord, schuldig maken aan een der strafbare feiten omschreven in Titel XXIX van het Tweede Boek en Titel IX van het Derde Boek. 
+1.  De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt aan een feit dat door de Nederlandse strafwet als misdrijf wordt beschouwd en waarop door de wet van het land waar het begaan is, straf is gesteld.   
+2.  De Nederlandse strafwet is voorts toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt: 
+
+a. aan een van de misdrijven omschreven in de Titels I en II van het Tweede Boek en in de artikelen 192a tot en met 192c, 197a tot en met 197c, 206, 237, 272 en 273;  
+
+b. aan een van de misdrijven omschreven in de artikelen 177, 177a, 178, 180, 189, 200, 285a en 361, voor zover het feit gericht is tegen de rechtspleging van het Internationaal Strafhof;  
+
+c. aan een van de misdrijven omschreven in de artikelen 240b en 242 tot en met 250;  
+
+d. aan een van de misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;  
+
+e. aan het misdrijf omschreven in artikel 284.     
+3.  Met een Nederlander wordt voor de toepassing van het eerste en het tweede lid, onder b tot en met e, gelijkgesteld de vreemdeling die na het plegen van het feit Nederlander wordt alsmede, voor de toepassing van het eerste en tweede lid, de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.  
 
 ### Artikel  8  
 
-De toepasselijkheid van de artikelen 2-7 wordt beperkt door de uitzonderingen in het volkenrecht erkend. 
+De Nederlandse strafwet is toepasselijk op de Nederlandse ambtenaar die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in Titel XXVIII van het Tweede Boek. 
+
+### Artikel  8a  
+
+De Nederlandse strafwet is toepasselijk op de schipper en opvarenden van een Nederlands vaartuig die zich buiten Nederland, ook buiten boord, schuldig maken aan een van de strafbare feiten omschreven in Titel XXIX van het Tweede Boek en Titel IX van het Derde Boek. 
+
+### Artikel  8b  
+
+1.  De Nederlandse strafwet is toepasselijk op een ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.   
+2.  De Nederlandse strafwet is toepasselijk op een ieder tegen wie de strafvervolging door het Nederlands openbaar ministerie is overgenomen op grond van een daartoe strekkend verzoek van het openbaar ministerie van Bonaire, Sint Eustatius en Saba.   
+3.  De Nederlandse strafwet is voorts toepasselijk op een ieder wiens uitlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf ontoelaatbaar is verklaard, afgewezen of geweigerd.   
+4.  De Nederlandse strafwet is voorts toepasselijk op een ieder tegen wie de strafvervolging door Nederland is overgenomen op verzoek van een krachtens verdrag of besluit van een door een volkenrechtelijke organisatie ingesteld internationaal gerecht.  
+
+### Artikel  8c  
+
+De Nederlandse strafwet is toepasselijk op de vreemdeling die zich buiten Nederland schuldig maakt aan een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van ten minste acht jaren is gesteld, indien deze vreemdeling zich in Nederland bevindt en: 
+
+a. uitlevering ter zake van dit misdrijf is geweigerd op een grond die niet tevens inhoudt dat naar Nederlands recht geen vervolging kan plaatshebben, of  
+
+b. uitlevering ter zake van dit misdrijf wegens het ontbreken van een verdragsrelatie niet mogelijk is, voor zover op het feit door de wet van het land waar het begaan is, straf is gesteld.   
+
+### Artikel  8d  
+
+De toepasselijkheid van de artikelen 2 tot en met 8c wordt beperkt door de uitzonderingen in het volkenrecht erkend. 
 
 ### Titel  II  
 
@@ -2028,7 +1964,6 @@ b. luchtvaartuigen die zonder bemanning zijn verhuurd aan een huurder die de hoo
 3.   Een luchtvaartuig is in bedrijf van het begin van het gereedmaken van dat luchtvaartuig voor een bepaalde vlucht door het grondpersoneel of door de bemanning tot het moment dat sedert de landing vierentwintig uren zijn verstreken. De periode tijdens welke het luchtvaartuig in bedrijf is strekt zich in elk geval uit tot de gehele periode tijdens welke het luchtvaartuig in vlucht is, zoals omschreven in het tweede lid.  
 
 ### Artikel  86b  
-Treedt in werking per 01-07-2014 
 
 Voor de toepassing van Titel I van dit Boek wordt onder het hebben van een vaste woon- of verblijfplaats in Nederland verstaan het rechtmatig verblijven in Nederland gedurende een onafgebroken periode van vijf jaar of langer. 
 

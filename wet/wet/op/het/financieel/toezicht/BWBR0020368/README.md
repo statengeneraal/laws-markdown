@@ -523,7 +523,7 @@ o. het opnemen van chartaal geld uit een geldautomaat, voor zover de exploitant 
 
 a. de Sociale Verzekeringsbank;  
 
-b. het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+b. het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/etc/BWBR0013060/README.md);  
 
 c. ziekenfondsen die overeenkomstig de [Ziekenfondswet](../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) waren toegelaten;  
 
@@ -658,7 +658,7 @@ b.het beheren van individuele vermogens ten behoeve van pensioenfondsen als bedo
 ### Artikel  1:16  
 
 1.  Deze wet, met uitzondering van de artikelen 2:36, tweede tot en met vierde lid, 2:38, 2:39 en 2:46, is niet van toepassing op financiële diensten die kunnen worden aangemerkt als dienst van de informatiemaatschappij als bedoeld in [artikel 15d, derde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en die worden verleend door een financiële onderneming vanuit een vestiging in een andere lidstaat.   
-2.  Indien ter bescherming van een van de belangen, bedoeld in het [zesde lid, onderdeel a, van artikel V van de Aanpassingswet richtlijn inzake elektronische handel](../../../../../../../wet/aanpassingswet/richtlijn/inzake/elektronische/handel/BWBR0016726/README.md), maatregelen noodzakelijk zijn, kan Onze Minister zonodig met toepassing van het zesde lid van dat artikel besluiten dat het Deel Gedragstoezicht financiële ondernemingen en de daarop gebaseerde bepalingen geheel of gedeeltelijk, in afwijking van het eerste lid, van toepassing is op een bepaalde financiële dienst als bedoeld in dat lid.  
+2.  Indien ter bescherming van een van de belangen, bedoeld in het [zesde lid, onderdeel a, van artikel V van de Aanpassingswet richtlijn inzake elektronische handel](../../../../../../../wet/aanpassingswet/richtlijn/inzake/elektronische/etc/BWBR0016726/README.md), maatregelen noodzakelijk zijn, kan Onze Minister zonodig met toepassing van het zesde lid van dat artikel besluiten dat het Deel Gedragstoezicht financiële ondernemingen en de daarop gebaseerde bepalingen geheel of gedeeltelijk, in afwijking van het eerste lid, van toepassing is op een bepaalde financiële dienst als bedoeld in dat lid.  
 
 ### Artikel  1:17  
 
@@ -3594,7 +3594,7 @@ a. de beheerder van een beleggingsinstelling waarvan rechten van deelneming in N
 b. een beleggingsmaatschappij die geen aparte beheerder heeft en die rechten van deelneming in Nederland uitsluitend aan gekwalificeerde beleggers aanbiedt.     
 2.  Het eerste lid is niet van toepassing ten aanzien van beleggingsinstellingen: 
 
-a. die een startersfonds zijn als bedoeld in [artikel 4.1 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md);  
+a. die een startersfonds zijn als bedoeld in [artikel 4.1 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/etc/BWBR0024902/README.md);  
 
 b. waarvan: 
 

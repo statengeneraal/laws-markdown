@@ -286,7 +286,7 @@ e. het adviseren van andere overheden en organisaties op het gebied van de brand
 
 ### Artikel  33  
 
-1.  Instellingen als bedoeld in de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), zorgaanbieders als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), Regionale Ambulancevoorzieningen en gezondheidsdiensten in die regio, die een taak hebben binnen de geneeskundige hulpverlening, treffen de nodige maatregelen met het oog op hun taak en de voorbereiding daarop.   
+1.  Instellingen als bedoeld in de [Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), zorgaanbieders als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/etc/BWBR0006251/README.md), Regionale Ambulancevoorzieningen en gezondheidsdiensten in die regio, die een taak hebben binnen de geneeskundige hulpverlening, treffen de nodige maatregelen met het oog op hun taak en de voorbereiding daarop.   
 2.  Het bestuur van de veiligheidsregio, de Regionale Ambulancevoorziening en de in die regio werkzame instellingen, zorgaanbieders en diensten, bedoeld in het eerste lid, maken schriftelijke afspraken over de inzet van deze instellingen, zorgaanbieders en diensten bij de uitvoering van hun taak en op de voorbereiding daarop.   
 3.  De instellingen, zorgaanbieders, Regionale Ambulancevoorzieningen en diensten, bedoeld in het eerste lid, verstrekken het bestuur van de veiligheidsregio alle informatie over hun inzet en de voorbereiding daarop door middel van het jaardocument maatschappelijke verantwoording als bedoeld in [artikel 16 van de Wet toelating zorginstellingen](../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).   
 4.  Bij algemene maatregel van bestuur worden eisen gesteld aan de inhoud van afspraken, bedoeld in het tweede lid.  
@@ -697,7 +697,7 @@ d. het crisisplan, bedoeld in artikel 16, uiterlijk twaalf maanden na inwerkingt
 
 ### Artikel  77  
 
-De [Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md), de [Wet van 1 november 2007 tot wijziging van de Brandweerwet 1985 in verband met het verzekeren van de kwaliteit van brandweerpersoneel en de verbreding van de wettelijke taken van het Nederlands instituut fysieke veiligheid](../../../../wet/wijzigingswet/brandweerwet/1985/(verzekeren/kwaliteit/brandweerpersoneel/etc/BWBR0022977/README.md) (Stb. 481), de [Wet rampen en zware ongevallen](../../../../wet/rampenwet/BWBR0003765/README.md) en de [Wet geneeskundige hulpverlening bij ongevallen en rampen](../../../../wet/wet/geneeskundige/hulpverlening/bij/rampen/BWBR0005276/README.md) worden ingetrokken. 
+De [Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md), de [Wet van 1 november 2007 tot wijziging van de Brandweerwet 1985 in verband met het verzekeren van de kwaliteit van brandweerpersoneel en de verbreding van de wettelijke taken van het Nederlands instituut fysieke veiligheid](../../../../wet/wijzigingswet/brandweerwet/1985/(verzekeren/etc/BWBR0022977/README.md) (Stb. 481), de [Wet rampen en zware ongevallen](../../../../wet/rampenwet/BWBR0003765/README.md) en de [Wet geneeskundige hulpverlening bij ongevallen en rampen](../../../../wet/wet/geneeskundige/hulpverlening/bij/rampen/BWBR0005276/README.md) worden ingetrokken. 
 
 ### Artikel  78  
 

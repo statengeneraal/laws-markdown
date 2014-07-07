@@ -57,7 +57,7 @@ i. Anw-uitkering: de tot een jaarbedrag herleide en met de vakantie-uitkering ve
 
 ####De bijzondere invaliditeitsverhoging
 
-1.  De militair met een recht op invaliditeitspensioen heeft recht op een bijzondere invaliditeitsverhoging van: 
+1.  De militair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van: 
 
 a. 40 procent van de in artikel 2 bedoelde berekeningsgrondslag indien de mate van invaliditeit waaraan dat recht op pensioen wordt ontleend 100 procent bedraagt,  
 
@@ -67,7 +67,27 @@ c. 20 procent van die berekeningsgrondslag indien die mate van invaliditeit ten 
 
 d. 10 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 40 maar minder dan 60 procent bedraagt,  
 
-e. 5 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 20 maar minder dan 40 procent bedraagt.      
+e. 5 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 20 maar minder dan 40 procent bedraagt;  De militair met een recht op een invaliditeitspensioen wiens ontslag heeft plaatsgevonden op of na 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van: 
+
+a. 40 procent van de in artikel 2 bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan dat recht op pensioen wordt ontleend 100 procent bedraagt,  
+
+b. 35 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 90 maar minder dan 100 procent bedraagt,  
+
+c. 30 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 80 maar minder dan 90 procent bedraagt,  
+
+d. 25 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 70 maar minder dan 80 procent bedraagt,  
+
+e. 20 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 60 maar minder dan 70 procent bedraagt,  
+
+f. 15 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 50 maar minder dan 60 procent bedraagt,  
+
+g. 10 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 40 maar minder dan 50 procent bedraagt,  
+
+h. 7,5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 30 maar minder dan 40 procent bedraagt,  
+
+i. 5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 20 maar minder dan 30 procent bedraagt,  
+
+j. 2,5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 10 maar minder dan 20 procent bedraagt.     
 2.  Indien de invaliditeit met dienstverband waaraan het recht op invaliditeitspensioen wordt ontleend bestaat of mede bestaat uit: 
 
 a. het verlies van een van de ledematen,  
@@ -182,6 +202,15 @@ b. in alle andere gevallen, twee zevende gedeelten.
 
 Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de artikelen 9 en 10 bedoelde pensioenen niet minder dat het nabestaandenpensioen dat zou kunnen worden vastgesteld indien dat met gebruikmaking van de geldende berekeningsbreuk rechtstreeks werd afgeleid van het in artikel 4 bedoelde garantiepensioen. 
 
+### Artikel  11a  
+
+####Volledige schadevergoeding
+
+1.  De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in artikel 6, eerste lid, hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.   
+2.  De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de [artikelen 8a](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) en [11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) is toegekend.   
+3.  Bij de vaststelling van de omvang van de in het eerste lid bedoelde schadevergoeding wordt rekening gehouden met het totaal van de aanspraken van en uitkeringen aan de nabestaanden ingevolge het overlijden van de militair.   
+4.  Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.  
+
 ### Paragraaf  4  
 
 ####Gemeenschappelijke bepalingen
@@ -288,6 +317,22 @@ Indien een lopend invaliditeits- of nabestaandenpensioen krachtens een vroegere 
 ####Voorzieningen en verstrekkingen
 
 In aanvulling op de bij of krachtens de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid, van het Besluit AO/IV](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden. 
+
+### Artikel  21a  
+
+####Bijzondere uitkering
+
+1.  De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld heeft aanspraak op een eenmalige bijzondere uitkering.   
+2.  Het bedrag van de bijzondere uitkering is gelijk aan een percentage van de grondslag overeenkomend met de mate van invaliditeit met dienstverband.   
+3.  Een mate van invaliditeit van minder dan 10% wordt voor de toekenning van de bijzondere uitkering afgerond op 5%.   
+4.  Op aanvraag van de rechthebbende wordt in afwijking van het tweede en derde lid het bedrag van de bijzondere uitkering vastgesteld op een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband zoals dat voor de rechthebbende voordat hij 65 jaar werd laatstelijk heeft gegolden, indien deze mate van arbeidsongeschiktheid hoger is dan de mate van invaliditeit met dienstverband.   
+5.  Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of arbeidsongeschiktheid met dienstverband gehanteerd die op de peildatum, 1 juni 2012, na het bereiken van een medische eindtoestand is vastgesteld.   
+6.  De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van artikel 19 leidt een latere wijziging in de mate van invaliditeit niet tot aanpassing van een toegekende bijzondere uitkering.   
+7.  In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in [artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+8.  De grondslag van de bijzondere uitkering is € 125.000,–.   
+9.  In afwijking van artikel 15 wordt de bijzondere uitkering in een keer uitbetaald.   
+10.  In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.   
+11.  De over de bijzondere uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) komen ten laste van het Rijk.  
 
 ### Paragraaf  7  
 

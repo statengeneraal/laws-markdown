@@ -45,9 +45,9 @@ c.  *de toezichthouder:* Autoriteit Financiële Markten of de Nederlandsche Bank
 
 13° de [Wet privatisering FVP](../../../../../../wet/wet/privatisering/fvp/BWBR0009756/README.md);  
 
-14° de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
+14° de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/etc/BWBR0024282/README.md);  
 
-15° de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md);  
+15° de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/etc/BWBR0030824/README.md);  
 
 16° de [Wet toezicht accountantsorganisaties](../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md);  
 
@@ -59,7 +59,7 @@ c.  *de toezichthouder:* Autoriteit Financiële Markten of de Nederlandsche Bank
 
 20° de [Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
 
-21° de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);  
+21° de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../wet/wet/verplichte/deelneming/in/een/etc/BWBR0012092/README.md);  
 
 22° EU-rechtshandelingen;    
 

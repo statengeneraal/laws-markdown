@@ -1187,31 +1187,33 @@ d. beroepsziekte: ziekte, die in overwegende mate haar oorzaak vindt in de aard 
 
 e. bedrijfsongeval: ongeval, dat in overwegende mate zijn oorzaak vindt in de aard van de aan de ambtenaar opgedragen werkzaamheden of in de bijzondere omstandigheden waaronder deze moesten worden verricht, en dat niet aan zijn schuld of onvoorzichtigheid is te wijten; 
 
-f. gangbare arbeid: arbeid als bedoeld in [artikel 18, vijfde lid, van de WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md); 
+f. beroepsincident: een dienstongeval of beroepsziekte voortvloeiend uit een gevaarzettende situatie die rechtstreeks verband houdt met de uitvoering van zijn taak waaraan de ambtenaar zich vanwege zijn specifieke functie niet kan onttrekken; 
 
-g. herplaatsingtoelage: herplaatsingtoelage als bedoeld in hoofdstuk 9 van het pensioenreglement van de Stichting pensioenfonds ABP; 
+g. gangbare arbeid: arbeid als bedoeld in [artikel 18, vijfde lid, van de WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md); 
 
-h. invaliditeitspensioen: invaliditeitspensioen als bedoeld in hoofdstuk 8 van het pensioenreglement van de Stichting pensioenfonds ABP; 
+h. herplaatsingtoelage: herplaatsingtoelage als bedoeld in hoofdstuk 9 van het pensioenreglement van de Stichting pensioenfonds ABP; 
 
-i. medisch advies: advies van de deskundige persoon of de arbodienst dat ten aanzien van de ambtenaar is uitgebracht na een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md); 
+i. invaliditeitspensioen: invaliditeitspensioen als bedoeld in hoofdstuk 8 van het pensioenreglement van de Stichting pensioenfonds ABP; 
 
-j. UWV: het Uitvoeringsinstituut werknemersverzekeringen genoemd in [hoofdstuk 5 van de Wet-SUWI](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); 
+j. medisch advies: advies van de deskundige persoon of de arbodienst dat ten aanzien van de ambtenaar is uitgebracht na een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md); 
 
-k. passende arbeid: alle arbeid die voor de krachten en de bekwaamheden van de ambtenaar is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd; 
+k. UWV: het Uitvoeringsinstituut werknemersverzekeringen genoemd in [hoofdstuk 5 van de Wet-SUWI](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); 
 
-l. Pensioenreglement: het Pensioenreglement van de stichting pensioenfonds ABP; 
+l. passende arbeid: alle arbeid die voor de krachten en de bekwaamheden van de ambtenaar is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd; 
 
-m. Wet-SUWI: [de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); 
+m. Pensioenreglement: het Pensioenreglement van de stichting pensioenfonds ABP; 
 
-n. WW: [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md); 
+n. Wet-SUWI: [de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md); 
 
-o. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md); 
+o. WW: [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md); 
 
-p. ZW: [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md); 
+p. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md); 
 
-q. werknemersverzekering: [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [ZW](../../../../../wet/ziektewet/BWBR0001888/README.md), dan wel [WW](../../../../../wet/werkloosheidswet/BWBR0004045/README.md); 
+q. ZW: [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md); 
 
-r. zijn arbeid: hetgeen daaronder wordt verstaan ingevolge [artikel 19 van de ZW](../../../../../wet/ziektewet/BWBR0001888/README.md).  
+r. werknemersverzekering: [WAO](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [ZW](../../../../../wet/ziektewet/BWBR0001888/README.md), dan wel [WW](../../../../../wet/werkloosheidswet/BWBR0004045/README.md); 
+
+s. zijn arbeid: hetgeen daaronder wordt verstaan ingevolge [artikel 19 van de ZW](../../../../../wet/ziektewet/BWBR0001888/README.md).  
 
 ### §  2  
 
@@ -1344,6 +1346,17 @@ a. 1,75 procent van de berekeningsgrondslag, bedoeld in artikel 8.3 van het pens
 b. de pensioengeldige diensttijd, bedoeld in paragraaf 5 van het pensioenreglement.   De uitkering eindigt met ingang van de dag waarop de overleden ambtenaar de leeftijd van 65 jaar zou hebben bereikt, dan wel, indien de weduwe aan wie bedoeld pensioen werd toegekend, hertrouwt, met ingang van de maand volgend op die van het hertrouwen.   
 6.   Het vijfde lid is van overeenkomstige toepassing op de gewezen ambtenaar ten aanzien van wie het eerste lid toepassing heeft gevonden, indien zijn overlijden het rechtstreeks gevolg is van de arbeidsongeschiktheid, bedoeld in dat lid.    
 7.   Artikel 62, achtste lid, is van overeenkomstige toepassing op de bezoldiging, bedoeld in het tweede en derde lid.   
+
+### Artikel  65a  
+
+####Volledige schadevergoeding
+
+1.  De ambtenaar of de gewezen ambtenaar die een beroepsincident als bedoeld in artikel 54a, onderdeel f, is overkomen, heeft recht op volledige vergoeding van de schade die hij ten gevolge van dat beroepsincident lijdt.   
+2.  De nabestaanden van de ambtenaar die is overleden ten gevolge van een beroepsincident hebben aanspraak op een volledige vergoeding van de schade die zij tengevolge daarvan lijden.   
+3.  De nabestaanden van de gewezen ambtenaar, die is overleden aan de gevolgen van een beroepsincident, hebben aanspraak op een volledige vergoeding van de schade die zij tengevolge daarvan lijden, voor zover er op grond van het eerste lid geen schadevergoeding aan de gewezen ambtenaar is toegekend.   
+4.  Bij de vaststelling van de omvang van de in het vorige leden bedoelde schadevergoeding wordt rekening gehouden met de materiële aanspraken op grond van de rechtspositie en andere uitkeringen welke in verband staan met het beroepsincident.   
+5.  Dit artikel is niet van toepassing op beroepsincidenten die zich hebben voorgedaan voor 1 juni 2012.   
+6.  Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.  
 
 ### §  7  
 

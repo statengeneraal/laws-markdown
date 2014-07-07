@@ -263,7 +263,7 @@ b. een schoolbegeleidingsdienst, indien de leerling is opgenomen in een ziekenhu
 
 ####Centrale eindtoets taal en rekenen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 1.  In het achtste schooljaar legt de leerling in een volledige week tussen 15 april en 15 mei een centrale eindtoets af. De centrale eindtoets kan op verschillende niveaus worden aangeboden.   
 2.  De centrale eindtoets meet kennis en vaardigheden van de leerling op het terrein van Nederlandse taal en rekenen en wiskunde. Het bevoegd gezag kan bij een leerling tevens de toets voor de kennisgebieden, genoemd in artikel 9, tweede lid, onderdelen a, b en c, afnemen.   
@@ -3179,7 +3179,7 @@ Onze minister zendt binnen vijf jaar na de inwerkingtreding van de artikelen 10a
 
 ####Evaluatie centrale eindtoets en leerling- en onderwijsvolgsysteem
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-08-2014 
 
 Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel I van de [Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)](../../../wet/wijzigingswet/wet/op/het/primair/onderwijs/enz./(centrale/eindtoets/en/etc/BWBR0034687/README.md) (Stb. 2014, 13) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 8, zesde lid, en artikel 9b van de wet in de praktijk. 
 

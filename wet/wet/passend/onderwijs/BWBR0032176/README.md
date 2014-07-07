@@ -65,7 +65,7 @@ Wijzigt de Leerplichtwet 1969.
 
 ### Artikel  VIII  
 
-####Wijziging [Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./(invoering/regeling/etc/BWBR0014350/README.md) (Stb. 2002, 631)
+####Wijziging [Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./etc/BWBR0014350/README.md) (Stb. 2002, 631)
 
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -243,7 +243,7 @@ Een verzoek van het bevoegd gezag om goedkeuring door Onze Minister van de inric
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Met ingang van 1 augustus 2013 ontvangt het bevoegd gezag dat op 31 juli 2013 expertisebekostiging ontving op grond van artikel VII, tweede lid, of [artikel VIIa, derde lid, van de Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./(invoering/regeling/etc/BWBR0014350/README.md) (Stb. 2002, 631) 90% van die expertisebekostiging. 
+Met ingang van 1 augustus 2013 ontvangt het bevoegd gezag dat op 31 juli 2013 expertisebekostiging ontving op grond van artikel VII, tweede lid, of [artikel VIIa, derde lid, van de Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./etc/BWBR0014350/README.md) (Stb. 2002, 631) 90% van die expertisebekostiging. 
 
 ### Artikel  XXIII  
 
