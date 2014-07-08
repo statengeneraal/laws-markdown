@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Centrale Raad voor Strafrechtstoepassing en het College van Advies voor de justitiële kinderbescherming samen te voegen tot een Raad voor strafrechtstoepassing en jeugdbescherming en aan de Raad tevens een toezichthoudende taak toe te kennen op het terrein van de tenuitvoerlegging van aan jeugdigen opgelegde straffen en maatregelen, en deswege het [Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en enige andere wetten te wijzigen en de Beginselenwet gevangeniswezen in te trekken;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Centrale Raad voor Strafrechtstoepassing en het College van Advies voor de justitiële kinderbescherming samen te voegen tot een Raad voor strafrechtstoepassing en jeugdbescherming en aan de Raad tevens een toezichthoudende taak toe te kennen op het terrein van de tenuitvoerlegging van aan jeugdigen opgelegde straffen en maatregelen, en deswege het Wetboek van Strafrecht en enige andere wetten te wijzigen en de Beginselenwet gevangeniswezen in te trekken;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -22,7 +22,7 @@ b. vrijheidsstraf: gevangenisstraf, (vervangende) hechtenis, militaire detentie 
 
 c. vrijheidsbeperkende straf: voorwaardelijke vrijheidsstraf en taakstraf;  
 
-d. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting in verband met de tenuitvoerlegging van een machtiging als bedoeld in [artikel 29b](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [29c van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;  
+d. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting in verband met de tenuitvoerlegging van een machtiging als bedoeld in artikel 29b en 29c van de Wet op de jeugdzorg, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;  
 
 e. vrijheidsbeperkende maatregel: voorwaardelijke vrijheidsbenemende maatregel;  
 
@@ -68,11 +68,11 @@ b.personen, werkzaam onder de verantwoordelijkheid van Onze Minister, indien hun
 
 c.bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een door Onze Minister gesubsidieerde instelling die werkzaam is op het terrein van de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen;
 
-d.bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+d.bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg;
 
-e.personen die werkzaam zijn bij of deel uitmaken van een instantie die toezicht houdt op de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen of op de taken, bedoeld in [artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+e.personen die werkzaam zijn bij of deel uitmaken van een instantie die toezicht houdt op de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen of op de taken, bedoeld in artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg;
 
-f.personen tegen wie bezwaren bestaan voor wat betreft de vervulling van de functie, die blijken uit de justitiële gegevens, bedoeld in het [Besluit justitiële gegevens](../../../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md), of uit politiegegevens, bedoeld in [artikel 1, onder a, van de Wet politiegegevens](../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md); de bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden.  
+f.personen tegen wie bezwaren bestaan voor wat betreft de vervulling van de functie, die blijken uit de justitiële gegevens, bedoeld in het Besluit justitiële gegevens, of uit politiegegevens, bedoeld in artikel 1, onder a, van de Wet politiegegevens; de bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden.  
 4.  Bij de samenstelling van de Raad wordt gestreefd naar evenredige deelneming van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen.  
 
 ### Artikel  6  
@@ -138,7 +138,7 @@ De Raad zendt jaarlijks voor 1 april aan Onze Minister een ontwerp voor de begro
 
 ### Artikel  18  
 
-De Raad houdt bij het vervullen van zijn taken zo veel mogelijk rekening met het werkprogramma. Onverminderd de [Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) vervult hij zijn taak met de middelen die ingevolge de desbetreffende begrotingswet ter beschikking zijn gesteld. 
+De Raad houdt bij het vervullen van zijn taken zo veel mogelijk rekening met het werkprogramma. Onverminderd de Comptabiliteitswet vervult hij zijn taak met de middelen die ingevolge de desbetreffende begrotingswet ter beschikking zijn gesteld. 
 
 ### Artikel  19  
 

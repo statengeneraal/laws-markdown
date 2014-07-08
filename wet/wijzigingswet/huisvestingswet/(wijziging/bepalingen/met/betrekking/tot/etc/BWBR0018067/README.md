@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Huisvestingswet](../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) zodanig te wijzigen dat de huisvesting van verblijfsgerechtigden voortvarender ter hand kan worden genomen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Huisvestingswet zodanig te wijzigen dat de huisvesting van verblijfsgerechtigden voortvarender ter hand kan worden genomen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ###Artikel I 
@@ -15,7 +15,7 @@ Wijzigt de Huisvestingswet.
 
 ###Artikel II 
 
-Het in [artikel 60f, eerste lid, van de Huisvestingswet](../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md), zoals [die wet](../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) luidt na de inwerkingtreding van deze wet, bedoelde verslag wordt voor de eerste maal opgesteld nadat sedert het tijdstip van inwerkingtreding van deze wet een geheel kalenderhalfjaar is verstreken. Over het daaraan voorafgaande kalenderhalfjaar wordt verslag uitgebracht op de wijze als is aangegeven in [artikel 60f van de Huisvestingswet](../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md), zoals [die wet](../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) laatstelijk luidde voor de inwerkingtreding van deze wet.
+Het in artikel 60f, eerste lid, van de Huisvestingswet, zoals die wet luidt na de inwerkingtreding van deze wet, bedoelde verslag wordt voor de eerste maal opgesteld nadat sedert het tijdstip van inwerkingtreding van deze wet een geheel kalenderhalfjaar is verstreken. Over het daaraan voorafgaande kalenderhalfjaar wordt verslag uitgebracht op de wijze als is aangegeven in artikel 60f van de Huisvestingswet, zoals die wet laatstelijk luidde voor de inwerkingtreding van deze wet.
 
 ###Artikel III 
 

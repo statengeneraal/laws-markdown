@@ -16,15 +16,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. huisvestingsvergunning: vergunning als bedoeld in [artikel 7, eerste lid, van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+a. huisvestingsvergunning: vergunning als bedoeld in artikel 7, eerste lid, van de Huisvestingswet;  
 
 b. regio: gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd;  
 
-c. huisvestingsverordening: verordening als bedoeld in [artikel 2 van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+c. huisvestingsverordening: verordening als bedoeld in artikel 2 van de Huisvestingswet;  
 
 d. Onze Minister: Onze Minister voor Wonen en Rijksdienst;  
 
-e. persoonsgegeven: persoonsgegeven als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+e. persoonsgegeven: persoonsgegeven als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens.  
 
 ### Hoofdstuk  2  
 
@@ -55,11 +55,11 @@ b. een beschrijving van de sociaal-economische situatie in de kansenzone, inclus
 
 ### Artikel  4  
 
-1.  In de verordening op de heffing en invordering van de onroerendezaakbelastingen, bedoeld in [artikel 220 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), kan worden bepaald dat de belastingaanslag ter zake van onroerende zaken, die niet in hoofdzaak tot woning dienen zoals bedoeld in [artikel 220a, tweede lid, van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), waarvan de waarde zoals die op grond van de [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) is vastgesteld, niet hoger is dan € 500.000,– wordt verminderd.   
+1.  In de verordening op de heffing en invordering van de onroerendezaakbelastingen, bedoeld in artikel 220 van de Gemeentewet, kan worden bepaald dat de belastingaanslag ter zake van onroerende zaken, die niet in hoofdzaak tot woning dienen zoals bedoeld in artikel 220a, tweede lid, van de Gemeentewet, waarvan de waarde zoals die op grond van de Wet waardering onroerende zaken is vastgesteld, niet hoger is dan € 500.000,– wordt verminderd.   
 2.  De vermindering wordt zodanig vastgesteld dat deze niet leidt tot een negatieve aanslag.   
 3.  Het bedrag van de vermindering wordt op het aanslagbiljet vermeld.   
 4.  Indien binnen het grondgebied van een gemeente meer dan een kansenzone is aangewezen wordt de vermindering van de belastingaanslag, bedoeld in het eerste lid, voor alle kansenzones op dezelfde wijze bepaald.   
-5.  Het eerste tot met vierde lid zijn van overeenkomstige toepassing op de belastingen, bedoeld in [artikel 221 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), voor zover die worden geheven ter zake van bedrijfsruimten.  
+5.  Het eerste tot met vierde lid zijn van overeenkomstige toepassing op de belastingen, bedoeld in artikel 221 van de Gemeentewet, voor zover die worden geheven ter zake van bedrijfsruimten.  
 
 ### Hoofdstuk  3  
 
@@ -78,7 +78,7 @@ a. noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problemat
 
 b. voldoet aan de eisen van subsidiariteit en proportionaliteit.     
 2.  De aanwijzing, bedoeld in artikel 5, geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.   
-3.  Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.   
+3.  Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen, het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.   
 4.  Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in artikel 5, eerste lid, een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.  
 
 ### Artikel  7  
@@ -100,23 +100,23 @@ b. een inkomen uit zelfstandig beroep of bedrijf;
 
 c. een inkomen op grond van een regeling voor vrijwillig vervroegd uittreden;  
 
-d. een ouderdomspensioen als bedoeld in de [Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+d. een ouderdomspensioen als bedoeld in de Algemene Ouderdomswet;  
 
-e. een ouderdoms- of nabestaandenpensioen als bedoeld in de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), of  
+e. een ouderdoms- of nabestaandenpensioen als bedoeld in de Wet op de loonbelasting 1964, of  
 
-f. studiefinanciering als bedoeld in de [Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).     
+f. studiefinanciering als bedoeld in de Wet studiefinanciering 2000.     
 2.  De gemeenteraad bepaalt in de huisvestingsverordening dat burgemeester en wethouders aan een woningzoekende die niet voldoet aan de eisen, genoemd in het eerste lid, een huisvestingsvergunning voor het in gebruik nemen van woonruimte als bedoeld in dat lid kunnen verlenen, indien het weigeren van die huisvestingsvergunning tot een onbillijkheid van overwegende aard zou leiden.   
-3.  De [artikelen 7](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md), [84, tweede en derde lid](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md), en [85 van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) zijn van overeenkomstige toepassing.   
-4.  De [artikelen 13a](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) en [13c van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) zijn niet van toepassing.  
+3.  De artikelen 7, 84, tweede en derde lid, en 85 van de Huisvestingswet zijn van overeenkomstige toepassing.   
+4.  De artikelen 13a en 13c van de Huisvestingswet zijn niet van toepassing.  
 
 ### Artikel  9  
 
 1.  De gemeenteraad kan, indien dat naar zijn oordeel noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente en voldoet aan de eisen van subsidiariteit en proportionaliteit, in de huisvestingsverordening bepalen dat voor daarbij aan te wijzen categorieën van woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden die voldoen aan in die verordening vastgelegde sociaal-economische kenmerken.   
-2.  De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in [artikel 11, eerste lid, van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md).  
+2.  De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in artikel 11, eerste lid, van de Huisvestingswet.  
 
 ### Artikel  10  
 
-1.  In afwijking van [artikel 2, derde lid, van de Huisvestingswet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), ten aanzien van de gebieden aangewezen op grond van artikel 5, de huisvestingsverordening vast.   
+1.  In afwijking van artikel 2, derde lid, van de Huisvestingswet stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen, ten aanzien van de gebieden aangewezen op grond van artikel 5, de huisvestingsverordening vast.   
 2.  De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van artikel 5 aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.  
 
 ### Hoofdstuk  4  

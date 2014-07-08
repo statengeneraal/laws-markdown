@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben dat het wenselijk is tegelijk met het voorstel van wet tot herziening van [Boek 7A van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7a/BWBR0006000/README.md), waarbij een aantal bepalingen van de [Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) naar de nieuwe [titel 7.4 van Boek 7 van dat wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt overgeheveld, de overige bepalingen van de [Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) en die van de [Wet op de huurcommissies](../../../../../wet/wet/op/de/huurcommissies/BWBR0003222/README.md) te integreren in een nieuw wetsvoorstel en deze bepalingen waar mogelijk te vereenvoudigen, alsmede op een aantal plaatsen inhoudelijke wijzigingen aan te brengen;
+Alzo Wij in overweging genomen hebben dat het wenselijk is tegelijk met het voorstel van wet tot herziening van Boek 7A van het Burgerlijk Wetboek, waarbij een aantal bepalingen van de Huurprijzenwet woonruimte naar de nieuwe titel 7.4 van Boek 7 van dat wetboek wordt overgeheveld, de overige bepalingen van de Huurprijzenwet woonruimte en die van de Wet op de huurcommissies te integreren in een nieuw wetsvoorstel en deze bepalingen waar mogelijk te vereenvoudigen, alsmede op een aantal plaatsen inhoudelijke wijzigingen aan te brengen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -22,7 +22,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a.  *basishuurverhogingspercentage:* het maximale huurverhogingspercentage dat behoort bij het huishoudinkomen dat over het peiljaar lager is dan of gelijk is aan € 34.085; 
 
-b.  *gebrek:* gebrek als bedoeld in [artikel 7:241 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+b.  *gebrek:* gebrek als bedoeld in artikel 7:241 van het Burgerlijk Wetboek;  
 
 c.  *huurcommissie:* huurcommissie als bedoeld in artikel 3a;  
 
@@ -31,7 +31,7 @@ d.  *inflatiepercentage:* het onmiddellijk voorafgaand aan de datum van 1 juli,
 e.  *Onze Minister:* Onze Minister voor Wonen en Rijksdienst;  
 
 f.  *zittingscommissie:* zittingscommissie als bedoeld in artikel 21, eerste lid.     
-2.  In deze wet en de daarop berustende bepalingen wordt onder woonruimte, zelfstandige woning, woonwagen, standplaats, prijs, huurprijs, huishoudinkomen, peiljaar en kosten voor nutsvoorzieningen met een individuele meter en servicekosten verstaan hetgeen daaronder wordt verstaan in [afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+2.  In deze wet en de daarop berustende bepalingen wordt onder woonruimte, zelfstandige woning, woonwagen, standplaats, prijs, huurprijs, huishoudinkomen, peiljaar en kosten voor nutsvoorzieningen met een individuele meter en servicekosten verstaan hetgeen daaronder wordt verstaan in afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek.   
 
 ### §  2  
 
@@ -43,8 +43,8 @@ Deze wet is niet van toepassing op overeenkomsten van huur en verhuur van woonru
 
 ### Artikel  3  
 
-1.  Op huurovereenkomsten waarop ingevolge [artikel 7:247 van het Burgerlijk Wetboek onderafdeling 2 van afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) ten dele van toepassing is, is deze wet slechts van toepassing voorzover dat uit die onderafdeling voortvloeit.   
-2.  Bij algemene maatregel van bestuur wordt het in [artikel 7:247 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde bedrag van de huurprijs bij aanvang van de bewoning vastgesteld, waarboven ingevolge dat artikel voornoemde onderafdeling ten dele van toepassing is.  
+1.  Op huurovereenkomsten waarop ingevolge artikel 7:247 van het Burgerlijk Wetboek onderafdeling 2 van afdeling 5 van titel 7.4 van Boek 7 van het Burgerlijk Wetboek ten dele van toepassing is, is deze wet slechts van toepassing voorzover dat uit die onderafdeling voortvloeit.   
+2.  Bij algemene maatregel van bestuur wordt het in artikel 7:247 van het Burgerlijk Wetboek bedoelde bedrag van de huurprijs bij aanvang van de bewoning vastgesteld, waarboven ingevolge dat artikel voornoemde onderafdeling ten dele van toepassing is.  
 
 ### Hoofdstuk  II  
 
@@ -60,13 +60,13 @@ Deze wet is niet van toepassing op overeenkomsten van huur en verhuur van woonru
 2.  De huurcommissie bestaat uit een bestuur en minimaal vier en maximaal tien zittingsvoorzitters. Daarnaast bestaat de huurcommissie uit zittingsleden uit de kring van huurders onderscheidenlijk de kring van verhuurders. Voor de behandeling van geschillen als bedoeld in artikel 4a kunnen ook personen van buiten de kring van huurders onderscheidenlijk de kring van verhuurders zittingslid zijn. Het bestuur bestaat uit een voorzitter en een plaatsvervangend voorzitter.   
 3.  Het bestuur en de zittingsvoorzitters hebben tot taak binnen de huurcommissie de eenheid en de kwaliteit van de uitspraken, adviezen en verklaringen te bevorderen. Zij kunnen met het oog hierop regels stellen. Bij de uitvoering van deze taak treden zij niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak.   
 4.  Indien ten aanzien van het stellen van de regels, bedoeld in het derde lid, tussen het bestuur enerzijds en de zittingsvoorzitters gezamenlijk anderzijds een verschil van mening bestaat, beslist het bestuur. Indien binnen het bestuur een verschil van mening bestaat, beslist de voorzitter. Indien binnen de kring van zittingsvoorzitters een verschil van mening bestaat, wordt onderling bij meerderheid van stemmen beslist, waarbij bij een staking van de stemmen binnen die kring het bestuur beslist.   
-5.  In afwijking van [artikel 20 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), heeft het bestuur, in plaats van het zelfstandig bestuursorgaan, de bevoegdheden en taken die zijn genoemd in dat artikel.  
+5.  In afwijking van artikel 20 van de Kaderwet zelfstandige bestuursorganen, heeft het bestuur, in plaats van het zelfstandig bestuursorgaan, de bevoegdheden en taken die zijn genoemd in dat artikel.  
 
 ### Artikel  3b  
 
 1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters worden door Onze Minister benoemd, geschorst en ontslagen. De voorzitter en de plaatsvervangend voorzitter worden benoemd voor een tijdvak van zes jaar en kunnen voor maximaal een aansluitend tijdvak van zes jaar als voorzitter onderscheidenlijk plaatsvervangend voorzitter worden herbenoemd. De zittingsvoorzitters worden over de benoeming en herbenoeming van de voorzitter en de plaatsvervangend voorzitter gehoord. De zittingsvoorzitters worden benoemd voor een tijdvak van vier jaar en kunnen voor maximaal twee aansluitende tijdvakken van vier jaar als zittingsvoorzitter worden herbenoemd. Het bestuur wordt over de benoeming en herbenoeming van de zittingsvoorzitters gehoord.   
-2.  Aan de voorzitter en de zittingsvoorzitters moet op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, dan wel moeten die voorzitter en die zittingsvoorzitters op grond van het afleggen van een examen van een opleiding aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht om de titel meester te voeren hebben verkregen, of blijk hebben gegeven op andere wijze de voor de functie van voorzitter onderscheidenlijk zittingsvoorzitter benodigde kennis te hebben verworven.   
-3.  Onverminderd [artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), mogen de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters niet metterdaad betrokken zijn bij de uitoefening van een bedrijf dat werkzaam is of mede werkzaam is op het gebied van woonruimte, noch is het hen toegestaan beroepsmatig betrokken te zijn bij het beheer van en de beschikking over woonruimte dan wel deel uit te maken van het bestuur van een vereniging, vennootschap of stichting die daarbij is betrokken, of aangesloten te zijn bij een bewonerscommissie als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md).   
+2.  Aan de voorzitter en de zittingsvoorzitters moet op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, dan wel moeten die voorzitter en die zittingsvoorzitters op grond van het afleggen van een examen van een opleiding aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht om de titel meester te voeren hebben verkregen, of blijk hebben gegeven op andere wijze de voor de functie van voorzitter onderscheidenlijk zittingsvoorzitter benodigde kennis te hebben verworven.   
+3.  Onverminderd artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen, mogen de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters niet metterdaad betrokken zijn bij de uitoefening van een bedrijf dat werkzaam is of mede werkzaam is op het gebied van woonruimte, noch is het hen toegestaan beroepsmatig betrokken te zijn bij het beheer van en de beschikking over woonruimte dan wel deel uit te maken van het bestuur van een vereniging, vennootschap of stichting die daarbij is betrokken, of aangesloten te zijn bij een bewonerscommissie als bedoeld in artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder.   
 4.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een bezoldiging, een vergoeding voor reis- en verblijfkosten en verdere vergoedingen volgens bij ministeriële regeling te geven regels. Hun rechtspositie wordt nader geregeld bij algemene maatregel van bestuur.  
 
 ### Artikel  3c  
@@ -84,11 +84,11 @@ Het bestuur geeft leiding aan de werkzaamheden van de huurcommissie en de admini
 
 ### Artikel  3e  
 
-Onverminderd [artikel 12, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), worden de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters ook ontslagen indien zij de leeftijd van zeventig jaren hebben bereikt. 
+Onverminderd artikel 12, tweede lid, van de Kaderwet zelfstandige bestuursorganen, worden de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters ook ontslagen indien zij de leeftijd van zeventig jaren hebben bereikt. 
 
 ### Artikel  3f  
 
-1.  Het bestuur stelt een bestuursreglement vast, gehoord de zittingsvoorzitters. Het reglement behoeft de goedkeuring van Onze Minister. [Artikel 11, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van overeenkomstige toepassing.   
+1.  Het bestuur stelt een bestuursreglement vast, gehoord de zittingsvoorzitters. Het reglement behoeft de goedkeuring van Onze Minister. Artikel 11, tweede lid, van de Kaderwet zelfstandige bestuursorganen is van overeenkomstige toepassing.   
 2.  In het bestuursreglement worden de hoofdlijnen van de inrichting en de werkwijze van de organisatie van de huurcommissie, alsmede de zittingslocaties vastgesteld.  
 
 ### Artikel  3g  
@@ -106,12 +106,12 @@ Onze Minister voorziet in de administratieve ondersteuning van de huurcommissie.
 
 ### Artikel  3i  
 
-1.  Het bestuur houdt een openbaar register aan, waarin met weglating van de namen van de betrokken huurders, verhuurders, bewonerscommissies als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en huurdersorganisaties als bedoeld in artikel 1, eerste lid, onderdeel f, van die wet de slotwoorden van de uitspraken van de huurcommissie en van de voorzittersuitspraken zijn opgenomen.   
+1.  Het bestuur houdt een openbaar register aan, waarin met weglating van de namen van de betrokken huurders, verhuurders, bewonerscommissies als bedoeld in artikel 1, eerste lid, onderdeel g, van de Wet op het overleg huurders verhuurder en huurdersorganisaties als bedoeld in artikel 1, eerste lid, onderdeel f, van die wet de slotwoorden van de uitspraken van de huurcommissie en van de voorzittersuitspraken zijn opgenomen.   
 2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de inrichting van het register.  
 
 ### Artikel  3j  
 
-1.  In afwijking van [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), strekt de bevoegdheid van Onze Minister tot het vernietigen van besluiten zich niet uit tot de uitspraken, de adviezen en de verklaringen van de huurcommissie onderscheidenlijk de voorzitter.   
+1.  In afwijking van artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen, strekt de bevoegdheid van Onze Minister tot het vernietigen van besluiten zich niet uit tot de uitspraken, de adviezen en de verklaringen van de huurcommissie onderscheidenlijk de voorzitter.   
 2.  Onze Minister treedt bij de uitvoering van de bevoegdheden, toegedeeld bij of krachtens de wet en de in het eerste lid genoemde wet niet in de procedurele behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak of in categorieën van zaken.  
 
 ### §  2  
@@ -123,41 +123,41 @@ Onze Minister voorziet in de administratieve ondersteuning van de huurcommissie.
 1.  De huurcommissie heeft de in het tweede tot en met vierde lid en in de artikelen 4a en 5 aangegeven taken.   
 2.  De huurcommissie doet uitspraak: 
 
-a. ingevolge [artikel 7:249 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de redelijkheid van de overeengekomen aanvangshuurprijs;  
+a. ingevolge artikel 7:249 van het Burgerlijk Wetboek over de redelijkheid van de overeengekomen aanvangshuurprijs;  
 
-b. ingevolge [artikel 7:253 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de redelijkheid van het voorstel tot verhoging van de huurprijs;  
+b. ingevolge artikel 7:253 van het Burgerlijk Wetboek over de redelijkheid van het voorstel tot verhoging van de huurprijs;  
 
-c. ingevolge [artikel 7:254 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de redelijkheid van het voorstel tot verlaging van de huurprijs;  
+c. ingevolge artikel 7:254 van het Burgerlijk Wetboek over de redelijkheid van het voorstel tot verlaging van de huurprijs;  
 
-d. ingevolge [artikel 7:255 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over het bedrag van de verhoging van de huurprijs na de totstandkoming van voorzieningen, veranderingen of toevoegingen;  
+d. ingevolge artikel 7:255 van het Burgerlijk Wetboek over het bedrag van de verhoging van de huurprijs na de totstandkoming van voorzieningen, veranderingen of toevoegingen;  
 
-e. ingevolge [artikel 7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de in rekening te brengen huurprijs bij vermindering van het woongenot als gevolg van een gebrek;  
+e. ingevolge artikel 7:257 van het Burgerlijk Wetboek over de in rekening te brengen huurprijs bij vermindering van het woongenot als gevolg van een gebrek;  
 
-f. ingevolge [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen;  
+f. ingevolge artikel 7:258 van het Burgerlijk Wetboek over de huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen;  
 
-g. ingevolge [artikel 7:260 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over de betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten;  
+g. ingevolge artikel 7:260 van het Burgerlijk Wetboek over de betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten;  
 
-h. ingevolge [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) over het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter.     
-3.  De huurcommissie doet uitspraak in gevallen waarin als gevolg van een uitspraak als bedoeld in de [artikelen 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) de in rekening te brengen huurprijs in verband met gebreken is verlaagd, omtrent het verholpen zijn van die gebreken.   
+h. ingevolge artikel 7:261 van het Burgerlijk Wetboek over het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter.     
+3.  De huurcommissie doet uitspraak in gevallen waarin als gevolg van een uitspraak als bedoeld in de artikelen 7:249 en 7:257 van het Burgerlijk Wetboek de in rekening te brengen huurprijs in verband met gebreken is verlaagd, omtrent het verholpen zijn van die gebreken.   
 4.  De huurcommissie doet uitspraak indien ingevolge artikel 20, zesde lid, verzet is gedaan tegen een uitspraak van de voorzitter.  
 
 ### Artikel  4a  
 
 De huurcommissie doet uitspraak in geschillen over: 
 
-a. het voeren van overleg en het verschaffen van informatie als bedoeld in de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+a. het voeren van overleg en het verschaffen van informatie als bedoeld in de Wet op het overleg huurders verhuurder;  
 
-b. het bevorderen van de werkzaamheden van een bewonerscommissie als bedoeld in [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+b. het bevorderen van de werkzaamheden van een bewonerscommissie als bedoeld in die wet;  
 
-c. het vergoeden van kosten van een huurdersorganisatie als bedoeld in [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md);  
+c. het vergoeden van kosten van een huurdersorganisatie als bedoeld in die wet;  
 
-d. overige verplichtingen die voortvloeien uit [die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md).   
+d. overige verplichtingen die voortvloeien uit die wet.   
 
 ### Artikel  5  
 
-1.  De huurcommissie doet desverzocht uitspraak over de redelijkheid van een gebruiksvergoeding of een aanvullende vergoeding, als bedoeld in [artikel 51, eerste, onderscheidenlijk derde lid, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md) en over de wijziging daarvan, bedoeld in [artikel 52, eerste lid, van die wet](../../../../../wet/huisvestingswet/BWBR0005674/README.md).   
+1.  De huurcommissie doet desverzocht uitspraak over de redelijkheid van een gebruiksvergoeding of een aanvullende vergoeding, als bedoeld in artikel 51, eerste, onderscheidenlijk derde lid, van de Huisvestingswet en over de wijziging daarvan, bedoeld in artikel 52, eerste lid, van die wet.   
 2.  De huurcommissie verstrekt desverzocht aan de rechter nadere inlichtingen over een door haar gedane uitspraak, alsmede, ingeval zij geen uitspraak heeft gedaan, indien de rechter geacht kan worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit en een voor die woonruimte redelijk te achten huurprijs.   
-3.  De huurcommissie verstrekt desverzocht verklaringen aan Onze Minister en aan publiekrechtelijke lichamen die geacht kunnen worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit, de gebreken ten aanzien van die woonruimte en een voor die woonruimte redelijk te achten huurprijs. De hierbedoelde verklaring wordt niet gegeven, indien het belang van de verklaring is gelegen in de beoordeling door de verzoeker van een huurovereenkomst als bedoeld in artikel 3, tenzij het belang daarvan gelegen is in de toepassing van [artikel 1, vierde lid, van de Huisvestingswet](../../../../../wet/huisvestingswet/BWBR0005674/README.md). Bij ministeriële regeling kunnen voor de uitvoering van de in de eerste volzin bedoelde taak nadere regels worden gegeven.   
+3.  De huurcommissie verstrekt desverzocht verklaringen aan Onze Minister en aan publiekrechtelijke lichamen die geacht kunnen worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit, de gebreken ten aanzien van die woonruimte en een voor die woonruimte redelijk te achten huurprijs. De hierbedoelde verklaring wordt niet gegeven, indien het belang van de verklaring is gelegen in de beoordeling door de verzoeker van een huurovereenkomst als bedoeld in artikel 3, tenzij het belang daarvan gelegen is in de toepassing van artikel 1, vierde lid, van de Huisvestingswet. Bij ministeriële regeling kunnen voor de uitvoering van de in de eerste volzin bedoelde taak nadere regels worden gegeven.   
 4.  De huurcommissie geeft ten aanzien van een huurovereenkomst als bedoeld in artikel 3 desverzocht advies over aangelegenheden waaromtrent de huurcommissie bevoegd zou zijn uitspraak te doen indien artikel 3 daaraan niet in de weg zou staan. De huurcommissie geeft een dergelijk advies slechts voorzover in de huurovereenkomst of anderszins tussen partijen is afgesproken dat de desbetreffende aangelegenheden bij geschil aan de huurcommissie worden voorgelegd.  
 
 ### Artikel  6  
@@ -166,7 +166,7 @@ d. overige verplichtingen die voortvloeien uit [die wet](../../../../../wet/wet/
 
 a. in afwijking van artikel 4, eerste lid, in de in het tweede en derde lid van dat artikel aangegeven gevallen en over geschillen als bedoeld in artikel 4a uitspraak te doen indien ten aanzien van een aan de huurcommissie gedaan verzoek een van de in artikel 20, eerste lid, bedoelde gevallen zich voordoet;  
 
-b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld in [artikel 5, tweede lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) binnen zes weken een verklaring te verstrekken omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte waarvoor een aanvraag om een huurtoeslag is ingediend, een en ander voorzover van belang voor de toepassing van genoemde wet.    
+b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld in artikel 5, tweede lid, van de Wet op de huurtoeslag binnen zes weken een verklaring te verstrekken omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte waarvoor een aanvraag om een huurtoeslag is ingediend, een en ander voorzover van belang voor de toepassing van genoemde wet.    
 2.  De voorzitter kan zich bij de uitoefening van de taken, bedoeld in het eerste lid, laten vervangen door een zittingsvoorzitter. 
 
 ### §  3  
@@ -176,7 +176,7 @@ b. in de gevallen van een verzoek van de Belastingdienst/Toeslagen als bedoeld i
 ### Artikel  7  
 
 1.  Voor het door de huurcommissie doen van een uitspraak als bedoeld in artikel 4, tweede of derde lid, is door de verzoeker een voorschot op de voor hem geldende vergoeding aan de Staat, bedoeld in het tweede lid, verschuldigd of door de partij die niet de verzoeker is, de voor hem geldende vergoeding, bedoeld in dat lid. Het bedrag van dat voorschot en die vergoeding wordt bij algemene maatregel van bestuur vastgesteld, mede aan de hand van het gegeven of de verzoeker of de partij die niet de verzoeker is een huurder of een verhuurder is. Het bedrag van dat voorschot en die vergoeding dat voor de huurder wordt vastgesteld, geldt eveneens voor de verhuurder die door het verstrekken van bij ministeriële regeling te bepalen gegevens aantoont dat hij een natuurlijke persoon is.  
-2.  Bij het doen van een uitspraak geeft de huurcommissie gemotiveerd aan welke partij en tot welk bedrag een vergoeding aan de Staat verschuldigd is. Indien de huurcommissie van oordeel is dat de huurder niet ingevolge [artikel 7:253, tweede lid, tweede volzin, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) gegevens met betrekking tot het huishoudinkomen heeft verstrekt, kan zij gemotiveerd uitspreken dat de verhuurder deze vergoeding niet is verschuldigd. Deze vergoeding is, in andere gevallen dan dat, bedoeld in de tweede volzin, verschuldigd door de partij die naar het oordeel van de huurcommissie geheel of voor het grootste deel, gelet op de strekking van het verzoekschrift, de in het ongelijk gestelde partij is. Indien de huurcommissie, in andere gevallen dan dat, bedoeld in de tweede volzin, van oordeel is dat beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, kan zij gemotiveerd uitspreken dat elke partij de helft van de voor hem geldende vergoeding aan de Staat verschuldigd is. In gevallen waarin de voorzitter bevoegd is tot het doen van een uitspraak, komen de in de eerste tot en met vierde volzin bedoelde bevoegdheden toe aan de voorzitter.   
+2.  Bij het doen van een uitspraak geeft de huurcommissie gemotiveerd aan welke partij en tot welk bedrag een vergoeding aan de Staat verschuldigd is. Indien de huurcommissie van oordeel is dat de huurder niet ingevolge artikel 7:253, tweede lid, tweede volzin, van het Burgerlijk Wetboek gegevens met betrekking tot het huishoudinkomen heeft verstrekt, kan zij gemotiveerd uitspreken dat de verhuurder deze vergoeding niet is verschuldigd. Deze vergoeding is, in andere gevallen dan dat, bedoeld in de tweede volzin, verschuldigd door de partij die naar het oordeel van de huurcommissie geheel of voor het grootste deel, gelet op de strekking van het verzoekschrift, de in het ongelijk gestelde partij is. Indien de huurcommissie, in andere gevallen dan dat, bedoeld in de tweede volzin, van oordeel is dat beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, kan zij gemotiveerd uitspreken dat elke partij de helft van de voor hem geldende vergoeding aan de Staat verschuldigd is. In gevallen waarin de voorzitter bevoegd is tot het doen van een uitspraak, komen de in de eerste tot en met vierde volzin bedoelde bevoegdheden toe aan de voorzitter.   
 3.  Indien naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift, en in andere gevallen dan die, bedoeld in het tweede lid, tweede volzin, 
 
 a. de verzoeker de geheel of voor het grootste deel in het gelijk gestelde partij is, wordt: 
@@ -196,7 +196,7 @@ b. beide partijen in ongeveer gelijke mate in het ongelijk worden gesteld, wordt
 7.  Het bestuur roept de partij die niet de verzoeker is bij schriftelijk bericht op tot betaling van de in het derde lid, onderdeel a, onder 2°, of onderdeel b, onder 2°, bedoelde vergoeding binnen vier weken na de datum van verzending van dat bericht. Onze Minister kan die vergoeding invorderen bij dwangbevel.  
 8.  De voorzitter is bevoegd op verzoek van de verzoeker of de partij die niet de verzoeker is, indien deze een natuurlijk persoon is, vrijstelling te verlenen van de aan de Staat verschuldigde vergoeding, bedoeld in het eerste lid en tweede lid. Zolang niet is beslist op een aanvraag om vrijstelling, wordt de in het vierde en zevende lid genoemde termijn opgeschort. Bij ministeriële regeling wordt bepaald in welke gevallen de voorzitter van de bevoegdheid, bedoeld in de eerste volzin, gebruik kan maken. Artikel 6, tweede lid, is van overeenkomstige toepassing.   
 9.  De huurcommissie kan bij gelijkluidende of nagenoeg gelijkluidende verzoeken ten aanzien van de partij die niet de verzoeker is en een rechtspersoon is, indien deze, naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift, de geheel of voor het grootste deel in het ongelijk gestelde partij is, dan wel in ongeveer gelijke mate als de partij die de verzoeker is in het ongelijk wordt gesteld, afwijken van het eerste lid, eerste volzin, voor zover toepassing gelet op het belang dat die volzin beoogt te beschermen naar haar oordeel zal leiden tot een onbillijkheid van overwegende aard.  
-10.  Indien de partij die, gelet op de strekking van het verzoekschrift, in het ongelijk wordt gesteld, uitsluitend in het ongelijk wordt gesteld op grond van een eigen oordeel van de huurcommissie ten aanzien van de waardering van de energieprestatie van de woonruimte, dat afwijkt van een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat, is die partij, in afwijking van het eerste lid, eerste volzin, geen vergoeding als bedoeld in dat lid verschuldigd. 
+10.  Indien de partij die, gelet op de strekking van het verzoekschrift, in het ongelijk wordt gesteld, uitsluitend in het ongelijk wordt gesteld op grond van een eigen oordeel van de huurcommissie ten aanzien van de waardering van de energieprestatie van de woonruimte, dat afwijkt van een voor die woonruimte, overeenkomstig de op grond van artikel 120 van de Woningwet gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat, is die partij, in afwijking van het eerste lid, eerste volzin, geen vergoeding als bedoeld in dat lid verschuldigd. 
 
 ### Artikel  7a  
 
@@ -220,25 +220,25 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 ### Artikel  9  
 
 1.  Een verzoek aan de huurcommissie wordt schriftelijk ingediend.   
-2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens [titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bij de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) en bij of krachtens deze wet gestelde voorschriften.  
-3.  In geval van een verzoek als bedoeld in [artikel 7:260, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 36 beloopt.   
-4.  In geval van een verzoek als bedoeld in [artikel 7:261, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 3 per maand beloopt.   
+2.  De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens titel 4 van Boek 7 van het Burgerlijk Wetboek, bij de Wet op het overleg huurders verhuurder en bij of krachtens deze wet gestelde voorschriften.  
+3.  In geval van een verzoek als bedoeld in artikel 7:260, eerste lid, van het Burgerlijk Wetboek is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 36 beloopt.   
+4.  In geval van een verzoek als bedoeld in artikel 7:261, derde lid, van het Burgerlijk Wetboek is het verzoek niet-ontvankelijk indien het voorwerp van geschil een bedrag van minder dan € 3 per maand beloopt.   
 5.  De bedragen, genoemd in het derde en vierde lid, kunnen bij ministeriële regeling hoger of lager worden gesteld. 
 
 ### Artikel  9a  
 
-1.  Indien binnen een wooncomplex als bedoeld in [artikel 1 van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) sprake is van gelijkluidende of nagenoeg gelijkluidende verzoeken kunnen deze door ten minste de helft van de partijen die een woonruimte huren binnen dat wooncomplex of deel van dat wooncomplex collectief worden ingediend. Die partijen zijn daarbij elk het voorschot op de vergoeding aan de Staat, bedoeld in artikel 7, tweede lid, verschuldigd.   
+1.  Indien binnen een wooncomplex als bedoeld in artikel 1 van de Wet op het overleg huurders verhuurder sprake is van gelijkluidende of nagenoeg gelijkluidende verzoeken kunnen deze door ten minste de helft van de partijen die een woonruimte huren binnen dat wooncomplex of deel van dat wooncomplex collectief worden ingediend. Die partijen zijn daarbij elk het voorschot op de vergoeding aan de Staat, bedoeld in artikel 7, tweede lid, verschuldigd.   
 2.  Indien het verzoek naar het oordeel van de voorzitter niet voldoet aan de in het eerste lid genoemde vereisten, wordt het verzoek opgevat als per afzonderlijke woonruimte of groep van woonruimten ingediend. Artikel 6, tweede lid, is van overeenkomstige toepassing.   
 3.  De huurcommissie kan ten aanzien van de partijen, bedoeld in het eerste lid, indien die, naar het oordeel van de huurcommissie, gelet op de strekking van het verzoekschrift , de geheel of voor het grootste deel in het ongelijk gestelde partijen zijn, dan wel in ongeveer gelijke mate als de partij die niet de verzoeker is in het ongelijk worden gesteld, afwijken van artikel 7, eerste lid, eerste volzin, voor zover toepassing gelet op het belang dat die volzin beoogt te beschermen naar haar oordeel zal leiden tot een onbillijkheid van overwegende aard.  
 
 ### Artikel  10  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan, waarbij onderscheid kan worden gemaakt tussen woonruimte waarvoor de eigenaar een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt of indien dat niet het geval is daartoe op grond van die regels wel verplicht was, en overige woonruimte.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan, waarbij onderscheid kan worden gemaakt tussen woonruimte waarvoor de eigenaar een voor die woonruimte, overeenkomstig de op grond van artikel 120 van de Woningwet gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt of indien dat niet het geval is daartoe op grond van die regels wel verplicht was, en overige woonruimte.   
 2.  Bij ministeriële regeling wordt het maximale huurverhogingspercentage vastgesteld, mede aan de hand van het gegeven of het huishoudinkomen over het peiljaar van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte wonende huurder en overige bewoners, 
 
 a. hoger is dan € 34.085 doch lager is dan of gelijk is aan € 43.602, of  
 
-b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. De bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, worden met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd overeenkomstig de wijziging per 1 januari van het peiljaar van het bedrag, genoemd in[ artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md).  
+b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. De bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, worden met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd overeenkomstig de wijziging per 1 januari van het peiljaar van het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag.  
 
 ### §  2  
 
@@ -246,15 +246,15 @@ b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vorm
 
 ### Artikel  11  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:249 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van de overeengekomen huurprijs. Als een dergelijk verzoek wordt mede aangemerkt een verzoek ingevolge artikel 6, eerste lid, aanhef en onderdeel b, indien een aanvraag om een huurtoeslag voor de desbetreffende woonruimte is ingediend binnen de in [artikel 7: 249 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde termijn en indien en zodra de voorzitter op dat verzoek een verklaring heeft afgegeven waaruit blijkt dat de overeengekomen huurprijs hoger is dan de bij de desbetreffende woonruimte behorende maximale huurprijsgrens.   
+1.  In geval van een verzoek als bedoeld in artikel 7:249 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de redelijkheid van de overeengekomen huurprijs. Als een dergelijk verzoek wordt mede aangemerkt een verzoek ingevolge artikel 6, eerste lid, aanhef en onderdeel b, indien een aanvraag om een huurtoeslag voor de desbetreffende woonruimte is ingediend binnen de in artikel 7: 249 van het Burgerlijk Wetboek bedoelde termijn en indien en zodra de voorzitter op dat verzoek een verklaring heeft afgegeven waaruit blijkt dat de overeengekomen huurprijs hoger is dan de bij de desbetreffende woonruimte behorende maximale huurprijsgrens.   
 2.  De huurcommissie toetst in dat geval de redelijkheid van de overeengekomen huurprijs aan de krachtens artikel 10, eerste lid, gegeven regels.   
 3.  Indien de huurcommissie de overeengekomen huurprijs niet redelijk acht, vermeldt zij in haar uitspraak de huurprijs die zij redelijk acht.   
-4.  In geval sprake is van een huurovereenkomst als bedoeld in artikel 3 spreekt de huurcommissie, indien de beoordeling, bedoeld in het tweede lid, zou leiden tot een huurprijs boven de in [artikel 7:247 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde grens, uit dat de door partijen overeengekomen huurprijs redelijk is. Indien de huurprijs na de uitspraak van de huurcommissie en in voorkomend geval na de vaststelling ervan door de rechter onherroepelijk is komen vast te staan en niet boven die grens uitkomt, is [artikel 7:247](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) op die huurovereenkomst niet langer van toepassing.   
+4.  In geval sprake is van een huurovereenkomst als bedoeld in artikel 3 spreekt de huurcommissie, indien de beoordeling, bedoeld in het tweede lid, zou leiden tot een huurprijs boven de in artikel 7:247 van het Burgerlijk Wetboek genoemde grens, uit dat de door partijen overeengekomen huurprijs redelijk is. Indien de huurprijs na de uitspraak van de huurcommissie en in voorkomend geval na de vaststelling ervan door de rechter onherroepelijk is komen vast te staan en niet boven die grens uitkomt, is artikel 7:247 op die huurovereenkomst niet langer van toepassing.   
 5.  De huurcommissie beoordeelt de kwaliteit van de woonruimte en de redelijkheid van de huurprijs naar de toestand op de datum van ingang van de huurovereenkomst.  
 
 ### Artikel  12  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:249 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) spreekt de huurcommissie tevens uit of zij van oordeel is dat de overeengekomen huurprijs of de op grond van artikel 11, derde lid, redelijk geachte huurprijs, gelet op de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de huurcommissie van oordeel is dat die huurprijs, gelet op de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.   
+1.  In geval van een verzoek als bedoeld in artikel 7:249 van het Burgerlijk Wetboek spreekt de huurcommissie tevens uit of zij van oordeel is dat de overeengekomen huurprijs of de op grond van artikel 11, derde lid, redelijk geachte huurprijs, gelet op de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de huurcommissie van oordeel is dat die huurprijs, gelet op de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven die de huurcommissie bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs in acht neemt.   
 3.  De huurcommissie vermeldt in de uitspraak de datum van ingang van de in rekening te brengen lagere huurprijs, zijnde de ingangsdatum van de huurovereenkomst.   
 4.  De huurcommissie bepaalt in de uitspraak dat, nadat de in die uitspraak genoemde gebreken zijn verholpen, de in rekening te brengen lagere huurprijs niet meer van toepassing is met ingang van de eerste dag van de maand, volgend op die waarin de opheffing van die gebreken heeft plaatsgevonden.   
@@ -266,11 +266,11 @@ b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vorm
 
 ### Artikel  13  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:253 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverhoging die staat vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverhoging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverhoging leidt, dan wel dat zij een huurprijsverhoging niet redelijk acht.   
+1.  In geval van een verzoek als bedoeld in artikel 7:253 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverhoging die staat vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverhoging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverhoging leidt, dan wel dat zij een huurprijsverhoging niet redelijk acht.   
 2.  De huurcommissie vermeldt in de uitspraak de datum van ingang van de huurprijsverhoging, zijnde de in het in het eerste lid bedoelde voorstel vermelde datum van ingang, dan wel een latere datum indien de wet zulks voorschrijft.   
 3.  De huurcommissie toetst het voorstel tot huurprijsverhoging aan het krachtens artikel 10, tweede lid, geldende maximale huurverhogingspercentage.   
 4.  Bij de beoordeling van de kwaliteit van de woonruimte worden voorzieningen die de huurder onverplicht voor eigen rekening heeft aangebracht en waardoor het woongerief geacht kan worden te zijn gestegen, buiten beschouwing gelaten.   
-5.  De huurcommissie toetst het voorstel tot huurprijsverhoging, indien de huurder bezwaar heeft gemaakt tegen de woningwaardering in het voorstel, dan wel indien de huurprijs, vermeerderd met de voorgestelde huurprijsverhoging, de maximale huurprijsgrens zou kunnen overschrijden, tevens aan de krachtens artikel 10, eerste lid, gegeven regels met betrekking tot de waardering van de kwaliteit van een woonruimte. Daarbij vormt de huurcommissie slechts een eigen oordeel over de kwaliteit van de woonruimte, voorzover die kwaliteit al dan niet op onderdelen voorwerp van geschil is tussen partijen. De huurcommissie vormt zich daarbij geen eigen oordeel over de energieprestatie van de woonruimte, indien de eigenaar een voor die woonruimte, overeenkomstig de op grond van [artikel 120 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt. Indien sprake is van een voorstel tot verhoging van de huurprijs als bedoeld in [artikel 7:252a, eerste lid, aanhef en onderdeel a of b, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), toetst de huurcommissie, voor zover het huishoudinkomen voorwerp van geschil is tussen partijen, tevens of dat huishoudinkomen lager is dan of gelijk is aan het in artikel 10, tweede lid, eerste volzin, onderdeel a, eerstgenoemde bedrag, dan wel hoger is dan dat eerstgenoemde bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan het in onderdeel b van die volzin genoemde bedrag.   
+5.  De huurcommissie toetst het voorstel tot huurprijsverhoging, indien de huurder bezwaar heeft gemaakt tegen de woningwaardering in het voorstel, dan wel indien de huurprijs, vermeerderd met de voorgestelde huurprijsverhoging, de maximale huurprijsgrens zou kunnen overschrijden, tevens aan de krachtens artikel 10, eerste lid, gegeven regels met betrekking tot de waardering van de kwaliteit van een woonruimte. Daarbij vormt de huurcommissie slechts een eigen oordeel over de kwaliteit van de woonruimte, voorzover die kwaliteit al dan niet op onderdelen voorwerp van geschil is tussen partijen. De huurcommissie vormt zich daarbij geen eigen oordeel over de energieprestatie van de woonruimte, indien de eigenaar een voor die woonruimte, overeenkomstig de op grond van artikel 120 van de Woningwet gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt. Indien sprake is van een voorstel tot verhoging van de huurprijs als bedoeld in artikel 7:252a, eerste lid, aanhef en onderdeel a of b, van het Burgerlijk Wetboek, toetst de huurcommissie, voor zover het huishoudinkomen voorwerp van geschil is tussen partijen, tevens of dat huishoudinkomen lager is dan of gelijk is aan het in artikel 10, tweede lid, eerste volzin, onderdeel a, eerstgenoemde bedrag, dan wel hoger is dan dat eerstgenoemde bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan het in onderdeel b van die volzin genoemde bedrag.   
 6.  De huurcommissie beoordeelt de kwaliteit van de woonruimte en de redelijkheid van de wijziging van de huurprijs naar de toestand, met uitzondering van de bepaling van de hoogte van het huishoudinkomen, op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum.  
 
 ### §  4  
@@ -279,20 +279,20 @@ b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vorm
 
 ### Artikel  14  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:254 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverlaging die staat vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverlaging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverlaging leidt, dan wel dat zij een huurprijsverlaging niet redelijk acht.   
-2.  Indien sprake is van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md):
+1.  In geval van een verzoek als bedoeld in artikel 7:254 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverlaging die staat vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverlaging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverlaging leidt, dan wel dat zij een huurprijsverlaging niet redelijk acht.   
+2.  Indien sprake is van een voorstel tot verlaging van de huurprijs als bedoeld in artikel 7:252b, eerste lid, van het Burgerlijk Wetboek:
 
 a. toetst de huurcommissie, voor zover het huishoudinkomen voorwerp van geschil is tussen partijen, of dat huishoudinkomen: 
 
-1°. gelijk is aan of lager is dan het in [artikel 14, eerste lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) betrokken genoemde bedrag,  
+1°. gelijk is aan of lager is dan het in artikel 14, eerste lid, van de Wet op de huurtoeslag betrokken genoemde bedrag,  
 
 2°. gelijk is aan of lager is dan het in artikel 10, tweede lid, eerste volzin, onderdeel a, eerstgenoemde bedrag, of  
 
 3°. hoger is dan het onder 2° bedoelde bedrag, doch gelijk is aan of lager is dan het in artikel 10, tweede lid, eerste volzin, onderdeel b, genoemde bedrag,    
 
-b. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet hoger dan de huurprijs die zou hebben gegolden, indien die over het tijdvak dat loopt van het tijdstip van het doen van het voorstel, bedoeld in de aanhef van dat artikellid, tot het tijdstip dat twee jaar daaraan voorafgaat, mede gebaseerd was geweest op het lagere huishoudinkomen en het daarmee corresponderende lagere maximale huurverhogingspercentage, en  
+b. is de huurprijs na een daling van het huishoudinkomen als bedoeld in artikel 7:252b, eerste lid, van het Burgerlijk Wetboek niet hoger dan de huurprijs die zou hebben gegolden, indien die over het tijdvak dat loopt van het tijdstip van het doen van het voorstel, bedoeld in de aanhef van dat artikellid, tot het tijdstip dat twee jaar daaraan voorafgaat, mede gebaseerd was geweest op het lagere huishoudinkomen en het daarmee corresponderende lagere maximale huurverhogingspercentage, en  
 
-c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel 7:252b, eerste lid, aanhef en onderdeel a, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voorts niet hoger dan het krachtens artikel 3, tweede lid, vastgestelde bedrag.    
+c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in artikel 7:252b, eerste lid, aanhef en onderdeel a, van het Burgerlijk Wetboek voorts niet hoger dan het krachtens artikel 3, tweede lid, vastgestelde bedrag.    
 3.   Artikel 13, tweede, vierde, vijfde, eerste en tweede volzin, en zesde lid, is van overeenkomstige toepassing.  
 
 ### §  5  
@@ -301,7 +301,7 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 
 ### Artikel  15  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:255 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de huurprijswijziging die zij redelijk acht. De huurcommissie vermeldt in de uitspraak dat de overeengekomen huurprijs redelijk is dan wel welke de huurprijs is die zij redelijk acht, alsmede de datum van ingang van de huurprijswijziging, zijnde de eerste dag van de maand, volgend op die waarin de voorzieningen, veranderingen of verbeteringen zijn gereedgekomen.   
+1.  In geval van een verzoek als bedoeld in artikel 7:255 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de huurprijswijziging die zij redelijk acht. De huurcommissie vermeldt in de uitspraak dat de overeengekomen huurprijs redelijk is dan wel welke de huurprijs is die zij redelijk acht, alsmede de datum van ingang van de huurprijswijziging, zijnde de eerste dag van de maand, volgend op die waarin de voorzieningen, veranderingen of verbeteringen zijn gereedgekomen.   
 2.  De huurcommissie toetst of het bedrag van de verhoging van de huurprijs in redelijke verhouding staat tot de door de verhuurder gemaakte kosten met betrekking tot de voorzieningen, veranderingen of toevoegingen. De artikelen 10, eerste lid, en 13, vierde lid, zijn van overeenkomstige toepassing.  
 
 ### §  6  
@@ -310,8 +310,8 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 
 ### Artikel  16  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:257, tweede lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak of zij van oordeel is dat de overeengekomen huurprijs, in verband met de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de commissie van oordeel is dat die huurprijs, in verband met de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.   
-2.  De huurcommissie neemt bij haar oordeel de krachtens artikel 12, tweede lid, vastgestelde regels in acht, met dien verstande dat de huurcommissie zich slechts een eigen oordeel over de gebreken vormt, voorzover deze aan de verhuurder door middel van de in [artikel 7:207 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde kennisgeving door de huurder zijn gemeld, alsmede over de gebreken die van zodanige aard of samenhang zijn dat ze ook zonder aanzegging aan de verhuurder bekend moesten zijn, zulks naar de toestand op het tijdstip waarop de bedoelde kennisgeving door de huurder is verzonden.   
+1.  In geval van een verzoek als bedoeld in artikel 7:257, tweede lid, van het Burgerlijk Wetboek doet de huurcommissie uitspraak of zij van oordeel is dat de overeengekomen huurprijs, in verband met de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de commissie van oordeel is dat die huurprijs, in verband met de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.   
+2.  De huurcommissie neemt bij haar oordeel de krachtens artikel 12, tweede lid, vastgestelde regels in acht, met dien verstande dat de huurcommissie zich slechts een eigen oordeel over de gebreken vormt, voorzover deze aan de verhuurder door middel van de in artikel 7:207 van het Burgerlijk Wetboek bedoelde kennisgeving door de huurder zijn gemeld, alsmede over de gebreken die van zodanige aard of samenhang zijn dat ze ook zonder aanzegging aan de verhuurder bekend moesten zijn, zulks naar de toestand op het tijdstip waarop de bedoelde kennisgeving door de huurder is verzonden.   
 3.  De huurcommissie vermeldt in de uitspraak de datum van ingang van de in rekening te brengen lagere huurprijs, zijnde de eerste dag van de maand, volgend op die waarin de in het tweede lid bedoelde aanzegging door de huurder aan de verhuurder is verzonden.   
 4.   Artikel 12, vierde en vijfde lid, is van overeenkomstige toepassing.   
 
@@ -321,12 +321,12 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 
 ### Artikel  17  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) oordeelt de huurcommissie dat de voorgestelde huurprijs redelijk is als deze niet lager dan 55% van de overeengekomen prijs en het voorgestelde voorschotbedrag voor de kosten voor nutsvoorzieningen en servicekosten niet lager dan 25% van de overeengekomen prijs is. Indien de huurcommissie van oordeel is dat de voorgestelde huurprijs niet redelijk is, stelt zij deze vast op 55% van de overeengekomen prijs en, voor zover nodig, het voorgestelde voorschotbedrag op 25% van de overeengekomen prijs.   
+1.  In geval van een verzoek als bedoeld in artikel 7:258 van het Burgerlijk Wetboek oordeelt de huurcommissie dat de voorgestelde huurprijs redelijk is als deze niet lager dan 55% van de overeengekomen prijs en het voorgestelde voorschotbedrag voor de kosten voor nutsvoorzieningen en servicekosten niet lager dan 25% van de overeengekomen prijs is. Indien de huurcommissie van oordeel is dat de voorgestelde huurprijs niet redelijk is, stelt zij deze vast op 55% van de overeengekomen prijs en, voor zover nodig, het voorgestelde voorschotbedrag op 25% van de overeengekomen prijs.   
 2.  Indien de huurcommissie van oordeel is dat niet een huurprijs is overeengekomen, vermeldt zij in haar uitspraak dat de door haar uitgesproken huurprijs en het voorschotbedrag voor de servicekosten in de plaats treden van de overeengekomen prijs met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
 
 ### Artikel  17a  
 
-1.  Ingeval bij een verzoek als bedoeld in [artikel 7:249](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:253](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:254](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:255](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:257, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [7:260](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of [7:261, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), blijkt dat de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurcommissie, voordat een uitspraak wordt gegeven, ambtshalve de huurprijs vaststellen op 55% van de overeengekomen prijs en, voor zover nodig, het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter en servicekosten op 25% van de overeengekomen prijs.   
+1.  Ingeval bij een verzoek als bedoeld in artikel 7:249, 7:253, 7:254, 7:255, 7:257, tweede lid, 7:260 of 7:261, derde lid, van het Burgerlijk Wetboek, blijkt dat de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurcommissie, voordat een uitspraak wordt gegeven, ambtshalve de huurprijs vaststellen op 55% van de overeengekomen prijs en, voor zover nodig, het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter en servicekosten op 25% van de overeengekomen prijs.   
 2.  Artikel 17, tweede lid, is van overeenkomstige toepassing.  
 
 ### §  8  
@@ -335,10 +335,10 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 
 ### Artikel  18  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:260 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de betalingsverplichting van de huurder met betrekking tot de servicekosten.   
+1.  In geval van een verzoek als bedoeld in artikel 7:260 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de betalingsverplichting van de huurder met betrekking tot de servicekosten.   
 2.  De huurcommissie toetst de kosten voor nutsvoorzieningen met een individuele meter aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.   
-3.  Indien de verhuurder gebruik heeft gemaakt van het formulier, genoemd in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), toetst de huurcommissie de servicekosten aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.   
-4.  Indien de verhuurder geen gebruik heeft gemaakt van het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel indien dat formulier onvolledig is ingevuld, stelt de huurcommissie de servicekosten vast op een bij ministeriële regeling vastgesteld bedrag of indien de zaak of dienst door de verhuurder niet is geleverd op € 0. 
+3.  Indien de verhuurder gebruik heeft gemaakt van het formulier, genoemd in artikel 7:260, derde lid, van het Burgerlijk Wetboek, toetst de huurcommissie de servicekosten aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.   
+4.  Indien de verhuurder geen gebruik heeft gemaakt van het formulier, bedoeld in artikel 7:260, derde lid, van het Burgerlijk Wetboek, dan wel indien dat formulier onvolledig is ingevuld, stelt de huurcommissie de servicekosten vast op een bij ministeriële regeling vastgesteld bedrag of indien de zaak of dienst door de verhuurder niet is geleverd op € 0. 
 
 ### §  9  
 
@@ -346,24 +346,24 @@ c. is de huurprijs na een daling van het huishoudinkomen als bedoeld in [artikel
 
 ### Artikel  19  
 
-1.  In geval van een verzoek als bedoeld in [artikel 7:261 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) doet de huurcommissie uitspraak omtrent de redelijkheid van het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter.   
+1.  In geval van een verzoek als bedoeld in artikel 7:261 van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de redelijkheid van het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter.   
 2.  De huurcommissie beoordeelt of het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter, indien nodig herleid tot een bedrag per jaar, in aanzienlijke mate afwijkt van hetgeen in redelijke verhouding staat tot de in het desbetreffende jaar te verwachten kosten voor nutsvoorzieningen met een individuele meter. Indien de huurcommissie van oordeel is dat daarvan sprake is, spreekt zij uit welk voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter in redelijke verhouding staat tot de te verwachten kosten voor nutsvoorzieningen met een individuele meter.   
 3.  De in het tweede lid bedoelde te verwachten kosten voor nutsvoorzieningen met een individuele meter worden gesteld op het bedrag van de kosten voor nutsvoorzieningen met een individuele meter, opgenomen in het laatstelijk in de drie voorafgaande kalenderjaren door de verhuurder verstrekte verrekenoverzicht inzake de desbetreffende of soortgelijke serviceposten, verhoogd met het percentage waarmee de consumentenprijsindex voor werknemersgezinnen sedertdien is verhoogd. Indien geen verrekenoverzicht in de in de eerste volzin bedoelde periode is verstrekt, worden bedoelde kosten gesteld op de daarvoor als gebruikelijk aan te merken kosten.    
 4.  De huurcommissie vermeldt in haar uitspraak dat het door haar uitgesproken voorschotbedrag in de plaats treedt van het overeengekomen voorschotbedrag met ingang van de eerste dag van de maand, volgend op die waarin het verzoek is ontvangen.  
 
 ###§ 10 
 
-####Geschillen die voortvloeien uit de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md)
+####Geschillen die voortvloeien uit de Wet op het overleg huurders verhuurder
 
 ### Artikel  19a  
 
-1.  Indien de huurcommissie constateert dat sprake is van een schending door de verhuurder van een verplichting die voortvloeit uit de [Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) waardoor de verzoeker is benadeeld, kan zij bepalen dat, voor zover het geschil betrekking heeft op voorgenomen beleid van een verhuurder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), de uitvoering van dat beleid wordt opgeschort totdat het verzuim is hersteld.   
-2.  Indien de huurcommissie wordt verzocht te bepalen dat een genomen besluit van een verhuurder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de huurcommissie bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien: 
+1.  Indien de huurcommissie constateert dat sprake is van een schending door de verhuurder van een verplichting die voortvloeit uit de Wet op het overleg huurders verhuurder waardoor de verzoeker is benadeeld, kan zij bepalen dat, voor zover het geschil betrekking heeft op voorgenomen beleid van een verhuurder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder, de uitvoering van dat beleid wordt opgeschort totdat het verzuim is hersteld.   
+2.  Indien de huurcommissie wordt verzocht te bepalen dat een genomen besluit van een verhuurder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Wet op het overleg huurders verhuurder, tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de huurcommissie bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien: 
 
-a. dat besluit afwijkt van een advies als bedoeld in [artikel 5, eerste lid, van die wet](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), en  
+a. dat besluit afwijkt van een advies als bedoeld in artikel 5, eerste lid, van die wet, en  
 
 b. die verhuurder de beslissing tot afwijking van dat advies niet heeft onderbouwd, of hij naar het oordeel van de huurcommissie onder afweging van de betrokken belangen niet in redelijkheid tot afwijking van dat advies had kunnen komen.     
-3.  De huurcommissie doet in geval van een geschil over de hoogte van de vergoeding, bedoeld in [artikel 7, eerste lid, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md), uitspraak over de redelijkheid van die vergoeding. De huurcommissie spreekt uit welke vergoeding zij redelijk acht.  
+3.  De huurcommissie doet in geval van een geschil over de hoogte van de vergoeding, bedoeld in artikel 7, eerste lid, van de Wet op het overleg huurders verhuurder, uitspraak over de redelijkheid van die vergoeding. De huurcommissie spreekt uit welke vergoeding zij redelijk acht.  
 
 ###Hoofdstuk  IIIa 
 
@@ -371,11 +371,11 @@ b. die verhuurder de beslissing tot afwijking van dat advies niet heeft onderbou
 
 ### Artikel  19a*  
 
-1.  De verhuurder gebruikt de gegevens, die overeenkomstig [artikel 7:252a, vierde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) worden verstrekt, uitsluitend voor het doen van een voorstel tot verhoging van de huurprijs als bedoeld in het eerste lid van dat artikel.   
-2.  De betrokken gegevens, bedoeld in het eerste lid, worden bewaard totdat op het betrokken voorstel, bedoeld in [artikel 7:252a, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), onherroepelijk is beslist of de voorgestelde verhoging van de huurprijs geacht wordt te zijn overeengekomen.   
-3.  De verhuurder voert ten behoeve van een getrouwe weergave van de uitvoering en een effectief uitvoeringsproces een zodanige administratie dat de juiste, volledige en tijdige vastlegging is gewaarborgd van de gegevens met betrekking tot het huishoudinkomen die verband houden met de toepassing van [artikel 7:252a, vierde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
-4.  Een ieder die kennis neemt van de gegevens, die overeenkomstig [artikel 7:252a, vierde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) worden verstrekt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
-5.  Indien de verhuurder in strijd handelt met het eerste, tweede, derde of vierde lid kan de inspecteur, bedoeld in [artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), het afgeven van de verklaring, bedoeld in het derde lid van dat artikel, weigeren.  
+1.  De verhuurder gebruikt de gegevens, die overeenkomstig artikel 7:252a, vierde lid, van het Burgerlijk Wetboek worden verstrekt, uitsluitend voor het doen van een voorstel tot verhoging van de huurprijs als bedoeld in het eerste lid van dat artikel.   
+2.  De betrokken gegevens, bedoeld in het eerste lid, worden bewaard totdat op het betrokken voorstel, bedoeld in artikel 7:252a, eerste lid, van het Burgerlijk Wetboek, onherroepelijk is beslist of de voorgestelde verhoging van de huurprijs geacht wordt te zijn overeengekomen.   
+3.  De verhuurder voert ten behoeve van een getrouwe weergave van de uitvoering en een effectief uitvoeringsproces een zodanige administratie dat de juiste, volledige en tijdige vastlegging is gewaarborgd van de gegevens met betrekking tot het huishoudinkomen die verband houden met de toepassing van artikel 7:252a, vierde lid, van het Burgerlijk Wetboek.   
+4.  Een ieder die kennis neemt van de gegevens, die overeenkomstig artikel 7:252a, vierde lid, van het Burgerlijk Wetboek worden verstrekt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
+5.  Indien de verhuurder in strijd handelt met het eerste, tweede, derde of vierde lid kan de inspecteur, bedoeld in artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek, het afgeven van de verklaring, bedoeld in het derde lid van dat artikel, weigeren.  
 
 ### Hoofdstuk  IV  
 
@@ -394,9 +394,9 @@ c. het voorstel dat ten grondslag ligt aan het verzoek, kennelijk redelijk of ni
 d. de aan het verzoek ten grondslag liggende bezwaren kennelijk gegrond of ongegrond zijn of  
 
 e. de bezwaren tegen het aan het verzoek ten grondslag liggende voorstel kennelijk ongegrond zijn.     
-2.  Van een kennelijk redelijk verzoek is in ieder geval sprake in het geval, bedoeld in [artikel 7:253, vijfde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), tenzij: 
+2.  Van een kennelijk redelijk verzoek is in ieder geval sprake in het geval, bedoeld in artikel 7:253, vijfde lid, van het Burgerlijk Wetboek, tenzij: 
 
-a. de huurcommissie in een eerdere uitspraak heeft uitgesproken dat op grond van [artikel 7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) een lagere huurprijs redelijk is en de in die uitspraak genoemde gebreken nog niet zijn verholpen;  
+a. de huurcommissie in een eerdere uitspraak heeft uitgesproken dat op grond van artikel 7:257 van het Burgerlijk Wetboek een lagere huurprijs redelijk is en de in die uitspraak genoemde gebreken nog niet zijn verholpen;  
 
 b. het percentage van de in het voorstel opgenomen huurverhoging het in artikel 10, tweede lid, bedoelde maximale huurverhogingspercentage te boven gaat, in welk geval het verzoek slechts kennelijk redelijk is, voorzover het dat percentage niet overschrijdt.     
 3.  De voorzitter vermeldt in voorkomende gevallen in de uitspraak tot welke huurprijs zijn uitspraak leidt, alsmede de datum van ingang.   
@@ -404,7 +404,7 @@ b. het percentage van de in het voorstel opgenomen huurverhoging het in artikel 
 5.  Het bestuur zendt onverwijld een afschrift van de voorzittersuitspraak aan partijen.   
 6.  Tegen de uitspraak, bedoeld in het eerste lid, kan de huurder, verhuurder, huurdersorganisatie of bewonerscommissie binnen drie weken na verzending van het afschrift van die uitspraak schriftelijk en gemotiveerd in verzet gaan bij de huurcommissie. De voorzitter wijst in zijn uitspraak partijen op deze mogelijkheid, alsook op de vorm en de termijn die daarbij in acht genomen moeten worden.   
 7.  Is de huurcommissie van oordeel dat het verzet, bedoeld in het zesde lid, gegrond is, dan vervalt de uitspraak, bedoeld in het eerste lid, en wordt het aan de in het eerste lid bedoelde uitspraak ten grondslag liggende verzoek overeenkomstig hoofdstuk III door de huurcommissie in behandeling genomen.   
-8.  Indien geen van de in het zesde lid genoemde partijen binnen de in dat lid genoemde termijn in verzet is gegaan, is hetgeen in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) dan wel [artikel 8a van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) is bepaald met betrekking tot een uitspraak van de huurcommissie, van overeenkomstige toepassing op de uitspraak van de voorzitter.  
+8.  Indien geen van de in het zesde lid genoemde partijen binnen de in dat lid genoemde termijn in verzet is gegaan, is hetgeen in artikel 7:262 van het Burgerlijk Wetboek dan wel artikel 8a van de Wet op het overleg huurders verhuurder is bepaald met betrekking tot een uitspraak van de huurcommissie, van overeenkomstige toepassing op de uitspraak van de voorzitter.  
 
 ### Hoofdstuk  V  
 
@@ -446,7 +446,7 @@ De voorzitter is bevoegd verzoeken welke gelijkluidend dan wel nagenoeg gelijklu
 ### Artikel  30  
 
 1.  Indien door een partij omtrent dezelfde woonruimte gelijktijdig meerdere verzoeken zijn ingediend, worden deze gevoegd behandeld.   
-2.  Indien omtrent dezelfde woonruimte een verzoek als bedoeld in [artikel 7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en een verzoek als bedoeld in [artikel 7:253 van dat wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bij de huurcommissie zijn ingediend, beslist de huurcommissie op het eerstgenoemde verzoek alvorens op het andere verzoek te beslissen, tenzij de indiening van het eerstgenoemde verzoek heeft plaatsgevonden na het tijdstip waarop volgens het andere verzoek de wijziging van de huurprijs dient in te gaan.  
+2.  Indien omtrent dezelfde woonruimte een verzoek als bedoeld in artikel 7:257 van het Burgerlijk Wetboek en een verzoek als bedoeld in artikel 7:253 van dat wetboek bij de huurcommissie zijn ingediend, beslist de huurcommissie op het eerstgenoemde verzoek alvorens op het andere verzoek te beslissen, tenzij de indiening van het eerstgenoemde verzoek heeft plaatsgevonden na het tijdstip waarop volgens het andere verzoek de wijziging van de huurprijs dient in te gaan.  
 
 ### Artikel  31  
 
@@ -476,7 +476,7 @@ De voorzitter is bevoegd verzoeken welke gelijkluidend dan wel nagenoeg gelijklu
 
 ### Artikel  35  
 
-Indien een machtiging als bedoeld in [artikel 2:1, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ontbreekt, kan een zittingscommissie de zaak aanhouden totdat de betrokken partij in de gelegenheid is geweest op de juiste wijze in zijn vertegenwoordiging te voorzien. 
+Indien een machtiging als bedoeld in artikel 2:1, tweede lid, van de Algemene wet bestuursrecht ontbreekt, kan een zittingscommissie de zaak aanhouden totdat de betrokken partij in de gelegenheid is geweest op de juiste wijze in zijn vertegenwoordiging te voorzien. 
 
 ### Artikel  36  
 
@@ -491,8 +491,8 @@ Bij de zittingen is een ambtenaar van de administratieve ondersteuning van de hu
 1.  De huurcommissie doet binnen vier maanden na het verstrijken van de in artikel 7, vierde lid, genoemde termijn, dan wel, indien de in dat artikellid bedoelde oproep niet behoeft te worden gedaan, na het tijdstip waarop de aldaar bedoelde vergoeding van de verzoeker is ontvangen, schriftelijk en met redenen omkleed uitspraak. In geval van een geschil als bedoeld in artikel 4a doet de huurcommissie uitspraak binnen acht weken na het verstrijken van de in artikel 7, vierde lid, genoemde termijn. In afwijking van de eerste en tweede volzin doet de huurcommissie in het geval dat de in de eerste, dan wel, tweede volzin genoemde termijn niet kan worden gehaald, uitspraak binnen een door de huurcommissie aan te geven langere termijn, mits zij aan beide partijen daarvan voor het verstrijken van de in de eerste, dan wel, tweede volzin genoemde termijn schriftelijk en met redenen omkleed heeft kennisgegeven.   
 2.  De uitspraken van de huurcommissie vermelden de namen van degenen die aan de behandeling van de zaak ter zitting hebben deelgenomen. Zij worden door de desbetreffende zittingsvoorzitter ondertekend.   
 3.  Het bestuur zendt onverwijld een afschrift van de uitspraak van de huurcommissie aan partijen.   
-4.  De huurcommissie wijst in haar uitspraak partijen op de in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde mogelijkheid zich tot de rechter te wenden, alsook op de vorm en de termijn die daarbij in acht moeten worden genomen.   
-5.  Indien in de uitspraak wordt vastgesteld dat een woonruimte een of meer gebreken vertoont die het woongenot ernstig schaden zendt het bestuur bovendien afschrift aan de inspecteur, bedoeld in [artikel 1, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md), en aan burgemeester en wethouders van de gemeente waarin de woonruimte is gelegen.  
+4.  De huurcommissie wijst in haar uitspraak partijen op de in artikel 7:262 van het Burgerlijk Wetboek bedoelde mogelijkheid zich tot de rechter te wenden, alsook op de vorm en de termijn die daarbij in acht moeten worden genomen.   
+5.  Indien in de uitspraak wordt vastgesteld dat een woonruimte een of meer gebreken vertoont die het woongenot ernstig schaden zendt het bestuur bovendien afschrift aan de inspecteur, bedoeld in artikel 1, eerste lid, van de Woningwet, en aan burgemeester en wethouders van de gemeente waarin de woonruimte is gelegen.  
 
 ### Artikel  38  
 
@@ -521,9 +521,9 @@ Een voordracht voor een krachtens artikel 3, tweede lid, 7, eerste lid, 7a, eers
 
 Bij ministeriële regeling kunnen: 
 
-a. ter uitvoering van [artikel 7:253 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) regels worden gegeven met betrekking tot de voorwaarden waaraan het in het tweede lid van dat artikel bedoelde schrijven van de verhuurder aan de huurder dient te voldoen, en  
+a. ter uitvoering van artikel 7:253 van het Burgerlijk Wetboek regels worden gegeven met betrekking tot de voorwaarden waaraan het in het tweede lid van dat artikel bedoelde schrijven van de verhuurder aan de huurder dient te voldoen, en  
 
-b. ter uitvoering van [artikel 7:257 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) regels worden gegeven met betrekking tot de voorwaarden waaraan een kennisgeving van de huurder aan de verhuurder van een gebrek dient te voldoen.  
+b. ter uitvoering van artikel 7:257 van het Burgerlijk Wetboek regels worden gegeven met betrekking tot de voorwaarden waaraan een kennisgeving van de huurder aan de verhuurder van een gebrek dient te voldoen.  
 
 ### Artikel  49  
 
@@ -535,11 +535,11 @@ De toepasselijkheid van de bepalingen van deze wet kan niet bij overeenkomst wor
 
 ### Artikel  51  
 
-In elke na het verstrijken van de termijn, bedoeld in [artikel 7:260, tweede lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), ingestelde rechtsvordering ter zake van de vergoedingen, bedoeld in het eerste lid van dat artikel, wordt een uitspraak van de huurcommissie dan wel beschikking van de rechter omtrent de betalingsverplichting van de huurder met betrekking tot deze vergoedingen overgelegd. 
+In elke na het verstrijken van de termijn, bedoeld in artikel 7:260, tweede lid, van het Burgerlijk Wetboek, ingestelde rechtsvordering ter zake van de vergoedingen, bedoeld in het eerste lid van dat artikel, wordt een uitspraak van de huurcommissie dan wel beschikking van de rechter omtrent de betalingsverplichting van de huurder met betrekking tot deze vergoedingen overgelegd. 
 
 ### Artikel  52  
 
-In elke rechtsvordering ter zake van hetgeen onverschuldigd mocht zijn betaald in verband met een overeenkomst als bedoeld in [artikel 7:258 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) waarbij partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, wordt een uitspraak van de huurcommissie, als bedoeld in artikel 17, dan wel een beschikking van de rechter, als bedoeld in [artikel 7:262 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) overgelegd. 
+In elke rechtsvordering ter zake van hetgeen onverschuldigd mocht zijn betaald in verband met een overeenkomst als bedoeld in artikel 7:258 van het Burgerlijk Wetboek waarbij partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, wordt een uitspraak van de huurcommissie, als bedoeld in artikel 17, dan wel een beschikking van de rechter, als bedoeld in artikel 7:262 van het Burgerlijk Wetboek overgelegd. 
 
 ### Artikel  53  
 
@@ -547,12 +547,12 @@ Onze Minister zendt binnen drie jaar na inwerkingtreding van artikel 4a van de U
 
 ### Artikel  54  
 
-1.  De [Huurprijzenwet woonruimte](../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md) wordt ingetrokken.   
-2.  De [Wet op de huurcommissies](../../../../../wet/wet/op/de/huurcommissies/BWBR0003222/README.md) wordt ingetrokken.  
+1.  De Huurprijzenwet woonruimte wordt ingetrokken.   
+2.  De Wet op de huurcommissies wordt ingetrokken.  
 
 ### Artikel  55  
 
-Indien het bij koninklijke boodschap van 2 juli 1998 ingediende voorstel van wet tot vaststelling van [titel 7.4 (Huur) van het Burgerlijk Wetboek ](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)(kamerstukken II 1997/98, 26 089, nrs. 1–2), na tot wet te zijn verheven, in werking treedt, treedt deze wet op hetzelfde tijdstip in werking. 
+Indien het bij koninklijke boodschap van 2 juli 1998 ingediende voorstel van wet tot vaststelling van titel 7.4 (Huur) van het Burgerlijk Wetboek (kamerstukken II 1997/98, 26 089, nrs. 1–2), na tot wet te zijn verheven, in werking treedt, treedt deze wet op hetzelfde tijdstip in werking. 
 
 ### Artikel  56  
 

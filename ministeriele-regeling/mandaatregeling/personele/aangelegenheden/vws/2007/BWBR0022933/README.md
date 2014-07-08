@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 november 2007, nr. DPenO 2802885, houdende vaststelling van de Mandaatregeling Personele Aangelegenheden VWS 2007.
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 10:3](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:9, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 10:3 en 10:9, eerste lid, van de Algemene wet bestuursrecht;
 
 Gezien het Organisatiebesluit VWS;
 
@@ -23,11 +23,11 @@ a. Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
 b. Ministerie: het Ministerie van Volksgezondheid, Welzijn en Sport;  
 
-c. dienstonderdelen kernMinisterie: de in [artikel 3, eerste lid, onder b tot en met e, van het Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) genoemde beleidsdirecties, stafdirecties, facilitaire diensten en eenheden;  
+c. dienstonderdelen kernMinisterie: de in artikel 3, eerste lid, onder b tot en met e, van het Organisatiebesluit VWS genoemde beleidsdirecties, stafdirecties, facilitaire diensten en eenheden;  
 
-d. diensten en instellingen: de in artikel [4 van het Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) genoemde diensten en instellingen van het Ministerie;  
+d. diensten en instellingen: de in artikel 4 van het Organisatiebesluit VWS genoemde diensten en instellingen van het Ministerie;  
 
-e. secretariaten van raden en commissies: de in [artikel 5 van het Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) genoemde secretariaten van raden en commissies van het Ministerie;  
+e. secretariaten van raden en commissies: de in artikel 5 van het Organisatiebesluit VWS genoemde secretariaten van raden en commissies van het Ministerie;  
 
 f. hoofd van dienst: de functionaris die is belast met de leiding van een onderdeel van het Ministerie als bedoeld onder c tot en met e.  
 
@@ -35,7 +35,7 @@ g. portefeuillehouder: de functionaris onder wie onderdelen van het Ministerie a
 
 h. ressorteren: in eerste instantie vallend onder het gezagsdomein, de uiteindelijke verantwoordelijkheid van de secretaris-generaal onverlet latend;  
 
-i. medewerker: de bij het Ministerie werkzame persoon die is aangesteld op grond van het [Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (ARAR);  
+i. medewerker: de bij het Ministerie werkzame persoon die is aangesteld op grond van het Algemeen Rijksambtenarenreglement (ARAR);  
 
 j. mandaat: de bevoegdheid om in naam van de Minister besluiten te nemen;  
 
@@ -88,8 +88,8 @@ Een krachtens mandaat genomen besluit vermeldt dat namens de Minister het beslui
 ####Vervanging, wijziging portefeuilleverdeling, kwartiermakers en (beoogd) hoofd van dienst nieuwe organisatie-onderdelen
 
 1.  Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van een ondermandaat.   
-2.  Bij wijzigingen van de portefeuilleverdeling zonder dat het [Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) daarop is aangepast, ontlenen portefeuillehouders bevoegdheden op grond van deze regeling vooruitlopend op de betreffende wijziging van het [Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md).   
-3.  De functionaris die schriftelijk is aangewezen als kwartiermaker of als (beoogd) hoofd van dienst van een nieuw organisatie-onderdeel of een organisatie-onderdeel in oprichting, welke onderdelen nog niet zijn opgenomen in het [Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md), heeft bevoegdheden op grond van deze regeling vooruitlopend op de betreffende wijziging van het [Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md).  
+2.  Bij wijzigingen van de portefeuilleverdeling zonder dat het Organisatiebesluit VWS daarop is aangepast, ontlenen portefeuillehouders bevoegdheden op grond van deze regeling vooruitlopend op de betreffende wijziging van het Organisatiebesluit VWS.   
+3.  De functionaris die schriftelijk is aangewezen als kwartiermaker of als (beoogd) hoofd van dienst van een nieuw organisatie-onderdeel of een organisatie-onderdeel in oprichting, welke onderdelen nog niet zijn opgenomen in het Organisatiebesluit VWS, heeft bevoegdheden op grond van deze regeling vooruitlopend op de betreffende wijziging van het Organisatiebesluit VWS.  
 
 ### Hoofdstuk  3  
 
@@ -110,7 +110,7 @@ De secretaris-generaal heeft mandaat ten aanzien van alle besluiten met betrekki
 i. rechtstreeks onder hen ressorteren;  
 
 ii. ressorteren onder onderdelen binnen hun gezagsdomein.     
-2.  De directeuren-generaal (kernMinisterie) en de plaatsvervangend secretaris-generaal hebben mandaat voor besluiten ten aanzien van de hoofden van dienst (uitgezonderd de functionarissen die behoren tot de Topmanagementgroep als bedoeld in [artikel 7, lid 4 ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)), van de diensten en instellingen, secretariaten van raden en commissies, die behoren tot hun gezagsdomein.  
+2.  De directeuren-generaal (kernMinisterie) en de plaatsvervangend secretaris-generaal hebben mandaat voor besluiten ten aanzien van de hoofden van dienst (uitgezonderd de functionarissen die behoren tot de Topmanagementgroep als bedoeld in artikel 7, lid 4 ARAR), van de diensten en instellingen, secretariaten van raden en commissies, die behoren tot hun gezagsdomein.  
 
 ### Artikel  10  
 
@@ -126,10 +126,10 @@ De hoofden van dienst hebben mandaat voor besluiten ten aanzien van medewerkers 
 
 ### Artikel  12  
 
-####Directeur Financieel en Personeel Beheer
+####Directeur Bedrijfsvoering
 
-1.  De directeur Financieel en Personeel Beheer heeft mandaat om de namens de Minister genomen besluiten ten aanzien van medewerkers van het kernMinisterie te ondertekenen.   
-2.  De directeur Financieel en Personeel Beheer heeft mandaat om de namens de Minister genomen besluiten ten aanzien van medewerkers bij andere dienstonderdelen van het Ministerie te ondertekenen indien dat met de gemandateerden schriftelijk is overeengekomen.  
+1.  De directeur Bedrijfsvoering heeft mandaat om de namens de Minister genomen besluiten ten aanzien van medewerkers van het kernMinisterie te ondertekenen.   
+2.  De directeur Bedrijfsvoering heeft mandaat om de namens de Minister genomen besluiten ten aanzien van medewerkers bij andere dienstonderdelen van het Ministerie te ondertekenen indien dat met de gemandateerden schriftelijk is overeengekomen.  
 
 ### Hoofdstuk  4  
 
@@ -141,7 +141,7 @@ De hoofden van dienst hebben mandaat voor besluiten ten aanzien van medewerkers 
 
 Aan de Minister blijft voorbehouden: 
 
-a. het vaststellen van Ministeriële regelingen met uitzondering van die bedoeld in [artikel 132b ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+a. het vaststellen van Ministeriële regelingen met uitzondering van die bedoeld in artikel 132b ARAR;  
 
 b. het nemen van een besluit op bezwaar tegen een besluit dat door de Minister dan wel door de secretaris-generaal namens de Minister is genomen.   
 
@@ -151,7 +151,7 @@ b. het nemen van een besluit op bezwaar tegen een besluit dat door de Minister d
 
 In afwijking van de artikelen 9, 10 en 11 heeft uitsluitend de secretaris-generaal mandaat met betrekking tot: 
 
-– het vaststellen van beleidsregels en Ministeriele regels als bedoeld in [artikel 132b ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– het vaststellen van beleidsregels en Ministeriele regels als bedoeld in artikel 132b ARAR;  
 
 – besluiten met betrekking tot de plaatsvervangend secretaris-generaal;  
 
@@ -163,7 +163,7 @@ In afwijking van de artikelen 9, 10 en 11 heeft uitsluitend de secretaris-genera
 
 * hoofden van dienst,  
 
-* functionarissen in functies die zijn gewaardeerd op schaal 17 en hoger [BBRA](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);    
+* functionarissen in functies die zijn gewaardeerd op schaal 17 en hoger BBRA;    
 
 – besluiten tot toepassing van hardheidsclausules;  
 
@@ -180,13 +180,20 @@ In afwijking van de artikelen 9, 10 en 11 heeft uitsluitend de secretaris-genera
 
 – aanstelling en ontslag op verzoek, van medewerkers in functies die zijn gewaardeerd op schaal 14, 15 of 16 BBRA;  
 
-– aanstelling met toepassing van [artikel 6a ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– aanstelling met toepassing van artikel 6a ARAR;  
 
-– besluiten waarbij de arbeidsduur wordt vastgesteld op meer dan 36 uur ([artikel 21, lid 2, ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md));  
+– besluiten waarbij de arbeidsduur wordt vastgesteld op meer dan 36 uur (artikel 21, lid 2, ARAR);  
 
-– besluiten gegrond op de [artikelen 77](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [80 tot en met 84](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [91](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [92 ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (ontzegging toegang en disciplinaire straffen);  
+– besluiten gegrond op de artikelen 77, 80 tot en met 84, 91 en 92 ARAR (ontzegging toegang en disciplinaire straffen);  
 
-– ontslag anders dan op verzoek.    
+– ontslag anders dan op verzoek.     
+3.  In afwijking van artikel 11 heeft de plaatsvervangend secretaris-generaal ten aanzien van de Rijksinstellingen voor gesloten jeugdzorg Den Engh en De Lindenhorst mandaat met betrekking tot: 
+
+– de aanstelling met toepassing van artikel 6a ARAR;  
+
+– het vaststellen of aan een bepaalde functie een vaste vergoeding voor representatiekosten is verbonden en de hoogte van die vergoeding;  
+
+– alle besluiten betreffende medewerkers waarvan de functie is ingeschaald op het niveau van schaal 14 en 15, behoudens de bevoegdheid van de Secretaris-Generaal tot het vaststellen van de inhoud en niveau van organieke en feitelijk opgedragen functies op het niveau van schaal 15.   
 
 ### Artikel  16  
 
@@ -194,9 +201,11 @@ In afwijking van de artikelen 9, 10 en 11 heeft uitsluitend de secretaris-genera
 
 Met uitzondering van de secretaris-generaal neemt het tot beslissen bevoegd gezag de volgende besluiten niet dan nadat daarover bindend advies is gegeven door de directeur van de directie Personeel en Organisatie: 
 
-a. een aanstelling waarbij [artikel 6a ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) wordt toegepast;  
+a. een aanstelling waarbij artikel 6a ARAR wordt toegepast;  
 
-b. het toekennen van een extra uitkering bij ontslag.   
+b. het toekennen van een extra uitkering bij ontslag;  
+
+c. besluiten inzake strafontslag betreffende medewerkers van de Rijksinstellingen voor gesloten jeugdzorg Den Engh en De Lindenhorst.  
 
 ### Hoofdstuk  5  
 
@@ -210,17 +219,17 @@ b. het toekennen van een extra uitkering bij ontslag.
 2.  De hoofden van dienst van dienstonderdelen kernMinisterie en secretariaten van raden en commissies zijn bevoegd aan onder hen ressorterende functionarissen ondermandaat te verlenen voor de uitoefening van bepaalde bevoegdheden. Elk ondermandaat wordt schriftelijk verleend en behoeft goedkeuring van de plaatsvervangend-secretaris-generaal.   
 3.  De hoofden van dienst van diensten en instellingen zijn bevoegd aan onder hen ressorterende functionarissen ondermandaat te verlenen voor de uitoefening van bepaalde bevoegdheden. Elk ondermandaat wordt schriftelijk verleend. Ondermandaat als bedoeld in dit lid wordt niet verleend tot: 
 
-– aanstelling met toepassing van [artikel 6a ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– aanstelling met toepassing van artikel 6a ARAR;  
 
-– besluiten waarbij de arbeidsduur wordt vastgesteld op meer dan 36 uur ([artikel 21, lid 2, ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md));  
+– besluiten waarbij de arbeidsduur wordt vastgesteld op meer dan 36 uur (artikel 21, lid 2, ARAR);  
 
-– besluiten gegrond op de [artikelen 77](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [80 tot en met 84](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [91](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [92 ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (ontzegging van de toegang en disciplinaire straffen);  
+– besluiten gegrond op de artikelen 77, 80 tot en met 84, 91 en 92 ARAR (ontzegging van de toegang en disciplinaire straffen);  
 
 – ontslag anders dan op verzoek.  
 
 – het vaststellen of aan een bepaalde functie een vaste vergoeding voor representatiekosten is verbonden en de hoogte van die vergoeding;     
 4.  De plaatsvervangend secretaris-generaal is bevoegd om in het kader van P-Loket en P-Direkt, bij schriftelijk besluit de in de artikelen 9, 10, 11 en 12 verleende mandaten in te trekken en ondermandaat te verlenen aan andere functionarissen dan de in die artikelen vermelde functionarissen.   
-5.  De directeur Financieel en Personeel Beheer is bevoegd ten aanzien van de artikel 12 verleende bevoegdheden ondermandaat te verlenen aan onder hem ressorterende functionarissen.   
+5.  De directeur Bedrijfsvoering is bevoegd ten aanzien van de artikel 12 verleende bevoegdheden ondermandaat te verlenen aan onder hem ressorterende functionarissen.   
 6.  Ondermandaat wordt niet verleend tot het nemen van een beslissing op bezwaar.   
 7.  Op ondermandaat zijn de bepalingen van deze regeling van overeenkomstige toepassing.  
 
@@ -232,13 +241,13 @@ b. het toekennen van een extra uitkering bij ontslag.
 
 ####Wijziging regelgeving
 
-Daar waar in regelgeving en (beleids)regels die betrekking hebben op personele aangelegenheden wordt gesproken van decentrale dienst(en), wordt daarvoor gelezen de onderdelen bedoeld in de [artikelen 4](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) en [5 van het Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md). 
+Daar waar in regelgeving en (beleids)regels die betrekking hebben op personele aangelegenheden wordt gesproken van decentrale dienst(en), wordt daarvoor gelezen de onderdelen bedoeld in de artikelen 4 en 5 van het Organisatiebesluit VWS. 
 
 ### Artikel  19  
 
 ####Register
 
-1.  Alle mandaatverleningen en ondermandaatverleningen op grond van dit besluit, nog niet geformaliseerde wijzigingen van het [Organisatiebesluit VWS](../../../../../../../ministeriele-regeling/organisatiebesluit/vws/2007/BWBR0021283/README.md) waaronder wijzigingen in de portefeuilleverdeling van portefeuillehouders, worden opgenomen in het register dat de directeur Bestuursondersteuning bijhoudt ter uitvoering van [artikel 17 van de Mandaatregeling VWS](../../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md).   
+1.  Alle mandaatverleningen en ondermandaatverleningen op grond van dit besluit, nog niet geformaliseerde wijzigingen van het Organisatiebesluit VWS waaronder wijzigingen in de portefeuilleverdeling van portefeuillehouders, worden opgenomen in het register dat de directeur Bestuursondersteuning bijhoudt ter uitvoering van artikel 17 van de Mandaatregeling VWS.   
 2.  Bij verlenging, wijziging of beëindiging van een mandaat of ondermandaat wordt een kopie van dat besluit gezonden aan de directeur Bestuursondersteuning.  
 
 ### Artikel  20  

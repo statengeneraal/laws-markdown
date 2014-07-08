@@ -152,7 +152,7 @@ Een opschortende voorwaarde doet de werking der verbintenis eerst met het plaats
 ### Artikel  24  
 
 1.  Nadat een ontbindende voorwaarde is vervuld, is de schuldeiser verplicht de reeds verrichte prestaties ongedaan te maken, tenzij uit de inhoud of strekking van de rechtshandeling anders voortvloeit.    
-2.   Strekt de verplichting tot ongedaanmaking tot teruggave van een goed, dan komen de na de vervulling van de voorwaarde afgescheiden natuurlijke of opeisbaar geworden burgerlijke vruchten aan de schuldenaar toe en zijn de [artikelen 120-124 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de vergoeding van kosten en van schade, voor zover die kosten en die schade na de vervulling zijn ontstaan.   
+2.   Strekt de verplichting tot ongedaanmaking tot teruggave van een goed, dan komen de na de vervulling van de voorwaarde afgescheiden natuurlijke of opeisbaar geworden burgerlijke vruchten aan de schuldenaar toe en zijn de artikelen 120-124 van Boek 3 van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de vergoeding van kosten en van schade, voor zover die kosten en die schade na de vervulling zijn ontstaan.   
 
 ### Artikel  25  
 
@@ -326,7 +326,7 @@ Een bevoegdheid tot opschorting blijft ook na verjaring van de rechtsvordering o
 
 ### Artikel  57  
 
-Indien een bevoegdheid tot opschorting voldoet aan de omschrijving van het retentierecht in [artikel 290 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), zijn de bepalingen van de onderhavige afdeling van toepassing, voor zover daarvan in [afdeling 4 van titel 10 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet is afgeweken.  
+Indien een bevoegdheid tot opschorting voldoet aan de omschrijving van het retentierecht in artikel 290 van Boek 3, zijn de bepalingen van de onderhavige afdeling van toepassing, voor zover daarvan in afdeling 4 van titel 10 van Boek 3 niet is afgeweken.  
 
 ### Afdeling  8  
 
@@ -547,9 +547,9 @@ a. redelijke kosten ter voorkoming of beperking van schade die als gevolg van de
 b. redelijke kosten ter vaststelling van schade en aansprakelijkheid;   
 
 c. redelijke kosten ter verkrijging van voldoening buiten rechte.      
-3.  Lid 2 onder b en c is niet van toepassing voor zover in het gegeven geval krachtens [artikel 241 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) de regels betreffende de proceskosten van toepassing zijn.   
+3.  Lid 2 onder b en c is niet van toepassing voor zover in het gegeven geval krachtens artikel 241 van het Wetboek van Burgerlijke Rechtsvordering de regels betreffende de proceskosten van toepassing zijn.   
 4.  In geval van een handelsovereenkomst als bedoeld in artikel 119a lid 1 of artikel 119b lid 1 bestaat de vergoeding van kosten bedoeld in lid 2 onder c uit ten minste een bedrag van 40 euro. Dit bedrag is zonder aanmaning verschuldigd vanaf de dag volgende op de dag waarop de wettelijke of overeengekomen uiterste dag van betaling is verstreken. Hiervan kan niet ten nadele van de schuldeiser worden afgeweken.  
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist [artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
+5.  Bij algemene maatregel van bestuur worden nadere regels gesteld voor de vergoeding van kosten als bedoeld in lid 2 onder c. Van deze regels kan niet ten nadele van de schuldenaar worden afgeweken indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf. In dit geval mist artikel 241, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering toepassing.   
 6.  De vergoeding volgens de nadere regels kan indien de schuldenaar een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf, eerst verschuldigd worden nadat de schuldenaar na het intreden van het verzuim, bedoeld in artikel 81, onder vermelding van de gevolgen van het uitblijven van betaling, waaronder de vergoeding die in overeenstemming met de nadere regels wordt gevorderd, vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende de dag na aanmaning.   
 7.  Indien een schuldenaar voor meer dan een vordering door een schuldeiser kan worden aangemaand als bedoeld in lid 6, dan dient dit in één aanmaning te geschieden. Voor de berekening van de vergoeding worden de hoofdsommen van deze vorderingen bij elkaar opgeteld. 
 
@@ -610,9 +610,9 @@ c. indien het nadeel gelegen is in aantasting van de nagedachtenis van een overl
 
 ### Artikel  107a  
 
-1.  Indien iemand ten gevolge van een gebeurtenis waarvoor een ander aansprakelijk is, lichamelijk of geestelijk letsel oploopt, houdt de rechter bij de vaststelling van de schadevergoeding waarop de gekwetste aanspraak kan maken rekening met de aanspraak op loon die de gekwetste heeft krachtens [artikel 629, lid 1, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of krachtens individuele of collectieve arbeidsovereenkomst.    
-2.   Indien een werkgever krachtens [artikel 629, lid 1, van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of krachtens individuele of collectieve arbeidsovereenkomst verplicht is tijdens ziekte of arbeidsongeschiktheid van de gekwetste het loon door te betalen, heeft hij, indien de ongeschiktheid tot werken van de gekwetste het gevolg is van een gebeurtenis waarvoor een ander aansprakelijk is, jegens deze ander recht op schadevergoeding ten bedrage van de door hem betaalde loon, doch ten hoogste tot het bedrag, waarvoor de aansprakelijke persoon, bij het ontbreken van de loondoorbetalingsverplichting aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de gekwetste is gehouden.   
-3. De in lid 2 bedoelde aansprakelijke is eveneens verplicht tot vergoeding van de door de werkgever gemaakte redelijke kosten ter nakoming van zijn in [artikel 658a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde verplichtingen. De aansprakelijke kan hetzelfde verweer voeren dat hem jegens de gekwetste ten dienste zou hebben gestaan. 
+1.  Indien iemand ten gevolge van een gebeurtenis waarvoor een ander aansprakelijk is, lichamelijk of geestelijk letsel oploopt, houdt de rechter bij de vaststelling van de schadevergoeding waarop de gekwetste aanspraak kan maken rekening met de aanspraak op loon die de gekwetste heeft krachtens artikel 629, lid 1, van Boek 7 of krachtens individuele of collectieve arbeidsovereenkomst.    
+2.   Indien een werkgever krachtens artikel 629, lid 1, van Boek 7 of krachtens individuele of collectieve arbeidsovereenkomst verplicht is tijdens ziekte of arbeidsongeschiktheid van de gekwetste het loon door te betalen, heeft hij, indien de ongeschiktheid tot werken van de gekwetste het gevolg is van een gebeurtenis waarvoor een ander aansprakelijk is, jegens deze ander recht op schadevergoeding ten bedrage van de door hem betaalde loon, doch ten hoogste tot het bedrag, waarvoor de aansprakelijke persoon, bij het ontbreken van de loondoorbetalingsverplichting aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de gekwetste is gehouden.   
+3. De in lid 2 bedoelde aansprakelijke is eveneens verplicht tot vergoeding van de door de werkgever gemaakte redelijke kosten ter nakoming van zijn in artikel 658a van Boek 7 bedoelde verplichtingen. De aansprakelijke kan hetzelfde verweer voeren dat hem jegens de gekwetste ten dienste zou hebben gestaan. 
 4.   Indien de aansprakelijke persoon een werknemer is, heeft de werkgever slechts recht op schadevergoeding indien de ongeschiktheid tot werken het gevolg is van diens opzet of bewuste roekeloosheid.   
 
 ### Artikel  108  
@@ -791,7 +791,7 @@ Voor de toepassing van deze afdeling geldt als koers de koers tegen welke de sch
 
 1.  Is een vordering onder bijzondere titel overgegaan, dan is de schuldenaar bevoegd ondanks de overgang ook een tegenvordering op de oorspronkelijke schuldeiser in verrekening te brengen, mits deze tegenvordering uit dezelfde rechtsverhouding als de overgegane vordering voortvloeit of reeds vóór de overgang aan hem is opgekomen en opeisbaar geworden.    
 2.   Het vorige lid is van overeenkomstige toepassing, wanneer op een vordering beslag is gelegd of een beperkt recht is gevestigd waarvan mededeling aan de schuldenaar is gedaan.    
-3.   De vorige leden zijn niet van toepassing, indien de overgang of de vestiging van het beperkte recht een vordering aan toonder of order betrof en is geschied overeenkomstig [artikel 93 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+3.   De vorige leden zijn niet van toepassing, indien de overgang of de vestiging van het beperkte recht een vordering aan toonder of order betrof en is geschied overeenkomstig artikel 93 van Boek 3.   
 
 ### Artikel  131  
 
@@ -872,7 +872,7 @@ Indien een verbintenis geheel of gedeeltelijk door verrekening tenietgaat, zijn 
 ### Artikel  144  
 
 1.  Brengt de overdracht van een vordering mee dat verplichtingen die uit het schuldeiserschap of uit nevenrechten voortvloeien, overgaan op de nieuwe schuldeiser, dan staat de vorige schuldeiser in voor de nakoming van deze verplichtingen.    
-2.   Lid 1 is niet van toepassing in geval van overdracht van een vordering aan toonder of order overeenkomstig [artikel 93 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.   Lid 1 is niet van toepassing in geval van overdracht van een vordering aan toonder of order overeenkomstig artikel 93 van Boek 3.   
 
 ### Artikel  145  
 
@@ -880,7 +880,7 @@ Overgang van een vordering laat de verweermiddelen van de schuldenaar onverlet.
 
 ### Artikel  146  
 
-1.  Na een overdracht overeenkomstig [artikel 93 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van een vordering aan toonder of aan order kan de schuldenaar een verweermiddel, gegrond op zijn verhouding tot een vorige schuldeiser, niet tegenwerpen aan de verkrijger en diens rechtsopvolgers, tenzij op het tijdstip van de overdracht het verweermiddel bekend was aan de verkrijger of voor hem kenbaar was uit het papier.    
+1.  Na een overdracht overeenkomstig artikel 93 van Boek 3 van een vordering aan toonder of aan order kan de schuldenaar een verweermiddel, gegrond op zijn verhouding tot een vorige schuldeiser, niet tegenwerpen aan de verkrijger en diens rechtsopvolgers, tenzij op het tijdstip van de overdracht het verweermiddel bekend was aan de verkrijger of voor hem kenbaar was uit het papier.    
 2.   Een beroep op onbekwaamheid of onbevoegdheid kan ook jegens een daarmee niet bekende verkrijger worden gedaan, indien zij ten tijde van zijn verkrijging kenbaar was uit een in een openbaar register opgenomen inschrijving, bij of krachtens de wet voorgeschreven teneinde kennisneming mogelijk te maken van de feiten waarop de onbevoegdheid of onbekwaamheid berust.   
 
 ### Artikel  147  
@@ -979,7 +979,7 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 a. zolang de vordering en de schuld in van elkaar gescheiden vermogens vallen;   
 
-b. in geval van overdracht overeenkomstig [artikel 93 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van een vordering aan toonder of order;   
+b. in geval van overdracht overeenkomstig artikel 93 van Boek 3 van een vordering aan toonder of order;   
 
 c. indien de voormelde vereniging van hoedanigheden het gevolg is van een rechtshandeling onder ontbindende voorwaarde, zolang niet vaststaat dat de voorwaarde niet meer in vervulling kan gaan.      
 3.   Tenietgaan van een verbintenis door vermenging laat de op de vordering rustende rechten van derden onverlet.   
@@ -1072,14 +1072,14 @@ b. het betreft zaakschade ter zake waarvan krachtens afdeling 3 van titel 3 geen
 
 ### Artikel  175  
 
-1.  Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is volgens de criteria en methoden, vastgesteld krachtens [artikel 9.2.3.1, derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of indien de stof als zodanig is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353).    
-2.   Bevindt de stof zich in de macht van een bewaarder die er zijn bedrijf van maakt zodanige stoffen te bewaren, dan rust de aansprakelijkheid uit het eerste lid op deze. Met een zodanige bewaarder wordt gelijkgesteld de vervoerder, expediteur, stuwadoor, bewaarder of soortgelijke ondernemer, die de stof ten vervoer of uit hoofde van een met het vervoer samenhangende overeenkomst in ontvangst heeft genomen, zulks voor de periode waarin de stof zich in zijn macht bevindt zonder dat [afdeling 4 van titel 6](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [4 van titel 11](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [1 van titel 14](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [4 van titel 19 van Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) van toepassing is.    
+1.  Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is volgens de criteria en methoden, vastgesteld krachtens artikel 9.2.3.1, derde lid, van de Wet milieubeheer of indien de stof als zodanig is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353).    
+2.   Bevindt de stof zich in de macht van een bewaarder die er zijn bedrijf van maakt zodanige stoffen te bewaren, dan rust de aansprakelijkheid uit het eerste lid op deze. Met een zodanige bewaarder wordt gelijkgesteld de vervoerder, expediteur, stuwadoor, bewaarder of soortgelijke ondernemer, die de stof ten vervoer of uit hoofde van een met het vervoer samenhangende overeenkomst in ontvangst heeft genomen, zulks voor de periode waarin de stof zich in zijn macht bevindt zonder dat afdeling 4 van titel 6, 4 van titel 11, 1 van titel 14 of 4 van titel 19 van Boek 8 van toepassing is.    
 3.   Bevindt de stof zich in een leiding, dan rust de aansprakelijkheid uit het eerste lid op de leidingbeheerder, behalve voor zover de leiding zich bevindt in een gebouw of werk en strekt tot toevoer of afvoer ten behoeve van dit gebouw of werk.    
 4.   Is de schade een gevolg van verontreiniging met de stof van lucht, water of bodem, dan rust de aansprakelijkheid uit het eerste lid op degene die bij de aanvang van de tot verontreiniging leidende gebeurtenis door dit artikel als aansprakelijke persoon werd aangewezen. Heeft de verontreiniging plaatsgevonden doordat de stof in verpakte toestand in water of bodem is gekomen of op de bodem is achtergelaten, dan wordt die gebeurtenis geacht op dit tijdstip reeds te zijn aangevangen.    
 5.   Vormt de stof, al of niet tezamen met andere bestanddelen, een roerende zaak als bedoeld in artikel 173 lid 1, is zij in een zodanige zaak verpakt of is zij opgeslagen in een daartoe bestemd gebouw of werk als bedoeld in artikel 174, vierde lid, dan rust de aansprakelijkheid uit de artikelen 173 en 174, voor wat betreft de schade die door verwezenlijking van het aan de stof verbonden gevaar is veroorzaakt, op dezelfde persoon als op wie krachtens de voorgaande leden aansprakelijkheid ter zake van de stof rust.    
 6.   Een stof wordt geacht aan de omschrijving van de eerste zin van het eerste lid te voldoen, wanneer zij bij algemene maatregel van bestuur als zodanig is aangewezen. Een stof kan in elk geval worden aangewezen, als: 
 
-a. zij volgens de criteria en methoden, vastgesteld krachtens [artikel 9.2.3.1, derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), behoort tot een der categorieën bedoeld in het [tweede lid van dat artikel](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of  
+a. zij volgens de criteria en methoden, vastgesteld krachtens artikel 9.2.3.1, derde lid, van de Wet milieubeheer, behoort tot een der categorieën bedoeld in het tweede lid van dat artikel, of  
 
 b. zij is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353).  De aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.   
 
@@ -1088,24 +1088,24 @@ b. zij is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordeni
 1.  De exploitant van een stortplaats is aansprakelijk voor de schade die voor of na de sluiting van de stortplaats ontstaat als gevolg van verontreiniging van lucht, water of bodem met de daar voor die sluiting gestorte stoffen.    
 2.   In dit artikel wordt onder exploitant van een stortplaats verstaan:  
 
-a. degene voor wie een omgevingsvergunning geldt als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) om op het in lid 6 bedoelde terrein een stortplaats op te richten, te veranderen of de werking daarvan te veranderen of in werking te hebben;   
+a. degene voor wie een omgevingsvergunning geldt als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht om op het in lid 6 bedoelde terrein een stortplaats op te richten, te veranderen of de werking daarvan te veranderen of in werking te hebben;   
 
 b. een ieder die de stortplaats exploiteert zonder dat voor hem een zodanige vergunning geldt.      
 3.   Indien na het bekend worden van de schade een ander exploitant van de stortplaats wordt, blijft de aansprakelijkheid voor die schade rusten op degene die tijdens dit bekend worden exploitant was.    
 4.   Indien de schade is bekend geworden na de sluiting van de stortplaats, rust de aansprakelijkheid op degene die de laatste exploitant was. Geen aansprakelijkheid op grond van dit artikel bestaat, wanneer op het tijdstip waarop de schade bekend wordt, meer dan twintig jaren waren verstreken nadat de stortplaats was gesloten met inachtneming van de geldende overheidsvoorschriften, of de schade een gevolg is van gebruik van de grond in strijd met hetgeen wegens de aanwezigheid van de gesloten stortplaats omtrent dit gebruik is voorgeschreven.    
-5.   Indien de exploitatie als stortplaats wettelijk is toegelaten, zijn degenen die de stoffen waardoor de verontreiniging is opgetreden, daar hebben gestort of doen storten, noch aansprakelijk krachtens artikel 175, noch krachtens [afdeling 4 van titel 6](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [4 van titel 11](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [1 van titel 14](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [4 van titel 19 van Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md). Indien op de stortplaats een zaak als bedoeld in artikel 173 of een stof als bedoeld in artikel 175 is gestort, rust de aansprakelijkheid uit die artikelen op degene die krachtens de voorgaande leden als exploitant van de stortplaats aansprakelijk is.    
+5.   Indien de exploitatie als stortplaats wettelijk is toegelaten, zijn degenen die de stoffen waardoor de verontreiniging is opgetreden, daar hebben gestort of doen storten, noch aansprakelijk krachtens artikel 175, noch krachtens afdeling 4 van titel 6, 4 van titel 11, 1 van titel 14 of 4 van titel 19 van Boek 8. Indien op de stortplaats een zaak als bedoeld in artikel 173 of een stof als bedoeld in artikel 175 is gestort, rust de aansprakelijkheid uit die artikelen op degene die krachtens de voorgaande leden als exploitant van de stortplaats aansprakelijk is.    
 6.   Onder stortplaats is begrepen elk terrein dat door de exploitant daarvan is bestemd voor het storten van al of niet verpakte, geheel of ten dele van anderen afkomstige stoffen met als doel dat de exploitant of die anderen zich van die stoffen ontdoen door ze daar op of in de bodem te brengen. Onder storten wordt mede begrepen elke vorm van deponeren of afgeven van de stof op de stortplaats.   
 
 ###Artikel 177  
 
-1.  De exploitant van een mijnbouwwerk als bedoeld in [artikel 1, onderdeel n, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) is aansprakelijk voor de schade die ontstaat door: 
+1.  De exploitant van een mijnbouwwerk als bedoeld in artikel 1, onderdeel n, van de Mijnbouwwet is aansprakelijk voor de schade die ontstaat door: 
 
-uitstroming van delfstoffen als bedoeld in [artikel 1, onderdeel a, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het werk zijn ontketend;  
+uitstroming van delfstoffen als bedoeld in artikel 1, onderdeel a, van de Mijnbouwwet als gevolg van het niet beheersen van de ondergrondse natuurkrachten die door de aanleg of bij de exploitatie van het werk zijn ontketend;  
 
 beweging van de bodem als gevolg van de aanleg of de exploitatie van dat werk.     
 2.  In dit artikel wordt onder exploitant van een mijnbouwwerk verstaan: 
 
-de houder van een vergunning als bedoeld in [artikel 6](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) of [25 van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), die een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft;  
+de houder van een vergunning als bedoeld in artikel 6 of 25 van de Mijnbouwwet, die een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft;  
 
 een ieder die, anders dan als ondergeschikte, een mijnbouwwerk aanlegt of doet aanleggen dan wel in gebruik heeft zonder dat hij houder is van een vergunning als bedoeld in onderdeel a, tenzij hij in opdracht van een ander handelt die houder is van een vergunning als vorenbedoeld dan wel, indien die ander dat niet is, hij daarmee niet bekend was of behoorde te zijn.     
 3.  Voor schade door uitstroming van delfstoffen is aansprakelijk degene die ten tijde van de gebeurtenis waardoor de uitstroming plaatsvindt, exploitant van een mijnbouwwerk is. Indien na deze gebeurtenis een ander exploitant wordt van het mijnbouwwerk, blijft de aansprakelijkheid voor deze schade rusten op degene die ten tijde van die gebeurtenis exploitant was. Indien de gebeurtenis plaatsvindt nadat het mijnbouwwerk is verlaten, rust de aansprakelijkheid op degene die de laatste exploitant van het werk was, tenzij op het tijdstip van die gebeurtenis meer dan vijf jaren waren verstreken nadat het werk was verlaten met inachtneming van de geldende overheidsvoorschriften.   
@@ -1331,17 +1331,17 @@ e.indien er een recht op herroeping of annulering is, het bestaan van dit recht.
 
 Indien er sprake is van commerciële communicatie, reclame of marketing daaronder begrepen, is de informatie genoemd bij of krachtens de volgende artikelen in ieder geval essentieel als bedoeld in artikel 193d lid 2:
 
-a.[artikel 15d leden 1 en 2](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [artikel 15e lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);
+a.artikel 15d leden 1 en 2 en artikel 15e lid 1 van Boek 3;
 
 b. artikelen 230m lid 1, onderdelen a, b en c, e tot en met h, o en p en 230v, leden 1 tot en met 3, 5, alsmede lid 6, eerste zin, en lid 7, van Boek 6; 
 
-c.[artikel 501 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);
+c.artikel 501 lid 1 van Boek 7;
 
-d.[artikelen 73 tot en met 75 van de Geneesmiddelenwet](../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);
+d.artikelen 73 tot en met 75 van de Geneesmiddelenwet;
 
-e.[artikelen 4:20](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:73](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:13 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+e.artikelen 4:20, 4:73 en 5:13 van de Wet op het financieel toezicht;
 
-f.[artikel 2b van de Prijzenwet](../../../../../../wet/prijzenwet/BWBR0002353/README.md).
+f.artikel 2b van de Prijzenwet.
 
 ### Artikel 193g 
 
@@ -1440,7 +1440,7 @@ h.de bedrieglijke indruk wekken dat de consument al een prijs heeft gewonnen of 
 
 ### Artikel 193j 
 
-1. Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in [artikel 305d lid 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
+1. Indien een vordering wordt ingesteld, of een verzoekschrift als bedoeld in artikel 305d lid 1 van Boek 3 wordt ingediend ingevolge de artikelen 193b tot en met 193i, rust op de handelaar de bewijslast ter zake van de materiële juistheid en volledigheid van de informatie die hij heeft verstrekt als dat passend lijkt, gelet op de omstandigheden van het geval en met inachtneming van de rechtmatige belangen van de handelaar en van elke andere partij bij de procedure.
 2. Indien op grond van artikel 193b onrechtmatig door de handelaar is gehandeld, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt. 
 3.  Een overeenkomst die als gevolg van een oneerlijke handelspraktijk tot stand is gekomen, is vernietigbaar. 
 
@@ -1508,7 +1508,7 @@ h. niet goederen of diensten voorstelt als een imitatie of namaak van goederen o
 
 ### Artikel  196b  
 
-1.  Indien een certificatiedienstverlener een certificaat aan het publiek afgeeft als een gekwalificeerd certificaat als bedoeld in [artikel 1.1, onderdeel ss, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), of indien hij voor een zodanig certificaat publiekelijk instaat, en een persoon op grond daarvan handelt in redelijk vertrouwen op: 
+1.  Indien een certificatiedienstverlener een certificaat aan het publiek afgeeft als een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel ss, van de Telecommunicatiewet, of indien hij voor een zodanig certificaat publiekelijk instaat, en een persoon op grond daarvan handelt in redelijk vertrouwen op: 
 
 a. de juistheid, op het tijdstip van afgifte, van alle in het certificaat opgenomen gegevens en de opneming van alle voor dit certificaat voorgeschreven gegevens;  
 
@@ -1521,7 +1521,7 @@ c. het feit dat de gegevens voor het aanmaken van elektronische handtekeningen e
 
 ### Artikel  196c  
 
-1.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in [artikel 15d lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), bestaande uit het doorgeven van van een ander afkomstige informatie of het verschaffen van toegang tot een communicatienetwerk is niet aansprakelijk voor de doorgegeven informatie, indien hij: 
+1.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in artikel 15d lid 3 van Boek 3, bestaande uit het doorgeven van van een ander afkomstige informatie of het verschaffen van toegang tot een communicatienetwerk is niet aansprakelijk voor de doorgegeven informatie, indien hij: 
 
 a.niet het initiatief tot het doorgeven van de informatie neemt;
 
@@ -1529,7 +1529,7 @@ b.niet degene is die bepaalt aan wie de informatie wordt doorgegeven; en
 
 c.hij de doorgegeven informatie niet heeft geselecteerd of gewijzigd.   
 2.  Voor de toepassing van lid 1 wordt onder het enkele doorgeven van van een ander afkomstige informatie en het enkele verschaffen van toegang tot een communicatienetwerk mede verstaan de geautomatiseerde, tussentijdse en tijdelijke opslag van de doorgegeven informatie, voor zover deze opslag uitsluitend geschiedt ten behoeve van het doorgeven van die informatie en de duur van deze opslag niet langer is dan daarvoor redelijkerwijs noodzakelijk is.   
-3.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in [artikel 15d lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), bestaande uit het geautomatiseerd, tussentijds en tijdelijk opslaan van van een ander afkomstige informatie voor zover het opslaan enkel geschiedt om het later doorgeven van die informatie aan anderen op hun verzoek doeltreffender te maken, is niet aansprakelijk voor het geautomatiseerd, tussentijds en tijdelijk opslaan van de informatie indien hij: 
+3.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in artikel 15d lid 3 van Boek 3, bestaande uit het geautomatiseerd, tussentijds en tijdelijk opslaan van van een ander afkomstige informatie voor zover het opslaan enkel geschiedt om het later doorgeven van die informatie aan anderen op hun verzoek doeltreffender te maken, is niet aansprakelijk voor het geautomatiseerd, tussentijds en tijdelijk opslaan van de informatie indien hij: 
 
 a.de informatie niet wijzigt;
 
@@ -1540,7 +1540,7 @@ c.de in de bedrijfstak geldende of gebruikelijke regels betreffende de bijwerkin
 d.niet de in de bedrijfstak geldende of gebruikelijke technologie voor het verkrijgen van gegevens over het gebruik van de informatie wijzigt, en
 
 e.prompt de nodige maatregelen neemt om de informatie te verwijderen of de toegang daartoe onmogelijk te maken, zodra hij weet dat de informatie is verwijderd van de plaats waar deze zich oorspronkelijk in het communicatienetwerk bevond of de toegang daartoe onmogelijk is gemaakt, of dat een bevoegde autoriteit heeft bevolen de informatie te verwijderen van de plaats waar deze zich oorspronkelijk in het communicatienetwerk bevond of de toegang daartoe heeft verboden.   
-4.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in [artikel 15d lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), bestaande uit het op verzoek opslaan van van een ander afkomstige informatie, is niet aansprakelijk voor de opgeslagen informatie, indien hij: 
+4.  Degene die diensten van de informatiemaatschappij verricht als bedoeld in artikel 15d lid 3 van Boek 3, bestaande uit het op verzoek opslaan van van een ander afkomstige informatie, is niet aansprakelijk voor de opgeslagen informatie, indien hij: 
 
 a.niet weet van de activiteit of informatie met een onrechtmatig karakter en, in geval van een schadevergoedingsvordering, niet redelijkerwijs behoort te weten van de activiteit of informatie met een onrechtmatig karakter, dan wel
 
@@ -1553,16 +1553,16 @@ b.zodra hij dat weet of redelijkerwijs behoort te weten, prompt de informatie ve
 
 ### Artikel  197  
 
-1.  De artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de [afdelingen 4 van titel 6](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [4 van titel 11](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [1 van titel 14](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [4 van titel 19 van Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) blijven buiten toepassing:  
+1.  De artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de afdelingen 4 van titel 6, 4 van titel 11, 1 van titel 14 en 4 van titel 19 van Boek 8 blijven buiten toepassing:  
 
-a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens artikel 107a en de [artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [90 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [68 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [4:1 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [52a van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), [61 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [65b van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [8 van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md);  
+a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens artikel 107a en de artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen, 90 van de Wet op de arbeidsongeschiktheidsverzekering, 68 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 4:1 van de Wet werk en arbeidsondersteuning jonggehandicapten, 52a van de Ziektewet, 61 van de Algemene nabestaandenwet, 65b van de Algemene Wet Bijzondere Ziektekosten en 8 van de Wet arbeidsongeschiktheidsvoorziening militairen;  
 
-b. bij de vaststelling van het bedrag, bedoeld in [artikel 3 van de Verhaalswet ongevallen ambtenaren](../../../../../../wet/verhaalswet/ongevallen/ambtenaren/BWBR0002500/README.md) waarboven de gehoudenheid krachtens die wet of krachtens [artikel 70 van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) zich niet uitstrekt.      
-2.   Rechten uit de artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de [afdelingen 4 van titel 6](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [4 van titel 11](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [1 van titel 14](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [4 van titel 19 van Boek 8](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) zijn niet vatbaar voor subrogatie:  
+b. bij de vaststelling van het bedrag, bedoeld in artikel 3 van de Verhaalswet ongevallen ambtenaren waarboven de gehoudenheid krachtens die wet of krachtens artikel 70 van de Wet privatisering ABP zich niet uitstrekt.      
+2.   Rechten uit de artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de afdelingen 4 van titel 6, 4 van titel 11, 1 van titel 14 en 4 van titel 19 van Boek 8 zijn niet vatbaar voor subrogatie:  
 
-a. krachtens [artikel 962 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was;   
+a. krachtens artikel 962 van Boek 7, behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was;   
 
-b. krachtens [artikel 6, derde lid, van de Wet schadefonds geweldsmisdrijven](../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md).      
+b. krachtens artikel 6, derde lid, van de Wet schadefonds geweldsmisdrijven.      
 3.   Degene wiens verhaal of subrogatie door de vorige leden wordt uitgesloten, kan de in het tweede lid bedoelde rechten evenmin krachtens overeenkomst verkrijgen of te zijnen behoeve door de gerechtigde op diens naam doen uitoefenen.   
 
 ### Titel  4  
@@ -1616,7 +1616,7 @@ Heeft de ontvanger het goed te kwader trouw aangenomen, dan is hij zonder ingebr
 
 ### Artikel  206  
 
-De [artikelen 120](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [121](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [123](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [124 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.  
+De artikelen 120, 121, 123 en 124 van Boek 3 zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.  
 
 ### Artikel  207  
 
@@ -1719,7 +1719,7 @@ Een aanbod vervalt niet door de dood of het verlies van handelingsbekwaamheid va
 
 ### Artikel  224  
 
-Indien een aanvaarding de aanbieder niet of niet tijdig bereikt door een omstandigheid op grond waarvan zij krachtens [artikel 37 lid 3, tweede zin, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niettemin haar werking heeft, wordt de overeenkomst geacht tot stand te zijn gekomen op het tijdstip waarop zonder de storende omstandigheid de verklaring zou zijn ontvangen.  
+Indien een aanvaarding de aanbieder niet of niet tijdig bereikt door een omstandigheid op grond waarvan zij krachtens artikel 37 lid 3, tweede zin, van Boek 3 niettemin haar werking heeft, wordt de overeenkomst geacht tot stand te zijn gekomen op het tijdstip waarop zonder de storende omstandigheid de verklaring zou zijn ontvangen.  
 
 ### Artikel  225  
 
@@ -1750,7 +1750,7 @@ d.de identiteit van de partijen met voldoende zekerheid kan worden vastgesteld.
 
 ### Artikel  227b  
 
-1.  Voordat een overeenkomst langs elektronische weg tot stand komt verstrekt degene die een dienst van de informatiemaatschappij verleent als bedoeld in [artikel 15d lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) de wederpartij ten minste op duidelijke, begrijpelijke en ondubbelzinnige wijze informatie over: 
+1.  Voordat een overeenkomst langs elektronische weg tot stand komt verstrekt degene die een dienst van de informatiemaatschappij verleent als bedoeld in artikel 15d lid 3 van Boek 3 de wederpartij ten minste op duidelijke, begrijpelijke en ondubbelzinnige wijze informatie over: 
 
 a.de wijze waarop de overeenkomst tot stand zal komen en in het bijzonder welke handelingen daarvoor nodig zijn;
 
@@ -1769,7 +1769,7 @@ e.de gedragscodes waaraan hij zich heeft onderworpen en de wijze waarop deze ged
 
 ### Artikel  227c  
 
-1.  Degene die een dienst van de informatiemaatschappij als bedoeld in [artikel 15d lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) verleent, stelt de wederpartij passende, doeltreffende en toegankelijke middelen ter beschikking waarmee de wederpartij voor de aanvaarding van de overeenkomst van door hem niet gewilde handelingen op de hoogte kan geraken en waarmee hij deze kan herstellen.   
+1.  Degene die een dienst van de informatiemaatschappij als bedoeld in artikel 15d lid 3 van Boek 3 verleent, stelt de wederpartij passende, doeltreffende en toegankelijke middelen ter beschikking waarmee de wederpartij voor de aanvaarding van de overeenkomst van door hem niet gewilde handelingen op de hoogte kan geraken en waarmee hij deze kan herstellen.   
 2.  Indien een wederpartij van een dienstverlener langs elektronische weg een verklaring uitbrengt die door de dienstverlener mag worden opgevat hetzij als een aanvaarding van een door hem langs elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener zo spoedig mogelijk langs elektronische weg de ontvangst van deze verklaring. Zolang de ontvangst van een aanvaarding niet is bevestigd, kan de wederpartij de overeenkomst ontbinden. Het niet tijdig bevestigen van de ontvangst van een aanbod geldt als verwerping daarvan.   
 3.  Een verklaring als bedoeld in lid 2 en de ontvangstbevestiging worden geacht te zijn ontvangen, wanneer deze toegankelijk zijn voor de partijen tot wie zij zijn gericht.   
 4.  De leden 1 en 2 zijn niet van toepassing indien de overeenkomst uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand komt.   
@@ -1808,7 +1808,7 @@ In deze afdeling wordt verstaan onder:
 
 *bevoegde instantie:* bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;  
 
-*centraal loket:* het centraal loket, bedoeld in [artikel 5, eerste lid, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md);  
+*centraal loket:* het centraal loket, bedoeld in artikel 5, eerste lid, van de Dienstenwet;  
 
 *dienst:* economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;  
 
@@ -1898,7 +1898,7 @@ a.  *consument:* iedere natuurlijke persoon die handelt voor doeleinden die buit
 
 b.  *handelaar:* iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;  
 
-c.  *consumentenkoop:* de overeenkomst bedoeld in [artikel 5 lid 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+c.  *consumentenkoop:* de overeenkomst bedoeld in artikel 5 lid 1 van Boek 7;  
 
 d.  *overeenkomst tot het verrichten van diensten:* iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt een prijs te betalen;  
 
@@ -1932,7 +1932,7 @@ m.  *recht van ontbinding:* het recht om de overeenkomst overeenkomstig artikel 
 
 n.  *ontbindingstermijn:* de termijn waarbinnen het recht van ontbinding overeenkomstig artikel 230o kan worden uitgeoefend;  
 
-o.  *financieel product, financiële dienst, financiële onderneming, krediet, levensverzekering, natura-uitvaartverzekeraar en verzekering:* hetgeen daaronder wordt verstaan in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de daarop berustende bepalingen;  
+o.  *financieel product, financiële dienst, financiële onderneming, krediet, levensverzekering, natura-uitvaartverzekeraar en verzekering:* hetgeen daaronder wordt verstaan in artikel 1:1 van de Wet op het financieel toezicht en de daarop berustende bepalingen;  
 
 p.  *richtlijn:* Richtlijn 2011/83/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van Richtlijn 93/13/EEG van de Raad en van Richtlijn 1999/44/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijn 85/577/EEG en van Richtlijn 97/7/EG van het Europees Parlement en de Raad (Pb EU L 304/64);  
 
@@ -1958,9 +1958,9 @@ f. over het doen ontstaan, het verkrijgen of het overdragen van onroerende zaken
 
 g. betreffende de constructie van nieuwe gebouwen, de ingrijpende verbouwing van bestaande gebouwen en de verhuur van woonruimte;  
 
-h. betreffende reizen, als bedoeld in [artikel 500 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+h. betreffende reizen, als bedoeld in artikel 500 van Boek 7 van het Burgerlijk Wetboek;  
 
-i. betreffende gebruik in deeltijd, een vakantieproduct van lange duur, en betreffende bijstand bij verhandelen en uitwisseling, als bedoeld in [artikel 50a van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+i. betreffende gebruik in deeltijd, een vakantieproduct van lange duur, en betreffende bijstand bij verhandelen en uitwisseling, als bedoeld in artikel 50a van Boek 7 van het Burgerlijk Wetboek;  
 
 j. waarbij de wet voor de totstandkoming van de overeenkomst de tussenkomst van een notaris voorschrijft;  
 
@@ -1978,7 +1978,7 @@ m. die wordt gesloten met telecommunicatie-exploitanten door middel van openbare
 1.  Van het bepaalde bij of krachtens deze afdeling kan niet ten nadele van de consument worden afgeweken.   
 2.  Op de termijnen genoemd in deze afdeling is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.   
 3.  De in deze afdeling opgenomen bepalingen gelden niet voor zover deze op grond van artikel 3 lid 2 van de richtlijn van het toepassingsgebied van de richtlijn zijn uitgezonderd.   
-4.  De uit deze afdeling voortvloeiende informatieverplichtingen gelden onverminderd de informatieverplichtingen op grond van de [artikelen 15d tot en met 15f van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de artikelen 227b en 227c alsmede afdeling 2A van titel 5 van Boek 6. In geval van strijd naar inhoud en wijze waarop de informatie wordt verstrekt, zijn de bepalingen van deze afdeling van toepassing.  
+4.  De uit deze afdeling voortvloeiende informatieverplichtingen gelden onverminderd de informatieverplichtingen op grond van de artikelen 15d tot en met 15f van Boek 3, de artikelen 227b en 227c alsmede afdeling 2A van titel 5 van Boek 6. In geval van strijd naar inhoud en wijze waarop de informatie wordt verstrekt, zijn de bepalingen van deze afdeling van toepassing.  
 
 ### Artikel  230j  
 
@@ -2224,9 +2224,9 @@ c. fondsvorming ter voldoening van de verzorging van de uitvaart van een natuurl
 
 ### Artikel  230x  
 
-1.  Een consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende veertien kalenderdagen vanaf de dag waarop die overeenkomst is aangegaan dan wel, indien dit later is, gedurende veertien kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dient te verstrekken, door hem is ontvangen.   
-2.  In afwijking van lid 1 kan een consument een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte inzake een levensverzekering zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende dertig kalenderdagen vanaf de dag waarop hij van het tot stand komen van de overeenkomst in kennis is gesteld dan wel, indien dit later is, gedurende dertig kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dient te verstrekken, door hem is ontvangen.   
-3.  Indien een consument gebruik wenst te maken van het in lid 1 of lid 2 bedoelde recht, geeft hij daarvan voor het verstrijken van de in dat lid bedoelde termijn kennis aan de financiële onderneming volgens de instructies die hem hierover overeenkomstig [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn verstrekt. De kennisgeving wordt als tijdig aangemerkt indien zij schriftelijk of op een voor de financiële onderneming beschikbare en toegankelijke duurzame gegevensdrager is verzonden voor het verstrijken van de termijn.   
+1.  Een consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende veertien kalenderdagen vanaf de dag waarop die overeenkomst is aangegaan dan wel, indien dit later is, gedurende veertien kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van artikel 4:20 lid 1 van de Wet op het financieel toezicht, dient te verstrekken, door hem is ontvangen.   
+2.  In afwijking van lid 1 kan een consument een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte inzake een levensverzekering zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende dertig kalenderdagen vanaf de dag waarop hij van het tot stand komen van de overeenkomst in kennis is gesteld dan wel, indien dit later is, gedurende dertig kalenderdagen vanaf de dag waarop de informatie die de financiële onderneming hem op grond van artikel 4:20 lid 1 van de Wet op het financieel toezicht, dient te verstrekken, door hem is ontvangen.   
+3.  Indien een consument gebruik wenst te maken van het in lid 1 of lid 2 bedoelde recht, geeft hij daarvan voor het verstrijken van de in dat lid bedoelde termijn kennis aan de financiële onderneming volgens de instructies die hem hierover overeenkomstig artikel 4:20 lid 1 van de Wet op het financieel toezicht zijn verstrekt. De kennisgeving wordt als tijdig aangemerkt indien zij schriftelijk of op een voor de financiële onderneming beschikbare en toegankelijke duurzame gegevensdrager is verzonden voor het verstrijken van de termijn.   
 4.  De leden 1 en 2 zijn niet van toepassing op: 
 
 a. overeenkomsten inzake financiële producten waarvan de waarde gedurende de termijn, bedoeld in het desbetreffende lid, afhankelijk is van ontwikkelingen op de financiële markten of andere markten;  
@@ -2235,7 +2235,7 @@ b. overeenkomsten inzake verzekeringen met een looptijd van minder dan een maand
 
 c. overeenkomsten die op uitdrukkelijk verzoek van de consument volledig zijn uitgevoerd voordat de consument gebruik maakt van het in het lid 1 of lid 2 bedoelde recht;  
 
-d. overeenkomsten inzake krediet die zijn ontbonden overeenkomstig artikel 230q lid 2 van Boek 6 of de [artikelen 50e lid 2, onderdeel c](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [66 lid 1](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of [67 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+d. overeenkomsten inzake krediet die zijn ontbonden overeenkomstig artikel 230q lid 2 van Boek 6 of de artikelen 50e lid 2, onderdeel c, 66 lid 1 of 67 lid 1 van Boek 7 van het Burgerlijk Wetboek;  
 
 e. overeenkomsten inzake krediet waarbij hypothecaire zekerheid wordt verleend; en  
 
@@ -2253,7 +2253,7 @@ a. niet hoger dan een bedrag dat evenredig is aan de verhouding tussen het reeds
 b. in geen geval zo hoog dat deze als een boete kan worden opgevat.     
 3.  De financiële onderneming kan slechts betaling van de in lid 2 bedoelde vergoeding verlangen indien zij: 
 
-a. kan aantonen dat de consument overeenkomstig [artikel 4:20 lid 1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is geïnformeerd over de in lid 2 bedoelde vergoeding; en  
+a. kan aantonen dat de consument overeenkomstig artikel 4:20 lid 1 van de Wet op het financieel toezicht, is geïnformeerd over de in lid 2 bedoelde vergoeding; en  
 
 b. op uitdrukkelijk verzoek van de consument met de uitvoering van de overeenkomst is begonnen voor het verstrijken van de in artikel 230x lid 1 of lid 2 genoemde termijn.     
 4.  Indien de consument gebruikt maakt van het in artikel 230x lid 1 of lid 2 bedoelde recht, betaalt de financiële onderneming de consument zo spoedig mogelijk, doch uiterlijk binnen dertig kalenderdagen nadat zij de kennisgeving van de ontbinding heeft ontvangen, al hetgeen zij op grond van de overeenkomst van de consument ontvangen heeft terug, verminderd met het in lid 2 bedoelde bedrag.   
@@ -2261,11 +2261,11 @@ b. op uitdrukkelijk verzoek van de consument met de uitvoering van de overeenkom
 
 ### Artikel  230z  
 
-1.  Het is een kredietgever of een kredietbemiddelaar verboden om door persoonlijk bezoek dan wel door of in samenhang met de aanprijzing van een geldkrediet als bedoeld in onderdeel a van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of van een zaak of een dienst in een groep van ter plaatse van de aanprijzing aanwezige personen te trachten een ander te bewegen tot het als kredietnemer deelnemen aan een geldkrediet, dan wel een ander die handelingen te doen verrichten.   
+1.  Het is een kredietgever of een kredietbemiddelaar verboden om door persoonlijk bezoek dan wel door of in samenhang met de aanprijzing van een geldkrediet als bedoeld in onderdeel a van de definitie van krediet in artikel 1:1 van de Wet op het financieel toezicht of van een zaak of een dienst in een groep van ter plaatse van de aanprijzing aanwezige personen te trachten een ander te bewegen tot het als kredietnemer deelnemen aan een geldkrediet, dan wel een ander die handelingen te doen verrichten.   
 2.  Voor de toepassing van het vorige lid wordt als persoonlijk bezoek niet aangemerkt het persoonlijk bezoek, dat in overwegende mate voortvloeit uit een initiatief van degene, die wordt bezocht, tenzij de bezoeker degene, die hij bezoekt, tracht te bewegen tot het sluiten van een overeenkomst betreffende een ander goed of een andere dienst dan het goed of de dienst, in verband waarmee om het bezoek is verzocht en degene, die wordt bezocht, toen hij het initiatief tot dat bezoek nam niet wist en redelijkerwijs niet kon weten, dat het sluiten van overeenkomsten betreffende dat andere goed of die andere dienst tot de bedrijfs- of beroepsuitoefening van de bezoeker behoorde.   
 3.  Voor de toepassing van lid 1 wordt als een groep van personen niet aangemerkt een groep, die kennelijk niet met of mede met het oog op de aanprijzing van een goed of een dienst in die groep is bijeengebracht.   
 4.  Een overeenkomst die in strijd met lid 1 is tot stand gekomen, is vernietigbaar. Een beroep op vernietigbaarheid kan slechts door de consument worden gedaan. De rechter kan na de vernietiging van de overeenkomst vaststellen in welke termijnen de consument aan zijn verplichting tot terugbetaling aan de kredietgever zal hebben te voldoen.   
-5.  De rechtsvordering tot vernietiging verjaart door verloop van een jaar na de aanvang van de dag waarop de kredietgever de consument schriftelijk heeft gewezen op de mogelijkheid een beroep te doen op de vernietigbaarheid. [Artikel 52 lid 2 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van overeenkomstige toepassing.   
+5.  De rechtsvordering tot vernietiging verjaart door verloop van een jaar na de aanvang van de dag waarop de kredietgever de consument schriftelijk heeft gewezen op de mogelijkheid een beroep te doen op de vernietigbaarheid. Artikel 52 lid 2 van Boek 3 is van overeenkomstige toepassing.   
 6.  Elk beding dat de consument verplicht enige prestatie te verrichten dan wel het recht ontneemt om bij vernietiging van de overeenkomst reeds betaalde bedragen terug te vorderen, is nietig.   
 7.  Artikel 230u is van overeenkomstige toepassing op de overeenkomst buiten de verkoopruimte inzake een financieel product of een financiële dienst.  
 
@@ -2305,12 +2305,12 @@ b. indien de gebruiker aan de wederpartij niet een redelijke mogelijkheid heeft 
 
 1.  Op de vernietigingsgronden bedoeld in de artikelen 233 en 234 kan geen beroep worden gedaan door  
 
-a. een rechtspersoon bedoeld in [artikel 360 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die ten tijde van het sluiten van de overeenkomst laatstelijk zijn jaarrekening openbaar heeft gemaakt, of ten aanzien waarvan op dat tijdstip laatstelijk [artikel 403 lid 1 van Boek 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is toegepast;   
+a. een rechtspersoon bedoeld in artikel 360 van Boek 2, die ten tijde van het sluiten van de overeenkomst laatstelijk zijn jaarrekening openbaar heeft gemaakt, of ten aanzien waarvan op dat tijdstip laatstelijk artikel 403 lid 1 van Boek 2 is toegepast;   
 
-b. een partij op wie het onder *a* bepaalde niet van toepassing is, indien op voormeld tijdstip bij haar vijftig of meer personen werkzaam zijn of op dat tijdstip uit een opgave krachtens de [Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) blijkt dat bij haar vijftig of meer personen werkzaam zijn.      
+b. een partij op wie het onder *a* bepaalde niet van toepassing is, indien op voormeld tijdstip bij haar vijftig of meer personen werkzaam zijn of op dat tijdstip uit een opgave krachtens de Handelsregisterwet 2007 blijkt dat bij haar vijftig of meer personen werkzaam zijn.      
 2.   Op de vernietigingsgrond bedoeld in artikel 233 onder a , kan mede een beroep worden gedaan door een partij voor wie de algemene voorwaarden door een gevolmachtigde zijn gebruikt, mits de wederpartij meermalen overeenkomsten sluit waarop dezelfde of nagenoeg dezelfde algemene voorwaarden van toepassing zijn.    
 3.   Op de vernietigingsgronden bedoeld in de artikelen 233 en 234, kan geen beroep worden gedaan door een partij die meermalen dezelfde of nagenoeg dezelfde algemene voorwaarden in haar overeenkomsten gebruikt.    
-4.   De termijn bedoeld in [artikel 52 lid 1 onder d van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), begint met de aanvang van de dag, volgende op die waarop een beroep op het beding is gedaan.   
+4.   De termijn bedoeld in artikel 52 lid 1 onder d van Boek 3, begint met de aanvang van de dag, volgende op die waarop een beroep op het beding is gedaan.   
 
 ### Artikel  236  
 
@@ -2338,7 +2338,7 @@ j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elekt
 
 k. dat de bevoegdheid van de wederpartij om bewijs te leveren uitsluit of beperkt, of dat de uit de wet voortvloeiende verdeling van de bewijslast ten nadele van de wederpartij wijzigt, hetzij doordat het een verklaring van haar bevat omtrent de deugdelijkheid van de haar verschuldigde prestatie, hetzij doordat het haar belast met het bewijs dat een tekortkoming van de gebruiker aan hem kan worden toegerekend;   
 
-l. dat ten nadele van de wederpartij afwijkt van [artikel 37 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), tenzij het betrekking heeft op de vorm van door de wederpartij af te leggen verklaringen of bepaalt dat de gebruiker het hem door de wederpartij opgegeven adres als zodanig mag blijven beschouwen totdat hem een nieuw adres is meegedeeld;   
+l. dat ten nadele van de wederpartij afwijkt van artikel 37 van Boek 3, tenzij het betrekking heeft op de vorm van door de wederpartij af te leggen verklaringen of bepaalt dat de gebruiker het hem door de wederpartij opgegeven adres als zodanig mag blijven beschouwen totdat hem een nieuw adres is meegedeeld;   
 
 m. waarbij een wederpartij die bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, woonplaats kiest anders dan voor het geval zij te eniger tijd geen bekende werkelijke woonplaats in die gemeente zal hebben, tenzij de overeenkomst betrekking heeft op een registergoed en woonplaats ten kantore van een notaris wordt gekozen;   
 
@@ -2408,14 +2408,14 @@ b. op het feit dat de algemene voorwaarden beperkingen bevatten van de bevoegdhe
 1.  Op vordering van een rechtspersoon als bedoeld in lid 3 kunnen bepaalde bedingen in bepaalde algemene voorwaarden onredelijk bezwarend worden verklaard; de artikelen 233 onder *a* , 236 en 237 zijn van overeenkomstige toepassing. Voor de toepassing van de vorige zin wordt een beding in algemene voorwaarden dat in strijd is met een dwingende wetsbepaling, als onredelijk bezwarend aangemerkt. Bij de beoordeling van een beding blijft de uitlegregel van artikel 238 lid 2, tweede zin, buiten toepassing.   
 2.   De vordering kan worden ingesteld tegen de gebruiker, alsmede tegen een rechtspersoon met volledige rechtsbevoegdheid die ten doel heeft de behartiging van de belangen van personen die een beroep of bedrijf uitoefenen, indien hij het gebruik van de algemene voorwaarden door die personen bevordert.    
 3.   De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben de behartiging van belangen van personen die een beroep of bedrijf uitoefenen of van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten. Zij kan slechts betrekking hebben op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen wier belangen door de rechtspersoon worden behartigd.    
-4.   De eiser is niet ontvankelijk indien niet blijkt dat hij, alvorens de vordering in te stellen, de gebruiker of, in het geval bedoeld in [artikel 1003 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), de aldaar bedoelde vereniging, de gelegenheid heeft geboden om in onderling overleg de algemene voorwaarden zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na de ontvangst van een verzoek tot overleg onder vermelding van de bezwaren, is daartoe in elk geval voldoende.   
+4.   De eiser is niet ontvankelijk indien niet blijkt dat hij, alvorens de vordering in te stellen, de gebruiker of, in het geval bedoeld in artikel 1003 van het Wetboek van Burgerlijke Rechtsvordering, de aldaar bedoelde vereniging, de gelegenheid heeft geboden om in onderling overleg de algemene voorwaarden zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na de ontvangst van een verzoek tot overleg onder vermelding van de bezwaren, is daartoe in elk geval voldoende.   
 5.   Voor zover een rechtspersoon met het gebruik van bedingen in algemene voorwaarden heeft ingestemd, komt hem geen vordering als bedoeld in lid 1 toe.    
 6.  Met een rechtspersoon als bedoeld in lid 3 wordt gelijk gesteld een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 4 lid 3 van richtlijn nr. 98/27/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 betreffende het doen staken van inbreuken in het raam van de bescherming van consumentenbelangen (PbEG L 166), mits de vordering betrekking heeft op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, en de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.  
 
 ### Artikel  241  
 
 1.  Het gerechtshof Den Haag is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.    
-2.   De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 217](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [376 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md); [artikel 379 van dat wetboek](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is niet van toepassing.    
+2.   De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de artikelen 217 en 376 van het Wetboek van Burgerlijke Rechtsvordering; artikel 379 van dat wetboek is niet van toepassing.    
 3.   Op vordering van de eiser kan aan de uitspraak worden verbonden  
 
 a. een verbod van het gebruik van de door de uitspraak getroffen bedingen of van het bevorderen daarvan;   
@@ -2425,12 +2425,12 @@ b. een gebod om een aanbeveling tot het gebruik van deze bedingen te herroepen;
 c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.      
 4.   De rechter kan in zijn uitspraak aangeven op welke wijze het onredelijk bezwarend karakter van de bedingen waarop de uitspraak betrekking heeft, kan worden weggenomen.    
 5.   Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.    
-6.  Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [116 lid 2](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1003](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1005](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1006 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.  
+6.  Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in artikel 240 lid 3, is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de artikelen 62, 116 lid 2, 1003, 1005, 1006 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  242  
 
 1.  Op vordering van een of meer van degenen tegen wie de in artikel 240 lid 1 bedoelde uitspraak is gedaan, kan de rechter die uitspraak wijzigen of opheffen op grond dat zij tengevolge van een wijziging in de omstandigheden niet langer gerechtvaardigd is. De vordering wordt ingesteld tegen de rechtspersoon op wiens vordering de uitspraak was gedaan.    
-2.   Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van [artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) worden rechtspersonen als bedoeld in artikel 240 lid 3 als belanghebbenden aangemerkt.    
+2.   Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering worden rechtspersonen als bedoeld in artikel 240 lid 3 als belanghebbenden aangemerkt.    
 3.   Artikel 241 leden 1, 2, 3 onder *c* en 5 is van overeenkomstige toepassing.    
 4.   De vorige leden zijn niet van toepassing voor zover de uitspraak betrekking had op een beding dat door de wet als onredelijk bezwarend wordt aangemerkt.   
 
@@ -2441,7 +2441,7 @@ Een beding in algemene voorwaarden dat door degene jegens wie een verbod tot geb
 ### Artikel  244  
 
 1.  Een persoon die handelt in de uitoefening van een beroep of bedrijf, kan geen beroep doen op een beding in een overeenkomst met een partij die terzake van de goederen of diensten waarop die overeenkomst betrekking heeft, met gebruikmaking van algemene voorwaarden overeenkomsten met haar afnemers heeft gesloten, voor zover een beroep op dat beding onredelijk zou zijn wegens zijn nauwe samenhang met een in de algemene voorwaarden voorkomend beding dat krachtens deze afdeling is vernietigd of door een uitspraak als bedoeld in artikel 240 lid 1 is getroffen.    
-2.   Is tegen de gebruiker een vordering als bedoeld in artikel 240 lid 1 ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. Artikel 241 leden 2, 3 onder *c*, 4 en 5 alsmede de [artikelen 210](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [211](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [215 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn van overeenkomstige toepassing.    
+2.   Is tegen de gebruiker een vordering als bedoeld in artikel 240 lid 1 ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. Artikel 241 leden 2, 3 onder *c*, 4 en 5 alsmede de artikelen 210, 211 en 215 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.    
 3.   Op de uitspraak is artikel 242 van overeenkomstige toepassing.    
 4.   Op eerdere overeenkomsten met betrekking tot de voormelde goederen en diensten zijn de leden 1-3 van overeenkomstige toepassing.   
 
@@ -2471,7 +2471,7 @@ Noch van de artikelen 231-244, noch van de bepalingen van de in artikel 239 lid 
 
 ### Artikel  249  
 
-De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit. In het geval van verdeling van een nalatenschap ingevolge [artikel 13 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) gelden de rechtsgevolgen van de overeenkomst niet mede voor de kinderen van de erflater, tenzij uit de overeenkomst anders voortvloeit. 
+De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit. In het geval van verdeling van een nalatenschap ingevolge artikel 13 van Boek 4 gelden de rechtsgevolgen van de overeenkomst niet mede voor de kinderen van de erflater, tenzij uit de overeenkomst anders voortvloeit. 
 
 ### Artikel  250  
 
@@ -2543,7 +2543,7 @@ b. indien de schuldeiser bij de nakoming van de verplichting geen redelijk belan
 1.  Een wijziging of ontbinding als bedoeld in de artikelen 258 en 259 kan worden uitgesproken onder door de rechter te stellen voorwaarden.    
 2.   Indien hij op grond van die artikelen de overeenkomst wijzigt of gedeeltelijk ontbindt, kan hij bepalen dat een of meer der partijen de overeenkomst binnen een bij de uitspraak vast te stellen termijn door een schriftelijke verklaring geheel zal kunnen ontbinden. De wijziging of gedeeltelijke ontbinding treedt niet in, voordat deze termijn is verstreken.    
 3.   Is de overeenkomst die op grond van de artikelen 258 en 259 wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.    
-4.   Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig artikel 252 lid 2, eerste zin, gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. [Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn van overeenkomstige toepassing.    
+4.   Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig artikel 252 lid 2, eerste zin, gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3 zijn van overeenkomstige toepassing.    
 5.   Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.   
 
 ### Afdeling  5  
@@ -2615,7 +2615,7 @@ Heeft een partij in weerwil van een dreigende ontbinding te kwader trouw een pre
 
 ### Artikel  275  
 
-De [artikelen 120-124 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.  
+De artikelen 120-124 van Boek 3 zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.  
 
 ### Artikel  276  
 

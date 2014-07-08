@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met modernisering van de pensioenwetgeving, de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](../../../../../wet/wet/betreffende/verplichte/deelneming/in/een/beroepspensioenregeling/BWBR0002830/README.md) in te trekken en te vervangen door een nieuwe wet ter zake;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met modernisering van de pensioenwetgeving, de Wet betreffende verplichte deelneming in een beroepspensioenregeling in te trekken en te vervangen door een nieuwe wet ter zake;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -20,11 +20,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –aanspraakgerechtigde: persoon die begunstigde is voor een nog niet ingegaan pensioen;
 
-–accountant: een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+–accountant: een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;
 
 –afkoop: iedere handeling waardoor pensioenaanspraken of pensioenrechten hun pensioenbestemming verliezen;
 
-–arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de beroepsgenoot of gewezen beroepsgenoot, waarop recht bestaat nadat de arbeidsongeschiktheid 104 weken heeft geduurd of, indien er sprake is van een beroepsgenoot in loondienst, waarop recht bestaat na afloop van de periode bedoeld in [artikel 29, eerste lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) of, indien de beroepsgenoot Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in [artikel 29, vijfde en negende lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);
+–arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de beroepsgenoot of gewezen beroepsgenoot, waarop recht bestaat nadat de arbeidsongeschiktheid 104 weken heeft geduurd of, indien er sprake is van een beroepsgenoot in loondienst, waarop recht bestaat na afloop van de periode bedoeld in artikel 29, eerste lid, van de Ziektewet of, indien de beroepsgenoot Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in artikel 29, vijfde en negende lid, van de Ziektewet;
 
 –basispensioenregeling: de collectieve beroepspensioenregeling of het deel van de beroepspensioenregeling waaraan de beroepsgenoot op basis van de beroepspensioenregeling gehouden is om deel te nemen;
 
@@ -36,7 +36,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –beroepsgenoot: een natuurlijk persoon die deel uitmaakt van een bepaalde beroepsgroep;
 
-–beroepspensioenfonds: een voor een bepaalde beroepsgroep werkend pensioenfonds, als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md), dat is opgericht ter uitvoering van een beroepspensioenregeling;
+–beroepspensioenfonds: een voor een bepaalde beroepsgroep werkend pensioenfonds, als bedoeld in artikel 1 van de Pensioenwet, dat is opgericht ter uitvoering van een beroepspensioenregeling;
 
 –beroepspensioenregeling:
 
@@ -108,7 +108,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –premie: de in geld uitgedrukte periodiek vastgestelde structurele prestatie die verschuldigd is aan de pensioenuitvoerder en die bestemd is voor de verzekering van pensioen en de daaraan verbonden kosten;
 
-–  premiepensioeninstelling: een premiepensioeninstelling die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van premiepensioeninstelling mag uitoefenen; 
+–  premiepensioeninstelling: een premiepensioeninstelling die op grond van de Wet op het financieel toezicht in Nederland het bedrijf van premiepensioeninstelling mag uitoefenen; 
 
 –premieregeling: een beroepspensioenregeling inzake een vastgestelde premie die uiterlijk op de pensioendatum wordt omgezet in een pensioenuitkering;
 
@@ -136,7 +136,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –verplichtstelling: de verplichte deelneming in een beroepspensioenregeling op grond van artikel 5, eerste lid;
 
-–verzekeraar: een verzekeraar die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen;
+–verzekeraar: een verzekeraar die op grond van de Wet op het financieel toezicht in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen;
 
 –voorwaarden in verband met de partnerrelatie: huwelijkse voorwaarden, voorwaarden van een geregistreerd partnerschap of voorwaarden in verband met een partnerrelatie in de zin van de beroepspensioenregeling;
 
@@ -157,8 +157,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Nadere bepaling definities
 
-1. Een uitkering voor een gemoedsbezwaarde als bedoeld in [artikel 64, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) is geen pensioen in de zin van deze wet.  
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aanvullingen op een loonaanvullingsuitkering of een vervolguitkering als bedoeld in [artikel 60, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) die geen arbeidsongeschiktheidspensioen zijn als bedoeld in artikel 1 worden aangemerkt als arbeidsongeschiktheidspensioen als bedoeld in dat artikel. 
+1. Een uitkering voor een gemoedsbezwaarde als bedoeld in artikel 64, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen is geen pensioen in de zin van deze wet.  
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aanvullingen op een loonaanvullingsuitkering of een vervolguitkering als bedoeld in artikel 60, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen die geen arbeidsongeschiktheidspensioen zijn als bedoeld in artikel 1 worden aangemerkt als arbeidsongeschiktheidspensioen als bedoeld in dat artikel. 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 4.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot kapitaalregelingen of premieregelingen waarbij het op de pensioendatum beschikbaar komende kapitaal wordt gesplitst in een deel dat wordt aangewend voor aankoop van een direct ingaande tijdelijke uitkering en een deel dat later wordt aangewend voor de aankoop van een, op de tijdelijke uitkering aansluitende, levenslange uitkering. In deze regeling: 
 
@@ -176,16 +176,16 @@ d. kunnen regels worden gesteld betreffende een goede uitvoering.
 
 ####Relatie met verzekeringsovereenkomsten
 
-1. De [artikelen 929](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [935, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [936, tweede tot en met zesde lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [941, vijfde lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [969](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [972](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [977, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [978](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [979](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [980, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [983 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn niet van toepassing op verzekeringsovereenkomsten die worden gesloten in verband met een beroepspensioenregeling. 
-2. Het verminderen of vervallen van een uitkering op grond van een verzekeringsovereenkomst als bedoeld in het eerste lid op basis van [artikel 930, derde tot en met vijfde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet mogelijk, tenzij door een deelnemer niet is voldaan aan de in [artikel 928 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omschreven mededelingsplicht betreffende zijn risico. In dat geval beperkt de vermindering of het verval van de uitkering zich tot het risico met betrekking tot de in de eerste zin bedoelde persoon. Voorzover de eerste zin in de weg staat aan vermindering dan wel verval van een uitkering, heeft het beroepspensioenfonds of de verzekeraar een recht van verhaal op de beroepspensioenvereniging. 
-3. Een beding als bedoeld in [artikel 941, vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is nietig wanneer dit is opgenomen in een verzekeringsovereenkomst als bedoeld in het eerste lid. 
-4. Voor zover bepalingen van de [titels 17](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [18 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) strijden met deze wet blijven die bepalingen van [Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) buiten toepassing.
+1. De artikelen 929, 935, eerste lid, 936, tweede tot en met zesde lid, 941, vijfde lid, 969, 972, 977, tweede lid, 978, 979, 980, tweede lid en 983 van Boek 7 van het Burgerlijk Wetboek zijn niet van toepassing op verzekeringsovereenkomsten die worden gesloten in verband met een beroepspensioenregeling. 
+2. Het verminderen of vervallen van een uitkering op grond van een verzekeringsovereenkomst als bedoeld in het eerste lid op basis van artikel 930, derde tot en met vijfde lid, van Boek 7 van het Burgerlijk Wetboek is niet mogelijk, tenzij door een deelnemer niet is voldaan aan de in artikel 928 van Boek 7 van het Burgerlijk Wetboek omschreven mededelingsplicht betreffende zijn risico. In dat geval beperkt de vermindering of het verval van de uitkering zich tot het risico met betrekking tot de in de eerste zin bedoelde persoon. Voorzover de eerste zin in de weg staat aan vermindering dan wel verval van een uitkering, heeft het beroepspensioenfonds of de verzekeraar een recht van verhaal op de beroepspensioenvereniging. 
+3. Een beding als bedoeld in artikel 941, vierde lid, van Boek 7 van het Burgerlijk Wetboek is nietig wanneer dit is opgenomen in een verzekeringsovereenkomst als bedoeld in het eerste lid. 
+4. Voor zover bepalingen van de titels 17 en 18 van Boek 7 van het Burgerlijk Wetboek strijden met deze wet blijven die bepalingen van Boek 7 van het Burgerlijk Wetboek buiten toepassing.
 
 ### Artikel 4 
 
-####Relatie met [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Relatie met Wet op het financieel toezicht
 
-De [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op de verhouding tussen een verzekeraar of een premiepensioeninstelling en een aanspraak- of pensioengerechtigde, tenzij in deze wet anders is bepaald.
+De Wet op het financieel toezicht is niet van toepassing op de verhouding tussen een verzekeraar of een premiepensioeninstelling en een aanspraak- of pensioengerechtigde, tenzij in deze wet anders is bepaald.
 
 ### Hoofdstuk  2  
 
@@ -200,7 +200,7 @@ De [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toe
 a. daartoe een aanvraag wordt gedaan door een beroepspensioenvereniging, en  
 
 b. die beroepspensioenvereniging een naar het oordeel van de minister belangrijke meerderheid van de beroepsgenoten die tot de beroepsgroep behoren, vertegenwoordigt.     
-2.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in [artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) uitgesloten.   
+2.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering uitgesloten.   
 3.  Indien zowel zelfstandig werkzame beroepsgenoten als beroepsgenoten die in loondienst werkzaam zijn deelnemen aan de beroepspensioenregeling wordt pas voldaan aan het eerste lid, onderdeel b, wanneer voor beide groepen afzonderlijk is aangetoond dat de beroepspensioenvereniging een belangrijke meerderheid van die beroepsgenoten vertegenwoordigt.  
 
 ### Artikel  6  
@@ -249,7 +249,7 @@ a.een pensioenuitvoerder;
 
 b.een pensioeninstelling uit een andere lidstaat die beschikt over een daartoe verleende vergunning als bedoeld in artikel 193 en de bevoegde autoriteiten in kennis heeft gesteld als bedoeld in artikel 193; of
 
-c.een verzekeraar met een zetel buiten Nederland, mits die verzekeraar op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen. Uitvoering door een premiepensioeninstelling kan uitsluitend bij premieregelingen waarbij de premiepensioeninstelling geen risico draagt.
+c.een verzekeraar met een zetel buiten Nederland, mits die verzekeraar op grond van de Wet op het financieel toezicht in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen. Uitvoering door een premiepensioeninstelling kan uitsluitend bij premieregelingen waarbij de premiepensioeninstelling geen risico draagt.
 
 ### Artikel  9  
 
@@ -376,9 +376,9 @@ h.het niet verder in behandeling nemen van een aanvraag.
 
 ### Artikel  19a  
 
-####[Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md)
+####Kaderwet zelfstandige bestuursorganen
 
-De [Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is niet van toepassing op de pensioenuitvoerder die een beroepspensioenregeling uitvoert. 
+De Kaderwet zelfstandige bestuursorganen is niet van toepassing op de pensioenuitvoerder die een beroepspensioenregeling uitvoert. 
 
 ### Hoofdstuk  3  
 
@@ -502,7 +502,7 @@ In de beroepspensioenregeling wordt bepaald of er toeslagen worden verleend en, 
 
 ####Nadere eisen ouderdomspensioen
 
-1. Indien een beroepspensioenregeling voorziet in een ouderdomspensioen, wordt in de regeling bepaald dat dat pensioen levenslang wordt uitgekeerd aan de gepensioneerde, tenzij het ouderdomspensioen uitsluitend voorziet in een uitkering tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen. 
+1. Indien een beroepspensioenregeling voorziet in een ouderdomspensioen, wordt in de regeling bepaald dat dat pensioen levenslang wordt uitgekeerd aan de gepensioneerde, tenzij het ouderdomspensioen uitsluitend voorziet in een uitkering tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen. 
 2. Elk beding in strijd met het eerste lid is nietig.
 
 ### Artikel 32 
@@ -631,7 +631,7 @@ Een pensioenuitvoerder heeft tot taak een beroepspensioenregeling uit te voeren 
 
 1. Een pensioenuitvoerder richt zijn organisatie zodanig in dat een goed bestuur is gewaarborgd waardoor er in ieder geval:
 
-a.verantwoording wordt afgelegd aan de aanspraak- en pensioengerechtigden; waarvoor bij beroepspensioenfondsen een verantwoordingsorgaan is ingesteld; en
+a.verantwoording wordt afgelegd aan de aanspraak- en pensioengerechtigden; en
 
 b.intern toezicht is. 
 2. Bij algemene maatregel van bestuur kunnen met betrekking tot het eerste lid regels worden gesteld. Die regels kunnen in het bijzonder betrekking hebben op de naleving van in die algemene maatregel van bestuur aan te wijzen principes voor goed pensioenfondsbestuur.
@@ -726,7 +726,7 @@ b.een opgave van de reglementair te bereiken pensioenaanspraken;
 
 c.informatie over toeslagverlening; en
 
-d.een opgave van de aan het voorafgaande kalenderjaar toe te rekenen waardeaangroei van pensioenaanspraken overeenkomstig [artikel 3.127 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de daarop berustende bepalingen. 
+d.een opgave van de aan het voorafgaande kalenderjaar toe te rekenen waardeaangroei van pensioenaanspraken overeenkomstig artikel 3.127 van de Wet inkomstenbelasting 2001 en de daarop berustende bepalingen. 
 2. De in het eerste lid bedoelde informatie wordt verstrekt in de vorm van een door de pensioenuitvoerders op te stellen uniform pensioenoverzicht.
 3. De in het eerste lid bedoelde informatie kan in afwijking van het bepaalde in artikel 60 elektronisch ter beschikking worden gesteld indien de verworven pensioenopbouw minder bedraagt dan het op basis van artikel 78 bepaalde bedrag, tenzij de deelnemer hiertegen bezwaar maakt. 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de in het eerste lid bedoelde opgaven en informatie en de wijze waarop deze worden verstrekt. 
@@ -882,12 +882,12 @@ De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer,
 
 ### Artikel 62 
 
-1.  Er is een pensioenregister, ingericht en in stand gehouden door de pensioenuitvoerders, dat tot doel heeft op duidelijke en begrijpelijke wijze de aanspraakgerechtigde in de gelegenheid te stellen gegevens over zijn pensioenaanspraken te raadplegen. Onder pensioenaanspraken in de zin van dit artikel wordt tevens verstaan aanspraken op ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+1.  Er is een pensioenregister, ingericht en in stand gehouden door de pensioenuitvoerders, dat tot doel heeft op duidelijke en begrijpelijke wijze de aanspraakgerechtigde in de gelegenheid te stellen gegevens over zijn pensioenaanspraken te raadplegen. Onder pensioenaanspraken in de zin van dit artikel wordt tevens verstaan aanspraken op ouderdomspensioen op grond van de Algemene Ouderdomswet.   
 2.  De pensioenuitvoerder verstrekt op verzoek van de aanspraakgerechtigde tijdig zijn gegevens met betrekking tot pensioenaanspraken door middel van het pensioenregister.   
-3.  De Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verstrekt op verzoek van de aanspraakgerechtigde tijdig zijn gegevens over verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) door middel van het pensioenregister.   
+3.  De Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, verstrekt op verzoek van de aanspraakgerechtigde tijdig zijn gegevens over verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen op grond van de Algemene Ouderdomswet door middel van het pensioenregister.   
 4.  De gegevens die op grond van het tweede en derde lid worden verstrekt door middel van het pensioenregister worden in dat kader uitsluitend gebruikt voor het in het eerste lid omschreven doel.   
 5.  Een door Onze Minister aan te wijzen instelling ontwikkelt en beheert het pensioenregister en draagt zorg voor de tijdige verwerking van de gegevens, bedoeld in het tweede en derde lid, en het goed functioneren van het pensioenregister.   
-6.  De instelling, bedoeld in het vijfde lid, is bewerker in de zin van de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het verwerken van de gegevens die door de pensioenuitvoerders en de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), door middel van het pensioenregister worden verstrekt.   
+6.  De instelling, bedoeld in het vijfde lid, is bewerker in de zin van de Wet bescherming persoonsgegevens voor het verwerken van de gegevens die door de pensioenuitvoerders en de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, door middel van het pensioenregister worden verstrekt.   
 7.  De instelling, bedoeld in het vijfde lid, stelt in verband met haar rol als bewerker als bedoeld in het zesde lid een reglement vast waarin regels worden gesteld met betrekking tot het ontwikkelen en beheren van het pensioenregister. Dit reglement bevat in ieder geval regels over de gegevens die verstrekt worden, de wijze waarop deze gegevens verstrekt worden en de bekostiging en beveiliging van het pensioenregister.   
 8.  Het reglement alsmede elke wijziging daarvan behoeft de goedkeuring van Onze Minister.   
 9.  Hetgeen bij of krachtens hoofdstuk 6 van toepassing is bij het toezicht op de uitvoering van dit artikel door pensioenuitvoerders is van overeenkomstige toepassing op de uitvoering van dit artikel door de instelling, bedoeld in het vijfde lid. 
@@ -904,7 +904,7 @@ De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer,
 2. De pensioenuitvoerder biedt de deelnemer en de gewezen deelnemer de mogelijkheid de verantwoordelijkheid voor de beleggingen over te nemen. 
 3. Indien de deelnemer of de gewezen deelnemer de verantwoordelijkheid voor de beleggingen heeft overgenomen, adviseert de pensioenuitvoerder de deelnemer of de gewezen deelnemer over de spreiding van de beleggingen in relatie tot de duur van de periode tot pensioendatum, waarbij het beleggingsrisico kleiner wordt naarmate de pensioendatum nadert. 
 4. De pensioenuitvoerder onderzoekt ten minste een keer per jaar of de beleggingen van de deelnemer of gewezen deelnemer zich binnen de op basis van het derde lid gestelde grenzen bevinden en informeert de deelnemer en de gewezen deelnemer hierover.
-5. [Afdeling 4.2.3 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing op de in dit artikel bedoelde premieovereenkomsten ingeval de deelnemer of gewezen deelnemer de verantwoordelijkheid over de beleggingen heeft overgenomen. 
+5. Afdeling 4.2.3 van de Wet op het financieel toezicht is van overeenkomstige toepassing op de in dit artikel bedoelde premieovereenkomsten ingeval de deelnemer of gewezen deelnemer de verantwoordelijkheid over de beleggingen heeft overgenomen. 
 6. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden met betrekking tot dit artikel. 
 
 ### Artikel  64  
@@ -918,7 +918,7 @@ De pensioenuitvoerder betaalt de uitkering uit hoofde van een pensioenrecht op v
 ####Uitvoeren vrijwillige voortzetting
 
 1. Een pensioenuitvoerder kan voor de deelnemer die gewezen beroepsgenoot wordt een vrijwillige voortzetting van de beroepspensioenregeling uitvoeren indien de vrijwillige voortzetting gedurende ten hoogste drie jaar vanaf de beëindiging van het beroep voortduurt. 
-2. In afwijking van het eerste lid geldt een termijn van tien jaar voor zover de genoemde gewezen beroepsgenoot, aansluitend aan de beëindiging van het beroep, gedurende die periode winst uit onderneming geniet als bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
+2. In afwijking van het eerste lid geldt een termijn van tien jaar voor zover de genoemde gewezen beroepsgenoot, aansluitend aan de beëindiging van het beroep, gedurende die periode winst uit onderneming geniet als bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001. 
 3. Van de in het eerste lid genoemde termijn kan worden afgeweken indien het beëindigen van het beroep van die deelnemer wordt veroorzaakt door arbeidsongeschiktheid. De periode waarin sprake kan zijn van vrijwillige voortzetting is dan ten hoogste drie jaar of de duur van de arbeidsongeschiktheid indien deze langer is. 
 4.  De vrijwillige voortzetting begint uiterlijk negen maanden na beëindiging van het beroep. Artikel 22, derde lid, is niet van toepassing op de periode vanaf de beëindiging van het beroep tot het begin van de vrijwillige voortzetting.  
 
@@ -936,7 +936,7 @@ b.aangewend voor de aankoop van een verzekerd kapitaal dat beschikbaar komt op d
 c.aangewend voor een verzekerde levenslange uitkering vanaf de pensioendatum, al dan niet in combinatie met een aanspraak op nabestaandenpensioen. 
 3. Indien de opzet van de premieregeling zodanig is dat de beschikbaar gestelde premie direct, en niet pas bij de beëindiging van de deelneming, wordt aangewend voor een uitkering of kapitaal, dan geldt het eerste lid. 
 4. Deelnemers en andere aanspraakgerechtigden die na beëindiging van de deelneming aan een beroepspensioenregeling naar een andere lidstaat van de Europese Unie verhuizen behouden hun pensioenaanspraak in dezelfde mate als deelnemers en andere aanspraakgerechtigden die na beëindiging van de deelneming in Nederland blijven. 
-5. Indien de pensioenregeling voorziet in een partnerpensioen op risicobasis behoudt de deelnemer, die na beëindiging van de deelneming recht heeft op een uitkering op grond van de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) gedurende de periode dat hij de uitkering ontvangt, aanspraak op partnerpensioen ten behoeve van zijn partner. De hoogte van het partnerpensioen wordt vastgesteld alsof hetzelfde pensioen op opbouwbasis zou zijn overeengekomen, waarbij rekening wordt gehouden met het partnerpensioen verkregen op grond van artikel 73. Dit lid is van overeenkomstige toepassing op de deelnemer, die na beëindiging van de deelneming recht heeft op werkloosheidsuitkering van zijn woonland. 
+5. Indien de pensioenregeling voorziet in een partnerpensioen op risicobasis behoudt de deelnemer, die na beëindiging van de deelneming recht heeft op een uitkering op grond van de Werkloosheidswet gedurende de periode dat hij de uitkering ontvangt, aanspraak op partnerpensioen ten behoeve van zijn partner. De hoogte van het partnerpensioen wordt vastgesteld alsof hetzelfde pensioen op opbouwbasis zou zijn overeengekomen, waarbij rekening wordt gehouden met het partnerpensioen verkregen op grond van artikel 73. Dit lid is van overeenkomstige toepassing op de deelnemer, die na beëindiging van de deelneming recht heeft op werkloosheidsuitkering van zijn woonland. 
 
 ### Artikel 67 
 
@@ -983,7 +983,7 @@ b.ten behoeve van de partner van een gewezen deelnemer; en
 
 c.van de gewezen partner van de gewezen deelnemer met een bijzonder partnerpensioen;in dezelfde mate verhoogd, mits deze aanspraken voortvloeien uit dezelfde beroepspensioenregeling als die van de gepensioneerde die geen gewezen deelnemer is geweest. 
 5. Bij de verlening van toeslagen op partnerpensioen wordt geen onderscheid gemaakt tussen partners. 
-6. Voor de toepassing van dit artikel wordt onder gewezen deelnemer niet verstaan de werknemer als bedoeld in [artikel 1, onderdeel g, van de Wet privatisering FVP](../../../../../wet/wet/privatisering/fvp/BWBR0009756/README.md) die recht heeft op een bijdrage van de Stichting Financiering Voortzetting Pensioenverzekering. 
+6. Voor de toepassing van dit artikel wordt onder gewezen deelnemer niet verstaan de werknemer als bedoeld in artikel 1, onderdeel g, van de Wet privatisering FVP die recht heeft op een bijdrage van de Stichting Financiering Voortzetting Pensioenverzekering. 
 
 ### Artikel  70  
 
@@ -995,7 +995,7 @@ Een rechtsvordering tegen een pensioenuitvoerder tot het doen van een uitkering 
 
 ####Gedeeltelijke toepasselijkheid bij pensioenverevening
 
-Op een pensioenaanspraak die of een pensioenrecht dat een tot verevening gerechtigde echtgenoot of geregistreerde partner op grond van [artikel 5 van de Wet verevening pensioenrechten bij scheiding](../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) verwerft, zijn de artikelen 69, 73, 82 tot en met 85, 87, 88 en 93 tot en met 97 niet van overeenkomstige toepassing. 
+Op een pensioenaanspraak die of een pensioenrecht dat een tot verevening gerechtigde echtgenoot of geregistreerde partner op grond van artikel 5 van de Wet verevening pensioenrechten bij scheiding verwerft, zijn de artikelen 69, 73, 82 tot en met 85, 87, 88 en 93 tot en met 97 niet van overeenkomstige toepassing. 
 
 ### §  4  
 
@@ -1036,7 +1036,7 @@ b. met ingang van de datum waarop het ouderdomspensioen ingaat of kan ingaan;   
 3.  De pensioenuitvoerder waarborgt dat bij gebruikmaking van het keuzerecht geen onderscheid gemaakt wordt tussen mannen en vrouwen door vaststelling van een ruilvoet of opbouwkeuzevoet.   
 4.  De pensioenuitvoerder waarborgt bij de vaststelling van een ruilvoet of opbouwkeuzevoet dat voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid hetgeen inhoudt dat de collectieve actuariële waarde van het partnerpensioen, bedoeld in het eerste lid, dat wordt gekozen in plaats van het ouderdomspensioen, bedoeld in het eerste lid, ongeacht de datum waarop de keuze wordt gemaakt, ten minste gelijkwaardig is aan de op dezelfde grondslagen berekende collectieve actuariële waarde van dat ouderdomspensioen.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de inhoud van de keuzemogelijkheid, de wijze waarop de keuzemogelijkheid wordt geboden en de collectieve actuariële gelijkwaardigheid, bedoeld in het vierde lid.   
-6.  De in het eerste lid omschreven mogelijkheid heeft geen betrekking op het deel van een ouderdomspensioen waarop een recht op uitbetaling rust als bedoeld in [artikel 2 van de Wet verevening pensioenrechten bij scheiding](../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md).   
+6.  De in het eerste lid omschreven mogelijkheid heeft geen betrekking op het deel van een ouderdomspensioen waarop een recht op uitbetaling rust als bedoeld in artikel 2 van de Wet verevening pensioenrechten bij scheiding.   
 7.  Indien de deelnemer of gewezen deelnemer niet binnen de door de pensioenuitvoerder gestelde termijn reageert op de keuzemogelijkheid die hem ingevolge het tweede lid in het laatste jaar voor de ingang van het ouderdomspensioen is aangeboden, gaat de pensioenuitvoerder over tot het uitruilen van het ouderdomspensioen in partnerpensioen indien: 
 
 a. de beroepspensioenregeling niet voorziet in een aanspraak op partnerpensioen vanaf de datum waarop het ouderdomspensioen ingaat; en  
@@ -1074,7 +1074,7 @@ d.tot een keuze anders dan bedoeld in de voorgaande onderdelen,waarborgt de pens
 a.de laagste uitkering niet minder bedraagt dan 75% van de hoogste uitkering; en
 
 b.de mate van variatie uiterlijk op de ingangsdatum van het pensioen wordt vastgesteld. 
-2. Voor de toepassing van het eerste lid blijft in de periode tussen de ingangsdatum van het pensioen en het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), van de uitkering buiten aanmerking het gedeelte dat overeenkomt met het bedrag bedoeld in [artikel 18d, derde lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+2. Voor de toepassing van het eerste lid blijft in de periode tussen de ingangsdatum van het pensioen en het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, van de uitkering buiten aanmerking het gedeelte dat overeenkomt met het bedrag bedoeld in artikel 18d, derde lid, van de Wet op de loonbelasting 1964. 
 3.  In afwijking in zoverre van het eerste lid, onderdeel b, kan de mate van variatie uiterlijk bij het bereiken van de 65-jarige leeftijd worden vastgesteld indien het pensioen is ingegaan vóór 1 januari 2013. 
 
 ### Artikel  76  
@@ -1083,11 +1083,11 @@ b.de mate van variatie uiterlijk op de ingangsdatum van het pensioen wordt vastg
 
 1. Vervreemding of elke andere handeling, waardoor de aanspraakgerechtigde of de pensioengerechtigde enig recht op zijn pensioenaanspraken of pensioenrechten aan een ander toekent is nietig, tenzij:
 
-a.verpanding plaatsvindt voor het verlenen van zekerheid voor het verkrijgen van uitstel van betaling als bedoeld in [artikel 25, vijfde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);
+a.verpanding plaatsvindt voor het verlenen van zekerheid voor het verkrijgen van uitstel van betaling als bedoeld in artikel 25, vijfde lid, van de Invorderingswet 1990;
 
 b.vervreemding plaatsvindt op grond van artikel 68, vijfde lid;
 
-c.verevening plaatsvindt op basis van de [Wet verevening pensioenrechten bij scheiding](../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);
+c.verevening plaatsvindt op basis van de Wet verevening pensioenrechten bij scheiding;
 
 d.in het kader van een verrekening van pensioenrechten bij scheiding in plaats van de aanspraakgerechtigde of de pensioengerechtigde diens gewezen partner respectievelijk diens partner wordt aangewezen als begunstigde voor het geheel of een deel van het ouderdomspensioen, mits de pensioenuitvoerder hiermee instemt; of
 
@@ -1098,7 +1098,7 @@ e.in het kader van een verrekening van pensioenrechten bij scheiding de waarde v
 
 ####Afkoop
 
-1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80 en 129 bedoelde situaties of in geval van toepassing van [artikel 3:161 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80 en 129 bedoelde situaties of in geval van toepassing van artikel 3:161 van de Wet op het financieel toezicht. 
 2. Elk beding strijdig met dit artikel is nietig.
 
 ### Artikel  78  
@@ -1157,12 +1157,12 @@ b.indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat j
 
 1. Voor de toepassing van de artikelen 82 tot en met 100 wordt onder ontvangende pensioenuitvoerder mede verstaan:
 
-1°.een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md); en
+1°.een pensioenfonds als bedoeld in artikel 1 van de Pensioenwet; en
 
-2°.de Stichting Notarieel pensioenfonds, bedoeld in [artikel 113a, eerste lid, van de Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md). 
+2°.de Stichting Notarieel pensioenfonds, bedoeld in artikel 113a, eerste lid, van de Wet op het notarisambt. 
 2. Bij regeling van Onze Minister kunnen instellingen worden aangewezen jegens wie een pensioenuitvoerder een verplichting tot waardeoverdracht heeft. 
 3. Waardeoverdracht is slechts mogelijk in de in de artikelen 82 tot en met 100 bedoelde situaties. 
-4. Voor de toepassing van de artikelen 82 tot en met 100 wordt onder een beroepspensioenfonds dat optreedt als ontvangende pensioenuitvoerder mede verstaan een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) of de Stichting Notarieel pensioenfonds, bedoeld in [artikel 113a, eerste lid, van de Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md). 
+4. Voor de toepassing van de artikelen 82 tot en met 100 wordt onder een beroepspensioenfonds dat optreedt als ontvangende pensioenuitvoerder mede verstaan een pensioenfonds als bedoeld in artikel 1 van de Pensioenwet of de Stichting Notarieel pensioenfonds, bedoeld in artikel 113a, eerste lid, van de Wet op het notarisambt. 
 
 ### Artikel  82  
 
@@ -1196,7 +1196,7 @@ a.de overdragende of ontvangende pensioenuitvoerder een beroepspensioenfonds is 
 
 b.de overdragende of ontvangende pensioenuitvoerder een verzekeraar is:
 
-1°.waarop de noodregeling als bedoeld in [artikel 3:161 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van toepassing is; of
+1°.waarop de noodregeling als bedoeld in artikel 3:161 van de Wet op het financieel toezicht, van toepassing is; of
 
 2°.die failliet is. 
 
@@ -1552,48 +1552,159 @@ e.een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele 
 
 Het bestuur van een beroepspensioenfonds bestaat uit vertegenwoordigers van de beroepspensioenvereniging die de verplichtstelling heeft aangevraagd. 
 
+### Artikel  109a  
+
+#### *Doelstellingen en uitgangspunten* 
+
+1.  Het bestuur van een beroepspensioenfonds draagt in overleg met de overige organen van het beroepspensioenfonds zorg voor de vastlegging van de doelstellingen en beleidsuitgangspunten, waaronder de risicohouding, van het beroepspensioenfonds. De organen van het beroepspensioenfonds gebruiken deze doelstellingen en uitgangspunten bij de toetsing van de opdrachtaanvaarding van de door vertegenwoordigers van beroepspensioenverenigingen overeengekomen beroepspensioenregelingen, en bij de besluitvorming, de verantwoording, de advisering, en het toezicht binnen het beroepspensioenfonds.   
+2.  Het bestuur van een beroepspensioenfonds streeft er naar van de vertegenwoordigers, bedoeld in het eerste lid, zo veel mogelijk duidelijkheid te verkrijgen over de doelstellingen, het ambitieniveau van de toeslagverlening en de risicohouding, die ten grondslag liggen aan de beroepspensioenregelingen die de vertegenwoordigers als opdracht in uitvoering aan het beroepspensioenfonds geven.   
+3.  Het bestuur van een beroepspensioenfonds draagt zorg voor de formele opdrachtaanvaarding van de door de vertegenwoordigers, bedoeld in het eerste lid, aan het beroepspensioenfonds opgedragen beroepspensioenregelingen. Het bestuur toetst bij de opdrachtaanvaarding voor het beroepspensioenfonds als geheel en voor de relevante beleidsgebieden aan de doelstellingen en uitgangspunten, bedoeld in het eerste lid.  
+
 ### Artikel  110  
 
-####Eisen ten aanzien van beleid, deskundigheid en betrouwbaarheid
+####Intern toezicht
 
-1. Ten minste twee natuurlijke personen bepalen het dagelijks beleid van een beroepspensioenfonds. 
-2. De personen die het beleid van een beroepspensioenfonds bepalen of mede bepalen richten zich bij de vervulling van hun taak naar de belangen van de bij het beroepspensioenfonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en de pensioengerechtigden en zorgen ervoor dat dezen zich door hen op evenwichtige wijze vertegenwoordigd kunnen voelen. 
-3.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen die geschikt zijn in verband met de uitoefening van het bedrijf van het beroepspensioenfonds. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen die geschikt zijn voor de uitoefening van dit toezicht.  
-4. Iedere bestuurder van een beroepspensioenfonds is bevoegd een deskundige te raadplegen, of zich krachtens een bestuursbesluit, waarbij ten minste één vierde van de bestuurders zich daarvoor heeft uitgesproken, ter vergadering door een deskundige te laten bijstaan. 
-5.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen wier betrouwbaarheid buiten twijfel staat.  
-6. Het bestuur van het beroepspensioenfonds meldt elke wijziging in de samenstelling van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen vooraf aan de toezichthouder. 
-7. Een wijziging als bedoeld in het zesde lid wordt niet doorgevoerd indien:
-
-a.de toezichthouder binnen zes weken na ontvangst van de melding van de wijziging aan het beroepspensioenfonds bekend maakt dat het niet met de voorgenomen wijziging instemt; of
-
-b.de toezichthouder om nadere gegevens of inlichtingen heeft verzocht en binnen zes weken na ontvangst van die gegevens of inlichtingen aan het beroepspensioenfonds bekend maakt dat het niet met de voorgenomen wijziging instemt. 
-8. Indien zich een wijziging voordoet van de antecedenten die van invloed is op de betrouwbaarheid van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen stelt het beroepspensioenfonds de toezichthouder daarvan onverwijld schriftelijk in kennis. 
-9. De betrouwbaarheid van een persoon staat buiten twijfel wanneer dat eenmaal door de toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. 
-10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. Die regels hebben onder meer betrekking op de misdrijven die, indien begaan door een persoon als bedoeld in het vijfde lid, met het oog op de belangen die de wet beoogt te beschermen, tot de vaststelling leiden dat de betrouwbaarheid van die persoon niet buiten twijfel staat.  
+1.  Het intern toezicht bij een beroepspensioenfonds wordt uitgeoefend door een raad van toezicht, door jaarlijkse visitatie of door de niet uitvoerende bestuurders indien de bestuurstaken worden verdeeld over uitvoerende en niet uitvoerende bestuurders.   
+2.  Indien het intern toezicht wordt uitgeoefend door niet uitvoerende bestuurders zijn artikel 129a van Boek 2 van het Burgerlijk Wetboek en artikel 110a, tweede lid, van overeenkomstige toepassing.  
 
 ### Artikel  110a  
 
+#### *Samenstelling en taken raad van toezicht en visitatiecommissie* 
+
+1.  De raad van toezicht of de visitatiecommissie bestaat uit ten minste drie natuurlijke personen. De leden van de raad van toezicht of de visitatiecommissie zijn onafhankelijk en laten dit tot uiting komen in het toezicht.   
+2.  De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het beroepspensioenfonds. De raad van toezicht is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken en de uitoefening van de bevoegdheden aan het verantwoordingsorgaan en in het jaarverslag. De raad van toezicht staat het bestuur met raad ter zijde. Artikel 9 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing op de leden van de raad van toezicht.   
+3.  Aan de goedkeuring van de raad van toezicht zijn onderworpen de besluiten van het bestuur tot vaststelling van: 
+
+a. het jaarverslag en de jaarrekening;  
+
+b. de profielschets voor bestuurders;  
+
+c. het beleid inzake beloningen, met uitzondering van de beloning van de raad van toezicht;  
+
+d. gehele of gedeeltelijke overdracht van de verplichtingen van het beroepspensioenfonds of de overname van verplichtingen door het beroepspensioenfonds;  
+
+e. liquidatie, fusie of splitsing van het beroepspensioenfonds; en  
+
+f. het omzetten van het beroepspensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek.     
+4.  De statuten voorzien in een regeling voor geschillen over goedkeuring van besluiten door de raad van toezicht. Het ontbreken van de goedkeuring van de raad van toezicht op een besluit als bedoeld in het derde lid tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.   
+5.  De raad van toezicht meldt disfunctioneren van het bestuur aan het verantwoordingsorgaan en aan de partij die bevoegd is tot benoeming van het bestuur. Indien de partij die bevoegd is tot benoeming van het bestuur naar aanleiding van de melding niet binnen een redelijke termijn, naar tevredenheid van de raad van toezicht, handelt, meldt de raad van toezicht het disfunctioneren van het bestuur aan De Nederlandsche Bank N.V.   
+6.  De raad van toezicht stelt een profielschets op voor leden van de raad van toezicht.   
+7.  Het bestuur van het beroepspensioenfonds en de raad van toezicht komen ten minste tweemaal per kalenderjaar in vergadering bijeen.   
+8.  De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het beroepspensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en in het jaarverslag.   
+9.  Het beroepspensioenfonds verstrekt desgevraagd aan de raad van toezicht of de visitatiecommissie tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.   
+10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel.  
+
+### Artikel  110b  
+
+#### *Eisen ten aanzien van beleid* 
+
+1.  Ten minste twee natuurlijke personen bepalen het dagelijks beleid van een beroepspensioenfonds.   
+2.  De personen die het beleid van een beroepspensioenfonds bepalen of mede bepalen richten zich bij de vervulling van hun taak naar de belangen van de bij het beroepspensioenfonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en de pensioengerechtigden en zorgen ervoor dat dezen zich door hen op evenwichtige wijze vertegenwoordigd kunnen voelen.   
+3.  Iedere bestuurder van een beroepspensioenfonds is bevoegd een deskundige te raadplegen, of zich krachtens een bestuursbesluit, waarbij ten minste één vierde van de bestuurders zich daarvoor heeft uitgesproken, ter vergadering door een deskundige te laten bijstaan.  
+
+### Artikel  110c  
+
+#### *Geschiktheid en betrouwbaarheid* 
+
+1.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen die geschikt zijn in verband met de uitoefening van het bedrijf van het beroepspensioenfonds.   
+2.  Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen die geschikt zijn voor de uitoefening van dit toezicht.   
+3.  Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen wier betrouwbaarheid buiten twijfel staat.   
+4.  Het bestuur van het beroepspensioenfonds meldt elke wijziging in de samenstelling van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen vooraf aan de toezichthouder.   
+5.  Een wijziging als bedoeld in het vierde lid wordt niet doorgevoerd indien: 
+
+a. de toezichthouder binnen zes weken na ontvangst van de melding van de wijziging aan het beroepspensioenfonds bekend maakt dat hij niet met de voorgenomen wijziging instemt; of  
+
+b. de toezichthouder om nadere gegevens of inlichtingen heeft verzocht en binnen zes weken na ontvangst van die gegevens of inlichtingen aan het beroepspensioenfonds bekend maakt dat hij niet met de voorgenomen wijziging instemt.     
+6.  Indien zich een wijziging voordoet van de antecedenten die van invloed is op de betrouwbaarheid van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen stelt het beroepspensioenfonds de toezichthouder daarvan onverwijld schriftelijk in kennis.   
+7.  De betrouwbaarheid van een persoon staat buiten twijfel wanneer dat eenmaal door de toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
+8.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. Die regels hebben onder meer betrekking op de misdrijven die, indien begaan door een persoon als bedoeld in het derde lid, met het oog op de belangen die de wet beoogt te beschermen, tot de vaststelling leiden dat de betrouwbaarheid van die persoon niet buiten twijfel staat.  
+
+### Artikel  110ca  
+
 #### *Tijdsbeslag* 
 
-Bestuurders en leden van de raad van toezicht van een beroepspensioenfonds hebben voldoende tijd beschikbaar om hun functie naar behoren uit te oefenen. Bij algemene maatregel van bestuur worden nadere regels gesteld. De [artikelen 132a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [142a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [242a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [252a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [297a](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [297b van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing. 
+Bestuurders en leden van de raad van toezicht van een beroepspensioenfonds hebben voldoende tijd beschikbaar om hun functie naar behoren uit te oefenen. Bij algemene maatregel van bestuur worden nadere regels gesteld. De artikelen 132a, 142a, 242a, 252a, 297a en 297b van Boek 2 van het Burgerlijk Wetboek zijn niet van toepassing. 
+
+### Artikel  110d  
+
+#### *Verantwoordingsorgaan* 
+
+1.  Een beroepspensioenfonds stelt een verantwoordingsorgaan in.   
+2.  In het verantwoordingsorgaan zijn de deelnemers en de pensioengerechtigden evenredig op basis van onderlinge getalsverhoudingen vertegenwoordigd. De leden van het verantwoordingsorgaan vormen een zo evenwichtig mogelijke afspiegeling van de betreffende geleding.   
+3.  Op grond van door het bestuur van het beroepspensioenfonds vast te stellen criteria kunnen naast de in het tweede lid bedoelde vertegenwoordigers ook één of meer vertegenwoordigers van gewezen deelnemers in het verantwoordingsorgaan zitting hebben.   
+4.  Het bestuur van het beroepspensioenfonds gaat over tot verkiezing van de leden van het verantwoordingsorgaan die de deelnemers, gewezen deelnemers en pensioengerechtigden vertegenwoordigen: 
+
+a. op eigen initiatief van het beroepspensioenfonds; of  
+
+b. indien dit wordt verzocht door ten minste 1% van de deelnemers, gewezen deelnemers en pensioengerechtigden of door ten minste 500 deelnemers, gewezen deelnemers en pensioengerechtigden.   Het beroepspensioenfonds verleent medewerking aan ieder initiatief van deelnemers, gewezen deelnemers of pensioengerechtigden tot het organiseren van verkiezingen op grond van de vorige volzin, aanhef en onderdeel b.   
+5.  Het verantwoordingsorgaan heeft recht op overleg met het intern toezicht.   
+6.  Het bestuur van het beroepspensioenfonds en het verantwoordingsorgaan komen ten minste tweemaal per kalenderjaar in vergadering bijeen. Tijdens deze vergaderingen worden de aangelegenheden aan de orde gesteld waarover het bestuur van het beroepspensioenfonds of het verantwoordingsorgaan overleg wenselijk acht.   
+7.  Het beroepspensioenfonds verstrekt desgevraagd aan het verantwoordingsorgaan tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijze nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.  
+
+### Artikel  110e  
+
+#### *Taken verantwoordingsorgaan* 
+
+1.  Het bestuur van het beroepspensioenfonds legt verantwoording af aan het verantwoordingsorgaan over het beleid en de wijze waarop het is uitgevoerd.   
+2.  Het verantwoordingsorgaan heeft de bevoegdheid een oordeel te geven over het handelen van het bestuur aan de hand van het jaarverslag, de jaarrekening en andere informatie, waaronder de bevindingen van het intern toezicht, over het door het bestuur uitgevoerde beleid, evenals over beleidskeuzes voor de toekomst. Dit oordeel wordt, samen met de reactie van het bestuur daarop, bekend gemaakt en in het jaarverslag opgenomen.   
+3..  Het beroepspensioenfonds stelt het verantwoordingsorgaan in de gelegenheid advies uit te brengen over: 
+
+a. het beleid inzake beloningen;  
+
+b. de vorm en inrichting van het intern toezicht;  
+
+c. de profielschets voor leden van de raad van toezicht;  
+
+d. het vaststellen en wijzigen van een interne klachten- en geschillenprocedure; en  
+
+e. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid.     
+4.  Het verantwoordingsorgaan adviseert het bestuur naar aanleiding van de melding van disfunctioneren van het bestuur, bedoeld in artikel 110a, vijfde lid.   
+5.  In de statuten van het beroepspensioenfonds kunnen aan het verantwoordingsorgaan verdere bevoegdheden dan de in deze wet genoemde worden toegekend.  
+
+### Artikel  110f  
+
+#### *Informatie aan het verantwoordingsorgaan* 
+
+Een beroepspensioenfonds informeert het verantwoordingsorgaan onverwijld schriftelijk over: 
+
+a. de verplichting tot opstelling van een kortetermijnherstelplan als bedoeld in artikel 135;  
+
+b. de verplichting tot opstelling van een langetermijnherstelplan als bedoeld in artikel 133;  
+
+c. de aanstelling van een bewindvoerder als bedoeld in artikel 168; en  
+
+d. de beëindiging van de situatie, bedoeld in artikel 167, waarin de bevoegdheiduitoefening van alle of bepaalde organen van een beroepspensioenfonds is gebonden aan toestemming van een of meer door de toezichthouder aangewezen personen.   
+
+### Artikel  110g  
+
+#### *Voorzieningen verantwoordingsorgaan* 
+
+1.  Een beroepspensioenfonds staat de leden van het verantwoordingsorgaan het gebruik toe van de voorzieningen waarover het kan beschikken, voor zover dat redelijkerwijs voor de vervulling van hun taken nodig is.   
+2.  Ten aanzien van de rechten en bevoegdheden van het verantwoordingsorgaan in verhouding tot het bestuur van het beroepspensioenfonds zijn de artikelen 10, 16, 17, 18 en 22 van de Wet op de ondernemingsraden van overeenkomstige toepassing.  
+
+### Artikel  110h  
+
+#### *Diversiteit* 
+
+In het jaarverslag van een beroepspensioenfonds wordt gerapporteerd over de samenstelling naar leeftijd en geslacht van het verantwoordingsorgaan en het bestuur en over de inspanningen die zijn verricht om diversiteit in de organen van het beroepspensioenfonds te bevorderen. 
 
 ### Artikel  111  
 
 ####Verbod leeftijdsgrens
 
-Iedere bepaling die het lidmaatschap van het bestuur of een verantwoordingsorgaan onmogelijk maakt op grond van het bereikt hebben van een bepaalde leeftijd is nietig. 
+Iedere bepaling die het lidmaatschap van het bestuur, de raad van toezicht, de visitatiecommissie of het verantwoordingsorgaan onmogelijk maakt op grond van het bereikt hebben van een bepaalde leeftijd is nietig. 
 
 ### Artikel  112  
 
-####Instemmingsrecht
+####Goedkeuringsrecht
 
-Iedere bepaling die een instemmingsrecht inhoudt van een partij, die geen orgaan is van het beroepspensioenfonds, inzake een besluit of voorgenomen besluit van het beroepspensioenfonds is nietig, tenzij in deze wet anders is bepaald. 
+Iedere bepaling die een goedkeuringsrecht inhoudt van een partij, die geen orgaan is van het beroepspensioenfonds, inzake een besluit of voorgenomen besluit van het beroepspensioenfonds is nietig, tenzij in deze wet anders is bepaald. 
 
 ### Artikel  113  
 
 ####Statuten
 
-1. In de statuten van een beroepspensioenfonds worden bepalingen opgenomen betreffende:
+1. In de statuten van een beroepspensioenfonds worden in ieder geval bepalingen opgenomen betreffende:
 
 a.het doel van het beroepspensioenfonds, waaronder een omschrijving van de werkingssfeer;
 
@@ -1605,22 +1716,26 @@ d.de inkomsten van het beroepspensioenfonds;
 
 e.de belegging van de gelden;
 
-f.de wijze waarop de bestuursleden worden benoemd;
+f. de wijze waarop de bestuurders worden benoemd en ontslagen; 
 
 g.de wijziging van de statuten;
 
 h.de liquidatie van het beroepspensioenfonds, waaronder begrepen de verplichtingen van de liquidateuren en de bestemming van de bezittingen van het beroepspensioenfonds;
 
-i.de wijze waarop het intern toezicht is georganiseerd; en
+i.de wijze waarop het intern toezicht is georganiseerd;
 
-j.de wijze waarop de leden van het verantwoordingsorgaan worden benoemd en ontslagen. 
+j. de wijze waarop de leden van de raad van toezicht dan wel de visitatiecommissie worden benoemd en ontslagen;  
+
+k. de toepassing van artikel 110b, derde lid; en 
+
+l.de wijze waarop de leden van het verantwoordingsorgaan worden benoemd en ontslagen. 
 2. De omschrijving van de werkingssfeer, bedoeld in het eerste lid, onderdeel a, vindt plaats door het omschrijven van de activiteiten van de beroepsgroep. 
 
 ### Artikel  113a  
 
 ####Omzetting beroepspensioenfonds
 
-1.  Voor omzetting van een beroepspensioenfonds in een andere rechtsvorm als bedoeld in [artikel 18 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is een verklaring van geen bezwaar van de toezichthouder vereist. De toezichthouder verleent de verklaring indien hij van oordeel is dat de belangen van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, en de pensioengerechtigden voldoende gewaarborgd zijn.   
+1.  Voor omzetting van een beroepspensioenfonds in een andere rechtsvorm als bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek is een verklaring van geen bezwaar van de toezichthouder vereist. De toezichthouder verleent de verklaring indien hij van oordeel is dat de belangen van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, en de pensioengerechtigden voldoende gewaarborgd zijn.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld terzake van het eerste lid.  
 
 ### Artikel  114  
@@ -1947,7 +2062,7 @@ c.de maximaal te hanteren risicopremies op onder andere aandelen en onroerend go
 
 ####Jaarrekening en jaarverslag
 
-Een beroepspensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag overeenkomstig [titel 9, Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vast, met dien verstande dat [artikel 390 van genoemd wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) niet van toepassing is en dat de in [artikel 360, derde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [396](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [397 van genoemd wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) geformuleerde uitzonderingen niet van toepassing zijn.
+Een beroepspensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag overeenkomstig titel 9, Boek 2 van het Burgerlijk Wetboek vast, met dien verstande dat artikel 390 van genoemd wetboek niet van toepassing is en dat de in artikel 360, derde lid, 396 en 397 van genoemd wetboek geformuleerde uitzonderingen niet van toepassing zijn.
 
 ### Artikel 142 
 
@@ -2104,7 +2219,7 @@ Vervallen per 01-01-2013
 a.de rechtmatigheid van de uitvoering van deze wet door de toezichthouder;
 
 b.de doeltreffendheid van de uitvoering van deze wet door de toezichthouder. 
-2. Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), onder leiding van het hoofd van die inspectie. De [artikelen 37](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [38](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [44 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zijn van overeenkomstige toepassing. 
+2. Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen, onder leiding van het hoofd van die inspectie. De artikelen 37, 38 en 44 van de Wet structuur uitvoeringsorganisatie werk en inkomen zijn van overeenkomstige toepassing. 
 
 ### Artikel 159 
 
@@ -2153,7 +2268,7 @@ De pensioenuitvoerder, de beroepspensioenvereniging, de accountant en de actuari
 ####Inlichtingenbevoegdheid toezichthouder
 
 1. De toezichthouder kan ten behoeve van het toezicht op de naleving van deze wet van een ieder inlichtingen vorderen. 
-2. De [artikelen 5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. 
+2. De artikelen 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. 
 3. Voorzover de toezichthouder voor het uitoefenen van het gedragstoezicht ten aanzien van beroepspensioenfondsen waaraan de andere toezichthouder een vergunning heeft verleend of welke in het register is opgenomen, gegevens nodig heeft over aspecten van de bedrijfsvoering, bedoeld in artikel 138, tweede lid, onderdeel a en b, vordert de eerstgenoemde toezichthouder geen inlichtingen, dan nadat de andere toezichthouder is verzocht deze gegevens te verstrekken en is gebleken dat de andere toezichthouder niet aan dit verzoek tegemoet kan komen. 
 4. Van het derde lid kan, na overleg met de andere toezichthouder, worden afgeweken indien sprake is van een redelijk vermoeden van een overtreding van de regels bij of krachtens deze wet gesteld en onverwijlde spoed, gelet op de betrokken belangen, dat vereist.
 
@@ -2248,14 +2363,14 @@ b.de toezichthouder.
 
 ####Last onder dwangsom
 
-1. De toezichthouder kan een last onder dwangsom opleggen ter zake van een overtreding van de voorschriften, gesteld bij of krachtens deze wet en van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+1. De toezichthouder kan een last onder dwangsom opleggen ter zake van een overtreding van de voorschriften, gesteld bij of krachtens deze wet en van artikel 5:20 van de Algemene wet bestuursrecht. 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld ter zake van de uitoefening van de bevoegdheid tot het opleggen van een last onder dwangsom. 
 
 ### Artikel  171  
 
 ####Bestuurlijke boete
 
-1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 8, 21, 22, 23, 25, 26, 35, 36, 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 43, 44, 46 tot en met 59, 60, 61, tweede en vierde lid, 62, 63, 69, 72, 73, 74, 75, 78, derde tot en met zesde, negende en elfde lid, 79, tweede lid, 80, tweede lid, 82, eerste tot en met vijfde en zevende lid, 85, tweede en derde lid, 91, tweede en zevende lid, 92, tweede en zevende lid, 93, eerste lid, 94, eerste en tweede lid, 95, 99, 102, tweede lid, 103, 104, 105, 106, 107, 108, 110, eerste, tweede, derde, vijfde tot en met achtste en tiende lid, 113, 114, 115, 116, 117, 118, 123, 124, 125, 129, tweede, vierde en vijfde lid, 130, 131, 132, 133, eerste tot en met vierde en zesde lid, 134, 135, 138, 140, 141, 142, eerste, tweede, derde, vijfde en zesde lid, 145, 162, 164, 165, eerste tot en met vierde lid, 166, eerste lid, 167, vijfde lid, 191, 193, 197, derde en vierde lid, 198 en van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 8, 21, 22, 23, 25, 26, 35, 36, 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 43, 44, 46 tot en met 59, 60, 61, tweede en vierde lid, 62, 63, 69, 72, 73, 74, 75, 78, derde tot en met zesde, negende en elfde lid, 79, tweede lid, 80, tweede lid, 82, eerste tot en met vijfde en zevende lid, 85, tweede en derde lid, 91, tweede en zevende lid, 92, tweede en zevende lid, 93, eerste lid, 94, eerste en tweede lid, 95, 99, 102, tweede lid, 103, 104, 105, 106, 107, 108, 110 tot en met 110h, 113, 114, 115, 116, 117, 118, 123, 124, 125, 129, tweede, vierde en vijfde lid, 130, 131, 132, 133, eerste tot en met vierde en zesde lid, 134, 135, 138, 140, 141, 142, eerste, tweede, derde, vijfde en zesde lid, 145, 162, 164, 165, eerste tot en met vierde lid, 166, eerste lid, 167, vijfde lid, 191, 193, 197, derde en vierde lid, 198 en van artikel 5:20 van de Algemene wet bestuursrecht.  
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  174  
@@ -2307,7 +2422,7 @@ d.het feit dat een herstelplan als bedoeld in artikel 133 of artikel 135 is inge
 ####Schorsende werking bij openbaarmaking
 
 1. Het ter openbare kennis brengen geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de bekendmaking van de beschikking, bedoeld in artikel 184, aan de betrokkene. 
-2. Indien de betrokkene verzoekt om een voorlopige voorziening, bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt de werking van de beschikking opgeschort totdat er een uitspraak is van de voorzieningenrechter van de rechtbank.
+2. Indien de betrokkene verzoekt om een voorlopige voorziening, bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de werking van de beschikking opgeschort totdat er een uitspraak is van de voorzieningenrechter van de rechtbank.
 
 ### Artikel 186 
 
@@ -2327,7 +2442,7 @@ De vergunning, bedoeld in artikel 25, onderdeel a, wordt op aanvraag door de toe
 
 a.is ingeschreven in het register, bedoeld in artikel 204; en
 
-b. voldoet aan de artikelen 110, 121, 138 en 142, tweede lid en artikel 11 van richtlijn 2003/41/EG.  
+b. voldoet aan de artikelen 110c, 121, 138 en 142, tweede lid en artikel 11 van richtlijn 2003/41/EG.  
 
 ### Artikel 188 
 
@@ -2423,7 +2538,7 @@ Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidst
 
 ####Geheimhoudingsplicht
 
-1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in artikel 197, derde lid, onderscheidenlijk 199, eerste lid, zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist. 
+1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge afdeling 5.2 van de Algemene wet bestuursrecht zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in artikel 197, derde lid, onderscheidenlijk 199, eerste lid, zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist. 
 2. In afwijking van het eerste lid kan de toezichthouder met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen. 
 
 ### Artikel  199  
@@ -2469,27 +2584,27 @@ c.na overleg met Onze Minister van Veiligheid en Justitie, indien het in de aanh
 
 a.een bewindvoerder die ingevolge artikel 168 is benoemd;
 
-b.een rechter-commissaris die ingevolge [artikel 223a van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) is benoemd;
+b.een rechter-commissaris die ingevolge artikel 223a van de Faillissementswet is benoemd;
 
-c.een bewindvoerder die ingevolge [artikel 215, tweede lid, van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) is benoemd;
+c.een bewindvoerder die ingevolge artikel 215, tweede lid, van de Faillissementswet is benoemd;
 
-d.een rechter-commissaris die ingevolge [artikel 14 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) is benoemd;
+d.een rechter-commissaris die ingevolge artikel 14 van de Faillissementswet is benoemd;
 
-e.een curator die ingevolge [artikel 14 van de Faillissementswet](../../../../../wet/faillissementswet/BWBR0001860/README.md) is aangesteld. 
+e.een curator die ingevolge artikel 14 van de Faillissementswet is aangesteld. 
 2. De toezichthouder verstrekt geen vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid:
 
 a.indien de verstrekking van de vertrouwelijke gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen;
 
 b.indien de vertrouwelijke gegevens of inlichtingen zijn verkregen van de andere toezichthouder of een toezichthoudende instantie, en deze andere toezichthouder of die toezichthoudende instantie niet instemt met het verstrekken van de vertrouwelijke gegevens of inlichtingen. 
 3. De curator die is aangesteld in het faillissement van een pensioenuitvoerder kan, in afwijking van artikel 198, eerste lid, vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid verstrekken aan de rechtbank, voorzover die geen betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten. 
-4. Artikel 198, eerste lid, laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voorzover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een pensioenuitvoerder die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing op vertrouwelijke gegevens of inlichtingen die betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de desbetreffende pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten. 
+4. Artikel 198, eerste lid, laat onverlet de toepasselijkheid van de bepalingen van het Wetboek van Burgerlijke Rechtsvordering welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voorzover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een pensioenuitvoerder die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing op vertrouwelijke gegevens of inlichtingen die betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de desbetreffende pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten. 
 
 ### Artikel  201  
 
 ####Informatieverstrekking ten behoeve van strafvorderlijk onderzoek
 
 1. De toezichthouder kan, in afwijking van artikel 198, vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de hem ingevolge deze wet opgedragen taak, verstrekken aan een instantie die is belast met de uitoefening van strafvorderlijke bevoegdheden of aan een deskundige die door een dergelijke instantie met een opdracht is belast, voor zover de verlangde gegevens of inlichtingen noodzakelijk zijn voor de uitvoering van die opdracht. 
-2. Indien de instantie, bedoeld in het eerste lid, het voornemen heeft toepassing te geven aan de bevoegdheid tot het bij de toezichthouder vorderen van de uitlevering van een voor inbeslagneming vatbaar voorwerp of aan de bevoegdheid tot het vorderen van de inzage of een afschrift van bescheiden als bedoeld in [artikel 96a](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [105](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) of [126a van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 18](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) of [19 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), en de vordering betreft vertrouwelijke gegevens of inlichtingen als bedoeld in artikel 198, eerste lid, stelt die instantie voorafgaand aan de uitoefening van haar bevoegdheid de toezichthouder in de gelegenheid zijn zienswijze hierover kenbaar te maken. 
+2. Indien de instantie, bedoeld in het eerste lid, het voornemen heeft toepassing te geven aan de bevoegdheid tot het bij de toezichthouder vorderen van de uitlevering van een voor inbeslagneming vatbaar voorwerp of aan de bevoegdheid tot het vorderen van de inzage of een afschrift van bescheiden als bedoeld in artikel 96a, 105 of 126a van het Wetboek van Strafvordering, of artikel 18 of 19 van de Wet op de economische delicten, en de vordering betreft vertrouwelijke gegevens of inlichtingen als bedoeld in artikel 198, eerste lid, stelt die instantie voorafgaand aan de uitoefening van haar bevoegdheid de toezichthouder in de gelegenheid zijn zienswijze hierover kenbaar te maken. 
 
 ### Artikel  202  
 
@@ -2602,7 +2717,7 @@ c. de naam, het beroep, de woonplaats en het adres van de schuldenaar;
 d. het bedrag van de achterstallige premies, dat van de wettelijke of reglementaire renten of reglementaire boeten, voorzover daarop aanspraak wordt gemaakt en de aanmaningskosten voorzover daarop aanspraak wordt gemaakt, alsmede de gronden waarop de vordering berust;  
 
 e. de datum waarop de in het eerste lid bedoelde aanmaning is geschied.     
-4.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) ten uitvoer kan worden gelegd.   
+4.  Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering ten uitvoer kan worden gelegd.   
 5.  Het dwangbevel kan niet ten uitvoer worden gelegd voordat acht dagen na de betekening daarvan zijn verstreken. De persoon aan wie het dwangbevel is gericht kan gedurende dertig dagen na de betekening door middel van dagvaarding tegen de tenuitvoerlegging van een dwangbevel in verzet komen bij de kantonrechter van de plaats waar hij woont. Indien de persoon buiten Nederland woont dan wel in Nederland geen vaste woonplaats heeft, kan hij in verzet komen bij de kantonrechter van de rechtbank van het arrondissement waarin het kantoor is gevestigd van de pensioenuitvoerder.   
 6.  Het verzet schorst de tenuitvoerlegging van het dwangbevel voorzover deze door het verzet wordt bestreden.   
 7.  Indien het verzet zich richt of mede richt tegen de hoogte van de gevorderde reglementaire rente of reglementaire boete, kan de rechter indien deze hem bovenmatig voorkomt, de bedongen reglementaire rente of reglementaire boete matigen, met dien verstande dat deze niet minder kan bedragen dan de wettelijke rente.   
@@ -2618,9 +2733,9 @@ Voor burgerlijke rechtsvorderingen ter zake van deelneming in en uitkering op gr
 
 ####Enquêterecht
 
-1. Het verantwoordingsorgaan, bedoeld in artikel 42, eerste lid, onderdeel a, kan een verzoek in het kader van het recht op enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indienen bij de ondernemingskamer van het gerechtshof Amsterdam indien voorafgaand aan de indiening van dat verzoek het intern toezicht, bedoeld in artikel 42, eerste lid, onderdeel b, zich daarover heeft uitgesproken. 
-2. De [artikelen 346 tot en met 359 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing. 
-3. De kosten die verband houden met het indienen van het in het eerste lid bedoelde verzoek komen ten laste van het beroepspensioenfonds indien zij redelijkerwijs noodzakelijk zijn voor de vervulling van de taak van het verantwoordingsorgaan en het beroepspensioenfonds van de te maken kosten vooraf in kennis is gesteld.
+1.  Het verantwoordingsorgaan of de raad van toezicht kan een verzoek in het kader van het recht van enquête, bedoeld in afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek, indienen bij de ondernemingskamer van het gerechtshof Amsterdam.  
+2. De artikelen 346 tot en met 359 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing. 
+3. De kosten die verband houden met het indienen van het in het eerste lid bedoelde verzoek komen ten laste van het beroepspensioenfonds indien zij redelijkerwijs noodzakelijk zijn voor de vervulling van de taak van het verantwoordingsorgaan of de raad van toezicht en het beroepspensioenfonds van de te maken kosten vooraf in kennis is gesteld.
 
 ### Hoofdstuk  8  
 
@@ -2640,9 +2755,9 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 2. Artikel 17 is slechts van toepassing op detacheringen die op of na 25 juli 2001 zijn aangevangen. 
 3. De laatste volzin van artikel 66, eerste lid, is ten aanzien van aanspraken die zijn opgebouwd voor 1 januari 2006 en die op 1 januari 2006 niet voldoen aan de laatste volzin van artikel 66, eerste lid, gedurende tien jaren na 1 januari 2006 niet van toepassing, met dien verstande dat de financiering van die aanspraken ten minste in gelijke delen per kalenderjaar plaatsvindt. De toezichthouder kan toestaan dat, in afwijking van de eerste zin, gedurende een langere periode, maar niet langer dan gedurende vijftien jaar geen toepassing wordt gegeven aan de laatste volzin van artikel 66, eerste lid, voor zover dat noodzakelijk is ter voorkoming van onaanvaardbare financiële gevolgen voor de betrokken beroepspensioenregeling of de betrokken beroepsgenoten. 
 4. Voor de toepassing van artikel 8 wordt onder «een daartoe door een beroepspensioenvereniging opgericht beroepspensioenfonds» mede verstaan een beroepspensioenfonds dat een beroepspensioenregeling uitvoert die voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, met betrekking tot de uitvoering van die regeling.  
-5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van [artikel II, onderdeel E, van de Verzamelwet pensioenen 2012](../../../../../wet/verzamelwet/pensioenen/2012/BWBR0030853/README.md) is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.  
-6.  De personen die op het tijdstip van inwerkingtreding van [artikel VI van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md) deel uitmaken van de raad van toezicht van een beroepspensioenfonds, worden tot het einde van hun op dat tijdstip lopende benoemingstermijn, doch uiterlijk tot 1 januari 2017, geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en, vanaf het tijdstip van inwerkingtreding van [artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md), artikel 110c, eerste lid, en betrouwbaar als bedoeld in artikel 110, vijfde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, derde lid, zolang niet een wijziging in de relevante feiten, omstandigheden of antecedenten een redelijke aanleiding geeft tot een beoordeling van die geschiktheid of betrouwbaarheid.   
-7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van [artikel VI van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md) deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van [artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen](../../../../../wet/wet/versterking/bestuur/pensioenfondsen/BWBR0033702/README.md), artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid. 
+5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012 is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.  
+6.  De personen die op het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deel uitmaken van de raad van toezicht van een beroepspensioenfonds, worden tot het einde van hun op dat tijdstip lopende benoemingstermijn, doch uiterlijk tot 1 januari 2017, geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en, vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, en betrouwbaar als bedoeld in artikel 110, vijfde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, derde lid, zolang niet een wijziging in de relevante feiten, omstandigheden of antecedenten een redelijke aanleiding geeft tot een beoordeling van die geschiktheid of betrouwbaarheid.   
+7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid. 
 
 ### Artikel  215  
 

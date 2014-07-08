@@ -22,13 +22,13 @@ b. woongelegenheid:
 
 1°. woning;   
 
-2°. standplaats als bedoeld in [artikel 1, eerste lid, onder e, van de Huisvestingswet](../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md); en  
+2°. standplaats als bedoeld in artikel 1, eerste lid, onder e, van de Huisvestingswet; en  
 
-3°. woonwagen als bedoeld in [artikel 1, eerste lid, onder f, van de Huisvestingswet](../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md);   
+3°. woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet;   
 
 c. wooncomplex: een verzameling van ten minste 25 in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, qua bouwwijze of anderszins een eenheid vormen;   
 
-d. verhuurder: een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;  
+d. verhuurder: een toegelaten instelling als bedoeld in artikel 70, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;  
 
 e. huurder: huurder van een woongelegenheid van een verhuurder als bedoeld onder d, welke huurder daarin zijn hoofdverblijf heeft;   
 
@@ -82,13 +82,13 @@ e. het beleid inzake de huurprijzen;
 
 f. de samenstelling, het kwaliteitsniveau en de prijs van het door de verhuurder aan te bieden pakket van diensten die rechtstreeks verband houden met de bewoning, het betrekken van een woongelegenheid en het huisvesten van personen;  
 
-g. een voorstel tot een fusie als bedoeld in de [artikelen 312](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [313 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+g. een voorstel tot een fusie als bedoeld in de artikelen 312 en 313 van Boek 2 van het Burgerlijk Wetboek;  
 
 h. het beleid inzake de leefbaarheid in de buurten en wijken waar de betrokken woongelegenheden of wooncomplexen zijn gelegen, alsmede inzake herstructurering van die buurten of wijken;  
 
 i. het beleid inzake het bijdragen aan het tot stand brengen van huisvesting voor ouderen, gehandicapten en personen die zorg of begeleiding behoeven;  
 
-j. overeenkomsten met betrekking tot servicekosten als bedoeld in [artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en overeenkomsten met betrekking tot het beheer van het verhuurde;  
+j. overeenkomsten met betrekking tot servicekosten als bedoeld in artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek en overeenkomsten met betrekking tot het beheer van het verhuurde;  
 
 k. de uitspraken van de klachtencommissie van de verhuurder;  
 
@@ -115,7 +115,7 @@ c. drie dagen nadat een schriftelijke mededeling als bedoeld in het tweede lid d
 
 ### Artikel  5a  
 
-De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid ten aanzien van de vaststelling van servicekosten als bedoeld in [artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) slechts uit met voorafgaande instemming van de huurdersorganisatie. 
+De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid ten aanzien van de vaststelling van servicekosten als bedoeld in artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek slechts uit met voorafgaande instemming van de huurdersorganisatie. 
 
 ### Artikel  5b  
 
@@ -145,7 +145,7 @@ Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie of
 
 ### Artikel  8  
 
-1.  Geschillen die voortvloeien uit deze wet worden hetzij met een schriftelijk verzoek ingediend bij de huurcommissie, bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), hetzij met een verzoekschrift voorgelegd aan de kantonrechter.   
+1.  Geschillen die voortvloeien uit deze wet worden hetzij met een schriftelijk verzoek ingediend bij de huurcommissie, bedoeld in artikel 3a van de Uitvoeringswet huurprijzen woonruimte, hetzij met een verzoekschrift voorgelegd aan de kantonrechter.   
 2.  Indien de kantonrechter constateert dat sprake is van een schending door de verhuurder van de verplichtingen uit deze wet waardoor de verzoeker is benadeeld, kan hij bepalen dat, voorzover het geschil betrekking heeft op door de verhuurder voorgenomen beleid, de uitvoering van dat beleid wordt opgeschort totdat het verzuim is hersteld.   
 3.  Indien de kantonrechter wordt verzocht te bepalen dat een door de verhuurder genomen besluit tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de kantonrechter bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien: 
 
@@ -155,7 +155,7 @@ b. de verhuurder de beslissing tot afwijking van het advies niet heeft onderbouw
 
 ### Artikel  8a  
 
-1.  Wanneer de huurcommissie, bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), op een verzoek van de huurdersorganisatie, bewonerscommissie, huurder of verhuurder uitspraak heeft gedaan, worden partijen geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.   
+1.  Wanneer de huurcommissie, bedoeld in artikel 3a van de Uitvoeringswet huurprijzen woonruimte, op een verzoek van de huurdersorganisatie, bewonerscommissie, huurder of verhuurder uitspraak heeft gedaan, worden partijen geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.   
 2.  Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.  
 
 ###Hoofdstuk 4 

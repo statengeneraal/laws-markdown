@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 12 december 2012 , nr. WJZ/12363115, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Regeling handhaving en overige zaken Wet dieren)
 
 De Minister van Economische Zaken;  
-Gelet op [artikel 2.2, eerste lid, van het Besluit handhaving en overige zaken Wet dieren](../../../../../../../../../AMvB/besluit/handhaving/en/overige/zaken/wet/dieren/BWBR0032334/README.md) en [artikel 120b van de Gezondheids- en welzijnswet voor dieren;](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)
+Gelet op artikel 2.2, eerste lid, van het Besluit handhaving en overige zaken Wet dieren en artikel 120b van de Gezondheids- en welzijnswet voor dieren;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,13 +13,13 @@ Besluit:
 
 ####Definitiebepaling
 
-In deze regeling wordt verstaan onder besluit: [Besluit handhaving en overige zaken Wet dieren](../../../../../../../../../AMvB/besluit/handhaving/en/overige/zaken/wet/dieren/BWBR0032334/README.md). 
+In deze regeling wordt verstaan onder besluit: Besluit handhaving en overige zaken Wet dieren. 
 
 ### Artikel  1.2  
 
 ####Indeling categorieën bestuurlijke boete
 
-De hoogte van de bestuurlijke boete, bedoeld in [artikel 2.2, eerste lid, van het besluit](../../../../../../../../../AMvB/besluit/handhaving/en/overige/zaken/wet/dieren/BWBR0032334/README.md), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlage bij deze regeling voor desbetreffende overtredingen zijn vastgelegd. 
+De hoogte van de bestuurlijke boete, bedoeld in artikel 2.2, eerste lid, van het besluit, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlage bij deze regeling voor desbetreffende overtredingen zijn vastgelegd. 
 
 ### Hoofdstuk  2  
 
@@ -27,33 +27,33 @@ De hoogte van de bestuurlijke boete, bedoeld in [artikel 2.2, eerste lid, van he
 
 ### Artikel  2.1  
 
-####Wijziging [Regeling bestuurlijke boetes GWWD](../../../../../../../../../ministeriele-regeling/regeling/bestuurlijke/boetes/gwwd/BWBR0028149/README.md)
+####Wijziging Regeling bestuurlijke boetes GWWD
 
 Wijzigt de Regeling bestuurlijke boetes GWWD. 
 
 ### Artikel  2.3  
 
-####Wijziging [Regeling tijdelijke maatregelen dierziekten](../../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md)
+####Wijziging Regeling tijdelijke maatregelen dierziekten
 
 Wijzigt de Regeling tijdelijke maatregelen dierziekten. 
 
 ### Artikel  2.4  
 
-####Wijziging [Regeling indicatieve vaststelling reikwijdte Dienstenwet](../../../../../../../../../ministeriele-regeling/regeling/indicatieve/vaststelling/reikwijdte/dienstenwet/BWBR0027242/README.md)
+####Wijziging Regeling indicatieve vaststelling reikwijdte Dienstenwet
 
 Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet. 
 
 ### Artikel  2.5  
 
-####Wijziging [Landbouwkwaliteitsregeling 2007](../../../../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md)
+####Wijziging Landbouwkwaliteitsregeling 2007
 
 Wijzigt de Landbouwkwaliteitsregeling 2007. 
 
 ### Artikel  2.6  
 
-####Intrekking [Regeling vleeskeuring](../../../../../../../../../ministeriele-regeling/regeling/vleeskeuring/BWBR0019274/README.md)
+####Intrekking Regeling vleeskeuring
 
-De [Regeling vleeskeuring](../../../../../../../../../ministeriele-regeling/regeling/vleeskeuring/BWBR0019274/README.md) wordt ingetrokken. 
+De Regeling vleeskeuring wordt ingetrokken. 
 
 ### Artikel  2.7  
 
@@ -79,7 +79,7 @@ H.G.J. Kamp.
 
 #### als bedoeld in artikel 1.2  van de Regeling handhaving en overige zaken Wet dieren
 
-| [Wet dieren](../../../../../../../../../wet/wet/dieren/BWBR0030250/README.md)  | Categorie  |
+| Wet dieren  | Categorie  |
 |:---|:---|
 | Artikel 2.17, eerste lid  | 4  |
 | Artikel 2.19, eerste lid, voor zover dit artikellid betrekking heeft op het verrichten van een handeling die niet is toegestaan krachtens een vergunning.   | 4  |
@@ -89,7 +89,7 @@ H.G.J. Kamp.
 | Artikel 5.11, eerste lid  | 4  |
 | Artikel 5.12, eerste lid  | 4  |
 | Artikel 5.15, eerste lid  | 4  |
-| [ Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md)   | --- |
+|  Besluit diergeneesmiddelen   | --- |
 | Artikel 2.13, onderdelen a tot en met g en k  | 4  |
 | Artikel 2.13, onderdelen h, i en j  | 3  |
 | Artikel 3.9, eerste lid  | 4  |
@@ -143,7 +143,7 @@ H.G.J. Kamp.
 | Artikel 6.2, eerste tot en met derde lid  | 3  |
 | Artikel 6.3  | 4  |
 | Artikel 6.4, eerste en derde lid  | 4  |
-| Artikel 7.11, in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](../../../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md)  | 3  |
+| Artikel 7.11, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
 | Artikel 7.12, vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
 | Artikel 7.12, vijfde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
 | Artikel 7.13, eerste, derde en vierde lid, in samenhang met artikel 7.1 van het Besluit diergeneesmiddelen  | 3  |
@@ -157,12 +157,12 @@ H.G.J. Kamp.
 | Artikel 8.10, tweede lid  | 4  |
 | Artikel 8.12  | 3  |
 | Artikel 9A.8, eerste, derde en vierde lid  | 3  |
-|[Besluit dierlijke producten](../../../../../../../../../AMvB/besluit/dierlijke/producten/BWBR0032335/README.md)  | --- |
+|Besluit dierlijke producten  | --- |
 |Artikel 2.2  |3  |
 |Artikel 2.3  |3  |
 |Artikel 2.4, eerste tot en met vierde lid |3  |
 |Artikel 2.4, zesde lid  |2  |
-|  [Regeling dierlijke producten](../../../../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md)   | --- |
+|  Regeling dierlijke producten   | --- |
 | Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op artikel 8, derde lid, en bijlage V, punt 7, punt 8.1, onderdelen a tot en met e en punt 11.3, onderdeel b, van verordening (EG) nr. 999/2001  | 4  |
 | Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op bijlage V, punt 8.1, onderdeel f, van verordening (EG) nr. 999/2001  | 3  |
 | Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op bijlage V, punt 11.3, onderdelen a en c, van verordening (EG) nr. 999/2001  | 2  |
@@ -188,7 +188,7 @@ H.G.J. Kamp.
 | Artikel 3.24  | 2  |
 | Artikel 3.25  | 2  |
 | Artikel 3.26  | 2  |
-|  [Besluit diervoeders](../../../../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md)   | --- |
+|  Besluit diervoeders   | --- |
 | Artikel 3.6  | 4  |
 | Artikel 3.7  | 4  |
 |  *Regeling diervoeders 2012*   | --- |
@@ -223,7 +223,7 @@ H.G.J. Kamp.
 | Artikel 62  | 4  |
 | Artikel 63  | 2  |
 
-| [Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md)  | Categorie  |
+| Besluit houders van dieren  | Categorie  |
 |:---|:---|
 | Artikel 1.6, eerste tot en met vierde lid  | 2  |
 | Artikel 1.7, onderdelen a tot en met g  | 2  |
@@ -315,7 +315,7 @@ H.G.J. Kamp.
 | Artikel 6.7  | 2  |
 | Artikel 6.8  | 2  |
 
-| [Regeling houders van dieren](../../../../../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md)  |--- |
+| Regeling houders van dieren  |--- |
 |:---|:---|
 | Artikel 3.1, eerste, derde en vierde lid  | 3  |
 | Artikel 4.8, voor zover dat artikel betrekking heeft op de artikelen 3, 4, 5, 6, 7, 8, 9 en 12 alsmede Bijlagen I, II en IV, voor zover genoemd in de genoemde artikelen, van verordening (EG) nr. 1/2005  | 2  |
@@ -332,7 +332,7 @@ H.G.J. Kamp.
 | Artikel 6.9, derde lid  | 2  |
 | Artikel 9.2  | 3  |
 
-| [Besluit houders van dieren](../../../../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md)  | Categorie  |
+| Besluit houders van dieren  | Categorie  |
 |:---|:---|
 | Artikel 3.4, eerste tot en met vierde lid  | 2  |
 | Artikel 3.8, eerste tot en met derde lid  | 1  |

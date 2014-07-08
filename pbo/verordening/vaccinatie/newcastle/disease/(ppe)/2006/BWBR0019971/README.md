@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 15 juni 2006 houdende regels ter zake van de vaccinatie tegen Newcastle Disease (Verordening vaccinatie Newcastle Disease (PPE) 2006)
 
 Het bestuur van het Productschap Pluimvee en Eieren,  
-Gelet op richtlijn 92/66/EEG van de Raad van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (PbEG L 260) en richtlijn 90/539/EEG van de Raad van 15 oktober 1990 tot vaststelling van veterinairrechtelijke voorschriften voor het intracommunautaire handelsverkeer en de invoer uit derde landen van pluimvee en broedeieren (PbEG L 303), alsmede de [artikelen 92](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [93 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en de [artikelen 96](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op richtlijn 92/66/EEG van de Raad van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (PbEG L 260) en richtlijn 90/539/EEG van de Raad van 15 oktober 1990 tot vaststelling van veterinairrechtelijke voorschriften voor het intracommunautaire handelsverkeer en de invoer uit derde landen van pluimvee en broedeieren (PbEG L 303), alsmede de artikelen 92 en 93 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s en de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 Besluit:     
 ### 1  
 
@@ -37,9 +37,9 @@ k. koppel: groep pluimvee met dezelfde gezondheidsstatus en van dezelfde leeftij
 
 l. ondernemer: een natuurlijk persoon of rechtspersoon die een pluimveebedrijf uitoefent;  
 
-m. dierenarts: diegene die is ingeschreven in het register van praktizerende dierenartsen, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
+m. dierenarts: diegene die is ingeschreven in het register van praktizerende dierenartsen, bedoeld in artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990;  
 
-n. paraveterinair: een op aanwijzing van en onder een dierenarts handelende dierenartsassistent als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md) (Stb. 1991, 526);  
+n. paraveterinair: een op aanwijzing van en onder een dierenarts handelende dierenartsassistent als bedoeld in artikel 9 van het Besluit paraveterinairen (Stb. 1991, 526);  
 
 o. richtlijn 92/66/EEG: richtlijn 92/66/EEG van de Raad van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (PbEG L 260);  
 
@@ -54,7 +54,7 @@ p. HAR-test: Hemagglutinatieremmingstest.
 1.  De ondernemer zorgt ervoor dat het op zijn pluimveehedrijf aanwezige pluimvee overeenkomstig de door het bestuur bij besluit vastgestelde voorschriften wordt gevaccineerd tegen NCD.   
 2.  Ter controle van het effect van de in het eerste lid bedoelde vaccinaties op de immuniteit, zorgt de ondernemer ervoor dat overeenkomstig de door het bestuur bij besluit vastgestelde voorschriften, bloedmonsters worden genomen van het op zijn pluimveebedrijf aanwezige pluimvee en dat deze bloedmonsters door middel van de HAR-test worden onderzocht op de aanwezigheid van antistoffen tegen NCD.   
 3.  Het eerste lid is niet van toepassing op vermeerderingsdieren of leghennen die voorafgaand aan de aanvoer op het pluimveebedrijf van de ondernemer overeenkomstig het eerste lid zijn gevaccineerd en waarvan de ondernemer door middel van de uitslag van het bloedonderzoek aantoont dat de dieren aan de in artikel 5, derde lid, onder a. of b., bedoelde waarde voldoen.   
-4.  Het in het tweede lid bedoelde onderzoek van bloedmonsters wordt uitgevoerd door het met betrekking tot NCD in de [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) aangewezen laboratorium.   
+4.  Het in het tweede lid bedoelde onderzoek van bloedmonsters wordt uitgevoerd door het met betrekking tot NCD in de Regeling erkenning en aanwijzing veterinaire laboratoria aangewezen laboratorium.   
 5.  De vaccinatie, het nemen van bloedmonsters en het onderzoeken van bloedmonsters, zoals bedoeld in het eerste en tweede lid van dit artikel, worden verricht op kosten van de ondernemer.   
 6.  De in het eerste en tweede lid bedoelde besluiten worden gepubliceerd in het Verordeningblad Bedrijfsorganisatie.  
 
@@ -180,7 +180,7 @@ d. Te gedogen dat de door het bestuur aangewezen dienst en personen monsters nem
 
 a. een berisping;  
 
-b. een geldboete tot ten hoogste het bedrag van de derde categorie bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. een geldboete tot ten hoogste het bedrag van de derde categorie bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht;  
 
 c. het stellen van de betrokkene onder verscherpte controle op zijn kosten, voor ten hoogste 2 jaren;  
 

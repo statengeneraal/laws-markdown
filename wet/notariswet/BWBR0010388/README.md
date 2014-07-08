@@ -25,13 +25,13 @@ c. kandidaat-notaris: degene, niet zijnde toegevoegd notaris, die voldoet aan ee
 
 d. minuut: het originele exemplaar van een notariële akte;  
 
-e. repertorium: het register, bedoeld in [artikel 7 van de Registratiewet 1970](../../../wet/registratiewet/1970/BWBR0002739/README.md);  
+e. repertorium: het register, bedoeld in artikel 7 van de Registratiewet 1970;  
 
 f. protocol: de minuten, notariële verklaringen, registers, afschriften, repertoria en kaartsystemen die onder de notaris berusten;  
 
 g. grosse: een in executoriale vorm uitgegeven afschrift of uittreksel van een notariële akte;  
 
-h. deeltijd: de werktijd die korter is dan de volledige arbeidsduur als bedoeld in [artikel 2 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+h. deeltijd: de werktijd die korter is dan de volledige arbeidsduur als bedoeld in artikel 2 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;  
 
 i. de KNB: de Koninklijke Notariële Beroepsorganisatie, bedoeld in artikel 60;  
 
@@ -60,7 +60,7 @@ b. gehuwd: geregistreerd.
 ### Artikel  3  
 
 1.  De notaris wordt als zodanig bij koninklijk besluit benoemd. In het besluit wordt de plaats van vestiging aangegeven.   
-2.  De notaris legt binnen zes maanden na de dagtekening van het benoemingsbesluit voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af: «Ik zweer getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) en eerbied voor de rechterlijke autoriteiten. Ik zweer, dat ik mij zal gedragen naar de wetten, de reglementen en de verordeningen die op het notarisambt van toepassing zijn en dat ik mijn taak eerlijk, nauwgezet en onpartijdig zal uitvoeren; dat ik geheimhouding zal betrachten ten aanzien van alles waarvan ik door mijn ambt kennis neem en dat ik voorts, middellijk noch onmiddellijk, onder enige naam of voorwendsel, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.»Als de eed niet tijdig is afgelegd, vervalt de benoeming.   
+2.  De notaris legt binnen zes maanden na de dagtekening van het benoemingsbesluit voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af: «Ik zweer getrouwheid aan de Koning en de Grondwet en eerbied voor de rechterlijke autoriteiten. Ik zweer, dat ik mij zal gedragen naar de wetten, de reglementen en de verordeningen die op het notarisambt van toepassing zijn en dat ik mijn taak eerlijk, nauwgezet en onpartijdig zal uitvoeren; dat ik geheimhouding zal betrachten ten aanzien van alles waarvan ik door mijn ambt kennis neem en dat ik voorts, middellijk noch onmiddellijk, onder enige naam of voorwendsel, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.»Als de eed niet tijdig is afgelegd, vervalt de benoeming.   
 3.  Wanneer de eed, bedoeld in het tweede lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed als volgt: «Ik swar trou oan de Kening en de Grûnwet en earbied foar de rjochterlike autoriteiten. Ik swar, dat ik my hâlde en drage sil neffens de wetten, de regleminten en de oarderingen dy’t op it notarisamt fan tapassing binne en dat ik myn taak earlik, sekuer en ûnpartidich útfiere sil; dat ik geheimhâlding betrachtsje sil oangeande alles dêr’t ik troch myn amt kunde oan krij en dat ik fierders, streekrjocht noch midlik, ûnder hokker namme of útwynsel dan ek, foar it krijen fan myn beneaming oan immen eat jûn of tasein haw, noch jaan of tasizze sil.»  
 4.  De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de notaris.   
 5.  De notaris is bevoegd met ingang van de dag na de eedsaflegging. Indien in het benoemingsbesluit een latere datum is vermeld, is hij bevoegd met ingang van die dag indien tevoren de eed is afgelegd. Is hij waarnemer van het kantoor, dan is hij terstond na de eedsaflegging bevoegd.   
@@ -79,7 +79,7 @@ a. de benoeming van de notaris, zijn ontslag of overlijden;
 
 b. de plaats van vestiging van de notaris;  
 
-c. het nummer als bedoeld in [artikel 2, tweede lid, van de Wet op het centraal testamentenregister](../../../wet/wet/op/het/centraal/testamentenregister/BWBR0003080/README.md);  
+c. het nummer als bedoeld in artikel 2, tweede lid, van de Wet op het centraal testamentenregister;  
 
 d. een aanwijzing tot overname van een protocol als bedoeld in artikel 15;  
 
@@ -109,9 +109,9 @@ l. de onherroepelijke oplegging van een bestuurlijke boete of een last onder dwa
 
 a.dat
 
-1°.hem op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs aan een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, of
+1°.hem op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs aan een universiteit dan wel de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, of
 
-2°.hij het recht heeft verkregen om de titel meester te voeren op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit of de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel in het bezit is van een ten aanzien van het beroep van kandidaat-notaris afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); 
+2°.hij het recht heeft verkregen om de titel meester te voeren op grond van het met goed gevolg afleggen van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit of de Open Universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, dan wel in het bezit is van een ten aanzien van het beroep van kandidaat-notaris afgegeven erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties; 
 
 b. dat hij: 
 
@@ -123,11 +123,11 @@ b. dat hij:
 
 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van artikel 7, eerste lid, alsmede van het advies als bedoeld in artikel 7, tweede lid, alsmede    
 
-c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
+c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens;  
 
 d. dat hij de Nederlandse taal in voldoende mate beheerst voor een goede uitoefening van het notarisambt.    
 3.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de beroepsvereisten, waaraan hij die de opleiding, bedoeld in het tweede lid, onderdeel a, heeft gevolgd moet voldoen.  
-4. Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het tweede lid, onderdeel a, onder 1°, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.
+4. Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het tweede lid, onderdeel a, onder 1°, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.
 
 ### Artikel  7  
 
@@ -154,7 +154,7 @@ c.de wijze waarop de kosten van de advisering worden berekend.
 4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de Commissie en haar werkzaamheden. Bij regeling van Onze Minister wordt de hoogte vastgesteld van de vergoeding, bedoeld in het eerste lid.   
 5.  Op het verzoek wordt beslist binnen vijf maanden na ontvangst ervan.   
 6.  De KNB en het Bureau kunnen met betrekking tot het verzoek advies uitbrengen aan Onze Minister.   
-7.  In afwijking van [artikel 8:4, derde lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een besluit tot benoeming tot notaris beroep instellen. 
+7.  In afwijking van artikel 8:4, derde lid, onderdeel a, van de Algemene wet bestuursrecht kan een belanghebbende tegen een besluit tot benoeming tot notaris beroep instellen. 
 
 ### Artikel  9  
 
@@ -217,11 +217,11 @@ b. een ambt of betrekking heeft aanvaard dat, onderscheidenlijk die, op grond va
 
 ### Artikel  16  
 
-Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten, berust op een overeenkomst tussen de notaris en de cliënt, bedoeld in [titel 5 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
+Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten, berust op een overeenkomst tussen de notaris en de cliënt, bedoeld in titel 5 van Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  16a  
 
-De [artikelen 2:1](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [2:2](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de [hoofdstukken 3](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [9 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de wettelijke werkzaamheden en de werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten en op de weigering deze te verrichten. 
+De artikelen 2:1 en 2:2 en de hoofdstukken 3, 4, en 9 van de Algemene wet bestuursrecht zijn niet van toepassing op de wettelijke werkzaamheden en de werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten en op de weigering deze te verrichten. 
 
 ### Artikel  17  
 
@@ -250,7 +250,7 @@ b. waarin de notaris of zijn echtgenoot de functie van bestuurder of commissaris
 
 1.  De notaris mag geen akte verlijden die een begunstiging van één of meer van de in artikel 19, eerste lid, bedoelde personen inhoudt; de verboden begunstiging is nietig. Een benoeming tot executeur van een nalatenschap is geen verboden begunstiging.   
 2.   Artikel 19, vierde lid, is van overeenkomstige toepassing.   
-3.  Met betrekking tot de begunstiging van getuigen bij akten die een uiterste wilsbeschikking bevatten, zijn de [artikelen 61](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) en [62, eerste lid, van Boek 4 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) van toepassing.   
+3.  Met betrekking tot de begunstiging van getuigen bij akten die een uiterste wilsbeschikking bevatten, zijn de artikelen 61 en 62, eerste lid, van Boek 4 van het Burgerlijk Wetboek van toepassing.   
 
 ### Artikel  20a  
 
@@ -286,25 +286,25 @@ c. zich borg te stellen of anderszins in te staan voor schulden van anderen, beh
 1.  De notaris is verplicht van zijn kantoorvermogen en van alles betreffende zijn werkzaamheden, daaronder begrepen het beheer van gelden van derden al dan niet vallend onder artikel 25, naar de eisen die voortvloeien uit deze werkzaamheden, op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde op eenvoudige wijze zijn rechten en verplichtingen kunnen worden gekend.   
 2.  Het in het vorige lid bepaalde is van overeenkomstige toepassing op het privé-vermogen van de notaris, daaronder mede begrepen het vermogen van een gemeenschap van goederen waarin hij is gehuwd.   
 3.  Bij verordening kunnen voorschriften worden vastgesteld ten aanzien van de wijze waarop de kantoor- en privé-administratie moeten worden ingericht, bijgehouden en bewaard.   
-4.  De notaris dient binnen vier maanden na afloop van elk boekjaar een verslag in bij het Bureau ten aanzien van zowel het kantoorvermogen als ten aanzien van zijn privé-vermogen. Voor wat betreft de kantoorwerkzaamheden bevat het verslag een winst- en verliesrekening. Het verslag gaat vergezeld van een verklaring danwel mededeling die is afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De termijn voor indiening van het verslag kan op verzoek van de notaris door het Bureau op grond van bijzondere omstandigheden worden verlengd met ten hoogste twee maanden. Op het verzoek wordt beslist binnen vier weken na ontvangst ervan.   
+4.  De notaris dient binnen vier maanden na afloop van elk boekjaar een verslag in bij het Bureau ten aanzien van zowel het kantoorvermogen als ten aanzien van zijn privé-vermogen. Voor wat betreft de kantoorwerkzaamheden bevat het verslag een winst- en verliesrekening. Het verslag gaat vergezeld van een verklaring danwel mededeling die is afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De termijn voor indiening van het verslag kan op verzoek van de notaris door het Bureau op grond van bijzondere omstandigheden worden verlengd met ten hoogste twee maanden. Op het verzoek wordt beslist binnen vier weken na ontvangst ervan.   
 5.  Bij regeling van Onze Minister worden regels gesteld betreffende de wijze van indiening en de inhoud van het verslag en van de verklaring respectievelijk mededeling, bedoeld in het vierde lid, alsmede de inhoud en wijze van indiening van overige gegevens aan het Bureau.  
-6.  De notaris is verplicht de in de leden 1 en 2 bedoelde boeken, bescheiden en andere gegevensdragers betreffende zijn kantoor- en privé-administratie gedurende de in [artikel 10, derde lid, van Boek 2 Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde termijn te bewaren. [Artikel 10, vierde lid, Boek 2 Burgerlijk Wetboek is van toepassing](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+6.  De notaris is verplicht de in de leden 1 en 2 bedoelde boeken, bescheiden en andere gegevensdragers betreffende zijn kantoor- en privé-administratie gedurende de in artikel 10, derde lid, van Boek 2 Burgerlijk Wetboek bedoelde termijn te bewaren. Artikel 10, vierde lid, Boek 2 Burgerlijk Wetboek is van toepassing.  
 
 ### Artikel  25  
 
-1.  De notaris is verplicht bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig onder zich neemt. Gelden die aan de notaris in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde financiële onderneming voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de notaris zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de notaris verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de notaris zijn gesteld. Indien meer notarissen in een maatschap samenwerken, kan de bijzondere rekening ten name van die notarissen tezamen, de maatschap of vennootschap worden gesteld. In geval van samenwerking met beoefenaren van een ander beroep moet uit de tenaamstelling van de bijzondere rekening blijken dat de notaris deze rekening houdt. De notaris vermeldt het nummer van de bijzondere rekening op zijn briefpapier.   
+1.  De notaris is verplicht bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig onder zich neemt. Gelden die aan de notaris in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde financiële onderneming voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de notaris zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de notaris verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de notaris zijn gesteld. Indien meer notarissen in een maatschap samenwerken, kan de bijzondere rekening ten name van die notarissen tezamen, de maatschap of vennootschap worden gesteld. In geval van samenwerking met beoefenaren van een ander beroep moet uit de tenaamstelling van de bijzondere rekening blijken dat de notaris deze rekening houdt. De notaris vermeldt het nummer van de bijzondere rekening op zijn briefpapier.   
 2.  De notaris is bij uitsluiting bevoegd tot het beheer en de beschikking over de bijzondere rekening. Hij kan aan een onder zijn verantwoordelijkheid werkzame persoon volmacht verlenen. Ten laste van deze rekening mag hij slechts betalingen doen in opdracht van een rechthebbende.   
 3.  Het vorderingsrecht voortvloeiende uit de bijzondere rekening behoort toe aan de gezamenlijke rechthebbenden. Het aandeel van iedere rechthebbende wordt berekend naar evenredigheid van het bedrag dat te zijnen behoeve op de bijzondere rekening is gestort. De notaris of, indien het een gezamenlijke rekening als bedoeld in het eerste lid, zesde volzin betreft, iedere notaris, is verplicht een tekort in het saldo van de bijzondere rekening terstond aan te vullen, en hij is ter zake daarvan aansprakelijk, tenzij hij aannemelijk kan maken dat hem ter zake van het ontstaan van het tekort geen verwijt treft.   
 4.  Een rechthebbende heeft voor zover uit de aard van zijn recht niet anders voortvloeit, te allen tijde recht op uitkering van zijn aandeel in het saldo van de bijzondere rekening. Is het saldo van de bijzondere rekening niet toereikend om aan iedere rechthebbende het bedrag van zijn aandeel uit te keren, dan mag de notaris aan de rechthebbende slechts zoveel uitkeren als in verband met de rechten van de andere rechthebbenden mogelijk is. In dat geval wordt het saldo onder de rechthebbenden verdeeld naar evenredigheid van ieders aandeel, met dien verstande dat, indien een notaris zelf rechthebbende is, hem slechts wordt toegedeeld hetgeen overblijft, nadat de andere rechthebbenden het hun toekomende hebben ontvangen.   
-5.  Er kan geen derdenbeslag worden gelegd onder de in het eerste lid bedoelde financiële onderneming op het aandeel van een rechthebbende in de bijzondere rekening. Is onder de notaris derdenbeslag gelegd op het aandeel van een rechthebbende in de bijzondere rekening, dan kan de notaris die overeenkomstig de [artikelen 476a](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [477 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) verklaring heeft gedaan of die is veroordeeld overeenkomstig [artikel 477a van dat wetboek](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), zonder opdracht van de rechthebbende overeenkomstig de verklaring of veroordeling betalen aan de executant.   
+5.  Er kan geen derdenbeslag worden gelegd onder de in het eerste lid bedoelde financiële onderneming op het aandeel van een rechthebbende in de bijzondere rekening. Is onder de notaris derdenbeslag gelegd op het aandeel van een rechthebbende in de bijzondere rekening, dan kan de notaris die overeenkomstig de artikelen 476a en 477 van het Wetboek van Burgerlijke Rechtsvordering verklaring heeft gedaan of die is veroordeeld overeenkomstig artikel 477a van dat wetboek, zonder opdracht van de rechthebbende overeenkomstig de verklaring of veroordeling betalen aan de executant.   
 6.  Rechtshandelingen verricht in strijd met de bepalingen van dit artikel zijn vernietigbaar. De vernietigingsgrond kan worden ingeroepen door iedere rechtstreeks belanghebbende. Rechten, door derden te goeder trouw anders dan om niet verkregen op gelden die het voorwerp waren van de vernietigde rechtshandeling, worden geëerbiedigd.   
 7.  Bij verordening kunnen nadere regels worden gesteld betreffende de bijzondere rekening en het beheer van de gelden, bedoeld in het eerste lid. Onze Minister kan regels vaststellen met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden.   
-8.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de inspecteur of de ontvanger, bedoeld in [artikel 2 van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) dan wel [artikel 1:3 van de Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md), indien deze dit, daartoe gemachtigd door Onze Minister van Financiën, verzoekt uit hoofde van de uitoefening van een bevoegdheid op grond van de [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) onderscheidenlijk de [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md): 
+8.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de inspecteur of de ontvanger, bedoeld in artikel 2 van de Algemene wet inzake rijksbelastingen, artikel 2 van de Invorderingswet 1990 dan wel artikel 1:3 van de Algemene douanewet, indien deze dit, daartoe gemachtigd door Onze Minister van Financiën, verzoekt uit hoofde van de uitoefening van een bevoegdheid op grond van de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990 onderscheidenlijk de Algemene douanewet: 
 
 a. de namen, adressen en woonplaatsen van de personen die betrokken zijn bij betalingen naar of vanaf de bijzondere rekening in verband met een in het verzoek specifiek aangeduide transactie of handeling waaraan de notaris zijn medewerking heeft verleend, alsmede de omvang van die betalingen en de nummers van de bankrekeningen waarvan door die personen gebruik is gemaakt;  
 
 b. de aard van de transactie of handeling waarop een in het verzoek specifiek aangeduide betaling naar of vanaf de bijzondere rekening betrekking heeft, alsmede de namen, adressen en woonplaatsen van de personen die daarbij betrokken zijn, de omvang van de betalingen en de nummers van de bankrekeningen waarvan door die personen gebruik is gemaakt.   Bij het verstrekken van de hiervoor genoemde gegevens wordt hun onderling verband door de notaris aangeduid.   
-9.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de opsporingsambtenaar, de officier van justitie of de rechter-commissaris, de gegevens met betrekking tot de bijzondere rekening die deze vordert uit hoofde van de uitoefening van een bevoegdheid op grond van het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+9.  De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in artikel 22, aan de opsporingsambtenaar, de officier van justitie of de rechter-commissaris, de gegevens met betrekking tot de bijzondere rekening die deze vordert uit hoofde van de uitoefening van een bevoegdheid op grond van het Wetboek van Strafvordering.  
 10.  Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.  
 
 ### Artikel  25a  
@@ -452,7 +452,7 @@ a. werkzaamheden op een notariskantoor heeft aanvaard; of
 
 b. werkzaamheden in een andere vestiging van een notariskantoor heeft aanvaard; of 
 
-c. meer of minder uren per week op een notariskantoor werkzaam is, geeft hiervan binnen een week nadat hij met de uitoefening van die werkzaamheden is begonnen of nadat zijn arbeidsduur is gewijzigd, kennis aan de KNB. Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een erkenning van beroepskwalificaties over als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+c. meer of minder uren per week op een notariskantoor werkzaam is, geeft hiervan binnen een week nadat hij met de uitoefening van die werkzaamheden is begonnen of nadat zijn arbeidsduur is gewijzigd, kennis aan de KNB. Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een erkenning van beroepskwalificaties over als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties.   
 2.  De kennisgeving houdt in: 
 
 a. datum en plaats van geboorte van de kandidaat-notaris;  
@@ -507,7 +507,7 @@ De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur v
 
 ### Artikel  39  
 
-1.  De bij het verlijden van de akte verschijnende personen en getuigen moeten aan de notaris bekend zijn. Hij stelt de identiteit van de personen die de eerste maal voor hem verschijnen vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en vermeldt de aard en het nummer daarvan in de akte. Indien onder de verantwoordelijkheid van de notaris werkzame personen als gevolmachtigden of getuigen optreden, is de tweede volzin niet van toepassing. Indien de natuurlijke personen die blijkens de akte daarbij als partij optreden niet bij het verlijden van de akte verschijnen, wordt in de aan de akte te hechten volmacht, dan wel indien krachtens mondelinge volmacht wordt gehandeld in de akte, de aard en het nummer van het in de tweede volzin bedoelde document van de volmachtgever vermeld.   
+1.  De bij het verlijden van de akte verschijnende personen en getuigen moeten aan de notaris bekend zijn. Hij stelt de identiteit van de personen die de eerste maal voor hem verschijnen vast aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht en vermeldt de aard en het nummer daarvan in de akte. Indien onder de verantwoordelijkheid van de notaris werkzame personen als gevolmachtigden of getuigen optreden, is de tweede volzin niet van toepassing. Indien de natuurlijke personen die blijkens de akte daarbij als partij optreden niet bij het verlijden van de akte verschijnen, wordt in de aan de akte te hechten volmacht, dan wel indien krachtens mondelinge volmacht wordt gehandeld in de akte, de aard en het nummer van het in de tweede volzin bedoelde document van de volmachtgever vermeld.   
 2.  De notaris kan in alle gevallen de tegenwoordigheid van twee getuigen verlangen indien hij dit wenselijk acht.   
 3.  De getuigen moeten meerderjarig zijn en hun woonplaats hebben in Nederland. Zij moeten de taal verstaan waarin de akte is opgesteld, of die waarin de akte van bewaargeving is geschreven.   
 4.  Geen getuigen kunnen zijn: 
@@ -547,7 +547,7 @@ b. zij moet zoveel mogelijk ononderbroken doorlopen;
 c. ruimten die zijn opengebleven en onbeschreven vakken moeten vóór de ondertekening voor beschrijving onbruikbaar worden gemaakt;  
 
 d. getallen ter bepaling van het aantal of de grootte van zaken, alsmede tijdsaanduidingen moeten in schrijfletters worden uitgedrukt; zij kunnen tevens in cijfers worden herhaald of voorafgesteld.     
-2.  De inhoud van de akte wordt duurzaam op deugdelijk materiaal gesteld. Bij verordening kunnen regels worden gesteld omtrent dit materiaal en omtrent de wijze waarop de tekst van de akte daarop wordt gesteld, onverminderd het te dien aanzien op grond van [artikel 21, eerste lid, van de Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) bepaalde.  
+2.  De inhoud van de akte wordt duurzaam op deugdelijk materiaal gesteld. Bij verordening kunnen regels worden gesteld omtrent dit materiaal en omtrent de wijze waarop de tekst van de akte daarop wordt gesteld, onverminderd het te dien aanzien op grond van artikel 21, eerste lid, van de Archiefwet 1995 bepaalde.  
 
 ### Artikel  42  
 
@@ -590,12 +590,12 @@ d. indien de goedkeuring geschiedt in de kant van de bladzijde, moet zij worden 
 
 ###Artikel 45a 
 
-1. De artikelen 19, 20, 40 tot en met 42, en 45 zijn van overeenkomstige toepassing op een bijhoudingsverklaring als bedoeld in [artikel 46a van de Kadasterwet](../../../wet/kadasterwet/BWBR0004541/README.md).
+1. De artikelen 19, 20, 40 tot en met 42, en 45 zijn van overeenkomstige toepassing op een bijhoudingsverklaring als bedoeld in artikel 46a van de Kadasterwet.
 2. De notaris zendt een afschrift van de bijhoudingsverklaring, bedoeld in het eerste lid, aan partijen, nadat hij op de oorspronkelijke akte een aantekening heeft gesteld van het opmaken van die bijhoudingsverklaring onder vermelding van de datum ervan.
 
 ### Artikel  46  
 
-De notaris neemt bij de vermelding ingevolge [artikel 89, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van de titel van overdracht in de akte van levering steeds ook op een vermelding van de geldelijke tegenprestatie, ook al is deze voor de overdracht zonder belang. Wordt met het oog op de inschrijving een uittreksel afgegeven, dan neemt de notaris deze vermelding ook daarin op. 
+De notaris neemt bij de vermelding ingevolge artikel 89, tweede lid, van Boek 3 van het Burgerlijk Wetboek van de titel van overdracht in de akte van levering steeds ook op een vermelding van de geldelijke tegenprestatie, ook al is deze voor de overdracht zonder belang. Wordt met het oog op de inschrijving een uittreksel afgegeven, dan neemt de notaris deze vermelding ook daarin op. 
 
 ### Artikel  47  
 
@@ -603,7 +603,7 @@ Na de dood van de erflater moet de notaris een onderhandse uiterste wil die hem 
 
 ### Artikel  48  
 
-1.  Wanneer aan de notaris een akte in de zin van [artikel 156, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) wordt aangeboden, met verzoek deze in zijn protocol op te nemen, is hij verplicht van de inhoud daarvan kennis te nemen en van de aanbieding en opname een akte te verlijden en het stuk aan die akte te hechten, onverminderd het bepaalde in [artikel 95 van Boek 4 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).   
+1.  Wanneer aan de notaris een akte in de zin van artikel 156, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering wordt aangeboden, met verzoek deze in zijn protocol op te nemen, is hij verplicht van de inhoud daarvan kennis te nemen en van de aanbieding en opname een akte te verlijden en het stuk aan die akte te hechten, onverminderd het bepaalde in artikel 95 van Boek 4 van het Burgerlijk Wetboek.   
 2.  Onverminderd het bepaalde in artikel 21, tweede lid, kan de notaris zijn dienst weigeren indien de verzoeker niet aannemelijk kan maken dat hij bij opneming van het aangeboden stuk in het protocol een redelijk belang heeft.  
 
 ### Artikel  49  
@@ -625,7 +625,7 @@ De erflater kan bij uiterste wilsbeschikking bepalen dat de in artikel 49, eerst
 
 ###Artikel 49b 
 
-1. De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in [artikel 188 van Boek 4 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md).
+1. De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek.
 2. Artikel 49a is van overeenkomstige toepassing.
 
 ### Artikel  50  
@@ -638,18 +638,18 @@ a. akten van verdeling van gemeenschappen;
 b. processen-verbaal van openbare verkopingen, verhuringen, verpachtingen en aanbestedingen;  
 
 c. testamenten.     
-3.  Geen grossen mogen worden uitgegeven van een verklaring van erfrecht als bedoeld in [artikel 188 van Boek 4 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) of een notariële verklaring als bedoeld in de [artikelen 26](../../../wet/kadasterwet/BWBR0004541/README.md), [27, derde lid](../../../wet/kadasterwet/BWBR0004541/README.md), [30](../../../wet/kadasterwet/BWBR0004541/README.md), [31, onder b, juncto 26, eerste lid](../../../wet/kadasterwet/BWBR0004541/README.md), [34](../../../wet/kadasterwet/BWBR0004541/README.md), [35](../../../wet/kadasterwet/BWBR0004541/README.md) en [36 van de Kadasterwet](../../../wet/kadasterwet/BWBR0004541/README.md).  
+3.  Geen grossen mogen worden uitgegeven van een verklaring van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek of een notariële verklaring als bedoeld in de artikelen 26, 27, derde lid, 30, 31, onder b, juncto 26, eerste lid, 34, 35 en 36 van de Kadasterwet.  
 
 ### Artikel  51  
 
-1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht als bedoeld in [artikel 188 van Boek 4 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Met het zegel worden stukken aan akten gehecht. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in [artikel 658 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en andere verzegelingen die de notaris als zodanig verricht.   
+1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek, legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Met het zegel worden stukken aan akten gehecht. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in artikel 658 van het Wetboek van Burgerlijke Rechtsvordering, en andere verzegelingen die de notaris als zodanig verricht.   
 2.  De notaris moet ervoor zorgen dat van het zegel geen misbruik kan worden gemaakt.  
 
 ### Artikel  52  
 
 1.  De notaris maakt proces-verbaal op van iedere voor hem plaats hebbende eedsaflegging die niet reeds onderdeel uitmaakt van een akte.   
 2.  Legalisatie van een handtekening door de notaris houdt in dat hij op het aangeboden stuk of op een daaraan aangehecht stuk een door hem gedagtekende en ondertekende verklaring stelt waarin hij de echtheid van de handtekening bevestigt.   
-3.  De handtekening van de notaris wordt overeenkomstig het bepaalde in het tweede lid desgevraagd gelegaliseerd door de president van de rechtbank in het arrondissement waar de kamer voor het notariaat is gevestigd waaronder de notaris ressorteert. Hij kan de overige presidenten van de rechtbanken in het ressort waarin de kamer is gevestigd, machtigen deze bevoegdheid uit te oefenen. [Afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+3.  De handtekening van de notaris wordt overeenkomstig het bepaalde in het tweede lid desgevraagd gelegaliseerd door de president van de rechtbank in het arrondissement waar de kamer voor het notariaat is gevestigd waaronder de notaris ressorteert. Hij kan de overige presidenten van de rechtbanken in het ressort waarin de kamer is gevestigd, machtigen deze bevoegdheid uit te oefenen. Afdeling 10.1.1 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  53  
 
@@ -672,15 +672,15 @@ c. testamenten.
 
 ### Artikel  56  
 
-1.  De voorzitter van de kamer voor het notariaat kan op verzoek van een belanghebbende wiens financiële draagkracht de in [artikel 34 van de Wet op de rechtsbijstand](../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) genoemde bedragen niet overschrijdt, een in het desbetreffende ressort gevestigde notaris opdragen de in het tweede lid genoemde ambtelijke werkzaamheden te verrichten tegen een bedrag waarvan de maximumhoogte het bedrag is van de ingevolge de algemene maatregel van bestuur, bedoeld in [artikel 35, tweede lid, van de Wet op de rechtsbijstand](../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), hoogst mogelijke eigen bijdrage.  
+1.  De voorzitter van de kamer voor het notariaat kan op verzoek van een belanghebbende wiens financiële draagkracht de in artikel 34 van de Wet op de rechtsbijstand genoemde bedragen niet overschrijdt, een in het desbetreffende ressort gevestigde notaris opdragen de in het tweede lid genoemde ambtelijke werkzaamheden te verrichten tegen een bedrag waarvan de maximumhoogte het bedrag is van de ingevolge de algemene maatregel van bestuur, bedoeld in artikel 35, tweede lid, van de Wet op de rechtsbijstand, hoogst mogelijke eigen bijdrage.  
 2.  Het eerste lid is van toepassing op werkzaamheden met betrekking tot: 
 
 a.notariële akten houdende testament, huwelijkse voorwaarden, partnerschapsvoorwaarden, samenlevingsovereenkomst en voogdijbenoeming;
 
 b.notariële akten van scheiding van onverdeeldheden indien uit de onverdeeldheid de kosten van de notaris niet kunnen worden voldaan;
 
-c.verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan het in [artikel 34, tweede lid, van de Wet op de rechtsbijstand](../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) genoemde bedrag voor het vermogen van een alleenstaande.   
-3.  De verzoeker legt aan de voorzitter een verklaring over van de raad voor rechtsbijstand, bedoeld in [artikel 1, van de Wet op de rechtsbijstand](../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waaruit het inkomen van de verzoeker blijkt.   
+c.verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan het in artikel 34, tweede lid, van de Wet op de rechtsbijstand genoemde bedrag voor het vermogen van een alleenstaande.   
+3.  De verzoeker legt aan de voorzitter een verklaring over van de raad voor rechtsbijstand, bedoeld in artikel 1, van de Wet op de rechtsbijstand, waaruit het inkomen van de verzoeker blijkt.   
 4.  Voor degenen op wie de eerste drie leden niet van toepassing zijn geldt voor de daarin bedoelde ambtelijke werkzaamheden een tarief waarvan het maximum bedraagt vier maal het in het eerste lid bedoelde bedrag. Dit laatste maximum geldt niet indien het eigen vermogen van een partij bij de akte of van partijen tezamen meer bedraagt dan € 226 890. Dit bedrag kan bij ministeriële regeling worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de hoogte van het in het vierde lid bedoelde eigen vermogen wordt bepaald.  
 
@@ -693,7 +693,7 @@ c.verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan h
 1.  Er zijn één of meer door Onze Minister aan te wijzen algemene bewaarplaatsen van protocollen.   
 2.  Het bestuur van de KNB benoemt uit de notarissen die in het arrondissement waarbinnen zich de algemene bewaarplaats bevindt hun plaats van vestiging hebben een bewaarder en een plaatsvervangend bewaarder. Deze benoemingen geschieden voor de tijd van vijf jaar en kunnen telkens met dezelfde termijn worden verlengd.   
 3.  De bewaarder en de plaatsvervangend bewaarder hebben ten aanzien van de zich in de algemene bewaarplaats bevindende protocollen dezelfde bevoegdheden en verplichtingen als een notaris.   
-4.  In afwijking van [artikel 41, eerste lid, onder b, van de Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) is Onze Minister zorgdrager van de zich in de algemene bewaarplaats bevindende archiefbescheiden, voorzover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.  
+4.  In afwijking van artikel 41, eerste lid, onder b, van de Archiefwet 1995 is Onze Minister zorgdrager van de zich in de algemene bewaarplaats bevindende archiefbescheiden, voorzover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.  
 5.  Bij verordening kunnen nadere regels worden gesteld betreffende de taken en bevoegdheden van de bewaarder en plaatsvervangend bewaarder. 
 
 ### Artikel  58  
@@ -704,7 +704,7 @@ c.verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan h
 
 ### Artikel  59  
 
-1.  In afwijking van [artikel 12 van de Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) geldt dat de protocollen die ouder zijn dan vijfenzeventig jaar, met uitzondering van de akten betreffende uiterste willen, en die in een algemene bewaarplaats berusten, binnen een tijdvak van tien jaar naar de bij of krachtens die wet voor de bewaring daarvan aangewezen rijksarchiefbewaarplaats worden overgebracht. Akten betreffende uiterste willen die ouder zijn dan honderd jaar worden binnen een tijdvak van tien jaar naar de rijksarchiefbewaarplaats overgebracht.   
+1.  In afwijking van artikel 12 van de Archiefwet 1995 geldt dat de protocollen die ouder zijn dan vijfenzeventig jaar, met uitzondering van de akten betreffende uiterste willen, en die in een algemene bewaarplaats berusten, binnen een tijdvak van tien jaar naar de bij of krachtens die wet voor de bewaring daarvan aangewezen rijksarchiefbewaarplaats worden overgebracht. Akten betreffende uiterste willen die ouder zijn dan honderd jaar worden binnen een tijdvak van tien jaar naar de rijksarchiefbewaarplaats overgebracht.   
 2.  Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschappen zijn gezamenlijk bevoegd over de overbrenging van protocollen uit algemene bewaarplaatsen naar de in die wet bedoelde rijksarchiefbewaarplaatsen nadere regels te stellen.  
 
 ### Titel  VIII  
@@ -717,7 +717,7 @@ c.verklaringen van erfrecht indien het saldo van de boedel minder bedraagt dan h
 
 ### Artikel  60  
 
-De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin van [artikel 134 van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md). Alle in Nederland gevestigde notarissen en werkzame toegevoegd notarissen en kandidaat-notarissen zijn leden van de KNB. De KNB is gevestigd te 's-Gravenhage. 
+De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin van artikel 134 van de Grondwet. Alle in Nederland gevestigde notarissen en werkzame toegevoegd notarissen en kandidaat-notarissen zijn leden van de KNB. De KNB is gevestigd te 's-Gravenhage. 
 
 ### Artikel  61  
 
@@ -727,7 +727,7 @@ De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin v
 ### Artikel  61a  
 
 1.  De KNB is verantwoordelijk voor het uitvoeren van kwaliteitstoetsen bij haar leden, die worden verricht door deskundigen die zijn aangewezen door het bestuur van de KNB.   
-2.  Op het verrichten van de kwaliteitstoetsen en de krachtens het eerste lid aangewezen personen, zijn de [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:14](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15, eerste en derde lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Op het verrichten van de kwaliteitstoetsen en de krachtens het eerste lid aangewezen personen, zijn de artikelen 5:12, 5:13, 5:14, 5:15, eerste en derde lid, 5:16, 5:17, 5:18 en 5:20, eerste lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 3.  Ten behoeve van het verrichten van de kwaliteitstoetsen door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
 4.  Bij verordening worden nadere regels gesteld betreffende het verrichten van de kwaliteitstoetsen.  
 
@@ -899,7 +899,7 @@ Het voorstel van een verordening, wordt met een toelichting ten minste twee maan
 
 ### Artikel  92  
 
-Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, niet zijnde een verordening die op grond van artikel 91 rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd [artikel 10:39 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekendgemaakt. 
+Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, niet zijnde een verordening die op grond van artikel 91 rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd artikel 10:39 van de Algemene wet bestuursrecht kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekendgemaakt. 
 
 ### Titel  IX  
 
@@ -921,7 +921,7 @@ Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, ni
 3.  In ieder ressort is een kamer voor het notariaat gevestigd, waarvan het rechtsgebied samenvalt met het ressort. De kamers zijn belast met de uitvoering van de hun in deze wet opgedragen taken. De aan de werkzaamheden van de kamers verbonden kosten komen ten laste van de Staat.   
 4.  Elke kamer voor het notariaat bestaat uit een voorzitter en vier leden. Er zijn ten minste twee plaatsvervangend voorzitters.   
 5.  De president van de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd, is voorzitter van deze kamer. De plaatsvervangende voorzitters worden door de voorzitter aangewezen uit de leden van de rechtbanken die zijn gelegen in het ressort waar de desbetreffende kamer voor het notariaat is gevestigd. Indien de aanwijzing betrekking heeft op leden van een rechtbank in een ander arrondissement dan die waar de kamer voor het notariaat is gevestigd, gebeurt die aanwijzing niet dan na instemming van de president van die rechtbank.   
-6.  Twee leden worden voor de tijd van vier jaren benoemd door Onze Minister, die tevens voor elk hunner een of meer plaatsvervangers aanwijst. Een van die leden wordt benoemd uit de leden van de rechtbanken die zijn gelegen binnen het rechtsgebied van de desbetreffende kamer voor het notariaat. Het andere lid is de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kan hen door Onze Minister tussentijds ontslag worden verleend.   
+6.  Twee leden worden voor de tijd van vier jaren benoemd door Onze Minister, die tevens voor elk hunner een of meer plaatsvervangers aanwijst. Een van die leden wordt benoemd uit de leden van de rechtbanken die zijn gelegen binnen het rechtsgebied van de desbetreffende kamer voor het notariaat. Het andere lid is de inspecteur, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen. Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kan hen door Onze Minister tussentijds ontslag worden verleend.   
 7.  De overige twee leden zijn notaris, toegevoegd notaris of kandidaat-notaris. Deze leden worden voor de tijd van vier jaren door de ledenraad van de KNB, op voordracht van de ringbesturen in het ressort van de desbetreffende kamer voor het notariaat, uit de leden van die ringen benoemd. Zij zijn bij hun aftreden eenmaal herbenoembaar. Op eigen verzoek kan hun tussentijds door de ledenraad ontslag worden verleend. De ledenraad wijst tevens uit de leden van de ringen twee of meer plaatsvervangers aan die beide leden kunnen vervangen. Bij verordening worden regels gesteld omtrent de wijze van voordracht en benoeming van deze leden en hun plaatsvervangers.   
 8.  De kamer voor het notariaat heeft een secretaris en zo nodig een of meer plaatsvervangend secretarissen. Zij worden door de voorzitter van de kamer aangewezen uit de gerechtssecretarissen van de rechtbank.   
 9.  Tussen de voorzitter, plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van een kamer voor het notariaat mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het notarisambt.   
@@ -930,12 +930,12 @@ Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, ni
 ### Artikel  95  
 
 1.  Het lidmaatschap van de leden van de kamer voor het notariaat vervalt van rechtswege indien zij de kwaliteit verliezen waarin zij benoemd zijn, met dien verstande dat ten aanzien van een lid als bedoeld in artikel 94, vierde lid, dit kwaliteitsverlies alleen dan intreedt wanneer hij noch kandidaat-notaris, noch toegevoegd notaris, noch notaris is.   
-2.  Het in de artikelen [46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.   
-3.  De [artikelen 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden, met dien verstande dat: 
+2.  Het in de artikelen 46c, tweede lid, 46d, tweede lid, 46f, 46i met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste lid, aanhef en onder a, en derde lid, 46m, 46o en 46p van de Wet rechtspositie rechterlijke ambtenaren bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.   
+3.  De artikelen 13a, 13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid, en 13c tot en met 13g van de Wet op de rechterlijke organisatie zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden, met dien verstande dat: 
 
 a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de kamer voor het notariaat; en  
 
-b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.   
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 13a, te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.   
 
 ### Artikel  99  
 
@@ -961,7 +961,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 
 1.  De voorzitter van de kamer voor het notariaat kan naar aanleiding van een klacht een vooronderzoek gelasten naar een notaris, toegevoegd notaris of kandidaat-notaris, na afloop waarvan verslag wordt uitgebracht aan de kamer. Het Bureau ontvangt een afschrift van het verslag en alle daarbij behorende stukken.   
 2.  De voorzitter kan het verrichten van het vooronderzoek opdragen aan de plaatsvervangend voorzitter, een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.   
 3.  De voorzitter bepaalt de omvang van het vooronderzoek. Het vooronderzoek kan zich mede uitstrekken tot andere dan de in de klacht vermelde feiten. De voorzitter van de kamer kan de vooronderzoeker aanwijzingen geven.   
-4.  Op het vooronderzoek en de in het tweede lid bedoelde personen zijn artikel 111a, tweede lid, alsmede de [artikelen 5:13 tot en met 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+4.  Op het vooronderzoek en de in het tweede lid bedoelde personen zijn artikel 111a, tweede lid, alsmede de artikelen 5:13 tot en met 5:18 en 5:20, eerste lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 5.  Ten behoeve van het verrichten van het vooronderzoek door de aangewezen personen, bedoeld in het tweede lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
 6.  Bij het verrichten van vooronderzoek wordt een afschrift van de last tot het verrichten van het onderzoek zo mogelijk aan de betrokken notaris, toegevoegd notaris of kandidaat-notaris getoond.   
 7.  De vooronderzoeker stelt de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te worden gehoord.   
@@ -972,7 +972,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 
 
 ### Artikel  100  
 
-Zij die deel uitmaken van een kamer voor het notariaat kunnen zich verschonen en kunnen worden gewraakt, indien te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid schade zou kunnen lijden. [Titel IV van het Vierde Boek van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. 
+Zij die deel uitmaken van een kamer voor het notariaat kunnen zich verschonen en kunnen worden gewraakt, indien te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid schade zou kunnen lijden. Titel IV van het Vierde Boek van het Wetboek van Strafvordering is van overeenkomstige toepassing. 
 
 ### Artikel  101  
 
@@ -984,10 +984,10 @@ Zij die deel uitmaken van een kamer voor het notariaat kunnen zich verschonen en
 ### Artikel  102  
 
 1.  De kamer voor het notariaat kan getuigen en deskundigen horen. Zij worden daartoe bij aangetekende brief opgeroepen en zijn verplicht aan de oproeping gevolg te geven.   
-2.  Verschijnt een getuige of deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van de kamer hem dagvaarden. Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie op verzoek van de kamer hem andermaal dagvaarden desverzocht met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+2.  Verschijnt een getuige of deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van de kamer hem dagvaarden. Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie op verzoek van de kamer hem andermaal dagvaarden desverzocht met bevel tot medebrenging. Artikel 556 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 3.  De voorzitter kan een getuige onder ede horen. In dat geval moet hij verklaren dat hij de gehele waarheid en niets dan de waarheid zal zeggen. De getuige is verplicht op de gestelde vragen te antwoorden. De deskundige is gehouden zijn taak onpartijdig en naar beste weten te verrichten.   
-4.  Ten aanzien van de getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-5.  De getuigen en deskundigen ontvangen op verzoek op vertoon van hun oproeping of dagvaarding schadeloosstelling overeenkomstig het bij en krachtens de [Wet griffierechten burgerlijke zaken](../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.  
+4.  Ten aanzien van de getuigen en deskundigen zijn de artikelen 217 tot en met 219 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+5.  De getuigen en deskundigen ontvangen op verzoek op vertoon van hun oproeping of dagvaarding schadeloosstelling overeenkomstig het bij en krachtens de Wet griffierechten burgerlijke zaken bepaalde.  
 
 ### Artikel  103  
 
@@ -1011,11 +1011,11 @@ f. de ontzetting uit het ambt.
 6.  Een waarschuwing of berisping wordt door de voorzitter uitgesproken in een vergadering van de kamer, in aanwezigheid van de notaris, toegevoegd notaris of kandidaat-notaris, die daarvoor bij aangetekende brief wordt opgeroepen. Daarvan wordt proces-verbaal opgemaakt. De secretaris zendt een afschrift van het proces-verbaal bij aangetekende brief aan de notaris, toegevoegd notaris of kandidaat-notaris. Indien deze in de vergadering niet is verschenen, deelt de secretaris de inhoud van de waarschuwing of berisping bij aangetekende brief met bericht van ontvangst aan hem mee. De KNB ontvangt in beide gevallen een afschrift.   
 7.  Schorsing in de uitoefening van het ambt brengt mede verlies voor de duur van de schorsing van de betrekkingen, waarbij de hoedanigheid van notaris vereiste is voor de verkiesbaarheid of benoembaarheid. De geschorste notaris mag gedurende zijn schorsing de titel van notaris niet voeren.   
 8.  Een notaris die uit zijn ambt is ontzet kan niet meer tot notaris of waarnemer worden benoemd of aan een notaris worden toegevoegd.   
-9.  [Artikel 195 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van toepassing. 
+9.  Artikel 195 van het Wetboek van Strafrecht is van toepassing. 
 
 ### Artikel  103a  
 
-1.  De geldboete, bedoeld in artikel 103, eerste lid, onderdeel c, bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  De geldboete, bedoeld in artikel 103, eerste lid, onderdeel c, bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 2.  De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de notaris, toegevoegd notaris of kandidaat-notaris kan de voorzitter van de kamer voor het notariaat de termijn verlengen.   
 3.  Het bedrag van de opgelegde boete komt ten bate van de Staat.   
 4.  Wordt de boete niet voldaan binnen de termijn, krachtens het tweede lid gesteld, dan kan de kamer, na de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen een of meer tuchtrechtelijke maatregelen op te leggen als bedoeld in artikel 103, eerste lid, onderdelen c, e of f, de maatregel als bedoeld in artikel 103, derde lid, laatste deelzin.   
@@ -1075,32 +1075,32 @@ In geval van oplegging van schorsing in de uitoefening van het ambt, ontzetting 
 6.  Het bestuur wordt bijgestaan door een directeur, die belast is met de dagelijkse leiding van het Bureau. De directeur wordt aangesteld, geschorst en ontslagen door het bestuur. Het personeel van het Bureau wordt door het bestuur, op voordracht van de directeur, aangesteld, geschorst en ontslagen.   
 7.  Het bestuur stelt een bestuursreglement vast.   
 8.  De bestuursleden en het personeel van het Bureau moeten, alvorens zij hun taak aanvangen, voor de rechtbank in het arrondissement waarin de plaats van vestiging van het Bureau is gelegen de navolgende eed afleggen: «Ik zweer getrouwheid aan de Koning en de wet. Ik zweer dat ik mijn taak toegewijd en nauwgezet zal uitvoeren en dat ik, voor zover niet bij of krachtens de wet anders is bepaald, geheimhouding zal betrachten ten aanzien van alles waarvan ik uit hoofde van mijn taakvervulling kennis neem». De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsaflegging af aan de betrokkene.   
-9.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op het Bureau. 
+9.  De Kaderwet zelfstandige bestuursorganen is van toepassing op het Bureau. 
 
 ### Artikel  111  
 
 1.  Onze Minister verstrekt aan het Bureau een subsidie voor de kosten van de exploitatie van het Bureau.   
-2.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.    
-3.  De subsidie wordt per boekjaar verstrekt. [Afdeling 4.2.8](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 4:71](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van toepassing, met dien verstande dat: 
+2.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing.    
+3.  De subsidie wordt per boekjaar verstrekt. Afdeling 4.2.8, met uitzondering van de artikelen 4:71 en 4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht, is van toepassing, met dien verstande dat: 
 
-a.de overeenkomstig [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de [artikelen 4:60](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:61 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+a.de overeenkomstig artikel 26 van de Kaderwet zelfstandige bestuursorganen toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de artikelen 4:60 en 4:61 van de Algemene wet bestuursrecht;
 
-b.in afwijking van [artikel 4:63 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de inhoud van de begroting de [artikelen 27](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [28 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing zijn;
+b.in afwijking van artikel 4:63 van de Algemene wet bestuursrecht op de inhoud van de begroting de artikelen 27 en 28 van de Kaderwet zelfstandige bestuursorganen van toepassing zijn;
 
-c.het activiteitenverslag, bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt opgenomen in het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).  
+c.het activiteitenverslag, bedoeld in artikel 4:80 van de Algemene wet bestuursrecht, wordt opgenomen in het jaarverslag, bedoeld in artikel 18 van de Kaderwet zelfstandige bestuursorganen.  
 4.  Onze Minister kan voorschotten op de in het eerste lid bedoelde subsidie verlenen.  
 
 ### Artikel  111a  
 
 1.  De bij besluit van het bestuur van het Bureau aangewezen personen die werkzaam zijn bij het Bureau, zijn belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet. Van dat besluit wordt mededeling gedaan in de Staatscourant.   
-2.  In aanvulling op [artikel 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is een toezichthouder als bedoeld in het eerste lid, bevoegd om inzage te vorderen in persoonlijke gegevens en bescheiden, voorzover deze betrekking hebben op de persoonlijke financiële administratie van de notaris.   
+2.  In aanvulling op artikel 5:17 van de Algemene wet bestuursrecht is een toezichthouder als bedoeld in het eerste lid, bevoegd om inzage te vorderen in persoonlijke gegevens en bescheiden, voorzover deze betrekking hebben op de persoonlijke financiële administratie van de notaris.   
 3.  Ten behoeve van de uitoefening van het toezicht door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.  
 
 ### Artikel  111b  
 
 1.  Indien het Bureau bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die naar zijn oordeel voldoende grond opleveren voor het opleggen van een tuchtmaatregel, kan het een klacht indienen, tenzij toepassing wordt gegeven aan het tweede lid .   
 2.  Het Bureau kan voor de overtreding van het bepaalde bij of krachtens de artikelen 24, eerste tot en met vierde lid, en 25a, de overtreder een bestuurlijke boete en een last onder dwangsom opleggen.   
-3.  De bestuurlijke boete bedraagt ten hoogste het bedrag van de geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  De bestuurlijke boete bedraagt ten hoogste het bedrag van de geldboete van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 4.  Een bestuurlijke boete wordt niet opgelegd indien tegen de overtreder jegens dezelfde gedraging een klacht is ingediend.  
 
 ### Artikel  111c  
@@ -1109,7 +1109,7 @@ De ambtenaren van de rijksbelastingdienst doen van hetgeen hen bij de uitvoering
 
 ### Artikel  113  
 
-Het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt opgenomen in het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).
+Het verslag, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, wordt opgenomen in het verslag, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen.
 
 ###Titel IXa 
 
@@ -1130,9 +1130,9 @@ Het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../
 
 ### Artikel 113c 
 
-1. De [artikelen 1](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [2](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [20, tweede en derde lid](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [21](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [22 tot en met 106](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [110 tot en met 213](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, tweede en vijfde tot en met zevende lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van toepassing. 
-2. [Artikel 19 van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt. 
-3. De [artikelen 17](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [214, derde lid, van de Wet verplichte beroepspensioenregeling](../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) zijn van overeenkomstige toepassing.
+1. De artikelen 1, 2, 20, tweede en derde lid, 21, 22 tot en met 106, 110 tot en met 213 en 214, tweede en vijfde tot en met zevende lid, van de Wet verplichte beroepspensioenregeling zijn van toepassing. 
+2. Artikel 19 van de Wet verplichte beroepspensioenregeling is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt. 
+3. De artikelen 17 en 214, derde lid, van de Wet verplichte beroepspensioenregeling zijn van overeenkomstige toepassing.
 
 ### Titel  X  
 
@@ -1221,7 +1221,7 @@ Artikel 48 is uitsluitend van toepassing op verzoeken die worden gedaan na het t
 
 ### Artikel  131  
 
-Archiefbescheiden van het Centraal Bureau van Bijstand gaan met ingang van de datum van inwerkingtreding van deze wet over naar het Bureau, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats. 
+Archiefbescheiden van het Centraal Bureau van Bijstand gaan met ingang van de datum van inwerkingtreding van deze wet over naar het Bureau, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  132  
 

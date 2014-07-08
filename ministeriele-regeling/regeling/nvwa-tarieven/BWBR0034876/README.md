@@ -5,9 +5,9 @@
 De Staatssecretaris van Economische Zaken,  
 Gelet op verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165);
 
-Gelet op de [artikelen 10, eerste en tweede lid, onderdeel c](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [94](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [94a](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [94b van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 9.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md);
+Gelet op de artikelen 10, eerste en tweede lid, onderdeel c, 94, 94a en 94b van de Gezondheids- en welzijnswet voor dieren en artikel 9.1 van de Wet dieren;
 
-Gelet op [artikel 6a van de Plantenziektenwet](../../../../wet/plantenziektenwet/BWBR0002075/README.md);
+Gelet op artikel 6a van de Plantenziektenwet;
 Besluit:     
 ### §  1  
 
@@ -181,7 +181,7 @@ c. op de certificaten of geleidebiljetten wordt hetzelfde oorsprongs- en bestemm
 ### Artikel  9  
 
 1.  Voor werkzaamheden als bedoeld in bijlage E bij deze regeling is de aanbieder een retributie verschuldigd die overeenkomt met de werkelijke kosten van de werkzaamheden, met inbegrip van en voor zover van toepassing, de kosten verbonden aan de met de voorbereiding en met de controle belaste personen van de NVWA en de kosten van laboratoriumonderzoek.   
-2.  Indien het laboratoriumonderzoek, bedoeld in onderdeel d, onder 3 van bijlage E bij deze regeling, wordt uitgevoerd op de monsters van landbouwhuisdieren als bedoeld in de [Regeling verbod handel met bepaalde stoffen behandelde dieren en producten](../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md), of van de van deze dieren afkomstige producten, en deze landbouwhuisdieren afkomstig zijn van een bedrijf dat overeenkomstig [artikel 4 van die regeling](../../../../ministeriele-regeling/regeling/verbod/handel/met/bepaalde/stoffen/behandelde/dieren/en/producten/BWBR0008825/README.md) onder officieel toezicht is geplaatst, is, in zoverre in afwijking van het eerste lid, uitsluitend de exploitant van het desbetreffende bedrijf waarvan de dieren afkomstig zijn, de retributie, bedoeld in het eerste lid, verschuldigd.  
+2.  Indien het laboratoriumonderzoek, bedoeld in onderdeel d, onder 3 van bijlage E bij deze regeling, wordt uitgevoerd op de monsters van landbouwhuisdieren als bedoeld in de Regeling diergeneesmiddelen, of van de van deze dieren afkomstige producten, en deze landbouwhuisdieren afkomstig zijn van een bedrijf dat overeenkomstig artikel 8.11, eerste lid, van die regeling onder officieel toezicht is geplaatst, is, in zoverre in afwijking van het eerste lid, uitsluitend de exploitant van het desbetreffende bedrijf waarvan de dieren afkomstig zijn, de retributie, bedoeld in het eerste lid, verschuldigd.  
 
 ### Artikel  10  
 
@@ -198,11 +198,11 @@ b. een bedrag van € 13,00 per kwartier dat aan de keuring door deze officiël
 
 a. het toepasselijke geslacht gewicht, genoemd in bijlage G bij deze regeling, of  
 
-b. het gewicht dat is bepaald op basis van weging van het desbetreffende karkas aan de hand van een meetinstrument dat voldoet aan de eisen die daaraan bij of krachtens [artikel 5 van de Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) zijn gesteld.    
+b. het gewicht dat is bepaald op basis van weging van het desbetreffende karkas aan de hand van een meetinstrument dat voldoet aan de eisen die daaraan bij of krachtens artikel 5 van de Metrologiewet zijn gesteld.    
 
 ### Artikel  12  
 
-1.  De aanvrager van een herkeuring, bedoeld in [artikel 2.9 van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), is een retributie verschuldigd, bestaande uit een bedrag van € 489,31.   
+1.  De aanvrager van een herkeuring, bedoeld in artikel 2.9 van de Regeling dierlijke producten, is een retributie verschuldigd, bestaande uit een bedrag van € 489,31.   
 2.  De retributie, bedoeld in het eerste lid, is niet verschuldigd als de oorspronkelijke keuringsbeslissing niet in stand wordt gelaten.  
 
 ### Artikel  13  
@@ -213,7 +213,7 @@ a. een aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 
 
 b. een aanvraag tot toestemming voor vervoer naar een andere installatie als bedoeld in bijlage IV, hoofdstuk IV, afdeling 2, onderdeel F, van verordening (EG) nr. 142/2011;  
 
-c. een aanvraag tot vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en [artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md).   
+c. een aanvraag tot vergunning voor de invoer van een handelsmonster als bedoeld in artikel 13, eerste lid, van richtlijn nr. 92/118/EEG en artikel 2.4.2.6, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten.   
 
 ### Artikel  14  
 
@@ -224,43 +224,43 @@ c. een aanvraag tot vergunning voor de invoer van een handelsmonster als bedoeld
 
 Een retributie van € 36,48 is verschuldigd door degene die een aanvraag indient tot een registratie dan wel tot een wijziging van deze registratie als bedoeld in: 
 
-a. [artikel 14 van de Regeling diervoeders 2012](../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md);  
+a. artikel 14 van de Regeling diervoeders 2012;  
 
-b. de [artikelen 2.62, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [8.7, eerste lid, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+b. de artikelen 2.62, eerste lid, en 8.7, eerste lid, van de Regeling handel levende dieren en levende producten;  
 
-c. [artikel 2.6, zesde lid, van de Regeling tijdelijke maatregelen dierziekten](../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md);  
+c. artikel 2.6, zesde lid, van de Regeling tijdelijke maatregelen dierziekten;  
 
-d. [artikel 3.1.2., eerste lid, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md);  
+d. artikel 3.1.2., eerste lid, van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten;  
 
 e. artikel 23 van verordening (EG) nr. 1069/2009.   
 
 ### Artikel  16  
 
-Voor de afgifte van het document, bedoeld in [artikel 34, eerste lid, van de Regeling diervoeders 2012](../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md), wordt een retributie van € 27,84 in rekening gebracht. 
+Voor de afgifte van het document, bedoeld in artikel 34, eerste lid, van de Regeling diervoeders 2012, wordt een retributie van € 27,84 in rekening gebracht. 
 
 ### Artikel  17  
 
-1.  Degene die een aanvraag indient voor een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), is voor de behandeling van de aanvraag een vergoeding verschuldigd.   
+1.  Degene die een aanvraag indient voor een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria, is voor de behandeling van de aanvraag een vergoeding verschuldigd.   
 2.  De in het eerste lid bedoelde vergoeding komt overeen met de werkelijke kosten van de uitgevoerde werkzaamheden.   
-3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in [artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met de werkelijke kosten voor het uitvoeren van de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad of door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.   
-4.  Voor zover voor de erkenning van een laboratorium is deelgenomen aan een ringtest als bedoeld in [artikel 8 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, wordt de vergoeding vermeerderd met de werkelijke kosten voor deze ringtest.  
+3.  Voor zover voor de erkenning van een laboratorium een audit als bedoeld in artikel 7 van de Regeling erkenning en aanwijzing veterinaire laboratoria wordt verricht, wordt de vergoeding, bedoeld in het tweede lid, per erkenning vermeerderd met de werkelijke kosten voor het uitvoeren van de audit door het Centraal Veterinair Instituut, gevestigd te Lelystad of door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.   
+4.  Voor zover voor de erkenning van een laboratorium is deelgenomen aan een ringtest als bedoeld in artikel 8 van de Regeling erkenning en aanwijzing veterinaire laboratoria, georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, wordt de vergoeding vermeerderd met de werkelijke kosten voor deze ringtest.  
 
 ### Artikel  18  
 
-1.  De houder van een erkenning als bedoeld in [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) voor een testmethode als bedoeld in de [bijlage bij die regeling](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, of het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, bedoeld in de [artikelen 15](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) en [16 van die regeling](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md).   
+1.  De houder van een erkenning als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria voor een testmethode als bedoeld in de bijlage bij die regeling is een vergoeding verschuldigd voor werkzaamheden die ten behoeve van de instandhouding van de erkenning zijn verricht, waaronder begrepen de werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, of het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven, bedoeld in de artikelen 15 en 16 van die regeling.   
 2.  De vergoeding, bedoeld in het eerste lid, bedraagt per erkenning: 
 
-a. de werkelijke kosten per uitgevoerde audit, ringtest, intern controlemonster en eventueel aanvullend onderzoek, indien het een testmethode als bedoeld in de [bijlage](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), onder 2 tot en met 10, betreft;  
+a. de werkelijke kosten per uitgevoerde audit, ringtest, intern controlemonster en eventueel aanvullend onderzoek, indien het een testmethode als bedoeld in de bijlage, onder 2 tot en met 10, betreft;  
 
-b. de werkelijke kosten per uitgevoerde audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, vermeerderd met de werkelijke kosten voor de door het erkend laboratorium uitgevoerde BSE-test voor de desbetreffende werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, indien het een testmethode als bedoeld in de [bijlage](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), onder 1, betreft;  
+b. de werkelijke kosten per uitgevoerde audit door het Centraal Veterinair Instituut, gevestigd te Lelystad, vermeerderd met de werkelijke kosten voor de door het erkend laboratorium uitgevoerde BSE-test voor de desbetreffende werkzaamheden van het Centraal Veterinair Instituut, gevestigd te Lelystad, indien het een testmethode als bedoeld in de bijlage, onder 1, betreft;  
 
-c. de werkelijke kosten per uitgevoerde audit, ringtest en eventueel aanvullend onderzoek, indien het een testmethode als bedoeld in de [bijlage](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md), onder 11, betreft.    
+c. de werkelijke kosten per uitgevoerde audit, ringtest en eventueel aanvullend onderzoek, indien het een testmethode als bedoeld in de bijlage, onder 11, betreft.    
 
 ### Artikel  19  
 
 In de volgende gevallen is de aanvrager een retributie verschuldigd die overeenkomt met de werkelijke kosten van de uitgevoerde werkzaamheden: 
 
-a. voor de behandeling en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de [artikelen 56](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)’;  
+a. voor de behandeling en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de artikelen 56 en 57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s’;  
 
 b. voor de behandeling en afhandeling van een aanvraag tot toestemming als bedoeld in artikel 3, tweede lid, van verordening (EG) nr. 1831/2003.   
 
@@ -425,7 +425,7 @@ Wijzigt de Regeling diervoeders 2012.
 
 ### Artikel  32  
 
-De [Regeling retributies veterinaire en hygiënische aangelegenheden I](../../../../ministeriele-regeling/regeling/retributies/veterinaire/en/hygiënische/aangelegenheden/i/BWBR0025812/README.md) wordt ingetrokken. 
+De Regeling retributies veterinaire en hygiënische aangelegenheden I wordt ingetrokken. 
 
 ### Artikel  33  
 
@@ -457,9 +457,9 @@ d. controles als bedoeld in artikel 4, tweede lid, en artikel 5, eerste lid, van
 
 4. gekweekt wild als bedoeld in bijlage I, onderdeel 1.6, van verordening (EG) nr. 853/2004;    
 
-e. werkzaamheden ten behoeve van een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004, voor zover het een levensmiddelenbedrijf betreft waarop de [Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md) van toepassing is, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die erkenning verbonden eisen;  
+e. werkzaamheden ten behoeve van een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004, voor zover het een levensmiddelenbedrijf betreft waarop de Regeling dierlijke producten van toepassing is, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die erkenning verbonden eisen;  
 
-f. de behandeling en afhandeling van een aanvraag tot toestemming als bedoeld in [artikel 3.2 van de Regeling dierlijke producten](../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die toestemming verbonden eisen;  
+f. de behandeling en afhandeling van een aanvraag tot toestemming als bedoeld in artikel 3.2 van de Regeling dierlijke producten, met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die toestemming verbonden eisen;  
 
 g. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 24 van verordening (EG) nr. 1069/2009, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die erkenning verbonden eisen;  
 
@@ -471,31 +471,33 @@ j. de behandeling en afhandeling van een aanvraag tot erkenning van een speciaal
 
 k. de behandeling en afhandeling van een aanvraag om te worden voorgedragen voor erkenning door de Europese Commissie als grensinspectiepost, overeenkomstig artikel 6, tweede lid, van richtlijn (EG) nr. 97/78/EG en beschikking nr. 2001/812/EG;  
 
-l. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in [artikel 14 van de Regeling diervoeders 2012](../../../../ministeriele-regeling/regeling/diervoeders/2010/BWBR0028123/README.md) dan wel tot wijziging van die erkenning, voor zover dit betrekking heeft op de werkzaamheden van een afzonderlijke ambtenaar in het kader van onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de desbetreffende erkenning;  
+l. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 14 van de Regeling diervoeders 2012 dan wel tot wijziging van die erkenning, voor zover dit betrekking heeft op de werkzaamheden van een afzonderlijke ambtenaar in het kader van onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de desbetreffende erkenning;  
 
 m. door de NVWA aangekondigde en vastgelegde periodieke controles bij een inrichting als bedoeld in artikel 10 van verordening (EG) nr. 183/2005 op de naleving van de voorschriften verbonden aan de erkenning ten behoeve van de instandhouding daarvan;  
 
 n. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot toevoegingsmiddelen, voormengsels of diervoeders;  
 
-o. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, voor zover die geen betrekking hebben op keurings- of toezichtswerkzaamheden in verband met de werkzaamheden, bedoeld in bijlage B en C.   
+o. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, voor zover die geen betrekking hebben op keurings- of toezichtswerkzaamheden in verband met de werkzaamheden, bedoeld in bijlage B en C;  
+
+p. de behandeling en afhandeling van een aanvraag voor een vergunning voor vervaardiging of invoer als bedoeld in artikel 7.1, onderdeel a, van het Besluit diergeneesmiddelen, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die vergunning verbonden eisen.  
 
 ### Bijlage  B  
 
-a. onderzoek als bedoeld in [artikel 77 van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee of pluimvee;  
+a. onderzoek als bedoeld in artikel 77 van de Gezondheids- en welzijnswet voor dieren, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee of pluimvee;  
 
-b. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten bestemd voor een lidstaat, voor zover het dieren of producten betreft als bedoeld in richtlijn nr. 92/65/EEG, niet zijnde bijen;  
+b. onderzoek als bedoeld in artikel 2.5, aanhef en onderdelen f, g, h, onderscheidenlijk i, van de Regeling handel levende dieren en levende producten, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van dieren of producten bestemd voor een lidstaat, voor zover het dieren of producten betreft als bedoeld in richtlijn nr. 92/65/EEG, niet zijnde bijen;  
 
-c. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel d, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
+c. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel d, van de Regeling handel levende dieren en levende producten, in samenhang met artikel 8, eerste lid, van richtlijn nr. 2009/158/EG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van broedeieren als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2009/158/EG, bestemd voor een lidstaat;  
 
-d. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
+d. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten, in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 88/407/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van runderen als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 88/407/EEG, bestemd voor een lidstaat;  
 
-e. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens als bedoeld in artikel 2 van richtlijn nr. 90/429/EEG, bestemd voor een lidstaat;  
+e. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel g, van de Regeling handel levende dieren en levende producten, in samenhang met de artikelen 3 en 6, eerste lid, van richtlijn nr. 90/429/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van sperma van varkens als bedoeld in artikel 2 van richtlijn nr. 90/429/EEG, bestemd voor een lidstaat;  
 
-f. onderzoek als bedoeld in [artikel 2.5, aanhef en onderdeel h, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), in samenhang met de artikelen 3 en 6 van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van een embryo als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, bestemd voor een lidstaat;  
+f. onderzoek als bedoeld in artikel 2.5, aanhef en onderdeel h, van de Regeling handel levende dieren en levende producten, in samenhang met de artikelen 3 en 6 van richtlijn nr. 89/556/EEG, voor zover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van een embryo als bedoeld in artikel 2, onderdeel a, van richtlijn nr. 89/556/EEG, bestemd voor een lidstaat;  
 
-g. werkzaamheden ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in [artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+g. werkzaamheden ten behoeve van een handelsdocument voor papegaaiachtigen als bedoeld in artikel 8.8, vierde lid, van de Regeling handel levende dieren en levende producten;  
 
-h. werkzaamheden ten behoeve van een diergezondheidscertificaat bij een partij aquacultuurdieren als bedoeld in [artikel 8.2.2 van de Regeling aquacultuur](../../../../ministeriele-regeling/regeling/aquacultuur/BWBR0024256/README.md);  
+h. werkzaamheden ten behoeve van een diergezondheidscertificaat bij een partij aquacultuurdieren als bedoeld in artikel 8.2.2 van de Regeling aquacultuur;  
 
 i. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van het onderzoek van levende dieren of levende producten van dierlijke oorsprong, bestemd om anders dan in doorvoer buiten Nederland te worden gebracht, voor zover dit onderzoek verband houdt met de door het land van bestemming aan de invoer gestelde eisen, dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land;  
 
@@ -503,15 +505,15 @@ j. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden 
 
 k. toepassing van de maatregelen, bedoeld in sectie II, hoofdstuk II, punt 5, van bijlage I bij verordening (EG) nr. 854/2004 en bij controles op het bedrijf van herkomst als bedoeld in sectie II, hoofdstuk III, punt 1, van bijlage I bij verordening (EG) nr. 854/2004;  
 
-l. controlewerkzaamheden als bedoeld in [artikel 18, tweede lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+l. controlewerkzaamheden als bedoeld in artikel 18, tweede lid, van de Gezondheids- en welzijnswet voor dieren;  
 
-m. werkzaamheden ten behoeve van een aanwijzing als bedoeld in [artikel 44, vierde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die aanwijzing verbonden eisen;  
+m. werkzaamheden ten behoeve van een aanwijzing als bedoeld in artikel 44, vierde lid, van de Gezondheids- en welzijnswet voor dieren alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die aanwijzing verbonden eisen;  
 
-n. werkzaamheden ten behoeve van een erkenning als bedoeld in de [artikelen 2.50a, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.50b](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.63](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [3.15, eerste en tweede lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [4.10](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [6.8, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [7.9](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.6, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.6a, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [8.14, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.10, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.10a, eerste en tweede lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.11, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [9.12](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [10.9, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [10.10, eerste lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [10.11 van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), de [artikelen 21, eerste en vierde lid](../../../../ministeriele-regeling/regeling/halteplaatsen/BWBR0010527/README.md), en [20 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), de [artikelen 3, eerste lid](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), en [9, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) en [artikel 3, eerste lid, va de Regeling controleposten](../../../../ministeriele-regeling/regeling/halteplaatsen/BWBR0010527/README.md) alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die erkenning verbonden eisen;  
+n. werkzaamheden ten behoeve van een erkenning als bedoeld in de artikelen 2.50a, eerste lid, 2.50b, 2.63, 3.15, eerste en tweede lid, 4.10, 6.8, eerste lid, 7.9, 8.6, eerste lid, 8.6a, eerste lid, 8.14, eerste lid, 9.10, eerste lid, 9.10a, eerste en tweede lid, 9.11, eerste lid, 9.12, 10.9, eerste lid, 10.10, eerste lid, en 10.11 van de Regeling handel levende dieren en levende producten, de artikelen 21, eerste en vierde lid, en 20 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, de artikelen 3, eerste lid, en 9, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra en artikel 3, eerste lid, va de Regeling controleposten alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die erkenning verbonden eisen;  
 
 o. de behandeling en afhandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 4, eerste lid, van richtlijn nr. 2006/88/EG alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke contoles op de naleving van de aan die vergunning verbonden eisen;  
 
-p. de behandeling en afhandeling van een aanvraag tot erkenning van een compartiment als bedoeld in de artikelen 4 en 6 van verordening (EG) nr. 616/2009 in samenhang met [artikel 113b van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);  
+p. de behandeling en afhandeling van een aanvraag tot erkenning van een compartiment als bedoeld in de artikelen 4 en 6 van verordening (EG) nr. 616/2009 in samenhang met artikel 113b van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s;  
 
 q. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, voor zover betrekking hebbend op werkzaamheden in verband met levende dieren of erkenningen dienaangaande, met uitzondering van de werkzaamheden, bedoeld in bijlage A en C.   
 
@@ -523,17 +525,17 @@ a. invoercontrole als bedoeld in artikel 9, eerste lid, van richtlijn nr. 97/78/
 
 b. keuringen en controles bij de inslag, opslag of uitslag als bedoeld in artikel 12, vijfde lid, tweede, derde en vierde gedachtestreep, van richtlijn nr. 97/78/EG van degene die een partij producten van dierlijke oorsprong heeft ingeslagen, opgeslagen, onderscheidenlijk uitgeslagen uit een douane-entrepot, een ruimte voor tijdelijke opslag of een vrij entrepot;  
 
-c. keuringen en controles als bedoeld in [artikel 2.50f van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) onderscheidenlijk artikel 18 van verordening (EU) nr. 139/2013;  
+c. keuringen en controles als bedoeld in artikel 2.50f van de Regeling handel levende dieren en levende producten onderscheidenlijk artikel 18 van verordening (EU) nr. 139/2013;  
 
 d. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, voor zover betrekking hebbend op werkzaamheden als bedoeld in de artikelen 6 en 7.   
 
 ####Onderdeel II (werkzaamheden tegen stuktarief)
 
-a. controle bij invoer als bedoeld in artikel 4 van richtlijn nr. 97/78/EG en [artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten](../../../../ministeriele-regeling/regeling/veterinairrechtelijke/voorschriften/handel/dierlijke/producten/BWBR0019235/README.md);  
+a. controle bij invoer als bedoeld in artikel 4 van richtlijn nr. 97/78/EG en artikel 3.2.2.4 van de Regeling veterinairrechtelijke voorschriften handel dierlijke producten;  
 
 b. controle bij doorvoer als bedoeld in artikel 11, tweede lid, van richtlijn nr. 97/78/EG;  
 
-c. onderzoek als bedoeld in de [artikelen 2.34](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.35](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), [2.36](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) en [2.44, vijfde, zesde, zevende, negende en tiende lid, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), ter zake van: 
+c. onderzoek als bedoeld in de artikelen 2.34, 2.35, 2.36 en 2.44, vijfde, zesde, zevende, negende en tiende lid, van de Regeling handel levende dieren en levende producten, ter zake van: 
 
 1. diersoorten als bedoeld in richtlijn nr. 92/65/EEG;  
 
@@ -541,7 +543,7 @@ c. onderzoek als bedoeld in de [artikelen 2.34](../../../../ministeriele-regelin
 
 3. diersoorten als bedoeld in beschikking nr. 97/794/EG;  
 
-4. levende producten als bedoeld in de [Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md).     
+4. levende producten als bedoeld in de Regeling handel levende dieren en levende producten.     
 
 ### Bijlage  D  
 
@@ -551,15 +553,17 @@ b. werkzaamheden in het kader van het op verzoek van de aanbieder afgeven van ee
 
 c. werkzaamheden als bedoeld in onderdeel b, terwijl de aanvraag tot afgifte van een certificaat, gewaarmerkt afschrift van een certificaat of geleidebiljet of verklaring als bedoeld in onderdeel b wordt ingetrokken, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, voor zover deze melding niet tijdig is gedaan volgens artikel 26, vierde lid;  
 
-d. het op verzoek van een belanghebbende afgeven van verklaringen ten behoeve van de export van diergeneesmiddelen of registratie daarvan in het buitenland.   
+d. het op verzoek van een belanghebbende afgeven van verklaringen ten behoeve van de export van diergeneesmiddelen of registratie daarvan in het buitenland;  
+
+e. het verstrekken van de verklaring, bedoeld in artikel 7.10, tweede lid, van het Besluit diergeneesmiddelen.  
 
 ### Bijlage  E  
 
 a. controles die worden verricht ter uitvoering van krachtens richtlijn nr. 89/662/EEG, richtlijn nr. 90/425/EG, richtlijn nr. 2006/88/EG, richtlijn nr. 92/118/EEG, richtlijn nr. 97/78/EG, verordening (EG) nr. 999/2001, verordening (EG) nr. 178/2002, verordening (EG) nr. 1069/2009, richtlijn nr. 2202/99/EG of verordening (EG) nr. 882/2004 vastgestelde communautaire uitvoeringsmaatregelen, indien die maatregel ten opzichte van de reguliere controles in de genoemde communautaire maatregelen aanvullende of afwijkende controles voorschrijft voor producten van dierlijke oorsprong;  
 
-b. onderzoeken en keuringen die worden verricht op grond van [artikel 2.39, tweede lid](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), en [artikel 2.48, tweede lid, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md);  
+b. onderzoeken en keuringen die worden verricht op grond van artikel 2.39, tweede lid, en artikel 2.48, tweede lid, van de Regeling handel levende dieren en levende producten;  
 
-c. onderzoek op grond van de [artikelen 26, vijfde lid, onder d](../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), en [38j, vijfde lid, van de Regeling identificatie en registratie van dieren](../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) naar stoffen waarvan de toediening is verboden, of waarvan de aanwezigheid een bij Europese of nationale maatregel vastgestelde maximumhoeveelheid overschrijdt;  
+c. onderzoek op grond van de artikelen 26, vijfde lid, onder d, en 38j, vijfde lid, van de Regeling identificatie en registratie van dieren naar stoffen waarvan de toediening is verboden, of waarvan de aanwezigheid een bij Europese of nationale maatregel vastgestelde maximumhoeveelheid overschrijdt;  
 
 d. laboratoriumonderzoek dat in het kader van de werkzaamheden, bedoeld in onderdeel d van bijlage A bij deze regeling, noodzakelijk is om: 
 

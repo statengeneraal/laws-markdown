@@ -15,13 +15,13 @@ Gelet op beschikking nr. 2004/226/EG van de Commissie van de Europese Gemeenscha
 
 Gelet op beschikking nr. 2004/558/EG van de Commissie van de Europese Gemeenschappen van 15 juli 2004 tot uitvoering van Richtlijn 64/432/EEG van de Raad voor wat betreft aanvullende garanties voor het intracommunautaire handelsverkeer in runderen ten aanzien van infectieuze boviene rhinotracheïtis en de goedkeuring van de door sommige lidstaten ingediende uitroeiingsprogramma’s (PbEU L 249);
 
-Gelet op [artikel 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [77](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [78](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [80](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [94 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
+Gelet op artikel 10, 77, 78, 80 en 94 van de Gezondheids- en welzijnswet voor dieren;
 
-Gelet op [artikel 19](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [22a](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [22b van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+Gelet op artikel 19, 22a, 22b van de Landbouwwet;
 
-Gelet op [artikel 5 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten](../../../../../../../../AMvB/besluit/inzake/het/in/de/handel/brengen/van/dieren/en/producten/en/de/etc/BWBR0006659/README.md);
+Gelet op artikel 5 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten;
 
-Gelet op [artikel 9 van het Besluit eisen dierlijk sperma en spermawincentra](../../../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);
+Gelet op artikel 9 van het Besluit eisen dierlijk sperma en spermawincentra;
 Besluit:     
 ### Paragraaf  1  
 
@@ -55,11 +55,13 @@ k. beschikking 2004/226/EG: beschikking nr. 2004/226/EG van de Commissie van de 
 
 l. beschikking 2004/558/EG: beschikking nr. 2004/558/EG van de Commissie van de Europese Gemeenschappen van 15 juli 2004 tot uitvoering van Richtlijn 64/432/EEG van de Raad voor wat betreft aanvullende garanties voor het intracommunautaire handelsverkeer in runderen ten aanzien van infectieuze boviene rhinotracheïtis en de goedkeuring van de door sommige lidstaten ingediende uitroeiïngsprogramma’s (PbEU L 249);  
 
-m. *NVWA*: Nederlandse Voedsel- en Warenautoriteit;  
+m. NVWA: Nederlandse Voedsel- en Warenautoriteit;  
 
 n. RvA: Raad voor Accreditatie;  
 
-o.  *minister:* Minister van Economische Zaken.  
+o.  *minister:* Minister van Economische Zaken; 
+
+o.  Richtlijn 92/66/EEG: Richtlijn 92/66/EEG van de Raad van 14 juli 1992 tot vaststelling van communautaire maatregelen voor de bestrijding van de ziekte van Newcastle (PbEG 1992, L 260).  
 
 ### Artikel  2  
 
@@ -136,7 +138,7 @@ b. indien artikel 7 van toepassing is, de door het laboratorium in het kader van
 
 ### Artikel  13  
 
-1.  Het laboratorium meldt niet-negatieve testresultaten, voor zover de testresultaten betrekking hebben op een aangewezen besmettelijke dierziekte als bedoeld in de [artikelen 2 tot en met 9 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md), onmiddellijk telefonisch en per fax of elektronisch aan de NVWA en stuurt de monsters direct naar het Centraal Veterinair Instituut, te Lelystad voor bevestigingsonderzoek.   
+1.  Het laboratorium meldt niet-negatieve testresultaten, voor zover de testresultaten betrekking hebben op een aangewezen besmettelijke dierziekte als bedoeld in de artikelen 2 tot en met 9 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, onmiddellijk telefonisch en per fax of elektronisch aan de NVWA en stuurt de monsters direct naar het Centraal Veterinair Instituut, te Lelystad voor bevestigingsonderzoek.   
 2.  Het laboratorium meldt niet-negatieve testresultaten van het onderzoek, bedoeld in de bijlage, onder 8, en de testresultaten van het onderzoek, bedoeld in de bijlage, onder 9, tevens schriftelijk of elektronisch aan het Productschap voor Vee en Vlees.  
 3.  In afwijking van het eerste lid, stuurt het laboratorium monsters die niet-negatieve testresultaten geven op Trichinellose direct naar het Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven.
 
@@ -204,11 +206,12 @@ d. het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen
 ### Artikel  19  
 
 1.  Het Centraal Veterinair Instituut, te Lelystad voert de ingevolge de TSE-verordening te verrichten onderzoeken op overdraagbare spongiforme encefalopathieën uit, met uitzondering van het onderzoek, bedoeld in de bijlage, onder 1, dat wordt uitgevoerd door op grond van artikel 3 erkende laboratoria.   
-2.  De Gezondheidsdienst voor Dieren is aangewezen als laboratorium als bedoeld in [artikel 13, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md).  
+2.  De Gezondheidsdienst voor Dieren is aangewezen als laboratorium als bedoeld in artikel 13, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.  
 
 ### Artikel  20  
 
-Het Centraal Veterinair Instituut, te Lelystad is aangewezen om de onderzoeken, bedoeld in de bijlage, onder 1 tot en met 10 en 12 tot en met 25, uit te voeren. 
+1. Het Centraal Veterinair Instituut, te Lelystad is aangewezen om de onderzoeken, bedoeld in de bijlage, onder 1 tot en met 10 en 12 tot en met 25, uit te voeren.  
+2.  De Gezondheidsdienst voor dieren wordt aangewezen om het onderzoek, bedoeld in de bijlage, onder 26 en 27, uit te voeren. 
 
 ### Artikel  20a  
 
@@ -232,7 +235,7 @@ Innovative Modern Agriculture IMA - Wageningen B.V. wordt aangewezen als testlab
 
 ### Artikel  20f  
 
-De Gezondheidsdienst voor Dieren wordt aangewezen als laboratorium, bedoeld in [artikel 5.1.3 van de Regeling tijdelijke maatregelen dierziekten](../../../../../../../../ministeriele-regeling/regeling/tijdelijke/maatregelen/dierziekten/BWBR0022975/README.md). 
+De Gezondheidsdienst voor Dieren wordt aangewezen als laboratorium, bedoeld in artikel 5.1.3 van de Regeling tijdelijke maatregelen dierziekten. 
 
 ### Artikel  20g  
 
@@ -257,7 +260,7 @@ Het Centraal Veterinair Instituut, te Lelystad, en het Rijksinstituut voor Volks
 ### Artikel  22  
 
 1.  Erkenningen die zijn verleend op grond van de Regeling erkenning laboratoria snelle BSE-testen worden geacht te zijn verleend op grond van artikel 3 van deze regeling.   
-2.  De Gezondheidsdienst voor Dieren b.v. die op grond van [artikel 7 van de Regeling rundersperma](../../../../../../../../ministeriele-regeling/regeling/rundersperma/BWBR0012616/README.md) en op grond van [artikel 12, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) is aangewezen, blijft tot vier maanden na inwerkingtreding van deze regeling aangewezen voor de uitvoering van de onderzoeken, bedoeld in de bijlage, onder 2 tot en met 8.  
+2.  De Gezondheidsdienst voor Dieren b.v. die op grond van artikel 7 van de Regeling rundersperma en op grond van artikel 12, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s is aangewezen, blijft tot vier maanden na inwerkingtreding van deze regeling aangewezen voor de uitvoering van de onderzoeken, bedoeld in de bijlage, onder 2 tot en met 8.  
 
 ### Artikel  23  
 
@@ -300,7 +303,7 @@ C.P. Veerman
 | 5  | BVD/MD als bedoeld in:  – bijlage B, hoofdstuk I en II, van richtlijn 88/407/EEG  – export derde landen  | Een BVDV-antigeen ELISA en BVDV-antilichaam ELISA  |
 | 6  | Campylobacter fetus ssp. Venerealis als bedoeld in:  – bijlage B, hoofdstuk I en II, van richtlijn 88/407/EEG  – export derde landen  | Een bacteriologisch onderzoek door middel van kweek van praeputiaal of vaginaal spoelsels  |
 | 7  | Trichomonas foetus als bedoeld in:  – bijlage B, hoofdstuk I en II van richtlijn 88/407/EEG  – export derde landen  | Een cultureel onderzoek door middel van kweek van praeputiaal of vaginaal spoelsels  |
-| 8  | Aujeszky als bedoeld in:  – beschikking 2001/618/EG  – [artikel 12 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)  – verordening bestrijding ziekte van Aujeszky 2002<sup>1</sup>   export derde landen  | Een gE ELISA of een Auj-gB ELISA  |
+| 8  | Aujeszky als bedoeld in:  – beschikking 2001/618/EG  – artikel 12 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  – verordening bestrijding ziekte van Aujeszky 2002<sup>1</sup>   export derde landen  | Een gE ELISA of een Auj-gB ELISA  |
 | 9  | Genotypering van schapen:  – verordening fokken van TSE-ongevoelige schapen (PVV) 2004<sup>2</sup>   | Elke methode ter bepaling van de aminozuren op codons 136, 154, en 171 van het PrP gen van beide allelen die door het Centraal Veterinair Instituut, te Lelystad als voldoende betrouwbaar wordt beoordeeld.  |
 |10. |Doelmatigheid van antirabiësvaccins serologische tests als bedoel in artikel 3, eerste lid van beschikking 2000/258/EG | --- |
 |11. | Onderzoek naar trichinella als bedoeld in artikel 2, eerste lid, tweede alinea, en derde lid, derde alinea, van verordening (EG) nr. 2075/2005 |De referentiemethode als bedoeld in bijlage I, van verordening (EG) nr. 2075/2005, met eventueel daarbij één of meer gelijkwaardige methoden als bedoeld in hoofdstuk II van bijlage I van de verordening |
@@ -318,5 +321,7 @@ C.P. Veerman
 |23. |Vesiculaire stomatitis (VS) |ELISA  Complementbindingsreactie |
 |24. |West Nile koorts (WNF) |IgM capture ELISA (=MAC ELISA) |
 |25. |Brucella melitensis |De Bengaals-rood test (RBT) als genoemd in bijlage C van de Richtlijn 91/96/EEG |
+|26. |Onderzoek naar de werking van vaccinatie tegen Newcastle disease als bedoeld in artikel 93c van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s | De methode, bedoeld in bijlage III, hoofdstuk 6 van Richtlijn 92/66/EEG  |
+|27. | Onderzoek naar de aanwezigheid van antistoffen tegen aviaire influenza als bedoeld in artikel 86 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  | De Agargelprecipitatietest, voor zover het monsters afkomstig van vleeskuikens betreft of een Elisa-test, voor zover het andere dieren dan vleeskuikens betreft  |
 
 <sup>1</sup> Verordening van 10 juli 2002 (Vbbo 74), laatstelijk gewijzigd bij verordening van 11 december 2002 (Vbbo 2003, 26). <sup>2</sup> Verordening van 8 september 2004 (Vbbo 65).

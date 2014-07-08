@@ -3,7 +3,7 @@
 ##Regeling tot uitvoering de hoofdstukken III en VI van de Wegenverkeerswet 1994 (Regeling voertuigen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 21, eerste en derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22, eerste, derde, vierde, en vijfde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [22a, eerste lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [23, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [25a, eerste en derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [25b, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [25c](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [25e, vierde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [26, eerste en tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [30, eerste, derde en vierde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [31, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [34, derde en vierde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [58, tweede lid, onderdeel b](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [60, eerste lid, onderdeel c, derde lid, vijfde lid, onderdeel c, en achtste lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [71](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [71a](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [72](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [75, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [76, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [81, tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [83, vierde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [84, eerste en tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [85a, vierde en vijfde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [86, zevende lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [86a, eerste en tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [88, tweede lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [98](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [99, tweede en derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [101, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 21, eerste en derde lid, 22, eerste, derde, vierde, en vijfde lid, 22a, eerste lid, 23, derde lid, 25a, eerste en derde lid, 25b, derde lid, 25c, 25e, vierde lid, 26, eerste en tweede lid, 30, eerste, derde en vierde lid, 31, derde lid, 34, derde en vierde lid, 58, tweede lid, onderdeel b, 60, eerste lid, onderdeel c, derde lid, vijfde lid, onderdeel c, en achtste lid, 71, 71a, 72, 75, derde lid, 76, derde lid, 81, tweede lid, 83, vierde lid, 84, eerste en tweede lid, 85a, vierde en vijfde lid, 86, zevende lid, 86a, eerste en tweede lid, 88, tweede lid, 98, 99, tweede en derde lid, 101, eerste en tweede lid, van de Wegenverkeerswet 1994;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,10 +15,12 @@ Besluit:
 
 ### Artikel  1.1  
 
-1.  Deze regeling berust mede op de [artikelen 51a, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [60, tweede lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 
+1.  Deze regeling berust mede op de artikelen 51a, derde lid, en 60, tweede lid, van de wet. 
 2. In deze regeling wordt verstaan onder: 
 
-*aanhangwagen:* voertuig van de voertuigcategorie O; in ieder geval wordt als aanhangwagen aangemerkt een voertuig dat blijkens het kentekenregister een aanhangwagen is;  
+*aanhangwagen:* voertuig dat is bestemd om aan een motorvoertuig te worden gekoppeld, met inbegrip van een oplegger; in ieder geval wordt als aanhangwagen aangemerkt een voertuig van de voertuigcategorie O en een voertuig dat geregistreerd is als aanhangwagen; 
+
+*aanhangwagen met een stijve dissel:* aanhangwagen met één as of één groep assen waarvan de dissel door de constructie ervan een statische belasting van ten hoogste 4.000 kg op het trekkende voertuig overbrengt, die niet aan de definitie van middenasaanhangwagen beantwoordt en waarvan de koppeling die voor de voertuigcombinatie wordt gebruikt niet bestaat uit een koppelingspen en koppelingsschotel; in ieder geval wordt als aanhangwagen met een stijve dissel aangemerkt een aanhangwagen met het carrosserietype DE; 
 
 *achterlicht:* licht dat, van de achterzijde gezien, de aanwezigheid van het voertuig kenbaar maakt en een aanwijzing is voor de breedte van het voertuig;  
 
@@ -28,11 +30,11 @@ Besluit:
 
 *afsleepas:* hulpmiddel bedoeld om één van de assen van een motorvoertuig te dragen; 
 
-*akoestisch voertuigwaarschuwingssysteem:* systeem dat door middel van een geluidssignaal verkeersdeelnemers attendeert op de nadering van een hybride elektrisch voertuig of elektrisch aangedreven voertuig; 
+*akoestisch voertuigwaarschuwingssysteem:* systeem dat door middel van een geluidssignaal verkeersdeelnemers attendeert op de nadering van een hybride elektrisch voertuig of elektrisch aangedreven voertuig;  
 
-*ambulance:* voertuig voor speciale doeleinden van de voertuigcategorie M en met carrosserietype SC dat bestemd is voor het vervoer van zieken of gewonden en hiertoe een speciale uitrusting heeft; in ieder geval wordt als ambulance aangemerkt een voertuig dat blijkens het kentekenregister een ambulance is;  
+*ambulance:* voertuig dat hoofdzakelijk bestemd is voor het vervoer van zieken of gewonden en hiertoe een speciale uitrusting heeft; in ieder geval wordt als ambulance aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M met subcategorie SC als bedoeld in richtlijn 2007/46/EG en een voertuig dat geregistreerd is als ambulance; 
 
-*as:* aslichaam, of geheel van aslichamen in geval van onafhankelijke wielophanging, met inbegrip van twee wielen in één lijn loodrecht op de lengte-as van het voertuig;  
+*as:* de gemeenschappelijke draaiingsas van twee of meer wielen, die door een motor wordt aangedreven dan wel vrij draait en die uit een dan wel meer segmenten bestaat die in hetzelfde vlak loodrecht op de middellijn in lengterichting van het voertuig liggen; 
 
 *asfaltwagen:* bedrijfsauto of aanhangwagen die ontworpen en gebouwd is voor het vervoer van asfalt en hiertoe een speciale uitrusting heeft; 
 
@@ -40,11 +42,15 @@ Besluit:
 
 *asstel:* combinatie van twee of meer assen, evenwijdig gelegen op een onderlinge afstand van minder dan 1,80 m;  
 
-*autonome aanhangwagen:* aanhangwagen met carrosserietype DB met ten minste twee assen, waarvan er ten minste één een gestuurde as is, en uitgerust is met een ten opzichte van de aanhangwagen verticaal beweegbare trekinrichting die minder dan 100 kg belasting overbrengt op het trekkende voertuig; in ieder geval wordt als autonome aanhangwagen aangemerkt een voertuig dat blijkens het kentekenregister een autonome aanhangwagen is;  
+*autonome aanhangwagen:* aanhangwagen met carrosserietype DB met ten minste twee assen, waarvan ten minste één as gestuurd is, die is uitgerust met een verticaal beweegbare trekinrichting, en een statische verticale belasting van minder dan 100 kg op het trekkende voertuig overbrengt; 
 
-*bedrijfsauto:* voertuig van de voertuigcategorie N, niet zijnde een gehandicaptenvoertuig of een motorrijtuig met beperkte snelheid; in ieder geval wordt als bedrijfsauto aangemerkt een voertuig dat blijkens het kentekenregister een bedrijfsauto is;  
+*bedrijfsauto:* voertuig op vier of meer wielen, niet zijnde een motorrijtuig met beperkte snelheid of een gehandicaptenvoertuig, en ingericht voor: 
 
-*belastbare as:* een as waarvan de belasting met behulp van de ashefinrichting kan worden gevarieerd zonder dat de as wordt opgetrokken;  
+a. het vervoer van goederen, of  
+
+b. het uitvoeren van andere werkzaamheden;   in ieder geval wordt als bedrijfsauto aangemerkt een voertuig van de voertuigcategorie N en een voertuig dat geregistreerd is als bedrijfsauto; 
+
+*belastbare as:* een as waarvan de belasting kan worden gevarieerd zonder dat de as met behulp van een ashefinrichting wordt opgetrokken; 
 
 *bestuurde as:* as die rechtstreeks door middel van de stuurinrichting door de bestuurder kan worden bediend;  
 
@@ -54,7 +60,9 @@ Besluit:
 
 *bromfiets:* voertuig van de voertuigcategorie L met de voertuigclassificatie L1e, L2e of L6e, niet zijnde een gehandicaptenvoertuig of een motorrijtuig met beperkte snelheid; in ieder geval wordt als bromfiets aangemerkt een voertuig dat blijkens het kentekenregister een bromfiets is;  
 
-*bus:* voertuig van de voertuigcategorie M met de voertuigclassificatie M<sub>2</sub> of M<sub>3</sub>, niet zijnde een gehandicaptenvoertuig of motorrijtuig met beperkte snelheid; als bus wordt in ieder geval aangemerkt een voertuig dat blijkens het kentekenregister een bus is;  
+*bus:* voertuig ingericht voor het vervoer van personen, met meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, niet zijnde een motorrijtuig met beperkte snelheid of een gehandicaptenvoertuig; als bus wordt in ieder geval aangemerkt een voertuig van de voertuigcategorie M met de voertuigclassificatie M<sub>2</sub> of M<sub>3</sub> en een voertuig dat geregistreerd is als bus; 
+
+*carrosserietype:* carrosserietype als bedoeld in richtlijn 2007/46/EG; 
 
 *CNG-installatie:* het geheel van gemonteerde onderdelen dat het mogelijk maakt om als brandstof voor de voortstuwingsmotor gebruik te maken van Compressed Natural Gas (CNG);  
 
@@ -73,6 +81,14 @@ b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze
 c. het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras(sen) van het trekkend voertuig en de as(sen) van de dolly; of  
 
 d. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;   in ieder geval wordt als dolly aangemerkt een voertuig dat blijkens het kentekenregister een dolly is;  
+
+*dolly:* aanhangwagen met carrosserietype DB, DC of subcategorie SJ, bestemd voor: 
+
+a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;  
+
+b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze lading het chassis van het voertuig vervangt; of  
+
+c. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;   onder dolly wordt tevens verstaan een aanhangwagen van het carrosserietype DA, DB, DC of subcategorie SJ bestemd voor het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras(sen) van het trekkend voertuig en de as(sen) van de dolly; in ieder geval wordt als dolly aangemerkt een voertuig dat blijkens het kentekenregister een dolly is; 
 
 *driewielig motorrijtuig:* voertuig van de voertuigcategorie L met de voertuigclassificatie L5e of L7e, niet zijnde een gehandicaptenvoertuig of een motorrijtuig met beperkte snelheid; in ieder geval wordt als driewielig motorrijtuig aangemerkt een voertuig dat blijkens het kentekenregister een driewielig motorrijtuig is;  
 
@@ -102,9 +118,9 @@ d. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;   i
 
 *gehandicaptenvoertuig:* voertuig dat is ingericht voor het vervoer van een gehandicapte, niet breder is dan 1,10 m en niet is uitgerust met een motor, dan wel waarvan de door de constructie bepaalde maximumsnelheid niet meer dan 45 km/h bedraagt indien het voertuig is uitgerust met een motor, en niet zijnde een motorrijtuig met beperkte snelheid of een landbouw- of bosbouwtrekker;  
 
-*gelede bus:* bus met carrosserietype CC, CD, CG, CH, CK, CL, CO, CP, CS of CT die bestaat uit twee of meerdere starre delen die scharnierend met elkaar verbonden zijn; de passagiersruimten van elk deel zijn zodanig met elkaar verbonden dat de passagiers zich vrij van het ene naar het andere deel kunnen bewegen; de starre delen zijn permanent met elkaar verbonden zodat deze alleen kunnen worden losgemaakt door ingrepen waarvoor uitrusting benodigd is die men gewoonlijk alleen in een werkplaats aantreft; in ieder geval wordt als gelede bus aangemerkt een voertuig dat blijkens het kentekenregister een gelede bus is;  
+*gelede bus:* bus die bestaat uit twee of meerdere starre delen die scharnierend met elkaar verbonden zijn; de passagiersruimten van elk deel zijn zodanig met elkaar verbonden dat de passagiers zich vrij van het ene naar het andere deel kunnen bewegen; de starre delen zijn permanent met elkaar verbonden zodat deze alleen kunnen worden losgemaakt door ingrepen waarvoor uitrusting benodigd is die men gewoonlijk alleen in een werkplaats aantreft; in ieder geval wordt als gelede bus aangemerkt een voertuig met carrosserietype CC, CD, CG, CH, CK, CL, CO, CP, CS of CT als bedoeld in richtlijn 2007/46/EG en een voertuig dat geregistreerd is als gelede bus; 
 
-*gepantserd voertuig:* voertuig voor speciale doeleinden van de voertuigcategorie M, N of O en carrosserietype SB dat bestemd is voor de bescherming van te vervoeren passagiers of goederen die voldoen aan de voorschriften inzake kogelwerende bepantsering; in ieder geval wordt als gepantserd voertuig aangemerkt een voertuig dat blijkens het kentekenregister een gepantserd voertuig is;  
+*gepantserd voertuig:* voertuig dat bestemd is om de vervoerde personen of goederen te beschermen door middel van kogelwerende bepantsering; in ieder geval wordt als gepantserd voertuig aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M, N of O en carrosserietype SB als bedoeld in richtlijn 2007/46/EG en een voertuig dat geregistreerd is als gepantserd voertuig; 
 
 *gestandaardiseerde laadstructuur:* zonder gebruik van gereedschap van een voertuig afneembare laadbak als bedoeld in ISO 668:1995 die uitsluitend is ingericht voor het vervoer van goederen, niet zijnde een lastdrager of een tot het voertuig behorende uitrusting;  
 
@@ -130,17 +146,19 @@ d. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;   i
 
 *inrichting voor indirect zicht:* een inrichting om het aan het voertuig grenzende gebied waar te nemen dat niet rechtstreeks kan worden waargenomen, zijnde een spiegel, een camera-monitor of een andere inrichting die de bestuurder informatie over het indirecte gezichtsveld geeft;  
 
-*inschrijving:* inschrijving in het kentekenregister bedoeld in [artikel 47 van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); 
+*inschrijving:* inschrijving in het kentekenregister bedoeld in artikel 47 van de wet;  
 
-*kampeerwagen:* voertuig voor speciale doeleinden van de voertuigcategorie M en met carrosserietype SA waarvan de constructie woonaccommodatie bevat die ten minste bestaat uit de volgende uitrusting welke vast in de woonafdeling zijn bevestigd, met dien verstande dat de tafel zodanig mag zijn ontworpen dat zij gemakkelijk kan worden verwijderd: 
+*kampeerwagen:* voertuig dat voorzien is van een woongedeelte met ten minste de volgende uitrusting die vast in het woongedeelte bevestigd is: 
 
-1°. zitplaatsen en een tafel;  
+1°. tafel, die eventueel eenvoudig te verwijderen is;  
 
-2°. slaapaccommodatie die met behulp van de zitplaatsen mag worden gecreëerd;  
+2°. stoelen;  
 
-3°. kookgelegenheid, en  
+3°. slaapgelegenheid, eventueel door de stoelen om te vormen;  
 
-4°. opbergfaciliteiten;   in ieder geval wordt als kampeerwagen aangemerkt een voertuig dat blijkens het kentekenregister een kampeerwagen of kampeerauto is;  
+4°. kookvoorzieningen, en  
+
+5°. opbergmogelijkheden; in ieder geval wordt als kampeerwagen aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M met subcategorie SA en een voertuig dat geregistreerd is als kampeerwagen;   
 
 *kermis- en circusvoertuig:* voertuig, niet zijnde een voertuig op rupsbanden, dat feitelijk wordt gebruikt voor het kermis- of circusbedrijf;  
 
@@ -164,9 +182,9 @@ c. uitsluitend voor het vervoer van glas, plaatmateriaal of soortgelijke goedere
 
 *licht:* inrichting voor het verlichten van de weg of het geven van een lichtsignaal aan andere weggebruikers, waaronder begrepen de achterkentekenplaatverlichting en retroreflectoren; 
 
-*ligplaats:* de voorgeschreven ruimte om een persoon liggend in een bus, of op een draagbaar in een personenauto te vervoeren; 
+*ligplaats:* de voorgeschreven ruimte om een persoon liggend in een bus, of op een draagbaar in een personenauto te vervoeren;  
 
-*lijkwagen:* voertuig voor speciale doeleinden van de voertuigcategorie M en met carrosserietype SD dat bestemd is voor het vervoer van overledenen en hiertoe een speciale uitrusting heeft; in ieder geval wordt als lijkwagen aangemerkt een voertuig dat blijkens het kentekenregister een lijkwagen, begrafeniswagen of begrafenisauto is;  
+*lijkwagen:* voertuig dat hoofdzakelijk bestemd is voor het vervoer van overledenen en hiertoe een speciale uitrusting heeft; in ieder geval wordt als lijkwagen aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M en met carrosserietype SD en een voertuig dat geregistreerd is als lijkwagen; 
 
 *lijnmarkering:* opvallende markering die dient om de horizontale dimensie (lengte en breedte) van een voertuig aan te geven door middel van een doorlopende lijn;  
 
@@ -179,6 +197,10 @@ c. uitsluitend voor het vervoer van glas, plaatmateriaal of soortgelijke goedere
 *manoeuvreerlicht:* licht aan de zijkant van een motorvoertuig, dat wordt gebruikt voor aanvullende verlichting tijdens langzame manoeuvres; 
 
 *markeringslicht:* licht dat op het breedste punt van het voertuig zo hoog mogelijk is aangebracht, waardoor duidelijk de totale breedte van het voertuig wordt aangegeven. Dit licht is bestemd om voor bepaalde voertuigen en aanhangwagens de breedte- en achterlichten aan te vullen door in het bijzonder de aandacht te vestigen op de omvang;  
+
+*massa in rijklare toestand voor voertuigen van de voertuigcategorie M en N:* de massa van het voertuig met de brandstoftank of brandstoftanks gevuld tot ten minste 90% van zijn of hun inhoud, met inbegrip van de massa van de bestuurder (75 kg), brandstof en vloeistoffen, voorzien van de standaarduitrusting volgens de specificaties van de fabrikant en, als het voertuig daarmee is uitgerust, de massa van de carrosserie, de cabine, de koppeling, reservewielen en het gereedschap; 
+
+*massa in rijklare toestand voor voertuigen van de voertuigcategorie O:* de massa van het voertuig, met inbegrip van de brandstof en vloeistoffen, voorzien van de standaarduitrusting volgens de specificaties van de fabrikant, en, als de aanhangwagen daarmee is uitgerust, de massa van de carrosserie, extra koppelingen, reservewielen en het gereedschap; 
 
 *massa ledig voertuig voor voertuigen van de voertuigcategorieën M en N:* massa van het voertuig in rijklare toestand verminderd met 100 kg;  
 
@@ -194,8 +216,6 @@ c. de instrumenten en voorzieningen die vereist zijn bij de wet waarvoor de meti
 
 d. de vloeistoffen die nodig zijn om de goede werking van alle delen van het voertuig te garanderen. De brandstof of mengsmering wordt bij deze meting niet meegerekend, doch met vloeistoffen zoals accuzuur, de vloeistof voor de hydraulische circuits, de koelvloeistof en de motorolie moet wel rekening worden gehouden;    
 
-*massa in rijklare toestand voor voertuigen van de voertuigcategorie M, N en O:* massa van het voertuig met carrosserie, in bedrijfsklare toestand, met inbegrip van koelvloeistof, smeermiddelen, brandstof, reservewiel voor zover gemonteerd door de fabrikant, gereedschap, bestuurder en voor bussen een bijrijder voor zover daarvoor een zitplaats aanwezig is; voor het vaststellen van de massa moet de brandstoftank voor 90% zijn gevuld en wordt de massa van de bestuurder en de bijrijder elk op 75 kg gesteld;  
-
 *massa in rijklare toestand voor voertuigen van de voertuigcategorie L:* massa van het voertuig met carrosserie, in bedrijfsklare toestand, met inbegrip van koelvloeistof, smeermiddelen, brandstof, reservewiel en gereedschap; voor het vaststellen van de massa moet de brandstoftank voor 90% zijn gevuld;  
 
 *massa in rijklare toestand voor voertuigen van de voertuigcategorie T:* massa van een rijklare landbouw- of bosbouwtrekker met inbegrip van de kantelbeveiligingsinrichting, zonder facultatieve accessoires, maar met koelvloeistof, smeermiddelen, brandstof, outillage en bestuurder; voor het vaststellen van de massa wordt de massa van de bestuurder op 75 kg gesteld;  
@@ -208,7 +228,7 @@ d. de vloeistoffen die nodig zijn om de goede werking van alle delen van het voe
 
 *metalen band:* band waarvan het loopvlak geheel van vormvast materiaal is vervaardigd;  
 
-*middenasaanhangwagen:* aanhangwagen met carrosserietype DC en met een stijve dissel waarvan de as(sen), indien gelijkmatig belast, zich dicht bij het zwaartepunt van het voertuig bevindt (bevinden), zodat slechts een geringe statische verticale belasting van ten hoogste 10% van de met de technisch toegestane maximummassa van de aanhangwagen overeenkomende belasting of van 1.000 kg, waarbij de lichtste belasting van toepassing is, wordt overgebracht op het trekkende voertuig; in ieder geval wordt als middenasaanhangwagen aangemerkt een voertuig dat blijkens het kentekenregister een middenasaanhangwagen is;  
+*middenasaanhangwagen:* aanhangwagen waarvan de as of assen, indien gelijkmatig belast, zich dicht bij het zwaartepunt van het voertuig bevindt respectievelijk bevinden, zodat een statische verticale belasting van ten hoogste 10% van de met de technisch toegestane maximummassa van de aanhangwagen overeenkomende belasting of van 1.000 kg, waarbij de lichtste belasting van toepassing is, wordt overgebracht op het trekkende voertuig; in ieder geval wordt als middenasaanhangwagen aangemerkt een voertuig met carrosserietype DC en een voertuig dat geregistreerd is als middenasaanhangwagen; 
 
 *mistachterlicht:* licht dat het voertuig bij dichte mist aan de achterzijde beter waarneembaar maakt;  
 
@@ -226,7 +246,7 @@ a. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, met niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, niet zijnde een landbouw- of bosbouwtrekker of een bromfiets, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen;    
 
-*motorvoertuig:* een motorrijtuig als bedoeld in [artikel 1, eerste lid, onderdeel c, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*motorvoertuig:* een motorrijtuig als bedoeld in artikel 1, eerste lid, onderdeel c, van de wet;  
 
 *noodstopsignaal:* signaal om andere weggebruikers die zich achter het voertuig bevinden kenbaar te maken dat het voertuig sterk vertraagt en dat wordt gegeven door de gelijktijdige werking van alle remlichten of richtingaanwijzers; 
 
@@ -234,7 +254,9 @@ b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 *onderdeel:* inrichting als bedoeld in de richtlijnen 2002/24/EG, 2003/37/EG of 2007/46/EG, die bedoeld is om deel uit te maken van een voertuig waarvoor onafhankelijk van een voertuig typegoedkeuring kan worden verleend;  
 
-*oplegger:* aanhangwagen met carrosserietype DA dat ontworpen is om aan een opleggertrekkend voertuig of aan een dolly te worden gekoppeld en dat op het trekkende voertuig of de dolly een aanzienlijke statische verticale belasting overbrengt; in ieder geval wordt als oplegger aangemerkt een voertuig dat blijkens het kentekenregister een oplegger is;  
+*oplegger:* aanhangwagen die ontworpen is om aan een opleggertrekkend voertuig of aan een dolly te worden gekoppeld en die op het trekkende voertuig of de dolly een aanzienlijke statische verticale belasting overbrengt; in ieder geval wordt als oplegger aangemerkt een voertuig met carrosserietype DA en een voertuig dat geregistreerd is als oplegger; 
+
+*opleggertrekker:* bedrijfsauto die hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC en een voertuig dat geregistreerd is als opleggertrekker of als trekker; 
 
 *opspatafscherming:* inrichting die bestemd is om de verstuiving van water dat door de banden van een rijdend voertuig wordt opgeworpen, te beperken; 
 
@@ -246,7 +268,7 @@ b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 *pendelas:* samenstel van twee of meer assen in één lijn loodrecht op de lengte-as van het voertuig zodanig ingericht dat de belasting op alle wielen gelijkmatig verdeeld wordt overgebracht op het wegdek. Een samenstel van wielen op één wielnaaf wordt aangemerkt als één wiel;  
 
-*personenauto:* voertuig van de voertuigcategorie M met de voertuigclassificatie M<sub>1</sub> niet zijnde een gehandicaptenvoertuig of een motorrijtuig met beperkte snelheid; in ieder geval wordt als personenauto aangemerkt een voertuig dat blijkens het kentekenregister een personenauto is;  
+*personenauto:* voertuig op vier of meer wielen, niet zijnde een motorrijtuig met beperkte snelheid of een gehandicaptenvoertuig, ingericht voor het vervoer van personen, met niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend; in ieder geval wordt als personenauto aangemerkt een voertuig van de voertuigcategorie M met de voertuigclassificatie M<sub>1</sub> en een voertuig dat geregistreerd is als personenauto; 
 
 *remlicht:* een licht dat wordt gebruikt om de weggebruikers die zich achter het voertuig bevinden kenbaar te maken dat de longitudinale beweging van het voertuig opzettelijk wordt vertraagd;  
 
@@ -256,11 +278,11 @@ b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 *rijdend werktuig:* bedrijfsauto of motorrijtuig met beperkte snelheid, ingericht voor het uitvoeren van in hoofdzaak andere werkzaamheden dan het vervoer van goederen of personen;  
 
-*RVV 1990:* [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md); 
+*RVV 1990:* Reglement verkeersregels en verkeerstekens 1990; 
 
 *samenstel van voertuigen * trekkend voertuig met een of meer aanhangwagens;  
 
-*schadevoertuig:* voertuig als bedoeld in [artikel 1, eerste lid, onderdeel u, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). Onder een schadevoertuig wordt in ieder geval verstaan een voertuig: 
+*schadevoertuig:* voertuig als bedoeld in artikel 1, eerste lid, onderdeel u, van de wet. Onder een schadevoertuig wordt in ieder geval verstaan een voertuig: 
 
 1°. waarvan de dragende carrosseriedelen ernstig zijn vervormd;  
 
@@ -282,17 +304,19 @@ b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 *stadslicht:* licht dat, van de voorzijde gezien, de aanwezigheid van het voertuig kenbaar maakt en een aanwijzing is voor de breedte van het voertuig;  
 
+*stoel:* een complete structuur met bekleding, al dan niet geïntegreerd in de carrosseriestructuur van het voertuig, die bestemd is om zitplaats te bieden aan één persoon; 
+
 *systeem:* systeem als bedoeld in richtlijn 2002/24/EG, 2003/37/EG of 2007/46/EG, dat bedoeld is om in een voertuig een of meer specifieke functies te vervullen en waarvoor onafhankelijk van een voertuig typegoedkeuring kan worden verleend; 
 
-*taxi:* personenauto bestemd voor taxivervoer als bedoeld in [artikel 1, onderdeel j, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md); in ieder geval wordt als taxi aangemerkt een voertuig dat blijkens het kentekenregister een taxi is;  
+*taxi:* personenauto bestemd voor taxivervoer als bedoeld in artikel 1, onderdeel j, van de Wet personenvervoer 2000; in ieder geval wordt als taxi aangemerkt een voertuig dat blijkens het kentekenregister een taxi is;  
+
+*technisch toegestane maximummassa:* de door de fabrikant voor een voertuig op basis van de bouwkenmerken en de door het ontwerp bepaalde prestaties ervan vastgestelde maximummassa; de technisch toegestane maximummassa van een aanhangwagen of een oplegger omvat de statische massa die in aangekoppelde toestand op het trekkende voertuig wordt overgebracht; 
 
 *technische eenheid:* als onderdeel van een voertuig bedoelde inrichting, die aan de eisen van een bijzondere richtlijn als bedoeld in de richtlijnen 2002/24/EG, 2003/37/EG of 2007/46/EG moet voldoen en waarvan de betrokken bijzondere richtlijn een afzonderlijke typegoedkeuring mogelijk maakt uitsluitend in samenhang met een of meer bepaalde typen voertuigen;  
 
-*terreinvoertuig:* voertuig zoals gedefinieerd in bijlage II, onder A, onder punt 4, van richtlijn 2007/46/EG;  
+*terreinvoertuig:* voertuig van de voertuigcategorie M of N met specifieke technische kenmerken waardoor het buiten de normale wegen kan worden gebruikt; 
 
 *T100-bus:* bus, die blijkens het kentekenregister of blijkens het kentekenregister is goedgekeurd voor een maximumsnelheid van 100 km/h;  
-
-*trekker:* bedrijfsauto met carrosserietype BC; in ieder geval wordt als trekker aangemerkt een voertuig dat blijkens het kentekenregister een trekker is;  
 
 *verlicht transparant:* verlichting op een voertuig dat uitsluitend informatie biedt over de bestemming of het gebruik van het voertuig, dan wel aanwijzingen weergeeft voor het overige wegverkeer;  
 
@@ -300,7 +324,27 @@ b. motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet me
 
 *verwisselbaar uitrustingsstuk:* inrichting die is ontworpen om door een voertuig te worden gedragen of aan een voertuig te worden gekoppeld en waarmee aan het voertuig een extra functie wordt gegeven;  
 
-*voertuig voor speciale doeleinden:* een voertuig dat bedoeld is voor het verrichten van diensten waarvoor een bijzondere carrosserie-uitvoering of uitrusting vereist is. Hieronder vallen kampeerwagens, gepantserde voertuigen, ambulances, lijkwagens, caravans, mobiele kranen, voor rolstoelen toegankelijke voertuigen en overige voertuigen voor speciale doeleinden;  
+*voertuig van de voertuigcategorie O:* voertuigen als bedoeld in bijlage II, deel A, paragraaf 1.3, bij richtlijn 2007/46/EG; 
+
+*voertuig van de voertuigcategorie T:* motorvoertuig op wielen, met ten minste twee assen en een door de constructie bepaalde maximumsnelheid van niet minder dan 6 km/h, die voornamelijk voor tractiedoeleinden is bestemd en in het bijzonder is ontworpen voor het trekken, duwen, dragen of in beweging brengen van bepaalde verwisselbare uitrustingsstukken die voor gebruik in de landbouw of bosbouw zijn bestemd, of voor het trekken van aanhangwagens voor de landbouw of bosbouw, welk motorvoertuig kan zijn ingericht om een lading te vervoeren voor landbouw- of bosbouwdoeleinden of kan worden uitgerust met zitplaatsen voor meerijders, gedefinieerd overeenkomstig onderstaande voertuigclassificatie: 
+
+a. T1: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een minimumspoorbreedte van de zich het dichtst bij de bestuurder bevindende as van niet minder dan 1.150 mm, met een lege massa in rijklare toestand van meer dan 600 kg en met een vrije hoogte boven het wegdek van ten hoogste 1.000 mm;  
+
+b. T2: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een minimumspoorbreedte van minder dan 1.150 mm, met een lege massa in rijklare toestand van meer dan 600 kg en met een vrije hoogte boven het wegdek van ten hoogste 600 mm, met dien verstande dat wanneer echter de waarde van de hoogte van het zwaartepunt van de landbouw- of bosbouwtrekker – ten opzichte van het wegdek gemeten –, gedeeld door het gemiddelde van de minimumspoorbreedten van elke as, meer dan 0,90 bedraagt, de door de constructie bepaalde maximumsnelheid beperkt is tot 30 km/h;  
+
+c. T3: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een lege massa in rijklare toestand van ten hoogste 600 kg;  
+
+d. T4: landbouw- of bosbouwtrekkers voor speciale doeleinden op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h; De voertuigclassificatie T4 is onderverdeeld in: 
+
+– T4.1: portaaltrekkers voor het bewerken van hoge, in rijen geplante gewassen, bijvoorbeeld in de wijnbouw, die worden gekenmerkt door een (gedeeltelijk) verhoogd chassis dat zodanig is gebouwd dat zij zich parallel aan de rijen planten kunnen voortbewegen, waarbij de linker- en rechterwielen zich aan weerszijden van één of meer rijen planten bevinden; zij zijn ontworpen om werktuigen te dragen of aan te drijven die zich aan de voorzijde, tussen de assen, aan de achterzijde of op een platform bevinden; in de werkpositie bedraagt de verticaal gemeten afstand tot de grond op de plaats van de rijen planten meer dan 1.000 mm, met dien verstande dat wanneer echter de waarde van de hoogte van het zwaartepunt van de trekker – ten opzichte van het wegdek gemeten –, gedeeld door het gemiddelde van de minimumspoorbreedten van elke as, meer dan 0,90 bedraagt, de door de constructie bepaalde maximumsnelheid beperkt is tot 30 km/h;  
+
+– T4.2: brede landbouw- of bosbouwtrekkers die door hun grote afmetingen worden gekenmerkt en die in het bijzonder bestemd zijn om grote landbouwarealen te bewerken;  
+
+– T4.3: landbouw- of bosbouwtrekkers met geringe hoogte boven het wegdek met vier aangedreven wielen, waarvan de verwisselbare uitrustingsstukken bestemd zijn voor gebruik in de land- of bosbouw en die gekenmerkt worden door een dragend chassis, uitgerust zijn met één of meer aftakassen en een technisch toelaatbare massa van ten hoogste 10.000 kg hebben en waarbij de verhouding tussen deze massa en de maximale lege massa in rijklare toestand minder dan 2,5 bedraagt; voorts bevindt het zwaartepunt van deze trekkers zich – ten opzichte van het wegdek gemeten – op minder dan 850 mm;    
+
+e. T5: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van meer dan 40 km/h;   
+
+*voertuig voor speciale doeleinden:* voertuig van de voertuigcategorie M, N, of O met specifieke technische kenmerken om een functie te vervullen waarvoor speciale voorzieningen of uitrustingen vereist zijn; 
 
 *voertuigen van de voertuigcategorie L:* motorvoertuigen op twee, drie of vier wielen, al dan niet met dubbellucht, gedefinieerd overeenkomstig de volgende voertuigclassificatie: 
 
@@ -334,159 +378,13 @@ f. L6e: lichte vierwielige motorvoertuigen met een lege massa van ten hoogste 35
 
 g. L7e: andere vierwielige motorvoertuigen dan motorvoertuigen van de categorie L6e met een lege massa van ten hoogste 400 kg, of 550 kg voor motorvoertuigen die bestemd zijn voor goederenvervoer, exclusief de massa van de accu’s in elektrische motorvoertuigen, en met een nettomaximumvermogen van ten hoogste 15 kW;    
 
-*voertuigen van de voertuigcategorie M:* voor het vervoer van personen ontworpen en gebouwde motorvoertuigen met ten minste vier wielen, gedefinieerd overeenkomstig de onderstaande voertuigclassificatie: 
+*voertuigen van de voertuigcategorie M:* voertuigen als bedoeld in bijlage II, deel A, paragraaf 1.1, bij richtlijn 2007/46/EG; 
 
-a. M<sub>1</sub>: voor het vervoer van personen ontworpen en gebouwde motorvoertuigen met ten hoogste acht zitplaatsen, die van de bestuurder niet meegerekend en welke de volgende carrosserietypen kan hebben: 
+*voertuigen van de voertuigcategorie N:* voertuigen als bedoeld in bijlage II, deel A, paragraaf 1.2, bij richtlijn 2007/46/EG;  
 
-– AA: sedan;  
+*volledige contourmarkering:* contourmarkering die de omtrek (lengte, breedte en hoogte) van een voertuig aangeeft door middel van een doorlopende lijn;  
 
-– AB: hatchback;  
-
-– AC: stationwagen;  
-
-– AD: coupé;  
-
-– AE: cabriolet;  
-
-– AF: MPV, met dien verstande dat voldaan dient te worden aan de in richtlijn 2007/46/EG gestelde voorwaarden;  
-
-– SA: kampeerwagen;  
-
-– SB: gepantserd voertuig;  
-
-– SC: ambulance;  
-
-– SD: lijkwagen;  
-
-– SG: overig voertuig voor speciale doeleinden, of  
-
-– SH: voor rolstoelen toegankelijk voertuig;    
-
-b. M<sub>2</sub>: voor het vervoer van personen ontworpen en gebouwde motorvoertuigen met meer dan acht zitplaatsen, die van de bestuurder niet meegerekenden met een technisch toegestane maximummassa van ten hoogste 5.000 kg;  
-
-c. M<sub>3</sub>: voor het vervoer van personen ontworpen en gebouwde motorvoertuigen met meer dan acht zitplaatsen, die van de bestuurder niet meegerekenden met een technisch toegestane maximummassa van meer dan 5.000 kg;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> kunnen de volgende carrosserietypen hebben: 
-
-– SA: kampeerwagen;  
-
-– SB: gepantserd voertuig;  
-
-– SC: ambulance;  
-
-– SD: lijkwagen, of  
-
-– SG: overig voertuig voor speciale doeleinden;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> van klasse I als bedoeld in richtlijn 2001/85/EG kunnen de volgende carrosserietypen hebben: 
-
-– CA:enkeldeks;  
-
-– CB: dubbeldeks;  
-
-– CC: geleed enkeldeks;  
-
-– CD: geleed dubbeldeks;  
-
-– CE: enkeldeks met lage vloer;  
-
-– CF: dubbeldeks met lage vloer;  
-
-– CG: geleed enkeldeks met lage vloer, of  
-
-– CH: geleed dubbeldeks met lage vloer;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> van klasse II als bedoeld in richtlijn 2001/85/EG kunnen de volgende carrosserietypen hebben: 
-
-– CI: enkeldeks;  
-
-– CJ: dubbeldeks;  
-
-– CK: geleed enkeldeks;  
-
-– CL: geleed dubbeldeks;  
-
-– CM: enkeldeks met lage vloer;  
-
-– CN: dubbeldeks met lage vloer;  
-
-– CO: geleed enkeldeks met lage vloer, of  
-
-– CP: geleed dubbeldeks met lage vloer;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> van klasse III als bedoeld in richtlijn 2001/85/EG kunnen de volgende carrosserietypen hebben: 
-
-– CQ: enkeldeks;  
-
-– CR: dubbeldeks;  
-
-– CS: geleed enkeldeks, of  
-
-– CT: geleed dubbeldeks;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> van klasse A als bedoeld in richtlijn 2001/85/EG kunnen de volgende carrosserietypen hebben: 
-
-– CU: enkeldeks, of  
-
-– CV: enkeldeks met lage vloer;   Motorvoertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> van klasse B als bedoeld in richtlijn 2001/85/EG kunnen de volgende carrosserietypen hebben: 
-
-– CW: enkeldeks;    
-
-*voertuigen van de voertuigcategorie N:* voor het vervoer van goederen ontworpen en gebouwde motorvoertuigen met ten minste vier wielen, gedefinieerd overeenkomstig onderstaande voertuigclassificatie: 
-
-a. N<sub>1</sub>: voor het vervoer van goederen ontworpen en gebouwde voertuigen met een technisch toegestane maximummassa van ten hoogste 3.500 kg;  
-
-b. N<sub>2</sub>: voor het vervoer van goederen ontworpen en gebouwde voertuigen met een technisch toegestane maximummassa van meer dan 3.500 kg, doch niet meer dan 12.000 kg;  
-
-c. N<sub>3</sub>: voor het vervoer van goederen ontworpen en gebouwde voertuigen met een technisch toegestane maximummassa van meer dan 12.000 kg;   In het geval van een voor koppeling aan een oplegger of middenasaanhangwagen bestemd motorvoertuig met carrosserietype BC of BD is de voor indeling van het voertuig geldende massa de massa van het motorvoertuig in rijklare toestand, vermeerderd met de massa die overeenkomt met de maximale statische verticale belasting die op het motorvoertuig wordt overgebracht door de oplegger of de middenasaanhangwagen en, indien van toepassing, met de maximummassa van de eigen belasting van het motorvoertuig; Voertuigen van deze voertuigcategorie kunnen de volgende carrosserietypen hebben, met dien verstande dat wordt voldaan aan de in richtlijn 2007/46/EG gestelde voorwaarden: 
-
-– BA: vrachtwagen. een motorvoertuig van categorie N<sub>1</sub>, N<sub>2</sub> of N<sub>3</sub> dat uitsluitend of hoofdzakelijk is ontworpen en gebouwd voor het vervoer van goederen. Een dergelijk voertuig kan ook een aanhangwagen trekken;  
-
-– BB: bestelwagen. Vrachtwagen met in de carrosserie geïntegreerde cabine;  
-
-– BC: opleggertrekkend voertuig (opleggertrekker). Een trekkend voertuig dat uitsluitend of hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers;  
-
-– BD: aanhangwagen trekkend voertuig (aanhangwagentrekker). een trekkend voertuig dat uitsluitend of hoofdzakelijk is ontworpen en gebouwd voor het trekken van aanhangwagens anders dan opleggers. Een dergelijk voertuig kan uitgerust zijn met een laadplatform;  
-
-– SB: gepantserd voertuig;  
-
-– SF: mobiele kraan, of  
-
-– SG: overig voertuig voor speciale doeleinden;    
-
-*voertuig van de voertuigcategorie O:* een niet-zelfaangedreven voertuig op wielen dat is ontworpen en gebouwd om door een motorvoertuig te worden getrokken, gedefinieerd overeenkomstig onderstaande voertuigclassificatie: 
-
-a. O<sub>1</sub>: aanhangwagens met een technisch toegestane maximummassa van ten hoogste 750 kg;  
-
-b. O<sub>2</sub>: aanhangwagens met een technisch toegestane maximummassa van meer dan 750 kg, doch niet meer dan 3.500 kg;  
-
-c. O<sub>3</sub>: aanhangwagens met een technisch toegestane maximummassa van meer dan 3.500 kg, doch niet meer dan 10.000 kg;  
-
-d. O<sub>4</sub>: aanhangwagens met een technisch toegestane maximummassa van meer dan 10.000 kg;   In het geval van een oplegger of middenasaanhangwagen is de voor indeling van de aanhangwagen of oplegger geldende maximummassa de statische verticale belasting die naar de grond wordt overgebracht door de as of assen van de oplegger of middenasaanhangwagen, wanneer die aan het motorvoertuig gekoppeld is en de maximumlast draagt. Voertuigen van deze voertuigcategorie kunnen de volgende carrosserietypen hebben: 
-
-– DA: oplegger;  
-
-– DB: autonome aanhangwagen;  
-
-– DC: middenasaanhangwagen;  
-
-– SB: gepantserd voertuig;  
-
-– SE: caravan, of  
-
-– SG: overig voertuig voor speciale doeleinden;    
-
-*voertuig van de voertuigcategorie T:* motorvoertuig op wielen, met ten minste twee assen en een door de constructie bepaalde maximumsnelheid van niet minder dan 6 km/h, die voornamelijk voor tractiedoeleinden is bestemd en in het bijzonder is ontworpen voor het trekken, duwen, dragen of in beweging brengen van bepaalde verwisselbare uitrustingsstukken die voor gebruik in de landbouw of bosbouw zijn bestemd, of voor het trekken van aanhangwagens voor de landbouw of bosbouw, welk motorvoertuig kan zijn ingericht om een lading te vervoeren voor landbouw- of bosbouwdoeleinden of kan worden uitgerust met zitplaatsen voor meerijders, gedefinieerd overeenkomstig onderstaande voertuigclassificatie: 
-
-a. T1: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een minimumspoorbreedte van de zich het dichtst bij de bestuurder bevindende as van niet minder dan 1.150 mm, met een lege massa in rijklare toestand van meer dan 600 kg en met een vrije hoogte boven het wegdek van ten hoogste 1.000 mm;  
-
-b. T2: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een minimumspoorbreedte van minder dan 1.150 mm, met een lege massa in rijklare toestand van meer dan 600 kg en met een vrije hoogte boven het wegdek van ten hoogste 600 mm, met dien verstande dat wanneer echter de waarde van de hoogte van het zwaartepunt van de landbouw- of bosbouwtrekker – ten opzichte van het wegdek gemeten –, gedeeld door het gemiddelde van de minimumspoorbreedten van elke as, meer dan 0,90 bedraagt, de door de constructie bepaalde maximumsnelheid beperkt is tot 30 km/h;  
-
-c. T3: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h, met een lege massa in rijklare toestand van ten hoogste 600 kg;  
-
-d. T4: landbouw- of bosbouwtrekkers voor speciale doeleinden op wielen met een door de constructie bepaalde maximumsnelheid van niet meer dan 40 km/h; De voertuigclassificatie T4 is onderverdeeld in: 
-
-– T4.1: portaaltrekkers voor het bewerken van hoge, in rijen geplante gewassen, bijvoorbeeld in de wijnbouw, die worden gekenmerkt door een (gedeeltelijk) verhoogd chassis dat zodanig is gebouwd dat zij zich parallel aan de rijen planten kunnen voortbewegen, waarbij de linker- en rechterwielen zich aan weerszijden van één of meer rijen planten bevinden; zij zijn ontworpen om werktuigen te dragen of aan te drijven die zich aan de voorzijde, tussen de assen, aan de achterzijde of op een platform bevinden; in de werkpositie bedraagt de verticaal gemeten afstand tot de grond op de plaats van de rijen planten meer dan 1.000 mm, met dien verstande dat wanneer echter de waarde van de hoogte van het zwaartepunt van de trekker – ten opzichte van het wegdek gemeten –, gedeeld door het gemiddelde van de minimumspoorbreedten van elke as, meer dan 0,90 bedraagt, de door de constructie bepaalde maximumsnelheid beperkt is tot 30 km/h;  
-
-– T4.2: brede landbouw- of bosbouwtrekkers die door hun grote afmetingen worden gekenmerkt en die in het bijzonder bestemd zijn om grote landbouwarealen te bewerken;  
-
-– T4.3: landbouw- of bosbouwtrekkers met geringe hoogte boven het wegdek met vier aangedreven wielen, waarvan de verwisselbare uitrustingsstukken bestemd zijn voor gebruik in de land- of bosbouw en die gekenmerkt worden door een dragend chassis, uitgerust zijn met één of meer aftakassen en een technisch toelaatbare massa van ten hoogste 10.000 kg hebben en waarbij de verhouding tussen deze massa en de maximale lege massa in rijklare toestand minder dan 2,5 bedraagt; voorts bevindt het zwaartepunt van deze trekkers zich – ten opzichte van het wegdek gemeten – op minder dan 850 mm;    
-
-e. T5: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaalde maximumsnelheid van meer dan 40 km/h;    
-
-*volledige contourmarkering:* contourmarkering die de omtrek (lengte, breedte en hoogte) van een voertuig aangeeft door middel van een doorlopende lijn; 
-
-*voor rolstoelen toegankelijk voertuig:* voertuig voor speciale doeleinden van de voertuigcategorie M met voertuigclassificatie M<sub>1</sub> en met carrosserietype SH dat specifiek gebouwd of verbouwd is ten behoeve van een of meer personen die in hun rolstoel zijn gezeten, wanneer zij reizen over de weg; in ieder geval wordt als voor rolstoelen toegankelijk voertuig aangemerkt een voertuig dat blijkens het kentekenregister een voor rolstoelen toegankelijk voertuig is;  
+*voor rolstoelen toegankelijk voertuig:* voertuig dat specifiek gebouwd of verbouwd is ten behoeve van een of meer personen die in hun rolstoel zitten, wanneer het voertuig op de weg rijdt; in ieder geval wordt als voor rolstoelen toegankelijk voertuig aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M met voertuigclassificatie M<sub>1</sub> en subcategorie SH en een voertuig dat geregistreerd is als een voor rolstoelen toegankelijk voertuig; 
 
 *waarschuwingsknipperlicht:* gelijktijdige werking van alle richtingaanwijzers, bestemd om aan te geven dat het voertuig tijdelijk een bijzonder gevaar oplevert voor andere weggebruikers;  
 
@@ -494,7 +392,7 @@ e. T5: landbouw- of bosbouwtrekkers op wielen met een door de constructie bepaal
 
 *werklicht:* licht, bestemd voor het verlichten van een plaats waar werkzaamheden worden verricht;  
 
-*wet:* [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*wet:* Wegenverkeerswet 1994;  
 
 *wielbasis:*
 
@@ -586,7 +484,7 @@ Waar in deze regeling wordt bepaald dat voertuigen, systemen, onderdelen, techni
 
 ####(eisen technische dienst)
 
-Een aanwijzing als technische dienst op grond van [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan worden verleend aan een natuurlijke persoon of rechtspersoon, indien: 
+Een aanwijzing als technische dienst op grond van artikel 132e, eerste lid, van de wet kan worden verleend aan een natuurlijke persoon of rechtspersoon, indien: 
 
 a. de hoofdvestiging van de aanvrager zich binnen Nederland bevindt of binnen een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte of Zwitserland;  
 
@@ -600,7 +498,7 @@ d. het accreditatiecertificaat geldig is voor meetmiddelen voor ademalcoholgehal
 
 ####(procedure aanwijzing)
 
-1.  De aanvraag tot aanwijzing als technische dienst op grond van [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt ingediend bij de Dienst Wegverkeer.   
+1.  De aanvraag tot aanwijzing als technische dienst op grond van artikel 132e, eerste lid, van de wet wordt ingediend bij de Dienst Wegverkeer.   
 2.  Op de aanwijzing tot technische dienst als bedoeld in het eerste lid is bijlage V, Aanhangsel 2, bij richtlijn 2007/46/EG van overeenkomstige toepassing.   
 3.  Van de aanwijzing van een technische dienst als bedoeld in het eerste lid wordt door de Dienst Wegverkeer mededeling gedaan in de Staatscourant.  
 
@@ -662,9 +560,9 @@ De artikelen 1.8 en 1.9 laten onverlet de bevoegdheid tot schorsing of intrekkin
 
 ### Artikel  3.1  
 
-1.  De in dit hoofdstuk vermelde categorieën voertuigen en systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die voor deze voertuigen zijn ontworpen en gebouwd, moeten zijn goedgekeurd voor toelating tot het verkeer op de weg. Deze goedkeuring kan bestaan uit een EG-typegoedkeuring, nationale typegoedkeuring, EG-kleine serie typegoedkeuring, nationale kleine serie typegoedkeuring, individuele goedkeuring of een goedkeuring afgegeven overeenkomstig een VN/ECE-reglement. Een alcoholslot moet zijn typegoedgekeurd alvorens het in het kader van het alcoholslotprogramma, bedoeld in [artikel 118, derde lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of [artikel 131, eerste lid, onderdeel b, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), kan worden ingebouwd.   
-2.  De in dit hoofdstuk vermelde productieprocessen van voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers, alsmede van alcoholsloten als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), moeten zijn goedgekeurd.   
-3.  In afwijking van het eerste lid worden bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet goedgekeurd voor de toelating tot het verkeer op de weg. 
+1.  De in dit hoofdstuk vermelde categorieën voertuigen en systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die voor deze voertuigen zijn ontworpen en gebouwd, moeten zijn goedgekeurd voor toelating tot het verkeer op de weg. Deze goedkeuring kan bestaan uit een EG-typegoedkeuring, nationale typegoedkeuring, EG-kleine serie typegoedkeuring, nationale kleine serie typegoedkeuring, individuele goedkeuring of een goedkeuring afgegeven overeenkomstig een VN/ECE-reglement. Een alcoholslot moet zijn typegoedgekeurd alvorens het in het kader van het alcoholslotprogramma, bedoeld in artikel 118, derde lid, of artikel 131, eerste lid, onderdeel b, van de wet, kan worden ingebouwd.   
+2.  De in dit hoofdstuk vermelde productieprocessen van voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers, alsmede van alcoholsloten als bedoeld in artikel 132e, eerste lid, van de wet, moeten zijn goedgekeurd.   
+3.  In afwijking van het eerste lid worden bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet niet goedgekeurd voor de toelating tot het verkeer op de weg. 
 4. Met een nationale typegoedkeuring, een nationale kleine serie typegoedkeuring of een individuele goedkeuring als bedoeld in deze regeling wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.
 
 ### Afdeling  2  
@@ -677,9 +575,10 @@ De artikelen 1.8 en 1.9 laten onverlet de bevoegdheid tot schorsing of intrekkin
 
 ### Artikel  3.2  
 
-1.  Voertuigen van de voertuigcategorieën M, N en O, moeten voor het verkrijgen van een EG-typegoedkeuring voldoen aan richtlijn 2007/46/EG.   
-2.  Voertuigen met de voertuigclassificatie M<sub>1</sub> moeten voor het verkrijgen van een EG-kleine serie typegoedkeuring voldoen aan richtlijn 2007/46/EG.   
-3.  Voertuigen van de voertuigcategorieën M, N en O moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan richtlijn 2007/46/EG en het gestelde in bijlage IIIA.  
+1.  Voertuigen van de voertuigcategorieën M, N en O, met uitzondering van voertuigen voor speciale doeleinden, moeten voor het verkrijgen van een EG-typegoedkeuring voldoen aan bijlage IV, deel I, bij richtlijn 2007/46/EG.   
+2.  Voertuigen voor speciale doeleinden van de voertuigcategorieën M, N en O moeten voor het verkrijgen van een EG-typegoedkeuring voldoen aan bijlage XI bij richtlijn 2007/46/EG.   
+3.  Voertuigen met de voertuigclassificatie M<sub>1</sub> en N<sub>1</sub>, met uitzondering van voertuigen voor speciale doeleinden, moeten voor het verkrijgen van een EG-kleine serie typegoedkeuring en een nationale kleine serie typegoedkeuring voldoen aan bijlage IV, deel 1, aanhangsel 1, tabel 1 respectievelijk tabel 2 bij richtlijn 2007/46/EG.   
+4.  Voertuigen van de voertuigcategorieën M, N en O, met uitzondering van voertuigen met de voertuigclassificatie M<sub>1</sub> en N<sub>1</sub>, alsmede voertuigen voor speciale doeleinden van de voertuigcategorieën M, N en O moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan bijlage IV bij deze regeling.  
 
 ### Artikel  3.3  
 
@@ -693,7 +592,8 @@ De artikelen 1.8 en 1.9 laten onverlet de bevoegdheid tot schorsing of intrekkin
 
 ### Artikel  3.5  
 
-De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van richtlijn 2002/24/EG, artikel 11 van richtlijn 2003/37/EG of artikel 20 van richtlijn 2007/46/EG verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen. 
+1. De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van richtlijn 2002/24/EG, artikel 11 van richtlijn 2003/37/EG of artikel 20 van richtlijn 2007/46/EG verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen EG-verordeningen of VN/ECE-reglementen. 
+2.  De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen in bijlage IV bij deze regeling kunnen voldoen, een tijdelijke nationale kleine serie goedkeuring kan worden verleend, mits er naar het oordeel van de Dienst Wegverkeer geen gevaar is voor de verkeersveiligheid.  
 
 ### Artikel  3.6  
 
@@ -707,13 +607,12 @@ De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artike
 
 ### Artikel  3.7  
 
-1.   Voertuigen van de voertuigcategorieën L en T moeten voor het verkrijgen van een individuele goedkeuring voldoen aan de eisen gesteld in bijlage IV bij deze regeling.   
-2.  Voertuigen van de voertuigcategorieën M, N en O moeten voor het verkrijgen van een individuele goedkeuring voldoen aan richtlijn 2007/46/EG en aan de eisen opgenomen in bijlage IV bij deze regeling.   
-3.  De Dienst Wegverkeer kan alternatieve voorschriften vaststellen voor de in bijlage IV bij deze regeling opgenomen eisen. 
+1.  Voertuigen van de voertuigcategorieën L, M, N, O en T moeten voor het verkrijgen van een individuele goedkeuring voldoen aan bijlage IV bij deze regeling.   
+2.  In afwijking van het eerste lid mogen voertuigen met de voertuigclassificaties M<sub>1</sub> of N<sub>1</sub>, die in grote series worden geproduceerd in of voor derde landen en die niet of niet langer dan zes maanden zijn geregistreerd, voldoen aan bijlage IV, deel I, aanhangsel 2, bij richtlijn 2007/46/EG. 
 
 ### Artikel  3.8  
 
-De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuigen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de voorschriften van EG-richtlijnen kunnen voldoen en waarvan bij de keuring niet kan worden vastgesteld dan wel slechts op termijn kan worden vastgesteld of aan de in dit hoofdstuk gestelde eisen wordt voldaan, tijdelijke individuele goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid. 
+De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuigen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen genoemd in Bijlage IV bij deze regeling kunnen voldoen en waarvan bij de keuring niet kan worden vastgesteld dan wel slechts op termijn kan worden vastgesteld of aan de in dit hoofdstuk gestelde eisen wordt voldaan, tijdelijke individuele goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid. 
 
 ### Afdeling  3  
 
@@ -721,18 +620,22 @@ De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuige
 
 ### Artikel  3.9  
 
-1.  Een systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers dat bedoeld is om deel uit te maken van een voertuig van de voertuigcategorie M, N, O, L of T met de voertuigclassificatie T1 tot en met T3 en waarvoor onafhankelijk van een voertuig een typegoedkeuring kan worden verleend, moet voor het verkrijgen van een EG-typegoedkeuring voldoen aan de voorschriften van de relevante bijzondere EG-richtlijnen of EG-verordeningen opgenomen in: 
+1.  Een systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers dat bedoeld is om deel uit te maken van een voertuig van de voertuigcategorie M, N, O, L of T met de voertuigclassificatie T1 tot en met T3 en waarvoor onafhankelijk van een voertuig een typegoedkeuring kan worden verleend, moet voor het verkrijgen van een EG-typegoedkeuring voldoen aan de voorschriften van de relevante bijzondere EG-richtlijnen, EG-verordeningen of VN/ECE-reglementen opgenomen in: 
 
 a. bijlage II, deel 2, van richtlijn 2002/24/EG;  
 
 b. bijlage II, hoofdstuk B, van richtlijn 2003/37/EG, en  
 
 c. bijlage IV of XI van richtlijn 2007/46/EG.     
-2.  Een systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers dat bedoeld is om deel uit te maken van een voertuig met de voertuigclassificatie T4.2 of T5 en waarvoor onafhankelijk van een voertuig een typegoedkeuring kan worden verleend moet voor het verkrijgen van een nationale of EG-typegoedkeuring voldoen aan de voorschriften van de relevante bijzondere EG-richtlijnen of EG-verordeningen opgenomen in bijlage II, hoofdstuk B, van richtlijn 2003/37/EG.   
+2.  Een systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers dat bedoeld is om deel uit te maken van een voertuig met de voertuigclassificatie T4.2 of T5 en waarvoor onafhankelijk van een voertuig een typegoedkeuring kan worden verleend moet voor het verkrijgen van een nationale of EG-typegoedkeuring voldoen aan de voorschriften van de relevante bijzondere EG-richtlijnen, EG-verordeningen of VN/ECE-reglementen opgenomen in bijlage II, hoofdstuk B, van richtlijn 2003/37/EG.   
 3.  De systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers als bedoeld in bijlage VA moeten voor het verkrijgen van een overeenkomstig de bij het desbetreffende systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening vermelde VN/ECE-reglement af te geven goedkeuring voldoen aan de voorschriften van het relevante VN/ECE-reglement.   
 4.  Retroreflecterende voorzieningen voor fietsen, zijspanwagens aan fietsen, aanhangwagens achter fietsen en wagens moeten voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voorschriften opgenomen in bijlage VB.   
-5.  Een brandstoftank, reminrichting of stuurinrichting die is bedoeld om deel uit te maken van een voertuig van de voertuigcategorie M, N, O, L en T moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in bijlage IIIA tot en met IIIC.   
-6.  Een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voldoet voor het verkrijgen van een nationale typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet aan de in bijlage XII bij deze regeling vermelde eisen. De houder van een typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet verstrekt bij het alcoholslot een afschrift van het typegoedkeuringscertificaat. 
+5.  Een reminrichting of stuurinrichting die is bedoeld om deel uit te maken van: 
+
+a. een voertuig van de voertuigcategorie M, N of O, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in bijlage IV, deel I, bij richtlijn 2007/46/EG, waarbij de fabrikant tot tevredenheid van de Dienst Wegverkeer aantoont dat aan de essentiële voorschriften van de regelgeving is voldaan.  
+
+b. een voertuig van de voertuigcategorie L of T, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in bijlage IIIB of IIIC bij deze regeling.     
+6.  Een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet voldoet voor het verkrijgen van een nationale typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet aan de in bijlage XII bij deze regeling vermelde eisen. De houder van een typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet verstrekt bij het alcoholslot een afschrift van het typegoedkeuringscertificaat. 
 
 ### Afdeling  4  
 
@@ -741,9 +644,9 @@ c. bijlage IV of XI van richtlijn 2007/46/EG.
 ### Artikel  3.10  
 
 1. Het productieproces van voertuigen met de voertuigclassificaties M<sub>1</sub> en N<sub>1</sub> moet voor het verkrijgen van een goedkeuring van het productieproces wat betreft herbruikbaarheid, recycleerbaarheid en mogelijke nuttige toepassing voldoen aan de voorschriften van de relevante EG-richtlijn opgenomen in bijlage IV of XI van richtlijn 2007/46/EG.  
-2.  Bijlage X bij richtlijn 2007/46/EG is van overeenkomstige toepassing op het productieproces van alcoholsloten, bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met dien verstande dat: 
+2.  Bijlage X bij richtlijn 2007/46/EG is van overeenkomstige toepassing op het productieproces van alcoholsloten, bedoeld in artikel 132e, eerste lid, van de wet, met dien verstande dat: 
 
-a. voor EG-typegoedkeuring wordt gelezen: typegoedkeuring als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a. voor EG-typegoedkeuring wordt gelezen: typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet;  
 
 b. voor EG-typegoedkeuringsinstantie wordt gelezen: de Dienst Wegverkeer.   
 
@@ -751,9 +654,7 @@ b. voor EG-typegoedkeuringsinstantie wordt gelezen: de Dienst Wegverkeer.
 
 ####Voertuigen met een speciaal gebruiksdoel
 
-### Artikel  3.11  
-
-Voertuigen voor speciale doeleinden van de voertuigcategorieën M, N en O moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan richtlijn 2007/46/EG, alsmede aan bijlage IIID voor zover die daarin opgenomen eisen niet gelijk zijn aan of strenger zijn dan de eisen die zijn opgenomen in bijlage IIIA. 
+Vervallen per 01-07-2014 
 
 ### Afdeling  6  
 
@@ -778,12 +679,12 @@ c. de gedeelten ten behoeven van andere vormen van vervoer dan op zitplaatsen.  
 
 ### Artikel  3.14  
 
-Deze afdeling is van overeenkomstige toepassing op personenauto’s bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). 
+Deze afdeling is van overeenkomstige toepassing op personenauto’s bestemd voor openbaar vervoer als bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000. 
 
 ### Artikel  3.15  
 
 1.  Bij de inschrijving van de taxi als bedoeld in artikel 3.13, eerste en tweede lid, wordt in het kentekenregister vermeld: ‘Taxi, ingericht voor het vervoer van ten hoogste […] personen buiten de bestuurder’.   
-2.  Bij de inschrijving van de taxi bedoeld in artikel 3.13 derde en vierde lid wordt een goedkeuringsdocument afgegeven waaruit blijkt dat het voertuig is goedgekeurd voor het gebruik als taxi als bedoeld in [artikel 76, eerste lid, van het Besluit Personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md). Bij de inschrijving in het kentekenregister wordt onder bijzonderheden vermeld: ‘Taxi, zie goedkeuringsdocument’.   
+2.  Bij de inschrijving van de taxi bedoeld in artikel 3.13 derde en vierde lid wordt een goedkeuringsdocument afgegeven waaruit blijkt dat het voertuig is goedgekeurd voor het gebruik als taxi als bedoeld in artikel 76, eerste lid, van het Besluit Personenvervoer 2000. Bij de inschrijving in het kentekenregister wordt onder bijzonderheden vermeld: ‘Taxi, zie goedkeuringsdocument’.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op de inschrijving van een voertuig voor gebruik als OV-voertuig. In het kentekenregister wordt vermeld: ‘OV-auto, ingericht voor het vervoer van ten hoogste […] personen buiten de bestuurder’ dan wel ‘OV-auto, zie goedkeuringsdocument’.  
 
 ### Afdeling  7  
@@ -882,10 +783,10 @@ b. artikel 3.26, eerste tot en met zesde lid van toepassing is.
 a. in 2007/46/EG, of een hierop gebaseerde bijzondere EG-richtlijn, anders is bepaald, of  
 
 b. artikel 3.26, eerste tot en met zesde lid van toepassing is.     
-4.  Een nationale typegoedkeuring van een brandstoftank, reminrichting of stuurinrichting vervalt van rechtswege zodra zwaardere eisen van kracht worden.  
+4.  Een nationale typegoedkeuring van een reminrichting of stuurinrichting vervalt van rechtswege zodra zwaardere eisen van kracht worden.  
 5.  Een nationale kleine serie typegoedkeuring vervalt van rechtswege zodra zwaardere eisen van kracht worden, tenzij artikel 3.27 van toepassing is.   
 6.  Een individuele goedkeuring vervalt zodra zwaardere eisen van kracht worden.   
-7.  Een typegoedkeuring voor een alcoholslot, inclusief de bijbehorende uitleesapparatuur, als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vervalt van rechtswege zodra zwaardere eisen van kracht worden, hetzij voor het alcoholslot, hetzij voor het productieproces van het desbetreffende alcoholslot. Bij het vervallen van de typegoedkeuring op grond van dit lid is artikel 3.36, zevende en achtste lid, van toepassing. 
+7.  Een typegoedkeuring voor een alcoholslot, inclusief de bijbehorende uitleesapparatuur, als bedoeld in artikel 132e, eerste lid, van de wet vervalt van rechtswege zodra zwaardere eisen van kracht worden, hetzij voor het alcoholslot, hetzij voor het productieproces van het desbetreffende alcoholslot. Bij het vervallen van de typegoedkeuring op grond van dit lid is artikel 3.36, zevende en achtste lid, van toepassing. 
 
 ### Artikel  3.25a  
 
@@ -973,7 +874,7 @@ Het is de bestuurder van een voertuig of een samenstel van voertuigen verboden d
 
 ### Artikel  5.1.3  
 
-Het is de bestuurder van een voertuig verboden daarmee te rijden en de eigenaar of houder verboden daarmee te laten rijden, indien niet wordt voldaan aan de aantekeningen, welke ingevolge [artikel 52b, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voor het voertuig in het kentekenregister zijn opgenomen. 
+Het is de bestuurder van een voertuig verboden daarmee te rijden en de eigenaar of houder verboden daarmee te laten rijden, indien niet wordt voldaan aan de aantekeningen, welke ingevolge artikel 52b, van de wet voor het voertuig in het kentekenregister zijn opgenomen. 
 
 ### Artikel  5.1.4  
 
@@ -981,13 +882,13 @@ Gehandicaptenvoertuigen zonder motor moeten voldoen aan de in afdeling 9 van dit
 
 ### Artikel  5.1.5  
 
-1.  [Artikel 72, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is niet van toepassing op: 
+1.  Artikel 72, eerste lid, van de Wegenverkeerswet 1994 is niet van toepassing op: 
 
 a. een voertuig waarvoor een kenteken is opgegeven dat de lettergroep ZZ, ZZZ of de enkele letter A, E, H, K, L, N, P, S, T, V, W, X of Z en twee groepen van twee cijfers bevat;  
 
-b. een voertuig waarvoor een kenteken is opgegeven ter zake waarvan een kentekenbewijs als bedoeld in [artikel 21 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) is afgegeven;  
+b. een voertuig waarvoor een kenteken is opgegeven ter zake waarvan een kentekenbewijs als bedoeld in artikel 21 van het Kentekenreglement is afgegeven;  
 
-c. een voertuig op de dag dat dit door ambtenaren van de Dienst Wegverkeer of door de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt onderzocht in verband met de inschrijving of de wijziging van de inschrijving;  
+c. een voertuig op de dag dat dit door ambtenaren van de Dienst Wegverkeer of door de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, wordt onderzocht in verband met de inschrijving of de wijziging van de inschrijving;  
 
 d. rijdende werktuigen, niet zijnde motorrijtuigen met beperkte snelheid, met: 
 
@@ -1014,86 +915,7 @@ d. rijdende werktuigen, niet zijnde motorrijtuigen met beperkte snelheid, met:
 
 ### Artikel  5.1a.1  
 
-1.   Voor de vaststelling van afmetingen van voertuigen of samenstel van voertuigen wordt verstaan onder: 
-
-a.  *as:* de horizontale lijn die loodrecht staat op het middenlangsvlak van het voertuig en gaat door het midden van één of meer wielen wanneer deze zich in de stand van rechtuitrijden bevinden;  
-
-b.  *lengte van een voertuig of samenstel van voertuigen:* de horizontale afstand tussen twee verticale vlakken die loodrecht staan op het middenlangsvlak van het voertuig of het samenstel van voertuigen en gaan door de uiterste voor- en achterzijde van het voertuig of het samenstel, gemeten in de stand van rechtuitrijden op een horizontaal wegdek; de spiegels en de bevestigingsdelen daarvan worden buiten beschouwing gelaten; een zonneklep die niet meer dan 0,20 m voor het voorste verticale vlak, zoals is bepaald bij een niet gemonteerde zonneklep, uitsteekt en die met eenvoudige middelen afneembaar is, wordt buiten beschouwing gelaten;  
-
-c.  *breedte van een voertuig:* de horizontale afstand tussen twee verticale vlakken die evenwijdig lopen aan het middenlangsvlak van het voertuig en gaan door de uiterste linker- en rechterzijde van het voertuig, gemeten in de stand van rechtuitrijden op een horizontaal wegdek; de spiegels en de bevestigingsdelen daarvan worden buiten beschouwing gelaten;  
-
-d.  *hoogte van een voertuig:* de verticale afstand tussen het wegdek en een horizontaal vlak dat gaat door het hoogst gelegen deel van het voertuig, gemeten op een horizontaal wegdek in de rijstand.     
-2.   Onverminderd het eerste lid worden bij de vaststelling van de afmetingen van bedrijfsauto’s en aanhangwagens met een toegestane maximummassa van meer dan 750 kg en de daarmee gevormde samenstellen van voertuigen, met inbegrip van daarmee vervoerde lading, met uitzondering van aanhangwagens achter landbouw- of bosbouwtrekkers of achter motorrijtuigen met beperkte snelheid, de volgende aan te wijzen delen en onderdelen buiten beschouwing gelaten: 
-
-a.  bij de vaststelling van de lengte van het voertuig of het samenstel van voertuigen: 
-
-1°. hefplatforms, oprijplaten en soortgelijke uitrustingen in bedrijfsklare toestand, voorzover het laadvermogen niet wordt vergroot en deze uitrustingen niet meer dan 30 cm uitsteken;  
-
-2°. kentekenplaten;  
-
-3°. koppelinrichtingen, uitgezonderd koppelinrichtingen aan aanhangwagens;  
-
-4°. langsaanslagen voor afneembare carrosserieën;  
-
-5°. luchtinlaatpijpen;  
-
-6°. stootrubbers en soortgelijke uitrusting;  
-
-7°. stroomafnemers van elektrisch aangedreven voertuigen;  
-
-8°. verlichtingsuitrusting;  
-
-9°. voetsteunen en handgrepen;  
-
-10°. voorzieningen voor de bevestiging van dekzeil en de afscherming daarvan;  
-
-11°. voorzieningen voor douaneverzegelingen en de afscherming daarvan;  
-
-12°. voorzieningen voor indirect zicht en kijkhulpmiddelen;  
-
-13°. voorzieningen voor het waarnemen van de ruimte achter het voertuig;  
-
-14°. wis- en sproei-inrichtingen;  
-
-15°. maximaal 0,80 m van een gestandaardiseerde laadstructuur in de vorm van een 45’ container met een lengte van maximaal 13,72 m en een breedte van maximaal 2,55 m of 2,60 m in het geval van een geconditioneerde gestandaardiseerde laadstructuur, indien deze container stapelbaar is en geschikt is voor vervoer op een zeeschip;    
-
-b.bij de vaststelling van de breedte van het voertuig: 
-
-1°. bandenspanningsmeters;  
-
-2°. douaneverzegelingen, alsmede de voorzieningen hiervoor en de afscherming daarvan;  
-
-3°. flexibele spatlappen;  
-
-4°. opklapbare treden;  
-
-5°. sneeuwkettingen;  
-
-6°. uitstekende flexibele delen van een overeenkomstig het bepaalde in richtlijn nr. 91/226/EEG van de Raad van de Europese Gemeenschappen van 27 maart 1991 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake opspatafschermingssystemen bij bepaalde categorieën motorvoertuigen en aanhangwagens daarvan (PbEG 23 april 1991, L 103) goedgekeurde opspatafscherming;  
-
-7°. verklikkerinrichtingen voor lekke banden;  
-
-8°. verlichtingsuitrusting;  
-
-9°. voorzieningen voor het bevestigen van dekzeil en de afscherming daarvan;  
-
-10°. voorzieningen voor indirect zicht en kijkhulpmiddelen;  
-
-11°. de bollingen van de banden boven het wegdek;  
-
-12°. in breedte uitschuifbare en uitklapbare delen, voorzover uitgeschoven of uitgeklapt, en  
-
-13°. indien het een bus betreft: 
-
-– hefplatforms, oprijplaten en soortgelijke uitrustingen in bedrijfsklare toestand, voorzover zij niet meer dan 1 cm aan de zijkant uitsteken, en in geval van oprijplaten, de hoeken en de randen zijn afgerond tot een straal van respectievelijk minstens 5 mm en 2,5 mm;  
-
-– niet ingetrokken intrekbare zijdelingse geleidingsinrichtingen op bussen bestemd voor gebruik op geleide bussystemen;      
-
-c.  bij de vaststelling van de hoogte van het voertuig: worden de volgende delen en onderdelen buiten beschouwing gelaten: 
-
-1°. antennes, en  
-
-2°. stroomafnemers of trolleystangen in uitgeschoven stand.      
+Bij de vaststelling van de afmetingen van motorvoertuigen en samenstellen daarvan, met uitzondering van landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid en gehandicaptenvoertuigen, worden delen en onderdelen buiten beschouwing gelaten overeenkomstig bijlage VIII, hoofdstuk 1, titel 1, paragraaf 1. 
 
 ### Artikel  5.1a.2  
 
@@ -1203,7 +1025,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | 1.  | De personenauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in bijlage VIII, artikelen 2 en 3 , van toepassing.  |
 | 2.  | De personenauto moet zijn voorzien van de juiste kentekenplaten.  | --- |
 | 3.  | Het voertuigidentificatienummer moet in het chassis, frame of soortgelijke structuur zijn ingeslagen en moet goed leesbaar zijn.  | Visuele controle.  |
-| 4.  | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 4.  | De kentekenplaten moeten zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 5.  | Het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m vóór dan wel achter het midden van de personenauto staat.  |
 
 ###§ 1 
@@ -1622,8 +1444,8 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Personenauto’s in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de auto herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Het eerste lid geldt niet voor personenauto’s gedurende hun inzet voor onopvallende politietaken en personenauto’s in gebruik bij de in  [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 1.  | Personenauto’s in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de auto herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Het eerste lid geldt niet voor personenauto’s gedurende hun inzet voor onopvallende politietaken en personenauto’s in gebruik bij de in  artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 
 ### Artikel  5.2.53  
 
@@ -1694,8 +1516,8 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Personenauto’s in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Personenauto’s in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Personenauto’s in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Personenauto’s in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.2.59  
 
@@ -1737,7 +1559,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |:---|:---|:---|
 | 1.  | Personenauto’s mogen, met uitzondering van grote lichten, niet zijn voorzien van verblindende lichten.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 2.  | Personenauto’s mogen, met uitzondering van de richtingaanwijzers, de waarschuwingsknipperlichten en de remlichten ten behoeve van het noodstopsignaal, niet zijn voorzien van knipperende lichten.  | Lid 2 en 3: visuele controle.  |
-| 3.  | Het tweede lid is niet van toepassing op personenauto’s in gebruik bij de in [artikel 29, eerste lid](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 3.  | Het tweede lid is niet van toepassing op personenauto’s in gebruik bij de in artikel 29, eerste lid, en artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 |4. |In afwijking van het tweede lid mogen de zijmarkeringslichten van personenauto’s synchroon met de richtingaanwijzers aan dezelfde kant van het voertuig knipperen. |Visuele controle. |
 
 ### Artikel  5.2.65  
@@ -1745,7 +1567,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Personenauto’s mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.2.51 , 5.2.51a , 5.2.57  en 5.2.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Personenauto’s niet in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Personenauto’s niet in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 
 ###§ 11 
 
@@ -1775,7 +1597,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | 1.  | Personenauto’s moeten zijn voorzien van ten minste een geluidssignaalinrichting die bestaat uit een goed werkende hoorn met vaste toonhoogte. Een samenstel van zodanige, tegelijk werkende hoorns wordt als één hoorn beschouwd.  | Visuele en auditieve controle, waarbij de hoorn in werking wordt gesteld.  |
 | 2.  | Personenauto’s mogen zijn voorzien van een geluidssignaalinrichting die andere weggebruikers erop attent maakt dat de achteruitversnelling van het voertuig is ingeschakeld, alsmede van een geluidssignaalinrichting die ertoe strekt ongeoorloofd gebruik, diefstal van of ongeoorloofde toegang tot het voertuig te voorkomen.  | Leden 2 tot en met 5: Visuele en auditieve controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 |3. |Hybride elektrische of elektrische personenauto’s mogen zijn voorzien van een akoestisch voertuigwaarschuwingssysteem dat werkt tot het voertuig een snelheid van 25 km/h heeft bereikt. | --- |
-| 4.  | Personenauto’s in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
+| 4.  | Personenauto’s in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
 | 5.  | Personenauto’s mogen niet zijn voorzien van andere geluidssignaalinrichtingen dan bedoeld in het eerste tot en met vierde lid.  | –  |
 
 ###§ 13 
@@ -1787,7 +1609,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Een taxi waarvoor een goedkeuringsdocument is afgegeven, moet in aanvulling op de eisen opgenomen in de paragrafen 0 tot en met 12 van deze afdeling  voldoen aan de in deze paragraaf opgenomen eisen.  | –  |
-| 2.  | Deze paragraaf is van overeenkomstige toepassing op personenauto’s bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), hetgeen blijkt uit een vermelding in het kentekenregister.  | –  |
+| 2.  | Deze paragraaf is van overeenkomstige toepassing op personenauto’s bestemd voor openbaar vervoer als bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000, hetgeen blijkt uit een vermelding in het kentekenregister.  | –  |
 
 ### Artikel  5.2.74  
 
@@ -1854,7 +1676,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |:---|:---|:---|
 | 1.  | De bedrijfsauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in bijlage VIII, artikelen 2 en 3 , van toepassing.  |
 | 2.  | De bedrijfsauto moet zijn voorzien van de juiste kentekenplaten.  | --- |
-| 3.  | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 3.  | De kentekenplaten moeten zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 4.  | Het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m vóór dan wel achter het midden van de bedrijfsauto staat.  |
 | 5.  | Het voertuigidentificatienummer moet in het chassis, frame of soortgelijke structuur zijn ingeslagen en moet goed leesbaar zijn.  | Visuele controle.  |
 | 6.  | Bedrijfsauto’s die in gebruik zijn genomen na 31 december 1997, moeten zijn voorzien van één of meerdere constructieplaten die goed leesbaar zijn en waarvan de gegevens in overeenstemming zijn met het kentekenregister, met dien verstande dat de maximummassa's die op de constructieplaten zijn vermeld ten minste gelijk zijn aan de massa's die zijn aangegeven in het kentekenregister.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
@@ -1994,7 +1816,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | c. bedrijfsauto’s met een toegestane maximummassa van meer dan 12.000 kg, die na 31 december 1987 in gebruik zijn genomen.  | --- |
 | 3.  | De snelheidsbegrenzer moet zijn afgesteld opeen zodanige snelheid, dat de maximumsnelheid van bedrijfsauto’s, niet meer dan 90 km/h kan bedragen. De ingestelde snelheid is onuitwisbaar vermeld op een installatieplaatje dat op een duidelijk zichtbare plaats in de stuurcabine van het voertuig is aangebracht.  | Visuele controle of het installatieplaatje de juiste snelheid aangeeft. Tevens wordt, waar toepasbaar, met een diagnosesysteem vastgesteld of de ingestelde snelheid juist is.  |
 | 4.  | De snelheidsbegrenzer en de voor het functioneren noodzakelijke aansluitingen moeten met behulp van een verzegeling of door de noodzaak om speciale gereedschappen te gebruiken zijn beschermd tegen niet-toegestane bijstelling of onderbreking van de stroomvoorziening.  | Visuele controle van alle zichtbare aansluitingen en verbindingen.  |
-| 5.  | De in het tweede lid bedoelde verplichting geldt niet voor:  a. motorvoertuigen als bedoeld in [artikel 29 van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en  | Visuele controle. Onderdeel a: dit betreft een verwijzing naar hulpdiensten. Of het voertuig wordt gebruikt door een hulpdienst wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 5.  | De in het tweede lid bedoelde verplichting geldt niet voor:  a. motorvoertuigen als bedoeld in artikel 29 van het Reglement verkeersregels en verkeerstekens 1990, en  | Visuele controle. Onderdeel a: dit betreft een verwijzing naar hulpdiensten. Of het voertuig wordt gebruikt door een hulpdienst wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | --- | b. motorvoertuigen die blijkens een voor dat voertuig opgenomen aantekening in het kentekenregister niet van een snelheidsbegrenzer behoeven te zijn voorzien.  | --- |
 | 6.  | Indien een bedrijfsauto met een maximummassa van meer dan 3.500 kg moet zijn voorzien van een controleapparaat als bedoeld in verordening 3821/85/EEG:  a. moet de bedrijfsauto zijn voorzien van een installatieplaatje en mag de op het installatieplaatje vermelde geldigheidsduur niet zijn verstreken, met dien verstande dat de geldigheidsduur maximaal twee jaar vanaf de installatiedatum bedraagt;  b. moet het onder a bedoelde installatieplaatje zijn voorzien van een verzegeling dan wel zodanig zijn aangebracht dat dit bij verwijdering onherstelbaar wordt beschadigd;  | – Onderdeel a: de aanwezigheid van en de geldigheidsduur op het installatieplaatje van de tachograaf wordt visueel gecontroleerd.  – Onderdeel b: visuele controle van de verzegeling van het installatieplaatje van de tachograaf.  – Onderdeel c: bij twijfel meting van de bandenomtrek.  – Onderdeel d: visuele controle van alle zichtbare aansluitingen en verbindingen van de tachograaf.  – De wijze van gebruik van het voertuig en de onderdelen a tot en met d worden niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport indien er geen installatieplaatje in of op het voertuig aanwezig is.  |
 | --- | c. mag de omtrek van de op de aangedreven wielen gemonteerde banden niet meer dan 4% afwijken van de waarde die op het onder a bedoelde installatieplaatje is vermeld, en  | --- |
@@ -2328,16 +2150,16 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | 2.  | Onverminderd het bepaalde in het eerste lid moeten uitstekende delen van bedrijfsauto’s, die in geval van botsing het gevaar voor lichamelijk letsel voor andere weggebruikers aanzienlijk kunnen vergroten, zijn afgeschermd.  | --- |
 | 3.  | Het bepaalde in het eerste en tweede lid is niet van toepassing op voertuigdelen die zich hoger dan 2,00 m boven het wegdek bevinden.  | Visuele controle. In geval van twijfel wordt gemeten.  |
 | 4.  | De wielen onderscheidenlijk banden van bedrijfsauto’s:    a.  met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen na 31 december 1974:    1°.  moeten zijn afgeschermd, en     2°.  mogen niet aanlopen.      Hierbij is het bepaalde in bijlage VIII , artikelen 102 tot en met 106, van toepassing.     b.  met een toegestane maximummassa van meer dan 3.500 kg en in gebruik genomen vóór 1 januari 1975:    1°.  moeten goed zijn afgeschermd, en     2°.  mogen niet aanlopen.         c.  met een toegestane maximummassa van niet meer dan 3.500 kg:    1°.  moeten goed zijn afgeschermd;     2°.  mogen niet meer dan 30 mm buiten de afscherming uitsteken, en     3°.  mogen niet aanlopen.          | Leden 4 tot en met 6: visuele controle.  |
-| 5.  | Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Deze verplichting geldt niet voor trekkers. Hierbij is het bepaalde in bijlage VIII , artikelen 107 tot en met 111, van toepassing.  | --- |
+| 5.  | Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Deze verplichting geldt niet voor opleggertrekkers. Hierbij is het bepaalde in bijlage VIII , artikelen 107 tot en met 111, van toepassing.  | --- |
 | 6.  | Geen deel aan de buitenzijde van de bedrijfsauto mag zodanig zijn bevestigd, beschadigd, versleten of door corrosie zijn aangetast, dat gevaar bestaat voor losraken.  | --- |
 
 ### Artikel  5.3.49  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bedrijfsauto’s die na 30 juni 1967 in gebruik zijn genomen, moeten aan de achterzijde op deugdelijke wijze zijn voorzien van een stootbalk, indien de afstand van de onderzijde van het voertuig tot het wegdek, gemeten over de volle breedte onder de achterzijde van het onderstel of onder de hoofddelen van het koetswerk op een afstand van meer dan 1,00 m achter het hart van de achterste as, meer bedraagt dan 0,70 m dan wel meer bedraagt dan 0,55 m indien het voertuig na 31 december 1997 in gebruik is genomen. Deze verplichting geldt niet voor vuilniswagens met een laadmogelijkheid aan de achterzijde, trekkers en asfaltwagens.  | Leden 1 tot en met 5: visuele controle, in geval van twijfel wordt gemeten.  |
+| 1.  | Bedrijfsauto’s die na 30 juni 1967 in gebruik zijn genomen, moeten aan de achterzijde op deugdelijke wijze zijn voorzien van een stootbalk, indien de afstand van de onderzijde van het voertuig tot het wegdek, gemeten over de volle breedte onder de achterzijde van het onderstel of onder de hoofddelen van het koetswerk op een afstand van meer dan 1,00 m achter het hart van de achterste as, meer bedraagt dan 0,70 m dan wel meer bedraagt dan 0,55 m indien het voertuig na 31 december 1997 in gebruik is genomen. Deze verplichting geldt niet voor vuilniswagens met een laadmogelijkheid aan de achterzijde, opleggertrekkers en asfaltwagens.  | Leden 1 tot en met 5: visuele controle, in geval van twijfel wordt gemeten.  |
 | 2.  | De afstand van de onderzijde van de stootbalk tot het wegdek mag voor bedrijfsauto’s, in gebruik genomen na 30 juni 1967 doch vóór 1 januari 1998, niet meer bedragen dan 0,70 m en voor bedrijfsauto’s, in gebruik genomen na 31 december 1997, niet meer bedragen dan 0,55 m.  | --- |
-| 3.  | Indien de bedrijfsauto in gebruik is genomen na 31 december 2004 mag de stootbalk niet meer dan 0,45 m voor het achterste punt van het voertuig zijn gelegen. Hierbij worden voertuigdelen boven 2,00 m gemeten vanaf het wegdek buiten beschouwing gelaten. In afwijking hiervan geldt voor bedrijfsauto’s, ingericht als betonmolen of betonpomp, dat de stootbalk niet meer dan 0,60 m voor het achterste punt van het voertuig mag zijn gelegen.  | --- |
+| 3.  | Indien de bedrijfsauto in gebruik is genomen na 31 december 2004 mag de stootbalk niet meer dan 0,45 m voor het achterste punt van het voertuig zijn gelegen. Hierbij worden voertuigdelen boven 2,00 m gemeten vanaf het wegdek buiten beschouwing gelaten. In afwijking hiervan geldt voor bedrijfsauto’s, ingericht als betonmolen, betonmixer of betonpomp, dat de stootbalk niet meer dan 0,60 m voor het achterste punt van het voertuig mag zijn gelegen.  | --- |
 | 4.  | Indien de bedrijfsauto in gebruik is genomen na 30 juni 1967 doch voor 1 januari 2005 mag de stootbalk niet meer dan 0,60 m voor het achterste punt van het voertuig zijn gelegen. Hierbij worden voertuigdelen boven 2,00 m gemeten vanaf het wegdek buiten beschouwing gelaten.  | --- |
 | 5.  | De stootbalk van bedrijfsauto’s mag niet breder zijn noch aan weerszijden meer dan 0,10 m smaller zijn dan:  | --- |
 | --- | a. het voertuig op de plaats waar de stootbalk is aangebracht, dan wel  | --- |
@@ -2389,19 +2211,19 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | --- | m. twee markeringslichten aan de voorzijde en twee aan de achterzijde van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en breder is dan 2,10 m, dan wel voor 1 januari 1998 in gebruik is genomen en breder is dan 2,60 m;  | --- |
 | --- | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in bijlage VIII, artikelen 119 tot en met 122 , van toepassing. Deze lichten zijn niet verplicht voor chassiscabines;  | --- |
 | --- | o. ambergele retroreflectoren aan elke zijkant van het voertuig indien het voertuig langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in bijlage VIII, artikelen 119 tot en met 122, van toepassing;  | --- |
-| --- |p. een derde remlicht indien de toegestane maximummassa van het voertuig niet meer bedraagt dan 3.500 kg en het voertuig in gebruik is genomen na 31 december 2012, aangebracht zodanig dat:   1°.  het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en     2°.  de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in onderdeel h;     het derde remlicht is niet verplicht voor chassiscabines, trekkers en voertuigen met een open laadbak; | --- |
+| --- |p. een derde remlicht indien de toegestane maximummassa van het voertuig niet meer bedraagt dan 3.500 kg en het voertuig in gebruik is genomen na 31 december 2012, aangebracht zodanig dat:   1°.  het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en     2°.  de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in onderdeel h;     het derde remlicht is niet verplicht voor chassiscabines, opleggertrekkers en voertuigen met een open laadbak; | --- |
 | --- |q. lijnmarkering aan de achterzijde indien het voertuig breder is dan 2,10 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is bijlage VIII , artikel 153, van toepassing; | --- |
 | --- |r. lijnmarkering aan de zijkant indien het voertuig langer is dan 6,00 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is bijlage VIII , artikel 153, van toepassing. | --- |
-| 2.  | Onverminderd het eerste lid, voldoen begeleidingsvoertuigen als bedoeld in [artikel 1, onderdeel a, van het BABW](../../../../AMvB/besluit/administratieve/bepalingen/inzake/het/wegverkeer/(babw)/BWBR0004826/README.md), aan de krachtens [artikel 71 van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gestelde eisen.  | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Onverminderd het eerste lid, voldoen begeleidingsvoertuigen als bedoeld in artikel 1, onderdeel a, van het BABW, aan de krachtens artikel 71 van de wet gestelde eisen.  | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 |3. |In afwijking van het eerste lid, onderdeel p, moeten twee extra remlichten worden aangebracht indien het derde remlicht niet op een vast deel van de carrosserie of bovenbouw binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. |Leden 3 en 4: visuele controle. |
-|4. |Het eerste lid, onderdelen q en r, is niet van toepassing op trekkers. | --- |
+|4. |Het eerste lid, onderdelen q en r, is niet van toepassing op opleggertrekkers. | --- |
 
 ### Artikel  5.3.51a  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bedrijfsauto’s in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de auto herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.   | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Het eerste lid geldt niet voor bedrijfsauto’s gedurende hun inzet voor onopvallende politietaken en bedrijfsauto’s in gebruik bij de in [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 1.  | Bedrijfsauto’s in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de auto herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.   | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Het eerste lid geldt niet voor bedrijfsauto’s gedurende hun inzet voor onopvallende politietaken en bedrijfsauto’s in gebruik bij de in artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 
 ### Artikel  5.3.53  
 
@@ -2474,8 +2296,8 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bedrijfsauto’s in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Bedrijfsauto’s in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Bedrijfsauto’s in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Bedrijfsauto’s in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.3.59  
 
@@ -2519,7 +2341,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | Bedrijfsauto’s mogen, met uitzondering van grote lichten, niet zijn voorzien van verblindende lichten.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 2.  | Bedrijfsauto’s mogen, met uitzondering van de richtingaanwijzers, de waarschuwingsknipperlichten en de remlichten ten behoeve van het noodstopsignaal, niet zijn voorzien van knipperende lichten.  | Visuele controle.  |
-|3. |Het tweede lid is niet van toepassing op bedrijfsauto’s in gebruik bij de in [artikel 29, eerste lid](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten. |– |
+|3. |Het tweede lid is niet van toepassing op bedrijfsauto’s in gebruik bij de in artikel 29, eerste lid, en artikel 30b van het RVV 1990 bedoelde diensten. |– |
 |4. |In afwijking van het tweede lid mogen de zijmarkeringslichten van bedrijfsauto’s synchroon met de richtingaanwijzers aan dezelfde kant van het voertuig knipperen. |Visuele controle. |
 
 ### Artikel  5.3.65  
@@ -2527,7 +2349,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Bedrijfsauto’s mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.3.51 , 5.3.51a , 5.3.57  en 5.3.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Bedrijfsauto’s niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Bedrijfsauto’s niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 
 ###§ 11 
 
@@ -2581,7 +2403,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | 1.  | Bedrijfsauto’s moeten zijn voorzien van ten minste een geluidssignaalinrichting die bestaat uit een goed werkende hoorn met vaste toonhoogte. Een samenstel van zodanige, tegelijk werkende hoorns wordt als één hoorn beschouwd.  | Visuele en auditieve controle, waarbij de hoorn in werking wordt gesteld.  |
 | 2.  | Bedrijfsauto’s mogen zijn voorzien van een geluidssignaalinrichting die andere weggebruikers erop attent maakt dat de achteruitversnelling is ingeschakeld, alsmede van een geluidssignaalinrichting die ertoe strekt ongeoorloofd gebruik of diefstal van het voertuig te voorkomen.  | Leden 2 tot en met 5: Visuele en auditieve controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 |3. |Hybride elektrische of elektrische bedrijfsauto’s mogen zijn voorzien van een akoestisch voertuigwaarschuwingssysteem dat werkt tot het voertuig een snelheid van 25 km/h heeft bereikt. | --- |
-| 4.  | Bedrijfsauto’s in gebruik bij de in [artikel 29, eerste lid, RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
+| 4.  | Bedrijfsauto’s in gebruik bij de in artikel 29, eerste lid, RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
 | 5.  | Bedrijfsauto’s mogen niet zijn voorzien van andere geluidssignaalinrichtingen dan bedoeld in het eerste tot en met vierde lid.  | --- |
 
 ### Afdeling  3a  
@@ -2603,7 +2425,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | De bus moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Leden 1 tot en met 3: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in bijlage VIII, artikelen 2 en 3 , van toepassing.  |
 | 2.  | De bus moet zijn voorzien van de juiste kentekenplaten.  | --- |
-| 3.  | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | --- |
+| 3.  | De kentekenplaten moeten zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd.  | --- |
 | 4.  | Het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m vóór dan wel achter het midden van de bus staat.  |
 | 5.  | Het voertuigidentificatienummer moet in het chassis, frame of soortgelijke structuur zijn ingeslagen en moet goed leesbaar zijn.  | Leden 5 tot en met 7: visuele controle.  |
 | 6.  | Bussen die in gebruik zijn genomen na 31 december 1997, moeten zijn voorzien van één of meerdere constructieplaten die goed leesbaar zijn en waarvan de gegevens in overeenstemming zijn met het kentekenregister, met dien verstande dat de maximummassa's die op de constructieplaten zijn vermeld ten minste gelijk zijn aan de massa's die zijn aangegeven in het kentekenregister.  | --- |
@@ -2749,7 +2571,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | --- | b. maximaal 100 km/h, indien het een bus betreft met een technisch toegestane maximummassa van meer dan 10.000 kg, die voor 1 januari 2005 in gebruik is genomen.  | --- |
 | --- | De ingestelde snelheid is onuitwisbaar vermeld op een installatieplaatje dat op een duidelijk zichtbare plaats in de stuurcabine van het voertuig is aangebracht.  | --- |
 | 4.  | De snelheidsbegrenzer en de voor het functioneren noodzakelijke aansluitingen moeten met behulp van een verzegeling of door de noodzaak om speciale gereedschappen te gebruiken zijn beschermd tegen niet-toegestane bijstelling of onderbreking van de stroomvoorziening.  | Visuele controle van alle zichtbare aansluitingen en verbindingen.  |
-| 5.  | De in het tweede lid bedoelde verplichting geldt niet voor:  a. motorrijtuigen als bedoeld in [artikel 29 van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en  b. motorrijtuigen die blijkens een voor dat voertuig opgenomen aantekening in het kentekenregister niet van een snelheidsbegrenzer behoeven te zijn voorzien.  | Visuele controle. Onderdeel a: Dit betreft een verwijzing naar hulpdiensten. Of het voertuig wordt gebruikt door een hulpdienst wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 5.  | De in het tweede lid bedoelde verplichting geldt niet voor:  a. motorrijtuigen als bedoeld in artikel 29 van het Reglement verkeersregels en verkeerstekens 1990, en  b. motorrijtuigen die blijkens een voor dat voertuig opgenomen aantekening in het kentekenregister niet van een snelheidsbegrenzer behoeven te zijn voorzien.  | Visuele controle. Onderdeel a: Dit betreft een verwijzing naar hulpdiensten. Of het voertuig wordt gebruikt door een hulpdienst wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 6.  | Indien een bus met een toegestane maximummassa van meer dan 3.500 kg moet zijn voorzien van een controleapparaat als bedoeld in verordening 3821/85/EEG:  a. moet de bus zijn voorzien van een installatieplaatje en mag de op het installatieplaatje vermelde geldigheidsduur niet zijn verstreken, met dien verstande dat de geldigheidsduur maximaal twee jaar vanaf de installatiedatum bedraagt;  b. moet het onder a bedoelde installatieplaatje zijn voorzien van een verzegeling dan wel zodanig zijn aangebracht dat dit bij verwijdering onherstelbaar wordt beschadigd;  c. mag de omtrek van de op de aangedreven wielen gemonteerde banden niet meer dan 4% afwijken van de waarde die op het onder a bedoelde installatieplaatje is vermeld, en  | – Onderdeel a: de aanwezigheid van en de geldigheidsduur op het installatieplaatje van de tachograaf wordt visueel gecontroleerd.  – Onderdeel b: visuele controle van de verzegeling van het installatieplaatje van de tachograaf.  – Onderdeel c: bij twijfel meting van de bandenomtrek.  – Onderdeel d: visuele controle van alle zichtbare aansluitingen en verbindingen van de tachograaf.  – De wijze van gebruik van het voertuig en de onderdelen a tot en met d worden niet getoetst tijdens de periodieke keuring indien er geen installatieplaatje in of op het voertuig aanwezig is ten behoeve van de afgifte van een keuringsrapport.  |
 | --- | d. moeten het controleapparaat en de voor het functioneren noodzakelijke aansluitingen met behulp van een verzegeling zijn beschermd tegen een niet-toegestane wijziging in de instellingen of onderbreking van de stroomvoorziening.  | --- |
 
@@ -3139,8 +2961,8 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bussen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de bus herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-|2. |Het eerste lid geldt niet voor bussen gedurende hun inzet voor onopvallende politietaken en bussen in gebruik bij de in [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten. | --- |
+| 1.  | Bussen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de bus herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+|2. |Het eerste lid geldt niet voor bussen gedurende hun inzet voor onopvallende politietaken en bussen in gebruik bij de in artikel 30b van het RVV 1990 bedoelde diensten. | --- |
 
 ### Artikel  5.3a.53  
 
@@ -3211,8 +3033,8 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bussen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Bussen in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Bussen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Bussen in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.3a.59  
 
@@ -3256,7 +3078,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | Bussen mogen, met uitzondering van grote lichten, niet zijn voorzien van verblindende lichten.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 2.  | Bussen mogen, met uitzondering van de richtingaanwijzers, de waarschuwingsknipperlichten en de remlichten ten behoeve van het noodstopsignaal, niet zijn voorzien van knipperende lichten.  | Visuele controle.  |
-| 3.  | Het tweede lid is niet van toepassing op bussen in gebruik bij de in [artikel 29, eerste lid, en artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 3.  | Het tweede lid is niet van toepassing op bussen in gebruik bij de in artikel 29, eerste lid, en artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 |4. |In afwijking van het tweede lid mogen de zijmarkeringslichten van bussen synchroon met de richtingaanwijzers aan dezelfde kant van het voertuig knipperen. |Visuele controle. |
 
 ### Artikel  5.3a.65  
@@ -3264,7 +3086,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Bussen mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.3a.51 , 5.3a.51a , 5.3a.57  en 5.3a.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig, behoudens de ingevolge artikel 5.3a.41, vijfde lid , verplichte binnenverlichting.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Bussen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Bussen niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 
 ###§ 11 
 
@@ -3303,7 +3125,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | 1.  | Bussen moeten zijn voorzien van ten minste een geluidssignaalinrichting die bestaat uit een goed werkende hoorn met vaste toonhoogte. Een samenstel van zodanige, tegelijk werkende hoorns wordt als één hoorn beschouwd.  | Visuele en auditieve controle, waarbij de hoorn in werking wordt gesteld.  |
 | 2.  | Bussen mogen zijn voorzien van een geluidssignaalinrichting die andere weggebruikers erop attent maakt dat de achteruitversnelling is ingeschakeld, alsmede van een geluidssignaalinrichting die ertoe strekt ongeoorloofd gebruik of diefstal van het voertuig te voorkomen.  | Leden 2 tot en met 5: visuele en auditieve controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 |3. |Hybride elektrische of elektrische bussen mogen zijn voorzien van een akoestisch voertuigwaarschuwingssysteem dat werkt tot het voertuig een snelheid van 25 km/h heeft bereikt. | --- |
-| 4.  | Bussen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
+| 4.  | Bussen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
 | 5.  | Bussen mogen niet zijn voorzien van andere geluidssignaalinrichtingen dan bedoeld in het eerste tot en met vierde lid.  | --- |
 
 ### Afdeling  4  
@@ -3324,7 +3146,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 |:---|:---|:---|
 | 1.  | De motorfiets moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Leden 1 tot en met 3: visuele controle.  |
 | 2.  | Het voertuigidentificatienummer moet in het chassis of frame zijn ingeslagen en moet goed leesbaar zijn.  | --- |
-| 3.  | De kentekenplaat moet zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | --- |
+| 3.  | De kentekenplaat moet zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | --- |
 | 4.  | Het kenteken moet goed leesbaar zijn en de kentekenplaat mag niet zijn afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m achter het midden van het motorfiets staat.  |
 
 ###§ 1 
@@ -3607,8 +3429,8 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1.  | Motorfietsen en zijspanwagens verbonden aan een motorfiets in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de motorfiets of zijspanwagen verbonden aan een motorfiets herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle.  |
-| 2.  | Het eerste lid geldt niet voor motorfietsen en zijspanwagens verbonden aan motorfietsen gedurende hun inzet voor onopvallende politietaken en motorfietsen en zijspanwagens verbonden aan motorfietsen in gebruik bij de in [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 1.  | Motorfietsen en zijspanwagens verbonden aan een motorfiets in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de motorfiets of zijspanwagen verbonden aan een motorfiets herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle.  |
+| 2.  | Het eerste lid geldt niet voor motorfietsen en zijspanwagens verbonden aan motorfietsen gedurende hun inzet voor onopvallende politietaken en motorfietsen en zijspanwagens verbonden aan motorfietsen in gebruik bij de in artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 
 ### Artikel  5.4.52  
 
@@ -3661,7 +3483,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Motorfietsen mogen zijn voorzien van:  | Leden 1 tot en met 3: visuele controle.  |
+| 1.  | Motorfietsen mogen zijn voorzien van:  | Leden 1 tot en met 4: visuele controle. In geval van twijfel wordt gemeten.  |
 | --- | a. één extra groot licht;  | --- |
 | --- | b. één extra dimlicht;  | --- |
 | --- | c. één extra stadslicht;  | --- |
@@ -3677,13 +3499,14 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 | --- |m. één of twee dagrijlichten. | --- |
 | 2.  | Lichten die ingevolge artikel 5.4.51  verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in artikel 5.4.53  met betrekking tot die lichten gestelde eisen.  | --- |
 | 3.  | Motorfietsen mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig.  | --- |
+|4. |Indien een motorfiets is verbonden aan een zijspanwagen mag de combinatie voorzien zijn van ten hoogste twee dagrijlichten. | --- |
 
 ### Artikel  5.4.57a  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Motorfietsen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Visuele controle.  |
-| 2.  | Motorfietsen in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
+| 1.  | Motorfietsen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Visuele controle.  |
+| 2.  | Motorfietsen in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
 
 ### Artikel  5.4.58  
 
@@ -3695,7 +3518,8 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 | --- | c. een remlicht;  | --- |
 | --- | d. een witte retroreflector aan de voorzijde van de zijspanwagen;  | --- |
 | --- | e. een ambergele retroreflector aan elke zijkant van de zijspanwagen;  | --- |
-| --- | f. een parkeerlicht aan de verst van de motorfiets verwijderde zijkant van de zijspanwagen.  | --- |
+| --- | f. een parkeerlicht aan de verst van de motorfiets verwijderde zijkant van de zijspanwagen;  | --- |
+| --- |g. een dagrijlicht. | --- |
 | 2.  | Zijspanwagens mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig.  | --- |
 
 ### Artikel  5.4.59  
@@ -3728,14 +3552,14 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 |:---|:---|:---|
 | 1.  | Motorfietsen en zijspanwagens verbonden aan motorfietsen mogen, met uitzondering van groot licht, niet zijn voorzien van verblindende lichten.  | Lid 1 en 2: visuele controle.  |
 | 2.  | Motorfietsen en zijspanwagens verbonden aan motorfietsen mogen, met uitzondering van de richtingaanwijzers en de waarschuwingsknipperlichten, niet zijn voorzien van knipperende lichten.  | --- |
-|3. |Het tweede lid is niet van toepassing op motorfietsen en zijspanwagens verbonden aan motorfietsen in gebruik bij de in [artikel 29, eerste lid, en artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten. |– |
+|3. |Het tweede lid is niet van toepassing op motorfietsen en zijspanwagens verbonden aan motorfietsen in gebruik bij de in artikel 29, eerste lid, en artikel 30b van het RVV 1990 bedoelde diensten. |– |
 
 ### Artikel  5.4.65  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Motorfietsen en zijspanwagens verbonden aan motorfietsen mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.4.51 , 5.4.51a , 5.4.57 , 5.4.57a  en 5.4.58  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Motorfietsen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
+| 2.  | Motorfietsen niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
 
 ###§ 11 
 
@@ -3759,7 +3583,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 | 1.  | Motorfietsen moeten zijn voorzien van ten minste een geluidssignaalinrichting die bestaat uit een goed werkende hoorn met vaste toonhoogte. Een samenstel van zodanige, tegelijk werkende hoorns wordt als één hoorn beschouwd.  | Visuele en auditieve controle, waarbij de hoorn in werking wordt gesteld.  |
 | 2.  | Motorfietsen mogen zijn voorzien van een geluidssignaalinrichting die ertoe strekt ongeoorloofd gebruik of diefstal van de motorfiets of de zijspanwagen te voorkomen, alsmede van een geluidssignaal dat de bestuurder kenbaar maakt dat de richtingaanwijzer is ingeschakeld.  | Leden 2 tot en met 4: visuele en auditieve controle.  |
 |3. |Hybride elektrische of elektrische motorfietsen mogen zijn voorzien van een akoestisch voertuigwaarschuwingssysteem dat werkt tot het voertuig een snelheid van 25 km/h heeft bereikt. | --- |
-| 4.  | Motorfietsen in gebruik bij de in [artikel 29, eerste lid, RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
+| 4.  | Motorfietsen in gebruik bij de in artikel 29, eerste lid, RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
 | 5.  | Motorfietsen mogen niet zijn voorzien van andere geluidssignaalinrichtingen dan bedoeld in het eerste tot en met vierde lid.  | --- |
 
 ### Afdeling  5  
@@ -3781,7 +3605,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 1.  | Het driewielige motorrijtuig moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Lid 1 en 2: visuele controle, tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in bijlage VIII, artikelen 2 en 3 , van toepassing.  |
 | 2.  | Het driewielige motorrijtuig moet aan de achterzijde en mag aan de voorzijde zijn voorzien van de juiste kentekenplaat.  | --- |
 | 3.  | Het voertuigidentificatienummer moet in het chassis of frame zijn ingeslagen en moet goed leesbaar zijn.  | Visuele controle.  |
-| 4.  | De kentekenplaten moeten deugdelijk zijn bevestigd en zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk.  | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 4.  | De kentekenplaten moeten deugdelijk zijn bevestigd en zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk.  | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 5.  | De kentekenplaat aan de achterzijde mag niet zijn afgeschermd en het kenteken moet goed leesbaar zijn.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m achter het midden van het driewielig motorrijtuig staat.  |
 
 ###§ 1 
@@ -4061,13 +3885,13 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Driewielige motorrijtuigen, in gebruik genomen na 31 maart 1990, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg:  a. ten minste 4,5 m/s<sup>2</sup> bedraagt bij een pedaalkracht van niet meer dan 500 N onderscheidenlijk bij een kracht op de remhendel van niet meer dan 200 N;  | Leden 1 tot en met 4:  – De controle moet plaatsvinden door middel van een beproeving op de weg. Bij twijfel wordt met behulp van een zelfregistrerende remvertragingsmeter de vertraging gemeten.  – De snelheid moet bij de aanvang van de remproef ongeveer 50 km/h bedragen.  |
-| --- | b. ten minste 4,0 m/s<sup>2</sup> bedraagt bij een pedaalkracht van niet meer dan 700 N onderscheidenlijk bij een kracht op de remhendel van niet meer dan 200 N, indien het een voertuig betreft dat voor 1 april 1997 in gebruik is genomen en dat is bestemd voor het vervoer van goederen;  c. in geval van een gecombineerde reminrichting:  | – Bij gebruik van een elektronische zelfregistrerende remvertragingsmeter moet de bij de remproef behaalde remvertraging als volgt worden vastgesteld:  a. indien op de remvertragingsmeter een resulterende of gemiddelde waarde wordt aangegeven, geldt deze waarde als de minimaal behaalde remvertraging;  |
+| 1.  | Driewielige motorrijtuigen, in gebruik genomen na 31 maart 1990, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg:  a. ten minste 4,5 m/s<sup>2</sup> bedraagt bij een pedaalkracht van niet meer dan 500 N onderscheidenlijk bij een kracht op de remhendel van niet meer dan 200 N;  | Leden 1 tot en met 4:  – De controle moet plaatsvinden door middel van een beproeving op de weg.  – De snelheid moet bij de aanvang van de remproef ongeveer 50 km/h bedragen.  |
+| --- | b. ten minste 4,0 m/s<sup>2</sup> bedraagt bij een pedaalkracht van niet meer dan 700 N onderscheidenlijk bij een kracht op de remhendel van niet meer dan 200 N, indien het een voertuig betreft dat voor 1 april 1997 in gebruik is genomen en dat is bestemd voor het vervoer van goederen;  c. in geval van een gecombineerde reminrichting:  | – De remvertraging wordt met een elektronische zelfregistrerende remvertragingsmeter als volgt vastgesteld:  a. indien op de remvertragingsmeter een resulterende of gemiddelde waarde wordt aangegeven, geldt deze waarde als de minimaal behaalde remvertraging;  |
 | --- | 1°. bij gebruik van de gecombineerde reminrichting ten minste 4,5 m/s<sup>2</sup> bedraagt, en  2°. bij gebruik van de andere bedrijfsrem of hulprem ten minste 2,2 m/s<sup>2</sup> bedraagt.  | b. indien de remvertraging niet volgens onderdeel a kan worden vastgesteld, geldt de waarde die met behulp van de meetwaardentabel op de registratiestrook wordt vastgesteld, door het gemiddelde te nemen van alle gemeten waarden die gelijk of groter zijn aan de minimaal vereiste remvertraging en gedurende minimaal een halve seconde zijn gemeten;  |
 | --- | --- | c. indien de remvertraging niet volgens onderdeel a of b kan worden vastgesteld, geldt als remvertraging de waarde die met behulp van de grafiek op de registratiestrook als volgt is vastgesteld:  |
 | --- | --- | 1°. indien op het moment dat het voertuig nagenoeg stilstond geen plotselinge stijging van de remvertraging is waar te nemen, is de hoogst behaalde waarde van remvertraging bepalend;  |
 | --- | --- | 2°. indien op het moment dat het voertuig nagenoeg stilstond een plotselinge stijging van de remvertraging is waar te nemen, is de waarde van de behaalde remvertraging vlak vóór deze stijging bepalend.  |
-| --- | --- | – Indien op een remtestinrichting kan worden vastgesteld dat de remvertraging voldoet kan de beproeving op de weg achterwege gelaten worden. De bij de remproef behaalde remvertraging wordt berekend door de remkrachten bij elkaar op te tellen en vervolgens te delen door de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg.  |
+| --- | --- | – Indien op een remtestinrichting kan worden vastgesteld dat de remvertraging voldoet kan de beproeving op de weg achterwege gelaten worden.  De bij de remproef behaalde remvertraging wordt berekend door de remkrachten bij elkaar op te tellen en vervolgens te delen door de in het kentekenregister vermelde massa van het ledig voertuig vermeerderd met 100 kg. |
 | 2.  | Driewielige motorrijtuigen met een ledige massa van meer dan 400 kg, in gebruik genomen na 26 november 1975 doch vóór 1 april 1990, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s<sup>2</sup> bedraagt bij een pedaalkracht van niet meer dan 700 N onderscheidenlijk bij een kracht op de remhendel van niet meer dan 200 N.  | --- |
 | 3.  | Driewielige motorrijtuigen met een ledige massa van niet meer dan 400 kg, in gebruik genomen na 26 november 1975 doch vóór 1 april 1990, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s<sup>2</sup> bedraagt, welke waarde bij voertuigen met twee reminrichtingen moet worden gehaald bij gebruik van beide remmen tezamen; bij gebruik van elke der reminrichtingen afzonderlijk moet de remvertraging ten minste 1,7 m/s<sup>2</sup> bedragen.  | --- |
 | 4.  | Driewielige motorrijtuigen, in gebruik genomen voor 27 november 1975, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s<sup>2</sup> bedraagt, welke waarde bij voertuigen met twee reminrichtingen moet worden gehaald bij gebruik van beide remmen tezamen.  | --- |
@@ -4188,8 +4012,8 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Driewielige motorrijtuigen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar bedoelde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die het motorrijtuig herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle.  |
-| 2.  | Het eerste lid geldt niet voor driewielige motorrijtuigen gedurende hun inzet voor onopvallende politietaken en driewielige motorrijtuigen in gebruik bij de in [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten.  | --- |
+| 1.  | Driewielige motorrijtuigen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar bedoelde signalen mogen voeren, moeten zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die het motorrijtuig herkenbaar maken als zijnde in gebruik bij die diensten. Deze voertuigen moeten zijn voorzien van geel zwaai-, flits- of knipperlicht.  | Leden 1 en 2: visuele controle.  |
+| 2.  | Het eerste lid geldt niet voor driewielige motorrijtuigen gedurende hun inzet voor onopvallende politietaken en driewielige motorrijtuigen in gebruik bij de in artikel 30b van het RVV 1990 bedoelde diensten.  | --- |
 
 ### Artikel  5.5.53  
 
@@ -4237,26 +4061,30 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | --- | j. ambergele retroreflectoren aan de voorste zijkanten van het voertuig, ambergele of rode retroreflectoren aan de achterste zijkanten van het voertuig;  | --- |
 | --- | k. witte retroreflectoren aan de voorzijde van het voertuig;  | --- |
 | --- | l. werklichten;  | --- |
-| --- | m. verlichte transparanten.  | --- |
-| 2.  | Lichten die ingevolge artikel 5.5.51  verplicht zijn gesteld voor voertuigen die na een in dat artikel  genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen, mits wordt voldaan aan de in artikel 5.5.53  met betrekking tot die lichten gestelde eisen.  | Leden 2 tot en met 4: visuele controle.  |
+| --- | m. verlichte transparanten;  | --- |
+| --- |n. één of twee dagrijlichten indien het voertuig niet breder is dan 1,30 m, dan wel twee dagrijlichten indien het voertuig breder is dan 1,30 m; | --- |
+| --- |o. een derde remlicht, aangebracht zodanig dat:    1°.  het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en     2°.  de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in artikel 5.5.51, eerste lid, onder g .     | --- |
+| 2.  | Lichten die ingevolge artikel 5.5.51  verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen, mits wordt voldaan aan de in artikel 5.5.53  met betrekking tot die lichten gestelde eisen.  | Leden 2 tot en met 4: visuele controle.  |
 | 3.  | Driewielige motorrijtuigen mogen zijn voorzien van extra rode retroreflectoren aan de achterzijde van het voertuig.  | --- |
 | 4.  | Verlichte transparanten:  a. moeten afzonderlijk zijn geschakeld;  b. mogen niet breder zijn dan het voertuig waarop de verlichting is gemonteerd, en  c. mogen niet langer zijn dan het voertuig waarop de verlichting is gemonteerd.  | --- |
+|5. |In afwijking van het eerste lid, onderdeel o, mogen twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. |Visuele controle. In geval van twijfel wordt gemeten. |
 
 ### Artikel  5.5.57a  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Driewielige motorrijtuigen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Driewielige motorrijtuigen in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Driewielige motorrijtuigen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van blauwe en groene zwaai-, flits- of knipperlichten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Driewielige motorrijtuigen in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.5.59  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | De mistvoorlichten en de achteruitrijlichten mogen niet anders dan wit of geel stralen.  | Leden 1 tot en met 4: visuele controle, waarbij de desbetreffende lichten worden ingeschakeld.  |
-| 2.  | De mistachterlichten van het voertuig mogen niet anders dan rood stralen.  | --- |
+| 1.  | De mistvoorlichten en de achteruitrijlichten mogen niet anders dan wit of geel stralen.  | Leden 1 tot en met 5: visuele controle, waarbij de desbetreffende lichten worden ingeschakeld.  |
+| 2.  | De mistachterlichten en het derde remlicht van het voertuig mogen niet anders dan rood stralen.  | --- |
 | 3.  | De parkeerlichten mogen naar voren niet anders dan wit en naar achteren niet anders dan rood stralen.  | --- |
 | 4.  | De zijrichtingaanwijzers mogen naar voren niet anders dan ambergeel of wit en naar achteren niet anders dan ambergeel of rood stralen.  | --- |
+|5. |De dagrijlichten mogen niet anders dan wit stralen. | --- |
 
 ### Artikel  5.5.59a  
 
@@ -4286,14 +4114,14 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 |:---|:---|:---|
 | 1.  | Driewielige motorrijtuigen mogen, met uitzondering van grote lichten, niet zijn voorzien van verblindende lichten.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 2.  | Driewielige motorrijtuigen mogen, met uitzondering van de richtingaanwijzers en de waarschuwingsknipperlichten, niet zijn voorzien van knipperende lichten.  | Visuele controle.  |
-|3. |Het tweede lid is niet van toepassing op driewielige motorrijtuigen in gebruik bij de in [artikel 29, eerste lid](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en [artikel 30b van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten. | --- |
+|3. |Het tweede lid is niet van toepassing op driewielige motorrijtuigen in gebruik bij de in artikel 29, eerste lid, en artikel 30b van het RVV 1990 bedoelde diensten. | --- |
 
 ### Artikel  5.5.65  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Driewielige motorrijtuigen mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.5.51 , 5.5.51a , 5.5.57  en 5.5.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Driewielige motorrijtuigen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Driewielige motorrijtuigen niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 
 ###§ 11 
 
@@ -4317,7 +4145,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 1.  | Driewielige motorrijtuigen moeten zijn voorzien van ten minste een geluidssignaalinrichting die bestaat uit een goed werkende hoorn met vaste toonhoogte. Een samenstel van zodanige, tegelijk werkende hoorns wordt als één hoorn beschouwd.  | Visuele en auditieve controle, waarbij de hoorn in werking wordt gesteld.  |
 | 2.  | Driewielige motorrijtuigen mogen zijn voorzien van een geluidssignaalinrichting die andere weggebruikers erop attent maakt dat de achteruitversnelling van het voertuig is ingeschakeld, alsmede van een geluidssignaalinrichting die ertoe strekt ongeoorloofd gebruik of diefstal van het voertuig te voorkomen.  | Leden 2 tot en met 5: visuele en auditieve controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoefte van de afgifte van een keuringsrapport.  |
 |3. |Hybride elektrische of elektrische driewielige motorrijtuigen mogen zijn voorzien van een akoestisch voertuigwaarschuwingssysteem dat werkt tot het voertuig een snelheid van 25 km/h heeft bereikt. | --- |
-| 4.  | Driewielige motorrijtuigen in gebruik bij de in [artikel 29, eerste lid, RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
+| 4.  | Driewielige motorrijtuigen in gebruik bij de in artikel 29, eerste lid, RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, moeten zijn voorzien van een tweetonige hoorn.  | --- |
 | 5.  | Driewielige motorrijtuigen mogen niet zijn voorzien van andere geluidsignaalinrichtingen dan bedoeld in het eerste tot en met vierde lid.  | --- |
 
 ### Afdeling  6  
@@ -4338,7 +4166,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 |:---|:---|:---|
 | 1.  | De bromfiets moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Leden 1 tot en met 3: visuele controle.  |
 | 2.  | Het voertuigidentificatienummer is in het chassis of frame ingeslagen en is goed leesbaar.  | --- |
-| 3.  | De kentekenplaat is voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | --- |
+| 3.  | De kentekenplaat is voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | --- |
 | 4.  | Het kenteken is goed leesbaar en de kentekenplaat is niet afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar zijn indien de waarnemer op een afstand van 20,00 m achter het midden van het bromfiets staat.  |
 | 5.  | Het eerste, derde en vierde lid zijn niet van toepassing op motorvoertuigen met een door de constructie bepaalde maximumsnelheid van ten hoogste 6 km/h en motorvoertuigen die bestemd zijn om door een voetganger te worden meegevoerd.  | –  |
 
@@ -4382,8 +4210,8 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Bromfietsen die blijkens het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van meer dan 25 km/h tot en met 45 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 5 km/h, voldoen. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | –  |
-| 2.  | Bromfietsen die blijkens het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van niet meer dan 25 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 4 km/h, voldoen. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | –  |
+| 1.  | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van meer dan 25 km/h tot en met 45 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 5 km/h, voldoen. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | –  |
+| 2.  | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van niet meer dan 25 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 4 km/h, voldoen. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | –  |
 | 3.  | Bromfietsen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste en tweede lid vermelde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden.  | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. Eventueel wordt de meting opnieuw uitgevoerd.  |
 
 ### Artikel  5.6.9  
@@ -4428,7 +4256,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 |:---|:---|:---|
 | 1.  | Bromfietsen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle.  |
-| 3.  | Bromfietsen moeten blijven behoren tot een goedgekeurd type als bedoeld in [artikel 2 van het Besluit typekeuring bromfietsen luchtverontreiniging](../../../../AMvB/besluit/typekeuring/bromfietsen/luchtverontreiniging/BWBR0003722/README.md) (*Stb.* 1984, 525).   | –  |
+| 3.  | Bromfietsen moeten blijven behoren tot een goedgekeurd type als bedoeld in artikel 2 van het Besluit typekeuring bromfietsen luchtverontreiniging (*Stb.* 1984, 525).   | –  |
 | 4.  | Bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII, artikelen 36, 37 en 38 , van toepassing.  | –  |
 | 5.  | Bromfietsen waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 97 dB(A) voor bromfietsen die blijkens de gegevens in het kentekenregister zijn geconstrueerd voor een maximumsnelheid van meer dan 25 km/h en niet meer dan 90 dB(A) voor andere bromfietsen. Hierbij is het bepaalde in bijlage VIII, artikelen 36, 37 en 38 , van toepassing.  | –  |
 
@@ -4717,9 +4545,10 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | --- | f. één of twee remlichten;  | --- |
 | --- | g. ambergele retroreflectoren aan de voorste zijkanten van het voertuig, ambergele of rode retroreflectoren aan de achterste zijkanten van het voertuig;  | --- |
 | --- | h. achterkentekenplaatverlichting;  | --- |
-| --- | i. één naar voren gerichte witte retroreflector.  | --- |
-| 2.  | Bromfietsen op drie of vier wielen mogen zijn voorzien van:  | – Onderdeel a: visuele controle. In geval van twijfel wordt gemeten.  |
-| --- | a. één of twee grote lichten indien de breedte van het voertuig 1,30 m of minder bedraagt en twee grote lichten indien de breedte van het voertuig meer dan 1,30 m bedraagt;  | – Onderdelen b tot en met i: visuele controle.  |
+| --- | i. één naar voren gerichte witte retroreflector;  | --- |
+| --- |j. één dagrijlicht. | --- |
+| 2.  | Bromfietsen op drie of vier wielen mogen zijn voorzien van:  | – Onderdelen a en i: visuele controle. In geval van twijfel wordt gemeten.  |
+| --- | a. één of twee grote lichten indien de breedte van het voertuig 1,30 m of minder bedraagt en twee grote lichten indien de breedte van het voertuig meer dan 1,30 m bedraagt;  | – Onderdelen b tot en met h: visuele controle.  |
 | --- | b. twee richtingaanwijzers aan de voorzijde twee richtingaanwijzers aan de achterzijde en waarschuwingsknipperlichten indien het voertuig niet is voorzien van een gesloten carrosserie;  | --- |
 | --- | c. achterkentekenplaatverlichting;  | --- |
 | --- | d. ambergele retroreflectoren aan de zijkanten van het voertuig;  | --- |
@@ -4727,36 +4556,39 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | --- | f. één of twee mistvoorlichten;  | --- |
 | --- | g. één of twee mistachterlichten;  | --- |
 | --- | h. één of twee achteruitrijlichten;  | --- |
-| --- | i. één derde remlicht.  | --- |
+| --- | i. een derde remlicht, aangebracht zodanig dat:    1°.  het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en     2°.  de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in artikel 5.6.51, derde lid, onder e.     | --- |
 | 3.  | Bromfietsen mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig.  | Visuele controle.  |
+|4. |In afwijking van het tweede lid, onderdeel i, mogen twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. |Visuele controle. In geval van twijfel wordt gemeten. |
 
 ### Artikel  5.6.57a  
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| --- | Bromfietsen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de bromfiets herkenbaar maken als zijnde in gebruik bij die diensten.  | Visuele controle.  |
+| --- | Bromfietsen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de bromfiets herkenbaar maken als zijnde in gebruik bij die diensten.  | Visuele controle.  |
 
 ### Artikel  5.6.58  
 
 |--- | Eisen  | Wijze van keuren  |
 |:---|:---|:---|
 | 1.  | Zijspanwagens, verbonden aan een bromfiets, mogen zijn voorzien van:  | – Onderdelen a en e: visuele controle. In geval van twijfel wordt gemeten.  |
-| --- | a. één stadslicht aan de uiterste buitenzijde van het voertuig op ten minste 0,35 m en ten hoogste 1,20 m boven het wegdek;  | – Onderdelen b, c, d en f: visuele controle.  |
+| --- | a. één stadslicht aan de uiterste buitenzijde van het voertuig op ten minste 0,35 m en ten hoogste 1,20 m boven het wegdek;  | – Onderdelen b, c, d, f en g: visuele controle.  |
 | --- | b. één achterlicht;  | --- |
 | --- | c. richtingaanwijzers en waarschuwingsknipperlichten;  | --- |
 | --- | d. één remlicht;  | --- |
 | --- | e. een naar voren gerichte witte retroreflector aan de voorzijde van het voertuig, aangebracht aan de uiterste buitenzijde op ten minste 0,45 m en ten hoogste 1,20 m boven het wegdek;  | --- |
-| --- | f. ambergele retroreflectoren aan de zijkanten van het voertuig.  | --- |
+| --- | f. ambergele retroreflectoren aan de zijkanten van het voertuig;  | --- |
+| --- |g. één dagrijlicht. | --- |
 | 2.  | Zijspanwagens mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig.  | Visuele controle.  |
 
 ### Artikel  5.6.59  
 
 |--- | Eisen  | Wijze van keuren  |
 |:---|:---|:---|
-| 1.  | Het grote licht, het mistvoorlicht, het achteruitrijlicht en het stadslicht mogen niet anders dan wit of geel stralen.  | Leden 1 tot en met 4: visuele controle, waarbij de desbetreffende lichten worden ingeschakeld.  |
+| 1.  | Het grote licht, het mistvoorlicht, het achteruitrijlicht en het stadslicht mogen niet anders dan wit of geel stralen.  | Leden 1 tot en met 5: visuele controle, waarbij de desbetreffende lichten worden ingeschakeld.  |
 | 2.  | Het achterlicht, het mistachterlicht, het derde remlicht en het remlicht mogen niet anders dan rood stralen.  | --- |
 | 3.  | Richtingaanwijzers en waarschuwingsknipperlichten mogen niet anders dan ambergeel stralen.  | --- |
 | 4.  | De achterkentekenplaatverlichting mag niet anders dan wit stralen en mag niet naar achteren stralen.  | --- |
+|5. |Het dagrijlicht mag niet anders dan wit stralen. | --- |
 
 ### Artikel  5.6.59a  
 
@@ -4806,12 +4638,12 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 ### §  13  
 
-####Eisen met betrekking tot bromfietsen die door de Minister van Infrastructuur en Milieu op grond van [artikel 20b van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) zijn aangewezen
+####Eisen met betrekking tot bromfietsen die door de Minister van Infrastructuur en Milieu op grond van artikel 20b van de wet zijn aangewezen
 
 ### Artikel  5.6.72  
 
-1.  In afwijking van artikel 5.6.0 moet een bromfiets die door de Minister van Infrastructuur en Milieu op grond van [artikel 20b van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is aangewezen, voldoen aan deze paragraaf en wordt die bromfiets beoordeeld volgens de bijbehorende wijze van keuren.   
-2.  In deze paragraaf wordt verstaan onder aangewezen bromfiets: bromfiets die door de Minister van Infrastructuur en Milieu is aangewezen op grond van [artikel 20b van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+1.  In afwijking van artikel 5.6.0 moet een bromfiets die door de Minister van Infrastructuur en Milieu op grond van artikel 20b van de wet is aangewezen, voldoen aan deze paragraaf en wordt die bromfiets beoordeeld volgens de bijbehorende wijze van keuren.   
+2.  In deze paragraaf wordt verstaan onder aangewezen bromfiets: bromfiets die door de Minister van Infrastructuur en Milieu is aangewezen op grond van artikel 20b van de wet.  
 
 ###Artikel 5.6.73 
 
@@ -4839,7 +4671,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |--- | Eisen  |  Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aangewezen bromfietsen moeten bij voortduring blijven voldoen aan de in [artikel 20b van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vermelde maximumconstructiesnelheid. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | Bij twijfel een rijproef uitvoeren.  |
+| 1.  | Aangewezen bromfietsen moeten bij voortduring blijven voldoen aan de in artikel 20b van de wet vermelde maximumconstructiesnelheid. Hierbij is het bepaalde in bijlage VIII , artikelen 28 tot en met 29a, van toepassing.  | Bij twijfel een rijproef uitvoeren.  |
 | 2.  | Aangewezen bromfietsen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden.  | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. Eventueel wordt de meting opnieuw uitgevoerd.  |
 
 ###Artikel 5.6.77 
@@ -5011,17 +4843,18 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| --- | Een aangewezen bromfiets mag zijn voorzien van:  a. één of twee lichten aan de voorzijde;  b. één of twee achterlichten;  c. één of twee remlichten;  d. één of twee witte retroreflectoren aan de voorzijde van het voertuig;  e. twee richtingaanwijzers aan de voorzijde en twee richtingaanwijzers aan de achterzijde van het voertuig.  | Visuele controle.  |
+| --- | Een aangewezen bromfiets mag zijn voorzien van:  a. één of twee lichten aan de voorzijde;  b. één of twee achterlichten;  c. één of twee remlichten;  d. één of twee witte retroreflectoren aan de voorzijde van het voertuig;  e. twee richtingaanwijzers aan de voorzijde en twee richtingaanwijzers aan de achterzijde van het voertuig;  f. één dagrijlicht. | Visuele controle.  |
 
 ###Artikel 5.6.95 
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Het licht aan de voorzijde van een aangewezen bromfiets mag niet anders dan wit of geel stralen.  | Leden 1 tot en met 3: visuele controle.  |
+| 1.  | Het licht aan de voorzijde van een aangewezen bromfiets mag niet anders dan wit of geel stralen.  | Leden 1 tot en met 4: visuele controle, waarbij de desbetreffende lichten worden ingeschakeld.  |
 | --- | --- | --- |
 | 2.  | Het achterlicht en het remlicht mogen niet anders dan rood stralen.  | --- |
 | --- | --- | --- |
 | 3.  | De richtingaanwijzers mogen naar voren niet anders dan ambergeel of wit en naar achteren niet anders dan ambergeel of rood stralen.  | --- |
+|4. |Het dagrijlicht mag niet anders dan wit stralen. | --- |
 
 ### Artikel  5.6.96  
 
@@ -5464,7 +5297,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | Motorrijtuigen met beperkte snelheid in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
+| --- | Motorrijtuigen met beperkte snelheid in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
 
 ### Artikel  5.7.59  
 
@@ -5971,7 +5804,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | Landbouw- of bosbouwtrekkers in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
+| --- | Landbouw- of bosbouwtrekkers in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
 
 ### Artikel  5.8.59  
 
@@ -6207,7 +6040,7 @@ Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | Fietsen in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de fiets herkenbaar maken als zijnde in gebruik bij die diensten.  | Visuele controle.  |
+| --- | Fietsen in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de fiets herkenbaar maken als zijnde in gebruik bij die diensten.  | Visuele controle.  |
 
 ### Artikel  5.9.60  
 
@@ -7006,7 +6839,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter per
 |:---|:---|:---|
 | 1.  | De aanhangwagen moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens.  | Lid 1 en 2: visuele controle, tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in bijlage VIII, artikelen 2 en 3 , van toepassing.  |
 | 2.  | De aanhangwagen moet zijn voorzien van de juiste kentekenplaat.  | --- |
-| 3.  | De kentekenplaat moet zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 3.  | De kentekenplaat moet zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd.  | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 4.  | Het kenteken moet goed leesbaar zijn en de kentekenplaat mag niet zijn afgeschermd.  | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m achter het midden van de aanhangwagen staat.  |
 | 5.  | Het voertuigidentificatienummer moet in het chassis, frame of soortgelijke structuur zijn ingeslagen en moet goed leesbaar zijn.  | Visuele controle.  |
 | 6.  | Aanhangwagens die in gebruik zijn genomen na 31 december 1997, moeten zijn voorzien van één of meerdere constructieplaten die goed leesbaar zijn en waarvan de gegevens in overeenstemming zijn met het kentekenregister, met dien verstande dat de maximummassa's die op de constructieplaten zijn vermeld ten minste gelijk zijn aan de massa's die zijn aangegeven in het kentekenregister.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
@@ -7060,7 +6893,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter per
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | De last onder de assen van aanhangwagens mag niet meer bedragen dan de voor het betrokken voertuig in het kentekenregister of op de kentekencard dan wel het kentekenbewijs vermelde toegestane maximum aslasten. Bij middenasaanhangwagens en opleggers mag de last onder de koppeling niet meer bedragen dan in het kentekenregister is vermeld.  | Leden 1 tot en met 3: bij twijfel wordt het voertuig gewogen. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 1.  | De last onder de assen van aanhangwagens mag niet meer bedragen dan de voor het betrokken voertuig in het kentekenregister of op de kentekencard dan wel het kentekenbewijs vermelde toegestane maximum aslasten. Bij middenasaanhangwagens, aanhangwagens met een stijve dissel en opleggers mag de last onder de koppeling niet meer bedragen dan in het kentekenregister is vermeld.  | Leden 1 tot en met 3: bij twijfel wordt het voertuig gewogen. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 | 2.  | De totale massa van aanhangwagens mag niet meer bedragen dan de voor het betrokken voertuig in het kentekenregister of op de kentekencard dan wel het kentekenbewijs vermelde toegestane maximummassa.  | --- |
 | 3.  | De som van de aslasten van autonome aanhangwagens mag niet meer bedragen dan de voor het betrokken voertuig in het kentekenregister of op de kentekencard dan wel het kentekenbewijs vermelde toegestane maximummassa.  | --- |
 
@@ -7188,7 +7021,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens, met uitzondering van opleggers en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een reminrichting waarvan de:  a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3 , van toepassing;  b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in bijlage VIII, artikelen 53 en 54 , van toepassing;  c. onderdelen niet zijn beschadigd, gescheurd of gebroken;  d. onderdelen geen inwendige of uitwendige lekkage vertonen.  e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat.  | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt.  – Onderdeel d: visuele controle of auditieve controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. Bij een geheel of gedeeltelijk drukluchtremsysteem moet, indien mogelijk met de drukluchtremkrachtregelaar(s) in de stand van vol doorsturen, de maximale remdruk snel worden ingestuurd door het rempedaal van het trekkende voertuig snel in te trappen dan wel door druk vanuit een externe bron snel in te sturen. Indien de aanhangwagen is voorzien van een hydraulisch remsysteem en er twijfel bestaat omtrent de deugdelijkheid van het remsysteem, moet het remsysteem met behulp van het trekkende voertuig onder druk worden gebracht op de wijze zoals bepaald bij artikel 5.3.31, eerste lid, onderdeel d .  |
+| 1.  | Aanhangwagens, met uitzondering van opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een reminrichting waarvan de:  a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3 , van toepassing;  b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in bijlage VIII, artikelen 53 en 54 , van toepassing;  c. onderdelen niet zijn beschadigd, gescheurd of gebroken;  d. onderdelen geen inwendige of uitwendige lekkage vertonen.  e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat.  | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt.  – Onderdeel d: visuele controle of auditieve controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. Bij een geheel of gedeeltelijk drukluchtremsysteem moet, indien mogelijk met de drukluchtremkrachtregelaar(s) in de stand van vol doorsturen, de maximale remdruk snel worden ingestuurd door het rempedaal van het trekkende voertuig snel in te trappen dan wel door druk vanuit een externe bron snel in te sturen. Indien de aanhangwagen is voorzien van een hydraulisch remsysteem en er twijfel bestaat omtrent de deugdelijkheid van het remsysteem, moet het remsysteem met behulp van het trekkende voertuig onder druk worden gebracht op de wijze zoals bepaald bij artikel 5.3.31, eerste lid, onderdeel d .  |
 | --- | --- | – Onderdeel e: visuele controle.  |
 | 2.  | Remslangen mogen:  a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in bijlage VIII, artikelen 55 en 56 , van toepassing;  | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt.  |
 | --- | b. niet langs andere voertuigdelen schuren, en  | --- |
@@ -7203,11 +7036,11 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 | --- | c. mogen niet zijn beschadigd, gescheurd of gebroken, en  | --- |
 | --- | d. mogen geen lekkage vertonen.  | --- |
 | 9.  | Antiblokkeersystemen moeten goed functioneren en moeten zijn voorzien van een deugdelijke waarschuwingsinrichting die in werking treedt zodra het systeem faalt.  | Bij aanhangwagens in gebruik genomen na 31 december 2000 moet de juiste werking van het antiblokkeersysteem worden aangetoond door middel van het aan- respectievelijk uitgaan van een waarschuwingscontrolelampje dat is aangesloten op de stekker voor het anti-blokkkeersysteem of door middel van diagnoseapparatuur. Zonodig worden de wielen, bijvoorbeeld met een wielspinner, op snelheid gebracht.  |
-| 10.  | Aanhangwagens, met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1997, met uitzondering van opleggers en middenasaanhangwagens waarvan de som van de aslasten niet meer bedraagt dan 3.500 kg, moeten zijn voorzien van automatische remstelinrichtingen.  | Visuele controle.  |
+| 10.  | Aanhangwagens, met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1997, met uitzondering van opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de som van de aslasten niet meer bedraagt dan 3.500 kg, moeten zijn voorzien van automatische remstelinrichtingen.  | Visuele controle.  |
 
 ### Artikel  5.12.31a  
 
-1.  Opleggers en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een reminrichting.   
+1.  Opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een reminrichting.   
 2.  De reminrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in artikel 5.12.31.  
 
 ### Artikel  5.12.35  
@@ -7252,13 +7085,13 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens, met uitzondering van opleggers en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een goedwerkende vastzetinrichting die ten minste op de wielen van één niet hefbare as werkt en welke door een geheel mechanische overbrenging met de hand in werking kan worden gesteld, ook wanneer het voertuig niet aan een motorvoertuig is verbonden.  | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt, waarbij de vastzetinrichting wordt bediend.  |
+| 1.  | Aanhangwagens, met uitzondering van opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een goedwerkende vastzetinrichting die ten minste op de wielen van één niet hefbare as werkt en welke door een geheel mechanische overbrenging met de hand in werking kan worden gesteld, ook wanneer het voertuig niet aan een motorvoertuig is verbonden.  | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt, waarbij de vastzetinrichting wordt bediend.  |
 | 2.  | Het bepaalde in het eerste lid is niet van toepassing indien:  a. de aanhangwagen is voorzien van een veerrem die ten minste op de wielen van één niet hefbare as werkt en die automatisch in werking treedt bij het ontkoppelen of drukloos maken van het remsysteem;  | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt.  |
 | --- | b. de aanhangwagen in gebruik genomen voor 1 januari 1998, is voorzien van een hydraulisch dan wel een elektrisch bekrachtigd remsysteem en is uitgerust met wielkeggen.  | --- |
 
 ### Artikel  5.12.39a  
 
-1.  Opleggers en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een vastzetinrichting.   
+1.  Opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een vastzetinrichting.   
 2.  De vastzetinrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in artikel 5.12.39.  
 
 ### Artikel  5.12.40  
@@ -7267,7 +7100,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | Bij het verbreken van de verbinding tussen de aanhangwagen en het trekkende voertuig moet de reminrichting van de aanhangwagen automatisch in werking treden.  | Visuele controle, terwijl de luchtslang van de voorraad tussen het trekkende voertuig of een andere externe bron en de aanhangwagen wordt losgenomen.  |
 | 2.  | Bij het koppelen van de reminrichting van de aanhangwagen aan die van het trekkende voertuig moet de reminrichting van de aanhangwagen automatisch in de bedrijfstoestand komen.  | Visuele controle. Indien een losknop aanwezig is, moet deze, nadat de luchtslang van de voorraad is losgekoppeld, eerst worden bediend en moet vervolgens de luchtslang van de voorraad worden aangesloten. Hierbij moet de losknop terugkeren in zijn oorspronkelijke stand.  |
-| 3.  | De in het eerste en tweede lid gestelde eisen gelden niet voor middenasaanhangwagens met een toegestane maximummassa van ten hoogste 1.500 kg.  | Lid 3 en 4: visuele controle.  |
+| 3.  | De in het eerste en tweede lid gestelde eisen gelden niet voor middenasaanhangwagens en aanhangwagens met een stijve dissel met een toegestane maximummassa van ten hoogste 1.500 kg.  | Lid 3 en 4: visuele controle.  |
 | 4.  | Indien de aanhangwagen is voorzien van een losbreekreminrichting, moet deze goed functioneren.  | --- |
 
 ###§ 9 
@@ -7381,8 +7214,8 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Aanhangwagens in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.12.59  
 
@@ -7424,7 +7257,7 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Aanhangwagens mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.12.51 , 5.12.57  en 5.12.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
+| 2.  | Aanhangwagens niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
 
 ###§ 11 
 
@@ -7436,8 +7269,8 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | De koppeling en de trekinrichting van aanhangwagens moeten deugdelijk zijn bevestigd en mogen niet gescheurd, gebroken dan wel overmatig gesleten zijn.  | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt.  |
 | 2.  | De trekinrichting van een autonome aanhangwagen alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen niet door corrosie zijn aangetast, met uitzondering van verschijnselen van corrosie van het oppervlak.  | Visuele controle.  |
-| 3.  | De trekinrichting van een middenasaanhangwagen alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen door corrosie niet overmatig zijn aangetast. Indien sprake is van corrosie is het bepaalde in bijlage VIII , hoofdstuk 1, titel 2 afdeling 1, 2 en 3 van toepassing.  | Visuele controle.  |
-| 4.  | De trekinrichting van een autonome aanhangwagen mag niet zodanig zijn vervormd dat een langsbeen, gemeten over een afstand van 0,90 m, een uitwijking heeft van meer dan 18 mm ten opzichte van de rechte lijn. De trekinrichting van een middenasaanhangwagen mag niet overmatig zijn vervormd.  | Visuele controle. In geval van twijfel wordt met behulp van een geschikt meetmiddel en een aanliggende stalen rei gemeten.  |
+| 3.  | De trekinrichting van een middenasaanhangwagen of aanhangwagen met een stijve dissel alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen door corrosie niet overmatig zijn aangetast. Indien sprake is van corrosie is het bepaalde in bijlage VIII , hoofdstuk 1, titel 2 afdeling 1, 2 en 3 van toepassing.  | Visuele controle.  |
+| 4.  | De trekinrichting van een autonome aanhangwagen mag niet zodanig zijn vervormd dat een langsbeen, gemeten over een afstand van 0,90 m, een uitwijking heeft van meer dan 18 mm ten opzichte van de rechte lijn. De trekinrichting van een middenasaanhangwagen of aanhangwagen met een stijve dissel mag niet overmatig zijn vervormd.  | Visuele controle. In geval van twijfel wordt met behulp van een geschikt meetmiddel en een aanliggende stalen rei gemeten.  |
 | 5.  | Aanhangwagens waarvan de toegestane maximummassa niet meer bedraagt dan 1.500 kg en die niet zijn voorzien van een losbreekreminrichting, moeten zijn voorzien van een hulpkoppeling. De hulpkoppeling moet deugdelijk zijn bevestigd en mag niet vervormd, gescheurd, gebroken dan wel overmatig gesleten zijn.  | Leden 5 tot en met 7: visuele controle.  |
 | 6.  | Aanhangwagens die zijn voorzien van een losbreekreminrichting, mogen niet tevens zijn voorzien van een hulpkoppeling.  | --- |
 | 7.  | Delen van de koppeling van aanhangwagens mogen tijdens het ontkoppelen, het losbreken of in afgekoppelde toestand het wegdek niet kunnen raken.  | --- |
@@ -7767,8 +7600,8 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achte
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle.  |
-| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Aanhangwagens in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle.  |
+| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.13.59  
 
@@ -7821,7 +7654,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achte
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Aanhangwagens mogen niet zijn voorzien van:  a. meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.13.51 , 5.13.57  en 5.13.57a  is voorgeschreven of toegestaan, en  b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
+| 2.  | Aanhangwagens niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
 
 ###§ 11 
 
@@ -8137,7 +7970,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achte
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
+| --- | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | Visuele controle.  |
 
 ### Artikel  5.14.59  
 
@@ -8183,7 +8016,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achte
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1.  | Aanhangwagens mogen, onverminderd het in [artikel 30 van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bepaalde inzake zwaai-, flits- en knipperlichten, niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.14.51 , 5.14.57  en 5.14.57a  is voorgeschreven of toegestaan.  | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
+| 1.  | Aanhangwagens mogen, onverminderd het in artikel 30 van het RVV 1990 bepaalde inzake zwaai-, flits- en knipperlichten, niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.14.51 , 5.14.57  en 5.14.57a  is voorgeschreven of toegestaan.  | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
 | 2.  | Aanhangwagens mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
 
 ###§ 11 
@@ -8381,14 +8214,8 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 |--- | Eisen  | Wijze van keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens achter een motorfiets mogen zijn voorzien van:  | Leden 1 tot en met 3: visuele controle.  |
-| --- | a. één mistachterlicht;  | --- |
-| --- | b. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en  | --- |
-| --- | c. werklichten.  | --- |
-| 2.  | Aanhangwagens achter een bromfiets mogen zijn voorzien van:  | --- |
-| --- | a. twee richtingaanwijzers aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant van het voertuig;  | --- |
-| --- | b. één of twee remlichten, en  | --- |
-| --- | c. één of twee witte retroreflectoren aan de voorzijde van het voertuig.  | --- |
+| 1.  | Aanhangwagens achter een motorfiets mogen zijn voorzien van:  a. één mistachterlicht;  b. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en;  c. werklichten, en  d. een derde remlicht, aangebracht zodanig dat:  1°. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en  2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in artikel 5.15.51, eerste lid, onder c .  | Leden 1 tot en met 3: visuele controle. In geval van twijfel wordt gemeten.  |
+| 2.  | Aanhangwagens achter een bromfiets mogen zijn voorzien van:  a. twee richtingaanwijzers aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant van het voertuig;  b. één of twee remlichten, en  c. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en  d. een derde remlicht, aangebracht zodanig dat:  1°. dat licht zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en  2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in het tweede lid, onder b.  | --- |
 | 3.  | Aanhangwagens achter motorfietsen en bromfietsen mogen zijn voorzien van :  | --- |
 | --- | a. extra witte retroreflecterende voorzieningen aan de voorzijde,  | --- |
 | --- | b. extra rode retroreflecterende voorzieningen aan de achterzijde, en  | --- |
@@ -8398,8 +8225,8 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Aanhangwagens in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle.  |
-| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens [artikel 30, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
+| 1.  | Aanhangwagens in gebruik bij de in artikel 29, eerste lid, van het RVV 1990 bedoelde diensten, die de daar genoemde signalen mogen voeren, mogen zijn voorzien van retroreflecterende striping, letters, cijfers of tekens die de aanhangwagen herkenbaar maken als zijnde in gebruik bij die diensten.  | Leden 1 en 2: visuele controle.  |
+| 2.  | Aanhangwagens in gebruik voor werkzaamheden die zijn vastgesteld krachtens artikel 30, eerste lid, van het RVV 1990, mogen zijn voorzien van gele zwaai-, flits- of knipperlichten.  | --- |
 
 ### Artikel  5.15.59  
 
@@ -8438,7 +8265,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
 | 1.  | Aanhangwagens mogen niet zijn voorzien van  meer lichten en retroreflecterende voorzieningen dan in de artikelen 5.15.51 , 5.15.57  en 5.15.57a  is voorgeschreven of toegestaan.  | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken.  |
-| 2.  | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
+| 2.  | Aanhangwagens niet in gebruik bij de in de artikelen 29, eerste lid, van het RVV 1990 bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur.  | Visuele controle.  |
 
 ###§ 11 
 
@@ -8718,9 +8545,10 @@ c. bedrijfsauto’s die worden ingezet voor werkzaamheden ten behoeve van wegen,
 2.  Met een gelede bus mag geen aanhangwagen worden voortbewogen.   
 3.  Met een gehandicaptenvoertuig mag geen aanhangwagen worden voortbewogen.   
 4.  Met een motorfiets met zijspanwagen mag geen aanhangwagen worden voortbewogen, tenzij het wiel van de zijspanwagen is beremd.   
-5.  Het eerste lid is niet van toepassing op landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid.   
+5.  Het eerste en achtste lid zijn niet van toepassing op landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelheid.   
 6.  Het eerste lid is niet van toepassing op een motorvoertuig waarmee meerdere aanhangwagens worden voortbewogen en waarbij de samenstelling van deze aanhangwagens blijkens het kentekenregister leidt tot één aanhangwagen.   
-7.  Een oplegger gekoppeld aan een dolly wordt beschouwd als één autonome aanhangwagen. 
+7.  In afwijking van het eerste lid mag met een bedrijfsauto een samenstel van een dolly met oplegger worden voortbewogen.  
+8.  Een samenstel van een motorvoertuig en een aanhangwagen heeft ten hoogste twee draaipunten. 
 
 ### Artikel  5.18.2  
 
@@ -8753,7 +8581,7 @@ b. voldoende zicht hebben op het naast en achter hem gelegen weggedeelte met beh
 
 ### Artikel  5.18.6  
 
-1.  De lading of delen daarvan moeten zodanig zijn gezekerd dat deze onder normale verkeerssituaties, waaronder begrepen volle remmingen, plotselinge uitwijkmanoeuvres en slecht wegdek, niet van het voertuig kunnen vallen of de stabiliteit van het voertuig in gevaar kunnen brengen. Om hieraan te voldoen moet de lading of delen daarvan minimaal de volgende versnellings- of vertragingskrachten kunnen weerstaan: 
+1.  De lading of delen daarvan moeten zodanig zijn gezekerd dat deze onder normale verkeerssituaties, waaronder begrepen volle remmingen, plotselinge uitwijkmanoeuvres en slecht wegdek, niet van het voertuig kunnen vallen of de stabiliteit van het voertuig niet in gevaar kunnen brengen. Om hieraan te voldoen moet de lading of delen daarvan zodanig worden vastgezet dat minimaal de volgende versnellings- of vertragingskrachten kunnen worden weerstaan: 
 
 a. in de rijrichting: 0,8 maal het gewicht van de lading;  
 
@@ -8779,7 +8607,7 @@ d. indien de lastdrager is geconstrueerd voor het vervoer van specifieke goedere
 
 e. indien de verlichting en retroreflectoren van het voertuig door de lastdrager of de goederen worden afgeschermd, moet de lastdrager aan de achterzijde zijn voorzien van twee rode achterlichten, twee rode remlichten, twee rode retroreflectoren en twee ambergele richtingaanwijzers, die moeten zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig met inbegrip van de lastdrager;   
 
-f. indien de op het voertuig aangebrachte kentekenplaat door de lastdrager of de goederen wordt afgeschermd, moet de lastdrager zijn voorzien van een kentekenplaat met het kenteken van het voertuig waarop de lastdrager is aangebracht, alsmede van achterkentekenplaatverlichting; het kenteken moet goed leesbaar zijn en de kentekenplaat moet zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en mag niet zijn afgeschermd;  
+f. indien de op het voertuig aangebrachte kentekenplaat door de lastdrager of de goederen wordt afgeschermd, moet de lastdrager zijn voorzien van een kentekenplaat met het kenteken van het voertuig waarop de lastdrager is aangebracht, alsmede van achterkentekenplaatverlichting; het kenteken moet goed leesbaar zijn en de kentekenplaat moet zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en mag niet zijn afgeschermd;  
 
 g. indien de lastdrager is bevestigd op een trekhaak aan de achterzijde van een personenauto, bedrijfsauto met een technisch toegestane maximummassa van niet meer dan 3.500 kg, driewielig motorrijtuig: 
 
@@ -8831,7 +8659,7 @@ e. de lastdrager die in de breedte meer dan 0,10 m buiten de zijkant van het voe
 
 1.  Aanhangwagens met een toegestane maximummassa van niet meer dan 750 kg, alsmede aanhangwagens met een toegestane maximummassa van meer dan 750 kg afkomstig uit een land waar voor deze aanhangwagens geen afzonderlijk kenteken is opgegeven, moeten, indien zij zijn gekoppeld aan een motorvoertuig waarvoor een kenteken is opgegeven, zijn voorzien van het kenteken van het trekkend motorvoertuig.   
 2.  Het eerste lid is niet van toepassing op aanhangwagens met een toegestane maximummassa van niet meer dan 750 kg die afkomstig zijn uit een land waar voor deze aanhangwagen een afzonderlijk kenteken is opgegeven, indien de bij het kenteken behorende kentekenplaat wordt gevoerd.  
-3.  De kentekenplaat moet zijn voorzien van het in [artikel 5 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van de aanhangwagen zijn bevestigd.   
+3.  De kentekenplaat moet zijn voorzien van het in artikel 5 van het Kentekenreglement voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van de aanhangwagen zijn bevestigd.   
 4.  Het kenteken moet goed leesbaar zijn en de kentekenplaat mag niet zijn afgeschermd.  
 
 ### §  1  
@@ -8840,12 +8668,12 @@ e. de lastdrager die in de breedte meer dan 0,10 m buiten de zijkant van het voe
 
 ### A  
 
-####Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen en daardoor voortbewogen aanhangwagens
+####Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen dolly’s of aanhangwagens en samenstellen hiervan
 
 ### Artikel  5.18.11  
 
-1.  De lengte van een samenstel van trekker en oplegger mag niet meer bedragen dan 16,50 m.   
-2.  Van een samenstel van bedrijfsauto en aanhangwagen, niet zijnde een samenstel van trekker en oplegger, mag: 
+1.  De lengte van een samenstel van opleggertrekker en oplegger mag niet meer bedragen dan 16,50 m.   
+2.  Van een samenstel van bedrijfsauto en autonome aanhangwagen, middenasaanhangwagen of aanhangwagen met een stijve dissel, niet zijnde een samenstel van opleggertrekker en oplegger, mag: 
 
 a. de lengte niet meer bedragen dan 18,75 m;  
 
@@ -8853,11 +8681,13 @@ b. de afstand tussen het voorste punt aan de buitenzijde van de laadruimte achte
 
 c. de afstand tussen het voorste punt aan de buitenzijde van de laadruimte achter de stuurcabine en het achterste punt aan de buitenzijde van de aanhangwagen, verminderd met de afstand tussen de achterzijde van de laadruimte van het motorvoertuig en de voorzijde van de laadruimte van de aanhangwagen, niet meer dan 15,65 m bedragen.     
 3.  In de afmetingen, bedoeld in het eerste en tweede lid, zijn afneembare bovenbouwen en gestandaardiseerde laadstructuren inbegrepen.  
-4.  Bij een samenstel van bedrijfsauto en een aanhangwagen, beide met een toegestane maximummassa van meer dan 3.500 kg, niet zijnde een samenstel van trekker en oplegger, mag de afstand tussen de achterste as van de bedrijfsauto en de voorste as van de aanhangwagen niet minder bedragen dan 3,00 m.   
-5.  De lengte van samenstellen van personenauto of driewielig motorrijtuig en aanhangwagen, mag niet meer bedragen dan 18,00 m.   
-6.  De lengte van een samenstel van voertuigen, zijnde kermis- of circusvoertuigen, mag niet meer bedragen dan 24,00 m.   
-7.  In afwijking van het tweede lid, onderdeel a, mag de lengte van een samenstel van rijdend werktuig en aanhangwagen niet meer bedragen dan 20,00 m.   
-8.  De lengte van een samenstel van een bus en een aanhangwagen mag niet meer bedragen dan 18,75 m.  
+4.  Het tweede lid is van overeenkomstige toepassing op een samenstel van bedrijfsauto en dolly met oplegger, waarbij de lengte van het samenstel van dolly met oplegger niet meer mag bedragen dan 12,00 m.   
+5.  In afwijking van het eerste en vierde lid mag bij het gebruik van een gestandaardiseerde laadstructuur in de vorm van een 45’ container met een lengte van maximaal 13,72 m en een breedte van maximaal 2,55 m, dan wel 2,60 m in het geval van een geconditioneerde gestandaardiseerde laadstructuur, indien deze container stapelbaar is en geschikt is voor het vervoer op een zeeschip, de lengte van het samenstel niet meer bedragen dan 17,30 m.  
+6.  Bij een samenstel van bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg, en een aanhangwagen of samenstel van dolly met oplegger met een toegestane maximummassa van meer dan 3.500 kg, niet zijnde een samenstel van opleggertrekker en oplegger, mag de afstand tussen de achterste as van de bedrijfsauto en de voorste as van de aanhangwagen of dolly niet minder bedragen dan 3,00 m.   
+7.  De lengte van samenstellen van personenauto of driewielig motorrijtuig en aanhangwagen, mag niet meer bedragen dan 18,00 m.   
+8.  De lengte van een samenstel van voertuigen, zijnde kermis- of circusvoertuigen, mag niet meer bedragen dan 24,00 m.   
+9.  In afwijking van het tweede lid, onderdeel a, mag de lengte van een samenstel van rijdend werktuig en aanhangwagen niet meer bedragen dan 20,00 m.   
+10.  De lengte van een samenstel van een bus en een aanhangwagen mag niet meer bedragen dan 18,75 m.  
 
 ### Artikel  5.18.12  
 
@@ -8941,11 +8771,18 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 ### Artikel  5.18.16  
 
-1.  Een bedrijfsauto, bus of een samenstel van voertuigen moet naar beide zijden een volledige cirkel kunnen beschrijven binnen een ruimte die wordt begrensd door twee concentrische cirkels, waarvan de buitenste een straal van 12,50 m en de binnenste een straal van 5,30 m heeft, zonder dat een van de buitenpunten van het voertuig buiten de omtrek van de cirkels komt.   
+1.  Een bedrijfsauto, bus of een samenstel van voertuigen moet in elke gebruikstoestand naar beide zijden een volledige cirkel kunnen beschrijven binnen een ruimte die wordt begrensd door twee concentrische cirkels, waarvan de buitenste een straal van 12,50 m en de binnenste een straal van 5,30 m heeft, zonder dat een van de buitenpunten van het voertuig buiten de omtrek van de cirkels komt.   
 2.  Het eerste lid is niet van toepassing indien het een oplegger betreft waarvan het laadvlak zich geheel of grotendeels op gelijke of nagenoeg gelijke hoogte als of lager dan de assen boven het wegdek bevindt, de oplegger wordt gebruikt voor het vervoer van ondeelbare lading en de oplegger vóór 1 april 1983 in gebruik is genomen.   
 3.  Het eerste lid is niet van toepassing op samenstellen van kermis- en circusvoertuigen, rijdende werktuigen en samenstellen van rijdende werktuigen en aanhangwagens.   
 4.  Het bepaalde in het eerste lid is niet van toepassing op samenstellen van trekker en oplegger als bedoeld in artikel 5.18.13, eerste lid, onderdeel b.   
-5.  Ten aanzien van het gesteld in het eerste lid moet bij een stilstaande bus op de bodem met een lijn het loodrechte vlak worden aangegeven dat raakt aan de buitenzijde van het voertuig ten opzichte van de cirkel. Bij een gelede bus worden de twee stijve delen langs het vlak opgesteld. Wanner het voertuig de in het eerste lid beschreven cirkelvormige ruimte in rechte lijn binnenrijdt, mag geen voertuigdeel meer dan 0.60 m buiten het vermelde loodrecht vlak komen.  
+5.  Ten aanzien van het gesteld in het eerste lid moet bij een stilstaande bus op de bodem met een lijn het loodrechte vlak worden aangegeven dat raakt aan de buitenzijde van het voertuig ten opzichte van de cirkel. Bij een gelede bus worden de twee stijve delen langs het vlak opgesteld. Wanner het voertuig de in het eerste lid beschreven cirkelvormige ruimte in rechte lijn binnenrijdt, mag geen voertuigdeel meer dan 0.60 m buiten het vermelde loodrecht vlak komen.   
+6.  De maximale uitzwaai van een bedrijfsauto mag niet meer bedragen dan: 
+
+a. 0,80 m;  
+
+b. 1,00 m wanneer het voertuig met een ashefinrichting is uitgerust en de as van de grond is opgetrokken;  
+
+c. 1,00 m wanneer de achterste as een gestuurde as is.   
 
 ### Artikel  5.18.17a  
 
@@ -8972,13 +8809,7 @@ b. de technisch toegestane maximummassa van het samenstel van de bus of bedrijfa
 
 c. vijf maal de toegestane maximumlast onder de aangedreven as of assen, en  
 
-d. 
-
-1°. indien het een bus of een bedrijfsauto, niet zijnde een trekker, betreft die na 30 juni 1967, doch voor 30 april 2009, in gebruik is genomen, de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,00368 kW/kg, of  
-
-2°. indien het een bus of een bedrijfsauto, niet zijnde een trekker, betreft die na 29 april 2009 in gebruik is genomen, de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,005 kW/kg, of  
-
-3°. indien het een trekker betreft, de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,0022 kW/kg.       
+d. de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,002 kW/kg.     
 3.  In afwijking van het bepaalde in het tweede lid, onderdeel a, mag de toegestane maximummassa van een samenstel of de som van de aslasten van het samenstel in beladen toestand van een rijdend werktuig met een aanhangwagen meer bedragen dan 50.000 kg, doch niet meer dan 60.000 kg.  
 
 ### Artikel  5.18.17c  
@@ -9109,35 +8940,50 @@ d. niet minder bedragen dan 1,0% van de technisch toegestane maximummassa van de
 
 ### Artikel  5.18.17g  
 
-1.  De op de kentekencard of het kentekenbewijs van een bedrijfsauto of bus of de in het kentekenregister vermelde toegestane maximum te trekken massa van een aanhangwagen mag niet worden overschreden of de som van de aslasten van een aanhangwagen mag niet meer bedragen dan de vermelde toegestane maximum te trekken massa.   
-2.  Indien op de kentekencard of het kentekenbewijs van een bedrijfsauto of bus of in het kentekenregister de in het eerste lid bedoelde waarde niet is vermeld, dan wel indien de bedrijfsauto of bus niet in Nederland is geregistreerd mag de toegestane maximum te trekken massa van een aanhangwagen niet meer bedragen dan: 
+1.  De op de kentekencard, het kentekenbewijs van een bedrijfsauto, bus of dolly of in het kentekenregister vermelde toegestane maximum te trekken massa van een aanhangwagen, mag niet worden overschreden of de som van de aslasten van een aanhangwagen, alsmede van een samenstel van dolly en oplegger, mag niet meer bedragen dan de vermelde toegestane maximum te trekken massa aanhangwagen.   
+2.  Indien op de kentekencard of het kentekenbewijs van een bedrijfsauto, bus of dolly of in het kentekenregister de in het eerste lid bedoelde waarde niet is vermeld, dan wel indien de bedrijfsauto, bus of dolly niet in Nederland is geregistreerd mag de toegestane maximum te trekken massa van een aanhangwagen, alsmede van een samenstel van een dolly met oplegger, niet meer bedragen dan de laagste van de volgende waarden: 
 
-a. de voor de bedrijfsauto of bus opgegeven technisch toegestane maximummassa;  
+a. in het geval dat een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg of een bus een aanhangwagen voortbeweegt voorzien van een bedrijfsremsysteem: 
 
-b. de daarvoor ten aanzien van de sterkte van de koppeling technisch toegestane maximummassa;  
+1°. de opgegeven technisch toegestane maximummassa van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;  
 
-c. de daarvoor ten aanzien van de sterkte en de bevestiging van de delen van het chassisraam waaraan de koppeling is bevestigd, technisch toegestane maximummassa;  
+2°. in afwijking van subonderdeel 1°, 1,5 maal de technisch toegestane maximummassa van een bedrijfsauto vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien de bedrijfsauto een aantekening op de kentekencard, het kentekenbewijs of in het kentekenregister ‘G’ heeft;  
 
-d. de daarvoor ten aanzien van het remsysteem van het trekkend motorrijtuig technisch toegestane maximummassa;  
+3°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;  
 
-e. 1,5 maal de toelaatbare maximummassa in beladen toestand van het voertuig voor voertuigen die bestemd zijn voor het trekken van aanhangwagens met een continureminrichting; 
+4°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;  
 
-f. 3.500 kg indien: 
+5°. 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt,    
 
-1°. de bedrijfsauto uitsluitend bestemd is voor het trekken van aanhangwagens die zijn voorzien van een oploopreminrichting, of  
+b. in het geval dat een bedrijfsauto met een technisch toegestane maximummassa van meer dan 3.500 kg een aanhangwagen voortbeweegt voorzien van een bedrijfsremsysteem: 
 
-2°. het trekkende voertuig een bus betreft, en    
+1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;  
 
-g. de helft van de massa in rijklare toestand van de bedrijfsauto of bus met een maximum van 750 kg indien het een ongeremde aanhangwagen betreft.     
-3.  In afwijking van het tweede lid mag de toegestane maximum te trekken massa van een geremde middenasaanhangwagen niet meer bedragen dan: 
+2°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;  
 
-a. 24.000 kg;  
+3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het voertuig uitsluitend bestemd is voor het trekken van aanhangwagens die zijn voorzien van een oploopreminrichting;  
 
-b. de technisch toegestane maximummassa van de bedrijfsauto, tenzij deze een technisch toegestane maximummassa heeft van meer dan 3.500 kg, of de bedrijfsauto een aantekening in de kentekencard dan wel het kentekenbewijs of in het kentekenregister ‘G’ heeft;  
+4°. 1,5 maal de technisch toegestane maximummassa van het voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt wanneer deze bestemd is voor het trekken van aanhangwagens met een continureminrichting;  
 
-c. 1,5 maal de technisch toegestane maximummassa van de bedrijfsauto, voorzover de bedrijfsauto een aantekening in het kentekenbewijs of in het kentekenregister ‘G’ heeft en de technisch toegestane maximummassa van de bedrijfsauto niet meer is dan 3.500 kg;  
+5°. 24.000 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt in het geval van een middenasaanhangwagen of een aanhangwagen met stijve dissel met een continureminrichting,    
 
-d. 1,5 maal de technisch toegestane maximummassa van de bedrijfsauto, indien de bedrijfsauto een technisch toegestane maximummassa heeft van meer dan 3.500 kg.    
+c. in het geval dat een bedrijfsauto of een bus een ongeremde aanhangwagen voortbeweegt: 
+
+1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;  
+
+2°. de helft van de massa in rijklare toestand van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;  
+
+3°. 750 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt,    
+
+d. in het geval van een dolly: 
+
+1°. de ten aanzien van de constructiekenmerken van de dolly opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;  
+
+2°. de sterkte van de koppelingen in relatie tot de opgegeven technisch toegestane maximummassa van het trekkende motorvoertuig en de technisch toegestane maximummassa van de te trekken oplegger;  
+
+3°. de daarvoor ten aanzien van het remsysteem van de dolly opgegeven technisch toegestane maximummassa;  
+
+4°. het samenstel van een dolly en oplegger: 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt.      
 
 ### Artikel  5.18.17h  
 
@@ -9152,7 +8998,7 @@ a. de ledige massa van het trekkend motorvoertuig, of
 
 b. de massa in rijklare toestand van het trekkend motorvoertuig.     
 2.  De last onder de bestuurde as of assen van motorvoertuigen in beladen toestand mag niet minder bedragen dan een vijfde deel van de massa van het voertuig in beladen toestand. Indien het een gelede bus betreft, mag die last niet minder bedragen dan een vijfde deel van de massa van het voorste deel van het motorvoertuig in beladen toestand.   
-3.  De last onder de gestuurde as of assen, niet zijnde zelfsturende assen, van autonome aanhangwagens in beladen toestand, mag niet minder bedragen dan een vijfde deel van de massa van de aanhangwagen in beladen toestand.   
+3.  De last onder de gestuurde as of assen, niet zijnde zelfsturende assen, van autonome aanhangwagens in beladen toestand of samenstellen van een dolly met oplegger in beladen toestand, mag niet minder bedragen dan een vijfde deel van de massa van de aanhangwagen respectievelijk het samenstel van de dolly en de oplegger.   
 4.  De last onder de koppeling van opleggers in beladen toestand mag niet minder bedragen dan een vijfde deel van de massa van de oplegger in beladen toestand.   
 5.  Op onverharde wegen mag de last onder enig wiel van een voertuig niet meer dan 2.400 kg bedragen.  
 
@@ -9337,17 +9183,18 @@ d. de afstand van de achteras van de trekkende bromfiets tot de achterzijde van 
 
 ### G  
 
-####Middenasaanhangwagens
+####Middenasaanhangwagens en aanhangwagens met een stijve dissel
 
 ### Artikel  5.18.31  
 
-Middenasaanhangwagens moeten in aangekoppelde toestand voldoen aan de volgende eisen: 
+1. Middenasaanhangwagens moeten in aangekoppelde toestand voldoen aan de volgende eisen: 
 
 a. de som van de aslasten van een middenasaanhangwagen met een toegestane maximummassa van meer dan 12 000 kg mag niet meer bedragen dan 1,5 maal de som van de aslasten van het trekkend motorvoertuig;  
 
 b. de last onder de koppeling van een middenasaanhangwagen met een massa van niet meer dan 750 kg mag alleen in neerwaartse richting zijn gericht en mag niet meer dan 50 kg bedragen;  
 
-c. de last onder de koppeling van een middenasaanhangwagen met een toegestane maximummassa van meer dan 750 kg mag niet minder bedragen dan 1% van de toegestane maximummassa van het voertuig, doch behoeft niet meer dan 50 kg te bedragen.   
+c. de last onder de koppeling van een middenasaanhangwagen met een toegestane maximummassa van meer dan 750 kg mag niet minder bedragen dan 1% van de toegestane maximummassa van het voertuig, doch behoeft niet meer dan 50 kg te bedragen.    
+2.  Het eerste lid, onderdelen a en c, zijn van overeenkomstige toepassing op een aanhangwagen met een stijve dissel. 
 
 ### §  2  
 
@@ -9378,7 +9225,9 @@ Aanhangwagens, niet zijnde opleggers, met een totale massa van niet meer dan 750
 1.  Bij samenstellen van voertuigen waarvan de aanhangwagen of de verwisselbare getrokken machine van een reminrichting is voorzien, moet de reminrichting van de aanhangwagen of de verwisselbare getrokken machine in werking treden bij het bedienen van de bedrijfsrem van het trekkend voertuig.   
 2.  Indien de aanhangwagen of de verwisselbare getrokken machine is voorzien van een losbreekreminrichting, moet deze zodanig met een vast deel van het trekkend voertuig of met een daartoe bestemde inrichting aan de trekhaak daarvan zijn verbonden, dat de inrichting slechts in werking treedt na het losraken van de aanhangwagenkoppeling.   
 3.  Indien zowel het trekkend voertuig als de aanhangwagen of de verwisselbare getrokken machine zijn voorzien van een ABS- of EBS-systeem moeten de daartoe bestemde ISO 7638-stekkers op beide voertuigen met elkaar verbonden worden. Indien deze voorziening op één van beide voertuigen ontbreekt moeten de remsystemen zodanig zijn aangesloten dat het mogelijk blijft dat er met zowel het trekkend voertuig als met de aanhangwagen of de verwisselbare getrokken machine lastafhankelijk geremd kan worden.   
-4.  Het derde lid, tweede volzin, is niet van toepassing op aanhangwagens en verwisselbare getrokken machines achter landbouw- of bosbouwtrekkers en achter motorrijtuig met beperkte snelheid die niet zijn voorzien van een ABS-systeem.  
+4.  Het derde lid, tweede volzin, is niet van toepassing op aanhangwagens en verwisselbare getrokken machines achter landbouw- of bosbouwtrekkers en achter motorrijtuig met beperkte snelheid die niet zijn voorzien van een ABS-systeem.   
+5.  Bij een samenstel van voertuigen bestaande uit een bedrijfsauto en dolly met oplegger moeten alle voertuigen zijn voorzien van een EBS-remsysteem.   
+6.  Indien in het samenstel bedoeld in het vijfde lid, de dolly is uitgerust met een voertuigstabiliteitssysteem, moet deze tevens beschikken over een voorziening die de remmen van de getrokken oplegger automatisch activeert zodra het voertuigstabiliteitssysteem van de dolly ingrijpt. 
 
 ### Artikel  5.18.35  
 
@@ -9409,7 +9258,7 @@ b. op een hoogte van niet minder van 0,25 m en niet meer dan 1,90 m boven het 
 
 ### Artikel  5.18.36c  
 
-1. Extra achteruitrijlichten die overeenkomstig artikel 5.3.57, zevende lid, 5.3a.57, zevende lid, of 5.12.57, zesde lid, op een bedrijfsauto, bus of aanhangwagen zijn gemonteerd mogen ook branden bij een voorwaartse snelheid. Indien de voorwaartse snelheid van het voertuig meer dan 10 km/h bedraagt worden de lichten automatisch uitgeschakeld en blijven zij uitgeschakeld totdat zij opzettelijk opnieuw worden ingeschakeld. 
+1. Extra achteruitrijlichten die overeenkomstig artikel 5.3.57, vierde lid, 5.3a.57, vierde lid, of 5.12.57, vierde lid, op een bedrijfsauto, bus of aanhangwagen zijn gemonteerd mogen ook branden bij een voorwaartse snelheid. Indien de voorwaartse snelheid van het voertuig meer dan 10 km/h bedraagt worden de lichten automatisch uitgeschakeld en blijven zij uitgeschakeld totdat zij opzettelijk opnieuw worden ingeschakeld. 
 2.  Manoeuvreerlichten mogen branden totdat het voertuig een snelheid heeft bereikt van 10 km/h. 
 
 ### Artikel  5.18.36d  
@@ -9554,7 +9403,7 @@ Aanhangwagens moeten zich zodanig ten opzichte van het trekkend voertuig kunnen 
 
 1.  Bij samenstellen van voertuigen moet het trekoog of de kogelkoppeling van de aanhangwagen horizontaal of nagenoeg horizontaal liggen indien het samenstel zich op een horizontaal wegdek bevindt.   
 2.  Bij gebruik van aanhangwagens, voorzien van een trekdriehoek met verzet, moet de koppelinrichting op het trekkend voertuig van een type zijn dat in verticale richting niet beweegbaar is.   
-3.  Opleggers mogen alleen aan een trekker zijn gekoppeld indien een hoekverdraaiing van de opleggerschotel naar boven en naar beneden mogelijk is, indien het samenstel van trekker en oplegger zich op een horizontaal wegdek bevindt.  
+3.  Opleggers mogen alleen aan een opleggertrekker of een dolly zijn gekoppeld indien een hoekverdraaiing van de opleggerschotel naar boven en naar beneden mogelijk is, indien het samenstel van opleggertrekker en oplegger of het samenstel van dolly en oplegger zich op een horizontaal wegdek bevindt.  
 
 ### Artikel  5.18.57  
 
@@ -9644,7 +9493,7 @@ c. aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg, zijn voo
 
 ### Artikel  6.3  
 
-1.  Bij wijziging in de constructie van een voertuig waardoor de onderstaande voertuiggegevens wijzigen, en na deze wijziging niet meer overeenstemmen met het kentekenregister, moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in bijlage IIIA, IIIB of IIID voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met een in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) aangebrachte wijziging;  
+1.  Bij wijziging in de constructie van een voertuig waardoor de onderstaande voertuiggegevens wijzigen, en na deze wijziging niet meer overeenstemmen met het kentekenregister, moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in artikel 3.7, eerste lid, of bijlage IIIB bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met een in het kader van een erkenning GWC als bedoeld in de Regeling aanpassing voertuigen aangebrachte wijziging;  
 
 a. het aantal assen;  
 
@@ -9713,7 +9562,7 @@ d. het type carrosserie, voor zover naar het oordeel van de Dienst Wegverkeer in
 
 ### Artikel  6.4  
 
-1.  Bij wijziging van de onderstaande voertuigonderdelen moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in bijlage IIIA, IIIB of IIID voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md). 
+1.  Bij wijziging van de onderstaande voertuigonderdelen moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in artikel 3.7, eerste lid, of bijlage IIIB bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de Regeling aanpassing voertuigen. 
 
 a. het remsysteem van voertuigen, voor zover deze van invloed is op de bedieningsplaats, bedieningsmanier en bedieningskracht;  
 
@@ -9726,9 +9575,9 @@ d. de bevestigingspunten van de gordel(s) van voertuigen die in gebruik zijn gen
 e. de rolstoelvastzetsystemen en veiligheidssystemen van personenauto’s en bedrijfsauto’s, ingericht voor het vervoer van één of meer passagiers in een rolstoel, die in gebruik zijn genomen zijn na 1 september 2008, en  
 
 f. de ligplaatsen van een personenauto.     
-2.  Bij het aanbrengen van een knielsysteem moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in bijlage IIIA, IIIB of IIID voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md).   
+2.  Bij het aanbrengen van een knielsysteem moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in artikel 3.7, eerste lid, of bijlage IIIB bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de Regeling aanpassing voertuigen.   
 3.  Bij wijziging van de inrichting van een taxi moet de gewijzigde inrichting voldoen aan de eisen in bijlage VI, voor zover die eisen verband houden met de aangebrachte wijziging.   
-4.  Bij wijziging van de inrichting van een bus moet de gewijzigde inrichting voldoen aan de eisen van bijlage IV, respectievelijk aan de in bijlage IIIA of IIID voor het betrokken voertuig opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md). 
+4.  Bij wijziging van de inrichting van een bus moet de gewijzigde inrichting voldoen aan de eisen van bijlage IV, respectievelijk aan de in artikel 3.7, eerste lid voor het betrokken voertuig opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging in het kader van de erkenning GWC als bedoeld in de Regeling aanpassing voertuigen. 
 
 ### Artikel  6.5  
 
@@ -9741,15 +9590,15 @@ Indien een snelheidsbegrenzer wordt aangebracht, afgesteld of verzegeld in een m
 
 ### Artikel  6.7  
 
-Indien een koppeling wordt aangebracht op een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een bus met een toegestane maximummassa van meer dan 3.500 kg, moet het motorvoertuig voldoen aan de in bijlage IV opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in bijlage IIIA of IIID voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md). 
+Indien een koppeling wordt aangebracht op een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een bus met een toegestane maximummassa van meer dan 3.500 kg, moet het motorvoertuig voldoen aan de in bijlage IV opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in artikel 3.7, eerste lid voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de Regeling aanpassing voertuigen. 
 
 ### Artikel  6.8  
 
-Indien de vering van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg wordt gewijzigd, moet het voertuig voldoen aan de in bijlage IV opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in bijlage IIIA of IIID voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md).
+Indien de vering van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg wordt gewijzigd, moet het voertuig voldoen aan de in bijlage IV opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in artikel 3.7, eerste lid voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de Regeling aanpassing voertuigen.
 
 ### Artikel  6.9  
 
-Indien een voertuig wordt gewijzigd in een taxi of in een voertuig bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), moet het voertuig voldoen aan de in hoofdstuk 3, afdeling 6, opgenomen eisen. 
+Indien een voertuig wordt gewijzigd in een taxi of in een voertuig bestemd voor openbaar vervoer als bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000, moet het voertuig voldoen aan de in hoofdstuk 3, afdeling 6, opgenomen eisen. 
 
 ### Hoofdstuk  7  
 
@@ -9823,7 +9672,7 @@ Een schadevoertuig moet na herstel voldoen aan de in dit hoofdstuk opgenomen eis
 
 *keuringscertificaat:* een certificaat van eerste keuring, dan wel van herkeuring;  
 
-*keuringsinstelling:* een op grond van [artikel 71a van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangewezen instelling;  
+*keuringsinstelling:* een op grond van artikel 71a van de wet aangewezen instelling;  
 
 *maximale fout:* de maximaal toelaatbare waarde van de fout geldend voor een bepaald soort meetmiddel;  
 
@@ -10076,7 +9925,7 @@ De onderzoeksgerechtigde is gehouden tot betaling aan de keuringsinstelling van 
 ### Artikel  8.2.11  
 
 1.  Een onderneming of instelling kan door een keuringsinstelling als inrichting voor het certificeren van kalibratiegas voor uitlaatgastesters, respectievelijk van kalibratiegas voor alcoholsloten worden erkend, indien wordt voldaan aan de in het tweede lid gestelde eisen, hetgeen na een onderzoek van de onderneming of instelling door de keuringsinstelling wordt vastgesteld.   
-2.  De organisatie, het personeel en materieel is zodanig ingericht, dat met voldoende zekerheid kan worden vastgesteld dat het te certificeren kalibratiegas de vereiste kwaliteit heeft. De standaarden die bij het certificeren worden gebruikt, zijn afgeleid van standaarden van de instelling, bedoeld in [artikel 3, tweede lid, van de Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md), dan wel van andere, door de Minister van Infrastructuur en Milieu aangewezen standaarden.  
+2.  De organisatie, het personeel en materieel is zodanig ingericht, dat met voldoende zekerheid kan worden vastgesteld dat het te certificeren kalibratiegas de vereiste kwaliteit heeft. De standaarden die bij het certificeren worden gebruikt, zijn afgeleid van standaarden van de instelling, bedoeld in artikel 3, tweede lid, van de Metrologiewet, dan wel van andere, door de Minister van Infrastructuur en Milieu aangewezen standaarden.  
 
 ### Artikel  8.2.12  
 
@@ -10260,7 +10109,7 @@ c. geen aanleiding kan vormen tot misleiding of misvatting.
 
 a. de hulpinrichting voldoet aan de voorwaarden gesteld in het typekeuringscertificaat van het meetmiddel, waarin in elk geval de aansluiting van de desbetreffende hulpinrichting op het meetmiddel wordt toegestaan;  
 
-b. de hulpinrichting is voorzien van een CE-markering als bedoeld in [artikel 1, onderdeel e, van het Meetinstrumentenbesluit I](../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md), en  
+b. de hulpinrichting is voorzien van een CE-markering als bedoeld in artikel 1, onderdeel e, van het Meetinstrumentenbesluit I, en  
 
 c. voor de hulpinrichting is een testcertificaat afgegeven, tenzij anders is vermeld in het typekeuringscertificaat.     
 3.  Een testcertificaat, bedoeld in het tweede lid, onder c, moet zijn afgegeven door een keuringsinstelling op grond van een door die instelling uitgevoerd onderzoek waarbij vastgesteld is dat aan de eisen in artikel 8.3.11 is voldaan.  
@@ -10277,7 +10126,7 @@ c. voor de hulpinrichting is een testcertificaat afgegeven, tenzij anders is ver
 
 ### Artikel  8.3.14  
 
-1.   Een hulpinrichting, bestaande uit een voorziening als bedoeld in [artikel 8, derde lid, onderdeel b, van de Regeling erkenning en keuringsbevoegdheid APK](../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md) is voorzien van een geldig controle certificaat.   
+1.   Een hulpinrichting, bestaande uit een voorziening als bedoeld in artikel 8, derde lid, onderdeel b, van de Regeling erkenning en keuringsbevoegdheid APK is voorzien van een geldig controle certificaat.   
 2.   Het controlecertificaat wordt afgegeven door een keuringsinstelling of een onderzoeksgerechtigde.   
 3.   De artikelen 8.1.9 en 8.2.1 tot en met 8.2.10 zijn van overeenkomstige toepassing.  
 
@@ -11776,7 +11625,7 @@ e. de afstelling van het apparaat moet op eenvoudige wijze kunnen worden gecontr
 
 ### Artikel  9.1  
 
-Onverminderd [artikel 149a, tweede lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) kan het ingevolge [artikel 149 van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bevoegde gezag ontheffing verlenen van het bepaalde in de artikelen 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid, 5.1.2 en 5.1.3. 
+Onverminderd artikel 149a, tweede lid, van de wet kan het ingevolge artikel 149 van de wet bevoegde gezag ontheffing verlenen van het bepaalde in de artikelen 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid, 5.1.2 en 5.1.3. 
 
 ### §  2  
 
@@ -11857,10 +11706,6 @@ b. voor de voertuigen van de voertuigclassificatie M<sub>2</sub>, M<sub>3</sub> 
 ### Artikel  11.5  
 
 Indien een voor de inwerkingtreding van deze regeling verleende nationale typegoedkeuring vervalt, is artikel 3.27 van overeenkomstige toepassing. 
-
-### Artikel  11.6  
-
-Bussen die voor 29 april 2009 in Nederland zijn geregistreerd en waarvan de inrichting door de Dienst Wegverkeer niet is gekeurd behoeven tot 1 januari 2015 niet te voldoen aan hoofdstuk 5, afdeling 3a, artikelen 5.3a.1, zevende en achtste lid, 5.3a.6, zesde lid, 5.3a.41, derde tot en met twaalfde lid, 5.3a.42, vierde en vijfde lid, 5.3a.43, tweede lid, 5.3a.44, 5.3a.46, eerste en derde tot en met tiende lid, 5.3a.47, 5.3a.48, vijfde, zevende tot en met negende en vijftiende lid, en de in bijlage IV gestelde eisen betreffende de inrichting van het voertuig. 
 
 ### Artikel  11.7  
 
@@ -12112,13 +11957,13 @@ C.M.P.S. Eurlings
 
 ####Vaststelling voertuigidentificatienummer zonder afzonderlijk onderzoek voertuig
 
-Indien de vaststelling van het voertuigidentificatienummer geschiedt zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), wordt het voertuigidentificatienummer vastgesteld op basis van door de aanvrager verstrekte gegevens. 
+Indien de vaststelling van het voertuigidentificatienummer geschiedt zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel a, van het Kentekenreglement, wordt het voertuigidentificatienummer vastgesteld op basis van door de aanvrager verstrekte gegevens. 
 
 ### Artikel  3  
 
 ####Vaststelling voertuigidentificatienummer met afzonderlijk onderzoek voertuig
 
-Indien vaststelling van het voertuigidentificatienummer geschiedt in het kader van de aanvraag van een inschrijving, dan wel inschrijving en tenaamstelling, met gebruikmaking van de bevoegdheid bedoeld in [artikel 46, tweede lid, onderdeel a](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), met een afzonderlijk onderzoek van het betrokken voertuig, voor een individuele goedkeuring, dan wel voor een ander onderzoek, wordt het voertuigidentificatienummer vastgesteld overeenkomstig het bepaalde in de artikelen 4 tot en met 8. 
+Indien vaststelling van het voertuigidentificatienummer geschiedt in het kader van de aanvraag van een inschrijving, dan wel inschrijving en tenaamstelling, met gebruikmaking van de bevoegdheid bedoeld in artikel 46, tweede lid, onderdeel a, met een afzonderlijk onderzoek van het betrokken voertuig, voor een individuele goedkeuring, dan wel voor een ander onderzoek, wordt het voertuigidentificatienummer vastgesteld overeenkomstig het bepaalde in de artikelen 4 tot en met 8. 
 
 ### Artikel  4  
 
@@ -12254,7 +12099,7 @@ Indien het voertuigidentificatienummer niet is vast te stellen op de wijze bedoe
 
 #### *Vaststelling zonder afzonderlijk onderzoek voertuig* 
 
-Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), wordt de datum van eerste toelating vastgesteld aan de hand van het op basis van bijlage I vastgestelde voertuigidentificatienummer waarbij de datum van eerste toelating wordt gesteld op de datum van eerste tenaamstelling. 
+Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat beschikt over de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel a, van het Kentekenreglement, wordt de datum van eerste toelating vastgesteld aan de hand van het op basis van bijlage I vastgestelde voertuigidentificatienummer waarbij de datum van eerste toelating wordt gesteld op de datum van eerste tenaamstelling. 
 
 ### Artikel  3  
 
@@ -12327,279 +12172,6 @@ Indien een voertuig in gebruik is genomen en niet eerder is geregistreerd, wordt
 #### *Onjuiste datum eerste toelating* 
 
 Indien na vaststelling van de datum eerste toelating blijkt dat deze datum onjuist is, wordt de datum eerste toelating opnieuw vastgesteld overeenkomstig deze bijlage. 
-
-### Bijlage IIIa 
-
-####, behorende bij artikel 3.2, derde lid 
-
-####Kleine serie voertuigen van de voertuigcategorie M, N en O
-
-###Artikel  1  
-
-In deze bijlage wordt verstaan onder:*VN/ECE-reglement 100:* reglement nr. 100 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme voorschriften voor de goedkeuring van elektrische voertuigen wat de specifieke voorschriften inzake constructie, functionele veiligheid en emissie van waterstof betreft.<sup>1Te raadplegen via United Nations  Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (www.unece.org/trans/main/wp29/wp29regs.html).</sup>
-
-### Artikel  2  
-
-1. Voertuigen van de voertuigcategorie M, N en O moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan de in onderstaande tabellen vermelde eisen. Voertuigen van de voertuigcategorieën M en N moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring tevens voldoen aan artikel 3, onderdeel b, van bijlage IX, hoofdstuk 3, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het verkeersveilig gebruik van die voertuigen.  
-
-2.Elektrisch aangedreven en hybride elektrische voertuigen van de voertuigcategorieën M en N dienen voor het verkrijgen van een nationale kleine serie typegoedkeuring tevens te voldoen aan VN/ECE-reglement 100 en bijlage IV, behorende bij artikel 3.7, annex 4. 
-
-3. De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de eisen in deze bijlage kunnen voldoen, goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid.  Tabel 1. Eisen voor voertuigen van de voertuigclassificatie M<sub>1</sub>  
-
-|--- | Onderwerp  | Regelgeving  | M<sub>1</sub>   |
-|:---|:---|:---|:---|
-| 1.  | Toelaatbaar Geluidsniveau  |  Richtlijn 70/157/EEG   | A<sup>8</sup>   |
-| 2.  | Emissies, met uitzondering van de volledige reeks voorschriften in verband met boorddiagnosesystemen (OBD’s)  |  Richtlijn 70/220/EEG   | A<sup>6, 8</sup>   |
-| 2a.  | Emissies (Euro 5 en 6), met uitzondering van de volledige reeks voorschriften in verband met boorddiagnosesystemen (OBD’s) en de toegang tot informatie  |  Verordening (EG) nr. 715/2007   | Idem als bij nr 2  |
-| 3.  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  |  Richtlijn 70/221/EEG   | B<sup>8</sup>/B  |
-| 4.  | Plaats voor de achterste kentekenplaat  |  Richtlijn 70/222/EEG   | B  |
-| 5.  | Stuurinrichting  |  Richtlijn 70/311/EEG   | C  |
-| 6.  | Hang- en sluitwerk van deuren  |  Richtlijn 70/387/EEG   | C  |
-| 7.  | Geluidssignaalinrichting  |  Richtlijn 70/388/EEG   | B  |
-| 8.  | Inrichtingen voor indirect zicht  |  Richtlijn 2003/97/EG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 9.  | Reminrichtingen  |  Richtlijn 71/320/EEG   | A  |
-| 10.  | Radiostoring (elektromagnetische compatibiliteit)  |  Richtlijn 72/245/EEG   | A<sup>1</sup>   C<sup>3</sup>   |
-| 11.  | Verontreiniging door dieselmotoren  |  Richtlijn 72/306/EEG   | A<sup>6</sup>   |
-| 12.  | Binneninrichting  |  Richtlijn 74/60/EEG   | C  |
-| 13.  | Beveiliging tegen diefstal en startonderbrekers  |  Richtlijn 74/61/EEG   | A<sup>8</sup>   |
-| 14.  | Gedrag stuurinrichting bij botsingen  |  Richtlijn 74/297/EEG   | C  |
-| 15.  | Sterkte van de zitplaatsen  |  Richtlijn 74/408/EEG   | C  |
-| 16.  | Naar buiten uitstekende delen  |  Richtlijn 74/483/EEG   | C  |
-| 17.  | Snelheidsmeter en achteruitrij-inrichtingen  |  Richtlijn 75/443/EEG   | B/B  |
-| 18.  | Voorgeschreven platen  |  Richtlijn 76/114/EEG   | B<sup>8</sup>   |
-| 19.  | Bevestigingspunten veiligheidsgordels  |  Richtlijn 76/115/EEG   | B<sup>8</sup>   |
-| 20.  | Verlichtings- en lichtsignaalinrichtingen  |  Richtlijn 76/756/EEG   | B  |
-| 21.  | Retroreflectoren  |  Richtlijn 76/757/EEG   | X  |
-| 22.  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  |  Richtlijn 76/758/EEG   | X  |
-| 23.  | Richtingaanwijzers  |  Richtlijn 76/759/EEG   | X  |
-| 24.  | Achterkentekenplaatverlichting  |  Richtlijn 76/760/EEG   | X  |
-| 25.  | Koplichten (met gloeilampen)  |  Richtlijn 76/761/EEG   | X  |
-| 26.  | Mistlichten vóór  |  Richtlijn 76/762/EEG   | X  |
-| 27.  | Sleepinrichtingen  |  Richtlijn 77/389/EEG   | B  |
-| 28.  | Mistlichten achter  |  Richtlijn 77/538/EEG   | X  |
-| 29.  | Achteruitrijlichten  |  Richtlijn 77/539/EEG   | X  |
-| 30.  | Parkeerlichten  |  Richtlijn 77/540/EEG   | X  |
-| 31.  | Veiligheidsgordels  |  Richtlijn 77/541/EEG   | A<sup>2</sup>   B<sup>4, 6, 8</sup>   |
-| 32.  | Zichtveld  |  Richtlijn 77/649/EEG   | C  |
-| 33.  | Identificatie van bedieningsorganen, verklikkerlichten en meters  |  Richtlijn 78/316/EEG   | C  |
-| 34.  | Ontdooiings- en ontwasemingsinrichtingen  |  Richtlijn 78/317/EEG   | C  |
-| 35.  | Ruitenwissers en -sproeiers  |  Richtlijn 78/318/EEG   | C  |
-| 36.  | Verwarmingssystemen  |  Richtlijn 2001/56/EG   | C  |
-| 37.  | Wielafschermingen  |  Richtlijn 78/549/EEG   | B<sup>8</sup>   |
-| 39.  | CO<sub>2</sub>-emissies/Brandstofverbruik  |  Richtlijn 80/1268/EEG   | A  |
-|40. |
-Vervallen | --- | --- |
-|41. |
-Vervallen | --- | --- |
-|41 bis. |Emissies (Euro VI) van zware bedrijfsvoertuigen/ toegang tot informatie |Verordening (EG) nr. 595/2009 |A<sup>12</sup>  |
-| 44.  | Massa’s en afmetingen (auto’s)  |  Richtlijn 92/21/EEG   | C  |
-| 45.  | Veiligheidsglas  |  Richtlijn 92/22/EEG   | A<sup>2, 8</sup>   C<sup>4</sup>   |
-| 46.  | Banden  |  Richtlijn 92/23/EEG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 50.  | Koppelingen  |  Richtlijn 94/20/EG   | X<sup>2, 5</sup>   A<sup>4</sup>   |
-| 53.  | Frontale botsing  |  Richtlijn 96/79/EG   | n.v.t.  |
-| 54.  | Zijdelingse botsing  |  Richtlijn 96/27/EG   | n.v.t.  |
-| 58.  | Bescherming van voetgangers  | Verordening (EG) nr. 78/2009  | n.v.t.<sup>7</sup>   |
-| 59.  | Recycleerbaarheid  |  Richtlijn 2005/64/EG   | n.v.t.<sup>9</sup>   |
-| 60.  | 
-Vervallen  | --- | --- |
-| 61.  | Klimaatregelingsapparatuur  |  Richtlijn 2006/40/EG   | X<sup>2</sup>   B<sup>3</sup>   |
-|62. |Waterstofsysteem |Verordening (EG) nr. 79/2009 |X |
-|63. |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-<sup>1</sup> Elektronisch deel van een samenstel  <sup>2</sup> Onderdeel  <sup>3</sup> Voertuig  <sup>4</sup> Installatievoorschriften  <sup>5</sup> Indien aanwezig  <sup>6</sup> Reeds goedgekeurd vervangend en passend onderdeel toegestaan  <sup>7</sup> Elke frontbeschermingsinrichting die met het voertuig wordt geleverd, moet aan de voorschriften van Verordening (EG) nr. 78/2009 voldoen; er wordt een typegoedkeuringsnummer aan toegekend, dat op die inrichting wordt aangebracht  <sup>8</sup> De Dienst Wegverkeer kan uitzonderingen toestaan  <sup>9</sup> Artikel 7 van richtlijn 2005/64/EG is even wel van toepassing.  <sup>12 </sup>Voor voertuigen met een referentiemassa van meer dan 2.610 kg waarvoor geen typegoedkeuring is verleend (op verzoek van de fabrikant en op voorwaarde dat hun massa niet meer dan 2.840 kg bedraagt) overeenkomstig Verordening (EG) nr. 715/2007.Verklaring: X: EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd. A: Geen ontheffingen toegestaan, behalve die welke in de regelgeving zijn vermeld. Typegoedkeuringscertificaat en typegoedkeuringsmerk zijn niet vereist. Testrapporten moeten door een aangewezen technische dienst worden opgesteld. B: Aan de technische voorschriften van de regelgeving moet zijn voldaan. De tests waarin de regelgeving voorziet, moeten volledig worden uitgevoerd; als de Dienst Wegverkeer hiermee instemt, mag de fabrikant zelf deze tests uitvoeren; hij kan ook de toestemming krijgen om het technisch rapport op te stellen; er hoeft geen goedkeuringscertificaat worden afgegeven en typegoedkeuring is niet vereist. C: De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat aan de essentiële voorschriften van de regelgeving is voldaan. g.v.t.: Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening.n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).  Tabel 2. Eisen voor voertuigen van de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub>  
-
-|--- | Onderwerp  | Regelgeving  | M<sub>2</sub>/M<sub>3</sub>   |
-|:---|:---|:---|:---|
-| 1.  | Toelaatbaar Geluidsniveau  |  Richtlijn 70/157/EEG   | A<sup>11</sup>   |
-| 2.  | Emissies  |  Richtlijn 70/220/EEG   | A<sup>6, 11</sup>/n.v.t.  |
-| 2a.  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  |  Verordening (EG) nr. 715/2007   | A<sup>6</sup>/n.v.t.  |
-| 3.  | Brandstoftanks/-beschermingsinrichtingen aan de achterzijde  |  Richtlijn 70/221/EEG <sup>10</sup>   | B<sup>11</sup>/B  |
-| 4.  | Plaats voor de achterste kentekenplaat  |  Richtlijn 70/222/EEG   | B  |
-| 5.  | Stuurinrichting  |  Richtlijn 70/311/EEG   | C  |
-| 7.  | Geluidssignaalinrichting  |  Richtlijn 70/388/EEG   | B  |
-| 8.  | Inrichtingen voor indirect zicht  |  Richtlijn 2003/97/EG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 9.  | Reminrichtingen  |  Richtlijn 71/320/EEG   | A  |
-| 10.  | Radiostoring (elektromagnetische compatibiliteit)  |  Richtlijn 72/245/EEG   | A<sup>1</sup>   C<sup>3</sup>   |
-| 11.  | Verontreiniging door dieselmotoren  |  Richtlijn 72/306/EEG   | A<sup>6</sup>   |
-| 13.  | Beveiliging tegen diefstal en startonderbrekers  |  Richtlijn 74/61/EEG   | A<sup>11</sup>   |
-| 15.  | Sterkte van de zitplaatsen  |  Richtlijn 74/408/EEG   | B  |
-| 17.  | Snelheidsmeter en achteruitrij-inrichtingen  |  Richtlijn 75/443/EEG   | B/B  |
-| 18.  | Voorgeschreven platen  |  Richtlijn 76/114/EEG   | B<sup>11</sup>   |
-| 19.  | Bevestigingspunten veiligheidsgordels  |  Richtlijn 76/115/EEG   | B  |
-| 20.  | Verlichtings- en lichtsignaalinrichtingen  |  Richtlijn 76/756/EEG   | B  |
-| 21.  | Retroreflectoren  |  Richtlijn 76/757/EEG   | X  |
-| 22.  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  |  Richtlijn 76/758/EEG   | X  |
-| 23.  | Richtingaanwijzers  |  Richtlijn 76/759/EEG   | X  |
-| 24.  | Achterkentekenplaatverlichting  |  Richtlijn 76/760/EEG   | X  |
-| 25.  | Koplichten (met gloeilampen)  |  Richtlijn 76/761/EEG   | X  |
-| 26.  | Mistlichten vóór  |  Richtlijn 76/762/EEG   | X  |
-| 27.  | Sleepinrichtingen  |  Richtlijn 77/389/EEG   | B  |
-| 28.  | Mistlichten achter  |  Richtlijn 77/538/EEG   | X  |
-| 29.  | Achteruitrijlichten  |  Richtlijn 77/539/EEG   | X  |
-| 30.  | Parkeerlichten  |  Richtlijn 77/540/EEG   | X  |
-| 31.  | Veiligheidsgordels  |  Richtlijn 77/541/EEG   | A<sup>2</sup>   B<sup>4, 6, 11</sup>   |
-| 33.  | Identificatie van de bedieningsorganen, verklikkerlicht en meters  |  Richtlijn 78/316/EEG   | C  |
-| 34.  | Ontdooiings- en ontwasemingsinrichtingen  |  <sup>7</sup>   |  <sup>7</sup>   |
-| 35.  | Ruitenwissers en -sproeiers  |  <sup>8</sup>   |  <sup>8</sup>   |
-| 36.  | Verwarmingssystemen  |  Richtlijn 2001/56/EG   | A<sup>2</sup>B<sup>4</sup>   |
-|40. |
-Vervallen | --- | --- |
-|41. |
-Vervallen | --- | --- |
-|41 bis. |Emissies (Euro VI) van zware bedrijfsvoertuigen/ toegang tot informatie |Verordening (EG) nr. 595/2009 |A<sup>12</sup>/A |
-| 45.  | Veiligheidsglas  |  Richtlijn 92/22/EEG   | A<sup>2</sup>   B<sup>4</sup>   |
-| 46.  | Banden  |  Richtlijn 92/23/EEG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 47.  | Snelheidsbegrenzers  |  Richtlijn 92/24/EEG   | X<sup>2</sup>   |
-| 48.  | Massa’s en afmetingen  |  Richtlijn 97/27/EG   | B  |
-| 50.  | Koppelingen  |  Richtlijn 94/20/EG   | X<sup>2, 5</sup>   A<sup>4</sup>   |
-| 51.  | Ontvlambaarheid  |  Richtlijn 95/28/EG   | M<sub>2</sub>: n.v.t.  M<sub>3</sub>: X  |
-| 52.  | Bussen en toerbussen  |  Richtlijn 2001/85/EG   | B  |
-|62. |Waterstofsysteem |Verordening (EG) nr. 79/2009 |X |
-|63. |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-<sup>1</sup> Elektronisch deel van een samenstel  <sup>2</sup> Onderdeel  <sup>3</sup> Voertuig  <sup>4</sup> Installatievoorschriften  <sup>5</sup> Indien aanwezig  <sup>6</sup> Reeds goedgekeurd vervangend en passend onderdeel toegestaan  <sup>7</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van een geschikte ontdooiings- en ontwasemingsinrichting.  <sup>8</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van geschikte ruitensproei- en ruitenwisinrichtingen.  <sup>10</sup> Voor voertuigen op LPG of gecomprimeerd aardgas (CNG) is een goedkeuring overeenkomstig VN/ECE-reglement nr. 67-01 of 110 vereist in afwachting van de goedkeuring van de wijziging van Richtlijn 70/221/EEG met het oog op de opname van LPG- en CNG- tanks.  <sup>11</sup>De Dienst Wegverkeer kan uitzonderingen toestaan  <sup>12 </sup>Voor voertuigen met een referentiemassa van meer dan 2.610 kg waarvoor geen typegoedkeuring is verleend (op verzoek van de fabrikant en op voorwaarde dat hun massa niet meer dan 2.840 kg bedraagt) overeenkomstig Verordening (EG) nr. 715/2007.Verklaring: X: Volledige naleving van de regelgeving is vereist; EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd. A: Geen ontheffingen toegestaan, behalve die welke in de regelgeving zijn vermeld. Typegoedkeuringscertificaat en typegoedkeuringsmerk zijn niet vereist. Testrapporten moeten door een aangewezen technische dienst worden opgesteld. B: Aan de technische voorschriften van de regelgeving moet zijn voldaan. De tests waarin de regelgeving voorziet, moeten volledig worden uitgevoerd; als de Dienst Wegverkeer hiermee instemt, mag de fabrikant zelf deze tests uitvoeren; hij kan ook de toestemming krijgen om het technisch rapport op te stellen; er hoeft geen goedkeuringscertificaat worden afgegeven en typegoedkeuring is niet vereist. C: De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat aan de essentiële voorschriften van de regelgeving is voldaan. g.v.t.: Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening.n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).  Tabel 3. Eisen voor voertuigen van de voertuigclassificatie N<sub>1</sub>  
-
-|--- | Onderwerp  | Regelgeving  | N<sub>1</sub>   |
-|:---|:---|:---|:---|
-| 1.  | Toelaatbaar Geluidsniveau  |  Richtlijn 70/157/EEG   | A<sup>15</sup>   |
-| 2.  | Emissies, met uitzondering van de volledige reeks voorschriften in verband met boorddiagnosesystemen (OBD’s)  |  Richtlijn 70/220/EEG   | A<sup>6, 15</sup>   |
-| 2a.  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  |  Verordening (EG) nr. 715/2007   | Idem als bij 2<sup>16</sup>   |
-| 3.  | Brandstoftanks/beschermings-inrichtingen aan de achterzijde  |  Richtlijn 70/221/EEG <sup>10</sup>   | B<sup>15</sup>/B  |
-| 4.  | Plaats voor de achterste kentekenplaat  |  Richtlijn 70/222/EEG   | B  |
-| 5.  | Stuurinrichting  |  Richtlijn 70/311/EEG   | C  |
-| 6.  | Hang- en sluitwerk van deuren  |  Richtlijn 70/387/EEG   | C  |
-| 7.  | Geluidssignaalinrichting  |  Richtlijn 70/388/EEG   | B  |
-| 8.  | Inrichtingen voor indirect zicht  |  Richtlijn 2003/97/EG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 9.  | Reminrichtingen  |  Richtlijn 71/320/EEG   | A  |
-| 10.  | Radiostoring (electromagnetische compatibiliteit)  |  Richtlijn 72/245/EEG   | A<sup>1</sup>   C<sup>3</sup>   |
-| 11.  | Verontreiniging door dieselmotoren  |  Richtlijn 72/306/EEG   | A<sup>6</sup>   |
-| 13.  | Beveiliging tegen diefstal en startonderbrekers  |  Richtlijn 74/61/EEG   | A<sup>15</sup>   |
-| 14.  | Gedrag stuurinrichting bij botsingen  |  Richtlijn 74/297/EEG <sup>14</sup>   | C  |
-| 15.  | Sterkte van de zitplaatsen  |  Richtlijn 74/408/EEG   | C  |
-| 17.  | Snelheidsmeter en achteruitrij-inrichtingen  |  Richtlijn 75/443/EEG   | B/B  |
-| 18.  | Voorgeschreven platen  |  Richtlijn 76/114/EEG   | B<sup>15</sup>   |
-| 19.  | Bevestigingspunten veiligheidsgordels  |  Richtlijn 76/115/EEG   | B  |
-| 20.  | Verlichtings- en lichtsignaalinrichtingen  |  Richtlijn 76/756/EEG   | B<sup>15</sup>   |
-| 21.  | Retroreflectoren  |  Richtlijn 76/757/EEG   | X  |
-| 22.  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  |  Richtlijn 76/758/EEG   | X  |
-| 23.  | Richtingaanwijzers  |  Richtlijn 76/759/EEG   | X  |
-| 24.  | Achterkentekenplaatverlichting  |  Richtlijn 76/760/EEG   | X  |
-| 25.  | Koplichten (met gloeilampen)  |  Richtlijn 76/761/EEG   | X  |
-| 26.  | Mistlichten vóór  |  Richtlijn 76/762/EEG   | X  |
-| 27.  | Sleepinrichtingen  |  Richtlijn 77/389/EEG   | B  |
-| 28.  | Mistlichten achter  |  Richtlijn 77/538/EEG   | X  |
-| 29.  | Achteruitrijlichten  |  Richtlijn 77/539/EEG   | X  |
-| 30.  | Parkeerlichten  |  Richtlijn 77/540/EEG   | X  |
-| 31.  | Veiligheidsgordels  |  Richtlijn 77/541/EEG   | A<sup>2</sup>   B<sup>4, 6 ,15</sup>   |
-| 33.  | Identificatie van de bedieningsorganen, verklikkerlichten en meters  |  Richtlijn 78/316/EEG   | C  |
-| 34.  | Ontdooiings- en ontwasemingsinrichtingen  |  <sup>7</sup>   |  <sup>7</sup>   |
-| 35.  | Ruitenwissers en -sproeiers  |  <sup>8</sup>   |  <sup>8</sup>   |
-| 36.  | Verwarmingssystemen  |  Richtlijn 2001/56/EG   | C  |
-| 39.  | CO<sub>2</sub>-emissies/Brandstofverbruik  |  Richtlijn 80/1268/EEG   | A  |
-|40. |
-Vervallen | --- | --- |
-|41. |
-Vervallen | --- | --- |
-|41 bis. |Emissies (Euro VI) van zware bedrijfsvoertuigen/ toegang tot informatie |Verordening (EG) nr. 595/2009 |A<sup>12</sup>  |
-|43. |Opspatafschermingssystemen |Richtlijn 91/226/EEG  |B |
-| 45.  | Veiligheidsglas  |  Richtlijn 92/22/EEG   | A<sup>2, 15</sup>   C<sup>4</sup>   |
-| 46.  | Banden  |  Richtlijn 92/23/EEG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 48.  | Massa’s en afmetingen  |  Richtlijn 97/27/EG   | B<sup>15</sup>   |
-| 49.  | Naar buiten uitstekende delen van bestuurderscabines  |  Richtlijn 92/14/EEG   | C  |
-| 50.  | Koppelingen  |  Richtlijn 94/20/EG   | X<sup>2, 5</sup>   A<sup>4</sup>   |
-| 54.  | Zijdelingse botsing  |  Richtlijn 96/27/EG   | n.v.t.  |
-| 56.  | Voertuigen bedoeld voor het vervoer van gevaarlijke goederen  |  Richtlijn 98/91/EG <sup>9</sup>   | A  |
-| 58.  | Bescherming van voetgangers  | Verordening (EG) nr. 78/2009  | n.v.t.<sup> 19</sup>   |
-| 59.  | Recycleerbaarheid  |  Richtlijn 2005/64/EG   | n.v.t.<sup>18</sup>   |
-| 60.  | 
-Vervallen  | --- | --- |
-| 61.  | Klimaatregelingsapparatuur  |  Richtlijn 2006/40/EG <sup>13</sup>   | X<sup>2</sup>   B<sup>3</sup>   |
-|62. |Waterstofsysteem |Verordening (EG) nr. 79/2009 |X |
-|63. |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-<sup>1</sup> Elektronisch deel van een samenstel  <sup>2</sup> Onderdeel  <sup>3</sup> Voertuig  <sup>4</sup> Installatievoorschriften  <sup>5</sup> Indien aanwezig  <sup>6</sup> Reeds goedgekeurd vervangend en passend onderdeel toegestaan  <sup>7</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van een geschikte ontdooiings- en ontwasemingsinrichting.  <sup>8</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van geschikte ruitensproei- en ruitenwisinrichtingen.  <sup>9</sup> De voorschriften van Richtlijn 98/91/EG zijn alleen van toepassing indien de fabrikant een kleine serie-typegoedkeuring aanvraagt voor een voertuig dat bedoeld is voor het vervoer van gevaarlijke goederen.  <sup>10</sup> Voor voertuigen op LPG of gecomprimeerd aardgas (CNG) is een goedkeuring overeenkomstig VN/ECE-reglement nr. 67-01 of 110 vereist in afwachting van de goedkeuring van de wijziging van Richtlijn 70/221/EEG met het oog op de opname van LPG- en CNG- tanks.  <sup>11</sup> Met een maximummassa van 2.500 kg.  <sup>12 </sup>Voor voertuigen met een referentiemassa van meer dan 2.610 kg waarvoor geen typegoedkeuring is verleend (op verzoek van de fabrikant en op voorwaarde dat hun massa niet meer dan 2.840 kg bedraagt) overeenkomstig Verordening (EG) nr. 715/2007.  <sup>13</sup> Alleen voor voertuigen van de voertuigclassificatie N<sub>1 </sub> zoals omschreven in bijlage I, punt 5.3.1.4, eerste tabel, van Richtlijn 70/220/EEG, zoals ingevoegd bij Richtlijn 98/69/EG.  <sup>14</sup> Met een maximummassa van 1.500 kg  <sup>15</sup> De Dienst Wegverkeer kan uitzonderingen toestaan  <sup>16</sup> Voor voertuigen met een referentie massa van maximaal 2610 kg. Kan op verzoek van de fabrikant van toepassing zijn op voertuigen met een referentie massa van maximaal 2840 kg.  <sup>18</sup> Artikel 7 van richtlijn 2005/64/EG is even wel van toepassing.  <sup>19</sup> Elke frontbeschermingsinrichting die met het voertuig wordt geleverd, moet aan de voorschriften van Verordening (EG) nr. 78/2009 voldoen; er wordt een typegoedkeuringsnummer aan toegekend, dat op die inrichting wordt aangebracht.Verklaring: X: Volledige naleving van de regelgeving is vereist; EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd. A: Geen ontheffingen toegestaan, behalve die welke in de regelgeving zijn vermeld. Typegoedkeuringscertificaat en typegoedkeuringsmerk zijn niet vereist. Testrapporten moeten door een aangewezen technische dienst worden opgesteld. B: Aan de technische voorschriften van de regelgeving moet zijn voldaan. De tests waarin de regelgeving voorziet, moeten volledig worden uitgevoerd; als de Dienst Wegverkeer hiermee instemt, mag de fabrikant zelf deze tests uitvoeren; hij kan ook de toestemming krijgen om het technisch rapport op te stellen; er hoeft geen goedkeuringscertificaat worden afgegeven en typegoedkeuring is niet vereist. C: De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat aan de essentiële voorschriften van de regelgeving is voldaan. g.v.t.: Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening.n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).  Tabel 4. Eisen voor voertuigen van de voertuigclassificatie N<sub>2</sub> en N<sub>3</sub>  
-
-|--- | Onderwerp  | Regelgeving  | N<sub>2</sub>/N<sub>3</sub>   |
-|:---|:---|:---|:---|
-| 1.  | Toelaatbaar Geluidsniveau  |  Richtlijn 70/157/EEG   | A<sup>11</sup>   |
-| 2.  | Emissies  |  Richtlijn 70/220/EEG   | A<sup>6, 11</sup>   |
-| 2a.  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  |  Verordening (EG) nr. 715/2007   | A<sup>6, 11, 12</sup>/n.v.t.  |
-| 3.  | Brandstoftanks/-beschermingsinrichtingen aan de achterzijde  |  Richtlijn 70/221/EEG <sup>10</sup>   | B<sup>11</sup>/B  |
-| 4.  | Plaats voor de achterste kentekenplaat  |  Richtlijn 70/222/EEG   | B  |
-| 5.  | Stuurinrichting  |  Richtlijn 70/311/EEG   | C  |
-| 6.  | Hang- en sluitwerk van deuren  |  Richtlijn 70/387/EEG   | C  |
-| 7.  | Geluidssignaalinrichting  |  Richtlijn 70/388/EEG   | B  |
-| 8.  | Inrichtingen voor indirect zicht  |  Richtlijn 2003/97/EG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 9.  | Reminrichtingen  |  Richtlijn 71/320/EEG   | A  |
-| 10.  | Radiostoring (elektromagnetische compatibiliteit)  |  Richtlijn 72/245/EEG   | A<sup>1</sup>   C<sup>3</sup>   |
-| 11.  | Verontreiniging door dieselmotoren  |  Richtlijn 72/306/EEG   | A<sup>6</sup>   |
-| 13.  | Beveiliging tegen diefstal en startonderbrekers  |  Richtlijn 74/61/EEG   | A<sup>11</sup>   |
-| 15.  | Sterkte van de zitplaatsen  |  Richtlijn 74/408/EEG   | C  |
-| 17.  | Snelheidsmeter en achteruitrij-inrichtingen  |  Richtlijn 75/443/EEG   | B/B  |
-| 18.  | Voorgeschreven platen  |  Richtlijn 76/114/EEG   | B<sup>11</sup>   |
-| 19.  | Bevestigingspunten veiligheidsgordels  |  Richtlijn 76/115/EEG   | B  |
-| 20.  | Verlichtings- en lichtsignaalinrichtingen  |  Richtlijn 76/756/EEG   | B  |
-| 21.  | Retroreflectoren  |  Richtlijn 76/757/EEG   | X  |
-| 22.  | Markerings-, breedte-, achter-, stop-, zij-markerings- en dagrijlichten  |  Richtlijn 76/758/EEG   | X  |
-| 23.  | Richtingaanwijzers  |  Richtlijn 76/759/EEG   | X  |
-| 24.  | Achterkentekenplaatverlichting  |  Richtlijn 76/760/EEG   | X  |
-| 25.  | Koplichten (met gloeilampen)  |  Richtlijn 76/761/EEG   | X  |
-| 26.  | Mistlichten vóór  |  Richtlijn 76/762/EEG   | X  |
-| 27.  | Sleepinrichtingen  |  Richtlijn 77/389/EEG   | B  |
-| 28.  | Mistlichten achter  |  Richtlijn 77/538/EEG   | X  |
-| 29.  | Achteruitrijlichten  |  Richtlijn 77/539/EEG   | X  |
-| 30.  | Parkeerlichten  |  Richtlijn 77/540/EEG   | X  |
-| 31.  | Veiligheidsgordels  |  Richtlijn 77/541/EEG   | A<sup>2</sup>   B<sup>4, 6, 11</sup>   |
-| 33.  | Identificatie van de bedieningsorganen, verklikkerlichten en meters  |  Richtlijn 78/316/EEG   | C  |
-| 34.  | Ontdooiings- en ontwasemingsinrichtingen  |  <sup>7</sup>   |  <sup>7</sup>   |
-| 35.  | Ruitenwissers en -sproeiers  |  <sup>8</sup>   |  <sup>8</sup>   |
-| 36.  | Verwarmingssystemen  |  Richtlijn 2001/56/EG   | C  |
-|40. |
-Vervallen | --- | --- |
-|41. |
-Vervallen | --- | --- |
-|41 bis. |Emissies (Euro VI) van zware bedrijfsvoertuigen/ toegang tot informatie |Verordening (EG) nr. 595/2009 |A<sup>12</sup>/A |
-| 42.  | Zijdelingse afscherming  |  Richtlijn 89/297/EEG   | B  |
-| 43.  | Opspatafschermings-systemen  |  Richtlijn 91/226/EEG   | B  |
-| 45.  | Veiligheidsglas  |  Richtlijn 92/22/EEG   | A<sup>2, 11</sup>   C<sup>4</sup>   |
-| 46.  | Banden  |  Richtlijn 92/23/EEG   | X<sup>2</sup>   B<sup>4</sup>   |
-| 47.  | Snelheidsbegrenzers  |  Richtlijn 92/24/EEG   | X<sup>2</sup>   |
-| 48.  | Massa’s en afmetingen  |  Richtlijn 97/27/EG   | B<sup>11</sup>   |
-| 49.  | Naar buiten uitstekende delen van bestuurderscabines  |  Richtlijn 92/114/EEG   | C  |
-| 50.  | Koppelingen  |  Richtlijn 94/20/EG   | X<sup>2, 5</sup>   A<sup>4</sup>   |
-| 56.  | Voertuigen bedoeld voor het vervoer van gevaarlijke goederen  |  Richtlijn 98/91/EG <sup>9</sup>   | A  |
-| 57.  | Beschermingsinrichting aan de voorzijde  |  Richtlijn 2000/40/EG   | B  |
-|62. |Waterstofsysteem |Verordening (EG) nr. 79/2009 |X |
-|63. |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-<sup>1</sup> Elektronisch deel van een samenstel  <sup>2</sup> Onderdeel  <sup>3</sup> Voertuig  <sup>4</sup> Installatievoorschriften  <sup>5</sup> Indien aanwezig  <sup>6</sup> Reeds goedgekeurd vervangend en passend onderdeel toegestaan  <sup>7</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van een geschikte ontdooiings- en ontwasemingsinrichting.  <sup>8</sup> Voertuigen van deze voertuigclassificatie moeten zijn voorzien van geschikte ruitensproei- en ruitenwisinrichtingen.  <sup>9</sup> De voorschriften van Richtlijn 98/91/EG zijn alleen van toepassing indien de fabrikant een kleine serie-typegoedkeuring aanvraagt voor een voertuig dat bedoeld is voor het vervoer van gevaarlijke goederen.  <sup>10</sup> Voor voertuigen op LPG of gecomprimeerd aardgas (CNG) is een goedkeuring overeenkomstig VN/ECE-reglement nr. 67-01 of 110 vereist in afwachting van de goedkeuring van de wijziging van Richtlijn 70/221/EEG met het oog op de opname van LPG- en CNG-tanks.  <sup>11</sup> De Dienst Wegverkeer kan uitzonderingen toestaan  <sup>12 </sup>Voor voertuigen met een referentiemassa van meer dan 2.610 kg waarvoor geen typegoedkeuring is verleend (op verzoek van de fabrikant en op voorwaarde dat hun massa niet meer dan 2.840 kg bedraagt) overeenkomstig Verordening (EG) nr. 715/2007. Verklaring: X: Volledige naleving van de regelgeving is vereist; EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd. A: Geen ontheffingen toegestaan, behalve die welke in de regelgeving zijn vermeld. Typegoedkeuringscertificaat en typegoedkeuringsmerk zijn niet vereist. Testrapporten moeten door een aangewezen technische dienst worden opgesteld. B: Aan de technische voorschriften van de regelgeving moet zijn voldaan. De tests waarin de regelgeving voorziet, moeten volledig worden uitgevoerd; als de Dienst Wegverkeer hiermee instemt, mag de fabrikant zelf deze tests uitvoeren; hij kan ook de toestemming krijgen om het technisch rapport op te stellen; er hoeft geen goedkeuringscertificaat worden afgegeven en typegoedkeuring is niet vereist. C: De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat aan de essentiële voorschriften van de regelgeving is voldaan. g.v.t.: Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening.n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).  Tabel 5. Eisen voor voertuigen van de voertuigclassificatie O<sub>1</sub>, O<sub>2</sub>, O<sub>3</sub> en O<sub>4</sub>  
-
-|--- | Onderwerp  | Regelgeving  | O<sub>1</sub>/O<sub>2</sub>   | O<sub>3</sub>/O<sub>4</sub>   |
-|:---|:---|:---|:---|:---|
-| 3.  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  |  Richtlijn 70/221/EEG   | n.v.t./B  | n.v.t./B  |
-| 4.  | Plaats voor de achterste kentekenplaat  |  Richtlijn 70/222/EEG   | B  | B  |
-| 5.  | Stuurinrichting  |  Richtlijn 70/311/EEG   | C  | C  |
-| 9.  | Reminrichtingen  |  Richtlijn 71/320/EEG   | A<sup>6, 7</sup>   | A  |
-| 10.  | Radiostoring (elektromagnetische compatibiliteit)  |  Richtlijn 72/245/EEG   | A<sup>1</sup>   C<sup>3</sup>   | A<sup>1</sup>   C<sup>3</sup>   |
-| 18.  | Voorgeschreven platen  |  Richtlijn 76/114/EEG   | B<sup>7</sup>   | B<sup>7</sup>   |
-| 20.  | Verlichtings- en lichtsignaalinrichtingen  |  Richtlijn 76/756/EEG   | B  | B  |
-| 21.  | Retroreflectoren  |  Richtlijn 76/757/EEG   | X  | X  |
-| 22.  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  |  Richtlijn 76/758/EEG   | X  | X  |
-| 23.  | Richtingaanwijzers  |  Richtlijn 76/759/EEG   | X  | X  |
-| 24.  | Achterkentekenplaatverlichting  |  Richtlijn 76/760/EEG   | X  | X  |
-| 28.  | Mistlichten achter  |  Richtlijn 77/538/EEG   | X  | X  |
-| 29.  | Achteruitrijlichten  |  Richtlijn 77/539/EEG   | X  | X  |
-| 36.  | Verwarmingssystemen  |  Richtlijn 2001/56/EG   | C  | C  |
-| 42.  | Zijdelingse afscherming  |  Richtlijn 89/297/EEG   | n.v.t.  | B  |
-| 43.  | Opspatafschermingssystemen  | Richtlijn 91/226/EEG  | B  | B  |
-| 45.  | Veiligheidsglas  |  Richtlijn 92/22/EEG   | A<sup>2</sup>   C<sup>4</sup>   | A<sup>2</sup>   C<sup>4</sup>   |
-| 46.  | Banden  |  Richtlijn 92/23/EEG   | X<sup>2</sup>   B<sup>4</sup>   | X<sup>2</sup>   B<sup>4</sup>   |
-| 48.  | Massa’s en afmetingen  |  Richtlijn 97/27/EG   | B<sup>7</sup>   | B<sup>7</sup>   |
-| 50.  | Koppelingen  |  Richtlijn 94/20/EG   | X<sup>2</sup>   A<sup>4</sup>   | X<sup>2</sup>   A<sup>4</sup>   |
-| 56.  | Voertuigen bedoeld voor het vervoer van gevaarlijke goederen  |  Richtlijn 98/91/EG <sup>5</sup>   | A  | A  |
-|63. |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. | --- |
-
-<sup>1</sup> Elektronisch deel van een samenstel  <sup>2</sup> Onderdeel  <sup>3</sup> Voertuig  <sup>4</sup> Installatievoorschriften  <sup>5</sup> De voorschriften van Richtlijn 98/91/EG zijn alleen van toepassing indien de fabrikant EG-type-goedkeuring aanvraagt voor een voertuig dat bedoeld is voor het vervoer van gevaarlijke goederen.  <sup>6</sup> Indien aanwezig  <sup>7</sup> De Dienst Wegverkeer kan uitzonderingen toestaan Verklaring: X: Volledige naleving van de regelgeving is vereist; EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd. A: Geen ontheffingen toegestaan, behalve die welke in de regelgeving zijn vermeld. Typegoedkeuringscertificaat en typegoedkeuringsmerk zijn niet vereist. Testrapporten moeten door een aangewezen technische dienst worden opgesteld. B: Aan de technische voorschriften van de regelgeving moet zijn voldaan. De tests waarin de regelgeving voorziet, moeten volledig worden uitgevoerd; als de Dienst Wegverkeer hiermee instemt, mag de fabrikant zelf deze tests uitvoeren; hij kan ook de toestemming krijgen om het technisch rapport op te stellen; er hoeft geen goedkeuringscertificaat worden afgegeven en typegoedkeuring is niet vereist. C: De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat aan de essentiële voorschriften van de regelgeving is voldaan. g.v.t.: Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening.n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).   
 
 ### Bijlage IIIb 
 
@@ -12726,382 +12298,9 @@ In deze bijlage wordt verstaan onder:*VN/ECE-reglement 100:* reglement nr. 100 v
 
 Verklaring: X: Volledige naleving van de regelgeving is vereist; EG-typegoedkeuringscertificaat moet worden afgegeven; overeenstemming van de productie wordt gegarandeerd n.v.t: Deze regelgeving is niet van toepassing (geen voorschriften).  
 
-###Bijlage IIId 
-
-####, behorende bij artikel 3.11 
-
-####Kleine serie voertuigen voor speciale doeleinden van de voertuigcategorie M, N en O
-
-###Artikel 1  
-
-In deze bijlage wordt verstaan onder:*VN/ECE-reglement 100:* reglement nr. 100 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme voorschriften voor de goedkeuring van elektrische voertuigen wat de specifieke voorschriften inzake constructie, functionele veiligheid en emissie van waterstof betreft.<sup>3Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (www.unece.org/trans/main/wp29/wp29regs.html).</sup>
-
-### Artikel 2  
-
-1. Voertuigen voor speciale doeleinden van de voertuigcategorie M, N en O moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan de in de onderstaande tabellen vermelde eisen. Voertuigen voor speciale doeleinden van de voertuigcategorieën M en N moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring tevens voldoen aan artikel 3, onderdeel b, van bijlage IX, hoofdstuk 3, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het verkeersveilig gebruik van die voertuigen.  
-
-2.Elektrisch aangedreven en hybride elektrische voertuigen voor speciale doeleinden van de voertuigcategorieën M en N moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring tevens voldoen aan VN/ECE-reglement 100 en bijlage IV, behorende bij artikel 3.7, annex 4.
-
-3. De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de eisen in deze bijlage kunnen voldoen, goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid.   
-
-### Tabel  1  
-
-####Eisen voor kampeerwagens, ambulances en lijkwagens
-
-| Nr.  | Onderwerp  | Regelgeving  | M<sub>1 </sub>? 2.500 kg<sup>1</sup>   | M<sub>1</sub> > 2.500 //kg<sup>1</sup>   | M<sub>2</sub>   | M<sub>3</sub>   |
-|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toelaatbaar geluidsniveau  | Richtlijn 70/157/EEG  | H  | G+H  | G+H  | G+H  |
-| 2  | Emissies  | Richtlijn 70/220/EEG  | Q  | G+Q  | G+Q  | G+Q  |
-| 2a  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  | Verordening (EG) nr. 715/2007  | Q  | G+Q  | G+Q  | --- |
-| 3  | Brandstoftanks/ beschermingsinrichtingen aan de achterzijde  | Richtlijn 70/221/EEG  | F  | F  | F  | F  |
-| 4  | Plaats voor de achterste kentekenplaat  | Richtlijn 70/222/EEG  | X  | X  | X  | X  |
-| 5  | Stuurinrichting  | Richtlijn 70/311/EEG  | X  | G  | G  | G  |
-| 6  | Hang- en sluitwerk van deuren  | Richtlijn 70/387/EEG  | B  | G+B  | --- | --- |
-| 7  | Geluidssignaalinrichting  | Richtlijn 70/388/EEG  | X  | X  | X  | X  |
-| 8  | Inrichtingen voor indirect zicht  | Richtlijn 2003/97/EG  | X  | G  | G  | G  |
-| 9  | Reminrichtingen  | Richtlijn 71/320/EEG  | X  | G  | G  | G  |
-| 10  | Radiostoring (elektromagnetische compatibiliteit)  | Richtlijn 72/245/EEG  | X  | X  | X  | X  |
-| 11  | Verontreiniging door dieselmotoren  | Richtlijn 72/306/EEG  | H  | H  | H  | H  |
-| 12  | Binneninrichting  | Richtlijn 74/60/EEG  | C  | G+C  | --- | --- |
-| 13  | Beveiliging tegen diefstal en startonderbrekers  | Richtlijn 74/61/EEG  | X  | G  | G  | G  |
-| 14  | Gedrag stuurinrichting bij botsingen  | Richtlijn 74/297/EEG  | X  | G  | --- | --- |
-| 15  | Sterkte van de zitplaatsen  | Richtlijn 74/408/EEG  | D  | G+D  | G+D  | G+D  |
-| 16  | Naar buiten uitstekende delen  | Richtlijn 74/483/EEG  | X<sup>2</sup>, A<sup>3</sup>   | G<sup>2</sup>, A<sup>3</sup>   | --- | --- |
-| 17  | Snelheidsmeter en achteruitrij-inrichtingen  | Richtlijn 75/443/EEG  | X  | X  | X  | X  |
-| 18  | Voorgeschreven platen  | Richtlijn 76/114/EEG  | X  | X  | X  | X  |
-| 19  | Bevestigingspunten veiligheidsgordels  | Richtlijn 76/115/EEG  | D  | G+L  | G+L  | G+L  |
-| 20  | Verlichtings- en lichtsignaalinrichtingen  | Richtlijn 76/756/EEG  | A+N  | A+G+N<sup>2</sup>, A+N<sup>3</sup>   | A+G+N<sup>2</sup>, A+N<sup>3</sup>  | A+G+N<sup>2</sup>, A+N<sup>3</sup>   |
-| 21  | Retroreflectoren  | Richtlijn 76/757/EEG  | X  | X  | X  | X  |
-| 22  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  | Richtlijn 76/758/EEG  | X  | X  | X  | X  |
-| 23  | Richtingaanwijzers  | Richtlijn 76/759/EEG  | X  | X  | X  | X  |
-| 24  | Achterkentekenplaatverlichting  | Richtlijn 76/760/EEG  | X  | X  | X  | X  |
-| 25  | Koplichten (met gloeilampen)  | Richtlijn 76/761/EEG  | X  | X  | X  | X  |
-| 26  | Mistlichten vóór  | Richtlijn 76/762/EEG  | X  | X  | X  | X  |
-| 27  | Sleepinrichtingen  | Richtlijn 77/389/EEG  | E  | E  | E  | E  |
-| 28  | Mistlichten achter  | Richtlijn 77/538/EEG  | X  | X  | X  | X  |
-| 29  | Achteruitrijlichten  | Richtlijn 77/539/EEG  | X  | X  | X  | X  |
-| 30  | Parkeerlichten  | Richtlijn 77/540/EEG  | X  | X  | X  | X  |
-| 31  | Veiligheidsgordels  | Richtlijn 77/541/EEG  | D  | G+M  | G+M  | G+M  |
-| 32  | Zichtveld  | Richtlijn 77/649/EEG  | X  | G  | --- | --- |
-| 33  | Identificatie van bedieningsorganen, verklikkerlichten en meters  | Richtlijn 78/316/EEG  | X  | X  | X  | X  |
-| 34  | Ontdooiings- en ontwasemingsinrichtingen  | Richtlijn 78/317/EEG  | X  | G+O  | O  | O  |
-| 35  | Ruitenwissers en -sproeiers  | Richtlijn 78/318/EEG  | X  | G+O  | O  | O  |
-| 36  | Verwarmingssystemen  | Richtlijn 2001/56/EG  | X  | X  | X  | X  |
-| 37  | Wielafschermingen  | Richtlijn 78/549/EEG  | X  | G  | --- | --- |
-| 38  | Hoofdsteunen  | Richtlijn 78/932/EEG  | D  | G+D  | --- | --- |
-| 39  | CO<sub>2</sub>-emissies/brandstofverbruik  | Richtlijn 80/1268/EEG  | n.v.t.  | n.v.t.  | --- | --- |
-| 40  | Motorvermogen  | Richtlijn 80/1269/EEG  | X  | X  | X  | X  |
-| 41  | Emissies (Euro 4 en 5) zware bedrijfsvoertuigen  | Richtlijn 2005/55/EG  | H  | G+H  | G+H  | G+H  |
-| 44  | Massa’s en afmetingen (personenauto’s)  | Richtlijn 92/21/EEG  | X  | X  | --- | --- |
-| 45  | Veiligheidsglas  | Richtlijn 92/22/EEG  | J  | G+J  | G+J  | G+J  |
-| 46  | Banden  | Richtlijn 92/23/EEG  | X  | G  | G  | G  |
-| 47  | Snelheidsbegrenzers  | Richtlijn 92/24/EEG  | --- | --- | --- | X  |
-| 48  | Massa’s en afmetingen (andere dan de in punt 44 genoemde voertuigen)  | Richtlijn 97/27/EG  | --- | --- | X  | X  |
-| 50  | Koppelingen  | Richtlijn 94/20/EG  | X  | G  | G  | G  |
-| 51  | Ontvlambaarheid  | Richtlijn 95/28/EG  | --- | --- | --- | G<sup>2</sup>, X<sup>3</sup>   |
-| 52  | Bussen en toerbussen  | Richtlijn 2001/85/EG  | --- | --- | A  | A  |
-| 53  | Frontale botsing  | Richtlijn 96/79/EG  | n.v.t.  | n.v.t.  | --- | --- |
-| 54  | Zijdelingse botsing  | Richtlijn 96/27/EG  | n.v.t.  | n.v.t.  | --- | --- |
-| 58  | Bescherming van voetgangers  | Verordening (EG) nr. 78/2009  | X  | n.v.t.<sup>4</sup>   | --- | --- |
-| 59  | Recycleerbaarheid  | Richtlijn 2005/64/EG  | n.v.t.  | n.v.t.  | --- | --- |
-| 61  | Klimaatregelingsapparatuur  | Richtlijn 2006/40/EG  | X  | X  | --- | --- |
-| 62  | Waterstofsysteem  | Verordening (EG) nr. 79/2009  | Q  | G+Q  | G+Q  | G+Q  |
-|63 |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. | --- | --- | --- |
-
-<sup>1</sup> Technisch toelaatbare maximummassa in beladen toestand.<sup>2</sup> Voor de cabine.<sup>3</sup> Voor het overige deel.<sup>4</sup> Elke frontbeschermingsinrichting die met het voertuig wordt geleverd, moet aan de voorschriften van Verordening (EG) nr. 78/2009 voldoen; er wordt een typegoedkeuringsnummer aan toegekend, dat op die inrichting wordt aangebracht.
-
-### Tabel  2  
-
-####Eisen voor gepantserde voertuigen
-
-| Nr.  | Onderwerp  | Regelgeving  | M<sub>1</sub>   | M<sub>2</sub>   | M<sub>3</sub>   | N<sub>1</sub>   | N<sub>2</sub>   | N<sub>3</sub>   | O<sub>1</sub>/O<sub>2</sub>   | O<sub>3</sub>/O<sub>4</sub>   |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toelaatbaar geluidsniveau  | Richtlijn 70/157/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 2  | Emissies  | Richtlijn 70/220/EEG  | A  | A  | A  | A  | A  | A  | --- | --- |
-| 2a  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  | Verordening (EG) nr. 715/2007  | A  | A  | --- | A  | A  | --- | --- | --- |
-| 3  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  | Richtlijn 70/221/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 4  | Plaats voor de achterste kentekenplaat  | Richtlijn 70/222/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 5  | Stuurinrichting  | Richtlijn 70/311/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 6  | Hang- en sluitwerk van deuren  | Richtlijn 70/387/EEG  | X  | --- | --- | X  | X  | X  | --- | --- |
-| 7  | Geluidssignaalinrichting  | Richtlijn 70/388/EEG  | A+K  | A+K  | A+K  | A+K  | A+K  | A+K  | --- | --- |
-| 8  | Inrichtingen voor indirect zicht  | Richtlijn 2003/97/EG  | A  | A  | A  | A  | A  | A  | --- | --- |
-| 9  | Reminrichtingen  | Richtlijn 71/320/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 10  | Radiostoring (elektromagnetische compatibiliteit)  | Richtlijn 72/245/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 11  | Verontreiniging door dieselmotoren  | Richtlijn 72/306/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 12  | Binneninrichting  | Richtlijn 74/60/EEG  | A  | --- | --- | --- | --- | --- | --- | --- |
-| 13  | Beveiliging tegen diefstal en startonderbrekers  | Richtlijn 74/61/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 14  | Gedrag stuurinrichting bij botsingen  | Richtlijn 74/297/EEG  | n.v.t.  | --- | --- | n.v.t.  | --- | --- | --- | --- |
-| 15  | Sterkte van de zitplaatsen  | Richtlijn 74/408/EEG  | X  | D  | D  | D  | D  | D  | --- | --- |
-| 16  | Naar buiten uitstekende delen  | Richtlijn 74/483/EEG  | A  | --- | --- | --- | --- | --- | --- | --- |
-| 17  | Snelheidsmeter en achteruitrij-inrichtingen  | Richtlijn 75/443/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 18  | Voorgeschreven platen  | Richtlijn 76/114/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 19  | Bevestigingspunten veiligheidsgordels  | Richtlijn 76/115/EEG  | A  | A  | A  | A  | A  | A  | --- | --- |
-| 20  | Verlichtings- en lichtsignaalinrichtingen  | Richtlijn 76/756/EEG  | A+N  | A+N  | A+N  | A+N  | A+N  | A+N  | A+N  | A+N  |
-| 21  | Retroreflectoren  | Richtlijn 76/757/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 22  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  | Richtlijn 76/758/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 23  | Richtingaanwijzers  | Richtlijn 76/759/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 24  | Achterkentekenplaatverlichting  | Richtlijn 76/760/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 25  | Koplichten (met gloeilampen)  | Richtlijn 76/761/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 26  | Mistlampen vóór  | Richtlijn 76/762/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 27  | Sleepinrichtingen  | Richtlijn 77/389/EEG  | A  | A  | A  | A  | A  | A  | --- | --- |
-| 28  | Mistlichten achter  | Richtlijn 77/538/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 29  | Achteruitrijlichten  | Richtlijn 77/539/EEG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 30  | Parkeerlichten  | Richtlijn 77/540/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 31  | Veiligheidsgordels  | Richtlijn 77/541/EEG  | A  | A  | A  | A  | A  | A  | --- | --- |
-| 32  | Zichtveld  | Richtlijn 77/649/EEG  | S  | --- | --- | --- | --- | --- | --- | --- |
-| 33  | Identificatie van bedieningsorganen, verklikkerlichten en meters  | Richtlijn 78/316/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 34  | Ontdooiings- en ontwasemingsinrichtingen  | Richtlijn 78/317/EEG  | A  | O  | O  | O  | O  | O  | --- | --- |
-| 35  | Ruitenwissers en -sproeiers  | Richtlijn 78/318/EEG  | A  | O  | O  | O  | O  | O  | --- | --- |
-| 36  | Verwarmingssystemen  | Richtlijn 2001/56/EG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 37  | Wielafschermingen  | Richtlijn 78/549/EEG  | X  | --- | --- | --- | --- | --- | --- | --- |
-| 38  | Hoofdsteunen  | Richtlijn 78/932/EEG  | X  | --- | --- | --- | --- | --- | --- | --- |
-| 39  | CO<sub>2</sub>-emissies/ brandstofverbruik  | Richtlijn 80/1268/EEG  | n.v.t.  | --- | --- | --- | --- | --- | --- | --- |
-| 40  | Motorvermogen  | Richtlijn 80/1269/EEG  | X  | X  | X  | X  | X  | X  | --- | --- |
-| 41  | Emissies (Euro 4 en 5) zware bedrijfsvoertuigen  | Richtlijn 2005/55/EG  | A  | X  | X  | X  | X  | X  | --- | --- |
-| 42  | Zijdelingse bescherming  | Richtlijn 89/297/EEG  | --- | --- | --- | --- | X  | X  | --- | X  |
-| 43  | Opspatafschermingssystemen  | Richtlijn 91/226/EEG  | --- | --- | --- | --- | X  | X  | --- | X  |
-| 44  | Massa’s en afmetingen (personenauto’s)  | Richtlijn 92/21/EEG  | X  | --- | --- | --- | --- | --- | --- | --- |
-| 45  | Veiligheidsglas  | Richtlijn 92/22/EEG  | n.v.t.  | n.v.t.  | n.v.t.  | n.v.t.  | n.v.t.  | n.v.t.  | n.v.t.  | n.v.t.  |
-| 46  | Banden  | Richtlijn 92/23/EEG  | A  | A  | A  | A  | A  | A  | A  | A  |
-| 47  | Snelheidsbegrenzers  | Richtlijn 92/24/EEG  | --- | X  | X  | --- | X  | X  | --- | --- |
-| 48  | Massa’s en afmetingen (andere dan de in punt 44 genoemde voertuigen)  | Richtlijn 97/27/EG  | --- | X  | X  | X  | X  | X  | X  | X  |
-| 49  | Naar buiten uitstekende delen van bestuurderscabines  | Richtlijn 92/114/EEG  | --- | --- | --- | A  | A  | A  | --- | --- |
-| 50  | Koppelingen  | Richtlijn 94/20/EG  | X  | X  | X  | X  | X  | X  | X  | X  |
-| 51  | Ontvlambaarheid  | Richtlijn 95/28/EG  | --- | --- | X  | --- | --- | --- | --- | --- |
-| 52  | Bussen en toerbussen  | Richtlijn 2001/85/EG  | --- | A  | A  | --- | --- | --- | --- | --- |
-| 53  | Frontale botsing  | Richtlijn 96/79/EG  | n.v.t.  | --- | --- | --- | --- | --- | --- | --- |
-| 54  | Zijdelingse botsing  | Richtlijn 96/27/EG  | n.v.t.  | --- | --- | n.v.t.  | --- | --- | --- | --- |
-| 56  | Voertuigen bedoeld voor het vervoer van gevaarlijke goederen  | Richtlijn 98/91/EG  | --- | --- | --- | X (1)  | X (1)  | X (1)  | X (1)  | X (1)  |
-| 57  | Beschermingsinrichting aan de voorzijde tegen klemrijden  | Richtlijn 2000/40/EG  | --- | --- | --- | --- | X  | X  | --- | --- |
-| 58  | Bescherming van voetgangers  | Verordening (EG) nr. 78/2009  | n.v.t.  | --- | --- | n.v.t.  | --- | --- | --- | --- |
-| 59  | Recycleerbaarheid  | Richtlijn 2005/64/EG  | n.v.t.  | --- | --- | n.v.t.  | --- | --- | --- | --- |
-| 61  | Klimaatregelingsapparatuur  | Richtlijn 2006/40/EG  | X  | --- | --- | Z  | --- | --- | --- | --- |
-| 62  | Waterstofsysteem  | Verordening (EG) nr. 79/2009  | A  | A  | A  | A  | A  | A  | --- | --- |
-|63 |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. | --- | --- | --- | --- | --- | --- | --- |
-
-### Tabel  3  
-
-####Eisen voor voor rolstoelen toegankelijke voertuigen
-
-| Nr.  | Onderwerp  | Regelgeving  | M1  |
-|:---|:---|:---|:---|
-| 1  | Toelaatbaar geluidsniveau  | Richtlijn 70/157/EEG  | X  |
-| 2  | Emissies  | Richtlijn 70/220/EEG  | G+W1  |
-| 2a  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  | Verordening (EG) nr. 715/2007  | G+W1  |
-| 3  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  | Richtlijn 70/221/EEG  | X+W2  |
-| 4  | Plaats voor de achterste kentekenplaat  | Richtlijn 70/222/EEG  | X  |
-| 5  | Stuurinrichting  | Richtlijn 70/311/EEG  | X  |
-| 6  | Hang- en sluitwerk van deuren  | Richtlijn 70/387/EEG  | X  |
-| 7  | Geluidssignaalinrichting  | Richtlijn 70/388/EEG  | X  |
-| 8  | Inrichtingen voor indirect zicht  | Richtlijn 2003/97/EG  | X  |
-| 9  | Reminrichtingen  | Richtlijn 71/320/EEG  | X  |
-| 10  | Radiostoring (elektromagnetische compatibiliteit)  | Richtlijn 72/245/EEG  | X  |
-| 11  | Verontreiniging door dieselmotoren  | Richtlijn 72/306/EEG  | X  |
-| 12  | Binneninrichting  | Richtlijn 74/60/EEG  | X  |
-| 13  | Beveiliging tegen diefstal en startonderbrekers  | Richtlijn 74/61/EEG  | X  |
-| 14  | Gedrag stuurinrichting bij botsingen  | Richtlijn 74/297/EEG  | X  |
-| 15  | Sterkte van de zitplaatsen  | Richtlijn 74/408/EEG  | X+W3  |
-| 16  | Naar buiten uitstekende delen  | Richtlijn 74/483/EEG  | X+W4  |
-| 17  | Snelheidsmeter en achteruitrij-inrichtingen  | Richtlijn 75/443/EEG  | X  |
-| 18  | Voorgeschreven platen  | Richtlijn 76/114/EEG  | X  |
-| 19  | Bevestigingspunten veiligheidsgordels  | Richtlijn 76/115/EEG  | X+W5  |
-| 20  | Verlichtings- en lichtsignaalinrichtingen  | Richtlijn 76/756/EEG  | X  |
-| 21  | Retroreflectoren  | Richtlijn 76/757/EEG  | X  |
-| 22  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  | Richtlijn 76/758/EEG  | X  |
-| 23  | Richtingaanwijzers  | Richtlijn 76/759/EEG  | X  |
-| 24  | Achterkentekenplaatverlichting  | Richtlijn 76/760/EEG  | X  |
-| 25  | Koplichten (met gloeilampen)  | Richtlijn 76/761/EEG  | X  |
-| 26  | Mistlichten vóór  | Richtlijn 76/762/EEG  | X  |
-| 27  | Sleepinrichtingen  | Richtlijn 77/389/EEG  | X  |
-| 28  | Mistlichten achter  | Richtlijn 77/538/EEG  | X  |
-| 29  | Achteruitrijlichten  | Richtlijn 77/539/EEG  | X  |
-| 30  | Parkeerlichten  | Richtlijn 77/540/EEG  | X  |
-| 31  | Veiligheidsgordels  | Richtlijn 77/541/EEG  | X+W6  |
-| 32  | Zichtveld  | Richtlijn 77/649/EEG  | X  |
-| 33  | Identificatie van bedieningsorganen, verklikkenlichten en meters  | Richtlijn 78/316/EEG  | X  |
-| 34  | Ontdooiings- en ontwasemingsinrichtingen  | Richtlijn 78/317/EEG  | X  |
-| 35  | Ruitenwissers en sproeiers  | Richtlijn 78/318/EEG  | X  |
-| 36  | Verwarmingssystemen  | Richtlijn 2001/56/EG  | X  |
-| 37  | Wielafschermingen  | Richtlijn 78/549/EEG  | X  |
-| 39  | CO<sub>2</sub>-emissies/brandstofverbruik  | Richtlijn 80/1268/EEG  | X+W7  |
-| 40  | Motorvermogen  | Richtlijn 80/1269/EEG  | X  |
-| 41  | Emissies van dieselmotoren  | Richtlijn 2005/55/EG  | X  |
-| 44  | Massa’s en afmetingen (personenauto’s)  | Richtlijn 92/21/EEG  | X+W8  |
-| 45  | Veiligheidsglas  | Richtlijn 92/22/EEG  | X  |
-| 46  | Banden  | Richtlijn 92/23/EEG  | X  |
-| 50  | Koppelingen  | Richtlijn 94/20/EG  | X  |
-| 53  | Frontale botsing  | Richtlijn 96/79/EG  | X+W9  |
-| 54  | Zijdelingse botsing  | Richtlijn 96/27/EG  | X+W10  |
-| 58  | Bescherming van voetgangers  | Verordening (EG) nr. 78/2009  | X  |
-| 59  | Recycleerbaarheid  | Richtlijn 2005/64/EG  | n.v.t.  |
-| 61  | Klimaatregelingsapparatuur  | Richtlijn 2006/40/EG  | X  |
-| 62  | Waterstofsysteem  | Verordening (EG) nr. 79/2009  | X  |
-|63 |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-### Tabel  4  
-
-####Eisen voor overige voertuigen voor speciale doeleinden (inclusief caravans)
-
-Ontheffingen worden alleen toegestaan als de fabrikant tot tevredenheid van de Dienst Wegverkeer aantoont dat het voertuig vanwege het speciale doeleinde niet aan alle voorschriften kan voldoen.  
-
-| Nr.  | Onderwerp  | Regelgeving  | M<sub>2</sub>   | M<sub>3</sub>   | N<sub>1</sub>   | N<sub>2</sub>   | N<sub>3</sub>   | O<sub>1</sub>/O<sub>2</sub>   | O<sub>3</sub>/O<sub>4</sub>   |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toelaatbaar geluidsniveau  | Richtlijn 70/157/EEG  | H  | H  | H  | H  | H  | --- | --- |
-| 2  | Emissies  | Richtlijn 70/220/EEG  | Q  | Q  | Q  | Q  | Q  | --- | --- |
-| 2a  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/ toegang tot informatie  | Verordening (EG) nr. 715/2007  | Q  | --- | Q  | Q  | --- | --- | --- |
-| 3  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  | Richtlijn 70/221/EEG  | F  | F  | F  | F  | F  | X  | X  |
-| 4  | Plaats voor de achterste kentekenplaat  | Richtlijn 70/222/EEG  | A+R  | A+R  | A+R  | A+R  | A+R  | A+R  | A+R  |
-| 5  | Stuurinrichting  | Richtlijn 70/311/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 6  | Hang- en sluitwerk van deuren  | Richtlijn 70/387/EEG  | --- | --- | B  | B  | B  | --- | --- |
-| 7  | Geluidssignaalinrichting  | Richtlijn 70/388/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 8  | Inrichtingen voor indirect zicht  | Richtlijn 2003/97/EG  | X  | X  | X  | X  | X  | --- | --- |
-| 9  | Reminrichtingen  | Richtlijn 71/320/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 10  | Radiostoring (elektromagnetische compatibiliteit)  | Richtlijn 72/245/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 11  | Verontreiniging door dieselmotoren  | Richtlijn 72/306/EEG  | H  | H  | H  | H  | H  | --- | --- |
-| 13  | Beveiliging tegen diefstal en startonderbrekers  | Richtlijn 74/61/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 14  | Gedrag stuurinrichting bij botsingen  | Richtlijn 74/297/EEG  | --- | --- | X  | --- | --- | --- | --- |
-| 15  | Sterkte van de zitplaatsen  | Richtlijn 74/408/EEG  | D  | D  | D  | D  | D  | --- | --- |
-| 17  | Snelheidsmeter en achteruitrij-inrichtingen  | Richtlijn 75/443/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 18  | Voorgeschreven platen  | Richtlijn 76/114/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 19  | Bevestigingspunten veiligheidsgordels  | Richtlijn 76/115/EEG  | D  | D  | D  | D  | D  | --- | --- |
-| 20  | Verlichtings- en lichtsignaalinrichtingen  | Richtlijn 76/756/EEG  | A+N  | A+N  | A+N  | A+N  | A+N  | A+N  | A+N  |
-| 21  | Retroreflectoren  | Richtlijn 76/757/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 22  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  | Richtlijn 76/758/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 23  | Richtingaanwijzers  | Richtlijn 76/759/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 24  | Achterkentekenplaat-verlichting  | Richtlijn 76/760/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 25  | Koplichten (met gloeilampen)  | Richtlijn 76/761/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 26  | Mistlichten vóór  | Richtlijn 76/762/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 27  | Sleepinrichtingen  | Richtlijn 77/389/EEG  | A  | A  | A  | A  | A  | --- | --- |
-| 28  | Mistlichten achter  | Richtlijn 77/538/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 29  | Achteruitrijlichten  | Richtlijn 77/539/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 30  | Parkeerlichten  | Richtlijn 77/540/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 31  | Veiligheidsgordels  | Richtlijn 77/541/EEG  | D  | D  | D  | D  | D  | --- | --- |
-| 33  | Identificatie van bedieningsorganen, verklikkerlichten en meters  | Richtlijn 78/316/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 34  | Ontdooiings- en ontwasemingsinrichtingen  | Richtlijn 78/317/EEG  | O  | O  | O  | O  | O  | --- | --- |
-| 35  | Ruitenwissers en -sproeiers  | Richtlijn 78/318/EEG  | O  | O  | O  | O  | O  | --- | --- |
-| 36  | Verwarmingssystemen  | Richtlijn 2001/56/EG  | X  | X  | X  | X  | X  | X  | X  |
-| 40  | Motorvermogen  | Richtlijn 80/1269/EEG  | X  | X  | X  | X  | X  | --- | --- |
-| 41  | Emissies (Euro 4 en 5) zware bedrijfsvoertuigen  | Richtlijn 2005/55/EEG  | H  | H  | H  | H  | H  | --- | --- |
-| 42  | Zijdelingse bescherming  | Richtlijn 89/297/EEG  | --- | --- | --- | X  | X  | --- | X  |
-| 43  | Opspatafschermingssystemen  | Richtlijn 91/226/EEG  | --- | --- | --- | X  | X  | --- | X  |
-| 45  | Veiligheidsglas  | Richtlijn 92/22/EEG  | J  | J  | J  | J  | J  | J  | J  |
-| 46  | Banden  | Richtlijn 92/23/EEG  | X  | X  | X  | X  | X  | X  | X  |
-| 47  | Snelheidsbegrenzers  | Richtlijn 92/24/EEG  | X  | X  | --- | X  | X  | --- | --- |
-| 48  | Massa’s en afmetingen  | Richtlijn 97/27/EG  | X  | X  | X  | X  | X  | X  | X  |
-| 49  | Naar buiten uitstekende delen van bestuurderscabines  | Richtlijn 92/114/EEG  | --- | --- | X  | X  | X  | --- | --- |
-| 50  | Koppelingen  | Richtlijn 94/20/EG  | X  | X  | X  | X  | X  | X  | X  |
-| 51  | Ontvlambaarheid  | Richtlijn 95/28/EG  | --- | X  | --- | --- | --- | --- | --- |
-| 52  | Bussen en toerbussen  | Richtlijn 2001/85/EG  | X  | X  | --- | --- | --- | --- | --- |
-| 54  | Zijdelingse botsing  | Richtlijn 96/27/EG  | --- | --- | A  | --- | --- | --- | --- |
-| 56  | Voertuigen bedoeld voor het vervoer van gevaarlijke goederen  | Richtlijn 98/91/EG  | --- | --- | --- | X  | X  | X  | X  |
-| 57  | Beschermingsinrichting aan de voorzijde tegen klemrijden  | Richtlijn 2000/40/EG  | --- | --- | --- | X  | X  | --- | --- |
-| 58  | Bescherming van voetgangers  | Verordening (EG) 78/2009  | --- | --- | n.v.t.<sup>1</sup>   | --- | --- | --- | --- |
-| 59  | Recycleerbaarheid  | Richtlijn 2005/64/EG  | --- | --- | n.v.t.  | --- | --- | --- | --- |
-| 61  | Klimaatregelingsapparatuur  | Richtlijn 2006/40/EG  | --- | --- | Z  | --- | --- | --- | --- |
-| 62  | Waterstofsysteem  | Verordening (EG) nr. 79/2009  | Q  | Q  | Q  | Q  | Q  | --- | --- |
-|63 |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. | --- | --- | --- | --- | --- | --- |
-
-<sup>1</sup> Elke frontbeschermingsinrichting die met het voertuig wordt geleverd, moet aan de voorschriften van Verordening (EG) nr. 78/2009 voldoen; er wordt een typegoedkeuringsnummer aan toegekend, dat op die inrichting wordt aangebracht.
-
-### Tabel  5  
-
-####Eisen voor mobiele kranen
-
-| Nr.  | Onderwerp  | Regelgeving  | N<sub>3</sub>   |
-|:---|:---|:---|:---|
-| 1  | Toelaatbaar geluidsniveau  | Richtlijn 70/157/EEG  | T  |
-| 2  | Emissies  | Richtlijn 70/220/EEG  | X  |
-| 2a  | Emissies (Euro 5 en 6) lichte bedrijfsvoertuigen/toegang tot informatie  | Verordening (EG) nr. 715/2007  | n.v.t.  |
-| 3  | Brandstoftanks/beschermingsinrichtingen aan de achterzijde  | Richtlijn 70/221/EEG  | X  |
-| 4  | Plaats voor de achterste kentekenplaat  | Richtlijn 70/222/EEG  | X  |
-| 5  | Stuurinrichting  | Richtlijn 70/311/EEG  | X<sup>1</sup>   |
-| 6  | Hang- en sluitwerk van deuren  | Richtlijn 70/387/EEG  | A  |
-| 7  | Geluidssignaalinrichting  | Richtlijn 70/388/EEG  | X  |
-| 8  | Inrichtingen voor indirect zicht  | Richtlijn 2003/97/EG  | X  |
-| 9  | Reminrichtingen  | Richtlijn 71/320/EEG  | U  |
-| 10  | Radiostoring (elektromagnetische compatibiliteit)  | Richtlijn 72/245/EEG  | X  |
-| 11  | Verontreiniging door dieselmotoren  | Richtlijn 72/306/EEG  | X  |
-| 12  | Binneninrichting  | Richtlijn 74/60/EEG  | X  |
-| 13  | Beveiliging tegen diefstal en startonderbrekers  | Richtlijn 74/61/EEG  | X  |
-| 15  | Sterkte van de zitplaatsen  | Richtlijn 74/408/EEG  | D  |
-| 17  | Snelheidsmeter en achteruitrij-inrichtingen  | Richtlijn 75/443/EEG  | X  |
-| 18  | Voorgeschreven platen  | Richtlijn 76/114/EEG  | X  |
-| 19  | Bevestigingspunten veiligheidsgordels  | Richtlijn 76/115/EEG  | D  |
-| 20  | Verlichtings- en lichtsignaalinrichtingen  | Richtlijn 76/756/EEG  | A+Y  |
-| 21  | Retroreflectoren  | Richtlijn 76/757/EEG  | X  |
-| 22  | Markerings-, breedte-, achter-, stop-, zijmarkerings- en dagrijlichten  | Richtlijn 76/758/EEG  | X  |
-| 23  | Richtingaanwijzers  | Richtlijn 76/759/EEG  | X  |
-| 24  | Achterkentekenplaatverlichting  | Richtlijn 76/760/EEG  | X  |
-| 25  | Koplichten (met gloeilampen)  | Richtlijn 76/761/EEG  | X  |
-| 26  | Mistlampen vóór  | Richtlijn 76/762/EEG  | X  |
-| 27  | Sleepinrichtingen  | Richtlijn 77/389/EEG  | A  |
-| 28  | Mistlichten achter  | Richtlijn 77/538/EEG  | X  |
-| 29  | Achteruitrijlichten  | Richtlijn 77/539/EEG  | X  |
-| 30  | Parkeerlichten  | Richtlijn 77/540/EEG  | X  |
-| 31  | Veiligheidsgordels  | Richtlijn 77/541/EEG  | D  |
-| 33  | Identificatie van bedieningsorganen, verklikkerlichten en meters  | Richtlijn 78/316/EEG  | X  |
-| 34  | Ontdooiings- en ontwasemingsinrichtingen  | Richtlijn 78/317/EEG  | O  |
-| 35  | Ruitenwissers en -sproeiers  | Richtlijn 78/318/EEG  | O  |
-| 36  | Verwarmingssystemen  | Richtlijn 2001/56/EG  | X  |
-| 40  | Motorvermogen  | Richtlijn 80/1269/EEG  | X  |
-| 41  | Emissies (Euro 4 en 5) zware bedrijfsvoertuigen  | Richtlijn 2005/55/EG  | V  |
-| 42  | Zijdelingse bescherming  | Richtlijn 89/297/EEG  | X  |
-| 43  | Opspatafschermingssystemen  | Richtlijn 91/226/EEG  | X  |
-| 45  | Veiligheidsglas  | Richtlijn 92/22/EEG  | J  |
-| 46  | Banden  | Richtlijn 92/23/EEG  | A<sup>2</sup>   |
-| 47  | Snelheidsbegrenzers  | Richtlijn 92/24/EEG  | X  |
-| 48  | Massa’s en afmetingen  | Richtlijn 97/27/EEG  | X  |
-| 49  | Naar buiten uitstekende delen van bestuurderscabines  | Richtlijn 92/114/EEG  | X  |
-| 50  | Koppelingen  | Richtlijn 94/20/EG  | X  |
-| 57  | Beschermingsinrichting aan de voorzijde tegen klemrijden  | Richtlijn 2000/40/EG  | X  |
-| 62  | Waterstofsysteem  | Verordening (EG) nr. 79/2009  | X  |
-|63 |Algemene veiligheid |Verordening (EG) nr. 661/2009 |g.v.t. |
-
-<sup>1</sup> Krabbengang toegestaan.<sup>2</sup> Mits aan de voorschriften van ISO 10571:1995 (Banden voor mobiele kranen en soortgelijke gespecialiseerde machines) of van ETRTO Standards Manual wordt voldaan.
-
-####Verklaring van de letters in tabellen 1 tot en met 5:
-
-| --- | --- |
-|:---|:---|
-| X  | Geen ontheffingen, behalve die welke in de regelgeving zijn vermeld.  |
-|g.v.t. |Deze verordening is gedeeltelijk van toepassing. Het precieze toepassingsgebied wordt vastgesteld in de uitvoeringsmaatregelen van de verordening. |
-| n.v.t.  | Deze regelgeving is niet van toepassing op dit voertuig (geen voorschriften).  |
-| A  | Ontheffing toegestaan omdat volledige inachtneming niet mogelijk is vanwege speciale doeleinden. De fabrikant moet tot tevredenheid van de Dienst Wegverkeer aantonen dat het voertuig vanwege de speciale doeleinden niet aan de voorschriften kan voldoen.  |
-| B  | Toepassing beperkt tot deuren die toegang geven tot de zitplaatsen bestemd voor normaal gebruik wanneer het voertuig op de weg rijdt en wanneer de afstand tussen het R-punt van de zitplaats en het middenvlak van het deuroppervlak, loodrecht gemeten op het middenlangsvlak van het voertuig, niet meer dan 0,50 m bedraagt.  |
-| C  | Toepassing beperkt tot het gedeelte van het voertuig vóór de achterste zitplaats die bestemd is voor normaal gebruik wanneer het voertuig op de weg rijdt, en eveneens beperkt tot de trefzone van het hoofd zoals gedefinieerd in Richtlijn 74/60/EEG.  |
-| D  | Toepassing beperkt tot zitplaatsen die bestemd zijn voor normaal gebruik wanneer het voertuig op de weg rijdt. Zitplaatsen die niet bestemd zijn voor gebruik wanneer het voertuig op de weg rijdt, moeten voor de gebruikers duidelijk worden geïdentificeerd door middel van een pictogram of een bordje met een passende tekst.  |
-| E  | Alleen aan de voorzijde.  |
-| F  | Wijziging van de plaats en lengte van de vulpijp en verplaatsing van de inwendige tank zijn toegestaan.  |
-| G  | Voorschriften overeenkomstig de categorie van het basis-/incomplete voertuig (waarvan het chassis gebruikt is om het voertuig voor speciale doeleinden te bouwen). In het geval van incomplete/voltooide voertuigen is het aanvaardbaar wanneer wordt voldaan aan de voorschriften voor voertuigen van de overeenkomstige categorie N (uitgaande van de maximummassa).  |
-| H  | Wijziging van de lengte van het uitlaatsysteem achter de laatste demper met niet meer dan 2,00 m is toegestaan zonder nieuwe tests.  |
-| J  | Voor alle andere vensterbeglazing dan de beglazing van de bestuurderscabine (voor- en zijruiten) mag het materiaal van veiligheidsglas of van harde kunststof zijn.  |
-| K  | Extra noodalarmsystemen zijn toegestaan.  |
-| L  | Toepassing beperkt tot zitplaatsen die bestemd zijn voor normaal gebruik wanneer het voertuig op de weg rijdt. Voor alle achterzitplaatsen zijn als minimum verankeringen heupgordels voorgeschreven. Zitplaatsen die bestemd zijn voor gebruik wanneer het voertuig op de weg rijdt, moeten voor de gebruikers duidelijk worden geïdentificeerd door middel van een pictogram of een bordje met een passende tekst.  |
-| M  | Toepassing beperkt tot zitplaatsen die bestemd zijn voor normaal gebruik wanneer het voertuig op de weg rijdt. Voor alle achterzitplaatsen zijn minimaal heupgordels verplicht. Zitplaatsen die niet bestemd zijn voor gebruik wanneer het voertuig op de weg rijdt, moeten voor de gebruikers duidelijk worden geïdentificeerd door middel van een pictogram of een bordje met een passende tekst.  |
-| N  | Op voorwaarde dat alle verplichte verlichtingsinrichtingen geïnstalleerd zijn en dat de geometrische zichtbaarheid niet wordt beïnvloed.  |
-| O  | Het voertuig moet aan de voorzijde uitgerust worden met een adequaat systeem.  |
-| Q  | Wijziging van de lengte van het uitlaatsysteem achter de laatste demper met niet meer dan 2,00 m is toegestaan zonder nieuwe tests. Een voor het meest representatieve basisvoertuig afgegeven EG-typegoedkeuring blijft geldig, ongeacht veranderingen van het referentiegewicht.  |
-| R  | Op voorwaarde dat de kentekenplaten van alle lidstaten gemonteerd kunnen worden en goed zichtbaar blijven.  |
-| S  | De lichtdoorlatendheidsfactor bedraagt ten minste 60%; bovendien is de blinde hoek van de A-stijl niet meer dan 10°.  |
-| T  | Uitsluitend met het complete/voltooide voertuig uit te voeren test. Het voertuig kan worden getest overeenkomstig Richtlijn 70/157/EEG, laatstelijk gewijzigd bij Richtlijn 1999/101/EG. Met betrekking tot bijlage I, punt 5.2.2.1, van Richtlijn 70/157/EEG gelden de volgende grenswaarden:  a. 81 dB(A) voor voertuigen met een motorvermogen van minder dan 75 kW;  b. 83 dB(A) voor voertuigen met een motorvermogen van 75 kW of meer, maar minder dan 150 kW;  c. 84 dB(A) voor voertuigen met een motorvermogen van 150 kW of meer.  |
-| U  | Uitsluitend met het complete/voltooide voertuig uit te voeren test. Voertuigen met niet meer dan vier assen moeten aan alle voorschriften van Richtlijn 71/320/EEG voldoen. Voor voertuigen met meer dan vier assen zijn afwijkingen toegestaan, mits:  – deze door de bijzondere constructie worden gerechtvaardigd;  – aan alle remprestaties in verband met het parkeer-, bedrijfs- en hulpremsysteem, zoals voorgeschreven bij Richtlijn 71/320/EEG, is voldaan.  |
-| V  | De naleving van Richtlijn 97/68/EG kan worden aanvaard.  |
-| W1  | De voorschriften moeten worden nageleefd, maar wijziging van het uitlaatsysteem is toegestaan zonder nieuwe tests, op voorwaarde dat er geen gevolgen zijn voor de emissiebeperkingsapparatuur, inclusief de deeltjesfilters (indien aanwezig). Op het gewijzigde voertuig hoeven geen nieuwe verdampingsproeven te worden uitgevoerd, op voorwaarde dat de apparatuur voor de beperking van de verdamping wordt behouden zoals zij door de fabrikant van het basisvoertuig werd geplaatst.  Een EG-typegoedkeuring die voor het meest representatieve basisvoertuig is afgegeven, blijft geldig, ongeacht veranderingen in de referentiemassa.  |
-| W2  | De voorschriften moeten worden nageleefd, maar wijziging van de plaats, lengte van de vulpijp, brandstofleidingen en brandstofdamppijpen is toegestaan. Verplaatsing van de oorspronkelijke brandstoftank is toegestaan.  |
-| W3  | Een plaats voor een rolstoel wordt beschouwd als een zitplaats. Voor elke rolstoel wordt voor voldoende ruimte gezorgd. De lengterichting van de speciale zone is parallel met de lengterichting van het voertuig.  De voertuigeigenaar wordt adequate informatie ter beschikking gesteld met betrekking tot het feit dat een rolstoel die als zitplaats in het voertuig wordt gebruikt, in de diverse rijomstandigheden de krachten moet kunnen weerstaan die door het bevestigingsmechanisme worden overgedragen.  Adequate aanpassingen mogen aan de zitplaatsen van een voertuig worden aangebracht, op voorwaarde dat de verankeringen, mechanismen en hoofdsteunen ervan het prestatieniveau garanderen waarin de richtlijn voorziet.  |
-| W4  | Naleving van de richtlijn is vereist voor de instaphulpmiddelen, wanneer deze zich in rustpositie bevinden.  |
-| W5  | Elke plaats voor een rolstoel wordt uitgerust met een geïntegreerd bevestigingssysteem dat bestaat uit een bevestigingssysteem voor de rolstoel en een bevestigingssysteem voor de rolstoelgebruiker.  De verankeringen voor bevestigingssystemen weerstaan krachten zoals beschreven in Richtlijn 76/115/EEG en ISO-norm 10542-1:2001.  Omboordsels en apparatuur om de rolstoel vast te zetten (bevestigingsmechanismen) voldoen aan de voorschriften in Richtlijn 77/541/EEG en het desbetreffende deel van ISO-norm 10542.  De tests worden uitgevoerd door de technische dienst die overeenkomstig de bovengenoemde richtlijnen voor test en controles is aangewezen. De criteria zijn die welke in deze richtlijnen zijn opgenomen. De tests worden uitgevoerd met de surrogaatrolstoel beschreven in ISO-norm 10542.  |
-| W6  | Wanneer de verankeringen voor veiligheidsgordels als gevolg van de verbouwing buiten de in punt 2.7.8.1 van bijlage I bij Richtlijn 77/541/EEG beschreven tolerantiezone moeten worden verplaatst, controleert de Dienst Wegverkeer of de wijziging een worst case is of niet. Als dit het geval is, wordt de test in bijlage VII bij Richtlijn 77/541/EEG uitgevoerd. Er hoeft geen uitbreiding van de EG-typegoedkeuring te worden afgegeven.  |
-| W7  | Er hoeft geen nieuwe meting van de CO<sub>2</sub>-emissies te worden uitgevoerd, als op grond van de bepalingen van W1 geen nieuwe tests voor de uitlaatemissies nodig zijn.  |
-| W8  | Voor berekeningen wordt de massa van de rolstoel, inclusief de gebruiker ervan, geacht 100 kg te bedragen. De massa is geconcentreerd in het H-punt van het driedimensionale instrument.  De Dienst Wegverkeer houdt ook rekening met de mogelijkheid gebruik te maken van een elektrische rolstoel of elektrische rolstoelen, waarvan de massa, inclusief de gebruiker ervan, wordt geacht 250 kg te bedragen. Elke beperking van de passagierscapaciteit als gevolg van het gebruik van een of meer elektrische rolstoelen wordt op het typegoedkeuringscertificaat genoteerd en in een adequate formulering opgenomen in het certificaat van overeenstemming.  |
-| W9  | Geen nieuwe tests van het gewijzigde voertuig zijn vereist, op voorwaarde dat de verbouwing van het voertuig geen gevolgen heeft voor het voorste deel van het chassis dat zich bevindt vóór het R-punt van de bestuurder en geen onderdeel van het aanvullende bevestigingssysteem (airbag(s)) is verwijderd of gedeactiveerd.  |
-| W10  | Geen nieuwe tests van het gewijzigde voertuig zijn vereist, op voorwaarde dat de zijverstevigingen niet zijn gewijzigd en geen onderdeel van het aanvullende bevestigingssysteem (airbag(s)) is verwijderd of gedeactiveerd.  |
-| Y  | Mits alle verplichte verlichtingsinrichtingen zijn geïnstalleerd.  |
-| Z  | Alleen voor voertuigen van categorie N1, klasse I, zoals beschreven in de eerste tabel in punt 5.3.1.4 van bijlage I bij Richtlijn 70/220/EEG.  |
-
 ### Bijlage IV 
 
-####, behorende bij artikel 3.7 
+####, behorende bij artikel 3.7  en kleine serie typegoedkeuring voor de categorieën M, N en O behorende bij artikel 3.2, derde lid 
 
 ####Individuele toelating voertuigen voor de categorieën M, N, O, L en T
 
@@ -13129,19 +12328,63 @@ Ontheffingen worden alleen toegestaan als de fabrikant tot tevredenheid van de D
 
 ### Artikel  2  
 
-1. Voertuigen van de voertuigcategorieën M, N, O, L en T met de voertuigclassificatie T1 tot en met T3, T4.2 en T5 met een datum van eerste toelating van na 29 april 2009, moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
+1. Voertuigen van de voertuigcategorieën L en T met de voertuigclassificatie T1 tot en met T3, T4.2 en T5 met een datum van eerste toelating van na 29 april 2009, moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
 
 a. eisen voor het verkrijgen van een nationale kleine serie typegoedkeuring, zoals die eisen luidden op het moment van de datum van eerste toelating van het voertuig, en  
 
 b. permanente eisen.    
 
-2. In aanvulling op het eerste lid moeten niet-fabrieksmatig geproduceerde voertuigen: 
+2. Onverminderd het eerste lid moeten niet-seriematig geproduceerde voertuigen: 
 
 a. met de voertuigclassificatie L3e of L4e voldoen aan de in artikel 6 van bijlage IX gestelde eis;  
 
-b. met de voertuigclassificatie M<sub>1</sub>, N<sub>1</sub>, L5e of L7e voldoen aan de in artikel 3, onderdeel b, van bijlage IX gestelde eis.    
+b. met de voertuigclassificatie L5e of L7e voldoen aan de in artikel 3, onderdeel b, van bijlage IX gestelde eis.    
 
-3.In afwijking van het eerste lid, onderdeel a, mogen voertuigen van de voertuigcategorieën M<sub>1</sub> of N<sub>1</sub>, die in grote series worden geproduceerd in of voor derde landen en die niet of niet langer dan zes maanden zijn geregistreerd, voldoen aan het gestelde in bijlage IV, deel 1, aanhangsel 2, van richtlijn 2007/46/EG. 
+3.Voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens voldoen aan artikel 6 van bijlage IX, hoofdstuk 5, titel 2, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het verkeersveilig gebruik van die voertuigen.
+
+4.Elektrisch aangedreven en hybride elektrische voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens voldoen aan: 
+
+a. hoofdstuk 8 van richtlijn 97/24/EG, zoals dat luidde op de datum van de aanvraag van de goedkeuring;  
+
+b. VN/ECE-reglement 100, zoals dat luidde op de datum van de aanvraag van de goedkeuring, voor zover het de elektrische aandrijflijn betreft; en  
+
+c. annex 4, behorende bij bijlage IV.   
+
+### Artikel  2a  
+
+1.Voertuigen van de voertuigcategorieën M, N en O, met uitzondering van voertuigen met de voertuigclassificatie M<sub>1</sub> en N<sub>1</sub> en voertuigen voor speciale doeleinden, met een datum van eerste toelating van na 29 april 2009, moeten voor het verkrijgen van een nationale kleine serie goedkeuring of een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
+
+a. eisen in bijlage IV, deel 1, bij richtlijn 2007/46/EG, zoals die eisen luidden op het moment van de datum van eerste toelating van het voertuig;  
+
+b. permanente eisen.  
+
+2.Voertuigen voor speciale doeleinden van de voertuigcategorieën M, N en O, met een datum van eerste toelating van na 29 april 2009, moeten voor het verkrijgen van een nationale kleine serie goedkeuring of een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
+
+a. eisen in bijlage XI bij richtlijn 2007/46/EG, zoals die eisen luidden op het moment van de datum van eerste toelating van het voertuig;  
+
+b. permanente eisen.  
+
+3.Voertuigen met de voertuigclassificatie M<sub>1</sub> en N<sub>1</sub>, met een datum van eerste toelating van na 29 april 2009, moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
+
+a. eisen in bijlage IV, deel 1, bij richtlijn 2007/46/EG, zoals die eisen luidden op het moment van de datum van eerste toelating van het voertuig;  
+
+b. permanente eisen.  
+
+4.Onverminderd het eerste tot en met derde lid moeten niet-seriematig geproduceerde voertuigen van de voertuigcategorieën M en N voldoen aan de in artikel 3, onderdeel b, van bijlage IX gestelde eis.
+
+5.Onverminderd het eerste tot en met derde lid moeten elektrisch aangedreven en hybride elektrische voertuigen van de voertuigcategorieën M en N voldoen aan annex 4, behorende bij bijlage IV.
+
+6.De Dienst Wegverkeer stelt de wijze van keuren vast van de in het eerste lid, onderdeel a, tweede lid, onderdeel a, en derde lid, onderdeel a, bedoelde eisen, met inbegrip van alternatieve voorschriften als bedoeld in en met inachtneming van respectievelijk hoofdstuk IX of hoofdstuk X van richtlijn 2007/46/EG. Bij de keuring blijven de volgende VN/ECE-reglementen, EG-richtlijnen en verordeningen buiten beschouwing: 
+
+a. Reglement nr. 95 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme voorschriften voor de goedkeuring van voertuigen met betrekking tot de bescherming van de inzittenden bij een zijdelingse botsing;  
+
+b. Richtlijn 2005/64/EG van het Europees Parlement en de Raad van 26 oktober 2005 betreffende de typegoedkeuring van motorvoertuigen inzake herbruikbaarheid, recycleerbaarheid en mogelijke nuttige toepassing, en tot wijziging van Richtlijn 70/156/EEG van de Raad (PbEU 2005, L310);  
+
+c. Verordening (EU) nr. 65/2012 van de Commissie van 24 januari 2012 tot uitvoering van Verordening (EG) nr. 661/2009 van het Europees Parlement en de Raad wat schakelindicatoren betreft en tot wijziging van Richtlijn 2007/46/EG van het Europees Parlement en de Raad (PbEU 2012, L 280);  
+
+d. Reglement nr. 97 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme voorschriften voor de goedkeuring van voertuigalarmsystemen (VAS) en van motorvoertuigen wat hun alarmsysteem (AS) betreft.  
+
+e. Richtlijn 2006/40/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende emissies van klimaatregelingsapparatuur in motorvoertuigen en houdende wijziging van Richtlijn 70/156/EEG van de Raad (PbEU 2006, L 161), voor zover het voertuig in gebruik is genomen voor 1 januari 2017.  
 
 ### Artikel  3  
 
@@ -13199,25 +12442,7 @@ b. eisen betreffende de inrichting van het voertuig als bedoeld in annex 2 van d
 
 ### Artikel  8  
 
-1.Voertuigen van de voertuigcategorieën M en N moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens voldoen aan artikel 3, onderdeel b, van bijlage IX, hoofdstuk 3, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het verkeersveilig gebruik van die voertuigen.
-
-2.Voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens te voldoen aan artikel 6 van bijlage IX, hoofdstuk 5, titel 2, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het verkeersveilig gebruik van die voertuigen.
-
-3.Elektrisch aangedreven en hybride elektrische voertuigen van de voertuigcategorieën M en N moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens voldoen aan:
-
-a.richtlijn 72/245/EEG, zoals die luidde op de datum van de aanvraag van de goedkeuring;
-
-b.VN/ECE-reglement 100, zoals dat luidde op de datum van de aanvraag van de goedkeuring, voor wat betreft de elektrische aandrijflijn; en
-
-c.annex 4, behorende bij bijlage IV.
-
-4.Elektrisch aangedreven en hybride elektrische voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg tevens voldoen aan:
-
-a.hoofdstuk 8 van richtlijn 97/24/EG, zoals dat luidde op de datum van de aanvraag van de goedkeuring;
-
-b.VN/ECE-reglement 100, zoals dat luidde op de datum van de aanvraag van de goedkeuring, voor zover het de elektrische aandrijflijn betreft; en
-
-c.annex 4, behorende bij bijlage IV.
+Vervallen.
 
 ### Artikel  9  
 
@@ -13230,10 +12455,6 @@ b. de plaatsen die worden gebruikt voor het vervoer van één of meer passagiers
 2.Op personenauto’s, niet zijnde taxi’s, die zijn voorzien van een ligplaats zijn de artikelen 3.2, tweede lid, 3.3, zevende lid, 4, elfde en twaalfde lid, en 7 van bijlage VI van overeenkomstige toepassing.
 
 3.Ligplaatsen in personenauto's die in gebruik zijn genomen na 31 december 2011 moeten met doelmatige veiligheidsvoorzieningen zijn uitgerust ten einde te voorkomen dat de passagier uit de ligplaats kan geraken. 
-
-### Artikel  10  
-
-De wijze van keuren van de in deze bijlage opgenomen eisen en de in artikel 3.7, derde lid, van de regeling bedoelde alternatieve voorschriften vindt plaats op een door de Dienst Wegverkeer te bepalen wijze. 
 
 ####Annex 1, behorende bij bijlage IV
 
@@ -15088,7 +14309,7 @@ k. de bus mag niet zijn voorzien van staanplaatsen.
 
 ####, behorend bij artikel 3.23.a, vierde lid , van de Regeling voertuigen
 
-Eisen waaraan het alcoholslot, bedoeld in [artikel 132e van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) moet voldoen 
+Eisen waaraan het alcoholslot, bedoeld in artikel 132e van de wet moet voldoen 
 
 ### Hoofdstuk  1  
 
@@ -15103,9 +14324,9 @@ Eisen waaraan het alcoholslot, bedoeld in [artikel 132e van de wet](../../../../
 
 *datageheugen:* registratie-eenheid als onderdeel van de vaste eenheid van het alcoholslot, waarin de in Annex 3 bij deze bijlage aangegeven aspecten met datum en tijd worden vastgelegd;  
 
-*erkend installateur:* de erkenninghouder, bedoeld in [artikel 132k, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*erkend installateur:* de erkenninghouder, bedoeld in artikel 132k, eerste lid, van de wet;  
 
-*erkende medewerker:* de medewerker, bedoeld in artikel 66r van de Regeling aanpassing voertuigen, die bevoegd is tot het uitvoeren van de in [artikel 132k, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde werkzaamheden;  
+*erkende medewerker:* de medewerker, bedoeld in artikel 66r van de Regeling aanpassing voertuigen, die bevoegd is tot het uitvoeren van de in artikel 132k, eerste lid, van de wet bedoelde werkzaamheden;  
 
 *geldig ademmonster:* een ademmonster dat voldoet aan de in Annex 1, bij deze bijlage vastgestelde eis voor volume en de in NEN-EN 50436-1, vastgestelde eisen voor luchtstroom en uitademtijd;  
 
@@ -15133,8 +14354,8 @@ Eisen waaraan het alcoholslot, bedoeld in [artikel 132e van de wet](../../../../
 
 ### Artikel  2  
 
-1.  Alcoholsloten als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) voldoen aan de eisen uit NEN-EN 50436-1, voor zover in deze bijlage niet expliciet die eisen worden aangevuld of van die eisen wordt afgeweken.   
-2.  In aanvulling op NEN-EN 50436-1 voldoen alcoholsloten als bedoeld in [artikel 132e, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), aan de in Annex 1 bij deze bijlage vastgestelde aanvullende parameterinstellingen.  
+1.  Alcoholsloten als bedoeld in artikel 132e, eerste lid, van de wet voldoen aan de eisen uit NEN-EN 50436-1, voor zover in deze bijlage niet expliciet die eisen worden aangevuld of van die eisen wordt afgeweken.   
+2.  In aanvulling op NEN-EN 50436-1 voldoen alcoholsloten als bedoeld in artikel 132e, eerste lid, van de wet, aan de in Annex 1 bij deze bijlage vastgestelde aanvullende parameterinstellingen.  
 
 ### Hoofdstuk  3  
 
@@ -15172,7 +14393,7 @@ b. de motor van het desbetreffende motorrijtuig na het uitschakelen van de motor
 
 10. Indien het initiële ademmonster wel geldig is, maar het gemeten ademalcoholgehalte hoger is dan de in Annex 1 bij bijlage XII vastgestelde limiet, maakt het alcoholslot zonder extra wachttijd het afgeven van een nieuw initieel blaasmonster mogelijk, ongeacht de hoogte van het gemeten alcoholgehalte. Er wordt geen limiet gesteld aan het aantal initiële ademmonsters. Op het scherm wordt uitsluitend vermeld dat het gemeten ademalcoholgehalte te hoog is. De hoogte van het gemeten ademalcoholgehalte wordt niet vermeld.  
 
-11. Het alcoholslot beschikt over de mogelijkheid om de periode aan te geven waarbinnen het alcoholslot uiterlijk moet zijn gekalibreerd en het motorrijtuig moet zijn teruggebracht naar de erkenninghouder, bedoeld in [artikel 132k, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en om deze periode aan de gebruiker door middel van een mededeling op het scherm kenbaar te maken. Vanaf een in Annex 1 bij deze bijlage vastgesteld aantal dagen voor het verstrijken van die periode wordt de gebruiker bij het starten van de motor goed waarneembaar geïnformeerd over het verstrijken van die datum. Het startmechanisme kan na een in genoemde Annex vastgesteld aantal dagen na het verstrijken van die periode niet meer door de gebruiker van het motorrijtuig worden gedeblokkeerd. Vanaf het verstrijken van die periode wordt tevens goed waarneembaar aangegeven na hoeveel dagen het startmechanisme niet meer kan worden gedeblokkeerd.  
+11. Het alcoholslot beschikt over de mogelijkheid om de periode aan te geven waarbinnen het alcoholslot uiterlijk moet zijn gekalibreerd en het motorrijtuig moet zijn teruggebracht naar de erkenninghouder, bedoeld in artikel 132k, eerste lid, van de wet, en om deze periode aan de gebruiker door middel van een mededeling op het scherm kenbaar te maken. Vanaf een in Annex 1 bij deze bijlage vastgesteld aantal dagen voor het verstrijken van die periode wordt de gebruiker bij het starten van de motor goed waarneembaar geïnformeerd over het verstrijken van die datum. Het startmechanisme kan na een in genoemde Annex vastgesteld aantal dagen na het verstrijken van die periode niet meer door de gebruiker van het motorrijtuig worden gedeblokkeerd. Vanaf het verstrijken van die periode wordt tevens goed waarneembaar aangegeven na hoeveel dagen het startmechanisme niet meer kan worden gedeblokkeerd.  
 
 12. De handset en de vaste eenheid krijgen tijdens de productie een fabrikant-specifieke unieke identiteit. De identiteit van de handset en de vaste eenheid kunnen niet worden gewijzigd.  
 
@@ -15193,7 +14414,7 @@ In afwijking van punt 4.2 uit NEN-EN 50436-1 is uitsluitend voorzien in een over
 ### Artikel  5  
 
 1.  In aanvulling op punt 4.6 uit NEN-EN 50436-1 registreert het datageheugen ten minste de waarnemingen en gebeurtenissen vastgesteld in Annex 2 bij deze bijlage, met de daarbij behorende verplichte velden.   
-2.  Ten aanzien van het alcoholslot en de uitleesapplicatie zijn passende technische en organisatorische maatregelen getroffen om persoonsgegevens te beveiligen tegen ongeautoriseerd kennisnemen, tegen verlies of tegen enige vorm van onrechtmatige verwerking en om te garanderen dat waarnemingen en gebeurtenissen als bedoeld in het eerste lid onweerlegbaar en integer worden geregistreerd in het alcoholslotregister, bedoeld in [artikel 129a, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+2.  Ten aanzien van het alcoholslot en de uitleesapplicatie zijn passende technische en organisatorische maatregelen getroffen om persoonsgegevens te beveiligen tegen ongeautoriseerd kennisnemen, tegen verlies of tegen enige vorm van onrechtmatige verwerking en om te garanderen dat waarnemingen en gebeurtenissen als bedoeld in het eerste lid onweerlegbaar en integer worden geregistreerd in het alcoholslotregister, bedoeld in artikel 129a, van de wet.   
 3.  Om aan het tweede lid te voldoen, wordt het alcoholslot alsmede de uitleesapplicatie beschermd door beveiligingsmaatregelen, zoals geformuleerd in het beschermingsprofiel Alcohol Interlock pp, v1.0.  
 
 ### Artikel  6  
@@ -15216,10 +14437,10 @@ e. één of meer meetwaarden of veldwaarden, en waar relevant zowel de oude als 
 
 ### Artikel  7  
 
-1.  In aanvulling op punt 4.6 uit NEN-EN 50436-1 kunnen de verslagregels uit het datageheugen alleen worden uitgelezen door een in [artikel 66 van de Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) bedoelde persoon, met een door de fabrikant van het alcoholslot te leveren en door de RDW goedgekeurde uitleesapplicatie.   
+1.  In aanvulling op punt 4.6 uit NEN-EN 50436-1 kunnen de verslagregels uit het datageheugen alleen worden uitgelezen door een in artikel 66 van de Regeling aanpassing voertuigen bedoelde persoon, met een door de fabrikant van het alcoholslot te leveren en door de RDW goedgekeurde uitleesapplicatie.   
 2.  De uitlezing, bedoeld in het eerste lid vindt plaats met in achtneming van de eisen uit Annex 3 bij deze bijlage.   
-3.  Het datageheugen genereert een beveiligd uitvoerbestand dat onverwijld aan de Dienst Wegverkeer wordt aangeboden op de in [artikel 66ss van de Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) aangegeven wijze overeenkomstig de structuurdefinitie zoals die overeenkomstig [artikel 66f, derde lid, van de Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) is vastgesteld door de Dienst Wegverkeer.   
-5.  Het datageheugen wordt pas geschoond nadat van de Dienst Wegverkeer een bevestiging is ontvangen dat het uitvoerbestand op correcte wijze is geregistreerd in het in [artikel 129a van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde alcoholslotregister.  
+3.  Het datageheugen genereert een beveiligd uitvoerbestand dat onverwijld aan de Dienst Wegverkeer wordt aangeboden op de in artikel 66ss van de Regeling aanpassing voertuigen aangegeven wijze overeenkomstig de structuurdefinitie zoals die overeenkomstig artikel 66f, derde lid, van de Regeling aanpassing voertuigen is vastgesteld door de Dienst Wegverkeer.   
+5.  Het datageheugen wordt pas geschoond nadat van de Dienst Wegverkeer een bevestiging is ontvangen dat het uitvoerbestand op correcte wijze is geregistreerd in het in artikel 129a van de wet bedoelde alcoholslotregister.  
 
 ### §  4  
 
@@ -15249,14 +14470,14 @@ g. indien de bestuurder geen gehoor geeft aan de oproep om een hertest, of indie
 
 ### Artikel  9  
 
-1.  In aanvulling op punt 4.8 van NEN-EN 50436-1 geeft het alcoholslot op het scherm aan dat het motorrijtuig waarin het alcoholslot is ingebouwd vervroegd moet worden teruggebracht naar de erkenninghouder, bedoeld in [artikel 132k, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), indien: 
+1.  In aanvulling op punt 4.8 van NEN-EN 50436-1 geeft het alcoholslot op het scherm aan dat het motorrijtuig waarin het alcoholslot is ingebouwd vervroegd moet worden teruggebracht naar de erkenninghouder, bedoeld in artikel 132k, eerste lid, van de wet, indien: 
 
 a. minder dan 10 % van de geheugencapaciteit voor de opslag van gegevens resteert;  
 
 b. het alcoholslot bij zelfdiagnose constateert dat er onrechtmatigheden of technische mankementen zijn;  
 
 c. het alcoholslot na de laatste uitlezing ten minste drie keer een spanningsonderbreking heeft geregistreerd.     
-2.  In aanvulling op het eerste lid geeft het alcoholslot op het scherm aan dat het motorrijtuig waarin het alcoholslot is ingebouwd vervroegd moet worden teruggebracht naar de erkenninghouder, bedoeld in [artikel 132k, eerste lid, van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), indien: 
+2.  In aanvulling op het eerste lid geeft het alcoholslot op het scherm aan dat het motorrijtuig waarin het alcoholslot is ingebouwd vervroegd moet worden teruggebracht naar de erkenninghouder, bedoeld in artikel 132k, eerste lid, van de wet, indien: 
 
 a. het motorrijtuig is gestart zonder dat vooraf een geldig ademmonster is afgegeven of nadat uit het ademmonster blijkt dat het gemeten ademalcoholgehalte hoger was dan de in Annex 1 bij deze bijlage vastgelegde limiet;  
 
@@ -15535,9 +14756,9 @@ c. een niet uitgevoerde ademtest.   Type: blokkeringen
 
 1. het negatieve resultaat van de integriteitcontrole van het datageheugen;  
 
-2. het definitief schonen van het datageheugen, onder vermelding van identiteit van de uitleesapplicatie,alsmede de persoon, bedoeld in [artikel 66r van de Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) en diens toestemmingscode.   Subtype: uitlezen 
+2. het definitief schonen van het datageheugen, onder vermelding van identiteit van de uitleesapplicatie,alsmede de persoon, bedoeld in artikel 66r van de Regeling aanpassing voertuigen en diens toestemmingscode.   Subtype: uitlezen 
 
-1. het uitlezen van het datageheugen onder vermelding van de identiteit van de uitleesapplicatie, alsmede de persoon, bedoeld in [artikel 66r van de Regeling aanpassing voertuigen](../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) en diens toestemmingscode;  
+1. het uitlezen van het datageheugen onder vermelding van de identiteit van de uitleesapplicatie, alsmede de persoon, bedoeld in artikel 66r van de Regeling aanpassing voertuigen en diens toestemmingscode;  
 
 2. uitleesfouten onder vermelding van de oorzaak.   Subtype transformeren 
 

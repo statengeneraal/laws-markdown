@@ -6,7 +6,7 @@ Wij WILLEM III, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nas
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten; 
 
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is, de onteigening ten algemeenen nutte, in overeenstemming met art. 147 der [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), bij de wet te regelen; 
+Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is, de onteigening ten algemeenen nutte, in overeenstemming met art. 147 der Grondwet, bij de wet te regelen; 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 
 ####Algemeene bepalingen 
@@ -18,13 +18,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  2  
 
-De bepalingen van het [Wetboek van Burgerlijke Regtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) zijn op het geding tot onteigening toepasselijk, voor zooveel daarvan bij deze wet niet is afgeweken.  
+De bepalingen van het Wetboek van Burgerlijke Regtsvordering zijn op het geding tot onteigening toepasselijk, voor zooveel daarvan bij deze wet niet is afgeweken.  
 
 ### Artikel  3  
 
 1.  Als eigenaar van een onroerende zaak, en als rechthebbende op een recht als in artikel 4, eerste lid, omschreven, worden zij beschouwd, die als zodanig in de basisregistratie kadaster staan vermeld.    
-2.  Desniettemin kan een ieder die beweert eigenaar te zijn, of rechthebbende op een recht als in artikel 4, eerste lid, omschreven, en niet is gedagvaard, aan de rechter verzoeken in het geding van onteigening te mogen tussenkomen, zolang de eindconclusies door partijen niet genomen zijn. Hetzelfde recht hebben derde belanghebbenden, waaronder zijn te verstaan beperkt gerechtigden, huurders, onderhuurders, pachters, onderpachters, bezitters, eigenaren in geval van mandeligheid volgens [artikel 60, tweede lid, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), schuldeisers als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en zij die op het te onteigenen goed of op een recht waaraan dat is onderworpen, beslag hebben gelegd. Deze laatsten kunnen in hun verzoek alleen worden ontvangen, indien zij daarbij een notaris of deurwaarder aanwijzen aan wie kan worden betaald.    
-3.  Bij tegenspraak der hoedanigheid van eigenaar, rechthebbende of derde belanghebbende, wordt de onteigening met de overigen voortgezet, en zal hij, die beweert gerechtigde te zijn, zijn recht alleen op de schadevergoeding kunnen uitoefenen, die in dat geval wordt geconsigneerd overeenkomstig de [Wet op de consignatie van gelden](../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md).   
+2.  Desniettemin kan een ieder die beweert eigenaar te zijn, of rechthebbende op een recht als in artikel 4, eerste lid, omschreven, en niet is gedagvaard, aan de rechter verzoeken in het geding van onteigening te mogen tussenkomen, zolang de eindconclusies door partijen niet genomen zijn. Hetzelfde recht hebben derde belanghebbenden, waaronder zijn te verstaan beperkt gerechtigden, huurders, onderhuurders, pachters, onderpachters, bezitters, eigenaren in geval van mandeligheid volgens artikel 60, tweede lid, van Boek 5 van het Burgerlijk Wetboek, schuldeisers als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek, en zij die op het te onteigenen goed of op een recht waaraan dat is onderworpen, beslag hebben gelegd. Deze laatsten kunnen in hun verzoek alleen worden ontvangen, indien zij daarbij een notaris of deurwaarder aanwijzen aan wie kan worden betaald.    
+3.  Bij tegenspraak der hoedanigheid van eigenaar, rechthebbende of derde belanghebbende, wordt de onteigening met de overigen voortgezet, en zal hij, die beweert gerechtigde te zijn, zijn recht alleen op de schadevergoeding kunnen uitoefenen, die in dat geval wordt geconsigneerd overeenkomstig de Wet op de consignatie van gelden.   
 
 ### Artikel  4  
 
@@ -60,9 +60,9 @@ De onteigenende partij tracht hetgeen onteigend moet worden bij minnelijke overe
 
 1.  Is hetgeen onteigend moet worden niet bij minnelijke overeenkomst verkregen, dan dagvaardt de onteigenende partij de bij koninklijk besluit aangewezen eigenaar voor de rechtbank in welker rechtsgebied de te onteigenen onroerende zaak is gelegen, teneinde de onteigening te horen uitspreken en het bedrag der schadeloosstelling te horen bepalen. Betreft de onteigening een recht, dan wordt zij ingesteld tegen de bij koninklijk besluit aangewezen rechthebbende; van deze vordering wordt kennisgenomen door de rechtbank binnen welker rechtsgebied de onroerende zaak is gelegen waarop het recht rust.    
 2.  Wanneer de rechtbank op grond van het voorgaande bevoegd is van een deel van de vordering kennis te nemen, is zij bevoegd van de geheele vordering kennis te nemen.    
-3.  Bij onteigening van een onroerende zaak waarop blijkens de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), een eeuwigdurende erfpacht of een beklemrecht rust, worden ook de erfpachter of de beklemde meier gedagvaard.    
-4.  De dagvaarding wordt betekend aan degenen die als houder van op het te onteigenen goed rustende hypotheken in de openbare registers bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn ingeschreven en aan de in die registers ingeschreven beslagleggers op het te onteigenen goed.    
-5.  Aan de derde belanghebbenden, als bedoeld in artikel 3, tweede lid, voor zover deze aan de onteigenende partij bekend zijn of behoren te zijn, wordt de dagvaarding betekend dan wel wordt een afschrift van de dagvaarding gezonden bij aangetekende brief, waarvoor een bericht van ontvangst wordt verlangd. Ten aanzien van een huurder van woonruimte, als bedoeld in [artikel 233 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan in de aangetekende brief worden volstaan met de mededeling van de uitgebrachte dagvaarding en van het daarin vervatte aanbod, voor zover dit op hem betrekking heeft. Voorts wordt mededeling gedaan van voorzieningen die de onteigenende partij voornemens is jegens hem te treffen.    
+3.  Bij onteigening van een onroerende zaak waarop blijkens de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, een eeuwigdurende erfpacht of een beklemrecht rust, worden ook de erfpachter of de beklemde meier gedagvaard.    
+4.  De dagvaarding wordt betekend aan degenen die als houder van op het te onteigenen goed rustende hypotheken in de openbare registers bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek zijn ingeschreven en aan de in die registers ingeschreven beslagleggers op het te onteigenen goed.    
+5.  Aan de derde belanghebbenden, als bedoeld in artikel 3, tweede lid, voor zover deze aan de onteigenende partij bekend zijn of behoren te zijn, wordt de dagvaarding betekend dan wel wordt een afschrift van de dagvaarding gezonden bij aangetekende brief, waarvoor een bericht van ontvangst wordt verlangd. Ten aanzien van een huurder van woonruimte, als bedoeld in artikel 233 van Boek 7 van het Burgerlijk Wetboek, kan in de aangetekende brief worden volstaan met de mededeling van de uitgebrachte dagvaarding en van het daarin vervatte aanbod, voor zover dit op hem betrekking heeft. Voorts wordt mededeling gedaan van voorzieningen die de onteigenende partij voornemens is jegens hem te treffen.    
 6.  De betekening of de verzending van de aangetekende brief geschiedt binnen een week na het uitbrengen van de dagvaarding.    
 7.  Betekening of toezending bij aangetekende brief vindt niet plaats aan degenen die op grond van het derde lid van dit artikel zijn gedagvaard.    
 8.  In het exploit van betekening van de dagvaarding aan de derde belanghebbende of in de aangetekende brief wordt vermeld op welke wijze zij, desgewenst, in het geding van onteigening kunnen tussenkomen.   
@@ -133,7 +133,7 @@ Partijen en derde belanghebbenden delen aan de rechtercommissaris alle feiten en
 
 ### Artikel  32  
 
-De formaliteiten, bij het [Wetboek van Burgerlijke Regtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voorgeschreven omtrent het getuigenverhoor en het berigt van deskundigen, zijn ten deze niet toepasselijk.  
+De formaliteiten, bij het Wetboek van Burgerlijke Regtsvordering voorgeschreven omtrent het getuigenverhoor en het berigt van deskundigen, zijn ten deze niet toepasselijk.  
 
 ### Artikel  33  
 
@@ -168,7 +168,7 @@ Indien geen bezwaarschrift is ingediend of indien later blijkt van feitelijke be
 ### Artikel  37  
 
 1.  In de eerste voor de behandeling van burgerlijke zaken bestemde terechtzitting, welke plaats heeft na verloop van vier weken na de dag van de in artikel 36 bedoelde zitting, kunnen derde belanghebbenden een conclusie nemen en, zowel als partijen, bezwaarschriften, verweerschriften en conclusies nader bij pleidooi ontwikkelen. Ingeval geen bezwaarschriften zijn ingediend, zullen de pleidooien plaats vinden uiterlijk zes weken na de dag van de nederlegging van het rapport van deskundigen. De griffier roept partijen, derde belanghebbenden zomede de deskundigen op om ter terechtzitting aanwezig te zijn, opdat dezen desgevraagd mondelinge toelichting op het uitgebrachte advies verstrekken.    
-2.  Uiterlijk binnen vier weken na de in dit artikel bedoelde terechtzitting doet de rechtbank, indien zij geen gebruik heeft gemaakt van de haar in [artikel 194, vijfde lid van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) toegekende bevoegdheid, uitspraak over de onteigening, stelt zij in haar vonnis de schadeloosstellingen vast voor de verweerder en de derde belanghebbenden en vermeldt zij tevens de schadeloosstellingen die reeds zijn bepaald ingevolge artikel 27, laatste lid.   
+2.  Uiterlijk binnen vier weken na de in dit artikel bedoelde terechtzitting doet de rechtbank, indien zij geen gebruik heeft gemaakt van de haar in artikel 194, vijfde lid van het Wetboek van Burgerlijke Rechtsvordering toegekende bevoegdheid, uitspraak over de onteigening, stelt zij in haar vonnis de schadeloosstellingen vast voor de verweerder en de derde belanghebbenden en vermeldt zij tevens de schadeloosstellingen die reeds zijn bepaald ingevolge artikel 27, laatste lid.   
 
 ### Artikel  38  
 
@@ -178,7 +178,7 @@ Indien geen bezwaarschrift is ingediend of indien later blijkt van feitelijke be
 
 ### Artikel  39  
 
-Bij de berekening der schadevergoeding wordt niet gelet op veranderingen, welke kennelijk zijn tot stand gebracht om de schadevergoeding te verhogen; evenmin wordt gelet op veranderingen, tot stand gebracht na terinzagelegging als bedoeld in [artikel 3:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tenzij het normale of noodzakelijke veranderingen betreft die aansluiten bij de aard en de wijze van gebruik van de onroerende zaak ten tijde van die nederlegging.  
+Bij de berekening der schadevergoeding wordt niet gelet op veranderingen, welke kennelijk zijn tot stand gebracht om de schadevergoeding te verhogen; evenmin wordt gelet op veranderingen, tot stand gebracht na terinzagelegging als bedoeld in artikel 3:11 van de Algemene wet bestuursrecht, tenzij het normale of noodzakelijke veranderingen betreft die aansluiten bij de aard en de wijze van gebruik van de onroerende zaak ten tijde van die nederlegging.  
 
 ### Artikel  40  
 
@@ -223,7 +223,7 @@ Bij het bepalen van de werkelijke waarde van een zaak wordt de prijs verminderd 
 
 ### Artikel  40f  
 
-Op de prijsvermeerdering bedoeld in artikel 40e komt in mindering de vergoeding welke te dier zake op grond van [artikel 6.1 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is toegekend.  
+Op de prijsvermeerdering bedoeld in artikel 40e komt in mindering de vergoeding welke te dier zake op grond van artikel 6.1 van de Wet ruimtelijke ordening is toegekend.  
 
 ### Artikel  41  
 
@@ -235,34 +235,34 @@ Voor zover de volgende artikelen niet anders meebrengen, zijn de artikelen 40-41
 
 ### Artikel  42  
 
-1.  Bij de onteigening van verhuurde bedrijfsruimte, als omschreven in [artikel 309 lid 5 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt door de onteigenende partij aan de huurder en de onderhuurder aan wie bevoegdelijk is onderverhuurd schadeloosstelling betaald. Bij de bepaling van de schadeloosstelling wordt rekening gehouden met de kans dat de huurverhouding bij het verstrijken van de geldigheidsduur der overeenkomst zou hebben voortgeduurd.    
+1.  Bij de onteigening van verhuurde bedrijfsruimte, als omschreven in artikel 309 lid 5 van Boek 7 van het Burgerlijk Wetboek, wordt door de onteigenende partij aan de huurder en de onderhuurder aan wie bevoegdelijk is onderverhuurd schadeloosstelling betaald. Bij de bepaling van de schadeloosstelling wordt rekening gehouden met de kans dat de huurverhouding bij het verstrijken van de geldigheidsduur der overeenkomst zou hebben voortgeduurd.    
 2.  Bij de onteigening van een anderszins verhuurde onroerende zaak wordt door de onteigenende partij aan den huurder, wiens huurtijd nog één of meer jaren moet duren, tot schadeloosstelling eene som betaald, gelijkstaande aan den huurprijs van twee jaren.    
 3.  Indien nogtans de te velde staande vruchten, of de onkosten welke de huurder aantoont gedurende de laatste twee jaren aan de onroerende zaak te hebben besteed, meer beloopen dan de in het vorige lid bedoelde tweejarige huurprijs, wordt de waarde dier vruchten of het bedrag dier onkosten als schadeloosstelling betaald. Indien de huurder minder dan een jaar huur had, wordt hem de huurprijs van een vol jaar, of de waarde der te velde staande vruchten, zoo die meer beloopt, vergoed.    
-4.  Indien de verhuring na terinzagelegging als bedoeld in [artikel 3:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), heeft plaats gehad, wordt door de onteigenende partij aan den huurder geene schadeloosstelling betaald, maar heeft deze eene vordering tot schadevergoeding tegen den verhuurder, ten ware anders mogt zijn overeengekomen.   
+4.  Indien de verhuring na terinzagelegging als bedoeld in artikel 3:11 van de Algemene wet bestuursrecht, heeft plaats gehad, wordt door de onteigenende partij aan den huurder geene schadeloosstelling betaald, maar heeft deze eene vordering tot schadevergoeding tegen den verhuurder, ten ware anders mogt zijn overeengekomen.   
 
 ### Artikel  42a  
 
 1.  Bij de onteigening van een verpachte onroerende zaak wordt door de onteigenende partij aan de pachter schadeloosstelling betaald.    
-2.  Indien de pachtovereenkomst voor de in [artikel 325, eerste of tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde duur is aangegaan of geldt, dan wel voor een kortere duur is aangegaan en nadien met zes jaren is verlengd, wordt bij de bepaling van de schadeloosstelling rekening gehouden met de mogelijkheid, dat de pachtovereenkomst ingevolge de [artikelen 325, vijfde lid](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [367 tot en met 374 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zou zijn verlengd.    
+2.  Indien de pachtovereenkomst voor de in artikel 325, eerste of tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde duur is aangegaan of geldt, dan wel voor een kortere duur is aangegaan en nadien met zes jaren is verlengd, wordt bij de bepaling van de schadeloosstelling rekening gehouden met de mogelijkheid, dat de pachtovereenkomst ingevolge de artikelen 325, vijfde lid, en 367 tot en met 374 van Boek 7 van het Burgerlijk Wetboek zou zijn verlengd.    
 3.  Het bepaalde in het tweede lid vindt geen toepassing, indien de pachtverhouding is aangevangen, nadat aan het verpachte bij een goedgekeurd bestemmingsplan een niet tot de landbouw betrekkelijke bestemming is gegeven. In dat geval wordt de pachtovereenkomst met betrekking tot een hoeve of los land, welke is aangegaan voor langer dan twaalf, onderscheidenlijk zes jaren, voor de bepaling van de schadeloosstelling geacht te zijn aangegaan voor twaalf, onderscheidenlijk zes jaren, met dien verstande, dat, indien de onteigening plaats vindt na die termijn, de overeenkomst geacht wordt telkens voor zes jaren te zijn verlengd.    
-4.  Indien evenwel het verpachte sinds een tijdstip, liggend voor de goedkeuring bedoeld in het vorige lid, achtereenvolgens bij personen die ten tijde van de opvolging in het gebruik tot de voorgaande gebruiker in enige in [artikel 363, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde betrekking stonden persoonlijk in gebruik is geweest voor een tot de landbouw betrekkelijk doel, blijft het bepaalde in het tweede lid van toepassing.    
-5.  Indien op het tijdstip van terinzagelegging als bedoeld in [artikel 3:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de pachtovereenkomst ingevolge [artikel 322 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voor onbepaalde tijd geldt, wordt voor de berekening van de schadeloosstelling uitgegaan van de overeengekomen duur, doch ingeval de overeenkomst voor onbepaalde tijd is aangegaan, nimmer van een langere dan de in [artikel 325, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde duur. Voor de berekening van de schadeloosstelling wordt op gelijke wijze als ten aanzien van pachtovereenkomsten, waarop [artikel 9 van de Pachtwet](../../../wet/pachtwet/BWBR0002269/README.md) niet van toepassing is, aangenomen, dat de pachtovereenkomst zou kunnen worden verlengd; het derde en vierde lid vinden overeenkomstige toepassing.    
-6.  Indien de verpachting na terinzagelegging als bedoeld in [artikel 3:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), heeft plaats gehad, wordt door de onteigenende partij aan de pachter geen schadeloosstelling betaald, maar heeft deze een vordering tot schadevergoeding tegen de verpachter, ten ware anders mocht zijn overeengekomen.   
+4.  Indien evenwel het verpachte sinds een tijdstip, liggend voor de goedkeuring bedoeld in het vorige lid, achtereenvolgens bij personen die ten tijde van de opvolging in het gebruik tot de voorgaande gebruiker in enige in artikel 363, eerste lid, van Boek 7 van het Burgerlijk Wetboek genoemde betrekking stonden persoonlijk in gebruik is geweest voor een tot de landbouw betrekkelijk doel, blijft het bepaalde in het tweede lid van toepassing.    
+5.  Indien op het tijdstip van terinzagelegging als bedoeld in artikel 3:11 van de Algemene wet bestuursrecht de pachtovereenkomst ingevolge artikel 322 van Boek 7 van het Burgerlijk Wetboek voor onbepaalde tijd geldt, wordt voor de berekening van de schadeloosstelling uitgegaan van de overeengekomen duur, doch ingeval de overeenkomst voor onbepaalde tijd is aangegaan, nimmer van een langere dan de in artikel 325, tweede lid, van Boek 7 van het Burgerlijk Wetboek bedoelde duur. Voor de berekening van de schadeloosstelling wordt op gelijke wijze als ten aanzien van pachtovereenkomsten, waarop artikel 9 van de Pachtwet niet van toepassing is, aangenomen, dat de pachtovereenkomst zou kunnen worden verlengd; het derde en vierde lid vinden overeenkomstige toepassing.    
+6.  Indien de verpachting na terinzagelegging als bedoeld in artikel 3:11 van de Algemene wet bestuursrecht, heeft plaats gehad, wordt door de onteigenende partij aan de pachter geen schadeloosstelling betaald, maar heeft deze een vordering tot schadevergoeding tegen de verpachter, ten ware anders mocht zijn overeengekomen.   
 
 ### Artikel  43  
 
-1.  De hypotheekhouder en de ingeschreven beslaglegger hebben geen recht op afzonderlijke schadevergoeding. Slechts indien zij zijn tussengekomen, kunnen zij zich jegens de onteigenaar beroepen op hun rechten uit [artikel 229 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [artikel 507a van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). Zij oefenen die rechten uit op het bedrag van de werkelijke waarde en de waardevermindering van het overblijvende, zoals dat bedrag toekomt aan de hypotheekgever, de beslagene en de beperkt gerechtigde, wiens recht niet tegen hen kan worden ingeroepen.    
-2.  Indien alle in het vorige lid vermelde belanghebbenden tot overeenstemming omtrent de verdeling zijn gekomen, bepaalt de rechter wat aan ieder van hen moet worden betaald. Is geen overeenstemming bereikt, dan worden de bedragen in hun geheel toegewezen aan de tussengekomen hypotheekhouder, hoogste in rang, dan wel, zo geen hypotheekhouder is tussengekomen, aan de daartoe door de eerst ingeschreven beslaglegger aangewezen notaris of deurwaarder, en vindt verdeling plaats met toepassing van de regels betreffende de verdeling van een zodanige opbrengst in het [Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).    
-3.  Een beslaglegger behoeft voor de toepassing van het vorige lid niet tussen te komen, indien hij aan de onteigenaar bij exploit meedeelt zijn rechten uit [artikel 507a van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) te bepalen tot het deel van de in het eerste lid bedoelde bedragen, dat voor de beslagene bestemd is.    
+1.  De hypotheekhouder en de ingeschreven beslaglegger hebben geen recht op afzonderlijke schadevergoeding. Slechts indien zij zijn tussengekomen, kunnen zij zich jegens de onteigenaar beroepen op hun rechten uit artikel 229 van Boek 3 van het Burgerlijk Wetboek en artikel 507a van het Wetboek van Burgerlijke Rechtsvordering. Zij oefenen die rechten uit op het bedrag van de werkelijke waarde en de waardevermindering van het overblijvende, zoals dat bedrag toekomt aan de hypotheekgever, de beslagene en de beperkt gerechtigde, wiens recht niet tegen hen kan worden ingeroepen.    
+2.  Indien alle in het vorige lid vermelde belanghebbenden tot overeenstemming omtrent de verdeling zijn gekomen, bepaalt de rechter wat aan ieder van hen moet worden betaald. Is geen overeenstemming bereikt, dan worden de bedragen in hun geheel toegewezen aan de tussengekomen hypotheekhouder, hoogste in rang, dan wel, zo geen hypotheekhouder is tussengekomen, aan de daartoe door de eerst ingeschreven beslaglegger aangewezen notaris of deurwaarder, en vindt verdeling plaats met toepassing van de regels betreffende de verdeling van een zodanige opbrengst in het Wetboek van Burgerlijke Rechtsvordering.    
+3.  Een beslaglegger behoeft voor de toepassing van het vorige lid niet tussen te komen, indien hij aan de onteigenaar bij exploit meedeelt zijn rechten uit artikel 507a van het Wetboek van Burgerlijke Rechtsvordering te bepalen tot het deel van de in het eerste lid bedoelde bedragen, dat voor de beslagene bestemd is.    
 4.  Ten aanzien van het voorschot op de schadeloosstelling en de verhogingen daarvan zijn de vorige leden van overeenkomstige toepassing, met dien verstande dat bij de verdeling tussen de belanghebbenden onderling de hypotheekhouder en beslagleggers hun recht op deze bedragen uitoefenen voor zover zij kunnen worden beschouwd als een voorschot op het in het eerste lid, derde zin, bedoelde bedrag. Op verlangen van elk der partijen kan de rechtercommissaris in een rangregeling bepalen dat deze niet zal worden gesloten, voordat het vonnis waarbij de schadeloosstelling is vastgesteld in kracht van gewijsde is gegaan. In het geval van artikel 54*t*, derde lid, kan binnen een jaar nadat het vonnis bedoeld in artikel 54*t*, tweede lid, kracht van gewijsde heeft verkregen, door elk van de belanghebbenden heropening van een gesloten rangregeling worden gevraagd en kan de rechtercommissaris hen die teveel hebben ontvangen bij bevelschrift gelasten dit terug te betalen.   
 
 ### Artikel  44  
 
-Bij de bepaling van de schadeloosstelling wegens het vervallen van een erfdienstbaarheid of een recht als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) wordt rekening gehouden met hetgeen te verwachten is omtrent de wijziging of de opheffing krachtens de [artikelen 78](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) en [79 van Boek 5](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), dan wel de [artikelen 258](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [259 van Boek 6 van dat wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en de daaraan te verbinden voorwaarden. Artikel 40*c* mist in zoverre toepassing. Overigens wordt rekening gehouden met de mogelijkheid de erfdienstbaarheid of het recht als bedoeld in [artikel 252 van Boek 6 van dat wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) door een andere erfdienstbaarheid of een ander recht te vervangen.  
+Bij de bepaling van de schadeloosstelling wegens het vervallen van een erfdienstbaarheid of een recht als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek wordt rekening gehouden met hetgeen te verwachten is omtrent de wijziging of de opheffing krachtens de artikelen 78 en 79 van Boek 5, dan wel de artikelen 258 en 259 van Boek 6 van dat wetboek en de daaraan te verbinden voorwaarden. Artikel 40*c* mist in zoverre toepassing. Overigens wordt rekening gehouden met de mogelijkheid de erfdienstbaarheid of het recht als bedoeld in artikel 252 van Boek 6 van dat wetboek door een andere erfdienstbaarheid of een ander recht te vervangen.  
 
 ### Artikel  45  
 
-1.  De vruchtgebruiker kan zich jegens de onteigenaar slechts op verkrijging van een vruchtgebruik op de vordering tot schadeloosstelling voor de hoofdgerechtigde krachtens [artikel 213 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) beroepen, indien hij is tussengekomen.    
+1.  De vruchtgebruiker kan zich jegens de onteigenaar slechts op verkrijging van een vruchtgebruik op de vordering tot schadeloosstelling voor de hoofdgerechtigde krachtens artikel 213 van Boek 3 van het Burgerlijk Wetboek beroepen, indien hij is tussengekomen.    
 2.   Bij onteigening van goederen die zijn vermaakt onder een ontbindende voorwaarde en een daarbij aansluitende opschortende voorwaarde doet de bezwaarde erfgenaam de schadeloosstelling in een der schuldregisters voor geldleningen ten laste van het Rijk inschrijven.   
 
 ### Artikel  50  
@@ -275,7 +275,7 @@ Bij de bepaling van de schadeloosstelling wegens het vervallen van een erfdienst
 
 ### Artikel  51  
 
-Wanneer het vonnis bij verstek is gewezen, kan men daartegen binnen acht dagen na de beteekening, op de wijze, in het [Wetboek van Burgerlijke Regtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voorgeschreven, in verzet komen.  
+Wanneer het vonnis bij verstek is gewezen, kan men daartegen binnen acht dagen na de beteekening, op de wijze, in het Wetboek van Burgerlijke Regtsvordering voorgeschreven, in verzet komen.  
 
 ### Artikel  52  
 
@@ -286,7 +286,7 @@ Wanneer het vonnis bij verstek is gewezen, kan men daartegen binnen acht dagen n
 ### Artikel  53  
 
 1.  Deze verklaring wordt binnen zes weken na afloop van de in het vorige artikel genoemde termijn van twee weken met een ontwikkeling van de gronden der cassatie aan de tegenpartij betekend en gaat vergezeld van een dagvaarding tegen de eerste terechtzitting, welke na verloop van twee weken na de betekening plaats vindt.    
-2.  De conclusie van de eiser, bedoeld in [artikel 412, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), wordt genomen ten pleitdage.   
+2.  De conclusie van de eiser, bedoeld in artikel 412, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering, wordt genomen ten pleitdage.   
 
 ### Artikel  54  
 
@@ -323,7 +323,7 @@ e.een opgave van de hypotheekhouders of van hen, die beslag hebben gelegd met be
 ### Artikel  54b  
 
 1.  De onteigenende partij doet binnen een week een afschrift van het verzoekschrift betekenen of zendt een afschrift van het verzoekschrift bij aangetekende brief, waarvoor een bericht van ontvangst wordt verlangd, aan degenen die in het verzoekschrift zijn vermeld. Ingeval van betekening wordt een gewaarmerkt afschrift van het exploit van betekening aan de griffier gezonden. In geval van een aangetekende brief bevestigt de onteigenende partij aan de griffier dat de aangetekende brief is verzonden en daarvoor een bericht van ontvangst is verkregen.    
-2.  Ten aanzien van een huurder van woonruimte, als bedoeld in [artikel 233 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan in de aangetekende brief worden volstaan met de mededeling van het ingediende verzoekschrift en van het daarin vermelde, voor zover dit op hem betrekking heeft.   
+2.  Ten aanzien van een huurder van woonruimte, als bedoeld in artikel 233 van Boek 7 van het Burgerlijk Wetboek, kan in de aangetekende brief worden volstaan met de mededeling van het ingediende verzoekschrift en van het daarin vermelde, voor zover dit op hem betrekking heeft.   
 
 ### Artikel  54c  
 
@@ -455,22 +455,22 @@ De artikelen 17, 18, 20, 22-26 zijn van overeenkomstige toepassing, met dien ver
 
 ### Artikel  56  
 
-Wanneer hij aan wie de schadeloosstelling is toegewezen, weigert haar te ontvangen, en bij deurwaardersexploit deswege in gebreke is gesteld, kan de onteigenaar zodra tien dagen zijn verstreken overgaan tot consignatie overeenkomstig de [Wet op de consignatie van gelden](../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md).  
+Wanneer hij aan wie de schadeloosstelling is toegewezen, weigert haar te ontvangen, en bij deurwaardersexploit deswege in gebreke is gesteld, kan de onteigenaar zodra tien dagen zijn verstreken overgaan tot consignatie overeenkomstig de Wet op de consignatie van gelden.  
 
 ### Artikel  57  
 
-1.  Wanneer de schadeloosstelling of het voorschot, bedoeld in artikel 54i, is betaald dan wel consignatie overeenkomstig de [Tweede Afdeling van de Vierde Titel van het Vierde Boek van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) daarvan heeft plaats gevonden, wordt de onteigenende partij, op bevelschrift van de voorzitter van de rechtbank, desnoods door middel van de sterke arm, in het bezit van het onteigende gesteld.    
+1.  Wanneer de schadeloosstelling of het voorschot, bedoeld in artikel 54i, is betaald dan wel consignatie overeenkomstig de Tweede Afdeling van de Vierde Titel van het Vierde Boek van het Burgerlijk Wetboek daarvan heeft plaats gevonden, wordt de onteigenende partij, op bevelschrift van de voorzitter van de rechtbank, desnoods door middel van de sterke arm, in het bezit van het onteigende gesteld.    
 2.  Bij haar verzoekschrift moet de onteigenende partij aan die voorzitter overleggen een afschrift van het vonnis tot onteigening, een verklaring van de griffier, dat het vonnis gezag van gewijsde heeft verkregen, alsmede een afschrift van het proces-verbaal van de opneming door de deskundigen, indien deze opneming heeft plaats gevonden overeenkomstig artikel 54j, eerste of derde lid.    
 3.  Ook het bewijs, dat de schadeloosstelling of het voorschot, bedoeld in artikel 54i, is betaald dan wel het bewijs van consignatie in de gevallen van de artikelen 3, 58 en 59, moet worden overgelegd.   
 
 ### Artikel  58  
 
-Wanneer onder de onteigenende partij beslag op de schadeloosstelling of het voorschot is gelegd, doet zij het bedrag dat zij zonder het beslag aan de beslagene had moeten uitbetalen consigneren overeenkomstig de [Wet op de consignatie van gelden](../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md).  
+Wanneer onder de onteigenende partij beslag op de schadeloosstelling of het voorschot is gelegd, doet zij het bedrag dat zij zonder het beslag aan de beslagene had moeten uitbetalen consigneren overeenkomstig de Wet op de consignatie van gelden.  
 
 ### Artikel  59  
 
 1.  Het vonnis van onteigening, bedoeld in artikel 37, kan slechts worden ingeschreven nadat het in kracht van gewijsde is gegaan. Ter inschrijving van het in de vorige zin bedoelde vonnis worden de bewijzen van betaling van de schadeloosstelling overgelegd. Ter inschrijving van het vonnis, bedoeld in artikel 54i, dat niet is ingeschreven binnen de in artikel 54m bedoelde termijn, worden overgelegd het vonnis bedoeld in artikel 54t, tweede lid, een verklaring van de griffier houdende dat laatstgenoemd vonnis in kracht van gewijsde is gegaan en de bewijzen van betaling der schadeloosstelling.    
-2.   Voor de toepassing van deze wet wordt met een bewijs van betaling gelijkgesteld een bewijs, dat de som der schadeloosstelling – of ingeval Afdeling 2 van Hoofdstuk IIIa toepassing heeft gevonden, de som van het voorschot – ten laste van de onteigenende partij is overgeschreven op een rekening van de tot ontvangst gerechtigde bij een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). Tevens geldt als bewijs van betaling - indien niet genoegzaam bekend is aan wie moet worden betaald, of consignatie heeft plaatsgevonden ten gevolge van de artikelen 3, 56 of 58 - een bewijs van consignatie als bedoeld in [artikel 6, eerste lid, van de Wet op de consignatie van gelden](../../../wet/wet/op/de/consignatie/van/gelden/BWBR0003338/README.md).   
+2.   Voor de toepassing van deze wet wordt met een bewijs van betaling gelijkgesteld een bewijs, dat de som der schadeloosstelling – of ingeval Afdeling 2 van Hoofdstuk IIIa toepassing heeft gevonden, de som van het voorschot – ten laste van de onteigenende partij is overgeschreven op een rekening van de tot ontvangst gerechtigde bij een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen ingevolge de Wet op het financieel toezicht. Tevens geldt als bewijs van betaling - indien niet genoegzaam bekend is aan wie moet worden betaald, of consignatie heeft plaatsgevonden ten gevolge van de artikelen 3, 56 of 58 - een bewijs van consignatie als bedoeld in artikel 6, eerste lid, van de Wet op de consignatie van gelden.   
 3.  In geval van onteigening van een onroerende zaak gaat door inschrijving van het vonnis de eigendom op de onteigenaar over, vrij van alle met betrekking tot de zaak bestaande lasten en rechten. In geval van onteigening als bedoeld in artikel 4, eerste lid, vervallen door de inschrijving de lasten en rechten welke bestaan met betrekking tot de zaak, waarop het onteigende recht rust. Aldus waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald. Alleen erfdienstbaarheden kunnen op de zaak gevestigd blijven. Zij dienen daartoe in het vonnis te worden opgenomen; indien zij niet door vestiging zijn ontstaan, worden de kadastrale aanduiding van het heersende erf en een omschrijving van de inhoud van de erfdienstbaarheid opgenomen.   
 
 ### Artikel  60  
@@ -493,15 +493,15 @@ Waterschaps- en soortgelijke lasten en alle belastingen, hoe ook genaamd, waarme
 1. Onteigening van onroerende zaken of rechten ten behoeve van aanleg, het herstel, versterking of onderhoud van waterkeringen of bouw van militaire verdedigingswerken, heeft plaats uit kracht van een koninklijk besluit, de Raad van State gehoord.   
 2.  Onder de onteigening van onroerende zaken of rechten ten behoeve van waterkeringen, bedoeld in het eerste lid, wordt mede begrepen de onteigening voor de aanleg en verbetering van de in dat lid bedoelde werken en rechtstreeks daaruit voortvloeiende bijkomende voorzieningen ter uitvoering van: 
 
-a. een bestemmingsplan als bedoeld in [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+a. een bestemmingsplan als bedoeld in artikel 3.1, eerste lid, van de Wet ruimtelijke ordening;  
 
-b. een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening is afgeweken;  
+b. een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening is afgeweken;  
 
-c. een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+c. een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening.   
 
 ### Artikel  63  
 
-1.  Op de voorbereiding van de beslissing tot onteigening is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.    
+1.  Op de voorbereiding van de beslissing tot onteigening is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.    
 2.  Terinzagelegging geschiedt tevens binnen de gemeente waar de betrokken onroerende zaken zijn gelegen. In ieder geval worden ter inzage gelegd: 
 
 1°. een uitgewerkt plan met uitvoerige kaarten en met grondtekeningen waarop de te onteigenen onroerende zaken, en bij afzonderlijke onteigening als bedoeld in artikel 4, eerste lid, de onroerende zaken waarop de te onteigenen rechten rusten, met vermelding van hun kadastrale aanduiding zijn aangewezen;   
@@ -514,7 +514,7 @@ b. de namen van de eigenaars van elk dier zaken, volgens de basisregistratie kad
 
 3°. bij afzonderlijke onteigening als bedoeld in artikel 4, eerste lid, een lijst van de te onteigenen rechten met vermelding van de kadastrale aanduiding van de zaken waarop zij rusten, en de namen van de rechthebbenden op die rechten volgens de basisregistratie kadaster.     
 3. Mondelinge zienswijzen kunnen naar voren worden gebracht bij Onze Minister wie het aangaat.  
-4.  Alvorens omtrent het verzoek tot onteigening wordt beslist, worden degenen, die tijdig ingevolge [artikel 3:15, eerste of tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een zienswijze naar voren hebben gebracht, door Onze Minister in de gelegenheid gesteld zich te doen horen. Zo nodig kan Onze Minister ook andere belanghebbenden in de gelegenheid stellen zich te doen horen.   
+4.  Alvorens omtrent het verzoek tot onteigening wordt beslist, worden degenen, die tijdig ingevolge artikel 3:15, eerste of tweede lid, van de Algemene wet bestuursrecht een zienswijze naar voren hebben gebracht, door Onze Minister in de gelegenheid gesteld zich te doen horen. Zo nodig kan Onze Minister ook andere belanghebbenden in de gelegenheid stellen zich te doen horen.   
 
 ### Artikel  64  
 
@@ -528,9 +528,9 @@ Bij het koninklijk besluit worden de te onteigenen onroerende zaken en rechten a
 
 ### Artikel  64a  
 
-1.  Het koninklijk besluit wordt genomen binnen zes maanden na afloop van de termijn gedurende welke de stukken ingevolge [artikel 3:11, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage hebben gelegen.   
+1.  Het koninklijk besluit wordt genomen binnen zes maanden na afloop van de termijn gedurende welke de stukken ingevolge artikel 3:11, vierde lid, van de Algemene wet bestuursrecht ter inzage hebben gelegen.   
 2. Het besluit wordt in ieder geval bekendgemaakt aan de onteigenende partij en, zo mogelijk, aan de in artikel 64 bedoelde eigenaren en andere rechthebbenden.  
-3.  Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant. Terinzagelegging ingevolge [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt tevens plaats binnen de betrokken gemeente. De kennisgeving van het besluit vindt tevens plaats in een of meer dag-, nieuws-, of huis-aan-huisbladen die in de gemeente verspreid worden, onder vermelding van datum en nummer van het koninklijk besluit en van de Staatscourant waarin het besluit is geplaatst. Een en ander geschiedt op kosten van hen, te wier name het werk wordt uitgevoerd.    
+3.  Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant. Terinzagelegging ingevolge artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht vindt tevens plaats binnen de betrokken gemeente. De kennisgeving van het besluit vindt tevens plaats in een of meer dag-, nieuws-, of huis-aan-huisbladen die in de gemeente verspreid worden, onder vermelding van datum en nummer van het koninklijk besluit en van de Staatscourant waarin het besluit is geplaatst. Een en ander geschiedt op kosten van hen, te wier name het werk wordt uitgevoerd.    
 4.  Het koninklijk besluit tot onteigening vervalt, indien de onteigenende partij niet binnen twee jaar na dagtekening van het koninklijk besluit de eigendom bij minnelijke overeenkomst heeft verkregen overeenkomstig artikel 17, of de eigenaren, in het onteigeningsbesluit aangewezen, voor de rechtbank, in welker rechtsgebied de onroerende zaken waarop de onteigening betrekking heeft zijn gelegen, heeft doen dagvaarden overeenkomstig artikel 18.   
 
 ### Artikel  64b  
@@ -572,14 +572,14 @@ Bij het koninklijk besluit worden de te onteigenen onroerende zaken en rechten a
 
 ### Artikel  72a  
 
-1.  Onteigening van wegen, bruggen, bermen, bermslooten en kanalen, alsmede daarop rustende zakelijke rechten als in artikel 4 bedoeld, en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, – waaronder begrepen onteigening voor aanleg en verbetering van werken ter uitvoering van een tracébesluit als bedoeld in [artikel 9, eerste lid, van de Tracéwet](../../../wet/tracéwet/BWBR0006147/README.md) – havenwerken, werken ten behoeve van de bestrijding van de verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren kan geschieden uit kracht van een door Ons, den Raad van State gehoord, genomen besluit.    
+1.  Onteigening van wegen, bruggen, bermen, bermslooten en kanalen, alsmede daarop rustende zakelijke rechten als in artikel 4 bedoeld, en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, – waaronder begrepen onteigening voor aanleg en verbetering van werken ter uitvoering van een tracébesluit als bedoeld in artikel 9, eerste lid, van de Tracéwet – havenwerken, werken ten behoeve van de bestrijding van de verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren kan geschieden uit kracht van een door Ons, den Raad van State gehoord, genomen besluit.    
 2.  Onder de onteigening, bedoeld in het eerste lid, wordt mede begrepen de onteigening voor de aanleg en verbetering van de in dat lid bedoelde werken en rechtstreeks daaruit voortvloeiende bijkomende voorzieningen ter uitvoering van: 
 
-a. een bestemmingsplan als bedoeld in [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+a. een bestemmingsplan als bedoeld in artikel 3.1, eerste lid, van de Wet ruimtelijke ordening;  
 
-b. een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening is afgeweken;  
+b. een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening is afgeweken;  
 
-c. een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).    
+c. een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening.    
 3.  De bepalingen van de artikelen 63 tot en met 64b zijn van toepassing.   
 
 ### Titel  IIb  
@@ -588,7 +588,7 @@ c. een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke
 
 ### Artikel  72b  
 
-1.  Onteigening van gronden en van zakelijke rechten, als bedoeld in artikel 4, waarvan de verkrijging is vereist ten behoeve van een drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md) of van een inrichting waarin afvalstoffen die van buiten de inrichting afkomstig zijn, worden verwijderd, kan geschieden uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.    
+1.  Onteigening van gronden en van zakelijke rechten, als bedoeld in artikel 4, waarvan de verkrijging is vereist ten behoeve van een drinkwaterbedrijf als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet of van een inrichting waarin afvalstoffen die van buiten de inrichting afkomstig zijn, worden verwijderd, kan geschieden uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.    
 2.  De bepalingen van de artikelen 63 tot en met 64b zijn van toepassing.   
 
 ### Titel  IIc  
@@ -601,7 +601,7 @@ c. een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke
 
 a. overeenkomstig een onherroepelijk geworden besluit tot vaststelling van een winplaats in een streekplan;  
 
-b. indien ter zake een vergunning tot ontgronding krachtens de [Ontgrondingenwet](../../../wet/ontgrondingenwet/BWBR0002505/README.md) is verleend en onherroepelijk is geworden.    
+b. indien ter zake een vergunning tot ontgronding krachtens de Ontgrondingenwet is verleend en onherroepelijk is geworden.    
 2.  De onteigening heeft plaats uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.    
 3.  De bepalingen van de artikelen 63 tot en met 64b zijn van overeenkomstige toepassing.   
 
@@ -620,7 +620,7 @@ b. indien ter zake een vergunning tot ontgronding krachtens de [Ontgrondingenwet
 2.  Ingeval van watersnood kan ook het dagelijks bestuur van het waterschap, dat met de zorg voor de waterkering is belast, de voorzitter van dat waterschap en ieder daartoe door dat dagelijks bestuur van het waterschap aangewezen lid van dat bestuur, ter vervulling van die taak die last geven.   
 3.  Door watersnood wordt niet enkel het geval verstaan dat dijken zijn doorgebroken of overstroomingen hebben plaats gehad, maar ook dat van dringend of dreigend gevaar voor doorbraak of overstrooming.    
 4.  De eigendom gaat onmiddellijk op dengene over, in wiens naam de inbezitneming is geschied, vrij van alle met betrekking tot de zaak bestaande lasten en rechten. Alle in art. 60 genoemde lasten of belastingen, waarmede het onteigende is bezwaard, gaan van den dag der inbezitneming op hem over.    
-5.  Het besluit tot inbezitneming wordt zo spoedig mogelijk in de openbare registers ingeschreven. Door het besluit waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald. [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+5.  Het besluit tot inbezitneming wordt zo spoedig mogelijk in de openbare registers ingeschreven. Door het besluit waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
 
 ### Artikel  74  
 
@@ -638,7 +638,7 @@ Wanneer hij, in wiens naam de onteigening gelast is, den eigendom van de zaak ni
 
 ### Artikel  76a  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 76*a bis* tot en met 76*f bis* in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 76*a bis* tot en met 76*f bis* in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -688,7 +688,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  76f  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76a ter, eerste lid, niet dan na overleg met het militair gezag.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.In geval, op grond van artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76a ter, eerste lid, niet dan na overleg met het militair gezag.  
 
 ### Artikel  76fbis  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -699,27 +699,27 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Titel  IV  
 
-####Onteigening in het belang van de ruimtelijke ontwikkeling, van de Volkshuisvesting, van de openbare orde en van de handhaving van de [Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md) 
+####Onteigening in het belang van de ruimtelijke ontwikkeling, van de Volkshuisvesting, van de openbare orde en van de handhaving van de Opiumwet 
 
 ### Artikel  77  
 
 1.  Onteigening, bedoeld in deze titel kan plaatsvinden: 
 
-1°. ten behoeve van de uitvoering van of ter handhaving van de feitelijke toestand overeenkomstig een bestemmingsplan of een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+1°. ten behoeve van de uitvoering van of ter handhaving van de feitelijke toestand overeenkomstig een bestemmingsplan of een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening;  
 
-2°. ten behoeve van de uitvoering van een bouwplan, dan wel een plan van werken, geen bouwwerken zijnde, of een plan van werkzaamheden voor het opheffen van ernstig achterstallig onderhoud in het belang van de volkshuisvesting, mits een hierop betrekking hebbend besluit op grond van [artikel 13 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom wegens overtreding van het bepaalde bij of krachtens [artikel 1a](../../../wet/woningwet/BWBR0005181/README.md), [1b](../../../wet/woningwet/BWBR0005181/README.md), [7b](../../../wet/woningwet/BWBR0005181/README.md) of [13 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) onherroepelijk is geworden;  
+2°. ten behoeve van de uitvoering van een bouwplan, dan wel een plan van werken, geen bouwwerken zijnde, of een plan van werkzaamheden voor het opheffen van ernstig achterstallig onderhoud in het belang van de volkshuisvesting, mits een hierop betrekking hebbend besluit op grond van artikel 13 van de Woningwet dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom wegens overtreding van het bepaalde bij of krachtens artikel 1a, 1b, 7b of 13 van de Woningwet onherroepelijk is geworden;  
 
-3°. ten behoeve van de uitvoering van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het geldende bestemmingsplan is afgeweken;  
+3°. ten behoeve van de uitvoering van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het geldende bestemmingsplan is afgeweken;  
 
 4°. ten behoeve van de ontruiming van oppervlakten in het belang van de volkshuisvesting;  
 
 5°. ten behoeve van de verwijdering van een of meer ontruimde, onbewoonbaar verklaarde woningen of van een of meer niet meer in gebruik zijnde andere gebouwen, indien deze woningen of gebouwen dermate in verval zijn geraakt of verminkt, dat zij de omgeving in ernstige mate ontsieren;  
 
-6°. ten behoeve van de uitvoering van een besluit als bedoeld in [artikel 3.30](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), [3.33](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.35 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), alsmede met voorzieningen die met de uitvoering van zodanig besluit rechtstreeks verband houden;  
+6°. ten behoeve van de uitvoering van een besluit als bedoeld in artikel 3.30, 3.33 of 3.35 van de Wet ruimtelijke ordening, alsmede met voorzieningen die met de uitvoering van zodanig besluit rechtstreeks verband houden;  
 
-7°. van een gebouw als bedoeld in [artikel 14 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) ten behoeve van de handhaving van de openbare orde rond dat gebouw of van de [artikelen 2](../../../wet/opiumwet/BWBR0001941/README.md) en [3 van de Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md) in zodanig gebouw, indien de uitoefening van de bevoegdheden, bedoeld in artikel 14, eerste lid, van de Woningwet, geen uitzicht heeft geboden op een duurzaam herstel van de openbare orde rond dat gebouw welke is verstoord door gedragingen in het gebouw, onderscheidenlijk het duurzaam achterwege blijven van een overtreding van artikel 2 of 3 van de Opiumwet in dat gebouw;  
+7°. van een gebouw als bedoeld in artikel 14 van de Woningwet ten behoeve van de handhaving van de openbare orde rond dat gebouw of van de artikelen 2 en 3 van de Opiumwet in zodanig gebouw, indien de uitoefening van de bevoegdheden, bedoeld in artikel 14, eerste lid, van de Woningwet, geen uitzicht heeft geboden op een duurzaam herstel van de openbare orde rond dat gebouw welke is verstoord door gedragingen in het gebouw, onderscheidenlijk het duurzaam achterwege blijven van een overtreding van artikel 2 of 3 van de Opiumwet in dat gebouw;  
 
-8°. van een gebouw, een open erf of een terrein als bedoeld in [artikel 17 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) ten behoeve van het opheffen van een overtreding als bedoeld in dat artikel, indien de toepassing van de bevoegdheden, bedoeld in [artikel 14, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), geen uitzicht heeft geboden op het duurzaam achterwege blijven van een zodanige overtreding.     
+8°. van een gebouw, een open erf of een terrein als bedoeld in artikel 17 van de Woningwet ten behoeve van het opheffen van een overtreding als bedoeld in dat artikel, indien de toepassing van de bevoegdheden, bedoeld in artikel 14, eerste lid, van de Woningwet, geen uitzicht heeft geboden op het duurzaam achterwege blijven van een zodanige overtreding.     
 2.  In dit artikel wordt verstaan onder: 
 
 1°. bouwplan: een project tot het plaatsen, het geheel of gedeeltelijk oprichten, vernieuwen of veranderen alsmede het vergroten van een of meer bouwwerken;  
@@ -732,10 +732,10 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Artikel  78  
 
-1.  Onteigening ten name van een publiekrechtelijk lichaam of van een rechtspersoon met volledige rechtsbevoegdheid, toegelaten ingevolge [artikel 70](../../../wet/woningwet/BWBR0005181/README.md) of [70j van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), heeft op verzoek van het algemeen bestuur van dat lichaam, Onze Minister wie het aangaat of die rechtspersoon, plaats uit kracht van een koninklijk besluit. Alvorens omtrent het verzoek tot onteigening wordt beslist, wordt de Raad van State gehoord. Bij de indiening van het verzoek legt de verzoeker de stukken en gegevens, bedoeld in artikel 79, over aan Onze Minister wie het aangaat.   
-2.  Op de voorbereiding van het besluit tot onteigening is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. De in [artikel 3:12 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde kennisgeving wordt gedaan door de burgemeester van de gemeente waar de betrokken onroerende zaken zijn gelegen. Terinzagelegging geschiedt tevens binnen de gemeente waar de betrokken onroerende zaken zijn gelegen. In ieder geval worden ter inzage gelegd de in artikel 79 bedoelde stukken en gegevens.   
+1.  Onteigening ten name van een publiekrechtelijk lichaam of van een rechtspersoon met volledige rechtsbevoegdheid, toegelaten ingevolge artikel 70 of 70j van de Woningwet, heeft op verzoek van het algemeen bestuur van dat lichaam, Onze Minister wie het aangaat of die rechtspersoon, plaats uit kracht van een koninklijk besluit. Alvorens omtrent het verzoek tot onteigening wordt beslist, wordt de Raad van State gehoord. Bij de indiening van het verzoek legt de verzoeker de stukken en gegevens, bedoeld in artikel 79, over aan Onze Minister wie het aangaat.   
+2.  Op de voorbereiding van het besluit tot onteigening is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. De in artikel 3:12 van de Algemene wet bestuursrecht bedoelde kennisgeving wordt gedaan door de burgemeester van de gemeente waar de betrokken onroerende zaken zijn gelegen. Terinzagelegging geschiedt tevens binnen de gemeente waar de betrokken onroerende zaken zijn gelegen. In ieder geval worden ter inzage gelegd de in artikel 79 bedoelde stukken en gegevens.   
 3.  Mondelinge zienswijzen kunnen naar voren worden gebracht bij Onze Minister wie het aangaat.   
-4.  Alvorens op het verzoek tot onteigening wordt beslist, stelt Onze Minister wie het aangaat degenen die tijdig ingevolge [artikel 3:15, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een zienswijze naar voren hebben gebracht, in de gelegenheid gehoord te worden. Zo nodig kan Onze Minister ook andere belanghebbenden daartoe in de gelegenheid stellen.   
+4.  Alvorens op het verzoek tot onteigening wordt beslist, stelt Onze Minister wie het aangaat degenen die tijdig ingevolge artikel 3:15, eerste en tweede lid, van de Algemene wet bestuursrecht een zienswijze naar voren hebben gebracht, in de gelegenheid gehoord te worden. Zo nodig kan Onze Minister ook andere belanghebbenden daartoe in de gelegenheid stellen.   
 5.  Bij een koninklijk besluit tot onteigening worden de te onteigenen onroerende zaken en rechten aangewezen door aanhaling van de in artikel 79 bedoelde grondtekeningen en vermelding van: 
 
 1°. de kadastrale aanduiding van de onroerende zaken met vermelding van de grootte volgens de basisregistratie kadaster van elk van de desbetreffende percelen en, indien een te onteigenen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte;  
@@ -743,8 +743,8 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 2°. bij afzonderlijke onteigening als bedoeld in artikel 4, eerste lid, de kadastrale aanduiding van de onroerende zaken waarop de te onteigenen rechten rusten;  
 
 3°. de namen volgens de basisregistratie kadaster van de eigenaren van de te onteigenen onroerende zaken en, bij afzonderlijke onteigening als bedoeld in artikel 4, eerste lid, van de rechthebbenden op de te onteigenen rechten.     
-6.  Het koninklijk besluit wordt genomen binnen zes maanden na afloop van de termijn gedurende welke het ontwerpbesluit met de bijbehorende stukken ingevolge [artikel 3:11, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter inzage heeft gelegen. Het besluit wordt bekend gemaakt aan de verzoeker en aan de in het vijfde lid, onder 3°, bedoelde eigenaren en andere rechthebbenden.   
-7.  Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant. Terinzagelegging ingevolge [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt tevens plaats binnen de gemeente, bedoeld in het tweede lid. De burgemeester geeft tevens kennis van de zakelijke inhoud van het besluit in een of meer dag-, nieuws-, of huis-aan-huisbladen die in de gemeente verspreid worden, onder vermelding van datum en nummer van het koninklijk besluit en van de Staatscourant waarin het besluit is geplaatst. Een en ander geschiedt op kosten van hen ten name van wie het werk wordt uitgevoerd.   
+6.  Het koninklijk besluit wordt genomen binnen zes maanden na afloop van de termijn gedurende welke het ontwerpbesluit met de bijbehorende stukken ingevolge artikel 3:11, vierde lid, van de Algemene wet bestuursrecht ter inzage heeft gelegen. Het besluit wordt bekend gemaakt aan de verzoeker en aan de in het vijfde lid, onder 3°, bedoelde eigenaren en andere rechthebbenden.   
+7.  Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant. Terinzagelegging ingevolge artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht vindt tevens plaats binnen de gemeente, bedoeld in het tweede lid. De burgemeester geeft tevens kennis van de zakelijke inhoud van het besluit in een of meer dag-, nieuws-, of huis-aan-huisbladen die in de gemeente verspreid worden, onder vermelding van datum en nummer van het koninklijk besluit en van de Staatscourant waarin het besluit is geplaatst. Een en ander geschiedt op kosten van hen ten name van wie het werk wordt uitgevoerd.   
 8.  Het koninklijk besluit tot onteigening vervalt, indien de onteigenende partij niet binnen twee jaar na dagtekening van het koninklijk besluit de eigendom bij minnelijke overeenkomst heeft verkregen overeenkomstig artikel 17, of de in het onteigeningsbesluit aangewezen eigenaren voor de rechtbank in het arrondissement waar de betrokken onroerende zaken zijn gelegen, heeft doen dagvaarden overeenkomstig artikel 18.  
 
 ### Artikel  79  
@@ -779,7 +779,7 @@ De artikelen 2, 3, 4, 17 tot en met 20, 22 tot en met 61, en 64b, tweede en derd
 
 a. wanneer de onteigening geschiedt ten name van een publiekrechtelijk lichaam of een rechtspersoon als bedoeld in artikel 78, eerste lid, dat lichaam of die rechtspersoon als eisende partij optreedt;  
 
-b. het verzoek, bedoeld in artikel 54a, kan worden gedaan, zodra de terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) heeft plaats gehad en bij het verzoekschrift, in plaats van de in artikel 54a, tweede lid, onder a tot en met d, genoemde stukken en gegevens een afschrift van het koninklijk besluit moet worden overgelegd.   
+b. het verzoek, bedoeld in artikel 54a, kan worden gedaan, zodra de terinzagelegging overeenkomstig artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht heeft plaats gehad en bij het verzoekschrift, in plaats van de in artikel 54a, tweede lid, onder a tot en met d, genoemde stukken en gegevens een afschrift van het koninklijk besluit moet worden overgelegd.   
 
 ### Artikel  81  
 
@@ -788,7 +788,7 @@ b. het verzoek, bedoeld in artikel 54a, kan worden gedaan, zodra de terinzageleg
 
 ### Artikel  82  
 
-1.  Indien aan een besluit als bedoeld in [artikel 13 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), strekkende tot het treffen van bepaalde voorzieningen aan een gebouw of een daartoe strekkend besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom wegens niet-naleving van het bepaalde bij of krachtens [artikel 1a](../../../wet/woningwet/BWBR0005181/README.md), [1b](../../../wet/woningwet/BWBR0005181/README.md), [7b](../../../wet/woningwet/BWBR0005181/README.md) of 13 van de Woningwet geen gevolg wordt gegeven, wordt vergoed de waarde die het gebouw zou hebben in het geval zodanige voorzieningen waren getroffen, met aftrek van de kosten van het treffen van die voorzieningen.   
+1.  Indien aan een besluit als bedoeld in artikel 13 van de Woningwet, strekkende tot het treffen van bepaalde voorzieningen aan een gebouw of een daartoe strekkend besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom wegens niet-naleving van het bepaalde bij of krachtens artikel 1a, 1b, 7b of 13 van de Woningwet geen gevolg wordt gegeven, wordt vergoed de waarde die het gebouw zou hebben in het geval zodanige voorzieningen waren getroffen, met aftrek van de kosten van het treffen van die voorzieningen.   
 2.  Indien het gebouw door een groter aantal personen wordt bewoond dan volgens plaatselijke verordening geoorloofd is, wordt bij het bepalen van de werkelijke waarde geen rekening gehouden met de vermeerdering van huurprijs die uit die overschrijding voortvloeit.  
 
 ### Titel  V  
@@ -806,7 +806,7 @@ Onteigening van octrooien kan ten name van den Staat plaats vinden:
 ### Artikel  98  
 
 1.  De onteigening heeft plaats krachtens eene wet, waarin het te onteigenen octrooi wordt aangeduid onder vermelding of het geval van het vorige artikel sub 1°., dan wel het geval sub 2°. aanwezig is.    
-2.  Zodra het voorstel van wet is ingediend, wordt het aan het Bureau voor de industriële eigendom, bedoeld in artikel 4 van de wet van 25 april 1963 (Stb. 221), toegezonden. Het bureau maakt in het eerstvolgende nummer van het blad, bedoeld in [artikel 20, eerste lid, van de Rijksoctrooiwet 1995](../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md), die indiening bekend met beknopte aanduiding van het te onteigenen octrooi en met vermelding van het nummer waaronder de desbetreffende Kamerstukken zijn verschenen.  
+2.  Zodra het voorstel van wet is ingediend, wordt het aan het Bureau voor de industriële eigendom, bedoeld in artikel 4 van de wet van 25 april 1963 (Stb. 221), toegezonden. Het bureau maakt in het eerstvolgende nummer van het blad, bedoeld in artikel 20, eerste lid, van de Rijksoctrooiwet 1995, die indiening bekend met beknopte aanduiding van het te onteigenen octrooi en met vermelding van het nummer waaronder de desbetreffende Kamerstukken zijn verschenen.  
 
 ### Artikel  99  
 
@@ -861,17 +861,17 @@ Bijaldien door Ons wordt besloten, dat er geen aanleiding bestaat tot onteigenin
 
 ### Artikel  122  
 
-1.  Onteigening kan plaatsvinden van onroerende zaken en rechten, waarover de beschikking moet worden verkregen ter verwezenlijking van een inrichtingsplan als bedoeld in [artikel 17, eerste lid, van de Wet inrichting landelijk gebied](../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md) of ter verwezenlijking van een reconstructieplan als bedoeld in [hoofdstuk 2 van de Reconstructiewet concentratiegebieden](../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md). Onteigening geschiedt ten name van de provincie waarvan gedeputeerde staten het inrichtingsplan of reconstructieplan hebben vastgesteld.   
+1.  Onteigening kan plaatsvinden van onroerende zaken en rechten, waarover de beschikking moet worden verkregen ter verwezenlijking van een inrichtingsplan als bedoeld in artikel 17, eerste lid, van de Wet inrichting landelijk gebied of ter verwezenlijking van een reconstructieplan als bedoeld in hoofdstuk 2 van de Reconstructiewet concentratiegebieden. Onteigening geschiedt ten name van de provincie waarvan gedeputeerde staten het inrichtingsplan of reconstructieplan hebben vastgesteld.   
 2.  Onteigening geschiedt op verzoek van gedeputeerde staten, uit kracht van een koninklijk besluit. Alvorens omtrent het verzoek tot onteigening wordt beslist, wordt de Raad van State gehoord. Gedeputeerde staten sturen het verzoek tot onteigening in bij Onze Minister van Economische Zaken en leggen daarbij de stukken en gegevens, bedoeld in artikel 63, tweede lid, over.   
-3.  Gedeputeerde staten kunnen verzoeken dat de onteigening niet geschiedt ten name van de provincie maar ten name van het bureau beheer landbouwgronden, bedoeld in [artikel 28 van de Wet agrarisch grondverkeer](../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md).  
+3.  Gedeputeerde staten kunnen verzoeken dat de onteigening niet geschiedt ten name van de provincie maar ten name van het bureau beheer landbouwgronden, bedoeld in artikel 28 van de Wet agrarisch grondverkeer.  
 
 ### Artikel  123  
 
-De artikelen 63, eerste, tweede en vierde lid, 64, 64a en 64b zijn van toepassing, met dien verstande dat gedeputeerde staten van de provincie die het inrichtingsplan hebben vastgesteld, toepassing geven aan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en dat in artikel 63, vierde lid, telkens in plaats van «Onze Minister» wordt gelezen «gedeputeerde staten», terwijl in de slotzin van artikel 63, vierde lid, in plaats van «kan» wordt gelezen «kunnen». 
+De artikelen 63, eerste, tweede en vierde lid, 64, 64a en 64b zijn van toepassing, met dien verstande dat gedeputeerde staten van de provincie die het inrichtingsplan hebben vastgesteld, toepassing geven aan afdeling 3.4 van de Algemene wet bestuursrecht, en dat in artikel 63, vierde lid, telkens in plaats van «Onze Minister» wordt gelezen «gedeputeerde staten», terwijl in de slotzin van artikel 63, vierde lid, in plaats van «kan» wordt gelezen «kunnen». 
 
 ### Artikel  124  
 
-Gedeputeerde staten zenden het verslag bedoeld in [artikel 3:17, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de schriftelijk naar voren gebrachte zienswijzen als bedoeld in artikel 63, vierde lid, alsmede hun mening daaromtrent aan Onze Minister van Economische Zaken. 
+Gedeputeerde staten zenden het verslag bedoeld in artikel 3:17, van de Algemene wet bestuursrecht, de schriftelijk naar voren gebrachte zienswijzen als bedoeld in artikel 63, vierde lid, alsmede hun mening daaromtrent aan Onze Minister van Economische Zaken. 
 
 ### Titel  VIIa  
 
@@ -879,8 +879,8 @@ Gedeputeerde staten zenden het verslag bedoeld in [artikel 3:17, van de Algemene
 
 ### Artikel  125  
 
-1.  Onze Minister van Veiligheid en Justitie en Onze Minister van Infrastructuur en Milieu zenden binnen drie jaar na de inwerkingtreding van de [Crisis- en herstelwet](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de [artikelen 3.9](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [3.10, onderdeel D](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [3.12, onderdeel C](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [3.13](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [3.14](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [3.23](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) en [3.24, onderdeel D, van die wet](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md).   
-2.  Binnen vijf jaar na de inwerkingtreding van de [Crisis- en herstelwet](../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) wordt een voorstel van wet tot regeling van de in het eerste lid bedoelde onderwerpen ingediend bij de Staten-Generaal.  
+1.  Onze Minister van Veiligheid en Justitie en Onze Minister van Infrastructuur en Milieu zenden binnen drie jaar na de inwerkingtreding van de Crisis- en herstelwet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de artikelen 3.9, 3.10, onderdeel D, 3.12, onderdeel C, 3.13, 3.14, 3.23 en 3.24, onderdeel D, van die wet.   
+2.  Binnen vijf jaar na de inwerkingtreding van de Crisis- en herstelwet wordt een voorstel van wet tot regeling van de in het eerste lid bedoelde onderwerpen ingediend bij de Staten-Generaal.  
 
 ### Titel  VIII  
 
@@ -892,7 +892,7 @@ Vervallen per 01-07-2005
 
 ### Artikel  155  
 
-Op de gevallen, waarin volgens art. 186 der [Grondwet](../../../wet/grondwet/BWBR0001840/README.md) moet worden voorzien, is deze wet niet toepasselijk.  
+Op de gevallen, waarin volgens art. 186 der Grondwet moet worden voorzien, is deze wet niet toepasselijk.  
 
 ### Artikel  156  
 

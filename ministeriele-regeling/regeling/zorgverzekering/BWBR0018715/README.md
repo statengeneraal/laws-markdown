@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid,
 
-Gelet op de [artikelen 32, vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [35, vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [38, tweede lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [39, vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [40, vijfde, tiende en elfde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [43, tweede lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [45, tweede en vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [46, eerste lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [47](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [50, vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [52](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [53](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [59, negende lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [68, eerste tot en met vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [69, tweede en vijfde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [70, elfde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [75, derde en vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [87, derde en zesde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [88, vierde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [89, zesde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [106, derde lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [118, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [artikelen 2.4, tweede en derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.7, zesde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md),[ 2.8, eerste, tweede, vijfde en zesde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.9](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.12, tweede lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.14, tweede lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.16](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.1, tweede lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.3, derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.4, tweede lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5, derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6, derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.8, vierde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.9, eerste, derde, vierde en vijfde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.10, eerste en tweede lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.11, eerste tot en met derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.12, eerste tot en met derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.15 derde lid](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [3.17 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);
+Gelet op de artikelen 32, vierde lid, 35, vierde lid, 38, tweede lid, 39, vierde lid, 40, vijfde, tiende en elfde lid, 43, tweede lid, 45, tweede en vierde lid, 46, eerste lid, 47, 50, vierde lid, 52, 53, 59, negende lid, 68, eerste tot en met vierde lid, 69, tweede en vijfde lid, 70, elfde lid, 75, derde en vierde lid, 87, derde en zesde lid, 88, vierde lid, 89, zesde lid, 106, derde lid, 118, eerste lid, van de Zorgverzekeringswet en de artikelen 2.4, tweede en derde lid, 2.7, zesde lid, 2.8, eerste, tweede, vijfde en zesde lid, 2.9, 2.12, tweede lid, 2.14, tweede lid, 2.16, 3.1, tweede lid, 3.3, derde lid, 3.4, tweede lid, 3.5, derde lid, 3.6, derde lid, 3.8, vierde lid, 3.9, eerste, derde, vierde en vijfde lid, 3.10, eerste en tweede lid, 3.11, eerste tot en met derde lid, 3.12, eerste tot en met derde lid, 3.15 derde lid en 3.17 van het Besluit zorgverzekering;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,17 +17,17 @@ Besluit:
 
 a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. specialité: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet op de Geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md);  
+b. specialité: een geneesmiddel als bedoeld in artikel 1, eerste lid, onderdeel h, van de Wet op de Geneesmiddelenvoorziening;  
 
-c. preparaat: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wet op de Geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md);  
+c. preparaat: een geneesmiddel als bedoeld in artikel 1, eerste lid, onderdeel i, van de Wet op de Geneesmiddelenvoorziening;  
 
 d. branded generic: een specialité die in de handel wordt gebracht onder een benaming waarin de stofnaam is vermeld en waaraan een merkaanduiding is toegevoegd;  
 
 e. combinatiepreparaat: een geneesmiddel dat meer dan één werkzaam bestanddeel bevat;  
 
-f. deel IB van het registerdossier: het registerblad, inhoudende de gegevens, bedoeld in [artikel 2, eerste lid, onderdeel h, van het Besluit registratie geneesmiddelen](../../../../AMvB/besluit/registratie/geneesmiddelen/BWBR0003114/README.md), of het registerblad, bedoeld in deel I, onderdeel B, van de bijlage van de richtlijn nr. 75/318/EEG van de Raad van de Europese Gemeenschappen van 20 mei 1975 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake de analytische, toxicologisch-farmacologische en klinische normen en voorschriften betreffende proeven op farmaceutische specialiteiten (PbEG L 147/1);  
+f. deel IB van het registerdossier: het registerblad, inhoudende de gegevens, bedoeld in artikel 2, eerste lid, onderdeel h, van het Besluit registratie geneesmiddelen, of het registerblad, bedoeld in deel I, onderdeel B, van de bijlage van de richtlijn nr. 75/318/EEG van de Raad van de Europese Gemeenschappen van 20 mei 1975 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake de analytische, toxicologisch-farmacologische en klinische normen en voorschriften betreffende proeven op farmaceutische specialiteiten (PbEG L 147/1);  
 
-g. registratiehouder: degene op wiens naam een geneesmiddel in het register, bedoeld in [artikel 3, eerste lid, van de Wet op de Geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) staat ingeschreven dan wel degene die voor een geneesmiddel een vergunning heeft ingevolge de Verordening (EEG) nr. 2309/93 van de Raad van de Europese Gemeenschappen van 22 juli 1993 tot vaststelling van communautaire procedures voor het verlenen van vergunningen voor en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees bureau voor de geneesmiddelenbeoordeling (PbEG L 214);  
+g. registratiehouder: degene op wiens naam een geneesmiddel in het register, bedoeld in artikel 3, eerste lid, van de Wet op de Geneesmiddelenvoorziening staat ingeschreven dan wel degene die voor een geneesmiddel een vergunning heeft ingevolge de Verordening (EEG) nr. 2309/93 van de Raad van de Europese Gemeenschappen van 22 juli 1993 tot vaststelling van communautaire procedures voor het verlenen van vergunningen voor en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees bureau voor de geneesmiddelenbeoordeling (PbEG L 214);  
 
 h. Taxe: de Taxe, uitgegeven door de Z-index B.V.;  
 
@@ -47,15 +47,15 @@ o. *de rekening-couranthouder*: het Zorginstituut;
 
 p. *Euribor*: de dagelijks door de European Banking Federation vastgestelde rente waartegen op de geldmarkt interbancair deposito’s in euro’s van verschillende looptijden worden aangeboden in landen waar de euro betaalmiddel is; 
 
-q. *prestatie*: een prestatie als omschreven bij of krachtens [artikel 11 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md); 
+q. *prestatie*: een prestatie als omschreven bij of krachtens artikel 11 van de Zorgverzekeringswet; 
 
 r. *prestatiebeschrijving*: 
 
-1°. een beschrijving van de prestatie zoals die op grond van de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voor een zorgaanbieder is vastgesteld dan wel  
+1°. een beschrijving van de prestatie zoals die op grond van de Wet marktordening gezondheidszorg voor een zorgaanbieder is vastgesteld dan wel  
 
-2°. een beschrijving van de prestatie zoals die tussen de verzekerde en de zorgaanbieder is overeengekomen indien voor die zorgaanbieder niet een prestatiebeschrijving op grond van de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) behoeft te worden vastgesteld;    
+2°. een beschrijving van de prestatie zoals die tussen de verzekerde en de zorgaanbieder is overeengekomen indien voor die zorgaanbieder niet een prestatiebeschrijving op grond van de Wet marktordening gezondheidszorg behoeft te worden vastgesteld;    
 
-s. *declaratieregeling*: een regeling bedoeld in [artikel 38, derde lid, onder b, van de Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+s. *declaratieregeling*: een regeling bedoeld in artikel 38, derde lid, onder b, van de Wet marktordening gezondheidszorg;  
 
 t. *formele controle*: een onderzoek waarbij de zorgverzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht: 
 
@@ -65,13 +65,13 @@ t. *formele controle*: een onderzoek waarbij de zorgverzekeraar nagaat of het ta
 
 3°. een prestatie betreft, tot levering waarvan de zorgaanbieder bevoegd is, en  
 
-4°. het tarief betreft, dat voor die prestatie krachtens de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) is vastgesteld of een tarief is dat voor die prestatie met de zorgaanbieder is overeengekomen;    
+4°. het tarief betreft, dat voor die prestatie krachtens de Wet marktordening gezondheidszorg is vastgesteld of een tarief is dat voor die prestatie met de zorgaanbieder is overeengekomen;    
 
 u. *materiële controle*: een onderzoek waarbij de zorgverzekeraar nagaat of de door de zorgaanbieder in rekening gebrachte prestatie is geleverd en die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde;  
 
 v. *fraudeonderzoek*: een onderzoek waarbij de zorgverzekeraar nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van bij de totstandkoming of uitvoering van een overeenkomst van zorgverzekering betrokken personen en organisaties met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben;  
 
-w. *verhaalsrecht*: het recht van de verzekeraar op grond van [artikel 962 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;  
+w. *verhaalsrecht*: het recht van de verzekeraar op grond van artikel 962 van Boek 7 van het Burgerlijk Wetboek de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;  
 
 x. *detailcontrole:* onderzoek door de zorgverzekeraar naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle of fraudeonderzoek;  
 
@@ -79,9 +79,9 @@ y. *algemene risicoanalyse*: een analyse die erop is gericht te bepalen op welke
 
 z. *specifieke risicoanalyse:* een analyse die erop is gericht te bepalen op welke gegevens en op welke zorgaanbieders of categorieën van zorgaanbieders de detailcontrole zich zal richten;  
 
-aa. *bewerker:* degene bedoeld in [artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); 
+aa. *bewerker:* degene bedoeld in artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens; 
 
-bb.*grensoverschrijdende zorg:* zorg waarop de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) recht geeft en die verzekerden buiten Nederland hebben genoten;
+bb.*grensoverschrijdende zorg:* zorg waarop de Zorgverzekeringswet recht geeft en die verzekerden buiten Nederland hebben genoten;
 
 cc. rapport *zorgvraagzwaarte:* Rapport Zorgvraagzwaarte GGZ; Eindadvies werkgroep zorgvraagzwaarte; Definitieve versie (1.0), bijlage bij Kamerstukken II 2013/14, 25 424, nr. 229;  
 
@@ -102,7 +102,7 @@ dd.  *zorgvraagzwaarte:* zorgvraagzwaarte zoals beschreven in het rapport zorgvr
 
 ### Artikel  2.1  
 
-De zorg bedoeld in [artikel 2.4 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) omvat niet: 
+De zorg bedoeld in artikel 2.4 van het Besluit zorgverzekering omvat niet: 
 
 a. behandeling van bovenoogleden die verlamd of verslapt zijn, anders dan als gevolg van een aangeboren afwijking of van een bij de geboorte aanwezige chronische aandoening;  
 
@@ -126,7 +126,7 @@ j. behandeling van plagiocefalie en brachycefalie zonder craniosynostose met een
 
 ### Artikel  2.2  
 
-De zorg, bedoeld in [artikel 2.4 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) omvat tevens: 
+De zorg, bedoeld in artikel 2.4 van het Besluit zorgverzekering omvat tevens: 
 
 a. tot 1 januari 2016 behandeling van chronische aspecifieke lage rugklachten met toepassing van anaesthesiologische pijnbestrijdingstechnieken, indien de verzekerde deelneemt aan het onderzoek dat door ZonMw wordt gefinancierd;  
 
@@ -261,7 +261,7 @@ b.hulpmiddelen ter volledige of gedeeltelijke vervanging of bedekking van:
 
 a. zuurstof;  
 
-b. stoffen die gecertificeerd zijn als medisch hulpmiddel in de zin van de [Wet op de medische hulpmiddelen](../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md).     
+b. stoffen die gecertificeerd zijn als medisch hulpmiddel in de zin van de Wet op de medische hulpmiddelen.     
 2.  De zorg, bedoeld in het eerste lid, omvat ingeval van zuurstofapparatuur tevens vergoeding van stroomkosten.   
 3.  De zorg, bedoeld in het eerste lid, omvat niet: 
 
@@ -423,7 +423,7 @@ i. infuusstandaarden.
 
 ### Artikel  2.22  
 
-Hulpmiddelen als bedoeld in artikel 2.6, onderdeel p, omvatten draagbare, uitwendige infuuspompen met toebehoren, indien sprake is van continue parenterale toediening in de thuissituatie van een geneesmiddel dat valt onder de farmaceutische zorg, bedoeld in [artikel 2.8 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), met uitzondering van insuline. 
+Hulpmiddelen als bedoeld in artikel 2.6, onderdeel p, omvatten draagbare, uitwendige infuuspompen met toebehoren, indien sprake is van continue parenterale toediening in de thuissituatie van een geneesmiddel dat valt onder de farmaceutische zorg, bedoeld in artikel 2.8 van het Besluit zorgverzekering, met uitzondering van insuline. 
 
 ### Artikel  2.23  
 
@@ -486,9 +486,9 @@ b. vergoeding van overige redelijk te achten kosten die rechtstreeks met de thui
 
 ### Artikel  2.31  
 
-1.  De eigen bijdrage voor zorg als bedoeld in [artikel 2.7, eerste lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor zover het gaat om zorg die niet rechtstreeks in verband staat met de indicatie voor bijzondere tandheelkundige hulp, bedraagt een bedrag ter grootte van het bedrag dat bij de desbetreffende verzekerde in rekening zou worden gebracht indien artikel 2.7, eerste lid, van het Besluit zorgverzekering niet van toepassing is.   
+1.  De eigen bijdrage voor zorg als bedoeld in artikel 2.7, eerste lid, van het Besluit zorgverzekering, voor zover het gaat om zorg die niet rechtstreeks in verband staat met de indicatie voor bijzondere tandheelkundige hulp, bedraagt een bedrag ter grootte van het bedrag dat bij de desbetreffende verzekerde in rekening zou worden gebracht indien artikel 2.7, eerste lid, van het Besluit zorgverzekering niet van toepassing is.   
 2.  Indien de zorg, bedoeld in het eerste lid, een uitneembare volledige prothetische voorziening dan wel een uitneembare volledige prothetische voorziening te plaatsen op tandheelkundige implantaten betreft, bedraagt de eigen bijdrage € 125.   
-3.  De eigen bijdrage bedraagt voor een uitneembare volledige prothetische voorziening, bedoeld in [artikel 2.7, vijfde lid, onderdeel b, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), vijfentwintig procent van de kosten van die voorziening.  
+3.  De eigen bijdrage bedraagt voor een uitneembare volledige prothetische voorziening, bedoeld in artikel 2.7, vijfde lid, onderdeel b, van het Besluit zorgverzekering, vijfentwintig procent van de kosten van die voorziening.  
 
 ### Artikel  2.32  
 
@@ -524,7 +524,7 @@ b. € 71 per paar, indien de verzekerde jonger is dan zestien jaar, vermeerder
 
 ### Artikel  2.37  
 
-1.  Het bedrag, bedoeld in [artikel 2.14, tweede lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), bedraagt € 0,31 per kilometer.   
+1.  Het bedrag, bedoeld in artikel 2.14, tweede lid, van het Besluit zorgverzekering, bedraagt € 0,31 per kilometer.   
 2.  De eigen bijdrage voor ziekenvervoer bedraagt € 96 per kalenderjaar.   
 3.  De eigen bijdrage is niet verschuldigd: 
 
@@ -546,7 +546,7 @@ Vervallen per 01-01-2013
 
 ### Artikel  2.39  
 
-Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en bij de toepassing van deze paragraaf wordt uitsluitend acht geslagen op: 
+Bij de aanwijzing op grond van artikel 2.8 van het Besluit zorgverzekering en bij de toepassing van deze paragraaf wordt uitsluitend acht geslagen op: 
 
 a. deel IB van het registerdossier,  
 
@@ -558,7 +558,7 @@ d. publicaties in tijdschriften die in medisch-farmaceutische kringen als betrou
 
 e. gegevens afkomstig van farmaco-economisch onderzoek, en  
 
-f. andere gegevens en bescheiden die voldoen aan de regels ingevolge [artikel 2, zesde lid, van het Besluit registratie geneesmiddelen](../../../../AMvB/besluit/registratie/geneesmiddelen/BWBR0003114/README.md).   
+f. andere gegevens en bescheiden die voldoen aan de regels ingevolge artikel 2, zesde lid, van het Besluit registratie geneesmiddelen.   
 
 ### Artikel  2.40  
 
@@ -657,15 +657,15 @@ Voor zover de toepassing van de artikelen 2.40 tot en met 2.47 naar het oordeel 
 
 ### Artikel  2.50  
 
-1.  De registratiehouder kan bij de Minister een aanvraag indienen om een geneesmiddel aan te wijzen ingevolge [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md).   
+1.  De registratiehouder kan bij de Minister een aanvraag indienen om een geneesmiddel aan te wijzen ingevolge artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering.   
 2.  De aanvraag geschiedt met gebruikmaking van een door de Minister vast te stellen formulier. Daarbij worden de gegevens en de bescheiden verschaft die voor de beslissing op de aanvraag nodig zijn. De datum van ontvangst wordt aan de aanvrager meegedeeld.   
 3.  Indien de overgelegde gegevens en bescheiden onvoldoende zijn, stelt de Minister de aanvrager in de gelegenheid binnen een door hem te bepalen termijn de aanvraag aan te vullen.   
 4.  De Minister hoort over de aanvraag het Zorginstituut.   
 5.  De Minister beslist binnen 90 dagen na ontvangst van de aanvraag. Deze termijn wordt opgeschort met ingang van de dag waarop de Minister de aanvrager uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.   
 6.  De inhoud van het voorgenomen besluit, voor zover betrekking hebbend op de aanvraag, wordt aan de aanvrager meegedeeld. Daarbij wordt tevens het oordeel van het Zorginstituut toegezonden en wordt de motivering vermeld, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat. Aan de aanvrager wordt meegedeeld welke rechtsmiddelen hem ter beschikking staan.   
 7.  Het tweede tot en met het zesde lid zijn van overeenkomstige toepassing indien de registratiehouder verzoekt om herziening van een besluit ingevolge het eerste lid en hij daartoe nieuw gebleken feiten of veranderde omstandigheden aanvoert.   
-8.  Indien de Minister voornemens is een geneesmiddel ambtshalve aan te wijzen ingevolge [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) dan wel zodanige aanwijzing te wijzigen, deelt hij de registratiehouder uiterlijk een maand voor de beoogde datum van inwerkingtreding de zakelijke inhoud van het voorgenomen besluit mede. Het vierde en zesde lid zijn van overeenkomstige toepassing.   
-9.  Indien het een geneesmiddel betreft met dezelfde werkzame bestanddelen, van dezelfde sterkte en in dezelfde farmaceutische vorm als een geneesmiddel dat reeds ingevolge [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) is aangewezen, zijn het tweede tot en met vierde lid, het zesde lid, tweede volzin, en het zevende en achtste lid niet van toepassing.  
+8.  Indien de Minister voornemens is een geneesmiddel ambtshalve aan te wijzen ingevolge artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering dan wel zodanige aanwijzing te wijzigen, deelt hij de registratiehouder uiterlijk een maand voor de beoogde datum van inwerkingtreding de zakelijke inhoud van het voorgenomen besluit mede. Het vierde en zesde lid zijn van overeenkomstige toepassing.   
+9.  Indien het een geneesmiddel betreft met dezelfde werkzame bestanddelen, van dezelfde sterkte en in dezelfde farmaceutische vorm als een geneesmiddel dat reeds ingevolge artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering is aangewezen, zijn het tweede tot en met vierde lid, het zesde lid, tweede volzin, en het zevende en achtste lid niet van toepassing.  
 
 ### Hoofdstuk  3  
 
@@ -675,7 +675,7 @@ Voor zover de toepassing van de artikelen 2.40 tot en met 2.47 naar het oordeel 
 
 1.  De zorgverzekeraar neemt in ieder geval in zijn uitvoeringsverslag op: 
 
-a. het profiel, de organisatiestructuur en het gevoerde en voorgenomen beleid bij de uitvoering van de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+a. het profiel, de organisatiestructuur en het gevoerde en voorgenomen beleid bij de uitvoering van de Zorgverzekeringswet;  
 
 b. de wijze waarop hij uitvoering geeft aan de zorgplicht;  
 
@@ -685,9 +685,9 @@ d. de wijze waarop hij de afhandeling van klachten van de verzekerden heeft geor
 
 e. de wijze waarop hij uitvoering geeft aan gedragscodes waaraan hij zich heeft verbonden;  
 
-f. of hij het Protocol incassotraject wanbetalers [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) is nagekomen, en zo nee, welke onderdelen niet, waarom niet, en wat hij in de plaats van die onderdelen aan incassowerkzaamheden heeft verricht;  
+f. of hij het Protocol incassotraject wanbetalers Zorgverzekeringswet is nagekomen, en zo nee, welke onderdelen niet, waarom niet, en wat hij in de plaats van die onderdelen aan incassowerkzaamheden heeft verricht;  
 
-g. algemene gegevens over de honorering van directie en bestuur van de zorgverzekeraar voor de uitvoering van de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  
+g. algemene gegevens over de honorering van directie en bestuur van de zorgverzekeraar voor de uitvoering van de Zorgverzekeringswet  
 
 h. gegevens over zijn relaties met aanbieder van zorg en de wijze waarop hij stuurt op de kwaliteit van door hen geleverde zorg.     
 2.  Het uitvoeringsverslag wordt, voor zover het gaat om de in het vorige lid genoemde aspecten, ingericht overeenkomstig een door de zorgautoriteit beschikbaar te stellen model.  
@@ -698,11 +698,11 @@ h. gegevens over zijn relaties met aanbieder van zorg en de wijze waarop hij stu
 
 ### Artikel  4.1  
 
-De reserve, bedoeld in [artikel 39, vierde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt vastgesteld op nihil. 
+De reserve, bedoeld in artikel 39, vierde lid, van de Zorgverzekeringswet wordt vastgesteld op nihil. 
 
 ### Artikel  4.2  
 
-In de centrale administratie van ’s rijks schatkist wordt een rekening-courant geopend op naam van het Zorginstituut ten behoeve van de financiële middelen van het Zorgverzekeringsfonds op grond van [artikel 40, tweede lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
+In de centrale administratie van ’s rijks schatkist wordt een rekening-courant geopend op naam van het Zorginstituut ten behoeve van de financiële middelen van het Zorgverzekeringsfonds op grond van artikel 40, tweede lid, van de Zorgverzekeringswet. 
 
 ### Artikel  4.3  
 
@@ -736,8 +736,8 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen
 
 ### Artikel  4.7  
 
-1.  De Minister van Volksgezondheid, Welzijn en Sport voert ten behoeve van de beoordeling van de rechtmatigheid van de verstrekkingen van uitkeringen als bedoeld in [artikel 118a, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) een statistische steekproef uit.   
-2.  Bij de accountantscontrole van de jaarrekening, bedoeld in het [74, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) worden de resultaten van de steekproef, bedoeld in het eerste lid, betrokken.  
+1.  De Minister van Volksgezondheid, Welzijn en Sport voert ten behoeve van de beoordeling van de rechtmatigheid van de verstrekkingen van uitkeringen als bedoeld in artikel 118a, eerste lid, van de Zorgverzekeringswet een statistische steekproef uit.   
+2.  Bij de accountantscontrole van de jaarrekening, bedoeld in het 74, eerste lid, van de Zorgverzekeringswet worden de resultaten van de steekproef, bedoeld in het eerste lid, betrokken.  
 
 ### Hoofdstuk  5  
 
@@ -745,29 +745,29 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen
 
 ### Artikel  5.1  
 
-1.  Het in [artikel 42, eerste lid, onderdeel b, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) bedoelde tijdstip is de eerste dag van de kalendermaand volgende op de maand waarin de verzekeringsplichtige de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, met dien verstande dat dit tijdstip gelijk is aan de datum waarop een definitieve vaststelling van een bijstandsuitkering als bedoeld in [artikel 5, aanhef, en onder a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), of van een uitkering als bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/etc/BWBR0004163/README.md) plaatsvindt, indien dat tijdstip later ligt dan eerstbedoeld tijdstip.   
-2.  De in [artikel 42, eerste lid, onderdeel b, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) bedoelde bestanddelen van het loon zijn: 
+1.  Het in artikel 42, eerste lid, onderdeel b, van de Zorgverzekeringswet bedoelde tijdstip is de eerste dag van de kalendermaand volgende op de maand waarin de verzekeringsplichtige de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, met dien verstande dat dit tijdstip gelijk is aan de datum waarop een definitieve vaststelling van een bijstandsuitkering als bedoeld in artikel 5, aanhef, en onder a, van de Wet werk en bijstand, of van een uitkering als bedoeld in de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen plaatsvindt, indien dat tijdstip later ligt dan eerstbedoeld tijdstip.   
+2.  De in artikel 42, eerste lid, onderdeel b, van de Zorgverzekeringswet bedoelde bestanddelen van het loon zijn: 
 
-a. uitkeringen ingevolge een pensioenregeling of regeling voor vervroegde uittreding als bedoeld in de [Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), niet zijnde een uitkering ingevolge een regeling voor vervroegde uittreding die vóór 1 januari 2006 is ingegaan en op grond waarvan de uitkeringsgerechtigde ingevolge [artikel 1, onderdeel g, van het Aanwijzingsbesluit verzekerden Zfw](../../../../AMvB/aanwijzingsbesluit/verzekerden/zfw/BWBR0002516/README.md) verzekerd was ingevolge de [Ziekenfondswet](../../../../wet/ziekenfondswet/BWBR0002460/README.md);  
+a. uitkeringen ingevolge een pensioenregeling of regeling voor vervroegde uittreding als bedoeld in de Wet op de loonbelasting 1964, niet zijnde een uitkering ingevolge een regeling voor vervroegde uittreding die vóór 1 januari 2006 is ingegaan en op grond waarvan de uitkeringsgerechtigde ingevolge artikel 1, onderdeel g, van het Aanwijzingsbesluit verzekerden Zfw verzekerd was ingevolge de Ziekenfondswet;  
 
-b. uitkeringen of pensioenen krachtens of vanwege een pensioenregeling als bedoeld in [artikel 2, eerste lid, onder c en d, van de Toeslagwet Indonesische Pensioenen 1956](../../../../wet/toeslagwet/indonesische/pensioenen/1956/BWBR0002251/README.md), het Pensioenreglement Nederlands Nieuw Guinea (Gouvernementsblad van Nederlands Nieuw Guinea 1958, 83), de Wet aanpassing Pensioenvoorziening Bijstandskorps, de [Garantiewet Surinaamse Pensioenen](../../../../wet/garantiewet/surinaamse/pensioenen/BWBR0006298/README.md) of de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](../../../../rijksKB/toeslagregeling/pensioenen/suriname/en/etc/BWBR0002574/README.md);  
+b. uitkeringen of pensioenen krachtens of vanwege een pensioenregeling als bedoeld in artikel 2, eerste lid, onder c en d, van de Toeslagwet Indonesische Pensioenen 1956, het Pensioenreglement Nederlands Nieuw Guinea (Gouvernementsblad van Nederlands Nieuw Guinea 1958, 83), de Wet aanpassing Pensioenvoorziening Bijstandskorps, de Garantiewet Surinaamse Pensioenen of de Toeslagregeling pensioenen Suriname en Nederlandse Antillen;  
 
-c. uitkeringen en verstrekkingen ingevolge een aanspraak op periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 11, eerste lid, onderdeel g, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+c. uitkeringen en verstrekkingen ingevolge een aanspraak op periodieke uitkeringen en verstrekkingen als bedoeld in artikel 11, eerste lid, onderdeel g, van de Wet op de loonbelasting 1964;  
 
-d. inkomsten als bedoeld in [artikel 11, eerste lid, onderdelen a, d, f, i, j, k, l, of v van het Uitvoeringsbesluit loonbelasting 1965](../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md);  
+d. inkomsten als bedoeld in artikel 11, eerste lid, onderdelen a, d, f, i, j, k, l, of v van het Uitvoeringsbesluit loonbelasting 1965;  
 
-e. uitkeringen ingevolge de [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+e. uitkeringen ingevolge de Algemene Ouderdomswet;  
 
-f. uitkeringen als bedoeld in [artikel 47a van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+f. uitkeringen als bedoeld in artikel 47a van de Wet werk en bijstand;  
 
 g. overbruggingsuitkeringen ingevolge een aanspraak op het overbruggingsfonds van de Stichting Contractspelersfonds KNVB en de Stichting Nederlands Wielrennersfonds, en  
 
-h. uitkeringen ingevolge de derde afdeling van de [Algemene pensioenwet politieke ambtsdragers](../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) die worden ontvangen door een afgetreden lid van de Tweede Kamer van wie de arbeidsverhouding gedurende het lidmaatschap van de Tweede Kamer ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van die wet als dienstbetrekking werd beschouwd.    
+h. uitkeringen ingevolge de derde afdeling van de Algemene pensioenwet politieke ambtsdragers die worden ontvangen door een afgetreden lid van de Tweede Kamer van wie de arbeidsverhouding gedurende het lidmaatschap van de Tweede Kamer ingevolge artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964 voor de toepassing van die wet als dienstbetrekking werd beschouwd.    
 
 ### Artikel  5.2  
 
-1.  Het loon, bedoeld in [artikel 42, tweede lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op € 51.414,00.   
-2.  Het bedrag, bedoeld in [artikel 42, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op:  
+1.  Het loon, bedoeld in artikel 42, tweede lid, van de Zorgverzekeringswet, dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van die wet, ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op € 51.414,00.   
+2.  Het bedrag, bedoeld in artikel 42, derde lid, van de Zorgverzekeringswet, dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op:  
 
 | Loontijdvak  | Maximum bijdrage-inkomen  |
 |:---|:---|
@@ -778,7 +778,7 @@ h. uitkeringen ingevolge de derde afdeling van de [Algemene pensioenwet politiek
 | Kwartaal  |  € 12.853,50  |
 | Jaar  |  € 51.414,00  |
 
-3.  In afwijking van het tweede lid wordt het bedrag, bedoeld in [artikel 42, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, voor werknemers als bedoeld in [artikel 6.2, eerste lid, onderdeel a, van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md) vastgesteld op:  
+3.  In afwijking van het tweede lid wordt het bedrag, bedoeld in artikel 42, derde lid, van de Zorgverzekeringswet, dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, voor werknemers als bedoeld in artikel 6.2, eerste lid, onderdeel a, van de Uitvoeringsregeling loonbelasting 2011 vastgesteld op:  
 
 | Loontijdvak  | Maximum bijdrage-inkomen  |
 |:---|:---|
@@ -788,7 +788,7 @@ h. uitkeringen ingevolge de derde afdeling van de [Algemene pensioenwet politiek
 | Maand  |  € 4.864,60  |
 | Kwartaal  |  € 14.593,81  |
 
-4.  In afwijking van het tweede lid wordt het bedrag, bedoeld in [artikel 42, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, voor werknemers als bedoeld in [artikel 6.2, eerste lid, onderdeel b, van de Uitvoeringsregeling loonbelasting 2011](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md) vastgesteld op:  
+4.  In afwijking van het tweede lid wordt het bedrag, bedoeld in artikel 42, derde lid, van de Zorgverzekeringswet, dat voor de heffing van de inkomensafhankelijke bijdrage per loontijdvak ten hoogste in aanmerking wordt genomen, voor werknemers als bedoeld in artikel 6.2, eerste lid, onderdeel b, van de Uitvoeringsregeling loonbelasting 2011 vastgesteld op:  
 
 | Loontijdvak  | Maximum bijdrage-inkomen  |
 |:---|:---|
@@ -800,60 +800,60 @@ h. uitkeringen ingevolge de derde afdeling van de [Algemene pensioenwet politiek
 
 ### Artikel  5.3  
 
-1.  Het bijdrage-inkomen, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op het bedrag, bedoeld in artikel 5.2, eerste lid.   
-2.  Voor zover het bijdrage-inkomen van een verzekeringsplichtige bestaat uit loon als bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is artikel 5.2, tweede tot en met vierde lid, van overeenkomstige toepassing.  
+1.  Het bijdrage-inkomen, bedoeld in artikel 43, derde lid, van de Zorgverzekeringswet, dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van die wet, ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2014 vastgesteld op het bedrag, bedoeld in artikel 5.2, eerste lid.   
+2.  Voor zover het bijdrage-inkomen van een verzekeringsplichtige bestaat uit loon als bedoeld in artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet, is artikel 5.2, tweede tot en met vierde lid, van overeenkomstige toepassing.  
 
 ### Artikel  5.4  
 
-1.  Het percentage, bedoeld in [artikel 45, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), wordt vastgesteld op 7,50.   
-2.  Het percentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), wordt vastgesteld op 5,40.   
+1.  Het percentage, bedoeld in artikel 45, eerste lid, van de Zorgverzekeringswet, wordt vastgesteld op 7,50.   
+2.  Het percentage, bedoeld in artikel 45, tweede lid, van de Zorgverzekeringswet, wordt vastgesteld op 5,40.   
 3.  In afwijking van het eerste of tweede lid, wordt het percentage vastgesteld op nihil: 
 
-a.over bijdrage-inkomen voortvloeiende uit werkzaamheden van een verzekeringsplichtige aan boord van een zeeschip, die werkzaam is op basis van een zee-arbeidsovereenkomst, de uitzendovereenkomst daaronder begrepen, mits de werkgever of scheepseigenaar het risico als bedoeld in [hoofdstuk 3 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), zolang deze verzekeringsplichtige niet is teruggekeerd of heeft kunnen terugkeren naar het land waar hij hoort, op grond van een verdragsrechtelijke bepaling of een bepaling die daar op stoelt in belangrijke mate voor zijn rekening neemt; 
+a.over bijdrage-inkomen voortvloeiende uit werkzaamheden van een verzekeringsplichtige aan boord van een zeeschip, die werkzaam is op basis van een zee-arbeidsovereenkomst, de uitzendovereenkomst daaronder begrepen, mits de werkgever of scheepseigenaar het risico als bedoeld in hoofdstuk 3 van de Zorgverzekeringswet, zolang deze verzekeringsplichtige niet is teruggekeerd of heeft kunnen terugkeren naar het land waar hij hoort, op grond van een verdragsrechtelijke bepaling of een bepaling die daar op stoelt in belangrijke mate voor zijn rekening neemt; 
 
-b. over belastbare periodieke uitkeringen of verstrekkingen op grond van een rechtstreeks uit het familierecht voortvloeiende verplichting als bedoeld in [artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), tenzij [artikel 11, eerste lid, onderdeel g, van het Uitvoeringsbesluit loonbelasting 1965](../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md) toepassing vindt, indien deze periodieke uitkering of verstrekking ook in 2005 is genoten.     
+b. over belastbare periodieke uitkeringen of verstrekkingen op grond van een rechtstreeks uit het familierecht voortvloeiende verplichting als bedoeld in artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, tenzij artikel 11, eerste lid, onderdeel g, van het Uitvoeringsbesluit loonbelasting 1965 toepassing vindt, indien deze periodieke uitkering of verstrekking ook in 2005 is genoten.     
 4.  Indien het loon waarover de inhoudingsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, genoemd in artikel 5.2, eerste lid, en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 7,50 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.   
 5.  Indien het bijdrage-inkomen waarover de verzekeringsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, bedoeld in artikel 5.3, eerste lid, en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 5,40 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.  
 
 ### Artikel  5.5  
 
-De inkomsten, bedoeld in [artikel 45, vierde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betreffen voor het berekenen van de bijdragepercentages die met ingang van 1 januari 2014 gelden telkens met betrekking tot het desbetreffende kalenderjaar: 
+De inkomsten, bedoeld in artikel 45, vierde lid, van de Zorgverzekeringswet, betreffen voor het berekenen van de bijdragepercentages die met ingang van 1 januari 2014 gelden telkens met betrekking tot het desbetreffende kalenderjaar: 
 
-a. het geraamde totaalbedrag aan nominale rekenpremies, bedoeld in [artikel 1, onderdeel aa, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) voor alle zorgverzekeringen waarvoor premie moet worden betaald, vermeerderd met het geraamde totaalbedrag dat de zorgverzekeraars van hun verzekerden zullen ontvangen ten gevolge van een door hen vast te stellen opslag op deze nominale rekenpremies;  
+a. het geraamde totaalbedrag aan nominale rekenpremies, bedoeld in artikel 1, onderdeel aa, van het Besluit zorgverzekering voor alle zorgverzekeringen waarvoor premie moet worden betaald, vermeerderd met het geraamde totaalbedrag dat de zorgverzekeraars van hun verzekerden zullen ontvangen ten gevolge van een door hen vast te stellen opslag op deze nominale rekenpremies;  
 
-b. het geraamde totaalbedrag aan eigen bijdragen, bedoeld in [artikel 11, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+b. het geraamde totaalbedrag aan eigen bijdragen, bedoeld in artikel 11, derde lid, van de Zorgverzekeringswet;  
 
-c. het geraamde totaalbedrag aan verplicht eigen risico dat door verzekerden zal worden betaald, verminderd met het geraamde totaalbedrag dat het CAK op grond van [artikel 118a van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) zal uitkeren;  
+c. het geraamde totaalbedrag aan verplicht eigen risico dat door verzekerden zal worden betaald, verminderd met het geraamde totaalbedrag dat het CAK op grond van artikel 118a van de Zorgverzekeringswet zal uitkeren;  
 
-d. de aan het Zorgverzekeringsfonds toe te voegen rijksbijdrage, bedoeld in [artikel 54 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), alsmede bijdragen als bedoeld in [artikel 87a van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+d. de aan het Zorgverzekeringsfonds toe te voegen rijksbijdrage, bedoeld in artikel 54 van de Zorgverzekeringswet, alsmede bijdragen als bedoeld in artikel 87a van de Wet financiering sociale verzekeringen;  
 
-e. het geraamde totaalbedrag aan inkomensafhankelijke bijdragen als bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) dat van inhoudingsplichtigen en verzekeringsplichtigen geheven zal worden, verminderd met het geraamde bedrag, bedoeld in [artikel 42, achtste lid, van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+e. het geraamde totaalbedrag aan inkomensafhankelijke bijdragen als bedoeld in artikel 41 van de Zorgverzekeringswet dat van inhoudingsplichtigen en verzekeringsplichtigen geheven zal worden, verminderd met het geraamde bedrag, bedoeld in artikel 42, achtste lid, van die wet.   
 
 ### Artikel  5.6  
 
-Een bedrag dat in aanmerking is genomen als loon in de zin van [artikel 42, eerste lid](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), of [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), wordt niet in aanmerking genomen als bijdrage-inkomen in de zin van artikel 43, tweede lid, onderdeel b, van die wet. 
+Een bedrag dat in aanmerking is genomen als loon in de zin van artikel 42, eerste lid, of artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet, wordt niet in aanmerking genomen als bijdrage-inkomen in de zin van artikel 43, tweede lid, onderdeel b, van die wet. 
 
 ### Artikel  5.7  
 
 1.  Voor de toepassing van dit artikel en van artikel 5.8 worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke mogendheden.   
-2.  Tot het loon, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), of het bijdrage-inkomen, bedoeld in [artikel 43 van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), behoren niet: 
+2.  Tot het loon, bedoeld in artikel 42 van de Zorgverzekeringswet, of het bijdrage-inkomen, bedoeld in artikel 43 van die wet, behoren niet: 
 
 a. uitkeringen ingevolge de sociale-zekerheidswetgeving van een andere mogendheid die zijn onderworpen aan premieheffing krachtens een wettelijke regeling inzake ziektekosten van die andere mogendheid;  
 
 b. ten aanzien van degene die verzekeringsplichtig is en die tevens werkzaamheden verricht of heeft verricht buiten het Europese deel van Nederland: 
 
-1°  het gedeelte van het loon of het bijdrage-inkomen dat onderworpen is aan heffing van inkomensafhankelijke premie als bedoeld in het [Besluit zorgverzekering BES](../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md),  
+1°  het gedeelte van het loon of het bijdrage-inkomen dat onderworpen is aan heffing van inkomensafhankelijke premie als bedoeld in het Besluit zorgverzekering BES,  
 
 2° het gedeelte van het loon of het bijdrage-inkomen, waarop ingevolge een internationale regeling inzake sociale zekerheid die tussen Nederland en een of meer andere mogendheden van kracht is, de wetgeving van een andere mogendheid van toepassing is,  
 
 3° het gedeelte van het loon of het bijdrage-inkomen, dat, bij gebreke van een internationale regeling, is onderworpen aan premieheffing krachtens een wettelijke regeling inzake ziektekosten van een andere mogendheid;    
 
-c. ten aanzien van degene die niet is uitgezonderd van de volksverzekeringen op grond van [artikel 13, eerste lid, onderdeel a](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/etc/BWBR0010182/README.md), artikel 13, tweede lid, onderdeel c, artikel 13, derde lid, onderdeel a, artikel 13, vierde lid, onderdeel c, [artikel 14, eerste lid, onderdeel a](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/etc/BWBR0010182/README.md), [artikel 15, eerste lid, onderdeel c, sub 1°](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/etc/BWBR0010182/README.md), of [artikel 16, eerste lid, onderdeel a, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../AMvB/besluit/uitbreiding/en/beperking/kring/etc/BWBR0010182/README.md) omdat zij de in die artikelen bedoelde andere werkzaamheden verrichten: het belastbare loon uit de dienstbetrekking uit hoofde waarvan hij zou zijn uitgezonderd van de volksverzekeringen indien hij die andere werkzaamheden niet zou hebben verricht.    
+c. ten aanzien van degene die niet is uitgezonderd van de volksverzekeringen op grond van artikel 13, eerste lid, onderdeel a, artikel 13, tweede lid, onderdeel c, artikel 13, derde lid, onderdeel a, artikel 13, vierde lid, onderdeel c, artikel 14, eerste lid, onderdeel a, artikel 15, eerste lid, onderdeel c, sub 1°, of artikel 16, eerste lid, onderdeel a, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 omdat zij de in die artikelen bedoelde andere werkzaamheden verrichten: het belastbare loon uit de dienstbetrekking uit hoofde waarvan hij zou zijn uitgezonderd van de volksverzekeringen indien hij die andere werkzaamheden niet zou hebben verricht.    
 
 ### Artikel  5.8  
 
-1.  Ten aanzien van degene die gedurende een deel van het kalenderjaar niet verzekeringsplichtig is ingevolge de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), wordt voor de bijdrageheffing bij wege van aanslag als bijdrage-inkomen geen hoger bedrag in aanmerking genomen dan het bijdrage-inkomen verminderd met het gedeelte daarvan waarop, ingevolge een internationale regeling inzake sociale zekerheid die tussen Nederland en een of meer andere mogendheden van kracht is, de wetgeving van een andere mogendheid van toepassing is, of dat, bij gebreke van een internationale regeling, is onderworpen aan premieheffing krachtens een wettelijke regeling inzake ziektekosten van een andere mogendheid.   
-2.  Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet verzekeringsplichtig is ingevolge de [Zorgverzekeringwet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), wordt voor de bijdrageheffing als bijdrage-inkomen ten hoogste in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het bedrag, bedoeld in artikel 5.3, eerste lid, tenzij toepassing van de bepalingen in de Zorgverzekeringswet of van de overige bepalingen in deze regeling tot een lager bijdrage-inkomen leidt.  
+1.  Ten aanzien van degene die gedurende een deel van het kalenderjaar niet verzekeringsplichtig is ingevolge de Zorgverzekeringswet, wordt voor de bijdrageheffing bij wege van aanslag als bijdrage-inkomen geen hoger bedrag in aanmerking genomen dan het bijdrage-inkomen verminderd met het gedeelte daarvan waarop, ingevolge een internationale regeling inzake sociale zekerheid die tussen Nederland en een of meer andere mogendheden van kracht is, de wetgeving van een andere mogendheid van toepassing is, of dat, bij gebreke van een internationale regeling, is onderworpen aan premieheffing krachtens een wettelijke regeling inzake ziektekosten van een andere mogendheid.   
+2.  Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet verzekeringsplichtig is ingevolge de Zorgverzekeringwet, wordt voor de bijdrageheffing als bijdrage-inkomen ten hoogste in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het bedrag, bedoeld in artikel 5.3, eerste lid, tenzij toepassing van de bepalingen in de Zorgverzekeringswet of van de overige bepalingen in deze regeling tot een lager bijdrage-inkomen leidt.  
 
 ### Artikel  5.9  
 
@@ -869,31 +869,31 @@ d. de dag waarop het tijdvak eindigt, niet in aanmerking genomen.
 
 ### Artikel  5.11  
 
-1.  De ontvangsten per bijdragejaar van de combineerde heffing van de loonbelasting, de premies voor de sociale verzekeringen en de bijdrage voor de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) alsmede op looninkomsten betrekking hebbende naheffingsaanslagen, belasting- en invorderingsrente en boeteontvangsten worden uitgesplitst in een voor de afdracht vastgesteld verdeelpercentage per bijdragejaar.   
-2.  Het verdeelpercentage in het eerste lid wordt maandelijks per bijdragejaar opnieuw berekend op basis van het relatieve aandeel van de bijdragen [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in alle ontvangen collectieve aangiften en opgelegde naheffingen.   
+1.  De ontvangsten per bijdragejaar van de combineerde heffing van de loonbelasting, de premies voor de sociale verzekeringen en de bijdrage voor de Zorgverzekeringswet alsmede op looninkomsten betrekking hebbende naheffingsaanslagen, belasting- en invorderingsrente en boeteontvangsten worden uitgesplitst in een voor de afdracht vastgesteld verdeelpercentage per bijdragejaar.   
+2.  Het verdeelpercentage in het eerste lid wordt maandelijks per bijdragejaar opnieuw berekend op basis van het relatieve aandeel van de bijdragen Zorgverzekeringswet in alle ontvangen collectieve aangiften en opgelegde naheffingen.   
 3.  Alle ontvangen gelden over het bijdragejaar worden verdeeld op basis van het verdeelpercentage, bedoeld in het eerste lid. De mutatie ten opzichte van de vorige periode vormt het af te dragen bedrag.   
 4.  Een jaar na afloop van het bijdragejaar wordt het verdeelpercentage voor het betreffende bijdragejaar definitief vastgesteld. Dit percentage wordt gehanteerd voor alle betalingen die daarna binnenkomen.  
 
 ### Artikel  5.12  
 
-1.  De ontvangsten van de overige inkomensafhankelijke bijdragen overeenkomstig [artikel 49, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) worden maandelijks vastgesteld.   
+1.  De ontvangsten van de overige inkomensafhankelijke bijdragen overeenkomstig artikel 49, derde lid, van de Zorgverzekeringswet worden maandelijks vastgesteld.   
 2.  De onder het eerste lid genoemde ontvangsten zijn inclusief de eventuele belasting- en invorderingsrente en boeteontvangsten.  
 
 ### Artikel 5.13  
 
-1.  De inspecteur verleent vooruitlopend op een beschikking als bedoeld in [artikel 50, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) een voorschot indien: 
+1.  De inspecteur verleent vooruitlopend op een beschikking als bedoeld in artikel 50, eerste lid, van de Zorgverzekeringswet een voorschot indien: 
 
 a. het bedrag van de teveel betaalde bijdrage vermoedelijk ten minste € 100 zal bedragen, en  
 
 b. het bijdrage-inkomen waarover inkomensafhankelijke bijdrage wordt of is ingehouden afkomstig is van verschillende inhoudingsplichtigen.     
 2.  Het eerste lid is niet van toepassing met betrekking tot: 
 
-a. personen die op grond van [artikel 2, tweede lid, onderdeel b, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) niet verzekeringsplichtig zijn;  
+a. personen die op grond van artikel 2, tweede lid, onderdeel b, van de Zorgverzekeringswet niet verzekeringsplichtig zijn;  
 
 b. personen die voor 1 april van het kalenderjaar waarop het voorschot betrekking heeft, aangeven geen voorschot te willen ontvangen.   
 3. De inspecteur kan het voorschot al dan niet op verzoek herzien. Een verzoek tot herziening van het voorschot kan worden ingediend tot 1 december van het kalenderjaar waarop het voorschot betrekking heeft.
 4. Indien de inspecteur een verzoek om verlening dan wel herziening van een voorschot geheel of gedeeltelijk afwijst, gebeurt dit bij voor bezwaar vatbare beschikking. 
-5.  Voorschotten worden verrekend met de beschikking, bedoeld in [artikel 50, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dan wel – voor zoveel nodig – bij een door de inspecteur te nemen voor bezwaar vatbare beschikking.  
+5.  Voorschotten worden verrekend met de beschikking, bedoeld in artikel 50, eerste lid, van de Zorgverzekeringswet, dan wel – voor zoveel nodig – bij een door de inspecteur te nemen voor bezwaar vatbare beschikking.  
 
 ### Hoofdstuk  6  
 
@@ -1120,7 +1120,7 @@ De subsidieontvanger stelt na afloop van de periode of het project waarvoor subs
 
 1.  Voor zover het bedrag van de verleende instellingssubsidie, zonder toepassing van de in artikel 6.2.5 bedoelde vermindering, na uitvoering van de gesubsidieerde activiteiten overeenkomstig de geldende verplichtingen, niet is besteed aan de doeleinden waarvoor het is verstrekt, wordt het gereserveerd.   
 2.  Voor de berekening van het in het eerste lid bedoelde te reserveren bedrag wordt het totaal van de met de gesubsidieerde activiteiten samenhangende baten, bestaande uit de verleende instellingssubsidie en de gerealiseerde overige baten, verminderd met de lasten van de gesubsidieerde activiteiten. Deze uitkomst wordt toegerekend naar rato van de verleende instellingssubsidie en de, in de ingediende begroting opgenomen, met de gesubsidieerde activiteiten samenhangende, overige baten. Het te reserveren bedrag is het aan de instellingssubsidie toegerekende deel.   
-3.  Toevoegingen aan voorzieningen als bedoeld in [artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die samenhangen met de gesubsidieerde activiteiten, worden gerekend tot de lasten van de gesubsidieerde activiteiten, bedoeld in het tweede lid.   
+3.  Toevoegingen aan voorzieningen als bedoeld in artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek, die samenhangen met de gesubsidieerde activiteiten, worden gerekend tot de lasten van de gesubsidieerde activiteiten, bedoeld in het tweede lid.   
 4.  Indien in de ingediende begroting onder de met de gesubsidieerde activiteiten samenhangende baten een vrijgevallen voorziening is opgenomen, blijft deze buiten beschouwing bij de berekening van het te reserveren bedrag, bedoeld in het tweede lid.   
 5.  De verplichting, bedoeld in het eerste lid, geldt niet voor de ontvanger van een ondersteuningssubsidie.   
 6.  De in het eerste lid bedoelde reservering wordt uitsluitend besteed aan doeleinden waarvoor de subsidie werd verstrekt.   
@@ -1137,16 +1137,16 @@ Op de balans worden de voorzieningen, gesplitst naar hun aard, en de reservering
 2.  Het Zorginstituut is bevoegd om onderzoek, bedoeld in het eerste lid, desgewenst te voorzien van commentaar, één of meermalen te vermenigvuldigen of te publiceren of anderszins openbaar te maken of te doen openbaar maken, met vermelding van de bron, zonder dat hiervoor enige vergoeding is verschuldigd.   
 3.  De subsidieontvanger draagt er zorg voor dat de in het eerste lid bedoelde onderzoeksgegevens op verzoek van het Zorginstituut onmiddellijk en kosteloos aan het Zorginstituut of aan door het Zorginstituut aangewezen natuurlijke personen of rechtspersonen beschikbaar worden gesteld.   
 4.  Indien een gesubsidieerde activiteit leidt tot een publicatie, kan het Zorginstituut bepalen dat de subsidieontvanger er zorg voor draagt dat bij de publicatie wordt aangegeven wie de uitvoerder en subsidiënt van het project zijn geweest.   
-5.  Indien een subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in [artikel 10, subonderdeel 1, van de Auteurswet](../../../../wet/auteurswet/BWBR0001886/README.md), draagt de subsidieontvanger er zorg voor auteursrechthebbende te zijn ter zake van dat werk.   
+5.  Indien een subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in artikel 10, subonderdeel 1, van de Auteurswet, draagt de subsidieontvanger er zorg voor auteursrechthebbende te zijn ter zake van dat werk.   
 6.  De subsidieontvanger vrijwaart de Staat der Nederlanden en het Zorginstituut voor aanspraken van derden ter zake van alle schade die zij lijden ten gevolge van de door of vanwege de subsidieontvanger verrichte publicaties.  
 
 ### Artikel  6.2.26  
 
-Aan de subsidie kunnen verplichtingen als bedoeld in [artikel 4:39 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden verbonden. 
+Aan de subsidie kunnen verplichtingen als bedoeld in artikel 4:39 van de Algemene wet bestuursrecht worden verbonden. 
 
 ### Artikel  6.2.27  
 
-1.  De subsidieontvanger is in de gevallen, genoemd in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een vergoeding voor vermogensvorming verschuldigd.   
+1.  De subsidieontvanger is in de gevallen, genoemd in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, een vergoeding voor vermogensvorming verschuldigd.   
 2.  Bij de bepaling van de hoogte van de vergoeding wordt uitgegaan van de waarde van de goederen en andere vermogensbestanddelen op het tijdstip waarop de vergoeding verschuldigd wordt, met dien verstande dat in geval van ontvangst van schadevergoeding voor verlies of beschadiging van zaken, wordt uitgegaan van het bedrag dat als schadevergoeding door de instelling wordt ontvangen. Indien het onroerende zaken betreft, geschiedt de waardebepaling door één of drie onafhankelijke deskundigen.   
 3.  Toepassing van het eerste lid blijft achterwege indien de activiteiten van de subsidieontvanger, na toestemming van het Zorginstituut, door een andere rechtspersoon worden voortgezet en de activa tegen boekwaarde aan die andere rechtspersoon in eigendom zijn overgedragen.  
 
@@ -1201,13 +1201,13 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ### Artikel  6.2.34  
 
-1.  De [afdelingen 2 tot en met 8 van Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing op de jaarrekening, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening. Op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.   
+1.  De afdelingen 2 tot en met 8 van Titel 9 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing op de jaarrekening, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening. Op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.   
 2.  De grondslag voor de waardering van activa en passiva is de verkrijging- of vervaardigingprijs verminderd met de ontvangen investeringssubsidies en bestemmingsgiften.   
-3.  Het Zorginstituut kan bepalen dat bepalingen van de in het eerste lid bedoelde [Titel](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of onderdelen daarvan niet van toepassing zijn op bepaalde instellingen.  
+3.  Het Zorginstituut kan bepalen dat bepalingen van de in het eerste lid bedoelde Titel of onderdelen daarvan niet van toepassing zijn op bepaalde instellingen.  
 
 ### Artikel  6.2.35  
 
-1.  De jaarrekening en de subsidiedeclaratie zijn ieder afzonderlijk voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De jaarrekening en de subsidiedeclaratie zijn ieder afzonderlijk voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De jaarrekening of de subsidiedeclaratie gaat vergezeld van een rapportage omtrent de naleving van de subsidiebepalingen door de subsidieontvanger, opgesteld door de accountant overeenkomstig een door het Zorginstituut vast te stellen protocol.   
 3.  De subsidieontvanger draagt er zorg voor dat de accountant meewerkt aan door of namens het Zorginstituut in te stellen onderzoeken naar de door de accountant verrichte werkzaamheden. Voor de aan dit onderzoek verbonden kosten wordt geen subsidie verstrekt.  
 
@@ -1275,27 +1275,27 @@ Vervallen per 01-01-2009
 
 ### Artikel  6.3.1  
 
-1.  De door een persoon, bedoeld in [artikel 69, van de Zorgverzekeringwet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), verschuldigde bijdrage wordt berekend door de grondslag van de bijdrage te vermenigvuldigen met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekering in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.  
+1.  De door een persoon, bedoeld in artikel 69, van de Zorgverzekeringwet, verschuldigde bijdrage wordt berekend door de grondslag van de bijdrage te vermenigvuldigen met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekering in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.  
 2. De grondslag van de bijdrage is gelijk aan de som van:
 
-a. een inkomensafhankelijke bijdrage ter hoogte van de inkomensafhankelijke bijdrage die de persoon, bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) op grond van [paragraaf 5.2 van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verschuldigd zou zijn geweest indien hij verzekeringsplichtig zou zijn geweest,  
+a. een inkomensafhankelijke bijdrage ter hoogte van de inkomensafhankelijke bijdrage die de persoon, bedoeld in artikel 69, eerste lid, van de Zorgverzekeringswet op grond van paragraaf 5.2 van die wet verschuldigd zou zijn geweest indien hij verzekeringsplichtig zou zijn geweest,  
 
-b. een inkomensafhankelijke bijdrage, berekend overeenkomstig de op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) verschuldigde premie voor de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en verminderd met het bedrag waarop de partner van degene die de bijdrage verschuldigd is volgens de [artikelen 8.9](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [8.9a van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) recht zou hebben indien degene die de bijdrage verschuldigd is verzekerd zou zijn ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), voor zover op grond van deze bepalingen geen teruggave in de inkomstenbelasting is verleend, en,  
+b. een inkomensafhankelijke bijdrage, berekend overeenkomstig de op grond van de Wet financiering sociale verzekeringen verschuldigde premie voor de Algemene Wet Bijzondere Ziektekosten, en verminderd met het bedrag waarop de partner van degene die de bijdrage verschuldigd is volgens de artikelen 8.9 en 8.9a van de Wet inkomstenbelasting 2001 recht zou hebben indien degene die de bijdrage verschuldigd is verzekerd zou zijn ingevolge de Algemene Wet Bijzondere Ziektekosten, voor zover op grond van deze bepalingen geen teruggave in de inkomstenbelasting is verleend, en,  
 
-c.vanaf de eerste dag van de kalendermaand volgende op de kalendermaand waarin deze persoon de leeftijd van achttien jaar heeft bereikt, een bijdrage per maand overeenkomende met eentwaalfde van het bedrag van de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar, bedoeld in [artikel 4 van de Wet op de zorgtoeslag](../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) (hierna: nominale deel). Voor de toepassing van deze bepaling wordt onder een partner verstaan een partner in de zin van [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
+c.vanaf de eerste dag van de kalendermaand volgende op de kalendermaand waarin deze persoon de leeftijd van achttien jaar heeft bereikt, een bijdrage per maand overeenkomende met eentwaalfde van het bedrag van de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar, bedoeld in artikel 4 van de Wet op de zorgtoeslag (hierna: nominale deel). Voor de toepassing van deze bepaling wordt onder een partner verstaan een partner in de zin van artikel 1.2 van de Wet inkomstenbelasting 2001. 
 3.  De peildatum voor de vaststelling van het in het eerste lid genoemde woonland is telkens de eerste dag van de kalendermaand volgende op de kalendermaand waarin een wijziging van het woonland heeft plaatsgevonden.  
-4.  Voor de toepassing van de [Wet op de zorgtoeslag](../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) wordt het in het tweede lid bedoelde nominale deel, als premie voor een zorgverzekering beschouwd.   
-5.   De bijdrage die een pensioen- of renteverstrekkend orgaan als bedoeld in [artikel 69, derde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verschuldigd is, is gelijk aan de inkomensafhankelijke bijdrage die dit orgaan over het loon als bedoeld in [artikel 42 van die wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) verschuldigd zou zijn geweest, indien degene aan wie hij het pensioen of de rente verstrekt, in Nederland zou hebben gewoond, vermenigvuldigd met het getal, bedoeld in het eerste lid.  
-6.  De inkomensgegevens, benodigd voor de berekening van de in het tweede lid bedoelde grondslag en de in het vijfde lid bedoelde bijdrage, worden ontleend aan het toetsingsinkomen, bedoeld in [artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md).   
-7.  Indien het in [artikel 8, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) bedoelde, niet in Nederland belastbaar inkomen niet is vastgesteld op grond van [artikel 8a van de Algemene wet inkomensafhankelijke regelingen](../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), wordt het door de rijksbelastingdienst vastgesteld met overeenkomstige toepassing van dat artikel.   
-8.  Ter zake van de opgaaf van niet in Nederland belastbaar inkomen is de [Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [Hoofdstuk VIIIA](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van toepassing als ware deze opgaaf een aangifte inkomstenbelasting. 
+4.  Voor de toepassing van de Wet op de zorgtoeslag wordt het in het tweede lid bedoelde nominale deel, als premie voor een zorgverzekering beschouwd.   
+5.   De bijdrage die een pensioen- of renteverstrekkend orgaan als bedoeld in artikel 69, derde lid, van de Zorgverzekeringswet verschuldigd is, is gelijk aan de inkomensafhankelijke bijdrage die dit orgaan over het loon als bedoeld in artikel 42 van die wet verschuldigd zou zijn geweest, indien degene aan wie hij het pensioen of de rente verstrekt, in Nederland zou hebben gewoond, vermenigvuldigd met het getal, bedoeld in het eerste lid.  
+6.  De inkomensgegevens, benodigd voor de berekening van de in het tweede lid bedoelde grondslag en de in het vijfde lid bedoelde bijdrage, worden ontleend aan het toetsingsinkomen, bedoeld in artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen.   
+7.  Indien het in artikel 8, tweede lid, van de Algemene wet inkomensafhankelijke regelingen bedoelde, niet in Nederland belastbaar inkomen niet is vastgesteld op grond van artikel 8a van de Algemene wet inkomensafhankelijke regelingen, wordt het door de rijksbelastingdienst vastgesteld met overeenkomstige toepassing van dat artikel.   
+8.  Ter zake van de opgaaf van niet in Nederland belastbaar inkomen is de Algemene wet inzake rijksbelastingen, met uitzondering van Hoofdstuk VIIIA, van toepassing als ware deze opgaaf een aangifte inkomstenbelasting. 
 9.  Het in het eerste lid genoemde verhoudingsgetal wordt per land vastgesteld en met een toelichting over de wijze van berekening jaarlijks uiterlijk in november in de Staatscourant gepubliceerd.  
 
 ### Artikel  6.3.1a  
 
 In de artikelen 6.3.2 tot en met 6.3.4 wordt verstaan onder: 
 
-a.  *bijdrageplichtige:* eenieder die krachtens [artikel 69 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in verbinding met artikel 6.3.1 een bijdrage verschuldigd is,  
+a.  *bijdrageplichtige:* eenieder die krachtens artikel 69 van de Zorgverzekeringswet in verbinding met artikel 6.3.1 een bijdrage verschuldigd is,  
 
 b.  *hoofdbijdrageplichtige:* een bijdrageplichtige met een of meer gezinsleden die niet bijdrageplichtig zouden zijn geweest indien zij niet tot het gezin van de hoofdbijdrageplichtige zouden hebben behoord,  
 
@@ -1307,7 +1307,7 @@ De voor een gezinslid van een verzekeringsplichtige verschuldigde bijdrage, bedo
 
 ### Artikel  6.3.2  
 
-1.  Organen die pensioen of rente uitkeren dan wel werkgevers, verrichten de hen door het Zorginstituut opgedragen werkzaamheden ter voorbereiding en uitvoering van de heffings- en inningsbeschikkingen, bedoeld in [artikel 69, vierde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+1.  Organen die pensioen of rente uitkeren dan wel werkgevers, verrichten de hen door het Zorginstituut opgedragen werkzaamheden ter voorbereiding en uitvoering van de heffings- en inningsbeschikkingen, bedoeld in artikel 69, vierde lid, van de Zorgverzekeringswet.   
 2.  De werkzaamheden, bedoeld in het eerste lid, houden ten minste in dat, nadat zij daartoe door het Zorginstituut van de benodigde gegevens zijn voorzien: 
 
 a. organen die pensioen of rente uitkeren bijdragen die bijdrageplichtige personen verschuldigd zijn op het pensioen of de rente van die bijdrageplichtigen inhouden,  
@@ -1318,20 +1318,20 @@ c. werkgevers van grensarbeiders de bijdragen van gezinsleden van die grensarbei
 3.  Het Zorginstituut kan een orgaan dat pensioen of rente uitkeert of een werkgever van een grensarbeider opdragen een bijdrage op het pensioen, de rente of op het loon in te houden en af te dragen, zolang dat instituut niet beschikt over de gegevens, bedoeld in het tweede lid. In dat geval berekent het orgaan of de werkgever de bijdrage uitgaande van de bij hem bekende gegevens over de samenstelling van het gezin van de bijdrageplichtige.   
 4.  Indien een bijdrageplichtige recht heeft op meer dan één pensioen of rente, wordt het in artikel 6.3.1, tweede lid, bedoelde nominale deel van de bijdrage dat hij en zijn eventuele gezinsleden verschuldigd zijn ingehouden op het pensioen dat of de rente die het eerst is toegekend. Indien dit pensioen of deze rente daartoe niet toereikend is, kan het Zorginstituut hetzelfde of een ander orgaan opdragen het restant op een ander pensioen of een andere rente in te houden.   
 5.  Voor de inhouding van het door een gezinslid verschuldigde nominale deel van de bijdrage op het pensioen of de rente van de hoofdbijdrageplichtige dan wel op het loon van de grensarbeider, worden wijzigingen in de situatie van dat gezinslid die in de loop van een kalendermaand doch na de eerste dag van die maand plaatsvinden, eerst in aanmerking genomen vanaf de eerste dag van de daaropvolgende kalendermaand.  
-6.  Voor de toepassing van het tweede lid wordt een toeslag, waaronder begrepen een toeslag als bedoeld in de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md), een toelage of enige aanvulling, onder welke benaming ook, op het pensioen of de rente dan wel op het loon van een grensarbeider die door het orgaan of de werkgever in het algemeen met dezelfde regelmaat en gelijktijdig met de uitkering betaalbaar wordt gesteld, als onderdeel van het pensioen, van de rente of van het loon aangemerkt.   
-7.  Onder de in het eerste lid bedoelde organen die pensioen of rente uitkeren worden mede verstaan werkgevers aan wie op grond van [artikel 40 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) toestemming is verleend het risico te dragen van de betalingen, bedoeld in [artikel 40, eerste lid, van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).  
+6.  Voor de toepassing van het tweede lid wordt een toeslag, waaronder begrepen een toeslag als bedoeld in de Toeslagenwet, een toelage of enige aanvulling, onder welke benaming ook, op het pensioen of de rente dan wel op het loon van een grensarbeider die door het orgaan of de werkgever in het algemeen met dezelfde regelmaat en gelijktijdig met de uitkering betaalbaar wordt gesteld, als onderdeel van het pensioen, van de rente of van het loon aangemerkt.   
+7.  Onder de in het eerste lid bedoelde organen die pensioen of rente uitkeren worden mede verstaan werkgevers aan wie op grond van artikel 40 van de Wet financiering sociale verzekeringen toestemming is verleend het risico te dragen van de betalingen, bedoeld in artikel 40, eerste lid, van die wet.  
 
 ### Artikel 6.3.3  
 
 1.  Het verschil tussen de door de bijdrageplichtigen verschuldigde bijdrage en de ingehouden en afgedragen of anderszins geïnde bijdragen wordt, met inachtneming van het zesde tot en met het achtste lid van artikel 6.3.1 en het tweede lid van dit artikel, door het Zorginstituut vastgesteld en verrekend, geïnd of uitgekeerd. Uitkering vindt plaats aan de bijdrageplichtige dan wel, indien artikel 6.3.1b van toepassing is, aan de verzekeringsplichtige. 
-2.  De in artikel 6.3.1, eerste lid, bedoelde persoon die aanspraak maakt op één of meer van de in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermelde heffingskortingen niet zijnde de algemene heffingskorting, de jonggehandicaptenkorting, de ouderenkorting of de alleenstaande ouderenkorting, kan het Zorginstituut verzoeken daar bij de vaststelling van het verschil, bedoeld in het eerste lid, rekening mee te houden. 
+2.  De in artikel 6.3.1, eerste lid, bedoelde persoon die aanspraak maakt op één of meer van de in hoofdstuk 8 van de Wet inkomstenbelasting 2001 vermelde heffingskortingen niet zijnde de algemene heffingskorting, de jonggehandicaptenkorting, de ouderenkorting of de alleenstaande ouderenkorting, kan het Zorginstituut verzoeken daar bij de vaststelling van het verschil, bedoeld in het eerste lid, rekening mee te houden. 
 3. Indien slechts een bijdrage als bedoeld in artikel 6.3.1, tweede lid, onderdeel c, verschuldigd is, stelt het Zorginstituut het in het eerste lid bedoelde verschil vast vóór 1 april van het jaar volgend op het kalenderjaar waarop de bijdrage betrekking heeft. In andere gevallen stelt het instituut het verschil voor 30 september van het jaar volgend op kalenderjaar waarop de bijdrage betrekking heeft voorlopig vast, en stelt het het verschil uiterlijk zes maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting als de beschikking niet in Nederland belastbaar inkomen onherroepelijk zijn geworden, definitief vast.
 4. Bij de vaststelling van het in het eerste lid bedoelde verschil brengt het Zorginstituut enkelvoudige wettelijke rente in rekening over te weinig geheven of geïnde bijdrage dan wel vergoedt het wettelijke rente ingeval van teveel geheven of geïnde bijdrage, over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar waarop de bijdrage betrekking heeft en eindigt op de dag van de dagtekening van de vaststelling door het Zorginstituut.
 5. Het Zorginstituut is bevoegd het te restitueren bedrag, indien dit minder bedraagt dan € 25, te verrekenen met een in de toekomst gelegen verschuldigde bijdrage.
 
 ### Artikel  6.3.4  
 
-Voor de toepassing van [artikel 69, negende lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt met het tijdstip van aanmelding bij het Zorginstituut gelijkgesteld de datum waarop de kennisgeving aan het Zorginstituut van de aanmelding van de rechthebbende op pensioen of rente bij het orgaan van de woonplaats van de rechthebbende, door dat orgaan is ondertekend. 
+Voor de toepassing van artikel 69, negende lid, van de Zorgverzekeringswet wordt met het tijdstip van aanmelding bij het Zorginstituut gelijkgesteld de datum waarop de kennisgeving aan het Zorginstituut van de aanmelding van de rechthebbende op pensioen of rente bij het orgaan van de woonplaats van de rechthebbende, door dat orgaan is ondertekend. 
 
 ### § 4  
 
@@ -1339,16 +1339,16 @@ Voor de toepassing van [artikel 69, negende lid, van de Zorgverzekeringswet](../
 
 ### Artikel  6.4.1  
 
-1.  Voor het bepalen van het saldo van de rekening, als bedoeld in [artikel 70, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) gaat het Zorginstituut uit van de bijdragevervangende belasting die de Belastingdienst op grond van de [Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vaststelt.   
+1.  Voor het bepalen van het saldo van de rekening, als bedoeld in artikel 70, eerste lid, van de Zorgverzekeringswet gaat het Zorginstituut uit van de bijdragevervangende belasting die de Belastingdienst op grond van de Wet inkomstenbelasting 2001 vaststelt.   
 2.  Zolang de bijdragevervangende belasting nog niet is vastgesteld, bepaalt het Zorginstituut het saldo van de rekening op grond van de gegevens zoals die op dat moment beschikbaar zijn in de polisadministratie van het Uitvoeringsinstituut werknemersverzekeringen. Het Zorginstituut kan de gemoedsbezwaarde verzoeken om originele loon- en salarisstroken of anderszins over te leggen waaruit de inhouding van bijdragevervangende belasting tot dat moment blijkt.   
 3.  Een vaststelling als bedoeld in het eerste lid, die afwijkt van het door het Zorginstituut bepaalde saldo van de rekening voor dat jaar, wordt verrekend met het saldo van de rekening in het daaropvolgende jaar. Een verrekening heeft alleen gevolgen voor het saldo van de rekening in het jaar waarin die verrekening plaatsvindt.   
-4.  Uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in [artikel 11 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) doet het Zorginstituut uitsluitend op basis van originele nota’s. Voor de hoogte van de uitkering is het saldo van de rekening, bedoeld in [artikel 70, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), bepalend.   
-5.  Verzoeken tot het doen van uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in [artikel 11 van de Zorgverzekeringwet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) moeten zijn gedaan uiterlijk binnen twee kalenderjaren volgend op het kalenderjaar waarin de zorg is aangevangen.   
+4.  Uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in artikel 11 van de Zorgverzekeringswet doet het Zorginstituut uitsluitend op basis van originele nota’s. Voor de hoogte van de uitkering is het saldo van de rekening, bedoeld in artikel 70, eerste lid, van de Zorgverzekeringswet, bepalend.   
+5.  Verzoeken tot het doen van uitkeringen ter vergoeding van kosten van zorg of overige diensten als bedoeld in artikel 11 van de Zorgverzekeringwet moeten zijn gedaan uiterlijk binnen twee kalenderjaren volgend op het kalenderjaar waarin de zorg is aangevangen.   
 6.  Een uitkering wordt, met inachtneming van het vierde en vijfde lid, in mindering gebracht op het saldo van de rekening van het jaar waarin het verzoek wordt ingediend. 
 
 ### Artikel  6.4.2  
 
-Een gemoedsbezwaarde die een gezamenlijke huishouding met een of meer andere gemoedsbezwaarden verlaat, kan het Zorginstituut verzoeken een evenredig gedeelte van het saldo van de in [artikel 70, tweede lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) bedoelde rekening, over te maken op een voor hem te openen rekening als bedoeld in artikel 70, eerste lid van de Zorgverzekeringswet. 
+Een gemoedsbezwaarde die een gezamenlijke huishouding met een of meer andere gemoedsbezwaarden verlaat, kan het Zorginstituut verzoeken een evenredig gedeelte van het saldo van de in artikel 70, tweede lid, van de Zorgverzekeringswet bedoelde rekening, over te maken op een voor hem te openen rekening als bedoeld in artikel 70, eerste lid van de Zorgverzekeringswet. 
 
 ###§ 4a 
 
@@ -1356,13 +1356,13 @@ Een gemoedsbezwaarde die een gezamenlijke huishouding met een of meer andere gem
 
 ###Artikel 6.4a.1 
 
-De bestanden, bedoeld in [artikel 9a, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) zijn:
+De bestanden, bedoeld in artikel 9a, eerste lid, van de Zorgverzekeringswet zijn:
 
-a.het bestand van personen die verzekerd zijn op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+a.het bestand van personen die verzekerd zijn op grond van de Algemene Wet Bijzondere Ziektekosten;
 
-b.het bestand met personen als bedoeld in [artikel 2, tweede lid, onderdeel a, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);
+b.het bestand met personen als bedoeld in artikel 2, tweede lid, onderdeel a, van de Zorgverzekeringswet;
 
-c.het bestand met personen als bedoeld in [artikel 2, tweede lid, onderdeel b, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);
+c.het bestand met personen als bedoeld in artikel 2, tweede lid, onderdeel b, van de Zorgverzekeringswet;
 
 d.het bestand van personen die op grond van een zorgverzekering verzekerd zijn.
 
@@ -1374,36 +1374,36 @@ d.het bestand van personen die op grond van een zorgverzekering verzekerd zijn.
 
 Bij samenloop over eenzelfde tijdvak van bestuursrechtelijke premieheffing met één of meer van de navolgende, ingevolge de socialezekerheidswetgeving voorgeschreven inhoudingen of verrekeningen, gaat de bestuursrechtelijke premieheffing voor:
 
-a. door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/etc/BWBR0013060/README.md), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van die wet](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/etc/BWBR0013060/README.md), of door een college van burgemeester en wethouders verrichte inhouding of verrekening van een door één van deze instanties in het kader van een door die instantie uitgevoerde socialezekerheidswet opgelegde bestuurlijke boete,  
+a. door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van die wet, of door een college van burgemeester en wethouders verrichte inhouding of verrekening van een door één van deze instanties in het kader van een door die instantie uitgevoerde socialezekerheidswet opgelegde bestuurlijke boete,  
 
-b. inhoudingen of verrekeningen als bedoeld in [artikel 24, tweede juncto eerste lid, van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+b. inhoudingen of verrekeningen als bedoeld in artikel 24, tweede juncto eerste lid, van de Wet inburgering.   
 
 ### Artikel  6.5.3  
 
-Indien na beëindiging van de verschuldigdheid van de bestuursrechtelijke premie ter zake van die premie een restschuld bestaat, maakt het Zorginstituut voor de inning daarvan geen gebruik meer van de instrumenten, bedoeld in [artikel 18f, tweede of zesde lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
+Indien na beëindiging van de verschuldigdheid van de bestuursrechtelijke premie ter zake van die premie een restschuld bestaat, maakt het Zorginstituut voor de inning daarvan geen gebruik meer van de instrumenten, bedoeld in artikel 18f, tweede of zesde lid, van de Zorgverzekeringswet. 
 
 ### Artikel  6.5.3a  
 
-Het Zorginstituut Nederland stort over 2014 23 procent van de in het desbetreffende kalenderjaar geïnde bestuursrechtelijke premies, bedoeld in [artikel 18d van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), in 's Rijks kas. 
+Het Zorginstituut Nederland stort over 2014 23 procent van de in het desbetreffende kalenderjaar geïnde bestuursrechtelijke premies, bedoeld in artikel 18d van de Zorgverzekeringswet, in 's Rijks kas. 
 
 ### Artikel  6.5.4  
 
-1.  Het Zorginstituut kent de zorgverzekeraar voor iedere zorgverzekering ter zake waarvan hij aan de voorwaarden, bedoeld in [artikel 34a, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) heeft voldaan, een bijdrage toe.   
+1.  Het Zorginstituut kent de zorgverzekeraar voor iedere zorgverzekering ter zake waarvan hij aan de voorwaarden, bedoeld in artikel 34a, eerste lid, van de Zorgverzekeringswet heeft voldaan, een bijdrage toe.   
 2.  De bijdrage wordt toegekend over de periode waarover ter zake van de zorgverzekering bestuursrechtelijke premie verschuldigd is.   
-3.  In aanvulling op het tweede lid wordt de bijdrage tevens toegekend over de periode waarover ten aanzien van een zorgverzekering de bestuursrechtelijke premie niet verschuldigd was omdat de melding, bedoeld in [artikel 18c, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) ten gevolge van de toepasselijkheid van het [tweede lid, onderdeel b, c of d, van dat artikel](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) nog niet kon worden gedaan.   
-4.  De bijdrage bedraagt per maand de tot een maandbedrag herleide standaardpremie, bedoeld in de [Wet op de zorgtoeslag](../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md).   
+3.  In aanvulling op het tweede lid wordt de bijdrage tevens toegekend over de periode waarover ten aanzien van een zorgverzekering de bestuursrechtelijke premie niet verschuldigd was omdat de melding, bedoeld in artikel 18c, eerste lid, van de Zorgverzekeringswet ten gevolge van de toepasselijkheid van het tweede lid, onderdeel b, c of d, van dat artikel nog niet kon worden gedaan.   
+4.  De bijdrage bedraagt per maand de tot een maandbedrag herleide standaardpremie, bedoeld in de Wet op de zorgtoeslag.   
 5.  Het Zorginstituut verstrekt de zorgverzekeraar over de periode, bedoeld in het tweede lid, een voorschot op de bijdrage.   
 6.  Uiterlijk in april van het tweede jaar volgende op het kalenderjaar ter zake waarvan de bijdragen, bedoeld in de vorige leden, zijn toegekend, stelt het Zorginstituut per zorgverzekeraar het totaalbedrag aan over dat jaar te verstrekken bijdragen vast.   
-7.  Het totaalbedrag aan te verstrekken bijdrage is gelijk aan de som van de over het kalenderjaar bevoorschotte bijdragen vermeerderd met de som van de bijdragen die de zorgverzekeraar ingevolge het derde lid zijn toegekend, en verminderd met de som van de bijdragen die zijn toegekend voor zorgverzekeringen ter zake waarvan naar het oordeel van de Nederlandse Zorgautoriteit niet de voorwaarden, bedoeld in [artikel 34a, tweede lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), in acht zijn genomen en met ingevolge het derde lid toegekende bijdragen voor zover naar het oordeel van die autoriteit de daar bedoelde vertraging in de aanmelding in overwegende mate aan de zorgverzekeraar te wijten is.   
+7.  Het totaalbedrag aan te verstrekken bijdrage is gelijk aan de som van de over het kalenderjaar bevoorschotte bijdragen vermeerderd met de som van de bijdragen die de zorgverzekeraar ingevolge het derde lid zijn toegekend, en verminderd met de som van de bijdragen die zijn toegekend voor zorgverzekeringen ter zake waarvan naar het oordeel van de Nederlandse Zorgautoriteit niet de voorwaarden, bedoeld in artikel 34a, tweede lid, van de Zorgverzekeringswet, in acht zijn genomen en met ingevolge het derde lid toegekende bijdragen voor zover naar het oordeel van die autoriteit de daar bedoelde vertraging in de aanmelding in overwegende mate aan de zorgverzekeraar te wijten is.   
 8.  Het Zorginstituut is bevoegd verschillen tussen het bedrag aan vastgestelde bijdragen en toegekende bijdragen te verrekenen met over een later jaar te bevoorschotten bijdragen als bedoeld in dit artikel.  
 
 ### Artikel  6.5.5  
 
 Indien ten aanzien van een zorgverzekering, rente en incassokosten buiten beschouwing latend, op de datum van inwerkingtreding van deze wet reeds een achterstand in de betaling van de verschuldigde premie ter hoogte van zes of meer maandpremies is ontstaan, is de zorgverzekeraar bevoegd deze schuld, zonder dat dit gevolgen heeft voor zijn bijdragen voor het onverminderd verzekerd houden van de desbetreffende verzekerde, kwijt te schelden, mits: 
 
-a. hij voldaan heeft aan [artikel 18a van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in verbinding met [artikel IX, eerste en tweede lid, van de wet van 18 juli 2009 tot wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige andere wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering)](../../../../wet/wijzigingswet/zorgverzekeringswet/wet/op/de/etc/BWBR0026276/README.md), en  
+a. hij voldaan heeft aan artikel 18a van de Zorgverzekeringswet in verbinding met artikel IX, eerste en tweede lid, van de wet van 18 juli 2009 tot wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige andere wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering), en  
 
-b. door tussenkomst van een schuldhulpverlener als bedoeld in [artikel 48 van de Wet op het consumentenkrediet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) een schuldregeling tot stand is gekomen waarin, naast de verzekeringnemer, ten minste de zorgverzekeraar deelneemt, en  
+b. door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet een schuldregeling tot stand is gekomen waarin, naast de verzekeringnemer, ten minste de zorgverzekeraar deelneemt, en  
 
 c. voor de zorgverzekering gedurende ten minste twee jaren te rekenen vanaf de datum waarop de schuldregeling is ingegaan, naast nieuw vervallende premietermijnen een bij de regeling afgesproken deel van de reeds bestaande schuld is afbetaald.   
 
@@ -1413,7 +1413,7 @@ c. voor de zorgverzekering gedurende ten minste twee jaren te rekenen vanaf de d
 
 ### Artikel 7.1  
 
-1.  Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die voor een zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) worden aangemerkt de in artikel 7.2 bedoelde persoonsgegevens.   
+1.  Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor een zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van de Zorgverzekeringswet worden aangemerkt de in artikel 7.2 bedoelde persoonsgegevens.   
 2.  Een zorgverzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het verrichten van formele controle dan wel materiële controle ten behoeve van: 
 
 a. de geheel of gedeeltelijke betaling aan een zorgaanbieder;  
@@ -1470,7 +1470,7 @@ b. de verzekerde, indien de zorgaanbieder het tarief voor de geleverde prestatie
 
 ###Artikel 7.4a 
 
-De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een uitkering als bedoeld in [artikel 118a van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt verstrekt, van zijn verzekerden of gewezen verzekerden die in dat jaar de leeftijd van achttien jaar hebben bereikt of nog zullen bereiken en die in de twee kalenderjaren, voorafgaande aan dat jaar voldoen aan de voorwaarden, bedoeld in artikel 8.3, eerste lid, of in een DKG als bedoeld in artikel 8.3, tweede lid, zijn ingedeeld, de volgende persoonsgegevens:
+De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een uitkering als bedoeld in artikel 118a van de wet wordt verstrekt, van zijn verzekerden of gewezen verzekerden die in dat jaar de leeftijd van achttien jaar hebben bereikt of nog zullen bereiken en die in de twee kalenderjaren, voorafgaande aan dat jaar voldoen aan de voorwaarden, bedoeld in artikel 8.3, eerste lid, of in een DKG als bedoeld in artikel 8.3, tweede lid, zijn ingedeeld, de volgende persoonsgegevens:
 
 a.het burgerservicenummer;
 
@@ -1478,8 +1478,8 @@ b.het bank- of girorekeningnummer.
 
 ### Artikel 7.5  
 
-1.  De zorgverzekeraar stelt voorafgaand aan de uitvoering van materiële controle het doel ervan vast door te bepalen wanneer voldoende zekerheid is verkregen dat de door de zorgaanbieder in rekening gebrachte prestatie is geleverd of die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde. Bij de vaststelling neemt de zorgverzekeraar het bij of krachtens de [Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) door de Nederlandse Zorgautoriteit bepaalde met betrekking tot het uitvoeren van controles in acht.   
-2.  De vaststelling door de zorgverzekeraar wanneer voldoende zekerheid is verkregen dat de geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde, geschiedt met inachtneming van het bepaalde in [artikel 2.1 van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en zodanig dat voor verzekerden en zorgaanbieders zoveel mogelijk inzichtelijk is welke maatstaven daarbij gelden.   
+1.  De zorgverzekeraar stelt voorafgaand aan de uitvoering van materiële controle het doel ervan vast door te bepalen wanneer voldoende zekerheid is verkregen dat de door de zorgaanbieder in rekening gebrachte prestatie is geleverd of die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde. Bij de vaststelling neemt de zorgverzekeraar het bij of krachtens de Wet marktordening gezondheidszorg door de Nederlandse Zorgautoriteit bepaalde met betrekking tot het uitvoeren van controles in acht.   
+2.  De vaststelling door de zorgverzekeraar wanneer voldoende zekerheid is verkregen dat de geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde, geschiedt met inachtneming van het bepaalde in artikel 2.1 van het Besluit zorgverzekering en zodanig dat voor verzekerden en zorgaanbieders zoveel mogelijk inzichtelijk is welke maatstaven daarbij gelden.   
 3.  De zorgverzekeraar mag verzekerden met gebruikmaking van persoonsgegevens waarover hij in verband met de uitvoering van de zorgverzekering reeds beschikt enquêteformulieren zenden om onderzoek te doen 
 
 1°. of de in rekening gebrachte zorg daadwerkelijk is verleend, en  
@@ -1528,7 +1528,7 @@ e. de zorgverzekeraar heeft de zorgaanbieder voorafgaand aan de uitvoering van d
 
 ### Artikel  7.11  
 
-De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 87, eerste en tweede lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) slechts verder voor de uitvoering van de zorgverzekering en de aanvullende ziektekostenverzekering indien en voor zo ver dit noodzakelijk is voor de doelen omschreven in artikel 7.1 van deze regeling. 
+De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in artikel 87, eerste en tweede lid, van de wet slechts verder voor de uitvoering van de zorgverzekering en de aanvullende ziektekostenverzekering indien en voor zo ver dit noodzakelijk is voor de doelen omschreven in artikel 7.1 van deze regeling. 
 
 ### Hoofdstuk  7a  
 
@@ -1536,7 +1536,7 @@ De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 87, eerste 
 
 ### Artikel  7a.1  
 
-1.  De gegevens als bedoeld in [artikel 122a, dertiende lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), bestaan uit: 
+1.  De gegevens als bedoeld in artikel 122a, dertiende lid, van de Zorgverzekeringswet, bestaan uit: 
 
 a. de prestatiebeschrijving van de aan de vreemdeling geleverde prestatie;  
 
@@ -1557,23 +1557,23 @@ Indien de verzekerde op het tijdstip van inwerkingtreding van deze regeling in h
 
 ### Artikel  8.2  
 
-1.  Ter zake van het verlenen van zorg of diensten in ziekenhuizen en medisch-specialistische zorg anders dan in ziekenhuizen, is [artikel 118, eerste lid, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) van toepassing.   
+1.  Ter zake van het verlenen van zorg of diensten in ziekenhuizen en medisch-specialistische zorg anders dan in ziekenhuizen, is artikel 118, eerste lid, van de Zorgverzekeringswet van toepassing.   
 2.  Het eerste lid is niet van toepassing op instellingen waarin een enkelvoudige onderzoek- of behandelfunctie wordt uitgeoefend, klinische revalidatie-instellingen, centra voor epileptici, brandwondencentra en astmacentra.  
 
 ### Artikel  8.3  
 
-1.  Een verzekerde voldoet aan de voorwaarden, bedoeld om [artikel 3a.1, eerste lid, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), indien: 
+1.  Een verzekerde voldoet aan de voorwaarden, bedoeld om artikel 3a.1, eerste lid, van het Besluit zorgverzekering, indien: 
 
 a. aan hem een geneesmiddel, genoemd in bijlage 5 voor de daarbij vermelde aandoening ter hand is gesteld;  
 
 b. aan hem van dat geneesmiddel een hoeveelheid van meer dan 180 keer de bij dat middel in bijlage 5 genoemde eenheid of indien in de bijlage bij dat geneesmiddel een receptregel als eenheid is genoemd, een hoeveelheid ter hand is gesteld, en  
 
 c. het geneesmiddel voor rekening van de zorgverzekering komt.     
-2.  In dit artikel wordt verstaan onder bijlage 5: bijlage 5 zoals die geldt voor de terhandstelling van geneesmiddelen in de twee kalenderjaren voorafgaande aan het kalenderjaar waarop de uitkering, bedoeld [118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft.   
-3.  De vervangen bijlage 5 blijft van toepassing op de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), waarvoor die vervangen bijlage gold.  
-4.  Als DKG’s als bedoeld in [artikel 3a.1, eerste lid, onderdeel b, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor de indeling in het jaar dat drie jaar voorafgaat aan het kalenderjaar waarop de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) betrekking heeft, worden aangewezen de DKG’s die in tabel 1 van bijlage 6 zijn opgenomen.   
-5.  Als DKG’s als bedoeld in [artikel 3a.1, eerste lid, onderdeel b, van het Besluit zorgverzekering](../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor de indeling in het jaar dat twee voorafgaat aan het kalenderjaar waarop de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betrekking heeft, worden aangewezen, de DKG’s die in tabel 2 van bijlage 6 zijn opgenomen.  
-6.   De tabellen 1 en 2 van de vervangen bijlage 6 blijven van toepassing op de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), waarvoor die vervangen bijlage gold. 
+2.  In dit artikel wordt verstaan onder bijlage 5: bijlage 5 zoals die geldt voor de terhandstelling van geneesmiddelen in de twee kalenderjaren voorafgaande aan het kalenderjaar waarop de uitkering, bedoeld 118a, eerste lid, van de wet, betrekking heeft.   
+3.  De vervangen bijlage 5 blijft van toepassing op de uitkering, bedoeld in artikel 118a, eerste lid, van de wet, waarvoor die vervangen bijlage gold.  
+4.  Als DKG’s als bedoeld in artikel 3a.1, eerste lid, onderdeel b, van het Besluit zorgverzekering, voor de indeling in het jaar dat drie jaar voorafgaat aan het kalenderjaar waarop de uitkering, bedoeld in artikel 118a, eerste lid, van de wet betrekking heeft, worden aangewezen de DKG’s die in tabel 1 van bijlage 6 zijn opgenomen.   
+5.  Als DKG’s als bedoeld in artikel 3a.1, eerste lid, onderdeel b, van het Besluit zorgverzekering, voor de indeling in het jaar dat twee voorafgaat aan het kalenderjaar waarop de uitkering, bedoeld in artikel 118a, eerste lid, van de wet, betrekking heeft, worden aangewezen, de DKG’s die in tabel 2 van bijlage 6 zijn opgenomen.  
+6.   De tabellen 1 en 2 van de vervangen bijlage 6 blijven van toepassing op de uitkering, bedoeld in artikel 118a, eerste lid, van de wet, waarvoor die vervangen bijlage gold. 
 
 ### Artikel  8.4  
 
@@ -1884,7 +1884,7 @@ J.F. Hoogervorst
 | 0A06ADAO  | V  | 17837  | Lactulose cf poeder 12g in sachet  | 0,56  | stuk  | 0,28040  |
 | 0A06ADAO  | V  | 19065  | Importal poeder 10g in sachet  | 1,00  | stuk  | 0,15656  |
 | 0A06ADAO  | V  | 19196  | LACTULOSESTROOP APOTEX 500MG/G  | 10,00  | ml  | 0,01566  |
-| 0A06ADAO  | V  | 19268  | Laxeerdrank lactulose stroop 500mg/g  | 10,00  | ml  | 0,01566  |
+| 0A06ADAO  | V  | 19268  | LAXEERDRANK HTP LACTULOSE STROOP 667MG/ML  | 10,00  | ml  | 0,01566  |
 | 0A06ADAO  | V  | 20869  | Duphalac lactulosestroop 667mg/ml  | 10,00  | ml  | 0,01566  |
 | 0A06ADAO  | V  | 22827  | Sirupus lactulosi 500mg/g  | 10,00  | ml  | 0,01566  |
 | 0A06ADAO  | V  | 24061  | Lactulosestroop flx 667mg/ml  | 10,00  | ml  | 0,01566  |
@@ -5350,7 +5350,7 @@ J.F. Hoogervorst
 | 0N05CDAP  | V  | 22590  | Midazolam fresenius injvlst 5mg/ml ampul   | 3,00  | ml  | 0,89939  |
 | 0N05CDAP  | V  | 22591  | Midazolam curasan injvlst 1mg/ml ampul 5ml  | 15,00  | ml  | 0,17988  |
 | 0N05CDAP  | V  | 22593  | Midazolam curasan injvlst 5mg/ml  | 3,00  | ml  | 0,89939  |
-| 0N05CDAP  | V  | 22594  | Midazolam actavis injvlst 1mg/ml ampul  | 15,00  | ml  | 0,17988  |
+| 0N05CDAP  | V  | 22594  | MIDAZOLAM ACTAVIS INJVLST 1MG/ML  | 15,00  | ml  | 0,17988  |
 | 0N05CDAP  | V  | 22596  | Midazolam actavis injvlst 5mg/ml  | 3,00  | ml  | 0,89939  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N06AAAO  | V  | 11407  | Nortrilen tablet 50mg  | 1,50  | stuk  | 0,29485  |
@@ -9960,8 +9960,8 @@ J.F. Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | 4N05AXAO V  | 109698//34628  | SEROQUEL XR TABLET MVA 400MG  | 0,75  | STUK  | 5,28402  |
 | --- | --- | --- | --- | --- | --- |
-| 0N06AAAO V  | 110094//3285  | NORTRILEN TABLET 10MG  | 7,50  | STUK  | 0,07666  |
-| 0N06AAAO V  | 110092//11407  | NORTRILEN TABLET 50MG  | 1,50  | STUK  | 0,29485  |
+| 0N06AAAO V  | 110094//3285  | NORTRIPTYLINE MEDCOR TABLET FILMOMHULD 10MG  | 7,50  | STUK  | 0,07666  |
+| 0N06AAAO V  | 110092//11407  | NORTRIPTYLINE MEDCOR TABLET FILMOMHULD 50MG  | 1,50  | STUK  | 0,29485  |
 | --- | --- | --- | --- | --- | --- |
 | YR03AKAIDCV  | 110163//25886  | SYMBICORT TURBUHALER INHALPDR 100/6MCG/DO 60DO  | 1,00  | DO  | 0,39413  |
 | --- | --- | --- | --- | --- | --- |
@@ -12045,9 +12045,9 @@ J.F. Hoogervorst
 | 0N03AXEO V  | 113045//25836  | TOPAMAX SPRINKLE CAPSULE 15MG  | 20,00  | STUK  | 0,50842  |
 | 0N03AXEO V  | 113046//25838  | TOPAMAX SPRINKLE CAPSULE 50MG  | 6,00  | STUK  | 0,79440  |
 | --- | --- | --- | --- | --- | --- |
-| 2N06ABAO V  | 111647  | ESCITALOPRAM ACTAVIS 10 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,06638  |
-| 2N06ABAO V  | 111648  | ESCITALOPRAM ACTAVIS 15 MG, FILMOMHULDE TABLETTEN  | 0,67  | STUK  | 1,59958  |
-| 2N06ABAO V  | 111649  | ESCITALOPRAM ACTAVIS 20 MG, FILMOMHULDE TABLETTEN  | 0,50  | STUK  | 2,13277  |
+| 2N06ABAO V  | 111647  | ESCITALOPRAM ACTAVIS TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,06638  |
+| 2N06ABAO V  | 111648  | ESCITALOPRAM ACTAVIS TABLET FILMOMHULD 15MG  | 0,67  | STUK  | 1,59958  |
+| 2N06ABAO V  | 111649  | ESCITALOPRAM ACTAVIS TABLET FILMOMHULD 20MG  | 0,50  | STUK  | 2,13277  |
 | --- | --- | --- | --- | --- | --- |
 | 0N07AAAO V  | EU/1/98/066/028  | EXELON PLEISTER TRANSDERMAAL 13,3MG/24UUR  | 0,68  | STUK  | 7,04116  |
 | 0N07AAAO V  | 111269  | PERMENTE PLEISTER TRANSDERMAAL 4,6MG/24UUR  | 1,96  | STUK  | 2,43529  |
@@ -12968,7 +12968,7 @@ J.F. Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | 0G04CBAO V  | 114773//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
 | --- | --- | --- | --- | --- | --- |
-| 0L01DCAP V  | 114717//105676  | BLEOMEDAC INJPDR FLACON 15000IU PH EUR  | 0,43  | STUK  | 46,96625  |
+| 0L01DCAP V  | 114717//105676  | BLEOMYCINE EURECO PH INJPDR FLACON 15000IU PH EUR  | 0,43  | STUK  | 46,96625  |
 | --- | --- | --- | --- | --- | --- |
 | 0L04AADO V  | 114831//18107  | PROGRAF CAPSULE 1MG  | 5,00  | STUK  | 2,84925  |
 | 0L04AADO V  | 114910//18108  | PROGRAFT CAPSULE 5MG  | 1,00  | STUK  | 14,24625  |
@@ -13079,7 +13079,7 @@ J.F. Hoogervorst
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
-| 0A07ECCO V  | 114015  | PENTASA COMPACT 4 G, GRANULAAT MET VERL. AFGIFTE  | 0,38  | STUK  | 5,00465  |
+| 0A07ECCO V  | 114015  | PENTASA COMPACT GRANULAAT MVA 4G IN SACHET  | 0,38  | STUK  | 5,00465  |
 | --- | --- | --- | --- | --- | --- |
 | 0A07ECCR V  | 114884//102870  | SALOFALK ZETPIL 1G  | 1,50  | STUK  | 2,02053  |
 | --- | --- | --- | --- | --- | --- |
@@ -13141,6 +13141,98 @@ J.F. Hoogervorst
 | YR03ACCIDAV  | 115000//34610  | FOSTER AEROSOL 100/6MCG/DOSIS SPUITBUS 180DO  | 1,00  | DO  | 0,40611  |
 | --- | --- | --- | --- | --- | --- |
 | YR03ACCIDCV  | 114924//110104  | FOSTER NEXTHALER INHALPDR 100/6MCG/DO 120DO  | 1,00  | DO  | 0,48321  |
+
+| --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|
+| 0A10BAAO V  | 104265  | METFORMINE HCL ACTAVIS TABLET 1000MG  | 2,00  | STUK  | 0,11042  |
+| --- | --- | --- | --- | --- | --- |
+| 0A10BHAO V  | EU/1/07/383/017  | JANUVIA TABLET FILMOMHULD 100MG  | 1,00  | STUK  | 3,22000  |
+| --- | --- | --- | --- | --- | --- |
+| 0A10BXAO V  | EU/1/12/795/001  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 14 TABL  | 2,00  | STUK  | 1,01400  |
+| 0A10BXAO V  | EU/1/12/795/002  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 28 TABL  | 2,00  | STUK  | 1,01400  |
+| 0A10BXAO V  | EU/1/12/795/003  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 98 TABL  | 2,00  | STUK  | 1,01400  |
+| 0A10BXAO V  | EU/1/12/795/004  | FORXIGA TABLET FILMOMHULD 5MG  | 2,00  | STUK  | 1,01400  |
+| 0A10BXAO V  | EU/1/12/795/005  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 90X1 TABL  | 2,00  | STUK  | 1,01400  |
+| 0A10BXAO V  | EU/1/12/795/006  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 14 TABL  | 1,00  | STUK  | 1,69000  |
+| 0A10BXAO V  | EU/1/12/795/007  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 28 TABL  | 1,00  | STUK  | 1,69000  |
+| 0A10BXAO V  | EU/1/12/795/008  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 98 TABL  | 1,00  | STUK  | 1,69000  |
+| 0A10BXAO V  | EU/1/12/795/009  | FORXIGA TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,69000  |
+| 0A10BXAO V  | EU/1/12/795/010  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 90X1 TABL  | 1,00  | STUK  | 1,69000  |
+| --- | --- | --- | --- | --- | --- |
+| 0C01CAAP V  | 114972//32727  | EPIPEN INJVLST 1MG/ML WWSP 0,3ML  | 1,00  | ML  | 148,23500  |
+| --- | --- | --- | --- | --- | --- |
+| 1C08DBAO V  | 109446  | DILTIAZEM HCL TEVA RETARD CAPSULE MGA 200MG  | 1,20  | STUK  | 0,51764  |
+| 1C08DBAO V  | 109448  | DILTIAZEM HCL TEVA RETARD CAPSULE MGA 300MG  | 0,80  | STUK  | 0,77647  |
+| --- | --- | --- | --- | --- | --- |
+| 0C09AAAO V  | 111432  | RAMIPRIL TEVA TABLET 2,5MG  | 1,00  | STUK  | 0,58408  |
+| 0C09AAAO V  | 111433  | RAMIPRIL TEVA TABLET 5MG  | 0,50  | STUK  | 1,16816  |
+| --- | --- | --- | --- | --- | --- |
+| 0C09CAAO V  | 107533  | CANDESARTAN CILEXETIL TEVA TABLET 32MG  | 0,25  | STUK  | 2,97680  |
+| --- | --- | --- | --- | --- | --- |
+| YC09BBBO V  | 113216  | PERINDOPRIL TOSILAAT/AMLODIPINE TEVA TABL 5/ 5MG  | 1,00  | STUK  | 1,38460  |
+| YC09BBBO V  | 113217  | PERINDOPRIL TOSILAAT/AMLODIPINE TEVA TABL 5/10MG  | 1,00  | STUK  | 2,03910  |
+| YC09BBBO V  | 113218  | PERINDOPRIL TOSILAAT/AMLODIPINE TEVA TABL 10/ 5MG  | 1,00  | STUK  | 2,11470  |
+| YC09BBBO V  | 113219  | PERINDOPRIL TOSILAAT/AMLODIPINE TEVA TABL 10/10MG  | 1,00  | STUK  | 2,76920  |
+| --- | --- | --- | --- | --- | --- |
+| YC09DAAO V  | 113670  | TELMISARTAN/HCT TEVA TABLET 40/12,5MG  | 1,00  | STUK  | 0,79593  |
+| YC09DAAO V  | 112012  | TELMISARTAN/HCT TEVA TABLET 80/12,5MG  | 1,00  | STUK  | 1,54013  |
+| YC09DAAO V  | 112013  | TELMISARTAN/HCT TEVA TABLET 80/25MG  | 1,00  | STUK  | 1,59186  |
+| --- | --- | --- | --- | --- | --- |
+| YC10AXAO V  | 115215//30929  | EZETIMIB/SIMVASTATINE FISHER TABLET 10/40MG  | 1,00  | STUK  | 3,56638  |
+| --- | --- | --- | --- | --- | --- |
+| 0G03AABO V  | 111642  | DROSPIRENON/ETHINYLESTR 24+4 ACT TABL OMH 3/0,02MG  | 0,86  | STUK  | 0,11597  |
+| 0G03AABO V  | 111640  | DROSPIRENON/ETHINYLESTRADIOL ACT TABL OMH 3/0,03MG  | 0,75  | STUK  | 0,13253  |
+| --- | --- | --- | --- | --- | --- |
+| 0G03ACBO V  | 111889  | ISTERANDA TABLET 1,5MG  | 1,00  | STUK  | 5,32280  |
+| --- | --- | --- | --- | --- | --- |
+| 0H01CBAP V  | 115001//26302  | SOMATULINE AUTOSOLUTION 90 INJ 300MG/ML WWS 0,3ML  | 0,02  | STUK  | 1625,97507  |
+| 0H01CBAP V  | 115002//26303  | SOMATULINE AUTOSOLUTION 120 INJ 300MG/ML WWS 0,4ML  | 0,02  | STUK  | 2167,96676  |
+| 0H01CBAP V  | 115003//26303  | SOMATULINE AUTOSOLUTION 120 INJ 300MG/ML WWS 0,4ML  | 0,02  | STUK  | 2167,96676  |
+| --- | --- | --- | --- | --- | --- |
+| 0H01CBBP V  | 112909  | SIROCTID 0,05 MG/ML OPL V INJ IN VV SPUIT  | 14,00  | ML  | 8,68027  |
+| 0H01CBBP V  | 112910  | SIROCTID 0,1 MG/ML OPL V INJ IN VV SPUIT  | 7,00  | ML  | 10,85034  |
+| 0H01CBBP V  | 112911  | SIROCTID 0,5 MG/ML OPL V INJ IN VV SPUIT  | 1,40  | ML  | 54,25170  |
+| --- | --- | --- | --- | --- | --- |
+| 0H02ABAO V  | 114546//22557  | BUDENOFALK CAPSULE MGA 3MG  | 3,00  | STUK  | 1,02100  |
+| --- | --- | --- | --- | --- | --- |
+| 0J01MAAO V  | 113376  | MOXIFLOXACINE TEVA 400 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 3,05666  |
+| --- | --- | --- | --- | --- | --- |
+| 0J02ACBO V  | EU/1/05/320/002  | NOXAFIL 100 MG MAAGSAPRESISTENTE TABLETTEN  | 1,00  | STUK  | 68,24000  |
+| --- | --- | --- | --- | --- | --- |
+| 0M01AHBO V  | 115014//27705  | ARCOXIA TABLET FILMOMHULD 60MG  | 1,00  | STUK  | 1,13188  |
+| 0M01AHBO V  | 115012//27706  | ARCOXIA TABLET FILMOMHULD 90MG  | 0,67  | STUK  | 1,69782  |
+| 0M01AHBO V  | 114886//25054  | CELEBREX CAPSULE 200MG  | 1,00  | STUK  | 1,13188  |
+| --- | --- | --- | --- | --- | --- |
+| 0M03AXAP V  | 114782//17379  | BOTOX INJECTIEPOEDER FLACON 100E  | 0,02  | STUK  | 272,26810  |
+| --- | --- | --- | --- | --- | --- |
+| 0M05BABO V  | 106328  | RISEDRONAATNATRIUM MYLAN WEKELIJKS TABL OMH 35MG  | 0,14  | STUK  | 8,57645  |
+| --- | --- | --- | --- | --- | --- |
+| 0N04BCAO V  | EU/1/08/469/027  | OPRYMEA TABLET MVA 0,375MG (0,26MG BASE)  | 6,67  | STUK  | 0,58728  |
+| 0N04BCAO V  | EU/1/08/469/035  | OPRYMEA TABLET MVA 1,5MG (1,05MG BASE)  | 1,67  | STUK  | 2,34913  |
+| 0N04BCAO V  | EU/1/08/469/039  | OPRYMEA TABLET MVA 2,25MG (1,57MG BASE)  | 1,11  | STUK  | 3,52369  |
+| 0N04BCAO V  | EU/1/08/469/043  | OPRYMEA TABLET MVA 3MG (2,1MG BASE)  | 0,83  | STUK  | 4,69826  |
+| --- | --- | --- | --- | --- | --- |
+| 0N06AAAO V  | 115151//3285  | NORTRILEN TABLET 10MG  | 7,50  | STUK  | 0,07666  |
+| 0N06AAAO V  | 115152//3286  | NORTRILEN TABLET 25MG  | 3,00  | STUK  | 0,14743  |
+| 0N06AAAO V  | 115153//11407  | NORTRILEN TABLET 50MG  | 1,50  | STUK  | 0,29485  |
+| --- | --- | --- | --- | --- | --- |
+| 0N06DXAO V  | 112521  | MEMANTINE TEVA TABLET FILMOMHULD 10MG  | 2,00  | STUK  | 1,86000  |
+| 0N06DXAO V  | 112522  | MEMANTINE TEVA TABLET FILMOMHULD 20MG  | 1,00  | STUK  | 3,10000  |
+| --- | --- | --- | --- | --- | --- |
+| 2N06ABAO V  | 113875  | ESCITALOPRAM GLENMARK TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,06638  |
+| 2N06ABAO V  | 113876  | ESCITALOPRAM GLENMARK TABLET FILMOMHULD 15MG  | 0,67  | STUK  | 1,59958  |
+| 2N06ABAO V  | 113877  | ESCITALOPRAM GLENMARK TABLET FILMOMHULD 20MG  | 0,50  | STUK  | 2,13277  |
+| 2N06ABAO V  | 111295  | ESCITALOPRAM MYLAN TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,06638  |
+| 2N06ABAO V  | 111296  | ESCITALOPRAM MYLAN TABLET FILMOMHULD 15MG  | 0,67  | STUK  | 1,59958  |
+| 2N06ABAO V  | 111297  | ESCITALOPRAM MYLAN TABLET FILMOMHULD 20MG  | 0,50  | STUK  | 2,13277  |
+| 2N06ABAO V  | 112954  | ESCITALOPRAM RANBAXY TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,06638  |
+| 2N06ABAO V  | 112956  | ESCITALOPRAM RANBAXY TABLET FILMOMHULD 20MG  | 0,50  | STUK  | 2,13277  |
+| --- | --- | --- | --- | --- | --- |
+| 0R03ACCIDCV  | 115245//18150  | SEREVENT DISKUS INHPDR 50MCG 60DO  | 2,00  | DO  | 0,61011  |
+| --- | --- | --- | --- | --- | --- |
+| YR03ACCIDCV  | 115192//110104  | FOSTER NEXTHALER INHALPDR 100/6MCG/DO 120DO  | 1,00  | DO  | 0,48321  |
+| YR03ACCIDCV  | 115212//110104  | FOSTER NEXTHALER INHALPDR 100/6MCG/DO 120DO  | 1,00  | DO  | 0,48321  |
+| YR03ACCIDCV  | 115226//110104  | FOSTER NEXTHALER INHALPDR 100/6MCG/DO 120DO  | 1,00  | DO  | 0,48321  |
 
 ### B  
 
@@ -14568,16 +14660,6 @@ J.F. Hoogervorst
 | 114112//35295  | APO-GO INFVLST 5MG/ML WWSP 10ML  |
 | 111742  | ATOVAQUON/PROGUANIL TEVA TABLET FILMOMH 250/100MG  |
 | EU/1/11/742/002  | EFAVIRENZ TEVA TABLET FILMOMHULD 600MG  |
-| EU/1/12/795/006  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 14 TABL  |
-| EU/1/12/795/007  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 28 TABL  |
-| EU/1/12/795/010  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 90X1 TABL  |
-| EU/1/12/795/008  | FORXIGA 10 MG FILMOMHULDE TABL, BLISTER 98 TABL  |
-| EU/1/12/795/001  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 14 TABL  |
-| EU/1/12/795/002  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 28 TABL  |
-| EU/1/12/795/005  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 90X1 TABL  |
-| EU/1/12/795/003  | FORXIGA 5 MG FILMOMHULDE TABL, BLISTER 98 TABL  |
-| EU/1/12/795/004  | FORXIGA TABLET FILMOMHULD 5MG  |
-| EU/1/12/795/009  | FORXIGA TABLET FILMOMHULD 10MG  |
 | 114099//16681  | MIRENA I.U.D.  |
 | 113918//8071  | RESONIUM A POEDER  |
 | EU/1/10/612/007  | REVOLADE 75 MG FILMOMHULDE TABLET 14 TABL  |
@@ -14675,6 +14757,12 @@ J.F. Hoogervorst
 |:---|:---|
 | 114829//11146  | LIVIAL TABLET 2,5MG  |
 
+| --- | --- |
+|:---|:---|
+| EU/1/13/838/002  | AUBAGIO 14 MG FILMOMHULDE TABLETTEN  |
+| 114262//9869  | BUPIVACAINE HCL+GLUC EU-PH INJVL 5/80MG/ML AMP 4ML  |
+| EU/1/13/872/001  | TYBOST TABLET FILMOMHULD 150MG  |
+
 ### Bijlage 2 
 
 ####horende bij artikel 2.5, tweede en derde lid , van de Regeling zorgverzekering
@@ -14763,9 +14851,9 @@ Vervallen.
 
 ### 8 
 
-####* Een anti-retroviraal geneesmiddel*
+####*Een anti-retroviraal geneesmiddel*
 
-Voorwaarde: uitsluitend voor een verzekerde die voor behandeling met zo'n geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de [Wet op de Geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) is geregistreerd. 
+Voorwaarde: uitsluitend voor een verzekerde die voor behandeling met zo'n geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de Geneesmiddelenwet is geregistreerd. 
 
 ### 9 
 
@@ -14783,9 +14871,9 @@ Vervallen.
 
 Voorwaarde: uitsluitend voor een verzekerde die: 
 
-a. wordt behandeld met cytostatica voor een kwaadaardige aandoening en voor het geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) is geregistreerd,  
+a. wordt behandeld met cytostatica voor een kwaadaardige aandoening en voor het geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de Geneesmiddelenwet is geregistreerd,  
 
-b. wordt behandeld met ganciclovir voor een cytomegalovirus retinitis als gevolg van AIDS en voor het geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de [Geneesmiddelenwet](../../../../wet/geneesmiddelenwet/BWBR0021505/README.md) is geregistreerd,  
+b. wordt behandeld met ganciclovir voor een cytomegalovirus retinitis als gevolg van AIDS en voor het geneesmiddel een medische indicatie heeft waarvoor het geneesmiddel krachtens de Geneesmiddelenwet is geregistreerd,  
 
 c. wordt behandeld voor een ernstige congenitale, cyclische of idiopatische neutropenie, of  
 
@@ -15181,7 +15269,7 @@ c. ter behandeling van menorragie waarbij sprake is van bloedarmoede, inhoudende
 
 ###65 
 
-####Rivaroxaban, apixaban
+####Rivaroxaban, apixaban en dabigatran
 
 Voorwaarde: uitsluitend voor een verzekerde van achttien jaar of ouder 
 
@@ -15191,13 +15279,7 @@ b. met nonvalvulair atriumfibrilleren en een of meer risicofactoren die dit gene
 
 ###66 
 
-####Dabigatran
-
-Voorwaarde: uitsluitend voor een verzekerde van achttien jaar of ouder 
-
-a. die op dit geneesmiddel is aangewezen voor de primaire preventie van veneuze trombo-embolische aandoeningen na een electieve totale knie- of heupvervangende operatie, of  
-
-b. met nonvalvulair atriumfibrilleren en een of meer risicofactoren die dit geneesmiddel ter preventie van cerebrovasculair accident of systemische embolie gebruikt overeenkomstig de introductieleidraad die in Nederland door de desbetreffende beroepsgroepen is aanvaard.  
+Vervallen.
 
 ###67 
 
@@ -15357,6 +15439,18 @@ Voorwaarde: uitsluitend voor een verzekerde van achttien jaar of ouder met prima
 
 Voorwaarde uitsluitend voor de behandeling van lichte tot matige idiopathische pulmonale fibrose (IPF) bij volwassenen.
 
+### 91  
+
+####Teriflunomide
+
+Voorwaarde: uitsluitend voor een verzekerde van achttien jaar of ouder met relapsing remitting multiple sclerose (RRMS).
+
+### 92  
+
+####Leuproreline
+
+Voorwaarde: uitsluitend voor een verzekerde die dit geneesmiddel krijgt voorgeschreven voor een behandeling anders dan in het kader van ondersteunende voortplantingstechnieken.
+
 ### Bijlage 3  
 
 ####van de Regeling zorgverzekering
@@ -15417,7 +15511,7 @@ Vervallen.
 
 ####van de Regeling zorgverzekering
 
-Bijlage behorend bij artikel 6.3.1 van de Regeling zorgverzekering en [artikel 3, tweede lid, Wet op de zorgoeslag](../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md)Het in artikel 6.3.1, eerste lid, van deze regeling en in [artikel 3, eerste lid, van de Wet op de zorgtoeslag](../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) bedoelde verhoudingsgetal voor het jaar 2014, de gemiddelde uitgaven voor zorg in het woonland en de gemiddelde uitgaven voor zorg voor Nederland voor het jaar dat overeenkomt met het jaar waarvoor de kosten in het woonland zijn berekend, zijn in onderstaande tabel opgenomen in respectievelijk de kolom *Woonlandfactor*, de kolom *Gemiddelde zorgkosten woonland* en de kolom *Gemiddelde zorgkosten Nederland* en luiden als volgt:  
+Bijlage behorend bij artikel 6.3.1 van de Regeling zorgverzekering en artikel 3, tweede lid, Wet op de zorgoeslagHet in artikel 6.3.1, eerste lid, van deze regeling en in artikel 3, eerste lid, van de Wet op de zorgtoeslag bedoelde verhoudingsgetal voor het jaar 2014, de gemiddelde uitgaven voor zorg in het woonland en de gemiddelde uitgaven voor zorg voor Nederland voor het jaar dat overeenkomt met het jaar waarvoor de kosten in het woonland zijn berekend, zijn in onderstaande tabel opgenomen in respectievelijk de kolom *Woonlandfactor*, de kolom *Gemiddelde zorgkosten woonland* en de kolom *Gemiddelde zorgkosten Nederland* en luiden als volgt:  
 
 | Land  | Berekeningsjaar  | Gemiddelde zorgkosten woonland  | Gemiddelde zorgkosten Nederland<sup>1</sup>   | Woonlandfactor  |
 |:---|:---|:---|:---|:---|
@@ -15506,7 +15600,7 @@ Bijlage behorend bij artikel 6.3.1 van de Regeling zorgverzekering en [artikel 3
 
 ###Bijlage 5 
 
-####behorende bij artikel 8.3, eerste lid  van de Regeling zorgverzekering, geldend voor de terhandstelling van geneesmiddelen in de kalenderjaren 2011 en 2012 voor de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die betrekking heeft op het kalenderjaar 2013
+####behorende bij artikel 8.3, eerste lid  van de Regeling zorgverzekering, geldend voor de terhandstelling van geneesmiddelen in de kalenderjaren 2011 en 2012 voor de uitkering, bedoeld in artikel 118a, eerste lid, van de wet die betrekking heeft op het kalenderjaar 2013
 
 | CER grp  | ATC-code (in 2012)  | stofnaam / omschrijving ATC-code  | Eenheid in 2012, per toedieningsweg / opmerkingen  |
 |:---|:---|:---|:---|

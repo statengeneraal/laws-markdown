@@ -47,13 +47,13 @@ l. economische binding aan een gebied: de binding van een persoon aan een gebied
 m. maatschappelijke binding aan een gebied: de binding van een persoon aan een gebied, daarin gelegen dat die persoon een redelijk, met de plaatselijke samenleving verband houdend belang heeft zich in dat gebied te vestigen, met dien verstande dat een maatschappelijke binding in elk geval wordt aangenomen ten aanzien van personen die ten minste zes jaar onafgebroken ingezetene zijn, dan wel gedurende de voorafgaande tien jaar ten minste zes jaar onafgebroken ingezetene zijn geweest van dat gebied;  
 
 n. regio: een gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd.     
-2.   Voor zover niet anders is bepaald, wordt in deze wet en de daarop berustende bepalingen onder eigenaar van een woonruimte of een gebouw verstaan: degene die bevoegd is tot het in gebruik geven van die woonruimte of dat gebouw. Onder "eigenaar in de zin van het Burgerlijk Wetboek" wordt in deze wet en de daarop berustende bepalingen mede verstaan: de erfpachter, vruchtgebruiker, gerechtigde tot een appartementsrecht als bedoeld in [artikel 106 van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), of degene aan wie door een rechtspersoon het gebruiksrecht van een woonruimte is verleend.   
+2.   Voor zover niet anders is bepaald, wordt in deze wet en de daarop berustende bepalingen onder eigenaar van een woonruimte of een gebouw verstaan: degene die bevoegd is tot het in gebruik geven van die woonruimte of dat gebouw. Onder "eigenaar in de zin van het Burgerlijk Wetboek" wordt in deze wet en de daarop berustende bepalingen mede verstaan: de erfpachter, vruchtgebruiker, gerechtigde tot een appartementsrecht als bedoeld in artikel 106 van Boek 5 van het Burgerlijk Wetboek, of degene aan wie door een rechtspersoon het gebruiksrecht van een woonruimte is verleend.   
 3.  In deze wet en de daarop berustende bepalingen worden onder woonruimte mede begrepen:  
 
 a. een standplaats,   
 
 b. een ligplaats.      
-4.   Indien de huurprijs hoger is dan de maximale huurprijsgrens voor de desbetreffende woonruimte, vastgesteld overeenkomstig het bij of krachtens de [onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) daaromtrent bepaalde, dan wel indien een woonruimte niet verhuurd is en evenmin te huur wordt aangeboden, geldt voor de toepassing van deze wet en de daarop berustende bepalingen als huurprijs: de maximale huurprijsgrens, ongeacht of [onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) op de betrokken overeenkomst van huur en verhuur wel of niet van toepassing is.   
+4.   Indien de huurprijs hoger is dan de maximale huurprijsgrens voor de desbetreffende woonruimte, vastgesteld overeenkomstig het bij of krachtens de onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek daaromtrent bepaalde, dan wel indien een woonruimte niet verhuurd is en evenmin te huur wordt aangeboden, geldt voor de toepassing van deze wet en de daarop berustende bepalingen als huurprijs: de maximale huurprijsgrens, ongeacht of onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek op de betrokken overeenkomst van huur en verhuur wel of niet van toepassing is.   
 5.   Indien voor een woonruimte die niet verhuurd is en evenmin te huur wordt aangeboden, niet een maximale huurprijsgrens kan worden bepaald als bedoeld in het vierde lid, geldt voor de toepassing van deze wet en de daarop berustende bepalingen als huurprijs: de huurprijs die bij huur en verhuur als woonruimte redelijkerwijs zou kunnen worden overeengekomen, gelet op de huurprijs die in het economisch verkeer voor vergelijkbare woonruimten wordt overeengekomen.  
 
 ### §  2  
@@ -64,13 +64,13 @@ b. een ligplaats.
 
 1.  Indien het naar het oordeel van de gemeenteraad noodzakelijk is regelen te stellen met betrekking tot het in gebruik nemen of geven van woonruimte als bedoeld in hoofdstuk II, of met betrekking tot wijzigingen van de woonruimtevoorraad als bedoeld in hoofdstuk III, stelt de gemeenteraad een huisvestingsverordening vast.   
 2.   Ten behoeve van de toepassing van het eerste lid gaat de gemeenteraad in elk geval na hoe met regelen als in dat lid bedoeld, kan worden bewerkstelligd dat bij het in gebruik geven van woonruimten met een verhoudingsgewijs lage prijs zoveel mogelijk voorrang wordt gegeven aan woningzoekenden die, gelet op hun inkomen, in het bijzonder op die woonruimten zijn aangewezen. Tevens gaat de gemeenteraad na op welke wijze kan worden bewerkstelligd dat bij het in gebruik nemen of geven van een standplaats voorrang wordt verleend aan woningzoekenden, die in een woonwagen wonen of hebben gewoond.   
-3. In afwijking van het eerste en tweede lid treedt het algemeen bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) voor de toepassing van die leden in de plaats van de gemeenteraad. 
+3. In afwijking van het eerste en tweede lid treedt het algemeen bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen voor de toepassing van die leden in de plaats van de gemeenteraad. 
 
 ### Artikel  3  
 
-1.  Bij de voorbereiding van een besluit tot vaststelling of wijziging van een huisvestingsverordening plegen burgemeester en wethouders overleg met de in de gemeente werkzame, ingevolge [artikel 70, eerste lid](../../../wet/woningwet/BWBR0005181/README.md), of [artikel 70j, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md) (*Stb.* 1991, 439) toegelaten instellingen en met andere daarvoor naar hun oordeel in aanmerking komende organisaties die binnen de gemeente op het gebied van de woonruimteverdeling werkzaam zijn.   
-2.   Burgemeester en wethouders zenden een besluit tot vaststelling of wijziging van een huisvestingsverordening toe aan gedeputeerde staten. Zij zenden een afschrift van een zodanig besluit toe aan de inspecteur, bedoeld in [artikel 1, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md).  
-3. In afwijking van het eerste en tweede lid treedt het dagelijks bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) voor de toepassing van die leden in de plaats van burgemeester en wethouders.
+1.  Bij de voorbereiding van een besluit tot vaststelling of wijziging van een huisvestingsverordening plegen burgemeester en wethouders overleg met de in de gemeente werkzame, ingevolge artikel 70, eerste lid, of artikel 70j, eerste lid, van de Woningwet (*Stb.* 1991, 439) toegelaten instellingen en met andere daarvoor naar hun oordeel in aanmerking komende organisaties die binnen de gemeente op het gebied van de woonruimteverdeling werkzaam zijn.   
+2.   Burgemeester en wethouders zenden een besluit tot vaststelling of wijziging van een huisvestingsverordening toe aan gedeputeerde staten. Zij zenden een afschrift van een zodanig besluit toe aan de inspecteur, bedoeld in artikel 1, eerste lid, van de Woningwet.  
+3. In afwijking van het eerste en tweede lid treedt het dagelijks bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen voor de toepassing van die leden in de plaats van burgemeester en wethouders.
 
 ### §  3  
 
@@ -112,7 +112,7 @@ b. andere woonruimten dan bedoeld onder *a*.
 
 a. voor de aanwijzing van woonruimten als bedoeld in dat lid, onder *a*: het in de betrokken gemeente geldende hoogste bedrag voor de koopsom van een woonruimte, voor het verkrijgen in eigendom waarvan aan degene die zodanige woonruimte als eigenaar zal bewonen, afhankelijk van de hoogte van diens inkomen, krachtens wettelijk voorschrift van overheidswege subsidie kan worden verstrekt;  
 
-b. voor de aanwijzing van woonruimten als bedoeld in dat lid, onder *b*: een twaalfde deel van het bedrag, op het tijdstip van de aanwijzing genoemd in artikel 16 van de Wet individuele huursubsidie (*Stb.* 1990, 394), dan wel het bedrag op het tijdstip van de aanwijzing genoemd in [artikel 13, eerste lid, onder a, van de Huursubsidiewet](../../../wet/huursubsidiewet/BWBR0008659/README.md) dan wel de [Wet op de huurtoeslag](../../../wet/huursubsidiewet/BWBR0008659/README.md).     
+b. voor de aanwijzing van woonruimten als bedoeld in dat lid, onder *b*: een twaalfde deel van het bedrag, op het tijdstip van de aanwijzing genoemd in artikel 16 van de Wet individuele huursubsidie (*Stb.* 1990, 394), dan wel het bedrag op het tijdstip van de aanwijzing genoemd in artikel 13, eerste lid, onder a, van de Huursubsidiewet dan wel de Wet op de huurtoeslag.     
 4.   In afwijking van het bepaalde in het tweede lid, kunnen woonruimten als daar bedoeld worden aangewezen, voor zover zodanige aanwijzing in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de betrokken gemeente of in een of meer kernen, behorend tot die gemeente.  
 
 ### Artikel  7  
@@ -140,7 +140,7 @@ De gemeenteraad kan, voor zover dat in het belang van een evenwichtige en rechtv
 
 a. de Nederlandse nationaliteit bezitten of op grond van een wettelijke bepaling als Nederlander worden behandeld, of   
 
-b. vreemdeling zijn en rechtmatig verblijf houden als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).     
+b. vreemdeling zijn en rechtmatig verblijf houden als bedoeld in artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000.     
 
 ### Artikel  10  
 
@@ -178,11 +178,11 @@ a. waarvan redelijkerwijs niet of niet meer verwacht kan worden dat zij door het
 
 b. die als remigrant wensen terug te keren naar Nederland of zijn teruggekeerd, doch nog niet over passende huisvesting beschikken;  
 
-c. aan wie op grond van een asielverzoek of ambtshalve een van de verblijfsvergunningen, bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is verleend, indien zij na die verlening voor de eerste maal woonruimte zoeken; 
+c. aan wie op grond van een asielverzoek of ambtshalve een van de verblijfsvergunningen, bedoeld in artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000 is verleend, indien zij na die verlening voor de eerste maal woonruimte zoeken; 
 
 d. die na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed, in verband met die omstandigheid dringend woonruimte behoeven, of  
 
-e. die een procedure tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed aanhangig hebben gemaakt en een voorlopige voorziening als bedoeld in [artikel 822](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [823 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) hebben verkregen, indien zij in verband met die omstandigheid dringend woonruimte behoeven.     
+e. die een procedure tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed aanhangig hebben gemaakt en een voorlopige voorziening als bedoeld in artikel 822 en 823 van het Wetboek van Burgerlijke Rechtsvordering hebben verkregen, indien zij in verband met die omstandigheid dringend woonruimte behoeven.     
 2.  Voor zover dat in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de gemeente of in een of meer kernen, behorend tot de gemeente, kan de gemeenteraad afwijken van het bepaalde in het eerste lid, onder a, b, d en e.  
 
 ### §  4  
@@ -263,7 +263,7 @@ c. de termijn waarbinnen door burgemeester en wethouders op de aanvraag moet wor
 
 d. de gegevens die ten minste in de beschikking op de aanvraag moeten worden vermeld.     
 2.   De gemeenteraad kan in de huisvestingsverordening bepalen dat een aanvraag slechts in behandeling wordt genomen, indien de aanvrager aannemelijk kan maken dat hij, indien hij een huisvestingsvergunning voor de in de aanvraag aangegeven woonruimte krijgt, die woonruimte ook daadwerkelijk in gebruik zal kunnen nemen.   
-3.   Een bepaling als bedoeld in het tweede lid, blijft buiten toepassing, indien de aanvraag is gedaan met het oog op het bepaalde in de [artikelen 267 lid 6](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [268 lid 3](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of [270 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
+3.   Een bepaling als bedoeld in het tweede lid, blijft buiten toepassing, indien de aanvraag is gedaan met het oog op het bepaalde in de artikelen 267 lid 6, 268 lid 3 of 270 lid 1 van Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  24  
 
@@ -282,9 +282,9 @@ Indien de vergunning wordt verleend, vermelden burgemeester en wethouders in hun
 1.  Onverminderd artikel 9, tweede lid, wordt een huisvestingsvergunning voorts aan iedere aanvrager verleend, indien de woonruimte door de eigenaar gedurende een door de gemeenteraad in de huisvestingsverordening te bepalen termijn van ten hoogste dertien weken vruchteloos is aangeboden aan de woningzoekenden die ingevolge het bepaalde krachtens de artikelen 9, 10, 11 en 12 voor die woonruimte in aanmerking komen.   
 2.   Het eerste lid is slechts van toepassing:  
 
-a. ingeval de woonruimte te huur wordt aangeboden en [onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) op die woonruimte van toepassing is: indien de gevraagde huurprijs niet hoger is dan de voor de betrokken woonruimte ingevolge die onderafdeling geldende maximale huurprijsgrens;  
+a. ingeval de woonruimte te huur wordt aangeboden en onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek op die woonruimte van toepassing is: indien de gevraagde huurprijs niet hoger is dan de voor de betrokken woonruimte ingevolge die onderafdeling geldende maximale huurprijsgrens;  
 
-b. ingeval de woonruimte te huur wordt aangeboden en [onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet op die woonruimte van toepassing is: indien de gevraagde huurprijs niet hoger is dan redelijk is, gelet op de huurprijs die in het economisch verkeer voor vergelijkbare woonruimten wordt overeengekomen;  
+b. ingeval de woonruimte te huur wordt aangeboden en onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek niet op die woonruimte van toepassing is: indien de gevraagde huurprijs niet hoger is dan redelijk is, gelet op de huurprijs die in het economisch verkeer voor vergelijkbare woonruimten wordt overeengekomen;  
 
 c. ingeval de woonruimte te koop wordt aangeboden: indien de koopprijs niet hoger is dan redelijk is gelet op de waarde van de woonruimte in het economisch verkeer.     
 3.   De gemeenteraad stelt in de huisvestingsverordening regels met betrekking tot de wijze waarop de aanbieding dient plaats te vinden. De raad kan daarbij tevens regels stellen omtrent de wijze waarop aan burgemeester en wethouders moet worden aangetoond dat de aanbieding in overeenstemming met het bij en krachtens de wet bepaalde heeft plaatsgevonden, alsmede met betrekking tot de wijze waarop aan burgemeester en wethouders verslag moet worden uitgebracht over het verloop van de aanbiedingsprocedure.   
@@ -296,8 +296,8 @@ In bijzondere gevallen kunnen burgemeester en wethouders een huisvestingsvergunn
 
 ### Artikel  27a  
 
-1.  Burgemeester en wethouders kunnen in afwijking van de artikelen 25, eerste lid, en 26, eerste lid, de huisvestingsvergunning weigeren in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+1.  Burgemeester en wethouders kunnen in afwijking van de artikelen 25, eerste lid, en 26, eerste lid, de huisvestingsvergunning weigeren in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  28  
 
@@ -306,8 +306,8 @@ In bijzondere gevallen kunnen burgemeester en wethouders een huisvestingsvergunn
 a. de vergunninghouder de erin vermelde woonruimte niet binnen de door burgemeester en wethouders bij de verlening van de vergunning gestelde termijn in gebruik heeft genomen;  
 
 b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.    
-2.  Burgemeesters en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+2.  Burgemeesters en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  29  
 
@@ -338,8 +338,8 @@ d. te verbouwen tot twee of meer woonruimten.
 ### Artikel  31  
 
 1. Een vergunning als bedoeld in artikel 30, eerste lid, wordt verleend, tenzij het belang van het behoud of de samenstelling van de woonruimtevoorraad groter is dan het met het onttrekken aan de bestemming tot bewoning gediende belang en het belang van het behoud of de samenstelling van de woonruimtevoorraad niet door het stellen van voorwaarden en voorschriften voldoende kan worden gediend.  
-2.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  
-3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+2.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.  
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  32  
 
@@ -351,13 +351,13 @@ De gemeenteraad bepaalt in de huisvestingsverordening ten minste de voorwaarden 
 
 ### Artikel  33  
 
-1.  Het is verboden een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie, zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in [artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
+1.  Het is verboden een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie, zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek, indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
 2.   Het eerste lid is van overeenkomstige toepassing op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon met betrekking tot een gebouw als bedoeld in het eerste lid.  
 
 ### Artikel  33a  
 
-1.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+1.  De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  34  
 
@@ -392,7 +392,7 @@ b. de gegevens die door de aanvrager moeten worden verstrekt met het oog op de b
 c. de termijn waarbinnen door burgemeester en wethouders op de aanvraag moet worden beslist;  
 
 d. de gegevens die ten minste in de beschikking op de aanvraag moeten worden vermeld.     
-2.  Indien van de vergunning slechts gebruik kan worden gemaakt na verlening van een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder c, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), wordt de aanvraag mede aangemerkt als een verzoek om zodanige omgevingsvergunning.  
+2.  Indien van de vergunning slechts gebruik kan worden gemaakt na verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de Wet algemene bepalingen omgevingsrecht, wordt de aanvraag mede aangemerkt als een verzoek om zodanige omgevingsvergunning.  
 
 ### Artikel  36  
 
@@ -408,17 +408,17 @@ d. de gegevens die ten minste in de beschikking op de aanvraag moeten worden ver
 
 1. Burgemeester en wethouders kunnen een vergunning intrekken, indien:  
 
-a. niet binnen een jaar nadat de beschikking onherroepelijk is geworden, is overgegaan tot onttrekking, samenvoeging of omzetting, onderscheidenlijk tot overschrijving in de openbare registers van de akte van splitsing in appartementsrechten, bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), of tot het verlenen van deelnemings- of lidmaatschapsrechten;  
+a. niet binnen een jaar nadat de beschikking onherroepelijk is geworden, is overgegaan tot onttrekking, samenvoeging of omzetting, onderscheidenlijk tot overschrijving in de openbare registers van de akte van splitsing in appartementsrechten, bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek, of tot het verlenen van deelnemings- of lidmaatschapsrechten;  
 
 b. de vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren, of  
 
 c. de voorwaarden en voorschriften, bedoeld in artikel 32, niet worden nageleefd.  
-2.  Burgemeester en wethouders kunnen een vergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+2.  Burgemeester en wethouders kunnen een vergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  39  
 
-Inschrijving in de openbare registers van een akte als bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) vindt alleen plaats, indien onder de akte een notariële verklaring is opgenomen, dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 33 niet is vereist, dan wel onherroepelijk is geworden. 
+Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek vindt alleen plaats, indien onder de akte een notariële verklaring is opgenomen, dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 33 niet is vereist, dan wel onherroepelijk is geworden. 
 
 ### Hoofdstuk  IV  
 
@@ -456,9 +456,9 @@ d. de tijdsduur waarvoor gevorderd wordt.
 
 ### Artikel  44  
 
-1.  Bij een beroep tegen een besluit tot vordering als bedoeld in artikel 40, eerste lid, blijft [titel 8.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
+1.  Bij een beroep tegen een besluit tot vordering als bedoeld in artikel 40, eerste lid, blijft titel 8.3 van de Algemene wet bestuursrecht buiten toepassing.   
 2.   De werking van het in het eerste lid bedoelde besluit wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
-3.   De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en doet uiterlijk acht weken na de dag waarop het beroepschrift is ontvangen, uitspraak. Blijkt aan de Afdeling dat de zaak een gewone behandeling vordert, dan doet zij binnen dertien weken uitspraak.  
+3.   De Afdeling behandelt de zaak met toepassing van afdeling 8.2.3 van de Algemene wet bestuursrecht en doet uiterlijk acht weken na de dag waarop het beroepschrift is ontvangen, uitspraak. Blijkt aan de Afdeling dat de zaak een gewone behandeling vordert, dan doet zij binnen dertien weken uitspraak.  
 
 ### Artikel  45  
 
@@ -502,9 +502,9 @@ Burgemeester en wethouders kunnen ambtshalve, dan wel op een daartoe strekkend v
 ### Artikel  51  
 
 1.  Bij de toepassing van artikel 50, eerste lid, stellen burgemeester en wethouders de gebruiksvergoeding vast, die de gebruiker voor het enkele gebruik van de gevorderde woonruimte, het gevorderde gebouw of het gevorderde gedeelte van een gebouw, met de daarbij behorende onroerende aanhorigheden, aan de gemeente maandelijks is verschuldigd.   
-2.   De gebruiksvergoeding wordt vastgesteld met inachtneming van hetgeen krachtens de [artikelen 10, eerste lid](../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [12, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) met betrekking tot de redelijkheid van huurprijzen is bepaald. Voor zover dit niet mogelijk is, wordt de gebruiksvergoeding vastgesteld op een bedrag dat in het economisch verkeer redelijk is.   
+2.   De gebruiksvergoeding wordt vastgesteld met inachtneming van hetgeen krachtens de artikelen 10, eerste lid, en 12, tweede lid, van de Uitvoeringswet huurprijzen woonruimte met betrekking tot de redelijkheid van huurprijzen is bepaald. Voor zover dit niet mogelijk is, wordt de gebruiksvergoeding vastgesteld op een bedrag dat in het economisch verkeer redelijk is.   
 3.   Indien de vordering meer omvat dan het enkele gebruik van de woonruimte, het gebouw of het gedeelte van een gebouw, met de daarbij behorende onroerende aanhorigheden, kunnen burgemeester en wethouders bij hun besluit als bedoeld in het eerste lid tevens bepalen dat de gebruiker aan de gemeente een aanvullende vergoeding verschuldigd is ter dekking van de aan dat meerdere verbonden kosten.   
-4.  De [artikelen 259 tot en met 262 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn op een aanvullende vergoeding als bedoeld in het derde lid van overeenkomstige toepassing, met dien verstande dat voor huurder steeds gebruiker en voor verhuurder steeds burgemeester en wethouders wordt gelezen.   
+4.  De artikelen 259 tot en met 262 van Boek 7 van het Burgerlijk Wetboek zijn op een aanvullende vergoeding als bedoeld in het derde lid van overeenkomstige toepassing, met dien verstande dat voor huurder steeds gebruiker en voor verhuurder steeds burgemeester en wethouders wordt gelezen.   
 5.   Burgemeester en wethouders kunnen bepalen dat de gebruiker het door deze krachtens het eerste en derde lid verschuldigde bedrag, of een gedeelte daarvan, maandelijks betaalt aan de eigenaar van het gevorderde, ter gehele of gedeeltelijke betaling van de geldsommen die de gemeente krachtens artikel 47, eerste lid, aan de eigenaar verschuldigd wordt.   
 6.   Tegelijkertijd met de bekendmaking doen burgemeester en wethouders aan de eigenaar van het gevorderde mededeling van een besluit als bedoeld in het vijfde lid.  
 
@@ -575,7 +575,7 @@ b. zodra de vordering ingevolge een besluit als bedoeld in artikel 55, eerste li
 
 Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:  
 
-a. verblijfsgerechtigden: vreemdelingen die in Nederland op grond van een asielverzoek rechtmatig verblijf hebben als bedoeld in [artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of die houder zijn van een machtiging tot voorlopig verblijf die voldoet aan de in [artikel 29, tweede lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) gestelde voorwaarden;  
+a. verblijfsgerechtigden: vreemdelingen die in Nederland op grond van een asielverzoek rechtmatig verblijf hebben als bedoeld in artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000 of die houder zijn van een machtiging tot voorlopig verblijf die voldoet aan de in artikel 29, tweede lid, van de Vreemdelingenwet 2000 gestelde voorwaarden;  
 
 b. taakstelling: het aantal in opvangcentra of op gemeentelijke opvangplaatsen verkerende verblijfsgerechtigden in wier huisvesting per gemeente per kalenderhalfjaar dient te worden voorzien.   
 
@@ -599,8 +599,8 @@ Gedeputeerde staten zijn bevoegd taakstellingen die volgen uit de toepassing van
 
 ### Artikel  60g  
 
-1. Het dagelijks bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, treedt voor de toepassing van artikel 60c in de plaats van gedeputeerde staten. 
-2. De [artikelen 116](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [117 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) zijn niet van toepassing.
+1. Het dagelijks bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, treedt voor de toepassing van artikel 60c in de plaats van gedeputeerde staten. 
+2. De artikelen 116 en 117 van de Wet gemeenschappelijke regelingen zijn niet van toepassing.
 
 ### §  2  
 
@@ -638,7 +638,7 @@ Alvorens toepassing te geven aan artikel 68, tweede lid, pleegt Onze Minister ov
 
 ### Artikel  72  
 
-1.  Binnen zes weken na verzending van een besluit tot vaststelling van een gebruiksvergoeding als bedoeld in artikel 51, eerste lid, of tot wijziging van de gebruiksvergoeding, bedoeld in artikel 52, kan degene aan wie de woonruimte in gebruik is gegeven, een uitspraak over de redelijkheid van dat besluit vragen aan de huurcommissie, bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
+1.  Binnen zes weken na verzending van een besluit tot vaststelling van een gebruiksvergoeding als bedoeld in artikel 51, eerste lid, of tot wijziging van de gebruiksvergoeding, bedoeld in artikel 52, kan degene aan wie de woonruimte in gebruik is gegeven, een uitspraak over de redelijkheid van dat besluit vragen aan de huurcommissie, bedoeld in artikel 3a van de Uitvoeringswet huurprijzen woonruimte.   
 2.   Een verzoek als bedoeld in het eerste lid wordt schriftelijk ingediend. Onze Minister bepaalt aan welke voorwaarden het verzoek moet voldoen en welke gegevens daarbij moeten worden verstrekt of overgelegd.   
 3.   De huurcommissie doet binnen vier maanden na ontvangst van het verzoek bedoeld in het eerste lid, schriftelijk uitspraak. Zij kan deze termijn met ten hoogste twee maanden verlengen. Zij stelt partijen van de duur van de verlenging in kennis.   
 4.   De uitspraak van de huurcommissie is met redenen omkleed. De huurcommissie vermeldt in haar uitspraak de gebruiksvergoeding die zij redelijk acht.   
@@ -682,7 +682,7 @@ De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een wo
 
 ### Artikel  79  
 
-Burgemeester en wethouders kunnen bepalen dat de toegelaten instellingen als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), die eigenaar zijn van in de gemeente gelegen woonruimten, alsmede andere eigenaren van in de gemeente gelegen woonruimten, aan hen verslag uitbrengen over de huisvesting in die woonruimten van personen, behorende tot daarbij aangegeven categorieën van woningzoekenden die door andere omstandigheden dan hun inkomen moeilijkheden ondervinden bij het vinden van hun passende huisvesting. 
+Burgemeester en wethouders kunnen bepalen dat de toegelaten instellingen als bedoeld in artikel 70, eerste lid, van de Woningwet, die eigenaar zijn van in de gemeente gelegen woonruimten, alsmede andere eigenaren van in de gemeente gelegen woonruimten, aan hen verslag uitbrengen over de huisvesting in die woonruimten van personen, behorende tot daarbij aangegeven categorieën van woningzoekenden die door andere omstandigheden dan hun inkomen moeilijkheden ondervinden bij het vinden van hun passende huisvesting. 
 
 ### Artikel  80  
 
@@ -714,7 +714,7 @@ Een algemene maatregel van bestuur, vastgesteld krachtens deze wet, treedt niet 
 
 ### Artikel  85  
 
-Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de bij of krachtens artikel 75 aangewezen ambtenaren, voor zover zij tevens buitengewoon opsporingsambtenaar zijn. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
+Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de bij of krachtens artikel 75 aangewezen ambtenaren, voor zover zij tevens buitengewoon opsporingsambtenaar zijn. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
 
 ### Artikel  85a  
 
@@ -727,11 +727,11 @@ b.€ 7 500 voor overtreding van de artikelen 8, en 18, eerste lid, en
 
 c.€ 18 500 voor overtreding van de artikelen 7, tweede lid, en 30, eerste lid.  
 3.  De gemeenteraad stelt bij verordening het bedrag vast van de bestuurlijke boete die voor de verschillende overtredingen kan worden opgelegd.   
-4.  In afwijking van het eerste en derde lid treedt het algemeen bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) voor de toepassing van die leden in de plaats van de gemeenteraad.  
+4.  In afwijking van het eerste en derde lid treedt het algemeen bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen voor de toepassing van die leden in de plaats van de gemeenteraad.  
 
 ### Hoofdstuk  X  
 
-####Wijziging van het [Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) 
+####Wijziging van het Wetboek van Strafrecht 
 
 ### Artikel  86  
 
@@ -755,7 +755,7 @@ De gemeenteraad stelt geen regels die leiden tot een algeheel verbod van het in 
 
 ### Artikel  89  
 
-1.  De Woonruimtewet 1947 (*Stb.* H 291) wordt ingetrokken. In de [Woningwet 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) vervallen de [artikelen 56](../../../wet/woningwet/1962/BWBR0002379/README.md) en [56a tot en met 56i](../../../wet/woningwet/1962/BWBR0002379/README.md).   
+1.  De Woonruimtewet 1947 (*Stb.* H 291) wordt ingetrokken. In de Woningwet 1962 vervallen de artikelen 56 en 56a tot en met 56i.   
 2.   Bevat wijzigingen in andere regelgeving.    
 3.   Bevat wijzigingen in andere regelgeving.    
 4.   Bevat wijzigingen in andere regelgeving.    
@@ -771,7 +771,7 @@ Bevat wijzigingen in andere regelgeving.
 1.   Artikel 4, tweede lid, tweede volzin, is niet van toepassing op overeenkomsten als bedoeld in artikel 4, eerste lid, voor zover zij zijn totstandgekomen voor het tijdstip van in werking treden van de desbetreffende bepaling. Uiterlijk drie maanden na dat tijdstip verstrekken burgemeester en wethouders aan de gemeenteraad een overzicht van voor de gemeente verbindende overeenkomsten waarop het bepaalde in de vorige volzin van toepassing is, en van de wijze waarop zij voornemens zijn te bevorderen dat die overeenkomsten worden aangevuld met een bepaling als bedoeld in artikel 4, tweede lid, tweede volzin.   
 2.   Een vergunning, voor het tijdstip van in werking treden van hoofdstuk II van deze wet verleend op grond van artikel 1, eerste lid, van de Woonruimtewet 1947 (*Stb.* H 291), wordt gelijkgesteld met een huisvestingsvergunning.   
 3.   Een woonruimte of gebouw of gedeelte daarvan, op het tijdstip van in werking treden van hoofdstuk IV van deze wet gevorderd op grond van artikel 7, eerste lid, van de Woonruimtewet 1947 (*Stb.* H 291), wordt gelijkgesteld met een woonruimte of gebouw of gedeelte daarvan, gevorderd op grond van artikel 40, met dien verstande dat in plaats van de artikelen 46 tot en met 51 de artikelen 13 en 14 van de Woonruimtewet 1947 (*Stb.* H 291) van toepassing blijven. Een vordering als bedoeld in de eerste volzin, die voor onbepaalde tijd is gedaan, wordt gelijkgesteld met een vordering, gedaan op het tijdstip van in werking treden van hoofdstuk IV van deze wet voor een tijdsduur van tien jaar. Een vordering als bedoeld in de eerste volzin, die voor bepaalde tijd is gedaan, eindigt op het tijdstip dat in het besluit tot vordering is bepaald.   
-4.   Een vergunning, voor het tijdstip van in werking treden van hoofdstuk III van deze wet verleend krachtens [artikel 56](../../../wet/woningwet/1962/BWBR0002379/README.md) of [56a van de Woningwet 1962](../../../wet/woningwet/1962/BWBR0002379/README.md) (*Stb.* 1964, 222), wordt voor zover nodig gelijkgesteld met een vergunning, verleend ingevolge artikel 30, eerste lid, onderscheidenlijk artikel 33.   
+4.   Een vergunning, voor het tijdstip van in werking treden van hoofdstuk III van deze wet verleend krachtens artikel 56 of 56a van de Woningwet 1962 (*Stb.* 1964, 222), wordt voor zover nodig gelijkgesteld met een vergunning, verleend ingevolge artikel 30, eerste lid, onderscheidenlijk artikel 33.   
 5.   Aanvragen om vergunning, ingediend voor het in werking treden van de desbetreffende hoofdstukken van deze wet, worden voor zover nodig behandeld volgens het voordien geldende recht.   
 6.   Artikel 86 is niet van toepassing op woningen en gebouwen waarvan de wederrechtelijke ingebruikneming heeft plaatsgevonden voor het tijdstip waarop dat artikel in werking treedt.   
 7.   In hetgeen overigens met het oog op het in werking treden van deze wet regeling behoeft, wordt voorzien bij algemene maatregel van bestuur.  

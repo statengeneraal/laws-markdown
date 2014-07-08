@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het naar aanleiding van de evaluatie van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wenselijk is gebleken die wet te wijzigen in verband met de uitbreiding van de reikwijdte ervan en het aanbrengen van enkele verbeteringen en de [Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in verband hiermee te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het naar aanleiding van de evaluatie van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur wenselijk is gebleken die wet te wijzigen in verband met de uitbreiding van de reikwijdte ervan en het aanbrengen van enkele verbeteringen en de Wet op de kansspelen, de Wet justitiële en strafvorderlijke gegevens en de Wet milieubeheer in verband hiermee te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
